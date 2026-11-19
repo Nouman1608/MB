@@ -24,7 +24,7 @@ the human sign-off is outstanding for every review-pending resource.
 | --- | --- |
 | With a repository-side verification record | 780 |
 | Corrected in the 4 Oct 2026 programme | 48 |
-| Pending with no reviewer assigned | 0 |
+| Pending with no reviewer assigned | 9 |
 | Showing "Checked by Marlbridge Academic Team" (specCheck) | 0 |
 
 **Review status (frontmatter)**
@@ -57,8 +57,7 @@ the human sign-off is outstanding for every review-pending resource.
 
 | Result | Resources |
 | --- | --- |
-| FAIL | 9 |
-| PASS | 15237 |
+| PASS | 15246 |
 | WARN | 813 |
 
 FAIL = a hard rule broken (unknown board/topic/author, review-state integrity,
@@ -68,15 +67,7 @@ other-scheme tier wording). See `structuralIssues` in the ledger for each row.
 
 ## Ledger integrity
 
-- ocr-as-level-economics-h060-costs-and-revenue-ocr-aslevel-economics-practice: reviewer set while not reviewed
-- ocr-as-level-economics-h060-costs-and-revenue-ocr-aslevel-economics-revision-notes: reviewer set while not reviewed
-- ocr-as-level-economics-h060-costs-and-revenue-ocr-aslevel-economics: reviewer set while not reviewed
-- ocr-as-level-economics-h060-economies-and-diseconomies-of-scale-ocr-aslevel-economics-practice: reviewer set while not reviewed
-- ocr-as-level-economics-h060-economies-and-diseconomies-of-scale-ocr-aslevel-economics-revision-notes: reviewer set while not reviewed
-- ocr-as-level-economics-h060-economies-and-diseconomies-of-scale-ocr-aslevel-economics: reviewer set while not reviewed
-- ocr-as-level-economics-h060-information-asymmetries-ocr-aslevel-economics-practice: reviewer set while not reviewed
-- ocr-as-level-economics-h060-information-asymmetries-ocr-aslevel-economics-revision-notes: reviewer set while not reviewed
-- ocr-as-level-economics-h060-information-asymmetries-ocr-aslevel-economics: reviewer set while not reviewed
+Every resource appears exactly once; every verification record matches an existing resource.
 
 ## Sign-off queue
 

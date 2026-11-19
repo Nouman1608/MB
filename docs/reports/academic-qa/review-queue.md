@@ -6,15 +6,15 @@ Eligible reviewers are teachers who COULD review under the build's rules; nobody
 
 | # | Tier | Resource | Board / code | Type | QA state | Why | Eligible reviewers |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 1 | `ocr-as-level-economics-h060-costs-and-revenue-ocr-aslevel-economics` | ocr H060 | study-guides | BLOCKED | blocked (structural FAIL or open hard-stop) | salman-ahmad |
-| 2 | 1 | `ocr-as-level-economics-h060-costs-and-revenue-ocr-aslevel-economics-practice` | ocr H060 | practice-questions | BLOCKED | blocked (structural FAIL or open hard-stop) | salman-ahmad |
-| 3 | 1 | `ocr-as-level-economics-h060-costs-and-revenue-ocr-aslevel-economics-revision-notes` | ocr H060 | revision-notes | BLOCKED | blocked (structural FAIL or open hard-stop) | salman-ahmad |
-| 4 | 1 | `ocr-as-level-economics-h060-economies-and-diseconomies-of-scale-ocr-aslevel-economics` | ocr H060 | study-guides | BLOCKED | blocked (structural FAIL or open hard-stop) | salman-ahmad |
-| 5 | 1 | `ocr-as-level-economics-h060-economies-and-diseconomies-of-scale-ocr-aslevel-economics-practice` | ocr H060 | practice-questions | BLOCKED | blocked (structural FAIL or open hard-stop) | salman-ahmad |
-| 6 | 1 | `ocr-as-level-economics-h060-economies-and-diseconomies-of-scale-ocr-aslevel-economics-revision-notes` | ocr H060 | revision-notes | BLOCKED | blocked (structural FAIL or open hard-stop) | salman-ahmad |
-| 7 | 1 | `ocr-as-level-economics-h060-information-asymmetries-ocr-aslevel-economics` | ocr H060 | study-guides | BLOCKED | blocked (structural FAIL or open hard-stop) | salman-ahmad |
-| 8 | 1 | `ocr-as-level-economics-h060-information-asymmetries-ocr-aslevel-economics-practice` | ocr H060 | practice-questions | BLOCKED | blocked (structural FAIL or open hard-stop) | salman-ahmad |
-| 9 | 1 | `ocr-as-level-economics-h060-information-asymmetries-ocr-aslevel-economics-revision-notes` | ocr H060 | revision-notes | BLOCKED | blocked (structural FAIL or open hard-stop) | salman-ahmad |
+| 1 | 3 | `ocr-as-level-economics-h060-costs-and-revenue-ocr-aslevel-economics` | ocr H060 | study-guides | AUTOMATED_CHECK_COMPLETE | never verified against its specification | salman-ahmad |
+| 2 | 3 | `ocr-as-level-economics-h060-costs-and-revenue-ocr-aslevel-economics-practice` | ocr H060 | practice-questions | AUTOMATED_CHECK_COMPLETE | never verified against its specification | salman-ahmad |
+| 3 | 3 | `ocr-as-level-economics-h060-costs-and-revenue-ocr-aslevel-economics-revision-notes` | ocr H060 | revision-notes | AUTOMATED_CHECK_COMPLETE | never verified against its specification | salman-ahmad |
+| 4 | 3 | `ocr-as-level-economics-h060-economies-and-diseconomies-of-scale-ocr-aslevel-economics` | ocr H060 | study-guides | AUTOMATED_CHECK_COMPLETE | never verified against its specification | salman-ahmad |
+| 5 | 3 | `ocr-as-level-economics-h060-economies-and-diseconomies-of-scale-ocr-aslevel-economics-practice` | ocr H060 | practice-questions | AUTOMATED_CHECK_COMPLETE | never verified against its specification | salman-ahmad |
+| 6 | 3 | `ocr-as-level-economics-h060-economies-and-diseconomies-of-scale-ocr-aslevel-economics-revision-notes` | ocr H060 | revision-notes | AUTOMATED_CHECK_COMPLETE | never verified against its specification | salman-ahmad |
+| 7 | 3 | `ocr-as-level-economics-h060-information-asymmetries-ocr-aslevel-economics` | ocr H060 | study-guides | AUTOMATED_CHECK_COMPLETE | never verified against its specification | salman-ahmad |
+| 8 | 3 | `ocr-as-level-economics-h060-information-asymmetries-ocr-aslevel-economics-practice` | ocr H060 | practice-questions | AUTOMATED_CHECK_COMPLETE | never verified against its specification | salman-ahmad |
+| 9 | 3 | `ocr-as-level-economics-h060-information-asymmetries-ocr-aslevel-economics-revision-notes` | ocr H060 | revision-notes | AUTOMATED_CHECK_COMPLETE | never verified against its specification | salman-ahmad |
 | 10 | 4 | `ib-dp-environmental-systems-and-societies-assessment-revision-notes` | ib DP Environmental Systems and Societies | revision-notes | AUTOMATED_CHECK_COMPLETE | partly unverifiable against a public source | — |
 | 11 | 4 | `ib-dp-environmental-systems-and-societies-exam-preparation` | ib DP Environmental Systems and Societies | exam-preparation | AUTOMATED_CHECK_COMPLETE | partly unverifiable against a public source | — |
 | 12 | 4 | `ib-dp-environmental-systems-and-societies-syllabus-guide` | ib DP Environmental Systems and Societies | study-guides | AUTOMATED_CHECK_COMPLETE | partly unverifiable against a public source | — |

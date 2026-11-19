@@ -21,26 +21,15 @@
       "UNVERIFIED": 9
     },
     "structuralValidation": {
-      "FAIL": 9,
-      "PASS": 15237,
+      "PASS": 15246,
       "WARN": 813
     },
     "withVerificationRecord": 780,
     "withSpecCheck": 0,
     "correctedInThisProgramme": 48,
-    "pendingWithoutReviewer": 0
+    "pendingWithoutReviewer": 9
   },
-  "integrity": [
-    "ocr-as-level-economics-h060-costs-and-revenue-ocr-aslevel-economics-practice: reviewer set while not reviewed",
-    "ocr-as-level-economics-h060-costs-and-revenue-ocr-aslevel-economics-revision-notes: reviewer set while not reviewed",
-    "ocr-as-level-economics-h060-costs-and-revenue-ocr-aslevel-economics: reviewer set while not reviewed",
-    "ocr-as-level-economics-h060-economies-and-diseconomies-of-scale-ocr-aslevel-economics-practice: reviewer set while not reviewed",
-    "ocr-as-level-economics-h060-economies-and-diseconomies-of-scale-ocr-aslevel-economics-revision-notes: reviewer set while not reviewed",
-    "ocr-as-level-economics-h060-economies-and-diseconomies-of-scale-ocr-aslevel-economics: reviewer set while not reviewed",
-    "ocr-as-level-economics-h060-information-asymmetries-ocr-aslevel-economics-practice: reviewer set while not reviewed",
-    "ocr-as-level-economics-h060-information-asymmetries-ocr-aslevel-economics-revision-notes: reviewer set while not reviewed",
-    "ocr-as-level-economics-h060-information-asymmetries-ocr-aslevel-economics: reviewer set while not reviewed"
-  ],
+  "integrity": [],
   "rowsFile": "docs/reports/academic-review/ledger.csv",
   "rowCount": 16059,
   "columns": [

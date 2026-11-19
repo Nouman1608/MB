@@ -15,10 +15,8 @@ syllabusTopics:
     subtopic: "market-failure-and-externalities-ocr-aslevel-economics"
 description: "OCR AS Level Economics (H060) study guide to information asymmetries: information failure, asymmetric information, moral hazard and information provision."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
 reviewStatus: "archived"
-reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The current H060 specification names information provision as an intervention but lists asymmetric information and moral hazard only in the A Level (H460) information failure topic, so a teacher should confirm the AS scope. Rechecked 2026-11-18: the owner reports that the teacher re-checked this page against the current H060 specification after the flag above and approved it as it stands."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The current H060 specification names information provision as an intervention but lists asymmetric information and moral hazard only in the A Level (H460) information failure topic, so a teacher should confirm the AS scope. Rechecked 2026-11-18: the owner reports that the teacher re-checked this page against the current H060 specification after the flag above and approved it as it stands. Archived 2026-11-19 (owner's decision): Version 3.0 of the H060 specification does not include this topic at AS, so the credit to salman-ahmad no longer applies."
 publishedDate: 2026-11-18
 featured: false
 ---
