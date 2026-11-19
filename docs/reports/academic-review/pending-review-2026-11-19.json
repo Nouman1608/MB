@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "title": "Repository-side academic verification of review-pending resources",
+    "date": "2026-11-19",
+    "programme": "H060 Version 3.0 follow-up (decision log D-507)",
+    "scope": "The three new review-pending Development resources for OCR AS Level Economics (H060) topic 2.2 (site order 4.2): study guide, revision notes and practice questions",
+    "method": "Each resource read in full and checked against the OCR AS Level Economics (H060) Version 3.0 (June 2026) specification text, section 2d (Component 2, H060/02), topic 2.2 Development, for specification identity, coverage of all four 2.2 statements, accuracy at AS level, terminology, cross-board isolation, originality and placeholders. Mark tariffs compared with marking points, following the multi-part total convention of sibling H060 practice pages. Every numerical worked example and answer recomputed in Python. Internal /resources/ links checked against existing files. Factual claims (Brundtland 1987 definition, 17 SDGs 2015-2030, UK net zero 2050, HDI dimensions and UNDP method, UK services share of output) checked against public official sources: UN, UNDP, legislation.gov.uk and ONS. No error found, so no edits were made; enrichment beyond spec wording recorded as minor open issues.",
+    "whatThisIsNot": "Not a teacher review and not a sign-off. No reviewStatus, reviewer, reviewedDate, author or publishedDate was changed. Every resource here remains review-pending until a named, authorised Marlbridge reviewer accepts it under the editorial policy.",
+    "outcomes": {
+      "VERIFIED": "no error found",
+      "VERIFIED_AFTER_CORRECTION": "errors found and corrected in this programme",
+      "PARTIAL_UNVERIFIABLE": "no error found, but material claims could not be checked against a public official source (typically licensed IB guide content or blocked board pages)",
+      "ISSUES_OPEN": "an error remains (none at close)"
+    },
+    "correctiveCommits": {}
+  },
+  "results": [
+    {
+      "slug": "ocr-as-level-economics-h060-development-ocr-aslevel-economics",
+      "specSourceUsed": "https://www.ocr.org.uk/Images/536454-specification-accredited-as-level-gce-economics-h060.pdf",
+      "specIdentity": "PASS",
+      "academicContent": "PASS",
+      "questionsAnswers": "PASS",
+      "calculations": "PASS",
+      "terminology": "PASS",
+      "crossBoardIsolation": "PASS",
+      "tierStage": "PASS",
+      "originality": "PASS",
+      "placeholder": "PASS",
+      "outcome": "VERIFIED",
+      "corrections": [],
+      "unverifiable": [],
+      "correctiveCommits": [],
+      "calculationsRecomputed": "WE1 sector shares Y1 6.0/2.4/3.6 of 12.0 = 50/20/30%, Y20 3.0/4.5/7.5 of 15.0 = 20/30/50%; primary -30 pp and workers halve (3.0/6.0 = 0.5); tertiary +3.9/3.6 = 108.33%. WE2 growth 20/500 = 4.0%; adjusted 495 and 505, 10/495 = 2.02%; extra depletion 10 of 20 bn measured growth = half. Decoupling 1.08/1.20 = 0.90, -10%. WE3 X (72-20)/65 = 0.800, 13.5/18 = 0.750, 20,000/50,000 = 0.400, 1.950/3 = 0.650; Y 39/65 = 0.600, 9/18 = 0.500, 0.600, 1.700/3 = 0.5667; Y income 30,000/20,000 = +50%. Factual claims checked against public official sources: Brundtland definition and 1987 date (UN Academic Impact, un.org/en/academic-impact/sustainability); 17 SDGs adopted 2015, 2030 Agenda (sdgs.un.org/goals); UK net zero by 2050 (SI 2019/1056, Climate Change Act 2008 (2050 Target Amendment) Order 2019, 80% to 100%); HDI dimensions, geometric mean and log income, goalposts 20-85 / 0-18 / 0-15 / 100-75,000 (UNDP HDR 2023/24 technical notes and HDI data-center page); UK services share 812.3 per 1,000 of GVA in 2026 weights, about four-fifths (ONS GDP output low-level aggregates 2026 Q3, worksheet 4).",
+      "openIssues": [
+        {
+          "severity": "minor",
+          "location": "Section 3, worked example 2 and Decoupling",
+          "description": "Natural-capital-adjusted growth and relative versus absolute decoupling are not named in Version 3.0 topic 2.2; correct and relevant to evaluating growth and sustainable development, but enrichment beyond spec wording."
+        },
+        {
+          "severity": "minor",
+          "location": "Section 5, worked example 3",
+          "description": "The simplified HDI (linear income, 0-50,000 goalposts, arithmetic mean, education index from expected years only) is clearly labelled as not the official method; the spec does not require an HDI calculation. The official method is described correctly in the next paragraph."
+        },
+        {
+          "severity": "minor",
+          "location": "Section 2",
+          "description": "SDGs (17 goals, 2015 to 2030) and UK net zero 2050 are context beyond the spec wording; both verified correct."
+        }
+      ]
+    },
+    {
+      "slug": "ocr-as-level-economics-h060-development-ocr-aslevel-economics-revision-notes",
+      "specSourceUsed": "https://www.ocr.org.uk/Images/536454-specification-accredited-as-level-gce-economics-h060.pdf",
+      "specIdentity": "PASS",
+      "academicContent": "PASS",
+      "questionsAnswers": "PASS",
+      "calculations": "PASS",
+      "terminology": "PASS",
+      "crossBoardIsolation": "PASS",
+      "tierStage": "PASS",
+      "originality": "PASS",
+      "placeholder": "PASS",
+      "outcome": "VERIFIED",
+      "corrections": [],
+      "unverifiable": [],
+      "correctiveCommits": [],
+      "calculationsRecomputed": "Worked reminder K 2.0/3.0/5.0 of 10.0 = 20/30/50%; HDI 59.3/65 = 0.9123 (0.912), 14.4/18 = 0.800, 15,000/50,000 = 0.300, sum 2.012, /3 = 0.671 (unrounded 0.6708). Self-test Q3 100/200 = 50%; Q4 45-30 = 15 pp; Q7 46.8/65 = 0.720; Q11 1.05/1.25 = 0.84, -16%. Emissions-per-unit formula (1+e)/(1+g) checked. Factual claims checked against public official sources: Brundtland definition and 1987 date (UN Academic Impact, un.org/en/academic-impact/sustainability); 17 SDGs adopted 2015, 2030 Agenda (sdgs.un.org/goals); UK net zero by 2050 (SI 2019/1056, Climate Change Act 2008 (2050 Target Amendment) Order 2019, 80% to 100%); HDI dimensions, geometric mean and log income, goalposts 20-85 / 0-18 / 0-15 / 100-75,000 (UNDP HDR 2023/24 technical notes and HDI data-center page); UK services share 812.3 per 1,000 of GVA in 2026 weights, about four-fifths (ONS GDP output low-level aggregates 2026 Q3, worksheet 4).",
+      "openIssues": [
+        {
+          "severity": "minor",
+          "location": "Formulas and Worked reminder",
+          "description": "Simplified HDI calculation is beyond Version 3.0 2.2 (spec asks only to evaluate HDI usefulness); labelled 'practice only' and the FAQ says so explicitly."
+        }
+      ]
+    },
+    {
+      "slug": "ocr-as-level-economics-h060-development-ocr-aslevel-economics-practice",
+      "specSourceUsed": "https://www.ocr.org.uk/Images/536454-specification-accredited-as-level-gce-economics-h060.pdf",
+      "specIdentity": "PASS",
+      "academicContent": "PASS",
+      "questionsAnswers": "PASS",
+      "calculations": "PASS",
+      "terminology": "PASS",
+      "crossBoardIsolation": "PASS",
+      "tierStage": "PASS",
+      "originality": "PASS",
+      "placeholder": "PASS",
+      "outcome": "VERIFIED",
+      "corrections": [],
+      "unverifiable": [],
+      "correctiveCommits": [],
+      "calculationsRecomputed": "Q3 4.5/(1.8+2.7+4.5 = 9.0) = 50%; Q5 46.8/65 = 0.720, 12.6/18 = 0.700, 14,000/50,000 = 0.280, 1.700/3 = 0.567; Q7 table rows each sum to 100; Q7(a) 56-42 = 14 pp; Q7(b) primary 34 to 15, secondary 24 to 31 to 29; Q8(a) 8,000/16,000 = 50%. Tariffs vs marking points: Q1 2, Q2 1, Q3 1, Q4 1, Q5 3, Q6 2, Q7 1+2+4 = 7 (total placed at end of (c), same convention as sibling H060 practice pages), Q8 1+4 = 5, Q9 4, Q10 6, Q11 10 (8 single points + 2-mark judgement). Answers to MCQ Q2 (C insurance) and Q4 (D inequality) correct. Factual claims checked against public official sources: Brundtland definition and 1987 date (UN Academic Impact, un.org/en/academic-impact/sustainability); 17 SDGs adopted 2015, 2030 Agenda (sdgs.un.org/goals); UK net zero by 2050 (SI 2019/1056, Climate Change Act 2008 (2050 Target Amendment) Order 2019, 80% to 100%); HDI dimensions, geometric mean and log income, goalposts 20-85 / 0-18 / 0-15 / 100-75,000 (UNDP HDR 2023/24 technical notes and HDI data-center page); UK services share 812.3 per 1,000 of GVA in 2026 weights, about four-fifths (ONS GDP output low-level aggregates 2026 Q3, worksheet 4).",
+      "openIssues": [
+        {
+          "severity": "minor",
+          "location": "Q5",
+          "description": "Simplified HDI calculation is beyond Version 3.0 2.2 (no HDI calculation listed); method and goalposts are stated in the question, so it is self-contained."
+        }
+      ]
+    }
+  ]
+}
