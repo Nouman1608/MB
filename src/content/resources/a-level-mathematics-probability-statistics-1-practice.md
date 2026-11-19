@@ -48,9 +48,9 @@ Each question practises a skill tested in the June 2025 Paper 5 series. After ea
 
 **2.** 60% of the residents of a town own a car. A random sample of 150 residents is chosen. Use a suitable approximation to find the probability that more than 100 of them own a car. **[5]**
 
-**3.** A bag contains 5 green marbles and 10 yellow marbles. A marble is taken at random. If it is green it is put back; if it is yellow it is not. A second marble is then taken at random.
-**(a)** Show that the probability that the second marble is yellow is 41/63.
-**(b)** Find the probability that the first marble was green, given that the second marble is yellow. **[4]**
+**3.** On any school day, the probability that it rains is 0.3. If it rains, the probability that a student, Leila, is late for school is 0.4. If it does not rain, the probability that she is late is 0.15.
+**(a)** Show that the probability that Leila is late on a randomly chosen school day is 9/40.
+**(b)** Find the probability that it rained, given that Leila is late. **[4]**
 
 **4.** At a junction, 20% of vehicles turn left, independently of each other.
 **(a)** Find the probability that the first vehicle to turn left is the 5th vehicle.
@@ -80,10 +80,10 @@ Each question practises a skill tested in the June 2025 Paper 5 series. After ea
 
 *Try the real question next:* Cambridge International AS & A Level Mathematics 9709, June 2025, Paper 52, Question 2.
 
-**3.** **(a)** P(G then Y) = 5/15 × 10/15 = 2/9 [1]. P(Y then Y) = 10/15 × 9/14 = 3/7. Total = 14/63 + 27/63 = **41/63** [1].
-**(b)** P(first G | second Y) = (2/9) ÷ (41/63) [1] = (14/63) ÷ (41/63) = **14/41** [1].
+**3.** **(a)** P(rain and late) = 0.3 × 0.4 = 0.12 [1]. P(no rain and late) = 0.7 × 0.15 = 0.105. Total = 0.12 + 0.105 = 0.225 = **9/40** [1].
+**(b)** P(rain | late) = P(rain and late) ÷ P(late) = 0.12 ÷ 0.225 [1] = **8/15** [1].
 
-*Tip:* the second draw depends on the first, so draw a tree diagram with different second-branch probabilities.
+*Tip:* the second-stage probabilities depend on the first stage, so draw a tree diagram with different second-branch probabilities after each first branch.
 
 *Try the real question next:* Cambridge International AS & A Level Mathematics 9709, June 2025, Paper 52, Question 3.
 

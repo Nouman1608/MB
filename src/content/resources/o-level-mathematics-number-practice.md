@@ -34,35 +34,35 @@ Most questions practise a skill tested in the June 2025 papers. Questions marked
 
 ## Questions
 
-**1.** *(no calculator)* Work out **(a)** 7 − 3 × (−5) **(b)** 60 × 0.3. **[2]**
+**1.** *(no calculator)* Work out **(a)** (−4)² − 18 ÷ 3 **(b)** 0.4 × 0.07. **[2]**
 
 **2.** *(no calculator)* Write 180 as a product of its prime factors. **[2]**
 
 **3.** *(no calculator)* Find the highest common factor (HCF) and the lowest common multiple (LCM) of 84 and 90. **[3]**
 
-**4.** *(no calculator)* In a sale, all prices are reduced by 15%. **(a)** A jacket costs $60 before the sale. Find its sale price. **(b)** The sale price of a bag is $68. Find its price before the sale. **[3]**
+**4.** *(no calculator)* A gym increases all of its fees by 12%. **(a)** The monthly fee was $45 before the increase. Find the new monthly fee. **(b)** The new yearly fee is $560. Find the yearly fee before the increase. **[3]**
 
-**5.** **(a)** Write the ratio 250 ml : 1.5 litres in its simplest form. **(b)** Share $720 in the ratio 2 : 3 : 4. Find the largest share. **[3]**
+**5.** **(a)** Write the ratio 45 cm : 1.8 m in its simplest form. **(b)** A fruit punch is made from orange juice, mango juice and water in the ratio 3 : 2 : 5. Sam uses 600 ml of mango juice. How many litres of punch does he make? **[3]**
 
 **6.** *(no calculator)* By rounding each number to 1 significant figure, estimate the value of (61.2 × 3.87) ÷ 0.198. **[2]**
 
-**7.** *(no calculator)* **(a)** Simplify √75 − √12. **(b)** Rationalise the denominator of 6/√3. **[3]**
+**7.** *(no calculator)* **(a)** Simplify √48 + √27. **(b)** Rationalise the denominator of 6/√3. **[3]**
 
 **8.** *(no calculator)* Write the recurring decimal 0.272727… as a fraction in its simplest form. **[2]**
 
-**9.** $3000 is invested at 2% per year compound interest. Find the total interest after 2 years. **[3]**
+**9.** A car is bought for $18 000. Its value decreases by 12% each year. Find its value after 3 years. **[3]**
 
-**10.** A distance of 400 m is measured correct to the nearest 10 m. The time taken is 50 seconds, correct to the nearest second. Find the upper bound of the average speed. **[3]**
+**10.** The mass of a metal block is 840 g, correct to the nearest 10 g. Its volume is 110 cm³, correct to the nearest 5 cm³. Find the upper bound of its density. **[3]**
 
-**11.** A country has a population of 4.8 × 10⁷ and an area of 6 × 10⁵ km². Find the population density, in people per km². **[2]**
+**11.** A hard drive can store 2.4 × 10¹² bytes. Each photo uses 8 × 10⁶ bytes. How many photos can the hard drive store? Give your answer in standard form. **[2]**
 
 ---
 
 ## Answers
 
-**1.** **(a)** 3 × (−5) = −15, so 7 − (−15) = **22** [1]. **(b)** **18** [1].
+**1.** **(a)** (−4)² = 16 and 18 ÷ 3 = 6, so 16 − 6 = **10** [1]. **(b)** 4 × 7 = 28, and there are three decimal places in total, so the answer is **0.028** [1].
 
-*Tip:* do the multiplication before the subtraction, and take care with two negative signs.
+*Tip:* work out powers and division before subtraction, and remember that a negative number squared is positive.
 
 *Try the real question next:* Cambridge O Level Mathematics 4024, June 2025, Paper 12, Question 1.
 
@@ -78,13 +78,13 @@ Most questions practise a skill tested in the June 2025 papers. Questions marked
 
 *Try the real question next:* Cambridge O Level Mathematics 4024, June 2025, Paper 12, Question 10.
 
-**4.** **(a)** 85% of 60 = 0.85 × 60 = **$51** [1]. **(b)** 68 is 85% of the original price [1], so the original price = 68 ÷ 0.85 = **$80** [1].
+**4.** **(a)** 112% of 45 = 45 + 0.12 × 45 = 45 + 5.40 = **$50.40** [1]. **(b)** 560 is 112% of the old fee [1], so the old fee = 560 ÷ 1.12 = **$500** [1].
 
-*Tip:* to reverse a percentage change, divide by the multiplier. Adding 15% of the sale price gives the wrong answer.
+*Tip:* to reverse a percentage change, divide by the multiplier. Subtracting 12% of the new fee gives the wrong answer ($492.80).
 
 *Try the real question next:* Cambridge O Level Mathematics 4024, June 2025, Paper 12, Question 13.
 
-**5.** **(a)** 250 : 1500 = **1 : 6** [1]. **(b)** 2 + 3 + 4 = 9 parts, so one part = 720 ÷ 9 = $80 [1]. Largest share = 4 × 80 = **$320** [1].
+**5.** **(a)** 45 : 180 = **1 : 4** [1]. **(b)** Mango juice is 2 parts, so one part = 600 ÷ 2 = 300 ml [1]. The punch is 3 + 2 + 5 = 10 parts = 3000 ml = **3 litres** [1].
 
 *Tip:* put both quantities in the same units before you simplify a ratio.
 
@@ -96,7 +96,7 @@ Most questions practise a skill tested in the June 2025 papers. Questions marked
 
 *Try the real question next:* Cambridge O Level Mathematics 4024, June 2025, Paper 12, Question 9.
 
-**7.** **(a)** √75 = 5√3 and √12 = 2√3 [1], so the answer is **3√3** [1]. **(b)** 6/√3 × √3/√3 = 6√3/3 = **2√3** [1].
+**7.** **(a)** √48 = 4√3 and √27 = 3√3 [1], so the answer is **7√3** [1]. **(b)** 6/√3 × √3/√3 = 6√3/3 = **2√3** [1].
 
 *Tip:* look for the largest square factor inside each root.
 
@@ -108,19 +108,19 @@ Most questions practise a skill tested in the June 2025 papers. Questions marked
 
 *Try the real question next:* Cambridge O Level Mathematics 4024, June 2025, Paper 12, Question 20.
 
-**9.** Value = 3000 × 1.02² [1] = $3121.20 [1]. Interest = **$121.20** [1].
+**9.** A 12% decrease each year means a multiplier of 0.88 [1]. Value = 18 000 × 0.88³ [1] = **$12 266.50** [1].
 
-*Tip:* the question asks for the interest, so subtract the amount invested at the end.
+*Tip:* use the multiplier once for each year. Taking 3 × 12% = 36% off is wrong, because each year's decrease is taken from a smaller value.
 
 *Try the real question next:* Cambridge O Level Mathematics 4024, June 2025, Paper 22, Question 11.
 
-**10.** Upper bound of distance = 405 m; lower bound of time = 49.5 s [1]. Upper bound of speed = 405 ÷ 49.5 [1] = **8.18 m/s** [1].
+**10.** Upper bound of mass = 845 g; lower bound of volume = 107.5 cm³ [1]. Upper bound of density = 845 ÷ 107.5 [1] = **7.86 g/cm³** [1].
 
-*Tip:* for the largest speed, divide the largest distance by the smallest time.
+*Tip:* for the largest density, divide the largest mass by the smallest volume.
 
 *Try the real question next:* Cambridge O Level Mathematics 4024, June 2025, Paper 22, Question 23.
 
-**11.** (4.8 × 10⁷) ÷ (6 × 10⁵) = 0.8 × 10² [1] = **80 people per km²** [1].
+**11.** (2.4 × 10¹²) ÷ (8 × 10⁶) = 0.3 × 10⁶ [1] = **3 × 10⁵ photos** [1].
 
 *Tip:* divide the number parts and subtract the powers of 10 separately.
 
@@ -131,9 +131,9 @@ Most questions practise a skill tested in the June 2025 papers. Questions marked
 ## Where marks are usually lost
 
 - Dividing by the wrong bound in a bounds question.
-- Adding the percentage back on instead of dividing by the multiplier.
+- Taking the percentage off the new value instead of dividing by the multiplier.
 - Leaving a surd or fraction not fully simplified.
-- Giving the total amount when the question asks for the interest.
+- Taking the same amount off each year instead of using a multiplier for a compound change.
 
 ## Frequently asked questions
 
@@ -141,10 +141,10 @@ Most questions practise a skill tested in the June 2025 papers. Questions marked
 Write both numbers as products of prime factors. The HCF uses the lowest power of each shared prime, and the LCM uses the highest power of every prime that appears.
 
 **How do you reverse a percentage change?**
-Divide by the multiplier. If a price after a 15% reduction is known, divide it by 0.85; adding 15% of the sale price back on gives the wrong answer.
+Divide by the multiplier. If a fee after a 12% increase is known, divide it by 1.12; subtracting 12% of the new fee gives the wrong answer.
 
-**Which bounds do you use to find the largest possible speed?**
-Divide the upper bound of the distance by the lower bound of the time. Dividing by the wrong bound is a common way to lose marks in bounds questions.
+**Which bounds do you use to find the largest possible value of a quotient, such as a speed or a density?**
+Divide the upper bound of the top quantity by the lower bound of the bottom one, for example the largest distance by the smallest time. Dividing by the wrong bound is a common way to lose marks in bounds questions.
 
 **How are estimation questions marked in Cambridge O Level Mathematics?**
 Round each number to 1 significant figure and show the rounded values in your working, because the method mark depends on them.

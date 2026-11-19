@@ -64,13 +64,13 @@ Each question practises a skill tested in the June 2025 Paper 1 series. After ea
 **(a)** Find the coordinates of the centre C and the radius of the circle.
 **(b)** The line y = 2 meets the circle at A and B. Find the angle ACB in radians, correct to 3 significant figures. **[4]**
 
-**6.** A curve is such that `d²y/dx² = 16/x³`. The curve has a stationary point where x = 2.
+**6.** A curve, defined for x > 0, is such that `d²y/dx² = 1 − 9/x²`. The curve has a stationary point where x = 1.
 **(a)** Find an expression for dy/dx.
 **(b)** Find the x-coordinate of the other stationary point, and determine its nature. **[4]**
 
-**7.** The first three terms of an arithmetic progression are 3k, k² and 5k, where k is a non-zero constant.
+**7.** The first three terms of an arithmetic progression are 2k + 1, 5k − 2 and 6k + 3, where k is a constant.
 **(a)** Find the value of k.
-**(b)** Find the sum of the first 20 terms. **[4]**
+**(b)** Find the sum of the first 15 terms. **[4]**
 
 **8.** The third and fifth terms of a geometric progression are 48 and 12. The common ratio is positive. Find the sum to infinity. **[3]**
 
@@ -114,17 +114,17 @@ Each question practises a skill tested in the June 2025 Paper 1 series. After ea
 
 *Try the real question next:* Cambridge International AS & A Level Mathematics 9709, June 2025, Paper 12, Question 8.
 
-**6.** **(a)** dy/dx = ∫16x⁻³ dx = −8x⁻² + c [1]. At x = 2, dy/dx = 0: −2 + c = 0, so c = 2, and **dy/dx = 2 − 8/x²** [1].
-**(b)** 2 − 8/x² = 0 gives x² = 4, so the other stationary point is at **x = −2** [1]. At x = −2, d²y/dx² = 16/(−8) = −2 < 0, so it is a **maximum** [1].
+**6.** **(a)** dy/dx = ∫(1 − 9x⁻²) dx = x + 9x⁻¹ + c [1]. At x = 1, dy/dx = 0: 1 + 9 + c = 0, so c = −10, and **dy/dx = x + 9/x − 10** [1].
+**(b)** x + 9/x − 10 = 0 gives x² − 10x + 9 = 0, so (x − 1)(x − 9) = 0 and the other stationary point is at **x = 9** [1]. At x = 9, d²y/dx² = 1 − 9/81 = 8/9 > 0, so it is a **minimum** [1].
 
 *Tip:* use the given stationary point to find the constant of integration. Without it you cannot find the other point.
 
 *Try the real question next:* Cambridge International AS & A Level Mathematics 9709, June 2025, Paper 12, Question 9.
 
-**7.** **(a)** In an AP, the middle term is the mean of its neighbours: 2k² = 3k + 5k = 8k [1]. As k ≠ 0, **k = 4** [1].
-**(b)** The terms are 12, 16, 20, …, so a = 12 and d = 4 [1]. S₂₀ = 20/2 × (2 × 12 + 19 × 4) = 10 × 100 = **1000** [1].
+**7.** **(a)** In an AP, the middle term is the mean of its neighbours: 2(5k − 2) = (2k + 1) + (6k + 3), so 10k − 4 = 8k + 4 [1], giving **k = 4** [1].
+**(b)** The terms are 9, 18, 27, …, so a = 9 and d = 9 [1]. S₁₅ = 15/2 × (2 × 9 + 14 × 9) = 7.5 × 144 = **1080** [1].
 
-*Tip:* state why you can divide by k (it is non-zero), so you don't lose the k = 0 case without reason.
+*Tip:* check your value of k by writing out the three terms: the two differences must be equal.
 
 *Try the real question next:* Cambridge International AS & A Level Mathematics 9709, June 2025, Paper 12, Question 10(a).
 

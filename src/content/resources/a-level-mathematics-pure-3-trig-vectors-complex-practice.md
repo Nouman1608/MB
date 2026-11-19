@@ -61,7 +61,7 @@ Each question practises a skill tested in the June 2025 Paper 32. After each ans
 **(a)** Calculate the exact value of cos QPR by means of a scalar product.
 **(b)** Use your answer to part (a) to find the area of triangle PQR in exact form. **[5]**
 
-**7.** Form a quartic equation in x and use it to find both square roots of `1 − 4√3 i`, giving each as x + iy with x and y exact real numbers. **[5]**
+**7.** Find both square roots of the complex number `7 − 6√2 i`, giving each as x + iy where x and y are exact real numbers. Show your working, including the equation in x that you solve. **[5]**
 
 **8.** The complex number z satisfies `|z − 6 − 8i| = 3`. Find the least possible value of |z|. **[2]**
 
@@ -108,9 +108,9 @@ Each question practises a skill tested in the June 2025 Paper 32. After each ans
 
 *Try the real question next:* Cambridge International AS & A Level Mathematics 9709, June 2025, Paper 32, Question 9.
 
-**7.** Let (x + iy)² = 1 − 4√3 i. Comparing real and imaginary parts: x² − y² = 1 and 2xy = −4√3 [1]. So y = −2√3/x and x² − 12/x² = 1, giving `x⁴ − x² − 12 = 0` [1]. `(x² − 4)(x² + 3) = 0`, and x is real, so x² = 4 and x = ±2 [1]. Then y = ∓√3 [1]. The square roots are **2 − √3 i** and **−2 + √3 i** [1].
+**7.** Let (x + iy)² = 7 − 6√2 i. Comparing real and imaginary parts: x² − y² = 7 and 2xy = −6√2 [1]. So y = −3√2/x and x² − 18/x² = 7, giving `x⁴ − 7x² − 18 = 0` [1]. `(x² − 9)(x² + 2) = 0`, and x is real, so x² = 9 and x = ±3 [1]. Then y = ∓√2 [1]. The square roots are **3 − √2 i** and **−3 + √2 i** [1].
 
-*Tip:* match the sign of y to each value of x using 2xy, and reject x² = −3 because x must be real.
+*Tip:* match the sign of y to each value of x using 2xy, and reject x² = −2 because x must be real.
 
 *Try the real question next:* Cambridge International AS & A Level Mathematics 9709, June 2025, Paper 32, Question 5.
 

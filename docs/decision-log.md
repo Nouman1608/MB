@@ -16653,3 +16653,9 @@ Source: the owner's "Master Academic Quality Assurance, Content Authority & Sear
   - Follow-up checks found two more pages with the same gaps:
     - the J248 electrolysis practice set said every question suits both tiers; its intro is corrected and each half-equation part is marked *(Higher Tier only)*;
     - the J249 matter study guide and revision notes now mark liquid pressure (P1.3i, P1.3j and p = h ρ g, bold in the specification) as Higher Tier only.
+- **Maths practice compared with the June 2025 papers.** Six pages were checked question by question against the owner's June 2025 Cambridge papers in OneDrive. These were 9709 Papers 12, 32, 42 and 52 and 4024 Papers 12 and 22.
+  - OneDrive holds only the mark schemes for the four 9709 papers, not the question papers. Those pages were compared on numbers, functions and working; wording could not be checked.
+  - 55 questions were checked. 40 are original. 15 copied a real question's numbers or set-up too closely and were rewritten with new set-ups and the same tariffs. Every answer was recomputed.
+    - Pure 1: 2 rewritten; Pure 3 trigonometry, vectors and complex numbers: 1; Mechanics: 4; Probability and Statistics 1: 1; O Level Number: 7.
+    - Pure 3 algebra and calculus needed no change.
+  - No paper text was copied into the repository.
