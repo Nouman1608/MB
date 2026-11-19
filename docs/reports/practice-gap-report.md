@@ -1,6 +1,6 @@
 # Practice-question gap report
 
-Generated 2026-11-19T14:17:18.539Z. Section 13 scope: practice-question coverage gaps for the
+Generated 2026-11-19T14:58:06.457Z. Section 13 scope: practice-question coverage gaps for the
 five flagship specifications only -- see src/utils/practice/gap-report.ts for the full
 rationale and docs/decision-log.md D-108 for what this deliberately does not attempt.
 
@@ -18,27 +18,11 @@ No zero-question subtopics.
 
 No zero-question subtopics.
 
-### Topic-tagged only, not subtopic-level (1)
-
-Real questions exist for these topics, but the source frontmatter doesn't say which
-subtopic -- excluded from both the gap list and the coverage count above.
-
-- 6. Space physics — igcse-physics-0625-space-physics-practice (13 questions)
-
 ## Cambridge IGCSE Mathematics (0580, 2025-2027)
 
 1080 questions · 72/72 subtopics covered (100%)
 
 No zero-question subtopics.
-
-### Topic-tagged only, not subtopic-level (3)
-
-Real questions exist for these topics, but the source frontmatter doesn't say which
-subtopic -- excluded from both the gap list and the coverage count above.
-
-- 2. Algebra and graphs — igcse-mathematics-0580-graphs-in-practical-situations-practice (11 questions)
-- 2. Algebra and graphs — igcse-mathematics-0580-graphs-of-functions-and-sketching-curves-practice (11 questions)
-- 1. Number — igcse-mathematics-0580-powers-roots-and-indices-practice (11 questions)
 
 ## Cambridge A Level Chemistry (9701, 2025-2027)
 
