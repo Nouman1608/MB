@@ -53,7 +53,7 @@ Other useful pages: the [course hub](/boards/oxfordaqa/igcse/chemistry/), the [p
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--01-alloy-layers.webp" width="900" height="1290" alt="Two particle diagrams: a pure metal with same-size atoms in neat layers that slide when pushed, and an alloy with some larger atoms that jam the layers. Atoms of two different sizes mark a diagram as an alloy." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-oxfordaqa-alloy-layers.svg" width="900" height="1290" alt="Two particle diagrams: a pure metal with same-size atoms in neat layers that slide when pushed, and an alloy with some larger atoms that jam the layers. Atoms of two different sizes mark a diagram as an alloy." loading="lazy">
   <figcaption>Different-sized atoms stop the layers sliding, so an alloy is harder than the pure metal.</figcaption>
 </figure>
 
@@ -108,12 +108,12 @@ Small reminder: copper wire in silver nitrate solution. Cu + 2AgNO₃ → Cu(NO�
 Scrap iron and copper solution: **Fe + Cu²⁺ → Fe²⁺ + Cu**.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/metal-properties-and-reactivity--04-displacement.webp" width="900" height="940" alt="An iron nail in blue copper(II) sulfate becomes coated in pink-brown copper while the solution turns pale green. Iron atoms lose two electrons to form Fe2+ and the copper ions gain them to form copper atoms." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-shared-intl-displacement.svg" width="900" height="940" alt="An iron nail in blue copper(II) sulfate becomes coated in pink-brown copper while the solution turns pale green. Iron atoms lose two electrons to form Fe2+ and the copper ions gain them to form copper atoms." loading="lazy">
   <figcaption>The more reactive metal loses electrons and displaces the less reactive metal.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/redox-reactions--02-electron-transfer.webp" width="900" height="920" alt="A zinc atom becomes a Zn2+ ion by losing two electrons (oxidation). A downward arrow carries the two electrons to a Cu2+ ion, which becomes a copper atom (reduction). No oxygen is involved." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-shared-intl-electron-transfer.svg" width="900" height="920" alt="A zinc atom becomes a Zn2+ ion by losing two electrons (oxidation). A downward arrow carries the two electrons to a Cu2+ ion, which becomes a copper atom (reduction). No oxygen is involved." loading="lazy">
   <figcaption>Zinc loses two electrons and Cu2+ gains them: oxidation and reduction without any oxygen.</figcaption>
 </figure>
 
@@ -155,12 +155,12 @@ Raw materials: iron ore, coke, limestone, hot air. Overall with carbon: 2Fe₂O�
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--04-iron-steps.webp" width="900" height="1030" alt="Ball models and balanced equations for steps 1-3: coke burns to carbon dioxide, carbon dioxide and more coke make carbon monoxide, and carbon monoxide reduces iron(III) oxide to iron." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-oxfordaqa-iron-steps.svg" width="900" height="1030" alt="Ball models and balanced equations for steps 1-3: coke burns to carbon dioxide, carbon dioxide and more coke make carbon monoxide, and carbon monoxide reduces iron(III) oxide to iron." loading="lazy">
   <figcaption>Carbon monoxide, made from coke, does the reducing of iron oxide.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--05-slag.webp" width="900" height="910" alt="Limestone breaks down to lime and carbon dioxide, then lime reacts with silica (sand) to make slag. The slag floats on top of the molten iron and is drawn off separately." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-oxfordaqa-slag.svg" width="900" height="910" alt="Limestone breaks down to lime and carbon dioxide, then lime reacts with silica (sand) to make slag. The slag floats on top of the molten iron and is drawn off separately. The slag-tapping diagram is marked not required by OxfordAQA, as furnace detail." loading="lazy">
   <figcaption>Slag carries away the silica impurity and floats on the iron.</figcaption>
 </figure>
 
@@ -192,7 +192,7 @@ With a copper anode instead: Cu → Cu²⁺ + 2e⁻ (the anode dissolves).
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--05-copper-sulfate-electrodes.webp" width="900" height="1200" alt="Blue copper(II) sulfate solution is electrolysed twice. With graphite, copper coats the cathode and oxygen bubbles form at the anode. With copper electrodes copper again deposits, but the anode dissolves and gets smaller." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-oxfordaqa-copper-sulfate-electrodes.svg" width="900" height="1200" alt="Blue copper(II) sulfate solution is electrolysed twice. With graphite, copper coats the cathode and oxygen bubbles form at the anode. With copper electrodes copper again deposits, but the anode dissolves and gets smaller." loading="lazy">
   <figcaption>Copper deposits at the cathode either way; the anode gives oxygen with graphite but dissolves if it is copper.</figcaption>
 </figure>
 
@@ -289,7 +289,7 @@ Example: Li₂CO₃ + 2HNO₃ → 2LiNO₃ + H₂O + CO₂
 - Including sodium carbonate in the list of carbonates that break down in a Bunsen flame.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--06-aluminium-cell.webp" width="900" height="1080" alt="An electrolysis cell: carbon anodes dip into molten cryolite containing dissolved aluminium oxide. Al3+ ions move to the cathode and form molten aluminium; O2- ions go to the anodes and form oxygen, which burns the carbon anodes away as carbon dioxide." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-oxfordaqa-aluminium-cell.svg" width="900" height="1080" alt="An electrolysis cell: carbon anodes dip into molten cryolite containing dissolved aluminium oxide. Al3+ ions move to the cathode and form molten aluminium; O2- ions go to the anodes and form oxygen, which burns the carbon anodes away as carbon dioxide." loading="lazy">
   <figcaption>Aluminium oxide is dissolved in molten cryolite and electrolysed; the carbon anodes burn away and are replaced.</figcaption>
 </figure>
 

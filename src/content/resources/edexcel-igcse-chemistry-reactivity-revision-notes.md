@@ -172,7 +172,7 @@ Redox view: zinc is OXIDISED (loses electrons, Zn -> Zn2+);
 ```
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/metal-properties-and-reactivity--04-displacement.webp" width="900" height="940" alt="An iron nail in blue copper(II) sulfate becomes coated in pink-brown copper while the solution turns pale green. Iron atoms lose two electrons to form Fe2+ and the copper ions gain them to form copper atoms." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-shared-intl-displacement.svg" width="900" height="940" alt="An iron nail in blue copper(II) sulfate becomes coated in pink-brown copper while the solution turns pale green. Iron atoms lose two electrons to form Fe2+ and the copper ions gain them to form copper atoms." loading="lazy">
   <figcaption>The more reactive metal loses electrons and displaces the less reactive metal.</figcaption>
 </figure>
 

@@ -79,7 +79,7 @@ Electrolysis uses a lot of electricity, so it costs more. It is used only when c
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--04-iron-steps.webp" width="900" height="1030" alt="Ball models and balanced equations for steps 1-3: coke burns to carbon dioxide, carbon dioxide and more coke make carbon monoxide, and carbon monoxide reduces iron(III) oxide to iron." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-edexcel-iron-steps.svg" width="900" height="1030" alt="Ball models and balanced equations for steps 1-3: coke burns to carbon dioxide, carbon dioxide and more coke make carbon monoxide, and carbon monoxide reduces iron(III) oxide to iron. The whole figure is marked Paper 2 only, and steps 1 and 2 are marked not required by Edexcel." loading="lazy">
   <figcaption>Carbon monoxide, made from coke, does the reducing of iron oxide.</figcaption>
 </figure>
 
@@ -117,7 +117,7 @@ Electrolysis uses a lot of electricity, so it costs more. It is used only when c
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--06-aluminium-cell.webp" width="900" height="1080" alt="An electrolysis cell: carbon anodes dip into molten cryolite containing dissolved aluminium oxide. Al3+ ions move to the cathode and form molten aluminium; O2- ions go to the anodes and form oxygen, which burns the carbon anodes away as carbon dioxide." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-edexcel-aluminium-cell.svg" width="900" height="1080" alt="An electrolysis cell: carbon anodes dip into molten cryolite containing dissolved aluminium oxide. Al3+ ions move to the cathode and form molten aluminium; O2- ions go to the anodes and form oxygen, which burns the carbon anodes away as carbon dioxide. The whole figure is marked Paper 2 only; the cryolite note and the burning-anode box are marked not required by Edexcel." loading="lazy">
   <figcaption>Aluminium oxide is dissolved in molten cryolite and electrolysed; the carbon anodes burn away and are replaced.</figcaption>
 </figure>
 
@@ -168,7 +168,7 @@ Memory hook: **more carbon → harder but more brittle**.
 > 3. So the layers slide over each other less easily → harder.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--01-alloy-layers.webp" width="900" height="1290" alt="Two particle diagrams: a pure metal with same-size atoms in neat layers that slide when pushed, and an alloy with some larger atoms that jam the layers. Atoms of two different sizes mark a diagram as an alloy." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-edexcel-alloy-layers.svg" width="900" height="1290" alt="Two particle diagrams: a pure metal with same-size atoms in neat layers that slide when pushed, and an alloy with some larger atoms that jam the layers. Atoms of two different sizes mark a diagram as an alloy. The whole figure is marked Paper 2 only." loading="lazy">
   <figcaption>Different-sized atoms stop the layers sliding, so an alloy is harder than the pure metal.</figcaption>
 </figure>
 

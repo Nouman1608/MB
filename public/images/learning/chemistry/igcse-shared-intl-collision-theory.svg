@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="910" viewBox="0 0 1800 1820" role="img" aria-labelledby="title desc"><title id="title">What makes a collision work?</title><desc id="desc">No tier label: collision theory and activation energy are on both Edexcel International GCSE papers (4CH1 3.11, 3.13) and OxfordAQA International GCSE Chemistry is not tiered (9202 3.8.1b). Slow: particles A and B move towards each other slowly, collide without enough energy and bounce apart, with no reaction. Fast: they collide with energy at least equal to the activation energy, Ea, and react to form a new substance, AB. Arrow length shows speed.</desc><rect width="1800" height="1820" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="92" font-size="64" font-weight="700" fill="#1E2B47" text-anchor="middle">What makes a collision work?</text>
+<text x="900" y="172" font-size="42" fill="#4B5B72" text-anchor="middle">Particles must hit with enough energy</text>
+<rect x="60" y="240" width="1680" height="680" rx="24" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<text x="120" y="330" font-size="48" font-weight="700" fill="#1E2B47">Slow: not enough energy</text>
+<circle cx="200" cy="620" r="70" fill="#DDEBE8" stroke="#2F6B63" stroke-width="6"/>
+<text x="200" y="635.84" font-size="44" font-weight="700" fill="#2F6B63" text-anchor="middle">A</text>
+<line x1="276" y1="620" x2="332" y2="620" stroke="#1E2B47" stroke-width="8" stroke-linecap="round"/><polygon points="372,620 330,645.2 330,594.8" fill="#1E2B47"/>
+<line x1="680" y1="620" x2="628" y2="620" stroke="#1E2B47" stroke-width="8" stroke-linecap="round"/><polygon points="588,620 630,594.8 630,645.2" fill="#1E2B47"/>
+<circle cx="760" cy="620" r="70" fill="#F2E6B7" stroke="#8A6A0C" stroke-width="6"/>
+<text x="760" y="635.84" font-size="44" font-weight="700" fill="#8A6A0C" text-anchor="middle">B</text>
+<line x1="876" y1="620" x2="972" y2="620" stroke="#1E2B47" stroke-width="8" stroke-linecap="round"/><polygon points="1012,620 970,645.2 970,594.8" fill="#1E2B47"/>
+<line x1="1160" y1="620" x2="1108" y2="620" stroke="#1E2B47" stroke-width="8" stroke-linecap="round"/><polygon points="1068,620 1110,594.8 1110,645.2" fill="#1E2B47"/>
+<circle cx="1240" cy="620" r="70" fill="#DDEBE8" stroke="#2F6B63" stroke-width="6"/>
+<text x="1240" y="635.84" font-size="44" font-weight="700" fill="#2F6B63" text-anchor="middle">A</text>
+<circle cx="1500" cy="620" r="70" fill="#F2E6B7" stroke="#8A6A0C" stroke-width="6"/>
+<text x="1500" y="635.84" font-size="44" font-weight="700" fill="#8A6A0C" text-anchor="middle">B</text>
+<line x1="1576" y1="620" x2="1632" y2="620" stroke="#1E2B47" stroke-width="8" stroke-linecap="round"/><polygon points="1672,620 1630,645.2 1630,594.8" fill="#1E2B47"/>
+<text x="480" y="836" font-size="42" fill="#4B5B72" text-anchor="middle">before</text>
+<text x="1380" y="836" font-size="42" fill="#1E2B47" text-anchor="middle">bounce apart: no reaction</text>
+<rect x="60" y="960" width="1680" height="680" rx="24" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<text x="120" y="1052" font-size="48" font-weight="700" fill="#2F6B63" xml:space="preserve"><tspan>Fast: energy at least E</tspan><tspan dy="13.4" font-size="32.6">a</tspan></text>
+<circle cx="200" cy="1336" r="70" fill="#DDEBE8" stroke="#2F6B63" stroke-width="6"/>
+<text x="200" y="1351.84" font-size="44" font-weight="700" fill="#2F6B63" text-anchor="middle">A</text>
+<line x1="276" y1="1336" x2="426" y2="1336" stroke="#2F6B63" stroke-width="5" stroke-linecap="round"/><polygon points="472,1336 424,1362.4 424,1309.6" fill="#2F6B63"/>
+<line x1="680" y1="1336" x2="534" y2="1336" stroke="#2F6B63" stroke-width="5" stroke-linecap="round"/><polygon points="488,1336 536,1309.6 536,1362.4" fill="#2F6B63"/>
+<circle cx="760" cy="1336" r="70" fill="#F2E6B7" stroke="#8A6A0C" stroke-width="6"/>
+<text x="760" y="1351.84" font-size="44" font-weight="700" fill="#8A6A0C" text-anchor="middle">B</text>
+<line x1="876" y1="1336" x2="972" y2="1336" stroke="#1E2B47" stroke-width="8" stroke-linecap="round"/><polygon points="1012,1336 970,1361.2 970,1310.8" fill="#1E2B47"/>
+<rect x="1100" y="1256" width="280" height="160" rx="80" fill="#DDEBE8"/>
+<path d="M1240 1256 H1300 A80 80 0 0 1 1300 1416 H1240 Z" fill="#F2E6B7"/>
+<rect x="1100" y="1256" width="280" height="160" rx="80" fill="none" stroke="#1E2B47" stroke-width="6"/>
+<text x="1176" y="1352" font-size="44" font-weight="700" fill="#2F6B63" text-anchor="middle">A</text>
+<text x="1304" y="1352" font-size="44" font-weight="700" fill="#8A6A0C" text-anchor="middle">B</text>
+<text x="480" y="1556" font-size="42" fill="#4B5B72" text-anchor="middle">before</text>
+<text x="1380" y="1556" font-size="42" fill="#1E2B47" text-anchor="middle">they react: new substance</text>
+<text x="900" y="1766" font-size="42" fill="#4B5B72" text-anchor="middle" xml:space="preserve"><tspan>Arrow length = speed. E</tspan><tspan dy="11.8" font-size="28.6">a</tspan><tspan dy="-11.8"> = activation energy</tspan></text></g></svg>

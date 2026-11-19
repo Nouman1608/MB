@@ -187,7 +187,7 @@ Fermentation of 90 g of glucose (Mr 180): 0.50 mol glucose â†’ 1.0 mol ethanol â
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/alcohols-and-carboxylic-acids--02-fermentation-vs-hydration.webp" width="900" height="1010" alt="Two columns compare fermentation and steam plus ethene: plants (renewable) versus crude oil (not renewable); slow versus fast; a dilute mixture versus pure ethanol; and mild 25-35 C versus 300 C and 6000 kPa." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-oxfordaqa-fermentation-vs-hydration.svg" width="900" height="1010" alt="Two columns compare fermentation and steam plus ethene: plants (renewable) versus crude oil (not renewable); slow versus fast; a dilute mixture versus pure ethanol; and mild 20-35 C versus 300 C and 6000 kPa." loading="lazy">
   <figcaption>Neither route is simply better: renewable and mild but slow and dilute, or fast and pure but energy-intensive.</figcaption>
 </figure>
 

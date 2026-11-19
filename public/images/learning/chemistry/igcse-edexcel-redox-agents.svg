@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="910" viewBox="0 0 1800 1820" role="img" aria-labelledby="title desc"><title id="title">Oxidising and reducing agents (Edexcel International GCSE Chemistry)</title><desc id="desc">No tier label: the terms oxidising agent and reducing agent are 4CH1 statement 2.20, on both papers. Reducing agent: zinc is itself oxidised and reduces Cu2+. Electrons pass from zinc to the copper ions. Oxidising agent: Cu2+ is itself reduced and oxidises zinc. The oxidising agent is the one that is reduced.</desc><rect width="1800" height="1820" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="92" font-size="64" font-weight="700" fill="#1E2B47" text-anchor="middle">Oxidising and reducing agents</text>
+<text x="900" y="174" font-size="42" fill="#4B5B72" text-anchor="middle">The agent does the job, and gets the opposite</text>
+<rect x="60" y="360" width="1680" height="460" rx="24" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="280" cy="590" r="140" fill="#E3E8F0" stroke="#3A4558" stroke-width="6"/>
+<text x="280" y="611.6" font-size="60" font-weight="700" fill="#3A4558" text-anchor="middle">Zn</text>
+<text x="520" y="516" font-size="56" font-weight="700" fill="#1E2B47">Reducing agent</text>
+<text x="520" y="618" font-size="46" fill="#1E2B47">Zn is itself oxidised</text>
+<text x="520" y="708" font-size="46" fill="#4B5B72" xml:space="preserve"><tspan>It reduces Cu</tspan><tspan dy="-17.5" font-size="31.3">2+</tspan></text>
+<line x1="900" y1="836" x2="900" y2="1070" stroke="#1E2B47" stroke-width="8" stroke-linecap="round"/><polygon points="900,1134 867,1068 933,1068" fill="#1E2B47"/>
+<circle cx="776" cy="980" r="54" fill="#F2E6B7" stroke="#8A6A0C" stroke-width="6"/>
+<text x="776" y="992.96" font-size="36" font-weight="700" fill="#8A6A0C" text-anchor="middle" xml:space="preserve"><tspan>e</tspan><tspan dy="-13.7" font-size="24.5">−</tspan></text>
+<circle cx="1020" cy="980" r="54" fill="#F2E6B7" stroke="#8A6A0C" stroke-width="6"/>
+<text x="1020" y="992.96" font-size="36" font-weight="700" fill="#8A6A0C" text-anchor="middle" xml:space="preserve"><tspan>e</tspan><tspan dy="-13.7" font-size="24.5">−</tspan></text>
+<text x="1120" y="994" font-size="44" fill="#4B5B72" xml:space="preserve"><tspan>e</tspan><tspan dy="-16.7" font-size="29.9">−</tspan><tspan dy="16.7"> passed on</tspan></text>
+<rect x="60" y="1140" width="1680" height="460" rx="24" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="280" cy="1370" r="140" fill="#D2E5EC" stroke="#2B6E8C" stroke-width="6"/>
+<text x="280" y="1388.72" font-size="52" font-weight="700" fill="#2B6E8C" text-anchor="middle" xml:space="preserve"><tspan>Cu</tspan><tspan dy="-19.8" font-size="35.4">2+</tspan></text>
+<text x="520" y="1296" font-size="56" font-weight="700" fill="#1E2B47">Oxidising agent</text>
+<text x="520" y="1398" font-size="46" fill="#1E2B47" xml:space="preserve"><tspan>Cu</tspan><tspan dy="-17.5" font-size="31.3">2+</tspan><tspan dy="17.5"> is itself reduced</tspan></text>
+<text x="520" y="1488" font-size="46" fill="#4B5B72">It oxidises Zn</text>
+<text x="900" y="1712" font-size="44" fill="#4B5B72" text-anchor="middle">Oxidising agent: the one that is reduced</text></g></svg>

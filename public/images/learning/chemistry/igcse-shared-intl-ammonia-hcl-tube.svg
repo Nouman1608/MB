@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1000" viewBox="0 0 1800 2000" role="img" aria-labelledby="title desc"><title id="title">Ammonia and hydrogen chloride diffusion</title><desc id="desc">No tier label: explaining diffusion experiments is on both Edexcel International GCSE papers (4CH1 1.3) and OxfordAQA International GCSE Chemistry is not tiered (9202 3.1.1b names the NH3/HCl experiment). A long tube with ammonia, NH3 (Mr 17), at one end and hydrogen chloride, HCl (Mr 36.5), at the other. A white ring of ammonium chloride forms where they meet, nearer the HCl end: ammonia travels further. NH3 + HCl → NH4Cl. At the same temperature, the lighter NH3 particles move faster and the heavier HCl particles move slower.</desc><rect width="1800" height="2000" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="92" font-size="64" font-weight="700" fill="#1E2B47" text-anchor="middle">Ammonia and hydrogen chloride</text>
+<text x="900" y="172" font-size="42" fill="#4B5B72" text-anchor="middle">Lighter particles diffuse faster</text>
+<text x="108" y="376" font-size="48" font-weight="700" fill="#8A6A0C">Ammonia</text>
+<text x="108" y="440" font-size="48" font-weight="700" fill="#8A6A0C" xml:space="preserve"><tspan>NH</tspan><tspan dy="13.4" font-size="32.6">3</tspan></text>
+<text x="108" y="512" font-size="40" fill="#8A6A0C" xml:space="preserve"><tspan>M</tspan><tspan dy="11.2" font-size="27.2">r</tspan><tspan dy="-11.2"> = 17</tspan></text>
+<text x="1692" y="376" font-size="48" font-weight="700" fill="#2F6B63" text-anchor="end">Hydrogen chloride</text>
+<text x="1692" y="440" font-size="48" font-weight="700" fill="#2F6B63" text-anchor="end">HCl</text>
+<text x="1692" y="512" font-size="40" fill="#2F6B63" text-anchor="end" xml:space="preserve"><tspan>M</tspan><tspan dy="11.2" font-size="27.2">r</tspan><tspan dy="-11.2"> = 36.5</tspan></text>
+<text x="1036" y="586" font-size="44" font-weight="700" fill="#1E2B47" text-anchor="middle" xml:space="preserve"><tspan>white ring of NH</tspan><tspan dy="12.3" font-size="29.9">4</tspan><tspan dy="-12.3">Cl</tspan></text>
+<line x1="1036" y1="610" x2="1036" y2="684" stroke="#1E2B47" stroke-width="4"/>
+<rect x="180" y="680" width="1440" height="220" rx="26" fill="#FFFFFF" stroke="#1E2B47" stroke-width="7"/>
+<rect x="108" y="700" width="124" height="176" rx="22" fill="#F2E6B7" stroke="#8A6A0C" stroke-width="5"/>
+<rect x="1572" y="700" width="124" height="176" rx="22" fill="#DDEBE8" stroke="#2F6B63" stroke-width="5"/>
+<rect x="1000" y="690" width="74" height="200" rx="14" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<rect x="1016" y="706" width="42" height="168" rx="8" fill="#E3E8F0"/>
+<line x1="256" y1="790" x2="920" y2="790" stroke="#B9632F" stroke-width="8" stroke-linecap="round"/><polygon points="998,790 918,826 918,754" fill="#B9632F"/>
+<line x1="1546" y1="790" x2="1156" y2="790" stroke="#2F6B63" stroke-width="8" stroke-linecap="round"/><polygon points="1078,790 1158,754 1158,826" fill="#2F6B63"/>
+<line x1="180" y1="980" x2="1036" y2="980" stroke="#8A6A0C" stroke-width="6"/>
+<line x1="180" y1="958" x2="180" y2="1002" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="1036" y1="958" x2="1036" y2="1002" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<text x="608" y="1056" font-size="42" font-weight="700" fill="#8A6A0C" text-anchor="middle">ammonia travels further</text>
+<line x1="1036" y1="1118" x2="1620" y2="1118" stroke="#2F6B63" stroke-width="6"/>
+<line x1="1036" y1="1096" x2="1036" y2="1140" stroke="#2F6B63" stroke-width="6" stroke-linecap="round"/>
+<line x1="1620" y1="1096" x2="1620" y2="1140" stroke="#2F6B63" stroke-width="6" stroke-linecap="round"/>
+<text x="1328" y="1196" font-size="42" font-weight="700" fill="#2F6B63" text-anchor="middle">HCl travels less far</text>
+<rect x="300" y="1278" width="1200" height="184" rx="22" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<text x="900" y="1392" font-size="60" font-weight="700" fill="#1E2B47" text-anchor="middle" xml:space="preserve"><tspan>NH</tspan><tspan dy="16.8" font-size="40.8">3</tspan><tspan dy="-16.8"> + HCl → NH</tspan><tspan dy="16.8" font-size="40.8">4</tspan><tspan dy="-16.8">Cl</tspan></text>
+<text x="80" y="1624" font-size="46" font-weight="700" fill="#1E2B47">Same temperature, different speed</text>
+<circle cx="176" cy="1762" r="34" fill="#F2E6B7" stroke="#8A6A0C" stroke-width="5"/>
+<line x1="212" y1="1762" x2="572" y2="1762" stroke="#B9632F" stroke-width="8" stroke-linecap="round"/><polygon points="654,1762 570,1804 570,1720" fill="#B9632F"/>
+<text x="700" y="1778" font-size="44" font-weight="700" fill="#1E2B47" xml:space="preserve"><tspan>NH</tspan><tspan dy="12.3" font-size="29.9">3</tspan><tspan dy="-12.3">: lighter, faster</tspan></text>
+<circle cx="176" cy="1900" r="42" fill="#DDEBE8" stroke="#2F6B63" stroke-width="5"/>
+<line x1="220" y1="1900" x2="354" y2="1900" stroke="#2F6B63" stroke-width="8" stroke-linecap="round"/><polygon points="436,1900 352,1942 352,1858" fill="#2F6B63"/>
+<text x="700" y="1916" font-size="44" font-weight="700" fill="#1E2B47">HCl: heavier, slower</text></g></svg>

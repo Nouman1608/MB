@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="950" viewBox="0 0 1800 1900" role="img" aria-labelledby="title desc"><title id="title">Exothermic reaction profile (OxfordAQA International GCSE Chemistry)</title><desc id="desc">No tier label: OxfordAQA International GCSE Chemistry is not tiered; 9202 statement 3.9.2d covers energy level diagrams with the activation energy and overall energy change, and 3.9.1a the ΔH sign convention. Sketch reaction pathway diagram, not to scale: energy against progress of reaction. The reactants start higher; the curve rises by the activation energy, Ea, to a peak, then falls to the products, which end lower. ΔH is negative, shown by a downward arrow. Energy is released, so the surroundings get hotter.</desc><rect width="1800" height="1900" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="92" font-size="64" font-weight="700" fill="#1E2B47" text-anchor="middle">Exothermic: products end lower</text>
+<text x="900" y="174" font-size="42" fill="#4B5B72" text-anchor="middle">Reaction pathway diagram</text>
+<rect x="60" y="340" width="1680" height="1440" rx="22" fill="#FFFFFF" stroke="#C6D3D0" stroke-width="4"/>
+<line x1="240" y1="1460" x2="240" y2="454" stroke="#1E2B47" stroke-width="7" stroke-linecap="round"/><polygon points="240,400 270.8,456 209.2,456" fill="#1E2B47"/>
+<line x1="240" y1="1456" x2="1720" y2="1456" stroke="#1E2B47" stroke-width="6"/>
+<text x="112" y="980" font-size="44" font-weight="700" fill="#1E2B47" text-anchor="middle" transform="rotate(-90 112 980)">Energy</text>
+<text x="980" y="1562" font-size="44" font-weight="700" fill="#1E2B47" text-anchor="middle">Progress of reaction</text>
+<line x1="584" y1="614" x2="830" y2="614" stroke="#4B5B72" stroke-width="3" stroke-dasharray="12 10"/>
+<line x1="584" y1="860" x2="1620" y2="860" stroke="#4B5B72" stroke-width="3" stroke-dasharray="12 10"/>
+<line x1="1156" y1="1224" x2="1320" y2="1224" stroke="#4B5B72" stroke-width="3" stroke-dasharray="12 10"/>
+<path d="M240 860 H580 C680 860 740 614 840 614 C960 614 1060 1000 1160 1130 C1230 1215 1290 1222 1360 1222 H1720" fill="none" stroke="#1E2B47" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="586" y1="858" x2="586" y2="668" stroke="#1E2B47" stroke-width="6" stroke-linecap="round"/><polygon points="586,620 611,670 561,670" fill="#1E2B47"/>
+<text x="500" y="760" font-size="50" font-weight="700" fill="#1E2B47" xml:space="preserve"><tspan>E</tspan><tspan dy="14" font-size="34">a</tspan></text>
+<line x1="1574" y1="860" x2="1574" y2="1156" stroke="#B9632F" stroke-width="7" stroke-linecap="round"/><polygon points="1574,1220 1541,1154 1607,1154" fill="#B9632F"/>
+<text x="1370" y="1060" font-size="50" font-weight="700" fill="#B9632F" text-anchor="middle">ΔH negative</text>
+<text x="286" y="940" font-size="44" font-weight="700" fill="#1E2B47">reactants</text>
+<text x="1440" y="1306" font-size="44" font-weight="700" fill="#1E2B47">products</text>
+<text x="900" y="1694" font-size="46" font-weight="700" fill="#B9632F" text-anchor="middle">Energy released: surroundings get hotter</text>
+<text x="900" y="1842" font-size="40" fill="#4B5B72" text-anchor="middle">Sketch graph, not to scale</text></g></svg>

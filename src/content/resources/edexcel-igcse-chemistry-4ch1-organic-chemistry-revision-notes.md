@@ -149,7 +149,7 @@ Only mono-substitution is needed for alkanes. No mechanisms, no cis/trans.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/petroleum-alkanes-and-alkenes--04-chlorine-substitution.webp" width="900" height="950" alt="Methane reacts with chlorine in UV light. One hydrogen atom of methane is replaced by one chlorine atom, giving chloromethane and hydrogen chloride. Only one hydrogen is replaced (monosubstitution). It is substitution because nothing adds across a bond." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-edexcel-chlorine-substitution.svg" width="900" height="950" alt="Methane reacts with chlorine in UV light. One hydrogen atom of methane is replaced by one chlorine atom, giving chloromethane and hydrogen chloride. Only one hydrogen is replaced (monosubstitution). It is substitution because nothing adds across a bond." loading="lazy">
   <figcaption>In UV light one H of methane is swapped for one Cl: CH4 + Cl2 gives CH3Cl + HCl.</figcaption>
 </figure>
 
@@ -250,22 +250,22 @@ Why these fermentation conditions: no air so ethanol is not oxidised to ethanoic
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--07-locant-numbers.webp" width="900" height="1150" alt="Propan-1-ol and propan-2-ol, and butan-1-ol and butan-2-ol, with carbons numbered along the chain and the carbon carrying -OH highlighted." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-edexcel-locant-numbers.svg" width="900" height="1150" alt="Propan-1-ol and propan-2-ol, and butan-1-ol and butan-2-ol, with carbons numbered along the chain and the carbon carrying -OH highlighted. The whole figure is marked Paper 2 only, and propan-2-ol and butan-2-ol are marked not required by Edexcel." loading="lazy">
   <figcaption>The number says which carbon carries the -OH.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--05-structural-isomers.webp" width="900" height="1110" alt="Butane and methylpropane both C4H10; but-1-ene and but-2-ene both C4H8; same atoms joined differently." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-edexcel-structural-isomers.svg" width="900" height="1110" alt="Butane and methylpropane both C4H10; but-1-ene and but-2-ene both C4H8; same atoms joined differently." loading="lazy">
   <figcaption>Isomers share a molecular formula but have different structures.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/alcohols-and-carboxylic-acids--06-esterification.webp" width="900" height="960" alt="Ethanoic acid and ethanol react with an acid catalyst to make the ester ethyl ethanoate and water. The OH from the acid and the H from the alcohol leave as water. The alcohol supplies the ethyl part of the name and the acid supplies the ethanoate part." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-edexcel-esterification.svg" width="900" height="960" alt="Ethanoic acid and ethanol react with an acid catalyst to make the ester ethyl ethanoate and water. The OH from the acid and the H from the alcohol leave as water. The alcohol supplies the ethyl part of the name and the acid supplies the ethanoate part. The whole figure is marked Paper 2 only." loading="lazy">
   <figcaption>An acid and an alcohol with an acid catalyst make an ester and water; ethyl comes from the alcohol, ethanoate from the acid.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--08-ester-naming.webp" width="900" height="920" alt="Ethanol and ethanoic acid give ethyl ethanoate (CH3COOCH2CH3) plus water; ethyl comes from the alcohol, ethanoate from the acid." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-edexcel-ester-naming.svg" width="900" height="920" alt="Ethanol and ethanoic acid give ethyl ethanoate (CH3COOCH2CH3) plus water; ethyl comes from the alcohol, ethanoate from the acid. The whole figure is marked Paper 2 only." loading="lazy">
   <figcaption>Ester names combine the alcohol part (-yl) and the acid part (-oate).</figcaption>
 </figure>
 

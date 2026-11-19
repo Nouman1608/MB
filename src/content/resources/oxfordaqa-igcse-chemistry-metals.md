@@ -65,7 +65,7 @@ An **alloy** is a mixture of at least two elements, at least one of which is a m
 You may be given the composition of an unfamiliar alloy and asked to judge a use for it. Link each property in the data to the job.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--01-alloy-layers.webp" width="900" height="1290" alt="Two particle diagrams: a pure metal with same-size atoms in neat layers that slide when pushed, and an alloy with some larger atoms that jam the layers. Atoms of two different sizes mark a diagram as an alloy." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-oxfordaqa-alloy-layers.svg" width="900" height="1290" alt="Two particle diagrams: a pure metal with same-size atoms in neat layers that slide when pushed, and an alloy with some larger atoms that jam the layers. Atoms of two different sizes mark a diagram as an alloy." loading="lazy">
   <figcaption>Different-sized atoms stop the layers sliding, so an alloy is harder than the pure metal.</figcaption>
 </figure>
 
@@ -136,12 +136,12 @@ A strip of magnesium ribbon is placed in zinc chloride solution. A grey coating 
 4. Magnesium atoms lose two electrons each: magnesium is **oxidised**. Zinc ions gain two electrons each: zinc ions are **reduced**.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/metal-properties-and-reactivity--04-displacement.webp" width="900" height="940" alt="An iron nail in blue copper(II) sulfate becomes coated in pink-brown copper while the solution turns pale green. Iron atoms lose two electrons to form Fe2+ and the copper ions gain them to form copper atoms." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-shared-intl-displacement.svg" width="900" height="940" alt="An iron nail in blue copper(II) sulfate becomes coated in pink-brown copper while the solution turns pale green. Iron atoms lose two electrons to form Fe2+ and the copper ions gain them to form copper atoms." loading="lazy">
   <figcaption>The more reactive metal loses electrons and displaces the less reactive metal.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/redox-reactions--02-electron-transfer.webp" width="900" height="920" alt="A zinc atom becomes a Zn2+ ion by losing two electrons (oxidation). A downward arrow carries the two electrons to a Cu2+ ion, which becomes a copper atom (reduction). No oxygen is involved." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-shared-intl-electron-transfer.svg" width="900" height="920" alt="A zinc atom becomes a Zn2+ ion by losing two electrons (oxidation). A downward arrow carries the two electrons to a Cu2+ ion, which becomes a copper atom (reduction). No oxygen is involved." loading="lazy">
   <figcaption>Zinc loses two electrons and Cu2+ gains them: oxidation and reduction without any oxygen.</figcaption>
 </figure>
 
@@ -177,12 +177,12 @@ The overall reduction by carbon can be summed up as 2Fe₂O₃ + 3C → 4Fe + 3C
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--04-iron-steps.webp" width="900" height="1030" alt="Ball models and balanced equations for steps 1-3: coke burns to carbon dioxide, carbon dioxide and more coke make carbon monoxide, and carbon monoxide reduces iron(III) oxide to iron." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-oxfordaqa-iron-steps.svg" width="900" height="1030" alt="Ball models and balanced equations for steps 1-3: coke burns to carbon dioxide, carbon dioxide and more coke make carbon monoxide, and carbon monoxide reduces iron(III) oxide to iron." loading="lazy">
   <figcaption>Carbon monoxide, made from coke, does the reducing of iron oxide.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--05-slag.webp" width="900" height="910" alt="Limestone breaks down to lime and carbon dioxide, then lime reacts with silica (sand) to make slag. The slag floats on top of the molten iron and is drawn off separately." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-oxfordaqa-slag.svg" width="900" height="910" alt="Limestone breaks down to lime and carbon dioxide, then lime reacts with silica (sand) to make slag. The slag floats on top of the molten iron and is drawn off separately. The slag-tapping diagram is marked not required by OxfordAQA, as furnace detail." loading="lazy">
   <figcaption>Slag carries away the silica impurity and floats on the iron.</figcaption>
 </figure>
 
@@ -205,7 +205,7 @@ Questions may describe the extraction of another metal; read the information and
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--06-aluminium-cell.webp" width="900" height="1080" alt="An electrolysis cell: carbon anodes dip into molten cryolite containing dissolved aluminium oxide. Al3+ ions move to the cathode and form molten aluminium; O2- ions go to the anodes and form oxygen, which burns the carbon anodes away as carbon dioxide." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-oxfordaqa-aluminium-cell.svg" width="900" height="1080" alt="An electrolysis cell: carbon anodes dip into molten cryolite containing dissolved aluminium oxide. Al3+ ions move to the cathode and form molten aluminium; O2- ions go to the anodes and form oxygen, which burns the carbon anodes away as carbon dioxide." loading="lazy">
   <figcaption>Aluminium oxide is dissolved in molten cryolite and electrolysed; the carbon anodes burn away and are replaced.</figcaption>
 </figure>
 
@@ -256,7 +256,7 @@ How much iron reacts to produce 3.20 g of copper? (Aᵣ: Fe = 56, Cu = 64)
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--05-copper-sulfate-electrodes.webp" width="900" height="1200" alt="Blue copper(II) sulfate solution is electrolysed twice. With graphite, copper coats the cathode and oxygen bubbles form at the anode. With copper electrodes copper again deposits, but the anode dissolves and gets smaller." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-oxfordaqa-copper-sulfate-electrodes.svg" width="900" height="1200" alt="Blue copper(II) sulfate solution is electrolysed twice. With graphite, copper coats the cathode and oxygen bubbles form at the anode. With copper electrodes copper again deposits, but the anode dissolves and gets smaller." loading="lazy">
   <figcaption>Copper deposits at the cathode either way; the anode gives oxygen with graphite but dissolves if it is copper.</figcaption>
 </figure>
 

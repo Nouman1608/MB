@@ -80,7 +80,7 @@ final:     2Al(s) + 6HCl(aq) → 2AlCl₃(aq) + 3H₂(g)
 Count NO₃ as one unit: two on each side.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--03-balancing-equations.webp" width="900" height="1130" alt="Molecule pictures show CH4 plus two O2 on the left and CO2 plus two H2O on the right, each side with 1 C, 4 H and 4 O. Only coefficients change. A key shows (s), (l), (g) and (aq)." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-shared-intl-balancing-equations.svg" width="900" height="1130" alt="Molecule pictures show CH4 plus two O2 on the left and CO2 plus two H2O on the right, each side with 1 C, 4 H and 4 O. Only coefficients change. A key shows (s), (l), (g) and (aq)." loading="lazy">
   <figcaption>A balanced equation has the same atoms on both sides; state symbols show the physical state.</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ CuSO₄·5H₂O:  63.5 + 32 + (4 × 16) + 5 × 18 = 249.5
 (A_r: H = 1, O = 16, Al = 27, S = 32, Cu = 63.5)
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--04-relative-formula-mass.webp" width="900" height="630" alt="A scaled bar of five blocks: Ca 40, C 12 and three O of 16. Added together, Mr of CaCO3 is 100." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-shared-intl-relative-formula-mass.svg" width="900" height="630" alt="A scaled bar of five blocks: Ca 40, C 12 and three O of 16. Added together, Mr of CaCO3 is 100." loading="lazy">
   <figcaption>Mr is the sum of the Ar values of all atoms in the formula.</figcaption>
 </figure>
 
@@ -125,7 +125,7 @@ M_r          = mass (g) ÷ amount (mol)
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--05-mole-map.webp" width="900" height="970" alt="Amount in moles is the hub. Multiply or divide by Mr for mass, by 24 for gas volume at r.t.p., by 6.02 x 10^23 for particles, and divide by volume in dm3 (or multiply) for concentration." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-edexcel-mole-map.svg" width="900" height="970" alt="Amount in moles is the hub. Multiply or divide by Mr for mass, by 24 for gas volume at r.t.p., by 6.02 x 10^23 for particles, and divide by volume in dm3 (or multiply) for concentration. The gas volume and concentration links are marked Paper 2 only, and the particles link is marked not required by Edexcel." loading="lazy">
   <figcaption>Convert to moles first, then to the quantity you need.</figcaption>
 </figure>
 
@@ -165,7 +165,7 @@ equation: 2Fe + 3Cl₂ → 2FeCl₃
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--06-reacting-masses.webp" width="900" height="990" alt="Three steps: 50 g divided by Mr 100 is 0.5 mol; the 1:1 ratio gives 0.5 mol CO2; 0.5 times 24 is 12 dm3 of CO2 at r.t.p." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-edexcel-reacting-masses.svg" width="900" height="990" alt="Three steps: 50 g divided by Mr 100 is 0.5 mol; the 1:1 ratio gives 0.5 mol CO2; 0.5 times 24 is 12 dm3 of CO2 at r.t.p. The gas volume step is marked Paper 2 only." loading="lazy">
   <figcaption>Mass to moles, use the equation ratio, then moles to gas volume.</figcaption>
 </figure>
 
@@ -270,7 +270,7 @@ empirical formula mass = 2 × 31 + 5 × 16 = 142
 Treat percentages as masses in 100 g, and keep three significant figures in the mole values.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--08-empirical-formula.webp" width="900" height="980" alt="Using example masses of 2.4 g carbon and 0.6 g hydrogen: moles are 0.2 and 0.6, ratio 1:3, empirical formula CH3 (mass 15). With Mr 30, multiply by 2 to give C2H6." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-edexcel-empirical-formula.svg" width="900" height="980" alt="Using example masses of 2.4 g carbon and 0.6 g hydrogen: moles are 0.2 and 0.6, ratio 1:3, empirical formula CH3 (mass 15). With Mr 30, multiply by 2 to give C2H6." loading="lazy">
   <figcaption>Divide masses by Ar, divide by the smallest, then scale up using Mr for the molecular formula.</figcaption>
 </figure>
 
@@ -301,7 +301,7 @@ To make 500 cm³ of 0.100 mol/dm³ sodium hydroxide you need 0.100 × 0.500 = 0.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--07-concentration.webp" width="900" height="980" alt="Four beakers of 250 cm3, each with 0.5 mol, make 1 dm3 holding 2 mol, so concentration is 2 mol/dm3. 250 cm3 divided by 1000 is 0.25 dm3 and 0.5 divided by 0.25 is 2." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-edexcel-concentration.svg" width="900" height="980" alt="Four beakers of 250 cm3, each with 0.5 mol, make 1 dm3 holding 2 mol, so concentration is 2 mol/dm3. 250 cm3 divided by 1000 is 0.25 dm3 and 0.5 divided by 0.25 is 2. The whole figure is marked Paper 2 only, and a note on g/dm3 is marked not required by Edexcel." loading="lazy">
   <figcaption>Concentration is moles per dm3; convert cm3 to dm3 by dividing by 1000.</figcaption>
 </figure>
 

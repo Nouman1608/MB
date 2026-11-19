@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1130" viewBox="0 0 1800 2260" role="img" aria-labelledby="title desc"><title id="title">Balancing an equation</title><desc id="desc">No tier label: balanced equations with state symbols are on both Edexcel International GCSE papers (4CH1 1.25) and OxfordAQA International GCSE Chemistry is not tiered (9202 3.6.1a and 3.6.1b). Particle diagrams for CH4 + 2O2 → CO2 + 2H2O: only the big numbers in front change. Atom count: C 1 = 1, H 4 = 4, O 4 = 4. State symbols: (s) solid, (l) liquid, (g) gas, (aq) dissolved in water.</desc><rect width="1800" height="2260" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="92" font-size="64" font-weight="700" fill="#1E2B47" text-anchor="middle">Balancing: change big numbers only</text>
+<text x="900" y="174" font-size="42" fill="#4B5B72" text-anchor="middle">Same atoms on both sides</text>
+<rect x="60" y="320" width="1680" height="1340" rx="24" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<line x1="420" y1="580" x2="724" y2="580" stroke="#1E2B47" stroke-width="5"/>
+<line x1="572" y1="426" x2="572" y2="734" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="572" cy="580" r="52" fill="#B5D4CF" stroke="#1E2B47" stroke-width="4"/>
+<text x="572" y="594" font-size="40" font-weight="700" fill="#1E2B47" text-anchor="middle">C</text>
+<circle cx="572" cy="426" r="34" fill="#FFFFFF" stroke="#1E2B47" stroke-width="4"/>
+<text x="572" y="438" font-size="32" font-weight="700" fill="#1E2B47" text-anchor="middle">H</text>
+<circle cx="572" cy="734" r="34" fill="#FFFFFF" stroke="#1E2B47" stroke-width="4"/>
+<text x="572" y="746" font-size="32" font-weight="700" fill="#1E2B47" text-anchor="middle">H</text>
+<circle cx="420" cy="580" r="34" fill="#FFFFFF" stroke="#1E2B47" stroke-width="4"/>
+<text x="420" y="592" font-size="32" font-weight="700" fill="#1E2B47" text-anchor="middle">H</text>
+<circle cx="724" cy="580" r="34" fill="#FFFFFF" stroke="#1E2B47" stroke-width="4"/>
+<text x="724" y="592" font-size="32" font-weight="700" fill="#1E2B47" text-anchor="middle">H</text>
+<text x="830" y="600" font-size="60" font-weight="700" fill="#1E2B47" text-anchor="middle">+</text>
+<line x1="994" y1="586" x2="1040" y2="586" stroke="#1E2B47" stroke-width="4"/>
+<line x1="994" y1="574" x2="1040" y2="574" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="954" cy="580" r="52" fill="#F2E6B7" stroke="#1E2B47" stroke-width="4"/>
+<text x="954" y="594" font-size="40" font-weight="700" fill="#1E2B47" text-anchor="middle">O</text>
+<circle cx="1080" cy="580" r="52" fill="#F2E6B7" stroke="#1E2B47" stroke-width="4"/>
+<text x="1080" y="594" font-size="40" font-weight="700" fill="#1E2B47" text-anchor="middle">O</text>
+<line x1="1274" y1="586" x2="1320" y2="586" stroke="#1E2B47" stroke-width="4"/>
+<line x1="1274" y1="574" x2="1320" y2="574" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="1234" cy="580" r="52" fill="#F2E6B7" stroke="#1E2B47" stroke-width="4"/>
+<text x="1234" y="594" font-size="40" font-weight="700" fill="#1E2B47" text-anchor="middle">O</text>
+<circle cx="1360" cy="580" r="52" fill="#F2E6B7" stroke="#1E2B47" stroke-width="4"/>
+<text x="1360" y="594" font-size="40" font-weight="700" fill="#1E2B47" text-anchor="middle">O</text>
+<text x="572" y="832" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle" xml:space="preserve"><tspan>CH</tspan><tspan dy="12.9" font-size="31.3">4</tspan></text>
+<text x="1156" y="832" font-size="46" font-weight="700" fill="#8A6A0C" text-anchor="middle" xml:space="preserve"><tspan>2O</tspan><tspan dy="12.9" font-size="31.3">2</tspan></text>
+<line x1="900" y1="890" x2="900" y2="980" stroke="#1E2B47" stroke-width="10" stroke-linecap="round"/><polygon points="900,1044 863.7,978 936.3,978" fill="#1E2B47"/>
+<line x1="470" y1="1246" x2="520" y2="1246" stroke="#1E2B47" stroke-width="4"/>
+<line x1="470" y1="1234" x2="520" y2="1234" stroke="#1E2B47" stroke-width="4"/>
+<line x1="600" y1="1246" x2="650" y2="1246" stroke="#1E2B47" stroke-width="4"/>
+<line x1="600" y1="1234" x2="650" y2="1234" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="434" cy="1240" r="52" fill="#F2E6B7" stroke="#1E2B47" stroke-width="4"/>
+<text x="434" y="1254" font-size="40" font-weight="700" fill="#1E2B47" text-anchor="middle">O</text>
+<circle cx="560" cy="1240" r="52" fill="#B5D4CF" stroke="#1E2B47" stroke-width="4"/>
+<text x="560" y="1254" font-size="40" font-weight="700" fill="#1E2B47" text-anchor="middle">C</text>
+<circle cx="686" cy="1240" r="52" fill="#F2E6B7" stroke="#1E2B47" stroke-width="4"/>
+<text x="686" y="1254" font-size="40" font-weight="700" fill="#1E2B47" text-anchor="middle">O</text>
+<text x="800" y="1260" font-size="60" font-weight="700" fill="#1E2B47" text-anchor="middle">+</text>
+<line x1="1000" y1="1220" x2="904" y2="1320" stroke="#1E2B47" stroke-width="5"/>
+<line x1="1000" y1="1220" x2="1092" y2="1320" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="1000" cy="1220" r="52" fill="#F2E6B7" stroke="#1E2B47" stroke-width="4"/>
+<text x="1000" y="1234" font-size="40" font-weight="700" fill="#1E2B47" text-anchor="middle">O</text>
+<circle cx="904" cy="1320" r="34" fill="#FFFFFF" stroke="#1E2B47" stroke-width="4"/>
+<text x="904" y="1332" font-size="32" font-weight="700" fill="#1E2B47" text-anchor="middle">H</text>
+<circle cx="1092" cy="1320" r="34" fill="#FFFFFF" stroke="#1E2B47" stroke-width="4"/>
+<text x="1092" y="1332" font-size="32" font-weight="700" fill="#1E2B47" text-anchor="middle">H</text>
+<line x1="1290" y1="1220" x2="1194" y2="1320" stroke="#1E2B47" stroke-width="5"/>
+<line x1="1290" y1="1220" x2="1382" y2="1320" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="1290" cy="1220" r="52" fill="#F2E6B7" stroke="#1E2B47" stroke-width="4"/>
+<text x="1290" y="1234" font-size="40" font-weight="700" fill="#1E2B47" text-anchor="middle">O</text>
+<circle cx="1194" cy="1320" r="34" fill="#FFFFFF" stroke="#1E2B47" stroke-width="4"/>
+<text x="1194" y="1332" font-size="32" font-weight="700" fill="#1E2B47" text-anchor="middle">H</text>
+<circle cx="1382" cy="1320" r="34" fill="#FFFFFF" stroke="#1E2B47" stroke-width="4"/>
+<text x="1382" y="1332" font-size="32" font-weight="700" fill="#1E2B47" text-anchor="middle">H</text>
+<text x="560" y="1450" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle" xml:space="preserve"><tspan>CO</tspan><tspan dy="12.9" font-size="31.3">2</tspan></text>
+<text x="1140" y="1450" font-size="46" font-weight="700" fill="#8A6A0C" text-anchor="middle" xml:space="preserve"><tspan>2H</tspan><tspan dy="12.9" font-size="31.3">2</tspan><tspan dy="-12.9">O</tspan></text>
+<text x="640" y="1566" font-size="50" font-weight="700" fill="#2F6B63" text-anchor="middle">C 1 = 1</text>
+<text x="900" y="1566" font-size="50" font-weight="700" fill="#2F6B63" text-anchor="middle">H 4 = 4</text>
+<text x="1160" y="1566" font-size="50" font-weight="700" fill="#2F6B63" text-anchor="middle">O 4 = 4</text>
+<text x="80" y="1756" font-size="46" font-weight="700" fill="#1E2B47">State symbols</text>
+<rect x="100" y="1810" width="136" height="132" fill="#B5D4CF" stroke="#1E2B47" stroke-width="5"/>
+<line x1="145" y1="1810" x2="145" y2="1942" stroke="#1E2B47" stroke-width="4"/>
+<line x1="190" y1="1810" x2="190" y2="1942" stroke="#1E2B47" stroke-width="4"/>
+<line x1="100" y1="1854" x2="236" y2="1854" stroke="#1E2B47" stroke-width="4"/>
+<line x1="100" y1="1898" x2="236" y2="1898" stroke="#1E2B47" stroke-width="4"/>
+<text x="300" y="1900" font-size="44" font-weight="700" fill="#1E2B47">(s) solid</text>
+<path d="M1010 1806 Q960 1880 960 1904 A50 50 0 0 0 1060 1904 Q1060 1880 1010 1806 Z" fill="#D2E5EC" stroke="#1E2B47" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="1130" y="1900" font-size="44" font-weight="700" fill="#1E2B47">(l) liquid</text>
+<circle cx="124" cy="2044" r="18" fill="none" stroke="#2F6B63" stroke-width="4"/>
+<circle cx="200" cy="2030" r="18" fill="none" stroke="#2F6B63" stroke-width="4"/>
+<circle cx="164" cy="2080" r="18" fill="none" stroke="#2F6B63" stroke-width="4"/>
+<circle cx="132" cy="2124" r="18" fill="none" stroke="#2F6B63" stroke-width="4"/>
+<circle cx="224" cy="2108" r="18" fill="none" stroke="#2F6B63" stroke-width="4"/>
+<text x="300" y="2100" font-size="44" font-weight="700" fill="#1E2B47">(g) gas</text>
+<rect x="940" y="2020" width="136" height="122" rx="12" fill="#D2E5EC" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="984" cy="2062" r="16" fill="none" stroke="#2F6B63" stroke-width="4"/>
+<circle cx="1036" cy="2056" r="16" fill="none" stroke="#2F6B63" stroke-width="4"/>
+<circle cx="1010" cy="2106" r="16" fill="none" stroke="#2F6B63" stroke-width="4"/>
+<text x="1130" y="2100" font-size="44" font-weight="700" fill="#1E2B47">(aq) in water</text></g></svg>

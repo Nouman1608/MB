@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="945" viewBox="0 0 1800 1890" role="img" aria-labelledby="title desc"><title id="title">Ionic bonding: electrons move</title><desc id="desc">No tier label: both examples are on both Edexcel International GCSE papers (4CH1 1.40, dot-and-cross diagrams for Groups 1, 2, 3 with 5, 6, 7) and OxfordAQA International GCSE Chemistry is not tiered (9202 3.2.1c and 3.2.1f). Outer shells only; dots are the metal's electrons and crosses the non-metal's. Sodium chloride: sodium (1 outer electron) gives it to chlorine (7), giving Na+ with none left and Cl- with 8 outer electrons. Magnesium oxide: magnesium (2) gives both to oxygen (6), giving Mg2+ with none left and O2- with 8.</desc><rect width="1800" height="1890" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="92" font-size="64" font-weight="700" fill="#1E2B47" text-anchor="middle">Ionic bonding: electrons move</text>
+<text x="900" y="172" font-size="42" fill="#4B5B72" text-anchor="middle">The metal gives, the non-metal takes</text>
+<rect x="60" y="240" width="1680" height="690" rx="24" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<text x="120" y="330" font-size="50" font-weight="700" fill="#1E2B47">Sodium chloride, NaCl</text>
+<text x="410" y="436" font-size="40" fill="#4B5B72" text-anchor="middle">atoms</text>
+<text x="1310" y="436" font-size="40" fill="#4B5B72" text-anchor="middle">ions</text>
+<circle cx="210" cy="670" r="120" fill="#FFFFFF" stroke="#2F6B63" stroke-width="6"/>
+<text x="210" y="688" font-size="50" font-weight="700" fill="#2F6B63" text-anchor="middle">Na</text>
+<circle cx="610" cy="670" r="120" fill="#FFFFFF" stroke="#2F6B63" stroke-width="6"/>
+<text x="610" y="688" font-size="50" font-weight="700" fill="#2F6B63" text-anchor="middle">Cl</text>
+<line x1="562" y1="538" x2="590" y2="566" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="590" y1="538" x2="562" y2="566" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="630" y1="538" x2="658" y2="566" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="658" y1="538" x2="630" y2="566" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="710" y1="622" x2="738" y2="650" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="738" y1="622" x2="710" y2="650" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="710" y1="690" x2="738" y2="718" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="738" y1="690" x2="710" y2="718" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="562" y1="774" x2="590" y2="802" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="590" y1="774" x2="562" y2="802" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="630" y1="774" x2="658" y2="802" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="658" y1="774" x2="630" y2="802" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="482" y1="690" x2="510" y2="718" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="510" y1="690" x2="482" y2="718" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<circle cx="324" cy="636" r="13" fill="#2F6B63"/>
+<path d="M344 620 Q400 510 454.5 583.1" fill="none" stroke="#1E2B47" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="482,620 433.7,598.7 475.4,567.6" fill="#1E2B47"/>
+<text x="210" y="876" font-size="42" fill="#1E2B47" text-anchor="middle">1 electron</text>
+<text x="610" y="876" font-size="42" fill="#1E2B47" text-anchor="middle">7 electrons</text>
+<line x1="790" y1="670" x2="884" y2="670" stroke="#1E2B47" stroke-width="10" stroke-linecap="round"/><polygon points="944,670 882,701 882,639" fill="#1E2B47"/>
+<path d="M990 516 H968 V820 H990 M1258 516 H1280 V820 H1258" fill="none" stroke="#1E2B47" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="1130" cy="670" r="120" fill="#FFFFFF" stroke="#2F6B63" stroke-width="6"/>
+<text x="1130" y="688" font-size="50" font-weight="700" fill="#2F6B63" text-anchor="middle">Na</text>
+<path d="M1350 516 H1328 V820 H1350 M1622 516 H1644 V820 H1622" fill="none" stroke="#1E2B47" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="1490" cy="670" r="120" fill="#FFFFFF" stroke="#2F6B63" stroke-width="6"/>
+<text x="1490" y="688" font-size="50" font-weight="700" fill="#2F6B63" text-anchor="middle">Cl</text>
+<line x1="1442" y1="538" x2="1470" y2="566" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="1470" y1="538" x2="1442" y2="566" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="1510" y1="538" x2="1538" y2="566" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="1538" y1="538" x2="1510" y2="566" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="1590" y1="622" x2="1618" y2="650" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="1618" y1="622" x2="1590" y2="650" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="1590" y1="690" x2="1618" y2="718" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="1618" y1="690" x2="1590" y2="718" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="1442" y1="774" x2="1470" y2="802" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="1470" y1="774" x2="1442" y2="802" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="1510" y1="774" x2="1538" y2="802" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="1538" y1="774" x2="1510" y2="802" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<circle cx="1372" cy="636" r="13" fill="#2F6B63"/>
+<line x1="1362" y1="690" x2="1390" y2="718" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="1390" y1="690" x2="1362" y2="718" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<text x="1272" y="494" font-size="54" font-weight="700" fill="#8A6A0C" text-anchor="middle">+</text>
+<text x="1640" y="494" font-size="56" font-weight="700" fill="#2F6B63" text-anchor="middle">−</text>
+<text x="1130" y="876" font-size="42" fill="#1E2B47" text-anchor="middle">none left</text>
+<text x="1490" y="876" font-size="42" fill="#1E2B47" text-anchor="middle">8 outer electrons</text>
+<rect x="60" y="990" width="1680" height="690" rx="24" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<text x="120" y="1080" font-size="50" font-weight="700" fill="#1E2B47">Magnesium oxide, MgO</text>
+<text x="410" y="1186" font-size="40" fill="#4B5B72" text-anchor="middle">atoms</text>
+<text x="1310" y="1186" font-size="40" fill="#4B5B72" text-anchor="middle">ions</text>
+<circle cx="210" cy="1420" r="120" fill="#FFFFFF" stroke="#2F6B63" stroke-width="6"/>
+<text x="210" y="1438" font-size="50" font-weight="700" fill="#2F6B63" text-anchor="middle">Mg</text>
+<circle cx="610" cy="1420" r="120" fill="#FFFFFF" stroke="#2F6B63" stroke-width="6"/>
+<text x="610" y="1438" font-size="50" font-weight="700" fill="#2F6B63" text-anchor="middle">O</text>
+<line x1="562" y1="1288" x2="590" y2="1316" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="590" y1="1288" x2="562" y2="1316" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="630" y1="1288" x2="658" y2="1316" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="658" y1="1288" x2="630" y2="1316" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="710" y1="1372" x2="738" y2="1400" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="738" y1="1372" x2="710" y2="1400" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="710" y1="1440" x2="738" y2="1468" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="738" y1="1440" x2="710" y2="1468" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="562" y1="1524" x2="590" y2="1552" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="590" y1="1524" x2="562" y2="1552" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="630" y1="1524" x2="658" y2="1552" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="658" y1="1524" x2="630" y2="1552" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<circle cx="324" cy="1388" r="13" fill="#2F6B63"/>
+<circle cx="324" cy="1452" r="13" fill="#2F6B63"/>
+<path d="M344 1370 Q400 1270 447.9 1325.2" fill="none" stroke="#1E2B47" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="478,1360 428.2,1342.3 467.5,1308.2" fill="#1E2B47"/>
+<path d="M344 1470 Q400 1570 447.9 1514.8" fill="none" stroke="#1E2B47" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="478,1480 467.5,1531.8 428.2,1497.7" fill="#1E2B47"/>
+<text x="210" y="1626" font-size="42" fill="#1E2B47" text-anchor="middle">2 electrons</text>
+<text x="610" y="1626" font-size="42" fill="#1E2B47" text-anchor="middle">6 electrons</text>
+<line x1="790" y1="1420" x2="884" y2="1420" stroke="#1E2B47" stroke-width="10" stroke-linecap="round"/><polygon points="944,1420 882,1451 882,1389" fill="#1E2B47"/>
+<path d="M990 1266 H968 V1570 H990 M1258 1266 H1280 V1570 H1258" fill="none" stroke="#1E2B47" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="1130" cy="1420" r="120" fill="#FFFFFF" stroke="#2F6B63" stroke-width="6"/>
+<text x="1130" y="1438" font-size="50" font-weight="700" fill="#2F6B63" text-anchor="middle">Mg</text>
+<path d="M1350 1266 H1328 V1570 H1350 M1622 1266 H1644 V1570 H1622" fill="none" stroke="#1E2B47" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="1490" cy="1420" r="120" fill="#FFFFFF" stroke="#2F6B63" stroke-width="6"/>
+<text x="1490" y="1438" font-size="50" font-weight="700" fill="#2F6B63" text-anchor="middle">O</text>
+<line x1="1442" y1="1288" x2="1470" y2="1316" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="1470" y1="1288" x2="1442" y2="1316" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="1510" y1="1288" x2="1538" y2="1316" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="1538" y1="1288" x2="1510" y2="1316" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="1590" y1="1372" x2="1618" y2="1400" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="1618" y1="1372" x2="1590" y2="1400" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="1590" y1="1440" x2="1618" y2="1468" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="1618" y1="1440" x2="1590" y2="1468" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="1442" y1="1524" x2="1470" y2="1552" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="1470" y1="1524" x2="1442" y2="1552" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="1510" y1="1524" x2="1538" y2="1552" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="1538" y1="1524" x2="1510" y2="1552" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<circle cx="1372" cy="1388" r="13" fill="#2F6B63"/>
+<circle cx="1372" cy="1452" r="13" fill="#2F6B63"/>
+<text x="1272" y="1244" font-size="54" font-weight="700" fill="#8A6A0C" text-anchor="middle">2+</text>
+<text x="1640" y="1244" font-size="56" font-weight="700" fill="#2F6B63" text-anchor="middle">2−</text>
+<text x="1130" y="1626" font-size="42" fill="#1E2B47" text-anchor="middle">none left</text>
+<text x="1490" y="1626" font-size="42" fill="#1E2B47" text-anchor="middle">8 outer electrons</text>
+<circle cx="140" cy="1812" r="14" fill="#2F6B63"/>
+<text x="180" y="1826" font-size="42" fill="#1E2B47">electron from the metal</text>
+<line x1="926" y1="1798" x2="954" y2="1826" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="954" y1="1798" x2="926" y2="1826" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<text x="984" y="1826" font-size="42" fill="#1E2B47">electron from the non-metal</text></g></svg>

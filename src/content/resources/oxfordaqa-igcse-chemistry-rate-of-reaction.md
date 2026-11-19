@@ -136,7 +136,7 @@ So there are two ways to make a reaction faster:
 Every factor below works through one or both of these.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--01-collision-theory.webp" width="900" height="910" alt="Two particles that collide slowly bounce apart, while fast ones with at least the activation energy react." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-shared-intl-collision-theory.svg" width="900" height="910" alt="Two particles that collide slowly bounce apart, while fast ones with at least the activation energy react." loading="lazy">
   <figcaption>Slow collisions bounce apart; collisions with at least E_a produce a new substance.</figcaption>
 </figure>
 
@@ -246,7 +246,7 @@ A catalyst does not change the amount of product. On a gas-volume graph, a catal
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--04-catalyst-profile.webp" width="900" height="860" alt="Energy against progress of reaction for an exothermic reaction. A high hump without a catalyst and a lower dashed hump with a catalyst; the arrow from reactants to hump top is E_a, smaller with a catalyst." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-oxfordaqa-catalyst-profile.svg" width="900" height="860" alt="Energy against progress of reaction for an exothermic reaction. A high hump without a catalyst and a lower dashed hump with a catalyst; the arrow from reactants to hump top is E_a, smaller with a catalyst." loading="lazy">
   <figcaption>A catalyst provides an alternative pathway with lower activation energy.</figcaption>
 </figure>
 

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="910" viewBox="0 0 1800 1820" role="img" aria-labelledby="title desc"><title id="title">Iron forms two ions (OxfordAQA International GCSE Chemistry)</title><desc id="desc">No tier label: OxfordAQA International GCSE Chemistry is not tiered; 9202 statement 3.7.2a says many transition metals have ions with different charges. Group 1: sodium forms only one ion, Na+. Transition metal iron forms two ions: losing 2 electrons gives Fe2+, iron(II), as in pale green iron(II) sulfate, FeSO4; losing 3 electrons gives Fe3+, iron(III), as in orange-brown iron(III) chloride, FeCl3.</desc><rect width="1800" height="1820" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="92" font-size="64" font-weight="700" fill="#1E2B47" text-anchor="middle">Iron forms two ions</text>
+<text x="900" y="172" font-size="42" fill="#4B5B72" text-anchor="middle">Variable oxidation numbers</text>
+<rect x="60" y="340" width="1680" height="260" rx="24" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<text x="120" y="424" font-size="46" font-weight="700" fill="#1E2B47">Group 1: only one ion</text>
+<circle cx="256" cy="526" r="46" fill="#DDEBE8" stroke="#1E2B47" stroke-width="5"/>
+<text x="256" y="538" font-size="34" font-weight="700" fill="#1E2B47" text-anchor="middle">Na</text>
+<line x1="330" y1="526" x2="534" y2="526" stroke="#1E2B47" stroke-width="8" stroke-linecap="round"/><polygon points="592,526 532,556 532,496" fill="#1E2B47"/>
+<text x="624" y="548" font-size="56" font-weight="700" fill="#2F6B63" xml:space="preserve"><tspan>Na</tspan><tspan dy="-21.3" font-size="38.1">+</tspan></text>
+<rect x="60" y="640" width="1680" height="1120" rx="24" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<text x="120" y="724" font-size="46" font-weight="700" fill="#1E2B47">Transition metal iron: two ions</text>
+<circle cx="884" cy="900" r="54" fill="#B5D4CF" stroke="#1E2B47" stroke-width="5"/>
+<text x="884" y="916" font-size="44" font-weight="700" fill="#1E2B47" text-anchor="middle">Fe</text>
+<line x1="840" y1="966" x2="570.4161718498244" y2="1119.3258022604125" stroke="#1E2B47" stroke-width="6" stroke-linecap="round"/><polygon points="520,1148 557.3,1092.3 587,1144.4" fill="#1E2B47"/>
+<line x1="930" y1="966" x2="1238.2387579903536" y2="1121.8318165395679" stroke="#1E2B47" stroke-width="6" stroke-linecap="round"/><polygon points="1290,1148 1222.9,1147.7 1250,1094.2" fill="#1E2B47"/>
+<text x="486" y="1038" font-size="42" font-weight="700" fill="#8A6A0C" text-anchor="middle" xml:space="preserve"><tspan>loses 2 e</tspan><tspan dy="-16" font-size="28.6">−</tspan></text>
+<text x="1314" y="1038" font-size="42" font-weight="700" fill="#8A6A0C" text-anchor="middle" xml:space="preserve"><tspan>loses 3 e</tspan><tspan dy="-16" font-size="28.6">−</tspan></text>
+<text x="444" y="1250" font-size="70" font-weight="700" fill="#2F6B63" text-anchor="middle" xml:space="preserve"><tspan>Fe</tspan><tspan dy="-26.6" font-size="47.6">2+</tspan></text>
+<text x="444" y="1332" font-size="44" font-weight="700" fill="#1E2B47" text-anchor="middle">iron(II)</text>
+<text x="1364" y="1250" font-size="70" font-weight="700" fill="#2F6B63" text-anchor="middle" xml:space="preserve"><tspan>Fe</tspan><tspan dy="-26.6" font-size="47.6">3+</tspan></text>
+<text x="1364" y="1332" font-size="44" font-weight="700" fill="#1E2B47" text-anchor="middle">iron(III)</text>
+<path d="M200 1480 V1580 A50 50 0 0 0 300 1580 V1480 Z" fill="#BEDBA4"/>
+<path d="M200 1396 V1580 A50 50 0 0 0 300 1580 V1396" fill="none" stroke="#1E2B47" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1116 1480 V1580 A50 50 0 0 0 1216 1580 V1480 Z" fill="#E2A93F"/>
+<path d="M1116 1396 V1580 A50 50 0 0 0 1216 1580 V1396" fill="none" stroke="#1E2B47" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="344" y="1500" font-size="42" font-weight="700" fill="#1E2B47" xml:space="preserve"><tspan>FeSO</tspan><tspan dy="11.8" font-size="28.6">4</tspan></text>
+<text x="344" y="1562" font-size="40" fill="#4B5B72">iron(II)</text>
+<text x="344" y="1620" font-size="40" fill="#4B5B72">sulfate</text>
+<text x="1260" y="1500" font-size="42" font-weight="700" fill="#1E2B47" xml:space="preserve"><tspan>FeCl</tspan><tspan dy="11.8" font-size="28.6">3</tspan></text>
+<text x="1260" y="1562" font-size="40" fill="#4B5B72">iron(III)</text>
+<text x="1260" y="1620" font-size="40" fill="#4B5B72">chloride</text></g></svg>

@@ -110,12 +110,12 @@ Ar = (20 x 9 + 22 x 1) / (9 + 1) = (180 + 22) / 10 = 202 / 10 = 20.2
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/atomic-structure--06-isotopes.webp" width="900" height="1150" alt="Chlorine-35 and chlorine-37 nuclei: both 17 protons, with 18 and 20 neutrons. Below, two identical electron arrangements, 2,8,7, show why isotopes have the same chemical properties." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-shared-intl-isotopes.svg" width="900" height="1150" alt="Chlorine-35 and chlorine-37 nuclei: both 17 protons, with 18 and 20 neutrons. Below, two identical electron arrangements, 2,8,7, show why isotopes have the same chemical properties." loading="lazy">
   <figcaption>Isotopes differ in neutrons and mass number but share electrons and chemistry.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/atomic-structure--07-relative-atomic-mass.webp" width="900" height="1040" alt="100 chlorine atoms: 75 chlorine-35 and 25 chlorine-37. The weighted calculation gives 3550 / 100 = 35.5, marked on a number line nearer 35 than the plain average of 36, which is wrong." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-edexcel-relative-atomic-mass.svg" width="900" height="1040" alt="100 chlorine atoms: 75 chlorine-35 and 25 chlorine-37. The weighted calculation gives 3550 / 100 = 35.5, marked on a number line nearer 35 than the plain average of 36, which is wrong." loading="lazy">
   <figcaption>Relative atomic mass is a weighted average of isotope masses.</figcaption>
 </figure>
 

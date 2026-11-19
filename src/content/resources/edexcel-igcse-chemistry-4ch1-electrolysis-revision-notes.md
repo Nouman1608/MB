@@ -92,7 +92,7 @@ In the electrolyte the **ions** move. In the wires, **electrons** move.
 Lead(II) bromide must be heated in a **fume cupboard**: bromine is toxic. Very dilute sodium chloride solution gives oxygen as well at the anode.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--05-copper-sulfate-electrodes.webp" width="900" height="1200" alt="Blue copper(II) sulfate solution is electrolysed twice. With graphite, copper coats the cathode and oxygen bubbles form at the anode. With copper electrodes copper again deposits, but the anode dissolves and gets smaller." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-edexcel-copper-sulfate-electrodes.svg" width="900" height="1200" alt="Blue copper(II) sulfate solution is electrolysed twice. With graphite, copper coats the cathode and oxygen bubbles form at the anode. With copper electrodes copper again deposits, but the anode dissolves and gets smaller. The whole figure is marked Paper 2 only, and the copper-electrode half is marked not required by Edexcel." loading="lazy">
   <figcaption>Copper deposits at the cathode either way; the anode gives oxygen with graphite but dissolves if it is copper.</figcaption>
 </figure>
 

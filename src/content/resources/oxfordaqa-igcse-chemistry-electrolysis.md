@@ -187,7 +187,7 @@ Mass gained: 0.12 g, 0.24 g, 0.31 g and 0.48 g after 4, 8, 12 and 16 minutes. Ev
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--05-copper-sulfate-electrodes.webp" width="900" height="1200" alt="Blue copper(II) sulfate solution is electrolysed twice. With graphite, copper coats the cathode and oxygen bubbles form at the anode. With copper electrodes copper again deposits, but the anode dissolves and gets smaller." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-oxfordaqa-copper-sulfate-electrodes.svg" width="900" height="1200" alt="Blue copper(II) sulfate solution is electrolysed twice. With graphite, copper coats the cathode and oxygen bubbles form at the anode. With copper electrodes copper again deposits, but the anode dissolves and gets smaller." loading="lazy">
   <figcaption>Copper deposits at the cathode either way; the anode gives oxygen with graphite but dissolves if it is copper.</figcaption>
 </figure>
 
@@ -253,7 +253,7 @@ The [quantitative chemistry guide](/resources/oxfordaqa-igcse-chemistry-quantita
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/alloys-and-extraction-of-metals--06-aluminium-cell.webp" width="900" height="1080" alt="An electrolysis cell: carbon anodes dip into molten cryolite containing dissolved aluminium oxide. Al3+ ions move to the cathode and form molten aluminium; O2- ions go to the anodes and form oxygen, which burns the carbon anodes away as carbon dioxide." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-oxfordaqa-aluminium-cell.svg" width="900" height="1080" alt="An electrolysis cell: carbon anodes dip into molten cryolite containing dissolved aluminium oxide. Al3+ ions move to the cathode and form molten aluminium; O2- ions go to the anodes and form oxygen, which burns the carbon anodes away as carbon dioxide." loading="lazy">
   <figcaption>Aluminium oxide is dissolved in molten cryolite and electrolysed; the carbon anodes burn away and are replaced.</figcaption>
 </figure>
 

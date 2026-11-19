@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="860" viewBox="0 0 1800 1720" role="img" aria-labelledby="title desc"><title id="title">How a catalyst helps (OxfordAQA International GCSE Chemistry)</title><desc id="desc">No tier label: OxfordAQA International GCSE Chemistry is not tiered; 9202 statement 3.9.2h says catalysts provide a pathway with a lower activation energy, and students should represent this on an energy level diagram. Sketch reaction profile, not to scale: energy against progress of reaction. Without a catalyst the curve rises by the activation energy, Ea, to a high peak; with a catalyst (dashed) it takes an alternative pathway with a lower peak, so the activation energy is smaller. Reactants and products are at the same energies on both paths.</desc><rect width="1800" height="1720" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="92" font-size="64" font-weight="700" fill="#1E2B47" text-anchor="middle">How a catalyst helps</text>
+<text x="900" y="172" font-size="42" fill="#4B5B72" text-anchor="middle">Lower activation energy, alternative pathway</text>
+<rect x="60" y="320" width="1680" height="1320" rx="22" fill="#FFFFFF" stroke="#C6D3D0" stroke-width="4"/>
+<line x1="240" y1="1400" x2="240" y2="424" stroke="#1E2B47" stroke-width="7" stroke-linecap="round"/><polygon points="240,370 270.8,426 209.2,426" fill="#1E2B47"/>
+<line x1="240" y1="1396" x2="1720" y2="1396" stroke="#1E2B47" stroke-width="6"/>
+<text x="112" y="940" font-size="44" font-weight="700" fill="#1E2B47" text-anchor="middle" transform="rotate(-90 112 940)">Energy</text>
+<text x="980" y="1500" font-size="44" font-weight="700" fill="#1E2B47" text-anchor="middle">Progress of reaction</text>
+<line x1="584" y1="596" x2="836" y2="596" stroke="#4B5B72" stroke-width="3" stroke-dasharray="12 10"/>
+<line x1="840" y1="860" x2="1276" y2="860" stroke="#4B5B72" stroke-width="3" stroke-dasharray="12 10"/>
+<line x1="584" y1="1024" x2="1276" y2="1024" stroke="#4B5B72" stroke-width="3" stroke-dasharray="12 10"/>
+<path d="M240 1024 H560 C670 1024 740 596 856 596 C980 596 1030 1100 1160 1180 C1220 1210 1260 1210 1320 1210 H1720" fill="none" stroke="#1E2B47" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M240 1024 H580 C690 1024 750 860 840 860 C940 860 1020 1080 1140 1160 C1210 1206 1250 1210 1320 1210 H1720" fill="none" stroke="#2F6B63" stroke-width="8" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="26 16"/>
+<line x1="586" y1="1020" x2="586" y2="652" stroke="#1E2B47" stroke-width="6" stroke-linecap="round"/><polygon points="586,604 611,654 561,654" fill="#1E2B47"/>
+<text x="500" y="836" font-size="50" font-weight="700" fill="#1E2B47" xml:space="preserve"><tspan>E</tspan><tspan dy="14" font-size="34">a</tspan></text>
+<line x1="1188" y1="1020" x2="1188" y2="916" stroke="#2F6B63" stroke-width="6" stroke-linecap="round"/><polygon points="1188,868 1213,918 1163,918" fill="#2F6B63"/>
+<text x="1216" y="960" font-size="44" font-weight="700" fill="#2F6B63" xml:space="preserve"><tspan>smaller E</tspan><tspan dy="12.3" font-size="29.9">a</tspan></text>
+<text x="1130" y="606" font-size="44" font-weight="700" fill="#1E2B47">no catalyst</text>
+<text x="1100" y="816" font-size="44" font-weight="700" fill="#2F6B63">with catalyst</text>
+<text x="270" y="990" font-size="44" font-weight="700" fill="#1E2B47">reactants</text>
+<text x="1470" y="1290" font-size="44" font-weight="700" fill="#1E2B47">products</text>
+<text x="900" y="1684" font-size="40" fill="#4B5B72" text-anchor="middle">Sketch graph, not to scale</text></g></svg>

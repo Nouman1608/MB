@@ -168,7 +168,7 @@ Links: [course hub](/boards/oxfordaqa/igcse/chemistry/) · [checklist](/checklis
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--05-rf-value.webp" width="900" height="1010" alt="A chromatogram shows a solvent front 80 mm above the baseline. A blue spot has moved 48 mm and an orange spot 24 mm. Dividing by 80 gives Rf 0.60 and 0.30. Rf is always less than 1." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-shared-intl-rf-value.svg" width="900" height="1010" alt="A chromatogram shows a solvent front 80 mm above the baseline. A blue spot has moved 48 mm and an orange spot 24 mm. Dividing by 80 gives Rf 0.60 and 0.30. Rf is always less than 1." loading="lazy">
   <figcaption>Rf = distance moved by substance / distance moved by solvent, both measured from the baseline.</figcaption>
 </figure>
 

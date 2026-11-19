@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1010" viewBox="0 0 1800 2020" role="img" aria-labelledby="title desc"><title id="title">Calculating Rf</title><desc id="desc">No tier label: Rf values are on both Edexcel International GCSE papers (4CH1 1.12) and OxfordAQA International GCSE Chemistry is not tiered (9202 3.4.1d). A chromatogram: the solvent front is 80 mm above the baseline; a blue spot has moved 48 mm and an orange spot 24 mm. Rf = distance moved by substance ÷ distance moved by solvent. Blue spot: 48 ÷ 80 = 0.60. Orange spot: 24 ÷ 80 = 0.30. Rf is always less than 1.</desc><rect width="1800" height="2020" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="92" font-size="64" font-weight="700" fill="#1E2B47" text-anchor="middle" xml:space="preserve"><tspan>Calculating R</tspan><tspan dy="17.9" font-size="43.5">f</tspan></text>
+<rect x="720" y="200" width="380" height="980" fill="#FFFFFF" stroke="#6E7A8C" stroke-width="4"/>
+<line x1="720" y1="1118" x2="1100" y2="1118" stroke="#6E7A8C" stroke-width="4"/>
+<line x1="720" y1="320" x2="1100" y2="320" stroke="#2F6B63" stroke-width="5" stroke-dasharray="18 12"/>
+<text x="910" y="288" font-size="42" font-weight="700" fill="#2F6B63" text-anchor="middle">solvent front</text>
+<line x1="680" y1="640" x2="880" y2="640" stroke="#3E79AA" stroke-width="4" stroke-dasharray="8 8"/>
+<circle cx="910" cy="640" r="30" fill="#3E79AA" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="910" cy="880" r="30" fill="#B9632F" stroke="#1E2B47" stroke-width="4"/>
+<line x1="660" y1="640" x2="660" y2="1118" stroke="#3E79AA" stroke-width="7"/>
+<line x1="640" y1="640" x2="680" y2="640" stroke="#3E79AA" stroke-width="7" stroke-linecap="round"/>
+<line x1="640" y1="1118" x2="680" y2="1118" stroke="#3E79AA" stroke-width="7" stroke-linecap="round"/>
+<text x="620" y="876" font-size="46" font-weight="700" fill="#3E79AA" text-anchor="end">48 mm</text>
+<text x="620" y="936" font-size="40" fill="#1E2B47" text-anchor="end">spot moved</text>
+<line x1="1160" y1="320" x2="1160" y2="1118" stroke="#2F6B63" stroke-width="7"/>
+<line x1="1140" y1="320" x2="1180" y2="320" stroke="#2F6B63" stroke-width="7" stroke-linecap="round"/>
+<line x1="1140" y1="1118" x2="1180" y2="1118" stroke="#2F6B63" stroke-width="7" stroke-linecap="round"/>
+<text x="1204" y="712" font-size="46" font-weight="700" fill="#2F6B63">80 mm</text>
+<text x="1204" y="774" font-size="40" fill="#1E2B47">solvent moved</text>
+<text x="624" y="1190" font-size="40" fill="#4B5B72" text-anchor="end">baseline</text>
+<rect x="80" y="1300" width="1640" height="660" rx="26" fill="#FFFFFF" stroke="#C6D3D0" stroke-width="5"/>
+<text x="220" y="1484" font-size="60" font-weight="700" fill="#1E2B47" text-anchor="middle" xml:space="preserve"><tspan>R</tspan><tspan dy="16.8" font-size="40.8">f</tspan></text>
+<text x="360" y="1478" font-size="52" fill="#1E2B47" text-anchor="middle">=</text>
+<line x1="430" y1="1462" x2="1574" y2="1462" stroke="#1E2B47" stroke-width="6" stroke-linecap="round"/>
+<text x="1000" y="1424" font-size="44" fill="#1E2B47" text-anchor="middle">distance moved by substance</text>
+<text x="1000" y="1524" font-size="44" fill="#1E2B47" text-anchor="middle">distance moved by solvent</text>
+<text x="140" y="1696" font-size="44" font-weight="700" fill="#3E79AA">Blue spot:</text>
+<text x="520" y="1696" font-size="50" font-weight="700" fill="#1E2B47">48 ÷ 80 = 0.60</text>
+<text x="140" y="1796" font-size="44" font-weight="700" fill="#B9632F">Orange spot:</text>
+<text x="520" y="1796" font-size="50" font-weight="700" fill="#1E2B47">24 ÷ 80 = 0.30</text>
+<text x="140" y="1900" font-size="40" fill="#4B5B72" xml:space="preserve"><tspan>R</tspan><tspan dy="11.2" font-size="27.2">f</tspan><tspan dy="-11.2"> is always less than 1.</tspan></text></g></svg>
