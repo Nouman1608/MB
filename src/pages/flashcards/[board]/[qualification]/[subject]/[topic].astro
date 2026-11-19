@@ -75,7 +75,7 @@ const searchTitle = flashcardSearchTitle({ topicName: topic.name, stageLabel, su
 >
   <Section surface="white" spacing="md">
     <Container>
-      <FlashcardStudy code={deckStorageId(deck)} scope="topic" tierScheme={deck.tierScheme} groupNoun="subtopic" groups={groups} cards={cards} />
+      <FlashcardStudy code={deckStorageId(deck)} scope="topic" tierScheme={deck.tierScheme} idMigration={deck.idMigration} groupNoun="subtopic" groups={groups} cards={cards} />
     </Container>
   </Section>
 

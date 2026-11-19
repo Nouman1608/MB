@@ -88,5 +88,21 @@ export interface FlashcardDeck {
   updated: string;
   /** Filled ONLY after a named subject teacher has reviewed the whole deck. */
   deckReview?: { reviewerSlug: string; reviewedOn: string };
+  /**
+   * Set only when a re-filing had to change card ids (a new syllabus
+   * structure), so progress saved in the browser follows each card to its new
+   * id. src/scripts/flashcard-migrate.ts applies it once per browser:
+   *   id      Stable migration name, e.g. 'h060-v3-2026-11-19'. Recorded in
+   *           the saved progress, so never change it once published.
+   *   before  ISO date the new ids went live. Saved marks dated before it use
+   *           the old ids and are remapped; marks dated on or after it already
+   *           use the new ids and are kept as they are.
+   *   map     Old id -> new id for every card that survived, including cards
+   *           whose id did not change. An old id that is not listed belonged
+   *           to a removed card, so its mark is dropped.
+   * validate-flashcards.mjs checks that every value is a card id in the deck
+   * and that no two old ids share a new one.
+   */
+  idMigration?: { id: string; before: string; map: Readonly<Record<string, string>> };
   cards: readonly Flashcard[];
 }

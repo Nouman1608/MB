@@ -16498,3 +16498,20 @@ Source: the owner's "Master Academic Quality Assurance, Content Authority & Sear
   - 4.2 Development has only the shared A Level pages.
   - "Individual and market demand/supply" (2.2, 2.3) and "ceteris paribus" (2.5) are only touched on.
   - 2.4 has no evaluation section of its own.
+
+## D-506 - H060 flashcard progress carried over to the Version 3.0 card ids (19 Nov 2026)
+
+- **Owner's instruction.** After D-505 merged: "complete all the tasks", including the D-505 note that learners' saved H060 flashcard progress resets.
+- **Change.** Saved progress now follows each card to its new id. Decks can declare `idMigration: { id, before, map }` (`src/data/flashcards/types.ts`). The H060 deck declares `h060-v3-2026-11-19`, with `before` 2026-11-19 and the full old-to-new map. The map has 135 entries: 17 unchanged ids and 118 renamed. The 25 removed cards are absent, so their marks are dropped.
+- **Rule** (`src/scripts/flashcard-migrate.ts`, pure and unit-tested):
+  - Marks dated before the cutoff use old ids and are remapped.
+  - Marks dated on or after the cutoff already use new ids and are kept.
+  - If two marks land on the same id, the later date wins.
+  - The migration id is recorded in the store's new optional `m` field, so it runs once per browser. This matters because 62 old ids now name different cards; running it again would move marks onto the wrong cards.
+  - The store stays `v: 1`.
+- **Known limit.** Marks carry only a date. A mark saved on 19 Nov by the old page, before the deploy, is read as a new id and stays where it is.
+- **Checks.**
+  - `validate-flashcards.mjs` checks the migration: values are real card ids and unique, `before` is a valid past date, and `id` is non-empty.
+  - 11 new tests in `src/scripts/__tests__/flashcard-migrate.test.mjs` run under `test:tools`.
+- **Coverage report.** `academic-coverage-report-v2.mjs` now leaves archived resources out, as course hubs do (D-505). Before this, the 9 archived H060 pages showed as "review-pending with no reviewer" under H060 and H460.
+- **Not fixed here.** `scripts/test-academic-reports.mjs` (not part of `audit:all`) fails 7 of 44 checks on main. Its fixtures assume some resources are still `review-pending`. Since D-500 credited every page, none are, so cases N2 and N4 find no file and the pending-row checks fail. Its `check:review-ledger` step also fails inside the test, though the same command passes on its own. The likely cause is a missing heap setting.

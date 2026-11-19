@@ -56,7 +56,7 @@ const fromNotes = deck.cards.filter((x) => x.origin === 'revision-notes').length
 >
   <Section surface="white" spacing="md">
     <Container>
-      <FlashcardStudy code={deckStorageId(deck)} scope="course" tierScheme={deck.tierScheme} groupNoun="topic" groups={groups} cards={cards} />
+      <FlashcardStudy code={deckStorageId(deck)} scope="course" tierScheme={deck.tierScheme} idMigration={deck.idMigration} groupNoun="topic" groups={groups} cards={cards} />
     </Container>
   </Section>
 

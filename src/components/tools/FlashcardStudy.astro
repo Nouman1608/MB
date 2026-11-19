@@ -5,7 +5,7 @@
  * prints, and is what search engines read); src/scripts/flashcard-ui.ts adds
  * the one-card-at-a-time study mode on top.
  */
-import { TIER_LABELS, type Flashcard, type TierScheme } from '../../data/flashcards/types';
+import { TIER_LABELS, type Flashcard, type FlashcardDeck, type TierScheme } from '../../data/flashcards/types';
 
 interface Group { key: string; label: string }
 interface Props {
@@ -19,13 +19,16 @@ interface Props {
   /** Cards in syllabus order, each with the key of the group it is listed under. */
   /** Only these fields are used, so syllabus and advanced-course cards both fit. */
   cards: (Pick<Flashcard, 'id' | 'front' | 'back' | 'tier'> & { group: string })[];
+  /** The deck's card-id migration (D-505), applied to saved progress once per browser. */
+  idMigration?: FlashcardDeck['idMigration'];
 }
-const { code, scope, tierScheme, groupNoun, groups, cards } = Astro.props;
+const { code, scope, tierScheme, groupNoun, groups, cards, idMigration } = Astro.props;
 const tl = tierScheme ? TIER_LABELS[tierScheme] : undefined;
 const hasUpper = !!tl && cards.some((c) => c.tier === 'upper');
 const payload = JSON.stringify({
   code, scope, groupNoun, groups, badge: tl?.badge ?? '',
   cards: cards.map((c) => ({ id: c.id, f: c.front, b: c.back, g: c.group, sup: !!tl && c.tier === 'upper' })),
+  ...(idMigration ? { idMigration } : {}),
 }).replace(/</g, '\\u003c');
 const btn = 'inline-flex min-h-11 items-center justify-center rounded-sm px-5 text-[14.5px] font-medium transition-colors';
 const primary = `${btn} bg-navy-800 text-ivory hover:bg-navy-700 disabled:cursor-not-allowed disabled:opacity-50`;
