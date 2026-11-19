@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="940" viewBox="0 0 1800 1880" role="img" aria-labelledby="title desc"><title id="title">Refraction through a glass block (OCR GCSE Physics)</title><desc id="desc">A ray at 45 degrees to the normal in air enters a rectangular glass block, slows down and bends towards the normal to 28 degrees, then leaves through the opposite face, speeds up and bends away to 45 degrees again, parallel to its first direction. A box below gives n = sin i ÷ sin r = 0.707 ÷ 0.471 = 1.50, labelled not required by OCR, which treats refraction qualitatively.</desc><rect width="1800" height="1880" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="112" font-size="70" font-weight="700" fill="#1E2B47" text-anchor="middle">Light bends in glass</text>
+<text x="900" y="192" font-size="44" fill="#4B5B72" text-anchor="middle">Air to glass and back again</text>
+<rect x="460" y="660" width="880" height="560" fill="#DDEBE8" stroke="#2F6B63" stroke-width="7"/>
+<line x1="760" y1="360" x2="760" y2="920" stroke="#1E2B47" stroke-width="3" stroke-dasharray="14 10"/>
+<line x1="1060" y1="960" x2="1060" y2="1520" stroke="#1E2B47" stroke-width="3" stroke-dasharray="14 10"/>
+<line x1="764" y1="664" x2="968" y2="868" stroke="#9AA6B4" stroke-width="3" stroke-dasharray="12 10"/>
+<path d="M760 520 A140 140 0 0 0 661 561" fill="none" stroke="#1E2B47" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M760 840 A180 180 0 0 0 844.5 818.9" fill="none" stroke="#1E2B47" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1060 1040 A180 180 0 0 0 975.5 1061.1" fill="none" stroke="#1E2B47" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1060 1360 A140 140 0 0 0 1159 1319" fill="none" stroke="#1E2B47" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M490 390 L760 660 L1060 1220 L1300 1460" fill="none" stroke="#8A6A0C" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="582,482 510,455 555,410" fill="#8A6A0C"/>
+<text x="785" y="398" font-size="44" fill="#4B5B72">normal</text>
+<text x="793" y="518" font-size="52" font-weight="700" fill="#1E2B47">i = 45°</text>
+<text x="1232" y="618" font-size="52" font-weight="700" fill="#4B5B72">air</text>
+<text x="555" y="895" font-size="52" font-weight="700" fill="#2F6B63">r = 28°</text>
+<text x="1092" y="1058" font-size="52" font-weight="700" fill="#2F6B63">28°</text>
+<text x="1158" y="1172" font-size="52" font-weight="700" fill="#2F6B63">glass</text>
+<text x="1200" y="1318" font-size="52" font-weight="700" fill="#1E2B47">45°</text>
+<text x="1400" y="840" font-size="50" font-weight="700" fill="#2F6B63">slows down</text>
+<text x="1400" y="908" font-size="50" fill="#2F6B63">bends towards</text>
+<text x="1400" y="970" font-size="50" fill="#2F6B63">the normal</text>
+<text x="1400" y="1120" font-size="50" font-weight="700" fill="#8A6A0C">speeds up</text>
+<text x="1400" y="1190" font-size="50" fill="#8A6A0C">bends away</text>
+<rect x="60" y="1600" width="1680" height="220" rx="28" fill="#FFFFFF" stroke="#1E2B47" stroke-width="6"/>
+<rect x="100" y="1628" width="474" height="64" rx="32" fill="#6B7785"/><text x="337" y="1674.4" font-size="40" font-weight="700" fill="#FFFFFF" text-anchor="middle">Not required by OCR</text>
+<text x="900" y="1772" font-size="56" font-weight="700" fill="#2F6B63" text-anchor="middle">n = sin i ÷ sin r = 0.707 ÷ 0.471 = 1.50</text></g></svg>
