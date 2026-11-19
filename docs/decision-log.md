@@ -16623,3 +16623,11 @@ Source: the owner's "Master Academic Quality Assurance, Content Authority & Sear
     - OxfordAQA: nephron part names, lymphocyte and memory cell, and commutator detail.
   - These rulings rest on what the specification leaves out, and each is cited in the SVG's description.
   - The page text was not changed, so some pages still teach content their figure now marks as not required. For example, cilia and mucus on the Edexcel gas-exchange notes, and mRNA on the OxfordAQA gene-to-protein pages.
+
+## D-509 - Owner's answers on the D-508 open points, and the next gap round (19 Nov 2026)
+
+- **IB DP Language A records.** The owner shared the files in `C:\Users\nouma\Downloads\New folder (2)` on his computer. This cloud session cannot reach that folder: no computer folder is shared with it, and the files are not in OneDrive. The two records stay `VERIFIED_PARTIAL` until the files can be read.
+- **4MA1 duplicate practice sets: merged** on the owner's instruction ("merge them"). The smaller set's distinct questions move into `edexcel-igcse-maths-4ma1-use-of-symbols-and-algebraic-manipulation-practice`, and the old slug redirects to it.
+- **Figure rulings.** The owner reports that the teacher confirmed the "not required by <board>" rulings in the D-508 redraws, including the two AQA 8461 Higher-only rulings.
+- **Urdu notes.** The owner says the two open Urdu points on the 0539 speaking practice page "are fine". They are closed in `pending-review-2026-11-19.json`, and the text is unchanged.
+- **Teacher review of the five new pages.** The owner reports the teachers reviewed them. They are credited under D-379, each to the reviewer most credited for its course and never the author: the three H060 Development pages to salman-ahmad, 0539 speaking practice to farheen-zehra, and IB Geography fieldwork practice to azam-siddique. No page is review-pending now.

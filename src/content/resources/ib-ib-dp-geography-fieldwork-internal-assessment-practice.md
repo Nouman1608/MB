@@ -15,8 +15,10 @@ syllabusTopics:
     topic: "ib-dp-geography-fieldwork"
 description: "Original practice tasks with answers for planning and evaluating an IB DP Geography fieldwork investigation: questions, hypotheses, sampling, presentation, Spearman's rank, chi-squared and evaluation."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNote: "The IB Geography guide and subject brief on ibo.org could not be opened while this page was written (the site returned a browser challenge), so the page describes the IA only in the same general terms as the fieldwork study guide. A teacher should check the tasks against the current guide's IA requirements and criteria. Tariffs are a Marlbridge practice convention, not IA criteria; all data are invented."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-19
+reviewNote: "The IB Geography guide and subject brief on ibo.org could not be opened while this page was written (the site returned a browser challenge), so the page describes the IA only in the same general terms as the fieldwork study guide. A teacher should check the tasks against the current guide's IA requirements and criteria. Tariffs are a Marlbridge practice convention, not IA criteria; all data are invented. 2026-11-19: credited to azam-siddique (accountable teacher, D-379). The owner reports that the teachers reviewed this page (19 Nov 2026)."
 publishedDate: 2026-11-19
 featured: false
 ---
