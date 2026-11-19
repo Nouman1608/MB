@@ -122,7 +122,7 @@ In beta decay a **neutron becomes a proton plus an electron**, which is why the 
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--04-decay-equations.webp" width="900" height="1060" alt="Radium-226 decays by alpha emission to radon-222 plus a helium-4 nucleus: 226 = 222 + 4 and 88 = 86 + 2. Carbon-14 decays by beta emission to nitrogen-14 plus an electron: 14 = 14 + 0 and 6 = 7 + (-1)." loading="lazy">
+  <img src="/images/learning/physics/igcse-edexcel-decay-equations.svg" width="900" height="1060" alt="Radium-226 decays by alpha emission to radon-222 plus a helium-4 nucleus: 226 = 222 + 4 and 88 = 86 + 2. Carbon-14 decays by beta emission to nitrogen-14 plus an electron: 14 = 14 + 0 and 6 = 7 + (-1)." loading="lazy">
   <figcaption>In a decay equation the top numbers balance and the bottom numbers balance.</figcaption>
 </figure>
 
@@ -210,7 +210,7 @@ Reduce exposure by **shielding** (lead, concrete), **distance**, and **limiting 
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-physics-nuclear-physics--03-safety-rules.webp" width="900" height="890" alt="Three rules: less time (short exposure beats long), more distance (long tongs, never by hand), shielding (lead or concrete absorbs radiation)." loading="lazy">
+  <img src="/images/learning/physics/igcse-edexcel-radiation-safety.svg" width="900" height="890" alt="Three rules: less time (short exposure beats long), more distance (long tongs, never by hand), shielding (lead or concrete absorbs radiation)." loading="lazy">
   <figcaption>Time, distance and shielding reduce exposure.</figcaption>
 </figure>
 

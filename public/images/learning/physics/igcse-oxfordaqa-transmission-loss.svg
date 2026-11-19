@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="880" viewBox="0 0 1000 977.78" role="img" aria-labelledby="title desc"><title id="title">Why transmit at high voltage? (OxfordAQA International GCSE Physics)</title><desc id="desc">No tier labels: 9203 3.6.2b. Sending 50 MW through cables of 4.0 Ω from a power station to a town. At 25 kV the current is 2000 A (drawn as a thick cable) and 16 MW of the 50 MW is lost as heat. At 250 kV the current is 200 A and only 0.16 MW is lost. Ten times the voltage gives one hundredth of the loss.</desc><rect width="1000" height="977.78" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="500" y="62" font-size="36" font-weight="700" fill="#1E2B47" text-anchor="middle">Why transmit at high voltage?</text>
+<text x="500" y="106" font-size="23" fill="#4B5B72" text-anchor="middle">Sending 50 MW through cables of 4.0 Ω</text>
+<rect x="33" y="178" width="934" height="344" rx="14" fill="#FFFFFF" stroke="#1E2B47" stroke-width="2.5"/>
+<text x="67" y="232" font-size="34" font-weight="700" fill="#2F6B63">25 kV</text>
+<text x="933" y="232" font-size="28" font-weight="700" fill="#B9632F" text-anchor="end">current 2000 A</text>
+<rect x="67" y="272" width="43" height="44" fill="#F2E6B7" stroke="#1E2B47" stroke-width="2.5"/>
+<rect x="889" y="272" width="44" height="44" fill="#DDEBE8" stroke="#1E2B47" stroke-width="2.5"/>
+<line x1="135" y1="293" x2="865" y2="293" stroke="#1E2B47" stroke-width="28" stroke-linecap="round"/>
+<text x="90" y="345" font-size="23" fill="#4B5B72" text-anchor="middle">power</text>
+<text x="90" y="374" font-size="23" fill="#4B5B72" text-anchor="middle">station</text>
+<text x="911" y="345" font-size="23" fill="#4B5B72" text-anchor="middle">town</text>
+<rect x="67" y="405" width="866" height="45" fill="#DDEBE8" stroke="#1E2B47" stroke-width="2.5"/>
+<rect x="68.5" y="406.5" width="275.62" height="42" fill="#8A6A0C"/>
+<text x="67" y="490" font-size="26" font-weight="700" fill="#8A6A0C">Lost as heat: 16 MW</text>
+<text x="933" y="490" font-size="23" fill="#4B5B72" text-anchor="end">of 50 MW</text>
+<rect x="33" y="545" width="934" height="344" rx="14" fill="#FFFFFF" stroke="#1E2B47" stroke-width="2.5"/>
+<text x="67" y="599" font-size="34" font-weight="700" fill="#2F6B63">250 kV</text>
+<text x="933" y="599" font-size="28" font-weight="700" fill="#B9632F" text-anchor="end">current 200 A</text>
+<rect x="67" y="639" width="43" height="44" fill="#F2E6B7" stroke="#1E2B47" stroke-width="2.5"/>
+<rect x="889" y="639" width="44" height="44" fill="#DDEBE8" stroke="#1E2B47" stroke-width="2.5"/>
+<line x1="135" y1="660" x2="865" y2="660" stroke="#1E2B47" stroke-width="3" stroke-linecap="round"/>
+<text x="90" y="712" font-size="23" fill="#4B5B72" text-anchor="middle">power</text>
+<text x="90" y="741" font-size="23" fill="#4B5B72" text-anchor="middle">station</text>
+<text x="911" y="712" font-size="23" fill="#4B5B72" text-anchor="middle">town</text>
+<rect x="67" y="772" width="866" height="45" fill="#DDEBE8" stroke="#1E2B47" stroke-width="2.5"/>
+<rect x="68.5" y="773.5" width="2.5" height="42" fill="#8A6A0C"/>
+<text x="67" y="857" font-size="26" font-weight="700" fill="#8A6A0C">Lost as heat: 0.16 MW</text>
+<text x="933" y="857" font-size="23" fill="#4B5B72" text-anchor="end">of 50 MW</text>
+<text x="500" y="940" font-size="28" font-weight="700" fill="#2F6B63" text-anchor="middle">10× the voltage: 1/100 of the loss</text></g></svg>

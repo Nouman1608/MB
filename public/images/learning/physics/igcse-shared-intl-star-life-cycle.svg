@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1110" viewBox="0 0 1000 1233.33" role="img" aria-labelledby="title desc"><title id="title">Life cycle of a star</title><desc id="desc">Flow chart. A cloud of gas and dust is pulled in by gravity and heats up into a protostar, then becomes a stable main sequence star. A less massive star, like the Sun, becomes a red giant, then a planetary nebula (its shed outer layers) leaving a white dwarf. A more massive star becomes a red supergiant, explodes as a supernova and leaves a neutron star or a black hole. A dashed arrow shows that material from a supernova may form new stars. No tier labels: Edexcel 4PH1 8.9–8.10 (both papers) and OxfordAQA 9203 3.8.1 (untiered).</desc><rect width="1000" height="1233.33" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="500" y="62" font-size="36" font-weight="700" fill="#1E2B47" text-anchor="middle">Life cycle of a star</text>
+<text x="500" y="106" font-size="23" fill="#4B5B72" text-anchor="middle">Mass decides the ending</text>
+<circle cx="478" cy="192" r="30" fill="#BCC7D8" stroke="#7E8DA6" stroke-width="2.5"/>
+<circle cx="512" cy="168" r="32" fill="#BCC7D8" stroke="#7E8DA6" stroke-width="2.5"/>
+<circle cx="530" cy="196" r="26" fill="#BCC7D8" stroke="#7E8DA6" stroke-width="2.5"/>
+<circle cx="494" cy="205" r="26" fill="#BCC7D8" stroke="#7E8DA6" stroke-width="2.5"/>
+<text x="415" y="193" font-size="28" font-weight="700" fill="#1E2B47" text-anchor="end">Gas and dust cloud</text>
+<line x1="500" y1="245" x2="500" y2="279" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/><polygon points="500,305 483.2,277 516.8,277" fill="#1E2B47"/>
+<circle cx="500" cy="355" r="45" fill="none" stroke="#4B5B72" stroke-width="2.5" stroke-dasharray="6 6"/>
+<circle cx="500" cy="355" r="19" fill="#E58A3C" stroke="#1E2B47" stroke-width="2.5"/>
+<text x="572" y="353" font-size="28" font-weight="700" fill="#1E2B47">Protostar</text>
+<text x="572" y="390" font-size="23" fill="#4B5B72">gravity pulls in, heats up</text>
+<line x1="500" y1="408" x2="500" y2="462" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/><polygon points="500,488 483.2,460 516.8,460" fill="#1E2B47"/>
+<circle cx="500" cy="527" r="32" fill="#E8C23A" stroke="#8A6A0C" stroke-width="2.5"/>
+<text x="558" y="525" font-size="28" font-weight="700" fill="#1E2B47">Main sequence star</text>
+<text x="558" y="562" font-size="23" fill="#4B5B72">stable: gravity in = heat out</text>
+<line x1="478" y1="573" x2="189.0539983614996" y2="686.7438228672193" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/><polygon points="163,697 184.3,669.3 197.5,702.8" fill="#1E2B47"/>
+<line x1="523" y1="573" x2="557.9485857793517" y2="663.8663230263143" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/><polygon points="568,690 540.4,668.5 574,655.5" fill="#1E2B47"/>
+<text x="18" y="655" font-size="26" font-weight="700" fill="#1E2B47">Less massive</text>
+<text x="650" y="655" font-size="26" font-weight="700" fill="#1E2B47">More massive</text>
+<circle cx="145" cy="766" r="50" fill="#C4553A" stroke="#1E2B47" stroke-width="3"/>
+<text x="222" y="776" font-size="28" font-weight="700" fill="#1E2B47">Red giant</text>
+<circle cx="578" cy="766" r="64" fill="#9C2F22" stroke="#1E2B47" stroke-width="3"/>
+<text x="670" y="776" font-size="28" font-weight="700" fill="#1E2B47">Red supergiant</text>
+<line x1="145" y1="822" x2="145" y2="856" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/><polygon points="145,880 129.4,854 160.6,854" fill="#1E2B47"/>
+<line x1="578" y1="835" x2="578" y2="856" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/><polygon points="578,880 562.4,854 593.6,854" fill="#1E2B47"/>
+<circle cx="145" cy="944" r="52" fill="none" stroke="#7EA6D8" stroke-width="9"/>
+<circle cx="145" cy="944" r="7" fill="#FFFFFF" stroke="#1E2B47" stroke-width="2"/>
+<text x="234" y="953" font-size="28" font-weight="700" fill="#1E2B47">Planetary nebula</text>
+<polygon points="578,882 587.9,920 621.8,900.2 602,934.1 640,944 602,953.9 621.8,987.8 587.9,968 578,1006 568.1,968 534.2,987.8 554,953.9 516,944 554,934.1 534.2,900.2 568.1,920" fill="#E8C23A" stroke="#C8452F" stroke-width="2.5" stroke-linejoin="round"/>
+<text x="667" y="953" font-size="28" font-weight="700" fill="#1E2B47">Supernova</text>
+<line x1="145" y1="1012" x2="145" y2="1074" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/><polygon points="145,1100 128.2,1072 161.8,1072" fill="#1E2B47"/>
+<line x1="565" y1="1012" x2="544.3334560620306" y2="1065.7330142387204" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/><polygon points="535,1090 529.4,1057.8 560.7,1069.9" fill="#1E2B47"/>
+<line x1="590" y1="1012" x2="778.6601406989109" y2="1082.8582688071026" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/><polygon points="803,1092 770.9,1097.9 782.7,1066.4" fill="#1E2B47"/>
+<circle cx="145" cy="1121" r="14" fill="#FFFFFF" stroke="#1E2B47" stroke-width="3"/>
+<text x="185" y="1131" font-size="28" font-weight="700" fill="#1E2B47">White dwarf</text>
+<circle cx="533" cy="1121" r="10" fill="#3E4A5E" stroke="#1E2B47" stroke-width="2"/>
+<text x="533" y="1190" font-size="26" font-weight="700" fill="#1E2B47" text-anchor="middle">Neutron star</text>
+<circle cx="800" cy="1121" r="26" fill="#FFFFFF" stroke="#8A6A0C" stroke-width="4"/>
+<circle cx="800" cy="1121" r="17" fill="#000000"/>
+<text x="800" y="1190" font-size="26" font-weight="700" fill="#1E2B47" text-anchor="middle">Black hole</text>
+<path d="M632 903 H968 V183 H600" fill="none" stroke="#2F6B63" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="10 7"/>
+<polygon points="575,183 605,165 605,201" fill="#2F6B63"/>
+<text x="948" y="668" font-size="23" fill="#2F6B63" text-anchor="middle" transform="rotate(-90 948 668)">may form new stars</text></g></svg>

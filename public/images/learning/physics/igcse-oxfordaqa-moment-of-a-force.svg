@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1010" viewBox="0 0 1000 1122.22" role="img" aria-labelledby="title desc"><title id="title">Moment of a force (OxfordAQA International GCSE Physics)</title><desc id="desc">Top: a spanner of length 0.3 m pivoted at the nut, with a 20 N force at right angles at its end: moment = 20 × 0.3 = 6 N m. Bottom: the same 20 N force pushed at 30 degrees to the spanner. Its line of action is drawn dashed and the perpendicular distance from the pivot to that line is 0.15 m, so the moment is 20 × 0.15 = 3 N m (9203 3.1.8a). No tier labels.</desc><rect width="1000" height="1122.22" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="500" y="62" font-size="36" font-weight="700" fill="#1E2B47" text-anchor="middle">Moment = force × perpendicular distance</text>
+<text x="500" y="106" font-size="23" fill="#4B5B72" text-anchor="middle">Pivot at the nut; spanner length 0.3 m</text>
+<rect x="33" y="178" width="934" height="444" rx="14" fill="#FFFFFF" stroke="#1E2B47" stroke-width="2.5"/>
+<text x="67" y="226" font-size="26" font-weight="700" fill="#1E2B47">Force at right angles to the spanner</text>
+<rect x="145" y="368" width="333" height="40" rx="20" fill="#B5D4CF" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="145" cy="388" r="16" fill="#FFFFFF" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="145" cy="388" r="5" fill="#1E2B47"/>
+<line x1="478" y1="388" x2="478" y2="465" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/><polygon points="478,505 452.8,463 503.2,463" fill="#8A6A0C"/>
+<text x="117" y="455" font-size="22" fill="#1E2B47">pivot</text>
+<text x="527" y="467" font-size="25" font-weight="700" fill="#8A6A0C">F = 20 N</text>
+<line x1="145" y1="540" x2="478" y2="540" stroke="#1E2B47" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="145" y1="527" x2="145" y2="553" stroke="#1E2B47" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="478" y1="527" x2="478" y2="553" stroke="#1E2B47" stroke-width="2.5" stroke-linecap="round"/>
+<text x="311" y="524" font-size="25" font-weight="700" fill="#1E2B47" text-anchor="middle">d = 0.3 m</text>
+<text x="712" y="288" font-size="25" fill="#4B5B72">moment</text>
+<text x="712" y="337" font-size="32" font-weight="700" fill="#1E2B47">20 × 0.3</text>
+<text x="712" y="388" font-size="32" font-weight="700" fill="#2F6B63">= 6 N m</text>
+<rect x="33" y="645" width="934" height="443" rx="14" fill="#FFFFFF" stroke="#1E2B47" stroke-width="2.5"/>
+<text x="67" y="693" font-size="26" font-weight="700" fill="#1E2B47">Same force pushed at 30° to the spanner</text>
+<line x1="478" y1="922" x2="157.57060059975765" y2="737" stroke="#8A6A0C" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="8 6"/>
+<rect x="145" y="902" width="333" height="40" rx="20" fill="#B5D4CF" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="145" cy="922" r="16" fill="#FFFFFF" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="145" cy="922" r="5" fill="#1E2B47"/>
+<line x1="478" y1="922" x2="551.6121593216773" y2="964.5" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/><polygon points="586.2531754730549,984.5 537.3,985.3 562.5,941.7" fill="#8A6A0C"/>
+<line x1="145" y1="922" x2="228.2382735485679" y2="777.8000000000001" stroke="#2F6B63" stroke-width="3.5" stroke-linecap="round"/>
+<path d="M241.2 785.3 L233.7 798.3 L220.7 790.8" fill="none" stroke="#2F6B63" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="262" y="760" font-size="25" font-weight="700" fill="#2F6B63">d = 0.15 m</text>
+<text x="117" y="988" font-size="22" fill="#1E2B47">pivot</text>
+<text x="592" y="1000" font-size="25" font-weight="700" fill="#8A6A0C">F = 20 N</text>
+<text x="712" y="755" font-size="25" fill="#4B5B72">moment</text>
+<text x="712" y="803" font-size="32" font-weight="700" fill="#1E2B47">20 × 0.15</text>
+<text x="712" y="853" font-size="32" font-weight="700" fill="#2F6B63">= 3 N m</text></g></svg>

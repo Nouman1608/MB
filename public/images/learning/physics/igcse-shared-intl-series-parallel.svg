@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="870" viewBox="0 0 1000 966.67" role="img" aria-labelledby="title desc"><title id="title">Series and parallel circuits</title><desc id="desc">Two circuits with the same 6.0 V cell and 20 Ω and 40 Ω resistors. Series: one path, 0.10 A everywhere; the resistors have 2.0 V and 4.0 V across them, and 2.0 + 4.0 = 6.0 V. Parallel: each branch has the full 6.0 V; branch currents are 0.30 A and 0.15 A and add to the 0.45 A from the cell. Arrows show current from + to −. No tier labels: Edexcel 4PH1 2.13, 2.17–2.19 (both papers) and OxfordAQA 9203 3.5.1q–s (untiered).</desc><rect width="1000" height="966.67" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="500" y="62" font-size="36" font-weight="700" fill="#1E2B47" text-anchor="middle">Series and parallel circuits</text>
+<text x="500" y="106" font-size="23" fill="#4B5B72" text-anchor="middle">Same cell (6.0 V), same two resistors</text>
+<rect x="33" y="178" width="934" height="367" rx="14" fill="#FFFFFF" stroke="#1E2B47" stroke-width="2.5"/>
+<text x="67" y="230" font-size="28" font-weight="700" fill="#1E2B47">Series: one path</text>
+<text x="933" y="230" font-size="23" font-weight="700" fill="#B9632F" text-anchor="end">Current: + to −</text>
+<line x1="122" y1="322" x2="888" y2="322" stroke="#1E2B47" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="888" y1="322" x2="888" y2="461" stroke="#1E2B47" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="888" y1="461" x2="122" y2="461" stroke="#1E2B47" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="122" y1="461" x2="122" y2="401" stroke="#1E2B47" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="122" y1="385" x2="122" y2="322" stroke="#1E2B47" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="94" y1="385" x2="150" y2="385" stroke="#1E2B47" stroke-width="3" stroke-linecap="round"/>
+<line x1="106" y1="401" x2="138" y2="401" stroke="#1E2B47" stroke-width="9"/>
+<text x="155" y="367" font-size="24" font-weight="700" fill="#1E2B47">+</text>
+<rect x="328" y="307" width="76" height="31" fill="#FFFFFF" stroke="#1E2B47" stroke-width="3"/>
+<rect x="628" y="307" width="77" height="31" fill="#FFFFFF" stroke="#1E2B47" stroke-width="3"/>
+<text x="366" y="284" font-size="25" fill="#1E2B47" text-anchor="middle">20 Ω</text>
+<text x="366" y="385" font-size="27" font-weight="700" fill="#2F6B63" text-anchor="middle">2.0 V</text>
+<text x="666" y="284" font-size="25" fill="#1E2B47" text-anchor="middle">40 Ω</text>
+<text x="666" y="385" font-size="27" font-weight="700" fill="#2F6B63" text-anchor="middle">4.0 V</text>
+<polygon points="250,322 224,337.6 224,306.4" fill="#B9632F"/>
+<polygon points="534,322 508,337.6 508,306.4" fill="#B9632F"/>
+<polygon points="888,400 872.4,374 903.6,374" fill="#B9632F"/>
+<polygon points="488,461 514,445.4 514,476.6" fill="#B9632F"/>
+<polygon points="122,428 137.6,454 106.4,454" fill="#B9632F"/>
+<text x="862" y="432" font-size="23" fill="#4B5B72" text-anchor="end">2.0 + 4.0 = 6.0 V</text>
+<text x="238" y="502" font-size="25" font-weight="700" fill="#B9632F" text-anchor="middle">0.10 A</text>
+<text x="500" y="502" font-size="25" font-weight="700" fill="#B9632F" text-anchor="middle">0.10 A</text>
+<text x="777" y="502" font-size="25" font-weight="700" fill="#B9632F" text-anchor="middle">0.10 A</text>
+<rect x="33" y="567" width="934" height="365" rx="14" fill="#FFFFFF" stroke="#1E2B47" stroke-width="2.5"/>
+<text x="67" y="617" font-size="28" font-weight="700" fill="#1E2B47">Parallel: branches</text>
+<line x1="122" y1="678" x2="687" y2="678" stroke="#1E2B47" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="122" y1="871" x2="687" y2="871" stroke="#1E2B47" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="122" y1="678" x2="122" y2="770" stroke="#1E2B47" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="122" y1="786" x2="122" y2="871" stroke="#1E2B47" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="94" y1="770" x2="150" y2="770" stroke="#1E2B47" stroke-width="3" stroke-linecap="round"/>
+<line x1="106" y1="786" x2="138" y2="786" stroke="#1E2B47" stroke-width="9"/>
+<text x="155" y="752" font-size="24" font-weight="700" fill="#1E2B47">+</text>
+<line x1="443" y1="678" x2="443" y2="871" stroke="#1E2B47" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="687" y1="678" x2="687" y2="871" stroke="#1E2B47" stroke-width="3.5" stroke-linecap="round"/>
+<rect x="428" y="737" width="31" height="75" fill="#FFFFFF" stroke="#1E2B47" stroke-width="3"/>
+<rect x="672" y="737" width="31" height="75" fill="#FFFFFF" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="443" cy="678" r="7" fill="#1E2B47"/>
+<circle cx="443" cy="871" r="7" fill="#1E2B47"/>
+<polygon points="289,678 263,693.6 263,662.4" fill="#B9632F"/>
+<polygon points="443,724 427.4,698 458.6,698" fill="#B9632F"/>
+<polygon points="687,724 671.4,698 702.6,698" fill="#B9632F"/>
+<polygon points="265,871 291,855.4 291,886.6" fill="#B9632F"/>
+<text x="277" y="652" font-size="25" font-weight="700" fill="#B9632F" text-anchor="middle">0.45 A</text>
+<text x="277" y="912" font-size="25" font-weight="700" fill="#B9632F" text-anchor="middle">0.45 A</text>
+<text x="367" y="728" font-size="25" font-weight="700" fill="#B9632F" text-anchor="middle">0.30 A</text>
+<text x="625" y="728" font-size="25" font-weight="700" fill="#B9632F" text-anchor="middle">0.15 A</text>
+<text x="376" y="772" font-size="25" fill="#1E2B47" text-anchor="middle">20 Ω</text>
+<text x="376" y="808" font-size="27" font-weight="700" fill="#2F6B63" text-anchor="middle">6.0 V</text>
+<text x="620" y="772" font-size="25" fill="#1E2B47" text-anchor="middle">40 Ω</text>
+<text x="620" y="808" font-size="27" font-weight="700" fill="#2F6B63" text-anchor="middle">6.0 V</text>
+<text x="933" y="768" font-size="24" fill="#4B5B72" text-anchor="end">0.30 + 0.15</text>
+<text x="933" y="802" font-size="24" fill="#4B5B72" text-anchor="end">= 0.45 A</text></g></svg>

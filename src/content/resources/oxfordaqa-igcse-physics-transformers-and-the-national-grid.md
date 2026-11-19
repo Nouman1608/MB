@@ -89,7 +89,7 @@ A good written answer has a chain: higher voltage gives a lower current for the 
 Why not just use thick cables with low resistance instead? You could, but thick cables cost more and are heavy to hold up. Raising the voltage is the cheaper fix. (This is background, not something the specification asks you to state.)
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--07-transmission-loss.webp" width="900" height="880" alt="Sending 50 MW through 4.0 ohm cables: at 25 kV the current is 2000 A (thick cable) and 16 MW is lost as heat; at 250 kV the current is 200 A (thin cable) and only 0.16 MW is lost, one hundredth." loading="lazy">
+  <img src="/images/learning/physics/igcse-oxfordaqa-transmission-loss.svg" width="900" height="880" alt="Sending 50 MW through 4.0 ohm cables: at 25 kV the current is 2000 A (thick cable) and 16 MW is lost as heat; at 250 kV the current is 200 A (thin cable) and only 0.16 MW is lost, one hundredth." loading="lazy">
   <figcaption>Ten times the voltage means one tenth of the current and one hundredth of the heating loss.</figcaption>
 </figure>
 
@@ -114,7 +114,7 @@ How it works:
 Soft iron is used because it is easily magnetised and demagnetised, so it follows the changing field. A steady direct current gives a steady field. A steady field does not change, so nothing is induced in the secondary coil. That is why a transformer will not run from a battery. (A battery connected to the primary produces a brief output only at the moment of switching on or off, while the field is changing.)
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--06-transformer.webp" width="900" height="880" alt="A soft-iron core with a primary coil of 920 turns on the left taking 230 V a.c. and a secondary coil of 48 turns on the right giving 12 V. Vs = 230 x 48 / 920 = 12 V, a step-down transformer. Extended: power in equals power out, 18 W." loading="lazy">
+  <img src="/images/learning/physics/igcse-oxfordaqa-transformer.svg" width="900" height="880" alt="A soft-iron core with a primary coil of 920 turns on the left taking 230 V a.c. and a secondary coil of 48 turns on the right giving 12 V. Vs = 230 x 48 / 920 = 12 V, a step-down transformer. For 100% efficiency, power in equals power out, 18 W." loading="lazy">
   <figcaption>A step-down transformer has fewer turns on the secondary, so the output voltage is lower.</figcaption>
 </figure>
 

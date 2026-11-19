@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1060" viewBox="0 0 1000 1177.78" role="img" aria-labelledby="title desc"><title id="title">Sonar: how deep is the sea? (OxfordAQA International GCSE Physics)</title><desc id="desc">A ship sends a sound pulse straight down; the echo from the sea bed returns after 0.40 s. Speed in sea water 1500 m/s, so the distance there and back is 1500 × 0.40 = 600 m and the depth is 600 ÷ 2 = 300 m. No tier labels: 9203 3.3.3c and f–g (echoes, and timing reflections from a boundary to find how far away it is).</desc><rect width="1000" height="1177.78" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="500" y="62" font-size="36" font-weight="700" fill="#1E2B47" text-anchor="middle">Sonar: how deep is the sea?</text>
+<text x="500" y="106" font-size="23" fill="#4B5B72" text-anchor="middle">Time the echo from the sea bed</text>
+<rect x="33" y="289" width="934" height="556" fill="#D2E5EC"/>
+<line x1="33" y1="289" x2="967" y2="289" stroke="#2F6B63" stroke-width="4"/>
+<rect x="33" y="845" width="934" height="44" fill="#8C7A55" stroke="#1E2B47" stroke-width="3"/>
+<text x="777" y="875" font-size="24" font-weight="700" fill="#FFFFFF" text-anchor="middle">sea bed</text>
+<polygon points="122,246 365,246 333,292 155,292" fill="#1E2B47"/>
+<rect x="200" y="198" width="89" height="48" fill="#FFFFFF" stroke="#1E2B47" stroke-width="3"/>
+<line x1="222" y1="310" x2="222" y2="796" stroke="#8A6A0C" stroke-width="7" stroke-linecap="round"/><polygon points="222,838 195.6,794 248.4,794" fill="#8A6A0C"/>
+<text x="128" y="455" font-size="24" font-weight="700" fill="#8A6A0C" text-anchor="middle">pulse</text>
+<line x1="311" y1="828" x2="311" y2="336" stroke="#2F6B63" stroke-width="7" stroke-linecap="round"/><polygon points="311,294 337.4,338 284.6,338" fill="#2F6B63"/>
+<text x="366" y="455" font-size="24" font-weight="700" fill="#2F6B63" text-anchor="middle">echo</text>
+<line x1="578" y1="567" x2="578" y2="316" stroke="#1E2B47" stroke-width="3" stroke-linecap="round"/><polygon points="578,292 593.6,318 562.4,318" fill="#1E2B47"/><line x1="578" y1="567" x2="578" y2="818" stroke="#1E2B47" stroke-width="3" stroke-linecap="round"/><polygon points="578,842 562.4,816 593.6,816" fill="#1E2B47"/>
+<text x="607" y="577" font-size="28" font-weight="700" fill="#1E2B47">depth</text>
+<text x="607" y="617" font-size="28" font-weight="700" fill="#8A6A0C">= 300 m</text>
+<rect x="33" y="910" width="934" height="245" rx="14" fill="#FFFFFF" stroke="#1E2B47" stroke-width="2.5"/>
+<text x="67" y="963" font-size="24" fill="#1E2B47">Speed in sea water: 1500 m/s</text>
+<text x="67" y="1010" font-size="24" fill="#1E2B47">Echo time: 0.40 s</text>
+<text x="67" y="1058" font-size="24" fill="#1E2B47">Distance there and back = 1500 × 0.40 = 600 m</text>
+<text x="67" y="1118" font-size="28" font-weight="700" fill="#2F6B63">depth = 600 ÷ 2 = 300 m</text></g></svg>

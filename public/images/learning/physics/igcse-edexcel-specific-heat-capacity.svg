@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1050" viewBox="0 0 1000 1166.67" role="img" aria-labelledby="title desc"><title id="title">Measuring specific heat capacity (Edexcel International GCSE Physics: Paper 2 only)</title><desc id="desc">Marked Paper 2 only: specific heat capacity and its practical are 4PH1 statements 5.12P–5.14P (ΔQ = m × c × ΔT). An insulated 1.0 kg metal block with an electric heater and a thermometer; the temperature rises by 16 °C in 5 minutes. The heater is in a circuit with a 12 V supply, an ammeter in series reading 4.0 A and a voltmeter across the heater. ΔQ = I × V × t = 4.0 × 12 × 300 = 14 400 J; c = ΔQ ÷ (m × ΔT) = 14 400 ÷ (1.0 × 16) = 900 J/(kg °C). The value comes out too high if energy is lost to the surroundings.</desc><rect width="1000" height="1166.67" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="500" y="62" font-size="36" font-weight="700" fill="#1E2B47" text-anchor="middle">Measuring specific heat capacity</text>
+<text x="500" y="106" font-size="23" fill="#4B5B72" text-anchor="middle">Heat a metal block, record the energy and temperature rise</text>
+<rect x="35" y="126" width="190" height="38" rx="19" fill="#8A6A0C"/><text x="130" y="153.64" font-size="24" font-weight="700" fill="#FFFFFF" text-anchor="middle">Paper 2 only</text>
+<rect x="178" y="211" width="400" height="289" rx="12" fill="#F2E6C4" stroke="#8A6A0C" stroke-width="3"/>
+<rect x="222" y="255" width="313" height="211" rx="8" fill="#C5CCD8" stroke="#1E2B47" stroke-width="3"/>
+<text x="378" y="450" font-size="24" font-weight="700" fill="#1E2B47" text-anchor="middle">1.0 kg metal block</text>
+<rect x="289" y="166" width="37" height="200" rx="5" fill="#B9632F" stroke="#1E2B47" stroke-width="2.5"/>
+<text x="307" y="148" font-size="24" fill="#1E2B47" text-anchor="middle">heater</text>
+<rect x="430" y="166" width="24" height="204" rx="12" fill="#FFFFFF" stroke="#1E2B47" stroke-width="2.5"/>
+<rect x="437" y="245" width="10" height="127" fill="#D9443A"/>
+<circle cx="442" cy="377" r="14" fill="#D9443A" stroke="#1E2B47" stroke-width="2.5"/>
+<text x="553" y="148" font-size="24" fill="#1E2B47" text-anchor="middle">thermometer</text>
+<text x="593" y="262" font-size="24" fill="#8A6A0C">insulation</text>
+<text x="600" y="332" font-size="32" font-weight="700" fill="#B9632F">+16 °C</text>
+<text x="600" y="374" font-size="23" fill="#4B5B72">rise in 5 min</text>
+<line x1="146" y1="578" x2="302" y2="578" stroke="#1E2B47" stroke-width="3" stroke-linecap="round"/>
+<line x1="384" y1="578" x2="623" y2="578" stroke="#1E2B47" stroke-width="3" stroke-linecap="round"/>
+<line x1="623" y1="578" x2="623" y2="633" stroke="#1E2B47" stroke-width="3" stroke-linecap="round"/>
+<line x1="623" y1="722" x2="623" y2="775" stroke="#1E2B47" stroke-width="3" stroke-linecap="round"/>
+<line x1="623" y1="775" x2="146" y2="775" stroke="#1E2B47" stroke-width="3" stroke-linecap="round"/>
+<line x1="146" y1="578" x2="146" y2="650" stroke="#1E2B47" stroke-width="3" stroke-linecap="round"/>
+<line x1="146" y1="704" x2="146" y2="775" stroke="#1E2B47" stroke-width="3" stroke-linecap="round"/>
+<line x1="104" y1="650" x2="188" y2="650" stroke="#1E2B47" stroke-width="3" stroke-linecap="round"/>
+<line x1="118" y1="664" x2="174" y2="664" stroke="#1E2B47" stroke-width="8"/>
+<line x1="104" y1="690" x2="188" y2="690" stroke="#1E2B47" stroke-width="3" stroke-linecap="round"/>
+<line x1="118" y1="704" x2="174" y2="704" stroke="#1E2B47" stroke-width="8"/>
+<text x="205" y="640" font-size="24" font-weight="700" fill="#1E2B47">+</text>
+<text x="203" y="687" font-size="24" fill="#1E2B47">12 V</text>
+<circle cx="343" cy="578" r="41" fill="#FFFFFF" stroke="#1E2B47" stroke-width="3"/>
+<text x="343" y="590" font-size="34" font-weight="700" fill="#1E2B47" text-anchor="middle">A</text>
+<text x="343" y="662" font-size="28" font-weight="700" fill="#2F6B63" text-anchor="middle">4.0 A</text>
+<line x1="177" y1="557" x2="244" y2="557" stroke="#2F6B63" stroke-width="4" stroke-linecap="round"/><polygon points="268,557 242,572.6 242,541.4" fill="#2F6B63"/>
+<text x="222" y="543" font-size="23" fill="#2F6B63" text-anchor="middle">current</text>
+<rect x="598" y="633" width="49" height="89" fill="#FFFFFF" stroke="#1E2B47" stroke-width="3"/>
+<text x="660" y="687" font-size="24" fill="#1E2B47">heater</text>
+<line x1="623" y1="622" x2="845" y2="622" stroke="#1E2B47" stroke-width="3" stroke-linecap="round"/>
+<line x1="845" y1="622" x2="845" y2="641" stroke="#1E2B47" stroke-width="3" stroke-linecap="round"/>
+<line x1="623" y1="733" x2="845" y2="733" stroke="#1E2B47" stroke-width="3" stroke-linecap="round"/>
+<line x1="845" y1="717" x2="845" y2="733" stroke="#1E2B47" stroke-width="3" stroke-linecap="round"/>
+<circle cx="845" cy="679" r="38" fill="#FFFFFF" stroke="#1E2B47" stroke-width="3"/>
+<text x="845" y="691" font-size="34" font-weight="700" fill="#1E2B47" text-anchor="middle">V</text>
+<circle cx="623" cy="622" r="7" fill="#1E2B47"/>
+<circle cx="623" cy="733" r="7" fill="#1E2B47"/>
+<text x="500" y="828" font-size="24" fill="#4B5B72" text-anchor="middle">A in series, V across the heater</text>
+<rect x="33" y="855" width="934" height="278" rx="14" fill="#FFFFFF" stroke="#1E2B47" stroke-width="2.5"/>
+<text x="67" y="912" font-size="27" font-weight="700" fill="#1E2B47">ΔQ = I × V × t = 4.0 × 12 × 300 = 14 400 J</text>
+<text x="67" y="975" font-size="26" font-weight="700" fill="#2F6B63">c = ΔQ ÷ (m × ΔT)</text>
+<text x="67" y="1030" font-size="26" font-weight="700" fill="#2F6B63">= 14 400 ÷ (1.0 × 16)</text>
+<text x="67" y="1094" font-size="36" font-weight="700" fill="#2F6B63">= 900 J/(kg °C)</text>
+<text x="933" y="1092" font-size="22" fill="#4B5B72" text-anchor="end">too high if energy is lost</text></g></svg>

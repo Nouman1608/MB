@@ -88,7 +88,7 @@ Mark-winning habit: write observation, then conclusion, as a pair.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--02-alpha-scattering.webp" width="900" height="800" alt="Alpha particles approach a gold atom. Those far from the tiny positive nucleus go almost straight on, a few passing closer are deflected, and a very few heading nearly straight at it bounce back. This shows the atom is mostly empty with a small, positive, dense nucleus." loading="lazy">
+  <img src="/images/learning/physics/igcse-oxfordaqa-alpha-scattering.svg" width="900" height="800" alt="Alpha particles approach a gold atom. Those far from the tiny positive nucleus go almost straight on, a few passing closer are deflected, and a very few heading nearly straight at it bounce back. This shows the atom is mostly empty with a small, positive, dense nucleus." loading="lazy">
   <figcaption>Each alpha-scattering observation supports one feature of the nuclear atom.</figcaption>
 </figure>
 
@@ -162,7 +162,7 @@ Total mass number and total atomic number must match on both sides.
 **Worked reminder.** ²³⁰₉₀Th emits an alpha particle: A = 230 – 4 = 226, Z = 90 – 2 = 88, so the new nucleus is ²²⁶₈₈X. Now ⁶⁰₂₇Co emits a beta particle: A = 60, Z = 27 + 1 = 28, so ⁶⁰₂₈X. You do not have to name the new element.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--04-decay-equations.webp" width="900" height="1060" alt="Radium-226 decays by alpha emission to radon-222 plus a helium-4 nucleus: 226 = 222 + 4 and 88 = 86 + 2. Carbon-14 decays by beta emission to nitrogen-14 plus an electron: 14 = 14 + 0 and 6 = 7 + (-1)." loading="lazy">
+  <img src="/images/learning/physics/igcse-oxfordaqa-decay-equations.svg" width="900" height="1060" alt="Radium-226 decays by alpha emission to radon-222 plus a helium-4 nucleus: 226 = 222 + 4 and 88 = 86 + 2. Carbon-14 decays by beta emission to nitrogen-14 plus an electron: 14 = 14 + 0 and 6 = 7 + (-1). A note says naming the new element is not required by OxfordAQA." loading="lazy">
   <figcaption>In a decay equation the top numbers balance and the bottom numbers balance.</figcaption>
 </figure>
 

@@ -142,7 +142,7 @@ doesn't switch off the others).
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--03-series-parallel.webp" width="900" height="870" alt="Two circuits with a 6.0 V cell and 20 and 40 ohm resistors. In series, 0.10 A flows everywhere and the p.d.s are 2.0 V and 4.0 V, adding to 6.0 V. In parallel each branch has 6.0 V; branch currents 0.30 A and 0.15 A add to 0.45 A." loading="lazy">
+  <img src="/images/learning/physics/igcse-shared-intl-series-parallel.svg" width="900" height="870" alt="Two circuits with a 6.0 V cell and 20 and 40 ohm resistors. In series, 0.10 A flows everywhere and the p.d.s are 2.0 V and 4.0 V, adding to 6.0 V. In parallel each branch has 6.0 V; branch currents 0.30 A and 0.15 A add to 0.45 A." loading="lazy">
   <figcaption>In series the current is shared by one path; in parallel the branches share the current and each gets the full p.d.</figcaption>
 </figure>
 
@@ -191,7 +191,7 @@ temperature increases.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--04-iv-graphs.webp" width="900" height="1192" alt="Three I-V graphs: a fixed resistor gives a straight line through the origin; a filament lamp gives a curve that gets less steep because resistance rises; a diode carries no current in reverse and rises steeply forward after about 0.6 V." loading="lazy">
+  <img src="/images/learning/physics/igcse-shared-intl-iv-graphs.svg" width="900" height="1192" alt="Three I-V graphs: a fixed resistor gives a straight line through the origin; a filament lamp gives a curve that gets less steep because resistance rises; a diode carries no current in reverse and rises steeply forward after about 0.6 V." loading="lazy">
   <figcaption>The shape of each I-V graph tells you how the resistance behaves.</figcaption>
 </figure>
 

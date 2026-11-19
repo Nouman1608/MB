@@ -59,7 +59,7 @@ Rearrangements: c = E / (m Δθ), Δθ = E / (m c), m = E / L, L = E / m. If a h
 At a change of state the energy changes the separation of the particles, not their speed, so temperature stays constant.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--01-particle-states.webp" width="900" height="1010" alt="Three boxes of particles: a solid with particles touching in regular rows, vibrating; a liquid with touching random particles and a surface; a gas with few, widely spaced fast particles." loading="lazy">
+  <img src="/images/learning/physics/igcse-oxfordaqa-particle-states.svg" width="900" height="1010" alt="Three boxes of particles: a solid with particles touching in regular rows, vibrating; a liquid with touching random particles and a surface; a gas with few, widely spaced fast particles." loading="lazy">
   <figcaption>Particles are arranged and move differently in solids, liquids and gases.</figcaption>
 </figure>
 
@@ -119,7 +119,7 @@ Total = 240 500 J = 2.4 × 10⁵ J. The melting stage is the largest, even thoug
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--03-heating-curve.webp" width="900" height="920" alt="A schematic temperature-energy graph from ice to steam with flat parts at 0 and 100 degrees Celsius while melting and boiling. Particle pictures under each part show the arrangement in that state." loading="lazy">
+  <img src="/images/learning/physics/igcse-oxfordaqa-heating-curve.svg" width="900" height="920" alt="A schematic temperature-energy graph from ice to steam with flat parts at 0 and 100 degrees Celsius while melting and boiling. Particle pictures under each part show the arrangement in that state." loading="lazy">
   <figcaption>During melting and boiling energy is supplied but the temperature stays constant.</figcaption>
 </figure>
 
@@ -144,12 +144,12 @@ Total = 240 500 J = 2.4 × 10⁵ J. The melting stage is the largest, even thoug
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--06-conduction-rods.webp" width="900" height="920" alt="Four equal rods of copper, iron, glass and wood are heated at one end with a pin stuck on the far end by wax. The pins on copper and iron have fallen, copper first; the pins on glass and wood remain." loading="lazy">
+  <img src="/images/learning/physics/igcse-shared-intl-conduction-rods.svg" width="900" height="920" alt="Four equal rods of copper, iron, glass and wood are heated at one end with a pin stuck on the far end by wax. The pins on copper and iron have fallen, copper first; the pins on glass and wood remain." loading="lazy">
   <figcaption>The pin on the best conductor falls first.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--05-convection-current.webp" width="900" height="880" alt="A beaker with a purple crystal at one bottom corner heated from below. The purple dye rises over the heated spot, crosses the top, sinks on the far side and returns along the bottom." loading="lazy">
+  <img src="/images/learning/physics/igcse-shared-intl-convection-current.svg" width="900" height="880" alt="A beaker with a purple crystal at one bottom corner heated from below. The purple dye rises over the heated spot, crosses the top, sinks on the far side and returns along the bottom." loading="lazy">
   <figcaption>Heated water becomes less dense and rises; cooler, denser water sinks to replace it.</figcaption>
 </figure>
 
@@ -221,7 +221,7 @@ Total = 240 500 J = 2.4 × 10⁵ J. The melting stage is the largest, even thoug
 10. The metal that expands more.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--04-specific-heat-capacity.webp" width="900" height="1050" alt="An insulated metal block with a heater and thermometer, and a circuit with an ammeter in series and a voltmeter across the heater. E = 4.0 x 12 x 300 = 14 400 J and c = 14 400 / (1.0 x 16) = 900 J/(kg C)." loading="lazy">
+  <img src="/images/learning/physics/igcse-oxfordaqa-specific-heat-capacity.svg" width="900" height="1050" alt="An insulated metal block with a heater and thermometer, and a circuit with an ammeter in series and a voltmeter across the heater. E = 4.0 x 12 x 300 = 14 400 J and c = 14 400 / (1.0 x 16) = 900 J/(kg C)." loading="lazy">
   <figcaption>Energy supplied divided by mass and temperature rise gives c.</figcaption>
 </figure>
 

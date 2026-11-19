@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="890" viewBox="0 0 1000 988.89" role="img" aria-labelledby="title desc"><title id="title">Measuring a wave</title><desc id="desc">Graph of displacement against distance in metres for a wave. Two crests 0.40 m apart mark the wavelength; an arrow from the rest position up to a crest marks the amplitude; a trough is labelled. Boxes: wave speed v = f × λ = 5 × 0.40 = 2.0 m/s; frequency f = 5 Hz, 5 waves each second; period T = 1 ÷ 5 = 0.2 s. No tier labels: Edexcel 4PH1 3.3, 3.5 and 3.6 (both papers) and OxfordAQA 9203 3.3.1g–h (untiered).</desc><rect width="1000" height="988.89" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="500" y="62" font-size="36" font-weight="700" fill="#1E2B47" text-anchor="middle">Measuring a wave</text>
+<text x="500" y="106" font-size="23" fill="#4B5B72" text-anchor="middle">Wavelength, amplitude, frequency</text>
+<line x1="100" y1="210" x2="100" y2="545" stroke="#1E2B47" stroke-width="3" stroke-linecap="round"/>
+<line x1="100" y1="378" x2="822" y2="378" stroke="#1E2B47" stroke-width="3" stroke-linecap="round"/>
+<path d="M100 378L103.9 369.2L107.8 360.5L111.7 351.9L115.6 343.4L119.5 335.1L123.4 327.2L127.3 319.5L131.2 312.2L135.1 305.3L139 298.8L142.9 292.8L146.8 287.4L150.7 282.5L154.6 278.2L158.5 274.5L162.4 271.5L166.3 269.1L170.2 267.4L174.1 266.3L178 266L181.9 266.3L185.8 267.4L189.7 269.1L193.6 271.5L197.5 274.5L201.4 278.2L205.3 282.5L209.2 287.4L213.1 292.8L217 298.8L220.9 305.3L224.8 312.2L228.7 319.5L232.6 327.2L236.5 335.1L240.4 343.4L244.3 351.9L248.2 360.5L252.1 369.2L256 378L259.9 386.8L263.8 395.5L267.7 404.1L271.6 412.6L275.5 420.9L279.4 428.8L283.3 436.5L287.2 443.8L291.1 450.7L295 457.2L298.9 463.2L302.8 468.6L306.7 473.5L310.6 477.8L314.5 481.5L318.4 484.5L322.3 486.9L326.2 488.6L330.1 489.7L334 490L337.9 489.7L341.8 488.6L345.7 486.9L349.6 484.5L353.5 481.5L357.4 477.8L361.3 473.5L365.2 468.6L369.1 463.2L373 457.2L376.9 450.7L380.8 443.8L384.7 436.5L388.6 428.8L392.5 420.9L396.4 412.6L400.3 404.1L404.2 395.5L408.1 386.8L412 378L415.9 369.2L419.8 360.5L423.7 351.9L427.6 343.4L431.5 335.1L435.4 327.2L439.3 319.5L443.2 312.2L447.1 305.3L451 298.8L454.9 292.8L458.8 287.4L462.7 282.5L466.6 278.2L470.5 274.5L474.4 271.5L478.3 269.1L482.2 267.4L486.1 266.3L490 266L493.9 266.3L497.8 267.4L501.7 269.1L505.6 271.5L509.5 274.5L513.4 278.2L517.3 282.5L521.2 287.4L525.1 292.8L529 298.8L532.9 305.3L536.8 312.2L540.7 319.5L544.6 327.2L548.5 335.1L552.4 343.4L556.3 351.9L560.2 360.5L564.1 369.2L568 378L571.9 386.8L575.8 395.5L579.7 404.1L583.6 412.6L587.5 420.9L591.4 428.8L595.3 436.5L599.2 443.8L603.1 450.7L607 457.2L610.9 463.2L614.8 468.6L618.7 473.5L622.6 477.8L626.5 481.5L630.4 484.5L634.3 486.9L638.2 488.6L642.1 489.7L646 490L649.9 489.7L653.8 488.6L657.7 486.9L661.6 484.5L665.5 481.5L669.4 477.8L673.3 473.5L677.2 468.6L681.1 463.2L685 457.2L688.9 450.7L692.8 443.8L696.7 436.5L700.6 428.8L704.5 420.9L708.4 412.6L712.3 404.1L716.2 395.5L720.1 386.8L724 378L727.9 369.2L731.8 360.5L735.7 351.9L739.6 343.4L743.5 335.1L747.4 327.2L751.3 319.5L755.2 312.2L759.1 305.3L763 298.8L766.9 292.8L770.8 287.4L774.7 282.5L778.6 278.2L782.5 274.5L786.4 271.5L790.3 269.1L794.2 267.4L798.1 266.3L802 266" fill="none" stroke="#2F6B63" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="78" y="400" width="44" height="28" fill="#F4F7F6"/>
+<text x="100" y="421" font-size="23" fill="#4B5B72" text-anchor="middle">0.0</text>
+<rect x="235" y="400" width="44" height="28" fill="#F4F7F6"/>
+<text x="257" y="421" font-size="23" fill="#4B5B72" text-anchor="middle">0.2</text>
+<rect x="390" y="400" width="44" height="28" fill="#F4F7F6"/>
+<text x="412" y="421" font-size="23" fill="#4B5B72" text-anchor="middle">0.4</text>
+<rect x="546" y="400" width="44" height="28" fill="#F4F7F6"/>
+<text x="568" y="421" font-size="23" fill="#4B5B72" text-anchor="middle">0.6</text>
+<rect x="702" y="400" width="44" height="28" fill="#F4F7F6"/>
+<text x="724" y="421" font-size="23" fill="#4B5B72" text-anchor="middle">0.8</text>
+<text x="113" y="534" font-size="22" fill="#4B5B72">displacement</text>
+<text x="748" y="534" font-size="22" fill="#4B5B72" text-anchor="middle">distance (m)</text>
+<text x="334" y="534" font-size="22" fill="#4B5B72" text-anchor="middle">trough</text>
+<line x1="178" y1="248" x2="178" y2="262" stroke="#8A6A0C" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="490" y1="248" x2="490" y2="262" stroke="#8A6A0C" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="334" y1="240" x2="202" y2="240" stroke="#8A6A0C" stroke-width="4" stroke-linecap="round"/><polygon points="178,240 204,224.4 204,255.6" fill="#8A6A0C"/><line x1="334" y1="240" x2="466" y2="240" stroke="#8A6A0C" stroke-width="4" stroke-linecap="round"/><polygon points="490,240 464,255.6 464,224.4" fill="#8A6A0C"/>
+<circle cx="178" cy="266" r="8" fill="#E8C23A" stroke="#8A6A0C" stroke-width="2"/>
+<circle cx="490" cy="266" r="8" fill="#E8C23A" stroke="#8A6A0C" stroke-width="2"/>
+<text x="333" y="212" font-size="25" font-weight="700" fill="#8A6A0C" text-anchor="middle">wavelength λ = 0.40 m</text>
+<text x="802" y="242" font-size="22" fill="#4B5B72" text-anchor="middle">crest</text>
+<line x1="804" y1="378" x2="804" y2="294" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/><polygon points="804,268 820.8,296 787.2,296" fill="#1E2B47"/>
+<text x="825" y="332" font-size="24" font-weight="700" fill="#1E2B47">amplitude</text>
+<rect x="33" y="622" width="934" height="334" rx="14" fill="#FFFFFF" stroke="#1E2B47" stroke-width="2.5"/>
+<line x1="500" y1="655" x2="500" y2="922" stroke="#C6D3D0" stroke-width="3" stroke-linecap="round"/>
+<text x="67" y="688" font-size="26" font-weight="700" fill="#1E2B47">Wave speed</text>
+<text x="67" y="775" font-size="44" font-weight="700" fill="#2F6B63">v = f × λ</text>
+<text x="67" y="855" font-size="36" font-weight="700" fill="#1E2B47">= 5 × 0.40</text>
+<text x="67" y="920" font-size="38" font-weight="700" fill="#8A6A0C">= 2.0 m/s</text>
+<text x="545" y="688" font-size="26" font-weight="700" fill="#1E2B47">Frequency</text>
+<text x="545" y="755" font-size="34" font-weight="700" fill="#2F6B63">f = 5 Hz</text>
+<text x="545" y="802" font-size="22" fill="#4B5B72">5 waves each second</text>
+<text x="545" y="866" font-size="26" font-weight="700" fill="#1E2B47">Period</text>
+<text x="545" y="920" font-size="30" font-weight="700" fill="#2F6B63">T = 1 ÷ 5 = 0.2 s</text></g></svg>

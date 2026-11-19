@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1067" viewBox="0 0 1000 1185.56" role="img" aria-labelledby="title desc"><title id="title">Falling with air resistance: terminal velocity</title><desc id="desc">Illustrative speed–time graph for a skydiver: speed rises from 0, steeply at first, then levels off at 50 m/s, the terminal velocity, shown dashed. Points A (start), B (about 35 m/s at 4.5 s) and C (50 m/s) are marked. Force diagrams below: at A only the weight acts; at B the upward drag is smaller than the weight, so the skydiver still speeds up; at C drag equals weight, so the speed is constant. No tier labels: terminal velocity is on both Edexcel International GCSE papers (4PH1 1.21) and in OxfordAQA 9203 3.1.6b, which is untiered.</desc><rect width="1000" height="1185.56" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="500" y="62" font-size="36" font-weight="700" fill="#1E2B47" text-anchor="middle">Falling with air resistance</text>
+<text x="500" y="106" font-size="23" fill="#4B5B72" text-anchor="middle">Illustrative skydiver, not real data</text>
+<line x1="344.75" y1="145" x2="344.75" y2="544" stroke="#C6D3D0" stroke-width="2"/>
+<line x1="522.5" y1="145" x2="522.5" y2="544" stroke="#C6D3D0" stroke-width="2"/>
+<line x1="700.25" y1="145" x2="700.25" y2="544" stroke="#C6D3D0" stroke-width="2"/>
+<line x1="878" y1="145" x2="878" y2="544" stroke="#C6D3D0" stroke-width="2"/>
+<line x1="167" y1="477.5" x2="878" y2="477.5" stroke="#C6D3D0" stroke-width="2"/>
+<line x1="167" y1="411" x2="878" y2="411" stroke="#C6D3D0" stroke-width="2"/>
+<line x1="167" y1="344.5" x2="878" y2="344.5" stroke="#C6D3D0" stroke-width="2"/>
+<line x1="167" y1="278" x2="878" y2="278" stroke="#C6D3D0" stroke-width="2"/>
+<line x1="167" y1="211.5" x2="878" y2="211.5" stroke="#C6D3D0" stroke-width="2"/>
+<line x1="167" y1="145" x2="878" y2="145" stroke="#C6D3D0" stroke-width="2"/>
+<line x1="167" y1="211.5" x2="878" y2="211.5" stroke="#4B5B72" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="9 6"/>
+<text x="603" y="195" font-size="25" font-weight="700" fill="#4B5B72" text-anchor="middle">Terminal velocity</text>
+<line x1="167" y1="544" x2="167" y2="156" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/><polygon points="167,128 185,158 149,158" fill="#1E2B47"/>
+<line x1="167" y1="544" x2="872" y2="544" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/><polygon points="900,544 870,562 870,526" fill="#1E2B47"/>
+<text x="152" y="552" font-size="22" fill="#1E2B47" text-anchor="end">0</text>
+<text x="152" y="485.5" font-size="22" fill="#1E2B47" text-anchor="end">10</text>
+<text x="152" y="419" font-size="22" fill="#1E2B47" text-anchor="end">20</text>
+<text x="152" y="352.5" font-size="22" fill="#1E2B47" text-anchor="end">30</text>
+<text x="152" y="286" font-size="22" fill="#1E2B47" text-anchor="end">40</text>
+<text x="152" y="219.5" font-size="22" fill="#1E2B47" text-anchor="end">50</text>
+<text x="152" y="153" font-size="22" fill="#1E2B47" text-anchor="end">60</text>
+<text x="167" y="584" font-size="22" fill="#1E2B47" text-anchor="middle">0</text>
+<text x="344.75" y="584" font-size="22" fill="#1E2B47" text-anchor="middle">5</text>
+<text x="522.5" y="584" font-size="22" fill="#1E2B47" text-anchor="middle">10</text>
+<text x="700.25" y="584" font-size="22" fill="#1E2B47" text-anchor="middle">15</text>
+<text x="878" y="584" font-size="22" fill="#1E2B47" text-anchor="middle">20</text>
+<text x="522" y="630" font-size="26" font-weight="700" fill="#1E2B47" text-anchor="middle">Time (s)</text>
+<text x="73" y="345" font-size="26" font-weight="700" fill="#1E2B47" text-anchor="middle" transform="rotate(-90 73 345)">Speed (m/s)</text>
+<path d="M167.0 544.0L175.9 527.7L184.8 511.5L193.7 495.5L202.6 479.7L211.4 464.1L220.3 449.0L229.2 434.2L238.1 419.9L247.0 406.2L255.9 393.0L264.8 380.3L273.6 368.3L282.5 356.9L291.4 346.0L300.3 335.8L309.2 326.2L318.1 317.2L327.0 308.8L335.9 300.9L344.8 293.6L353.6 286.8L362.5 280.5L371.4 274.7L380.3 269.3L389.2 264.3L398.1 259.8L407.0 255.5L415.8 251.7L424.7 248.1L433.6 244.9L442.5 241.9L451.4 239.2L460.3 236.7L469.2 234.4L478.1 232.4L486.9 230.5L495.8 228.7L504.7 227.2L513.6 225.7L522.5 224.4L531.4 223.3L540.3 222.2L549.2 221.2L558.0 220.3L566.9 219.5L575.8 218.7L584.7 218.1L593.6 217.5L602.5 216.9L611.4 216.4L620.3 216.0L629.1 215.5L638.0 215.2L646.9 214.8L655.8 214.5L664.7 214.2L673.6 214.0L682.5 213.8L691.4 213.5L700.3 213.4L709.1 213.2L718.0 213.0L726.9 212.9L735.8 212.8L744.7 212.6L753.6 212.5L762.5 212.4L771.3 212.3L780.2 212.3L789.1 212.2L798.0 212.1L806.9 212.1L815.8 212.0L824.7 212.0L833.6 211.9L842.4 211.9L851.3 211.9L860.2 211.8L869.1 211.8L878.0 211.8" fill="none" stroke="#2F6B63" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="167" cy="544" r="11" fill="#1E2B47" stroke="#FFFFFF" stroke-width="3"/>
+<text x="185" y="530" font-size="26" font-weight="700" fill="#1E2B47">A</text>
+<circle cx="326.975" cy="308.78290021903297" r="11" fill="#1E2B47" stroke="#FFFFFF" stroke-width="3"/>
+<text x="348.975" y="316.78290021903297" font-size="26" font-weight="700" fill="#1E2B47">B</text>
+<circle cx="806.9" cy="212.07288240630254" r="11" fill="#1E2B47" stroke="#FFFFFF" stroke-width="3"/>
+<text x="828.9" y="250.07288240630254" font-size="26" font-weight="700" fill="#1E2B47">C</text>
+<text x="167" y="674" font-size="30" font-weight="700" fill="#1E2B47" text-anchor="middle">A</text>
+<circle cx="167" cy="852" r="16" fill="#1E2B47"/>
+<line x1="167" y1="866" x2="167" y2="920" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<line x1="135" y1="884" x2="199" y2="884" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<line x1="167" y1="920" x2="150" y2="955" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<line x1="167" y1="920" x2="184" y2="955" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<line x1="211" y1="885" x2="211" y2="1023" stroke="#B9632F" stroke-width="6" stroke-linecap="round"/><polygon points="211,1065 184.6,1021 237.4,1021" fill="#B9632F"/>
+<text x="229" y="985" font-size="24" font-weight="700" fill="#B9632F">Weight</text>
+<text x="167" y="1114" font-size="23" font-weight="700" fill="#1E2B47" text-anchor="middle">Starts falling:</text>
+<text x="167" y="1148" font-size="23" fill="#4B5B72" text-anchor="middle">no drag yet</text>
+<text x="500" y="674" font-size="30" font-weight="700" fill="#1E2B47" text-anchor="middle">B</text>
+<circle cx="500" cy="852" r="16" fill="#1E2B47"/>
+<line x1="500" y1="866" x2="500" y2="920" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<line x1="468" y1="884" x2="532" y2="884" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<line x1="500" y1="920" x2="483" y2="955" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<line x1="500" y1="920" x2="517" y2="955" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<line x1="544" y1="885" x2="544" y2="1023" stroke="#B9632F" stroke-width="6" stroke-linecap="round"/><polygon points="544,1065 517.6,1021 570.4,1021" fill="#B9632F"/>
+<text x="562" y="985" font-size="24" font-weight="700" fill="#B9632F">Weight</text>
+<line x1="455" y1="888" x2="455" y2="838" stroke="#2F6B63" stroke-width="6" stroke-linecap="round"/><polygon points="455,796 481.4,840 428.6,840" fill="#2F6B63"/>
+<text x="438" y="850" font-size="24" font-weight="700" fill="#2F6B63" text-anchor="end">Drag</text>
+<text x="500" y="1114" font-size="23" font-weight="700" fill="#1E2B47" text-anchor="middle">Drag grows:</text>
+<text x="500" y="1148" font-size="23" fill="#4B5B72" text-anchor="middle">still speeding up</text>
+<text x="833" y="674" font-size="30" font-weight="700" fill="#1E2B47" text-anchor="middle">C</text>
+<circle cx="833" cy="852" r="16" fill="#1E2B47"/>
+<line x1="833" y1="866" x2="833" y2="920" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<line x1="801" y1="884" x2="865" y2="884" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<line x1="833" y1="920" x2="816" y2="955" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<line x1="833" y1="920" x2="850" y2="955" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<line x1="877" y1="885" x2="877" y2="1023" stroke="#B9632F" stroke-width="6" stroke-linecap="round"/><polygon points="877,1065 850.6,1021 903.4,1021" fill="#B9632F"/>
+<text x="895" y="985" font-size="24" font-weight="700" fill="#B9632F">Weight</text>
+<line x1="788" y1="888" x2="788" y2="750" stroke="#2F6B63" stroke-width="6" stroke-linecap="round"/><polygon points="788,708 814.4,752 761.6,752" fill="#2F6B63"/>
+<text x="771" y="806" font-size="24" font-weight="700" fill="#2F6B63" text-anchor="end">Drag</text>
+<text x="833" y="1114" font-size="23" font-weight="700" fill="#1E2B47" text-anchor="middle">Drag = weight:</text>
+<text x="833" y="1148" font-size="23" fill="#4B5B72" text-anchor="middle">constant speed</text></g></svg>

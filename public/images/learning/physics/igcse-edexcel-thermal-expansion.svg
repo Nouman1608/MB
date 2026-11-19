@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1296" viewBox="0 0 1000 1440" role="img" aria-labelledby="title desc"><title id="title">Why a heated solid expands (Edexcel International GCSE Physics)</title><desc id="desc">Marked not required by Edexcel: thermal expansion is not in the 4PH1 specification. Top: in a cold solid the particles vibrate a little and sit close together; in a hot solid the same-sized particles vibrate more widely (dashed rings) and sit further apart, so the solid is longer. Middle: for the same temperature rise a solid expands least, a liquid more and a gas most (order only, not to scale). Bottom: where it matters: gaps between rails, slack overhead cables and the liquid rising in a thermometer.</desc><rect width="1000" height="1440" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="500" y="62" font-size="36" font-weight="700" fill="#1E2B47" text-anchor="middle">Why a heated solid expands</text>
+<text x="500" y="106" font-size="23" fill="#4B5B72" text-anchor="middle">The particles stay the same size</text>
+<rect x="35" y="133.5" width="310" height="35" rx="17.5" fill="#6B7785"/><text x="190" y="158.92" font-size="22" font-weight="700" fill="#FFFFFF" text-anchor="middle">Not required by Edexcel</text>
+<rect x="33" y="188" width="445" height="367" rx="14" fill="#FFFFFF" stroke="#1E2B47" stroke-width="2.5"/>
+<text x="255" y="232" font-size="30" font-weight="700" fill="#3E79AA" text-anchor="middle">Cold</text>
+<rect x="522" y="188" width="445" height="367" rx="14" fill="#FFFFFF" stroke="#1E2B47" stroke-width="2.5"/>
+<text x="745" y="232" font-size="30" font-weight="700" fill="#B9632F" text-anchor="middle">Hot</text>
+<circle cx="122" cy="299" r="32" fill="none" stroke="#8A6A0C" stroke-width="3"/>
+<circle cx="122" cy="299" r="27" fill="#B5D4CF" stroke="#2F6B63" stroke-width="3"/>
+<circle cx="211" cy="299" r="32" fill="none" stroke="#8A6A0C" stroke-width="3"/>
+<circle cx="211" cy="299" r="27" fill="#B5D4CF" stroke="#2F6B63" stroke-width="3"/>
+<circle cx="300" cy="299" r="32" fill="none" stroke="#8A6A0C" stroke-width="3"/>
+<circle cx="300" cy="299" r="27" fill="#B5D4CF" stroke="#2F6B63" stroke-width="3"/>
+<circle cx="389" cy="299" r="32" fill="none" stroke="#8A6A0C" stroke-width="3"/>
+<circle cx="389" cy="299" r="27" fill="#B5D4CF" stroke="#2F6B63" stroke-width="3"/>
+<circle cx="598" cy="299" r="40" fill="none" stroke="#8A6A0C" stroke-width="3" stroke-dasharray="5 5"/>
+<circle cx="598" cy="299" r="27" fill="#F2C9A6" stroke="#2F6B63" stroke-width="3"/>
+<circle cx="696" cy="299" r="40" fill="none" stroke="#8A6A0C" stroke-width="3" stroke-dasharray="5 5"/>
+<circle cx="696" cy="299" r="27" fill="#F2C9A6" stroke="#2F6B63" stroke-width="3"/>
+<circle cx="793" cy="299" r="40" fill="none" stroke="#8A6A0C" stroke-width="3" stroke-dasharray="5 5"/>
+<circle cx="793" cy="299" r="27" fill="#F2C9A6" stroke="#2F6B63" stroke-width="3"/>
+<circle cx="891" cy="299" r="40" fill="none" stroke="#8A6A0C" stroke-width="3" stroke-dasharray="5 5"/>
+<circle cx="891" cy="299" r="27" fill="#F2C9A6" stroke="#2F6B63" stroke-width="3"/>
+<circle cx="122" cy="388" r="32" fill="none" stroke="#8A6A0C" stroke-width="3"/>
+<circle cx="122" cy="388" r="27" fill="#B5D4CF" stroke="#2F6B63" stroke-width="3"/>
+<circle cx="211" cy="388" r="32" fill="none" stroke="#8A6A0C" stroke-width="3"/>
+<circle cx="211" cy="388" r="27" fill="#B5D4CF" stroke="#2F6B63" stroke-width="3"/>
+<circle cx="300" cy="388" r="32" fill="none" stroke="#8A6A0C" stroke-width="3"/>
+<circle cx="300" cy="388" r="27" fill="#B5D4CF" stroke="#2F6B63" stroke-width="3"/>
+<circle cx="389" cy="388" r="32" fill="none" stroke="#8A6A0C" stroke-width="3"/>
+<circle cx="389" cy="388" r="27" fill="#B5D4CF" stroke="#2F6B63" stroke-width="3"/>
+<circle cx="598" cy="388" r="40" fill="none" stroke="#8A6A0C" stroke-width="3" stroke-dasharray="5 5"/>
+<circle cx="598" cy="388" r="27" fill="#F2C9A6" stroke="#2F6B63" stroke-width="3"/>
+<circle cx="696" cy="388" r="40" fill="none" stroke="#8A6A0C" stroke-width="3" stroke-dasharray="5 5"/>
+<circle cx="696" cy="388" r="27" fill="#F2C9A6" stroke="#2F6B63" stroke-width="3"/>
+<circle cx="793" cy="388" r="40" fill="none" stroke="#8A6A0C" stroke-width="3" stroke-dasharray="5 5"/>
+<circle cx="793" cy="388" r="27" fill="#F2C9A6" stroke="#2F6B63" stroke-width="3"/>
+<circle cx="891" cy="388" r="40" fill="none" stroke="#8A6A0C" stroke-width="3" stroke-dasharray="5 5"/>
+<circle cx="891" cy="388" r="27" fill="#F2C9A6" stroke="#2F6B63" stroke-width="3"/>
+<line x1="255.5" y1="489" x2="116" y2="489" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/><polygon points="90,489 118,472.2 118,505.8" fill="#1E2B47"/><line x1="255.5" y1="489" x2="395" y2="489" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/><polygon points="421,489 393,505.8 393,472.2" fill="#1E2B47"/>
+<text x="255" y="542" font-size="24" fill="#4B5B72" text-anchor="middle">shorter</text>
+<line x1="743.5" y1="489" x2="591" y2="489" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/><polygon points="565,489 593,472.2 593,505.8" fill="#1E2B47"/><line x1="743.5" y1="489" x2="896" y2="489" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/><polygon points="922,489 894,505.8 894,472.2" fill="#1E2B47"/>
+<text x="745" y="542" font-size="24" font-weight="700" fill="#B9632F" text-anchor="middle">longer</text>
+<text x="500" y="597" font-size="24" fill="#4B5B72" text-anchor="middle">Dashed ring: how far each particle vibrates</text>
+<text x="500" y="654" font-size="27" font-weight="700" fill="#1E2B47" text-anchor="middle">Same temperature rise: which expands most?</text>
+<rect x="133" y="922" width="134" height="55" rx="4" fill="#B5D4CF" stroke="#1E2B47" stroke-width="3"/>
+<text x="200" y="906" font-size="26" font-weight="700" fill="#2F6B63" text-anchor="middle">least</text>
+<text x="200" y="1017" font-size="28" font-weight="700" fill="#1E2B47" text-anchor="middle">Solid</text>
+<rect x="433" y="845" width="134" height="132" rx="4" fill="#AECDE0" stroke="#1E2B47" stroke-width="3"/>
+<text x="500" y="828" font-size="26" font-weight="700" fill="#3E79AA" text-anchor="middle">more</text>
+<text x="500" y="1017" font-size="28" font-weight="700" fill="#1E2B47" text-anchor="middle">Liquid</text>
+<rect x="733" y="739" width="134" height="238" rx="4" fill="#F2C9A6" stroke="#1E2B47" stroke-width="3"/>
+<text x="800" y="722" font-size="26" font-weight="700" fill="#B9632F" text-anchor="middle">most</text>
+<text x="800" y="1017" font-size="28" font-weight="700" fill="#1E2B47" text-anchor="middle">Gas</text>
+<text x="500" y="1060" font-size="23" fill="#4B5B72" text-anchor="middle">Order only, not to scale</text>
+<text x="500" y="1143" font-size="28" font-weight="700" fill="#1E2B47" text-anchor="middle">Where it matters</text>
+<rect x="33" y="1178" width="300" height="244" rx="14" fill="#FFFFFF" stroke="#1E2B47" stroke-width="2.5"/>
+<rect x="350" y="1178" width="300" height="244" rx="14" fill="#FFFFFF" stroke="#1E2B47" stroke-width="2.5"/>
+<rect x="667" y="1178" width="300" height="244" rx="14" fill="#FFFFFF" stroke="#1E2B47" stroke-width="2.5"/>
+<rect x="55" y="1278" width="105" height="19" fill="#3E4A5E"/>
+<rect x="195" y="1278" width="105" height="19" fill="#3E4A5E"/>
+<rect x="78" y="1297" width="15" height="23" fill="#8A6A0C"/>
+<rect x="123" y="1297" width="15" height="23" fill="#8A6A0C"/>
+<rect x="223" y="1297" width="15" height="23" fill="#8A6A0C"/>
+<rect x="268" y="1297" width="15" height="23" fill="#8A6A0C"/>
+<line x1="133" y1="1240" x2="147.3369718914047" y2="1259.4982817723103" stroke="#B9632F" stroke-width="3" stroke-linecap="round"/><polygon points="158,1274 136.5,1265 155.8,1250.8" fill="#B9632F"/>
+<line x1="222" y1="1240" x2="207.6630281085953" y2="1259.4982817723103" stroke="#B9632F" stroke-width="3" stroke-linecap="round"/><polygon points="197,1274 199.2,1250.8 218.5,1265" fill="#B9632F"/>
+<text x="183" y="1222" font-size="24" font-weight="700" fill="#B9632F" text-anchor="middle">gap</text>
+<text x="183" y="1388" font-size="25" font-weight="700" fill="#1E2B47" text-anchor="middle">Rail gap</text>
+<line x1="383" y1="1232" x2="383" y2="1355" stroke="#1E2B47" stroke-width="5" stroke-linecap="round"/>
+<line x1="617" y1="1232" x2="617" y2="1355" stroke="#1E2B47" stroke-width="5" stroke-linecap="round"/>
+<path d="M383 1236 Q500 1326 617 1236" fill="none" stroke="#8A6A0C" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="500" y="1388" font-size="25" font-weight="700" fill="#1E2B47" text-anchor="middle">Slack cable</text>
+<rect x="806" y="1205" width="24" height="135" rx="12" fill="#FFFFFF" stroke="#1E2B47" stroke-width="3"/>
+<rect x="812" y="1262" width="12" height="80" fill="#D9443A"/>
+<circle cx="818" cy="1345" r="22" fill="#D9443A" stroke="#1E2B47" stroke-width="3"/>
+<line x1="866" y1="1310" x2="866" y2="1245" stroke="#B9632F" stroke-width="3" stroke-linecap="round"/><polygon points="866,1225 879.2,1247 852.8,1247" fill="#B9632F"/>
+<text x="744" y="1265" font-size="24" fill="#1E2B47" text-anchor="middle">liquid</text>
+<text x="744" y="1297" font-size="24" fill="#1E2B47" text-anchor="middle">rises</text>
+<text x="817" y="1400" font-size="25" font-weight="700" fill="#1E2B47" text-anchor="middle">Thermometer</text></g></svg>

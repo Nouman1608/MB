@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1030" viewBox="0 0 1000 1144.44" role="img" aria-labelledby="title desc"><title id="title">Balanced see-saw (OxfordAQA International GCSE Physics)</title><desc id="desc">A plank pivoted at its centre, its own weight ignored, with 300 N pushing down 1.2 m left of the pivot and 400 N pushing down 0.9 m right of it. Anticlockwise moment 300 × 1.2 = 360 N m equals clockwise moment 400 × 0.9 = 360 N m, so it balances (9203 3.1.8b). The pivot pushes up with 700 N, equal to the total downward force. No tier labels.</desc><rect width="1000" height="1144.44" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="500" y="62" font-size="36" font-weight="700" fill="#1E2B47" text-anchor="middle">Balanced see-saw</text>
+<text x="500" y="106" font-size="23" fill="#4B5B72" text-anchor="middle">Pivot at the centre; the plank's own weight is ignored</text>
+<rect x="78" y="432" width="844" height="25" rx="6" fill="#B5D4CF" stroke="#1E2B47" stroke-width="3"/>
+<polygon points="500,457 450,535 550,535" fill="#F2E6B7" stroke="#1E2B47" stroke-width="3" stroke-linejoin="round"/>
+<line x1="153" y1="355" x2="153" y2="400" stroke="#1E2B47" stroke-width="7" stroke-linecap="round"/><polygon points="153,444 120.8,398 185.2,398" fill="#1E2B47"/>
+<text x="153" y="333" font-size="27" font-weight="700" fill="#1E2B47" text-anchor="middle">300 N</text>
+<line x1="760" y1="330" x2="760" y2="400" stroke="#1E2B47" stroke-width="7" stroke-linecap="round"/><polygon points="760,444 727.8,398 792.2,398" fill="#1E2B47"/>
+<text x="760" y="307" font-size="27" font-weight="700" fill="#1E2B47" text-anchor="middle">400 N</text>
+<line x1="153" y1="457" x2="153" y2="592" stroke="#4B5B72" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="5 5"/>
+<line x1="153" y1="600" x2="485" y2="600" stroke="#1E2B47" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="153" y1="588" x2="153" y2="612" stroke="#1E2B47" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="485" y1="588" x2="485" y2="612" stroke="#1E2B47" stroke-width="2.5" stroke-linecap="round"/>
+<text x="318" y="647" font-size="26" font-weight="700" fill="#1E2B47" text-anchor="middle">1.2 m</text>
+<line x1="515" y1="600" x2="760" y2="600" stroke="#1E2B47" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="515" y1="588" x2="515" y2="612" stroke="#1E2B47" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="760" y1="588" x2="760" y2="612" stroke="#1E2B47" stroke-width="2.5" stroke-linecap="round"/>
+<text x="637" y="647" font-size="26" font-weight="700" fill="#1E2B47" text-anchor="middle">0.9 m</text>
+<line x1="497" y1="717" x2="497" y2="578" stroke="#2F6B63" stroke-width="8" stroke-linecap="round"/><polygon points="497,532 525.8,580 468.2,580" fill="#2F6B63"/>
+<text x="525" y="707" font-size="27" font-weight="700" fill="#2F6B63">700 N up</text>
+<rect x="33" y="777" width="455" height="321" rx="14" fill="#FFFFFF" stroke="#1E2B47" stroke-width="2.5"/>
+<path d="M308 852 A52 44 0 0 0 230 832" fill="none" stroke="#2F6B63" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="208,856 219.3,810.7 253.3,844.7" fill="#2F6B63"/>
+<text x="260" y="965" font-size="27" font-weight="700" fill="#1E2B47" text-anchor="middle">anticlockwise</text>
+<text x="260" y="1020" font-size="30" fill="#1E2B47" text-anchor="middle">300 × 1.2</text>
+<text x="260" y="1070" font-size="30" font-weight="700" fill="#2F6B63" text-anchor="middle">= 360 N m</text>
+<rect x="512" y="777" width="455" height="321" rx="14" fill="#FFFFFF" stroke="#1E2B47" stroke-width="2.5"/>
+<path d="M691 852 A52 44 0 0 1 769 832" fill="none" stroke="#2F6B63" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="791,856 745.7,844.7 779.7,810.7" fill="#2F6B63"/>
+<text x="739" y="965" font-size="27" font-weight="700" fill="#1E2B47" text-anchor="middle">clockwise</text>
+<text x="739" y="1020" font-size="30" fill="#1E2B47" text-anchor="middle">400 × 0.9</text>
+<text x="739" y="1070" font-size="30" font-weight="700" fill="#2F6B63" text-anchor="middle">= 360 N m</text></g></svg>

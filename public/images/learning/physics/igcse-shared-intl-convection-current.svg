@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="880" viewBox="0 0 1000 977.78" role="img" aria-labelledby="title desc"><title id="title">Convection current in water</title><desc id="desc">A beaker of water heated from below at one bottom corner, where a purple crystal sits. The purple dye shows the flow: hot water rises above the heated spot, crosses the top, cools and sinks on the far side, then returns along the bottom. No tier labels: Edexcel 4PH1 4.6–4.7 (both papers) and OxfordAQA 9203 3.4.2a (untiered).</desc><rect width="1000" height="977.78" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="500" y="62" font-size="36" font-weight="700" fill="#1E2B47" text-anchor="middle">Convection current in water</text>
+<text x="500" y="106" font-size="23" fill="#4B5B72" text-anchor="middle">Heated water expands, becomes less dense and rises</text>
+<rect x="168" y="255" width="664" height="465" fill="#D2E5EC"/>
+<path d="M165 212 V722 H835 V212" fill="none" stroke="#1E2B47" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M266 603 V333 H733 V622 H310" fill="none" stroke="#B3AED5" stroke-width="12" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="266" y1="555" x2="266" y2="440" stroke="#7B3FA0" stroke-width="4" stroke-linecap="round"/>
+<line x1="398" y1="333" x2="580" y2="333" stroke="#7B3FA0" stroke-width="4" stroke-linecap="round"/>
+<line x1="733" y1="388" x2="733" y2="520" stroke="#7B3FA0" stroke-width="4" stroke-linecap="round"/>
+<line x1="668" y1="622" x2="425" y2="622" stroke="#7B3FA0" stroke-width="4" stroke-linecap="round"/>
+<polygon points="266,408 282.5,438 249.5,438" fill="#1E2B47"/>
+<polygon points="607,333 577,349.5 577,316.5" fill="#1E2B47"/>
+<polygon points="733,550 716.5,520 749.5,520" fill="#1E2B47"/>
+<polygon points="395,622 425,605.5 425,638.5" fill="#1E2B47"/>
+<text x="500" y="300" font-size="23" fill="#4B5B72" text-anchor="middle">purple dye shows the flow</text>
+<text x="308" y="500" font-size="23" font-weight="700" fill="#B9632F">hot: rises</text>
+<text x="555" y="500" font-size="23" font-weight="700" fill="#3E79AA">cool: sinks</text>
+<circle cx="266" cy="642" r="15" fill="#7B3FA0" stroke="#1E2B47" stroke-width="2.5"/>
+<text x="296" y="687" font-size="23" fill="#1E2B47">crystal</text>
+<path d="M266 737 C300 790 300 838 266 838 C232 838 232 790 266 737Z" fill="#D8B530" stroke="#8A6A0C" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="330" y="810" font-size="24" font-weight="700" fill="#8A6A0C">heat here</text></g></svg>

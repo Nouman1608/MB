@@ -111,7 +111,7 @@ m/s in air. Its wavelength:
 ```
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-waves--01-measuring-a-wave.webp" width="900" height="890" alt="A sine graph of displacement against distance marks wavelength between two crests (0.40 m) and amplitude from rest position to crest. With f = 5 Hz, v = f x wavelength = 2.0 m/s and the period is 0.2 s." loading="lazy">
+  <img src="/images/learning/physics/igcse-shared-intl-measuring-a-wave.svg" width="900" height="890" alt="A sine graph of displacement against distance marks wavelength between two crests (0.40 m) and amplitude from rest position to crest. With f = 5 Hz, v = f x wavelength = 2.0 m/s and the period is 0.2 s." loading="lazy">
   <figcaption>Wavelength is crest to crest; amplitude is from the middle to a crest; v = f x wavelength.</figcaption>
 </figure>
 
@@ -203,7 +203,7 @@ reflection loses no light to absorption at the reflecting surface.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-waves--04-total-internal-reflection.webp" width="900" height="1160" alt="Three rays in a glass semicircle: below the critical angle some light leaves, at 41.8 degrees the refracted ray runs along the surface, above it all light is reflected. sin c = 1/n (Extended)." loading="lazy">
+  <img src="/images/learning/physics/igcse-shared-intl-total-internal-reflection.svg" width="900" height="1160" alt="Three rays in a glass semicircle: below the critical angle some light leaves, at 41.8 degrees the refracted ray runs along the surface, above it all light is reflected. sin c = 1/n." loading="lazy">
   <figcaption>Above the critical angle all the light is reflected back inside the glass.</figcaption>
 </figure>
 

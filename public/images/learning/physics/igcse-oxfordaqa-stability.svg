@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="700" viewBox="0 0 1000 777.78" role="img" aria-labelledby="title desc"><title id="title">Stability and the centre of mass (OxfordAQA International GCSE Physics)</title><desc id="desc">No tier labels: 9203 3.1.7c and 3.1.8c (an object topples when the line of action of its weight lies outside its base). Two blocks, each tilted by 25 degrees about its lower right corner, with the upright position dashed. For the tall narrow block the vertical line from the CM falls outside the base, so it topples (it topples beyond 20 degrees). For the low wide block it falls inside the base, so it falls back (it topples only beyond 65 degrees).</desc><rect width="1000" height="777.78" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="500" y="62" font-size="36" font-weight="700" fill="#1E2B47" text-anchor="middle">Stability: where is the centre of mass?</text>
+<text x="500" y="106" font-size="23" fill="#4B5B72" text-anchor="middle">Both blocks tilted by the same 25°</text>
+<rect x="33" y="166" width="455" height="579" rx="14" fill="#FFFFFF" stroke="#1E2B47" stroke-width="2.5"/>
+<text x="260" y="218" font-size="30" font-weight="700" fill="#1E2B47" text-anchor="middle">Tall, narrow</text>
+<line x1="55" y1="622" x2="468" y2="622" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<rect x="187.8089297201393" y="322" width="109.1910702798607" height="300" fill="none" stroke="#C6D3D0" stroke-width="3" stroke-dasharray="10 7"/>
+<polygon points="297,622 198,575.9 324.8,304 423.8,350.1" fill="#F2E6B7" stroke="#8A6A0C" stroke-width="4" stroke-linejoin="round"/>
+<line x1="310.9" y1="477" x2="310.9" y2="622" stroke="#8A6A0C" stroke-width="3.5" stroke-linecap="round" stroke-dasharray="10 7"/>
+<circle cx="310.9" cy="463" r="12" fill="#FFFFFF" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="310.9" cy="463" r="4.5" fill="#1E2B47"/>
+<text x="288.9" y="453" font-size="26" font-weight="700" fill="#1E2B47" text-anchor="end">CM</text>
+<circle cx="297" cy="622" r="9" fill="#1E2B47"/>
+<text x="260" y="678" font-size="25" font-weight="700" fill="#8A6A0C" text-anchor="middle">CM past the edge: topples</text>
+<text x="260" y="715" font-size="25" fill="#4B5B72" text-anchor="middle">topples beyond 20°</text>
+<rect x="512" y="166" width="455" height="579" rx="14" fill="#FFFFFF" stroke="#1E2B47" stroke-width="2.5"/>
+<text x="740" y="218" font-size="30" font-weight="700" fill="#1E2B47" text-anchor="middle">Low, wide</text>
+<line x1="533" y1="622" x2="945" y2="622" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<rect x="641.1042387439486" y="512" width="235.89576125605146" height="110" fill="none" stroke="#C6D3D0" stroke-width="3" stroke-dasharray="10 7"/>
+<polygon points="877,622 663.2,522.3 709.7,422.6 923.5,522.3" fill="#DDEBE8" stroke="#2F6B63" stroke-width="4" stroke-linejoin="round"/>
+<line x1="793.3" y1="536.3" x2="793.3" y2="622" stroke="#2F6B63" stroke-width="3.5" stroke-linecap="round" stroke-dasharray="10 7"/>
+<circle cx="793.3" cy="522.3" r="12" fill="#FFFFFF" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="793.3" cy="522.3" r="4.5" fill="#1E2B47"/>
+<text x="771.3" y="512.3" font-size="26" font-weight="700" fill="#1E2B47" text-anchor="end">CM</text>
+<circle cx="877" cy="622" r="9" fill="#1E2B47"/>
+<text x="740" y="678" font-size="25" font-weight="700" fill="#2F6B63" text-anchor="middle">CM over the base: falls back</text>
+<text x="740" y="715" font-size="25" fill="#4B5B72" text-anchor="middle">topples beyond 65°</text></g></svg>

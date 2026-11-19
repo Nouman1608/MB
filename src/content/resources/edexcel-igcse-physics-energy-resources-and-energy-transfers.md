@@ -133,17 +133,17 @@ through insulation — is a common practical application of these
 principles.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--05-convection-current.webp" width="900" height="880" alt="A beaker with a purple crystal at one bottom corner heated from below. The purple dye rises over the heated spot, crosses the top, sinks on the far side and returns along the bottom." loading="lazy">
+  <img src="/images/learning/physics/igcse-shared-intl-convection-current.svg" width="900" height="880" alt="A beaker with a purple crystal at one bottom corner heated from below. The purple dye rises over the heated spot, crosses the top, sinks on the far side and returns along the bottom." loading="lazy">
   <figcaption>Heated water becomes less dense and rises; cooler, denser water sinks to replace it.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--06-conduction-rods.webp" width="900" height="920" alt="Four equal rods of copper, iron, glass and wood are heated at one end with a pin stuck on the far end by wax. The pins on copper and iron have fallen, copper first; the pins on glass and wood remain." loading="lazy">
+  <img src="/images/learning/physics/igcse-shared-intl-conduction-rods.svg" width="900" height="920" alt="Four equal rods of copper, iron, glass and wood are heated at one end with a pin stuck on the far end by wax. The pins on copper and iron have fallen, copper first; the pins on glass and wood remain." loading="lazy">
   <figcaption>The pin on the best conductor falls first.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--07-radiation-plates.webp" width="900" height="950" alt="A radiant heater faces a dull black and a shiny plate at equal distance. The black plate absorbs the infrared, its wax melts and its pin falls first; the shiny plate reflects most of it and its pin stays." loading="lazy">
+  <img src="/images/learning/physics/igcse-shared-intl-radiation-plates.svg" width="900" height="950" alt="A radiant heater faces a dull black and a shiny plate at equal distance. The black plate absorbs the infrared, its wax melts and its pin falls first; the shiny plate reflects most of it and its pin stays." loading="lazy">
   <figcaption>Dull black surfaces absorb infrared best; shiny ones reflect it.</figcaption>
 </figure>
 

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1160" viewBox="0 0 1000 1288.89" role="img" aria-labelledby="title desc"><title id="title">Finding the centre of gravity (Edexcel International GCSE Physics: Paper 2 only)</title><desc id="desc">Marked Paper 2 only: the weight of a body acts through its centre of gravity is 4PH1 statement 1.31P. Top: the same lamina hangs freely from hole A, then from hole B, each time with a plumb line from the pin; it comes to rest with its centre of gravity directly below the pin. Bottom: both vertical lines drawn on the lamina cross at the centre of gravity, marked CG.</desc><rect width="1000" height="1288.89" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="500" y="62" font-size="36" font-weight="700" fill="#1E2B47" text-anchor="middle">Finding the centre of gravity</text>
+<text x="500" y="106" font-size="23" fill="#4B5B72" text-anchor="middle">Hang the lamina; plumb line shows the vertical</text>
+<rect x="35" y="126" width="190" height="38" rx="19" fill="#8A6A0C"/><text x="130" y="153.64" font-size="24" font-weight="700" fill="#FFFFFF" text-anchor="middle">Paper 2 only</text>
+<rect x="33" y="178" width="455" height="510" rx="14" fill="#FFFFFF" stroke="#1E2B47" stroke-width="2.5"/>
+<text x="260" y="226" font-size="28" font-weight="700" fill="#1E2B47" text-anchor="middle">Hang from A</text>
+<polygon points="263.5,262.5 371.7,458.6 300.6,558 180.3,490.8 165.7,357.8" fill="#DDEBE8" stroke="#1E2B47" stroke-width="3" stroke-linejoin="round"/>
+<line x1="203" y1="306" x2="319" y2="306" stroke="#1E2B47" stroke-width="5" stroke-linecap="round"/>
+<line x1="261" y1="324" x2="261" y2="660" stroke="#2F6B63" stroke-width="3" stroke-linecap="round" stroke-dasharray="10 7"/>
+<circle cx="261" cy="673" r="14" fill="#2F6B63"/>
+<circle cx="261" cy="324" r="7" fill="#FFFFFF" stroke="#1E2B47" stroke-width="2.5"/>
+<text x="279" y="350" font-size="22" font-weight="700" fill="#1E2B47">A</text>
+<rect x="512" y="178" width="455" height="510" rx="14" fill="#FFFFFF" stroke="#1E2B47" stroke-width="2.5"/>
+<text x="739" y="226" font-size="28" font-weight="700" fill="#1E2B47" text-anchor="middle">Hang from B</text>
+<polygon points="707.1,592.1 636.1,379.7 723.9,294.8 830.1,382.6 820.5,516" fill="#DDEBE8" stroke="#1E2B47" stroke-width="3" stroke-linejoin="round"/>
+<line x1="680" y1="306" x2="796" y2="306" stroke="#1E2B47" stroke-width="5" stroke-linecap="round"/>
+<line x1="738" y1="324" x2="738" y2="660" stroke="#2F6B63" stroke-width="3" stroke-linecap="round" stroke-dasharray="10 7"/>
+<circle cx="738" cy="673" r="14" fill="#2F6B63"/>
+<circle cx="738" cy="324" r="7" fill="#FFFFFF" stroke="#1E2B47" stroke-width="2.5"/>
+<text x="756" y="350" font-size="22" font-weight="700" fill="#1E2B47">B</text>
+<rect x="33" y="722" width="934" height="533" rx="14" fill="#FFFFFF" stroke="#1E2B47" stroke-width="2.5"/>
+<text x="67" y="770" font-size="28" font-weight="700" fill="#1E2B47">Both lines drawn on the lamina</text>
+<polygon points="275,817 658,866 724,1066 508,1165 308,1050" fill="#DDEBE8" stroke="#1E2B47" stroke-width="3" stroke-linejoin="round"/>
+<line x1="358" y1="883" x2="652.8137256804372" y2="1098.6270423964663" stroke="#2F6B63" stroke-width="3" stroke-linecap="round" stroke-dasharray="10 7"/>
+<line x1="668" y1="1066" x2="283.98267733807336" y2="880.4231460536693" stroke="#2F6B63" stroke-width="3" stroke-linecap="round" stroke-dasharray="10 7"/>
+<circle cx="358" cy="883" r="8" fill="#FFFFFF" stroke="#1E2B47" stroke-width="2.5"/>
+<circle cx="668" cy="1066" r="8" fill="#FFFFFF" stroke="#1E2B47" stroke-width="2.5"/>
+<text x="358" y="865" font-size="26" font-weight="700" fill="#1E2B47" text-anchor="middle">A</text>
+<text x="672" y="1046" font-size="26" font-weight="700" fill="#1E2B47" text-anchor="middle">B</text>
+<circle cx="491.7584116116154" cy="980.8310308480173" r="11" fill="#8A6A0C" stroke="#1E2B47" stroke-width="3"/>
+<text x="517.7584116116154" y="958.8310308480173" font-size="28" font-weight="700" fill="#8A6A0C">CG</text>
+<text x="500" y="1222" font-size="28" font-weight="700" fill="#2F6B63" text-anchor="middle">Lines cross at the centre of gravity</text></g></svg>

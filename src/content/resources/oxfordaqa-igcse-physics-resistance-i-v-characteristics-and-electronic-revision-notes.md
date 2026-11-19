@@ -76,7 +76,7 @@ Reverse p.d.: I is about 0. Small forward p.d.: I is about 0. Then a steep rise.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--04-iv-graphs.webp" width="900" height="1192" alt="Three I-V graphs: a fixed resistor gives a straight line through the origin; a filament lamp gives a curve that gets less steep because resistance rises; a diode carries no current in reverse and rises steeply forward after about 0.6 V." loading="lazy">
+  <img src="/images/learning/physics/igcse-shared-intl-iv-graphs.svg" width="900" height="1192" alt="Three I-V graphs: a fixed resistor gives a straight line through the origin; a filament lamp gives a curve that gets less steep because resistance rises; a diode carries no current in reverse and rises steeply forward after about 0.6 V." loading="lazy">
   <figcaption>The shape of each I-V graph tells you how the resistance behaves.</figcaption>
 </figure>
 

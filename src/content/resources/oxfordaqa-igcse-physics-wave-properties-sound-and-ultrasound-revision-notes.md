@@ -69,7 +69,7 @@ Other useful pages: the [course hub](/boards/oxfordaqa/igcse/physics/), the [pri
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-waves--01-measuring-a-wave.webp" width="900" height="890" alt="A sine graph of displacement against distance marks wavelength between two crests (0.40 m) and amplitude from rest position to crest. With f = 5 Hz, v = f x wavelength = 2.0 m/s and the period is 0.2 s." loading="lazy">
+  <img src="/images/learning/physics/igcse-shared-intl-measuring-a-wave.svg" width="900" height="890" alt="A sine graph of displacement against distance marks wavelength between two crests (0.40 m) and amplitude from rest position to crest. With f = 5 Hz, v = f x wavelength = 2.0 m/s and the period is 0.2 s." loading="lazy">
   <figcaption>Wavelength is crest to crest; amplitude is from the middle to a crest; v = f x wavelength.</figcaption>
 </figure>
 
@@ -209,7 +209,7 @@ Rearrangements: f = v/λ, λ = v/f, t = s/v.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-waves--08-sonar.webp" width="900" height="1060" alt="A pulse goes down and the echo returns in 0.40 s at 1500 m/s: 600 m there and back, so the depth is 300 m." loading="lazy">
+  <img src="/images/learning/physics/igcse-oxfordaqa-sonar.svg" width="900" height="1060" alt="A pulse goes down and the echo returns in 0.40 s at 1500 m/s: 600 m there and back, so the depth is 300 m." loading="lazy">
   <figcaption>Depth = speed x time / 2, because the pulse travels there and back.</figcaption>
 </figure>
 

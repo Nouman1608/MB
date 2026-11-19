@@ -134,22 +134,22 @@ Work done equals energy transferred, and **P = W/t** gives the rate of that tran
 **Reducing transfer in a house:** loft insulation and cavity walls trap air (a poor conductor) and prevent convection currents; double glazing does the same; shiny foil behind radiators reflects radiation back into the room instead of letting it escape through the wall.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-physics-thermal-physics--02-conduction-metal-vs-nonmetal.webp" width="900" height="1040" alt="Two rods from a hot end to a cold end. In the non-metal, atoms pass energy to neighbours by vibration. In the metal, free electrons also move through the lattice carrying energy, so metals conduct much better." loading="lazy">
+  <img src="/images/learning/physics/igcse-edexcel-conduction-metal-vs-nonmetal.svg" width="900" height="1040" alt="Two rods from a hot end to a cold end. In the non-metal, atoms pass energy to neighbours by vibration. In the metal, free electrons also move through the lattice carrying energy, so metals conduct much better." loading="lazy">
   <figcaption>Metals conduct better because free electrons carry energy as well as atom vibrations.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--05-convection-current.webp" width="900" height="880" alt="A beaker with a purple crystal at one bottom corner heated from below. The purple dye rises over the heated spot, crosses the top, sinks on the far side and returns along the bottom." loading="lazy">
+  <img src="/images/learning/physics/igcse-shared-intl-convection-current.svg" width="900" height="880" alt="A beaker with a purple crystal at one bottom corner heated from below. The purple dye rises over the heated spot, crosses the top, sinks on the far side and returns along the bottom." loading="lazy">
   <figcaption>Heated water becomes less dense and rises; cooler, denser water sinks to replace it.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--07-radiation-plates.webp" width="900" height="950" alt="A radiant heater faces a dull black and a shiny plate at equal distance. The black plate absorbs the infrared, its wax melts and its pin falls first; the shiny plate reflects most of it and its pin stays." loading="lazy">
+  <img src="/images/learning/physics/igcse-shared-intl-radiation-plates.svg" width="900" height="950" alt="A radiant heater faces a dull black and a shiny plate at equal distance. The black plate absorbs the infrared, its wax melts and its pin falls first; the shiny plate reflects most of it and its pin stays." loading="lazy">
   <figcaption>Dull black surfaces absorb infrared best; shiny ones reflect it.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-physics-thermal-physics--13-leslie-cube-emission.webp" width="900" height="930" alt="A Leslie cube: the dull black face gives the biggest detector reading, shiny silver the smallest. Hotter objects and larger surfaces emit faster." loading="lazy">
+  <img src="/images/learning/physics/igcse-edexcel-leslie-cube.svg" width="900" height="930" alt="A Leslie cube: the dull black face gives the biggest detector reading, shiny silver the smallest. Hotter objects and larger surfaces emit faster." loading="lazy">
   <figcaption>Leslie cube and what changes the rate of emission.</figcaption>
 </figure>
 
