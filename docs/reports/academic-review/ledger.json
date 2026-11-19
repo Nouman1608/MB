@@ -1,6 +1,7 @@
 {
   "meaning": {
     "reviewed": "A named Marlbridge subject teacher (reviewer, different from the author, designated isReviewer) is credited as accountable for the page. Owner decision D-379 (1 Oct 2026): this is not a record of a dated, line-by-line check.",
+    "archived": "Kept so existing links work, but off every course hub, noindexed and out of the sitemap (D-505). Neither credited nor awaiting sign-off.",
     "review-pending": "No accountable teacher is credited yet. Accuracy rests on the page's own citation of the official specification and the corrections process.",
     "reviewer": "The credited accountable teacher (an author profile with isReviewer: true).",
     "reviewedDate": "The date the reviewer credit was applied to the page; not the date of a review.",
@@ -8,30 +9,31 @@
     "repositoryVerification": "A check of the page against its official specification recorded in docs/reports/academic-review/pending-review-*.json. Not a teacher review and not a sign-off."
   },
   "totals": {
-    "resources": 16059,
+    "resources": 16062,
     "reviewStatus": {
       "archived": 9,
+      "review-pending": 3,
       "reviewed": 16050
     },
     "outcome": {
+      "ARCHIVED": 9,
       "REPO_PARTIAL_UNVERIFIABLE": 153,
-      "REPO_VERIFIED": 585,
+      "REPO_VERIFIED": 588,
       "REPO_VERIFIED_AFTER_CORRECTION": 42,
-      "TEACHER_CREDITED": 15270,
-      "UNVERIFIED": 9
+      "TEACHER_CREDITED": 15270
     },
     "structuralValidation": {
-      "PASS": 15246,
+      "PASS": 15249,
       "WARN": 813
     },
-    "withVerificationRecord": 780,
+    "withVerificationRecord": 783,
     "withSpecCheck": 0,
     "correctedInThisProgramme": 48,
-    "pendingWithoutReviewer": 9
+    "pendingWithoutReviewer": 3
   },
   "integrity": [],
   "rowsFile": "docs/reports/academic-review/ledger.csv",
-  "rowCount": 16059,
+  "rowCount": 16062,
   "columns": [
     "filename",
     "slug",
