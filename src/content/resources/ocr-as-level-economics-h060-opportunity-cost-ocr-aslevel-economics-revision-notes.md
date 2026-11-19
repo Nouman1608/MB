@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-These notes condense the topic **Opportunity cost** from the Area of Study Scarcity and choice, Component 01, Microeconomics, of the OCR *AS Level Economics (H060)* specification, for first assessment in 2016. The [opportunity cost study guide](/resources/ocr-as-level-economics-h060-opportunity-cost-ocr-aslevel-economics/) gives full explanations and a worked PPC; the [opportunity cost practice questions](/resources/ocr-as-level-economics-h060-opportunity-cost-ocr-aslevel-economics-practice/) test you. Use the [OCR AS Economics hub](/boards/ocr/as-level/economics/) and the [printable checklist](/checklists/ocr/as-level/economics/) for the rest of the course. All figures are invented.
+These notes condense topic 1.3 **Opportunity cost** from Introduction to microeconomics, Component 01, Microeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). The [opportunity cost study guide](/resources/ocr-as-level-economics-h060-opportunity-cost-ocr-aslevel-economics/) gives full explanations and a worked PPC; the [opportunity cost practice questions](/resources/ocr-as-level-economics-h060-opportunity-cost-ocr-aslevel-economics-practice/) test you. Use the [OCR AS Economics hub](/boards/ocr/as-level/economics/) and the [printable checklist](/checklists/ocr/as-level/economics/) for the rest of the course. All figures are invented.
 
 ## Key terms
 
@@ -136,4 +136,4 @@ Yes. An outward shift shows a rise in productive capacity, which is potential gr
 
 ## Official syllabus
 
-OCR *AS Level in Economics (H060)*, for first assessment in 2016, published by OCR. Topic: Opportunity cost, Area of Study Scarcity and choice, Component 01.
+OCR *AS Level in Economics (H060)*, Version 3.0 (June 2026), published by OCR. Topic 1.3 Opportunity cost, Introduction to microeconomics, Component 01.

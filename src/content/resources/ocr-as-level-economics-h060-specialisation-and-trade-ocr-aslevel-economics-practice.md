@@ -29,7 +29,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover the topic Specialisation and trade in Component 01, Microeconomics, of the OCR *AS Level Economics (H060)* specification, for first assessment in 2016. The mark totals are our own, and all people, firms and figures are invented. Revise first with the [specialisation and trade study guide](/resources/ocr-as-level-economics-h060-specialisation-and-trade-ocr-aslevel-economics/) and the [specialisation and trade revision notes](/resources/ocr-as-level-economics-h060-specialisation-and-trade-ocr-aslevel-economics-revision-notes/). The [OCR AS Economics hub](/boards/ocr/as-level/economics/) lists the other topics.
+These questions cover topic 2.1 Specialisation and trade in Component 01, Microeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). The mark totals are our own, and all people, firms and figures are invented. Revise first with the [specialisation and trade study guide](/resources/ocr-as-level-economics-h060-specialisation-and-trade-ocr-aslevel-economics/) and the [specialisation and trade revision notes](/resources/ocr-as-level-economics-h060-specialisation-and-trade-ocr-aslevel-economics-revision-notes/). The [OCR AS Economics hub](/boards/ocr/as-level/economics/) lists the other topics.
 
 ## Questions
 
@@ -150,4 +150,4 @@ Using the extract, explain one benefit and one risk of regional specialisation f
 
 ## Official syllabus
 
-These questions follow the OCR *AS Level in Economics (H060)* specification, for first assessment in 2016, published by OCR. Specialisation and trade sits in the Area of Study Scarcity and choice, Component 01, Microeconomics.
+These questions follow the OCR *AS Level in Economics (H060)* specification, Version 3.0 (June 2026), published by OCR. Specialisation and trade is topic 2.1, The role of markets, Component 01, Microeconomics.

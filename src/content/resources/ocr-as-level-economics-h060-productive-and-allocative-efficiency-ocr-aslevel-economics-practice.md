@@ -29,7 +29,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover "Economic efficiency: productive and allocative efficiency" and the evaluation of resource allocation in different economic systems, from Component 01, Microeconomics, of the OCR *AS Level Economics (H060)* specification, for first assessment in 2016. The mark totals are our own and all data are invented. Explanations are in the [efficiency study guide](/resources/ocr-as-level-economics-h060-productive-and-allocative-efficiency-ocr-aslevel-economics/) and the [efficiency revision notes](/resources/ocr-as-level-economics-h060-productive-and-allocative-efficiency-ocr-aslevel-economics-revision-notes/). See the [OCR AS Economics hub](/boards/ocr/as-level/economics/).
+These questions cover "Economic efficiency: productive and allocative efficiency" and the evaluation of resource allocation in different economic systems, from topic 1.2 The allocation of resources, Component 01, Microeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). The mark totals are our own and all data are invented. Explanations are in the [efficiency study guide](/resources/ocr-as-level-economics-h060-productive-and-allocative-efficiency-ocr-aslevel-economics/) and the [efficiency revision notes](/resources/ocr-as-level-economics-h060-productive-and-allocative-efficiency-ocr-aslevel-economics-revision-notes/). See the [OCR AS Economics hub](/boards/ocr/as-level/economics/).
 
 ## Questions
 

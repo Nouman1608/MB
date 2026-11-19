@@ -29,7 +29,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover the topic Allocation of resources in Component 01, Microeconomics, of the OCR *AS Level Economics (H060)* specification, for first assessment in 2016. The mark totals are our own, and all countries, councils and figures are invented. Revise first with the [allocation of resources study guide](/resources/ocr-as-level-economics-h060-allocation-of-resources-ocr-aslevel-economics/) and the [allocation of resources revision notes](/resources/ocr-as-level-economics-h060-allocation-of-resources-ocr-aslevel-economics-revision-notes/). The [OCR AS Economics hub](/boards/ocr/as-level/economics/) lists the other topics.
+These questions cover the incentives and economic systems parts of topic 1.2 The allocation of resources in Component 01, Microeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). The mark totals are our own, and all countries, councils and figures are invented. Revise first with the [allocation of resources study guide](/resources/ocr-as-level-economics-h060-allocation-of-resources-ocr-aslevel-economics/) and the [allocation of resources revision notes](/resources/ocr-as-level-economics-h060-allocation-of-resources-ocr-aslevel-economics-revision-notes/). The [OCR AS Economics hub](/boards/ocr/as-level/economics/) lists the other topics.
 
 ## Questions
 
@@ -163,4 +163,4 @@ D: The rationing function of price.
 
 ## Official syllabus
 
-These questions follow the OCR *AS Level in Economics (H060)* specification, for first assessment in 2016, published by OCR. Allocation of resources sits in the Area of Study How competitive markets work, Component 01, Microeconomics.
+These questions follow the OCR *AS Level in Economics (H060)* specification, Version 3.0 (June 2026), published by OCR. Allocation of resources sits in topic 1.2 The allocation of resources, Introduction to microeconomics, Component 01, Microeconomics.

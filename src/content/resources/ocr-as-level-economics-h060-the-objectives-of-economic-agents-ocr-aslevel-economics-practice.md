@@ -29,7 +29,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover the topic The objectives of economic agents in Component 01, Microeconomics, of the OCR *AS Level Economics (H060)* specification, for first assessment in 2016. The mark totals are our own, and all firms and figures are invented. Revise first with the [objectives of economic agents study guide](/resources/ocr-as-level-economics-h060-the-objectives-of-economic-agents-ocr-aslevel-economics/) and the [objectives of economic agents revision notes](/resources/ocr-as-level-economics-h060-the-objectives-of-economic-agents-ocr-aslevel-economics-revision-notes/). The [OCR AS Economics hub](/boards/ocr/as-level/economics/) lists the other topics.
+These questions cover the objectives part of topic 1.1 The economic problem in Component 01, Microeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). The mark totals are our own, and all firms and figures are invented. Revise first with the [objectives of economic agents study guide](/resources/ocr-as-level-economics-h060-the-objectives-of-economic-agents-ocr-aslevel-economics/) and the [objectives of economic agents revision notes](/resources/ocr-as-level-economics-h060-the-objectives-of-economic-agents-ocr-aslevel-economics-revision-notes/). The [OCR AS Economics hub](/boards/ocr/as-level/economics/) lists the other topics.
 
 Questions 4, 7 and 8 use this table for Firm Sigma. Output is in thousand units and money values in £ thousand.
 
@@ -174,4 +174,4 @@ D: 8 thousand units.
 
 ## Official syllabus
 
-These questions follow the OCR *AS Level in Economics (H060)* specification, for first assessment in 2016, published by OCR. The objectives of economic agents sits in the Area of Study How competitive markets work, Component 01, Microeconomics.
+These questions follow the OCR *AS Level in Economics (H060)* specification, Version 3.0 (June 2026), published by OCR. The objectives of economic agents sit in topic 1.1 The economic problem, Introduction to microeconomics, Component 01, Microeconomics.

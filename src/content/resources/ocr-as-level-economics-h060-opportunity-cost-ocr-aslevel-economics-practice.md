@@ -29,7 +29,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover the topic Opportunity cost in Component 01, Microeconomics, of the OCR *AS Level Economics (H060)* specification, for first assessment in 2016. The mark totals are our own, and all countries and figures are invented. Use the [opportunity cost study guide](/resources/ocr-as-level-economics-h060-opportunity-cost-ocr-aslevel-economics/) and the [opportunity cost revision notes](/resources/ocr-as-level-economics-h060-opportunity-cost-ocr-aslevel-economics-revision-notes/) first. The [OCR AS Economics hub](/boards/ocr/as-level/economics/) lists the other topics.
+These questions cover topic 1.3 Opportunity cost in Component 01, Microeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). The mark totals are our own, and all countries and figures are invented. Use the [opportunity cost study guide](/resources/ocr-as-level-economics-h060-opportunity-cost-ocr-aslevel-economics/) and the [opportunity cost revision notes](/resources/ocr-as-level-economics-h060-opportunity-cost-ocr-aslevel-economics-revision-notes/) first. The [OCR AS Economics hub](/boards/ocr/as-level/economics/) lists the other topics.
 
 Questions 3 and 7 use this production possibility schedule for Country N.
 
@@ -161,4 +161,4 @@ D: Produced with constant opportunity cost.
 
 ## Official syllabus
 
-These questions follow the OCR *AS Level in Economics (H060)* specification, for first assessment in 2016, published by OCR. Opportunity cost sits in the Area of Study Scarcity and choice, Component 01, Microeconomics.
+These questions follow the OCR *AS Level in Economics (H060)* specification, Version 3.0 (June 2026), published by OCR. Opportunity cost is topic 1.3, Introduction to microeconomics, Component 01, Microeconomics.

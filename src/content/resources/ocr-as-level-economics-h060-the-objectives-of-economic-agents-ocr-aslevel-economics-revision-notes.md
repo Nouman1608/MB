@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-These notes condense the topic **The objectives of economic agents** from the Area of Study How competitive markets work, Component 01, Microeconomics, of the OCR *AS Level Economics (H060)* specification, for first assessment in 2016. Full explanations and the Firm Kappa table are in the [objectives of economic agents study guide](/resources/ocr-as-level-economics-h060-the-objectives-of-economic-agents-ocr-aslevel-economics/); test yourself with the [objectives of economic agents practice questions](/resources/ocr-as-level-economics-h060-the-objectives-of-economic-agents-ocr-aslevel-economics-practice/). See the [OCR AS Economics hub](/boards/ocr/as-level/economics/) and the [printable checklist](/checklists/ocr/as-level/economics/). All figures are invented.
+These notes condense the objectives part of topic 1.1 **The economic problem** from Introduction to microeconomics, Component 01, Microeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). Full explanations and the Firm Kappa table are in the [objectives of economic agents study guide](/resources/ocr-as-level-economics-h060-the-objectives-of-economic-agents-ocr-aslevel-economics/); test yourself with the [objectives of economic agents practice questions](/resources/ocr-as-level-economics-h060-the-objectives-of-economic-agents-ocr-aslevel-economics-practice/). See the [OCR AS Economics hub](/boards/ocr/as-level/economics/) and the [printable checklist](/checklists/ocr/as-level/economics/). All figures are invented.
 
 ## Key terms
 
@@ -77,9 +77,9 @@ These notes condense the topic **The objectives of economic agents** from the Ar
 
 ## Linking to other topics
 
-- Consumer surplus from utility maximisation reappears in supply and demand diagrams.
-- Profit and revenue figures depend on costs and revenue, a later topic in this Area of Study.
-- Government's welfare objective, and its limits, underpin the evaluation of intervention and government failure.
+- Consumer surplus from utility maximisation reappears in topic 2.4 Consumer and producer surplus.
+- Version 3.0 has no separate AS topic on costs and revenue; the tables here give all the revenue and cost figures you need.
+- Government's welfare objective, and its limits, underpin the evaluation of intervention and government failure in topic 2.8 Government intervention.
 
 ## Exam traps
 
@@ -138,4 +138,4 @@ That is the assumption, but politicians and officials have their own objectives 
 
 ## Official syllabus
 
-OCR *AS Level in Economics (H060)*, for first assessment in 2016, published by OCR. Topic: The objectives of economic agents, Area of Study How competitive markets work, Component 01.
+OCR *AS Level in Economics (H060)*, Version 3.0 (June 2026), published by OCR. Topic 1.1 The economic problem (the objectives of economic agents), Introduction to microeconomics, Component 01.

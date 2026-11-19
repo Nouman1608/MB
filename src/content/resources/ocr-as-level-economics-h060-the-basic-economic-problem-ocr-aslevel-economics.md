@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide follows the OCR *AS Level Economics (H060)* specification, for first assessment in 2016. It covers the topic **The basic economic problem**, the first topic in the Area of Study Scarcity and choice, within Component 01, Microeconomics. Everything else in the course starts here: markets, governments and policies are all ways of handling scarcity. All examples and figures are invented.
+This guide follows the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). It covers most of topic 1.1 **The economic problem**, the first topic in Introduction to microeconomics, within Component 01, Microeconomics. The objectives of economic agents, also part of topic 1.1, have their own [objectives of economic agents guide](/resources/ocr-as-level-economics-h060-the-objectives-of-economic-agents-ocr-aslevel-economics/). Everything else in the course starts here: markets, governments and policies are all ways of handling scarcity. All examples and figures are invented.
 
 The H460 A Level page on [scarcity, choice, the margin and the market economy](/resources/ocr-a-level-economics-scarcity-choice-the-margin-and-the-market-economy/) covers the same ground for the full A Level. This page is written for the AS papers and uses new examples. Recall is condensed in the [basic economic problem revision notes](/resources/ocr-as-level-economics-h060-the-basic-economic-problem-ocr-aslevel-economics-revision-notes/), and the [basic economic problem practice questions](/resources/ocr-as-level-economics-h060-the-basic-economic-problem-ocr-aslevel-economics-practice/) include multiple-choice items in the style of Section A. See the [OCR AS Economics hub](/boards/ocr/as-level/economics/) and the [printable checklist](/checklists/ocr/as-level/economics/) for the rest of the course.
 
@@ -37,7 +37,7 @@ The H460 A Level page on [scarcity, choice, the margin and the market economy](/
 | Positive and normative statements | Tell them apart and explain why the distinction matters for policy |
 | Economic agents | Explain the roles of households, firms and government |
 | Factors of production | Name land, labour, capital and enterprise and their rewards |
-| Sustainability | Explain how using resources today affects scarcity in the future |
+| Sustainability | Explain how using resources today affects scarcity in the future (not named in topic 1.1; sustainable development is in Component 2, topic 2.2 Development) |
 
 ## Scarcity: why choice cannot be avoided
 
@@ -51,7 +51,7 @@ Because of scarcity, every economy must answer three questions:
 - **How** should it be produced: with more labour or more machinery, in large plants or small workshops?
 - **For whom** should it be produced: who gets the output?
 
-Different economic systems answer these in different ways, which is the subject of the next topic in this Area of Study, the market economy.
+Different economic systems answer these in different ways, which is the subject of the market economy part of topic 1.2 The allocation of resources.
 
 ## Needs and wants
 
@@ -139,4 +139,4 @@ No. "Unemployment of 6% is unacceptable" contains a figure but expresses a judge
 
 ## Official syllabus
 
-OCR *AS Level in Economics (H060)*, for first assessment in 2016, published by OCR. The basic economic problem is a topic in the Area of Study Scarcity and choice, Component 01, Microeconomics.
+OCR *AS Level in Economics (H060)*, Version 3.0 (June 2026), published by OCR. The basic economic problem is covered by topic 1.1 The economic problem, in Introduction to microeconomics, Component 01, Microeconomics.

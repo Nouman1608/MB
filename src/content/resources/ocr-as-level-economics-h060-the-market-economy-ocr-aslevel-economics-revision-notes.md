@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-These notes condense the topic **The market economy** from the Area of Study Scarcity and choice, Component 01, Microeconomics, of the OCR *AS Level Economics (H060)* specification, for first assessment in 2016. The [market economy study guide](/resources/ocr-as-level-economics-h060-the-market-economy-ocr-aslevel-economics/) has the full explanations and worked example; the [market economy practice questions](/resources/ocr-as-level-economics-h060-the-market-economy-ocr-aslevel-economics-practice/) test you. Track your progress with the [OCR AS Economics hub](/boards/ocr/as-level/economics/) and the [printable checklist](/checklists/ocr/as-level/economics/). All examples are invented.
+These notes condense the market economy part of topic 1.2 **The allocation of resources** from Introduction to microeconomics, Component 01, Microeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). The [market economy study guide](/resources/ocr-as-level-economics-h060-the-market-economy-ocr-aslevel-economics/) has the full explanations and worked example; the [market economy practice questions](/resources/ocr-as-level-economics-h060-the-market-economy-ocr-aslevel-economics-practice/) test you. Track your progress with the [OCR AS Economics hub](/boards/ocr/as-level/economics/) and the [printable checklist](/checklists/ocr/as-level/economics/). All examples are invented.
 
 ## Key terms
 
@@ -81,6 +81,7 @@ Every intervention also has costs, which is why the scale of government is debat
 - Totals do not decide marginal choices: a profitable day does not justify an unprofitable extra hour.
 - Assumed aims: consumers maximise satisfaction, firms maximise profit, government maximises the welfare of society.
 - Limits of rationality: incomplete information, habit, and the way choices are presented.
+- Version 3.0 lists rationality in topic 1.1 The economic problem; it does not name the margin.
 
 ## Exam traps
 
@@ -131,4 +132,4 @@ Prices guide decisions at the margin: a small rise in price makes it worthwhile 
 
 ## Official syllabus
 
-OCR *AS Level in Economics (H060)*, for first assessment in 2016, published by OCR. Topic: The market economy, Area of Study Scarcity and choice, Component 01.
+OCR *AS Level in Economics (H060)*, Version 3.0 (June 2026), published by OCR. Topic 1.2 The allocation of resources (the market economy), Introduction to microeconomics, Component 01.
