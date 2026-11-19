@@ -15,7 +15,7 @@ syllabusTopics:
     topic: "macroeconomics-ocr-alevel-economics"
     subtopic: "implementing-policy-ocr-alevel-economics"
   - qualification: "as-level"
-    topic: "the-application-of-policy-instruments-ocr-aslevel-economics"
+    topic: "implementing-policy-ocr-aslevel-economics"
     subtopic: "fiscal-policy-ocr-aslevel-economics"
 description: "Study guide to the government budget, types of tax, average and marginal rates, the Laffer Curve, flat taxes and budget positions, OCR A Level Economics."
 author: "marlbridge-academic-team"

@@ -3,16 +3,16 @@ title: "OCR AS Level Economics (H060): Government failure"
 resourceType: "study-guides"
 subject: "economics"
 level: ["a-levels"]
-topic: "Government failure"
+topic: "The role of markets"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 3.5
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 2.8
 syllabusTopics:
   - qualification: "as-level"
-    topic: "market-failure-and-government-intervention-ocr-aslevel-economics"
-    subtopic: "government-failure-ocr-aslevel-economics"
+    topic: "the-role-of-markets-ocr-aslevel-economics"
+    subtopic: "government-intervention-ocr-aslevel-economics"
 description: "OCR AS Level Economics (H060) study guide to government failure: causes, consequences, worked welfare calculations and how to evaluate intervention."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide follows the OCR *AS Level Economics (H060)* specification, for first assessment in 2016, Component 01, Microeconomics. The specification asks you to explain "Government failure" and to evaluate "Causes and consequences of government failure", alongside the effectiveness of government intervention. All markets and figures below are invented.
+This guide follows the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026), Component 01, Microeconomics. It covers the government failure part of topic 2.8 **Government intervention**. The specification asks you to explain "Government failure" and to evaluate "Causes and consequences of government failure", alongside the effectiveness of government intervention. All markets and figures below are invented.
 
 Use it with the [government failure revision notes](/resources/ocr-as-level-economics-h060-government-failure-ocr-aslevel-economics-revision-notes/) and the [government failure practice questions](/resources/ocr-as-level-economics-h060-government-failure-ocr-aslevel-economics-practice/). The methods of intervention are taught in [alternative methods of government intervention](/resources/ocr-as-level-economics-h060-alternative-methods-of-government-intervention-ocr-aslevel-economics/), and the welfare framework in [market failure](/resources/ocr-as-level-economics-h060-market-failure-ocr-aslevel-economics/). The [OCR A Level government intervention guide](/resources/ocr-a-level-economics-government-intervention-cost-benefit-analysis-and/) adds cost benefit analysis. See also the [OCR AS Economics hub](/boards/ocr/as-level/economics/).
 

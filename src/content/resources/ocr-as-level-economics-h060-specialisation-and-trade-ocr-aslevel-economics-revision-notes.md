@@ -3,15 +3,15 @@ title: "OCR AS Level Economics (H060): Specialisation and trade -- Revision Note
 resourceType: "revision-notes"
 subject: "economics"
 level: ["a-levels"]
-topic: "Scarcity and choice"
+topic: "The role of markets"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 1.4
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 2.1
 syllabusTopics:
   - qualification: "as-level"
-    topic: "scarcity-and-choice-ocr-aslevel-economics"
+    topic: "the-role-of-markets-ocr-aslevel-economics"
     subtopic: "specialisation-and-trade-ocr-aslevel-economics"
 description: "Condensed OCR AS Economics (H060) notes on specialisation, the division of labour, exchange, barter and the functions of money, with a 12-question self-test."
 author: "marlbridge-academic-team"
@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-These notes condense the topic **Specialisation and trade** from the Area of Study Scarcity and choice, Component 01, Microeconomics, of the OCR *AS Level Economics (H060)* specification, for first assessment in 2016. Worked examples are in the [specialisation and trade study guide](/resources/ocr-as-level-economics-h060-specialisation-and-trade-ocr-aslevel-economics/); test yourself with the [specialisation and trade practice questions](/resources/ocr-as-level-economics-h060-specialisation-and-trade-ocr-aslevel-economics-practice/). The [OCR AS Economics hub](/boards/ocr/as-level/economics/) and [printable checklist](/checklists/ocr/as-level/economics/) cover the rest of the course. All figures are invented.
+These notes condense topic 2.1 **Specialisation and trade** from The role of markets, Component 01, Microeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). Worked examples are in the [specialisation and trade study guide](/resources/ocr-as-level-economics-h060-specialisation-and-trade-ocr-aslevel-economics/); test yourself with the [specialisation and trade practice questions](/resources/ocr-as-level-economics-h060-specialisation-and-trade-ocr-aslevel-economics-practice/). The [OCR AS Economics hub](/boards/ocr/as-level/economics/) and [printable checklist](/checklists/ocr/as-level/economics/) cover the rest of the course. All figures are invented.
 
 ## Key terms
 
@@ -78,7 +78,7 @@ These notes condense the topic **Specialisation and trade** from the Area of Stu
 
 - Specialisation raises output from scarce resources, which links back to the basic economic problem and the PPC.
 - Specialisation by region creates risk: a town dependent on one employer suffers high unemployment if it closes.
-- Comparative advantage, which explains what countries should specialise in, is developed under international trade.
+- Trade between countries is covered in Component 2, topic 4.1 International trade. Version 3.0 does not name comparative advantage, which explains what countries should specialise in.
 
 ## Exam traps
 
@@ -130,4 +130,4 @@ A card is a way of moving money held in a bank account; the bank deposit is the 
 
 ## Official syllabus
 
-OCR *AS Level in Economics (H060)*, for first assessment in 2016, published by OCR. Topic: Specialisation and trade, Area of Study Scarcity and choice, Component 01.
+OCR *AS Level in Economics (H060)*, Version 3.0 (June 2026), published by OCR. Topic 2.1 Specialisation and trade, The role of markets, Component 01.

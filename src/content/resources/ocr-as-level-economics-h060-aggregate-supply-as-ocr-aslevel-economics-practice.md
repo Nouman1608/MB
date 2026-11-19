@@ -7,12 +7,12 @@ topic: "Aggregate demand and aggregate supply"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 5.3
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 3.3
 syllabusTopics:
   - qualification: "as-level"
     topic: "aggregate-demand-and-aggregate-supply-ocr-aslevel-economics"
-    subtopic: "aggregate-supply-as-ocr-aslevel-economics"
+    subtopic: "aggregate-supply-ocr-aslevel-economics"
 description: "Original OCR AS Level Economics (H060) aggregate supply questions with answers: SRAS and LRAS shapes, unit labour costs and shifts in the curves."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
@@ -29,7 +29,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover **Aggregate supply (AS)** in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification. All countries and data are invented. Revise first with the [aggregate supply study guide](/resources/ocr-as-level-economics-h060-aggregate-supply-as-ocr-aslevel-economics/) and the [aggregate supply revision notes](/resources/ocr-as-level-economics-h060-aggregate-supply-as-ocr-aslevel-economics-revision-notes/).
+These questions cover **Aggregate supply (AS)**, topic 1.3 in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). All countries and data are invented. Revise first with the [aggregate supply study guide](/resources/ocr-as-level-economics-h060-aggregate-supply-as-ocr-aslevel-economics/) and the [aggregate supply revision notes](/resources/ocr-as-level-economics-h060-aggregate-supply-as-ocr-aslevel-economics-revision-notes/).
 
 ## Section A: Short questions
 

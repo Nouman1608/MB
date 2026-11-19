@@ -20,6 +20,18 @@
 /bahrain/                                                 /gulf/  301
 /bahrain                                                  /gulf/  301
 
+# OCR AS Economics H060 flashcard topics renamed for Version 3.0 (D-505)
+/flashcards/ocr/as-level/economics/scarcity-and-choice-ocr-aslevel-economics/  /flashcards/ocr/as-level/economics/introduction-to-microeconomics-ocr-aslevel-economics/  301
+/flashcards/ocr/as-level/economics/scarcity-and-choice-ocr-aslevel-economics  /flashcards/ocr/as-level/economics/introduction-to-microeconomics-ocr-aslevel-economics/  301
+/flashcards/ocr/as-level/economics/how-competitive-markets-work-ocr-aslevel-economics/  /flashcards/ocr/as-level/economics/the-role-of-markets-ocr-aslevel-economics/  301
+/flashcards/ocr/as-level/economics/how-competitive-markets-work-ocr-aslevel-economics  /flashcards/ocr/as-level/economics/the-role-of-markets-ocr-aslevel-economics/  301
+/flashcards/ocr/as-level/economics/market-failure-and-government-intervention-ocr-aslevel-economics/  /flashcards/ocr/as-level/economics/the-role-of-markets-ocr-aslevel-economics/  301
+/flashcards/ocr/as-level/economics/market-failure-and-government-intervention-ocr-aslevel-economics  /flashcards/ocr/as-level/economics/the-role-of-markets-ocr-aslevel-economics/  301
+/flashcards/ocr/as-level/economics/economic-policy-objectives-and-indicators-of-macroeconomic-performance-ocr-aslevel-economics/  /flashcards/ocr/as-level/economics/economic-policy-objectives-ocr-aslevel-economics/  301
+/flashcards/ocr/as-level/economics/economic-policy-objectives-and-indicators-of-macroeconomic-performance-ocr-aslevel-economics  /flashcards/ocr/as-level/economics/economic-policy-objectives-ocr-aslevel-economics/  301
+/flashcards/ocr/as-level/economics/the-application-of-policy-instruments-ocr-aslevel-economics/  /flashcards/ocr/as-level/economics/implementing-policy-ocr-aslevel-economics/  301
+/flashcards/ocr/as-level/economics/the-application-of-policy-instruments-ocr-aslevel-economics  /flashcards/ocr/as-level/economics/implementing-policy-ocr-aslevel-economics/  301
+
 # Syllabus/specification-code discovery: /syllabus/<CODE>/ -> canonical hub (WS1)
 /syllabus/0264/                                           /boards/cambridge/igcse/business/  301
 /syllabus/0417/                                           /boards/cambridge/igcse/ict/  301

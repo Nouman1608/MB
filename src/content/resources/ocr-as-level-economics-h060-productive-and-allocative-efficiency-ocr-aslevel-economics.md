@@ -3,16 +3,16 @@ title: "OCR AS Level Economics (H060): Productive and allocative efficiency"
 resourceType: "study-guides"
 subject: "economics"
 level: ["a-levels"]
-topic: "Productive and allocative efficiency"
+topic: "Introduction to microeconomics"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 2.5
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 1.2
 syllabusTopics:
   - qualification: "as-level"
-    topic: "how-competitive-markets-work-ocr-aslevel-economics"
-    subtopic: "productive-and-allocative-efficiency-ocr-aslevel-economics"
+    topic: "introduction-to-microeconomics-ocr-aslevel-economics"
+    subtopic: "allocation-of-resources-ocr-aslevel-economics"
 description: "OCR AS Level Economics (H060) study guide to productive and allocative efficiency: the PPC, lowest average cost, total surplus and economic systems."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide follows the OCR *AS Level Economics (H060)* specification, for first assessment in 2016, Component 01, Microeconomics. In the specification's topic on the allocation of resources you must explain "Economic efficiency: productive and allocative efficiency" and evaluate "the allocation of resources in different economic systems". The ideas also run through the production possibility curve (PPC), consumer and producer surplus, and market failure, so this guide links them. All economies, firms and figures are invented.
+This guide follows the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026), Component 01, Microeconomics. In topic 1.2 The allocation of resources (Introduction to microeconomics) you must explain "Economic efficiency: productive and allocative efficiency" and evaluate "the allocation of resources in different economic systems". The ideas also run through the production possibility curve (PPC, topic 1.3), consumer and producer surplus (topic 2.4), and market failure (topic 2.7), so this guide links them. All economies, firms and figures are invented.
 
 Use it with the [efficiency revision notes](/resources/ocr-as-level-economics-h060-productive-and-allocative-efficiency-ocr-aslevel-economics-revision-notes/) and the [efficiency practice questions](/resources/ocr-as-level-economics-h060-productive-and-allocative-efficiency-ocr-aslevel-economics-practice/). The [OCR A Level efficiency and market failure guide](/resources/ocr-a-level-economics-economic-efficiency-and-the-nature-of-market-failure/) goes further, into dynamic efficiency and market structures. See also the [OCR AS Economics hub](/boards/ocr/as-level/economics/) and the [free 10-minute diagnostics](/diagnostics/).
 
@@ -105,7 +105,7 @@ The two kinds of efficiency are independent:
 
 - An economy can sit on its PPC (productively efficient) but produce the wrong mix, for example too many weapons and too few hospitals compared with what people want. That point is productively efficient but allocatively inefficient.
 - A firm can produce at minimum AC but at an output society does not value enough to cover that cost.
-- Externalities break the link between market equilibrium and allocative efficiency: when private costs or benefits differ from social ones, the free market output is not the one society values most. This is the basis of the market failure topic.
+- Externalities break the link between market equilibrium and allocative efficiency: when private costs or benefits differ from social ones, the free market output is not the one society values most. This is the basis of topic 2.7 Market failure and externalities.
 
 ## 5. Efficiency in different economic systems
 

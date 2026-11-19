@@ -3,15 +3,15 @@ title: "OCR AS Level Economics (H060): Supply side policy"
 resourceType: "study-guides"
 subject: "economics"
 level: ["a-levels"]
-topic: "The application of policy instruments"
+topic: "Implementing policy"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 6.3
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 5.3
 syllabusTopics:
   - qualification: "as-level"
-    topic: "the-application-of-policy-instruments-ocr-aslevel-economics"
+    topic: "implementing-policy-ocr-aslevel-economics"
     subtopic: "supply-side-policy-ocr-aslevel-economics"
 description: "OCR AS Level Economics (H060) supply side policy guide: each named measure, how it shifts LRAS, worked examples on work incentives and costs, and evaluation."
 author: "marlbridge-academic-team"
@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide covers **Supply side policy** in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification. The specification asks you to explain, with the aid of a diagram, six groups of measures: privatisation, deregulation and subsidies; competition policy; investment in infrastructure, education, training, research and development; reforms of the tax and benefit system; improved labour market flexibility; and immigration control. You must then evaluate the effectiveness of supply side measures in achieving the government's macroeconomic objectives. All figures in the worked examples are invented.
+This guide covers topic 3.3 **Supply side policy** in Implementing policy, Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). The specification asks you to explain, with the aid of a diagram, six groups of measures: privatisation, deregulation and subsidies; competition policy; investment in infrastructure, education, training, research and development; reforms of the tax and benefit system; improved labour market flexibility; and immigration control. You must then evaluate the effectiveness of using supply side policy measures to achieve the government's macroeconomic objectives. All figures in the worked examples are invented.
 
 Use it with the [supply side policy revision notes](/resources/ocr-as-level-economics-h060-supply-side-policy-ocr-aslevel-economics-revision-notes/) and the [supply side policy practice questions](/resources/ocr-as-level-economics-h060-supply-side-policy-ocr-aslevel-economics-practice/). The curves these measures shift are explained in [aggregate supply](/resources/ocr-as-level-economics-h060-aggregate-supply-as-ocr-aslevel-economics/), and the A Level treatment is in [supply-side policy](/resources/ocr-a-level-economics-supply-side-policy/).
 

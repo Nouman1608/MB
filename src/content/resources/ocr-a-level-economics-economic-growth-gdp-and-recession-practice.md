@@ -15,7 +15,7 @@ syllabusTopics:
     topic: "macroeconomics-ocr-alevel-economics"
     subtopic: "economic-policy-objectives-ocr-alevel-economics"
   - qualification: "as-level"
-    topic: "economic-policy-objectives-and-indicators-of-macroeconomic-performance-ocr-aslevel-economics"
+    topic: "economic-policy-objectives-ocr-aslevel-economics"
     subtopic: "economic-growth-ocr-aslevel-economics"
 description: "Original OCR A Level Economics practice questions with worked answers on real and nominal GDP, growth rates, recession, and costs of growth."
 author: "marlbridge-academic-team"

@@ -3,15 +3,15 @@ title: "OCR AS Level Economics (H060): Policy conflicts -- Practice Questions"
 resourceType: "practice-questions"
 subject: "economics"
 level: ["a-levels"]
-topic: "The application of policy instruments"
+topic: "Implementing policy"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 6.4
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 5.4
 syllabusTopics:
   - qualification: "as-level"
-    topic: "the-application-of-policy-instruments-ocr-aslevel-economics"
+    topic: "implementing-policy-ocr-aslevel-economics"
     subtopic: "policy-conflicts-ocr-aslevel-economics"
 description: "Original OCR AS Level Economics (H060) policy conflicts questions with answers: growth, jobs, inflation, current account and sustainability trade-offs."
 author: "marlbridge-academic-team"
@@ -29,7 +29,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover **Policy conflicts** in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification. All countries and data are invented. Revise first with the [policy conflicts study guide](/resources/ocr-as-level-economics-h060-policy-conflicts-ocr-aslevel-economics/) and the [policy conflicts revision notes](/resources/ocr-as-level-economics-h060-policy-conflicts-ocr-aslevel-economics-revision-notes/).
+These questions cover topic 3.4 **Policy conflicts** in Implementing policy, Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). All countries and data are invented. Revise first with the [policy conflicts study guide](/resources/ocr-as-level-economics-h060-policy-conflicts-ocr-aslevel-economics/) and the [policy conflicts revision notes](/resources/ocr-as-level-economics-h060-policy-conflicts-ocr-aslevel-economics-revision-notes/).
 
 ## Section A: Short questions
 

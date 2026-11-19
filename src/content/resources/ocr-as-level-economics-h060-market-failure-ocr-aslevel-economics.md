@@ -3,16 +3,16 @@ title: "OCR AS Level Economics (H060): Market failure"
 resourceType: "study-guides"
 subject: "economics"
 level: ["a-levels"]
-topic: "Market failure"
+topic: "The role of markets"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 3.1
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 2.7
 syllabusTopics:
   - qualification: "as-level"
-    topic: "market-failure-and-government-intervention-ocr-aslevel-economics"
-    subtopic: "market-failure-ocr-aslevel-economics"
+    topic: "the-role-of-markets-ocr-aslevel-economics"
+    subtopic: "market-failure-and-externalities-ocr-aslevel-economics"
 description: "OCR AS Level Economics (H060) study guide to market failure: the six marginal cost and benefit terms, the social optimum, welfare loss and causes."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide follows the OCR *AS Level Economics (H060)* specification, for first assessment in 2016, Component 01, Microeconomics. The specification asks you to explain "Market failure" and "Marginal social cost, marginal external cost, marginal private cost, marginal social benefit, marginal external benefit and marginal private benefit". These ideas are the toolkit for the externality diagrams and for judging government intervention, so this guide builds the toolkit carefully. All markets and figures are invented.
+This guide follows the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026), Component 01, Microeconomics. It covers the market failure part of topic 2.7 **Market failure and externalities**; externalities have their own guide. The specification asks you to explain "Market failure" and "Marginal social cost, marginal external cost, marginal private cost, marginal social benefit, marginal external benefit and marginal private benefit". These ideas are the toolkit for the externality diagrams and for judging government intervention, so this guide builds the toolkit carefully. All markets and figures are invented.
 
 Use it with the [market failure revision notes](/resources/ocr-as-level-economics-h060-market-failure-ocr-aslevel-economics-revision-notes/) and the [market failure practice questions](/resources/ocr-as-level-economics-h060-market-failure-ocr-aslevel-economics-practice/). The next topics are [externalities](/resources/ocr-as-level-economics-h060-externalities-ocr-aslevel-economics/) and [alternative methods of government intervention](/resources/ocr-as-level-economics-h060-alternative-methods-of-government-intervention-ocr-aslevel-economics/). The [OCR A Level efficiency and market failure guide](/resources/ocr-a-level-economics-economic-efficiency-and-the-nature-of-market-failure/) covers the same ground with A Level extensions. See also the [OCR AS Economics hub](/boards/ocr/as-level/economics/).
 
@@ -111,7 +111,7 @@ On the diagram, draw MPB = MSB sloping down, MPC sloping up, and MSC parallel ab
 | Market power | A dominant firm restricts output to raise price | Competition policy |
 | Price instability | Volatile prices in markets with inelastic supply, such as farm goods, can cause hardship and under-investment | Buffer stock systems, price controls |
 
-Notice that the government methods listed in the AS specification line up with these causes. When you explain an intervention, start from the cause it is designed to fix.
+Notice that the government methods listed in topic 2.8 of the AS specification line up with these causes. When you explain an intervention, start from the cause it is designed to fix.
 
 ## 6. Does market failure justify intervention?
 

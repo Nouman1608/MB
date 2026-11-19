@@ -3,15 +3,15 @@ title: "OCR AS Level Economics (H060): Fiscal policy"
 resourceType: "study-guides"
 subject: "economics"
 level: ["a-levels"]
-topic: "The application of policy instruments"
+topic: "Implementing policy"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 6.1
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 5.1
 syllabusTopics:
   - qualification: "as-level"
-    topic: "the-application-of-policy-instruments-ocr-aslevel-economics"
+    topic: "implementing-policy-ocr-aslevel-economics"
     subtopic: "fiscal-policy-ocr-aslevel-economics"
 description: "OCR AS Level Economics (H060) fiscal policy guide: tax types, average and marginal rates, budget positions, debt, stabilisers, crowding out and Laffer."
 author: "marlbridge-academic-team"
@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide covers **Fiscal policy** in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification. The specification lists a long set of terms: the government budget; direct, indirect, progressive, proportional and regressive taxation; current and capital government expenditure; budget surplus, deficit and balanced budget; the cyclical and structural budget position; national and government debt; discretionary fiscal policy and automatic stabilisers; crowding out; and the Laffer curve. You must also explain and calculate average and marginal tax rates and evaluate the effectiveness of fiscal policy in achieving the government's macroeconomic objectives. All tax systems and figures below are invented.
+This guide covers topic 3.1 **Fiscal policy** in Implementing policy, Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). The specification lists a long set of terms: the government budget; direct, indirect, progressive, proportional and regressive taxation; current and capital government expenditure; budget surplus, deficit and balanced budget; the cyclical and structural budget position; national and government debt; discretionary fiscal policy and automatic stabilisers; crowding out; and the Laffer curve. You must also explain and calculate average and marginal tax rates and evaluate the effectiveness of fiscal policy in achieving the government's macroeconomic objectives. All tax systems and figures below are invented.
 
 Use it with the [fiscal policy revision notes](/resources/ocr-as-level-economics-h060-fiscal-policy-ocr-aslevel-economics-revision-notes/) and the [fiscal policy practice questions](/resources/ocr-as-level-economics-h060-fiscal-policy-ocr-aslevel-economics-practice/). The A Level treatment is split across [the budget and taxation](/resources/ocr-a-level-economics-fiscal-policy-1-the-budget-and-taxation/) and [deficits, debt and stabilisers](/resources/ocr-a-level-economics-fiscal-policy-2-deficits-debt-stabilisers-and-fiscal/).
 

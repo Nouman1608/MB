@@ -3,16 +3,16 @@ title: "OCR AS Level Economics (H060): The basic economic problem -- Practice Qu
 resourceType: "practice-questions"
 subject: "economics"
 level: ["a-levels"]
-topic: "Scarcity and choice"
+topic: "Introduction to microeconomics"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
 order: 1.1
 syllabusTopics:
   - qualification: "as-level"
-    topic: "scarcity-and-choice-ocr-aslevel-economics"
-    subtopic: "the-basic-economic-problem-ocr-aslevel-economics"
+    topic: "introduction-to-microeconomics-ocr-aslevel-economics"
+    subtopic: "the-economic-problem-ocr-aslevel-economics"
 description: "Twelve original OCR AS Economics (H060) questions on the basic economic problem, with multiple choice, data response, an essay and full answers."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
@@ -29,7 +29,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover the topic The basic economic problem in Component 01, Microeconomics, of the OCR *AS Level Economics (H060)* specification, for first assessment in 2016. The mark totals are our own, and all countries, firms and figures are invented. Use the [basic economic problem study guide](/resources/ocr-as-level-economics-h060-the-basic-economic-problem-ocr-aslevel-economics/) and the [basic economic problem revision notes](/resources/ocr-as-level-economics-h060-the-basic-economic-problem-ocr-aslevel-economics-revision-notes/) first. See the [OCR AS Economics hub](/boards/ocr/as-level/economics/) and the [printable checklist](/checklists/ocr/as-level/economics/) for the rest of the course.
+These questions cover most of topic 1.1 The economic problem in Component 01, Microeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). The mark totals are our own, and all countries, firms and figures are invented. Use the [basic economic problem study guide](/resources/ocr-as-level-economics-h060-the-basic-economic-problem-ocr-aslevel-economics/) and the [basic economic problem revision notes](/resources/ocr-as-level-economics-h060-the-basic-economic-problem-ocr-aslevel-economics-revision-notes/) first. See the [OCR AS Economics hub](/boards/ocr/as-level/economics/) and the [printable checklist](/checklists/ocr/as-level/economics/) for the rest of the course.
 
 ## Questions
 
@@ -169,4 +169,4 @@ D: The land the shop stands on.
 
 ## Official syllabus
 
-These questions follow the OCR *AS Level in Economics (H060)* specification, for first assessment in 2016, published by OCR. The basic economic problem sits in the Area of Study Scarcity and choice, Component 01, Microeconomics.
+These questions follow the OCR *AS Level in Economics (H060)* specification, Version 3.0 (June 2026), published by OCR. The basic economic problem sits in topic 1.1 The economic problem, Introduction to microeconomics, Component 01, Microeconomics.

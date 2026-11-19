@@ -3,16 +3,16 @@ title: "OCR AS Level Economics (H060): Market failure -- Practice Questions"
 resourceType: "practice-questions"
 subject: "economics"
 level: ["a-levels"]
-topic: "Market failure"
+topic: "The role of markets"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 3.1
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 2.7
 syllabusTopics:
   - qualification: "as-level"
-    topic: "market-failure-and-government-intervention-ocr-aslevel-economics"
-    subtopic: "market-failure-ocr-aslevel-economics"
+    topic: "the-role-of-markets-ocr-aslevel-economics"
+    subtopic: "market-failure-and-externalities-ocr-aslevel-economics"
 description: "Original OCR AS Level Economics (H060) practice questions on market failure, the six marginal terms, social optimum and welfare loss, with answers."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
@@ -29,7 +29,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover "Market failure" and the six marginal cost and benefit terms in Component 01, Microeconomics, of the OCR *AS Level Economics (H060)* specification, for first assessment in 2016. The mark totals are our own and all data are invented. Explanations are in the [market failure study guide](/resources/ocr-as-level-economics-h060-market-failure-ocr-aslevel-economics/) and the [market failure revision notes](/resources/ocr-as-level-economics-h060-market-failure-ocr-aslevel-economics-revision-notes/). See the [OCR AS Economics hub](/boards/ocr/as-level/economics/).
+These questions cover "Market failure" and the six marginal cost and benefit terms, the market failure part of topic 2.7 Market failure and externalities in Component 01, Microeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). The mark totals are our own and all data are invented. Explanations are in the [market failure study guide](/resources/ocr-as-level-economics-h060-market-failure-ocr-aslevel-economics/) and the [market failure revision notes](/resources/ocr-as-level-economics-h060-market-failure-ocr-aslevel-economics-revision-notes/). See the [OCR AS Economics hub](/boards/ocr/as-level/economics/).
 
 ## Questions
 

@@ -15,7 +15,7 @@ syllabusTopics:
     topic: "macroeconomics-ocr-alevel-economics"
     subtopic: "the-global-context-ocr-alevel-economics"
   - qualification: "as-level"
-    topic: "the-global-context-ocr-aslevel-economics"
+    topic: "economic-policy-objectives-ocr-aslevel-economics"
     subtopic: "balance-of-payments-ocr-aslevel-economics"
 description: "Original practice questions on the balance of payments for OCR A Level Economics (H460), with worked answers and examiner insights."
 author: "marlbridge-academic-team"

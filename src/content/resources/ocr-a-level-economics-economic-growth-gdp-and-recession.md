@@ -15,7 +15,7 @@ syllabusTopics:
     topic: "macroeconomics-ocr-alevel-economics"
     subtopic: "economic-policy-objectives-ocr-alevel-economics"
   - qualification: "as-level"
-    topic: "economic-policy-objectives-and-indicators-of-macroeconomic-performance-ocr-aslevel-economics"
+    topic: "economic-policy-objectives-ocr-aslevel-economics"
     subtopic: "economic-growth-ocr-aslevel-economics"
 description: "Study guide to growth, GDP and recession for OCR A Level Economics: real and nominal GDP, worked growth calculations, causes, costs and benefits."
 author: "marlbridge-academic-team"

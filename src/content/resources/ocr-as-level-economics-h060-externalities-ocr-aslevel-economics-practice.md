@@ -3,16 +3,16 @@ title: "OCR AS Level Economics (H060): Externalities -- Practice Questions"
 resourceType: "practice-questions"
 subject: "economics"
 level: ["a-levels"]
-topic: "Externalities"
+topic: "The role of markets"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 3.2
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 2.7
 syllabusTopics:
   - qualification: "as-level"
-    topic: "market-failure-and-government-intervention-ocr-aslevel-economics"
-    subtopic: "externalities-ocr-aslevel-economics"
+    topic: "the-role-of-markets-ocr-aslevel-economics"
+    subtopic: "market-failure-and-externalities-ocr-aslevel-economics"
 description: "Original OCR AS Level Economics (H060) practice questions on positive and negative externalities in production and consumption, with full answers."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
@@ -29,7 +29,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover "Positive and negative externalities (external benefits and external costs); consumption and production" in Component 01, Microeconomics, of the OCR *AS Level Economics (H060)* specification, for first assessment in 2016. The mark totals are our own and every market and figure is invented. Explanations are in the [externalities study guide](/resources/ocr-as-level-economics-h060-externalities-ocr-aslevel-economics/) and the [externalities revision notes](/resources/ocr-as-level-economics-h060-externalities-ocr-aslevel-economics-revision-notes/).
+These questions cover "Positive and negative externalities (external benefits and external costs); consumption and production", part of topic 2.7 Market failure and externalities in Component 01, Microeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). The mark totals are our own and every market and figure is invented. Explanations are in the [externalities study guide](/resources/ocr-as-level-economics-h060-externalities-ocr-aslevel-economics/) and the [externalities revision notes](/resources/ocr-as-level-economics-h060-externalities-ocr-aslevel-economics-revision-notes/).
 
 ## Questions
 
@@ -140,5 +140,5 @@ Yes. The market ignores the external benefit, so it produces or consumes too lit
 ## Next steps
 
 - Re-read the [externalities study guide](/resources/ocr-as-level-economics-h060-externalities-ocr-aslevel-economics/).
-- Move on to [information asymmetries](/resources/ocr-as-level-economics-h060-information-asymmetries-ocr-aslevel-economics/).
+- Move on to [government intervention](/resources/ocr-as-level-economics-h060-alternative-methods-of-government-intervention-ocr-aslevel-economics/).
 - Take the [free 10-minute diagnostics](/diagnostics/).

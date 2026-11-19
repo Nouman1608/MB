@@ -34,7 +34,7 @@
       "automatedStructuralWarn": 813,
       "automatedStructuralFail": 0,
       "repositorySpecificationCheck": 780,
-      "accountableTeacherCredited": 16059,
+      "accountableTeacherCredited": 16050,
       "aiAssistedAssessmentCurrent": 4,
       "humanAssessmentCurrent": 0,
       "documentedTeacherVerification": 4,
@@ -44,7 +44,8 @@
       "REPO_PARTIAL_UNVERIFIABLE": 153,
       "REPO_VERIFIED": 585,
       "REPO_VERIFIED_AFTER_CORRECTION": 42,
-      "TEACHER_CREDITED": 15279
+      "TEACHER_CREDITED": 15270,
+      "UNVERIFIED": 9
     },
     "findingsOpenBySeverity": {
       "advisory": 5,
@@ -56,10 +57,11 @@
       "8 editorial-accountability": 3
     },
     "riskTier": {
+      "3": 9,
       "4": 153,
       "5": 219,
-      "6": 5180,
-      "7": 5200,
+      "6": 5177,
+      "7": 5194,
       "8": 5307
     },
     "searchMetadataCoverageClaims": {
@@ -156,13 +158,13 @@
       "scored": 2
     },
     "as-level": {
-      "resources": 321,
+      "resources": 315,
       "BLOCKED": 0,
       "REVERIFICATION_REQUIRED": 0,
       "REVISION_REQUIRED": 0,
       "ACADEMIC_REVIEW_PENDING": 0,
       "VERIFIED_APPROVED": 0,
-      "AUTOMATED_CHECK_COMPLETE": 321,
+      "AUTOMATED_CHECK_COMPLETE": 315,
       "NOT_ASSESSED": 0,
       "scored": 0
     },

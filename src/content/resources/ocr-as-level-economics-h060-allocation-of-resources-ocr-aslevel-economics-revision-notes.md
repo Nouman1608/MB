@@ -3,15 +3,15 @@ title: "OCR AS Level Economics (H060): Allocation of resources -- Revision Notes
 resourceType: "revision-notes"
 subject: "economics"
 level: ["a-levels"]
-topic: "How competitive markets work"
+topic: "Introduction to microeconomics"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 2.1
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 1.2
 syllabusTopics:
   - qualification: "as-level"
-    topic: "how-competitive-markets-work-ocr-aslevel-economics"
+    topic: "introduction-to-microeconomics-ocr-aslevel-economics"
     subtopic: "allocation-of-resources-ocr-aslevel-economics"
 description: "Condensed OCR AS Economics (H060) notes on resource allocation: functions of price, incentives, comparing economic systems, traps and a 12-question self-test."
 author: "marlbridge-academic-team"
@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-These notes condense the topic **Allocation of resources** from the Area of Study How competitive markets work, Component 01, Microeconomics, of the OCR *AS Level Economics (H060)* specification, for first assessment in 2016. The [allocation of resources study guide](/resources/ocr-as-level-economics-h060-allocation-of-resources-ocr-aslevel-economics/) has the full explanations and a worked price-cap example; the [allocation of resources practice questions](/resources/ocr-as-level-economics-h060-allocation-of-resources-ocr-aslevel-economics-practice/) test you. See the [OCR AS Economics hub](/boards/ocr/as-level/economics/) and the [printable checklist](/checklists/ocr/as-level/economics/). All figures are invented.
+These notes condense the incentives and economic systems parts of topic 1.2 **The allocation of resources** from Introduction to microeconomics, Component 01, Microeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). The [allocation of resources study guide](/resources/ocr-as-level-economics-h060-allocation-of-resources-ocr-aslevel-economics/) has the full explanations and a worked price-cap example; the [allocation of resources practice questions](/resources/ocr-as-level-economics-h060-allocation-of-resources-ocr-aslevel-economics-practice/) test you. See the [OCR AS Economics hub](/boards/ocr/as-level/economics/) and the [printable checklist](/checklists/ocr/as-level/economics/). All figures are invented.
 
 ## Key terms
 
@@ -74,8 +74,8 @@ Deposit example: a 20p deposit lifts bottle returns from 45% to 85%, a rise of 4
 ## Linking to other topics
 
 - The three functions of price drive the shifts and movements in supply and demand analysis.
-- Price caps and shortages return under government intervention, where maximum prices are evaluated.
-- Weaknesses of market allocation lead into market failure: public goods, externalities and information problems.
+- Price caps and shortages return in topic 2.8 Government intervention, where price controls are evaluated.
+- Weaknesses of market allocation lead into topic 2.7 Market failure and externalities.
 
 ## Exam traps
 
@@ -127,4 +127,4 @@ Because the price cannot rise to reduce quantity demanded or raise quantity supp
 
 ## Official syllabus
 
-OCR *AS Level in Economics (H060)*, for first assessment in 2016, published by OCR. Topic: Allocation of resources, Area of Study How competitive markets work, Component 01.
+OCR *AS Level in Economics (H060)*, Version 3.0 (June 2026), published by OCR. Topic 1.2 The allocation of resources, Introduction to microeconomics, Component 01.

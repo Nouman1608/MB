@@ -3,16 +3,16 @@ title: "OCR AS Level Economics (H060): Alternative methods of government interve
 resourceType: "revision-notes"
 subject: "economics"
 level: ["a-levels"]
-topic: "Alternative methods of government intervention"
+topic: "The role of markets"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 3.4
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 2.8
 syllabusTopics:
   - qualification: "as-level"
-    topic: "market-failure-and-government-intervention-ocr-aslevel-economics"
-    subtopic: "alternative-methods-of-government-intervention-ocr-aslevel-economics"
+    topic: "the-role-of-markets-ocr-aslevel-economics"
+    subtopic: "government-intervention-ocr-aslevel-economics"
 description: "OCR AS Level Economics (H060) revision notes on all eleven intervention methods: diagrams, calculations, strengths, limits, traps and a self-test."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-These notes condense the specification's list of government interventions: "taxation, subsidies, government expenditure, price controls, buffer stock systems, public/private partnerships, legislation, regulation, tradable pollution permits, information provision, competition policy". They also cover the requirement to evaluate "the effectiveness of government intervention". The content sits in Component 01, Microeconomics, of the OCR *AS Level Economics (H060)* specification, for first assessment in 2016. Worked examples for each method are in the [government intervention study guide](/resources/ocr-as-level-economics-h060-alternative-methods-of-government-intervention-ocr-aslevel-economics/). Practise with the [government intervention practice questions](/resources/ocr-as-level-economics-h060-alternative-methods-of-government-intervention-ocr-aslevel-economics-practice/). All figures are invented.
+These notes condense the specification's list of government interventions: "taxation, subsidies, government expenditure, price controls, buffer stock systems, public/private partnerships, legislation, regulation, tradable pollution permits, information provision, competition policy". They also cover the requirement to evaluate "the effectiveness of government intervention". The content sits in topic 2.8 Government intervention, Component 01, Microeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). Government failure, the other part of topic 2.8, has its own pages. Worked examples for each method are in the [government intervention study guide](/resources/ocr-as-level-economics-h060-alternative-methods-of-government-intervention-ocr-aslevel-economics/). Practise with the [government intervention practice questions](/resources/ocr-as-level-economics-h060-alternative-methods-of-government-intervention-ocr-aslevel-economics-practice/). All figures are invented.
 
 ## Key terms
 

@@ -15,7 +15,7 @@ syllabusTopics:
     topic: "microeconomics-ocr-alevel-economics"
     subtopic: "the-role-of-markets-ocr-alevel-economics"
   - qualification: "as-level"
-    topic: "how-competitive-markets-work-ocr-aslevel-economics"
+    topic: "the-role-of-markets-ocr-aslevel-economics"
     subtopic: "elasticity-ocr-aslevel-economics"
 description: "Study guide to PED, YED, XED and PES for OCR A Level Economics (H460): point elasticity, total revenue, tax incidence and evaluation, with worked examples."
 author: "marlbridge-academic-team"

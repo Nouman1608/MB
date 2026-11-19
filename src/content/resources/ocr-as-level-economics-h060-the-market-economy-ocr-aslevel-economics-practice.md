@@ -3,16 +3,16 @@ title: "OCR AS Level Economics (H060): The market economy -- Practice Questions"
 resourceType: "practice-questions"
 subject: "economics"
 level: ["a-levels"]
-topic: "Scarcity and choice"
+topic: "Introduction to microeconomics"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
 order: 1.2
 syllabusTopics:
   - qualification: "as-level"
-    topic: "scarcity-and-choice-ocr-aslevel-economics"
-    subtopic: "the-market-economy-ocr-aslevel-economics"
+    topic: "introduction-to-microeconomics-ocr-aslevel-economics"
+    subtopic: "allocation-of-resources-ocr-aslevel-economics"
 description: "Twelve original OCR AS Economics (H060) questions on the market economy, from multiple choice to a 10-mark essay, each with a full worked answer."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
@@ -29,7 +29,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover the topic The market economy in Component 01, Microeconomics, of the OCR *AS Level Economics (H060)* specification, for first assessment in 2016. The mark totals are our own, and all countries, firms and figures are invented. Revise first with the [market economy study guide](/resources/ocr-as-level-economics-h060-the-market-economy-ocr-aslevel-economics/) and the [market economy revision notes](/resources/ocr-as-level-economics-h060-the-market-economy-ocr-aslevel-economics-revision-notes/). The [OCR AS Economics hub](/boards/ocr/as-level/economics/) lists the other topics.
+These questions cover the market economy part of topic 1.2 The allocation of resources in Component 01, Microeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). The mark totals are our own, and all countries, firms and figures are invented. Revise first with the [market economy study guide](/resources/ocr-as-level-economics-h060-the-market-economy-ocr-aslevel-economics/) and the [market economy revision notes](/resources/ocr-as-level-economics-h060-the-market-economy-ocr-aslevel-economics-revision-notes/). The [OCR AS Economics hub](/boards/ocr/as-level/economics/) lists the other topics.
 
 ## Questions
 
@@ -154,4 +154,4 @@ D: Consumers can choose between competing sellers.
 
 ## Official syllabus
 
-These questions follow the OCR *AS Level in Economics (H060)* specification, for first assessment in 2016, published by OCR. The market economy sits in the Area of Study Scarcity and choice, Component 01, Microeconomics.
+These questions follow the OCR *AS Level in Economics (H060)* specification, Version 3.0 (June 2026), published by OCR. The market economy sits in topic 1.2 The allocation of resources, Introduction to microeconomics, Component 01, Microeconomics.

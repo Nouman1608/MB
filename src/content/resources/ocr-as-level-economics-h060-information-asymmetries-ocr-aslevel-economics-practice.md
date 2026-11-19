@@ -7,21 +7,21 @@ topic: "Information asymmetries"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 3.3
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 2.7
 syllabusTopics:
   - qualification: "as-level"
-    topic: "market-failure-and-government-intervention-ocr-aslevel-economics"
-    subtopic: "information-asymmetries-ocr-aslevel-economics"
+    topic: "the-role-of-markets-ocr-aslevel-economics"
+    subtopic: "market-failure-and-externalities-ocr-aslevel-economics"
 description: "Original OCR AS Level Economics (H060) practice questions on information failure, asymmetric information and moral hazard, with full worked answers."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The current H060 specification names information provision as an intervention but lists asymmetric information and moral hazard only in the A Level (H460) information failure topic, so a teacher should confirm the AS scope. Rechecked 2026-11-18: the owner reports that the teacher re-checked this page against the current H060 specification after the flag above and approved it as it stands."
+reviewStatus: "archived"
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The current H060 specification names information provision as an intervention but lists asymmetric information and moral hazard only in the A Level (H460) information failure topic, so a teacher should confirm the AS scope. Rechecked 2026-11-18: the owner reports that the teacher re-checked this page against the current H060 specification after the flag above and approved it as it stands. Archived 2026-11-19 (owner's decision): Version 3.0 of the H060 specification does not include this topic at AS, so the credit to salman-ahmad no longer applies."
 publishedDate: 2026-11-18
 featured: false
 ---
+
+> **Archived page.** OCR's current AS Level Economics (H060) specification, Version 3.0 (June 2026), does not include information asymmetries (asymmetric information) at AS Level; the topic is A Level (H460) content. This page is kept so existing links still work, but it is no longer part of the AS course. For the A Level topic, use the [OCR A Level information failure practice questions](/resources/ocr-a-level-economics-information-failure-merit-and-demerit-goods-public-practice/).
 
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

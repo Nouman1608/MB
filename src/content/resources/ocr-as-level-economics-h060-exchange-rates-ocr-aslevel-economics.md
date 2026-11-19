@@ -7,8 +7,8 @@ topic: "The global context"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 7.3
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 6.2
 syllabusTopics:
   - qualification: "as-level"
     topic: "the-global-context-ocr-aslevel-economics"
@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide covers **Exchange rates** in The global context, Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification. The specification asks you to explain and calculate exchange rates; to explain, with the aid of a diagram, the determination of exchange rates in fixed and floating exchange rate systems; and to evaluate the causes and consequences of exchange rate changes and the advantages and disadvantages of different exchange rate systems. All rates and figures below are invented, including those for real currencies.
+This guide covers topic 4.2 **Exchange rates** in The global context, Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). The specification asks you to explain and calculate exchange rates; to explain, with the aid of a diagram, the determination of exchange rates in fixed and floating exchange rate systems; and to evaluate the causes and consequences of exchange rate changes and the advantages and disadvantages of different exchange rate systems. All rates and figures below are invented, including those for real currencies.
 
 Condensed recall is in the [exchange rates revision notes](/resources/ocr-as-level-economics-h060-exchange-rates-ocr-aslevel-economics-revision-notes/), and exam-style work with mark schemes is in the [exchange rates practice questions](/resources/ocr-as-level-economics-h060-exchange-rates-ocr-aslevel-economics-practice/). The A Level treatment, which adds effective and real exchange rates and hybrid systems, is in [exchange rate determination, measures and systems](/resources/ocr-a-level-economics-exchange-rate-determination-measures-and-systems/).
 
@@ -32,11 +32,11 @@ Condensed recall is in the [exchange rates revision notes](/resources/ocr-as-lev
 | Specification wording | Section |
 |---|---|
 | Explain and calculate exchange rates | 1 and 2 |
-| Explain, with a diagram, determination in a floating system | 3 |
-| Explain, with a diagram, determination in a fixed system | 4 |
+| Explain, with the aid of a diagram, determination of exchange rates in a floating exchange rate system | 3 |
+| Explain, with the aid of a diagram, determination of exchange rates in a fixed exchange rate system | 4 |
 | Evaluate causes of exchange rate changes | 5 |
 | Evaluate consequences of exchange rate changes | 6 |
-| Evaluate advantages and disadvantages of different systems | 7 |
+| Evaluate advantages and disadvantages of different exchange rate systems | 7 |
 
 ## 1. What an exchange rate is
 

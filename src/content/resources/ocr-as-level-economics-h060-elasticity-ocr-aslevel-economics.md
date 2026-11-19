@@ -3,15 +3,15 @@ title: "OCR AS Level Economics (H060): Elasticity"
 resourceType: "study-guides"
 subject: "economics"
 level: ["a-levels"]
-topic: "Elasticity"
+topic: "The role of markets"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 2.4
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 2.6
 syllabusTopics:
   - qualification: "as-level"
-    topic: "how-competitive-markets-work-ocr-aslevel-economics"
+    topic: "the-role-of-markets-ocr-aslevel-economics"
     subtopic: "elasticity-ocr-aslevel-economics"
 description: "OCR AS Level Economics (H060) study guide to elasticity: calculating PED, YED, XED and PES, PED and total revenue, determinants and usefulness."
 author: "marlbridge-academic-team"
@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide follows the OCR *AS Level Economics (H060)* specification, for first assessment in 2016, Component 01, Microeconomics. The topic **Elasticity** asks you to explain elasticity; to "explain and calculate" price elasticity of demand (PED), income elasticity of demand (YED), cross elasticity of demand (XED) and price elasticity of supply (PES); to explain, with the aid of a diagram, their different values and "the relationship between PED and a firm's total revenue"; and to evaluate the factors that determine each value and their "usefulness and significance". Every firm and figure below is invented to show technique.
+This guide follows the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026), Component 01, Microeconomics. Topic 2.6 **Elasticity** asks you to explain elasticity; to "explain and calculate" price elasticity of demand (PED), income elasticity of demand (YED), cross elasticity of demand (XED) and price elasticity of supply (PES); to explain, with the aid of a diagram, their different values and "the relationship between PED and a firm's total revenue"; and to evaluate the factors that determine each value and their "usefulness and significance". Every firm and figure below is invented to show technique.
 
 Use it with the [elasticity revision notes](/resources/ocr-as-level-economics-h060-elasticity-ocr-aslevel-economics-revision-notes/) and the [elasticity practice questions](/resources/ocr-as-level-economics-h060-elasticity-ocr-aslevel-economics-practice/). The broader [OCR A Level elasticity guide](/resources/ocr-a-level-economics-elasticity-of-demand-and-supply-ped-yed-xed-pes/) adds point elasticity and tax incidence. See also the [OCR AS Economics hub](/boards/ocr/as-level/economics/), the [printable checklist](/checklists/ocr/as-level/economics/) and the [free 10-minute diagnostics](/diagnostics/).
 

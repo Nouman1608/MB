@@ -3,16 +3,16 @@ title: "OCR AS Level Economics (H060): Productive and allocative efficiency -- R
 resourceType: "revision-notes"
 subject: "economics"
 level: ["a-levels"]
-topic: "Productive and allocative efficiency"
+topic: "Introduction to microeconomics"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 2.5
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 1.2
 syllabusTopics:
   - qualification: "as-level"
-    topic: "how-competitive-markets-work-ocr-aslevel-economics"
-    subtopic: "productive-and-allocative-efficiency-ocr-aslevel-economics"
+    topic: "introduction-to-microeconomics-ocr-aslevel-economics"
+    subtopic: "allocation-of-resources-ocr-aslevel-economics"
 description: "OCR AS Level Economics (H060) revision notes on productive and allocative efficiency: definitions, PPC, average cost, surplus, systems, self-test."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-These notes condense "Economic efficiency: productive and allocative efficiency" from the allocation of resources topic of the OCR *AS Level Economics (H060)* specification, for first assessment in 2016, Component 01, Microeconomics. They also cover the related requirement to evaluate "the allocation of resources in different economic systems". For explanations and the worked examples of Country R and Delta Bricks, read the [efficiency study guide](/resources/ocr-as-level-economics-h060-productive-and-allocative-efficiency-ocr-aslevel-economics/). Then test yourself with the [efficiency practice questions](/resources/ocr-as-level-economics-h060-productive-and-allocative-efficiency-ocr-aslevel-economics-practice/). All figures are invented.
+These notes condense "Economic efficiency: productive and allocative efficiency" from topic 1.2 The allocation of resources of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026), Component 01, Microeconomics. They also cover the related requirement to evaluate "the allocation of resources in different economic systems". For explanations and the worked examples of Country R and Delta Bricks, read the [efficiency study guide](/resources/ocr-as-level-economics-h060-productive-and-allocative-efficiency-ocr-aslevel-economics/). Then test yourself with the [efficiency practice questions](/resources/ocr-as-level-economics-h060-productive-and-allocative-efficiency-ocr-aslevel-economics-practice/). All figures are invented.
 
 ## Core recall
 

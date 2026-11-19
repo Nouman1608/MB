@@ -3,16 +3,16 @@ title: "OCR AS Level Economics (H060): The market economy"
 resourceType: "study-guides"
 subject: "economics"
 level: ["a-levels"]
-topic: "Scarcity and choice"
+topic: "Introduction to microeconomics"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
 order: 1.2
 syllabusTopics:
   - qualification: "as-level"
-    topic: "scarcity-and-choice-ocr-aslevel-economics"
-    subtopic: "the-market-economy-ocr-aslevel-economics"
+    topic: "introduction-to-microeconomics-ocr-aslevel-economics"
+    subtopic: "allocation-of-resources-ocr-aslevel-economics"
 description: "OCR AS Economics (H060) guide to the market economy: how it answers the economic problem, its strengths and weaknesses, government's role and the margin."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide follows the OCR *AS Level Economics (H060)* specification, for first assessment in 2016. It covers the topic **The market economy** in the Area of Study Scarcity and choice, within Component 01, Microeconomics. It explains how a market economy answers the basic economic problem, weighs its strengths against its weaknesses, sets out what government does within it, and introduces decisions at the margin. All examples and figures are invented.
+This guide follows the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). It covers the market economy part of topic 1.2 **The allocation of resources** (Component 1, Introduction to microeconomics), within Component 01, Microeconomics. It explains how a market economy answers the basic economic problem, weighs its strengths against its weaknesses, sets out what government does within it, and introduces decisions at the margin. All examples and figures are invented.
 
 The H460 A Level pages on [scarcity, choice, the margin and the market economy](/resources/ocr-a-level-economics-scarcity-choice-the-margin-and-the-market-economy/) and on [resource allocation and economic systems](/resources/ocr-a-level-economics-resource-allocation-economic-systems-and-the/) cover overlapping content for the full A Level. Use the [market economy revision notes](/resources/ocr-as-level-economics-h060-the-market-economy-ocr-aslevel-economics-revision-notes/) for recall and the [market economy practice questions](/resources/ocr-as-level-economics-h060-the-market-economy-ocr-aslevel-economics-practice/) to test yourself. The [OCR AS Economics hub](/boards/ocr/as-level/economics/) and the [printable checklist](/checklists/ocr/as-level/economics/) show the rest of the course.
 
@@ -35,7 +35,7 @@ The H460 A Level pages on [scarcity, choice, the margin and the market economy](
 | Comparison | Distinguish a market economy from a planned economy and a mixed economy |
 | Strengths and weaknesses | Evaluate how well a market economy allocates resources |
 | Role of government | Explain why governments act even in largely market economies |
-| The margin and rationality | Explain decisions about one more or one less unit, and the assumption of rational behaviour |
+| The margin and rationality | Explain decisions about one more or one less unit, and evaluate rationality as a way of understanding the behaviour of economic agents (topic 1.1). Version 3.0 does not name the margin |
 
 ## What makes an economy a market economy
 
@@ -79,7 +79,7 @@ Each point needs a chain of reasoning, not just a label.
 - **Market power:** a dominant firm can restrict output and raise prices, weakening consumer sovereignty.
 - **Instability:** booms and recessions can leave resources, especially labour, unused.
 
-These weaknesses are developed later in the course under market failure and government intervention.
+These weaknesses are developed later in Component 1, in topics 2.7 Market failure and externalities and 2.8 Government intervention.
 
 ## The role of government within a market economy
 
@@ -107,7 +107,7 @@ The **margin** is the point of deciding about one more, or one less, unit of som
 
 The first extra hour adds £25 to profit, so it is worth opening. The second adds £50 of revenue but £60 of cost, reducing profit by £10. The café should stay open until 7pm. Notice that the decision does not depend on the café's total profit for the day, only on the extra revenue and extra cost of each hour.
 
-**Rationality** is the assumption that agents act consistently to achieve their aims, given the information they have: consumers to maximise satisfaction, firms to maximise profit, and government to maximise the welfare of society. It makes models predictable. Its limits are that people often have incomplete information, act out of habit, or are swayed by how choices are presented, so real decisions can depart from the model.
+**Rationality** is the assumption that agents act consistently to achieve their aims, given the information they have: consumers to maximise satisfaction, firms to maximise profit, and government to maximise the welfare of society. It makes models predictable. Its limits are that people often have incomplete information, act out of habit, or are swayed by how choices are presented, so real decisions can depart from the model. Version 3.0 lists rationality in topic 1.1 The economic problem; it does not name the margin, which is used here as a way of explaining rational choices.
 
 ## Annotated model answer
 
@@ -141,4 +141,4 @@ Not fully. Advertising, market power and lack of information can mean firms shap
 
 ## Official syllabus
 
-OCR *AS Level in Economics (H060)*, for first assessment in 2016, published by OCR. The market economy is a topic in the Area of Study Scarcity and choice, Component 01, Microeconomics.
+OCR *AS Level in Economics (H060)*, Version 3.0 (June 2026), published by OCR. The market economy is part of topic 1.2 The allocation of resources, in Introduction to microeconomics, Component 01, Microeconomics.

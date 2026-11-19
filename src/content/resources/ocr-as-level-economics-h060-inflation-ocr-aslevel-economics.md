@@ -3,15 +3,15 @@ title: "OCR AS Level Economics (H060): Inflation"
 resourceType: "study-guides"
 subject: "economics"
 level: ["a-levels"]
-topic: "Economic policy objectives and indicators of macroeconomic performance"
+topic: "Economic policy objectives"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 4.3
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 4.4
 syllabusTopics:
   - qualification: "as-level"
-    topic: "economic-policy-objectives-and-indicators-of-macroeconomic-performance-ocr-aslevel-economics"
+    topic: "economic-policy-objectives-ocr-aslevel-economics"
     subtopic: "inflation-ocr-aslevel-economics"
 description: "OCR AS Level Economics (H060) guide to inflation: weighted price indices, CPI and RPI, real values, and evaluating causes and consequences."
 author: "marlbridge-academic-team"
@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide covers **Inflation** in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification. The specification asks you to explain inflation, deflation, disinflation and hyperinflation; the policy objective of low and stable inflation; real and nominal values; and measurement using the Consumer Prices Index (CPI) and the Retail Prices Index (RPI). You must also calculate the rate of inflation using index numbers and evaluate the causes and consequences of inflation and deflation. All figures in the worked examples are invented.
+This guide covers topic 2.4 **Inflation** in Economic policy objectives, Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). The specification asks you to explain inflation, deflation, disinflation and hyperinflation; the policy objective of low and stable inflation; real and nominal values; and measurement using the Consumer Prices Index (CPI) and the Retail Prices Index (RPI). You must also calculate the rate of inflation using index numbers and evaluate the causes and consequences of inflation and deflation. All figures in the worked examples are invented.
 
 Condensed recall is in the [inflation revision notes](/resources/ocr-as-level-economics-h060-inflation-ocr-aslevel-economics-revision-notes/), and you can test yourself with the [inflation practice questions](/resources/ocr-as-level-economics-h060-inflation-ocr-aslevel-economics-practice/). For the wider A Level treatment, see [inflation, deflation and index numbers](/resources/ocr-a-level-economics-inflation-deflation-and-index-numbers/).
 

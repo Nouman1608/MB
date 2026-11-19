@@ -15,7 +15,7 @@ syllabusTopics:
     topic: "macroeconomics-ocr-alevel-economics"
     subtopic: "implementing-policy-ocr-alevel-economics"
   - qualification: "as-level"
-    topic: "the-application-of-policy-instruments-ocr-aslevel-economics"
+    topic: "implementing-policy-ocr-aslevel-economics"
     subtopic: "supply-side-policy-ocr-aslevel-economics"
 description: "Original OCR A Level Economics practice questions on supply-side policy, with calculations, evaluation and fully worked answers."
 author: "marlbridge-academic-team"

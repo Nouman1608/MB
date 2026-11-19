@@ -7,12 +7,12 @@ topic: "Aggregate demand and aggregate supply"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 5.4
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 3.4
 syllabusTopics:
   - qualification: "as-level"
     topic: "aggregate-demand-and-aggregate-supply-ocr-aslevel-economics"
-    subtopic: "aggregate-demand-and-supply-ocr-aslevel-economics"
+    subtopic: "the-interaction-of-aggregate-demand-and-supply-ocr-aslevel-economics"
 description: "Original OCR AS Level Economics (H060) questions with answers on using AD and AS together: model assumptions, single and simultaneous shifts."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
@@ -29,7 +29,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover **Aggregate demand and supply** in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification: the assumptions underlying the AD and AS models and the analysis of changes in one or both curves. All countries and data are invented. Revise first with the [aggregate demand and supply study guide](/resources/ocr-as-level-economics-h060-aggregate-demand-and-supply-ocr-aslevel-economics/) and the [aggregate demand and supply revision notes](/resources/ocr-as-level-economics-h060-aggregate-demand-and-supply-ocr-aslevel-economics-revision-notes/).
+These questions cover **Aggregate demand and supply**, part of topic 1.4 The interaction of aggregate demand and supply in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026): the assumptions underlying the AD and AS models and the analysis of changes in one or both curves. All countries and data are invented. Revise first with the [aggregate demand and supply study guide](/resources/ocr-as-level-economics-h060-aggregate-demand-and-supply-ocr-aslevel-economics/) and the [aggregate demand and supply revision notes](/resources/ocr-as-level-economics-h060-aggregate-demand-and-supply-ocr-aslevel-economics-revision-notes/).
 
 ## Section A: Short questions
 

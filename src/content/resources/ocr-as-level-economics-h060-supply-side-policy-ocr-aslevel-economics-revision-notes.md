@@ -3,15 +3,15 @@ title: "OCR AS Level Economics (H060): Supply side policy -- Revision Notes"
 resourceType: "revision-notes"
 subject: "economics"
 level: ["a-levels"]
-topic: "The application of policy instruments"
+topic: "Implementing policy"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 6.3
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 5.3
 syllabusTopics:
   - qualification: "as-level"
-    topic: "the-application-of-policy-instruments-ocr-aslevel-economics"
+    topic: "implementing-policy-ocr-aslevel-economics"
     subtopic: "supply-side-policy-ocr-aslevel-economics"
 description: "OCR AS Level Economics (H060) supply side policy revision notes: the six named measure groups, LRAS effects, evaluation, exam traps and a self-test."
 author: "marlbridge-academic-team"
@@ -23,19 +23,19 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-These notes condense **Supply side policy** from Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification. The [supply side policy study guide](/resources/ocr-as-level-economics-h060-supply-side-policy-ocr-aslevel-economics/) has the full explanations and worked examples, and the [supply side policy practice questions](/resources/ocr-as-level-economics-h060-supply-side-policy-ocr-aslevel-economics-practice/) give exam-style work. All figures are invented.
+These notes condense topic 3.3 **Supply side policy** from Implementing policy in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). The [supply side policy study guide](/resources/ocr-as-level-economics-h060-supply-side-policy-ocr-aslevel-economics/) has the full explanations and worked examples, and the [supply side policy practice questions](/resources/ocr-as-level-economics-h060-supply-side-policy-ocr-aslevel-economics-practice/) give exam-style work. All figures are invented.
 
 ## What you must be able to do
 
 | Specification wording | In one line |
 |---|---|
-| Privatisation, deregulation and subsidies | Profit motive and competition cut costs; subsidies reward productive activity |
-| Competition policy | Stop abuse of market power so firms must become efficient |
-| Investment in infrastructure, education, training, R&D | Raise the quantity and quality of capital and labour, and technology |
-| Reforms of the tax and benefit system | Raise the reward from working, investing and risk-taking |
-| Improved labour market flexibility | Let wages, hours and jobs adjust quickly |
-| Immigration control | Changes the size and skills of the labour force |
-| Evaluate effectiveness | Capacity and non-inflationary growth against lags, cost, uncertainty and equity |
+| Explain, with the aid of a diagram, privatisation, deregulation and subsidies | Profit motive and competition cut costs; subsidies reward productive activity |
+| Explain, with the aid of a diagram, competition policy | Stop abuse of market power so firms must become efficient |
+| Explain, with the aid of a diagram, investment in infrastructure, education, training, research and development | Raise the quantity and quality of capital and labour, and technology |
+| Explain, with the aid of a diagram, reforms of the tax and benefit system | Raise the reward from working, investing and risk-taking |
+| Explain, with the aid of a diagram, improved labour market flexibility | Let wages, hours and jobs adjust quickly |
+| Explain, with the aid of a diagram, immigration control | Changes the size and skills of the labour force |
+| Evaluate the effectiveness of using supply side policy measures to achieve the government's macroeconomic objectives | Capacity and non-inflationary growth against lags, cost, uncertainty and equity |
 
 ## Key terms
 

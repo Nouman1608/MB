@@ -3,15 +3,15 @@ title: "OCR AS Level Economics (H060): Monetary policy -- Practice Questions"
 resourceType: "practice-questions"
 subject: "economics"
 level: ["a-levels"]
-topic: "The application of policy instruments"
+topic: "Implementing policy"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 6.2
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 5.2
 syllabusTopics:
   - qualification: "as-level"
-    topic: "the-application-of-policy-instruments-ocr-aslevel-economics"
+    topic: "implementing-policy-ocr-aslevel-economics"
     subtopic: "monetary-policy-ocr-aslevel-economics"
 description: "Original OCR AS Level Economics (H060) monetary policy questions with answers: interest rates, money supply, inflation targets, QE and exchange rates."
 author: "marlbridge-academic-team"
@@ -29,7 +29,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover **Monetary policy** in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification. Households, firms, countries and data are invented. Revise first with the [monetary policy study guide](/resources/ocr-as-level-economics-h060-monetary-policy-ocr-aslevel-economics/) and the [monetary policy revision notes](/resources/ocr-as-level-economics-h060-monetary-policy-ocr-aslevel-economics-revision-notes/).
+These questions cover topic 3.2 **Monetary policy** in Implementing policy, Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). Households, firms, countries and data are invented. Revise first with the [monetary policy study guide](/resources/ocr-as-level-economics-h060-monetary-policy-ocr-aslevel-economics/) and the [monetary policy revision notes](/resources/ocr-as-level-economics-h060-monetary-policy-ocr-aslevel-economics-revision-notes/).
 
 ## Section A: Short questions
 

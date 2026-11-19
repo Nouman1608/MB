@@ -3,15 +3,15 @@ title: "OCR AS Level Economics (H060): Specialisation and trade"
 resourceType: "study-guides"
 subject: "economics"
 level: ["a-levels"]
-topic: "Scarcity and choice"
+topic: "The role of markets"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 1.4
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 2.1
 syllabusTopics:
   - qualification: "as-level"
-    topic: "scarcity-and-choice-ocr-aslevel-economics"
+    topic: "the-role-of-markets-ocr-aslevel-economics"
     subtopic: "specialisation-and-trade-ocr-aslevel-economics"
 description: "OCR AS Economics (H060) guide to specialisation and trade: division of labour, gains from specialising, why exchange follows, and money compared with barter."
 author: "marlbridge-academic-team"
@@ -23,18 +23,18 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide follows the OCR *AS Level Economics (H060)* specification, for first assessment in 2016. It covers the topic **Specialisation and trade** in the Area of Study Scarcity and choice, within Component 01, Microeconomics. It explains specialisation and the division of labour, how they help to address scarcity, why specialisation leads to trade, and why money makes trade far easier than barter. All figures below are invented.
+This guide follows the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). It covers topic 2.1 **Specialisation and trade**, the first topic in The role of markets, within Component 01, Microeconomics. It explains specialisation and the division of labour, how they help to address scarcity, why specialisation leads to trade, and why money makes trade far easier than barter. All figures below are invented.
 
-The H460 A Level page on [opportunity cost, the PPF, specialisation and trade](/resources/ocr-a-level-economics-opportunity-cost-the-ppf-specialisation-and-trade/) covers the same content for the full A Level. Trade between countries, including comparative advantage, is developed later in the AS course under international trade. Use the [specialisation and trade revision notes](/resources/ocr-as-level-economics-h060-specialisation-and-trade-ocr-aslevel-economics-revision-notes/) for recall and the [specialisation and trade practice questions](/resources/ocr-as-level-economics-h060-specialisation-and-trade-ocr-aslevel-economics-practice/) to test yourself. Earlier topics: [opportunity cost](/resources/ocr-as-level-economics-h060-opportunity-cost-ocr-aslevel-economics/). See the [OCR AS Economics hub](/boards/ocr/as-level/economics/) and [printable checklist](/checklists/ocr/as-level/economics/).
+The H460 A Level page on [opportunity cost, the PPF, specialisation and trade](/resources/ocr-a-level-economics-opportunity-cost-the-ppf-specialisation-and-trade/) covers the same content for the full A Level. Trade between countries is covered in Component 2, topic 4.1 International trade. Version 3.0 does not name comparative advantage. Use the [specialisation and trade revision notes](/resources/ocr-as-level-economics-h060-specialisation-and-trade-ocr-aslevel-economics-revision-notes/) for recall and the [specialisation and trade practice questions](/resources/ocr-as-level-economics-h060-specialisation-and-trade-ocr-aslevel-economics-practice/) to test yourself. Earlier topics: [opportunity cost](/resources/ocr-as-level-economics-h060-opportunity-cost-ocr-aslevel-economics/). See the [OCR AS Economics hub](/boards/ocr/as-level/economics/) and [printable checklist](/checklists/ocr/as-level/economics/).
 
 ## What this topic covers
 
 | Idea | What you must be able to do |
 |---|---|
 | Specialisation and the division of labour | Define and distinguish them, with examples |
-| Addressing scarcity | Evaluate how far specialisation raises output from scarce resources |
+| Addressing scarcity | Evaluate the role of specialisation and the division of labour in addressing the problem of scarcity |
 | Trade and exchange | Explain why specialisation makes exchange necessary |
-| Money and barter | Explain the problems of barter and the functions of money |
+| Money and barter | Explain barter systems and money as a medium of exchange (this page also covers money's other functions) |
 
 ## Specialisation and the division of labour
 
@@ -132,11 +132,11 @@ By lowering the cost and time of exchange, money allows far more specialisation,
 ## Frequently asked questions
 
 **Is specialisation the same as comparative advantage?**
-No. Specialisation is concentrating on a limited range of output. Comparative advantage explains which goods a country or person should specialise in; it is developed later in the course under international trade.
+No. Specialisation is concentrating on a limited range of output. Comparative advantage explains which goods a country or person should specialise in. Version 3.0 does not name it, but it helps explain the trade between countries covered in Component 2, topic 4.1 International trade.
 
 **Why do workers still accept repetitive jobs?**
 Higher productivity can support higher pay, and firms may rotate tasks to reduce monotony, but the trade-off between productivity and job satisfaction is real.
 
 ## Official syllabus
 
-OCR *AS Level in Economics (H060)*, for first assessment in 2016, published by OCR. Specialisation and trade is a topic in the Area of Study Scarcity and choice, Component 01, Microeconomics.
+OCR *AS Level in Economics (H060)*, Version 3.0 (June 2026), published by OCR. Specialisation and trade is topic 2.1, in The role of markets, Component 01, Microeconomics.

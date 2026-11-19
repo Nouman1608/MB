@@ -3,16 +3,16 @@ title: "OCR AS Level Economics (H060): Employment/unemployment"
 resourceType: "study-guides"
 subject: "economics"
 level: ["a-levels"]
-topic: "Employment/unemployment"
+topic: "Economic policy objectives"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 4.2
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 4.3
 syllabusTopics:
   - qualification: "as-level"
-    topic: "economic-policy-objectives-and-indicators-of-macroeconomic-performance-ocr-aslevel-economics"
-    subtopic: "employment-unemployment-ocr-aslevel-economics"
+    topic: "economic-policy-objectives-ocr-aslevel-economics"
+    subtopic: "employment-ocr-aslevel-economics"
 description: "OCR AS Level Economics (H060) study guide to employment and unemployment: full employment, the LFS and claimant count, causes and consequences."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide follows the OCR *AS Level Economics (H060)* specification, for first assessment in 2016, Component 02, Macroeconomics. The topic **Employment** asks you to explain "Employment and unemployment", "The policy objective of full employment" and "The labour force survey and claimant count measures of unemployment", and to evaluate the "Causes and consequences of unemployment" and the "Effects of full employment". All countries and figures below are invented.
+This guide follows the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026), Component 02, Macroeconomics. Topic 2.3 **Employment**, in Economic policy objectives, asks you to explain "Employment and unemployment", "The policy objective of full employment" and "The labour force survey and claimant count measures of unemployment", and to evaluate the "Causes and consequences of unemployment" and the "Effects of full employment". All countries and figures below are invented.
 
 Use it with the [employment and unemployment revision notes](/resources/ocr-as-level-economics-h060-employment-unemployment-ocr-aslevel-economics-revision-notes/) and the [employment and unemployment practice questions](/resources/ocr-as-level-economics-h060-employment-unemployment-ocr-aslevel-economics-practice/). Related pages: [AS economic growth](/resources/ocr-as-level-economics-h060-economic-growth-ocr-aslevel-economics/), [AS trends in macroeconomic indicators](/resources/ocr-as-level-economics-trends-in-macroeconomic-indicators/) and the deeper [OCR A Level unemployment guide](/resources/ocr-a-level-economics-unemployment-and-employment/), which adds the natural rate and changing employment patterns. See also the [OCR AS Economics hub](/boards/ocr/as-level/economics/).
 
@@ -31,12 +31,11 @@ Use it with the [employment and unemployment revision notes](/resources/ocr-as-l
 
 | Requirement | Section |
 |---|---|
-| Explain employment and unemployment | 1 |
-| The policy objective of full employment | 2 |
-| Labour Force Survey and claimant count | 3 |
-| Evaluate causes of unemployment | 4 |
-| Evaluate consequences of unemployment | 5 |
-| Evaluate effects of full employment | 6 |
+| Explain: Employment and unemployment | 1 |
+| Explain: The policy objective of full employment | 2 |
+| Explain: The labour force survey and claimant count measures of unemployment | 3 |
+| Evaluate: Causes and consequences of unemployment | 4 and 5 |
+| Evaluate: Effects of full employment | 6 |
 
 ## 1. Employment, unemployment and the labour force
 

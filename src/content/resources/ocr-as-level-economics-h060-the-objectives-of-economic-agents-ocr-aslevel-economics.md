@@ -3,16 +3,16 @@ title: "OCR AS Level Economics (H060): The objectives of economic agents"
 resourceType: "study-guides"
 subject: "economics"
 level: ["a-levels"]
-topic: "How competitive markets work"
+topic: "Introduction to microeconomics"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 2.2
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 1.1
 syllabusTopics:
   - qualification: "as-level"
-    topic: "how-competitive-markets-work-ocr-aslevel-economics"
-    subtopic: "the-objectives-of-economic-agents-ocr-aslevel-economics"
+    topic: "introduction-to-microeconomics-ocr-aslevel-economics"
+    subtopic: "the-economic-problem-ocr-aslevel-economics"
 description: "OCR AS Economics (H060) guide to the objectives of consumers, workers, firms and government: maximisation, satisficing and alternative firm objectives."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide follows the OCR *AS Level Economics (H060)* specification, for first assessment in 2016. It covers the topic **The objectives of economic agents** in the Area of Study How competitive markets work, within Component 01, Microeconomics. It explains what it means to maximise, the objectives usually assumed for consumers, workers, firms and government, the alternatives to maximising, and how to evaluate them. All firms and figures below are invented.
+This guide follows the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). It covers the objectives part of topic 1.1 **The economic problem** (Component 1, Introduction to microeconomics), within Component 01, Microeconomics, where you must evaluate "The different objectives of the economic agents in an economy" and "Rationality as a way of understanding the behaviour of economic agents". It explains what it means to maximise, the objectives usually assumed for consumers, workers, firms and government, the alternatives to maximising, and how to evaluate them. All firms and figures below are invented.
 
 The H460 A Level page on [business objectives and the principal-agent problem](/resources/ocr-a-level-economics-business-objectives-and-the-principal-agent-problem/) goes deeper into firms' objectives for the full A Level. This page covers all four types of agent with new examples aimed at the AS papers. Use the [objectives of economic agents revision notes](/resources/ocr-as-level-economics-h060-the-objectives-of-economic-agents-ocr-aslevel-economics-revision-notes/) for recall and the [objectives of economic agents practice questions](/resources/ocr-as-level-economics-h060-the-objectives-of-economic-agents-ocr-aslevel-economics-practice/) to test yourself. See also the [market economy guide](/resources/ocr-as-level-economics-h060-the-market-economy-ocr-aslevel-economics/), the [OCR AS Economics hub](/boards/ocr/as-level/economics/) and the [printable checklist](/checklists/ocr/as-level/economics/).
 
@@ -140,4 +140,4 @@ In very competitive markets, firms that do not keep costs low and profits up may
 
 ## Official syllabus
 
-OCR *AS Level in Economics (H060)*, for first assessment in 2016, published by OCR. The objectives of economic agents is a topic in the Area of Study How competitive markets work, Component 01, Microeconomics.
+OCR *AS Level in Economics (H060)*, Version 3.0 (June 2026), published by OCR. The objectives of economic agents are part of topic 1.1 The economic problem, in Introduction to microeconomics, Component 01, Microeconomics.

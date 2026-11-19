@@ -15,7 +15,7 @@ syllabusTopics:
     topic: "macroeconomics-ocr-alevel-economics"
     subtopic: "implementing-policy-ocr-alevel-economics"
   - qualification: "as-level"
-    topic: "the-application-of-policy-instruments-ocr-aslevel-economics"
+    topic: "implementing-policy-ocr-aslevel-economics"
     subtopic: "supply-side-policy-ocr-aslevel-economics"
 description: "Condensed OCR A Level Economics revision notes on supply-side policy: twelve measures, key calculations, evaluation chains and a short self-test."
 author: "marlbridge-academic-team"

@@ -3,15 +3,15 @@ title: "OCR AS Level Economics (H060): Economic growth"
 resourceType: "study-guides"
 subject: "economics"
 level: ["a-levels"]
-topic: "Economic growth"
+topic: "Economic policy objectives"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
 order: 4.1
 syllabusTopics:
   - qualification: "as-level"
-    topic: "economic-policy-objectives-and-indicators-of-macroeconomic-performance-ocr-aslevel-economics"
+    topic: "economic-policy-objectives-ocr-aslevel-economics"
     subtopic: "economic-growth-ocr-aslevel-economics"
 description: "OCR AS Level Economics (H060) study guide to economic growth: real and nominal GDP, growth rates, GDP per capita, the cycle and short and long run growth."
 author: "marlbridge-academic-team"
@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide follows the OCR *AS Level Economics (H060)* specification, for first assessment in 2016, Component 02, Macroeconomics. The topic **Economic growth** asks you to explain economic growth, "the policy objective of economic growth", "the different stages of the economic cycle" and "real and nominal Gross Domestic Product (GDP); changes in GDP over time"; to explain and calculate "economic growth rates" and "GDP per capita"; to explain, with the aid of a diagram, "short run and long run economic growth"; and to evaluate the causes and consequences of growth in the short run and the long run. All countries and figures below are invented.
+This guide follows the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026), Component 02, Macroeconomics. Topic 2.1 **Economic growth**, in Economic policy objectives, asks you to explain economic growth, "the policy objective of economic growth", "the different stages of the economic cycle" and "real and nominal Gross Domestic Product (GDP); changes in GDP over time"; to explain and calculate "economic growth rates" and "GDP per capita"; to explain, with the aid of a diagram, "short run and long run economic growth"; and to evaluate the "causes and consequences of economic growth in the short run and long run". All countries and figures below are invented.
 
 Use it with the [economic growth revision notes](/resources/ocr-as-level-economics-h060-economic-growth-ocr-aslevel-economics-revision-notes/) and the [economic growth practice questions](/resources/ocr-as-level-economics-h060-economic-growth-ocr-aslevel-economics-practice/). For comparing growth over longer periods, see [trends in macroeconomic indicators](/resources/ocr-as-level-economics-trends-in-macroeconomic-indicators/); for the AD/AS model behind the diagrams, see the [OCR aggregate supply guide](/resources/ocr-a-level-economics-aggregate-supply-and-the-ad-as-model/). See also the [OCR AS Economics hub](/boards/ocr/as-level/economics/).
 
@@ -31,12 +31,14 @@ Use it with the [economic growth revision notes](/resources/ocr-as-level-economi
 
 | Requirement | Section |
 |---|---|
-| Explain economic growth and the policy objective | 1 |
-| Real and nominal GDP; changes in GDP over time | 2 |
-| Calculate growth rates and GDP per capita | 2 and 3 |
-| Stages of the economic cycle | 4 |
-| Short run and long run growth, with diagrams | 5 |
-| Evaluate causes and consequences in the short and long run | 6 and 7 |
+| Explain: Economic growth | 1 |
+| Explain: The policy objective of economic growth | 1 |
+| Explain: Real and nominal Gross Domestic Product (GDP); changes in GDP over time | 2 |
+| Explain and calculate: Economic growth rates | 2 |
+| Explain and calculate: GDP per capita | 3 |
+| Explain: The different stages of the economic cycle | 4 |
+| Explain, with the aid of a diagram: Short run and long run economic growth | 5 |
+| Evaluate: Causes and consequences of economic growth in the short run and long run | 6 and 7 |
 
 ## 1. Economic growth and the policy objective
 

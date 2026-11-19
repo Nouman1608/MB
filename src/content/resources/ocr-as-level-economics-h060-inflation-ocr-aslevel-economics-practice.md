@@ -3,15 +3,15 @@ title: "OCR AS Level Economics (H060): Inflation -- Practice Questions"
 resourceType: "practice-questions"
 subject: "economics"
 level: ["a-levels"]
-topic: "Economic policy objectives and indicators of macroeconomic performance"
+topic: "Economic policy objectives"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 4.3
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 4.4
 syllabusTopics:
   - qualification: "as-level"
-    topic: "economic-policy-objectives-and-indicators-of-macroeconomic-performance-ocr-aslevel-economics"
+    topic: "economic-policy-objectives-ocr-aslevel-economics"
     subtopic: "inflation-ocr-aslevel-economics"
 description: "Original OCR AS Level Economics (H060) inflation questions with mark-scheme answers: index numbers, weights, CPI and RPI, real values and deflation."
 author: "marlbridge-academic-team"
@@ -29,7 +29,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover **Inflation** in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification. All countries and data are invented. Revise first with the [inflation study guide](/resources/ocr-as-level-economics-h060-inflation-ocr-aslevel-economics/) and the [inflation revision notes](/resources/ocr-as-level-economics-h060-inflation-ocr-aslevel-economics-revision-notes/).
+These questions cover topic 2.4 **Inflation** in Economic policy objectives, Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). All countries and data are invented. Revise first with the [inflation study guide](/resources/ocr-as-level-economics-h060-inflation-ocr-aslevel-economics/) and the [inflation revision notes](/resources/ocr-as-level-economics-h060-inflation-ocr-aslevel-economics-revision-notes/).
 
 ## Section A: Short questions
 

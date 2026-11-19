@@ -3,15 +3,15 @@ title: "OCR AS Level Economics (H060): Allocation of resources"
 resourceType: "study-guides"
 subject: "economics"
 level: ["a-levels"]
-topic: "How competitive markets work"
+topic: "Introduction to microeconomics"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 2.1
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 1.2
 syllabusTopics:
   - qualification: "as-level"
-    topic: "how-competitive-markets-work-ocr-aslevel-economics"
+    topic: "introduction-to-microeconomics-ocr-aslevel-economics"
     subtopic: "allocation-of-resources-ocr-aslevel-economics"
 description: "OCR AS Economics (H060) guide to resource allocation: the price mechanism's functions, incentives, and how market, planned and mixed economies compare."
 author: "marlbridge-academic-team"
@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide follows the OCR *AS Level Economics (H060)* specification, for first assessment in 2016. It covers the topic **Allocation of resources**, the first topic in the Area of Study How competitive markets work, within Component 01, Microeconomics. It explains how the price mechanism allocates scarce resources, how incentives change behaviour, and how market, planned and mixed economies compare. All examples and figures are invented.
+This guide follows the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). It covers the incentives and economic systems parts of topic 1.2 **The allocation of resources** (Component 1, Introduction to microeconomics), within Component 01, Microeconomics. Economic efficiency, the rest of topic 1.2, has its own [efficiency guide](/resources/ocr-as-level-economics-h060-productive-and-allocative-efficiency-ocr-aslevel-economics/). It explains how the price mechanism allocates scarce resources, how incentives change behaviour, and how market, planned and mixed economies compare. All examples and figures are invented.
 
 The H460 A Level page on [resource allocation, economic systems and the objectives of agents](/resources/ocr-a-level-economics-resource-allocation-economic-systems-and-the/) covers overlapping content for the full A Level. This page uses new examples aimed at the AS papers. Use the [allocation of resources revision notes](/resources/ocr-as-level-economics-h060-allocation-of-resources-ocr-aslevel-economics-revision-notes/) for recall and the [allocation of resources practice questions](/resources/ocr-as-level-economics-h060-allocation-of-resources-ocr-aslevel-economics-practice/) to test yourself. The earlier [market economy guide](/resources/ocr-as-level-economics-h060-the-market-economy-ocr-aslevel-economics/) introduces the economic systems. See the [OCR AS Economics hub](/boards/ocr/as-level/economics/) and the [printable checklist](/checklists/ocr/as-level/economics/).
 
@@ -135,8 +135,8 @@ Most economies rely on markets for most goods and use government for public good
 That is a normative question. It allocates by willingness and ability to pay, which some regard as efficient and others as unfair to those on low incomes.
 
 **Do incentives only work through money?**
-No. Recognition, social approval and convenience can change behaviour too, although the specification's focus is on how incentives affect resource allocation.
+No. Recognition, social approval and convenience can change behaviour too, although Version 3.0 asks you to evaluate the effectiveness of incentives on the behaviour of economic agents and resource allocation.
 
 ## Official syllabus
 
-OCR *AS Level in Economics (H060)*, for first assessment in 2016, published by OCR. Allocation of resources is a topic in the Area of Study How competitive markets work, Component 01, Microeconomics.
+OCR *AS Level in Economics (H060)*, Version 3.0 (June 2026), published by OCR. Allocation of resources is covered by topic 1.2 The allocation of resources, in Introduction to microeconomics, Component 01, Microeconomics.

@@ -24,14 +24,15 @@ the human sign-off is outstanding for every review-pending resource.
 | --- | --- |
 | With a repository-side verification record | 780 |
 | Corrected in the 4 Oct 2026 programme | 48 |
-| Pending with no reviewer assigned | 0 |
+| Pending with no reviewer assigned | 9 |
 | Showing "Checked by Marlbridge Academic Team" (specCheck) | 0 |
 
 **Review status (frontmatter)**
 
 | Status | Resources |
 | --- | --- |
-| reviewed | 16059 |
+| archived | 9 |
+| reviewed | 16050 |
 
 **Ledger outcome**
 
@@ -40,7 +41,8 @@ the human sign-off is outstanding for every review-pending resource.
 | REPO_PARTIAL_UNVERIFIABLE | 153 |
 | REPO_VERIFIED | 585 |
 | REPO_VERIFIED_AFTER_CORRECTION | 42 |
-| TEACHER_CREDITED | 15279 |
+| TEACHER_CREDITED | 15270 |
+| UNVERIFIED | 9 |
 
 - `TEACHER_CREDITED` — marked reviewed (accountable-teacher credit). Metadata
   validated here; content not re-checked in this programme.
@@ -69,7 +71,7 @@ Every resource appears exactly once; every verification record matches an existi
 
 ## Sign-off queue
 
-0 resources are review-pending and need a named, authorised Marlbridge
+9 resources are review-pending and need a named, authorised Marlbridge
 reviewer to accept them under the editorial policy. The queue, grouped by course, is
 in [`signoff-queue.md`](signoff-queue.md), and by eligible teacher in
 [`signoff-by-teacher.md`](signoff-by-teacher.md). No reviewer has been assigned or inferred.

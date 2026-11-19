@@ -7,21 +7,21 @@ topic: "Economies and diseconomies of scale"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 2.7
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 1.2
 syllabusTopics:
   - qualification: "as-level"
-    topic: "how-competitive-markets-work-ocr-aslevel-economics"
-    subtopic: "economies-and-diseconomies-of-scale-ocr-aslevel-economics"
+    topic: "introduction-to-microeconomics-ocr-aslevel-economics"
+    subtopic: "allocation-of-resources-ocr-aslevel-economics"
 description: "OCR AS Level Economics (H060) revision notes on economies and diseconomies of scale: internal, external, LRAC, MES, significance and a self-test."
 author: "marlbridge-academic-team"
-reviewer: "salman-ahmad"
-reviewStatus: "reviewed"
-reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The current H060 specification does not name economies or diseconomies of scale, which appear in the A Level (H460) costs topic, so a teacher should confirm whether this subtopic is examined at AS. Rechecked 2026-11-18: the owner reports that the teacher re-checked this page against the current H060 specification after the flag above and approved it as it stands."
+reviewStatus: "archived"
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The current H060 specification does not name economies or diseconomies of scale, which appear in the A Level (H460) costs topic, so a teacher should confirm whether this subtopic is examined at AS. Rechecked 2026-11-18: the owner reports that the teacher re-checked this page against the current H060 specification after the flag above and approved it as it stands. Archived 2026-11-19 (owner's decision): Version 3.0 of the H060 specification does not include this topic at AS, so the credit to salman-ahmad no longer applies."
 publishedDate: 2026-11-18
 featured: false
 ---
+
+> **Archived page.** OCR's current AS Level Economics (H060) specification, Version 3.0 (June 2026), does not include economies and diseconomies of scale at AS Level; the topic is A Level (H460) content. This page is kept so existing links still work, but it is no longer part of the AS course. For the A Level topic, use the [OCR A Level economies of scale revision notes](/resources/ocr-a-level-economics-economies-of-scale-revenue-and-profit-revision-notes/).
 
 These notes condense **Economies and diseconomies of scale** for the OCR *AS Level Economics (H060)* specification, for first assessment in 2016, Component 01, Microeconomics. In the current specification these ideas are named in the A Level (H460) costs topic, and the AS content links to them through specialisation, the division of labour and productive efficiency, so confirm the scope with your teacher. Full explanations and the Northfield Bottling example are in the [economies of scale study guide](/resources/ocr-as-level-economics-h060-economies-and-diseconomies-of-scale-ocr-aslevel-economics/); practise with the [economies of scale practice questions](/resources/ocr-as-level-economics-h060-economies-and-diseconomies-of-scale-ocr-aslevel-economics-practice/). All figures are invented.
 

@@ -7,12 +7,12 @@ topic: "Aggregate demand and aggregate supply"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 5.4
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 3.4
 syllabusTopics:
   - qualification: "as-level"
     topic: "aggregate-demand-and-aggregate-supply-ocr-aslevel-economics"
-    subtopic: "aggregate-demand-and-supply-ocr-aslevel-economics"
+    subtopic: "the-interaction-of-aggregate-demand-and-supply-ocr-aslevel-economics"
 description: "OCR AS Level Economics (H060) revision notes on combining AD and AS: model assumptions, single and simultaneous shifts, exam traps and a self-test."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
@@ -23,14 +23,16 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-These notes condense **Aggregate demand and supply** from Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification: the assumptions underlying the AD and AS models and how to analyse changes using both curves. The [aggregate demand and supply study guide](/resources/ocr-as-level-economics-h060-aggregate-demand-and-supply-ocr-aslevel-economics/) has the full worked examples, and the [aggregate demand and supply practice questions](/resources/ocr-as-level-economics-h060-aggregate-demand-and-supply-ocr-aslevel-economics-practice/) give exam-style work. Equilibrium and its effects on indicators are in the [macroeconomic equilibrium revision notes](/resources/ocr-as-level-economics-h060-macroeconomic-equilibrium-ocr-aslevel-economics-revision-notes/). All figures are invented.
+These notes condense **Aggregate demand and supply**, part of topic 1.4 The interaction of aggregate demand and supply in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026): the assumptions underlying the AD and AS models and how to analyse changes using both curves. The [aggregate demand and supply study guide](/resources/ocr-as-level-economics-h060-aggregate-demand-and-supply-ocr-aslevel-economics/) has the full worked examples, and the [aggregate demand and supply practice questions](/resources/ocr-as-level-economics-h060-aggregate-demand-and-supply-ocr-aslevel-economics-practice/) give exam-style work. Equilibrium and its effects on indicators are in the [macroeconomic equilibrium revision notes](/resources/ocr-as-level-economics-h060-macroeconomic-equilibrium-ocr-aslevel-economics-revision-notes/). All figures are invented.
 
 ## What you must be able to do
 
 | Specification wording | In one line |
 |---|---|
-| Explain the assumptions underlying the AD and AS models | Aggregation, ceteris paribus, independent curves, sticky short-run costs, flexible long-run prices, known capacity, given expectations, comparative statics |
-| Use AD and AS together to analyse change | Identify the curve, the direction, draw it, read off P and Y |
+| Explain the assumptions underlying the aggregate demand and aggregate supply models | Aggregation, ceteris paribus, independent curves, sticky short-run costs, flexible long-run prices, known capacity, given expectations, comparative statics |
+| Evaluate effects of changes in aggregate demand and aggregate supply on macroeconomic indicators | Identify the curve, the direction, draw it, read off P and Y, then translate them into growth, unemployment and inflation |
+
+The third statement in topic 1.4, explain equilibrium in the macroeconomy, is covered in the [macroeconomic equilibrium revision notes](/resources/ocr-as-level-economics-h060-macroeconomic-equilibrium-ocr-aslevel-economics-revision-notes/).
 
 ## Key terms
 

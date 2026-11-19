@@ -5,7 +5,7 @@ hand: `npm run coverage:academic-v2` writes this file, [`academic-coverage-curre
 and [`academic-coverage-current.csv`](academic-coverage-current.csv) from one dataset in one run, so all three
 agree. Older reports in this folder are dated historical evidence; see [README.md](README.md).
 
-Data as of **2026-11-18** (the latest date found in the data; no generation timestamp is
+Data as of **2026-11-19** (the latest date found in the data; no generation timestamp is
 written, so an unchanged repository regenerates identical files).
 
 ## Totals
@@ -40,7 +40,8 @@ source, a verification date, components with marks and durations, and an assessm
 
 | reviewStatus | Resources |
 | --- | --- |
-| reviewed | 16059 |
+| archived | 9 |
+| reviewed | 16050 |
 
 `reviewed` means a named Marlbridge subject teacher is credited as accountable for the page
 (owner decision D-379); it is not a record of a dated, line-by-line check. `review-pending`
@@ -78,7 +79,7 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 | Cambridge | 55 | 55 | 55 | 6299 | 0 | 55 | 6299 | 0 |
 | Pearson Edexcel | 21 | 21 | 21 | 1842 | 0 | 21 | 1842 | 0 |
 | International Baccalaureate | 21 | 21 | 21 | 1790 | 0 | 19 | 1790 | 0 |
-| OCR | 13 | 13 | 13 | 1749 | 0 | 13 | 1749 | 0 |
+| OCR | 13 | 13 | 13 | 1749 | 0 | 13 | 1731 | 18 |
 | OxfordAQA | 30 | 30 | 30 | 2601 | 0 | 30 | 2601 | 0 |
 
 ## By qualification
@@ -112,20 +113,22 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 
 - None.
 
-## Stale verification (older than 180 days before 2026-11-18)
+## Stale verification (older than 180 days before 2026-11-19)
 
 - None.
 
 ## Missing reviewer
 
-- None.
+- OCR AS Level Economics (H060): 9 review-pending resource(s) with no reviewer
+- OCR A Level Economics (H460): 9 review-pending resource(s) with no reviewer
 
 ## Recommended next action
 
 | Next action | Combinations |
 | --- | --- |
-| None. | 164 |
+| None. | 162 |
 | Complete the assessment record from the official specification. | 2 |
+| Named-reviewer sign-off of review-pending resources. | 2 |
 
 Overall: no review-pending resources.
 
@@ -256,7 +259,7 @@ Overall: no review-pending resources.
 | International Baccalaureate | IB Middle Years Programme | Sciences (MYP) | MYP Sciences | 40 | 40 / 0 | VERIFIED_COMPLETE (criterion-referenced) | 0 | None. |
 | International Baccalaureate | IB Middle Years Programme | Design (MYP) | MYP Design | 34 | 34 / 0 | VERIFIED_COMPLETE (criterion-referenced) | 0 | None. |
 | International Baccalaureate | IB Middle Years Programme | Individuals and Societies (MYP) | MYP Individuals and Societies | 40 | 40 / 0 | VERIFIED_COMPLETE (criterion-referenced) | 0 | None. |
-| OCR | AS Level | Economics | H060 | 257 | 257 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
+| OCR | AS Level | Economics | H060 | 257 | 248 / 9 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
 | OCR | GCSE | Chemistry | J248 | 54 | 54 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OCR | GCSE | Physics | J249 | 114 | 114 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OCR | GCSE | Biology | J247 | 102 | 102 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
@@ -268,7 +271,7 @@ Overall: no review-pending resources.
 | OCR | A Level | Biology | H420 | 126 | 126 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OCR | A Level | Mathematics | H240 | 117 | 117 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OCR | A Level | Business | H431 | 114 | 114 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| OCR | A Level | Economics | H460 | 257 | 257 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
+| OCR | A Level | Economics | H460 | 257 | 248 / 9 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
 | OxfordAQA | IGCSE | Accounting | 9215 | 92 | 92 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OxfordAQA | IGCSE | Business | 9225 | 47 | 47 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OxfordAQA | IGCSE | Computer Science | 9210 | 68 | 68 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |

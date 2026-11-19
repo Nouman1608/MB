@@ -19,7 +19,7 @@ syllabusTopics:
     subtopic: "circular-flow-of-income-ocr-aslevel-economics"
   - qualification: "as-level"
     topic: "aggregate-demand-and-aggregate-supply-ocr-aslevel-economics"
-    subtopic: "aggregate-demand-ad-ocr-aslevel-economics"
+    subtopic: "aggregate-demand-ocr-aslevel-economics"
 description: "Original OCR A Level Economics practice questions on the circular flow, propensities, the accelerator and aggregate demand, with worked answers."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

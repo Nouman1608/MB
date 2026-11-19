@@ -3,16 +3,16 @@ title: "OCR AS Level Economics (H060): Employment/unemployment -- Practice Quest
 resourceType: "practice-questions"
 subject: "economics"
 level: ["a-levels"]
-topic: "Employment/unemployment"
+topic: "Economic policy objectives"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 4.2
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 4.3
 syllabusTopics:
   - qualification: "as-level"
-    topic: "economic-policy-objectives-and-indicators-of-macroeconomic-performance-ocr-aslevel-economics"
-    subtopic: "employment-unemployment-ocr-aslevel-economics"
+    topic: "economic-policy-objectives-ocr-aslevel-economics"
+    subtopic: "employment-ocr-aslevel-economics"
 description: "Original OCR AS Level Economics (H060) practice questions on unemployment measures, types, consequences and full employment, with full answers."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
@@ -29,7 +29,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover the topic Employment in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification, for first assessment in 2016. The mark totals are our own and all countries and data are invented. Explanations are in the [employment and unemployment study guide](/resources/ocr-as-level-economics-h060-employment-unemployment-ocr-aslevel-economics/) and the [employment and unemployment revision notes](/resources/ocr-as-level-economics-h060-employment-unemployment-ocr-aslevel-economics-revision-notes/). See the [OCR AS Economics hub](/boards/ocr/as-level/economics/).
+These questions cover topic 2.3 Employment in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). The mark totals are our own and all countries and data are invented. Explanations are in the [employment and unemployment study guide](/resources/ocr-as-level-economics-h060-employment-unemployment-ocr-aslevel-economics/) and the [employment and unemployment revision notes](/resources/ocr-as-level-economics-h060-employment-unemployment-ocr-aslevel-economics-revision-notes/). See the [OCR AS Economics hub](/boards/ocr/as-level/economics/).
 
 ## Questions
 

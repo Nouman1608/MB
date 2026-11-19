@@ -3,16 +3,16 @@ title: "OCR AS Level Economics (H060): The basic economic problem -- Revision No
 resourceType: "revision-notes"
 subject: "economics"
 level: ["a-levels"]
-topic: "Scarcity and choice"
+topic: "Introduction to microeconomics"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
 order: 1.1
 syllabusTopics:
   - qualification: "as-level"
-    topic: "scarcity-and-choice-ocr-aslevel-economics"
-    subtopic: "the-basic-economic-problem-ocr-aslevel-economics"
+    topic: "introduction-to-microeconomics-ocr-aslevel-economics"
+    subtopic: "the-economic-problem-ocr-aslevel-economics"
 description: "Condensed OCR AS Economics (H060) notes on the basic economic problem: key terms, classification rules, exam traps and a 12-question self-test."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-These notes condense the topic **The basic economic problem** from the Area of Study Scarcity and choice, Component 01, Microeconomics, of the OCR *AS Level Economics (H060)* specification, for first assessment in 2016. Fuller explanations are in the [basic economic problem study guide](/resources/ocr-as-level-economics-h060-the-basic-economic-problem-ocr-aslevel-economics/); test yourself with the [basic economic problem practice questions](/resources/ocr-as-level-economics-h060-the-basic-economic-problem-ocr-aslevel-economics-practice/). The [OCR AS Economics hub](/boards/ocr/as-level/economics/) and [printable checklist](/checklists/ocr/as-level/economics/) cover the rest of the course. All examples are invented.
+These notes condense most of topic 1.1 **The economic problem** from Introduction to microeconomics, Component 01, Microeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). Fuller explanations are in the [basic economic problem study guide](/resources/ocr-as-level-economics-h060-the-basic-economic-problem-ocr-aslevel-economics/); test yourself with the [basic economic problem practice questions](/resources/ocr-as-level-economics-h060-the-basic-economic-problem-ocr-aslevel-economics-practice/). The [OCR AS Economics hub](/boards/ocr/as-level/economics/) and [printable checklist](/checklists/ocr/as-level/economics/) cover the rest of the course. All examples are invented.
 
 ## Key terms
 
@@ -108,9 +108,9 @@ These notes condense the topic **The basic economic problem** from the Area of S
 
 ## Linking to later topics
 
-- Opportunity cost is the cost of each choice scarcity forces.
-- The market economy and the allocation of resources are ways of answering the three questions.
-- Market failure and sustainability return in the externalities topic.
+- Opportunity cost (topic 1.3) is the cost of each choice scarcity forces.
+- Market, planned and mixed economic systems (topic 1.2 The allocation of resources) are ways of answering the three questions.
+- Sustainability returns in topic 2.7 Market failure and externalities, and as the policy objective of sustainable development in Component 2, topic 2.2 Development.
 
 ## Self-test
 
@@ -152,4 +152,4 @@ No. The boundary between needs and wants changes with time, place and the way pe
 
 ## Official syllabus
 
-OCR *AS Level in Economics (H060)*, for first assessment in 2016, published by OCR. Topic: The basic economic problem, Area of Study Scarcity and choice, Component 01.
+OCR *AS Level in Economics (H060)*, Version 3.0 (June 2026), published by OCR. Topic 1.1 The economic problem, Introduction to microeconomics, Component 01.

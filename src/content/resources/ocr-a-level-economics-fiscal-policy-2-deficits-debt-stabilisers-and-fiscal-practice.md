@@ -15,7 +15,7 @@ syllabusTopics:
     topic: "macroeconomics-ocr-alevel-economics"
     subtopic: "implementing-policy-ocr-alevel-economics"
   - qualification: "as-level"
-    topic: "the-application-of-policy-instruments-ocr-aslevel-economics"
+    topic: "implementing-policy-ocr-aslevel-economics"
     subtopic: "fiscal-policy-ocr-aslevel-economics"
 description: "Original practice questions with worked answers on deficits, government debt, stabilisers, crowding out and fiscal rules for OCR A Level Economics (H460)."
 author: "marlbridge-academic-team"

@@ -7,8 +7,8 @@ topic: "The global context"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 7.3
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 6.2
 syllabusTopics:
   - qualification: "as-level"
     topic: "the-global-context-ocr-aslevel-economics"
@@ -29,7 +29,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover **Exchange rates** in The global context, Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification. All rates, countries and data are invented, including rates quoted for real currencies. Revise first with the [exchange rates study guide](/resources/ocr-as-level-economics-h060-exchange-rates-ocr-aslevel-economics/) and the [exchange rates revision notes](/resources/ocr-as-level-economics-h060-exchange-rates-ocr-aslevel-economics-revision-notes/).
+These questions cover topic 4.2 **Exchange rates** in The global context, Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). All rates, countries and data are invented, including rates quoted for real currencies. Revise first with the [exchange rates study guide](/resources/ocr-as-level-economics-h060-exchange-rates-ocr-aslevel-economics/) and the [exchange rates revision notes](/resources/ocr-as-level-economics-h060-exchange-rates-ocr-aslevel-economics-revision-notes/).
 
 ## Section A: Short questions
 

@@ -36,7 +36,7 @@ Unassessed resources are not counted as passing: they have no score and are excl
 | --- | --- | --- |
 | Automated structural checks: PASS / WARN / FAIL | 15246 / 813 / 0 | Not an academic accuracy check |
 | Repository-side specification check (pending-review-*.json) | 780 | Not a teacher review |
-| Accountable teacher credited (reviewStatus "reviewed", D-379) | 16059 | Not a dated line-by-line check |
+| Accountable teacher credited (reviewStatus "reviewed", D-379) | 16050 | Not a dated line-by-line check |
 | AI-assisted rubric assessment (current) | 4 | Not a teacher review; never an approval |
 | Human rubric assessment (current) | 0 | Not an approval on its own |
 | Documented teacher verification (teacher-verifications.json) | 4 | — |
@@ -87,7 +87,7 @@ Unassessed resources are not counted as passing: they have no score and are excl
 | Qualification | Resources | Scored | BLOCKED | REVERIFICATION_REQUIRED | REVISION_REQUIRED | ACADEMIC_REVIEW_PENDING | VERIFIED_APPROVED | AUTOMATED_CHECK_COMPLETE | NOT_ASSESSED |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | a-level | 6882 | 2 | 0 | 0 | 0 | 0 | 2 | 6880 | 0 |
-| as-level | 321 | 0 | 0 | 0 | 0 | 0 | 0 | 321 | 0 |
+| as-level | 315 | 0 | 0 | 0 | 0 | 0 | 0 | 315 | 0 |
 | gcse | 1606 | 0 | 0 | 0 | 0 | 0 | 0 | 1606 | 0 |
 | ib-dp | 1584 | 0 | 0 | 0 | 0 | 0 | 0 | 1584 | 0 |
 | ib-myp | 206 | 0 | 0 | 0 | 0 | 0 | 0 | 206 | 0 |
@@ -111,11 +111,11 @@ Unassessed resources are not counted as passing: they have no score and are excl
 | --- | --- | --- |
 | 1 | — | 0 |
 | 2 | — | 0 |
-| 3 | — | 0 |
+| 3 | never verified against its specification | 9 |
 | 4 | partly unverifiable against a public source | 153 |
 | 5 | states assessment details (papers, marks, durations, thresholds) | 219 |
-| 6 | questions and worked answers | 5180 |
-| 7 | numerical / scientific content | 5200 |
+| 6 | questions and worked answers | 5177 |
+| 7 | numerical / scientific content | 5194 |
 | 8 | routine | 5307 |
 
 Demand (traffic) is **unknown** for every resource: no reliable Search Console or analytics export is held in the repository, so it is not used. The ranked list is in [review-queue.md](review-queue.md).

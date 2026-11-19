@@ -7,8 +7,8 @@ topic: "Aggregate demand and aggregate supply"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 5.1
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 3.1
 syllabusTopics:
   - qualification: "as-level"
     topic: "aggregate-demand-and-aggregate-supply-ocr-aslevel-economics"
@@ -29,7 +29,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover the **Circular flow of income** in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification. All countries and data are invented. Revise first with the [circular flow study guide](/resources/ocr-as-level-economics-h060-circular-flow-of-income-ocr-aslevel-economics/) and the [circular flow revision notes](/resources/ocr-as-level-economics-h060-circular-flow-of-income-ocr-aslevel-economics-revision-notes/).
+These questions cover the **Circular flow of income**, topic 1.1 in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). All countries and data are invented. Revise first with the [circular flow study guide](/resources/ocr-as-level-economics-h060-circular-flow-of-income-ocr-aslevel-economics/) and the [circular flow revision notes](/resources/ocr-as-level-economics-h060-circular-flow-of-income-ocr-aslevel-economics-revision-notes/).
 
 ## Section A: Short questions
 

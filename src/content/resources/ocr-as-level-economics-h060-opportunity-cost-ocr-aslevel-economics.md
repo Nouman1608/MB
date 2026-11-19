@@ -3,15 +3,15 @@ title: "OCR AS Level Economics (H060): Opportunity cost"
 resourceType: "study-guides"
 subject: "economics"
 level: ["a-levels"]
-topic: "Scarcity and choice"
+topic: "Introduction to microeconomics"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
 order: 1.3
 syllabusTopics:
   - qualification: "as-level"
-    topic: "scarcity-and-choice-ocr-aslevel-economics"
+    topic: "introduction-to-microeconomics-ocr-aslevel-economics"
     subtopic: "opportunity-cost-ocr-aslevel-economics"
 description: "OCR AS Economics (H060) guide to opportunity cost: trade-offs, reading a production possibility curve, increasing costs, shifts and the concept's usefulness."
 author: "marlbridge-academic-team"
@@ -23,9 +23,9 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide follows the OCR *AS Level Economics (H060)* specification, for first assessment in 2016. It covers the topic **Opportunity cost** in the Area of Study Scarcity and choice, within Component 01, Microeconomics. Opportunity cost is the cost of every choice that scarcity forces, and the production possibility curve (PPC, also called a production possibility frontier) is the diagram that shows it. All figures below are invented.
+This guide follows the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). It covers topic 1.3 **Opportunity cost** in Introduction to microeconomics, within Component 01, Microeconomics. Opportunity cost is the cost of every choice that scarcity forces, and the production possibility curve (PPC, also called a production possibility frontier) is the diagram that shows it. All figures below are invented.
 
-The H460 A Level page on [opportunity cost, the PPF, specialisation and trade](/resources/ocr-a-level-economics-opportunity-cost-the-ppf-specialisation-and-trade/) covers the same ideas for the full A Level. This page is written for the AS papers, with a fresh PPC data set and calculation practice. Use the [opportunity cost revision notes](/resources/ocr-as-level-economics-h060-opportunity-cost-ocr-aslevel-economics-revision-notes/) for recall and the [opportunity cost practice questions](/resources/ocr-as-level-economics-h060-opportunity-cost-ocr-aslevel-economics-practice/) to test yourself. The previous topic is the [basic economic problem](/resources/ocr-as-level-economics-h060-the-basic-economic-problem-ocr-aslevel-economics/). See the [OCR AS Economics hub](/boards/ocr/as-level/economics/) and the [printable checklist](/checklists/ocr/as-level/economics/).
+The H460 A Level page on [opportunity cost, the PPF, specialisation and trade](/resources/ocr-a-level-economics-opportunity-cost-the-ppf-specialisation-and-trade/) covers the same ideas for the full A Level. This page is written for the AS papers, with a fresh PPC data set and calculation practice. Use the [opportunity cost revision notes](/resources/ocr-as-level-economics-h060-opportunity-cost-ocr-aslevel-economics-revision-notes/) for recall and the [opportunity cost practice questions](/resources/ocr-as-level-economics-h060-opportunity-cost-ocr-aslevel-economics-practice/) to test yourself. Topic 1.1 is covered in the [basic economic problem](/resources/ocr-as-level-economics-h060-the-basic-economic-problem-ocr-aslevel-economics/) guide. See the [OCR AS Economics hub](/boards/ocr/as-level/economics/) and the [printable checklist](/checklists/ocr/as-level/economics/).
 
 ## What this topic covers
 
@@ -33,8 +33,8 @@ The H460 A Level page on [opportunity cost, the PPF, specialisation and trade](/
 |---|---|
 | Opportunity cost and trade-offs | Define both and tell them apart |
 | The PPC | Draw it and use it to show scarcity, choice, opportunity cost and productive efficiency |
-| Movements and shifts | Explain movements along the curve and what shifts it |
-| Usefulness | Evaluate how useful opportunity cost is to consumers, firms and government |
+| Movements and shifts | Explain, with the aid of a diagram, movements along the curve and shifts of the curve |
+| Usefulness | Explain the usefulness of the concept of opportunity cost to consumers, firms and government |
 
 ## Opportunity cost and trade-offs
 
@@ -136,4 +136,4 @@ A point inside shows that resources are idle or wasted; a point outside cannot b
 
 ## Official syllabus
 
-OCR *AS Level in Economics (H060)*, for first assessment in 2016, published by OCR. Opportunity cost is a topic in the Area of Study Scarcity and choice, Component 01, Microeconomics.
+OCR *AS Level in Economics (H060)*, Version 3.0 (June 2026), published by OCR. Opportunity cost is topic 1.3, in Introduction to microeconomics, Component 01, Microeconomics.

@@ -3,15 +3,15 @@ title: "OCR AS Level Economics (H060): Economic growth -- Revision Notes"
 resourceType: "revision-notes"
 subject: "economics"
 level: ["a-levels"]
-topic: "Economic growth"
+topic: "Economic policy objectives"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
 order: 4.1
 syllabusTopics:
   - qualification: "as-level"
-    topic: "economic-policy-objectives-and-indicators-of-macroeconomic-performance-ocr-aslevel-economics"
+    topic: "economic-policy-objectives-ocr-aslevel-economics"
     subtopic: "economic-growth-ocr-aslevel-economics"
 description: "OCR AS Level Economics (H060) revision notes on economic growth: real and nominal GDP, growth rates, GDP per capita, the cycle, causes and a self-test."
 author: "marlbridge-academic-team"
@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-These notes condense the topic **Economic growth** in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification, for first assessment in 2016. The topic covers the policy objective, the stages of the economic cycle, real and nominal GDP, growth rates and GDP per capita, short run and long run growth, and their causes and consequences. Full explanations and worked examples are in the [economic growth study guide](/resources/ocr-as-level-economics-h060-economic-growth-ocr-aslevel-economics/). Practise with the [economic growth practice questions](/resources/ocr-as-level-economics-h060-economic-growth-ocr-aslevel-economics-practice/). All figures are invented.
+These notes condense topic 2.1 **Economic growth** in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). The topic covers the policy objective, the stages of the economic cycle, real and nominal GDP, growth rates and GDP per capita, short run and long run growth, and their causes and consequences. Full explanations and worked examples are in the [economic growth study guide](/resources/ocr-as-level-economics-h060-economic-growth-ocr-aslevel-economics/). Practise with the [economic growth practice questions](/resources/ocr-as-level-economics-h060-economic-growth-ocr-aslevel-economics-practice/). All figures are invented.
 
 ## Key terms
 

@@ -3,16 +3,25 @@ title: "OCR AS Level Economics (H060): Supply and demand and the interaction of 
 resourceType: "practice-questions"
 subject: "economics"
 level: ["a-levels"]
-topic: "How competitive markets work"
+topic: "The role of markets"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 2.3
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 2.2
 syllabusTopics:
   - qualification: "as-level"
-    topic: "how-competitive-markets-work-ocr-aslevel-economics"
-    subtopic: "supply-and-demand-and-the-interaction-of-markets-ocr-aslevel-economics"
+    topic: "the-role-of-markets-ocr-aslevel-economics"
+    subtopic: "demand-ocr-aslevel-economics"
+  - qualification: "as-level"
+    topic: "the-role-of-markets-ocr-aslevel-economics"
+    subtopic: "supply-ocr-aslevel-economics"
+  - qualification: "as-level"
+    topic: "the-role-of-markets-ocr-aslevel-economics"
+    subtopic: "consumer-and-producer-surplus-ocr-aslevel-economics"
+  - qualification: "as-level"
+    topic: "the-role-of-markets-ocr-aslevel-economics"
+    subtopic: "the-interaction-of-markets-ocr-aslevel-economics"
 description: "Twelve original OCR AS Economics (H060) questions on supply, demand, equilibrium, surplus and related markets, with full worked answers."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
@@ -29,7 +38,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover the topic Supply and demand and the interaction of markets in Component 01, Microeconomics, of the OCR *AS Level Economics (H060)* specification, for first assessment in 2016. The mark totals are our own, and all markets and figures are invented. Revise first with the [supply and demand study guide](/resources/ocr-as-level-economics-h060-supply-and-demand-and-the-interaction-of-markets-ocr-aslevel-economics/) and the [supply and demand revision notes](/resources/ocr-as-level-economics-h060-supply-and-demand-and-the-interaction-of-markets-ocr-aslevel-economics-revision-notes/). The [OCR AS Economics hub](/boards/ocr/as-level/economics/) lists the other topics.
+These questions cover topics 2.2 Demand, 2.3 Supply and 2.5 The interaction of markets, with consumer and producer surplus from topic 2.4, in Component 01, Microeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). The mark totals are our own, and all markets and figures are invented. Revise first with the [supply and demand study guide](/resources/ocr-as-level-economics-h060-supply-and-demand-and-the-interaction-of-markets-ocr-aslevel-economics/) and the [supply and demand revision notes](/resources/ocr-as-level-economics-h060-supply-and-demand-and-the-interaction-of-markets-ocr-aslevel-economics-revision-notes/). The [OCR AS Economics hub](/boards/ocr/as-level/economics/) lists the other topics.
 
 ## Questions
 
@@ -149,4 +158,4 @@ D: Wheat and barley.
 
 ## Official syllabus
 
-These questions follow the OCR *AS Level in Economics (H060)* specification, for first assessment in 2016, published by OCR. Supply and demand and the interaction of markets sits in the Area of Study How competitive markets work, Component 01, Microeconomics.
+These questions follow the OCR *AS Level in Economics (H060)* specification, Version 3.0 (June 2026), published by OCR. They cover topics 2.2 Demand, 2.3 Supply and 2.5 The interaction of markets, with consumer and producer surplus from topic 2.4, in The role of markets, Component 01, Microeconomics.

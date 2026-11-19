@@ -2655,14 +2655,14 @@ export const ASSESSMENTS: readonly Assessment[] = [
     code: 'H060',
     specStatus: 'current',
     tiers: ['not-tiered'],
-    firstAssessment: '2016',
+    firstAssessment: '2020',
     components: [
       { paperCode: 'H060/01', title: 'Microeconomics', durationMinutes: 90, marks: 60, weightingPercent: 50, assessmentType: 'written-exam', externallyAssessed: true },
       { paperCode: 'H060/02', title: 'Macroeconomics', durationMinutes: 90, marks: 60, weightingPercent: 50, assessmentType: 'written-exam', externallyAssessed: true },
     ],
-    officialSourceUrl: 'https://www.ocr.org.uk/qualifications/as-and-a-level/economics-h060-h460-from-2019/specification-at-a-glance/',
-    verifiedOn: '2026-10-27',
-    notes: 'Read from the OCR AS Level Economics (H060) specification text headed "For first assessment in 2016" (sections 2a and 3a): linear, 100% external assessment, two compulsory written papers, each 1 hour 30 minutes, 60 marks and 50% of the AS. Both components have the same format: Section A 15 multiple choice questions (15 marks), Section B data response questions of 1 to 10 marks (25 marks), Section C one 20 mark extended writing question from a choice of two titles. Both components are synoptic. A minimum of 15% of the marks target quantitative skills. Total 120 marks. One examination series a year in May/June.',
+    officialSourceUrl: 'https://www.ocr.org.uk/Images/536454-specification-accredited-as-level-gce-economics-h060.pdf',
+    verifiedOn: '2026-11-19',
+    notes: 'Read from the OCR AS Level Economics (H060) specification, Version 3.0 (June 2026), for first assessment in 2020 (sections 2a and 3a): linear, 100% external assessment, two compulsory written papers, each 1 hour 30 minutes, 60 marks and 50% of the AS. Both components have the same format: Section A 15 multiple choice questions (15 marks, about 25 minutes), Section B data response questions of 1 to 10 marks (25 marks, about 30 minutes), Section C one 20 mark extended writing question from a choice of two titles (about 30 minutes). Both components are synoptic. A minimum of 15% of the marks across the two components target quantitative skills. One examination series a year, in May/June. The format is the same as in the earlier specification for first assessment in 2016.',
     assessmentModel: 'linear',
   },
   {

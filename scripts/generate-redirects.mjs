@@ -260,6 +260,22 @@ for (const c of ['saudi-arabia', 'kuwait', 'bahrain']) {
   lines.push(`${pad(`/${c}/`)}/gulf/  301`, `${pad(`/${c}`)}/gulf/  301`);
 }
 
+// D-505 (19 Nov 2026) -- OCR AS Economics H060 moved to the Version 3.0
+// specification. Five flashcard topic pages took new slugs; each old page
+// goes to the Version 3.0 area that now holds its cards.
+lines.push('', '# OCR AS Economics H060 flashcard topics renamed for Version 3.0 (D-505)');
+for (const [oldTopic, newTopic] of [
+  ['scarcity-and-choice', 'introduction-to-microeconomics'],
+  ['how-competitive-markets-work', 'the-role-of-markets'],
+  ['market-failure-and-government-intervention', 'the-role-of-markets'],
+  ['economic-policy-objectives-and-indicators-of-macroeconomic-performance', 'economic-policy-objectives'],
+  ['the-application-of-policy-instruments', 'implementing-policy'],
+]) {
+  const from = `/flashcards/ocr/as-level/economics/${oldTopic}-ocr-aslevel-economics`;
+  const to = `/flashcards/ocr/as-level/economics/${newTopic}-ocr-aslevel-economics/`;
+  lines.push(`${pad(`${from}/`)}${to}  301`, `${pad(from)}${to}  301`);
+}
+
 lines.push('', '# Syllabus/specification-code discovery: /syllabus/<CODE>/ -> canonical hub (WS1)');
 for (const { code, hubPath } of codeEntries) {
   lines.push(`${pad(`/syllabus/${code}/`)}${hubPath}  301`);
