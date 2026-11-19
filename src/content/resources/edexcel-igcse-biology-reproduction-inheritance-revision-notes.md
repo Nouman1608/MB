@@ -176,7 +176,7 @@ concretely to antibiotic resistance increasing within bacterial populations, mak
 to treat.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--02-mutation.webp" width="900" height="1215" alt="Core: mutation is genetic change that forms new alleles; ionising radiation and some chemicals raise its rate. Extended: a gene mutation changes one base in the DNA sequence, which can change the protein shape; sources of variation are mutation, meiosis, random mating and random fertilisation." loading="lazy">
+  <img src="/images/learning/biology/igcse-edexcel-mutation-variation.svg" width="900" height="1215" alt="Mutation is genetic change that forms new alleles; the note that ionising radiation and some chemicals raise its rate is marked Paper 2 only. Middle, Paper 2 only: a gene mutation changes one base in the DNA sequence, which can change the protein shape. Sources of variation are mutation, meiosis and random fertilisation; random mating is greyed as not required by Edexcel." loading="lazy">
   <figcaption>Mutation forms new alleles; radiation and some chemicals raise the rate.</figcaption>
 </figure>
 

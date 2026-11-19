@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1170" viewBox="0 0 1800 2340" role="img" aria-labelledby="title desc"><title id="title">Electrolysis of molten lead(II) bromide (OxfordAQA International GCSE Chemistry)</title><desc id="desc">A crucible of molten lead(II) bromide with two graphite electrodes joined to a power supply. Pb2+ ions move to the cathode (negative), where lead forms as a silvery molten metal; Br- ions move to the anode (positive), where bromine forms as red-brown fumes. Gold arrows show electrons flowing from the supply to the cathode and back from the anode. Two boxes give the half-equations, Pb2+ + 2e- → Pb (reduction) and 2Br- → Br2 + 2e- (oxidation). No tier labels.</desc><rect width="1800" height="2340" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="113" font-size="66" font-weight="700" fill="#1E2B47" text-anchor="middle">Electrolysis of molten lead(II) bromide</text>
+<text x="900" y="187" font-size="44" fill="#4B5B72" text-anchor="middle">Ions move; electrons carry charge in the wires</text>
+<path d="M439 620 V379 H852 M948 379 H1360 V620" fill="none" stroke="#1E2B47" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="844" y="348" width="16" height="64" rx="6" fill="#1E2B47"/>
+<line x1="948" y1="322" x2="948" y2="435" stroke="#1E2B47" stroke-width="6" stroke-linecap="round"/>
+<text x="851" y="312" font-size="52" font-weight="700" fill="#1E2B47" text-anchor="middle">−</text>
+<text x="948" y="290" font-size="52" font-weight="700" fill="#1E2B47" text-anchor="middle">+</text>
+<text x="899" y="489" font-size="44" fill="#4B5B72" text-anchor="middle">power supply</text>
+<line x1="439" y1="445" x2="439" y2="534" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/><polygon points="439,584 415.6,532 462.4,532" fill="#8A6A0C"/>
+<text x="374" y="521" font-size="46" font-weight="700" fill="#8A6A0C" text-anchor="middle" xml:space="preserve"><tspan>e</tspan><tspan dy="-17.5" font-size="31.3">−</tspan></text>
+<line x1="1360" y1="573" x2="1360" y2="487" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/><polygon points="1360,437 1383.4,489 1336.6,489" fill="#8A6A0C"/>
+<text x="1422" y="521" font-size="46" font-weight="700" fill="#8A6A0C" text-anchor="middle" xml:space="preserve"><tspan>e</tspan><tspan dy="-17.5" font-size="31.3">−</tspan></text>
+<path d="M199 878 V1479 Q199 1519 239 1519 H1558 Q1598 1519 1598 1479 V878 Z" fill="#F5E5B5"/>
+<line x1="199" y1="878" x2="1598" y2="878" stroke="#1E2B47" stroke-width="3" stroke-dasharray="14 10"/>
+<path d="M199 801 V1479 Q199 1519 239 1519 H1558 Q1598 1519 1598 1479 V801" fill="none" stroke="#1E2B47" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="402" y="618" width="75" height="763" rx="6" fill="#3A4558" stroke="#1E2B47" stroke-width="4"/>
+<rect x="1322" y="618" width="75" height="763" rx="6" fill="#3A4558" stroke="#1E2B47" stroke-width="4"/>
+<text x="94" y="698" font-size="50" font-weight="700" fill="#1E2B47">cathode (−)</text>
+<text x="1427" y="698" font-size="50" font-weight="700" fill="#1E2B47">anode (+)</text>
+<text x="900" y="962" font-size="48" fill="#1E2B47" text-anchor="middle" xml:space="preserve"><tspan>molten PbBr</tspan><tspan dy="13.4" font-size="32.6">2</tspan><tspan dy="-13.4"> (electrolyte)</tspan></text>
+<line x1="589" y1="1078" x2="558" y2="1078" stroke="#8A6A0C" stroke-width="7" stroke-linecap="round"/><polygon points="520,1078 560,1054 560,1102" fill="#8A6A0C"/>
+<circle cx="638" cy="1078" r="49" fill="#F2E6B7" stroke="#8A6A0C" stroke-width="5"/>
+<text x="638" y="1093" font-size="40" font-weight="700" fill="#8A6A0C" text-anchor="middle">2+</text>
+<line x1="776" y1="1078" x2="745" y2="1078" stroke="#8A6A0C" stroke-width="7" stroke-linecap="round"/><polygon points="707,1078 747,1054 747,1102" fill="#8A6A0C"/>
+<circle cx="825" cy="1078" r="49" fill="#F2E6B7" stroke="#8A6A0C" stroke-width="5"/>
+<text x="825" y="1093" font-size="40" font-weight="700" fill="#8A6A0C" text-anchor="middle">2+</text>
+<line x1="1062" y1="1078" x2="1093" y2="1078" stroke="#2F6B63" stroke-width="7" stroke-linecap="round"/><polygon points="1131,1078 1091,1102 1091,1054" fill="#2F6B63"/>
+<circle cx="1013" cy="1078" r="49" fill="#DDEBE8" stroke="#2F6B63" stroke-width="5"/>
+<text x="1013" y="1093" font-size="44" font-weight="700" fill="#2F6B63" text-anchor="middle">−</text>
+<line x1="1248" y1="1078" x2="1279" y2="1078" stroke="#2F6B63" stroke-width="7" stroke-linecap="round"/><polygon points="1317,1078 1277,1102 1277,1054" fill="#2F6B63"/>
+<circle cx="1199" cy="1078" r="49" fill="#DDEBE8" stroke="#2F6B63" stroke-width="5"/>
+<text x="1199" y="1093" font-size="44" font-weight="700" fill="#2F6B63" text-anchor="middle">−</text>
+<line x1="589" y1="1218" x2="558" y2="1218" stroke="#8A6A0C" stroke-width="7" stroke-linecap="round"/><polygon points="520,1218 560,1194 560,1242" fill="#8A6A0C"/>
+<circle cx="638" cy="1218" r="49" fill="#F2E6B7" stroke="#8A6A0C" stroke-width="5"/>
+<text x="638" y="1233" font-size="40" font-weight="700" fill="#8A6A0C" text-anchor="middle">2+</text>
+<line x1="875" y1="1218" x2="906" y2="1218" stroke="#2F6B63" stroke-width="7" stroke-linecap="round"/><polygon points="944,1218 904,1242 904,1194" fill="#2F6B63"/>
+<circle cx="826" cy="1218" r="49" fill="#DDEBE8" stroke="#2F6B63" stroke-width="5"/>
+<text x="826" y="1233" font-size="44" font-weight="700" fill="#2F6B63" text-anchor="middle">−</text>
+<line x1="1062" y1="1218" x2="1093" y2="1218" stroke="#2F6B63" stroke-width="7" stroke-linecap="round"/><polygon points="1131,1218 1091,1242 1091,1194" fill="#2F6B63"/>
+<circle cx="1013" cy="1218" r="49" fill="#DDEBE8" stroke="#2F6B63" stroke-width="5"/>
+<text x="1013" y="1233" font-size="44" font-weight="700" fill="#2F6B63" text-anchor="middle">−</text>
+<line x1="1248" y1="1218" x2="1279" y2="1218" stroke="#2F6B63" stroke-width="7" stroke-linecap="round"/><polygon points="1317,1218 1277,1242 1277,1194" fill="#2F6B63"/>
+<circle cx="1199" cy="1218" r="49" fill="#DDEBE8" stroke="#2F6B63" stroke-width="5"/>
+<text x="1199" y="1233" font-size="44" font-weight="700" fill="#2F6B63" text-anchor="middle">−</text>
+<line x1="589" y1="1357" x2="558" y2="1357" stroke="#8A6A0C" stroke-width="7" stroke-linecap="round"/><polygon points="520,1357 560,1333 560,1381" fill="#8A6A0C"/>
+<circle cx="638" cy="1357" r="49" fill="#F2E6B7" stroke="#8A6A0C" stroke-width="5"/>
+<text x="638" y="1372" font-size="40" font-weight="700" fill="#8A6A0C" text-anchor="middle">2+</text>
+<line x1="875" y1="1357" x2="906" y2="1357" stroke="#2F6B63" stroke-width="7" stroke-linecap="round"/><polygon points="944,1357 904,1381 904,1333" fill="#2F6B63"/>
+<circle cx="826" cy="1357" r="49" fill="#DDEBE8" stroke="#2F6B63" stroke-width="5"/>
+<text x="826" y="1372" font-size="44" font-weight="700" fill="#2F6B63" text-anchor="middle">−</text>
+<line x1="1062" y1="1357" x2="1093" y2="1357" stroke="#2F6B63" stroke-width="7" stroke-linecap="round"/><polygon points="1131,1357 1091,1381 1091,1333" fill="#2F6B63"/>
+<circle cx="1013" cy="1357" r="49" fill="#DDEBE8" stroke="#2F6B63" stroke-width="5"/>
+<text x="1013" y="1372" font-size="44" font-weight="700" fill="#2F6B63" text-anchor="middle">−</text>
+<line x1="1248" y1="1357" x2="1279" y2="1357" stroke="#2F6B63" stroke-width="7" stroke-linecap="round"/><polygon points="1317,1357 1277,1381 1277,1333" fill="#2F6B63"/>
+<circle cx="1199" cy="1357" r="49" fill="#DDEBE8" stroke="#2F6B63" stroke-width="5"/>
+<text x="1199" y="1372" font-size="44" font-weight="700" fill="#2F6B63" text-anchor="middle">−</text>
+<circle cx="440" cy="1416" r="15" fill="#8E9AAA" stroke="#1E2B47" stroke-width="3"/>
+<ellipse cx="440" cy="1484" rx="125" ry="26" fill="#9AA6B4" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="1536" cy="755" r="23" fill="#E8C2A6" stroke="#B9632F" stroke-width="4"/>
+<circle cx="1472" cy="819" r="26" fill="#E8C2A6" stroke="#B9632F" stroke-width="4"/>
+<circle cx="1503" cy="931" r="21" fill="#E8C2A6" stroke="#B9632F" stroke-width="4"/>
+<circle cx="1443" cy="1039" r="25" fill="#E8C2A6" stroke="#B9632F" stroke-width="4"/>
+<circle cx="1495" cy="1158" r="21" fill="#E8C2A6" stroke="#B9632F" stroke-width="4"/>
+<circle cx="1436" cy="1279" r="25" fill="#E8C2A6" stroke="#B9632F" stroke-width="4"/>
+<text x="440" y="1619" font-size="50" font-weight="700" fill="#1E2B47" text-anchor="middle">lead forms</text>
+<text x="440" y="1679" font-size="44" fill="#4B5B72" text-anchor="middle">silvery molten metal</text>
+<text x="1360" y="1619" font-size="50" font-weight="700" fill="#1E2B47" text-anchor="middle">bromine forms</text>
+<text x="1360" y="1679" font-size="44" fill="#4B5B72" text-anchor="middle">red-brown fumes</text>
+<circle cx="139" cy="1783" r="36" fill="#F2E6B7" stroke="#8A6A0C" stroke-width="5"/>
+<text x="197" y="1800" font-size="46" fill="#1E2B47" xml:space="preserve"><tspan>Pb</tspan><tspan dy="-17.5" font-size="31.3">2+</tspan><tspan dy="17.5"> ion</tspan></text>
+<circle cx="579" cy="1783" r="36" fill="#DDEBE8" stroke="#2F6B63" stroke-width="5"/>
+<text x="636" y="1800" font-size="46" fill="#1E2B47" xml:space="preserve"><tspan>Br</tspan><tspan dy="-17.5" font-size="31.3">−</tspan><tspan dy="17.5"> ion</tspan></text>
+<text x="1718" y="1888" font-size="44" fill="#4B5B72" text-anchor="end">arrows: ions move to the opposite electrode</text>
+<text x="80" y="1981" font-size="46" font-weight="700" fill="#8A6A0C">Half-equations</text>
+<text x="537" y="1981" font-size="44" fill="#4B5B72"></text>
+<rect x="80" y="2038" width="800" height="241" rx="24" fill="#FFFFFF" stroke="#8A6A0C" stroke-width="6"/>
+<text x="121" y="2110" font-size="46" font-weight="700" fill="#8A6A0C">at the cathode</text>
+<text x="121" y="2186" font-size="56" font-weight="700" fill="#1E2B47" xml:space="preserve"><tspan>Pb</tspan><tspan dy="-21.3" font-size="38.1">2+</tspan><tspan dy="21.3"> + 2e</tspan><tspan dy="-21.3" font-size="38.1">−</tspan><tspan dy="21.3"> → Pb</tspan></text>
+<text x="121" y="2256" font-size="44" fill="#4B5B72">gains electrons: reduction</text>
+<rect x="920" y="2038" width="800" height="241" rx="24" fill="#FFFFFF" stroke="#8A6A0C" stroke-width="6"/>
+<text x="961" y="2110" font-size="46" font-weight="700" fill="#8A6A0C">at the anode</text>
+<text x="961" y="2186" font-size="56" font-weight="700" fill="#1E2B47" xml:space="preserve"><tspan>2Br</tspan><tspan dy="-21.3" font-size="38.1">−</tspan><tspan dy="21.3"> → Br</tspan><tspan dy="15.7" font-size="38.1">2</tspan><tspan dy="-15.7"> + 2e</tspan><tspan dy="-21.3" font-size="38.1">−</tspan></text>
+<text x="961" y="2256" font-size="44" fill="#4B5B72">loses electrons: oxidation</text></g></svg>

@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1140" viewBox="0 0 1800 2280" role="img" aria-labelledby="title desc"><title id="title">Digestive enzymes and their products (OxfordAQA International GCSE Biology)</title><desc id="desc">Three rows show a large insoluble molecule, an enzyme and the small soluble products: amylase turns starch into simple sugars; protease turns protein into amino acids; lipase turns fat into glycerol and fatty acids. A further panel, marked not required by OxfordAQA, shows amylase turning starch into maltose and maltase, at the lining of the gut, turning maltose into glucose.</desc><rect width="1800" height="2280" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="105" font-size="68" font-weight="700" fill="#1E2B47" text-anchor="middle">Enzymes cut big molecules</text>
+<text x="900" y="180" font-size="44" fill="#4B5B72" text-anchor="middle">into small, soluble ones</text>
+<text x="62" y="319" font-size="46" font-weight="700" fill="#4B5B72">large, insoluble</text>
+<text x="1738" y="319" font-size="46" font-weight="700" fill="#4B5B72" text-anchor="end">small, soluble</text>
+<rect x="40" y="380" width="1721" height="400" rx="30" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<line x1="100" y1="559" x2="521" y2="559" stroke="#1E2B47" stroke-width="5" stroke-linecap="round"/>
+<circle cx="100" cy="559" r="33" fill="#74ABA5" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="184" cy="559" r="33" fill="#74ABA5" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="268" cy="559" r="33" fill="#74ABA5" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="352" cy="559" r="33" fill="#74ABA5" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="437" cy="559" r="33" fill="#74ABA5" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="521" cy="559" r="33" fill="#74ABA5" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="1199" cy="491" r="33" fill="#74ABA5" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="1379" cy="491" r="33" fill="#74ABA5" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="1558" cy="491" r="33" fill="#74ABA5" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="1199" cy="620" r="33" fill="#74ABA5" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="1379" cy="620" r="33" fill="#74ABA5" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="1558" cy="620" r="33" fill="#74ABA5" stroke="#1E2B47" stroke-width="5"/>
+<path d="M901 531 L849 479 L797 531 A74 74 0 1 1 901 531 Z" fill="#6FA569" stroke="#1E2B47" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="655" y1="599" x2="979" y2="599" stroke="#1E2B47" stroke-width="8" stroke-linecap="round"/><polygon points="1037,599 977,629 977,569" fill="#1E2B47"/>
+<text x="849" y="696" font-size="50" font-weight="700" fill="#2F6B2A" text-anchor="middle">amylase</text>
+<text x="80" y="741" font-size="52" font-weight="700" fill="#1E2B47">Starch</text>
+<text x="1170" y="741" font-size="50" font-weight="700" fill="#2F6B63">simple sugars</text>
+<rect x="40" y="840" width="1721" height="400" rx="30" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<line x1="100" y1="1019" x2="521" y2="1019" stroke="#1E2B47" stroke-width="5" stroke-linecap="round"/>
+<circle cx="100" cy="1019" r="33" fill="#E8962E" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="184" cy="1019" r="33" fill="#74ABA5" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="268" cy="1019" r="33" fill="#B83A2A" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="352" cy="1019" r="33" fill="#3E79AA" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="437" cy="1019" r="33" fill="#E8962E" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="521" cy="1019" r="33" fill="#74ABA5" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="1199" cy="951" r="33" fill="#E8962E" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="1379" cy="951" r="33" fill="#74ABA5" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="1558" cy="951" r="33" fill="#B83A2A" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="1199" cy="1080" r="33" fill="#3E79AA" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="1379" cy="1080" r="33" fill="#E8962E" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="1558" cy="1080" r="33" fill="#74ABA5" stroke="#1E2B47" stroke-width="5"/>
+<path d="M901 991 L849 939 L797 991 A74 74 0 1 1 901 991 Z" fill="#6FA569" stroke="#1E2B47" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="655" y1="1059" x2="979" y2="1059" stroke="#1E2B47" stroke-width="8" stroke-linecap="round"/><polygon points="1037,1059 977,1089 977,1029" fill="#1E2B47"/>
+<text x="849" y="1156" font-size="50" font-weight="700" fill="#2F6B2A" text-anchor="middle">protease</text>
+<text x="80" y="1201" font-size="52" font-weight="700" fill="#1E2B47">Protein</text>
+<text x="1170" y="1201" font-size="50" font-weight="700" fill="#2F6B63">amino acids</text>
+<rect x="40" y="1300" width="1721" height="400" rx="30" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<rect x="100" y="1382" width="37" height="197" rx="16" fill="#D6B22F" stroke="#1E2B47" stroke-width="5"/>
+<path d="M137 1412 C250 1390 340 1442 460 1418" fill="none" stroke="#C0402A" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M137 1480 C250 1458 340 1510 460 1486" fill="none" stroke="#C0402A" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M137 1549 C250 1527 340 1579 460 1555" fill="none" stroke="#C0402A" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1171" y="1382" width="37" height="197" rx="16" fill="#D6B22F" stroke="#1E2B47" stroke-width="5"/>
+<path d="M1277 1412 C1340 1396 1400 1430 1482 1414" fill="none" stroke="#C0402A" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1277 1480 C1340 1464 1400 1498 1482 1482" fill="none" stroke="#C0402A" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1277 1549 C1340 1533 1400 1567 1482 1551" fill="none" stroke="#C0402A" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M901 1451 L849 1399 L797 1451 A74 74 0 1 1 901 1451 Z" fill="#6FA569" stroke="#1E2B47" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="655" y1="1519" x2="979" y2="1519" stroke="#1E2B47" stroke-width="8" stroke-linecap="round"/><polygon points="1037,1519 977,1549 977,1489" fill="#1E2B47"/>
+<text x="849" y="1616" font-size="50" font-weight="700" fill="#2F6B2A" text-anchor="middle">lipase</text>
+<text x="80" y="1661" font-size="52" font-weight="700" fill="#1E2B47">Fat</text>
+<text x="1142" y="1661" font-size="46" font-weight="700" fill="#2F6B63">glycerol + fatty acids</text>
+<rect x="40" y="1759" width="1721" height="461" rx="30" fill="#F2E6B7" stroke="#1E2B47" stroke-width="5"/>
+<rect x="80" y="1795" width="608" height="64" rx="32" fill="#6B7785"/><text x="384" y="1841.4" font-size="40" font-weight="700" fill="#FFFFFF" text-anchor="middle">Not required by OxfordAQA</text>
+<line x1="120" y1="1980" x2="479" y2="1980" stroke="#1E2B47" stroke-width="5" stroke-linecap="round"/>
+<circle cx="120" cy="1980" r="29" fill="#74ABA5" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="191.8" cy="1980" r="29" fill="#74ABA5" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="263.6" cy="1980" r="29" fill="#74ABA5" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="335.4" cy="1980" r="29" fill="#74ABA5" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="407.2" cy="1980" r="29" fill="#74ABA5" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="479" cy="1980" r="29" fill="#74ABA5" stroke="#1E2B47" stroke-width="5"/>
+<text x="669" y="1927" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">amylase</text>
+<line x1="576" y1="1980" x2="710" y2="1980" stroke="#1E2B47" stroke-width="7" stroke-linecap="round"/><polygon points="758,1980 708,2005 708,1955" fill="#1E2B47"/>
+<circle cx="860" cy="1980" r="29" fill="#74ABA5" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="912" cy="1980" r="29" fill="#74ABA5" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="983" cy="1980" r="29" fill="#74ABA5" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="1035" cy="1980" r="29" fill="#74ABA5" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="1106" cy="1980" r="29" fill="#74ABA5" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="1158" cy="1980" r="29" fill="#74ABA5" stroke="#1E2B47" stroke-width="5"/>
+<text x="1340" y="1927" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">maltase</text>
+<line x1="1277" y1="1980" x2="1356" y2="1980" stroke="#1E2B47" stroke-width="7" stroke-linecap="round"/><polygon points="1400,1980 1354,2003 1354,1957" fill="#1E2B47"/>
+<text x="1279" y="2046" font-size="42" fill="#4B5B72" text-anchor="middle">at gut lining</text>
+<circle cx="1480" cy="1938" r="29" fill="#74ABA5" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="1480" cy="2020" r="29" fill="#74ABA5" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="1560" cy="1938" r="29" fill="#74ABA5" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="1560" cy="2020" r="29" fill="#74ABA5" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="1640" cy="1938" r="29" fill="#74ABA5" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="1640" cy="2020" r="29" fill="#74ABA5" stroke="#1E2B47" stroke-width="5"/>
+<text x="197" y="2123" font-size="48" font-weight="700" fill="#1E2B47" text-anchor="middle">starch</text>
+<text x="958" y="2123" font-size="48" font-weight="700" fill="#1E2B47" text-anchor="middle">maltose</text>
+<text x="1578" y="2123" font-size="48" font-weight="700" fill="#1E2B47" text-anchor="middle">glucose</text></g></svg>

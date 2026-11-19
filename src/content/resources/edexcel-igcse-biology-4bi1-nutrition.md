@@ -84,7 +84,7 @@ Why it matters: most food energy in the ecosystems studied here enters food chai
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--01-photosynthesis-inputs-outputs.webp" width="900" height="1290" alt="A leaf takes in light energy, carbon dioxide from the air and water from the roots. Chlorophyll in chloroplasts transfers light energy into chemical energy. The leaf makes glucose and gives out oxygen. Word equation shown; Extended: 6CO2 + 6H2O gives C6H12O6 + 6O2." loading="lazy">
+  <img src="/images/learning/biology/gcse-shared-photosynthesis-inputs-outputs.svg" width="900" height="1290" alt="A leaf takes in light energy, carbon dioxide from the air and water from the roots. Chlorophyll in chloroplasts transfers light energy into chemical energy. The leaf makes glucose and gives out oxygen. Word equation shown; symbol equation: 6CO2 + 6H2O gives C6H12O6 + 6O2." loading="lazy">
   <figcaption>Raw materials go in, glucose and oxygen come out, using light energy absorbed by chlorophyll.</figcaption>
 </figure>
 
@@ -286,7 +286,7 @@ Digestion turns large insoluble molecules into small soluble ones.
 Amylase (from the salivary glands and pancreas) breaks starch into maltose. **Maltase**, on the lining of the small intestine, breaks maltose into glucose. Proteases act in the stomach and small intestine; lipases act in the small intestine.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-human-nutrition--06-enzymes-products.webp" width="900" height="1140" alt="Three rows show a large insoluble molecule, an enzyme, and the small soluble products. Amylase turns starch into simple sugars; protease turns protein into amino acids; lipase turns fat into glycerol and fatty acids. An Extended panel shows amylase turning starch into maltose and maltase, at the lining of the small intestine, turning maltose into glucose." loading="lazy">
+  <img src="/images/learning/biology/igcse-edexcel-digestive-enzymes-products.svg" width="900" height="1140" alt="Three rows show a large insoluble molecule, an enzyme, and the small soluble products. Amylase turns starch into simple sugars; protease turns protein into amino acids; lipase turns fat into glycerol and fatty acids. A further panel shows amylase turning starch into maltose and maltase, at the lining of the small intestine, turning maltose into glucose." loading="lazy">
   <figcaption>Each enzyme turns one large insoluble molecule into small soluble products.</figcaption>
 </figure>
 
@@ -307,7 +307,7 @@ Amylase (from the salivary glands and pancreas) breaks starch into maltose. **Ma
 2. **Emulsifying lipids.** Bile breaks large fat drops into tiny droplets, giving a larger surface area for lipase, so lipids are digested faster. No bonds are broken: the droplets are still lipid.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-human-nutrition--05-physical-digestion.webp" width="900" height="1130" alt="Top: chewing and churning break one large cube of food into eight small cubes; the surface area doubles. Bottom, Extended: bile breaks one large fat droplet into eight small droplets, again doubling the surface area so twice as many lipase molecules can reach the fat. The fat molecules themselves are not changed." loading="lazy">
+  <img src="/images/learning/biology/igcse-shared-intl-physical-digestion.svg" width="900" height="1130" alt="Top: chewing and churning break one large cube of food into eight small cubes; the surface area doubles. Bottom: bile breaks one large fat droplet into eight small droplets, again doubling the surface area so twice as many lipase molecules can reach the fat. The fat molecules themselves are not changed." loading="lazy">
   <figcaption>Smaller pieces give more surface area for enzymes, and bile does this to fat without changing the molecules.</figcaption>
 </figure>
 

@@ -80,7 +80,7 @@ Rearrangements: v = c / n, sin r = sin i / n, sin c = 1 / n.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-waves--03-refraction-block.webp" width="900" height="940" alt="A ray at 45 degrees in air bends towards the normal to 28 degrees in glass (n = 1.5) and leaves parallel, bending away. n = sin i / sin r = 1.50 (Extended)." loading="lazy">
+  <img src="/images/learning/physics/igcse-shared-intl-refraction-block.svg" width="900" height="940" alt="A ray at 45 degrees in air bends towards the normal to 28 degrees in glass (n = 1.5) and leaves parallel, bending away. n = sin i / sin r = 1.50." loading="lazy">
   <figcaption>Light slows and bends towards the normal entering glass, and speeds up and bends away leaving it.</figcaption>
 </figure>
 

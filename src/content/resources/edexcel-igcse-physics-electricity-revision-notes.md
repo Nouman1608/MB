@@ -122,8 +122,8 @@ A volt is a joule per coulomb (1 V = 1 J/C). A lamp lighting or an LED glowing i
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--02-circuit-symbols.webp" width="900" height="986" alt="Fourteen standard circuit symbols with names: cell, battery, open switch, fixed resistor, variable resistor, lamp, ammeter, voltmeter, fuse, thermistor, LDR, motor, and (Extended) diode and LED." loading="lazy">
-  <figcaption>The standard symbols to draw and recognise; diode and LED are Extended only.</figcaption>
+  <img src="/images/learning/physics/igcse-edexcel-circuit-symbols.svg" width="900" height="986" alt="Fourteen standard circuit symbols with names: cell, battery, open switch, fixed resistor, variable resistor, lamp, ammeter, voltmeter, fuse, thermistor, LDR, motor, diode and LED, all in the 4PH1 list." loading="lazy">
+  <figcaption>The standard symbols to draw and recognise.</figcaption>
 </figure>
 
 

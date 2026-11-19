@@ -292,8 +292,8 @@ spot 2: Rf = 5.6 / 8.0 = 0.70  → blue
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--03-chromatography-method.webp" width="900" height="1185" alt="Paper with a pencil line and mixture spot stands in a little solvent. Later the solvent front has risen and three coloured spots have separated. A lower strip shows colourless spots invisible until a locating agent is sprayed (Extended)." loading="lazy">
-  <figcaption>The solvent carries the components different distances up the paper; colourless spots need a locating agent (Extended).</figcaption>
+  <img src="/images/learning/chemistry/igcse-shared-intl-chromatography-method.svg" width="900" height="1185" alt="Paper with a pencil line and mixture spot stands in a little solvent. Later the solvent front has risen and three coloured spots have separated. A lower strip shows colourless spots invisible until a locating agent is sprayed, marked not required by Edexcel or OxfordAQA." loading="lazy">
+  <figcaption>The solvent carries the components different distances up the paper; colourless spots need a locating agent (not required by Edexcel).</figcaption>
 </figure>
 
 <figure class="topic-figure">

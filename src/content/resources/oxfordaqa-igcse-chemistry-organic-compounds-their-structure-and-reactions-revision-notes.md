@@ -106,7 +106,7 @@ H - C - C - C - O - H
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--01-displayed-formula.webp" width="900" height="1120" alt="Ethanol written three ways: molecular formula C2H6O, structural formula CH3CH2OH (Extended), and the displayed formula showing every atom and bond, with labels that carbon has 4 bonds, oxygen 2 and hydrogen 1." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-oxfordaqa-displayed-formula.svg" width="900" height="1120" alt="Ethanol written three ways: molecular formula C2H6O, structural formula CH3CH2OH, and the displayed formula showing every atom and bond, with labels that carbon has 4 bonds, oxygen 2 and hydrogen 1." loading="lazy">
   <figcaption>A displayed formula shows every atom and every bond, unlike molecular or structural formulae.</figcaption>
 </figure>
 

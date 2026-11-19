@@ -209,12 +209,12 @@ Electrolysis of **molten** compounds gives the metal and the non-metal directly,
 **Answers:** 1. Ammonia has a lower relative molecular mass than hydrogen chloride, so it diffuses faster and travels further before they meet. 2. Chemical properties depend on the arrangement of electrons, which is the same for all isotopes of an element; only the number of neutrons differs. 3. Each carbon in graphite forms only three covalent bonds, leaving one delocalised electron per atom free to move along the layers; in diamond all four outer electrons are used in bonding. 4. The reaction may not go to completion because it is reversible; some product may be lost during separation and purification; some reactants may react in unexpected side reactions. 5. The cathode is negative; cations are attracted to it and are reduced by gaining electrons.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--01-molten-electrolysis.webp" width="900" height="1170" alt="A crucible of molten lead(II) bromide has two graphite electrodes joined to a power supply. Pb2+ ions move to the cathode and form lead; Br- ions move to the anode and form bromine. Electrons flow from the supply to the cathode and back from the anode (Extended), with the two half-equations." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-edexcel-molten-electrolysis.svg" width="900" height="1170" alt="A crucible of molten lead(II) bromide has two graphite electrodes joined to a power supply. Pb2+ ions move to the cathode and form lead; Br- ions move to the anode and form bromine. Electrons flow from the supply to the cathode and back from the anode, with the two half-equations. The whole figure is marked Paper 2 only." loading="lazy">
   <figcaption>Ions carry charge through the melt and electrons through the wires; lead forms at the cathode and bromine at the anode.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--03-aqueous-rules.webp" width="900" height="1215" alt="At the cathode, a reactivity ladder shows that metals above hydrogen stay dissolved and hydrogen forms, while copper and silver below hydrogen form the metal. At the anode a concentrated halide gives a halogen, but a dilute halide or none gives oxygen (Extended)." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-edexcel-aqueous-electrolysis-rules.svg" width="900" height="1215" alt="At the cathode, a reactivity ladder shows that metals above hydrogen stay dissolved and hydrogen forms, while copper and silver below hydrogen form the metal. At the anode a concentrated halide gives a halogen, but a dilute halide or none gives oxygen. The whole figure is marked Paper 2 only." loading="lazy">
   <figcaption>Hydrogen forms unless the metal is below it in reactivity; a halide is discharged only if concentrated, otherwise oxygen forms.</figcaption>
 </figure>
 

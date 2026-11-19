@@ -221,7 +221,7 @@ Typical optima: many human enzymes about 37 °C; stomach protease about pH 2; sa
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--06-ph-graph.webp" width="900" height="1000" alt="Sketch graph of enzyme activity against pH 0 to 14. Pepsin peaks in acidic conditions, trypsin in alkaline conditions; each falls on both sides of its optimum and is denatured far from it. Below, three small pictures (Extended) show the substrate fitting at the optimum, fitting less well when pH moves away, and not fitting at extreme pH." loading="lazy">
+  <img src="/images/learning/biology/gcse-shared-enzyme-ph-graph.svg" width="900" height="1000" alt="Sketch graph of enzyme activity against pH 0 to 14. Pepsin peaks in acidic conditions, trypsin in alkaline conditions; each falls on both sides of its optimum and is denatured far from it. Below, three small pictures show the substrate fitting at the optimum, fitting less well when pH moves away, and not fitting at extreme pH." loading="lazy">
   <figcaption>Each enzyme has its own optimum pH; away from it the active site changes shape.</figcaption>
 </figure>
 
