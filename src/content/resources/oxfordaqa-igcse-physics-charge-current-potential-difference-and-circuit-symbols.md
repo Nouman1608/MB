@@ -235,8 +235,8 @@ An ammeter measures current, so it goes in the loop where the current is to be m
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--02-circuit-symbols.webp" width="900" height="986" alt="Fourteen standard circuit symbols with names: cell, battery, open switch, fixed resistor, variable resistor, lamp, ammeter, voltmeter, fuse, thermistor, LDR, motor, and (Extended) diode and LED." loading="lazy">
-  <figcaption>The standard symbols to draw and recognise; diode and LED are Extended only.</figcaption>
+  <img src="/images/learning/physics/igcse-oxfordaqa-circuit-symbols.svg" width="900" height="986" alt="Fourteen standard circuit symbols with names: cell, battery, open switch, fixed resistor, variable resistor, lamp, ammeter, voltmeter, fuse, thermistor, LDR, motor, diode and LED; the motor is greyed as not on the 9203 list." loading="lazy">
+  <figcaption>The standard symbols to recognise; the 9203 specification draws the diode, LED and LDR inside a circle.</figcaption>
 </figure>
 
 <figure class="topic-figure">

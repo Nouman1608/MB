@@ -66,7 +66,7 @@ Short recall notes for sections 3.6.1 and 3.6.2 a to c of the OxfordAQA Internat
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--02-mutation.webp" width="900" height="1215" alt="Core: mutation is genetic change that forms new alleles; ionising radiation and some chemicals raise its rate. Extended: a gene mutation changes one base in the DNA sequence, which can change the protein shape; sources of variation are mutation, meiosis, random mating and random fertilisation." loading="lazy">
+  <img src="/images/learning/biology/igcse-oxfordaqa-mutation-variation.svg" width="900" height="1215" alt="Mutation is genetic change that forms new alleles; the note that ionising radiation and some chemicals raise its rate is marked not required by OxfordAQA, as is the middle panel, where one changed base in the DNA sequence changes the protein shape. Sources of variation are mutation, meiosis and random fertilisation; random mating is greyed as not required by OxfordAQA." loading="lazy">
   <figcaption>Mutation forms new alleles; radiation and some chemicals raise the rate.</figcaption>
 </figure>
 

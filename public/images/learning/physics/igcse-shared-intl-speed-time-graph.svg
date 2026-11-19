@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1010" viewBox="0 0 1800 2020" role="img" aria-labelledby="title desc"><title id="title">Speed–time graph: gradient and area</title><desc id="desc">Speed rises from 0 to 10 m/s in 5 s, stays at 10 m/s for 10 s, then falls to 0 in 5 s. The gradients are labelled 2, 0 and −2 m/s² (acceleration). The shaded areas are 25 m, 100 m and 25 m, giving a distance of 150 m: the area under the graph is the distance travelled. No tier labels.</desc><rect width="1800" height="2020" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="113" font-size="70" font-weight="700" fill="#1E2B47" text-anchor="middle">Speed–time graph</text>
+<text x="900" y="188" font-size="44" fill="#4B5B72" text-anchor="middle">Gradient = acceleration; area = distance travelled</text>
+<line x1="620" y1="261" x2="620" y2="1221" stroke="#C6D3D0" stroke-width="3"/>
+<line x1="940" y1="261" x2="940" y2="1221" stroke="#C6D3D0" stroke-width="3"/>
+<line x1="1260" y1="261" x2="1260" y2="1221" stroke="#C6D3D0" stroke-width="3"/>
+<line x1="1580" y1="261" x2="1580" y2="1221" stroke="#C6D3D0" stroke-width="3"/>
+<line x1="300" y1="1061" x2="1580" y2="1061" stroke="#C6D3D0" stroke-width="3"/>
+<line x1="300" y1="901" x2="1580" y2="901" stroke="#C6D3D0" stroke-width="3"/>
+<line x1="300" y1="741" x2="1580" y2="741" stroke="#C6D3D0" stroke-width="3"/>
+<line x1="300" y1="581" x2="1580" y2="581" stroke="#C6D3D0" stroke-width="3"/>
+<line x1="300" y1="421" x2="1580" y2="421" stroke="#C6D3D0" stroke-width="3"/>
+<line x1="300" y1="261" x2="1580" y2="261" stroke="#C6D3D0" stroke-width="3"/>
+<polygon points="300,1221 620,421 1260,421 1580,1221" fill="#DDEBE8"/>
+<line x1="620" y1="421" x2="620" y2="1221" stroke="#2F6B63" stroke-width="4" stroke-dasharray="14 10"/>
+<line x1="1260" y1="421" x2="1260" y2="1221" stroke="#2F6B63" stroke-width="4" stroke-dasharray="14 10"/>
+<path d="M300 1221 L620 421 L1260 421 L1580 1221" fill="none" stroke="#2F6B63" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="300" y1="1225" x2="300" y2="246" stroke="#1E2B47" stroke-width="7" stroke-linecap="round"/><polygon points="300,196 328.6,248 271.4,248" fill="#1E2B47"/>
+<line x1="296" y1="1221" x2="1572" y2="1221" stroke="#1E2B47" stroke-width="7" stroke-linecap="round"/><polygon points="1622,1221 1570,1249.6 1570,1192.4" fill="#1E2B47"/>
+<text x="262" y="1237" font-size="44" fill="#1E2B47" text-anchor="end">0</text>
+<text x="262" y="1077" font-size="44" fill="#1E2B47" text-anchor="end">2</text>
+<text x="262" y="917" font-size="44" fill="#1E2B47" text-anchor="end">4</text>
+<text x="262" y="757" font-size="44" fill="#1E2B47" text-anchor="end">6</text>
+<text x="262" y="597" font-size="44" fill="#1E2B47" text-anchor="end">8</text>
+<text x="262" y="437" font-size="44" fill="#1E2B47" text-anchor="end">10</text>
+<text x="262" y="277" font-size="44" fill="#1E2B47" text-anchor="end">12</text>
+<text x="300" y="1286" font-size="44" fill="#1E2B47" text-anchor="middle">0</text>
+<text x="620" y="1286" font-size="44" fill="#1E2B47" text-anchor="middle">5</text>
+<text x="940" y="1286" font-size="44" fill="#1E2B47" text-anchor="middle">10</text>
+<text x="1260" y="1286" font-size="44" fill="#1E2B47" text-anchor="middle">15</text>
+<text x="1580" y="1286" font-size="44" fill="#1E2B47" text-anchor="middle">20</text>
+<text x="940" y="1372" font-size="52" font-weight="700" fill="#1E2B47" text-anchor="middle">Time (s)</text>
+<text x="132" y="735" font-size="52" font-weight="700" fill="#1E2B47" text-anchor="middle" transform="rotate(-90 132 735)">Speed (m/s)</text>
+<text x="940" y="384" font-size="48" font-weight="700" fill="#2F6B63" text-anchor="middle">Gradient 0: constant speed</text>
+<text x="320" y="503" font-size="48" font-weight="700" fill="#B9632F">Gradient</text>
+<text x="320" y="565" font-size="48" font-weight="700" fill="#B9632F" xml:space="preserve"><tspan>= 2 m/s</tspan><tspan dy="-18.2" font-size="32.6">2</tspan></text>
+<text x="1382" y="487" font-size="48" font-weight="700" fill="#B9632F">Gradient</text>
+<text x="1382" y="549" font-size="48" font-weight="700" fill="#B9632F" xml:space="preserve"><tspan>= −2 m/s</tspan><tspan dy="-18.2" font-size="32.6">2</tspan></text>
+<text x="940" y="820" font-size="56" font-weight="700" fill="#1E2B47" text-anchor="middle">100 m</text>
+<text x="510" y="1030" font-size="52" font-weight="700" fill="#1E2B47" text-anchor="middle">25 m</text>
+<text x="1373" y="1030" font-size="52" font-weight="700" fill="#1E2B47" text-anchor="middle">25 m</text>
+
+<text x="120" y="1534" font-size="40" fill="#4B5B72">Area under the graph = distance travelled</text>
+<rect x="120" y="1590" width="1560" height="155" rx="24" fill="#1E2B47"/>
+<text x="900" y="1690" font-size="64" font-weight="700" fill="#FFFFFF" text-anchor="middle">Distance = 25 + 100 + 25 = 150 m</text>
+<text x="900" y="1838" font-size="44" fill="#4B5B72" text-anchor="middle">Negative gradient: slowing down.</text>
+<text x="900" y="1930" font-size="44" fill="#4B5B72" text-anchor="middle">Gradient = acceleration.</text></g></svg>

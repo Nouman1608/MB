@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1270" viewBox="0 0 1800 2540" role="img" aria-labelledby="title desc"><title id="title">Aqueous electrolysis: which ion is discharged (Edexcel International GCSE Chemistry: Paper 2 only)</title><desc id="desc">The whole figure is marked Paper 2 only (4CH1 1.58C). At the cathode, a reactivity ladder Na, Mg, Zn, Fe, H, Cu, Ag: for metals above hydrogen the metal ion stays dissolved and hydrogen gas forms (for example sodium chloride solution); for copper and silver, below hydrogen, the metal forms (for example copper sulfate solution). At the anode, a concentrated halide solution gives chlorine from Cl- ions, while a dilute halide or no halide gives oxygen from OH- in water: the halide wins only if concentrated.</desc><rect width="1800" height="2540" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><g transform="translate(0 110)">
+<text x="900" y="112" font-size="68" font-weight="700" fill="#1E2B47" text-anchor="middle">Which ion wins in water?</text>
+<text x="900" y="186" font-size="44" fill="#4B5B72" text-anchor="middle" xml:space="preserve"><tspan>Aqueous solutions also contain H</tspan><tspan dy="-16.7" font-size="29.9">+</tspan><tspan dy="16.7"> and OH</tspan><tspan dy="-16.7" font-size="29.9">−</tspan><tspan dy="16.7"> from water</tspan></text>
+<text x="81" y="313" font-size="56" font-weight="700" fill="#2F6B63">At the cathode (−)</text>
+<rect x="198" y="371" width="283" height="103" rx="18" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<text x="340" y="442" font-size="56" font-weight="700" fill="#1E2B47" text-anchor="middle">Na</text>
+<rect x="198" y="491" width="283" height="103" rx="18" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<text x="340" y="562" font-size="56" font-weight="700" fill="#1E2B47" text-anchor="middle">Mg</text>
+<rect x="198" y="611" width="283" height="103" rx="18" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<text x="340" y="682" font-size="56" font-weight="700" fill="#1E2B47" text-anchor="middle">Zn</text>
+<rect x="198" y="731" width="283" height="103" rx="18" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<text x="340" y="802" font-size="56" font-weight="700" fill="#1E2B47" text-anchor="middle">Fe</text>
+<rect x="198" y="851" width="283" height="103" rx="18" fill="#F2E6B7" stroke="#8A6A0C" stroke-width="6"/>
+<text x="340" y="922" font-size="56" font-weight="700" fill="#8A6A0C" text-anchor="middle">H</text>
+<rect x="198" y="972" width="283" height="103" rx="18" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<text x="340" y="1043" font-size="56" font-weight="700" fill="#1E2B47" text-anchor="middle">Cu</text>
+<rect x="198" y="1091" width="283" height="103" rx="18" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<text x="340" y="1162" font-size="56" font-weight="700" fill="#1E2B47" text-anchor="middle">Ag</text>
+<line x1="123" y1="1176" x2="123" y2="437" stroke="#1E2B47" stroke-width="8" stroke-linecap="round"/><polygon points="123,383 151,439 95,439" fill="#1E2B47"/>
+<text x="58" y="778" font-size="44" fill="#4B5B72" text-anchor="middle" transform="rotate(-90 58 778)">more reactive</text>
+<path d="M520 371 H553 V836 H520" fill="none" stroke="#1E2B47" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M520 970 H553 V1197 H520" fill="none" stroke="#1E2B47" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="601" y="528" font-size="46" fill="#1E2B47">metal ion stays dissolved</text>
+<text x="601" y="605" font-size="56" font-weight="700" fill="#2F6B63" xml:space="preserve"><tspan>H</tspan><tspan dy="15.7" font-size="38.1">2</tspan><tspan dy="-15.7"> gas forms</tspan></text>
+<text x="601" y="690" font-size="44" fill="#4B5B72">e.g. sodium chloride solution</text>
+<text x="601" y="921" font-size="44" font-weight="700" fill="#8A6A0C" xml:space="preserve"><tspan>H</tspan><tspan dy="-16.7" font-size="29.9">+</tspan><tspan dy="16.7"> from water: dividing line</tspan></text>
+<text x="601" y="1027" font-size="46" fill="#1E2B47">metal ion is discharged</text>
+<text x="601" y="1106" font-size="56" font-weight="700" fill="#2F6B63">metal forms</text>
+<text x="601" y="1185" font-size="44" fill="#4B5B72">e.g. copper sulfate solution</text>
+<text x="81" y="1397" font-size="56" font-weight="700" fill="#2F6B63">At the anode (+)</text>
+<text x="419" y="1510" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">concentrated halide</text>
+<text x="1379" y="1510" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">dilute halide, or none</text>
+<path d="M120 1714 V1955 Q120 2000 165 2000 H677 Q722 2000 722 1955 V1714 Z" fill="#D2E5EC"/>
+<line x1="120" y1="1714" x2="722" y2="1714" stroke="#1E2B47" stroke-width="3" stroke-dasharray="14 10"/>
+<path d="M120 1660 V1955 Q120 2000 165 2000 H677 Q722 2000 722 1955 V1660" fill="none" stroke="#1E2B47" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="185" cy="1788" r="24" fill="#DDEBE8" stroke="#2F6B63" stroke-width="4"/>
+<circle cx="248" cy="1765" r="24" fill="#DDEBE8" stroke="#2F6B63" stroke-width="4"/>
+<circle cx="323" cy="1761" r="24" fill="#DDEBE8" stroke="#2F6B63" stroke-width="4"/>
+<circle cx="282" cy="1826" r="24" fill="#DDEBE8" stroke="#2F6B63" stroke-width="4"/>
+<circle cx="210" cy="1892" r="24" fill="#DDEBE8" stroke="#2F6B63" stroke-width="4"/>
+<circle cx="313" cy="1931" r="24" fill="#DDEBE8" stroke="#2F6B63" stroke-width="4"/>
+<circle cx="571" cy="1781" r="24" fill="#DDEBE8" stroke="#2F6B63" stroke-width="4"/>
+<circle cx="655" cy="1785" r="24" fill="#DDEBE8" stroke="#2F6B63" stroke-width="4"/>
+<circle cx="608" cy="1836" r="24" fill="#DDEBE8" stroke="#2F6B63" stroke-width="4"/>
+<circle cx="549" cy="1909" r="24" fill="#DDEBE8" stroke="#2F6B63" stroke-width="4"/>
+<circle cx="654" cy="1921" r="24" fill="#DDEBE8" stroke="#2F6B63" stroke-width="4"/>
+<rect x="391" y="1634" width="59" height="298" rx="6" fill="#3A4558" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="360" cy="1650" r="22" fill="#FFFFFF" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="468" cy="1606" r="17" fill="#FFFFFF" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="480" cy="1701" r="17" fill="#FFFFFF" stroke="#1E2B47" stroke-width="4"/>
+<path d="M1080 1714 V1955 Q1080 2000 1125 2000 H1637 Q1682 2000 1682 1955 V1714 Z" fill="#D2E5EC"/>
+<line x1="1080" y1="1714" x2="1682" y2="1714" stroke="#1E2B47" stroke-width="3" stroke-dasharray="14 10"/>
+<path d="M1080 1660 V1955 Q1080 2000 1125 2000 H1637 Q1682 2000 1682 1955 V1660" fill="none" stroke="#1E2B47" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="1169" cy="1776" r="24" fill="#DDEBE8" stroke="#2F6B63" stroke-width="4"/>
+<circle cx="1282" cy="1761" r="24" fill="#DDEBE8" stroke="#2F6B63" stroke-width="4"/>
+<circle cx="1509" cy="1793" r="24" fill="#DDEBE8" stroke="#2F6B63" stroke-width="4"/>
+<rect x="1351" y="1634" width="59" height="298" rx="6" fill="#3A4558" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="1320" cy="1650" r="22" fill="#FFFFFF" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="1428" cy="1606" r="17" fill="#FFFFFF" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="1440" cy="1701" r="17" fill="#FFFFFF" stroke="#1E2B47" stroke-width="4"/>
+<text x="419" y="2090" font-size="56" font-weight="700" fill="#1E2B47" text-anchor="middle" xml:space="preserve"><tspan>Cl</tspan><tspan dy="15.7" font-size="38.1">2</tspan><tspan dy="-15.7"> forms</tspan></text>
+<text x="419" y="2153" font-size="44" fill="#4B5B72" text-anchor="middle" xml:space="preserve"><tspan>from Cl</tspan><tspan dy="-16.7" font-size="29.9">−</tspan><tspan dy="16.7"> ions</tspan></text>
+<text x="1379" y="2090" font-size="56" font-weight="700" fill="#1E2B47" text-anchor="middle" xml:space="preserve"><tspan>O</tspan><tspan dy="15.7" font-size="38.1">2</tspan><tspan dy="-15.7"> forms</tspan></text>
+<text x="1379" y="2153" font-size="44" fill="#4B5B72" text-anchor="middle" xml:space="preserve"><tspan>from OH</tspan><tspan dy="-16.7" font-size="29.9">−</tspan><tspan dy="16.7"> in water</tspan></text>
+<text x="1379" y="2290" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">halide wins only if concentrated</text>
+<circle cx="148" cy="2345" r="26" fill="#DDEBE8" stroke="#2F6B63" stroke-width="4"/>
+<text x="200" y="2361" font-size="44" fill="#1E2B47" xml:space="preserve"><tspan>Cl</tspan><tspan dy="-16.7" font-size="29.9">−</tspan><tspan dy="16.7"> ion</tspan></text>
+</g>
+<rect x="417" y="34" width="966" height="64" rx="32" fill="#8A6A0C"/><text x="900" y="80.4" font-size="40" font-weight="700" fill="#FFFFFF" text-anchor="middle">Paper 2 only: 4CH1 statements 1.55C–1.60C</text></g></svg>

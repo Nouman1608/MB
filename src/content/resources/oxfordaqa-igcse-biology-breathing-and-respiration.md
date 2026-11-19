@@ -156,12 +156,12 @@ Plants and animals both respire aerobically without a break, and a plant does so
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--02-aerobic-respiration.webp" width="900" height="1010" alt="Inside a cell, glucose and oxygen react to give carbon dioxide and water, releasing much energy. Extended panel: C6H12O6 + 6O2 gives 6CO2 + 6H2O, with 6 C, 12 H and 18 O atoms on each side." loading="lazy">
+  <img src="/images/learning/biology/gcse-shared-aerobic-respiration.svg" width="900" height="1010" alt="Inside a cell, glucose and oxygen react to give carbon dioxide and water, releasing much energy. Symbol equation: C6H12O6 + 6O2 gives 6CO2 + 6H2O, with 6 C, 12 H and 18 O atoms on each side." loading="lazy">
   <figcaption>Aerobic respiration uses oxygen and releases much energy per glucose.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--03-anaerobic-respiration.webp" width="900" height="1290" alt="Without oxygen, yeast turns glucose into ethanol and carbon dioxide; muscles in vigorous exercise turn glucose into lactic acid only, with no carbon dioxide. Schematic bars show both release much less energy than aerobic respiration. Extended panel: C6H12O6 gives 2C2H5OH + 2CO2." loading="lazy">
+  <img src="/images/learning/biology/igcse-oxfordaqa-anaerobic-respiration.svg" width="900" height="1290" alt="Without oxygen, yeast turns glucose into ethanol and carbon dioxide; muscles in vigorous exercise turn glucose into lactic acid only, with no carbon dioxide. Schematic bars show both release much less energy than aerobic respiration. A panel gives the symbol equation for muscle: C6H12O6 gives 2C3H6O3 (lactic acid)." loading="lazy">
   <figcaption>Anaerobic respiration releases much less energy, and yeast and muscle make different products.</figcaption>
 </figure>
 
