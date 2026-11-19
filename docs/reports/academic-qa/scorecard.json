@@ -6,10 +6,10 @@
     "resources": 16059,
     "qaState": {
       "BLOCKED": 0,
-      "REVERIFICATION_REQUIRED": 1,
+      "REVERIFICATION_REQUIRED": 0,
       "REVISION_REQUIRED": 0,
       "ACADEMIC_REVIEW_PENDING": 0,
-      "VERIFIED_APPROVED": 3,
+      "VERIFIED_APPROVED": 4,
       "AUTOMATED_CHECK_COMPLETE": 16055,
       "NOT_ASSESSED": 0
     },
@@ -18,8 +18,8 @@
       "NOT_SCORED": 16055
     },
     "withCompleteCurrentScore": 4,
-    "meanScore": 92.6,
-    "medianScore": 91.75,
+    "meanScore": 92.9,
+    "medianScore": 92.25,
     "scoreDistribution": {
       "90-100": 4,
       "75-89.9": 0,
@@ -30,15 +30,15 @@
     "needingRevision": 0,
     "withOpenHardStop": 0,
     "verificationKinds": {
-      "automatedStructuralPass": 15247,
-      "automatedStructuralWarn": 812,
+      "automatedStructuralPass": 15246,
+      "automatedStructuralWarn": 813,
       "automatedStructuralFail": 0,
       "repositorySpecificationCheck": 780,
       "accountableTeacherCredited": 16059,
       "aiAssistedAssessmentCurrent": 4,
       "humanAssessmentCurrent": 0,
       "documentedTeacherVerification": 4,
-      "finalApproval": 3
+      "finalApproval": 4
     },
     "ledgerOutcome": {
       "REPO_PARTIAL_UNVERIFIABLE": 153,
@@ -48,18 +48,17 @@
     },
     "findingsOpenBySeverity": {
       "advisory": 5,
-      "minor": 2
+      "minor": 1
     },
     "findingsOpenByCheck": {
       "5 source-traceability": 1,
       "6 clarity-accessibility": 2,
-      "8 editorial-accountability": 4
+      "8 editorial-accountability": 3
     },
     "riskTier": {
-      "2": 1,
       "4": 153,
       "5": 219,
-      "6": 5179,
+      "6": 5180,
       "7": 5200,
       "8": 5307
     },
@@ -91,10 +90,10 @@
     "cambridge": {
       "resources": 6147,
       "BLOCKED": 0,
-      "REVERIFICATION_REQUIRED": 1,
+      "REVERIFICATION_REQUIRED": 0,
       "REVISION_REQUIRED": 0,
       "ACADEMIC_REVIEW_PENDING": 0,
-      "VERIFIED_APPROVED": 2,
+      "VERIFIED_APPROVED": 3,
       "AUTOMATED_CHECK_COMPLETE": 6144,
       "NOT_ASSESSED": 0,
       "scored": 3
@@ -148,10 +147,10 @@
     "a-level": {
       "resources": 6882,
       "BLOCKED": 0,
-      "REVERIFICATION_REQUIRED": 1,
+      "REVERIFICATION_REQUIRED": 0,
       "REVISION_REQUIRED": 0,
       "ACADEMIC_REVIEW_PENDING": 0,
-      "VERIFIED_APPROVED": 1,
+      "VERIFIED_APPROVED": 2,
       "AUTOMATED_CHECK_COMPLETE": 6880,
       "NOT_ASSESSED": 0,
       "scored": 2
@@ -249,10 +248,10 @@
     "practice-questions": {
       "resources": 5224,
       "BLOCKED": 0,
-      "REVERIFICATION_REQUIRED": 1,
+      "REVERIFICATION_REQUIRED": 0,
       "REVISION_REQUIRED": 0,
       "ACADEMIC_REVIEW_PENDING": 0,
-      "VERIFIED_APPROVED": 1,
+      "VERIFIED_APPROVED": 2,
       "AUTOMATED_CHECK_COMPLETE": 5222,
       "NOT_ASSESSED": 0,
       "scored": 2
@@ -614,10 +613,10 @@
     "psychology": {
       "resources": 339,
       "BLOCKED": 0,
-      "REVERIFICATION_REQUIRED": 1,
+      "REVERIFICATION_REQUIRED": 0,
       "REVISION_REQUIRED": 0,
       "ACADEMIC_REVIEW_PENDING": 0,
-      "VERIFIED_APPROVED": 0,
+      "VERIFIED_APPROVED": 1,
       "AUTOMATED_CHECK_COMPLETE": 338,
       "NOT_ASSESSED": 0,
       "scored": 1

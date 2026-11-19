@@ -292,3 +292,11 @@ Sections A, B, I, M, N and O above describe earlier positions.
 **Effect.** QA-0013 scores the page 91.5. Because 4(b) changed, the teacher verification recorded earlier the same day (D-502) no longer matches the page, so the scorecard shows REVERIFICATION_REQUIRED and F11 is open. The review pack (`review-packs/a-level-psychology-clinical-psychology-practice.md`) is regenerated for the teacher. Only 4(b) changed.
 
 Sections A, B, I, M, N, O and P above describe earlier positions.
+
+## R. Addendum, 18 November 2026: 4(b) re-checked by the teacher (D-504)
+
+The project owner reported that the teacher re-checked the replaced 4(b) mark guidance ("the teacher has rechecked 4(b), mark it reviewed"). A record for kanwal-aslam is added to `docs/reports/academic-review/teacher-verifications.json`, tied to the current page hash (6ba404ed...). It replaces the two earlier Psychology records (D-499, D-502), which no longer matched the page; they remain in git history and in D-499 and D-502. QA-0014, a data-change reassessment with the page text unchanged, fixes F11 and scores 92.5. The scorecard shows VERIFIED_APPROVED. The teacher's own note was not seen.
+
+The automated structural check now shows WARN for this page ("names a specific past paper"), because 4(b) cites the June 2024 Paper 31 mark scheme as a source for Table B. The page summarises the table in its own words and does not reproduce the paper.
+
+Sections A, B, I and M to Q above describe earlier positions.

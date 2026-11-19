@@ -41,10 +41,11 @@ Eligibility is not assignment: nobody has accepted this page until a record exis
 - QA-0011 (2026-11-18, ai-assisted, AI-assisted (claude-fable-5-2)) — **stale: the page has changed since**
 - QA-0012 (2026-11-18, ai-assisted, AI-assisted (Claude Code)) — **stale: the page has changed since**
 - QA-0013 (2026-11-18, ai-assisted, AI-assisted (Claude Code))
+- QA-0014 (2026-11-18, ai-assisted, AI-assisted (Claude Code))
 
-Open findings in QA-0013 (an AI-assisted finding is a lead to check, not a conclusion):
+Open findings in QA-0014 (an AI-assisted finding is a lead to check, not a conclusion):
 
-- **F11** check 8, minor — Answers, 4(b): The documented teacher verification (18 Nov 2026, D-502) was given for the previous version; the replaced 4(b) mark guidance has not been teacher-checked. _Evidence:_ teacher-verifications.json contentSha256 eb9f2a2e... differs from this version.
+- None.
 
 ## Checklist — the ten checks
 
