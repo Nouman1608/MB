@@ -5,12 +5,12 @@
     "scope": "src/content/resources (articles and the AP library are not in scope for v1)",
     "resources": 16059,
     "qaState": {
-      "BLOCKED": 0,
+      "BLOCKED": 9,
       "REVERIFICATION_REQUIRED": 0,
       "REVISION_REQUIRED": 0,
       "ACADEMIC_REVIEW_PENDING": 0,
       "VERIFIED_APPROVED": 4,
-      "AUTOMATED_CHECK_COMPLETE": 16055,
+      "AUTOMATED_CHECK_COMPLETE": 16046,
       "NOT_ASSESSED": 0
     },
     "scoreStatus": {
@@ -30,11 +30,11 @@
     "needingRevision": 0,
     "withOpenHardStop": 0,
     "verificationKinds": {
-      "automatedStructuralPass": 15246,
+      "automatedStructuralPass": 15237,
       "automatedStructuralWarn": 813,
-      "automatedStructuralFail": 0,
+      "automatedStructuralFail": 9,
       "repositorySpecificationCheck": 780,
-      "accountableTeacherCredited": 16059,
+      "accountableTeacherCredited": 16050,
       "aiAssistedAssessmentCurrent": 4,
       "humanAssessmentCurrent": 0,
       "documentedTeacherVerification": 4,
@@ -44,7 +44,8 @@
       "REPO_PARTIAL_UNVERIFIABLE": 153,
       "REPO_VERIFIED": 585,
       "REPO_VERIFIED_AFTER_CORRECTION": 42,
-      "TEACHER_CREDITED": 15279
+      "TEACHER_CREDITED": 15270,
+      "UNVERIFIED": 9
     },
     "findingsOpenBySeverity": {
       "advisory": 5,
@@ -56,10 +57,11 @@
       "8 editorial-accountability": 3
     },
     "riskTier": {
+      "1": 9,
       "4": 153,
       "5": 219,
-      "6": 5180,
-      "7": 5200,
+      "6": 5177,
+      "7": 5194,
       "8": 5307
     },
     "searchMetadataCoverageClaims": {
@@ -122,12 +124,12 @@
     },
     "ocr": {
       "resources": 1492,
-      "BLOCKED": 0,
+      "BLOCKED": 9,
       "REVERIFICATION_REQUIRED": 0,
       "REVISION_REQUIRED": 0,
       "ACADEMIC_REVIEW_PENDING": 0,
       "VERIFIED_APPROVED": 0,
-      "AUTOMATED_CHECK_COMPLETE": 1492,
+      "AUTOMATED_CHECK_COMPLETE": 1483,
       "NOT_ASSESSED": 0,
       "scored": 0
     },
@@ -156,13 +158,13 @@
       "scored": 2
     },
     "as-level": {
-      "resources": 321,
-      "BLOCKED": 0,
+      "resources": 315,
+      "BLOCKED": 9,
       "REVERIFICATION_REQUIRED": 0,
       "REVISION_REQUIRED": 0,
       "ACADEMIC_REVIEW_PENDING": 0,
       "VERIFIED_APPROVED": 0,
-      "AUTOMATED_CHECK_COMPLETE": 321,
+      "AUTOMATED_CHECK_COMPLETE": 306,
       "NOT_ASSESSED": 0,
       "scored": 0
     },
@@ -247,34 +249,34 @@
     },
     "practice-questions": {
       "resources": 5224,
-      "BLOCKED": 0,
+      "BLOCKED": 3,
       "REVERIFICATION_REQUIRED": 0,
       "REVISION_REQUIRED": 0,
       "ACADEMIC_REVIEW_PENDING": 0,
       "VERIFIED_APPROVED": 2,
-      "AUTOMATED_CHECK_COMPLETE": 5222,
+      "AUTOMATED_CHECK_COMPLETE": 5219,
       "NOT_ASSESSED": 0,
       "scored": 2
     },
     "revision-notes": {
       "resources": 5209,
-      "BLOCKED": 0,
+      "BLOCKED": 3,
       "REVERIFICATION_REQUIRED": 0,
       "REVISION_REQUIRED": 0,
       "ACADEMIC_REVIEW_PENDING": 0,
       "VERIFIED_APPROVED": 0,
-      "AUTOMATED_CHECK_COMPLETE": 5209,
+      "AUTOMATED_CHECK_COMPLETE": 5206,
       "NOT_ASSESSED": 0,
       "scored": 0
     },
     "study-guides": {
       "resources": 5237,
-      "BLOCKED": 0,
+      "BLOCKED": 3,
       "REVERIFICATION_REQUIRED": 0,
       "REVISION_REQUIRED": 0,
       "ACADEMIC_REVIEW_PENDING": 0,
       "VERIFIED_APPROVED": 2,
-      "AUTOMATED_CHECK_COMPLETE": 5235,
+      "AUTOMATED_CHECK_COMPLETE": 5232,
       "NOT_ASSESSED": 0,
       "scored": 2
     },
@@ -359,12 +361,12 @@
     },
     "economics": {
       "resources": 1791,
-      "BLOCKED": 0,
+      "BLOCKED": 9,
       "REVERIFICATION_REQUIRED": 0,
       "REVISION_REQUIRED": 0,
       "ACADEMIC_REVIEW_PENDING": 0,
       "VERIFIED_APPROVED": 0,
-      "AUTOMATED_CHECK_COMPLETE": 1791,
+      "AUTOMATED_CHECK_COMPLETE": 1782,
       "NOT_ASSESSED": 0,
       "scored": 0
     },

@@ -3,7 +3,7 @@ title: "OCR AS Level Economics (H060): Inflation -- Practice Questions"
 resourceType: "practice-questions"
 subject: "economics"
 level: ["a-levels"]
-topic: "Economic policy objectives and indicators of macroeconomic performance"
+topic: "Economic policy objectives"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]

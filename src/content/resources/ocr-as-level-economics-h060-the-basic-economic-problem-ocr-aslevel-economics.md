@@ -3,7 +3,7 @@ title: "OCR AS Level Economics (H060): The basic economic problem"
 resourceType: "study-guides"
 subject: "economics"
 level: ["a-levels"]
-topic: "Scarcity and choice"
+topic: "Introduction to microeconomics"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]

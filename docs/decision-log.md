@@ -16441,3 +16441,60 @@ Source: the owner's "Master Academic Quality Assurance, Content Authority & Sear
 - **Recorded.** A new documented teacher verification (kanwal-aslam, scope 4(b) mark guidance, approved) is tied to the current page hash 6ba404ed.... The rest of the page is byte-identical to the version approved under D-502. QA-0014 (data change, page text unchanged) fixes F11 and scores 92.5. The scorecard shows VERIFIED_APPROVED. The evidence is the owner's report; the teacher's own note was not seen.
 - **Structural WARN.** The ledger's structural check flags the page for naming a specific past paper (the June 2024 Paper 31 mark scheme cited in 4(b)). It is cited as a source and summarised, not reproduced, so the page is not changed; changing it would make this verification stale.
 - **Correction to D-502 and D-503.** D-502 kept the D-499 record "as history" beside the new one. `scripts/test-academic-qa-lifecycle.mjs` (case V) requires every record in `teacher-verifications.json` to match its page as it is now, and the file's own guidance is to replace a record. So the stale records made case V fail from PR 202 on; this test is not part of `audit:all`, so the gate run then did not catch it. The file now holds one record per resource: the D-504 record for this page. The earlier records are kept in git history and described in D-499 and D-502.
+
+## D-505 - OCR AS Economics H060 moved to the Version 3.0 specification (19 Nov 2026)
+
+- **Owner's instruction.** "update the H060 syllabus record to Version 3.0" (the open point from D-500 and D-502). For the 9 AS-only pages on topics Version 3.0 does not include at AS, the owner chose to archive them (AskUserQuestion, 19 Nov 2026).
+- **Source.** OCR AS Level Economics (H060) specification, Version 3.0 (June 2026), for first assessment in 2020, `https://www.ocr.org.uk/Images/536454-specification-accredited-as-level-gce-economics-h060.pdf` (SHA-256 d0889923...), linked from the H060/H460 qualification page on 19 Nov 2026. Read: sections 2a-2d (content, pages 3-12), 3a (forms of assessment) and 3h. Section 3h still says the specification is "certificated from the June 2016 examination series onwards"; the cover's "for first assessment in 2020" is used.
+- **Why a switch in place (the D-234 approach).** The site record was built from the headings of the earlier specification for first assessment in 2016, which is no longer examined. There is no series to keep a parallel record for.
+- **Data layer.**
+  - `syllabus-topics.ts`: the H060 record now has Version 3.0's six content areas and 27 topics, with the specification's own names.
+    - The specification numbers each component's areas from 1; the site numbers them 1-6 (Component 2 areas 1-4 are 3-6), so every number, flashcard id and anchor is unique. The record's note says so.
+    - Slugs are reused where the topic is the same.
+    - New in Version 3.0: 2.4 Consumer and producer surplus and 4.2 Development.
+    - Not in Version 3.0 at AS: costs and revenue, economies and diseconomies of scale, information asymmetries, and the objectives of economic agents as a topic of its own.
+  - `assessments.ts`, `syllabuses.ts` and `matrix.ts`: they cite Version 3.0 and first assessment 2020. The assessment format is unchanged.
+- **Resources (180 tagged H060).**
+  - Every AS tag was remapped to a Version 3.0 topic.
+  - The 84 live AS-only pages:
+    - take the Version 3.0 series and `order`;
+    - take the Version 3.0 area as their `topic` label.
+  - 12 shared A Level pages lost their AS tag because their topic is A Level only now: short-run costs, economies of scale, revenue and profit, and business objectives and the principal-agent problem.
+  - 6 A Level pages gained an AS tag:
+    - consumer and producer surplus (2.4);
+    - economic development (4.2).
+  - The supply and demand AS set is also tagged 2.4.
+  - The page text of the 84 AS pages and the subject guide now names Version 3.0 and its topics, and quotes its statements. Older "check with your teacher" caveats are settled where Version 3.0 answers them.
+  - Teaching content, questions and marks are unchanged.
+- **Archived (9 pages).** The costs and revenue, economies and diseconomies of scale and information asymmetries study guides, revision notes and practice pages are now `reviewStatus: "archived"`:
+  - each opens with a note saying why, linking the matching OCR A Level page;
+  - each keeps its URL but is noindexed and out of the sitemap;
+  - `resourcesForCombination()` now leaves archived resources off course hubs. No resource was archived before this.
+  - One link to an archived page, the "next topic" link on the externalities practice page, now points to government intervention.
+- **Flashcards.** The H060 deck is re-filed under Version 3.0:
+  - It now has 135 cards (was 160). The 25 removed cards were on content not in Version 3.0 at AS.
+  - One government intervention card now lists Version 3.0's interventions. Other card text is unchanged.
+  - Card ids carry the subtopic number, so every id changed and learners' saved progress on this deck starts again. 4.2 Development has no cards yet.
+  - Five old flashcard topic URLs redirect to their Version 3.0 area (`generate-redirects.mjs`).
+- **Content beyond Version 3.0 at AS, left in place and listed for a teacher.** These sit inside AS topics as background or extension:
+  - 1.1: sustainability and the three economic questions;
+  - 1.2:
+    - marginal thinking;
+    - the price mechanism's functions;
+    - public goods;
+    - efficiency analysis using average cost and deadweight loss;
+  - 1.1 objectives pages: revenue and sales maximisation;
+  - 2.1: money's functions other than a medium of exchange, and comparative advantage;
+  - 2.2: derived demand;
+  - 2.7:
+    - complete and partial market failure;
+    - missing markets;
+    - causes such as market power;
+  - 2.8: complete and partial government failure, and regulatory capture;
+  - 3.1: multiplier arithmetic;
+  - 3.2: consumption-function calculations;
+  - 4.4: rebasing an index.
+- **Gaps.**
+  - 4.2 Development has only the shared A Level pages.
+  - "Individual and market demand/supply" (2.2, 2.3) and "ceteris paribus" (2.5) are only touched on.
+  - 2.4 has no evaluation section of its own.

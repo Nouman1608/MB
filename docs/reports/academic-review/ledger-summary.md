@@ -31,7 +31,8 @@ the human sign-off is outstanding for every review-pending resource.
 
 | Status | Resources |
 | --- | --- |
-| reviewed | 16059 |
+| archived | 9 |
+| reviewed | 16050 |
 
 **Ledger outcome**
 
@@ -40,7 +41,8 @@ the human sign-off is outstanding for every review-pending resource.
 | REPO_PARTIAL_UNVERIFIABLE | 153 |
 | REPO_VERIFIED | 585 |
 | REPO_VERIFIED_AFTER_CORRECTION | 42 |
-| TEACHER_CREDITED | 15279 |
+| TEACHER_CREDITED | 15270 |
+| UNVERIFIED | 9 |
 
 - `TEACHER_CREDITED` — marked reviewed (accountable-teacher credit). Metadata
   validated here; content not re-checked in this programme.
@@ -55,7 +57,8 @@ the human sign-off is outstanding for every review-pending resource.
 
 | Result | Resources |
 | --- | --- |
-| PASS | 15246 |
+| FAIL | 9 |
+| PASS | 15237 |
 | WARN | 813 |
 
 FAIL = a hard rule broken (unknown board/topic/author, review-state integrity,
@@ -65,11 +68,19 @@ other-scheme tier wording). See `structuralIssues` in the ledger for each row.
 
 ## Ledger integrity
 
-Every resource appears exactly once; every verification record matches an existing resource.
+- ocr-as-level-economics-h060-costs-and-revenue-ocr-aslevel-economics-practice: reviewer set while not reviewed
+- ocr-as-level-economics-h060-costs-and-revenue-ocr-aslevel-economics-revision-notes: reviewer set while not reviewed
+- ocr-as-level-economics-h060-costs-and-revenue-ocr-aslevel-economics: reviewer set while not reviewed
+- ocr-as-level-economics-h060-economies-and-diseconomies-of-scale-ocr-aslevel-economics-practice: reviewer set while not reviewed
+- ocr-as-level-economics-h060-economies-and-diseconomies-of-scale-ocr-aslevel-economics-revision-notes: reviewer set while not reviewed
+- ocr-as-level-economics-h060-economies-and-diseconomies-of-scale-ocr-aslevel-economics: reviewer set while not reviewed
+- ocr-as-level-economics-h060-information-asymmetries-ocr-aslevel-economics-practice: reviewer set while not reviewed
+- ocr-as-level-economics-h060-information-asymmetries-ocr-aslevel-economics-revision-notes: reviewer set while not reviewed
+- ocr-as-level-economics-h060-information-asymmetries-ocr-aslevel-economics: reviewer set while not reviewed
 
 ## Sign-off queue
 
-0 resources are review-pending and need a named, authorised Marlbridge
+9 resources are review-pending and need a named, authorised Marlbridge
 reviewer to accept them under the editorial policy. The queue, grouped by course, is
 in [`signoff-queue.md`](signoff-queue.md), and by eligible teacher in
 [`signoff-by-teacher.md`](signoff-by-teacher.md). No reviewer has been assigned or inferred.

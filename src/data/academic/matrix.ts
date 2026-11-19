@@ -452,7 +452,7 @@ const BASE_MATRIX: readonly Combination[] = [
   }),
   ...rows('ocr', 'as-level', ['economics'], {
     boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'board',
-    source: 'https://www.ocr.org.uk/qualifications/as-and-a-level/economics-h060-h460-from-2019/ -- OCR AS Level Economics (H060) specification, Version 3.0 (June 2026), read in full 2026-11-19 (D-505)',
+    source: 'https://www.ocr.org.uk/qualifications/as-and-a-level/economics-h060-h460-from-2019/ -- OCR AS Level Economics (H060) specification, Version 3.0 (June 2026), read in full 2026-11-19',
     codes: { economics: 'H060' },
     notes: 'Owner request in chat 2026-10-27: resources for Economics at every level and board. OCR AS Level Economics (H060) is a stand-alone qualification with two components, Microeconomics (H060/01) and Macroeconomics (H060/02), whose content sits inside OCR A Level Economics (H460). Free resources only (classesOffered false); Learners Academy runs no classes for it.',
     classesOffered: false,

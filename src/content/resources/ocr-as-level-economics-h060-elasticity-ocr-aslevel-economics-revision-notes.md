@@ -3,7 +3,7 @@ title: "OCR AS Level Economics (H060): Elasticity -- Revision Notes"
 resourceType: "revision-notes"
 subject: "economics"
 level: ["a-levels"]
-topic: "Elasticity"
+topic: "The role of markets"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]

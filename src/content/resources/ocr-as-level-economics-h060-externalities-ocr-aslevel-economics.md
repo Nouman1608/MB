@@ -3,7 +3,7 @@ title: "OCR AS Level Economics (H060): Externalities"
 resourceType: "study-guides"
 subject: "economics"
 level: ["a-levels"]
-topic: "Externalities"
+topic: "The role of markets"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]

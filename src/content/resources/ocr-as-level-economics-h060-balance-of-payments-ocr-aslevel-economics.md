@@ -3,7 +3,7 @@ title: "OCR AS Level Economics (H060): Balance of payments"
 resourceType: "study-guides"
 subject: "economics"
 level: ["a-levels"]
-topic: "The global context"
+topic: "Economic policy objectives"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]

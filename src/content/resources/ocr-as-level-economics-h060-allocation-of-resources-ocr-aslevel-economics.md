@@ -3,7 +3,7 @@ title: "OCR AS Level Economics (H060): Allocation of resources"
 resourceType: "study-guides"
 subject: "economics"
 level: ["a-levels"]
-topic: "How competitive markets work"
+topic: "Introduction to microeconomics"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]

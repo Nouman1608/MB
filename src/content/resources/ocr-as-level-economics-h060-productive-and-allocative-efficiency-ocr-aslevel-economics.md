@@ -3,7 +3,7 @@ title: "OCR AS Level Economics (H060): Productive and allocative efficiency"
 resourceType: "study-guides"
 subject: "economics"
 level: ["a-levels"]
-topic: "Productive and allocative efficiency"
+topic: "Introduction to microeconomics"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]

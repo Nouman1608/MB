@@ -3,7 +3,7 @@ title: "OCR AS Level Economics (H060): Employment/unemployment -- Revision Notes
 resourceType: "revision-notes"
 subject: "economics"
 level: ["a-levels"]
-topic: "Employment/unemployment"
+topic: "Economic policy objectives"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]

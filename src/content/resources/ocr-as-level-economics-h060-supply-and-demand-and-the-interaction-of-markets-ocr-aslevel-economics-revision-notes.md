@@ -3,7 +3,7 @@ title: "OCR AS Level Economics (H060): Supply and demand and the interaction of 
 resourceType: "revision-notes"
 subject: "economics"
 level: ["a-levels"]
-topic: "How competitive markets work"
+topic: "The role of markets"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]

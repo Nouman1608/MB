@@ -3,7 +3,7 @@ title: "OCR AS Level Economics (H060): Specialisation and trade -- Revision Note
 resourceType: "revision-notes"
 subject: "economics"
 level: ["a-levels"]
-topic: "Scarcity and choice"
+topic: "The role of markets"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]

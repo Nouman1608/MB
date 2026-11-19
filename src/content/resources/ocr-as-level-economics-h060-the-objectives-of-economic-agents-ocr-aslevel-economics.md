@@ -3,7 +3,7 @@ title: "OCR AS Level Economics (H060): The objectives of economic agents"
 resourceType: "study-guides"
 subject: "economics"
 level: ["a-levels"]
-topic: "How competitive markets work"
+topic: "Introduction to microeconomics"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]

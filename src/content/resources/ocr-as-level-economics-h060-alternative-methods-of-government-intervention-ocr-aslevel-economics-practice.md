@@ -3,7 +3,7 @@ title: "OCR AS Level Economics (H060): Alternative methods of government interve
 resourceType: "practice-questions"
 subject: "economics"
 level: ["a-levels"]
-topic: "Alternative methods of government intervention"
+topic: "The role of markets"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]

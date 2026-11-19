@@ -3,7 +3,7 @@ title: "OCR AS Level Economics (H060): Specialisation and trade -- Practice Ques
 resourceType: "practice-questions"
 subject: "economics"
 level: ["a-levels"]
-topic: "Scarcity and choice"
+topic: "The role of markets"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
