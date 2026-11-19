@@ -253,7 +253,7 @@ in g/dm³: 0.0880 × 56 = 4.93 g/dm³
 Metal at the cathode, non-metal at the anode (inert electrodes). Molten lead bromide → lead + bromine.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--01-molten-electrolysis.webp" width="900" height="1170" alt="A crucible of molten lead(II) bromide has two graphite electrodes joined to a power supply. Pb2+ ions move to the cathode and form lead; Br- ions move to the anode and form bromine. Electrons flow from the supply to the cathode and back from the anode (Extended), with the two half-equations." loading="lazy">
+  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--01-molten-electrolysis.webp" width="900" height="1170" alt="A crucible of molten lead(II) bromide has two graphite electrodes joined to a power supply. Pb2+ ions move to the cathode and form lead; Br- ions move to the anode and form bromine. Electrons flow from the supply to the cathode and back from the anode, with the two half-equations (half equations are Higher tier only)." loading="lazy">
   <figcaption>Ions carry charge through the melt and electrons through the wires; lead forms at the cathode and bromine at the anode.</figcaption>
 </figure>
 
@@ -305,7 +305,7 @@ Check that atoms and charges balance on each side.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--03-aqueous-rules.webp" width="900" height="1215" alt="At the cathode, a reactivity ladder shows that metals above hydrogen stay dissolved and hydrogen forms, while copper and silver below hydrogen form the metal. At the anode a concentrated halide gives a halogen, but a dilute halide or none gives oxygen (Extended)." loading="lazy">
+  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--03-aqueous-rules.webp" width="900" height="1215" alt="At the cathode, a reactivity ladder shows that metals above hydrogen stay dissolved and hydrogen forms, while copper and silver below hydrogen form the metal. At the anode a concentrated halide gives a halogen, but a dilute halide or none gives oxygen." loading="lazy">
   <figcaption>Hydrogen forms unless the metal is below it in reactivity; a halide is discharged only if concentrated, otherwise oxygen forms.</figcaption>
 </figure>
 
