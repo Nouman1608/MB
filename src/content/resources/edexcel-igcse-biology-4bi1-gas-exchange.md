@@ -219,6 +219,8 @@ Ventilation moves air in and out of the lungs. Air always moves from higher pres
 
 When you breathe out hard (during exercise, for example) the internal intercostal muscles also contract to pull the ribs down faster.
 
+*Edexcel 4BI1 refers only to "the intercostal muscles"; the external and internal muscles are not required and are included as background.*
+
 Write the chain in order: muscles, thoracic volume, alveolar pressure, air movement. Intrapleural pressure is a different variable; during quiet breathing it normally remains below atmospheric pressure and becomes more negative during inspiration.
 
 <figure class="topic-figure">
@@ -257,6 +259,8 @@ Tobacco smoke harms both the lungs and the circulatory system.
 | Carbon monoxide | Combines with haemoglobin in red blood cells more readily than oxygen does, so the blood carries less oxygen. |
 | Nicotine | Addictive. Raises heart rate and narrows blood vessels, increasing blood pressure. |
 
+*Cilia and mucus are not named in the Edexcel 4BI1 specification; included as background.*
+
 **Coronary heart disease.** The coronary arteries supply the heart muscle with oxygen and glucose. Smoking increases the risk that fatty deposits build up in their walls, narrowing them. A blood clot can then block a narrowed artery. The heart muscle beyond the blockage gets no oxygen, cannot respire aerobically, and may die: a heart attack. Carbon monoxide makes things worse because the blood that does reach the heart carries less oxygen.
 
 <figure class="topic-figure">
@@ -276,7 +280,7 @@ Tobacco smoke harms both the lungs and the circulatory system.
 
 <figure class="topic-figure">
   <img src="/images/learning/biology/igcse-edexcel-airway-protection.svg" width="900" height="900" alt="Goblet cells make mucus that forms a layer on the airway lining and traps dust and bacteria from the air. Ciliated cells have cilia that beat and move the mucus to the throat, where it is swallowed. The mucus traps; the cilia move the mucus. The figure is marked not required by Edexcel." loading="lazy">
-  <figcaption>Goblet cells make mucus to trap particles and ciliated cells move it to the throat.</figcaption>
+  <figcaption>Goblet cells make mucus to trap particles and ciliated cells move it to the throat. Not required by Edexcel 4BI1; included as background.</figcaption>
 </figure>
 
 

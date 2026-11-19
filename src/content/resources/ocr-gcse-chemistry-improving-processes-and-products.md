@@ -88,6 +88,8 @@ In the blast furnace, carbon monoxide from coke reduces iron(III) oxide: Fe₂O�
 - Cathode (negative): Al³⁺ + 3e⁻ → Al. Molten aluminium collects at the bottom.
 - Anode (positive): 2O²⁻ → O₂ + 4e⁻. The oxygen reacts with the hot carbon anodes to make carbon dioxide, so the anodes wear away and are replaced.
 
+*The half equations are Higher Tier only (C3.4d).*
+
 **PAG C2 practicals.** With inert electrodes:
 
 | Solution | Cathode product | Anode product | Test |

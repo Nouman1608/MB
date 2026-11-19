@@ -86,7 +86,7 @@ Examples you should be able to use:
 
 ### Osmosis
 
-**Osmosis** is the net movement of water across a partially permeable membrane down a water-potential gradient. In the simple model with comparable pressure and a solute retained by the membrane, this is from a more dilute solution toward the more concentrated solution. Pressure can also affect water potential, so the dilute-to-concentrated shortcut does not cover every cell or experimental setup.
+**Osmosis** is the net movement of water across a partially permeable membrane down a water-potential gradient (the term water potential is not required by Edexcel 4BI1). In the simple model with comparable pressure and a solute retained by the membrane, this is from a more dilute solution toward the more concentrated solution. Pressure can also affect water potential, so the dilute-to-concentrated shortcut does not cover every cell or experimental setup.
 
 <!-- marlbridge-diagram:bio-b34-edexcel-4bi1-osmosis-water-potential -->
 <figure class="lesson-diagram" style="margin: 2rem 0;">
@@ -105,6 +105,8 @@ What happens to cells depends on the solution around them.
 | Same water potential as cell contents (in the model) | No net movement of water; no change | No net water movement in this simplified comparison |
 | More concentrated than cell contents | Water leaves; cell shrinks and becomes shrivelled | Water leaves; cell becomes **flaccid**; if more water is lost the cytoplasm and membrane pull away from the wall (**plasmolysis**) |
 
+*The terms plasmolysis and turgor are not required by the Edexcel 4BI1 specification; included as background.*
+
 <!-- marlbridge-diagram:bio-b34-edexcel-4bi1-plant-cell-water-balance -->
 <figure class="lesson-diagram" style="margin: 2rem 0;">
   <a href="/images/learning/biology/bio-b34-edexcel-4bi1-plant-cell-water-balance.svg" aria-label="Open full-size diagram: water balance in plant cells"><img src="/images/learning/biology/bio-b34-edexcel-4bi1-plant-cell-water-balance.svg" width="1528" height="1515" alt="Plant-cell diagrams compare turgid, flaccid and plasmolysed states, showing the cell wall, membrane and water movement." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
@@ -122,7 +124,7 @@ The cell wall is the reason a plant cell does not burst in water. It is strong a
 
 ### Active transport
 
-**Active transport** is the movement of substances from a region of lower concentration to a region of higher concentration, against a concentration gradient. It uses energy released by respiration and needs carrier proteins in the cell membrane.
+**Active transport** is the movement of substances from a region of lower concentration to a region of higher concentration, against a concentration gradient. It uses energy released by respiration and needs carrier proteins in the cell membrane (carrier proteins are not required by Edexcel 4BI1).
 
 <!-- marlbridge-diagram:bio-b34-edexcel-4bi1-active-transport-root-hair -->
 <figure class="lesson-diagram" style="margin: 2rem 0;">

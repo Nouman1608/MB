@@ -139,9 +139,9 @@ magnification = image size / actual size
 
 DNA is a double helix of two strands held by complementary base pairing: **A with T, C with G**. A **gene** is a section of DNA coding for one protein, and the sequence of bases determines the sequence of amino acids.
 
-Protein synthesis has two stages: **transcription**, where the DNA of one gene is copied into mRNA in the nucleus, and **translation**, where ribosomes read the mRNA in triplets and assemble the corresponding amino acids into a polypeptide.
+**Higher tier only.** Protein synthesis has two stages: **transcription**, where the DNA of one gene is copied into mRNA in the nucleus, and **translation**, where ribosomes read the mRNA in triplets and assemble the corresponding amino acids into a polypeptide.
 
-Because the folded shape of a protein depends on its amino acid sequence, a change in the DNA base sequence can change the shape and destroy the function — which is how mutations cause disease.
+**Higher tier only.** Because the folded shape of a protein depends on its amino acid sequence, a change in the DNA base sequence can change the shape and destroy the function — which is how mutations cause disease.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--06-dna-structure.webp" width="900" height="1000" alt="DNA has two strands coiled into a double helix. Each strand carries bases and bonds between paired bases hold the strands together. A always pairs with T and C with G, so strand 1 A T G C C G T A pairs with strand 2 T A C G G C A T." loading="lazy">
@@ -241,6 +241,8 @@ Photosynthesis is an **endothermic reaction** — energy is transferred from the
 
 Three factors can each limit the rate of photosynthesis: **light intensity**, **carbon dioxide concentration** and **temperature**. A **limiting factor** is whichever of these is in shortest supply at a given moment — it alone determines the rate, however much of the other two factors is available. On a rate graph, increasing one factor raises the rate until it plateaus, at which point a different factor has become limiting. Light intensity follows an inverse square law with distance from a light source, so doubling the distance from a lamp quarters the intensity reaching the plant.
 
+*Higher tier only: how the factors interact in limiting the rate (B1.4f) and the inverse square law.*
+
 **Investigating photosynthesis.** The rate can be measured from the oxygen an aquatic plant such as pondweed gives off — counting bubbles, or collecting the gas and measuring its volume — with the lamp at different distances while the temperature is kept constant. To show that light is needed, a plant is first **destarched** by keeping it in the dark, then part of a leaf is covered with foil and the plant is placed in light. The leaf is boiled in water, soaked in hot ethanol (heated in a water bath, not over a flame) to remove the chlorophyll, rinsed and tested with iodine solution: the uncovered parts turn blue-black because they made starch, while the covered part stays orange-brown.
 
 <figure class="topic-figure">
@@ -321,7 +323,7 @@ Topic B1 is divided into B1.1 Cell structures, B1.2 What happens in cells (and w
 A light microscope magnifies up to roughly 2000 times and resolves detail down to about 200 nm. Electron microscopes reach far higher magnification and resolution, showing internal structure.
 
 **Why can a mutation affect a protein?**
-The sequence of bases in DNA determines the sequence of amino acids, which sets the folded shape of the protein. A change in the base sequence can change that shape and destroy the protein's function.
+The sequence of bases in DNA determines the sequence of amino acids, which sets the folded shape of the protein. A change in the base sequence can change that shape and destroy the protein's function. This is Higher tier only content.
 
 **Why revise respiration and photosynthesis together?**
 They are natural counterparts: respiration releases energy from glucose, while photosynthesis captures energy to build it. Revising their equations side by side helps you avoid confusing the two processes.

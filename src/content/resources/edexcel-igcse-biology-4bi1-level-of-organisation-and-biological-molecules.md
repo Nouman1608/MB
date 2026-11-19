@@ -209,6 +209,8 @@ Enzymes catalyse both kinds of metabolic reaction:
 
 Each enzyme has an **active site** whose chemical properties and shape favour particular substrates. In the simplified lock-and-key model, a complementary substrate fits; real active sites are dynamic and can adjust as binding occurs. The substrate binds to form an enzyme-substrate complex, the reaction happens, and products leave. The enzyme is not used up and can catalyse another reaction. This helps explain specificity: amylase acts on starch but not on protein.
 
+*The term enzyme-substrate complex is not required by the Edexcel 4BI1 specification; included as background.*
+
 <!-- marlbridge-diagram:bio-b34-edexcel-4bi1-enzyme-catalytic-cycle -->
 <figure class="lesson-diagram" style="margin: 2rem 0;">
   <a href="/images/learning/biology/bio-b34-edexcel-4bi1-enzyme-catalytic-cycle.svg" aria-label="Open full-size diagram: enzyme catalytic cycle"><img src="/images/learning/biology/bio-b34-edexcel-4bi1-enzyme-catalytic-cycle.svg" width="1528" height="1515" alt="Simplified enzyme catalytic cycle: a substrate binds at a complementary active site, products form and leave, and the enzyme can be used again." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>

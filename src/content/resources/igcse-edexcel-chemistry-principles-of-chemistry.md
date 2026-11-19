@@ -134,7 +134,7 @@ Group number equals the number of outer-shell electrons; period number equals th
 
 **Covalent bonding** occurs between non-metals: electron pairs are shared. Simple molecular substances have weak intermolecular forces between molecules — not within them — so melting points are low and they do not conduct. Giant covalent structures such as diamond and graphite have very high melting points because covalent bonds must be broken. Graphite conducts because each carbon bonds to only three others, leaving one delocalised electron per atom.
 
-**Metallic bonding** is a lattice of positive ions in a sea of delocalised electrons, giving conduction and malleability.
+**Metallic bonding** (Paper 2 only) is a lattice of positive ions in a sea of delocalised electrons, giving conduction and malleability.
 
 <figure class="topic-figure">
   <img src="/images/learning/chemistry/igcse-shared-intl-ionic-transfer.svg" width="900" height="945" alt="Outer shells only: sodium gives one electron to chlorine, giving Na+ with none left and Cl- with eight. Magnesium gives two electrons to oxygen, giving Mg2+ and O2- with eight. Dots are the metal's electrons and crosses the non-metal's." loading="lazy">
@@ -185,6 +185,8 @@ moles = concentration x volume (dm3)
 percentage yield = (actual / theoretical) x 100
 ```
 
+*The concentration relationship (1.34C) is Paper 2 only.*
+
 Empirical formula is found by dividing the mass or percentage of each element by its Ar, then dividing all results by the smallest.
 
 <figure class="topic-figure">
@@ -214,7 +216,7 @@ Empirical formula is found by dividing the mass or percentage of each element by
 
 <figure class="topic-figure">
   <img src="/images/learning/chemistry/igcse-edexcel-concentration.svg" width="900" height="980" alt="Four beakers of 250 cm3, each with 0.5 mol, make 1 dm3 holding 2 mol, so concentration is 2 mol/dm3. 250 cm3 divided by 1000 is 0.25 dm3 and 0.5 divided by 0.25 is 2. The whole figure is marked Paper 2 only, and a note on g/dm3 is marked not required by Edexcel." loading="lazy">
-  <figcaption>Concentration is moles per dm3; convert cm3 to dm3 by dividing by 1000.</figcaption>
+  <figcaption>Concentration is moles per dm3; convert cm3 to dm3 by dividing by 1000. Concentration calculations are Paper 2 only.</figcaption>
 </figure>
 
 

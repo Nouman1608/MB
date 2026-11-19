@@ -225,7 +225,7 @@ Chromosome link: chromosomes contain many genes, and each gene is a different se
 
 <figure class="topic-figure">
   <img src="/images/learning/biology/igcse-oxfordaqa-gene-to-protein.svg" width="900" height="1120" alt="The gene stays in the nucleus; a copy of it, mRNA, is made and moves out through a pore to the cytoplasm (these mRNA steps are marked not required by OxfordAQA); a ribosome joins amino acids in the order set by the mRNA bases; the chain folds into a protein whose shape decides what it does." loading="lazy">
-  <figcaption>mRNA carries the gene’s base sequence to a ribosome, which sets the order of amino acids in the protein.</figcaption>
+  <figcaption>mRNA carries the gene’s base sequence to a ribosome, which sets the order of amino acids in the protein. The mRNA steps are beyond the OxfordAQA 9201 specification, which says only that the order of bases controls the order of amino acids.</figcaption>
 </figure>
 
 

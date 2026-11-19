@@ -200,7 +200,7 @@ Plant **organs** include stems, roots and leaves. Internal structure is limited 
 
 <figure class="topic-figure">
   <img src="/images/learning/biology/igcse-oxfordaqa-villus.svg" width="900" height="1250" alt="A row of villi on the folded small intestine lining, then one villus enlarged. Its surface epithelium is one cell thick with microvilli on the outside. Inside are a capillary network and a central lacteal. Sugars and amino acids enter the capillaries and go into the blood; fatty acids and glycerol enter the lacteal, which is part of the lymphatic system. The lacteal is greyed as not required by OxfordAQA." loading="lazy">
-  <figcaption>Capillaries take sugars and amino acids; the lacteal takes fatty acids and glycerol.</figcaption>
+  <figcaption>Capillaries take sugars and amino acids; the lacteal takes fatty acids and glycerol. The lacteal is beyond the OxfordAQA 9201 specification.</figcaption>
 </figure>
 
 <figure class="topic-figure">

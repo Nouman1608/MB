@@ -154,6 +154,9 @@ Then test yourself with the [gas exchange practice questions](/resources/edexcel
 **Exhalation**
 
 1. External intercostal muscles relax; ribs move down and in (internal intercostals contract in forced exhalation).
+
+*Edexcel 4BI1 refers only to "the intercostal muscles"; the external and internal muscles are not required and are included as background.*
+
 2. Diaphragm relaxes and domes upwards.
 3. Thorax volume decreases.
 4. Pressure rises above atmospheric.
@@ -191,6 +194,8 @@ Then test yourself with the [gas exchange practice questions](/resources/edexcel
 | Carbon monoxide | Binds to haemoglobin more readily than oxygen → blood carries less oxygen |
 | Nicotine | Addictive; raises heart rate and blood pressure |
 
+*Cilia and mucus are not named in the Edexcel 4BI1 specification; included as background.*
+
 **Coronary heart disease chain:** fatty deposits narrow coronary arteries → clot blocks artery → heart muscle short of oxygen → cannot respire aerobically → heart attack. Smoking raises the risk.
 
 <figure class="topic-figure">
@@ -210,7 +215,7 @@ Then test yourself with the [gas exchange practice questions](/resources/edexcel
 
 <figure class="topic-figure">
   <img src="/images/learning/biology/igcse-edexcel-airway-protection.svg" width="900" height="900" alt="Goblet cells make mucus that forms a layer on the airway lining and traps dust and bacteria from the air. Ciliated cells have cilia that beat and move the mucus to the throat, where it is swallowed. The mucus traps; the cilia move the mucus. The figure is marked not required by Edexcel." loading="lazy">
-  <figcaption>Goblet cells make mucus to trap particles and ciliated cells move it to the throat.</figcaption>
+  <figcaption>Goblet cells make mucus to trap particles and ciliated cells move it to the throat. Not required by Edexcel 4BI1; included as background.</figcaption>
 </figure>
 
 
@@ -303,7 +308,7 @@ Then test yourself with the [gas exchange practice questions](/resources/edexcel
 Yellow means more carbon dioxide and purple means less carbon dioxide than in the starting red indicator.
 
 **What happens during inhalation?**
-The external intercostal muscles contract and the ribs move up and out, the diaphragm contracts and flattens, thorax volume increases, pressure falls below atmospheric and air flows in.
+The intercostal muscles contract and the ribs move up and out, the diaphragm contracts and flattens, thorax volume increases, pressure falls below atmospheric and air flows in.
 
 **What is the difference between respiration and gas exchange?**
 Respiration is a chemical reaction in cells that releases energy. Gas exchange is the movement of gases across a surface by diffusion.

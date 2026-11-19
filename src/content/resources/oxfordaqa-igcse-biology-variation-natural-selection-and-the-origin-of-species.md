@@ -46,11 +46,11 @@ Genetic variation means different characteristics as a result of **mutation or r
 
 - **Sexual reproduction** mixes the genetic information of two parents. Each gamete carries a different mix of alleles, and any male gamete can fuse with any female gamete. Siblings therefore differ from each other and from both parents.
 - **Asexual reproduction** involves one parent and no fusion of gametes, so there is no mixing and no genetic variation in the offspring. The offspring are **clones**.
-- **Mutation** is a change in the genetic material (a gene) that creates a new allele. Mutations are random. They happen without any need for them. Most have no effect on the organism or are harmful, and a few give a characteristic that suits the environment. Mutation is the original source of every new allele. Some radiation and some chemicals increase the rate of mutation.
+- **Mutation** is a change in the genetic material (a gene) that creates a new allele. Mutations are random. They happen without any need for them. Most have no effect on the organism or are harmful, and a few give a characteristic that suits the environment. Mutation is the original source of every new allele. Some radiation and some chemicals increase the rate of mutation (beyond the OxfordAQA 9201 specification).
 
 <figure class="topic-figure">
   <img src="/images/learning/biology/igcse-oxfordaqa-mutation-variation.svg" width="900" height="1215" alt="Mutation is genetic change that forms new alleles; the note that ionising radiation and some chemicals raise its rate is marked not required by OxfordAQA, as is the middle panel, where one changed base in the DNA sequence changes the protein shape. Sources of variation are mutation, meiosis and random fertilisation; random mating is greyed as not required by OxfordAQA." loading="lazy">
-  <figcaption>Mutation forms new alleles; radiation and some chemicals raise the rate.</figcaption>
+  <figcaption>Mutation forms new alleles; radiation and some chemicals raise the rate. What raises the rate is beyond the OxfordAQA 9201 specification.</figcaption>
 </figure>
 
 

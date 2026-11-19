@@ -160,7 +160,7 @@ Three glucose solutions give green, orange and brick-red results after the same 
 - **Enzyme**: a protein that acts as a biological catalyst in metabolic reactions.
 - Catalyse **breakdown** (starch → sugars) and **synthesis** (glucose → glycogen; amino acids → protein).
 - **Active site**: region with a specific shape; substrate has a complementary shape.
-- Substrate binds → enzyme-substrate complex → products released → enzyme reused.
+- Substrate binds → enzyme-substrate complex → products released → enzyme reused. *(The term enzyme-substrate complex is not required by Edexcel 4BI1.)*
 - **Specificity**: one enzyme, one type of substrate, because of active site shape.
 
 <figure class="topic-figure">

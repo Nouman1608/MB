@@ -93,7 +93,7 @@ Lead(II) bromide must be heated in a **fume cupboard**: bromine is toxic. Very d
 
 <figure class="topic-figure">
   <img src="/images/learning/chemistry/igcse-edexcel-copper-sulfate-electrodes.svg" width="900" height="1200" alt="Blue copper(II) sulfate solution is electrolysed twice. With graphite, copper coats the cathode and oxygen bubbles form at the anode. With copper electrodes copper again deposits, but the anode dissolves and gets smaller. The whole figure is marked Paper 2 only, and the copper-electrode half is marked not required by Edexcel." loading="lazy">
-  <figcaption>Copper deposits at the cathode either way; the anode gives oxygen with graphite but dissolves if it is copper.</figcaption>
+  <figcaption>Copper deposits at the cathode either way; the anode gives oxygen with graphite but dissolves if it is copper. Copper electrodes are not required by Edexcel 4CH1, which names inert electrodes only.</figcaption>
 </figure>
 
 

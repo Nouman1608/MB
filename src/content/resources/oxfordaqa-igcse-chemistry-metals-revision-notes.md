@@ -161,7 +161,7 @@ Raw materials: iron ore, coke, limestone, hot air. Overall with carbon: 2Feâ‚‚Oâ
 
 <figure class="topic-figure">
   <img src="/images/learning/chemistry/igcse-oxfordaqa-slag.svg" width="900" height="910" alt="Limestone breaks down to lime and carbon dioxide, then lime reacts with silica (sand) to make slag. The slag floats on top of the molten iron and is drawn off separately. The slag-tapping diagram is marked not required by OxfordAQA, as furnace detail." loading="lazy">
-  <figcaption>Slag carries away the silica impurity and floats on the iron.</figcaption>
+  <figcaption>Slag carries away the silica impurity and floats on the iron. Slag floating on the iron and being drawn off is beyond the OxfordAQA 9202 specification.</figcaption>
 </figure>
 
 

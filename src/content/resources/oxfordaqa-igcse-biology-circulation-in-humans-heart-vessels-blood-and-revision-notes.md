@@ -82,7 +82,7 @@ These notes condense section 3.2.3, Circulation in humans (statements a to t), o
 
 <figure class="topic-figure">
   <img src="/images/learning/biology/igcse-shared-intl-circulation.svg" width="900" height="1290" alt="Top: in a fish the heart pumps blood to the gills, then on to the body and back, so blood passes through the heart once per circuit and pressure drops in the gills. Bottom: in a mammal the right side pumps deoxygenated blood to the lungs, oxygenated blood returns to the left side, which pumps it at high pressure to the body; blood passes through the heart twice per circuit. Left side of the heart is drawn on the right. The fish panel is greyed as not required." loading="lazy">
-  <figcaption>A fish heart is passed once per circuit; a mammal heart twice, with the two sides kept separate.</figcaption>
+  <figcaption>A fish heart is passed once per circuit; a mammal heart twice, with the two sides kept separate. The fish circulation is beyond the OxfordAQA 9201 specification.</figcaption>
 </figure>
 
 

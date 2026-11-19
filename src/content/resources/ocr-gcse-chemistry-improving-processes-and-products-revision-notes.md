@@ -76,7 +76,7 @@ Reactivity series (part): **K, Na, Ca, Mg, Al, (C), Zn, Fe, Sn, Pb, (H), Cu, Ag,
 
 - **Why:** metal is above carbon, so carbon cannot remove the oxygen.
 - **Cost:** large amounts of electricity, plus energy to melt the ore. Smelters are often near cheap electricity.
-- **Aluminium:** oxide dissolved in molten cryolite (lower operating temperature). Cathode: Al³⁺ + 3e⁻ → Al. Anode: 2O²⁻ → O₂ + 4e⁻; oxygen burns the carbon anodes to CO₂, so they are replaced.
+- **Aluminium:** oxide dissolved in molten cryolite (lower operating temperature). Half equations (Higher Tier only): cathode Al³⁺ + 3e⁻ → Al. Anode: 2O²⁻ → O₂ + 4e⁻; oxygen burns the carbon anodes to CO₂, so they are replaced.
 - **PAG C2, inert electrodes:**
   - NaCl(aq): hydrogen at the cathode (pop test), chlorine at the anode (bleaches damp litmus).
   - CuSO₄(aq): copper at the cathode (pink coating), oxygen at the anode (relights a glowing splint).

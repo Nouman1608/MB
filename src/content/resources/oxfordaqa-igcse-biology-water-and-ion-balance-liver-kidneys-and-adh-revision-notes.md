@@ -105,7 +105,7 @@ Must-know distinction: **filtering is not selective, reabsorption is.**
 
 <figure class="topic-figure">
   <img src="/images/learning/biology/igcse-oxfordaqa-nephron.svg" width="900" height="1270" alt="One nephron: blood enters the glomerulus inside the capsule and water, glucose, urea and ions are filtered into the tubule, while blood cells and protein stay in the blood. Along the coiled tubule all glucose, most water and some ions return to the capillaries. Urea, excess water and excess ions pass on as urine to the collecting duct. The part names are greyed as not required by OxfordAQA." loading="lazy">
-  <figcaption>Filtration at the glomerulus, reabsorption along the tubule, urine in the collecting duct.</figcaption>
+  <figcaption>Filtration at the glomerulus, reabsorption along the tubule, urine in the collecting duct. The nephron part names are beyond the OxfordAQA 9201 specification.</figcaption>
 </figure>
 
 <figure class="topic-figure">
