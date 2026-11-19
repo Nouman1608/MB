@@ -14,8 +14,6 @@ order: 4
 syllabusTopics:
   - qualification: "a-level"
     topic: "processor-fundamentals"
-  - qualification: "a-level"
-    topic: "processor-fundamentals"
     subtopic: "cpu-architecture"
   - qualification: "a-level"
     topic: "processor-fundamentals"

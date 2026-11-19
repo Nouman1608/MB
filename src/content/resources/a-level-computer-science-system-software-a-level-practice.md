@@ -14,8 +14,6 @@ order: 16
 syllabusTopics:
   - qualification: "a-level"
     topic: "a-system-software"
-  - qualification: "a-level"
-    topic: "a-system-software"
     subtopic: "purposes-of-an-operating-system-os"
   - qualification: "a-level"
     topic: "a-system-software"

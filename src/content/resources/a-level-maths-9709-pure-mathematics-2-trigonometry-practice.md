@@ -13,8 +13,6 @@ order: 39
 syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-2-cambridge-alevel"
-  - qualification: "a-level"
-    topic: "pure-mathematics-2-cambridge-alevel"
     subtopic: "trigonometry-cambridge-alevel-maths-2"
 description: "12 original Cambridge 9709 Paper 2 trigonometry questions on sec, cosec, cot, compound angles and R-form, with mark-by-mark worked answers."
 author: "marlbridge-academic-team"

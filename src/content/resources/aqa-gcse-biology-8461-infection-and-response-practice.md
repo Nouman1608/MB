@@ -13,8 +13,6 @@ order: 3
 syllabusTopics:
   - qualification: "gcse"
     topic: "infection-and-response-aqa-gcse-biology"
-  - qualification: "gcse"
-    topic: "infection-and-response-aqa-gcse-biology"
     subtopic: "communicable-diseases-aqa-gcse-biology"
   - qualification: "gcse"
     topic: "infection-and-response-aqa-gcse-biology"

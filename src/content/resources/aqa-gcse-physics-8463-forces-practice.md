@@ -13,8 +13,6 @@ order: 5
 syllabusTopics:
   - qualification: "gcse"
     topic: "forces-aqa-gcse"
-  - qualification: "gcse"
-    topic: "forces-aqa-gcse"
     subtopic: "forces-and-their-interactions"
   - qualification: "gcse"
     topic: "forces-aqa-gcse"

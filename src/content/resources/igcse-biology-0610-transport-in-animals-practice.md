@@ -13,8 +13,6 @@ order: 9
 syllabusTopics:
   - qualification: "igcse"
     topic: "transport-in-animals-cambridge-igcse-biology"
-  - qualification: "igcse"
-    topic: "transport-in-animals-cambridge-igcse-biology"
     subtopic: "circulatory-systems-cambridge-igcse-biology"
   - qualification: "igcse"
     topic: "transport-in-animals-cambridge-igcse-biology"

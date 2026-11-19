@@ -13,8 +13,6 @@ order: 3.1
 syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-3-cambridge-alevel"
-  - qualification: "a-level"
-    topic: "pure-mathematics-3-cambridge-alevel"
     subtopic: "algebra-cambridge-alevel-maths-3"
   - qualification: "a-level"
     topic: "pure-mathematics-3-cambridge-alevel"

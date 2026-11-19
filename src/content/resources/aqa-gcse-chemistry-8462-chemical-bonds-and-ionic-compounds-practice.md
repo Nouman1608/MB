@@ -13,8 +13,6 @@ order: 2
 syllabusTopics:
   - qualification: "gcse"
     topic: "bonding-structure-and-the-properties-of-matter-8462"
-  - qualification: "gcse"
-    topic: "bonding-structure-and-the-properties-of-matter-8462"
     subtopic: "chemical-bonds-8462"
   - qualification: "gcse"
     topic: "bonding-structure-and-the-properties-of-matter-8462"

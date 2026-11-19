@@ -13,8 +13,6 @@ order: 42
 syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-2-cambridge-alevel"
-  - qualification: "a-level"
-    topic: "pure-mathematics-2-cambridge-alevel"
     subtopic: "numerical-solution-of-equations-cambridge-2"
 description: "10 original Cambridge 9709 Paper 2 questions on sign changes and iteration, with mark-by-mark worked answers and an examiner insight for each."
 author: "marlbridge-academic-team"

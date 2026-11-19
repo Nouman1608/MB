@@ -14,8 +14,6 @@ order: 3
 syllabusTopics:
   - qualification: "a-level"
     topic: "communication"
-  - qualification: "a-level"
-    topic: "communication"
     subtopic: "networks-including-the-internet"
 description: "Original practice questions with worked answers for Cambridge AS Computer Science 9618 Topic 2: network models, topologies, CSMA/CD, IP addresses and DNS."
 author: "marlbridge-academic-team"

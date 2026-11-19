@@ -13,8 +13,6 @@ order: 16
 syllabusTopics:
   - qualification: "igcse"
     topic: "reproduction-cambridge-igcse-biology"
-  - qualification: "igcse"
-    topic: "reproduction-cambridge-igcse-biology"
     subtopic: "sex-hormones-in-humans-cambridge-igcse-biology"
   - qualification: "igcse"
     topic: "reproduction-cambridge-igcse-biology"

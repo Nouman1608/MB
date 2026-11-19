@@ -13,8 +13,6 @@ order: 3
 syllabusTopics:
   - qualification: "igcse"
     topic: "sequences-functions-and-graphs-edexcel-igcse-maths"
-  - qualification: "igcse"
-    topic: "sequences-functions-and-graphs-edexcel-igcse-maths"
     subtopic: "sequences-edexcel-igcse-maths"
   - qualification: "igcse"
     topic: "sequences-functions-and-graphs-edexcel-igcse-maths"

@@ -13,8 +13,6 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "numbers-and-the-number-system-edexcel-igcse-maths"
-  - qualification: "igcse"
-    topic: "numbers-and-the-number-system-edexcel-igcse-maths"
     subtopic: "degree-of-accuracy-edexcel-igcse-maths"
   - qualification: "igcse"
     topic: "numbers-and-the-number-system-edexcel-igcse-maths"

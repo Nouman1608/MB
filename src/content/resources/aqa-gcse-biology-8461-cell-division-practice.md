@@ -13,8 +13,6 @@ order: 1
 syllabusTopics:
   - qualification: "gcse"
     topic: "cell-biology-aqa-gcse-biology"
-  - qualification: "gcse"
-    topic: "cell-biology-aqa-gcse-biology"
     subtopic: "cell-division-aqa-gcse-biology"
 description: "Original AQA GCSE Biology 8461 questions on 4.1.2 Cell division -- cell cycle data, mitosis in context and stem cells -- with marked answers."
 author: "marlbridge-academic-team"

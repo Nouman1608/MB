@@ -14,8 +14,6 @@ order: 11
 syllabusTopics:
   - qualification: "a-level"
     topic: "immunity-cambridge-alevel-biology"
-  - qualification: "a-level"
-    topic: "immunity-cambridge-alevel-biology"
     subtopic: "the-immune-system-cambridge-alevel-biology"
   - qualification: "a-level"
     topic: "immunity-cambridge-alevel-biology"

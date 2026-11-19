@@ -14,8 +14,6 @@ order: 8
 syllabusTopics:
   - qualification: "a-level"
     topic: "transport-in-mammals-cambridge-alevel-biology"
-  - qualification: "a-level"
-    topic: "transport-in-mammals-cambridge-alevel-biology"
     subtopic: "the-circulatory-system-cambridge-alevel-biology"
   - qualification: "a-level"
     topic: "transport-in-mammals-cambridge-alevel-biology"

@@ -13,6 +13,10 @@ order: 5
 syllabusTopics:
   - qualification: "o-level"
     topic: "financial-information-and-decisions"
+    subtopic: "cash-flow-forecasting-and-working-capital"
+  - qualification: "o-level"
+    topic: "financial-information-and-decisions"
+    subtopic: "analysis-of-accounts"
 description: "Original practice questions with worked answers on ROCE, profit margins, the current ratio, cash-flow forecasts and users of accounts for O Level Business 7115."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

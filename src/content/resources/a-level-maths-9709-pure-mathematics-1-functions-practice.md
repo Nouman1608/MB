@@ -13,8 +13,6 @@ order: 30
 syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-1-cambridge-alevel"
-  - qualification: "a-level"
-    topic: "pure-mathematics-1-cambridge-alevel"
     subtopic: "functions-cambridge-alevel-maths"
 description: "12 original Cambridge 9709 Paper 1 questions on functions -- ranges, composites, inverses and graph transformations -- with mark-by-mark answers."
 author: "marlbridge-academic-team"

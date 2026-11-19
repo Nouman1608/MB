@@ -13,6 +13,13 @@ order: 4
 syllabusTopics:
   - qualification: "o-level"
     topic: "operations-management"
+    subtopic: "production-of-goods-and-services"
+  - qualification: "o-level"
+    topic: "operations-management"
+    subtopic: "costs-scale-of-production-and-break-even-analysis"
+  - qualification: "o-level"
+    topic: "operations-management"
+    subtopic: "location-decisions"
 description: "Original practice questions with worked answers on flow and batch production, location, labour productivity and break-even for Cambridge O Level Business 7115."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

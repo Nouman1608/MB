@@ -13,6 +13,13 @@ order: 6
 syllabusTopics:
   - qualification: "o-level"
     topic: "external-influences-on-business-activity"
+    subtopic: "economic-issues"
+  - qualification: "o-level"
+    topic: "external-influences-on-business-activity"
+    subtopic: "environmental-and-ethical-issues"
+  - qualification: "o-level"
+    topic: "external-influences-on-business-activity"
+    subtopic: "business-and-the-international-economy"
 description: "Original practice questions with worked answers on import quotas, tax, external costs, pressure groups, exchange and interest rates for O Level Business 7115."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

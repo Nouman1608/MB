@@ -14,8 +14,6 @@ order: 6
 syllabusTopics:
   - qualification: "a-level"
     topic: "nucleic-acids-and-protein-synthesis-cambridge-alevel"
-  - qualification: "a-level"
-    topic: "nucleic-acids-and-protein-synthesis-cambridge-alevel"
     subtopic: "structure-of-nucleic-acids-and-replication-of-dna-cambridge"
   - qualification: "a-level"
     topic: "nucleic-acids-and-protein-synthesis-cambridge-alevel"

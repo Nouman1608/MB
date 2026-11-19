@@ -14,6 +14,13 @@ order: 4
 syllabusTopics:
   - qualification: "a-level"
     topic: "operations-management-as-cambridge-alevel-business"
+    subtopic: "the-nature-of-operations-cambridge-alevel-business"
+  - qualification: "a-level"
+    topic: "operations-management-as-cambridge-alevel-business"
+    subtopic: "inventory-management-cambridge-alevel-business"
+  - qualification: "a-level"
+    topic: "operations-management-as-cambridge-alevel-business"
+    subtopic: "capacity-utilisation-and-outsourcing-cambridge-alevel-business"
 description: "Practice questions with worked answers on inventory, re-order levels, buffer inventory, JIT, capacity utilisation and productivity for Cambridge 9609 Topic 4."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

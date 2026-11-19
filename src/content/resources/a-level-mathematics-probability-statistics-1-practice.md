@@ -13,8 +13,6 @@ order: 5
 syllabusTopics:
   - qualification: "a-level"
     topic: "probability-and-statistics-1-cambridge-alevel"
-  - qualification: "a-level"
-    topic: "probability-and-statistics-1-cambridge-alevel"
     subtopic: "permutations-and-combinations-cambridge-alevel-maths"
   - qualification: "a-level"
     topic: "probability-and-statistics-1-cambridge-alevel"

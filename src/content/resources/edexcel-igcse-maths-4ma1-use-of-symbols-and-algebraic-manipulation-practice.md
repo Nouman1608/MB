@@ -13,8 +13,6 @@ order: 2
 syllabusTopics:
   - qualification: "igcse"
     topic: "equations-formulae-and-identities-edexcel-igcse-maths"
-  - qualification: "igcse"
-    topic: "equations-formulae-and-identities-edexcel-igcse-maths"
     subtopic: "use-of-symbols-edexcel-igcse-maths"
   - qualification: "igcse"
     topic: "equations-formulae-and-identities-edexcel-igcse-maths"

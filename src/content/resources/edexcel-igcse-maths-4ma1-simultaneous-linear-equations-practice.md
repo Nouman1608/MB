@@ -13,8 +13,6 @@ order: 2
 syllabusTopics:
   - qualification: "igcse"
     topic: "equations-formulae-and-identities-edexcel-igcse-maths"
-  - qualification: "igcse"
-    topic: "equations-formulae-and-identities-edexcel-igcse-maths"
     subtopic: "simultaneous-linear-equations-edexcel-igcse-maths"
 description: "Twelve original simultaneous linear equations questions for Edexcel IGCSE Maths A 4MA1 section 2.6, with fully worked, mark-by-mark answers."
 author: "marlbridge-academic-team"

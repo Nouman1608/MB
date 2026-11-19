@@ -13,8 +13,6 @@ order: 3.2
 syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-3-cambridge-alevel"
-  - qualification: "a-level"
-    topic: "pure-mathematics-3-cambridge-alevel"
     subtopic: "trigonometry-cambridge-alevel-maths-3"
   - qualification: "a-level"
     topic: "pure-mathematics-3-cambridge-alevel"

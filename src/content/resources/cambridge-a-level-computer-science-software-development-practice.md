@@ -14,8 +14,6 @@ order: 12
 syllabusTopics:
   - qualification: "a-level"
     topic: "software-development"
-  - qualification: "a-level"
-    topic: "software-development"
     subtopic: "program-development-life-cycle"
   - qualification: "a-level"
     topic: "software-development"

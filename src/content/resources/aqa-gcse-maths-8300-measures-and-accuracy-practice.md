@@ -13,8 +13,6 @@ order: 1
 syllabusTopics:
   - qualification: "gcse"
     topic: "number-aqa-gcse-maths"
-  - qualification: "gcse"
-    topic: "number-aqa-gcse-maths"
     subtopic: "measures-and-accuracy-aqa-gcse-maths"
 description: "Eleven original AQA GCSE Maths 8300 questions on units, estimation, rounding, error intervals and bounds (N13-N16), with fully marked answers."
 author: "marlbridge-academic-team"

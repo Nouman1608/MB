@@ -14,8 +14,6 @@ order: 6
 syllabusTopics:
   - qualification: "a-level"
     topic: "security-privacy-and-data-integrity"
-  - qualification: "a-level"
-    topic: "security-privacy-and-data-integrity"
     subtopic: "data-security"
   - qualification: "a-level"
     topic: "security-privacy-and-data-integrity"

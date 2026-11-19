@@ -14,8 +14,6 @@ order: 4
 syllabusTopics:
   - qualification: "a-level"
     topic: "cell-membranes-and-transport-cambridge-alevel-biology"
-  - qualification: "a-level"
-    topic: "cell-membranes-and-transport-cambridge-alevel-biology"
     subtopic: "fluid-mosaic-membranes-cambridge-alevel-biology"
   - qualification: "a-level"
     topic: "cell-membranes-and-transport-cambridge-alevel-biology"

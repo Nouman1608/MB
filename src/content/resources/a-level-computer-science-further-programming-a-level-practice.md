@@ -14,8 +14,6 @@ order: 20
 syllabusTopics:
   - qualification: "a-level"
     topic: "further-programming"
-  - qualification: "a-level"
-    topic: "further-programming"
     subtopic: "programming-paradigms"
   - qualification: "a-level"
     topic: "further-programming"

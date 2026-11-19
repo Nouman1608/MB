@@ -13,8 +13,6 @@ order: 4
 syllabusTopics:
   - qualification: "a-level"
     topic: "mechanics-cambridge-alevel-maths"
-  - qualification: "a-level"
-    topic: "mechanics-cambridge-alevel-maths"
     subtopic: "forces-and-equilibrium-cambridge-alevel-maths"
   - qualification: "a-level"
     topic: "mechanics-cambridge-alevel-maths"

@@ -14,8 +14,6 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "cell-structure-cambridge-alevel-biology"
-  - qualification: "a-level"
-    topic: "cell-structure-cambridge-alevel-biology"
     subtopic: "the-microscope-in-cell-studies-cambridge-alevel-biology"
 description: "Original marked practice questions for Cambridge 9700 sub-topic 1.1: magnification, scale bars, graticules, slides, drawings and resolution."
 author: "marlbridge-academic-team"

@@ -14,6 +14,13 @@ order: 9
 syllabusTopics:
   - qualification: "a-level"
     topic: "operations-management-a-cambridge-alevel-business"
+    subtopic: "location-and-scale-cambridge-alevel-business"
+  - qualification: "a-level"
+    topic: "operations-management-a-cambridge-alevel-business"
+    subtopic: "quality-management-cambridge-alevel-business"
+  - qualification: "a-level"
+    topic: "operations-management-a-cambridge-alevel-business"
+    subtopic: "operations-strategy-cambridge-alevel-business"
 description: "Worked practice questions on TQM, quality assurance, kaizen, critical path analysis, location decisions and diseconomies of scale for Cambridge 9609 Business."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

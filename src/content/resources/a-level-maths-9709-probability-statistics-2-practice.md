@@ -13,8 +13,6 @@ order: 6
 syllabusTopics:
   - qualification: "a-level"
     topic: "probability-and-statistics-2-cambridge-alevel"
-  - qualification: "a-level"
-    topic: "probability-and-statistics-2-cambridge-alevel"
     subtopic: "the-poisson-distribution-cambridge-alevel-maths"
   - qualification: "a-level"
     topic: "probability-and-statistics-2-cambridge-alevel"

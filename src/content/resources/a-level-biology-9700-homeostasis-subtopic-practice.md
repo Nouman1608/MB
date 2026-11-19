@@ -14,8 +14,6 @@ order: 14
 syllabusTopics:
   - qualification: "a-level"
     topic: "homeostasis-cambridge-alevel-biology"
-  - qualification: "a-level"
-    topic: "homeostasis-cambridge-alevel-biology"
     subtopic: "homeostasis-in-mammals-cambridge-alevel-biology"
   - qualification: "a-level"
     topic: "homeostasis-cambridge-alevel-biology"

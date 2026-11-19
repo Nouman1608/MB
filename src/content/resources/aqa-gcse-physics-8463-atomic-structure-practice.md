@@ -13,8 +13,6 @@ order: 4
 syllabusTopics:
   - qualification: "gcse"
     topic: "atomic-structure-aqa-gcse"
-  - qualification: "gcse"
-    topic: "atomic-structure-aqa-gcse"
     subtopic: "atoms-and-isotopes-aqa"
   - qualification: "gcse"
     topic: "atomic-structure-aqa-gcse"

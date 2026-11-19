@@ -14,8 +14,6 @@ order: 15
 syllabusTopics:
   - qualification: "a-level"
     topic: "control-and-coordination-cambridge-alevel-biology"
-  - qualification: "a-level"
-    topic: "control-and-coordination-cambridge-alevel-biology"
     subtopic: "control-and-coordination-in-mammals-cambridge"
   - qualification: "a-level"
     topic: "control-and-coordination-cambridge-alevel-biology"

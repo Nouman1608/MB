@@ -13,8 +13,6 @@ order: 1
 syllabusTopics:
   - qualification: "gcse"
     topic: "number-aqa-gcse-maths"
-  - qualification: "gcse"
-    topic: "number-aqa-gcse-maths"
     subtopic: "fractions-decimals-and-percentages-aqa-gcse-maths"
 description: "Twelve original AQA GCSE Maths 8300 questions on N10-N12, from ordering and recurring decimals to ratio fractions and multipliers, with marked answers."
 author: "marlbridge-academic-team"

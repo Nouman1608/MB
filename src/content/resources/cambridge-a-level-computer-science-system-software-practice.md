@@ -14,8 +14,6 @@ order: 5
 syllabusTopics:
   - qualification: "a-level"
     topic: "system-software"
-  - qualification: "a-level"
-    topic: "system-software"
     subtopic: "operating-systems"
   - qualification: "a-level"
     topic: "system-software"
