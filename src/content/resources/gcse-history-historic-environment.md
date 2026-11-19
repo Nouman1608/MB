@@ -7,7 +7,11 @@ topic: "The Historic Environment Study"
 boards: ["aqa"]
 qualifications: ["gcse"]
 syllabusCodes: ["8145"]
+syllabusSeries: "first teaching 2016"
 order: 5
+syllabusTopics:
+  - qualification: "gcse"
+    topic: "shaping-the-nation-8145"
 description: "How the historic environment study works in AQA GCSE History 8145 Paper 2: linking a specified site to your British depth study through change and causation."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

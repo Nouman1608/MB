@@ -7,7 +7,7 @@ level: ["ib"]
 topic: "Arguments for and against protection"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: []
+syllabusCodes: ["DP Economics"]
 syllabusSeries: "First assessment 2022"
 order: 318
 syllabusTopics:

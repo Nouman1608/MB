@@ -6,7 +6,11 @@ level: ["ib"]
 boards: ["ib"]
 qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Design"]
+syllabusSeries: "From 2014"
 order: 1
+syllabusTopics:
+  - qualification: "ib-myp"
+    topic: "ib-myp-design-assessment-criteria"
 description: "Condensed recall notes on the four assessment criteria and the design cycle for IB Middle Years Programme Design."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"

@@ -7,7 +7,7 @@ level: ["ib"]
 topic: "Market power (HL)"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: []
+syllabusCodes: ["DP Economics"]
 syllabusSeries: "First assessment 2022"
 order: 310
 syllabusTopics:

@@ -7,6 +7,7 @@ topic: "Methods in Context"
 boards: ["aqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["7192"]
+syllabusSeries: "first teaching 2015"
 order: 1
 syllabusTopics:
   - qualification: "a-level"

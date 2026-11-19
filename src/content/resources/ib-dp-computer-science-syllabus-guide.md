@@ -11,6 +11,11 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Computer Science"]
 syllabusSeries: "First assessment 2027"
 order: 2
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-computer-science-theme-a"
+  - qualification: "ib-dp"
+    topic: "ib-dp-computer-science-theme-b"
 description: "Full syllabus map for IB DP Computer Science, first assessment 2027: Theme A and Theme B sub-topics, the case study and recommended teaching hours at SL and HL."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"

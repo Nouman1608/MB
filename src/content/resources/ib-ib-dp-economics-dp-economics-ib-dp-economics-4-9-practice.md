@@ -6,7 +6,7 @@ level: ["ib"]
 topic: "Unit 4 – The global economy"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: []
+syllabusCodes: ["DP Economics"]
 syllabusSeries: "First assessment 2022"
 order: 4.09
 syllabusTopics:

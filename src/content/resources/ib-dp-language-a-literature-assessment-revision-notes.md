@@ -6,6 +6,7 @@ level: ["ib"]
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Language A: Literature"]
+syllabusSeries: "First assessments for SL and HL 2021"
 order: 1
 description: "IB DP Language A: Literature -- condensed recall notes on the assessment structure at SL and HL, papers, weightings, the individual oral and the HL essay."
 author: "marlbridge-academic-team"

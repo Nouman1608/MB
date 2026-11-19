@@ -7,7 +7,7 @@ level: ["ib"]
 topic: "Competitive market equilibrium"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: []
+syllabusCodes: ["DP Economics"]
 syllabusSeries: "First assessment 2022"
 order: 303
 syllabusTopics:

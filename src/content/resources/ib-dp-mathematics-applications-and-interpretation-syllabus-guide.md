@@ -10,6 +10,17 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Mathematics: Applications and Interpretation"]
 syllabusSeries: "First assessment 2021"
 order: 2
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-mathematics-applications-and-interpretation-number-and-algebra"
+  - qualification: "ib-dp"
+    topic: "ib-dp-mathematics-applications-and-interpretation-functions"
+  - qualification: "ib-dp"
+    topic: "ib-dp-mathematics-applications-and-interpretation-geometry-and-trigonometry"
+  - qualification: "ib-dp"
+    topic: "ib-dp-mathematics-applications-and-interpretation-statistics-and-probability"
+  - qualification: "ib-dp"
+    topic: "ib-dp-mathematics-applications-and-interpretation-calculus"
 description: "The five content strands of IB DP Mathematics: Applications and Interpretation, with SL and HL teaching hours, the toolkit, the exploration and paper structure."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"

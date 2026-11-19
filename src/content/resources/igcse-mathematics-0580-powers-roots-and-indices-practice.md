@@ -13,8 +13,6 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "number-cambridge-igcse-maths"
-  - qualification: "igcse"
-    topic: "number-cambridge-igcse-maths"
     subtopic: "powers-and-roots-cambridge-igcse-maths"
   - qualification: "igcse"
     topic: "number-cambridge-igcse-maths"

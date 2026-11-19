@@ -9,6 +9,19 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Chemistry"]
 syllabusSeries: "First assessment 2025"
 order: 2
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-chemistry-structure-1"
+  - qualification: "ib-dp"
+    topic: "ib-dp-chemistry-structure-2"
+  - qualification: "ib-dp"
+    topic: "ib-dp-chemistry-structure-3"
+  - qualification: "ib-dp"
+    topic: "ib-dp-chemistry-reactivity-1"
+  - qualification: "ib-dp"
+    topic: "ib-dp-chemistry-reactivity-2"
+  - qualification: "ib-dp"
+    topic: "ib-dp-chemistry-reactivity-3"
 description: "Every numbered sub-topic of the IB DP Chemistry syllabus, Structure 1 to 3 and Reactivity 1 to 3, with SL and HL teaching hours, for first assessment 2025."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"

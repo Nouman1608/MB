@@ -9,6 +9,17 @@ qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Sciences"]
 syllabusSeries: "From 2014"
 order: 2
+syllabusTopics:
+  - qualification: "ib-myp"
+    topic: "ib-myp-sciences-key-concepts"
+  - qualification: "ib-myp"
+    topic: "ib-myp-sciences-related-concepts"
+  - qualification: "ib-myp"
+    topic: "ib-myp-sciences-global-contexts"
+  - qualification: "ib-myp"
+    topic: "ib-myp-sciences-assessment-criteria"
+  - qualification: "ib-myp"
+    topic: "ib-myp-sciences-eassessment-structure"
 description: "The IB MYP Sciences framework: discrete, modular and integrated course models, the four assessment criteria, key concepts and the three-task eAssessment."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"

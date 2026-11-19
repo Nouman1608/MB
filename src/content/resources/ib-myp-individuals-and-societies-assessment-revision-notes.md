@@ -7,7 +7,13 @@ level: ["ib"]
 boards: ["ib"]
 qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Individuals and Societies"]
+syllabusSeries: "From 2014"
 order: 1
+syllabusTopics:
+  - qualification: "ib-myp"
+    topic: "ib-myp-individuals-and-societies-assessment-criteria"
+  - qualification: "ib-myp"
+    topic: "ib-myp-individuals-and-societies-eassessment-topics"
 description: "Condensed recall notes on the four assessment criteria and the optional eAssessment structure for IB Middle Years Programme Individuals and Societies."
 author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"

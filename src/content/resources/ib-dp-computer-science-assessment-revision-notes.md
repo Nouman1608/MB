@@ -6,6 +6,7 @@ level: ["ib"]
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Computer Science"]
+syllabusSeries: "First assessment 2027"
 order: 1
 description: "Recall notes on how IB Diploma Programme Computer Science is assessed at SL and HL: Paper 1, Paper 2, weightings and the computational solution IA."
 author: "marlbridge-academic-team"

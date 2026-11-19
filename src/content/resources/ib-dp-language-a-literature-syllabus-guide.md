@@ -9,6 +9,13 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Language A: Literature"]
 syllabusSeries: "First assessment 2021"
 order: 2
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-language-a-literature-readers-writers-texts"
+  - qualification: "ib-dp"
+    topic: "ib-dp-language-a-literature-time-space"
+  - qualification: "ib-dp"
+    topic: "ib-dp-language-a-literature-intertextuality"
 description: "The three areas of exploration of IB DP Language A: Literature, with teaching hours, works studied and how its all-literary reading list is examined."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"

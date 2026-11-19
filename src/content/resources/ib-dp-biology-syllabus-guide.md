@@ -9,6 +9,15 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Biology"]
 syllabusSeries: "First assessment 2025"
 order: 2
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-biology-unity-diversity"
+  - qualification: "ib-dp"
+    topic: "ib-dp-biology-form-function"
+  - qualification: "ib-dp"
+    topic: "ib-dp-biology-interaction-interdependence"
+  - qualification: "ib-dp"
+    topic: "ib-dp-biology-continuity-change"
 description: "The four themes of IB Diploma Programme Biology, their sub-topics, HL-only content and recommended SL and HL teaching hours, for first assessment 2025."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
