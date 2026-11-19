@@ -14,13 +14,13 @@ cites (the repository-side verification record helps: see `verificationRecord` a
 
 | Resource | Type | Verification outcome |
 | --- | --- | --- |
-| `cambridge-igcse-urdu-language-component-5-speaking-practice` | practice-questions | UNVERIFIED |
+| `cambridge-igcse-urdu-language-component-5-speaking-practice` | practice-questions | REPO_VERIFIED_AFTER_CORRECTION |
 
 ## ib · ib-dp · geography (DP Geography) — 1
 
 | Resource | Type | Verification outcome |
 | --- | --- | --- |
-| `ib-ib-dp-geography-fieldwork-internal-assessment-practice` | practice-questions | UNVERIFIED |
+| `ib-ib-dp-geography-fieldwork-internal-assessment-practice` | practice-questions | REPO_PARTIAL_UNVERIFIABLE |
 
 ## ocr · as-level · economics (H060) — 3
 

@@ -35,7 +35,7 @@ Unassessed resources are not counted as passing: they have no score and are excl
 | Evidence | Resources | What it is not |
 | --- | --- | --- |
 | Automated structural checks: PASS / WARN / FAIL | 15454 / 610 / 0 | Not an academic accuracy check |
-| Repository-side specification check (pending-review-*.json) | 783 | Not a teacher review |
+| Repository-side specification check (pending-review-*.json) | 785 | Not a teacher review |
 | Accountable teacher credited (reviewStatus "reviewed", D-379) | 16050 | Not a dated line-by-line check |
 | AI-assisted rubric assessment (current) | 4 | Not a teacher review; never an approval |
 | Human rubric assessment (current) | 0 | Not an approval on its own |
@@ -111,10 +111,10 @@ Unassessed resources are not counted as passing: they have no score and are excl
 | --- | --- | --- |
 | 1 | — | 0 |
 | 2 | — | 0 |
-| 3 | never verified against its specification | 2 |
-| 4 | partly unverifiable against a public source | 153 |
+| 3 | — | 0 |
+| 4 | partly unverifiable against a public source | 154 |
 | 5 | states assessment details (papers, marks, durations, thresholds) | 219 |
-| 6 | questions and worked answers | 5181 |
+| 6 | questions and worked answers | 5182 |
 | 7 | numerical / scientific content | 5202 |
 | 8 | routine | 5307 |
 

@@ -23,7 +23,7 @@ the human sign-off is outstanding for every review-pending resource.
 
 | Resources | 16064 |
 | --- | --- |
-| With a repository-side verification record | 783 |
+| With a repository-side verification record | 785 |
 | Corrected in the 4 Oct 2026 programme | 48 |
 | Pending with no reviewer assigned | 5 |
 | Showing "Checked by Marlbridge Academic Team" (specCheck) | 0 |
@@ -41,11 +41,10 @@ the human sign-off is outstanding for every review-pending resource.
 | Outcome | Resources |
 | --- | --- |
 | ARCHIVED | 9 |
-| REPO_PARTIAL_UNVERIFIABLE | 153 |
+| REPO_PARTIAL_UNVERIFIABLE | 154 |
 | REPO_VERIFIED | 588 |
-| REPO_VERIFIED_AFTER_CORRECTION | 42 |
+| REPO_VERIFIED_AFTER_CORRECTION | 43 |
 | TEACHER_CREDITED | 15270 |
-| UNVERIFIED | 2 |
 
 - `TEACHER_CREDITED` — marked reviewed (accountable-teacher credit). Metadata
   validated here; content not re-checked in this programme.

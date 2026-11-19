@@ -17,17 +17,16 @@
     },
     "outcome": {
       "ARCHIVED": 9,
-      "REPO_PARTIAL_UNVERIFIABLE": 153,
+      "REPO_PARTIAL_UNVERIFIABLE": 154,
       "REPO_VERIFIED": 588,
-      "REPO_VERIFIED_AFTER_CORRECTION": 42,
-      "TEACHER_CREDITED": 15270,
-      "UNVERIFIED": 2
+      "REPO_VERIFIED_AFTER_CORRECTION": 43,
+      "TEACHER_CREDITED": 15270
     },
     "structuralValidation": {
       "PASS": 15454,
       "WARN": 610
     },
-    "withVerificationRecord": 783,
+    "withVerificationRecord": 785,
     "withSpecCheck": 0,
     "correctedInThisProgramme": 48,
     "pendingWithoutReviewer": 5

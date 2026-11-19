@@ -36,7 +36,7 @@ review.
 
 | Resource | Course | Type | Verification | Also eligible |
 | --- | --- | --- | --- | --- |
-| `cambridge-igcse-urdu-language-component-5-speaking-practice` | cambridge igcse urdu-language (0539) | practice-questions | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-component-5-speaking-practice` | cambridge igcse urdu-language (0539) | practice-questions | VERIFIED_AFTER_CORRECTION | 0 |
 
 ## No eligible teacher — 1
 
@@ -48,4 +48,4 @@ is not a review and does not change their status.
 
 | Resource | Course | Type | Verification | Also eligible |
 | --- | --- | --- | --- | --- |
-| `ib-ib-dp-geography-fieldwork-internal-assessment-practice` | ib ib-dp geography (DP Geography) | practice-questions | UNVERIFIED | 0 |
+| `ib-ib-dp-geography-fieldwork-internal-assessment-practice` | ib ib-dp geography (DP Geography) | practice-questions | PARTIAL_UNVERIFIABLE | 0 |
