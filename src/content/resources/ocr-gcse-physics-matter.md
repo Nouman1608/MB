@@ -200,7 +200,7 @@ p1 V1 = p2 V2      at constant temperature
 
 ## Pressure in liquids and the atmosphere
 
-Pressure in a liquid increases with **depth** and with the liquid's **density**, because a deeper or denser column of liquid above a point has more weight pressing down on it:
+*Higher tier only (P1.3i, P1.3j and the equation p = h ρ g are in bold in the specification).* Pressure in a liquid increases with **depth** and with the liquid's **density**, because a deeper or denser column of liquid above a point has more weight pressing down on it:
 
 ```
 p = h rho g       (pressure = depth x density x gravitational field strength)
@@ -219,7 +219,7 @@ The **atmosphere** can be modelled as a layer of air surrounding the Earth whose
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-physics-matter--06-mat-liquid-pressure.webp" width="900" height="746" alt="A water tank with sideways arrows at depths 0.5, 1.0 and 2.0 m, with lengths proportional to the pressures 5000, 10 000 and 20 000 Pa. The difference between 0.5 m and 2.0 m is 15 000 Pa." loading="lazy">
-  <figcaption>p = h rho g: pressure grows in proportion to depth.</figcaption>
+  <figcaption>p = h rho g: pressure grows in proportion to depth. Higher tier only (P1.3i, P1.3j).</figcaption>
 </figure>
 
 <figure class="topic-figure">
