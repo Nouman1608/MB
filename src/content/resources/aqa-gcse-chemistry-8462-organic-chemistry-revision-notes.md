@@ -103,7 +103,7 @@ Fuels from crude oil: petrol, diesel oil, kerosene, heavy fuel oil, liquefied pe
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--03-homologous-series.webp" width="900" height="1275" alt="Methane to butane drawn as displayed formulae, each one CH2 bigger than the last, with formula from CnH2n+2 and boiling point rising down the series. Extended chips list what members share." loading="lazy">
+  <img src="/images/learning/chemistry/gcse-shared-homologous-series.svg" width="900" height="1275" alt="Methane to butane drawn as displayed formulae, each one CH2 bigger than the last, with formula from CnH2n+2 and boiling point rising down the series. Chips list what members share." loading="lazy">
   <figcaption>Each alkane is one CH2 bigger, following CnH2n+2.</figcaption>
 </figure>
 

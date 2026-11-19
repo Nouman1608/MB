@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="890" viewBox="0 0 1800 1780" role="img" aria-labelledby="title desc"><title id="title">Transverse and longitudinal waves</title><desc id="desc">Top panel: a transverse wave on a rope; one marked point vibrates up and down, at right angles to the wave direction arrow. Bottom panel: a longitudinal wave on a spring; one marked coil vibrates back and forth along the wave direction, and the coils bunch into compressions (C) and spread into rarefactions (R). No tier labels: both ideas are on both tiers.</desc><rect width="1800" height="1780" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="112" font-size="70" font-weight="700" fill="#1E2B47" text-anchor="middle">Which way does it vibrate?</text>
+<text x="900" y="190" font-size="44" fill="#4B5B72" text-anchor="middle">Compare vibration with wave direction</text>
+<rect x="60" y="290" width="1680" height="560" rx="28" fill="#FFFFFF" stroke="#1E2B47" stroke-width="6"/>
+<text x="120" y="378" font-size="52" font-weight="700" fill="#1E2B47">Transverse (rope, water, light)</text>
+<path d="M110.0 600.0L114.0 594.8L118.0 589.6L122.0 584.4L126.0 579.3L130.0 574.2L134.0 569.1L138.0 564.2L142.0 559.3L146.0 554.5L150.0 549.8L154.0 545.2L158.0 540.8L162.0 536.5L166.0 532.4L170.0 528.4L174.0 524.6L178.0 520.9L182.0 517.5L186.0 514.2L190.0 511.1L194.0 508.3L198.0 505.6L202.0 503.2L206.0 501.0L210.0 499.0L214.0 497.3L218.0 495.8L222.0 494.5L226.0 493.5L230.0 492.8L234.0 492.3L238.0 492.0L242.0 492.0L246.0 492.3L250.0 492.8L254.0 493.5L258.0 494.5L262.0 495.8L266.0 497.3L270.0 499.0L274.0 501.0L278.0 503.2L282.0 505.6L286.0 508.3L290.0 511.1L294.0 514.2L298.0 517.5L302.0 520.9L306.0 524.6L310.0 528.4L314.0 532.4L318.0 536.5L322.0 540.8L326.0 545.2L330.0 549.8L334.0 554.5L338.0 559.3L342.0 564.2L346.0 569.1L350.0 574.2L354.0 579.3L358.0 584.4L362.0 589.6L366.0 594.8L370.0 600.0L374.0 605.2L378.0 610.4L382.0 615.6L386.0 620.7L390.0 625.8L394.0 630.9L398.0 635.8L402.0 640.7L406.0 645.5L410.0 650.2L414.0 654.8L418.0 659.2L422.0 663.5L426.0 667.6L430.0 671.6L434.0 675.4L438.0 679.1L442.0 682.5L446.0 685.8L450.0 688.9L454.0 691.7L458.0 694.4L462.0 696.8L466.0 699.0L470.0 701.0L474.0 702.7L478.0 704.2L482.0 705.5L486.0 706.5L490.0 707.2L494.0 707.7L498.0 708.0L502.0 708.0L506.0 707.7L510.0 707.2L514.0 706.5L518.0 705.5L522.0 704.2L526.0 702.7L530.0 701.0L534.0 699.0L538.0 696.8L542.0 694.4L546.0 691.7L550.0 688.9L554.0 685.8L558.0 682.5L562.0 679.1L566.0 675.4L570.0 671.6L574.0 667.6L578.0 663.5L582.0 659.2L586.0 654.8L590.0 650.2L594.0 645.5L598.0 640.7L602.0 635.8L606.0 630.9L610.0 625.8L614.0 620.7L618.0 615.6L622.0 610.4L626.0 605.2L630.0 600.0L634.0 594.8L638.0 589.6L642.0 584.4L646.0 579.3L650.0 574.2L654.0 569.1L658.0 564.2L662.0 559.3L666.0 554.5L670.0 549.8L674.0 545.2L678.0 540.8L682.0 536.5L686.0 532.4L690.0 528.4L694.0 524.6L698.0 520.9L702.0 517.5L706.0 514.2L710.0 511.1L714.0 508.3L718.0 505.6L722.0 503.2L726.0 501.0L730.0 499.0L734.0 497.3L738.0 495.8L742.0 494.5L746.0 493.5L750.0 492.8L754.0 492.3L758.0 492.0L762.0 492.0L766.0 492.3L770.0 492.8L774.0 493.5L778.0 494.5L782.0 495.8L786.0 497.3L790.0 499.0L794.0 501.0L798.0 503.2L802.0 505.6L806.0 508.3L810.0 511.1L814.0 514.2L818.0 517.5L822.0 520.9L826.0 524.6L830.0 528.4L834.0 532.4L838.0 536.5L842.0 540.8L846.0 545.2L850.0 549.8L854.0 554.5L858.0 559.3L862.0 564.2L866.0 569.1L870.0 574.2L874.0 579.3L878.0 584.4L882.0 589.6L886.0 594.8L890.0 600.0L894.0 605.2L898.0 610.4L902.0 615.6L906.0 620.7L910.0 625.8L914.0 630.9L918.0 635.8L922.0 640.7L926.0 645.5L930.0 650.2L934.0 654.8L938.0 659.2L942.0 663.5L946.0 667.6L950.0 671.6L954.0 675.4L958.0 679.1L962.0 682.5L966.0 685.8L970.0 688.9L974.0 691.7L978.0 694.4L982.0 696.8L986.0 699.0L990.0 701.0L994.0 702.7L998.0 704.2L1002.0 705.5L1006.0 706.5L1010.0 707.2L1014.0 707.7L1018.0 708.0L1022.0 708.0L1026.0 707.7L1030.0 707.2L1034.0 706.5L1038.0 705.5L1042.0 704.2L1046.0 702.7L1050.0 701.0L1054.0 699.0L1058.0 696.8L1062.0 694.4L1066.0 691.7L1070.0 688.9L1074.0 685.8L1078.0 682.5L1082.0 679.1L1086.0 675.4L1090.0 671.6L1094.0 667.6L1098.0 663.5L1102.0 659.2L1106.0 654.8L1110.0 650.2L1114.0 645.5L1118.0 640.7L1122.0 635.8L1126.0 630.9L1130.0 625.8L1134.0 620.7L1138.0 615.6L1142.0 610.4L1146.0 605.2L1150.0 600.0L1154.0 594.8L1158.0 589.6L1162.0 584.4L1166.0 579.3L1170.0 574.2L1174.0 569.1L1178.0 564.2L1182.0 559.3L1186.0 554.5L1190.0 549.8L1194.0 545.2L1198.0 540.8L1202.0 536.5L1206.0 532.4L1210.0 528.4L1214.0 524.6L1218.0 520.9L1222.0 517.5L1226.0 514.2L1230.0 511.1L1234.0 508.3L1238.0 505.6L1242.0 503.2L1246.0 501.0L1250.0 499.0L1254.0 497.3L1258.0 495.8L1262.0 494.5L1266.0 493.5L1270.0 492.8L1274.0 492.3L1278.0 492.0L1282.0 492.0L1286.0 492.3L1290.0 492.8L1294.0 493.5L1298.0 494.5L1302.0 495.8L1306.0 497.3L1310.0 499.0L1314.0 501.0L1318.0 503.2L1322.0 505.6L1326.0 508.3L1330.0 511.1L1334.0 514.2L1338.0 517.5L1342.0 520.9L1346.0 524.6L1350.0 528.4L1354.0 532.4L1358.0 536.5L1362.0 540.8L1366.0 545.2L1370.0 549.8L1374.0 554.5L1378.0 559.3L1382.0 564.2L1386.0 569.1L1390.0 574.2L1394.0 579.3L1398.0 584.4L1402.0 589.6L1406.0 594.8L1410.0 600.0L1414.0 605.2L1418.0 610.4L1422.0 615.6L1426.0 620.7L1430.0 625.8L1434.0 630.9L1438.0 635.8L1442.0 640.7L1446.0 645.5L1450.0 650.2L1454.0 654.8L1458.0 659.2L1462.0 663.5L1466.0 667.6L1470.0 671.6L1474.0 675.4L1478.0 679.1L1482.0 682.5L1486.0 685.8L1490.0 688.9L1494.0 691.7L1498.0 694.4L1502.0 696.8L1506.0 699.0L1510.0 701.0L1514.0 702.7L1518.0 704.2L1522.0 705.5L1526.0 706.5L1530.0 707.2L1534.0 707.7L1538.0 708.0L1542.0 708.0L1546.0 707.7L1550.0 707.2L1554.0 706.5L1558.0 705.5L1562.0 704.2L1566.0 702.7L1570.0 701.0L1574.0 699.0L1578.0 696.8L1582.0 694.4L1586.0 691.7L1590.0 688.9L1594.0 685.8L1598.0 682.5L1602.0 679.1L1606.0 675.4L1610.0 671.6L1614.0 667.6L1618.0 663.5L1622.0 659.2L1626.0 654.8L1630.0 650.2L1634.0 645.5L1638.0 640.7" fill="none" stroke="#74ABA5" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="120" cy="587" r="12" fill="#D6B22F" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="160" cy="538.6" r="12" fill="#D6B22F" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="200" cy="504.4" r="12" fill="#D6B22F" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="240" cy="492" r="12" fill="#D6B22F" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="280" cy="504.4" r="12" fill="#D6B22F" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="320" cy="538.6" r="12" fill="#D6B22F" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="360" cy="587" r="12" fill="#D6B22F" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="400" cy="638.3" r="12" fill="#D6B22F" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="440" cy="680.8" r="12" fill="#D6B22F" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="480" cy="704.9" r="12" fill="#D6B22F" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="520" cy="704.9" r="12" fill="#D6B22F" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="560" cy="680.8" r="12" fill="#D6B22F" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="600" cy="638.3" r="12" fill="#D6B22F" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="640" cy="587" r="12" fill="#D6B22F" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="680" cy="538.6" r="12" fill="#D6B22F" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="720" cy="504.4" r="12" fill="#D6B22F" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="800" cy="504.4" r="12" fill="#D6B22F" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="840" cy="538.6" r="12" fill="#D6B22F" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="880" cy="587" r="12" fill="#D6B22F" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="920" cy="638.3" r="12" fill="#D6B22F" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="960" cy="680.8" r="12" fill="#D6B22F" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="1000" cy="704.9" r="12" fill="#D6B22F" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="1040" cy="704.9" r="12" fill="#D6B22F" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="1080" cy="680.8" r="12" fill="#D6B22F" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="1120" cy="638.3" r="12" fill="#D6B22F" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="1160" cy="587" r="12" fill="#D6B22F" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="1200" cy="538.6" r="12" fill="#D6B22F" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="1240" cy="504.4" r="12" fill="#D6B22F" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="1280" cy="492" r="12" fill="#D6B22F" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="1320" cy="504.4" r="12" fill="#D6B22F" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="1360" cy="538.6" r="12" fill="#D6B22F" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="1400" cy="587" r="12" fill="#D6B22F" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="1440" cy="638.3" r="12" fill="#D6B22F" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="1480" cy="680.8" r="12" fill="#D6B22F" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="1520" cy="704.9" r="12" fill="#D6B22F" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="1560" cy="704.9" r="12" fill="#D6B22F" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="1600" cy="680.8" r="12" fill="#D6B22F" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="1640" cy="638.3" r="12" fill="#D6B22F" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="760" cy="492" r="20" fill="#B9632F" stroke="#1E2B47" stroke-width="5"/>
+<line x1="850" y1="579" x2="850" y2="510" stroke="#B9632F" stroke-width="8" stroke-linecap="round"/><polygon points="850,468 876.4,512 823.6,512" fill="#B9632F"/><line x1="850" y1="579" x2="850" y2="648" stroke="#B9632F" stroke-width="8" stroke-linecap="round"/><polygon points="850,690 823.6,646 876.4,646" fill="#B9632F"/>
+<text x="885" y="470" font-size="46" font-weight="700" fill="#B9632F">vibration</text>
+<line x1="137" y1="790" x2="488" y2="790" stroke="#2F6B63" stroke-width="8" stroke-linecap="round"/><polygon points="552,790 486,823 486,757" fill="#2F6B63"/>
+<text x="570" y="806" font-size="46" font-weight="700" fill="#2F6B63">wave direction</text>
+<rect x="60" y="890" width="1680" height="660" rx="28" fill="#FFFFFF" stroke="#1E2B47" stroke-width="6"/>
+<text x="120" y="978" font-size="52" font-weight="700" fill="#1E2B47">Longitudinal (sound, spring)</text>
+<line x1="109.2" y1="1100" x2="109.2" y2="1325" stroke="#1E2B47" stroke-width="6"/>
+<line x1="173.8" y1="1100" x2="173.8" y2="1325" stroke="#1E2B47" stroke-width="6"/>
+<line x1="235.4" y1="1100" x2="235.4" y2="1325" stroke="#1E2B47" stroke-width="6"/>
+<line x1="289.1" y1="1100" x2="289.1" y2="1325" stroke="#1E2B47" stroke-width="6"/>
+<line x1="331.9" y1="1100" x2="331.9" y2="1325" stroke="#1E2B47" stroke-width="6"/>
+<line x1="363.7" y1="1100" x2="363.7" y2="1325" stroke="#1E2B47" stroke-width="6"/>
+<line x1="386.9" y1="1100" x2="386.9" y2="1325" stroke="#1E2B47" stroke-width="6"/>
+<line x1="406.4" y1="1100" x2="406.4" y2="1325" stroke="#1E2B47" stroke-width="6"/>
+<line x1="427.8" y1="1100" x2="427.8" y2="1325" stroke="#1E2B47" stroke-width="6"/>
+<line x1="456.3" y1="1100" x2="456.3" y2="1325" stroke="#1E2B47" stroke-width="6"/>
+<line x1="495.3" y1="1100" x2="495.3" y2="1325" stroke="#1E2B47" stroke-width="6"/>
+<line x1="545.6" y1="1100" x2="545.6" y2="1325" stroke="#1E2B47" stroke-width="6"/>
+<line x1="605" y1="1100" x2="605" y2="1325" stroke="#1E2B47" stroke-width="6"/>
+<line x1="669.3" y1="1100" x2="669.3" y2="1325" stroke="#1E2B47" stroke-width="6"/>
+<line x1="732.7" y1="1100" x2="732.7" y2="1325" stroke="#1E2B47" stroke-width="6"/>
+<line x1="789.8" y1="1100" x2="789.8" y2="1325" stroke="#1E2B47" stroke-width="6"/>
+<line x1="837" y1="1100" x2="837" y2="1325" stroke="#1E2B47" stroke-width="6"/>
+<line x1="872.8" y1="1100" x2="872.8" y2="1325" stroke="#1E2B47" stroke-width="6"/>
+<line x1="898.8" y1="1100" x2="898.8" y2="1325" stroke="#1E2B47" stroke-width="6"/>
+<line x1="919.1" y1="1100" x2="919.1" y2="1325" stroke="#B9632F" stroke-width="9"/>
+<line x1="939.1" y1="1100" x2="939.1" y2="1325" stroke="#1E2B47" stroke-width="6"/>
+<line x1="964.4" y1="1100" x2="964.4" y2="1325" stroke="#1E2B47" stroke-width="6"/>
+<line x1="999.1" y1="1100" x2="999.1" y2="1325" stroke="#1E2B47" stroke-width="6"/>
+<line x1="1045.2" y1="1100" x2="1045.2" y2="1325" stroke="#1E2B47" stroke-width="6"/>
+<line x1="1101.5" y1="1100" x2="1101.5" y2="1325" stroke="#1E2B47" stroke-width="6"/>
+<line x1="1164.6" y1="1100" x2="1164.6" y2="1325" stroke="#1E2B47" stroke-width="6"/>
+<line x1="1229" y1="1100" x2="1229" y2="1325" stroke="#1E2B47" stroke-width="6"/>
+<line x1="1289.1" y1="1100" x2="1289.1" y2="1325" stroke="#1E2B47" stroke-width="6"/>
+<line x1="1340.4" y1="1100" x2="1340.4" y2="1325" stroke="#1E2B47" stroke-width="6"/>
+<line x1="1380.4" y1="1100" x2="1380.4" y2="1325" stroke="#1E2B47" stroke-width="6"/>
+<line x1="1409.8" y1="1100" x2="1409.8" y2="1325" stroke="#1E2B47" stroke-width="6"/>
+<line x1="1431.7" y1="1100" x2="1431.7" y2="1325" stroke="#1E2B47" stroke-width="6"/>
+<line x1="1451.1" y1="1100" x2="1451.1" y2="1325" stroke="#1E2B47" stroke-width="6"/>
+<line x1="1473.8" y1="1100" x2="1473.8" y2="1325" stroke="#1E2B47" stroke-width="6"/>
+<line x1="1504.6" y1="1100" x2="1504.6" y2="1325" stroke="#1E2B47" stroke-width="6"/>
+<line x1="1546.3" y1="1100" x2="1546.3" y2="1325" stroke="#1E2B47" stroke-width="6"/>
+<line x1="1599" y1="1100" x2="1599" y2="1325" stroke="#1E2B47" stroke-width="6"/>
+<line x1="919.087368535626" y1="1050" x2="881.087368535626" y2="1050" stroke="#B9632F" stroke-width="8" stroke-linecap="round"/><polygon points="841.087368535626,1050 883.1,1024.8 883.1,1075.2" fill="#B9632F"/><line x1="919.087368535626" y1="1050" x2="957.087368535626" y2="1050" stroke="#B9632F" stroke-width="8" stroke-linecap="round"/><polygon points="997.087368535626,1050 955.1,1075.2 955.1,1024.8" fill="#B9632F"/>
+<text x="1024.087368535626" y="1066" font-size="46" font-weight="700" fill="#B9632F">vibration</text>
+<text x="140" y="1410" font-size="52" font-weight="700" fill="#8A6A0C" text-anchor="middle">R</text>
+<text x="400" y="1410" font-size="52" font-weight="700" fill="#2F6B63" text-anchor="middle">C</text>
+<text x="660" y="1410" font-size="52" font-weight="700" fill="#8A6A0C" text-anchor="middle">R</text>
+<text x="920" y="1410" font-size="52" font-weight="700" fill="#2F6B63" text-anchor="middle">C</text>
+<line x1="137" y1="1485" x2="488" y2="1485" stroke="#2F6B63" stroke-width="8" stroke-linecap="round"/><polygon points="552,1485 486,1518 486,1452" fill="#2F6B63"/>
+<text x="570" y="1501" font-size="46" font-weight="700" fill="#2F6B63">wave direction</text>
+<text x="120" y="1650" font-size="46" font-weight="700" fill="#2F6B63">C = compression: coils close</text>
+<text x="120" y="1722" font-size="46" font-weight="700" fill="#8A6A0C">R = rarefaction: coils spread out</text></g></svg>

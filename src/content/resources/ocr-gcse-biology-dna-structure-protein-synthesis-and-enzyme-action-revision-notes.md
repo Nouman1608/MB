@@ -100,7 +100,7 @@ Mnemonic for the stages: copy in the nucleus, read in the cytoplasm.
 4. Write the amino acids in order.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--03-gene-to-protein.webp" width="900" height="1120" alt="Higher Tier only. The gene stays in the nucleus; a copy of it, mRNA, is made and moves out through a pore to the cytoplasm; a ribosome joins amino acids in the order set by the mRNA bases; the chain folds into a protein whose shape decides what it does." loading="lazy">
+  <img src="/images/learning/biology/gcse-shared-gene-to-protein.svg" width="900" height="1120" alt="Higher Tier only. The gene stays in the nucleus; a copy of it, mRNA, is made and moves out through a pore to the cytoplasm; a ribosome joins amino acids in the order set by the mRNA bases; the chain folds into a protein whose shape decides what it does." loading="lazy">
   <figcaption>mRNA carries the gene’s base sequence to a ribosome, which sets the order of amino acids in the protein.</figcaption>
 </figure>
 
@@ -166,7 +166,7 @@ Optimum conditions differ between enzymes. Not every enzyme has an optimum of 37
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--02-mutation.webp" width="900" height="1215" alt="Top: mutation is genetic change that forms new alleles; ionising radiation and some chemicals raise its rate. Middle (Higher Tier only): a gene mutation changes one base in the DNA sequence, which can change the protein shape. Bottom: sources of variation are mutation, meiosis, random mating and random fertilisation." loading="lazy">
+  <img src="/images/learning/biology/gcse-shared-mutation-variation.svg" width="900" height="1215" alt="Top: mutation is genetic change that forms new alleles; ionising radiation and some chemicals raise its rate. Middle (Higher Tier only): a gene mutation changes one base in the DNA sequence, which can change the protein shape. Bottom: sources of variation are mutation, meiosis, random mating and random fertilisation." loading="lazy">
   <figcaption>Mutation forms new alleles; radiation and some chemicals raise the rate.</figcaption>
 </figure>
 
@@ -191,7 +191,7 @@ Optimum conditions differ between enzymes. Not every enzyme has an optimum of 37
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--06-ph-graph.webp" width="900" height="1000" alt="Sketch graph of enzyme activity against pH 0 to 14. Pepsin peaks in acidic conditions, trypsin in alkaline conditions; each falls on both sides of its optimum and is denatured far from it. Below, three small pictures show the substrate fitting at the optimum, fitting less well when pH moves away, and not fitting at extreme pH." loading="lazy">
+  <img src="/images/learning/biology/gcse-shared-enzyme-ph-graph.svg" width="900" height="1000" alt="Sketch graph of enzyme activity against pH 0 to 14. Pepsin peaks in acidic conditions, trypsin in alkaline conditions; each falls on both sides of its optimum and is denatured far from it. Below, three small pictures show the substrate fitting at the optimum, fitting less well when pH moves away, and not fitting at extreme pH." loading="lazy">
   <figcaption>Each enzyme has its own optimum pH; away from it the active site changes shape.</figcaption>
 </figure>
 

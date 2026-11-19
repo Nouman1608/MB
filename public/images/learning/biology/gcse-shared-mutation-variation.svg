@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1215" viewBox="0 0 1800 2430" role="img" aria-labelledby="title desc"><title id="title">Mutation and variation</title><desc id="desc">Top: mutation is a genetic change that forms new alleles; ionising radiation and some chemicals raise its rate, turning an original allele into a new allele. Middle, marked Higher tier only: a gene mutation changes one base in the DNA sequence (ATGCCATG becomes ATGCTATG), which can change the shape of the protein. Bottom: the sources of variation are mutation, meiosis, random mating and random fertilisation.</desc><rect width="1800" height="2430" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="105" font-size="68" font-weight="700" fill="#1E2B47" text-anchor="middle">Mutation and variation</text>
+<text x="900" y="168" font-size="44" fill="#4B5B72" text-anchor="middle">Schematic, not to scale</text>
+<rect x="60" y="230" width="1679" height="799" rx="36" fill="#FFFFFF" stroke="#1E2B47" stroke-width="6"/>
+<text x="122" y="326" font-size="56" font-weight="700" fill="#2F6B63">Mutation is genetic change</text>
+<text x="122" y="391" font-size="46" fill="#4B5B72">It forms new alleles. These raise its rate:</text>
+<line x1="312" y1="589" x2="357" y2="589" stroke="#8A6A0C" stroke-width="8" stroke-linecap="round"/>
+<line x1="290.6" y1="640.6" x2="322.4" y2="672.4" stroke="#8A6A0C" stroke-width="8" stroke-linecap="round"/>
+<line x1="239" y1="662" x2="239" y2="707" stroke="#8A6A0C" stroke-width="8" stroke-linecap="round"/>
+<line x1="187.4" y1="640.6" x2="155.6" y2="672.4" stroke="#8A6A0C" stroke-width="8" stroke-linecap="round"/>
+<line x1="166" y1="589" x2="121" y2="589" stroke="#8A6A0C" stroke-width="8" stroke-linecap="round"/>
+<line x1="187.4" y1="537.4" x2="155.6" y2="505.6" stroke="#8A6A0C" stroke-width="8" stroke-linecap="round"/>
+<line x1="239" y1="516" x2="239" y2="471" stroke="#8A6A0C" stroke-width="8" stroke-linecap="round"/>
+<line x1="290.6" y1="537.4" x2="322.4" y2="505.6" stroke="#8A6A0C" stroke-width="8" stroke-linecap="round"/>
+<circle cx="239" cy="589" r="45" fill="#D6B22F" stroke="#1E2B47" stroke-width="5"/>
+<text x="239" y="784" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">Ionising</text>
+<text x="239" y="843" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">radiation</text>
+<path d="M570 498 V577 L490 716 Q485 730 500 730 H696 Q711 730 706 716 L628 577 V498 Z" fill="#FFFFFF"/>
+<polygon points="527,652 670,652 706,716 700,729 496,729 490,716" fill="#74ABA5"/>
+<path d="M570 498 V577 L490 716 Q485 730 500 730 H696 Q711 730 706 716 L628 577 V498 Z" fill="none" stroke="#1E2B47" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="600" y="784" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">Some</text>
+<text x="600" y="843" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">chemicals</text>
+<line x1="796" y1="638" x2="985" y2="638" stroke="#1E2B47" stroke-width="8" stroke-linecap="round"/><polygon points="1039,638 983,666 983,610" fill="#1E2B47"/>
+<text x="1398" y="522" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">Original allele</text>
+<rect x="1118" y="559" width="561" height="80" rx="14" fill="#DDEBE8" stroke="#1E2B47" stroke-width="5"/>
+<rect x="1298" y="559" width="201" height="80" fill="#74ABA5" stroke="#1E2B47" stroke-width="5"/>
+<line x1="1398" y1="668" x2="1398" y2="756" stroke="#1E2B47" stroke-width="7" stroke-linecap="round"/><polygon points="1398,804 1373,754 1423,754" fill="#1E2B47"/>
+<text x="1452" y="751" font-size="46" font-weight="700" fill="#1E2B47">mutation</text>
+<rect x="1118" y="838" width="561" height="80" rx="14" fill="#DDEBE8" stroke="#1E2B47" stroke-width="5"/>
+<rect x="1298" y="838" width="201" height="80" fill="#D6B22F" stroke="#1E2B47" stroke-width="5"/>
+<line x1="1325" y1="905" x2="1370" y2="851" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<line x1="1375" y1="905" x2="1420" y2="851" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<line x1="1425" y1="905" x2="1470" y2="851" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<text x="1398" y="987" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">New allele</text>
+<rect x="60" y="1069" width="1679" height="798" rx="36" fill="#FFFFFF" stroke="#1E2B47" stroke-width="6"/>
+<rect x="122" y="1109.5" width="427" height="67" rx="33.5" fill="#8A6A0C"/><text x="335.5" y="1158.12" font-size="42" font-weight="700" fill="#FFFFFF" text-anchor="middle">Higher tier only</text>
+<text x="1180" y="1160" font-size="50" font-weight="700" fill="#1E2B47" text-anchor="middle">A change in the DNA base sequence</text>
+<text x="122" y="1316" font-size="46" font-weight="700" fill="#1E2B47">Before</text>
+<text x="122" y="1487" font-size="46" font-weight="700" fill="#1E2B47">After</text>
+<rect x="429" y="1239" width="121.5" height="112" rx="14" fill="#DDEBE8" stroke="#1E2B47" stroke-width="5"/>
+<text x="489.8" y="1315" font-size="56" font-weight="700" fill="#1E2B47" text-anchor="middle">A</text>
+<rect x="429" y="1409" width="121.5" height="112" rx="14" fill="#DDEBE8" stroke="#1E2B47" stroke-width="5"/>
+<text x="489.8" y="1485" font-size="56" font-weight="700" fill="#1E2B47" text-anchor="middle">A</text>
+<rect x="560.8" y="1239" width="121.5" height="112" rx="14" fill="#DDEBE8" stroke="#1E2B47" stroke-width="5"/>
+<text x="621.5" y="1315" font-size="56" font-weight="700" fill="#1E2B47" text-anchor="middle">T</text>
+<rect x="560.8" y="1409" width="121.5" height="112" rx="14" fill="#DDEBE8" stroke="#1E2B47" stroke-width="5"/>
+<text x="621.5" y="1485" font-size="56" font-weight="700" fill="#1E2B47" text-anchor="middle">T</text>
+<rect x="692.6" y="1239" width="121.5" height="112" rx="14" fill="#DDEBE8" stroke="#1E2B47" stroke-width="5"/>
+<text x="753.4" y="1315" font-size="56" font-weight="700" fill="#1E2B47" text-anchor="middle">G</text>
+<rect x="692.6" y="1409" width="121.5" height="112" rx="14" fill="#DDEBE8" stroke="#1E2B47" stroke-width="5"/>
+<text x="753.4" y="1485" font-size="56" font-weight="700" fill="#1E2B47" text-anchor="middle">G</text>
+<rect x="824.4" y="1239" width="121.5" height="112" rx="14" fill="#DDEBE8" stroke="#1E2B47" stroke-width="5"/>
+<text x="885.2" y="1315" font-size="56" font-weight="700" fill="#1E2B47" text-anchor="middle">C</text>
+<rect x="824.4" y="1409" width="121.5" height="112" rx="14" fill="#DDEBE8" stroke="#1E2B47" stroke-width="5"/>
+<text x="885.2" y="1485" font-size="56" font-weight="700" fill="#1E2B47" text-anchor="middle">C</text>
+<rect x="956.2" y="1239" width="121.5" height="112" rx="14" fill="#DDEBE8" stroke="#1E2B47" stroke-width="5"/>
+<text x="1017" y="1315" font-size="56" font-weight="700" fill="#1E2B47" text-anchor="middle">C</text>
+<rect x="956.2" y="1409" width="121.5" height="112" rx="14" fill="#D6B22F" stroke="#1E2B47" stroke-width="8"/>
+<text x="1017" y="1485" font-size="56" font-weight="700" fill="#1E2B47" text-anchor="middle">T</text>
+<rect x="1088" y="1239" width="121.5" height="112" rx="14" fill="#DDEBE8" stroke="#1E2B47" stroke-width="5"/>
+<text x="1148.8" y="1315" font-size="56" font-weight="700" fill="#1E2B47" text-anchor="middle">A</text>
+<rect x="1088" y="1409" width="121.5" height="112" rx="14" fill="#DDEBE8" stroke="#1E2B47" stroke-width="5"/>
+<text x="1148.8" y="1485" font-size="56" font-weight="700" fill="#1E2B47" text-anchor="middle">A</text>
+<rect x="1219.8" y="1239" width="121.5" height="112" rx="14" fill="#DDEBE8" stroke="#1E2B47" stroke-width="5"/>
+<text x="1280.6" y="1315" font-size="56" font-weight="700" fill="#1E2B47" text-anchor="middle">T</text>
+<rect x="1219.8" y="1409" width="121.5" height="112" rx="14" fill="#DDEBE8" stroke="#1E2B47" stroke-width="5"/>
+<text x="1280.6" y="1485" font-size="56" font-weight="700" fill="#1E2B47" text-anchor="middle">T</text>
+<rect x="1351.6" y="1239" width="121.5" height="112" rx="14" fill="#DDEBE8" stroke="#1E2B47" stroke-width="5"/>
+<text x="1412.4" y="1315" font-size="56" font-weight="700" fill="#1E2B47" text-anchor="middle">G</text>
+<rect x="1351.6" y="1409" width="121.5" height="112" rx="14" fill="#DDEBE8" stroke="#1E2B47" stroke-width="5"/>
+<text x="1412.4" y="1485" font-size="56" font-weight="700" fill="#1E2B47" text-anchor="middle">G</text>
+<text x="1012" y="1601" font-size="46" font-weight="700" fill="#8A6A0C" text-anchor="middle">one base changed</text>
+<circle cx="539" cy="1719" r="80" fill="#74ABA5" stroke="#1E2B47" stroke-width="6"/>
+<polygon points="539,1643 510,1699 571,1699" fill="#FFFFFF" stroke="#1E2B47" stroke-width="4" stroke-linejoin="round"/>
+<line x1="736" y1="1719" x2="1064" y2="1719" stroke="#1E2B47" stroke-width="8" stroke-linecap="round"/><polygon points="1118,1719 1062,1747 1062,1691" fill="#1E2B47"/>
+<polygon points="1239,1719 1285,1652 1379,1644 1429,1723 1375,1798 1282,1791" fill="#D6B22F" stroke="#1E2B47" stroke-width="6" stroke-linejoin="round"/>
+<text x="539" y="1847" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">Protein</text>
+<text x="1336" y="1847" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">New shape</text>
+<rect x="60" y="1909" width="1679" height="469" rx="36" fill="#FFFFFF" stroke="#1E2B47" stroke-width="6"/>
+<text x="122" y="2002" font-size="54" font-weight="700" fill="#1E2B47">Sources of variation</text>
+<rect x="119" y="2069" width="761" height="112" rx="22" fill="#F2E6B7" stroke="#1E2B47" stroke-width="5"/>
+<text x="499.5" y="2143" font-size="50" font-weight="700" fill="#1E2B47" text-anchor="middle">Mutation</text>
+<rect x="920" y="2069" width="760" height="112" rx="22" fill="#F2E6B7" stroke="#1E2B47" stroke-width="5"/>
+<text x="1300" y="2143" font-size="50" font-weight="700" fill="#1E2B47" text-anchor="middle">Meiosis</text>
+<rect x="119" y="2209" width="761" height="112" rx="22" fill="#F2E6B7" stroke="#1E2B47" stroke-width="5"/>
+<text x="499.5" y="2283" font-size="50" font-weight="700" fill="#1E2B47" text-anchor="middle">Random mating</text>
+<rect x="920" y="2209" width="760" height="112" rx="22" fill="#F2E6B7" stroke="#1E2B47" stroke-width="5"/>
+<text x="1300" y="2283" font-size="50" font-weight="700" fill="#1E2B47" text-anchor="middle">Random fertilisation</text></g></svg>

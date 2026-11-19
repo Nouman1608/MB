@@ -115,7 +115,7 @@ For a floating object of uniform density: fraction under the surface = density o
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--05-float-or-sink.webp" width="900" height="880" alt="A block of density 0.80 g/cm3 floats in water with 80% submerged, a stone of 2.7 g/cm3 sinks. In a second beaker oil of 0.92 g/cm3 floats on water of 1.0 g/cm3 (floating and sinking, P1.3h, is Higher Tier only)." loading="lazy">
+  <img src="/images/learning/physics/gcse-ocr-float-or-sink.svg" width="900" height="880" alt="A block of density 0.80 g/cm3 floats in water with 80% submerged, a stone of 2.7 g/cm3 sinks. In a second beaker oil of 0.92 g/cm3 floats on water of 1.0 g/cm3 (floating and sinking, P1.3h, is Higher Tier only)." loading="lazy">
   <figcaption>An object floats if its density is less than the liquid's; a less dense liquid floats on a denser one.</figcaption>
 </figure>
 

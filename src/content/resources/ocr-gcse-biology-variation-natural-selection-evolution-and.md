@@ -55,7 +55,7 @@ In most populations, extensive genetic variation exists before anything changes 
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--02-mutation.webp" width="900" height="1215" alt="Core: mutation is genetic change that forms new alleles; ionising radiation and some chemicals raise its rate. Extended: a gene mutation changes one base in the DNA sequence, which can change the protein shape; sources of variation are mutation, meiosis, random mating and random fertilisation." loading="lazy">
+  <img src="/images/learning/biology/gcse-shared-mutation-variation.svg" width="900" height="1215" alt="Top: mutation is genetic change that forms new alleles; ionising radiation and some chemicals raise its rate. Middle (Higher Tier only): a gene mutation changes one base in the DNA sequence, which can change the protein shape. Bottom: sources of variation are mutation, meiosis, random mating and random fertilisation." loading="lazy">
   <figcaption>Mutation forms new alleles; radiation and some chemicals raise the rate.</figcaption>
 </figure>
 

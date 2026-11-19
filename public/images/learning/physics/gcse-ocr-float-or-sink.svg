@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="880" viewBox="0 0 1800 1760" role="img" aria-labelledby="title desc"><title id="title">Will it float? (OCR GCSE Physics, Higher tier only)</title><desc id="desc">The whole figure is marked Higher tier only. In one beaker of water (density 1.0 g/cm³) a block of density 0.80 g/cm³ floats with most of it under the surface and a stone of 2.7 g/cm³ sinks to the bottom. In a second beaker oil of 0.92 g/cm³ floats on water of 1.0 g/cm³. A banner reads: density less than liquid, floats.</desc><rect width="1800" height="1760" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="112" font-size="70" font-weight="700" fill="#1E2B47" text-anchor="middle">Will it float?</text>
+<text x="900" y="185" font-size="44" fill="#4B5B72" text-anchor="middle" xml:space="preserve"><tspan>Compare densities in g/cm</tspan><tspan dy="-16.7" font-size="29.9">3</tspan></text>
+<rect x="670" y="246.5" width="460" height="67" rx="33.5" fill="#8A6A0C"/><text x="900" y="295.12" font-size="42" font-weight="700" fill="#FFFFFF" text-anchor="middle">Higher tier only</text>
+<rect x="163" y="640" width="534" height="517" fill="#D2E5EC"/>
+<rect x="240" y="607" width="240" height="161" rx="8" fill="#F2E6B7" stroke="#1E2B47" stroke-width="7"/>
+<text x="197" y="940" font-size="52" font-weight="700" fill="#1E2B47">Water 1.0</text>
+<polygon points="470,1143 495,1055 566,1023 630,1077 618,1143" fill="#8A97A8" stroke="#1E2B47" stroke-width="6" stroke-linejoin="round"/>
+<path d="M160 440 V1160 H700 V440" fill="none" stroke="#1E2B47" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1103" y="640" width="534" height="200" fill="#F2E6B7"/>
+<rect x="1103" y="840" width="534" height="317" fill="#D2E5EC"/>
+<line x1="1103" y1="840" x2="1637" y2="840" stroke="#1E2B47" stroke-width="5"/>
+<text x="1370" y="760" font-size="52" font-weight="700" fill="#1E2B47" text-anchor="middle">Oil 0.92</text>
+<text x="1370" y="1020" font-size="52" font-weight="700" fill="#1E2B47" text-anchor="middle">Water 1.0</text>
+<path d="M1100 440 V1160 H1640 V440" fill="none" stroke="#1E2B47" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="180" y="1280" width="72" height="56" rx="8" fill="#F2E6B7" stroke="#1E2B47" stroke-width="6"/>
+<text x="277" y="1333" font-size="52" font-weight="700" fill="#1E2B47">Block 0.80: floats</text>
+<polygon points="180,1405 192,1362 222,1348 250,1372 244,1420" fill="#8A97A8" stroke="#1E2B47" stroke-width="6" stroke-linejoin="round"/>
+<text x="277" y="1400" font-size="52" font-weight="700" fill="#1E2B47">Stone 2.7: sinks</text>
+<text x="1370" y="1300" font-size="52" font-weight="700" fill="#1E2B47" text-anchor="middle">Less dense liquid</text>
+<text x="1370" y="1372" font-size="52" font-weight="700" fill="#1E2B47" text-anchor="middle">floats on top</text>
+<rect x="120" y="1562" width="1560" height="153" rx="26" fill="#1E2B47"/>
+<text x="900" y="1663" font-size="64" font-weight="700" fill="#FFFFFF" text-anchor="middle">Density less than liquid: floats</text></g></svg>

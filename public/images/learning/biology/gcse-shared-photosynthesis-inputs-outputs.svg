@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1290" viewBox="0 0 1800 2580" role="img" aria-labelledby="title desc"><title id="title">Photosynthesis: raw materials in, products out</title><desc id="desc">A leaf takes in light energy from the sun, carbon dioxide from the air and water from the roots, and gives out oxygen; it makes glucose, a carbohydrate. A close-up of a chloroplast notes that chlorophyll, the green pigment, transfers light energy into chemical energy. Word equation: carbon dioxide + water → glucose + oxygen. Symbol equation: 6CO2 + 6H2O → C6H12O6 + 6O2. No tier labels.</desc><rect width="1800" height="2580" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="110" font-size="68" font-weight="700" fill="#1E2B47" text-anchor="middle">Photosynthesis</text>
+<text x="900" y="183" font-size="44" fill="#4B5B72" text-anchor="middle">Raw materials in, products out</text>
+<line x1="279.2" y1="402.2" x2="308.2" y2="410" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="258" y1="439" x2="279.2" y2="460.2" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="221.2" y1="460.2" x2="229" y2="489.2" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="178.8" y1="460.2" x2="171" y2="489.2" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="142" y1="439" x2="120.8" y2="460.2" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="120.8" y1="402.2" x2="91.8" y2="410" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="120.8" y1="359.8" x2="91.8" y2="352" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="142" y1="323" x2="120.8" y2="301.8" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="178.8" y1="301.8" x2="171" y2="272.8" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="221.2" y1="301.8" x2="229" y2="272.8" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="258" y1="323" x2="279.2" y2="301.8" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="279.2" y1="359.8" x2="308.2" y2="352" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<circle cx="200" cy="381" r="60" fill="#D6B22F" stroke="#8A6A0C" stroke-width="5"/>
+<text x="381" y="297" font-size="52" font-weight="700" fill="#8A6A0C">Light energy</text>
+<line x1="299" y1="458" x2="570.2762803704235" y2="765.5053601593074" stroke="#8A6A0C" stroke-width="8" stroke-linecap="round"/><polygon points="606,806 548,782.5 590,745.5" fill="#8A6A0C"/>
+<line x1="919" y1="1316" x2="919" y2="1600" stroke="#2E6B37" stroke-width="22" stroke-linecap="round"/>
+<path d="M381 1000 Q926 458 1481 1000 Q926 1542 381 1000 Z" fill="#54A05A" stroke="#2E6B37" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="381" y1="1000" x2="1481" y2="1000" stroke="#2E6B37" stroke-width="6" stroke-linecap="round"/>
+<text x="929" y="909" font-size="56" font-weight="700" fill="#FFFFFF" text-anchor="middle">Leaf</text>
+<rect x="0" y="1580" width="1800" height="140" fill="#C8A57A"/>
+<line x1="761" y1="1580" x2="677" y2="1720" stroke="#7A5A2E" stroke-width="5" stroke-linecap="round"/>
+<line x1="842" y1="1580" x2="799" y2="1720" stroke="#7A5A2E" stroke-width="5" stroke-linecap="round"/>
+<line x1="919" y1="1580" x2="919" y2="1720" stroke="#7A5A2E" stroke-width="5" stroke-linecap="round"/>
+<line x1="1000" y1="1580" x2="1040" y2="1720" stroke="#7A5A2E" stroke-width="5" stroke-linecap="round"/>
+<line x1="1080" y1="1580" x2="1161" y2="1720" stroke="#7A5A2E" stroke-width="5" stroke-linecap="round"/>
+<line x1="1120" y1="1603" x2="1120" y2="1375" stroke="#2E86B5" stroke-width="7" stroke-linecap="round"/><polygon points="1120,1325 1143.4,1377 1096.6,1377" fill="#2E86B5"/>
+<text x="1180" y="1458" font-size="52" font-weight="700" fill="#2E86B5">Water</text>
+<text x="1180" y="1522" font-size="46" fill="#4B5B72">from the roots</text>
+<line x1="119" y1="1109" x2="406.59203574368956" y2="1016.5294044363948" stroke="#2F6B63" stroke-width="8" stroke-linecap="round"/><polygon points="458,1000 413.3,1043.8 396.1,990.5" fill="#2F6B63"/>
+<text x="62" y="1178" font-size="52" font-weight="700" fill="#2F6B63">Carbon dioxide</text>
+<text x="62" y="1242" font-size="46" fill="#4B5B72">from the air</text>
+<line x1="1277" y1="819" x2="1552.3070398974758" y2="632.3074135695242" stroke="#B9632F" stroke-width="8" stroke-linecap="round"/><polygon points="1597,602 1566.4,656.6 1534.9,610.3" fill="#B9632F"/>
+<text x="1342" y="497" font-size="52" font-weight="700" fill="#B9632F">Oxygen</text>
+<text x="1342" y="564" font-size="46" fill="#4B5B72">given out</text>
+<line x1="1296" y1="1077" x2="1546.8393058542026" y2="1177.0023810714429" stroke="#8A6A0C" stroke-width="8" stroke-linecap="round"/><polygon points="1597,1197 1534.6,1202.3 1555.4,1150.3" fill="#8A6A0C"/>
+<text x="1281" y="1277" font-size="52" font-weight="700" fill="#8A6A0C">Glucose</text>
+<text x="1281" y="1342" font-size="46" fill="#4B5B72">a carbohydrate</text>
+<circle cx="659" cy="911" r="28" fill="none" stroke="#1E2B47" stroke-width="5"/>
+<line x1="668" y1="935" x2="458" y2="1832" stroke="#4B5B72" stroke-width="4" stroke-dasharray="10 10"/>
+<ellipse cx="341" cy="2020" rx="301" ry="191" fill="#BFE0B5" stroke="#2E6B37" stroke-width="6"/>
+<ellipse cx="200" cy="1960" rx="40" ry="26" fill="#54A05A" stroke="#2E6B37" stroke-width="4"/>
+<ellipse cx="400" cy="1949" rx="40" ry="26" fill="#54A05A" stroke="#2E6B37" stroke-width="4"/>
+<ellipse cx="299" cy="2060" rx="40" ry="26" fill="#54A05A" stroke="#2E6B37" stroke-width="4"/>
+<ellipse cx="468" cy="2060" rx="40" ry="26" fill="#54A05A" stroke="#2E6B37" stroke-width="4"/>
+<ellipse cx="240" cy="2100" rx="40" ry="26" fill="#54A05A" stroke="#2E6B37" stroke-width="4"/>
+<ellipse cx="379" cy="2100" rx="40" ry="26" fill="#54A05A" stroke="#2E6B37" stroke-width="4"/>
+<text x="700" y="1948" font-size="52" font-weight="700" fill="#2E6B37">Chloroplast</text>
+<text x="700" y="2019" font-size="46" fill="#1E2B47">Chlorophyll (green pigment)</text>
+<text x="700" y="2083" font-size="46" fill="#1E2B47">transfers light energy</text>
+<text x="700" y="2148" font-size="46" fill="#1E2B47">into chemical energy</text>
+<text x="899" y="2238" font-size="46" font-weight="700" fill="#4B5B72" text-anchor="middle">Word equation</text>
+<rect x="59" y="2299" width="261" height="121" rx="60" fill="#FFFFFF" stroke="#2F6B63" stroke-width="6"/>
+<text x="189.5" y="2377" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle" xml:space="preserve"><tspan>CO</tspan><tspan dy="12.9" font-size="31.3">2</tspan></text>
+<text x="387" y="2378" font-size="56" font-weight="700" fill="#1E2B47" text-anchor="middle">+</text>
+<rect x="428" y="2299" width="262" height="121" rx="60" fill="#FFFFFF" stroke="#2E86B5" stroke-width="6"/>
+<text x="559" y="2377" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">water</text>
+<line x1="735" y1="2360" x2="787" y2="2360" stroke="#1E2B47" stroke-width="6" stroke-linecap="round"/><polygon points="815,2360 785,2375 785,2345" fill="#1E2B47"/>
+<rect x="840" y="2299" width="320" height="121" rx="60" fill="#FFFFFF" stroke="#8A6A0C" stroke-width="6"/>
+<text x="1000" y="2377" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">glucose</text>
+<text x="1228" y="2378" font-size="56" font-weight="700" fill="#1E2B47" text-anchor="middle">+</text>
+<rect x="1268" y="2299" width="302" height="121" rx="60" fill="#FFFFFF" stroke="#B9632F" stroke-width="6"/>
+<text x="1419" y="2377" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">oxygen</text>
+<text x="59" y="2516" font-size="44" font-weight="700" fill="#4B5B72">Symbol equation:</text>
+<text x="470" y="2518" font-size="54" font-weight="700" fill="#1E2B47" xml:space="preserve"><tspan>6CO</tspan><tspan dy="15.1" font-size="36.7">2</tspan><tspan dy="-15.1"> + 6H</tspan><tspan dy="15.1" font-size="36.7">2</tspan><tspan dy="-15.1">O → C</tspan><tspan dy="15.1" font-size="36.7">6</tspan><tspan dy="-15.1">H</tspan><tspan dy="15.1" font-size="36.7">12</tspan><tspan dy="-15.1">O</tspan><tspan dy="15.1" font-size="36.7">6</tspan><tspan dy="-15.1"> + 6O</tspan><tspan dy="15.1" font-size="36.7">2</tspan></text></g></svg>

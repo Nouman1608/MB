@@ -69,7 +69,7 @@ The specification also lists **fundamental biological concepts** you must be abl
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--03-gene-to-protein.webp" width="900" height="1120" alt="Extended. The gene stays in the nucleus; a copy of it, mRNA, is made and moves out through a pore to the cytoplasm; a ribosome joins amino acids in the order set by the mRNA bases; the chain folds into a protein whose shape decides what it does." loading="lazy">
+  <img src="/images/learning/biology/gcse-shared-gene-to-protein.svg" width="900" height="1120" alt="Higher tier only. The gene stays in the nucleus; a copy of it, mRNA, is made and moves out through a pore to the cytoplasm; a ribosome joins amino acids in the order set by the mRNA bases; the chain folds into a protein whose shape decides what it does." loading="lazy">
   <figcaption>mRNA carries the gene’s base sequence to a ribosome, which sets the order of amino acids in the protein.</figcaption>
 </figure>
 
@@ -137,7 +137,7 @@ carbon dioxide + water  →(light)→  glucose + oxygen
 You must recognise these symbols. Photosynthesis is **endothermic**: energy is transferred from the environment to the chloroplasts by light. Because photosynthetic organisms are the producers of biomass, every food chain starts with them.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--01-photosynthesis-inputs-outputs.webp" width="900" height="1290" alt="A leaf takes in light energy, carbon dioxide from the air and water from the roots. Chlorophyll in chloroplasts transfers light energy into chemical energy. The leaf makes glucose and gives out oxygen. Word equation shown; Extended: 6CO2 + 6H2O gives C6H12O6 + 6O2." loading="lazy">
+  <img src="/images/learning/biology/gcse-shared-photosynthesis-inputs-outputs.svg" width="900" height="1290" alt="A leaf takes in light energy, carbon dioxide from the air and water from the roots. Chlorophyll in chloroplasts transfers light energy into chemical energy. The leaf makes glucose and gives out oxygen. Word equation shown; symbol equation: 6CO2 + 6H2O gives C6H12O6 + 6O2." loading="lazy">
   <figcaption>Raw materials go in, glucose and oxygen come out, using light energy absorbed by chlorophyll.</figcaption>
 </figure>
 
@@ -155,12 +155,12 @@ Anaerobic (plants, yeast): glucose → ethanol + carbon dioxide
 Anaerobic respiration transfers much less energy because the oxidation of glucose is incomplete. Organisms use the energy to build larger molecules, move and keep warm. **Metabolism** is the sum of all the reactions in a cell or the body, for example glucose to starch, glycogen and cellulose; glucose and nitrate ions to amino acids and then proteins; and the breakdown of excess protein to urea.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--02-aerobic-respiration.webp" width="900" height="1010" alt="Inside a cell, glucose and oxygen react to give carbon dioxide and water, releasing much energy. Extended panel: C6H12O6 + 6O2 gives 6CO2 + 6H2O, with 6 C, 12 H and 18 O atoms on each side." loading="lazy">
+  <img src="/images/learning/biology/gcse-shared-aerobic-respiration.svg" width="900" height="1010" alt="Inside a cell, glucose and oxygen react to give carbon dioxide and water, releasing much energy. Symbol equation: C6H12O6 + 6O2 gives 6CO2 + 6H2O, with 6 C, 12 H and 18 O atoms on each side." loading="lazy">
   <figcaption>Aerobic respiration uses oxygen and releases much energy per glucose.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--03-anaerobic-respiration.webp" width="900" height="1290" alt="Without oxygen, yeast turns glucose into ethanol and carbon dioxide; muscles in vigorous exercise turn glucose into lactic acid only, with no carbon dioxide. Schematic bars show both release much less energy than aerobic respiration. Extended panel: C6H12O6 gives 2C2H5OH + 2CO2." loading="lazy">
+  <img src="/images/learning/biology/gcse-shared-anaerobic-respiration.svg" width="900" height="1290" alt="Without oxygen, yeast turns glucose into ethanol and carbon dioxide; muscles in vigorous exercise turn glucose into lactic acid only, with no carbon dioxide. Schematic bars show both release much less energy than aerobic respiration. Symbol equation: C6H12O6 gives 2C2H5OH + 2CO2." loading="lazy">
   <figcaption>Anaerobic respiration releases much less energy, and yeast and muscle make different products.</figcaption>
 </figure>
 

@@ -184,7 +184,7 @@ Draw with a ruler, use right angles at corners and leave no gaps in the loop (un
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--02-circuit-symbols.webp" width="900" height="986" alt="Fourteen standard circuit symbols with names: cell, battery, open switch, fixed resistor, variable resistor, lamp, ammeter, voltmeter, fuse, thermistor, LDR, motor, diode and LED." loading="lazy">
+  <img src="/images/learning/physics/gcse-ocr-circuit-symbols.svg" width="900" height="986" alt="Fourteen standard circuit symbols with names: cell, battery, open switch, fixed resistor, variable resistor, lamp, ammeter, voltmeter, fuse, thermistor, LDR, motor, diode and LED." loading="lazy">
   <figcaption>The standard symbols to draw and recognise; the diode is on the P3.2b list for both tiers; the LED is not named in P3.2b.</figcaption>
 </figure>
 

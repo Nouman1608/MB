@@ -114,7 +114,7 @@ Plot time on the x-axis and draw a line of best fit through the origin. Gradient
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--04-aqueous-worked.webp" width="900" height="1290" alt="Two cells with gas tubes over each electrode. Concentrated sodium chloride gives hydrogen at the cathode and chlorine at the anode. Dilute sulfuric acid gives hydrogen and oxygen in a 2:1 volume ratio. Half-equations are Extended." loading="lazy">
+  <img src="/images/learning/chemistry/gcse-ocr-aqueous-electrolysis-worked.svg" width="900" height="1290" alt="Two cells with gas tubes over each electrode. Concentrated sodium chloride gives hydrogen at the cathode and chlorine at the anode. Dilute sulfuric acid gives hydrogen and oxygen in a 2:1 volume ratio. Half-equations are Higher Tier only." loading="lazy">
   <figcaption>Concentrated NaCl gives H2 and Cl2; dilute H2SO4 gives H2 and O2 in the ratio 2 : 1.</figcaption>
 </figure>
 

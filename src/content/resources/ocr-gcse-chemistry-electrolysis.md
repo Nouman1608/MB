@@ -112,7 +112,7 @@ The empirical formula is **CaI₂**. This matches the charges: one Ca²⁺ balan
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--01-molten-electrolysis.webp" width="900" height="1170" alt="A crucible of molten lead(II) bromide has two graphite electrodes joined to a power supply. Pb2+ ions move to the cathode and form lead; Br- ions move to the anode and form bromine. Electrons flow from the supply to the cathode and back from the anode, with the two half-equations (half-equations are Higher Tier only)." loading="lazy">
+  <img src="/images/learning/chemistry/gcse-shared-molten-electrolysis.svg" width="900" height="1170" alt="A crucible of molten lead(II) bromide has two graphite electrodes joined to a power supply. Pb2+ ions move to the cathode and form lead; Br- ions move to the anode and form bromine. Electrons flow from the supply to the cathode and back from the anode, with the two half-equations (half-equations are Higher Tier only)." loading="lazy">
   <figcaption>Ions carry charge through the melt and electrons through the wires; lead forms at the cathode and bromine at the anode.</figcaption>
 </figure>
 
@@ -140,7 +140,7 @@ Ions present: Na⁺, Cl⁻, H⁺, OH⁻.
 - Left in solution: Na⁺ and OH⁻, which make **sodium hydroxide**. The solution near the cathode turns alkaline.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--04-aqueous-worked.webp" width="900" height="1290" alt="Two cells with gas tubes over each electrode. Concentrated sodium chloride gives hydrogen at the cathode and chlorine at the anode. Dilute sulfuric acid gives hydrogen and oxygen in a 2:1 volume ratio. Half-equations are Higher Tier only." loading="lazy">
+  <img src="/images/learning/chemistry/gcse-ocr-aqueous-electrolysis-worked.svg" width="900" height="1290" alt="Two cells with gas tubes over each electrode. Concentrated sodium chloride gives hydrogen at the cathode and chlorine at the anode. Dilute sulfuric acid gives hydrogen and oxygen in a 2:1 volume ratio. Half-equations are Higher Tier only." loading="lazy">
   <figcaption>Concentrated NaCl gives H2 and Cl2; dilute H2SO4 gives H2 and O2 in the ratio 2 : 1.</figcaption>
 </figure>
 
@@ -170,7 +170,7 @@ Bromine shows as an orange-brown colour around the anode and iodine as a brown c
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--03-aqueous-rules.webp" width="900" height="1215" alt="At the cathode, a reactivity ladder shows that metals above hydrogen stay dissolved and hydrogen forms, while copper and silver below hydrogen form the metal. At the anode a concentrated halide gives a halogen, but a dilute halide or none gives oxygen." loading="lazy">
+  <img src="/images/learning/chemistry/gcse-shared-aqueous-electrolysis-rules.svg" width="900" height="1215" alt="At the cathode, a reactivity ladder shows that metals above hydrogen stay dissolved and hydrogen forms, while copper and silver below hydrogen form the metal. At the anode a concentrated halide gives a halogen, but a dilute halide or none gives oxygen." loading="lazy">
   <figcaption>Hydrogen forms unless the metal is below it in reactivity; a halide is discharged only if concentrated, otherwise oxygen forms.</figcaption>
 </figure>
 
