@@ -105,7 +105,7 @@ const hubIndex = [
   window.addEventListener('DOMContentLoaded', function () {
     if (typeof PagefindUI === 'undefined') return;
     var ui = new PagefindUI({ element: '#pagefind-search', showSubResults: true, showImages: false });
-    // D-341 -- shareable searches: /search/?q=electrolysis runs that search on
+    // Shareable searches: /search/?q=electrolysis runs that search on
     // load, and typing keeps ?q= in the address bar (replaceState, so the
     // back button is not flooded) so the current search can be copied or
     // bookmarked. Pagefind's own UI ignores the query string.
@@ -127,7 +127,7 @@ const hubIndex = [
       clearTimeout(syncTimer);
       syncTimer = setTimeout(function () { syncQuery(t.value); }, 400);
     });
-    // D-344 (audit A-02) -- Pagefind's Clear button empties the box without an
+    // Pagefind's Clear button empties the box without an
     // input event, so drop ?q= when it is clicked; otherwise a reload or a
     // shared link would run the old search again.
     document.addEventListener('click', function (e) {
@@ -136,7 +136,7 @@ const hubIndex = [
       clearTimeout(syncTimer);
       syncQuery('');
     });
-    // D-301 -- accessibility: Pagefind's input has only a placeholder, and
+    // Accessibility: Pagefind's input has only a placeholder, and
     // its result count is not announced. Name the input and make the
     // message a polite live region once Pagefind has rendered them.
     var host = document.getElementById('pagefind-search');
@@ -157,7 +157,7 @@ const hubIndex = [
 
 <script type="application/json" id="syllabus-code-index" set:html={JSON.stringify(hubIndex)} />
 <script is:inline>
-  // D-301 -- keyboard-accessible combobox (WAI-ARIA pattern). Typing no
+  // Keyboard-accessible combobox (WAI-ARIA pattern). Typing no
   // longer navigates away by itself (WCAG 3.2.2): Enter opens the exact
   // match or the highlighted option; Arrow keys move through options;
   // Escape closes the list.

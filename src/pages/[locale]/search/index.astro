@@ -44,7 +44,7 @@ const NOSCRIPT: Record<LocaleCode, string> = {
   window.addEventListener('DOMContentLoaded', function () {
     if (typeof PagefindUI === 'undefined') return;
     new PagefindUI({ element: '#pagefind-search', showSubResults: true, showImages: false, pageSize: 10 });
-    // D-301 -- name the search input (the page title, already translated)
+    // Name the search input (the page title, already translated)
     // and announce the result count, as on the English search page.
     var host = document.getElementById('pagefind-search');
     var label = document.querySelector('h1') ? document.querySelector('h1').textContent.trim() : '';
