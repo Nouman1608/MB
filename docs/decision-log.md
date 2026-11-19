@@ -16541,3 +16541,35 @@ Source: the owner's "Master Academic Quality Assurance, Content Authority & Sear
   - Comments inside inline scripts are readable with "view source". The consent script carried a D-280 comment on every page; the practice pages (D-104) and search pages (D-301, D-341, D-344) also had them.
   - The IDs are removed and the explanations kept.
   - `audit-content-integrity.mjs` has a new check, [7b]: no D-NNN in any inline script (other than JSON data) or HTML comment.
+
+## D-508 - Remaining gaps after D-507: survey and fills (19 Nov 2026)
+
+- **Owner's instruction.** "once done check for gaps remaining and spawn agents to fill the gaps".
+- **Survey.**
+  - Every active course (166) has a flashcard deck covering every subtopic.
+  - Every subtopic has a study guide and revision notes.
+  - The coverage report shows no zero-resource topic and no missing reviewer.
+  - Remaining gaps found:
+    - two subtopics with no practice page;
+    - two partial IB assessment records;
+    - missing syllabus metadata on topic-level pages;
+    - Cambridge tier names on AQA/OCR GCSE pages;
+    - flagship practice pages tagged only at topic level.
+- **Filled.**
+  - **Practice pages.**
+    - `cambridge-igcse-urdu-language-component-5-speaking-practice`: three parts of 20 marks each, per the 2025-2027 syllabus.
+    - `ib-ib-dp-geography-fieldwork-internal-assessment-practice`: 14 tasks; the Spearman's rank and chi-squared answers were recomputed.
+    - Both are review-pending.
+  - **Speaking revision notes.** `cambridge-igcse-urdu-language-component-5-speaking-revision-notes` said the syllabus gives no mark split for Parts 1 and 2. The syllabus (664633, Speaking section) gives 20 marks each. Corrected, including its self-test.
+  - **Syllabus metadata (front matter only).**
+    - 110 IB DP Economics pages had `syllabusCodes: []` and now carry "DP Economics".
+    - 46 pages got the series their siblings use.
+    - 28 pages got topic mappings.
+    - 31 were left unmapped because their course record has no matching topic: IGCSE Global Perspectives 0457 component pages, Edexcel 9UR0 paper-skill pages, IB DP "how it is assessed" overviews and DP History key concepts.
+    - Four 0580/0625 practice pages lost a redundant topic-only entry, so their questions now count at subtopic level.
+    - New sibling groups were reviewed with an 8-word shingle overlap check and recorded in `check-duplicate-resource-scope.mjs`.
+  - **Tier names.** 37 AQA and OCR GCSE pages used Cambridge's "Core"/"Extended" in the alt text and captions of reused IGCSE figures. Each label was checked against the AQA "(HT only)" markers or OCR's bold Higher-tier statements (J247, J248, J249). It now gives the true tier or is removed.
+    - One was a real error: the OCR J249 motion-graph labels were reversed. The gradient of a v-t graph is both tiers; the area under it is Higher only.
+- **Not filled.**
+  - **IB DP Language A records (2).** Language and Literature and Literature stay `VERIFIED_PARTIAL`. ibo.org refused automated access (a browser challenge), and the missing mark totals for the HL essay, individual oral and Paper 2 are probably only in the licensed subject guide. Nothing was invented.
+  - **Reused IGCSE figures.** About 25 figures on the 37 tier pages still have "Core"/"Extended" badges drawn into them. The text now gives the right tier, but each image needs an AQA/OCR version.
