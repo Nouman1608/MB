@@ -60,7 +60,7 @@ Examples you can use:
 A good answer names the substance, names the type of wave and says what happens. "Glass blocks light" is too vague, because glass transmits visible light.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-waves--07-em-spectrum.webp" width="900" height="950" alt="Seven regions from radio to gamma, each with a wave of shorter wavelength than the one above (illustrative) and one use. All travel at 3.0 x 10^8 m/s in a vacuum (Extended)." loading="lazy">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--07-em-spectrum.webp" width="900" height="950" alt="Seven regions from radio to gamma, each with a wave of shorter wavelength than the one above (illustrative) and one use. All travel at 3.0 x 10^8 m/s in a vacuum." loading="lazy">
   <figcaption>Frequency rises and wavelength falls from radio waves to gamma rays.</figcaption>
 </figure>
 
@@ -181,7 +181,7 @@ A faint reflected ray also appears at each surface. Add one if the question asks
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-waves--03-refraction-block.webp" width="900" height="940" alt="A ray at 45 degrees in air bends towards the normal to 28 degrees in glass (n = 1.5) and leaves parallel, bending away. n = sin i / sin r = 1.50 (Extended)." loading="lazy">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--03-refraction-block.webp" width="900" height="940" alt="A ray at 45 degrees in air bends towards the normal to 28 degrees in glass (n = 1.5) and leaves parallel, bending away. n = sin i / sin r = 1.50 (not required: OCR treats refraction qualitatively)." loading="lazy">
   <figcaption>Light slows and bends towards the normal entering glass, and speeds up and bends away leaving it.</figcaption>
 </figure>
 

@@ -130,7 +130,7 @@ magnification = image size / actual size
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--07-magnification.webp" width="900" height="1200" alt="A tiny real cell of 0.02 mm is magnified to a 60 mm image measured on a ruler. Magnification equals image size divided by actual size, 60 mm divided by 0.02 mm, which is times 3000. Both sizes must be in the same units. Extended: 1 mm equals 1000 micrometres, so 0.02 mm is 20 micrometres." loading="lazy">
+  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--07-magnification.webp" width="900" height="1200" alt="A tiny real cell of 0.02 mm is magnified to a 60 mm image measured on a ruler. Magnification equals image size divided by actual size, 60 mm divided by 0.02 mm, which is times 3000. Both sizes must be in the same units. Units: 1 mm equals 1000 micrometres, so 0.02 mm is 20 micrometres." loading="lazy">
   <figcaption>Magnification is image size divided by actual size, using the same units.</figcaption>
 </figure>
 
@@ -149,7 +149,7 @@ Because the folded shape of a protein depends on its amino acid sequence, a chan
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--03-gene-to-protein.webp" width="900" height="1120" alt="Extended. The gene stays in the nucleus; a copy of it, mRNA, is made and moves out through a pore to the cytoplasm; a ribosome joins amino acids in the order set by the mRNA bases; the chain folds into a protein whose shape decides what it does." loading="lazy">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--03-gene-to-protein.webp" width="900" height="1120" alt="Higher Tier only. The gene stays in the nucleus; a copy of it, mRNA, is made and moves out through a pore to the cytoplasm; a ribosome joins amino acids in the order set by the mRNA bases; the chain folds into a protein whose shape decides what it does." loading="lazy">
   <figcaption>mRNA carries the gene’s base sequence to a ribosome, which sets the order of amino acids in the protein.</figcaption>
 </figure>
 
@@ -189,7 +189,7 @@ Cellular respiration is a universal process, happening continuously in every liv
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--06-ph-graph.webp" width="900" height="1000" alt="Sketch graph of enzyme activity against pH 0 to 14. Pepsin peaks in acidic conditions, trypsin in alkaline conditions; each falls on both sides of its optimum and is denatured far from it. Below, three small pictures (Extended) show the substrate fitting at the optimum, fitting less well when pH moves away, and not fitting at extreme pH." loading="lazy">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--06-ph-graph.webp" width="900" height="1000" alt="Sketch graph of enzyme activity against pH 0 to 14. Pepsin peaks in acidic conditions, trypsin in alkaline conditions; each falls on both sides of its optimum and is denatured far from it. Below, three small pictures show the substrate fitting at the optimum, fitting less well when pH moves away, and not fitting at extreme pH." loading="lazy">
   <figcaption>Each enzyme has its own optimum pH; away from it the active site changes shape.</figcaption>
 </figure>
 
@@ -199,12 +199,12 @@ Cellular respiration is a universal process, happening continuously in every liv
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--02-aerobic-respiration.webp" width="900" height="1010" alt="Inside a cell, glucose and oxygen react to give carbon dioxide and water, releasing much energy. Extended panel: C6H12O6 + 6O2 gives 6CO2 + 6H2O, with 6 C, 12 H and 18 O atoms on each side." loading="lazy">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--02-aerobic-respiration.webp" width="900" height="1010" alt="Inside a cell, glucose and oxygen react to give carbon dioxide and water, releasing much energy. Symbol equation: C6H12O6 + 6O2 gives 6CO2 + 6H2O, with 6 C, 12 H and 18 O atoms on each side." loading="lazy">
   <figcaption>Aerobic respiration uses oxygen and releases much energy per glucose.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--03-anaerobic-respiration.webp" width="900" height="1290" alt="Without oxygen, yeast turns glucose into ethanol and carbon dioxide; muscles in vigorous exercise turn glucose into lactic acid only, with no carbon dioxide. Schematic bars show both release much less energy than aerobic respiration. Extended panel: C6H12O6 gives 2C2H5OH + 2CO2." loading="lazy">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--03-anaerobic-respiration.webp" width="900" height="1290" alt="Without oxygen, yeast turns glucose into ethanol and carbon dioxide; muscles in vigorous exercise turn glucose into lactic acid only, with no carbon dioxide. Schematic bars show both release much less energy than aerobic respiration. Symbol equation: C6H12O6 gives 2C2H5OH + 2CO2." loading="lazy">
   <figcaption>Anaerobic respiration releases much less energy, and yeast and muscle make different products.</figcaption>
 </figure>
 
@@ -259,12 +259,12 @@ Three factors can each limit the rate of photosynthesis: **light intensity**, **
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--01-photosynthesis-inputs-outputs.webp" width="900" height="1290" alt="A leaf takes in light energy, carbon dioxide from the air and water from the roots. Chlorophyll in chloroplasts transfers light energy into chemical energy. The leaf makes glucose and gives out oxygen. Word equation shown; Extended: 6CO2 + 6H2O gives C6H12O6 + 6O2." loading="lazy">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--01-photosynthesis-inputs-outputs.webp" width="900" height="1290" alt="A leaf takes in light energy, carbon dioxide from the air and water from the roots. Chlorophyll in chloroplasts transfers light energy into chemical energy. The leaf makes glucose and gives out oxygen. Word equation shown; symbol equation: 6CO2 + 6H2O gives C6H12O6 + 6O2." loading="lazy">
   <figcaption>Raw materials go in, glucose and oxygen come out, using light energy absorbed by chlorophyll.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--07-limiting-factors.webp" width="900" height="1080" alt="Extended. Sketch graph of rate against light intensity for 0.4% and 0.04% CO2 at 25 and 15 C. All curves rise together then level off at different heights, highest for 0.4% and 25 C. Rising part: light limiting. Flat part: not light; for 0.4% CO2 at 15 C the 25 C line is higher so temperature limits." loading="lazy">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--07-limiting-factors.webp" width="900" height="1080" alt="Higher Tier only. Sketch graph of rate against light intensity for 0.4% and 0.04% CO2 at 25 and 15 C. All curves rise together then level off at different heights, highest for 0.4% and 25 C. Rising part: light limiting. Flat part: not light; for 0.4% CO2 at 15 C the 25 C line is higher so temperature limits." loading="lazy">
   <figcaption>On the flat part another factor, not light, is limiting.</figcaption>
 </figure>
 

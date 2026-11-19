@@ -117,7 +117,7 @@ DNA never leaves the nucleus, yet proteins are built in the cytoplasm. A working
 Extra detail, not required by the statement but useful: RNA contains the base uracil (U) where DNA has thymine, so an A in the DNA strand is matched by U in the mRNA.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--03-gene-to-protein.webp" width="900" height="1120" alt="Extended. The gene stays in the nucleus; a copy of it, mRNA, is made and moves out through a pore to the cytoplasm; a ribosome joins amino acids in the order set by the mRNA bases; the chain folds into a protein whose shape decides what it does." loading="lazy">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--03-gene-to-protein.webp" width="900" height="1120" alt="Higher Tier only. The gene stays in the nucleus; a copy of it, mRNA, is made and moves out through a pore to the cytoplasm; a ribosome joins amino acids in the order set by the mRNA bases; the chain folds into a protein whose shape decides what it does." loading="lazy">
   <figcaption>mRNA carries the gene’s base sequence to a ribosome, which sets the order of amino acids in the protein.</figcaption>
 </figure>
 
@@ -150,7 +150,7 @@ The same template, TAC GGT CTT, has its last triplet changed to CAT.
 One amino acid has changed. This could alter the folded shape. Not every change matters: if CTT became CTC, the mRNA triplet would be GAG, which codes for the same amino acid (Glu) in the real genetic code, so the protein would be unchanged. A deleted base is more serious, because every triplet after it shifts and the amino acid order changes along the rest of the chain.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--02-mutation.webp" width="900" height="1215" alt="Core: mutation is genetic change that forms new alleles; ionising radiation and some chemicals raise its rate. Extended: a gene mutation changes one base in the DNA sequence, which can change the protein shape; sources of variation are mutation, meiosis, random mating and random fertilisation." loading="lazy">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--02-mutation.webp" width="900" height="1215" alt="Top: mutation is genetic change that forms new alleles; ionising radiation and some chemicals raise its rate. Middle (Higher Tier only): a gene mutation changes one base in the DNA sequence, which can change the protein shape. Bottom: sources of variation are mutation, meiosis, random mating and random fertilisation." loading="lazy">
   <figcaption>Mutation forms new alleles; radiation and some chemicals raise the rate.</figcaption>
 </figure>
 
@@ -231,7 +231,7 @@ The specification warns against assuming that every enzyme works best at 37 °C.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--06-ph-graph.webp" width="900" height="1000" alt="Sketch graph of enzyme activity against pH 0 to 14. Pepsin peaks in acidic conditions, trypsin in alkaline conditions; each falls on both sides of its optimum and is denatured far from it. Below, three small pictures (Extended) show the substrate fitting at the optimum, fitting less well when pH moves away, and not fitting at extreme pH." loading="lazy">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--06-ph-graph.webp" width="900" height="1000" alt="Sketch graph of enzyme activity against pH 0 to 14. Pepsin peaks in acidic conditions, trypsin in alkaline conditions; each falls on both sides of its optimum and is denatured far from it. Below, three small pictures show the substrate fitting at the optimum, fitting less well when pH moves away, and not fitting at extreme pH." loading="lazy">
   <figcaption>Each enzyme has its own optimum pH; away from it the active site changes shape.</figcaption>
 </figure>
 
