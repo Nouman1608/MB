@@ -62,7 +62,7 @@ Neutrons  = mass number - atomic number
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/atomic-structure--06-isotopes.webp" width="900" height="1150" alt="Chlorine-35 and chlorine-37 nuclei: both 17 protons, with 18 and 20 neutrons. Below, two identical electron arrangements, 2,8,7, show why isotopes have the same chemical properties." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-shared-intl-isotopes.svg" width="900" height="1150" alt="Chlorine-35 and chlorine-37 nuclei: both 17 protons, with 18 and 20 neutrons. Below, two identical electron arrangements, 2,8,7, show why isotopes have the same chemical properties." loading="lazy">
   <figcaption>Isotopes differ in neutrons and mass number but share electrons and chemistry.</figcaption>
 </figure>
 
@@ -109,7 +109,7 @@ Solid → liquid → gas as particles gain energy and move further apart, overco
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/states-of-matter-and-kinetic-particle-theory--06-ammonia-hcl-tube.webp" width="900" height="1000" alt="A tube has ammonia at the left end and hydrogen chloride at the right. Lighter ammonia (Mr 17) diffuses further than HCl (Mr 36.5), so the white ammonium chloride ring forms nearer the HCl end." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-shared-intl-ammonia-hcl-tube.svg" width="900" height="1000" alt="A tube has ammonia at the left end and hydrogen chloride at the right. Lighter ammonia (Mr 17) diffuses further than HCl (Mr 36.5), so the white ammonium chloride ring forms nearer the HCl end." loading="lazy">
   <figcaption>Lighter ammonia travels further, so the white ring forms nearer the hydrogen chloride end.</figcaption>
 </figure>
 

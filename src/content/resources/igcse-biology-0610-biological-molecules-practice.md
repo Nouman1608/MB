@@ -13,8 +13,6 @@ order: 4
 syllabusTopics:
   - qualification: "igcse"
     topic: "biological-molecules-cambridge-igcse-biology"
-  - qualification: "igcse"
-    topic: "biological-molecules-cambridge-igcse-biology"
     subtopic: "biological-molecules-cambridge-igcse-biology"
 description: "Original practice questions with marked answers on Cambridge IGCSE Biology 0610 biological molecules: elements, food tests and DNA base pairing."
 author: "marlbridge-academic-team"

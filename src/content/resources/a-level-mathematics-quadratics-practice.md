@@ -12,8 +12,6 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-1-cambridge-alevel"
-  - qualification: "a-level"
-    topic: "pure-mathematics-1-cambridge-alevel"
     subtopic: "quadratics-cambridge-alevel-maths"
 description: "Cambridge 9709 Pure Mathematics 1 quadratics practice with worked answers: completing the square, discriminant, inequalities, hidden quadratics, line and curve."
 author: "marlbridge-academic-team"

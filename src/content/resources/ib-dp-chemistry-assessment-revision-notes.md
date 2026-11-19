@@ -6,6 +6,7 @@ level: ["ib"]
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Chemistry"]
+syllabusSeries: "First assessment 2025"
 order: 1
 description: "Recall notes on how IB Diploma Programme Chemistry is assessed: Paper 1 and Paper 2 weightings, the data booklet, the internal assessment and SL vs HL."
 author: "marlbridge-academic-team"

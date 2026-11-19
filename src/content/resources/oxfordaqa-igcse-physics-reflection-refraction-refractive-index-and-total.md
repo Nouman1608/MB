@@ -101,7 +101,7 @@ You stand 3.5 m from a plane mirror. The image is 3.5 m behind it, so you are 7.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-waves--04-total-internal-reflection.webp" width="900" height="1160" alt="Three rays in a glass semicircle: below the critical angle some light leaves, at 41.8 degrees the refracted ray runs along the surface, above it all light is reflected. sin c = 1/n (Extended)." loading="lazy">
+  <img src="/images/learning/physics/igcse-shared-intl-total-internal-reflection.svg" width="900" height="1160" alt="Three rays in a glass semicircle: below the critical angle some light leaves, at 41.8 degrees the refracted ray runs along the surface, above it all light is reflected. sin c = 1/n." loading="lazy">
   <figcaption>Above the critical angle all the light is reflected back inside the glass.</figcaption>
 </figure>
 
@@ -244,7 +244,7 @@ Example results for a block: i = 15째, 30째, 45째, 60째, 75째 gave r = 10째, 19�
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-waves--03-refraction-block.webp" width="900" height="940" alt="A ray at 45 degrees in air bends towards the normal to 28 degrees in glass (n = 1.5) and leaves parallel, bending away. n = sin i / sin r = 1.50 (Extended)." loading="lazy">
+  <img src="/images/learning/physics/igcse-shared-intl-refraction-block.svg" width="900" height="940" alt="A ray at 45 degrees in air bends towards the normal to 28 degrees in glass (n = 1.5) and leaves parallel, bending away. n = sin i / sin r = 1.50." loading="lazy">
   <figcaption>Light slows and bends towards the normal entering glass, and speeds up and bends away leaving it.</figcaption>
 </figure>
 

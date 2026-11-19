@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1040" viewBox="0 0 1800 2080" role="img" aria-labelledby="title desc"><title id="title">Plastic waste (OxfordAQA International GCSE Chemistry)</title><desc id="desc">No tier label: OxfordAQA International GCSE Chemistry is not tiered; 9202 statement 3.10.2e says many polymers are not biodegradable, causing problems in landfill sites and in litter. Landfill: 100 years later the plastic is still there, because it does not break down. Oceans: plastic collects in the sea and harms marine life. Burning, marked not required by OxfordAQA (9202 does not cover burning polymers): it can give off toxic gases, so burning is no easy fix. PET, also marked not required by OxfordAQA (condensation polymers are not in 9202): one fix is to break it back to its monomers, a diacid and a diol, then make new PET.</desc><rect width="1800" height="2080" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="92" font-size="64" font-weight="700" fill="#1E2B47" text-anchor="middle">Plastic waste</text>
+<text x="900" y="172" font-size="42" fill="#4B5B72" text-anchor="middle">Stable plastics are hard to get rid of</text>
+<rect x="60" y="240" width="820" height="860" rx="24" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<rect x="920" y="240" width="820" height="860" rx="24" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<rect x="60" y="1160" width="820" height="860" rx="24" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<rect x="920" y="1160" width="820" height="860" rx="24" fill="#FFFFFF" stroke="#2F6B63" stroke-width="5"/>
+<text x="470" y="326" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">Landfill</text>
+<text x="470" y="430" font-size="44" fill="#4B5B72" text-anchor="middle">100 years later</text>
+<circle cx="470" cy="500" r="56" fill="#FFFFFF" stroke="#1E2B47" stroke-width="6"/>
+<line x1="470" y1="500" x2="470" y2="466" stroke="#1E2B47" stroke-width="6" stroke-linecap="round"/>
+<line x1="470" y1="500" x2="494" y2="518" stroke="#1E2B47" stroke-width="6" stroke-linecap="round"/>
+<rect x="110" y="598" width="720" height="282" rx="10" fill="#DCC9A8"/>
+<rect x="110" y="598" width="720" height="28" rx="8" fill="#2F6B63"/>
+<path d="M110 720 Q200 690 290 720 T470 720 T650 720 T830 720" fill="none" stroke="#B9A07A" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M110 800 Q200 770 290 800 T470 800 T650 800 T830 800" fill="none" stroke="#B9A07A" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M250 634 H290 V656 Q330 676 330 716 V820 Q330 830 320 830 H220 Q210 830 210 820 V716 Q210 676 250 656 Z" fill="#CFE3EE" stroke="#1E2B47" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="250" y="622" width="40" height="18" fill="#1E2B47"/>
+<path d="M448 730 V710 A22 22 0 0 1 492 710 V730" fill="none" stroke="#1E2B47" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="426,730 514,730 526,820 414,820" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5" stroke-linejoin="round"/>
+<path d="M630 634 H670 V656 Q710 676 710 716 V820 Q710 830 700 830 H600 Q590 830 590 820 V716 Q590 676 630 656 Z" fill="#CFE3EE" stroke="#1E2B47" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="630" y="622" width="40" height="18" fill="#1E2B47"/>
+<text x="470" y="960" font-size="50" font-weight="700" fill="#1E2B47" text-anchor="middle">still there</text>
+<text x="470" y="1034" font-size="42" fill="#4B5B72" text-anchor="middle">does not break down</text>
+<text x="1330" y="326" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">Oceans</text>
+<rect x="970" y="540" width="720" height="380" rx="14" fill="#B9D8E1"/>
+<path d="M970 580 Q1015 560 1060 580 T1150 580 T1240 580 T1330 580 T1420 580 T1510 580 T1600 580 T1690 580 V554 Q1690 540 1676 540 H984 Q970 540 970 554 Z" fill="#D4E7EC"/>
+<path d="M1124 600 V580 A22 22 0 0 1 1168 580 V600" fill="none" stroke="#1E2B47" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="1102,600 1190,600 1202,690 1090,690" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5" stroke-linejoin="round"/>
+<ellipse cx="1458" cy="760" rx="92" ry="50" fill="#F2E6B7" stroke="#8A6A0C" stroke-width="5"/>
+<polygon points="1546,760 1616,714 1616,806" fill="#F2E6B7" stroke="#8A6A0C" stroke-width="5" stroke-linejoin="round"/>
+<circle cx="1412" cy="748" r="9" fill="#1E2B47"/>
+<line x1="1298" y1="706" x2="1332.3267537084773" y2="725.9316634436318" stroke="#B9632F" stroke-width="7" stroke-linecap="round"/><polygon points="1360,742 1320.4,742.6 1340.8,707.3" fill="#B9632F"/>
+<text x="1330" y="984" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">collects in the sea</text>
+<text x="1330" y="1050" font-size="42" fill="#4B5B72" text-anchor="middle">harms marine life</text>
+<text x="470" y="1246" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">Burning</text>
+<rect x="257" y="1279.5" width="426" height="45" rx="22.5" fill="#6B7785"/><text x="470" y="1312.08" font-size="28" font-weight="700" fill="#FFFFFF" text-anchor="middle">Not required by OxfordAQA</text>
+<path d="M316 1440 Q300 1540 230 1620 Q190 1680 210 1750 Q240 1820 316 1820 Q400 1820 424 1740 Q440 1660 380 1600 Q384 1520 316 1440 Z" fill="#D6B22F" stroke="#B9632F" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M316 1660 Q292 1710 292 1740 A24 24 0 0 0 340 1740 Q340 1710 316 1660 Z" fill="#B9632F"/>
+<text x="660" y="1382" font-size="44" font-weight="700" fill="#4B5B72" text-anchor="middle">toxic gases</text>
+<circle cx="580" cy="1490" r="54" fill="#CDD3DC" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="670" cy="1560" r="70" fill="#CDD3DC" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="560" cy="1660" r="58" fill="#CDD3DC" stroke="#1E2B47" stroke-width="5"/>
+<polygon points="740,1690 790,1780 690,1780" fill="#D6B22F" stroke="#1E2B47" stroke-width="5" stroke-linejoin="round"/>
+<text x="740" y="1770" font-size="40" font-weight="700" fill="#1E2B47" text-anchor="middle">!</text>
+<text x="470" y="1912" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">can give off toxic gases</text>
+<text x="470" y="1980" font-size="42" fill="#4B5B72" text-anchor="middle">burning is no easy fix</text>
+<text x="1330" y="1246" font-size="46" font-weight="700" fill="#2F6B63" text-anchor="middle">PET: one fix</text>
+<rect x="1117" y="1297.5" width="426" height="45" rx="22.5" fill="#6B7785"/><text x="1330" y="1330.08" font-size="28" font-weight="700" fill="#FFFFFF" text-anchor="middle">Not required by OxfordAQA</text>
+<path d="M1068 1470 H1108 V1492 Q1148 1512 1148 1552 V1656 Q1148 1666 1138 1666 H1038 Q1028 1666 1028 1656 V1552 Q1028 1512 1068 1492 Z" fill="#CFE3EE" stroke="#1E2B47" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1068" y="1458" width="40" height="18" fill="#1E2B47"/>
+<line x1="1218" y1="1512" x2="1321.1239367248227" y2="1487.6512927177503" stroke="#2F6B63" stroke-width="6" stroke-linecap="round"/><polygon points="1362,1478 1325.2,1513.8 1313.1,1462.4" fill="#2F6B63"/>
+<rect x="1380" y="1430" width="200" height="92" rx="14" fill="#DDEBE8" stroke="#2F6B63" stroke-width="5"/>
+<text x="1480" y="1490" font-size="40" font-weight="700" fill="#2F6B63" text-anchor="middle">diacid</text>
+<rect x="1380" y="1552" width="200" height="92" rx="14" fill="#F6E0D2" stroke="#B9632F" stroke-width="5"/>
+<text x="1480" y="1612" font-size="40" font-weight="700" fill="#8A4A20" text-anchor="middle">diol</text>
+<path d="M1480 1690 Q1480 1790 1300 1790 Q1150 1790 1104 1716" fill="none" stroke="#2F6B63" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="1100,1676 1080,1726 1126,1712" fill="#2F6B63"/>
+<text x="1330" y="1904" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">back to monomers,</text>
+<text x="1330" y="1964" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">then new PET</text></g></svg>

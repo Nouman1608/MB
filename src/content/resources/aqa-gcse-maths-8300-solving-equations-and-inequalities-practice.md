@@ -13,8 +13,6 @@ order: 2
 syllabusTopics:
   - qualification: "gcse"
     topic: "algebra-aqa-gcse-maths"
-  - qualification: "gcse"
-    topic: "algebra-aqa-gcse-maths"
     subtopic: "solving-equations-and-inequalities-aqa-gcse-maths"
 description: "Original AQA GCSE Maths 8300 practice questions on solving equations and inequalities (A17-A22), Foundation and Higher, with marked answers."
 author: "marlbridge-academic-team"

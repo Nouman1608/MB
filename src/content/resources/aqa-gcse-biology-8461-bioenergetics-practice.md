@@ -13,8 +13,6 @@ order: 4
 syllabusTopics:
   - qualification: "gcse"
     topic: "bioenergetics-aqa-gcse-biology"
-  - qualification: "gcse"
-    topic: "bioenergetics-aqa-gcse-biology"
     subtopic: "photosynthesis-aqa-gcse-biology"
   - qualification: "gcse"
     topic: "bioenergetics-aqa-gcse-biology"

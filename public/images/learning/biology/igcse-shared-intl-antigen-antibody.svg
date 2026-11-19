@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1090" viewBox="0 0 1800 2180" role="img" aria-labelledby="title desc"><title id="title">Antigens and antibodies</title><desc id="desc">Top left: an antibody whose shape is complementary to the triangular antigens on a pathogen fits and binds. Top right: the same antibody does not fit a pathogen with different, rectangular antigens, so there is no binding. A key names the antigen, a different antigen and the antibody (a protein). Bottom: binding leads to one of two outcomes: the pathogen is destroyed directly, or it is marked for destruction by a phagocyte. No tier labels: specific antibodies are on both Edexcel papers (4BI1 2.62) and in OxfordAQA 9201 3.4.7c-d, which is not tiered.</desc><rect width="1800" height="2180" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="88" font-size="68" font-weight="700" fill="#1E2B47" text-anchor="middle">Antigens and antibodies</text>
+<text x="900" y="164" font-size="44" fill="#4B5B72" text-anchor="middle">Complementary shapes</text>
+<text x="450" y="386" font-size="48" font-weight="700" fill="#2F6B63" text-anchor="middle">Fits: antibody binds</text>
+<text x="1350" y="386" font-size="48" font-weight="700" fill="#B9632F" text-anchor="middle">No fit: no binding</text>
+<ellipse cx="450" cy="580" rx="220" ry="180" fill="#F3D6CC" stroke="#1E2B47" stroke-width="6"/>
+<text x="450" y="592" font-size="48" font-weight="700" fill="#1E2B47" text-anchor="middle">Pathogen</text>
+<ellipse cx="1350" cy="580" rx="220" ry="180" fill="#F3D6CC" stroke="#1E2B47" stroke-width="6"/>
+<text x="1350" y="592" font-size="48" font-weight="700" fill="#1E2B47" text-anchor="middle">Pathogen</text>
+<polygon points="322,736 398,736 360,800" fill="#D6B22F" stroke="#1E2B47" stroke-width="4" stroke-linejoin="round"/>
+<polygon points="502,736 578,736 540,800" fill="#D6B22F" stroke="#1E2B47" stroke-width="4" stroke-linejoin="round"/>
+<path d="M306 732 L360 812 L414 732 M486 732 L540 812 L594 732 M360 812 V880 L450 960 L540 880 V812 M450 960 V1046" fill="none" stroke="#1E2B47" stroke-width="12" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M416 866 L446 896 L494 836" fill="none" stroke="#2F6B63" stroke-width="12" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1200" y="736" width="120" height="52" fill="#D6B22F" stroke="#1E2B47" stroke-width="4"/>
+<rect x="1380" y="736" width="120" height="52" fill="#D6B22F" stroke="#1E2B47" stroke-width="4"/>
+<path d="M1206 804 L1260 884 L1314 804 M1386 804 L1440 884 L1494 804 M1260 884 V952 L1350 1032 L1440 952 V884 M1350 1032 V1112" fill="none" stroke="#1E2B47" stroke-width="12" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="1322" y1="896" x2="1378" y2="952" stroke="#B9632F" stroke-width="10" stroke-linecap="round"/>
+<line x1="1378" y1="896" x2="1322" y2="952" stroke="#B9632F" stroke-width="10" stroke-linecap="round"/>
+<polygon points="84,1146 152,1146 118,1206" fill="#D6B22F" stroke="#1E2B47" stroke-width="4" stroke-linejoin="round"/>
+<text x="184" y="1192" font-size="46" fill="#1E2B47">antigen</text>
+<rect x="466" y="1148" width="120" height="56" fill="#D6B22F" stroke="#1E2B47" stroke-width="4"/>
+<text x="620" y="1192" font-size="46" fill="#1E2B47">different antigen</text>
+<g transform="translate(1120 1148) rotate(180) scale(1)"><path d="M-22 0 L0 -26 L22 0 M0 -26 V-62" fill="none" stroke="#1E2B47" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/></g>
+<text x="1190" y="1192" font-size="46" fill="#1E2B47">antibody (a protein)</text>
+<line x1="60" y1="1300" x2="1740" y2="1300" stroke="#C6D3D0" stroke-width="4" stroke-linecap="round"/>
+<text x="900" y="1394" font-size="50" font-weight="700" fill="#1E2B47" text-anchor="middle">Binding leads to one of two outcomes</text>
+<polygon points="470,1564 505.2,1629 576.1,1607.9 555,1678.8 620,1714 555,1749.2 576.1,1820.1 505.2,1799 470,1864 434.8,1799 363.9,1820.1 385,1749.2 320,1714 385,1678.8 363.9,1607.9 434.8,1629" fill="#F3D6CC" stroke="#B9632F" stroke-width="5" stroke-linejoin="round"/>
+<g transform="translate(470 1556) rotate(0) scale(1)"><path d="M-22 0 L0 -26 L22 0 M0 -26 V-62" fill="none" stroke="#1E2B47" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/></g>
+<g transform="translate(470 1872) rotate(180) scale(1)"><path d="M-22 0 L0 -26 L22 0 M0 -26 V-62" fill="none" stroke="#1E2B47" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/></g>
+<g transform="translate(312 1714) rotate(-90) scale(1)"><path d="M-22 0 L0 -26 L22 0 M0 -26 V-62" fill="none" stroke="#1E2B47" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/></g>
+<g transform="translate(628 1714) rotate(90) scale(1)"><path d="M-22 0 L0 -26 L22 0 M0 -26 V-62" fill="none" stroke="#1E2B47" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/></g>
+<text x="470" y="2026" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">Pathogen destroyed</text>
+<text x="470" y="2090" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">directly</text>
+<ellipse cx="1420" cy="1714" rx="210" ry="150" fill="#DDEBE8" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="1212" cy="1714" r="70" fill="#F3D6CC" stroke="#1E2B47" stroke-width="5"/>
+<text x="1446" y="1728" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">Phagocyte</text>
+<g transform="translate(1112 1612) rotate(-45) scale(1)"><path d="M-22 0 L0 -26 L22 0 M0 -26 V-62" fill="none" stroke="#1E2B47" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/></g>
+<g transform="translate(1124 1714) rotate(-90) scale(1)"><path d="M-22 0 L0 -26 L22 0 M0 -26 V-62" fill="none" stroke="#1E2B47" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/></g>
+<g transform="translate(1112 1816) rotate(-135) scale(1)"><path d="M-22 0 L0 -26 L22 0 M0 -26 V-62" fill="none" stroke="#1E2B47" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/></g>
+<text x="1400" y="2026" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">Pathogen marked for</text>
+<text x="1400" y="2090" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">destruction by a phagocyte</text></g></svg>

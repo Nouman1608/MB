@@ -14,8 +14,6 @@ order: 19
 syllabusTopics:
   - qualification: "a-level"
     topic: "computational-thinking-and-problem-solving"
-  - qualification: "a-level"
-    topic: "computational-thinking-and-problem-solving"
     subtopic: "algorithms-19-1"
   - qualification: "a-level"
     topic: "computational-thinking-and-problem-solving"

@@ -14,8 +14,6 @@ order: 8
 syllabusTopics:
   - qualification: "a-level"
     topic: "databases"
-  - qualification: "a-level"
-    topic: "databases"
     subtopic: "database-concepts"
   - qualification: "a-level"
     topic: "databases"

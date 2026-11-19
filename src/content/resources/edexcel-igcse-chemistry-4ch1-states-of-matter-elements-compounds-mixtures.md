@@ -96,7 +96,7 @@ When a solid melts, the particles gain energy and vibrate more until they overco
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/states-of-matter-and-kinetic-particle-theory--03-heating-curve.webp" width="900" height="880" alt="A sketch graph of temperature against time rises, goes flat at the melting point, rises, goes flat at the boiling point and rises again. Five particle boxes A to E match solid, melting, liquid, boiling and gas. The flat parts are changes of state where energy overcomes forces between particles." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-edexcel-heating-curve.svg" width="900" height="880" alt="A sketch graph of temperature against time rises, goes flat at the melting point, rises, goes flat at the boiling point and rises again. Five particle boxes A to E match solid, melting, liquid, boiling and gas. The flat parts are changes of state where energy overcomes forces between particles." loading="lazy">
   <figcaption>The flat parts of a heating curve are the changes of state.</figcaption>
 </figure>
 
@@ -137,7 +137,7 @@ Diffusion is faster at a higher temperature, because the particles have more ene
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/states-of-matter-and-kinetic-particle-theory--06-ammonia-hcl-tube.webp" width="900" height="1000" alt="A tube has ammonia at the left end and hydrogen chloride at the right. Lighter ammonia (Mr 17) diffuses further than HCl (Mr 36.5), so the white ammonium chloride ring forms nearer the HCl end." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-shared-intl-ammonia-hcl-tube.svg" width="900" height="1000" alt="A tube has ammonia at the left end and hydrogen chloride at the right. Lighter ammonia (Mr 17) diffuses further than HCl (Mr 36.5), so the white ammonium chloride ring forms nearer the HCl end." loading="lazy">
   <figcaption>Lighter ammonia travels further, so the white ring forms nearer the hydrogen chloride end.</figcaption>
 </figure>
 
@@ -292,8 +292,8 @@ spot 2: Rf = 5.6 / 8.0 = 0.70  → blue
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--03-chromatography-method.webp" width="900" height="1185" alt="Paper with a pencil line and mixture spot stands in a little solvent. Later the solvent front has risen and three coloured spots have separated. A lower strip shows colourless spots invisible until a locating agent is sprayed (Extended)." loading="lazy">
-  <figcaption>The solvent carries the components different distances up the paper; colourless spots need a locating agent (Extended).</figcaption>
+  <img src="/images/learning/chemistry/igcse-shared-intl-chromatography-method.svg" width="900" height="1185" alt="Paper with a pencil line and mixture spot stands in a little solvent. Later the solvent front has risen and three coloured spots have separated. A lower strip shows colourless spots invisible until a locating agent is sprayed, marked not required by Edexcel or OxfordAQA." loading="lazy">
+  <figcaption>The solvent carries the components different distances up the paper; colourless spots need a locating agent (not required by Edexcel).</figcaption>
 </figure>
 
 <figure class="topic-figure">
@@ -302,7 +302,7 @@ spot 2: Rf = 5.6 / 8.0 = 0.70  → blue
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--05-rf-value.webp" width="900" height="1010" alt="A chromatogram shows a solvent front 80 mm above the baseline. A blue spot has moved 48 mm and an orange spot 24 mm. Dividing by 80 gives Rf 0.60 and 0.30. Rf is always less than 1." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-shared-intl-rf-value.svg" width="900" height="1010" alt="A chromatogram shows a solvent front 80 mm above the baseline. A blue spot has moved 48 mm and an orange spot 24 mm. Dividing by 80 gives Rf 0.60 and 0.30. Rf is always less than 1." loading="lazy">
   <figcaption>Rf = distance moved by substance / distance moved by solvent, both measured from the baseline.</figcaption>
 </figure>
 

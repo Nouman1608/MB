@@ -6,7 +6,7 @@ level: ["ib"]
 topic: "Unit 2 – Microeconomics"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: []
+syllabusCodes: ["DP Economics"]
 syllabusSeries: "First assessment 2022"
 order: 2.09
 syllabusTopics:

@@ -13,8 +13,6 @@ order: 2
 syllabusTopics:
   - qualification: "igcse"
     topic: "equations-formulae-and-identities-edexcel-igcse-maths"
-  - qualification: "igcse"
-    topic: "equations-formulae-and-identities-edexcel-igcse-maths"
     subtopic: "quadratic-equations-edexcel-igcse-maths"
 description: "Original 4MA1 quadratic equations practice with marked worked answers: factorising, the formula, completing the square, contexts and simultaneous pairs."
 author: "marlbridge-academic-team"

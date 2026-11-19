@@ -87,7 +87,7 @@ This shows why damage to the large intestine causes watery faeces: the water is 
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-human-nutrition--06-enzymes-products.webp" width="900" height="1140" alt="Three rows show a large insoluble molecule, an enzyme, and the small soluble products. Amylase turns starch into simple sugars; protease turns protein into amino acids; lipase turns fat into glycerol and fatty acids. An Extended panel shows amylase turning starch into maltose and maltase, at the lining of the small intestine, turning maltose into glucose." loading="lazy">
+  <img src="/images/learning/biology/igcse-oxfordaqa-digestive-enzymes-products.svg" width="900" height="1140" alt="Three rows show a large insoluble molecule, an enzyme, and the small soluble products. Amylase turns starch into simple sugars; protease turns protein into amino acids; lipase turns fat into glycerol and fatty acids. A further panel, marked not required by OxfordAQA, shows amylase turning starch into maltose and maltase, at the lining of the small intestine, turning maltose into glucose." loading="lazy">
   <figcaption>Each enzyme turns one large insoluble molecule into small soluble products.</figcaption>
 </figure>
 
@@ -105,7 +105,7 @@ Each enzyme has an **active site**. The substrate fits into it, the reaction hap
 **High temperatures denature the enzyme.** The bonds that hold the protein in shape break, so the shape of the active site changes. A denatured enzyme cannot catalyse the reaction, and cooling it again does not restore it.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--01-enzyme-action.webp" width="900" height="960" alt="Four panels show lipase acting on a fat. The fat, shaped to fit the notch-like active site, approaches, fits, is converted into glycerol and fatty acids, and the products leave while the same enzyme is unchanged." loading="lazy">
+  <img src="/images/learning/biology/igcse-shared-intl-enzyme-action.svg" width="900" height="960" alt="Four panels show lipase acting on a fat. The fat, shaped to fit the notch-like active site, approaches, fits, is converted into glycerol and fatty acids, and the products leave while the same enzyme is unchanged. The term enzyme-substrate complex is greyed as not required." loading="lazy">
   <figcaption>The substrate fits the active site, products form and leave, and the enzyme is unchanged.</figcaption>
 </figure>
 
@@ -134,7 +134,7 @@ A cold enzyme is only slow. A too-hot enzyme is permanently damaged.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--06-ph-graph.webp" width="900" height="1000" alt="Sketch graph of enzyme activity against pH 0 to 14. Pepsin peaks in acidic conditions, trypsin in alkaline conditions; each falls on both sides of its optimum and is denatured far from it. Below, three small pictures (Extended) show the substrate fitting at the optimum, fitting less well when pH moves away, and not fitting at extreme pH." loading="lazy">
+  <img src="/images/learning/biology/gcse-shared-enzyme-ph-graph.svg" width="900" height="1000" alt="Sketch graph of enzyme activity against pH 0 to 14. Pepsin peaks in acidic conditions, trypsin in alkaline conditions; each falls on both sides of its optimum and is denatured far from it. Below, three small pictures show the substrate fitting at the optimum, fitting less well when pH moves away, and not fitting at extreme pH." loading="lazy">
   <figcaption>Each enzyme has its own optimum pH; away from it the active site changes shape.</figcaption>
 </figure>
 
@@ -199,12 +199,12 @@ Percentage digested = 0.75 ÷ 1.20 × 100 = **62.5%**.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-human-nutrition--07-gut-ph-enzymes.webp" width="900" height="1200" alt="The stomach is acidic because of hydrochloric acid, which kills microbes and gives the acid pH that pepsin needs. Food then enters the duodenum, where bile neutralises the acid and makes the contents alkaline for trypsin. A sketch graph of enzyme activity against pH shows pepsin most active in acid and trypsin most active in alkali. Pepsin, trypsin and bile are Extended." loading="lazy">
+  <img src="/images/learning/biology/igcse-shared-intl-gut-ph-enzymes.svg" width="900" height="1200" alt="The stomach is acidic because of hydrochloric acid, which kills microbes and gives the acid pH that pepsin needs. Food then enters the duodenum, where bile neutralises the acid and makes the contents alkaline for trypsin. A sketch graph of enzyme activity against pH shows pepsin most active in acid and trypsin most active in alkali. The names pepsin and trypsin are greyed as not required." loading="lazy">
   <figcaption>Pepsin works in acid and trypsin in alkali, because bile neutralises the acid leaving the stomach.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--04-enzymes-use.webp" width="900" height="920" alt="Protease breaks protein into amino acids, lipase breaks fats and oils into glycerol and fatty acids, amylase breaks starch into simpler sugars; these work in biological washing powders. Extended: lactase breaks lactose into glucose and galactose, making lactose-free milk." loading="lazy">
+  <img src="/images/learning/biology/igcse-oxfordaqa-enzymes-use.svg" width="900" height="920" alt="Protease breaks protein into amino acids, lipase breaks fats and oils into glycerol and fatty acids, amylase breaks starch into simpler sugars; these work in biological washing powders. Lactase breaks lactose into glucose and galactose, making lactose-free milk." loading="lazy">
   <figcaption>Each enzyme breaks a large molecule into smaller soluble ones.</figcaption>
 </figure>
 
@@ -288,7 +288,7 @@ Treat a fat drop as a cube of side 2 cm. Bile breaks it into eight cubes of side
 The volume of fat is unchanged. The total surface area **doubles** (48 ÷ 24 = 2). Lipase acts at the surface of fat, so digestion is faster.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-human-nutrition--05-physical-digestion.webp" width="900" height="1130" alt="Top: chewing and churning break one large cube of food into eight small cubes; the surface area doubles. Bottom, Extended: bile breaks one large fat droplet into eight small droplets, again doubling the surface area so twice as many lipase molecules can reach the fat. The fat molecules themselves are not changed." loading="lazy">
+  <img src="/images/learning/biology/igcse-shared-intl-physical-digestion.svg" width="900" height="1130" alt="Top: chewing and churning break one large cube of food into eight small cubes; the surface area doubles. Bottom: bile breaks one large fat droplet into eight small droplets, again doubling the surface area so twice as many lipase molecules can reach the fat. The fat molecules themselves are not changed." loading="lazy">
   <figcaption>Smaller pieces give more surface area for enzymes, and bile does this to fat without changing the molecules.</figcaption>
 </figure>
 

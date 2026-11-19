@@ -74,12 +74,12 @@ p = h rho g = 5.0 x 1000 x 9.8 = 49 000 Pa
 **Gas pressure** arises from molecules **colliding with the walls** and exerting a force on them. Every gas-law explanation traces back to that mechanism. In a liquid or gas at rest, pressure at a given point acts **equally in all directions** — it has no preferred direction, unlike a force.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--01-particle-states.webp" width="900" height="1010" alt="Three boxes of particles: a solid with particles touching in regular rows, vibrating; a liquid with touching random particles and a surface; a gas with few, widely spaced fast particles." loading="lazy">
+  <img src="/images/learning/physics/igcse-edexcel-particle-states.svg" width="900" height="1010" alt="Three boxes of particles: a solid with particles touching in regular rows, vibrating; a liquid with touching random particles and a surface; a gas with few, widely spaced fast particles. The whole figure is marked Paper 2 only." loading="lazy">
   <figcaption>Particles are arranged and move differently in solids, liquids and gases.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--02-gas-pressure.webp" width="900" height="990" alt="Three boxes with the same eight particles. Hotter particles move faster and the pressure bar doubles. Squeezing to half the volume also doubles the bar because the walls are hit more often." loading="lazy">
+  <img src="/images/learning/physics/igcse-edexcel-gas-pressure.svg" width="900" height="990" alt="Three boxes with the same eight particles. Hotter particles move faster and the pressure bar doubles. Squeezing to half the volume also doubles the bar because the walls are hit more often." loading="lazy">
   <figcaption>Faster particles or a smaller volume mean more forceful or more frequent wall collisions, so higher pressure.</figcaption>
 </figure>
 
@@ -179,12 +179,12 @@ E = m c dt = 2.0 x 4200 x 80 = 672 000 J
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--03-heating-curve.webp" width="900" height="920" alt="A schematic temperature-energy graph from ice to steam with flat parts at 0 and 100 degrees Celsius while melting and boiling. Particle pictures under each part show the arrangement in that state." loading="lazy">
+  <img src="/images/learning/physics/igcse-edexcel-heating-curve.svg" width="900" height="920" alt="A schematic temperature-energy graph from ice to steam with flat parts at 0 and 100 degrees Celsius while melting and boiling. Particle pictures under each part show the arrangement in that state. The whole figure is marked Paper 2 only." loading="lazy">
   <figcaption>During melting and boiling energy is supplied but the temperature stays constant.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-physics-thermal-physics--01-thermal-expansion.webp" width="900" height="1296" alt="Two grids of equal-sized particles: in the cold solid they vibrate a little and sit close together, in the hot solid they vibrate more widely and sit further apart, so the solid is longer. Bars show gas expands most, then liquid, then solid. Rail gaps, slack cables and a thermometer are shown as applications." loading="lazy">
+  <img src="/images/learning/physics/igcse-edexcel-thermal-expansion.svg" width="900" height="1296" alt="Two grids of equal-sized particles: in the cold solid they vibrate a little and sit close together, in the hot solid they vibrate more widely and sit further apart, so the solid is longer. Bars show gas expands most, then liquid, then solid. Rail gaps, slack cables and a thermometer are shown as applications. The figure is marked not required by Edexcel." loading="lazy">
   <figcaption>Heated particles vibrate wider, so the material expands; the particles do not get bigger.</figcaption>
 </figure>
 

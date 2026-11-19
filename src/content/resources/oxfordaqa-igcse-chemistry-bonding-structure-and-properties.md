@@ -112,7 +112,7 @@ the solid until it melts, and the bulb lights. Explain both observations.*
 - When the solid melts, the ions are free to move. Moving ions carry the current, so the bulb lights.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--02-ionic-lattice.webp" width="900" height="924" alt="A regular grid of positive and negative ions alternating in every direction. Every ion is attracted to its neighbours, so many strong attractions run throughout the lattice, giving a high melting point." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-shared-intl-ionic-lattice.svg" width="900" height="924" alt="A regular grid of positive and negative ions alternating in every direction. Every ion is attracted to its neighbours, so many strong attractions run throughout the lattice, giving a high melting point." loading="lazy">
   <figcaption>Alternating ions in a giant lattice are held by many strong electrostatic attractions.</figcaption>
 </figure>
 
@@ -147,7 +147,7 @@ Weak forces need only a small amount of energy to overcome, so the melting and b
 relatively low.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--05-simple-molecules-melting.webp" width="900" height="995" alt="CO2 molecules in a solid are held by weak forces (dashed) between molecules. Heating breaks only these weak forces, so the molecules separate into a liquid while the strong double bonds inside each molecule stay intact." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-shared-intl-simple-molecules-melting.svg" width="900" height="995" alt="CO2 molecules in a solid are held by weak forces (dashed) between molecules. Heating breaks only these weak forces, so the molecules separate (solid carbon dioxide sublimes straight to a gas) while the strong double bonds inside each molecule stay intact." loading="lazy">
   <figcaption>Melting breaks weak forces between molecules, not the strong covalent bonds inside them.</figcaption>
 </figure>
 
@@ -255,7 +255,7 @@ predict which has the higher melting point.*
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--06-giant-covalent.webp" width="900" height="980" alt="Diamond is a rigid 3D network where every carbon bonds to four others, so it is very hard with a very high melting point and is used in cutting tools. Silicon dioxide has each silicon bonded to four oxygens and each oxygen to two silicons, with properties like diamond." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-shared-intl-giant-covalent.svg" width="900" height="980" alt="Diamond is a rigid 3D network where every carbon bonds to four others, so it is very hard with a very high melting point and is used in cutting tools. Silicon dioxide has each silicon bonded to four oxygens and each oxygen to two silicons, with properties like diamond." loading="lazy">
   <figcaption>Diamond and SiO2 are giant networks of covalent bonds, hard and with very high melting points.</figcaption>
 </figure>
 
@@ -283,7 +283,7 @@ two apart.
   it has no delocalised electrons. So there are no mobile charged particles and it does not conduct.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--08-metallic-bonding.webp" width="900" height="1212" alt="A lattice of positive metal ions in a sea of free electrons. The attraction holds the structure together. Free electrons drifting carry current, and when layers of ions slide the electron sea still holds them together, so metals are malleable." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-oxfordaqa-metallic-bonding.svg" width="900" height="1212" alt="A lattice of positive metal ions in a sea of free electrons. The attraction holds the structure together. Free electrons drifting carry current, and when layers of ions slide the electron sea still holds them together, so metals are malleable." loading="lazy">
   <figcaption>Positive ions in a sea of delocalised electrons explain conduction and malleability.</figcaption>
 </figure>
 

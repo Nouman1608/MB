@@ -44,7 +44,7 @@ Condensed for the final weeks. For the full explanation, use the
 Relative atomic masses are not whole numbers because they are **weighted averages of isotopes**. This specification does not require calculating Ar from isotopic abundances — the weighted-mean formula (Ar = sum of isotope mass x abundance, divided by 100) is A-level material.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--04-relative-formula-mass.webp" width="900" height="630" alt="A scaled bar of five blocks: Ca 40, C 12 and three O of 16. Added together, Mr of CaCO3 is 100." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-shared-intl-relative-formula-mass.svg" width="900" height="630" alt="A scaled bar of five blocks: Ca 40, C 12 and three O of 16. Added together, Mr of CaCO3 is 100." loading="lazy">
   <figcaption>Mr is the sum of the Ar values of all atoms in the formula.</figcaption>
 </figure>
 
@@ -60,7 +60,7 @@ number of particles = moles x 6.02 x 10^23
 **One mole** is the amount containing 6.02 × 10²³ particles — the Avogadro constant. Its mass in grams equals the relative formula mass.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--05-mole-map.webp" width="900" height="970" alt="Amount in moles is the hub. Multiply or divide by Mr for mass, by 24 for gas volume at r.t.p., by 6.02 x 10^23 for particles, and divide by volume in dm3 (or multiply) for concentration." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-oxfordaqa-mole-map.svg" width="900" height="970" alt="Amount in moles is the hub. Multiply or divide by Mr for mass, by 24 for gas volume at r.t.p., by 6.02 x 10^23 for particles, and divide by volume in dm3 (or multiply) for concentration." loading="lazy">
   <figcaption>Convert to moles first, then to the quantity you need.</figcaption>
 </figure>
 
@@ -151,7 +151,7 @@ g/dm3 = mol/dm3 x Mr
 **Volume must be in dm³** — divide cm³ by 1000. This conversion accounts for more lost marks than any concept in the topic.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--07-concentration.webp" width="900" height="980" alt="Four beakers of 250 cm3, each with 0.5 mol, make 1 dm3 holding 2 mol, so concentration is 2 mol/dm3. 250 cm3 divided by 1000 is 0.25 dm3 and 0.5 divided by 0.25 is 2." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-oxfordaqa-concentration.svg" width="900" height="980" alt="Four beakers of 250 cm3, each with 0.5 mol, make 1 dm3 holding 2 mol, so concentration is 2 mol/dm3. 250 cm3 divided by 1000 is 0.25 dm3 and 0.5 divided by 0.25 is 2." loading="lazy">
   <figcaption>Concentration is moles per dm3; convert cm3 to dm3 by dividing by 1000.</figcaption>
 </figure>
 

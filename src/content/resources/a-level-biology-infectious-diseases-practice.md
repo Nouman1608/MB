@@ -14,6 +14,10 @@ order: 10
 syllabusTopics:
   - qualification: "a-level"
     topic: "infectious-diseases-cambridge-alevel-biology"
+    subtopic: "infectious-diseases-detail-cambridge-alevel-biology"
+  - qualification: "a-level"
+    topic: "infectious-diseases-cambridge-alevel-biology"
+    subtopic: "antibiotics-cambridge-alevel-biology"
 description: "Original Cambridge 9700 questions with worked answers on pathogens, HIV and anti-retroviral therapy, penicillin, the spread of TB and antibiotic resistance."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

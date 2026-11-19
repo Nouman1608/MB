@@ -16515,3 +16515,111 @@ Source: the owner's "Master Academic Quality Assurance, Content Authority & Sear
   - 11 new tests in `src/scripts/__tests__/flashcard-migrate.test.mjs` run under `test:tools`.
 - **Coverage report.** `academic-coverage-report-v2.mjs` now leaves archived resources out, as course hubs do (D-505). Before this, the 9 archived H060 pages showed as "review-pending with no reviewer" under H060 and H460.
 - **Not fixed here.** `scripts/test-academic-reports.mjs` (not part of `audit:all`) fails 7 of 44 checks on main. Its fixtures assume some resources are still `review-pending`. Since D-500 credited every page, none are, so cases N2 and N4 find no file and the pending-row checks fail. Its `check:review-ledger` step also fails inside the test, though the same command passes on its own. The likely cause is a missing heap setting.
+
+## D-507 - Follow-up after D-506: H060 Development set, report tests, source comments (19 Nov 2026)
+
+- **Owner's instruction.** "merge it and spawn agents for 2 and 4"; "the teacher has reviewed" (the content beyond Version 3.0 at AS listed in D-505 stays as extension material, as reviewed); "resolve the minor issue in 5" (decision-log IDs in page source).
+- **H060 4.2 Development (gap from D-505).**
+  - New study guide, revision notes and practice set. They are `review-pending` with no reviewer, because the teacher review predates them.
+  - A repository-side specification check is recorded in `docs/reports/academic-review/pending-review-2026-11-19.json`, made by an agent independent of the writer; every number was recomputed.
+  - Six flashcards (4.2-1 to 4.2-6). The deck has 141 cards and every Version 3.0 subtopic has cards. The `idMigration` map is unchanged; new ids are never remapped, because new marks are dated after its cutoff.
+- **Thin coverage (D-505).** The supply and demand set now teaches individual and market demand and supply (summed horizontally), ceteris paribus, and an evaluation of price changes on consumer and producer surplus. Practice Q13 and Q14 were added.
+- **Missed in D-505.** The trends in macroeconomic indicators set (file names without `h060-`) still named the 2016 edition and the old Area of Study. It now has the Version 3.0 edition, order 4.6, the "Economic policy objectives" label and corrected text.
+- **Duplicate-scope check.**
+  - `check-duplicate-resource-scope.mjs` skips archived resources.
+  - Version 3.0 merges several earlier topics, so 21 groups of sibling sets now share one tag. Each is recorded as reviewed, with the evidence for what each set teaches differently.
+  - The H460 business objectives group (short-run costs; economies of scale, revenue and profit; objectives and the principal-agent problem; the H460 subtopic page) was checked by section headings and is distinct.
+- **Report test suite.** `scripts/test-academic-reports.mjs` failed 7 of 44 checks.
+  - Its fixtures assumed some pages were still review-pending, which stopped being true after D-500. They now create a temporary pending page inside the existing restore helper.
+  - Its ledger child processes ran out of memory at Node's default heap. They now get 6144 MB, as the build uses.
+  - Archived is treated as its own status.
+  - The check "reviewed means TEACHER_CREDITED" was rewritten, not dropped: pages verified while pending and credited later correctly show REPO_* outcomes.
+- **Review ledger.**
+  - Archived pages have their own outcome, `ARCHIVED`. They no longer appear in the sign-off queue or the per-teacher sign-off lists, or in the review-pending count.
+  - The summary no longer describes REPO_* pages as "still review-pending", because most are now reviewed.
+- **Decision-log IDs in page source.**
+  - Comments inside inline scripts are readable with "view source". The consent script carried a D-280 comment on every page; the practice pages (D-104) and search pages (D-301, D-341, D-344) also had them.
+  - The IDs are removed and the explanations kept.
+  - `audit-content-integrity.mjs` has a new check, [7b]: no D-NNN in any inline script (other than JSON data) or HTML comment.
+
+## D-508 - Remaining gaps after D-507: survey and fills (19 Nov 2026)
+
+- **Owner's instruction.** "once done check for gaps remaining and spawn agents to fill the gaps".
+- **Survey.**
+  - Every active course (166) has a flashcard deck covering every subtopic.
+  - Every subtopic has a study guide and revision notes.
+  - The coverage report shows no zero-resource topic and no missing reviewer.
+  - Remaining gaps found:
+    - two subtopics with no practice page;
+    - two partial IB assessment records;
+    - missing syllabus metadata on topic-level pages;
+    - Cambridge tier names on AQA/OCR GCSE pages;
+    - flagship practice pages tagged only at topic level.
+- **Filled.**
+  - **Practice pages.**
+    - `cambridge-igcse-urdu-language-component-5-speaking-practice`: three parts of 20 marks each, per the 2025-2027 syllabus.
+    - `ib-ib-dp-geography-fieldwork-internal-assessment-practice`: 14 tasks; the Spearman's rank and chi-squared answers were recomputed.
+    - Both are review-pending.
+  - **Speaking revision notes.** `cambridge-igcse-urdu-language-component-5-speaking-revision-notes` said the syllabus gives no mark split for Parts 1 and 2. The syllabus (664633, Speaking section) gives 20 marks each. Corrected, including its self-test.
+  - **Syllabus metadata (front matter only).**
+    - 110 IB DP Economics pages had `syllabusCodes: []` and now carry "DP Economics".
+    - 46 pages got the series their siblings use.
+    - 28 pages got topic mappings.
+    - 31 were left unmapped because their course record has no matching topic: IGCSE Global Perspectives 0457 component pages, Edexcel 9UR0 paper-skill pages, IB DP "how it is assessed" overviews and DP History key concepts.
+    - Four 0580/0625 practice pages lost a redundant topic-only entry, so their questions now count at subtopic level.
+    - New sibling groups were reviewed with an 8-word shingle overlap check and recorded in `check-duplicate-resource-scope.mjs`.
+  - **Tier names.** 37 AQA and OCR GCSE pages used Cambridge's "Core"/"Extended" in the alt text and captions of reused IGCSE figures. Each label was checked against the AQA "(HT only)" markers or OCR's bold Higher-tier statements (J247, J248, J249). It now gives the true tier or is removed.
+    - One was a real error: the OCR J249 motion-graph labels were reversed. The gradient of a v-t graph is both tiers; the area under it is Higher only.
+- **Not filled.**
+  - **IB DP Language A records (2).** Language and Literature and Literature stay `VERIFIED_PARTIAL`. ibo.org refused automated access (a browser challenge), and the missing mark totals for the HL essay, individual oral and Paper 2 are probably only in the licensed subject guide. Nothing was invented.
+  - **Reused IGCSE figures.** About 25 figures on the 37 tier pages still have "Core"/"Extended" badges drawn into them. The text now gives the right tier, but each image needs an AQA/OCR version.
+- **Filled after the first round.**
+  - **Practice-bank subtopics.**
+    - 180 flagship practice pages were counted as "topic-tagged only".
+      - 135 already listed the right subtopics plus a spare topic-only entry, which is removed.
+      - 44 were tagged from their questions.
+    - Question totals are unchanged (14,451 across 24 codes). The pinned tier and bank tests still pass.
+    - Four pages also carry a subtopic from another topic where one whole question tests it: 9708 basic ideas (3.2), 9708 government macro (9.1), 2281 economic development (3.3), 7115 marketing (1.5).
+    - 30 pages stay topic-only because their courses' records list topics without subtopics: 4CH1 Topics 3-4, 4024, 2210, 8461 Key ideas, 8462 Topics 3-11, 8300 Topics 3-6.
+    - Seven new 9700 sibling pairs were reviewed (outcome-by-outcome sets against sets built on the June 2024 papers) and recorded.
+  - **Figures.**
+    - The 22 badged figures on AQA and OCR GCSE pages are redrawn as site-served SVGs in `public/images/learning/{biology,chemistry,physics}/gcse-*.svg`, with tiers per the board's specification. 64 pages and 113 images now point to them.
+    - Cambridge pages keep the originals.
+    - Two AQA tier rulings were made without a precedent and are for a teacher to confirm: 8461 protein synthesis Higher only, and 8461 interacting limiting factors Higher only.
+  - **Second repository-side check.**
+    - The two new practice pages are recorded in `pending-review-2026-11-19.json`.
+      - 0539 speaking: verified after correction. Q3's item list made its answer false; it now has six items. A verb agreement in answer 11 and a heading count in answer 2 were also corrected.
+      - IB fieldwork: partial, because ibo.org cannot be read; the Spearman's rank and chi-squared values were recomputed from exact distributions.
+    - Two Urdu notes stay open for a specialist reader.
+- **Left as decisions, not filled.**
+  - `edexcel-igcse-mathematics-algebraic-manipulation-practice` (12 questions) covers the same scope as `edexcel-igcse-maths-4ma1-use-of-symbols-and-algebraic-manipulation-practice` (24 questions). The questions differ. Merging would delete original questions and change the pinned 4MA1 totals, so it stays topic-tagged until the owner decides.
+  - The same Cambridge-badged figures are still used on about 23 Edexcel International GCSE and 27 OxfordAQA International GCSE science pages. Those courses do not use Core/Extended either.
+- **Edexcel and OxfordAQA International GCSE figures (second batch).**
+  - The 20 badged figures from the first list are redrawn for the 55 Edexcel and OxfordAQA pages that use them: 93 images, 22 new SVGs (`igcse-edexcel-*`, `igcse-oxfordaqa-*`, `igcse-shared-intl-*`), and 7 reused `gcse-shared-*` SVGs.
+  - Rulings follow each specification:
+    - Edexcel 4BI1/4CH1 Issue 3 and 4PH1 Issue 4: bold B/C/P statements are Paper 2 only.
+    - OxfordAQA 9201/9202/9203: untiered, with any content on either paper.
+  - Parts outside a specification are marked "not required by <board>". Examples: the OxfordAQA gene-to-protein mRNA steps, and the locating-agent step in chromatography.
+  - Five redraws with Paper 2 banners are taller than the originals and show slightly letterboxed at the original size.
+- **Still open.**
+  - A visual check of all 329 shared figures on these boards found 158 with Cambridge tier badges. 138 of them, on about 70 Edexcel and 100 OxfordAQA pages, are not yet redrawn.
+  - The OxfordAQA gene-to-protein pages still teach the mRNA steps that the figure now marks as not required.
+- **Third round: the remaining 138 badged figures on Edexcel and OxfordAQA pages.** Three agents worked by subject.
+  - Physics: 35 figures, 45 SVGs, 48 pages.
+  - Chemistry: 50 figures, 68 SVGs, 60 pages.
+  - Biology: 53 figures, 69 SVGs, 56 pages.
+  - All are site-served SVGs under `public/images/learning/{physics,chemistry,biology}/igcse-{edexcel,oxfordaqa,shared-intl}-*.svg`. Each SVG's `<desc>` cites the specification statements it follows. No Edexcel or OxfordAQA science page now has a Cambridge tier word in figure alt text or captions.
+  - Corrections made while redrawing:
+    - solid CO2 sublimes, so the simple-molecules figure no longer shows it melting to a liquid;
+    - the star life-cycle uses "main sequence star";
+    - the terminal velocity curve has the drag shape;
+    - the balanced see-saw states that the plank's weight is ignored;
+    - lithium was added to the Edexcel reactivity order;
+    - fermentation runs at 20-35 °C for OxfordAQA;
+    - "Group I" is now "Group 1".
+- **For a teacher to confirm.**
+  - The redraws mark some content "not required by <board>" where the specification does not list it. For example:
+    - Edexcel: stability, the spring constant, thermal expansion, the Hubble constant, deamination, xylem structure, airway protection and blast-furnace detail;
+    - OxfordAQA: nephron part names, lymphocyte and memory cell, and commutator detail.
+  - These rulings rest on what the specification leaves out, and each is cited in the SVG's description.
+  - The page text was not changed, so some pages still teach content their figure now marks as not required. For example, cilia and mucus on the Edexcel gas-exchange notes, and mRNA on the OxfordAQA gene-to-protein pages.

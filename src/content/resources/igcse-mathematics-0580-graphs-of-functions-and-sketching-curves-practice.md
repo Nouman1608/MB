@@ -13,8 +13,6 @@ order: 2
 syllabusTopics:
   - qualification: "igcse"
     topic: "algebra-and-graphs-cambridge-igcse-maths"
-  - qualification: "igcse"
-    topic: "algebra-and-graphs-cambridge-igcse-maths"
     subtopic: "graphs-of-functions-cambridge-igcse-maths"
   - qualification: "igcse"
     topic: "algebra-and-graphs-cambridge-igcse-maths"

@@ -84,7 +84,7 @@ May/June 2018 onwards —
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--02-speed-time-graph.webp" width="900" height="1010" alt="Speed rises from 0 to 10 m/s in 5 s, stays at 10 m/s for 10 s, then falls to 0 in 5 s. The gradients are 2, 0 and -2 m/s squared (acceleration, Extended). The area under the graph is 25 + 100 + 25 = 150 m, the distance travelled (Core)." loading="lazy">
+  <img src="/images/learning/physics/igcse-shared-intl-speed-time-graph.svg" width="900" height="1010" alt="Speed rises from 0 to 10 m/s in 5 s, stays at 10 m/s for 10 s, then falls to 0 in 5 s. The gradients are 2, 0 and -2 m/s squared (acceleration). The area under the graph is 25 + 100 + 25 = 150 m, the distance travelled." loading="lazy">
   <figcaption>The area under a speed-time graph is the distance travelled; its gradient is the acceleration.</figcaption>
 </figure>
 
@@ -164,12 +164,12 @@ Beyond the limit of proportionality, extension is no longer proportional to forc
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/elastic-deformation-moments-and-centre-of-gravity--01-load-extension-graph.webp" width="900" height="940" alt="Load-extension graph for a spring of constant 50 N/m: straight through the origin to 0.16 m and 8 N, where the limit of proportionality is marked, then curving. A gradient triangle (4 N over 0.08 m) gives k = 50 N/m." loading="lazy">
+  <img src="/images/learning/physics/igcse-oxfordaqa-load-extension-graph.svg" width="900" height="940" alt="Load-extension graph for a spring of constant 50 N/m: straight through the origin to 0.16 m and 8 N, where the limit of proportionality is marked, then curving. A gradient triangle (4 N over 0.08 m) gives k = 50 N/m." loading="lazy">
   <figcaption>The gradient of the straight part is the spring constant; the line stops being straight at the limit of proportionality.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--07-stretching-a-spring.webp" width="900" height="960" alt="A load-extension graph is a straight line through the origin with gradient 40 N/m up to the limit of proportionality at 8.0 N, then curves. At 6.0 N the extension is 0.15 m." loading="lazy">
+  <img src="/images/learning/physics/igcse-oxfordaqa-stretching-a-spring.svg" width="900" height="960" alt="A load-extension graph is a straight line through the origin with gradient 40 N/m up to the limit of proportionality at 8.0 N, then curves. At 6.0 N the extension is 0.15 m." loading="lazy">
   <figcaption>Up to the limit of proportionality force is proportional to extension: F = kx.</figcaption>
 </figure>
 
@@ -210,8 +210,8 @@ In a closed system, **momentum is conserved** — the total momentum before an e
 An object's **centre of mass** is the single point at which its entire weight can be considered to act. An object is more stable when its centre of mass is **lower** and its **base is wider**, because the line of action of its weight is then less likely to fall outside the base of support and cause it to topple.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/elastic-deformation-moments-and-centre-of-gravity--06-stability.webp" width="900" height="700" alt="Two blocks tilted by 25 degrees. For the tall narrow block the vertical line from the centre of gravity falls outside the base, so it topples (beyond about 20 degrees). For the low wide block it falls inside the base, so it falls back (beyond about 65 degrees)." loading="lazy">
-  <figcaption>A low centre of gravity and a wide base let an object tilt further before it topples.</figcaption>
+  <img src="/images/learning/physics/igcse-oxfordaqa-stability.svg" width="900" height="700" alt="Two blocks tilted by 25 degrees. For the tall narrow block the vertical line from the centre of mass falls outside the base, so it topples (beyond about 20 degrees). For the low wide block it falls inside the base, so it falls back (beyond about 65 degrees)." loading="lazy">
+  <figcaption>A low centre of mass and a wide base let an object tilt further before it topples.</figcaption>
 </figure>
 
 
@@ -231,12 +231,12 @@ Only the distance measured **perpendicular** to the line of action of the force 
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/elastic-deformation-moments-and-centre-of-gravity--03-moment-of-a-force.webp" width="900" height="1010" alt="A spanner pivoted at one end. A 20 N force at right angles, 0.3 m from the pivot, gives a moment of 6 N m. The same force at 30 degrees to the spanner has a perpendicular distance of 0.15 m and gives 3 N m." loading="lazy">
+  <img src="/images/learning/physics/igcse-oxfordaqa-moment-of-a-force.svg" width="900" height="1010" alt="A spanner pivoted at one end. A 20 N force at right angles, 0.3 m from the pivot, gives a moment of 6 N m. The same force at 30 degrees to the spanner has a perpendicular distance of 0.15 m and gives 3 N m." loading="lazy">
   <figcaption>Use the perpendicular distance from the pivot to the line of the force.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/elastic-deformation-moments-and-centre-of-gravity--04-balanced-seesaw.webp" width="900" height="1030" alt="A see-saw pivoted at its centre with 300 N at 1.2 m and 400 N at 0.9 m. Both moments are 360 N m, and the 700 N upward force at the pivot equals the total weight." loading="lazy">
+  <img src="/images/learning/physics/igcse-oxfordaqa-balanced-seesaw.svg" width="900" height="1030" alt="A see-saw pivoted at its centre with 300 N at 1.2 m and 400 N at 0.9 m. Both moments are 360 N m, and the 700 N upward force at the pivot equals the total weight." loading="lazy">
   <figcaption>Balanced moments (360 N m each side) and balanced forces (700 N up) both hold.</figcaption>
 </figure>
 

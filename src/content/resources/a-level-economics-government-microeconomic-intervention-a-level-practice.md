@@ -14,6 +14,13 @@ order: 8
 syllabusTopics:
   - qualification: "a-level"
     topic: "government-microeconomic-intervention-a-cambridge-alevel-economics"
+    subtopic: "government-policies-to-correct-market-failure-cambridge-alevel-economics"
+  - qualification: "a-level"
+    topic: "government-microeconomic-intervention-a-cambridge-alevel-economics"
+    subtopic: "equity-and-redistribution-of-income-and-wealth-cambridge-alevel-economics"
+  - qualification: "a-level"
+    topic: "government-microeconomic-intervention-a-cambridge-alevel-economics"
+    subtopic: "labour-market-forces-and-government-intervention-cambridge-alevel-economics"
 description: "Cambridge 9708 A Level practice on microeconomic intervention: MRP and derived demand, structural unemployment, externalities, subsidies and the Gini."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

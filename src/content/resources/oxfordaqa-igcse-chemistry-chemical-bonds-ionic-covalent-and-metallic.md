@@ -174,12 +174,12 @@ Draw the sulfide ion with eight electrons in its outer shell: its own six crosse
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--01-ionic-transfer.webp" width="900" height="945" alt="Outer shells only: sodium gives one electron to chlorine, giving Na+ with none left and Cl- with eight. Magnesium gives two electrons to oxygen, giving Mg2+ and O2- with eight. Dots are the metal's electrons and crosses the non-metal's." loading="lazy">
-  <figcaption>Metal atoms transfer outer electrons to non-metal atoms, giving ions with full outer shells (MgO is Extended).</figcaption>
+  <img src="/images/learning/chemistry/igcse-shared-intl-ionic-transfer.svg" width="900" height="945" alt="Outer shells only: sodium gives one electron to chlorine, giving Na+ with none left and Cl- with eight. Magnesium gives two electrons to oxygen, giving Mg2+ and O2- with eight. Dots are the metal's electrons and crosses the non-metal's." loading="lazy">
+  <figcaption>Metal atoms transfer outer electrons to non-metal atoms, giving ions with full outer shells.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--02-ionic-lattice.webp" width="900" height="924" alt="A regular grid of positive and negative ions alternating in every direction. Every ion is attracted to its neighbours, so many strong attractions run throughout the lattice, giving a high melting point." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-shared-intl-ionic-lattice.svg" width="900" height="924" alt="A regular grid of positive and negative ions alternating in every direction. Every ion is attracted to its neighbours, so many strong attractions run throughout the lattice, giving a high melting point." loading="lazy">
   <figcaption>Alternating ions in a giant lattice are held by many strong electrostatic attractions.</figcaption>
 </figure>
 
@@ -252,7 +252,7 @@ Check: 6 + 4 + 6 = 16 = 2 x (4 + 4)
 Every atom now has eight outer electrons.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--04-covalent-sharing.webp" width="900" height="1010" alt="Overlapping outer shells show each shared pair as one dot and one cross. HCl and the water and methane molecules use single bonds; carbon dioxide has two double bonds. Each atom ends with 8 outer electrons, hydrogen with 2." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-shared-intl-covalent-sharing.svg" width="900" height="1010" alt="Overlapping outer shells show each shared pair as one dot and one cross. HCl and the water and methane molecules use single bonds; carbon dioxide has two double bonds. Each atom ends with 8 outer electrons, hydrogen with 2." loading="lazy">
   <figcaption>Shared pairs sit in the overlap of the shells, giving every atom a full outer shell.</figcaption>
 </figure>
 
@@ -279,7 +279,7 @@ A is **simple molecular**: the bonds stop at each pair, and the diagram shows ma
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--06-giant-covalent.webp" width="900" height="980" alt="Diamond is a rigid 3D network where every carbon bonds to four others, so it is very hard with a very high melting point and is used in cutting tools. Silicon dioxide has each silicon bonded to four oxygens and each oxygen to two silicons, with properties like diamond." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-shared-intl-giant-covalent.svg" width="900" height="980" alt="Diamond is a rigid 3D network where every carbon bonds to four others, so it is very hard with a very high melting point and is used in cutting tools. Silicon dioxide has each silicon bonded to four oxygens and each oxygen to two silicons, with properties like diamond." loading="lazy">
   <figcaption>Diamond and SiO2 are giant networks of covalent bonds, hard and with very high melting points.</figcaption>
 </figure>
 
@@ -302,7 +302,7 @@ Strong electrostatic attraction: Ca2+ ions <-> delocalised electrons
 The ions attract the delocalised electrons, not each other.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--08-metallic-bonding.webp" width="900" height="1212" alt="A lattice of positive metal ions in a sea of free electrons. The attraction holds the structure together. Free electrons drifting carry current, and when layers of ions slide the electron sea still holds them together, so metals are malleable." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-oxfordaqa-metallic-bonding.svg" width="900" height="1212" alt="A lattice of positive metal ions in a sea of free electrons. The attraction holds the structure together. Free electrons drifting carry current, and when layers of ions slide the electron sea still holds them together, so metals are malleable." loading="lazy">
   <figcaption>Positive ions in a sea of delocalised electrons explain conduction and malleability.</figcaption>
 </figure>
 

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="800" viewBox="0 0 1000 888.89" role="img" aria-labelledby="title desc"><title id="title">Alpha scattering: the nucleus (OxfordAQA International GCSE Physics)</title><desc id="desc">Alpha particles are fired at a gold atom, drawn as a large dashed circle of mostly empty space with a tiny positive, heavy nucleus at its centre. Most pass straight through, barely deflected; a few passing near the nucleus are deflected through large angles; very few heading almost straight at it bounce back. No tier labels: 9203 3.7.1b (the scattering of alpha particles by thin metal foil provides evidence of the distribution of mass in the atom).</desc><rect width="1000" height="888.89" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="45" y="62" font-size="34" font-weight="700" fill="#1E2B47">Alpha scattering: the nucleus</text>
+<circle cx="522" cy="500" r="240" fill="#F4EED4" stroke="#E2CF84" stroke-width="3" stroke-dasharray="12 9"/>
+<text x="555" y="422" font-size="25" font-weight="700" fill="#8A6A0C" text-anchor="middle">Mostly empty space</text>
+<circle cx="522" cy="500" r="10" fill="#B9632F" stroke="#1E2B47" stroke-width="3"/>
+<text x="547" y="584" font-size="26" font-weight="700" fill="#1E2B47">Gold nucleus</text>
+<text x="547" y="617" font-size="23" fill="#4B5B72">tiny, positive, heavy</text>
+<path d="M67 212 Q450 205 760 142" fill="none" stroke="#2F6B63" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="785,137 753.4,163.3 745.9,124.4" fill="#2F6B63"/>
+<path d="M67 367 L330 362 Q470 355 560 300 L878 147" fill="none" stroke="#B9632F" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="902,136 878.1,169.5 861,133.8" fill="#B9632F"/>
+<path d="M67 505 L440 509 Q470 512 440 521 L88 614" fill="none" stroke="#B9632F" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="62,621 91.6,592.6 101.9,630.8" fill="#B9632F"/>
+<path d="M67 787 Q400 790 678 840" fill="none" stroke="#2F6B63" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="702,845 663.1,858.2 670,819.2" fill="#2F6B63"/>
+<text x="67" y="185" font-size="25" font-weight="700" fill="#B9632F">Alpha particles</text>
+<text x="67" y="425" font-size="25" font-weight="700" fill="#B9632F">A few are deflected</text>
+<text x="67" y="678" font-size="25" font-weight="700" fill="#B9632F">Very few bounce back</text>
+<text x="67" y="745" font-size="25" font-weight="700" fill="#2F6B63">Most pass straight through</text></g></svg>

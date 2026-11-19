@@ -14,6 +14,7 @@ order: 15
 syllabusTopics:
   - qualification: "a-level"
     topic: "control-and-coordination-cambridge-alevel-biology"
+    subtopic: "control-and-coordination-in-mammals-cambridge"
 description: "Cambridge 9700 practice questions with worked answers on neurone types, saltatory conduction, synapse ion channels, acetylcholinesterase and threshold."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

@@ -14,8 +14,6 @@ order: 9
 syllabusTopics:
   - qualification: "a-level"
     topic: "algorithm-design-and-problem-solving"
-  - qualification: "a-level"
-    topic: "algorithm-design-and-problem-solving"
     subtopic: "computational-thinking-skills"
   - qualification: "a-level"
     topic: "algorithm-design-and-problem-solving"

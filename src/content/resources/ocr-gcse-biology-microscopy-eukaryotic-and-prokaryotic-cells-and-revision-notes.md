@@ -79,7 +79,7 @@ These notes condense statements B1.1a to B1.1c of OCR GCSE (9-1) Gateway Science
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-organisation-of-the-organism--07-magnification.webp" width="900" height="1200" alt="A tiny real cell of 0.02 mm is magnified to a 60 mm image measured on a ruler. Magnification equals image size divided by actual size, 60 mm divided by 0.02 mm, which is times 3000. Both sizes must be in the same units. Extended: 1 mm equals 1000 micrometres, so 0.02 mm is 20 micrometres." loading="lazy">
+  <img src="/images/learning/biology/gcse-shared-magnification.svg" width="900" height="1200" alt="A tiny real cell of 0.02 mm is magnified to a 60 mm image measured on a ruler. Magnification equals image size divided by actual size, 60 mm divided by 0.02 mm, which is times 3000. Both sizes must be in the same units. Units: 1 mm equals 1000 micrometres, so 0.02 mm is 20 micrometres." loading="lazy">
   <figcaption>Magnification is image size divided by actual size, using the same units.</figcaption>
 </figure>
 

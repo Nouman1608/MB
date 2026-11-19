@@ -14,8 +14,6 @@ order: 9
 syllabusTopics:
   - qualification: "a-level"
     topic: "gas-exchange-cambridge-alevel-biology"
-  - qualification: "a-level"
-    topic: "gas-exchange-cambridge-alevel-biology"
     subtopic: "the-gas-exchange-system-cambridge-alevel-biology"
 description: "Twelve original gas exchange questions with fully worked, mark-by-mark answers and examiner insights, for Cambridge 9700 AS & A Level Biology."
 author: "marlbridge-academic-team"

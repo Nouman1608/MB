@@ -14,8 +14,6 @@ order: 17
 syllabusTopics:
   - qualification: "a-level"
     topic: "security"
-  - qualification: "a-level"
-    topic: "security"
     subtopic: "encryption-encryption-protocols-and-digital-certificates"
 description: "Paper 3-style questions with answers on symmetric and asymmetric encryption, quantum cryptography, TLS, certificates and signatures for Cambridge 9618."
 author: "marlbridge-academic-team"

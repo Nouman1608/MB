@@ -222,6 +222,19 @@ for (const file of builtHtmlFiles) {
       problems.push(`[7] "${pageUrlPath}" renders what looks like an internal note (${label}): "${match[0]}"`);
     }
   }
+  // [7b] D-507: decision-log IDs must not ship in page source either. Comments
+  // inside inline <script> blocks and HTML comments are readable with "view
+  // source", and a D-280 comment in the consent script was on every page.
+  // Only the D-NNN pattern is checked here; the broader patterns above stay
+  // visible-text-only because source comments legitimately mention code terms.
+  const sourceOnly = [
+    ...html.matchAll(/<script(?![^>]*type="application\/(?:ld\+)?json")[^>]*>([\s\S]*?)<\/script>/gi),
+    ...html.matchAll(/<!--([\s\S]*?)-->/g),
+  ].map((m) => m[1]).join('\n');
+  const idInSource = sourceOnly.match(/\bD-\d{3,4}\b/);
+  if (idInSource) {
+    problems.push(`[7b] "${pageUrlPath}" ships a decision-log ID in a script or HTML comment (view source): "${idInSource[0]}"`);
+  }
 }
 
 console.log('Content-integrity safeguard (indexability / metadata-honesty / self-canonical / internal-note leakage)');

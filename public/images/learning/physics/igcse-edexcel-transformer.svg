@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="880" viewBox="0 0 1000 977.78" role="img" aria-labelledby="title desc"><title id="title">The transformer (Edexcel International GCSE Physics: Paper 2 only)</title><desc id="desc">Marked Paper 2 only: transformers are 4PH1 statements 6.17P, 6.19P and 6.20P. A soft-iron core with a primary coil of 920 turns taking 230 V a.c. and a secondary coil of 48 turns giving 12 V a.c.; one loop drawn stands for about 48 turns. Vs = 230 × 48 ÷ 920 = 12 V, from Vp / Vs = Np / Ns, a step-down transformer. For a 100% efficient transformer power in = power out: 230 V × 0.078 A = 12 V × 1.5 A = 18 W.</desc><rect width="1000" height="977.78" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="500" y="62" font-size="36" font-weight="700" fill="#1E2B47" text-anchor="middle">The transformer</text>
+<text x="500" y="106" font-size="23" fill="#4B5B72" text-anchor="middle">Step-down: fewer turns on the secondary</text>
+<rect x="35" y="126" width="190" height="38" rx="19" fill="#8A6A0C"/><text x="130" y="153.64" font-size="24" font-weight="700" fill="#FFFFFF" text-anchor="middle">Paper 2 only</text>
+<rect x="210" y="210" width="580" height="368" fill="#F2E6B7" stroke="#1E2B47" stroke-width="3"/>
+<rect x="270" y="270" width="460" height="248" fill="#F4F7F6" stroke="#1E2B47" stroke-width="3"/>
+<text x="500" y="251" font-size="24" fill="#4B5B72" text-anchor="middle">soft-iron core</text>
+<ellipse cx="240" cy="283" rx="47" ry="7" fill="none" stroke="#2F6B63" stroke-width="3"/>
+<ellipse cx="240" cy="295.5" rx="47" ry="7" fill="none" stroke="#2F6B63" stroke-width="3"/>
+<ellipse cx="240" cy="308" rx="47" ry="7" fill="none" stroke="#2F6B63" stroke-width="3"/>
+<ellipse cx="240" cy="320.5" rx="47" ry="7" fill="none" stroke="#2F6B63" stroke-width="3"/>
+<ellipse cx="240" cy="333" rx="47" ry="7" fill="none" stroke="#2F6B63" stroke-width="3"/>
+<ellipse cx="240" cy="345.5" rx="47" ry="7" fill="none" stroke="#2F6B63" stroke-width="3"/>
+<ellipse cx="240" cy="358" rx="47" ry="7" fill="none" stroke="#2F6B63" stroke-width="3"/>
+<ellipse cx="240" cy="370.5" rx="47" ry="7" fill="none" stroke="#2F6B63" stroke-width="3"/>
+<ellipse cx="240" cy="383" rx="47" ry="7" fill="none" stroke="#2F6B63" stroke-width="3"/>
+<ellipse cx="240" cy="395.5" rx="47" ry="7" fill="none" stroke="#2F6B63" stroke-width="3"/>
+<ellipse cx="240" cy="408" rx="47" ry="7" fill="none" stroke="#2F6B63" stroke-width="3"/>
+<ellipse cx="240" cy="420.5" rx="47" ry="7" fill="none" stroke="#2F6B63" stroke-width="3"/>
+<ellipse cx="240" cy="433" rx="47" ry="7" fill="none" stroke="#2F6B63" stroke-width="3"/>
+<ellipse cx="240" cy="445.5" rx="47" ry="7" fill="none" stroke="#2F6B63" stroke-width="3"/>
+<ellipse cx="240" cy="458" rx="47" ry="7" fill="none" stroke="#2F6B63" stroke-width="3"/>
+<ellipse cx="240" cy="470.5" rx="47" ry="7" fill="none" stroke="#2F6B63" stroke-width="3"/>
+<ellipse cx="240" cy="483" rx="47" ry="7" fill="none" stroke="#2F6B63" stroke-width="3"/>
+<ellipse cx="240" cy="495.5" rx="47" ry="7" fill="none" stroke="#2F6B63" stroke-width="3"/>
+<ellipse cx="240" cy="508" rx="47" ry="7" fill="none" stroke="#2F6B63" stroke-width="3"/>
+<ellipse cx="760" cy="395" rx="46" ry="10" fill="none" stroke="#8A6A0C" stroke-width="3"/>
+<text x="105" y="333" font-size="28" font-weight="700" fill="#2F6B63" text-anchor="middle">Primary</text>
+<text x="105" y="372" font-size="25" fill="#1E2B47" text-anchor="middle">920 turns</text>
+<text x="105" y="453" font-size="32" font-weight="700" fill="#1E2B47" text-anchor="middle">230 V</text>
+<text x="105" y="495" font-size="23" fill="#4B5B72" text-anchor="middle">a.c. in</text>
+<text x="893" y="333" font-size="28" font-weight="700" fill="#8A6A0C" text-anchor="middle">Secondary</text>
+<text x="893" y="372" font-size="25" fill="#1E2B47" text-anchor="middle">48 turns</text>
+<text x="893" y="453" font-size="32" font-weight="700" fill="#1E2B47" text-anchor="middle">12 V</text>
+<text x="893" y="495" font-size="23" fill="#4B5B72" text-anchor="middle">a.c. out</text>
+<rect x="33" y="633" width="934" height="157" rx="14" fill="#FFFFFF" stroke="#1E2B47" stroke-width="2.5"/>
+<text x="500" y="692" font-size="38" font-weight="700" fill="#2F6B63" text-anchor="middle" xml:space="preserve"><tspan>V</tspan><tspan dy="10.6" font-size="25.8">s</tspan><tspan dy="-10.6"> = 230 × 48 ÷ 920 = 12 V</tspan></text>
+<text x="500" y="740" font-size="25" fill="#4B5B72" text-anchor="middle" xml:space="preserve"><tspan>V</tspan><tspan dy="7" font-size="17">p</tspan><tspan dy="-7"> / V</tspan><tspan dy="7" font-size="17">s</tspan><tspan dy="-7"> = N</tspan><tspan dy="7" font-size="17">p</tspan><tspan dy="-7"> / N</tspan><tspan dy="7" font-size="17">s</tspan></text>
+<text x="500" y="777" font-size="21" fill="#4B5B72" text-anchor="middle">1 loop drawn ≈ 48 turns</text>
+<rect x="33" y="811" width="934" height="134" rx="14" fill="#FFFFFF" stroke="#1E2B47" stroke-width="2.5"/>
+<text x="500" y="858" font-size="27" font-weight="700" fill="#1E2B47" text-anchor="middle">Power in = power out (100% efficient)</text>
+<text x="500" y="914" font-size="26" fill="#1E2B47" text-anchor="middle">230 V × 0.078 A = 12 V × 1.5 A = 18 W</text></g></svg>

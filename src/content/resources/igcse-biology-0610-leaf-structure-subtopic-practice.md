@@ -13,8 +13,6 @@ order: 6
 syllabusTopics:
   - qualification: "igcse"
     topic: "plant-nutrition-cambridge-igcse-biology"
-  - qualification: "igcse"
-    topic: "plant-nutrition-cambridge-igcse-biology"
     subtopic: "leaf-structure-cambridge-igcse-biology"
 description: "Twelve original leaf structure questions on leaf tissues, stomata counts and leaf shape, with mark-by-mark answers, for Cambridge IGCSE Biology 0610."
 author: "marlbridge-academic-team"

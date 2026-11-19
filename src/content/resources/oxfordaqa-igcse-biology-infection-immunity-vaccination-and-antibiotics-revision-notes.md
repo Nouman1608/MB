@@ -78,12 +78,12 @@ Memory hook: antibodies attack the **body invader**, antitoxins neutralise its *
 - If a large proportion of the population is immune, the spread of the pathogen is very much reduced.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--04-antigen.webp" width="900" height="1090" alt="Extended. A pathogen has antigens with specific shapes. An antibody with a complementary shape fits and binds them; an antigen of a different shape does not fit, so there is no binding. Binding leads to direct destruction of the pathogen, or to marking it for destruction by a phagocyte." loading="lazy">
+  <img src="/images/learning/biology/igcse-shared-intl-antigen-antibody.svg" width="900" height="1090" alt="A pathogen has antigens with specific shapes. An antibody with a complementary shape fits and binds them; an antigen of a different shape does not fit, so there is no binding. Binding leads to direct destruction of the pathogen, or to marking it for destruction by a phagocyte." loading="lazy">
   <figcaption>An antibody binds only the antigen whose shape is complementary to it.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--06-herd-immunity.webp" width="900" height="1220" alt="Extended. Two grids of 40 people with one case each. With 20 percent vaccinated, 31 of 40 become ill; with 90 percent vaccinated, 2 of 40 become ill. A baby too young to be vaccinated surrounded by vaccinated people stays well." loading="lazy">
+  <img src="/images/learning/biology/igcse-oxfordaqa-herd-immunity.svg" width="900" height="1220" alt="Two grids of 40 people with one case each. With 20 percent vaccinated, 31 of 40 become ill; with 90 percent vaccinated, 2 of 40 become ill. A baby too young to be vaccinated surrounded by vaccinated people stays well." loading="lazy">
   <figcaption>When most people are vaccinated the pathogen finds few people to infect.</figcaption>
 </figure>
 
@@ -120,7 +120,7 @@ A strong evaluation uses both columns and ends with a judgement.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--05-vaccination-memory.webp" width="900" height="1130" alt="Extended. Three steps: weakened pathogens or antigens go in; lymphocytes make antibodies; memory cells give long-term immunity. A sketch graph of antibody level against time shows a slow, small first response and, on meeting the same pathogen again, a fast, large second response." loading="lazy">
+  <img src="/images/learning/biology/igcse-oxfordaqa-vaccination-memory.svg" width="900" height="1130" alt="Three steps: weakened pathogens or antigens go in; lymphocytes make antibodies; memory cells give long-term immunity. A sketch graph of antibody level against time shows a slow, small first response and, on meeting the same pathogen again, a fast, large second response. A note says the terms lymphocyte and memory cell are not required by OxfordAQA." loading="lazy">
   <figcaption>Memory cells make the second response faster and larger.</figcaption>
 </figure>
 
@@ -149,7 +149,7 @@ A strong evaluation uses both columns and ends with a judgement.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--05-only-when-essential.webp" width="900" height="1010" alt="Extended. A cold or flu (virus) and a minor bacterial infection the body clears itself do not need antibiotics; a serious bacterial infection does. Fewer uses mean fewer chances to select resistant bacteria, so antibiotics keep working." loading="lazy">
+  <img src="/images/learning/biology/igcse-oxfordaqa-antibiotics-only-when-essential.svg" width="900" height="1010" alt="A cold or flu (virus) and a minor bacterial infection the body clears itself do not need antibiotics; a serious bacterial infection does. Fewer uses mean fewer chances to select resistant bacteria, so antibiotics keep working." loading="lazy">
   <figcaption>Using antibiotics only when essential gives resistant bacteria fewer chances to be selected.</figcaption>
 </figure>
 
@@ -168,12 +168,12 @@ Order of events:
 Overuse and inappropriate use increase the rate at which resistant strains develop. Antibiotics are not currently used for non-serious infections such as mild throat infections. New antibiotics have to be developed because resistant strains keep appearing.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--07-bacteria-doubling.webp" width="900" height="890" alt="Extended worked example. A resistant bacterium dividing every 30 minutes makes 8 divisions in 4 hours, so 2 to the power 8 = 256 bacteria. The line graph curves steeply upwards." loading="lazy">
+  <img src="/images/learning/biology/igcse-oxfordaqa-bacteria-doubling.svg" width="900" height="890" alt="Worked example. A resistant bacterium dividing every 30 minutes makes 8 divisions in 4 hours, so 2 to the power 8 = 256 bacteria. The line graph curves steeply upwards." loading="lazy">
   <figcaption>A resistant strain can become common very quickly because numbers double with every division.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--04-resistance-develops.webp" width="900" height="1290" alt="Extended. Four steps of natural selection in bacteria: one of ten bacteria has a random mutation making it resistant; the antibiotic kills the nine non-resistant ones; the survivor divides and passes on the gene; later all bacteria are resistant and the antibiotic no longer works." loading="lazy">
+  <img src="/images/learning/biology/igcse-oxfordaqa-resistance-develops.svg" width="900" height="1290" alt="Four steps of natural selection in bacteria: one of ten bacteria has a random mutation making it resistant; the antibiotic kills the nine non-resistant ones; the survivor divides and passes on the gene; later all bacteria are resistant and the antibiotic no longer works." loading="lazy">
   <figcaption>The antibiotic selects resistant bacteria that already exist; it does not cause the mutation.</figcaption>
 </figure>
 

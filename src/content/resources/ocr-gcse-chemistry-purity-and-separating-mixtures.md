@@ -212,8 +212,8 @@ Version 4.0, August 2026 —
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--03-chromatography-method.webp" width="900" height="1185" alt="Paper with a pencil line and mixture spot stands in a little solvent. Later the solvent front has risen and three coloured spots have separated. A lower strip shows colourless spots invisible until a locating agent is sprayed (Extended)." loading="lazy">
-  <figcaption>The solvent carries the components different distances up the paper; colourless spots need a locating agent (Extended).</figcaption>
+  <img src="/images/learning/chemistry/gcse-shared-chromatography-method.svg" width="900" height="1185" alt="Paper with a pencil line and mixture spot stands in a little solvent. Later the solvent front has risen and three coloured spots have separated. A lower strip shows colourless spots invisible until a locating agent is sprayed." loading="lazy">
+  <figcaption>The solvent carries the components different distances up the paper; colourless spots need a locating agent.</figcaption>
 </figure>
 
 <figure class="topic-figure">

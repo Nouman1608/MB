@@ -9,6 +9,15 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP History"]
 syllabusSeries: "First assessment 2017"
 order: 2
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-world-history-prescribed-subjects"
+  - qualification: "ib-dp"
+    topic: "ib-dp-world-history-world-history-topics"
+  - qualification: "ib-dp"
+    topic: "ib-dp-world-history-hl-options-depth-studies"
+  - qualification: "ib-dp"
+    topic: "ib-dp-world-history-internal-assessment"
 description: "Every option in IB DP History (first assessed 2017): five prescribed subjects and case studies, twelve world history topics, four HL regions and teaching hours."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

@@ -14,8 +14,6 @@ order: 5
 syllabusTopics:
   - qualification: "a-level"
     topic: "the-mitotic-cell-cycle-cambridge-alevel-biology"
-  - qualification: "a-level"
-    topic: "the-mitotic-cell-cycle-cambridge-alevel-biology"
     subtopic: "replication-and-division-of-nuclei-and-cells-cambridge"
   - qualification: "a-level"
     topic: "the-mitotic-cell-cycle-cambridge-alevel-biology"

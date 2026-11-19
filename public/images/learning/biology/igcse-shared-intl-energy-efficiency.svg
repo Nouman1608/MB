@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1060" viewBox="0 0 1800 2120" role="img" aria-labelledby="title desc"><title id="title">Energy passed up a food chain</title><desc id="desc">Bars drawn to scale, in kJ per square metre per year: grass 21 000, rabbits 1 470, foxes 126. From grass to rabbits 7.0% is passed on (1 470 ÷ 21 000 × 100); from rabbits to foxes 8.6% (126 ÷ 1 470 × 100). Why so little passes on: heat from respiration, parts not eaten, faeces, and urea (excretion). So food chains rarely have five levels. No tier labels: energy transfer along a food chain is on both Edexcel papers (4BI1 4.8-4.9) and in OxfordAQA 9201 3.3.1b, which is not tiered.</desc><rect width="1800" height="2120" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="88" font-size="68" font-weight="700" fill="#1E2B47" text-anchor="middle">Energy passed up a food chain</text>
+<text x="900" y="164" font-size="44" fill="#4B5B72" text-anchor="middle" xml:space="preserve"><tspan>kJ m</tspan><tspan dy="-16.7" font-size="29.9">−2</tspan><tspan dy="16.7"> yr</tspan><tspan dy="-16.7" font-size="29.9">−1</tspan><tspan dy="16.7">, bar widths to scale</tspan></text>
+<path d="M62 466 C40 440 50 420 76 430 C90 440 100 452 110 460" fill="#B9632F" stroke="#1E2B47" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="132" cy="480" rx="52" ry="24" fill="#B9632F" stroke="#1E2B47" stroke-width="4"/>
+<polygon points="168,462 210,484 168,500" fill="#B9632F" stroke="#1E2B47" stroke-width="4" stroke-linejoin="round"/>
+<polygon points="160,464 172,432 182,470" fill="#B9632F" stroke="#1E2B47" stroke-width="4" stroke-linejoin="round"/>
+<circle cx="206" cy="484" r="5" fill="#1E2B47"/>
+<circle cx="182" cy="476" r="4" fill="#1E2B47"/>
+<ellipse cx="164" cy="852" rx="8" ry="30" fill="#F2E6B7" stroke="#1E2B47" stroke-width="4"/>
+<ellipse cx="182" cy="854" rx="8" ry="30" fill="#F2E6B7" stroke="#1E2B47" stroke-width="4"/>
+<ellipse cx="118" cy="914" rx="52" ry="32" fill="#F2E6B7" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="172" cy="898" r="24" fill="#F2E6B7" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="64" cy="908" r="12" fill="#FFFFFF" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="180" cy="894" r="4" fill="#1E2B47"/>
+<path d="M84 1370 Q70 1310 92 1262" fill="none" stroke="#2F6B63" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M118 1370 Q112 1300 130 1252" fill="none" stroke="#2F6B63" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M150 1370 Q164 1310 146 1262" fill="none" stroke="#2F6B63" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M178 1370 Q186 1310 192 1270" fill="none" stroke="#2F6B63" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="232" y="492" font-size="46" font-weight="700" fill="#1E2B47">Foxes</text>
+<text x="232" y="912" font-size="46" font-weight="700" fill="#1E2B47">Rabbits</text>
+<text x="232" y="1332" font-size="46" font-weight="700" fill="#1E2B47">Grass</text>
+<rect x="570" y="1218" width="1200" height="192" rx="12" fill="#6FAAA3" stroke="#1E2B47" stroke-width="5"/>
+<text x="1170" y="1336" font-size="50" font-weight="700" fill="#FFFFFF" text-anchor="middle">21 000</text>
+<rect x="1128" y="800" width="84" height="190" rx="12" fill="#2F6B63" stroke="#1E2B47" stroke-width="5"/>
+<text x="1240" y="914" font-size="50" font-weight="700" fill="#1E2B47">1 470</text>
+<line x1="1170" y1="382" x2="1170" y2="568" stroke="#1E2B47" stroke-width="9" stroke-linecap="round"/>
+<text x="1200" y="492" font-size="50" font-weight="700" fill="#1E2B47">126</text>
+<line x1="600" y1="1200" x2="600" y2="1072" stroke="#1E2B47" stroke-width="7" stroke-linecap="round"/><polygon points="600,1030 619.8,1074 580.2,1074" fill="#1E2B47"/>
+<text x="654" y="1094" font-size="46" font-weight="700" fill="#1E2B47">7.0 % passed on</text>
+<text x="654" y="1168" font-size="44" fill="#4B5B72">1 470 ÷ 21 000 × 100</text>
+<line x1="600" y1="780" x2="600" y2="652" stroke="#1E2B47" stroke-width="7" stroke-linecap="round"/><polygon points="600,610 619.8,654 580.2,654" fill="#1E2B47"/>
+<text x="654" y="672" font-size="46" font-weight="700" fill="#1E2B47">8.6 % passed on</text>
+<text x="654" y="748" font-size="44" fill="#4B5B72">126 ÷ 1 470 × 100</text>
+<text x="60" y="1576" font-size="50" font-weight="700" fill="#1E2B47">Why so little passes on</text>
+<rect x="60" y="1622" width="820" height="120" rx="60" fill="#F5E0D5" stroke="#B9632F" stroke-width="5"/><text x="470" y="1698.56" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">Heat from respiration</text>
+<rect x="920" y="1622" width="820" height="120" rx="60" fill="#F5E0D5" stroke="#B9632F" stroke-width="5"/><text x="1330" y="1698.56" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">Parts not eaten</text>
+<rect x="60" y="1778" width="820" height="120" rx="60" fill="#F5E0D5" stroke="#B9632F" stroke-width="5"/><text x="470" y="1854.56" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">Faeces</text>
+<rect x="920" y="1778" width="820" height="120" rx="60" fill="#F5E0D5" stroke="#B9632F" stroke-width="5"/><text x="1330" y="1854.56" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">Urea (excretion)</text>
+<text x="900" y="2014" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">So food chains rarely have five levels.</text></g></svg>

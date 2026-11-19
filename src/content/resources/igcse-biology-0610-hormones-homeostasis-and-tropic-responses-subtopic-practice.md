@@ -13,8 +13,6 @@ order: 14
 syllabusTopics:
   - qualification: "igcse"
     topic: "coordination-and-response-cambridge-igcse-biology"
-  - qualification: "igcse"
-    topic: "coordination-and-response-cambridge-igcse-biology"
     subtopic: "hormones-cambridge-igcse-biology"
   - qualification: "igcse"
     topic: "coordination-and-response-cambridge-igcse-biology"

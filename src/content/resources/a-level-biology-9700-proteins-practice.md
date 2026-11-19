@@ -14,8 +14,6 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "biological-molecules-cambridge-alevel-biology"
-  - qualification: "a-level"
-    topic: "biological-molecules-cambridge-alevel-biology"
     subtopic: "proteins-cambridge-alevel-biology"
 description: "Eleven original questions for Cambridge 9700 Biology on amino acids, protein structure, haemoglobin and collagen, with mark-by-mark answers."
 author: "marlbridge-academic-team"

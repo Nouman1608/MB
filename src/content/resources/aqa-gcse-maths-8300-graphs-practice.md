@@ -13,8 +13,6 @@ order: 2
 syllabusTopics:
   - qualification: "gcse"
     topic: "algebra-aqa-gcse-maths"
-  - qualification: "gcse"
-    topic: "algebra-aqa-gcse-maths"
     subtopic: "graphs-aqa-gcse-maths"
 description: "Twelve original AQA GCSE Maths 8300 Graphs questions on straight lines, quadratics, transformations, areas under graphs and circles, with marked answers."
 author: "marlbridge-academic-team"

@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1190" viewBox="0 0 1800 2380" role="img" aria-labelledby="title desc"><title id="title">Antibiotic resistance arises (Edexcel International GCSE Biology)</title><desc id="desc">Five steps: (1) a random mutation makes one bacterium resistant; (2) an antibiotic is used and the non-resistant bacteria die; (3) the survivor has less competition; (4) it reproduces and passes on the resistance allele; (5) a resistant strain forms quickly because bacteria divide fast. No tier labels: how antibiotic resistance increases in bacterial populations is 4BI1 statement 3.39, on both papers.</desc><rect width="1800" height="2380" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="88" font-size="68" font-weight="700" fill="#1E2B47" text-anchor="middle">Antibiotic resistance arises</text>
+<text x="900" y="164" font-size="44" fill="#4B5B72" text-anchor="middle">Selection, step by step</text>
+<rect x="60" y="250" width="840" height="280" rx="30" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="976" cy="390" r="38" fill="#1E2B47"/>
+<text x="976" y="405" font-size="42" font-weight="700" fill="#FFFFFF" text-anchor="middle">1</text>
+<text x="1050" y="370" font-size="46" font-weight="700" fill="#1E2B47">A random mutation:</text>
+<text x="1050" y="436" font-size="46" fill="#1E2B47">one bacterium is resistant</text>
+<rect x="60" y="626" width="840" height="280" rx="30" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<line x1="480" y1="540" x2="480" y2="588" stroke="#1E2B47" stroke-width="7" stroke-linecap="round"/><polygon points="480,620 459.6,586 500.4,586" fill="#1E2B47"/>
+<circle cx="976" cy="766" r="38" fill="#1E2B47"/>
+<text x="976" y="781" font-size="42" font-weight="700" fill="#FFFFFF" text-anchor="middle">2</text>
+<text x="1050" y="746" font-size="46" font-weight="700" fill="#1E2B47">Antibiotic used:</text>
+<text x="1050" y="812" font-size="46" fill="#1E2B47">non-resistant bacteria die</text>
+<rect x="60" y="1002" width="840" height="280" rx="30" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<line x1="480" y1="916" x2="480" y2="964" stroke="#1E2B47" stroke-width="7" stroke-linecap="round"/><polygon points="480,996 459.6,962 500.4,962" fill="#1E2B47"/>
+<circle cx="976" cy="1142" r="38" fill="#1E2B47"/>
+<text x="976" y="1157" font-size="42" font-weight="700" fill="#FFFFFF" text-anchor="middle">3</text>
+<text x="1050" y="1122" font-size="46" font-weight="700" fill="#1E2B47">The survivor has</text>
+<text x="1050" y="1188" font-size="46" fill="#1E2B47">less competition</text>
+<rect x="60" y="1378" width="840" height="280" rx="30" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<line x1="480" y1="1292" x2="480" y2="1340" stroke="#1E2B47" stroke-width="7" stroke-linecap="round"/><polygon points="480,1372 459.6,1338 500.4,1338" fill="#1E2B47"/>
+<circle cx="976" cy="1518" r="38" fill="#1E2B47"/>
+<text x="976" y="1533" font-size="42" font-weight="700" fill="#FFFFFF" text-anchor="middle">4</text>
+<text x="1050" y="1498" font-size="46" font-weight="700" fill="#1E2B47">It reproduces and passes</text>
+<text x="1050" y="1564" font-size="46" fill="#1E2B47">on the resistance allele</text>
+<rect x="60" y="1754" width="840" height="280" rx="30" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<line x1="480" y1="1668" x2="480" y2="1716" stroke="#1E2B47" stroke-width="7" stroke-linecap="round"/><polygon points="480,1748 459.6,1714 500.4,1714" fill="#1E2B47"/>
+<circle cx="976" cy="1894" r="38" fill="#8A6A0C"/>
+<text x="976" y="1909" font-size="42" font-weight="700" fill="#FFFFFF" text-anchor="middle">5</text>
+<text x="1050" y="1874" font-size="46" font-weight="700" fill="#1E2B47">A resistant strain forms,</text>
+<text x="1050" y="1940" font-size="46" fill="#1E2B47">quickly: bacteria divide fast</text>
+<g transform="rotate(20 240 330)"><rect x="192" y="308" width="96" height="44" rx="22" fill="#6FAAA3" stroke="#1E2B47" stroke-width="5"/></g>
+<g transform="rotate(20 240 706)"><rect x="192" y="684" width="96" height="44" rx="22" fill="#FFFFFF" stroke="#1E2B47" stroke-width="4" stroke-dasharray="5 6"/><line x1="226" y1="692" x2="254" y2="720" stroke="#B9632F" stroke-width="6" stroke-linecap="round"/><line x1="254" y1="692" x2="226" y2="720" stroke="#B9632F" stroke-width="6" stroke-linecap="round"/></g>
+<g transform="rotate(10 560 318)"><rect x="512" y="296" width="96" height="44" rx="22" fill="#6FAAA3" stroke="#1E2B47" stroke-width="5"/></g>
+<g transform="rotate(10 560 694)"><rect x="512" y="672" width="96" height="44" rx="22" fill="#FFFFFF" stroke="#1E2B47" stroke-width="4" stroke-dasharray="5 6"/><line x1="546" y1="680" x2="574" y2="708" stroke="#B9632F" stroke-width="6" stroke-linecap="round"/><line x1="574" y1="680" x2="546" y2="708" stroke="#B9632F" stroke-width="6" stroke-linecap="round"/></g>
+<g transform="rotate(-20 800 340)"><rect x="752" y="318" width="96" height="44" rx="22" fill="#6FAAA3" stroke="#1E2B47" stroke-width="5"/></g>
+<g transform="rotate(-20 800 716)"><rect x="752" y="694" width="96" height="44" rx="22" fill="#FFFFFF" stroke="#1E2B47" stroke-width="4" stroke-dasharray="5 6"/><line x1="786" y1="702" x2="814" y2="730" stroke="#B9632F" stroke-width="6" stroke-linecap="round"/><line x1="814" y1="702" x2="786" y2="730" stroke="#B9632F" stroke-width="6" stroke-linecap="round"/></g>
+<g transform="rotate(-15 300 460)"><rect x="252" y="438" width="96" height="44" rx="22" fill="#6FAAA3" stroke="#1E2B47" stroke-width="5"/></g>
+<g transform="rotate(-15 300 836)"><rect x="252" y="814" width="96" height="44" rx="22" fill="#FFFFFF" stroke="#1E2B47" stroke-width="4" stroke-dasharray="5 6"/><line x1="286" y1="822" x2="314" y2="850" stroke="#B9632F" stroke-width="6" stroke-linecap="round"/><line x1="314" y1="822" x2="286" y2="850" stroke="#B9632F" stroke-width="6" stroke-linecap="round"/></g>
+<g transform="rotate(-25 398 432)"><rect x="350" y="410" width="96" height="44" rx="22" fill="#6FAAA3" stroke="#1E2B47" stroke-width="5"/></g>
+<g transform="rotate(-25 398 808)"><rect x="350" y="786" width="96" height="44" rx="22" fill="#FFFFFF" stroke="#1E2B47" stroke-width="4" stroke-dasharray="5 6"/><line x1="384" y1="794" x2="412" y2="822" stroke="#B9632F" stroke-width="6" stroke-linecap="round"/><line x1="412" y1="794" x2="384" y2="822" stroke="#B9632F" stroke-width="6" stroke-linecap="round"/></g>
+<g transform="rotate(25 720 440)"><rect x="672" y="418" width="96" height="44" rx="22" fill="#6FAAA3" stroke="#1E2B47" stroke-width="5"/></g>
+<g transform="rotate(25 720 816)"><rect x="672" y="794" width="96" height="44" rx="22" fill="#FFFFFF" stroke="#1E2B47" stroke-width="4" stroke-dasharray="5 6"/><line x1="706" y1="802" x2="734" y2="830" stroke="#B9632F" stroke-width="6" stroke-linecap="round"/><line x1="734" y1="802" x2="706" y2="830" stroke="#B9632F" stroke-width="6" stroke-linecap="round"/></g>
+<g transform="rotate(0 490 400)"><rect x="442" y="378" width="96" height="44" rx="22" fill="#D6B22F" stroke="#1E2B47" stroke-width="5"/><line x1="480" y1="380" x2="480" y2="420" stroke="#1E2B47" stroke-width="4"/><line x1="500" y1="380" x2="500" y2="420" stroke="#1E2B47" stroke-width="4"/></g>
+<g transform="rotate(0 490 776)"><rect x="442" y="754" width="96" height="44" rx="22" fill="#D6B22F" stroke="#1E2B47" stroke-width="5"/><line x1="480" y1="756" x2="480" y2="796" stroke="#1E2B47" stroke-width="4"/><line x1="500" y1="756" x2="500" y2="796" stroke="#1E2B47" stroke-width="4"/></g>
+<g transform="rotate(0 490 1152)"><rect x="442" y="1130" width="96" height="44" rx="22" fill="#D6B22F" stroke="#1E2B47" stroke-width="5"/><line x1="480" y1="1132" x2="480" y2="1172" stroke="#1E2B47" stroke-width="4"/><line x1="500" y1="1132" x2="500" y2="1172" stroke="#1E2B47" stroke-width="4"/></g>
+<g transform="rotate(0 340 1510)"><rect x="292" y="1488" width="96" height="44" rx="22" fill="#D6B22F" stroke="#1E2B47" stroke-width="5"/><line x1="330" y1="1490" x2="330" y2="1530" stroke="#1E2B47" stroke-width="4"/><line x1="350" y1="1490" x2="350" y2="1530" stroke="#1E2B47" stroke-width="4"/></g>
+<g transform="rotate(-15 500 1444)"><rect x="452" y="1422" width="96" height="44" rx="22" fill="#D6B22F" stroke="#1E2B47" stroke-width="5"/><line x1="490" y1="1424" x2="490" y2="1464" stroke="#1E2B47" stroke-width="4"/><line x1="510" y1="1424" x2="510" y2="1464" stroke="#1E2B47" stroke-width="4"/></g>
+<g transform="rotate(20 640 1550)"><rect x="592" y="1528" width="96" height="44" rx="22" fill="#D6B22F" stroke="#1E2B47" stroke-width="5"/><line x1="630" y1="1530" x2="630" y2="1570" stroke="#1E2B47" stroke-width="4"/><line x1="650" y1="1530" x2="650" y2="1570" stroke="#1E2B47" stroke-width="4"/></g>
+<g transform="rotate(10 560 1598)"><rect x="512" y="1576" width="96" height="44" rx="22" fill="#D6B22F" stroke="#1E2B47" stroke-width="5"/><line x1="550" y1="1578" x2="550" y2="1618" stroke="#1E2B47" stroke-width="4"/><line x1="570" y1="1578" x2="570" y2="1618" stroke="#1E2B47" stroke-width="4"/></g>
+<g transform="rotate(10 200 1826)"><rect x="152" y="1804" width="96" height="44" rx="22" fill="#D6B22F" stroke="#1E2B47" stroke-width="5"/><line x1="190" y1="1806" x2="190" y2="1846" stroke="#1E2B47" stroke-width="4"/><line x1="210" y1="1806" x2="210" y2="1846" stroke="#1E2B47" stroke-width="4"/></g>
+<g transform="rotate(0 518 1834)"><rect x="470" y="1812" width="96" height="44" rx="22" fill="#D6B22F" stroke="#1E2B47" stroke-width="5"/><line x1="508" y1="1814" x2="508" y2="1854" stroke="#1E2B47" stroke-width="4"/><line x1="528" y1="1814" x2="528" y2="1854" stroke="#1E2B47" stroke-width="4"/></g>
+<g transform="rotate(-30 620 1874)"><rect x="572" y="1852" width="96" height="44" rx="22" fill="#D6B22F" stroke="#1E2B47" stroke-width="5"/><line x1="610" y1="1854" x2="610" y2="1894" stroke="#1E2B47" stroke-width="4"/><line x1="630" y1="1854" x2="630" y2="1894" stroke="#1E2B47" stroke-width="4"/></g>
+<g transform="rotate(-10 800 1832)"><rect x="752" y="1810" width="96" height="44" rx="22" fill="#D6B22F" stroke="#1E2B47" stroke-width="5"/><line x1="790" y1="1812" x2="790" y2="1852" stroke="#1E2B47" stroke-width="4"/><line x1="810" y1="1812" x2="810" y2="1852" stroke="#1E2B47" stroke-width="4"/></g>
+<g transform="rotate(-20 360 1938)"><rect x="312" y="1916" width="96" height="44" rx="22" fill="#D6B22F" stroke="#1E2B47" stroke-width="5"/><line x1="350" y1="1918" x2="350" y2="1958" stroke="#1E2B47" stroke-width="4"/><line x1="370" y1="1918" x2="370" y2="1958" stroke="#1E2B47" stroke-width="4"/></g>
+<g transform="rotate(25 680 1934)"><rect x="632" y="1912" width="96" height="44" rx="22" fill="#D6B22F" stroke="#1E2B47" stroke-width="5"/><line x1="670" y1="1914" x2="670" y2="1954" stroke="#1E2B47" stroke-width="4"/><line x1="690" y1="1914" x2="690" y2="1954" stroke="#1E2B47" stroke-width="4"/></g>
+<g transform="rotate(30 460 1972)"><rect x="412" y="1950" width="96" height="44" rx="22" fill="#D6B22F" stroke="#1E2B47" stroke-width="5"/><line x1="450" y1="1952" x2="450" y2="1992" stroke="#1E2B47" stroke-width="4"/><line x1="470" y1="1952" x2="470" y2="1992" stroke="#1E2B47" stroke-width="4"/></g>
+<g transform="rotate(0 260 1974)"><rect x="212" y="1952" width="96" height="44" rx="22" fill="#D6B22F" stroke="#1E2B47" stroke-width="5"/><line x1="250" y1="1954" x2="250" y2="1994" stroke="#1E2B47" stroke-width="4"/><line x1="270" y1="1954" x2="270" y2="1994" stroke="#1E2B47" stroke-width="4"/></g>
+<g transform="rotate(10 760 1990)"><rect x="712" y="1968" width="96" height="44" rx="22" fill="#D6B22F" stroke="#1E2B47" stroke-width="5"/><line x1="750" y1="1970" x2="750" y2="2010" stroke="#1E2B47" stroke-width="4"/><line x1="770" y1="1970" x2="770" y2="2010" stroke="#1E2B47" stroke-width="4"/></g>
+<rect x="610" y="556" width="100" height="44" rx="22" fill="#B9632F" stroke="#1E2B47" stroke-width="4"/>
+<text x="750" y="594" font-size="42" font-weight="700" fill="#1E2B47">antibiotic</text>
+<g transform="rotate(0 140 2220)"><rect x="92" y="2198" width="96" height="44" rx="22" fill="#6FAAA3" stroke="#1E2B47" stroke-width="5"/></g>
+<text x="230" y="2234" font-size="44" fill="#1E2B47">Not resistant</text>
+<g transform="rotate(0 710 2220)"><rect x="662" y="2198" width="96" height="44" rx="22" fill="#D6B22F" stroke="#1E2B47" stroke-width="5"/><line x1="700" y1="2200" x2="700" y2="2240" stroke="#1E2B47" stroke-width="4"/><line x1="720" y1="2200" x2="720" y2="2240" stroke="#1E2B47" stroke-width="4"/></g>
+<text x="810" y="2234" font-size="44" fill="#1E2B47">Resistant</text>
+<g transform="rotate(0 1180 2220)"><rect x="1132" y="2198" width="96" height="44" rx="22" fill="#FFFFFF" stroke="#1E2B47" stroke-width="4" stroke-dasharray="5 6"/><line x1="1166" y1="2206" x2="1194" y2="2234" stroke="#B9632F" stroke-width="6" stroke-linecap="round"/><line x1="1194" y1="2206" x2="1166" y2="2234" stroke="#B9632F" stroke-width="6" stroke-linecap="round"/></g>
+<text x="1270" y="2234" font-size="44" fill="#1E2B47">Killed</text></g></svg>

@@ -13,8 +13,6 @@ order: 20
 syllabusTopics:
   - qualification: "igcse"
     topic: "human-influences-on-ecosystems-cambridge-igcse-biology"
-  - qualification: "igcse"
-    topic: "human-influences-on-ecosystems-cambridge-igcse-biology"
     subtopic: "food-supply-cambridge-igcse-biology"
   - qualification: "igcse"
     topic: "human-influences-on-ecosystems-cambridge-igcse-biology"

@@ -13,8 +13,6 @@ order: 6
 syllabusTopics:
   - qualification: "igcse"
     topic: "space-physics-cambridge-igcse-physics"
-  - qualification: "igcse"
-    topic: "space-physics-cambridge-igcse-physics"
     subtopic: "the-earth-and-the-solar-system-cambridge-igcse-physics"
   - qualification: "igcse"
     topic: "space-physics-cambridge-igcse-physics"

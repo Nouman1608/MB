@@ -14,6 +14,10 @@ order: 8
 syllabusTopics:
   - qualification: "a-level"
     topic: "transport-in-mammals-cambridge-alevel-biology"
+    subtopic: "the-circulatory-system-cambridge-alevel-biology"
+  - qualification: "a-level"
+    topic: "transport-in-mammals-cambridge-alevel-biology"
+    subtopic: "transport-of-oxygen-and-carbon-dioxide-cambridge"
 description: "Original Cambridge 9700 questions with worked answers on capillaries, unit conversions, artery and vein walls, vein grafts and oxygen carried by haemoglobin."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

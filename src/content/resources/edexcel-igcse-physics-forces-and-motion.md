@@ -120,7 +120,7 @@ a = 2.5 m/s²
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--02-speed-time-graph.webp" width="900" height="1010" alt="Speed rises from 0 to 10 m/s in 5 s, stays at 10 m/s for 10 s, then falls to 0 in 5 s. The gradients are 2, 0 and -2 m/s squared (acceleration, Extended). The area under the graph is 25 + 100 + 25 = 150 m, the distance travelled (Core)." loading="lazy">
+  <img src="/images/learning/physics/igcse-shared-intl-speed-time-graph.svg" width="900" height="1010" alt="Speed rises from 0 to 10 m/s in 5 s, stays at 10 m/s for 10 s, then falls to 0 in 5 s. The gradients are 2, 0 and -2 m/s squared (acceleration). The area under the graph is 25 + 100 + 25 = 150 m, the distance travelled." loading="lazy">
   <figcaption>The area under a speed-time graph is the distance travelled; its gradient is the acceleration.</figcaption>
 </figure>
 
@@ -203,7 +203,7 @@ it falls at a constant **terminal velocity**.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--03-terminal-velocity.webp" width="900" height="1067" alt="An illustrative skydiver speed-time curve rises and levels at 50 m/s. Three force diagrams: at A only weight acts; at B drag is smaller than weight so speed still rises; at C drag equals weight so the speed is constant (terminal velocity)." loading="lazy">
+  <img src="/images/learning/physics/igcse-shared-intl-terminal-velocity.svg" width="900" height="1067" alt="An illustrative skydiver speed-time curve rises and levels at 50 m/s. Three force diagrams: at A only weight acts; at B drag is smaller than weight so speed still rises; at C drag equals weight so the speed is constant (terminal velocity)." loading="lazy">
   <figcaption>Terminal velocity is reached when drag has grown to balance the weight.</figcaption>
 </figure>
 
@@ -224,8 +224,8 @@ holds.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--07-stretching-a-spring.webp" width="900" height="960" alt="A load-extension graph is a straight line through the origin with gradient 40 N/m up to the limit of proportionality at 8.0 N, then curves. At 6.0 N the extension is 0.15 m." loading="lazy">
-  <figcaption>Up to the limit of proportionality force is proportional to extension: F = kx.</figcaption>
+  <img src="/images/learning/physics/igcse-edexcel-stretching-a-spring.svg" width="900" height="960" alt="A load-extension graph is a straight line through the origin with gradient 40 N/m up to the limit of proportionality at 8.0 N, then curves. At 6.0 N the extension is 0.15 m. The spring constant k and F = kx are greyed and marked not required by Edexcel." loading="lazy">
+  <figcaption>Up to the limit of proportionality force is proportional to extension (Hooke's law).</figcaption>
 </figure>
 
 
@@ -289,7 +289,7 @@ forces on a beam vary with the position of a load placed along it.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/elastic-deformation-moments-and-centre-of-gravity--05-plumb-line-lamina.webp" width="900" height="1160" alt="A plane lamina is hung from pin A with a plumb line, then from pin B. The two vertical lines, drawn on the lamina, cross at the centre of gravity." loading="lazy">
+  <img src="/images/learning/physics/igcse-edexcel-plumb-line-lamina.svg" width="900" height="1160" alt="A plane lamina is hung from pin A with a plumb line, then from pin B. The two vertical lines, drawn on the lamina, cross at the centre of gravity. The whole figure is marked Paper 2 only." loading="lazy">
   <figcaption>The centre of gravity is where the plumb lines from two suspension points cross.</figcaption>
 </figure>
 

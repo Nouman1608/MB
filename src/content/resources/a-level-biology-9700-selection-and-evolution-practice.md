@@ -14,8 +14,6 @@ order: 17
 syllabusTopics:
   - qualification: "a-level"
     topic: "selection-and-evolution-cambridge-alevel-biology"
-  - qualification: "a-level"
-    topic: "selection-and-evolution-cambridge-alevel-biology"
     subtopic: "variation-cambridge-alevel-biology"
   - qualification: "a-level"
     topic: "selection-and-evolution-cambridge-alevel-biology"

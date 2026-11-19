@@ -13,8 +13,6 @@ order: 2
 syllabusTopics:
   - qualification: "igcse"
     topic: "equations-formulae-and-identities-edexcel-igcse-maths"
-  - qualification: "igcse"
-    topic: "equations-formulae-and-identities-edexcel-igcse-maths"
     subtopic: "proportion-edexcel-igcse-maths"
 description: "Original Higher tier practice questions on Edexcel IGCSE Maths A 4MA1 section 2.5 Proportion, with fully worked mark schemes and examiner insights."
 author: "marlbridge-academic-team"

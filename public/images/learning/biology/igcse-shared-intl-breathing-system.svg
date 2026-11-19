@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 1800 1800" role="img" aria-labelledby="title desc"><title id="title">The breathing system</title><desc id="desc">Front view of the thorax. Air enters through the nose or mouth and passes (1) the larynx, (2) the trachea, held open by cartilage rings, (3) the bronchi, (4) the bronchioles and (5) the alveoli in the lungs. The ribs, intercostal muscles and diaphragm surround the lungs. No tier labels: these structures are on both Edexcel papers (4BI1 2.46) and in OxfordAQA 9201 3.2.5a, which is not tiered. The larynx and cartilage rings are greyed with a note that they are not required by Edexcel or OxfordAQA.</desc><rect width="1800" height="1800" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="88" font-size="68" font-weight="700" fill="#1E2B47" text-anchor="middle">The breathing system</text>
+<text x="900" y="164" font-size="44" fill="#4B5B72" text-anchor="middle">Front view, schematic</text>
+<text x="900" y="268" font-size="50" font-weight="700" fill="#1E2B47" text-anchor="middle">Nose or mouth</text>
+<line x1="900" y1="300" x2="900" y2="348" stroke="#2F6B63" stroke-width="6" stroke-linecap="round"/><polygon points="900,380 879.6,346 920.4,346" fill="#2F6B63"/>
+<path d="M386 710 Q560 600 852 580" fill="none" stroke="#8A6A0C" stroke-width="28" stroke-linejoin="round" stroke-linecap="round"/><path d="M386 710 Q560 600 852 580" fill="none" stroke="#F2E6B7" stroke-width="16" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1414 710 Q1240 600 948 580" fill="none" stroke="#8A6A0C" stroke-width="28" stroke-linejoin="round" stroke-linecap="round"/><path d="M1414 710 Q1240 600 948 580" fill="none" stroke="#F2E6B7" stroke-width="16" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M386 830 Q560 720 760 680" fill="none" stroke="#8A6A0C" stroke-width="28" stroke-linejoin="round" stroke-linecap="round"/><path d="M386 830 Q560 720 760 680" fill="none" stroke="#F2E6B7" stroke-width="16" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1414 830 Q1240 720 1040 680" fill="none" stroke="#8A6A0C" stroke-width="28" stroke-linejoin="round" stroke-linecap="round"/><path d="M1414 830 Q1240 720 1040 680" fill="none" stroke="#F2E6B7" stroke-width="16" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M386 950 Q560 840 760 800" fill="none" stroke="#8A6A0C" stroke-width="28" stroke-linejoin="round" stroke-linecap="round"/><path d="M386 950 Q560 840 760 800" fill="none" stroke="#F2E6B7" stroke-width="16" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1414 950 Q1240 840 1040 800" fill="none" stroke="#8A6A0C" stroke-width="28" stroke-linejoin="round" stroke-linecap="round"/><path d="M1414 950 Q1240 840 1040 800" fill="none" stroke="#F2E6B7" stroke-width="16" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M386 1070 Q560 960 760 920" fill="none" stroke="#8A6A0C" stroke-width="28" stroke-linejoin="round" stroke-linecap="round"/><path d="M386 1070 Q560 960 760 920" fill="none" stroke="#F2E6B7" stroke-width="16" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1414 1070 Q1240 960 1040 920" fill="none" stroke="#8A6A0C" stroke-width="28" stroke-linejoin="round" stroke-linecap="round"/><path d="M1414 1070 Q1240 960 1040 920" fill="none" stroke="#F2E6B7" stroke-width="16" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M386 1190 Q560 1080 760 1040" fill="none" stroke="#8A6A0C" stroke-width="28" stroke-linejoin="round" stroke-linecap="round"/><path d="M386 1190 Q560 1080 760 1040" fill="none" stroke="#F2E6B7" stroke-width="16" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1414 1190 Q1240 1080 1040 1040" fill="none" stroke="#8A6A0C" stroke-width="28" stroke-linejoin="round" stroke-linecap="round"/><path d="M1414 1190 Q1240 1080 1040 1040" fill="none" stroke="#F2E6B7" stroke-width="16" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="430" y1="710" x2="430" y2="1190" stroke="#B9632F" stroke-width="8" stroke-linecap="round"/>
+<line x1="1370" y1="710" x2="1370" y2="1190" stroke="#B9632F" stroke-width="8" stroke-linecap="round"/>
+<path d="M860 610 C860 596 850 596 834 602 C640 650 500 800 486 1100 C480 1300 494 1420 510 1488 Q700 1420 860 1404 Z" fill="#DDEBE8" stroke="#2F6B63" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M940 610 C940 596 950 596 966 602 C1160 650 1300 800 1314 1100 C1320 1300 1306 1420 1290 1488 Q1100 1420 940 1404 Z" fill="#DDEBE8" stroke="#2F6B63" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M390 1590 Q900 1250 1410 1570" fill="none" stroke="#B9632F" stroke-width="34" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="864" y="456" width="72" height="344" fill="#FFFFFF" stroke="#2F6B63" stroke-width="6"/>
+<line x1="866" y1="478" x2="934" y2="478" stroke="#8A6A0C" stroke-width="8"/>
+<line x1="866" y1="518" x2="934" y2="518" stroke="#8A6A0C" stroke-width="8"/>
+<line x1="866" y1="558" x2="934" y2="558" stroke="#8A6A0C" stroke-width="8"/>
+<line x1="866" y1="598" x2="934" y2="598" stroke="#8A6A0C" stroke-width="8"/>
+<line x1="866" y1="638" x2="934" y2="638" stroke="#8A6A0C" stroke-width="8"/>
+<line x1="866" y1="678" x2="934" y2="678" stroke="#8A6A0C" stroke-width="8"/>
+<line x1="866" y1="718" x2="934" y2="718" stroke="#8A6A0C" stroke-width="8"/>
+<line x1="866" y1="758" x2="934" y2="758" stroke="#8A6A0C" stroke-width="8"/>
+<rect x="844" y="376" width="112" height="80" rx="22" fill="#DDEBE8" stroke="#2F6B63" stroke-width="6"/>
+<line x1="900" y1="790" x2="716" y2="960" stroke="#2F6B63" stroke-width="26" stroke-linecap="round"/>
+<line x1="900" y1="790" x2="1084" y2="960" stroke="#2F6B63" stroke-width="26" stroke-linecap="round"/>
+<rect x="864" y="780" width="72" height="30" fill="#2F6B63"/>
+<line x1="716" y1="960" x2="640" y2="1080" stroke="#2F6B63" stroke-width="7" stroke-linecap="round"/>
+<line x1="716" y1="960" x2="770" y2="1110" stroke="#2F6B63" stroke-width="7" stroke-linecap="round"/>
+<line x1="640" y1="1080" x2="590" y2="1200" stroke="#2F6B63" stroke-width="7" stroke-linecap="round"/>
+<line x1="640" y1="1080" x2="664" y2="1246" stroke="#2F6B63" stroke-width="7" stroke-linecap="round"/>
+<line x1="770" y1="1110" x2="744" y2="1256" stroke="#2F6B63" stroke-width="7" stroke-linecap="round"/>
+<line x1="770" y1="1110" x2="820" y2="1218" stroke="#2F6B63" stroke-width="7" stroke-linecap="round"/>
+<circle cx="566" cy="1206" r="19" fill="#FFFFFF" stroke="#2F6B63" stroke-width="5"/>
+<circle cx="590" cy="1192" r="19" fill="#FFFFFF" stroke="#2F6B63" stroke-width="5"/>
+<circle cx="606" cy="1220" r="19" fill="#FFFFFF" stroke="#2F6B63" stroke-width="5"/>
+<circle cx="650" cy="1252" r="19" fill="#FFFFFF" stroke="#2F6B63" stroke-width="5"/>
+<circle cx="672" cy="1240" r="19" fill="#FFFFFF" stroke="#2F6B63" stroke-width="5"/>
+<circle cx="690" cy="1262" r="19" fill="#FFFFFF" stroke="#2F6B63" stroke-width="5"/>
+<circle cx="660" cy="1284" r="19" fill="#FFFFFF" stroke="#2F6B63" stroke-width="5"/>
+<circle cx="744" cy="1262" r="19" fill="#FFFFFF" stroke="#2F6B63" stroke-width="5"/>
+<circle cx="722" cy="1276" r="19" fill="#FFFFFF" stroke="#2F6B63" stroke-width="5"/>
+<circle cx="764" cy="1284" r="19" fill="#FFFFFF" stroke="#2F6B63" stroke-width="5"/>
+<circle cx="740" cy="1300" r="19" fill="#FFFFFF" stroke="#2F6B63" stroke-width="5"/>
+<circle cx="806" cy="1220" r="19" fill="#FFFFFF" stroke="#2F6B63" stroke-width="5"/>
+<circle cx="830" cy="1210" r="19" fill="#FFFFFF" stroke="#2F6B63" stroke-width="5"/>
+<circle cx="846" cy="1232" r="19" fill="#FFFFFF" stroke="#2F6B63" stroke-width="5"/>
+<line x1="1084" y1="960" x2="1160" y2="1080" stroke="#2F6B63" stroke-width="7" stroke-linecap="round"/>
+<line x1="1084" y1="960" x2="1030" y2="1110" stroke="#2F6B63" stroke-width="7" stroke-linecap="round"/>
+<line x1="1160" y1="1080" x2="1210" y2="1200" stroke="#2F6B63" stroke-width="7" stroke-linecap="round"/>
+<line x1="1160" y1="1080" x2="1136" y2="1246" stroke="#2F6B63" stroke-width="7" stroke-linecap="round"/>
+<line x1="1030" y1="1110" x2="1056" y2="1256" stroke="#2F6B63" stroke-width="7" stroke-linecap="round"/>
+<line x1="1030" y1="1110" x2="980" y2="1218" stroke="#2F6B63" stroke-width="7" stroke-linecap="round"/>
+<circle cx="1234" cy="1206" r="19" fill="#FFFFFF" stroke="#2F6B63" stroke-width="5"/>
+<circle cx="1210" cy="1192" r="19" fill="#FFFFFF" stroke="#2F6B63" stroke-width="5"/>
+<circle cx="1194" cy="1220" r="19" fill="#FFFFFF" stroke="#2F6B63" stroke-width="5"/>
+<circle cx="1150" cy="1252" r="19" fill="#FFFFFF" stroke="#2F6B63" stroke-width="5"/>
+<circle cx="1128" cy="1240" r="19" fill="#FFFFFF" stroke="#2F6B63" stroke-width="5"/>
+<circle cx="1110" cy="1262" r="19" fill="#FFFFFF" stroke="#2F6B63" stroke-width="5"/>
+<circle cx="1140" cy="1284" r="19" fill="#FFFFFF" stroke="#2F6B63" stroke-width="5"/>
+<circle cx="1056" cy="1262" r="19" fill="#FFFFFF" stroke="#2F6B63" stroke-width="5"/>
+<circle cx="1078" cy="1276" r="19" fill="#FFFFFF" stroke="#2F6B63" stroke-width="5"/>
+<circle cx="1036" cy="1284" r="19" fill="#FFFFFF" stroke="#2F6B63" stroke-width="5"/>
+<circle cx="1060" cy="1300" r="19" fill="#FFFFFF" stroke="#2F6B63" stroke-width="5"/>
+<circle cx="994" cy="1220" r="19" fill="#FFFFFF" stroke="#2F6B63" stroke-width="5"/>
+<circle cx="970" cy="1210" r="19" fill="#FFFFFF" stroke="#2F6B63" stroke-width="5"/>
+<circle cx="954" cy="1232" r="19" fill="#FFFFFF" stroke="#2F6B63" stroke-width="5"/>
+<line x1="800" y1="414" x2="844" y2="414" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<circle cx="844" cy="414" r="8" fill="#1E2B47"/>
+<text x="790" y="428" font-size="46" font-weight="700" fill="#6B7785" text-anchor="end">1 Larynx</text>
+<line x1="828" y1="522" x2="874" y2="522" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<circle cx="874" cy="522" r="8" fill="#1E2B47"/>
+<text x="820" y="536" font-size="42" fill="#6B7785" text-anchor="end">Cartilage rings</text>
+<line x1="990" y1="506" x2="936" y2="506" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<circle cx="936" cy="506" r="8" fill="#1E2B47"/>
+<text x="1000" y="520" font-size="46" font-weight="700" fill="#1E2B47">2 Trachea</text>
+<line x1="1430" y1="752" x2="1280" y2="752" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<circle cx="1280" cy="752" r="8" fill="#1E2B47"/>
+<text x="1444" y="768" font-size="46" font-weight="700" fill="#1E2B47">Lung</text>
+<line x1="310" y1="862" x2="372" y2="850" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<circle cx="372" cy="850" r="8" fill="#1E2B47"/>
+<text x="296" y="876" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="end">Ribs</text>
+<line x1="1430" y1="908" x2="1022" y2="908" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<circle cx="1022" cy="908" r="8" fill="#1E2B47"/>
+<text x="1444" y="922" font-size="46" font-weight="700" fill="#1E2B47">3 Bronchi</text>
+<line x1="1430" y1="1078" x2="1166" y2="1078" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<circle cx="1166" cy="1078" r="8" fill="#1E2B47"/>
+<text x="1444" y="1092" font-size="46" font-weight="700" fill="#1E2B47">4 Bronchioles</text>
+<line x1="1430" y1="1216" x2="1258" y2="1216" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<circle cx="1258" cy="1216" r="8" fill="#1E2B47"/>
+<text x="1444" y="1230" font-size="46" font-weight="700" fill="#1E2B47">5 Alveoli</text>
+<text x="36" y="1196" font-size="46" font-weight="700" fill="#1E2B47">Intercostal</text>
+<text x="36" y="1256" font-size="46" font-weight="700" fill="#1E2B47">muscles</text>
+<line x1="316" y1="1210" x2="430" y2="1176" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<circle cx="430" cy="1176" r="8" fill="#1E2B47"/>
+<text x="0" y="0" font-size="46" font-weight="700" fill="#1E2B47"></text>
+<line x1="1430" y1="1600" x2="1378" y2="1570" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<circle cx="1378" cy="1570" r="8" fill="#1E2B47"/>
+<text x="1444" y="1614" font-size="46" font-weight="700" fill="#1E2B47">Diaphragm</text>
+<text x="900" y="1704" font-size="44" fill="#4B5B72" text-anchor="middle">Numbers 1 to 5: the route air takes</text>
+<text x="900" y="1766" font-size="34" fill="#6B7785" text-anchor="middle">Larynx and cartilage rings (grey): not required by Edexcel or OxfordAQA</text></g></svg>

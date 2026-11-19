@@ -140,7 +140,7 @@ In both cases the coils themselves end up where they started. Tie a ribbon to on
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-waves--02-transverse-longitudinal.webp" width="900" height="890" alt="A rope wave moves points up and down at right angles to travel (transverse). A spring wave moves coils back and forth along the direction of travel (longitudinal), bunching into compressions and spreading into rarefactions (Extended names)." loading="lazy">
+  <img src="/images/learning/physics/gcse-shared-transverse-longitudinal.svg" width="900" height="890" alt="A rope wave moves points up and down at right angles to travel (transverse). A spring wave moves coils back and forth along the direction of travel (longitudinal), bunching into compressions and spreading into rarefactions." loading="lazy">
   <figcaption>Transverse waves vibrate at right angles to the direction of travel; longitudinal waves vibrate along it.</figcaption>
 </figure>
 

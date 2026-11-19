@@ -14,6 +14,13 @@ order: 3
 syllabusTopics:
   - qualification: "a-level"
     topic: "human-resource-management-as-cambridge-alevel-business"
+    subtopic: "human-resource-management-hrm-cambridge-alevel-business"
+  - qualification: "a-level"
+    topic: "human-resource-management-as-cambridge-alevel-business"
+    subtopic: "motivation-cambridge-alevel-business"
+  - qualification: "a-level"
+    topic: "human-resource-management-as-cambridge-alevel-business"
+    subtopic: "management-cambridge-alevel-business"
 description: "Practice questions with worked answers on recruitment, motivation and management for Topic 2 Human resource management in Cambridge AS & A Level Business 9609."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

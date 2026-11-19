@@ -14,6 +14,10 @@ order: 12
 syllabusTopics:
   - qualification: "a-level"
     topic: "energy-and-respiration-cambridge-alevel-biology"
+    subtopic: "energy-cambridge-alevel-biology"
+  - qualification: "a-level"
+    topic: "energy-and-respiration-cambridge-alevel-biology"
+    subtopic: "respiration-cambridge-alevel-biology"
 description: "Original Cambridge 9700 questions with worked answers on oxidative phosphorylation, cyanide and uncouplers, respiratory quotient and anaerobic yeast."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

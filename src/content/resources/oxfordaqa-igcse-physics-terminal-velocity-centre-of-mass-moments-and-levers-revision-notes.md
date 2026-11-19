@@ -98,7 +98,7 @@ speed
 The large area gives a large drag at low speed. A bigger drag force means the weight is balanced at a lower speed, so the terminal velocity is lower and the landing is safer.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--03-terminal-velocity.webp" width="900" height="1067" alt="An illustrative skydiver speed-time curve rises and levels at 50 m/s. Three force diagrams: at A only weight acts; at B drag is smaller than weight so speed still rises; at C drag equals weight so the speed is constant (terminal velocity)." loading="lazy">
+  <img src="/images/learning/physics/igcse-shared-intl-terminal-velocity.svg" width="900" height="1067" alt="An illustrative skydiver speed-time curve rises and levels at 50 m/s. Three force diagrams: at A only weight acts; at B drag is smaller than weight so speed still rises; at C drag equals weight so the speed is constant (terminal velocity)." loading="lazy">
   <figcaption>Terminal velocity is reached when drag has grown to balance the weight.</figcaption>
 </figure>
 
@@ -134,13 +134,13 @@ Sources of error: pin held too tightly, plumb line moving when marked, marks too
 Low centre of mass and wide base mean more stable. High centre of mass and narrow base mean easier to topple.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/elastic-deformation-moments-and-centre-of-gravity--05-plumb-line-lamina.webp" width="900" height="1160" alt="A plane lamina is hung from pin A with a plumb line, then from pin B. The two vertical lines, drawn on the lamina, cross at the centre of gravity." loading="lazy">
-  <figcaption>The centre of gravity is where the plumb lines from two suspension points cross.</figcaption>
+  <img src="/images/learning/physics/igcse-oxfordaqa-plumb-line-lamina.svg" width="900" height="1160" alt="A plane lamina is hung from pin A with a plumb line, then from pin B. The two vertical lines, drawn on the lamina, cross at the centre of mass." loading="lazy">
+  <figcaption>The centre of mass is where the plumb lines from two suspension points cross.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/elastic-deformation-moments-and-centre-of-gravity--06-stability.webp" width="900" height="700" alt="Two blocks tilted by 25 degrees. For the tall narrow block the vertical line from the centre of gravity falls outside the base, so it topples (beyond about 20 degrees). For the low wide block it falls inside the base, so it falls back (beyond about 65 degrees)." loading="lazy">
-  <figcaption>A low centre of gravity and a wide base let an object tilt further before it topples.</figcaption>
+  <img src="/images/learning/physics/igcse-oxfordaqa-stability.svg" width="900" height="700" alt="Two blocks tilted by 25 degrees. For the tall narrow block the vertical line from the centre of mass falls outside the base, so it topples (beyond about 20 degrees). For the low wide block it falls inside the base, so it falls back (beyond about 65 degrees)." loading="lazy">
+  <figcaption>A low centre of mass and a wide base let an object tilt further before it topples.</figcaption>
 </figure>
 
 
@@ -164,12 +164,12 @@ M = F × d. Always check three things: the force is the one acting on the object
 The support force at a pivot equals the sum of the downward forces when the object is in equilibrium.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/elastic-deformation-moments-and-centre-of-gravity--03-moment-of-a-force.webp" width="900" height="1010" alt="A spanner pivoted at one end. A 20 N force at right angles, 0.3 m from the pivot, gives a moment of 6 N m. The same force at 30 degrees to the spanner has a perpendicular distance of 0.15 m and gives 3 N m." loading="lazy">
+  <img src="/images/learning/physics/igcse-oxfordaqa-moment-of-a-force.svg" width="900" height="1010" alt="A spanner pivoted at one end. A 20 N force at right angles, 0.3 m from the pivot, gives a moment of 6 N m. The same force at 30 degrees to the spanner has a perpendicular distance of 0.15 m and gives 3 N m." loading="lazy">
   <figcaption>Use the perpendicular distance from the pivot to the line of the force.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/elastic-deformation-moments-and-centre-of-gravity--04-balanced-seesaw.webp" width="900" height="1030" alt="A see-saw pivoted at its centre with 300 N at 1.2 m and 400 N at 0.9 m. Both moments are 360 N m, and the 700 N upward force at the pivot equals the total weight." loading="lazy">
+  <img src="/images/learning/physics/igcse-oxfordaqa-balanced-seesaw.svg" width="900" height="1030" alt="A see-saw pivoted at its centre with 300 N at 1.2 m and 400 N at 0.9 m. Both moments are 360 N m, and the 700 N upward force at the pivot equals the total weight." loading="lazy">
   <figcaption>Balanced moments (360 N m each side) and balanced forces (700 N up) both hold.</figcaption>
 </figure>
 

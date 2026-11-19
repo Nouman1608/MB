@@ -106,7 +106,7 @@ The shortest wavelength has the highest frequency, and so the highest energy.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-waves--07-em-spectrum.webp" width="900" height="950" alt="Seven regions from radio to gamma, each with a wave of shorter wavelength than the one above (illustrative) and one use. All travel at 3.0 x 10^8 m/s in a vacuum (Extended)." loading="lazy">
+  <img src="/images/learning/physics/gcse-shared-em-spectrum.svg" width="900" height="950" alt="Seven regions from radio to gamma, each with a wave of shorter wavelength than the one above (illustrative) and one use. All travel at 3.0 x 10^8 m/s in a vacuum." loading="lazy">
   <figcaption>Frequency rises and wavelength falls from radio waves to gamma rays.</figcaption>
 </figure>
 
@@ -146,7 +146,7 @@ In a second test both cans are filled with water at 85 °C and left to cool. Aft
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--07-radiation-plates.webp" width="900" height="950" alt="A radiant heater faces a dull black and a shiny plate at equal distance. The black plate absorbs the infrared, its wax melts and its pin falls first; the shiny plate reflects most of it and its pin stays." loading="lazy">
+  <img src="/images/learning/physics/igcse-shared-intl-radiation-plates.svg" width="900" height="950" alt="A radiant heater faces a dull black and a shiny plate at equal distance. The black plate absorbs the infrared, its wax melts and its pin falls first; the shiny plate reflects most of it and its pin stays." loading="lazy">
   <figcaption>Dull black surfaces absorb infrared best; shiny ones reflect it.</figcaption>
 </figure>
 

@@ -60,7 +60,7 @@ Examples named in the specification: ethene → poly(ethene); propene → poly(p
 5. Put n in front of the monomer in the equation.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/polymers--03-alkene-repeat-unit.webp" width="900" height="1140" alt="Ethene and propene are each shown turning into a bracketed repeat unit when the C=C opens, with an arrow back to show closing the bond recovers the monomer. A crossed-out version shows the wrong answer that keeps the C=C inside the brackets." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-oxfordaqa-alkene-repeat-unit.svg" width="900" height="1140" alt="Ethene and propene are each shown turning into a bracketed repeat unit when the C=C opens, with an arrow back to show closing the bond recovers the monomer. A crossed-out version shows the wrong answer that keeps the C=C inside the brackets." loading="lazy">
   <figcaption>Open the C=C to get the repeat unit; close it again to get the monomer.</figcaption>
 </figure>
 
@@ -183,7 +183,7 @@ How new materials are developed: identify the need → choose monomers and condi
 Cornstarch comes from plants, so it is renewable; most synthetic polymers come from crude oil.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/polymers--08-plastic-waste.webp" width="900" height="1040" alt="Four tiles: plastic buried in landfill is still there after a hundred years; plastic collects in the sea and harms marine life; burning can give off toxic gases; and PET can be broken back into monomers and made into new PET." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-oxfordaqa-plastic-waste.svg" width="900" height="1040" alt="Four tiles: plastic buried in landfill is still there after a hundred years; plastic collects in the sea and harms marine life; burning can give off toxic gases; and PET can be broken back into monomers and made into new PET. The burning and PET tiles are marked not required by OxfordAQA." loading="lazy">
   <figcaption>Plastics persist in landfill and oceans, burning gives toxic gases, and only some plastics like PET can be recycled to monomers.</figcaption>
 </figure>
 

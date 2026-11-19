@@ -13,8 +13,6 @@ order: 37
 syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-2-cambridge-alevel"
-  - qualification: "a-level"
-    topic: "pure-mathematics-2-cambridge-alevel"
     subtopic: "algebra-cambridge-alevel-maths-2"
 description: "11 original Cambridge 9709 Paper 2 Algebra questions with mark-by-mark answers on modulus, polynomial division and the factor and remainder theorems."
 author: "marlbridge-academic-team"

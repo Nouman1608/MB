@@ -205,7 +205,7 @@ An object topples when the line of action of its weight falls outside its base.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/elastic-deformation-moments-and-centre-of-gravity--06-stability.webp" width="900" height="700" alt="Two blocks tilted by 25 degrees. For the tall narrow block the vertical line from the centre of gravity falls outside the base, so it topples (beyond about 20 degrees). For the low wide block it falls inside the base, so it falls back (beyond about 65 degrees)." loading="lazy">
+  <img src="/images/learning/physics/igcse-edexcel-stability.svg" width="900" height="700" alt="Two blocks tilted by 25 degrees. For the tall narrow block the vertical line from the centre of gravity falls outside the base, so it topples (beyond about 20 degrees). For the low wide block it falls inside the base, so it falls back (beyond about 65 degrees). The figure is marked not required by Edexcel." loading="lazy">
   <figcaption>A low centre of gravity and a wide base let an object tilt further before it topples.</figcaption>
 </figure>
 

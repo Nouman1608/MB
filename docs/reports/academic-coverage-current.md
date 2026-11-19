@@ -12,7 +12,7 @@ written, so an unchanged repository regenerates identical files).
 
 | Measure | Value |
 | --- | --- |
-| Source resources | 16059 |
+| Source resources | 16064 |
 | Active board × qualification × subject combinations | 166 |
 | Combinations with an official-source record | 166/166 |
 | Combinations with a topic map | 166/166 |
@@ -41,6 +41,7 @@ source, a verification date, components with marks and durations, and an assessm
 | reviewStatus | Resources |
 | --- | --- |
 | archived | 9 |
+| review-pending | 5 |
 | reviewed | 16050 |
 
 `reviewed` means a named Marlbridge subject teacher is credited as accountable for the page
@@ -52,10 +53,10 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 
 | Type | Resources |
 | --- | --- |
-| study-guides | 5237 |
-| revision-notes | 5209 |
+| study-guides | 5238 |
+| revision-notes | 5210 |
 | past-papers | 59 |
-| practice-questions | 5224 |
+| practice-questions | 5227 |
 | exam-preparation | 165 |
 | subject-guides | 165 |
 | learning-articles | 0 |
@@ -65,10 +66,10 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 | boards | Resources |
 | --- | --- |
 | aqa | 2187 |
-| cambridge | 6147 |
+| cambridge | 6148 |
 | edexcel | 1842 |
-| ib | 1790 |
-| ocr | 1492 |
+| ib | 1791 |
+| ocr | 1495 |
 | oxfordaqa | 2601 |
 
 ## By board
@@ -76,10 +77,10 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 | Board | Combinations | Official source record | Topic map | Resources | Under 8 resources | Assessment complete | Reviewed | Review-pending |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | AQA | 26 | 26 | 26 | 2448 | 0 | 26 | 2448 | 0 |
-| Cambridge | 55 | 55 | 55 | 6299 | 0 | 55 | 6299 | 0 |
+| Cambridge | 55 | 55 | 55 | 6300 | 0 | 55 | 6299 | 1 |
 | Pearson Edexcel | 21 | 21 | 21 | 1842 | 0 | 21 | 1842 | 0 |
-| International Baccalaureate | 21 | 21 | 21 | 1790 | 0 | 19 | 1790 | 0 |
-| OCR | 13 | 13 | 13 | 1731 | 0 | 13 | 1731 | 0 |
+| International Baccalaureate | 21 | 21 | 21 | 1791 | 0 | 19 | 1790 | 1 |
+| OCR | 13 | 13 | 13 | 1737 | 0 | 13 | 1731 | 6 |
 | OxfordAQA | 30 | 30 | 30 | 2601 | 0 | 30 | 2601 | 0 |
 
 ## By qualification
@@ -87,11 +88,11 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 | Qualification | Combinations | Resources (per-combination count, a resource can count for more than one) |
 | --- | --- | --- |
 | GCSE | 18 | 1606 |
-| A Level | 59 | 7024 |
-| AS Level | 3 | 509 |
-| IGCSE | 47 | 4147 |
+| A Level | 59 | 7027 |
+| AS Level | 3 | 512 |
+| IGCSE | 47 | 4148 |
 | O Level | 18 | 1635 |
-| IB Diploma Programme | 16 | 1584 |
+| IB Diploma Programme | 16 | 1585 |
 | IB Middle Years Programme | 5 | 206 |
 
 ## Known risks
@@ -119,16 +120,20 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 
 ## Missing reviewer
 
-- None.
+- Cambridge IGCSE Urdu Language (0539): 1 review-pending resource(s) with no reviewer
+- International Baccalaureate IB Diploma Programme Geography (DP Geography): 1 review-pending resource(s) with no reviewer
+- OCR AS Level Economics (H060): 3 review-pending resource(s) with no reviewer
+- OCR A Level Economics (H460): 3 review-pending resource(s) with no reviewer
 
 ## Recommended next action
 
 | Next action | Combinations |
 | --- | --- |
-| None. | 164 |
+| None. | 160 |
+| Named-reviewer sign-off of review-pending resources. | 4 |
 | Complete the assessment record from the official specification. | 2 |
 
-Overall: no review-pending resources.
+Overall: the largest outstanding item is human sign-off: 5 review-pending resources need a named, authorised reviewer (queue: [academic-review/signoff-queue.md](academic-review/signoff-queue.md)).
 
 ## Every combination
 
@@ -208,7 +213,7 @@ Overall: no review-pending resources.
 | Cambridge | A Level | Global Perspectives | 9239 | 41 | 41 / 0 | VERIFIED_COMPLETE (staged) | 0 | None. |
 | Cambridge | IGCSE | Environmental Management | 0680 | 117 | 117 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | Cambridge | O Level | Environmental Management | 5014 | 124 | 124 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| Cambridge | IGCSE | Urdu Language | 0539 | 40 | 40 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
+| Cambridge | IGCSE | Urdu Language | 0539 | 41 | 40 / 1 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
 | Cambridge | O Level | Urdu Language | 3247 / 3248 | 38 | 38 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | Cambridge | IGCSE | Statistics | 0479 | 44 | 44 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | Cambridge | IGCSE | Commerce | 0715 | 53 | 53 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
@@ -244,7 +249,7 @@ Overall: no review-pending resources.
 | International Baccalaureate | IB Diploma Programme | Biology | DP Biology | 157 | 157 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
 | International Baccalaureate | IB Diploma Programme | Chemistry | DP Chemistry | 94 | 94 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
 | International Baccalaureate | IB Diploma Programme | Economics | DP Economics | 112 | 112 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
-| International Baccalaureate | IB Diploma Programme | Geography | DP Geography | 161 | 161 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
+| International Baccalaureate | IB Diploma Programme | Geography | DP Geography | 162 | 161 / 1 | VERIFIED_COMPLETE (component-based) | 0 | Named-reviewer sign-off of review-pending resources. |
 | International Baccalaureate | IB Diploma Programme | World History | DP History | 82 | 82 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
 | International Baccalaureate | IB Diploma Programme | Language B | DP Language B | 34 | 34 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
 | International Baccalaureate | IB Diploma Programme | Mathematics: Analysis and Approaches | DP Mathematics: Analysis and Approaches | 304 | 304 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
@@ -257,7 +262,7 @@ Overall: no review-pending resources.
 | International Baccalaureate | IB Middle Years Programme | Sciences (MYP) | MYP Sciences | 40 | 40 / 0 | VERIFIED_COMPLETE (criterion-referenced) | 0 | None. |
 | International Baccalaureate | IB Middle Years Programme | Design (MYP) | MYP Design | 34 | 34 / 0 | VERIFIED_COMPLETE (criterion-referenced) | 0 | None. |
 | International Baccalaureate | IB Middle Years Programme | Individuals and Societies (MYP) | MYP Individuals and Societies | 40 | 40 / 0 | VERIFIED_COMPLETE (criterion-referenced) | 0 | None. |
-| OCR | AS Level | Economics | H060 | 248 | 248 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
+| OCR | AS Level | Economics | H060 | 251 | 248 / 3 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
 | OCR | GCSE | Chemistry | J248 | 54 | 54 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OCR | GCSE | Physics | J249 | 114 | 114 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OCR | GCSE | Biology | J247 | 102 | 102 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
@@ -269,7 +274,7 @@ Overall: no review-pending resources.
 | OCR | A Level | Biology | H420 | 126 | 126 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OCR | A Level | Mathematics | H240 | 117 | 117 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OCR | A Level | Business | H431 | 114 | 114 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| OCR | A Level | Economics | H460 | 248 | 248 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
+| OCR | A Level | Economics | H460 | 251 | 248 / 3 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
 | OxfordAQA | IGCSE | Accounting | 9215 | 92 | 92 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OxfordAQA | IGCSE | Business | 9225 | 47 | 47 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OxfordAQA | IGCSE | Computer Science | 9210 | 68 | 68 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |

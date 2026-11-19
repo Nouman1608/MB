@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="770" viewBox="0 0 1000 855.56" role="img" aria-labelledby="title desc"><title id="title">Image from a converging lens (OxfordAQA International GCSE Physics)</title><desc id="desc">To-scale ray diagram with focal length 120 units and the object 300 units from a converging lens, beyond 2F. A ray parallel to the axis refracts through F; a ray through the centre of the lens goes straight on. They meet 200 units beyond the lens, between F and 2F, where the image is real, inverted and diminished (two thirds of the object height). No tier labels: 9203 3.3.6b, e and f.</desc><rect width="1000" height="855.56" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="500" y="62" font-size="36" font-weight="700" fill="#1E2B47" text-anchor="middle">Image from a converging lens</text>
+<text x="500" y="106" font-size="23" fill="#4B5B72" text-anchor="middle">Object beyond 2F</text>
+<line x1="45" y1="422" x2="955" y2="422" stroke="#1E2B47" stroke-width="3" stroke-linecap="round"/>
+<line x1="233.3" y1="411" x2="233.3" y2="433" stroke="#1E2B47" stroke-width="3" stroke-linecap="round"/>
+<text x="233.3" y="472" font-size="24" font-weight="700" fill="#1E2B47" text-anchor="middle">2F</text>
+<line x1="366.7" y1="411" x2="366.7" y2="433" stroke="#1E2B47" stroke-width="3" stroke-linecap="round"/>
+<text x="366.7" y="472" font-size="24" font-weight="700" fill="#1E2B47" text-anchor="middle">F</text>
+<line x1="633.3" y1="411" x2="633.3" y2="433" stroke="#1E2B47" stroke-width="3" stroke-linecap="round"/>
+<text x="633.3" y="396" font-size="24" font-weight="700" fill="#1E2B47" text-anchor="middle">F</text>
+<line x1="766.7" y1="411" x2="766.7" y2="433" stroke="#1E2B47" stroke-width="3" stroke-linecap="round"/>
+<text x="766.7" y="396" font-size="24" font-weight="700" fill="#1E2B47" text-anchor="middle">2F</text>
+<path d="M500 233 Q542 422 500 610 Q458 422 500 233Z" fill="#DDEBE8" stroke="#2F6B63" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="166.7" y1="333.1" x2="500" y2="333.1" stroke="#8A6A0C" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="500" y1="333.1" x2="722.2" y2="481.3" stroke="#8A6A0C" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="166.7" y1="333.1" x2="722.2" y2="481.3" stroke="#B9632F" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="166.7" y1="422" x2="166.7" y2="363.1" stroke="#1E2B47" stroke-width="6" stroke-linecap="round"/>
+<polygon points="166.7,333.1 189,369.1 144.4,369.1" fill="#1E2B47"/>
+<text x="166.7" y="312" font-size="24" font-weight="700" fill="#1E2B47" text-anchor="middle">object</text>
+<line x1="722.2" y1="422" x2="722.2" y2="453.3" stroke="#2F6B63" stroke-width="6" stroke-linecap="round"/>
+<polygon points="722.2,481.3 701.1,447.3 743.3,447.3" fill="#2F6B63"/>
+<circle cx="722.2" cy="481.3" r="7" fill="#E8C23A" stroke="#1E2B47" stroke-width="2"/>
+<text x="722.2" y="520" font-size="24" font-weight="700" fill="#2F6B63" text-anchor="middle">image</text>
+<rect x="33" y="622" width="934" height="188" rx="14" fill="#FFFFFF" stroke="#1E2B47" stroke-width="2.5"/>
+<text x="67" y="680" font-size="28" font-weight="700" fill="#1E2B47">The image is:</text>
+<rect x="67" y="712" width="266" height="66" rx="33" fill="#DDEBE8" stroke="#2F6B63" stroke-width="3"/>
+<text x="200" y="756" font-size="28" font-weight="700" fill="#2F6B63" text-anchor="middle">real</text>
+<rect x="367" y="712" width="266" height="66" rx="33" fill="#DDEBE8" stroke="#2F6B63" stroke-width="3"/>
+<text x="500" y="756" font-size="28" font-weight="700" fill="#2F6B63" text-anchor="middle">inverted</text>
+<rect x="667" y="712" width="266" height="66" rx="33" fill="#DDEBE8" stroke="#2F6B63" stroke-width="3"/>
+<text x="800" y="756" font-size="28" font-weight="700" fill="#2F6B63" text-anchor="middle">diminished</text></g></svg>

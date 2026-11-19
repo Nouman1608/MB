@@ -42,12 +42,12 @@ Condensed for the final weeks. For the full explanation, use the
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--01-photosynthesis-inputs-outputs.webp" width="900" height="1290" alt="A leaf takes in light energy, carbon dioxide from the air and water from the roots. Chlorophyll in chloroplasts transfers light energy into chemical energy. The leaf makes glucose and gives out oxygen. Word equation shown; Extended: 6CO2 + 6H2O gives C6H12O6 + 6O2." loading="lazy">
+  <img src="/images/learning/biology/gcse-shared-photosynthesis-inputs-outputs.svg" width="900" height="1290" alt="A leaf takes in light energy, carbon dioxide from the air and water from the roots. Chlorophyll in chloroplasts transfers light energy into chemical energy. The leaf makes glucose and gives out oxygen. Word equation shown; symbol equation: 6CO2 + 6H2O gives C6H12O6 + 6O2." loading="lazy">
   <figcaption>Raw materials go in, glucose and oxygen come out, using light energy absorbed by chlorophyll.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--02-aerobic-respiration.webp" width="900" height="1010" alt="Inside a cell, glucose and oxygen react to give carbon dioxide and water, releasing much energy. Extended panel: C6H12O6 + 6O2 gives 6CO2 + 6H2O, with 6 C, 12 H and 18 O atoms on each side." loading="lazy">
+  <img src="/images/learning/biology/gcse-shared-aerobic-respiration.svg" width="900" height="1010" alt="Inside a cell, glucose and oxygen react to give carbon dioxide and water, releasing much energy. Symbol equation: C6H12O6 + 6O2 gives 6CO2 + 6H2O, with 6 C, 12 H and 18 O atoms on each side." loading="lazy">
   <figcaption>Aerobic respiration uses oxygen and releases much energy per glucose.</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Condensed for the final weeks. For the full explanation, use the
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--08-sources-and-sinks.webp" width="900" height="1290" alt="Extended. A plant diagram: a mature photosynthesising leaf is a source releasing sucrose into the phloem; arrows show it moving up to the shoot tip, along to a fruit and down to roots, which are sinks that use or store it. Below, a young leaf is a sink and becomes a source when mature." loading="lazy">
+  <img src="/images/learning/biology/igcse-oxfordaqa-sources-and-sinks.svg" width="900" height="1290" alt="A plant diagram: a mature photosynthesising leaf is a source releasing sucrose into the phloem; arrows show it moving up to the shoot tip, along to a fruit and down to roots, which are sinks that use or store it. Below, a young leaf is a sink and becomes a source when mature. The terms source and sink, the bottom panel and amino acids in phloem are noted as not required by OxfordAQA." loading="lazy">
   <figcaption>Phloem carries sucrose from sources to sinks, and a leaf can be both at different times.</figcaption>
 </figure>
 
@@ -101,7 +101,7 @@ Condensed for the final weeks. For the full explanation, use the
 Enzymes break down insoluble starch, protein and fat into soluble substances for absorption. **Amylase** — starch. **Protease** — protein. **Lipase** — fat. Enzyme activity depends on **temperature and pH**, which affect enzyme shape and function.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-human-nutrition--06-enzymes-products.webp" width="900" height="1140" alt="Three rows show a large insoluble molecule, an enzyme, and the small soluble products. Amylase turns starch into simple sugars; protease turns protein into amino acids; lipase turns fat into glycerol and fatty acids. An Extended panel shows amylase turning starch into maltose and maltase, at the lining of the small intestine, turning maltose into glucose." loading="lazy">
+  <img src="/images/learning/biology/igcse-oxfordaqa-digestive-enzymes-products.svg" width="900" height="1140" alt="Three rows show a large insoluble molecule, an enzyme, and the small soluble products. Amylase turns starch into simple sugars; protease turns protein into amino acids; lipase turns fat into glycerol and fatty acids. A further panel, marked not required by OxfordAQA, shows amylase turning starch into maltose and maltase, at the lining of the small intestine, turning maltose into glucose." loading="lazy">
   <figcaption>Each enzyme turns one large insoluble molecule into small soluble products.</figcaption>
 </figure>
 
@@ -134,7 +134,7 @@ Conclusion:  temperature is limiting; heating the greenhouse would be
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--07-limiting-factors.webp" width="900" height="1080" alt="Extended. Sketch graph of rate against light intensity for 0.4% and 0.04% CO2 at 25 and 15 C. All curves rise together then level off at different heights, highest for 0.4% and 25 C. Rising part: light limiting. Flat part: not light; for 0.4% CO2 at 15 C the 25 C line is higher so temperature limits." loading="lazy">
+  <img src="/images/learning/biology/igcse-shared-intl-limiting-factors.svg" width="900" height="1080" alt="Sketch graph of rate against light intensity for 0.4% and 0.04% CO2 at 25 and 15 C. All curves rise together then level off at different heights, highest for 0.4% and 25 C. Rising part: light limiting. Flat part: not light; for 0.4% CO2 at 15 C the 25 C line is higher so temperature limits." loading="lazy">
   <figcaption>On the flat part another factor, not light, is limiting.</figcaption>
 </figure>
 
@@ -146,22 +146,22 @@ The heart is an **organ** that pumps blood around the body in a **double circula
 Content marked B in this sub-topic includes the pacemaker and artificial pacemakers, coronary heart disease and stents, faulty heart valves and their replacement, artificial hearts, and blood groups/transplant rejection. The B marker means this content is examined in Biology only and is not shared with the co-teachable Combined Science qualification -- the specification is linear and untiered, so it remains compulsory alongside the structure and function of the heart, blood vessels and blood components.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--01-circulation.webp" width="900" height="1290" alt="Extended. Top: in a fish the heart pumps blood to the gills, then on to the body and back, so blood passes through the heart once per circuit and pressure drops in the gills. Bottom: in a mammal the right side pumps deoxygenated blood to the lungs, oxygenated blood returns to the left side, which pumps it at high pressure to the body; blood passes through the heart twice per circuit. Left side of the heart is drawn on the right." loading="lazy">
+  <img src="/images/learning/biology/igcse-shared-intl-circulation.svg" width="900" height="1290" alt="Top: in a fish the heart pumps blood to the gills, then on to the body and back, so blood passes through the heart once per circuit and pressure drops in the gills. Bottom: in a mammal the right side pumps deoxygenated blood to the lungs, oxygenated blood returns to the left side, which pumps it at high pressure to the body; blood passes through the heart twice per circuit. Left side of the heart is drawn on the right. The fish panel is greyed as not required." loading="lazy">
   <figcaption>A fish heart is passed once per circuit; a mammal heart twice, with the two sides kept separate.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--02-heart-structure.webp" width="900" height="1180" alt="Schematic heart section viewed as if facing the person. Four chambers (atria above, ventricles below), septum between left and right, vena cava and pulmonary vein entering the atria, pulmonary artery and aorta leaving the ventricles, coronary artery over the outer wall. Extended labels: atrioventricular valves, semilunar valves, thicker left ventricle wall." loading="lazy">
-  <figcaption>Left side of the heart is on the right of the page; gold labels are Extended only.</figcaption>
+  <img src="/images/learning/biology/igcse-oxfordaqa-heart-structure.svg" width="900" height="1180" alt="Schematic heart section viewed as if facing the person. Four chambers (atria above, ventricles below), septum between left and right, vena cava and pulmonary vein entering the atria, pulmonary artery and aorta leaving the ventricles, coronary artery over the outer wall. Labels also show the atrioventricular valves, semilunar valves and thicker left ventricle wall. The valve names are greyed as not required by OxfordAQA." loading="lazy">
+  <figcaption>Left side of the heart is on the right of the page.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--04-blood-vessels.webp" width="900" height="1230" alt="Cross-sections of an artery (thick muscular elastic wall, narrow lumen), a vein (thin wall, wide lumen) and a capillary (wall one cell thick, very narrow lumen), plus a side view of a vein valve. Extended notes link structure to pressure and function." loading="lazy">
+  <img src="/images/learning/biology/igcse-shared-intl-blood-vessels.svg" width="900" height="1230" alt="Cross-sections of an artery (thick muscular elastic wall, narrow lumen), a vein (thin wall, wide lumen) and a capillary (wall one cell thick, very narrow lumen), plus a side view of a vein valve. Notes link structure to pressure and function." loading="lazy">
   <figcaption>Wall thickness and lumen size are matched to the job of each vessel.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--06-blood-components.webp" width="900" height="1150" alt="Four parts of blood. Red blood cells carry oxygen, have no nucleus and a pale centre. White blood cells do phagocytosis and make antibodies and have a nucleus; Extended: lymphocytes (large round nucleus) make antibodies and phagocytes (lobed nucleus) engulf pathogens. Platelets are fragments that help clotting. Plasma carries cells, ions, nutrients, urea, hormones and carbon dioxide." loading="lazy">
+  <img src="/images/learning/biology/igcse-oxfordaqa-blood-components.svg" width="900" height="1150" alt="Four parts of blood. Red blood cells carry oxygen, have no nucleus and a pale centre. White blood cells do phagocytosis and make antibodies and have a nucleus; lymphocytes (large round nucleus) make antibodies and phagocytes (lobed nucleus) engulf pathogens. Platelets are fragments that help clotting. Plasma carries cells, ions, nutrients, urea, hormones and carbon dioxide. The names phagocyte and lymphocyte are greyed as not required by OxfordAQA." loading="lazy">
   <figcaption>Red cells, white cells, platelets and plasma each have a job in the blood.</figcaption>
 </figure>
 

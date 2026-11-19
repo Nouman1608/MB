@@ -12,6 +12,13 @@ order: 1
 syllabusTopics:
   - qualification: "gcse"
     topic: "number-aqa-gcse-maths"
+    subtopic: "structure-and-calculation-aqa-gcse-maths"
+  - qualification: "gcse"
+    topic: "number-aqa-gcse-maths"
+    subtopic: "fractions-decimals-and-percentages-aqa-gcse-maths"
+  - qualification: "gcse"
+    topic: "number-aqa-gcse-maths"
+    subtopic: "measures-and-accuracy-aqa-gcse-maths"
 description: "Original exam-style practice questions with full worked answers on indices, surds, standard form, bounds and percentages."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"

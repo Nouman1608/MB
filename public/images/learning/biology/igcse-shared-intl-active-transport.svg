@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1120" viewBox="0 0 1800 2240" role="img" aria-labelledby="title desc"><title id="title">Active transport</title><desc id="desc">A membrane separates a low concentration of particles above from a high concentration below. (1) An orange particle on the low side binds a carrier protein; (2) energy from respiration, shown as a lightning bolt, changes the carrier and the particle is released on the high side. Particles move from low to high concentration, against the gradient, which needs energy from respiration; an example is ion uptake by root hairs. No tier labels: active transport is on both Edexcel papers (4BI1 2.15) and in OxfordAQA 9201 3.1.5f-g, which is not tiered. The key line about the protein carrier is greyed with a note that it is not required by Edexcel or OxfordAQA.</desc><rect width="1800" height="2240" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="88" font-size="68" font-weight="700" fill="#1E2B47" text-anchor="middle">Active transport</text>
+<text x="900" y="164" font-size="44" fill="#4B5B72" text-anchor="middle">One carrier protein in a membrane, schematic</text>
+<rect x="80" y="340" width="820" height="1100" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<rect x="80" y="760" width="820" height="140" fill="#B5D4CF" stroke="#1E2B47" stroke-width="4"/>
+<text x="114" y="414" font-size="44" font-weight="700" fill="#1E2B47">Low concentration</text>
+<text x="114" y="1404" font-size="44" font-weight="700" fill="#1E2B47">High concentration</text>
+<line x1="822" y1="456" x2="822" y2="1320" stroke="#8A6A0C" stroke-width="12"/>
+<polygon points="822,1380 792,1324 852,1324" fill="#8A6A0C"/>
+<circle cx="134" cy="546" r="20" fill="#6FAAA3" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="320" cy="562" r="20" fill="#6FAAA3" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="382" cy="542" r="20" fill="#6FAAA3" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="260" cy="636" r="20" fill="#6FAAA3" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="196" cy="710" r="20" fill="#6FAAA3" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="180" cy="1032" r="20" fill="#6FAAA3" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="260" cy="998" r="20" fill="#6FAAA3" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="216" cy="1092" r="20" fill="#6FAAA3" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="302" cy="1068" r="20" fill="#6FAAA3" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="136" cy="1138" r="20" fill="#6FAAA3" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="244" cy="1188" r="20" fill="#6FAAA3" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="200" cy="1268" r="20" fill="#6FAAA3" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="302" cy="1248" r="20" fill="#6FAAA3" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="464" cy="1244" r="20" fill="#6FAAA3" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="560" cy="1128" r="20" fill="#6FAAA3" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="610" cy="1032" r="20" fill="#6FAAA3" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="630" cy="1112" r="20" fill="#6FAAA3" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="630" cy="1220" r="20" fill="#6FAAA3" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="590" cy="1278" r="20" fill="#6FAAA3" stroke="#1E2B47" stroke-width="4"/>
+<rect x="350" y="712" width="220" height="236" rx="40" fill="#D6B22F" stroke="#1E2B47" stroke-width="6"/>
+<path d="M398 712 A62 62 0 0 0 522 712 Z" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="460" cy="734" r="20" fill="#B9632F" stroke="#1E2B47" stroke-width="4"/>
+<rect x="900" y="340" width="820" height="1100" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<rect x="900" y="760" width="820" height="140" fill="#B5D4CF" stroke="#1E2B47" stroke-width="4"/>
+<text x="934" y="414" font-size="44" font-weight="700" fill="#1E2B47">Low concentration</text>
+<text x="934" y="1404" font-size="44" font-weight="700" fill="#1E2B47">High concentration</text>
+<line x1="1642" y1="456" x2="1642" y2="1320" stroke="#8A6A0C" stroke-width="12"/>
+<polygon points="1642,1380 1612,1324 1672,1324" fill="#8A6A0C"/>
+<circle cx="954" cy="546" r="20" fill="#6FAAA3" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="1140" cy="562" r="20" fill="#6FAAA3" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="1202" cy="542" r="20" fill="#6FAAA3" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="1080" cy="636" r="20" fill="#6FAAA3" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="1016" cy="710" r="20" fill="#6FAAA3" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="1000" cy="1032" r="20" fill="#6FAAA3" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="1080" cy="998" r="20" fill="#6FAAA3" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="1036" cy="1092" r="20" fill="#6FAAA3" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="1122" cy="1068" r="20" fill="#6FAAA3" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="956" cy="1138" r="20" fill="#6FAAA3" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="1064" cy="1188" r="20" fill="#6FAAA3" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="1020" cy="1268" r="20" fill="#6FAAA3" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="1122" cy="1248" r="20" fill="#6FAAA3" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="1284" cy="1244" r="20" fill="#6FAAA3" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="1380" cy="1128" r="20" fill="#6FAAA3" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="1430" cy="1032" r="20" fill="#6FAAA3" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="1450" cy="1112" r="20" fill="#6FAAA3" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="1450" cy="1220" r="20" fill="#6FAAA3" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="1410" cy="1278" r="20" fill="#6FAAA3" stroke="#1E2B47" stroke-width="4"/>
+<rect x="1170" y="712" width="220" height="236" rx="40" fill="#D6B22F" stroke="#1E2B47" stroke-width="6"/>
+<path d="M1218 948 A62 62 0 0 1 1342 948 Z" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="1280" cy="1040" r="20" fill="#B9632F" stroke="#1E2B47" stroke-width="4"/>
+<polygon points="1012,770 972,840 1004,840 980,890 1050,812 1016,812 1040,770" fill="#D6B22F" stroke="#1E2B47" stroke-width="4" stroke-linejoin="round"/>
+<text x="490" y="1520" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">1 Orange particle binds</text>
+<text x="490" y="1588" font-size="44" fill="#1E2B47" text-anchor="middle">the carrier</text>
+<text x="1310" y="1520" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">2 Energy changes carrier;</text>
+<text x="1310" y="1588" font-size="44" fill="#1E2B47" text-anchor="middle">particle is released</text>
+<text x="900" y="1712" font-size="48" font-weight="700" fill="#1E2B47" text-anchor="middle">Low to high concentration: against the gradient</text>
+<text x="900" y="1784" font-size="46" fill="#1E2B47" text-anchor="middle">Needs energy from respiration (lightning bolt)</text>
+<rect x="80" y="1870" width="1640" height="290" rx="28" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<rect x="116" y="1918" width="100" height="64" rx="18" fill="#D6B22F" stroke="#1E2B47" stroke-width="4"/>
+<text x="244" y="1966" font-size="44" fill="#6B7785">Protein carrier moves the particle</text>
+<text x="244" y="2030" font-size="34" fill="#6B7785">not required by Edexcel or OxfordAQA</text>
+<text x="116" y="2120" font-size="44" fill="#1E2B47">Example: ion uptake by root hairs</text></g></svg>

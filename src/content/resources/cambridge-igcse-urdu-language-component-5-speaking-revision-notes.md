@@ -33,8 +33,8 @@ Language (0539). For the full explanation, use the
 ```
 Component 5 -- Speaking          60 marks, optional
 Whole test    approximately 10-12 minutes (as the syllabus gives it)
-Part 1  Presentation          2-3 minutes
-Part 2  Discussion            3-4 minutes
+Part 1  Presentation          2-3 minutes, 20 marks
+Part 2  Discussion            3-4 minutes, 20 marks
 Part 3  General conversation  3-4 minutes, 20 marks
 Language      Urdu throughout, with your own teacher/examiner
 ```
@@ -123,9 +123,9 @@ Use **آپ** with the examiner. Give an opinion, a reason **and** an example: th
 
 ## How it is marked
 
-- The whole test is marked out of **60**, and **20** of those marks belong to Part 3, the general
-  conversation. This page does not give a split for Parts 1 and 2, because the figures above are the
-  ones the syllabus record confirms.
+- The whole test is marked out of **60**: **20** marks for each part (Part 1 Presentation, Part 2
+  Discussion and Part 3 General conversation), each marked against its own Speaking assessment
+  criteria in the syllabus.
 - Your teacher/examiner conducts and marks the test at your centre; a recorded sample is sent to
   Cambridge for **external moderation**, which checks that the centre's marking is in line with the
   standard.
@@ -209,7 +209,7 @@ scripted: it is a pattern you can apply to any topic the examiner chooses.
 
 ## Self-test
 
-1. How many marks is Component 5 worth, and how many belong to Part 3?
+1. How many marks is Component 5 worth, and how are they split between the three parts?
 2. Does Component 5 count towards the IGCSE grade?
 3. How long is Part 1, and how long is Part 2?
 4. Why can Part 3 not be memorised?
@@ -222,7 +222,7 @@ scripted: it is a pattern you can apply to any topic the examiner chooses.
 11. Why is it منائی جاتی ہے in "عید الفطر کیسے منائی جاتی ہے"?
 12. When do speaking tests usually take place?
 
-**Answers:** 1. 60 marks; 20 are for Part 3. 2. No; it is separately endorsed with a grade from 1
+**Answers:** 1. 60 marks; 20 for each of the three parts. 2. No; it is separately endorsed with a grade from 1
 (high) to 5 (low). 3. Part 1: 2-3 minutes; Part 2: 3-4 minutes. 4. The topics are unknown in advance,
 so it tests spontaneous speech. 5. میرے خیال میں ... کیونکہ ... 6. کیا آپ دوبارہ کہہ سکتے ہیں؟ 7. Externally moderated
 by Cambridge, using a recorded sample. 8. Headings only, not full sentences. 9. میں سمجھی نہیں.

@@ -13,8 +13,6 @@ order: 6
 syllabusTopics:
   - qualification: "igcse"
     topic: "statistics-and-probability-edexcel-igcse-maths"
-  - qualification: "igcse"
-    topic: "statistics-and-probability-edexcel-igcse-maths"
     subtopic: "graphical-representation-of-data-edexcel-igcse-maths"
   - qualification: "igcse"
     topic: "statistics-and-probability-edexcel-igcse-maths"

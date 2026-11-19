@@ -13,8 +13,6 @@ order: 5
 syllabusTopics:
   - qualification: "a-level"
     topic: "probability-and-statistics-1-cambridge-alevel"
-  - qualification: "a-level"
-    topic: "probability-and-statistics-1-cambridge-alevel"
     subtopic: "representation-of-data-cambridge-alevel-maths"
 description: "Original Cambridge 9709 Paper 5 questions on representing data: stem-and-leaf, box plots, histograms, cumulative frequency and Σx, Σx² totals."
 author: "marlbridge-academic-team"

@@ -48,12 +48,12 @@ v = f λ              f = 1/T
 Amplitude = maximum displacement from equilibrium. Wavefront = a line joining points in phase. Wavelength = distance between successive identical points. Period = time for one full oscillation.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-waves--01-measuring-a-wave.webp" width="900" height="890" alt="A sine graph of displacement against distance marks wavelength between two crests (0.40 m) and amplitude from rest position to crest. With f = 5 Hz, v = f x wavelength = 2.0 m/s and the period is 0.2 s." loading="lazy">
+  <img src="/images/learning/physics/igcse-shared-intl-measuring-a-wave.svg" width="900" height="890" alt="A sine graph of displacement against distance marks wavelength between two crests (0.40 m) and amplitude from rest position to crest. With f = 5 Hz, v = f x wavelength = 2.0 m/s and the period is 0.2 s." loading="lazy">
   <figcaption>Wavelength is crest to crest; amplitude is from the middle to a crest; v = f x wavelength.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-waves--02-transverse-longitudinal.webp" width="900" height="890" alt="A rope wave moves points up and down at right angles to travel (transverse). A spring wave moves coils back and forth along the direction of travel (longitudinal), bunching into compressions and spreading into rarefactions (Extended names)." loading="lazy">
+  <img src="/images/learning/physics/gcse-shared-transverse-longitudinal.svg" width="900" height="890" alt="A rope wave moves points up and down at right angles to travel (transverse). A spring wave moves coils back and forth along the direction of travel (longitudinal), bunching into compressions and spreading into rarefactions." loading="lazy">
   <figcaption>Transverse waves vibrate at right angles to the direction of travel; longitudinal waves vibrate along it.</figcaption>
 </figure>
 
@@ -90,7 +90,7 @@ All electromagnetic waves travel at the **same speed** in free space; only frequ
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-waves--07-em-spectrum.webp" width="900" height="950" alt="Seven regions from radio to gamma, each with a wave of shorter wavelength than the one above (illustrative) and one use. All travel at 3.0 x 10^8 m/s in a vacuum (Extended)." loading="lazy">
+  <img src="/images/learning/physics/gcse-shared-em-spectrum.svg" width="900" height="950" alt="Seven regions from radio to gamma, each with a wave of shorter wavelength than the one above (illustrative) and one use. All travel at 3.0 x 10^8 m/s in a vacuum." loading="lazy">
   <figcaption>Frequency rises and wavelength falls from radio waves to gamma rays.</figcaption>
 </figure>
 
@@ -113,12 +113,12 @@ Light **refracts** (changes speed and direction) at a boundary between media. Ab
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-waves--03-refraction-block.webp" width="900" height="940" alt="A ray at 45 degrees in air bends towards the normal to 28 degrees in glass (n = 1.5) and leaves parallel, bending away. n = sin i / sin r = 1.50 (Extended)." loading="lazy">
+  <img src="/images/learning/physics/igcse-shared-intl-refraction-block.svg" width="900" height="940" alt="A ray at 45 degrees in air bends towards the normal to 28 degrees in glass (n = 1.5) and leaves parallel, bending away. n = sin i / sin r = 1.50." loading="lazy">
   <figcaption>Light slows and bends towards the normal entering glass, and speeds up and bends away leaving it.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-waves--04-total-internal-reflection.webp" width="900" height="1160" alt="Three rays in a glass semicircle: below the critical angle some light leaves, at 41.8 degrees the refracted ray runs along the surface, above it all light is reflected. sin c = 1/n (Extended)." loading="lazy">
+  <img src="/images/learning/physics/igcse-shared-intl-total-internal-reflection.svg" width="900" height="1160" alt="Three rays in a glass semicircle: below the critical angle some light leaves, at 41.8 degrees the refracted ray runs along the surface, above it all light is reflected. sin c = 1/n." loading="lazy">
   <figcaption>Above the critical angle all the light is reflected back inside the glass.</figcaption>
 </figure>
 

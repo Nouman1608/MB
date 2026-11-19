@@ -14,6 +14,10 @@ order: 10
 syllabusTopics:
   - qualification: "a-level"
     topic: "finance-and-accounting-a-cambridge-alevel-business"
+    subtopic: "analysis-of-published-accounts-cambridge-alevel-business"
+  - qualification: "a-level"
+    topic: "finance-and-accounting-a-cambridge-alevel-business"
+    subtopic: "investment-appraisal-cambridge-alevel-business"
 description: "Worked practice questions on ARR, payback, net present value, efficiency ratios and investor ratios for Cambridge International AS & A Level Business 9609."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

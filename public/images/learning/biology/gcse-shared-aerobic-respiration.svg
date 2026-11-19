@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1010" viewBox="0 0 1800 2020" role="img" aria-labelledby="title desc"><title id="title">Aerobic respiration</title><desc id="desc">Inside a cell, glucose (C6H12O6) and oxygen react to give carbon dioxide and water, drawn as atom models with a key for carbon, oxygen and hydrogen; much energy is released (released, not made). A box gives the symbol equation C6H12O6 + 6O2 → 6CO2 + 6H2O and checks the atoms balance: 6 C, 12 H and 18 O on each side. No tier labels.</desc><rect width="1800" height="2020" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="105" font-size="68" font-weight="700" fill="#1E2B47" text-anchor="middle">Aerobic respiration</text>
+<text x="900" y="182" font-size="46" fill="#4B5B72" text-anchor="middle">Uses oxygen; happens in every living cell</text>
+<rect x="40" y="260" width="1720" height="661" rx="70" fill="#DDEBE8" stroke="#2F6B63" stroke-width="6"/>
+<text x="900" y="345" font-size="50" font-weight="700" fill="#2F6B63" text-anchor="middle">Inside a cell</text>
+<rect x="80" y="468" width="300" height="144" rx="20" fill="#D6B22F" stroke="#1E2B47" stroke-width="6"/>
+<text x="230" y="560" font-size="50" font-weight="700" fill="#1E2B47" text-anchor="middle" xml:space="preserve"><tspan>C</tspan><tspan dy="14" font-size="34">6</tspan><tspan dy="-14">H</tspan><tspan dy="14" font-size="34">12</tspan><tspan dy="-14">O</tspan><tspan dy="14" font-size="34">6</tspan></text>
+<text x="440" y="556" font-size="72" font-weight="700" fill="#1E2B47" text-anchor="middle">+</text>
+<circle cx="541" cy="540" r="40" fill="#74ABA5" stroke="#1E2B47" stroke-width="5"/>
+<text x="541" y="556" font-size="44" font-weight="700" fill="#1E2B47" text-anchor="middle">O</text>
+<circle cx="618" cy="540" r="40" fill="#74ABA5" stroke="#1E2B47" stroke-width="5"/>
+<text x="618" y="556" font-size="44" font-weight="700" fill="#1E2B47" text-anchor="middle">O</text>
+<line x1="697" y1="540" x2="821" y2="540" stroke="#1E2B47" stroke-width="8" stroke-linecap="round"/><polygon points="879,540 819,567 819,513" fill="#1E2B47"/>
+<circle cx="992" cy="540" r="40" fill="#74ABA5" stroke="#1E2B47" stroke-width="5"/>
+<text x="992" y="556" font-size="44" font-weight="700" fill="#1E2B47" text-anchor="middle">O</text>
+<circle cx="1169" cy="540" r="40" fill="#74ABA5" stroke="#1E2B47" stroke-width="5"/>
+<text x="1169" y="556" font-size="44" font-weight="700" fill="#1E2B47" text-anchor="middle">O</text>
+<circle cx="1080" cy="540" r="40" fill="#3A4558" stroke="#1E2B47" stroke-width="5"/>
+<text x="1080" y="556" font-size="44" font-weight="700" fill="#FFFFFF" text-anchor="middle">C</text>
+<text x="1318" y="556" font-size="72" font-weight="700" fill="#1E2B47" text-anchor="middle">+</text>
+<circle cx="1540" cy="510" r="40" fill="#74ABA5" stroke="#1E2B47" stroke-width="5"/>
+<text x="1540" y="526" font-size="44" font-weight="700" fill="#1E2B47" text-anchor="middle">O</text>
+<circle cx="1480" cy="568" r="40" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<text x="1480" y="584" font-size="44" font-weight="700" fill="#1E2B47" text-anchor="middle">H</text>
+<circle cx="1600" cy="568" r="40" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<text x="1600" y="584" font-size="44" font-weight="700" fill="#1E2B47" text-anchor="middle">H</text>
+<text x="230" y="700" font-size="50" font-weight="700" fill="#1E2B47" text-anchor="middle">glucose</text>
+<text x="579" y="700" font-size="50" font-weight="700" fill="#1E2B47" text-anchor="middle">oxygen</text>
+<text x="1080" y="700" font-size="50" font-weight="700" fill="#1E2B47" text-anchor="middle">carbon dioxide</text>
+<text x="1539" y="700" font-size="50" font-weight="700" fill="#1E2B47" text-anchor="middle">water</text>
+<text x="137" y="852" font-size="46" font-weight="700" fill="#1E2B47">Key:</text>
+<circle cx="339" cy="836" r="40" fill="#3A4558" stroke="#1E2B47" stroke-width="5"/>
+<text x="339" y="852" font-size="44" font-weight="700" fill="#FFFFFF" text-anchor="middle">C</text>
+<text x="400" y="852" font-size="46" fill="#4B5B72">carbon</text>
+<circle cx="760" cy="836" r="40" fill="#74ABA5" stroke="#1E2B47" stroke-width="5"/>
+<text x="760" y="852" font-size="44" font-weight="700" fill="#1E2B47" text-anchor="middle">O</text>
+<text x="820" y="852" font-size="46" fill="#4B5B72">oxygen</text>
+<circle cx="1200" cy="836" r="40" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<text x="1200" y="852" font-size="44" font-weight="700" fill="#1E2B47" text-anchor="middle">H</text>
+<text x="1262" y="852" font-size="46" fill="#4B5B72">hydrogen</text>
+<line x1="900" y1="937" x2="900" y2="1025" stroke="#8A6A0C" stroke-width="7" stroke-linecap="round"/><polygon points="900,1079 877.6,1023 922.4,1023" fill="#8A6A0C"/>
+<polygon points="518,1185 621,1089 665,1089 616,1156 680,1162 552,1283 584,1185" fill="#D6B22F" stroke="#1E2B47" stroke-width="4" stroke-linejoin="round"/>
+<text x="1160" y="1170" font-size="56" font-weight="700" fill="#1E2B47" text-anchor="middle">Much energy released</text>
+<text x="1160" y="1245" font-size="46" fill="#4B5B72" text-anchor="middle">It is released, not &quot;made&quot;</text>
+<rect x="40" y="1380" width="1720" height="580" rx="40" fill="#FFFFFF" stroke="#1E2B47" stroke-width="6"/>
+<text x="90" y="1462" font-size="46" font-weight="700" fill="#4B5B72">Symbol equation</text>
+<text x="900" y="1600" font-size="72" font-weight="700" fill="#1E2B47" text-anchor="middle" xml:space="preserve"><tspan>C</tspan><tspan dy="20.2" font-size="49">6</tspan><tspan dy="-20.2">H</tspan><tspan dy="20.2" font-size="49">12</tspan><tspan dy="-20.2">O</tspan><tspan dy="20.2" font-size="49">6</tspan><tspan dy="-20.2"> + 6O</tspan><tspan dy="20.2" font-size="49">2</tspan><tspan dy="-20.2"> → 6CO</tspan><tspan dy="20.2" font-size="49">2</tspan><tspan dy="-20.2"> + 6H</tspan><tspan dy="20.2" font-size="49">2</tspan><tspan dy="-20.2">O</tspan></text>
+<text x="900" y="1728" font-size="50" font-weight="700" fill="#4B5B72" text-anchor="middle">Atoms: left = right</text>
+<text x="860" y="1810" font-size="50" fill="#1E2B47" text-anchor="end">C: 6 = 6 × 1</text>
+<text x="950" y="1810" font-size="50" fill="#1E2B47">H: 12 = 6 × 2</text>
+<text x="900" y="1895" font-size="50" fill="#1E2B47" text-anchor="middle">O: 6 + 6 × 2 = 18 = 6 × 2 + 6 × 1</text></g></svg>

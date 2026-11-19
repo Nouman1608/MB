@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="960" viewBox="0 0 1800 1920" role="img" aria-labelledby="title desc"><title id="title">Redox by oxygen transfer</title><desc id="desc">No tier label: oxidation and reduction as gain and loss of oxygen are on both Edexcel International GCSE papers (4CH1 2.20) and OxfordAQA International GCSE Chemistry is not tiered (9202 3.8.4a). CuO + H2 → Cu + H2O. Before: an oxygen atom moves across from copper(II) oxide to the hydrogen molecule. After: copper has lost oxygen, so it is reduced; hydrogen has gained oxygen to form water, so it is oxidised. Both happen in the same reaction.</desc><rect width="1800" height="1920" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="92" font-size="64" font-weight="700" fill="#1E2B47" text-anchor="middle">Redox by oxygen transfer</text>
+<text x="900" y="174" font-size="40" fill="#4B5B72" text-anchor="middle" xml:space="preserve"><tspan>CuO + H</tspan><tspan dy="11.2" font-size="27.2">2</tspan><tspan dy="-11.2"> → Cu + H</tspan><tspan dy="11.2" font-size="27.2">2</tspan><tspan dy="-11.2">O</tspan></text>
+<rect x="60" y="340" width="1680" height="600" rx="24" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<text x="110" y="424" font-size="46" font-weight="700" fill="#4B5B72">Before</text>
+<text x="900" y="474" font-size="44" font-weight="700" fill="#2F6B63" text-anchor="middle">oxygen moves across</text>
+<path d="M560 596 Q880 470 1206 590" fill="none" stroke="#2F6B63" stroke-width="6" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="10 12"/>
+<polygon points="1250,620 1196,612 1216,570" fill="#2F6B63"/>
+<circle cx="420" cy="680" r="82" fill="#F2D4C2" stroke="#B9632F" stroke-width="6"/>
+<text x="420" y="694.4" font-size="40" font-weight="700" fill="#B9632F" text-anchor="middle">Cu</text>
+<circle cx="564" cy="680" r="70" fill="#DDEBE8" stroke="#2F6B63" stroke-width="6"/>
+<text x="564" y="694.4" font-size="40" font-weight="700" fill="#2F6B63" text-anchor="middle">O</text>
+<text x="900" y="702" font-size="64" font-weight="700" fill="#1E2B47" text-anchor="middle">+</text>
+<circle cx="1244" cy="680" r="56" fill="#F2E6B7" stroke="#8A6A0C" stroke-width="6"/>
+<text x="1244" y="693.68" font-size="38" font-weight="700" fill="#8A6A0C" text-anchor="middle">H</text>
+<circle cx="1356" cy="680" r="56" fill="#F2E6B7" stroke="#8A6A0C" stroke-width="6"/>
+<text x="1356" y="693.68" font-size="38" font-weight="700" fill="#8A6A0C" text-anchor="middle">H</text>
+<text x="490" y="876" font-size="42" fill="#1E2B47" text-anchor="middle">CuO</text>
+<text x="1300" y="876" font-size="42" fill="#1E2B47" text-anchor="middle" xml:space="preserve"><tspan>H</tspan><tspan dy="11.8" font-size="28.6">2</tspan></text>
+<line x1="900" y1="956" x2="900" y2="1030" stroke="#1E2B47" stroke-width="12" stroke-linecap="round"/><polygon points="900,1094 867,1028 933,1028" fill="#1E2B47"/>
+<rect x="60" y="1100" width="1680" height="660" rx="24" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<text x="110" y="1184" font-size="46" font-weight="700" fill="#4B5B72">After</text>
+<circle cx="420" cy="1396" r="82" fill="#F2D4C2" stroke="#B9632F" stroke-width="6"/>
+<text x="420" y="1410.4" font-size="40" font-weight="700" fill="#B9632F" text-anchor="middle">Cu</text>
+<text x="900" y="1420" font-size="64" font-weight="700" fill="#1E2B47" text-anchor="middle">+</text>
+<circle cx="1300" cy="1358" r="70" fill="#DDEBE8" stroke="#2F6B63" stroke-width="6"/>
+<text x="1300" y="1372.4" font-size="40" font-weight="700" fill="#2F6B63" text-anchor="middle">O</text>
+<circle cx="1210" cy="1478" r="56" fill="#F2E6B7" stroke="#8A6A0C" stroke-width="6"/>
+<text x="1210" y="1491.68" font-size="38" font-weight="700" fill="#8A6A0C" text-anchor="middle">H</text>
+<circle cx="1386" cy="1478" r="56" fill="#F2E6B7" stroke="#8A6A0C" stroke-width="6"/>
+<text x="1386" y="1491.68" font-size="38" font-weight="700" fill="#8A6A0C" text-anchor="middle">H</text>
+<text x="420" y="1596" font-size="42" fill="#1E2B47" text-anchor="middle">Cu lost oxygen</text>
+<text x="420" y="1672" font-size="48" font-weight="700" fill="#2F6B63" text-anchor="middle">REDUCED</text>
+<text x="1300" y="1596" font-size="42" fill="#1E2B47" text-anchor="middle" xml:space="preserve"><tspan>H</tspan><tspan dy="11.8" font-size="28.6">2</tspan><tspan dy="-11.8"> gained oxygen</tspan></text>
+<text x="1300" y="1672" font-size="48" font-weight="700" fill="#8A6A0C" text-anchor="middle">OXIDISED</text>
+<text x="900" y="1844" font-size="42" fill="#4B5B72" text-anchor="middle">Both happen in the same reaction</text></g></svg>

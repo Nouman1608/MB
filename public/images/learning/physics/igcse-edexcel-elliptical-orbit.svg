@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="990" viewBox="0 0 1000 1100" role="img" aria-labelledby="title desc"><title id="title">Elliptical orbits (Edexcel International GCSE Physics)</title><desc id="desc">An elliptical orbit with the Sun at a focus, not at the centre. The planet moves faster at the closest point (long arrow) and slower at the farthest point (short arrow); arrow length shows speed. A box says that moving towards the Sun, gravitational potential energy is transferred to kinetic energy and the planet speeds up; moving away, kinetic energy is transferred to GPE and it slows down; total energy is constant. No tier labels: orbits are 4PH1 8.4–8.5 and energy conservation 4.15, all on both papers.</desc><rect width="1000" height="1100" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="500" y="62" font-size="36" font-weight="700" fill="#1E2B47" text-anchor="middle">Elliptical orbits</text>
+<text x="500" y="106" font-size="23" fill="#4B5B72" text-anchor="middle">Closer to the Sun means faster</text>
+<ellipse cx="500" cy="466" rx="400" ry="320" fill="none" stroke="#1E2B47" stroke-width="3"/>
+<text x="500" y="255" font-size="24" fill="#4B5B72" text-anchor="middle">Arrow length = speed</text>
+<text x="455" y="475" font-size="23" fill="#4B5B72" text-anchor="end">centre</text>
+<line x1="486" y1="466" x2="514" y2="466" stroke="#1E2B47" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="500" y1="452" x2="500" y2="480" stroke="#1E2B47" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="740" cy="466" r="30" fill="#E8C23A" stroke="#8A6A0C" stroke-width="3"/>
+<text x="740" y="418" font-size="27" font-weight="700" fill="#1E2B47" text-anchor="middle">Sun</text>
+<line x1="900" y1="448" x2="900" y2="284" stroke="#B9632F" stroke-width="6" stroke-linecap="round"/><polygon points="900,242 926.4,286 873.6,286" fill="#B9632F"/>
+<line x1="100" y1="484" x2="100" y2="509" stroke="#B9632F" stroke-width="6" stroke-linecap="round"/><polygon points="100,545 77.2,507 122.8,507" fill="#B9632F"/>
+<circle cx="100" cy="466" r="17" fill="#B5D4CF" stroke="#1E2B47" stroke-width="2.5"/>
+<circle cx="900" cy="466" r="17" fill="#B5D4CF" stroke="#1E2B47" stroke-width="2.5"/>
+<text x="795" y="355" font-size="27" font-weight="700" fill="#B9632F" text-anchor="middle">fast</text>
+<text x="200" y="523" font-size="27" font-weight="700" fill="#B9632F" text-anchor="middle">slow</text>
+<line x1="778" y1="533" x2="868" y2="533" stroke="#2F6B63" stroke-width="3" stroke-linecap="round"/>
+<text x="808" y="577" font-size="22" fill="#2F6B63" text-anchor="middle">close</text>
+<line x1="165" y1="600" x2="700" y2="600" stroke="#2F6B63" stroke-width="3" stroke-linecap="round"/>
+<text x="453" y="643" font-size="22" fill="#2F6B63" text-anchor="middle">far from the Sun</text>
+<rect x="45" y="855" width="910" height="210" rx="14" fill="#FFFFFF" stroke="#1E2B47" stroke-width="2.5"/>
+<text x="500" y="905" font-size="28" font-weight="700" fill="#1E2B47" text-anchor="middle">Towards the Sun</text>
+<text x="167" y="975" font-size="30" font-weight="700" fill="#2F6B63" text-anchor="middle">GPE</text>
+<line x1="243" y1="965" x2="366" y2="965" stroke="#2F6B63" stroke-width="8" stroke-linecap="round"/><polygon points="408,965 364,991.4 364,938.6" fill="#2F6B63"/>
+<text x="500" y="975" font-size="30" font-weight="700" fill="#B9632F" text-anchor="middle">KE</text>
+<text x="743" y="975" font-size="28" fill="#1E2B47" text-anchor="middle">speeds up</text>
+<text x="500" y="1035" font-size="22" fill="#4B5B72" text-anchor="middle">Away: KE to GPE, slows down. Total energy constant.</text></g></svg>

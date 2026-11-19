@@ -213,7 +213,7 @@ If any part of a velocity-time graph goes below the axis, that part is motion in
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--02-speed-time-graph.webp" width="900" height="1010" alt="Speed rises from 0 to 10 m/s in 5 s, stays at 10 m/s for 10 s, then falls to 0 in 5 s. The gradients are 2, 0 and -2 m/s squared (acceleration, Extended). The area under the graph is 25 + 100 + 25 = 150 m, the distance travelled (Core)." loading="lazy">
+  <img src="/images/learning/physics/gcse-ocr-speed-time-graph.svg" width="900" height="1010" alt="Speed rises from 0 to 10 m/s in 5 s, stays at 10 m/s for 10 s, then falls to 0 in 5 s. The gradients are 2, 0 and -2 m/s squared (acceleration, both tiers). The area under the graph is 25 + 100 + 25 = 150 m, the distance travelled (Higher Tier only)." loading="lazy">
   <figcaption>The area under a speed-time graph is the distance travelled; its gradient is the acceleration.</figcaption>
 </figure>
 

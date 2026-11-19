@@ -88,7 +88,7 @@ The fume cupboard is needed because bromine vapour is toxic, and lead compounds 
 A molten binary ionic compound always gives the **metal at the cathode** and the **non-metal at the anode**. There is no water, so there are only two kinds of ion to choose from.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--01-molten-electrolysis.webp" width="900" height="1170" alt="A crucible of molten lead(II) bromide has two graphite electrodes joined to a power supply. Pb2+ ions move to the cathode and form lead; Br- ions move to the anode and form bromine. Electrons flow from the supply to the cathode and back from the anode (Extended), with the two half-equations." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-edexcel-molten-electrolysis.svg" width="900" height="1170" alt="A crucible of molten lead(II) bromide has two graphite electrodes joined to a power supply. Pb2+ ions move to the cathode and form lead; Br- ions move to the anode and form bromine. Electrons flow from the supply to the cathode and back from the anode, with the two half-equations. The whole figure is marked Paper 2 only." loading="lazy">
   <figcaption>Ions carry charge through the melt and electrons through the wires; lead forms at the cathode and bromine at the anode.</figcaption>
 </figure>
 
@@ -124,17 +124,17 @@ So each electrode has a choice of ions. Use these two rules to predict the produ
 **Copper(II) sulfate solution.** Copper is less reactive than hydrogen, so a pink-brown coating of copper forms on the cathode. Oxygen bubbles off at the anode. As Cu²⁺ ions are removed, the blue colour fades. H⁺ and SO₄²⁻ ions are left behind, so the solution becomes acidic.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--03-aqueous-rules.webp" width="900" height="1215" alt="At the cathode, a reactivity ladder shows that metals above hydrogen stay dissolved and hydrogen forms, while copper and silver below hydrogen form the metal. At the anode a concentrated halide gives a halogen, but a dilute halide or none gives oxygen (Extended)." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-edexcel-aqueous-electrolysis-rules.svg" width="900" height="1215" alt="At the cathode, a reactivity ladder shows that metals above hydrogen stay dissolved and hydrogen forms, while copper and silver below hydrogen form the metal. At the anode a concentrated halide gives a halogen, but a dilute halide or none gives oxygen. The whole figure is marked Paper 2 only." loading="lazy">
   <figcaption>Hydrogen forms unless the metal is below it in reactivity; a halide is discharged only if concentrated, otherwise oxygen forms.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--04-aqueous-worked.webp" width="900" height="1290" alt="Two cells with gas tubes over each electrode. Concentrated sodium chloride gives hydrogen at the cathode and chlorine at the anode. Dilute sulfuric acid gives hydrogen and oxygen in a 2:1 volume ratio. Half-equations are Extended." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-edexcel-aqueous-electrolysis-worked.svg" width="900" height="1290" alt="Two cells with gas tubes over each electrode. Concentrated sodium chloride gives hydrogen at the cathode and chlorine at the anode. Dilute sulfuric acid gives hydrogen and oxygen in a 2:1 volume ratio. Half-equations are given under each cell; the whole figure is marked Paper 2 only." loading="lazy">
   <figcaption>Concentrated NaCl gives H2 and Cl2; dilute H2SO4 gives H2 and O2 in the ratio 2 : 1.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--05-copper-sulfate-electrodes.webp" width="900" height="1200" alt="Blue copper(II) sulfate solution is electrolysed twice. With graphite, copper coats the cathode and oxygen bubbles form at the anode. With copper electrodes copper again deposits, but the anode dissolves and gets smaller." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-edexcel-copper-sulfate-electrodes.svg" width="900" height="1200" alt="Blue copper(II) sulfate solution is electrolysed twice. With graphite, copper coats the cathode and oxygen bubbles form at the anode. With copper electrodes copper again deposits, but the anode dissolves and gets smaller. The whole figure is marked Paper 2 only, and the copper-electrode half is marked not required by Edexcel." loading="lazy">
   <figcaption>Copper deposits at the cathode either way; the anode gives oxygen with graphite but dissolves if it is copper.</figcaption>
 </figure>
 

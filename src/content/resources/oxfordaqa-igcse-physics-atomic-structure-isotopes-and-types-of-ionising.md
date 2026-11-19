@@ -80,7 +80,7 @@ Alpha particles are positive, so they are only repelled strongly when they pass 
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--02-alpha-scattering.webp" width="900" height="800" alt="Alpha particles approach a gold atom. Those far from the tiny positive nucleus go almost straight on, a few passing closer are deflected, and a very few heading nearly straight at it bounce back. This shows the atom is mostly empty with a small, positive, dense nucleus." loading="lazy">
+  <img src="/images/learning/physics/igcse-oxfordaqa-alpha-scattering.svg" width="900" height="800" alt="Alpha particles approach a gold atom. Those far from the tiny positive nucleus go almost straight on, a few passing closer are deflected, and a very few heading nearly straight at it bounce back. This shows the atom is mostly empty with a small, positive, dense nucleus." loading="lazy">
   <figcaption>Each alpha-scattering observation supports one feature of the nuclear atom.</figcaption>
 </figure>
 
@@ -213,7 +213,7 @@ The atomic number rises by one in beta decay because a neutron becomes a proton.
 - Beta: A = **90**, Z = 38 + 1 = **39**.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--04-decay-equations.webp" width="900" height="1060" alt="Radium-226 decays by alpha emission to radon-222 plus a helium-4 nucleus: 226 = 222 + 4 and 88 = 86 + 2. Carbon-14 decays by beta emission to nitrogen-14 plus an electron: 14 = 14 + 0 and 6 = 7 + (-1)." loading="lazy">
+  <img src="/images/learning/physics/igcse-oxfordaqa-decay-equations.svg" width="900" height="1060" alt="Radium-226 decays by alpha emission to radon-222 plus a helium-4 nucleus: 226 = 222 + 4 and 88 = 86 + 2. Carbon-14 decays by beta emission to nitrogen-14 plus an electron: 14 = 14 + 0 and 6 = 7 + (-1). A note says naming the new element is not required by OxfordAQA." loading="lazy">
   <figcaption>In a decay equation the top numbers balance and the bottom numbers balance.</figcaption>
 </figure>
 

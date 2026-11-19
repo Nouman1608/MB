@@ -4,12 +4,12 @@ seoTitle: "OCR AS Economics Macroeconomic Trends Guide"
 resourceType: "study-guides"
 subject: "economics"
 level: ["a-levels"]
-topic: "Trends in macroeconomic indicators"
+topic: "Economic policy objectives"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 940
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 4.6
 syllabusTopics:
   - qualification: "as-level"
     topic: "economic-policy-objectives-ocr-aslevel-economics"
@@ -24,9 +24,9 @@ featured: false
 reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
-This guide follows the OCR *AS Level Economics (H060)* specification, for first assessment in 2016. It covers the topic **Trends in macroeconomic indicators**, in the Area of Study Economic policy objectives and indicators of macroeconomic performance, within Component 02, Macroeconomics. The specification asks you to explain the key trends in UK macroeconomic performance in the last 20 years and to evaluate the current performance of the UK economy compared with other developed, emerging and developing economies. All countries and figures in the worked examples are invented. The short account of the UK is broad-brush: check exact figures against the latest release from the Office for National Statistics.
+This guide follows the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). It covers topic 2.6 **Trends in macroeconomic indicators**, in Economic policy objectives, Component 02, Macroeconomics. The specification asks you to explain the key trends in UK macroeconomic performance in the last 20 years and to evaluate the current performance of the UK economy compared with other developed, emerging and developing economies. All countries and figures in the worked examples are invented. The short account of the UK is broad-brush: check exact figures against the latest release from the Office for National Statistics.
 
-Use it with the [revision notes](/resources/ocr-as-level-economics-trends-in-macroeconomic-indicators-revision-notes/) and the [practice questions](/resources/ocr-as-level-economics-trends-in-macroeconomic-indicators-practice/). The other topics in this Area of Study are taught in [economic growth, GDP and recession](/resources/ocr-a-level-economics-economic-growth-gdp-and-recession/), [unemployment and employment](/resources/ocr-a-level-economics-unemployment-and-employment/) and [inflation, deflation and index numbers](/resources/ocr-a-level-economics-inflation-deflation-and-index-numbers/). See also the [balance of payments](/resources/ocr-a-level-economics-the-balance-of-payments/) guide, the [OCR AS Economics hub](/boards/ocr/as-level/economics/), the [printable checklist](/checklists/ocr/as-level/economics/) and the [free 10-minute diagnostics](/diagnostics/).
+Use it with the [revision notes](/resources/ocr-as-level-economics-trends-in-macroeconomic-indicators-revision-notes/) and the [practice questions](/resources/ocr-as-level-economics-trends-in-macroeconomic-indicators-practice/). The other topics in Economic policy objectives are taught in [economic growth, GDP and recession](/resources/ocr-a-level-economics-economic-growth-gdp-and-recession/), [development](/resources/ocr-as-level-economics-h060-development-ocr-aslevel-economics/), [unemployment and employment](/resources/ocr-a-level-economics-unemployment-and-employment/) and [inflation, deflation and index numbers](/resources/ocr-a-level-economics-inflation-deflation-and-index-numbers/). See also the [balance of payments](/resources/ocr-a-level-economics-the-balance-of-payments/) guide, the [OCR AS Economics hub](/boards/ocr/as-level/economics/), the [printable checklist](/checklists/ocr/as-level/economics/) and the [free 10-minute diagnostics](/diagnostics/).
 
 ## What this unit covers
 
@@ -36,7 +36,7 @@ Use it with the [revision notes](/resources/ocr-as-level-economics-trends-in-mac
 | Evaluate the current performance of the UK economy compared with other developed economies | Sections 6 and 7 |
 | Evaluate the current performance of the UK economy compared with emerging and developing economies | Sections 6 and 7 |
 
-The specification does not list a fixed set of indicators for this topic. The sensible set is the one the rest of the Area of Study builds: real GDP and its growth rate, employment and unemployment, and inflation. Add the balance of payments and the budget position from the global context and fiscal policy topics when a question gives you that data.
+The specification does not list a fixed set of indicators for this topic. The sensible set is the one the rest of Economic policy objectives builds: real GDP and its growth rate, employment and unemployment, inflation and the balance of payments (topics 2.1 and 2.3 to 2.5). Add the budget position from fiscal policy (Implementing policy, topic 3.1) when a question gives you that data.
 
 ## 1. What a trend is
 
@@ -212,4 +212,4 @@ Fast growth from a low base is easier than slow growth from a high base, per-hea
 
 ## Official syllabus
 
-This guide follows the OCR *AS Level in Economics (H060)* specification, for first assessment in 2016, published by OCR (Oxford Cambridge and RSA Examinations). The topic Trends in macroeconomic indicators sits in the Area of Study Economic policy objectives and indicators of macroeconomic performance, Component 02, Macroeconomics.
+This guide follows the OCR *AS Level in Economics (H060)* specification, Version 3.0 (June 2026), published by OCR (Oxford Cambridge and RSA Examinations). Topic 2.6 Trends in macroeconomic indicators sits in Economic policy objectives, Component 02, Macroeconomics.

@@ -8,6 +8,7 @@ topic: "Criteria A-D applied to real coursework tasks"
 boards: ["ib"]
 qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Language Acquisition"]
+syllabusSeries: "From 2020 (first eAssessment May 2023/November 2023)"
 order: 5
 syllabusTopics:
   - qualification: "ib-myp"

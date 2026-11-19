@@ -50,7 +50,7 @@ A convex lens is thicker at the middle than at the edges. It is also called a co
 Any two are enough. Where they cross (or appear to cross) is the top of the image. If the foot of the object is on the axis, so is the foot of the image.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-waves--05-lens-focus.webp" width="900" height="890" alt="Parallel rays meet at the principal focus after a converging lens. After a diverging lens they spread out and appear to come from a principal focus on the incoming side." loading="lazy">
+  <img src="/images/learning/physics/igcse-oxfordaqa-lens-focus.svg" width="900" height="890" alt="Parallel rays meet at the principal focus after a converging lens. After a diverging lens they spread out and appear to come from a principal focus on the incoming side." loading="lazy">
   <figcaption>A converging lens brings parallel rays to a focus; a diverging lens spreads them as if from a focus.</figcaption>
 </figure>
 
@@ -96,7 +96,7 @@ A magnifying glass is a convex lens used with the object **closer to the lens th
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-waves--06-lens-image.webp" width="900" height="770" alt="To-scale ray diagram with f = 120 and object at 300: image forms at 200, real, inverted and diminished." loading="lazy">
+  <img src="/images/learning/physics/igcse-oxfordaqa-lens-image.svg" width="900" height="770" alt="To-scale ray diagram with f = 120 and object at 300: image forms at 200, real, inverted and diminished." loading="lazy">
   <figcaption>An object beyond 2F gives a real, inverted, diminished image.</figcaption>
 </figure>
 

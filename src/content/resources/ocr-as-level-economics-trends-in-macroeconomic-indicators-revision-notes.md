@@ -4,12 +4,12 @@ seoTitle: "OCR AS Economics Macro Trends Revision Notes"
 resourceType: "revision-notes"
 subject: "economics"
 level: ["a-levels"]
-topic: "Trends in macroeconomic indicators"
+topic: "Economic policy objectives"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 940
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 4.6
 syllabusTopics:
   - qualification: "as-level"
     topic: "economic-policy-objectives-ocr-aslevel-economics"
@@ -24,7 +24,7 @@ featured: false
 reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
-These notes condense the topic **Trends in macroeconomic indicators** from Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification, for first assessment in 2016. Fuller explanations are in the [study guide](/resources/ocr-as-level-economics-trends-in-macroeconomic-indicators/); test yourself with the [practice questions](/resources/ocr-as-level-economics-trends-in-macroeconomic-indicators-practice/). The related topics are in the [growth and GDP](/resources/ocr-a-level-economics-economic-growth-gdp-and-recession-revision-notes/), [unemployment](/resources/ocr-a-level-economics-unemployment-and-employment-revision-notes/) and [inflation](/resources/ocr-a-level-economics-inflation-deflation-and-index-numbers-revision-notes/) revision notes. Use the [OCR AS Economics hub](/boards/ocr/as-level/economics/), the [printable checklist](/checklists/ocr/as-level/economics/) and the [free 10-minute diagnostics](/diagnostics/). All data in the worked reminders is invented.
+These notes condense topic 2.6 **Trends in macroeconomic indicators**, in Economic policy objectives, Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). Fuller explanations are in the [study guide](/resources/ocr-as-level-economics-trends-in-macroeconomic-indicators/); test yourself with the [practice questions](/resources/ocr-as-level-economics-trends-in-macroeconomic-indicators-practice/). The related topics are in the [growth and GDP](/resources/ocr-a-level-economics-economic-growth-gdp-and-recession-revision-notes/), [unemployment](/resources/ocr-a-level-economics-unemployment-and-employment-revision-notes/) and [inflation](/resources/ocr-a-level-economics-inflation-deflation-and-index-numbers-revision-notes/) revision notes. Use the [OCR AS Economics hub](/boards/ocr/as-level/economics/), the [printable checklist](/checklists/ocr/as-level/economics/) and the [free 10-minute diagnostics](/diagnostics/). All data in the worked reminders is invented.
 
 ## What the specification asks
 
@@ -219,4 +219,4 @@ A level is where a series stands, such as the number unemployed, while a rate is
 
 ## Official syllabus
 
-These notes follow the OCR *AS Level in Economics (H060)* specification, for first assessment in 2016, published by OCR (Oxford Cambridge and RSA Examinations). The topic Trends in macroeconomic indicators sits in the Area of Study Economic policy objectives and indicators of macroeconomic performance, Component 02, Macroeconomics.
+These notes follow the OCR *AS Level in Economics (H060)* specification, Version 3.0 (June 2026), published by OCR (Oxford Cambridge and RSA Examinations). Topic 2.6 Trends in macroeconomic indicators sits in Economic policy objectives, Component 02, Macroeconomics.

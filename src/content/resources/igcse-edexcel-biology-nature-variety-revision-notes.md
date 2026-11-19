@@ -59,7 +59,7 @@ The two definitions that decide marks:
 **Saprotrophic nutrition** is the fungal method and must be described in the right order: enzymes are **secreted onto** the food, digestion happens **outside** the organism, and the soluble products are then **absorbed**. Extracellular digestion first, absorption second. Fungi and bacteria acting this way as decomposers are ecologically important: they **break down dead organisms and waste**, releasing mineral ions back into the soil for plants to reabsorb, so nutrients are recycled through the ecosystem rather than being lost.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-characteristics-and-classification-of-living-organisms--07-five-kingdoms.webp" width="900" height="1206" alt="Extended. Animal: many cells, no cell wall, feeds by ingestion. Plant: cellulose cell wall, photosynthesis. Fungus: chitin wall, hyphae, secretes enzymes and absorbs. Prokaryote: no nucleus, DNA free in the cytoplasm. Protoctist: mostly single-celled, not clearly animal, plant or fungus. Viruses are in no kingdom: a protein coat and genetic material only." loading="lazy">
+  <img src="/images/learning/biology/igcse-edexcel-five-kingdoms.svg" width="900" height="1206" alt="Animal: many cells, no cell wall, feeds by ingestion. Plant: cellulose cell wall, photosynthesis. Fungus: chitin wall, hyphae, secretes enzymes and absorbs. Prokaryote: no nucleus, DNA free in the cytoplasm. Protoctist: mostly single-celled, not clearly animal, plant or fungus. Viruses are in no kingdom: a protein coat and genetic material only." loading="lazy">
   <figcaption>Five kingdoms by defining feature; viruses sit outside them.</figcaption>
 </figure>
 

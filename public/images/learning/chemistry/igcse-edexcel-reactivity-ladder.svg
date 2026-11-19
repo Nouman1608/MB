@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1089" viewBox="0 0 1800 2178" role="img" aria-labelledby="title desc"><title id="title">The reactivity series (Edexcel International GCSE Chemistry)</title><desc id="desc">No tier label: the reactivity series from reactions with water and dilute acid is 4CH1 statements 2.15 and 2.17, on both papers. Lithium is added between sodium and calcium to match the order in 2.17. Most to least reactive: potassium, sodium, lithium, calcium (all react with cold water, steam and dilute HCl); magnesium (no reaction with cold water, reacts with steam and acid); aluminium (an oxide layer hides its reactions); carbon (not a metal); zinc (none with cold water, slowly with steam, reacts with acid); iron (none with cold water, slowly with steam and acid); hydrogen (not a metal); copper, silver and gold (no reaction with any).</desc><rect width="1800" height="2178" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="92" font-size="64" font-weight="700" fill="#1E2B47" text-anchor="middle">The reactivity series</text>
+<text x="900" y="172" font-size="42" fill="#4B5B72" text-anchor="middle">What reacts with what</text>
+<text x="180" y="356" font-size="44" font-weight="700" fill="#2F6B63">Most reactive</text>
+<text x="1090" y="356" font-size="44" font-weight="700" fill="#1E2B47" text-anchor="middle">Cold water</text>
+<text x="1350" y="356" font-size="44" font-weight="700" fill="#1E2B47" text-anchor="middle">Steam</text>
+<text x="1610" y="356" font-size="44" font-weight="700" fill="#1E2B47" text-anchor="middle">Dilute HCl</text>
+<rect x="168" y="410" width="1556" height="100" rx="14" fill="#afcfcb" stroke="#1E2B47" stroke-width="4"/>
+<text x="224" y="478" font-size="50" font-weight="700" fill="#1E2B47">K</text>
+<text x="344" y="474" font-size="42" fill="#1E2B47">potassium</text>
+<circle cx="1090" cy="460" r="38" fill="#2F6B63" stroke="#1E2B47" stroke-width="5"/>
+<path d="M1072 462 L1085 476 L1109 447" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="1350" cy="460" r="38" fill="#2F6B63" stroke="#1E2B47" stroke-width="5"/>
+<path d="M1332 462 L1345 476 L1369 447" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="1610" cy="460" r="38" fill="#2F6B63" stroke="#1E2B47" stroke-width="5"/>
+<path d="M1592 462 L1605 476 L1629 447" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="168" y="523" width="1556" height="100" rx="14" fill="#b4d2ce" stroke="#1E2B47" stroke-width="4"/>
+<text x="224" y="591" font-size="50" font-weight="700" fill="#1E2B47">Na</text>
+<text x="344" y="587" font-size="42" fill="#1E2B47">sodium</text>
+<circle cx="1090" cy="573" r="38" fill="#2F6B63" stroke="#1E2B47" stroke-width="5"/>
+<path d="M1072 575 L1085 589 L1109 560" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="1350" cy="573" r="38" fill="#2F6B63" stroke="#1E2B47" stroke-width="5"/>
+<path d="M1332 575 L1345 589 L1369 560" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="1610" cy="573" r="38" fill="#2F6B63" stroke="#1E2B47" stroke-width="5"/>
+<path d="M1592 575 L1605 589 L1629 560" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="168" y="636" width="1556" height="100" rx="14" fill="#b9d5d1" stroke="#1E2B47" stroke-width="4"/>
+<text x="224" y="704" font-size="50" font-weight="700" fill="#1E2B47">Li</text>
+<text x="344" y="700" font-size="42" fill="#1E2B47">lithium</text>
+<circle cx="1090" cy="686" r="38" fill="#2F6B63" stroke="#1E2B47" stroke-width="5"/>
+<path d="M1072 688 L1085 702 L1109 673" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="1350" cy="686" r="38" fill="#2F6B63" stroke="#1E2B47" stroke-width="5"/>
+<path d="M1332 688 L1345 702 L1369 673" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="1610" cy="686" r="38" fill="#2F6B63" stroke="#1E2B47" stroke-width="5"/>
+<path d="M1592 688 L1605 702 L1629 673" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="168" y="749" width="1556" height="100" rx="14" fill="#bed7d4" stroke="#1E2B47" stroke-width="4"/>
+<text x="224" y="817" font-size="50" font-weight="700" fill="#1E2B47">Ca</text>
+<text x="344" y="813" font-size="42" fill="#1E2B47">calcium</text>
+<circle cx="1090" cy="799" r="38" fill="#2F6B63" stroke="#1E2B47" stroke-width="5"/>
+<path d="M1072 801 L1085 815 L1109 786" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="1350" cy="799" r="38" fill="#2F6B63" stroke="#1E2B47" stroke-width="5"/>
+<path d="M1332 801 L1345 815 L1369 786" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="1610" cy="799" r="38" fill="#2F6B63" stroke="#1E2B47" stroke-width="5"/>
+<path d="M1592 801 L1605 815 L1629 786" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="168" y="862" width="1556" height="100" rx="14" fill="#c3dad7" stroke="#1E2B47" stroke-width="4"/>
+<text x="224" y="930" font-size="50" font-weight="700" fill="#1E2B47">Mg</text>
+<text x="344" y="926" font-size="42" fill="#1E2B47">magnesium</text>
+<line x1="1070" y1="892" x2="1110" y2="932" stroke="#8E99A8" stroke-width="9" stroke-linecap="round"/>
+<line x1="1110" y1="892" x2="1070" y2="932" stroke="#8E99A8" stroke-width="9" stroke-linecap="round"/>
+<circle cx="1350" cy="912" r="38" fill="#2F6B63" stroke="#1E2B47" stroke-width="5"/>
+<path d="M1332 914 L1345 928 L1369 899" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="1610" cy="912" r="38" fill="#2F6B63" stroke="#1E2B47" stroke-width="5"/>
+<path d="M1592 914 L1605 928 L1629 899" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="168" y="975" width="1556" height="100" rx="14" fill="#c8ddda" stroke="#1E2B47" stroke-width="4"/>
+<text x="224" y="1043" font-size="50" font-weight="700" fill="#1E2B47">Al</text>
+<text x="344" y="1039" font-size="42" fill="#1E2B47">aluminium</text>
+<circle cx="1090" cy="1025" r="38" fill="#F2E6B7" stroke="#8A6A0C" stroke-width="5"/>
+<text x="1090" y="1047" font-size="50" font-weight="700" fill="#8A6A0C" text-anchor="middle">*</text>
+<circle cx="1350" cy="1025" r="38" fill="#F2E6B7" stroke="#8A6A0C" stroke-width="5"/>
+<text x="1350" y="1047" font-size="50" font-weight="700" fill="#8A6A0C" text-anchor="middle">*</text>
+<circle cx="1610" cy="1025" r="38" fill="#F2E6B7" stroke="#8A6A0C" stroke-width="5"/>
+<text x="1610" y="1047" font-size="50" font-weight="700" fill="#8A6A0C" text-anchor="middle">*</text>
+<rect x="168" y="1088" width="1556" height="100" rx="14" fill="#FFFFFF" stroke="#4B5B72" stroke-width="4" stroke-dasharray="14 10"/>
+<text x="224" y="1156" font-size="50" font-weight="700" fill="#4B5B72">C</text>
+<text x="344" y="1152" font-size="42" fill="#4B5B72">carbon (not a metal)</text>
+<rect x="168" y="1201" width="1556" height="100" rx="14" fill="#d1e2df" stroke="#1E2B47" stroke-width="4"/>
+<text x="224" y="1269" font-size="50" font-weight="700" fill="#1E2B47">Zn</text>
+<text x="344" y="1265" font-size="42" fill="#1E2B47">zinc</text>
+<line x1="1070" y1="1231" x2="1110" y2="1271" stroke="#8E99A8" stroke-width="9" stroke-linecap="round"/>
+<line x1="1110" y1="1231" x2="1070" y2="1271" stroke="#8E99A8" stroke-width="9" stroke-linecap="round"/>
+<circle cx="1350" cy="1251" r="38" fill="#FFFFFF"/>
+<path d="M1350 1213 A38 38 0 0 0 1350 1289 Z" fill="#8A6A0C"/>
+<circle cx="1350" cy="1251" r="38" fill="none" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="1610" cy="1251" r="38" fill="#2F6B63" stroke="#1E2B47" stroke-width="5"/>
+<path d="M1592 1253 L1605 1267 L1629 1238" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="168" y="1314" width="1556" height="100" rx="14" fill="#d6e5e2" stroke="#1E2B47" stroke-width="4"/>
+<text x="224" y="1382" font-size="50" font-weight="700" fill="#1E2B47">Fe</text>
+<text x="344" y="1378" font-size="42" fill="#1E2B47">iron</text>
+<line x1="1070" y1="1344" x2="1110" y2="1384" stroke="#8E99A8" stroke-width="9" stroke-linecap="round"/>
+<line x1="1110" y1="1344" x2="1070" y2="1384" stroke="#8E99A8" stroke-width="9" stroke-linecap="round"/>
+<circle cx="1350" cy="1364" r="38" fill="#FFFFFF"/>
+<path d="M1350 1326 A38 38 0 0 0 1350 1402 Z" fill="#8A6A0C"/>
+<circle cx="1350" cy="1364" r="38" fill="none" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="1610" cy="1364" r="38" fill="#FFFFFF"/>
+<path d="M1610 1326 A38 38 0 0 0 1610 1402 Z" fill="#8A6A0C"/>
+<circle cx="1610" cy="1364" r="38" fill="none" stroke="#1E2B47" stroke-width="5"/>
+<rect x="168" y="1427" width="1556" height="100" rx="14" fill="#FFFFFF" stroke="#4B5B72" stroke-width="4" stroke-dasharray="14 10"/>
+<text x="224" y="1495" font-size="50" font-weight="700" fill="#4B5B72">H</text>
+<text x="344" y="1491" font-size="42" fill="#4B5B72">hydrogen (not a metal)</text>
+<rect x="168" y="1540" width="1556" height="100" rx="14" fill="#e0ebe8" stroke="#1E2B47" stroke-width="4"/>
+<text x="224" y="1608" font-size="50" font-weight="700" fill="#1E2B47">Cu</text>
+<text x="344" y="1604" font-size="42" fill="#1E2B47">copper</text>
+<line x1="1070" y1="1570" x2="1110" y2="1610" stroke="#8E99A8" stroke-width="9" stroke-linecap="round"/>
+<line x1="1110" y1="1570" x2="1070" y2="1610" stroke="#8E99A8" stroke-width="9" stroke-linecap="round"/>
+<line x1="1330" y1="1570" x2="1370" y2="1610" stroke="#8E99A8" stroke-width="9" stroke-linecap="round"/>
+<line x1="1370" y1="1570" x2="1330" y2="1610" stroke="#8E99A8" stroke-width="9" stroke-linecap="round"/>
+<line x1="1590" y1="1570" x2="1630" y2="1610" stroke="#8E99A8" stroke-width="9" stroke-linecap="round"/>
+<line x1="1630" y1="1570" x2="1590" y2="1610" stroke="#8E99A8" stroke-width="9" stroke-linecap="round"/>
+<rect x="168" y="1653" width="1556" height="100" rx="14" fill="#e5edeb" stroke="#1E2B47" stroke-width="4"/>
+<text x="224" y="1721" font-size="50" font-weight="700" fill="#1E2B47">Ag</text>
+<text x="344" y="1717" font-size="42" fill="#1E2B47">silver</text>
+<line x1="1070" y1="1683" x2="1110" y2="1723" stroke="#8E99A8" stroke-width="9" stroke-linecap="round"/>
+<line x1="1110" y1="1683" x2="1070" y2="1723" stroke="#8E99A8" stroke-width="9" stroke-linecap="round"/>
+<line x1="1330" y1="1683" x2="1370" y2="1723" stroke="#8E99A8" stroke-width="9" stroke-linecap="round"/>
+<line x1="1370" y1="1683" x2="1330" y2="1723" stroke="#8E99A8" stroke-width="9" stroke-linecap="round"/>
+<line x1="1590" y1="1683" x2="1630" y2="1723" stroke="#8E99A8" stroke-width="9" stroke-linecap="round"/>
+<line x1="1630" y1="1683" x2="1590" y2="1723" stroke="#8E99A8" stroke-width="9" stroke-linecap="round"/>
+<rect x="168" y="1766" width="1556" height="100" rx="14" fill="#eaf0ee" stroke="#1E2B47" stroke-width="4"/>
+<text x="224" y="1834" font-size="50" font-weight="700" fill="#1E2B47">Au</text>
+<text x="344" y="1830" font-size="42" fill="#1E2B47">gold</text>
+<line x1="1070" y1="1796" x2="1110" y2="1836" stroke="#8E99A8" stroke-width="9" stroke-linecap="round"/>
+<line x1="1110" y1="1796" x2="1070" y2="1836" stroke="#8E99A8" stroke-width="9" stroke-linecap="round"/>
+<line x1="1330" y1="1796" x2="1370" y2="1836" stroke="#8E99A8" stroke-width="9" stroke-linecap="round"/>
+<line x1="1370" y1="1796" x2="1330" y2="1836" stroke="#8E99A8" stroke-width="9" stroke-linecap="round"/>
+<line x1="1590" y1="1796" x2="1630" y2="1836" stroke="#8E99A8" stroke-width="9" stroke-linecap="round"/>
+<line x1="1630" y1="1796" x2="1590" y2="1836" stroke="#8E99A8" stroke-width="9" stroke-linecap="round"/>
+<line x1="92" y1="1865" x2="92" y2="484" stroke="#2F6B63" stroke-width="8" stroke-linecap="round"/><polygon points="92,410 133.8,486 50.2,486" fill="#2F6B63"/>
+<text x="180" y="1946" font-size="44" font-weight="700" fill="#4B5B72">Least reactive</text>
+<circle cx="136" cy="2080" r="38" fill="#2F6B63" stroke="#1E2B47" stroke-width="5"/>
+<path d="M118 2082 L131 2096 L155 2067" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="198" y="2096" font-size="44" fill="#1E2B47">reacts</text>
+<circle cx="538" cy="2080" r="38" fill="#FFFFFF"/>
+<path d="M538 2042 A38 38 0 0 0 538 2118 Z" fill="#8A6A0C"/>
+<circle cx="538" cy="2080" r="38" fill="none" stroke="#1E2B47" stroke-width="5"/>
+<text x="600" y="2096" font-size="44" fill="#1E2B47">slowly</text>
+<line x1="884" y1="2060" x2="924" y2="2100" stroke="#8E99A8" stroke-width="9" stroke-linecap="round"/>
+<line x1="924" y1="2060" x2="884" y2="2100" stroke="#8E99A8" stroke-width="9" stroke-linecap="round"/>
+<text x="950" y="2096" font-size="44" fill="#1E2B47">none</text>
+<circle cx="1210" cy="2080" r="38" fill="#F2E6B7" stroke="#8A6A0C" stroke-width="5"/>
+<text x="1210" y="2102" font-size="50" font-weight="700" fill="#8A6A0C" text-anchor="middle">*</text>
+<text x="1262" y="2096" font-size="44" fill="#1E2B47">oxide layer</text></g></svg>

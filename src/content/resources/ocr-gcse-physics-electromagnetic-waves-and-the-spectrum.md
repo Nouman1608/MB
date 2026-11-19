@@ -68,7 +68,7 @@ distance = speed × time
 Written in minutes, 500 s is 8.3 minutes (500 ÷ 60 = 8.33).
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-waves--02-transverse-longitudinal.webp" width="900" height="890" alt="A rope wave moves points up and down at right angles to travel (transverse). A spring wave moves coils back and forth along the direction of travel (longitudinal), bunching into compressions and spreading into rarefactions (Extended names)." loading="lazy">
+  <img src="/images/learning/physics/gcse-shared-transverse-longitudinal.svg" width="900" height="890" alt="A rope wave moves points up and down at right angles to travel (transverse). A spring wave moves coils back and forth along the direction of travel (longitudinal), bunching into compressions and spreading into rarefactions." loading="lazy">
   <figcaption>Transverse waves vibrate at right angles to the direction of travel; longitudinal waves vibrate along it.</figcaption>
 </figure>
 
@@ -117,7 +117,7 @@ Here 1 nm (nanometre) is 1 × 10⁻⁹ m. A memory phrase helps for the order, b
 What the groups share: each is a transverse wave, each moves at one common speed through a vacuum and each transfers energy. What differs: wavelength, frequency, how they interact with matter, and how they are produced and detected.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-waves--07-em-spectrum.webp" width="900" height="950" alt="Seven regions from radio to gamma, each with a wave of shorter wavelength than the one above (illustrative) and one use. All travel at 3.0 x 10^8 m/s in a vacuum (Extended)." loading="lazy">
+  <img src="/images/learning/physics/gcse-shared-em-spectrum.svg" width="900" height="950" alt="Seven regions from radio to gamma, each with a wave of shorter wavelength than the one above (illustrative) and one use. All travel at 3.0 x 10^8 m/s in a vacuum." loading="lazy">
   <figcaption>Frequency rises and wavelength falls from radio waves to gamma rays.</figcaption>
 </figure>
 

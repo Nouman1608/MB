@@ -13,8 +13,6 @@ order: 1
 syllabusTopics:
   - qualification: "gcse"
     topic: "cell-biology-aqa-gcse-biology"
-  - qualification: "gcse"
-    topic: "cell-biology-aqa-gcse-biology"
     subtopic: "transport-in-cells-aqa-gcse-biology"
 description: "Eleven original AQA GCSE Biology 8461 questions on diffusion, SA:V ratio, osmosis, required practical 3 and active transport, with marked answers."
 author: "marlbridge-academic-team"

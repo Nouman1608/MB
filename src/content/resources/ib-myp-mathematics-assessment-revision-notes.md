@@ -6,7 +6,11 @@ level: ["ib"]
 boards: ["ib"]
 qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Mathematics"]
+syllabusSeries: "From 2020, first assessment 2022"
 order: 1
+syllabusTopics:
+  - qualification: "ib-myp"
+    topic: "ib-myp-mathematics-assessment-criteria"
 description: "Condensed recall notes on the four assessment criteria, standard vs extended levels, and eAssessment structure for IB Middle Years Programme Mathematics."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"

@@ -7,6 +7,7 @@ level: ["ib"]
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Environmental Systems and Societies"]
+syllabusSeries: "First assessment 2026"
 order: 1
 description: "IB DP ESS assessment for first assessment 2026: the Paper 1 case study, Paper 2 short answers and essays, and the individual investigation, with SL/HL weights."
 author: "marlbridge-academic-team"

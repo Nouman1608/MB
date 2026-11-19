@@ -7,7 +7,7 @@ level: ["ib"]
 topic: "Benefits of international trade"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: []
+syllabusCodes: ["DP Economics"]
 syllabusSeries: "First assessment 2022"
 order: 316
 syllabusTopics:

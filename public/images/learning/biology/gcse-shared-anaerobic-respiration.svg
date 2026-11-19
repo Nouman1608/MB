@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1290" viewBox="0 0 1800 2580" role="img" aria-labelledby="title desc"><title id="title">Anaerobic respiration in yeast and muscle</title><desc id="desc">Without oxygen, yeast turns glucose into ethanol and carbon dioxide; muscle in vigorous exercise turns glucose into lactic acid only, with no carbon dioxide. Schematic bars show that both release much less energy per glucose than aerobic respiration. A box gives the symbol equation for yeast, C6H12O6 → 2C2H5OH + 2CO2, with the atoms balanced. No tier labels.</desc><rect width="1800" height="2580" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="105" font-size="68" font-weight="700" fill="#1E2B47" text-anchor="middle">Anaerobic respiration</text>
+<text x="900" y="172" font-size="44" fill="#4B5B72" text-anchor="middle">No oxygen used; products depend on the organism</text>
+<rect x="40" y="259" width="839" height="1080" rx="30" fill="#FFFFFF"/>
+<path d="M40 380 V289 Q40 259 70 259 H849 Q879 259 879 289 V380 Z" fill="#DDEBE8"/>
+<line x1="40" y1="380" x2="879" y2="380" stroke="#1E2B47" stroke-width="5"/>
+<rect x="40" y="259" width="839" height="1080" rx="30" fill="none" stroke="#1E2B47" stroke-width="5"/>
+<text x="459.5" y="338" font-size="50" font-weight="700" fill="#1E2B47" text-anchor="middle">Yeast</text>
+<rect x="920" y="259" width="839" height="1080" rx="30" fill="#FFFFFF"/>
+<path d="M920 380 V289 Q920 259 950 259 H1729 Q1759 259 1759 289 V380 Z" fill="#DDEBE8"/>
+<line x1="920" y1="380" x2="1759" y2="380" stroke="#1E2B47" stroke-width="5"/>
+<rect x="920" y="259" width="839" height="1080" rx="30" fill="none" stroke="#1E2B47" stroke-width="5"/>
+<text x="1339.5" y="338" font-size="50" font-weight="700" fill="#1E2B47" text-anchor="middle">Muscle (vigorous exercise)</text>
+<ellipse cx="443" cy="522" rx="92" ry="75" fill="#F2E6B7" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="547" cy="464" r="34" fill="#F2E6B7" stroke="#1E2B47" stroke-width="5"/>
+<line x1="1167" y1="522" x2="1512" y2="522" stroke="#1E2B47" stroke-width="10" stroke-linecap="round"/>
+<ellipse cx="1339" cy="522" rx="108" ry="60" fill="#B5D4CF" stroke="#1E2B47" stroke-width="5"/>
+<rect x="289" y="659" width="341" height="121" rx="18" fill="#D6B22F" stroke="#1E2B47" stroke-width="5"/>
+<text x="459.5" y="739" font-size="52" font-weight="700" fill="#1E2B47" text-anchor="middle">glucose</text>
+<rect x="1169" y="659" width="340" height="121" rx="18" fill="#D6B22F" stroke="#1E2B47" stroke-width="5"/>
+<text x="1339" y="739" font-size="52" font-weight="700" fill="#1E2B47" text-anchor="middle">glucose</text>
+<line x1="339" y1="793" x2="297.67857286798215" y2="931.9902548986055" stroke="#1E2B47" stroke-width="7" stroke-linecap="round"/><polygon points="284,978 274.3,922.9 322.2,937.2" fill="#1E2B47"/>
+<line x1="578" y1="793" x2="621.6405156419428" y2="932.1981964441278" stroke="#1E2B47" stroke-width="7" stroke-linecap="round"/><polygon points="636,978 597.2,937.8 644.9,922.8" fill="#1E2B47"/>
+<line x1="1339" y1="793" x2="1234.0188710149187" y2="939.0263824228574" stroke="#1E2B47" stroke-width="7" stroke-linecap="round"/><polygon points="1206,978 1214.9,922.8 1255.5,952" fill="#1E2B47"/>
+<rect x="119" y="1019" width="302" height="121" rx="18" fill="#F2E6B7" stroke="#1E2B47" stroke-width="5"/>
+<text x="270" y="1099" font-size="52" font-weight="700" fill="#1E2B47" text-anchor="middle">ethanol</text>
+<rect x="1019" y="1019" width="361" height="121" rx="18" fill="#F2E6B7" stroke="#1E2B47" stroke-width="5"/>
+<text x="1199.5" y="1099" font-size="52" font-weight="700" fill="#1E2B47" text-anchor="middle">lactic acid</text>
+<text x="479" y="1100" font-size="64" font-weight="700" fill="#1E2B47" text-anchor="middle">+</text>
+<circle cx="561" cy="1077" r="41" fill="#74ABA5" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="737" cy="1077" r="41" fill="#74ABA5" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="649" cy="1077" r="41" fill="#3A4558" stroke="#1E2B47" stroke-width="5"/>
+<text x="561" y="1093" font-size="42" font-weight="700" fill="#1E2B47" text-anchor="middle">O</text>
+<text x="737" y="1093" font-size="42" font-weight="700" fill="#1E2B47" text-anchor="middle">O</text>
+<text x="649" y="1093" font-size="42" font-weight="700" fill="#FFFFFF" text-anchor="middle">C</text>
+<text x="649" y="1196" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">carbon dioxide</text>
+<circle cx="1491" cy="1077" r="41" fill="#74ABA5" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="1667" cy="1077" r="41" fill="#74ABA5" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="1579" cy="1077" r="41" fill="#3A4558" stroke="#1E2B47" stroke-width="5"/>
+<text x="1491" y="1093" font-size="42" font-weight="700" fill="#1E2B47" text-anchor="middle">O</text>
+<text x="1667" y="1093" font-size="42" font-weight="700" fill="#1E2B47" text-anchor="middle">O</text>
+<text x="1579" y="1093" font-size="42" font-weight="700" fill="#FFFFFF" text-anchor="middle">C</text>
+<line x1="1500" y1="1017" x2="1658" y2="1142" stroke="#B9632F" stroke-width="9" stroke-linecap="round"/>
+<line x1="1658" y1="1017" x2="1500" y2="1142" stroke="#B9632F" stroke-width="9" stroke-linecap="round"/>
+<text x="1579" y="1196" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle" xml:space="preserve"><tspan>no CO</tspan><tspan dy="12.9" font-size="31.3">2</tspan></text>
+<text x="899" y="1447" font-size="48" font-weight="700" fill="#1E2B47" text-anchor="middle">Energy released per glucose (schematic bars)</text>
+<rect x="200" y="1539" width="280" height="379" rx="6" fill="#74ABA5" stroke="#1E2B47" stroke-width="5"/>
+<rect x="760" y="1819" width="280" height="99" rx="6" fill="#D6B22F" stroke="#1E2B47" stroke-width="5"/>
+<rect x="1318" y="1819" width="282" height="99" rx="6" fill="#D6B22F" stroke="#1E2B47" stroke-width="5"/>
+<line x1="116" y1="1918" x2="1683" y2="1918" stroke="#1E2B47" stroke-width="6" stroke-linecap="round"/>
+<text x="339" y="1512" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">Much more</text>
+<text x="899" y="1793" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">Much less</text>
+<text x="1459" y="1793" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">Much less</text>
+<text x="339" y="1983" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">Aerobic</text>
+<text x="899" y="1983" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">Yeast</text>
+<text x="1459" y="1983" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">Muscle</text>
+<text x="899" y="2042" font-size="44" fill="#4B5B72" text-anchor="middle">(anaerobic)</text>
+<text x="1459" y="2042" font-size="44" fill="#4B5B72" text-anchor="middle">(anaerobic)</text>
+<rect x="40" y="2100" width="1719" height="418" rx="30" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<text x="90" y="2185" font-size="44" font-weight="700" fill="#4B5B72">Symbol equation</text>
+<text x="900" y="2318" font-size="70" font-weight="700" fill="#1E2B47" text-anchor="middle" xml:space="preserve"><tspan>C</tspan><tspan dy="19.6" font-size="47.6">6</tspan><tspan dy="-19.6">H</tspan><tspan dy="19.6" font-size="47.6">12</tspan><tspan dy="-19.6">O</tspan><tspan dy="19.6" font-size="47.6">6</tspan><tspan dy="-19.6"> → 2C</tspan><tspan dy="19.6" font-size="47.6">2</tspan><tspan dy="-19.6">H</tspan><tspan dy="19.6" font-size="47.6">5</tspan><tspan dy="-19.6">OH + 2CO</tspan><tspan dy="19.6" font-size="47.6">2</tspan></text>
+<text x="900" y="2398" font-size="44" fill="#4B5B72" text-anchor="middle">yeast only; no oxygen on the left</text>
+<text x="450" y="2475" font-size="46" fill="#1E2B47" text-anchor="middle">C: 6 = 2 × 2 + 2</text>
+<text x="900" y="2475" font-size="46" fill="#1E2B47" text-anchor="middle">H: 12 = 2 × 6</text>
+<text x="1340" y="2475" font-size="46" fill="#1E2B47" text-anchor="middle">O: 6 = 2 + 2 × 2</text></g></svg>

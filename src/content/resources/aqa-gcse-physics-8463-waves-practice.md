@@ -13,8 +13,6 @@ order: 6
 syllabusTopics:
   - qualification: "gcse"
     topic: "waves-aqa-gcse"
-  - qualification: "gcse"
-    topic: "waves-aqa-gcse"
     subtopic: "waves-in-air-fluids-and-solids"
   - qualification: "gcse"
     topic: "waves-aqa-gcse"

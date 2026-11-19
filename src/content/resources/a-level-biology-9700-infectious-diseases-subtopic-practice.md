@@ -14,8 +14,6 @@ order: 10
 syllabusTopics:
   - qualification: "a-level"
     topic: "infectious-diseases-cambridge-alevel-biology"
-  - qualification: "a-level"
-    topic: "infectious-diseases-cambridge-alevel-biology"
     subtopic: "infectious-diseases-detail-cambridge-alevel-biology"
   - qualification: "a-level"
     topic: "infectious-diseases-cambridge-alevel-biology"

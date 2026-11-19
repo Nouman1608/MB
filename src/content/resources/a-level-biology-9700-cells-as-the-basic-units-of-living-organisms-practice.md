@@ -14,8 +14,6 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "cell-structure-cambridge-alevel-biology"
-  - qualification: "a-level"
-    topic: "cell-structure-cambridge-alevel-biology"
     subtopic: "cells-as-the-basic-units-of-living-organisms-cambridge"
 description: "Eleven original questions on 9700 section 1.2 (organelles, micrographs, bacteria, viruses, ATP) with mark-by-mark answers and examiner insights."
 author: "marlbridge-academic-team"

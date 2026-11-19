@@ -7,7 +7,7 @@ level: ["ib"]
 topic: "Economic integration"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: []
+syllabusCodes: ["DP Economics"]
 syllabusSeries: "First assessment 2022"
 order: 319
 syllabusTopics:

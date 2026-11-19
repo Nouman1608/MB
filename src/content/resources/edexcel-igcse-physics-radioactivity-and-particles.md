@@ -130,7 +130,7 @@ Radiation is detected using photographic film or a Geiger-Müller detector.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-0625-nuclear-physics--04-decay-equations.webp" width="900" height="1060" alt="Radium-226 decays by alpha emission to radon-222 plus a helium-4 nucleus: 226 = 222 + 4 and 88 = 86 + 2. Carbon-14 decays by beta emission to nitrogen-14 plus an electron: 14 = 14 + 0 and 6 = 7 + (-1)." loading="lazy">
+  <img src="/images/learning/physics/igcse-edexcel-decay-equations.svg" width="900" height="1060" alt="Radium-226 decays by alpha emission to radon-222 plus a helium-4 nucleus: 226 = 222 + 4 and 88 = 86 + 2. Carbon-14 decays by beta emission to nitrogen-14 plus an electron: 14 = 14 + 0 and 6 = 7 + (-1)." loading="lazy">
   <figcaption>In a decay equation the top numbers balance and the bottom numbers balance.</figcaption>
 </figure>
 

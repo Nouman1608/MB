@@ -120,7 +120,7 @@ const gaId = site.analytics.ga4MeasurementId;
         }
       }
 
-      // D-280 -- the Worker sets this only for visitors outside the UK/Europe
+      // The Worker sets this only for visitors outside the UK/Europe
       // (src/worker/consent-region.ts). There, analytics runs by default with
       // no banner; "Cookie Settings" lets the visitor switch it off.
       var impliedRegion = document.documentElement.getAttribute('data-mb-consent-region') === 'optout';
@@ -208,7 +208,7 @@ const gaId = site.analytics.ga4MeasurementId;
           if (optinCopy) optinCopy.classList.add('hidden');
           if (optoutCopy) optoutCopy.classList.remove('hidden');
         }
-        // D-280 -- outside the UK/Europe the banner only appears via "Cookie Settings".
+        // Outside the UK/Europe the banner only appears via "Cookie Settings".
         if (stored !== 'granted' && stored !== 'denied' && !window.__mbImpliedConsentRegion) {
           banner.classList.remove('hidden');
         }

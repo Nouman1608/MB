@@ -13,8 +13,6 @@ order: 31
 syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-1-cambridge-alevel"
-  - qualification: "a-level"
-    topic: "pure-mathematics-1-cambridge-alevel"
     subtopic: "coordinate-geometry-cambridge-alevel-maths"
 description: "12 original Cambridge 9709 Paper 1 coordinate geometry questions with mark-by-mark answers on lines, circles, tangents and intersections."
 author: "marlbridge-academic-team"

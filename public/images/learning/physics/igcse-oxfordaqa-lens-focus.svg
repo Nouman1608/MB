@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="890" viewBox="0 0 1000 988.89" role="img" aria-labelledby="title desc"><title id="title">Focal length and principal focus (OxfordAQA International GCSE Physics)</title><desc id="desc">Top: three parallel rays pass through a converging lens and meet at the principal focus F; the focal length is the distance from the lens to F. Bottom: three parallel rays pass through a diverging lens and spread out as if from a principal focus F on the incoming side, shown by dashed lines traced back (not real rays). No tier labels: 9203 3.3.6b–d.</desc><rect width="1000" height="988.89" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="500" y="62" font-size="36" font-weight="700" fill="#1E2B47" text-anchor="middle">Focal length and principal focus</text>
+<text x="500" y="106" font-size="23" fill="#4B5B72" text-anchor="middle">Parallel rays enter each lens</text>
+<line x1="45" y1="299" x2="958" y2="299" stroke="#1E2B47" stroke-width="2" stroke-dasharray="10 9"/>
+<text x="67" y="190" font-size="27" font-weight="700" fill="#1E2B47">Converging lens</text>
+<line x1="65" y1="200" x2="578" y2="200" stroke="#8A6A0C" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="65" y1="299" x2="818" y2="299" stroke="#8A6A0C" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="65" y1="400" x2="578" y2="400" stroke="#8A6A0C" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="578" y1="200" x2="818" y2="334.2" stroke="#8A6A0C" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="578" y1="400" x2="818" y2="263.1" stroke="#8A6A0C" stroke-width="3.5" stroke-linecap="round"/>
+<path d="M578 168 Q610 300 578 432 Q546 300 578 168Z" fill="#DDEBE8" stroke="#2F6B63" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="755" cy="299" r="9" fill="#B9632F" stroke="#1E2B47" stroke-width="2"/>
+<text x="755" y="347" font-size="26" font-weight="700" fill="#B9632F" text-anchor="middle">F</text>
+<line x1="666.5" y1="466" x2="600" y2="466" stroke="#B9632F" stroke-width="4" stroke-linecap="round"/><polygon points="578,466 602,451.6 602,480.4" fill="#B9632F"/><line x1="666.5" y1="466" x2="733" y2="466" stroke="#B9632F" stroke-width="4" stroke-linecap="round"/><polygon points="755,466 731,480.4 731,451.6" fill="#B9632F"/>
+<text x="667" y="507" font-size="24" font-weight="700" fill="#B9632F" text-anchor="middle">focal length</text>
+<line x1="45" y1="721" x2="958" y2="721" stroke="#1E2B47" stroke-width="2" stroke-dasharray="10 9"/>
+<text x="67" y="577" font-size="27" font-weight="700" fill="#1E2B47">Diverging lens</text>
+<line x1="65" y1="622" x2="578" y2="622" stroke="#8A6A0C" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="65" y1="721" x2="778" y2="721" stroke="#8A6A0C" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="65" y1="821" x2="578" y2="821" stroke="#8A6A0C" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="578" y1="622" x2="778" y2="510.8" stroke="#8A6A0C" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="578" y1="821" x2="778" y2="933.4" stroke="#8A6A0C" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="400" y1="721" x2="578" y2="622" stroke="#8A6A0C" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="7 6"/>
+<line x1="400" y1="721" x2="578" y2="821" stroke="#8A6A0C" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="7 6"/>
+<path d="M548 588 H606 Q588 721 606 856 H548 Q566 721 548 588Z" fill="#DDEBE8" stroke="#2F6B63" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="400" cy="721" r="9" fill="#B9632F" stroke="#1E2B47" stroke-width="2"/>
+<text x="400" y="770" font-size="26" font-weight="700" fill="#B9632F" text-anchor="middle">F</text>
+<text x="67" y="968" font-size="22" fill="#4B5B72">dashed: traced back, not real rays</text></g></svg>

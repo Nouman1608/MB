@@ -53,7 +53,7 @@ Test yourself with the [Waves practice questions](/resources/aqa-gcse-physics-84
 **Evidence the wave moves, not the medium:** a floating object bobs up and down on ripples but stays in place; air particles vibrate about fixed positions as sound passes.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-waves--02-transverse-longitudinal.webp" width="900" height="890" alt="A rope wave moves points up and down at right angles to travel (transverse). A spring wave moves coils back and forth along the direction of travel (longitudinal), bunching into compressions and spreading into rarefactions (Extended names)." loading="lazy">
+  <img src="/images/learning/physics/gcse-shared-transverse-longitudinal.svg" width="900" height="890" alt="A rope wave moves points up and down at right angles to travel (transverse). A spring wave moves coils back and forth along the direction of travel (longitudinal), bunching into compressions and spreading into rarefactions." loading="lazy">
   <figcaption>Transverse waves vibrate at right angles to the direction of travel; longitudinal waves vibrate along it.</figcaption>
 </figure>
 
@@ -209,12 +209,12 @@ Long λ, low f → short λ, high f:
 **Refraction ray rule:** into a slower (denser) medium, bend towards the normal; into a faster one, away from the normal; along the normal, no bending.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-waves--03-refraction-block.webp" width="900" height="940" alt="A ray at 45 degrees in air bends towards the normal to 28 degrees in glass (n = 1.5) and leaves parallel, bending away. n = sin i / sin r = 1.50 (Extended)." loading="lazy">
+  <img src="/images/learning/physics/gcse-aqa-refraction-block.svg" width="900" height="940" alt="A ray at 45 degrees in air bends towards the normal to 28 degrees in glass (n = 1.5) and leaves parallel, bending away. n = sin i / sin r = 1.50 (not required by the AQA specification)." loading="lazy">
   <figcaption>Light slows and bends towards the normal entering glass, and speeds up and bends away leaving it.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-waves--07-em-spectrum.webp" width="900" height="950" alt="Seven regions from radio to gamma, each with a wave of shorter wavelength than the one above (illustrative) and one use. All travel at 3.0 x 10^8 m/s in a vacuum (Extended)." loading="lazy">
+  <img src="/images/learning/physics/gcse-shared-em-spectrum.svg" width="900" height="950" alt="Seven regions from radio to gamma, each with a wave of shorter wavelength than the one above (illustrative) and one use. All travel at 3.0 x 10^8 m/s in a vacuum." loading="lazy">
   <figcaption>Frequency rises and wavelength falls from radio waves to gamma rays.</figcaption>
 </figure>
 

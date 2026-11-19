@@ -9,6 +9,17 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Language B"]
 syllabusSeries: "First assessment 2020"
 order: 2
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-language-b-identities"
+  - qualification: "ib-dp"
+    topic: "ib-dp-language-b-experiences"
+  - qualification: "ib-dp"
+    topic: "ib-dp-language-b-human-ingenuity"
+  - qualification: "ib-dp"
+    topic: "ib-dp-language-b-social-organization"
+  - qualification: "ib-dp"
+    topic: "ib-dp-language-b-sharing-the-planet"
 description: "The five prescribed themes of IB DP Language B, with guiding principles and recommended topics, plus SL and HL differences and exam timings at a glance."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"

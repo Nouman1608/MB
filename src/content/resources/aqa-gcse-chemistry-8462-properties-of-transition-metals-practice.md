@@ -13,8 +13,6 @@ order: 1
 syllabusTopics:
   - qualification: "gcse"
     topic: "atomic-structure-and-the-periodic-table-8462"
-  - qualification: "gcse"
-    topic: "atomic-structure-and-the-periodic-table-8462"
     subtopic: "properties-of-transition-metals-8462"
 description: "Eleven original AQA GCSE Chemistry 8462 questions on transition metals vs Group 1, ion charges, coloured compounds and catalysts, with marked answers."
 author: "marlbridge-academic-team"

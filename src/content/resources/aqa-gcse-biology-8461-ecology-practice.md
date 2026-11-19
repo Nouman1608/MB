@@ -13,8 +13,6 @@ order: 7
 syllabusTopics:
   - qualification: "gcse"
     topic: "ecology-aqa-gcse-biology"
-  - qualification: "gcse"
-    topic: "ecology-aqa-gcse-biology"
     subtopic: "adaptations-interdependence-and-competition-aqa-gcse-biology"
   - qualification: "gcse"
     topic: "ecology-aqa-gcse-biology"

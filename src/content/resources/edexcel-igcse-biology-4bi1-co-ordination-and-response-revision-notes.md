@@ -80,7 +80,7 @@ Even light or darkness → auxin spread evenly → stem grows straight.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--06-auxin-phototropism.webp" width="900" height="1080" alt="Extended. Light from one side: auxin made in the tip collects on the shaded side. Auxin stimulates cell elongation, so shaded cells (0.15 mm) grow longer than lit cells (0.10 mm), 50% longer, and the shoot bends towards the light." loading="lazy">
+  <img src="/images/learning/biology/igcse-edexcel-auxin-phototropism.svg" width="900" height="1080" alt="Light from one side: auxin made in the tip collects on the shaded side. Auxin stimulates cell elongation, so shaded cells (0.15 mm) grow longer than lit cells (0.10 mm), 50% longer, and the shoot bends towards the light." loading="lazy">
   <figcaption>Longer shaded-side cells bend the shoot towards the light.</figcaption>
 </figure>
 
@@ -107,7 +107,7 @@ Even light or darkness → auxin spread evenly → stem grows straight.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--02-synapse.webp" width="900" height="1010" alt="Extended. A schematic synapse: an impulse in neurone 1 makes vesicles release neurotransmitter into the synaptic gap, the molecules diffuse across, bind receptor proteins on neurone 2 and start a new impulse. Only neurone 1 releases neurotransmitter and only neurone 2 has receptors, so the impulse goes one way." loading="lazy">
+  <img src="/images/learning/biology/igcse-edexcel-synapse.svg" width="900" height="1010" alt="A schematic synapse: an impulse in neurone 1 makes vesicles release neurotransmitter into the synaptic gap, the molecules diffuse across, bind receptor proteins on neurone 2 and start a new impulse. Only neurone 1 releases neurotransmitter and only neurone 2 has receptors, so the impulse goes one way." loading="lazy">
   <figcaption>Neurotransmitter crosses the gap and binds receptors, so impulses go one way only.</figcaption>
 </figure>
 
@@ -127,7 +127,7 @@ Fast because the route is short, has few synapses and bypasses conscious thought
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--04-pupil-reflex.webp" width="900" height="960" alt="Two front views of the eye. Bright light: pupil narrows, less light enters. Dim light: pupil widens, more light enters. Extended panel: in bright light circular muscles contract and radial relax; in dim light radial contract and circular relax." loading="lazy">
+  <img src="/images/learning/biology/igcse-edexcel-pupil-reflex.svg" width="900" height="960" alt="Two front views of the eye. Bright light: pupil narrows, less light enters. Dim light: pupil widens, more light enters. In bright light circular muscles contract and radial relax; in dim light radial contract and circular relax." loading="lazy">
   <figcaption>The pupil narrows in bright light and widens in dim light because two sets of iris muscles work against each other.</figcaption>
 </figure>
 

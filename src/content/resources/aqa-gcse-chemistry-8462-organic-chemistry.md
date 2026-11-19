@@ -65,7 +65,7 @@ You must recognise an alkane from a molecular formula (C2H6), a condensed formul
 Test each against CnH2n+2. C6H14: 2 × 6 + 2 = 14, so alkane. C5H10: 2 × 5 + 2 = 12, not 10, so not an alkane (it fits CnH2n). C9H20: 2 × 9 + 2 = 20, so alkane.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--03-homologous-series.webp" width="900" height="1275" alt="Methane to butane drawn as displayed formulae, each one CH2 bigger than the last, with formula from CnH2n+2 and boiling point rising down the series. Extended chips list what members share." loading="lazy">
+  <img src="/images/learning/chemistry/gcse-shared-homologous-series.svg" width="900" height="1275" alt="Methane to butane drawn as displayed formulae, each one CH2 bigger than the last, with formula from CnH2n+2 and boiling point rising down the series. Chips list what members share." loading="lazy">
   <figcaption>Each alkane is one CH2 bigger, following CnH2n+2.</figcaption>
 </figure>
 

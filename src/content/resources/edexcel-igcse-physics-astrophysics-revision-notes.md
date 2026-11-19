@@ -67,7 +67,7 @@ orbital speed  v = 2 pi r / T
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--04-elliptical-orbit.webp" width="900" height="990" alt="An ellipse with the Sun at a focus, not the centre. A long arrow at the closest point and a short arrow at the farthest point show the planet is faster when closer. Moving towards the Sun GPE is transferred to KE; moving away KE is transferred to GPE; total energy is constant." loading="lazy">
+  <img src="/images/learning/physics/igcse-edexcel-elliptical-orbit.svg" width="900" height="990" alt="An ellipse with the Sun at a focus, not the centre. A long arrow at the closest point and a short arrow at the farthest point show the planet is faster when closer. Moving towards the Sun GPE is transferred to KE; moving away KE is transferred to GPE; total energy is constant." loading="lazy">
   <figcaption>A planet moves faster when closer to the Sun because GPE is transferred to KE.</figcaption>
 </figure>
 
@@ -107,7 +107,7 @@ nebula -> protostar -> main sequence -> red supergiant -> SUPERNOVA -> neutron s
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--05-star-life-cycle.webp" width="900" height="1110" alt="A cloud of gas and dust collapses into a protostar and becomes a stable star. Less massive stars become red giants, then a planetary nebula with a white dwarf. More massive stars become red supergiants, explode as supernovae and leave a neutron star or black hole. The nebula may form new stars." loading="lazy">
+  <img src="/images/learning/physics/igcse-shared-intl-star-life-cycle.svg" width="900" height="1110" alt="A cloud of gas and dust collapses into a protostar and becomes a stable star. Less massive stars become red giants, then a planetary nebula with a white dwarf. More massive stars become red supergiants, explode as supernovae and leave a neutron star or black hole. The nebula may form new stars." loading="lazy">
   <figcaption>A star's mass decides whether it ends as a white dwarf, a neutron star or a black hole.</figcaption>
 </figure>
 
@@ -166,8 +166,8 @@ Together these mean the **universe is expanding**, and therefore was smaller and
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--07-hubble-constant.webp" width="900" height="910" alt="A straight line through the origin of speed against distance, plotted from H0 = 2.2e-18 per second. A galaxy at 5.3e8 light-years recedes at 1.1e7 m/s. The gradient is H0 = v/d, and 1/H0 is about 1.4e10 years, an estimate of the age of the Universe." loading="lazy">
-  <figcaption>Speed is proportional to distance, and 1/H0 estimates the age of the Universe.</figcaption>
+  <img src="/images/learning/physics/igcse-edexcel-hubble-constant.svg" width="900" height="910" alt="A straight line through the origin of speed against distance, plotted from H0 = 2.2e-18 per second. A galaxy at 5.3e8 light-years recedes at 1.1e7 m/s. The gradient is H0 = v/d, and 1/H0 is about 1.4e10 years, an estimate of the age of the Universe. The figure is marked Paper 2 only, and the Hubble constant and the age estimate are greyed as not required by Edexcel." loading="lazy">
+  <figcaption>Speed is proportional to distance: further galaxies move away faster.</figcaption>
 </figure>
 
 ## Frequently asked questions

@@ -4,12 +4,12 @@ seoTitle: "OCR AS Economics Macro Trends Practice Questions"
 resourceType: "practice-questions"
 subject: "economics"
 level: ["a-levels"]
-topic: "Trends in macroeconomic indicators"
+topic: "Economic policy objectives"
 boards: ["ocr"]
 qualifications: ["as-level"]
 syllabusCodes: ["H060"]
-syllabusSeries: "For first assessment in 2016"
-order: 940
+syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2020"
+order: 4.6
 syllabusTopics:
   - qualification: "as-level"
     topic: "economic-policy-objectives-ocr-aslevel-economics"
@@ -30,7 +30,7 @@ reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover the topic Trends in macroeconomic indicators in Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification, for first assessment in 2016. All countries and data are invented. Use the [study guide](/resources/ocr-as-level-economics-trends-in-macroeconomic-indicators/) and the [revision notes](/resources/ocr-as-level-economics-trends-in-macroeconomic-indicators-revision-notes/). See the [OCR AS Economics hub](/boards/ocr/as-level/economics/), the [printable checklist](/checklists/ocr/as-level/economics/) and the [free 10-minute diagnostics](/diagnostics/).
+These questions cover topic 2.6 Trends in macroeconomic indicators, in Economic policy objectives, Component 02, Macroeconomics, of the OCR *AS Level Economics (H060)* specification, Version 3.0 (June 2026). All countries and data are invented. Use the [study guide](/resources/ocr-as-level-economics-trends-in-macroeconomic-indicators/) and the [revision notes](/resources/ocr-as-level-economics-trends-in-macroeconomic-indicators-revision-notes/). See the [OCR AS Economics hub](/boards/ocr/as-level/economics/), the [printable checklist](/checklists/ocr/as-level/economics/) and the [free 10-minute diagnostics](/diagnostics/).
 
 ## Questions
 
@@ -189,4 +189,4 @@ Use the same years, definitions and units, quote figures from the data, prefer p
 
 ## Official syllabus
 
-These questions follow the OCR *AS Level in Economics (H060)* specification, for first assessment in 2016, published by OCR (Oxford Cambridge and RSA Examinations). The topic Trends in macroeconomic indicators sits in the Area of Study Economic policy objectives and indicators of macroeconomic performance, Component 02, Macroeconomics.
+These questions follow the OCR *AS Level in Economics (H060)* specification, Version 3.0 (June 2026), published by OCR (Oxford Cambridge and RSA Examinations). Topic 2.6 Trends in macroeconomic indicators sits in Economic policy objectives, Component 02, Macroeconomics.

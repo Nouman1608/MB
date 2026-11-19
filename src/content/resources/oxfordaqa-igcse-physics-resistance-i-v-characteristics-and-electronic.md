@@ -78,7 +78,7 @@ Always change milliamps to amps (divide by 1000) and kilohms or megohms to ohms 
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--04-iv-graphs.webp" width="900" height="1192" alt="Three I-V graphs: a fixed resistor gives a straight line through the origin; a filament lamp gives a curve that gets less steep because resistance rises; a diode carries no current in reverse and rises steeply forward after about 0.6 V." loading="lazy">
+  <img src="/images/learning/physics/igcse-shared-intl-iv-graphs.svg" width="900" height="1192" alt="Three I-V graphs: a fixed resistor gives a straight line through the origin; a filament lamp gives a curve that gets less steep because resistance rises; a diode carries no current in reverse and rises steeply forward after about 0.6 V." loading="lazy">
   <figcaption>The shape of each I-V graph tells you how the resistance behaves.</figcaption>
 </figure>
 
@@ -238,8 +238,8 @@ Keep the currents through the resistor small and switch off between readings so 
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--02-circuit-symbols.webp" width="900" height="986" alt="Fourteen standard circuit symbols with names: cell, battery, open switch, fixed resistor, variable resistor, lamp, ammeter, voltmeter, fuse, thermistor, LDR, motor, and (Extended) diode and LED." loading="lazy">
-  <figcaption>The standard symbols to draw and recognise; diode and LED are Extended only.</figcaption>
+  <img src="/images/learning/physics/igcse-oxfordaqa-circuit-symbols.svg" width="900" height="986" alt="Fourteen standard circuit symbols with names: cell, battery, open switch, fixed resistor, variable resistor, lamp, ammeter, voltmeter, fuse, thermistor, LDR, motor, diode and LED; the motor is greyed as not on the 9203 list." loading="lazy">
+  <figcaption>The standard symbols to recognise; the 9203 specification draws the diode, LED and LDR inside a circle.</figcaption>
 </figure>
 
 

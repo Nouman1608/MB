@@ -13,8 +13,6 @@ order: 2
 syllabusTopics:
   - qualification: "igcse"
     topic: "equations-formulae-and-identities-edexcel-igcse-maths"
-  - qualification: "igcse"
-    topic: "equations-formulae-and-identities-edexcel-igcse-maths"
     subtopic: "inequalities-edexcel-igcse-maths"
 description: "Twelve original 4MA1 inequalities questions on number lines, linear and quadratic inequalities and graph regions, with mark-by-mark answers."
 author: "marlbridge-academic-team"

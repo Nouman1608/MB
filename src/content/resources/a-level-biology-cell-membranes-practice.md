@@ -14,6 +14,10 @@ order: 4
 syllabusTopics:
   - qualification: "a-level"
     topic: "cell-membranes-and-transport-cambridge-alevel-biology"
+    subtopic: "fluid-mosaic-membranes-cambridge-alevel-biology"
+  - qualification: "a-level"
+    topic: "cell-membranes-and-transport-cambridge-alevel-biology"
+    subtopic: "movement-into-and-out-of-cells-cambridge-alevel"
 description: "Original Cambridge 9700 questions with worked answers on cotransport, evidence for active transport, exocytosis, water potential and membrane permeability."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

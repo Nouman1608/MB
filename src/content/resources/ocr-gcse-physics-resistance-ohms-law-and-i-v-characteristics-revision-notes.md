@@ -108,8 +108,8 @@ Prefixes to recall: 1 mA = 0.001 A, 1 kΩ = 1000 Ω, 1 MΩ = 1 000 000 Ω, 1 µA
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--02-circuit-symbols.webp" width="900" height="986" alt="Fourteen standard circuit symbols with names: cell, battery, open switch, fixed resistor, variable resistor, lamp, ammeter, voltmeter, fuse, thermistor, LDR, motor, and (Extended) diode and LED." loading="lazy">
-  <figcaption>The standard symbols to draw and recognise; diode and LED are Extended only.</figcaption>
+  <img src="/images/learning/physics/gcse-ocr-circuit-symbols.svg" width="900" height="986" alt="Fourteen standard circuit symbols with names: cell, battery, open switch, fixed resistor, variable resistor, lamp, ammeter, voltmeter, fuse, thermistor, LDR, motor, diode and LED." loading="lazy">
+  <figcaption>The standard symbols to draw and recognise; the diode is on the P3.2b list for both tiers; the LED is not named in P3.2b.</figcaption>
 </figure>
 
 

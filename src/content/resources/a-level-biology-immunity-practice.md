@@ -14,6 +14,10 @@ order: 11
 syllabusTopics:
   - qualification: "a-level"
     topic: "immunity-cambridge-alevel-biology"
+    subtopic: "the-immune-system-cambridge-alevel-biology"
+  - qualification: "a-level"
+    topic: "immunity-cambridge-alevel-biology"
+    subtopic: "antibodies-and-vaccination-cambridge-alevel-biology"
 description: "Original Cambridge 9700 questions with worked answers on phagocytosis, live attenuated vaccines, memory cells, types of immunity and antibody structure."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

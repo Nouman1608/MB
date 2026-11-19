@@ -14,8 +14,6 @@ order: 11
 syllabusTopics:
   - qualification: "a-level"
     topic: "programming"
-  - qualification: "a-level"
-    topic: "programming"
     subtopic: "programming-basics"
   - qualification: "a-level"
     topic: "programming"

@@ -245,6 +245,6 @@ OxfordAQA International GCSE Physics (9203) specification —
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--07-stretching-a-spring.webp" width="900" height="960" alt="A load-extension graph is a straight line through the origin with gradient 40 N/m up to the limit of proportionality at 8.0 N, then curves. At 6.0 N the extension is 0.15 m." loading="lazy">
+  <img src="/images/learning/physics/igcse-oxfordaqa-stretching-a-spring.svg" width="900" height="960" alt="A load-extension graph is a straight line through the origin with gradient 40 N/m up to the limit of proportionality at 8.0 N, then curves. At 6.0 N the extension is 0.15 m." loading="lazy">
   <figcaption>Up to the limit of proportionality force is proportional to extension: F = kx.</figcaption>
 </figure>

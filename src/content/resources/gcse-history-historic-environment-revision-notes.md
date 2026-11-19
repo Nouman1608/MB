@@ -7,7 +7,11 @@ topic: "The Historic Environment Study"
 boards: ["aqa"]
 qualifications: ["gcse"]
 syllabusCodes: ["8145"]
+syllabusSeries: "first teaching 2016"
 order: 1
+syllabusTopics:
+  - qualification: "gcse"
+    topic: "shaping-the-nation-8145"
 description: "Revision notes on the historic environment study of AQA GCSE History 8145 Paper 2: the 16-mark site question, its marking, and a reusable essay structure."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

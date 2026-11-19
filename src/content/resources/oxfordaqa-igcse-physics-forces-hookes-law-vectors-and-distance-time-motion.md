@@ -199,12 +199,12 @@ Under a 2.5 N load the extension is 0.050 m = 5.0 cm, so the length is 12.0 + 5.
 Convert centimetres to metres before using k in N/m, and never put the new length into the equation.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/elastic-deformation-moments-and-centre-of-gravity--02-extension-springs.webp" width="900" height="820" alt="Four springs hang with loads of 0, 2, 4 and 6 N. A dashed line marks the natural length; extension x is measured from it and is 0.04, 0.08 and 0.12 m. F divided by x is 50 N/m each time." loading="lazy">
+  <img src="/images/learning/physics/igcse-oxfordaqa-extension-springs.svg" width="900" height="820" alt="Four springs hang with loads of 0, 2, 4 and 6 N. A dashed line marks the natural length; extension x is measured from it and is 0.04, 0.08 and 0.12 m. F divided by x is 50 N/m each time." loading="lazy">
   <figcaption>Extension is the increase in length from the natural length, not the total length.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/elastic-deformation-moments-and-centre-of-gravity--01-load-extension-graph.webp" width="900" height="940" alt="Load-extension graph for a spring of constant 50 N/m: straight through the origin to 0.16 m and 8 N, where the limit of proportionality is marked, then curving. A gradient triangle (4 N over 0.08 m) gives k = 50 N/m." loading="lazy">
+  <img src="/images/learning/physics/igcse-oxfordaqa-load-extension-graph.svg" width="900" height="940" alt="Load-extension graph for a spring of constant 50 N/m: straight through the origin to 0.16 m and 8 N, where the limit of proportionality is marked, then curving. A gradient triangle (4 N over 0.08 m) gives k = 50 N/m." loading="lazy">
   <figcaption>The gradient of the straight part is the spring constant; the line stops being straight at the limit of proportionality.</figcaption>
 </figure>
 

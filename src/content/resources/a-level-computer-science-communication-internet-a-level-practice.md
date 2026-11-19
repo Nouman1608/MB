@@ -14,8 +14,6 @@ order: 14
 syllabusTopics:
   - qualification: "a-level"
     topic: "communication-and-internet-technologies"
-  - qualification: "a-level"
-    topic: "communication-and-internet-technologies"
     subtopic: "protocols"
   - qualification: "a-level"
     topic: "communication-and-internet-technologies"

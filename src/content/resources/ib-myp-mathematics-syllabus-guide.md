@@ -9,6 +9,17 @@ qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Mathematics"]
 syllabusSeries: "From 2020, first assessment 2022"
 order: 2
+syllabusTopics:
+  - qualification: "ib-myp"
+    topic: "ib-myp-mathematics-branches-of-mathematical-study"
+  - qualification: "ib-myp"
+    topic: "ib-myp-mathematics-key-concepts"
+  - qualification: "ib-myp"
+    topic: "ib-myp-mathematics-related-concepts"
+  - qualification: "ib-myp"
+    topic: "ib-myp-mathematics-global-contexts"
+  - qualification: "ib-myp"
+    topic: "ib-myp-mathematics-assessment-criteria"
 description: "The IB MYP Mathematics framework: its four branches, key and related concepts, the four assessment criteria and the eAssessment structure, first assessed 2022."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"

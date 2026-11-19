@@ -132,8 +132,8 @@ Links: [course hub](/boards/oxfordaqa/igcse/chemistry/) · [checklist](/checklis
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--03-chromatography-method.webp" width="900" height="1185" alt="Paper with a pencil line and mixture spot stands in a little solvent. Later the solvent front has risen and three coloured spots have separated. A lower strip shows colourless spots invisible until a locating agent is sprayed (Extended)." loading="lazy">
-  <figcaption>The solvent carries the components different distances up the paper; colourless spots need a locating agent (Extended).</figcaption>
+  <img src="/images/learning/chemistry/igcse-shared-intl-chromatography-method.svg" width="900" height="1185" alt="Paper with a pencil line and mixture spot stands in a little solvent. Later the solvent front has risen and three coloured spots have separated. A lower strip shows colourless spots invisible until a locating agent is sprayed, marked not required by Edexcel or OxfordAQA." loading="lazy">
+  <figcaption>The solvent carries the components different distances up the paper; colourless spots need a locating agent (not required by OxfordAQA).</figcaption>
 </figure>
 
 <figure class="topic-figure">
@@ -168,7 +168,7 @@ Links: [course hub](/boards/oxfordaqa/igcse/chemistry/) · [checklist](/checklis
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/practical-techniques-titrations-chromatography-separation--05-rf-value.webp" width="900" height="1010" alt="A chromatogram shows a solvent front 80 mm above the baseline. A blue spot has moved 48 mm and an orange spot 24 mm. Dividing by 80 gives Rf 0.60 and 0.30. Rf is always less than 1." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-shared-intl-rf-value.svg" width="900" height="1010" alt="A chromatogram shows a solvent front 80 mm above the baseline. A blue spot has moved 48 mm and an orange spot 24 mm. Dividing by 80 gives Rf 0.60 and 0.30. Rf is always less than 1." loading="lazy">
   <figcaption>Rf = distance moved by substance / distance moved by solvent, both measured from the baseline.</figcaption>
 </figure>
 

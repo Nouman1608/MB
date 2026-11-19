@@ -42,7 +42,7 @@ content); the placenta nourishes the developing embryo; amniotic fluid protects 
 testosterone drive secondary sexual characteristics.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--01-asexual-sexual.webp" width="900" height="1095" alt="One parent makes genetically identical offspring. In sexual reproduction two parents each make a gamete; the gametes fuse to form a zygote, giving offspring that differ from each other. Extended: gametes are n and the zygote 2n (cat 19 + 19 = 38)." loading="lazy">
+  <img src="/images/learning/biology/igcse-shared-intl-asexual-sexual.svg" width="900" height="1095" alt="One parent makes genetically identical offspring. In sexual reproduction two parents each make a gamete; the gametes fuse to form a zygote, giving offspring that differ from each other. Gametes are n and the zygote 2n (cat 19 + 19 = 38)." loading="lazy">
   <figcaption>Compare one-parent and two-parent reproduction.</figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ testosterone drive secondary sexual characteristics.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--04-pollen-tube.webp" width="900" height="960" alt="Section through a carpel: pollen lands on the stigma (pollination), a pollen tube grows down the style, enters the ovule through the micropyle, and the pollen nucleus fuses with the ovule nucleus (fertilisation)." loading="lazy">
+  <img src="/images/learning/biology/igcse-edexcel-pollen-tube.svg" width="900" height="960" alt="Section through a carpel: pollen lands on the stigma (pollination), a pollen tube grows down the style, enters the ovule through the micropyle, and the pollen nucleus fuses with the ovule nucleus (fertilisation)." loading="lazy">
   <figcaption>Follow pollen from the stigma to fertilisation in the ovule.</figcaption>
 </figure>
 
@@ -72,12 +72,12 @@ testosterone drive secondary sexual characteristics.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--08-menstrual-cycle.webp" width="900" height="1010" alt="Two graphs over 28 days: the uterus lining is lost on days 1-5, then rebuilt, with ovulation around day 14; Extended sketch of FSH, oestrogen, LH and progesterone, with oestrogen peaking before the LH peak at ovulation and progesterone high afterwards." loading="lazy">
+  <img src="/images/learning/biology/igcse-edexcel-menstrual-cycle.svg" width="900" height="1010" alt="Two graphs over 28 days: the uterus lining is lost on days 1-5, then rebuilt, with ovulation around day 14; a sketch of FSH, oestrogen, LH and progesterone, with oestrogen peaking before the LH peak at ovulation and progesterone high afterwards. FSH and LH are marked Paper 2 only." loading="lazy">
   <figcaption>Link the lining and hormone changes to the days of the cycle.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--07-placenta-exchange.webp" width="900" height="1200" alt="The fetus in an amniotic sac inside the uterus, joined by the umbilical cord to the placenta. Extended panel: oxygen, glucose and amino acids pass from mother to fetus and carbon dioxide and urea the other way without the bloods mixing; some viruses and nicotine can cross." loading="lazy">
+  <img src="/images/learning/biology/igcse-edexcel-placenta-exchange.svg" width="900" height="1200" alt="The fetus in an amniotic sac inside the uterus, joined by the umbilical cord to the placenta. Oxygen, glucose and amino acids pass from mother to fetus and carbon dioxide and urea the other way without the bloods mixing; some viruses and nicotine can cross. The note on viruses and nicotine is greyed as not required by Edexcel." loading="lazy">
   <figcaption>Show what the placenta does and what crosses it.</figcaption>
 </figure>
 
@@ -114,7 +114,7 @@ cytosine/guanine) and RNA (single-stranded, uses uracil instead of thymine), plu
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--06-dna-structure.webp" width="900" height="1000" alt="DNA has two strands coiled into a double helix. Each strand carries bases and bonds between paired bases hold the strands together. A always pairs with T and C with G, so strand 1 A T G C C G T A pairs with strand 2 T A C G G C A T." loading="lazy">
+  <img src="/images/learning/biology/igcse-edexcel-dna-structure.svg" width="900" height="1000" alt="DNA has two strands coiled into a double helix. Each strand carries bases and bonds between paired bases hold the strands together. A always pairs with T and C with G, so strand 1 A T G C C G T A pairs with strand 2 T A C G G C A T. The whole figure is marked Paper 2 only." loading="lazy">
   <figcaption>A pairs with T, C pairs with G.</figcaption>
 </figure>
 
@@ -156,7 +156,7 @@ Human diploid number = 46; haploid = 23. Random fertilisation of genetically dif
 produces genetic variation in offspring -- this is the direct link between meiosis and variation.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--04-mitosis-vs-meiosis.webp" width="900" height="1260" alt="Extended. A diploid cell with four chromosomes (two pairs) divides by mitosis into two identical cells with four chromosomes each, or by meiosis into four different cells with two chromosomes each. Fertilisation joins two haploid gametes to restore the diploid number; in humans 23 + 23 = 46." loading="lazy">
+  <img src="/images/learning/biology/igcse-edexcel-mitosis-meiosis.svg" width="900" height="1260" alt="A diploid cell with four chromosomes (two pairs) divides by mitosis into two identical cells with four chromosomes each, or by meiosis into four different cells with two chromosomes each. Fertilisation joins two haploid gametes to restore the diploid number; in humans 23 + 23 = 46." loading="lazy">
   <figcaption>Mitosis keeps the chromosome number; meiosis halves it, and fertilisation restores it.</figcaption>
 </figure>
 
@@ -176,7 +176,7 @@ concretely to antibiotic resistance increasing within bacterial populations, mak
 to treat.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--02-mutation.webp" width="900" height="1215" alt="Core: mutation is genetic change that forms new alleles; ionising radiation and some chemicals raise its rate. Extended: a gene mutation changes one base in the DNA sequence, which can change the protein shape; sources of variation are mutation, meiosis, random mating and random fertilisation." loading="lazy">
+  <img src="/images/learning/biology/igcse-edexcel-mutation-variation.svg" width="900" height="1215" alt="Mutation is genetic change that forms new alleles; the note that ionising radiation and some chemicals raise its rate is marked Paper 2 only. Middle, Paper 2 only: a gene mutation changes one base in the DNA sequence, which can change the protein shape. Sources of variation are mutation, meiosis and random fertilisation; random mating is greyed as not required by Edexcel." loading="lazy">
   <figcaption>Mutation forms new alleles; radiation and some chemicals raise the rate.</figcaption>
 </figure>
 
@@ -186,7 +186,7 @@ to treat.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--06-antibiotic-resistance.webp" width="900" height="1190" alt="Five dishes of bacteria: a random mutation makes one bacterium resistant; the antibiotic kills the six non-resistant ones; the survivor has less competition; it reproduces and passes on the allele; a resistant strain forms quickly." loading="lazy">
+  <img src="/images/learning/biology/igcse-edexcel-antibiotic-resistance.svg" width="900" height="1190" alt="Five dishes of bacteria: a random mutation makes one bacterium resistant; the antibiotic kills the six non-resistant ones; the survivor has less competition; it reproduces and passes on the allele; a resistant strain forms quickly." loading="lazy">
   <figcaption>The mutation was already there; the antibiotic selected the resistant bacterium.</figcaption>
 </figure>
 

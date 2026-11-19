@@ -101,7 +101,7 @@ Solids have particles in a regular arrangement, vibrating about fixed positions.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/states-of-matter-and-kinetic-particle-theory--06-ammonia-hcl-tube.webp" width="900" height="1000" alt="A tube has ammonia at the left end and hydrogen chloride at the right. Lighter ammonia (Mr 17) diffuses further than HCl (Mr 36.5), so the white ammonium chloride ring forms nearer the HCl end." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-shared-intl-ammonia-hcl-tube.svg" width="900" height="1000" alt="A tube has ammonia at the left end and hydrogen chloride at the right. Lighter ammonia (Mr 17) diffuses further than HCl (Mr 36.5), so the white ammonium chloride ring forms nearer the HCl end." loading="lazy">
   <figcaption>Lighter ammonia travels further, so the white ring forms nearer the hydrogen chloride end.</figcaption>
 </figure>
 
@@ -118,7 +118,7 @@ Group number equals the number of outer-shell electrons; period number equals th
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/atomic-structure--06-isotopes.webp" width="900" height="1150" alt="Chlorine-35 and chlorine-37 nuclei: both 17 protons, with 18 and 20 neutrons. Below, two identical electron arrangements, 2,8,7, show why isotopes have the same chemical properties." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-shared-intl-isotopes.svg" width="900" height="1150" alt="Chlorine-35 and chlorine-37 nuclei: both 17 protons, with 18 and 20 neutrons. Below, two identical electron arrangements, 2,8,7, show why isotopes have the same chemical properties." loading="lazy">
   <figcaption>Isotopes differ in neutrons and mass number but share electrons and chemistry.</figcaption>
 </figure>
 
@@ -137,12 +137,12 @@ Group number equals the number of outer-shell electrons; period number equals th
 **Metallic bonding** is a lattice of positive ions in a sea of delocalised electrons, giving conduction and malleability.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--01-ionic-transfer.webp" width="900" height="945" alt="Outer shells only: sodium gives one electron to chlorine, giving Na+ with none left and Cl- with eight. Magnesium gives two electrons to oxygen, giving Mg2+ and O2- with eight. Dots are the metal's electrons and crosses the non-metal's." loading="lazy">
-  <figcaption>Metal atoms transfer outer electrons to non-metal atoms, giving ions with full outer shells (MgO is Extended).</figcaption>
+  <img src="/images/learning/chemistry/igcse-shared-intl-ionic-transfer.svg" width="900" height="945" alt="Outer shells only: sodium gives one electron to chlorine, giving Na+ with none left and Cl- with eight. Magnesium gives two electrons to oxygen, giving Mg2+ and O2- with eight. Dots are the metal's electrons and crosses the non-metal's." loading="lazy">
+  <figcaption>Metal atoms transfer outer electrons to non-metal atoms, giving ions with full outer shells.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--02-ionic-lattice.webp" width="900" height="924" alt="A regular grid of positive and negative ions alternating in every direction. Every ion is attracted to its neighbours, so many strong attractions run throughout the lattice, giving a high melting point." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-shared-intl-ionic-lattice.svg" width="900" height="924" alt="A regular grid of positive and negative ions alternating in every direction. Every ion is attracted to its neighbours, so many strong attractions run throughout the lattice, giving a high melting point." loading="lazy">
   <figcaption>Alternating ions in a giant lattice are held by many strong electrostatic attractions.</figcaption>
 </figure>
 
@@ -152,17 +152,17 @@ Group number equals the number of outer-shell electrons; period number equals th
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--04-covalent-sharing.webp" width="900" height="1010" alt="Overlapping outer shells show each shared pair as one dot and one cross. HCl and the water and methane molecules use single bonds; carbon dioxide has two double bonds. Each atom ends with 8 outer electrons, hydrogen with 2." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-shared-intl-covalent-sharing.svg" width="900" height="1010" alt="Overlapping outer shells show each shared pair as one dot and one cross. HCl and the water and methane molecules use single bonds; carbon dioxide has two double bonds. Each atom ends with 8 outer electrons, hydrogen with 2." loading="lazy">
   <figcaption>Shared pairs sit in the overlap of the shells, giving every atom a full outer shell.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--05-simple-molecules-melting.webp" width="900" height="995" alt="CO2 molecules in a solid are held by weak forces (dashed) between molecules. Heating breaks only these weak forces, so the molecules separate into a liquid while the strong double bonds inside each molecule stay intact." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-shared-intl-simple-molecules-melting.svg" width="900" height="995" alt="CO2 molecules in a solid are held by weak forces (dashed) between molecules. Heating breaks only these weak forces, so the molecules separate (solid carbon dioxide sublimes straight to a gas) while the strong double bonds inside each molecule stay intact." loading="lazy">
   <figcaption>Melting breaks weak forces between molecules, not the strong covalent bonds inside them.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--06-giant-covalent.webp" width="900" height="980" alt="Diamond is a rigid 3D network where every carbon bonds to four others, so it is very hard with a very high melting point and is used in cutting tools. Silicon dioxide has each silicon bonded to four oxygens and each oxygen to two silicons, with properties like diamond." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-shared-intl-giant-covalent.svg" width="900" height="980" alt="Diamond is a rigid 3D network where every carbon bonds to four others, so it is very hard with a very high melting point and is used in cutting tools. Silicon dioxide has each silicon bonded to four oxygens and each oxygen to two silicons, with properties like diamond." loading="lazy">
   <figcaption>Diamond and SiO2 are giant networks of covalent bonds, hard and with very high melting points.</figcaption>
 </figure>
 
@@ -172,7 +172,7 @@ Group number equals the number of outer-shell electrons; period number equals th
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--08-metallic-bonding.webp" width="900" height="1212" alt="A lattice of positive metal ions in a sea of free electrons. The attraction holds the structure together. Free electrons drifting carry current, and when layers of ions slide the electron sea still holds them together, so metals are malleable." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-edexcel-metallic-bonding.svg" width="900" height="1212" alt="A lattice of positive metal ions in a sea of free electrons. The attraction holds the structure together. Free electrons drifting carry current, and when layers of ions slide the electron sea still holds them together, so metals are malleable. The whole figure is marked Paper 2 only." loading="lazy">
   <figcaption>Positive ions in a sea of delocalised electrons explain conduction and malleability.</figcaption>
 </figure>
 
@@ -193,17 +193,17 @@ Empirical formula is found by dividing the mass or percentage of each element by
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--05-mole-map.webp" width="900" height="970" alt="Amount in moles is the hub. Multiply or divide by Mr for mass, by 24 for gas volume at r.t.p., by 6.02 x 10^23 for particles, and divide by volume in dm3 (or multiply) for concentration." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-edexcel-mole-map.svg" width="900" height="970" alt="Amount in moles is the hub. Multiply or divide by Mr for mass, by 24 for gas volume at r.t.p., by 6.02 x 10^23 for particles, and divide by volume in dm3 (or multiply) for concentration. The gas volume and concentration links are marked Paper 2 only, and the particles link is marked not required by Edexcel." loading="lazy">
   <figcaption>Convert to moles first, then to the quantity you need.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--03-balancing-equations.webp" width="900" height="1130" alt="Molecule pictures show CH4 plus two O2 on the left and CO2 plus two H2O on the right, each side with 1 C, 4 H and 4 O. Only coefficients change. A key shows (s), (l), (g) and (aq)." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-shared-intl-balancing-equations.svg" width="900" height="1130" alt="Molecule pictures show CH4 plus two O2 on the left and CO2 plus two H2O on the right, each side with 1 C, 4 H and 4 O. Only coefficients change. A key shows (s), (l), (g) and (aq)." loading="lazy">
   <figcaption>A balanced equation has the same atoms on both sides; state symbols show the physical state.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--08-empirical-formula.webp" width="900" height="980" alt="Using example masses of 2.4 g carbon and 0.6 g hydrogen: moles are 0.2 and 0.6, ratio 1:3, empirical formula CH3 (mass 15). With Mr 30, multiply by 2 to give C2H6." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-edexcel-empirical-formula.svg" width="900" height="980" alt="Using example masses of 2.4 g carbon and 0.6 g hydrogen: moles are 0.2 and 0.6, ratio 1:3, empirical formula CH3 (mass 15). With Mr 30, multiply by 2 to give C2H6." loading="lazy">
   <figcaption>Divide masses by Ar, divide by the smallest, then scale up using Mr for the molecular formula.</figcaption>
 </figure>
 
@@ -213,7 +213,7 @@ Empirical formula is found by dividing the mass or percentage of each element by
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--07-concentration.webp" width="900" height="980" alt="Four beakers of 250 cm3, each with 0.5 mol, make 1 dm3 holding 2 mol, so concentration is 2 mol/dm3. 250 cm3 divided by 1000 is 0.25 dm3 and 0.5 divided by 0.25 is 2." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-edexcel-concentration.svg" width="900" height="980" alt="Four beakers of 250 cm3, each with 0.5 mol, make 1 dm3 holding 2 mol, so concentration is 2 mol/dm3. 250 cm3 divided by 1000 is 0.25 dm3 and 0.5 divided by 0.25 is 2. The whole figure is marked Paper 2 only, and a note on g/dm3 is marked not required by Edexcel." loading="lazy">
   <figcaption>Concentration is moles per dm3; convert cm3 to dm3 by dividing by 1000.</figcaption>
 </figure>
 

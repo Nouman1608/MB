@@ -14,6 +14,13 @@ order: 5
 syllabusTopics:
   - qualification: "a-level"
     topic: "marketing-as-cambridge-alevel-business"
+    subtopic: "the-nature-of-marketing-cambridge-alevel-business"
+  - qualification: "a-level"
+    topic: "marketing-as-cambridge-alevel-business"
+    subtopic: "market-research-cambridge-alevel-business"
+  - qualification: "a-level"
+    topic: "marketing-as-cambridge-alevel-business"
+    subtopic: "the-marketing-mix-cambridge-alevel-business"
 description: "Practice questions with worked answers on market orientation, segmentation, research and the marketing mix for Cambridge AS & A Level Business 9609 Topic 3."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

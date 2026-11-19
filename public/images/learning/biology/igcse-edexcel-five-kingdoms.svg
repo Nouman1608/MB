@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1206" viewBox="0 0 1800 2412" role="img" aria-labelledby="title desc"><title id="title">Five kingdoms and viruses (Edexcel International GCSE Biology)</title><desc id="desc">Six panels. Animal: many cells, no cell wall, feeds by ingestion. Plant: many cells, cellulose wall, photosynthesis for food. Fungus: chitin cell wall, thread-like hyphae, secretes enzymes and absorbs. Prokaryote: no nucleus, DNA free in the cytoplasm, for example bacteria. Protoctist: mostly single-celled, not clearly animal, plant or fungus. Virus, in a dashed panel: not in any kingdom; a protein coat and genetic material only. No tier labels: these groups are 4BI1 statements 1.2 to 1.4, on both papers.</desc><rect width="1800" height="2412" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="88" font-size="68" font-weight="700" fill="#1E2B47" text-anchor="middle">Five kingdoms and viruses</text>
+<text x="900" y="164" font-size="44" fill="#4B5B72" text-anchor="middle">Defining features of each</text>
+<rect x="60" y="340" width="820" height="660" rx="28" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<text x="470" y="724" font-size="56" font-weight="700" fill="#2F6B63" text-anchor="middle">Animal</text>
+<text x="470" y="800" font-size="46" fill="#1E2B47" text-anchor="middle">Many cells, no cell wall</text>
+<text x="470" y="868" font-size="46" fill="#1E2B47" text-anchor="middle">Feeds by ingestion</text>
+<rect x="920" y="340" width="820" height="660" rx="28" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<text x="1330" y="724" font-size="56" font-weight="700" fill="#2F6B63" text-anchor="middle">Plant</text>
+<text x="1330" y="800" font-size="46" fill="#1E2B47" text-anchor="middle">Many cells, cellulose wall</text>
+<text x="1330" y="868" font-size="46" fill="#1E2B47" text-anchor="middle">Photosynthesis for food</text>
+<rect x="60" y="1028" width="820" height="660" rx="28" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<text x="470" y="1412" font-size="56" font-weight="700" fill="#2F6B63" text-anchor="middle">Fungus</text>
+<text x="470" y="1488" font-size="46" fill="#1E2B47" text-anchor="middle">Chitin cell wall</text>
+<text x="470" y="1556" font-size="46" fill="#1E2B47" text-anchor="middle">Thread-like hyphae</text>
+<text x="470" y="1624" font-size="46" fill="#1E2B47" text-anchor="middle">Secretes enzymes, absorbs</text>
+<rect x="920" y="1028" width="820" height="660" rx="28" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<text x="1330" y="1412" font-size="56" font-weight="700" fill="#2F6B63" text-anchor="middle">Prokaryote</text>
+<text x="1330" y="1488" font-size="46" fill="#1E2B47" text-anchor="middle">No nucleus</text>
+<text x="1330" y="1556" font-size="46" fill="#1E2B47" text-anchor="middle">DNA free in cytoplasm</text>
+<text x="1330" y="1624" font-size="46" fill="#1E2B47" text-anchor="middle">e.g. bacteria</text>
+<rect x="60" y="1716" width="820" height="660" rx="28" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<text x="470" y="2100" font-size="56" font-weight="700" fill="#2F6B63" text-anchor="middle">Protoctist</text>
+<text x="470" y="2176" font-size="46" fill="#1E2B47" text-anchor="middle">Mostly single-celled</text>
+<text x="470" y="2244" font-size="46" fill="#1E2B47" text-anchor="middle">Not clearly animal,</text>
+<text x="470" y="2312" font-size="46" fill="#1E2B47" text-anchor="middle">plant or fungus</text>
+<rect x="920" y="1716" width="820" height="660" rx="28" fill="#F2F5F5" stroke="#1E2B47" stroke-width="5" stroke-dasharray="18 12"/>
+<text x="1330" y="2100" font-size="56" font-weight="700" fill="#B9632F" text-anchor="middle">Virus</text>
+<text x="1330" y="2176" font-size="42" font-weight="700" fill="#B9632F" text-anchor="middle">not in any kingdom</text>
+<text x="1330" y="2244" font-size="46" fill="#1E2B47" text-anchor="middle">Protein coat and</text>
+<text x="1330" y="2312" font-size="46" fill="#1E2B47" text-anchor="middle">genetic material only</text>
+<circle cx="260" cy="520" r="112" fill="#DDEBE8" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="244" cy="528" r="36" fill="#B5D4CF" stroke="#1E2B47" stroke-width="4"/>
+<line x1="346" y1="446" x2="470" y2="458" stroke="#4B5B72" stroke-width="4" stroke-linecap="round"/>
+<circle cx="346" cy="446" r="9" fill="#4B5B72"/>
+<text x="488" y="466" font-size="42" fill="#4B5B72">no cell wall</text>
+<rect x="990" y="410" width="260" height="218" rx="24" fill="#DDEBE8" stroke="#2F6B63" stroke-width="14"/>
+<rect x="1030" y="450" width="106" height="136" rx="14" fill="#D2E5EC" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="1192" cy="486" r="24" fill="#B5D4CF" stroke="#1E2B47" stroke-width="4"/>
+<ellipse cx="1192" cy="566" rx="28" ry="16" fill="#6FAAA3" stroke="#1E2B47" stroke-width="4"/>
+<line x1="1244" y1="460" x2="1336" y2="456" stroke="#4B5B72" stroke-width="4" stroke-linecap="round"/>
+<circle cx="1244" cy="460" r="9" fill="#4B5B72"/>
+<text x="1348" y="466" font-size="42" fill="#4B5B72">cell wall</text>
+<path d="M120 1236 C180 1180 260 1166 310 1196 C360 1226 380 1240 410 1180" fill="none" stroke="#1E2B47" stroke-width="26" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M120 1236 C180 1180 260 1166 310 1196 C360 1226 380 1240 410 1180" fill="none" stroke="#F2E6B7" stroke-width="14" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M290 1094 C240 1110 200 1160 210 1196 C220 1236 280 1290 330 1314" fill="none" stroke="#1E2B47" stroke-width="26" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M290 1094 C240 1110 200 1160 210 1196 C220 1236 280 1290 330 1314" fill="none" stroke="#F2E6B7" stroke-width="14" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="290" y1="1094" x2="470" y2="1144" stroke="#4B5B72" stroke-width="4" stroke-linecap="round"/>
+<circle cx="290" cy="1094" r="9" fill="#4B5B72"/>
+<text x="488" y="1154" font-size="42" fill="#4B5B72">hyphae</text>
+<rect x="996" y="1142" width="244" height="126" rx="62" fill="#DDEBE8" stroke="#1E2B47" stroke-width="5"/>
+<path d="M1050.0 1206.0L1053.0 1200.2L1056.0 1194.9L1059.0 1190.5L1062.0 1187.5L1065.0 1186.1L1068.0 1186.4L1071.0 1188.4L1074.0 1191.9L1077.0 1196.6L1080.0 1202.1L1083.0 1208.0L1086.0 1213.7L1089.0 1218.7L1092.0 1222.6L1095.0 1225.1L1098.0 1226.0L1101.0 1225.1L1104.0 1222.6L1107.0 1218.7L1110.0 1213.7L1113.0 1208.0L1116.0 1202.1L1119.0 1196.6L1122.0 1191.9L1125.0 1188.4L1128.0 1186.4L1131.0 1186.1L1134.0 1187.5L1137.0 1190.5L1140.0 1194.9L1143.0 1200.2L1146.0 1206.0L1149.0 1211.8L1152.0 1217.1L1155.0 1221.5L1158.0 1224.5L1161.0 1225.9L1164.0 1225.6L1167.0 1223.6L1170.0 1220.1L1173.0 1215.4L1176.0 1209.9L1179.0 1204.0" fill="none" stroke="#2F6B63" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="1160" y1="1196" x2="1340" y2="1166" stroke="#4B5B72" stroke-width="4" stroke-linecap="round"/>
+<circle cx="1160" cy="1196" r="9" fill="#4B5B72"/>
+<text x="1348" y="1172" font-size="42" fill="#4B5B72">DNA, no</text>
+<text x="1348" y="1226" font-size="42" fill="#4B5B72">nucleus</text>
+<path d="M170 1810 C200 1770 300 1770 330 1800 C380 1800 380 1860 370 1890 C380 1940 340 1980 290 1970 C250 1990 180 1980 170 1940 C140 1920 140 1860 170 1840 Z" fill="#DDEBE8" stroke="#1E2B47" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="266" cy="1888" r="28" fill="#B5D4CF" stroke="#1E2B47" stroke-width="4"/>
+<line x1="270" y1="1884" x2="470" y2="1830" stroke="#4B5B72" stroke-width="4" stroke-linecap="round"/>
+<circle cx="270" cy="1884" r="9" fill="#4B5B72"/>
+<text x="488" y="1838" font-size="42" fill="#4B5B72">nucleus</text>
+<line x1="1120" y1="1806" x2="1120" y2="1756" stroke="#1E2B47" stroke-width="5" stroke-linecap="round"/>
+<circle cx="1120" cy="1756" r="10" fill="#1E2B47"/>
+<line x1="1206.6" y1="1856" x2="1249.9" y2="1831" stroke="#1E2B47" stroke-width="5" stroke-linecap="round"/>
+<circle cx="1249.9" cy="1831" r="10" fill="#1E2B47"/>
+<line x1="1206.6" y1="1956" x2="1249.9" y2="1981" stroke="#1E2B47" stroke-width="5" stroke-linecap="round"/>
+<circle cx="1249.9" cy="1981" r="10" fill="#1E2B47"/>
+<line x1="1120" y1="2006" x2="1120" y2="2056" stroke="#1E2B47" stroke-width="5" stroke-linecap="round"/>
+<circle cx="1120" cy="2056" r="10" fill="#1E2B47"/>
+<line x1="1033.4" y1="1956" x2="990.1" y2="1981" stroke="#1E2B47" stroke-width="5" stroke-linecap="round"/>
+<circle cx="990.1" cy="1981" r="10" fill="#1E2B47"/>
+<line x1="1033.4" y1="1856" x2="990.1" y2="1831" stroke="#1E2B47" stroke-width="5" stroke-linecap="round"/>
+<circle cx="990.1" cy="1831" r="10" fill="#1E2B47"/>
+<polygon points="1120,1806 1206.6,1856 1206.6,1956 1120,2006 1033.4,1956 1033.4,1856" fill="#DDEBE8" stroke="#1E2B47" stroke-width="8" stroke-linejoin="round"/>
+<path d="M1074.0 1910.0L1077.0 1903.1L1080.0 1897.3L1083.0 1893.4L1086.0 1892.0L1089.0 1893.4L1092.0 1897.3L1095.0 1903.1L1098.0 1910.0L1101.0 1916.9L1104.0 1922.7L1107.0 1926.6L1110.0 1928.0L1113.0 1926.6L1116.0 1922.7L1119.0 1916.9L1122.0 1910.0L1125.0 1903.1L1128.0 1897.3L1131.0 1893.4L1134.0 1892.0L1137.0 1893.4L1140.0 1897.3L1143.0 1903.1L1146.0 1910.0L1149.0 1916.9L1152.0 1922.7L1155.0 1926.6L1158.0 1928.0L1161.0 1926.6L1164.0 1922.7L1167.0 1916.9L1170.0 1910.0" fill="none" stroke="#8A6A0C" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="1222" y1="1840" x2="1336" y2="1806" stroke="#4B5B72" stroke-width="4" stroke-linecap="round"/>
+<circle cx="1222" cy="1840" r="9" fill="#4B5B72"/>
+<text x="1348" y="1812" font-size="42" fill="#4B5B72">protein coat</text>
+<text x="1348" y="1866" font-size="42" fill="#4B5B72">on outside</text></g></svg>

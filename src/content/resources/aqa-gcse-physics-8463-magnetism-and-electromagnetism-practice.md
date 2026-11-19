@@ -13,8 +13,6 @@ order: 7
 syllabusTopics:
   - qualification: "gcse"
     topic: "magnetism-and-electromagnetism-aqa-gcse"
-  - qualification: "gcse"
-    topic: "magnetism-and-electromagnetism-aqa-gcse"
     subtopic: "permanent-and-induced-magnetism"
   - qualification: "gcse"
     topic: "magnetism-and-electromagnetism-aqa-gcse"

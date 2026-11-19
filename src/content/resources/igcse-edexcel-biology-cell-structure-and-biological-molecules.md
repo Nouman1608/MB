@@ -121,7 +121,7 @@ temperature rises.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--01-enzyme-action.webp" width="900" height="960" alt="Four panels show lipase acting on a fat. The fat, shaped to fit the notch-like active site, approaches, fits, is converted into glycerol and fatty acids, and the products leave while the same enzyme is unchanged." loading="lazy">
+  <img src="/images/learning/biology/igcse-shared-intl-enzyme-action.svg" width="900" height="960" alt="Four panels show lipase acting on a fat. The fat, shaped to fit the notch-like active site, approaches, fits, is converted into glycerol and fatty acids, and the products leave while the same enzyme is unchanged. The term enzyme-substrate complex is greyed as not required." loading="lazy">
   <figcaption>The substrate fits the active site, products form and leave, and the enzyme is unchanged.</figcaption>
 </figure>
 
@@ -238,7 +238,7 @@ Pearson Edexcel International GCSE Biology (4BI1) specification, Issue 3
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-enzymes--06-ph-graph.webp" width="900" height="1000" alt="Sketch graph of enzyme activity against pH 0 to 14. Pepsin peaks in acidic conditions, trypsin in alkaline conditions; each falls on both sides of its optimum and is denatured far from it. Below, three small pictures (Extended) show the substrate fitting at the optimum, fitting less well when pH moves away, and not fitting at extreme pH." loading="lazy">
+  <img src="/images/learning/biology/gcse-shared-enzyme-ph-graph.svg" width="900" height="1000" alt="Sketch graph of enzyme activity against pH 0 to 14. Pepsin peaks in acidic conditions, trypsin in alkaline conditions; each falls on both sides of its optimum and is denatured far from it. Below, three small pictures show the substrate fitting at the optimum, fitting less well when pH moves away, and not fitting at extreme pH." loading="lazy">
   <figcaption>Each enzyme has its own optimum pH; away from it the active site changes shape.</figcaption>
 </figure>
 

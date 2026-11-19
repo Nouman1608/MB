@@ -9,6 +9,15 @@ qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Design"]
 syllabusSeries: "From 2014"
 order: 2
+syllabusTopics:
+  - qualification: "ib-myp"
+    topic: "ib-myp-design-key-concepts"
+  - qualification: "ib-myp"
+    topic: "ib-myp-design-related-concepts"
+  - qualification: "ib-myp"
+    topic: "ib-myp-design-global-contexts"
+  - qualification: "ib-myp"
+    topic: "ib-myp-design-assessment-criteria"
 description: "The IB MYP Design framework: the design cycle, key and related concepts, the four assessment criteria A to D, teaching hours and how the ePortfolio works."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"

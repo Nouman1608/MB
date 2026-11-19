@@ -6,6 +6,7 @@ level: ["ib"]
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Geography"]
+syllabusSeries: "First assessments 2019"
 order: 1
 description: "Condensed recall notes on the assessment structure at SL and HL -- papers, weightings, timings and the fieldwork investigation -- for IB Diploma Programme Geography."
 author: "marlbridge-academic-team"

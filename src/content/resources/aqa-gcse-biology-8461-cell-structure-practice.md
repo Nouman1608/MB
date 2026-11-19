@@ -13,8 +13,6 @@ order: 1
 syllabusTopics:
   - qualification: "gcse"
     topic: "cell-biology-aqa-gcse-biology"
-  - qualification: "gcse"
-    topic: "cell-biology-aqa-gcse-biology"
     subtopic: "cell-structure-aqa-gcse-biology"
 description: "Twelve AQA GCSE Biology 8461 cell structure questions on organelles, microscopy maths, specialised cells and culturing bacteria, with mark schemes."
 author: "marlbridge-academic-team"

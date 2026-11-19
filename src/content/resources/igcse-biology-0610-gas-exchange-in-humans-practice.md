@@ -13,8 +13,6 @@ order: 11
 syllabusTopics:
   - qualification: "igcse"
     topic: "gas-exchange-in-humans-cambridge-igcse-biology"
-  - qualification: "igcse"
-    topic: "gas-exchange-in-humans-cambridge-igcse-biology"
     subtopic: "gas-exchange-in-humans-cambridge-igcse-biology"
 description: "Twelve original gas exchange questions with fully worked, mark-by-mark answers and Core or Extended labels, for Cambridge IGCSE Biology 0610."
 author: "marlbridge-academic-team"

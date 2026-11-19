@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="630" viewBox="0 0 1800 1260" role="img" aria-labelledby="title desc"><title id="title">Relative formula mass of calcium carbonate</title><desc id="desc">No tier label: calculating relative formula mass is on both Edexcel International GCSE papers (4CH1 1.26) and OxfordAQA International GCSE Chemistry is not tiered (9202 3.6.2a). CaCO3 has 1 Ca, 1 C and 3 O; a bar splits the mass into Ca 40, C 12 and three O at 16 each. Mr = 40 + 12 + (3 × 16) = 100. For an ionic compound this is called the relative formula mass.</desc><rect width="1800" height="1260" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="92" font-size="64" font-weight="700" fill="#1E2B47" text-anchor="middle" xml:space="preserve"><tspan>Adding up masses: M</tspan><tspan dy="17.9" font-size="43.5">r</tspan><tspan dy="-17.9"> of CaCO</tspan><tspan dy="17.9" font-size="43.5">3</tspan></text>
+<text x="900" y="174" font-size="42" fill="#4B5B72" text-anchor="middle" xml:space="preserve"><tspan>M</tspan><tspan dy="11.8" font-size="28.6">r</tspan><tspan dy="-11.8"> = sum of the A</tspan><tspan dy="11.8" font-size="28.6">r</tspan><tspan dy="-11.8"> values</tspan></text>
+<rect x="60" y="320" width="1680" height="880" rx="24" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<text x="100" y="446" font-size="42" font-weight="700" fill="#1E2B47" xml:space="preserve"><tspan>CaCO</tspan><tspan dy="11.8" font-size="28.6">3</tspan><tspan dy="-11.8">: 1 Ca, 1 C, 3 O</tspan></text>
+<rect x="100" y="500" width="640" height="300" fill="#B5D4CF" stroke="#1E2B47" stroke-width="6"/>
+<text x="420" y="632" font-size="60" font-weight="700" fill="#1E2B47" text-anchor="middle">Ca</text>
+<text x="420" y="732" font-size="50" font-weight="700" fill="#4B5B72" text-anchor="middle">40</text>
+<rect x="740" y="500" width="192" height="300" fill="#E3ECEE" stroke="#1E2B47" stroke-width="6"/>
+<text x="836" y="632" font-size="60" font-weight="700" fill="#1E2B47" text-anchor="middle">C</text>
+<text x="836" y="732" font-size="50" font-weight="700" fill="#4B5B72" text-anchor="middle">12</text>
+<rect x="932" y="500" width="256" height="300" fill="#F2E6B7" stroke="#1E2B47" stroke-width="6"/>
+<text x="1060" y="632" font-size="60" font-weight="700" fill="#1E2B47" text-anchor="middle">O</text>
+<text x="1060" y="732" font-size="50" font-weight="700" fill="#4B5B72" text-anchor="middle">16</text>
+<rect x="1188" y="500" width="256" height="300" fill="#F2E6B7" stroke="#1E2B47" stroke-width="6"/>
+<text x="1316" y="632" font-size="60" font-weight="700" fill="#1E2B47" text-anchor="middle">O</text>
+<text x="1316" y="732" font-size="50" font-weight="700" fill="#4B5B72" text-anchor="middle">16</text>
+<rect x="1444" y="500" width="256" height="300" fill="#F2E6B7" stroke="#1E2B47" stroke-width="6"/>
+<text x="1572" y="632" font-size="60" font-weight="700" fill="#1E2B47" text-anchor="middle">O</text>
+<text x="1572" y="732" font-size="50" font-weight="700" fill="#4B5B72" text-anchor="middle">16</text>
+<path d="M100 846 V872 H1700 V846" fill="none" stroke="#1E2B47" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="900" y="978" font-size="64" font-weight="700" fill="#2F6B63" text-anchor="middle" xml:space="preserve"><tspan>M</tspan><tspan dy="17.9" font-size="43.5">r</tspan><tspan dy="-17.9"> = 40 + 12 + (3 × 16) = 100</tspan></text>
+<text x="900" y="1066" font-size="42" fill="#4B5B72" text-anchor="middle">Ionic compound: called relative formula mass</text></g></svg>

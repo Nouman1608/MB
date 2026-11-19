@@ -14,8 +14,6 @@ order: 18
 syllabusTopics:
   - qualification: "a-level"
     topic: "classification-biodiversity-and-conservation-cambridge"
-  - qualification: "a-level"
-    topic: "classification-biodiversity-and-conservation-cambridge"
     subtopic: "classification-cambridge-alevel-biology"
   - qualification: "a-level"
     topic: "classification-biodiversity-and-conservation-cambridge"

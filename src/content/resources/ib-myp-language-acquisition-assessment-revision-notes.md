@@ -6,7 +6,13 @@ level: ["ib"]
 boards: ["ib"]
 qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Language Acquisition"]
+syllabusSeries: "From 2020 (first eAssessment May 2023/November 2023)"
 order: 1
+syllabusTopics:
+  - qualification: "ib-myp"
+    topic: "ib-myp-language-acquisition-assessment-criteria"
+  - qualification: "ib-myp"
+    topic: "ib-myp-language-acquisition-eassessment-structure"
 description: "Condensed recall notes on the four assessment criteria, proficiency phases and eAssessment structure for IB Middle Years Programme Language Acquisition."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"

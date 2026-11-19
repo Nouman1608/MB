@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1180" viewBox="0 0 1800 2360" role="img" aria-labelledby="title desc"><title id="title">Inside the heart (OxfordAQA International GCSE Biology)</title><desc id="desc">Schematic section of the heart, drawn as if facing the person, so the left side is on the right of the page. Deoxygenated blood enters the right atrium from the vena cava and leaves the right ventricle in the pulmonary artery; oxygenated blood enters the left atrium from the pulmonary vein and leaves the left ventricle in the aorta. Labels show the atrioventricular and semilunar valves, the septum, the thick muscular wall and the coronary artery. No tier labels. The two valve names are greyed with a note that they are not required by OxfordAQA: 9201 3.2.3h says knowledge of the names of the heart valves is not required.</desc><rect width="1800" height="2360" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="88" font-size="68" font-weight="700" fill="#1E2B47" text-anchor="middle">Inside the heart</text>
+<text x="900" y="164" font-size="44" fill="#4B5B72" text-anchor="middle">Schematic section, not to scale</text>
+<text x="60" y="284" font-size="32" fill="#6B7785">Grey: valve names are not required by OxfordAQA</text>
+<path d="M540 680 Q540 600 640 600 H1160 Q1260 600 1260 700 V1100 Q1260 1500 900 1760 Q540 1500 540 1100 Z" fill="#F2E6B7" stroke="#1E2B47" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M582 1070 H876 V1600 C760 1520 620 1380 582 1200 Z" fill="#B5D4CF" stroke="#1E2B47" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M924 1070 H1158 V1150 C1150 1350 1060 1520 924 1620 Z" fill="#F2CDB2" stroke="#1E2B47" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="876" y="1000" width="48" height="650" fill="#F2E6B7" stroke="#1E2B47" stroke-width="5"/>
+<rect x="578" y="690" width="212" height="320" rx="40" fill="#B5D4CF" stroke="#1E2B47" stroke-width="5"/>
+<rect x="1002" y="690" width="216" height="320" rx="40" fill="#F2CDB2" stroke="#1E2B47" stroke-width="5"/>
+<rect x="630" y="428" width="100" height="272" fill="#B5D4CF" stroke="#1E2B47" stroke-width="5"/>
+<rect x="1076" y="430" width="96" height="270" fill="#F2CDB2" stroke="#1E2B47" stroke-width="5"/>
+<rect x="816" y="300" width="72" height="770" fill="#B5D4CF" stroke="#1E2B47" stroke-width="5"/>
+<rect x="912" y="300" width="72" height="770" fill="#F2CDB2" stroke="#1E2B47" stroke-width="5"/>
+<text x="690" y="820" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">Right</text>
+<text x="690" y="876" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">atrium</text>
+<text x="1112" y="820" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">Left</text>
+<text x="1112" y="876" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">atrium</text>
+<text x="746" y="1280" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">Right</text>
+<text x="746" y="1336" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">ventricle</text>
+<text x="1032" y="1216" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">Left</text>
+<text x="1032" y="1272" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">ventricle</text>
+<line x1="596" y1="1040" x2="690" y2="1146" stroke="#1E2B47" stroke-width="12" stroke-linecap="round"/>
+<line x1="770" y1="1146" x2="866" y2="1050" stroke="#1E2B47" stroke-width="12" stroke-linecap="round"/>
+<line x1="940" y1="1040" x2="1000" y2="1136" stroke="#1E2B47" stroke-width="12" stroke-linecap="round"/>
+<line x1="1006" y1="1040" x2="1090" y2="1140" stroke="#1E2B47" stroke-width="12" stroke-linecap="round"/>
+<line x1="806" y1="1052" x2="886" y2="1052" stroke="#1E2B47" stroke-width="12" stroke-linecap="round"/>
+<line x1="914" y1="1052" x2="984" y2="1052" stroke="#1E2B47" stroke-width="12" stroke-linecap="round"/>
+<path d="M984 644 H1240 V960" fill="none" stroke="#B9632F" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="522" y="382" font-size="44" font-weight="700" fill="#1E2B47" text-anchor="end">Pulmonary artery</text>
+<line x1="544" y1="372" x2="816" y2="372" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<circle cx="816" cy="372" r="9" fill="#1E2B47"/>
+<text x="522" y="480" font-size="44" font-weight="700" fill="#1E2B47" text-anchor="end">Vena cava</text>
+<line x1="544" y1="468" x2="632" y2="468" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<circle cx="632" cy="468" r="9" fill="#1E2B47"/>
+<text x="1280" y="382" font-size="44" font-weight="700" fill="#1E2B47">Aorta</text>
+<line x1="1260" y1="372" x2="984" y2="372" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<circle cx="984" cy="372" r="9" fill="#1E2B47"/>
+<text x="1280" y="538" font-size="44" font-weight="700" fill="#1E2B47">Pulmonary vein</text>
+<line x1="1260" y1="526" x2="1176" y2="526" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<circle cx="1176" cy="526" r="9" fill="#1E2B47"/>
+<text x="1280" y="808" font-size="44" font-weight="700" fill="#1E2B47">Coronary artery</text>
+<line x1="1260" y1="796" x2="1240" y2="796" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<circle cx="1240" cy="796" r="9" fill="#1E2B47"/>
+<text x="1300" y="1090" font-size="44" font-weight="700" fill="#6B7785">Semilunar valve</text>
+<line x1="1286" y1="1074" x2="960" y2="1056" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<circle cx="960" cy="1056" r="9" fill="#1E2B47"/>
+<text x="272" y="1190" font-size="44" font-weight="700" fill="#6B7785" text-anchor="middle">Atrioventricular</text>
+<text x="272" y="1246" font-size="44" font-weight="700" fill="#6B7785" text-anchor="middle">valve</text>
+<line x1="500" y1="1196" x2="670" y2="1110" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<circle cx="670" cy="1110" r="9" fill="#1E2B47"/>
+<text x="1300" y="1452" font-size="44" font-weight="700" fill="#1E2B47">Thick wall</text>
+<line x1="1286" y1="1436" x2="1198" y2="1400" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<circle cx="1198" cy="1400" r="9" fill="#1E2B47"/>
+<text x="900" y="1936" font-size="44" font-weight="700" fill="#1E2B47" text-anchor="middle">Septum</text>
+<line x1="900" y1="1890" x2="900" y2="1690" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<circle cx="900" cy="1690" r="9" fill="#1E2B47"/>
+<text x="900" y="2056" font-size="42" fill="#4B5B72" text-anchor="middle">Left side of the heart is on the right of the page</text>
+<text x="900" y="2112" font-size="42" fill="#4B5B72" text-anchor="middle">(as if you face the person)</text>
+<rect x="120" y="2206" width="80" height="52" fill="#B5D4CF" stroke="#1E2B47" stroke-width="4"/>
+<text x="224" y="2248" font-size="44" fill="#1E2B47">deoxygenated</text>
+<rect x="900" y="2206" width="80" height="52" fill="#F2CDB2" stroke="#1E2B47" stroke-width="4"/>
+<text x="1004" y="2248" font-size="44" fill="#1E2B47">oxygenated</text></g></svg>

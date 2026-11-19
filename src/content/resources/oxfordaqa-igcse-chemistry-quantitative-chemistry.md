@@ -71,7 +71,7 @@ magnesium oxide — a ratio you can scale up or down to any actual quantity.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--03-balancing-equations.webp" width="900" height="1130" alt="Molecule pictures show CH4 plus two O2 on the left and CO2 plus two H2O on the right, each side with 1 C, 4 H and 4 O. Only coefficients change. A key shows (s), (l), (g) and (aq)." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-shared-intl-balancing-equations.svg" width="900" height="1130" alt="Molecule pictures show CH4 plus two O2 on the left and CO2 plus two H2O on the right, each side with 1 C, 4 H and 4 O. Only coefficients change. A key shows (s), (l), (g) and (aq)." loading="lazy">
   <figcaption>A balanced equation has the same atoms on both sides; state symbols show the physical state.</figcaption>
 </figure>
 
@@ -90,12 +90,12 @@ relationship used throughout this topic:
 **amount (mol) = mass (g) ÷ molar mass (g mol⁻¹)**
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--04-relative-formula-mass.webp" width="900" height="630" alt="A scaled bar of five blocks: Ca 40, C 12 and three O of 16. Added together, Mr of CaCO3 is 100." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-shared-intl-relative-formula-mass.svg" width="900" height="630" alt="A scaled bar of five blocks: Ca 40, C 12 and three O of 16. Added together, Mr of CaCO3 is 100." loading="lazy">
   <figcaption>Mr is the sum of the Ar values of all atoms in the formula.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--05-mole-map.webp" width="900" height="970" alt="Amount in moles is the hub. Multiply or divide by Mr for mass, by 24 for gas volume at r.t.p., by 6.02 x 10^23 for particles, and divide by volume in dm3 (or multiply) for concentration." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-oxfordaqa-mole-map.svg" width="900" height="970" alt="Amount in moles is the hub. Multiply or divide by Mr for mass, by 24 for gas volume at r.t.p., by 6.02 x 10^23 for particles, and divide by volume in dm3 (or multiply) for concentration." loading="lazy">
   <figcaption>Convert to moles first, then to the quantity you need.</figcaption>
 </figure>
 
@@ -120,7 +120,7 @@ formed = 0.25 mol
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--06-reacting-masses.webp" width="900" height="990" alt="Three steps: 50 g divided by Mr 100 is 0.5 mol; the 1:1 ratio gives 0.5 mol CO2; 0.5 times 24 is 12 dm3 of CO2 at r.t.p." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-oxfordaqa-reacting-masses.svg" width="900" height="990" alt="Three steps: 50 g divided by Mr 100 is 0.5 mol; the 1:1 ratio gives 0.5 mol CO2; 0.5 times 24 is 12 dm3 of CO2 at r.t.p." loading="lazy">
   <figcaption>Mass to moles, use the equation ratio, then moles to gas volume.</figcaption>
 </figure>
 
@@ -148,7 +148,7 @@ amount = concentration × volume = 2.00 × (25.0 ÷ 1000) = **0.0500 mol**
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--07-concentration.webp" width="900" height="980" alt="Four beakers of 250 cm3, each with 0.5 mol, make 1 dm3 holding 2 mol, so concentration is 2 mol/dm3. 250 cm3 divided by 1000 is 0.25 dm3 and 0.5 divided by 0.25 is 2." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-oxfordaqa-concentration.svg" width="900" height="980" alt="Four beakers of 250 cm3, each with 0.5 mol, make 1 dm3 holding 2 mol, so concentration is 2 mol/dm3. 250 cm3 divided by 1000 is 0.25 dm3 and 0.5 divided by 0.25 is 2." loading="lazy">
   <figcaption>Concentration is moles per dm3; convert cm3 to dm3 by dividing by 1000.</figcaption>
 </figure>
 

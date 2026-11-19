@@ -13,6 +13,13 @@ order: 6
 syllabusTopics:
   - qualification: "o-level"
     topic: "international-trade-and-globalisation"
+    subtopic: "globalisation-free-trade-and-protection"
+  - qualification: "o-level"
+    topic: "international-trade-and-globalisation"
+    subtopic: "foreign-exchange-rates"
+  - qualification: "o-level"
+    topic: "international-trade-and-globalisation"
+    subtopic: "current-account-of-balance-of-payments"
 description: "Practice questions with answers on the current account, remittances, exchange rates, total demand and multinationals, for Cambridge O Level Economics 2281."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

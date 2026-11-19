@@ -13,6 +13,10 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "enzymes-cambridge-alevel-biology"
+    subtopic: "mode-of-action-of-enzymes-cambridge-alevel-biology"
+  - qualification: "a-level"
+    topic: "enzymes-cambridge-alevel-biology"
+    subtopic: "factors-that-affect-enzyme-action-cambridge-alevel"
 description: "Original Cambridge 9700 Topic 3 practice questions with worked answers on enzyme action, rate factors, Km, inhibitors and immobilised enzymes."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

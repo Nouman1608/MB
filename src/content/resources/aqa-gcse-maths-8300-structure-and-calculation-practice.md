@@ -13,8 +13,6 @@ order: 1
 syllabusTopics:
   - qualification: "gcse"
     topic: "number-aqa-gcse-maths"
-  - qualification: "gcse"
-    topic: "number-aqa-gcse-maths"
     subtopic: "structure-and-calculation-aqa-gcse-maths"
 description: "Twelve original AQA GCSE Maths 8300 practice questions on 3.1.1 Structure and calculation (N1-N9), with full mark-by-mark answers; Higher parts labelled."
 author: "marlbridge-academic-team"

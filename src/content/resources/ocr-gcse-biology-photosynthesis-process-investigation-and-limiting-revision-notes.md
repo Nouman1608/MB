@@ -60,7 +60,7 @@ These revision notes condense OCR GCSE (9-1) Biology A, Gateway Science (J247), 
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--01-photosynthesis-inputs-outputs.webp" width="900" height="1290" alt="A leaf takes in light energy, carbon dioxide from the air and water from the roots. Chlorophyll in chloroplasts transfers light energy into chemical energy. The leaf makes glucose and gives out oxygen. Word equation shown; Extended: 6CO2 + 6H2O gives C6H12O6 + 6O2." loading="lazy">
+  <img src="/images/learning/biology/gcse-shared-photosynthesis-inputs-outputs.svg" width="900" height="1290" alt="A leaf takes in light energy, carbon dioxide from the air and water from the roots. Chlorophyll in chloroplasts transfers light energy into chemical energy. The leaf makes glucose and gives out oxygen. Word equation shown; symbol equation: 6CO2 + 6H2O gives C6H12O6 + 6O2." loading="lazy">
   <figcaption>Raw materials go in, glucose and oxygen come out, using light energy absorbed by chlorophyll.</figcaption>
 </figure>
 
@@ -186,7 +186,7 @@ Rate is a compound measure: amount per unit time. Rate = volume (or number) ÷ t
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--07-limiting-factors.webp" width="900" height="1080" alt="Extended. Sketch graph of rate against light intensity for 0.4% and 0.04% CO2 at 25 and 15 C. All curves rise together then level off at different heights, highest for 0.4% and 25 C. Rising part: light limiting. Flat part: not light; for 0.4% CO2 at 15 C the 25 C line is higher so temperature limits." loading="lazy">
+  <img src="/images/learning/biology/gcse-shared-limiting-factors.svg" width="900" height="1080" alt="Higher Tier only. Sketch graph of rate against light intensity for 0.4% and 0.04% CO2 at 25 and 15 C. All curves rise together then level off at different heights, highest for 0.4% and 25 C. Rising part: light limiting. Flat part: not light; for 0.4% CO2 at 15 C the 25 C line is higher so temperature limits." loading="lazy">
   <figcaption>On the flat part another factor, not light, is limiting.</figcaption>
 </figure>
 

@@ -10,6 +10,17 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Mathematics: Analysis and Approaches"]
 syllabusSeries: "First assessment 2021"
 order: 2
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-mathematics-analysis-and-approaches-number-and-algebra"
+  - qualification: "ib-dp"
+    topic: "ib-dp-mathematics-analysis-and-approaches-functions"
+  - qualification: "ib-dp"
+    topic: "ib-dp-mathematics-analysis-and-approaches-geometry-and-trigonometry"
+  - qualification: "ib-dp"
+    topic: "ib-dp-mathematics-analysis-and-approaches-statistics-and-probability"
+  - qualification: "ib-dp"
+    topic: "ib-dp-mathematics-analysis-and-approaches-calculus"
 description: "The five content strands of IB DP Mathematics: Analysis and Approaches, with SL and HL teaching hours, the toolkit, the exploration and paper structure."
 author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"

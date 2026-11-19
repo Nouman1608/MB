@@ -13,8 +13,6 @@ order: 36
 syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-1-cambridge-alevel"
-  - qualification: "a-level"
-    topic: "pure-mathematics-1-cambridge-alevel"
     subtopic: "integration-cambridge-alevel-maths-1"
 description: "11 original Cambridge 9709 Paper 1 integration questions with mark-by-mark answers: definite and improper integrals, areas and volumes of revolution."
 author: "marlbridge-academic-team"

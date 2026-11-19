@@ -13,8 +13,6 @@ order: 21
 syllabusTopics:
   - qualification: "igcse"
     topic: "biotechnology-and-genetic-modification-cambridge-igcse-biology"
-  - qualification: "igcse"
-    topic: "biotechnology-and-genetic-modification-cambridge-igcse-biology"
     subtopic: "biotechnology-and-genetic-modification-cambridge-igcse-biology"
   - qualification: "igcse"
     topic: "biotechnology-and-genetic-modification-cambridge-igcse-biology"

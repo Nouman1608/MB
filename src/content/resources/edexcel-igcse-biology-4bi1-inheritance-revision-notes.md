@@ -74,7 +74,7 @@ Practise with the [Inheritance practice questions](/resources/edexcel-igcse-biol
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-biological-molecules--06-dna-structure.webp" width="900" height="1000" alt="DNA has two strands coiled into a double helix. Each strand carries bases and bonds between paired bases hold the strands together. A always pairs with T and C with G, so strand 1 A T G C C G T A pairs with strand 2 T A C G G C A T." loading="lazy">
+  <img src="/images/learning/biology/igcse-edexcel-dna-structure.svg" width="900" height="1000" alt="DNA has two strands coiled into a double helix. Each strand carries bases and bonds between paired bases hold the strands together. A always pairs with T and C with G, so strand 1 A T G C C G T A pairs with strand 2 T A C G G C A T. The whole figure is marked Paper 2 only." loading="lazy">
   <figcaption>A pairs with T, C pairs with G.</figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ Practise with the [Inheritance practice questions](/resources/edexcel-igcse-biol
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--03-gene-to-protein.webp" width="900" height="1120" alt="Extended. The gene stays in the nucleus; a copy of it, mRNA, is made and moves out through a pore to the cytoplasm; a ribosome joins amino acids in the order set by the mRNA bases; the chain folds into a protein whose shape decides what it does." loading="lazy">
+  <img src="/images/learning/biology/igcse-edexcel-gene-to-protein.svg" width="900" height="1120" alt="Paper 2 only. The gene stays in the nucleus; a copy of it, mRNA, is made and moves out through a pore to the cytoplasm; a ribosome joins amino acids in the order set by the mRNA bases; the chain folds into a protein whose shape decides what it does." loading="lazy">
   <figcaption>mRNA carries the gene’s base sequence to a ribosome, which sets the order of amino acids in the protein.</figcaption>
 </figure>
 
@@ -203,7 +203,7 @@ Practise with the [Inheritance practice questions](/resources/edexcel-igcse-biol
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--04-mitosis-vs-meiosis.webp" width="900" height="1260" alt="Extended. A diploid cell with four chromosomes (two pairs) divides by mitosis into two identical cells with four chromosomes each, or by meiosis into four different cells with two chromosomes each. Fertilisation joins two haploid gametes to restore the diploid number; in humans 23 + 23 = 46." loading="lazy">
+  <img src="/images/learning/biology/igcse-edexcel-mitosis-meiosis.svg" width="900" height="1260" alt="A diploid cell with four chromosomes (two pairs) divides by mitosis into two identical cells with four chromosomes each, or by meiosis into four different cells with two chromosomes each. Fertilisation joins two haploid gametes to restore the diploid number; in humans 23 + 23 = 46." loading="lazy">
   <figcaption>Mitosis keeps the chromosome number; meiosis halves it, and fertilisation restores it.</figcaption>
 </figure>
 
@@ -228,7 +228,7 @@ Practise with the [Inheritance practice questions](/resources/edexcel-igcse-biol
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--02-mutation.webp" width="900" height="1215" alt="Core: mutation is genetic change that forms new alleles; ionising radiation and some chemicals raise its rate. Extended: a gene mutation changes one base in the DNA sequence, which can change the protein shape; sources of variation are mutation, meiosis, random mating and random fertilisation." loading="lazy">
+  <img src="/images/learning/biology/igcse-edexcel-mutation-variation.svg" width="900" height="1215" alt="Mutation is genetic change that forms new alleles; the note that ionising radiation and some chemicals raise its rate is marked Paper 2 only. Middle, Paper 2 only: a gene mutation changes one base in the DNA sequence, which can change the protein shape. Sources of variation are mutation, meiosis and random fertilisation; random mating is greyed as not required by Edexcel." loading="lazy">
   <figcaption>Mutation forms new alleles; radiation and some chemicals raise the rate.</figcaption>
 </figure>
 
@@ -247,7 +247,7 @@ Antibiotic resistance: a random mutation gives resistance → the antibiotic kil
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-variation-and-selection--06-antibiotic-resistance.webp" width="900" height="1190" alt="Five dishes of bacteria: a random mutation makes one bacterium resistant; the antibiotic kills the six non-resistant ones; the survivor has less competition; it reproduces and passes on the allele; a resistant strain forms quickly." loading="lazy">
+  <img src="/images/learning/biology/igcse-edexcel-antibiotic-resistance.svg" width="900" height="1190" alt="Five dishes of bacteria: a random mutation makes one bacterium resistant; the antibiotic kills the six non-resistant ones; the survivor has less competition; it reproduces and passes on the allele; a resistant strain forms quickly." loading="lazy">
   <figcaption>The mutation was already there; the antibiotic selected the resistant bacterium.</figcaption>
 </figure>
 

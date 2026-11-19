@@ -7,7 +7,7 @@ level: ["ib"]
 topic: "Fiscal policy"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: []
+syllabusCodes: ["DP Economics"]
 syllabusSeries: "First assessment 2022"
 order: 314
 syllabusTopics:

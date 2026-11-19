@@ -89,7 +89,7 @@ Answer: **P and S**.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--01-displayed-formula.webp" width="900" height="1120" alt="Ethanol written three ways: molecular formula C2H6O, structural formula CH3CH2OH (Extended), and the displayed formula showing every atom and bond, with labels that carbon has 4 bonds, oxygen 2 and hydrogen 1." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-oxfordaqa-displayed-formula.svg" width="900" height="1120" alt="Ethanol written three ways: molecular formula C2H6O, structural formula CH3CH2OH, and the displayed formula showing every atom and bond, with labels that carbon has 4 bonds, oxygen 2 and hydrogen 1." loading="lazy">
   <figcaption>A displayed formula shows every atom and every bond, unlike molecular or structural formulae.</figcaption>
 </figure>
 
@@ -172,7 +172,7 @@ Oxidation keeps the two-carbon chain. Combustion breaks the molecule down comple
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/alcohols-and-carboxylic-acids--05-ethanol-oxidation.webp" width="900" height="900" alt="Displayed formulae show ethanol losing two hydrogen atoms from the CH2 carbon and gaining a double-bonded oxygen to become ethanoic acid, with water also made. Two ways to do it: acidified potassium manganate(VII) in the lab, and bacteria turning wine or cider into vinegar." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-oxfordaqa-ethanol-oxidation.svg" width="900" height="900" alt="Displayed formulae show ethanol losing two hydrogen atoms from the CH2 carbon and gaining a double-bonded oxygen to become ethanoic acid, with water also made. Two ways to do it: a chemical oxidising agent such as acidified potassium manganate(VII) in the lab, and bacteria turning wine or cider into vinegar." loading="lazy">
   <figcaption>Oxidation adds O and removes H, done by acidified manganate(VII) or by bacteria in vinegar making.</figcaption>
 </figure>
 
@@ -251,7 +251,7 @@ A weak acid is not the same as a dilute acid. "Weak" describes how much the acid
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/acids-bases-and-salts--04-strong-weak-acids.webp" width="900" height="1090" alt="Two boxes of ten acid particles. In hydrochloric acid all ten split into H+ and Cl- ions. In ethanoic acid only two split and eight stay as molecules, so it uses a reversible arrow." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-oxfordaqa-strong-weak-acids.svg" width="900" height="1090" alt="Two boxes of ten acid particles. In hydrochloric acid all ten split into H+ and Cl- ions. In ethanoic acid only two split and eight stay as molecules, so it uses a reversible arrow." loading="lazy">
   <figcaption>Strong acids split completely; weak acids only partly.</figcaption>
 </figure>
 
@@ -296,12 +296,12 @@ You will collect less than this. Because the reaction is reversible it never goe
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/alcohols-and-carboxylic-acids--06-esterification.webp" width="900" height="960" alt="Ethanoic acid and ethanol react with an acid catalyst to make the ester ethyl ethanoate and water. The OH from the acid and the H from the alcohol leave as water. The alcohol supplies the ethyl part of the name and the acid supplies the ethanoate part." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-oxfordaqa-esterification.svg" width="900" height="960" alt="Ethanoic acid and ethanol react with an acid catalyst to make the ester ethyl ethanoate and water. The OH from the acid and the H from the alcohol leave as water. The alcohol supplies the ethyl part of the name and the acid supplies the ethanoate part." loading="lazy">
   <figcaption>An acid and an alcohol with an acid catalyst make an ester and water; ethyl comes from the alcohol, ethanoate from the acid.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--08-ester-naming.webp" width="900" height="920" alt="Ethanol and ethanoic acid give ethyl ethanoate (CH3COOCH2CH3) plus water; ethyl comes from the alcohol, ethanoate from the acid." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-oxfordaqa-ester-naming.svg" width="900" height="920" alt="Ethanol and ethanoic acid give ethyl ethanoate (CH3COOCH2CH3) plus water; ethyl comes from the alcohol, ethanoate from the acid." loading="lazy">
   <figcaption>Ester names combine the alcohol part (-yl) and the acid part (-oate).</figcaption>
 </figure>
 

@@ -14,8 +14,6 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "biological-molecules-cambridge-alevel-biology"
-  - qualification: "a-level"
-    topic: "biological-molecules-cambridge-alevel-biology"
     subtopic: "testing-for-biological-molecules-cambridge-alevel"
 description: "Original Cambridge 9700 practice questions on food tests, dilutions, semi-quantitative Benedict's and non-reducing sugars, with marked answers."
 author: "marlbridge-academic-team"

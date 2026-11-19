@@ -357,7 +357,7 @@ const topicFilters = Object.fromEntries(Object.entries(topicFilterIndex(clientQu
       }
 
       /**
-       * D-104 follow-up -- `questions` used to be `JSON.parse`d synchronously
+       * `questions` used to be `JSON.parse`d synchronously
        * from an inline <script type="application/json"> block embedded in
        * this page's own HTML. It's now fetched from its own cacheable
        * resource (dataUrl, a build-time-generated JSON endpoint -- see
@@ -481,8 +481,8 @@ const topicFilters = Object.fromEntries(Object.entries(topicFilterIndex(clientQu
        * syllabus names, not slugs -- resolved server-side in
        * client-questions.ts). Preserves first-seen order so the mastery
        * list reads in roughly syllabus order rather than alphabetically.
-       * Built by `init()` once `questions` has actually loaded (D-104
-       * follow-up -- was a plain module-init loop before `questions` became
+       * Built by `init()` once `questions` has actually loaded (it
+       * was a plain module-init loop before `questions` became
        * async).
        */
       let allTopics = new Map();
@@ -1071,7 +1071,7 @@ const topicFilters = Object.fromEntries(Object.entries(topicFilterIndex(clientQu
       }
 
       /**
-       * D-104 follow-up -- fetches the question bank from its own cacheable
+       * Fetches the question bank from its own cacheable
        * resource instead of reading it synchronously off the page. `dataUrl`
        * carries a content hash in its query string (see the frontmatter,
        * dataHashFor), so the long `immutable` Cache-Control the endpoint

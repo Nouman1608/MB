@@ -40,6 +40,8 @@ These notes condense topics 2.2 **Demand**, 2.3 **Supply** and 2.5 **The interac
 |---|---|
 | Demand | Quantity consumers are willing and able to buy at each price over a period |
 | Supply | Quantity producers are willing and able to sell at each price over a period |
+| Market demand / market supply | The horizontal sum of individual curves: at each price, add the quantities (never the prices) |
+| Ceteris paribus | "Other things being equal": each curve holds every factor except the good's own price constant, so an own-price change moves along it and any other change shifts it |
 | Extension / contraction | Movement along a curve caused by a change in the good's own price |
 | Increase / decrease | Shift of the whole curve caused by any other factor |
 | Equilibrium | The price at which quantity demanded equals quantity supplied |

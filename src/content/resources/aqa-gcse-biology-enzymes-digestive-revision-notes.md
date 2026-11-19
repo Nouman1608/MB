@@ -69,7 +69,7 @@ Practise naming a **specific example at each level** for an unfamiliar structure
 **"Lock and key" model:** an enzyme's **active site** has a shape complementary to its specific substrate — this explains why an enzyme only acts on one type of substrate.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-human-nutrition--06-enzymes-products.webp" width="900" height="1140" alt="Three rows show a large insoluble molecule, an enzyme, and the small soluble products. Amylase turns starch into simple sugars; protease turns protein into amino acids; lipase turns fat into glycerol and fatty acids. An Extended panel shows amylase turning starch into maltose and maltase, at the lining of the small intestine, turning maltose into glucose." loading="lazy">
+  <img src="/images/learning/biology/gcse-aqa-digestive-enzymes-products.svg" width="900" height="1140" alt="Three rows show a large insoluble molecule, an enzyme, and the small soluble products. Amylase turns starch into simple sugars; protease turns protein into amino acids; lipase turns fat into glycerol and fatty acids. A further panel, beyond the AQA specification, shows amylase turning starch into maltose and maltase, at the lining of the small intestine, turning maltose into glucose." loading="lazy">
   <figcaption>Each enzyme turns one large insoluble molecule into small soluble products.</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Made in the **liver**, stored in the **gall bladder**. Two roles:
 **Bile is NOT an enzyme.** Emulsification is a **physical** change (breaking fat into droplets), not a **chemical** one (breaking bonds within the fat) — a frequently confused distinction.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-human-nutrition--05-physical-digestion.webp" width="900" height="1130" alt="Top: chewing and churning break one large cube of food into eight small cubes; the surface area doubles. Bottom, Extended: bile breaks one large fat droplet into eight small droplets, again doubling the surface area so twice as many lipase molecules can reach the fat. The fat molecules themselves are not changed." loading="lazy">
+  <img src="/images/learning/biology/gcse-aqa-physical-digestion.svg" width="900" height="1130" alt="Top: chewing and churning break one large cube of food into eight small cubes; the surface area doubles. Bottom: bile breaks one large fat droplet into eight small droplets, again doubling the surface area so twice as many lipase molecules can reach the fat. The fat molecules themselves are not changed." loading="lazy">
   <figcaption>Smaller pieces give more surface area for enzymes, and bile does this to fat without changing the molecules.</figcaption>
 </figure>
 

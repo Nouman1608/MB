@@ -60,7 +60,7 @@ What happens, in order:
 Roots and the inside of a potato contain no chloroplasts, so they do not photosynthesise. Say "some plant cells", not "all plant cells".
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--01-photosynthesis-inputs-outputs.webp" width="900" height="1290" alt="A leaf takes in light energy, carbon dioxide from the air and water from the roots. Chlorophyll in chloroplasts transfers light energy into chemical energy. The leaf makes glucose and gives out oxygen. Word equation shown; Extended: 6CO2 + 6H2O gives C6H12O6 + 6O2." loading="lazy">
+  <img src="/images/learning/biology/gcse-shared-photosynthesis-inputs-outputs.svg" width="900" height="1290" alt="A leaf takes in light energy, carbon dioxide from the air and water from the roots. Chlorophyll in chloroplasts transfers light energy into chemical energy. The leaf makes glucose and gives out oxygen. Word equation shown; symbol equation: 6CO2 + 6H2O gives C6H12O6 + 6O2." loading="lazy">
   <figcaption>Raw materials go in, glucose and oxygen come out, using light energy absorbed by chlorophyll.</figcaption>
 </figure>
 
@@ -124,7 +124,7 @@ A student measures the rate of photosynthesis (arbitrary units) at two carbon di
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-plant-nutrition--07-limiting-factors.webp" width="900" height="1080" alt="Extended. Sketch graph of rate against light intensity for 0.4% and 0.04% CO2 at 25 and 15 C. All curves rise together then level off at different heights, highest for 0.4% and 25 C. Rising part: light limiting. Flat part: not light; for 0.4% CO2 at 15 C the 25 C line is higher so temperature limits." loading="lazy">
+  <img src="/images/learning/biology/igcse-shared-intl-limiting-factors.svg" width="900" height="1080" alt="Sketch graph of rate against light intensity for 0.4% and 0.04% CO2 at 25 and 15 C. All curves rise together then level off at different heights, highest for 0.4% and 25 C. Rising part: light limiting. Flat part: not light; for 0.4% CO2 at 15 C the 25 C line is higher so temperature limits." loading="lazy">
   <figcaption>On the flat part another factor, not light, is limiting.</figcaption>
 </figure>
 
@@ -231,7 +231,7 @@ A leafy shoot loses mass as water evaporates. Mass lost in 2 hours:
 Percentage increase from cool still to warm windy = (4.6 − 1.2) ÷ 1.2 × 100 = 283%. Per hour, warm windy air gives 2.3 g. Explanation: warmth speeds evaporation and wind removes the water vapour near the stomata, which keeps the concentration gradient steep.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--05-transpiration-in-leaf.webp" width="900" height="1130" alt="A leaf cross-section. Step 1: water evaporates from the wet surfaces of mesophyll cells into the air spaces. Step 2: water vapour diffuses out through the stomata. Extended step 3: water lost from the leaf is pulled up the xylem. Steps 1 and 2 are Core; step 3 is tagged Extended." loading="lazy">
+  <img src="/images/learning/biology/igcse-oxfordaqa-transpiration-in-leaf.svg" width="900" height="1130" alt="A leaf cross-section. Step 1: water evaporates from the wet surfaces of mesophyll cells into the air spaces. Step 2: water vapour diffuses out through the stomata. Step 3: water lost from the leaf is pulled up the xylem." loading="lazy">
   <figcaption>Water evaporates inside the leaf, then the vapour diffuses out through the stomata.</figcaption>
 </figure>
 
@@ -241,12 +241,12 @@ Percentage increase from cool still to warm windy = (4.6 − 1.2) ÷ 1.2 × 100 
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--06-transpiration-factors.webp" width="900" height="1290" alt="Three side-by-side comparisons of a leaf with copper arrows for water vapour leaving; more arrows mean a faster rate. Warm air gives more than cool air, windy air more than still air, and humid air less than dry air. Explanations (kinetic energy, concentration gradient) are Extended; humidity is Extended." loading="lazy">
+  <img src="/images/learning/biology/igcse-oxfordaqa-transpiration-factors.svg" width="900" height="1290" alt="Three side-by-side comparisons of a leaf with copper arrows for water vapour leaving; more arrows mean a faster rate. Warm air gives more than cool air, windy air more than still air, and humid air less than dry air." loading="lazy">
   <figcaption>Higher temperature and wind speed raise the rate; higher humidity lowers it.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--07-wilting.webp" width="900" height="1150" alt="Extended. With enough water the cells are turgid and push out on their walls, holding leaves up. If water is lost by transpiration faster than it is taken up, cells lose water by osmosis, become flaccid and limp, and the leaves and stem droop: the plant wilts." loading="lazy">
+  <img src="/images/learning/biology/igcse-oxfordaqa-wilting.svg" width="900" height="1150" alt="With enough water the cells are turgid and push out on their walls, holding leaves up. If water is lost by transpiration faster than it is taken up, cells lose water by osmosis, become flaccid and limp, and the leaves and stem droop: the plant wilts." loading="lazy">
   <figcaption>Water loss makes cells flaccid, so the plant droops.</figcaption>
 </figure>
 
@@ -274,12 +274,12 @@ The transpiration stream is the flow of water that enters at the roots, rises th
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--02-xylem-vessel-structure.webp" width="900" height="1130" alt="Extended. A xylem vessel drawn lengthways as a long hollow tube. Thick walls strengthened with lignin stop it collapsing and support the plant. It has no cell contents, so nothing blocks the water. Cells are joined end to end with no cross walls, forming one tube from root to leaf." loading="lazy">
+  <img src="/images/learning/biology/igcse-oxfordaqa-xylem-structure.svg" width="900" height="1130" alt="A xylem vessel drawn lengthways as a long hollow tube. Thick walls strengthened with lignin stop it collapsing and support the plant. It has no cell contents, so nothing blocks the water. Cells are joined end to end with no cross walls, forming one tube from root to leaf." loading="lazy">
   <figcaption>Three features make a xylem vessel a good water pipe.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--08-sources-and-sinks.webp" width="900" height="1290" alt="Extended. A plant diagram: a mature photosynthesising leaf is a source releasing sucrose into the phloem; arrows show it moving up to the shoot tip, along to a fruit and down to roots, which are sinks that use or store it. Below, a young leaf is a sink and becomes a source when mature." loading="lazy">
+  <img src="/images/learning/biology/igcse-oxfordaqa-sources-and-sinks.svg" width="900" height="1290" alt="A plant diagram: a mature photosynthesising leaf is a source releasing sucrose into the phloem; arrows show it moving up to the shoot tip, along to a fruit and down to roots, which are sinks that use or store it. Below, a young leaf is a sink and becomes a source when mature. The terms source and sink, the bottom panel and amino acids in phloem are noted as not required by OxfordAQA." loading="lazy">
   <figcaption>Phloem carries sucrose from sources to sinks, and a leaf can be both at different times.</figcaption>
 </figure>
 

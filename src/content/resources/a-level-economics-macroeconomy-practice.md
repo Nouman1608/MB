@@ -14,6 +14,13 @@ order: 4
 syllabusTopics:
   - qualification: "a-level"
     topic: "the-macroeconomy-as-cambridge-alevel-economics"
+    subtopic: "aggregate-demand-and-aggregate-supply-analysis-cambridge-alevel-economics"
+  - qualification: "a-level"
+    topic: "the-macroeconomy-as-cambridge-alevel-economics"
+    subtopic: "economic-growth-as-cambridge-alevel-economics"
+  - qualification: "a-level"
+    topic: "the-macroeconomy-as-cambridge-alevel-economics"
+    subtopic: "price-stability-cambridge-alevel-economics"
 description: "Cambridge 9708 practice on the macroeconomy: CPI and inflation, deflation and disinflation, aggregate demand and real GDP, with worked answers and tips."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

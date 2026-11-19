@@ -13,8 +13,6 @@ order: 2
 syllabusTopics:
   - qualification: "igcse"
     topic: "inorganic-chemistry-4ch1"
-  - qualification: "igcse"
-    topic: "inorganic-chemistry-4ch1"
     subtopic: "extraction-and-uses-of-metals-4ch1"
 description: "Eleven original questions on metal extraction, steels, alloys and uses of metals for Edexcel IGCSE Chemistry 4CH1, with fully marked answers."
 author: "marlbridge-academic-team"

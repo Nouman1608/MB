@@ -9,6 +9,7 @@ topic: "Criteria A-D applied to real coursework tasks"
 boards: ["ib"]
 qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Individuals and Societies"]
+syllabusSeries: "From 2014"
 order: 4
 syllabusTopics:
   - qualification: "ib-myp"

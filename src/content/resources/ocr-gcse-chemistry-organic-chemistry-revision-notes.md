@@ -79,7 +79,7 @@ H — C — C — O — H
 **C6.2i in one line:** compounds with the same functional group react the same way, whatever the chain length.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--03-homologous-series.webp" width="900" height="1275" alt="Methane to butane drawn as displayed formulae, each one CH2 bigger than the last, with formula from CnH2n+2 and boiling point rising down the series. Extended chips list what members share." loading="lazy">
+  <img src="/images/learning/chemistry/gcse-shared-homologous-series.svg" width="900" height="1275" alt="Methane to butane drawn as displayed formulae, each one CH2 bigger than the last, with formula from CnH2n+2 and boiling point rising down the series. Chips list what members share." loading="lazy">
   <figcaption>Each alkane is one CH2 bigger, following CnH2n+2.</figcaption>
 </figure>
 
@@ -106,7 +106,7 @@ H — C — C — O — H
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/organic-chemistry-formulae-and-naming--01-displayed-formula.webp" width="900" height="1120" alt="Ethanol written three ways: molecular formula C2H6O, structural formula CH3CH2OH (Extended), and the displayed formula showing every atom and bond, with labels that carbon has 4 bonds, oxygen 2 and hydrogen 1." loading="lazy">
+  <img src="/images/learning/chemistry/gcse-ocr-displayed-formula.svg" width="900" height="1120" alt="Ethanol written three ways: molecular formula C2H6O, structural formula CH3CH2OH, and the displayed formula showing every atom and bond, with labels that carbon has 4 bonds, oxygen 2 and hydrogen 1." loading="lazy">
   <figcaption>A displayed formula shows every atom and every bond, unlike molecular or structural formulae.</figcaption>
 </figure>
 

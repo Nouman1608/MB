@@ -13,8 +13,6 @@ order: 10
 syllabusTopics:
   - qualification: "igcse"
     topic: "diseases-and-immunity-cambridge-igcse-biology"
-  - qualification: "igcse"
-    topic: "diseases-and-immunity-cambridge-igcse-biology"
     subtopic: "diseases-and-immunity-cambridge-igcse-biology"
 description: "Twelve original questions with full answers on transmission, defences, vaccination, active and passive immunity and cholera, for Cambridge IGCSE 0610."
 author: "marlbridge-academic-team"
