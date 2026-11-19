@@ -14,8 +14,6 @@ order: 7
 syllabusTopics:
   - qualification: "a-level"
     topic: "ethics-and-ownership"
-  - qualification: "a-level"
-    topic: "ethics-and-ownership"
     subtopic: "ethics-and-ownership-sub"
 description: "Original exam-style questions with model answers on professional ethics, BCS and IEEE, copyright, software licences and the impact of AI for Cambridge AS 9618."
 author: "marlbridge-academic-team"

@@ -13,8 +13,6 @@ order: 5
 syllabusTopics:
   - qualification: "gcse"
     topic: "homeostasis-and-response-aqa-gcse-biology"
-  - qualification: "gcse"
-    topic: "homeostasis-and-response-aqa-gcse-biology"
     subtopic: "homeostasis-aqa-gcse-biology"
   - qualification: "gcse"
     topic: "homeostasis-and-response-aqa-gcse-biology"

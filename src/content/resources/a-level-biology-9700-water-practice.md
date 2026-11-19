@@ -14,8 +14,6 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "biological-molecules-cambridge-alevel-biology"
-  - qualification: "a-level"
-    topic: "biological-molecules-cambridge-alevel-biology"
     subtopic: "water-cambridge-alevel-biology"
 description: "Original 9700 practice questions on hydrogen bonding in water, solvent action, specific heat capacity and latent heat, with fully worked mark schemes."
 author: "marlbridge-academic-team"

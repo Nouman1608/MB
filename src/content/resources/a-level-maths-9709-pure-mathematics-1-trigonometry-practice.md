@@ -13,8 +13,6 @@ order: 33
 syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-1-cambridge-alevel"
-  - qualification: "a-level"
-    topic: "pure-mathematics-1-cambridge-alevel"
     subtopic: "trigonometry-cambridge-alevel-maths-1"
 description: "Original Cambridge 9709 Paper 1 trigonometry questions (section 1.5) with mark-by-mark worked answers and examiner insights on each question."
 author: "marlbridge-academic-team"

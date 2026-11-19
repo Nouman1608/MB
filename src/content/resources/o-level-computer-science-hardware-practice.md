@@ -13,8 +13,6 @@ order: 4
 syllabusTopics:
   - qualification: "o-level"
     topic: "hardware-2210"
-  - qualification: "o-level"
-    topic: "hardware-2210"
     subtopic: "computer-architecture-2210"
   - qualification: "o-level"
     topic: "hardware-2210"

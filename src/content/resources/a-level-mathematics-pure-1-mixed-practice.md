@@ -13,8 +13,6 @@ order: 1.5
 syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-1-cambridge-alevel"
-  - qualification: "a-level"
-    topic: "pure-mathematics-1-cambridge-alevel"
     subtopic: "quadratics-cambridge-alevel-maths"
   - qualification: "a-level"
     topic: "pure-mathematics-1-cambridge-alevel"

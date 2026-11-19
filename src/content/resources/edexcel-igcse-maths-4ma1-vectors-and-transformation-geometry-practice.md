@@ -13,8 +13,6 @@ order: 5
 syllabusTopics:
   - qualification: "igcse"
     topic: "vectors-and-transformation-geometry-edexcel-igcse-maths"
-  - qualification: "igcse"
-    topic: "vectors-and-transformation-geometry-edexcel-igcse-maths"
     subtopic: "vectors-edexcel-igcse-maths"
   - qualification: "igcse"
     topic: "vectors-and-transformation-geometry-edexcel-igcse-maths"

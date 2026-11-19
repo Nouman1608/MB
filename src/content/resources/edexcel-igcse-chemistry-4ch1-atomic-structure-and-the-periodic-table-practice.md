@@ -13,8 +13,6 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "principles-of-chemistry-4ch1"
-  - qualification: "igcse"
-    topic: "principles-of-chemistry-4ch1"
     subtopic: "atomic-structure-4ch1"
   - qualification: "igcse"
     topic: "principles-of-chemistry-4ch1"

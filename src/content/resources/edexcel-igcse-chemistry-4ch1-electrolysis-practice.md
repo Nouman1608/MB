@@ -13,8 +13,6 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "principles-of-chemistry-4ch1"
-  - qualification: "igcse"
-    topic: "principles-of-chemistry-4ch1"
     subtopic: "electrolysis-4ch1"
 description: "Eleven original electrolysis questions for Edexcel IGCSE Chemistry 4CH1, from conduction to half-equations and product calculations, with marked answers."
 author: "marlbridge-academic-team"

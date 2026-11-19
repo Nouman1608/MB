@@ -14,8 +14,6 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "biological-molecules-cambridge-alevel-biology"
-  - qualification: "a-level"
-    topic: "biological-molecules-cambridge-alevel-biology"
     subtopic: "carbohydrates-and-lipids-cambridge-alevel-biology"
 description: "Original 9700 practice questions on glucose, glycosidic bonds, polysaccharides, triglycerides and phospholipids, with fully worked mark schemes."
 author: "marlbridge-academic-team"

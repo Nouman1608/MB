@@ -14,6 +14,13 @@ order: 16
 syllabusTopics:
   - qualification: "a-level"
     topic: "inheritance-cambridge-alevel-biology"
+    subtopic: "passage-of-information-from-parents-to-offspring-cambridge"
+  - qualification: "a-level"
+    topic: "inheritance-cambridge-alevel-biology"
+    subtopic: "the-roles-of-genes-in-determining-the-phenotype-cambridge"
+  - qualification: "a-level"
+    topic: "inheritance-cambridge-alevel-biology"
+    subtopic: "gene-control-cambridge-alevel-biology"
 description: "Original Cambridge 9700 questions with worked answers on multiple alleles, codominance, sex linkage, chi-squared, albinism and DELLA proteins."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

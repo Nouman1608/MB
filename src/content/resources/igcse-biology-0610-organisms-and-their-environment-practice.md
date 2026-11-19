@@ -13,8 +13,6 @@ order: 19
 syllabusTopics:
   - qualification: "igcse"
     topic: "organisms-and-their-environment-cambridge-igcse-biology"
-  - qualification: "igcse"
-    topic: "organisms-and-their-environment-cambridge-igcse-biology"
     subtopic: "energy-flow-cambridge-igcse-biology"
   - qualification: "igcse"
     topic: "organisms-and-their-environment-cambridge-igcse-biology"

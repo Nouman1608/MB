@@ -14,6 +14,10 @@ order: 8
 syllabusTopics:
   - qualification: "a-level"
     topic: "marketing-a-cambridge-alevel-business"
+    subtopic: "marketing-analysis-cambridge-alevel-business"
+  - qualification: "a-level"
+    topic: "marketing-a-cambridge-alevel-business"
+    subtopic: "marketing-strategy-cambridge-alevel-business"
 description: "Worked practice questions on moving averages, seasonal variation, forecasting, correlation, cross elasticity and global marketing for Cambridge 9609 Business."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

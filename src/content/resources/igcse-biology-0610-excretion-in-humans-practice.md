@@ -13,8 +13,6 @@ order: 13
 syllabusTopics:
   - qualification: "igcse"
     topic: "excretion-in-humans-cambridge-igcse-biology"
-  - qualification: "igcse"
-    topic: "excretion-in-humans-cambridge-igcse-biology"
     subtopic: "excretion-in-humans-cambridge-igcse-biology"
 description: "Eleven original excretion questions for Cambridge IGCSE Biology 0610, from the urinary system to the nephron and deamination, with marked answers."
 author: "marlbridge-academic-team"

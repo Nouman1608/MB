@@ -14,8 +14,6 @@ order: 16
 syllabusTopics:
   - qualification: "a-level"
     topic: "inheritance-cambridge-alevel-biology"
-  - qualification: "a-level"
-    topic: "inheritance-cambridge-alevel-biology"
     subtopic: "passage-of-information-from-parents-to-offspring-cambridge"
   - qualification: "a-level"
     topic: "inheritance-cambridge-alevel-biology"

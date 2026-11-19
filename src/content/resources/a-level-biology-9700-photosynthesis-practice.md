@@ -14,8 +14,6 @@ order: 13
 syllabusTopics:
   - qualification: "a-level"
     topic: "photosynthesis-cambridge-alevel-biology"
-  - qualification: "a-level"
-    topic: "photosynthesis-cambridge-alevel-biology"
     subtopic: "photosynthesis-as-an-energy-transfer-process-cambridge"
   - qualification: "a-level"
     topic: "photosynthesis-cambridge-alevel-biology"

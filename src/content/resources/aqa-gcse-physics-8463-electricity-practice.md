@@ -13,8 +13,6 @@ order: 2
 syllabusTopics:
   - qualification: "gcse"
     topic: "electricity-aqa-gcse"
-  - qualification: "gcse"
-    topic: "electricity-aqa-gcse"
     subtopic: "current-potential-difference-and-resistance-aqa"
   - qualification: "gcse"
     topic: "electricity-aqa-gcse"

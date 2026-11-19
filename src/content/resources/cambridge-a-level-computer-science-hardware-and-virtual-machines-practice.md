@@ -14,8 +14,6 @@ order: 15
 syllabusTopics:
   - qualification: "a-level"
     topic: "hardware-and-virtual-machines"
-  - qualification: "a-level"
-    topic: "hardware-and-virtual-machines"
     subtopic: "processors-parallel-processing-and-virtual-machines"
   - qualification: "a-level"
     topic: "hardware-and-virtual-machines"

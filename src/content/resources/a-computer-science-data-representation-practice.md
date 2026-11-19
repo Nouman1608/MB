@@ -14,8 +14,6 @@ stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "information-representation"
-  - qualification: "a-level"
-    topic: "information-representation"
     subtopic: "data-representation"
   - qualification: "a-level"
     topic: "information-representation"

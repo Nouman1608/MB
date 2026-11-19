@@ -13,8 +13,6 @@ order: 1
 syllabusTopics:
   - qualification: "gcse"
     topic: "atomic-structure-and-the-periodic-table-8462"
-  - qualification: "gcse"
-    topic: "atomic-structure-and-the-periodic-table-8462"
     subtopic: "atomic-structure-8462"
 description: "Twelve original AQA GCSE Chemistry 8462 questions on spec 4.1.1: formulae, equations, mixtures, atomic models, isotopes and Ar, with marked answers."
 author: "marlbridge-academic-team"

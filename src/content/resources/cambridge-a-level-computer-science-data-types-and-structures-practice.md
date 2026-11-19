@@ -14,8 +14,6 @@ order: 10
 syllabusTopics:
   - qualification: "a-level"
     topic: "data-types-and-structures"
-  - qualification: "a-level"
-    topic: "data-types-and-structures"
     subtopic: "data-types-and-records"
   - qualification: "a-level"
     topic: "data-types-and-structures"

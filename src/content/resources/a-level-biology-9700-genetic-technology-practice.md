@@ -14,8 +14,6 @@ order: 19
 syllabusTopics:
   - qualification: "a-level"
     topic: "genetic-technology-cambridge-alevel-biology"
-  - qualification: "a-level"
-    topic: "genetic-technology-cambridge-alevel-biology"
     subtopic: "principles-of-genetic-technology-cambridge-alevel"
   - qualification: "a-level"
     topic: "genetic-technology-cambridge-alevel-biology"

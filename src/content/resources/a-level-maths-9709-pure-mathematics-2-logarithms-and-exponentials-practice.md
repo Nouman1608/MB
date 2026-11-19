@@ -13,8 +13,6 @@ order: 38
 syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-2-cambridge-alevel"
-  - qualification: "a-level"
-    topic: "pure-mathematics-2-cambridge-alevel"
     subtopic: "logarithmic-and-exponential-functions-cambridge-2"
 description: "12 original Cambridge 9709 Paper 2 questions on logarithms and exponentials, with mark-by-mark worked answers and an examiner insight for each."
 author: "marlbridge-academic-team"

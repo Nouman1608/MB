@@ -13,8 +13,6 @@ order: 2
 syllabusTopics:
   - qualification: "igcse"
     topic: "algebra-and-graphs-cambridge-igcse-maths"
-  - qualification: "igcse"
-    topic: "algebra-and-graphs-cambridge-igcse-maths"
     subtopic: "graphs-in-practical-situations-cambridge-igcse-maths"
 description: "Original questions with marked worked answers on conversion, travel and speed-time graphs, tangents and area under a graph for Cambridge IGCSE Maths 0580."
 author: "marlbridge-academic-team"

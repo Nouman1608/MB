@@ -14,8 +14,6 @@ order: 13
 syllabusTopics:
   - qualification: "a-level"
     topic: "a-data-representation"
-  - qualification: "a-level"
-    topic: "a-data-representation"
     subtopic: "user-defined-data-types"
   - qualification: "a-level"
     topic: "a-data-representation"

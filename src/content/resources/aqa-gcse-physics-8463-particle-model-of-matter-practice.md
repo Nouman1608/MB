@@ -13,8 +13,6 @@ order: 3
 syllabusTopics:
   - qualification: "gcse"
     topic: "particle-model-of-matter-aqa-gcse"
-  - qualification: "gcse"
-    topic: "particle-model-of-matter-aqa-gcse"
     subtopic: "changes-of-state-and-the-particle-model"
   - qualification: "gcse"
     topic: "particle-model-of-matter-aqa-gcse"

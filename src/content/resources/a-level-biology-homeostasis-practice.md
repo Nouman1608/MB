@@ -14,6 +14,10 @@ order: 14
 syllabusTopics:
   - qualification: "a-level"
     topic: "homeostasis-cambridge-alevel-biology"
+    subtopic: "homeostasis-in-mammals-cambridge-alevel-biology"
+  - qualification: "a-level"
+    topic: "homeostasis-cambridge-alevel-biology"
+    subtopic: "homeostasis-in-plants-cambridge-alevel-biology"
 description: "Original Cambridge 9700 questions with worked answers on ADH and aquaporins, urine flow, glucagon and negative feedback, biosensors and ABA in stomata."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

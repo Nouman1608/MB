@@ -14,8 +14,6 @@ order: 3
 syllabusTopics:
   - qualification: "a-level"
     topic: "enzymes-cambridge-alevel-biology"
-  - qualification: "a-level"
-    topic: "enzymes-cambridge-alevel-biology"
     subtopic: "mode-of-action-of-enzymes-cambridge-alevel-biology"
 description: "Eleven original 9700 section 3.1 questions with marked answers: activation energy, induced fit, catalase and amylase rates, and colorimetry."
 author: "marlbridge-academic-team"

@@ -13,8 +13,6 @@ order: 8
 syllabusTopics:
   - qualification: "gcse"
     topic: "space-physics-aqa-gcse"
-  - qualification: "gcse"
-    topic: "space-physics-aqa-gcse"
     subtopic: "solar-system-orbital-motions-satellites"
   - qualification: "gcse"
     topic: "space-physics-aqa-gcse"

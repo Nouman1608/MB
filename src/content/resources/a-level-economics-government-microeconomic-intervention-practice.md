@@ -14,6 +14,13 @@ order: 5
 syllabusTopics:
   - qualification: "a-level"
     topic: "government-microeconomic-intervention-as-cambridge-alevel-economics"
+    subtopic: "reasons-for-government-intervention-in-markets-cambridge-alevel-economics"
+  - qualification: "a-level"
+    topic: "government-microeconomic-intervention-as-cambridge-alevel-economics"
+    subtopic: "methods-and-effects-of-government-intervention-in-markets-cambridge-alevel-economics"
+  - qualification: "a-level"
+    topic: "government-microeconomic-intervention-as-cambridge-alevel-economics"
+    subtopic: "addressing-income-and-wealth-inequality-cambridge-alevel-economics"
 description: "Cambridge 9708 Topic 3 practice with worked answers: public goods, merit and demerit goods, price controls, buffer stocks and redistributing income."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

@@ -13,8 +13,6 @@ order: 18
 syllabusTopics:
   - qualification: "igcse"
     topic: "variation-and-selection-cambridge-igcse-biology"
-  - qualification: "igcse"
-    topic: "variation-and-selection-cambridge-igcse-biology"
     subtopic: "variation-cambridge-igcse-biology"
   - qualification: "igcse"
     topic: "variation-and-selection-cambridge-igcse-biology"

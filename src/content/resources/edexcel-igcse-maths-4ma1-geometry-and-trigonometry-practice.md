@@ -13,8 +13,6 @@ order: 4
 syllabusTopics:
   - qualification: "igcse"
     topic: "geometry-and-trigonometry-edexcel-igcse-maths"
-  - qualification: "igcse"
-    topic: "geometry-and-trigonometry-edexcel-igcse-maths"
     subtopic: "angles-lines-and-triangles-edexcel-igcse-maths"
   - qualification: "igcse"
     topic: "geometry-and-trigonometry-edexcel-igcse-maths"

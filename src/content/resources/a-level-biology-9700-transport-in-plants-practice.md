@@ -14,8 +14,6 @@ order: 7
 syllabusTopics:
   - qualification: "a-level"
     topic: "transport-in-plants-cambridge-alevel-biology"
-  - qualification: "a-level"
-    topic: "transport-in-plants-cambridge-alevel-biology"
     subtopic: "structure-of-transport-tissues-cambridge-alevel-biology"
   - qualification: "a-level"
     topic: "transport-in-plants-cambridge-alevel-biology"

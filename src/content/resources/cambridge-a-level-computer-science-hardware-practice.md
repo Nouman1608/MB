@@ -14,8 +14,6 @@ order: 3
 syllabusTopics:
   - qualification: "a-level"
     topic: "hardware"
-  - qualification: "a-level"
-    topic: "hardware"
     subtopic: "computers-and-their-components"
   - qualification: "a-level"
     topic: "hardware"

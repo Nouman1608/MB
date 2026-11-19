@@ -13,8 +13,6 @@ order: 6
 syllabusTopics:
   - qualification: "gcse"
     topic: "inheritance-variation-and-evolution-aqa-gcse-biology"
-  - qualification: "gcse"
-    topic: "inheritance-variation-and-evolution-aqa-gcse-biology"
     subtopic: "reproduction-aqa-gcse-biology"
   - qualification: "gcse"
     topic: "inheritance-variation-and-evolution-aqa-gcse-biology"

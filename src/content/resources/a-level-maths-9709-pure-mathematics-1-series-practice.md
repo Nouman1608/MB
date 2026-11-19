@@ -13,8 +13,6 @@ order: 34
 syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-1-cambridge-alevel"
-  - qualification: "a-level"
-    topic: "pure-mathematics-1-cambridge-alevel"
     subtopic: "series-cambridge-alevel-maths"
 description: "Original Cambridge 9709 Paper 1 Series questions with marked answers: binomial terms, APs, GPs, sums to infinity and linked progressions."
 author: "marlbridge-academic-team"

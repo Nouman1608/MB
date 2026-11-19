@@ -14,8 +14,6 @@ order: 12
 syllabusTopics:
   - qualification: "a-level"
     topic: "energy-and-respiration-cambridge-alevel-biology"
-  - qualification: "a-level"
-    topic: "energy-and-respiration-cambridge-alevel-biology"
     subtopic: "energy-cambridge-alevel-biology"
   - qualification: "a-level"
     topic: "energy-and-respiration-cambridge-alevel-biology"

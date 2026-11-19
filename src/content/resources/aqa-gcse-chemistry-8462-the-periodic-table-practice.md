@@ -13,8 +13,6 @@ order: 1
 syllabusTopics:
   - qualification: "gcse"
     topic: "atomic-structure-and-the-periodic-table-8462"
-  - qualification: "gcse"
-    topic: "atomic-structure-and-the-periodic-table-8462"
     subtopic: "the-periodic-table-8462"
 description: "Eleven original AQA GCSE Chemistry 8462 questions on section 4.1.2 The periodic table, from Mendeleev to Group 1 and 7 trends, with marked answers."
 author: "marlbridge-academic-team"

@@ -14,8 +14,6 @@ order: 18
 syllabusTopics:
   - qualification: "a-level"
     topic: "artificial-intelligence-ai"
-  - qualification: "a-level"
-    topic: "artificial-intelligence-ai"
     subtopic: "artificial-intelligence-sub"
 description: "Paper 3-style questions with answers on Dijkstra and A* traces, neural networks, machine learning types, back-propagation and regression for Cambridge 9618."
 author: "marlbridge-academic-team"

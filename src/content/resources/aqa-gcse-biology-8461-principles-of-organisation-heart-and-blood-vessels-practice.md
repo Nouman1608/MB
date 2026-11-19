@@ -13,8 +13,6 @@ order: 2
 syllabusTopics:
   - qualification: "gcse"
     topic: "organisation-aqa-gcse-biology"
-  - qualification: "gcse"
-    topic: "organisation-aqa-gcse-biology"
     subtopic: "principles-of-organisation-aqa-gcse-biology"
   - qualification: "gcse"
     topic: "organisation-aqa-gcse-biology"

@@ -12,6 +12,13 @@ order: 1
 syllabusTopics:
   - qualification: "gcse"
     topic: "cell-biology-aqa-gcse-biology"
+    subtopic: "cell-structure-aqa-gcse-biology"
+  - qualification: "gcse"
+    topic: "cell-biology-aqa-gcse-biology"
+    subtopic: "cell-division-aqa-gcse-biology"
+  - qualification: "gcse"
+    topic: "cell-biology-aqa-gcse-biology"
+    subtopic: "transport-in-cells-aqa-gcse-biology"
 description: "Original exam-style practice questions with full worked answers on cells, microscopy, mitosis, stem cells and transport for AQA GCSE Biology."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

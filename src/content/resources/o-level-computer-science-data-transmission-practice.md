@@ -13,8 +13,6 @@ order: 3
 syllabusTopics:
   - qualification: "o-level"
     topic: "data-transmission-2210"
-  - qualification: "o-level"
-    topic: "data-transmission-2210"
     subtopic: "types-and-methods-of-data-transmission"
   - qualification: "o-level"
     topic: "data-transmission-2210"

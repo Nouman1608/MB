@@ -14,6 +14,13 @@ order: 7
 syllabusTopics:
   - qualification: "a-level"
     topic: "human-resource-management-a-cambridge-alevel-business"
+    subtopic: "organisational-structure-cambridge-alevel-business"
+  - qualification: "a-level"
+    topic: "human-resource-management-a-cambridge-alevel-business"
+    subtopic: "leadership-cambridge-alevel-business"
+  - qualification: "a-level"
+    topic: "human-resource-management-a-cambridge-alevel-business"
+    subtopic: "human-resource-management-hrm-strategy-cambridge-alevel-business"
 description: "Worked practice questions on flexible contracts, core and peripheral workers, hard and soft HRM, MBO and matrix structures for Cambridge A Level Business 9609."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
