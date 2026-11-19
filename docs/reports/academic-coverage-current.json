@@ -4594,7 +4594,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 132334,
+      "totalQualifyingWordCount": 132907,
       "evidence": "la-course",
       "risks": "none",
       "nextAction": "None."
@@ -4644,7 +4644,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 149328,
+      "totalQualifyingWordCount": 149980,
       "evidence": "la-course",
       "risks": "none",
       "nextAction": "None."
@@ -4894,7 +4894,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 184412,
+      "totalQualifyingWordCount": 184529,
       "evidence": "la-course",
       "risks": "none",
       "nextAction": "None."
@@ -7144,7 +7144,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 143224,
+      "totalQualifyingWordCount": 143643,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
       "nextAction": "None."
@@ -7194,7 +7194,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 208541,
+      "totalQualifyingWordCount": 208629,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
       "nextAction": "None."
@@ -7244,7 +7244,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 273113,
+      "totalQualifyingWordCount": 273209,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
       "nextAction": "None."
