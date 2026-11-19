@@ -81,7 +81,7 @@ Chain to learn: **amino acid, then ammonia, then urea, then urine**.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-excretion-in-humans--07-liver-urea-route.webp" width="900" height="1100" alt="Amino acids reach the liver in the blood. The liver builds some into proteins (assimilation) and removes the nitrogen-containing part of excess amino acids (deamination) to form urea. Urea travels in the blood plasma to the kidney and is excreted in urine." loading="lazy">
+  <img src="/images/learning/biology/igcse-oxfordaqa-liver-urea-route.svg" width="900" height="1100" alt="Amino acids reach the liver in the blood. The liver builds some into proteins (assimilation) and removes the nitrogen-containing part of excess amino acids (deamination) to form urea. Urea travels in the blood plasma to the kidney and is excreted in urine. The word assimilation is greyed as not required by OxfordAQA." loading="lazy">
   <figcaption>The liver makes proteins and urea from amino acids; the kidney excretes the urea.</figcaption>
 </figure>
 
@@ -104,12 +104,12 @@ Must-know distinction: **filtering is not selective, reabsorption is.**
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-excretion-in-humans--04-nephron.webp" width="900" height="1270" alt="One nephron: blood enters the glomerulus inside the capsule and water, glucose, urea and ions are filtered into the tubule, while blood cells and protein stay in the blood. Along the coiled tubule all glucose, most water and some ions return to the capillaries. Urea, excess water and excess ions pass on as urine to the collecting duct." loading="lazy">
+  <img src="/images/learning/biology/igcse-oxfordaqa-nephron.svg" width="900" height="1270" alt="One nephron: blood enters the glomerulus inside the capsule and water, glucose, urea and ions are filtered into the tubule, while blood cells and protein stay in the blood. Along the coiled tubule all glucose, most water and some ions return to the capillaries. Urea, excess water and excess ions pass on as urine to the collecting duct. The part names are greyed as not required by OxfordAQA." loading="lazy">
   <figcaption>Filtration at the glomerulus, reabsorption along the tubule, urine in the collecting duct.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-excretion-in-humans--06-plasma-filtrate-urine.webp" width="900" height="1160" alt="Bar charts of protein, glucose and urea in plasma, filtrate and urine. Protein is absent from filtrate and urine; glucose is in plasma and filtrate but not urine; urea is 0.30 in plasma and filtrate but 18 in urine, 60 times more concentrated." loading="lazy">
+  <img src="/images/learning/biology/igcse-oxfordaqa-plasma-filtrate-urine.svg" width="900" height="1160" alt="Bar charts of protein, glucose and urea in plasma, filtrate and urine. Protein is absent from filtrate and urine; glucose is in plasma and filtrate but not urine; urea is 0.30 in plasma and filtrate but 18 in urine, 60 times more concentrated." loading="lazy">
   <figcaption>Protein is not filtered, glucose is filtered then all reabsorbed, and urea becomes 60 times more concentrated.</figcaption>
 </figure>
 

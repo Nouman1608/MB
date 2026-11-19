@@ -216,7 +216,7 @@ Worked reminder (habituation): a snail withdrawn for 42 s on tap 1 and 4 s on ta
 **Compare sound and chemical signals.** Sound reaches a distant animal quickly and works at night, but it stops when the animal stops calling. A chemical signal stays in the environment after the animal has left, but it changes slowly and is not easy to direct.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--02-synapse.webp" width="900" height="1010" alt="Extended. A schematic synapse: an impulse in neurone 1 makes vesicles release neurotransmitter into the synaptic gap, the molecules diffuse across, bind receptor proteins on neurone 2 and start a new impulse. Only neurone 1 releases neurotransmitter and only neurone 2 has receptors, so the impulse goes one way." loading="lazy">
+  <img src="/images/learning/biology/igcse-oxfordaqa-synapse.svg" width="900" height="1010" alt="A schematic synapse: an impulse in neurone 1 makes vesicles release neurotransmitter into the synaptic gap, the molecules diffuse across, bind receptor proteins on neurone 2 and start a new impulse. Only neurone 1 releases neurotransmitter and only neurone 2 has receptors, so the impulse goes one way. Steps 2 and 3 and the one-direction note are greyed as not required by OxfordAQA." loading="lazy">
   <figcaption>Neurotransmitter crosses the gap and binds receptors, so impulses go one way only.</figcaption>
 </figure>
 

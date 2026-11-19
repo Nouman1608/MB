@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1270" viewBox="0 0 1800 2540" role="img" aria-labelledby="title desc"><title id="title">How a nephron makes urine (Edexcel International GCSE Biology: Paper 2 only)</title><desc id="desc">The whole figure is marked Paper 2 only: the nephron, ultrafiltration and selective reabsorption are statements 2.74B to 2.77B and 2.79B of 4BI1. (1) Filtration: blood enters the glomerulus inside the capsule, and water, glucose, urea and ions are filtered into the capsule; blood cells and protein stay in the blood. (2) Reabsorption along the tubule: all the glucose, most of the water and some ions go back into the blood, which leaves as blood out. (3) The collecting duct carries urine, urea with excess water and excess ions and no glucose, to the ureter.</desc><rect width="1800" height="2540" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="88" font-size="68" font-weight="700" fill="#1E2B47" text-anchor="middle">How a nephron makes urine</text>
+<text x="900" y="164" font-size="44" fill="#4B5B72" text-anchor="middle">One nephron, schematic</text>
+<rect x="1423" y="226" width="317" height="64" rx="32" fill="#8A6A0C"/><text x="1581.5" y="272.4" font-size="40" font-weight="700" fill="#FFFFFF" text-anchor="middle">Paper 2 only</text>
+<path d="M720 1000 V1040 C720 1120 880 1170 880 1210 C880 1250 600 1290 580 1360 C570 1420 880 1440 900 1520 V1556" fill="none" stroke="#B9632F" stroke-width="110" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M720 860 V1040 C720 1120 880 1170 880 1210 C880 1250 600 1290 580 1360 C570 1420 880 1440 900 1520 C910 1600 940 1630 1010 1630 H1400 Q1460 1630 1460 1690 V2190" fill="none" stroke="#1E2B47" stroke-width="92" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M720 860 V1040 C720 1120 880 1170 880 1210 C880 1250 600 1290 580 1360 C570 1420 880 1440 900 1520 C910 1600 940 1630 1010 1630 H1400 Q1460 1630 1460 1690 V2190" fill="none" stroke="#D2E5EC" stroke-width="76" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="1460,2290 1438,2222 1482,2222" fill="#1E2B47"/>
+<path d="M296 544 C420 560 520 600 640 680" fill="none" stroke="#B9632F" stroke-width="14" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M800 650 C840 600 880 596 920 596 H1040 Q1120 596 1120 676 V1050 H806" fill="none" stroke="#B9632F" stroke-width="14" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="776,1050 818,1028 818,1072" fill="#B9632F"/>
+<circle cx="720" cy="690" r="178" fill="#D2E5EC" stroke="#1E2B47" stroke-width="8"/>
+<ellipse cx="720" cy="700" rx="92" ry="48" fill="none" stroke="#B9632F" stroke-width="9" transform="rotate(0 720 700)"/>
+<ellipse cx="720" cy="700" rx="92" ry="48" fill="none" stroke="#B9632F" stroke-width="9" transform="rotate(60 720 700)"/>
+<ellipse cx="720" cy="700" rx="92" ry="48" fill="none" stroke="#B9632F" stroke-width="9" transform="rotate(120 720 700)"/>
+<path d="M296 544 C420 560 520 600 640 680" fill="none" stroke="#B9632F" stroke-width="14" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M800 650 C840 600 880 596 920 596" fill="none" stroke="#B9632F" stroke-width="14" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M930 1480 H1310" fill="none" stroke="#B9632F" stroke-width="14" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="1340,1480 1300,1458 1300,1502" fill="#B9632F"/>
+<circle cx="400" cy="564" r="20" fill="#A33B2B" stroke="#FFFFFF" stroke-width="4"/>
+<circle cx="1120" cy="820" r="20" fill="#A33B2B" stroke="#FFFFFF" stroke-width="4"/>
+<circle cx="1120" cy="938" r="20" fill="#A33B2B" stroke="#FFFFFF" stroke-width="4"/>
+<rect x="577" y="627" width="26" height="26" fill="#1E2B47" stroke="#FFFFFF" stroke-width="3"/>
+<rect x="837" y="747" width="26" height="26" fill="#1E2B47" stroke="#FFFFFF" stroke-width="3"/>
+<rect x="707" y="923" width="26" height="26" fill="#1E2B47" stroke="#FFFFFF" stroke-width="3"/>
+<rect x="733" y="1091" width="26" height="26" fill="#1E2B47" stroke="#FFFFFF" stroke-width="3"/>
+<rect x="679" y="1299" width="26" height="26" fill="#1E2B47" stroke="#FFFFFF" stroke-width="3"/>
+<rect x="703" y="1439" width="26" height="26" fill="#1E2B47" stroke="#FFFFFF" stroke-width="3"/>
+<rect x="1205" y="1647" width="26" height="26" fill="#1E2B47" stroke="#FFFFFF" stroke-width="3"/>
+<rect x="1447" y="1867" width="26" height="26" fill="#1E2B47" stroke="#FFFFFF" stroke-width="3"/>
+<rect x="1447" y="1985" width="26" height="26" fill="#1E2B47" stroke="#FFFFFF" stroke-width="3"/>
+<rect x="1447" y="2105" width="26" height="26" fill="#1E2B47" stroke="#FFFFFF" stroke-width="3"/>
+<circle cx="858" cy="662" r="18" fill="#D6B22F" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="594" cy="770" r="18" fill="#D6B22F" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="720" cy="980" r="18" fill="#D6B22F" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="822" cy="1146" r="18" fill="#D6B22F" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="850" cy="1266" r="18" fill="#D6B22F" stroke="#1E2B47" stroke-width="5"/>
+<line x1="912" y1="1218" x2="1040" y2="1218" stroke="#2F6B63" stroke-width="6" stroke-linecap="round"/><polygon points="1072,1218 1038,1236.7 1038,1199.3" fill="#2F6B63"/>
+<line x1="562" y1="1378" x2="442" y2="1378" stroke="#2F6B63" stroke-width="6" stroke-linecap="round"/><polygon points="410,1378 444,1359.3 444,1396.7" fill="#2F6B63"/>
+<text x="80" y="446" font-size="46" font-weight="700" fill="#B9632F">Blood in</text>
+<text x="720" y="404" font-size="50" font-weight="700" fill="#1E2B47" text-anchor="middle">Glomerulus</text>
+<line x1="720" y1="430" x2="720" y2="600" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<text x="80" y="696" font-size="50" font-weight="700" fill="#1E2B47">Capsule</text>
+<line x1="320" y1="686" x2="530" y2="686" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<circle cx="120" cy="830" r="38" fill="#1E2B47"/><text x="120" y="845" font-size="42" font-weight="700" fill="#FFFFFF" text-anchor="middle">1</text>
+<text x="190" y="816" font-size="50" font-weight="700" fill="#1E2B47">Filtration</text>
+<text x="190" y="880" font-size="42" fill="#1E2B47">at glomerulus</text>
+<text x="80" y="1016" font-size="50" font-weight="700" fill="#1E2B47">Tubule</text>
+<line x1="300" y1="1000" x2="640" y2="1000" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<text x="1180" y="858" font-size="44" fill="#1E2B47">Blood cells and</text>
+<text x="1180" y="914" font-size="44" fill="#1E2B47">protein stay in</text>
+<text x="1180" y="970" font-size="44" fill="#1E2B47">the blood</text>
+<text x="980" y="1420" font-size="46" font-weight="700" fill="#B9632F">Blood out</text>
+<circle cx="120" cy="1582" r="38" fill="#1E2B47"/><text x="120" y="1597" font-size="42" font-weight="700" fill="#FFFFFF" text-anchor="middle">2</text>
+<text x="190" y="1566" font-size="50" font-weight="700" fill="#1E2B47">Reabsorption</text>
+<text x="190" y="1636" font-size="42" fill="#1E2B47">all glucose</text>
+<text x="190" y="1692" font-size="42" fill="#1E2B47">most water</text>
+<text x="190" y="1748" font-size="42" fill="#1E2B47">some ions</text>
+<text x="1396" y="1896" font-size="50" font-weight="700" fill="#1E2B47" text-anchor="end">Collecting</text>
+<text x="1396" y="1958" font-size="50" font-weight="700" fill="#1E2B47" text-anchor="end">duct</text>
+<text x="1396" y="2020" font-size="42" fill="#1E2B47" text-anchor="end">to the ureter</text>
+<circle cx="120" cy="2290" r="38" fill="#1E2B47"/><text x="120" y="2305" font-size="42" font-weight="700" fill="#FFFFFF" text-anchor="middle">3</text>
+<text x="190" y="2276" font-size="46" font-weight="700" fill="#1E2B47">Urine: urea, excess water,</text>
+<text x="190" y="2340" font-size="46" font-weight="700" fill="#1E2B47">excess ions. No glucose.</text>
+<circle cx="162" cy="2458" r="18" fill="#D6B22F" stroke="#1E2B47" stroke-width="5"/>
+<text x="200" y="2474" font-size="44" fill="#1E2B47">glucose</text>
+<rect x="487" y="2445" width="26" height="26" fill="#1E2B47" stroke="#FFFFFF" stroke-width="3"/>
+<text x="536" y="2474" font-size="44" fill="#1E2B47">urea</text>
+<circle cx="722" cy="2458" r="20" fill="#A33B2B" stroke="#FFFFFF" stroke-width="4"/>
+<text x="760" y="2474" font-size="44" fill="#1E2B47">blood cell</text>
+<line x1="1010" y1="2458" x2="1150" y2="2458" stroke="#B9632F" stroke-width="14" stroke-linecap="round"/>
+<text x="1188" y="2474" font-size="44" fill="#1E2B47">blood vessel</text></g></svg>

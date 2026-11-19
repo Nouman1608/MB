@@ -141,7 +141,7 @@ Yeast is a single-celled fungus. In bread-making, yeast is mixed with flour, sug
 Word equation: glucose → ethanol + carbon dioxide (anaerobic respiration in yeast).
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--02-yeast.webp" width="900" height="1110" alt="Yeast breaks glucose down without oxygen into ethanol and carbon dioxide. Extended equation: C6H12O6 gives 2C2H5OH plus 2CO2. In a sealed tank the useful product is ethanol for fuel; in dough the useful product is carbon dioxide, whose trapped bubbles make the dough rise." loading="lazy">
+  <img src="/images/learning/biology/igcse-edexcel-yeast-anaerobic.svg" width="900" height="1110" alt="Yeast breaks glucose down without oxygen into ethanol and carbon dioxide. Symbol equation: C6H12O6 gives 2C2H5OH plus 2CO2. In a sealed tank the useful product is ethanol for fuel; in dough the useful product is carbon dioxide, whose trapped bubbles make the dough rise. The symbol equation and the biofuel panel are marked not required by Edexcel." loading="lazy">
   <figcaption>Yeast makes ethanol for biofuel and carbon dioxide for bread.</figcaption>
 </figure>
 
@@ -209,7 +209,7 @@ A fermenter is a large steel vessel for growing microorganisms in huge numbers.
 | Agitation | Motor-driven paddles stir the mixture | Keeps microbes, nutrients, oxygen and heat evenly spread |
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--05-fermenter.webp" width="900" height="1150" alt="Extended. A labelled fermenter: motor and paddles mix the contents; nutrients enter at the top and gas leaves; sterile air enters at the bottom; a water jacket with cold water in and warm water out removes heat from respiration; pH and temperature probes monitor conditions; product leaves at the bottom. Fermenters make insulin (GM bacteria), penicillin (Penicillium) and mycoprotein (Fusarium)." loading="lazy">
+  <img src="/images/learning/biology/igcse-edexcel-fermenter.svg" width="900" height="1150" alt="A labelled fermenter: motor and paddles mix the contents; nutrients enter at the top and gas leaves; sterile air enters at the bottom; a water jacket with cold water in and warm water out removes heat from respiration; pH and temperature probes monitor conditions; product leaves at the bottom. Fermenters make insulin (GM bacteria), penicillin (Penicillium) and mycoprotein (Fusarium). Penicillin and mycoprotein are greyed as not required by Edexcel." loading="lazy">
   <figcaption>A fermenter controls temperature, pH, oxygen, nutrients and wastes so microorganisms make a product.</figcaption>
 </figure>
 
@@ -292,7 +292,7 @@ Selective breeding is slow and can reduce genetic variation, especially when few
 6. The product is harvested, processed as needed, and purified to meet quality requirements.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--06-gm-steps.webp" width="900" height="1260" alt="Extended. Six steps to make a human protein in bacteria. a: restriction enzymes cut out the human gene leaving sticky ends. b: the same enzymes cut a plasmid leaving complementary sticky ends. c: the gene is inserted and DNA ligase joins it, making a recombinant plasmid. d: plasmids are put into bacteria. e: bacteria multiply. f: bacteria make the human protein." loading="lazy">
+  <img src="/images/learning/biology/igcse-edexcel-gm-steps.svg" width="900" height="1260" alt="Six steps to make a human protein in bacteria. a: restriction enzymes cut out the human gene leaving sticky ends. b: the same enzymes cut a plasmid leaving complementary sticky ends. c: the gene is inserted and DNA ligase joins it, making a recombinant plasmid. d: plasmids are put into bacteria. e: bacteria multiply. f: bacteria make the human protein." loading="lazy">
   <figcaption>Cut gene and plasmid with the same enzymes, join with ligase, put into bacteria, multiply, collect protein.</figcaption>
 </figure>
 

@@ -62,7 +62,7 @@ Sexual reproduction gives **variation**, so some offspring may survive a change 
 **Fertilisation** is the fusion of a male gamete with a female gamete. The nuclei join to form a single cell, the **zygote**. The zygote divides by mitosis again and again, and the ball of cells develops into an **embryo**.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--01-asexual-sexual.webp" width="900" height="1095" alt="One parent makes genetically identical offspring. In sexual reproduction two parents each make a gamete; the gametes fuse to form a zygote, giving offspring that differ from each other. Extended: gametes are n and the zygote 2n (cat 19 + 19 = 38)." loading="lazy">
+  <img src="/images/learning/biology/igcse-shared-intl-asexual-sexual.svg" width="900" height="1095" alt="One parent makes genetically identical offspring. In sexual reproduction two parents each make a gamete; the gametes fuse to form a zygote, giving offspring that differ from each other. Gametes are n and the zygote 2n (cat 19 + 19 = 38)." loading="lazy">
   <figcaption>Compare one-parent and two-parent reproduction.</figcaption>
 </figure>
 
@@ -135,7 +135,7 @@ Keep the two terms apart: pollination moves pollen; fertilisation fuses nuclei.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--04-pollen-tube.webp" width="900" height="960" alt="Section through a carpel: pollen lands on the stigma (pollination), a pollen tube grows down the style, enters the ovule through the micropyle, and the pollen nucleus fuses with the ovule nucleus (fertilisation)." loading="lazy">
+  <img src="/images/learning/biology/igcse-edexcel-pollen-tube.svg" width="900" height="960" alt="Section through a carpel: pollen lands on the stigma (pollination), a pollen tube grows down the style, enters the ovule through the micropyle, and the pollen nucleus fuses with the ovule nucleus (fertilisation)." loading="lazy">
   <figcaption>Follow pollen from the stigma to fertilisation in the ovule.</figcaption>
 </figure>
 
@@ -316,7 +316,7 @@ High progesterone and no bleeding alone are compatible with pregnancy but do not
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--08-menstrual-cycle.webp" width="900" height="1010" alt="Two graphs over 28 days: the uterus lining is lost on days 1-5, then rebuilt, with ovulation around day 14; Extended sketch of FSH, oestrogen, LH and progesterone, with oestrogen peaking before the LH peak at ovulation and progesterone high afterwards." loading="lazy">
+  <img src="/images/learning/biology/igcse-edexcel-menstrual-cycle.svg" width="900" height="1010" alt="Two graphs over 28 days: the uterus lining is lost on days 1-5, then rebuilt, with ovulation around day 14; a sketch of FSH, oestrogen, LH and progesterone, with oestrogen peaking before the LH peak at ovulation and progesterone high afterwards. FSH and LH are marked Paper 2 only." loading="lazy">
   <figcaption>Link the lining and hormone changes to the days of the cycle.</figcaption>
 </figure>
 
@@ -338,7 +338,7 @@ Oxygen, carbon dioxide and urea cross mainly by diffusion. Glucose, amino acids 
 The placenta has a **large surface area** (many villi), a **thin barrier** for a short diffusion distance, and a **good blood supply** on both sides to keep concentration gradients steep.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--07-placenta-exchange.webp" width="900" height="1200" alt="The fetus in an amniotic sac inside the uterus, joined by the umbilical cord to the placenta. Extended panel: oxygen, glucose and amino acids pass from mother to fetus and carbon dioxide and urea the other way without the bloods mixing; some viruses and nicotine can cross." loading="lazy">
+  <img src="/images/learning/biology/igcse-edexcel-placenta-exchange.svg" width="900" height="1200" alt="The fetus in an amniotic sac inside the uterus, joined by the umbilical cord to the placenta. Oxygen, glucose and amino acids pass from mother to fetus and carbon dioxide and urea the other way without the bloods mixing; some viruses and nicotine can cross. The note on viruses and nicotine is greyed as not required by Edexcel." loading="lazy">
   <figcaption>Show what the placenta does and what crosses it.</figcaption>
 </figure>
 

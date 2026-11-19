@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1110" viewBox="0 0 1800 2220" role="img" aria-labelledby="title desc"><title id="title">Yeast: anaerobic respiration (Edexcel International GCSE Biology)</title><desc id="desc">With no oxygen, yeast turns glucose into ethanol and carbon dioxide. The symbol equation, C6H12O6 → 2C2H5OH + 2CO2, is marked not required by Edexcel: statement 2.38 of 4BI1 asks only for the word equation. Bottom left, marked not required by Edexcel: in a sealed vessel with no air, sugar and yeast make ethanol for fuel. Bottom right (4BI1 5.5): carbon dioxide bubbles make bread dough rise. No tier labels.</desc><rect width="1800" height="2220" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="88" font-size="68" font-weight="700" fill="#1E2B47" text-anchor="middle">Yeast: anaerobic respiration</text>
+<rect x="60" y="240" width="1680" height="860" rx="30" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<polygon points="220,444 287.5,483 287.5,561 220,600 152.5,561 152.5,483" fill="#D6B22F" stroke="#8A6A0C" stroke-width="5" stroke-linejoin="round"/>
+<text x="220" y="668" font-size="48" font-weight="700" fill="#1E2B47" text-anchor="middle">glucose</text>
+<line x1="330" y1="522" x2="508" y2="522" stroke="#1E2B47" stroke-width="8" stroke-linecap="round"/><polygon points="550,522 506,546.2 506,497.8" fill="#1E2B47"/>
+<ellipse cx="760" cy="535" rx="200" ry="140" fill="#F2E6B7" stroke="#8A6A0C" stroke-width="6"/>
+<circle cx="958" cy="428" r="60" fill="#F2E6B7" stroke="#8A6A0C" stroke-width="6"/>
+<text x="750" y="548" font-size="52" font-weight="700" fill="#1E2B47" text-anchor="middle">Yeast</text>
+<text x="760" y="748" font-size="44" fill="#4B5B72" text-anchor="middle">no oxygen</text>
+<line x1="1050" y1="376" x2="1213" y2="376" stroke="#B9632F" stroke-width="8" stroke-linecap="round"/><polygon points="1255,376 1211,400.2 1211,351.8" fill="#B9632F"/>
+<path d="M1366 308 C1376 330 1414 365 1414 392 A48 48 0 0 1 1318 392 C1318 365 1356 330 1366 308 Z" fill="#B9632F" stroke="#1E2B47" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="1380" y="496" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">ethanol</text>
+<line x1="980" y1="662" x2="1213" y2="662" stroke="#1E2B47" stroke-width="8" stroke-linecap="round"/><polygon points="1255,662 1211,686.2 1211,637.8" fill="#1E2B47"/>
+<circle cx="1336" cy="656" r="30" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="1408" cy="636" r="42" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="1476" cy="690" r="24" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<text x="1380" y="786" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">carbon dioxide</text>
+<rect x="110" y="889" width="507" height="58" rx="29" fill="#6B7785"/><text x="363.5" y="930.96" font-size="36" font-weight="700" fill="#FFFFFF" text-anchor="middle">Not required by Edexcel</text>
+<text x="900" y="1036" font-size="54" font-weight="700" fill="#1E2B47" text-anchor="middle" xml:space="preserve"><tspan>C</tspan><tspan dy="15.1" font-size="36.7">6</tspan><tspan dy="-15.1">H</tspan><tspan dy="15.1" font-size="36.7">12</tspan><tspan dy="-15.1">O</tspan><tspan dy="15.1" font-size="36.7">6</tspan><tspan dy="-15.1"> → 2C</tspan><tspan dy="15.1" font-size="36.7">2</tspan><tspan dy="-15.1">H</tspan><tspan dy="15.1" font-size="36.7">5</tspan><tspan dy="-15.1">OH + 2CO</tspan><tspan dy="15.1" font-size="36.7">2</tspan></text>
+<rect x="60" y="1140" width="820" height="1000" rx="30" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<text x="470" y="1226" font-size="56" font-weight="700" fill="#1E2B47" text-anchor="middle">Biofuel</text>
+<rect x="130" y="1273" width="479" height="54" rx="27" fill="#6B7785"/><text x="369.5" y="1312.24" font-size="34" font-weight="700" fill="#FFFFFF" text-anchor="middle">Not required by Edexcel</text>
+<text x="270" y="1376" font-size="44" fill="#4B5B72" text-anchor="middle">sugar + yeast</text>
+<rect x="125" y="1540" width="290" height="280" fill="#F2E6B7"/>
+<rect x="125" y="1400" width="290" height="420" rx="22" fill="none" stroke="#1E2B47" stroke-width="6"/>
+<circle cx="180" cy="1580" r="10" fill="#FFFFFF" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="280" cy="1600" r="11" fill="#FFFFFF" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="200" cy="1658" r="14" fill="#FFFFFF" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="340" cy="1720" r="16" fill="#FFFFFF" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="240" cy="1760" r="11" fill="#FFFFFF" stroke="#1E2B47" stroke-width="4"/>
+<text x="270" y="1886" font-size="42" fill="#4B5B72" text-anchor="middle">sealed: no air</text>
+<line x1="445" y1="1600" x2="573" y2="1600" stroke="#B9632F" stroke-width="8" stroke-linecap="round"/><polygon points="615,1600 571,1624.2 571,1575.8" fill="#B9632F"/>
+<path d="M712 1530 C722 1552 760 1587 760 1614 A48 48 0 0 1 664 1614 C664 1587 702 1552 712 1530 Z" fill="#B9632F" stroke="#1E2B47" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="712" y="1736" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">ethanol</text>
+<text x="470" y="2056" font-size="44" font-weight="700" fill="#8A6A0C" text-anchor="middle">Useful: ethanol (fuel)</text>
+<rect x="920" y="1140" width="820" height="1000" rx="30" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<text x="1330" y="1226" font-size="56" font-weight="700" fill="#1E2B47" text-anchor="middle">Bread</text>
+<text x="1520" y="1466" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle" xml:space="preserve"><tspan>CO</tspan><tspan dy="12.9" font-size="31.3">2</tspan><tspan dy="-12.9"> bubbles</tspan></text>
+<line x1="1520" y1="1502" x2="1520" y2="1582" stroke="#1E2B47" stroke-width="5" stroke-linecap="round"/>
+<path d="M955 1796 Q955 1712 1080 1712 Q1205 1712 1205 1796 Z" fill="#F2E6B7" stroke="#8A6A0C" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1310 1796 C1310 1560 1730 1560 1730 1796 Z" fill="#F2E6B7" stroke="#8A6A0C" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="955" y1="1798" x2="1700" y2="1798" stroke="#1E2B47" stroke-width="6" stroke-linecap="round"/>
+<line x1="1225" y1="1716" x2="1274" y2="1716" stroke="#1E2B47" stroke-width="10" stroke-linecap="round"/><polygon points="1312,1716 1272,1738 1272,1694" fill="#1E2B47"/>
+<circle cx="1450" cy="1668" r="13" fill="#FFFFFF" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="1510" cy="1658" r="18" fill="#FFFFFF" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="1580" cy="1672" r="13" fill="#FFFFFF" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="1438" cy="1726" r="20" fill="#FFFFFF" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="1570" cy="1720" r="26" fill="#FFFFFF" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="1398" cy="1768" r="15" fill="#FFFFFF" stroke="#1E2B47" stroke-width="4"/>
+<circle cx="1630" cy="1768" r="15" fill="#FFFFFF" stroke="#1E2B47" stroke-width="4"/>
+<text x="1080" y="1886" font-size="44" fill="#1E2B47" text-anchor="middle">dough</text>
+<text x="1520" y="1886" font-size="44" fill="#1E2B47" text-anchor="middle">dough rises</text>
+<text x="1330" y="2056" font-size="44" font-weight="700" fill="#8A6A0C" text-anchor="middle">Useful: carbon dioxide</text></g></svg>

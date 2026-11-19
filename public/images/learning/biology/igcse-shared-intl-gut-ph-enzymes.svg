@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 1800 2400" role="img" aria-labelledby="title desc"><title id="title">Acid, then alkaline</title><desc id="desc">The stomach is acid: it contains hydrochloric acid, which kills microbes and gives the acid pH, and pepsin works there. Food passes to the duodenum, where bile neutralises the acid, so it is alkaline and trypsin works there. A sketch graph of activity against pH shows pepsin peaking in acid and trypsin peaking in alkaline conditions. No tier labels: different enzymes working best at different pH and bile neutralising stomach acid are on both Edexcel papers (4BI1 2.13, 2.31) and in OxfordAQA 9201 3.2.4b-c, which is not tiered. A grey note says the names pepsin and trypsin, and the idea that hydrochloric acid kills microbes, are not required by either board.</desc><rect width="1800" height="2400" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="88" font-size="68" font-weight="700" fill="#1E2B47" text-anchor="middle">Acid, then alkaline</text>
+<text x="900" y="164" font-size="44" fill="#4B5B72" text-anchor="middle">Each enzyme works best at its own pH</text>
+<path d="M230 304 C160 340 140 460 170 560 C210 700 320 790 460 790 C620 790 720 720 720 620 C720 540 680 500 620 470 C560 440 520 400 480 350 C440 300 300 290 230 304 Z" fill="#F7CFA2" stroke="#1E2B47" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="340" cy="490" r="18" fill="#C0392B" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="300" cy="560" r="18" fill="#C0392B" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="430" cy="600" r="18" fill="#C0392B" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="300" cy="660" r="18" fill="#C0392B" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="380" cy="716" r="18" fill="#C0392B" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="500" cy="778" r="18" fill="#C0392B" stroke="#1E2B47" stroke-width="3"/>
+<ellipse cx="520" cy="500" rx="46" ry="30" fill="#B5D4CF" stroke="#1E2B47" stroke-width="4"/>
+<line x1="496" y1="478" x2="544" y2="522" stroke="#C0392B" stroke-width="6" stroke-linecap="round"/>
+<line x1="544" y1="478" x2="496" y2="522" stroke="#C0392B" stroke-width="6" stroke-linecap="round"/>
+<path d="M600 650 L624.2 681.8 A40 40 0 1 0 575.8 681.8 Z" fill="#6FA36A" stroke="#1E2B47" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="500" y1="900" x2="500" y2="1012" stroke="#1E2B47" stroke-width="7" stroke-linecap="round"/><polygon points="500,1054 480.2,1010 519.8,1010" fill="#1E2B47"/>
+<text x="880" y="374" font-size="50" font-weight="700" fill="#1E2B47">Stomach: acid</text>
+<circle cx="906" cy="462" r="18" fill="#C0392B" stroke="#1E2B47" stroke-width="3"/>
+<text x="958" y="476" font-size="42" fill="#1E2B47">hydrochloric acid (HCl)</text>
+<text x="880" y="574" font-size="46" font-weight="700" fill="#6B7785">HCl kills microbes</text>
+<text x="880" y="640" font-size="42" fill="#4B5B72">and gives the acid pH</text>
+<path d="M936 868 L960.2 899.8 A40 40 0 1 0 911.8 899.8 Z" fill="#6FA36A" stroke="#1E2B47" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="1010" y="888" font-size="46" font-weight="700" fill="#6B7785">pepsin works here</text>
+<rect x="96" y="1096" width="1608" height="166" rx="83" fill="#D2E5EC" stroke="#1E2B47" stroke-width="6"/>
+<ellipse cx="1110" cy="980" rx="44" ry="54" fill="#6FA36A" stroke="#1E2B47" stroke-width="4"/>
+<line x1="1116" y1="1036" x2="1116" y2="1088" stroke="#6FA36A" stroke-width="6" stroke-linecap="round"/><polygon points="1116,1116 1098,1086 1134,1086" fill="#6FA36A"/>
+<text x="1220" y="996" font-size="46" font-weight="700" fill="#1E2B47">Bile</text>
+<text x="1220" y="1056" font-size="42" fill="#4B5B72">neutralises acid</text>
+<path d="M300 1196 L324.2 1227.8 A40 40 0 1 0 275.8 1227.8 Z" fill="#6FA36A" stroke="#1E2B47" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M660 1196 L684.2 1227.8 A40 40 0 1 0 635.8 1227.8 Z" fill="#6FA36A" stroke="#1E2B47" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1400 1206 L1424.2 1237.8 A40 40 0 1 0 1375.8 1237.8 Z" fill="#6FA36A" stroke="#1E2B47" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="1040" cy="1178" r="14" fill="#6FA36A" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="1120" cy="1200" r="14" fill="#6FA36A" stroke="#1E2B47" stroke-width="3"/>
+<circle cx="1200" cy="1174" r="14" fill="#6FA36A" stroke="#1E2B47" stroke-width="3"/>
+<text x="180" y="1356" font-size="48" font-weight="700" fill="#1E2B47">Duodenum: alkaline</text>
+<text x="180" y="1424" font-size="44" font-weight="700" fill="#6B7785">trypsin works here</text>
+<rect x="262" y="1560" width="718" height="558" fill="#FBE6CF"/>
+<rect x="980" y="1560" width="720" height="558" fill="#D2E5EC"/>
+<line x1="258" y1="1540" x2="258" y2="2120" stroke="#1E2B47" stroke-width="6" stroke-linecap="round"/>
+<line x1="258" y1="2120" x2="1700" y2="2120" stroke="#1E2B47" stroke-width="6" stroke-linecap="round"/>
+<path d="M258 1990 C380 1820 500 1640 620 1640 C760 1640 860 1900 980 1980 C1100 2060 1300 2080 1700 2080" fill="none" stroke="#C0392B" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M258 2080 C700 2080 860 2060 980 1980 C1100 1900 1220 1640 1340 1640 C1460 1640 1580 1860 1700 1990" fill="none" stroke="#3E7FAA" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="620" y="1610" font-size="46" font-weight="700" fill="#C0392B" text-anchor="middle">pepsin</text>
+<text x="1340" y="1610" font-size="46" font-weight="700" fill="#3E7FAA" text-anchor="middle">trypsin</text>
+<text x="50" y="1836" font-size="44" font-weight="700" fill="#1E2B47">activity</text>
+<text x="280" y="2194" font-size="44" font-weight="700" fill="#1E2B47">acidic</text>
+<text x="980" y="2194" font-size="44" font-weight="700" fill="#1E2B47" text-anchor="middle">pH</text>
+<text x="1680" y="2194" font-size="44" font-weight="700" fill="#1E2B47" text-anchor="end">alkaline</text>
+<text x="900" y="2262" font-size="42" fill="#4B5B72" text-anchor="middle">sketch graph, not to scale</text>
+<text x="900" y="2326" font-size="32" fill="#6B7785" text-anchor="middle">Grey: the names pepsin and trypsin, and HCl killing microbes,</text>
+<text x="900" y="2368" font-size="32" fill="#6B7785" text-anchor="middle">are not required by Edexcel or OxfordAQA</text></g></svg>

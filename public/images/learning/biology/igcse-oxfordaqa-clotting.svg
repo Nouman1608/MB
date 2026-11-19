@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1130" viewBox="0 0 1800 2260" role="img" aria-labelledby="title desc"><title id="title">How a blood clot forms (OxfordAQA International GCSE Biology)</title><desc id="desc">(1) A damaged vessel lets blood escape and pathogens can enter. (2) Soluble fibrinogen, a plasma protein, becomes insoluble fibrin fibres. (3) A clot forms: the fibres trap blood cells, blood loss stops and pathogens are kept out. No tier labels: 9201 3.2.3p-q covers platelets and the change of fibrinogen to fibrin.</desc><rect width="1800" height="2260" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="88" font-size="68" font-weight="700" fill="#1E2B47" text-anchor="middle">How a blood clot forms</text>
+<text x="900" y="164" font-size="44" fill="#4B5B72" text-anchor="middle">Simplified side views</text>
+<rect x="410" y="440" width="180" height="210" fill="#FBE8DE"/>
+<rect x="60" y="440" width="340" height="140" fill="#F2E6B7" stroke="#1E2B47" stroke-width="5"/>
+<text x="230" y="524" font-size="44" font-weight="700" fill="#1E2B47" text-anchor="middle">skin</text>
+<rect x="600" y="440" width="340" height="140" fill="#F2E6B7" stroke="#1E2B47" stroke-width="5"/>
+<text x="770" y="524" font-size="44" font-weight="700" fill="#1E2B47" text-anchor="middle">skin</text>
+<rect x="60" y="640" width="880" height="180" fill="#FBE8DE" stroke="#1E2B47" stroke-width="6"/>
+<rect x="413" y="634" width="174" height="12" fill="#FBE8DE"/>
+<text x="160" y="744" font-size="42" font-weight="700" fill="#1E2B47">vessel</text>
+<circle cx="200" cy="778" r="24" fill="#F2CDB2" stroke="#B9632F" stroke-width="5"/><circle cx="200" cy="778" r="9" fill="#FBE8DE"/>
+<circle cx="760" cy="778" r="24" fill="#F2CDB2" stroke="#B9632F" stroke-width="5"/><circle cx="760" cy="778" r="9" fill="#FBE8DE"/>
+<circle cx="918" cy="728" r="24" fill="#F2CDB2" stroke="#B9632F" stroke-width="5"/><circle cx="918" cy="728" r="9" fill="#FBE8DE"/>
+<circle cx="500" cy="398" r="24" fill="#F2CDB2" stroke="#B9632F" stroke-width="5"/><circle cx="500" cy="398" r="9" fill="#FBE8DE"/>
+<line x1="500" y1="700" x2="500" y2="496" stroke="#B9632F" stroke-width="7" stroke-linecap="round"/><polygon points="500,454 522,498 478,498" fill="#B9632F"/>
+<circle cx="1000" cy="500" r="38" fill="#1E2B47"/><text x="1000" y="515" font-size="42" font-weight="700" fill="#FFFFFF" text-anchor="middle">1</text>
+<text x="1072" y="516" font-size="54" font-weight="700" fill="#1E2B47">Vessel damaged</text>
+<text x="1000" y="636" font-size="46" fill="#1E2B47">Blood escapes</text>
+<text x="1000" y="704" font-size="46" fill="#1E2B47">Pathogens can enter</text>
+<line x1="60" y1="928" x2="1740" y2="928" stroke="#C6D3D0" stroke-width="5" stroke-linecap="round"/>
+<line x1="90" y1="1040" x2="146" y2="1066" stroke="#2F6B63" stroke-width="10" stroke-linecap="round"/>
+<line x1="322" y1="1034" x2="346" y2="1080" stroke="#2F6B63" stroke-width="10" stroke-linecap="round"/>
+<line x1="210" y1="1120" x2="266" y2="1100" stroke="#2F6B63" stroke-width="10" stroke-linecap="round"/>
+<line x1="130" y1="1200" x2="190" y2="1200" stroke="#2F6B63" stroke-width="10" stroke-linecap="round"/>
+<line x1="296" y1="1210" x2="306" y2="1268" stroke="#2F6B63" stroke-width="10" stroke-linecap="round"/>
+<line x1="98" y1="1300" x2="144" y2="1336" stroke="#2F6B63" stroke-width="10" stroke-linecap="round"/>
+<line x1="212" y1="1376" x2="264" y2="1342" stroke="#2F6B63" stroke-width="10" stroke-linecap="round"/>
+<line x1="330" y1="1324" x2="390" y2="1334" stroke="#2F6B63" stroke-width="10" stroke-linecap="round"/>
+<line x1="426" y1="1220" x2="548" y2="1220" stroke="#1E2B47" stroke-width="7" stroke-linecap="round"/><polygon points="586,1220 546,1240 546,1200" fill="#1E2B47"/>
+<rect x="640" y="1020" width="300" height="400" fill="#FFFFFF"/>
+<clipPath id="fibA"><rect x="640" y="1020" width="300" height="400"/></clipPath><g clip-path="url(#fibA)"><line x1="240" y1="1020" x2="392" y2="1420" stroke="#8A6A0C" stroke-width="5"/><line x1="286" y1="1020" x2="438" y2="1420" stroke="#8A6A0C" stroke-width="5"/><line x1="332" y1="1020" x2="484" y2="1420" stroke="#8A6A0C" stroke-width="5"/><line x1="378" y1="1020" x2="530" y2="1420" stroke="#8A6A0C" stroke-width="5"/><line x1="424" y1="1020" x2="576" y2="1420" stroke="#8A6A0C" stroke-width="5"/><line x1="470" y1="1020" x2="622" y2="1420" stroke="#8A6A0C" stroke-width="5"/><line x1="516" y1="1020" x2="668" y2="1420" stroke="#8A6A0C" stroke-width="5"/><line x1="562" y1="1020" x2="714" y2="1420" stroke="#8A6A0C" stroke-width="5"/><line x1="608" y1="1020" x2="760" y2="1420" stroke="#8A6A0C" stroke-width="5"/><line x1="654" y1="1020" x2="806" y2="1420" stroke="#8A6A0C" stroke-width="5"/><line x1="700" y1="1020" x2="852" y2="1420" stroke="#8A6A0C" stroke-width="5"/><line x1="746" y1="1020" x2="898" y2="1420" stroke="#8A6A0C" stroke-width="5"/><line x1="792" y1="1020" x2="944" y2="1420" stroke="#8A6A0C" stroke-width="5"/><line x1="838" y1="1020" x2="990" y2="1420" stroke="#8A6A0C" stroke-width="5"/><line x1="884" y1="1020" x2="1036" y2="1420" stroke="#8A6A0C" stroke-width="5"/><line x1="930" y1="1020" x2="1082" y2="1420" stroke="#8A6A0C" stroke-width="5"/><line x1="976" y1="1020" x2="1128" y2="1420" stroke="#8A6A0C" stroke-width="5"/><line x1="640" y1="1020" x2="420" y2="1420" stroke="#8A6A0C" stroke-width="5"/><line x1="692" y1="1020" x2="472" y2="1420" stroke="#8A6A0C" stroke-width="5"/><line x1="744" y1="1020" x2="524" y2="1420" stroke="#8A6A0C" stroke-width="5"/><line x1="796" y1="1020" x2="576" y2="1420" stroke="#8A6A0C" stroke-width="5"/><line x1="848" y1="1020" x2="628" y2="1420" stroke="#8A6A0C" stroke-width="5"/><line x1="900" y1="1020" x2="680" y2="1420" stroke="#8A6A0C" stroke-width="5"/><line x1="952" y1="1020" x2="732" y2="1420" stroke="#8A6A0C" stroke-width="5"/><line x1="1004" y1="1020" x2="784" y2="1420" stroke="#8A6A0C" stroke-width="5"/><line x1="1056" y1="1020" x2="836" y2="1420" stroke="#8A6A0C" stroke-width="5"/><line x1="1108" y1="1020" x2="888" y2="1420" stroke="#8A6A0C" stroke-width="5"/><line x1="1160" y1="1020" x2="940" y2="1420" stroke="#8A6A0C" stroke-width="5"/><line x1="1212" y1="1020" x2="992" y2="1420" stroke="#8A6A0C" stroke-width="5"/><line x1="1264" y1="1020" x2="1044" y2="1420" stroke="#8A6A0C" stroke-width="5"/><line x1="1316" y1="1020" x2="1096" y2="1420" stroke="#8A6A0C" stroke-width="5"/></g>
+<rect x="640" y="1020" width="300" height="400" fill="none" stroke="#C6D3D0" stroke-width="5"/>
+<text x="250" y="1486" font-size="44" font-weight="700" fill="#1E2B47" text-anchor="middle">fibrinogen</text>
+<text x="250" y="1544" font-size="42" fill="#1E2B47" text-anchor="middle">(soluble)</text>
+<text x="790" y="1486" font-size="44" font-weight="700" fill="#1E2B47" text-anchor="middle">fibrin</text>
+<text x="790" y="1544" font-size="42" fill="#1E2B47" text-anchor="middle">(insoluble)</text>
+<circle cx="1000" cy="1102" r="38" fill="#1E2B47"/><text x="1000" y="1117" font-size="42" font-weight="700" fill="#FFFFFF" text-anchor="middle">2</text>
+<text x="1072" y="1118" font-size="54" font-weight="700" fill="#1E2B47">Fibrinogen to fibrin</text>
+<text x="1000" y="1236" font-size="46" fill="#1E2B47">Soluble plasma protein</text>
+<text x="1000" y="1304" font-size="46" fill="#1E2B47">becomes insoluble fibres</text>
+<line x1="60" y1="1608" x2="1740" y2="1608" stroke="#C6D3D0" stroke-width="5" stroke-linecap="round"/>
+<rect x="410" y="1750" width="180" height="210" fill="#FBE8DE"/>
+<rect x="60" y="1750" width="340" height="140" fill="#F2E6B7" stroke="#1E2B47" stroke-width="5"/>
+<text x="230" y="1834" font-size="44" font-weight="700" fill="#1E2B47" text-anchor="middle">skin</text>
+<rect x="600" y="1750" width="340" height="140" fill="#F2E6B7" stroke="#1E2B47" stroke-width="5"/>
+<text x="770" y="1834" font-size="44" font-weight="700" fill="#1E2B47" text-anchor="middle">skin</text>
+<rect x="60" y="1950" width="880" height="180" fill="#FBE8DE" stroke="#1E2B47" stroke-width="6"/>
+<rect x="413" y="1944" width="174" height="12" fill="#FBE8DE"/>
+<text x="160" y="2054" font-size="42" font-weight="700" fill="#1E2B47">vessel</text>
+<circle cx="200" cy="2088" r="24" fill="#F2CDB2" stroke="#B9632F" stroke-width="5"/><circle cx="200" cy="2088" r="9" fill="#FBE8DE"/>
+<circle cx="760" cy="2088" r="24" fill="#F2CDB2" stroke="#B9632F" stroke-width="5"/><circle cx="760" cy="2088" r="9" fill="#FBE8DE"/>
+<circle cx="918" cy="2038" r="24" fill="#F2CDB2" stroke="#B9632F" stroke-width="5"/><circle cx="918" cy="2038" r="9" fill="#FBE8DE"/>
+<clipPath id="fibB"><rect x="412" y="1750" width="176" height="200"/></clipPath><g clip-path="url(#fibB)"><line x1="212" y1="1750" x2="288" y2="1950" stroke="#8A6A0C" stroke-width="5"/><line x1="258" y1="1750" x2="334" y2="1950" stroke="#8A6A0C" stroke-width="5"/><line x1="304" y1="1750" x2="380" y2="1950" stroke="#8A6A0C" stroke-width="5"/><line x1="350" y1="1750" x2="426" y2="1950" stroke="#8A6A0C" stroke-width="5"/><line x1="396" y1="1750" x2="472" y2="1950" stroke="#8A6A0C" stroke-width="5"/><line x1="442" y1="1750" x2="518" y2="1950" stroke="#8A6A0C" stroke-width="5"/><line x1="488" y1="1750" x2="564" y2="1950" stroke="#8A6A0C" stroke-width="5"/><line x1="534" y1="1750" x2="610" y2="1950" stroke="#8A6A0C" stroke-width="5"/><line x1="580" y1="1750" x2="656" y2="1950" stroke="#8A6A0C" stroke-width="5"/><line x1="626" y1="1750" x2="702" y2="1950" stroke="#8A6A0C" stroke-width="5"/><line x1="412" y1="1750" x2="302" y2="1950" stroke="#8A6A0C" stroke-width="5"/><line x1="464" y1="1750" x2="354" y2="1950" stroke="#8A6A0C" stroke-width="5"/><line x1="516" y1="1750" x2="406" y2="1950" stroke="#8A6A0C" stroke-width="5"/><line x1="568" y1="1750" x2="458" y2="1950" stroke="#8A6A0C" stroke-width="5"/><line x1="620" y1="1750" x2="510" y2="1950" stroke="#8A6A0C" stroke-width="5"/><line x1="672" y1="1750" x2="562" y2="1950" stroke="#8A6A0C" stroke-width="5"/><line x1="724" y1="1750" x2="614" y2="1950" stroke="#8A6A0C" stroke-width="5"/><line x1="776" y1="1750" x2="666" y2="1950" stroke="#8A6A0C" stroke-width="5"/></g>
+<circle cx="470" cy="1810" r="24" fill="#F2CDB2" stroke="#B9632F" stroke-width="5"/><circle cx="470" cy="1810" r="9" fill="#FBE8DE"/>
+<circle cx="534" cy="1870" r="24" fill="#F2CDB2" stroke="#B9632F" stroke-width="5"/><circle cx="534" cy="1870" r="9" fill="#FBE8DE"/>
+<circle cx="480" cy="1912" r="24" fill="#F2CDB2" stroke="#B9632F" stroke-width="5"/><circle cx="480" cy="1912" r="9" fill="#FBE8DE"/>
+<circle cx="1000" cy="1810" r="38" fill="#1E2B47"/><text x="1000" y="1825" font-size="42" font-weight="700" fill="#FFFFFF" text-anchor="middle">3</text>
+<text x="1072" y="1826" font-size="54" font-weight="700" fill="#1E2B47">Clot forms</text>
+<text x="1000" y="1946" font-size="46" fill="#1E2B47">Fibres trap blood cells</text>
+<text x="1000" y="2014" font-size="46" fill="#1E2B47">Blood loss stops;</text>
+<text x="1000" y="2082" font-size="46" fill="#1E2B47">pathogens kept out</text></g></svg>

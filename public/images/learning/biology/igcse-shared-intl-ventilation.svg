@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="960" viewBox="0 0 1800 1920" role="img" aria-labelledby="title desc"><title id="title">How air moves in and out</title><desc id="desc">Breathing in: the ribs move up and out and the diaphragm contracts and flattens, so the volume of the thorax increases, the pressure falls and air moves in. Breathing out: the ribs move down and in and the diaphragm relaxes and domes up, so the volume decreases, the pressure rises and air moves out. Lines naming the external and internal intercostal muscles are greyed with a note that they are not required by Edexcel or OxfordAQA, whose specifications (4BI1 2.47, 9201 3.2.5b) refer only to the intercostal muscles. No tier labels.</desc><rect width="1800" height="1920" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="88" font-size="64" font-weight="700" fill="#1E2B47" text-anchor="middle">How air moves in and out</text>
+<text x="470" y="266" font-size="56" font-weight="700" fill="#1E2B47" text-anchor="middle">Breathing in</text>
+<text x="1330" y="266" font-size="56" font-weight="700" fill="#1E2B47" text-anchor="middle">Breathing out</text>
+<rect x="436" y="430" width="64" height="140" fill="#DDEBE8" stroke="#2F6B63" stroke-width="5"/>
+<line x1="470" y1="300" x2="470" y2="396" stroke="#2F6B63" stroke-width="7" stroke-linecap="round"/><polygon points="470,438 445.8,394 494.2,394" fill="#2F6B63"/>
+<text x="530" y="386" font-size="44" font-weight="700" fill="#2F6B63">Air in</text>
+<path d="M160 1170 V630 Q160 566 230 566 H710 Q780 566 780 630 V1170 Z" fill="#B5D4CF" stroke="#2F6B63" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="126" y="604" width="26" height="566" rx="10" fill="#F2E6B7" stroke="#8A6A0C" stroke-width="5"/>
+<rect x="790" y="604" width="26" height="566" rx="10" fill="#F2E6B7" stroke="#8A6A0C" stroke-width="5"/>
+<path d="M140 1176 Q470 1150 800 1176" fill="none" stroke="#B9632F" stroke-width="24" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="110" y1="836" x2="72.8" y2="786.4" stroke="#8A6A0C" stroke-width="8" stroke-linecap="round"/><polygon points="50,756 93.2,773.6 54.8,802.4" fill="#8A6A0C"/>
+<line x1="830" y1="836" x2="867.2" y2="786.4" stroke="#8A6A0C" stroke-width="8" stroke-linecap="round"/><polygon points="890,756 885.2,802.4 846.8,773.6" fill="#8A6A0C"/>
+<text x="470" y="756" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">Volume increases</text>
+<text x="470" y="836" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">Pressure falls</text>
+<line x1="470" y1="1216" x2="470" y2="1296" stroke="#B9632F" stroke-width="7" stroke-linecap="round"/><polygon points="470,1338 445.8,1294 494.2,1294" fill="#B9632F"/>
+<rect x="1296" y="430" width="64" height="150" fill="#DDEBE8" stroke="#2F6B63" stroke-width="5"/>
+<line x1="1330" y1="432" x2="1330" y2="338" stroke="#2F6B63" stroke-width="7" stroke-linecap="round"/><polygon points="1330,296 1354.2,340 1305.8,340" fill="#2F6B63"/>
+<text x="1390" y="386" font-size="44" font-weight="700" fill="#2F6B63">Air out</text>
+<path d="M1046 1084 V640 Q1046 576 1116 576 H1544 Q1614 576 1614 640 V1084 Q1330 840 1046 1084 Z" fill="#B5D4CF" stroke="#2F6B63" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="1024" y="604" width="26" height="466" rx="10" fill="#F2E6B7" stroke="#8A6A0C" stroke-width="5"/>
+<rect x="1610" y="604" width="26" height="466" rx="10" fill="#F2E6B7" stroke="#8A6A0C" stroke-width="5"/>
+<path d="M1046 1084 Q1330 840 1614 1084" fill="none" stroke="#B9632F" stroke-width="24" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="950" y1="756" x2="991.8174477177686" y2="806.6878154154771" stroke="#8A6A0C" stroke-width="8" stroke-linecap="round"/><polygon points="1016,836 972,820.4 1009.1,789.9" fill="#8A6A0C"/>
+<line x1="1710" y1="756" x2="1668.1825522822314" y2="806.6878154154771" stroke="#8A6A0C" stroke-width="8" stroke-linecap="round"/><polygon points="1644,836 1650.9,789.9 1688,820.4" fill="#8A6A0C"/>
+<text x="1330" y="756" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">Volume decreases</text>
+<text x="1330" y="836" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">Pressure rises</text>
+<line x1="1330" y1="1226" x2="1330" y2="1166" stroke="#B9632F" stroke-width="7" stroke-linecap="round"/><polygon points="1330,1124 1354.2,1168 1305.8,1168" fill="#B9632F"/>
+<text x="470" y="1408" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">Ribs move up and out</text>
+<text x="470" y="1502" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">Diaphragm contracts, flattens</text>
+<text x="470" y="1594" font-size="44" fill="#6B7785" text-anchor="middle">External intercostals contract</text>
+<text x="470" y="1684" font-size="44" fill="#6B7785" text-anchor="middle">Internal intercostals relax</text>
+<text x="1330" y="1408" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">Ribs move down and in</text>
+<text x="1330" y="1502" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">Diaphragm relaxes, domes up</text>
+<text x="1330" y="1594" font-size="44" fill="#6B7785" text-anchor="middle">External intercostals relax</text>
+<text x="1330" y="1684" font-size="44" fill="#6B7785" text-anchor="middle">Internal intercostals contract</text>
+<line x1="124" y1="1820" x2="170" y2="1820" stroke="#8A6A0C" stroke-width="14"/>
+<text x="192" y="1834" font-size="40" fill="#1E2B47">ribs</text>
+<line x1="404" y1="1820" x2="450" y2="1820" stroke="#B9632F" stroke-width="14"/>
+<text x="472" y="1834" font-size="40" fill="#1E2B47">diaphragm</text>
+<text x="1740" y="1834" font-size="34" fill="#6B7785" text-anchor="end">Grey lines: not required by Edexcel or OxfordAQA</text></g></svg>

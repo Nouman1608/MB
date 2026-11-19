@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1010" viewBox="0 0 1800 2020" role="img" aria-labelledby="title desc"><title id="title">Crossing a synapse (OxfordAQA International GCSE Biology)</title><desc id="desc">An impulse arrives at the end of neurone 1. (1) Vesicles release neurotransmitter into the synaptic gap; (2) the molecules diffuse across the gap; (3) they bind to receptor proteins on neurone 2; (4) this starts an impulse in neurone 2. The synapse works in one direction only, because only neurone 1 releases the neurotransmitter. No tier labels. Steps 2 and 3 and the one-direction note are greyed and marked not required by OxfordAQA: 9201 3.4.1d says only that a chemical released at the synapse causes an impulse in the next neurone.</desc><rect width="1800" height="2020" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="88" font-size="68" font-weight="700" fill="#1E2B47" text-anchor="middle">Crossing a synapse</text>
+<text x="900" y="164" font-size="44" fill="#4B5B72" text-anchor="middle">Schematic, not to scale</text>
+<text x="60" y="378" font-size="50" font-weight="700" fill="#1E2B47">Neurone 1</text>
+<text x="60" y="440" font-size="44" fill="#1E2B47">impulse arrives</text>
+<rect x="80" y="860" width="1200" height="258" fill="#DDEBE8"/>
+<path d="M560 258 H800 V400 Q980 410 980 560 V760 Q980 860 880 860 H480 Q380 860 380 760 V560 Q380 410 560 400 Z" fill="#FFFFFF" stroke="#1E2B47" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="680" y1="280" x2="680" y2="392" stroke="#1E2B47" stroke-width="7" stroke-linecap="round"/><polygon points="680,434 658,390 702,390" fill="#1E2B47"/>
+<circle cx="480" cy="646" r="58" fill="#DDEBE8" stroke="#2F6B63" stroke-width="5"/>
+<circle cx="466" cy="636" r="7" fill="#2F6B63"/>
+<circle cx="494" cy="636" r="7" fill="#2F6B63"/>
+<circle cx="480" cy="660" r="7" fill="#2F6B63"/>
+<circle cx="620" cy="572" r="58" fill="#DDEBE8" stroke="#2F6B63" stroke-width="5"/>
+<circle cx="606" cy="562" r="7" fill="#2F6B63"/>
+<circle cx="634" cy="562" r="7" fill="#2F6B63"/>
+<circle cx="620" cy="586" r="7" fill="#2F6B63"/>
+<circle cx="870" cy="546" r="58" fill="#DDEBE8" stroke="#2F6B63" stroke-width="5"/>
+<circle cx="856" cy="536" r="7" fill="#2F6B63"/>
+<circle cx="884" cy="536" r="7" fill="#2F6B63"/>
+<circle cx="870" cy="560" r="7" fill="#2F6B63"/>
+<circle cx="780" cy="676" r="58" fill="#DDEBE8" stroke="#2F6B63" stroke-width="5"/>
+<circle cx="766" cy="666" r="7" fill="#2F6B63"/>
+<circle cx="794" cy="666" r="7" fill="#2F6B63"/>
+<circle cx="780" cy="690" r="7" fill="#2F6B63"/>
+<circle cx="660" cy="754" r="58" fill="#DDEBE8" stroke="#2F6B63" stroke-width="5"/>
+<circle cx="646" cy="744" r="7" fill="#2F6B63"/>
+<circle cx="674" cy="744" r="7" fill="#2F6B63"/>
+<circle cx="660" cy="768" r="7" fill="#2F6B63"/>
+<path d="M708 857 A72 72 0 0 1 852 857 Z" fill="#DDEBE8" stroke="#2F6B63" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="60" y="1000" font-size="46" font-weight="700" fill="#2F6B63">Synaptic gap</text>
+<line x1="60" y1="1028" x2="296" y2="1028" stroke="#2F6B63" stroke-width="4" stroke-linecap="round"/>
+<line x1="780" y1="878" x2="780" y2="1030" stroke="#2F6B63" stroke-width="6" stroke-linecap="round" stroke-dasharray="4 12"/>
+<polygon points="780,1070 762,1028 798,1028" fill="#2F6B63"/>
+<circle cx="716" cy="920" r="15" fill="#2F6B63" stroke="#FFFFFF" stroke-width="3"/>
+<circle cx="860" cy="908" r="15" fill="#2F6B63" stroke="#FFFFFF" stroke-width="3"/>
+<circle cx="800" cy="956" r="15" fill="#2F6B63" stroke="#FFFFFF" stroke-width="3"/>
+<circle cx="676" cy="996" r="15" fill="#2F6B63" stroke="#FFFFFF" stroke-width="3"/>
+<circle cx="870" cy="1006" r="15" fill="#2F6B63" stroke="#FFFFFF" stroke-width="3"/>
+<circle cx="636" cy="1070" r="15" fill="#2F6B63" stroke="#FFFFFF" stroke-width="3"/>
+<circle cx="820" cy="1070" r="15" fill="#2F6B63" stroke="#FFFFFF" stroke-width="3"/>
+<path d="M380 1118 H980 Q1020 1118 1020 1160 V1500 Q1020 1620 820 1650 L800 1660 V1850 H560 V1660 L540 1650 Q340 1620 340 1500 V1160 Q340 1118 380 1118 Z" fill="#FFFFFF" stroke="#1E2B47" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M408 1074 H436 Q464 1112 492 1074 H520 V1100 Q520 1114 506 1114 H422 Q408 1114 408 1100 Z" fill="#D6B22F" stroke="#1E2B47" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M584 1074 H612 Q640 1112 668 1074 H696 V1100 Q696 1114 682 1114 H598 Q584 1114 584 1100 Z" fill="#D6B22F" stroke="#1E2B47" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M764 1074 H792 Q820 1112 848 1074 H876 V1100 Q876 1114 862 1114 H778 Q764 1114 764 1100 Z" fill="#D6B22F" stroke="#1E2B47" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M884 1074 H912 Q940 1112 968 1074 H996 V1100 Q996 1114 982 1114 H898 Q884 1114 884 1100 Z" fill="#D6B22F" stroke="#1E2B47" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="640" cy="1072" r="15" fill="#2F6B63" stroke="#FFFFFF" stroke-width="3"/>
+<circle cx="820" cy="1072" r="15" fill="#2F6B63" stroke="#FFFFFF" stroke-width="3"/>
+<line x1="680" y1="1690" x2="680" y2="1800" stroke="#1E2B47" stroke-width="7" stroke-linecap="round"/><polygon points="680,1842 658,1798 702,1798" fill="#1E2B47"/>
+<text x="420" y="1392" font-size="50" font-weight="700" fill="#1E2B47">Neurone 2</text>
+<text x="60" y="1755" font-size="44" fill="#1E2B47">new impulse</text>
+<text x="60" y="1815" font-size="44" fill="#1E2B47">starts</text>
+<line x1="940" y1="596" x2="1066" y2="596" stroke="#1E2B47" stroke-width="3" stroke-linecap="round"/>
+<circle cx="1100" cy="596" r="34" fill="#1E2B47"/><text x="1100" y="611" font-size="42" font-weight="700" fill="#FFFFFF" text-anchor="middle">1</text>
+<text x="1164" y="586" font-size="46" font-weight="700" fill="#1E2B47">Vesicles release</text>
+<text x="1164" y="646" font-size="46" font-weight="700" fill="#1E2B47">neurotransmitter</text>
+<line x1="900" y1="936" x2="1066" y2="936" stroke="#1E2B47" stroke-width="3" stroke-linecap="round"/>
+<circle cx="1100" cy="936" r="34" fill="#1E2B47"/><text x="1100" y="951" font-size="42" font-weight="700" fill="#FFFFFF" text-anchor="middle">2</text>
+<text x="1164" y="926" font-size="46" font-weight="700" fill="#6B7785">Molecules diffuse</text>
+<text x="1164" y="986" font-size="46" font-weight="700" fill="#6B7785">across the gap</text>
+<line x1="988" y1="1100" x2="1128" y2="1186" stroke="#1E2B47" stroke-width="3" stroke-linecap="round"/>
+<circle cx="1160" cy="1200" r="34" fill="#1E2B47"/><text x="1160" y="1215" font-size="42" font-weight="700" fill="#FFFFFF" text-anchor="middle">3</text>
+<text x="1224" y="1186" font-size="46" font-weight="700" fill="#6B7785">Bind to receptor</text>
+<text x="1224" y="1246" font-size="46" font-weight="700" fill="#6B7785">proteins</text>
+<circle cx="1100" cy="1474" r="34" fill="#1E2B47"/><text x="1100" y="1489" font-size="42" font-weight="700" fill="#FFFFFF" text-anchor="middle">4</text>
+<text x="1164" y="1488" font-size="46" font-weight="700" fill="#1E2B47">Impulse in neurone 2</text>
+<text x="1164" y="1040" font-size="34" fill="#6B7785">not required by OxfordAQA</text>
+<text x="1224" y="1300" font-size="34" fill="#6B7785">not required by OxfordAQA</text>
+<text x="1740" y="1858" font-size="50" font-weight="700" fill="#6B7785" text-anchor="end">One direction only</text>
+<text x="1740" y="1920" font-size="42" fill="#6B7785" text-anchor="end">only neurone 1 releases it</text>
+<text x="1740" y="1978" font-size="34" fill="#6B7785" text-anchor="end">not required by OxfordAQA</text></g></svg>

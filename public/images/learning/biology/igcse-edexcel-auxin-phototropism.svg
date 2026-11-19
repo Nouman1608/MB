@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1080" viewBox="0 0 1800 2160" role="img" aria-labelledby="title desc"><title id="title">Why a shoot bends to light (Edexcel International GCSE Biology)</title><desc id="desc">Part 1: light comes from one side; auxin is made in the shoot tip and there is more auxin on the shaded side. Part 2: the shaded cells grow longer, 0.15 mm against 0.10 mm on the lit side (50% longer), so the shoot bends towards the light. Auxin collects on the shaded side; it does not move to the light. No tier labels: the role of auxin in phototropism is 4BI1 statement 2.85, on both papers.</desc><rect width="1800" height="2160" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="88" font-size="68" font-weight="700" fill="#1E2B47" text-anchor="middle">Why a shoot bends to light</text>
+<text x="900" y="164" font-size="44" fill="#4B5B72" text-anchor="middle">Phototropism, schematic</text>
+<text x="60" y="394" font-size="48" font-weight="700" fill="#1E2B47">1 Light from one side</text>
+<circle cx="120" cy="656" r="56" fill="#D6B22F" stroke="#1E2B47" stroke-width="5"/>
+<text x="120" y="768" font-size="44" font-weight="700" fill="#1E2B47" text-anchor="middle">Light</text>
+<line x1="216" y1="560" x2="336" y2="560" stroke="#8A6A0C" stroke-width="7" stroke-linecap="round"/><polygon points="374,560 334,578 334,542" fill="#8A6A0C"/>
+<line x1="216" y1="660" x2="336" y2="660" stroke="#8A6A0C" stroke-width="7" stroke-linecap="round"/><polygon points="374,660 334,678 334,642" fill="#8A6A0C"/>
+<line x1="216" y1="760" x2="336" y2="760" stroke="#8A6A0C" stroke-width="7" stroke-linecap="round"/><polygon points="374,760 334,778 334,742" fill="#8A6A0C"/>
+<rect x="0" y="940" width="1800" height="60" fill="#D9C9A6"/>
+<path d="M660 942 V540 A62 62 0 0 1 784 540 V942" fill="#FFFFFF" stroke="#1E2B47" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="748" cy="548" r="11" fill="#B9632F"/>
+<circle cx="736" cy="598" r="11" fill="#B9632F"/>
+<circle cx="752" cy="640" r="11" fill="#B9632F"/>
+<circle cx="688" cy="658" r="11" fill="#B9632F"/>
+<circle cx="744" cy="690" r="11" fill="#B9632F"/>
+<circle cx="740" cy="746" r="11" fill="#B9632F"/>
+<circle cx="692" cy="808" r="11" fill="#B9632F"/>
+<circle cx="752" cy="818" r="11" fill="#B9632F"/>
+<circle cx="752" cy="878" r="11" fill="#B9632F"/>
+<line x1="730" y1="494" x2="850" y2="450" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<text x="860" y="446" font-size="46" font-weight="700" fill="#1E2B47">Auxin made in the tip</text>
+<line x1="770" y1="702" x2="850" y2="702" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<text x="860" y="676" font-size="46" font-weight="700" fill="#1E2B47">More auxin on</text>
+<text x="860" y="736" font-size="46" font-weight="700" fill="#1E2B47">the shaded side</text>
+<text x="60" y="1276" font-size="48" font-weight="700" fill="#1E2B47">2 Shaded cells grow longer</text>
+<circle cx="120" cy="1536" r="56" fill="#D6B22F" stroke="#1E2B47" stroke-width="5"/>
+<text x="120" y="1648" font-size="44" font-weight="700" fill="#1E2B47" text-anchor="middle">Light</text>
+<line x1="216" y1="1440" x2="336" y2="1440" stroke="#8A6A0C" stroke-width="7" stroke-linecap="round"/><polygon points="374,1440 334,1458 334,1422" fill="#8A6A0C"/>
+<line x1="216" y1="1540" x2="336" y2="1540" stroke="#8A6A0C" stroke-width="7" stroke-linecap="round"/><polygon points="374,1540 334,1558 334,1522" fill="#8A6A0C"/>
+<line x1="216" y1="1640" x2="336" y2="1640" stroke="#8A6A0C" stroke-width="7" stroke-linecap="round"/><polygon points="374,1640 334,1658 334,1622" fill="#8A6A0C"/>
+<text x="1226" y="1516" font-size="46" font-weight="700" fill="#2F6B63" text-anchor="middle">Shoot bends towards light</text>
+<rect x="0" y="2020" width="1800" height="60" fill="#D9C9A6"/>
+<path d="M660 2022 V1840 C660 1780 640 1740 600 1710 L540 1670 C500 1640 510 1570 560 1555 C610 1540 640 1560 680 1590 C740 1640 780 1720 780 1840 V2022" fill="#FFFFFF" stroke="#1E2B47" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="550" y1="1672" x2="650" y2="1600" stroke="#2F6B63" stroke-width="4"/>
+<line x1="586" y1="1706" x2="700" y2="1646" stroke="#2F6B63" stroke-width="4"/>
+<line x1="616" y1="1740" x2="738" y2="1696" stroke="#2F6B63" stroke-width="4"/>
+<line x1="640" y1="1786" x2="764" y2="1754" stroke="#2F6B63" stroke-width="4"/>
+<line x1="656" y1="1832" x2="776" y2="1818" stroke="#2F6B63" stroke-width="4"/>
+<line x1="350" y1="1886" x2="630" y2="1786" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<text x="60" y="1916" font-size="46" font-weight="700" fill="#1E2B47">Lit side:</text>
+<text x="60" y="1978" font-size="44" fill="#1E2B47">cells 0.10 mm</text>
+<line x1="752" y1="1726" x2="880" y2="1786" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<text x="900" y="1782" font-size="46" font-weight="700" fill="#1E2B47">Shaded side:</text>
+<text x="900" y="1842" font-size="44" fill="#1E2B47">cells 0.15 mm</text>
+<text x="900" y="1902" font-size="44" font-weight="700" fill="#1E2B47">(50% longer)</text>
+<text x="900" y="2134" font-size="40" fill="#4B5B72" text-anchor="middle">Auxin collects on the shaded side; it does not move to the light</text></g></svg>

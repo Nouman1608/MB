@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1230" viewBox="0 0 1800 2460" role="img" aria-labelledby="title desc"><title id="title">Three kinds of blood vessel</title><desc id="desc">Cross-sections. Artery: thick, muscular, elastic wall, narrow lumen, no valves; the thick wall withstands high pressure and the elastic wall recoils. Vein: thin wall, wide lumen and valves; at low pressure the valves prevent backflow. Capillary: wall one cell thick, very narrow lumen, no valves; a short diffusion distance, and there are very many, giving a large surface area. No tier labels: structure and function of blood vessels are on both Edexcel papers (4BI1 2.68) and in OxfordAQA 9201 3.2.3j-k, which is not tiered.</desc><rect width="1800" height="2460" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="88" font-size="68" font-weight="700" fill="#1E2B47" text-anchor="middle">Three kinds of blood vessel</text>
+<text x="900" y="164" font-size="44" fill="#4B5B72" text-anchor="middle">Cross-sections, schematic, not to scale</text>
+<circle cx="440" cy="600" r="220" fill="#F2E6B7" stroke="#1E2B47" stroke-width="7"/>
+<circle cx="440" cy="600" r="172" fill="none" stroke="#8A6A0C" stroke-width="6" stroke-dasharray="18 12"/>
+<circle cx="440" cy="600" r="104" fill="#FBE8DE" stroke="#1E2B47" stroke-width="6"/>
+<text x="440" y="616" font-size="42" font-weight="700" fill="#1E2B47" text-anchor="middle">lumen</text>
+<text x="40" y="446" font-size="40" font-weight="700" fill="#1E2B47">wall</text>
+<line x1="156" y1="436" x2="316" y2="542" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<circle cx="316" cy="542" r="9" fill="#1E2B47"/>
+<text x="40" y="834" font-size="40" font-weight="700" fill="#1E2B47">elastic tissue</text>
+<line x1="116" y1="792" x2="286" y2="672" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<circle cx="286" cy="672" r="9" fill="#1E2B47"/>
+<text x="840" y="350" font-size="60" font-weight="700" fill="#1E2B47">Artery</text>
+<text x="840" y="466" font-size="46" fill="#1E2B47">Thick, muscular, elastic wall</text>
+<text x="840" y="534" font-size="46" fill="#1E2B47">Narrow lumen</text>
+<text x="840" y="602" font-size="46" fill="#1E2B47">No valves</text>
+<text x="840" y="760" font-size="46" fill="#1E2B47">Thick wall withstands high</text>
+<text x="840" y="818" font-size="46" fill="#1E2B47">pressure; elastic wall recoils</text>
+<line x1="60" y1="980" x2="1740" y2="980" stroke="#C6D3D0" stroke-width="5" stroke-linecap="round"/>
+<circle cx="440" cy="1322" r="210" fill="#F2E6B7" stroke="#1E2B47" stroke-width="7"/>
+<circle cx="440" cy="1322" r="172" fill="#FBE8DE" stroke="#1E2B47" stroke-width="6"/>
+<text x="440" y="1338" font-size="42" font-weight="700" fill="#1E2B47" text-anchor="middle">lumen</text>
+<text x="40" y="1166" font-size="40" font-weight="700" fill="#1E2B47">wall</text>
+<line x1="156" y1="1156" x2="262" y2="1236" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<circle cx="262" cy="1236" r="9" fill="#1E2B47"/>
+<text x="840" y="1070" font-size="60" font-weight="700" fill="#1E2B47">Vein</text>
+<text x="840" y="1186" font-size="46" fill="#1E2B47">Thin wall</text>
+<text x="840" y="1254" font-size="46" fill="#1E2B47">Wide lumen</text>
+<text x="840" y="1322" font-size="46" fill="#1E2B47">Valves</text>
+<text x="840" y="1480" font-size="46" fill="#1E2B47">Low pressure: valves</text>
+<text x="840" y="1538" font-size="46" fill="#1E2B47">prevent backflow</text>
+<rect x="1278" y="1040" width="464" height="126" fill="#FBE8DE" stroke="#1E2B47" stroke-width="6"/>
+<line x1="1316" y1="1104" x2="1400" y2="1104" stroke="#1E2B47" stroke-width="5" stroke-linecap="round"/><polygon points="1432,1104 1398,1121 1398,1087" fill="#1E2B47"/>
+<line x1="1456" y1="1048" x2="1552" y2="1100" stroke="#1E2B47" stroke-width="10" stroke-linecap="round"/>
+<line x1="1456" y1="1160" x2="1552" y2="1110" stroke="#1E2B47" stroke-width="10" stroke-linecap="round"/>
+<line x1="1502" y1="1072" x2="1516" y2="1210" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<circle cx="1502" cy="1072" r="9" fill="#1E2B47"/>
+<text x="1500" y="1246" font-size="42" font-weight="700" fill="#1E2B47" text-anchor="middle">valve</text>
+<line x1="60" y1="1700" x2="1740" y2="1700" stroke="#C6D3D0" stroke-width="5" stroke-linecap="round"/>
+<circle cx="440" cy="2046" r="82" fill="#F2E6B7" stroke="#1E2B47" stroke-width="7"/>
+<circle cx="440" cy="2046" r="54" fill="#FBE8DE" stroke="#1E2B47" stroke-width="5"/>
+<text x="40" y="1886" font-size="40" font-weight="700" fill="#1E2B47">wall</text>
+<line x1="156" y1="1876" x2="376" y2="2004" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<circle cx="376" cy="2004" r="9" fill="#1E2B47"/>
+<text x="40" y="2272" font-size="40" font-weight="700" fill="#1E2B47">lumen</text>
+<line x1="120" y1="2228" x2="426" y2="2052" stroke="#1E2B47" stroke-width="4" stroke-linecap="round"/>
+<circle cx="426" cy="2052" r="9" fill="#1E2B47"/>
+<text x="840" y="1790" font-size="60" font-weight="700" fill="#1E2B47">Capillary</text>
+<text x="840" y="1906" font-size="46" fill="#1E2B47">Wall one cell thick</text>
+<text x="840" y="1974" font-size="46" fill="#1E2B47">Very narrow lumen</text>
+<text x="840" y="2042" font-size="46" fill="#1E2B47">No valves</text>
+<text x="840" y="2200" font-size="46" fill="#1E2B47">Short diffusion distance;</text>
+<text x="840" y="2258" font-size="46" fill="#1E2B47">very many: large surface area</text></g></svg>

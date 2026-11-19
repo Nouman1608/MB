@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1300" viewBox="0 0 1800 2600" role="img" aria-labelledby="title desc"><title id="title">How the heart pumps (OxfordAQA International GCSE Biology)</title><desc id="desc">One heartbeat in three steps. (1) The atria contract and push blood into the ventricles through the open atrioventricular (AV) valves. (2) The ventricles contract: the AV valves close and the semilunar (SL) valves open, so blood leaves in the arteries. (3) The ventricles relax: the SL valves close, so there is no back-flow from the arteries into the ventricles. Closing valves make the heart sounds. No tier labels; 9201 3.2.3h. A grey note says the valve names and heart sounds are not required by OxfordAQA.</desc><rect width="1800" height="2600" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="88" font-size="68" font-weight="700" fill="#1E2B47" text-anchor="middle">How the heart pumps</text>
+<text x="900" y="164" font-size="44" fill="#4B5B72" text-anchor="middle">Simplified: one heartbeat in three steps</text>
+<rect x="1040" y="306" width="60" height="42" fill="#D6B22F" stroke="#1E2B47" stroke-width="5"/>
+<text x="1124" y="340" font-size="42" fill="#1E2B47">contracting</text>
+<rect x="308" y="396" width="84" height="92" fill="#B5D4CF" stroke="#1E2B47" stroke-width="4"/>
+<rect x="330" y="980" width="84" height="60" fill="#B5D4CF" stroke="#1E2B47" stroke-width="4"/>
+<rect x="182" y="484" width="336" height="188" rx="30" fill="#D6B22F" stroke="#1E2B47" stroke-width="10"/>
+<rect x="182" y="740" width="336" height="244" rx="30" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<line x1="200" y1="674" x2="250" y2="730" stroke="#1E2B47" stroke-width="10" stroke-linecap="round"/>
+<line x1="500" y1="674" x2="450" y2="730" stroke="#1E2B47" stroke-width="10" stroke-linecap="round"/>
+<line x1="330" y1="986" x2="414" y2="986" stroke="#1E2B47" stroke-width="14" stroke-linecap="round"/>
+<line x1="350" y1="410" x2="350" y2="840" stroke="#1E2B47" stroke-width="6" stroke-linecap="round"/><polygon points="350,878 330,838 370,838" fill="#1E2B47"/>
+<rect x="682" y="396" width="84" height="92" fill="#F2CDB2" stroke="#1E2B47" stroke-width="4"/>
+<rect x="704" y="980" width="84" height="60" fill="#F2CDB2" stroke="#1E2B47" stroke-width="4"/>
+<rect x="556" y="484" width="336" height="188" rx="30" fill="#D6B22F" stroke="#1E2B47" stroke-width="10"/>
+<rect x="556" y="740" width="336" height="244" rx="30" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<line x1="574" y1="674" x2="624" y2="730" stroke="#1E2B47" stroke-width="10" stroke-linecap="round"/>
+<line x1="874" y1="674" x2="824" y2="730" stroke="#1E2B47" stroke-width="10" stroke-linecap="round"/>
+<line x1="704" y1="986" x2="788" y2="986" stroke="#1E2B47" stroke-width="14" stroke-linecap="round"/>
+<line x1="724" y1="410" x2="724" y2="840" stroke="#1E2B47" stroke-width="6" stroke-linecap="round"/><polygon points="724,878 704,838 744,838" fill="#1E2B47"/>
+<line x1="540" y1="476" x2="540" y2="990" stroke="#1E2B47" stroke-width="10" stroke-linecap="round"/>
+<text x="60" y="716" font-size="42" font-weight="700" fill="#1E2B47">AV</text>
+<text x="60" y="996" font-size="42" font-weight="700" fill="#1E2B47">SL</text>
+<circle cx="1040" cy="584" r="38" fill="#1E2B47"/><text x="1040" y="599" font-size="42" font-weight="700" fill="#FFFFFF" text-anchor="middle">1</text>
+<text x="1112" y="600" font-size="52" font-weight="700" fill="#1E2B47">Atria contract</text>
+<text x="1000" y="718" font-size="44" fill="#1E2B47">Blood pushed into</text>
+<text x="1000" y="786" font-size="44" fill="#1E2B47">ventricles through</text>
+<text x="1000" y="854" font-size="44" fill="#1E2B47">open AV valves</text>
+<rect x="308" y="1096" width="84" height="92" fill="#B5D4CF" stroke="#1E2B47" stroke-width="4"/>
+<rect x="330" y="1680" width="84" height="60" fill="#B5D4CF" stroke="#1E2B47" stroke-width="4"/>
+<rect x="182" y="1184" width="336" height="188" rx="30" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<rect x="182" y="1440" width="336" height="244" rx="30" fill="#D6B22F" stroke="#1E2B47" stroke-width="10"/>
+<line x1="184" y1="1406" x2="516" y2="1406" stroke="#1E2B47" stroke-width="12" stroke-linecap="round"/>
+<line x1="350" y1="1690" x2="372" y2="1730" stroke="#1E2B47" stroke-width="5" stroke-linecap="round"/>
+<line x1="394" y1="1690" x2="372" y2="1730" stroke="#1E2B47" stroke-width="5" stroke-linecap="round"/>
+<line x1="372" y1="1490" x2="372" y2="1694" stroke="#1E2B47" stroke-width="6" stroke-linecap="round"/><polygon points="372,1732 352,1692 392,1692" fill="#1E2B47"/>
+<rect x="682" y="1096" width="84" height="92" fill="#F2CDB2" stroke="#1E2B47" stroke-width="4"/>
+<rect x="704" y="1680" width="84" height="60" fill="#F2CDB2" stroke="#1E2B47" stroke-width="4"/>
+<rect x="556" y="1184" width="336" height="188" rx="30" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<rect x="556" y="1440" width="336" height="244" rx="30" fill="#D6B22F" stroke="#1E2B47" stroke-width="10"/>
+<line x1="558" y1="1406" x2="890" y2="1406" stroke="#1E2B47" stroke-width="12" stroke-linecap="round"/>
+<line x1="724" y1="1690" x2="746" y2="1730" stroke="#1E2B47" stroke-width="5" stroke-linecap="round"/>
+<line x1="768" y1="1690" x2="746" y2="1730" stroke="#1E2B47" stroke-width="5" stroke-linecap="round"/>
+<line x1="746" y1="1490" x2="746" y2="1694" stroke="#1E2B47" stroke-width="6" stroke-linecap="round"/><polygon points="746,1732 726,1692 766,1692" fill="#1E2B47"/>
+<line x1="540" y1="1176" x2="540" y2="1690" stroke="#1E2B47" stroke-width="10" stroke-linecap="round"/>
+<text x="60" y="1416" font-size="42" font-weight="700" fill="#1E2B47">AV</text>
+<text x="60" y="1696" font-size="42" font-weight="700" fill="#1E2B47">SL</text>
+<circle cx="1040" cy="1284" r="38" fill="#1E2B47"/><text x="1040" y="1299" font-size="42" font-weight="700" fill="#FFFFFF" text-anchor="middle">2</text>
+<text x="1112" y="1300" font-size="52" font-weight="700" fill="#1E2B47">Ventricles contract</text>
+<text x="1000" y="1418" font-size="44" fill="#1E2B47">AV valves close</text>
+<text x="1000" y="1486" font-size="44" fill="#1E2B47">SL valves open:</text>
+<text x="1000" y="1554" font-size="44" fill="#1E2B47">blood leaves in arteries</text>
+<rect x="308" y="1796" width="84" height="92" fill="#B5D4CF" stroke="#1E2B47" stroke-width="4"/>
+<rect x="330" y="2380" width="84" height="60" fill="#B5D4CF" stroke="#1E2B47" stroke-width="4"/>
+<rect x="182" y="1884" width="336" height="188" rx="30" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<rect x="182" y="2140" width="336" height="244" rx="30" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<line x1="200" y1="2074" x2="250" y2="2130" stroke="#1E2B47" stroke-width="10" stroke-linecap="round"/>
+<line x1="500" y1="2074" x2="450" y2="2130" stroke="#1E2B47" stroke-width="10" stroke-linecap="round"/>
+<line x1="334" y1="2388" x2="410" y2="2436" stroke="#1E2B47" stroke-width="5" stroke-linecap="round"/>
+<line x1="410" y1="2388" x2="334" y2="2436" stroke="#1E2B47" stroke-width="5" stroke-linecap="round"/>
+<line x1="330" y1="2386" x2="414" y2="2386" stroke="#1E2B47" stroke-width="10" stroke-linecap="round"/>
+<line x1="350" y1="1804" x2="350" y2="1920" stroke="#1E2B47" stroke-width="6" stroke-linecap="round"/><polygon points="350,1958 330,1918 370,1918" fill="#1E2B47"/>
+<rect x="682" y="1796" width="84" height="92" fill="#F2CDB2" stroke="#1E2B47" stroke-width="4"/>
+<rect x="704" y="2380" width="84" height="60" fill="#F2CDB2" stroke="#1E2B47" stroke-width="4"/>
+<rect x="556" y="1884" width="336" height="188" rx="30" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<rect x="556" y="2140" width="336" height="244" rx="30" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<line x1="574" y1="2074" x2="624" y2="2130" stroke="#1E2B47" stroke-width="10" stroke-linecap="round"/>
+<line x1="874" y1="2074" x2="824" y2="2130" stroke="#1E2B47" stroke-width="10" stroke-linecap="round"/>
+<line x1="708" y1="2388" x2="784" y2="2436" stroke="#1E2B47" stroke-width="5" stroke-linecap="round"/>
+<line x1="784" y1="2388" x2="708" y2="2436" stroke="#1E2B47" stroke-width="5" stroke-linecap="round"/>
+<line x1="704" y1="2386" x2="788" y2="2386" stroke="#1E2B47" stroke-width="10" stroke-linecap="round"/>
+<line x1="724" y1="1804" x2="724" y2="1920" stroke="#1E2B47" stroke-width="6" stroke-linecap="round"/><polygon points="724,1958 704,1918 744,1918" fill="#1E2B47"/>
+<line x1="540" y1="1876" x2="540" y2="2390" stroke="#1E2B47" stroke-width="10" stroke-linecap="round"/>
+<text x="60" y="2116" font-size="42" font-weight="700" fill="#1E2B47">AV</text>
+<text x="60" y="2396" font-size="42" font-weight="700" fill="#1E2B47">SL</text>
+<circle cx="1040" cy="1984" r="38" fill="#1E2B47"/><text x="1040" y="1999" font-size="42" font-weight="700" fill="#FFFFFF" text-anchor="middle">3</text>
+<text x="1112" y="2000" font-size="52" font-weight="700" fill="#1E2B47">Ventricles relax</text>
+<text x="1000" y="2118" font-size="44" fill="#1E2B47">SL valves close:</text>
+<text x="1000" y="2186" font-size="44" fill="#1E2B47">no back-flow from</text>
+<text x="1000" y="2254" font-size="44" fill="#1E2B47">arteries into ventricles</text>
+<line x1="60" y1="1080" x2="1740" y2="1080" stroke="#C6D3D0" stroke-width="4" stroke-linecap="round"/>
+<line x1="60" y1="1780" x2="1740" y2="1780" stroke="#C6D3D0" stroke-width="4" stroke-linecap="round"/>
+<text x="900" y="2510" font-size="42" fill="#4B5B72" text-anchor="middle">AV = atrioventricular, SL = semilunar; closing valves make heart sounds</text>
+<text x="900" y="2570" font-size="34" fill="#6B7785" text-anchor="middle">Valve names and heart sounds: not required by OxfordAQA</text></g></svg>

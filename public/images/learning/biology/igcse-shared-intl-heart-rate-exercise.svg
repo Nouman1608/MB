@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1130" viewBox="0 0 1800 2260" role="img" aria-labelledby="title desc"><title id="title">Heart rate and exercise</title><desc id="desc">Bar chart of heart rate in beats per minute, with dots for three counts (pulse counted for 30 s and doubled) and bars for the means: 74 at rest (72, 76, 74) and 118 after exercise (116, 120, 118), a rise of 44, or 59%. Why heart rate rises: muscles contract more and cells respire faster; more oxygen and glucose are needed and more carbon dioxide must be removed; the heart rate rises for faster delivery and removal. The rate falls back to resting after activity. No tier labels: heart rate in exercise is on both Edexcel papers (4BI1 2.66) and in OxfordAQA 9201 3.2.6g-h, which is not tiered.</desc><rect width="1800" height="2260" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="88" font-size="68" font-weight="700" fill="#1E2B47" text-anchor="middle">Heart rate and exercise</text>
+<text x="900" y="164" font-size="44" fill="#4B5B72" text-anchor="middle">Pulse counted for 30 s, three times, then doubled</text>
+<text x="60" y="326" font-size="44" font-weight="700" fill="#1E2B47">Heart rate (beats per minute)</text>
+<line x1="282" y1="1260" x2="296" y2="1260" stroke="#1E2B47" stroke-width="4"/>
+<text x="270" y="1274" font-size="40" fill="#1E2B47" text-anchor="end">0</text>
+<line x1="282" y1="1134.286" x2="296" y2="1134.286" stroke="#1E2B47" stroke-width="4"/>
+<text x="270" y="1148.286" font-size="40" fill="#1E2B47" text-anchor="end">20</text>
+<line x1="282" y1="1008.572" x2="296" y2="1008.572" stroke="#1E2B47" stroke-width="4"/>
+<text x="270" y="1022.572" font-size="40" fill="#1E2B47" text-anchor="end">40</text>
+<line x1="282" y1="882.858" x2="296" y2="882.858" stroke="#1E2B47" stroke-width="4"/>
+<text x="270" y="896.858" font-size="40" fill="#1E2B47" text-anchor="end">60</text>
+<line x1="282" y1="757.144" x2="296" y2="757.144" stroke="#1E2B47" stroke-width="4"/>
+<text x="270" y="771.144" font-size="40" fill="#1E2B47" text-anchor="end">80</text>
+<line x1="282" y1="631.43" x2="296" y2="631.43" stroke="#1E2B47" stroke-width="4"/>
+<text x="270" y="645.43" font-size="40" fill="#1E2B47" text-anchor="end">100</text>
+<line x1="282" y1="505.716" x2="296" y2="505.716" stroke="#1E2B47" stroke-width="4"/>
+<text x="270" y="519.716" font-size="40" fill="#1E2B47" text-anchor="end">120</text>
+<line x1="282" y1="380.00199999999995" x2="296" y2="380.00199999999995" stroke="#1E2B47" stroke-width="4"/>
+<text x="270" y="394.00199999999995" font-size="40" fill="#1E2B47" text-anchor="end">140</text>
+<rect x="440" y="794.8581999999999" width="340" height="465.1418000000001" fill="#B5D4CF" stroke="#1E2B47" stroke-width="6"/>
+<rect x="1000" y="518.2873999999999" width="340" height="741.7126000000001" fill="#D6B22F" stroke="#1E2B47" stroke-width="6"/>
+<line x1="296" y1="360" x2="296" y2="1262" stroke="#1E2B47" stroke-width="6" stroke-linecap="round"/>
+<line x1="296" y1="1260" x2="1700" y2="1260" stroke="#1E2B47" stroke-width="6" stroke-linecap="round"/>
+<circle cx="530" cy="807.4295999999999" r="16" fill="#FFFFFF" stroke="#1E2B47" stroke-width="6"/>
+<circle cx="610" cy="782.2868" r="16" fill="#FFFFFF" stroke="#1E2B47" stroke-width="6"/>
+<circle cx="690" cy="794.8581999999999" r="16" fill="#FFFFFF" stroke="#1E2B47" stroke-width="6"/>
+<circle cx="1090" cy="530.8588" r="16" fill="#FFFFFF" stroke="#1E2B47" stroke-width="6"/>
+<circle cx="1170" cy="505.716" r="16" fill="#FFFFFF" stroke="#1E2B47" stroke-width="6"/>
+<circle cx="1250" cy="518.2873999999999" r="16" fill="#FFFFFF" stroke="#1E2B47" stroke-width="6"/>
+<text x="610" y="680" font-size="50" font-weight="700" fill="#1E2B47" text-anchor="middle">74</text>
+<text x="1170" y="404" font-size="50" font-weight="700" fill="#1E2B47" text-anchor="middle">118</text>
+<circle cx="380" cy="442" r="16" fill="#FFFFFF" stroke="#1E2B47" stroke-width="6"/>
+<text x="424" y="456" font-size="42" fill="#1E2B47">each count</text>
+<text x="746" y="456" font-size="42" font-weight="700" fill="#1E2B47">Bar = mean</text>
+<line x1="782" y1="794.8581999999999" x2="1550" y2="794.8581999999999" stroke="#4B5B72" stroke-width="4" stroke-dasharray="16 12"/>
+<line x1="1550" y1="794.8581999999999" x2="1550" y2="576" stroke="#1E2B47" stroke-width="7" stroke-linecap="round"/><polygon points="1550,528 1570,578 1530,578" fill="#1E2B47"/>
+<text x="1590" y="640" font-size="46" font-weight="700" fill="#1E2B47">+59%</text>
+<text x="1590" y="700" font-size="40" fill="#1E2B47">(+44)</text>
+<text x="610" y="1336" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">At rest</text>
+<text x="1170" y="1336" font-size="46" font-weight="700" fill="#1E2B47" text-anchor="middle">After exercise</text>
+<text x="60" y="1576" font-size="50" font-weight="700" fill="#1E2B47">Why heart rate rises</text>
+<rect x="60" y="1658" width="480" height="382" rx="30" fill="#F2E6B7" stroke="#1E2B47" stroke-width="5"/>
+<text x="300" y="1776" font-size="44" font-weight="700" fill="#1E2B47" text-anchor="middle">Muscles contract</text>
+<text x="300" y="1848" font-size="44" fill="#1E2B47" text-anchor="middle">more: cells</text>
+<text x="300" y="1920" font-size="44" fill="#1E2B47" text-anchor="middle">respire faster</text>
+<rect x="660" y="1658" width="480" height="382" rx="30" fill="#F2E6B7" stroke="#1E2B47" stroke-width="5"/>
+<text x="900" y="1776" font-size="44" font-weight="700" fill="#1E2B47" text-anchor="middle">More oxygen and</text>
+<text x="900" y="1848" font-size="44" fill="#1E2B47" text-anchor="middle">glucose needed;</text>
+<text x="900" y="1920" font-size="44" fill="#1E2B47" text-anchor="middle" xml:space="preserve"><tspan>more CO</tspan><tspan dy="12.3" font-size="29.9">2</tspan><tspan dy="-12.3"> to remove</tspan></text>
+<rect x="1260" y="1658" width="480" height="382" rx="30" fill="#F2E6B7" stroke="#1E2B47" stroke-width="5"/>
+<text x="1500" y="1776" font-size="44" font-weight="700" fill="#1E2B47" text-anchor="middle">Heart rate rises:</text>
+<text x="1500" y="1848" font-size="44" fill="#1E2B47" text-anchor="middle">faster delivery</text>
+<text x="1500" y="1920" font-size="44" fill="#1E2B47" text-anchor="middle">and removal</text>
+<line x1="548" y1="1850" x2="620" y2="1850" stroke="#1E2B47" stroke-width="7" stroke-linecap="round"/><polygon points="652,1850 618,1868.7 618,1831.3" fill="#1E2B47"/>
+<line x1="1148" y1="1850" x2="1220" y2="1850" stroke="#1E2B47" stroke-width="7" stroke-linecap="round"/><polygon points="1252,1850 1218,1868.7 1218,1831.3" fill="#1E2B47"/>
+<text x="900" y="2146" font-size="44" fill="#4B5B72" text-anchor="middle">Rate falls back to resting after activity</text></g></svg>

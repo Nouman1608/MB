@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1150" viewBox="0 0 1800 2300" role="img" aria-labelledby="title desc"><title id="title">What blood is made of (Edexcel International GCSE Biology)</title><desc id="desc">Red blood cells carry oxygen using haemoglobin and have no nucleus, so they have a pale centre. White blood cells, phagocytes and lymphocytes, each have a nucleus: lymphocytes make antibodies and phagocytes engulf pathogens. Platelets are small fragments of cells that help blood to clot. Plasma is the liquid part of blood and carries blood cells, ions, nutrients, urea, hormones and carbon dioxide. No tier labels: 4BI1 statements 2.59 to 2.62 are on both papers.</desc><rect width="1800" height="2300" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="88" font-size="68" font-weight="700" fill="#1E2B47" text-anchor="middle">What blood is made of</text>
+<text x="900" y="164" font-size="44" fill="#4B5B72" text-anchor="middle">Schematic cells, not to scale</text>
+<circle cx="190" cy="460" r="80" fill="#F2CDB2" stroke="#B9632F" stroke-width="6"/>
+<circle cx="190" cy="460" r="30" fill="#FBE8DE"/>
+<circle cx="400" cy="476" r="80" fill="#F2CDB2" stroke="#B9632F" stroke-width="6"/>
+<circle cx="400" cy="476" r="30" fill="#FBE8DE"/>
+<circle cx="580" cy="448" r="80" fill="#F2CDB2" stroke="#B9632F" stroke-width="6"/>
+<circle cx="580" cy="448" r="30" fill="#FBE8DE"/>
+<text x="800" y="374" font-size="56" font-weight="700" fill="#1E2B47">Red blood cells</text>
+<text x="800" y="476" font-size="46" fill="#1E2B47">Carry oxygen (haemoglobin)</text>
+<text x="800" y="546" font-size="46" fill="#1E2B47">No nucleus, pale centre</text>
+<line x1="60" y1="664" x2="1740" y2="664" stroke="#C6D3D0" stroke-width="5" stroke-linecap="round"/>
+<circle cx="190" cy="904" r="136" fill="#F2E6B7" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="150" cy="856" r="36" fill="#2F6B63"/>
+<circle cx="226" cy="880" r="36" fill="#2F6B63"/>
+<circle cx="180" cy="950" r="36" fill="#2F6B63"/>
+<line x1="150" y1="856" x2="226" y2="880" stroke="#2F6B63" stroke-width="30" stroke-linecap="round"/>
+<line x1="190" y1="870" x2="180" y2="950" stroke="#2F6B63" stroke-width="30" stroke-linecap="round"/>
+<circle cx="500" cy="904" r="116" fill="#F2E6B7" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="500" cy="904" r="92" fill="#2F6B63"/>
+<text x="190" y="1104" font-size="42" font-weight="700" fill="#1E2B47" text-anchor="middle">Phagocyte</text>
+<text x="500" y="1104" font-size="42" font-weight="700" fill="#1E2B47" text-anchor="middle">Lymphocyte</text>
+<text x="800" y="782" font-size="56" font-weight="700" fill="#1E2B47">White blood cells</text>
+<text x="800" y="884" font-size="46" fill="#1E2B47">Phagocytosis, antibodies</text>
+<text x="800" y="954" font-size="46" fill="#1E2B47">Each has a nucleus</text>
+<text x="800" y="1194" font-size="44" fill="#1E2B47">Lymphocytes: make antibodies</text>
+<text x="800" y="1262" font-size="44" fill="#1E2B47">Phagocytes: engulf pathogens</text>
+<line x1="60" y1="1306" x2="1740" y2="1306" stroke="#C6D3D0" stroke-width="5" stroke-linecap="round"/>
+<polygon points="184.8,1475.7 160.4,1494 135.4,1476.4 144.4,1447.2 175,1446.8" fill="#B5D4CF" stroke="#1E2B47" stroke-width="5" stroke-linejoin="round"/>
+<polygon points="496.2,1503.2 461,1501.2 452,1467.1 481.7,1448 509,1470.4" fill="#B5D4CF" stroke="#1E2B47" stroke-width="5" stroke-linejoin="round"/>
+<polygon points="338.2,1558.4 313.8,1567.1 298,1546.6 312.6,1525.3 337.4,1532.6" fill="#B5D4CF" stroke="#1E2B47" stroke-width="5" stroke-linejoin="round"/>
+<polygon points="243.1,1615.7 224.1,1606.4 227.1,1585.4 248,1581.9 257.8,1600.6" fill="#B5D4CF" stroke="#1E2B47" stroke-width="5" stroke-linejoin="round"/>
+<text x="800" y="1420" font-size="56" font-weight="700" fill="#1E2B47">Platelets</text>
+<text x="800" y="1524" font-size="46" fill="#1E2B47">Small fragments of cells</text>
+<text x="800" y="1592" font-size="46" fill="#1E2B47">Help blood to clot</text>
+<line x1="60" y1="1724" x2="1740" y2="1724" stroke="#C6D3D0" stroke-width="5" stroke-linecap="round"/>
+<rect x="80" y="1780" width="540" height="296" rx="30" fill="#F2E6B7" stroke="#1E2B47" stroke-width="6"/>
+<circle cx="180" cy="1850" r="12" fill="#8A6A0C"/>
+<circle cx="420" cy="1838" r="12" fill="#8A6A0C"/>
+<circle cx="540" cy="1880" r="12" fill="#8A6A0C"/>
+<circle cx="300" cy="1888" r="12" fill="#8A6A0C"/>
+<circle cx="220" cy="1958" r="12" fill="#8A6A0C"/>
+<circle cx="360" cy="1990" r="12" fill="#8A6A0C"/>
+<circle cx="500" cy="1970" r="12" fill="#8A6A0C"/>
+<circle cx="160" cy="2030" r="12" fill="#8A6A0C"/>
+<circle cx="290" cy="2040" r="12" fill="#8A6A0C"/>
+<circle cx="450" cy="2040" r="12" fill="#8A6A0C"/>
+<text x="350" y="2140" font-size="42" font-weight="700" fill="#1E2B47" text-anchor="middle">Dissolved substances</text>
+<text x="800" y="1840" font-size="56" font-weight="700" fill="#1E2B47">Plasma</text>
+<text x="800" y="1944" font-size="46" fill="#1E2B47">Liquid part of blood</text>
+<text x="800" y="2012" font-size="46" fill="#1E2B47">Carries blood cells, ions,</text>
+<text x="800" y="2080" font-size="46" fill="#1E2B47" xml:space="preserve"><tspan>nutrients, urea, hormones, CO</tspan><tspan dy="12.9" font-size="31.3">2</tspan></text></g></svg>
