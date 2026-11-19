@@ -33,7 +33,7 @@ For full explanations and worked examples, use the [study guide for 2.1 and 2.2]
 
 They cover sections **2.1 Use of symbols** and **2.2 Algebraic manipulation** of Topic 2, Equations, formulae and identities, in the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), for the January and June series examined on it. Both tiers (Foundation papers 1F and 2F, Higher papers 1H and 2H) have content here; the Higher Tier statements are marked **Higher tier only**. A calculator may be used on every paper, but calculators with symbolic algebra are banned, so all manipulation is by hand.
 
-Links: [course hub](/boards/edexcel/igcse/mathematics/) · [printable checklist](/checklists/edexcel/igcse/mathematics/) · [practice questions for 2.1 and 2.2](/resources/edexcel-igcse-maths-4ma1-use-of-symbols-and-algebraic-manipulation-practice/) · earlier topic-level [revision notes](/resources/edexcel-igcse-mathematics-algebraic-manipulation-revision-notes/) and [practice set](/resources/edexcel-igcse-mathematics-algebraic-manipulation-practice/) · [free diagnostics](/diagnostics/)
+Links: [course hub](/boards/edexcel/igcse/mathematics/) · [printable checklist](/checklists/edexcel/igcse/mathematics/) · [practice questions for 2.1 and 2.2](/resources/edexcel-igcse-maths-4ma1-use-of-symbols-and-algebraic-manipulation-practice/) · earlier topic-level [revision notes](/resources/edexcel-igcse-mathematics-algebraic-manipulation-revision-notes/) · [free diagnostics](/diagnostics/)
 
 ## Key words (2.1A, 2.1B)
 

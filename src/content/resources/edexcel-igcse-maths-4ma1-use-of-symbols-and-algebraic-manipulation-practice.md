@@ -17,7 +17,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "equations-formulae-and-identities-edexcel-igcse-maths"
     subtopic: "algebraic-manipulation-edexcel-igcse-maths"
-description: "Twelve original 4MA1 practice questions on indices, substitution, brackets, factorising, algebraic fractions and proof, with mark-by-mark answers."
+description: "Thirteen original 4MA1 practice questions on indices, substitution, brackets, factorising, algebraic fractions and proof, with mark-by-mark answers."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
@@ -33,9 +33,9 @@ reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379).
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover sections **2.1 Use of symbols** and **2.2 Algebraic manipulation** of Topic 2, Equations, formulae and identities, in the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), for the January and June series examined on it. Questions 1–4 use content on both tiers. Questions 5–10 and 12, and part 11(c), are **Higher tier only** and are marked (Higher); the rest of question 11 uses content on both tiers. A calculator may be used on every 4MA1 paper, but no calculator will do the algebra for you, so show every line: most marks here are for method.
+These questions cover sections **2.1 Use of symbols** and **2.2 Algebraic manipulation** of Topic 2, Equations, formulae and identities, in the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), for the January and June series examined on it. Questions 1–4 use content on both tiers. Questions 5–10 and 12, and parts 11(c) and 13(c), are **Higher tier only** and are marked as Higher; the rest of questions 11 and 13 use content on both tiers. A calculator may be used on every 4MA1 paper, but no calculator will do the algebra for you, so show every line: most marks here are for method.
 
-Learn the content first in the [study guide](/resources/edexcel-igcse-maths-4ma1-use-of-symbols-and-algebraic-manipulation/) and the [revision notes](/resources/edexcel-igcse-maths-4ma1-use-of-symbols-and-algebraic-manipulation-revision-notes/). The course hub is [Edexcel IGCSE Mathematics](/boards/edexcel/igcse/mathematics/) and the [printable checklist](/checklists/edexcel/igcse/mathematics/) lists every statement. For more questions on the same content, the earlier topic-level [practice set](/resources/edexcel-igcse-mathematics-algebraic-manipulation-practice/) uses different expressions.
+Learn the content first in the [study guide](/resources/edexcel-igcse-maths-4ma1-use-of-symbols-and-algebraic-manipulation/) and the [revision notes](/resources/edexcel-igcse-maths-4ma1-use-of-symbols-and-algebraic-manipulation-revision-notes/). The course hub is [Edexcel IGCSE Mathematics](/boards/edexcel/igcse/mathematics/) and the [printable checklist](/checklists/edexcel/igcse/mathematics/) lists every statement.
 
 ## Questions
 
@@ -103,6 +103,8 @@ Learn the content first in the [study guide](/resources/edexcel-igcse-maths-4ma1
 **(a)** Express (x + 3)/4 − (2x − 1)/6 as a single fraction in its simplest form. **[3]**
 **(b)** Simplify fully (x² + 5x)/(x² + 2x − 15) ÷ 2x/(x + 1). **[4]**
 
+**13.** Simplify: (a) x⁻³ (b) x⁰ (c) **(Higher tier only)** x^(1/2). **[3]**
+
 ## Answers
 
 **1. (a)** t⁴⁺⁵ = **t⁹** [1]
@@ -160,6 +162,8 @@ Learn the content first in the [study guide](/resources/edexcel-igcse-maths-4ma1
 **12. (a)** Common denominator 12: [3(x + 3) − 2(2x − 1)] / 12 [1]; 3x + 9 − 4x + 2 [1] = **(11 − x)/12** [1]
 **(b)** x² + 5x = x(x + 5) and x² + 2x − 15 = (x + 5)(x − 3) [1]; multiply by the reciprocal (x + 1)/(2x) [1]; cancel x and (x + 5) [1] = **(x + 1)/[2(x − 3)]** [1]
 *Examiner insight:* A common denominator of 24 in (a) is acceptable, but the answer must then be cancelled to (11 − x)/12 for the final mark, as the question asks for simplest form.
+
+**13. (a)** x⁻³ = 1/x³ [1]. **(b)** x⁰ = 1 [1]. **(c)** x^(1/2) = √x [1].
 
 ## Where marks are usually lost
 

@@ -156,6 +156,13 @@ const CONSOLIDATED_RESOURCES = {
   // collided with another board's resource once in this corpus. Renamed
   // to the family convention; old slug now redirects forward.
   'english-literature-paper-2-drama-revision-notes': 'igcse-english-literature-paper-2-drama-revision-notes',
+
+  // D-509 (owner, 19 Nov 2026): two Edexcel 4MA1 practice sets covered the
+  // same scope (Topic 2, 2.1 Use of symbols and 2.2 Algebraic manipulation).
+  // The smaller set's one question not already covered (Q1, negative, zero
+  // and fractional indices) moved into the larger set as Q13; its other five
+  // duplicated larger-set questions and were dropped. Old slug redirects.
+  'edexcel-igcse-mathematics-algebraic-manipulation-practice': 'edexcel-igcse-maths-4ma1-use-of-symbols-and-algebraic-manipulation-practice',
 };
 
 
@@ -208,6 +215,7 @@ const CONSOLIDATED_RESOURCE_FORMER_TYPES = {
   'sociology-research-methods-revision-notes': 'revision-notes',
   'oxfordaqa-a-level-economics-global-economy-revision-notes': 'revision-notes',
   'english-literature-paper-2-drama-revision-notes': 'revision-notes',
+  'edexcel-igcse-mathematics-algebraic-manipulation-practice': 'practice-questions',
 };
 
 const slugsIn = async (dir) =>
