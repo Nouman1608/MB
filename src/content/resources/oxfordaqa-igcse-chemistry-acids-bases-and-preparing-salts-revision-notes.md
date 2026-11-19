@@ -216,7 +216,7 @@ Example: sodium nitrate. Sodium is too reactive, and sodium hydroxide is an alka
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/acids-bases-and-salts--08-precipitation.webp" width="900" height="1040" alt="Two clear solutions, silver nitrate and sodium chloride, are mixed and white solid silver chloride forms. It is filtered, washed with water and dried, with no evaporation. The equation is balanced." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-oxfordaqa-precipitation.svg" width="900" height="1040" alt="Two clear solutions, silver nitrate and sodium chloride, are mixed and white solid silver chloride forms. It is filtered, washed with water and dried, with no evaporation. The equation is balanced." loading="lazy">
   <figcaption>An insoluble salt is made by mixing solutions, then filtering, washing and drying.</figcaption>
 </figure>
 

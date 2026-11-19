@@ -77,7 +77,7 @@ The Roman numeral is the charge on the metal ion. It does not tell you how many 
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/periodic-table-groups-and-trends--07-iron-ions.webp" width="900" height="910" alt="Group I sodium only forms Na+. Iron forms Fe2+ (iron(II), in FeSO4) by losing two electrons and Fe3+ (iron(III), in FeCl3) by losing three, so transition elements have variable oxidation numbers." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-oxfordaqa-iron-ions.svg" width="900" height="910" alt="Group I sodium only forms Na+. Iron forms Fe2+ (iron(II), in FeSO4) by losing two electrons and Fe3+ (iron(III), in FeCl3) by losing three, so transition elements have variable oxidation numbers." loading="lazy">
   <figcaption>Iron forms two stable ions, iron(II) and iron(III), unlike Group I metals.</figcaption>
 </figure>
 
@@ -163,7 +163,7 @@ Industry uses catalysts because a faster reaction means more product in a given 
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--04-catalyst-profile.webp" width="900" height="860" alt="Energy against progress of reaction for an exothermic reaction. A high hump without a catalyst and a lower dashed hump with a catalyst; the arrow from reactants to hump top is E_a, smaller with a catalyst." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-oxfordaqa-catalyst-profile.svg" width="900" height="860" alt="Energy against progress of reaction for an exothermic reaction. A high hump without a catalyst and a lower dashed hump with a catalyst; the arrow from reactants to hump top is E_a, smaller with a catalyst." loading="lazy">
   <figcaption>A catalyst provides an alternative pathway with lower activation energy.</figcaption>
 </figure>
 

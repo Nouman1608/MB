@@ -52,7 +52,7 @@ Other links: [course hub](/boards/oxfordaqa/igcse/chemistry/), [printable checkl
 - Diamond, graphite and fullerenes are all pure carbon. Different bonding patterns give different properties.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--04-covalent-sharing.webp" width="900" height="1010" alt="Overlapping outer shells show each shared pair as one dot and one cross. HCl and the water and methane molecules use single bonds; carbon dioxide has two double bonds. Each atom ends with 8 outer electrons, hydrogen with 2." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-shared-intl-covalent-sharing.svg" width="900" height="1010" alt="Overlapping outer shells show each shared pair as one dot and one cross. HCl and the water and methane molecules use single bonds; carbon dioxide has two double bonds. Each atom ends with 8 outer electrons, hydrogen with 2." loading="lazy">
   <figcaption>Shared pairs sit in the overlap of the shells, giving every atom a full outer shell.</figcaption>
 </figure>
 
@@ -99,7 +99,7 @@ delocalised electrons = 1.20 × 10²¹ (one per atom)
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--06-giant-covalent.webp" width="900" height="980" alt="Diamond is a rigid 3D network where every carbon bonds to four others, so it is very hard with a very high melting point and is used in cutting tools. Silicon dioxide has each silicon bonded to four oxygens and each oxygen to two silicons, with properties like diamond." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-shared-intl-giant-covalent.svg" width="900" height="980" alt="Diamond is a rigid 3D network where every carbon bonds to four others, so it is very hard with a very high melting point and is used in cutting tools. Silicon dioxide has each silicon bonded to four oxygens and each oxygen to two silicons, with properties like diamond." loading="lazy">
   <figcaption>Diamond and SiO2 are giant networks of covalent bonds, hard and with very high melting points.</figcaption>
 </figure>
 

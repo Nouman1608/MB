@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="970" viewBox="0 0 1800 1940" role="img" aria-labelledby="title desc"><title id="title">The mole links everything (OxfordAQA International GCSE Chemistry)</title><desc id="desc">No tier labels: OxfordAQA International GCSE Chemistry is not tiered, and every link is in 9202 (3.6.3a moles and mass, 3.6.3b Avogadro's constant, 3.6.4a concentration, 3.6.4d molar gas volume of 24 dm3). Amount in mol sits in the middle. Mass in g: multiply moles by Mr, divide mass by Mr. Gas volume in dm3 at r.t.p.: multiply by 24, divide by 24. Particles: multiply by 6.02 × 10^23 per mol, or divide. Concentration in mol/dm3: divide moles by volume in dm3; multiply concentration by volume to get moles.</desc><rect width="1800" height="1940" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="92" font-size="64" font-weight="700" fill="#1E2B47" text-anchor="middle">The mole links everything</text>
+<text x="900" y="174" font-size="42" fill="#4B5B72" text-anchor="middle">Convert to moles first, then to what you need</text>
+<rect x="60" y="340" width="420" height="1540" rx="30" fill="#DDEBE8" stroke="#2F6B63" stroke-width="5"/>
+<text x="270" y="1014" font-size="50" font-weight="700" fill="#1E2B47" text-anchor="middle">amount</text>
+<text x="270" y="1116" font-size="64" font-weight="700" fill="#2F6B63" text-anchor="middle">in mol</text>
+<line x1="496" y1="494" x2="1126" y2="494" stroke="#2F6B63" stroke-width="6" stroke-linecap="round"/><polygon points="1194,494 1124,522 1124,466" fill="#2F6B63"/>
+<text x="840" y="454" font-size="44" font-weight="700" fill="#2F6B63" text-anchor="middle" xml:space="preserve"><tspan>× M</tspan><tspan dy="12.3" font-size="29.9">r</tspan></text>
+<line x1="1186" y1="612" x2="554" y2="612" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/><polygon points="486,612 556,584 556,640" fill="#8A6A0C"/>
+<text x="840" y="678" font-size="44" font-weight="700" fill="#8A6A0C" text-anchor="middle" xml:space="preserve"><tspan>÷ M</tspan><tspan dy="12.3" font-size="29.9">r</tspan></text>
+<rect x="1200" y="416" width="540" height="250" rx="22" fill="#FFFFFF" stroke="#1E2B47" stroke-width="6"/>
+<text x="1470" y="526" font-size="52" font-weight="700" fill="#1E2B47" text-anchor="middle">mass</text>
+<text x="1470" y="596" font-size="42" fill="#4B5B72" text-anchor="middle">in g</text>
+<line x1="496" y1="874" x2="1126" y2="874" stroke="#2F6B63" stroke-width="6" stroke-linecap="round"/><polygon points="1194,874 1124,902 1124,846" fill="#2F6B63"/>
+<text x="840" y="834" font-size="44" font-weight="700" fill="#2F6B63" text-anchor="middle">× 24</text>
+<line x1="1186" y1="992" x2="554" y2="992" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/><polygon points="486,992 556,964 556,1020" fill="#8A6A0C"/>
+<text x="840" y="1058" font-size="44" font-weight="700" fill="#8A6A0C" text-anchor="middle">÷ 24</text>
+<rect x="1200" y="796" width="540" height="250" rx="22" fill="#FFFFFF" stroke="#1E2B47" stroke-width="6"/>
+<text x="1470" y="906" font-size="52" font-weight="700" fill="#1E2B47" text-anchor="middle">gas volume</text>
+<text x="1470" y="976" font-size="42" fill="#4B5B72" text-anchor="middle" xml:space="preserve"><tspan>in dm</tspan><tspan dy="-16" font-size="28.6">3</tspan><tspan dy="16"> at r.t.p.</tspan></text>
+<line x1="496" y1="1254" x2="1126" y2="1254" stroke="#2F6B63" stroke-width="6" stroke-linecap="round"/><polygon points="1194,1254 1124,1282 1124,1226" fill="#2F6B63"/>
+<text x="840" y="1214" font-size="44" font-weight="700" fill="#2F6B63" text-anchor="middle" xml:space="preserve"><tspan>× 6.02 × 10</tspan><tspan dy="-16.7" font-size="29.9">23</tspan></text>
+<line x1="1186" y1="1372" x2="554" y2="1372" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/><polygon points="486,1372 556,1344 556,1400" fill="#8A6A0C"/>
+<text x="840" y="1438" font-size="44" font-weight="700" fill="#8A6A0C" text-anchor="middle" xml:space="preserve"><tspan>÷ 6.02 × 10</tspan><tspan dy="-16.7" font-size="29.9">23</tspan></text>
+<rect x="1200" y="1176" width="540" height="250" rx="22" fill="#FFFFFF" stroke="#1E2B47" stroke-width="6"/>
+<text x="1470" y="1286" font-size="52" font-weight="700" fill="#1E2B47" text-anchor="middle">particles</text>
+<text x="1470" y="1356" font-size="42" fill="#4B5B72" text-anchor="middle" xml:space="preserve"><tspan>6.02 × 10</tspan><tspan dy="-16" font-size="28.6">23</tspan><tspan dy="16"> per mol</tspan></text>
+<line x1="496" y1="1634" x2="1126" y2="1634" stroke="#2F6B63" stroke-width="6" stroke-linecap="round"/><polygon points="1194,1634 1124,1662 1124,1606" fill="#2F6B63"/>
+<text x="840" y="1594" font-size="44" font-weight="700" fill="#2F6B63" text-anchor="middle" xml:space="preserve"><tspan>÷ volume (dm</tspan><tspan dy="-16.7" font-size="29.9">3</tspan><tspan dy="16.7">)</tspan></text>
+<line x1="1186" y1="1752" x2="554" y2="1752" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/><polygon points="486,1752 556,1724 556,1780" fill="#8A6A0C"/>
+<text x="840" y="1818" font-size="44" font-weight="700" fill="#8A6A0C" text-anchor="middle" xml:space="preserve"><tspan>× volume (dm</tspan><tspan dy="-16.7" font-size="29.9">3</tspan><tspan dy="16.7">)</tspan></text>
+<rect x="1200" y="1556" width="540" height="250" rx="22" fill="#FFFFFF" stroke="#1E2B47" stroke-width="6"/>
+<text x="1470" y="1666" font-size="52" font-weight="700" fill="#1E2B47" text-anchor="middle">concentration</text>
+<text x="1470" y="1736" font-size="42" fill="#4B5B72" text-anchor="middle" xml:space="preserve"><tspan>in mol/dm</tspan><tspan dy="-16" font-size="28.6">3</tspan></text></g></svg>

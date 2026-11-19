@@ -123,7 +123,7 @@ Formula: Fe2(SO4)3
 The Roman numeral in a name gives the charge on the metal ion: iron(II) is Fe²⁺ and iron(III) is Fe³⁺.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--02-ionic-formula.webp" width="900" height="950" alt="One Mg2+ ion balances two Cl- ions, giving MgCl2. Two Al3+ ions (+6) balance three O2- ions (-6), giving Al2O3." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-edexcel-ionic-formula.svg" width="900" height="950" alt="One Mg2+ ion balances two Cl- ions, giving MgCl2. Two Al3+ ions (+6) balance three O2- ions (-6), giving Al2O3." loading="lazy">
   <figcaption>The formula is the ratio of ions that makes total positive and negative charge equal.</figcaption>
 </figure>
 
@@ -150,8 +150,8 @@ Two sodium atoms are needed because each gives only one electron and oxygen need
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--01-ionic-transfer.webp" width="900" height="945" alt="Outer shells only: sodium gives one electron to chlorine, giving Na+ with none left and Cl- with eight. Magnesium gives two electrons to oxygen, giving Mg2+ and O2- with eight. Dots are the metal's electrons and crosses the non-metal's." loading="lazy">
-  <figcaption>Metal atoms transfer outer electrons to non-metal atoms, giving ions with full outer shells (MgO is Extended).</figcaption>
+  <img src="/images/learning/chemistry/igcse-shared-intl-ionic-transfer.svg" width="900" height="945" alt="Outer shells only: sodium gives one electron to chlorine, giving Na+ with none left and Cl- with eight. Magnesium gives two electrons to oxygen, giving Mg2+ and O2- with eight. Dots are the metal's electrons and crosses the non-metal's." loading="lazy">
+  <figcaption>Metal atoms transfer outer electrons to non-metal atoms, giving ions with full outer shells.</figcaption>
 </figure>
 
 
@@ -165,7 +165,7 @@ An **ionic bond** is the strong electrostatic attraction between oppositely char
 The full explanation belongs to electrolysis (1.56C, Paper 2 only): ions must be free to move to carry charge, and in the solid they are held in fixed positions.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--02-ionic-lattice.webp" width="900" height="924" alt="A regular grid of positive and negative ions alternating in every direction. Every ion is attracted to its neighbours, so many strong attractions run throughout the lattice, giving a high melting point." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-shared-intl-ionic-lattice.svg" width="900" height="924" alt="A regular grid of positive and negative ions alternating in every direction. Every ion is attracted to its neighbours, so many strong attractions run throughout the lattice, giving a high melting point." loading="lazy">
   <figcaption>Alternating ions in a giant lattice are held by many strong electrostatic attractions.</figcaption>
 </figure>
 
@@ -230,7 +230,7 @@ In any halogen-containing molecule the halogen forms one shared pair and keeps t
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--04-covalent-sharing.webp" width="900" height="1010" alt="Overlapping outer shells show each shared pair as one dot and one cross. HCl and the water and methane molecules use single bonds; carbon dioxide has two double bonds. Each atom ends with 8 outer electrons, hydrogen with 2." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-shared-intl-covalent-sharing.svg" width="900" height="1010" alt="Overlapping outer shells show each shared pair as one dot and one cross. HCl and the water and methane molecules use single bonds; carbon dioxide has two double bonds. Each atom ends with 8 outer electrons, hydrogen with 2." loading="lazy">
   <figcaption>Shared pairs sit in the overlap of the shells, giving every atom a full outer shell.</figcaption>
 </figure>
 
@@ -258,7 +258,7 @@ All four are simple molecular. From F₂ to I₂ the relative molecular mass inc
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--05-simple-molecules-melting.webp" width="900" height="995" alt="CO2 molecules in a solid are held by weak forces (dashed) between molecules. Heating breaks only these weak forces, so the molecules separate into a liquid while the strong double bonds inside each molecule stay intact." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-shared-intl-simple-molecules-melting.svg" width="900" height="995" alt="CO2 molecules in a solid are held by weak forces (dashed) between molecules. Heating breaks only these weak forces, so the molecules separate into a liquid while the strong double bonds inside each molecule stay intact." loading="lazy">
   <figcaption>Melting breaks weak forces between molecules, not the strong covalent bonds inside them.</figcaption>
 </figure>
 
@@ -281,7 +281,7 @@ C60 is carbon only, but it is **not** a giant structure: each molecule is a holl
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--06-giant-covalent.webp" width="900" height="980" alt="Diamond is a rigid 3D network where every carbon bonds to four others, so it is very hard with a very high melting point and is used in cutting tools. Silicon dioxide has each silicon bonded to four oxygens and each oxygen to two silicons, with properties like diamond." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-shared-intl-giant-covalent.svg" width="900" height="980" alt="Diamond is a rigid 3D network where every carbon bonds to four others, so it is very hard with a very high melting point and is used in cutting tools. Silicon dioxide has each silicon bonded to four oxygens and each oxygen to two silicons, with properties like diamond." loading="lazy">
   <figcaption>Diamond and SiO2 are giant networks of covalent bonds, hard and with very high melting points.</figcaption>
 </figure>
 
@@ -312,7 +312,7 @@ Draw rows of circles, closely packed and regularly arranged, each marked with a 
 A metal is a giant lattice of **positive metal ions** surrounded by **delocalised electrons**. The outer electrons have left the atoms and are free to move through the whole structure. **Metallic bonding is the electrostatic attraction between the positive metal ions and the delocalised electrons.**
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--08-metallic-bonding.webp" width="900" height="1212" alt="A lattice of positive metal ions in a sea of free electrons. The attraction holds the structure together. Free electrons drifting carry current, and when layers of ions slide the electron sea still holds them together, so metals are malleable." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-edexcel-metallic-bonding.svg" width="900" height="1212" alt="A lattice of positive metal ions in a sea of free electrons. The attraction holds the structure together. Free electrons drifting carry current, and when layers of ions slide the electron sea still holds them together, so metals are malleable. The whole figure is marked Paper 2 only." loading="lazy">
   <figcaption>Positive ions in a sea of delocalised electrons explain conduction and malleability.</figcaption>
 </figure>
 

@@ -93,7 +93,7 @@ Group 1 → 1+, Group 2 → 2+, Group 3 → 3+. Group 5 → 3−, Group 6 → 2�
 Small reminder: Ca²⁺ and NO₃⁻ → LCM 2 → one Ca²⁺, two NO₃⁻ → Ca(NO₃)₂.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/formulae-equations-and-the-mole--02-ionic-formula.webp" width="900" height="950" alt="One Mg2+ ion balances two Cl- ions, giving MgCl2. Two Al3+ ions (+6) balance three O2- ions (-6), giving Al2O3." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-edexcel-ionic-formula.svg" width="900" height="950" alt="One Mg2+ ion balances two Cl- ions, giving MgCl2. Two Al3+ ions (+6) balance three O2- ions (-6), giving Al2O3." loading="lazy">
   <figcaption>The formula is the ratio of ions that makes total positive and negative charge equal.</figcaption>
 </figure>
 
@@ -117,8 +117,8 @@ Small reminder: Ca²⁺ and NO₃⁻ → LCM 2 → one Ca²⁺, two NO₃⁻ →
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--01-ionic-transfer.webp" width="900" height="945" alt="Outer shells only: sodium gives one electron to chlorine, giving Na+ with none left and Cl- with eight. Magnesium gives two electrons to oxygen, giving Mg2+ and O2- with eight. Dots are the metal's electrons and crosses the non-metal's." loading="lazy">
-  <figcaption>Metal atoms transfer outer electrons to non-metal atoms, giving ions with full outer shells (MgO is Extended).</figcaption>
+  <img src="/images/learning/chemistry/igcse-shared-intl-ionic-transfer.svg" width="900" height="945" alt="Outer shells only: sodium gives one electron to chlorine, giving Na+ with none left and Cl- with eight. Magnesium gives two electrons to oxygen, giving Mg2+ and O2- with eight. Dots are the metal's electrons and crosses the non-metal's." loading="lazy">
+  <figcaption>Metal atoms transfer outer electrons to non-metal atoms, giving ions with full outer shells.</figcaption>
 </figure>
 
 
@@ -131,7 +131,7 @@ Small reminder: Ca²⁺ and NO₃⁻ → LCM 2 → one Ca²⁺, two NO₃⁻ →
 | Molten or aqueous **does** conduct | Ions free to move and carry charge |
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--02-ionic-lattice.webp" width="900" height="924" alt="A regular grid of positive and negative ions alternating in every direction. Every ion is attracted to its neighbours, so many strong attractions run throughout the lattice, giving a high melting point." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-shared-intl-ionic-lattice.svg" width="900" height="924" alt="A regular grid of positive and negative ions alternating in every direction. Every ion is attracted to its neighbours, so many strong attractions run throughout the lattice, giving a high melting point." loading="lazy">
   <figcaption>Alternating ions in a giant lattice are held by many strong electrostatic attractions.</figcaption>
 </figure>
 
@@ -186,7 +186,7 @@ Small reminder (halogens, Mr from A_r F = 19, Cl = 35.5, Br = 80, I = 127):
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--05-simple-molecules-melting.webp" width="900" height="995" alt="CO2 molecules in a solid are held by weak forces (dashed) between molecules. Heating breaks only these weak forces, so the molecules separate into a liquid while the strong double bonds inside each molecule stay intact." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-shared-intl-simple-molecules-melting.svg" width="900" height="995" alt="CO2 molecules in a solid are held by weak forces (dashed) between molecules. Heating breaks only these weak forces, so the molecules separate into a liquid while the strong double bonds inside each molecule stay intact." loading="lazy">
   <figcaption>Melting breaks weak forces between molecules, not the strong covalent bonds inside them.</figcaption>
 </figure>
 
@@ -210,7 +210,7 @@ Small reminder (halogens, Mr from A_r F = 19, Cl = 35.5, Br = 80, I = 127):
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--06-giant-covalent.webp" width="900" height="980" alt="Diamond is a rigid 3D network where every carbon bonds to four others, so it is very hard with a very high melting point and is used in cutting tools. Silicon dioxide has each silicon bonded to four oxygens and each oxygen to two silicons, with properties like diamond." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-shared-intl-giant-covalent.svg" width="900" height="980" alt="Diamond is a rigid 3D network where every carbon bonds to four others, so it is very hard with a very high melting point and is used in cutting tools. Silicon dioxide has each silicon bonded to four oxygens and each oxygen to two silicons, with properties like diamond." loading="lazy">
   <figcaption>Diamond and SiO2 are giant networks of covalent bonds, hard and with very high melting points.</figcaption>
 </figure>
 
@@ -225,7 +225,7 @@ Small reminder (halogens, Mr from A_r F = 19, Cl = 35.5, Br = 80, I = 127):
 Covalent compounds do not usually conduct electricity. Graphite is the exception to learn.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--04-covalent-sharing.webp" width="900" height="1010" alt="Overlapping outer shells show each shared pair as one dot and one cross. HCl and the water and methane molecules use single bonds; carbon dioxide has two double bonds. Each atom ends with 8 outer electrons, hydrogen with 2." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-shared-intl-covalent-sharing.svg" width="900" height="1010" alt="Overlapping outer shells show each shared pair as one dot and one cross. HCl and the water and methane molecules use single bonds; carbon dioxide has two double bonds. Each atom ends with 8 outer electrons, hydrogen with 2." loading="lazy">
   <figcaption>Shared pairs sit in the overlap of the shells, giving every atom a full outer shell.</figcaption>
 </figure>
 
@@ -248,7 +248,7 @@ Covalent compounds do not usually conduct electricity. Graphite is the exception
 | Usually high melting point | Many strong attractions to overcome |
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ionic-covalent-and-metallic-bonding--08-metallic-bonding.webp" width="900" height="1212" alt="A lattice of positive metal ions in a sea of free electrons. The attraction holds the structure together. Free electrons drifting carry current, and when layers of ions slide the electron sea still holds them together, so metals are malleable." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-edexcel-metallic-bonding.svg" width="900" height="1212" alt="A lattice of positive metal ions in a sea of free electrons. The attraction holds the structure together. Free electrons drifting carry current, and when layers of ions slide the electron sea still holds them together, so metals are malleable. The whole figure is marked Paper 2 only." loading="lazy">
   <figcaption>Positive ions in a sea of delocalised electrons explain conduction and malleability.</figcaption>
 </figure>
 

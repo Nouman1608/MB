@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="990" viewBox="0 0 1800 1980" role="img" aria-labelledby="title desc"><title id="title">Dynamic equilibrium (Edexcel International GCSE Chemistry: Paper 2 only)</title><desc id="desc">Marked Paper 2 only: dynamic equilibrium in a sealed container, with forward and reverse reactions at the same rate and constant concentrations, is 4CH1 statements 3.19C and 3.20C, in bold. Graph of rate against time: the forward rate starts high and falls; the reverse rate starts at zero and rises; from the equilibrium point both are equal and constant. Particle boxes: at the start all 12 particles are A; at equilibrium there are 4 A and 8 B. The numbers stay fixed while both reactions go on.</desc><rect width="1800" height="1980" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="92" font-size="64" font-weight="700" fill="#1E2B47" text-anchor="middle">Dynamic equilibrium</text>
+<text x="900" y="172" font-size="42" fill="#4B5B72" text-anchor="middle">Both reactions go on at equal rates</text>
+<rect x="60" y="233" width="285" height="58" rx="29" fill="#8A6A0C"/><text x="202.5" y="274.96" font-size="36" font-weight="700" fill="#FFFFFF" text-anchor="middle">Paper 2 only</text>
+<rect x="60" y="320" width="1680" height="980" rx="22" fill="#FFFFFF" stroke="#C6D3D0" stroke-width="4"/>
+<line x1="300" y1="460" x2="300" y2="1140" stroke="#1E2B47" stroke-width="6"/>
+<line x1="300" y1="1140" x2="1700" y2="1140" stroke="#1E2B47" stroke-width="6"/>
+<text x="112" y="810" font-size="44" font-weight="700" fill="#1E2B47" text-anchor="middle" transform="rotate(-90 112 810)">Rate</text>
+<text x="1000" y="1236" font-size="44" font-weight="700" fill="#1E2B47" text-anchor="middle">Time</text>
+<line x1="822" y1="940" x2="822" y2="1140" stroke="#4B5B72" stroke-width="3" stroke-dasharray="12 10"/>
+<path d="M300 548 C400 800 560 920 820 936 L1700 940" fill="none" stroke="#1E2B47" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M300 1140 C420 980 600 950 820 944 L1700 940" fill="none" stroke="#8A6A0C" stroke-width="8" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="26 16"/>
+<text x="456" y="676" font-size="46" font-weight="700" fill="#1E2B47">forward</text>
+<text x="546" y="1090" font-size="46" font-weight="700" fill="#8A6A0C">reverse</text>
+<text x="848" y="1110" font-size="46" font-weight="700" fill="#4B5B72">equilibrium</text>
+<text x="1210" y="900" font-size="46" font-weight="700" fill="#1E2B47">equal rates</text>
+<rect x="80" y="1440" width="740" height="380" rx="22" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<rect x="980" y="1440" width="740" height="380" rx="22" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<text x="450" y="1406" font-size="44" font-weight="700" fill="#1E2B47" text-anchor="middle">start: all A</text>
+<text x="1350" y="1406" font-size="44" font-weight="700" fill="#1E2B47" text-anchor="middle">equilibrium: 4 A, 8 B</text>
+<circle cx="140" cy="1546" r="32" fill="#DDEBE8" stroke="#2F6B63" stroke-width="5"/>
+<circle cx="530" cy="1490" r="32" fill="#DDEBE8" stroke="#2F6B63" stroke-width="5"/>
+<circle cx="580" cy="1566" r="32" fill="#DDEBE8" stroke="#2F6B63" stroke-width="5"/>
+<circle cx="700" cy="1540" r="32" fill="#DDEBE8" stroke="#2F6B63" stroke-width="5"/>
+<circle cx="310" cy="1616" r="32" fill="#DDEBE8" stroke="#2F6B63" stroke-width="5"/>
+<circle cx="406" cy="1596" r="32" fill="#DDEBE8" stroke="#2F6B63" stroke-width="5"/>
+<circle cx="474" cy="1666" r="32" fill="#DDEBE8" stroke="#2F6B63" stroke-width="5"/>
+<circle cx="680" cy="1660" r="32" fill="#DDEBE8" stroke="#2F6B63" stroke-width="5"/>
+<circle cx="386" cy="1716" r="32" fill="#DDEBE8" stroke="#2F6B63" stroke-width="5"/>
+<circle cx="556" cy="1744" r="32" fill="#DDEBE8" stroke="#2F6B63" stroke-width="5"/>
+<circle cx="290" cy="1766" r="32" fill="#DDEBE8" stroke="#2F6B63" stroke-width="5"/>
+<circle cx="760" cy="1752" r="32" fill="#DDEBE8" stroke="#2F6B63" stroke-width="5"/>
+<circle cx="1190" cy="1514" r="32" fill="#DDEBE8" stroke="#2F6B63" stroke-width="5"/>
+<circle cx="1396" cy="1550" r="32" fill="#DDEBE8" stroke="#2F6B63" stroke-width="5"/>
+<circle cx="1576" cy="1630" r="32" fill="#DDEBE8" stroke="#2F6B63" stroke-width="5"/>
+<circle cx="1586" cy="1766" r="32" fill="#DDEBE8" stroke="#2F6B63" stroke-width="5"/>
+<rect x="1060" y="1514" width="60" height="60" rx="8" fill="#F2E6B7" stroke="#8A6A0C" stroke-width="5"/>
+<rect x="1254" y="1502" width="60" height="60" rx="8" fill="#F2E6B7" stroke="#8A6A0C" stroke-width="5"/>
+<rect x="1014" y="1610" width="60" height="60" rx="8" fill="#F2E6B7" stroke="#8A6A0C" stroke-width="5"/>
+<rect x="1180" y="1596" width="60" height="60" rx="8" fill="#F2E6B7" stroke="#8A6A0C" stroke-width="5"/>
+<rect x="1634" y="1586" width="60" height="60" rx="8" fill="#F2E6B7" stroke="#8A6A0C" stroke-width="5"/>
+<rect x="1090" y="1724" width="60" height="60" rx="8" fill="#F2E6B7" stroke="#8A6A0C" stroke-width="5"/>
+<rect x="1214" y="1706" width="60" height="60" rx="8" fill="#F2E6B7" stroke="#8A6A0C" stroke-width="5"/>
+<rect x="1410" y="1700" width="60" height="60" rx="8" fill="#F2E6B7" stroke="#8A6A0C" stroke-width="5"/>
+<line x1="836" y1="1636" x2="920" y2="1636" stroke="#1E2B47" stroke-width="8" stroke-linecap="round"/><polygon points="968,1636 918,1666 918,1606" fill="#1E2B47"/>
+<circle cx="128" cy="1910" r="32" fill="#DDEBE8" stroke="#2F6B63" stroke-width="5"/>
+<text x="174" y="1926" font-size="42" fill="#1E2B47">A reactant</text>
+<rect x="490" y="1880" width="60" height="60" rx="8" fill="#F2E6B7" stroke="#8A6A0C" stroke-width="5"/>
+<text x="568" y="1926" font-size="42" fill="#1E2B47">B product</text>
+<text x="1720" y="1926" font-size="40" fill="#4B5B72" text-anchor="end">numbers fixed, both reactions go on</text></g></svg>

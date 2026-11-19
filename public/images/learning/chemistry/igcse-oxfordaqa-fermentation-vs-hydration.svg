@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1010" viewBox="0 0 1800 2020" role="img" aria-labelledby="title desc"><title id="title">Fermentation or steam and ethene? (OxfordAQA International GCSE Chemistry)</title><desc id="desc">No tier label: OxfordAQA International GCSE Chemistry is not tiered, and 9202 statement 3.10.1.1f asks students to compare the two ways of making ethanol. Fermentation: renewable raw material from plants, slow, gives a dilute solution that must be distilled to purify it, mild conditions of 20–35 °C (the range in 9202 3.10.1.1g). Steam and ethene: non-renewable raw material from crude oil, fast, gives pure ethanol in a continuous process, needs high temperature and pressure (about 300 °C and 6000 kPa). No route wins outright.</desc><rect width="1800" height="2020" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="92" font-size="64" font-weight="700" fill="#1E2B47" text-anchor="middle">Which route is better?</text>
+<text x="900" y="174" font-size="42" fill="#4B5B72" text-anchor="middle">No winner: each has trade-offs</text>
+<rect x="120" y="240" width="760" height="100" rx="50" fill="#2F6B63"/>
+<text x="500" y="308" font-size="50" font-weight="700" fill="#FFFFFF" text-anchor="middle">Fermentation</text>
+<rect x="920" y="240" width="760" height="100" rx="50" fill="#8A6A0C"/>
+<text x="1300" y="308" font-size="50" font-weight="700" fill="#FFFFFF" text-anchor="middle">Steam + ethene</text>
+<rect x="60" y="380" width="1680" height="380" rx="22" fill="#FFFFFF" stroke="#C6D3D0" stroke-width="5"/>
+<text x="900" y="454" font-size="44" font-weight="700" fill="#4B5B72" text-anchor="middle">Raw material</text>
+<rect x="60" y="780" width="1680" height="380" rx="22" fill="#FFFFFF" stroke="#C6D3D0" stroke-width="5"/>
+<text x="900" y="854" font-size="44" font-weight="700" fill="#4B5B72" text-anchor="middle">Speed</text>
+<rect x="60" y="1180" width="1680" height="380" rx="22" fill="#FFFFFF" stroke="#C6D3D0" stroke-width="5"/>
+<text x="900" y="1254" font-size="44" font-weight="700" fill="#4B5B72" text-anchor="middle">Product</text>
+<rect x="60" y="1580" width="1680" height="380" rx="22" fill="#FFFFFF" stroke="#C6D3D0" stroke-width="5"/>
+<text x="900" y="1654" font-size="44" font-weight="700" fill="#4B5B72" text-anchor="middle">Conditions</text>
+<line x1="320" y1="570" x2="320" y2="682" stroke="#2F6B63" stroke-width="8" stroke-linecap="round"/>
+<ellipse cx="268" cy="552" rx="62" ry="26" fill="#B5D4CF" stroke="#2F6B63" stroke-width="4" transform="rotate(-28 268 552)"/>
+<ellipse cx="376" cy="522" rx="62" ry="26" fill="#DDEBE8" stroke="#2F6B63" stroke-width="4" transform="rotate(28 376 522)"/>
+<text x="420" y="610" font-size="46" font-weight="700" fill="#2F6B63">renewable</text>
+<text x="420" y="684" font-size="40" fill="#4B5B72">from plants</text>
+<path d="M1040 566 Q1004 620 1004 640 A36 36 0 0 0 1076 640 Q1076 620 1040 566 Z" fill="#3A4558" stroke="#1E2B47" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="1110" y="610" font-size="46" font-weight="700" fill="#1E2B47">not renewable</text>
+<text x="1110" y="684" font-size="40" fill="#4B5B72">from crude oil</text>
+<rect x="180" y="920" width="640" height="80" rx="40" fill="#FFFFFF"/>
+<rect x="180" y="920" width="160" height="80" rx="40" fill="#B5D4CF"/>
+<rect x="180" y="920" width="640" height="80" rx="40" fill="none" stroke="#1E2B47" stroke-width="5"/>
+<rect x="980" y="920" width="640" height="80" rx="40" fill="#D6B22F" stroke="#1E2B47" stroke-width="5"/>
+<text x="500" y="1074" font-size="46" font-weight="700" fill="#2F6B63" text-anchor="middle">slow</text>
+<text x="1300" y="1074" font-size="46" font-weight="700" fill="#8A6A0C" text-anchor="middle">fast</text>
+<rect x="230" y="1290" width="260" height="200" rx="12" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<rect x="1030" y="1290" width="260" height="200" rx="12" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<circle cx="264" cy="1322" r="18" fill="#D6B22F" stroke="#8A6A0C" stroke-width="4"/>
+<circle cx="1064" cy="1322" r="18" fill="#D6B22F" stroke="#8A6A0C" stroke-width="4"/>
+<circle cx="312" cy="1322" r="18" fill="#DCEAF0" stroke="#6C9AAE" stroke-width="4"/>
+<circle cx="1112" cy="1322" r="18" fill="#D6B22F" stroke="#8A6A0C" stroke-width="4"/>
+<circle cx="360" cy="1322" r="18" fill="#DCEAF0" stroke="#6C9AAE" stroke-width="4"/>
+<circle cx="1160" cy="1322" r="18" fill="#D6B22F" stroke="#8A6A0C" stroke-width="4"/>
+<circle cx="408" cy="1322" r="18" fill="#DCEAF0" stroke="#6C9AAE" stroke-width="4"/>
+<circle cx="1208" cy="1322" r="18" fill="#D6B22F" stroke="#8A6A0C" stroke-width="4"/>
+<circle cx="456" cy="1322" r="18" fill="#DCEAF0" stroke="#6C9AAE" stroke-width="4"/>
+<circle cx="1256" cy="1322" r="18" fill="#D6B22F" stroke="#8A6A0C" stroke-width="4"/>
+<circle cx="264" cy="1368" r="18" fill="#DCEAF0" stroke="#6C9AAE" stroke-width="4"/>
+<circle cx="1064" cy="1368" r="18" fill="#D6B22F" stroke="#8A6A0C" stroke-width="4"/>
+<circle cx="312" cy="1368" r="18" fill="#DCEAF0" stroke="#6C9AAE" stroke-width="4"/>
+<circle cx="1112" cy="1368" r="18" fill="#D6B22F" stroke="#8A6A0C" stroke-width="4"/>
+<circle cx="360" cy="1368" r="18" fill="#DCEAF0" stroke="#6C9AAE" stroke-width="4"/>
+<circle cx="1160" cy="1368" r="18" fill="#D6B22F" stroke="#8A6A0C" stroke-width="4"/>
+<circle cx="408" cy="1368" r="18" fill="#D6B22F" stroke="#8A6A0C" stroke-width="4"/>
+<circle cx="1208" cy="1368" r="18" fill="#D6B22F" stroke="#8A6A0C" stroke-width="4"/>
+<circle cx="456" cy="1368" r="18" fill="#DCEAF0" stroke="#6C9AAE" stroke-width="4"/>
+<circle cx="1256" cy="1368" r="18" fill="#D6B22F" stroke="#8A6A0C" stroke-width="4"/>
+<circle cx="264" cy="1414" r="18" fill="#DCEAF0" stroke="#6C9AAE" stroke-width="4"/>
+<circle cx="1064" cy="1414" r="18" fill="#D6B22F" stroke="#8A6A0C" stroke-width="4"/>
+<circle cx="312" cy="1414" r="18" fill="#D6B22F" stroke="#8A6A0C" stroke-width="4"/>
+<circle cx="1112" cy="1414" r="18" fill="#D6B22F" stroke="#8A6A0C" stroke-width="4"/>
+<circle cx="360" cy="1414" r="18" fill="#DCEAF0" stroke="#6C9AAE" stroke-width="4"/>
+<circle cx="1160" cy="1414" r="18" fill="#D6B22F" stroke="#8A6A0C" stroke-width="4"/>
+<circle cx="408" cy="1414" r="18" fill="#DCEAF0" stroke="#6C9AAE" stroke-width="4"/>
+<circle cx="1208" cy="1414" r="18" fill="#D6B22F" stroke="#8A6A0C" stroke-width="4"/>
+<circle cx="456" cy="1414" r="18" fill="#DCEAF0" stroke="#6C9AAE" stroke-width="4"/>
+<circle cx="1256" cy="1414" r="18" fill="#D6B22F" stroke="#8A6A0C" stroke-width="4"/>
+<circle cx="264" cy="1460" r="18" fill="#DCEAF0" stroke="#6C9AAE" stroke-width="4"/>
+<circle cx="1064" cy="1460" r="18" fill="#D6B22F" stroke="#8A6A0C" stroke-width="4"/>
+<circle cx="312" cy="1460" r="18" fill="#DCEAF0" stroke="#6C9AAE" stroke-width="4"/>
+<circle cx="1112" cy="1460" r="18" fill="#D6B22F" stroke="#8A6A0C" stroke-width="4"/>
+<circle cx="360" cy="1460" r="18" fill="#DCEAF0" stroke="#6C9AAE" stroke-width="4"/>
+<circle cx="1160" cy="1460" r="18" fill="#D6B22F" stroke="#8A6A0C" stroke-width="4"/>
+<circle cx="408" cy="1460" r="18" fill="#DCEAF0" stroke="#6C9AAE" stroke-width="4"/>
+<circle cx="1208" cy="1460" r="18" fill="#D6B22F" stroke="#8A6A0C" stroke-width="4"/>
+<circle cx="456" cy="1460" r="18" fill="#D6B22F" stroke="#8A6A0C" stroke-width="4"/>
+<circle cx="1256" cy="1460" r="18" fill="#D6B22F" stroke="#8A6A0C" stroke-width="4"/>
+<text x="526" y="1368" font-size="46" font-weight="700" fill="#2F6B63">dilute</text>
+<text x="526" y="1440" font-size="40" fill="#4B5B72">distil to purify</text>
+<text x="1326" y="1368" font-size="46" font-weight="700" fill="#8A6A0C">pure</text>
+<text x="1326" y="1440" font-size="40" fill="#4B5B72">continuous</text>
+<circle cx="148" cy="1522" r="18" fill="#D6B22F" stroke="#8A6A0C" stroke-width="4"/>
+<text x="186" y="1536" font-size="38" fill="#4B5B72">ethanol</text>
+<circle cx="428" cy="1522" r="18" fill="#DCEAF0" stroke="#6C9AAE" stroke-width="4"/>
+<text x="466" y="1536" font-size="38" fill="#4B5B72">water</text>
+<rect x="216" y="1680" width="48" height="200" rx="24" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<rect x="230" y="1832" width="20" height="58" fill="#B5D4CF"/>
+<circle cx="240" cy="1896" r="32" fill="#B5D4CF" stroke="#2F6B63" stroke-width="5"/>
+<text x="312" y="1784" font-size="46" font-weight="700" fill="#2F6B63">mild</text>
+<text x="312" y="1856" font-size="40" fill="#4B5B72">20–35 °C</text>
+<rect x="1016" y="1680" width="48" height="200" rx="24" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<rect x="1030" y="1704" width="20" height="186" fill="#D6B22F"/>
+<circle cx="1040" cy="1896" r="32" fill="#D6B22F" stroke="#8A6A0C" stroke-width="5"/>
+<text x="1112" y="1784" font-size="46" font-weight="700" fill="#8A6A0C">high T and P</text>
+<text x="1112" y="1856" font-size="40" fill="#4B5B72">300 °C, 6000 kPa</text></g></svg>

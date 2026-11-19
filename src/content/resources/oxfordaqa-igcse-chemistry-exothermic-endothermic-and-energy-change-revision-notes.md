@@ -54,7 +54,7 @@ Energy goes in to break bonds and comes out when bonds form; the larger of the t
 | Bond dissociation energy | Energy needed to break one mole of a given bond |
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--04-catalyst-profile.webp" width="900" height="860" alt="Energy against progress of reaction for an exothermic reaction. A high hump without a catalyst and a lower dashed hump with a catalyst; the arrow from reactants to hump top is E_a, smaller with a catalyst." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-oxfordaqa-catalyst-profile.svg" width="900" height="860" alt="Energy against progress of reaction for an exothermic reaction. A high hump without a catalyst and a lower dashed hump with a catalyst; the arrow from reactants to hump top is E_a, smaller with a catalyst." loading="lazy">
   <figcaption>A catalyst provides an alternative pathway with lower activation energy.</figcaption>
 </figure>
 
@@ -177,12 +177,12 @@ Activation energy = 190 − 40 = **150 kJ**. ΔH = 125 − 40 = **+85 kJ**, so e
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--02-exothermic-profile.webp" width="900" height="950" alt="Energy against progress of reaction. Products sit lower than reactants, so delta H is negative and energy is released. Ea is the climb from reactants to the top of the hump." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-oxfordaqa-exothermic-profile.svg" width="900" height="950" alt="Energy against progress of reaction. Products sit lower than reactants, so delta H is negative and energy is released. Ea is the climb from reactants to the top of the hump." loading="lazy">
   <figcaption>In an exothermic reaction the products end lower than the reactants, so delta H is negative.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--03-endothermic-profile.webp" width="900" height="950" alt="Energy against progress of reaction. Products sit higher than reactants, so delta H is positive and energy is absorbed. Ea is the climb from reactants to the top of the hump." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-oxfordaqa-endothermic-profile.svg" width="900" height="950" alt="Energy against progress of reaction. Products sit higher than reactants, so delta H is positive and energy is absorbed. Ea is the climb from reactants to the top of the hump." loading="lazy">
   <figcaption>In an endothermic reaction the products end higher than the reactants, so delta H is positive.</figcaption>
 </figure>
 
@@ -215,12 +215,12 @@ Activation energy = 190 − 40 = **150 kJ**. ΔH = 125 − 40 = **+85 kJ**, so e
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--04-bond-energy-calculation.webp" width="900" height="1050" alt="H2 and Cl2 molecules have their bonds broken (436+242=678 kJ/mol in), then two H-Cl bonds are made (2x431=862 kJ/mol out). Delta H = 678-862 = -184 kJ/mol, so the reaction is exothermic." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-oxfordaqa-bond-energy-calculation.svg" width="900" height="1050" alt="H2 and Cl2 molecules have their bonds broken (436+242=678 kJ/mol in), then two H-Cl bonds are made (2x431=862 kJ/mol out). Delta H = 678-862 = -184 kJ/mol, so the reaction is exothermic." loading="lazy">
   <figcaption>Breaking bonds takes in 678 kJ/mol and making bonds releases 862 kJ/mol, so delta H is -184 kJ/mol.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--05-bond-energy-ladder.webp" width="900" height="930" alt="Energy levels drawn to scale: H2 + Cl2 rises 678 to separate atoms, then falls 862 to 2HCl, which is 184 kJ/mol below the reactants. Delta H is -184 kJ/mol." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-oxfordaqa-bond-energy-ladder.svg" width="900" height="930" alt="Energy levels drawn to scale: H2 + Cl2 rises 678 to separate atoms, then falls 862 to 2HCl, which is 184 kJ/mol below the reactants. Delta H is -184 kJ/mol." loading="lazy">
   <figcaption>Up 678 to break bonds, down 862 as bonds form: a net fall of 184 kJ/mol.</figcaption>
 </figure>
 

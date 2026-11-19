@@ -67,7 +67,7 @@ Fe₂O₃ + 3CO → 2Fe + 3CO₂
 - CO → CO₂ is oxidation (oxygen gained).
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/redox-reactions--01-oxygen-transfer.webp" width="900" height="960" alt="Copper(II) oxide has a copper atom bonded to oxygen, beside a hydrogen molecule. A dashed arrow shows the oxygen moving to the hydrogen. Afterwards there is a copper atom and a water molecule: copper lost oxygen (reduced) and hydrogen gained oxygen (oxidised)." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-shared-intl-oxygen-transfer.svg" width="900" height="960" alt="Copper(II) oxide has a copper atom bonded to oxygen, beside a hydrogen molecule. A dashed arrow shows the oxygen moving to the hydrogen. Afterwards there is a copper atom and a water molecule: copper lost oxygen (reduced) and hydrogen gained oxygen (oxidised)." loading="lazy">
   <figcaption>In CuO + H2 -&gt; Cu + H2O oxygen moves from copper to hydrogen, so reduction and oxidation happen together.</figcaption>
 </figure>
 
@@ -126,7 +126,7 @@ Overall: 2Na + Br₂ → 2NaBr. Sodium is oxidised; bromine is reduced.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/redox-reactions--02-electron-transfer.webp" width="900" height="920" alt="A zinc atom becomes a Zn2+ ion by losing two electrons (oxidation). A downward arrow carries the two electrons to a Cu2+ ion, which becomes a copper atom (reduction). No oxygen is involved." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-shared-intl-electron-transfer.svg" width="900" height="920" alt="A zinc atom becomes a Zn2+ ion by losing two electrons (oxidation). A downward arrow carries the two electrons to a Cu2+ ion, which becomes a copper atom (reduction). No oxygen is involved." loading="lazy">
   <figcaption>Zinc loses two electrons and Cu2+ gains them: oxidation and reduction without any oxygen.</figcaption>
 </figure>
 

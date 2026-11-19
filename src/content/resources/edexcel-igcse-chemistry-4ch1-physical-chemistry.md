@@ -150,12 +150,12 @@ Energy                              Energy
 For an exothermic reaction the products are lower than the reactants: energy has been released to the surroundings. For an endothermic reaction the products are higher. Label ΔH with an arrow from reactants to products.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--02-exothermic-profile.webp" width="900" height="950" alt="Energy against progress of reaction. Products sit lower than reactants, so delta H is negative and energy is released. Ea is the climb from reactants to the top of the hump." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-edexcel-exothermic-profile.svg" width="900" height="950" alt="Energy against progress of reaction. Products sit lower than reactants, so delta H is negative and energy is released. Ea is the climb from reactants to the top of the hump. The whole figure is marked Paper 2 only." loading="lazy">
   <figcaption>In an exothermic reaction the products end lower than the reactants, so delta H is negative.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--03-endothermic-profile.webp" width="900" height="950" alt="Energy against progress of reaction. Products sit higher than reactants, so delta H is positive and energy is absorbed. Ea is the climb from reactants to the top of the hump." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-edexcel-endothermic-profile.svg" width="900" height="950" alt="Energy against progress of reaction. Products sit higher than reactants, so delta H is positive and energy is absorbed. Ea is the climb from reactants to the top of the hump. The whole figure is marked Paper 2 only." loading="lazy">
   <figcaption>In an endothermic reaction the products end higher than the reactants, so delta H is positive.</figcaption>
 </figure>
 
@@ -184,12 +184,12 @@ More energy is released making bonds than is taken in breaking them, so the reac
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--04-bond-energy-calculation.webp" width="900" height="1050" alt="H2 and Cl2 molecules have their bonds broken (436+242=678 kJ/mol in), then two H-Cl bonds are made (2x431=862 kJ/mol out). Delta H = 678-862 = -184 kJ/mol, so the reaction is exothermic." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-edexcel-bond-energy-calculation.svg" width="900" height="1050" alt="H2 and Cl2 molecules have their bonds broken (436+242=678 kJ/mol in), then two H-Cl bonds are made (2x431=862 kJ/mol out). Delta H = 678-862 = -184 kJ/mol, so the reaction is exothermic. The whole figure is marked Paper 2 only." loading="lazy">
   <figcaption>Breaking bonds takes in 678 kJ/mol and making bonds releases 862 kJ/mol, so delta H is -184 kJ/mol.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/exothermic-and-endothermic-reactions--05-bond-energy-ladder.webp" width="900" height="930" alt="Energy levels drawn to scale: H2 + Cl2 rises 678 to separate atoms, then falls 862 to 2HCl, which is 184 kJ/mol below the reactants. Delta H is -184 kJ/mol." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-edexcel-bond-energy-ladder.svg" width="900" height="930" alt="Energy levels drawn to scale: H2 + Cl2 rises 678 to separate atoms, then falls 862 to 2HCl, which is 184 kJ/mol below the reactants. Delta H is -184 kJ/mol. The whole figure is marked Paper 2 only." loading="lazy">
   <figcaption>Up 678 to break bonds, down 862 as bonds form: a net fall of 184 kJ/mol.</figcaption>
 </figure>
 
@@ -227,7 +227,7 @@ Particles must **collide** with at least the **activation energy** to react. Any
 Temperature has two effects and a full answer gives both.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--01-collision-theory.webp" width="900" height="910" alt="Two particles that collide slowly bounce apart, while fast ones with at least the activation energy react." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-shared-intl-collision-theory.svg" width="900" height="910" alt="Two particles that collide slowly bounce apart, while fast ones with at least the activation energy react." loading="lazy">
   <figcaption>Slow collisions bounce apart; collisions with at least E_a produce a new substance.</figcaption>
 </figure>
 
@@ -258,7 +258,7 @@ Energy        ___                 Exothermic profile
 With a catalyst the peak is lower but ΔH does not change. For an endothermic profile the products end higher than the reactants. Start the Ea arrow at the reactants line, not the axis.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--04-catalyst-profile.webp" width="900" height="860" alt="Energy against progress of reaction for an exothermic reaction. A high hump without a catalyst and a lower dashed hump with a catalyst; the arrow from reactants to hump top is E_a, smaller with a catalyst." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-edexcel-catalyst-profile.svg" width="900" height="860" alt="Energy against progress of reaction for an exothermic reaction. A high hump without a catalyst and a lower dashed hump with a catalyst; the arrow from reactants to hump top is E_a, smaller with a catalyst. The profile diagram is marked Paper 2 only." loading="lazy">
   <figcaption>A catalyst provides an alternative pathway with lower activation energy.</figcaption>
 </figure>
 
@@ -300,7 +300,7 @@ In a **sealed container** nothing can escape, so a reversible reaction can reach
 "Dynamic" means both reactions are still happening. The concentrations are constant, not equal.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--06-dynamic-equilibrium.webp" width="900" height="990" alt="Rate against time: forward rate falls, reverse rate rises from zero, and they meet and stay level. Particle boxes show 12 A at the start and 4 A plus 8 B at equilibrium with fixed numbers." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-edexcel-dynamic-equilibrium.svg" width="900" height="990" alt="Rate against time: forward rate falls, reverse rate rises from zero, and they meet and stay level. Particle boxes show 12 A at the start and 4 A plus 8 B at equilibrium with fixed numbers. The whole figure is marked Paper 2 only." loading="lazy">
   <figcaption>At equilibrium the forward and reverse rates are equal and the amounts no longer change.</figcaption>
 </figure>
 

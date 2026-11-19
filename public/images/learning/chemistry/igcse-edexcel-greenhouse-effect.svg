@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1110" viewBox="0 0 1800 2220" role="img" aria-labelledby="title desc"><title id="title">How greenhouse gases warm the Earth (Edexcel International GCSE Chemistry)</title><desc id="desc">No Paper 2 label: 4CH1 statement 2.13 is on both papers. The mechanism is marked not required by Edexcel: 4CH1 statement 2.13 asks only that carbon dioxide is a greenhouse gas and that increasing amounts may contribute to climate change. 1: the Earth's surface gives out thermal energy. 2: carbon dioxide and methane molecules in the atmosphere absorb it. 3: some is re-emitted back down. 4: less escapes to space, so the Earth warms.</desc><rect width="1800" height="2220" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="92" font-size="64" font-weight="700" fill="#1E2B47" text-anchor="middle">How greenhouse gases warm the Earth</text>
+<rect x="585" y="140.5" width="630" height="51" rx="25.5" fill="#6B7785"/><text x="900" y="177.52" font-size="32" font-weight="700" fill="#FFFFFF" text-anchor="middle">Mechanism not required by Edexcel</text>
+<rect x="60" y="436" width="1680" height="964" fill="#E2EEF3"/>
+<rect x="60" y="220" width="1680" height="216" rx="16" fill="#1E2B47"/>
+<text x="120" y="352" font-size="46" font-weight="700" fill="#FFFFFF">space</text>
+<rect x="124" y="620" width="1552" height="496" rx="30" fill="none" stroke="#2F6B63" stroke-width="5" stroke-dasharray="22 14"/>
+<text x="760" y="698" font-size="40" font-weight="700" fill="#2F6B63" text-anchor="middle">greenhouse gases</text>
+<line x1="500" y1="846" x2="500" y2="500" stroke="#2F6B63" stroke-width="4" stroke-dasharray="12 10"/>
+<polygon points="500,464 484,500 516,500" fill="#2F6B63"/>
+<line x1="1060" y1="852" x2="1060" y2="500" stroke="#2F6B63" stroke-width="4" stroke-dasharray="12 10"/>
+<polygon points="1060,464 1044,500 1076,500" fill="#2F6B63"/>
+<line x1="1440" y1="846" x2="1440" y2="500" stroke="#2F6B63" stroke-width="4" stroke-dasharray="12 10"/>
+<polygon points="1440,464 1424,500 1456,500" fill="#2F6B63"/>
+<circle cx="386" cy="900" r="56" fill="#E58A6E" stroke="#1E2B47" stroke-width="4"/>
+<text x="386" y="914" font-size="40" font-weight="700" fill="#1E2B47" text-anchor="middle">O</text>
+<circle cx="614" cy="900" r="56" fill="#E58A6E" stroke="#1E2B47" stroke-width="4"/>
+<text x="614" y="914" font-size="40" font-weight="700" fill="#1E2B47" text-anchor="middle">O</text>
+<circle cx="500" cy="900" r="56" fill="#3A4558" stroke="#1E2B47" stroke-width="4"/>
+<text x="500" y="914" font-size="40" font-weight="700" fill="#FFFFFF" text-anchor="middle">C</text>
+<circle cx="1326" cy="900" r="56" fill="#E58A6E" stroke="#1E2B47" stroke-width="4"/>
+<text x="1326" y="914" font-size="40" font-weight="700" fill="#1E2B47" text-anchor="middle">O</text>
+<circle cx="1554" cy="900" r="56" fill="#E58A6E" stroke="#1E2B47" stroke-width="4"/>
+<text x="1554" y="914" font-size="40" font-weight="700" fill="#1E2B47" text-anchor="middle">O</text>
+<circle cx="1440" cy="900" r="56" fill="#3A4558" stroke="#1E2B47" stroke-width="4"/>
+<text x="1440" y="914" font-size="40" font-weight="700" fill="#FFFFFF" text-anchor="middle">C</text>
+<circle cx="960" cy="800" r="46" fill="#FFFFFF" stroke="#1E2B47" stroke-width="4"/>
+<text x="960" y="814" font-size="38" font-weight="700" fill="#1E2B47" text-anchor="middle">H</text>
+<circle cx="960" cy="1000" r="46" fill="#FFFFFF" stroke="#1E2B47" stroke-width="4"/>
+<text x="960" y="1014" font-size="38" font-weight="700" fill="#1E2B47" text-anchor="middle">H</text>
+<circle cx="860" cy="900" r="46" fill="#FFFFFF" stroke="#1E2B47" stroke-width="4"/>
+<text x="860" y="914" font-size="38" font-weight="700" fill="#1E2B47" text-anchor="middle">H</text>
+<circle cx="1060" cy="900" r="46" fill="#FFFFFF" stroke="#1E2B47" stroke-width="4"/>
+<text x="1060" y="914" font-size="38" font-weight="700" fill="#1E2B47" text-anchor="middle">H</text>
+<circle cx="960" cy="900" r="56" fill="#3A4558" stroke="#1E2B47" stroke-width="4"/>
+<text x="960" y="914" font-size="40" font-weight="700" fill="#FFFFFF" text-anchor="middle">C</text>
+<line x1="386" y1="1384" x2="386" y2="1066" stroke="#B9632F" stroke-width="9" stroke-linecap="round"/><polygon points="386,1004 418,1068 354,1068" fill="#B9632F"/>
+<line x1="860" y1="1384" x2="860" y2="1066" stroke="#B9632F" stroke-width="9" stroke-linecap="round"/><polygon points="860,1004 892,1068 828,1068" fill="#B9632F"/>
+<line x1="1326" y1="1384" x2="1326" y2="1066" stroke="#B9632F" stroke-width="9" stroke-linecap="round"/><polygon points="1326,1004 1358,1068 1294,1068" fill="#B9632F"/>
+<line x1="614" y1="1010" x2="614" y2="1332" stroke="#8A6A0C" stroke-width="9" stroke-linecap="round"/><polygon points="614,1394 582,1330 646,1330" fill="#8A6A0C"/>
+<line x1="1060" y1="1010" x2="1060" y2="1332" stroke="#8A6A0C" stroke-width="9" stroke-linecap="round"/><polygon points="1060,1394 1028,1330 1092,1330" fill="#8A6A0C"/>
+<line x1="1554" y1="1010" x2="1554" y2="1332" stroke="#8A6A0C" stroke-width="9" stroke-linecap="round"/><polygon points="1554,1394 1522,1330 1586,1330" fill="#8A6A0C"/>
+<circle cx="592" cy="524" r="40" fill="#2F6B63"/>
+<text x="592" y="539" font-size="40" font-weight="700" fill="#FFFFFF" text-anchor="middle">4</text>
+<circle cx="216" cy="900" r="40" fill="#2F6B63"/>
+<text x="216" y="915" font-size="40" font-weight="700" fill="#FFFFFF" text-anchor="middle">2</text>
+<circle cx="336" cy="1240" r="40" fill="#B9632F"/>
+<text x="336" y="1255" font-size="40" font-weight="700" fill="#FFFFFF" text-anchor="middle">1</text>
+<circle cx="684" cy="1240" r="40" fill="#8A6A0C"/>
+<text x="684" y="1255" font-size="40" font-weight="700" fill="#FFFFFF" text-anchor="middle">3</text>
+<rect x="60" y="1400" width="1680" height="200" fill="#9DBE8E" stroke="#1E2B47" stroke-width="4"/>
+<text x="900" y="1518" font-size="48" font-weight="700" fill="#1E2B47" text-anchor="middle">Earth's surface</text>
+<circle cx="136" cy="1724" r="40" fill="#B9632F"/>
+<text x="136" y="1739" font-size="40" font-weight="700" fill="#FFFFFF" text-anchor="middle">1</text>
+<text x="220" y="1740" font-size="46" font-weight="700" fill="#1E2B47">Earth gives out thermal energy</text>
+<circle cx="136" cy="1836" r="40" fill="#2F6B63"/>
+<text x="136" y="1851" font-size="40" font-weight="700" fill="#FFFFFF" text-anchor="middle">2</text>
+<text x="220" y="1852" font-size="46" font-weight="700" fill="#1E2B47" xml:space="preserve"><tspan>CO</tspan><tspan dy="12.9" font-size="31.3">2</tspan><tspan dy="-12.9"> and methane absorb it</tspan></text>
+<circle cx="136" cy="1948" r="40" fill="#8A6A0C"/>
+<text x="136" y="1963" font-size="40" font-weight="700" fill="#FFFFFF" text-anchor="middle">3</text>
+<text x="220" y="1964" font-size="46" font-weight="700" fill="#1E2B47">Some is re-emitted back down</text>
+<circle cx="136" cy="2060" r="40" fill="#2F6B63"/>
+<text x="136" y="2075" font-size="40" font-weight="700" fill="#FFFFFF" text-anchor="middle">4</text>
+<text x="220" y="2076" font-size="46" font-weight="700" fill="#1E2B47">Less escapes to space: warming</text></g></svg>

@@ -145,12 +145,12 @@ only one.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/metal-properties-and-reactivity--02-reactivity-ladder.webp" width="900" height="1089" alt="A ladder from potassium (most reactive) to gold (least) with carbon and hydrogen as dashed reference rows. Ticks, half circles and crosses show reaction with cold water, steam and dilute hydrochloric acid; aluminium is starred for its oxide layer." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-edexcel-reactivity-ladder.svg" width="900" height="1089" alt="A ladder from potassium (most reactive) through sodium, lithium and calcium to gold (least) with carbon and hydrogen as dashed reference rows. Ticks, half circles and crosses show reaction with cold water, steam and dilute hydrochloric acid; aluminium is starred for its oxide layer." loading="lazy">
   <figcaption>Position in the series predicts reactions with water, steam and acid.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/redox-reactions--01-oxygen-transfer.webp" width="900" height="960" alt="Copper(II) oxide has a copper atom bonded to oxygen, beside a hydrogen molecule. A dashed arrow shows the oxygen moving to the hydrogen. Afterwards there is a copper atom and a water molecule: copper lost oxygen (reduced) and hydrogen gained oxygen (oxidised)." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-shared-intl-oxygen-transfer.svg" width="900" height="960" alt="Copper(II) oxide has a copper atom bonded to oxygen, beside a hydrogen molecule. A dashed arrow shows the oxygen moving to the hydrogen. Afterwards there is a copper atom and a water molecule: copper lost oxygen (reduced) and hydrogen gained oxygen (oxidised)." loading="lazy">
   <figcaption>In CuO + H2 -&gt; Cu + H2O oxygen moves from copper to hydrogen, so reduction and oxidation happen together.</figcaption>
 </figure>
 
@@ -160,7 +160,7 @@ only one.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/chemistry-of-the-environment--06-greenhouse-effect.webp" width="900" height="1110" alt="Thermal energy rises from the Earth, is absorbed by carbon dioxide and methane, and some is re-emitted back down. Less escapes to space, so the Earth warms. Gases act by absorption and re-emission, not as a solid barrier." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-edexcel-greenhouse-effect.svg" width="900" height="1110" alt="Thermal energy rises from the Earth, is absorbed by carbon dioxide and methane, and some is re-emitted back down. Less escapes to space, so the Earth warms. Gases act by absorption and re-emission, not as a solid barrier. The mechanism is marked not required by Edexcel." loading="lazy">
   <figcaption>CO2 and methane absorb thermal energy and re-emit some back down, slowing loss to space.</figcaption>
 </figure>
 
@@ -195,12 +195,12 @@ avoid confusing the two conventions in an exam answer.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/metal-properties-and-reactivity--04-displacement.webp" width="900" height="940" alt="An iron nail in blue copper(II) sulfate becomes coated in pink-brown copper while the solution turns pale green. Iron atoms lose two electrons to form Fe2+ and the copper ions gain them to form copper atoms." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-shared-intl-displacement.svg" width="900" height="940" alt="An iron nail in blue copper(II) sulfate becomes coated in pink-brown copper while the solution turns pale green. Iron atoms lose two electrons to form Fe2+ and the copper ions gain them to form copper atoms." loading="lazy">
   <figcaption>The more reactive metal loses electrons and displaces the less reactive metal.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/redox-reactions--02-electron-transfer.webp" width="900" height="920" alt="A zinc atom becomes a Zn2+ ion by losing two electrons (oxidation). A downward arrow carries the two electrons to a Cu2+ ion, which becomes a copper atom (reduction). No oxygen is involved." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-shared-intl-electron-transfer.svg" width="900" height="920" alt="A zinc atom becomes a Zn2+ ion by losing two electrons (oxidation). A downward arrow carries the two electrons to a Cu2+ ion, which becomes a copper atom (reduction). No oxygen is involved." loading="lazy">
   <figcaption>Zinc loses two electrons and Cu2+ gains them: oxidation and reduction without any oxygen.</figcaption>
 </figure>
 
@@ -233,12 +233,12 @@ protection as three distinct rust-prevention mechanisms.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/metal-properties-and-reactivity--07-sacrificial-protection.webp" width="900" height="1000" alt="A scratched painted steel sheet rusts at the scratch because the barrier is broken. A scratched zinc-coated sheet does not rust: zinc, being more reactive, loses electrons and corrodes instead while electrons flow to the steel." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-edexcel-sacrificial-protection.svg" width="900" height="1000" alt="A scratched painted steel sheet rusts at the scratch because the barrier is broken. A scratched zinc-coated sheet does not rust: zinc, being more reactive, loses electrons and corrodes instead while electrons flow to the steel." loading="lazy">
   <figcaption>Sacrificial protection keeps working after the barrier is broken.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/redox-reactions--06-agents.webp" width="900" height="910" alt="Zinc is the reducing agent: it is itself oxidised and passes two electrons to Cu2+. Cu2+ is the oxidising agent: it is itself reduced and oxidises zinc." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-edexcel-redox-agents.svg" width="900" height="910" alt="Zinc is the reducing agent: it is itself oxidised and passes two electrons to Cu2+. Cu2+ is the oxidising agent: it is itself reduced and oxidises zinc." loading="lazy">
   <figcaption>The oxidising agent is the substance that gets reduced; the reducing agent is the one that gets oxidised.</figcaption>
 </figure>
 

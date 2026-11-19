@@ -120,7 +120,7 @@ Isotopes of an element have the same electron arrangement, so they react in the 
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/atomic-structure--06-isotopes.webp" width="900" height="1150" alt="Chlorine-35 and chlorine-37 nuclei: both 17 protons, with 18 and 20 neutrons. Below, two identical electron arrangements, 2,8,7, show why isotopes have the same chemical properties." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-shared-intl-isotopes.svg" width="900" height="1150" alt="Chlorine-35 and chlorine-37 nuclei: both 17 protons, with 18 and 20 neutrons. Below, two identical electron arrangements, 2,8,7, show why isotopes have the same chemical properties." loading="lazy">
   <figcaption>Isotopes differ in neutrons and mass number but share electrons and chemistry.</figcaption>
 </figure>
 
@@ -176,7 +176,7 @@ Ar has no units: it is a relative value.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/atomic-structure--07-relative-atomic-mass.webp" width="900" height="1040" alt="100 chlorine atoms: 75 chlorine-35 and 25 chlorine-37. The weighted calculation gives 3550 / 100 = 35.5, marked on a number line nearer 35 than the plain average of 36, which is wrong." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-edexcel-relative-atomic-mass.svg" width="900" height="1040" alt="100 chlorine atoms: 75 chlorine-35 and 25 chlorine-37. The weighted calculation gives 3550 / 100 = 35.5, marked on a number line nearer 35 than the plain average of 36, which is wrong." loading="lazy">
   <figcaption>Relative atomic mass is a weighted average of isotope masses.</figcaption>
 </figure>
 
@@ -245,7 +245,7 @@ four shells       -> Period 4
 <!-- marlbridge-diagram:electron-shells-period-group -->
 <figure class="lesson-diagram" style="margin: 2rem 0;">
   <a href="/images/learning/chemistry/electron-shells-period-group.svg" aria-label="Open full-size diagram: Period and group: count the correct electrons"><img src="/images/learning/chemistry/electron-shells-period-group.svg" width="1528" height="871" alt="Chlorine has configuration 2,8,7, placing it in Period 3 and Group VII. Helium and neon have full outer shells and are in Group VIII despite helium having only two electrons." loading="lazy" decoding="async" style="display: block; width: 100%; height: auto;" /></a>
-  <figcaption>Period and group: count the correct electrons. Core 0620; required 5070. Select the image to enlarge it.</figcaption>
+  <figcaption>Period and group: count the correct electrons. Select the image to enlarge it.</figcaption>
 </figure>
 <!-- /marlbridge-diagram:electron-shells-period-group -->
 

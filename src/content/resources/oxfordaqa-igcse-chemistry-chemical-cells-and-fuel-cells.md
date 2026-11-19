@@ -183,7 +183,7 @@ Volume = 2500 × 24 = 60 000 dm³ = **60 m³** (1 m³ = 1000 dm³).
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/electrolysis-and-fuel-cells--08-fuel-cell-vs-petrol.webp" width="900" height="1180" alt="Four rows compare a fuel cell with a petrol engine. The fuel cell gives water only and is generally more efficient, but hydrogen is hard to store and few stations supply it. Petrol gives CO2, CO and NOx but is easy to store with stations everywhere." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-oxfordaqa-fuel-cell-vs-petrol.svg" width="900" height="1180" alt="Four rows compare a fuel cell with a petrol engine. The fuel cell gives water only and is generally more efficient, but hydrogen is hard to store and few stations supply it. Petrol gives CO2, CO and NOx but is easy to store with stations everywhere." loading="lazy">
   <figcaption>Fuel cells are cleaner and more efficient, but hydrogen is harder to store and refuel than petrol.</figcaption>
 </figure>
 

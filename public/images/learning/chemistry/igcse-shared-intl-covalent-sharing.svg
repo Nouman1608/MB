@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1010" viewBox="0 0 1800 2020" role="img" aria-labelledby="title desc"><title id="title">Covalent bonding: sharing pairs</title><desc id="desc">No tier label: all four molecules are on both Edexcel International GCSE papers (4CH1 1.46 lists hydrogen halides, water, carbon dioxide and methane) and OxfordAQA International GCSE Chemistry is not tiered (9202 3.2.1g). Dot-and-cross diagrams of outer shells; each shared pair sits where the shells overlap. HCl: one shared pair; Cl has 8, H has 2. H2O: two shared pairs; O has 8, each H has 2. CH4: four shared pairs; C has 8, each H has 2. CO2: two shared pairs with each oxygen (double bonds); C has 8, each O has 8. Dots are electrons from one atom, crosses from the other.</desc><rect width="1800" height="2020" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="92" font-size="64" font-weight="700" fill="#1E2B47" text-anchor="middle">Covalent bonding: sharing pairs</text>
+<text x="900" y="172" font-size="42" fill="#4B5B72" text-anchor="middle">Each shared pair sits where the shells overlap</text>
+<rect x="60" y="240" width="820" height="780" rx="24" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<text x="110" y="340" font-size="60" font-weight="700" fill="#1E2B47">HCl</text>
+<text x="110" y="408" font-size="42" fill="#4B5B72">hydrogen chloride</text>
+<text x="470" y="976" font-size="42" fill="#1E2B47" text-anchor="middle">Cl has 8, H has 2</text>
+<rect x="920" y="240" width="820" height="780" rx="24" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<text x="970" y="340" font-size="60" font-weight="700" fill="#1E2B47" xml:space="preserve"><tspan>H</tspan><tspan dy="16.8" font-size="40.8">2</tspan><tspan dy="-16.8">O</tspan></text>
+<text x="970" y="408" font-size="42" fill="#4B5B72">water</text>
+<text x="1330" y="976" font-size="42" fill="#1E2B47" text-anchor="middle">O has 8, each H has 2</text>
+<rect x="60" y="1060" width="820" height="780" rx="24" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<text x="110" y="1160" font-size="60" font-weight="700" fill="#1E2B47" xml:space="preserve"><tspan>CH</tspan><tspan dy="16.8" font-size="40.8">4</tspan></text>
+<text x="110" y="1228" font-size="42" fill="#4B5B72">methane</text>
+<text x="470" y="1796" font-size="42" fill="#1E2B47" text-anchor="middle">C has 8, each H has 2</text>
+<rect x="920" y="1060" width="820" height="780" rx="24" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<text x="970" y="1160" font-size="60" font-weight="700" fill="#1E2B47" xml:space="preserve"><tspan>CO</tspan><tspan dy="16.8" font-size="40.8">2</tspan></text>
+<text x="970" y="1228" font-size="42" fill="#4B5B72">carbon dioxide</text>
+<text x="1330" y="1796" font-size="42" fill="#1E2B47" text-anchor="middle">C has 8, each O has 8</text>
+<circle cx="398" cy="670" r="90" fill="#F6EBC6" fill-opacity="0.85" stroke="#8A6A0C" stroke-width="6"/>
+<circle cx="540" cy="670" r="106" fill="#DDEBE8" fill-opacity="0.6" stroke="#2F6B63" stroke-width="6"/>
+<text x="388" y="686" font-size="48" font-weight="700" fill="#1E2B47" text-anchor="middle">H</text>
+<text x="556" y="686" font-size="48" font-weight="700" fill="#1E2B47" text-anchor="middle">Cl</text>
+<circle cx="468" cy="694" r="13" fill="#2F6B63"/>
+<line x1="456" y1="630" x2="484" y2="658" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="484" y1="630" x2="456" y2="658" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="496" y1="550" x2="524" y2="578" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="524" y1="550" x2="496" y2="578" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="556" y1="550" x2="584" y2="578" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="584" y1="550" x2="556" y2="578" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="630" y1="626" x2="658" y2="654" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="658" y1="626" x2="630" y2="654" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="630" y1="686" x2="658" y2="714" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="658" y1="686" x2="630" y2="714" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="496" y1="762" x2="524" y2="790" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="524" y1="762" x2="496" y2="790" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="556" y1="762" x2="584" y2="790" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="584" y1="762" x2="556" y2="790" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<circle cx="1186" cy="670" r="90" fill="#F6EBC6" fill-opacity="0.85" stroke="#8A6A0C" stroke-width="6"/>
+<circle cx="1470" cy="670" r="90" fill="#F6EBC6" fill-opacity="0.85" stroke="#8A6A0C" stroke-width="6"/>
+<circle cx="1328" cy="670" r="106" fill="#DDEBE8" fill-opacity="0.6" stroke="#2F6B63" stroke-width="6"/>
+<text x="1176" y="686" font-size="48" font-weight="700" fill="#1E2B47" text-anchor="middle">H</text>
+<text x="1328" y="686" font-size="48" font-weight="700" fill="#1E2B47" text-anchor="middle">O</text>
+<text x="1480" y="686" font-size="48" font-weight="700" fill="#1E2B47" text-anchor="middle">H</text>
+<line x1="1284" y1="550" x2="1312" y2="578" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="1312" y1="550" x2="1284" y2="578" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="1344" y1="550" x2="1372" y2="578" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="1372" y1="550" x2="1344" y2="578" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="1284" y1="762" x2="1312" y2="790" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="1312" y1="762" x2="1284" y2="790" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="1344" y1="762" x2="1372" y2="790" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="1372" y1="762" x2="1344" y2="790" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="1244" y1="630" x2="1272" y2="658" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="1272" y1="630" x2="1244" y2="658" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="1388" y1="680" x2="1416" y2="708" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="1416" y1="680" x2="1388" y2="708" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<circle cx="1256" cy="694" r="13" fill="#2F6B63"/>
+<circle cx="1402" cy="644" r="13" fill="#2F6B63"/>
+<circle cx="470" cy="1340" r="88" fill="#F6EBC6" fill-opacity="0.85" stroke="#8A6A0C" stroke-width="6"/>
+<circle cx="470" cy="1640" r="88" fill="#F6EBC6" fill-opacity="0.85" stroke="#8A6A0C" stroke-width="6"/>
+<circle cx="320" cy="1490" r="88" fill="#F6EBC6" fill-opacity="0.85" stroke="#8A6A0C" stroke-width="6"/>
+<circle cx="620" cy="1490" r="88" fill="#F6EBC6" fill-opacity="0.85" stroke="#8A6A0C" stroke-width="6"/>
+<circle cx="470" cy="1490" r="106" fill="#DDEBE8" fill-opacity="0.6" stroke="#2F6B63" stroke-width="6"/>
+<text x="470" y="1332" font-size="48" font-weight="700" fill="#1E2B47" text-anchor="middle">H</text>
+<text x="470" y="1680" font-size="48" font-weight="700" fill="#1E2B47" text-anchor="middle">H</text>
+<text x="296" y="1506" font-size="48" font-weight="700" fill="#1E2B47" text-anchor="middle">H</text>
+<text x="644" y="1506" font-size="48" font-weight="700" fill="#1E2B47" text-anchor="middle">H</text>
+<text x="470" y="1506" font-size="48" font-weight="700" fill="#1E2B47" text-anchor="middle">C</text>
+<circle cx="446" cy="1414" r="13" fill="#2F6B63"/>
+<line x1="480" y1="1400" x2="508" y2="1428" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="508" y1="1400" x2="480" y2="1428" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="432" y1="1552" x2="460" y2="1580" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="460" y1="1552" x2="432" y2="1580" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<circle cx="494" cy="1566" r="13" fill="#2F6B63"/>
+<line x1="382" y1="1450" x2="410" y2="1478" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="410" y1="1450" x2="382" y2="1478" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<circle cx="396" cy="1516" r="13" fill="#2F6B63"/>
+<circle cx="544" cy="1464" r="13" fill="#2F6B63"/>
+<line x1="530" y1="1502" x2="558" y2="1530" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="558" y1="1502" x2="530" y2="1530" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<circle cx="1180" cy="1490" r="106" fill="#DDEBE8" fill-opacity="0.6" stroke="#2F6B63" stroke-width="6"/>
+<circle cx="1480" cy="1490" r="106" fill="#DDEBE8" fill-opacity="0.6" stroke="#2F6B63" stroke-width="6"/>
+<circle cx="1330" cy="1490" r="106" fill="#EAF2F0" fill-opacity="0.6" stroke="#2F6B63" stroke-width="6"/>
+<text x="1164" y="1506" font-size="48" font-weight="700" fill="#1E2B47" text-anchor="middle">O</text>
+<text x="1330" y="1506" font-size="48" font-weight="700" fill="#1E2B47" text-anchor="middle">C</text>
+<text x="1496" y="1506" font-size="48" font-weight="700" fill="#1E2B47" text-anchor="middle">O</text>
+<circle cx="1146" cy="1384" r="13" fill="#2F6B63"/>
+<circle cx="1206" cy="1384" r="13" fill="#2F6B63"/>
+<circle cx="1146" cy="1596" r="13" fill="#2F6B63"/>
+<circle cx="1206" cy="1596" r="13" fill="#2F6B63"/>
+<circle cx="1454" cy="1384" r="13" fill="#2F6B63"/>
+<circle cx="1514" cy="1384" r="13" fill="#2F6B63"/>
+<circle cx="1454" cy="1596" r="13" fill="#2F6B63"/>
+<circle cx="1514" cy="1596" r="13" fill="#2F6B63"/>
+<circle cx="1268" cy="1458" r="13" fill="#2F6B63"/>
+<circle cx="1240" cy="1522" r="13" fill="#2F6B63"/>
+<circle cx="1420" cy="1458" r="13" fill="#2F6B63"/>
+<circle cx="1392" cy="1522" r="13" fill="#2F6B63"/>
+<line x1="1228" y1="1446" x2="1252" y2="1470" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="1252" y1="1446" x2="1228" y2="1470" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="1256" y1="1510" x2="1280" y2="1534" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="1280" y1="1510" x2="1256" y2="1534" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="1380" y1="1446" x2="1404" y2="1470" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="1404" y1="1446" x2="1380" y2="1470" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="1408" y1="1510" x2="1432" y2="1534" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="1432" y1="1510" x2="1408" y2="1534" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<circle cx="120" cy="1940" r="14" fill="#2F6B63"/>
+<text x="164" y="1954" font-size="42" fill="#1E2B47">electron from one atom</text>
+<line x1="986" y1="1926" x2="1014" y2="1954" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<line x1="1014" y1="1926" x2="986" y2="1954" stroke="#8A6A0C" stroke-width="6" stroke-linecap="round"/>
+<text x="1044" y="1954" font-size="42" fill="#1E2B47">from the other</text></g></svg>

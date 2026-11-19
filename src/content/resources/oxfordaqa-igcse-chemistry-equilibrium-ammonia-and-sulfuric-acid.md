@@ -69,7 +69,7 @@ The word **yield** in this unit means how much of a product is in the equilibriu
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/rates-of-reaction-and-reversible-reactions--06-dynamic-equilibrium.webp" width="900" height="990" alt="Rate against time: forward rate falls, reverse rate rises from zero, and they meet and stay level. Particle boxes show 12 A at the start and 4 A plus 8 B at equilibrium with fixed numbers." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-oxfordaqa-dynamic-equilibrium.svg" width="900" height="990" alt="Rate against time: forward rate falls, reverse rate rises from zero, and they meet and stay level. Particle boxes show 12 A at the start and 4 A plus 8 B at equilibrium with fixed numbers." loading="lazy">
   <figcaption>At equilibrium the forward and reverse rates are equal and the amounts no longer change.</figcaption>
 </figure>
 

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1080" viewBox="0 0 1800 2160" role="img" aria-labelledby="title desc"><title id="title">Extracting aluminium (Edexcel International GCSE Chemistry: Paper 2 only)</title><desc id="desc">Marked Paper 2 only: electrolysis for aluminium is 4CH1 statement 2.23C and half-equations are 1.59C, both in bold. The cryolite note and the burning-anode box are marked not required by Edexcel, because 2.24C says detailed knowledge of the extraction of a specific metal is not required. A cell of molten cryolite with dissolved aluminium oxide; cryolite lowers the melting point. Carbon anodes (+) dip in from above; the tank lining is the cathode (−). Electrons flow from the power supply to the cathode and back from the anodes. Al3+ ions move down to the cathode, where molten aluminium collects at the bottom; O2- ions move to the anodes. Cathode (−), reduction: Al3+ + 3e- → Al. Anode (+), oxidation: 2O2- → O2 + 4e-. Anodes burn away, O2 + C → CO2, so they are replaced often.</desc><rect width="1800" height="2160" fill="#F4F7F6"/><g font-family="Arial, Helvetica, sans-serif"><text x="900" y="92" font-size="64" font-weight="700" fill="#1E2B47" text-anchor="middle">Extracting aluminium</text>
+<text x="900" y="172" font-size="42" fill="#4B5B72" text-anchor="middle">Electrolysis of molten aluminium oxide</text>
+<rect x="1447.5" y="131" width="285" height="58" rx="29" fill="#8A6A0C"/><text x="1590" y="172.96" font-size="36" font-weight="700" fill="#FFFFFF" text-anchor="middle">Paper 2 only</text>
+<text x="600" y="240" font-size="56" font-weight="700" fill="#1E2B47" text-anchor="middle">−</text>
+<text x="800" y="240" font-size="56" font-weight="700" fill="#1E2B47" text-anchor="middle">+</text>
+<path d="M654 300 H80 V1116 H180" fill="none" stroke="#1E2B47" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M744 300 H1080 V590 H380" fill="none" stroke="#1E2B47" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="642" y="256" width="18" height="88" rx="6" fill="#1E2B47"/>
+<line x1="744" y1="220" x2="744" y2="380" stroke="#1E2B47" stroke-width="8" stroke-linecap="round"/>
+<text x="700" y="432" font-size="40" fill="#4B5B72" text-anchor="middle">power supply</text>
+<line x1="1080" y1="520" x2="1080" y2="480" stroke="#1E2B47" stroke-width="7" stroke-linecap="round"/><polygon points="1080,438 1106.4,482 1053.6,482" fill="#1E2B47"/>
+<text x="1124" y="490" font-size="42" font-weight="700" fill="#1E2B47" xml:space="preserve"><tspan>e</tspan><tspan dy="-16" font-size="28.6">−</tspan></text>
+<line x1="80" y1="700" x2="80" y2="758" stroke="#1E2B47" stroke-width="7" stroke-linecap="round"/><polygon points="80,800 53.6,756 106.4,756" fill="#1E2B47"/>
+<text x="110" y="722" font-size="42" font-weight="700" fill="#1E2B47" xml:space="preserve"><tspan>e</tspan><tspan dy="-16" font-size="28.6">−</tspan></text>
+<rect x="180" y="800" width="1000" height="680" rx="8" fill="#3A4558"/>
+<rect x="210" y="880" width="940" height="480" fill="#F2E6B7"/>
+<rect x="210" y="1360" width="940" height="90" fill="#A2B4C4"/>
+<line x1="210" y1="1360" x2="1150" y2="1360" stroke="#1E2B47" stroke-width="4" stroke-dasharray="14 10"/>
+<rect x="380" y="590" width="120" height="380" fill="#3A4558" stroke="#1E2B47" stroke-width="4"/>
+<rect x="860" y="590" width="120" height="380" fill="#3A4558" stroke="#1E2B47" stroke-width="4"/>
+<line x1="330" y1="1064" x2="366.2719900516958" y2="1017.1974321913602" stroke="#8A6A0C" stroke-width="7" stroke-linecap="round"/><polygon points="392,984 385.9,1035 344.2,1002.6" fill="#8A6A0C"/>
+<circle cx="304" cy="1110" r="60" fill="#F2E6B7" stroke="#8A6A0C" stroke-width="5"/>
+<text x="304" y="1122.24" font-size="34" font-weight="700" fill="#8A6A0C" text-anchor="middle" xml:space="preserve"><tspan>O</tspan><tspan dy="-12.9" font-size="23.1">2−</tspan></text>
+<line x1="1034" y1="1074" x2="994.3399990271201" y2="1018.2281236318877" stroke="#8A6A0C" stroke-width="7" stroke-linecap="round"/><polygon points="970,984 1017,1004.6 974,1035.2" fill="#8A6A0C"/>
+<circle cx="1060" cy="1120" r="60" fill="#F2E6B7" stroke="#8A6A0C" stroke-width="5"/>
+<text x="1060" y="1132.24" font-size="34" font-weight="700" fill="#8A6A0C" text-anchor="middle" xml:space="preserve"><tspan>O</tspan><tspan dy="-12.9" font-size="23.1">2−</tspan></text>
+<circle cx="580" cy="1040" r="60" fill="#DDEBE8" stroke="#2F6B63" stroke-width="5"/>
+<text x="580" y="1052.24" font-size="34" font-weight="700" fill="#2F6B63" text-anchor="middle" xml:space="preserve"><tspan>Al</tspan><tspan dy="-12.9" font-size="23.1">3+</tspan></text>
+<circle cx="780" cy="1040" r="60" fill="#DDEBE8" stroke="#2F6B63" stroke-width="5"/>
+<text x="780" y="1052.24" font-size="34" font-weight="700" fill="#2F6B63" text-anchor="middle" xml:space="preserve"><tspan>Al</tspan><tspan dy="-12.9" font-size="23.1">3+</tspan></text>
+<line x1="580" y1="1104" x2="580" y2="1292" stroke="#2F6B63" stroke-width="7" stroke-linecap="round"/><polygon points="580,1340 550,1290 610,1290" fill="#2F6B63"/>
+<line x1="780" y1="1104" x2="780" y2="1292" stroke="#2F6B63" stroke-width="7" stroke-linecap="round"/><polygon points="780,1340 750,1290 810,1290" fill="#2F6B63"/>
+<line x1="990" y1="700" x2="1220" y2="700" stroke="#8A6A0C" stroke-width="4" stroke-dasharray="10 10"/>
+<text x="1250" y="716" font-size="44" font-weight="700" fill="#1E2B47">carbon anodes (+)</text>
+<line x1="1160" y1="936" x2="1220" y2="936" stroke="#8A6A0C" stroke-width="4" stroke-dasharray="10 10"/>
+<text x="1250" y="920" font-size="40" fill="#1E2B47">molten cryolite with</text>
+<text x="1250" y="980" font-size="40" fill="#1E2B47" xml:space="preserve"><tspan>dissolved Al</tspan><tspan dy="11.2" font-size="27.2">2</tspan><tspan dy="-11.2">O</tspan><tspan dy="11.2" font-size="27.2">3</tspan></text>
+<text x="1250" y="1044" font-size="40" fill="#4B5B72">cryolite lowers the</text>
+<text x="1250" y="1104" font-size="40" fill="#4B5B72">melting point</text>
+<rect x="1250" y="1146" width="422" height="48" rx="24" fill="#6B7785"/><text x="1461" y="1180.8" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="middle">Not required by Edexcel</text>
+<line x1="1240" y1="1406" x2="1208" y2="1406" stroke="#1E2B47" stroke-width="7" stroke-linecap="round"/><polygon points="1166,1406 1210,1379.6 1210,1432.4" fill="#1E2B47"/>
+<text x="1260" y="1392" font-size="44" font-weight="700" fill="#1E2B47">molten</text>
+<text x="1260" y="1452" font-size="44" font-weight="700" fill="#1E2B47">aluminium</text>
+<text x="220" y="1556" font-size="40" font-weight="700" fill="#1E2B47">tank lining = cathode (−)</text>
+<rect x="60" y="1580" width="820" height="280" rx="22" fill="#DDEBE8" stroke="#2F6B63" stroke-width="5"/>
+<text x="100" y="1656" font-size="46" font-weight="700" fill="#2F6B63">Cathode (−): reduction</text>
+<text x="100" y="1784" font-size="54" font-weight="700" fill="#1E2B47" xml:space="preserve"><tspan>Al</tspan><tspan dy="-20.5" font-size="36.7">3+</tspan><tspan dy="20.5"> + 3e</tspan><tspan dy="-20.5" font-size="36.7">−</tspan><tspan dy="20.5"> → Al</tspan></text>
+<rect x="920" y="1580" width="820" height="280" rx="22" fill="#F2E6B7" stroke="#8A6A0C" stroke-width="5"/>
+<text x="960" y="1656" font-size="46" font-weight="700" fill="#8A6A0C">Anode (+): oxidation</text>
+<text x="960" y="1784" font-size="54" font-weight="700" fill="#1E2B47" xml:space="preserve"><tspan>2O</tspan><tspan dy="-20.5" font-size="36.7">2−</tspan><tspan dy="20.5"> → O</tspan><tspan dy="15.1" font-size="36.7">2</tspan><tspan dy="-15.1"> + 4e</tspan><tspan dy="-20.5" font-size="36.7">−</tspan></text>
+<rect x="60" y="1900" width="1680" height="200" rx="22" fill="#FFFFFF" stroke="#1E2B47" stroke-width="5"/>
+<text x="110" y="1978" font-size="44" font-weight="700" fill="#1E2B47" xml:space="preserve"><tspan>Anodes burn away: O</tspan><tspan dy="12.3" font-size="29.9">2</tspan><tspan dy="-12.3"> + C → CO</tspan><tspan dy="12.3" font-size="29.9">2</tspan></text>
+<text x="110" y="2054" font-size="40" fill="#4B5B72">so they are replaced often</text>
+<rect x="1259" y="1976" width="422" height="48" rx="24" fill="#6B7785"/><text x="1470" y="2010.8" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="middle">Not required by Edexcel</text></g></svg>

@@ -252,7 +252,7 @@ You need to know two things: carbon dioxide is a greenhouse gas, and increasing 
 Use the specification's wording: "may contribute to climate change".
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/chemistry-of-the-environment--06-greenhouse-effect.webp" width="900" height="1110" alt="Thermal energy rises from the Earth, is absorbed by carbon dioxide and methane, and some is re-emitted back down. Less escapes to space, so the Earth warms. Gases act by absorption and re-emission, not as a solid barrier." loading="lazy">
+  <img src="/images/learning/chemistry/igcse-edexcel-greenhouse-effect.svg" width="900" height="1110" alt="Thermal energy rises from the Earth, is absorbed by carbon dioxide and methane, and some is re-emitted back down. Less escapes to space, so the Earth warms. Gases act by absorption and re-emission, not as a solid barrier. The mechanism is marked not required by Edexcel." loading="lazy">
   <figcaption>CO2 and methane absorb thermal energy and re-emit some back down, slowing loss to space.</figcaption>
 </figure>
 
