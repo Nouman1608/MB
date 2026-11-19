@@ -249,11 +249,13 @@ You need to know two things: carbon dioxide is a greenhouse gas, and increasing 
 4. This keeps the lower atmosphere warmer than it would otherwise be.
 5. Burning fossil fuels and cutting down forests increase the amount of carbon dioxide, so more heat is trapped. This may contribute to climate change, for example rising average temperatures, melting ice, rising sea levels and changes in weather patterns.
 
+*The mechanism in steps 1 to 4 is not required by the Edexcel 4CH1 specification; included as background.*
+
 Use the specification's wording: "may contribute to climate change".
 
 <figure class="topic-figure">
   <img src="/images/learning/chemistry/igcse-edexcel-greenhouse-effect.svg" width="900" height="1110" alt="Thermal energy rises from the Earth, is absorbed by carbon dioxide and methane, and some is re-emitted back down. Less escapes to space, so the Earth warms. Gases act by absorption and re-emission, not as a solid barrier. The mechanism is marked not required by Edexcel." loading="lazy">
-  <figcaption>CO2 and methane absorb thermal energy and re-emit some back down, slowing loss to space.</figcaption>
+  <figcaption>CO2 and methane absorb thermal energy and re-emit some back down, slowing loss to space. The mechanism is not required by Edexcel 4CH1.</figcaption>
 </figure>
 
 

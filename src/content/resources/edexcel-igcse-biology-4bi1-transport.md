@@ -84,9 +84,11 @@ The cell's ratio is **100 times larger**, and the organism's centre is 1000 µm 
 
 Phloem carries **sucrose and amino acids** from sources—commonly mature leaves, but also stores when reserves are mobilised—to sinks such as growing shoot and root tips, developing fruits and seeds, and storage organs. Translocation moves sap from source to sink. Different sieve tubes can carry it **up or down** the plant at the same time, depending on their sources and sinks.
 
+*The terms source and sink are not required by the Edexcel 4BI1 specification; included as background.*
+
 <figure class="topic-figure">
   <img src="/images/learning/biology/igcse-edexcel-sources-and-sinks.svg" width="900" height="1290" alt="A plant diagram: a mature photosynthesising leaf is a source releasing sucrose into the phloem; arrows show it moving up to the shoot tip, along to a fruit and down to roots, which are sinks that use or store it. Below, a young leaf is a sink and becomes a source when mature. The terms source and sink and the bottom panel are noted as not required by Edexcel." loading="lazy">
-  <figcaption>Phloem carries sucrose from sources to sinks, and a leaf can be both at different times.</figcaption>
+  <figcaption>Phloem carries sucrose from sources to sinks, and a leaf can be both at different times. The terms source and sink are not required by Edexcel 4BI1.</figcaption>
 </figure>
 
 
@@ -94,9 +96,11 @@ Phloem carries **sucrose and amino acids** from sources—commonly mature leaves
 
 Xylem carries **water and mineral ions** from roots towards stems and leaves in the usual transpiration stream. Xylem vessels are formed from dead vessel elements with lignified walls; their end walls are perforated or largely lost to make a continuous water pathway, rather than every end wall being universally absent. The transpiration stream normally moves upwards.
 
+*The structure of xylem vessels is not required by the Edexcel 4BI1 specification, which asks only for the role of xylem (2.54); included as background.*
+
 <figure class="topic-figure">
   <img src="/images/learning/biology/igcse-edexcel-xylem-structure.svg" width="900" height="1130" alt="A xylem vessel drawn lengthways as a long hollow tube. Thick walls strengthened with lignin stop it collapsing and support the plant. It has no cell contents, so nothing blocks the water. Cells are joined end to end with no cross walls, forming one tube from root to leaf. The structure is marked not required by Edexcel." loading="lazy">
-  <figcaption>Three features make a xylem vessel a good water pipe.</figcaption>
+  <figcaption>Three features make a xylem vessel a good water pipe. Xylem structure is not required by Edexcel 4BI1.</figcaption>
 </figure>
 
 
@@ -287,6 +291,8 @@ Vaccines may contain an inactivated pathogen, selected antigens, or a live atten
 
 Platelets are fragments of cells. At a cut, they trigger a chain of reactions that turns the soluble plasma protein fibrinogen into insoluble **fibrin** threads. The threads form a mesh that traps red blood cells, forming a **clot**, which can dry into a scab. The clot helps reduce blood loss and limits microorganism entry; it does not guarantee that all bleeding or infection is prevented.
 
+*The names fibrinogen and fibrin are not required by the Edexcel 4BI1 specification, whose statement mentions only platelets; included as background.*
+
 <figure class="topic-figure">
   <img src="/images/learning/biology/igcse-edexcel-clotting.svg" width="900" height="1130" alt="A damaged vessel lets blood escape and pathogens enter. Soluble fibrinogen in the plasma is converted into insoluble fibrin fibres. The fibrin mesh traps blood cells and forms a clot, stopping blood loss and keeping pathogens out. The whole figure is marked Paper 2 only; the names fibrinogen and fibrin are greyed as not required." loading="lazy">
   <figcaption>A fibrin mesh traps blood cells to seal a wound.</figcaption>
@@ -413,7 +419,7 @@ These wall/lumen comparisons describe typical systemic vessels. Vessel names des
 
 <figure class="topic-figure">
   <img src="/images/learning/biology/igcse-shared-intl-circulation.svg" width="900" height="1290" alt="Top: in a fish the heart pumps blood to the gills, then on to the body and back, so blood passes through the heart once per circuit and pressure drops in the gills. Bottom: in a mammal the right side pumps deoxygenated blood to the lungs, oxygenated blood returns to the left side, which pumps it at high pressure to the body; blood passes through the heart twice per circuit. Left side of the heart is drawn on the right. The fish panel is greyed as not required." loading="lazy">
-  <figcaption>A fish heart is passed once per circuit; a mammal heart twice, with the two sides kept separate.</figcaption>
+  <figcaption>A fish heart is passed once per circuit; a mammal heart twice, with the two sides kept separate. The fish circulation is not required by Edexcel 4BI1.</figcaption>
 </figure>
 
 <figure class="topic-figure">

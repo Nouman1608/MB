@@ -269,7 +269,7 @@ v = 1.0 m/s
 </figure>
 
 
-## Moments (Physics only)
+## Moments (Physics only, Paper 2 only)
 
 The **moment** of a force about a pivot is the product of the force and its
 perpendicular distance from the pivot. The weight of a body acts through
@@ -321,7 +321,7 @@ situations.
 ## Frequently asked questions
 
 **Which parts of Edexcel IGCSE forces and motion are Physics only?**
-Momentum, Newton's third law, and moments with the principle of moments are Physics only, along with the units newton metre and kilogram metre per second.
+Momentum, Newton's third law, and moments with the principle of moments are Physics only, along with the units newton metre and kilogram metre per second. Physics only content is examined on Paper 2 only.
 
 **Are weight and the ground's upward push a Newton's third law pair?**
 No. They are different types of force and both act on you, and they are equal only because you are in equilibrium. A third-law pair always acts on different objects.

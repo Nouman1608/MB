@@ -142,7 +142,7 @@ Word equation: glucose → ethanol + carbon dioxide (anaerobic respiration in ye
 
 <figure class="topic-figure">
   <img src="/images/learning/biology/igcse-edexcel-yeast-anaerobic.svg" width="900" height="1110" alt="Yeast breaks glucose down without oxygen into ethanol and carbon dioxide. Symbol equation: C6H12O6 gives 2C2H5OH plus 2CO2. In a sealed tank the useful product is ethanol for fuel; in dough the useful product is carbon dioxide, whose trapped bubbles make the dough rise. The symbol equation and the biofuel panel are marked not required by Edexcel." loading="lazy">
-  <figcaption>Yeast makes ethanol for biofuel and carbon dioxide for bread.</figcaption>
+  <figcaption>Yeast makes ethanol for biofuel and carbon dioxide for bread. Ethanol as a biofuel is not required by Edexcel 4BI1.</figcaption>
 </figure>
 
 

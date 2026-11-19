@@ -24,7 +24,7 @@ featured: false
 reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 ---
 
-This guide covers sub-topic **C3.4 Electrolysis** from the J248 specification for OCR GCSE (9–1) Chemistry A (Gateway Science), Version 4.0 (August 2026), where it belongs to Topic C3 Chemical reactions. It teaches learning outcomes C3.4a to C3.4e, the mathematical learning outcome CM3.4i and the practical suggestions tied to PAG C2. No C3.4 statement is Higher-Tier-only, so all of it applies to Foundation and Higher candidates alike. The assessment overview places Topic C3 in Paper 1 (Foundation Tier) and Paper 3 (Higher Tier).
+This guide covers sub-topic **C3.4 Electrolysis** from the J248 specification for OCR GCSE (9–1) Chemistry A (Gateway Science), Version 4.0 (August 2026), where it belongs to Topic C3 Chemical reactions. It teaches learning outcomes C3.4a to C3.4e, the mathematical learning outcome CM3.4i and the practical suggestions tied to PAG C2. The half equations in C3.4d are printed in bold and are Higher Tier only; the rest of C3.4 applies to Foundation and Higher candidates alike. The assessment overview places Topic C3 in Paper 1 (Foundation Tier) and Paper 3 (Higher Tier).
 
 After this guide, the [Electrolysis revision notes](/resources/ocr-gcse-chemistry-electrolysis-revision-notes/) give a shorter version for the final weeks and the [Electrolysis practice questions](/resources/ocr-gcse-chemistry-electrolysis-practice/) test it. Every J248 topic is listed on the [J248 course hub](/boards/ocr/gcse/chemistry/), and the [statement-by-statement checklist](/checklists/ocr/gcse/chemistry/) has every C3.4 point ready to tick. To find your weakest areas of chemistry, try a free [10-minute diagnostic](/diagnostics/). Electrolysis builds on ionic bonding, so the [OCR bonding guide](/resources/ocr-gcse-chemistry-bonding/) is worth a look first if ions feel shaky.
 
@@ -35,7 +35,7 @@ After this guide, the [Electrolysis revision notes](/resources/ocr-gcse-chemistr
 | C3.4a | Recall the inert-electrode rule (metals or hydrogen at the cathode, non-metals at the anode) and use the terms cation and anion | Both tiers |
 | C3.4b | Predict the products when a molten binary ionic compound, such as NaCl, is electrolysed | Both tiers |
 | C3.4c | Describe competing reactions in aqueous solutions, including aqueous NaCl and CuSO₄ with inert electrodes | Both tiers |
-| C3.4d | Describe electrolysis in terms of the ions present, with equations and half equations for the electrode reactions | Both tiers |
+| C3.4d | Describe electrolysis in terms of the ions present, with equations and half equations for the electrode reactions | Both tiers; half equations Higher Tier only |
 | C3.4e | Describe the technique of electrolysis with inert and non-inert electrodes | Both tiers |
 | CM3.4i | Use arithmetic and ratio for empirical formulae and for balancing equations | Both tiers |
 | PAG C2 | Electrolyse aqueous sodium chloride or copper sulfate and test the gases produced | Both tiers |
@@ -175,7 +175,7 @@ Bromine shows as an orange-brown colour around the anode and iodine as a brown c
 </figure>
 
 
-## C3.4d: half equations
+## C3.4d: half equations (Higher Tier only)
 
 Each electrode has its own half equation, which includes the electrons (e⁻) gained or lost. To build one:
 
@@ -246,6 +246,8 @@ A non-inert electrode takes part in the reaction. The standard case is copper el
 - Anode: the copper electrode **dissolves**. Cu → Cu²⁺ + 2e⁻. No oxygen forms.
 - Cathode: copper is **deposited**. Cu²⁺ + 2e⁻ → Cu.
 
+*The half equations are Higher Tier only.*
+
 Copper ions enter the solution at the anode as fast as they leave at the cathode, so the blue colour stays the same. The anode loses mass and the cathode gains the same mass.
 
 ### Worked example 5: copper electrode masses
@@ -271,7 +273,7 @@ For reliable masses, rinse each electrode gently with distilled water, dry it fu
 - Mixing up the electrodes. Cathode is negative and attracts cations.
 - Writing "sodium" at the cathode for aqueous sodium chloride. Hydrogen forms because sodium is more reactive than hydrogen.
 - Writing "sulfur" or "sulfur dioxide" at the anode for copper sulfate. Sulfate ions stay in solution; oxygen forms.
-- Leaving the 2 off Cl₂. At the anode, the electrons belong on the right-hand side as products.
+- (Higher Tier only) Leaving the 2 off Cl₂. At the anode, the electrons belong on the right-hand side as products.
 - Forgetting that copper electrodes change the anode reaction: the anode dissolves instead of giving oxygen.
 - Describing the chlorine test with dry litmus. The paper must be damp.
 

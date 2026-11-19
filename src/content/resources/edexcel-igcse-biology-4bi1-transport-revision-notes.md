@@ -53,6 +53,8 @@ Course links: [Edexcel IGCSE Biology hub](/boards/edexcel/igcse/biology/) · [pr
 | Direction | Upwards only | Up and down |
 | Cells | Dead, hollow, no end walls, lignified | Living |
 
+*The structure of xylem cells is not required by the Edexcel 4BI1 specification, which asks only for the role of xylem (2.54); included as background.*
+
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--01-xylem-phloem-positions.webp" width="900" height="1130" alt="Three schematic cross-sections. Root: xylem in the centre in a star or cross shape, phloem in small groups between its arms. Stem: a ring of vascular bundles near the outside, xylem on the inner side and phloem on the outer side. Leaf: xylem on the upper side and phloem on the lower side of the midrib and veins. A key gives the function of each tissue." loading="lazy">
   <figcaption>In roots, stems and leaves, xylem (blue) and phloem (gold) sit in set positions.</figcaption>
@@ -60,12 +62,12 @@ Course links: [Edexcel IGCSE Biology hub](/boards/edexcel/igcse/biology/) · [pr
 
 <figure class="topic-figure">
   <img src="/images/learning/biology/igcse-edexcel-xylem-structure.svg" width="900" height="1130" alt="A xylem vessel drawn lengthways as a long hollow tube. Thick walls strengthened with lignin stop it collapsing and support the plant. It has no cell contents, so nothing blocks the water. Cells are joined end to end with no cross walls, forming one tube from root to leaf. The structure is marked not required by Edexcel." loading="lazy">
-  <figcaption>Three features make a xylem vessel a good water pipe.</figcaption>
+  <figcaption>Three features make a xylem vessel a good water pipe. Xylem structure is not required by Edexcel 4BI1.</figcaption>
 </figure>
 
 <figure class="topic-figure">
   <img src="/images/learning/biology/igcse-edexcel-sources-and-sinks.svg" width="900" height="1290" alt="A plant diagram: a mature photosynthesising leaf is a source releasing sucrose into the phloem; arrows show it moving up to the shoot tip, along to a fruit and down to roots, which are sinks that use or store it. Below, a young leaf is a sink and becomes a source when mature. The terms source and sink and the bottom panel are noted as not required by Edexcel." loading="lazy">
-  <figcaption>Phloem carries sucrose from sources to sinks, and a leaf can be both at different times.</figcaption>
+  <figcaption>Phloem carries sucrose from sources to sinks, and a leaf can be both at different times. The terms source and sink are not required by Edexcel 4BI1.</figcaption>
 </figure>
 
 
@@ -160,7 +162,7 @@ The potometer measures **water uptake**, which is close to, but not exactly, the
 - **Phagocytes**: ingest and digest pathogens (phagocytosis). Not specific.
 - **Lymphocytes**: release **antibodies specific** to the antigens on one pathogen.
 - **Vaccination (Paper 2 only)**: dead/weakened pathogen or its antigens → lymphocytes make antibodies and **memory cells** → on later infection, antibodies made **sooner, faster, in greater quantity** → no illness.
-- **Clotting (Paper 2 only)**: platelets → soluble fibrinogen converted to insoluble **fibrin** → mesh traps red blood cells → clot → stops **blood loss** and **entry of micro-organisms**.
+- **Clotting (Paper 2 only)**: platelets → soluble fibrinogen converted to insoluble **fibrin** → mesh traps red blood cells → clot → stops **blood loss** and **entry of micro-organisms**. *(The names fibrinogen and fibrin are not required by Edexcel 4BI1.)*
 
 <figure class="topic-figure">
   <img src="/images/learning/biology/igcse-edexcel-clotting.svg" width="900" height="1130" alt="A damaged vessel lets blood escape and pathogens enter. Soluble fibrinogen in the plasma is converted into insoluble fibrin fibres. The fibrin mesh traps blood cells and forms a clot, stopping blood loss and keeping pathogens out. The whole figure is marked Paper 2 only; the names fibrinogen and fibrin are greyed as not required." loading="lazy">
@@ -241,7 +243,7 @@ The potometer measures **water uptake**, which is close to, but not exactly, the
 
 <figure class="topic-figure">
   <img src="/images/learning/biology/igcse-shared-intl-circulation.svg" width="900" height="1290" alt="Top: in a fish the heart pumps blood to the gills, then on to the body and back, so blood passes through the heart once per circuit and pressure drops in the gills. Bottom: in a mammal the right side pumps deoxygenated blood to the lungs, oxygenated blood returns to the left side, which pumps it at high pressure to the body; blood passes through the heart twice per circuit. Left side of the heart is drawn on the right. The fish panel is greyed as not required." loading="lazy">
-  <figcaption>A fish heart is passed once per circuit; a mammal heart twice, with the two sides kept separate.</figcaption>
+  <figcaption>A fish heart is passed once per circuit; a mammal heart twice, with the two sides kept separate. The fish circulation is not required by Edexcel 4BI1.</figcaption>
 </figure>
 
 <figure class="topic-figure">

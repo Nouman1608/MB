@@ -44,6 +44,8 @@ Other pages for this topic: [practice questions](/resources/edexcel-igcse-biolog
 | Flaccid | A plant cell that has lost water and is no longer firm. |
 | Plasmolysis | Loss of so much water that the cytoplasm and membrane pull away from the cell wall. |
 
+*The terms plasmolysis and plasmolysed are not required by the Edexcel 4BI1 specification; included as background.*
+
 ### Key examples
 
 - **Diffusion:** oxygen into respiring cells; carbon dioxide out of respiring cells; gases in and out of leaf cells.
@@ -69,7 +71,7 @@ Other pages for this topic: [practice questions](/resources/edexcel-igcse-biolog
 ## Must-know distinctions
 
 - **Diffusion vs osmosis.** Osmosis is diffusion of **water only**, across a **partially permeable membrane**. Diffusion can be any particle and needs no membrane.
-- **Passive vs active.** Diffusion and osmosis use no energy from respiration. Active transport does, and needs carrier proteins in the membrane.
+- **Passive vs active.** Diffusion and osmosis use no energy from respiration. Active transport does, and needs carrier proteins in the membrane (carrier proteins are not required by Edexcel 4BI1).
 - **Direction.** Diffusion: high to low concentration. Osmosis: dilute to concentrated solution. Active transport: low to high concentration.
 - **Animal vs plant cell in water.** Animal cell swells and may burst (no wall). Plant cell becomes turgid but does not burst (wall resists).
 - **Flaccid vs plasmolysed.** Flaccid = lost some water, soft. Plasmolysed = membrane pulled away from the wall.

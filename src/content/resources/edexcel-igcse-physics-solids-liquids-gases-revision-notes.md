@@ -65,6 +65,8 @@ p = h rho g = 5.0 x 1000 x 9.8 = 49 000 Pa
 
 ## Particle model
 
+**Paper 2 only (5.10P):** the arrangement and motion of particles.
+
 | State | Arrangement | Movement |
 |---|---|---|
 | Solid | Regular, close-packed | Vibrate about fixed positions |
@@ -130,7 +132,7 @@ p2 = 6.0x10^5 Pa
 </figure>
 
 
-## Thermal physics
+## Thermal physics (Paper 2 only)
 
 ```
 E = m c delta-theta        specific heat capacity
@@ -150,6 +152,8 @@ E = m c dt = 2.0 x 4200 x 80 = 672 000 J
 
 **Thermal expansion** occurs because particles vibrate more vigorously and take up more space — the particles themselves do not expand.
 
+*Thermal expansion is not in the Edexcel 4PH1 specification; included as background.*
+
 ## Exam traps
 
 - Using °C in the gas laws.
@@ -157,7 +161,7 @@ E = m c dt = 2.0 x 4200 x 80 = 672 000 J
 - Explaining a gas law without referring to collisions with the walls.
 - Saying molecules stop at absolute zero.
 - Using E = mcΔθ during a change of state.
-- Saying particles expand when a solid is heated.
+- Saying particles expand when a solid is heated (thermal expansion is not required by Edexcel 4PH1).
 - Forgetting that Kelvin temperature is proportional to average kinetic energy, not simply "hotter means faster" without the proportionality.
 
 ## Self-test
@@ -185,7 +189,7 @@ E = m c dt = 2.0 x 4200 x 80 = 672 000 J
 
 <figure class="topic-figure">
   <img src="/images/learning/physics/igcse-edexcel-thermal-expansion.svg" width="900" height="1296" alt="Two grids of equal-sized particles: in the cold solid they vibrate a little and sit close together, in the hot solid they vibrate more widely and sit further apart, so the solid is longer. Bars show gas expands most, then liquid, then solid. Rail gaps, slack cables and a thermometer are shown as applications. The figure is marked not required by Edexcel." loading="lazy">
-  <figcaption>Heated particles vibrate wider, so the material expands; the particles do not get bigger.</figcaption>
+  <figcaption>Heated particles vibrate wider, so the material expands; the particles do not get bigger. Thermal expansion is not required by Edexcel 4PH1.</figcaption>
 </figure>
 
 ## Frequently asked questions

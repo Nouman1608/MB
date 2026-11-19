@@ -35,7 +35,7 @@ For full explanations and worked examples, read the [excretion study guide](/res
 - **Excretion:** removal of the waste products of metabolism (chemical reactions in cells) from the body.
 - **Egestion:** removal of undigested food as faeces. Not excretion.
 - **Osmoregulation:** control of the water content (and ion content) of the blood.
-- **Urea:** a nitrogen-containing waste made in the liver from excess amino acids, carried in plasma.
+- **Urea:** a nitrogen-containing waste made in the liver from excess amino acids, carried in plasma. *(How the liver makes urea is not required by Edexcel 4BI1.)*
 - **Urine:** the liquid made by the kidneys -- water, urea and ions.
 - **Ultrafiltration:** filtration of small molecules out of the blood under high pressure, in the glomerulus.
 - **Selective reabsorption:** taking particular useful substances, such as glucose, back into the blood from the nephron.
@@ -71,7 +71,7 @@ Respiration never stops. In bright light its carbon dioxide is used in photosynt
 
 <figure class="topic-figure">
   <img src="/images/learning/biology/igcse-edexcel-liver-urea-route.svg" width="900" height="1100" alt="Amino acids reach the liver in the blood. The liver builds some into proteins (assimilation) and removes the nitrogen-containing part of excess amino acids (deamination) to form urea. Urea travels in the blood plasma to the kidney and is excreted in urine. The liver step is marked not required by Edexcel and the kidney step Paper 2 only." loading="lazy">
-  <figcaption>The liver makes proteins and urea from amino acids; the kidney excretes the urea.</figcaption>
+  <figcaption>The liver makes proteins and urea from amino acids; the kidney excretes the urea. How the liver makes urea is not required by Edexcel 4BI1; the kidney step is Paper 2 only.</figcaption>
 </figure>
 
 

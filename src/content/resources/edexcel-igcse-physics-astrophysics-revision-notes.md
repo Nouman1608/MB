@@ -112,7 +112,7 @@ nebula -> protostar -> main sequence -> red supergiant -> SUPERNOVA -> neutron s
 </figure>
 
 
-## Redshift and the Big Bang
+## Redshift and the Big Bang (Paper 2 only)
 
 **Redshift** — light from distant galaxies is shifted towards longer wavelengths, showing the source is **moving away**.
 

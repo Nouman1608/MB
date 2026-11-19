@@ -90,11 +90,11 @@ C + CO₂ → 2CO
 Fe₂O₃ + 3CO → 2Fe + 3CO₂
 ```
 
-Iron(III) oxide loses oxygen, so it is **reduced**. Carbon monoxide gains oxygen, so it is **oxidised** and is the **reducing agent**. You do not need further detail of the blast furnace.
+Iron(III) oxide loses oxygen, so it is **reduced**. Carbon monoxide gains oxygen, so it is **oxidised** and is the **reducing agent**. You do not need further detail of the blast furnace, including how carbon monoxide forms from coke.
 
 <figure class="topic-figure">
   <img src="/images/learning/chemistry/igcse-edexcel-iron-steps.svg" width="900" height="1030" alt="Ball models and balanced equations for steps 1-3: coke burns to carbon dioxide, carbon dioxide and more coke make carbon monoxide, and carbon monoxide reduces iron(III) oxide to iron. The whole figure is marked Paper 2 only, and steps 1 and 2 are marked not required by Edexcel." loading="lazy">
-  <figcaption>Carbon monoxide, made from coke, does the reducing of iron oxide.</figcaption>
+  <figcaption>Carbon monoxide, made from coke, does the reducing of iron oxide. How the carbon monoxide forms is not required by Edexcel 4CH1.</figcaption>
 </figure>
 
 
@@ -109,9 +109,11 @@ anode (+):    2O²⁻ → O₂ + 4e⁻        oxidation (loss of electrons)
 
 At the high temperature, the oxygen reacts with the carbon anodes to form carbon dioxide. The anodes burn away and must be replaced regularly. The large electricity demand is the main cost.
 
+*Cryolite and the burning carbon anodes are not required by the Edexcel 4CH1 specification (2.24C: detailed knowledge of extracting a specific metal is not required); included as background.*
+
 <figure class="topic-figure">
   <img src="/images/learning/chemistry/igcse-edexcel-aluminium-cell.svg" width="900" height="1080" alt="An electrolysis cell: carbon anodes dip into molten cryolite containing dissolved aluminium oxide. Al3+ ions move to the cathode and form molten aluminium; O2- ions go to the anodes and form oxygen, which burns the carbon anodes away as carbon dioxide. The whole figure is marked Paper 2 only; the cryolite note and the burning-anode box are marked not required by Edexcel." loading="lazy">
-  <figcaption>Aluminium oxide is dissolved in molten cryolite and electrolysed; the carbon anodes burn away and are replaced.</figcaption>
+  <figcaption>Aluminium oxide is dissolved in molten cryolite and electrolysed; the carbon anodes burn away and are replaced. Cryolite and the burning anodes are not required by Edexcel 4CH1.</figcaption>
 </figure>
 
 
@@ -277,8 +279,8 @@ Explain why brass is harder than pure copper. **[3]**
 
 - Placing carbon in the wrong position. It goes between aluminium and zinc, so aluminium cannot be extracted with carbon but zinc can.
 - Saying electrolysis is used "because the metal is reactive" without comparing it with carbon.
-- Saying aluminium oxide is melted on its own. It is dissolved in molten cryolite to lower the operating temperature.
-- Saying the anodes are replaced because they "wear out". The oxygen formed reacts with the carbon anodes to make carbon dioxide.
+- Saying aluminium oxide is melted on its own. It is dissolved in molten cryolite to lower the operating temperature (cryolite is not required by Edexcel 4CH1).
+- Saying the anodes are replaced because they "wear out". The oxygen formed reacts with the carbon anodes to make carbon dioxide (not required by Edexcel 4CH1).
 - Writing that atoms in an alloy "stop the layers moving". They make sliding **harder**; they do not stop it completely.
 - Giving "aluminium is light" for aircraft. Use the property name: "low density".
 - Inventing facts in a 2.24C answer.
@@ -291,6 +293,8 @@ Condense this into the [extraction and uses of metals revision notes](/resources
 
 **Why are the carbon anodes replaced in aluminium extraction?**
 At the high temperature, the oxygen formed at the anodes reacts with the carbon to make carbon dioxide, so the anodes burn away. Saying they simply "wear out" is not enough.
+
+*The burning anodes are not required by the Edexcel 4CH1 specification; included as background.*
 
 **Why are alloys harder than pure metals?**
 In a pure metal the atoms are the same size and arranged in regular layers that can slide over each other. In an alloy, atoms of a different size distort the layers, making it harder for them to slide, so the alloy is harder.

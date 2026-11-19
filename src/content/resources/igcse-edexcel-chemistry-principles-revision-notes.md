@@ -89,7 +89,7 @@ Electron shells fill 2, 8, 8. Group number = outer electrons; period number = nu
 |---|---|---|
 | **Ionic** | Metal + non-metal | Electrostatic attraction between oppositely charged ions |
 | **Covalent** | Non-metal + non-metal | Shared pair attracted to both nuclei |
-| **Metallic** | Metal atoms | Positive ions and delocalised electrons |
+| **Metallic** (Paper 2 only) | Metal atoms | Positive ions and delocalised electrons |
 
 Every definition must include **electrostatic attraction** — "atoms share electrons" describes the arrangement, not the force.
 
@@ -146,6 +146,8 @@ moles of gas = volume(dm3) / 24        at room temperature and pressure
 percentage yield  = (actual / theoretical) x 100
 ```
 
+*The concentration and gas volume relationships (1.34C, 1.35C) are Paper 2 only.*
+
 **Empirical formula method:** divide each mass or percentage by the relative atomic mass, then divide all results by the smallest, then scale to whole numbers.
 
 **Worked example.** A compound contains 40.0 g of calcium, 12.0 g of carbon and 48.0 g of oxygen (Ar: Ca = 40, C = 12, O = 16). Moles: Ca = 40.0 ÷ 40 = 1.0; C = 12.0 ÷ 12 = 1.0; O = 48.0 ÷ 16 = 3.0. Dividing through by the smallest value (1.0) gives the ratio Ca : C : O = 1 : 1 : 3, so the empirical formula is **CaCO₃**.
@@ -173,7 +175,7 @@ percentage yield  = (actual / theoretical) x 100
 </figure>
 
 
-## Electrolysis
+## Electrolysis (Paper 2 only)
 
 - **Cathode is negative**, attracting **cations**, which are **reduced** (gain electrons).
 - **Anode is positive**, attracting **anions**, which are **oxidised** (lose electrons).
@@ -204,7 +206,7 @@ Electrolysis of **molten** compounds gives the metal and the non-metal directly,
 2. Why do isotopes have identical chemical properties?
 3. Why does graphite conduct but diamond not?
 4. State three reasons why the percentage yield of a reaction is less than 100%.
-5. In electrolysis, which electrode is negative and what happens there?
+5. *(Paper 2 only)* In electrolysis, which electrode is negative and what happens there?
 
 **Answers:** 1. Ammonia has a lower relative molecular mass than hydrogen chloride, so it diffuses faster and travels further before they meet. 2. Chemical properties depend on the arrangement of electrons, which is the same for all isotopes of an element; only the number of neutrons differs. 3. Each carbon in graphite forms only three covalent bonds, leaving one delocalised electron per atom free to move along the layers; in diamond all four outer electrons are used in bonding. 4. The reaction may not go to completion because it is reversible; some product may be lost during separation and purification; some reactants may react in unexpected side reactions. 5. The cathode is negative; cations are attracted to it and are reduced by gaining electrons.
 

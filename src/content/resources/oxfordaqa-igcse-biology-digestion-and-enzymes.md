@@ -200,7 +200,7 @@ Percentage digested = 0.75 ÷ 1.20 × 100 = **62.5%**.
 
 <figure class="topic-figure">
   <img src="/images/learning/biology/igcse-shared-intl-gut-ph-enzymes.svg" width="900" height="1200" alt="The stomach is acidic because of hydrochloric acid, which kills microbes and gives the acid pH that pepsin needs. Food then enters the duodenum, where bile neutralises the acid and makes the contents alkaline for trypsin. A sketch graph of enzyme activity against pH shows pepsin most active in acid and trypsin most active in alkali. The names pepsin and trypsin are greyed as not required." loading="lazy">
-  <figcaption>Pepsin works in acid and trypsin in alkali, because bile neutralises the acid leaving the stomach.</figcaption>
+  <figcaption>Pepsin works in acid and trypsin in alkali, because bile neutralises the acid leaving the stomach. The names pepsin and trypsin are beyond the OxfordAQA 9201 specification.</figcaption>
 </figure>
 
 <figure class="topic-figure">

@@ -221,7 +221,7 @@ This causes problems with waste disposal:
 
 <figure class="topic-figure">
   <img src="/images/learning/chemistry/igcse-oxfordaqa-plastic-waste.svg" width="900" height="1040" alt="Four tiles: plastic buried in landfill is still there after a hundred years; plastic collects in the sea and harms marine life; burning can give off toxic gases; and PET can be broken back into monomers and made into new PET. The burning and PET tiles are marked not required by OxfordAQA." loading="lazy">
-  <figcaption>Plastics persist in landfill and oceans, burning gives toxic gases, and only some plastics like PET can be recycled to monomers.</figcaption>
+  <figcaption>Plastics persist in landfill and oceans, burning gives toxic gases, and only some plastics like PET can be recycled to monomers. Burning and PET are beyond the OxfordAQA 9202 specification.</figcaption>
 </figure>
 
 

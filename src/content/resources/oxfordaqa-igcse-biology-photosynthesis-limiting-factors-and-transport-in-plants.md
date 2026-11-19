@@ -280,7 +280,7 @@ The transpiration stream is the flow of water that enters at the roots, rises th
 
 <figure class="topic-figure">
   <img src="/images/learning/biology/igcse-oxfordaqa-sources-and-sinks.svg" width="900" height="1290" alt="A plant diagram: a mature photosynthesising leaf is a source releasing sucrose into the phloem; arrows show it moving up to the shoot tip, along to a fruit and down to roots, which are sinks that use or store it. Below, a young leaf is a sink and becomes a source when mature. The terms source and sink, the bottom panel and amino acids in phloem are noted as not required by OxfordAQA." loading="lazy">
-  <figcaption>Phloem carries sucrose from sources to sinks, and a leaf can be both at different times.</figcaption>
+  <figcaption>Phloem carries sucrose from sources to sinks, and a leaf can be both at different times. The terms source and sink are beyond the OxfordAQA 9201 specification.</figcaption>
 </figure>
 
 

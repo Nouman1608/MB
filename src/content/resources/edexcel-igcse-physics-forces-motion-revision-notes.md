@@ -187,7 +187,7 @@ stopping distance = thinking distance + braking distance
 </figure>
 
 
-## Moments
+## Moments (Paper 2 only)
 
 ```
 moment = force x perpendicular distance from pivot
@@ -196,6 +196,8 @@ moment = force x perpendicular distance from pivot
 **Principle of moments:** in equilibrium, clockwise moments = anticlockwise moments.
 
 An object topples when the line of action of its weight falls outside its base.
+
+*Stability and toppling are not required by the Edexcel 4PH1 specification; included as background.*
 
 **Worked example.** A 2.5 N weight is placed 40 cm from the pivot of a balanced rule. Moment = 2.5 × 40 = 100 N cm. To balance at 20 cm on the other side: weight × 20 = 100, so weight = **5.0 N**.
 
@@ -206,7 +208,7 @@ An object topples when the line of action of its weight falls outside its base.
 
 <figure class="topic-figure">
   <img src="/images/learning/physics/igcse-edexcel-stability.svg" width="900" height="700" alt="Two blocks tilted by 25 degrees. For the tall narrow block the vertical line from the centre of gravity falls outside the base, so it topples (beyond about 20 degrees). For the low wide block it falls inside the base, so it falls back (beyond about 65 degrees). The figure is marked not required by Edexcel." loading="lazy">
-  <figcaption>A low centre of gravity and a wide base let an object tilt further before it topples.</figcaption>
+  <figcaption>A low centre of gravity and a wide base let an object tilt further before it topples. Stability is not required by Edexcel 4PH1.</figcaption>
 </figure>
 
 
@@ -252,6 +254,8 @@ Distance is the total path length travelled and is a scalar. Displacement is the
 
 **When does an object topple over?**
 An object topples when the line of action of its weight falls outside its base.
+
+*Not required by the Edexcel 4PH1 specification; included as background.*
 
 **Why does the direction of momentum matter?**
 Momentum is a vector, so assign a positive direction and treat motion the opposite way as negative. Ignoring this is a common exam trap in collision questions.

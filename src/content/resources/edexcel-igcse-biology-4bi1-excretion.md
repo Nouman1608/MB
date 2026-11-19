@@ -92,6 +92,8 @@ Leaf structure and the hydrogen-carbonate indicator practical belong to sub-topi
 
 Urea is carried in the plasma (point 2.60) from the liver to the kidneys. Sweating mainly cools the body, but sweat still removes some waste, so the skin counts as an organ of excretion.
 
+*How the liver makes urea from amino acids (deamination) is not required by the Edexcel 4BI1 specification; included as background.*
+
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-igcse-biology-4bi1-excretion--11-organs-of-excretion.webp" width="900" height="860" alt="Lungs excrete carbon dioxide and water vapour; kidneys excrete urea, excess water and ions in urine; skin excretes water, ions and a little urea in sweat." loading="lazy">
   <figcaption>The three excretory organs and what each removes.</figcaption>
@@ -99,7 +101,7 @@ Urea is carried in the plasma (point 2.60) from the liver to the kidneys. Sweati
 
 <figure class="topic-figure">
   <img src="/images/learning/biology/igcse-edexcel-liver-urea-route.svg" width="900" height="1100" alt="Amino acids reach the liver in the blood. The liver builds some into proteins (assimilation) and removes the nitrogen-containing part of excess amino acids (deamination) to form urea. Urea travels in the blood plasma to the kidney and is excreted in urine. The liver step is marked not required by Edexcel and the kidney step Paper 2 only." loading="lazy">
-  <figcaption>The liver makes proteins and urea from amino acids; the kidney excretes the urea.</figcaption>
+  <figcaption>The liver makes proteins and urea from amino acids; the kidney excretes the urea. How the liver makes urea is not required by Edexcel 4BI1; the kidney step is Paper 2 only.</figcaption>
 </figure>
 
 

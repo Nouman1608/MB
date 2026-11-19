@@ -24,7 +24,7 @@ featured: false
 reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 ---
 
-These notes boil down **C3.4 Electrolysis** from the J248 specification for OCR GCSE (9–1) Chemistry A (Gateway Science), Version 4.0 (August 2026): statements C3.4a–C3.4e, mathematical learning outcome CM3.4i and the PAG C2 practical suggestions. Both tiers are assessed on every C3.4 statement. For full explanations and five worked examples, use the [Electrolysis study guide](/resources/ocr-gcse-chemistry-electrolysis/).
+These notes boil down **C3.4 Electrolysis** from the J248 specification for OCR GCSE (9–1) Chemistry A (Gateway Science), Version 4.0 (August 2026): statements C3.4a–C3.4e, mathematical learning outcome CM3.4i and the PAG C2 practical suggestions. Both tiers are assessed on every C3.4 statement, except the half equations in C3.4d, which are Higher Tier only. For full explanations and five worked examples, use the [Electrolysis study guide](/resources/ocr-gcse-chemistry-electrolysis/).
 
 For exam-style problems with full answers, move on to the [Electrolysis practice questions](/resources/ocr-gcse-chemistry-electrolysis-practice/). Other J248 topics are on the [J248 course hub](/boards/ocr/gcse/chemistry/), and you can record progress on the [printable checklist](/checklists/ocr/gcse/chemistry/). Unsure where to focus? Take a free [10-minute diagnostic](/diagnostics/).
 
@@ -122,7 +122,7 @@ Water adds H⁺ and OH⁻ to the solution, so ions compete at each electrode.
 </figure>
 
 
-## C3.4d: half equations
+## C3.4d: half equations (Higher Tier only)
 
 | Product | Half equation | Electrode |
 |---|---|---|
@@ -186,7 +186,7 @@ Worked reminder: a molten bromide gives 0.48 g of magnesium (Ar 24) and 3.20 g o
 **Non-inert copper electrodes in CuSO₄(aq):**
 
 - anode dissolves (loses mass): Cu → Cu²⁺ + 2e⁻
-- cathode gains copper: Cu²⁺ + 2e⁻ → Cu
+- cathode gains copper: Cu²⁺ + 2e⁻ → Cu (half equations Higher Tier only)
 - colour stays the same because Cu²⁺ ions are replaced as fast as they are removed
 - mass lost by the anode equals mass gained by the cathode
 
@@ -222,8 +222,8 @@ Short, linked sentences gain more credit than a list of facts. Use these pattern
 4. Why does solid potassium bromide not conduct?
 5. Predict the cathode product for aqueous silver nitrate.
 6. Predict both products for aqueous potassium sulfate with inert electrodes.
-7. Write the half equation for the formation of iodine.
-8. Complete and balance: OH⁻ → O₂ + H₂O + e⁻.
+7. (Higher Tier only) Write the half equation for the formation of iodine.
+8. (Higher Tier only) Complete and balance: OH⁻ → O₂ + H₂O + e⁻.
 9. In electrolysis of a sulfate solution, 64 cm³ of hydrogen is collected. What volume of oxygen would you expect?
 10. A copper anode goes from 18.40 g to 17.92 g in copper sulfate solution. What mass is gained by the copper cathode?
 11. Why does the blue colour fade when copper sulfate is electrolysed with graphite electrodes?
@@ -272,7 +272,7 @@ Each hydrogen molecule needs two electrons, while each oxygen molecule releases 
 The copper anode dissolves, Cu → Cu²⁺ + 2e⁻, and copper is deposited at the cathode, Cu²⁺ + 2e⁻ → Cu. The mass lost by the anode equals the mass gained by the cathode, and the blue colour stays the same.
 
 **How do you check a half equation is balanced?**
-Check that the atoms balance and that the total charge on the left equals the total charge on the right. For 4OH⁻ → O₂ + 2H₂O + 4e⁻, both sides have a charge of 4−.
+Check that the atoms balance and that the total charge on the left equals the total charge on the right. For 4OH⁻ → O₂ + 2H₂O + 4e⁻, both sides have a charge of 4−. Half equations are Higher Tier only.
 
 ## Official syllabus
 
