@@ -111,6 +111,22 @@ Causes link up: more people, so more grazing and wood cutting, so more erosion, 
 - Stone lines, planting pits and protection of naturally regrowing trees in parts of Burkina Faso and Niger: low-cost, improved yields and tree cover.
 - Great Green Wall (launched 2007): now a patchwork of land restoration; progress slower than planned.
 
+## Worked exam answer
+
+**Question:** Explain how plants and animals are adapted to life in a hot desert. [4 marks]
+
+**Model answer:** "Cacti store water in their stems and have waxy skins and spines instead of leaves, which cuts water loss. They have wide shallow roots to catch rain quickly. Acacia trees have very long tap roots to reach groundwater. Animals such as the fennec fox are nocturnal and have large ears to lose heat. The kangaroo rat gets water from seeds and shelters in a burrow, so it rarely needs to drink."
+
+How it scores: each adaptation earns a mark only when it is linked to its benefit, such as "stores water" or "loses heat".
+
+## Quick recall: five ideas to remember
+
+- Hot deserts are at about 15 to 30 degrees north and south, where air sinks.
+- Rainfall is under about 250 mm and unreliable; nights can be cold.
+- Desertification is land degradation on the desert fringe, not natural desert growth.
+- Causes combine in a downward cycle: more people, more grazing, more erosion.
+- Cheap local methods (stone lines, planting pits, tree protection) can work well.
+
 ## Exam traps
 
 - Desertification is **land degradation**, not natural desert growth.

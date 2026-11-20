@@ -111,6 +111,22 @@ The hazard was similar in scale, so human factors explain the difference: buildi
 | Protection | Steel frames, cross-bracing, base isolators, shock absorbers, automatic gas shut-off | Barriers or channels to divert lava; exclusion zones |
 | Planning | Hazard maps, land-use zoning, drills, evacuation routes, emergency kits | Hazard maps, evacuation plans, education |
 
+## Worked exam answer
+
+**Question:** Explain how earthquakes occur at a conservative plate margin. [4 marks]
+
+**Model answer:** "At a conservative margin two plates slide past each other, either in different directions or at different speeds. The plates do not move smoothly because friction makes them stick. Pressure builds up along the fault as the plates keep trying to move. When the pressure becomes greater than the friction, the plates suddenly jerk free. The energy is released from the focus as shock waves, which shake the ground at the surface."
+
+How it scores: one mark each for movement, sticking, build-up of pressure and sudden release as shock waves.
+
+## Quick recall: five ideas to remember
+
+- No volcanoes at conservative margins; earthquakes can be strong and shallow.
+- Destructive margins: subduction, powerful earthquakes, explosive composite volcanoes.
+- Constructive margins: new crust, gentle shield volcanoes, small earthquakes.
+- Wealth shapes effects and responses, but depth, distance and building quality matter too.
+- Monitor, predict, protect, plan: volcanoes can often be forecast; earthquakes cannot.
+
 ## Exam traps
 
 - Volcanoes do not occur at conservative margins.

@@ -88,6 +88,16 @@ whether they fit on an 8 GB memory card. **[3]**
 **12.** A text file is 12 kB. A student states the size as "12 kb". Explain what mistake the student has made and
 state the size of the file in bits. **[3]**
 
+**13.** A school server has a capacity of 2 TB. Each student's folder is limited to 500 MB. Calculate the greatest
+number of folders that can be stored. **[3]**
+
+**14.** A file is 0.5 MB in size. Calculate its size in bits. **[3]**
+
+**15.** A text message is 280 bytes long. State its size in bits and in kilobytes. **[3]**
+
+**16.** A student says that a 4 MB file is smaller than a 3,900 kB file because 4 is smaller than 3,900. Explain why the
+student is wrong, and state which file is larger. **[3]**
+
 ---
 
 ## Answers
@@ -128,6 +138,15 @@ a power of 2 that is not used [1].
 
 **12.** The student has used a lower-case b, which stands for bit, instead of B for byte [1]. The file is 12 kB, which is
 12,000 bytes [1]; 12,000 × 8 = 96,000 bits [1].
+
+**13.** 2 TB = 2,000 GB = 2,000,000 MB [1]; 2,000,000 ÷ 500 [1] = 4,000 folders [1].
+
+**14.** 0.5 MB = 0.5 × 1,000,000 = 500,000 bytes [1]; 500,000 × 8 [1] = 4,000,000 bits [1].
+
+**15.** 280 × 8 = 2,240 bits [1]; 280 ÷ 1,000 = 0.28 kB [1]; units given with both answers [1].
+
+**16.** The units are different, so the numbers cannot be compared directly [1]; 4 MB = 4 × 1,000 = 4,000 kB [1]; so the 4 MB file
+is larger than the 3,900 kB file [1].
 
 ---
 

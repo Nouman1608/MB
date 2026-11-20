@@ -106,6 +106,22 @@ Types of dune: **barchan** (crescent, horns point downwind), **seif/linear** (ri
 | Water supply | Little rain; reliance on energy-hungry desalination or non-renewable groundwater |
 | Inaccessibility | Sand and distance make roads, pipelines and power lines expensive |
 
+## Worked exam answer
+
+**Question:** Explain how a barchan dune is formed and moves. [4 marks]
+
+**Model answer:** "Sand is carried by the wind by saltation. When the wind slows, for example around a small obstacle, the sand is deposited and a mound builds up. The sand is pushed up the gentle windward slope and then slides down the steeper slip face on the sheltered side. Because sand is constantly moved from the windward side to the slip face, the whole dune migrates downwind. Where the sand supply is limited and the wind is steady, the dune takes a crescent shape with its horns pointing downwind."
+
+How it scores: one mark each for deposition when wind slows, windward slope, slip face, and downwind movement or crescent shape.
+
+## Quick recall: five ideas to remember
+
+- Wind erodes by abrasion and deflation; it carries by creep, saltation and suspension.
+- Water erodes by abrasion and hydraulic power; it carries by traction, saltation and suspension.
+- Wind landforms: yardangs, zeugen, dunes. Water landforms: wadis, alluvial fans, badlands, salt lakes.
+- Deposition happens when energy is lost.
+- Development brings oil, solar power, farming and tourism, but also heat, water and access problems.
+
 ## Exam traps
 
 - Water as well as wind shapes deserts.

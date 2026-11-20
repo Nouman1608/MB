@@ -117,6 +117,22 @@ These notes cover section 3.1.3.1, Physical landscapes in Middle and Far East, o
 
 Model: "The Yangtze rises on the Tibetan Plateau in the west of China, flows east through mountains and the Sichuan Basin and across lowlands, and reaches the East China Sea near Shanghai. It is about 6 300 km long."
 
+## Worked exam answer
+
+**Question:** Describe the main upland areas of the Far East. [4 marks]
+
+**Model answer:** "The Himalayas run along the northern edge of South Asia and include Mount Everest, the highest mountain in the world. North of them is the Tibetan Plateau, a very high, flat-topped area at an average of over 4 000 m. Further north are the Kunlun, Tian Shan and Altai mountains, and the high, dry Mongolian Plateau. In the east, Japan is mountainous, with the Japanese Alps and Mount Fuji, so settlement is limited to small coastal plains."
+
+How it scores: each named upland with a location or a figure earns a mark; a list of names with no location earns little.
+
+## Quick recall: five ideas to remember
+
+- Plateaus: Tibetan, Iranian, Anatolian, Mongolian.
+- Mountain arcs: Himalayas, Zagros, Elburz, Japanese Alps.
+- Lowlands: Mesopotamia, North China Plain, Sichuan Basin, Mekong Delta.
+- Rivers: Tigris, Euphrates, Yangtze, Yellow River, Mekong.
+- Many great Asian rivers rise on the Tibetan Plateau.
+
 ## Exam traps
 
 - Tigris and Euphrates are in the Middle East; Yangtze and Yellow River are in China.

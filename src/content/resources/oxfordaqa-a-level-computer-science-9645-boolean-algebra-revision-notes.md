@@ -147,6 +147,26 @@ Put the law beside each line, in short form. For example:
 
 A line of working with a reason scores. A line with no reason may not.
 
+## Six to try, with answers
+
+1. A + A̅⋅B̅ gives A + B̅.
+2. A⋅B + A⋅B̅ + A̅⋅B gives A + B (factorise A, then use A + A̅⋅B = A + B).
+3. NOT(A⋅B + A̅⋅B̅) gives A⋅B̅ + A̅⋅B, which is A ⨁ B.
+4. (A + B)⋅(A̅ + B) gives B.
+5. A⋅B̅⋅C + A⋅B̅⋅C̅ gives A⋅B̅.
+6. NOT(A + B + C) gives A̅⋅B̅⋅C̅.
+
+Work each one through with named laws before you read the answer.
+
+## Why the key identities hold
+
+- **A + A̅ = 1:** A is either 1 or 0. If A is 1 the OR gives 1. If A is 0, then A̅ is 1 and the OR still gives 1.
+- **A⋅A̅ = 0:** A and A̅ can never both be 1, so the AND is always 0.
+- **A + A⋅B = A:** if A is 1 the output is 1 whatever B is. If A is 0 then A⋅B is 0 as well, so the output is 0. The output always equals A.
+- **A + A̅⋅B = A + B:** if A is 1 both sides are 1. If A is 0, the left side is 0 + 1⋅B = B and the right side is 0 + B = B.
+
+Understanding why they work makes them easier to remember than learning them as a list.
+
 ## Exam traps
 
 - **Operator not swapped.** NOT(A + B) is A̅⋅B̅, not A̅ + B̅.

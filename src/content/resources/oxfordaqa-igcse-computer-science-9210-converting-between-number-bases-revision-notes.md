@@ -97,6 +97,20 @@ the bottom up: 1001 0110.
 - A value below 128 starts with 0 in an eight-bit number.
 - A byte in hex has exactly two digits, and a value is never above FF (255).
 
+## Layout for an exam answer
+
+1. Write the eight place values above the bits: 128, 64, 32, 16, 8, 4, 2, 1.
+2. Show each stage of the working, such as the nibbles or the subtractions.
+3. Write the final answer clearly, with the base if the question gives more than one.
+4. Check by converting back.
+
+**Worked layout: binary 0101 1110 to decimal and hex.** Decimal: 64 + 16 + 8 + 4 + 2 = 94. Hex: 0101 is 5 and 1110 is E,
+so 5E. Check: 5 × 16 + 14 = 94.
+
+**Worked layout: decimal 203 to binary and hex.** 128 fits (75 left); 64 fits (11 left); 32 and 16 do not; 8 fits (3 left); 4
+does not; 2 fits (1 left); 1 fits (0 left). The bits are 1100 1011. Hex: 1100 is C and 1011 is B, so CB. Check:
+12 × 16 + 11 = 203.
+
 ## Exam traps
 
 - **Remainders read the wrong way.** In repeated division, read from the bottom up.

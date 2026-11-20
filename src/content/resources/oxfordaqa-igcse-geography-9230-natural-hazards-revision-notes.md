@@ -109,6 +109,22 @@ A simple form is: risk = (hazard × vulnerability) ÷ capacity to cope. You are 
 
 Example: "The earthquake is the same size in both places, so the difference lies in vulnerability. X has a higher population density, so more people are exposed. X's buildings are weaker, so more collapse and trap people. In Y, strict building codes reduce casualties."
 
+## Worked exam answer
+
+**Question:** Explain why the same hazard can have very different effects in two places. [4 marks]
+
+**Model answer:** "The size of a hazard does not decide the harm it causes. Vulnerability matters too. A place with a high population density, weak buildings and poor people has more to lose, so more people are hurt. Capacity to cope matters as well: a country with good emergency services, warning systems and insurance can recover faster. So an event that is a minor hazard in one place can become a disaster in another."
+
+How it scores: one mark for the idea that the hazard is the same, one for a vulnerability factor with its effect, one for a capacity factor with its effect, and one for the final link to disaster.
+
+## Quick recall: five ideas to remember
+
+- Hazard means a threat; disaster means harm has happened.
+- Risk goes up with hazard severity and vulnerability, and down with capacity to cope.
+- Physical factors: magnitude, frequency, duration, speed of onset, predictability, extent.
+- Human factors: density, urbanisation, location, poverty, building quality, governance, education, warnings, aid.
+- Hazards link: a primary event often triggers secondary hazards.
+
 ## Exam traps
 
 - Do not use hazard and disaster as if they mean the same thing.

@@ -145,6 +145,14 @@ Net gain from adapting = extra contribution - extra cost of adapting
 9. Any one: dependence on a small customer base; large rivals may enter; limited growth.
 10. A brand name or slogan that has an unintended or offensive meaning in another language.
 
+## Linking the ideas
+
+- The choice between standardising and adapting is a trade-off between cost (scale economies) and fit (local sales). Quantify both whenever the source gives figures.
+- Pricing, place and promotion connect: a longer distribution chain raises the retail price, which may force a change of channel or a lower-priced pack.
+- Cultural errors are marketing risks and ethical risks at once: they can damage sales and reputation together.
+- Niche strategies and global strategies are not opposites. A niche brand can be global if the internet reaches its customers in many countries.
+- In essays, use Ansoff or Porter as a framework, but always return to evidence about the specific market.
+
 ## Next steps
 
 Check slips against the [Global marketing study guide](/resources/edexcel-a-level-business-ybs11-global-marketing/), then practise with the [Global marketing practice questions](/resources/edexcel-a-level-business-ybs11-global-marketing-practice/).

@@ -100,6 +100,12 @@ the correct figure. **[2]**
 **13.** A web designer records a colour as C8 in hexadecimal. Explain why using hexadecimal is more convenient for a
 human than writing the pattern in binary. **[2]**
 
+**14.** Explain why the same pattern of bits can represent a number in one file and a letter in another. **[3]**
+
+**15.** State the number of different values that can be stored using 3 bits, and show how you worked it out. **[2]**
+
+**16.** State how many hexadecimal digits are needed to write a 16-bit binary pattern, and explain why. **[3]**
+
 ---
 
 ## Answers
@@ -147,6 +153,13 @@ power 8), from 0 to 255 [1].
 
 **13.** C8 is shorter than 1100 1000, because one hex digit stands for four bits [1]; it is easier to read, copy and
 remember, and there is less chance of a mistake [1].
+
+**14.** A bit pattern has no meaning by itself [1]; the meaning depends on how the program or file format
+interprets the bits [1]; for example, 0100 0001 is the integer 65 in a number file and the letter A in a text file [1].
+
+**15.** 8 values [1]; each bit has 2 possible values, so 2 × 2 × 2 = 2 to the power 3 = 8 [1].
+
+**16.** 4 hexadecimal digits [1]; each hexadecimal digit represents 4 bits [1]; 16 ÷ 4 = 4 [1].
 
 ---
 

@@ -104,6 +104,22 @@ Example: a 1 TB drive, 2.5 GB per film. 1 TB = 1,000 GB, and 1,000 ÷ 2.5 = **40
 Convert every value to **bytes**, then compare. For 4 kB, 5,000 B and 0.003 MB: 4,000 B, 5,000 B, 3,000 B, so the
 order is 0.003 MB, 4 kB, 5,000 B.
 
+## Model answers
+
+**Explain why a 2.4 MB photograph is larger than a 2,000 kB photograph.** Convert to the same unit: 2.4 MB = 2,400 kB,
+which is more than 2,000 kB. A number can only be compared when both sizes use the same unit.
+
+**A video is 1.5 GB. Calculate its size in megabytes.** GB to MB is one step down the ladder, so multiply by 1,000:
+1.5 × 1,000 = 1,500 MB.
+
+**A message is 400 bits. State its size in bytes.** Divide by 8: 400 ÷ 8 = 50 bytes.
+
+## Memory aids
+
+- **k**ilo, **M**ega, **G**iga, **T**era: each is three more zeros.
+- Small to big, divide; big to small, multiply.
+- A lower-case **b** is small (a bit); an upper-case **B** is big (a byte, 8 bits).
+
 ## Exam traps
 
 - **b and B mixed up.** A bit is b; a byte is B. A quantity in bits is eight times the same quantity in bytes.

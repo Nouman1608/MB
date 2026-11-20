@@ -77,6 +77,8 @@ Related pages: [Boolean algebra study guide](/resources/oxfordaqa-a-level-comput
 
 **14.** Simplify X = NOT(A + B)⋅(A + C), giving your answer as a single product of letters and complements. **[4]**
 
+**15.** A student claims that A ⨁ B = (A + B)⋅NOT(A⋅B). Complete a truth table with columns A, B, A + B, NOT(A⋅B) and the whole expression, and use it to decide whether the claim is correct. **[4]**
+
 ## Answers
 
 **1.** NOT [1], then AND, then OR [1]. **[2]**
@@ -118,6 +120,17 @@ All four rows listed [1]; A⋅B̅ column correct [1]; A⋅B̅ + B column correct
 **(c)** De Morgan: A + B = NOT(A̅⋅B̅) [1], which is a NAND gate whose inputs are A̅ and B̅, each made with a NOT gate [1].
 
 **14.** De Morgan: NOT(A + B) = A̅⋅B̅, so X = A̅⋅B̅⋅(A + C) [1]. Expand: X = A̅⋅B̅⋅A + A̅⋅B̅⋅C [1]. A̅⋅A = 0, so the first term is 0 [1]. **X = A̅⋅B̅⋅C** [1]. **[4]**
+
+**15.**
+
+| A | B | A + B | NOT(A⋅B) | (A + B)⋅NOT(A⋅B) | A ⨁ B |
+|---|---|---|---|---|---|
+| 0 | 0 | 0 | 1 | 0 | 0 |
+| 0 | 1 | 1 | 1 | 1 | 1 |
+| 1 | 0 | 1 | 1 | 1 | 1 |
+| 1 | 1 | 1 | 0 | 0 | 0 |
+
+Four rows [1]; A + B column correct [1]; NOT(A⋅B) and the product columns correct [1]; the final column matches A ⨁ B in every row, so the claim is **correct** [1]. **[4]**
 
 ## Frequently asked questions
 

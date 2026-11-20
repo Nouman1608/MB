@@ -105,6 +105,13 @@ correct. **[3]**
 
 **12.** Explain why every value from 0 to 255 can be written using exactly two hexadecimal digits. **[2]**
 
+**13.** Convert the binary number 0101 0111 to decimal and to hexadecimal. **[3]**
+
+**14.** Convert the hexadecimal number 8D to binary and to decimal. **[3]**
+
+**15.** State the largest value that can be stored in one byte, giving the value in decimal, in binary and in
+hexadecimal. **[3]**
+
 ---
 
 ## Answers
@@ -149,6 +156,12 @@ because 6B is larger by 1 [1].
 
 **12.** One hex digit represents four bits, so two hex digits represent eight bits [1]; eight bits can store 0 to 255,
 and the largest value is FF [1].
+
+**13.** Decimal: 64 + 16 + 4 + 2 + 1 = 87 [1]; hexadecimal: 0101 is 5 and 0111 is 7 [1], so 57 [1].
+
+**14.** Binary: 8 is 1000 and D is 1101, so 1000 1101 [1]; decimal: 8 × 16 + 13 [1] = 141 [1].
+
+**15.** 255 [1]; 1111 1111 [1]; FF [1].
 
 ---
 

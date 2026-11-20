@@ -131,6 +131,22 @@ These notes cover section 3.1.2.2, Tropical rainforests, of the OxfordAQA Intern
 | Agreements on tropical hardwoods | Legal, certified timber (for example FSC) | Illegal logging continues |
 | Debt reduction | Debt cut for forest protection | Small scale |
 
+## Worked exam answer
+
+**Question:** Explain how deforestation can lead to soil erosion and what happens next. [4 marks]
+
+**Model answer:** "Trees protect the soil. Their leaves intercept rain and their roots bind the soil together. When the forest is cleared, heavy rain falls directly on bare ground and washes the topsoil into rivers. The rivers become silted and can flood. Because most nutrients were held in the trees, the soil that remains is poor, so crops fail after a few years and farmers may clear more forest."
+
+How it scores: one mark for the protective role of trees, one for rain washing soil away, one for the effect on rivers, and one for the longer-term loss of fertility.
+
+## Quick recall: five ideas to remember
+
+- Hot and wet all year: about 26 to 28 degrees Celsius and over 2 000 mm of rain.
+- Layers: emergent, canopy, understorey, forest floor.
+- Nutrients are in the biomass, not the soil.
+- Deforestation brings short-term money but long-term soil, biodiversity and climate costs.
+- Sustainable management needs enforcement and local benefit to work.
+
 ## Exam traps
 
 - Tropical rainforest soil is **not** fertile; the nutrients are in the biomass.

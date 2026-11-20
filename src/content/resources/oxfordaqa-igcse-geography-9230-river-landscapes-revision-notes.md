@@ -135,6 +135,22 @@ Long profile: a smooth concave curve. Discharge increases downstream.
 - **Economic:** electricity; flood protection; bigger ships go further upstream; very high cost; some lost livelihoods.
 - **Environmental:** traps sediment (less silt downstream); changes habitats; landslide risk; less coal burned.
 
+## Worked exam answer
+
+**Question:** Explain how a levée is formed. [3 marks]
+
+**Model answer:** "When a river floods, water overflows the channel and spreads over the floodplain. As it leaves the channel the flow slows down and loses energy. The river drops its heaviest material first, right beside the channel. After many floods this material builds up into raised banks called levées."
+
+How it scores: one mark each for flooding and loss of energy, deposition of the coarsest load next to the channel, and repeated floods building the bank.
+
+## Quick recall: five ideas to remember
+
+- Upper course: steep, V-shaped valley, vertical erosion. Lower course: flat floodplain, deposition.
+- Outside of a meander bend is eroded; the inside is deposited.
+- A waterfall retreats because the hard rock is undercut and collapses.
+- Lag time is the gap between peak rainfall and peak discharge.
+- Hard engineering costs more but gives strong protection; soft engineering is cheaper and works with nature.
+
 ## Exam traps
 
 - Explain **how** a landform forms, in steps.
