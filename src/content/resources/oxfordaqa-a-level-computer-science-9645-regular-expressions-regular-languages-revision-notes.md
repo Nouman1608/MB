@@ -116,7 +116,7 @@ An FSM has finitely many states, so it cannot count without limit. No regular ex
 3. Group anything repeated or chosen with `( )`.
 4. Test the shortest string you expect to match, one longer string and one that must fail.
 
-Example: "a capital letter, then one or more digits, then an optional letter A or B" becomes `[A-Z][0-9]+[AB]?`. It matches `K7`, `K72B` and `Q105`; it rejects `7K`, `K` and `K7C`.
+Example: "a capital letter, then one or more digits, then an optional letter A or B" becomes `[A-Z][0-9]+[AB]?`. It matches `K7`, `K72B` and `M105`; it rejects `7K`, `K` and `K7C`.
 
 ## Exam traps
 
