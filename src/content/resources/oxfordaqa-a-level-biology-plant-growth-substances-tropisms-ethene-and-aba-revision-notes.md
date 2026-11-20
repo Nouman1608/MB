@@ -14,6 +14,9 @@ order: 268
 syllabusTopics:
   - qualification: "a-level"
     topic: "control-oxfordaqa-alevel-biology"
+  - qualification: "a-level"
+    topic: "control-oxfordaqa-alevel-biology"
+    subtopic: "control-systems-in-plants-oxfordaqa-alevel-biology"
 description: "Condensed revision notes on IAA, tropisms, ethene, ripening, ABA and stomatal closure, with a self-test, for OxfordAQA International A-level Biology."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

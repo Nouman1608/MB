@@ -14,6 +14,9 @@ order: 265
 syllabusTopics:
   - qualification: "a-level"
     topic: "control-oxfordaqa-alevel-biology"
+  - qualification: "a-level"
+    topic: "control-oxfordaqa-alevel-biology"
+    subtopic: "control-systems-involve-stimulus-and-response-oxfordaqa-alevel-biology"
 description: "Condensed recall notes on reflex arcs, taxes and kineses, the Pacinian corpuscle and rods and cones for OxfordAQA International A-level Biology Unit 4."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

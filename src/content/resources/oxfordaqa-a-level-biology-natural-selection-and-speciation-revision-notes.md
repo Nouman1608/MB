@@ -14,6 +14,9 @@ order: 264
 syllabusTopics:
   - qualification: "a-level"
     topic: "populations-and-genes-oxfordaqa-alevel-biology"
+  - qualification: "a-level"
+    topic: "populations-and-genes-oxfordaqa-alevel-biology"
+    subtopic: "evolution-may-lead-to-speciation-oxfordaqa-alevel-biology"
 description: "Revision notes for OxfordAQA International A-level Biology 9610, 3.3.8: allele frequency change, selection types, allopatric and sympatric speciation."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
