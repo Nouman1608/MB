@@ -17,7 +17,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "functional-programming"
     subtopic: "the-functional-programming-paradigm-oxfordaqa-alevel-cs"
-description: "Ten original OxfordAQA 9645 questions on sub-topic 3.12.1 The functional programming paradigm: function types, number sets, composition and higher-order functions."
+description: "Eleven original OxfordAQA 9645 questions on sub-topic 3.12.1 The functional programming paradigm: function types, number sets, composition and higher-order functions."
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-20
 featured: false
@@ -98,6 +98,15 @@ multiplier n = (* n)
 
 **10.** A function f has type String → ℕ and a function g has type Boolean → ℕ. Explain why g ∘ f cannot be formed. **[2]**
 
+**11.** A programmer writes this Haskell definition.
+
+```haskell
+compose f g x = f (g x)
+```
+
+**(a)** Explain why `compose` is a higher-order function. **[1]**
+**(b)** With `double x = x * 2` and `inc x = x + 1`, evaluate `compose double inc 5`, showing each step, and write the result as a composition of the two functions. **[2]**
+
 ## Answers
 
 **1.** The **domain** is the set from which the function's input values are chosen **[1]**. The **co-domain** is the set from which the output values are chosen, and not every member of it has to be an output **[1]**. **[2]**
@@ -129,6 +138,9 @@ multiplier n = (* n)
 **(b)** Function application is giving a function particular inputs **[1]**; here `maxOf` is applied to the arguments 8 and −3 **[1]**. **[2]**
 
 **10.** The result of f is a natural number (the co-domain of f is ℕ) **[1]**, but g needs a Boolean as its argument, so the co-domain of f does not match the domain of g **[1]**. **[2]**
+
+**11. (a)** It takes two functions (f and g) as arguments **[1]**.
+**(b)** inc 5 = 6 **[1]**, then double 6 = **12** **[1]**. The result is double ∘ inc (inc is applied first). **[2]**
 
 ## Official syllabus
 

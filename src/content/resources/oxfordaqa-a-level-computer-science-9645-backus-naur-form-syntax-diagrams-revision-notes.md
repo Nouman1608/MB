@@ -143,6 +143,15 @@ A string is valid if some route from entry to exit uses its symbols in order.
 
 `11011` is valid: outer 1s around `101`, whose outer 1s surround `0`. `0101` is not valid for `<same>`.
 
+## Common faults in grammars
+
+| Fault | Symptom | Repair |
+|---|---|---|
+| Recursive rule with no base case | No string can ever be completed | Add a non-recursive alternative |
+| Missing alternative | A valid string is rejected | Add the alternative and re-test |
+| Too many alternatives | An invalid string is accepted | Remove or tighten the alternative |
+| Terminal written with angle brackets | Treated as a non-terminal with no rule | Write plain characters for terminals |
+
 ## Exam traps
 
 - **Missing base case.** A recursive rule without a way to stop can never produce a string.

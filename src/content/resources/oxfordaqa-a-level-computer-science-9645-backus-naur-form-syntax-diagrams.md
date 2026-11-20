@@ -152,6 +152,23 @@ Regular expressions describe languages recognised by finite state machines, whic
 
 This gives 01, 0011, 000111 and 00001111. The string `0101` is invalid and so is `011`. Each use of the recursive rule adds one 0 on the left and one 1 on the right, so the numbers always stay equal. A finite state machine would need a separate state for every possible count, so it cannot do this and neither can a regular expression.
 
+### Worked example 5: finding the fault in a grammar
+
+A student writes rules for a whole number:
+
+```
+<number> ::= <digit><number>
+<digit>  ::= 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9
+```
+
+These rules can never produce a finished string. Every use of the `<number>` rule adds another `<digit>` and leaves another `<number>` still to be replaced, so there is no way to stop. The rule has a recursive case but **no base case**. The repair is to add the stopping alternative:
+
+```
+<number> ::= <digit> | <digit><number>
+```
+
+Now `7` is valid (first alternative) and `204` is valid: `<digit>` 2 followed by `<number>`, which is `<digit>` 0 followed by `<number>`, which is `<digit>` 4. Also check what the rule still allows: this version accepts `007`, which may or may not be wanted. If leading zeros were not allowed, the first digit would need its own rule using only the digits 1 to 9. Testing a grammar with both valid and invalid strings is the way to find these problems.
+
 ## Exam technique
 
 - **Checking a string:** work from the top non-terminal and show each substitution, or break the string into the parts the rule names.

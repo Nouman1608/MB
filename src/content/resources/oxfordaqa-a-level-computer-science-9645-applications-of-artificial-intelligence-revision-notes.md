@@ -93,6 +93,17 @@ Answering "healthy" for everyone would score 95% accuracy and find no ill patien
 3. Narrow field.
 4. Relies on (usually very large) data.
 
+## Describing an application in an answer
+
+Use three steps and then a limitation.
+
+1. **Name** the application area (for example medical diagnosis).
+2. **Say what the system does** (flags scans that may show disease).
+3. **Say how it does it** (learns from many labelled scans) and **why it counts as AI** (a complex problem solved at least as well as a human might).
+4. **Add a limitation** (it works only in its narrow field and can make errors, so a clinician checks the result).
+
+Example sentence: "A recommendation system suggests films by comparing a user's ratings with those of similar users; it is narrow AI because it only does this one job, and it can be poor for new users with no ratings."
+
 ## Exam traps
 
 - **Definition.** Do not say there is a single agreed definition; say there is not.

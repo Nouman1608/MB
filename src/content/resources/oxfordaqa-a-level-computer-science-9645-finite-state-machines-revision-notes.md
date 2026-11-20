@@ -111,6 +111,17 @@ The output string is always the same length as the input string, and the path ha
 5. Mark the accepting states.
 6. Test with an accepted string, a rejected string and the empty string.
 
+## Table to arcs and back
+
+A state transition table and a diagram hold the same information. To convert a table to arcs, write one arc for every cell.
+
+| State | Input a | Input b |
+|---|---|---|
+| S0 (start) | S1 | S0 |
+| S1 (accepting) | S1 | S0 |
+
+Arcs: S0 --a--> S1, S0 --b--> S0, S1 --a--> S1, S1 --b--> S0. This machine accepts strings that **end in a**: for `bba` the path is S0, S0, S0, S1 (accepted), and for `ab` it is S0, S1, S0 (rejected). To convert the other way, make a row for every state and a column for every input symbol, and fill each cell from the arc that leaves that state on that symbol. If a cell would be empty, the machine is incomplete.
+
 ## Exam traps
 
 - **Last state decides.** Passing through an accepting state is not enough.

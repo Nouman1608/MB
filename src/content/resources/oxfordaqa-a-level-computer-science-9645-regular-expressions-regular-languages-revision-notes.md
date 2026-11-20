@@ -109,6 +109,15 @@ For `(0|1)*01` the machine needs three states: no progress (start), last symbol 
 
 An FSM has finitely many states, so it cannot count without limit. No regular expression can describe "n symbols a followed by n symbols b". Backus-Naur Form can.
 
+## Pattern-building checklist
+
+1. List the characters that **must** appear and in what order.
+2. For each position decide: exactly one (write it or a class), optional (`?`), one or more (`+`), zero or more (`*`) or a choice (`|` in brackets).
+3. Group anything repeated or chosen with `( )`.
+4. Test the shortest string you expect to match, one longer string and one that must fail.
+
+Example: "a capital letter, then one or more digits, then an optional letter A or B" becomes `[A-Z][0-9]+[AB]?`. It matches `K7`, `K72B` and `Q105`; it rejects `7K`, `K` and `K7C`.
+
 ## Exam traps
 
 - **`+` is not optional.** Use `?` for zero or one.

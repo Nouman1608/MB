@@ -114,6 +114,18 @@ Domain names are **hierarchical**, read right to left: top-level domain (`org`),
 - They are needed because every address and name must be **unique**.
 - They keep the **records** that DNS relies on and show who is responsible.
 
+## Comparing the terms
+
+| Term | What it is | Example |
+|---|---|---|
+| IP address | Numeric address of a device | 203.0.113.8 |
+| Domain name | Registered name of an organisation or group of hosts | `example.org` |
+| FQDN | Complete name of one host, including every label | `www.library.example.org` |
+| URL | Protocol, FQDN, path and so on: how to reach a resource | `https://www.library.example.org/books/fiction.html` |
+| Top-level domain | Last label of the name | `org` |
+
+A DNS look-up turns an FQDN into an IP address; the URL tells the browser which protocol to use once the address is known.
+
 ## Exam traps
 
 - **Different routes.** Packets of one message do not have to follow the same path.

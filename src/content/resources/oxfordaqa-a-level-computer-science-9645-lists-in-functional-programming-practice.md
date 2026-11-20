@@ -17,7 +17,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "functional-programming"
     subtopic: "lists-in-functional-programming-oxfordaqa-alevel-cs"
-description: "Ten original OxfordAQA 9645 questions on sub-topic 3.12.3 Lists in functional programming: head and tail, list operations and recursive list functions."
+description: "Eleven original OxfordAQA 9645 questions on sub-topic 3.12.3 Lists in functional programming: head and tail, list operations and recursive list functions."
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-20
 featured: false
@@ -95,6 +95,18 @@ join (x:xs) ys = x : join xs ys
 **(a)** Evaluate `join [1, 2] [3]`, showing each step. **[3]**
 **(b)** State which built-in Haskell operator gives the same result as `join`. **[1]**
 
+**11.** Evaluate each expression.
+
+**(a)** `head (tail [9, 8, 7])` **[1]**
+**(b)** `length ([1] ++ [2, 3])` **[1]**
+**(c)** `null (tail [4])` **[1]**
+**(d)** `0 : [5]` **[1]**
+
+**12.** The function `allPositive` returns True if every number in a list is greater than 0.
+
+**(a)** Write a recursive Haskell definition of `allPositive`, using patterns for the empty list and for `(x:xs)`. **[3]**
+**(b)** Evaluate `allPositive [3, 5, 0]` by substitution. **[2]**
+
 ## Answers
 
 **1.** Head: **6** **[1]**; tail: **[1, 9, 4]** **[1]**. **[2]**
@@ -130,6 +142,21 @@ multAll (x:xs) = x * multAll xs     -- [1] recursive case on head and tail
 
 **10. (a)** `join [1, 2] [3]` = `1 : join [2] [3]` **[1]** = `1 : (2 : join [] [3])` **[1]** = `1 : (2 : [3])` = **[1,2,3]** **[1]**. **[3]**
 **(b)** `++` **[1]**
+
+**11. (a)** The tail is `[8,7]` and its head is **8** **[1]**
+**(b)** `[1] ++ [2, 3]` is `[1,2,3]`, so the length is **3** **[1]**
+**(c)** `tail [4]` is the empty list, so `null` gives **True** **[1]**
+**(d)** `[0,5]` **[1]**
+
+**12. (a)** Example answer:
+
+```haskell
+allPositive [] = True                          -- [1] base case: no number fails
+allPositive (x:xs) = x > 0 && allPositive xs   -- [1] test the head, [1] recurse on the tail
+```
+
+**[3]**
+**(b)** `allPositive [3, 5, 0]` = `3 > 0 && allPositive [5, 0]` = `True && (5 > 0 && allPositive [0])` **[1]** = `True && (True && (0 > 0 && allPositive []))` = `True && (True && (False && True))` = **False** **[1]**. **[2]**
 
 ## Official syllabus
 

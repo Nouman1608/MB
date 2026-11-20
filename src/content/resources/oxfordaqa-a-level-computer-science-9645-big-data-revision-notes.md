@@ -105,6 +105,15 @@ Reduce: North 190, South 160, East 100, grand total 450.
 
 Example: oval User Ravi with rectangle Country: India (dashed); solid edge "listened to" to oval Track "Blue Hour"; solid edge "performed by" from the track to oval Artist Nadia Vale.
 
+## Relational versus graph approach
+
+| | Relational database | Graph schema |
+|---|---|---|
+| Structure | Fixed tables, rows and columns | Nodes, properties and labelled edges |
+| Adding a new kind of data | Change the table definition | Add a new node type or edge |
+| Suits | Regular, well-structured records | Varied, loosely structured data |
+| Relationships | Foreign keys and link tables | Edges drawn directly between nodes |
+
 ## Exam traps
 
 - **Three Vs, not one.** Volume alone is not a full description.

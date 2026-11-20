@@ -17,7 +17,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "functional-programming"
     subtopic: "writing-functional-programs-oxfordaqa-alevel-cs"
-description: "Ten original OxfordAQA 9645 questions on sub-topic 3.12.2 Writing functional programs: Haskell operators, recursion, pattern matching, map, filter and folds."
+description: "Eleven original OxfordAQA 9645 questions on sub-topic 3.12.2 Writing functional programs: Haskell operators, recursion, pattern matching, map, filter and folds."
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-20
 featured: false
@@ -84,6 +84,10 @@ Explain what goes wrong when `fact 3` is evaluated, and give the corrected secon
 **(a)** Write a Haskell definition of `t` using pattern matching. **[3]**
 **(b)** Calculate the value of `t 5`. **[2]**
 
+**11.** Evaluate `foldr (+) 0 (map (* 2) (filter (> 3) [5, 1, 4, 3]))`, showing the result of each stage. **[3]**
+
+**12.** State the value of `7 / 2` and the value of `div 7 2` in Haskell, and explain why they differ. **[2]**
+
 ## Answers
 
 **1.** `div 29 6` = **4** **[1]**; `mod 29 6` = **5** **[1]**. **[2]**
@@ -129,6 +133,10 @@ t n = t (n - 1) + t (n - 2)
 
 Award **[1]** for each base case and **[1]** for the recursive case with correct brackets. **[3]**
 **(b)** The terms are 2, 3, 5, 8, 13, 21 **[1]**, so `t 5` = **21** **[1]**. **[2]**
+
+**11.** `filter (> 3) [5, 1, 4, 3]` gives `[5,4]` **[1]**; `map (* 2)` gives `[10,8]` **[1]**; `foldr (+) 0` gives 10 + (8 + 0) = **18** **[1]**. **[3]**
+
+**12.** `7 / 2` is **3.5** and `div 7 2` is **3** **[1]**. The `/` operator is real (fractional) division, whereas `div` is whole-number division that discards the remainder **[1]**. **[2]**
 
 ## Official syllabus
 

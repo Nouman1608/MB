@@ -75,6 +75,15 @@ Useful structure: "A benefit is ... because ... . However, a risk is ... because
 | AI takes jobs | Fewer staff are needed for tasks AI can do, so there may be unemployment and a need to retrain |
 | AI is cheaper | The running cost per case is lower, though the system costs money to build and maintain |
 
+## Benefits and risks are linked
+
+| Feature | Benefit | Linked risk |
+|---|---|---|
+| Learns from large data sets | Accurate and consistent decisions | Biased or wrong data is repeated consistently |
+| Fast and cheap | Large tasks affordable; wide access | Fewer jobs needed |
+| Creates content | Saves time | False information; plagiarism |
+| Never tires | Constant monitoring | Loss of privacy |
+
 ## Exam traps
 
 - **Reason needed.** A bare list earns few marks.

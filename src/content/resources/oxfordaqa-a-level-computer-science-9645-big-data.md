@@ -132,6 +132,10 @@ A **graph schema** captures the **structure** of a dataset. In the schema:
 
 Compared with a relational database, the graph schema stores relationships directly as edges and lets different nodes have different properties, which suits varied, loosely structured data.
 
+## Relational tables compared with a graph schema
+
+Suppose a school wants to record students, forms and the clubs they belong to, and later also wants to add photographs, free-text comments and links between friends. A relational design needs a table for each entity, a link table for the many-to-many relationship, and a fixed set of columns for each table; adding a new kind of data means changing the table definitions. A graph schema simply adds a new kind of node or a new labelled edge, and different nodes can carry different properties. That flexibility is why graph-based and fact-based approaches suit Big Data that lacks a fixed structure, while a relational database remains the better choice for regular, well-structured records that need strict rules such as keys and constraints.
+
 ## Exam technique
 
 - **Define the three Vs** with a short example of each.

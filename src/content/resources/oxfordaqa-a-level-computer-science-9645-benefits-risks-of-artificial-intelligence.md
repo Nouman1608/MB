@@ -96,6 +96,19 @@ Extended-answer questions ask you to **discuss** benefits and risks. A strong an
 | "AI is biased." | "If the training data under-represents a group, the system performs worse for that group and can repeat past unfairness." |
 | "AI takes jobs." | "If AI handles most calls, fewer call-centre staff are needed, so there may be unemployment unless people are retrained." |
 
+## How benefits and risks connect
+
+Many benefits and risks are two sides of the same feature, and strong answers show this.
+
+| Feature | Benefit | Linked risk |
+|---|---|---|
+| Learns from large amounts of data | Decisions can be accurate and consistent | If the data is biased or wrong, the bias or error is repeated consistently |
+| Works quickly and cheaply | Large tasks are affordable and many people can use the service | Fewer people are needed, so jobs are lost |
+| Creates content on request | Saves time and helps people get started | Output may be false, or passed off as a person's own work |
+| Watches without tiring | Faster detection of incidents | Loss of privacy and the chance of wrongful suspicion |
+
+Pointing out the link, for example "the same consistency that makes a system fair when its data is good makes it consistently unfair when its data is biased", shows that you understand both sides rather than only listing them.
+
 ## Exam technique
 
 - **Use the wording of the specification**: consistent decision making, very large data sets, continuous availability, cost, access to expertise, jobs, bias, false information, plagiarism, surveillance, superintelligence.
