@@ -98,7 +98,7 @@ Residual profit = 49,220 − 12,000 − 5,000 = 32,220. Amara's share is 32,220 
 
 | | Amara | Bilal |
 |---|---:|---:|
-| Balance b/d (credit)/debit | 2,100 | (1,300) |
+| Balance b/d | 2,100 credit | 1,300 debit |
 | Salary | | 12,000 |
 | Interest on capital | 3,000 | 2,000 |
 | Share of residual profit | 19,332 | 12,888 |
@@ -108,7 +108,7 @@ Residual profit = 49,220 − 12,000 − 5,000 = 32,220. Amara's share is 32,220 
 
 Amara: 2,100 + 3,000 + 19,332 − 14,000 − 420 = 10,012. Bilal: −1,300 + 12,000 + 2,000 + 12,888 − 10,000 − 300 = 15,288. In the statement of financial position the capital accounts of 60,000 and 40,000 and the current accounts of 10,012 and 15,288 are shown, with Bilal's loan of 10,000 as a non-current liability.
 
-**What if there were no agreement?** Section 24 applies: profit of 48,500 is shared equally, 24,250 each, with no salary or interest on capital or drawings. Bilal still receives 5% on his loan. The comparison shows why agreements matter: Bilal works more and has a smaller capital, so the equal split would favour Amara.
+**What if there were no agreement?** Section 24 applies: profit of 48,500 is shared equally, 24,250 each, with no salary or interest on capital or drawings. Bilal still receives 5% on his loan. The comparison shows why agreements matter: Bilal has a salary and a smaller capital, so the equal split would favour Amara.
 
 ## Fixed and floating (fluctuating) capital
 
@@ -154,7 +154,7 @@ The total of the capital accounts is 136,000, which is 60,000 + 40,000 + 8,000 r
 - Treating a partner's salary or interest on capital as an expense in the statement of profit or loss.
 - Deducting interest on a partner's loan in the appropriation account instead of the statement of profit or loss.
 - Adding interest on drawings to the partner's account instead of deducting it.
-- Sharing the residual profit when the salary and interest alone exceed the profit. Losses after appropriations are shared in the ratio.
+- Forgetting that when salaries and interest exceed the profit available, the residual is a loss, and it is shared in the profit-sharing ratio.
 - Using the new ratio for the revaluation gain or for creating goodwill.
 - Applying the default ratio when the agreement states one.
 - Mixing fixed and floating capital methods in the same answer.

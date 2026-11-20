@@ -85,10 +85,10 @@ A bookshop's system accepts a quantity as a whole number from 1 to 500. A book c
 | No. | Purpose | Test data | Type | Expected result |
 |---|---|---|---|---|
 | 1 | Valid quantity, no discount | 9 | Normal | Accepted; total £72.00 |
-| 2 | Lower bound of discount band | 10 | Extreme (discount boundary) | Accepted; total £76.00 |
+| 2 | Lower bound of discount band | 10 | Normal (edge of discount band) | Accepted; total £76.00 |
 | 3 | Mid-band discount | 30 | Normal | Accepted; total £228.00 |
-| 4 | Upper bound of 5% band | 49 | Normal | Accepted; total £372.40 |
-| 5 | Lower bound of 10% band | 50 | Normal | Accepted; total £360.00 |
+| 4 | Upper bound of 5% band | 49 | Normal (edge of discount band) | Accepted; total £372.40 |
+| 5 | Lower bound of 10% band | 50 | Normal (edge of discount band) | Accepted; total £360.00 |
 | 6 | Lowest allowed quantity | 1 | Extreme | Accepted |
 | 7 | Highest allowed quantity | 500 | Extreme | Accepted; total £3,600.00 |
 | 8 | Just below the range | 0 | Abnormal | Rejected with an error message |
@@ -97,7 +97,7 @@ A bookshop's system accepts a quantity as a whole number from 1 to 500. A book c
 
 Working: test 2 is 10 × £8 = £80, less 5% (£4) = £76.00. Test 3 is 30 × £8 = £240, less 5% (£12) = £228.00. Test 4 is 49 × £8 = £392, less 5% = £372.40. Test 5 is 50 × £8 = £400, less 10% (£40) = £360.00. Test 7 is 500 × £8 = £4,000, less 10% (£400) = £3,600.00.
 
-Notice that the plan tests both the validation range (1 to 500) and the calculation boundaries (9 and 10, 49 and 50). Each expected result is precise: "Accepted; total £76.00", not just "works".
+Tests 2, 4 and 5 are inside the valid range, so they are normal data even though they sit at the edge of a discount band. Notice that the plan tests both the validation range (1 to 500) and the calculation boundaries (9 and 10, 49 and 50). Each expected result is precise: "Accepted; total £76.00", not just "works".
 
 ## Alpha and beta testing
 

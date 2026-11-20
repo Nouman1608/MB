@@ -101,6 +101,44 @@ Why variable oxidation state: the 4s and 3d electrons are close in energy, so di
 
 Oxidation state = overall charge minus the sum of ligand charges.
 
+## Worked examples
+
+**Fe²⁺ and Fe³⁺.** Iron is [Ar] 3d⁶ 4s². Remove 4s² to give Fe²⁺, [Ar] 3d⁶. Remove one more electron from 3d to give Fe³⁺, [Ar] 3d⁵.
+
+**Is it a transition metal?** Write the configuration of each common ion. If at least one has a d sub-level that is neither empty nor full, the element is a transition metal. Copper: Cu⁺ is 3d¹⁰ but Cu²⁺ is 3d⁹, so yes. Zinc: only Zn²⁺, 3d¹⁰, so no.
+
+**Oxidation state from a complex.** [CuCl₄]²⁻: four chloride ligands contribute –4, so the metal must be +2 to give –2 overall.
+
+## Common ions and colours in water
+
+| Ion | Colour of aqueous ion |
+|---|---|
+| Cu²⁺ | Blue |
+| Fe²⁺ | Pale green |
+| Fe³⁺ | Yellow-brown |
+| Mn²⁺ | Very pale pink |
+| Cr³⁺ | Green or violet, depending on the ligands |
+| Zn²⁺ | Colourless |
+
+These show why the definition matters: Zn²⁺ is colourless because its d sub-level is full.
+
+## How a ligand bonds
+
+1. The ligand has a lone pair on a donor atom (O in water, N in ammonia, Cl in chloride).
+2. The metal ion has empty orbitals that can accept the pair.
+3. A co-ordinate bond forms. Both electrons in the bond came from the ligand.
+4. The number of such bonds is the co-ordination number.
+
+## Transition metal or main-group metal?
+
+| Feature | Transition metal (for example Fe) | Main-group metal (for example Ca) |
+|---|---|---|
+| d sub-level | Incomplete in atoms or ions | Not involved |
+| Oxidation states | Several (Fe²⁺, Fe³⁺) | One (Ca²⁺) |
+| Ions in solution | Usually coloured | Colourless |
+| Complexes | Many | Few |
+| Catalysis | Common | Rare |
+
 ## Exam traps
 
 - Calling Sc and Zn transition metals.

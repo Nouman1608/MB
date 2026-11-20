@@ -100,6 +100,14 @@ Both routes reach MgSO₄(aq): ΔH(hydration) + 16 = −91, so ΔH(hydration) = 
 
 For decomposition of sodium hydrogencarbonate: measure the temperature change when NaHCO₃(s) reacts with excess hydrochloric acid, and when Na₂CO₃(s) reacts with excess hydrochloric acid. Use both enthalpy changes in a cycle to find the enthalpy change of decomposition, which cannot be measured directly.
 
+## Quick checks before you finish
+
+- Count the arrows: every substance in the equation should appear on a route exactly once.
+- Check the order of subtraction against the type of data given.
+- Ask whether the sign is sensible. Combustion is always exothermic, and a formation from elements may be either sign.
+- Make sure each number of moles comes from the balanced equation, not from the question's mass.
+- Put the unit kJ mol⁻¹ on the answer.
+
 ## Common mistakes
 
 - Missing the multiplication by the number of moles.

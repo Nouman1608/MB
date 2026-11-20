@@ -74,6 +74,10 @@ These questions cover section **3.2.5.1 General properties of transition metals*
 
 **12.** A student writes the electron configuration of Fe³⁺ as [Ar] 3d⁴ 4s¹. Identify the error and give the correct configuration. **[2]**
 
+**13.** Titanium forms Ti³⁺. Write its electron configuration and explain why titanium is classed as a transition metal. Proton number of titanium = 22. **[3]**
+
+**14.** Compare vanadium and calcium in terms of the oxidation states they form and explain the difference. **[3]**
+
 ## Answers
 
 **1.** An element that forms at least one ion, or has atoms, with an incomplete d sub-level (the specification states that the characteristics of Ti to Cu arise from an incomplete d sub-level in atoms or ions) [1]. **[1]**
@@ -115,6 +119,10 @@ These questions cover section **3.2.5.1 General properties of transition metals*
 **12.** The student removed electrons from 3d and left some in 4s; the 4s electrons are lost first [1]; correct configuration of Fe³⁺ is [Ar] 3d⁵ [1]. **[2]**
 
 *Examiner insight:* Always remove 4s electrons before 3d electrons when writing the ion, then check the electron count.
+
+**13.** Ti is [Ar] 3d² 4s², and Ti³⁺ is [Ar] 3d¹ [2: 1 for removing 4s first, 1 for the correct configuration]; the ion has an incomplete d sub-level (one d electron), so titanium is a transition metal [1]. **[3]**
+
+**14.** Vanadium forms several oxidation states (+2, +3, +4 and +5) [1]; calcium forms only +2 [1]; in vanadium the 4s and 3d electrons are close in energy and can be lost in varying numbers, whereas calcium would need an inner-shell electron removed for a higher state, which needs far too much energy [1]. **[3]**
 
 ## Where marks are usually lost
 

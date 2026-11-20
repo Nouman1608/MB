@@ -68,6 +68,18 @@ When you are asked for "two uses", write the use and, where possible, a short ex
 
 Mammals and birds keep their body temperature roughly constant, even when the air is cold. Heat is released by respiration in all cells, and especially in the muscles and liver. In the cold, this heat helps to replace heat lost to the surroundings. That is why animals that keep a constant temperature generally need more food than those that do not.
 
+## Where the energy goes
+
+Respiration releases the chemical energy stored in glucose, but the cell cannot use all of it. Some energy is transferred to the reactions that need it, such as muscle contraction or active transport. A large share is released as **heat**. In mammals and birds this heat is useful, because it helps to keep the body warm. In a compost heap full of respiring microorganisms the temperature rises for the same reason, and a pile of germinating seeds in a closed container becomes warm.
+
+## Respiration in plants and in microorganisms
+
+All organisms respire, so the definition applies to plants, fungi and bacteria as well as animals. Three examples show this.
+
+- **Plants**: a leaf respires all the time. In bright light, photosynthesis makes more glucose and oxygen than respiration uses, so the net effect is to take in carbon dioxide. In the dark there is no photosynthesis, so only respiration remains and carbon dioxide is released.
+- **Yeast**: a single-celled fungus that respires glucose and releases carbon dioxide, which is why it makes bread rise.
+- **Germinating seeds**: they respire quickly, using stored food to release energy for growth before their first leaves can photosynthesise.
+
 ## Investigating the effect of temperature on respiration in yeast
 
 Yeast is a single-celled fungus. In a solution of glucose, yeast respires and releases carbon dioxide. The rate of carbon dioxide production shows the rate of respiration.

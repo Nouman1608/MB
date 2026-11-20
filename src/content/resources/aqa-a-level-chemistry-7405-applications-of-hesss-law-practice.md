@@ -70,6 +70,8 @@ Na₂CO₃(s) + 2HCl(aq) → 2NaCl(aq) + H₂O(l) + CO₂(g)
 
 Calculate the enthalpy change for 2NaHCO₃(s) → Na₂CO₃(s) + H₂O(l) + CO₂(g). **[3]**
 
+**12.** Iron is made in the blast furnace: Fe₂O₃(s) + 3CO(g) → 2Fe(s) + 3CO₂(g). Standard enthalpies of formation: Fe₂O₃ −824, CO −111, CO₂ −394. Calculate the enthalpy change for the reaction and state whether it is exothermic or endothermic. **[4]**
+
 ## Answers
 
 **1.** The enthalpy change for a reaction is independent of the route taken, provided the initial and final conditions are the same [1]. **[1]**
@@ -99,6 +101,8 @@ Calculate the enthalpy change for 2NaHCO₃(s) → Na₂CO₃(s) + H₂O(l) + CO
 **11.** Double the first equation (ΔH = 2 × 12 = +24) [1]; reverse the second equation (ΔH = +29) [1]; add them, so that NaCl, HCl and the extra water and carbon dioxide cancel: ΔH = 24 + 29 = **+53 kJ mol⁻¹** [1]. **[3]**
 
 *Examiner insight:* Doubling the first equation gives two moles of NaHCO₃ reacting; subtracting the second equation then leaves the target. Using +12 alone loses the factor of two.
+
+**12.** ΣΔfH⦵(products) = 3(−394) = −1182 [1]; ΣΔfH⦵(reactants) = −824 + 3(−111) = −1157 [1]; ΔrH⦵ = −1182 − (−1157) = **−25 kJ mol⁻¹** [1]; the value is negative, so the reaction is exothermic [1]. **[4]**
 
 ## Where marks are usually lost
 

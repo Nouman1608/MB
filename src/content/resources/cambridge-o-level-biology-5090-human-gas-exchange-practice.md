@@ -105,6 +105,8 @@ D: red blood cells
 
 **11.** A person with a damaged diaphragm cannot breathe in properly. Explain why. **[3]**
 
+**12.** Describe how the structure of the trachea helps it to carry air to the lungs. **[2]**
+
 ---
 
 ## Answers
@@ -148,6 +150,8 @@ D: red blood cells
 **(b)** Blood carries oxygen away from the alveoli, and brings carbon dioxide to them [1], which keeps a steep concentration gradient so that diffusion continues [1]. **[4]**
 
 **11.** The diaphragm contracts and flattens to increase the volume of the thorax [1]. If it is damaged, the volume does not increase enough [1], so the pressure does not fall enough and less air enters the lungs [1]. **[3]**
+
+**12.** The trachea is held open by rings of cartilage [1], so it does not collapse when the pressure inside falls during inhalation, and air can pass through [1]. **[2]**
 
 ---
 
