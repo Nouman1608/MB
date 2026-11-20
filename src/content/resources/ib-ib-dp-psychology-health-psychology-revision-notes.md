@@ -15,10 +15,8 @@ syllabusTopics:
     topic: "ib-dp-psychology-health-psychology"
 description: "Revision notes for the IB DP Psychology health option: the biopsychosocial model, health beliefs, risk and protective factors, stress and health promotion."
 author: "marlbridge-academic-team"
-reviewer: "kanwal-aslam"
-reviewStatus: "reviewed"
-reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Check study details and figures against the original papers and the IB Psychology guide (first assessment 2019) before teacher sign-off."
+reviewStatus: "archived"
+reviewNote: "2026-11-20: archived: it teaches the 2019 health psychology option and its Paper 2 essay examination (biopsychosocial model, dispositional factors and health beliefs, prevalence, effectiveness of health promotion programmes), and the 2027 course has no options and lists different areas of study under Health and well-being."
 publishedDate: 2026-11-08
 featured: false
 ---

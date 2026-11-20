@@ -1,18 +1,20 @@
 ---
-title: "IB DP Psychology (2019): Development of Empathy and Theory of Mind"
+title: "IB DP Psychology: Development of Empathy and Theory of Mind"
 resourceType: "study-guides"
 subject: "psychology"
 level: ["ib"]
-topic: "Topic 6: Option: Developmental psychology"
+topic: "Context: Human development"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: ["DP Psychology (2019) / DP Psychology (2027)"]
-syllabusSeries: "First assessment 2019"
+syllabusCodes: ["DP Psychology (2027)", "DP Psychology (2019) / DP Psychology (2027)"]
+syllabusSeries: "First assessment 2027"
 order: 6.1
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-psychology-developmental-psychology"
-description: "Empathy and theory of mind for the IB DP developmental option: false-belief tasks, cross-cultural and infant research, stages of empathy and an essay plan."
+  - qualification: "ib-dp"
+    topic: "ib-dp-psychology-2027-human-development"
+description: "Empathy and theory of mind for IB DP Psychology (human development): false-belief tasks, cross-cultural and infant research, stages of empathy and an essay plan."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
@@ -22,7 +24,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide covers one content point of the developmental psychology option in IB DP Psychology (first assessment 2019): **"development of empathy and theory of mind"**, part of the topic "developing an identity". The [developmental psychology study guide](/resources/ib-ib-dp-psychology-developmental-psychology-study-guide/) covers Piaget, Vygotsky, attachment and identity; the option's revision notes list the Sally-Anne study in one line. This page explains what theory of mind and empathy are, how each develops, the main research methods and studies, and how to use them in a 22-mark essay. The course described here has its last examination session in November 2026.
+This guide covers theory of mind and the development of empathy for the human development context of IB DP Psychology (first assessment 2027). The 2027 guide lists **theory of mind** as an area of study for models of development ("the role theory of mind has in understanding human development and cognition"). It does not list empathy as an area of study, so the empathy sections below are supporting material for questions on human development and the development of self. The [developmental psychology study guide](/resources/ib-ib-dp-psychology-developmental-psychology-study-guide/) covers Piaget, Vygotsky, attachment and identity; the option's revision notes list the Sally-Anne study in one line. This page explains what theory of mind and empathy are, how each develops, the main research methods and studies, and how to use them in a 15-mark Paper 1 Section C response. The 2019 course, which had an option in developmental psychology, had its last examination session in November 2026.
 
 ## Two related abilities
 
@@ -74,14 +76,16 @@ Evidence for the early stages:
 
 **Evaluation.** Reactive crying may be emotional contagion rather than empathy in any full sense. Maternal reports may be biased by what mothers hope to see. Stage accounts describe a sequence, but children vary widely, and culture shapes how distress is expressed and responded to.
 
-## Worked example: planning a 22-mark essay
+## Worked example: planning a 15-mark Section C response
 
-**Question:** "Discuss research on the development of theory of mind."
+Paper 1 Section C offers two concept-based extended-response questions, each from a different context, and you answer one. The question below is written in that style.
+
+**Question:** "Evaluate research on the development of theory of mind, with reference to the concept of measurement." **[15]**
 
 1. **Focus:** define theory of mind and false belief; state the issue: at what age does it develop, and what drives it?
 2. **Knowledge:** the logic of false-belief tasks; unexpected-location and unexpected-contents versions; implicit versus explicit understanding.
 3. **Research:** Wimmer and Perner (1983); Wellman, Cross and Watson (2001); Callaghan et al. (2005); Onishi and Baillargeon (2005).
-4. **Discussion:** verbal tasks may underestimate young children because of language and memory demands; meta-analysis shows a robust age trend; cross-cultural synchrony suggests a universal pattern; violation-of-expectation findings are open to simpler interpretations; most studies are cross-sectional.
+4. **Discussion and concept link:** measurement: how a false-belief task or looking time operationalises "understanding"; verbal tasks may underestimate young children because of language and memory demands; meta-analysis shows a robust age trend; cross-cultural synchrony suggests a universal pattern; violation-of-expectation findings are open to simpler interpretations; most studies are cross-sectional.
 5. **Conclusion:** explicit theory of mind develops at around four to five in many cultures, while the age at which some understanding first appears depends on how it is measured.
 
 ## Common mistakes
@@ -94,7 +98,7 @@ Evidence for the early stages:
 
 ## Exam technique
 
-**Discuss** needs a balanced range of research and a conclusion; **evaluate** a judgement of strengths and limitations; **to what extent** a conclusion about degree, for example how far theory of mind is universal. Describe at least one false-belief procedure precisely, because the logic of the task is what earns knowledge marks, and finish each paragraph by saying what the study shows about development.
+**Discuss** needs a balanced range of research and a conclusion; **evaluate** a judgement of strengths and limitations; **to what extent** a conclusion about degree, for example how far theory of mind is universal. Paper 1 Sections A and C do not assess knowledge of the details of research studies, so use a study to support a point about the concept, not to retell it. Explain the logic of at least one false-belief task precisely, and finish each paragraph by saying what the evidence shows about development.
 
 ## Related pages
 

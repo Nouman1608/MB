@@ -14,10 +14,8 @@ syllabusTopics:
     topic: "ib-dp-psychology-psychology-of-human-relationships"
 description: "Condensed IB DP notes on bystanderism: the five-stage model, inhibiting processes, cost-reward, social identity, CCTV evidence and a self-test."
 author: "marlbridge-academic-team"
-reviewer: "kanwal-aslam"
-reviewStatus: "reviewed"
-reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewStatus: "archived"
+reviewNote: "2026-11-20: archived: it teaches bystanderism, a content point in the social responsibility topic of the 2019 Psychology of human relationships option, and the 2027 course has no options and does not list bystanderism."
 publishedDate: 2026-11-18
 featured: false
 ---

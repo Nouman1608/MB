@@ -11,10 +11,8 @@ syllabusSeries: "First assessment 2019"
 order: 6
 description: "Exam preparation for IB DP Psychology: a single-approach Paper 1 essay, equal preparation for both HL options, HL Paper 3 methodology and an IA write-up."
 author: "marlbridge-academic-team"
-reviewer: "kanwal-aslam"
-reviewStatus: "reviewed"
-reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewStatus: "archived"
+reviewNote: "2026-11-20: archived: it gives Paper 1, Paper 2 and HL Paper 3 advice for the 2019 course (a single-approach Paper 1 essay, two options at HL and a methodology Paper 3), and the 2027 course has different papers, marks and weightings."
 publishedDate: 2026-09-07
 featured: false
 ---

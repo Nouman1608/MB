@@ -1,18 +1,20 @@
 ---
-title: "IB DP Psychology (2019): Assessing the Effectiveness of Treatment -- Practice Questions"
+title: "IB DP Psychology: Assessing the Effectiveness of Treatment -- Practice Questions"
 resourceType: "practice-questions"
 subject: "psychology"
 level: ["ib"]
-topic: "Topic 5: Option: Abnormal psychology"
+topic: "Context -- Health and well-being (prevention and treatment)"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: ["DP Psychology (2019) / DP Psychology (2027)"]
-syllabusSeries: "First assessment 2019"
+syllabusCodes: ["DP Psychology (2027)", "DP Psychology (2019) / DP Psychology (2027)"]
+syllabusSeries: "First assessment 2027"
 order: 5.1
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-psychology-abnormal-psychology"
-description: "Original IB DP abnormal psychology practice on judging treatment research: terms, trial design, an invented trial to analyse and a 22-mark essay plan."
+  - qualification: "ib-dp"
+    topic: "ib-dp-psychology-2027-health-and-well-being"
+description: "Original IB DP Psychology practice on judging treatment research: terms, trial design, an invented trial to analyse and a 15-mark extended response."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
@@ -22,14 +24,13 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-> **These are original questions written for Marlbridge** on "assessing the effectiveness of
-> treatment(s)" in the abnormal psychology option (IB DP Psychology, first assessment 2019). They are not
-> past-paper questions. Question 13 uses the Paper 2 essay tariff of 22 marks; the others use practice
+> **These are original questions written for Marlbridge** on the effectiveness of treatment in the
+> health and well-being context (IB DP Psychology, first assessment 2027). They are not past-paper
+> questions. Question 13 uses the 15-mark tariff of Paper 1 section C; the others use practice
 > tariffs. The trial in Question 9 is invented, with invented figures.
 
 Related: [Assessing treatment effectiveness study guide](/resources/ib-ib-dp-psychology-assessing-treatment-effectiveness/),
-[revision notes](/resources/ib-ib-dp-psychology-assessing-treatment-effectiveness-revision-notes/) and the
-[abnormal psychology practice questions](/resources/ib-ib-dp-psychology-abnormal-psychology-practice/).
+[revision notes](/resources/ib-ib-dp-psychology-assessing-treatment-effectiveness-revision-notes/).
 
 ## Section A
 
@@ -62,7 +63,7 @@ Related: [Assessing treatment effectiveness study guide](/resources/ib-ib-dp-psy
 
 **12.** A clinic manager reads that a therapy produced large improvements in a randomised controlled trial run at a university. Explain two reasons why the clinic may not see the same results. **[4]**
 
-**13.** Evaluate research on the effectiveness of two treatments for one disorder. **[22]**
+**13.** Evaluate research on the effectiveness of two treatments for one disorder, with reference to the concept of change. **[15]**
 
 ## Answers
 
@@ -92,12 +93,11 @@ Related: [Assessing treatment effectiveness study guide](/resources/ib-ib-dp-psy
 
 **12.** Trial samples often exclude people with other disorders, substance use or suicidal thoughts **[1]**, so the clinic's patients may be more complex and respond less well **[1]**. Therapists in trials are usually highly trained and closely supervised **[1]**, while clinic therapists may have less training and larger caseloads, so the therapy may be delivered less faithfully **[1]**.
 
-**13.** Marked with the Paper 2 essay criteria:
-- **A Focus:** names the disorder and two treatments and states that judging effectiveness depends on comparison, outcome and time point **[2]**.
-- **B Knowledge and understanding:** brief outline of SSRIs and CBT; efficacy and effectiveness; response, remission and relapse **[6]**.
-- **C Use of research:** two or three of TADS Team (2004), DeRubeis et al. (2005), Hollon et al. (2005) and Kirsch et al. (2008), explained and linked **[6]**.
-- **D Critical thinking:** blinding in therapy trials; time of measurement; publication bias; trial samples versus clinic patients; generalising from adolescents to adults; a reasoned judgement **[6]**.
-- **E Clarity and organisation:** structured around the evidence, not around descriptions of therapy **[2]**.
+**13.** Marked with the Paper 1 section C markbands (15 marks), which reward knowledge and understanding of the content and concept, analysis with explained links between concepts, a reasoned conclusion consistent with the arguments, and accurate use of psychological terminology. Indicative content:
+- **Knowledge and understanding:** names the disorder and two treatments; brief outline of SSRIs and CBT; efficacy and effectiveness; response, remission and relapse; links to the concept of change (intervention and the effectiveness of treatment).
+- **Use of evidence as examples:** two or three of TADS Team (2004), DeRubeis et al. (2005), Hollon et al. (2005) and Kirsch et al. (2008), used to illustrate points about effectiveness. The guide states that the details of research studies are not assessed in section C, so studies support the argument rather than being described at length.
+- **Analysis:** blinding in therapy trials; time of measurement; publication bias; trial samples versus clinic patients; generalising from adolescents to adults.
+- **Conclusion:** a reasoned judgement that answers the question, for example that medication may act faster while CBT may give more lasting protection against relapse, and that no single trial settles the question.
 
 ## Where marks are usually lost
 

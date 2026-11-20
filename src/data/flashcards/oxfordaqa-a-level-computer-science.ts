@@ -42,6 +42,15 @@ const sub = (topic: string, subtopic: string, number: string, specs: Spec[]): Fl
 const T2 = 'fundamental-data-structures';
 const PROC = 'a-computer-science-procedural-revision-notes';
 const ARR = 'oxfordaqa-a-level-computer-science-arrays-lists-revision-notes';
+const DT = 'oxfordaqa-a-level-computer-science-9645-data-types-revision-notes';
+const NB = 'oxfordaqa-a-level-computer-science-9645-number-bases-revision-notes';
+const GFX = 'oxfordaqa-a-level-computer-science-9645-representing-graphics-revision-notes';
+const ERR = 'oxfordaqa-a-level-computer-science-9645-error-detection-correction-revision-notes';
+const GATES = 'oxfordaqa-a-level-computer-science-9645-logic-gates-revision-notes';
+const BOOL = 'oxfordaqa-a-level-computer-science-9645-boolean-algebra-revision-notes';
+const ADDP = 'oxfordaqa-a-level-computer-science-9645-additional-programming-revision-notes';
+const TCP = 'oxfordaqa-a-level-computer-science-9645-tcp-ip-revision-notes';
+const CYB = 'oxfordaqa-a-level-computer-science-9645-cyber-security-revision-notes';
 
 export const DECK_OXFORDAQA_A_LEVEL_COMPUTER_SCIENCE: FlashcardDeck = {
   boardSlug: 'oxfordaqa',
@@ -80,6 +89,15 @@ export const DECK_OXFORDAQA_A_LEVEL_COMPUTER_SCIENCE: FlashcardDeck = {
   },
   cards: [
     // 1 Procedural programming
+    // 3.1.1 Data types
+    ...sub('procedural-programming', 'data-types-oxfordaqa-alevel-cs', '3.1.1', [
+      { n: 1, f: 'Name the six data types in the specification', b: 'Integer, real (float), Boolean, character, string and date/time.', src: DT },
+      { n: 2, f: 'Why store a phone number as a string, not an integer?', b: 'It has a leading zero that an integer would drop, and no arithmetic is done on it. Ask three questions: is there arithmetic, a fractional part, or formatting that matters?', src: DT },
+      { n: 3, f: 'What do 7 / 2, 7 // 2 and 7 % 2 give in Python?', b: '7 / 2 = 3.5 (real division, a float). 7 // 2 = 3 (integer division). 7 % 2 = 1 (the remainder, a MOD).', src: DT },
+      { n: 4, f: 'Why is "9" < "12" False when both are strings?', b: 'Strings compare character by character. The code for "9" (57) is greater than the code for "1" (49), so "9" is the larger string. Convert with int() to compare as numbers.', src: DT },
+      { n: 5, f: 'Truncation vs rounding: what do int(3.99) and round(3.99) give?', b: 'Truncation drops the fractional part, so int(3.99) = 3. Rounding goes to the nearest whole number, so round(3.99) = 4.', src: DT },
+      { n: 6, f: 'Why should you not test two floats for equality?', b: 'Floats are stored with limited precision: 0.1 + 0.2 gives 0.30000000000000004 in Python. Compare the difference with a tolerance instead of using ==.', src: DT },
+    ]),
     // 3.1.2 Programming concepts
     ...sub('procedural-programming', 'programming-concepts-oxfordaqa-alevel-cs', '3.1.2', [
       { n: 1, f: 'Procedure vs function', b: 'A procedure carries out a task and returns nothing. A function returns a value.' },
@@ -157,6 +175,15 @@ export const DECK_OXFORDAQA_A_LEVEL_COMPUTER_SCIENCE: FlashcardDeck = {
     ]),
 
     // 5 Representing data
+    // 3.5.1 Number bases
+    ...sub('representing-data', 'number-bases-oxfordaqa-alevel-cs', '3.5.1', [
+      { n: 1, f: 'How do you convert binary 10010110 to decimal?', b: 'Add the column values where there is a 1: 128 + 16 + 4 + 2 = 150.', src: NB },
+      { n: 2, f: 'How do you convert decimal 77 to binary by division?', b: 'Divide by 2 repeatedly, noting each remainder, and read the remainders from last to first: 1001101, which is 01001101 in 8 bits.', src: NB },
+      { n: 3, f: 'Convert binary 10101101 to hexadecimal', b: 'Group into fours from the right: 1010 and 1101, which are A and D. So 10101101 is AD in hex, which is 173 in decimal.', src: NB },
+      { n: 4, f: 'Convert hexadecimal C3 to decimal', b: 'Multiply each digit by its column value: C = 12, so 12 × 16 + 3 = 195. The letters A to F stand for 10 to 15.', src: NB },
+      { n: 5, f: 'Why is hexadecimal used to write binary values?', b: 'One hex digit is exactly four bits (a nibble), so conversion is direct, and a byte is just two hex digits. It is shorter and less error-prone for people to read and copy.', src: NB },
+      { n: 6, f: 'How do you convert decimal 219 to hexadecimal by division?', b: 'Divide by 16: 219 ÷ 16 = 13 remainder 11. Remainders read upwards give the digits D (13) and B (11), so 219 is DB.', src: NB },
+    ]),
     // 3.5.2 Units of information
     ...sub('representing-data', 'units-of-information-oxfordaqa-alevel-cs', '3.5.2', [
       { n: 1, f: 'Binary vs decimal prefixes', b: 'Binary: Ki = 2¹⁰, Mi = 2²⁰, Gi = 2³⁰, Ti = 2⁴⁰. Decimal: k = 10³, M = 10⁶, G = 10⁹, T = 10¹².' },
@@ -174,6 +201,15 @@ export const DECK_OXFORDAQA_A_LEVEL_COMPUTER_SCIENCE: FlashcardDeck = {
     ...sub('representing-data', 'representing-characters-oxfordaqa-alevel-cs', '3.5.4', [
       { n: 1, f: 'Where do the ASCII codes for digits, upper-case and lower-case letters start?', b: 'Digits from 48, upper-case letters from 65 and lower-case letters from 97. ASCII is a 7-bit code with 128 characters.' },
     ]),
+    // 3.5.5 Representing graphics
+    ...sub('representing-data', 'representing-graphics-oxfordaqa-alevel-cs', '3.5.5', [
+      { n: 1, f: 'What is the formula for the storage of a bitmap, excluding metadata?', b: 'Storage in bits = width in pixels × height in pixels × colour depth. Divide by 8 for bytes.', src: GFX },
+      { n: 2, f: 'A bitmap is 200 pixels wide, 100 high, with 8-bit colour. How many bytes does it need?', b: '200 × 100 × 8 = 160 000 bits. Dividing by 8 gives 20 000 bytes, excluding metadata.', src: GFX },
+      { n: 3, f: 'How many colours can a colour depth of n bits represent?', b: '2ⁿ colours. 4 bits gives 16, 8 bits gives 256 and 24 bits gives 16 777 216.', src: GFX },
+      { n: 4, f: 'What metadata does a bitmap need, and why?', b: 'Width, height and colour depth. They let software interpret the stream of pixel data: where each row ends and how many bits make up one pixel.', src: GFX },
+      { n: 5, f: 'How does a vector graphic store an image?', b: 'As a list of objects (line, rectangle, circle and so on). Each object has properties such as x and y coordinates, outline colour, line width and fill colour.', src: GFX },
+      { n: 6, f: 'Compare bitmap and vector graphics when enlarged, and say what each suits', b: 'A bitmap becomes blocky when enlarged and suits photographs. A vector graphic is redrawn at the new size so stays sharp, and suits logos, diagrams and maps.', src: GFX },
+    ]),
     // 3.5.6 Representing sound
     ...sub('representing-data', 'representing-sound-oxfordaqa-alevel-cs', '3.5.6', [
       { n: 1, f: 'What does the Nyquist theorem say?', b: 'The sampling rate must be at least twice the highest frequency in the signal.' },
@@ -181,6 +217,16 @@ export const DECK_OXFORDAQA_A_LEVEL_COMPUTER_SCIENCE: FlashcardDeck = {
     // 3.5.7 Basic encryption methods
     ...sub('representing-data', 'basic-encryption-methods-oxfordaqa-alevel-cs', '3.5.7', [
       { n: 1, f: 'Perfect security vs computational security', b: 'Perfect security (e.g. the Vernam cipher): nothing can be learned about the plaintext from the ciphertext. Computationally secure: cracking it takes an unfeasible time or has a very low chance of success.' },
+    ]),
+
+    // 3.5.8 Error detection and correction
+    ...sub('representing-data', 'error-detection-and-correction-oxfordaqa-alevel-cs', '3.5.8', [
+      { n: 1, f: 'What is the even parity bit for the data 0101101?', b: 'The data has four 1s, which is already an even number, so the even parity bit is 0. With odd parity the bit would be 1.', src: ERR },
+      { n: 2, f: 'The byte 11010110 arrives using even parity. Is an error detected?', b: 'Yes. The byte has five 1s, which is odd, so at least one bit has been corrupted.', src: ERR },
+      { n: 3, f: 'What are the limits of a parity bit?', b: 'It detects any single-bit error (any odd number of errors) but misses an even number of flipped bits, and cannot show which bit is wrong, so it cannot correct.', src: ERR },
+      { n: 4, f: 'Encode 0110 with majority voting using three copies of each bit, then decode 110011100111', b: 'Encoded: 000111111000. Decoding 110011100111 in groups of three: 110, 011, 100, 111 give majority bits 1, 1, 0, 1, so the data is 1101.', src: ERR },
+      { n: 5, f: 'What is the cost and the weakness of majority voting?', b: 'It corrects one error in each group of three, but it sends 200% extra data (a 40-bit message becomes 120 bits). Two errors in one group give a wrong bit without warning.', src: ERR },
+      { n: 6, f: 'How does a checksum work? Find the sum mod 256 for the bytes 12, 45, 200 and 17', b: 'The sender calculates a value from the data and sends it with the data; the receiver recalculates and compares. Here 12 + 45 + 200 + 17 = 274, and 274 mod 256 = 18.', src: ERR },
     ]),
 
     // 6 Computer systems
@@ -229,6 +275,25 @@ export const DECK_OXFORDAQA_A_LEVEL_COMPUTER_SCIENCE: FlashcardDeck = {
       { n: 1, f: 'How do a hard disk and an SSD store data?', b: 'Hard disk: spinning magnetic platters in tracks and sectors, read and written by a head on a moving arm. SSD: NAND flash cells trap charge, with no moving parts; erased in whole blocks with limited write cycles.' },
     ]),
 
+    // 3.7.6 Logic gates
+    ...sub('computer-organisation-and-architecture', 'logic-gates-oxfordaqa-alevel-cs', '3.7.6', [
+      { n: 1, f: 'What is the rule for an XOR gate, and how does it differ from OR?', b: 'XOR outputs 1 when the inputs differ and 0 when they are the same. OR outputs 1 unless both inputs are 0, so for inputs 1 and 1, OR gives 1 but XOR gives 0.', src: GATES },
+      { n: 2, f: 'When do NAND and NOR output 1?', b: 'NAND is the opposite of AND: it outputs 0 only when both inputs are 1. NOR is the opposite of OR: it outputs 1 only when both inputs are 0.', src: GATES },
+      { n: 3, f: 'What are the outputs of a half-adder?', b: 'Sum S = A XOR B and carry C = A AND B. It adds two bits and has no carry in. For A = 1 and B = 1, S = 0 and C = 1.', src: GATES },
+      { n: 4, f: 'What is a full-adder made of, and what are its outputs?', b: 'Two half-adders and an OR gate, with inputs A, B and a carry in Cin. S = (A XOR B) XOR Cin and Cout = (A AND B) OR (Cin AND (A XOR B)). Check: the number of 1s in = S + 2 × Cout.', src: GATES },
+      { n: 5, f: 'Trace a full-adder for A = 0, B = 1 and Cin = 1', b: 'A XOR B = 1, so S = 1 XOR 1 = 0. A AND B = 0 and Cin AND 1 = 1, so Cout = 0 OR 1 = 1. Check: two 1s in, and 0 + 2 × 1 = 2.', src: GATES },
+      { n: 6, f: 'When does the output Q of a D-type flip-flop change?', b: 'Only at the rising clock edge, when Q takes the value of D at that moment. Between edges Q ignores D, which is why the flip-flop is a one-bit memory unit.', src: GATES },
+    ]),
+    // 3.7.7 Boolean algebra
+    ...sub('computer-organisation-and-architecture', 'boolean-algebra-oxfordaqa-alevel-cs', '3.7.7', [
+      { n: 1, f: 'State De Morgan\'s two laws', b: 'NOT (A OR B) = (NOT A) AND (NOT B), and NOT (A AND B) = (NOT A) OR (NOT B). Break the bar and change the operator.', src: BOOL },
+      { n: 2, f: 'What is the order of precedence of NOT, AND and OR in Boolean expressions?', b: 'NOT first, then AND, then OR; brackets change the order. So A OR B AND C means A OR (B AND C).', src: BOOL },
+      { n: 3, f: 'Simplify (A AND B) OR (A AND NOT B)', b: 'Factorise: A AND (B OR NOT B) = A AND 1 = A. The identity used is B OR NOT B = 1.', src: BOOL },
+      { n: 4, f: 'Simplify A OR (A AND B), and A OR ((NOT A) AND B)', b: 'Absorption: A OR (A AND B) = A. The listed identity gives A OR ((NOT A) AND B) = A OR B.', src: BOOL },
+      { n: 5, f: 'Simplify NOT (A AND NOT B)', b: 'De Morgan gives (NOT A) OR (NOT NOT B). The double negation cancels, so the result is (NOT A) OR B.', src: BOOL },
+      { n: 6, f: 'How can NOT and AND be built from NAND gates alone?', b: 'NOT A = A NAND A. A AND B = (A NAND B) NAND (A NAND B). OR can be built too, so NAND is a universal gate.', src: BOOL },
+    ]),
+
     // 8 Machine code and assembly language
     // 3.8.1 Instruction format
     ...sub('machine-code-and-assembly-language', 'instruction-format-oxfordaqa-alevel-cs', '3.8.1', [
@@ -263,6 +328,16 @@ export const DECK_OXFORDAQA_A_LEVEL_COMPUTER_SCIENCE: FlashcardDeck = {
     ...sub('object-oriented-and-additional-programming', 'relationships-between-classes-oxfordaqa-alevel-cs', '3.9.3', [
       { n: 1, f: 'What are inheritance and overriding?', b: 'Inheritance: one class is a more specialised version of an existing class. Overriding: a base-class method is redefined in a subclass so subclass objects behave differently.' },
       { n: 2, f: 'Inheritance vs association', b: '"Is a more specialised kind of" means inheritance. "Uses" or "has a link to" means association, which is much weaker. A Ward is associated with its Patients; it is not a kind of Patient.' },
+    ]),
+
+    // 3.9.4 Additional programming
+    ...sub('object-oriented-and-additional-programming', 'additional-programming-oxfordaqa-alevel-cs', '3.9.4', [
+      { n: 1, f: 'What do the file modes "r", "w" and "a" do?', b: '"r" reads from the start (an error if the file is missing). "w" writes and erases the existing contents. "a" adds to the end. Both "w" and "a" create the file if it is missing.', src: ADDP },
+      { n: 2, f: 'How do you read a file of whole numbers, one per line, and total them?', b: 'Open it with "with open(name, mode) as f", loop over the lines, and add int(line.strip()) to a total. strip removes the newline; everything read is a string until you convert it.', src: ADDP },
+      { n: 3, f: 'How do you write a list of numbers to a text file, one per line?', b: 'Open with "w" and write str(item) followed by a newline character for each item. write does not add a newline, and only strings can be written.', src: ADDP },
+      { n: 4, f: 'In a recursive factorial subroutine, which part is the base case?', b: 'The case that returns without calling itself: if n ≤ 1 return 1. The recursive case returns n × factorial(n − 1). factorial(4) = 24.', src: ADDP },
+      { n: 5, f: 'Trace sum_digits(4821), which adds the digits of a number recursively', b: 'Calls go down: 4821, 482, 48, 4 (base case, returns 4). Returns come back up: 8 + 4 = 12, then 2 + 12 = 14, then 1 + 14 = 15.', src: ADDP },
+      { n: 6, f: 'Trace gcd(48, 18), where gcd(a, b) calls gcd(b, a MOD b) until b is 0', b: 'gcd(48, 18) calls gcd(18, 12), then gcd(12, 6), then gcd(6, 0). That is the base case and returns 6, so the answer is 6.', src: ADDP },
     ]),
 
     // 10 Advanced data structures
@@ -371,6 +446,27 @@ export const DECK_OXFORDAQA_A_LEVEL_COMPUTER_SCIENCE: FlashcardDeck = {
     // 3.14.3 The Internet
     ...sub('networking-and-cyber-security', 'the-internet-oxfordaqa-alevel-cs', '3.14.3', [
       { n: 1, f: 'What does a packet contain, and what does time to live do?', b: 'Source and destination addresses, sequence number, time to live, payload and error detection data. TTL is reduced by 1 at each router and the packet is discarded at 0.' },
+    ]),
+
+    // 3.14.4 The Transmission Control Protocol/Internet Protocol
+    ...sub('networking-and-cyber-security', 'the-transmission-control-protocol-internet-protocol-oxfordaqa-alevel-cs', '3.14.4', [
+      { n: 1, f: 'Name the four layers of the TCP/IP stack, top to bottom, and the job of each', b: 'Application: protocols such as HTTP and SMTP. Transport: splits data into segments and uses ports. Internet: sends packets between networks by IP address. Link: sends frames on the local network by MAC address.', src: TCP },
+      { n: 2, f: 'What is a socket?', b: 'An IP address combined with a port number, such as 203.0.113.8:443. It identifies one end of a connection, so one computer can hold many connections at once.', src: TCP },
+      { n: 3, f: 'Which addresses stay the same and which change as a packet crosses the Internet?', b: 'IP addresses stay the same end to end. MAC addresses change at each hop, because they are used for delivery on the local network only.', src: TCP },
+      { n: 4, f: 'SMTP, POP3 and IMAP: what does each do?', b: 'SMTP sends email. POP3 retrieves it, usually downloading it and removing it from the server. IMAP retrieves it but leaves messages on the server, so every device has the same view.', src: TCP },
+      { n: 5, f: 'Find the network identifier of 192.168.14.77 with subnet mask 255.255.255.192', b: 'AND each octet with the mask: 77 AND 192 = 64, so the network identifier is 192.168.14.64. The mask leaves 6 host bits, so 2⁶ − 2 = 62 usable hosts.', src: TCP },
+      { n: 6, f: 'What is the purpose of DHCP, and what are its four steps?', b: 'It gives a device an IP address and network settings automatically. The device broadcasts discover, the server sends an offer, the device sends a request, and the server sends an acknowledgement; the address is leased.', src: TCP },
+      { n: 7, f: 'IPv4 vs IPv6: how long is each address, and why was IPv6 introduced?', b: 'IPv4 uses 32 bits (four decimal numbers); IPv6 uses 128 bits (eight groups of four hex digits). IPv6 was introduced because IPv4 addresses ran out as more devices connected.', src: TCP },
+    ]),
+    // 3.14.5 Cyber security
+    ...sub('networking-and-cyber-security', 'cyber-security-oxfordaqa-alevel-cs', '3.14.5', [
+      { n: 1, f: 'Name the three firewall techniques and what each checks', b: 'Packet filtering judges each packet alone from its address, port and protocol. A proxy server makes requests on the client\'s behalf and hides internal addresses. Stateful inspection tracks connections and allows only packets that fit one.', src: CYB },
+      { n: 2, f: 'Symmetric vs asymmetric encryption', b: 'Symmetric: one shared secret key; fast, but the key must be shared securely. Asymmetric: a public and private key pair; slower, but no secret key has to be shared.', src: CYB },
+      { n: 3, f: 'Which key encrypts a secret message to Sam, and which key signs a message?', b: 'Encrypt with Sam\'s public key; only Sam\'s private key can decrypt. To sign, encrypt the hash with your own private key; anyone can check it with your public key.', src: CYB },
+      { n: 4, f: 'How does a digital signature prove origin and integrity?', b: 'The sender hashes the message and encrypts the hash with their private key. The receiver decrypts it with the public key, hashes the message and compares. A match shows the sender is genuine and the message is unchanged.', src: CYB },
+      { n: 5, f: 'What does a digital certificate contain, and who signs it?', b: 'The owner\'s name or domain, their public key, validity dates and the CA\'s signature. A certificate authority checks the owner\'s identity, then signs the certificate to link the public key to that identity.', src: CYB },
+      { n: 6, f: 'Virus vs worm vs trojan', b: 'Virus: attaches to a file and spreads when it is run or shared. Worm: a standalone program that copies itself across networks without user action. Trojan: disguised as legitimate software and installed by the user; it does not self-replicate.', src: CYB },
+      { n: 7, f: 'How does HTTPS use both kinds of encryption (key exchange)?', b: 'Asymmetric encryption is used to exchange a symmetric key securely. The faster symmetric key then encrypts the data for the rest of the session.', src: CYB },
     ]),
 
     // 15 Databases

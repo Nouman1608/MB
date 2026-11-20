@@ -36,6 +36,9 @@ const sub = (topic: string, subtopic: string, number: string, specs: Spec[]): Fl
 const LEAD = 'aqa-a-level-business-understanding-management-leadership-and-decision-making-revision-notes';
 const DEC = 'aqa-a-level-business-understanding-management-decision-making-revision-notes';
 const CHG = 'aqa-a-level-business-managing-strategic-change-revision-notes';
+const POL = 'aqa-a-level-business-7132-external-environment-political-legal-change-revision-notes';
+const ECON = 'aqa-a-level-business-7132-external-environment-economic-change-revision-notes';
+const SOCTECH = 'aqa-a-level-business-7132-external-environment-social-technological-revision-notes';
 
 const T1 = 'what-is-business-aqa-alevel-business';
 const T2 = 'managers-leadership-and-decision-making-aqa-alevel-business';
@@ -265,6 +268,31 @@ export const DECK_AQA_A_LEVEL_BUSINESS: FlashcardDeck = {
       { n: 3, f: 'Elkington\'s Triple Bottom Line', b: 'Profit, People, Planet: success judged on financial, social and environmental results. Social and environmental impact are hard to measure.' },
       { n: 4, f: 'Core competences', b: 'Things a business does well that are hard to copy and valued by customers; a source of competitive advantage.' },
       { n: 5, f: 'Carroll\'s pyramid of CSR, base to top', b: 'Economic, legal, ethical, philanthropic responsibilities.' },
+    ]),
+    ...sub('analysing-the-strategic-position-of-a-business-aqa-alevel-business', 'analysing-the-external-environment-to-assess-opportunities-and-threats-political-and-legal-change-aqa-alevel-business', '3.7.4', [
+      { n: 1, f: 'Seven areas of law and policy that can change a business\'s strategic position', b: 'Competition law, the labour market, environmental legislation, enterprise policy, regulators, infrastructure and international trade (tariffs, quotas, trade deals, sanctions).', src: POL },
+      { n: 2, f: 'Tariff, quota and sanctions', b: 'Tariff: a tax on imports. Quota: a limit on the quantity of imports. Sanctions: restrictions on trading with a country or group.', src: POL },
+      { n: 3, f: 'Regulator, and why it is not the government', b: 'An independent body that oversees a market and enforces rules on prices, quality and service, protecting consumers. Examples of effects: price caps, quality standards, fines.', src: POL },
+      { n: 4, f: 'The six questions for assessing a political or legal change', b: 'Scale of the cost or revenue effect; timing (sudden or phased); certainty (passed or proposed); who is affected (all rivals or only this business); flexibility; and whether compliance can be an opportunity.', src: POL },
+      { n: 5, f: 'Minimum wage rises £0.50 an hour. A shop has 8 staff on it for 20 hours a week. Extra annual cost?', b: '£0.50 × 20 × 52 × 8 = £4,160. If operating profit is £20,000, profit falls by 20.8% unless prices rise or costs are cut.', src: POL },
+      { n: 6, f: 'Ways a business can respond to a new law that raises its costs', b: 'Comply and budget for it; pass the cost on in higher prices (easier if rivals face the same law); change methods, such as automation; move production or sourcing; lobby; plan for scenarios.', src: POL },
+    ]),
+    ...sub('analysing-the-strategic-position-of-a-business-aqa-alevel-business', 'analysing-the-external-environment-to-assess-opportunities-and-threats-economic-change-aqa-alevel-business', '3.7.5', [
+      { n: 1, f: 'GDP and recession', b: 'GDP: total value of goods and services produced in a country in a period. Recession: falling real GDP, commonly for two consecutive quarters.', src: ECON },
+      { n: 2, f: 'Income elasticity of demand (YED): formula and what the sign and size show', b: 'YED = % change in demand ÷ % change in income. Above 1: luxury. Between 0 and 1: necessity. Negative: inferior good, whose demand rises in a recession.', src: ECON },
+      { n: 3, f: 'Demand for a firm\'s cars rises 9% when incomes rise 3%. Calculate YED and say what it suggests', b: '9% ÷ 3% = +3. YED above 1 shows a luxury (income-elastic) good, so demand swings widely with GDP.', src: ECON },
+      { n: 4, f: 'Effect of a weaker pound on exporters and importers', b: 'Exports become cheaper abroad, so export sales may rise; imported inputs become dearer in sterling. The net effect depends on the shares of overseas sales and imported costs.', src: ECON },
+      { n: 5, f: 'A UK firm buys €90,000 of goods. Sterling cost at £1 = €1.20, and at £1 = €1.00?', b: '€90,000 ÷ 1.20 = £75,000. At £1 = €1.00: €90,000 ÷ 1.00 = £90,000, which is £15,000 more.', src: ECON },
+      { n: 6, f: 'Fiscal policy vs monetary policy: who uses them and what the tools are', b: 'Fiscal: the government, using taxes and public spending. Monetary: the central bank, using interest rates and the money supply. Higher interest rates hit highly geared firms hardest.', src: ECON },
+      { n: 7, f: 'Pay rises 4% when inflation is 6%. Is real pay rising or falling?', b: 'Falling: 1.04 ÷ 1.06 − 1 = −0.019, about −1.9%.', src: ECON },
+    ]),
+    ...sub('analysing-the-strategic-position-of-a-business-aqa-alevel-business', 'analysing-the-external-environment-to-assess-opportunities-and-threats-social-and-technological-aqa-alevel-business', '3.7.6', [
+      { n: 1, f: 'Opportunity and threat from an ageing population', b: 'Opportunity: demand for health, leisure and mobility products. Threat: a labour shortage and fewer young customers.', src: SOCTECH },
+      { n: 2, f: 'A town of 40,000 has 15% aged over 65. The share rises to 20%. How many more over-65s?', b: '15% of 40,000 = 6,000; 20% = 8,000. The over-65 population rises by 2,000.', src: SOCTECH },
+      { n: 3, f: 'Shareholder concept vs stakeholder concept', b: 'Shareholder: the business exists mainly to maximise returns for its owners, and does CSR only if it adds to profit. Stakeholder: it should balance the interests of everyone affected by its actions.', src: SOCTECH },
+      { n: 4, f: 'Carroll\'s pyramid of CSR, base to top, with an example for the ethical layer', b: 'Economic, legal, ethical, philanthropic. Ethical: doing what is right and fair beyond the law, such as paying a living wage rather than only the legal minimum.', src: SOCTECH },
+      { n: 5, f: 'Arguments for and against a business adopting CSR', b: 'For: reputation, recruitment and retention, fewer fines and boycotts, long-term security. Against: cost, using shareholders\' money, rivals who ignore CSR can undercut, greenwashing risk.', src: SOCTECH },
+      { n: 6, f: 'A machine costs £120,000, saves 3 workers at £30,000 each and costs £18,000 a year to run. Net saving and payback?', b: 'Net saving = 3 × £30,000 − £18,000 = £72,000 a year. Payback = £120,000 ÷ £72,000 = 1.67 years.', src: SOCTECH },
     ]),
     ...sub('analysing-the-strategic-position-of-a-business-aqa-alevel-business', 'analysing-the-external-environment-to-assess-opportunities-and-threats-the-competitive-environment-aqa-alevel-business', '3.7.7', [
       { n: 1, f: 'Porter\'s five forces, and when each is strong', b: 'Entry threat (low barriers), buyer power (few or large buyers, easy switching), supplier power (few suppliers, specialised inputs), rivalry (many similar rivals, slow growth), substitute threat (easy alternatives). Weak forces mean higher profit potential.' },

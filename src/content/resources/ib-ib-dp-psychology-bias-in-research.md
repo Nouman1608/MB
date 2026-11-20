@@ -1,18 +1,20 @@
 ---
-title: "IB DP Psychology (2019): Bias in Research and How to Avoid It"
+title: "IB DP Psychology: Bias in Research and How to Avoid It"
 resourceType: "study-guides"
 subject: "psychology"
 level: ["ib"]
-topic: "Topic 4: Approaches to researching behaviour"
+topic: "Content -- Research methodology"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: ["DP Psychology (2019) / DP Psychology (2027)"]
-syllabusSeries: "First assessment 2019"
+syllabusCodes: ["DP Psychology (2027)", "DP Psychology (2019) / DP Psychology (2027)"]
+syllabusSeries: "First assessment 2027"
 order: 4.1
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-psychology-approaches-to-researching-behaviour"
-description: "Participant and researcher bias for IB DP Psychology research methods: the main types, how to reduce each, and a worked HL Paper 3 answer on avoiding bias."
+  - qualification: "ib-dp"
+    topic: "ib-dp-psychology-2027-research-methodology"
+description: "Participant and researcher bias for IB DP Psychology research methods: the main types, how to reduce each, and a worked HL Paper 3 answer on avoiding bias (first assessment 2027)."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
@@ -22,7 +24,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide covers **bias**, one of the ideas the IB DP Psychology course (first assessment 2019) uses to judge the quality of research, alongside validity, credibility and generalisation. At HL, the third question on Paper 3 asks you to discuss one of three issues for an unseen study, and one of them is how the researcher could **avoid bias**. The [approaches to researching behaviour study guide](/resources/ib-ib-dp-psychology-approaches-to-researching-behaviour-study-guide/) introduces researcher and participant bias in a sentence each; this page names the main types, explains where each comes from and how each is reduced, and shows how to build a Paper 3 answer. The course described here has its last examination session in November 2026.
+This guide covers **bias**, one of the ideas the IB DP Psychology course (first assessment 2027) uses to judge the quality of research, alongside validity, credibility and transferability. Bias is also one of the six concepts of the course, and the guide lists researcher and participant biases under the research considerations in research methodology. At HL, question 3 of Paper 3 (6 marks) asks you to consider one of three issues for one of the sources, and one of them is how the researcher could **avoid bias**. The [approaches to researching behaviour study guide](/resources/ib-ib-dp-psychology-approaches-to-researching-behaviour-study-guide/) introduces researcher and participant bias in a sentence each; this page names the main types, explains where each comes from and how each is reduced, and shows how to build a Paper 3 answer.
 
 ## What bias means
 
@@ -79,7 +81,7 @@ The study summary below is original, written for this guide.
 > thematic analysis. Three themes emerged: loss of control, pressure from leadership and support from
 > colleagues.
 
-**Question:** Discuss how the researcher in the study could avoid bias. **[9]**
+**Question:** Discuss how the researcher in the study could avoid bias. **[6]**
 
 **Plan and model answer points:**
 
@@ -89,7 +91,7 @@ The study summary below is original, written for this guide.
 4. **Identify bias from sampling.** Teachers who join an online forum and volunteer may hold stronger views than other teachers. *Strategy:* recruit through several schools as well, using purposive sampling to include teachers of different experience. Note that this partly concerns generalisation; tie it back to bias by explaining that a self-selected sample may push the themes in one direction.
 5. **Conclude** with a judgement: the most serious risk is researcher bias, because she alone analysed the data, so researcher triangulation and reflexivity are the most important steps.
 
-Answers in the top band discuss several relevant biases, apply each to the study, propose a realistic strategy and comment on how far the strategy would work.
+Answers in the top band (5 to 6 marks) discuss several relevant biases, apply each to the study with explicit reference to the source, propose a realistic strategy and comment on how far the strategy would work.
 
 ## Common mistakes
 

@@ -1,19 +1,21 @@
 ---
-title: "IB DP Psychology Core: The Biological Approach to Understanding Behaviour"
+title: "IB DP Psychology: The Biological Approach to Understanding Behaviour"
 seoTitle: "IB DP Psychology Biological Approach to Behaviour Guide"
 resourceType: "study-guides"
 subject: "psychology"
 level: ["ib"]
-topic: "Core -- Biological approach to understanding behaviour"
+topic: "Content -- Biological approach to understanding behaviour"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: ["DP Psychology"]
-syllabusSeries: "First assessment 2019"
+syllabusCodes: ["DP Psychology (2027)", "DP Psychology"]
+syllabusSeries: "First assessment 2027"
 order: 2
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-psychology-biological-approach"
-description: "Study guide to the IB DP Psychology biological approach on Paper 1: brain and behaviour, hormones and pheromones, genetics, and HL animal research."
+  - qualification: "ib-dp"
+    topic: "ib-dp-psychology-2027-biological-approach"
+description: "Study guide to the IB DP Psychology biological approach (first assessment 2027): brain imaging, neurotransmission, genetics, neuroplasticity and animal research."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
@@ -23,65 +25,70 @@ publishedDate: 2026-09-06
 featured: false
 ---
 
-> **Course note (legacy syllabus):** This resource describes IB DP
-> Psychology for **first assessment 2019**, now in its final teaching
-> cycle (**last examination session November 2026**). A replacement
-> course (first assessment 2027) reworks the approaches into content
-> areas applied across four contexts, integrated with six named concepts
-> -- a rescoping this file has not undergone. A companion resource for
-> the 2027 course does not yet exist on this site.
-
 This guide covers the **Biological Approach to Understanding
-Behaviour**, one of three compulsory core approaches for IB Diploma
-Programme Psychology, first assessment 2019. The [full syllabus
-guide](/resources/ib-dp-psychology-syllabus-guide/) confirms all three
-core approaches — biological, cognitive, sociocultural — are
-compulsory for every DP Psychology student, tested on Paper 1.
+Behaviour**, one of the three content areas (the biological, cognitive
+and sociocultural approaches) that every IB Diploma Programme Psychology
+student studies at SL and HL, for first assessment 2027. The approaches
+are applied within the four contexts and linked to the six concepts
+(bias, causality, change, measurement, perspective and responsibility).
+Paper 1 section A asks two short-answer questions from two of the three
+content areas, so any of them can be set.
 
 ## Where this fits in the syllabus
 
-The syllabus deliberately revisits shared topics across more than one
-approach: memory, for example, can be examined biologically (through
+The 2027 guide asks students to be aware of the overlaps and
+interactions between the approaches within the contexts, for example
+epigenetic changes that result from environmental factors. Memory, for
+example, can be examined biologically (through
 brain structures such as the hippocampus), cognitively (through
 information-processing models), and socioculturally (through the
 influence of schema and culture on recall). Revising the biological
 approach in complete isolation from the cognitive and sociocultural
-approaches misses this deliberate overlap — for any topic studied
+approaches misses this overlap: for any topic studied
 biologically, check whether it also appears under the other two
 approaches, and be able to compare what each approach adds.
 
 ## Syllabus coverage
 
-**IB DP PSYCHOLOGY — CORE: BIOLOGICAL APPROACH TO UNDERSTANDING
+**IB DP PSYCHOLOGY, CONTENT: BIOLOGICAL APPROACH TO UNDERSTANDING
 BEHAVIOUR**
 
-The IB Psychology guide (first assessment 2019) sets out the
-biological approach as four topics, and this resource is organised
-under the guide's own headings:
+The IB Psychology guide (first assessment 2027) lists the following
+terms for the biological approach, each with a learning objective, and
+students should be able to apply them in the contexts. All of them are
+studied at SL and HL:
 
-- **The relationship between the brain and behaviour** (SL and HL) —
-how brain structures and neural processes contribute to behaviour, for
-example the role of specific brain regions in memory, emotion or
-decision-making, studied using techniques such as brain imaging. This
-resource also revises neurotransmitters here, as the chemical
-messengers that carry signals between neurons.
-- **Hormones and pheromones and their effects on behaviour** (SL and
-HL) — hormones are chemical messengers released by endocrine glands
-into the bloodstream that act on target cells elsewhere in the body;
-pheromones are chemical signals released by one individual that affect
-the behaviour or physiology of another member of the same species.
-- **The relationship between genetics and behaviour** (SL and HL) —
-how inherited factors contribute to behaviour, including twin and
-adoption studies used to separate genetic from environmental influence.
-- **The role of animal research in understanding human behaviour**
-(HL only) — why researchers study animals to understand human
-behaviour, and how far such findings can be applied to humans.
+- **Animal research/animal models**: the value of animal research in the
+study of human behaviour and the ethical considerations in the use of
+animals in research.
+- **Biological reductionism**: the strengths and limitations of a
+reductionist approach to the study of behaviour.
+- **Brain imaging techniques**: the value of using one or more brain
+imaging techniques in investigating human behaviour.
+- **Chemical messengers**: the role of one or more chemical messengers
+in human behaviour.
+- **Diathesis-stress model**: the interaction of environmental factors
+and genetics in human behaviour.
+- **Genetic inheritance**: the extent to which human behaviour may be
+inherited.
+- **Localization of function**: the role of localization of function in
+explaining human behaviour and cognition, and the limitations of the
+argument that behaviour is localized.
+- **Neuroplasticity**: the process of neuroplasticity and the role of
+environmental factors on brain development.
+- **Neurotransmission**: the process of neurotransmission and how an
+understanding of it allows psychologists to improve health and wellness.
 
-The guide also names the contribution of research methods used in the
-biological approach as relevant to all of these topics. Underlying all
-four is the assumption that behaviour and mental processes can be at
-least partly explained by biological structures and processes, without
-the approach claiming to be a complete explanation on its own.
+This guide is organised under four headings that group those terms:
+brain and behaviour (localization of function, neuroplasticity, brain
+imaging and neurotransmission), chemical messengers (neurotransmitters
+and hormones), genetic inheritance (including twin and adoption studies
+and the diathesis-stress model) and animal research. The 2027 guide does
+not name pheromones, so the pheromone material below is an extension to
+the listed content. Underlying all of the terms is the assumption that
+behaviour and mental processes can be at least partly explained by
+biological structures and processes, without the approach claiming to be
+a complete explanation on its own.
 
 ## How to approach it
 
@@ -119,9 +126,9 @@ neurotransmitter as an isolated fact.
 </figure>
 
 
-### Hormones and pheromones and their effects on behaviour
+### Chemical messengers: hormones (and pheromones)
 
-Revise hormones with the same two-part structure: what the hormone does
+Neurotransmitters, covered above, are one kind of chemical messenger; hormones are another. Revise hormones with the same two-part structure: what the hormone does
 in the body, and which behaviour it is proposed to influence. Cortisol,
 for example, is released by the adrenal glands as part of the body's
 response to stress, which makes it a natural starting point for
@@ -164,7 +171,7 @@ from a descriptive one.
 </figure>
 
 
-### The role of animal research in understanding human behaviour (HL only)
+### The role of animal research in understanding human behaviour
 
 Researchers study animals when a procedure would be unethical or
 impractical in humans (for example, directly manipulating brain
@@ -185,21 +192,23 @@ understanding *human* behaviour, not just what it found in animals.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-psychology-biological-approach--06-ibbio-animal-why.webp" width="900" height="890" alt="Three reasons shown with pictures. One: a procedure would be unethical or impractical in humans, for example directly manipulating brain structures, hormone levels or genes. Two: researchers need close control over genes and environment. Three: a short lifespan lets effects be observed across generations." loading="lazy">
-  <figcaption>HL only: animals are studied when procedures would be unethical or impractical in humans, when close control is needed, or when generations can be observed.</figcaption>
+  <figcaption>Animals are studied when procedures would be unethical or impractical in humans, when close control is needed, or when generations can be observed.</figcaption>
 </figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-psychology-biological-approach--07-ibbio-animal-balance.webp" width="900" height="970" alt="A balance with two sides. Value: controlled experiments that human research often cannot do, and neurotransmitter and hormone systems shared across mammals. Limits: species differences mean findings may not generalise to humans, and there are ethical questions about harm to animals. Below, the 3Rs: replacement, reduction and refinement." loading="lazy">
-  <figcaption>HL only: weigh the value and limits of animal research, and use the 3Rs to judge whether it is justified.</figcaption>
+  <figcaption>Weigh the value and limits of animal research, and use the 3Rs to judge whether it is justified.</figcaption>
 </figure>
 
 
 ### Across all the topics
 
-Paper 1's essay question specifically rewards
-evaluation, not just accurate description of what a study found, so
-for every biological study or theory learned, build the habit of
-recording at least one genuine strength and one genuine limitation.
+The command terms in the guide include evaluate
+(make an appraisal by weighing up the strengths and limitations), and
+Paper 1 section C and Paper 2 section B reward critical analysis, not
+just accurate description of what a study found. For every biological
+study or theory learned, build the habit of recording at least one
+genuine strength and one genuine limitation.
 
 ## Worked example: building a two-part biological explanation
 
@@ -233,8 +242,8 @@ behaviour, evaluated): regulating mood; Caspi et al. (2003) found
 The strong version states the mechanism, links it explicitly to the
 named behaviour, cites named evidence, and evaluates that evidence's
 limitations (a gene-environment interaction rather than a simple cause,
-and a contested replication record) — this is the structure Paper
-1's essay question rewards over a single unevaluated fact.
+and a contested replication record), which is the structure that
+the higher markbands reward over a single unevaluated fact.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-psychology-biological-approach--05-ibbio-gene-environment.webp" width="900" height="880" alt="Two inputs combine: a short variant of the 5-HTT gene, which affects serotonin transporter activity, and stressful life events. Together they led to individuals being more likely to develop depression, a gene-environment (diathesis-stress) interaction. A warning says later larger studies and meta-analyses, for example Risch et al. (2009), failed to replicate the finding." loading="lazy">
@@ -244,19 +253,20 @@ and a contested replication record) — this is the structure Paper
 
 ## Connecting to the internal assessment
 
-Approaches to researching behaviour, taught alongside all three core
-approaches, is directly relevant to your own experimental study
-write-up. Many biological-approach studies use experimental or
+Research methodology, studied alongside all three approaches, is
+directly relevant to your internal assessment, a research proposal (marked out of 24)
+in which you choose one of four research methods, justify your methodological
+decisions and explain the ethical considerations. Many biological-approach studies use experimental or
 quasi-experimental designs (as opposed to purely qualitative
 sociocultural research), so understanding how biological psychologists
 justify their experimental designs and address ethical considerations
 -- such as informed consent for physiological measures, or managing
 the invasiveness of a procedure like a brain scan -- is useful
-preparation that pays off directly in your own IA write-up, not just
-in exam answers about published studies. A student who can explain why
-a biological researcher chose a particular experimental control, or
+preparation for justifying the methodology and ethics of your own
+proposal, not just for exam answers about published studies. A student who can explain why
+a biological researcher chose a particular control, or
 how they addressed a specific ethical concern, is demonstrating
-exactly the kind of methodological reasoning the IA rewards.
+exactly the kind of methodological reasoning the proposal rewards.
 
 ## Common mistakes
 
@@ -264,15 +274,14 @@ Naming a neurotransmitter, hormone, brain structure, or genetic study
 design without explaining the specific mechanism or behaviour it is meant to
 explain. Describing a study's finding without evaluating it — stating
 a genuine strength and limitation is expected, not optional, for
-Paper 1's essay question. Treating the biological approach as a
+Paper 1 section C and Paper 2 section B. Treating the biological approach as a
 complete, standalone explanation rather than one of three
-complementary lenses the syllabus expects to be compared against the
-cognitive and sociocultural approaches. Revising twin and adoption
+complementary perspectives (the concept of perspective in the guide). Revising twin and adoption
 studies as facts to recall rather than understanding the logic of why
 each design helps separate genetic from environmental influence.
 Confusing hormones (which act within the body that produced them) with
 pheromones (which act between members of the same species), or
-presenting effects of human pheromones as settled. At HL, describing
+presenting effects of human pheromones as settled. Describing
 an animal study without discussing how far its findings can be
 applied to human behaviour.
 
@@ -280,14 +289,15 @@ applied to human behaviour.
 
 - For each biological study or theory, record at least one named
   strength and one named limitation.
-- Know the guide's four topic headings: brain and behaviour, hormones
-  and pheromones, and genetics and behaviour (SL and HL), plus the role
-  of animal research in understanding human behaviour (HL only).
+- Know the terms the guide lists for the approach: animal research,
+  biological reductionism, brain imaging, chemical messengers,
+  diathesis-stress model, genetic inheritance, localization of function,
+  neuroplasticity and neurotransmission.
 - Practise the two-part explanation structure for neurotransmitters and
   hormones: chemical mechanism, then the specific behaviour it explains.
 - Be able to explain the difference between a hormone and a pheromone,
   and why evidence for human pheromones is contested.
-- HL: prepare an argument on how far animal research contributes to
+- Prepare an argument on how far animal research contributes to
   understanding human behaviour, including generalisation and ethics.
 - Understand why twin and adoption study designs are used, not just
   that they exist.
@@ -295,13 +305,13 @@ applied to human behaviour.
   under the cognitive or sociocultural approach, and prepare a
   comparison.
 - Connect biological-approach research design and ethics (such as
-  informed consent for physiological measures) to your own internal
-  assessment write-up.
+  informed consent for physiological measures) to the methodology and
+  ethics sections of your own internal assessment research proposal.
 
 ## Frequently asked questions
 
-**What are the four topics of the IB Psychology biological approach?**
-The IB Psychology guide (first assessment 2019) lists the relationship between the brain and behaviour, hormones and pheromones, and genetics and behaviour for SL and HL, plus the role of animal research in understanding human behaviour for HL only.
+**What does the IB Psychology guide list for the biological approach?**
+The guide (first assessment 2027) lists nine terms: animal research/animal models, biological reductionism, brain imaging techniques, chemical messengers, the diathesis-stress model, genetic inheritance, localization of function, neuroplasticity and neurotransmission. All are studied at SL and HL.
 
 **Why do researchers use animals to study human behaviour?**
 Animals are used when a procedure would be unethical or impractical in humans, when close control over genes and environment is needed, or when a short lifespan lets effects be seen across generations.
@@ -314,11 +324,4 @@ Twin studies compare concordance in identical and non-identical twins to estimat
 
 ## Official syllabus
 
-International Baccalaureate Organization, *Diploma Programme Subject
-Brief -- Individuals and Societies: Psychology*, first assessment
-2019, © 2018 -- the same source already cited by the [full syllabus
-guide](/resources/ib-dp-psychology-syllabus-guide/), which first
-identified the biological approach as one of the three compulsory core
-approaches. Verified 2026-09-06. The four topic headings above were
-checked against the IB *Psychology guide* (first assessment 2019),
-p. 23, on 2026-09-16.
+International Baccalaureate Organization, *Diploma Programme Psychology guide*, first assessment 2027 (published February 2025), Syllabus content, "Biological approach" and Table 3.1 (pp. 24 to 25), read on 2026-11-20.

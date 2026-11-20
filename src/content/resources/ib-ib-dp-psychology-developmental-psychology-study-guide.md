@@ -1,19 +1,21 @@
 ---
-title: "IB DP Psychology: Option: Developmental psychology -- Study Guide"
+title: "IB DP Psychology: Developmental psychology (human development) -- Study Guide"
 seoTitle: "IB DP Psychology Developmental Psychology Study Guide"
 resourceType: "study-guides"
 subject: "psychology"
 level: ["ib"]
-topic: "Topic 6: Option: Developmental psychology"
+topic: "Context -- Human development"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: ["DP Psychology (2019) / DP Psychology (2027)"]
-syllabusSeries: "First assessment 2019"
+syllabusCodes: ["DP Psychology (2027)", "DP Psychology (2019) / DP Psychology (2027)"]
+syllabusSeries: "First assessment 2027"
 order: 6
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-psychology-developmental-psychology"
-description: "Cognitive and social development, attachment, identity, moral reasoning and learning theories with key studies for the IB DP Psychology developmental option."
+  - qualification: "ib-dp"
+    topic: "ib-dp-psychology-2027-human-development"
+description: "Cognitive and social development, attachment, identity, moral reasoning and learning theories with key studies for the human development context of IB DP Psychology."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
@@ -23,11 +25,11 @@ publishedDate: 2026-11-08
 featured: false
 ---
 
-Developmental psychology studies how people change across the lifespan, with special attention to childhood and adolescence. The option asks how thinking, relationships and identity develop, what influences that development, and how we know. Because children cannot always be studied in the same way as adults, research methods and ethics are an important part of every answer.
+Developmental psychology studies how people change across the lifespan, with special attention to childhood and adolescence. This guide supports the human development context, which asks how thinking, relationships and identity develop, what influences that development, and how we know. Because children cannot always be studied in the same way as adults, research methods and ethics are an important part of every answer.
 
 ## Where this fits in the specification
 
-Developmental psychology is an option within IB Diploma Programme Psychology. It builds on the research methods in the core and on the cognitive and sociocultural approaches. The option deals with cognitive and social development, the development of identity, and the factors that influence how people develop and learn. You assess it with extended-response questions that expect theory, research and critical thinking. Check the current guide for the exact headings and content required.
+Human development is one of the four contexts of IB Diploma Programme Psychology (first assessment 2027), studied at SL and HL, and its class practical is an observation. The guide lists areas of study under two headings. Models of development covers cognitive, social, moral or language development, brain development, sociocultural factors, stage theories and continuous models, and theory of mind. Development of self covers attachment, enculturation of social norms, peer influence and the role of childhood experiences. This guide covers Piaget, Vygotsky, attachment, social learning, Kohlberg, identity (Erikson and Marcia) and influences on development and learning; brain development, theory of mind and enculturation are not covered in detail here. Paper 1 section B asks you to apply content to an unseen situation in one of the four contexts, and section C is a concept-based extended response set from a context.
 
 ## Cognitive development
 

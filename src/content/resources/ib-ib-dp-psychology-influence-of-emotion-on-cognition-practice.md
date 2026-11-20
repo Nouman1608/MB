@@ -1,18 +1,20 @@
 ---
-title: "IB DP Psychology (2019): The Influence of Emotion on Cognitive Processes -- Practice Questions"
+title: "IB DP Psychology: The Influence of Emotion on Cognitive Processes -- Practice Questions"
 resourceType: "practice-questions"
 subject: "psychology"
 level: ["ib"]
-topic: "Core -- Cognitive approach to understanding behaviour"
+topic: "Context: Learning and cognition"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: ["DP Psychology (2019) / DP Psychology (2027)"]
-syllabusSeries: "First assessment 2019"
+syllabusCodes: ["DP Psychology (2027)", "DP Psychology (2019) / DP Psychology (2027)"]
+syllabusSeries: "First assessment 2027"
 order: 2.1
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-psychology-cognitive-approach"
-description: "Original IB DP Psychology practice on emotion and cognition: flashbulb memory, weapon focus, an invented study to analyse, a 9-mark answer and an essay plan."
+  - qualification: "ib-dp"
+    topic: "ib-dp-psychology-2027-learning-and-cognition"
+description: "Original IB DP Psychology practice on emotion and cognition: flashbulb memory, weapon focus, an invented study to analyse, a 4-mark answer and a 15-mark essay plan."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
@@ -22,10 +24,10 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-> **These are original questions written for Marlbridge** on the cognitive approach topic "emotion and
-> cognition" (IB DP Psychology, first assessment 2019). They are not past-paper questions. Questions 11
-> and 12 use the Paper 1 tariffs of 9 and 22 marks; the rest use practice tariffs. The study in
-> Question 8 is invented for practice.
+> **These are original questions written for Marlbridge** on the influence of emotion on cognitive
+> processes (IB DP Psychology, first assessment 2027). They are not past-paper questions. Questions 11
+> and 12 use the Paper 1 tariffs of 4 marks (Section A) and 15 marks (Section C); the rest use practice
+> tariffs. The study in Question 8 is invented for practice.
 
 Related: [Emotion and cognition study guide](/resources/ib-ib-dp-psychology-influence-of-emotion-on-cognition/),
 [revision notes](/resources/ib-ib-dp-psychology-influence-of-emotion-on-cognition-revision-notes/) and the
@@ -58,9 +60,9 @@ Related: [Emotion and cognition study guide](/resources/ib-ib-dp-psychology-infl
 
 **10.** Outline how Sharot et al. (2007) could be used to support Brown and Kulik's flashbulb memory theory, and give one reason for caution. **[4]**
 
-**11.** Explain one study investigating the influence of emotion on one cognitive process. **[9]**
+**11.** Explain how emotion can influence one cognitive process, and give an example. **[4]**
 
-**12.** Evaluate one theory of how emotion may affect one cognitive process. **[22]**
+**12.** Evaluate one theory of how emotion may affect one cognitive process, with reference to the concept of measurement. **[15]**
 
 ## Answers
 
@@ -86,23 +88,20 @@ Related: [Emotion and cognition study guide](/resources/ib-ib-dp-psychology-infl
 
 **10.** Support: people close to the World Trade Center showed greater amygdala activation when recalling 9/11, which suggests a biological basis for a special, emotion-driven memory process **[2]**. Caution: the study measured brain activity and vividness during recall, not the accuracy of the memories, so it cannot show that flashbulb memories are more accurate **[2]**.
 
-**11.** Up to nine marks for knowledge and understanding and use of research:
-- names the process and the study, for example memory and Neisser and Harsch (1992) **[1]**;
-- defines flashbulb memory and the claim being tested **[1]**;
-- aim: to test whether flashbulb memories are accurate **[1]**;
-- procedure: questionnaire the morning after the *Challenger* explosion, repeated about two and a half years later with confidence ratings **[2]**;
-- findings: many later accounts differed from the originals while confidence remained high **[2]**;
-- explanation: memories are reconstructed through rehearsal and retelling **[1]**;
-- link back: emotion influenced confidence rather than accuracy **[1]**.
+**11.** Marked with the Paper 1 Section A rubric (4 marks): 1 to 2 marks for limited knowledge with an example that is relevant but not explained; 3 to 4 marks for detailed knowledge with an example that is relevant and explained. Credit:
+- names the process and defines the influence, for example emotion makes a memory feel vivid and certain without making it more accurate **[1]**;
+- explains how: arousal and the amygdala strengthen the memory trace, and rehearsal and retelling keep it vivid **[1]**;
+- gives a relevant example, for example Neisser and Harsch (1992): a questionnaire the morning after the *Challenger* explosion was repeated about two and a half years later, and many accounts changed while confidence stayed high **[1]**;
+- explains how the example shows the influence: emotion influenced confidence rather than accuracy **[1]**.
 
-Loftus, Loftus and Messo (1987) on attention, or Talarico and Rubin (2003) on memory, is equally creditable. Evaluation is not required in a short answer, so a paragraph of criticism earns no extra marks.
+Loftus, Loftus and Messo (1987) on attention, or Talarico and Rubin (2003) on memory, is equally creditable. Details of studies are not assessed. Evaluation is not required, so a paragraph of criticism earns no extra marks.
 
-**12.** Marked with the Paper 1 essay criteria:
-- **A Focus:** identifies flashbulb memory theory and the claim that emotional events are recorded more accurately by a special mechanism **[2]**.
-- **B Knowledge and understanding:** surprise and consequentiality; "Now Print!"; canonical categories; the difference between vividness and accuracy **[6]**.
-- **C Use of research:** Brown and Kulik (1977) and Sharot et al. (2007) for the theory; Neisser and Harsch (1992) and Talarico and Rubin (2003) against it **[6]**.
-- **D Critical thinking:** retrospective versus test-retest designs; the value of an everyday-memory control; single-university samples; rehearsal and media coverage as an alternative explanation; a conclusion that emotion affects confidence more than accuracy **[6]**.
-- **E Clarity and organisation:** a planned argument with a clear conclusion **[2]**.
+**12.** Marked with the Paper 1 Section C markbands (15 marks). The top band, 13 to 15 marks, needs the demands of the question addressed; relevant knowledge and understanding fully explained; well-developed critical analysis; links to the concept of measurement included throughout and fully explained; a reasoned, clearly stated conclusion; and accurate, precise terminology. Content that can be credited:
+- **Knowledge:** flashbulb memory theory and the claim that emotional events are recorded more accurately by a special mechanism; surprise and consequentiality; "Now Print!"; canonical categories; the difference between vividness and accuracy.
+- **Research as evidence:** Brown and Kulik (1977) and Sharot et al. (2007) for the theory; Neisser and Harsch (1992) and Talarico and Rubin (2003) against it. Details of studies are not assessed.
+- **Critical analysis:** retrospective versus test-retest designs; the value of an everyday-memory control; single-university samples; rehearsal and media coverage as an alternative explanation.
+- **Measurement:** accuracy (consistency with a first record), vividness and confidence are different measures, and the studies measure different ones.
+- **Conclusion:** emotion affects confidence more than accuracy.
 
 ## Where marks are usually lost
 

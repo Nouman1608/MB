@@ -125,5 +125,16 @@ export const DECK_OXFORDAQA_A_LEVEL_ENGLISH_LITERATURE: FlashcardDeck = {
       { n: 5, f: 'How should context be used in a representation essay?', b: 'Show how attitudes of the time (to class, gender, race, empire or religion) shape or are challenged by a feature of the text, using only facts you are sure of.' },
       { n: 6, f: 'What does it mean when a character is given no direct speech?', b: 'They are represented only through others\' words, which can silence them and shows whose perspective the text privileges.' },
     ]),
+    ...sub('unit-4-literary-representations-9675', 'unit-4b-non-exam-assessment-9675', '4b', [
+      { n: 1, f: 'Unit 4b non-exam assessment: what do you submit?', b: 'Two essays of 1,250 to 1,500 words each, one on a poetry text and one on a prose text, written as separate responses. It is teacher assessed and externally moderated.' },
+      { n: 2, f: 'Marks and weighting of Unit 4b', b: '25 marks per essay, 50 in total, worth 30% of the International A-level. A student takes either this route or the Unit 4a exam, and 4b is for the International A-level only.' },
+      { n: 3, f: 'Rules for choosing the poetry and prose texts in 4b', b: 'Poetry: a single author. Short stories: a single author. Each text must link to a different area. No text from any AS or A-level exam set text list. Translations are allowed.' },
+      { n: 4, f: 'The four areas for Unit 4b texts', b: 'Childhood; war; women and men; race, class and culture. They are not prescribed topics, and you are not expected to use extensive contextual knowledge or wider reading.' },
+      { n: 5, f: 'What makes a good 4b task title?', b: 'It states a view that can be argued with or against, names the writer and the aspect of the representation, and ends by inviting a judgement, such as \'say how far you agree\'.' },
+      { n: 6, f: 'Paragraph pattern and word plan for a 4b essay', b: 'Claim, evidence, method and effect, context, alternative reading, link to the task. Plan about 120 words for the introduction, four sections of about 290 and a 120-word conclusion.' },
+      { n: 7, f: 'Mark bands for a 4b essay out of 25', b: 'Band 5 (21 to 25): perceptive, assured. Band 4 (16 to 20): coherent, thorough. Band 3 (11 to 15): straightforward, relevant. Band 2 (6 to 10): simple, generalised. Band 1 (1 to 5): largely irrelevant or inaccurate.' },
+      { n: 8, f: 'How do you move from Band 3 to Band 4 in a 4b essay?', b: 'Add a logical argument across the whole essay, thorough explanations and precise expression. To reach Band 5, add sensitivity to the texts and interpretations that connect context, genre and methods.' },
+      { n: 9, f: 'Common traps in Unit 4b', b: 'Using a set text from an exam list, linking both texts to the same area, using more than one author in a text, a title with no view to argue, a word count outside 1,250 to 1,500, and offering only one reading.' },
+    ]),
   ],
 };

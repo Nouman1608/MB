@@ -1,18 +1,20 @@
 ---
-title: "IB DP Psychology (2019): The Influence of Globalisation on Attitudes, Identities and Behaviour -- Practice Questions"
+title: "IB DP Psychology: The Influence of Globalisation on Attitudes, Identities and Behaviour -- Practice Questions"
 resourceType: "practice-questions"
 subject: "psychology"
 level: ["ib"]
-topic: "Topic 3: Sociocultural approach to understanding behaviour"
+topic: "HL extension: Culture"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: ["DP Psychology (2019) / DP Psychology (2027)"]
-syllabusSeries: "First assessment 2019"
+syllabusCodes: ["DP Psychology (2027)", "DP Psychology (2019) / DP Psychology (2027)"]
+syllabusSeries: "First assessment 2027"
 order: 3.1
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-psychology-sociocultural-approach"
-description: "Original HL practice on globalisation for IB DP Psychology: definitions, identity, the Fiji study, an invented survey to analyse and a 22-mark essay plan."
+  - qualification: "ib-dp"
+    topic: "ib-dp-psychology-2027-hl-extension-culture"
+description: "Original HL practice on globalisation for IB DP Psychology: definitions, identity, the Fiji study, an invented survey to analyse and a 15-mark discussion plan."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
@@ -22,14 +24,14 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-> **These are original questions written for Marlbridge** on the HL extension "the influence of
-> globalization on individual attitudes, identities and behaviour" (IB DP Psychology, first assessment
-> 2019). They are not past-paper questions. Question 13 uses the 22-mark essay tariff; the others use
-> practice tariffs. The survey in Question 9 is invented for practice.
+> **These are original questions written for Marlbridge** on globalisation within the HL extension
+> Culture (IB DP Psychology, first assessment 2027). They are not past-paper questions. Question 13
+> uses the 15-mark tariff of Paper 3 Question 4 (a claim to discuss), without a source booklet; the
+> others use practice tariffs. The survey in Question 9 is invented for practice.
 
 Related: [Globalisation study guide](/resources/ib-ib-dp-psychology-influence-of-globalisation/),
 [revision notes](/resources/ib-ib-dp-psychology-influence-of-globalisation-revision-notes/) and the
-[sociocultural approach practice questions](/resources/ib-ib-dp-psychology-sociocultural-approach-practice/).
+[sociocultural approach study guide](/resources/ib-ib-dp-psychology-sociocultural-approach-study-guide/).
 
 ## Section A
 
@@ -62,7 +64,7 @@ Related: [Globalisation study guide](/resources/ib-ib-dp-psychology-influence-of
 
 **12.** Explain why a researcher studying the effects of globalisation in a community should consider an emic approach. **[3]**
 
-**13.** Discuss the influence of globalisation on individual attitudes, identities and behaviour. **[22]**
+**13.** "Globalisation changes individual attitudes, identities and behaviour." Discuss the validity of this claim. **[15]**
 
 ## Answers
 
@@ -92,12 +94,12 @@ Related: [Globalisation study guide](/resources/ib-ib-dp-psychology-influence-of
 
 **12.** An emic approach studies a culture from within, using concepts that are meaningful to its members **[1]**. Changes that an outside researcher labels as "Westernisation" or as harmful may have different meanings locally, for example a new style of dress or eating **[1]**. Interviews or measures developed with local people would make the findings more credible and reduce researcher bias **[1]**.
 
-**13.** Marked with the essay criteria:
-- **A Focus:** defines globalisation and states that its influence varies across attitudes, identities and behaviour **[2]**.
-- **B Knowledge and understanding:** bicultural identity, identity confusion and globalisation-based acculturation, with links to social identity and social cognitive theory **[6]**.
-- **C Use of research:** two or three of Arnett (2002), Chen, Benet-Martínez and Bond (2008), Becker et al. (2002) and Buchan et al. (2009), explained and linked **[6]**.
-- **D Critical thinking:** confounding variables in natural experiments; correlational data; etic measures; problems defining globalisation; a balance of harmful and positive effects; a conclusion about how far the influence is shown **[6]**.
-- **E Clarity and organisation:** a planned argument that returns to the question **[2]**.
+**13.** Marked in the style of the Paper 3 Question 4 markband (15 marks). The top band, 13 to 15 marks, needs the demands of the question understood and addressed; detailed, well-developed knowledge relevant to the claim; detailed discussion of the extent to which the claim is valid; well-developed critical analysis; different points of view identified and evaluated; and a reasoned, clearly stated conclusion consistent with the arguments. In the examination the sources are supplied and at least three must be interpreted; here your own knowledge of the research stands in for them. Content that can be credited:
+- **Knowledge:** bicultural identity, identity confusion and globalisation-based acculturation, with links to social identity and social cognitive theory.
+- **Research as evidence:** two or three of Arnett (2002), Chen, Benet-Martínez and Bond (2008), Becker et al. (2002) and Buchan et al. (2009), explained and linked to the claim.
+- **Critical analysis:** confounding variables in natural experiments; correlational data; etic measures; problems defining globalisation.
+- **Different points of view:** harmful effects (Becker et al.) set against positive or neutral ones (Buchan et al.; integrated bicultural identities).
+- **Conclusion:** a judgement about how far the claim is valid, for example valid for some behaviours and groups but oversimplified as a general claim.
 
 ## Where marks are usually lost
 
@@ -105,4 +107,4 @@ Related: [Globalisation study guide](/resources/ib-ib-dp-psychology-influence-of
 - **Question 7:** naming social cognitive theory without its processes.
 - **Question 9(b):** writing "correlation is not causation" without an alternative explanation.
 - **Question 12:** defining emic without applying it to globalisation research.
-- **Question 13:** spending most of the essay on Berry's core model rather than globalisation research.
+- **Question 13:** spending most of the answer on Berry's model rather than globalisation research.

@@ -7477,7 +7477,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
 {
     boardSlug: 'ib', qualificationSlug: 'ib-dp', subjectSlug: 'world-history',
     syllabusCode: 'DP History', syllabusSeries: 'First assessment 2017',
-    effectiveFrom: '2017', effectiveTo: '2027', status: 'current',
+    effectiveFrom: '2017', effectiveTo: '2027', status: 'superseded',
     tiered: false,
     source: 'International Baccalaureate Organization, Diploma Programme Subject Brief -- Individuals and societies: History, higher level, first assessments 2017 (republished 2020); cross-verified against the "Syllabus outline" table on the official ibo.org "History in the DP" curriculum page (last updated 19 February 2026) and the full History guide, first examinations 2017 (International Baccalaureate Organization, published January 2015)',
     sourceUrl: 'https://www.ibo.org/globalassets/new-structure/programmes/dp/pdfs/history-hl-2020-eng.pdf',
@@ -7517,7 +7517,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
 {
     boardSlug: 'ib', qualificationSlug: 'ib-dp', subjectSlug: 'world-history',
     syllabusCode: 'DP History (2028)', syllabusSeries: 'First assessment 2028',
-    effectiveFrom: '2028', effectiveTo: 'current', status: 'future',
+    effectiveFrom: '2028', effectiveTo: 'current', status: 'current',
     tiered: false,
     source: 'International Baccalaureate Organization, Diploma Programme History guide, first assessment 2028 (published February 2026)',
     sourceUrl: 'https://www.ibo.org/en/programmes/diploma-programme/curriculum/individuals-and-societies/history/',
@@ -7856,7 +7856,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
 {
     boardSlug: 'ib', qualificationSlug: 'ib-dp', subjectSlug: 'psychology',
     syllabusCode: 'DP Psychology (2019) / DP Psychology (2027)', syllabusSeries: 'First assessment 2019',
-    effectiveFrom: '2019', effectiveTo: '2026', status: 'current',
+    effectiveFrom: '2019', effectiveTo: '2026', status: 'superseded',
     tiered: false,
     source: 'International Baccalaureate Organization, Diploma Programme, Individuals and societies: Psychology subject brief (SL/HL), first assessment 2019',
     sourceUrl: 'https://www.ibo.org/contentassets/5895a05412144fe890312bad52b17044/psychology-sl-hl-2019-en.pdf',
@@ -7876,7 +7876,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
 {
     boardSlug: 'ib', qualificationSlug: 'ib-dp', subjectSlug: 'psychology',
     syllabusCode: 'DP Psychology (2027)', syllabusSeries: 'First assessment 2027',
-    effectiveFrom: '2027', effectiveTo: 'current', status: 'future',
+    effectiveFrom: '2027', effectiveTo: 'current', status: 'current',
     tiered: false,
     source: 'International Baccalaureate Organization, Diploma Programme Psychology guide, first assessment 2027 (published February 2025)',
     sourceUrl: 'https://www.ibo.org/en/programmes/diploma-programme/curriculum/individuals-and-societies/psychology/',

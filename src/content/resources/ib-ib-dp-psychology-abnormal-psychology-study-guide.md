@@ -14,10 +14,8 @@ syllabusTopics:
     topic: "ib-dp-psychology-abnormal-psychology"
 description: "Normality, diagnosis and classification, explanations of disorders and treatment approaches for the IB DP Psychology abnormal psychology option."
 author: "marlbridge-academic-team"
-reviewer: "kanwal-aslam"
-reviewStatus: "reviewed"
-reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Check the current guide for the required disorders, the exact breakdown of the three topics and the studies expected for this option."
+reviewStatus: "archived"
+reviewNote: "2026-11-20: archived: it teaches the 2019 Abnormal psychology option (concepts of normality, classification and diagnosis, aetiology and treatment, examined in 22-mark Paper 2 essays), and the 2027 course has no options and does not include the diagnosis and classification content."
 publishedDate: 2026-11-08
 featured: false
 ---

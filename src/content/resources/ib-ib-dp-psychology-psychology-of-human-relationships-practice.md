@@ -15,10 +15,8 @@ syllabusTopics:
     topic: "ib-dp-psychology-psychology-of-human-relationships"
 description: "Original IB DP Psychology Paper 2 essays on human relationships: formation, communication, conflict, prejudice and bystanderism, with ERQ criteria and plans."
 author: "marlbridge-academic-team"
-reviewer: "kanwal-aslam"
-reviewStatus: "reviewed"
-reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Check model plans against the IB Psychology guide (first assessment 2019) and a recent Paper 2 markscheme before teacher sign-off."
+reviewStatus: "archived"
+reviewNote: "2026-11-20: archived: it is a set of nine 2019 Paper 2 option essays, each 22 marks, on the psychology of human relationships option (including bystanderism, prosocial behaviour, cooperation and competition, prejudice and conflict resolution), and the 2027 course has no options and no 22-mark essays."
 publishedDate: 2026-11-08
 featured: false
 ---

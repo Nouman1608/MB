@@ -1,17 +1,19 @@
 ---
-title: "IB DP Psychology (2019): Hormones and Pheromones and Their Effects on Behaviour -- Revision Notes"
+title: "IB DP Psychology: Hormones and Pheromones and Their Effects on Behaviour -- Revision Notes"
 resourceType: "revision-notes"
 subject: "psychology"
 level: ["ib"]
-topic: "Core -- Biological approach to understanding behaviour"
+topic: "Content: Biological approach"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: ["DP Psychology (2019) / DP Psychology (2027)"]
-syllabusSeries: "First assessment 2019"
+syllabusCodes: ["DP Psychology (2027)", "DP Psychology (2019) / DP Psychology (2027)"]
+syllabusSeries: "First assessment 2027"
 order: 1.1
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-psychology-biological-approach"
+  - qualification: "ib-dp"
+    topic: "ib-dp-psychology-2027-biological-approach"
 description: "Condensed IB DP Psychology notes on hormones and pheromones: cortisol, oxytocin, key studies, the human pheromone debate, exam traps and a self-test."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
@@ -22,7 +24,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-These notes cover **"hormones and pheromones and their effects on behaviour"**, a topic of the biological approach for SL and HL in IB DP Psychology (first assessment 2019). For the approach as a whole, use the [biological approach revision notes](/resources/ib-dp-psychology-biological-approach-revision-notes/); for the full explanations and a worked short answer, see the [hormones and pheromones study guide](/resources/ib-ib-dp-psychology-hormones-and-pheromones/).
+These notes cover **hormones and pheromones**, which fit the **chemical messengers** term of the biological approach in IB DP Psychology (first assessment 2027). The 2027 guide asks for the role of one or more chemical messengers in human behaviour; it does not name pheromones, so treat the pheromone material as extension. The 2019 course listed hormones and pheromones as a topic; its last examination session was November 2026. For the approach as a whole, use the [biological approach revision notes](/resources/ib-dp-psychology-biological-approach-revision-notes/); for the full explanations and a worked Section A answer, see the [hormones and pheromones study guide](/resources/ib-ib-dp-psychology-hormones-and-pheromones/).
 
 ## Recall in one minute
 
@@ -80,8 +82,8 @@ These notes cover **"hormones and pheromones and their effects on behaviour"**, 
 
 | Paper 1 task | What to do |
 |---|---|
-| 9-mark short answer, for example "explain one study..." | mechanism, one study described accurately, a final sentence linking the study to the question; no evaluation needed |
-| 22-mark essay, for example "evaluate research on..." | two studies, methodological strengths and limitations, a reasoned judgement |
+| Section A (two short-answer questions, 8 marks in all), for example "explain the role of one chemical messenger in human behaviour and give an example" | mechanism, one example explained, a final sentence linking the example to the question; no evaluation needed; study details are not assessed |
+| Section C (one concept-based extended response, 15 marks), for example "evaluate the role of chemical messengers in human behaviour, with reference to causality" | relevant research as evidence, strengths and limitations, links to the concept, a reasoned judgement |
 
 ## Exam traps
 
@@ -89,7 +91,7 @@ These notes cover **"hormones and pheromones and their effects on behaviour"**, 
 - **Wrong direction of evidence.** Newcomer shows high cortisol *impairs* memory; do not say it improves it.
 - **Leaving out the control game.** It is what shows Kosfeld's effect was about trusting people, not taking risks.
 - **"Humans have pheromones."** Say the evidence is suggestive but contested.
-- **Evaluating in a short answer.** It wastes time that the essay needs.
+- **Evaluating in Section A.** It wastes time that Section C needs.
 - **Invented details.** If you cannot remember a sample size, leave it out.
 
 ## Self-test
@@ -105,7 +107,7 @@ These notes cover **"hormones and pheromones and their effects on behaviour"**, 
 9. What is the difference between a releaser and a primer pheromone?
 10. What did Wedekind et al. (1995) find, and what changed the pattern?
 11. Give one reason the existence of human pheromones is disputed.
-12. Which Paper 1 task does not require evaluation?
+12. Which Paper 1 section asks for an explained example but not evaluation?
 
 **Answers**
 
@@ -120,7 +122,7 @@ These notes cover **"hormones and pheromones and their effects on behaviour"**, 
 9. A releaser pheromone triggers an immediate behaviour; a primer pheromone causes a slower physiological change.
 10. Women preferred the odour of men with MHC genes unlike their own; the preference was reversed in women taking oral contraceptives.
 11. For example: no human pheromone has been chemically identified (Wyatt, 2015); candidate chemicals failed in tests such as Hare et al. (2017); synchrony findings were not replicated; expectations and learning are hard to rule out.
-12. The 9-mark short answer question.
+12. Section A, the short-answer questions.
 
 ## Related pages
 

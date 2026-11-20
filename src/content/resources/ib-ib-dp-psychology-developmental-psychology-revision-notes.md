@@ -1,19 +1,21 @@
 ---
-title: "IB DP Psychology: Option: Developmental psychology -- Revision Notes"
+title: "IB DP Psychology: Developmental psychology (human development) -- Revision Notes"
 seoTitle: "IB DP Psychology Developmental Psychology Revision Notes"
 resourceType: "revision-notes"
 subject: "psychology"
 level: ["ib"]
-topic: "Topic 6: Option: Developmental psychology"
+topic: "Context -- Human development"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: ["DP Psychology (2019) / DP Psychology (2027)"]
-syllabusSeries: "First assessment 2019"
+syllabusCodes: ["DP Psychology (2027)", "DP Psychology (2019) / DP Psychology (2027)"]
+syllabusSeries: "First assessment 2027"
 order: 6
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-psychology-developmental-psychology"
-description: "IB DP Psychology developmental option revision notes: peers and play, trauma and resilience, poverty, brain and cognitive development, attachment and identity."
+  - qualification: "ib-dp"
+    topic: "ib-dp-psychology-2027-human-development"
+description: "IB DP Psychology human development revision notes: peers and play, trauma and resilience, poverty, brain and cognitive development, attachment and identity."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
@@ -23,21 +25,22 @@ publishedDate: 2026-11-08
 featured: false
 ---
 
-> **Course note:** these notes follow IB DP Psychology for **first assessment 2019**, whose last
-> examination session is November 2026. The replacement course is first assessed in May 2027.
+Developmental psychology is the study of how and why people's behaviour and cognition change over time, and it forms the human development context of IB DP Psychology (first assessment 2027), studied at SL and HL. These notes cover what influences children's cognitive and social development and how they form a sense of self -- through attachment, the role of childhood experiences, peers and play, and the development of theory of mind -- drawing on biological, cognitive and sociocultural research.
 
-Developmental psychology is one of the four IB DP Psychology options, examined on Paper 2 through 22-mark essays. It asks what influences children's cognitive and social development, how children develop as learners, and how they form an identity -- through attachment, gender identity and social roles, and the development of empathy and theory of mind -- drawing on biological, cognitive and sociocultural research.
+Related: [Developmental psychology study guide](/resources/ib-ib-dp-psychology-developmental-psychology-study-guide/).
 
-Related: [Developmental psychology study guide](/resources/ib-ib-dp-psychology-developmental-psychology-study-guide/) and
-[practice questions](/resources/ib-ib-dp-psychology-developmental-psychology-practice/).
+## Syllabus coverage (first assessment 2027)
 
-## Syllabus coverage (first assessment 2019)
-
-| Topic | Content |
+| Area of study in the 2027 guide | Where these notes cover it |
 |---|---|
-| Influences on cognitive and social development | Role of peers and play; childhood trauma and resilience; poverty and socio-economic status |
-| Developing as a learner | Brain development; cognitive development |
-| Developing an identity | Attachment; gender identity and social roles; development of empathy and theory of mind |
+| Models of development; stage theories and continuous models | Piaget's stages; Vygotsky |
+| Brain development | Brain development (Chugani; Gogtay et al.) |
+| Sociocultural factors in development | Vygotsky; poverty and socio-economic status |
+| Theory of mind | False-belief tasks (Wimmer and Perner; Baron-Cohen et al.) |
+| Development of self: attachment; role of childhood experiences; peer influence | Attachment (Bowlby, Ainsworth, Harlow); trauma and resilience; peers and play |
+| Not named in the guide | Gender identity and social roles (Smith and Lloyd; gender schema theory), kept as an extension |
+
+Enculturation of social norms and critical periods as an explanation of development are named in the guide but not covered in detail in these notes.
 
 ## Key theories
 
@@ -86,7 +89,7 @@ Related: [Developmental psychology study guide](/resources/ib-ib-dp-psychology-d
 
 ## Worked example: linking a study to resilience
 
-**Question:** Explain one study of resilience. **[part of a 22-mark essay]**
+**Question:** Explain one study of resilience.
 
 1. **Define resilience:** positive adaptation despite significant adversity.
 2. **Study:** Werner and Smith followed all children born on the Hawaiian island of Kauai in 1955. Around 30% faced several risk factors such as poverty, family discord or parental mental illness.
@@ -100,17 +103,17 @@ Related: [Developmental psychology study guide](/resources/ib-ib-dp-psychology-d
 - **Treating attachment types as fixed.** Research shows they can change with circumstances.
 - **Using Harlow without ethical evaluation.** Animal research raises ethical issues and questions of generalisation to humans.
 - **Equating poverty with neglect.** Explain mechanisms such as stress, nutrition and language exposure.
-- **"Gender identity" essays that ignore social roles.** The content point includes both.
+
 
 ## Frequently asked questions
 
-**How is the developmental option examined?**
-On Paper 2: three 22-mark ERQs per option; you answer one at SL, or one from each of two options at HL.
+**How is human development examined?**
+On Paper 1 section B you apply content to an unseen situation set in one of the four contexts, and section C is a concept-based extended response set from a context. Paper 2 section A asks four compulsory questions on the class practicals (for this context, an observation).
 
 **Which theories are essential?**
-Piaget and Vygotsky for cognitive development, Bowlby and Ainsworth for attachment, and at least one explanation of gender identity and of theory of mind.
+The guide does not prescribe particular theories. Useful ones are Piaget and Vygotsky for models of development, Bowlby and Ainsworth for attachment, and at least one account of theory of mind.
 
-**Can I use studies from the core?**
+**Can I use studies from the other content areas?**
 Yes, if they are relevant -- for example Bandura's social cognitive theory for gender roles -- but link them to development.
 
 ## Self-test

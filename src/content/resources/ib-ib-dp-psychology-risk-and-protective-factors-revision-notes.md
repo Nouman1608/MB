@@ -1,18 +1,20 @@
 ---
-title: "IB DP Psychology (2019): Risk and Protective Factors in Health -- Revision Notes"
+title: "IB DP Psychology: Risk and Protective Factors in Health -- Revision Notes"
 resourceType: "revision-notes"
 subject: "psychology"
 level: ["ib"]
-topic: "Topic 7: Option: Health psychology"
+topic: "Context: Health and well-being"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: ["DP Psychology (2019) / DP Psychology (2027)"]
-syllabusSeries: "First assessment 2019"
+syllabusCodes: ["DP Psychology (2027)", "DP Psychology (2019) / DP Psychology (2027)"]
+syllabusSeries: "First assessment 2027"
 order: 7.1
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-psychology-health-psychology"
-description: "Condensed IB DP health psychology notes on risk and protective factors: pathways, the ACE study, stress and colds, social ties, buffering and a self-test."
+  - qualification: "ib-dp"
+    topic: "ib-dp-psychology-2027-health-and-well-being"
+description: "Condensed IB DP Psychology notes on risk and protective factors in health: pathways, the ACE study, stress and colds, social ties, buffering and a self-test."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
@@ -22,7 +24,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-These notes cover **"risk and protective factors"**, a content point in the "determinants of health" topic of the health psychology option (IB DP Psychology, first assessment 2019). The rest of the option is in the [health psychology revision notes](/resources/ib-ib-dp-psychology-health-psychology-revision-notes/); full study descriptions and an essay plan are in the [risk and protective factors study guide](/resources/ib-ib-dp-psychology-risk-and-protective-factors/).
+These notes cover **risk and protective factors in health** for the Health and well-being context (IB DP Psychology, first assessment 2027). The 2027 guide does not list risk and protective factors as an area of study; the research here is evidence for the role of stress in health problems, the role of environmental factors in mental health disorders, and differences in the prevalence of health problems. The 2019 health psychology option listed risk and protective factors as a content point; its last examination session was November 2026. The wider context is in the [health psychology study guide](/resources/ib-ib-dp-psychology-health-psychology-study-guide/); full study descriptions and a response plan are in the [risk and protective factors study guide](/resources/ib-ib-dp-psychology-risk-and-protective-factors/).
 
 ## Recall in one minute
 
@@ -118,4 +120,4 @@ These notes cover **"risk and protective factors"**, a content point in the "det
 ## Related pages
 
 - [Risk and protective factors: practice questions](/resources/ib-ib-dp-psychology-risk-and-protective-factors-practice/)
-- [Health psychology practice questions](/resources/ib-ib-dp-psychology-health-psychology-practice/)
+- [Health and well-being study guide](/resources/ib-ib-dp-psychology-health-psychology-study-guide/)

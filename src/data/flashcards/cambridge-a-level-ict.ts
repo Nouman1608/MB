@@ -59,6 +59,14 @@ const MM = R('mail-merge');
 const GC = R('graphics-creation');
 const ANI = R('animation');
 const WEB = R('programming-for-the-web');
+const P9626 = (t: string) => `cambridge-a-level-ict-9626-${t}-revision-notes`;
+const GAC = P9626('graphs-and-charts');
+const CLOUD = P9626('cloud-computing');
+const PROT = P9626('network-protocols');
+const WIRE = P9626('wireless-technology');
+const NSEC = P9626('network-security');
+const DEVT = P9626('development-testing');
+const DOCS = P9626('documentation');
 
 export const DECK_CAMBRIDGE_A_LEVEL_ICT: FlashcardDeck = {
   boardSlug: 'cambridge',
@@ -251,6 +259,16 @@ export const DECK_CAMBRIDGE_A_LEVEL_ICT: FlashcardDeck = {
       { n: 1, f: 'Pivot table vs subtotals', b: 'A pivot table builds a separate summary and needs no sorting. Subtotals insert totals into the list itself and need the data sorted by the grouping field first.' },
     ]),
 
+    // 8.4 Graphs and charts
+    ...sub('spreadsheets', 'graphs-and-charts', '8.4', [
+      { n: 1, f: 'Which chart suits change over time, the share of a whole and a comparison of categories?', b: 'Line graph for change over time or a trend. Pie chart for the share of a whole. Bar (column) chart to compare values for different categories; a comparative bar chart for several series per category.', src: GAC },
+      { n: 2, f: 'How do you select two separate blocks of data for a chart?', b: 'Select the first range, hold Ctrl, then select the second. Include the headings so they become series names and category labels rather than being plotted as data.', src: GAC },
+      { n: 3, f: 'When do you use a combination chart with a secondary axis?', b: 'When two series have different units or very different sizes. For example, rainfall (mm) as columns and temperature (°C) as a line on a secondary value axis.', src: GAC },
+      { n: 4, f: 'How do you work out a pie sector? Find the percentage and angle for 102 out of a total of 175', b: 'Share = value ÷ total × 100 = 58.29%. Angle = value ÷ total × 360 = 209.8°. The shares of all sectors add up to 100%.', src: GAC },
+      { n: 5, f: 'What labelling must a chart have?', b: 'A title saying what it shows, a category axis title and labels, a value axis title with the unit, a legend if there is more than one series, and a value axis scale with a set minimum, maximum and regular interval.', src: GAC },
+      { n: 6, f: 'Why must a bar chart value axis start at zero?', b: 'If it starts at 90, small differences look much larger than they are, which is misleading. Avoid 3-D effects too, because they distort the sizes of bars and sectors.', src: GAC },
+    ]),
+
     // 9 Modelling
     // 9.1 Modelling and simulations
     ...sub('modelling', 'modelling-and-simulations', '9.1', [
@@ -362,15 +380,52 @@ export const DECK_CAMBRIDGE_A_LEVEL_ICT: FlashcardDeck = {
     ...sub('communications-technology', 'network-servers', '14.3', [
       { n: 1, f: 'What does a proxy server do?', b: 'It acts as a go-between for internet requests: it filters them, caches pages and hides internal addresses.', src: COM },
     ]),
+    // 14.4 Cloud computing
+    ...sub('communications-technology', 'cloud-computing', '14.4', [
+      { n: 1, f: 'Define cloud computing', b: 'Using storage, processing power, databases or software held on remote servers and reached over the internet, instead of on local equipment. The cloud is not simply "the internet".', src: CLOUD },
+      { n: 2, f: 'List the main characteristics of cloud computing', b: 'Shared (pooled) resources, on-demand self-service, broad network access, elasticity (scalability), measured service (charged by use) and remote management by the provider.', src: CLOUD },
+      { n: 3, f: 'SaaS vs PaaS vs IaaS', b: 'SaaS: a finished application used through a browser, such as web email. PaaS: a platform for developers to build and run applications. IaaS: virtual servers, storage and networks rented by the user.', src: CLOUD },
+      { n: 4, f: 'How do organisations use cloud computing?', b: 'Hosting websites and shops, data storage and backup, business software, data analysis, software testing, supporting home working and disaster recovery.', src: CLOUD },
+      { n: 5, f: 'Give advantages and disadvantages of the cloud for an organisation', b: 'Advantages: no hardware to buy, scalable, less maintenance, remote working, disaster recovery. Disadvantages: running costs continue, reliance on the provider and the connection, less control of data, security and legal worries, lock-in.', src: CLOUD },
+      { n: 6, f: 'How can the security risks of storing data in the cloud be reduced?', b: 'Encrypt the data, use strong access controls, choose a reputable provider, keep a second copy and check where the data is held.', src: CLOUD },
+    ]),
     // 14.5 Data transmission across networks
     ...sub('communications-technology', 'data-transmission-across-networks', '14.5', [
       { n: 1, f: 'Packet vs circuit vs message switching', b: 'Packet: data split into packets that take separate routes and are reassembled. Circuit: a dedicated channel for the whole session. Message: the whole message is stored and forwarded node by node.', src: COM },
       { n: 2, f: 'Static vs dynamic routing', b: 'Static routing uses manually set tables: secure, but cannot adapt. Dynamic routing updates automatically: it adapts to changes but uses bandwidth.', src: COM },
       { n: 3, f: 'How does BitTorrent transfer a file?', b: 'The file is split into pieces downloaded from many peers at once, and each peer also uploads pieces to others.', src: COM },
     ]),
+    // 14.6 Network protocols
+    ...sub('communications-technology', 'network-protocols', '14.6', [
+      { n: 1, f: 'TCP vs UDP', b: 'TCP is reliable and connection-based: it numbers segments and re-sends lost ones. UDP is connectionless and fast with no re-sending, so it suits live video, voice and games.', src: PROT },
+      { n: 2, f: 'POP3 vs IMAP', b: 'POP3 downloads mail to one device, usually removing it from the server. IMAP keeps mail on the server so several devices see the same messages. SMTP is used to send mail.', src: PROT },
+      { n: 3, f: 'Telnet vs SSH, and HTTP vs HTTPS', b: 'Telnet gives remote text control with no encryption; SSH does the same encrypted. HTTP carries web pages unencrypted; HTTPS is HTTP plus TLS encryption.', src: PROT },
+      { n: 4, f: 'What do ARP, InARP and DHCP do?', b: 'ARP finds the MAC address that matches an IP address. InARP finds the IP address for a known hardware address at the other end. DHCP gives a device an IP address automatically when it joins a network.', src: PROT },
+      { n: 5, f: 'A 3 000 byte file is sent in packets with 250 bytes of payload and a 30 byte header. How many packets and bytes in total?', b: '3 000 ÷ 250 = 12 packets. Headers: 12 × 30 = 360 bytes. Total sent = 3 000 + 360 = 3 360 bytes.', src: PROT },
+      { n: 6, f: 'List the seven layers of the OSI model, top to bottom', b: 'Application, Presentation, Session, Transport, Network, Data link, Physical. The transport layer handles end-to-end delivery; the network layer handles logical addresses and routing.', src: PROT },
+    ]),
+    // 14.7 Wireless technology
+    ...sub('communications-technology', 'wireless-technology', '14.7', [
+      { n: 1, f: 'Bluetooth: range, frequency and how it avoids interference', b: 'About 10 m range at 2.4 GHz. It hops between channels in time slots (frequency hopping), uses little power and needs devices to be paired.', src: WIRE },
+      { n: 2, f: 'NFC: range and how it works', b: 'A few centimetres, using magnetic induction at 13.56 MHz; tags need no battery. Used for contactless payment, tickets and quick pairing.', src: WIRE },
+      { n: 3, f: 'Why do infrared and microwave links need line of sight?', b: 'Both travel in straight lines and are blocked by obstacles. Infrared cannot pass walls (remote controls); microwave links between towers need a clear path and are affected by rain.', src: WIRE },
+      { n: 4, f: 'How does inductive wireless charging work?', b: 'A coil in the charging pad makes a changing magnetic field, which induces a current in a coil in the device. It works over millimetres to centimetres, so the device must be well placed.', src: WIRE },
+      { n: 5, f: 'Rank the wireless security protocols WEP, WPA, WPA2 and WPA3', b: 'WEP is broken and must not be used. WPA is an interim, weak protocol. WPA2 uses strong AES encryption. WPA3 is the strongest and resists password guessing.', src: WIRE },
+      { n: 6, f: 'Why do hiding the network name and MAC address filtering give little protection?', b: 'Network names and MAC addresses can be seen in transmitted data and then copied by an attacker. A long passphrase with WPA2 or WPA3 matters far more.', src: WIRE },
+      { n: 7, f: 'How long does a 12 MB file take to send by Bluetooth at 2 Mbit/s?', b: '12 MB = 12 × 8 = 96 megabits. 96 ÷ 2 = 48 seconds. At 160 Mbit/s over Wi-Fi it would take 96 ÷ 160 = 0.6 seconds.', src: WIRE },
+    ]),
     // 14.8 Mobile communication systems
     ...sub('communications-technology', 'mobile-communication-systems', '14.8', [
       { n: 1, f: 'How is data sent by satellite?', b: 'Data is encoded and modulated, sent from a ground station uplink, amplified by the satellite\'s transponder, sent down on another frequency, and decoded by the receiving dish.', src: COM },
+    ]),
+    // 14.9 Network security
+    ...sub('communications-technology', 'network-security', '14.9', [
+      { n: 1, f: 'What are the three aims of network security?', b: 'Confidentiality: only authorised people can read the data. Integrity: data is accurate and unchanged. Availability: data and services are usable when needed.', src: NSEC },
+      { n: 2, f: 'DoS vs DDoS, and what is a botnet?', b: 'A denial of service floods a server so users cannot be served. A DDoS comes from many sources at once. A botnet is a network of infected devices an attacker controls, often used for DDoS.', src: NSEC },
+      { n: 3, f: 'How does SQL injection work, and how is it prevented?', b: 'The attacker types SQL code into a form field and the database runs it, for example x\' OR \'1\'=\'1 makes a condition always true. Prevent it with input validation and parameterised queries.', src: NSEC },
+      { n: 4, f: 'A 4-digit PIN is guessed at 100 guesses per second. How long does a brute force attack take?', b: '10⁴ = 10 000 combinations. 10 000 ÷ 100 = 100 seconds at most. A lock-out after 3 failed attempts allows only 3 guesses.', src: NSEC },
+      { n: 5, f: 'How should a firewall be configured?', b: 'Default deny: block everything not allowed. Allow only needed ports and protocols, block Telnet, block unsolicited incoming connections but allow replies to outgoing requests, and log blocked traffic.', src: NSEC },
+      { n: 6, f: 'Why are insiders and poor network policies security threats, and what defends against them?', b: 'Insiders already have access and knowledge, and many breaches are caused by people. Defences: access rights (least privilege), logs, physical security, a written policy, staff training and audits.', src: NSEC },
     ]),
     // 14.10 Disaster recovery management
     ...sub('communications-technology', 'disaster-recovery-management', '14.10', [
@@ -410,9 +465,27 @@ export const DECK_CAMBRIDGE_A_LEVEL_ICT: FlashcardDeck = {
     ...sub('system-life-cycle', 'design', '16.3', [
       { n: 1, f: 'Data flow diagram vs system flowchart', b: 'A DFD shows the movement of data. A system flowchart shows hardware, files and processes.' },
     ]),
+    // 16.4 Development and testing
+    ...sub('system-life-cycle', 'development-and-testing', '16.4', [
+      { n: 1, f: 'Give normal, extreme and abnormal test data for a field that accepts a whole number from 1 to 8', b: 'Normal: 4 (accepted). Extreme: 1 and 8 (valid, on the limits, accepted). Abnormal: 0, 9, 3.5 and "four" (rejected with a message).', src: DEVT },
+      { n: 2, f: 'What does a test plan contain?', b: 'Test number, purpose, test data, type of data, the expected result (written before testing and precise, not just "error"), the actual result, and pass or fail with comments.', src: DEVT },
+      { n: 3, f: 'A price is £5 and 3 or more items get 10% off. What is the expected total for 3 items?', b: '3 × £5 = £15, less 10% (£1.50) = £13.50. Work out each expected result by hand before testing.', src: DEVT },
+      { n: 4, f: 'Alpha vs beta testing', b: 'Alpha: the developer\'s own staff, in the developer\'s environment, first. Beta: a limited group of real users in their own environment, after alpha and before final release.', src: DEVT },
+      { n: 5, f: 'White box vs black box testing', b: 'White box: the tester sees the code and tests its paths, branches and loops. Black box: the code is hidden and tests are based on requirements, inputs and expected outputs.', src: DEVT },
+      { n: 6, f: 'Can testing prove that a system has no faults?', b: 'No. Testing shows that faults exist but cannot prove that none remain, so a plan should cover as much as possible. Faults are cheaper to fix before users find them.', src: DEVT },
+    ]),
     // 16.5 Implementation
     ...sub('system-life-cycle', 'implementation', '16.5', [
       { n: 1, f: 'Phased vs pilot implementation', b: 'Phased: one part of the system is introduced everywhere at a time. Pilot: the whole system is introduced in one place first.' },
+    ]),
+    // 16.6 Documentation
+    ...sub('system-life-cycle', 'documentation', '16.6', [
+      { n: 1, f: 'Who reads technical documentation, and what does it contain?', b: 'Programmers, technicians and support staff who fix, update or move the system. Contents: commented code, algorithms, data dictionary, file structures, input and output formats, installation, test results and backup and recovery procedures.', src: DOCS },
+      { n: 2, f: 'What does user documentation contain?', b: 'Start-up and login, step-by-step tasks with screenshots, a tutorial, error messages and what to do, troubleshooting, an FAQ, a glossary and help-desk contact details.', src: DOCS },
+      { n: 3, f: 'Why are requirements and design documents needed?', b: 'They record what was agreed, give developers and testers a target to build and test against, and allow the finished system to be evaluated. They include specifications, DFDs, flowcharts, layouts and validation rules.', src: DOCS },
+      { n: 4, f: 'What is marketing documentation, and who is it for?', b: 'It describes and promotes the system to potential customers: features and benefits, screenshots or a demo, requirements, price and licence. It sells the system; it does not teach people how to use it.', src: DOCS },
+      { n: 5, f: 'Which document answers: what did the client ask for, how do I change my password, how do I restore from a backup?', b: 'Requirements documentation, user documentation and technical documentation, in that order. Always ask who reads the document and what they need to do.', src: DOCS },
+      { n: 6, f: 'Give a disadvantage of each type of documentation', b: 'Requirements and design: go out of date and are long. Technical: hard for non-specialists and must be updated. User: printed copies date and users may not read them. Marketing: may exaggerate.', src: DOCS },
     ]),
     // 16.7 Evaluation
     ...sub('system-life-cycle', 'evaluation', '16.7', [

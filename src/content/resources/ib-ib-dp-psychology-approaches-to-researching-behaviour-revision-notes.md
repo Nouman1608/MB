@@ -4,16 +4,18 @@ seoTitle: "IB DP Psychology Approaches to Researching Behaviour Notes"
 resourceType: "revision-notes"
 subject: "psychology"
 level: ["ib"]
-topic: "Topic 4: Approaches to researching behaviour"
+topic: "Content -- Research methodology"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: ["DP Psychology (2019) / DP Psychology (2027)"]
-syllabusSeries: "First assessment 2019"
+syllabusCodes: ["DP Psychology (2027)", "DP Psychology (2019) / DP Psychology (2027)"]
+syllabusSeries: "First assessment 2027"
 order: 4
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-psychology-approaches-to-researching-behaviour"
-description: "Revision notes on IB DP Psychology research methods: experiments, correlations, qualitative methods, sampling, ethics, generalisation, bias and the HL Paper 3."
+  - qualification: "ib-dp"
+    topic: "ib-dp-psychology-2027-research-methodology"
+description: "Revision notes on IB DP Psychology research methodology (first assessment 2027): experiments, correlations, qualitative methods, sampling, ethics, bias and credibility."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
@@ -23,25 +25,20 @@ publishedDate: 2026-11-08
 featured: false
 ---
 
-> **Course note:** these notes follow IB DP Psychology for **first assessment 2019**, whose last
-> examination session is November 2026. The replacement course is first assessed in May 2027.
+Research methodology is one of the four content areas of IB DP Psychology (first assessment 2027): research methods, sampling techniques, procedures, data collection and analysis. It runs through every approach and context, it is the focus of the class practicals (an interview, an observation, a survey/questionnaire and an experiment), and you use it to evaluate studies on Paper 2. At HL, Paper 3 assesses data analysis and interpretation of research data from several sources.
 
-Approaches to researching behaviour is the research-methods strand of IB DP Psychology: quantitative and qualitative methods, sampling, ethics, and how far findings can be generalised. It runs through every approach and option -- you evaluate studies with it in every essay -- and at HL it is examined directly on Paper 3, where you answer questions about an unseen summary of a study.
+Related: [Approaches to researching behaviour study guide](/resources/ib-ib-dp-psychology-approaches-to-researching-behaviour-study-guide/).
 
-Related: [Approaches to researching behaviour study guide](/resources/ib-ib-dp-psychology-approaches-to-researching-behaviour-study-guide/) and
-[practice questions](/resources/ib-ib-dp-psychology-approaches-to-researching-behaviour-practice/).
-
-## Syllabus coverage (first assessment 2019)
+## Syllabus coverage (first assessment 2027)
 
 | Area | What to know |
 |---|---|
-| Quantitative methods | True (laboratory) experiments, field experiments, natural and quasi-experiments; correlational studies |
-| Qualitative methods | Interviews (structured, semi-structured, unstructured, focus groups), observations (participant, non-participant, overt, covert, naturalistic, controlled), case studies |
-| Sampling | Random, stratified, self-selected (volunteer), opportunity (convenience), purposive, snowball |
-| Ethics | Informed consent, deception, debriefing, right to withdraw, protection from harm, anonymity and confidentiality; ethics in data reporting |
-| Quality of research | Validity, reliability, credibility, bias, triangulation, reflexivity |
-| Generalisation | Sample-to-population generalisation, theoretical generalisation, case-to-case generalisation (transferability) |
-| HL Paper 3 | Unseen study summary; static questions: method, sampling and alternative method (3 x 3 marks), ethics (6), then one of generalisation, credibility or bias (9) |
+| Research methods | Experiments (true or quasi-); observations (naturalistic or controlled, overt or covert, participant or non-participant); surveys/questionnaires; interviews (structured, semi-structured or focus group); correlational studies; case studies |
+| Sampling techniques | Self-selected, opportunity, stratified, random, snowball (and the advantages and disadvantages of each); purposive sampling is not named in the guide but is common in qualitative work |
+| Ethics and responsibility | Informed consent, deception, debriefing, right to withdraw, protection from harm, anonymity, cost-benefit analysis; use of animals and child participants |
+| Research considerations | Reliability; validity (internal, external, content, face, construct); generalizability; researcher and participant biases; reflexivity; transferability; credibility |
+| Data analysis and interpretation | Bar graph, box and whisker plot, distributions, frequency table, histogram, line graph, outliers, scatterplot; descriptive and inferential statistics; correlation coefficient; thematic analysis. Studied at SL and HL, assessed at HL only |
+| HL Paper 3 | Four source-based questions (30 marks) with quantitative and qualitative findings, focused on one HL extension: interpretation of graphs (3), data analysis (6), a research consideration of credibility, bias or transferability (6) and synthesis (15) |
 
 ## Experiments compared
 
@@ -122,19 +119,19 @@ Related: [Approaches to researching behaviour study guide](/resources/ib-ib-dp-p
 - **Quantitative language for qualitative studies.** Use credibility, transferability and reflexivity, not "statistical significance".
 - **Listing ethics without application.** Say how each consideration was, or should have been, applied in the study described.
 - **"Small sample, so not generalisable" as the whole answer.** Distinguish the three types of generalisation.
-- **Forgetting the context.** Paper 3 answers must refer to the specific study summary.
+- **Forgetting the context.** Answers on Paper 2 section B and Paper 3 must refer to the specific study or sources given.
 - **Causal claims from correlations.** Say "is associated with", not "causes", unless an IV was manipulated.
 
 ## Frequently asked questions
 
 **Is research methodology examined at SL?**
-SL students are not set Paper 3, but they need research methods to evaluate studies on Papers 1 and 2 and to design the internal assessment experiment.
+Yes. SL students study research methodology and use it on Paper 2 (section A on the class practicals and section B on an unseen study) and in the internal assessment. Data analysis and interpretation is studied at SL but is assessed at HL only, on Paper 3.
 
 **What is Paper 3?**
-A 1-hour HL paper worth 24 marks and 20% of the HL grade: one unseen study summary followed by three compulsory questions. Question 1 has three 3-mark parts (research method, sampling method, an alternative method); Question 2 (6 marks) is on ethics; Question 3 (9 marks) asks about one of generalisation, credibility or bias.
+A 1 hour 45 minute HL paper worth 30 marks and 30% of the HL grade. It gives four source-based questions with quantitative and qualitative findings, focused on one of the HL extensions (culture, motivation or technology). Question 1 (3 marks) asks about one issue that limits interpretation of a source, question 2 (6 marks) asks you to analyse one source and state a conclusion, question 3 (6 marks) asks about credibility, bias or transferability, and question 4 (15 marks) asks you to synthesise at least three sources to discuss the validity of a claim.
 
 **Do I need inferential statistics?**
-For Paper 3 you need to understand significance and generalisation conceptually; descriptive and inferential statistics are applied in the internal assessment.
+The 2027 guide lists descriptive and inferential statistics, the correlation coefficient and thematic analysis under data analysis and interpretation, which HL students are assessed on in Paper 3.
 
 ## Self-test
 

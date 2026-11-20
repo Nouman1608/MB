@@ -4,15 +4,17 @@ seoTitle: "IB DP Psychology Approaches to Researching Behaviour Guide"
 resourceType: "study-guides"
 subject: "psychology"
 level: ["ib"]
-topic: "Topic 4: Approaches to researching behaviour"
+topic: "Content -- Research methodology"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: ["DP Psychology (2019) / DP Psychology (2027)"]
-syllabusSeries: "First assessment 2019"
+syllabusCodes: ["DP Psychology (2027)", "DP Psychology (2019) / DP Psychology (2027)"]
+syllabusSeries: "First assessment 2027"
 order: 4
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-psychology-approaches-to-researching-behaviour"
+  - qualification: "ib-dp"
+    topic: "ib-dp-psychology-2027-research-methodology"
 description: "Qualitative and quantitative research methods, sampling, ethics, bias and credibility, and descriptive statistics for IB DP Psychology."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
@@ -27,7 +29,7 @@ Psychologists cannot see thoughts, motives or feelings directly, so they rely on
 
 ## Where this fits in the specification
 
-Approaches to researching behaviour runs through the whole IB Diploma Programme Psychology course rather than sitting in one approach. You use it when evaluating studies in the biological, cognitive and sociocultural approaches and options, and it is the basis of the internal assessment, in which you carry out a simple experimental study. Questions may ask you to describe a method, explain why a design is suitable, identify strengths and limitations of a study in a scenario, or discuss ethical considerations. Check the current guide for the precise required content at each level.
+Research methodology is one of the four content areas of IB Diploma Programme Psychology (first assessment 2027). It runs through the whole course rather than sitting in one approach: you use it when evaluating studies in the biological, cognitive and sociocultural approaches and in the four contexts, it is the focus of the class practicals (an interview, an observation, a survey/questionnaire and an experiment), and it is the basis of the internal assessment, a research proposal in which you design a study but do not carry it out. Paper 2 section A asks four compulsory questions on the class practicals, and Paper 2 section B asks you to evaluate an unseen research study with regard to two or more concepts. Data analysis and interpretation is studied at SL and HL but is assessed only at HL, on Paper 3.
 
 ## Quantitative and qualitative research
 
@@ -70,8 +72,8 @@ A correlational study measures the relationship between two variables without ma
 ### Qualitative methods
 
 - **Observation** records behaviour as it occurs, either in naturalistic or controlled settings. It can be participant or non-participant, and overt or covert. Observers need clear categories and, ideally, more than one observer to check reliability.
-- **Interviews** can be structured, semi-structured or unstructured. They give rich data but depend on the skill of the interviewer, and participants may give socially desirable answers.
-- **Focus groups** gather a small group to discuss a topic, which can reveal shared views but may be dominated by one person.
+- **Interviews** can be structured or semi-structured, or run as a focus group. They give rich data but depend on the skill of the interviewer, and participants may give socially desirable answers.
+- **Focus group interviews** gather a small group to discuss a topic, which can reveal shared views but may be dominated by one person.
 - **Case studies** are in-depth investigations of an individual, group or event, often using several methods over time. They give detailed insight into rare cases but are hard to generalise.
 
 ## Sampling
@@ -82,7 +84,7 @@ The **target population** is the group the researcher wants to draw conclusions 
 - **Stratified sampling**: the sample reflects the proportions of subgroups in the population.
 - **Opportunity (convenience) sampling**: people who are available. It is quick but can be biased.
 - **Volunteer (self-selected) sampling**: people respond to an advertisement, which can mean a more motivated sample.
-- **Purposive sampling**: participants chosen for specific characteristics, common in qualitative work.
+- **Purposive sampling**: participants chosen for specific characteristics, common in qualitative work (the 2027 guide names self-selected, opportunity, stratified, random and snowball sampling, so purposive sampling is extra to the listed techniques).
 - **Snowball sampling**: participants recruit others, useful for hard-to-reach groups.
 
 A larger and more representative sample generally supports **generalisation**.
@@ -118,7 +120,7 @@ Researchers follow ethical guidelines to protect participants. Key principles ar
 
 ## Descriptive statistics
 
-Descriptive statistics summarise data. The **mean** is the sum divided by the number of values; the **median** is the middle value; the **mode** is the most frequent. The **range** is the highest value minus the lowest, and the **standard deviation** measures how far values typically are from the mean, with a small value meaning the data are clustered close to the mean. Inferential statistics are used to decide whether a result is likely to be due to chance, and whether you need them depends on the level you take.
+Descriptive statistics summarise data. The **mean** is the sum divided by the number of values; the **median** is the middle value; the **mode** is the most frequent. The **range** is the highest value minus the lowest, and the **standard deviation** measures how far values typically are from the mean, with a small value meaning the data are clustered close to the mean. Inferential statistics are used to decide whether a result is likely to be due to chance. The 2027 guide lists both descriptive and inferential statistics, graphs such as histograms, box and whisker plots and scatterplots, and thematic analysis under data analysis and interpretation, which is assessed at HL only.
 
 ## Worked example
 
@@ -171,5 +173,5 @@ Credibility is the qualitative equivalent of validity, and transferability is th
 **What does standard deviation show?**
 Standard deviation measures how far values typically are from the mean. A small standard deviation means the data are clustered close to the mean.
 
-**How is approaches to researching behaviour used in IB Psychology?**
-It runs through the whole course: you use it to evaluate studies in the core approaches and options, and it is the basis of the internal assessment, a simple experimental study.
+**How is research methodology used in IB Psychology?**
+It runs through the whole course: you use it to evaluate studies in the approaches and contexts, it is the focus of the class practicals tested on Paper 2, and it is the basis of the internal assessment, a research proposal in which you design a study using one of the four class practical methods.

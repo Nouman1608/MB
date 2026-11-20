@@ -1,19 +1,21 @@
 ---
-title: "IB DP Psychology: Sociocultural approach to understanding behaviour -- Study Guide"
+title: "IB DP Psychology: Sociocultural approach -- Study Guide"
 seoTitle: "IB DP Psychology Sociocultural Approach Study Guide"
 resourceType: "study-guides"
 subject: "psychology"
 level: ["ib"]
-topic: "Topic 3: Sociocultural approach to understanding behaviour"
+topic: "Content: Sociocultural approach"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: ["DP Psychology (2019) / DP Psychology (2027)"]
-syllabusSeries: "First assessment 2019"
+syllabusCodes: ["DP Psychology (2027)", "DP Psychology (2019) / DP Psychology (2027)"]
+syllabusSeries: "First assessment 2027"
 order: 3
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-psychology-sociocultural-approach"
-description: "Social identity theory, social learning, stereotypes, cultural dimensions and acculturation explained with key studies for the IB DP Psychology core."
+  - qualification: "ib-dp"
+    topic: "ib-dp-psychology-2027-sociocultural-approach"
+description: "Social identity theory, social learning, stereotypes, cultural dimensions and acculturation explained with key studies for the IB DP Psychology sociocultural approach."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
@@ -23,11 +25,13 @@ publishedDate: 2026-11-08
 featured: false
 ---
 
-The sociocultural approach explains behaviour by looking at the social groups people belong to and the culture they live in. Instead of asking what happens in the brain or in the mind of an isolated individual, it asks how other people, shared norms and cultural meanings shape what individuals think, feel and do. In IB Diploma Programme Psychology this is one of the core approaches, and you are expected to use theories and research to explain behaviour, evaluate that research and write about it in the examination.
+The sociocultural approach explains behaviour by looking at the social groups people belong to and the culture they live in. Instead of asking what happens in the brain or in the mind of an isolated individual, it asks how other people, shared norms and cultural meanings shape what individuals think, feel and do. In IB Diploma Programme Psychology (first assessment 2027) this is one of the three content approaches, with the biological and cognitive approaches, and you are expected to use its theories and concepts to explain behaviour in the contexts, evaluate research and write about it in the examination.
 
 ## Where this fits in the specification
 
-The sociocultural approach sits in the core of the course, next to the biological and cognitive approaches. It is built on a few principles: humans are social animals who have a need to belong; the cultural and social environment affects behaviour and cognition; and people's behaviour is influenced by the groups they identify with. Content is usually organised into individual and group behaviour, cultural origins of behaviour and cognition, and cultural influences on individual attitudes, identity and behaviours. The approach is examined through short-answer and extended-response questions that ask you to describe, explain, discuss or evaluate. Check the current guide for the exact studies and concepts required.
+The sociocultural approach is one of the three content areas of the 2027 course (with the biological and cognitive approaches), alongside research methodology. The guide describes it as emphasising the influence of social and cultural factors on behaviour, growing out of social psychology, and using both etic and emic approaches. It lists ten terms to know: cognitive dissonance, compliance techniques, conformity, cultural dimensions, the emic approach, enculturation, the etic approach, models of acculturation, social identity theory and social learning theory. This guide covers social identity theory, social learning (Bandura's social cognitive theory), cultural dimensions, enculturation, acculturation and the emic and etic approaches, and also stereotypes, which the 2027 guide does not list. It does not cover cognitive dissonance, compliance techniques or conformity, so use other resources for those terms.
+
+The approach is assessed on Paper 1. Section A has two compulsory short-answer questions drawn from two of the three content areas (8 marks in all): you explain or describe a psychological idea or theory and give an example, and the questions do not specify a context. Sections B and C then apply content to contexts. Knowledge of the details of research studies is not assessed on Paper 1, so use the studies below as evidence and examples rather than as facts to memorise. The guide has no list of required studies.
 
 ## Individual and group behaviour
 
@@ -127,7 +131,7 @@ Consider a fictional replication of a minimal group study. Eight participants ea
 
 ## Exam technique
 
-IB command terms matter. **Describe** needs a detailed account; **explain** needs reasons or causes; **discuss** needs a balanced review of several points; **evaluate** needs strengths and limitations with a judgement. In an extended answer, state the argument, use two or three relevant studies with accurate aims, method, findings and conclusion, and link them back to the question, since a list of studies does not earn credit. Only describe studies you can recall accurately.
+IB command terms matter. **Describe** needs a detailed account; **explain** needs reasons or causes; **discuss** needs a balanced review of several points; **evaluate** needs strengths and limitations with a judgement. In a Section A answer, explain the theory and give a relevant, explained example. In an extended answer (Section C, 15 marks), state the argument, link the content to the concepts the question sets, use relevant research as evidence, and link it back to the question, since a list of studies does not earn credit. Only describe studies you can recall accurately.
 
 ## Check your understanding
 

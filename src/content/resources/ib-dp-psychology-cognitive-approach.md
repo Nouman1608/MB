@@ -1,19 +1,21 @@
 ---
-title: "IB DP Psychology Core: The Cognitive Approach to Understanding Behaviour"
+title: "IB DP Psychology: The Cognitive Approach to Understanding Behaviour"
 seoTitle: "IB DP Psychology Cognitive Approach to Behaviour Study Guide"
 resourceType: "study-guides"
 subject: "psychology"
 level: ["ib"]
-topic: "Core -- Cognitive approach to understanding behaviour"
+topic: "Content -- Cognitive approach to understanding behaviour"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: ["DP Psychology"]
-syllabusSeries: "First assessment 2019"
+syllabusCodes: ["DP Psychology (2027)", "DP Psychology"]
+syllabusSeries: "First assessment 2027"
 order: 4
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-psychology-cognitive-approach"
-description: "Study guide to the IB DP Psychology cognitive approach on Paper 1: memory, perception, thinking, reconstructive memory and schema theory, with worked examples."
+  - qualification: "ib-dp"
+    topic: "ib-dp-psychology-2027-cognitive-approach"
+description: "Study guide to the IB DP Psychology cognitive approach (first assessment 2027): cognitive models, reconstructive memory, schema theory and cognitive biases, with worked examples."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
@@ -23,23 +25,14 @@ publishedDate: 2026-09-06
 featured: false
 ---
 
-> **Course note (legacy syllabus):** This resource describes IB DP
-> Psychology for **first assessment 2019**, now in its final teaching
-> cycle (**last examination session November 2026**). A replacement
-> course (first assessment 2027) reworks the approaches into content
-> areas applied across four contexts, integrated with six named concepts
-> -- a rescoping this file has not undergone. A companion resource for
-> the 2027 course does not yet exist on this site.
-
 This guide covers the **Cognitive Approach to Understanding
-Behaviour**, one of three compulsory core approaches for IB Diploma
-Programme Psychology, first assessment 2019. The [full syllabus
-guide](/resources/ib-dp-psychology-syllabus-guide/) confirms all three
-core approaches -- biological, cognitive, sociocultural -- are
-compulsory for every student, tested on Paper 1, alongside the
-[Biological
-Approach](/resources/ib-dp-psychology-biological-approach/) already on
-the site.
+Behaviour**, one of the three content areas (the biological, cognitive
+and sociocultural approaches) that every IB Diploma Programme Psychology
+student studies at SL and HL, for first assessment 2027. Paper 1 section
+A asks two short-answer questions from two of the three content areas.
+The [Biological
+Approach](/resources/ib-dp-psychology-biological-approach/) is covered
+in a companion guide.
 
 ## Where this fits in the syllabus
 
@@ -48,15 +41,24 @@ How mental processes -- memory, perception, thinking, decision-making
 physiology, the cognitive approach models the mind's internal
 information-processing, often using computer-like models (input,
 processing, storage, output) as a way of representing mental activity
-that cannot be directly observed. The syllabus deliberately revisits
-shared topics across more than one approach, and memory is the
-clearest example: biologically, memory is examined through brain
+that cannot be directly observed. The 2027 guide encourages students
+to be aware of overlaps and interactions between the approaches, and
+memory is a clear example: biologically, memory is examined through brain
 structures and neurochemistry; cognitively, memory is examined through
 information-processing models (encoding, storage, retrieval) and
 factors affecting accuracy, such as reconstructive memory and schema.
-A strong Paper 1 answer recognises which approach a question is asking
-for, and does not blend biological and cognitive explanations together
-without being explicit about which is doing the explanatory work.
+A strong answer is explicit about which approach is doing the
+explanatory work, even where it brings biological and cognitive
+explanations together.
+
+The IB Psychology guide (first assessment 2027) lists eight terms for
+the cognitive approach, each studied at SL and HL: anchoring bias,
+classical conditioning, cognitive load theory, cognitive models,
+confirmation bias, dual processing theory, operant conditioning and
+schema theory. This guide covers cognitive models (information
+processing, memory), schema theory (reconstructive memory) and
+cognitive biases; classical and operant conditioning, cognitive load
+theory and dual processing theory are not covered here.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-psychology-cognitive-approach--08-ibcog-information-processing.webp" width="900" height="810" alt="Top: a computer-like model with four steps in order: input, processing, storage, output. Middle: memory examined cognitively as encoding, then storage, then retrieval. Bottom: factors affecting accuracy named in the lesson are reconstructive memory and schema." loading="lazy">
@@ -92,8 +94,8 @@ difficult to test with full ecological validity, since lab studies
 using filmed clips rarely replicate the emotional intensity and
 personal stakes of witnessing a real event. Naming the specific study
 and cognitive concept, applying it directly to the scenario, then
-adding a genuine evaluative point is the structure Paper 1's essay
-question rewards.
+adding a genuine evaluative point is the structure that the higher
+markbands for the extended-response questions reward.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-psychology-cognitive-approach--09-ibcog-loftus-palmer.webp" width="900" height="1170" alt="Step 1: participants watch film clips of car accidents. Step 2: they are asked how fast the cars were going when they smashed into, collided with, bumped, hit or contacted each other. Step 3: the verb significantly affected speed estimates, and the smashed-into group were also more likely to wrongly report broken glass that was not in the film. A strength is real-world use in police interviews; a limitation is low ecological validity of filmed clips." loading="lazy">
@@ -111,54 +113,51 @@ question rewards.
 For every cognitive study or model learned, prepare not just its
 finding but its methodology and one evaluative point -- a strength or
 limitation of how it was conducted or how applicable its model is to
-real-world behaviour. Paper 1's essay question specifically credits
-evaluation, not just accurate description, so a well-remembered study
+real-world behaviour. The markbands for Paper 1 section C and Paper 2
+section B credit analysis and evaluation, not just accurate
+description, so a well-remembered study
 finding without a methodological or applied evaluation attached is
 only half-prepared.
 
-## Cognitive approach across the options too
+## Cognitive approach across the contexts too
 
 The cognitive approach's concepts do not stop being relevant once the
-core is finished -- several options draw on cognitive explanations
-directly. Developmental psychology, for example, often uses cognitive
-models to explain how thinking and problem-solving change across the
-lifespan, and health psychology draws on cognitive concepts such as
-risk perception and health beliefs to explain behaviour change.
-Recognising where your chosen option overlaps with core cognitive
-content lets you reuse and deepen the same underlying knowledge rather
-than treating the core and the option as fully separate bodies of
-content to learn from scratch.
+content is finished. The 2027 guide says that cognitive theories are
+used to explain human development and the prevalence and prevention of
+health problems and learning. Cognitive models of mental health
+disorders appear in health and well-being, cognitive explanations of
+interpersonal relationships in human relationships, and the learning and
+cognition context is built around thinking and learning and around
+cognitive processes such as attention, memory, perception and language.
+Recognising where a context overlaps with cognitive content lets you
+reuse and deepen the same underlying knowledge rather than treating the
+content and the contexts as separate bodies of material to learn from
+scratch.
 
 ## Linking to the internal assessment
 
 Because the cognitive approach emphasises information-processing and
-the influence of factors like schema on judgment, many students design
-their experimental study (internal assessment) within this approach --
-for example, testing how a manipulated variable affects recall or
-decision-making. If your own IA sits within the cognitive approach,
-use this same vocabulary (encoding, schema, information-processing) to
-justify your design choices and discuss your findings, since
-consistency between your taught content and your own research
-strengthens the write-up's methodological grounding.
+the influence of factors like schema on judgment, many students choose
+a research proposal (the internal assessment) that draws on this
+approach -- for example, proposing an experiment on how a manipulated
+variable affects recall or decision-making. If your own proposal sits
+within the cognitive approach, use this same vocabulary (encoding,
+schema, information-processing) to justify your methodological choices
+and to discuss the potential findings, since consistency between your
+taught content and your proposal strengthens its grounding.
 
 ## Comparing approaches as a revision tool
 
-Comparing how two approaches explain the same behaviour is a revision
-tool, not an essay format: the Paper 1 essay is answered from a single
-approach, with no separate credit for bringing in a second (see the
-[exam preparation notes](/resources/ib-dp-psychology-exam-preparation/)).
-Working through one comparison in advance -- for example, memory
-explained cognitively (information-processing, reconstructive memory)
-versus biologically (brain structures, neurochemistry) -- still pays
-off, because it trains you to recognise which approach a question is
-asking for and to keep your answer within it, rather than blending
-explanations without saying which approach is doing the work.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-psychology-cognitive-approach--12-ibcog-memory-two-approaches.webp" width="900" height="940" alt="The topic memory is explained in two ways. Biological approach: brain structures such as the hippocampus and neurochemistry. Cognitive approach: information-processing (encoding, storage, retrieval), reconstructive memory and schema. A banner says the Paper 1 essay is answered from a single approach, keeping clear which approach is doing the explanatory work." loading="lazy">
-  <figcaption>The same topic can be explained biologically or cognitively; a Paper 1 essay stays within one approach.</figcaption>
-</figure>
-
+Comparing how two approaches explain the same behaviour is a useful
+revision tool, and the 2027 guide encourages awareness of overlaps and
+interactions, for example cognitive biases that are the result of
+specific sociocultural experiences. Working through one comparison in
+advance -- for example, memory explained cognitively
+(information-processing, reconstructive memory) versus biologically
+(brain structures, neurochemistry) -- pays off, because it trains you to
+recognise which approach each point belongs to and to say so
+explicitly, rather than blending explanations without saying which
+approach is doing the work.
 
 ## How to approach it
 
@@ -172,17 +171,18 @@ information-processing -- to a novel scenario, not just a memorised
 study, since Paper 1 questions are frequently framed around an unseen
 context. As revision practice, work through at least one cross-approach
 comparison of the same topic: it sharpens which points belong to the
-cognitive approach, which is what a single-approach answer needs.
+cognitive approach, which helps when a question calls for more than one
+approach.
 
 ## Common mistakes
 
 Blending biological and cognitive explanations of the same topic (memory,
 for instance) without being explicit about which approach a given
 point belongs to. Describing a cognitive model's structure without
-applying it to a specific scenario or study finding. Treating research
-methodology, tested separately in Paper 3, as irrelevant to a
-cognitive-approach essay, when strong answers often reference how a
-study's method affects how much its findings can be trusted.
+applying it to a specific scenario or study finding. Treating research methodology, tested in Paper 2 and, at HL, Paper 3, as
+irrelevant to a cognitive-approach answer, when strong answers often
+reference how a study's method affects how much its findings can be
+trusted.
 
 ## Common cognitive approach studies
 
@@ -198,8 +198,8 @@ later, more tightly controlled studies (including Loftus and Palmer's) are often
 same underlying claim with better experimental control. This approach also draws on thinking and
 decision-making (including cognitive biases and heuristics that produce predictable errors in
 judgment), and cognitive processing in real-world contexts such as eyewitness testimony or
-decision-making under uncertainty. Because Paper 1 questions can be framed around any of these
-sub-areas, building a small bank of two or three well-prepared studies across different sub-areas --
+decision-making under uncertainty. Because Paper 1 section B questions apply content to an unseen situation
+in any of the contexts, building a small bank of two or three well-prepared studies across different sub-areas --
 rather than one memory study revised in exhaustive depth -- gives more flexibility to respond to
 whichever specific angle a question actually takes.
 
@@ -212,22 +212,17 @@ whichever specific angle a question actually takes.
 ## Frequently asked questions
 
 **How is the cognitive approach examined in IB DP Psychology?**
-The cognitive approach is one of three compulsory core approaches examined on Paper 1, for first assessment 2019.
+The cognitive approach is one of three content areas studied at SL and HL. Paper 1 section A asks two short-answer questions from two of the three content areas, section B asks you to apply content to an unseen situation in one of the four contexts, and section C is a concept-based extended response. The guide states that knowledge of the details of research studies is not assessed in sections A and C, so studies are used as examples of theories and concepts.
 
 **Why can eyewitness testimony be unreliable according to the cognitive approach?**
 Reconstructive memory means a witness's account can be shaped by expectations, leading questions or information met after the event, which become part of the memory without the witness realising.
 
 **How many cognitive studies should I prepare for Paper 1?**
-Build a small bank of two or three well-prepared studies across different sub-areas, such as memory, schema and decision-making, rather than one memory study in exhaustive depth, so you can respond to whichever angle a question takes.
+Build a small bank of two or three well-prepared studies across different sub-areas, such as memory, schema and decision-making, rather than one memory study in exhaustive depth, so you have an example ready for whichever angle a question takes.
 
-**How does the cognitive approach link to the IB Psychology options?**
-Several options draw on cognitive explanations: developmental psychology uses cognitive models of changing thinking, and health psychology uses concepts such as risk perception and health beliefs.
+**How does the cognitive approach link to the IB Psychology contexts?**
+The guide says cognitive theories are used to explain human development and the prevalence and prevention of health problems and learning: cognitive models of mental health disorders appear in health and well-being, and the learning and cognition context covers thinking, learning and cognitive processes such as attention, memory, perception and language.
 
 ## Official syllabus
 
-International Baccalaureate Organization, *Diploma Programme Subject
-Brief -- Psychology*, first assessment 2019 -- the same source already
-cited by the [full syllabus
-guide](/resources/ib-dp-psychology-syllabus-guide/) and the
-[revision notes](/resources/ib-dp-psychology-cognitive-approach-revision-notes/)
-already on the site. Verified 2026-09-06.
+International Baccalaureate Organization, *Diploma Programme Psychology guide*, first assessment 2027 (published February 2025), Syllabus content, "Cognitive approach" and Table 3.2 (p. 25), and External assessment, Paper 1 (pp. 45 to 46), read on 2026-11-20.

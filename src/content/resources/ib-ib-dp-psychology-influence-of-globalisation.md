@@ -1,18 +1,20 @@
 ---
-title: "IB DP Psychology (2019): The Influence of Globalisation on Attitudes, Identities and Behaviour"
+title: "IB DP Psychology: The Influence of Globalisation on Attitudes, Identities and Behaviour"
 resourceType: "study-guides"
 subject: "psychology"
 level: ["ib"]
-topic: "Topic 3: Sociocultural approach to understanding behaviour"
+topic: "HL extension: Culture"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: ["DP Psychology (2019) / DP Psychology (2027)"]
-syllabusSeries: "First assessment 2019"
+syllabusCodes: ["DP Psychology (2027)", "DP Psychology (2019) / DP Psychology (2027)"]
+syllabusSeries: "First assessment 2027"
 order: 3.1
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-psychology-sociocultural-approach"
-description: "The HL sociocultural extension on globalisation for IB DP Psychology: bicultural identity, the Fiji television study, global cooperation and how to evaluate it."
+  - qualification: "ib-dp"
+    topic: "ib-dp-psychology-2027-hl-extension-culture"
+description: "The HL culture extension on globalisation for IB DP Psychology: bicultural identity, the Fiji television study, global cooperation and how to evaluate it."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
@@ -22,7 +24,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide covers the HL extension to the sociocultural approach in IB DP Psychology (first assessment 2019): **"the influence of globalization on individual attitudes, identities and behaviour"**. It is examined only at HL. The [sociocultural approach study guide](/resources/ib-ib-dp-psychology-sociocultural-approach-study-guide/) covers enculturation, acculturation and cultural dimensions, which this extension builds on. Here you will find what globalisation means for psychology, three lines of research you can use, and how to evaluate them. The course described here has its last examination session in November 2026.
+This guide covers globalisation within the HL extension **Culture** of IB DP Psychology (first assessment 2027). The 2027 guide notes that cultural diffusion has raised questions about the effect of globalization on mental and physical health, identity and the nature of relationships. The HL extensions are assessed only at HL, on Paper 3. The 2019 course had "the influence of globalization on individual attitudes, identities and behaviour" as its HL extension, and this guide was written around that wording. The [sociocultural approach study guide](/resources/ib-ib-dp-psychology-sociocultural-approach-study-guide/) covers enculturation, acculturation and cultural dimensions, which this extension builds on. Here you will find what globalisation means for psychology, three lines of research you can use, and how to evaluate them. The 2019 course had its last examination session in November 2026.
 
 ## What globalisation means in psychology
 
@@ -75,9 +77,11 @@ This study is useful because it measures **behaviour** (real choices about money
 | Change over time | effects may differ by generation; cross-sectional data cannot show individual change |
 | Researcher bias | a Western research team may interpret local change as "Westernisation" too readily |
 
-## Worked example: planning a 22-mark essay
+## Worked example: planning a 15-mark discussion
 
-**Question:** "Discuss the influence of globalisation on one behaviour."
+Paper 3 Question 4 (15 marks) gives at least three sources and a stated claim, and asks you to discuss the validity of the claim using the sources and your own knowledge. The plan below is for a claim of that kind without the source booklet, so it shows the knowledge side of the answer.
+
+**Claim:** "Exposure to global media changes eating behaviour." Discuss the validity of this claim.
 
 1. **Focus:** define globalisation, choose eating behaviour and state the claim: exposure to global media can change attitudes to the body and eating.
 2. **Knowledge:** Arnett's bicultural identity as the framework; how global media might act through social comparison and observational learning, linking back to social cognitive theory.
@@ -95,7 +99,7 @@ This study is useful because it measures **behaviour** (real choices about money
 
 ## Exam technique
 
-The extension can be set as the HL Paper 1 essay, so prepare at least two studies with a strength and a limitation for each. **Discuss** needs a balanced view, **evaluate** a judgement on the strength of the evidence and **to what extent** a conclusion about degree. Name the attitude, identity or behaviour in your first paragraph, and return to it in every paragraph.
+The HL extensions are assessed on Paper 3 (1 hour 45 minutes, 30 marks, HL only). It has four source-based questions on quantitative and qualitative findings that focus on one extension, here culture: one issue that limits the interpretation of a source (3 marks), analysis of the findings of one source with a conclusion (6 marks), a research consideration such as credibility, bias or transferability (6 marks), and a synthesis of at least three sources to discuss the validity of a claim (15 marks). Knowledge of the extension is assessed through its application to unseen material, so prepare at least two studies with a strength and a limitation for each, and practise reading graphs, tables and qualitative extracts. **Discuss** needs a balanced view, **evaluate** a judgement on the strength of the evidence and **to what extent** a conclusion about degree. Name the attitude, identity or behaviour in your first paragraph, and return to it in every paragraph.
 
 ## Related pages
 

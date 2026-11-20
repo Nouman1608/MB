@@ -14,10 +14,8 @@ syllabusTopics:
     topic: "ib-dp-psychology-psychology-of-human-relationships"
 description: "Original IB DP practice on bystanderism: the decision model, inhibiting processes, an invented field study to analyse, social identity and a 22-mark essay plan."
 author: "marlbridge-academic-team"
-reviewer: "kanwal-aslam"
-reviewStatus: "reviewed"
-reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewStatus: "archived"
+reviewNote: "2026-11-20: archived: it practises bystanderism, a content point in the social responsibility topic of the 2019 Psychology of human relationships option, with a 22-mark Paper 2 essay, and the 2027 course has no options and does not list bystanderism."
 publishedDate: 2026-11-18
 featured: false
 ---

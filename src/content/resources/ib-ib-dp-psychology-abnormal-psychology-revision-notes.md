@@ -15,10 +15,8 @@ syllabusTopics:
     topic: "ib-dp-psychology-abnormal-psychology"
 description: "Revision notes for the IB DP Psychology abnormal psychology option: diagnosis, validity and bias, explanations of depression, prevalence and treatment research."
 author: "marlbridge-academic-team"
-reviewer: "kanwal-aslam"
-reviewStatus: "reviewed"
-reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Check study details and figures against the original papers and the IB Psychology guide (first assessment 2019) before teacher sign-off."
+reviewStatus: "archived"
+reviewNote: "2026-11-20: archived: it teaches the 2019 Abnormal psychology option (definitions of abnormality, diagnosis, explanations of depression and treatment, examined in 22-mark Paper 2 essays), and the 2027 course has no options and does not include the diagnosis and classification content."
 publishedDate: 2026-11-08
 featured: false
 ---

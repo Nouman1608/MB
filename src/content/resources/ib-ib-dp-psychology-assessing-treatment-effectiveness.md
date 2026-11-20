@@ -1,18 +1,20 @@
 ---
-title: "IB DP Psychology (2019): Assessing the Effectiveness of Treatment"
+title: "IB DP Psychology: Assessing the Effectiveness of Treatment"
 resourceType: "study-guides"
 subject: "psychology"
 level: ["ib"]
-topic: "Topic 5: Option: Abnormal psychology"
+topic: "Context -- Health and well-being (prevention and treatment)"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: ["DP Psychology (2019) / DP Psychology (2027)"]
-syllabusSeries: "First assessment 2019"
+syllabusCodes: ["DP Psychology (2027)", "DP Psychology (2019) / DP Psychology (2027)"]
+syllabusSeries: "First assessment 2027"
 order: 5.1
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-psychology-abnormal-psychology"
-description: "How to judge treatment research for IB DP abnormal psychology: trial design, outcome measures, bias and the TADS and relapse studies, with a 22-mark plan."
+  - qualification: "ib-dp"
+    topic: "ib-dp-psychology-2027-health-and-well-being"
+description: "How to judge treatment research for IB DP Psychology health and well-being: trial design, outcome measures, bias and the TADS and relapse studies, with a 15-mark plan."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
@@ -22,7 +24,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide covers one content point of the abnormal psychology option in IB DP Psychology (first assessment 2019): **"assessing the effectiveness of treatment(s)"**, part of the topic "treatment of disorders". The [abnormal psychology study guide](/resources/ib-ib-dp-psychology-abnormal-psychology-study-guide/) describes biological and psychological treatments of depression. This page is about the next step: how researchers decide whether a treatment works, what can make a result misleading, and how to use that knowledge in an essay. Major depressive disorder is used as the example throughout, as on the option's other pages. The course described here has its last examination session in November 2026.
+This guide covers the effectiveness of treatment, part of "Prevention and treatment" in the health and well-being context of IB DP Psychology (first assessment 2027). There students study the explanation and effectiveness of one or more biological treatments and one or more psychological treatments of mental health disorders, and the guide lists major depressive disorder among the disorders that can be studied. "Effectiveness of treatment" is also one of the related terms for the concept of change. This page is about how researchers decide whether a treatment works, what can make a result misleading, and how to use that knowledge in an extended response. Major depressive disorder is used as the example throughout.
 
 ## Efficacy and effectiveness
 
@@ -31,7 +33,7 @@ Two words are often confused:
 - **Efficacy** is whether a treatment works under ideal, controlled conditions, such as a randomised controlled trial with carefully selected patients and trained therapists.
 - **Effectiveness** is whether it works in ordinary clinical practice, with patients who may have several conditions, therapists of varying skill and less regular attendance.
 
-A treatment can show strong efficacy and weaker effectiveness. The content point uses "effectiveness" broadly, but naming the distinction is a quick way to show critical thinking.
+A treatment can show strong efficacy and weaker effectiveness. The learning objective uses "effectiveness" broadly, but naming the distinction is a quick way to show critical thinking.
 
 ## How effectiveness is measured
 
@@ -62,7 +64,7 @@ The **Treatment for Adolescents with Depression Study** (TADS Team, 2004) is use
 
 ## Relapse as an outcome: Hollon et al. (2005)
 
-**DeRubeis et al. (2005)** found cognitive therapy as effective as medication for moderate to severe depression after 16 weeks, as the option's revision notes record. **Hollon et al. (2005)** followed the patients who had responded. Those who had responded to cognitive therapy and then stopped it were less likely to relapse than those who had responded to medication and were then switched to placebo, and about as likely to stay well as those who continued medication.
+**DeRubeis et al. (2005)** found cognitive therapy as effective as medication for moderate to severe depression after 16 weeks, as the revision notes record. **Hollon et al. (2005)** followed the patients who had responded. Those who had responded to cognitive therapy and then stopped it were less likely to relapse than those who had responded to medication and were then switched to placebo, and about as likely to stay well as those who continued medication.
 
 This illustrates why one measurement point is not enough. A treatment's effect during treatment and its effect after treatment ends are different questions, and the answer to the second may favour psychological treatment.
 
@@ -78,11 +80,11 @@ This illustrates why one measurement point is not enough. A treatment's effect d
 
 A **meta-analysis** combines the results of many trials to estimate an average effect. Its strengths are a large combined sample and a view across different settings. Its weaknesses are that it is only as good as the studies included ("garbage in, garbage out"), that publication bias can distort the pool, and that trials with different patients, doses and measures are being averaged. Kirsch et al. (2008) shows the value of including unpublished data; it also shows that a single average can hide differences, since the advantage over placebo was larger in severe depression.
 
-## Worked example: planning a 22-mark essay
+## Worked example: planning a 15-mark extended response
 
-**Question:** "Evaluate research on the effectiveness of two treatments for one disorder."
+**Question:** "Evaluate research on the effectiveness of two treatments for one disorder, with reference to the concept of change." **[15]**
 
-1. **Focus:** major depressive disorder; one biological treatment (SSRIs) and one psychological treatment (CBT); state that judging effectiveness depends on how and when it is measured.
+1. **Focus:** major depressive disorder; one biological treatment (SSRIs) and one psychological treatment (CBT); state that judging effectiveness depends on how and when it is measured, and link this to the concept of change (intervention and the effectiveness of treatment).
 2. **Knowledge:** outline each treatment briefly; define efficacy, effectiveness, response, remission and relapse.
 3. **Research:** TADS (2004) for a direct four-way comparison; DeRubeis et al. (2005) and Hollon et al. (2005) for comparison during and after treatment; Kirsch et al. (2008) for the placebo question.
 4. **Critical thinking:** time of measurement; blinding is impossible for therapy; publication bias and allegiance; trial samples versus clinic patients; adolescent and adult findings differ.
@@ -98,10 +100,9 @@ A **meta-analysis** combines the results of many trials to estimate an average e
 
 ## Exam technique
 
-**Evaluate** asks for a judgement about how strong the evidence is, so for each study say what it shows and how much weight it deserves. **Discuss** asks for a range of arguments, and **contrast** for differences between two treatments throughout. Always name the disorder. Organise the essay around questions (does it work better than placebo, does it last, does it work in practice) rather than study by study.
+**Evaluate** asks for a judgement about how strong the evidence is, so for each study say what it shows and how much weight it deserves. **Discuss** asks for a range of arguments, and **compare and contrast** for similarities and differences between two treatments, referring to both throughout. Always name the disorder. Organise the essay around questions (does it work better than placebo, does it last, does it work in practice) rather than study by study.
 
 ## Related pages
 
 - [Assessing treatment effectiveness: revision notes](/resources/ib-ib-dp-psychology-assessing-treatment-effectiveness-revision-notes/)
 - [Assessing treatment effectiveness: practice questions](/resources/ib-ib-dp-psychology-assessing-treatment-effectiveness-practice/)
-- [Abnormal psychology revision notes](/resources/ib-ib-dp-psychology-abnormal-psychology-revision-notes/)

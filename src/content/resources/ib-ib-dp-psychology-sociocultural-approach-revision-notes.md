@@ -1,18 +1,20 @@
 ---
-title: "IB DP Psychology: Sociocultural approach to understanding behaviour -- Revision Notes"
+title: "IB DP Psychology: Sociocultural approach -- Revision Notes"
 seoTitle: "IB DP Psychology Sociocultural Approach Revision Notes"
 resourceType: "revision-notes"
 subject: "psychology"
 level: ["ib"]
-topic: "Topic 3: Sociocultural approach to understanding behaviour"
+topic: "Content: Sociocultural approach"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: ["DP Psychology (2019) / DP Psychology (2027)"]
-syllabusSeries: "First assessment 2019"
+syllabusCodes: ["DP Psychology (2027)", "DP Psychology (2019) / DP Psychology (2027)"]
+syllabusSeries: "First assessment 2027"
 order: 3
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-psychology-sociocultural-approach"
+  - qualification: "ib-dp"
+    topic: "ib-dp-psychology-2027-sociocultural-approach"
 description: "Revision notes for the IB DP Psychology sociocultural approach: social identity, social cognitive theory, stereotypes, culture, enculturation and acculturation."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
@@ -23,22 +25,25 @@ publishedDate: 2026-11-08
 featured: false
 ---
 
-> **Course note:** these notes follow IB DP Psychology for **first assessment 2019**, whose last
-> examination session is November 2026. The replacement course is first assessed in May 2027.
+> **Course note:** these notes follow IB DP Psychology for **first assessment 2027** (first examinations
+> May 2027). They were first written for the 2019 course, whose last examination session was
+> November 2026. The 2027 guide lists the terms to know and has no list of required studies, so the
+> studies below are examples of evidence.
 
-The sociocultural approach explains behaviour through the groups people belong to and the cultures they live in. In IB DP Psychology it is one of three core approaches, examined on Paper 1 through a 9-mark short-answer question and a possible 22-mark essay, so you need each theory linked to at least one study that you can describe and evaluate.
+The sociocultural approach explains behaviour through the groups people belong to and the cultures they live in. In IB DP Psychology it is one of three content approaches. It is examined on Paper 1 Section A (two compulsory short-answer questions drawn from two of the three content areas, 8 marks in all) and used again in Sections B and C through the contexts. Paper 1 does not assess the details of research studies, so link each theory to an example that you can explain and evaluate.
 
-Related: [Sociocultural approach study guide](/resources/ib-ib-dp-psychology-sociocultural-approach-study-guide/) and
-[practice questions](/resources/ib-ib-dp-psychology-sociocultural-approach-practice/).
+Related: [Sociocultural approach study guide](/resources/ib-ib-dp-psychology-sociocultural-approach-study-guide/).
 
-## Syllabus coverage (first assessment 2019)
+## Coverage in the 2027 guide
 
-| Topic | Content | Core studies to know |
+| Terms in the 2027 guide | Content in these notes | Example evidence |
 |---|---|---|
-| The individual and the group | Social identity theory; social cognitive theory; formation of stereotypes and their effect on behaviour | Tajfel et al. (1971); Abrams et al. (1990); Bandura, Ross and Ross (1961); Hamilton and Gifford (1976); Steele and Aronson (1995) |
-| Cultural origins of behaviour and cognition | Culture and its influence on behaviour and cognition; cultural dimensions | Berry (1967); Hofstede's dimensions |
-| Cultural influences on individual attitudes, identity and behaviours | Enculturation; acculturation | Fernald and Morikawa (1993); Berry's acculturation model; Lueck and Wilson (2011) |
-| HL extension | The influence of globalization on individual attitudes, identities and behaviour | Arnett (2002) on bicultural identity |
+| Social identity theory; social learning theory | Social identity theory; social cognitive theory (Bandura) | Tajfel et al. (1971); Abrams et al. (1990); Bandura, Ross and Ross (1961) |
+| Cultural dimensions; emic and etic approaches | Culture and its influence on behaviour and cognition; cultural dimensions | Berry (1967); Hofstede's dimensions |
+| Enculturation; models of acculturation | Enculturation; acculturation | Fernald and Morikawa (1993); Berry's acculturation model; Lueck and Wilson (2011) |
+| Not listed in the 2027 guide | Formation of stereotypes and their effect on behaviour (supporting material) | Hamilton and Gifford (1976); Steele and Aronson (1995) |
+| Listed, but not covered in these notes | Cognitive dissonance; compliance techniques; conformity | Abrams et al. (1990) touches on conformity |
+| HL extension: Culture (HL only, Paper 3) | The influence of globalization on individual attitudes, identities and behaviour | Arnett (2002) on bicultural identity |
 
 ## Key terms
 
@@ -97,35 +102,35 @@ Related: [Sociocultural approach study guide](/resources/ib-ib-dp-psychology-soc
   <figcaption>Two questions give integration, assimilation, separation and marginalisation.</figcaption>
 </figure>
 
-## Worked example: a 9-mark SAQ outline
+## Worked example: a Section A answer outline
 
-**Question:** Explain the formation of stereotypes, with reference to one study.
+**Question:** Explain social identity theory and give an example. **[4]**
 
-1. **Define** stereotype and state the explanation: illusory correlation, a cognitive bias in which distinctive events (rare behaviours by a minority group) are over-remembered.
-2. **Describe the study:** Hamilton and Gifford (1976) presented statements about two groups, one twice as large as the other, with the same proportion of desirable to undesirable behaviours in each.
-3. **Results:** participants overestimated how many undesirable behaviours belonged to the smaller group.
-4. **Link back:** shows that stereotypes can form from normal information processing, without any real group difference.
+1. **Define** the theory: part of a person's self-concept comes from the groups they belong to.
+2. **Explain the processes:** social categorisation sorts people into in-groups and out-groups, social identification adopts the group's identity, and social comparison favours the in-group to keep a positive social identity, which can lead to in-group bias.
+3. **Give an example and explain it:** in the minimal group study (Tajfel et al., 1971), schoolboys placed in groups on a trivial basis gave more points to their own group, which shows that categorisation alone can produce in-group favouritism.
+4. **Link back:** say what the example shows about the theory.
 
-SAQs reward explanation linked to research; evaluation is not required for a top-band SAQ.
+Section A is marked on how detailed your knowledge of the theory is and on whether the example is relevant and explained. The details of the study are not assessed, and evaluation is not required.
 
 ## Common mistakes / exam traps
 
 - **Describing SIT without its processes.** Name categorisation, identification and comparison.
 - **Confusing enculturation and acculturation.** Enculturation is learning your own culture; acculturation follows contact with another.
 - **Treating Hofstede's dimensions as personal traits.** They describe national averages.
-- **Evaluating in an SAQ.** "Explain" and "describe" SAQs need explanation, not critique; save evaluation for the 22-mark essay.
+- **Evaluating in Section A.** "Explain" and "describe" questions need explanation and an explained example, not critique; save evaluation for Section C.
 - **Studies without links.** Every study should end with a sentence that answers the question.
 
 ## Frequently asked questions
 
 **How is the sociocultural approach examined?**
-On Paper 1: Section A contains one 9-mark SAQ on each core approach, and Section B offers three 22-mark essays, of which you answer one.
+On Paper 1 (1 hour 30 minutes, 35 marks): Section A has two compulsory short-answer questions drawn from two of the three content areas (8 marks in all); Section B has two compulsory questions that apply content to an unseen situation, each from one of four contexts (12 marks); Section C offers a choice of two concept-based extended-response questions, each from a different context (15 marks).
 
-**How many studies should I learn per content point?**
-At least one per point, ideally two, so that you can describe one and evaluate with the other.
+**How many studies should I learn per term?**
+The 2027 guide has no list of required studies and Paper 1 does not assess the details of studies. Learn one example per term that you can explain well, and a second that you can use to evaluate or contrast.
 
-**What is the HL extension for this approach?**
-The influence of globalization on individual attitudes, identities and behaviour.
+**What is the HL extension that relates to this approach?**
+The 2027 HL extension on culture, which is assessed on Paper 3 (HL only). The guide notes that cultural diffusion has raised questions about the effect of globalization on mental and physical health, identity and relationships; see the globalisation study guide.
 
 ## Self-test
 

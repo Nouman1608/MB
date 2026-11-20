@@ -3,19 +3,19 @@
   "totals": {
     "rubricVersion": "1.0.0",
     "scope": "src/content/resources (articles and the AP library are not in scope for v1)",
-    "resources": 17941,
+    "resources": 18165,
     "qaState": {
       "BLOCKED": 0,
       "REVERIFICATION_REQUIRED": 0,
       "REVISION_REQUIRED": 0,
       "ACADEMIC_REVIEW_PENDING": 0,
       "VERIFIED_APPROVED": 4,
-      "AUTOMATED_CHECK_COMPLETE": 17937,
+      "AUTOMATED_CHECK_COMPLETE": 18161,
       "NOT_ASSESSED": 0
     },
     "scoreStatus": {
       "COMPLETE": 4,
-      "NOT_SCORED": 17937
+      "NOT_SCORED": 18161
     },
     "withCompleteCurrentScore": 4,
     "meanScore": 92.9,
@@ -30,22 +30,22 @@
     "needingRevision": 0,
     "withOpenHardStop": 0,
     "verificationKinds": {
-      "automatedStructuralPass": 17331,
+      "automatedStructuralPass": 17555,
       "automatedStructuralWarn": 610,
       "automatedStructuralFail": 0,
       "repositorySpecificationCheck": 785,
-      "accountableTeacherCredited": 17932,
+      "accountableTeacherCredited": 18138,
       "aiAssistedAssessmentCurrent": 4,
       "humanAssessmentCurrent": 0,
       "documentedTeacherVerification": 4,
       "finalApproval": 4
     },
     "ledgerOutcome": {
-      "ARCHIVED": 9,
+      "ARCHIVED": 23,
       "REPO_PARTIAL_UNVERIFIABLE": 154,
       "REPO_VERIFIED": 588,
       "REPO_VERIFIED_AFTER_CORRECTION": 43,
-      "TEACHER_CREDITED": 17147
+      "TEACHER_CREDITED": 17357
     },
     "findingsOpenBySeverity": {
       "advisory": 5,
@@ -59,9 +59,9 @@
     "riskTier": {
       "4": 154,
       "5": 219,
-      "6": 5851,
+      "6": 5926,
       "7": 5528,
-      "8": 6189
+      "8": 6338
     },
     "searchMetadataCoverageClaims": {
       "NEEDS_REVIEW": 7,
@@ -111,13 +111,13 @@
       "scored": 0
     },
     "ib": {
-      "resources": 1815,
+      "resources": 2039,
       "BLOCKED": 0,
       "REVERIFICATION_REQUIRED": 0,
       "REVISION_REQUIRED": 0,
       "ACADEMIC_REVIEW_PENDING": 0,
       "VERIFIED_APPROVED": 0,
-      "AUTOMATED_CHECK_COMPLETE": 1815,
+      "AUTOMATED_CHECK_COMPLETE": 2039,
       "NOT_ASSESSED": 0,
       "scored": 0
     },
@@ -179,13 +179,13 @@
       "scored": 0
     },
     "ib-dp": {
-      "resources": 1585,
+      "resources": 1809,
       "BLOCKED": 0,
       "REVERIFICATION_REQUIRED": 0,
       "REVISION_REQUIRED": 0,
       "ACADEMIC_REVIEW_PENDING": 0,
       "VERIFIED_APPROVED": 0,
-      "AUTOMATED_CHECK_COMPLETE": 1585,
+      "AUTOMATED_CHECK_COMPLETE": 1809,
       "NOT_ASSESSED": 0,
       "scored": 0
     },
@@ -247,35 +247,35 @@
       "scored": 0
     },
     "practice-questions": {
-      "resources": 5896,
+      "resources": 5971,
       "BLOCKED": 0,
       "REVERIFICATION_REQUIRED": 0,
       "REVISION_REQUIRED": 0,
       "ACADEMIC_REVIEW_PENDING": 0,
       "VERIFIED_APPROVED": 2,
-      "AUTOMATED_CHECK_COMPLETE": 5894,
+      "AUTOMATED_CHECK_COMPLETE": 5969,
       "NOT_ASSESSED": 0,
       "scored": 2
     },
     "revision-notes": {
-      "resources": 5748,
+      "resources": 5822,
       "BLOCKED": 0,
       "REVERIFICATION_REQUIRED": 0,
       "REVISION_REQUIRED": 0,
       "ACADEMIC_REVIEW_PENDING": 0,
       "VERIFIED_APPROVED": 0,
-      "AUTOMATED_CHECK_COMPLETE": 5748,
+      "AUTOMATED_CHECK_COMPLETE": 5822,
       "NOT_ASSESSED": 0,
       "scored": 0
     },
     "study-guides": {
-      "resources": 5908,
+      "resources": 5983,
       "BLOCKED": 0,
       "REVERIFICATION_REQUIRED": 0,
       "REVISION_REQUIRED": 0,
       "ACADEMIC_REVIEW_PENDING": 0,
       "VERIFIED_APPROVED": 2,
-      "AUTOMATED_CHECK_COMPLETE": 5906,
+      "AUTOMATED_CHECK_COMPLETE": 5981,
       "NOT_ASSESSED": 0,
       "scored": 2
     },
@@ -612,13 +612,13 @@
       "scored": 0
     },
     "psychology": {
-      "resources": 339,
+      "resources": 386,
       "BLOCKED": 0,
       "REVERIFICATION_REQUIRED": 0,
       "REVISION_REQUIRED": 0,
       "ACADEMIC_REVIEW_PENDING": 0,
       "VERIFIED_APPROVED": 1,
-      "AUTOMATED_CHECK_COMPLETE": 338,
+      "AUTOMATED_CHECK_COMPLETE": 385,
       "NOT_ASSESSED": 0,
       "scored": 1
     },
@@ -656,13 +656,13 @@
       "scored": 0
     },
     "world-history": {
-      "resources": 455,
+      "resources": 632,
       "BLOCKED": 0,
       "REVERIFICATION_REQUIRED": 0,
       "REVISION_REQUIRED": 0,
       "ACADEMIC_REVIEW_PENDING": 0,
       "VERIFIED_APPROVED": 0,
-      "AUTOMATED_CHECK_COMPLETE": 455,
+      "AUTOMATED_CHECK_COMPLETE": 632,
       "NOT_ASSESSED": 0,
       "scored": 0
     }

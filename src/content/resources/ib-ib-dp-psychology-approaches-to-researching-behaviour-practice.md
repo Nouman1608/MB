@@ -15,10 +15,8 @@ syllabusTopics:
     topic: "ib-dp-psychology-approaches-to-researching-behaviour"
 description: "Two original IB DP Psychology HL Paper 3-style study summaries, one quantitative and one qualitative, with 24-mark question sets and full model answers."
 author: "marlbridge-academic-team"
-reviewer: "kanwal-aslam"
-reviewStatus: "reviewed"
-reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Check the Paper 3 question pattern and model answers against the IB Psychology guide (first assessment 2019) and a recent Paper 3 markscheme before teacher sign-off. 2026-11-08 recheck: Question 3 can be generalisation, credibility or bias and Question 2 has a reporting-ethics variant; Study 2 now uses the credibility question."
+reviewStatus: "archived"
+reviewNote: "2026-11-20: archived: it follows the 2019 HL Paper 3 pattern (three questions on an unseen study summary, 24 marks), and the 2027 Paper 3 is a different four-question source-based paper marked out of 30."
 publishedDate: 2026-11-08
 featured: false
 ---

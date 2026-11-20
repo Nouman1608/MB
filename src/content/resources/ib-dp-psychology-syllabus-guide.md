@@ -28,10 +28,8 @@ syllabusTopics:
     topic: "ib-dp-psychology-psychology-of-human-relationships"
 description: "Syllabus guide to IB DP Psychology (first assessment 2019): the core approaches, research methods and four options, with SL and HL teaching hours."
 author: "marlbridge-academic-team"
-reviewer: "kanwal-aslam"
-reviewStatus: "reviewed"
-reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewStatus: "archived"
+reviewNote: "2026-11-20: archived: it sets out the 2019 syllabus structure (core approaches, approaches to researching behaviour and the four options with their teaching hours), and the 2027 course replaces it with concepts, content, contexts and HL extensions."
 publishedDate: 2026-09-02
 featured: false
 ---
