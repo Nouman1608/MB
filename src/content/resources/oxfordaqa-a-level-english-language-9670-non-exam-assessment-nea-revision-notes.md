@@ -102,12 +102,12 @@ References and the appendix are outside the word count.
 
 ## Method section checklist
 
-- [ ] What data and how much.
-- [ ] Why this data suits the aim.
-- [ ] How and when it was collected.
-- [ ] Consent and anonymity where people are involved.
-- [ ] Transcription conventions if speech is recorded.
-- [ ] The frameworks and levels to be used.
+- What data and how much.
+- Why this data suits the aim.
+- How and when it was collected.
+- Consent and anonymity where people are involved.
+- Transcription conventions if speech is recorded.
+- The frameworks and levels to be used.
 
 ## A suggested timeline (Marlbridge suggestion)
 

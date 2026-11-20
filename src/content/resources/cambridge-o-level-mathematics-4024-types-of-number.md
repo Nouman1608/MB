@@ -24,7 +24,7 @@ featured: false
 
 This guide covers subtopic **1.1 Types of number** in Topic 1, Number, of Cambridge O Level Mathematics (Syllabus D) 4024, 2025 to 2027 series. The [Number revision notes](/resources/o-level-mathematics-number-revision-notes/) summarise the whole topic. This page goes further on one idea: how to recognise each kind of number and how to use factors and multiples to solve problems without a calculator.
 
-Companion pages: the [Types of number revision notes](/resources/cambridge-o-level-mathematics-4024-types-of-number-revision-notes/) and the [Types of number practice questions](/resources/cambridge-o-level-mathematics-4024-types-of-number-practice/).
+Companion pages: the [Number revision notes](/resources/o-level-mathematics-number-revision-notes/) and the [Types of number practice questions](/resources/cambridge-o-level-mathematics-4024-types-of-number-practice/).
 
 ## What the syllabus asks
 

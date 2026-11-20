@@ -137,12 +137,12 @@ In every stem, the area gives you the topic, the aspect narrows it, and the verb
 
 ## Checklist before you finish each answer
 
-- [ ] The first sentence answers the question.
-- [ ] Every paragraph names a method and explains its effect.
-- [ ] At least one place where you allow another reading.
-- [ ] Short quotations, correctly copied.
-- [ ] The last line of the text has been considered.
-- [ ] No retelling of the plot or paraphrase of the poem.
+- The first sentence answers the question.
+- Every paragraph names a method and explains its effect.
+- At least one place where you allow another reading.
+- Short quotations, correctly copied.
+- The last line of the text has been considered.
+- No retelling of the plot or paraphrase of the poem.
 
 ## Quick self-test
 

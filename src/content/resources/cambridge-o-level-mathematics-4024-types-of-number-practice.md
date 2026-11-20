@@ -30,7 +30,7 @@ featured: false
 
 These questions cover subtopic 1.1 Types of number of Cambridge O Level Mathematics (Syllabus D) 4024, 2025 to 2027. All are non-calculator, as they could appear on Paper 1. Show your working.
 
-Related: [Types of number study guide](/resources/cambridge-o-level-mathematics-4024-types-of-number/) | [Types of number revision notes](/resources/cambridge-o-level-mathematics-4024-types-of-number-revision-notes/)
+Related: [Types of number study guide](/resources/cambridge-o-level-mathematics-4024-types-of-number/) | [Number revision notes](/resources/o-level-mathematics-number-revision-notes/)
 
 ## Section A
 
