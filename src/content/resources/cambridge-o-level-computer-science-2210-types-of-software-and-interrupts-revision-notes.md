@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "types-of-software-and-interrupts-2210"
 description: "Revision notes for Cambridge O Level Computer Science 2210 section 4.1: system and application software, operating system functions, the software stack, interrupts and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

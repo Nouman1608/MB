@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "benefits-and-risks-of-artificial-intelligence-oxfordaqa-alevel-cs"
 description: "Recall notes for OxfordAQA 9645 sub-topic 3.16.3: benefits and risks of AI, worked examples, a method for balanced answers and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

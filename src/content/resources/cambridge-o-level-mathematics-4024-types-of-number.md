@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "types-of-number-4024"
 description: "Cambridge O Level Maths 4024 subtopic 1.1 in depth: natural numbers, integers, primes, prime factors, HCF, LCM, square and cube numbers, rational and irrational numbers and reciprocals."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "analysing-the-external-environment-to-assess-opportunities-and-threats-the-competitive-environment-aqa-alevel-business"
 description: "Condensed recall for AQA A-level Business 7132 section 3.7.7: Porter's five forces, what makes each strong, how they change and their effect on strategy and profit."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

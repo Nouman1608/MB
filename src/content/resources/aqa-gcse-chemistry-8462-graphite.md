@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "graphite-8462"
 description: "AQA GCSE Chemistry 8462 section 4.2.3.2 in depth: layers of hexagonal rings, three covalent bonds per carbon atom, delocalised electrons, and how these explain graphite's properties."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

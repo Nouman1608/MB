@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "energetics-4ch1"
 description: "Twelve original 4CH1 energetics questions on calorimetry, Q = mcΔT, molar enthalpy change, energy level diagrams and bond energies, with full answers."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

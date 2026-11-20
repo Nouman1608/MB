@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "electrode-potentials-and-cells-7405"
 description: "AQA 7405 electrode potentials and cells in depth: half-equations, the standard hydrogen electrode, standard conditions, cell notation, calculating EMF and predicting the direction of redox reactions."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

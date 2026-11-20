@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "shapes-of-simple-molecules-and-ions-7405"
 description: "AQA 7405 shapes of simple molecules and ions in depth: counting electron pairs, the repulsion rule, shapes and bond angles for two to six pairs, ions and multiple bonds."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

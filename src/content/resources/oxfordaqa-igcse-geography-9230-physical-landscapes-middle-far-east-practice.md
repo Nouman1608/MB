@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "physical-landscapes-in-middle-and-far-east-9230"
 description: "Original exam-style questions on the physical landscapes of the Middle and Far East for OxfordAQA IGCSE Geography 9230: uplands, lowlands and rivers."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: answers use widely quoted approximate facts about the region (heights, river lengths, locations). Check them against your atlas and class notes."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: answers use widely quoted approximate facts about the region (heights, river lengths, locations). Check them against your atlas and class notes."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

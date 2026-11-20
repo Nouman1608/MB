@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "fractional-distillation-of-crude-oil-7405"
 description: "Condensed AQA 7405 notes on alkanes, crude oil as a mixture, how fractional distillation works and why boiling points rise with chain length, with exam traps and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

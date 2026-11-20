@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "checking-the-accuracy-of-data"
 description: "Cambridge 9626 IT section 1.4 study guide: nine validation checks, five verification methods, the difference between them and why both are needed, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

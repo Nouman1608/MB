@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "use-of-amount-of-substance-in-relation-to-volumes-of-gases-8462"
 description: "AQA GCSE Chemistry 8462 section 4.3.5 (Higher tier) in depth: molar gas volume at room temperature and pressure, gas volumes from masses and from equations."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

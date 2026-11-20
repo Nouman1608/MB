@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "coordination-and-response-in-plants-content"
 description: "Deeper guide to 5090 subtopic 15.1: gravitropism, phototropism, the role of auxin in shoot growth and how to investigate tropic responses."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

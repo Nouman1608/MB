@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "chemical-measurements-conservation-of-mass-and-the-quantitative-interpretation-of-chemical-equations-8462"
 description: "AQA GCSE Chemistry 8462 section 4.3.1 in depth: conservation of mass, balancing equations, relative formula mass, percentage by mass, mass changes with gases and uncertainty."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

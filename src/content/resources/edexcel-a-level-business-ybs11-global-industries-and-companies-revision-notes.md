@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "global-industries-and-companies-ybs11"
 description: "Revision notes for Edexcel IAL Business 4.3.4: impact of MNCs on local and national economies, international business ethics and the control of MNCs, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

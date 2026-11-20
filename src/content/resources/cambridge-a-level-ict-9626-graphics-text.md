@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "text"
 description: "Study guide to section 19.5 of Cambridge A Level IT 9626: font style, kerning, spacing, text on a path, text in a shape and converting text to curves."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

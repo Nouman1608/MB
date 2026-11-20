@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "human-gas-exchange-content"
 description: "Deeper guide to 5090 subtopic 9.1: gas exchange surfaces, air composition, the alveoli, breathing mechanics, the effect of exercise and the defences of the airways."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

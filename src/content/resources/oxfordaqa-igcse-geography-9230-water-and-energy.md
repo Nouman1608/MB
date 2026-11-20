@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "water-and-energy-9230"
 description: "Water and energy resources for OxfordAQA IGCSE Geography 9230: supply and demand, insecurity, strategies, sustainability and four worked examples."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the specification asks for four examples (large-scale water transfer, local water scheme in an LIC or NEE, fossil fuel extraction, local renewable energy scheme in an LIC or NEE) but does not fix places. This page uses the South-North Water Transfer in China, sand dams in Kitui (Kenya), oil in the Niger Delta (Nigeria) and micro-hydro schemes in Nepal. Check every detail against your own notes."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: the specification asks for four examples (large-scale water transfer, local water scheme in an LIC or NEE, fossil fuel extraction, local renewable energy scheme in an LIC or NEE) but does not fix places. This page uses the South-North Water Transfer in China, sand dams in Kitui (Kenya), oil in the Niger Delta (Nigeria) and micro-hydro schemes in Nepal. Check every detail against your own notes."
 ---
 
 This guide covers section 3.2.3.1, Water and energy, in Section C (Global issues) of Unit 2 of the OxfordAQA International GCSE Geography (9230) specification, Version 4.3. In Section C, students study **either** Water and energy resources **or** Population and communication, so you only need this theme if your class chose the water and energy option. The key ideas are: "Demand for water resources is rising globally but supply can be insecure, which may lead to conflict" and "Different strategies can be used to increase water supply", with the same pair of ideas for energy. This page goes deeper than the unit-level material and gives four worked examples. If your class studied different examples, keep the same headings.

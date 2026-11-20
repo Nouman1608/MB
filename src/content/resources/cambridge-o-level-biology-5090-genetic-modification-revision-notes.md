@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "genetic-modification"
 description: "Condensed recall for 5090 subtopic 18.2: genetic modification, human insulin from bacteria, GM crops, advantages and risks, and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "carboxylic-acids-4ch1"
 description: "4CH1 carboxylic acids revision notes (Paper 2 only): the -COOH group, naming, reactions with metals and carbonates, and vinegar, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

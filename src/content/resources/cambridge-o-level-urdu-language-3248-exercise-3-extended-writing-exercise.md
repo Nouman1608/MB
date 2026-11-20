@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "exercise-3-extended-writing-exercise-3248"
 description: "How to plan and write about 200 words of continuous Urdu in 3248 Paper 2 Exercise 3: purpose, format, audience, paragraphs, register and accuracy."
 author: "marlbridge-academic-team"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to farheen-zehra (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

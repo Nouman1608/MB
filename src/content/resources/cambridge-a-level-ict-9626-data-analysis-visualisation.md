@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "data-analysis-and-visualisation-content"
 description: "Study guide to section 17.1 of Cambridge A Level IT 9626: cleaning and transforming data, combining sources, splitting and merging fields, pivot table reports and pivot charts."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

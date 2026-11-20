@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "sustainability-0715"
 description: "Recall notes for Cambridge IGCSE Commerce 0715 section 6.1: the purpose of sustainability in the supply chain and nine actions to improve it."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

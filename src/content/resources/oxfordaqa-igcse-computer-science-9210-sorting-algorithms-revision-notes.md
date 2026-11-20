@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "sorting-algorithms-9210"
 description: "Revision notes for OxfordAQA IGCSE Computer Science 9210 section 3.1.4: bubble sort with a swap flag, recursive merge sort in prose, a comparison and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

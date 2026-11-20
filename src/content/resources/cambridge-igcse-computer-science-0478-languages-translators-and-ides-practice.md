@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "types-of-programming-language-translators-and-integrated-development-environments-ides-0478"
 description: "Original questions with full answers on Cambridge IGCSE Computer Science 0478 section 4.2: high-level and low-level languages, translators and IDE features."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

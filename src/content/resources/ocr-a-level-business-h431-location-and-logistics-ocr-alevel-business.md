@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "location-and-logistics-ocr-alevel-business"
 description: "Study guide to location and logistics for OCR A Level Business H431: location factors, weighted comparison, supply chain and distribution, outsourcing, offshoring and re-shoring."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

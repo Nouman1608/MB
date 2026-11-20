@@ -22,21 +22,21 @@ Unassessed resources are not counted as passing: they have no score and are excl
 
 | State | Resources | Share | Meaning |
 | --- | --- | --- | --- |
-| BLOCKED | 2 | 0.0% | Structural FAIL, open error in the repository verification, or open hard-stop finding on current content |
+| BLOCKED | 0 | 0.0% | Structural FAIL, open error in the repository verification, or open hard-stop finding on current content |
 | REVERIFICATION_REQUIRED | 0 | 0.0% | Page changed after its assessment or teacher verification |
 | REVISION_REQUIRED | 0 | 0.0% | Score below 90, open major/critical finding, or teacher requested changes |
 | ACADEMIC_REVIEW_PENDING | 0 | 0.0% | Complete score >= 90 but no documented teacher approval yet (or approval without a score) |
 | VERIFIED_APPROVED | 4 | 0.0% | Documented teacher approval + complete score >= 90 + no open hard-stop or major finding (owner policy D-465) |
-| AUTOMATED_CHECK_COMPLETE | 17935 | 100.0% | Automated structural checks only; no complete rubric assessment |
+| AUTOMATED_CHECK_COMPLETE | 17937 | 100.0% | Automated structural checks only; no complete rubric assessment |
 | NOT_ASSESSED | 0 | 0.0% | Not in the academic-review ledger yet |
 
 ## Kinds of verification (kept separate; never added together)
 
 | Evidence | Resources | What it is not |
 | --- | --- | --- |
-| Automated structural checks: PASS / WARN / FAIL | 17329 / 610 / 2 | Not an academic accuracy check |
+| Automated structural checks: PASS / WARN / FAIL | 17331 / 610 / 0 | Not an academic accuracy check |
 | Repository-side specification check (pending-review-*.json) | 785 | Not a teacher review |
-| Accountable teacher credited (reviewStatus "reviewed", D-379) | 16054 | Not a dated line-by-line check |
+| Accountable teacher credited (reviewStatus "reviewed", D-379) | 17932 | Not a dated line-by-line check |
 | AI-assisted rubric assessment (current) | 4 | Not a teacher review; never an approval |
 | Human rubric assessment (current) | 0 | Not an approval on its own |
 | Documented teacher verification (teacher-verifications.json) | 4 | — |
@@ -76,7 +76,7 @@ Unassessed resources are not counted as passing: they have no score and are excl
 | Board | Resources | Scored | BLOCKED | REVERIFICATION_REQUIRED | REVISION_REQUIRED | ACADEMIC_REVIEW_PENDING | VERIFIED_APPROVED | AUTOMATED_CHECK_COMPLETE | NOT_ASSESSED |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | aqa | 2739 | 1 | 0 | 0 | 0 | 0 | 1 | 2738 | 0 |
-| cambridge | 6721 | 3 | 2 | 0 | 0 | 0 | 3 | 6716 | 0 |
+| cambridge | 6721 | 3 | 0 | 0 | 0 | 0 | 3 | 6718 | 0 |
 | edexcel | 1963 | 0 | 0 | 0 | 0 | 0 | 0 | 1963 | 0 |
 | ib | 1815 | 0 | 0 | 0 | 0 | 0 | 0 | 1815 | 0 |
 | ocr | 1674 | 0 | 0 | 0 | 0 | 0 | 0 | 1674 | 0 |
@@ -92,7 +92,7 @@ Unassessed resources are not counted as passing: they have no score and are excl
 | ib-dp | 1585 | 0 | 0 | 0 | 0 | 0 | 0 | 1585 | 0 |
 | ib-myp | 230 | 0 | 0 | 0 | 0 | 0 | 0 | 230 | 0 |
 | igcse | 4480 | 2 | 0 | 0 | 0 | 0 | 2 | 4478 | 0 |
-| o-level | 1980 | 1 | 2 | 0 | 0 | 0 | 1 | 1977 | 0 |
+| o-level | 1980 | 1 | 0 | 0 | 0 | 0 | 1 | 1979 | 0 |
 
 ## By resource type
 
@@ -100,23 +100,23 @@ Unassessed resources are not counted as passing: they have no score and are excl
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | exam-preparation | 165 | 0 | 0 | 0 | 0 | 0 | 0 | 165 | 0 |
 | past-papers | 59 | 0 | 0 | 0 | 0 | 0 | 0 | 59 | 0 |
-| practice-questions | 5896 | 2 | 1 | 0 | 0 | 0 | 2 | 5893 | 0 |
+| practice-questions | 5896 | 2 | 0 | 0 | 0 | 0 | 2 | 5894 | 0 |
 | revision-notes | 5748 | 0 | 0 | 0 | 0 | 0 | 0 | 5748 | 0 |
-| study-guides | 5908 | 2 | 1 | 0 | 0 | 0 | 2 | 5905 | 0 |
+| study-guides | 5908 | 2 | 0 | 0 | 0 | 0 | 2 | 5906 | 0 |
 | subject-guides | 165 | 0 | 0 | 0 | 0 | 0 | 0 | 165 | 0 |
 
 ## Risk-based queue
 
 | Tier | Meaning | Resources |
 | --- | --- | --- |
-| 1 | blocked (structural FAIL or open hard-stop) | 2 |
+| 1 | — | 0 |
 | 2 | — | 0 |
-| 3 | never verified against its specification | 1876 |
+| 3 | — | 0 |
 | 4 | partly unverifiable against a public source | 154 |
 | 5 | states assessment details (papers, marks, durations, thresholds) | 219 |
-| 6 | questions and worked answers | 5181 |
-| 7 | numerical / scientific content | 5202 |
-| 8 | routine | 5307 |
+| 6 | questions and worked answers | 5851 |
+| 7 | numerical / scientific content | 5528 |
+| 8 | routine | 6189 |
 
 Demand (traffic) is **unknown** for every resource: no reliable Search Console or analytics export is held in the repository, so it is not used. The ranked list is in [review-queue.md](review-queue.md).
 

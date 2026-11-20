@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "exercise-2-multiple-matching-3248"
 description: "Original practice for 3248 Paper 1 Exercise 2: paraphrase drills and a full multiple-matching task on five short paragraphs, with answers."
 author: "marlbridge-academic-team"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to farheen-zehra (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

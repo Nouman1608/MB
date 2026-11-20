@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "scale-drawings-4024"
 description: "Original practice questions with worked answers on 4024 section 4.3: scales, map and plan distances, area scales, three-figure bearings, back bearings and bearing triangles."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "carbon-compounds-as-fuels-and-feedstock-8462"
 description: "Ten original AQA GCSE Chemistry 8462 questions on section 4.7.1: crude oil, alkanes, fractional distillation, combustion equations, cracking and the bromine water test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

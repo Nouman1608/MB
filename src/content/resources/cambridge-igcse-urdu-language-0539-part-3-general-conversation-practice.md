@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "part-3-general-conversation-0539"
 description: "Original practice for 0539 Speaking Part 3: topic areas, developing opinions, two full 20-mark general conversations and a self-assessment task, with answers."
 author: "marlbridge-academic-team"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to farheen-zehra (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

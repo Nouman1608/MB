@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "diffusion-and-osmosis"
 description: "Condensed recall for 5090 subtopic 3.1: definitions, factors affecting diffusion, osmosis in plant and animal cells, the practicals and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

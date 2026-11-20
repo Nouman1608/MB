@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "the-internet-and-the-world-wide-web-0478"
 description: "Original questions with full answers on Cambridge IGCSE Computer Science 0478 section 5.1: URLs, HTTPS, browsers, DNS, web servers and cookies."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

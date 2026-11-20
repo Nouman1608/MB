@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "mail-merge-content"
 description: "Study guide to section 18.1 of Cambridge A Level IT 9626: data sources, master documents, merge fields, Fill-in and Ask fields, recipient rules and conditional fields."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

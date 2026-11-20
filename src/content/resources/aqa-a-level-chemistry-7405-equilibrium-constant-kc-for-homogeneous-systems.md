@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "equilibrium-constant-kc-for-homogeneous-systems-7405"
 description: "AQA 7405 equilibrium constant Kc in depth: writing expressions and units, calculating Kc from concentrations and moles, finding equilibrium amounts and the effect of temperature on Kc."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

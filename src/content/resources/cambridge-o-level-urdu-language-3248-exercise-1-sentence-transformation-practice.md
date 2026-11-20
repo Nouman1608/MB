@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "exercise-1-sentence-transformation-3248"
 description: "Original practice for 3248 Paper 2 Exercise 1: a full five-sentence transformation task and drills on voice, speech, tense and agreement, with answers."
 author: "marlbridge-academic-team"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to farheen-zehra (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

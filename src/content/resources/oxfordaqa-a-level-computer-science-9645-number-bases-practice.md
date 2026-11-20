@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "number-bases-oxfordaqa-alevel-cs"
 description: "Twelve original OxfordAQA 9645 questions on sub-topic 3.5.1 Number bases: converting between decimal, binary and hexadecimal, with full working."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "global-industries-and-companies-ybs11"
 description: "Study guide to Edexcel IAL Business 4.3.4: the impact of multinational corporations on local and national economies, international business ethics and ways of controlling MNCs."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

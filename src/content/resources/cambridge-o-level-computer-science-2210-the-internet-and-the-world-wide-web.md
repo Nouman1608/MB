@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "the-internet-and-the-world-wide-web-2210"
 description: "Study guide to Cambridge O Level Computer Science 2210 section 5.1: the internet and the web, URLs, HTTP and HTTPS, web browsers, how a web page is located and displayed, and cookies."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

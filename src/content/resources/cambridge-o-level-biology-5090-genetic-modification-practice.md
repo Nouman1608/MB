@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "genetic-modification"
 description: "Original practice questions with full answers on 5090 subtopic 18.2: genetic modification, insulin from bacteria, GM crops and their risks."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

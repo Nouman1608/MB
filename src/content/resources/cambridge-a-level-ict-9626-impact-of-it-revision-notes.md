@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "the-impact-of-it"
 description: "Revision notes for Cambridge 9626 IT section 12.4: the impact of IT on twelve areas of society and on monitoring and surveillance, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "software-classification-9210"
 description: "Study guide to OxfordAQA IGCSE Computer Science 9210 section 3.4.3: system and application software, operating systems, the five areas an OS manages and utility programs."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

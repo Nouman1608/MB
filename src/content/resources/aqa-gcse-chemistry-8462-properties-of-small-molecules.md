@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "properties-of-small-molecules-8462"
 description: "AQA GCSE Chemistry 8462 section 4.2.2.4 in depth: why small molecules have low melting and boiling points, how size changes them, and why they do not conduct."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

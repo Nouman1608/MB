@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "tree-algorithms-oxfordaqa-alevel-cs"
 description: "OxfordAQA 9645 sub-topic 3.11.2 in depth: tracing and coding pre-order, in-order and post-order traversal, with array trees, call traces and uses."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "ib-myp-individuals-and-societies-assessment-criteria-b-investigating"
 description: "Original IB MYP Individuals and Societies Criterion B practice: research questions, sub-questions, methods, questionnaire wording, action plans and evaluation, with answers."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

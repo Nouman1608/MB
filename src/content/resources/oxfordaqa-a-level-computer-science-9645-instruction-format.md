@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "instruction-format-oxfordaqa-alevel-cs"
 description: "OxfordAQA 9645 sub-topic 3.8.1 in depth: instruction sets, opcode, addressing mode and operands, bit fields, and immediate, direct and indirect addressing."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

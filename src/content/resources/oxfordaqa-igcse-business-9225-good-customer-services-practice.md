@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "good-customer-services-oxfordaqa-igcse-business"
 description: "Twelve original questions with answers on customer service methods, benefits, dangers and the use of ICT for OxfordAQA IGCSE Business 9225 3.3.4."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

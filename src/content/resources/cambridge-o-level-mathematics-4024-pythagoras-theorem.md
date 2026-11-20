@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "pythagoras-theorem-4024"
 description: "Study guide to 4024 section 6.1: Pythagoras' theorem in right-angled triangles, finding the hypotenuse or a shorter side, testing for right angles, exact answers and applications."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

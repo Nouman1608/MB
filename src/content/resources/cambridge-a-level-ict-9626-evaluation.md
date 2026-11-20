@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "evaluation"
 description: "Study guide to section 16.7 of Cambridge A Level IT 9626: judging a new system for efficiency, ease of use and appropriateness, using specifications, user requirements and user feedback."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "tropical-rainforests-9230"
 description: "Tropical rainforests for OxfordAQA IGCSE Geography 9230: climate, soils and adaptations, biodiversity, deforestation in the Amazon, and sustainable management."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the course does not fix a case-study place. This page uses the Amazon in Brazil. Check the deforestation figures (about 27,000 square km in 2004, under 5,000 in 2012, about 13,000 in 2021), the dates of the Trans-Amazonian highway, soy moratorium and Amazon Fund, and the Belo Monte dam against your own case-study notes."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: the course does not fix a case-study place. This page uses the Amazon in Brazil. Check the deforestation figures (about 27,000 square km in 2004, under 5,000 in 2012, about 13,000 in 2021), the dates of the Trans-Amazonian highway, soy moratorium and Amazon Fund, and the Belo Monte dam against your own case-study notes."
 ---
 
 This guide covers section 3.1.2.2, Tropical rainforests, in Section B (The living world) of Unit 1 of the OxfordAQA International GCSE Geography (9230) specification, Version 4.3. It has three key ideas: "Tropical rainforest ecosystems have a range of distinctive characteristics"; "Deforestation has economic and environmental impacts"; and "Tropical rainforests need to be managed to be sustainable." For the whole unit, start with the [Living with the Physical Environment study guide](/resources/igcse-oxfordaqa-geography-living-with-the-physical-environment/). For the general ecosystem ideas that this theme builds on, see the [ecosystems study guide](/resources/oxfordaqa-igcse-geography-9230-ecosystems/).

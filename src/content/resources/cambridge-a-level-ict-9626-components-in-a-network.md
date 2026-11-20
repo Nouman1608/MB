@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "components-in-a-network"
 description: "Cambridge 9626 IT section 14.2 study guide: the role and operation of network interface cards, repeaters, hubs, switches, access points, gateways, bridges and routers."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

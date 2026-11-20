@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "departmental-records-yac11"
 description: "Eleven original questions on departmental statements of profit or loss for Edexcel IAL Accounting (YAC11) 1.3.7, from apportionment to a closure recommendation, with full answers."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

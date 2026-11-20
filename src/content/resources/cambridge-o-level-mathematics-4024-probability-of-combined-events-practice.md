@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "probability-of-combined-events-4024"
 description: "Original practice questions with worked answers on 4024 section 8.3: sample spaces, Venn diagrams and tree diagrams, with and without replacement."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "ethics-0715"
 description: "Recall notes for Cambridge IGCSE Commerce 0715 section 6.2: the meaning of ethics, fair trade, misleading advertising and harmful disposal."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "logic-gates-7517"
 description: "Condensed AQA 7517 section 4.6.4 recall: gate truth tables and symbols, circuits and Boolean expressions, half and full adders, and the D-type flip-flop."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

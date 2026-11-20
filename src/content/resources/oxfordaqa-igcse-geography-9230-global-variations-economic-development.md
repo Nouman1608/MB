@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "global-variations-in-levels-of-economic-development-9230"
 description: "Global variations in economic development for OxfordAQA IGCSE Geography 9230: classification, measures and limits, causes and consequences, and closing the gap."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the specification asks for an example of tourism in an LIC or NEE but does not fix the place. This page uses Kenya in general terms. Check the statements about Kenyan tourism, and the HDI category thresholds, against your own notes. The country comparison table is labelled illustrative."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: the specification asks for an example of tourism in an LIC or NEE but does not fix the place. This page uses Kenya in general terms. Check the statements about Kenyan tourism, and the HDI category thresholds, against your own notes. The country comparison table is labelled illustrative."
 ---
 
 This guide covers section 3.2.2.1, Global variations in levels of economic development, in Section B (The changing economic world) of Unit 2 of the OxfordAQA International GCSE Geography (9230) specification, Version 4.3. The key ideas are: "There are global variations in economic development and quality of life" and "Various strategies exist for reducing the global development gap." Unit 2 is examined in Paper 2, which lasts 1 hour 30 minutes and carries 80 marks; Section B is worth 20 marks. This page goes deeper on this theme than the unit-level material. The next theme, [challenges of rapid economic development](/resources/oxfordaqa-igcse-geography-9230-challenges-rapid-economic-development/), builds on it with a case study.

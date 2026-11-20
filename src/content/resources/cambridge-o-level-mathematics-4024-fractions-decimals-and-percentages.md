@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "fractions-decimals-and-percentages-4024"
 description: "Cambridge O Level Maths 4024 subtopic 1.4 in depth: fraction language, simplifying, converting between fractions, decimals and percentages, and recurring decimals."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

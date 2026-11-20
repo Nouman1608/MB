@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "the-stages-of-the-project-life-cycle"
 description: "Thirteen original Cambridge 9626 IT section 15.1 questions with answers on project initiation, planning, execution, monitoring and close."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

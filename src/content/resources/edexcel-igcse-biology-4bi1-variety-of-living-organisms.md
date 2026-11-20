@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "variety-of-living-organisms-4bi1"
 description: "Study guide for Edexcel IGCSE Biology 4BI1 points 1.2 to 1.4: plants, animals, fungi, protoctists, bacteria, viruses and pathogens, with worked classification examples."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

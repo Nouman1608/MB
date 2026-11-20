@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "incomplete-records-yac11"
 description: "Study guide to incomplete records for Edexcel IAL Accounting (YAC11): opening capital, summarised bank and cash, total accounts, margin and mark-up and lost inventory."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

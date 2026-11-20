@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "introduction-4ch1"
 description: "Study guide for 4CH1 sub-topic 4(a): hydrocarbons, formulae types, homologous series, functional groups, isomerism, IUPAC naming and reaction types."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

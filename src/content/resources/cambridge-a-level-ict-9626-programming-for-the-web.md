@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "programming-for-the-web-content"
 description: "Study guide to section 21.1 of Cambridge A Level IT 9626: JavaScript in web pages, changing content and styles, events, popups, timing events, loops, functions and data types."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

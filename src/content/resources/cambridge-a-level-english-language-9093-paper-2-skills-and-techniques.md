@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "paper-2-skills-and-techniques-9093"
 description: "Cambridge 9093 Paper 2 skills and techniques: writing to a brief, structuring longer pieces, shaping paragraphs, accurate expression and evaluating your own writing."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

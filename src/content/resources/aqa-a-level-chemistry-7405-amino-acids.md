@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "amino-acids-7405"
 description: "AQA 7405 amino acids in depth: structure, naming, acidic and basic properties, drawing zwitterions and the ions in acid and alkaline solution, and what the ionic form explains."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

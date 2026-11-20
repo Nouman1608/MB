@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "unit-4b-non-exam-assessment-9675"
 description: "Revision notes on the 9675 Unit 4b coursework: text rules, task titles, essay structure, mark bands and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "homeostasis-oxfordaqa-igcse-biology"
 description: "OxfordAQA IGCSE Biology 9201 section 3.4.2 in depth: control systems, receptors, coordination centres, effectors and the conditions the body keeps constant."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "esters-4ch1"
 description: "Fourteen original 4CH1 ester questions (Paper 2 only) on naming, drawing, esterification, yield and the preparation practical, with full answers."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "identification-of-common-gases-8462"
 description: "AQA GCSE Chemistry 8462 section 4.8.2 in depth: tests for hydrogen, oxygen, carbon dioxide and chlorine, with the chemistry behind each result and how to identify an unknown gas."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

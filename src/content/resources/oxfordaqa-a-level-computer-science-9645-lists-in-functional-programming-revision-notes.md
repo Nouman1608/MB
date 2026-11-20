@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "lists-in-functional-programming-oxfordaqa-alevel-cs"
 description: "Recall notes for OxfordAQA 9645 sub-topic 3.12.3: Haskell lists, head and tail, list operations, x:xs patterns, recursive list functions and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

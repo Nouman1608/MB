@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "ib-myp-sciences-assessment-criteria-b-inquiring-and-designing"
 description: "Study guide to IB MYP Sciences Criterion B: explaining a testable question, writing a hypothesis with scientific reasoning, handling variables and designing a safe, complete method."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

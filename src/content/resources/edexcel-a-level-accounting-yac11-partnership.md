@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "partnership-yac11"
 description: "Study guide to partnership accounts for Edexcel IAL Accounting (YAC11): appropriation account, capital and current accounts, Section 24 defaults, new partners and goodwill."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

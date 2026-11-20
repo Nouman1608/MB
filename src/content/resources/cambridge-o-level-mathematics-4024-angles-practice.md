@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "angles-4024"
 description: "Original practice questions with worked answers on 4024 section 4.6: angle facts, parallel lines, polygons, algebraic angle problems and reasons written in correct terminology."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

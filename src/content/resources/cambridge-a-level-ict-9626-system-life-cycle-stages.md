@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "the-stages-in-the-system-life-cycle"
 description: "Study guide to section 16.1 of Cambridge A Level IT 9626: what a system is, the stages of developing one and how each stage feeds the next."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

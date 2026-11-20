@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "client-server-databases-7517"
 description: "Deeper guide to AQA 7517 section 4.10.5: client server database systems, the lost update problem and controlling concurrent access with record locks, serialisation, timestamp ordering and commitment ordering."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

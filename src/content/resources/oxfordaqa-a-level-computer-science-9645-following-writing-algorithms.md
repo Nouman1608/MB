@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "following-and-writing-algorithms-oxfordaqa-alevel-cs"
 description: "OxfordAQA 9645 sub-topic 3.3.3 in depth: what an algorithm is, reading pseudocode, converting it to code and hand-tracing with trace tables."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

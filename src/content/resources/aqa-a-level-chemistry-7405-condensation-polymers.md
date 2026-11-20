@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "condensation-polymers-7405"
 description: "AQA 7405 condensation polymers in depth: polyesters, polyamides and polypeptides, drawing repeating units both ways, intermolecular forces, uses of Terylene, nylon 6,6 and Kevlar."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

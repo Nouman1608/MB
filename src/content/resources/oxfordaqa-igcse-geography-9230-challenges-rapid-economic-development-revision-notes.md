@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "challenges-of-rapid-economic-development-9230"
 description: "Condensed notes on rapid economic development for OxfordAQA IGCSE Geography 9230: China case-study framework, TNCs, aid, environment and quality of life."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the course does not fix the case-study country. This page uses China. Check every figure and date against your own case-study notes."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: the course does not fix the case-study country. This page uses China. Check every figure and date against your own case-study notes."
 ---
 
 These notes cover section 3.2.2.2, Challenges of rapid economic development, of the OxfordAQA International GCSE Geography (9230) specification, Version 4.3. Key idea: "Some LICs and NEEs are experiencing rapid economic development which leads to significant social, environmental and cultural change." The specification requires a **case study of an LIC or NEE**; these notes use China as a framework, so replace the facts if you studied a different country. For full explanations, read the [rapid economic development study guide](/resources/oxfordaqa-igcse-geography-9230-challenges-rapid-economic-development/).

@@ -19,10 +19,12 @@ syllabusTopics:
     subtopic: "prototyping"
 description: "Original practice questions with marked answers on evolutionary, incremental, throwaway and rapid prototyping for section 16.9 of Cambridge A Level IT 9626."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the wording that separates rapid prototyping from throwaway prototyping against the examiner reports; the syllabus names both but does not define them."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: check the wording that separates rapid prototyping from throwaway prototyping against the examiner reports; the syllabus names both but does not define them."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

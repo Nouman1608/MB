@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "global-variations-in-levels-of-economic-development-9230"
 description: "Original exam-style questions on global variations in economic development for OxfordAQA IGCSE Geography 9230: measures, causes, strategies and tourism."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

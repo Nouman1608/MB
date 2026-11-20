@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "maxwell-boltzmann-distribution-7405"
 description: "Condensed AQA 7405 notes on the Maxwell-Boltzmann distribution: curve features, meaning of areas, effect of temperature, drawing checklist and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

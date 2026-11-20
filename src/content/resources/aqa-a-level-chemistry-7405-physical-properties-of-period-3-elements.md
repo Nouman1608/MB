@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "physical-properties-of-period-3-elements-7405"
 description: "AQA 7405 Period 3 trends in depth: atomic radius, first ionisation energy with its two dips, and melting points explained by structure and bonding from sodium to argon."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "preparation-7405"
 description: "AQA 7405 preparation of amines in depth: ammonia with halogenoalkanes, reduction of nitriles, reduction of nitro compounds to aromatic amines, comparing routes and calculating yields."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

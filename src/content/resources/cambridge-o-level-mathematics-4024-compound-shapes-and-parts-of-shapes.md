@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "compound-shapes-and-parts-of-shapes-4024"
 description: "Study guide to 4024 section 5.5: perimeters and areas of compound shapes and parts of shapes, surface areas and volumes of compound solids and parts of solids, including frustums."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

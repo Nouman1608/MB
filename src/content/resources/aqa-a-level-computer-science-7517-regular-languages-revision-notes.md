@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "regular-languages-7517"
 description: "Condensed AQA 7517 section 4.4.2 recall: finite state machines, Mealy machines, set notation, regular expressions and regular languages, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

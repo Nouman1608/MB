@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "the-three-states-of-matter-8462"
 description: "Nine original AQA GCSE Chemistry 8462 questions on section 4.2.2.1: changes of state, predicting states from data, bonding and melting point, and the limits of the particle model, with answers."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

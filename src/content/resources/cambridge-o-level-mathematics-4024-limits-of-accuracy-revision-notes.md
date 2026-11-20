@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "limits-of-accuracy-4024"
 description: "Revision notes for Cambridge O Level Maths 4024 subtopic 1.10: bounds of rounded values and of calculations with sums, differences, products, quotients and speeds."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

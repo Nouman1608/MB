@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "substitution-reactions-7405"
 description: "Original AQA 7405 questions with marked answers on ligand substitution: water, ammonia and chloride, bidentate and multidentate ligands, haem, carbon monoxide and the chelate effect."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

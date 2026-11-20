@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "geometrical-terms-4024"
 description: "Study guide to 4024 section 4.1: the geometrical vocabulary of points, lines, angles, triangles, quadrilaterals, polygons, solids and circles that the syllabus expects you to use and interpret."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

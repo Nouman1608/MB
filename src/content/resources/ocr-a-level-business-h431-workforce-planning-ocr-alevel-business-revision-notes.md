@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "workforce-planning-ocr-alevel-business"
 description: "Revision notes on workforce planning for OCR A Level Business H431: demand, supply and gap, flexible working practices, annualised hours and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

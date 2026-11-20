@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "diffusion-and-osmosis"
 description: "Deeper guide to 5090 subtopic 3.1: water as a solvent, diffusion and its factors, osmosis and water potential, turgor and plasmolysis, and the practical investigations."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "technology-enhanced-learning"
 description: "Cambridge 9626 IT section 12.5 study guide: methods of technology enhanced learning, their impact on motivation, achievement and autonomy, and their trade-offs."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

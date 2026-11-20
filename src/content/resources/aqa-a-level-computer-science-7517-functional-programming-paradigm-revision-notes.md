@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "functional-programming-paradigm-7517"
 description: "Condensed AQA 7517 section 4.12.1 recall: function type, domain, co-domain, first-class objects, function application, partial application and composition."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

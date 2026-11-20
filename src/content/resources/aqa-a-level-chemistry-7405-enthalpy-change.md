@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "enthalpy-change-7405"
 description: "AQA 7405 enthalpy change in depth: exothermic and endothermic reactions, enthalpy profiles, standard conditions, and defining and writing equations for enthalpy of formation and combustion."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "elimination-halogenoalkanes-7405"
 description: "AQA 7405 elimination from halogenoalkanes in depth: hydroxide as base and nucleophile, the three-arrow mechanism, predicting every alkene product and choosing conditions."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

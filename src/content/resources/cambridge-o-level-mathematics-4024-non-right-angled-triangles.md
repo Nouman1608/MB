@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "non-right-angled-triangles-4024"
 description: "Study guide to 4024 section 6.3: the sine rule, the cosine rule and the area formula 1/2 ab sin C for any triangle, including obtuse angles, the ambiguous case and bearings."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

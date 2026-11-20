@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "social-accounting-yac11"
 description: "Nine original social accounting questions for Edexcel IAL Accounting (YAC11) 1.6.1-1.6.3: community, environment, workforce, non-financial factors and stakeholders, with answers."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

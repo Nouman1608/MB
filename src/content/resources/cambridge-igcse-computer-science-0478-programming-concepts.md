@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "programming-concepts-0478"
 description: "Study guide to Cambridge IGCSE Computer Science 0478 section 8.1: variables, data types, input and output, selection, iteration, totalling and counting, string handling, operators, subroutines and maintainable code in Cambridge pseudocode."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

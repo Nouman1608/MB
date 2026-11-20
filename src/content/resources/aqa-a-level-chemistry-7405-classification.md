@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "classification-7405"
 description: "AQA 7405 classification of elements into s, p, d and f blocks: how position in the Periodic Table follows proton number and electron configuration, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

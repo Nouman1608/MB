@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "properties-of-small-molecules-8462"
 description: "Ten original AQA GCSE Chemistry 8462 questions on section 4.2.2.4: intermolecular forces, boiling points, molecular size and conductivity, with answers."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

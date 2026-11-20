@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "circle-theorems-ii-4024"
 description: "Revision notes for 4024 section 4.8: chord and centre properties, equal chords, tangents from an external point, Pythagoras methods and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

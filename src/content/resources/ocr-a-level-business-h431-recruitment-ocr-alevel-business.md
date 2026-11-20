@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "recruitment-ocr-alevel-business"
 description: "Study guide to recruitment for OCR A Level Business H431: reasons, job description, person specification, advertisement, internal and external methods and a costed comparison."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

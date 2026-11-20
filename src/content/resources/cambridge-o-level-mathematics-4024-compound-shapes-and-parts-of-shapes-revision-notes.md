@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "compound-shapes-and-parts-of-shapes-4024"
 description: "Revision notes for 4024 section 5.5: splitting and subtracting compound shapes, segments, compound solids, half solids, hollow shapes and frustums, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

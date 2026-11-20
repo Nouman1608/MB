@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "database-design-9210"
 description: "Study guide to OxfordAQA IGCSE Computer Science 9210 section 3.7.2: choosing data types and lengths, selecting primary keys and designing a database of up to three tables."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

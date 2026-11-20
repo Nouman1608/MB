@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "labour-costs-yac11"
 description: "Study guide to labour costs for Edexcel IAL Accounting (YAC11): labour productivity, day work, piecework, bonus schemes, employee earnings and employer cost."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "structure-bonding-and-reactivity-7405"
 description: "Condensed AQA 7405 notes on alkene structure: unsaturation, sigma and pi bonds, trigonal planar shape, restricted rotation, reactivity, bond enthalpy sums and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

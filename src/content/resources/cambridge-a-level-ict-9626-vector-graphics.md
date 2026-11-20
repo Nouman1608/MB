@@ -19,10 +19,12 @@ syllabusTopics:
     subtopic: "vector-graphics"
 description: "Study guide to section 19.2 of Cambridge A Level IT 9626: vector drawing tools, Bezier curves, node and path editing, fills and tracing bitmaps into editable vector shapes."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the node-type descriptions (smooth, symmetrical, asymmetrical, cusp) against the vector software used on the course; names and behaviour differ between programs."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: check the node-type descriptions (smooth, symmetrical, asymmetrical, cusp) against the vector software used on the course; names and behaviour differ between programs."
 ---
 
 This guide goes deeper into section **19.2 Vector graphics** of the Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027 (version 4). It is **A Level only** content. Paper 4 (Advanced Practical) tests sections 17 to 21, and Paper 3 (Advanced Theory) is based on sections 12 to 21.

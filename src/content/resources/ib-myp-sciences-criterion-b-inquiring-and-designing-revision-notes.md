@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "ib-myp-sciences-assessment-criteria-b-inquiring-and-designing"
 description: "Condensed IB MYP Sciences Criterion B notes: question, hypothesis, variables, data plan, method checklist, common errors and a self-test with answers."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

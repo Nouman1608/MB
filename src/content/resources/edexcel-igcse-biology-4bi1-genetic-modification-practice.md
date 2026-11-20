@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "genetic-modification-genetic-engineering-4bi1"
 description: "Nine original Edexcel IGCSE Biology 4BI1 questions on restriction enzymes, vectors, human insulin from bacteria and GM crops, with answers."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

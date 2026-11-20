@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "exercise-1-sentence-transformation-3248"
 description: "Recall notes for 3248 Paper 2 Exercise 1: task facts, rules for each type of transformation, agreement and common faults."
 author: "marlbridge-academic-team"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to farheen-zehra (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

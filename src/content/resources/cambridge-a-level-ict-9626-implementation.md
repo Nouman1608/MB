@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "implementation"
 description: "Study guide to section 16.5 of Cambridge A Level IT 9626: parallel running, direct changeover, phased and pilot implementation, with suitability for given situations."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "exercise-3-extended-writing-exercise-3248"
 description: "Original practice for 3248 Paper 2 Exercise 3: purpose, format and audience drills, register and a full 200-word writing task with model answer."
 author: "marlbridge-academic-team"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to farheen-zehra (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

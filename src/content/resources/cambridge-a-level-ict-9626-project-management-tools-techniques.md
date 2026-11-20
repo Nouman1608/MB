@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "tools-and-techniques-for-project-management-tasks"
 description: "Study guide to section 15.3 of Cambridge A Level IT 9626: building and reading Gantt charts, PERT networks and the critical path method, with a fully worked example."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

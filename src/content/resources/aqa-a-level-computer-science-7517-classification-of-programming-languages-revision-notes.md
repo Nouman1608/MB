@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "classification-of-programming-languages-7517"
 description: "Condensed AQA 7517 section 4.6.2 recall: low-level and high-level languages, machine code, assembly language, imperative languages and their trade-offs."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "ib-myp-sciences-assessment-criteria-c-processing-and-evaluating"
 description: "Study guide to IB MYP Sciences Criterion C: presenting and transforming data, interpreting results with scientific reasoning, and evaluating the hypothesis, the method and improvements."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

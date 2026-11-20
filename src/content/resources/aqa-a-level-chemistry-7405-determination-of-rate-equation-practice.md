@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "determination-of-rate-equation-7405"
 description: "Original AQA 7405 questions with marked answers on determining a rate equation: initial rate tables, concentration-time graphs, orders, rate constants and the rate-determining step."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

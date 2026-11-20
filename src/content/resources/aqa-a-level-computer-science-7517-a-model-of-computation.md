@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "a-model-of-computation-7517"
 description: "Deeper guide to AQA 7517 section 4.4.5 A model of computation: the structure of a Turing machine, transition functions and diagrams, hand-tracing and the universal Turing machine."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

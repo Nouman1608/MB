@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "conceptual-data-models-and-entity-relationship-modelling-7517"
 description: "Original AQA 7517 section 4.10.1 questions with answers: identifying entities and relationships, resolving many-to-many links and writing entity descriptions."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "manufacturers-yac11"
 description: "Ten original manufacturing account questions for Edexcel IAL Accounting (YAC11) 1.3.20-1.3.22: prime cost, overheads, work in progress and unrealised profit, with full answers."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

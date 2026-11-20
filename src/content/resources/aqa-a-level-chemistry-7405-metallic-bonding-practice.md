@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "metallic-bonding-7405"
 description: "Original AQA 7405 questions with marked answers on metallic bonding: describing the lattice, melting point trends, conduction, malleability and comparison with ionic solids."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

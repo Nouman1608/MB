@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "human-digestive-system"
 description: "Deeper guide to 5090 subtopic 8.2: regions and functions of the digestive system, teeth, physical and chemical digestion, enzymes, acid, bile and peristalsis."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

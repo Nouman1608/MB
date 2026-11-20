@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "hot-deserts-9230"
 description: "Condensed notes on hot deserts for OxfordAQA IGCSE Geography 9230: climate, adaptations, biodiversity, desertification causes and management strategies."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the specification asks for examples of desertification but does not fix the place. This page uses the Sahel. Check the Great Green Wall dates and the Niger and Burkina Faso farming examples against your own notes."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: the specification asks for examples of desertification but does not fix the place. This page uses the Sahel. Check the Great Green Wall dates and the Niger and Burkina Faso farming examples against your own notes."
 ---
 
 These notes cover section 3.1.2.3, Hot deserts, of the OxfordAQA International GCSE Geography (9230) specification, Version 4.3. Key ideas: "Hot desert ecosystems have a range of distinctive characteristics"; "Areas on the fringe of hot deserts are at risk of desertification." For full explanations, read the [hot deserts study guide](/resources/oxfordaqa-igcse-geography-9230-hot-deserts/). For the whole unit, see the [Living with the Physical Environment study guide](/resources/igcse-oxfordaqa-geography-living-with-the-physical-environment/).

@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "insurance-7100"
 description: "Study guide to Cambridge O Level Commerce 7100 sub-topic 5.3: the purposes of insurance, types of insurance risk, pooling, premium calculations, insurance documents and the role of an insurance broker."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "homeostasis"
 description: "Original practice questions with full answers on 5090 subtopic 14.4: homeostasis, set points and negative feedback."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

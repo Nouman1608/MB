@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "market-segmentation-oxfordaqa-igcse-business"
 description: "Twelve original questions with answers on segmenting by age, gender, location and income and choosing marketing methods for OxfordAQA IGCSE Business 9225 3.5.2."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "antibiotics"
 description: "Deeper guide to 5090 subtopic 12.2: drugs, how antibiotics are used, why they do not work on viruses, the development of resistance and MRSA, and how to limit it."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

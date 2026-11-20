@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "valuation-of-inventory-yac11"
 description: "Ten original inventory valuation questions for Edexcel IAL Accounting (YAC11) 1.4.1-1.4.3: FIFO, LIFO, NRV and the effect on profit, with full answers."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

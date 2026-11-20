@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "logic-gates-oxfordaqa-alevel-cs"
 description: "OxfordAQA 9645 sub-topic 3.7.6 in depth: gate truth tables, reading and drawing circuits, half and full adders and the D-type flip-flop, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

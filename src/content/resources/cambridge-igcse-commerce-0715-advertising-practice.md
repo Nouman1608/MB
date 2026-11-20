@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "advertising-0715"
 description: "Original Cambridge IGCSE Commerce 0715 questions with answers on types of advertising, media, methods of appeal and sales promotion."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

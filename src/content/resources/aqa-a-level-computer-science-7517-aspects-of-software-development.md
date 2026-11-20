@@ -15,10 +15,12 @@ syllabusTopics:
     subtopic: "aspects-of-software-development-7517"
 description: "Deeper guide to AQA 7517 section 4.13.1: analysis, design, implementation, testing and evaluation, including prototyping, agile development and normal, boundary and erroneous test data."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the specification says only 'know the criteria for evaluating a computer system' (4.13.1.5) and does not itemise them. The criteria listed here (meets requirements, usability, robustness, efficiency, maintainability) are the commonly taught set; check against current exam mark schemes."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: the specification says only 'know the criteria for evaluating a computer system' (4.13.1.5) and does not itemise them. The criteria listed here (meets requirements, usability, robustness, efficiency, maintainability) are the commonly taught set; check against current exam mark schemes."
 ---
 
 This guide covers **4.13.1 Aspects of software development** in AQA A-Level Computer Science (7517). The specification describes five stages: **analysis, design, implementation, testing and evaluation**. For each stage you need to be aware of what happens and why, and to be able to apply the ideas to a given scenario. The stages also guide the non-exam assessment project, where you document your own development.

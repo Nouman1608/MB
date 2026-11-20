@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "banking-7100"
 description: "Study guide to Cambridge O Level Commerce 7100 sub-topic 5.2: bank accounts, customer services, methods of payment, bank finance, and the advantages, disadvantages and impact of digital banking."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

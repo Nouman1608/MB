@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "using-a-calculator-4024"
 description: "Fourteen original Cambridge O Level Maths 4024 questions on keying in calculations, entering time and angles, reading the display and avoiding early rounding."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

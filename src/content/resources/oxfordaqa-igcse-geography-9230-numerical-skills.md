@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "numerical-skills-9230"
 description: "Numerical skills for OxfordAQA IGCSE Geography 9230: units, scales and area, ratio and proportion, sampling, reliability, data sheets and drawing conclusions."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

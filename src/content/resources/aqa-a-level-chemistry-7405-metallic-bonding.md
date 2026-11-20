@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "metallic-bonding-7405"
 description: "AQA 7405 metallic bonding in depth: delocalised electrons and the cation lattice, strength across Na, Mg and Al, conduction, malleability and how to write full-mark explanations."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "cash-flow-ocr-alevel-business"
 description: "Original OCR A Level Business H431 questions with full answers on cash-flow: building a forecast, effect of falling revenue, cash against profit and strategies for shortages."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "carboxylic-acids-4ch1"
 description: "Study guide for 4CH1 sub-topic 4(f) (Paper 2 only): the carboxyl group, naming acids, reactions with metals and carbonates, and vinegar."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

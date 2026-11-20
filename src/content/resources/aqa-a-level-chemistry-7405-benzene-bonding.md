@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "bonding-aromatic-7405"
 description: "AQA 7405 bonding in benzene in depth: the planar delocalised ring, bond lengths, enthalpy of hydrogenation evidence for extra stability, and why benzene prefers substitution to addition."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

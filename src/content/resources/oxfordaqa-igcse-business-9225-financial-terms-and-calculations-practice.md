@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "financial-terms-and-calculations-oxfordaqa-igcse-business"
 description: "Twelve original questions with answers on costs, revenue, profit, break-even, margin of safety and payback period for OxfordAQA IGCSE Business 9225 3.6.3."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

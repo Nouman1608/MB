@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "purity-formulations-and-chromatography-8462"
 description: "Ten original AQA GCSE Chemistry 8462 questions on section 4.8.1: pure substances, melting points, formulations, paper chromatography and Rf values, with mark-scheme answers."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

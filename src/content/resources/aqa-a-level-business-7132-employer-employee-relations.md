@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "making-human-resource-decisions-improving-employer-employee-relations-aqa-alevel-business"
 description: "Study guide to AQA A-level Business 7132 section 3.6.5: employee involvement and representation, trade unions and works councils, communication and the value of good relations."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

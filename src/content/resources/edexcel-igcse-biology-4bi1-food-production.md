@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "food-production-4bi1"
 description: "Study guide for Edexcel IGCSE Biology 4BI1 points 5.1 to 5.9B: glasshouses, fertiliser, pest control, yeast, yoghurt, fermenters and fish farming."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

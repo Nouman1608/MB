@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "part-2-topic-conversation-0539"
 description: "Original practice for 0539 Speaking Part 2: expanding answers, question types, repair phrases and a full 20-mark topic conversation, with model answers."
 author: "marlbridge-academic-team"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to farheen-zehra (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

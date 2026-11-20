@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "relational-databases-oxfordaqa-alevel-cs"
 description: "Recall notes for OxfordAQA 9645 sub-topic 3.15.1: ER models, keys, normalisation to 3NF, SQL commands and functions, lost updates and record locks."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

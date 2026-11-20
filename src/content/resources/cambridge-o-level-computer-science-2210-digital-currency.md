@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "digital-currency-2210"
 description: "Study guide to Cambridge O Level Computer Science 2210 section 5.2: what a digital currency is, how it is used, and how blockchain works as a digital ledger of time-stamped records that cannot be altered."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

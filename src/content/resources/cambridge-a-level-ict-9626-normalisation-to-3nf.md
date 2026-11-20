@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "normalisation-to-third-normal-form-3nf"
 description: "Cambridge 9626 IT section 10.2 study guide: unnormalised form, 1NF, 2NF and 3NF, with a fully worked normalisation of an order form and the advantages and disadvantages."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "river-landscapes-9230"
 description: "Condensed notes on river landscapes for OxfordAQA IGCSE Geography 9230: profiles, processes, landforms, flood risk, hydrographs and flood management."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the specification asks for an example scheme in the region but does not fix it. This page uses the Three Gorges Dam (Yangtze, China). Check the dates, dimensions and impacts against your own notes."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: the specification asks for an example scheme in the region but does not fix it. This page uses the Three Gorges Dam (Yangtze, China). Check the dates, dimensions and impacts against your own notes."
 ---
 
 These notes cover section 3.1.4.2, River landscapes, of the OxfordAQA International GCSE Geography (9230) specification, Version 4.3. Students study either river landscapes or hot desert landscapes in Section D. Key ideas: "The shape of river valleys changes as rivers flow downstream"; "Distinctive fluvial landforms result from different physical processes"; "Different management strategies can be used to protect river landscapes from the effects of flooding." For full explanations, read the [river landscapes study guide](/resources/oxfordaqa-igcse-geography-9230-river-landscapes/). For the whole unit, see the [Living with the Physical Environment study guide](/resources/igcse-oxfordaqa-geography-living-with-the-physical-environment/).

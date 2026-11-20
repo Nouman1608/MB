@@ -19,10 +19,12 @@ syllabusTopics:
     subtopic: "ratios-yac11"
 description: "Nine original ratio questions for Edexcel IAL Accounting (YAC11) 1.5.1-1.5.3: calculating Unit 1 ratios, evaluating two years and making projections, with full answers."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the formula for non-current assets to revenue (revenue divided by non-current assets) and capital employed (non-current assets plus current assets less current liabilities) against Pearson's published formula sheet."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: check the formula for non-current assets to revenue (revenue divided by non-current assets) and capital employed (non-current assets plus current assets less current liabilities) against Pearson's published formula sheet."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

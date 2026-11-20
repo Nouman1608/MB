@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "crude-oil-4ch1"
 description: "Twelve original 4CH1 crude oil questions on fractional distillation, fractions, combustion, carbon monoxide, acid rain and cracking, with full answers."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

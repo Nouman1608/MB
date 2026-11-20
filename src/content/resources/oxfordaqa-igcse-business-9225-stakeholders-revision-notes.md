@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "stakeholders-oxfordaqa-igcse-business"
 description: "Revision notes for OxfordAQA IGCSE Business 9225 section 3.1.4: the six main stakeholders, their objectives, influence on the business, conflicts and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

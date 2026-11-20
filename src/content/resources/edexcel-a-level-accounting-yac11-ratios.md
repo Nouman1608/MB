@@ -19,10 +19,12 @@ syllabusTopics:
     subtopic: "ratios-yac11"
 description: "Study guide to ratio analysis for Edexcel IAL Accounting (YAC11): ten Unit 1 ratios, interpreting profitability, liquidity and use of assets, and making projections."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the formula wording for non-current assets to revenue (written here as revenue divided by non-current assets, in times) and the capital employed definition (capital plus non-current liabilities) against Pearson's published formula sheet."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: check the formula wording for non-current assets to revenue (written here as revenue divided by non-current assets, in times) and the capital employed definition (capital plus non-current liabilities) against Pearson's published formula sheet."
 ---
 
 This guide covers outcomes **1.5.1 Ratios**, **1.5.2 The profitability, liquidity and use of asset ratios in appraising sole traders and partnership financial statements** and **1.5.3 Use of ratios to make future financial projections**. They make up Topic 1.5, Analysis of accounting statements, in Unit 1 (The Accounting System and Costing) of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (YAC11), Specification Issue 2, September 2018. This is International AS content. All amounts are in dollars and every business named is invented.

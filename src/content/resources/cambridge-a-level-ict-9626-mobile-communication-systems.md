@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "mobile-communication-systems"
 description: "Cambridge 9626 IT section 14.8 study guide: cellular network structure, 3G, 4G and 5G, and satellite systems including GPS, mapping, surveillance and broadcasting."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

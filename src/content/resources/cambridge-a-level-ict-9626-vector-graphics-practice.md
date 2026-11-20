@@ -19,10 +19,12 @@ syllabusTopics:
     subtopic: "vector-graphics"
 description: "Original practice questions with marked answers on vector drawing tools, Bezier curves, node types, replication and tracing bitmaps for section 19.2 of Cambridge A Level IT 9626."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the node-type descriptions (smooth, symmetrical, asymmetrical, cusp) against the vector software used on the course; names and behaviour differ between programs."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: check the node-type descriptions (smooth, symmetrical, asymmetrical, cusp) against the vector software used on the course; names and behaviour differ between programs."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

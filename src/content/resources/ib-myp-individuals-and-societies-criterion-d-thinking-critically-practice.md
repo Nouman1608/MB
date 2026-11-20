@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "ib-myp-individuals-and-societies-assessment-criteria-d-thinking-critically"
 description: "Original IB MYP Individuals and Societies Criterion D practice: three invented sources on a dam proposal, with source evaluation, perspectives and an extended argument, with answers."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "identification-of-functional-groups-by-test-tube-reactions-7405"
 description: "Condensed AQA 7405 notes on test-tube tests for alkenes, alcohols, aldehydes, carboxylic acids and halogenoalkanes: reagents, observations, equations and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

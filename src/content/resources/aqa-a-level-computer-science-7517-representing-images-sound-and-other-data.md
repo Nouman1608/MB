@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "representing-images-sound-and-other-data-7517"
 description: "Deeper guide to AQA 7517 section 4.5.6: bitmap and vector graphics, sampled sound and MIDI, analogue and digital conversion, compression and encryption."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

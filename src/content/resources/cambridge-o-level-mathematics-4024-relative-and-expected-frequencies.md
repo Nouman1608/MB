@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "relative-and-expected-frequencies-4024"
 description: "Study guide to 4024 section 8.2: relative frequency as an estimate of probability, expected frequencies, and the meanings of fair, biased and random."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

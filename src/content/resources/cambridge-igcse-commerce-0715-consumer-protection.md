@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "consumer-protection-0715"
 description: "Reasons for consumer protection and the actions buyers and sellers take to resolve complaints, for Cambridge IGCSE Commerce 0715 section 6.3."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

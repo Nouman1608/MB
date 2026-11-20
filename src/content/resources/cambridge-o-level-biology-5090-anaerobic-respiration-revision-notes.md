@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "anaerobic-respiration"
 description: "Condensed recall for 5090 subtopic 10.3: anaerobic respiration in humans and yeast, lactic acid, the oxygen debt (EPOC), its removal and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "internal-hardware-components-of-a-computer-7517"
 description: "Deeper guide to AQA 7517 section 4.7.1: processor, main memory, the address, data and control buses, I/O controllers, addressable memory and von Neumann versus Harvard architecture."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

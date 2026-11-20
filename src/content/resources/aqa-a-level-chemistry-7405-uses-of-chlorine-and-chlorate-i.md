@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "uses-of-chlorine-and-chlorate-i-7405"
 description: "AQA 7405 chlorine and chlorate(I) in depth: reaction with water, disproportionation, water treatment, the reaction with cold dilute sodium hydroxide, bleach and weighing benefits and risks."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

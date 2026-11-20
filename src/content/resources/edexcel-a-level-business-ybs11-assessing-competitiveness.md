@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "assessing-competitiveness-ybs11"
 description: "Study guide to Edexcel IAL Business 3.3.5: financial statements, profitability, liquidity, gearing and ROCE ratios, and human resource measures such as productivity and turnover."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

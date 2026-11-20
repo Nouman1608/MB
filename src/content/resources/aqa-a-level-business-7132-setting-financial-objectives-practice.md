@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "setting-financial-objectives-aqa-alevel-business"
 description: "Original practice questions with mark-scheme answers on financial objectives, return on investment, cash flow against profit and types of profit for AQA A-level Business 7132."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

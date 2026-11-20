@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "representing-sound-9210"
 description: "Revision notes for OxfordAQA IGCSE Computer Science 9210 section 3.3.7: analogue and digital sound, sampling rate, sample resolution, file size calculations and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "setting-operational-objectives-aqa-alevel-business"
 description: "Study guide to AQA A-level Business 7132 section 3.4.1: the value of operational objectives covering costs, quality, speed of response, flexibility, environmental objectives and added value."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

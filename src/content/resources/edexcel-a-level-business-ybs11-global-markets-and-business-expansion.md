@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "global-markets-and-business-expansion-ybs11"
 description: "Study guide to Edexcel IAL Business 4.3.2: push and pull factors, assessing markets and production locations, global mergers and joint ventures, exchange rates and skill shortages."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

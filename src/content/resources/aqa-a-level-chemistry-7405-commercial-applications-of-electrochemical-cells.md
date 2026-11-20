@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "commercial-applications-of-electrochemical-cells-7405"
 description: "AQA 7405 commercial electrochemical cells in depth: lithium cells, deducing reactions from electrode data, rechargeable cells, alkaline hydrogen-oxygen fuel cells, and benefits and risks."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

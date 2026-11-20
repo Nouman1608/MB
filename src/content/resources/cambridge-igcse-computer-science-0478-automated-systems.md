@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "automated-systems-0478"
 description: "Study guide to Cambridge IGCSE Computer Science 0478 section 6.1: how sensors, microprocessors and actuators work together, with advantages and disadvantages of automated systems in industry, transport, agriculture, weather, gaming, lighting and science."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

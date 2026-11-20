@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "the-concept-of-quality-oxfordaqa-igcse-business"
 description: "Revision notes for OxfordAQA IGCSE Business 9225 section 3.3.3: measuring quality, consequences of poor quality, TQM, costs and benefits, and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

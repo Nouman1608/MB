@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "the-ionic-product-of-water-kw-7405"
 description: "Original AQA 7405 questions with marked answers on Kw: the expression and units, pH of strong bases, concentration from pH, temperature effects and neutral water."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

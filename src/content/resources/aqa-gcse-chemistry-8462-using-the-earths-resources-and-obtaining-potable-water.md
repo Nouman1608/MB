@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "using-the-earths-resources-and-obtaining-potable-water-8462"
 description: "AQA GCSE Chemistry 8462 section 4.10.1 in depth: finite and renewable resources, sustainable development, potable water, waste water treatment and phytomining and bioleaching."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

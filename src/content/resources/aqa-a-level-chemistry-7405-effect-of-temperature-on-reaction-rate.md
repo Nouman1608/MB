@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "effect-of-temperature-on-reaction-rate-7405"
 description: "AQA 7405 effect of temperature on reaction rate in depth: defining rate, the two effects of temperature, why a small rise gives a large increase, and the thiosulfate initial-rate practical."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

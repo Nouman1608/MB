@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "absorption-and-assimilation"
 description: "Condensed recall for 5090 subtopic 8.3: absorption and assimilation, villus structure, surface area, water absorption, the hepatic portal vein and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

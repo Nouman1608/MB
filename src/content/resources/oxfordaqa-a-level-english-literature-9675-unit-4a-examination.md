@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "unit-4a-examination-9675"
 description: "How to approach the 9675 Unit 4a unseen exam: prose and poetry questions on representation, the four areas, the assessment objectives and a method with original examples."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

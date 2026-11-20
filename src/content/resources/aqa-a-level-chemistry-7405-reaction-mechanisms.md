@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "reaction-mechanisms-7405"
 description: "AQA 7405 reaction mechanisms in depth: radicals and bond fission, balanced equations for free-radical steps, and how to use curly arrows from lone pairs and bonds."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

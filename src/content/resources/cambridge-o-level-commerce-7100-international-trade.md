@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "international-trade-7100"
 description: "Study guide to Cambridge O Level Commerce 7100 sub-topic 3.1: benefits and challenges of international trade, Balance of Trade and Balance of Payments sums, free trade, trading blocs, tariffs, quotas, embargoes and support for exporters."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

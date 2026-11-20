@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "sources-of-finance-ocr-alevel-business"
 description: "Study guide to sources of finance for OCR A Level Business H431: internal and external, short and long term, factors affecting choice and a worked comparison of a loan and a share issue."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

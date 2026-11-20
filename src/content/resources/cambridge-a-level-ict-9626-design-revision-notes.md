@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "design"
 description: "Condensed revision notes on section 16.3 of Cambridge A Level IT 9626: DFD levels and rules, system flowchart symbols, forms, reports and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

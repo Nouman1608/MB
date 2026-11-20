@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "diet"
 description: "Condensed recall for 5090 subtopic 8.1: sources and roles of each nutrient, deficiency diseases and symptoms, the balanced diet and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

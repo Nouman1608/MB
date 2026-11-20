@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "unit-4a-examination-9675"
 description: "Revision notes on the 9675 Unit 4a unseen exam: format, the four representation areas, assessment objectives, an analysis method and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

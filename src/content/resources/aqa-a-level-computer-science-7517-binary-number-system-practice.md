@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "binary-number-system-7517"
 description: "Original AQA 7517 section 4.5.4 questions with answers: binary arithmetic, two's complement, fixed and floating point, normalisation, errors, overflow and underflow."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

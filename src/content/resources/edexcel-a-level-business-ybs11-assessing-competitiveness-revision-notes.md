@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "assessing-competitiveness-ybs11"
 description: "Revision notes for Edexcel IAL Business 3.3.5: financial statements, margins, liquidity, gearing, ROCE and HR measures such as turnover and absenteeism, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

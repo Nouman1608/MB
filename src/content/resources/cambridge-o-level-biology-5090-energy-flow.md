@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "energy-flow"
 description: "Deeper guide to 5090 subtopic 19.1: the Sun as the source of energy, food chains and webs, trophic levels, energy transfer and pyramids of numbers, biomass and energy."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

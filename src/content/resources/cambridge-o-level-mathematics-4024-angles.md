@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "angles-4024"
 description: "Study guide to 4024 section 4.6: angle facts at a point, on a line, in triangles and quadrilaterals, in parallel lines, and in polygons, with correct geometrical reasons."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

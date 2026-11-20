@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "making-marketing-decisions-using-the-marketing-mix-aqa-alevel-business"
 description: "Original practice questions with mark-scheme answers on the 7Ps, Boston Matrix, life cycle, pricing, promotion and place for AQA A-level Business 7132."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

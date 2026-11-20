@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "mammalian-sense-organs"
 description: "Original practice questions with full answers on 5090 subtopic 14.2: parts of the eye, the pupil reflex and accommodation."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

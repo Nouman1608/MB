@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "boolean-algebra-7517"
 description: "Deeper guide to AQA 7517 section 4.6.5 Boolean algebra: identities, De Morgan's laws and step-by-step simplification of Boolean expressions."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

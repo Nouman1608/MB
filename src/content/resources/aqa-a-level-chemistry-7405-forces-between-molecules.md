@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "forces-between-molecules-7405"
 description: "AQA 7405 forces between molecules in depth: London forces, permanent dipole-dipole forces and hydrogen bonding, comparing boiling points, hydride trends and hydrogen bonding in water."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

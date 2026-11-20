@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "individual-moral-social-ethical-legal-and-cultural-issues-and-opportunities-7517"
 description: "Deeper guide to AQA 7517 section 4.8.1: moral, ethical, legal and cultural opportunities and risks of computing, with a method for case-study and discussion answers."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

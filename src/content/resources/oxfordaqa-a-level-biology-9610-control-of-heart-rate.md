@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "control-of-heart-rate-oxfordaqa-alevel-biology"
 description: "A focused guide to section 3.4.8 of OxfordAQA International A-level Biology 9610: myogenic stimulation, the SAN, AVN and Purkinje tissue, and nervous control of heart rate."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "ib-myp-sciences-assessment-criteria-b-inquiring-and-designing"
 description: "Original IB MYP Sciences Criterion B practice: variables, hypotheses, method flaws, equipment choice and a full investigation design, with marking points."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

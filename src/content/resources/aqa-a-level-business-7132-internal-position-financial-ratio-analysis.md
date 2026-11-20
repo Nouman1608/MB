@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "analysing-the-existing-internal-position-of-a-business-to-assess-strengths-and-weaknesses-financial-ratio-analysis-aqa-alevel-business"
 description: "Study guide to AQA A-level Business 7132 section 3.7.2: ROCE, current ratio, gearing, payables days, receivables days and inventory turnover, with a worked comparison."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

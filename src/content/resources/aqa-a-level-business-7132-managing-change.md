@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "managing-change-aqa-alevel-business"
 description: "Study guide to AQA A-level Business 7132 section 3.10.1: types and causes of change, Lewin's force field analysis, flexible organisations, and Kotter and Schlesinger on resistance."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

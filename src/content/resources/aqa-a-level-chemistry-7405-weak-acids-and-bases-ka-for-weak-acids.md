@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "weak-acids-and-bases-ka-for-weak-acids-7405"
 description: "AQA 7405 weak acids in depth: the Ka expression, the two approximations, pH from concentration and Ka, Ka from pH, pKa conversions and percentage dissociation."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "hot-deserts-9230"
 description: "Original exam-style questions on hot deserts for OxfordAQA IGCSE Geography 9230: climate, adaptations, biodiversity, desertification causes and strategies."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

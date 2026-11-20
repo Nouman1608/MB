@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "circle-theorems-i-4024"
 description: "Study guide to 4024 section 4.7: the angle in a semicircle, tangent and radius, angle at the centre, angles in the same segment, cyclic quadrilaterals and the alternate segment theorem."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

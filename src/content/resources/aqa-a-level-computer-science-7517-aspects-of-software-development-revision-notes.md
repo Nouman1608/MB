@@ -15,10 +15,12 @@ syllabusTopics:
     subtopic: "aspects-of-software-development-7517"
 description: "Condensed AQA 7517 section 4.13.1 recall: analysis, design, implementation, testing and evaluation, prototyping and agile, and normal, boundary and erroneous test data."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the specification does not itemise the evaluation criteria (4.13.1.5); the criteria listed (meets requirements, usability, robustness, efficiency, maintainability) are the commonly taught set. Check against current exam mark schemes."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: the specification does not itemise the evaluation criteria (4.13.1.5); the criteria listed (meets requirements, usability, robustness, efficiency, maintainability) are the commonly taught set. Check against current exam mark schemes."
 ---
 
 Condensed recall for **4.13.1 Aspects of software development**, AQA A-Level Computer Science (7517): **analysis, design, implementation, testing and evaluation**. A worked design and test plan are in the [aspects of software development study guide](/resources/aqa-a-level-computer-science-7517-aspects-of-software-development/); questions are in the [aspects of software development practice questions](/resources/aqa-a-level-computer-science-7517-aspects-of-software-development-practice/).

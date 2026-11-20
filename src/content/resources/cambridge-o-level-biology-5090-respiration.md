@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "respiration-content"
 description: "Deeper guide to 5090 subtopic 10.1: what respiration is, how it differs from breathing, the uses of energy and the yeast temperature investigation."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

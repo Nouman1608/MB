@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "creating-artificially-intelligent-systems-oxfordaqa-alevel-cs"
 description: "Ten original OxfordAQA 9645 questions on sub-topic 3.16.2 Creating AI systems: neural network layers and weights, backpropagation, deep learning and training data bias."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

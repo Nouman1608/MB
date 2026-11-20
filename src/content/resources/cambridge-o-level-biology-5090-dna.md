@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "dna"
 description: "Deeper guide to 5090 subtopic 17.2: the structure of DNA, base pairing, genes, and how DNA controls cell function by controlling the production of proteins."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

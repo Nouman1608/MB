@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "network-security"
 description: "Cambridge 9626 IT section 14.9 study guide: network security threats, their impact, physical and software methods of prevention, and firewall configuration."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

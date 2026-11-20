@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "the-three-states-of-matter-8462"
 description: "Revision notes for AQA GCSE Chemistry 8462 section 4.2.2.1: states and changes of state, the particle model, melting and boiling points, Higher tier limitations and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

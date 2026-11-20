@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "setting-business-aims-and-objectives-oxfordaqa-igcse-business"
 description: "Study guide to OxfordAQA IGCSE Business 9225 section 3.1.3: aims and objectives, why they change, public sector objectives, measuring success, government support for enterprise and why start-ups fail."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

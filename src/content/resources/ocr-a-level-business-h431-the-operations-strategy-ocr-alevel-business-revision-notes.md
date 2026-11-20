@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "the-operations-strategy-ocr-alevel-business"
 description: "Revision notes on the operations strategy for OCR A Level Business H431: components, performance objectives, comparing strategies, monitoring and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

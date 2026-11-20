@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "part-1-presentation-0539"
 description: "Original practice for 0539 Speaking Part 1: topic and cue-card checks, language upgrades, a full 20-mark presentation task and a self-marking exercise."
 author: "marlbridge-academic-team"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to farheen-zehra (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

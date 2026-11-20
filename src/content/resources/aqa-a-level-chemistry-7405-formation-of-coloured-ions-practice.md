@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "formation-of-coloured-ions-7405"
 description: "Original AQA 7405 questions with marked answers on why transition metal ions are coloured, using delta E equals hc over lambda, factors that change colour and colorimetry."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "ib-myp-individuals-and-societies-assessment-criteria-b-investigating"
 description: "Study guide to IB MYP Individuals and Societies Criterion B: forming a focused research question, planning, choosing methods, recording information and evaluating the investigation."
 author: "marlbridge-academic-team"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

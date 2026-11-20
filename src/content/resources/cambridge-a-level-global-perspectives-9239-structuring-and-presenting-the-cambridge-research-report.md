@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "structuring-and-presenting-the-cambridge-research-report-9239"
 description: "How to organise the 9239 Cambridge Research Report: introduction, body, conclusion, word count, terminology, citation and referencing, and academic honesty."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

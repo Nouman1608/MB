@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "human-resource-management-objectives-ocr-alevel-business"
 description: "Study guide to human resource management objectives for OCR A Level Business H431: types of objective, SMART targets, labour turnover and absence calculations and evaluating objectives."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

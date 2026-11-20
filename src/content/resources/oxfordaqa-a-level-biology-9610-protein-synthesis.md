@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "protein-synthesis-oxfordaqa-alevel-biology"
 description: "A focused guide to section 3.1.8 of OxfordAQA International A-level Biology 9610: the genetic code, transcription, translation, pre-mRNA splicing and protein folding."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

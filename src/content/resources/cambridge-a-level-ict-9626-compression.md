@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "compression"
 description: "Study guide to section 19.4 of Cambridge A Level IT 9626: what compression is, lossless and lossy methods, run length encoding, and the effects of compression on images."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

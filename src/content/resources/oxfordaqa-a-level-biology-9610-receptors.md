@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "receptors-oxfordaqa-alevel-biology"
 description: "A focused guide to section 3.4.2 of OxfordAQA International A-level Biology 9610: the Pacinian corpuscle, generator potentials and the rods and cones of the human retina."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

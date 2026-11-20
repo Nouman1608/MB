@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "base-properties-7405"
 description: "AQA 7405 base properties of amines in depth: amines as proton acceptors, the base strength order of primary aliphatic amines, ammonia and phenylamine, and explaining it with the lone pair."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

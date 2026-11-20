@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "acylation-7405"
 description: "AQA 7405 acylation in depth: acid anhydride, acyl chloride and amide structures, the addition-elimination mechanism, products with water, alcohols, ammonia and amines, and aspirin."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

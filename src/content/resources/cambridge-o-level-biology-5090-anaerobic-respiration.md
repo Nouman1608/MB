@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "anaerobic-respiration"
 description: "Deeper guide to 5090 subtopic 10.3: anaerobic respiration in humans and yeast, lactic acid, excess post-exercise oxygen consumption and how the oxygen debt is repaid."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "genetic-disorders-oxfordaqa-igcse-biology"
 description: "Original OxfordAQA IGCSE Biology 9201 questions on 3.5.4 genetic disorders: genetic diagrams, carriers, family probability and Down's syndrome, with answers."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "business-ownership-oxfordaqa-igcse-business"
 description: "Twelve original questions with answers on sole traders, partnerships, limited liability, profit sharing and public and private sector ownership for OxfordAQA IGCSE Business 9225 3.1.2."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

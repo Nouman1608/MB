@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "plant-tissues-organs-and-systems-oxfordaqa-igcse-biology"
 description: "OxfordAQA IGCSE Biology 9201 section 3.1.4 in depth: plant tissues, the leaf as an organ, and xylem and phloem in a dicot root and stem."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

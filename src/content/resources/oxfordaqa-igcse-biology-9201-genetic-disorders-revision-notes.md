@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "genetic-disorders-oxfordaqa-igcse-biology"
 description: "Condensed OxfordAQA IGCSE Biology 9201 notes on 3.5.4: inherited disorders, dominant and recessive alleles, carriers and Down's syndrome, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

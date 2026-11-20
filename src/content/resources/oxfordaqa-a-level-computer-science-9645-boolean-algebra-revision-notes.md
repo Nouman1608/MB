@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "boolean-algebra-oxfordaqa-alevel-cs"
 description: "Recall notes for OxfordAQA 9645 sub-topic 3.7.7 Boolean algebra: precedence, laws, identities, De Morgan's laws, simplification method and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

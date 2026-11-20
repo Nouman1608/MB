@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "modification-of-alkanes-by-cracking-7405"
 description: "AQA 7405 cracking in depth: thermal and catalytic cracking conditions, products, balanced equations, calculations and the economic reasons for cracking."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

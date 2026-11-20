@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "graphs-oxfordaqa-alevel-cs"
 description: "OxfordAQA 9645 sub-topic 3.10.1 in depth: graph terms, weighted and directed graphs, adjacency matrices and lists, and when to use each, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "exercise-1-sentence-transformation-3248"
 description: "How to transform Urdu sentences with a given prompt without changing meaning in 3248 Paper 2 Exercise 1: voice, speech, linking, negatives and register."
 author: "marlbridge-academic-team"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to farheen-zehra (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

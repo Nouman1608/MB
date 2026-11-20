@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "population-and-communication-9230"
 description: "Population and communication for OxfordAQA IGCSE Geography 9230: world population growth, birth-rate policies, migration, ports and airports, and ICT."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the specification asks for examples from one or more areas but does not fix them. This page uses China and Thailand (birth-rate policies), Syrian refugees and economic migration to the Gulf (migration), Heathrow expansion (airport) and India (ICT). Check dates, figures and the current status of the Heathrow proposals against your own notes."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: the specification asks for examples from one or more areas but does not fix them. This page uses China and Thailand (birth-rate policies), Syrian refugees and economic migration to the Gulf (migration), Heathrow expansion (airport) and India (ICT). Check dates, figures and the current status of the Heathrow proposals against your own notes."
 ---
 
 This guide covers section 3.2.3.2, Population and communication, in Section C (Global issues) of Unit 2 of the OxfordAQA International GCSE Geography (9230) specification, Version 4.3. In Section C, students study **either** Water and energy resources **or** Population and communication, so you only need this theme if your class chose the population option. It has four key ideas: global population is increasing and strategies manage this; there are reasons for international migration, with significant impacts; developments in ocean ports and airports offer opportunities and challenges; and the development of ICT has led to worldwide opportunities. The specification gives only some examples, so this guide offers them as a framework. If your class used other places, keep the headings.

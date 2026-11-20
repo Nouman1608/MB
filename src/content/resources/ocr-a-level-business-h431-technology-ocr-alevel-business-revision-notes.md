@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "technology-ocr-alevel-business"
 description: "Revision notes on technology in operations for OCR A Level Business H431: applications, benefits and costs, payback, stakeholders and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

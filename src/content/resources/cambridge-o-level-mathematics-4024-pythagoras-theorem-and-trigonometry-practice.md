@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "pythagoras-theorem-and-trigonometry-4024"
 description: "Original practice questions with worked answers on 4024 section 6.4: three-dimensional problems with Pythagoras' theorem and trigonometry, including the angle between a line and a plane."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

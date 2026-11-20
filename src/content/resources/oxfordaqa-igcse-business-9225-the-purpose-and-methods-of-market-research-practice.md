@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "the-purpose-and-methods-of-market-research-oxfordaqa-igcse-business"
 description: "Twelve original questions with answers on primary and secondary, qualitative and quantitative research, interpreting survey data and inaccurate results for OxfordAQA IGCSE Business 9225 3.5.3."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

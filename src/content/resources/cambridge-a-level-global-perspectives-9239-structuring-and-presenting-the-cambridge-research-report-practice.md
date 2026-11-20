@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "structuring-and-presenting-the-cambridge-research-report-9239"
 description: "Original practice on structuring the 9239 Research Report: word limit, introduction and conclusion, referencing, plagiarism and presentation for a non-specialist reader."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

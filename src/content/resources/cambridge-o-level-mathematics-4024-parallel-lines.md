@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "parallel-lines-4024"
 description: "Study guide to 4024 section 3.6: the gradient and equation of a straight line parallel to a given line, with rearranging, worked examples and common mistakes."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

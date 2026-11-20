@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "physical-landscapes-in-middle-and-far-east-9230"
 description: "Condensed notes on the Middle and Far East landscapes for OxfordAQA IGCSE Geography 9230: key uplands, lowlands and rivers, with a method and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the specification does not define the Middle and Far East. Check the region boundaries, heights and river lengths (all approximate) against your atlas and class notes."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: the specification does not define the Middle and Far East. Check the region boundaries, heights and river lengths (all approximate) against your atlas and class notes."
 ---
 
 These notes cover section 3.1.3.1, Physical landscapes in Middle and Far East, of the OxfordAQA International GCSE Geography (9230) specification, Version 4.3. Key idea: "The Middle and Far East have a range of diverse landscapes." The content is "an overview of the location of major upland/lowland areas and river systems." For full explanations, read the [Middle and Far East study guide](/resources/oxfordaqa-igcse-geography-9230-physical-landscapes-middle-far-east/). For the whole unit, see the [Living with the Physical Environment study guide](/resources/igcse-oxfordaqa-geography-living-with-the-physical-environment/).

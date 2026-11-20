@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "diamond-8462"
 description: "AQA GCSE Chemistry 8462 section 4.2.3.1 in depth: four covalent bonds per carbon atom, a giant covalent structure, and why diamond is very hard, has a very high melting point and does not conduct."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "banking-0715"
 description: "Banking services, choosing between them and the impact of digital banking, for Cambridge IGCSE Commerce 0715 section 5.2."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

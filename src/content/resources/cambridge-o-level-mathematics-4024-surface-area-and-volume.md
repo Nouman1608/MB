@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "surface-area-and-volume-4024"
 description: "Study guide to 4024 section 5.4: surface area and volume of cuboids, prisms, cylinders, spheres, pyramids and cones, using the formulas given, with answers in terms of pi."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "file-and-data-management"
 description: "Cambridge 9626 IT section 10.4 study guide: file types and formats, indexed sequential and direct access, types of DBMS and management information systems, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the example file formats classed as proprietary or open, and the hashing example, against the teaching materials used for the course."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: check the example file formats classed as proprietary or open, and the hashing example, against the teaching materials used for the course."
 ---
 
 This guide teaches **section 10.4 File and data management** of Topic 10 Database and file concepts in the Cambridge International AS & A Level Information Technology 9626 syllabus for 2025, 2026 and 2027. It is AS Level content, examined in Paper 1 Theory. The [Database and file concepts overview](/resources/a-level-cambridge-ict-database-and-file-concepts/) covers the topic as a whole; this page explains file types and formats, the two ways of finding records in a file, the types of database management system and management information systems. Use it with the [file and data management revision notes](/resources/cambridge-a-level-ict-9626-file-and-data-management-revision-notes/) and the [file and data management practice questions](/resources/cambridge-a-level-ict-9626-file-and-data-management-practice/).

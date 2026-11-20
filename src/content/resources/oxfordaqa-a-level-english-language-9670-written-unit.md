@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "written-unit-9670"
 description: "How to approach the 9670 Unit 4 written route: devising a research question from supplied data, choosing texts, and writing a four-part report in the exam."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

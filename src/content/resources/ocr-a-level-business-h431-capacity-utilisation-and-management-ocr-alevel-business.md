@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "capacity-utilisation-and-management-ocr-alevel-business"
 description: "Study guide to capacity utilisation and management for OCR A Level Business H431: calculating utilisation, unit cost effects, changing capacity and improving capacity management."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

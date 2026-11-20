@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "nutrient-cycles"
 description: "Original practice questions with full answers on 5090 subtopic 19.2: the carbon cycle, the nitrogen cycle and decomposition."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

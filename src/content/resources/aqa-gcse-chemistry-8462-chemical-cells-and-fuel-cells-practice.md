@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "chemical-cells-and-fuel-cells-8462"
 description: "Ten original AQA GCSE Chemistry 8462 questions on section 4.5.2: simple cells, batteries, rechargeable cells, hydrogen fuel cells and half equations, with mark-scheme answers."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

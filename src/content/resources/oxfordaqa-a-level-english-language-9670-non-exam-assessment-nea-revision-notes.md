@@ -19,10 +19,12 @@ syllabusTopics:
     subtopic: "non-exam-assessment-nea-9670"
 description: "Revision notes on the 9670 Unit 4 language investigation: the task, question types, data, six report sections, mark bands and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to ammar-bilal (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the specification gives the NEA report length as approximately 2,500 words (excluding data) in 3.4.2 but 2,500 to 3,000 words in the 2.3 overview table. Both are reported; check the current OxfordAQA NEA guidance."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: the specification gives the NEA report length as approximately 2,500 words (excluding data) in 3.4.2 but 2,500 to 3,000 words in the 2.3 overview table. Both are reported; check the current OxfordAQA NEA guidance."
 ---
 These notes condense the non-exam assessment route of Unit 4 (section 3.4.2) of the OxfordAQA International AS and A-level English Language (9670) specification, Version 5.2. For the full explanation and a worked plan, use the [NEA study guide](/resources/oxfordaqa-a-level-english-language-9670-non-exam-assessment-nea/); then try the [practice questions](/resources/oxfordaqa-a-level-english-language-9670-non-exam-assessment-nea-practice/). The other route is in the [written unit revision notes](/resources/oxfordaqa-a-level-english-language-9670-written-unit-revision-notes/).
 

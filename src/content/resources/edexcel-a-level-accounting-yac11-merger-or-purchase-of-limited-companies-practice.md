@@ -19,10 +19,12 @@ syllabusTopics:
     subtopic: "merger-or-purchase-of-limited-companies-yac11"
 description: "Nine original purchase and merger questions for Edexcel IAL Accounting (YAC11) 2.1.12-2.1.15: revaluation, realisation, acquisition accounts, goodwill and the combined statement, with answers."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check that the account layouts in the answers (revaluation, realisation, sundry shareholders' and acquisition accounts) match the layouts used in Pearson's textbook and past mark schemes."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: check that the account layouts in the answers (revaluation, realisation, sundry shareholders' and acquisition accounts) match the layouts used in Pearson's textbook and past mark schemes."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

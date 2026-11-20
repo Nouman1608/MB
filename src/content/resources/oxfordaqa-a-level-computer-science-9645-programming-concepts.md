@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "programming-concepts-oxfordaqa-alevel-cs"
 description: "OxfordAQA 9645 sub-topic 3.1.2 in depth: statement types, iteration, operators, string handling, exceptions, subroutines, scope and stack frames."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

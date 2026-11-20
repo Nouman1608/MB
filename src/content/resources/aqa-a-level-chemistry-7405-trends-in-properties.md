@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "trends-in-properties-7405"
 description: "AQA 7405 halogen trends in depth: electronegativity, boiling points, displacement reactions, halide ions with concentrated sulfuric acid and silver nitrate tests."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

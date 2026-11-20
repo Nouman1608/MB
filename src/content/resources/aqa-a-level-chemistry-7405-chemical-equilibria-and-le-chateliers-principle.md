@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "chemical-equilibria-and-le-chateliers-principle-7405"
 description: "AQA 7405 chemical equilibria and Le Chatelier's principle in depth: dynamic equilibrium, predicting shifts for concentration, pressure and temperature, catalysts and industrial compromise conditions."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "aerobic-respiration"
 description: "Original practice questions with full answers on 5090 subtopic 10.2: the definition and equations for aerobic respiration, checking the balance and interpreting experimental data."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

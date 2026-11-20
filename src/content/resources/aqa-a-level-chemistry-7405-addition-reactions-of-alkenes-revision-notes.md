@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "addition-reactions-of-alkenes-7405"
 description: "Condensed AQA 7405 notes on electrophilic addition: HBr, H2SO4 and Br2 mechanisms, the bromine water test, carbocation stability, major and minor products and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

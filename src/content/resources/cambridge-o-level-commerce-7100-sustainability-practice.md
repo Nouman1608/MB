@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "sustainability-7100"
 description: "Original questions with full answers on Cambridge O Level Commerce 7100 sub-topic 6.1: sustainability actions in the supply chain with packaging, recycling, returns and water sums."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

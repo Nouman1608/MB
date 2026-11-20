@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "financial-statements-of-limited-companies-yac11"
 description: "Ten original company accounts questions for Edexcel IAL Accounting (YAC11) 2.1.1-2.1.3: IAS 1 statements, audit and directors' reports, discontinued operations and exceptional items, with answers."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

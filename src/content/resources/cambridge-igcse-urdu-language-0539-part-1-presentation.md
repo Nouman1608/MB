@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "part-1-presentation-0539"
 description: "How to choose a topic, build a cue card and deliver a two- to three-minute Urdu presentation for Part 1 of the optional 0539 Speaking test."
 author: "marlbridge-academic-team"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to farheen-zehra (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

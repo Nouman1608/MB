@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "alkenes-4ch1"
 description: "4CH1 alkenes revision notes: the C=C group, general formula, unsaturation, drawing and naming, bromine addition and the bromine water test, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

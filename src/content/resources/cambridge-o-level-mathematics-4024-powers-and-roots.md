@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "powers-and-roots-4024"
 description: "Cambridge O Level Maths 4024 subtopic 1.3 in depth: squares, square roots, cubes, cube roots and other powers and roots, with signs, order of operations and calculator use."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

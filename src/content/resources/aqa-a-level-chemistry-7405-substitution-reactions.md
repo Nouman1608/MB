@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "substitution-reactions-7405"
 description: "AQA 7405 ligand substitution in depth: water, ammonia and chloride ligands, co-ordination number changes, bidentate and multidentate ligands, haem, carbon monoxide and the chelate effect."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

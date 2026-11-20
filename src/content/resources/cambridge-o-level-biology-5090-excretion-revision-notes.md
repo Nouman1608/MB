@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "excretion-content"
 description: "Condensed recall for 5090 subtopic 13.1: excretion, carbon dioxide and the lungs, urea and the liver, excretion compared with egestion and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

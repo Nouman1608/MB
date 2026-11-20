@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "surface-area-and-volume-4024"
 description: "Revision notes for 4024 section 5.4: formula table for volume and surface area of prisms, cylinders, cones, spheres and pyramids, slant height, melting problems and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

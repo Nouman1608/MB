@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "conceptual-data-models-and-entity-relationship-modelling-7517"
 description: "Condensed AQA 7517 section 4.10.1 recall: entities, attributes, identifiers, relationship types, link entities, entity descriptions and a step-by-step modelling method."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

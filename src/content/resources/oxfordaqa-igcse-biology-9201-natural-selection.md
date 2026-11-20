@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "natural-selection-oxfordaqa-igcse-biology"
 description: "OxfordAQA IGCSE Biology 9201 section 3.6.2 in depth: Lamarck's idea, evolution by natural selection, time scales and the formation of new species."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

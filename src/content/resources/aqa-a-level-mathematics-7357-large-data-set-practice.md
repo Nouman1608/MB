@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "large-data-set-aqa-alevel-maths"
 description: "Original AQA A-level Maths 7357 practice on large data set skills: cleaning data, summary statistics, outliers, comparing sets, sampling and limitations, with mark-by-mark answers."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check wording against AQA's current large data set record; all data in the questions are invented."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: check wording against AQA's current large data set record; all data in the questions are invented."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

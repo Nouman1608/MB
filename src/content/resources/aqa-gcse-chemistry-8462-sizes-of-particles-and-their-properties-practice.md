@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "sizes-of-particles-and-their-properties-8462"
 description: "Twelve original AQA GCSE Chemistry 8462 questions on section 4.2.4.1: nanoparticle sizes, standard form, surface area to volume ratio and properties, with answers."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

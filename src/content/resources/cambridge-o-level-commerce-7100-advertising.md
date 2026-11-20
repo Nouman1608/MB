@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "advertising-7100"
 description: "Study guide to Cambridge O Level Commerce 7100 sub-topic 5.1: purposes and types of advertising, traditional and digital media, factors affecting choice, methods of appeal and sales promotion, with cost sums."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "dna-genes-and-chromosomes-oxfordaqa-alevel-biology"
 description: "A focused guide to section 3.1.7 of OxfordAQA International A-level Biology 9610: nucleotides, DNA and RNA, chromosomes, genes, introns and semi-conservative replication."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

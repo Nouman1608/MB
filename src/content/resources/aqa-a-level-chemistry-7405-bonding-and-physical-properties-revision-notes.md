@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "bonding-and-physical-properties-7405"
 description: "Condensed AQA 7405 notes on bonding and physical properties: the four crystal types, six named structures, melting point and conductivity explanations and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

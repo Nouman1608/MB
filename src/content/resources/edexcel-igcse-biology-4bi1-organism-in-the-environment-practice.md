@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "the-organism-in-the-environment-4bi1"
 description: "Nine original Edexcel IGCSE Biology 4BI1 questions on ecological terms, quadrat estimates, biodiversity and abiotic and biotic factors, with answers."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

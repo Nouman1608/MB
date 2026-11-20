@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "initial-preparation-and-research-proposal-9239"
 description: "Original practice on the 9239 research proposal: judging research questions, choosing key concepts, outlining the debate and explaining how a question developed."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

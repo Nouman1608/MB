@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "population-and-communication-9230"
 description: "Condensed notes on population and communication for OxfordAQA IGCSE Geography 9230: growth, birth-rate policies, migration, ports and airports, ICT."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the specification does not fix the examples. This page uses China and Thailand (birth-rate policies), Syrian refugees and Gulf migration, Heathrow expansion and India (ICT). Check dates, figures and the current status of the Heathrow proposals against your own notes."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: the specification does not fix the examples. This page uses China and Thailand (birth-rate policies), Syrian refugees and Gulf migration, Heathrow expansion and India (ICT). Check dates, figures and the current status of the Heathrow proposals against your own notes."
 ---
 
 These notes cover section 3.2.3.2, Population and communication, of the OxfordAQA International GCSE Geography (9230) specification, Version 4.3. Students study either Water and energy resources or Population and communication in Section C. For full explanations, read the [population and communication study guide](/resources/oxfordaqa-igcse-geography-9230-population-and-communication/).

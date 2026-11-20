@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "circle-theorems-ii-4024"
 description: "Study guide to 4024 section 4.8: the symmetry properties of circles, equal chords, the perpendicular bisector of a chord through the centre, and tangents from an external point."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

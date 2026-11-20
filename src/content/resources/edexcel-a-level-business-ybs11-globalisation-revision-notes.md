@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "globalisation-ybs11"
 description: "Revision notes for Edexcel IAL Business 4.3.1: economy types, GDP and HDI, trade and FDI, causes of globalisation, protectionism and trading blocs, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

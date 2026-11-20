@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "exercise-1-short-answer-questions-3248"
 description: "How to skim a short Urdu text and give single-word or short-phrase answers in 3248 Paper 1 Exercise 1: question words, answer length and common slips."
 author: "marlbridge-academic-team"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to farheen-zehra (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

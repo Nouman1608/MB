@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "costs-revenue-and-profit-ocr-alevel-business"
 description: "Study guide to costs, revenue and profit for OCR A Level Business H431: cost and revenue terms, direct and overhead costs, cost and profit centres, full, absorption and marginal costing."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "perspectives-9239"
 description: "What a perspective is in the 9239 Cambridge Research Report, how to build and compare contrasting perspectives and how to reach a judgement between them."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "making-marketing-decisions-using-the-marketing-mix-aqa-alevel-business"
 description: "Condensed recall for AQA A-level Business 7132 section 3.3.4: the 7Ps, Boston Matrix, product life cycle, pricing, promotion, place and the integrated mix, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

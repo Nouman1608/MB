@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "challenges-of-rapid-economic-development-9230"
 description: "Rapid economic development for OxfordAQA IGCSE Geography 9230: a case study framework using China, covering industry, TNCs, trade, aid and environmental and social change."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the course does not fix the case-study country. This page uses China. Check every figure and date: reforms from 1978, special economic zones from 1980, WTO entry 2001, sector shares of GDP and employment, poverty reduction, number of migrant workers, coal share of electricity, Belt and Road (2013), one-child policy (1979 to 2015) and the Foxconn and Apple example."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: the course does not fix the case-study country. This page uses China. Check every figure and date: reforms from 1978, special economic zones from 1980, WTO entry 2001, sector shares of GDP and employment, poverty reduction, number of migrant workers, coal share of electricity, Belt and Road (2013), one-child policy (1979 to 2015) and the Foxconn and Apple example."
 ---
 
 This guide covers section 3.2.2.2, Challenges of rapid economic development, in Section B (The changing economic world) of Unit 2 of the OxfordAQA International GCSE Geography (9230) specification, Version 4.3. The key idea is: "Some LICs and NEEs are experiencing rapid economic development which leads to significant social, environmental and cultural change." The specification requires **a case study of an LIC or NEE**. It does not name a country, so this guide uses China as a worked framework. If your class studied another country, such as India, Nigeria, Brazil or Bangladesh, keep the same headings and replace the facts. This page goes deeper than the earlier theme on [global variations in development](/resources/oxfordaqa-igcse-geography-9230-global-variations-economic-development/).

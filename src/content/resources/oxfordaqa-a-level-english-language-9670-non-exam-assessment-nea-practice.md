@@ -19,10 +19,12 @@ syllabusTopics:
     subtopic: "non-exam-assessment-nea-9670"
 description: "Original practice tasks with marking guidance for the 9670 Unit 4 language investigation: choosing questions, planning methods, analysing data and judging mark bands."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to ammar-bilal (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the specification gives the NEA report length as approximately 2,500 words (excluding data) in 3.4.2 but 2,500 to 3,000 words in the 2.3 overview table. Question 7 uses 2,500; check the current OxfordAQA NEA guidance."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: the specification gives the NEA report length as approximately 2,500 words (excluding data) in 3.4.2 but 2,500 to 3,000 words in the 2.3 overview table. Question 7 uses 2,500; check the current OxfordAQA NEA guidance."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions.

@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "blood"
 description: "Deeper guide to 5090 subtopic 11.4: components of blood, identifying red and white cells, the functions of each component and exchange through tissue fluid."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

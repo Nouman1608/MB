@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "job-costing-yac11"
 description: "Nine original job and batch costing questions for Edexcel IAL Accounting (YAC11) 1.4.12-1.4.13: job cost sheets, pricing, batch costs and work in progress, with full answers."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

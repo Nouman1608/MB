@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "energy-transferred-in-ecosystems-oxfordaqa-igcse-biology"
 description: "OxfordAQA IGCSE Biology 9201 section 3.3.1 in depth: the 1 % and 10 % figures, energy losses, pyramids of biomass and efficient food production."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

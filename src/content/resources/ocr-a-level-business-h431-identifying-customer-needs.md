@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "identifying-customer-needs-ocr-alevel-business"
 description: "Study guide to identifying customer needs for OCR A Level Business H431: market research, sampling, standard deviation, market share and market growth."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "buffer-action-7405"
 description: "AQA 7405 buffer action in depth: acidic and basic buffers, how they resist pH change, calculating the pH of acidic buffers, making buffers by partial neutralisation and applications."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

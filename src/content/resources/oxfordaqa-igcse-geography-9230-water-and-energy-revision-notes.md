@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "water-and-energy-9230"
 description: "Condensed notes on water and energy for OxfordAQA IGCSE Geography 9230: security, strategies, sustainability and four examples, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the course does not fix the four examples. This page uses the South-North Water Transfer (China), sand dams in Kitui (Kenya), oil in the Niger Delta (Nigeria) and micro-hydro schemes in Nepal. Check every detail against your own notes."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: the course does not fix the four examples. This page uses the South-North Water Transfer (China), sand dams in Kitui (Kenya), oil in the Niger Delta (Nigeria) and micro-hydro schemes in Nepal. Check every detail against your own notes."
 ---
 
 These notes cover section 3.2.3.1, Water and energy, of the OxfordAQA International GCSE Geography (9230) specification, Version 4.3. Students study either Water and energy resources or Population and communication in Section C. Key ideas: demand for water and for energy is rising globally but supply can be insecure, which may lead to conflict; different strategies can be used to increase supply. For full explanations, read the [water and energy study guide](/resources/oxfordaqa-igcse-geography-9230-water-and-energy/).

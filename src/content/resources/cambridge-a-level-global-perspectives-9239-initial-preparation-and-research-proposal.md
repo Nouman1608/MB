@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "initial-preparation-and-research-proposal-9239"
 description: "How to choose a topic, build a debatable research question, identify key concepts and complete the research proposal for the 9239 Cambridge Research Report."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "influences-on-business-decisions-ybs11"
 description: "Study guide to Edexcel IAL Business 3.3.4: corporate culture, the stakeholder and shareholder models, business ethics, pay and rewards, and corporate social responsibility."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

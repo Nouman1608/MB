@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "part-1-presentation-0539"
 description: "Recall notes for 0539 Speaking Part 1: rules for the topic, cue card and illustrative material, structure, linking phrases and the assessment criteria."
 author: "marlbridge-academic-team"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to farheen-zehra (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "assessing-innovation-aqa-alevel-business"
 description: "Study guide to AQA A-level Business 7132 section 3.9.2: pressures for innovation, product and process innovation, Kaizen, R&D, intrapreneurship, benchmarking and protecting intellectual property."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

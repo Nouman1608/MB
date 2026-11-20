@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "definition-and-determination-of-ph-7405"
 description: "AQA 7405 pH in depth: the logarithmic scale, converting between [H+] and pH, strong acid calculations, dilution and mixing, significant figures and common errors."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

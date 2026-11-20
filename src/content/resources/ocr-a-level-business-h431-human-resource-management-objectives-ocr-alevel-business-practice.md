@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "human-resource-management-objectives-ocr-alevel-business"
 description: "Original OCR A Level Business H431 questions with full answers on HR objectives, labour turnover, absence, labour cost and recommending objectives."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

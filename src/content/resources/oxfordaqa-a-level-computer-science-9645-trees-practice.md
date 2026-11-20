@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "trees-oxfordaqa-alevel-cs"
 description: "Ten original OxfordAQA 9645 questions on sub-topic 3.10.2 Trees: tree properties, rooted and binary trees, building and searching binary search trees, with answers."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

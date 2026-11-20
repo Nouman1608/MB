@@ -19,10 +19,12 @@ syllabusTopics:
     subtopic: "common-graphics-skills"
 description: "Study guide to section 19.1 of Cambridge A Level IT 9626: layers, transform and alignment tools, colour systems, resolution, file formats and exporting images."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the expansion given for CMS (colour management system) and the typical resolution figures against the course materials; the syllabus lists CMS but does not expand it."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: check the expansion given for CMS (colour management system) and the typical resolution figures against the course materials; the syllabus lists CMS but does not expand it."
 ---
 
 This guide goes deeper into section **19.1 Common graphics skills** of the Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027 (version 4). It is **A Level only** content. The syllabus says that Paper 4 (Advanced Practical) tests sections 17 to 21 and that Paper 3 (Advanced Theory) is based on sections 12 to 21, so you need both the practical skills and the explanations.

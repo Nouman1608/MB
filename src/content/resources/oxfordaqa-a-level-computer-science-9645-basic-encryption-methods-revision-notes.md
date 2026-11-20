@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "basic-encryption-methods-oxfordaqa-alevel-cs"
 description: "Recall notes for OxfordAQA 9645 sub-topic 3.5.7: Caesar and Vernam ciphers, perfect and computational security, key exchange and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

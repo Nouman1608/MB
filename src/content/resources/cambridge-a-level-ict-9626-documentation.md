@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "documentation"
 description: "Study guide to section 16.6 of Cambridge A Level IT 9626: requirements and design, technical, user and marketing documentation, their contents and their advantages and disadvantages."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

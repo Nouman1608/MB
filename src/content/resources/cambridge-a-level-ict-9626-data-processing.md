@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "data-processing"
 description: "Cambridge 9626 IT section 1.5 study guide: batch, online and real-time processing, master and transaction files, worked update algorithm, and advantages and disadvantages."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

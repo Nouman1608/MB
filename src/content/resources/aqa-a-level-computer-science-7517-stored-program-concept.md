@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "the-stored-program-concept-7517"
 description: "Deeper guide to AQA 7517 section 4.7.2: the stored program concept, machine code in main memory, serial fetch and execute, with a traced example."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

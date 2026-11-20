@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "external-quality-standards-ocr-alevel-business"
 description: "Revision notes on external quality standards for OCR A Level Business H431: BS, EN, ISO, certification, benchmarking, evaluation and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

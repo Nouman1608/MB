@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "exercise-4-summary-3248"
 description: "How to write an Urdu summary of at most 100 words in 3248 Paper 1 Exercise 4: choosing points, using your own words, linking ideas and checking length."
 author: "marlbridge-academic-team"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to farheen-zehra (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

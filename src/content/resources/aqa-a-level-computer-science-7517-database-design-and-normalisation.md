@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "database-design-and-normalisation-techniques-7517"
 description: "Deeper guide to AQA 7517 section 4.10.3: why databases are normalised, functional dependencies and a full worked normalisation to first, second and third normal form."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

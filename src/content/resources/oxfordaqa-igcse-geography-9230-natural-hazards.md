@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "natural-hazards-9230"
 description: "Natural hazards for OxfordAQA IGCSE Geography 9230: what a hazard is, the main types, and the physical and human factors that raise or lower hazard risk."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

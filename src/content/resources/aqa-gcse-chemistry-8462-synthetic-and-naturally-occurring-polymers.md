@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "synthetic-and-naturally-occurring-polymers-8462"
 description: "AQA GCSE Chemistry 8462 section 4.7.3 in depth: addition polymers, condensation polymers, amino acids and polypeptides, DNA, proteins, starch and cellulose."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

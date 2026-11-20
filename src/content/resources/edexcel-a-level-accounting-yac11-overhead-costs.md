@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "overhead-costs-yac11"
 description: "Study guide to overhead costs for Edexcel IAL Accounting (YAC11): cost behaviour, apportionment, service departments, absorption rates and under or over absorption."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

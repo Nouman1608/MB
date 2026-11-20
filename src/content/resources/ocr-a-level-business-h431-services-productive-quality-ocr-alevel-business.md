@@ -15,10 +15,12 @@ syllabusTopics:
     subtopic: "services-productive-quality-ocr-alevel-business"
 description: "Study guide to services in productive quality for OCR A Level Business H431: how services are provided, the UK economy, measuring service quality and improving customer service."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the stated share of UK output and jobs that comes from services against the latest ONS release."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: check the stated share of UK output and jobs that comes from services against the latest ONS release."
 ---
 
 This guide covers the Services content in the area of study Productive quality (fit for purpose), part of the Operational strategy topic of the OCR A Level Business (H431) specification, Version 2.1 (January 2026), final assessment summer 2027. It is numbered 4.15 on this site; the specification does not number its content headings, and a heading called Services also appears under The production process, which this page does not cover. The [operational strategy study guide](/resources/ocr-a-level-business-operational-strategy/) gives the short version. This page goes further: it sets out what is different about a service, how a service is delivered, how its quality can be measured and what poor customer service costs. All businesses and figures are invented.

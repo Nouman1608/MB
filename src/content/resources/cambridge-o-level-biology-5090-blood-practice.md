@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "blood"
 description: "Original practice questions with full answers on 5090 subtopic 11.4: blood cells, platelets and clotting, plasma and the transfer of substances through tissue fluid."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "video-editing"
 description: "Thirteen original Cambridge 9626 IT section 11.1 questions with answers on editing features, still images, compression, resolutions and export formats."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

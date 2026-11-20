@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "large-data-set-aqa-alevel-maths"
 description: "AQA A-level Maths 7357 section 3.21.1 in depth: getting familiar with the large data set, cleaning data, using technology, subsets, summary statistics and interpreting results in context."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check which large data set AQA currently publishes for the exam series and that the generic wording here matches the current record."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: check which large data set AQA currently publishes for the exam series and that the generic wording here matches the current record."
 ---
 
 This guide goes deeper into section **3.21.1 Large data set** of the AQA A-level Mathematics (7357) specification (version 1.3, for exams from June 2018). Section 3.21 has no lettered content references, and the data set is examined within the statistics content (sections K to O). The [use of data revision notes](/resources/aqa-a-level-mathematics-use-of-data-in-statistics-revision-notes/) give a condensed overview of the whole of 3.21; this page concentrates on how to work with the data set itself. Test yourself afterwards with the [large data set practice questions](/resources/aqa-a-level-mathematics-7357-large-data-set-practice/).

@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "recruitment-ocr-alevel-business"
 description: "Revision notes on recruitment for OCR A Level Business H431: reasons, recruitment documents, internal and external methods, costs and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

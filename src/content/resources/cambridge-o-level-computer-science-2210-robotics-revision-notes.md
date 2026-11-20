@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "robotics-2210"
 description: "Revision notes for Cambridge O Level Computer Science 2210 section 6.2: the meaning of robotics, the three characteristics of a robot, robot roles and advantages and disadvantages, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

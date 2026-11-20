@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "functions-of-management-ocr-alevel-business"
 description: "Study guide to functions of management for OCR A Level Business H431: planning, organising, directing, coordinating and controlling, constraints on managers and judging management success."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

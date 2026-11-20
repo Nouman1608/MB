@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "genetic-disorders-oxfordaqa-igcse-biology"
 description: "OxfordAQA IGCSE Biology 9201 section 3.5.4 in depth: inherited disorders such as polydactyly, cystic fibrosis and sickle cell anaemia, and Down's syndrome."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

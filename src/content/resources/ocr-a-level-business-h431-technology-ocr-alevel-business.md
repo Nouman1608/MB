@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "technology-ocr-alevel-business"
 description: "Study guide to technology in operations for OCR A Level Business H431: automation, CAD, CAM, stock systems, e-commerce, a costed example and stakeholder impact."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

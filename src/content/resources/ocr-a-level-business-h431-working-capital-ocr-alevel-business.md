@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "working-capital-ocr-alevel-business"
 description: "Study guide to working capital for OCR A Level Business H431: the meaning of working capital, the working capital cycle, its length in days, and how changing it affects cash."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

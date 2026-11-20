@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "analysis"
 description: "Study guide to section 16.2 of Cambridge A Level IT 9626: questionnaires, interviews, observation, document analysis and the three specifications, with advantages and disadvantages."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

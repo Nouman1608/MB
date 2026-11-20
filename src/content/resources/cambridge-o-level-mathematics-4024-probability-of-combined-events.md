@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "probability-of-combined-events-4024"
 description: "Study guide to 4024 section 8.3: probabilities of combined events using sample space diagrams, Venn diagrams and tree diagrams, with and without replacement."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

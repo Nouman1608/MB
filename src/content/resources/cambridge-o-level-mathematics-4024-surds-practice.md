@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "surds-4024"
 description: "Seventeen original Cambridge O Level Maths 4024 questions on simplifying surds, expanding brackets and rationalising denominators, with answers."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "regular-languages-7517"
 description: "Deeper guide to AQA 7517 section 4.4.2 Regular languages: finite state machines with and without output, set notation, regular expressions and the definition of a regular language."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

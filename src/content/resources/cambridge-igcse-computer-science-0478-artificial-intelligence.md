@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "artificial-intelligence-0478"
 description: "Study guide to Cambridge IGCSE Computer Science 0478 section 6.3: the meaning and characteristics of artificial intelligence, and the operation and components of expert systems and machine learning."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

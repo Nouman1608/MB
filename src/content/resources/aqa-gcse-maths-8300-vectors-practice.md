@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "vectors-aqa-gcse-maths"
 description: "Eleven original AQA GCSE Maths 8300 questions on G24 and G25: translations, column vector arithmetic, vectors in diagrams and Higher tier vector proofs, with marked answers."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

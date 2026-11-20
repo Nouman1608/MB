@@ -15,10 +15,12 @@ syllabusTopics:
     subtopic: "organisation-ocr-alevel-business"
 description: "Revision notes on organisation for OCR A Level Business H431: structure terms, models, tall and flat structures, delayering, culture and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the specification lists the model 'system' beside matrix and division without defining it; check that the short description of a system structure matches how the board's materials use the term."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: the specification lists the model 'system' beside matrix and division without defining it; check that the short description of a system structure matches how the board's materials use the term."
 ---
 
 Condensed notes on the Organisation content (5.2 on this site) in the area of study Human resource management within a business environment, OCR A Level Business H431, Version 2.1 (January 2026), final assessment summer 2027. Full explanations and a worked delayering example are in the [organisation study guide](/resources/ocr-a-level-business-h431-organisation-ocr-alevel-business/). Test yourself with the [organisation practice questions](/resources/ocr-a-level-business-h431-organisation-ocr-alevel-business-practice/). All figures are invented.

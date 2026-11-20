@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "operations-management-objectives-ocr-alevel-business"
 description: "Study guide to operations management objectives for OCR A Level Business H431: cost, quality, speed, flexibility, trade-offs and recommending objectives."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

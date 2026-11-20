@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "the-purpose-and-nature-of-businesses-oxfordaqa-igcse-business"
 description: "Revision notes for OxfordAQA IGCSE Business 9225 section 3.1.1: reasons for starting a business, factors of production, sectors, entrepreneurs and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

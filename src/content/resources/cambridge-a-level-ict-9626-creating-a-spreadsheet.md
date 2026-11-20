@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "creating-a-spreadsheet"
 description: "Cambridge 9626 IT section 8.1 study guide: page setup, structures, validation, protection, formulas, referencing, functions, formatting and audience, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

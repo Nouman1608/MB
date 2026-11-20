@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "capital-structure-yac11"
 description: "Ten original capital structure questions for Edexcel IAL Accounting (YAC11) 2.1.4-2.1.11: reserves, share issues, rights and bonus issues, gearing and provisions, with full answers."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

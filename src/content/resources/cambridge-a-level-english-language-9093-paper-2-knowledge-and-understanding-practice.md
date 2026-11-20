@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "paper-2-knowledge-and-understanding-9093"
 description: "Original practice for Cambridge 9093 Paper 2 knowledge: conventions, linguistic choices, audience, register and a short text with reflective commentary, with answers."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

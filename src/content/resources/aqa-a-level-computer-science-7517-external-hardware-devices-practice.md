@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "external-hardware-devices-7517"
 description: "Original AQA 7517 section 4.7.4 questions with answers: barcode readers, cameras, laser printers, RFID and the choice of secondary storage."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

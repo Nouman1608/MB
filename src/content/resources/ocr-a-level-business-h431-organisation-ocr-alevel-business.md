@@ -15,10 +15,12 @@ syllabusTopics:
     subtopic: "organisation-ocr-alevel-business"
 description: "Study guide to organisation for OCR A Level Business H431: structure terms, structural models, tall and flat structures, delayering calculations and organisational culture."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the specification lists the model 'system' beside matrix and division without defining it; check that the short description of a system structure matches how the board's materials use the term."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: the specification lists the model 'system' beside matrix and division without defining it; check that the short description of a system structure matches how the board's materials use the term."
 ---
 
 This guide covers the Organisation content in the area of study Human resource management within a business environment, part of the Human resources topic of the OCR A Level Business (H431) specification, Version 2.1 (January 2026), final assessment summer 2027. It is numbered 5.2 on this site; the specification does not number its content headings. The [human resources study guide](/resources/ocr-a-level-business-human-resources/) gives the short version. This page goes further: it defines each structural term with an example, compares the models of organisation structure, calculates the effect of a wider span of control and delayering, and explains organisational culture. All businesses and figures are invented.

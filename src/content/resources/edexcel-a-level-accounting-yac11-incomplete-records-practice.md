@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "incomplete-records-yac11"
 description: "Ten original incomplete records questions for Edexcel IAL Accounting (YAC11) 1.3.8, from opening capital and mark-up to full statements, with worked answers."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

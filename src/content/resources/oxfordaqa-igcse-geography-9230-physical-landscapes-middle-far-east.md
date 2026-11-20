@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "physical-landscapes-in-middle-and-far-east-9230"
 description: "Physical landscapes of the Middle and Far East for OxfordAQA IGCSE Geography 9230: major uplands, lowlands and river systems, with a method for describing them."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the specification gives only 'an overview of the location of major upland/lowland areas and river systems' and does not define the Middle and Far East. Check the region boundaries used, and the approximate heights and river lengths (Everest 8849 m, Damavand about 5610 m, Fuji 3776 m, Yangtze about 6300 km, Yellow River about 5460 km, Mekong about 4350 km, Tigris about 1850 km, Euphrates about 2800 km) against your atlas and class notes."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: the specification gives only 'an overview of the location of major upland/lowland areas and river systems' and does not define the Middle and Far East. Check the region boundaries used, and the approximate heights and river lengths (Everest 8849 m, Damavand about 5610 m, Fuji 3776 m, Yangtze about 6300 km, Yellow River about 5460 km, Mekong about 4350 km, Tigris about 1850 km, Euphrates about 2800 km) against your atlas and class notes."
 ---
 
 This guide covers section 3.1.3.1, Physical landscapes in Middle and Far East, the first theme of Section C (Physical landscapes: Coastal landscapes) in Unit 1 of the OxfordAQA International GCSE Geography (9230) specification, Version 4.3. The key idea is: "The Middle and Far East have a range of diverse landscapes." The specification content is "an overview of the location of major upland/lowland areas and river systems." That means this is a location-knowledge theme. You are expected to know where the main mountains, plateaus, plains and rivers are, and to describe them clearly using an atlas or a map. For the whole unit, start with the [Living with the Physical Environment study guide](/resources/igcse-oxfordaqa-geography-living-with-the-physical-environment/).

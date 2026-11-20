@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "added-value-ocr-alevel-business"
 description: "Study guide to added value for OCR A Level Business H431: meaning, calculation, how it is shared, ways to raise it and its usefulness to a business."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

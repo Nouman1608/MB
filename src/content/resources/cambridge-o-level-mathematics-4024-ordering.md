@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "ordering-4024"
 description: "Cambridge O Level Maths 4024 subtopic 1.5 in depth: the symbols =, not equal, greater than, less than, and ordering fractions, decimals, percentages, negative numbers, powers and roots."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

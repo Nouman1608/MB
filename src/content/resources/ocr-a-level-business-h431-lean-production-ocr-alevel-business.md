@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "lean-production-ocr-alevel-business"
 description: "Study guide to lean production for OCR A Level Business H431: meaning, types of waste, JIT, kaizen, cell production, time-based management and evaluating a lean change."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

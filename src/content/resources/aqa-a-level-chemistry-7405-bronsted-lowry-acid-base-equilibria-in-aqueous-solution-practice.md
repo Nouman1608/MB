@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "bronsted-lowry-acid-base-equilibria-in-aqueous-solution-7405"
 description: "Original AQA 7405 questions with marked answers on proton transfer: acid and base definitions, conjugate pairs, amphoteric species and writing acid–base equilibria in water."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

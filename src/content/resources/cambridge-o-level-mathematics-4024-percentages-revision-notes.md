@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "percentages-4024"
 description: "Revision notes for Cambridge O Level Maths 4024 subtopic 1.13: multipliers, percentage change, profit and loss, simple and compound interest, and reverse percentages."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

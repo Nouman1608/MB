@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "workforce-planning-ocr-alevel-business"
 description: "Study guide to workforce planning for OCR A Level Business H431: demand and supply of labour, a costed workforce plan, flexible working practices and recommending a plan."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

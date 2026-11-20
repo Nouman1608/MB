@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "animal-tissues-organs-and-systems-oxfordaqa-igcse-biology"
 description: "Original OxfordAQA IGCSE Biology 9201 questions on 3.1.3 animal tissues, organs and systems: the stomach, glands and the digestive system, with answers."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

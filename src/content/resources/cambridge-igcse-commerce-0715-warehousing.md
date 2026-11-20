@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "warehousing-0715"
 description: "Functions of warehousing, types of warehouse and the uses and benefits of warehouse automation, for Cambridge IGCSE Commerce 0715 section 4.2."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

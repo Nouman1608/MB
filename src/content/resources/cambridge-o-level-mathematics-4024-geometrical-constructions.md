@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "geometrical-constructions-4024"
 description: "Study guide to 4024 section 4.2: measuring and drawing lines and angles, constructing a triangle from three sides with compasses, and drawing, using and interpreting nets."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

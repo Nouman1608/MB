@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "consumer-protection-7100"
 description: "Study guide to Cambridge O Level Commerce 7100 sub-topic 6.3: the reasons for consumer protection and the actions that buyers and sellers take to resolve consumer protection complaints."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

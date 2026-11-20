@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "uptake-and-transport-of-water-and-ions"
 description: "Deeper guide to 5090 subtopic 7.1: root hair cell structure and function, the pathway of water from soil to leaf and the stain investigation on a cut stem."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "analysing-the-financial-performance-of-a-business-oxfordaqa-igcse-business"
 description: "Study guide to OxfordAQA IGCSE Business 9225 section 3.6.4: the income statement and statement of financial position, gross and net profit margins, and judging performance."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

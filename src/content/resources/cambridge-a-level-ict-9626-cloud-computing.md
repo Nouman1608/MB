@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "cloud-computing"
 description: "Cambridge 9626 IT section 14.4 study guide: characteristics and uses of cloud computing, shared resources, and its advantages and disadvantages for individuals and organisations."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

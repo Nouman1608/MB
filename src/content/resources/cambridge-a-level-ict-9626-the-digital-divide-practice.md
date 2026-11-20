@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "the-digital-divide-content"
 description: "Twelve original Cambridge 9626 IT section 6.1 questions with answers on the digital divide, its causes, effects, affected groups and ways of reducing it."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

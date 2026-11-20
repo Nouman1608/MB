@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "hot-desert-landscapes-9230"
 description: "Condensed notes on hot desert landscapes for OxfordAQA IGCSE Geography 9230: wind and water processes, landforms, and development opportunities and challenges."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the specification asks for examples from the region but does not fix them. This page uses the Arabian Peninsula for development examples. Check them against your own notes."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: the specification asks for examples from the region but does not fix them. This page uses the Arabian Peninsula for development examples. Check them against your own notes."
 ---
 
 These notes cover section 3.1.4.1, Hot desert landscapes, of the OxfordAQA International GCSE Geography (9230) specification, Version 4.3. Students study either hot desert landscapes or river landscapes in Section D. Key ideas: "Hot deserts are shaped by a number of physical processes"; "Distinctive landforms result from different physical processes in hot deserts"; "Development of hot desert environments creates opportunities and challenges." For full explanations, read the [hot desert landscapes study guide](/resources/oxfordaqa-igcse-geography-9230-hot-desert-landscapes/). For the whole unit, see the [Living with the Physical Environment study guide](/resources/igcse-oxfordaqa-geography-living-with-the-physical-environment/).

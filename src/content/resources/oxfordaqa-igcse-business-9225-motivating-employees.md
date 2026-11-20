@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "motivating-employees-oxfordaqa-igcse-business"
 description: "Study guide to OxfordAQA IGCSE Business 9225 section 3.4.3: why motivation matters, financial methods (salary, wage, commission, profit sharing) and non-financial methods (management style, training, responsibility, fringe benefits)."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

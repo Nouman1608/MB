@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "making-financial-decisions-improving-cash-flow-and-profits-aqa-alevel-business"
 description: "Original practice questions with mark-scheme answers on improving cash flow, profits and profitability and the difficulties involved for AQA A-level Business 7132."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

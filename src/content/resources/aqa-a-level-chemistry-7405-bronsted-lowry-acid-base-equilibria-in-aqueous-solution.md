@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "bronsted-lowry-acid-base-equilibria-in-aqueous-solution-7405"
 description: "AQA 7405 Brønsted–Lowry acids and bases in depth: proton transfer, conjugate pairs, water as acid and base, amphoteric species and writing acid–base equilibria."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

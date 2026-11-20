@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "gas-exchange-and-the-transport-of-oxygen-in-living-organisms-oxfordaqa-alevel-biology"
 description: "Revision notes on gas exchange and oxygen transport for OxfordAQA International A-level Biology 9610: SA:V, exchange systems, lung data, haemoglobin and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

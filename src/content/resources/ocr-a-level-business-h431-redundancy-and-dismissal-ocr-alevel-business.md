@@ -15,10 +15,12 @@ syllabusTopics:
     subtopic: "redundancy-and-dismissal-ocr-alevel-business"
 description: "Study guide to redundancy and dismissal for OCR A Level Business H431: fair and unfair dismissal, procedures, grievance, employment tribunals and the costs of redundancy."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the page avoids giving the qualifying period for ordinary unfair dismissal claims because UK employment law is being changed; check the current rule and the current statutory redundancy pay rules before adding any figure."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: the page avoids giving the qualifying period for ordinary unfair dismissal claims because UK employment law is being changed; check the current rule and the current statutory redundancy pay rules before adding any figure."
 ---
 
 This guide covers the Redundancy and dismissal content in the area of study The workforce, part of the Human resources topic of the OCR A Level Business (H431) specification, Version 2.1 (January 2026), final assessment summer 2027. It is numbered 5.9 on this site; the specification does not number its content headings. The [human resources study guide](/resources/ocr-a-level-business-human-resources/) gives the short version. This page goes further: it separates redundancy from dismissal, lists the fair and unfair reasons the specification names, follows the dismissal and grievance procedures step by step, explains employment tribunals and costs a redundancy programme. Employment law changes, so use the figures and rules on this page for understanding only. All businesses and figures are invented.

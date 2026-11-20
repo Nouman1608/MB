@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "identification-of-functional-groups-by-test-tube-reactions-7405"
 description: "AQA 7405 test-tube reactions in depth: reagents, conditions and observations for alkenes, alcohols, aldehydes, carboxylic acids and halogenoalkanes, plus how to plan and interpret identification problems."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

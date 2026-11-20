@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "general-properties-of-transition-metals-7405"
 description: "AQA 7405 transition metals in depth: the d-block definition, electron configurations of atoms and ions, the four characteristic properties and the vocabulary of ligands and complexes."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

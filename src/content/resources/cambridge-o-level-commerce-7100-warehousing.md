@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "warehousing-7100"
 description: "Study guide to Cambridge O Level Commerce 7100 sub-topic 4.2: the functions of warehousing, bonded, cold storage, cash and carry and regional distribution centres, and the uses and benefits of warehouse automation."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

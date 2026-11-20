@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "context-free-languages-7517"
 description: "Condensed AQA 7517 section 4.4.3 recall: Backus-Naur Form, syntax diagrams, recursion, checking and writing rules, and why BNF goes beyond regular expressions."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

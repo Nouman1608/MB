@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "rates-of-reaction-4ch1"
 description: "Twelve original 4CH1 rates of reaction questions on rate calculations, collision theory, catalysts and reaction profiles, with full answers."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

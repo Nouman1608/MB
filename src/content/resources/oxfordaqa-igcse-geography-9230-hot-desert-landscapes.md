@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "hot-desert-landscapes-9230"
 description: "Hot desert landscapes for OxfordAQA IGCSE Geography 9230: wind and water processes, desert landforms, and the opportunities and challenges of development."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the specification asks for examples from the region but does not fix them. This page uses the Arabian Peninsula (Saudi Arabia and the United Arab Emirates) for development examples. Check the details about oil, centre-pivot farming, Dubai tourism and the Dubai solar park against your own notes."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: the specification asks for examples from the region but does not fix them. This page uses the Arabian Peninsula (Saudi Arabia and the United Arab Emirates) for development examples. Check the details about oil, centre-pivot farming, Dubai tourism and the Dubai solar park against your own notes."
 ---
 
 This guide covers section 3.1.4.1, Hot desert landscapes, in Section D (Physical landscapes: Hot deserts or River landscapes) of Unit 1 of the OxfordAQA International GCSE Geography (9230) specification, Version 4.3. In Section D, students study **either** hot desert landscapes **or** river landscapes, so you only need this theme if your class chose the desert option. The key ideas are: "Hot deserts are shaped by a number of physical processes"; "Distinctive landforms result from different physical processes in hot deserts"; and "Development of hot desert environments creates opportunities and challenges." For the whole unit, start with the [Living with the Physical Environment study guide](/resources/igcse-oxfordaqa-geography-living-with-the-physical-environment/). For climate, plants and animals in hot deserts, see the [hot deserts study guide](/resources/oxfordaqa-igcse-geography-9230-hot-deserts/).

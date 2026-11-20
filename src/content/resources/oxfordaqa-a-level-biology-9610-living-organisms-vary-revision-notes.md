@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "living-organisms-vary-oxfordaqa-alevel-biology"
 description: "Revision notes on variation for OxfordAQA International A-level Biology 9610: types and causes of variation, random sampling, normal distribution, SD and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

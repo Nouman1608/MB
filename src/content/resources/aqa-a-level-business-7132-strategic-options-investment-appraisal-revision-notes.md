@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "analysing-strategic-options-investment-appraisal-aqa-alevel-business"
 description: "Condensed recall for AQA A-level Business 7132 section 3.7.8: payback, average rate of return, net present value, investment criteria, non-financial factors and risk."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

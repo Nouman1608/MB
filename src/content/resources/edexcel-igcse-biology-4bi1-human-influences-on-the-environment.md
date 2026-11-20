@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "human-influences-on-the-environment-4bi1"
 description: "Study guide for Edexcel IGCSE Biology 4BI1 points 4.12 to 4.18B: air pollution, greenhouse gases, global warming, sewage, eutrophication and deforestation."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

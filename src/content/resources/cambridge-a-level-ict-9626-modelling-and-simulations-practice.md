@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "modelling-and-simulations"
 description: "Twelve original Cambridge 9626 IT section 9.1 questions with answers on what-if analysis, goal seek, computer models and simulations."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

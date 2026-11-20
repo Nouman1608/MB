@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "effect-of-concentration-and-pressure-7405"
 description: "Condensed AQA 7405 notes on the effect of concentration and pressure on rate: collision frequency, gases and pressure, rate falling over time, monitoring methods and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

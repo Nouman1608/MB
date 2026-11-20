@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "the-transmission-control-protocol-internet-protocol-oxfordaqa-alevel-cs"
 description: "OxfordAQA 9645 sub-topic 3.14.4 in depth: the four TCP/IP layers, sockets, MAC addresses, application protocols, IP addressing, subnet masks and DHCP."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "clubs-and-non-profit-making-organisations-yac11"
 description: "Study guide to club accounts for Edexcel IAL Accounting (YAC11): receipts and payments, subscriptions, life membership, activity trading accounts and the income and expenditure account."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "parallel-lines-4024"
 description: "Revision notes for 4024 section 3.6: equal gradients, rearranging to y = mx + c, building the parallel line through a point, special cases and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

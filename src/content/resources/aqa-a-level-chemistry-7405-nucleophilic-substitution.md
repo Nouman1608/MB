@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "nucleophilic-substitution-7405"
 description: "AQA 7405 nucleophilic substitution in depth: the polar C-X bond, hydroxide, cyanide and ammonia mechanisms, why bond enthalpy controls rate, and the silver nitrate rate experiment."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

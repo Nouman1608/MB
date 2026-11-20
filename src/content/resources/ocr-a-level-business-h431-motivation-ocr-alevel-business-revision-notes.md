@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "motivation-ocr-alevel-business"
 description: "Revision notes on motivation for OCR A Level Business H431: Maslow, Herzberg, McClelland, Vroom, Locke, Drucker and Peters, monetary and non-monetary methods, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

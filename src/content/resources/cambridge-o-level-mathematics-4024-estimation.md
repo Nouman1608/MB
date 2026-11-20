@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "estimation-4024"
 description: "Cambridge O Level Maths 4024 subtopic 1.9 in depth: rounding to decimal places and significant figures, estimating calculations and giving sensible accuracy in context."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

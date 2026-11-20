@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "decision-making-techniques-ybs11"
 description: "Study guide to Edexcel IAL Business 3.3.3: moving averages, investment appraisal, decision trees, critical path analysis and contribution, with full worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

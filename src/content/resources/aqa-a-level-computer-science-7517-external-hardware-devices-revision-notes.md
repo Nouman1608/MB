@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "external-hardware-devices-7517"
 description: "Condensed AQA 7517 section 4.7.4 recall: barcode reader, digital camera, laser printer, RFID, hard disk, optical disk and SSD, with a comparison table and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

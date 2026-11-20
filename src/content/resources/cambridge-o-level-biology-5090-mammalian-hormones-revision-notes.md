@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "mammalian-hormones"
 description: "Condensed recall for 5090 subtopic 14.3: the definition of a hormone, the endocrine glands, adrenaline, nervous versus hormonal control and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -15,10 +15,12 @@ syllabusTopics:
     subtopic: "aspects-of-software-development-7517"
 description: "Original AQA 7517 section 4.13.1 questions with answers: analysis, design, implementation, testing and evaluation, including choosing test data and judging an approach."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: evaluation criteria (4.13.1.5) are not itemised in the specification; the marking points that name criteria use the commonly taught set. Check against current exam mark schemes."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: evaluation criteria (4.13.1.5) are not itemised in the specification; the marking points that name criteria use the commonly taught set. Check against current exam mark schemes."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

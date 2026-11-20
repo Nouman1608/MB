@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "cyber-security-oxfordaqa-alevel-cs"
 description: "OxfordAQA 9645 sub-topic 3.14.5 in depth: firewalls, symmetric and asymmetric encryption, key exchange, digital certificates and signatures, worms, trojans and viruses."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

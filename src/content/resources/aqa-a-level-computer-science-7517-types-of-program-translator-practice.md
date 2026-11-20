@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "types-of-program-translator-7517"
 description: "Original AQA 7517 section 4.6.3 questions with answers: assemblers, compilers, interpreters, source and object code, and bytecode."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

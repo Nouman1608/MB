@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "mensuration-and-calculation-aqa-gcse-maths"
 description: "Thirteen original AQA GCSE Maths 8300 questions on G14-G23: bearings, area, volume, sectors, similarity, trigonometry, sine and cosine rules, with marked answers."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

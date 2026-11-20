@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "paper-2-knowledge-and-understanding-9093"
 description: "Cambridge 9093 Paper 2 knowledge and understanding for writers: textual conventions, linguistic and literary features, audience, genre, purpose and context."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

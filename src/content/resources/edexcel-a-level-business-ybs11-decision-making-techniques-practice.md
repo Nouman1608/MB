@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "decision-making-techniques-ybs11"
 description: "Twelve original source-based questions with full answers on moving averages, investment appraisal, decision trees, critical path analysis and contribution for Edexcel IAL 3.3.3."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

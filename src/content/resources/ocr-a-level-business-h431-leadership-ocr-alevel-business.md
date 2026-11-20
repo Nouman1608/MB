@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "leadership-ocr-alevel-business"
 description: "Study guide to leadership for OCR A Level Business H431: trait, behavioural, contingency and functional theories, the four styles, evaluating theories and recommending a style."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

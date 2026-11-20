@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "network-servers"
 description: "Thirteen original Cambridge 9626 IT section 14.3 questions with answers on server types, request and response, virtual servers and server farms."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

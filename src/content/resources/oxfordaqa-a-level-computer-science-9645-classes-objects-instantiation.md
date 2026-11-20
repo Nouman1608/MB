@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "classes-objects-and-instantiation-oxfordaqa-alevel-cs"
 description: "OxfordAQA 9645 sub-topic 3.9.1 in depth: why object-oriented programming is used, classes, attributes, methods, objects, instantiation and constructors in Python."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

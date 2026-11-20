@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "checking-the-accuracy-of-data"
 description: "Thirteen original Cambridge 9626 IT section 1.4 questions with worked answers on validation, verification, check digits, parity, checksums and totals."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

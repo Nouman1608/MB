@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "assembly-language-programming-oxfordaqa-alevel-cs"
 description: "OxfordAQA 9645 sub-topic 3.8.2 in depth: writing and tracing assembly programs, translating pseudocode, loops, indirect addressing and bitwise operations."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

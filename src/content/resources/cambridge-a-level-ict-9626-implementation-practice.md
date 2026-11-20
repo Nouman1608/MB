@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "implementation"
 description: "Original practice questions with marked answers on parallel, direct, phased and pilot implementation for section 16.5 of Cambridge A Level IT 9626."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

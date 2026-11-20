@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "tropical-rainforests-9230"
 description: "Condensed notes on tropical rainforests for OxfordAQA IGCSE Geography 9230: characteristics, adaptations, Amazon deforestation, value and sustainable management."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the course does not fix a case-study place. This page uses the Amazon in Brazil. Check the deforestation figures and the dates of the highway, soy moratorium and Amazon Fund against your own notes."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: the course does not fix a case-study place. This page uses the Amazon in Brazil. Check the deforestation figures and the dates of the highway, soy moratorium and Amazon Fund against your own notes."
 ---
 
 These notes cover section 3.1.2.2, Tropical rainforests, of the OxfordAQA International GCSE Geography (9230) specification, Version 4.3. Key ideas: "Tropical rainforest ecosystems have a range of distinctive characteristics"; "Deforestation has economic and environmental impacts"; "Tropical rainforests need to be managed to be sustainable." For full explanations, read the [tropical rainforests study guide](/resources/oxfordaqa-igcse-geography-9230-tropical-rainforests/). For the whole unit, see the [Living with the Physical Environment study guide](/resources/igcse-oxfordaqa-geography-living-with-the-physical-environment/).

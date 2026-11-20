@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "immunity"
 description: "Deeper guide to 5090 subtopic 12.3: antigens and antibodies, active immunity, vaccination and memory cells, passive immunity and how HIV affects the immune system."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

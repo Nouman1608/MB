@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "part-3-general-conversation-0539"
 description: "Recall notes for 0539 Speaking Part 3: format, the five topic areas, vocabulary banks, opinion frames and the assessment grid."
 author: "marlbridge-academic-team"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to farheen-zehra (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

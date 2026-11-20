@@ -19,10 +19,12 @@ syllabusTopics:
     subtopic: "prototyping"
 description: "Condensed revision notes on section 16.9 of Cambridge A Level IT 9626: the four types of prototyping, why each is needed, advantages and disadvantages, and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the wording that separates rapid prototyping from throwaway prototyping against the examiner reports; the syllabus names both but does not define them."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: check the wording that separates rapid prototyping from throwaway prototyping against the examiner reports; the syllabus names both but does not define them."
 ---
 
 For full explanations and a worked example, read the [section 16.9 study guide](/resources/cambridge-a-level-ict-9626-prototyping/) first. These notes condense **section 16.9 Prototyping** of the Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027 (version 4). It is **A Level only** content, examined in Paper 3 (Advanced Theory).

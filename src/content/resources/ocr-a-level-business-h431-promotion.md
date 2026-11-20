@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "promotion-ocr-alevel-business"
 description: "Study guide to promotion for OCR A Level Business H431: above and below the line, digital, drip and viral marketing, and advertising elasticity of demand."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "synthetic-polymers-4ch1"
 description: "Twelve original 4CH1 polymer questions on addition polymers, repeat units, monomers, disposal problems and (Paper 2 only) polyesters, with full answers."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

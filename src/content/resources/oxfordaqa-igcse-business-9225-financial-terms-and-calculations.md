@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "financial-terms-and-calculations-oxfordaqa-igcse-business"
 description: "Study guide to OxfordAQA IGCSE Business 9225 section 3.6.3: costs, revenue, profit and loss, break-even output and margin of safety from charts and tables, and the payback period."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

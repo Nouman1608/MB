@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "gibbs-free-energy-change-g-and-entropy-change-s-7405"
 description: "Condensed AQA 7405 notes on Gibbs free-energy and entropy change: entropy, calculating delta S, the Gibbs equation, feasibility temperatures, graphs and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

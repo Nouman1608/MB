@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "resource-management-ybs11"
 description: "Study guide to Edexcel IAL Business 2.3.4 Resource management: production methods, productivity, efficiency, capacity utilisation, inventory control and quality."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

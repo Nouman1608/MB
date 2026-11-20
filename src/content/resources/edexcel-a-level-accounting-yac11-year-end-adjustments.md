@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "year-end-adjustments-yac11"
 description: "Study guide to year-end adjustments for Edexcel IAL Accounting (YAC11): accruals and prepayments, provisions, depreciation and irrecoverable debts, with full workings."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

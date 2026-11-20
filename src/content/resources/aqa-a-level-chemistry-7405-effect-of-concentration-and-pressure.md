@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "effect-of-concentration-and-pressure-7405"
 description: "AQA 7405 effect of concentration and pressure in depth: collision frequency, why pressure matters only for gases, rate changing during a reaction and the continuous monitoring practical."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

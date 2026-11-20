@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "maxwell-boltzmann-distribution-7405"
 description: "AQA 7405 Maxwell-Boltzmann distribution in depth: the shape and features of the curve, what the area represents, how temperature changes it, and how to draw and interpret curves."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

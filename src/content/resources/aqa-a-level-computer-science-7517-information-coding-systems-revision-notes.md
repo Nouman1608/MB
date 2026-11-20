@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "information-coding-systems-7517"
 description: "Condensed AQA 7517 section 4.5.5 recall: character form of digits, ASCII, Unicode, and parity bits, majority voting, checksums and check digits."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

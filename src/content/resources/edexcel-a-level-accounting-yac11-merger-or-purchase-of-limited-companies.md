@@ -19,10 +19,12 @@ syllabusTopics:
     subtopic: "merger-or-purchase-of-limited-companies-yac11"
 description: "Study guide to company purchase and merger for Edexcel IAL Accounting (YAC11): revaluation, realisation and acquisition accounts, purchase consideration, goodwill and the new statement of financial position."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check that the account layouts (revaluation, realisation, sundry shareholders' and acquisition accounts) match the layouts used in Pearson's textbook and past mark schemes; the specification names the accounts but not their layout."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: check that the account layouts (revaluation, realisation, sundry shareholders' and acquisition accounts) match the layouts used in Pearson's textbook and past mark schemes; the specification names the accounts but not their layout."
 ---
 
 This guide covers outcomes **2.1.12 Journal entries and ledger accounts for the purchase of a limited company or the merger of two companies**, **2.1.13 Calculation of purchase price of a company: revaluation of assets and liabilities**, **2.1.14 Statement of financial position of a limited company following purchase of or the merger with another company** and **2.1.15 The calculation and correct treatment of goodwill**. They close Topic 2.1, Limited companies, in Unit 2 (Corporate and Management Accounting) of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (YAC11), Specification Issue 2, September 2018. This is Unit 2 (A2) content. All amounts are in dollars and every company named is invented.

@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "networking-7517"
 description: "Condensed AQA 7517 section 4.9.2 recall: physical star and logical bus, peer-to-peer and client-server, WiFi components and security, SSID and CSMA/CA with RTS/CTS."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

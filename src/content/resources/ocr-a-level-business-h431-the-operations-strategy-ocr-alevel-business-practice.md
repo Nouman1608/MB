@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "the-operations-strategy-ocr-alevel-business"
 description: "Original OCR A Level Business H431 questions with full answers on the operations strategy: purpose, expected value comparison, monitoring and recommendation."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

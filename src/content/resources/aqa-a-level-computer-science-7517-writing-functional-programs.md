@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "writing-functional-programs-7517"
 description: "Deeper guide to AQA 7517 section 4.12.2: constructing simple functional programs and using the higher-order functions map, filter and reduce or fold, with checked examples."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

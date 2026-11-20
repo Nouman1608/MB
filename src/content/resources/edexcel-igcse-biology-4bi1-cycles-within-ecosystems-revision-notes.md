@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "cycles-within-ecosystems-4bi1"
 description: "Condensed revision notes for Edexcel IGCSE Biology 4BI1 points 4.10 and 4.11B: the carbon cycle, the nitrogen cycle and the bacteria involved."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

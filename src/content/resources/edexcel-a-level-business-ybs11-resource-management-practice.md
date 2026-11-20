@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "resource-management-ybs11"
 description: "Twelve original source-based questions with full answers on productivity, capacity utilisation, inventory control, JIT and quality for Edexcel IAL 2.3.4."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

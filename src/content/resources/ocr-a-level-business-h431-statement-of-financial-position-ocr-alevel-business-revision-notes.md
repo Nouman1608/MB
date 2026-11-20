@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "statement-of-financial-position-ocr-alevel-business"
 description: "Revision notes on the statement of financial position for OCR A Level Business H431: layout, net assets and equity, valuing assets, depreciation methods and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

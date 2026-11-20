@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "documentation"
 description: "Condensed revision notes on section 16.6 of Cambridge A Level IT 9626: the types of documentation, readers, contents, advantages and disadvantages, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

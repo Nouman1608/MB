@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "bonding-and-physical-properties-7405"
 description: "Original AQA 7405 questions with marked answers on bonding and physical properties: identifying structure type from data, explaining melting points and conductivity, and drawing structures."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "sources-of-finance-and-commercial-performance-0715"
 description: "Short and long-term sources of finance, financial terms, commercial calculations and ways to improve performance, for Cambridge IGCSE Commerce 0715 section 5.4."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "making-operational-decisions-to-improve-performance-improving-quality-aqa-alevel-business"
 description: "Condensed recall for AQA A-level Business 7132 section 3.4.4: quality assurance against quality control, benefits and difficulties of quality, consequences of poor quality, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

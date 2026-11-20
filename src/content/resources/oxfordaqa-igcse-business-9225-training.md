@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "training-oxfordaqa-igcse-business"
 description: "Study guide to OxfordAQA IGCSE Business 9225 section 3.4.4: why businesses train employees, induction, on-the-job and off-the-job training, and how to evaluate which method suits a business."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

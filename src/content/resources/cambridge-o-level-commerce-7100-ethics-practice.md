@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "ethics-7100"
 description: "Original questions with full answers on Cambridge O Level Commerce 7100 sub-topic 6.2: ethics, fair trade pricing sums, misleading advertising and harmful disposal."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

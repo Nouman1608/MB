@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "natural-hazards-9230"
 description: "Condensed notes on natural hazards for OxfordAQA IGCSE Geography 9230: definitions, hazard types, risk factors, exam traps and a self-test with answers."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "purity-formulations-and-chromatography-8462"
 description: "AQA GCSE Chemistry 8462 section 4.8.1 in depth: pure substances, melting and boiling point data, formulations, paper chromatography, Rf values and required practical 6."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

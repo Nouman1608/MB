@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "global-variations-in-levels-of-economic-development-9230"
 description: "Condensed notes on global variations in development for OxfordAQA IGCSE Geography 9230: measures, limits, DTM, causes, consequences and strategies."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the specification asks for an example of tourism in an LIC or NEE but does not fix the place. This page uses Kenya in general terms. Check it and the HDI thresholds against your own notes."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: the specification asks for an example of tourism in an LIC or NEE but does not fix the place. This page uses Kenya in general terms. Check it and the HDI thresholds against your own notes."
 ---
 
 These notes cover section 3.2.2.1, Global variations in levels of economic development, of the OxfordAQA International GCSE Geography (9230) specification, Version 4.3. Key ideas: "There are global variations in economic development and quality of life"; "Various strategies exist for reducing the global development gap." For full explanations, read the [global variations study guide](/resources/oxfordaqa-igcse-geography-9230-global-variations-economic-development/).

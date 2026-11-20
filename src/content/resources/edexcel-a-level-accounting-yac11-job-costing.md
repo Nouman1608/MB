@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "job-costing-yac11"
 description: "Study guide to job and batch costing for Edexcel IAL Accounting (YAC11): job cost sheets, absorbing overhead, pricing with mark-up or margin, batch costs and work in progress."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

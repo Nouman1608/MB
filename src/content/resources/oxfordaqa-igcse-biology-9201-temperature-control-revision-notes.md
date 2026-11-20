@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "temperature-control-oxfordaqa-igcse-biology"
 description: "Condensed OxfordAQA IGCSE Biology 9201 notes on 3.4.4: the thermoregulatory centre, responses to heat and cold, and fluid loss, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

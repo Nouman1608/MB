@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "uptake-and-transport-of-water-and-ions"
 description: "Original practice questions with full answers on 5090 subtopic 7.1: root hair cells, the pathway of water and the stained stem investigation."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

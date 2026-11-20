@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "electrophilic-substitution-7405"
 description: "AQA 7405 electrophilic substitution of benzene in depth: nitration and Friedel-Crafts acylation, generating the electrophile, the two-stage mechanism, conditions and uses, with calculations."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

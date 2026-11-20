@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "structured-approach-to-programming-oxfordaqa-alevel-cs"
 description: "Ten original OxfordAQA 9645 questions on sub-topic 3.3.1: modular design, parameters, return values, local variables and hierarchy and structure charts."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

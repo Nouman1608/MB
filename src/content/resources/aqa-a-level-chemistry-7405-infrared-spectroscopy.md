@@ -17,8 +17,10 @@ syllabusTopics:
     subtopic: "infrared-spectroscopy-7405"
 description: "AQA 7405 infrared spectroscopy in depth: how bonds absorb, reading wavenumber data, telling acids, alcohols and carbonyls apart, spotting impurities, and the greenhouse effect."
 author: "marlbridge-academic-team"
-reviewNeeded: true
-reviewNote: "2026-11-20: check the approximate IR absorption ranges quoted (C=O, C-O, C=C, C-H, O-H alcohol, O-H acid, N-H, C triple bond N) against the AQA Chemistry Data Booklet."
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the approximate IR absorption ranges quoted (C=O, C-O, C=C, C-H, O-H alcohol, O-H acid, N-H, C triple bond N) against the AQA Chemistry Data Booklet."
 publishedDate: 2026-11-20
 featured: false
 ---

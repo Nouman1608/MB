@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "ethics-7100"
 description: "Study guide to Cambridge O Level Commerce 7100 sub-topic 6.2: the meaning of ethics, the role of fair trade, and the ethical issues of misleading advertising and harmful disposal of products, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "reactivity-of-metals-8462"
 description: "Ten original AQA GCSE Chemistry 8462 questions on section 4.4.1: oxidation and reduction, the reactivity series, displacement, extraction and redox in terms of electrons, with answers."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

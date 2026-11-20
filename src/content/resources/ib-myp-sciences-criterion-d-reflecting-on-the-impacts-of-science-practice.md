@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "ib-myp-sciences-assessment-criteria-d-reflecting-on-the-impacts-of-science"
 description: "Original IB MYP Sciences Criterion D practice: identifying factors, explaining applications, evaluating implications, scientific language and referencing, with answers."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

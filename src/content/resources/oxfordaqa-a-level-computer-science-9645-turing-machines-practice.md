@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "turing-machines-oxfordaqa-alevel-cs"
 description: "Ten original OxfordAQA 9645 questions on sub-topic 3.13.3 Turing machines: transition functions, diagram arcs, hand-tracing, the UTM and their importance."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

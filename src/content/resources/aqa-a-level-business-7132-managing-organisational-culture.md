@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "managing-organisational-culture-aqa-alevel-business"
 description: "Study guide to AQA A-level Business 7132 section 3.10.2: why culture matters, Handy's power, role, task and person cultures, influences on culture and changing culture."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "global-supply-chain-management-7100"
 description: "Study guide to Cambridge O Level Commerce 7100 sub-topic 3.2: simple and complex global supply chains, upstream, enterprise and downstream, the importance of suppliers, benefits and risks of global supply chains and risk assessment."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

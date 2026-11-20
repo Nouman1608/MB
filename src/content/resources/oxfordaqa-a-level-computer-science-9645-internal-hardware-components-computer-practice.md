@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "internal-hardware-components-of-a-computer-oxfordaqa-alevel-cs"
 description: "Ten original OxfordAQA 9645 questions on sub-topic 3.7.1 Internal hardware components: buses, memory sums, stored program concept, architectures, with full answers."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

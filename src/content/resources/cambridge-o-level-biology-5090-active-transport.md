@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "active-transport"
 description: "Deeper guide to 5090 subtopic 3.2: the definition of active transport, how it differs from diffusion, ion uptake by root hair cells and how to interpret data."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "searching-algorithms-7517"
 description: "Condensed AQA 7517 section 4.3.4 recall: linear, binary and binary tree search, how to trace them, their time complexity and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

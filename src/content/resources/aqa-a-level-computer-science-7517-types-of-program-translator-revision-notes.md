@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "types-of-program-translator-7517"
 description: "Condensed AQA 7517 section 4.6.3 recall: assembler, compiler and interpreter, source and object code, bytecode, and when to use each, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

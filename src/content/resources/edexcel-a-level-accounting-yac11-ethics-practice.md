@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "ethics-yac11"
 description: "Nine original ethics questions for Edexcel IAL Accounting (YAC11) 1.6.4: ethical principles, distorted accounts, conflicts of interest and evaluating a dilemma, with full answers."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

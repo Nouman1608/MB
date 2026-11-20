@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "file-handling-2210"
 description: "Revision notes for Cambridge O Level Computer Science 2210 section 8.3: why files are used and the OPENFILE, READFILE, WRITEFILE and CLOSEFILE commands, with patterns and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

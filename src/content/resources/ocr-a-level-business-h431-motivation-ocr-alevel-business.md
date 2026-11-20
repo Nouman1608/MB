@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "motivation-ocr-alevel-business"
 description: "Study guide to motivation for OCR A Level Business H431: content, expectancy, goal-setting and excellence theories, monetary and non-monetary methods, evaluation and recommendations."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "tectonic-hazards-9230"
 description: "Tectonic hazards for OxfordAQA IGCSE Geography 9230: plate margins, earthquake and volcano processes, effects and responses in rich and poor areas, and management."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the figures quoted for the Haiti 2010 and Christchurch 2011 earthquakes (magnitude, depth, deaths, displaced people, costs). Death tolls for Haiti are estimates that vary widely between sources."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: check the figures quoted for the Haiti 2010 and Christchurch 2011 earthquakes (magnitude, depth, deaths, displaced people, costs). Death tolls for Haiti are estimates that vary widely between sources."
 ---
 
 This guide covers section 3.1.1.2, Tectonic hazards, in Section A (The challenge of natural hazards) of Unit 1 of the OxfordAQA International GCSE Geography (9230) specification, Version 4.3. It has three key ideas: "Earthquakes and volcanic eruptions are the result of physical processes"; "The effects of, and responses to, earthquakes and volcanoes vary between areas of contrasting levels of wealth"; and "Management can reduce the effects of a tectonic hazard." For the whole unit, start with the [Living with the Physical Environment study guide](/resources/igcse-oxfordaqa-geography-living-with-the-physical-environment/). This page goes deeper on the tectonic content and gives two worked examples of contrasting wealth.

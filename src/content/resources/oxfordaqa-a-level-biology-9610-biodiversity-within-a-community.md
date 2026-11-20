@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "biodiversity-within-a-community-oxfordaqa-alevel-biology"
 description: "A focused guide to section 3.1.11 of OxfordAQA International A-level Biology 9610: genetic diversity, species richness, the index of diversity and conservation against food production."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

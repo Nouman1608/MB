@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "nucleophilic-properties-7405"
 description: "AQA 7405 amines as nucleophiles in depth: successive substitution to secondary, tertiary and quaternary salts, cationic surfactants, and addition-elimination with acyl chlorides and anhydrides."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

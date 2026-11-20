@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "blood-vessels"
 description: "Deeper guide to 5090 subtopic 11.3: the named blood vessels, the structure of arteries, veins and capillaries and how structure relates to blood pressure."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

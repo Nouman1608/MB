@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "use-of-amount-of-substance-in-relation-to-masses-of-pure-substances-8462"
 description: "Nine original AQA GCSE Chemistry 8462 questions on section 4.3.2: moles, reacting masses, balancing from masses, limiting reactants and g/dm3 concentration, with answers."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

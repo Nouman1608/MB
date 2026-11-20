@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "amino-acids-7405"
 description: "Condensed AQA 7405 notes on amino acids: structure, acidic and basic properties, zwitterions, the ions in acid and alkaline solution, properties explained and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

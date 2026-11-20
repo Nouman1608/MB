@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "employer-employee-relations-ocr-alevel-business"
 description: "Study guide to employer/employee relations for OCR A Level Business H431: benefits and costs, employment legislation, employee participation, trade unions and their changing role."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

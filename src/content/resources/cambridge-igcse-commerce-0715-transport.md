@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "transport-0715"
 description: "Functions of transport, road, rail, air, sea and pipeline methods, choosing between them and containerisation, for Cambridge IGCSE Commerce 0715 section 4.1."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

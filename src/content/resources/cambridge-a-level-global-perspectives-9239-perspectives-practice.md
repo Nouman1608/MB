@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "perspectives-9239"
 description: "Original practice on 9239 Research Report perspectives: defining a perspective, identifying assumptions, building and comparing perspectives and judging between them."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

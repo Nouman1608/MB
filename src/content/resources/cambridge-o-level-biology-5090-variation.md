@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "variation"
 description: "Deeper guide to 5090 subtopic 17.1: continuous and discontinuous variation, their causes and how to investigate and display them."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

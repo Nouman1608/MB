@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "units-of-information-7517"
 description: "Deeper guide to AQA 7517 section 4.5.3 Units of information: bits and bytes, 2 to the power n values, and binary and decimal prefixes such as kibibyte and kilobyte."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

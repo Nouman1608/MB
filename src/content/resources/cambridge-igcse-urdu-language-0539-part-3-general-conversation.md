@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "part-3-general-conversation-0539"
 description: "The topic areas A to E, how to prepare vocabulary and opinions, and how to sustain an unseen conversation in Part 3 of the optional 0539 Speaking test."
 author: "marlbridge-academic-team"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to farheen-zehra (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

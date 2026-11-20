@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "enzymes-7405"
 description: "Condensed AQA 7405 notes on enzymes: protein catalysts, the stereospecific active site, why one enantiomer binds, enzyme inhibitors as drugs, computer-aided design and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "partnership-yac11"
 description: "Eleven original partnership questions for Edexcel IAL Accounting (YAC11) 1.3.9-1.3.13: appropriation, current accounts, Section 24, goodwill and capital adjustments, with full answers."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

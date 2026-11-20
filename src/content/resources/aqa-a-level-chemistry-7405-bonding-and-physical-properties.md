@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "bonding-and-physical-properties-7405"
 description: "AQA 7405 bonding and physical properties in depth: the four crystal types, structures of diamond, graphite, ice, iodine, magnesium and sodium chloride, and explaining melting point and conductivity."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

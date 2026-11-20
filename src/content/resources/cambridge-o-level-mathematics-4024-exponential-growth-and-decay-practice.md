@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "exponential-growth-and-decay-4024"
 description: "Fourteen original Cambridge O Level Maths 4024 questions on exponential growth and decay, depreciation, population change and finding rates and periods, with answers."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

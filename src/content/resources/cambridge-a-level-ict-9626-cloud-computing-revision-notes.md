@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "cloud-computing"
 description: "Revision notes for Cambridge 9626 IT section 14.4: cloud characteristics, uses, service levels, advantages and disadvantages, with a twelve-question self-test."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

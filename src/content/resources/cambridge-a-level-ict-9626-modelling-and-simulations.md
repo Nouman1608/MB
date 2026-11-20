@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "modelling-and-simulations"
 description: "Cambridge 9626 IT section 9.1 study guide: what-if analysis, goal seek, modelling software, the need for computer models, spreadsheet models and simulations, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

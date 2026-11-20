@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "big-data-7517"
 description: "Original AQA 7517 section 4.11.1 questions with answers: the three Vs, structure, distributed processing, functional programming features, fact-based models and graph schema."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

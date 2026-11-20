@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "financial-statements-of-sole-traders-yac11"
 description: "Twelve original questions on sole trader statements of profit or loss and financial position for Edexcel IAL Accounting (YAC11) 1.3.1-1.3.2, with full answers."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

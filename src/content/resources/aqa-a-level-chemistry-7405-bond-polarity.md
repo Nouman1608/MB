@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "bond-polarity-7405"
 description: "AQA 7405 bond polarity in depth: electronegativity trends, partial charges, polar bonds versus polar molecules, symmetry and the molecules that have polar bonds but no permanent dipole."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

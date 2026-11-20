@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "asexual-and-sexual-reproduction"
 description: "Deeper guide to 5090 subtopic 16.2: asexual and sexual reproduction, examples of each, and the advantages and disadvantages of each."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

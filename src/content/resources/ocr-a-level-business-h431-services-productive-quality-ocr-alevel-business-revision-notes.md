@@ -15,10 +15,12 @@ syllabusTopics:
     subtopic: "services-productive-quality-ocr-alevel-business"
 description: "Revision notes on services in productive quality for OCR A Level Business H431: service features, process, UK economy, measuring quality, customer service and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the stated share of UK output and jobs that comes from services against the latest ONS release."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: check the stated share of UK output and jobs that comes from services against the latest ONS release."
 ---
 
 Condensed notes on the Services content (4.15 on this site) in the area of study Productive quality (fit for purpose), OCR A Level Business H431, Version 2.1 (January 2026), final assessment summer 2027. This is the Services heading under Productive quality, not the one under The production process. Full explanations and two worked examples are in the [services in productive quality study guide](/resources/ocr-a-level-business-h431-services-productive-quality-ocr-alevel-business/). Test yourself with the [services in productive quality practice questions](/resources/ocr-a-level-business-h431-services-productive-quality-ocr-alevel-business-practice/). All figures are invented.

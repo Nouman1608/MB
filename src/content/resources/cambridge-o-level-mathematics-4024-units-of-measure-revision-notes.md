@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "units-of-measure-4024"
 description: "Revision notes for 4024 section 5.1: conversion factors for length, mass, capacity, area and volume, volume to capacity links, method boxes and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

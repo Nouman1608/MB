@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "the-concept-of-quality-oxfordaqa-igcse-business"
 description: "Twelve original questions with answers on measuring quality, the consequences of poor quality, TQM and quality when outsourcing for OxfordAQA IGCSE Business 9225 3.3.3."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

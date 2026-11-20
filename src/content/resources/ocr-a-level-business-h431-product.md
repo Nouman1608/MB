@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "product-ocr-alevel-business"
 description: "Study guide to product as a marketing mix element for OCR A Level Business H431: Boston matrix, value analysis, USP, branding, differentiation and product mix."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "internal-hardware-components-of-a-computer-oxfordaqa-alevel-cs"
 description: "OxfordAQA 9645 sub-topic 3.7.1 in depth: processor, main memory, the three buses, I/O controllers, addressable memory sums and von Neumann versus Harvard."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

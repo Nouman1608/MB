@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "cash-flow-oxfordaqa-igcse-business"
 description: "Study guide to OxfordAQA IGCSE Business 9225 section 3.6.2: why cash matters, cash flow forecasts, cash and profit, the effects of cash flow problems and ways of solving them."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

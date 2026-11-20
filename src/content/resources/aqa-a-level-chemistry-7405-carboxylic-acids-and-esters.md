@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "carboxylic-acids-and-esters-7405"
 description: "AQA 7405 carboxylic acids and esters in depth: naming, acidity, esterification, hydrolysis in acid and alkali, fats and oils, soap and biodiesel, with worked calculations."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

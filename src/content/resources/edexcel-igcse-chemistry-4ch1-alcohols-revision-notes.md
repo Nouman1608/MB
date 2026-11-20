@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "alcohols-4ch1"
 description: "4CH1 alcohols revision notes (Paper 2 only): the -OH group, naming, oxidation of ethanol, manufacture by hydration and fermentation, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

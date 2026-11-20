@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "properties-and-constructions-aqa-gcse-maths"
 description: "Condensed AQA GCSE Maths 8300 revision notes for section 3.4.1 (G1-G13): constructions, loci, angle facts, congruence, transformations, circle theorems and 3D shapes."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

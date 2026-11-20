@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "right-angled-triangles-4024"
 description: "Revision notes for 4024 section 6.2: SOH CAH TOA, finding sides and angles, elevation and depression, bearings, shortest distance and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

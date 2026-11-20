@@ -17,8 +17,10 @@ syllabusTopics:
     subtopic: "infrared-spectroscopy-7405"
 description: "Original AQA 7405 questions with marked answers on infrared spectroscopy: absorption by bonds, identifying functional groups from wavenumbers, impurities, fingerprinting and global warming."
 author: "marlbridge-academic-team"
-reviewNeeded: true
-reviewNote: "2026-11-20: check the approximate IR absorption ranges quoted against the AQA Chemistry Data Booklet."
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the approximate IR absorption ranges quoted against the AQA Chemistry Data Booklet."
 publishedDate: 2026-11-20
 featured: false
 ---

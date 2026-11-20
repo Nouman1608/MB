@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "shapes-of-simple-molecules-and-ions-7405"
 description: "Original AQA 7405 questions with marked answers on shapes of simple molecules and ions: pair counting, naming shapes, giving bond angles and explaining lone pair effects."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

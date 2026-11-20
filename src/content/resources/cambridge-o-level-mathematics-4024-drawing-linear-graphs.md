@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "drawing-linear-graphs-4024"
 description: "Cambridge O Level Maths 4024 subtopic 3.2 in depth: drawing straight-line graphs from a table of values, by the intercept method and from the form y = mx + c."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

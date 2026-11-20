@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "biological-molecules-oxfordaqa-alevel-biology"
 description: "Original practice questions with mark-scheme answers on monomers, carbohydrates, lipids, proteins and food tests for OxfordAQA International A-level Biology 9610."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

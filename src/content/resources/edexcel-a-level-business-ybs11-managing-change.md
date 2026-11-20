@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "managing-change-ybs11"
 description: "Study guide to Edexcel IAL Business 3.3.6: key factors in change, resistance, transformative leadership, risk assessment, business continuity and succession planning."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

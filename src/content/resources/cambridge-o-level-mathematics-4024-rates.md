@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "rates-4024"
 description: "Cambridge O Level Maths 4024 subtopic 1.12 in depth: pay, exchange, flow and fuel rates, density, pressure, population density and average speed."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

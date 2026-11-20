@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "transport-in-cells-oxfordaqa-igcse-biology"
 description: "OxfordAQA IGCSE Biology 9201 section 3.1.5 in depth: diffusion, osmosis, active transport, surface area to volume ratio, exchange surfaces and the osmosis practical."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

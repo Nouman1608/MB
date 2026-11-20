@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "chlorination-of-alkanes-7405"
 description: "AQA 7405 chlorination of alkanes in depth: the free-radical substitution mechanism of methane with chlorine, initiation, propagation and termination, further substitution and calculations."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

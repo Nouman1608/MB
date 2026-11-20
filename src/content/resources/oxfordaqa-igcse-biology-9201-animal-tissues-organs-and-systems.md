@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "animal-tissues-organs-and-systems-oxfordaqa-igcse-biology"
 description: "OxfordAQA IGCSE Biology 9201 section 3.1.3 in depth: muscular, glandular and epithelial tissue, the stomach as an organ and the digestive system."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

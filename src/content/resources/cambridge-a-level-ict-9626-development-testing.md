@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "development-and-testing"
 description: "Study guide to section 16.4 of Cambridge A Level IT 9626: test plans, test data, alpha and beta testing, white box and black box testing, with a worked test plan."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "creating-a-database"
 description: "Cambridge 9626 IT section 10.1 study guide: data types, keys, relationships, ERDs, validation, queries, forms, reports, switchboards, and importing and exporting."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the wording that distinguishes compound and composite keys; the syllabus lists both and the page treats them as keys made of two or more fields."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: check the wording that distinguishes compound and composite keys; the syllabus lists both and the page treats them as keys made of two or more fields."
 ---
 
 This guide teaches **section 10.1 Creating a database** of Topic 10 Database and file concepts in the Cambridge International AS & A Level Information Technology 9626 syllabus for 2025, 2026 and 2027. It is AS Level content. It is tested in Paper 1 Theory (explaining concepts and designing structures) and in Paper 2 Practical (building and using a database). The [Database and file concepts overview](/resources/a-level-cambridge-ict-database-and-file-concepts/) covers all of Topic 10; this page goes through section 10.1 with a worked example. Use it with the [creating a database practice questions](/resources/cambridge-a-level-ict-9626-creating-a-database-practice/).

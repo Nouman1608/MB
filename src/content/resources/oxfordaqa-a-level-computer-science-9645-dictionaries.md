@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "dictionaries-oxfordaqa-alevel-cs"
 description: "OxfordAQA 9645 sub-topic 3.10.5 in depth: key-value pairs, using a dictionary library in Python and other languages, common applications and worked programs."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

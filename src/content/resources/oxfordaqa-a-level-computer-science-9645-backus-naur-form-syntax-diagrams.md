@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "backus-naur-form-bnf-and-syntax-diagrams-oxfordaqa-alevel-cs"
 description: "OxfordAQA 9645 sub-topic 3.13.4 in depth: BNF production rules, recursion, checking syntax, derivations, syntax diagrams, and what BNF can do that regular expressions cannot."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

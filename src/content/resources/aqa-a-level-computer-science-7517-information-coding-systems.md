@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "information-coding-systems-7517"
 description: "Deeper guide to AQA 7517 section 4.5.5 Information coding systems: character codes for digits, ASCII and Unicode, and error checking with parity, majority voting, checksums and check digits."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

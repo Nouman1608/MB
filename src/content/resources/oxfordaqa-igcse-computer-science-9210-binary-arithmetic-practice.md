@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "binary-arithmetic-9210"
 description: "Original OxfordAQA IGCSE Computer Science 9210 practice questions with answers on adding 8-bit binary numbers, logical shifts and the uses of binary shifts."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

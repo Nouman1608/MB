@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "action-of-anticancer-drugs-7405"
 description: "Original AQA 7405 questions with marked answers on cisplatin: structure, ligand replacement at guanine, prevention of DNA replication, adverse effects and weighing benefits against risks."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

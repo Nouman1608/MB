@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "shapes-of-complex-ions-7405"
 description: "Condensed AQA 7405 notes on complex ion shapes, bond angles, cis-trans and optical isomerism, cisplatin and Tollens' reagent, with exam traps and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

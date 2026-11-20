@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "file-and-data-management"
 description: "Twelve original Cambridge 9626 IT section 10.4 questions with answers on file formats, indexed sequential and direct access, DBMS types and MIS."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the example file formats and the hashing calculation in the answers against the teaching materials used for the course."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: check the example file formats and the hashing calculation in the answers against the teaching materials used for the course."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

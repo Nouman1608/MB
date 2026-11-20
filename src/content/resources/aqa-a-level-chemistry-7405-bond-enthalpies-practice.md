@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "bond-enthalpies-7405"
 description: "Original AQA 7405 questions with marked answers on bond enthalpies: defining mean bond enthalpy, calculating approximate enthalpy changes, finding unknown bonds and explaining differences from Hess's law."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "the-concept-of-quality-oxfordaqa-igcse-business"
 description: "Study guide to OxfordAQA IGCSE Business 9225 section 3.3.3: customer expectations of quality, measuring quality, total quality management, costs and benefits of quality, and quality as a business grows."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

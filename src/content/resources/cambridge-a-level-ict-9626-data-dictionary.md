@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "data-dictionary"
 description: "Cambridge 9626 IT section 10.3 study guide: data types, the components of a data dictionary, and creating a dictionary for a given set of data, with worked examples."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

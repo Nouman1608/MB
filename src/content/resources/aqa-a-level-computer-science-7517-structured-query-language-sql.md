@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "structured-query-language-sql-7517"
 description: "Deeper guide to AQA 7517 section 4.10.4: SQL to retrieve, update, insert and delete data from multiple tables and to define a table, with checked worked queries."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

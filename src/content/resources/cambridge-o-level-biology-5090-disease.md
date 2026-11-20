@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "disease"
 description: "Deeper guide to 5090 subtopic 12.1: pathogens and transmission, body barriers, malaria, HIV, cholera, the effects of alcohol and the effects of tobacco smoke."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

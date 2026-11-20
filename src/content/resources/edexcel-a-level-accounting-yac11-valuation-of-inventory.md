@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "valuation-of-inventory-yac11"
 description: "Study guide to inventory valuation for Edexcel IAL Accounting (YAC11): FIFO, LIFO and NRV, perpetual and periodic methods, and the effect on profit and the statement of financial position."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "introduction-to-probability-4024"
 description: "Study guide to 4024 section 8.1: the probability scale, notation P(A) and P(A'), calculating the probability of a single event, and using tables, graphs and Venn diagrams."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "insurance-0715"
 description: "Purposes of insurance, types of insurance risk, pooling, premiums, insurance documents and brokers, for Cambridge IGCSE Commerce 0715 section 5.3."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

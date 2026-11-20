@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "ecosystems-and-biodiversity"
 description: "Deeper guide to 5090 subtopic 19.3: population, community, ecosystem and biodiversity, factors affecting population growth and the growth of the human population."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "boolean-algebra-oxfordaqa-alevel-cs"
 description: "OxfordAQA 9645 sub-topic 3.7.7 in depth: precedence, commutative, associative and distributive laws, identities and De Morgan's laws, with step-by-step simplifications."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

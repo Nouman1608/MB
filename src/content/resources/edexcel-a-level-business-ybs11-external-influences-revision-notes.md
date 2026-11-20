@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "external-influences-ybs11"
 description: "Revision notes for Edexcel IAL Business 2.3.5: inflation, exchange rates, interest rates, tax, the business cycle, legislation and competition, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

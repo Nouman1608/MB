@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "river-landscapes-9230"
 description: "River landscapes for OxfordAQA IGCSE Geography 9230: profiles, fluvial processes, landforms, flood risk, hydrographs and flood management using the Three Gorges Dam."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the specification asks for an example of a river flood management scheme in the region but does not fix it. This page uses the Three Gorges Dam on the Yangtze, China. Check the dates, dimensions, capacity, number of people relocated and the listed costs and benefits against your own notes."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: the specification asks for an example of a river flood management scheme in the region but does not fix it. This page uses the Three Gorges Dam on the Yangtze, China. Check the dates, dimensions, capacity, number of people relocated and the listed costs and benefits against your own notes."
 ---
 
 This guide covers section 3.1.4.2, River landscapes, in Section D (Physical landscapes: Hot deserts or River landscapes) of Unit 1 of the OxfordAQA International GCSE Geography (9230) specification, Version 4.3. In Section D, students study **either** hot desert landscapes **or** river landscapes. The key ideas are: "The shape of river valleys changes as rivers flow downstream"; "Distinctive fluvial landforms result from different physical processes"; and "Different management strategies can be used to protect river landscapes from the effects of flooding." For the whole unit, start with the [Living with the Physical Environment study guide](/resources/igcse-oxfordaqa-geography-living-with-the-physical-environment/). Examples should come from the Middle and Far East; see the [Middle and Far East study guide](/resources/oxfordaqa-igcse-geography-9230-physical-landscapes-middle-far-east/) for the rivers.

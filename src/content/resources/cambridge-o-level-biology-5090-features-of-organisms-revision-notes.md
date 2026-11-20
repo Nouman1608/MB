@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "features-of-organisms"
 description: "Condensed recall for 5090 subtopic 2.2: kingdom features, vertebrate and arthropod groups, ferns, monocots and dicots, viruses and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

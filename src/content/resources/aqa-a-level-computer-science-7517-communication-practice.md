@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "communication-7517"
 description: "Original AQA 7517 section 4.9.1 questions with answers: serial and parallel transmission, asynchronous framing, baud rate, bit rate, bandwidth and latency calculations."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

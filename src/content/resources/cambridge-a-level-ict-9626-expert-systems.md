@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "expert-systems-content"
 description: "Cambridge 9626 IT section 7.1 study guide: expert system components, scenarios, forward and backward chaining with IF...THEN rules, data and goal driven systems, and evaluation."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

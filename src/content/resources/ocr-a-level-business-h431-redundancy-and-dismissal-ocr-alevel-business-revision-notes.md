@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "redundancy-and-dismissal-ocr-alevel-business"
 description: "Revision notes on redundancy and dismissal for OCR A Level Business H431: fair and unfair reasons, procedures, grievance, tribunals, redundancy costs and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

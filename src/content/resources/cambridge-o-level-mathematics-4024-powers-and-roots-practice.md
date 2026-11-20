@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "powers-and-roots-4024"
 description: "Sixteen original Cambridge O Level Maths 4024 questions on squares, cubes, roots, signs, estimating roots and calculator powers, with answers."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

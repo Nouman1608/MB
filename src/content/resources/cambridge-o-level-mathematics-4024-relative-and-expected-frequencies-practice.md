@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "relative-and-expected-frequencies-4024"
 description: "Original practice questions with worked answers on 4024 section 8.2: relative frequency, expected frequency, samples and populations, and judging whether something is fair or biased."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

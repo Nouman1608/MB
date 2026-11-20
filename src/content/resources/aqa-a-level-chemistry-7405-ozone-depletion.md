@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "ozone-depletion-7405"
 description: "AQA 7405 ozone depletion in depth: why CFCs reach the stratosphere, radical catalysis by chlorine atoms, writing and combining equations, and how research led to legislation."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

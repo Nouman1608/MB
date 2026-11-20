@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "uses-of-chlorine-and-chlorate-i-7405"
 description: "Original AQA 7405 questions with marked answers on chlorine with water and alkali, disproportionation, oxidation states, water treatment and bleach."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

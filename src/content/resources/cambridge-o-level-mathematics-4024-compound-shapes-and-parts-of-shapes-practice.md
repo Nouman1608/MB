@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "compound-shapes-and-parts-of-shapes-4024"
 description: "Original practice questions with worked answers on 4024 section 5.5: compound plane shapes, segments, compound solids, half solids, hollow shapes and frustums."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

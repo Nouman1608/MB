@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "animation-content"
 description: "Study guide to section 20.1 of Cambridge A Level IT 9626: stage set-up, frames and key frames, tweening and morphing, layers, masks, frame rates and the types of animation."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

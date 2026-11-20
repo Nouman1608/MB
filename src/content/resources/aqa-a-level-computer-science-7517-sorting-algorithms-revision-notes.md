@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "sorting-algorithms-7517"
 description: "Condensed AQA 7517 section 4.3.5 recall: bubble sort and merge sort, how to trace them, why they are O(n squared) and O(n log n), and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

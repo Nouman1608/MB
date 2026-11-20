@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "classification-of-algorithms-7517"
 description: "Condensed AQA 7517 section 4.4.4 recall: Big-O notation, orders of complexity, tractable and intractable problems, computability and the halting problem."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "testing-a-spreadsheet"
 description: "Revision notes for Cambridge 9626 IT section 8.2: test plans, normal, extreme and abnormal data, boundary testing and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

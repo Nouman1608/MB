@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "functions-of-management-ocr-alevel-business"
 description: "Revision notes on functions of management for OCR A Level Business H431: the five functions, budget variances, constraints, judging success and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

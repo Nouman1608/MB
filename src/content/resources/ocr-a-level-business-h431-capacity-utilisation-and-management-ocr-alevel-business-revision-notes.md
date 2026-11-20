@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "capacity-utilisation-and-management-ocr-alevel-business"
 description: "Revision notes on capacity utilisation and management for OCR A Level Business H431: formula, cost effects, changing capacity, improving management and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -15,10 +15,12 @@ syllabusTopics:
     subtopic: "continuous-and-discontinuous-variation-oxfordaqa-igcse-biology"
 description: "OxfordAQA IGCSE Biology 9201 section 3.6.1 in depth: genetic and environmental causes of variation, and continuous and discontinuous data."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the 9201 text for 3.6.1 lists only the causes of variation (genetic and environmental); the continuous and discontinuous definitions and examples come from the subtopic title and general biology, so check them against the board's own wording."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: the 9201 text for 3.6.1 lists only the causes of variation (genetic and environmental); the continuous and discontinuous definitions and examples come from the subtopic title and general biology, so check them against the board's own wording."
 ---
 
 This guide goes deeper into section **3.6.1 Continuous and discontinuous variation** of the OxfordAQA International

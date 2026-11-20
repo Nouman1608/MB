@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "properties-of-metals-and-alloys-8462"
 description: "Revision notes for AQA GCSE Chemistry 8462 section 4.2.2.7: metallic structure, melting points, layers, alloys and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

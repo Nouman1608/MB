@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "hash-tables-oxfordaqa-alevel-cs"
 description: "OxfordAQA 9645 sub-topic 3.10.3 in depth: hash functions using MOD, properties of a good hash, collisions and rehashing to the next free place, and hash tables versus arrays."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "finite-state-machines-fsms-oxfordaqa-alevel-cs"
 description: "Ten original OxfordAQA 9645 questions on sub-topic 3.13.1 Finite state machines: state tables, tracing, Mealy machines, completing and interpreting FSMs."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

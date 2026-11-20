@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "the-haber-process-and-the-use-of-npk-fertilisers-8462"
 description: "AQA GCSE Chemistry 8462 section 4.10.4 in depth: the Haber process, why its conditions are a compromise, and the production and uses of NPK fertilisers."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

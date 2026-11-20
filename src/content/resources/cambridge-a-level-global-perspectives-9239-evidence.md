@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "evidence-9239"
 description: "Primary and secondary evidence in the 9239 Cambridge Research Report: what each is, how to assess sources and how to use evidence to support judgements."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

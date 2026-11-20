@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "managing-strategic-implementation-aqa-alevel-business"
 description: "Study guide to AQA A-level Business 7132 section 3.10.3: leadership, communications and structure in implementing strategy, plus network analysis, critical path and total float."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

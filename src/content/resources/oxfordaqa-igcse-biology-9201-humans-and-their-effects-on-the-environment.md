@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "humans-and-their-effects-on-the-environment-oxfordaqa-igcse-biology"
 description: "OxfordAQA IGCSE Biology 9201 section 3.3.4 in depth: pollution, eutrophication, deforestation, global warming and evaluating environmental data."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

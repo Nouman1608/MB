@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "recruitment-and-selection-of-employees-oxfordaqa-igcse-business"
 description: "Twelve original questions with answers on internal and external recruitment, selection stages, staff turnover and the benefits of effective recruitment for OxfordAQA IGCSE Business 9225 3.4.2."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

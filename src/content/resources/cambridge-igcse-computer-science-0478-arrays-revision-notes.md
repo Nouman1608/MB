@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "arrays-0478"
 description: "Revision notes for Cambridge IGCSE Computer Science 0478 section 8.2: array declaration, indexes, loops over 1D and 2D arrays, and common array algorithms."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

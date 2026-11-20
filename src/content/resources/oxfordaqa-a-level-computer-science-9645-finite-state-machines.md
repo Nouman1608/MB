@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "finite-state-machines-fsms-oxfordaqa-alevel-cs"
 description: "OxfordAQA 9645 sub-topic 3.13.1 in depth: state transition diagrams and tables, accepting states, Mealy machines with output, tracing and designing FSMs."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

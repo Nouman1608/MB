@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "product-ocr-alevel-business"
 description: "Revision notes on product for OCR A Level Business H431: Boston matrix, value analysis, Ansoff, USP, branding, differentiation, product mix and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

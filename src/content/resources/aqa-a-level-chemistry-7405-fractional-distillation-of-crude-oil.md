@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "fractional-distillation-of-crude-oil-7405"
 description: "AQA 7405 fractional distillation in depth: alkanes as saturated hydrocarbons, crude oil as a mixture, how the column separates fractions, boiling point trends and uses."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

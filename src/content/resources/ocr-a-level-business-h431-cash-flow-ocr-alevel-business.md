@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "cash-flow-ocr-alevel-business"
 description: "Study guide to cash-flow for OCR A Level Business H431: forecasts and statements, cash against profit, worked forecast with changes in costs and revenue, and strategies for cash shortages."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

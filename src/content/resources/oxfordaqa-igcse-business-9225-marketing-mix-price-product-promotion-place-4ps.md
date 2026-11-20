@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "the-elements-of-the-marketing-mix-price-product-promotion-and-place-4ps-oxfordaqa-igcse-business"
 description: "Study guide to OxfordAQA IGCSE Business 9225 section 3.5.4: pricing methods, product and the product life cycle, promotion, place and e-commerce, and how the marketing mix works together."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

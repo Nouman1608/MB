@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "clubs-and-non-profit-making-organisations-yac11"
 description: "Ten original club accounts questions for Edexcel IAL Accounting (YAC11) 1.3.14-1.3.19: subscriptions, life membership, activity accounts and income and expenditure, with full answers."
 author: "marlbridge-academic-team"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

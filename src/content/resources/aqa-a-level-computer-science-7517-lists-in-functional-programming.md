@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "lists-in-functional-programming-7517"
 description: "Deeper guide to AQA 7517 section 4.12.3: lists as a head and a tail, the empty list, and the operations head, tail, empty test, length, prepend and append, with recursive definitions."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

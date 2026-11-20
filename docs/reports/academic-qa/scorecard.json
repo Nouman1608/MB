@@ -5,12 +5,12 @@
     "scope": "src/content/resources (articles and the AP library are not in scope for v1)",
     "resources": 17941,
     "qaState": {
-      "BLOCKED": 2,
+      "BLOCKED": 0,
       "REVERIFICATION_REQUIRED": 0,
       "REVISION_REQUIRED": 0,
       "ACADEMIC_REVIEW_PENDING": 0,
       "VERIFIED_APPROVED": 4,
-      "AUTOMATED_CHECK_COMPLETE": 17935,
+      "AUTOMATED_CHECK_COMPLETE": 17937,
       "NOT_ASSESSED": 0
     },
     "scoreStatus": {
@@ -30,11 +30,11 @@
     "needingRevision": 0,
     "withOpenHardStop": 0,
     "verificationKinds": {
-      "automatedStructuralPass": 17329,
+      "automatedStructuralPass": 17331,
       "automatedStructuralWarn": 610,
-      "automatedStructuralFail": 2,
+      "automatedStructuralFail": 0,
       "repositorySpecificationCheck": 785,
-      "accountableTeacherCredited": 16054,
+      "accountableTeacherCredited": 17932,
       "aiAssistedAssessmentCurrent": 4,
       "humanAssessmentCurrent": 0,
       "documentedTeacherVerification": 4,
@@ -45,8 +45,7 @@
       "REPO_PARTIAL_UNVERIFIABLE": 154,
       "REPO_VERIFIED": 588,
       "REPO_VERIFIED_AFTER_CORRECTION": 43,
-      "TEACHER_CREDITED": 15269,
-      "UNVERIFIED": 1878
+      "TEACHER_CREDITED": 17147
     },
     "findingsOpenBySeverity": {
       "advisory": 5,
@@ -58,13 +57,11 @@
       "8 editorial-accountability": 3
     },
     "riskTier": {
-      "1": 2,
-      "3": 1876,
       "4": 154,
       "5": 219,
-      "6": 5181,
-      "7": 5202,
-      "8": 5307
+      "6": 5851,
+      "7": 5528,
+      "8": 6189
     },
     "searchMetadataCoverageClaims": {
       "NEEDS_REVIEW": 7,
@@ -93,12 +90,12 @@
     },
     "cambridge": {
       "resources": 6721,
-      "BLOCKED": 2,
+      "BLOCKED": 0,
       "REVERIFICATION_REQUIRED": 0,
       "REVISION_REQUIRED": 0,
       "ACADEMIC_REVIEW_PENDING": 0,
       "VERIFIED_APPROVED": 3,
-      "AUTOMATED_CHECK_COMPLETE": 6716,
+      "AUTOMATED_CHECK_COMPLETE": 6718,
       "NOT_ASSESSED": 0,
       "scored": 3
     },
@@ -216,12 +213,12 @@
     },
     "o-level": {
       "resources": 1980,
-      "BLOCKED": 2,
+      "BLOCKED": 0,
       "REVERIFICATION_REQUIRED": 0,
       "REVISION_REQUIRED": 0,
       "ACADEMIC_REVIEW_PENDING": 0,
       "VERIFIED_APPROVED": 1,
-      "AUTOMATED_CHECK_COMPLETE": 1977,
+      "AUTOMATED_CHECK_COMPLETE": 1979,
       "NOT_ASSESSED": 0,
       "scored": 1
     }
@@ -251,12 +248,12 @@
     },
     "practice-questions": {
       "resources": 5896,
-      "BLOCKED": 1,
+      "BLOCKED": 0,
       "REVERIFICATION_REQUIRED": 0,
       "REVISION_REQUIRED": 0,
       "ACADEMIC_REVIEW_PENDING": 0,
       "VERIFIED_APPROVED": 2,
-      "AUTOMATED_CHECK_COMPLETE": 5893,
+      "AUTOMATED_CHECK_COMPLETE": 5894,
       "NOT_ASSESSED": 0,
       "scored": 2
     },
@@ -273,12 +270,12 @@
     },
     "study-guides": {
       "resources": 5908,
-      "BLOCKED": 1,
+      "BLOCKED": 0,
       "REVERIFICATION_REQUIRED": 0,
       "REVISION_REQUIRED": 0,
       "ACADEMIC_REVIEW_PENDING": 0,
       "VERIFIED_APPROVED": 2,
-      "AUTOMATED_CHECK_COMPLETE": 5905,
+      "AUTOMATED_CHECK_COMPLETE": 5906,
       "NOT_ASSESSED": 0,
       "scored": 2
     },
@@ -517,12 +514,12 @@
     },
     "mathematics": {
       "resources": 1818,
-      "BLOCKED": 2,
+      "BLOCKED": 0,
       "REVERIFICATION_REQUIRED": 0,
       "REVISION_REQUIRED": 0,
       "ACADEMIC_REVIEW_PENDING": 0,
       "VERIFIED_APPROVED": 0,
-      "AUTOMATED_CHECK_COMPLETE": 1816,
+      "AUTOMATED_CHECK_COMPLETE": 1818,
       "NOT_ASSESSED": 0,
       "scored": 0
     },

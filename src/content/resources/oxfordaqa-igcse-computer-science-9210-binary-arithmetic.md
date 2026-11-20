@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "binary-arithmetic-9210"
 description: "Study guide to OxfordAQA IGCSE Computer Science 9210 section 3.3.4: adding two 8-bit binary numbers, logical binary shifts and their use for multiplying and dividing by powers of 2."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

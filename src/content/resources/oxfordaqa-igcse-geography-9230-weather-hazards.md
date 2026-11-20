@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "weather-hazards-9230"
 description: "Weather hazards for OxfordAQA IGCSE Geography 9230: atmospheric circulation, how tropical storms form, their effects and responses, climate change and management."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the facts quoted for Typhoon Haiyan (Philippines, November 2013): wind speed at landfall, storm surge height, deaths, people displaced, homes damaged and the aftermath. Figures are approximate and vary by source."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: check the facts quoted for Typhoon Haiyan (Philippines, November 2013): wind speed at landfall, storm surge height, deaths, people displaced, homes damaged and the aftermath. Figures are approximate and vary by source."
 ---
 
 This guide covers section 3.1.1.3, Weather hazards, in Section A (The challenge of natural hazards) of Unit 1 of the OxfordAQA International GCSE Geography (9230) specification, Version 4.3. The key ideas are: "Global atmospheric circulation helps to determine patterns of weather and climate"; "Tropical storms (hurricanes, cyclones, typhoons) develop as a result of particular physical conditions"; and "Tropical storms have significant effects on people and the environment." For the whole unit, start with the [Living with the Physical Environment study guide](/resources/igcse-oxfordaqa-geography-living-with-the-physical-environment/). This page goes deeper on the circulation model and tropical storms, and gives a worked example.

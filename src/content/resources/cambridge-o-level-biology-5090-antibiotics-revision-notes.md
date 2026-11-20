@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "antibiotics"
 description: "Condensed recall for 5090 subtopic 12.2: drugs, antibiotics and viruses, how resistance and MRSA develop, how to limit them, inhibition zones and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

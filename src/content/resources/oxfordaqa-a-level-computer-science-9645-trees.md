@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "trees-oxfordaqa-alevel-cs"
 description: "OxfordAQA 9645 sub-topic 3.10.2 in depth: trees as connected graphs with no cycles, rooted and binary trees, and binary search trees with insertion and search traces."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

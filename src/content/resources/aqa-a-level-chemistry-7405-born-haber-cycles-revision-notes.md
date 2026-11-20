@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "born-haber-cycles-7405"
 description: "Condensed AQA 7405 notes on Born-Haber cycles: definitions, building cycles, worked values for NaCl, MgCl2 and MgO, ionic model comparisons, enthalpies of solution and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

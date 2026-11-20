@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "mineral-nutrition"
 description: "Deeper guide to 5090 subtopic 6.3: why plants need nitrate and magnesium ions, what each is used for, the effects of deficiency and how to read water culture data."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

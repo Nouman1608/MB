@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "mineral-nutrition"
 description: "Condensed recall for 5090 subtopic 6.3: nitrate ions and amino acids, magnesium ions and chlorophyll, deficiency effects, water culture data and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

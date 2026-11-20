@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "methods-to-detect-and-prevent-cyber-security-threats-9210"
 description: "Study guide to OxfordAQA IGCSE Computer Science 9210 section 3.6.2: biometrics, password systems, CAPTCHA, email confirmation and automatic software updates."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

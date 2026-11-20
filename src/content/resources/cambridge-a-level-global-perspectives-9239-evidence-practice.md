@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "evidence-9239"
 description: "Original practice on 9239 Research Report evidence: classifying primary and secondary evidence, assessing sources, handling conflicts and supporting judgements."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "the-internet-and-the-world-wide-web-0478"
 description: "Study guide to Cambridge IGCSE Computer Science 0478 section 5.1: internet against world wide web, URLs, HTTP and HTTPS, web browser functions, how a web page is retrieved and cookies."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

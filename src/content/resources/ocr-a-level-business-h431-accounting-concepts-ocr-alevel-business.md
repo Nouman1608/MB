@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "accounting-concepts-ocr-alevel-business"
 description: "Study guide to accounting concepts for OCR A Level Business H431: true and fair view, GAAP and the seven conventions applied with worked figures, plus their usefulness and impact."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

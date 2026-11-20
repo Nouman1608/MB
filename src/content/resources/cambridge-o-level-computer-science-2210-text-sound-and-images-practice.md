@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "text-sound-and-images-2210"
 description: "Original questions with answers on Cambridge O Level Computer Science 2210 section 1.2: character sets, ASCII and Unicode, sample rate and resolution, image resolution and colour depth."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

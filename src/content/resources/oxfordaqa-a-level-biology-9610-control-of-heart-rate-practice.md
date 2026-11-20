@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "control-of-heart-rate-oxfordaqa-alevel-biology"
 description: "Original practice questions with mark-scheme answers on the SAN, AVN, Purkinje tissue, nervous control of heart rate and cardiac output for OxfordAQA International A-level Biology 9610."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "written-unit-9670"
 description: "Original practice tasks with marking guidance for the 9670 Unit 4 written route: question design, method, analysis, conclusion and evaluating a sample report."
 author: "marlbridge-academic-team"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

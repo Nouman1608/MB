@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "transpiration-and-translocation"
 description: "Original practice questions with full answers on 5090 subtopic 7.2: transpiration rate factors, the potometer, transpiration pull, translocation and xylem structure."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

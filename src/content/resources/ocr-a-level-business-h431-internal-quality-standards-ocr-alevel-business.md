@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "internal-quality-standards-ocr-alevel-business"
 description: "Study guide to internal quality standards for OCR A Level Business H431: quality control and assurance, wastage calculations, TQM and the role of training."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

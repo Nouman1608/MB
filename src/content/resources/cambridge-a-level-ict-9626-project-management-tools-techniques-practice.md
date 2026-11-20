@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "tools-and-techniques-for-project-management-tasks"
 description: "Original practice questions with marked answers on Gantt charts, PERT networks, float and the critical path for section 15.3 of Cambridge A Level IT 9626."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

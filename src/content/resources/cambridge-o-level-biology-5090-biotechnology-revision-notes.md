@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "biotechnology"
 description: "Condensed recall for 5090 subtopic 18.1: yeast, bacteria in biotechnology, fermenters, enzymes in industry and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

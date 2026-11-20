@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "compression"
 description: "Original practice questions with marked answers on lossless and lossy compression, run length encoding and the effects of compression on images for section 19.4 of Cambridge A Level IT 9626."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "analysing-the-external-environment-to-assess-opportunities-and-threats-political-and-legal-change-aqa-alevel-business"
 description: "Original practice questions with mark-scheme answers on competition, labour and environmental law, regulators and trade policy for AQA A-level Business 7132."
 author: "marlbridge-academic-team"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

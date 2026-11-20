@@ -15,6 +15,10 @@ syllabusTopics:
     subtopic: "temperature-control-oxfordaqa-igcse-biology"
 description: "OxfordAQA IGCSE Biology 9201 section 3.4.4 in depth: receptors and the thermoregulatory centre, responses to being too hot or too cold, and water loss."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

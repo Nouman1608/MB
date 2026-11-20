@@ -19,10 +19,12 @@ syllabusTopics:
     subtopic: "prototyping"
 description: "Study guide to section 16.9 of Cambridge A Level IT 9626: evolutionary, incremental, throwaway and rapid prototyping, why each is used and their advantages and disadvantages."
 author: "marlbridge-academic-team"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the wording that separates rapid prototyping from throwaway prototyping against the examiner reports; the syllabus names both but does not define them."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: check the wording that separates rapid prototyping from throwaway prototyping against the examiner reports; the syllabus names both but does not define them."
 ---
 
 This guide goes deeper into section **16.9 Prototyping** of the Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027 (version 4). It is **A Level only** content examined in Paper 3 (Advanced Theory), where calculators are not allowed.

@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "reactivity-of-metals-8462"
 description: "AQA GCSE Chemistry 8462 section 4.4.1 in depth: oxidation and reduction, the reactivity series, displacement, extraction with carbon, and (Higher tier) redox in terms of electrons."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---
