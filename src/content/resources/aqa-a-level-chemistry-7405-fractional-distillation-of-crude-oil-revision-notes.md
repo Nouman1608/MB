@@ -129,6 +129,12 @@ These trends all come from the strength of the London forces between molecules. 
 4. Collection vessels: one for each fraction.
 5. Thermometer at the top: shows the vapour temperature in the laboratory version.
 
+## Answer frames
+
+- **Why is crude oil separated into fractions?** The fractions have different uses, and a mixture of all the hydrocarbons would not be suitable as a fuel for any one purpose.
+- **Why do the fractions leave at different heights?** Each condenses where the temperature falls below its boiling point.
+- **Why is it called fractional distillation?** Distillation separates by boiling point, and fractional refers to collecting fractions rather than a single pure compound.
+
 ## Exam traps
 
 - "Alkanes are unsaturated."

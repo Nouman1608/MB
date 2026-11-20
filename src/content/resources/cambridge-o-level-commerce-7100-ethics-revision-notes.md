@@ -93,6 +93,24 @@ Effects: customers lose money and trust; competitors lose sales; the business fa
 
 **Why might a business choose fair trade products?** They attract customers who care about producers' welfare and improve the business's reputation, although they cost more.
 
+## Stakeholders and ethical issues
+
+| Stakeholder | Harmed by | Helped by |
+|---|---|---|
+| Customers | Misleading advertising | Honest information |
+| Producers and workers | Very low prices and pay | Fair trade |
+| Community and environment | Harmful disposal | Safe recycling |
+| Competitors | Unfair claims | Honest competition |
+| The business | Fines, lost trust | Good reputation |
+
+## Developing an ethics point
+
+| Weak | Developed |
+|---|---|
+| "It is unfair" | "Customers pay for a cream that does not work, so they lose money and trust the business less" |
+| "Fair trade is good" | "Fair trade gives farmers a guaranteed minimum price, so their income is secure when market prices fall" |
+| "It pollutes" | "Dumping batteries releases harmful metals into the soil, which can enter the water supply" |
+
 ## Exam traps
 
 - **Ethics as law.**

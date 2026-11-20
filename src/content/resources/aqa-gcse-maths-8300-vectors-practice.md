@@ -28,7 +28,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover section 3.4.3, **Vectors** (G24 and G25), of the AQA GCSE Mathematics (8300) specification. Questions 1 to 7 suit both tiers. Questions 8 to 11 use vectors in geometric arguments and proofs, which is Higher tier only content, and are labelled. In this set a column vector is written (x, y), with the top entry first. Learn the methods first in the [study guide](/resources/aqa-gcse-maths-8300-vectors/) and the [revision notes](/resources/aqa-gcse-maths-8300-vectors-revision-notes/). Sketch each diagram as you read.
+These questions cover section 3.4.3, **Vectors** (G24 and G25), of the AQA GCSE Mathematics (8300) specification. Questions 1 to 7 and Question 8(a) suit both tiers. Question 8(b) and Questions 9 to 11 use vectors in geometric arguments and proofs, which is Higher tier only content, and are labelled. In this set a column vector is written (x, y), with the top entry first. Learn the methods first in the [study guide](/resources/aqa-gcse-maths-8300-vectors/) and the [revision notes](/resources/aqa-gcse-maths-8300-vectors-revision-notes/). Sketch each diagram as you read.
 
 ## Questions
 
@@ -70,11 +70,11 @@ These questions cover section 3.4.3, **Vectors** (G24 and G25), of the AQA GCSE 
 
 **7.** (x, 3) + (2, y) = (7, 1). Work out the values of x and y. **[2]**
 
-**8.** (Higher tier only) OAB is a triangle with OA = **a** and OB = **b**. M is the midpoint of AB.
+**8.** OAB is a triangle with OA = **a** and OB = **b**. M is the midpoint of AB.
 
 **(a)** Write AB in terms of **a** and **b**. **[1]**
 
-**(b)** Work out OM in terms of **a** and **b**. Give your answer in its simplest form. **[2]**
+**(b)** (Higher tier only) Work out OM in terms of **a** and **b**. Give your answer in its simplest form. **[2]**
 
 **9.** (Higher tier only) OAB is a triangle with OA = **a** and OB = **b**. P is a point on AB such that AP : PB = 2 : 3. Work out OP in terms of **a** and **b**. **[3]**
 
@@ -105,8 +105,8 @@ These questions cover section 3.4.3, **Vectors** (G24 and G25), of the AQA GCSE 
 
 **7.** x + 2 = 7, so **x = 5** [1]; 3 + y = 1, so **y = −2** [1]
 
-**8.** (Higher tier only) **(a)** AB = AO + OB = −**a** + **b** = **b** − **a** [1]
-**(b)** OM = OA + AM = **a** + ½(**b** − **a**) [1] = **½a + ½b**, or ½(**a** + **b**) [1]
+**8.** **(a)** AB = AO + OB = −**a** + **b** = **b** − **a** [1]
+**(b)** (Higher tier only) OM = OA + AM = **a** + ½(**b** − **a**) [1] = **½a + ½b**, or ½(**a** + **b**) [1]
 
 **9.** (Higher tier only) AB = **b** − **a** [1]. AP = 2/5 AB = 2/5(**b** − **a**) [1]. OP = OA + AP = **a** + 2/5(**b** − **a**) = **3/5 a + 2/5 b** [1]
 
@@ -116,7 +116,7 @@ These questions cover section 3.4.3, **Vectors** (G24 and G25), of the AQA GCSE 
 
 ## Which questions are Higher tier only?
 
-Questions 8 to 11 use vectors to construct geometric arguments and proofs (G25), which is listed under Higher tier only content in the specification. Questions 1 to 7 cover translations as vectors (G24) and the addition, subtraction and scalar multiplication of vectors in diagrammatic and column form (G25), which both tiers are assessed on.
+Question 8(b) and Questions 9 to 11 use vectors to construct geometric arguments and proofs (G25), which is listed under Higher tier only content in the specification. Questions 1 to 7 and 8(a) cover translations as vectors (G24) and the addition, subtraction and scalar multiplication of vectors in diagrammatic and column form (G25), which both tiers are assessed on.
 
 ## Where marks are usually lost
 

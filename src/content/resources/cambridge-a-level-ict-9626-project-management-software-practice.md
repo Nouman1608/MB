@@ -101,7 +101,7 @@ These questions are for **section 15.2 Project management software** (Topic 15, 
 
 **(b)** Any two from: give one task to another person [1]; extend the schedule [1]; add staff [1]; reduce the scope [1].
 
-**8. (a)** 25 × 7 = £175 a month; × 12 = £2,100 for a year [1]; × 36 months = £6,300 for three years [1][1].
+**8. (a)** 25 × 7 × 12 = £2,100 for one year [1]; 2,100 × 3 [1] = £6,300 for three years [1].
 
 **(b)** 25 × 280 = £7,000 [1].
 

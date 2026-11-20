@@ -128,6 +128,18 @@ A shop that buys the coffee pays more per kilogram. If it passes on the extra $0
 
 Harmful disposal is also a sustainability issue (6.1), because it harms the environment. Keep the focus different in answers. **Ethics** is about right and wrong behaviour towards people and the environment. **Sustainability** is about meeting present needs without harming future generations.
 
+## Case: a chocolate retailer
+
+*Invented example.* Sweetfield is a chain of sweet shops deciding whether to stock a cheaper chocolate bar or a fair trade one.
+
+1. **Cost:** the fair trade bar costs Sweetfield 15% more to buy. If the cheaper bar costs $2.00, the fair trade bar costs 2.00 + (15% × 2.00) = $2.30.
+2. **Customers:** some customers care where chocolate comes from and will pay extra. Others look only at price.
+3. **Producers:** the cocoa farmers get a guaranteed minimum price and a premium for community projects.
+4. **Reputation:** the chain can advertise that it supports fair trade. This only works if the claim is true. A false claim would be misleading advertising.
+5. **Decision:** Sweetfield could stock both bars, so customers can choose, and display the fair trade bar clearly. This lets the business test demand before changing its whole range.
+
+The case shows the main tension in business ethics: ethical choices often cost more now but may build trust and loyalty.
+
 ## Annotated model answer
 
 **Question:** Explain why misleading advertising is an ethical issue. [3]

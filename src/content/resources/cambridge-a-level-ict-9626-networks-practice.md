@@ -26,7 +26,7 @@ featured: false
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
 > and they do **not** replicate the exam's exact structure, question count or
-> mark tariffs — examination boards hold copyright in their own papers. Use
+> mark tariffs; examination boards hold copyright in their own papers. Use
 > these alongside the official past papers available free from your board.
 
 Related: [Networks study guide](/resources/cambridge-a-level-ict-9626-networks/) | [Communications technology revision notes](/resources/a-level-cambridge-ict-communications-technology-revision-notes/)

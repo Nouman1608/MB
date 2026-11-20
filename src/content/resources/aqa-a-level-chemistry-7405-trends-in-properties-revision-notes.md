@@ -113,6 +113,27 @@ n(AgCl) = 0.100 × 0.0250 = 2.50 × 10⁻³ mol
 mass = 2.50 × 10⁻³ × 143.4 = 0.359 g
 ```
 
+## Observations to learn
+
+| Test | Observation |
+|---|---|
+| Cl₂(aq) + KBr(aq) | Colourless to orange |
+| Cl₂(aq) + KI(aq) | Colourless to brown |
+| Br₂(aq) + KI(aq) | Orange to brown |
+| NaCl(s) + conc. H₂SO₄ | Steamy fumes |
+| NaBr(s) + conc. H₂SO₄ | Steamy fumes, orange-brown vapour, choking gas |
+| NaI(s) + conc. H₂SO₄ | Purple fumes or black solid, yellow solid, rotten-egg smell |
+| AgNO₃ with chloride | White precipitate |
+| AgNO₃ with bromide | Cream precipitate |
+| AgNO₃ with iodide | Yellow precipitate |
+
+## Explaining the reducing-ability trend
+
+1. Going down the group, the halide ion gets larger.
+2. The outer electron is further from the nucleus and more shielded.
+3. It is lost more easily, so the halide ion is a stronger reducing agent.
+4. Sulfuric acid is reduced further by the stronger reducing agent: not at all by Cl⁻, to SO₂ by Br⁻, and to SO₂, S and H₂S by I⁻.
+
 ## Exam traps
 
 - Cream AgBr described as white or yellow.

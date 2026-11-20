@@ -114,6 +114,21 @@ If each booking is worth £20 in sales, the 15 bookings bring £300, which is mo
 | Blog | Space for detailed writing; builds an audience; owner controls content | Takes time to maintain; needs promotion; comments may be abusive |
 | Microblog | Rapid news sharing; reaches a wide audience | Short length leaves no space for detail; rumours spread quickly |
 
+## Choosing a type for a purpose
+
+Exam scenarios often ask which type of platform to use. Match the **purpose** to the **feature**.
+
+| Purpose | Best type | Reason |
+|---|---|---|
+| A council warns of a flood | Microblog | Short, immediate and easily shared |
+| A company explains how to use a product in detail | Blog | Room for long, illustrated posts, with comments |
+| Users of a program help each other with problems | Forum | Threads stay available and can be searched later |
+| Two colleagues need a quick private answer | Instant messaging | Real time and private |
+| A bank sends a formal notice with a document | Email | Record and attachment |
+| Fans discuss a match as it happens | Chat room | Live, with many people |
+
+**Worked example 2: a scenario answer.** A local charity wants to recruit volunteers and thank donors. A good answer names a platform, a feature and a benefit: "A microblog account allows short appeals to be shared by supporters, so the message reaches people beyond the charity's own followers. A blog can describe the work in detail, with photographs, to show donors how money was used. The charity must watch for false rumours and respond to negative comments quickly." This links the type, the feature, the benefit and a risk, and it is the pattern that earns marks.
+
 ## Common mistakes
 
 - Treating all social networking as one thing. Each type has different features and suits different uses.

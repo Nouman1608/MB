@@ -119,6 +119,16 @@ The cloud is cheaper here because most of the owned capacity would be idle for 2
 
 Security risks include unauthorised access, data breaches at the provider, and data being stored in a country with different laws. Organisations reduce these by encrypting data, using strong access controls, choosing reputable providers, and keeping a copy of important data elsewhere.
 
+## A cloud scenario: moving a school's systems
+
+A school with 900 pupils is thinking about moving its email, shared files and register system to the cloud.
+
+- **Benefits:** staff and pupils reach work from home; no new server room is needed; the provider backs up the data and applies updates; storage grows as needed; the school pays a predictable monthly fee.
+- **Risks:** pupils' personal data is held by a third party, so the school must check the provider's security and where data is stored; lessons stop if the internet connection fails; pupils without home internet are disadvantaged; fees continue every year.
+- **Reducing the risks:** choose a reputable provider with encryption and access controls; keep a second copy of important records; install a reliable connection with a back-up line.
+
+A conclusion could be: "The move is worthwhile if the school has a dependable connection and a clear data protection agreement with the provider, because it reduces maintenance and improves access." Notice that the answer uses facts from the scenario and ends with a conditional judgement.
+
 ## Common mistakes
 
 - Defining the cloud as "the internet". It is a service of remote shared servers, reached through the internet.

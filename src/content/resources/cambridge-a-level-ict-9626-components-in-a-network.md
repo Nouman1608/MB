@@ -106,6 +106,18 @@ Follow a request from a laptop to a web server:
 
 Another example: a school joins its old and new buildings with a **bridge**, uses **switches** inside each room, connects staff wireless devices through **access points** and reaches the internet through a **router** that also acts as the default gateway.
 
+## Diagnosing a fault: which component?
+
+Applying the roles to a fault is a good test of understanding.
+
+| Symptom | Likely cause |
+|---|---|
+| One computer cannot reach anything, but others can | Faulty NIC or cable for that computer |
+| Wireless laptops cannot connect but wired computers are fine | Wireless access point or wireless NIC |
+| Everything in the building works, but nothing can reach the internet | Router (or the link beyond it) |
+| The network slows badly when many users copy files, and it uses a hub | Hub sharing bandwidth; replace with a switch |
+| Distant end of a long cable has intermittent errors | Weak signal; add a repeater |
+
 ## Common mistakes
 
 - Saying a hub and a switch "do the same thing". A hub sends to all ports; a switch sends only to the destination port.

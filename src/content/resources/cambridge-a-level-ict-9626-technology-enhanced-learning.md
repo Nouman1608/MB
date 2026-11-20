@@ -111,6 +111,16 @@ Video-conferencing allows people in different places to see and hear each other 
 | MOOC | Reaching very large numbers at low cost | Low completion; little support |
 | Video-conferencing | Live contact with distant teachers or classes | Needs good connections; harder to manage |
 
+## Matching a method to a learner
+
+| Learner and need | Method | Why |
+|---|---|---|
+| New employees need the same safety training | CBT | Consistent content and recorded results |
+| A pupil wants to learn one spreadsheet function tonight | Online tutorial | Quick and specific |
+| A teacher sets weekly tasks for a class | Networked course | Materials, marks and feedback in one place |
+| An adult wants a university-level subject at low cost | MOOC | Open access and flexible |
+| A small school needs an expert in a rare language | Video-conferencing | Live access to a distant teacher |
+
 ## Common mistakes
 
 - Describing a method without saying how it is delivered, such as on a network or over the internet.

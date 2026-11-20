@@ -110,6 +110,21 @@ Individuals gain convenience, information and communication, and new jobs (such 
 
 Balanced answers say that surveillance can protect people, but only when it is proportionate, legal, open about what is collected and kept secure.
 
+## Weighing up an impact: a worked judgement
+
+Higher-mark questions ask you to **assess** or **evaluate**. Use the benefit and cost for each group, then decide.
+
+**Worked example 3: self-service tills in a supermarket.**
+
+| Group | Benefit | Cost or risk |
+|---|---|---|
+| The supermarket | Needs fewer cashiers, so wage costs fall; queues shorten at busy times | Cost of machines and maintenance; more theft; staff needed to help customers |
+| Staff | Can move to other roles, such as helping customers | Some jobs are lost; less contact with customers |
+| Customers | Faster for small shops; choice of till | Harder for older or less confident shoppers; "unexpected item" errors |
+| Society | Resources used more efficiently | Fewer entry-level jobs; digital exclusion |
+
+A judgement could be: "Self-service tills benefit the supermarket most through lower costs, but the store should keep some staffed tills so that customers who are not confident with technology are not excluded." This weighs both sides, names the groups and gives a reasoned conclusion, which is what the top mark band looks for.
+
 ## Common mistakes
 
 - Listing technologies without saying what changed.

@@ -137,6 +137,15 @@ Testing on data that was not used to build the model gives a fairer measure than
 
 Organisations reduce these risks by collecting only the data they need, anonymising it, gaining informed consent, restricting access, encrypting stored data and following data protection law.
 
+## Data mining compared with other analysis
+
+| Feature | Ordinary query or report | Data mining |
+|---|---|---|
+| Starting point | A question you already have | A large set of data and a goal |
+| Result | The exact answer to that question | Patterns, groups or predictions not known before |
+| Size of data | Any | Usually very large |
+| Example | Total sales last month | Customers likely to stop buying next month |
+
 ## Common mistakes
 
 - Describing data mining as simply "searching a database". It looks for unknown patterns across large data.

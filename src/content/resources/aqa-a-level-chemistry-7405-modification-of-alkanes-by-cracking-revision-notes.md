@@ -130,6 +130,12 @@ volume = 0.704 × 24.0 = 16.9 dm³
 | Aromatic hydrocarbons | Catalytic cracking | Petrol and chemical feedstock |
 | Short-chain alkanes | Both | Fuels, feedstock |
 
+## Link to the rest of the course
+
+- Alkenes made by cracking undergo addition reactions and form polymers.
+- Fractional distillation supplies the long-chain feedstock for cracking.
+- Catalytic converters and combustion deal with the fuels made from cracking.
+
 ## Exam traps
 
 - Cracking given as a physical separation.

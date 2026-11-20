@@ -96,6 +96,30 @@ Example: Z = 56. Xenon is 54, so 55 and 56 fill 6s: s-block (barium).
 - The electron configuration sets the chemical properties.
 - Ordering by relative atomic mass would put some elements in the wrong group, for example argon and potassium.
 
+## Full worked examples
+
+**Block of arsenic (Z = 33).** Fill the sub-levels in order: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p³. The last electron enters 4p, so arsenic is p-block. It has five outer electrons (4s² 4p³), so it is in Group 5 (15), period 4.
+
+**Block of calcium (Z = 20).** 1s² 2s² 2p⁶ 3s² 3p⁶ 4s². The last electron enters 4s, so calcium is s-block, Group 2, period 4.
+
+**Block of zinc (Z = 30).** [Ar] 3d¹⁰ 4s². The last electron added in the build-up order goes into 3d (the 4s fills first, then 3d), so zinc is a d-block element, although it is not a transition metal.
+
+## Period and group from the configuration
+
+| Configuration (outer) | Period | Group | Block |
+|---|---|---|---|
+| 3s² | 3 | 2 | s |
+| 3s² 3p⁴ | 3 | 6 (16) | p |
+| 4s¹ | 4 | 1 | s |
+| 3d⁵ 4s² | 4 | d-block (manganese) | d |
+| 4s² 4p⁵ | 4 | 7 (17) | p |
+
+The period is the number of the highest occupied shell. The group follows from the number of outer electrons for s- and p-block elements.
+
+## Why the f-block sits below the table
+
+The f-block elements (lanthanoids and actinoids) fill the 4f and 5f sub-levels. Placing them in the main body would make the table very wide, so they are drawn below, but they belong between the s-block and the d-block of the later periods.
+
 ## Exam traps
 
 - Naming the block from the outer shell, not from the last sub-level.

@@ -167,6 +167,10 @@ Most of the ammonia stays as NH₃ molecules, so the solution has a lower [OH⁻
 
 To compare weak acids, compare Ka or pKa, not the pH of solutions of different concentrations. A larger Ka, or a smaller pKa, means a stronger weak acid. Methanoic acid (pKa 3.75) is a stronger acid than ethanoic acid (pKa 4.76), because its equilibrium lies further to the right.
 
+## When the approximations fail
+
+The two approximations are good for dilute solutions of weak acids with small Ka. If the percentage dissociation is more than about 5%, the amount of acid lost to dissociation is no longer negligible. In this specification, questions are set so that the approximations are valid. In your working, state both approximations, and check that the pH you calculate is sensible: a 0.1 mol dm⁻³ solution of a weak acid with Ka around 10⁻⁵ should have a pH of about 3.
+
 ## Common mistakes
 
 - Forgetting to square [H⁺], or taking the square root at the wrong stage.

@@ -58,6 +58,8 @@ These questions cover section **3.3.2.4 Chlorination of alkanes** of the AQA AS 
 
 **14.** A student says "chlorine reacts with methane because methane is a polar molecule". Explain why this is incorrect and give the correct reason. **[2]**
 
+**15.** Methane reacts with excess chlorine in UV light and the mixture includes CH₂Cl₂. Write equations for the two propagation steps that convert chloromethane into dichloromethane. **[2]**
+
 ## Answers
 
 **1.** Ultraviolet light [1]; CH₄ + Cl₂ → CH₃Cl + HCl [1]. **[2]**
@@ -87,6 +89,8 @@ These questions cover section **3.3.2.4 Chlorination of alkanes** of the AQA AS 
 **13.** CH₄ + 4Cl₂ → CCl₄ + 4HCl [1]; mass of CCl₄ = 0.400 × 154.0 = **61.6 g** [1]; n(Cl₂) = 4 × 0.400 = **1.60 mol** [1]. **[3]**
 
 **14.** Methane is non-polar because carbon and hydrogen have similar electronegativities [1]; it reacts because UV light breaks the Cl–Cl bond to give reactive chlorine radicals that attack the C–H bond [1]. **[2]**
+
+**15.** Cl• + CH₃Cl → •CH₂Cl + HCl [1]; •CH₂Cl + Cl₂ → CH₂Cl₂ + Cl• [1]. **[2]**
 
 *Examiner insight:* A propagation step has one radical on each side. A termination step has none on the product side. Count the dots.
 

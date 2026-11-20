@@ -176,6 +176,10 @@ Kw works in both directions. In an acid, [H⁺] is known and [OH⁻] = Kw ÷ [H�
 
 So even a strong acid contains a very small concentration of OH⁻ ions. In a neutral solution the two concentrations are equal. In an acidic solution [H⁺] is greater than [OH⁻], and in an alkaline solution [OH⁻] is greater than [H⁺]. These comparisons hold at every temperature, because they refer to the two concentrations and not to the number 7.
 
+## Linking Kw to the pH of strong acids and strong bases
+
+For any aqueous solution at 298 K the product [H⁺][OH⁻] is 1.00 × 10⁻¹⁴. In a 0.100 mol dm⁻³ solution of a strong monoprotic acid, [H⁺] = 0.100 and pH = 1.00, so [OH⁻] = 1.00 × 10⁻¹³. In a 0.100 mol dm⁻³ solution of a strong base like NaOH, [OH⁻] = 0.100, [H⁺] = 1.00 × 10⁻¹³ and pH = 13.00. The two solutions are mirror images of each other, which is why the pH scale from 0 to 14 is centred on 7 at 298 K.
+
 ## Common mistakes
 
 - Using pH = –log[OH⁻] instead of –log[H⁺].

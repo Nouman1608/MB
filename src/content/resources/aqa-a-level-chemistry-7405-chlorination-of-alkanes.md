@@ -159,6 +159,20 @@ n(Cl₂) = 4 × 0.500 = 2.00 mol
 mass CCl₄ = 0.500 × 154.0 = 77.0 g
 ```
 
+## Comparing the mechanism with a polar reaction
+
+The chlorination of methane is a good example of how a mechanism depends on the reagent and the bond. Chlorine reacts with methane through radicals because the C–H bond is non-polar and UV light is available. In contrast, a halogenoalkane reacts with hydroxide through a nucleophilic attack on a polar C–Hal bond, which needs curly arrows. In an exam, decide first whether the bond is polar or the conditions include UV light, and then choose the mechanism.
+
+| Question clue | Mechanism |
+|---|---|
+| Alkane plus halogen, UV light | Free-radical substitution |
+| Halogenoalkane plus aqueous hydroxide | Nucleophilic substitution |
+| Alkene plus hydrogen halide | Electrophilic addition |
+
+## Reading questions on this topic
+
+Questions often give the overall equation and ask for steps. Start by finding the species that appear on both sides across the propagation steps: these are the radicals. A species that appears on the left in one step and the right in the next is a radical carrier, and the others are reactants or products. Practice by writing the three stages for different alkane and halogen pairs until the pattern becomes automatic.
+
 ## Common mistakes
 
 - Forgetting the dot on a radical, or placing it on the wrong atom.

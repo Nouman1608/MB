@@ -84,6 +84,24 @@ Rise from Na to a maximum at Si, then a sharp fall to P, and low values for P, S
 
 **Atomic radius falls across Period 3.** More protons, same shell, similar shielding.
 
+## Linking the three properties
+
+| Trend across the period | Cause |
+|---|---|
+| Radius decreases | Nuclear charge increases; same shell; similar shielding |
+| First ionisation energy generally increases | The same cause: stronger attraction to the outer electron |
+| Melting point rises to Si, then falls | Structure changes from giant metallic to giant covalent to simple molecular |
+
+Radius and ionisation energy follow the same underlying cause, so you can reuse the same reasoning. Melting point depends on structure and bonding, not on radius alone.
+
+## Quick answers to common prompts
+
+- **Explain the trend in first ionisation energy**: nuclear charge up, same shell, radius down, attraction up.
+- **Explain the dip at Al**: 3p electron, higher in energy than 3s.
+- **Explain the dip at S**: paired electrons in a 3p orbital repel.
+- **Explain why Si has the highest melting point**: many strong covalent bonds in a giant lattice.
+- **Explain why S₈ melts higher than P₄**: more electrons, stronger London forces.
+
 ## Exam traps
 
 - Breaking covalent bonds when simple molecular elements melt.

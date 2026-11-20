@@ -110,6 +110,32 @@ The specification asks you to appreciate that society weighs advantages and disa
 3. Give the oxidation state in each product.
 4. State that one product is higher (oxidised) and one lower (reduced).
 
+## Mark-scheme style answers
+
+**Why is chlorine added to water?** It kills bacteria; the chlorate(I) ions it forms are oxidising agents.
+
+**Why is the reaction with water disproportionation?** Chlorine is oxidised from 0 to +1 (in chlorate(I)) and reduced from 0 to –1 (in chloride) in the same reaction.
+
+**Why must the alkali be cold and dilute?** Cold, dilute alkali gives chlorate(I); hot, concentrated alkali gives a different product with chlorine in a higher oxidation state.
+
+**What does bleach do?** The chlorate(I) ion is an oxidising agent. It oxidises coloured compounds to colourless ones and kills microorganisms.
+
+## Safety and handling
+
+- Chlorine is a toxic, corrosive gas; reactions should be done in a fume cupboard.
+- Bleach should not be mixed with acids, because chlorine gas is released: ClO⁻ + Cl⁻ + 2H⁺ → Cl₂ + H₂O.
+- Store bleach away from light and heat, since chlorate(I) decomposes.
+
+## Key numbers
+
+| Quantity | Value |
+|---|---|
+| Mᵣ of Cl₂ | 71.0 |
+| Mᵣ of NaClO | 74.5 |
+| Ratio Cl₂ : NaOH | 1 : 2 |
+| Ratio Cl₂ : NaClO | 1 : 1 |
+| Molar volume at room temperature and pressure | 24.0 dm³ mol⁻¹ |
+
 ## Exam traps
 
 - Missing the chlorate(I) ion in the reaction with water.

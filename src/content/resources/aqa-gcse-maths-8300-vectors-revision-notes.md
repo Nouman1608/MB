@@ -87,6 +87,28 @@ Always end with a conclusion in words.
 - (Higher tier only) OA = **a**, OB = **b**, P is the midpoint of AB. OP = **a** + ½(**b** − **a**) = ½(**a** + **b**).
 - (Higher tier only) If AB = 2**a** + 4**b** and BC = **a** + 2**b**, then AB = 2BC, so A, B and C are collinear.
 
+## Worked examples to copy
+
+**Column vectors.** a = (3, 2), b = (−1, 4). Find 3a − b. 3a = (9, 6). 3a − b = (9 − (−1), 6 − 4) = **(10, 2)**.
+
+**Finding a translation.** P(2, 5) moves to P'(−1, 9). Vector = (−1 − 2, 9 − 5) = **(−3, 4)**.
+
+**Journey method.** In triangle ABC, AB = **m** and AC = **n**. Find BC. BC = BA + AC = −**m** + **n** = **n** − **m**.
+
+**Midpoint (Higher tier only).** In the same triangle, M is the midpoint of BC. AM = AB + BM = **m** + ½(**n** − **m**) = ½(**m** + **n**).
+
+**Ratio point (Higher tier only).** X is on BC with BX : XC = 1 : 3. BX = 1/4 BC = 1/4(**n** − **m**). AX = **m** + 1/4(**n** − **m**) = 3/4**m** + 1/4**n**.
+
+## Typical wording and what to do
+
+| Wording | Action |
+|---|---|
+| "Write down the vector that maps..." | Image minus original |
+| "Find the translation that undoes..." | Use the opposite vector |
+| "Express in terms of a and b" | Find a route using only a and b |
+| "Show that ... are parallel" | Find a scalar multiple |
+| "Prove that P, Q and R are collinear" (Higher tier only) | Show parallel and a common point |
+
 ## Common errors
 
 - Adding top to bottom entries.

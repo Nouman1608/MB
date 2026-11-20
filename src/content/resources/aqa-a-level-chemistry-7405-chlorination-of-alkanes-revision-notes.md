@@ -100,6 +100,47 @@ yield = 17.5 ÷ 25.25 × 100 = 69.3 %
 
 **Moles of chlorine.** For CH₄ → CCl₄, 4 mol Cl₂ per mol CH₄. 0.500 mol CH₄ needs 2.00 mol Cl₂ and gives 0.500 × 154.0 = 77.0 g CCl₄.
 
+## Why UV light and not heat or a catalyst?
+
+- The Cl–Cl bond is weaker than C–H and C–C, so a photon of ultraviolet light breaks it homolytically.
+- The energy of the UV photon is not enough to break the C–H bond directly, so chlorine radicals form first and then attack methane.
+- In the dark at room temperature, methane and chlorine do not react.
+
+## Radical or ion? Quick check
+
+| Feature | Radical step | Ionic step |
+|---|---|---|
+| Fission | Homolytic | Heterolytic |
+| Species formed | Neutral radicals (dots) | Positive and negative ions |
+| Arrows | Not required | Curly arrows from lone pairs or bonds |
+| Typical conditions | UV light | Polar solvent, reagent such as OH⁻ |
+
+## Summary of what each propagation step does
+
+1. Cl• + CH₄ → •CH₃ + HCl: the chlorine radical takes a hydrogen atom and forms HCl.
+2. •CH₃ + Cl₂ → CH₃Cl + Cl•: the methyl radical takes a chlorine atom and releases a new chlorine radical.
+
+Add them together and cancel the radicals to get the overall equation. If the radicals do not cancel, one of your equations is wrong.
+
+## Worked example: write the mechanism for bromine and methane
+
+```
+Initiation:   Br₂ → 2Br•
+Propagation:  Br• + CH₄ → •CH₃ + HBr
+              •CH₃ + Br₂ → CH₃Br + Br•
+Termination:  Br• + Br• → Br₂
+```
+
+The mechanism is the same, with Br in place of Cl.
+
+## Checking a mechanism answer
+
+- Are there three headed stages: initiation, propagation, termination?
+- Does each equation balance?
+- Does each propagation step have exactly one radical on each side?
+- Is UV light stated?
+- Have you said why more than one product forms?
+
 ## Exam traps
 
 - No dot on a radical.

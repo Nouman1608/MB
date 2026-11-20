@@ -110,6 +110,17 @@ A farm also needs strong cooling, backup power, security and monitoring, which m
 | A firm needs to test three systems without buying three machines | Virtual servers | Several systems on one host |
 | An architect sends large drawings to clients | FTP server | Efficient large file transfer |
 
+## Servers and their usual protocols
+
+| Server | Usual protocol or service |
+|---|---|
+| Web | HTTP and HTTPS |
+| Mail | SMTP to send; POP3 or IMAP to collect |
+| FTP | File Transfer Protocol |
+| File | Shared folders with permissions |
+| Print | Print queue management |
+| Proxy | Forwards and caches web requests |
+
 ## Common mistakes
 
 - Saying a server "stores everything". Each type provides a specific service.
