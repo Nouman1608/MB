@@ -13,6 +13,7 @@ order: 52
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-language-acquisition-assessment-criteria"
+    subtopic: "ib-myp-language-acquisition-assessment-criteria-a-listening"
 description: "Condensed IB MYP Language Acquisition Criterion A listening notes: key terms, methods, speech-image links and a quick self-test with answers."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"

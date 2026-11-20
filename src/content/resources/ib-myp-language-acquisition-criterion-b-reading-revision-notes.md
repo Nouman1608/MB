@@ -13,6 +13,7 @@ order: 53
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-language-acquisition-assessment-criteria"
+    subtopic: "ib-myp-language-acquisition-assessment-criteria-b-reading"
 description: "Condensed IB MYP Language Acquisition Criterion B revision notes: reading methods, visual analysis steps, key distinctions and a quick self-test."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
