@@ -117,6 +117,30 @@ The syllabus asks you to **discuss** potential advantages and risks of genetic m
 
 Each point is made with a reason, not just a statement. A strong answer also reaches a balanced view.
 
+## Genetic modification compared with selective breeding
+
+| Feature | Selective breeding | Genetic modification |
+|---|---|---|
+| What is changed | Which individuals breed; many genes change together | One or a few individual genes |
+| Source of new features | Variation already in the species | Can come from a different species |
+| Speed | Many generations | One or a few generations to give the new feature |
+| Precision | Low; other genes are carried along | High; the particular gene is chosen |
+
+Both processes are used to produce organisms with features that are useful to people. Because GM can move genes between species, it raises extra questions of safety and ethics. Because the new gene is in the DNA of the organism, it is passed on to the offspring.
+
+## Checking whether genetic modification has worked
+
+Scientists need to find out whether the new gene is working. For a herbicide-resistant crop, young plants are sprayed with the herbicide. Those that survive have the gene, and those that die do not. For bacteria carrying the human insulin gene, a sample of the culture is tested for insulin. In practice the plants or bacteria that show the new feature are the ones that are kept and grown on, so the successful ones multiply.
+
+### Worked example 4: success rate
+
+*In an experiment, 500 plant cells were treated to insert a herbicide-resistance gene. After spraying with herbicide, the plants that grew from 35 of the cells survived. Calculate the percentage success.*
+
+1. Success = 35 out of 500.
+2. Percentage = 35 divided by 500 x 100 = 7 per cent.
+
+Because the success rate is low, many cells have to be treated to get plants that carry the gene. This is one reason why GM crop production takes time and money.
+
 ## Common mistakes
 
 - Defining genetic modification as "selective breeding". GM changes the genes directly, often by moving a gene from another species.
