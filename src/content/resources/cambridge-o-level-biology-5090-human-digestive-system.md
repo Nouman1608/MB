@@ -135,6 +135,29 @@ Peristalsis moves food along the oesophagus, stomach, small intestine and large 
 5. **Ileum**: maltase finishes digesting maltose to glucose; nutrients are absorbed (see subtopic 8.3).
 6. **Colon**: water is absorbed. **Rectum and anus**: undigested material is egested.
 
+## Reading data about digestive enzymes
+
+Digestion questions often give a table or graph of enzyme activity against pH or time. Use these steps.
+
+1. **Find the peak or the fastest result**. For a table of time taken, the *shortest* time is the fastest digestion. For a graph of rate, the highest point is the optimum.
+2. **Name the optimum pH** and link it to a region. An optimum near pH 2 matches pepsin in the stomach. An optimum near pH 8 matches trypsin in the duodenum.
+3. **Compare rates correctly**. If digestion took 6 minutes at one pH and 24 minutes at another, the first is 24 divided by 6 = 4 times faster. Rate is the inverse of time.
+4. **Explain the fall** on either side of the optimum. Away from the optimum pH, the shape of the enzyme (including its active site) changes, the substrate no longer fits, and the enzyme is denatured.
+
+For a rate measured as "amount digested per minute", use rate = amount divided by time. Always include the unit.
+
+## Why each region has its own enzymes
+
+Each enzyme is specific to one type of substrate because of the shape of its active site. That is why the gut needs several enzymes and why the food is digested in stages.
+
+| Stage | What is digested | Result |
+|---|---|---|
+| Mouth | Starch partly digested by salivary amylase | Some maltose |
+| Stomach | Protein partly digested by pepsin | Short chains of amino acids |
+| Duodenum and ileum | Starch, protein and fat completed by pancreatic and intestinal enzymes | Maltose, then glucose; amino acids; fatty acids and glycerol |
+
+The small intestine is where digestion is **completed**, because all three types of food molecule meet enzymes there. The products are then ready for absorption (subtopic 8.3).
+
 ## Common mistakes
 
 - Saying that bile digests fat. It emulsifies it; **lipase** digests it.

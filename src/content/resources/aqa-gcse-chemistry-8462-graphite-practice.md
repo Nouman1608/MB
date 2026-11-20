@@ -16,7 +16,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "bonding-structure-and-the-properties-of-matter-8462"
     subtopic: "graphite-8462"
-description: "Ten original AQA GCSE Chemistry 8462 questions on section 4.2.3.2: the layered structure of graphite, delocalised electrons, conduction and softness, with answers."
+description: "Eleven original AQA GCSE Chemistry 8462 questions on section 4.2.3.2: the layered structure of graphite, delocalised electrons, conduction and softness, with answers."
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-20
 featured: false
@@ -81,6 +81,12 @@ each hexagon has six carbon atoms at its corners. Calculate the number of carbon
 **10.** Describe the structure and bonding of graphite and explain how they give rise to its electrical
 conductivity, its softness and its high melting point. **[6]**
 
+**11.** Graphite powder is sometimes used to lubricate door locks.
+
+**(a)** Give **one** property of graphite that makes it suitable for this use and explain it. **[2]**
+**(b)** Suggest **one** disadvantage of using graphite in electrical equipment. **[1]**
+
+## Answers
 ## Answers
 
 **1. (a)** **Three** [1]
@@ -122,6 +128,10 @@ with no covalent bonds between them, so the layers can slide [1]. **[3]**
 - There are no covalent bonds between the layers, so they slide over each other [1] and graphite is soft [1].
 - The covalent bonds within the layers are strong and must be broken to melt it, so it has a high melting
   point [1]. **[6]**
+
+**11. (a)** The layers can **slide over each other** easily [1] because there are **no covalent bonds between the
+layers** [1]. **[2]**
+**(b)** It **conducts electricity**, so it could cause a short circuit [1]
 
 ## Where marks are usually lost
 

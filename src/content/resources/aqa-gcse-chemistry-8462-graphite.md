@@ -166,6 +166,28 @@ carbon atoms, one per atom, and move along the layers. In a metal the delocalise
 shells of the metal atoms and move through the whole structure. In graphite the structure is giant covalent, but
 in a metal it is positive ions in a sea of electrons.
 
+### Worked example 6: evaluating graphite as a lubricant
+
+*Graphite powder is used to lubricate the lock of a door. Give two properties of graphite that make it suitable
+and one reason why it might not be suitable in some situations.*
+
+```
+Suitable: its layers slide easily over one another (no covalent bonds between layers),
+          so it reduces friction; it has a very high melting point, so it does not melt in hot machinery.
+Possible problem: it conducts electricity, so it might cause a short circuit in electrical equipment;
+          it is a powder that can make a mess or get into other parts.
+```
+
+Evaluation questions give you information and ask you to weigh advantages and disadvantages. Use the structure of
+graphite to justify each point.
+
+## Representing graphite in two and three dimensions
+
+A 2D drawing of one layer shows hexagonal rings clearly, but it cannot show how the layers stack. A 3D model can
+show the layers, but not the forces between them. When you look at a diagram, check three things: each carbon
+atom inside a layer has three bonds; the rings are hexagons; and the layers are drawn separately with no bond
+lines joining one layer to the next.
+
 ## Common mistakes
 
 - Saying that graphite has "weak covalent bonds between layers". There are **no covalent bonds** between layers.

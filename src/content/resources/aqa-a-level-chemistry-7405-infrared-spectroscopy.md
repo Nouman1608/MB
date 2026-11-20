@@ -145,7 +145,7 @@ A compound has a molecular ion at m/z 74.0366 in the mass spectrum (formula C₃
 ## Common mistakes
 
 - Giving the wavenumber range from memory instead of from the table, with errors.
-- Calling an absorption a "peak" that points down and confusing it with a high value. Absorption is a trough in transmittance.
+- Reading the spectrum upside down. An absorption is a trough in percentage transmittance, so a deep trough means strong absorption.
 - Saying that the carboxylic acid O–H appears at the same place as an alcohol O–H.
 - Assuming a C=O absorption proves a ketone.
 - Using the C–H absorption to identify a group.

@@ -66,7 +66,7 @@ with the [graphene and fullerenes practice questions](/resources/aqa-gcse-chemis
 | Nanotubes | Strengthening materials | Very strong |
 | Nanotubes | Electronics | Can conduct electricity |
 | Fullerenes | Drug delivery | Hollow shape can hold other molecules |
-| Fullerenes | Catalysts and lubricants | Large surface area; spherical shape |
+| Fullerenes | Catalysts and lubricants | Examples sometimes given; the exam question supplies the detail |
 
 ## Key terms
 
@@ -87,7 +87,6 @@ with the [graphene and fullerenes practice questions](/resources/aqa-gcse-chemis
 | Mr of C₆₀ | 60 × 12 = 720 |
 | Bonds in C₆₀ (3 per atom, each shared) | 60 × 3 ÷ 2 = 90 |
 | Atoms per hexagon in graphene (each shared by 3) | 6 ÷ 3 = 2 |
-| Mass of 2 mol... | (not required for this subsection) |
 
 ## Telling the forms apart in a diagram
 
@@ -98,6 +97,27 @@ with the [graphene and fullerenes practice questions](/resources/aqa-gcse-chemis
 | Hollow ball with rings of five and six atoms | Fullerene (C₆₀) |
 | Long hollow cylinder | Carbon nanotube |
 | Atoms in a 3D network with four bonds each | Diamond |
+
+## Evaluating uses
+
+| Material | Advantage | Possible drawback |
+|---|---|---|
+| Nanotubes in sports equipment | Very strong, light | Costly to make |
+| Graphene in electronics | Conducts, very thin | Not easy to make in large pieces |
+| Fullerenes for drug delivery | Hollow shape can carry molecules | Possible risks to health not fully known |
+
+Link each advantage to structure and bonding. State that there are possible risks associated with using
+nanoparticles.
+
+## Representations
+
+| Representation | Limitation |
+|---|---|
+| 2D diagram of a sheet | Cannot show curving or stacking |
+| Ball and stick model of C₆₀ | Sticks are not real bonds; atoms not to scale |
+| Unrolled nanotube diagram | The real tube is curved |
+
+A ring of 5 or 7 carbon atoms means the diagram shows a fullerene.
 
 ## Exam traps
 

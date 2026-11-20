@@ -187,6 +187,32 @@ five and six carbon atoms that curve to form a hollow ball.*
 The first diagram is graphite (layered, hexagons only). The second is a fullerene, because it contains
 five-membered rings, which cause the structure to curve into a hollow shape.
 
+### Worked example 8: evaluating a use
+
+*A sports company adds carbon nanotubes to the frame of a bicycle. Give one advantage and one possible risk or
+disadvantage.*
+
+```
+Advantage: nanotubes are very strong (strong covalent bonds), so a small amount makes the frame stronger
+           without adding much mass.
+Risk / disadvantage: they are expensive to make; very small particles may be harmful if they get into the
+           body, so the long-term effects need to be studied.
+```
+
+Questions on uses give you data. Use the structure and bonding to explain the advantage, and mention a sensible
+disadvantage such as cost or possible risk.
+
+## Representing graphene and fullerenes
+
+| Representation | Shows | Limitation |
+|---|---|---|
+| 2D hexagon sheet | Graphene's rings and bonds | Cannot show that the sheet could curve or stack |
+| 3D ball and stick of C₆₀ | The hollow sphere and the bonds | Sticks are not real; atoms are not to scale |
+| Flat unrolled diagram of a nanotube | Rings joined into a cylinder | The real tube is curved |
+
+In a diagram, count the atoms around a ring. Six means a hexagon, which is the normal ring. A ring of five or
+seven carbon atoms is a sign that the structure is a fullerene, not graphene or graphite.
+
 ## Common mistakes
 
 - Saying that graphene is "many layers". Graphene is a single layer.

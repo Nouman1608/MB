@@ -167,6 +167,32 @@ Diamond, a giant covalent structure.
 Both are forms of carbon with giant covalent structures. Comparing them is common in exam questions, and it is
 explored further in the [graphite guide](/resources/aqa-gcse-chemistry-8462-graphite/).
 
+## Representing diamond in two dimensions
+
+The specification asks you to visualise and represent 3D forms, including two-dimensional representations of 3D
+objects. A page cannot show the true arrangement of diamond, so every diagram has limits.
+
+| Representation | Shows | Limitation |
+|---|---|---|
+| Ball and stick model | Each atom bonded to four others; the 3D shape | The sticks are not real rods, and the atoms are drawn smaller than they really are |
+| 2D bond diagram (lines between C symbols) | Which atoms are bonded to which | Cannot show the 3D arrangement properly; shows only part of the structure |
+| Space-filling model | The atoms packed together | The bonds are hidden |
+
+In any diagram of diamond, check that each carbon atom has **four** bond lines. If a drawing shows three bonds
+for a carbon atom inside the structure, it is showing graphite or graphene, not diamond. Atoms at the edge of a
+diagram will show fewer bonds because the diagram stops there, so look at atoms in the middle.
+
+### Worked example 6: diamond and silicon dioxide
+
+*Both diamond and silicon dioxide are giant covalent structures. State one similarity and one difference.*
+
+```
+Similarity: both have strong covalent bonds in all directions; both have very high melting points.
+Difference: diamond contains one element (carbon), with four C-C bonds per atom;
+            silicon dioxide contains two elements, with each Si bonded to four O atoms
+            and each O bonded to two Si atoms (ratio 1 : 2).
+```
+
 ## Common mistakes
 
 - Writing "diamond has strong intermolecular forces". It has no molecules.

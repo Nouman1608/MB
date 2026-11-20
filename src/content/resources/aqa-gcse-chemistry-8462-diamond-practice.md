@@ -16,7 +16,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "bonding-structure-and-the-properties-of-matter-8462"
     subtopic: "diamond-8462"
-description: "Ten original AQA GCSE Chemistry 8462 questions on section 4.2.3.1: bonding in diamond, hardness, melting point and conductivity, with answers."
+description: "Eleven original AQA GCSE Chemistry 8462 questions on section 4.2.3.1: bonding in diamond, hardness, melting point and conductivity, with answers."
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-20
 featured: false
@@ -83,6 +83,12 @@ molecules."
 **10.** Explain, in terms of structure and bonding, why diamond is very hard, has a very high melting point and
 does not conduct electricity. **[6]**
 
+**11.** A student builds a model of diamond using balls for atoms and sticks for bonds.
+
+**(a)** State how many sticks should be attached to each ball inside the model. **[1]**
+**(b)** Give **one** limitation of a ball and stick model of diamond. **[1]**
+
+## Answers
 ## Answers
 
 **1. (a)** **Four** [1]
@@ -125,6 +131,10 @@ conduct**. **[2]**
   energy and has a very high melting point [1].
 - All four outer electrons are used in bonding, so there are no delocalised electrons or ions and it does not
   conduct [1]. **[6]**
+
+**11. (a)** **Four** [1]
+**(b)** Any one: the **sticks are not real bonds** (bonds are shared pairs of electrons); the **atoms are not to
+scale**; it shows only a small part of the structure [1]
 
 ## Where marks are usually lost
 

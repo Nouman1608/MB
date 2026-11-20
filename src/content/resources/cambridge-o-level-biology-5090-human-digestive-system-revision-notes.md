@@ -91,6 +91,21 @@ Structure: **enamel** (hardest, outer), **dentine** (under enamel), **pulp** (ce
 
 Waves of contraction of the circular and longitudinal muscles squeeze food along the gut. It happens in the oesophagus, stomach, small intestine and large intestine.
 
+## Digestion at a glance
+
+| Food type | Mouth | Stomach | Small intestine | Final products |
+|---|---|---|---|---|
+| Starch | Amylase to maltose | None | Amylase to maltose; maltase to glucose | Glucose |
+| Protein | None | Pepsin begins digestion | Trypsin completes digestion | Amino acids |
+| Lipid | None | None | Bile emulsifies; lipase digests | Fatty acids and glycerol |
+
+## Reading enzyme data
+
+1. Fastest digestion means the **shortest time** (or the highest rate).
+2. Link the best pH to the region: about pH 2 is the stomach, about pH 8 is the duodenum.
+3. Rate is the inverse of time: 6 minutes against 24 minutes is 4 times faster.
+4. Away from the optimum pH, the enzyme shape changes and it is denatured.
+
 ## Short model answers
 
 **Explain why chewing helps digestion.** Chewing breaks food into smaller pieces, which increases the surface area, so enzymes can act on it faster.

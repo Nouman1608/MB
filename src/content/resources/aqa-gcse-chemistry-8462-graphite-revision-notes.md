@@ -101,6 +101,34 @@ are very many of them.
 Each hexagon has six corner atoms, and each atom is shared between three hexagons. So each hexagon contains
 6 ÷ 3 = 2 carbon atoms. In 50 hexagons there are 100 carbon atoms.
 
+## Representing graphite
+
+| Check in a diagram | Expected |
+|---|---|
+| Bonds on each carbon atom inside a layer | 3 |
+| Shape of rings | Hexagons |
+| Lines between layers | None, because there are no covalent bonds between layers |
+
+A 2D diagram shows a layer clearly but not how the layers stack.
+
+## Six-mark answer plan
+
+1. Each carbon bonded to three others.
+2. Layers of hexagonal rings.
+3. No covalent bonds between layers, so layers slide: soft.
+4. One delocalised electron per atom, so it conducts.
+5. Strong covalent bonds within layers, so a high melting point.
+6. Compare with diamond (four bonds, no free electrons).
+
+## Graphite and metals
+
+| | Graphite | Metal |
+|---|---|---|
+| Delocalised electrons | One per carbon atom | From outer shells of the atoms |
+| Structure | Giant covalent layers | Positive ions in a sea of electrons |
+| Conducts | Yes | Yes |
+| Can be bent and shaped | No, but layers slide | Yes, layers of ions slide |
+
 ## Exam traps
 
 - **"Weak covalent bonds between layers."** There are no covalent bonds between layers.

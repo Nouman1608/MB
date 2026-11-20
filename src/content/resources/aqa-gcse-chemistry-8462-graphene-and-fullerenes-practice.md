@@ -16,7 +16,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "bonding-structure-and-the-properties-of-matter-8462"
     subtopic: "graphene-and-fullerenes-8462"
-description: "Ten original AQA GCSE Chemistry 8462 questions on section 4.2.3.3: graphene, fullerenes, C60 and carbon nanotubes, their structure, properties and uses, with answers."
+description: "Eleven original AQA GCSE Chemistry 8462 questions on section 4.2.3.3: graphene, fullerenes, C60 and carbon nanotubes, their structure, properties and uses, with answers."
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-20
 featured: false
@@ -87,13 +87,19 @@ bonded to three others.
 | Diamond | 4 | Giant covalent | No |
 | Graphite | 3 | Giant covalent | Yes |
 | Graphene | 3 | Giant covalent (one layer) | Yes |
-| C₆₀ | 3 | Molecules | Not tested |
+| C₆₀ | 3 | Molecules | Not covered here |
 
 **(a)** Explain why diamond does not conduct but graphene does. **[3]**
 **(b)** Describe **two** ways in which C₆₀ differs in structure from graphene. **[2]**
 
 **10.** Compare the structure and bonding of graphite, graphene and a carbon nanotube. **[5]**
 
+**11.** A company adds carbon nanotubes to a bicycle frame to make it stronger.
+
+**(a)** Explain why carbon nanotubes make the frame stronger. **[2]**
+**(b)** Suggest **one** reason why some people are concerned about the use of nanotubes. **[1]**
+
+## Answers
 ## Answers
 
 **1. (a)** A **single layer of graphite** [1]
@@ -134,6 +140,11 @@ whereas graphene is a **flat sheet**; C₆₀ has rings of **five** carbon atoms
 - Graphene is a single layer of graphite [1].
 - A carbon nanotube is a cylindrical fullerene, a hollow tube with a very high length to diameter ratio [1].
 - Each has one delocalised electron per carbon atom [1]. **[5]**
+
+**11. (a)** Carbon nanotubes contain **strong covalent bonds** throughout the structure [1]; a very large force is
+needed to break them, and only a small mass is needed, so the frame is strong but light [1]. **[2]**
+**(b)** Any one: very small particles may be **harmful to health** if they get into the body; the **long-term
+effects** are not fully known [1]
 
 ## Where marks are usually lost
 

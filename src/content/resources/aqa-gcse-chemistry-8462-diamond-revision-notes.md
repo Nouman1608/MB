@@ -102,6 +102,33 @@ If each atom has four bonds and each bond joins two atoms, the number of bonds i
 | 500 | 1000 |
 | 2000 | 4000 |
 
+## Representing diamond
+
+| Representation | Good for | Limitation |
+|---|---|---|
+| Ball and stick | Showing the 3D bonding | Sticks are not real; atoms are not to scale |
+| 2D bond diagram | Showing which atoms are bonded | Cannot show the 3D structure; shows only part |
+| Space-filling | Showing packing | Hides the bonds |
+
+Check: every carbon atom inside a diamond diagram should have four bonds.
+
+## Six-mark answer plan
+
+1. Giant covalent structure.
+2. Each carbon atom forms four covalent bonds.
+3. Rigid 3D network, so very hard.
+4. Covalent bonds must be broken to melt it.
+5. Many strong bonds, so a very large amount of energy.
+6. All outer electrons in bonds, so no conduction.
+
+## Diamond and silicon dioxide
+
+| | Diamond | Silicon dioxide |
+|---|---|---|
+| Elements | Carbon only | Silicon and oxygen |
+| Bonding | 4 C–C bonds per atom | Each Si bonded to 4 O; each O to 2 Si |
+| Both | Giant covalent, very high melting point, strong covalent bonds to break | Same |
+
 ## Exam traps
 
 - **"Intermolecular forces in diamond."** There are no separate molecules.

@@ -127,6 +127,14 @@ Using the rules `<number> ::= <digit> | <digit><number>` and `<digit> ::= 0 | 1 
 4 0 7
 ```
 
+## Where syntax rules are used
+
+- **Compilers and interpreters** check that source code follows the rules of the language before translating it. A statement that cannot be derived from the rules causes a syntax error.
+- **Language designers** use BNF to publish an unambiguous definition of a language.
+- **Data formats and commands** can also be defined this way, for example the allowed form of a date or an input line.
+
+A string that follows the rules is **syntactically valid**. This is not the same as being meaningful or correct: `2 * (3 + 4)` is valid syntax whatever the numbers mean in a program.
+
 ## Exam traps
 
 - **No base case** in a recursive rule.
