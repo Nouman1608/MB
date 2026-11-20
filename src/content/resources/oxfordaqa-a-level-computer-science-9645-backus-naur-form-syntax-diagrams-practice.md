@@ -52,7 +52,7 @@ Related pages: [BNF study guide](/resources/oxfordaqa-a-level-computer-science-9
 <d>     ::= 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9
 ```
 
-**(a)** State whether each string is valid: `B7`, `CD12`, `ABC1`, `D123`, `E1`. **[3]**
+**(a)** State whether each string is valid: `B7`, `CD12`, `ABC1`, `D123`, `Z1`. **[3]**
 **(b)** Calculate the number of different valid codes. **[3]**
 
 **4.** A list of digits is defined by
@@ -102,7 +102,7 @@ where `<d>` is any single digit.
 
 **2.** BNF defines only the **syntax** (whether a string is correctly formed), not its meaning or behaviour **[1]**.
 
-**3. (a)** `B7` valid; `CD12` valid **[1]** (both). `ABC1` invalid: the area has at most two letters **[1]**. `D123` invalid: the number has at most two digits **[1]** (`E1` is also invalid because E is not an allowed letter). **[3]**
+**3. (a)** `B7` valid; `CD12` valid **[1]** (both). `ABC1` invalid: the area has at most two letters **[1]**. `D123` invalid: the number has at most two digits **[1]** (`Z1` is also invalid because Z is not an allowed letter). **[3]**
 **(b)** Areas: 4 + 4 × 4 = 20 **[1]**. Numbers: 10 + 10 × 10 = 110 **[1]**. Codes: 20 × 110 = **2200** **[1]**. **[3]**
 
 **4. (a)** `[3]` valid; `[1,2,3]` valid **[1]**. `[]` invalid because `<items>` needs at least one digit; `[1,]` invalid because a comma must be followed by more items **[1]**. **[2]**
