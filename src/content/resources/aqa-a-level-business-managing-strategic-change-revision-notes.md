@@ -13,6 +13,9 @@ order: 813
 syllabusTopics:
   - qualification: "a-level"
     topic: "managing-strategic-change-aqa-alevel-business"
+  - qualification: "a-level"
+    topic: "managing-strategic-change-aqa-alevel-business"
+    subtopic: "problems-with-strategy-and-why-strategies-fail-aqa-alevel-business"
 description: "Condensed AQA A-Level Business (7132) revision notes on managing strategic change: models, tables, network analysis steps, self-test and common slips."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
