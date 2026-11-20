@@ -89,6 +89,15 @@ Safety: ethanol is flammable, so use a water bath and no naked flame.
 
 Distance of lamp 10 cm: 52 bubbles per minute; 20 cm: 31 bubbles per minute. Percentage fall from 10 to 20 cm = (52 - 31) divided by 52 x 100 = 40.4 per cent. Explanation: less light, so less energy for photosynthesis.
 
+## Graph shapes to recognise
+
+| Graph | Shape | Meaning |
+|---|---|---|
+| Rate against light intensity | Rises, then flat | Light limiting on the rise; another factor limiting on the flat part |
+| Rate against carbon dioxide | Rises, then flat | Same reasoning |
+| Rate against temperature | Rises to a peak, then falls steeply | Enzymes work faster, then are denatured |
+| Two curves on one graph | Upper curve has a higher plateau | The factor changed between them is limiting on the lower plateau |
+
 ## Short model answers
 
 **State the word equation.** Carbon dioxide + water gives glucose + oxygen, in the presence of light and chlorophyll.

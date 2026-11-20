@@ -170,6 +170,23 @@ directions, (C) very large molecules with strong covalent bonds along the chains
 
 The answer is **C**. Option A is an ionic compound and option B is a giant covalent structure.
 
+### Worked example 5: finding a repeat unit formula
+
+*A repeat unit in poly(chloroethene) has two carbon atoms. One carbon has two hydrogen atoms. The other has one
+hydrogen atom and one chlorine atom. Give the formula of the repeat unit and the number of each atom in 120
+units.*
+
+```
+Carbon:   2
+Hydrogen: 2 + 1 = 3
+Chlorine: 1
+Formula of repeat unit: C2H3Cl
+
+In 120 units:  C = 120 x 2 = 240
+               H = 120 x 3 = 360
+               Cl = 120 x 1 = 120
+```
+
 ## Common mistakes
 
 - Calling a polymer a giant covalent structure. A polymer is made of separate very large molecules.

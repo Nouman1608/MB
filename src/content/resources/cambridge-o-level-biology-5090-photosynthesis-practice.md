@@ -109,6 +109,8 @@ D: sucrose
 
 **10.** Balance the equation: CO2 + H2O → C6H12O6 + O2. **[2]**
 
+**11.** Suggest why growers who raise tomatoes in a greenhouse may burn fuel to release extra carbon dioxide inside it. **[2]**
+
 ---
 
 ## Answers
@@ -158,6 +160,8 @@ D: sucrose
 **(b)** Yellow [1]. In the dark there is no photosynthesis [1], and respiration releases carbon dioxide, so the level rises [1]. **[6]**
 
 **10.** 6CO2 + 6H2O → C6H12O6 + 6O2. One mark for 6CO2 and 6H2O [1], one mark for 6O2 [1]. **[2]**
+
+**11.** Carbon dioxide can be the limiting factor for photosynthesis [1], so increasing its concentration raises the rate, giving more glucose for growth and a higher crop yield [1]. **[2]**
 
 ---
 

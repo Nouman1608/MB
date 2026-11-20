@@ -116,6 +116,17 @@ Example: 0.200 mol of 2-bromopropane, of which 70 % eliminates, gives 0.140 mol 
 3. Is a lone pair attacking carbon? Substitution.
 4. Is a lone pair attacking hydrogen? Elimination.
 
+## Worked example to copy
+
+**Question.** 2-bromobutane is heated with ethanolic potassium hydroxide. Give the products of elimination.
+
+1. The carbon bonded to Br is C2. Its neighbours are C1 (CH₃) and C3 (CH₂). Both have hydrogens.
+2. Removing H from C1 gives CH₂=CH–CH₂CH₃, which is but-1-ene.
+3. Removing H from C3 gives CH₃CH=CHCH₃, which is but-2-ene, with E and Z forms.
+4. Each time, the other products are H₂O and Br⁻.
+
+Answer in the exam as three alkenes plus a statement that hydroxide acts as a base.
+
 ## Exam traps
 
 - Taking the hydrogen from the carbon that holds the halogen. It must come from an **adjacent** carbon.

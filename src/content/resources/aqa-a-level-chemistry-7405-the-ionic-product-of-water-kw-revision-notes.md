@@ -96,6 +96,23 @@ A strong base: use the Kw for the right temperature. 0.100 mol dm⁻³ NaOH is p
 3. Divide by the **total volume**.
 4. If H⁺ is in excess, pH = –log[H⁺]. If OH⁻ is in excess, use Kw to find [H⁺].
 
+## Worked examples to practise
+
+**Concentration of OH⁻ in an acid.** For 0.0100 mol dm⁻³ HCl at 298 K, [H⁺] = 0.0100, so [OH⁻] = 1.00 × 10⁻¹⁴ ÷ 0.0100 = 1.00 × 10⁻¹² mol dm⁻³. Even acid solutions contain OH⁻ ions.
+
+**Dilution of a base.** 10.0 cm³ of 0.100 mol dm⁻³ NaOH is made up to 1000 cm³. [OH⁻] = 1.00 × 10⁻³, [H⁺] = 1.00 × 10⁻¹¹, pH = 11.00.
+
+**Excess alkali.** 25.0 cm³ of 0.150 mol dm⁻³ NaOH mixed with 10.0 cm³ of 0.100 mol dm⁻³ HCl: n(OH⁻) = 3.75 × 10⁻³ mol, n(H⁺) = 1.00 × 10⁻³ mol, excess = 2.75 × 10⁻³ mol in 0.0350 dm³, [OH⁻] = 0.0786, [H⁺] = 1.27 × 10⁻¹³, pH = 12.90.
+
+**Different temperature.** 0.100 mol dm⁻³ NaOH at 40 °C (Kw = 2.92 × 10⁻¹⁴): [H⁺] = 2.92 × 10⁻¹³, pH = 12.53, not 13.00.
+
+## Checking an answer is sensible
+
+- A strong base at 0.01 to 1 mol dm⁻³ should give a pH of about 12 to 14 at 298 K.
+- A tenfold dilution of a strong base lowers the pH by 1.
+- Doubling [OH⁻] raises the pH by about 0.30.
+- If your pH for a base is below 7 at 298 K, you have probably used [OH⁻] in the pH formula.
+
 ## Exam traps
 
 - Using [OH⁻] in the pH formula directly.

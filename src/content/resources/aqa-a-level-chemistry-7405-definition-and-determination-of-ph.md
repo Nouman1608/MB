@@ -181,6 +181,17 @@ mass = 9.95 × 10⁻³ × 36.5 = 0.363 g
 
 A pH meter with a glass electrode measures pH directly. Calibrate it with buffer solutions of known pH (often pH 4, 7 and 10) before use, rinse the electrode between solutions, and read the value when it is steady. Universal indicator gives a rough value only, since it is judged by eye.
 
+## Decimal places and sense checks
+
+pH is a logarithm, so the digits after the decimal point carry the information about the concentration. Write pH to two decimal places in calculations, and keep at least three significant figures in intermediate working so that rounding does not move the second decimal place.
+
+Use these checks before you move on.
+
+- A strong acid of concentration 0.01 to 1 mol dm⁻³ should have a pH between 0 and 2.
+- If your pH is negative for a dilute acid, you have probably dropped a minus sign or entered the exponent wrongly.
+- Doubling [H⁺] lowers the pH by about 0.30, because log₁₀2 = 0.30.
+- Halving [H⁺] raises the pH by about 0.30.
+
 ## Common mistakes
 
 - Forgetting the minus sign: pH = –log[H⁺], not log[H⁺].

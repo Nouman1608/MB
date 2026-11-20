@@ -23,7 +23,7 @@ featured: false
 ---
 
 These notes condense **4.6.1 Rate of reaction** of the AQA GCSE Chemistry (8462) specification (for teaching
-from September 2016). Paper 1 content. Higher tier only: rates in mol/s and the gradient of a tangent. For
+from September 2016). Paper 2 content. Higher tier only: rates in mol/s and the gradient of a tangent. For
 explanations use the [rate of reaction study guide](/resources/aqa-gcse-chemistry-8462-rate-of-reaction/); to
 test yourself use the [rate of reaction practice questions](/resources/aqa-gcse-chemistry-8462-rate-of-reaction-practice/).
 

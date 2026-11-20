@@ -116,6 +116,20 @@ Larkin Care Ltd runs residential care homes. Its minimum hourly wage rises from 
 
 **Judgement.** A small percentage rise in wages had a large effect on profit because wages are such a high proportion of costs and margins are thin. The best response depends on how price-sensitive customers are, how far competitors face the same law (which would make price rises easier), and whether quality can be maintained with fewer staff. Because the rise affects every rival, it is mainly a threat to profit rather than to competitiveness.
 
+## Political risk and planning
+
+Political change is hard to forecast. Elections can reverse policy, laws may be passed with little notice, and trade relations can shift quickly. This is called **political risk**. It is greatest for businesses that invest heavily in fixed assets, such as factories, because they cannot easily move if the rules change, and for businesses that depend on one government decision, such as a licence, a subsidy or a contract.
+
+Businesses respond by:
+
+- **scenario planning**, asking what happens to costs and revenues under different policies
+- **spreading risk**, for example by selling in several countries or using several suppliers
+- **building flexibility**, such as shorter contracts or leased premises
+- **engaging with government**, through trade associations or consultations, to influence rules before they are set
+- **monitoring** proposals early, so there is time to adapt before a law takes effect.
+
+The strategic point is that a decision which looks sound under today's rules may become costly under tomorrow's. The longer the payback period of an investment, the more political change matters.
+
 ## Assessing the impact of change
 
 When asked how serious a change is, use these questions:

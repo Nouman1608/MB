@@ -158,6 +158,20 @@ Bromine adds in a 1 : 1 ratio, so the moles of product equal the moles of alkene
 
 Alkene Y reacts with HBr to give a single product, 2-bromobutane. Y is symmetrical, so it must be but-2-ene (either isomer), because but-1-ene would give a major and a minor product, and the minor product would be 1-bromobutane. A mixture is the expected outcome for an unsymmetrical alkene.
 
+## A quick rule for spotting unsymmetrical alkenes
+
+Look at the two carbons of the C=C bond. Ask whether the set of groups on one carbon matches the set on the other.
+
+| Alkene | Groups on each carbon | Symmetrical? | Number of products with HBr |
+|---|---|---|---|
+| Ethene | H, H and H, H | Yes | One |
+| But-2-ene | H, CH₃ and H, CH₃ | Yes | One |
+| Propene | H, CH₃ and H, H | No | Two (one major) |
+| But-1-ene | H, C₂H₅ and H, H | No | Two (one major) |
+| 2-methylpropene | CH₃, CH₃ and H, H | No | Two (one major) |
+
+For 2-methylpropene the major product is 2-bromo-2-methylpropane, through a tertiary carbocation, and the minor product is 1-bromo-2-methylpropane, through a primary one. The difference in stability between tertiary and primary is large, so the minor product forms in very small amounts.
+
 ## Choosing the right mechanism language
 
 | Reagent | Electrophile atom | Intermediate | Product |

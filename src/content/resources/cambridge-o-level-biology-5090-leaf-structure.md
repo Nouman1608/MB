@@ -96,7 +96,7 @@ Chloroplasts contain chlorophyll, which absorbs light for photosynthesis. They a
 |---|---|---|
 | Palisade mesophyll | Many, mostly | Main site of photosynthesis, close to the light |
 | Spongy mesophyll | Fewer | Receives less light |
-| Guard cells | Some | Make sugars that help control opening |
+| Guard cells | Some | The only epidermal cells that contain them |
 | Upper and lower epidermis (other cells) | None | Transparent, to let light through |
 
 ## Worked example: explaining a structure
@@ -130,6 +130,34 @@ Always show the formula, then the substitution, then the unit.
 - Light passes through the **cuticle** and **epidermis** to the **chloroplasts**.
 - Glucose is made, then turned into sucrose, which leaves by the **phloem**.
 - Oxygen diffuses out through the air spaces and stomata.
+
+## Reading diagrams and photomicrographs
+
+Questions usually give a labelled diagram or a photomicrograph of a transverse section (a slice cut across the leaf). Use these clues to name the layers.
+
+- **Order from the top**: if you know which surface is the top, the layers follow the sequence cuticle, upper epidermis, palisade, spongy, lower epidermis.
+- **Palisade**: look for the layer of tall, neat, column-like cells. They are the most densely packed and usually contain the most dots or green discs, which are chloroplasts.
+- **Spongy mesophyll**: look for rounded cells with obvious white gaps between them. The gaps are the air spaces.
+- **Stomata**: gaps in the lower epidermis flanked by two bean-shaped cells that are darker because they contain chloroplasts.
+- **Vascular bundle**: a rounded group of cells in the middle of the leaf. The xylem is on the upper side of the bundle and the phloem is below it, towards the lower surface.
+- **Cuticle**: a thin waxy line on the outer surface of the epidermis, which may not be visible on a low-power photomicrograph.
+
+A common trap is the epidermis, which can look like a single line of cells with no content. The cells are transparent and have a large vacuole, so they look empty compared with the mesophyll. This is exactly the adaptation that lets light through.
+
+## Feature and function pairs to learn
+
+| Feature | Function in photosynthesis or gas exchange |
+|---|---|
+| Large surface area | Absorbs more light; more stomata for carbon dioxide |
+| Thin blade | Short diffusion distance; light reaches all cells |
+| Waxy cuticle | Reduces water loss |
+| Transparent epidermis | Lets light through to the mesophyll |
+| Many chloroplasts in palisade cells | Absorb much light energy |
+| Air spaces in spongy mesophyll | Let gases diffuse quickly to and from cells |
+| Stomata | Let carbon dioxide in and oxygen out |
+| Guard cells | Open and close the stoma to control gas exchange and water loss |
+| Xylem | Brings water to the cells; supports the leaf |
+| Phloem | Takes away sucrose |
 
 ## Common mistakes
 

@@ -23,7 +23,7 @@ featured: false
 ---
 
 This guide covers **4.6.1 Rate of reaction** of the AQA GCSE Chemistry (8462) specification, for teaching from
-September 2016. It sits in topic 4.6, The rate and extent of chemical change, and is assessed on Paper 1.
+September 2016. It sits in topic 4.6, The rate and extent of chemical change, and is assessed on Paper 2.
 Almost all of it is for both tiers. Two parts are **Higher tier only**: using moles and mol/s for the rate,
 and calculating the gradient of a tangent to find the rate at a specific time. Required practical 5 (effect
 of concentration on rate) belongs here.

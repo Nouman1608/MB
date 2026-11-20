@@ -29,7 +29,7 @@ featured: false
 > these alongside the official past papers from your board or school.
 
 These questions cover section **4.6.1 Rate of reaction** of the AQA GCSE Chemistry (8462) specification, for
-teaching from September 2016. The content is assessed on Paper 1. Questions 8 and 9 test rates in mol/s and the
+teaching from September 2016. The content is assessed on Paper 2. Questions 8 and 9 test rates in mol/s and the
 gradient of a tangent, which the specification marks (HT only), and are labelled **Higher tier only**.
 Question 7 is based on required practical 5.
 

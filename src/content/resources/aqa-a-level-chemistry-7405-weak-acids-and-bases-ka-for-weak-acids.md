@@ -155,6 +155,18 @@ Percentage dissociation = [H⁺] ÷ initial concentration × 100. For worked exa
 
 When a weak acid is exactly half neutralised by a strong base, [HA] = [A⁻]. Ka = [H⁺][A⁻] / [HA] then simplifies to Ka = [H⁺], so pH = pKa. If the pH at half-neutralisation is 4.19, then Ka = 10^(–4.19) = 6.46 × 10⁻⁵ mol dm⁻³. This is the method used in the practical, and it links to pH curves on a later page.
 
+## Weak bases and comparing strengths
+
+A weak base is only partly protonated by water. Ammonia is the standard example:
+
+```
+NH₃(aq) + H₂O(l) ⇌ NH₄⁺(aq) + OH⁻(aq)
+```
+
+Most of the ammonia stays as NH₃ molecules, so the solution has a lower [OH⁻], and a lower pH, than a strong base of the same concentration. The specification does not ask for calculations with weak bases, but you should be able to describe them in these terms.
+
+To compare weak acids, compare Ka or pKa, not the pH of solutions of different concentrations. A larger Ka, or a smaller pKa, means a stronger weak acid. Methanoic acid (pKa 3.75) is a stronger acid than ethanoic acid (pKa 4.76), because its equilibrium lies further to the right.
+
 ## Common mistakes
 
 - Forgetting to square [H⁺], or taking the square root at the wrong stage.

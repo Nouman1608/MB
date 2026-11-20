@@ -165,6 +165,17 @@ pH = 12.53
 
 At 298 K, the same solution has pH 13.00. The pH of a strong base falls as temperature rises, because Kw rises. The pH + pOH = 14 shortcut would give a wrong answer here.
 
+## Finding [OH⁻] in an acidic solution
+
+Kw works in both directions. In an acid, [H⁺] is known and [OH⁻] = Kw ÷ [H⁺].
+
+```
+0.0100 mol dm⁻³ HCl at 298 K:
+[OH⁻] = 1.00 × 10⁻¹⁴ ÷ 0.0100 = 1.00 × 10⁻¹² mol dm⁻³
+```
+
+So even a strong acid contains a very small concentration of OH⁻ ions. In a neutral solution the two concentrations are equal. In an acidic solution [H⁺] is greater than [OH⁻], and in an alkaline solution [OH⁻] is greater than [H⁺]. These comparisons hold at every temperature, because they refer to the two concentrations and not to the number 7.
+
 ## Common mistakes
 
 - Using pH = –log[OH⁻] instead of –log[H⁺].
