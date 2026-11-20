@@ -4407,23 +4407,27 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     syllabusCode: '9670', syllabusSeries: 'Version 5.2, for International AS exams from May/June 2018, A-level from May/June 2019',
     effectiveFrom: '2018', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
-    source: 'OxfordAQA — official International AS and A-level English Language (9670) specification PDF',
-    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2023/10/oxfordaqa-a-level-english-language-specification.pdf', verifiedDate: '2026-08-19',
-    notes: 'Modular. International AS = Units 1-2; the full International A-level adds Unit 3 and Unit 4 (written) or Unit 4b (non-exam-assessed language investigation, the alternative to written Unit 4a). Subtopic numbers follow the specification\'s own subject-content numbering (Version 5.2): Unit 1 3.1.1-3.1.2, Unit 2 3.2.1-3.2.2, Unit 3 3.3.1-3.3.2 (renumbered D-255, E935; previously 1.1-1.2 and 3.1-3.2).',
+    source: 'OxfordAQA — official International AS and A-level English Language (9670) specification PDF, Version 5.2 (all four units and their sub-topics checked against it, 2026-11-20)',
+    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2023/10/oxfordaqa-a-level-english-language-specification.pdf', verifiedDate: '2026-11-20',
+    notes: 'Modular. International AS = Units 1-2; the full International A-level adds Unit 3 and Unit 4 (written) or Unit 4b (non-exam-assessed language investigation, the alternative to written Unit 4a). Subtopic numbers follow the specification\'s own subject-content numbering (Version 5.2): Unit 1 3.1.1-3.1.2, Unit 2 3.2.1-3.2.2, Unit 3 3.3.1-3.3.2 (renumbered D-255, E935; previously 1.1-1.2 and 3.1-3.2). Re-checked on 2026-11-20 against the same PDF: unit and sub-topic names now follow the capitalisation and punctuation the specification prints, and Unit 4 has its two sections, 3.4.1 Written unit and 3.4.2 Non-exam assessment (NEA).',
+    subtopicsComplete: true,
     topics: [
-      { number: 1, name: 'Unit 1 – Language and Context', slug: 'unit-1-language-and-context-9670', stage: 'AS', subtopics: [
-        { number: '3.1.1', name: 'Section A: Understanding Texts', slug: 'section-a-understanding-texts-9670' },
-        { number: '3.1.2', name: 'Section B: Directed Writing', slug: 'section-b-directed-writing-9670' },
+      { number: 1, name: 'Unit 1: Language and context', slug: 'unit-1-language-and-context-9670', stage: 'AS', subtopics: [
+        { number: '3.1.1', name: 'Section A: Understanding texts', slug: 'section-a-understanding-texts-9670' },
+        { number: '3.1.2', name: 'Section B: Directed writing', slug: 'section-b-directed-writing-9670' },
       ] },
-      { number: 2, name: 'Unit 2 – Language and Society', slug: 'unit-2-language-and-society-9670', stage: 'AS', subtopics: [
-        { number: '3.2.1', name: 'Section A: Language and Social Groups – Texts', slug: 'section-a-language-and-social-groups-texts-9670' },
-        { number: '3.2.2', name: 'Section B: Language and Social Groups – Writing', slug: 'section-b-language-and-social-groups-writing-9670' },
+      { number: 2, name: 'Unit 2: Language and society', slug: 'unit-2-language-and-society-9670', stage: 'AS', subtopics: [
+        { number: '3.2.1', name: 'Section A: Language and social groups: texts', slug: 'section-a-language-and-social-groups-texts-9670' },
+        { number: '3.2.2', name: 'Section B: Language and social groups: writing', slug: 'section-b-language-and-social-groups-writing-9670' },
       ] },
-      { number: 3, name: 'Unit 3 – Language Variation', slug: 'unit-3-language-variation-9670', stage: 'A', subtopics: [
-        { number: '3.3.1', name: 'Section A: Learning Language', slug: 'section-a-learning-language-9670' },
+      { number: 3, name: 'Unit 3: Language variation', slug: 'unit-3-language-variation-9670', stage: 'A', subtopics: [
+        { number: '3.3.1', name: 'Section A: Learning language', slug: 'section-a-learning-language-9670' },
         { number: '3.3.2', name: 'Section B: International English', slug: 'section-b-international-english-9670' },
       ] },
-      { number: 4, name: 'Unit 4 – Language Exploration', slug: 'unit-4-language-exploration-9670', stage: 'A', subtopics: [] },
+      { number: 4, name: 'Unit 4: Language exploration', slug: 'unit-4-language-exploration-9670', stage: 'A', subtopics: [
+        { number: '3.4.1', name: 'Written unit', slug: 'written-unit-9670' },
+        { number: '3.4.2', name: 'Non-exam assessment (NEA)', slug: 'non-exam-assessment-nea-9670' },
+      ] },
     ],
   },
   {
