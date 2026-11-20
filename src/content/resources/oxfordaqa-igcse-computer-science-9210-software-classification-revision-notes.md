@@ -98,6 +98,27 @@ decide who may read or change each file.
 **Explain the need for an OS.** Without an OS each application would have to control the hardware itself, and the
 processor and memory could not be shared between programs.
 
+## Model answers
+
+**Describe two functions of an operating system. [4 marks]** Memory management: the OS allocates RAM to a program when
+it starts, keeps its memory separate from other programs and frees it when the program closes. Security: the OS uses
+user accounts and passwords and sets access rights so that only authorised users can open or change files.
+
+**Explain why a spreadsheet is application software. [2 marks]** It performs a task that the end user wants to do, such
+as calculating a budget. It does not manage the computer's resources.
+
+**Explain the purpose of a backup utility. [2 marks]** It copies files to another location. The copies can be restored
+if the original files are lost, damaged or deleted.
+
+## Sorting software quickly
+
+| Ask | If yes |
+|---|---|
+| Does it manage or protect the computer itself? | System software |
+| Does the user run it to do their own task? | Application software |
+| Is it a maintenance tool (clean-up, backup, scan)? | Utility, so system software |
+| Does it let the OS talk to a device? | Device driver, so system software |
+
 ## Exam traps
 
 - **OS described as hardware.** It is software.

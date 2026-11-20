@@ -78,8 +78,8 @@ The range uses only the highest and lowest values, so one outlier distorts it. Q
 
 To find quartiles for an even number of values, split the ordered data into a lower half and an upper half.
 
-- Lower half: 12, 15, 15, 18, 20, 22. The median of this half is (15 + 18) ÷ 2 = **16.5**, the **lower quartile (Q1)**.
-- Upper half: 25, 25, 25, 31, 34, 45. The median is (25 + 31) ÷ 2 = **28**, the **upper quartile (Q3)**.
+- Lower half: 12, 15, 15, 18, 20, 22. The median of this half is (15 + 18) ÷ 2 = **16.5**, the **lower quartile (LQ)**.
+- Upper half: 25, 25, 25, 31, 34, 45. The median is (25 + 31) ÷ 2 = **28**, the **upper quartile (UQ)**.
 - **IQR** = 28 - 16.5 = **11.5 mm**.
 
 The IQR shows the spread of the middle half of the pebbles. A smaller IQR means more consistent sizes. If a second beach had an IQR of 25 mm, its pebbles would be much more variable.
@@ -161,6 +161,10 @@ When you evaluate a source, say what is shown, what is missing, and how it might
 **Question:** A student says, "The mean pebble size is 23.9 mm, so the beach has small pebbles." Suggest **two** reasons why this statement may not be reliable. [4 marks]
 
 **Model answer:** "The mean is affected by extreme values, such as the 45 mm pebble, and it does not show the spread. The median was 23.5 mm and the IQR was 11.5 mm, which shows quite a lot of variation. Also, only 12 pebbles were measured, which is a small sample, so it may not represent the whole beach. A larger random sample would be more reliable."
+
+## Skewed data and the choice of average
+
+A histogram or cumulative frequency curve that rises steeply and then flattens suggests many small values and a few large ones: the data are positively skewed. River pebble size, city size and household income are often skewed in this way. For such data the median is a fairer summary than the mean. Where the data are fairly symmetrical, such as heights of adults in a sample, the mean and median are close together and either can be used. Always compare the two before you decide, and say why you chose the one you report.
 
 ## Common mistakes
 

@@ -102,6 +102,30 @@ installed, so they carry out different instructions.
 - The **systems architecture** section covers the main hardware: the CPU, memory, storage and buses.
 - The **embedded system** idea shows software and hardware built together for one job.
 
+## Model answers
+
+**Explain the relationship between hardware and software. [4 marks]** Hardware is the physical components of a
+computer system and software is the programs that tell the hardware what to do. Hardware needs software, because
+without a program the processor has no instructions to carry out. Software needs hardware, because the processor has to
+execute the instructions and memory and storage have to hold them.
+
+**State one example of hardware and one of software in a smartphone. [2 marks]** Hardware: the touch screen (or the
+processor, memory or battery). Software: the operating system (or any app).
+
+**Explain why installing a new program does not change the hardware. [2 marks]** The new program is a set of
+instructions stored on the existing storage device. The same processor, memory and other components carry out the new
+instructions.
+
+## Common scenarios
+
+| Scenario | Hardware or software issue? |
+|---|---|
+| Cracked screen | Hardware |
+| An app keeps closing | Software |
+| A computer is too slow for a new game | Hardware limit on the software |
+| A keyboard key does not work | Hardware |
+| A feature is added by an update | Software |
+
 ## Exam traps
 
 - **"Hardware is the parts of the computer."** Add that they are physical.

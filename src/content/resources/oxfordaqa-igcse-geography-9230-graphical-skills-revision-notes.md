@@ -131,6 +131,25 @@ Example: (38 + 4) ÷ 58 × 100 = about 72 per 100.
 
 How it scores: one mark for the description of the shape, one for the meaning in terms of age structure, and one for the link to birth rates and development.
 
+## Line graph routine
+
+1. Independent variable on the horizontal axis, measured variable on the vertical axis.
+2. A scale that uses at least half the space, such as 5 units per large square for values up to 38.
+3. Mark points with small crosses.
+4. Join with straight lines if the data are continuous through time.
+5. Label axes with units; add a title; check each value.
+
+A climate graph uses a line for temperature and bars for rainfall, with two labelled vertical scales.
+
+## Recall: map types in one line each
+
+- Choropleth: shaded areas, density or rate.
+- Isoline: equal-value lines that do not cross.
+- Dot map: each dot a fixed number.
+- Desire line: straight origin to destination line.
+- Proportional symbol: area shows value.
+- Flow line: width shows amount.
+
 ## Exam traps
 
 - Pie chart angles must **add to 360**.

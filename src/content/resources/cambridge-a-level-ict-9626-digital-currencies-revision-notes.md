@@ -56,7 +56,7 @@ These notes condense **section 12.1 Digital currencies** (Topic 12 IT in society
 - **Hash:** fixed-length code worked out from the contents. A small change gives a very different hash.
 - **Chain:** each block holds the hash of the one before, so changing an old block breaks every later block.
 - **Consensus:** the network agrees which block is added next.
-- **Miners or validators:** computers that check transactions and add blocks, usually rewarded with new coins or fees.
+- **Miners or verifying nodes:** computers that check transactions and add blocks, usually rewarded with new coins or fees.
 - **Digital signature:** a payment is signed with a private key and checked with the public key.
 
 **Why it is trusted:** copies are held by many nodes, so an altered copy is spotted and rejected.

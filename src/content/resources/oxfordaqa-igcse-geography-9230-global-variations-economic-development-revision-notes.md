@@ -143,6 +143,13 @@ How it scores: one mark for each limitation explained, up to the maximum of four
 - Consequences: wealth gap, health gap and international migration.
 - Every strategy has a limitation, including aid.
 
+## Quick data skills for this theme
+
+- **Ratio:** people per doctor of 12 000 compared with 300 is 12 000 ÷ 300 = 40 times as many people per doctor.
+- **Difference:** subtract and give the unit, such as 83 - 56 = 27 years.
+- **Multiple:** divide the larger by the smaller, such as 52 000 ÷ 650 = 80 times.
+- Name which countries are probably LIC, NEE and HIC and say why, using at least two indicators.
+
 ## Exam traps
 
 - Use HIC, NEE, LIC with named examples.

@@ -66,7 +66,7 @@ In an **EPOS** system, the terminal reads the card, sends the details to the car
 A **ledger** is a record of all transactions. In a centralised system, the bank keeps the ledger. A cryptocurrency instead uses a **distributed ledger** held as an identical copy on many computers (nodes) in the network. The structure is a **blockchain**.
 
 1. New transactions are collected into a **block**.
-2. Computers called miners (or validators) check that the transactions are valid, for example that the sender really owns the coins.
+2. Computers called miners (or verifying nodes) check that the transactions are valid, for example that the sender really owns the coins.
 3. The block receives a **hash**, a fixed-length code calculated from its contents. Any change to the contents gives a completely different hash.
 4. Each block stores the hash of the **block before it**, so the blocks are chained.
 5. The network agrees (reaches **consensus**) on the next block, and every node adds it to its copy.

@@ -164,6 +164,16 @@ A high ratio means that the working population has a heavier burden of supportin
 
 **Model answer:** "360 degrees represents 100%, so 1% is 3.6 degrees. Primary: 15 × 3.6 = 54 degrees. Secondary: 35 × 3.6 = 126 degrees. Tertiary: 50 × 3.6 = 180 degrees. Check: 54 + 126 + 180 = 360."
 
+## Plotting a line graph: a short routine
+
+1. Draw the axes with a ruler. Put the independent variable (such as month or distance) on the horizontal axis and the measured variable on the vertical axis.
+2. Choose a scale so that the largest value fits in at least half of the space. If the highest value is 38, a scale of 5 units per large square works well, up to 40.
+3. Mark each point with a small cross.
+4. Join the points with straight lines if the data are continuous through time, or draw a smooth curve if the question asks for one.
+5. Label the axes with units, add a title, and check each plotted value against the table.
+
+For a temperature and rainfall graph (climate graph), temperature is plotted as a line and rainfall as bars, with two vertical axes. Name both scales.
+
 ## Common mistakes
 
 - **Starting a bar chart axis above zero**, which exaggerates differences.

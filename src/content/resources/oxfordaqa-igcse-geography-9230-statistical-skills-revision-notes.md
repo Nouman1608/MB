@@ -42,7 +42,7 @@ These notes cover section 3.3.1.4, Statistical skills, of the OxfordAQA Internat
 | Modal class | Class with the highest frequency |
 | Range | Largest minus smallest |
 | Quartile | Value that splits ordered data into quarters |
-| IQR | Q3 minus Q1 |
+| IQR | UQ minus LQ |
 | Cumulative frequency | Running total of frequencies |
 | Percentile | Value below which a given percentage of data fall |
 | Interpolation | Estimating inside the range of data |
@@ -58,8 +58,8 @@ These notes cover section 3.3.1.4, Statistical skills, of the OxfordAQA Internat
 | Median (even n) | Mean of the two middle values |
 | Mode | Most frequent value |
 | Range | Highest minus lowest |
-| Q1 and Q3 (even n) | Median of lower half and of upper half |
-| IQR | Q3 minus Q1 |
+| LQ and UQ (even n) | Median of lower half and of upper half |
+| IQR | UQ minus LQ |
 | Grouped mean | Sum of (midpoint × frequency) divided by total frequency |
 | Percentage change | (new minus old) ÷ old × 100 |
 
@@ -71,7 +71,7 @@ Pebble lengths (mm), 12 values: 12, 15, 15, 18, 20, 22, 25, 25, 25, 31, 34, 45.
 - Median = (22 + 25) ÷ 2 = **23.5 mm**.
 - Mode = **25 mm**.
 - Range = 45 - 12 = **33 mm**.
-- Q1 = (15 + 18) ÷ 2 = **16.5**; Q3 = (25 + 31) ÷ 2 = **28**; IQR = **11.5 mm**.
+- LQ = (15 + 18) ÷ 2 = **16.5**; UQ = (25 + 31) ÷ 2 = **28**; IQR = **11.5 mm**.
 
 ## Which average?
 
@@ -93,7 +93,7 @@ Pebble lengths (mm), 12 values: 12, 15, 15, 18, 20, 22, 25, 25, 25, 31, 34, 45.
 - Modal class: 20 to under 30 mm.
 - Estimated mean: 1 310 ÷ 50 = 26.2 mm (sum of midpoint × frequency = 1 310).
 - Plot cumulative frequency against the **upper class limit**; join with a smooth curve.
-- Median at n ÷ 2 = 25: about 26.1 mm. Q1 at n ÷ 4 = 12.5: about 18.5 mm. Q3 at 3n ÷ 4 = 37.5: about 34.6 mm. IQR about 16.1 mm.
+- Median at n ÷ 2 = 25: about 26.1 mm. LQ at n ÷ 4 = 12.5: about 18.5 mm. UQ at 3n ÷ 4 = 37.5: about 34.6 mm. IQR about 16.1 mm.
 - 90th percentile at 45: about 41.7 mm.
 
 ## Percentage change
@@ -132,6 +132,24 @@ Pebble lengths (mm), 12 values: 12, 15, 15, 18, 20, 22, 25, 25, 25, 31, 34, 45.
 
 How it scores: one mark for the truncated axis, one for the effect on bar heights, and one for the real size of the difference.
 
+## Choosing and justifying an average
+
+- Compare the mean and the median first. If they are far apart, the data are skewed or contain an outlier.
+- If the mean is higher than the median, a few large values are pulling it up (positive skew).
+- Use the median with skewed data; use the mean when the data are fairly even.
+- Say why: "The median is better because the 40 is an anomaly that inflates the mean."
+- Report the spread (range or IQR) as well as an average.
+
+## Command words in statistics questions
+
+| Command word | What to do |
+|---|---|
+| Calculate | Show working and give the answer with units |
+| Estimate | Use a graph or approximation; accept a small range |
+| Describe | Say what the pattern shows with figures |
+| Suggest | Give a sensible, reasoned idea |
+| Evaluate | Weigh strengths and weaknesses and reach a judgement |
+
 ## Exam traps
 
 - Put data in **order** before finding median and quartiles.
@@ -148,7 +166,7 @@ How it scores: one mark for the truncated axis, one for the effect on bar height
 2. Find the mean of: 6, 8, 10, 12, 14.
 3. State the range of: 3, 11, 7, 20, 5.
 4. What is the modal class of a grouped data set?
-5. Q1 is 12 and Q3 is 30. Find the IQR.
+5. LQ is 12 and UQ is 30. Find the IQR.
 6. A town grows from 40 000 to 46 000. Calculate the percentage increase.
 7. What does the 25th percentile mean?
 8. What is the difference between interpolation and extrapolation?
