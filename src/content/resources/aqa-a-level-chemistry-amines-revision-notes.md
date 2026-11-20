@@ -14,6 +14,12 @@ order: 29
 syllabusTopics:
   - qualification: "a-level"
     topic: "amines-7405"
+  - qualification: "a-level"
+    topic: "amines-7405"
+    subtopic: "preparation-7405"
+  - qualification: "a-level"
+    topic: "amines-7405"
+    subtopic: "nucleophilic-properties-7405"
 description: "Condensed AQA A-Level Chemistry amines notes: preparation, base strength order, substitution ladder, amide formation, mechanisms and a self-test."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
