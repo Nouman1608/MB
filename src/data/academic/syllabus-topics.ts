@@ -6183,8 +6183,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2026', effectiveTo: '2028', status: 'current',
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
-    sourceUrl: 'https://www.cambridgeinternational.org/Images/697352-2026-2028-syllabus.pdf', verifiedDate: '2026-08-21',
-    notes: "Cambridge International AS & A Level Law (9084) introduces students to the law of England and Wales. Staged: AS Level topics 1-2 (English legal system, Criminal law); A Level adds topics 3-4 (Law of contract, Law of tort). Four topic names and their named sub-strands verified directly from the official syllabus PDF's Content overview section, fetched and verified 2026-08-21.",
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/697352-2026-2028-syllabus.pdf', verifiedDate: '2026-11-20',
+    notes: "Cambridge International AS & A Level Law (9084) introduces students to the law of England and Wales. Staged: AS Level topics 1-2 (English legal system, Criminal law); A Level adds topics 3-4 (Law of contract, Law of tort). Four topic names and their named sub-strands verified directly from the official syllabus PDF's Content overview section, fetched and verified 2026-08-21. Checked again on 2026-11-20 against the Subject content section of the syllabus (version 3, published October 2026): all 4 topics and all 14 numbered sub-headings match.",
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'English legal system', slug: 'english-legal-system-9084', stage: 'AS', subtopics: [
         { number: '1.1', name: 'Principles and sources of English law', slug: 'principles-and-sources-of-english-law-9084' },
