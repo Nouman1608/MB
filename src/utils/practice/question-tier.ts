@@ -324,6 +324,47 @@ export const HIGHER_LABELS_CHECKED: ReadonlySet<string> = new Set([
   'aqa-gcse-physics-8463-the-motor-effect-practice',  // 2026-11-18
   'aqa-gcse-physics-8463-waves-in-air-fluids-and-solids-practice',  // 2026-11-18
   'aqa-gcse-physics-8463-work-done-and-energy-transfer-aqa-practice',  // 2026-11-18
+  'aqa-gcse-chemistry-8462-amount-of-substance-and-masses-practice',  // 2026-11-20
+  'aqa-gcse-chemistry-8462-carbon-compounds-as-fuels-and-feedstock-practice',  // 2026-11-20
+  'aqa-gcse-chemistry-8462-carbon-dioxide-and-methane-as-greenhouse-gases-practice',  // 2026-11-20
+  'aqa-gcse-chemistry-8462-chemical-cells-and-fuel-cells-practice',  // 2026-11-20
+  'aqa-gcse-chemistry-8462-chemical-measurements-conservation-of-mass-practice',  // 2026-11-20
+  'aqa-gcse-chemistry-8462-common-atmospheric-pollutants-and-their-sources-practice',  // 2026-11-20
+  'aqa-gcse-chemistry-8462-concentrations-in-mol-dm3-practice',  // 2026-11-20
+  'aqa-gcse-chemistry-8462-diamond-practice',  // 2026-11-20
+  'aqa-gcse-chemistry-8462-electrolysis-practice',  // 2026-11-20
+  'aqa-gcse-chemistry-8462-exothermic-and-endothermic-reactions-practice',  // 2026-11-20
+  'aqa-gcse-chemistry-8462-giant-covalent-structures-practice',  // 2026-11-20
+  'aqa-gcse-chemistry-8462-graphene-and-fullerenes-practice',  // 2026-11-20
+  'aqa-gcse-chemistry-8462-graphite-practice',  // 2026-11-20
+  'aqa-gcse-chemistry-8462-identification-of-common-gases-practice',  // 2026-11-20
+  'aqa-gcse-chemistry-8462-identification-of-ions-by-chemical-and-spectroscopic-means-practice',  // 2026-11-20
+  'aqa-gcse-chemistry-8462-life-cycle-assessment-and-recycling-practice',  // 2026-11-20
+  'aqa-gcse-chemistry-8462-metals-as-conductors-practice',  // 2026-11-20
+  'aqa-gcse-chemistry-8462-polymers-practice',  // 2026-11-20
+  'aqa-gcse-chemistry-8462-properties-of-ionic-compounds-practice',  // 2026-11-20
+  'aqa-gcse-chemistry-8462-properties-of-metals-and-alloys-practice',  // 2026-11-20
+  'aqa-gcse-chemistry-8462-properties-of-small-molecules-practice',  // 2026-11-20
+  'aqa-gcse-chemistry-8462-purity-formulations-and-chromatography-practice',  // 2026-11-20
+  'aqa-gcse-chemistry-8462-rate-of-reaction-practice',  // 2026-11-20
+  'aqa-gcse-chemistry-8462-reactions-of-acids-practice',  // 2026-11-20
+  'aqa-gcse-chemistry-8462-reactions-of-alkenes-and-alcohols-practice',  // 2026-11-20
+  'aqa-gcse-chemistry-8462-reactivity-of-metals-practice',  // 2026-11-20
+  'aqa-gcse-chemistry-8462-reversible-reactions-and-dynamic-equilibrium-practice',  // 2026-11-20
+  'aqa-gcse-chemistry-8462-sizes-of-particles-and-their-properties-practice',  // 2026-11-20
+  'aqa-gcse-chemistry-8462-state-symbols-practice',  // 2026-11-20
+  'aqa-gcse-chemistry-8462-synthetic-and-naturally-occurring-polymers-practice',  // 2026-11-20
+  'aqa-gcse-chemistry-8462-the-composition-and-evolution-of-the-earths-atmosphere-practice',  // 2026-11-20
+  'aqa-gcse-chemistry-8462-the-haber-process-and-the-use-of-npk-fertilisers-practice',  // 2026-11-20
+  'aqa-gcse-chemistry-8462-three-states-of-matter-practice',  // 2026-11-20
+  'aqa-gcse-chemistry-8462-uses-of-nanoparticles-practice',  // 2026-11-20
+  'aqa-gcse-chemistry-8462-using-materials-practice',  // 2026-11-20
+  'aqa-gcse-chemistry-8462-using-the-earths-resources-and-obtaining-potable-water-practice',  // 2026-11-20
+  'aqa-gcse-chemistry-8462-volumes-of-gases-practice',  // 2026-11-20
+  'aqa-gcse-chemistry-8462-yield-and-atom-economy-practice',  // 2026-11-20
+  'aqa-gcse-maths-8300-mensuration-and-calculation-practice',  // 2026-11-20
+  'aqa-gcse-maths-8300-properties-and-constructions-practice',  // 2026-11-20
+  'aqa-gcse-maths-8300-vectors-practice',  // 2026-11-20
 ]);
 
 /**

@@ -172,7 +172,11 @@ test('real banks: every checked file is a practice file in a Foundation/Higher b
   // questions, 5 Higher-only) merged into the use of symbols and algebraic manipulation
   // set. Its Q1 moved as Q13 (mixed: only part (c) is Higher, so not Higher-only); the
   // five Higher-only duplicates were dropped. 4MA1: 181 − 5 + 0 = 176.
-  assert.deepEqual(counts, { '4MA1': 176, '8461': 40, '8462': 12, '8463': 62, '8300': 35 });
+  // Re-pinned 20 Nov 2026: 41 new subtopic practice files (8462 38, 8300 3) were labelled by their
+  // writers question by question against the AQA specifications (Higher-only content is marked
+  // "HT only" in the 8462 document and in the Higher column of the 8300 content tables) and added
+  // above. 8462 +58 Higher-only (12 to 70); 8300 +10 (35 to 45).
+  assert.deepEqual(counts, { '4MA1': 176, '8461': 40, '8462': 70, '8463': 62, '8300': 45 });
   // Review fix (28 Sep 2026): total questions per bank, pinned. Every file in these
   // banks is in HIGHER_LABELS_CHECKED, so a new question without a Higher label would
   // silently count as 'both'. A changed total fails here until the new or removed
@@ -185,7 +189,8 @@ test('real banks: every checked file is a practice file in a Foundation/Higher b
   // Re-pinned 19 Nov 2026 (D-509): 4MA1 596 − 6 (algebraic manipulation practice file
   // retired) + 1 (its Q1 moved into the use of symbols set as Q13; Q2–Q6 dropped as
   // duplicates of that set's Q7(a), Q6, Q9(c), Q8(b) and Q8(a)) = 591.
-  assert.deepEqual(totals, { '4MA1': 591, '8461': 480, '8462': 228, '8463': 447, '8300': 150 });
+  // Re-pinned 20 Nov 2026: the 41 files above add 8462 +390 (228 to 618) and 8300 +36 (150 to 186) questions.
+  assert.deepEqual(totals, { '4MA1': 591, '8461': 480, '8462': 618, '8463': 447, '8300': 186 });
 });
 
 /**
