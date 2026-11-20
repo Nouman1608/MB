@@ -12,6 +12,7 @@ order: 2.1
 syllabusTopics:
   - qualification: "o-level"
     topic: "fl-paper-2-texts-3247"
+    subtopic: "part-1-unseen-passage-3247"
 description: "Original unseen Urdu prose extracts with technique questions and a full 20-mark prompted question in the 3247 Paper 2 style, with model answers."
 author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"

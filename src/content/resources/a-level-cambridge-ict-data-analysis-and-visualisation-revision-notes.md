@@ -14,6 +14,9 @@ order: 17
 syllabusTopics:
   - qualification: "a-level"
     topic: "data-analysis-and-visualisation"
+  - qualification: "a-level"
+    topic: "data-analysis-and-visualisation"
+    subtopic: "data-analysis-and-visualisation-content"
 description: "Revision notes for Cambridge A Level IT 9626 data analysis: cleaning checklist, split and merge formulas, consolidation steps, pivot tables, self-test."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"

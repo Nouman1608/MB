@@ -14,6 +14,12 @@ order: 16
 syllabusTopics:
   - qualification: "a-level"
     topic: "system-life-cycle"
+  - qualification: "a-level"
+    topic: "system-life-cycle"
+    subtopic: "the-stages-in-the-system-life-cycle"
+  - qualification: "a-level"
+    topic: "system-life-cycle"
+    subtopic: "evaluation"
 description: "Condensed revision notes on the system life cycle for Cambridge A Level IT 9626, with comparison tables, a quick self-test and common mark losses."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"

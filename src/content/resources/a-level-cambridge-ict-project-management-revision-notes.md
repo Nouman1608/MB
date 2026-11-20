@@ -14,6 +14,9 @@ order: 15
 syllabusTopics:
   - qualification: "a-level"
     topic: "project-management"
+  - qualification: "a-level"
+    topic: "project-management"
+    subtopic: "the-stages-of-the-project-life-cycle"
 description: "Condensed revision notes on project management for Cambridge A Level IT 9626: life cycle stages, software types, Gantt, PERT and float."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"

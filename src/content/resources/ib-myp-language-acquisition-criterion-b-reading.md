@@ -13,6 +13,7 @@ order: 53
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-language-acquisition-assessment-criteria"
+    subtopic: "ib-myp-language-acquisition-assessment-criteria-b-reading"
 description: "IB MYP Language Acquisition study guide to Criterion B reading: main ideas, details, conventions, visuals, purpose and perspective, with original texts."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
@@ -37,7 +38,7 @@ Other facts printed in the brief:
 
 - The four criteria (Listening, Reading, Speaking, Writing) are weighted equally. Each has eight achievement levels (1-8) in four bands.
 - Courses are assessed at one of three proficiency levels: emergent, capable or proficient.
-- The on-screen examination has three tasks. The objective "comprehending written multimodal texts" is assessed by Criterion B for 24 marks.
+- The on-screen examination has three tasks of about 35 minutes each, 96 marks in all. Tasks 1 and 2 each pair a written-visual text with an audio-visual text. The objective "comprehending written multimodal texts" is assessed by Criterion B for 16 marks in each of those two tasks, 32 marks in all.
 - Examination texts may come from any topic on the language acquisition topic list.
 
 The brief does not print the strand wording or the level descriptors. Your teacher will share the task-specific clarifications for your level. For how the four criteria compare, see [the four criteria in practice](/resources/ib-myp-language-acquisition-criteria-in-practice/); for the exam format, see [eAssessment exam preparation](/resources/ib-myp-language-acquisition-eassessment-exam-preparation/).
@@ -212,7 +213,7 @@ The brief says courses are assessed at emergent, capable or proficient level; it
 Criterion B is Reading. The MYP Language Acquisition subject brief (from 2020) says students construct meaning from a text and interpret its written, spatial and visual aspects, understanding how they work with the words to convey ideas, values and attitudes.
 
 **How many marks is reading worth in the MYP Language Acquisition on-screen exam?**
-Comprehending written multimodal texts is assessed by Criterion B for 24 marks in the on-screen examination. Exam texts may come from any topic on the language acquisition topic list.
+Comprehending written multimodal texts is assessed by Criterion B for 32 marks in the on-screen examination (16 in each of Tasks 1 and 2, out of 96 marks for the whole examination). Exam texts may come from any topic on the language acquisition topic list.
 
 **What is the difference between a main idea and a supporting detail?**
 The main idea is the point the whole text, or one section, makes, and it is rarely a single quoted sentence. Supporting details are the facts, examples and reasons that back that idea up.
@@ -226,4 +227,4 @@ Condense this with the [Criterion B revision notes](/resources/ib-myp-language-a
 
 ## Official syllabus
 
-International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Language acquisition*, from 2020 (first eAssessment May 2023/November 2023), published by the IB. The brief names Criterion B: Reading and assigns it 24 marks in the on-screen examination. All texts on this page are original.
+International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Language acquisition*, from 2020 (first eAssessment May 2023/November 2023), published by the IB. The brief names Criterion B: Reading. The eAssessment marks (32 for Criterion B, 16 in each of Tasks 1 and 2) come from the International Baccalaureate Organization, Middle Years Programme Language acquisition guide, for use from September 2020/January 2021 ("MYP eAssessment" and "Language acquisition examination blueprint", pages 51 and 52). All texts on this page are original.

@@ -12,6 +12,7 @@ order: 4.2
 syllabusTopics:
   - qualification: "o-level"
     topic: "sl-paper-2-grammar-writing-translation-3248"
+    subtopic: "exercise-4-translation-3248"
 description: "Condensed notes for 3248 Paper 2 Exercise 4 translation: task facts, English-to-Urdu tense map, word order, articles, gender, idioms, traps and a self-test."
 author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"

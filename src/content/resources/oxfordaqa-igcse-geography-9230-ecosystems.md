@@ -12,6 +12,7 @@ order: 1.2
 syllabusTopics:
   - qualification: "igcse"
     topic: "living-with-physical-environment-9230"
+    subtopic: "ecosystems-9230"
 description: "Ecosystems for OxfordAQA IGCSE Geography 9230: a small-scale pond ecosystem, food webs, nutrient cycling, changing one component and global ecosystems."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

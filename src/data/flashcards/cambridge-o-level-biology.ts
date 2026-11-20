@@ -1,12 +1,14 @@
 /**
  * D-444 -- flashcards for Cambridge O Level Biology 5090 (2026-2028).
  *
- * One block per subtopic, in syllabus order. Topics 1, 4 and 5 itemise
- * subtopics, so their card ids are `<subtopic number>-<n>`. The other topics
- * itemise none in syllabus-topics.ts, so their cards sit on the topic itself
- * with ids `<topic number>-<n>` (topicOnly helper). Ids are permanent (browser
- * progress is keyed by them): add a new card with the next unused n, never
- * renumber.
+ * One block per subtopic, in syllabus order. Every topic now itemises
+ * subtopics in syllabus-topics.ts, so every card sits on a subtopic and its id
+ * is `<subtopic number>-<n>`. On 20 Nov 2026 the cards of topics 2, 3 and 6 to
+ * 19, which until then sat on the topic with ids `<topic number>-<n>`, were
+ * re-filed under their subtopics (card text unchanged); `idMigration` below
+ * moves browser progress saved before that onto the new ids. Ids are permanent
+ * (browser progress is keyed by them): add a new card with the next unused n,
+ * never renumber.
  *
  * Not tiered: 5090 has one set of outcomes for every candidate.
  *
@@ -30,16 +32,6 @@ const sub = (topic: string, subtopic: string, number: string, specs: Spec[]): Fl
     ...(src ? { source: src } : {}),
   }));
 
-const topicOnly = (topic: string, number: string, specs: Spec[]): Flashcard[] =>
-  specs.map(({ n, f, b, src }) => ({
-    id: `${number}-${n}`,
-    topic,
-    front: f,
-    back: b,
-    origin: src ? 'revision-notes' as const : 'authored' as const,
-    ...(src ? { source: src } : {}),
-  }));
-
 const CELLS = 'cell-structure-and-organisation-revision-notes';
 const BIO = 'biological-molecules-revision-notes';
 const DEV = 'o-level-biology-5090-development-of-organisms-and-continuity-of-life-revision-notes';
@@ -57,8 +49,49 @@ export const DECK_CAMBRIDGE_O_LEVEL_BIOLOGY: FlashcardDeck = {
   syllabusCode: '5090',
   syllabusSeries: '2026-2028',
   author: 'marlbridge-academic-team',
-  updated: '2026-11-05',
+  updated: '2026-11-20',
   deckReview: { reviewerSlug: 'hina-mogul', reviewedOn: '2026-11-05' },
+  idMigration: {
+    id: '5090-subtopics-2026-11-20',
+    before: '2026-11-20',
+    map: {
+      '1.1-1': '1.1-1', '1.1-2': '1.1-2', '1.1-3': '1.1-3', '1.1-4': '1.1-4', '1.1-5': '1.1-5', '1.1-6': '1.1-6',
+      '1.1-7': '1.1-7', '1.2-1': '1.2-1', '1.2-2': '1.2-2', '1.2-3': '1.2-3', '1.2-4': '1.2-4', '1.2-5': '1.2-5',
+      '1.2-6': '1.2-6', '1.2-7': '1.2-7', '2-1': '2.1-1', '2-2': '2.1-2', '2-3': '2.1-3', '2-4': '2.1-4',
+      '2-5': '2.2-1', '2-6': '2.2-2', '2-7': '2.2-3', '2-8': '2.2-4', '2-9': '2.2-5', '2-10': '2.2-6',
+      '2-11': '2.2-7', '2-12': '2.2-8', '3-1': '3.1-1', '3-2': '3.1-2', '3-3': '3.2-1', '3-4': '3.1-3',
+      '3-5': '3.1-4', '3-6': '3.1-5', '3-7': '3.1-6', '3-8': '3.1-7', '3-9': '3.1-8', '3-10': '3.2-2',
+      '4.1-1': '4.1-1', '4.1-2': '4.1-2', '4.1-3': '4.1-3', '4.1-4': '4.1-4', '4.1-5': '4.1-5', '4.1-6': '4.1-6',
+      '4.1-7': '4.1-7', '4.1-8': '4.1-8', '4.1-9': '4.1-9', '5.1-1': '5.1-1', '5.1-2': '5.1-2', '5.1-3': '5.1-3',
+      '5.1-4': '5.1-4', '5.1-5': '5.1-5', '5.2-1': '5.2-1', '5.2-2': '5.2-2', '5.2-3': '5.2-3', '5.2-4': '5.2-4',
+      '5.2-5': '5.2-5', '6-1': '6.1-1', '6-2': '6.1-2', '6-3': '6.1-3', '6-4': '6.1-4', '6-5': '6.1-5',
+      '6-6': '6.1-6', '6-7': '6.1-7', '6-8': '6.1-8', '6-9': '6.1-9', '6-10': '6.2-1', '6-11': '6.2-2',
+      '6-12': '6.3-1', '7-1': '7.2-1', '7-2': '7.2-2', '7-3': '7.1-1', '7-4': '7.1-2', '7-5': '7.2-3',
+      '7-6': '7.2-4', '7-7': '7.2-5', '7-8': '7.2-6', '7-9': '7.2-7', '7-10': '7.2-8', '7-11': '7.1-3',
+      '7-12': '7.1-4', '8-1': '8.1-1', '8-2': '8.1-2', '8-3': '8.1-3', '8-4': '8.2-1', '8-5': '8.2-2',
+      '8-6': '8.2-3', '8-7': '8.2-4', '8-8': '8.2-5', '8-9': '8.2-6', '8-10': '8.3-1', '8-11': '8.3-2',
+      '8-12': '8.3-3', '9-1': '9.1-1', '9-2': '9.1-2', '9-3': '9.1-3', '9-4': '9.1-4', '9-5': '9.1-5',
+      '9-6': '9.1-6', '9-7': '9.1-7', '9-8': '9.1-8', '9-9': '9.1-9', '9-10': '9.1-10', '10-1': '10.1-1',
+      '10-2': '10.1-2', '10-3': '10.2-1', '10-4': '10.3-1', '10-5': '10.1-3', '10-6': '10.3-2', '10-7': '10.3-3',
+      '10-8': '10.3-4', '10-9': '10.3-5', '10-10': '10.2-2', '11-1': '11.1-1', '11-2': '11.1-2', '11-3': '11.1-3',
+      '11-4': '11.2-1', '11-5': '11.2-2', '11-6': '11.2-3', '11-7': '11.2-4', '11-8': '11.3-1', '11-9': '11.3-2',
+      '11-10': '11.4-1', '11-11': '11.4-2', '11-12': '11.4-3', '12-1': '12.1-1', '12-2': '12.1-2', '12-3': '12.1-3',
+      '12-4': '12.1-4', '12-5': '12.1-5', '12-6': '12.1-6', '12-7': '12.1-7', '12-8': '12.2-1', '12-9': '12.3-1',
+      '12-10': '12.3-2', '12-11': '12.3-3', '12-12': '12.3-4', '13-1': '13.1-1', '13-2': '13.1-2', '13-3': '13.1-3',
+      '13-4': '13.1-4', '13-5': '13.2-1', '13-6': '13.2-2', '13-7': '13.2-3', '13-8': '13.2-4', '13-9': '13.1-5',
+      '14-1': '14.1-1', '14-2': '14.1-2', '14-3': '14.2-1', '14-4': '14.2-2', '14-5': '14.2-3', '14-6': '14.3-1',
+      '14-7': '14.3-2', '14-8': '14.4-1', '14-9': '14.5-1', '14-10': '14.5-2', '14-11': '14.6-1', '14-12': '14.6-2',
+      '15-1': '15.1-1', '15-2': '15.1-2', '15-3': '15.1-3', '15-4': '15.1-4', '15-5': '15.1-5', '15-6': '15.1-6',
+      '15-7': '15.1-7', '15-8': '15.1-8', '16-1': '16.1-1', '16-2': '16.1-2', '16-3': '16.1-3', '16-4': '16.1-4',
+      '16-5': '16.2-1', '16-6': '16.3-1', '16-7': '16.3-2', '16-8': '16.3-3', '16-9': '16.3-4', '16-10': '16.4-1',
+      '16-11': '16.4-2', '16-12': '16.4-3', '17-1': '17.1-1', '17-2': '17.2-1', '17-3': '17.2-2', '17-4': '17.2-3',
+      '17-5': '17.3-1', '17-6': '17.3-2', '17-7': '17.3-3', '17-8': '17.3-4', '17-9': '17.3-5', '17-10': '17.1-2',
+      '17-11': '17.1-3', '17-12': '17.4-1', '18-1': '18.1-1', '18-2': '18.1-2', '18-3': '18.1-3', '18-4': '18.1-4',
+      '18-5': '18.1-5', '18-6': '18.1-6', '18-7': '18.2-1', '18-8': '18.2-2', '18-9': '18.2-3', '18-10': '18.2-4',
+      '19-1': '19.1-1', '19-2': '19.1-2', '19-3': '19.1-3', '19-4': '19.1-4', '19-5': '19.1-5', '19-6': '19.2-1',
+      '19-7': '19.2-2', '19-8': '19.3-1', '19-9': '19.4-1', '19-10': '19.4-2', '19-11': '19.5-1', '19-12': '19.5-2',
+    },
+  },
   cards: [
     // 1 Cells
     ...sub('cells', 'cell-structure-and-function', '1.1', [
@@ -81,33 +114,37 @@ export const DECK_CAMBRIDGE_O_LEVEL_BIOLOGY: FlashcardDeck = {
     ]),
 
     // 2 Classification
-    ...topicOnly('classification', '2', [
+    ...sub('classification', 'concept-and-use-of-a-classification-system', '2.1', [
       { n: 1, f: 'Species', b: 'A group of organisms that can reproduce to produce fertile offspring.' },
       { n: 2, f: 'Binomial system', b: 'An internationally agreed system in which the scientific name of an organism has two parts showing the genus and species, e.g. Panthera leo. Genus has a capital letter; species is lower case; italics in print, underlined by hand.' },
       { n: 3, f: 'Dichotomous key: what it is, and how many couplets for n organisms?', b: 'A key in which each step splits the organisms into two groups using one identifiable feature. n organisms need n − 1 couplets.' },
       { n: 4, f: 'Why should colour or size not be used in a dichotomous key?', b: 'They vary between individuals of the same species, so they are not reliable. Use clear features such as number of legs, wings present or absent, or leaf veins parallel or branching.' },
-      { n: 5, f: 'Prokaryote kingdom: main features', b: 'Single cells with no nucleus; circular DNA free in the cytoplasm, plasmids, ribosomes and a cell wall.' },
-      { n: 6, f: 'Fungus kingdom: main features', b: 'Nucleus; cell wall not made of cellulose; no chloroplasts; body of hyphae (yeast is single-celled); secrete enzymes and absorb the food.' },
-      { n: 7, f: 'Insects vs arachnids', b: 'Insects: 3 body sections, 3 pairs of legs, 1 pair of antennae.\nArachnids: 2 body sections, 4 pairs of legs, no antennae.' },
-      { n: 8, f: 'Crustaceans vs myriapods', b: 'Crustaceans: more than 4 pairs of legs, 2 pairs of antennae.\nMyriapods: many segments with 1 or 2 pairs of legs per segment, 1 pair of antennae.' },
-      { n: 9, f: 'Reptiles vs amphibians', b: 'Reptiles: dry scales; rubbery or leathery-shelled eggs laid on land.\nAmphibians: moist skin with no scales; soft eggs without shells laid in water; larvae with gills.' },
-      { n: 10, f: 'Mammals vs birds: identifying features', b: 'Mammals: hair or fur, external ears (pinnae), mammary glands; most give birth to live young.\nBirds: feathers, beak, wings, hard-shelled eggs.' },
-      { n: 11, f: 'Ferns vs flowering plants; monocots vs dicots', b: 'Ferns: fronds, reproduce by spores, no flowers. Flowering plants: reproduce by seeds.\nMonocots: 1 cotyledon, parallel veins, flower parts in threes. Dicots: 2 cotyledons, branching veins, parts in fours or fives.' },
-      { n: 12, f: 'Features of viruses', b: 'Only a protein coat and genetic material. Not cells and in none of the five kingdoms; they can only replicate inside living cells.' },
+    ]),
+    ...sub('classification', 'features-of-organisms', '2.2', [
+      { n: 1, f: 'Prokaryote kingdom: main features', b: 'Single cells with no nucleus; circular DNA free in the cytoplasm, plasmids, ribosomes and a cell wall.' },
+      { n: 2, f: 'Fungus kingdom: main features', b: 'Nucleus; cell wall not made of cellulose; no chloroplasts; body of hyphae (yeast is single-celled); secrete enzymes and absorb the food.' },
+      { n: 3, f: 'Insects vs arachnids', b: 'Insects: 3 body sections, 3 pairs of legs, 1 pair of antennae.\nArachnids: 2 body sections, 4 pairs of legs, no antennae.' },
+      { n: 4, f: 'Crustaceans vs myriapods', b: 'Crustaceans: more than 4 pairs of legs, 2 pairs of antennae.\nMyriapods: many segments with 1 or 2 pairs of legs per segment, 1 pair of antennae.' },
+      { n: 5, f: 'Reptiles vs amphibians', b: 'Reptiles: dry scales; rubbery or leathery-shelled eggs laid on land.\nAmphibians: moist skin with no scales; soft eggs without shells laid in water; larvae with gills.' },
+      { n: 6, f: 'Mammals vs birds: identifying features', b: 'Mammals: hair or fur, external ears (pinnae), mammary glands; most give birth to live young.\nBirds: feathers, beak, wings, hard-shelled eggs.' },
+      { n: 7, f: 'Ferns vs flowering plants; monocots vs dicots', b: 'Ferns: fronds, reproduce by spores, no flowers. Flowering plants: reproduce by seeds.\nMonocots: 1 cotyledon, parallel veins, flower parts in threes. Dicots: 2 cotyledons, branching veins, parts in fours or fives.' },
+      { n: 8, f: 'Features of viruses', b: 'Only a protein coat and genetic material. Not cells and in none of the five kingdoms; they can only replicate inside living cells.' },
     ]),
 
     // 3 Movement into and out of cells
-    ...topicOnly('movement-into-and-out-of-cells', '3', [
+    ...sub('movement-into-and-out-of-cells', 'diffusion-and-osmosis', '3.1', [
       { n: 1, f: 'Diffusion', b: 'The net movement of molecules or ions from a region of their higher concentration to a region of their lower concentration (down a concentration gradient), as a result of their random movement.' },
       { n: 2, f: 'Osmosis', b: 'The net movement of water molecules from a region of higher water potential to a region of lower water potential, through a partially permeable membrane.' },
-      { n: 3, f: 'Active transport', b: 'The movement of molecules or ions into or out of a cell through the cell membrane, from a region of their lower concentration to a region of their higher concentration (against a concentration gradient), using energy released during respiration.' },
-      { n: 4, f: 'Source of energy for diffusion and osmosis', b: 'The kinetic energy of the random movement of molecules and ions. No energy from respiration is used.' },
-      { n: 5, f: 'Factors that increase the rate of diffusion', b: 'Larger surface area, higher temperature, steeper concentration gradient, shorter distance.' },
-      { n: 6, f: 'Surface area to volume ratio of a 3 cm cube', b: 'Surface area = 6 × 3² = 54 cm²; volume = 3³ = 27 cm³; SA:V = 2 : 1. (A 1 cm cube is 6 : 1.)' },
-      { n: 7, f: 'Plant cell vs animal cell placed in pure water', b: 'Both gain water by osmosis. The plant cell becomes turgid; its cellulose wall stops it bursting. An animal cell, such as a red blood cell, has no wall, so it swells and bursts.' },
-      { n: 8, f: 'Turgid, flaccid and plasmolysed', b: 'Turgid: has taken in water; firm, membrane pressed against the wall (turgor pressure).\nFlaccid: has lost water and turgor pressure; soft.\nPlasmolysed: membrane and cytoplasm pulled away from the wall.' },
-      { n: 9, f: 'A potato cylinder goes from 4.0 g to 3.4 g in a sucrose solution. % change and meaning?', b: '(3.4 − 4.0) ÷ 4.0 × 100 = −15%. The solution had a lower water potential than the cells, so water left by osmosis.' },
-      { n: 10, f: 'Why must root hair cells take up mineral ions by active transport?', b: 'The ion concentration in soil water is lower than in the cell, so ions must move against the concentration gradient. This needs energy from respiration, so lack of oxygen reduces ion uptake.' },
+      { n: 3, f: 'Source of energy for diffusion and osmosis', b: 'The kinetic energy of the random movement of molecules and ions. No energy from respiration is used.' },
+      { n: 4, f: 'Factors that increase the rate of diffusion', b: 'Larger surface area, higher temperature, steeper concentration gradient, shorter distance.' },
+      { n: 5, f: 'Surface area to volume ratio of a 3 cm cube', b: 'Surface area = 6 × 3² = 54 cm²; volume = 3³ = 27 cm³; SA:V = 2 : 1. (A 1 cm cube is 6 : 1.)' },
+      { n: 6, f: 'Plant cell vs animal cell placed in pure water', b: 'Both gain water by osmosis. The plant cell becomes turgid; its cellulose wall stops it bursting. An animal cell, such as a red blood cell, has no wall, so it swells and bursts.' },
+      { n: 7, f: 'Turgid, flaccid and plasmolysed', b: 'Turgid: has taken in water; firm, membrane pressed against the wall (turgor pressure).\nFlaccid: has lost water and turgor pressure; soft.\nPlasmolysed: membrane and cytoplasm pulled away from the wall.' },
+      { n: 8, f: 'A potato cylinder goes from 4.0 g to 3.4 g in a sucrose solution. % change and meaning?', b: '(3.4 − 4.0) ÷ 4.0 × 100 = −15%. The solution had a lower water potential than the cells, so water left by osmosis.' },
+    ]),
+    ...sub('movement-into-and-out-of-cells', 'active-transport', '3.2', [
+      { n: 1, f: 'Active transport', b: 'The movement of molecules or ions into or out of a cell through the cell membrane, from a region of their lower concentration to a region of their higher concentration (against a concentration gradient), using energy released during respiration.' },
+      { n: 2, f: 'Why must root hair cells take up mineral ions by active transport?', b: 'The ion concentration in soil water is lower than in the cell, so ions must move against the concentration gradient. This needs energy from respiration, so lack of oxygen reduces ion uptake.' },
     ]),
 
     // 4 Biological molecules
@@ -140,7 +177,7 @@ export const DECK_CAMBRIDGE_O_LEVEL_BIOLOGY: FlashcardDeck = {
     ]),
 
     // 6 Plant nutrition
-    ...topicOnly('plant-nutrition', '6', [
+    ...sub('plant-nutrition', 'photosynthesis', '6.1', [
       { n: 1, f: 'Photosynthesis', b: 'The process by which plants make carbohydrates from raw materials using energy from light.' },
       { n: 2, f: 'Word and balanced equations for photosynthesis', b: 'carbon dioxide + water → glucose + oxygen\n6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂\n(light energy and chlorophyll written by the arrow)' },
       { n: 3, f: 'Chlorophyll', b: 'A green pigment found in chloroplasts. It transfers light energy into chemical energy for the formation of glucose and other carbohydrates.' },
@@ -150,45 +187,55 @@ export const DECK_CAMBRIDGE_O_LEVEL_BIOLOGY: FlashcardDeck = {
       { n: 7, f: 'Limiting factor', b: 'The factor in shortest supply that keeps the rate of photosynthesis down. Only increasing this factor raises the rate.' },
       { n: 8, f: 'Effect of temperature on the rate of photosynthesis', b: 'Rises to an optimum, then falls sharply: up to the optimum, more kinetic energy gives more effective collisions; above it, enzymes are denatured.' },
       { n: 9, f: 'Hydrogencarbonate indicator around pondweed: yellow, red, purple', b: 'Yellow: more CO₂ than air (respiration greater than photosynthesis, e.g. dark).\nRed: same as air (the two balance).\nMagenta to purple: less CO₂ than air (photosynthesis greater, bright light).' },
-      { n: 10, f: 'Palisade vs spongy mesophyll', b: 'Palisade: tightly packed, near the upper surface, most chloroplasts, for photosynthesis.\nSpongy: loosely packed, fewer chloroplasts, air spaces giving a large surface for gas exchange.' },
-      { n: 11, f: 'Why is a leaf large and thin?', b: 'Large surface area absorbs more light and lets more carbon dioxide in. Thin: short diffusion distance for gases, and light reaches all the mesophyll cells.' },
-      { n: 12, f: 'Why plants need nitrate and magnesium ions', b: 'Nitrate: nitrogen to make amino acids, then proteins for growth.\nMagnesium: to make chlorophyll; less chlorophyll means less light absorbed.' },
+    ]),
+    ...sub('plant-nutrition', 'leaf-structure', '6.2', [
+      { n: 1, f: 'Palisade vs spongy mesophyll', b: 'Palisade: tightly packed, near the upper surface, most chloroplasts, for photosynthesis.\nSpongy: loosely packed, fewer chloroplasts, air spaces giving a large surface for gas exchange.' },
+      { n: 2, f: 'Why is a leaf large and thin?', b: 'Large surface area absorbs more light and lets more carbon dioxide in. Thin: short diffusion distance for gases, and light reaches all the mesophyll cells.' },
+    ]),
+    ...sub('plant-nutrition', 'mineral-nutrition', '6.3', [
+      { n: 1, f: 'Why plants need nitrate and magnesium ions', b: 'Nitrate: nitrogen to make amino acids, then proteins for growth.\nMagnesium: to make chlorophyll; less chlorophyll means less light absorbed.' },
     ]),
 
     // 7 Transport in flowering plants
-    ...topicOnly('transport-in-flowering-plants', '7', [
+    ...sub('transport-in-flowering-plants', 'uptake-and-transport-of-water-and-ions', '7.1', [
+      { n: 1, f: 'How root hair cells take up water and mineral ions', b: 'A long, thin extension gives a large surface area. Water enters by osmosis; mineral ions enter by active transport, using energy from respiration (many mitochondria).' },
+      { n: 2, f: 'Pathway of water through a plant', b: 'Root hair cells → root cortex cells → xylem → mesophyll cells. Water then evaporates into the air spaces and diffuses out through the stomata.' },
+      { n: 3, f: 'Position of xylem and phloem in a non-woody dicot root and stem', b: 'Root: xylem in the centre in a star shape, phloem between its arms.\nStem: bundles in a ring; xylem on the inner side, phloem on the outer side of each bundle.' },
+      { n: 4, f: 'Features of xylem vessels and their functions', b: 'Thick lignified walls: strength and support. No cell contents: unobstructed water flow. Joined end to end with no cross walls: a continuous tube. Functions: transport of water and mineral ions, and support.' },
+    ]),
+    ...sub('transport-in-flowering-plants', 'transpiration-and-translocation', '7.2', [
       { n: 1, f: 'Transpiration', b: 'The loss of water vapour from leaves.' },
       { n: 2, f: 'Translocation', b: 'The movement of sucrose and amino acids in the phloem from sources to sinks.' },
-      { n: 3, f: 'How root hair cells take up water and mineral ions', b: 'A long, thin extension gives a large surface area. Water enters by osmosis; mineral ions enter by active transport, using energy from respiration (many mitochondria).' },
-      { n: 4, f: 'Pathway of water through a plant', b: 'Root hair cells → root cortex cells → xylem → mesophyll cells. Water then evaporates into the air spaces and diffuses out through the stomata.' },
-      { n: 5, f: 'Effects of humidity and light intensity on transpiration', b: 'Higher humidity: slower, because there is a smaller water vapour concentration gradient.\nHigher light intensity: faster, because stomata open wider.' },
-      { n: 6, f: 'Effects of wind speed and temperature on transpiration', b: 'Both increase the rate. Wind removes water vapour near the leaf, keeping the gradient steep. Higher temperature gives more kinetic energy, so faster evaporation and diffusion.' },
-      { n: 7, f: 'How does transpiration pull move water up the xylem?', b: 'Water vapour lost from the leaves is replaced from the xylem, creating a pull on the water column. Forces of attraction between water molecules hold the column together, so it is drawn up from the roots.' },
-      { n: 8, f: 'Wilting', b: 'Drooping of leaves and soft stems when water loss exceeds water uptake: cells lose water, become flaccid and lose turgor pressure.' },
-      { n: 9, f: 'What does a potometer actually measure?', b: 'Water uptake (distance an air bubble moves in a set time), used as an estimate of water loss by transpiration.' },
-      { n: 10, f: 'Source and sink (translocation)', b: 'Source: a part that produces or releases sucrose and amino acids, e.g. a photosynthesising leaf.\nSink: a part that uses or stores them, e.g. roots, growing tips, fruits, seeds.' },
-      { n: 11, f: 'Position of xylem and phloem in a non-woody dicot root and stem', b: 'Root: xylem in the centre in a star shape, phloem between its arms.\nStem: bundles in a ring; xylem on the inner side, phloem on the outer side of each bundle.' },
-      { n: 12, f: 'Features of xylem vessels and their functions', b: 'Thick lignified walls: strength and support. No cell contents: unobstructed water flow. Joined end to end with no cross walls: a continuous tube. Functions: transport of water and mineral ions, and support.' },
+      { n: 3, f: 'Effects of humidity and light intensity on transpiration', b: 'Higher humidity: slower, because there is a smaller water vapour concentration gradient.\nHigher light intensity: faster, because stomata open wider.' },
+      { n: 4, f: 'Effects of wind speed and temperature on transpiration', b: 'Both increase the rate. Wind removes water vapour near the leaf, keeping the gradient steep. Higher temperature gives more kinetic energy, so faster evaporation and diffusion.' },
+      { n: 5, f: 'How does transpiration pull move water up the xylem?', b: 'Water vapour lost from the leaves is replaced from the xylem, creating a pull on the water column. Forces of attraction between water molecules hold the column together, so it is drawn up from the roots.' },
+      { n: 6, f: 'Wilting', b: 'Drooping of leaves and soft stems when water loss exceeds water uptake: cells lose water, become flaccid and lose turgor pressure.' },
+      { n: 7, f: 'What does a potometer actually measure?', b: 'Water uptake (distance an air bubble moves in a set time), used as an estimate of water loss by transpiration.' },
+      { n: 8, f: 'Source and sink (translocation)', b: 'Source: a part that produces or releases sucrose and amino acids, e.g. a photosynthesising leaf.\nSink: a part that uses or stores them, e.g. roots, growing tips, fruits, seeds.' },
     ]),
 
     // 8 Human nutrition
-    ...topicOnly('human-nutrition', '8', [
+    ...sub('human-nutrition', 'diet', '8.1', [
       { n: 1, f: 'Balanced diet', b: 'A diet with all the nutrients in the correct proportions and enough energy for the person\'s needs (which vary with age, sex, activity and pregnancy).' },
       { n: 2, f: 'Vitamin C and vitamin D: why needed, and deficiency diseases', b: 'Vitamin C: collagen for healthy gums, skin and blood vessels; lack causes scurvy.\nVitamin D: absorbing calcium for bones and teeth; lack causes rickets.' },
       { n: 3, f: 'Calcium and iron: why needed, and deficiency', b: 'Calcium: hard bones and teeth (also clotting, muscle contraction); lack can cause rickets.\nIron: haemoglobin to carry oxygen; lack causes anaemia (tiredness, pale skin).' },
-      { n: 4, f: 'Physical vs chemical digestion', b: 'Physical: breakdown of food into smaller pieces without chemical change, increasing surface area for enzymes.\nChemical: breakdown of large insoluble molecules into small soluble ones that can be absorbed.' },
-      { n: 5, f: 'Peristalsis', b: 'Waves of contraction of the longitudinal and circular muscles of the gut wall that move food through the digestive system.' },
-      { n: 6, f: 'Jobs of incisors, canines, premolars and molars', b: 'Incisors: biting and cutting. Canines: gripping and tearing. Premolars and molars: grinding and crushing.' },
-      { n: 7, f: 'Digestive enzymes: substrate → products', b: 'Amylase: starch → maltose. Maltase: maltose → glucose. Protease (pepsin, trypsin): protein → amino acids. Lipase: lipids → fatty acids and glycerol.' },
-      { n: 8, f: 'Bile: where made, where stored, and what it does', b: 'Made in the liver, stored in the gall bladder. It emulsifies fats into small droplets, increasing the surface area for lipase. This is physical: bile contains no enzyme.' },
-      { n: 9, f: 'Function of hydrochloric acid in the stomach', b: 'It kills ingested bacteria. (The stomach is acidic and pepsin works best at that pH.)' },
-      { n: 10, f: 'Absorption vs assimilation', b: 'Absorption: movement of nutrients from the intestines into the cells lining the gut and then into the blood.\nAssimilation: uptake and use by cells of nutrients from the blood.' },
-      { n: 11, f: 'Features of a villus that help absorption', b: 'Villi and microvilli give a large surface area; epithelium one cell thick gives a short diffusion distance; capillaries absorb glucose and amino acids; the lacteal absorbs fatty acids and glycerol.' },
-      { n: 12, f: 'Where is most water absorbed, and where do absorbed nutrients go?', b: 'Most water is absorbed in the small intestine (some in the colon). The hepatic portal vein carries absorbed molecules from the ileum to the liver.' },
+    ]),
+    ...sub('human-nutrition', 'human-digestive-system', '8.2', [
+      { n: 1, f: 'Physical vs chemical digestion', b: 'Physical: breakdown of food into smaller pieces without chemical change, increasing surface area for enzymes.\nChemical: breakdown of large insoluble molecules into small soluble ones that can be absorbed.' },
+      { n: 2, f: 'Peristalsis', b: 'Waves of contraction of the longitudinal and circular muscles of the gut wall that move food through the digestive system.' },
+      { n: 3, f: 'Jobs of incisors, canines, premolars and molars', b: 'Incisors: biting and cutting. Canines: gripping and tearing. Premolars and molars: grinding and crushing.' },
+      { n: 4, f: 'Digestive enzymes: substrate → products', b: 'Amylase: starch → maltose. Maltase: maltose → glucose. Protease (pepsin, trypsin): protein → amino acids. Lipase: lipids → fatty acids and glycerol.' },
+      { n: 5, f: 'Bile: where made, where stored, and what it does', b: 'Made in the liver, stored in the gall bladder. It emulsifies fats into small droplets, increasing the surface area for lipase. This is physical: bile contains no enzyme.' },
+      { n: 6, f: 'Function of hydrochloric acid in the stomach', b: 'It kills ingested bacteria. (The stomach is acidic and pepsin works best at that pH.)' },
+    ]),
+    ...sub('human-nutrition', 'absorption-and-assimilation', '8.3', [
+      { n: 1, f: 'Absorption vs assimilation', b: 'Absorption: movement of nutrients from the intestines into the cells lining the gut and then into the blood.\nAssimilation: uptake and use by cells of nutrients from the blood.' },
+      { n: 2, f: 'Features of a villus that help absorption', b: 'Villi and microvilli give a large surface area; epithelium one cell thick gives a short diffusion distance; capillaries absorb glucose and amino acids; the lacteal absorbs fatty acids and glycerol.' },
+      { n: 3, f: 'Where is most water absorbed, and where do absorbed nutrients go?', b: 'Most water is absorbed in the small intestine (some in the colon). The hepatic portal vein carries absorbed molecules from the ileum to the liver.' },
     ]),
 
     // 9 Human gas exchange
-    ...topicOnly('human-gas-exchange', '9', [
+    ...sub('human-gas-exchange', 'human-gas-exchange-content', '9.1', [
       { n: 1, f: 'Features of gas exchange surfaces', b: 'Large surface area (more diffusion at once); thin surface (short diffusion distance); good blood supply and good air supply (both keep the concentration gradient steep).' },
       { n: 2, f: 'Route of air into the lungs', b: 'Larynx → trachea → bronchi → bronchioles → alveoli (with associated capillaries).' },
       { n: 3, f: 'Composition of atmospheric air', b: 'Nitrogen about 78%, oxygen 21%, argon and other noble gases about 0.9%, carbon dioxide 0.04%, water vapour variable.' },
@@ -202,37 +249,47 @@ export const DECK_CAMBRIDGE_O_LEVEL_BIOLOGY: FlashcardDeck = {
     ]),
 
     // 10 Respiration
-    ...topicOnly('respiration', '10', [
+    ...sub('respiration', 'respiration-content', '10.1', [
       { n: 1, f: 'Respiration (definition)', b: 'The chemical reactions in all living cells that release energy from glucose.' },
       { n: 2, f: 'Aerobic and anaerobic respiration (definitions)', b: 'Aerobic: the release of a relatively large amount of energy by the breakdown of glucose in the presence of oxygen.\nAnaerobic: the release of a relatively small amount of energy by the breakdown of glucose without using oxygen.' },
-      { n: 3, f: 'Aerobic respiration: word and balanced equations', b: 'glucose + oxygen → carbon dioxide + water\nC₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O' },
-      { n: 4, f: 'Anaerobic respiration in humans and in yeast (word equations)', b: 'Humans (muscles): glucose → lactic acid.\nYeast: glucose → ethanol + carbon dioxide.' },
-      { n: 5, f: 'Seven uses of energy released in respiration', b: 'Muscle contraction, protein synthesis, cell division, active transport, growth, passage of electrical impulses along neurones, maintenance of a constant body temperature.' },
-      { n: 6, f: 'Why does yeast release almost no gas at 60 °C?', b: 'The enzymes that control respiration are denatured, so the reactions stop.' },
-      { n: 7, f: 'Why does lactic acid build up during vigorous exercise?', b: 'Oxygen cannot be supplied fast enough for aerobic respiration alone, so muscles also respire anaerobically and lactic acid builds up in the muscles and blood.' },
-      { n: 8, f: 'Oxygen debt (EPOC)', b: 'The extra oxygen needed after vigorous exercise to break down the lactic acid that built up. EPOC: Excess Post-exercise Oxygen Consumption.' },
-      { n: 9, f: 'How the oxygen debt is removed', b: 'A fast heart rate continues, transporting lactic acid from the muscles to the liver. Deeper and faster breathing continues, supplying oxygen for its breakdown in the liver.' },
-      { n: 10, f: 'Cells (where respiration happens)', b: 'Aerobic respiration happens in the mitochondria; muscle cells have many of them.', src: RESP },
+      { n: 3, f: 'Seven uses of energy released in respiration', b: 'Muscle contraction, protein synthesis, cell division, active transport, growth, passage of electrical impulses along neurones, maintenance of a constant body temperature.' },
+    ]),
+    ...sub('respiration', 'aerobic-respiration', '10.2', [
+      { n: 1, f: 'Aerobic respiration: word and balanced equations', b: 'glucose + oxygen → carbon dioxide + water\nC₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O' },
+      { n: 2, f: 'Cells (where respiration happens)', b: 'Aerobic respiration happens in the mitochondria; muscle cells have many of them.', src: RESP },
+    ]),
+    ...sub('respiration', 'anaerobic-respiration', '10.3', [
+      { n: 1, f: 'Anaerobic respiration in humans and in yeast (word equations)', b: 'Humans (muscles): glucose → lactic acid.\nYeast: glucose → ethanol + carbon dioxide.' },
+      { n: 2, f: 'Why does yeast release almost no gas at 60 °C?', b: 'The enzymes that control respiration are denatured, so the reactions stop.' },
+      { n: 3, f: 'Why does lactic acid build up during vigorous exercise?', b: 'Oxygen cannot be supplied fast enough for aerobic respiration alone, so muscles also respire anaerobically and lactic acid builds up in the muscles and blood.' },
+      { n: 4, f: 'Oxygen debt (EPOC)', b: 'The extra oxygen needed after vigorous exercise to break down the lactic acid that built up. EPOC: Excess Post-exercise Oxygen Consumption.' },
+      { n: 5, f: 'How the oxygen debt is removed', b: 'A fast heart rate continues, transporting lactic acid from the muscles to the liver. Deeper and faster breathing continues, supplying oxygen for its breakdown in the liver.' },
     ]),
 
     // 11 Transport in humans
-    ...topicOnly('transport-in-humans', '11', [
+    ...sub('transport-in-humans', 'circulatory-system', '11.1', [
       { n: 1, f: 'Double circulation', b: 'Blood passes through the heart twice for each complete circuit of the body.' },
       { n: 2, f: 'Pulmonary circuit', b: 'Right ventricle → pulmonary artery → lungs → pulmonary vein → left atrium. Low pressure.', src: TRH },
       { n: 3, f: 'Systemic circuit', b: 'Left ventricle → aorta → body organs → vena cava → right atrium. High pressure.', src: TRH },
-      { n: 4, f: 'Septum', b: 'Separates left and right sides, so oxygenated and deoxygenated blood do not mix.', src: TRH },
-      { n: 5, f: 'Why is the left ventricle wall thicker than the right?', b: 'It pumps blood round the whole body at high pressure; the right ventricle pumps only to the nearby lungs.' },
-      { n: 6, f: 'Valves during one heartbeat', b: 'Ventricles contract: atrioventricular valves close (no backflow to atria) and semilunar valves open. Ventricles relax: semilunar valves close (no backflow to ventricles).' },
-      { n: 7, f: 'Coronary heart disease: cause and risk factors', b: 'A coronary artery is blocked (fatty deposits, clot), so heart muscle is short of oxygen and glucose. Risk factors: diet, sedentary lifestyle, stress, smoking, genetic predisposition, age, gender.' },
-      { n: 8, f: 'Artery vs vein vs capillary', b: 'Artery: high pressure, thick muscular elastic wall, narrow lumen, no valves.\nVein: low pressure, thin wall, wide lumen, valves.\nCapillary: wall one cell thick, short diffusion distance.' },
-      { n: 9, f: 'Hepatic portal vein vs hepatic vein', b: 'Hepatic portal vein: small intestine → liver, rich in absorbed food.\nHepatic vein: liver → vena cava.' },
-      { n: 10, f: 'Functions of the blood components', b: 'Red cells: oxygen transport. Lymphocytes: produce antibodies. Phagocytes: engulf pathogens. Platelets: clotting. Plasma: transports cells, ions, glucose, amino acids, hormones, carbon dioxide, urea, vitamins and plasma proteins.' },
-      { n: 11, f: 'Blood clotting', b: 'Soluble fibrinogen is converted to insoluble fibrin threads, forming a clot that stops blood loss and the entry of pathogens.' },
-      { n: 12, f: 'Tissue fluid', b: 'Fluid from plasma that is forced out of capillaries and bathes the cells. Oxygen, glucose and amino acids pass to the cells; carbon dioxide and urea pass back. Much of it returns to the capillaries.' },
+    ]),
+    ...sub('transport-in-humans', 'heart', '11.2', [
+      { n: 1, f: 'Septum', b: 'Separates left and right sides, so oxygenated and deoxygenated blood do not mix.', src: TRH },
+      { n: 2, f: 'Why is the left ventricle wall thicker than the right?', b: 'It pumps blood round the whole body at high pressure; the right ventricle pumps only to the nearby lungs.' },
+      { n: 3, f: 'Valves during one heartbeat', b: 'Ventricles contract: atrioventricular valves close (no backflow to atria) and semilunar valves open. Ventricles relax: semilunar valves close (no backflow to ventricles).' },
+      { n: 4, f: 'Coronary heart disease: cause and risk factors', b: 'A coronary artery is blocked (fatty deposits, clot), so heart muscle is short of oxygen and glucose. Risk factors: diet, sedentary lifestyle, stress, smoking, genetic predisposition, age, gender.' },
+    ]),
+    ...sub('transport-in-humans', 'blood-vessels', '11.3', [
+      { n: 1, f: 'Artery vs vein vs capillary', b: 'Artery: high pressure, thick muscular elastic wall, narrow lumen, no valves.\nVein: low pressure, thin wall, wide lumen, valves.\nCapillary: wall one cell thick, short diffusion distance.' },
+      { n: 2, f: 'Hepatic portal vein vs hepatic vein', b: 'Hepatic portal vein: small intestine → liver, rich in absorbed food.\nHepatic vein: liver → vena cava.' },
+    ]),
+    ...sub('transport-in-humans', 'blood', '11.4', [
+      { n: 1, f: 'Functions of the blood components', b: 'Red cells: oxygen transport. Lymphocytes: produce antibodies. Phagocytes: engulf pathogens. Platelets: clotting. Plasma: transports cells, ions, glucose, amino acids, hormones, carbon dioxide, urea, vitamins and plasma proteins.' },
+      { n: 2, f: 'Blood clotting', b: 'Soluble fibrinogen is converted to insoluble fibrin threads, forming a clot that stops blood loss and the entry of pathogens.' },
+      { n: 3, f: 'Tissue fluid', b: 'Fluid from plasma that is forced out of capillaries and bathes the cells. Oxygen, glucose and amino acids pass to the cells; carbon dioxide and urea pass back. Much of it returns to the capillaries.' },
     ]),
 
     // 12 Disease and immunity
-    ...topicOnly('disease-and-immunity', '12', [
+    ...sub('disease-and-immunity', 'disease', '12.1', [
       { n: 1, f: 'Pathogen and transmissible disease (O Level)', b: 'Pathogen: a disease-causing organism.\nTransmissible disease: a disease in which the pathogen can be passed from one host to another.' },
       { n: 2, f: 'Direct contact (transmission)', b: 'Blood or other body fluids.', src: DIS },
       { n: 3, f: 'Indirect (transmission)', b: 'Contaminated surfaces or food, animals, the air.', src: DIS },
@@ -240,44 +297,60 @@ export const DECK_CAMBRIDGE_O_LEVEL_BIOLOGY: FlashcardDeck = {
       { n: 5, f: 'HIV: transmission', b: 'Unprotected sex, shared needles, infected blood transfusion, mother to baby (pregnancy, birth, breast milk).', src: DIS },
       { n: 6, f: 'How the cholera bacterium causes dehydration', b: 'Its toxin causes chloride ions to be secreted into the small intestine; the water potential of the gut contents falls; water moves into the gut by osmosis; diarrhoea causes dehydration and loss of ions.' },
       { n: 7, f: 'Effects of nicotine, tar and carbon monoxide in tobacco smoke', b: 'Nicotine: addictive; raises heart rate and blood pressure.\nTar: carcinogens; stops cilia working.\nCarbon monoxide: combines with haemoglobin, so less oxygen is carried.' },
-      { n: 8, f: 'Antibiotics and resistance', b: 'Antibiotics kill bacteria but do not affect viruses. Resistant bacteria (e.g. MRSA) survive and reproduce; resistance is minimised by using antibiotics only when essential.' },
-      { n: 9, f: 'Active vs passive immunity', b: 'Active: defence by antibody production in the body; memory cells, long-term.\nPassive: short-term defence by antibodies acquired from another individual (across the placenta, in breast milk); no memory cells.' },
-      { n: 10, f: 'How vaccination gives long-term immunity', b: 'Weakened pathogens or their antigens are given. The antigens stimulate lymphocytes to produce antibodies, and memory cells are produced, giving long-term immunity.' },
-      { n: 11, f: 'How antibodies destroy pathogens', b: 'Antibodies with a shape complementary to the pathogen\'s antigens bind to them. This directly destroys the pathogen or marks it for destruction by phagocytes.' },
-      { n: 12, f: 'Effect of HIV on the immune system', b: 'It reduces the number of lymphocytes, so fewer antibodies are produced and the immune system is weakened.' },
+    ]),
+    ...sub('disease-and-immunity', 'antibiotics', '12.2', [
+      { n: 1, f: 'Antibiotics and resistance', b: 'Antibiotics kill bacteria but do not affect viruses. Resistant bacteria (e.g. MRSA) survive and reproduce; resistance is minimised by using antibiotics only when essential.' },
+    ]),
+    ...sub('disease-and-immunity', 'immunity', '12.3', [
+      { n: 1, f: 'Active vs passive immunity', b: 'Active: defence by antibody production in the body; memory cells, long-term.\nPassive: short-term defence by antibodies acquired from another individual (across the placenta, in breast milk); no memory cells.' },
+      { n: 2, f: 'How vaccination gives long-term immunity', b: 'Weakened pathogens or their antigens are given. The antigens stimulate lymphocytes to produce antibodies, and memory cells are produced, giving long-term immunity.' },
+      { n: 3, f: 'How antibodies destroy pathogens', b: 'Antibodies with a shape complementary to the pathogen\'s antigens bind to them. This directly destroys the pathogen or marks it for destruction by phagocytes.' },
+      { n: 4, f: 'Effect of HIV on the immune system', b: 'It reduces the number of lymphocytes, so fewer antibodies are produced and the immune system is weakened.' },
     ]),
 
     // 13 Excretion
-    ...topicOnly('excretion', '13', [
+    ...sub('excretion', 'excretion-content', '13.1', [
       { n: 1, f: 'Excretion (O Level definition)', b: 'The removal of toxic materials and the waste products of metabolism from organisms.' },
       { n: 2, f: 'Excretory products: where they are made and how they are excreted', b: 'Carbon dioxide: made by respiration in every cell; excreted by the lungs.\nUrea: made in the liver by deamination; excreted by the kidneys in urine (with excess salts and water).' },
       { n: 3, f: 'Deamination', b: 'Removal of the nitrogen-containing part of excess amino acids, in the liver, forming urea.' },
       { n: 4, f: 'Why must urea be excreted? (O Level)', b: 'Urea is toxic. The liver keeps making it, so without excretion its concentration in the blood would rise and damage cells.' },
-      { n: 5, f: 'Kidney, ureter, bladder and urethra: number and function', b: 'Kidneys (2): remove urea, excess salts and water as urine. Ureters (2): kidney to bladder. Bladder (1): stores urine. Urethra (1): bladder to outside.' },
-      { n: 6, f: 'Route of fluid through a nephron', b: "Bowman's capsule → first coiled tubule → loop of Henle → second coiled tubule → collecting duct → ureter. The glomerulus is the knot of capillaries inside the capsule." },
-      { n: 7, f: 'What happens in the nephron (outline)', b: "Filtration at the glomerulus: water, glucose, urea and ions enter the Bowman's capsule; blood cells and large proteins stay in the blood. Reabsorption: all the glucose, some ions and most water return to the blood. Urea, excess water and ions form urine." },
-      { n: 8, f: 'Why is urea more concentrated in urine than in plasma?', b: 'Urea is filtered but not reabsorbed, while most of the water is reabsorbed, so the urea is left in a much smaller volume of water.' },
-      { n: 9, f: 'What happens to amino acids absorbed from the small intestine?', b: 'They reach the liver in the hepatic portal vein. Those needed are assimilated into proteins (e.g. plasma proteins); the excess cannot be stored, so they are deaminated.' },
+      { n: 5, f: 'What happens to amino acids absorbed from the small intestine?', b: 'They reach the liver in the hepatic portal vein. Those needed are assimilated into proteins (e.g. plasma proteins); the excess cannot be stored, so they are deaminated.' },
+    ]),
+    ...sub('excretion', 'urinary-system', '13.2', [
+      { n: 1, f: 'Kidney, ureter, bladder and urethra: number and function', b: 'Kidneys (2): remove urea, excess salts and water as urine. Ureters (2): kidney to bladder. Bladder (1): stores urine. Urethra (1): bladder to outside.' },
+      { n: 2, f: 'Route of fluid through a nephron', b: "Bowman's capsule → first coiled tubule → loop of Henle → second coiled tubule → collecting duct → ureter. The glomerulus is the knot of capillaries inside the capsule." },
+      { n: 3, f: 'What happens in the nephron (outline)', b: "Filtration at the glomerulus: water, glucose, urea and ions enter the Bowman's capsule; blood cells and large proteins stay in the blood. Reabsorption: all the glucose, some ions and most water return to the blood. Urea, excess water and ions form urine." },
+      { n: 4, f: 'Why is urea more concentrated in urine than in plasma?', b: 'Urea is filtered but not reabsorbed, while most of the water is reabsorbed, so the urea is left in a much smaller volume of water.' },
     ]),
 
     // 14 Coordination and control
-    ...topicOnly('coordination-and-control', '14', [
+    ...sub('coordination-and-control', 'mammalian-nervous-system', '14.1', [
       { n: 1, f: 'Reflex arc (O Level)', b: 'Receptor → sensory neurone → relay neurone → motor neurone → effector (muscle or gland). A reflex action is a rapid and automatic response to a stimulus.' },
       { n: 2, f: 'Events at a synapse (O Level)', b: 'An impulse arrives; neurotransmitter is released from vesicles into the gap; it diffuses across and binds with receptor proteins on the next neurone; an impulse is stimulated there. One way only: vesicles on one side, receptors on the other.' },
-      { n: 3, f: 'Functions of the cornea, lens, retina and fovea', b: 'Cornea: refracts light. Lens: focuses light onto the retina. Retina: light receptors, some sensitive to different colours. Fovea: greatest density of light receptors.' },
-      { n: 4, f: 'Pupil reflex in bright light', b: 'Circular muscles of the iris contract and radial muscles relax, so the pupil constricts and less light enters. (In dim light the reverse: radial contract, pupil dilates.)' },
-      { n: 5, f: 'Accommodation: focusing on a near object', b: 'Ciliary muscles contract, suspensory ligaments slacken, the lens becomes fatter and refracts light more. For a distant object: muscles relax, ligaments taut, lens thinner.' },
-      { n: 6, f: 'Hormones from the pituitary, pancreas and adrenal glands', b: 'Pituitary: FSH and LH. Pancreas: insulin and glucagon. Adrenal glands: adrenaline.' },
-      { n: 7, f: 'Effects of adrenaline', b: 'Released in fear, stress or excitement. It raises the blood glucose concentration and the heart rate, so more glucose and oxygen reach the muscles for respiration.' },
-      { n: 8, f: 'Negative feedback (O Level)', b: 'A change away from the set point triggers a response that returns the value towards the set point.' },
-      { n: 9, f: 'Responses to overheating (O Level)', b: 'Sweating: water evaporates, transferring heat away. Hair erector muscles relax, hairs lie flat. Vasodilation: skin arterioles widen, so more heat is lost by radiation. Coordinated by the hypothalamus.' },
-      { n: 10, f: 'Responses to getting too cold (O Level)', b: 'Shivering: respiration in contracting muscles releases heat. Hair erector muscles contract, hairs trap air. Vasoconstriction: skin arterioles narrow, so less heat is lost.' },
-      { n: 11, f: 'How blood glucose concentration is controlled', b: 'High: pancreas secretes insulin; the liver converts glucose to glycogen; level falls.\nLow: pancreas secretes glucagon; the liver converts glycogen to glucose; level rises.' },
-      { n: 12, f: 'Type 1 diabetes: signs and treatment', b: 'Signs: increased blood glucose concentration and glucose in the urine. Treatment: administration of insulin.' },
+    ]),
+    ...sub('coordination-and-control', 'mammalian-sense-organs', '14.2', [
+      { n: 1, f: 'Functions of the cornea, lens, retina and fovea', b: 'Cornea: refracts light. Lens: focuses light onto the retina. Retina: light receptors, some sensitive to different colours. Fovea: greatest density of light receptors.' },
+      { n: 2, f: 'Pupil reflex in bright light', b: 'Circular muscles of the iris contract and radial muscles relax, so the pupil constricts and less light enters. (In dim light the reverse: radial contract, pupil dilates.)' },
+      { n: 3, f: 'Accommodation: focusing on a near object', b: 'Ciliary muscles contract, suspensory ligaments slacken, the lens becomes fatter and refracts light more. For a distant object: muscles relax, ligaments taut, lens thinner.' },
+    ]),
+    ...sub('coordination-and-control', 'mammalian-hormones', '14.3', [
+      { n: 1, f: 'Hormones from the pituitary, pancreas and adrenal glands', b: 'Pituitary: FSH and LH. Pancreas: insulin and glucagon. Adrenal glands: adrenaline.' },
+      { n: 2, f: 'Effects of adrenaline', b: 'Released in fear, stress or excitement. It raises the blood glucose concentration and the heart rate, so more glucose and oxygen reach the muscles for respiration.' },
+    ]),
+    ...sub('coordination-and-control', 'homeostasis', '14.4', [
+      { n: 1, f: 'Negative feedback (O Level)', b: 'A change away from the set point triggers a response that returns the value towards the set point.' },
+    ]),
+    ...sub('coordination-and-control', 'temperature-control', '14.5', [
+      { n: 1, f: 'Responses to overheating (O Level)', b: 'Sweating: water evaporates, transferring heat away. Hair erector muscles relax, hairs lie flat. Vasodilation: skin arterioles widen, so more heat is lost by radiation. Coordinated by the hypothalamus.' },
+      { n: 2, f: 'Responses to getting too cold (O Level)', b: 'Shivering: respiration in contracting muscles releases heat. Hair erector muscles contract, hairs trap air. Vasoconstriction: skin arterioles narrow, so less heat is lost.' },
+    ]),
+    ...sub('coordination-and-control', 'blood-glucose-control', '14.6', [
+      { n: 1, f: 'How blood glucose concentration is controlled', b: 'High: pancreas secretes insulin; the liver converts glucose to glycogen; level falls.\nLow: pancreas secretes glucagon; the liver converts glycogen to glucose; level rises.' },
+      { n: 2, f: 'Type 1 diabetes: signs and treatment', b: 'Signs: increased blood glucose concentration and glucose in the urine. Treatment: administration of insulin.' },
     ]),
 
     // 15 Coordination and response in plants
-    ...topicOnly('coordination-and-response-in-plants', '15', [
+    ...sub('coordination-and-response-in-plants', 'coordination-and-response-in-plants-content', '15.1', [
       { n: 1, f: 'Phototropism and gravitropism (O Level)', b: 'Phototropism: a response in which parts of a plant grow towards or away from light.\nGravitropism: a response in which parts of a plant grow towards or away from gravity.' },
       { n: 2, f: 'Responses of shoots and roots to gravity and light', b: 'Shoot: away from gravity (negatively gravitropic), towards light (positively phototropic).\nRoot: towards gravity (positively gravitropic).' },
       { n: 3, f: 'The four syllabus points about auxin', b: 'Made in the shoot tip; spreads through the plant from the shoot tip; unequally distributed in response to light and gravity; stimulates cell elongation.' },
@@ -289,65 +362,87 @@ export const DECK_CAMBRIDGE_O_LEVEL_BIOLOGY: FlashcardDeck = {
     ]),
 
     // 16 Development of organisms and continuity of life
-    ...topicOnly('development-of-organisms-and-continuity-of-life', '16', [
+    ...sub('development-of-organisms-and-continuity-of-life', 'nuclear-division', '16.1', [
       { n: 1, f: 'Mitosis v meiosis', b: 'Same number and identical v halved and different.', src: DEV },
       { n: 2, f: 'Roles of mitosis and of meiosis', b: 'Mitosis: growth, repair, replacing dying cells, asexual reproduction.\nMeiosis: making gametes.' },
       { n: 3, f: 'Stem cells', b: 'Unspecialised cells that divide by mitosis to give daughter cells that can become specialised.', src: DEV },
       { n: 4, f: 'Diploid nucleus', b: 'Two sets of chromosomes; a pair of each type. Human diploid cells: 23 pairs.', src: DEV },
-      { n: 5, f: 'Asexual vs sexual reproduction: one advantage of each', b: 'Asexual: no mate or pollinator needed; fast; good features kept.\nSexual: variation, so the population can respond to environmental change.' },
-      { n: 6, f: 'Pollination v fertilisation', b: 'Moving pollen v fusing nuclei.', src: DEV },
-      { n: 7, f: 'Insect- vs wind-pollinated flowers (O Level)', b: 'Insect: large coloured scented petals, nectar; anthers and sticky stigma inside; larger sticky or spiky pollen.\nWind: small dull petals; anthers on long filaments and feathery stigmas outside; small light smooth pollen in huge amounts.' },
-      { n: 8, f: 'From pollen to seed', b: 'Pollen lands on the stigma; a pollen tube grows down the style and enters an ovule through the micropyle; the male nucleus fuses with the female nucleus. The ovule becomes the seed; the ovary becomes the fruit.' },
-      { n: 9, f: 'Germination: conditions and what water does', b: 'Water, oxygen and a suitable temperature (not light). Water activates enzymes: amylase breaks starch to maltose and proteases break protein to amino acids, for respiration and growth of the embryo.' },
-      { n: 10, f: 'Sperm', b: 'Flagellum (swims); mitochondria (energy for swimming); acrosome enzymes (digest jelly coat).', src: DEV },
-      { n: 11, f: 'Menstrual cycle hormones: FSH, LH, oestrogen and progesterone', b: 'FSH (pituitary): egg develops; ovary makes oestrogen. Oestrogen: rebuilds lining; inhibits FSH; triggers LH. LH (pituitary): ovulation. Progesterone (empty follicle): keeps lining thick; inhibits FSH and LH.' },
-      { n: 12, f: 'Placenta', b: 'O₂ and dissolved nutrients to fetus; CO₂ and urea to mother. Bloods do not mix.', src: DEV },
+    ]),
+    ...sub('development-of-organisms-and-continuity-of-life', 'asexual-and-sexual-reproduction', '16.2', [
+      { n: 1, f: 'Asexual vs sexual reproduction: one advantage of each', b: 'Asexual: no mate or pollinator needed; fast; good features kept.\nSexual: variation, so the population can respond to environmental change.' },
+    ]),
+    ...sub('development-of-organisms-and-continuity-of-life', 'sexual-reproduction-in-plants', '16.3', [
+      { n: 1, f: 'Pollination v fertilisation', b: 'Moving pollen v fusing nuclei.', src: DEV },
+      { n: 2, f: 'Insect- vs wind-pollinated flowers (O Level)', b: 'Insect: large coloured scented petals, nectar; anthers and sticky stigma inside; larger sticky or spiky pollen.\nWind: small dull petals; anthers on long filaments and feathery stigmas outside; small light smooth pollen in huge amounts.' },
+      { n: 3, f: 'From pollen to seed', b: 'Pollen lands on the stigma; a pollen tube grows down the style and enters an ovule through the micropyle; the male nucleus fuses with the female nucleus. The ovule becomes the seed; the ovary becomes the fruit.' },
+      { n: 4, f: 'Germination: conditions and what water does', b: 'Water, oxygen and a suitable temperature (not light). Water activates enzymes: amylase breaks starch to maltose and proteases break protein to amino acids, for respiration and growth of the embryo.' },
+    ]),
+    ...sub('development-of-organisms-and-continuity-of-life', 'sexual-reproduction-in-humans', '16.4', [
+      { n: 1, f: 'Sperm', b: 'Flagellum (swims); mitochondria (energy for swimming); acrosome enzymes (digest jelly coat).', src: DEV },
+      { n: 2, f: 'Menstrual cycle hormones: FSH, LH, oestrogen and progesterone', b: 'FSH (pituitary): egg develops; ovary makes oestrogen. Oestrogen: rebuilds lining; inhibits FSH; triggers LH. LH (pituitary): ovulation. Progesterone (empty follicle): keeps lining thick; inhibits FSH and LH.' },
+      { n: 3, f: 'Placenta', b: 'O₂ and dissolved nutrients to fetus; CO₂ and urea to mother. Bloods do not mix.', src: DEV },
     ]),
 
     // 17 Inheritance
-    ...topicOnly('inheritance', '17', [
+    ...sub('inheritance', 'variation', '17.1', [
       { n: 1, f: 'Continuous v discontinuous', b: 'Range v categories; genes and environment v genes only.', src: INH },
-      { n: 2, f: 'Structure of DNA (O Level)', b: 'Two strands coiled into a double helix. Each strand is a chain of nucleotides, each with a base (A, T, C or G). Bonds between pairs of bases hold the strands together: A with T, C with G.' },
-      { n: 3, f: 'In a DNA molecule 18% of bases are G. What percentage are A?', b: 'C = 18%, so A + T = 100 − 36 = 64%, and A = 32%.' },
-      { n: 4, f: 'How does DNA control the cell?', b: 'A gene is a length of DNA that codes for a protein. Its base sequence sets the amino acid sequence, which sets the protein\'s shape and function. DNA controls cell function by controlling protein production, including enzymes.' },
-      { n: 5, f: 'Allele', b: 'An alternative form of a gene.', src: INH },
-      { n: 6, f: 'Codominance', b: 'Both alleles in a heterozygote are expressed in the phenotype.', src: INH },
-      { n: 7, f: 'Phenotypic ratios from Tt × Tt and Tt × tt', b: 'Tt × Tt: 1 TT : 2 Tt : 1 tt, so 3 dominant : 1 recessive.\nTt × tt: 1 Tt : 1 tt, so 1 dominant : 1 recessive.' },
-      { n: 8, f: 'Why do observed ratios often differ from expected ones?', b: 'Fertilisation is random, so a ratio is a probability. Small numbers of offspring often give ratios far from 3 : 1 or 1 : 1; larger samples come closer.' },
-      { n: 9, f: 'ABO blood group genotypes', b: 'A: IᴬIᴬ or IᴬIᵒ. B: IᴮIᴮ or IᴮIᵒ. AB: IᴬIᴮ. O: IᵒIᵒ. Iᴬ and Iᴮ are codominant; Iᵒ is recessive to both.' },
-      { n: 10, f: 'Gene mutation v chromosome mutation', b: 'Base sequence v chromosome number or structure.', src: INH },
-      { n: 11, f: 'Sickle cell anaemia and Down\'s syndrome', b: "Sickle cell anaemia: a gene mutation in the haemoglobin gene changes the amino acid sequence and the haemoglobin shape.\nDown's syndrome: a chromosome mutation, 47 chromosomes instead of 46." },
-      { n: 12, f: 'Natural v artificial selection', b: 'Environment selects v humans select.', src: INH },
+      { n: 2, f: 'Gene mutation v chromosome mutation', b: 'Base sequence v chromosome number or structure.', src: INH },
+      { n: 3, f: 'Sickle cell anaemia and Down\'s syndrome', b: "Sickle cell anaemia: a gene mutation in the haemoglobin gene changes the amino acid sequence and the haemoglobin shape.\nDown's syndrome: a chromosome mutation, 47 chromosomes instead of 46." },
+    ]),
+    ...sub('inheritance', 'dna', '17.2', [
+      { n: 1, f: 'Structure of DNA (O Level)', b: 'Two strands coiled into a double helix. Each strand is a chain of nucleotides, each with a base (A, T, C or G). Bonds between pairs of bases hold the strands together: A with T, C with G.' },
+      { n: 2, f: 'In a DNA molecule 18% of bases are G. What percentage are A?', b: 'C = 18%, so A + T = 100 − 36 = 64%, and A = 32%.' },
+      { n: 3, f: 'How does DNA control the cell?', b: 'A gene is a length of DNA that codes for a protein. Its base sequence sets the amino acid sequence, which sets the protein\'s shape and function. DNA controls cell function by controlling protein production, including enzymes.' },
+    ]),
+    ...sub('inheritance', 'inheritance-content', '17.3', [
+      { n: 1, f: 'Allele', b: 'An alternative form of a gene.', src: INH },
+      { n: 2, f: 'Codominance', b: 'Both alleles in a heterozygote are expressed in the phenotype.', src: INH },
+      { n: 3, f: 'Phenotypic ratios from Tt × Tt and Tt × tt', b: 'Tt × Tt: 1 TT : 2 Tt : 1 tt, so 3 dominant : 1 recessive.\nTt × tt: 1 Tt : 1 tt, so 1 dominant : 1 recessive.' },
+      { n: 4, f: 'Why do observed ratios often differ from expected ones?', b: 'Fertilisation is random, so a ratio is a probability. Small numbers of offspring often give ratios far from 3 : 1 or 1 : 1; larger samples come closer.' },
+      { n: 5, f: 'ABO blood group genotypes', b: 'A: IᴬIᴬ or IᴬIᵒ. B: IᴮIᴮ or IᴮIᵒ. AB: IᴬIᴮ. O: IᵒIᵒ. Iᴬ and Iᴮ are codominant; Iᵒ is recessive to both.' },
+    ]),
+    ...sub('inheritance', 'selection', '17.4', [
+      { n: 1, f: 'Natural v artificial selection', b: 'Environment selects v humans select.', src: INH },
     ]),
 
     // 18 Biotechnology and genetic modification
-    ...topicOnly('biotechnology-and-genetic-modification', '18', [
+    ...sub('biotechnology-and-genetic-modification', 'biotechnology', '18.1', [
       { n: 1, f: 'Biotechnology (O Level)', b: 'Using living organisms, or their enzymes, to make useful products.' },
       { n: 2, f: 'Yeast in bread vs ethanol production', b: 'Both use anaerobic respiration: glucose → ethanol + carbon dioxide. Bread uses the carbon dioxide (bubbles make dough rise; most ethanol evaporates in baking). Ethanol production uses the ethanol, for drinks or fuel.' },
       { n: 3, f: 'Four reasons bacteria are useful in biotechnology', b: 'Rapid reproduction rate; they make complex molecules (e.g. human insulin); no ethical concerns over their manipulation and growth; plasmids, into which a gene can be inserted.' },
       { n: 4, f: 'A bacterium divides every 20 minutes. How many cells from one cell in 80 minutes?', b: '80 ÷ 20 = 4 divisions; 2⁴ = 16 cells.' },
       { n: 5, f: 'Five conditions controlled in a fermenter', b: 'Temperature (cooling water jacket: respiration releases heat), pH (probe, add acid or alkali), oxygen (sterile air, paddles), nutrient supply, and removal of waste products.' },
       { n: 6, f: 'Enzymes in washing powder, fruit juice and lactose-free milk', b: 'Washing powder: proteases and lipases digest stains at lower temperatures.\nFruit juice: pectinase breaks down pectin in cell walls, giving more and clearer juice.\nLactase: lactose → glucose + galactose.' },
-      { n: 7, f: 'Genetic modification (O Level)', b: 'Changing the genetic material of an organism by removing, changing or inserting individual genes.' },
-      { n: 8, f: 'How GM bacteria produce human insulin', b: 'The gene for human insulin is inserted into bacterial DNA. The bacteria multiply in fermenters and make human insulin, which is extracted for people with diabetes.' },
-      { n: 9, f: 'Three reasons genes are inserted into crop plants', b: 'Resistance to herbicides, resistance to insect pests, and additional vitamins (e.g. Golden Rice makes beta-carotene, converted to vitamin A).' },
-      { n: 10, f: 'Advantages and risks of GM crops', b: 'Advantages: higher yields, less insecticide used, more nutritious crops.\nRisks: genes spread to wild relatives by pollen, pests become resistant to the toxin, non-pest insects harmed, seed costs for farmers.' },
+    ]),
+    ...sub('biotechnology-and-genetic-modification', 'genetic-modification', '18.2', [
+      { n: 1, f: 'Genetic modification (O Level)', b: 'Changing the genetic material of an organism by removing, changing or inserting individual genes.' },
+      { n: 2, f: 'How GM bacteria produce human insulin', b: 'The gene for human insulin is inserted into bacterial DNA. The bacteria multiply in fermenters and make human insulin, which is extracted for people with diabetes.' },
+      { n: 3, f: 'Three reasons genes are inserted into crop plants', b: 'Resistance to herbicides, resistance to insect pests, and additional vitamins (e.g. Golden Rice makes beta-carotene, converted to vitamin A).' },
+      { n: 4, f: 'Advantages and risks of GM crops', b: 'Advantages: higher yields, less insecticide used, more nutritious crops.\nRisks: genes spread to wild relatives by pollen, pests become resistant to the toxin, non-pest insects harmed, seed costs for farmers.' },
     ]),
 
     // 19 Relationships of organisms with one another and with the environment
-    ...topicOnly('relationships-of-organisms-with-one-another-and-with-the-environment', '19', [
+    ...sub('relationships-of-organisms-with-one-another-and-with-the-environment', 'energy-flow', '19.1', [
       { n: 1, f: 'Energy flow through an ecosystem (O Level)', b: 'The Sun is the principal energy source. Photosynthesis brings light energy into food chains as chemical energy. Energy flows one way and is eventually transferred to the environment as heat; it is not recycled.' },
       { n: 2, f: 'Producer, consumer and decomposer (O Level)', b: 'Producer: makes its own organic nutrients, usually by photosynthesis. Consumer: gets energy by feeding on other organisms. Decomposer: gets energy from dead or waste organic material.' },
       { n: 3, f: 'Reasons energy is lost between trophic levels', b: 'Parts not eaten; parts eaten but not digested (faeces); energy released in respiration and lost as heat; energy used for movement; some lost in excretory products.' },
       { n: 4, f: 'Wheat contains 1500 kJ and mice eating it 120 kJ. Efficiency of transfer?', b: '120 ÷ 1500 × 100 = 8%.' },
       { n: 5, f: 'Pyramids of numbers, biomass and energy: can they be inverted?', b: 'Numbers: yes (one tree, many insects). Biomass: rarely. Energy: never, because energy is lost at every transfer.' },
-      { n: 6, f: 'Carbon cycle processes that add carbon dioxide to the air', b: 'Respiration (by plants, animals and decomposers), decomposition and combustion of fossil fuels and wood. Photosynthesis removes it.' },
-      { n: 7, f: 'Nitrogen fixation, nitrification and denitrification', b: 'Fixation: nitrogen gas → compounds plants can use (lightning or nitrogen-fixing bacteria).\nNitrification: ammonium ions → nitrate ions (nitrifying bacteria).\nDenitrification: nitrate ions → nitrogen gas (denitrifying bacteria).' },
-      { n: 8, f: 'Population, community, ecosystem and biodiversity', b: 'Population: one species, same area, same time. Community: all the populations of different species in an ecosystem. Ecosystem: the community and its environment interacting. Biodiversity: the number of different species in an area.' },
-      { n: 9, f: 'Non-native species', b: 'No natural predators or diseases; spreads fast; out-competes or eats native species.', src: REL },
-      { n: 10, f: 'Eutrophication chain (O Level)', b: 'More nitrate and other ions → more growth of producers → more decomposition when they die → more aerobic respiration by decomposers → less dissolved oxygen → organisms that need dissolved oxygen die.' },
-      { n: 11, f: 'Sustainable resource', b: 'One produced as rapidly as it is removed from the environment, so that it does not run out.', src: REL },
-      { n: 12, f: 'Fish stocks', b: 'Education, closed seasons, protected areas, controlled net types and mesh size, quotas, monitoring.', src: REL },
+    ]),
+    ...sub('relationships-of-organisms-with-one-another-and-with-the-environment', 'nutrient-cycles', '19.2', [
+      { n: 1, f: 'Carbon cycle processes that add carbon dioxide to the air', b: 'Respiration (by plants, animals and decomposers), decomposition and combustion of fossil fuels and wood. Photosynthesis removes it.' },
+      { n: 2, f: 'Nitrogen fixation, nitrification and denitrification', b: 'Fixation: nitrogen gas → compounds plants can use (lightning or nitrogen-fixing bacteria).\nNitrification: ammonium ions → nitrate ions (nitrifying bacteria).\nDenitrification: nitrate ions → nitrogen gas (denitrifying bacteria).' },
+    ]),
+    ...sub('relationships-of-organisms-with-one-another-and-with-the-environment', 'ecosystems-and-biodiversity', '19.3', [
+      { n: 1, f: 'Population, community, ecosystem and biodiversity', b: 'Population: one species, same area, same time. Community: all the populations of different species in an ecosystem. Ecosystem: the community and its environment interacting. Biodiversity: the number of different species in an area.' },
+    ]),
+    ...sub('relationships-of-organisms-with-one-another-and-with-the-environment', 'effects-of-humans-on-ecosystems', '19.4', [
+      { n: 1, f: 'Non-native species', b: 'No natural predators or diseases; spreads fast; out-competes or eats native species.', src: REL },
+      { n: 2, f: 'Eutrophication chain (O Level)', b: 'More nitrate and other ions → more growth of producers → more decomposition when they die → more aerobic respiration by decomposers → less dissolved oxygen → organisms that need dissolved oxygen die.' },
+    ]),
+    ...sub('relationships-of-organisms-with-one-another-and-with-the-environment', 'conservation', '19.5', [
+      { n: 1, f: 'Sustainable resource', b: 'One produced as rapidly as it is removed from the environment, so that it does not run out.', src: REL },
+      { n: 2, f: 'Fish stocks', b: 'Education, closed seasons, protected areas, controlled net types and mesh size, quotas, monitoring.', src: REL },
     ]),
   ],
 };

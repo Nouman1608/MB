@@ -14,6 +14,7 @@ order: 257
 syllabusTopics:
   - qualification: "a-level"
     topic: "populations-and-genes-oxfordaqa-alevel-biology"
+    subtopic: "the-effect-of-biotic-and-abiotic-factors-on-populations-oxfordaqa-alevel-biology"
 description: "Niche, abiotic and biotic effects on population size, correlation versus causation, succession and required practical 9, with worked examples."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

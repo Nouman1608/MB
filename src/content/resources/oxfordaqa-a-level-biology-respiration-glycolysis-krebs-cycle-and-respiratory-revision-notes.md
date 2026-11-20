@@ -14,6 +14,9 @@ order: 259
 syllabusTopics:
   - qualification: "a-level"
     topic: "populations-and-genes-oxfordaqa-alevel-biology"
+  - qualification: "a-level"
+    topic: "populations-and-genes-oxfordaqa-alevel-biology"
+    subtopic: "respiration-oxfordaqa-alevel-biology"
 description: "Condensed revision notes on glycolysis, fermentation, the Krebs cycle, ATP synthase, RQ and required practical 8 for OxfordAQA A-level Biology 9610."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

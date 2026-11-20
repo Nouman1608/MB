@@ -13,6 +13,12 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "business-in-the-real-world-oxfordaqa-igcse-business"
+  - qualification: "igcse"
+    topic: "business-in-the-real-world-oxfordaqa-igcse-business"
+    subtopic: "business-ownership-oxfordaqa-igcse-business"
+  - qualification: "igcse"
+    topic: "business-in-the-real-world-oxfordaqa-igcse-business"
+    subtopic: "expanding-a-business-oxfordaqa-igcse-business"
 description: "Condensed recall notes on business purpose, ownership, stakeholders, location and growth for OxfordAQA International GCSE Business 9225."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

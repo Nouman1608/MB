@@ -10,6 +10,12 @@ qualifications: ["o-level"]
 syllabusTopics:
   - qualification: "o-level"
     topic: "relationships-of-organisms-with-one-another-and-with-the-environment"
+  - qualification: "o-level"
+    topic: "relationships-of-organisms-with-one-another-and-with-the-environment"
+    subtopic: "effects-of-humans-on-ecosystems"
+  - qualification: "o-level"
+    topic: "relationships-of-organisms-with-one-another-and-with-the-environment"
+    subtopic: "conservation"
 syllabusCodes: ["5090"]
 syllabusSeries: "2026-2028"
 order: 19

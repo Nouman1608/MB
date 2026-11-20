@@ -12,6 +12,7 @@ order: 1.2
 syllabusTopics:
   - qualification: "igcse"
     topic: "living-with-physical-environment-9230"
+    subtopic: "ecosystems-9230"
 description: "Condensed ecosystem notes for OxfordAQA IGCSE Geography 9230: pond example, food webs, nutrient cycling, chains of change and the world's main biomes."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

@@ -12,6 +12,7 @@ order: 3.1
 syllabusTopics:
   - qualification: "igcse"
     topic: "geographical-fieldwork-skills-9230"
+    subtopic: "cartographic-skills-9230"
 description: "How to read ground, aerial and satellite photographs, match them to maps, and draw labelled and annotated field sketches and sketch maps for 9230."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

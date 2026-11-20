@@ -12,6 +12,9 @@ order: 2.1
 syllabusTopics:
   - qualification: "gcse"
     topic: "shaping-the-nation-8145"
+  - qualification: "gcse"
+    topic: "shaping-the-nation-8145"
+    subtopic: "stn-section-b-british-depth-studies-8145"
 description: "AQA GCSE History 8145 Elizabethan England, Part three: Catholics, missionaries, plots, Puritans, Elizabeth's policies and the challenge and execution of Mary."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

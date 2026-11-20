@@ -14,6 +14,9 @@ order: 267
 syllabusTopics:
   - qualification: "a-level"
     topic: "control-oxfordaqa-alevel-biology"
+  - qualification: "a-level"
+    topic: "control-oxfordaqa-alevel-biology"
+    subtopic: "skeletal-muscles-as-effectors-oxfordaqa-alevel-biology"
 description: "Condensed revision notes on skeletal muscle for OxfordAQA International A-level Biology 9610 section 3.4.4, with a self-test and common mark losses."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

@@ -2,11 +2,14 @@
  * D-444 -- flashcards for Pearson Edexcel International A Level Business YBS11
  * (Issue 1, September 2017).
  *
- * One block per subtopic, in syllabus order; Units 3 and 4 list no subtopics in
- * the syllabus record, so their cards sit on the topic (topicOnly helper). Card
- * ids are `<subtopic number>-<n>` (or `<topic number>-<n>`) and are permanent
- * (browser progress is keyed by them): add a new card with the next unused n,
- * never renumber.
+ * One block per subtopic, in syllabus order. All four units now itemise
+ * subtopics in the syllabus record, so every card is keyed by its subtopic.
+ * The deck first filed Units 3 and 4 on the topic itself; on 20 Nov 2026 their
+ * cards were re-filed under the subtopics and renumbered, and `idMigration`
+ * below moves browser progress saved before then onto the new ids. Card ids are
+ * `<subtopic number>-<n>` and are permanent from now on (browser progress is
+ * keyed by them): add a new card with the next unused n, never renumber. Card
+ * text is unchanged.
  *
  *   src: '...'  The card restates that revision-notes page (found with
  *               scripts/flashcard-candidates.mjs YBS11); origin 'revision-notes'.
@@ -29,16 +32,6 @@ const sub = (topic: string, subtopic: string, number: string, specs: Spec[]): Fl
     ...(src ? { source: src } : {}),
   }));
 
-const topicOnly = (topic: string, number: string, specs: Spec[]): Flashcard[] =>
-  specs.map(({ n, f, b, src }) => ({
-    id: `${number}-${n}`,
-    topic,
-    front: f,
-    back: b,
-    origin: src ? 'revision-notes' as const : 'authored' as const,
-    ...(src ? { source: src } : {}),
-  }));
-
 const FIN = 'edexcel-ial-business-financial-planning-and-managing-finance-revision-notes';
 
 const T1 = 'marketing-and-people-edexcel-alevel-business';
@@ -51,8 +44,46 @@ export const DECK_EDEXCEL_A_LEVEL_BUSINESS: FlashcardDeck = {
   syllabusCode: 'YBS11',
   syllabusSeries: 'Issue 1, September 2017',
   author: 'marlbridge-academic-team',
-  updated: '2026-11-05',
+  updated: '2026-11-20',
   deckReview: { reviewerSlug: 'salman-ahmad', reviewedOn: '2026-11-05' },
+  // Old id -> new id for every card, so progress saved before the cards were re-filed under
+  // the new subtopics follows each card. Runs once per browser, on marks dated before 2026-11-20.
+  idMigration: {
+    id: 'ybs11-subtopics-2026-11-20',
+    before: '2026-11-20',
+    map: {
+      '1.3.1-1': '1.3.1-1', '1.3.1-2': '1.3.1-2', '1.3.1-3': '1.3.1-3', '1.3.1-4': '1.3.1-4', '1.3.1-5': '1.3.1-5', '1.3.1-6': '1.3.1-6',
+      '1.3.1-7': '1.3.1-7', '1.3.1-8': '1.3.1-8', '1.3.1-9': '1.3.1-9', '1.3.1-10': '1.3.1-10', '1.3.1-11': '1.3.1-11', '1.3.1-12': '1.3.1-12',
+      '1.3.1-13': '1.3.1-13', '1.3.1-14': '1.3.1-14',
+      '1.3.2-1': '1.3.2-1', '1.3.2-2': '1.3.2-2', '1.3.2-3': '1.3.2-3', '1.3.2-4': '1.3.2-4', '1.3.2-5': '1.3.2-5', '1.3.2-6': '1.3.2-6',
+      '1.3.2-7': '1.3.2-7', '1.3.2-8': '1.3.2-8', '1.3.2-9': '1.3.2-9', '1.3.2-10': '1.3.2-10', '1.3.2-11': '1.3.2-11', '1.3.2-12': '1.3.2-12',
+      '1.3.2-13': '1.3.2-13',
+      '1.3.3-1': '1.3.3-1', '1.3.3-2': '1.3.3-2', '1.3.3-3': '1.3.3-3', '1.3.3-4': '1.3.3-4', '1.3.3-5': '1.3.3-5', '1.3.3-6': '1.3.3-6',
+      '1.3.3-7': '1.3.3-7', '1.3.3-8': '1.3.3-8', '1.3.3-9': '1.3.3-9', '1.3.3-10': '1.3.3-10', '1.3.3-11': '1.3.3-11', '1.3.3-12': '1.3.3-12',
+      '1.3.3-13': '1.3.3-13', '1.3.3-14': '1.3.3-14',
+      '1.3.4-1': '1.3.4-1', '1.3.4-2': '1.3.4-2', '1.3.4-3': '1.3.4-3', '1.3.4-4': '1.3.4-4', '1.3.4-5': '1.3.4-5', '1.3.4-6': '1.3.4-6',
+      '1.3.4-7': '1.3.4-7', '1.3.4-8': '1.3.4-8', '1.3.4-9': '1.3.4-9', '1.3.4-10': '1.3.4-10', '1.3.4-11': '1.3.4-11', '1.3.4-12': '1.3.4-12',
+      '1.3.4-13': '1.3.4-13', '1.3.4-14': '1.3.4-14',
+      '1.3.5-1': '1.3.5-1', '1.3.5-2': '1.3.5-2', '1.3.5-3': '1.3.5-3', '1.3.5-4': '1.3.5-4', '1.3.5-5': '1.3.5-5', '1.3.5-6': '1.3.5-6',
+      '1.3.5-7': '1.3.5-7', '1.3.5-8': '1.3.5-8', '1.3.5-9': '1.3.5-9', '1.3.5-10': '1.3.5-10', '1.3.5-11': '1.3.5-11', '1.3.5-12': '1.3.5-12',
+      '1.3.5-13': '1.3.5-13',
+      '2.3.1-1': '2.3.1-1', '2.3.1-2': '2.3.1-2', '2.3.1-3': '2.3.1-3', '2.3.1-4': '2.3.1-4', '2.3.1-5': '2.3.1-5', '2.3.1-6': '2.3.1-6',
+      '2.3.1-7': '2.3.1-7', '2.3.1-8': '2.3.1-8', '2.3.1-9': '2.3.1-9', '2.3.1-10': '2.3.1-10', '2.3.1-11': '2.3.1-11', '2.3.1-12': '2.3.1-12',
+      '2.3.1-13': '2.3.1-13', '2.3.1-14': '2.3.1-14',
+      '2.3.2-1': '2.3.2-1', '2.3.2-2': '2.3.2-2', '2.3.2-3': '2.3.2-3', '2.3.2-4': '2.3.2-4', '2.3.2-5': '2.3.2-5', '2.3.2-6': '2.3.2-6',
+      '2.3.2-7': '2.3.2-7', '2.3.2-8': '2.3.2-8', '2.3.2-9': '2.3.2-9', '2.3.2-10': '2.3.2-10', '2.3.2-11': '2.3.2-11', '2.3.2-12': '2.3.2-12',
+      '2.3.2-13': '2.3.2-13',
+      '2.3.3-1': '2.3.3-1', '2.3.3-2': '2.3.3-2', '2.3.3-3': '2.3.3-3', '2.3.3-4': '2.3.3-4', '2.3.3-5': '2.3.3-5', '2.3.3-6': '2.3.3-6',
+      '2.3.3-7': '2.3.3-7', '2.3.3-8': '2.3.3-8', '2.3.3-9': '2.3.3-9', '2.3.3-10': '2.3.3-10', '2.3.3-11': '2.3.3-11', '2.3.3-12': '2.3.3-12',
+      '2.3.3-13': '2.3.3-13',
+      '3-1': '3.3.1-1', '3-2': '3.3.1-2', '3-3': '3.3.1-3', '3-4': '3.3.2-1', '3-5': '3.3.2-2', '3-6': '3.3.3-1',
+      '3-7': '3.3.3-2', '3-8': '3.3.3-3', '3-9': '3.3.3-4', '3-10': '3.3.3-5', '3-11': '3.3.5-1', '3-12': '3.3.4-1',
+      '3-13': '3.3.4-2', '3-14': '3.3.6-1',
+      '4-1': '4.3.1-1', '4-2': '4.3.1-2', '4-3': '4.3.1-3', '4-4': '4.3.1-4', '4-5': '4.3.1-5', '4-6': '4.3.2-1',
+      '4-7': '4.3.2-2', '4-8': '4.3.2-3', '4-9': '4.3.2-4', '4-10': '4.3.3-1', '4-11': '4.3.3-2', '4-12': '4.3.3-3',
+      '4-13': '4.3.4-1', '4-14': '4.3.4-2',
+    },
+  },
   cards: [
     // Unit 1 Marketing and people
     ...sub(T1, 'meeting-customer-needs-ybs11', '1.3.1', [
@@ -181,38 +212,54 @@ export const DECK_EDEXCEL_A_LEVEL_BUSINESS: FlashcardDeck = {
       { n: 13, f: 'External causes of business failure', b: 'Market conditions, competition, economic conditions, exchange rates, interest rates, government regulations, supplier problems, natural phenomena. Not controllable, but a firm can prepare for them.' },
     ]),
     // Unit 3 Business decisions and strategy (no subtopics in the record)
-    ...topicOnly('business-decisions-and-strategy-edexcel-alevel-business', '3', [
+    ...sub('business-decisions-and-strategy-edexcel-alevel-business', 'business-objectives-and-strategy-ybs11', '3.3.1', [
       { n: 1, f: 'Ansoff\'s Matrix: the four strategies, by risk', b: 'Market penetration (existing products, existing markets) is lowest risk; market development (existing products, new markets); product development (new products, existing markets); diversification (new products, new markets) is highest risk.' },
       { n: 2, f: 'Porter\'s Strategic Matrix (generic strategies)', b: 'Cost leadership, differentiation, cost focus and differentiation focus. A firm competes either on cost or on difference, across a broad market or a narrow focus.' },
       { n: 3, f: 'Porter\'s five forces', b: 'Rivalry among competitors, threat of new entrants, threat of substitutes, buyer power, supplier power. Example: few large buyers → high buyer power, prices squeezed.' },
-      { n: 4, f: 'Organic vs inorganic growth', b: 'Organic: new products, markets, outlets or capacity; slow but controlled and keeps the culture.\nInorganic: merger (agreed combination) or takeover (buying control); fast but costly and risky.' },
-      { n: 5, f: 'Horizontal, vertical and conglomerate integration', b: 'Horizontal: same stage, same industry.\nVertical: forward (towards customers) or backward (towards suppliers).\nConglomerate: unrelated industries; spreads risk.' },
-      { n: 6, f: 'Payback: formula, with an example', b: 'Full years + (cost still to recover ÷ cash flow in the payback year). Cost 60,000; inflows 15,000, 25,000, 30,000: after 2 years 40,000 recovered; 20,000 ÷ 30,000 = 0.67 → 2.67 years.' },
-      { n: 7, f: 'Average rate of return (ARR): formula, with an example', b: '(Total net return − cost) ÷ years ÷ cost × 100. Cost 60,000, total inflows 90,000 over 4 years: 30,000 ÷ 4 = 7,500; 7,500 ÷ 60,000 × 100 = 12.5%.' },
-      { n: 8, f: 'Net present value (NPV)', b: 'Sum of (each cash flow × its discount factor) − initial cost. A positive NPV supports investing, but depends on the discount rate and forecasts. Trap: giving the PV total without subtracting the cost.' },
-      { n: 9, f: 'Decision tree: method and limitations', b: 'Work right to left: expected value (EV) = Σ(probability × outcome) at each chance node, subtract the option\'s cost, choose the highest net EV. Example: 0.7 × 80 + 0.3 × 20 = 62; minus cost 30 = 32. Limits: subjective probabilities, money only.' },
-      { n: 10, f: 'Critical path analysis: total float', b: 'Total float = LFT at end node − EST at start node − duration. Example: 12 − 4 − 5 = 3 days. Activities with zero float are on the critical path. Forward pass takes the larger EST where paths merge.' },
-      { n: 11, f: 'Gearing and ROCE', b: 'Capital employed = non-current liabilities + total equity.\nGearing = non-current liabilities ÷ capital employed × 100.\nROCE = operating profit ÷ capital employed × 100.' },
-      { n: 12, f: 'Stakeholder model vs shareholder model', b: 'Stakeholder model: decisions consider all stakeholders (staff, customers, community…).\nShareholder model: decisions focus on share price and dividends for owners.' },
-      { n: 13, f: 'Four types of organisational culture', b: 'Power, role, task and person cultures. Culture is formed by founders, history, leadership and structure, and is hard to change because of habit and resistance.' },
-      { n: 14, f: 'Business continuity and succession planning', b: 'Ways to mitigate risks such as natural disasters, IT systems failure and loss of key staff. Continuity planning keeps the business running in a crisis; succession planning prepares people to replace key staff.' },
+    ]),
+    ...sub('business-decisions-and-strategy-edexcel-alevel-business', 'business-growth-ybs11', '3.3.2', [
+      { n: 1, f: 'Organic vs inorganic growth', b: 'Organic: new products, markets, outlets or capacity; slow but controlled and keeps the culture.\nInorganic: merger (agreed combination) or takeover (buying control); fast but costly and risky.' },
+      { n: 2, f: 'Horizontal, vertical and conglomerate integration', b: 'Horizontal: same stage, same industry.\nVertical: forward (towards customers) or backward (towards suppliers).\nConglomerate: unrelated industries; spreads risk.' },
+    ]),
+    ...sub('business-decisions-and-strategy-edexcel-alevel-business', 'decision-making-techniques-ybs11', '3.3.3', [
+      { n: 1, f: 'Payback: formula, with an example', b: 'Full years + (cost still to recover ÷ cash flow in the payback year). Cost 60,000; inflows 15,000, 25,000, 30,000: after 2 years 40,000 recovered; 20,000 ÷ 30,000 = 0.67 → 2.67 years.' },
+      { n: 2, f: 'Average rate of return (ARR): formula, with an example', b: '(Total net return − cost) ÷ years ÷ cost × 100. Cost 60,000, total inflows 90,000 over 4 years: 30,000 ÷ 4 = 7,500; 7,500 ÷ 60,000 × 100 = 12.5%.' },
+      { n: 3, f: 'Net present value (NPV)', b: 'Sum of (each cash flow × its discount factor) − initial cost. A positive NPV supports investing, but depends on the discount rate and forecasts. Trap: giving the PV total without subtracting the cost.' },
+      { n: 4, f: 'Decision tree: method and limitations', b: 'Work right to left: expected value (EV) = Σ(probability × outcome) at each chance node, subtract the option\'s cost, choose the highest net EV. Example: 0.7 × 80 + 0.3 × 20 = 62; minus cost 30 = 32. Limits: subjective probabilities, money only.' },
+      { n: 5, f: 'Critical path analysis: total float', b: 'Total float = LFT at end node − EST at start node − duration. Example: 12 − 4 − 5 = 3 days. Activities with zero float are on the critical path. Forward pass takes the larger EST where paths merge.' },
+    ]),
+    ...sub('business-decisions-and-strategy-edexcel-alevel-business', 'influences-on-business-decisions-ybs11', '3.3.4', [
+      { n: 1, f: 'Stakeholder model vs shareholder model', b: 'Stakeholder model: decisions consider all stakeholders (staff, customers, community…).\nShareholder model: decisions focus on share price and dividends for owners.' },
+      { n: 2, f: 'Four types of organisational culture', b: 'Power, role, task and person cultures. Culture is formed by founders, history, leadership and structure, and is hard to change because of habit and resistance.' },
+    ]),
+    ...sub('business-decisions-and-strategy-edexcel-alevel-business', 'assessing-competitiveness-ybs11', '3.3.5', [
+      { n: 1, f: 'Gearing and ROCE', b: 'Capital employed = non-current liabilities + total equity.\nGearing = non-current liabilities ÷ capital employed × 100.\nROCE = operating profit ÷ capital employed × 100.' },
+    ]),
+    ...sub('business-decisions-and-strategy-edexcel-alevel-business', 'managing-change-ybs11', '3.3.6', [
+      { n: 1, f: 'Business continuity and succession planning', b: 'Ways to mitigate risks such as natural disasters, IT systems failure and loss of key staff. Continuity planning keeps the business running in a crisis; succession planning prepares people to replace key staff.' },
     ]),
     // Unit 4 Global business (no subtopics in the record)
-    ...topicOnly('global-business-edexcel-alevel-business', '4', [
+    ...sub('global-business-edexcel-alevel-business', 'globalisation-ybs11', '4.3.1', [
       { n: 1, f: 'Developed, developing and emerging economies', b: 'Developed: high income per head, services-led, strong infrastructure.\nDeveloping: low income per head, more agriculture, weaker infrastructure.\nEmerging: fast growth, industrialising, opening up to trade.' },
       { n: 2, f: 'GDP, GDP per capita and HDI', b: 'GDP: value of output in a period. GDP per capita = GDP ÷ population (45bn dollars ÷ 9m people = 5,000 dollars).\nHDI combines income with health and education measures.' },
       { n: 3, f: 'Causes of globalisation', b: 'Trade liberalisation and the WTO; political change; falling transport and communication costs; MNCs; investment flows (FDI); migration; growth of the labour force; structural change.' },
       { n: 4, f: 'Tariff vs import quota', b: 'Tariff: a tax on imports; raises the import price and brings the government revenue.\nQuota: a limit on the quantity imported; restricts supply and raises price but gives no tax revenue.' },
       { n: 5, f: 'Trading blocs: examples and impact', b: 'EU single market, ASEAN, NAFTA. Members gain easier access and scale; outsiders face barriers, so they may invest inside the bloc.' },
-      { n: 6, f: 'Push vs pull factors for going global', b: 'Push: a saturated home market; strong competition at home.\nPull: increased sales and profitability; risk spreading; economies of scale.' },
-      { n: 7, f: 'Off-shoring vs outsourcing', b: 'Off-shoring: moving the firm\'s own production abroad.\nOutsourcing: handing the work to another firm.' },
-      { n: 8, f: 'Exchange rate appreciation vs depreciation', b: 'Appreciation (stronger currency) makes exports dearer abroad and imports cheaper. Depreciation does the reverse. Example: a 300-dollar bike costs 1,200 zelds at 4 per dollar and 1,500 at 5, up 25%.' },
-      { n: 9, f: 'Reasons for global mergers and joint ventures', b: 'Spread risk and gain scale; enter markets or trading blocs; acquire brands or patents; secure supplies; reduce competition; use local knowledge; meet legal requirements; share costs and risks.' },
-      { n: 10, f: 'Ethnocentric, polycentric and geocentric marketing', b: 'Ethnocentric: home-market methods applied abroad.\nPolycentric: a different approach tailored to each country.\nGeocentric: a blend of standard and local approaches.' },
-      { n: 11, f: 'Glocalisation', b: 'A global brand adapted to local tastes and cultures, for example changing product, packaging or promotion for each market.' },
-      { n: 12, f: 'Cultural and social factors in global marketing', b: 'Cultural differences, tastes, language and unintended meanings, and inappropriate branding or promotion.' },
-      { n: 13, f: 'Impact of MNCs on a host economy', b: 'Local: jobs, wages, conditions, local businesses, community and environment.\nNational: growth, FDI, balance of payments, technology and skills transfer, consumers, business culture, tax revenues.' },
-      { n: 14, f: 'Ways of controlling MNCs', b: 'Political influence, legal control, consumer pressure, pressure groups, social media, and self-regulation.' },
+    ]),
+    ...sub('global-business-edexcel-alevel-business', 'global-markets-and-business-expansion-ybs11', '4.3.2', [
+      { n: 1, f: 'Push vs pull factors for going global', b: 'Push: a saturated home market; strong competition at home.\nPull: increased sales and profitability; risk spreading; economies of scale.' },
+      { n: 2, f: 'Off-shoring vs outsourcing', b: 'Off-shoring: moving the firm\'s own production abroad.\nOutsourcing: handing the work to another firm.' },
+      { n: 3, f: 'Exchange rate appreciation vs depreciation', b: 'Appreciation (stronger currency) makes exports dearer abroad and imports cheaper. Depreciation does the reverse. Example: a 300-dollar bike costs 1,200 zelds at 4 per dollar and 1,500 at 5, up 25%.' },
+      { n: 4, f: 'Reasons for global mergers and joint ventures', b: 'Spread risk and gain scale; enter markets or trading blocs; acquire brands or patents; secure supplies; reduce competition; use local knowledge; meet legal requirements; share costs and risks.' },
+    ]),
+    ...sub('global-business-edexcel-alevel-business', 'global-marketing-ybs11', '4.3.3', [
+      { n: 1, f: 'Ethnocentric, polycentric and geocentric marketing', b: 'Ethnocentric: home-market methods applied abroad.\nPolycentric: a different approach tailored to each country.\nGeocentric: a blend of standard and local approaches.' },
+      { n: 2, f: 'Glocalisation', b: 'A global brand adapted to local tastes and cultures, for example changing product, packaging or promotion for each market.' },
+      { n: 3, f: 'Cultural and social factors in global marketing', b: 'Cultural differences, tastes, language and unintended meanings, and inappropriate branding or promotion.' },
+    ]),
+    ...sub('global-business-edexcel-alevel-business', 'global-industries-and-companies-ybs11', '4.3.4', [
+      { n: 1, f: 'Impact of MNCs on a host economy', b: 'Local: jobs, wages, conditions, local businesses, community and environment.\nNational: growth, FDI, balance of payments, technology and skills transfer, consumers, business culture, tax revenues.' },
+      { n: 2, f: 'Ways of controlling MNCs', b: 'Political influence, legal control, consumer pressure, pressure groups, social media, and self-regulation.' },
     ]),
   ],
 };

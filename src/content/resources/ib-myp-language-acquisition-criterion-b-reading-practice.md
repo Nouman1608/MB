@@ -13,6 +13,7 @@ order: 53
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-language-acquisition-assessment-criteria"
+    subtopic: "ib-myp-language-acquisition-assessment-criteria-b-reading"
 description: "Original IB MYP Language Acquisition Criterion B reading questions on three multimodal texts: a webpage, a column and a leaflet, with worked answers."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
@@ -186,4 +187,4 @@ Yes. The texts are in English, so answer in your target language for extra pract
 
 ## Official syllabus
 
-International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Language acquisition*, from 2020 (first eAssessment May 2023/November 2023), published by the IB. The brief names Criterion B: Reading and lists "comprehending written multimodal texts" for 24 marks in the on-screen examination. All texts and questions here are original.
+International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Language acquisition*, from 2020 (first eAssessment May 2023/November 2023), published by the IB. The brief names Criterion B: Reading and lists "comprehending written multimodal texts". The eAssessment marks (32 for Criterion B, 16 in each of Tasks 1 and 2 of the on-screen examination) come from the International Baccalaureate Organization, Middle Years Programme Language acquisition guide, for use from September 2020/January 2021 ("MYP eAssessment" and "Language acquisition examination blueprint", pages 51 and 52). All texts and questions here are original.

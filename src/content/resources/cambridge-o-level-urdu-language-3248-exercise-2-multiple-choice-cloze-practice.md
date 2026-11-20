@@ -12,6 +12,7 @@ order: 4.1
 syllabusTopics:
   - qualification: "o-level"
     topic: "sl-paper-2-grammar-writing-translation-3248"
+    subtopic: "exercise-2-multiple-choice-cloze-passage-3248"
 description: "Original multiple-choice grammar items and a full 10-gap Urdu cloze passage in the 3248 Paper 2 Exercise 2 style, with answers and the rule behind each choice."
 author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"

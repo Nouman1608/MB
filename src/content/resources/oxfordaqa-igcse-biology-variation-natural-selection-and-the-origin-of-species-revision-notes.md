@@ -13,6 +13,12 @@ order: 250
 syllabusTopics:
   - qualification: "igcse"
     topic: "variation-and-evolution-oxfordaqa-igcse-biology"
+  - qualification: "igcse"
+    topic: "variation-and-evolution-oxfordaqa-igcse-biology"
+    subtopic: "continuous-and-discontinuous-variation-oxfordaqa-igcse-biology"
+  - qualification: "igcse"
+    topic: "variation-and-evolution-oxfordaqa-igcse-biology"
+    subtopic: "natural-selection-oxfordaqa-igcse-biology"
 description: "Condensed revision notes on variation, Lamarck, natural selection, evolution time scales and speciation for OxfordAQA International GCSE Biology."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

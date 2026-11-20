@@ -49,7 +49,7 @@ The brief is short, so it is worth knowing exactly what it prints about contexts
 - **Concepts.** The key concepts listed are communication, connections, creativity and culture. Example related concepts are word choice, conventions and idiom.
 - **Questions.** The curriculum explores factual, conceptual and debatable questions.
 - **Criterion C** asks you to interact on topics of "personal, local and global interest and significance".
-- **eAssessment.** The on-screen examination has three tasks (Criteria A, B and D, 24 marks each) and may include "any topics from the language acquisition list". Speaking (Criterion C, 24 marks) is internally assessed and moderated by the IB. The brief does not print the topic list itself, so ask your teacher for it.
+- **eAssessment.** The on-screen examination has three tasks (Tasks 1 and 2 assess Criteria A and B, Task 3 assesses Criterion D; 96 marks in all, 32 for each of Criteria A, B and D) and may include "any topics from the language acquisition list". Speaking (Criterion C, 32 marks) is internally assessed and moderated by the IB. The brief does not print the topic list itself, so ask your teacher for it.
 - **Course description.** Learning an additional language should equip you to communicate successfully in various global contexts.
 
 Everything else on this page -- the topic examples, the bank layout, the routines -- is Marlbridge study advice, not IB wording.
@@ -215,4 +215,4 @@ Condensed recall and a self-test are in the [revision notes](/resources/ib-myp-l
 
 ## Official syllabus
 
-International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Language acquisition*, from 2020 (first eAssessment May 2023/November 2023). Published by the International Baccalaureate Organization. Complete subject guides are available to schools through the IB's Programme Resource Centre.
+International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Language acquisition*, from 2020 (first eAssessment May 2023/November 2023). Published by the International Baccalaureate Organization. The eAssessment marks (on-screen examination 96 marks, speaking examination 32 marks) come from the International Baccalaureate Organization, Middle Years Programme Language acquisition guide, for use from September 2020/January 2021 ("MYP eAssessment" and "Language acquisition examination blueprint", pages 51 and 52). Complete subject guides are available to schools through the IB's Programme Resource Centre.

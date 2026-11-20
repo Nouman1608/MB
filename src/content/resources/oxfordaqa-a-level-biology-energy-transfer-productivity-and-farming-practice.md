@@ -14,6 +14,7 @@ order: 260
 syllabusTopics:
   - qualification: "a-level"
     topic: "populations-and-genes-oxfordaqa-alevel-biology"
+    subtopic: "energy-transfer-through-ecosystems-oxfordaqa-alevel-biology"
 description: "Eleven original questions with worked answers on energy transfer, pyramids, GPP, NPP, net production and farming, for OxfordAQA A-level Biology."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

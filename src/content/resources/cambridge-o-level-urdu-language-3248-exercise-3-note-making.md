@@ -12,6 +12,7 @@ order: 3.1
 syllabusTopics:
   - qualification: "o-level"
     topic: "sl-paper-1-reading-writing-3248"
+    subtopic: "exercise-3-note-making-3248"
 description: "How to make brief Urdu notes under supplied headings in 3248 Paper 1 Exercise 3: mapping the text to headings, writing good notes and preparing for the summary."
 author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"

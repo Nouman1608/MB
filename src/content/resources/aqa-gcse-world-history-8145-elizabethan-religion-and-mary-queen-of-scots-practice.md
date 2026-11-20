@@ -12,6 +12,9 @@ order: 2.1
 syllabusTopics:
   - qualification: "gcse"
     topic: "shaping-the-nation-8145"
+  - qualification: "gcse"
+    topic: "shaping-the-nation-8145"
+    subtopic: "stn-section-b-british-depth-studies-8145"
 description: "Original AQA GCSE History 8145 Elizabethan England practice on Catholics, Puritans and Mary Queen of Scots: interpretations, explain and account questions."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

@@ -13,6 +13,12 @@ order: 243
 syllabusTopics:
   - qualification: "igcse"
     topic: "organisms-interaction-with-the-environment-oxfordaqa-igcse-biology"
+  - qualification: "igcse"
+    topic: "organisms-interaction-with-the-environment-oxfordaqa-igcse-biology"
+    subtopic: "the-human-nervous-system-oxfordaqa-igcse-biology"
+  - qualification: "igcse"
+    topic: "organisms-interaction-with-the-environment-oxfordaqa-igcse-biology"
+    subtopic: "behaviour-oxfordaqa-igcse-biology"
 description: "Study guide to the human nervous system, reflex arcs and animal behaviour for OxfordAQA International GCSE Biology, with worked data examples."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

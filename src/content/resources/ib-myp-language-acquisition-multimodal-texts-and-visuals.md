@@ -183,16 +183,16 @@ See [proficiency phases](/resources/ib-myp-language-acquisition-proficiency-phas
 
 ## 6. Multimodal texts in the eAssessment
 
-The brief's blueprint:
+The guide's blueprint:
 
 | Component | Objective | Criterion | Marks |
 |---|---|---|---|
-| On-screen examination | Comprehending spoken multimodal texts | A | 24 |
-| On-screen examination | Comprehending written multimodal texts | B | 24 |
-| On-screen examination | Writing in response to multimodal texts | D | 24 |
-| Speaking examination (internally assessed, IB-moderated) | Speaking in response to multimodal texts | C | 24 |
+| On-screen examination, Tasks 1 and 2 | Comprehending spoken multimodal texts | A | 32 (16 per task) |
+| On-screen examination, Tasks 1 and 2 | Comprehending written multimodal texts | B | 32 (16 per task) |
+| On-screen examination, Task 3 | Writing in response to multimodal texts | D | 32 |
+| Speaking examination (internally assessed, IB-moderated) | Speaking in response to multimodal texts | C | 32 |
 
-The brief also says the on-screen examination has three tasks, receptive and productive, and that the marks in each may vary by no more than three from the blueprint. The speaking task is interactive and is marked by your class teacher; the IB moderates a sample from each school. Confirm the timing and the exact task format with your school; your teacher will share the task-specific clarifications.
+The on-screen examination has three tasks of about 35 minutes each (1 hour 45 minutes in all, 96 marks). Tasks 1 and 2 each pair a written-visual text with an audio-visual text and assess A and B equally (receptive); Task 3 is writing (productive). The distribution of marks may vary by no more than three marks from the blueprint. The speaking task is interactive, lasts 15 to 17 minutes including preparation time, and is marked by your class teacher; the IB moderates a sample from each school. Confirm the exact task format with your school; your teacher will share the task-specific clarifications.
 
 What this means for preparation:
 
@@ -236,4 +236,4 @@ Yes. The MYP Language Acquisition brief (from 2020) describes Criterion A in ter
 
 ## Official syllabus
 
-International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Language acquisition*, from 2020 (first eAssessment May 2023/November 2023). Published by the International Baccalaureate Organization, 2020.
+International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Language acquisition*, from 2020 (first eAssessment May 2023/November 2023). Published by the International Baccalaureate Organization, 2020. The eAssessment marks (on-screen examination 96 marks, speaking examination 32 marks) come from the International Baccalaureate Organization, Middle Years Programme Language acquisition guide, for use from September 2020/January 2021 ("MYP eAssessment" and "Language acquisition examination blueprint", pages 51 and 52).

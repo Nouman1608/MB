@@ -2,11 +2,13 @@
  * D-444 -- flashcards for Cambridge IGCSE Urdu as a Second Language 0539 (2025-2027).
  *
  * One block per subtopic, in syllabus order. Card ids are `<subtopic number>-<n>`
- * (or `<topic number>-<n>` for Component 5, which itemises no subtopics) and are
- * permanent. The syllabus numbers the exercises 1-6 in Paper 1 and 1-4 in Paper 2,
- * so the same subtopic number occurs twice (and Component 5 is topic 3): to keep
- * every id unique, Paper 1 uses n = 1-39, Paper 2 uses n = 51-99 and Component 5
- * uses n = 101 onward. Add new cards with the next unused n in the block's range.
+ * and are permanent. The syllabus numbers the exercises 1-6 in Paper 1, 1-4 in
+ * Paper 2 and the parts 1-3 in Component 5, so the same subtopic number occurs
+ * up to three times: to keep every id unique, Paper 1 uses n = 1-39, Paper 2
+ * uses n = 51-99 and Component 5 uses n = 101 onward. Add new cards with the
+ * next unused n in the block's range. On 20 Nov 2026 the Component 5 cards were
+ * re-filed from the topic onto its three parts, and `idMigration` below moves
+ * saved progress onto the new ids.
  *
  * All cards are authored from the course's own Marlbridge pages and the syllabus
  * record. Urdu is kept to simple, common words and sentences.
@@ -27,15 +29,6 @@ const sub = (topic: string, subtopic: string, number: string, specs: Spec[]): Fl
     origin: 'authored' as const,
   }));
 
-const topicOnly = (topic: string, number: string, specs: Spec[]): Flashcard[] =>
-  specs.map(({ n, f, b }) => ({
-    id: `${number}-${n}`,
-    topic,
-    front: f,
-    back: b,
-    origin: 'authored' as const,
-  }));
-
 const P1 = 'paper-1-reading-writing-0539';
 const P2 = 'paper-2-listening-0539';
 const C5 = 'component-5-speaking-0539';
@@ -47,8 +40,29 @@ export const DECK_CAMBRIDGE_IGCSE_URDU_LANGUAGE: FlashcardDeck = {
   syllabusCode: '0539',
   syllabusSeries: '2025-2027',
   author: 'marlbridge-academic-team',
-  updated: '2026-11-15',
+  updated: '2026-11-20',
   deckReview: { reviewerSlug: 'farheen-zehra', reviewedOn: '2026-11-15' },
+  idMigration: {
+    id: '0539-subtopics-2026-11-20',
+    before: '2026-11-20',
+    map: {
+      '1-1': '1-1', '1-2': '1-2', '1-3': '1-3', '1-4': '1-4', '1-5': '1-5',
+      '1-6': '1-6', '2-1': '2-1', '2-2': '2-2', '2-3': '2-3', '2-4': '2-4',
+      '2-5': '2-5', '3-1': '3-1', '3-2': '3-2', '3-3': '3-3', '3-4': '3-4',
+      '4-1': '4-1', '4-2': '4-2', '4-3': '4-3', '4-4': '4-4', '4-5': '4-5',
+      '5-1': '5-1', '5-2': '5-2', '5-3': '5-3', '5-4': '5-4', '5-5': '5-5',
+      '5-6': '5-6', '5-7': '5-7', '6-1': '6-1', '6-2': '6-2', '6-3': '6-3',
+      '6-4': '6-4', '6-5': '6-5', '6-6': '6-6', '6-7': '6-7', '6-8': '6-8',
+      '6-9': '6-9', '6-10': '6-10', '6-11': '6-11', '6-12': '6-12', '6-13': '6-13',
+      '6-14': '6-14', '1-51': '1-51', '1-52': '1-52', '1-53': '1-53', '1-54': '1-54',
+      '1-55': '1-55', '1-56': '1-56', '1-57': '1-57', '2-51': '2-51', '2-52': '2-52',
+      '2-53': '2-53', '2-54': '2-54', '2-55': '2-55', '2-56': '2-56', '3-51': '3-51',
+      '3-52': '3-52', '3-53': '3-53', '3-54': '3-54', '4-51': '4-51', '4-52': '4-52',
+      '4-53': '4-53', '4-54': '4-54', '4-55': '4-55', '3-101': '1-101', '3-102': '1-102',
+      '3-103': '1-103', '3-104': '2-101', '3-105': '3-101', '3-106': '1-104', '3-107': '2-102',
+      '3-108': '2-103', '3-109': '2-104',
+    },
+  },
   cards: [
     // Paper 1 -- Reading and Writing
     ...sub(P1, 'exercise-1-short-answer-questions-0539', '1', [
@@ -138,16 +152,20 @@ export const DECK_CAMBRIDGE_IGCSE_URDU_LANGUAGE: FlashcardDeck = {
     ]),
 
     // Component 5 -- Speaking
-    ...topicOnly(C5, '3', [
+    ...sub(C5, 'part-1-presentation-0539', '1', [
       { n: 101, f: 'What is Component 5 and how is it reported?', b: 'An optional speaking test, conducted and marked in Urdu by the centre and externally moderated by Cambridge. It is separately endorsed with a grade from 1 (high) to 5 (low) and does not count towards the overall grade.' },
       { n: 102, f: 'Component 5: total marks and length of the test?', b: '60 marks. The syllabus gives the whole test as approximately 10-12 minutes.' },
       { n: 103, f: 'Component 5 Part 1: what is it and how long?', b: 'Presentation, 2-3 minutes. You choose the topic in advance, related to Urdu-speaking society or culture, and give a prepared outline. You may use a small card of prompt headings.' },
-      { n: 104, f: 'Component 5 Part 2: what is it and how long?', b: 'Discussion, 3-4 minutes. The examiner discusses your presentation with you and you must explain and justify your opinions in natural, unscripted Urdu.' },
-      { n: 105, f: 'Component 5 Part 3: what is it, how long, how many marks?', b: 'General conversation, 3-4 minutes, 20 marks, on two or three general topics that you do not know in advance.' },
-      { n: 106, f: 'How should you choose a Part 1 topic?', b: 'Choose a topic connected to Urdu-speaking society or culture that you can speak about in depth, for example a festival or family tradition. It must sustain Part 1 and the discussion in Part 2.' },
-      { n: 107, f: 'Why can Part 2 and Part 3 not be memorised?', b: 'Part 2 asks real follow-up questions, and Part 3 topics are unknown. Practise answering why and what-do-you-think questions aloud, with vocabulary banks, not scripts.' },
-      { n: 108, f: 'Phrases to ask for help in a speaking test', b: 'معاف کیجیے (excuse me); کیا آپ دوبارہ کہہ سکتے ہیں؟ (can you say that again?); میں سمجھا نہیں (I did not understand, male speaker). Use آپ with the examiner.' },
-      { n: 109, f: 'Component 5: how do you give an opinion with a reason?', b: 'Use میرے خیال میں ... کیونکہ ... (in my opinion ... because ...). A reason and an example make a spoken answer fuller and more natural.' },
+      { n: 104, f: 'How should you choose a Part 1 topic?', b: 'Choose a topic connected to Urdu-speaking society or culture that you can speak about in depth, for example a festival or family tradition. It must sustain Part 1 and the discussion in Part 2.' },
+    ]),
+    ...sub(C5, 'part-2-topic-conversation-0539', '2', [
+      { n: 101, f: 'Component 5 Part 2: what is it and how long?', b: 'Discussion, 3-4 minutes. The examiner discusses your presentation with you and you must explain and justify your opinions in natural, unscripted Urdu.' },
+      { n: 102, f: 'Why can Part 2 and Part 3 not be memorised?', b: 'Part 2 asks real follow-up questions, and Part 3 topics are unknown. Practise answering why and what-do-you-think questions aloud, with vocabulary banks, not scripts.' },
+      { n: 103, f: 'Phrases to ask for help in a speaking test', b: 'معاف کیجیے (excuse me); کیا آپ دوبارہ کہہ سکتے ہیں؟ (can you say that again?); میں سمجھا نہیں (I did not understand, male speaker). Use آپ with the examiner.' },
+      { n: 104, f: 'Component 5: how do you give an opinion with a reason?', b: 'Use میرے خیال میں ... کیونکہ ... (in my opinion ... because ...). A reason and an example make a spoken answer fuller and more natural.' },
+    ]),
+    ...sub(C5, 'part-3-general-conversation-0539', '3', [
+      { n: 101, f: 'Component 5 Part 3: what is it, how long, how many marks?', b: 'General conversation, 3-4 minutes, 20 marks, on two or three general topics that you do not know in advance.' },
     ]),
   ],
 };

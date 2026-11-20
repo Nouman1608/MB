@@ -13,6 +13,7 @@ order: 3.2
 syllabusTopics:
   - qualification: "a-level"
     topic: "component-3-team-project-9239"
+    subtopic: "reflective-paper-9239"
 description: "Recall notes on the 9239 reflective paper: the two AO2 strands, aspects of collaboration, evidence, improvements, learning, an 800-word plan and a self-test."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"

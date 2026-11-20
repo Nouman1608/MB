@@ -1,10 +1,15 @@
 /**
  * D-444 -- flashcards for IB MYP Individuals and Societies (from 2014).
  *
- * The syllabus record lists six topics and no subtopics, so there is one block
- * per topic, in syllabus order. Card ids are `<topic number>-<n>` and are
- * permanent (browser progress is keyed by them): add a new card with the next
- * unused n, never renumber.
+ * The syllabus record lists six topics. Topics 1-4 and 6 list no subtopics, so
+ * each has one block, in syllabus order. Topic 5 (assessment criteria) is keyed
+ * by its subtopics, the four lettered criteria A-D, one block per criterion.
+ * Card ids are `<topic number>-<n>` for topics 1-4 and 6 and
+ * `<criterion letter>-<n>` for the criteria, and are permanent (browser
+ * progress is keyed by them): add a new card with the next unused n, never
+ * renumber. The letter prefixes cannot clash with the numbered topic ids.
+ * Cards that were on topic 5 before the criteria were itemised moved to their
+ * criterion's ids; `idMigration` below carries saved progress across.
  *
  * MYP Individuals and Societies is criterion-assessed (criteria A-D, each 0-8).
  * The cards cover the constituent disciplines, key and related concepts, global
@@ -24,6 +29,18 @@ import type { Flashcard, FlashcardDeck } from './types.ts';
 
 interface Spec { n: number; f: string; b: string; u?: true; src?: string }
 
+const sub = (topic: string, subtopic: string, number: string, specs: Spec[]): Flashcard[] =>
+  specs.map(({ n, f, b, u, src }) => ({
+    id: `${number}-${n}`,
+    topic,
+    subtopic,
+    front: f,
+    back: b,
+    ...(u ? { tier: 'upper' as const } : {}),
+    origin: src ? 'revision-notes' as const : 'authored' as const,
+    ...(src ? { source: src } : {}),
+  }));
+
 const topicOnly = (topic: string, number: string, specs: Spec[]): Flashcard[] =>
   specs.map(({ n, f, b, u, src }) => ({
     id: `${number}-${n}`,
@@ -36,6 +53,7 @@ const topicOnly = (topic: string, number: string, specs: Spec[]): Flashcard[] =>
   }));
 
 const P = 'ib-myp-individuals-and-societies';
+const AC = `${P}-assessment-criteria`;
 const ECON = 'ib-myp-individuals-and-societies-economic-agents-measurements-trends-revision-notes';
 const IND = 'ib-myp-individuals-and-societies-industrialization-and-technology-revision-notes';
 const SUP = 'ib-myp-individuals-and-societies-superpowers-empires-alliances-revision-notes';
@@ -49,7 +67,27 @@ export const DECK_IB_IB_MYP_INDIVIDUALS_AND_SOCIETIES: FlashcardDeck = {
   syllabusCode: 'MYP Individuals and Societies',
   syllabusSeries: 'From 2014',
   author: 'marlbridge-academic-team',
-  updated: '2026-11-08',
+  updated: '2026-11-20',
+  // Old id -> new id for every card in the deck as it stood before the criteria were itemised,
+  // so progress saved before the change follows each card. Cards whose id did not change map to themselves.
+  idMigration: {
+    id: 'myp-individuals-and-societies-subtopics-2026-11-20',
+    before: '2026-11-20',
+    map: {
+      '1-1': '1-1', '1-2': '1-2', '1-3': '1-3', '1-4': '1-4',
+      '1-5': '1-5', '1-6': '1-6', '2-1': '2-1', '2-2': '2-2',
+      '2-3': '2-3', '2-4': '2-4', '2-5': '2-5', '2-6': '2-6',
+      '2-7': '2-7', '3-1': '3-1', '3-2': '3-2', '3-3': '3-3',
+      '3-4': '3-4', '3-5': '3-5', '3-6': '3-6', '3-7': '3-7',
+      '3-8': '3-8', '4-1': '4-1', '4-2': '4-2', '4-3': '4-3',
+      '4-4': '4-4', '4-5': '4-5', '4-6': '4-6', '4-7': '4-7',
+      '5-1': 'A-1', '5-2': 'A-2', '5-3': 'B-1', '5-4': 'C-1',
+      '5-5': 'D-1', '5-6': 'D-2', '5-7': 'D-3', '5-8': 'D-4',
+      '6-1': '6-1', '6-2': '6-2', '6-3': '6-3', '6-4': '6-4',
+      '6-5': '6-5', '6-6': '6-6', '6-7': '6-7', '6-8': '6-8',
+      '6-9': '6-9', '6-10': '6-10',
+    },
+  },
   cards: [
     // 1 Constituent disciplines
     ...topicOnly(`${P}-constituent-disciplines`, '1', [
@@ -95,16 +133,25 @@ export const DECK_IB_IB_MYP_INDIVIDUALS_AND_SOCIETIES: FlashcardDeck = {
       { n: 7, f: 'Factual, conceptual and debatable inquiry questions', b: 'Factual questions have an answer you can look up. Conceptual questions explore a transferable big idea. Debatable questions have more than one defensible answer and invite argument.' },
     ]),
 
-    // 5 Assessment criteria
-    ...topicOnly(`${P}-assessment-criteria`, '5', [
+    // 5 Assessment criteria: A Knowing and understanding
+    ...sub(AC, `${AC}-a-knowing-and-understanding`, 'A', [
       { n: 1, f: 'What are the four MYP Individuals and Societies criteria?', b: 'A: Knowing and understanding. B: Investigating. C: Communicating. D: Thinking critically. Equally weighted, each 0–8 (four bands plus level 0), total 0–32. Most assessment is classroom-based; there is no SL/HL split.' },
       { n: 2, f: 'What does top-band criterion A evidence look like?', b: 'Factual and conceptual knowledge applied accurately to unfamiliar contexts, using discipline terminology precisely — connecting facts through a conceptual framework, not just listing them.' },
-      { n: 3, f: 'What does criterion B (Investigating) reward?', b: 'A clear, specific research question and a systematic research process, using a range of source types and evaluating each source\'s reliability and relevance before drawing conclusions.' },
-      { n: 4, f: 'What does criterion C (Communicating) reward?', b: 'Organising, documenting and communicating learning in a format suited to the task and discipline: a clear argument, evidence integrated where it supports each point, correct referencing and accurate terminology.' },
-      { n: 5, f: 'What does criterion D (Thinking critically) reward?', b: 'Analysing and evaluating issues and the investigation itself, considering different perspectives and interpretations, and reaching a well-substantiated conclusion rather than treating one account as the whole picture.' },
-      { n: 6, f: 'How do you evaluate a source using origin and purpose?', b: 'Origin: who made it and when. Purpose: why and for whom. Value: what it can genuinely tell a researcher for this question. Limitation: what it cannot reliably tell. Value and limitation usually come from the same fact about origin and purpose.' },
-      { n: 7, f: 'Give a value and a limitation of a government press release issued the week before an election', b: 'Value: a primary, dated record of what the policy officially is, when and by whom it was announced.\nLimitation: likely to show the policy in the best light, so unreliable for judging its effectiveness or public reception.' },
-      { n: 8, f: 'How do you compare the usefulness of two sources?', b: 'Use a shared criterion tied to the research question (for example, which is more useful for understanding public reaction), weigh the origin, purpose, value and limitation of each against it, and reach a judgement.' },
+    ]),
+    // 5 Assessment criteria: B Investigating
+    ...sub(AC, `${AC}-b-investigating`, 'B', [
+      { n: 1, f: 'What does criterion B (Investigating) reward?', b: 'A clear, specific research question and a systematic research process, using a range of source types and evaluating each source\'s reliability and relevance before drawing conclusions.' },
+    ]),
+    // 5 Assessment criteria: C Communicating
+    ...sub(AC, `${AC}-c-communicating`, 'C', [
+      { n: 1, f: 'What does criterion C (Communicating) reward?', b: 'Organising, documenting and communicating learning in a format suited to the task and discipline: a clear argument, evidence integrated where it supports each point, correct referencing and accurate terminology.' },
+    ]),
+    // 5 Assessment criteria: D Thinking critically
+    ...sub(AC, `${AC}-d-thinking-critically`, 'D', [
+      { n: 1, f: 'What does criterion D (Thinking critically) reward?', b: 'Analysing and evaluating issues and the investigation itself, considering different perspectives and interpretations, and reaching a well-substantiated conclusion rather than treating one account as the whole picture.' },
+      { n: 2, f: 'How do you evaluate a source using origin and purpose?', b: 'Origin: who made it and when. Purpose: why and for whom. Value: what it can genuinely tell a researcher for this question. Limitation: what it cannot reliably tell. Value and limitation usually come from the same fact about origin and purpose.' },
+      { n: 3, f: 'Give a value and a limitation of a government press release issued the week before an election', b: 'Value: a primary, dated record of what the policy officially is, when and by whom it was announced.\nLimitation: likely to show the policy in the best light, so unreliable for judging its effectiveness or public reception.' },
+      { n: 4, f: 'How do you compare the usefulness of two sources?', b: 'Use a shared criterion tied to the research question (for example, which is more useful for understanding public reaction), weigh the origin, purpose, value and limitation of each against it, and reach a judgement.' },
     ]),
 
     // 6 MYP eAssessment topics

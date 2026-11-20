@@ -2,11 +2,14 @@
  * D-444 -- flashcards for OxfordAQA International GCSE Computer Science 9210
  * (for teaching from September 2017, exams from May/June 2019).
  *
- * Topic 2 (Programming) itemises subtopics 3.2.1-3.2.13, so its cards use
- * `<subtopic number>-<n>`. Topics 1 and 3-8 list no subtopics in the syllabus
- * record, so their cards sit on the topic (topicOnly helper, ids
- * `<topic number>-<n>`). Ids are permanent (browser progress is keyed by
- * them): add a new card with the next unused n, never renumber.
+ * Every topic that lists subtopics in the syllabus record (topics 1 to 4 and
+ * 6 to 8; 3.1.1 to 3.8.2) is keyed by subtopic, so its cards use
+ * `<subtopic number>-<n>`. Topic 5 (Computer networks) lists none, so its
+ * cards sit on the topic (topicOnly helper, ids `<topic number>-<n>`).
+ * On 20 Nov 2026 the cards on topics 1, 3, 4, 6, 7 and 8 were re-filed under
+ * their subtopics and `idMigration` below moves saved progress onto the new
+ * ids. Ids are permanent (browser progress is keyed by them): add a new card
+ * with the next unused n, never renumber.
  *
  *   src: '...'  The card restates that revision-notes page (found with
  *               scripts/flashcard-candidates.mjs 9210); origin 'revision-notes'.
@@ -54,19 +57,52 @@ export const DECK_OXFORDAQA_IGCSE_COMPUTER_SCIENCE: FlashcardDeck = {
   syllabusCode: '9210',
   syllabusSeries: 'For teaching from September 2017, exams from May/June 2019',
   author: 'marlbridge-academic-team',
-  updated: '2026-11-08',
+  updated: '2026-11-20',
+  idMigration: {
+    id: '9210-subtopics-2026-11-20',
+    before: '2026-11-20',
+    map: {
+      '1-1': '3.1.1-1', '1-2': '3.1.1-2', '1-3': '3.1.1-3', '1-4': '3.1.1-4', '1-5': '3.1.1-5',
+      '1-6': '3.1.3-1', '1-7': '3.1.4-1', '1-8': '3.1.4-2', '1-9': '3.1.1-6', '3.2.1-1': '3.2.1-1',
+      '3.2.1-2': '3.2.1-2', '3.2.1-3': '3.2.1-3', '3.2.2-1': '3.2.2-1', '3.2.2-2': '3.2.2-2', '3.2.2-3': '3.2.2-3',
+      '3.2.2-4': '3.2.2-4', '3.2.2-5': '3.2.2-5', '3.2.3-1': '3.2.3-1', '3.2.3-2': '3.2.3-2', '3.2.3-3': '3.2.3-3',
+      '3.2.4-1': '3.2.4-1', '3.2.4-2': '3.2.4-2', '3.2.4-3': '3.2.4-3', '3.2.5-1': '3.2.5-1', '3.2.5-2': '3.2.5-2',
+      '3.2.5-3': '3.2.5-3', '3.2.6-1': '3.2.6-1', '3.2.6-2': '3.2.6-2', '3.2.6-3': '3.2.6-3', '3.2.6-4': '3.2.6-4',
+      '3.2.7-1': '3.2.7-1', '3.2.7-2': '3.2.7-2', '3.2.7-3': '3.2.7-3', '3.2.8-1': '3.2.8-1', '3.2.8-2': '3.2.8-2',
+      '3.2.8-3': '3.2.8-3', '3.2.8-4': '3.2.8-4', '3.2.9-1': '3.2.9-1', '3.2.9-2': '3.2.9-2', '3.2.9-3': '3.2.9-3',
+      '3.2.10-1': '3.2.10-1', '3.2.10-2': '3.2.10-2', '3.2.10-3': '3.2.10-3', '3.2.10-4': '3.2.10-4', '3.2.10-5': '3.2.10-5',
+      '3.2.11-1': '3.2.11-1', '3.2.11-2': '3.2.11-2', '3.2.11-3': '3.2.11-3', '3.2.12-1': '3.2.12-1', '3.2.12-2': '3.2.12-2',
+      '3.2.12-3': '3.2.12-3', '3.2.12-4': '3.2.12-4', '3.2.13-1': '3.2.13-1', '3.2.13-2': '3.2.13-2', '3.2.13-3': '3.2.13-3',
+      '3.2.13-4': '3.2.13-4', '3-1': '3.3.1-1', '3-2': '3.3.2-1', '3-3': '3.3.1-2', '3-4': '3.3.3-1',
+      '3-6': '3.3.4-1', '3-7': '3.3.5-1', '3-8': '3.3.6-1', '3-9': '3.3.7-1', '3-11': '3.3.8-1',
+      '3-12': '3.3.8-2', '3-13': '3.3.8-3', '3-14': '3.3.8-4', '3-15': '3.3.2-2', '4-1': '3.4.4-1',
+      '4-2': '3.4.4-2', '4-3': '3.4.4-3', '4-4': '3.4.4-4', '4-5': '3.4.4-5', '4-6': '3.4.4-6',
+      '4-7': '3.4.4-7', '4-8': '3.4.4-8', '4-9': '3.4.3-1', '4-10': '3.4.2-1', '5-1': '5-1',
+      '5-2': '5-2', '5-3': '5-3', '5-4': '5-4', '5-5': '5-5', '5-6': '5-6',
+      '5-7': '5-7', '5-8': '5-8', '6-1': '3.6.1-1', '6-2': '3.6.1-2', '6-3': '3.6.1-3',
+      '6-4': '3.6.1-4', '6-5': '3.6.1-5', '6-6': '3.6.2-1', '6-7': '3.6.2-2', '6-8': '3.6.1-6',
+      '6-9': '3.6.2-3', '7-1': '3.7.1-1', '7-2': '3.7.1-2', '7-3': '3.7.1-3', '7-4': '3.7.1-4',
+      '7-5': '3.7.3-1', '7-6': '3.7.3-2', '7-7': '3.7.3-3', '7-8': '3.7.3-4', '8-1': '3.8.1-1',
+      '8-2': '3.8.2-1', '8-3': '3.8.2-2', '8-4': '3.8.2-3', '8-5': '3.8.2-4', '8-6': '3.8.2-5',
+      '8-7': '3.8.2-6', '8-10': '3.8.2-7', '8-11': '3.8.2-8', '8-12': '3.8.2-9', '8-13': '3.8.1-2',
+    },
+  },
   cards: [
     // 1 Algorithms
-    ...topicOnly('algorithms-9210', '1', [
+    ...sub('algorithms-9210', 'representing-algorithms-9210', '3.1.1', [
       { n: 1, f: 'What is an algorithm?', b: 'A sequence of steps that solves a problem or completes a task. It must be unambiguous, finite and produce a result. A program is one implementation of an algorithm in a particular language.' },
       { n: 2, f: 'What is decomposition?', b: 'Breaking a problem into smaller, manageable sub-problems.', src: ALG },
       { n: 3, f: 'What is abstraction?', b: 'Removing unnecessary detail to focus on what matters, e.g. an underground map keeps the connections but drops real distances.', src: ALG },
       { n: 4, f: 'What is algorithmic thinking?', b: 'Devising the sequence of steps that solves the problem.', src: ALG },
       { n: 5, f: 'What do the four main flowchart symbols mean?', b: 'Oval/rounded: start and stop.\nParallelogram: input and output.\nRectangle: process.\nDiamond: decision, with two labelled exits, Yes and No.' },
-      { n: 6, f: 'What is the difference between a linear search and a binary search?', b: 'Linear: checks each item in turn; works on data in any order; slow on large sets.\nBinary: compares the middle item and discards half each time; the data must be sorted; much faster.' },
-      { n: 7, f: 'How does a bubble sort work?', b: 'Repeatedly compare adjacent pairs and swap them if out of order. After each pass the largest remaining item has moved to the end. Stop when a pass makes no swaps.' },
-      { n: 8, f: 'How does a merge sort work?', b: 'Divide the list in half repeatedly until each part holds one item, then merge the parts back together in order. Faster than bubble sort on large lists but more complex.' },
-      { n: 9, f: 'What is a trace table used for?', b: 'Recording the value of each variable (one column each) as an algorithm runs line by line, to work out its output and find logic errors.' },
+      { n: 6, f: 'What is a trace table used for?', b: 'Recording the value of each variable (one column each) as an algorithm runs line by line, to work out its output and find logic errors.' },
+    ]),
+    ...sub('algorithms-9210', 'searching-algorithms-9210', '3.1.3', [
+      { n: 1, f: 'What is the difference between a linear search and a binary search?', b: 'Linear: checks each item in turn; works on data in any order; slow on large sets.\nBinary: compares the middle item and discards half each time; the data must be sorted; much faster.' },
+    ]),
+    ...sub('algorithms-9210', 'sorting-algorithms-9210', '3.1.4', [
+      { n: 1, f: 'How does a bubble sort work?', b: 'Repeatedly compare adjacent pairs and swap them if out of order. After each pass the largest remaining item has moved to the end. Stop when a pass makes no swaps.' },
+      { n: 2, f: 'How does a merge sort work?', b: 'Divide the list in half repeatedly until each part holds one item, then merge the parts back together in order. Faster than bubble sort on large lists but more complex.' },
     ]),
 
     // 2 Programming
@@ -145,24 +181,44 @@ export const DECK_OXFORDAQA_IGCSE_COMPUTER_SCIENCE: FlashcardDeck = {
     ]),
 
     // 3 Data representation
-    ...topicOnly('data-representation-9210', '3', [
+    ...sub('data-representation-9210', 'number-bases-9210', '3.3.1', [
       { n: 1, f: 'Why do computers use binary?', b: 'Their circuits are made of switches (transistors) with two states, on and off, which represent 1 and 0.' },
-      { n: 2, f: 'How do you convert binary 1011 0110 to hexadecimal?', b: 'Split into groups of four bits: 1011 = B and 0110 = 6, so B6.' },
-      { n: 3, f: 'Why is hexadecimal used?', b: 'It is a shorter way of writing binary that is easier for people to read and less error-prone; each hex digit stands for four bits.' },
-      { n: 4, f: 'What are the units of storage from bit to gigabyte?', b: 'A bit (b) is a 0 or 1; a byte (B) is 8 bits. 9210 uses decimal prefixes: 1 kB = 1,000 bytes, 1 MB = 1,000 kB, 1 GB = 1,000 MB, 1 TB = 1,000 GB.' },
-      { n: 6, f: 'What does a binary shift do?', b: 'A left shift by one place multiplies a number by 2; a right shift by one place divides it by 2 (any remainder is lost).' },
-      { n: 7, f: 'What is a character set? Compare ASCII and Unicode.', b: 'A set of characters with a binary code for each. 7-bit ASCII has 128 codes (English). Unicode represents many alphabets and special symbols, a far greater range, and uses the same codes as ASCII up to 127.' },
-      { n: 8, f: 'How do you calculate the file size of a bitmap image?', b: 'Width in pixels × height in pixels × colour depth (bits per pixel) gives the size in bits; divide by 8 for bytes.' },
-      { n: 9, f: 'How do you calculate the file size of a sound recording?', b: 'Sample rate (Hz) × sample resolution (bits) × duration (seconds) gives the size in bits.' },
-      { n: 11, f: 'How do you build a Huffman tree?', b: 'Count the frequency of each character, then repeatedly join the two items with the lowest totals into a new node holding their sum until one root remains. Label branches 0 and 1; a code is the path from the root.' },
-      { n: 12, f: 'How do you calculate the bits needed for Huffman-compressed data?', b: 'Add up frequency × code length for every character. Compare with uncompressed 7-bit ASCII: number of characters × 7.' },
-      { n: 13, f: 'Why do frequent characters get short Huffman codes?', b: 'They are joined last, so they sit near the root and need fewer branches (bits), which minimises the total size.' },
-      { n: 14, f: 'Write 0000011100000011 in run length encoding', b: '5 0 3 1 6 0 2 1. Each pair is a frequency then the data value (the specification\'s own example).' },
-      { n: 15, f: 'What range of values must you convert between bases in 9210?', b: 'Decimal 0 to 255, which is binary 0000 0000 to 1111 1111 and hexadecimal 00 to FF.' },
+      { n: 2, f: 'Why is hexadecimal used?', b: 'It is a shorter way of writing binary that is easier for people to read and less error-prone; each hex digit stands for four bits.' },
+    ]),
+    ...sub('data-representation-9210', 'converting-between-number-bases-9210', '3.3.2', [
+      { n: 1, f: 'How do you convert binary 1011 0110 to hexadecimal?', b: 'Split into groups of four bits: 1011 = B and 0110 = 6, so B6.' },
+      { n: 2, f: 'What range of values must you convert between bases in 9210?', b: 'Decimal 0 to 255, which is binary 0000 0000 to 1111 1111 and hexadecimal 00 to FF.' },
+    ]),
+    ...sub('data-representation-9210', 'units-of-information-9210', '3.3.3', [
+      { n: 1, f: 'What are the units of storage from bit to gigabyte?', b: 'A bit (b) is a 0 or 1; a byte (B) is 8 bits. 9210 uses decimal prefixes: 1 kB = 1,000 bytes, 1 MB = 1,000 kB, 1 GB = 1,000 MB, 1 TB = 1,000 GB.' },
+    ]),
+    ...sub('data-representation-9210', 'binary-arithmetic-9210', '3.3.4', [
+      { n: 1, f: 'What does a binary shift do?', b: 'A left shift by one place multiplies a number by 2; a right shift by one place divides it by 2 (any remainder is lost).' },
+    ]),
+    ...sub('data-representation-9210', 'character-encoding-9210', '3.3.5', [
+      { n: 1, f: 'What is a character set? Compare ASCII and Unicode.', b: 'A set of characters with a binary code for each. 7-bit ASCII has 128 codes (English). Unicode represents many alphabets and special symbols, a far greater range, and uses the same codes as ASCII up to 127.' },
+    ]),
+    ...sub('data-representation-9210', 'representing-images-9210', '3.3.6', [
+      { n: 1, f: 'How do you calculate the file size of a bitmap image?', b: 'Width in pixels × height in pixels × colour depth (bits per pixel) gives the size in bits; divide by 8 for bytes.' },
+    ]),
+    ...sub('data-representation-9210', 'representing-sound-9210', '3.3.7', [
+      { n: 1, f: 'How do you calculate the file size of a sound recording?', b: 'Sample rate (Hz) × sample resolution (bits) × duration (seconds) gives the size in bits.' },
+    ]),
+    ...sub('data-representation-9210', 'data-compression-9210', '3.3.8', [
+      { n: 1, f: 'How do you build a Huffman tree?', b: 'Count the frequency of each character, then repeatedly join the two items with the lowest totals into a new node holding their sum until one root remains. Label branches 0 and 1; a code is the path from the root.' },
+      { n: 2, f: 'How do you calculate the bits needed for Huffman-compressed data?', b: 'Add up frequency × code length for every character. Compare with uncompressed 7-bit ASCII: number of characters × 7.' },
+      { n: 3, f: 'Why do frequent characters get short Huffman codes?', b: 'They are joined last, so they sit near the root and need fewer branches (bits), which minimises the total size.' },
+      { n: 4, f: 'Write 0000011100000011 in run length encoding', b: '5 0 3 1 6 0 2 1. Each pair is a frequency then the data value (the specification\'s own example).' },
     ]),
 
     // 4 Computer systems
-    ...topicOnly('computer-systems-9210', '4', [
+    ...sub('computer-systems-9210', 'boolean-logic-9210', '3.4.2', [
+      { n: 1, f: 'What do the NOT, AND and OR gates do?', b: 'NOT: inverts its single input.\nAND: output 1 only when both inputs are 1.\nOR: output 1 when at least one input is 1.' },
+    ]),
+    ...sub('computer-systems-9210', 'software-classification-9210', '3.4.3', [
+      { n: 1, f: 'What are the main functions of an operating system?', b: 'Managing memory, files, the processor (so several programs can run), peripherals and security, and providing a user interface.' },
+    ]),
+    ...sub('computer-systems-9210', 'systems-architecture-9210', '3.4.4', [
       { n: 1, f: 'What do the ALU and the control unit do?', b: 'ALU: carries out calculations and logical comparisons.\nControl unit: fetches and decodes instructions and directs the other parts of the CPU.' },
       { n: 2, f: 'What are registers and cache?', b: 'Registers: very small, very fast storage locations inside the CPU.\nCache: a small amount of fast memory holding frequently used data and instructions, so the CPU waits less for main memory.' },
       { n: 3, f: 'What is the von Neumann architecture?', b: 'Program instructions and data are both stored in main memory, and the processor fetches both from there.' },
@@ -171,8 +227,6 @@ export const DECK_OXFORDAQA_IGCSE_COMPUTER_SCIENCE: FlashcardDeck = {
       { n: 6, f: 'What is the difference between RAM and ROM?', b: 'RAM: volatile, read and write, holds the programs and data in use.\nROM: non-volatile, read only, holds the start-up (boot) instructions.' },
       { n: 7, f: 'Compare magnetic, optical and solid-state storage.', b: 'Magnetic (hard disk): large capacity, cheap per gigabyte, moving parts.\nOptical (CD, DVD, Blu-ray): cheap and portable, low capacity, slower.\nSolid-state (SSD, flash): fast, no moving parts, robust, but more expensive per gigabyte.' },
       { n: 8, f: 'What is an embedded system?', b: 'A computer built into a larger device to do one dedicated task, such as the controller in a washing machine or microwave.' },
-      { n: 9, f: 'What are the main functions of an operating system?', b: 'Managing memory, files, the processor (so several programs can run), peripherals and security, and providing a user interface.' },
-      { n: 10, f: 'What do the NOT, AND and OR gates do?', b: 'NOT: inverts its single input.\nAND: output 1 only when both inputs are 1.\nOR: output 1 when at least one input is 1.' },
     ]),
 
     // 5 Computer networks
@@ -188,43 +242,49 @@ export const DECK_OXFORDAQA_IGCSE_COMPUTER_SCIENCE: FlashcardDeck = {
     ]),
 
     // 6 Cyber security
-    ...topicOnly('cyber-security-9210', '6', [
+    ...sub('cyber-security-9210', 'cyber-security-threats-9210', '3.6.1', [
       { n: 1, f: 'What is cyber security?', b: 'The processes, practices and technologies that protect networks, computers, programs and data from attack, damage or unauthorised access.' },
       { n: 2, f: 'What is social engineering? Give two examples.', b: 'Manipulating people into giving away information or access. Examples: phishing (fake emails or sites), blagging (an invented story to persuade someone), shouldering (watching someone type a PIN or password).' },
       { n: 3, f: 'What is malware? Name three types.', b: 'Software written to cause harm or gain unauthorised access. Types: viruses, worms, trojans, spyware and ransomware.' },
       { n: 4, f: 'What is a brute force attack and how can it be prevented?', b: 'Trying every possible password until one works. Prevented by long, complex passwords and by locking an account after several failed attempts.' },
       { n: 5, f: 'What is SQL injection?', b: 'Typing SQL code into a website’s input box so that it runs on the database, to read or change data. Prevented by validating input and using parameterised queries.' },
-      { n: 6, f: 'How does a firewall protect a network?', b: 'It checks incoming and outgoing traffic against a set of rules and blocks traffic that is not allowed.' },
-      { n: 7, f: 'What is encryption?', b: 'Scrambling data using a key so that it cannot be understood if it is intercepted; only someone with the right key can decrypt it.' },
-      { n: 8, f: 'What is penetration testing?', b: 'Authorised, simulated attacks on a system to find its weaknesses before real attackers do.' },
-      { n: 9, f: 'Why is two-factor authentication more secure than a password alone?', b: 'The user needs two different kinds of evidence, such as a password and a code sent to their phone, so a stolen password alone is not enough.' },
+      { n: 6, f: 'What is penetration testing?', b: 'Authorised, simulated attacks on a system to find its weaknesses before real attackers do.' },
+    ]),
+    ...sub('cyber-security-9210', 'methods-to-detect-and-prevent-cyber-security-threats-9210', '3.6.2', [
+      { n: 1, f: 'How does a firewall protect a network?', b: 'It checks incoming and outgoing traffic against a set of rules and blocks traffic that is not allowed.' },
+      { n: 2, f: 'What is encryption?', b: 'Scrambling data using a key so that it cannot be understood if it is intercepted; only someone with the right key can decrypt it.' },
+      { n: 3, f: 'Why is two-factor authentication more secure than a password alone?', b: 'The user needs two different kinds of evidence, such as a password and a code sent to their phone, so a stolen password alone is not enough.' },
     ]),
 
     // 7 Relational databases and SQL
-    ...topicOnly('relational-databases-and-sql', '7', [
+    ...sub('relational-databases-and-sql', 'relational-databases-9210', '3.7.1', [
       { n: 1, f: 'What are a table, a record and a field in a database?', b: 'Table: data about one type of thing.\nRecord: one row, all the data about one item.\nField: one column, one item of data about each record.' },
       { n: 2, f: 'What is a primary key?', b: 'A field that uniquely identifies each record in a table, such as StudentID.' },
       { n: 3, f: 'What is a foreign key?', b: 'A field in one table that is the primary key in another table, used to link the two tables.' },
       { n: 4, f: 'Why is a relational database better than one flat file?', b: 'Data is stored once in linked tables, so there is less data redundancy, fewer inconsistencies, and less storage is needed.' },
-      { n: 5, f: 'What does this SQL do?\nSELECT Name FROM Pupil WHERE Age > 14', b: 'Lists the Name of every pupil older than 14. Retrieval in 9210 uses only SELECT, FROM and WHERE (ORDER BY is not in the specification).' },
-      { n: 6, f: 'How do you add a new record in SQL?', b: 'INSERT INTO Pupil VALUES (25, \'Ali\', 15)\nThe 9210 specification requires only the form that gives a value for every field, in field order.' },
-      { n: 7, f: 'How do you change and remove records in SQL?', b: 'UPDATE Pupil SET Age = 16 WHERE PupilID = 25\nDELETE FROM Pupil WHERE PupilID = 25\nWithout WHERE, every record would be changed or deleted.' },
-      { n: 8, f: 'How do you get data from two linked tables in SQL?', b: 'List both tables and match the foreign key to the primary key, e.g.\nSELECT Pupil.Name, Form.Tutor FROM Pupil, Form WHERE Pupil.FormID = Form.FormID' },
+    ]),
+    ...sub('relational-databases-and-sql', 'structured-query-language-sql-9210', '3.7.3', [
+      { n: 1, f: 'What does this SQL do?\nSELECT Name FROM Pupil WHERE Age > 14', b: 'Lists the Name of every pupil older than 14. Retrieval in 9210 uses only SELECT, FROM and WHERE (ORDER BY is not in the specification).' },
+      { n: 2, f: 'How do you add a new record in SQL?', b: 'INSERT INTO Pupil VALUES (25, \'Ali\', 15)\nThe 9210 specification requires only the form that gives a value for every field, in field order.' },
+      { n: 3, f: 'How do you change and remove records in SQL?', b: 'UPDATE Pupil SET Age = 16 WHERE PupilID = 25\nDELETE FROM Pupil WHERE PupilID = 25\nWithout WHERE, every record would be changed or deleted.' },
+      { n: 4, f: 'How do you get data from two linked tables in SQL?', b: 'List both tables and match the foreign key to the primary key, e.g.\nSELECT Pupil.Name, Form.Tutor FROM Pupil, Form WHERE Pupil.FormID = Form.FormID' },
     ]),
 
     // 8 Web page design
-    ...topicOnly('web-page-design', '8', [
+    ...sub('web-page-design', 'key-concepts-9210', '3.8.1', [
       { n: 1, f: 'What is the difference between HTML and CSS?', b: 'HTML (hypertext markup language) describes the structure and content of a page. CSS (cascading style sheets) describes how it looks: colours, fonts and layout.' },
-      { n: 2, f: 'What are the head and body sections of an HTML page for?', b: 'Head: information about the page that is not shown in the main window, such as the title and links to style sheets.\nBody: the content displayed in the browser.' },
-      { n: 3, f: 'Which HTML elements are used for headings, paragraphs and lists?', b: 'h1 to h6 for headings (most to least important), p for a paragraph, ul for an unordered list, ol for an ordered list and li for each list item.' },
-      { n: 4, f: 'Which HTML elements create a hyperlink and an image, and which attributes do they need?', b: 'a creates a link, with href giving the destination. img inserts an image, with src giving the file and alt giving a text description.' },
-      { n: 5, f: 'Why should every image have alt text?', b: 'It is displayed if the image does not load and is read out by screen readers for visually impaired users.' },
-      { n: 6, f: 'What are the parts of a CSS rule?', b: 'A selector, which says which elements to style, and a declaration block in curly brackets holding property: value pairs, each ending with a semicolon.' },
-      { n: 7, f: 'What is the difference between a type selector and a class selector in CSS?', b: 'Type selector (h1): styles every element of that type.\nClass selector (.price): styles any element with class="price". These are the two selector kinds named in the 9210 specification.' },
-      { n: 10, f: 'Which CSS properties does the 9210 specification list?', b: 'background-color, color, text-align, font-family, font-size, font-weight and font-style. A rule is written selector { property : value }.' },
-      { n: 11, f: 'Where is CSS placed in 9210 exam questions?', b: 'In an embedded style sheet: a style element inside the page. Exam questions only use embedded style sheets.' },
-      { n: 12, f: 'Give three key differences between HTML5 and earlier versions of HTML', b: 'Any three: supports facilities previously needing add-ons; better support for web applications through scripting and new APIs; easier graphics and multimedia with the svg, canvas, audio and video tags; new semantic elements such as header and article.' },
-      { n: 13, f: 'Server-side vs client-side scripting', b: 'Server-side scripts run on the web server to generate pages dynamically. Client-side scripts run in the browser to add extra functionality to a page.' },
+      { n: 2, f: 'Server-side vs client-side scripting', b: 'Server-side scripts run on the web server to generate pages dynamically. Client-side scripts run in the browser to add extra functionality to a page.' },
+    ]),
+    ...sub('web-page-design', 'hypertext-markup-language-html-9210', '3.8.2', [
+      { n: 1, f: 'What are the head and body sections of an HTML page for?', b: 'Head: information about the page that is not shown in the main window, such as the title and links to style sheets.\nBody: the content displayed in the browser.' },
+      { n: 2, f: 'Which HTML elements are used for headings, paragraphs and lists?', b: 'h1 to h6 for headings (most to least important), p for a paragraph, ul for an unordered list, ol for an ordered list and li for each list item.' },
+      { n: 3, f: 'Which HTML elements create a hyperlink and an image, and which attributes do they need?', b: 'a creates a link, with href giving the destination. img inserts an image, with src giving the file and alt giving a text description.' },
+      { n: 4, f: 'Why should every image have alt text?', b: 'It is displayed if the image does not load and is read out by screen readers for visually impaired users.' },
+      { n: 5, f: 'What are the parts of a CSS rule?', b: 'A selector, which says which elements to style, and a declaration block in curly brackets holding property: value pairs, each ending with a semicolon.' },
+      { n: 6, f: 'What is the difference between a type selector and a class selector in CSS?', b: 'Type selector (h1): styles every element of that type.\nClass selector (.price): styles any element with class="price". These are the two selector kinds named in the 9210 specification.' },
+      { n: 7, f: 'Which CSS properties does the 9210 specification list?', b: 'background-color, color, text-align, font-family, font-size, font-weight and font-style. A rule is written selector { property : value }.' },
+      { n: 8, f: 'Where is CSS placed in 9210 exam questions?', b: 'In an embedded style sheet: a style element inside the page. Exam questions only use embedded style sheets.' },
+      { n: 9, f: 'Give three key differences between HTML5 and earlier versions of HTML', b: 'Any three: supports facilities previously needing add-ons; better support for web applications through scripting and new APIs; easier graphics and multimedia with the svg, canvas, audio and video tags; new semantic elements such as header and article.' },
     ]),
   ],
 };

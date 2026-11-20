@@ -14,6 +14,7 @@ order: 258
 syllabusTopics:
   - qualification: "a-level"
     topic: "populations-and-genes-oxfordaqa-alevel-biology"
+    subtopic: "photosynthesis-oxfordaqa-alevel-biology"
 description: "Study guide to the light-dependent and light-independent reactions, the Calvin cycle and limiting factors for OxfordAQA International A-level Biology."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

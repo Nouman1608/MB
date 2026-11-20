@@ -12,6 +12,7 @@ order: 3.3
 syllabusTopics:
   - qualification: "igcse"
     topic: "geographical-fieldwork-skills-9230"
+    subtopic: "section-b-fieldwork-skills-and-section-c-individual-fieldwork-enquiry-9230"
 description: "How to select, measure and record 9230 fieldwork data: physical and human methods, sampling, recording sheets, accuracy, reliability and justification."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

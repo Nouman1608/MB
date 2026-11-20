@@ -14,6 +14,7 @@ order: 266
 syllabusTopics:
   - qualification: "a-level"
     topic: "control-oxfordaqa-alevel-biology"
+    subtopic: "nerve-impulses-and-synaptic-transmission-oxfordaqa-alevel-biology"
 description: "Recall notes on resting and action potentials, refractory period, conduction speed, cholinergic synapses and drug predictions, OxfordAQA A-level Biology."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

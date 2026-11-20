@@ -14,6 +14,9 @@ order: 262
 syllabusTopics:
   - qualification: "a-level"
     topic: "populations-and-genes-oxfordaqa-alevel-biology"
+  - qualification: "a-level"
+    topic: "populations-and-genes-oxfordaqa-alevel-biology"
+    subtopic: "inheritance-oxfordaqa-alevel-biology"
 description: "Condensed revision notes on genetic crosses, sex-linkage, linkage, epistasis and the chi-squared test for OxfordAQA International A-level Biology 9610."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

@@ -12,6 +12,9 @@ order: 2.1
 syllabusTopics:
   - qualification: "gcse"
     topic: "shaping-the-nation-8145"
+  - qualification: "gcse"
+    topic: "shaping-the-nation-8145"
+    subtopic: "stn-section-a-thematic-studies-8145"
 description: "AQA GCSE History 8145 Health and the people, Part three: germ theory, Pasteur, Koch and Ehrlich, anaesthetics, antiseptics, cholera and the Public Health Acts."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

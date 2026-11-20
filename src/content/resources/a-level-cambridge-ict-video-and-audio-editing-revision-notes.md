@@ -14,6 +14,9 @@ order: 11
 syllabusTopics:
   - qualification: "a-level"
     topic: "video-and-audio-editing"
+  - qualification: "a-level"
+    topic: "video-and-audio-editing"
+    subtopic: "video-editing"
 description: "Revision notes for Cambridge AS & A Level IT 9626 Video and audio editing: key terms, format tables, sampling sums and a quick self-test."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"

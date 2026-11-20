@@ -1,10 +1,11 @@
 /**
  * D-444 -- flashcards for OxfordAQA International GCSE Geography 9230 (Version 4.3).
  *
- * Topics 1 and 3 list no subtopics, so their cards are keyed by topic number
- * (`<topic number>-<n>`); topic 2 is keyed by its two subtopic numbers. Card ids
- * are permanent (browser progress is keyed by them): add a new card with the
- * next unused n, never renumber.
+ * Every topic lists subtopics, so every card is keyed by its subtopic number
+ * (`<subtopic number>-<n>`). On 20 Nov 2026 the cards on topics 1 and 3 were
+ * re-filed under their subtopics, and `idMigration` below moves saved progress
+ * onto the new ids. Card ids are permanent (browser progress is keyed by
+ * them): add a new card with the next unused n, never renumber.
  *
  * The syllabus is not tiered, so there are no tier marks. Written from the
  * Marlbridge 9230 study guides and revision notes. No named case-study figures
@@ -27,16 +28,6 @@ const sub = (topic: string, subtopic: string, number: string, specs: Spec[]): Fl
     ...(src ? { source: src } : {}),
   }));
 
-const topicOnly = (topic: string, number: string, specs: Spec[]): Flashcard[] =>
-  specs.map(({ n, f, b, src }) => ({
-    id: `${number}-${n}`,
-    topic,
-    front: f,
-    back: b,
-    origin: src ? 'revision-notes' as const : 'authored' as const,
-    ...(src ? { source: src } : {}),
-  }));
-
 export const DECK_OXFORDAQA_IGCSE_GEOGRAPHY: FlashcardDeck = {
   boardSlug: 'oxfordaqa',
   qualificationSlug: 'igcse',
@@ -44,31 +35,63 @@ export const DECK_OXFORDAQA_IGCSE_GEOGRAPHY: FlashcardDeck = {
   syllabusCode: '9230',
   syllabusSeries: 'Version 4.3',
   author: 'marlbridge-academic-team',
-  updated: '2026-11-15',
+  updated: '2026-11-20',
   deckReview: { reviewerSlug: 'azam-siddique', reviewedOn: '2026-11-15' },
+  idMigration: {
+    id: '9230-subtopics-2026-11-20',
+    before: '2026-11-20',
+    map: {
+      '1-1': '3.1.1.2-1', '1-2': '3.1.1.2-2', '1-3': '3.1.1.2-3', '1-4': '3.1.1.1-1', '1-5': '3.1.1.1-2',
+      '1-6': '3.1.1.2-4', '1-7': '3.1.1.1-3', '1-8': '3.1.1.3-1', '1-9': '3.1.1.3-2', '1-10': '3.1.1.4-1',
+      '1-11': '3.1.1.4-2', '1-12': '3.1.2.2-1', '1-13': '3.1.2.2-2', '1-14': '3.1.2.3-1', '1-15': '3.1.3.2-1',
+      '1-16': '3.1.4.2-1', '1-17': '3.1.3.2-2', '1-18': '3.1.4.2-2', '1-19': '3.1.3.2-3', '1-20': '3.1.1.1-4',
+      '3.2.1.1-1': '3.2.1.1-1', '3.2.1.1-2': '3.2.1.1-2', '3.2.1.1-3': '3.2.1.1-3', '3.2.1.1-4': '3.2.1.1-4', '3.2.1.1-5': '3.2.1.1-5',
+      '3.2.1.1-6': '3.2.1.1-6', '3.2.1.1-7': '3.2.1.1-7', '3.2.1.1-8': '3.2.1.1-8', '3.2.1.1-9': '3.2.1.1-9', '3.2.1.1-10': '3.2.1.1-10',
+      '3.2.1.2-1': '3.2.1.2-1', '3.2.1.2-2': '3.2.1.2-2', '3.2.1.2-3': '3.2.1.2-3', '3.2.1.2-4': '3.2.1.2-4', '3.2.1.2-5': '3.2.1.2-5',
+      '3.2.1.2-6': '3.2.1.2-6', '3.2.1.2-7': '3.2.1.2-7', '3.2.1.2-8': '3.2.1.2-8', '3-1': '3.3.1.1-1', '3-2': '3.3.1.1-2',
+      '3-3': '3.3.1.1-3', '3-4': '3.3.1.1-4', '3-5': '3.3.1.3-1', '3-6': '3.3.1.4-1', '3-7': '3.3.1.4-2',
+      '3-8': '3.3.1.2-1', '3-9': '3.3.1.2-2', '3-10': '3.3.1.1-5', '3-11': '3.3.1.1-6', '3-12': '3.3.1.2-3',
+      '3-13': '3.3.2-1', '3-14': '3.3.2-2', '3-15': '3.3.2-3', '3-16': '3.3.2-4', '3-17': '3.3.1.2-4',
+      '3-18': '3.3.1.4-3',
+    },
+  },
   cards: [
     // 1 Living with the Physical Environment
-    ...topicOnly('living-with-physical-environment-9230', '1', [
+    ...sub('living-with-physical-environment-9230', 'natural-hazards-9230', '3.1.1.1', [
+      { n: 1, f: 'Primary effect vs secondary effect of a hazard', b: 'Primary: caused directly by the hazard (buildings collapse, deaths). Secondary: follows from the primary effects (fires from ruptured gas mains, disease, homelessness, tsunami).' },
+      { n: 2, f: 'Immediate response vs long-term response', b: 'Immediate: search and rescue, shelter, medical aid, emergency aid. Long-term: rebuilding to better standards, repairing infrastructure, better monitoring, economic recovery.' },
+      { n: 3, f: 'What are the four Ps of managing natural hazards?', b: 'Prediction (monitoring), protection (resistant buildings, defences), preparation (drills, education, supplies) and planning (land-use zoning away from high risk).' },
+      { n: 4, f: 'Section structure of 9230 Paper 1 (Component 1)', b: 'A: natural hazards. B: the living world. C: coastal landscapes. D: hot desert OR river landscapes (one chosen). There is no cold environments option.' },
+    ]),
+    ...sub('living-with-physical-environment-9230', 'tectonic-hazards-9230', '3.1.1.2', [
       { n: 1, f: 'Constructive plate margin: movement and features', b: 'Plates move apart. Shield volcanoes, mid-ocean ridges and minor earthquakes (for example the Mid-Atlantic Ridge).' },
       { n: 2, f: 'Destructive plate margin: movement and features', b: 'Oceanic plate subducts beneath continental plate. Composite volcanoes, ocean trenches and deep-focus earthquakes.' },
       { n: 3, f: 'Which two plate margins have no volcanoes, and why?', b: 'Collision and conservative margins. No crust is being created or destroyed there, so no magma is generated. Collision gives fold mountains; conservative gives powerful earthquakes.' },
-      { n: 4, f: 'Primary effect vs secondary effect of a hazard', b: 'Primary: caused directly by the hazard (buildings collapse, deaths). Secondary: follows from the primary effects (fires from ruptured gas mains, disease, homelessness, tsunami).' },
-      { n: 5, f: 'Immediate response vs long-term response', b: 'Immediate: search and rescue, shelter, medical aid, emergency aid. Long-term: rebuilding to better standards, repairing infrastructure, better monitoring, economic recovery.' },
-      { n: 6, f: 'Why does the same earthquake cause more deaths in a low-income country than a high-income one?', b: 'Weaker building codes and enforcement, fewer emergency resources, harder communications, limited healthcare and less preparation or early warning. The hazard is the same; vulnerability differs.' },
-      { n: 7, f: 'What are the four Ps of managing natural hazards?', b: 'Prediction (monitoring), protection (resistant buildings, defences), preparation (drills, education, supplies) and planning (land-use zoning away from high risk).' },
-      { n: 8, f: 'Conditions needed for a tropical storm to form', b: 'Sea temperature above about 27 °C, deep warm ocean, low wind shear and a position roughly 5° to 30° from the equator so the Coriolis effect can start rotation.' },
-      { n: 9, f: 'Structure of a tropical storm', b: 'A calm, clear, low-pressure eye at the centre; the eyewall around it with the most intense wind and rain; then spiralling rainbands further out.' },
-      { n: 10, f: 'Mitigation vs adaptation in climate change', b: 'Mitigation reduces the causes (renewable energy, afforestation, carbon capture, international agreements). Adaptation copes with effects (flood defences, drought-resistant crops, managed retreat).' },
-      { n: 11, f: 'Natural and human causes of climate change', b: 'Natural: orbital cycles, solar output variation, volcanic ash and aerosols. Human: burning fossil fuels, deforestation, livestock and rice farming, industry and cement. Mechanism: the enhanced greenhouse effect.' },
-      { n: 12, f: 'Why does cleared tropical rainforest land quickly become infertile?', b: 'Nutrients are held in the biomass (the trees), not the soil. Once the trees are removed the store is lost, and the thin soil is infertile within a few growing seasons.' },
-      { n: 13, f: 'Adaptations of tropical rainforest plants', b: 'Buttress roots for stability in thin soil, drip tips to shed heavy rain, lianas and epiphytes to reach light, and a dense closed canopy.' },
-      { n: 14, f: 'Adaptations of hot desert plants and animals', b: 'Deep or wide-spreading roots, water stored in stems, waxy or spiny leaves to cut transpiration, and nocturnal behaviour to avoid daytime heat.' },
-      { n: 15, f: 'Four processes of coastal and river erosion', b: 'Hydraulic action, abrasion, attrition and solution.' },
-      { n: 16, f: 'Four processes of transport', b: 'Traction, saltation, suspension and solution. Deposition happens when energy falls.' },
-      { n: 17, f: 'Sequence of erosional coastal landforms', b: 'Headland, cave, arch, stack, stump. Erosional landforms also include bays and wave-cut platforms; depositional ones include beaches, spits and bars.' },
-      { n: 18, f: 'River landforms by course', b: 'Upper course: waterfalls and gorges. Middle course: meanders and ox-bow lakes. Lower course: floodplains, levees and estuaries.' },
-      { n: 19, f: 'Hard engineering vs soft engineering', b: 'Hard (dams, sea walls, groynes): effective but costly and visually intrusive. Soft (beach nourishment, managed retreat, afforestation): cheaper and more sustainable but slower and less certain.' },
-      { n: 20, f: 'Section structure of 9230 Paper 1 (Component 1)', b: 'A: natural hazards. B: the living world. C: coastal landscapes. D: hot desert OR river landscapes (one chosen). There is no cold environments option.' },
+      { n: 4, f: 'Why does the same earthquake cause more deaths in a low-income country than a high-income one?', b: 'Weaker building codes and enforcement, fewer emergency resources, harder communications, limited healthcare and less preparation or early warning. The hazard is the same; vulnerability differs.' },
+    ]),
+    ...sub('living-with-physical-environment-9230', 'weather-hazards-9230', '3.1.1.3', [
+      { n: 1, f: 'Conditions needed for a tropical storm to form', b: 'Sea temperature above about 27 °C, deep warm ocean, low wind shear and a position roughly 5° to 30° from the equator so the Coriolis effect can start rotation.' },
+      { n: 2, f: 'Structure of a tropical storm', b: 'A calm, clear, low-pressure eye at the centre; the eyewall around it with the most intense wind and rain; then spiralling rainbands further out.' },
+    ]),
+    ...sub('living-with-physical-environment-9230', 'climate-change-9230', '3.1.1.4', [
+      { n: 1, f: 'Mitigation vs adaptation in climate change', b: 'Mitigation reduces the causes (renewable energy, afforestation, carbon capture, international agreements). Adaptation copes with effects (flood defences, drought-resistant crops, managed retreat).' },
+      { n: 2, f: 'Natural and human causes of climate change', b: 'Natural: orbital cycles, solar output variation, volcanic ash and aerosols. Human: burning fossil fuels, deforestation, livestock and rice farming, industry and cement. Mechanism: the enhanced greenhouse effect.' },
+    ]),
+    ...sub('living-with-physical-environment-9230', 'tropical-rainforests-9230', '3.1.2.2', [
+      { n: 1, f: 'Why does cleared tropical rainforest land quickly become infertile?', b: 'Nutrients are held in the biomass (the trees), not the soil. Once the trees are removed the store is lost, and the thin soil is infertile within a few growing seasons.' },
+      { n: 2, f: 'Adaptations of tropical rainforest plants', b: 'Buttress roots for stability in thin soil, drip tips to shed heavy rain, lianas and epiphytes to reach light, and a dense closed canopy.' },
+    ]),
+    ...sub('living-with-physical-environment-9230', 'hot-deserts-9230', '3.1.2.3', [
+      { n: 1, f: 'Adaptations of hot desert plants and animals', b: 'Deep or wide-spreading roots, water stored in stems, waxy or spiny leaves to cut transpiration, and nocturnal behaviour to avoid daytime heat.' },
+    ]),
+    ...sub('living-with-physical-environment-9230', 'coastal-landscapes-9230', '3.1.3.2', [
+      { n: 1, f: 'Four processes of coastal and river erosion', b: 'Hydraulic action, abrasion, attrition and solution.' },
+      { n: 2, f: 'Sequence of erosional coastal landforms', b: 'Headland, cave, arch, stack, stump. Erosional landforms also include bays and wave-cut platforms; depositional ones include beaches, spits and bars.' },
+      { n: 3, f: 'Hard engineering vs soft engineering', b: 'Hard (dams, sea walls, groynes): effective but costly and visually intrusive. Soft (beach nourishment, managed retreat, afforestation): cheaper and more sustainable but slower and less certain.' },
+    ]),
+    ...sub('living-with-physical-environment-9230', 'river-landscapes-9230', '3.1.4.2', [
+      { n: 1, f: 'Four processes of transport', b: 'Traction, saltation, suspension and solution. Deposition happens when energy falls.' },
+      { n: 2, f: 'River landforms by course', b: 'Upper course: waterfalls and gorges. Middle course: meanders and ox-bow lakes. Lower course: floodplains, levees and estuaries.' },
     ]),
 
     // 2 Challenges in the Human Environment
@@ -96,25 +119,33 @@ export const DECK_OXFORDAQA_IGCSE_GEOGRAPHY: FlashcardDeck = {
     ]),
 
     // 3 Geographical and Fieldwork Skills
-    ...topicOnly('geographical-fieldwork-skills-9230', '3', [
+    ...sub('geographical-fieldwork-skills-9230', 'cartographic-skills-9230', '3.3.1.1', [
       { n: 1, f: 'Paper 3 structure (9230)', b: '1 hour 15 minutes, 60 marks, three compulsory 20-mark sections: A geographical skills, B fieldwork in unfamiliar contexts, C your own individual enquiry (you must identify its title).' },
       { n: 2, f: 'Four-figure vs six-figure grid reference', b: 'Four figures name a whole grid square. Six figures name a point to one-tenth of a square. Always give eastings before northings.' },
       { n: 3, f: 'Map scales: 1:50 000 and 1:25 000', b: '1:50 000: 1 cm = 500 m, so 2 cm = 1 km. 1:25 000: 1 cm = 250 m, so 4 cm = 1 km.' },
       { n: 4, f: 'How do you calculate a gradient from a map?', b: 'Vertical rise ÷ horizontal distance, in the same units (convert km to m), written as 1 in x. Example: 80 m over 1.2 km = 80 in 1200 = 1 in 15.' },
-      { n: 5, f: 'Percentage change formula', b: '(new − old) ÷ old × 100. Divide by the original value, not the new one. Example: 250 to 310 is a 24% increase.' },
-      { n: 6, f: 'Mean vs median vs mode', b: 'Mean: total ÷ number of values. Median: middle value of ordered data (average the middle two if n is even). Mode: most frequent value.' },
-      { n: 7, f: 'Inter-quartile range and quartile positions', b: 'IQR = upper quartile − lower quartile. In ordered data the quartiles sit at positions (n + 1) ÷ 4 and 3(n + 1) ÷ 4.' },
-      { n: 8, f: 'How do you work out a pie chart angle?', b: 'Percentage × 3.6 degrees. Example: 35% × 3.6 = 126°.' },
-      { n: 9, f: 'Bar chart vs histogram', b: 'Bar chart: separate bars with gaps, for categories. Histogram: touching bars with equal class intervals, for continuous grouped data.' },
-      { n: 10, f: 'Desire lines vs flow lines', b: 'Desire lines: straight lines from origin to destination. Flow lines: follow a route, with line width showing the amount.' },
-      { n: 11, f: 'Choropleth vs isoline map', b: 'Choropleth: areas shaded by class of value. Isoline: lines joining points of equal value on a continuous surface such as temperature. Close isolines mean fast change.' },
-      { n: 12, f: 'Interpolation vs extrapolation', b: 'Interpolation estimates within the range of the data. Extrapolation estimates beyond it and is less reliable.' },
-      { n: 13, f: 'Accuracy vs reliability', b: 'Accuracy: how close a reading is to the true value. Reliability: repeating the method gives similar results.' },
-      { n: 14, f: 'Random, systematic and stratified sampling', b: 'Random: random numbers pick sites, avoiding bias. Systematic: regular interval (every 20 m), even coverage. Stratified: sample groups in proportion, needs prior information.' },
-      { n: 15, f: 'Primary vs secondary data; qualitative vs quantitative', b: 'Primary: collected by you. Secondary: collected by someone else. Qualitative: words and images. Quantitative: numbers.' },
-      { n: 16, f: 'The six strands of the fieldwork enquiry', b: 'Suitable question; selecting, measuring and recording; processing and presenting; describing, analysing and explaining; conclusions; evaluation.' },
-      { n: 17, f: 'How should you describe a pattern on a map or graph?', b: 'Overall pattern first, then quote at least two figures with units (or grid references), then name the exception or anomaly. Do not explain reasons if the question only says describe.' },
-      { n: 18, f: 'Correlation vs cause', b: 'Two variables can change together without one causing the other. A line of best fit shows a link, not a cause.' },
+      { n: 5, f: 'Desire lines vs flow lines', b: 'Desire lines: straight lines from origin to destination. Flow lines: follow a route, with line width showing the amount.' },
+      { n: 6, f: 'Choropleth vs isoline map', b: 'Choropleth: areas shaded by class of value. Isoline: lines joining points of equal value on a continuous surface such as temperature. Close isolines mean fast change.' },
+    ]),
+    ...sub('geographical-fieldwork-skills-9230', 'graphical-skills-9230', '3.3.1.2', [
+      { n: 1, f: 'How do you work out a pie chart angle?', b: 'Percentage × 3.6 degrees. Example: 35% × 3.6 = 126°.' },
+      { n: 2, f: 'Bar chart vs histogram', b: 'Bar chart: separate bars with gaps, for categories. Histogram: touching bars with equal class intervals, for continuous grouped data.' },
+      { n: 3, f: 'Interpolation vs extrapolation', b: 'Interpolation estimates within the range of the data. Extrapolation estimates beyond it and is less reliable.' },
+      { n: 4, f: 'How should you describe a pattern on a map or graph?', b: 'Overall pattern first, then quote at least two figures with units (or grid references), then name the exception or anomaly. Do not explain reasons if the question only says describe.' },
+    ]),
+    ...sub('geographical-fieldwork-skills-9230', 'numerical-skills-9230', '3.3.1.3', [
+      { n: 1, f: 'Percentage change formula', b: '(new − old) ÷ old × 100. Divide by the original value, not the new one. Example: 250 to 310 is a 24% increase.' },
+    ]),
+    ...sub('geographical-fieldwork-skills-9230', 'statistical-skills-9230', '3.3.1.4', [
+      { n: 1, f: 'Mean vs median vs mode', b: 'Mean: total ÷ number of values. Median: middle value of ordered data (average the middle two if n is even). Mode: most frequent value.' },
+      { n: 2, f: 'Inter-quartile range and quartile positions', b: 'IQR = upper quartile − lower quartile. In ordered data the quartiles sit at positions (n + 1) ÷ 4 and 3(n + 1) ÷ 4.' },
+      { n: 3, f: 'Correlation vs cause', b: 'Two variables can change together without one causing the other. A line of best fit shows a link, not a cause.' },
+    ]),
+    ...sub('geographical-fieldwork-skills-9230', 'section-b-fieldwork-skills-and-section-c-individual-fieldwork-enquiry-9230', '3.3.2', [
+      { n: 1, f: 'Accuracy vs reliability', b: 'Accuracy: how close a reading is to the true value. Reliability: repeating the method gives similar results.' },
+      { n: 2, f: 'Random, systematic and stratified sampling', b: 'Random: random numbers pick sites, avoiding bias. Systematic: regular interval (every 20 m), even coverage. Stratified: sample groups in proportion, needs prior information.' },
+      { n: 3, f: 'Primary vs secondary data; qualitative vs quantitative', b: 'Primary: collected by you. Secondary: collected by someone else. Qualitative: words and images. Quantitative: numbers.' },
+      { n: 4, f: 'The six strands of the fieldwork enquiry', b: 'Suitable question; selecting, measuring and recording; processing and presenting; describing, analysing and explaining; conclusions; evaluation.' },
     ]),
   ],
 };

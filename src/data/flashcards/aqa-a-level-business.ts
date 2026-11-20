@@ -2,11 +2,14 @@
  * D-444 -- flashcards for AQA A-level Business 7132 (for first teaching from
  * September 2023).
  *
- * One block per subtopic, in syllabus order; topics 3-10 list no subtopics in
- * the syllabus record, so their cards sit on the topic (topicOnly helper). Card
- * ids are `<subtopic number>-<n>` (or `<topic number>-<n>`) and are permanent
- * (browser progress is keyed by them): add a new card with the next unused n,
- * never renumber.
+ * One block per subtopic, in syllabus order. Every topic (3.1 to 3.10) now
+ * itemises subtopics in the syllabus record, so every card is keyed by its
+ * subtopic. The deck first filed topics 3.3 to 3.10 on the topic itself; on
+ * 20 Nov 2026 their cards were re-filed under the subtopics and renumbered, and
+ * `idMigration` below moves browser progress saved before then onto the new
+ * ids. Card ids are `<subtopic number>-<n>` and are permanent from now on (browser
+ * progress is keyed by them): add a new card with the next unused n, never
+ * renumber. Card text is unchanged.
  *
  *   src: '...'  The card restates that revision-notes page (found with
  *               scripts/flashcard-candidates.mjs 7132); origin 'revision-notes'.
@@ -30,16 +33,6 @@ const sub = (topic: string, subtopic: string, number: string, specs: Spec[]): Fl
     ...(src ? { source: src } : {}),
   }));
 
-const topicOnly = (topic: string, number: string, specs: Spec[]): Flashcard[] =>
-  specs.map(({ n, f, b, src }) => ({
-    id: `${number}-${n}`,
-    topic,
-    front: f,
-    back: b,
-    origin: src ? 'revision-notes' as const : 'authored' as const,
-    ...(src ? { source: src } : {}),
-  }));
-
 const LEAD = 'aqa-a-level-business-understanding-management-leadership-and-decision-making-revision-notes';
 const DEC = 'aqa-a-level-business-understanding-management-decision-making-revision-notes';
 const CHG = 'aqa-a-level-business-managing-strategic-change-revision-notes';
@@ -54,8 +47,44 @@ export const DECK_AQA_A_LEVEL_BUSINESS: FlashcardDeck = {
   syllabusCode: '7132',
   syllabusSeries: 'For first teaching from September 2023',
   author: 'marlbridge-academic-team',
-  updated: '2026-11-05',
+  updated: '2026-11-20',
   deckReview: { reviewerSlug: 'salman-ahmad', reviewedOn: '2026-11-05' },
+  // Old id -> new id for every card, so progress saved before the cards were re-filed under
+  // the new subtopics follows each card. Runs once per browser, on marks dated before 2026-11-20.
+  idMigration: {
+    id: '7132-subtopics-2026-11-20',
+    before: '2026-11-20',
+    map: {
+      '3.1.1-1': '3.1.1-1', '3.1.1-2': '3.1.1-2', '3.1.1-3': '3.1.1-3', '3.1.1-4': '3.1.1-4', '3.1.1-5': '3.1.1-5', '3.1.1-6': '3.1.1-6',
+      '3.1.1-7': '3.1.1-7', '3.1.1-8': '3.1.1-8', '3.1.1-9': '3.1.1-9',
+      '3.1.2-1': '3.1.2-1', '3.1.2-2': '3.1.2-2', '3.1.2-3': '3.1.2-3', '3.1.2-4': '3.1.2-4', '3.1.2-5': '3.1.2-5', '3.1.2-6': '3.1.2-6',
+      '3.1.2-7': '3.1.2-7', '3.1.2-8': '3.1.2-8', '3.1.2-9': '3.1.2-9', '3.1.2-10': '3.1.2-10', '3.1.2-11': '3.1.2-11',
+      '3.1.3-1': '3.1.3-1', '3.1.3-2': '3.1.3-2', '3.1.3-3': '3.1.3-3', '3.1.3-4': '3.1.3-4', '3.1.3-5': '3.1.3-5', '3.1.3-6': '3.1.3-6',
+      '3.1.3-7': '3.1.3-7', '3.1.3-8': '3.1.3-8', '3.1.3-9': '3.1.3-9', '3.1.3-10': '3.1.3-10',
+      '3.2.1-1': '3.2.1-1', '3.2.1-2': '3.2.1-2', '3.2.1-3': '3.2.1-3', '3.2.1-4': '3.2.1-4', '3.2.1-5': '3.2.1-5', '3.2.1-6': '3.2.1-6',
+      '3.2.1-7': '3.2.1-7', '3.2.1-8': '3.2.1-8', '3.2.1-9': '3.2.1-9', '3.2.1-10': '3.2.1-10', '3.2.1-11': '3.2.1-11', '3.2.1-12': '3.2.1-12',
+      '3.2.2-1': '3.2.2-1', '3.2.2-2': '3.2.2-2', '3.2.2-3': '3.2.2-3', '3.2.2-4': '3.2.2-4', '3.2.2-5': '3.2.2-5', '3.2.2-6': '3.2.2-6',
+      '3.2.2-7': '3.2.2-7', '3.2.2-8': '3.2.2-8', '3.2.2-9': '3.2.2-9', '3.2.2-10': '3.2.2-10', '3.2.2-11': '3.2.2-11',
+      '3.2.3-1': '3.2.3-1', '3.2.3-2': '3.2.3-2', '3.2.3-3': '3.2.3-3', '3.2.3-4': '3.2.3-4', '3.2.3-5': '3.2.3-5', '3.2.3-6': '3.2.3-6',
+      '3.2.3-7': '3.2.3-7', '3.2.3-8': '3.2.3-8', '3.2.3-9': '3.2.3-9', '3.2.3-10': '3.2.3-10',
+      '3-1': '3.3.1-1', '3-2': '3.3.1-2', '3-3': '3.3.2-1', '3-4': '3.3.2-2', '3-5': '3.3.2-3', '3-6': '3.3.2-4',
+      '3-7': '3.3.3-1', '3-8': '3.3.3-2', '3-9': '3.3.4-1', '3-10': '3.3.4-2', '3-11': '3.3.4-3', '3-12': '3.3.4-4',
+      '4-1': '3.4.1-1', '4-2': '3.4.2-1', '4-3': '3.4.2-2', '4-4': '3.4.2-3', '4-5': '3.4.3-1', '4-6': '3.4.3-2',
+      '4-7': '3.4.4-1', '4-8': '3.4.4-2', '4-9': '3.4.3-3', '4-10': '3.4.3-4', '4-11': '3.4.5-1', '4-12': '3.4.5-2',
+      '5-1': '3.5.1-1', '5-2': '3.5.1-2', '5-3': '3.5.1-3', '5-4': '3.5.1-4', '5-5': '3.5.2-1', '5-6': '3.5.2-2',
+      '5-7': '3.5.2-3', '5-8': '3.5.2-4', '5-9': '3.5.4-1', '5-10': '3.5.3-1', '5-11': '3.5.3-2', '5-12': '3.5.4-2',
+      '6-1': '3.6.1-1', '6-2': '3.6.1-2', '6-3': '3.6.2-1', '6-4': '3.6.2-2', '6-5': '3.6.4-1', '6-6': '3.6.3-1',
+      '6-7': '3.6.3-2', '6-8': '3.6.3-3', '6-9': '3.6.4-2', '6-10': '3.6.4-3', '6-11': '3.6.5-1',
+      '7-1': '3.7.1-1', '7-2': '3.7.3-1', '7-3': '3.7.2-1', '7-4': '3.7.2-2', '7-5': '3.7.2-3', '7-6': '3.7.3-2',
+      '7-7': '3.7.3-3', '7-8': '3.7.3-4', '7-9': '3.7.3-5', '7-10': '3.7.7-1', '7-11': '3.7.8-1', '7-12': '3.7.8-2',
+      '8-1': '3.8.1-1', '8-2': '3.8.1-2', '8-3': '3.8.1-3', '8-4': '3.8.1-4', '8-5': '3.8.1-5', '8-6': '3.8.2-1',
+      '8-7': '3.8.2-2', '8-8': '3.8.2-3', '8-9': '3.8.2-4', '8-10': '3.8.2-5',
+      '9-1': '3.9.1-1', '9-2': '3.9.1-2', '9-3': '3.9.1-3', '9-4': '3.9.1-4', '9-5': '3.9.1-5', '9-6': '3.9.1-6',
+      '9-7': '3.9.1-7', '9-8': '3.9.2-1', '9-9': '3.9.2-2', '9-10': '3.9.3-1', '9-11': '3.9.3-2', '9-12': '3.9.4-1',
+      '10-1': '3.10.1-1', '10-2': '3.10.1-2', '10-3': '3.10.1-3', '10-4': '3.10.1-4', '10-5': '3.10.3-1', '10-6': '3.10.2-1',
+      '10-7': '3.10.2-2', '10-8': '3.10.3-2', '10-9': '3.10.4-1', '10-10': '3.10.4-2', '10-11': '3.10.4-3', '10-12': '3.10.4-4',
+    },
+  },
   cards: [
     // 3.1 What is business?
     ...sub(T1, 'nature-and-purpose-of-business-aqa-alevel-business', '3.1.1', [
@@ -135,94 +164,132 @@ export const DECK_AQA_A_LEVEL_BUSINESS: FlashcardDeck = {
       { n: 10, f: 'Ways to resolve stakeholder conflict', b: 'Compromise, delay, an alternative option, or an explained priority. The choice depends on mission, objectives, each group\'s power, the size of the decision and long-run effects.' },
     ]),
     // 3.3 Marketing management
-    ...topicOnly('marketing-management-aqa-alevel-business', '3', [
+    ...sub('marketing-management-aqa-alevel-business', 'setting-marketing-objectives-aqa-alevel-business', '3.3.1', [
       { n: 1, f: 'Marketing objectives listed in the specification', b: 'Sales volume, sales value, market size, market growth, sales growth, market share and brand loyalty.' },
       { n: 2, f: 'Market growth, market share and market size: formulas', b: 'Market growth = change in market size ÷ original size × 100.\nMarket share = firm\'s sales ÷ market sales × 100.\nMarket size = firm\'s sales ÷ market share (£21m ÷ 0.075 = £280m).' },
-      { n: 3, f: 'Correlation: what to remember', b: 'Positive: both variables rise together. Negative: one rises as the other falls. Points nearer a line mean a stronger correlation. Correlation is not causation: a third factor may explain both.' },
-      { n: 4, f: 'Confidence interval and extrapolation', b: 'Confidence interval: the range likely to contain the true population value; narrower means more reliable (a larger, representative sample narrows it).\nExtrapolation: extending a trend beyond the data; reliable only close to existing data.' },
-      { n: 5, f: 'Interpreting PED for pricing', b: 'PED above 1 (ignoring sign): elastic, so a price cut raises revenue. Below 1: inelastic, so a price rise raises revenue. The specification asks you to interpret elasticity, not calculate it.' },
-      { n: 6, f: 'Interpreting YED', b: 'Above 0: normal good. Above 1: demand rises faster than income (luxury-type). Below 0: inferior good, demand falls as income rises. Useful for choosing markets in a boom or recession.' },
-      { n: 7, f: 'The four segmentation methods in the specification', b: 'Demographic, geographic, income and behavioural.' },
-      { n: 8, f: 'Segmentation, targeting and positioning', b: 'Segment: split the market into groups. Target: choose segments, with a mass (one broad mix) or niche (small, specialised) approach. Position: decide how buyers should see the product against rivals.' },
-      { n: 9, f: 'The extra three Ps of the 7Ps', b: 'People (staff skills and attitude), process (how the service or order is delivered) and physical environment (setting, layout, website, packaging).' },
-      { n: 10, f: 'Boston Matrix: categories and actions', b: 'Axes: market growth and relative market share (own share ÷ largest rival\'s share). Star (high growth, high share): invest. Question mark (high growth, low share): build or drop. Cash cow (low growth, high share): harvest. Dog: consider withdrawal.' },
-      { n: 11, f: 'Penetration vs skimming pricing', b: 'Penetration: a low entry price to win share. Skimming: a high entry price to take margin from early adopters; suits a novel product with few rivals or the need to recover high development costs.' },
-      { n: 12, f: 'Digital marketing and e-commerce: value and drawbacks', b: 'Value: reach, targeting, measurability, lower costs; supports relationship marketing. Drawbacks: competition, delivery and returns, security, skills needed.' },
+    ]),
+    ...sub('marketing-management-aqa-alevel-business', 'understanding-markets-and-customers-aqa-alevel-business', '3.3.2', [
+      { n: 1, f: 'Correlation: what to remember', b: 'Positive: both variables rise together. Negative: one rises as the other falls. Points nearer a line mean a stronger correlation. Correlation is not causation: a third factor may explain both.' },
+      { n: 2, f: 'Confidence interval and extrapolation', b: 'Confidence interval: the range likely to contain the true population value; narrower means more reliable (a larger, representative sample narrows it).\nExtrapolation: extending a trend beyond the data; reliable only close to existing data.' },
+      { n: 3, f: 'Interpreting PED for pricing', b: 'PED above 1 (ignoring sign): elastic, so a price cut raises revenue. Below 1: inelastic, so a price rise raises revenue. The specification asks you to interpret elasticity, not calculate it.' },
+      { n: 4, f: 'Interpreting YED', b: 'Above 0: normal good. Above 1: demand rises faster than income (luxury-type). Below 0: inferior good, demand falls as income rises. Useful for choosing markets in a boom or recession.' },
+    ]),
+    ...sub('marketing-management-aqa-alevel-business', 'making-marketing-decisions-segmentation-targeting-positioning-aqa-alevel-business', '3.3.3', [
+      { n: 1, f: 'The four segmentation methods in the specification', b: 'Demographic, geographic, income and behavioural.' },
+      { n: 2, f: 'Segmentation, targeting and positioning', b: 'Segment: split the market into groups. Target: choose segments, with a mass (one broad mix) or niche (small, specialised) approach. Position: decide how buyers should see the product against rivals.' },
+    ]),
+    ...sub('marketing-management-aqa-alevel-business', 'making-marketing-decisions-using-the-marketing-mix-aqa-alevel-business', '3.3.4', [
+      { n: 1, f: 'The extra three Ps of the 7Ps', b: 'People (staff skills and attitude), process (how the service or order is delivered) and physical environment (setting, layout, website, packaging).' },
+      { n: 2, f: 'Boston Matrix: categories and actions', b: 'Axes: market growth and relative market share (own share ÷ largest rival\'s share). Star (high growth, high share): invest. Question mark (high growth, low share): build or drop. Cash cow (low growth, high share): harvest. Dog: consider withdrawal.' },
+      { n: 3, f: 'Penetration vs skimming pricing', b: 'Penetration: a low entry price to win share. Skimming: a high entry price to take margin from early adopters; suits a novel product with few rivals or the need to recover high development costs.' },
+      { n: 4, f: 'Digital marketing and e-commerce: value and drawbacks', b: 'Value: reach, targeting, measurability, lower costs; supports relationship marketing. Drawbacks: competition, delivery and returns, security, skills needed.' },
     ]),
     // 3.4 Operational management
-    ...topicOnly('operational-management-aqa-alevel-business', '4', [
+    ...sub('operational-management-aqa-alevel-business', 'setting-operational-objectives-aqa-alevel-business', '3.4.1', [
       { n: 1, f: 'Operational objectives', b: 'Costs, quality, speed of response and flexibility, dependability, environmental objectives (waste, emissions), and added value.' },
-      { n: 2, f: 'Labour productivity, unit cost and capacity utilisation', b: 'Labour productivity = output ÷ employees.\nUnit cost = total costs ÷ units produced.\nCapacity utilisation = actual output ÷ capacity × 100.' },
-      { n: 3, f: '9,600 units, 32 staff, capacity 12,000, total costs £36,480. Productivity, unit cost, utilisation?', b: 'Productivity 9,600 ÷ 32 = 300 per employee. Unit cost 36,480 ÷ 9,600 = £3.80. Utilisation 9,600 ÷ 12,000 = 80%.' },
-      { n: 4, f: 'Why does capacity utilisation matter?', b: 'Too little capacity means lost sales and late orders; too much means idle fixed costs. Higher utilisation spreads fixed costs, lowering unit cost.' },
-      { n: 5, f: 'Labour intensive vs capital intensive', b: 'Labour intensive: low fixed, high variable costs; flexible; suits small or varied output.\nCapital intensive: high fixed, low variable costs; consistent quality; suits large, steady output.' },
-      { n: 6, f: 'Lean production and Just in Time (JIT)', b: 'Lean: cut waste of every kind while meeting customer needs. JIT is part of lean: stock arrives as needed. Benefits: lower holding cost, less cash tied up. Difficulties: relies on reliable suppliers, little buffer if demand jumps.' },
-      { n: 7, f: 'Quality control vs quality assurance', b: 'Control: inspect output and remove faults (detects).\nAssurance: agreed standards at every stage, supplier checks and staff responsible for their own work (prevents).' },
-      { n: 8, f: 'Consequences of poor quality', b: 'Refunds and returns, rework and scrap, lost customers, damaged reputation, falling sales, complaint handling costs, possible legal claims and low staff morale.' },
-      { n: 9, f: 'Mass customisation', b: 'Making products to individual customer wishes at close to mass-production cost.' },
-      { n: 10, f: 'Ways of matching supply to demand in the specification', b: 'Outsourcing; temporary and part-time employees; producing to order.' },
-      { n: 11, f: 'Re-order level and maximum stock', b: 'Re-order level = buffer + (daily usage × lead time). Maximum stock = buffer + re-order quantity. Example: usage 60 a day, lead time 6 days, buffer 120 → re-order level 480; with a re-order quantity of 900, maximum stock 1,020.' },
-      { n: 12, f: 'Factors in choosing suppliers', b: 'Price, quality, reliability, speed, flexibility, payment terms, ethics and environment, location and financial strength.' },
+    ]),
+    ...sub('operational-management-aqa-alevel-business', 'analysing-operational-performance-aqa-alevel-business', '3.4.2', [
+      { n: 1, f: 'Labour productivity, unit cost and capacity utilisation', b: 'Labour productivity = output ÷ employees.\nUnit cost = total costs ÷ units produced.\nCapacity utilisation = actual output ÷ capacity × 100.' },
+      { n: 2, f: '9,600 units, 32 staff, capacity 12,000, total costs £36,480. Productivity, unit cost, utilisation?', b: 'Productivity 9,600 ÷ 32 = 300 per employee. Unit cost 36,480 ÷ 9,600 = £3.80. Utilisation 9,600 ÷ 12,000 = 80%.' },
+      { n: 3, f: 'Why does capacity utilisation matter?', b: 'Too little capacity means lost sales and late orders; too much means idle fixed costs. Higher utilisation spreads fixed costs, lowering unit cost.' },
+    ]),
+    ...sub('operational-management-aqa-alevel-business', 'making-operational-decisions-to-improve-performance-increasing-efficiency-and-productivity-aqa-alevel-business', '3.4.3', [
+      { n: 1, f: 'Labour intensive vs capital intensive', b: 'Labour intensive: low fixed, high variable costs; flexible; suits small or varied output.\nCapital intensive: high fixed, low variable costs; consistent quality; suits large, steady output.' },
+      { n: 2, f: 'Lean production and Just in Time (JIT)', b: 'Lean: cut waste of every kind while meeting customer needs. JIT is part of lean: stock arrives as needed. Benefits: lower holding cost, less cash tied up. Difficulties: relies on reliable suppliers, little buffer if demand jumps.' },
+      { n: 3, f: 'Mass customisation', b: 'Making products to individual customer wishes at close to mass-production cost.' },
+      { n: 4, f: 'Ways of matching supply to demand in the specification', b: 'Outsourcing; temporary and part-time employees; producing to order.' },
+    ]),
+    ...sub('operational-management-aqa-alevel-business', 'making-operational-decisions-to-improve-performance-improving-quality-aqa-alevel-business', '3.4.4', [
+      { n: 1, f: 'Quality control vs quality assurance', b: 'Control: inspect output and remove faults (detects).\nAssurance: agreed standards at every stage, supplier checks and staff responsible for their own work (prevents).' },
+      { n: 2, f: 'Consequences of poor quality', b: 'Refunds and returns, rework and scrap, lost customers, damaged reputation, falling sales, complaint handling costs, possible legal claims and low staff morale.' },
+    ]),
+    ...sub('operational-management-aqa-alevel-business', 'making-operational-decisions-to-improve-performance-managing-inventory-and-supply-chains-aqa-alevel-business', '3.4.5', [
+      { n: 1, f: 'Re-order level and maximum stock', b: 'Re-order level = buffer + (daily usage × lead time). Maximum stock = buffer + re-order quantity. Example: usage 60 a day, lead time 6 days, buffer 120 → re-order level 480; with a re-order quantity of 900, maximum stock 1,020.' },
+      { n: 2, f: 'Factors in choosing suppliers', b: 'Price, quality, reliability, speed, flexibility, payment terms, ethics and environment, location and financial strength.' },
     ]),
     // 3.5 Financial management
-    ...topicOnly('financial-management-aqa-alevel-business', '5', [
+    ...sub('financial-management-aqa-alevel-business', 'setting-financial-objectives-aqa-alevel-business', '3.5.1', [
       { n: 1, f: 'Gross profit, profit from operations and profit for the year', b: 'Gross profit = revenue − cost of sales.\nProfit from operations = gross profit − operating expenses.\nProfit for the year = profit from operations − finance costs − tax.' },
       { n: 2, f: 'Revenue £200,000; cost of sales £120,000; operating expenses £52,000. Margins?', b: 'Gross profit £80,000 (40.0%). Profit from operations £28,000 (14.0%).' },
       { n: 3, f: 'Return on investment: formula and example', b: 'Profit gained ÷ amount invested × 100. A £50,000 press adding £6,500 a year: 13%.' },
       { n: 4, f: 'Debt as a share of long-term funding', b: 'Long-term debt ÷ (long-term debt + equity) × 100. £90,000 loans and £210,000 equity: 90 ÷ 300 = 30%.' },
-      { n: 5, f: 'Variance: how to label it', b: 'Variance = actual − budget, labelled by its effect on profit. Revenue above budget is favourable; costs above budget are adverse; costs below budget are favourable. Example: materials budget £15,000, actual £16,200 → £1,200 adverse.' },
-      { n: 6, f: 'Price £15, variable cost £6, fixed costs £27,000. Break-even, and profit at 3,600 units?', b: 'Contribution £9; break-even 27,000 ÷ 9 = 3,000 units. Margin of safety 600; profit 9 × 3,600 − 27,000 = £5,400.' },
-      { n: 7, f: 'Effect on break-even of higher price, higher variable cost, higher fixed costs', b: 'Higher price: revenue line steeper, break-even falls. Higher variable cost: total cost line steeper, break-even rises. Higher fixed costs: total cost line starts higher, break-even rises.' },
-      { n: 8, f: 'Output needed for a target profit', b: '(Fixed costs + target profit) ÷ contribution per unit. Round break-even and target outputs up to a whole unit.' },
-      { n: 9, f: 'Receivables vs payables', b: 'Receivables: money owed to the business by customers.\nPayables: money the business owes to suppliers.' },
-      { n: 10, f: 'Debt factoring: invoices £20,000, 90% advanced, 2% fee', b: 'Advance now: £18,000. Fee: £400. Total received: £19,600. Gives immediate cash, but costs a fee and the factor deals with customers.' },
-      { n: 11, f: 'Sources of finance in the specification: internal and external', b: 'Internal: retained profits. External: debt factoring, overdrafts, loans, share capital, venture capital. Short term: overdraft, factoring. Long term: loans, share capital, venture capital, retained profit.' },
-      { n: 12, f: 'Ways to improve cash flow, and a difficulty', b: 'Chase receivables, early-payment discounts, factoring, longer supplier terms, lower stock, delay capital spending, overdraft, sell spare assets. Difficulties: discounts cut income; tighter credit loses customers; suppliers may refuse terms.' },
+    ]),
+    ...sub('financial-management-aqa-alevel-business', 'analysing-financial-performance-aqa-alevel-business', '3.5.2', [
+      { n: 1, f: 'Variance: how to label it', b: 'Variance = actual − budget, labelled by its effect on profit. Revenue above budget is favourable; costs above budget are adverse; costs below budget are favourable. Example: materials budget £15,000, actual £16,200 → £1,200 adverse.' },
+      { n: 2, f: 'Price £15, variable cost £6, fixed costs £27,000. Break-even, and profit at 3,600 units?', b: 'Contribution £9; break-even 27,000 ÷ 9 = 3,000 units. Margin of safety 600; profit 9 × 3,600 − 27,000 = £5,400.' },
+      { n: 3, f: 'Effect on break-even of higher price, higher variable cost, higher fixed costs', b: 'Higher price: revenue line steeper, break-even falls. Higher variable cost: total cost line steeper, break-even rises. Higher fixed costs: total cost line starts higher, break-even rises.' },
+      { n: 4, f: 'Output needed for a target profit', b: '(Fixed costs + target profit) ÷ contribution per unit. Round break-even and target outputs up to a whole unit.' },
+    ]),
+    ...sub('financial-management-aqa-alevel-business', 'making-financial-decisions-sources-of-finance-aqa-alevel-business', '3.5.3', [
+      { n: 1, f: 'Debt factoring: invoices £20,000, 90% advanced, 2% fee', b: 'Advance now: £18,000. Fee: £400. Total received: £19,600. Gives immediate cash, but costs a fee and the factor deals with customers.' },
+      { n: 2, f: 'Sources of finance in the specification: internal and external', b: 'Internal: retained profits. External: debt factoring, overdrafts, loans, share capital, venture capital. Short term: overdraft, factoring. Long term: loans, share capital, venture capital, retained profit.' },
+    ]),
+    ...sub('financial-management-aqa-alevel-business', 'making-financial-decisions-improving-cash-flow-and-profits-aqa-alevel-business', '3.5.4', [
+      { n: 1, f: 'Receivables vs payables', b: 'Receivables: money owed to the business by customers.\nPayables: money the business owes to suppliers.' },
+      { n: 2, f: 'Ways to improve cash flow, and a difficulty', b: 'Chase receivables, early-payment discounts, factoring, longer supplier terms, lower stock, delay capital spending, overdraft, sell spare assets. Difficulties: discounts cut income; tighter credit loses customers; suppliers may refuse terms.' },
     ]),
     // 3.6 Human resource management
-    ...topicOnly('human-resource-management-aqa-alevel-business', '6', [
+    ...sub('human-resource-management-aqa-alevel-business', 'setting-human-resource-objectives-aqa-alevel-business', '3.6.1', [
       { n: 1, f: 'HR objectives named in the specification', b: 'Employee engagement and involvement; talent development; training; diversity; alignment of values; the number, skills and location of employees.' },
       { n: 2, f: 'Hard vs soft HRM', b: 'Hard: staff as a cost to control; flexible contracts, output pay, tight supervision.\nSoft: staff as an asset to develop; training, involvement, communication.' },
-      { n: 3, f: 'Labour turnover and retention rate', b: 'Labour turnover = leavers ÷ average number employed × 100 (6 of an average 40 = 15%).\nRetention rate = staff who stayed all period ÷ staff at start × 100 (44 of 50 = 88%).' },
-      { n: 4, f: 'Employee costs as % of turnover, and labour cost per unit', b: 'Employee costs ÷ turnover × 100 (£210,000 ÷ £1,400,000 = 15%).\nLabour cost per unit = total labour cost ÷ units produced (£210,000 ÷ 84,000 = £2.50).' },
-      { n: 5, f: 'Hackman and Oldham: core job characteristics and psychological states', b: 'Skill variety, task identity and task significance → experienced meaningfulness.\nAutonomy → experienced responsibility for outcomes.\nFeedback → knowledge of results.' },
-      { n: 6, f: 'Delegation vs decentralisation', b: 'Delegation: passing authority for a task down; accountability stays above.\nDecentralisation: a structure where decisions are taken lower down, by branches or teams.' },
-      { n: 7, f: '90 staff with a span of control of 6: how many layers of management?', b: '90 ÷ 6 = 15 supervisors; 15 ÷ 6 = 2.5, round up to 3 managers; then 1 director. Three layers above the staff.' },
-      { n: 8, f: 'The human resource flow', b: 'Human resource plan (forecast need, compare with supply, plan the gap), recruitment, training, redeployment, redundancy.' },
-      { n: 9, f: 'Taylor, Maslow and Herzberg in one line each', b: 'Taylor: people work mainly for pay; simple tasks, supervision, output-based pay.\nMaslow: satisfy whichever of the five levels is still unmet.\nHerzberg: hygiene factors prevent dissatisfaction; motivators create satisfaction.' },
-      { n: 10, f: 'Financial methods of motivation and the main risk of each', b: 'Piece rate: quality falls. Commission: pressure on customers. Salary: weak link to effort. Performance-related pay: unfair or poorly set targets.' },
-      { n: 11, f: 'Trade union vs works council', b: 'Trade union: independent of the employer; represents members and bargains on pay and conditions.\nWorks council: employee and management representatives inside the business who share information and consult.' },
+    ]),
+    ...sub('human-resource-management-aqa-alevel-business', 'analysing-human-resource-performance-aqa-alevel-business', '3.6.2', [
+      { n: 1, f: 'Labour turnover and retention rate', b: 'Labour turnover = leavers ÷ average number employed × 100 (6 of an average 40 = 15%).\nRetention rate = staff who stayed all period ÷ staff at start × 100 (44 of 50 = 88%).' },
+      { n: 2, f: 'Employee costs as % of turnover, and labour cost per unit', b: 'Employee costs ÷ turnover × 100 (£210,000 ÷ £1,400,000 = 15%).\nLabour cost per unit = total labour cost ÷ units produced (£210,000 ÷ 84,000 = £2.50).' },
+    ]),
+    ...sub('human-resource-management-aqa-alevel-business', 'making-human-resource-decisions-improving-organisational-design-and-managing-the-human-resource-flow-aqa-alevel-business', '3.6.3', [
+      { n: 1, f: 'Delegation vs decentralisation', b: 'Delegation: passing authority for a task down; accountability stays above.\nDecentralisation: a structure where decisions are taken lower down, by branches or teams.' },
+      { n: 2, f: '90 staff with a span of control of 6: how many layers of management?', b: '90 ÷ 6 = 15 supervisors; 15 ÷ 6 = 2.5, round up to 3 managers; then 1 director. Three layers above the staff.' },
+      { n: 3, f: 'The human resource flow', b: 'Human resource plan (forecast need, compare with supply, plan the gap), recruitment, training, redeployment, redundancy.' },
+    ]),
+    ...sub('human-resource-management-aqa-alevel-business', 'making-human-resource-decisions-improving-motivation-and-engagement-aqa-alevel-business', '3.6.4', [
+      { n: 1, f: 'Hackman and Oldham: core job characteristics and psychological states', b: 'Skill variety, task identity and task significance → experienced meaningfulness.\nAutonomy → experienced responsibility for outcomes.\nFeedback → knowledge of results.' },
+      { n: 2, f: 'Taylor, Maslow and Herzberg in one line each', b: 'Taylor: people work mainly for pay; simple tasks, supervision, output-based pay.\nMaslow: satisfy whichever of the five levels is still unmet.\nHerzberg: hygiene factors prevent dissatisfaction; motivators create satisfaction.' },
+      { n: 3, f: 'Financial methods of motivation and the main risk of each', b: 'Piece rate: quality falls. Commission: pressure on customers. Salary: weak link to effort. Performance-related pay: unfair or poorly set targets.' },
+    ]),
+    ...sub('human-resource-management-aqa-alevel-business', 'making-human-resource-decisions-improving-employer-employee-relations-aqa-alevel-business', '3.6.5', [
+      { n: 1, f: 'Trade union vs works council', b: 'Trade union: independent of the employer; represents members and bargains on pay and conditions.\nWorks council: employee and management representatives inside the business who share information and consult.' },
     ]),
     // 3.7 Analysing the strategic position of a business
-    ...topicOnly('analysing-the-strategic-position-of-a-business-aqa-alevel-business', '7', [
+    ...sub('analysing-the-strategic-position-of-a-business-aqa-alevel-business', 'mission-corporate-objectives-functional-objectives-and-strategy-aqa-alevel-business', '3.7.1', [
       { n: 1, f: 'Mission, corporate objectives, strategy and tactics', b: 'Mission: why the business exists. Corporate objectives: measurable goals for the whole business. Strategy: the long-term plan to reach them. Tactics: short-term actions that carry out the strategy.' },
-      { n: 2, f: 'SWOT: value and weakness', b: 'Internal strengths and weaknesses; external opportunities and threats. Useful for organising evidence, but it is only a list, subjective and quickly dated. Rank the points and reach a choice.' },
-      { n: 3, f: 'ROCE and gearing', b: 'Capital employed = total equity + non-current liabilities.\nROCE = operating profit ÷ capital employed × 100.\nGearing = non-current liabilities ÷ capital employed × 100.' },
-      { n: 4, f: 'Operating profit £54k; equity £300k; non-current liabilities £100k. ROCE and gearing?', b: 'Capital employed £400k. ROCE = 54 ÷ 400 × 100 = 13.5%. Gearing = 100 ÷ 400 × 100 = 25.0%.' },
-      { n: 5, f: 'Receivables days, payables days and inventory turnover', b: 'Receivables days = receivables ÷ revenue × 365.\nPayables days = payables ÷ cost of sales × 365.\nInventory turnover = cost of sales ÷ inventories (times a year).' },
-      { n: 6, f: 'Kaplan and Norton\'s Balanced Scorecard: the four perspectives', b: 'Financial; customer; internal business processes; learning and growth. It balances short- and long-term measures, but takes time to design and to weight.' },
-      { n: 7, f: 'Elkington\'s Triple Bottom Line', b: 'Profit, People, Planet: success judged on financial, social and environmental results. Social and environmental impact are hard to measure.' },
-      { n: 8, f: 'Core competences', b: 'Things a business does well that are hard to copy and valued by customers; a source of competitive advantage.' },
-      { n: 9, f: 'Carroll\'s pyramid of CSR, base to top', b: 'Economic, legal, ethical, philanthropic responsibilities.' },
-      { n: 10, f: 'Porter\'s five forces, and when each is strong', b: 'Entry threat (low barriers), buyer power (few or large buyers, easy switching), supplier power (few suppliers, specialised inputs), rivalry (many similar rivals, slow growth), substitute threat (easy alternatives). Weak forces mean higher profit potential.' },
-      { n: 11, f: 'Cost £50,000; cash flows £20k, £25k, £30k. Payback and ARR?', b: 'Payback: £45,000 after year 2; 5 ÷ 30 = 0.17, so 2.17 years.\nARR: net return £25,000 ÷ 3 years = £8,333 a year ÷ £50,000 × 100 = 16.7%.' },
-      { n: 12, f: 'Net present value and sensitivity analysis', b: 'NPV = sum of discounted cash flows − initial cost; positive means the project beats the discount rate. Sensitivity analysis changes one assumption at a time to show which forecasts matter; it gives no probabilities.' },
+    ]),
+    ...sub('analysing-the-strategic-position-of-a-business-aqa-alevel-business', 'analysing-the-existing-internal-position-of-a-business-to-assess-strengths-and-weaknesses-financial-ratio-analysis-aqa-alevel-business', '3.7.2', [
+      { n: 1, f: 'ROCE and gearing', b: 'Capital employed = total equity + non-current liabilities.\nROCE = operating profit ÷ capital employed × 100.\nGearing = non-current liabilities ÷ capital employed × 100.' },
+      { n: 2, f: 'Operating profit £54k; equity £300k; non-current liabilities £100k. ROCE and gearing?', b: 'Capital employed £400k. ROCE = 54 ÷ 400 × 100 = 13.5%. Gearing = 100 ÷ 400 × 100 = 25.0%.' },
+      { n: 3, f: 'Receivables days, payables days and inventory turnover', b: 'Receivables days = receivables ÷ revenue × 365.\nPayables days = payables ÷ cost of sales × 365.\nInventory turnover = cost of sales ÷ inventories (times a year).' },
+    ]),
+    ...sub('analysing-the-strategic-position-of-a-business-aqa-alevel-business', 'analysing-the-existing-internal-position-of-a-business-to-assess-strengths-and-weaknesses-overall-performance-aqa-alevel-business', '3.7.3', [
+      { n: 1, f: 'SWOT: value and weakness', b: 'Internal strengths and weaknesses; external opportunities and threats. Useful for organising evidence, but it is only a list, subjective and quickly dated. Rank the points and reach a choice.' },
+      { n: 2, f: 'Kaplan and Norton\'s Balanced Scorecard: the four perspectives', b: 'Financial; customer; internal business processes; learning and growth. It balances short- and long-term measures, but takes time to design and to weight.' },
+      { n: 3, f: 'Elkington\'s Triple Bottom Line', b: 'Profit, People, Planet: success judged on financial, social and environmental results. Social and environmental impact are hard to measure.' },
+      { n: 4, f: 'Core competences', b: 'Things a business does well that are hard to copy and valued by customers; a source of competitive advantage.' },
+      { n: 5, f: 'Carroll\'s pyramid of CSR, base to top', b: 'Economic, legal, ethical, philanthropic responsibilities.' },
+    ]),
+    ...sub('analysing-the-strategic-position-of-a-business-aqa-alevel-business', 'analysing-the-external-environment-to-assess-opportunities-and-threats-the-competitive-environment-aqa-alevel-business', '3.7.7', [
+      { n: 1, f: 'Porter\'s five forces, and when each is strong', b: 'Entry threat (low barriers), buyer power (few or large buyers, easy switching), supplier power (few suppliers, specialised inputs), rivalry (many similar rivals, slow growth), substitute threat (easy alternatives). Weak forces mean higher profit potential.' },
+    ]),
+    ...sub('analysing-the-strategic-position-of-a-business-aqa-alevel-business', 'analysing-strategic-options-investment-appraisal-aqa-alevel-business', '3.7.8', [
+      { n: 1, f: 'Cost £50,000; cash flows £20k, £25k, £30k. Payback and ARR?', b: 'Payback: £45,000 after year 2; 5 ÷ 30 = 0.17, so 2.17 years.\nARR: net return £25,000 ÷ 3 years = £8,333 a year ÷ £50,000 × 100 = 16.7%.' },
+      { n: 2, f: 'Net present value and sensitivity analysis', b: 'NPV = sum of discounted cash flows − initial cost; positive means the project beats the discount rate. Sensitivity analysis changes one assumption at a time to show which forecasts matter; it gives no probabilities.' },
     ]),
     // 3.8 Choosing strategic direction
-    ...topicOnly('choosing-strategic-direction-aqa-alevel-business', '8', [
+    ...sub('choosing-strategic-direction-aqa-alevel-business', 'strategic-direction-choosing-which-markets-to-compete-in-and-what-products-to-offer-aqa-alevel-business', '3.8.1', [
       { n: 1, f: 'Strategic direction vs strategic positioning', b: 'Direction is where: which markets to compete in and which products to offer (Ansoff).\nPositioning is how: competing on benefits and price (Porter, Bowman).' },
       { n: 2, f: 'Ansoff matrix: the four directions', b: 'Market penetration (existing products, existing markets; lowest risk); market development (existing products, new markets); new product development (new products, existing markets); diversification (new products, new markets; highest risk).' },
       { n: 3, f: 'Market penetration: methods, value and limit', b: 'Methods: promotion, price cuts, loyalty schemes, wider distribution. Value: low risk, quick, builds on existing skills. Limit: saturation and rival retaliation.' },
       { n: 4, f: 'Diversification: value and limit', b: 'Spreads risk and opens growth, but the business lacks experience in both the product and the market. Trap: if only the product or only the market is new, it is not diversification.' },
       { n: 5, f: 'A £90,000 campaign adds £200,000 of sales at a 35% contribution margin. Net gain?', b: 'Extra contribution 200,000 × 0.35 = £70,000. Net gain = 70,000 − 90,000 = −£20,000, a loss in year 1.' },
-      { n: 6, f: 'Porter\'s generic strategies', b: 'Low cost (broad scope, lowest unit costs); differentiation (broad, unique features or brand for a premium); focus (a narrow niche, using low cost or differentiation).' },
-      { n: 7, f: 'Stuck in the middle', b: 'Having neither the lowest costs nor a clear difference, so no competitive advantage.' },
-      { n: 8, f: 'Exam trap: low cost vs low price', b: 'A low-cost strategy means having the lowest unit costs; the price can still equal rivals\', giving higher margins. Cost leadership does not mean charging the lowest price.' },
-      { n: 9, f: 'Bowman\'s strategic clock: positions 3, 4 and 5', b: '3 Hybrid: low price, higher benefits (needs very low costs).\n4 Differentiation: higher benefits at a standard price.\n5 Focused differentiation: high price, high benefits.\nPositions 6 to 8 (higher price or low benefits) are generally seen as unsustainable.' },
-      { n: 10, f: 'Difficulties of maintaining competitive advantage', b: 'Imitation by rivals; changing technology; shifting tastes; rising input costs; fading patents or brand appeal; the need for constant investment; dependence on a single supplier, product or person.' },
+    ]),
+    ...sub('choosing-strategic-direction-aqa-alevel-business', 'strategic-positioning-choosing-how-to-compete-aqa-alevel-business', '3.8.2', [
+      { n: 1, f: 'Porter\'s generic strategies', b: 'Low cost (broad scope, lowest unit costs); differentiation (broad, unique features or brand for a premium); focus (a narrow niche, using low cost or differentiation).' },
+      { n: 2, f: 'Stuck in the middle', b: 'Having neither the lowest costs nor a clear difference, so no competitive advantage.' },
+      { n: 3, f: 'Exam trap: low cost vs low price', b: 'A low-cost strategy means having the lowest unit costs; the price can still equal rivals\', giving higher margins. Cost leadership does not mean charging the lowest price.' },
+      { n: 4, f: 'Bowman\'s strategic clock: positions 3, 4 and 5', b: '3 Hybrid: low price, higher benefits (needs very low costs).\n4 Differentiation: higher benefits at a standard price.\n5 Focused differentiation: high price, high benefits.\nPositions 6 to 8 (higher price or low benefits) are generally seen as unsustainable.' },
+      { n: 5, f: 'Difficulties of maintaining competitive advantage', b: 'Imitation by rivals; changing technology; shifting tastes; rising input costs; fading patents or brand appeal; the need for constant investment; dependence on a single supplier, product or person.' },
     ]),
     // 3.9 Strategic methods: how to pursue strategies
-    ...topicOnly('strategic-methods-how-to-pursue-strategies-aqa-alevel-business', '9', [
+    ...sub('strategic-methods-how-to-pursue-strategies-aqa-alevel-business', 'assessing-a-change-in-scale-aqa-alevel-business', '3.9.1', [
       { n: 1, f: 'Organic growth vs external growth', b: 'Organic: growth from the firm\'s own resources; slow, lower cost and risk, high control.\nExternal: merger, takeover, venture or franchising; fast, but costlier and riskier (integration and culture).' },
       { n: 2, f: 'Retrenchment', b: 'Reducing the scale of the business (closures, disposals, job cuts), for example because of falling demand, losses or debt. Lowers costs, but brings redundancy payments, lower morale and a risk of cutting needed capacity.' },
       { n: 3, f: 'Horizontal, backward vertical, forward vertical and conglomerate integration', b: 'Horizontal: same industry, same stage. Backward vertical: with a supplier. Forward vertical: with a distributor or retailer. Conglomerate: with an unrelated business.' },
@@ -230,26 +297,38 @@ export const DECK_AQA_A_LEVEL_BUSINESS: FlashcardDeck = {
       { n: 5, f: 'Experience curve: a 90% curve starting at £100', b: 'Unit cost falls with cumulative output: each doubling multiplies cost by 0.9, so £90, then £81. Economies of scale are about output per period; the experience curve is about total output over time.' },
       { n: 6, f: 'Synergy and overtrading', b: 'Synergy: combined value greater than the parts (profits of £5m and £3m become £10m together: £2m synergy).\nOvertrading: sales grow faster than the working capital that supports them, causing a cash shortage.' },
       { n: 7, f: 'Greiner\'s model of growth', b: 'Growth through creativity (crisis of leadership), direction (crisis of autonomy), delegation (crisis of control), coordination (crisis of red tape), then collaboration. Firms rarely follow it exactly.' },
-      { n: 8, f: 'Kaizen, benchmarking and intrapreneurship', b: 'Kaizen: continuous improvement through small changes by all staff. Benchmarking: comparing with best practice and adopting what works. Intrapreneurship: entrepreneurial behaviour by employees inside the firm.' },
-      { n: 9, f: 'Product vs process innovation; protecting intellectual property', b: 'Product innovation: a new or improved good or service. Process innovation: a new way to make or deliver it. Patents and copyrights give time-limited legal protection.' },
-      { n: 10, f: 'Bartlett and Ghoshal\'s four international strategies', b: 'International: low local responsiveness, low cost pressure. Multi-domestic: high responsiveness, low cost pressure. Global: low responsiveness, high cost pressure. Transnational: high on both.' },
-      { n: 11, f: 'Entry methods for international markets', b: 'Export (cheap test, little control); licensing (when capital is scarce, but weak brand control); alliances (local knowledge, shared profit); direct investment (for large long-term markets, costly and risky).' },
-      { n: 12, f: 'Big data, data mining and ERP', b: 'Big data: very large, fast-growing data sets. Data mining: searching data for patterns. ERP (enterprise resource planning): integrated software linking functions such as finance, stock and orders.' },
+    ]),
+    ...sub('strategic-methods-how-to-pursue-strategies-aqa-alevel-business', 'assessing-innovation-aqa-alevel-business', '3.9.2', [
+      { n: 1, f: 'Kaizen, benchmarking and intrapreneurship', b: 'Kaizen: continuous improvement through small changes by all staff. Benchmarking: comparing with best practice and adopting what works. Intrapreneurship: entrepreneurial behaviour by employees inside the firm.' },
+      { n: 2, f: 'Product vs process innovation; protecting intellectual property', b: 'Product innovation: a new or improved good or service. Process innovation: a new way to make or deliver it. Patents and copyrights give time-limited legal protection.' },
+    ]),
+    ...sub('strategic-methods-how-to-pursue-strategies-aqa-alevel-business', 'assessing-globalisation-and-internationalisation-aqa-alevel-business', '3.9.3', [
+      { n: 1, f: 'Bartlett and Ghoshal\'s four international strategies', b: 'International: low local responsiveness, low cost pressure. Multi-domestic: high responsiveness, low cost pressure. Global: low responsiveness, high cost pressure. Transnational: high on both.' },
+      { n: 2, f: 'Entry methods for international markets', b: 'Export (cheap test, little control); licensing (when capital is scarce, but weak brand control); alliances (local knowledge, shared profit); direct investment (for large long-term markets, costly and risky).' },
+    ]),
+    ...sub('strategic-methods-how-to-pursue-strategies-aqa-alevel-business', 'assessing-greater-use-of-digital-technology-aqa-alevel-business', '3.9.4', [
+      { n: 1, f: 'Big data, data mining and ERP', b: 'Big data: very large, fast-growing data sets. Data mining: searching data for patterns. ERP (enterprise resource planning): integrated software linking functions such as finance, stock and orders.' },
     ]),
     // 3.10 Managing strategic change
-    ...topicOnly('managing-strategic-change-aqa-alevel-business', '10', [
+    ...sub('managing-strategic-change-aqa-alevel-business', 'managing-change-aqa-alevel-business', '3.10.1', [
       { n: 1, f: 'The four types of change in the specification', b: 'Internal (starts inside the business), external (starts in the environment), incremental (small, steady steps) and disruptive (sudden and large).' },
       { n: 2, f: 'Lewin\'s force field analysis: method', b: 'List driving forces (for the change) and restraining forces (against), score each, total each side and find the net score. Then reduce the strongest restrainers or strengthen drivers. Scores are subjective.' },
       { n: 3, f: 'Kotter and Schlesinger: four reasons for resistance to change', b: 'Parochial self-interest; misunderstanding; low tolerance of change; different assessments of the situation.' },
       { n: 4, f: 'Kotter and Schlesinger: six ways of overcoming resistance', b: 'Education and communication; participation and involvement; facilitation and support; negotiation and agreement; manipulation and co-optation; explicit and implicit coercion (fast but damages trust).' },
-      { n: 5, f: 'Mechanistic vs organic structure', b: 'Mechanistic: rigid hierarchy, narrow tasks, formal rules; suits stable markets.\nOrganic: flat, flexible, wide roles, shared decisions; responds quickly but with less control.' },
-      { n: 6, f: 'Handy\'s four cultures', b: 'Power: one person or small group controls. Role: rules, procedures and defined jobs. Task: teams built around projects and expertise. Person: individuals matter most.' },
-      { n: 7, f: 'Hofstede\'s national cultures', b: 'Countries compared on dimensions including power distance, individualism vs collectivism, masculinity vs femininity and uncertainty avoidance. Explains why a management style may not transfer across borders.' },
-      { n: 8, f: 'Network analysis: total float and critical path', b: 'Total float = latest start − earliest start (or LF − EF). Zero-float activities are critical; the critical path is the longest route through the network and sets the project duration.' },
-      { n: 9, f: 'Planned (deliberate) strategy', b: 'Set in advance by analysis; gives direction and control; may be rigid.', src: CHG },
-      { n: 10, f: 'Emergent strategy', b: 'Grows from day-to-day decisions and responses; flexible, uses front-line knowledge; may lack direction.', src: CHG },
-      { n: 11, f: 'Strategic drift', b: 'Strategy slowly moves out of line with the environment, often after success. Causes: complacency, strong culture, slow monitoring.', src: CHG },
-      { n: 12, f: 'Contingency planning', b: 'Ready responses to possible shocks. Faster reaction, less panic; costs time and cannot cover everything.', src: CHG },
+    ]),
+    ...sub('managing-strategic-change-aqa-alevel-business', 'managing-organisational-culture-aqa-alevel-business', '3.10.2', [
+      { n: 1, f: 'Handy\'s four cultures', b: 'Power: one person or small group controls. Role: rules, procedures and defined jobs. Task: teams built around projects and expertise. Person: individuals matter most.' },
+      { n: 2, f: 'Hofstede\'s national cultures', b: 'Countries compared on dimensions including power distance, individualism vs collectivism, masculinity vs femininity and uncertainty avoidance. Explains why a management style may not transfer across borders.' },
+    ]),
+    ...sub('managing-strategic-change-aqa-alevel-business', 'managing-strategic-implementation-aqa-alevel-business', '3.10.3', [
+      { n: 1, f: 'Mechanistic vs organic structure', b: 'Mechanistic: rigid hierarchy, narrow tasks, formal rules; suits stable markets.\nOrganic: flat, flexible, wide roles, shared decisions; responds quickly but with less control.' },
+      { n: 2, f: 'Network analysis: total float and critical path', b: 'Total float = latest start − earliest start (or LF − EF). Zero-float activities are critical; the critical path is the longest route through the network and sets the project duration.' },
+    ]),
+    ...sub('managing-strategic-change-aqa-alevel-business', 'problems-with-strategy-and-why-strategies-fail-aqa-alevel-business', '3.10.4', [
+      { n: 1, f: 'Planned (deliberate) strategy', b: 'Set in advance by analysis; gives direction and control; may be rigid.', src: CHG },
+      { n: 2, f: 'Emergent strategy', b: 'Grows from day-to-day decisions and responses; flexible, uses front-line knowledge; may lack direction.', src: CHG },
+      { n: 3, f: 'Strategic drift', b: 'Strategy slowly moves out of line with the environment, often after success. Causes: complacency, strong culture, slow monitoring.', src: CHG },
+      { n: 4, f: 'Contingency planning', b: 'Ready responses to possible shocks. Faster reaction, less panic; costs time and cannot cover everything.', src: CHG },
     ]),
   ],
 };

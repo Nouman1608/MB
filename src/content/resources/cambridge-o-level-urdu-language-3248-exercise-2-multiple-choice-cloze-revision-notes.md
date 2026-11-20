@@ -12,6 +12,7 @@ order: 4.1
 syllabusTopics:
   - qualification: "o-level"
     topic: "sl-paper-2-grammar-writing-translation-3248"
+    subtopic: "exercise-2-multiple-choice-cloze-passage-3248"
 description: "Condensed grammar for the 3248 Paper 2 cloze: tense clues, agreement and ne, noun forms, comparison, postpositions, ek/koi/kuch, traps and a self-test."
 author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"

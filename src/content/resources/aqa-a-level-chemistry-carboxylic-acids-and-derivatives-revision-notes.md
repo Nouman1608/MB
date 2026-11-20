@@ -14,6 +14,9 @@ order: 27
 syllabusTopics:
   - qualification: "a-level"
     topic: "carboxylic-acids-and-derivatives-7405"
+  - qualification: "a-level"
+    topic: "carboxylic-acids-and-derivatives-7405"
+    subtopic: "carboxylic-acids-and-esters-7405"
 description: "Condensed AQA A-Level Chemistry notes on carboxylic acids, esters, soap, biodiesel and acylation, with mechanism steps, a self-test and common mark losses."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"

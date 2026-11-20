@@ -12,6 +12,7 @@ order: 3.2
 syllabusTopics:
   - qualification: "o-level"
     topic: "sl-paper-1-reading-writing-3248"
+    subtopic: "exercise-5-writing-exercise-3248"
 description: "Original register, format and accuracy drills plus two full 14-mark Exercise 5 tasks, an email and a blog review, for 3248 Paper 1 with model Urdu answers."
 author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"

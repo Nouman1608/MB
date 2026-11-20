@@ -12,6 +12,7 @@ order: 2.2
 syllabusTopics:
   - qualification: "o-level"
     topic: "fl-paper-2-texts-3247"
+    subtopic: "part-2-poetry-3247"
 description: "Condensed notes for the 3247 Paper 2 Poetry essay: set poems, ghazal and nazm form terms, the five levels, paragraph method, traps and a self-test."
 author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"

@@ -13,6 +13,9 @@ order: 241
 syllabusTopics:
   - qualification: "igcse"
     topic: "ecology-oxfordaqa-igcse-biology"
+  - qualification: "igcse"
+    topic: "ecology-oxfordaqa-igcse-biology"
+    subtopic: "adaptations-interdependence-and-competition-oxfordaqa-igcse-biology"
 description: "Condensed revision notes on energy transfer, biomass pyramids, competition, adaptations, extremophiles and parasites for OxfordAQA IGCSE Biology."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

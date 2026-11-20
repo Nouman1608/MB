@@ -13,6 +13,7 @@ order: 4.1
 syllabusTopics:
   - qualification: "a-level"
     topic: "component-4-cambridge-research-report-9239"
+    subtopic: "research-methods-and-methodology-9239"
 description: "How to choose, design and explain research methods for the 9239 Cambridge Research Report, and how methodology shapes what your conclusion can claim."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"

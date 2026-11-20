@@ -13,6 +13,9 @@ order: 245
 syllabusTopics:
   - qualification: "igcse"
     topic: "organisms-interaction-with-the-environment-oxfordaqa-igcse-biology"
+  - qualification: "igcse"
+    topic: "organisms-interaction-with-the-environment-oxfordaqa-igcse-biology"
+    subtopic: "control-of-water-and-ion-content-of-the-body-oxfordaqa-igcse-biology"
 description: "Condensed revision notes on 3.4.3 for OxfordAQA International GCSE Biology: water loss, liver, kidneys, ADH and negative feedback, plus a self-test."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

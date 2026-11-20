@@ -76,7 +76,7 @@ Now read the transcript.
 **(b)** Explain the gap between her reading and speaking results. **[2]**
 **(c)** Suggest one change to her revision. **[1]**
 
-**8.** (Course knowledge) Answer from the brief.
+**8.** (Course knowledge) Answer from the brief and the guide's eAssessment blueprint.
 
 **(a)** State the total marks across the three on-screen examination tasks. **[1]**
 **(b)** State which criterion is assessed outside the on-screen examination, and how. **[2]**
@@ -129,10 +129,10 @@ Now read the transcript.
 **(c)** Test from English to target language and review missed items on a spaced schedule [1]. **[5]**
 *Examiner insight:* Give 3 significant figures as asked (91.7%, not 92%) and name the receptive/productive difference.
 
-**8. (a)** 3 × 24 = **72 marks** [1].
+**8. (a)** Each of the three tasks is worth 32 marks, so 3 × 32 = **96 marks** [1].
 **(b)** Criterion C (speaking) [1]; an internally assessed speaking examination, marked by your teacher and moderated by the IB [1].
 **(c)** The brief says the on-screen tasks may include any topic from the language acquisition list, so you cannot rely on one topic [1]. **[4]**
-*Examiner insight:* Answer from what the brief actually prints; details it does not state (such as which topic will appear) earn nothing.
+*Examiner insight:* Answer from what the brief and the blueprint actually print; details they do not state (such as which topic will appear) earn nothing.
 
 **9.** Model bank (English; build it in your target language):
 - Core nouns: volunteer, charity, food bank, care home, donation [1]
@@ -188,4 +188,4 @@ Yes. The questions are in English, so redo each task in your target language to 
 
 ## Official syllabus
 
-International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Language acquisition*, from 2020 (first eAssessment May 2023/November 2023). Published by the International Baccalaureate Organization. Complete subject guides are available to schools through the IB's Programme Resource Centre.
+International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Language acquisition*, from 2020 (first eAssessment May 2023/November 2023). Published by the International Baccalaureate Organization. The eAssessment marks (on-screen examination 96 marks, speaking examination 32 marks) come from the International Baccalaureate Organization, Middle Years Programme Language acquisition guide, for use from September 2020/January 2021 ("MYP eAssessment" and "Language acquisition examination blueprint", pages 51 and 52). Complete subject guides are available to schools through the IB's Programme Resource Centre.

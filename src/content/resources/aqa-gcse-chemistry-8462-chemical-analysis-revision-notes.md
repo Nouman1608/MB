@@ -13,6 +13,12 @@ order: 8
 syllabusTopics:
   - qualification: "gcse"
     topic: "chemical-analysis-8462"
+  - qualification: "gcse"
+    topic: "chemical-analysis-8462"
+    subtopic: "purity-formulations-and-chromatography-8462"
+  - qualification: "gcse"
+    topic: "chemical-analysis-8462"
+    subtopic: "identification-of-ions-by-chemical-and-spectroscopic-means-8462"
 description: "Revision notes for AQA GCSE Chemistry 8462 Chemical analysis: Rf method, gas tests, flame colours, precipitate colours and a quick self-test."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"

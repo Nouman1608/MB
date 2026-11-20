@@ -13,6 +13,7 @@ order: 53
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-language-acquisition-assessment-criteria"
+    subtopic: "ib-myp-language-acquisition-assessment-criteria-b-reading"
 description: "Condensed IB MYP Language Acquisition Criterion B revision notes: reading methods, visual analysis steps, key distinctions and a quick self-test."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
@@ -36,7 +37,7 @@ Links: [practice questions](/resources/ib-myp-language-acquisition-criterion-b-r
 | Criterion name | Criterion B: Reading |
 | What it assesses | Constructing meaning from written, spatial and visual aspects of texts, and how they work with the words to convey ideas, values and attitudes |
 | Achievement levels | Eight (1-8), in four bands; four criteria weighted equally |
-| On-screen exam | Three tasks; "comprehending written multimodal texts" = Criterion B, 24 marks |
+| On-screen exam | Three tasks of about 35 minutes each, 96 marks; Tasks 1 and 2 each pair a written-visual text with an audio-visual text, and "comprehending written multimodal texts" = Criterion B, 16 marks per task, 32 marks in all |
 | Proficiency levels | Emergent, capable or proficient |
 | Topics | Any topic from the language acquisition list |
 
@@ -196,7 +197,7 @@ Use this original leaflet for questions 1-7.
 8. The main idea is the central point of the whole text; a supporting detail is a fact or example that backs it up.
 9. Purpose is why the text was written; perspective is whose point of view it presents.
 10. Written, spatial and visual.
-11. **24 marks**; **eight levels (1-8)** in four bands.
+11. **32 marks** (16 in each of Tasks 1 and 2); **eight levels (1-8)** in four bands.
 
 ## Where marks are usually lost
 
@@ -222,7 +223,7 @@ Name the visual or layout feature, describe it precisely and explain its effect 
 Criterion B names spatial aspects such as position on the page, size, columns, boxes and white space as sources of meaning. Layout shows what the reader notices first and what is grouped together, so it is not just decoration.
 
 **Is Criterion B reading assessed on screen?**
-Yes. Criterion B is part of the MYP Language Acquisition on-screen examination, which carries 24 marks each for listening, reading and writing.
+Yes. Criterion B is part of the MYP Language Acquisition on-screen examination, which is worth 96 marks: 32 each for listening (A), reading (B) and writing (D). Criterion B is assessed in Tasks 1 and 2, 16 marks in each.
 
 ## Next steps
 
@@ -230,4 +231,4 @@ Practise with the [Criterion B practice questions](/resources/ib-myp-language-ac
 
 ## Official syllabus
 
-International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Language acquisition*, from 2020 (first eAssessment May 2023/November 2023), published by the IB. The brief names Criterion B: Reading and lists "comprehending written multimodal texts" for 24 marks in the on-screen examination. All texts here are original.
+International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Language acquisition*, from 2020 (first eAssessment May 2023/November 2023), published by the IB. The brief names Criterion B: Reading and lists "comprehending written multimodal texts". The eAssessment marks (32 for Criterion B, 16 in each of Tasks 1 and 2 of the on-screen examination) come from the International Baccalaureate Organization, Middle Years Programme Language acquisition guide, for use from September 2020/January 2021 ("MYP eAssessment" and "Language acquisition examination blueprint", pages 51 and 52). All texts here are original.

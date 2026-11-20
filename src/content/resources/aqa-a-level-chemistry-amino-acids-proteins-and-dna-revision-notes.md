@@ -14,6 +14,9 @@ order: 31
 syllabusTopics:
   - qualification: "a-level"
     topic: "amino-acids-proteins-and-dna-7405"
+  - qualification: "a-level"
+    topic: "amino-acids-proteins-and-dna-7405"
+    subtopic: "proteins-7405"
 description: "Condensed AQA A-Level Chemistry notes on zwitterions, peptides, protein structure, TLC, enzymes, DNA base pairing and cisplatin, with a quick self-test."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"

@@ -1,10 +1,15 @@
 /**
  * D-444 -- flashcards for IB MYP Sciences (from 2014).
  *
- * The syllabus record lists five topics and no subtopics, so there is one block
- * per topic, in syllabus order. Card ids are `<topic number>-<n>` and are
- * permanent (browser progress is keyed by them): add a new card with the next
- * unused n, never renumber.
+ * The syllabus record lists five topics. Topics 1-3 and 5 list no subtopics, so
+ * each has one block, in syllabus order. Topic 4 (assessment criteria) is keyed
+ * by its subtopics, the four lettered criteria A-D, one block per criterion.
+ * Card ids are `<topic number>-<n>` for topics 1-3 and 5 and
+ * `<criterion letter>-<n>` for the criteria, and are permanent (browser
+ * progress is keyed by them): add a new card with the next unused n, never
+ * renumber. The letter prefixes cannot clash with the numbered topic ids.
+ * Cards that were on topic 4 before the criteria were itemised moved to their
+ * criterion's ids; `idMigration` below carries saved progress across.
  *
  * MYP Sciences is criterion-assessed (criteria A-D, each 0-8). The cards cover
  * the key and related concepts, the global contexts and statements of inquiry,
@@ -24,6 +29,18 @@ import type { Flashcard, FlashcardDeck } from './types.ts';
 
 interface Spec { n: number; f: string; b: string; u?: true; src?: string }
 
+const sub = (topic: string, subtopic: string, number: string, specs: Spec[]): Flashcard[] =>
+  specs.map(({ n, f, b, u, src }) => ({
+    id: `${number}-${n}`,
+    topic,
+    subtopic,
+    front: f,
+    back: b,
+    ...(u ? { tier: 'upper' as const } : {}),
+    origin: src ? 'revision-notes' as const : 'authored' as const,
+    ...(src ? { source: src } : {}),
+  }));
+
 const topicOnly = (topic: string, number: string, specs: Spec[]): Flashcard[] =>
   specs.map(({ n, f, b, u, src }) => ({
     id: `${number}-${n}`,
@@ -36,6 +53,7 @@ const topicOnly = (topic: string, number: string, specs: Spec[]): Flashcard[] =>
   }));
 
 const P = 'ib-myp-sciences';
+const AC = `${P}-assessment-criteria`;
 const KC = 'ib-myp-sciences-key-concepts-revision-notes';
 const CYC = 'ib-myp-sciences-cycles-revision-notes';
 const ATOM = 'ib-myp-sciences-atomic-structure-and-bonding-revision-notes';
@@ -50,7 +68,26 @@ export const DECK_IB_IB_MYP_SCIENCES: FlashcardDeck = {
   syllabusCode: 'MYP Sciences',
   syllabusSeries: 'From 2014',
   author: 'marlbridge-academic-team',
-  updated: '2026-11-08',
+  updated: '2026-11-20',
+  // Old id -> new id for every card in the deck as it stood before the criteria were itemised,
+  // so progress saved before the change follows each card. Cards whose id did not change map to themselves.
+  idMigration: {
+    id: 'myp-sciences-subtopics-2026-11-20',
+    before: '2026-11-20',
+    map: {
+      '1-1': '1-1', '1-2': '1-2', '1-3': '1-3', '1-4': '1-4',
+      '1-5': '1-5', '1-6': '1-6', '1-7': '1-7', '1-8': '1-8',
+      '1-9': '1-9', '2-1': '2-1', '2-2': '2-2', '2-3': '2-3',
+      '2-4': '2-4', '2-5': '2-5', '2-6': '2-6', '2-7': '2-7',
+      '2-8': '2-8', '3-1': '3-1', '3-2': '3-2', '3-3': '3-3',
+      '3-4': '3-4', '3-5': '3-5', '3-6': '3-6', '3-7': '3-7',
+      '3-8': '3-8', '4-1': 'A-1', '4-2': 'A-2', '4-3': 'B-1',
+      '4-4': 'B-2', '4-5': 'B-3', '4-6': 'C-1', '4-7': 'C-2',
+      '4-8': 'D-1', '4-9': 'D-2', '4-10': 'D-3', '5-1': '5-1',
+      '5-2': '5-2', '5-3': '5-3', '5-4': '5-4', '5-5': '5-5',
+      '5-6': '5-6', '5-7': '5-7', '5-8': '5-8', '5-9': '5-9',
+    },
+  },
   cards: [
     // 1 Key concepts
     ...topicOnly(`${P}-key-concepts`, '1', [
@@ -89,18 +126,27 @@ export const DECK_IB_IB_MYP_SCIENCES: FlashcardDeck = {
       { n: 8, f: 'Global context versus topic', b: '"Electromagnetism" is a topic. "Fairness and development" is a global context that could frame it, by asking who gains from the science and who pays.' },
     ]),
 
-    // 4 Assessment criteria
-    ...topicOnly(`${P}-assessment-criteria`, '4', [
+    // 4 Assessment criteria: A Knowing and understanding
+    ...sub(AC, `${AC}-a-knowing-and-understanding`, 'A', [
       { n: 1, f: 'What are the four MYP Sciences assessment criteria?', b: 'A: Knowing and understanding. B: Inquiring and designing. C: Processing and evaluating. D: Reflecting on the impacts of science. Each is marked 0–8, so the subject total is 0–32. There is no SL/HL split.' },
       { n: 2, f: 'What does top-band criterion A evidence look like?', b: 'Applying scientific knowledge (facts, concepts, laws, models, theories) to solve problems in unfamiliar contexts and make scientifically supported judgements — not just recalling a definition.' },
-      { n: 3, f: 'What does criterion B (Inquiring and designing) require?', b: 'Formulating your own testable research question and hypothesis, identifying the independent, dependent and controlled variables, and designing and justifying a method that could answer the question.' },
-      { n: 4, f: 'What makes a hypothesis testable?', b: 'It states a specific, measurable relationship between the independent and dependent variables, ideally with a scientific reason. Example: as salt concentration increases, potato mass decreases more, because water leaves the cells by osmosis.' },
-      { n: 5, f: 'Why must controlled variables be named and justified?', b: 'An uncontrolled variable can affect the dependent variable independently and confound the results. Example: temperature affects the rate of osmosis, so it must be kept constant when testing salt concentration.' },
-      { n: 6, f: 'What does criterion C (Processing and evaluating) require?', b: 'Collecting, processing and interpreting data accurately; drawing a conclusion justified by the data (trends, patterns, anomalies) and explained with science; evaluating a specific limitation of the method with a specific, realistic improvement.' },
-      { n: 7, f: 'Why is "use more trials" a weak evaluation?', b: 'It is generic. A strong evaluation names the actual limitation (only one sample per concentration, so one anomaly could distort the pattern) and a targeted improvement (repeat each three times and use the mean), saying why it helps.' },
-      { n: 8, f: 'What does criterion D (Reflecting on the impacts of science) require?', b: 'Explaining how science is applied to a real problem (strand i); discussing and evaluating its implications using a named factor (strand ii); using precise scientific language (strand iii); and documenting sources (strand iv).' },
-      { n: 9, f: 'What is the year 5 command-term ladder for criterion D?', b: 'Strand i: outline (1–2), summarize (3–4), describe (5–6), explain (7–8).\nStrand ii: outline (1–2), describe (3–4), discuss (5–6), discuss and evaluate (7–8). 7–8 needs a two-sided discussion ending in a judgement.' },
-      { n: 10, f: 'What do the command terms discuss and evaluate require?', b: 'Discuss: a considered, balanced review of a range of arguments or factors.\nEvaluate: weigh strengths and limitations (benefits and risks) and reach a justified judgement.' },
+    ]),
+    // 4 Assessment criteria: B Inquiring and designing
+    ...sub(AC, `${AC}-b-inquiring-and-designing`, 'B', [
+      { n: 1, f: 'What does criterion B (Inquiring and designing) require?', b: 'Formulating your own testable research question and hypothesis, identifying the independent, dependent and controlled variables, and designing and justifying a method that could answer the question.' },
+      { n: 2, f: 'What makes a hypothesis testable?', b: 'It states a specific, measurable relationship between the independent and dependent variables, ideally with a scientific reason. Example: as salt concentration increases, potato mass decreases more, because water leaves the cells by osmosis.' },
+      { n: 3, f: 'Why must controlled variables be named and justified?', b: 'An uncontrolled variable can affect the dependent variable independently and confound the results. Example: temperature affects the rate of osmosis, so it must be kept constant when testing salt concentration.' },
+    ]),
+    // 4 Assessment criteria: C Processing and evaluating
+    ...sub(AC, `${AC}-c-processing-and-evaluating`, 'C', [
+      { n: 1, f: 'What does criterion C (Processing and evaluating) require?', b: 'Collecting, processing and interpreting data accurately; drawing a conclusion justified by the data (trends, patterns, anomalies) and explained with science; evaluating a specific limitation of the method with a specific, realistic improvement.' },
+      { n: 2, f: 'Why is "use more trials" a weak evaluation?', b: 'It is generic. A strong evaluation names the actual limitation (only one sample per concentration, so one anomaly could distort the pattern) and a targeted improvement (repeat each three times and use the mean), saying why it helps.' },
+    ]),
+    // 4 Assessment criteria: D Reflecting on the impacts of science
+    ...sub(AC, `${AC}-d-reflecting-on-the-impacts-of-science`, 'D', [
+      { n: 1, f: 'What does criterion D (Reflecting on the impacts of science) require?', b: 'Explaining how science is applied to a real problem (strand i); discussing and evaluating its implications using a named factor (strand ii); using precise scientific language (strand iii); and documenting sources (strand iv).' },
+      { n: 2, f: 'What is the year 5 command-term ladder for criterion D?', b: 'Strand i: outline (1–2), summarize (3–4), describe (5–6), explain (7–8).\nStrand ii: outline (1–2), describe (3–4), discuss (5–6), discuss and evaluate (7–8). 7–8 needs a two-sided discussion ending in a judgement.' },
+      { n: 3, f: 'What do the command terms discuss and evaluate require?', b: 'Discuss: a considered, balanced review of a range of arguments or factors.\nEvaluate: weigh strengths and limitations (benefits and risks) and reach a justified judgement.' },
     ]),
 
     // 5 MYP eAssessment structure and on-screen examination topics

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="640" viewBox="0 0 900 640" role="img" aria-labelledby="title desc" font-family="Arial, Helvetica, sans-serif">
+<title id="title">Balance revision across four equal criteria</title>
+<desc id="desc">Four criteria are each worth 32 marks in the eAssessment blueprint. Listening, reading and writing share one on-screen paper of 96 marks and can be revised together: listening and reading in Tasks 1 and 2, writing in Task 3. Speaking is a separate strand of 15 to 17 minutes, including preparation time. Speaking needs its own routine of spontaneous, interactive conversation under time pressure, and over-investing in writing can hide a gap in speaking.</desc>
+<rect width="900" height="640" fill="#f4f6f6"/>
+<text x="450" y="52" font-size="30" font-weight="700" fill="#1c2d4b" text-anchor="middle">Balance revision across four equal criteria</text>
+<rect x="30" y="95" width="560" height="275" rx="16" fill="#e8f2ef" stroke="#2f6e66" stroke-width="3"/>
+<text x="52" y="134" font-size="20" font-weight="700" fill="#2f6e66" text-anchor="start">On-screen paper (96 marks): revise together</text>
+<rect x="50" y="152" width="160" height="196" rx="14" fill="#fff" stroke="#2f6e66" stroke-width="3"/>
+<circle cx="130" cy="200" r="24" fill="#f0e6b8" stroke="#1c2d4b" stroke-width="3"/>
+<text x="130" y="209" font-size="26" font-weight="700" fill="#1c2d4b" text-anchor="middle">A</text>
+<text x="130" y="262" font-size="22" font-weight="700" fill="#1c2d4b" text-anchor="middle">Listening</text>
+<text x="130" y="297" font-size="20" fill="#4a5a72" text-anchor="middle">32 marks</text>
+<text x="130" y="324" font-size="17" fill="#4a5a72" text-anchor="middle">Tasks 1 and 2</text>
+<rect x="225" y="152" width="160" height="196" rx="14" fill="#fff" stroke="#2f6e66" stroke-width="3"/>
+<circle cx="305" cy="200" r="24" fill="#f0e6b8" stroke="#1c2d4b" stroke-width="3"/>
+<text x="305" y="209" font-size="26" font-weight="700" fill="#1c2d4b" text-anchor="middle">B</text>
+<text x="305" y="262" font-size="22" font-weight="700" fill="#1c2d4b" text-anchor="middle">Reading</text>
+<text x="305" y="297" font-size="20" fill="#4a5a72" text-anchor="middle">32 marks</text>
+<text x="305" y="324" font-size="17" fill="#4a5a72" text-anchor="middle">Tasks 1 and 2</text>
+<rect x="400" y="152" width="160" height="196" rx="14" fill="#fff" stroke="#2f6e66" stroke-width="3"/>
+<circle cx="480" cy="200" r="24" fill="#f0e6b8" stroke="#1c2d4b" stroke-width="3"/>
+<text x="480" y="209" font-size="26" font-weight="700" fill="#1c2d4b" text-anchor="middle">D</text>
+<text x="480" y="262" font-size="22" font-weight="700" fill="#1c2d4b" text-anchor="middle">Writing</text>
+<text x="480" y="297" font-size="20" fill="#4a5a72" text-anchor="middle">32 marks</text>
+<text x="480" y="324" font-size="17" fill="#4a5a72" text-anchor="middle">Task 3</text>
+<rect x="610" y="95" width="260" height="275" rx="16" fill="#f0e6b8" stroke="#8a6d0b" stroke-width="3"/>
+<text x="632" y="134" font-size="20" font-weight="700" fill="#8a6d0b" text-anchor="start">Separate strand</text>
+<rect x="630" y="152" width="220" height="196" rx="14" fill="#fff" stroke="#8a6d0b" stroke-width="3"/>
+<circle cx="740" cy="200" r="24" fill="#d4b02e" stroke="#1c2d4b" stroke-width="3"/>
+<text x="740" y="209" font-size="26" font-weight="700" fill="#1c2d4b" text-anchor="middle">C</text>
+<text x="740" y="262" font-size="22" font-weight="700" fill="#1c2d4b" text-anchor="middle">Speaking</text>
+<text x="740" y="297" font-size="20" fill="#4a5a72" text-anchor="middle">32 marks</text>
+<text x="740" y="324" font-size="17" fill="#4a5a72" text-anchor="middle">15 to 17 minutes</text>
+<rect x="30" y="388" width="840" height="108" rx="16" fill="#fff" stroke="#c9d6d3" stroke-width="3"/>
+<text x="52" y="426" font-size="22" font-weight="700" fill="#1c2d4b" text-anchor="start">Speaking routine</text>
+<text x="52" y="458" font-size="19" fill="#1c2d4b" text-anchor="start">rehearse spontaneous, interactive conversation under time pressure,</text>
+<text x="52" y="484" font-size="19" fill="#1c2d4b" text-anchor="start">not prepared monologues</text>
+<rect x="30" y="514" width="840" height="112" rx="16" fill="#faeee8" stroke="#b5652f" stroke-width="3"/>
+<text x="52" y="552" font-size="22" font-weight="700" fill="#b5652f" text-anchor="start">× Common trap</text>
+<text x="52" y="584" font-size="19" fill="#1c2d4b" text-anchor="start">over-investing in writing: strong written work can mask a real gap in speaking</text>
+<text x="52" y="610" font-size="19" fill="#1c2d4b" text-anchor="start">preparation, because all four criteria are weighted equally</text>
+</svg>

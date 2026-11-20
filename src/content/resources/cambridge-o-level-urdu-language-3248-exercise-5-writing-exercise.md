@@ -12,6 +12,7 @@ order: 3.2
 syllabusTopics:
   - qualification: "o-level"
     topic: "sl-paper-1-reading-writing-3248"
+    subtopic: "exercise-5-writing-exercise-3248"
 description: "Writing the 150-word functional piece in 3248 Paper 1 Exercise 5: reading purpose, format and audience, covering every prompt, register and a model Urdu email."
 author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"

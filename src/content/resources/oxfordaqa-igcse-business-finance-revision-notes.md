@@ -13,6 +13,9 @@ order: 822
 syllabusTopics:
   - qualification: "igcse"
     topic: "finance-oxfordaqa-igcse-business"
+  - qualification: "igcse"
+    topic: "finance-oxfordaqa-igcse-business"
+    subtopic: "analysing-the-financial-performance-of-a-business-oxfordaqa-igcse-business"
 description: "Condensed revision notes for OxfordAQA International GCSE Business 9225 Finance: sources, cash flow, break-even, payback, margins and quick self-test."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

@@ -13,6 +13,9 @@ order: 10
 syllabusTopics:
   - qualification: "o-level"
     topic: "respiration"
+  - qualification: "o-level"
+    topic: "respiration"
+    subtopic: "aerobic-respiration"
 description: "Revision notes on respiration for Cambridge O Level Biology 5090: equations to learn, energy uses, the yeast practical, oxygen debt and a self-test."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

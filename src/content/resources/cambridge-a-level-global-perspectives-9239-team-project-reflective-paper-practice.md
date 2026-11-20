@@ -13,6 +13,7 @@ order: 3.2
 syllabusTopics:
   - qualification: "a-level"
     topic: "component-3-team-project-9239"
+    subtopic: "reflective-paper-9239"
 description: "Original practice on the 9239 Team Project reflective paper: evaluating collaboration, writing improvements, fair evaluation of teammates and learning."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"

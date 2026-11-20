@@ -13,6 +13,7 @@ order: 55
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-language-acquisition-assessment-criteria"
+    subtopic: "ib-myp-language-acquisition-assessment-criteria-d-writing"
 description: "Original IB MYP Language Acquisition criterion D practice: decoding prompts, cohesion, register, accuracy, range and a model blog post, with answers."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
@@ -90,7 +91,7 @@ Task: write a blog post for teenagers at your school, encouraging them to take p
 
 ## Answers
 
-**1.** Writing in response to multimodal texts [1]; **24 marks** [1]. **[2]**
+**1.** Writing in response to multimodal texts [1]; **32 marks** [1]. **[2]**
 *Examiner insight:* "Writing" alone names the criterion, not the blueprint objective, so it would not earn the first point.
 
 **2.** Purpose: to persuade, giving reasons for disagreeing [1]. Audience: the youth council, officials [1]. Text type: a formal letter [1]. Register: **formal**, polite form of address throughout [1]. **[4]**
@@ -184,4 +185,4 @@ Yes. Model answers are in English, but the tasks can be repeated in your target 
 
 ## Official syllabus
 
-International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Language acquisition*, from 2020 (first eAssessment May 2023/November 2023). These questions follow the brief's description of criterion D and its eAssessment blueprint.
+International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Language acquisition*, from 2020 (first eAssessment May 2023/November 2023). These questions follow the brief's description of criterion D. The eAssessment marks (32 for criterion D, all in Task 3 of the on-screen examination) come from the International Baccalaureate Organization, Middle Years Programme Language acquisition guide, for use from September 2020/January 2021 ("MYP eAssessment" and "Language acquisition examination blueprint", pages 51 and 52).

@@ -12,6 +12,7 @@ order: 3.2
 syllabusTopics:
   - qualification: "igcse"
     topic: "geographical-fieldwork-skills-9230"
+    subtopic: "section-b-fieldwork-skills-and-section-c-individual-fieldwork-enquiry-9230"
 description: "How to plan a 9230 fieldwork enquiry: suitable questions and hypotheses, underpinning theory, locations, background research and reducing fieldwork risks."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

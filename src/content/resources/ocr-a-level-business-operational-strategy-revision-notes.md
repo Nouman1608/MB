@@ -13,6 +13,12 @@ order: 815
 syllabusTopics:
   - qualification: "a-level"
     topic: "operational-strategy-ocr-alevel-business"
+  - qualification: "a-level"
+    topic: "operational-strategy-ocr-alevel-business"
+    subtopic: "operations-management-objectives-ocr-alevel-business"
+  - qualification: "a-level"
+    topic: "operational-strategy-ocr-alevel-business"
+    subtopic: "internal-quality-standards-ocr-alevel-business"
 description: "Condensed OCR A Level Business (H431) revision notes on operational strategy: definitions, formulas, method steps, self-test and common errors."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

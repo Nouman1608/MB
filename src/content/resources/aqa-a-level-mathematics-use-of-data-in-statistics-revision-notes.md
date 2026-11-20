@@ -13,6 +13,9 @@ order: 21
 syllabusTopics:
   - qualification: "a-level"
     topic: "use-of-data-in-statistics-aqa-alevel-maths"
+  - qualification: "a-level"
+    topic: "use-of-data-in-statistics-aqa-alevel-maths"
+    subtopic: "large-data-set-aqa-alevel-maths"
 description: "Condensed AQA A-Level Maths revision notes on using real data: large data set, spreadsheets, cleaning, summary statistics and a quick self-test."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"

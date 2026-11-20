@@ -14,6 +14,9 @@ order: 18
 syllabusTopics:
   - qualification: "a-level"
     topic: "mail-merge"
+  - qualification: "a-level"
+    topic: "mail-merge"
+    subtopic: "mail-merge-content"
 description: "Condensed revision notes for Cambridge A Level IT 9626 Mail merge: key terms, field types, recipient rules and a quick self-test with answers."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"

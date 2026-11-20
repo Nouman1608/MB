@@ -14,6 +14,9 @@ order: 8
 syllabusTopics:
   - qualification: "a-level"
     topic: "spreadsheets"
+  - qualification: "a-level"
+    topic: "spreadsheets"
+    subtopic: "creating-a-spreadsheet"
 description: "Condensed revision notes for Cambridge AS & A Level IT 9626 Spreadsheets: function syntax, referencing, test data, pivot tables, charts, self-test."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"

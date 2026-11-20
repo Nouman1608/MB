@@ -13,6 +13,7 @@ order: 52
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-language-acquisition-assessment-criteria"
+    subtopic: "ib-myp-language-acquisition-assessment-criteria-a-listening"
 description: "Original IB MYP Language Acquisition Criterion A listening practice: five transcripts with visual notes and fully worked answers."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
@@ -188,4 +189,4 @@ Give separate evidence for the audience and for the purpose, drawing on register
 
 ## Official syllabus
 
-International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Language acquisition*, from 2020 (first eAssessment May 2023/November 2023), published by the IB. The brief names Criterion A: Listening and gives 24 on-screen examination marks for comprehending spoken multimodal texts. All transcripts and questions here are original.
+International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Language acquisition*, from 2020 (first eAssessment May 2023/November 2023), published by the IB. The brief names Criterion A: Listening. The eAssessment marks (32 for Criterion A, 16 in each of Tasks 1 and 2 of the on-screen examination) come from the International Baccalaureate Organization, Middle Years Programme Language acquisition guide, for use from September 2020/January 2021 ("MYP eAssessment" and "Language acquisition examination blueprint", pages 51 and 52). All transcripts and questions here are original.

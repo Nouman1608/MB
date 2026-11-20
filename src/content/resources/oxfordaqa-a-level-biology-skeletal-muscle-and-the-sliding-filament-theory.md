@@ -14,6 +14,7 @@ order: 267
 syllabusTopics:
   - qualification: "a-level"
     topic: "control-oxfordaqa-alevel-biology"
+    subtopic: "skeletal-muscles-as-effectors-oxfordaqa-alevel-biology"
 description: "Study guide to skeletal muscle for OxfordAQA International A-level Biology 9610 section 3.4.4: sarcomeres, cross-bridges, ATP and fibre types."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

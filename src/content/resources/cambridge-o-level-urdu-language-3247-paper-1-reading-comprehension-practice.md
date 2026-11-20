@@ -12,6 +12,7 @@ order: 1.1
 syllabusTopics:
   - qualification: "o-level"
     topic: "fl-paper-1-reading-writing-3247"
+    subtopic: "part-1-reading-3247"
 description: "Twelve original comprehension questions on a new non-literary Urdu passage in the 3247 Paper 1 Part 1 style, covering R1 to R4, with full marked answers."
 author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"

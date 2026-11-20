@@ -13,6 +13,12 @@ order: 4
 syllabusTopics:
   - qualification: "igcse"
     topic: "ecology-and-the-environment-edexcel-igcse-biology"
+  - qualification: "igcse"
+    topic: "ecology-and-the-environment-edexcel-igcse-biology"
+    subtopic: "the-organism-in-the-environment-4bi1"
+  - qualification: "igcse"
+    topic: "ecology-and-the-environment-edexcel-igcse-biology"
+    subtopic: "human-influences-on-the-environment-4bi1"
 description: "Condensed revision notes for Edexcel IGCSE Biology 4BI1 ecology: key terms, energy transfer, nutrient cycles, pollution and a quick self-test."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

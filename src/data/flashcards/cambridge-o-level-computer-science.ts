@@ -3,10 +3,13 @@
  *
  * 2210 shares its content with Cambridge IGCSE Computer Science 0478, but this
  * deck is written for 2210 and keyed to the 2210 record in syllabus-topics.ts:
- * topics 2 and 3 itemise subtopics (ids `<subtopic number>-<n>`); topics 1 and
- * 4-10 itemise none, so their cards hang on the topic (topicOnly helper, ids
- * `<topic number>-<n>`). Ids are permanent (browser progress is keyed by
- * them): add a new card with the next unused n, never renumber.
+ * topics 1 to 6 and 8 itemise subtopics (ids `<subtopic number>-<n>`); topics
+ * 7, 9 and 10 itemise none, so their cards hang on the topic (topicOnly
+ * helper, ids `<topic number>-<n>`). On 20 Nov 2026 the cards of topics 1, 4,
+ * 5, 6 and 8, which until then sat on the topic, were re-filed under their
+ * subtopics (card text unchanged); `idMigration` below moves browser progress
+ * saved before that onto the new ids. Ids are permanent (browser progress is
+ * keyed by them): add a new card with the next unused n, never renumber.
  *
  * Not tiered. Written from Marlbridge's own 2210 revision notes, study guides
  * and practice pages; pseudocode follows the Cambridge style used there.
@@ -52,10 +55,37 @@ export const DECK_CAMBRIDGE_O_LEVEL_COMPUTER_SCIENCE: FlashcardDeck = {
   syllabusCode: '2210',
   syllabusSeries: '2026-2028',
   author: 'marlbridge-academic-team',
-  updated: '2026-11-08',
+  updated: '2026-11-20',
+  idMigration: {
+    id: '2210-subtopics-2026-11-20',
+    before: '2026-11-20',
+    map: {
+      '1-1': '1.1-1', '1-2': '1.1-2', '1-3': '1.1-3', '1-4': '1.1-4', '1-5': '1.1-5', '1-6': '1.1-6',
+      '1-7': '1.1-7', '1-8': '1.1-8', '1-9': '1.2-1', '1-10': '1.2-2', '1-11': '1.2-3', '1-12': '1.2-4',
+      '1-13': '1.3-1', '1-14': '1.3-2', '1-15': '1.3-3', '1-16': '1.3-4', '2.1-1': '2.1-1', '2.1-2': '2.1-2',
+      '2.1-3': '2.1-3', '2.1-4': '2.1-4', '2.1-5': '2.1-5', '2.2-1': '2.2-1', '2.2-2': '2.2-2', '2.2-3': '2.2-3',
+      '2.2-4': '2.2-4', '2.2-5': '2.2-5', '2.2-6': '2.2-6', '2.3-1': '2.3-1', '2.3-2': '2.3-2', '2.3-3': '2.3-3',
+      '2.3-4': '2.3-4', '3.1-1': '3.1-1', '3.1-2': '3.1-2', '3.1-3': '3.1-3', '3.1-4': '3.1-4', '3.1-5': '3.1-5',
+      '3.1-6': '3.1-6', '3.1-7': '3.1-7', '3.2-1': '3.2-1', '3.2-2': '3.2-2', '3.2-3': '3.2-3', '3.2-4': '3.2-4',
+      '3.2-5': '3.2-5', '3.3-1': '3.3-1', '3.3-2': '3.3-2', '3.3-3': '3.3-3', '3.3-4': '3.3-4', '3.3-5': '3.3-5',
+      '3.3-6': '3.3-6', '3.4-1': '3.4-1', '3.4-2': '3.4-2', '3.4-3': '3.4-3', '3.4-4': '3.4-4', '3.4-5': '3.4-5',
+      '4-1': '4.1-1', '4-2': '4.1-2', '4-3': '4.1-3', '4-5': '4.2-1', '4-6': '4.2-2', '4-7': '4.2-3',
+      '4-8': '4.2-4', '4-9': '4.2-5', '4-10': '4.1-4', '4-11': '4.1-5', '5-1': '5.1-1', '5-2': '5.1-2',
+      '5-3': '5.1-3', '5-4': '5.1-4', '5-5': '5.1-5', '5-6': '5.1-6', '5-7': '5.2-1', '5-8': '5.3-1',
+      '5-9': '5.3-2', '5-10': '5.3-3', '6-1': '6.1-1', '6-2': '6.1-2', '6-3': '6.1-3', '6-4': '6.2-1',
+      '6-5': '6.2-2', '6-6': '6.2-3', '6-7': '6.3-1', '6-8': '6.3-2', '6-9': '6.3-3', '7-1': '7-1',
+      '7-2': '7-2', '7-3': '7-3', '7-4': '7-4', '7-5': '7-5', '7-6': '7-6', '7-7': '7-7',
+      '7-8': '7-8', '7-9': '7-9', '7-10': '7-10', '8-1': '8.1-1', '8-2': '8.1-2', '8-3': '8.1-3',
+      '8-4': '8.1-4', '8-5': '8.1-5', '8-6': '8.1-6', '8-7': '8.1-7', '8-8': '8.1-8', '8-9': '8.2-1',
+      '8-10': '8.3-1', '8-11': '8.1-9', '9-1': '9-1', '9-2': '9-2', '9-3': '9-3', '9-4': '9-4',
+      '9-5': '9-5', '9-6': '9-6', '9-7': '9-7', '9-8': '9-8', '10-1': '10-1', '10-2': '10-2',
+      '10-3': '10-3', '10-4': '10-4', '10-5': '10-5', '10-6': '10-6', '10-7': '10-7', '10-8': '10-8',
+      '10-9': '10-9',
+    },
+  },
   cards: [
     // 1 Data representation
-    ...topicOnly('data-representation-2210', 1, [
+    ...sub('data-representation-2210', 'number-systems-2210', '1.1', [
       { n: 1, f: 'How do you convert a denary number to binary by division?', b: 'Divide by 2 repeatedly, writing down each remainder, until you reach 0. Read the remainders from the bottom upwards.' },
       { n: 2, f: 'Why is hexadecimal used rather than binary?', b: 'It is far more compact, and each hex digit maps to exactly four binary digits, so conversion is simple and human error is less likely. Used for memory addresses, MAC addresses, colour codes and error codes.', src: DR },
       { n: 3, f: 'Convert denary 205 to hexadecimal', b: '205 = 128 + 64 + 8 + 4 + 1 = 11001101. Split into nibbles from the right: 1100 = C and 1101 = D, so 205 = CD.' },
@@ -64,14 +94,18 @@ export const DECK_CAMBRIDGE_O_LEVEL_COMPUTER_SCIENCE: FlashcardDeck = {
       { n: 6, f: 'What is the range of an 8-bit two\'s complement integer?', b: '-128 to +127. The most significant bit has a place value of -128; a leading 1 means the number is negative.' },
       { n: 7, f: 'Convert -45 to 8-bit two\'s complement', b: '+45 = 00101101. Invert every bit: 11010010. Add 1: 11010011. Check: -128 + 64 + 16 + 2 + 1 = -45.' },
       { n: 8, f: 'Convert the two\'s complement number 11101100 to denary', b: 'Add the place values, using -128 for the first bit: -128 + 64 + 32 + 8 + 4 = -20.' },
-      { n: 9, f: 'ASCII vs Unicode', b: 'ASCII uses 7 bits (128 characters); extended ASCII uses 8 bits (256). Unicode can use up to 32 bits per character to cover a very wide range of the world\'s scripts, so text files are larger.' },
-      { n: 10, f: 'Why was Unicode introduced?', b: 'ASCII could not represent non-Latin writing systems such as Arabic, Chinese or Urdu, so a larger character set was needed.' },
-      { n: 11, f: 'Resolution and colour depth of a bitmap image', b: 'Resolution: the number of pixels. Colour depth: bits per pixel; n bits give 2ⁿ colours. Higher values give better quality but larger files.', src: DR },
-      { n: 12, f: 'Sample rate and bit depth of a sound file', b: 'Sample rate: samples per second (Hz). Bit depth (sample resolution): bits per sample. Raising either records the wave more accurately but increases file size.', src: DR },
-      { n: 13, f: 'An image is 800 × 600 pixels with 24-bit colour. What is its file size in MiB?', b: '800 × 600 × 24 = 11,520,000 bits ÷ 8 = 1,440,000 bytes ÷ 1024 = 1406.25 KiB ÷ 1024 ≈ 1.37 MiB.' },
-      { n: 14, f: 'List the 2210 storage units from bit to exbibyte', b: 'Bit, nibble (4 bits), byte (8 bits), KiB, MiB, GiB, TiB, PiB, EiB. From the kibibyte (1024 bytes) up, each unit is 1024 times the one before.' },
-      { n: 15, f: 'When must lossless compression be used, and what does lossy compression do?', b: 'Lossless is needed where every bit matters (text, program files, spreadsheets), as the original is fully recovered. Lossy permanently removes data, e.g. by reducing resolution, colour depth or sample rate; used for images, audio, video.' },
-      { n: 16, f: 'Can run-length encoding make a file larger?', b: 'Yes. RLE stores each run as a value and a count, so on noisy or photographic data with few repeated adjacent values it can produce a file larger than the original.' },
+    ]),
+    ...sub('data-representation-2210', 'text-sound-and-images-2210', '1.2', [
+      { n: 1, f: 'ASCII vs Unicode', b: 'ASCII uses 7 bits (128 characters); extended ASCII uses 8 bits (256). Unicode can use up to 32 bits per character to cover a very wide range of the world\'s scripts, so text files are larger.' },
+      { n: 2, f: 'Why was Unicode introduced?', b: 'ASCII could not represent non-Latin writing systems such as Arabic, Chinese or Urdu, so a larger character set was needed.' },
+      { n: 3, f: 'Resolution and colour depth of a bitmap image', b: 'Resolution: the number of pixels. Colour depth: bits per pixel; n bits give 2ⁿ colours. Higher values give better quality but larger files.', src: DR },
+      { n: 4, f: 'Sample rate and bit depth of a sound file', b: 'Sample rate: samples per second (Hz). Bit depth (sample resolution): bits per sample. Raising either records the wave more accurately but increases file size.', src: DR },
+    ]),
+    ...sub('data-representation-2210', 'data-storage-and-compression-2210', '1.3', [
+      { n: 1, f: 'An image is 800 × 600 pixels with 24-bit colour. What is its file size in MiB?', b: '800 × 600 × 24 = 11,520,000 bits ÷ 8 = 1,440,000 bytes ÷ 1024 = 1406.25 KiB ÷ 1024 ≈ 1.37 MiB.' },
+      { n: 2, f: 'List the 2210 storage units from bit to exbibyte', b: 'Bit, nibble (4 bits), byte (8 bits), KiB, MiB, GiB, TiB, PiB, EiB. From the kibibyte (1024 bytes) up, each unit is 1024 times the one before.' },
+      { n: 3, f: 'When must lossless compression be used, and what does lossy compression do?', b: 'Lossless is needed where every bit matters (text, program files, spreadsheets), as the original is fully recovered. Lossy permanently removes data, e.g. by reducing resolution, colour depth or sample rate; used for images, audio, video.' },
+      { n: 4, f: 'Can run-length encoding make a file larger?', b: 'Yes. RLE stores each run as a value and a count, so on noisy or photographic data with few repeated adjacent values it can produce a file larger than the original.' },
     ]),
 
     // 2 Data transmission
@@ -131,44 +165,54 @@ export const DECK_CAMBRIDGE_O_LEVEL_COMPUTER_SCIENCE: FlashcardDeck = {
     ]),
 
     // 4 Software
-    ...topicOnly('software-2210', 4, [
+    ...sub('software-2210', 'types-of-software-and-interrupts-2210', '4.1', [
       { n: 1, f: 'Is antivirus software application or system software?', b: 'System software. It is a utility program, which maintains the computer, rather than an application that does the user\'s task.' },
       { n: 2, f: 'State three functions of an operating system', b: 'Any three of: managing files; managing memory; handling interrupts; managing peripherals and drivers; providing a user interface; managing multitasking; providing a platform for applications; providing security; managing user accounts.' },
       { n: 3, f: 'How does the processor deal with an interrupt?', b: 'It checks for interrupts at the end of each fetch-decode-execute cycle. If an interrupt has higher priority than the current task, it saves the task\'s state, runs the interrupt service routine, then restores and resumes the task.' },
-      { n: 5, f: 'Give three reasons for writing in a high-level language', b: 'It is machine independent (portable); it is easier to read and debug; the programmer is less likely to make errors; one statement does the work of many machine-code instructions.' },
-      { n: 6, f: 'Why is assembly language used for device drivers and embedded systems?', b: 'It gives direct control of the hardware and memory and can produce code that is fast and uses little memory.' },
-      { n: 7, f: 'How do a compiler and an interpreter report errors?', b: 'A compiler translates the whole program first and gives a report listing all the errors. An interpreter stops at the first error it meets and continues only once it is corrected.' },
-      { n: 8, f: 'Which translator would you choose to distribute a finished game, and why?', b: 'A compiler: it produces an executable file that runs without the translator, runs faster, and does not give customers the source code.' },
-      { n: 9, f: 'What do auto-completion, auto-correction and prettyprint do in an IDE?', b: 'Auto-completion suggests how to finish a keyword or identifier being typed. Auto-correction fixes misspelt keywords. Prettyprint shows keywords and identifiers in different colours and layout so code is easier to read.' },
-      { n: 10, f: 'How do hardware, firmware and the operating system work together to run an application?', b: 'The bootloader (firmware) is run on the hardware at start-up; it loads the operating system, which runs on the firmware; applications are then run on the operating system.' },
-      { n: 11, f: 'Give the syllabus examples of hardware and software interrupts', b: 'Hardware: pressing a key on the keyboard, moving the mouse. Software: division by zero, two processes trying to access the same memory location.' },
+      { n: 4, f: 'How do hardware, firmware and the operating system work together to run an application?', b: 'The bootloader (firmware) is run on the hardware at start-up; it loads the operating system, which runs on the firmware; applications are then run on the operating system.' },
+      { n: 5, f: 'Give the syllabus examples of hardware and software interrupts', b: 'Hardware: pressing a key on the keyboard, moving the mouse. Software: division by zero, two processes trying to access the same memory location.' },
+    ]),
+    ...sub('software-2210', 'types-of-programming-language-translators-and-integrated-development-environments-ides-2210', '4.2', [
+      { n: 1, f: 'Give three reasons for writing in a high-level language', b: 'It is machine independent (portable); it is easier to read and debug; the programmer is less likely to make errors; one statement does the work of many machine-code instructions.' },
+      { n: 2, f: 'Why is assembly language used for device drivers and embedded systems?', b: 'It gives direct control of the hardware and memory and can produce code that is fast and uses little memory.' },
+      { n: 3, f: 'How do a compiler and an interpreter report errors?', b: 'A compiler translates the whole program first and gives a report listing all the errors. An interpreter stops at the first error it meets and continues only once it is corrected.' },
+      { n: 4, f: 'Which translator would you choose to distribute a finished game, and why?', b: 'A compiler: it produces an executable file that runs without the translator, runs faster, and does not give customers the source code.' },
+      { n: 5, f: 'What do auto-completion, auto-correction and prettyprint do in an IDE?', b: 'Auto-completion suggests how to finish a keyword or identifier being typed. Auto-correction fixes misspelt keywords. Prettyprint shows keywords and identifiers in different colours and layout so code is easier to read.' },
     ]),
 
     // 5 The internet and its uses
-    ...topicOnly('the-internet-and-its-uses-2210', 5, [
+    ...sub('the-internet-and-its-uses-2210', 'the-internet-and-the-world-wide-web-2210', '5.1', [
       { n: 1, f: 'Is the World Wide Web the same as the internet?', b: 'No. The internet is the global infrastructure of connected networks. The World Wide Web is a collection of web pages and resources accessed using the internet.' },
       { n: 2, f: 'Name the three parts of https://www.example.org/tickets/prices.html', b: 'https is the protocol; www.example.org is the domain name; /tickets/prices.html is the path and file name of the web page.' },
       { n: 3, f: 'Give three functions of a web browser', b: 'Any three of: requests web pages and renders the HTML; stores bookmarks; records history; opens multiple tabs; stores cookies; provides navigation tools such as back and forward buttons and an address bar.' },
       { n: 4, f: 'Describe how the DNS is used to find a website', b: 'The browser sends the domain name to a DNS server, which searches its records for the IP address, passing the request to another DNS server if needed. The IP address is returned, and the browser requests the page from that web server.' },
       { n: 5, f: 'How does a browser set up an HTTPS connection with a web server?', b: 'The browser asks the server to identify itself; the server sends its digital (SSL) certificate; the browser checks it is valid. If so, an encrypted connection is set up; if not, the user is warned.' },
       { n: 6, f: 'Give one use of a session cookie and one of a persistent cookie', b: 'Session cookie: keeping track of a shopping basket during one visit. Persistent cookie: remembering login details or preferences between visits.' },
-      { n: 7, f: 'Why is a blockchain hard to tamper with?', b: 'It is a decentralised ledger: every computer in the network holds a copy. Each block holds its own hash and the previous block\'s hash, so changing a block breaks the chain and does not match the other copies.' },
-      { n: 8, f: 'How does a user reach a fake website in phishing and in pharming?', b: 'Phishing: the user clicks a link in a legitimate-looking email or message. Pharming: malicious code on the computer or a DNS server redirects them, even when they type the correct URL.' },
-      { n: 9, f: 'What is social engineering?', b: 'Manipulating people into giving away confidential information or access, e.g. by pretending to be a technician. Staff training and clear procedures help prevent it.' },
-      { n: 10, f: 'Spyware vs ransomware', b: 'Spyware secretly records what the user does, such as key presses, and sends it to a third party. Ransomware encrypts or locks the user\'s data and demands payment to release it.' },
+    ]),
+    ...sub('the-internet-and-its-uses-2210', 'digital-currency-2210', '5.2', [
+      { n: 1, f: 'Why is a blockchain hard to tamper with?', b: 'It is a decentralised ledger: every computer in the network holds a copy. Each block holds its own hash and the previous block\'s hash, so changing a block breaks the chain and does not match the other copies.' },
+    ]),
+    ...sub('the-internet-and-its-uses-2210', 'cyber-security-2210', '5.3', [
+      { n: 1, f: 'How does a user reach a fake website in phishing and in pharming?', b: 'Phishing: the user clicks a link in a legitimate-looking email or message. Pharming: malicious code on the computer or a DNS server redirects them, even when they type the correct URL.' },
+      { n: 2, f: 'What is social engineering?', b: 'Manipulating people into giving away confidential information or access, e.g. by pretending to be a technician. Staff training and clear procedures help prevent it.' },
+      { n: 3, f: 'Spyware vs ransomware', b: 'Spyware secretly records what the user does, such as key presses, and sends it to a third party. Ransomware encrypts or locks the user\'s data and demands payment to release it.' },
     ]),
 
     // 6 Automated and emerging technologies
-    ...topicOnly('automated-and-emerging-technologies-2210', 6, [
+    ...sub('automated-and-emerging-technologies-2210', 'automated-systems-2210', '6.1', [
       { n: 1, f: 'Describe how a sensor-based automated heating system works', b: 'A temperature sensor continually takes readings; an ADC converts them to digital; the microprocessor compares them with stored values; if too cold it signals an actuator to switch the heater on. This repeats continuously.' },
       { n: 2, f: 'Sensor, microprocessor or actuator: which one decides what happens?', b: 'The microprocessor. A sensor only measures, and an actuator only carries out the physical action it is told to.' },
       { n: 3, f: 'Give three areas where automated systems are used', b: 'Any three of: industry (production lines), transport (automatic braking, traffic lights), agriculture (greenhouses, irrigation), weather monitoring, gaming, lighting, science.' },
-      { n: 4, f: 'Name the electrical components of a robot', b: 'Sensors, microprocessors and actuators (such as motors). Arms, wheels and legs belong to its mechanical structure, not its electrical components.' },
-      { n: 5, f: 'Give two characteristics that make a machine a robot', b: 'It has a mechanical structure or framework, and it is programmable. It also has electrical components such as sensors and actuators.' },
-      { n: 6, f: 'Give an advantage and a disadvantage of a remotely controlled robot, with reasons', b: 'Advantage: the operator need not be near the hazard, so they are kept safe. Disadvantage: the network connection could be lost or delayed, so the robot cannot be controlled and work stops.' },
-      { n: 7, f: 'What do the knowledge base and the rule base of an expert system hold?', b: 'The knowledge base is a database of facts about the subject, gathered from human experts. The rule base is a set of IF ... THEN rules used to draw conclusions from those facts.' },
-      { n: 8, f: 'What does the inference engine do in an expert system?', b: 'It compares the user\'s answers with the knowledge base, applies the rules in the rule base to reach a conclusion, and decides which question to ask next.' },
-      { n: 9, f: 'How does machine learning differ from a system given fixed rules?', b: 'A machine-learning system improves its performance by finding patterns in the data it is trained on, rather than following only rules written by a programmer. Poor or biased data gives poor decisions.' },
+    ]),
+    ...sub('automated-and-emerging-technologies-2210', 'robotics-2210', '6.2', [
+      { n: 1, f: 'Name the electrical components of a robot', b: 'Sensors, microprocessors and actuators (such as motors). Arms, wheels and legs belong to its mechanical structure, not its electrical components.' },
+      { n: 2, f: 'Give two characteristics that make a machine a robot', b: 'It has a mechanical structure or framework, and it is programmable. It also has electrical components such as sensors and actuators.' },
+      { n: 3, f: 'Give an advantage and a disadvantage of a remotely controlled robot, with reasons', b: 'Advantage: the operator need not be near the hazard, so they are kept safe. Disadvantage: the network connection could be lost or delayed, so the robot cannot be controlled and work stops.' },
+    ]),
+    ...sub('automated-and-emerging-technologies-2210', 'artificial-intelligence-2210', '6.3', [
+      { n: 1, f: 'What do the knowledge base and the rule base of an expert system hold?', b: 'The knowledge base is a database of facts about the subject, gathered from human experts. The rule base is a set of IF ... THEN rules used to draw conclusions from those facts.' },
+      { n: 2, f: 'What does the inference engine do in an expert system?', b: 'It compares the user\'s answers with the knowledge base, applies the rules in the rule base to reach a conclusion, and decides which question to ask next.' },
+      { n: 3, f: 'How does machine learning differ from a system given fixed rules?', b: 'A machine-learning system improves its performance by finding patterns in the data it is trained on, rather than following only rules written by a programmer. Poor or biased data gives poor decisions.' },
     ]),
 
     // 7 Algorithm design and problem-solving
@@ -186,7 +230,7 @@ export const DECK_CAMBRIDGE_O_LEVEL_COMPUTER_SCIENCE: FlashcardDeck = {
     ]),
 
     // 8 Programming
-    ...topicOnly('programming-2210', 8, [
+    ...sub('programming-2210', 'programming-concepts-2210', '8.1', [
       { n: 1, f: 'Which data type should store a postcode, a price and a yes/no answer?', b: 'Postcode: STRING (letters and digits, not used in calculations). Price: REAL. Yes/no answer: BOOLEAN.' },
       { n: 2, f: 'How do you declare a variable and assign a value in Cambridge pseudocode?', b: 'DECLARE Total : INTEGER declares it; Total ← 0 assigns a value using the arrow. The = sign is used only for comparison.' },
       { n: 3, f: 'What are DIV(47, 6) and MOD(47, 6)?', b: 'DIV(47, 6) = 7, the whole-number part of the division. MOD(47, 6) = 5, the remainder, because 47 = 6 × 7 + 5.' },
@@ -195,9 +239,13 @@ export const DECK_CAMBRIDGE_O_LEVEL_COMPUTER_SCIENCE: FlashcardDeck = {
       { n: 6, f: 'How are a function and a procedure called differently?', b: 'A function returns a value, so it is used in an expression, e.g. OUTPUT Perimeter(4.5, 3.0). A procedure does not return a value and is run with CALL.' },
       { n: 7, f: 'Which loop always runs at least once?', b: 'The post-condition loop, REPEAT ... UNTIL, because the condition is tested after each iteration. A WHILE loop tests first and may not run at all.' },
       { n: 8, f: 'What is a CASE OF statement used for?', b: 'Selection between several values of one variable, each with its own action, ending with an optional OTHERWISE and ENDCASE. It is neater than many nested IF statements.' },
-      { n: 9, f: 'What is a one-dimensional array?', b: 'A data structure holding several items of the same data type under one identifier, each reached by an index, e.g. DECLARE Scores : ARRAY[1:25] OF INTEGER.' },
-      { n: 10, f: 'Why must a program close a file after using it?', b: 'To make sure all data is written to the file and to free it for other use.' },
-      { n: 11, f: 'What is a library routine? Give two examples', b: 'A ready-written, tested routine supplied with the language, so you do not write it yourself. Examples: ROUND, RANDOM, MOD, DIV.' },
+      { n: 9, f: 'What is a library routine? Give two examples', b: 'A ready-written, tested routine supplied with the language, so you do not write it yourself. Examples: ROUND, RANDOM, MOD, DIV.' },
+    ]),
+    ...sub('programming-2210', 'arrays-2210', '8.2', [
+      { n: 1, f: 'What is a one-dimensional array?', b: 'A data structure holding several items of the same data type under one identifier, each reached by an index, e.g. DECLARE Scores : ARRAY[1:25] OF INTEGER.' },
+    ]),
+    ...sub('programming-2210', 'file-handling-2210', '8.3', [
+      { n: 1, f: 'Why must a program close a file after using it?', b: 'To make sure all data is written to the file and to free it for other use.' },
     ]),
 
     // 9 Databases

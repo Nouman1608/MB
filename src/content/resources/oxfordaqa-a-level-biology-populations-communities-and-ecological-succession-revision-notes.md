@@ -14,6 +14,9 @@ order: 257
 syllabusTopics:
   - qualification: "a-level"
     topic: "populations-and-genes-oxfordaqa-alevel-biology"
+  - qualification: "a-level"
+    topic: "populations-and-genes-oxfordaqa-alevel-biology"
+    subtopic: "the-effect-of-biotic-and-abiotic-factors-on-populations-oxfordaqa-alevel-biology"
 description: "Condensed recall notes on niche, competition, predation, correlation, succession and required practical 9 for OxfordAQA International A-level Biology."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

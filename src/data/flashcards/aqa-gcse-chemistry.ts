@@ -1,10 +1,15 @@
 /**
  * D-444 -- flashcards for AQA GCSE Chemistry 8462 (for teaching from September 2016).
  *
- * One block per subtopic (topic 1 and 2) or per topic (topics 3-11, which the
- * syllabus record itemises without subtopics), in syllabus order. Card ids are
- * `<subtopic number>-<n>` or `<topic number>-<n>` and are permanent (browser
- * progress is keyed by them): add a new card with the next unused n, never renumber.
+ * One block per subtopic (topics 1 to 10, which the syllabus record itemises into
+ * subtopics) or per topic (topic 11, which it itemises without subtopics), in syllabus
+ * order. Card ids are `<subtopic number>-<n>` or `<topic number>-<n>` and are permanent
+ * (browser progress is keyed by them): add a new card with the next unused n, never
+ * renumber.
+ *
+ * 20 Nov 2026: the cards that sat on whole topics 3 to 10 were re-filed under those
+ * topics' subtopics, so they have new ids; `idMigration` below moves browser progress
+ * saved before that date onto the new ids.
  *
  *   u: true     Upper tier: Higher tier only content, following the (HT only) marks
  *               on Marlbridge's own 8462 revision notes. Foundation candidates can
@@ -56,8 +61,49 @@ export const DECK_AQA_GCSE_CHEMISTRY: FlashcardDeck = {
   syllabusSeries: 'For teaching from September 2016',
   tierScheme: 'foundation-higher',
   author: 'marlbridge-academic-team',
-  updated: '2026-11-05',
+  updated: '2026-11-20',
   deckReview: { reviewerSlug: 'nouman-ahmed', reviewedOn: '2026-11-05' },
+  // Re-filed under the new subtopics on 2026-11-20: old id -> new id for every card, so progress
+  // saved before then follows each card. Cards that were already on a subtopic keep their id.
+  idMigration: {
+    id: '8462-subtopics-2026-11-20',
+    before: '2026-11-20',
+    map: {
+      '4.1.1-1': '4.1.1-1', '4.1.1-2': '4.1.1-2', '4.1.1-3': '4.1.1-3', '4.1.1-4': '4.1.1-4', '4.1.1-5': '4.1.1-5',
+      '4.1.1-6': '4.1.1-6', '4.1.1-7': '4.1.1-7', '4.1.1-8': '4.1.1-8', '4.1.1-9': '4.1.1-9', '4.1.1-10': '4.1.1-10',
+      '4.1.1-11': '4.1.1-11', '4.1.1-12': '4.1.1-12', '4.1.2-1': '4.1.2-1', '4.1.2-2': '4.1.2-2', '4.1.2-3': '4.1.2-3',
+      '4.1.2-4': '4.1.2-4', '4.1.2-5': '4.1.2-5', '4.1.2-6': '4.1.2-6', '4.1.2-7': '4.1.2-7', '4.1.2-8': '4.1.2-8',
+      '4.1.2-9': '4.1.2-9', '4.1.2-10': '4.1.2-10', '4.1.3-1': '4.1.3-1', '4.1.3-2': '4.1.3-2', '4.1.3-3': '4.1.3-3',
+      '4.1.3-4': '4.1.3-4', '4.1.3-5': '4.1.3-5', '4.1.3-6': '4.1.3-6', '4.1.3-7': '4.1.3-7', '4.2.1.1-1': '4.2.1.1-1',
+      '4.2.1.1-2': '4.2.1.1-2', '4.2.1.1-3': '4.2.1.1-3', '4.2.1.1-4': '4.2.1.1-4', '4.2.1.1-5': '4.2.1.1-5', '4.2.1.2-1': '4.2.1.2-1',
+      '4.2.1.2-2': '4.2.1.2-2', '4.2.1.2-3': '4.2.1.2-3', '4.2.1.2-4': '4.2.1.2-4', '4.2.1.2-5': '4.2.1.2-5', '4.2.1.2-6': '4.2.1.2-6',
+      '4.2.1.3-1': '4.2.1.3-1', '4.2.1.3-2': '4.2.1.3-2', '4.2.1.3-3': '4.2.1.3-3', '4.2.1.3-4': '4.2.1.3-4', '4.2.1.3-5': '4.2.1.3-5',
+      '4.2.1.3-6': '4.2.1.3-6', '4.2.1.4-1': '4.2.1.4-1', '4.2.1.4-2': '4.2.1.4-2', '4.2.1.4-3': '4.2.1.4-3', '4.2.1.4-4': '4.2.1.4-4',
+      '4.2.1.4-5': '4.2.1.4-5', '4.2.1.4-6': '4.2.1.4-6', '4.2.1.4-7': '4.2.1.4-7', '4.2.1.5-1': '4.2.1.5-1', '4.2.1.5-2': '4.2.1.5-2',
+      '4.2.1.5-3': '4.2.1.5-3', '4.2.1.5-4': '4.2.1.5-4', '4.2.1.5-5': '4.2.1.5-5', '3-1': '4.3.1-1', '3-2': '4.3.1-2',
+      '3-3': '4.3.1-3', '3-4': '4.3.1-4', '3-5': '4.3.1-5', '3-6': '4.3.2-1', '3-7': '4.3.2-2',
+      '3-8': '4.3.2-3', '3-9': '4.3.3-1', '3-10': '4.3.3-2', '3-11': '4.3.5-1', '3-12': '4.3.4-1',
+      '4-1': '4.4.1-1', '4-2': '4.4.1-2', '4-3': '4.4.1-3', '4-4': '4.4.1-4', '4-5': '4.4.1-5',
+      '4-6': '4.4.2-1', '4-7': '4.4.2-2', '4-8': '4.4.2-3', '4-9': '4.4.2-4', '4-10': '4.4.2-5',
+      '4-11': '4.4.3-1', '4-12': '4.4.3-2', '5-1': '4.5.1-1', '5-2': '4.5.1-2', '5-3': '4.5.1-3',
+      '5-4': '4.5.1-4', '5-5': '4.5.1-5', '5-6': '4.5.1-6', '5-7': '4.5.1-7', '5-8': '4.5.1-8',
+      '5-9': '4.5.2-1', '5-10': '4.5.2-2', '5-11': '4.5.2-3', '5-12': '4.5.2-4', '6-1': '4.6.1-1',
+      '6-2': '4.6.1-2', '6-3': '4.6.1-3', '6-4': '4.6.1-4', '6-5': '4.6.1-5', '6-6': '4.6.1-6',
+      '6-7': '4.6.1-7', '6-8': '4.6.2-1', '6-9': '4.6.2-2', '6-10': '4.6.2-3', '6-11': '4.6.2-4',
+      '6-12': '4.6.2-5', '7-1': '4.7.1-1', '7-2': '4.7.1-2', '7-3': '4.7.1-3', '7-4': '4.7.1-4',
+      '7-5': '4.7.1-5', '7-6': '4.7.1-6', '7-7': '4.7.1-7', '7-8': '4.7.2-1', '7-9': '4.7.2-2',
+      '7-10': '4.7.3-1', '7-11': '4.7.3-2', '7-12': '4.7.3-3', '8-1': '4.8.1-1', '8-2': '4.8.1-2',
+      '8-3': '4.8.1-3', '8-4': '4.8.1-4', '8-5': '4.8.2-1', '8-6': '4.8.2-2', '8-7': '4.8.3-1',
+      '8-8': '4.8.3-2', '8-9': '4.8.3-3', '8-10': '4.8.3-4', '8-11': '4.8.3-5', '8-12': '4.8.3-6',
+      '9-1': '4.9.1-1', '9-2': '4.9.1-2', '9-3': '4.9.1-3', '9-4': '4.9.1-4', '9-5': '4.9.1-5',
+      '9-6': '4.9.2-1', '9-7': '4.9.2-2', '9-8': '4.9.2-3', '9-9': '4.9.3-1', '9-10': '4.9.3-2',
+      '10-1': '4.10.1-1', '10-2': '4.10.1-2', '10-3': '4.10.1-3', '10-4': '4.10.1-4', '10-5': '4.10.1-5',
+      '10-6': '4.10.1-6', '10-7': '4.10.2-1', '10-8': '4.10.3-1', '10-9': '4.10.3-2', '10-10': '4.10.3-3',
+      '10-11': '4.10.4-1', '10-12': '4.10.4-2', '11-1': '11-1', '11-2': '11-2', '11-3': '11-3',
+      '11-4': '11-4', '11-5': '11-5', '11-6': '11-6', '11-7': '11-7', '11-8': '11-8',
+      '11-9': '11-9', '11-10': '11-10',
+    },
+  },
   cards: [
     // 1 Atomic structure and the periodic table
     ...sub(T1, 'atomic-structure-8462', '4.1.1', [
@@ -138,39 +184,51 @@ export const DECK_AQA_GCSE_CHEMISTRY: FlashcardDeck = {
     ]),
 
     // 3 Quantitative chemistry
-    ...topicOnly('quantitative-chemistry-8462', '3', [
+    ...sub('quantitative-chemistry-8462', 'chemical-measurements-conservation-of-mass-and-the-quantitative-interpretation-of-chemical-equations-8462', '4.3.1', [
       { n: 1, f: 'Law of conservation of mass', b: 'No atoms are lost or made in a chemical reaction, so the mass of the products equals the mass of the reactants.' },
       { n: 2, f: 'Calculate the Mr of Ca(OH)₂ (Ca = 40, O = 16, H = 1)', b: '40 + 2 × (16 + 1) = 74' },
       { n: 3, f: 'Percentage by mass of nitrogen in NH₄NO₃ (N = 14, H = 1, O = 16)', b: 'Mr = 14 + 4 + 14 + 48 = 80.\n% N = (2 × 14) ÷ 80 × 100 = 35%' },
       { n: 4, f: 'Why does mass increase when magnesium is heated in an open crucible, but decrease when calcium carbonate is heated?', b: 'Magnesium: oxygen atoms from the air join it in the solid oxide.\nCalcium carbonate: carbon dioxide gas escapes into the air.\nMass is still conserved in both.' },
       { n: 5, f: 'How is the uncertainty of a mean worked out?', b: '± half the range of the readings. Example: 31.2, 30.8, 31.6 cm³ → mean 31.2, range 0.8, result 31.2 ± 0.4 cm³.' },
-      { n: 6, f: 'Moles from mass, and the Avogadro constant', b: 'moles = mass (g) ÷ Mr. One mole of any substance contains 6.02 × 10²³ of the stated particles.', u: true },
-      { n: 7, f: 'Limiting reactant', b: 'The reactant that is used up completely. It fixes the amount of product; the other reactant is in excess. Compare moles against the equation ratio, not masses.', u: true },
-      { n: 8, f: '15 g of solute is dissolved to make 250 cm³ of solution. Concentration in g/dm³?', b: '15 ÷ 0.250 = 60 g/dm³ (divide cm³ by 1000 to get dm³).' },
-      { n: 9, f: 'Percentage yield: formula, and why it is less than 100%', b: 'mass of product actually made ÷ maximum theoretical mass × 100.\nLess because the reaction may be reversible, some product is lost when it is separated, or reactants react in unexpected ways.' },
-      { n: 10, f: 'Atom economy: formula, and the value for making CaO from CaCO₃ → CaO + CO₂', b: 'Mr of desired product ÷ sum of Mr of all reactants × 100.\nCaO: 56 ÷ 100 × 100 = 56%' },
-      { n: 11, f: 'Volume of one mole of gas at RTP. What volume does 3.2 g of O₂ occupy?', b: '24 dm³ at RTP (20 °C, 1 atmosphere).\n3.2 ÷ 32 = 0.10 mol → 0.10 × 24 = 2.4 dm³', u: true },
-      { n: 12, f: '0.050 mol of solute is dissolved in 250 cm³. Concentration in mol/dm³?', b: '0.050 ÷ 0.250 = 0.20 mol/dm³. Multiply by Mr to convert to g/dm³.', u: true },
+    ]),
+    ...sub('quantitative-chemistry-8462', 'use-of-amount-of-substance-in-relation-to-masses-of-pure-substances-8462', '4.3.2', [
+      { n: 1, f: 'Moles from mass, and the Avogadro constant', b: 'moles = mass (g) ÷ Mr. One mole of any substance contains 6.02 × 10²³ of the stated particles.', u: true },
+      { n: 2, f: 'Limiting reactant', b: 'The reactant that is used up completely. It fixes the amount of product; the other reactant is in excess. Compare moles against the equation ratio, not masses.', u: true },
+      { n: 3, f: '15 g of solute is dissolved to make 250 cm³ of solution. Concentration in g/dm³?', b: '15 ÷ 0.250 = 60 g/dm³ (divide cm³ by 1000 to get dm³).' },
+    ]),
+    ...sub('quantitative-chemistry-8462', 'yield-and-atom-economy-of-chemical-reactions-8462', '4.3.3', [
+      { n: 1, f: 'Percentage yield: formula, and why it is less than 100%', b: 'mass of product actually made ÷ maximum theoretical mass × 100.\nLess because the reaction may be reversible, some product is lost when it is separated, or reactants react in unexpected ways.' },
+      { n: 2, f: 'Atom economy: formula, and the value for making CaO from CaCO₃ → CaO + CO₂', b: 'Mr of desired product ÷ sum of Mr of all reactants × 100.\nCaO: 56 ÷ 100 × 100 = 56%' },
+    ]),
+    ...sub('quantitative-chemistry-8462', 'using-concentrations-of-solutions-in-mol-dm3-8462', '4.3.4', [
+      { n: 1, f: '0.050 mol of solute is dissolved in 250 cm³. Concentration in mol/dm³?', b: '0.050 ÷ 0.250 = 0.20 mol/dm³. Multiply by Mr to convert to g/dm³.', u: true },
+    ]),
+    ...sub('quantitative-chemistry-8462', 'use-of-amount-of-substance-in-relation-to-volumes-of-gases-8462', '4.3.5', [
+      { n: 1, f: 'Volume of one mole of gas at RTP. What volume does 3.2 g of O₂ occupy?', b: '24 dm³ at RTP (20 °C, 1 atmosphere).\n3.2 ÷ 32 = 0.10 mol → 0.10 × 24 = 2.4 dm³', u: true },
     ]),
 
     // 4 Chemical changes
-    ...topicOnly('chemical-changes-8462', '4', [
+    ...sub('chemical-changes-8462', 'reactivity-of-metals-8462', '4.4.1', [
       { n: 1, f: 'Oxidation and reduction in terms of oxygen', b: 'Oxidation: gain of oxygen.\nReduction: loss of oxygen.' },
       { n: 2, f: 'Oxidation and reduction in terms of electrons', b: 'Oxidation is loss of electrons; reduction is gain of electrons.', u: true },
       { n: 3, f: 'The reactivity series in the specification, most reactive first (with carbon and hydrogen)', b: 'Potassium, sodium, lithium, calcium, magnesium, [carbon], zinc, iron, [hydrogen], copper.' },
       { n: 4, f: 'How is a metal extracted if it is below carbon, and if it is above carbon?', b: 'Below carbon: reduce the oxide by heating with carbon (the oxide is reduced, carbon is oxidised).\nAbove carbon: electrolysis of the molten compound.' },
       { n: 5, f: 'Ionic equation for iron displacing copper from copper sulfate. Which species is oxidised?', b: 'Fe + Cu²⁺ → Fe²⁺ + Cu (SO₄²⁻ is a spectator ion). Iron loses electrons, so it is oxidised; copper ions are reduced.', u: true },
-      { n: 6, f: 'Products of acid + metal carbonate, and of acid + alkali', b: 'Acid + metal carbonate → salt + water + carbon dioxide.\nAcid + alkali → salt + water.' },
-      { n: 7, f: 'Required practical 1: making a soluble salt from an insoluble oxide or carbonate', b: 'Warm the acid, add the solid until some is left unreacted (excess), filter off the excess, evaporate some water from the filtrate, leave to crystallise, filter and dry. Excess makes sure all the acid reacts.' },
-      { n: 8, f: 'Ionic equation for neutralisation', b: 'H⁺(aq) + OH⁻(aq) → H₂O(l)' },
-      { n: 9, f: 'Strong acid vs weak acid, with examples', b: 'Strong: completely ionised in aqueous solution (hydrochloric, nitric, sulfuric).\nWeak: only partially ionised (ethanoic, citric, carbonic). Strength is not the same as concentration.', u: true },
-      { n: 10, f: 'A solution changes from pH 5 to pH 3. By what factor does [H⁺] change?', b: 'Each fall of 1 pH unit multiplies [H⁺] by 10, so two units → × 100.', u: true },
-      { n: 11, f: 'Electrolysis of an aqueous solution: rules for the products', b: 'Cathode: hydrogen if the metal is more reactive than hydrogen, otherwise the metal.\nAnode: the halogen if a halide ion is present, otherwise oxygen.' },
-      { n: 12, f: 'Extracting aluminium: why cryolite, and why the anodes are replaced', b: 'Aluminium oxide is dissolved in molten cryolite to lower the melting temperature, so less energy is needed. Oxygen made at the carbon anode reacts with it to form carbon dioxide, so the anode wears away.' },
+    ]),
+    ...sub('chemical-changes-8462', 'reactions-of-acids-8462', '4.4.2', [
+      { n: 1, f: 'Products of acid + metal carbonate, and of acid + alkali', b: 'Acid + metal carbonate → salt + water + carbon dioxide.\nAcid + alkali → salt + water.' },
+      { n: 2, f: 'Required practical 1: making a soluble salt from an insoluble oxide or carbonate', b: 'Warm the acid, add the solid until some is left unreacted (excess), filter off the excess, evaporate some water from the filtrate, leave to crystallise, filter and dry. Excess makes sure all the acid reacts.' },
+      { n: 3, f: 'Ionic equation for neutralisation', b: 'H⁺(aq) + OH⁻(aq) → H₂O(l)' },
+      { n: 4, f: 'Strong acid vs weak acid, with examples', b: 'Strong: completely ionised in aqueous solution (hydrochloric, nitric, sulfuric).\nWeak: only partially ionised (ethanoic, citric, carbonic). Strength is not the same as concentration.', u: true },
+      { n: 5, f: 'A solution changes from pH 5 to pH 3. By what factor does [H⁺] change?', b: 'Each fall of 1 pH unit multiplies [H⁺] by 10, so two units → × 100.', u: true },
+    ]),
+    ...sub('chemical-changes-8462', 'electrolysis-8462', '4.4.3', [
+      { n: 1, f: 'Electrolysis of an aqueous solution: rules for the products', b: 'Cathode: hydrogen if the metal is more reactive than hydrogen, otherwise the metal.\nAnode: the halogen if a halide ion is present, otherwise oxygen.' },
+      { n: 2, f: 'Extracting aluminium: why cryolite, and why the anodes are replaced', b: 'Aluminium oxide is dissolved in molten cryolite to lower the melting temperature, so less energy is needed. Oxygen made at the carbon anode reacts with it to form carbon dioxide, so the anode wears away.' },
     ]),
 
     // 5 Energy changes
-    ...topicOnly('energy-changes-8462', '5', [
+    ...sub('energy-changes-8462', 'exothermic-and-endothermic-reactions-8462', '4.5.1', [
       { n: 1, f: 'Exothermic vs endothermic reaction', b: 'Exothermic: transfers energy to the surroundings, so the temperature of the surroundings increases.\nEndothermic: takes in energy from the surroundings, so their temperature decreases.' },
       { n: 2, f: 'Examples and uses of exothermic reactions', b: 'Examples: combustion, many oxidation reactions, neutralisation.\nUses: self-heating cans, hand warmers.' },
       { n: 3, f: 'Examples and a use of endothermic reactions', b: 'Examples: thermal decompositions; citric acid + sodium hydrogencarbonate.\nUse: some sports injury packs.' },
@@ -179,14 +237,16 @@ export const DECK_AQA_GCSE_CHEMISTRY: FlashcardDeck = {
       { n: 6, f: 'Reactants 80 kJ, peak 250 kJ, products 150 kJ. Activation energy and overall change?', b: 'Activation energy = 250 − 80 = 170 kJ.\nOverall change = 150 − 80 = +70 kJ, so endothermic.' },
       { n: 7, f: 'Bond breaking and bond making: which takes in energy?', b: 'Breaking bonds takes in energy (endothermic). Forming bonds releases energy (exothermic). Overall exothermic when more energy is released forming bonds than is needed to break them.', u: true },
       { n: 8, f: 'N₂ + 3H₂ → 2NH₃. N≡N 945, H–H 436, N–H 391 kJ/mol. Energy change?', b: 'Broken: 945 + 3 × 436 = 2253.\nFormed: 2 × 3 × 391 = 2346.\nChange = 2253 − 2346 = −93 kJ/mol (exothermic).', u: true },
-      { n: 9, f: 'Simple chemical cell: what is it, and what affects the voltage?', b: 'Two different metals in contact with an electrolyte. The voltage depends on the electrodes and the electrolyte; the bigger the difference in reactivity of the metals, the bigger the voltage.' },
-      { n: 10, f: 'Battery; non-rechargeable vs rechargeable', b: 'A battery is two or more cells in series (voltages add).\nNon-rechargeable: reactions stop when a reactant is used up.\nRechargeable: reactions are reversed by an external electrical current.' },
-      { n: 11, f: 'Hydrogen fuel cell: overall reaction, one advantage and one disadvantage', b: '2H₂ + O₂ → 2H₂O.\nFor: the only product is water; no recharging.\nAgainst: hydrogen is hard to store and flammable; making it often uses fossil fuels.' },
-      { n: 12, f: 'Half equations in a hydrogen fuel cell (acidic electrolyte)', b: 'Negative electrode: 2H₂ → 4H⁺ + 4e⁻ (oxidation).\nPositive electrode: O₂ + 4H⁺ + 4e⁻ → 2H₂O (reduction).', u: true },
+    ]),
+    ...sub('energy-changes-8462', 'chemical-cells-and-fuel-cells-8462', '4.5.2', [
+      { n: 1, f: 'Simple chemical cell: what is it, and what affects the voltage?', b: 'Two different metals in contact with an electrolyte. The voltage depends on the electrodes and the electrolyte; the bigger the difference in reactivity of the metals, the bigger the voltage.' },
+      { n: 2, f: 'Battery; non-rechargeable vs rechargeable', b: 'A battery is two or more cells in series (voltages add).\nNon-rechargeable: reactions stop when a reactant is used up.\nRechargeable: reactions are reversed by an external electrical current.' },
+      { n: 3, f: 'Hydrogen fuel cell: overall reaction, one advantage and one disadvantage', b: '2H₂ + O₂ → 2H₂O.\nFor: the only product is water; no recharging.\nAgainst: hydrogen is hard to store and flammable; making it often uses fossil fuels.' },
+      { n: 4, f: 'Half equations in a hydrogen fuel cell (acidic electrolyte)', b: 'Negative electrode: 2H₂ → 4H⁺ + 4e⁻ (oxidation).\nPositive electrode: O₂ + 4H⁺ + 4e⁻ → 2H₂O (reduction).', u: true },
     ]),
 
     // 6 The rate and extent of chemical change
-    ...topicOnly('the-rate-and-extent-of-chemical-change-8462', '6', [
+    ...sub('the-rate-and-extent-of-chemical-change-8462', 'rate-of-reaction-8462', '4.6.1', [
       { n: 1, f: 'Mean rate of reaction: formula and units', b: 'Quantity of reactant used (or product formed) ÷ time taken. Units g/s or cm³/s. Example: 84 cm³ in 60 s → 1.4 cm³/s.' },
       { n: 2, f: '0.44 g of CO₂ (Mr 44) forms in 50 s. Mean rate in mol/s?', b: '0.44 ÷ 44 = 0.010 mol; 0.010 ÷ 50 = 2.0 × 10⁻⁴ mol/s', u: true },
       { n: 3, f: 'How do you find the rate at one moment from a graph?', b: 'Draw a tangent to the curve at that time and find its gradient: (y₂ − y₁) ÷ (x₂ − x₁), using two points far apart on the tangent.', u: true },
@@ -194,15 +254,17 @@ export const DECK_AQA_GCSE_CHEMISTRY: FlashcardDeck = {
       { n: 5, f: 'Use collision theory to explain why a higher temperature increases the rate', b: 'Particles move faster, so collisions are more frequent and more energetic: more collisions have at least the activation energy, so more are successful.' },
       { n: 6, f: 'How does a catalyst increase the rate?', b: 'It provides a different reaction pathway with a lower activation energy. It is not used up and is not written in the equation.' },
       { n: 7, f: 'Required practical 5: the disappearing cross method', b: 'Put a flask of sodium thiosulfate solution on a paper cross, add hydrochloric acid and start the timer; stop it when the cross disappears. Relative rate = 1 ÷ time. Repeat for other concentrations.' },
-      { n: 8, f: 'Reversible reactions and energy', b: 'The products can react to produce the original reactants (⇌). If one direction is exothermic, the other is endothermic, and the same amount of energy is transferred.' },
-      { n: 9, f: 'Equilibrium', b: 'In a closed system, when the forward and reverse reactions occur at exactly the same rate. The reactions do not stop.' },
-      { n: 10, f: "Le Chatelier's Principle", b: 'If a condition is changed at equilibrium, the system responds to counteract the change.', u: true },
-      { n: 11, f: 'Effect of raising the temperature on an equilibrium', b: 'The equilibrium shifts in the endothermic direction. If the forward reaction is exothermic, the relative amount of products decreases.', u: true },
-      { n: 12, f: '2NO₂(g) ⇌ N₂O₄(g). Effect of increasing the pressure?', b: 'Shifts to the side with fewer gas molecules: to the right, towards N₂O₄ (1 molecule instead of 2).', u: true },
+    ]),
+    ...sub('the-rate-and-extent-of-chemical-change-8462', 'reversible-reactions-and-dynamic-equilibrium-8462', '4.6.2', [
+      { n: 1, f: 'Reversible reactions and energy', b: 'The products can react to produce the original reactants (⇌). If one direction is exothermic, the other is endothermic, and the same amount of energy is transferred.' },
+      { n: 2, f: 'Equilibrium', b: 'In a closed system, when the forward and reverse reactions occur at exactly the same rate. The reactions do not stop.' },
+      { n: 3, f: "Le Chatelier's Principle", b: 'If a condition is changed at equilibrium, the system responds to counteract the change.', u: true },
+      { n: 4, f: 'Effect of raising the temperature on an equilibrium', b: 'The equilibrium shifts in the endothermic direction. If the forward reaction is exothermic, the relative amount of products decreases.', u: true },
+      { n: 5, f: '2NO₂(g) ⇌ N₂O₄(g). Effect of increasing the pressure?', b: 'Shifts to the side with fewer gas molecules: to the right, towards N₂O₄ (1 molecule instead of 2).', u: true },
     ]),
 
     // 7 Organic chemistry
-    ...topicOnly('organic-chemistry-8462', '7', [
+    ...sub('organic-chemistry-8462', 'carbon-compounds-as-fuels-and-feedstock-8462', '4.7.1', [
       { n: 1, f: 'Hydrocarbon', b: 'A compound of hydrogen and carbon only.', src: ORG },
       { n: 2, f: 'Homologous series', b: 'A family of compounds with the same general formula and the same functional group.', src: ORG },
       { n: 3, f: 'Alkanes: general formula and the first four', b: 'CₙH₂ₙ₊₂ (saturated, only single C–C bonds). Methane, ethane, propane, butane.' },
@@ -210,57 +272,75 @@ export const DECK_AQA_GCSE_CHEMISTRY: FlashcardDeck = {
       { n: 5, f: 'How do boiling point, viscosity and flammability change as hydrocarbon molecules get larger?', b: 'Boiling point increases, viscosity increases, flammability decreases.' },
       { n: 6, f: 'Cracking: what it is, and the two methods', b: 'Breaking large hydrocarbons into smaller, more useful molecules (smaller alkanes + alkenes).\nCatalytic: vapour over a hot catalyst. Steam: vapour mixed with steam at a very high temperature.' },
       { n: 7, f: 'Test for an alkene', b: 'Shake with bromine water: orange → colourless. An alkane leaves it orange.' },
-      { n: 8, f: 'What forms when an alcohol reacts with sodium, and with an oxidising agent?', b: 'Sodium: fizzing, hydrogen given off.\nOxidising agent: a carboxylic acid (propanol → propanoic acid).' },
-      { n: 9, f: 'Ethanoic acid + ethanol (acid catalyst) gives…', b: 'The ester ethyl ethanoate, and water.' },
-      { n: 10, f: 'Addition polymerisation', b: 'Many alkene monomers join as the C=C opens to C–C. Nothing else forms, so the repeating unit has the same atoms as the monomer. Example: ethene → poly(ethene).' },
-      { n: 11, f: 'Condensation polymerisation', b: 'Monomers each with two functional groups join, losing a small molecule (usually water) at each link. Example: ethanediol + hexanedioic acid → a polyester + water.', u: true },
-      { n: 12, f: 'Amino acids and proteins', b: 'An amino acid has two different functional groups (–NH₂ and –COOH), such as glycine, H₂NCH₂COOH. Amino acids join by condensation polymerisation to make polypeptides; different amino acids make proteins.', u: true },
+    ]),
+    ...sub('organic-chemistry-8462', 'reactions-of-alkenes-and-alcohols-8462', '4.7.2', [
+      { n: 1, f: 'What forms when an alcohol reacts with sodium, and with an oxidising agent?', b: 'Sodium: fizzing, hydrogen given off.\nOxidising agent: a carboxylic acid (propanol → propanoic acid).' },
+      { n: 2, f: 'Ethanoic acid + ethanol (acid catalyst) gives…', b: 'The ester ethyl ethanoate, and water.' },
+    ]),
+    ...sub('organic-chemistry-8462', 'synthetic-and-naturally-occurring-polymers-8462', '4.7.3', [
+      { n: 1, f: 'Addition polymerisation', b: 'Many alkene monomers join as the C=C opens to C–C. Nothing else forms, so the repeating unit has the same atoms as the monomer. Example: ethene → poly(ethene).' },
+      { n: 2, f: 'Condensation polymerisation', b: 'Monomers each with two functional groups join, losing a small molecule (usually water) at each link. Example: ethanediol + hexanedioic acid → a polyester + water.', u: true },
+      { n: 3, f: 'Amino acids and proteins', b: 'An amino acid has two different functional groups (–NH₂ and –COOH), such as glycine, H₂NCH₂COOH. Amino acids join by condensation polymerisation to make polypeptides; different amino acids make proteins.', u: true },
     ]),
 
     // 8 Chemical analysis
-    ...topicOnly('chemical-analysis-8462', '8', [
+    ...sub('chemical-analysis-8462', 'purity-formulations-and-chromatography-8462', '4.8.1', [
       { n: 1, f: 'Pure substance (in chemistry), and how melting point shows purity', b: 'A single element or compound, not mixed with any other substance. A pure substance melts sharply at its known value; an impure one melts lower and over a range.' },
       { n: 2, f: 'Formulation', b: 'A mixture designed as a useful product, with components in carefully measured quantities, each with a particular purpose.', src: ANAL },
       { n: 3, f: 'Rf value, and a worked example: solvent 6.0 cm, spot 4.2 cm', b: 'Rf = distance moved by substance ÷ distance moved by solvent, both from the origin line.\n4.2 ÷ 6.0 = 0.70. No units; always less than 1.' },
       { n: 4, f: 'Chromatography (RP 6): why a pencil origin line, and where the solvent level goes', b: 'Pencil does not dissolve and run (ink would). The solvent level is below the origin line, so the spots do not dissolve into the solvent.' },
-      { n: 5, f: 'Tests for hydrogen and oxygen', b: 'Hydrogen: burning splint at the mouth of the tube → squeaky pop.\nOxygen: glowing splint relights.' },
-      { n: 6, f: 'Tests for carbon dioxide and chlorine', b: 'Carbon dioxide: limewater turns milky.\nChlorine: damp litmus paper is bleached white.' },
-      { n: 7, f: 'Flame test colours: Li⁺, Na⁺, K⁺, Ca²⁺, Cu²⁺', b: 'Li⁺ crimson, Na⁺ yellow, K⁺ lilac, Ca²⁺ orange-red, Cu²⁺ green.' },
-      { n: 8, f: 'Sodium hydroxide precipitates: Al³⁺, Ca²⁺, Mg²⁺, Cu²⁺, Fe²⁺, Fe³⁺', b: 'Al³⁺, Ca²⁺, Mg²⁺: white (only the aluminium one dissolves in excess).\nCu²⁺: blue. Fe²⁺: green. Fe³⁺: brown.' },
-      { n: 9, f: 'Test for halide ions, and the results', b: 'Add dilute nitric acid, then silver nitrate solution.\nCl⁻ white, Br⁻ cream, I⁻ yellow precipitate.' },
-      { n: 10, f: 'Tests for sulfate and carbonate ions', b: 'Sulfate: dilute hydrochloric acid, then barium chloride solution → white precipitate.\nCarbonate: dilute acid → fizzing; the gas turns limewater milky.' },
-      { n: 11, f: 'Why is nitric acid, not hydrochloric acid, used to acidify in the halide test?', b: 'Acid removes carbonate ions, which would also give a precipitate. Hydrochloric acid would add chloride ions and give a false positive for chloride.' },
-      { n: 12, f: 'Flame emission spectroscopy', b: 'The sample is put in a flame and the light is passed through a spectroscope to give a line spectrum. Lines identify the metal ions (even in mixtures); intensity gives the concentration.', src: ANAL },
+    ]),
+    ...sub('chemical-analysis-8462', 'identification-of-common-gases-8462', '4.8.2', [
+      { n: 1, f: 'Tests for hydrogen and oxygen', b: 'Hydrogen: burning splint at the mouth of the tube → squeaky pop.\nOxygen: glowing splint relights.' },
+      { n: 2, f: 'Tests for carbon dioxide and chlorine', b: 'Carbon dioxide: limewater turns milky.\nChlorine: damp litmus paper is bleached white.' },
+    ]),
+    ...sub('chemical-analysis-8462', 'identification-of-ions-by-chemical-and-spectroscopic-means-8462', '4.8.3', [
+      { n: 1, f: 'Flame test colours: Li⁺, Na⁺, K⁺, Ca²⁺, Cu²⁺', b: 'Li⁺ crimson, Na⁺ yellow, K⁺ lilac, Ca²⁺ orange-red, Cu²⁺ green.' },
+      { n: 2, f: 'Sodium hydroxide precipitates: Al³⁺, Ca²⁺, Mg²⁺, Cu²⁺, Fe²⁺, Fe³⁺', b: 'Al³⁺, Ca²⁺, Mg²⁺: white (only the aluminium one dissolves in excess).\nCu²⁺: blue. Fe²⁺: green. Fe³⁺: brown.' },
+      { n: 3, f: 'Test for halide ions, and the results', b: 'Add dilute nitric acid, then silver nitrate solution.\nCl⁻ white, Br⁻ cream, I⁻ yellow precipitate.' },
+      { n: 4, f: 'Tests for sulfate and carbonate ions', b: 'Sulfate: dilute hydrochloric acid, then barium chloride solution → white precipitate.\nCarbonate: dilute acid → fizzing; the gas turns limewater milky.' },
+      { n: 5, f: 'Why is nitric acid, not hydrochloric acid, used to acidify in the halide test?', b: 'Acid removes carbonate ions, which would also give a precipitate. Hydrochloric acid would add chloride ions and give a false positive for chloride.' },
+      { n: 6, f: 'Flame emission spectroscopy', b: 'The sample is put in a flame and the light is passed through a spectroscope to give a line spectrum. Lines identify the metal ions (even in mixtures); intensity gives the concentration.', src: ANAL },
     ]),
 
     // 9 Chemistry of the atmosphere
-    ...topicOnly('chemistry-of-the-atmosphere-8462', '9', [
+    ...sub('chemistry-of-the-atmosphere-8462', 'the-composition-and-evolution-of-the-earths-atmosphere-8462', '4.9.1', [
       { n: 1, f: "Composition of today's atmosphere", b: 'About 80% (four-fifths) nitrogen and about 20% (one-fifth) oxygen, with small amounts of carbon dioxide, water vapour and noble gases.' },
       { n: 2, f: "Earth's early atmosphere: where it came from and what it contained", b: 'Intense volcanic activity released mainly carbon dioxide and water vapour, with nitrogen; there was little or no oxygen. Water vapour condensed to form the oceans.' },
       { n: 3, f: 'How did oxygen build up in the atmosphere?', b: 'Algae began photosynthesis about 2.7 billion years ago; then plants evolved, and oxygen rose over the next billion years until animals could evolve.\n6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂' },
       { n: 4, f: 'How did the amount of carbon dioxide decrease?', b: 'It dissolved in the oceans (carbonates precipitated), was used in photosynthesis, and was locked up in sedimentary rocks and fossil fuels.' },
       { n: 5, f: 'How was limestone formed?', b: 'From the calcium carbonate shells and skeletons of sea creatures, compressed on the sea bed.', src: ATMOS },
-      { n: 6, f: 'The greenhouse effect: name three greenhouse gases and describe how they warm the atmosphere', b: 'Water vapour, carbon dioxide, methane. The surface absorbs short wavelength radiation from the Sun and emits long wavelength (infrared) radiation; greenhouse gases absorb it and re-emit some back, so less energy escapes.' },
-      { n: 7, f: 'Two human activities that increase carbon dioxide, and two that increase methane', b: 'Carbon dioxide: burning fossil fuels, deforestation.\nMethane: cattle farming, rice paddy fields (also landfill waste decay).' },
-      { n: 8, f: 'Carbon footprint', b: 'The total amount of carbon dioxide and other greenhouse gases emitted over the full life cycle of a product, service or event.' },
-      { n: 9, f: 'Effects of carbon monoxide, sulfur dioxide, oxides of nitrogen and particulates', b: 'CO: toxic; colourless and odourless, so hard to detect.\nSO₂ and oxides of nitrogen: respiratory problems and acid rain.\nParticulates: global dimming and health problems.' },
-      { n: 10, f: 'Where does the nitrogen in oxides of nitrogen from a car engine come from?', b: 'From the air: nitrogen and oxygen react at the high temperature in the engine, not nitrogen in the fuel.' },
+    ]),
+    ...sub('chemistry-of-the-atmosphere-8462', 'carbon-dioxide-and-methane-as-greenhouse-gases-8462', '4.9.2', [
+      { n: 1, f: 'The greenhouse effect: name three greenhouse gases and describe how they warm the atmosphere', b: 'Water vapour, carbon dioxide, methane. The surface absorbs short wavelength radiation from the Sun and emits long wavelength (infrared) radiation; greenhouse gases absorb it and re-emit some back, so less energy escapes.' },
+      { n: 2, f: 'Two human activities that increase carbon dioxide, and two that increase methane', b: 'Carbon dioxide: burning fossil fuels, deforestation.\nMethane: cattle farming, rice paddy fields (also landfill waste decay).' },
+      { n: 3, f: 'Carbon footprint', b: 'The total amount of carbon dioxide and other greenhouse gases emitted over the full life cycle of a product, service or event.' },
+    ]),
+    ...sub('chemistry-of-the-atmosphere-8462', 'common-atmospheric-pollutants-and-their-sources-8462', '4.9.3', [
+      { n: 1, f: 'Effects of carbon monoxide, sulfur dioxide, oxides of nitrogen and particulates', b: 'CO: toxic; colourless and odourless, so hard to detect.\nSO₂ and oxides of nitrogen: respiratory problems and acid rain.\nParticulates: global dimming and health problems.' },
+      { n: 2, f: 'Where does the nitrogen in oxides of nitrogen from a car engine come from?', b: 'From the air: nitrogen and oxygen react at the high temperature in the engine, not nitrogen in the fuel.' },
     ]),
 
     // 10 Using resources
-    ...topicOnly('using-resources-8462', '10', [
+    ...sub('using-resources-8462', 'using-the-earths-resources-and-obtaining-potable-water-8462', '4.10.1', [
       { n: 1, f: 'Sustainable development', b: 'Development that meets the needs of current generations without compromising the ability of future generations to meet their own needs.' },
       { n: 2, f: 'Potable water vs pure water', b: 'Potable: safe to drink, with low levels of dissolved salts and microbes.\nPure: only water molecules, no dissolved substances.' },
       { n: 3, f: 'How is potable water produced from fresh water in the UK?', b: 'Choose a suitable source (ground water, lakes, rivers), pass it through filter beds to remove solids, then sterilise with chlorine, ozone or ultraviolet light.' },
       { n: 4, f: 'Desalination: two methods and their drawback', b: 'Distillation or reverse osmosis. Both need large amounts of energy.' },
       { n: 5, f: 'Stages of sewage treatment, in order', b: 'Screening and grit removal → sedimentation (sludge and effluent) → anaerobic digestion of the sludge → aerobic biological treatment of the effluent.' },
       { n: 6, f: 'Phytomining and bioleaching', b: 'Phytomining: plants absorb metal compounds, are harvested and burned; the ash contains metal compounds.\nBioleaching: bacteria produce leachate solutions containing metal compounds.\nThe metal is then obtained by displacement with scrap iron or electrolysis.', u: true },
-      { n: 7, f: 'Stages of a life cycle assessment (LCA), and why it is not fully objective', b: 'Raw materials → manufacture and packaging → use → disposal (with transport throughout). Pollutant effects are hard to quantify and need value judgements.' },
-      { n: 8, f: 'What does rusting need, and how does galvanising protect iron?', b: 'Both air (oxygen) and water. Galvanising coats iron with zinc: a barrier, plus sacrificial protection, because zinc is more reactive and corrodes instead of the iron, even when scratched.' },
-      { n: 9, f: 'Percentage of gold in 18 carat gold', b: '% gold = carat ÷ 24 × 100 = 18 ÷ 24 × 100 = 75%. (24 carat is 100% gold.)' },
-      { n: 10, f: 'Thermosoftening vs thermosetting polymers', b: 'Thermosoftening: no cross-links, weak forces between chains, so they melt on heating.\nThermosetting: cross-links between chains, so they do not melt.' },
-      { n: 11, f: 'Haber process: equation, raw materials and conditions', b: 'N₂ + 3H₂ ⇌ 2NH₃. Nitrogen from the air, hydrogen from natural gas. Iron catalyst, about 450 °C, about 200 atmospheres. Ammonia is removed by cooling (it liquefies); unreacted gases are recycled.' },
-      { n: 12, f: 'Why are 450 °C and 200 atmospheres compromise conditions in the Haber process?', b: 'Forward reaction exothermic: a lower temperature gives a higher yield but a slower rate.\n4 gas molecules → 2: higher pressure gives a higher yield and faster rate, but costs more in equipment and energy.', u: true },
+    ]),
+    ...sub('using-resources-8462', 'life-cycle-assessment-and-recycling-8462', '4.10.2', [
+      { n: 1, f: 'Stages of a life cycle assessment (LCA), and why it is not fully objective', b: 'Raw materials → manufacture and packaging → use → disposal (with transport throughout). Pollutant effects are hard to quantify and need value judgements.' },
+    ]),
+    ...sub('using-resources-8462', 'using-materials-8462', '4.10.3', [
+      { n: 1, f: 'What does rusting need, and how does galvanising protect iron?', b: 'Both air (oxygen) and water. Galvanising coats iron with zinc: a barrier, plus sacrificial protection, because zinc is more reactive and corrodes instead of the iron, even when scratched.' },
+      { n: 2, f: 'Percentage of gold in 18 carat gold', b: '% gold = carat ÷ 24 × 100 = 18 ÷ 24 × 100 = 75%. (24 carat is 100% gold.)' },
+      { n: 3, f: 'Thermosoftening vs thermosetting polymers', b: 'Thermosoftening: no cross-links, weak forces between chains, so they melt on heating.\nThermosetting: cross-links between chains, so they do not melt.' },
+    ]),
+    ...sub('using-resources-8462', 'the-haber-process-and-the-use-of-npk-fertilisers-8462', '4.10.4', [
+      { n: 1, f: 'Haber process: equation, raw materials and conditions', b: 'N₂ + 3H₂ ⇌ 2NH₃. Nitrogen from the air, hydrogen from natural gas. Iron catalyst, about 450 °C, about 200 atmospheres. Ammonia is removed by cooling (it liquefies); unreacted gases are recycled.' },
+      { n: 2, f: 'Why are 450 °C and 200 atmospheres compromise conditions in the Haber process?', b: 'Forward reaction exothermic: a lower temperature gives a higher yield but a slower rate.\n4 gas molecules → 2: higher pressure gives a higher yield and faster rate, but costs more in equipment and energy.', u: true },
     ]),
 
     // 11 Key ideas

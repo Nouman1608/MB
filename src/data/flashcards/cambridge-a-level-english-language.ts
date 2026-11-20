@@ -5,9 +5,10 @@
  * what each paper and question requires, the analytical frameworks, text types
  * and their conventions, terminology with a one-line effect, and (Papers 3 and
  * 4) the named processes, stages and theories. Card ids are `<subtopic
- * number>-<n>` (or `<topic number>-<n>` for Paper 2, which itemises no
- * subtopics) and are permanent: add a new card with the next unused n, never
- * renumber.
+ * number>-<n>` for every paper and are permanent: add a new card with the next
+ * unused n, never renumber. On 20 Nov 2026 the Paper 2 cards were re-filed from
+ * the topic onto its two subtopics, and `idMigration` below moves saved
+ * progress onto the new ids.
  *
  *   src: '...'  The card restates that revision-notes page (found with
  *               scripts/flashcard-candidates.mjs 9093); origin 'revision-notes'.
@@ -30,16 +31,6 @@ const sub = (topic: string, subtopic: string, number: string, specs: Spec[]): Fl
     ...(src ? { source: src } : {}),
   }));
 
-const topicOnly = (topic: string, number: string, specs: Spec[]): Flashcard[] =>
-  specs.map(({ n, f, b, src }) => ({
-    id: `${number}-${n}`,
-    topic,
-    front: f,
-    back: b,
-    origin: src ? 'revision-notes' as const : 'authored' as const,
-    ...(src ? { source: src } : {}),
-  }));
-
 const P1 = 'paper-1-reading-9093';
 const P3 = 'paper-3-language-analysis-9093';
 const P4 = 'paper-4-language-topics-9093';
@@ -54,7 +45,23 @@ export const DECK_CAMBRIDGE_A_LEVEL_ENGLISH_LANGUAGE: FlashcardDeck = {
   syllabusCode: '9093',
   syllabusSeries: '2024-2026',
   author: 'marlbridge-academic-team',
-  updated: '2026-11-08',
+  updated: '2026-11-20',
+  idMigration: {
+    id: '9093-subtopics-2026-11-20',
+    before: '2026-11-20',
+    map: {
+      '1.1-1': '1.1-1', '1.1-2': '1.1-2', '1.1-3': '1.1-3', '1.1-4': '1.1-4', '1.1-5': '1.1-5',
+      '1.1-6': '1.1-6', '1.2-1': '1.2-1', '1.2-2': '1.2-2', '1.2-3': '1.2-3', '1.2-4': '1.2-4',
+      '1.2-5': '1.2-5', '1.2-6': '1.2-6', '1.2-7': '1.2-7', '1.2-8': '1.2-8', '2-1': '2.1-1',
+      '2-2': '2.2-1', '2-3': '2.2-2', '2-4': '2.2-3', '2-5': '2.2-4', '2-6': '2.1-2',
+      '2-7': '2.2-5', '2-8': '2.2-6', '2-9': '2.2-7', '2-10': '2.2-8', '3.1-1': '3.1-1',
+      '3.1-2': '3.1-2', '3.1-3': '3.1-3', '3.1-4': '3.1-4', '3.1-5': '3.1-5', '3.1-6': '3.1-6',
+      '3.1-7': '3.1-7', '3.2-1': '3.2-1', '3.2-2': '3.2-2', '3.2-3': '3.2-3', '3.2-4': '3.2-4',
+      '3.2-5': '3.2-5', '3.2-6': '3.2-6', '3.2-7': '3.2-7', '4.1-1': '4.1-1', '4.1-2': '4.1-2',
+      '4.1-3': '4.1-3', '4.1-4': '4.1-4', '4.1-5': '4.1-5', '4.2-1': '4.2-1', '4.2-2': '4.2-2',
+      '4.2-3': '4.2-3', '4.2-4': '4.2-4', '4.2-5': '4.2-5', '4.2-6': '4.2-6',
+    },
+  },
   cards: [
     // 1 Paper 1 Reading
     ...sub(P1, 'knowledge-and-understanding-9093', '1.1', [
@@ -77,17 +84,19 @@ export const DECK_CAMBRIDGE_A_LEVEL_ENGLISH_LANGUAGE: FlashcardDeck = {
     ]),
 
     // 2 Paper 2 Writing
-    ...topicOnly('paper-2-writing-9093', '2', [
+    ...sub('paper-2-writing-9093', 'paper-2-knowledge-and-understanding-9093', '2.1', [
       { n: 1, f: 'How is 9093 Paper 2 Writing set out?', b: '2 hours, 50 marks: 50% of the AS and 25% of the A Level. Section A (compulsory, 25 marks) and Section B (one from three, 25 marks).', src: W },
-      { n: 2, f: 'What does Paper 2 Section A part (a) require?', b: 'A shorter piece of at most 400 words, written to a specified form, audience and purpose (such as a leaflet, letter or speech). 15 marks.', src: W },
-      { n: 3, f: 'What does Paper 2 Section A part (b) require?', b: 'A reflective commentary explaining how your linguistic choices in part (a) fulfil the brief. 10 marks; the syllabus sets no word limit.', src: W },
-      { n: 4, f: 'How should each point in a reflective commentary be built?', b: 'Identify the choice, quote it from your own text, and explain its effect in relation to audience and purpose: the same pattern you use to analyse someone else\'s text.' },
-      { n: 5, f: 'What does Paper 2 Section B require?', b: 'One extended piece of 600–900 words, chosen from three questions.', src: W },
-      { n: 6, f: 'Which three categories does Paper 2 Section B always offer?', b: 'Imaginative/descriptive, discursive/argumentative, and review/critical. The categories are fixed; only the topic within each changes between series.' },
-      { n: 7, f: 'What makes a strong imaginative or descriptive piece?', b: 'Precise sensory detail, a controlled narrative voice, and a small number of developed images rather than many undeveloped ones.' },
-      { n: 8, f: 'What makes a strong discursive or argumentative piece?', b: 'It is genuinely balanced: it weighs more than one side before reaching a considered conclusion, rather than being one-sided in disguise.' },
-      { n: 9, f: 'What makes a strong review or critical piece?', b: 'A consistent evaluative voice supported by specific, concrete detail, not vague praise or criticism.' },
-      { n: 10, f: 'What is the most common mistake in the reflective commentary?', b: 'Writing it as a second essay about the topic instead of analysing the language choices made in your own piece.' },
+      { n: 2, f: 'Which three categories does Paper 2 Section B always offer?', b: 'Imaginative/descriptive, discursive/argumentative, and review/critical. The categories are fixed; only the topic within each changes between series.' },
+    ]),
+    ...sub('paper-2-writing-9093', 'paper-2-skills-and-techniques-9093', '2.2', [
+      { n: 1, f: 'What does Paper 2 Section A part (a) require?', b: 'A shorter piece of at most 400 words, written to a specified form, audience and purpose (such as a leaflet, letter or speech). 15 marks.', src: W },
+      { n: 2, f: 'What does Paper 2 Section A part (b) require?', b: 'A reflective commentary explaining how your linguistic choices in part (a) fulfil the brief. 10 marks; the syllabus sets no word limit.', src: W },
+      { n: 3, f: 'How should each point in a reflective commentary be built?', b: 'Identify the choice, quote it from your own text, and explain its effect in relation to audience and purpose: the same pattern you use to analyse someone else\'s text.' },
+      { n: 4, f: 'What does Paper 2 Section B require?', b: 'One extended piece of 600–900 words, chosen from three questions.', src: W },
+      { n: 5, f: 'What makes a strong imaginative or descriptive piece?', b: 'Precise sensory detail, a controlled narrative voice, and a small number of developed images rather than many undeveloped ones.' },
+      { n: 6, f: 'What makes a strong discursive or argumentative piece?', b: 'It is genuinely balanced: it weighs more than one side before reaching a considered conclusion, rather than being one-sided in disguise.' },
+      { n: 7, f: 'What makes a strong review or critical piece?', b: 'A consistent evaluative voice supported by specific, concrete detail, not vague praise or criticism.' },
+      { n: 8, f: 'What is the most common mistake in the reflective commentary?', b: 'Writing it as a second essay about the topic instead of analysing the language choices made in your own piece.' },
     ]),
 
     // 3 Paper 3 Language Analysis

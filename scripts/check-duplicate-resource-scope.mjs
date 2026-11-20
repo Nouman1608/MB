@@ -70,6 +70,30 @@ const RES_DIR = 'src/content/resources';
  */
 const REVIEWED_LEGITIMATE = [
   {
+    files: ["gcse-history-historic-environment-practice.md", "gcse-history-shaping-the-nation-practice.md"],
+    evidence: "Subtopic round (20 Nov 2026, D-510). Both pages carry the 8145 'Shaping the nation' topic, which the record now itemises into Section A and Section B; the historic environment is examined inside the Section B depth studies, so neither page names a single subtopic. The Historic Environment practice set drills one skill: the site-based essay question, with questions on the Feature-Context-Link-Significance structure and answers that work from a candidate's own site. The Shaping the Nation practice set is a Paper 2 set in three sections (A, B, C) on the paper's structure, options and choosing a revision approach. Different questions, different skills, no shared wording.",
+  },
+  {
+    files: ["gcse-history-historic-environment-revision-notes.md", "gcse-history-shaping-the-nation-revision-notes.md"],
+    evidence: "Subtopic round (20 Nov 2026, D-510). Same scope as the practice pair above. The Historic Environment notes cover where the site question sits, what it tests, a structure for site-based answers, why it is examined differently and how to prepare without knowing the site. The Shaping the Nation notes cover the Paper 2 format, the Section A thematic and Section B depth choices, how to approach each, and why confirming options matters; the historic environment appears there only as one section on connecting it back to the depth study.",
+  },
+  {
+    files: ["gcse-history-historic-environment.md", "gcse-history-shaping-the-nation-options.md"],
+    evidence: "Subtopic round (20 Nov 2026, D-510). Same scope as the pairs above. The Historic Environment guide is one skill: how to approach the site question, with a worked Feature-Context-Link-Significance example. The Shaping the Nation guide is the Paper 2 overview: how Sections A and B differ in structure, how to approach the thematic and depth studies, and a worked example connecting a historic environment site to its depth study.",
+  },
+  {
+    files: ["oxfordaqa-igcse-geography-9230-enquiry-planning-practice.md", "oxfordaqa-igcse-geography-9230-fieldwork-data-collection-practice.md"],
+    evidence: "Subtopic round (20 Nov 2026, D-510). Both pages carry the one numbered sub-heading the 9230 specification prints under Geographical and Fieldwork Skills (Section B fieldwork skills and Section C individual enquiry), which has no finer numbered children. The enquiry planning set asks about suitable questions and hypotheses, underpinning theory, locations, background research and reducing risk. The data collection set asks about choosing and recording methods, sampling, recording sheets, accuracy and reliability. Different stages of the enquiry, different questions.",
+  },
+  {
+    files: ["oxfordaqa-igcse-geography-9230-enquiry-planning-revision-notes.md", "oxfordaqa-igcse-geography-9230-fieldwork-data-collection-revision-notes.md"],
+    evidence: "Subtopic round (20 Nov 2026, D-510). Same scope and split as the practice pair above: the planning notes cover questions, hypotheses, theory, locations, background research and risk; the data collection notes cover methods, sampling, recording, accuracy, reliability and justification.",
+  },
+  {
+    files: ["oxfordaqa-igcse-geography-9230-enquiry-planning.md", "oxfordaqa-igcse-geography-9230-fieldwork-data-collection.md"],
+    evidence: "Subtopic round (20 Nov 2026, D-510). Same scope and split as the pairs above: Planning a Fieldwork Enquiry (questions, hypotheses and risk) against Collecting Fieldwork Data (methods, sampling and reliability).",
+  },
+  {
     files: ["cambridge-igcse-statistics-mutually-exclusive-and-independent-events-conditional-practice.md", "cambridge-igcse-statistics-probability-basics-notation-simple-cases-with-and-practice.md"],
     evidence: "Maths gaps sprint (D-419, 11 Oct 2026). These sibling units share one subtopic tag because the official specification groups their outcomes under one topic, but each file covers a different, non-overlapping range of outcomes, and each unit was independently verified (coverage map, recomputed numbers, 10-word overlap scan): cambridge-igcse-statistics-mutually-exclusive-and-independent-events-conditional-practice.md: Mutually exclusive and independent events, conditional probability and tree diagrams | cambridge-igcse-statistics-probability-basics-notation-simple-cases-with-and-practice.md: Probability basics: notation, simple cases with and without replacement, complements and the addition rule",
   },

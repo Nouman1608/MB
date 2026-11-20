@@ -14,6 +14,7 @@ order: 258
 syllabusTopics:
   - qualification: "a-level"
     topic: "populations-and-genes-oxfordaqa-alevel-biology"
+    subtopic: "photosynthesis-oxfordaqa-alevel-biology"
 description: "Original practice questions with worked answers on photosynthesis, the Calvin cycle and limiting factors for OxfordAQA International A-level Biology."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

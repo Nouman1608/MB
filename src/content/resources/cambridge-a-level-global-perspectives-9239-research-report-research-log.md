@@ -13,6 +13,7 @@ order: 4.2
 syllabusTopics:
   - qualification: "a-level"
     topic: "component-4-cambridge-research-report-9239"
+    subtopic: "research-log-9239"
 description: "How to keep the 10-mark research log for the 9239 Cambridge Research Report: what to record, plan and reflect on at each stage, with model entries."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
