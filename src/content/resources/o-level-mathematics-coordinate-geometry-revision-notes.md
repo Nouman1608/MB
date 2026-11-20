@@ -13,6 +13,12 @@ order: 520
 syllabusTopics:
   - qualification: "o-level"
     topic: "coordinate-geometry"
+  - qualification: "o-level"
+    topic: "coordinate-geometry"
+    subtopic: "gradient-of-linear-graphs-4024"
+  - qualification: "o-level"
+    topic: "coordinate-geometry"
+    subtopic: "perpendicular-lines-4024"
 description: "Condensed Cambridge O Level Mathematics revision notes on gradient, length, midpoint, line equations, parallel and perpendicular lines, with a self-test."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"

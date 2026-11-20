@@ -13,6 +13,9 @@ order: 519
 syllabusTopics:
   - qualification: "o-level"
     topic: "number"
+  - qualification: "o-level"
+    topic: "number"
+    subtopic: "types-of-number-4024"
 description: "Condensed revision notes for all of Number in Cambridge O Level Mathematics 4024: key methods, distinctions, a quick self-test and common lost marks."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"

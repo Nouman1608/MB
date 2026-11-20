@@ -1,10 +1,14 @@
 /**
  * D-444 -- flashcards for Cambridge O Level Mathematics (Syllabus D) 4024 (2025-2027).
  *
- * One block per subtopic (or per topic, where the syllabus record lists no
- * subtopics), in syllabus order. Card ids are `<subtopic number>-<n>` or
- * `<topic number>-<n>` and are permanent (browser progress is keyed by them):
- * add a new card with the next unused n, never renumber.
+ * One block per subtopic, in syllabus order. Every topic itemises subtopics in
+ * the syllabus record, so every card sits on a subtopic and its id is
+ * `<subtopic number>-<n>`. On 20 Nov 2026 the cards of topics 1, 3, 4, 5, 6
+ * and 8, which until then sat on the topic with ids `<topic number>-<n>`, were
+ * re-filed under their subtopics (card text unchanged); `idMigration` below
+ * moves browser progress saved before that onto the new ids. Ids are permanent
+ * (browser progress is keyed by them): add a new card with the next unused n,
+ * never renumber.
  *
  *   4024 is not tiered, so no card carries a tier.
  *   src: '...'  The card restates that revision-notes page (found with
@@ -29,17 +33,6 @@ const sub = (topic: string, subtopic: string, number: string, specs: Spec[]): Fl
     ...(src ? { source: src } : {}),
   }));
 
-const topicOnly = (topic: string, number: number, specs: Spec[]): Flashcard[] =>
-  specs.map(({ n, f, b, u, src }) => ({
-    id: `${number}-${n}`,
-    topic,
-    front: f,
-    back: b,
-    ...(u ? { tier: 'upper' as const } : {}),
-    origin: src ? 'revision-notes' as const : 'authored' as const,
-    ...(src ? { source: src } : {}),
-  }));
-
 const NUM = 'o-level-mathematics-number-revision-notes';
 const IND = 'indices-and-equations-revision-notes';
 const FUNC = 'functions-revision-notes';
@@ -56,23 +49,78 @@ export const DECK_CAMBRIDGE_O_LEVEL_MATHEMATICS: FlashcardDeck = {
   syllabusCode: '4024',
   syllabusSeries: '2025-2027',
   author: 'marlbridge-academic-team',
-  updated: '2026-11-05',
+  updated: '2026-11-20',
   deckReview: { reviewerSlug: 'sajawal-zahid', reviewedOn: '2026-11-05' },
+  idMigration: {
+    id: '4024-subtopics-2026-11-20',
+    before: '2026-11-20',
+    map: {
+      '1-1': '1.1-1', '1-2': '1.1-2', '1-3': '1.1-3', '1-4': '1.2-1', '1-5': '1.4-1', '1-6': '1.7-1',
+      '1-7': '1.8-1', '1-8': '1.10-1', '1-9': '1.11-1', '1-10': '1.13-1', '1-11': '1.17-1', '1-12': '1.18-1',
+      '2.1-1': '2.1-1', '2.1-2': '2.1-2', '2.1-3': '2.1-3', '2.1-4': '2.1-4', '2.2-1': '2.2-1', '2.2-2': '2.2-2',
+      '2.2-3': '2.2-3', '2.2-4': '2.2-4', '2.2-5': '2.2-5', '2.2-6': '2.2-6', '2.3-1': '2.3-1', '2.3-2': '2.3-2',
+      '2.3-3': '2.3-3', '2.3-4': '2.3-4', '2.4-1': '2.4-1', '2.4-2': '2.4-2', '2.4-3': '2.4-3', '2.4-4': '2.4-4',
+      '2.4-5': '2.4-5', '2.5-1': '2.5-1', '2.5-2': '2.5-2', '2.5-3': '2.5-3', '2.5-4': '2.5-4', '2.5-5': '2.5-5',
+      '2.5-6': '2.5-6', '2.6-1': '2.6-1', '2.6-2': '2.6-2', '2.6-3': '2.6-3', '2.6-4': '2.6-4', '2.6-5': '2.6-5',
+      '2.7-1': '2.7-1', '2.7-2': '2.7-2', '2.7-3': '2.7-3', '2.7-4': '2.7-4', '2.7-5': '2.7-5', '2.8-1': '2.8-1',
+      '2.8-2': '2.8-2', '2.8-3': '2.8-3', '2.8-4': '2.8-4', '2.9-1': '2.9-1', '2.9-2': '2.9-2', '2.9-3': '2.9-3',
+      '2.9-4': '2.9-4', '2.9-5': '2.9-5', '2.10-1': '2.10-1', '2.10-2': '2.10-2', '2.10-3': '2.10-3', '2.10-4': '2.10-4',
+      '2.10-5': '2.10-5', '2.10-6': '2.10-6', '2.11-1': '2.11-1', '2.11-2': '2.11-2', '2.11-3': '2.11-3', '2.11-4': '2.11-4',
+      '2.11-5': '2.11-5', '2.12-1': '2.12-1', '2.12-2': '2.12-2', '2.12-3': '2.12-3', '2.12-4': '2.12-4', '2.12-5': '2.12-5',
+      '2.12-6': '2.12-6', '3-1': '3.3-1', '3-2': '3.3-2', '3-3': '3.4-1', '3-4': '3.4-2', '3-5': '3.4-3',
+      '3-6': '3.5-1', '3-7': '3.5-2', '3-8': '3.6-1', '3-9': '3.6-2', '3-10': '3.7-1', '3-11': '3.7-2',
+      '3-12': '3.2-1', '4-1': '4.4-1', '4-2': '4.1-1', '4-3': '4.3-1', '4-4': '4.4-2', '4-5': '4.4-3',
+      '4-6': '4.6-1', '4-7': '4.6-2', '4-8': '4.6-3', '4-9': '4.7-1', '4-10': '4.7-2', '4-11': '4.7-3',
+      '4-12': '4.8-1', '5-1': '5.1-1', '5-2': '5.1-2', '5-3': '5.2-1', '5-4': '5.3-1', '5-5': '5.3-2',
+      '5-6': '5.4-1', '5-7': '5.4-2', '5-8': '5.4-3', '5-9': '5.4-4', '5-10': '5.4-5', '5-11': '5.4-6',
+      '5-12': '5.5-1', '6-1': '6.1-1', '6-2': '6.2-1', '6-3': '6.2-2', '6-4': '6.3-1', '6-5': '6.3-2',
+      '6-6': '6.3-3', '6-7': '6.3-4', '6-8': '6.3-5', '6-9': '6.3-6', '6-10': '6.4-1', '6-11': '6.4-2',
+      '6-12': '6.1-2', '7.1-1': '7.1-1', '7.1-2': '7.1-2', '7.1-3': '7.1-3', '7.1-4': '7.1-4', '7.1-5': '7.1-5',
+      '7.1-6': '7.1-6', '7.2-1': '7.2-1', '7.2-2': '7.2-2', '7.2-3': '7.2-3', '7.2-4': '7.2-4', '7.2-5': '7.2-5',
+      '7.3-1': '7.3-1', '7.3-2': '7.3-2', '7.3-3': '7.3-3', '7.3-4': '7.3-4', '7.4-1': '7.4-1', '7.4-2': '7.4-2',
+      '7.4-3': '7.4-3', '7.4-4': '7.4-4', '7.4-5': '7.4-5', '8-1': '8.1-1', '8-2': '8.1-2', '8-3': '8.2-1',
+      '8-4': '8.2-2', '8-5': '8.2-3', '8-6': '8.1-3', '8-7': '8.3-1', '8-8': '8.3-2', '8-9': '8.3-3',
+      '8-10': '8.3-4', '8-11': '8.3-5', '8-12': '8.3-6', '9.1-1': '9.1-1', '9.1-2': '9.1-2', '9.1-3': '9.1-3',
+      '9.1-4': '9.1-4', '9.2-1': '9.2-1', '9.2-2': '9.2-2', '9.2-3': '9.2-3', '9.3-1': '9.3-1', '9.3-2': '9.3-2',
+      '9.3-3': '9.3-3', '9.3-4': '9.3-4', '9.3-5': '9.3-5', '9.4-1': '9.4-1', '9.4-2': '9.4-2', '9.4-3': '9.4-3',
+      '9.4-4': '9.4-4', '9.5-1': '9.5-1', '9.5-2': '9.5-2', '9.5-3': '9.5-3', '9.5-4': '9.5-4', '9.5-5': '9.5-5',
+      '9.6-1': '9.6-1', '9.6-2': '9.6-2', '9.6-3': '9.6-3', '9.6-4': '9.6-4', '9.6-5': '9.6-5', '9.7-1': '9.7-1',
+      '9.7-2': '9.7-2', '9.7-3': '9.7-3', '9.7-4': '9.7-4', '9.7-5': '9.7-5', '9.7-6': '9.7-6',
+    },
+  },
   cards: [
     // 1 Number
-    ...topicOnly('number', 1, [
+    ...sub('number', 'types-of-number-4024', '1.1', [
       { n: 1, f: 'Prime number', b: 'A number with exactly two factors: 1 and itself. 1 is not prime (it has only one factor).', src: NUM },
       { n: 2, f: 'Rational and irrational numbers', b: 'Rational: can be written as a/b, where a and b are integers (b ≠ 0).\nIrrational: cannot be written as a fraction, for example π and √2.', src: NUM },
       { n: 3, f: 'How do you find the HCF and LCM of two numbers?', b: '1. Write each number as a product of prime factors.\n2. HCF: multiply the shared primes, each to its lowest power.\n3. LCM: multiply every prime, each to its highest power.\nExample: 56 = 2³ × 7, 210 = 2 × 3 × 5 × 7, so HCF = 14 and LCM = 840.' },
-      { n: 4, f: 'Sets: formula for n(A ∪ B)', b: 'n(A ∪ B) = n(A) + n(B) − n(A ∩ B)\nn means "number of elements in". Subtract the overlap because it was counted twice.' },
-      { n: 5, f: 'Write 0.6̇3̇ (0.6363…) as a fraction', b: 'x = 0.6363…, so 100x = 63.6363…\nSubtract: 99x = 63\nx = 63/99 = 7/11' },
-      { n: 6, f: 'Index rules for zero, negative and fractional powers', b: 'a⁰ = 1\na⁻ⁿ = 1/aⁿ\na^(m/n) = (ⁿ√a)ᵐ: take the root first, then the power.\nExample: 64^(2/3) = 4² = 16.' },
-      { n: 7, f: 'Standard form', b: 'A × 10ⁿ, where 1 ≤ A < 10 and n is an integer.\nExamples: 45 000 000 = 4.5 × 10⁷; 0.00306 = 3.06 × 10⁻³.\n30 × 10⁴ is not in standard form: write 3 × 10⁵.' },
-      { n: 8, f: 'A length is 847.6 m to 1 decimal place. Write its bounds.', b: '847.55 ≤ l < 847.65\nThe bounds are half a unit (0.05) either side. For the largest a − b or a ÷ b, use the upper bound of a with the lower bound of b.' },
-      { n: 9, f: 'How do you share an amount in a ratio? (240 in the ratio 3 : 5)', b: '1. Add the parts: 3 + 5 = 8.\n2. One part = 240 ÷ 8 = 30.\n3. Multiply: 3 × 30 = 90 and 5 × 30 = 150.' },
-      { n: 10, f: 'Reverse percentage: after a 20% discount a coat costs 1920 dollars. Find the original price.', b: 'The multiplier for a 20% decrease is 0.8.\nOriginal = 1920 ÷ 0.8 = 2400 dollars.\nDivide by the multiplier; do not take 20% of the new price.' },
-      { n: 11, f: 'Compound interest formula', b: 'Amount = P × (1 + r/100)ⁿ\nP = principal, r = rate per year (%), n = number of years. Subtract P to get the interest.\nExample: 480 dollars at 5% for 3 years: 480 × 1.05³ = 555.66 dollars.' },
-      { n: 12, f: 'How do you rationalise a denominator of the form a + √b?', b: 'Multiply top and bottom by a − √b. The denominator becomes a² − b.\nExample: 9/(4 + √7) = 9(4 − √7)/(16 − 7) = 4 − √7.' },
+    ]),
+    ...sub('number', 'sets-4024', '1.2', [
+      { n: 1, f: 'Sets: formula for n(A ∪ B)', b: 'n(A ∪ B) = n(A) + n(B) − n(A ∩ B)\nn means "number of elements in". Subtract the overlap because it was counted twice.' },
+    ]),
+    ...sub('number', 'fractions-decimals-and-percentages-4024', '1.4', [
+      { n: 1, f: 'Write 0.6̇3̇ (0.6363…) as a fraction', b: 'x = 0.6363…, so 100x = 63.6363…\nSubtract: 99x = 63\nx = 63/99 = 7/11' },
+    ]),
+    ...sub('number', 'indices-i-4024', '1.7', [
+      { n: 1, f: 'Index rules for zero, negative and fractional powers', b: 'a⁰ = 1\na⁻ⁿ = 1/aⁿ\na^(m/n) = (ⁿ√a)ᵐ: take the root first, then the power.\nExample: 64^(2/3) = 4² = 16.' },
+    ]),
+    ...sub('number', 'standard-form-4024', '1.8', [
+      { n: 1, f: 'Standard form', b: 'A × 10ⁿ, where 1 ≤ A < 10 and n is an integer.\nExamples: 45 000 000 = 4.5 × 10⁷; 0.00306 = 3.06 × 10⁻³.\n30 × 10⁴ is not in standard form: write 3 × 10⁵.' },
+    ]),
+    ...sub('number', 'limits-of-accuracy-4024', '1.10', [
+      { n: 1, f: 'A length is 847.6 m to 1 decimal place. Write its bounds.', b: '847.55 ≤ l < 847.65\nThe bounds are half a unit (0.05) either side. For the largest a − b or a ÷ b, use the upper bound of a with the lower bound of b.' },
+    ]),
+    ...sub('number', 'ratio-and-proportion-4024', '1.11', [
+      { n: 1, f: 'How do you share an amount in a ratio? (240 in the ratio 3 : 5)', b: '1. Add the parts: 3 + 5 = 8.\n2. One part = 240 ÷ 8 = 30.\n3. Multiply: 3 × 30 = 90 and 5 × 30 = 150.' },
+    ]),
+    ...sub('number', 'percentages-4024', '1.13', [
+      { n: 1, f: 'Reverse percentage: after a 20% discount a coat costs 1920 dollars. Find the original price.', b: 'The multiplier for a 20% decrease is 0.8.\nOriginal = 1920 ÷ 0.8 = 2400 dollars.\nDivide by the multiplier; do not take 20% of the new price.' },
+    ]),
+    ...sub('number', 'exponential-growth-and-decay-4024', '1.17', [
+      { n: 1, f: 'Compound interest formula', b: 'Amount = P × (1 + r/100)ⁿ\nP = principal, r = rate per year (%), n = number of years. Subtract P to get the interest.\nExample: 480 dollars at 5% for 3 years: 480 × 1.05³ = 555.66 dollars.' },
+    ]),
+    ...sub('number', 'surds-4024', '1.18', [
+      { n: 1, f: 'How do you rationalise a denominator of the form a + √b?', b: 'Multiply top and bottom by a − √b. The denominator becomes a² − b.\nExample: 9/(4 + √7) = 9(4 − √7)/(16 − 7) = 4 − √7.' },
     ]),
 
     // 2 Algebra and graphs
@@ -163,67 +211,101 @@ export const DECK_CAMBRIDGE_O_LEVEL_MATHEMATICS: FlashcardDeck = {
     ]),
 
     // 3 Coordinate geometry
-    ...topicOnly('coordinate-geometry', 3, [
+    ...sub('coordinate-geometry', 'drawing-linear-graphs-4024', '3.2', [
+      { n: 1, f: 'The lines x = 3 and y = 3: how do they differ?', b: 'x = 3 is vertical, through (3, 0); its gradient is undefined.\ny = 3 is horizontal, through (0, 3); its gradient is 0.' },
+    ]),
+    ...sub('coordinate-geometry', 'gradient-of-linear-graphs-4024', '3.3', [
       { n: 1, f: 'Gradient (meaning)', b: 'How much y changes for each 1 unit increase in x. Rising to the right is positive; falling to the right is negative.', src: COORD },
       { n: 2, f: 'Gradient of the line through (x₁, y₁) and (x₂, y₂)', b: 'm = (y₂ − y₁) ÷ (x₂ − x₁)\nSubtract in the same order on top and below.' },
-      { n: 3, f: 'Length of the line segment from (x₁, y₁) to (x₂, y₂)', b: '√((x₂ − x₁)² + (y₂ − y₁)²)' },
-      { n: 4, f: 'Midpoint of (x₁, y₁) and (x₂, y₂)', b: '((x₁ + x₂)/2, (y₁ + y₂)/2): add the coordinates and halve each.' },
-      { n: 5, f: 'Find the midpoint and length of the segment from (−1, −2) to (5, 6)', b: 'Midpoint: (4/2, 4/2) = (2, 2).\nLength: √(6² + 8²) = √100 = 10.' },
-      { n: 6, f: 'In y = mx + c, what do m and c stand for?', b: 'm is the gradient (the number multiplying x); c is the y-intercept, where the line crosses the y-axis (x = 0).' },
-      { n: 7, f: 'Find the gradient and y-intercept of 3x − 4y = 24', b: 'Rearrange: −4y = 24 − 3x, so y = (3/4)x − 6.\nGradient 3/4, y-intercept −6.' },
-      { n: 8, f: 'Parallel lines and perpendicular lines: gradient rules', b: 'Parallel: equal gradients, m₁ = m₂.\nPerpendicular: m₁ × m₂ = −1, so the perpendicular gradient is −1/m (flip the fraction and change the sign).' },
-      { n: 9, f: 'Find the line parallel to y = 3x + 1 through (2, 5)', b: 'Gradient 3. Substitute: 5 = 3 × 2 + c, so c = −1.\ny = 3x − 1' },
-      { n: 10, f: 'Perpendicular bisector (meaning)', b: 'A line that cuts a line segment in half at 90°.', src: COORD },
-      { n: 11, f: 'How do you find the equation of the perpendicular bisector of PQ?', b: '1. Find the midpoint of PQ.\n2. Find the gradient of PQ.\n3. Take the perpendicular gradient −1/m.\n4. Use y − y₁ = m(x − x₁) through the midpoint.' },
-      { n: 12, f: 'The lines x = 3 and y = 3: how do they differ?', b: 'x = 3 is vertical, through (3, 0); its gradient is undefined.\ny = 3 is horizontal, through (0, 3); its gradient is 0.' },
+    ]),
+    ...sub('coordinate-geometry', 'length-and-midpoint-4024', '3.4', [
+      { n: 1, f: 'Length of the line segment from (x₁, y₁) to (x₂, y₂)', b: '√((x₂ − x₁)² + (y₂ − y₁)²)' },
+      { n: 2, f: 'Midpoint of (x₁, y₁) and (x₂, y₂)', b: '((x₁ + x₂)/2, (y₁ + y₂)/2): add the coordinates and halve each.' },
+      { n: 3, f: 'Find the midpoint and length of the segment from (−1, −2) to (5, 6)', b: 'Midpoint: (4/2, 4/2) = (2, 2).\nLength: √(6² + 8²) = √100 = 10.' },
+    ]),
+    ...sub('coordinate-geometry', 'equations-of-linear-graphs-4024', '3.5', [
+      { n: 1, f: 'In y = mx + c, what do m and c stand for?', b: 'm is the gradient (the number multiplying x); c is the y-intercept, where the line crosses the y-axis (x = 0).' },
+      { n: 2, f: 'Find the gradient and y-intercept of 3x − 4y = 24', b: 'Rearrange: −4y = 24 − 3x, so y = (3/4)x − 6.\nGradient 3/4, y-intercept −6.' },
+    ]),
+    ...sub('coordinate-geometry', 'parallel-lines-4024', '3.6', [
+      { n: 1, f: 'Parallel lines and perpendicular lines: gradient rules', b: 'Parallel: equal gradients, m₁ = m₂.\nPerpendicular: m₁ × m₂ = −1, so the perpendicular gradient is −1/m (flip the fraction and change the sign).' },
+      { n: 2, f: 'Find the line parallel to y = 3x + 1 through (2, 5)', b: 'Gradient 3. Substitute: 5 = 3 × 2 + c, so c = −1.\ny = 3x − 1' },
+    ]),
+    ...sub('coordinate-geometry', 'perpendicular-lines-4024', '3.7', [
+      { n: 1, f: 'Perpendicular bisector (meaning)', b: 'A line that cuts a line segment in half at 90°.', src: COORD },
+      { n: 2, f: 'How do you find the equation of the perpendicular bisector of PQ?', b: '1. Find the midpoint of PQ.\n2. Find the gradient of PQ.\n3. Take the perpendicular gradient −1/m.\n4. Use y − y₁ = m(x − x₁) through the midpoint.' },
     ]),
 
     // 4 Geometry
-    ...topicOnly('geometry', 4, [
+    ...sub('geometry', 'geometrical-terms-4024', '4.1', [
+      { n: 1, f: 'Sector and segment of a circle', b: 'Sector: bounded by two radii and an arc.\nSegment: bounded by a chord and an arc.', src: GEOM },
+    ]),
+    ...sub('geometry', 'scale-drawings-4024', '4.3', [
+      { n: 1, f: 'Bearings: the rules, and the back bearing of 296°', b: 'Measured clockwise from north, written with three figures (for example 040°).\nBack bearing: add 180° if under 180°, subtract 180° if 180° or more. 296° − 180° = 116°.' },
+    ]),
+    ...sub('geometry', 'similarity-4024', '4.4', [
       { n: 1, f: 'Similar and congruent shapes', b: 'Similar: same shape, with lengths in a constant ratio.\nCongruent: same shape and same size.', src: GEOM },
-      { n: 2, f: 'Sector and segment of a circle', b: 'Sector: bounded by two radii and an arc.\nSegment: bounded by a chord and an arc.', src: GEOM },
-      { n: 3, f: 'Bearings: the rules, and the back bearing of 296°', b: 'Measured clockwise from north, written with three figures (for example 040°).\nBack bearing: add 180° if under 180°, subtract 180° if 180° or more. 296° − 180° = 116°.' },
-      { n: 4, f: 'Similar shapes: length scale factor k. What are the area and volume scale factors?', b: 'Area scale factor k². Volume scale factor k³.\nGiven areas or volumes, take the square root or cube root first to get k.' },
-      { n: 5, f: 'Two similar cylinders have heights in the ratio 2 : 3. The smaller holds 40 cm³. Find the volume of the larger.', b: 'Volume factor (3/2)³ = 27/8.\n40 × 27/8 = 135 cm³.' },
-      { n: 6, f: 'Sum of the interior angles of a polygon with n sides', b: '(n − 2) × 180°. The exterior angles of any polygon add up to 360°.' },
-      { n: 7, f: 'Each interior angle of a regular polygon is 140°. How many sides?', b: 'Exterior angle = 180° − 140° = 40°.\nn = 360° ÷ 40° = 9 sides.' },
-      { n: 8, f: 'Angles with parallel lines: corresponding, alternate, co-interior', b: 'Corresponding angles (F shape) are equal.\nAlternate angles (Z shape) are equal.\nCo-interior angles (C shape) add up to 180°.' },
-      { n: 9, f: 'Circle theorems: angle at the centre, and angle in a semicircle', b: 'The angle at the centre is twice the angle at the circumference standing on the same arc.\nThe angle in a semicircle is 90°.' },
-      { n: 10, f: 'Circle theorems: cyclic quadrilateral, and angles in the same segment', b: 'Opposite angles of a cyclic quadrilateral add up to 180°.\nAngles in the same segment are equal.' },
-      { n: 11, f: 'Circle theorems about tangents', b: 'A tangent is perpendicular to the radius at the point of contact.\nTangents from an external point are equal in length.\nAlternate segment theorem: the angle between a tangent and a chord equals the angle in the alternate segment.' },
-      { n: 12, f: 'A circle has diameter 26 cm. A chord is 10 cm long. How far is the chord from the centre?', b: 'The perpendicular from the centre bisects the chord. Radius 13, half-chord 5.\nDistance = √(13² − 5²) = √144 = 12 cm.' },
+      { n: 2, f: 'Similar shapes: length scale factor k. What are the area and volume scale factors?', b: 'Area scale factor k². Volume scale factor k³.\nGiven areas or volumes, take the square root or cube root first to get k.' },
+      { n: 3, f: 'Two similar cylinders have heights in the ratio 2 : 3. The smaller holds 40 cm³. Find the volume of the larger.', b: 'Volume factor (3/2)³ = 27/8.\n40 × 27/8 = 135 cm³.' },
+    ]),
+    ...sub('geometry', 'angles-4024', '4.6', [
+      { n: 1, f: 'Sum of the interior angles of a polygon with n sides', b: '(n − 2) × 180°. The exterior angles of any polygon add up to 360°.' },
+      { n: 2, f: 'Each interior angle of a regular polygon is 140°. How many sides?', b: 'Exterior angle = 180° − 140° = 40°.\nn = 360° ÷ 40° = 9 sides.' },
+      { n: 3, f: 'Angles with parallel lines: corresponding, alternate, co-interior', b: 'Corresponding angles (F shape) are equal.\nAlternate angles (Z shape) are equal.\nCo-interior angles (C shape) add up to 180°.' },
+    ]),
+    ...sub('geometry', 'circle-theorems-i-4024', '4.7', [
+      { n: 1, f: 'Circle theorems: angle at the centre, and angle in a semicircle', b: 'The angle at the centre is twice the angle at the circumference standing on the same arc.\nThe angle in a semicircle is 90°.' },
+      { n: 2, f: 'Circle theorems: cyclic quadrilateral, and angles in the same segment', b: 'Opposite angles of a cyclic quadrilateral add up to 180°.\nAngles in the same segment are equal.' },
+      { n: 3, f: 'Circle theorems about tangents', b: 'A tangent is perpendicular to the radius at the point of contact.\nTangents from an external point are equal in length.\nAlternate segment theorem: the angle between a tangent and a chord equals the angle in the alternate segment.' },
+    ]),
+    ...sub('geometry', 'circle-theorems-ii-4024', '4.8', [
+      { n: 1, f: 'A circle has diameter 26 cm. A chord is 10 cm long. How far is the chord from the centre?', b: 'The perpendicular from the centre bisects the chord. Radius 13, half-chord 5.\nDistance = √(13² − 5²) = √144 = 12 cm.' },
     ]),
 
     // 5 Mensuration
-    ...topicOnly('mensuration', 5, [
+    ...sub('mensuration', 'units-of-measure-4024', '5.1', [
       { n: 1, f: 'Area and volume unit conversions: m² to cm², m³ to cm³', b: '1 m² = 100² = 10 000 cm².\n1 m³ = 100³ = 1 000 000 cm³.\nSquare the length factor for area; cube it for volume.' },
       { n: 2, f: 'Capacity conversions', b: '1 cm³ = 1 ml.\n1 litre = 1000 cm³.\n1 m³ = 1000 litres.' },
-      { n: 3, f: 'Area of a trapezium', b: '½(a + b)h, where a and b are the parallel sides and h is the perpendicular height between them.' },
-      { n: 4, f: 'Arc length and sector area for angle θ', b: 'Arc length = (θ/360) × 2πr.\nSector area = (θ/360) × πr².\nThe perimeter of a sector is the arc length + 2r.' },
-      { n: 5, f: 'A sector has radius 8 cm and angle 135°. Find the arc length and area in terms of π.', b: 'Fraction = 135/360 = 3/8.\nArc = 3/8 × 16π = 6π cm.\nArea = 3/8 × 64π = 24π cm².' },
-      { n: 6, f: 'Volume and curved surface area of a cone', b: 'Volume = ⅓πr²h (h = perpendicular height).\nCurved surface area = πrl (l = slant height).' },
-      { n: 7, f: 'A cone has base radius 5 cm and slant height 13 cm. Find its height and volume.', b: 'h = √(13² − 5²) = √144 = 12 cm.\nVolume = ⅓ × π × 25 × 12 = 100π cm³.' },
-      { n: 8, f: 'Volume and surface area of a sphere', b: 'Volume = (4/3)πr³.\nSurface area = 4πr².' },
-      { n: 9, f: 'Total surface area of a solid hemisphere of radius r', b: 'Curved surface 2πr² plus the flat circle πr² = 3πr².\nFor r = 3 cm: 27π cm².' },
-      { n: 10, f: 'Volume of a prism and of a cylinder', b: 'Prism: area of cross-section × length.\nCylinder: πr²h. Its curved surface area is 2πrh.' },
-      { n: 11, f: 'A sphere of radius 3 cm is melted and recast as a cone of base radius 3 cm. Find the cone height.', b: 'The volume stays the same. Sphere: (4/3)π × 27 = 36π.\nCone: ⅓ × π × 9 × h = 3πh = 36π, so h = 12 cm.' },
-      { n: 12, f: 'How do you find the volume of a frustum?', b: 'A frustum is a cone (or pyramid) with the top cut off parallel to the base. Volume = volume of the whole cone − volume of the small cone removed (the two cones are similar).' },
+    ]),
+    ...sub('mensuration', 'area-and-perimeter-4024', '5.2', [
+      { n: 1, f: 'Area of a trapezium', b: '½(a + b)h, where a and b are the parallel sides and h is the perpendicular height between them.' },
+    ]),
+    ...sub('mensuration', 'circles-arcs-and-sectors-4024', '5.3', [
+      { n: 1, f: 'Arc length and sector area for angle θ', b: 'Arc length = (θ/360) × 2πr.\nSector area = (θ/360) × πr².\nThe perimeter of a sector is the arc length + 2r.' },
+      { n: 2, f: 'A sector has radius 8 cm and angle 135°. Find the arc length and area in terms of π.', b: 'Fraction = 135/360 = 3/8.\nArc = 3/8 × 16π = 6π cm.\nArea = 3/8 × 64π = 24π cm².' },
+    ]),
+    ...sub('mensuration', 'surface-area-and-volume-4024', '5.4', [
+      { n: 1, f: 'Volume and curved surface area of a cone', b: 'Volume = ⅓πr²h (h = perpendicular height).\nCurved surface area = πrl (l = slant height).' },
+      { n: 2, f: 'A cone has base radius 5 cm and slant height 13 cm. Find its height and volume.', b: 'h = √(13² − 5²) = √144 = 12 cm.\nVolume = ⅓ × π × 25 × 12 = 100π cm³.' },
+      { n: 3, f: 'Volume and surface area of a sphere', b: 'Volume = (4/3)πr³.\nSurface area = 4πr².' },
+      { n: 4, f: 'Total surface area of a solid hemisphere of radius r', b: 'Curved surface 2πr² plus the flat circle πr² = 3πr².\nFor r = 3 cm: 27π cm².' },
+      { n: 5, f: 'Volume of a prism and of a cylinder', b: 'Prism: area of cross-section × length.\nCylinder: πr²h. Its curved surface area is 2πrh.' },
+      { n: 6, f: 'A sphere of radius 3 cm is melted and recast as a cone of base radius 3 cm. Find the cone height.', b: 'The volume stays the same. Sphere: (4/3)π × 27 = 36π.\nCone: ⅓ × π × 9 × h = 3πh = 36π, so h = 12 cm.' },
+    ]),
+    ...sub('mensuration', 'compound-shapes-and-parts-of-shapes-4024', '5.5', [
+      { n: 1, f: 'How do you find the volume of a frustum?', b: 'A frustum is a cone (or pyramid) with the top cut off parallel to the base. Volume = volume of the whole cone − volume of the small cone removed (the two cones are similar).' },
     ]),
 
     // 6 Trigonometry
-    ...topicOnly('trigonometry', 6, [
+    ...sub('trigonometry', 'pythagoras-theorem-4024', '6.1', [
       { n: 1, f: "Pythagoras' theorem", b: 'In a right-angled triangle with hypotenuse c: a² + b² = c².\nAdd the squares to find the hypotenuse; subtract to find a shorter side.' },
-      { n: 2, f: 'sin θ, cos θ and tan θ in a right-angled triangle', b: 'sin θ = opposite/hypotenuse\ncos θ = adjacent/hypotenuse\ntan θ = opposite/adjacent' },
-      { n: 3, f: 'Angle of elevation and angle of depression', b: 'Both are measured from the horizontal: elevation upwards to the line of sight, depression downwards. The depression from A to B equals the elevation from B to A (alternate angles).' },
-      { n: 4, f: 'The sine rule', b: 'a/sin A = b/sin B = c/sin C\n(side a is opposite angle A). Use it when you know a side and its opposite angle.' },
-      { n: 5, f: 'The cosine rule (finding a side and finding an angle)', b: 'a² = b² + c² − 2bc cos A\ncos A = (b² + c² − a²)/(2bc)\nUse it with two sides and the included angle, or with all three sides.' },
-      { n: 6, f: 'Area of a triangle using sine', b: 'Area = ½ab sin C, where C is the angle between sides a and b.' },
-      { n: 7, f: 'Two sides are 5 cm and 8 cm with an included angle of 60°. Find the third side.', b: 'a² = 25 + 64 − 2 × 5 × 8 × cos 60° = 89 − 40 = 49\na = 7 cm' },
-      { n: 8, f: 'sin(180° − x) and cos(180° − x)', b: 'sin(180° − x) = sin x, so sin 140° = sin 40°.\ncos(180° − x) = −cos x, so a negative cosine means an obtuse angle.' },
-      { n: 9, f: 'The ambiguous case of the sine rule', b: 'Given two sides and a non-included angle, sin B can give B or 180° − B. Keep the obtuse value only if the angles still add up to less than 180°.' },
-      { n: 10, f: 'Space diagonal of a cuboid l × w × h', b: '√(l² + w² + h²)\nExample: 4 × 3 × 12 cm gives √(16 + 9 + 144) = 13 cm.' },
-      { n: 11, f: 'Angle between a line and a plane', b: 'The angle between the line and its projection on the plane. Drop a perpendicular from the top of the line to the plane, draw the right-angled triangle, then use a trig ratio.' },
-      { n: 12, f: '4024 accuracy for answers on the calculator paper', b: 'Non-exact answers to 3 significant figures and angles in degrees to 1 decimal place, unless the question says otherwise. Do not round until the final answer.' },
+      { n: 2, f: '4024 accuracy for answers on the calculator paper', b: 'Non-exact answers to 3 significant figures and angles in degrees to 1 decimal place, unless the question says otherwise. Do not round until the final answer.' },
+    ]),
+    ...sub('trigonometry', 'right-angled-triangles-4024', '6.2', [
+      { n: 1, f: 'sin θ, cos θ and tan θ in a right-angled triangle', b: 'sin θ = opposite/hypotenuse\ncos θ = adjacent/hypotenuse\ntan θ = opposite/adjacent' },
+      { n: 2, f: 'Angle of elevation and angle of depression', b: 'Both are measured from the horizontal: elevation upwards to the line of sight, depression downwards. The depression from A to B equals the elevation from B to A (alternate angles).' },
+    ]),
+    ...sub('trigonometry', 'non-right-angled-triangles-4024', '6.3', [
+      { n: 1, f: 'The sine rule', b: 'a/sin A = b/sin B = c/sin C\n(side a is opposite angle A). Use it when you know a side and its opposite angle.' },
+      { n: 2, f: 'The cosine rule (finding a side and finding an angle)', b: 'a² = b² + c² − 2bc cos A\ncos A = (b² + c² − a²)/(2bc)\nUse it with two sides and the included angle, or with all three sides.' },
+      { n: 3, f: 'Area of a triangle using sine', b: 'Area = ½ab sin C, where C is the angle between sides a and b.' },
+      { n: 4, f: 'Two sides are 5 cm and 8 cm with an included angle of 60°. Find the third side.', b: 'a² = 25 + 64 − 2 × 5 × 8 × cos 60° = 89 − 40 = 49\na = 7 cm' },
+      { n: 5, f: 'sin(180° − x) and cos(180° − x)', b: 'sin(180° − x) = sin x, so sin 140° = sin 40°.\ncos(180° − x) = −cos x, so a negative cosine means an obtuse angle.' },
+      { n: 6, f: 'The ambiguous case of the sine rule', b: 'Given two sides and a non-included angle, sin B can give B or 180° − B. Keep the obtuse value only if the angles still add up to less than 180°.' },
+    ]),
+    ...sub('trigonometry', 'pythagoras-theorem-and-trigonometry-4024', '6.4', [
+      { n: 1, f: 'Space diagonal of a cuboid l × w × h', b: '√(l² + w² + h²)\nExample: 4 × 3 × 12 cm gives √(16 + 9 + 144) = 13 cm.' },
+      { n: 2, f: 'Angle between a line and a plane', b: 'The angle between the line and its projection on the plane. Drop a perpendicular from the top of the line to the plane, draw the right-angled triangle, then use a trig ratio.' },
     ]),
 
     // 7 Transformations and vectors
@@ -257,19 +339,23 @@ export const DECK_CAMBRIDGE_O_LEVEL_MATHEMATICS: FlashcardDeck = {
     ]),
 
     // 8 Probability
-    ...topicOnly('probability', 8, [
+    ...sub('probability', 'introduction-to-probability-4024', '8.1', [
       { n: 1, f: 'The probability scale', b: '0 means impossible and 1 means certain. Every probability lies from 0 to 1. Give it as a fraction, decimal or percentage, never as a ratio like 5:2.' },
       { n: 2, f: 'Probability that A does not happen', b: "P(A′) = 1 − P(A)" },
-      { n: 3, f: 'Relative frequency', b: 'Times the event happened ÷ number of trials. It is an estimate of the probability and improves as the number of trials grows.', src: PROB },
-      { n: 4, f: 'Expected frequency: a pin lands point up with relative frequency 0.3. How many times in 1500 trials?', b: 'Expected frequency = probability × number of trials = 0.3 × 1500 = 450.' },
-      { n: 5, f: 'Fair and biased', b: 'Fair: all outcomes are equally likely.\nBiased: outcomes are not equally likely; some are favoured.', src: PROB },
-      { n: 6, f: 'How do you find P(at least one)?', b: '1. Write the opposite event, "none".\n2. Find P(none).\n3. P(at least one) = 1 − P(none).' },
-      { n: 7, f: 'Tree diagrams: when do you multiply and when do you add?', b: 'Multiply along the branches of one path. Add the probabilities of different paths that give the event. Branches from one point add up to 1.' },
-      { n: 8, f: 'P(test) = 0.4. If there is a test, P(revise) = 0.9; if not, P(revise) = 0.5. Find P(revise).', b: '0.4 × 0.9 + 0.6 × 0.5 = 0.36 + 0.30 = 0.66' },
-      { n: 9, f: 'A bag has 4 red and 6 blue counters. Two are taken without replacement. Find P(both red).', b: '4/10 × 3/9 = 12/90 = 2/15.\nWithout replacement, the second denominator drops by one.' },
-      { n: 10, f: 'Same bag (4 red, 6 blue), without replacement. Find P(one of each colour).', b: 'Two paths: 4/10 × 6/9 + 6/10 × 4/9 = 24/90 + 24/90 = 48/90 = 8/15.' },
-      { n: 11, f: 'Two fair spinners numbered 1 to 4 are spun and the scores added. Find P(total = 4).', b: 'Sample space has 4 × 4 = 16 outcomes. (1, 3), (2, 2), (3, 1) give 4.\nP = 3/16' },
-      { n: 12, f: 'Of 40 people, 18 speak French, 14 speak German and 12 speak neither. How many speak both?', b: 'At least one language: 40 − 12 = 28.\n18 + 14 − both = 28, so both = 4.' },
+      { n: 3, f: 'How do you find P(at least one)?', b: '1. Write the opposite event, "none".\n2. Find P(none).\n3. P(at least one) = 1 − P(none).' },
+    ]),
+    ...sub('probability', 'relative-and-expected-frequencies-4024', '8.2', [
+      { n: 1, f: 'Relative frequency', b: 'Times the event happened ÷ number of trials. It is an estimate of the probability and improves as the number of trials grows.', src: PROB },
+      { n: 2, f: 'Expected frequency: a pin lands point up with relative frequency 0.3. How many times in 1500 trials?', b: 'Expected frequency = probability × number of trials = 0.3 × 1500 = 450.' },
+      { n: 3, f: 'Fair and biased', b: 'Fair: all outcomes are equally likely.\nBiased: outcomes are not equally likely; some are favoured.', src: PROB },
+    ]),
+    ...sub('probability', 'probability-of-combined-events-4024', '8.3', [
+      { n: 1, f: 'Tree diagrams: when do you multiply and when do you add?', b: 'Multiply along the branches of one path. Add the probabilities of different paths that give the event. Branches from one point add up to 1.' },
+      { n: 2, f: 'P(test) = 0.4. If there is a test, P(revise) = 0.9; if not, P(revise) = 0.5. Find P(revise).', b: '0.4 × 0.9 + 0.6 × 0.5 = 0.36 + 0.30 = 0.66' },
+      { n: 3, f: 'A bag has 4 red and 6 blue counters. Two are taken without replacement. Find P(both red).', b: '4/10 × 3/9 = 12/90 = 2/15.\nWithout replacement, the second denominator drops by one.' },
+      { n: 4, f: 'Same bag (4 red, 6 blue), without replacement. Find P(one of each colour).', b: 'Two paths: 4/10 × 6/9 + 6/10 × 4/9 = 24/90 + 24/90 = 48/90 = 8/15.' },
+      { n: 5, f: 'Two fair spinners numbered 1 to 4 are spun and the scores added. Find P(total = 4).', b: 'Sample space has 4 × 4 = 16 outcomes. (1, 3), (2, 2), (3, 1) give 4.\nP = 3/16' },
+      { n: 6, f: 'Of 40 people, 18 speak French, 14 speak German and 12 speak neither. How many speak both?', b: 'At least one language: 40 − 12 = 28.\n18 + 14 − both = 28, so both = 4.' },
     ]),
 
     // 9 Statistics

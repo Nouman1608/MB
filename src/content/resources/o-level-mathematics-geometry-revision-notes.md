@@ -13,6 +13,12 @@ order: 521
 syllabusTopics:
   - qualification: "o-level"
     topic: "geometry"
+  - qualification: "o-level"
+    topic: "geometry"
+    subtopic: "geometrical-terms-4024"
+  - qualification: "o-level"
+    topic: "geometry"
+    subtopic: "similarity-4024"
 description: "Condensed Cambridge O Level Mathematics revision notes on geometry: angles, polygons, bearings, similarity, symmetry, circle theorems and a self-test."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
