@@ -13,6 +13,7 @@ order: 53
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-language-acquisition-assessment-criteria"
+    subtopic: "ib-myp-language-acquisition-assessment-criteria-b-reading"
 description: "Original IB MYP Language Acquisition Criterion B reading questions on three multimodal texts: a webpage, a column and a leaflet, with worked answers."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"

@@ -13,6 +13,7 @@ order: 55
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-language-acquisition-assessment-criteria"
+    subtopic: "ib-myp-language-acquisition-assessment-criteria-d-writing"
 description: "IB MYP Language Acquisition study guide to criterion D writing: decoding the task, planning, cohesion, register, accuracy and range, with a model."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"

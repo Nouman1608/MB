@@ -13,6 +13,7 @@ order: 55
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-language-acquisition-assessment-criteria"
+    subtopic: "ib-myp-language-acquisition-assessment-criteria-d-writing"
 description: "Condensed IB MYP Language Acquisition criterion D revision notes: task-decoding grid, connective and register tables, checking order and a self-test."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"

@@ -13,6 +13,7 @@ order: 52
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-language-acquisition-assessment-criteria"
+    subtopic: "ib-myp-language-acquisition-assessment-criteria-a-listening"
 description: "Study guide to IB MYP Language Acquisition Criterion A: how to understand spoken multimodal texts, with an original transcript and worked answers."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"

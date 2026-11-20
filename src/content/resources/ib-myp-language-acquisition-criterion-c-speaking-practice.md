@@ -13,6 +13,7 @@ order: 54
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-language-acquisition-assessment-criteria"
+    subtopic: "ib-myp-language-acquisition-assessment-criteria-c-speaking"
 description: "Eleven original MYP Language Acquisition Criterion C questions on responding to multimodal texts, interaction, fluency and accuracy, with answers."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"

@@ -13,6 +13,7 @@ order: 54
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-language-acquisition-assessment-criteria"
+    subtopic: "ib-myp-language-acquisition-assessment-criteria-c-speaking"
 description: "Condensed MYP Language Acquisition Criterion C notes: speaking-task facts, stimulus method, interaction phrases, fluency and accuracy checks, self-test."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
