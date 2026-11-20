@@ -105,6 +105,18 @@ The shop can use this information to ask the supplier to fix the switch.
 
 A company finds that a baby toy may break dangerously. It has sold 5,000 toys at $35. Offering a full refund to every buyer would cost up to 5,000 × 35 = **$175,000**. This is expensive, but ignoring the danger could harm children, lead to legal action and destroy the company's reputation.
 
+## Case: a faulty blender
+
+*Invented example.* Tariq buys a blender for $48 from an online shop. After ten days it stops working.
+
+1. **Proof:** Tariq finds his order email and photographs the broken part.
+2. **Contact:** he writes to the shop with the order number and asks for a replacement.
+3. **Seller's response:** the shop's customer service team apologises, checks the order and the photograph, and sends a replacement with a prepaid return label. It records the complaint in a log.
+4. **Learning:** the log shows that 9 of the shop's 300 blenders sold this month have the same fault (9 ÷ 300 = 3%). The shop contacts the supplier and asks for the batch to be checked.
+5. **If the shop had refused:** Tariq could make a formal written complaint, use the maker's guarantee, ask his card provider for a refund and contact a consumer organisation. Court would be a last resort for such a small sum.
+
+The case shows how buyer and seller actions fit together. A good seller solves the problem quickly and uses the complaint to improve. A well-informed buyer follows the steps in order and keeps records.
+
 ## Annotated model answer
 
 **Question:** A customer bought a mobile phone that stopped working after three weeks. Explain **two** actions the customer could take to resolve the complaint. [4]

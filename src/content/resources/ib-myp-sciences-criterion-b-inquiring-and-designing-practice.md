@@ -110,7 +110,7 @@ Equipment available: 250 cm³ beaker, 10 cm³ measuring cylinder, 25 cm³ measur
 - Safety linked to the investigation: eye protection and careful handling of the acid [1].
 **[8]**
 
-**9.** Hazard 1: dilute hydrochloric acid can irritate the eyes and skin [1]. Precaution: wear eye protection and wash splashes with water [1]. Hazard 2: a spill or broken glassware (conical flask or syringe) [1]. Precaution (any one): stand to work, keep apparatus away from the edge of the bench, sweep up glass with a brush. Award one mark per hazard and precaution pair up to the total, with a third mark for a correct second pair or an extra precaution. **[3]**
+**9.** Hazard 1: dilute hydrochloric acid can irritate the eyes and skin [1]. Precaution: wear eye protection and rinse splashes with water [1]. Hazard 2 with a matching precaution, for example broken glassware from a conical flask or syringe, so keep apparatus away from the edge of the bench and sweep up glass with a brush [1]. **[3]**
 
 **10. (a)** Any three of: wing length, wing width, mass (paper clips), height of release, type of paper [1].
 **(b)** The independent variable is chosen and is measurable, for example the wing length, which can be measured with a ruler to the nearest millimetre [1]. It is a good choice because the effect on fall time can be timed with a stopwatch and the result is easy to measure [1]. Other factors are controlled by using the same paper type, the same mass (clip) and the same release height measured with a metre rule [1]. The same person releases and times each drop and several drops are done for each length [1]. **[5]**

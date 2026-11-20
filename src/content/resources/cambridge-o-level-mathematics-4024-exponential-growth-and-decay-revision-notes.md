@@ -120,6 +120,28 @@ Multiply the stages: $1 000 at 5% for 2 years then 3% for 3 years:
 
 Growth: value = P × (1 + r/100)ⁿ. Decay: value = P × (1 - r/100)ⁿ. These are the same as compound interest.
 
+## Doubling and halving tables
+
+| Periods n | 2ⁿ (doubling) | 0.5ⁿ (halving) |
+|---|---|---|
+| 1 | 2 | 0.5 |
+| 2 | 4 | 0.25 |
+| 3 | 8 | 0.125 |
+| 4 | 16 | 0.0625 |
+| 5 | 32 | 0.03125 |
+| 6 | 64 | 0.015625 |
+
+A quantity that doubles every period is multiplied by 2ⁿ after n periods. One that halves is multiplied by 0.5ⁿ. These are the quickest cases to do without a calculator.
+
+## Shape of the graph
+
+| Type | Shape | Starts at |
+|---|---|---|
+| Growth y = A × rⁿ, r > 1 | rises, getting steeper | A when n = 0 |
+| Decay y = A × rⁿ, 0 < r < 1 | falls, getting flatter | A when n = 0 |
+
+A decay graph never reaches zero, however long the time.
+
 ## Exam traps
 
 - A 5% rise has multiplier 1.05, not 1.5.

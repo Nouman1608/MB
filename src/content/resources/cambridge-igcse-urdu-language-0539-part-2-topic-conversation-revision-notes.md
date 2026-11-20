@@ -112,6 +112,25 @@ Use them once or twice, then answer fully.
 | Reading the card | put the card away after Part 1 |
 | Rehearsed answers | practise with a partner who changes the order |
 
+## A rough timeline for 3 to 4 minutes
+
+| Stage | What usually happens |
+|---|---|
+| First questions | easy ones about why you chose the topic and what it is |
+| Middle | opinions, reasons, comparisons about the topic |
+| Later | a change of direction, a hypothetical or a future question |
+
+You do not control the order, so be ready for any type at any time. If the first answers are full, later questions may become more demanding: this is a good sign.
+
+## Weekly practice drill
+
+1. Day 1: write ten questions about your topic.
+2. Day 2: answer five of them aloud using ARE.
+3. Day 3: a partner asks the questions in a new order.
+4. Day 4: record answers to the other five and listen for short replies.
+5. Day 5: a partner adds a surprise question and a follow-up.
+6. Day 6: do a full 3-minute conversation and give yourself a band.
+
 ## Key vocabulary
 
 | Urdu | English |

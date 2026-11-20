@@ -181,6 +181,18 @@ Multiply the stages in order, using the right multiplier and the right number of
 
 Use the power key. Enter the whole expression at once, such as 12000 × 1.025^10. Keep the full display until the end. Round money to the nearest cent, populations to whole numbers, and other values to 3 significant figures unless told otherwise.
 
+## The shape of exponential change
+
+Plot the value against the number of periods. A growth graph starts at A and rises more and more steeply, because each period adds more than the one before. A decay graph starts at A and falls quickly at first, then more and more slowly, because each period removes less than the one before. A decay graph never reaches zero, however long the time. These shapes link to the graphs of functions in the algebra and graphs topic.
+
+For doubling and halving, a short table helps you check results without a calculator:
+
+```
+n:      0    1    2    3    4     5
+2^n:    1    2    4    8    16    32
+0.5^n:  1  0.5 0.25 0.125 0.0625 0.03125
+```
+
 ## Exam technique
 
 - Write the multiplier before you calculate. This earns the method mark even if the arithmetic is wrong.

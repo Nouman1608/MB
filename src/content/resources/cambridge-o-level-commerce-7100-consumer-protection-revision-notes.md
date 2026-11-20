@@ -100,6 +100,23 @@ Condensed notes for sub-topic 6.3, Consumer protection: the reasons and the acti
 
 **How can a seller resolve a complaint?** Listen to the customer and check the fault, then offer a refund, repair or replacement quickly, and use the complaint to improve the product.
 
+## Developing a consumer protection point
+
+| Weak | Developed |
+|---|---|
+| "To protect customers" | "Buyers cannot test goods bought online, so protection ensures faulty goods can be returned for a refund" |
+| "Contact the shop" | "Contact the shop with the receipt as proof and ask for a repair or refund, which gives the seller a chance to put things right" |
+| "Give a refund" | "Refund the price and postage quickly so the customer keeps trust in the shop" |
+
+## Escalation ladder for a buyer
+
+| Step | If the problem is not solved, go to |
+|---|---|
+| Contact the seller with proof | Formal written complaint |
+| Formal written complaint | Guarantee or manufacturer |
+| Guarantee or manufacturer | Card provider or consumer organisation |
+| Card provider or consumer organisation | Legal action (last resort) |
+
 ## Exam traps
 
 - **Protection only for businesses.**
