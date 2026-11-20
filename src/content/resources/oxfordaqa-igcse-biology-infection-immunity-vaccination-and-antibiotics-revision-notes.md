@@ -121,7 +121,7 @@ A strong evaluation uses both columns and ends with a judgement.
 
 <figure class="topic-figure">
   <img src="/images/learning/biology/igcse-oxfordaqa-vaccination-memory.svg" width="900" height="1130" alt="Three steps: weakened pathogens or antigens go in; lymphocytes make antibodies; memory cells give long-term immunity. A sketch graph of antibody level against time shows a slow, small first response and, on meeting the same pathogen again, a fast, large second response. A note says the terms lymphocyte and memory cell are not required by OxfordAQA." loading="lazy">
-  <figcaption>Memory cells make the second response faster and larger.</figcaption>
+  <figcaption>Memory cells make the second response faster and larger. The term memory cell is beyond the OxfordAQA 9201 specification.</figcaption>
 </figure>
 
 

@@ -1,6 +1,6 @@
 # Practice-question gap report
 
-Generated 2026-11-19T16:38:39.210Z. Section 13 scope: practice-question coverage gaps for the
+Generated 2026-11-19T19:14:18.322Z. Section 13 scope: practice-question coverage gaps for the
 five flagship specifications only -- see src/utils/practice/gap-report.ts for the full
 rationale and docs/decision-log.md D-108 for what this deliberately does not attempt.
 
@@ -190,16 +190,9 @@ measure a subtopic-level gap against yet.
 
 ## Pearson Edexcel IGCSE Mathematics (4MA1, Specification Issue 2, November 2017)
 
-596 questions · 36/36 subtopics covered (100%)
+591 questions · 36/36 subtopics covered (100%)
 
 No zero-question subtopics.
-
-### Topic-tagged only, not subtopic-level (1)
-
-Real questions exist for these topics, but the source frontmatter doesn't say which
-subtopic -- excluded from both the gap list and the coverage count above.
-
-- 2. Equations, formulae and identities — edexcel-igcse-mathematics-algebraic-manipulation-practice (6 questions)
 
 ## AQA GCSE Biology (8461, For first teaching 2016)
 

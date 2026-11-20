@@ -171,7 +171,7 @@ a voltage — the basis of generators.
 </figure>
 
 
-## Transformers (Physics only)
+## Transformers (Physics only, Paper 2 only)
 
 A **transformer** changes the size of an alternating voltage using two
 coils with different numbers of turns wound around a shared core. The
@@ -242,7 +242,7 @@ transformers have some energy loss.
 ## Frequently asked questions
 
 **Which parts of Edexcel IGCSE magnetism are Physics only?**
-Electromagnet construction, the field patterns for a straight wire, flat coil and solenoid, the force on a moving charged particle, and all of the transformer content are marked P.
+Electromagnet construction, the field patterns for a straight wire, flat coil and solenoid, the force on a moving charged particle, and all of the transformer content are marked P. Physics only content is examined on Paper 2 only.
 
 **What affects the size of an induced voltage?**
 The induced voltage depends on factors such as the speed of relative motion, the strength of the magnetic field and the number of turns on the coil.

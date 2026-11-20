@@ -200,7 +200,7 @@ Order: mouth → oesophagus → stomach → duodenum → ileum → colon → rec
 |---|---|
 | Mouth | Chewing; salivary amylase |
 | Oesophagus | Peristalsis to stomach |
-| Stomach | Churning; protease; acid kills bacteria |
+| Stomach | Churning; protease; acid kills bacteria (not required by Edexcel 4BI1) |
 | Duodenum | Pancreatic enzymes and bile added |
 | Ileum | Digestion finished; absorption |
 | Colon | Water absorbed |
@@ -248,7 +248,7 @@ Order: mouth → oesophagus → stomach → duodenum → ileum → colon → rec
 
 <figure class="topic-figure">
   <img src="/images/learning/biology/igcse-shared-intl-gut-ph-enzymes.svg" width="900" height="1200" alt="The stomach is acidic because of hydrochloric acid, which kills microbes and gives the acid pH that pepsin needs. Food then enters the duodenum, where bile neutralises the acid and makes the contents alkaline for trypsin. A sketch graph of enzyme activity against pH shows pepsin most active in acid and trypsin most active in alkali. The names pepsin and trypsin are greyed as not required." loading="lazy">
-  <figcaption>Pepsin works in acid and trypsin in alkali, because bile neutralises the acid leaving the stomach.</figcaption>
+  <figcaption>Pepsin works in acid and trypsin in alkali, because bile neutralises the acid leaving the stomach. The names pepsin and trypsin are not required by Edexcel 4BI1.</figcaption>
 </figure>
 
 

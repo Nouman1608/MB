@@ -166,7 +166,7 @@ equation: 2Fe + 3Cl₂ → 2FeCl₃
 
 <figure class="topic-figure">
   <img src="/images/learning/chemistry/igcse-edexcel-reacting-masses.svg" width="900" height="990" alt="Three steps: 50 g divided by Mr 100 is 0.5 mol; the 1:1 ratio gives 0.5 mol CO2; 0.5 times 24 is 12 dm3 of CO2 at r.t.p. The gas volume step is marked Paper 2 only." loading="lazy">
-  <figcaption>Mass to moles, use the equation ratio, then moles to gas volume.</figcaption>
+  <figcaption>Mass to moles, use the equation ratio, then moles to gas volume. The gas volume step is Paper 2 only.</figcaption>
 </figure>
 
 

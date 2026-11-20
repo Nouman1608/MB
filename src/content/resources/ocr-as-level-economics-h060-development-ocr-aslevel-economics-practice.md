@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "development-ocr-aslevel-economics"
 description: "Original OCR AS Level Economics (H060) practice questions on economic sectors, sustainable development, growth and sustainability, GDP and the HDI, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-19
+reviewNote: "2026-11-19: credited to salman-ahmad (accountable teacher, D-379). The owner reports that the teachers reviewed this page (19 Nov 2026)."
 publishedDate: 2026-11-19
 featured: false
 ---

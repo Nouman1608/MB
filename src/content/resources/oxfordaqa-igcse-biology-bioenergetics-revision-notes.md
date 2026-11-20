@@ -88,7 +88,7 @@ Condensed for the final weeks. For the full explanation, use the
 
 <figure class="topic-figure">
   <img src="/images/learning/biology/igcse-oxfordaqa-sources-and-sinks.svg" width="900" height="1290" alt="A plant diagram: a mature photosynthesising leaf is a source releasing sucrose into the phloem; arrows show it moving up to the shoot tip, along to a fruit and down to roots, which are sinks that use or store it. Below, a young leaf is a sink and becomes a source when mature. The terms source and sink, the bottom panel and amino acids in phloem are noted as not required by OxfordAQA." loading="lazy">
-  <figcaption>Phloem carries sucrose from sources to sinks, and a leaf can be both at different times.</figcaption>
+  <figcaption>Phloem carries sucrose from sources to sinks, and a leaf can be both at different times. The terms source and sink are beyond the OxfordAQA 9201 specification.</figcaption>
 </figure>
 
 
@@ -147,7 +147,7 @@ Content marked B in this sub-topic includes the pacemaker and artificial pacemak
 
 <figure class="topic-figure">
   <img src="/images/learning/biology/igcse-shared-intl-circulation.svg" width="900" height="1290" alt="Top: in a fish the heart pumps blood to the gills, then on to the body and back, so blood passes through the heart once per circuit and pressure drops in the gills. Bottom: in a mammal the right side pumps deoxygenated blood to the lungs, oxygenated blood returns to the left side, which pumps it at high pressure to the body; blood passes through the heart twice per circuit. Left side of the heart is drawn on the right. The fish panel is greyed as not required." loading="lazy">
-  <figcaption>A fish heart is passed once per circuit; a mammal heart twice, with the two sides kept separate.</figcaption>
+  <figcaption>A fish heart is passed once per circuit; a mammal heart twice, with the two sides kept separate. The fish circulation is beyond the OxfordAQA 9201 specification.</figcaption>
 </figure>
 
 <figure class="topic-figure">

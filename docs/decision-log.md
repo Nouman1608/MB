@@ -16623,3 +16623,39 @@ Source: the owner's "Master Academic Quality Assurance, Content Authority & Sear
     - OxfordAQA: nephron part names, lymphocyte and memory cell, and commutator detail.
   - These rulings rest on what the specification leaves out, and each is cited in the SVG's description.
   - The page text was not changed, so some pages still teach content their figure now marks as not required. For example, cilia and mucus on the Edexcel gas-exchange notes, and mRNA on the OxfordAQA gene-to-protein pages.
+
+## D-509 - Owner's answers on the D-508 open points, and the next gap round (19 Nov 2026)
+
+- **IB DP Language A records: completed.**
+  - The owner uploaded the two IB subject guides:
+    - Language A: language and literature guide, SHA-256 d8d62319...;
+    - Language A: literature guide, SHA-256 67c292fd...;
+    - both first assessment 2021, published February 2019, updated May 2023.
+  - From the guides' assessment outlines:
+    - the Individual Oral is 40 marks and 15 minutes (a 10-minute prepared response and 5 minutes of questions), on both tiers;
+    - the HL Essay is 20 marks (1,200-1,500 words);
+    - Paper 1 is 20 marks at SL and 40 at HL;
+    - durations and weightings are unchanged.
+  - **Paper 2.** The guides print 30 marks, but the Literature record's 25 came from IB specimen papers for the exams from May 2026. The owner chose 25 for both courses (AskUserQuestion, 19 Nov 2026), and both guides give identical Paper 2 criteria.
+  - The records' notes give both figures. Both records are now `VERIFIED_COMPLETE`: all 166 combinations are complete.
+  - No IB Language A page states a Paper 2 total, so no page changed.
+- **4MA1 duplicate practice sets: merged** on the owner's instruction ("merge them"). The smaller set's distinct questions move into `edexcel-igcse-maths-4ma1-use-of-symbols-and-algebraic-manipulation-practice`, and the old slug redirects to it.
+- **Figure rulings.** The owner reports that the teacher confirmed the "not required by <board>" rulings in the D-508 redraws, including the two AQA 8461 Higher-only rulings.
+- **Urdu notes.** The owner says the two open Urdu points on the 0539 speaking practice page "are fine". They are closed in `pending-review-2026-11-19.json`, and the text is unchanged.
+- **Teacher review of the five new pages.** The owner reports the teachers reviewed them. They are credited under D-379, each to the reviewer most credited for its course and never the author: the three H060 Development pages to salman-ahmad, 0539 speaking practice to farheen-zehra, and IB Geography fieldwork practice to azam-siddique. No page is review-pending now.
+- **4MA1 merge (done).**
+  - The smaller set held 6 questions, not 12 (the larger held 12). One distinct question, on the zero index and x^(1/2) as a root, moved in as Q13; the other five duplicated larger-set questions and were dropped.
+  - The bank total is now 591 (was 596) and the Higher-only count 176 (was 181); both are re-pinned.
+  - The old slug redirects (`CONSOLIDATED_RESOURCES`), and 11 pages' links were updated.
+- **Page text aligned with the confirmed figure rulings.** 72 AQA, OCR, Edexcel and OxfordAQA science pages that use the redrawn SVGs now carry short notes beside passages the figures mark "not required by <board>" (for example cilia and mucus on the 4BI1 gas-exchange pages, stability and thermal expansion on the 4PH1 revision notes, the mRNA steps on the 9201 gene-to-protein pages and the split ring on the 9203 motor pages). Teaching, worked examples and questions are kept. Unlabelled "Paper 2 only" and "Higher tier only" content got the page's own label. Cambridge pages and pages in `teacher-verifications.json` were not edited.
+  - The OCR J248 electrolysis pages said no C3.4 statement is Higher Tier only. The specification prints "half equations" in C3.4d in bold, so the half equations are now labelled Higher Tier only, as the figures already showed.
+  - The 4PH1 study guides label P content "Physics only"; their headings and FAQ now also say it is examined on Paper 2 only.
+  - Follow-up checks found two more pages with the same gaps:
+    - the J248 electrolysis practice set said every question suits both tiers; its intro is corrected and each half-equation part is marked *(Higher Tier only)*;
+    - the J249 matter study guide and revision notes now mark liquid pressure (P1.3i, P1.3j and p = h ρ g, bold in the specification) as Higher Tier only.
+- **Maths practice compared with the June 2025 papers.** Six pages were checked question by question against the owner's June 2025 Cambridge papers in OneDrive. These were 9709 Papers 12, 32, 42 and 52 and 4024 Papers 12 and 22.
+  - OneDrive holds only the mark schemes for the four 9709 papers, not the question papers. Those pages were compared on numbers, functions and working; wording could not be checked.
+  - 55 questions were checked. 40 are original. 15 copied a real question's numbers or set-up too closely and were rewritten with new set-ups and the same tariffs. Every answer was recomputed.
+    - Pure 1: 2 rewritten; Pure 3 trigonometry, vectors and complex numbers: 1; Mechanics: 4; Probability and Statistics 1: 1; O Level Number: 7.
+    - Pure 3 algebra and calculus needed no change.
+  - No paper text was copied into the repository.

@@ -161,7 +161,7 @@ So 4960 bacteria did not. Methods that allow the successful ones to be found and
 
 <figure class="topic-figure">
   <img src="/images/learning/biology/igcse-oxfordaqa-gm-steps.svg" width="900" height="1260" alt="Six steps to make a human protein in bacteria. a: restriction enzymes cut out the human gene leaving sticky ends. b: the same enzymes cut a plasmid leaving complementary sticky ends. c: the gene is inserted and DNA ligase joins it, making a recombinant plasmid. d: plasmids are put into bacteria. e: bacteria multiply. f: bacteria make the human protein. The names restriction enzyme, sticky ends and ligase are noted as not required by OxfordAQA." loading="lazy">
-  <figcaption>Cut gene and plasmid with the same enzymes, join with ligase, put into bacteria, multiply, collect protein.</figcaption>
+  <figcaption>Cut gene and plasmid with the same enzymes, join with ligase, put into bacteria, multiply, collect protein. The name ligase is beyond the OxfordAQA 9201 specification.</figcaption>
 </figure>
 
 

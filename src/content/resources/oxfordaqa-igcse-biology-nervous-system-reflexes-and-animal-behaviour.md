@@ -89,7 +89,7 @@ An **effector** is either a muscle or a gland. A muscle responds by contracting.
 
 <figure class="topic-figure">
   <img src="/images/learning/biology/igcse-oxfordaqa-synapse.svg" width="900" height="1010" alt="A schematic synapse: an impulse in neurone 1 makes vesicles release neurotransmitter into the synaptic gap, the molecules diffuse across, bind receptor proteins on neurone 2 and start a new impulse. Only neurone 1 releases neurotransmitter and only neurone 2 has receptors, so the impulse goes one way. Steps 2 and 3 and the one-direction note are greyed as not required by OxfordAQA." loading="lazy">
-  <figcaption>Neurotransmitter crosses the gap and binds receptors, so impulses go one way only.</figcaption>
+  <figcaption>Neurotransmitter crosses the gap and binds receptors, so impulses go one way only. These details are beyond the OxfordAQA 9201 specification, which says only that a chemical released at the synapse causes an impulse in the next neurone.</figcaption>
 </figure>
 
 

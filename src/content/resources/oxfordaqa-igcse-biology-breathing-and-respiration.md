@@ -167,7 +167,7 @@ Plants and animals both respire aerobically without a break, and a plant does so
 
 <figure class="topic-figure">
   <img src="/images/learning/biology/igcse-oxfordaqa-oxygen-debt.svg" width="900" height="1290" alt="Lactic acid built up in the muscles is carried by the blood, driven by a fast heart rate, to the liver, where it is broken down by aerobic respiration using extra oxygen supplied by deeper, faster breathing. Charts of the cyclist example show heart rate 64, 172, 118, 66 and breathing rate 14, 40, 26, 15 at rest, end of sprint, 5 and 15 minutes after. A note says the liver's role is not required by OxfordAQA." loading="lazy">
-  <figcaption>Fast heart rate moves lactic acid to the liver and fast breathing supplies the oxygen to break it down.</figcaption>
+  <figcaption>Fast heart rate moves lactic acid to the liver and fast breathing supplies the oxygen to break it down. The liver's role is beyond the OxfordAQA 9201 specification.</figcaption>
 </figure>
 
 

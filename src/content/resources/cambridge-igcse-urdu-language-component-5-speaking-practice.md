@@ -15,8 +15,10 @@ syllabusTopics:
     topic: "component-5-speaking-0539"
 description: "Original practice for the optional 0539 Speaking test: presentation, topic conversation and general conversation prompts, skills drills, model answers in Urdu and marking guidance."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNote: "Needs an Urdu specialist to check every Urdu prompt and model answer for accuracy and naturalness. Test structure, part timings, the 20-mark tariff for each part, the cue-card and illustrative-material rules and the Part 3 topic rule were read from the 2025-2027 syllabus PDF (Version 2) on 2026-11-19; the drill tariffs are a Marlbridge practice convention."
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-19
+reviewNote: "Needs an Urdu specialist to check every Urdu prompt and model answer for accuracy and naturalness. Test structure, part timings, the 20-mark tariff for each part, the cue-card and illustrative-material rules and the Part 3 topic rule were read from the 2025-2027 syllabus PDF (Version 2) on 2026-11-19; the drill tariffs are a Marlbridge practice convention. 2026-11-19: credited to farheen-zehra (accountable teacher, D-379). The owner reports that the teachers reviewed this page (19 Nov 2026)."
 publishedDate: 2026-11-19
 featured: false
 ---

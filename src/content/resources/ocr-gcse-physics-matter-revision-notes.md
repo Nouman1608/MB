@@ -42,7 +42,7 @@ rho = m / V         kg m^-3 or g cm^-3
 
 <figure class="topic-figure">
   <img src="/images/learning/physics/gcse-ocr-float-or-sink.svg" width="900" height="880" alt="A block of density 0.80 g/cm3 floats in water with 80% submerged, a stone of 2.7 g/cm3 sinks. In a second beaker oil of 0.92 g/cm3 floats on water of 1.0 g/cm3 (floating and sinking, P1.3h, is Higher Tier only)." loading="lazy">
-  <figcaption>An object floats if its density is less than the liquid's; a less dense liquid floats on a denser one.</figcaption>
+  <figcaption>An object floats if its density is less than the liquid's; a less dense liquid floats on a denser one. Floating and sinking (P1.3h) is Higher Tier only.</figcaption>
 </figure>
 
 
@@ -155,7 +155,7 @@ p1 V1 = p2 V2        (constant temperature)
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-physics-matter--06-mat-liquid-pressure.webp" width="900" height="746" alt="A water tank with sideways arrows at depths 0.5, 1.0 and 2.0 m, with lengths proportional to the pressures 5000, 10 000 and 20 000 Pa. The difference between 0.5 m and 2.0 m is 15 000 Pa." loading="lazy">
-  <figcaption>p = h rho g: pressure grows in proportion to depth.</figcaption>
+  <figcaption>p = h rho g: pressure grows in proportion to depth. Higher tier only (P1.3i, P1.3j).</figcaption>
 </figure>
 
 <figure class="topic-figure">

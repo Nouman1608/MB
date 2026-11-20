@@ -30,7 +30,7 @@ reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, 
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-The eleven questions here cover **C3.4 Electrolysis** from the J248 specification for OCR GCSE (9–1) Chemistry A (Gateway Science), Version 4.0 (August 2026). Together they test statements C3.4a–C3.4e, mathematical learning outcome CM3.4i and the PAG C2 electrolysis practical. Both tiers are assessed on all of C3.4, so each question suits Foundation and Higher candidates.
+The eleven questions here cover **C3.4 Electrolysis** from the J248 specification for OCR GCSE (9–1) Chemistry A (Gateway Science), Version 4.0 (August 2026). Together they test statements C3.4a–C3.4e, mathematical learning outcome CM3.4i and the PAG C2 electrolysis practical. Both tiers are assessed on C3.4 except the half equations in C3.4d, which the specification prints in bold (Higher Tier only); parts that ask for half equations are marked *(Higher Tier only)*, and every other part suits Foundation and Higher candidates.
 
 If the topic is new to you, read the [Electrolysis study guide](/resources/ocr-gcse-chemistry-electrolysis/) first; for a quick refresh, use the [Electrolysis revision notes](/resources/ocr-gcse-chemistry-electrolysis-revision-notes/). To see how C3.4 sits within the course, open the [J248 course hub](/boards/ocr/gcse/chemistry/) or the [J248 checklist](/checklists/ocr/gcse/chemistry/).
 
@@ -51,7 +51,7 @@ Explain what is wrong with this statement and give the correct explanation. **[3
 **4.** A sample of a molten metal chloride is electrolysed until it is used up. The cathode collects 2.38 g of tin, and 1.42 g of chlorine is produced at the anode. (Ar: Sn = 119, Cl = 35.5)
 
 **(a)** Work out the empirical formula of this chloride. **[3]**
-**(b)** Give the half equation for the change at the negative electrode. **[1]**
+**(b)** *(Higher Tier only)* Give the half equation for the change at the negative electrode. **[1]**
 
 **5.** For each solution below, electrolysed with inert electrodes, predict what forms at each electrode. Give a reason for each cathode product.
 
@@ -66,7 +66,7 @@ Explain what is wrong with this statement and give the correct explanation. **[3
 **(c)** Explain, in terms of the ions present, why sodium is not formed at the cathode. **[2]**
 **(d)** Name the compound that builds up in the solution. **[1]**
 
-**7.** **(a)** Complete and balance this half equation for the formation of oxygen at the anode.
+**7.** *(Higher Tier only)* **(a)** Complete and balance this half equation for the formation of oxygen at the anode.
 OH⁻ → O₂ + H₂O + e⁻ **[2]**
 **(b)** Write the half equation for the formation of copper at the cathode. **[1]**
 **(c)** State which of the half equations in (a) and (b) happens at the positive electrode. **[1]**
@@ -84,19 +84,19 @@ OH⁻ → O₂ + H₂O + e⁻ **[2]**
 | anode | 30.20 | 29.56 |
 
 **(a)** Calculate the mass change of each electrode. **[2]**
-**(b)** Explain the change at the cathode. Include a half equation. **[2]**
+**(b)** *(Higher Tier only)* Explain the change at the cathode. Include a half equation. **[2]**
 **(c)** The two changes should be equal. Suggest one practical reason why they are not. **[1]**
 **(d)** Calculate the percentage increase in mass of the cathode. Give your answer to 3 significant figures. **[1]**
 
 **10.** Potassium nitrate solution is electrolysed with platinum electrodes and the gases are collected in measuring tubes.
 
 **(a)** Name the two gases produced, stating which electrode gives each. **[2]**
-**(b)** 54 cm³ of gas is collected at the cathode. Use the half equations to predict the volume of gas at the anode. **[1]**
+**(b)** *(Higher Tier only)* 54 cm³ of gas is collected at the cathode. Use the half equations to predict the volume of gas at the anode. **[1]**
 **(c)** The measured anode volume is slightly less than predicted. Suggest why. **[1]**
 
 **11.** A technician wants to show a class what forms when concentrated lithium chloride solution is electrolysed with inert electrodes.
 
-Describe how the experiment should be set up and carried out safely, and explain the results. Include the products at each electrode, how each would be identified, half equations for both electrode reactions, and what is left in solution. **[8]**
+Describe how the experiment should be set up and carried out safely, and explain the results. Include the products at each electrode, how each would be identified, half equations for both electrode reactions (Higher Tier only), and what is left in solution. **[8]**
 
 ## Answers
 

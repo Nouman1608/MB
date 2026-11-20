@@ -18,27 +18,13 @@ review.
 
 | Teacher | Profile slug | Pages eligible |
 | --- | --- | --- |
-| Salman Ahmad | `salman-ahmad` | 3 |
-| Farheen Zehra | `farheen-zehra` | 1 |
-| *No eligible teacher* | — | 1 |
 
-5 review-pending pages in total; a page can appear under more than one teacher.
+| *No eligible teacher* | — | 0 |
 
-## Salman Ahmad (`salman-ahmad`) — 3
+0 review-pending pages in total; a page can appear under more than one teacher.
 
-| Resource | Course | Type | Verification | Also eligible |
-| --- | --- | --- | --- | --- |
-| `ocr-as-level-economics-h060-development-ocr-aslevel-economics-practice` | ocr as-level economics (H060) | practice-questions | VERIFIED | 0 |
-| `ocr-as-level-economics-h060-development-ocr-aslevel-economics-revision-notes` | ocr as-level economics (H060) | revision-notes | VERIFIED | 0 |
-| `ocr-as-level-economics-h060-development-ocr-aslevel-economics` | ocr as-level economics (H060) | study-guides | VERIFIED | 0 |
 
-## Farheen Zehra (`farheen-zehra`) — 1
-
-| Resource | Course | Type | Verification | Also eligible |
-| --- | --- | --- | --- | --- |
-| `cambridge-igcse-urdu-language-component-5-speaking-practice` | cambridge igcse urdu-language (0539) | practice-questions | VERIFIED_AFTER_CORRECTION | 0 |
-
-## No eligible teacher — 1
+## No eligible teacher — 0
 
 These pages have no designated reviewer whose profile covers their board(s) and subject.
 Signing them off needs a teacher profile to be updated (or a new reviewer designated)
@@ -48,4 +34,4 @@ is not a review and does not change their status.
 
 | Resource | Course | Type | Verification | Also eligible |
 | --- | --- | --- | --- | --- |
-| `ib-ib-dp-geography-fieldwork-internal-assessment-practice` | ib ib-dp geography (DP Geography) | practice-questions | PARTIAL_UNVERIFIABLE | 0 |
+

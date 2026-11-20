@@ -70,7 +70,7 @@ The specification also lists **fundamental biological concepts** you must be abl
 
 <figure class="topic-figure">
   <img src="/images/learning/biology/gcse-shared-gene-to-protein.svg" width="900" height="1120" alt="Higher tier only. The gene stays in the nucleus; a copy of it, mRNA, is made and moves out through a pore to the cytoplasm; a ribosome joins amino acids in the order set by the mRNA bases; the chain folds into a protein whose shape decides what it does." loading="lazy">
-  <figcaption>mRNA carries the gene’s base sequence to a ribosome, which sets the order of amino acids in the protein.</figcaption>
+  <figcaption>Higher tier only: mRNA carries the gene’s base sequence to a ribosome, which sets the order of amino acids in the protein.</figcaption>
 </figure>
 
 

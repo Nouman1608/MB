@@ -137,7 +137,7 @@ Solids and liquids have similar densities because their particles are close toge
 
 <figure class="topic-figure">
   <img src="/images/learning/physics/gcse-ocr-float-or-sink.svg" width="900" height="880" alt="A block of density 0.80 g/cm3 floats in water with 80% submerged, a stone of 2.7 g/cm3 sinks. In a second beaker oil of 0.92 g/cm3 floats on water of 1.0 g/cm3 (floating and sinking, P1.3h, is Higher Tier only)." loading="lazy">
-  <figcaption>An object floats if its density is less than the liquid's; a less dense liquid floats on a denser one.</figcaption>
+  <figcaption>An object floats if its density is less than the liquid's; a less dense liquid floats on a denser one. Floating and sinking (P1.3h) is Higher Tier only.</figcaption>
 </figure>
 
 
@@ -200,7 +200,7 @@ p1 V1 = p2 V2      at constant temperature
 
 ## Pressure in liquids and the atmosphere
 
-Pressure in a liquid increases with **depth** and with the liquid's **density**, because a deeper or denser column of liquid above a point has more weight pressing down on it:
+*Higher tier only (P1.3i, P1.3j and the equation p = h ρ g are in bold in the specification).* Pressure in a liquid increases with **depth** and with the liquid's **density**, because a deeper or denser column of liquid above a point has more weight pressing down on it:
 
 ```
 p = h rho g       (pressure = depth x density x gravitational field strength)
@@ -210,7 +210,7 @@ The **pressure difference** between two depths can be found by applying this equ
 
 The **atmosphere** can be modelled as a layer of air surrounding the Earth whose density decreases with altitude. Atmospheric pressure at a point equals the weight of the column of air above it, so atmospheric pressure **decreases with height** as there is progressively less air, and less dense air, above.
 
-**Upthrust** is the net upward force on an object in a fluid, caused by the pressure at the bottom of the object being greater than the pressure at the top (since the bottom is deeper). An object **floats** when the upthrust acting on it equals its weight; it **sinks** if its weight exceeds the maximum upthrust the fluid can provide.
+**Higher Tier only.** **Upthrust** is the net upward force on an object in a fluid, caused by the pressure at the bottom of the object being greater than the pressure at the top (since the bottom is deeper). An object **floats** when the upthrust acting on it equals its weight; it **sinks** if its weight exceeds the maximum upthrust the fluid can provide.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-physics-matter--07-upthrust.webp" width="900" height="1270" alt="A 0.10 m cube 0.20 m under water: 2000 Pa on its top face gives 20 N down and 3000 Pa on its bottom face gives 30 N up, so there is a net 10 N upthrust equal to the weight of water displaced. A block of density 800 kg/m3 floats with weight equal to upthrust; a block of 2700 kg/m3 sinks because its weight 27 N exceeds the 10 N maximum upthrust." loading="lazy">
@@ -219,7 +219,7 @@ The **atmosphere** can be modelled as a layer of air surrounding the Earth whose
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ocr-gcse-physics-matter--06-mat-liquid-pressure.webp" width="900" height="746" alt="A water tank with sideways arrows at depths 0.5, 1.0 and 2.0 m, with lengths proportional to the pressures 5000, 10 000 and 20 000 Pa. The difference between 0.5 m and 2.0 m is 15 000 Pa." loading="lazy">
-  <figcaption>p = h rho g: pressure grows in proportion to depth.</figcaption>
+  <figcaption>p = h rho g: pressure grows in proportion to depth. Higher tier only (P1.3i, P1.3j).</figcaption>
 </figure>
 
 <figure class="topic-figure">
@@ -255,7 +255,7 @@ Using E = m c delta-theta during a change of state, where temperature is not cha
 - Explain gas pressure in terms of collisions and apply p1 V1 = p2 V2.
 - Describe how the model of the atom developed from Dalton to Bohr, and state the order-of-magnitude size of an atom.
 - Apply p = h rho g to find pressure and pressure differences in a liquid, and explain why atmospheric pressure decreases with height.
-- Explain floating and sinking in terms of upthrust and weight.
+- Explain floating and sinking in terms of upthrust and weight (Higher Tier only).
 
 ## Frequently asked questions
 

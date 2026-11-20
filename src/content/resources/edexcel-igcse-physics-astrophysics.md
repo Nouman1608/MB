@@ -165,7 +165,7 @@ magnitude), revealing patterns such as the main sequence band.
 </figure>
 
 
-## Cosmology and the Big Bang (Physics only)
+## Cosmology and the Big Bang (Physics only, Paper 2 only)
 
 The **Big Bang theory** proposes the universe originated from an
 extremely small, dense, hot state and has been expanding ever since. Two
@@ -231,7 +231,7 @@ apparent brightness (brightness as actually observed from Earth)**.
 ## Frequently asked questions
 
 **Which parts of Edexcel IGCSE astrophysics are Physics only?**
-Statements marked P are Physics-only content. They include absolute magnitude, the Hertzsprung-Russell diagram, and all of the cosmology sub-topic on red-shift and the Big Bang.
+Statements marked P are Physics-only content. They include absolute magnitude, the Hertzsprung-Russell diagram, and all of the cosmology sub-topic on red-shift and the Big Bang. Physics only content is examined on Paper 2 only.
 
 **Does the 4PH1 specification name the stages for a massive star?**
 No. The outcome for stars much more massive than the Sun is a single general statement. The specification names four stages only for a Sun-like star: nebula, main sequence star, red giant and white dwarf.

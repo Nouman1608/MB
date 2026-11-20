@@ -104,7 +104,7 @@ You name compounds with up to six carbon atoms. The stem gives the longest carbo
 
 <figure class="topic-figure">
   <img src="/images/learning/chemistry/igcse-edexcel-locant-numbers.svg" width="900" height="1150" alt="Propan-1-ol and propan-2-ol, and butan-1-ol and butan-2-ol, with carbons numbered along the chain and the carbon carrying -OH highlighted. The whole figure is marked Paper 2 only, and propan-2-ol and butan-2-ol are marked not required by Edexcel." loading="lazy">
-  <figcaption>The number says which carbon carries the -OH.</figcaption>
+  <figcaption>The number says which carbon carries the -OH. Alcohols are Paper 2 only; propan-2-ol and butan-2-ol are not required by Edexcel 4CH1.</figcaption>
 </figure>
 
 <figure class="topic-figure">

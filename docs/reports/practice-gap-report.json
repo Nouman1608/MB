@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T16:38:39.210Z",
+  "generatedAt": "2026-11-19T19:14:18.322Z",
   "reports": [
     {
       "code": "0620",
@@ -506,23 +506,14 @@
       "qualificationSlug": "igcse",
       "subjectSlug": "mathematics",
       "syllabusSeries": "Specification Issue 2, November 2017",
-      "totalQuestions": 596,
+      "totalQuestions": 591,
       "totalSubtopics": 36,
       "coveredSubtopics": 36,
       "coveragePct": 100,
       "gaps": [],
       "thin": [],
       "topicsWithoutTaxonomy": [],
-      "topicOnlyTagged": [
-        {
-          "topicNumber": 2,
-          "topicName": "Equations, formulae and identities",
-          "topicSlug": "equations-formulae-and-identities-edexcel-igcse-maths",
-          "resourceSlug": "edexcel-igcse-mathematics-algebraic-manipulation-practice",
-          "resourceTitle": "Pearson Edexcel IGCSE Mathematics: Use of Symbols and Algebraic Manipulation — Practice Questions (4MA1)",
-          "questionCount": 6
-        }
-      ]
+      "topicOnlyTagged": []
     },
     {
       "code": "8461",

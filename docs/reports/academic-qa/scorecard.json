@@ -3,19 +3,19 @@
   "totals": {
     "rubricVersion": "1.0.0",
     "scope": "src/content/resources (articles and the AP library are not in scope for v1)",
-    "resources": 16064,
+    "resources": 16063,
     "qaState": {
       "BLOCKED": 0,
       "REVERIFICATION_REQUIRED": 0,
       "REVISION_REQUIRED": 0,
       "ACADEMIC_REVIEW_PENDING": 0,
       "VERIFIED_APPROVED": 4,
-      "AUTOMATED_CHECK_COMPLETE": 16060,
+      "AUTOMATED_CHECK_COMPLETE": 16059,
       "NOT_ASSESSED": 0
     },
     "scoreStatus": {
       "COMPLETE": 4,
-      "NOT_SCORED": 16060
+      "NOT_SCORED": 16059
     },
     "withCompleteCurrentScore": 4,
     "meanScore": 92.9,
@@ -30,11 +30,11 @@
     "needingRevision": 0,
     "withOpenHardStop": 0,
     "verificationKinds": {
-      "automatedStructuralPass": 15454,
+      "automatedStructuralPass": 15453,
       "automatedStructuralWarn": 610,
       "automatedStructuralFail": 0,
       "repositorySpecificationCheck": 785,
-      "accountableTeacherCredited": 16050,
+      "accountableTeacherCredited": 16054,
       "aiAssistedAssessmentCurrent": 4,
       "humanAssessmentCurrent": 0,
       "documentedTeacherVerification": 4,
@@ -45,7 +45,7 @@
       "REPO_PARTIAL_UNVERIFIABLE": 154,
       "REPO_VERIFIED": 588,
       "REPO_VERIFIED_AFTER_CORRECTION": 43,
-      "TEACHER_CREDITED": 15270
+      "TEACHER_CREDITED": 15269
     },
     "findingsOpenBySeverity": {
       "advisory": 5,
@@ -59,7 +59,7 @@
     "riskTier": {
       "4": 154,
       "5": 219,
-      "6": 5182,
+      "6": 5181,
       "7": 5202,
       "8": 5307
     },
@@ -100,13 +100,13 @@
       "scored": 3
     },
     "edexcel": {
-      "resources": 1842,
+      "resources": 1841,
       "BLOCKED": 0,
       "REVERIFICATION_REQUIRED": 0,
       "REVISION_REQUIRED": 0,
       "ACADEMIC_REVIEW_PENDING": 0,
       "VERIFIED_APPROVED": 0,
-      "AUTOMATED_CHECK_COMPLETE": 1842,
+      "AUTOMATED_CHECK_COMPLETE": 1841,
       "NOT_ASSESSED": 0,
       "scored": 0
     },
@@ -201,13 +201,13 @@
       "scored": 0
     },
     "igcse": {
-      "resources": 4148,
+      "resources": 4147,
       "BLOCKED": 0,
       "REVERIFICATION_REQUIRED": 0,
       "REVISION_REQUIRED": 0,
       "ACADEMIC_REVIEW_PENDING": 0,
       "VERIFIED_APPROVED": 2,
-      "AUTOMATED_CHECK_COMPLETE": 4146,
+      "AUTOMATED_CHECK_COMPLETE": 4145,
       "NOT_ASSESSED": 0,
       "scored": 2
     },
@@ -247,13 +247,13 @@
       "scored": 0
     },
     "practice-questions": {
-      "resources": 5227,
+      "resources": 5226,
       "BLOCKED": 0,
       "REVERIFICATION_REQUIRED": 0,
       "REVISION_REQUIRED": 0,
       "ACADEMIC_REVIEW_PENDING": 0,
       "VERIFIED_APPROVED": 2,
-      "AUTOMATED_CHECK_COMPLETE": 5225,
+      "AUTOMATED_CHECK_COMPLETE": 5224,
       "NOT_ASSESSED": 0,
       "scored": 2
     },
@@ -513,13 +513,13 @@
       "scored": 0
     },
     "mathematics": {
-      "resources": 1679,
+      "resources": 1678,
       "BLOCKED": 0,
       "REVERIFICATION_REQUIRED": 0,
       "REVISION_REQUIRED": 0,
       "ACADEMIC_REVIEW_PENDING": 0,
       "VERIFIED_APPROVED": 0,
-      "AUTOMATED_CHECK_COMPLETE": 1679,
+      "AUTOMATED_CHECK_COMPLETE": 1678,
       "NOT_ASSESSED": 0,
       "scored": 0
     },

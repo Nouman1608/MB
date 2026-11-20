@@ -71,7 +71,7 @@ Electrolysis uses a lot of electricity, so it costs more. It is used only when c
 | Iron(III) oxide reduced | Fe₂O₃ + 3CO → 2Fe + 3CO₂ |
 
 - **Iron(III) oxide** is reduced (loses oxygen). Carbon monoxide is oxidised and is the **reducing agent**.
-- Detailed knowledge of the blast furnace is not required.
+- Detailed knowledge of the blast furnace is not required, including how carbon monoxide forms from coke.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-extraction-and-uses-of-metals--04-steels-carbon-content.webp" width="900" height="1000" alt="A scale of carbon content from 0 to 4 percent. Low-carbon steel (up to 0.3%) is strong, malleable and cheap but rusts; high-carbon steel (0.6 to 1.0%) is very hard but brittle; blast-furnace iron (about 4%) is brittle. Stainless steel has at least 10.5% chromium and resists corrosion." loading="lazy">
@@ -80,7 +80,7 @@ Electrolysis uses a lot of electricity, so it costs more. It is used only when c
 
 <figure class="topic-figure">
   <img src="/images/learning/chemistry/igcse-edexcel-iron-steps.svg" width="900" height="1030" alt="Ball models and balanced equations for steps 1-3: coke burns to carbon dioxide, carbon dioxide and more coke make carbon monoxide, and carbon monoxide reduces iron(III) oxide to iron. The whole figure is marked Paper 2 only, and steps 1 and 2 are marked not required by Edexcel." loading="lazy">
-  <figcaption>Carbon monoxide, made from coke, does the reducing of iron oxide.</figcaption>
+  <figcaption>Carbon monoxide, made from coke, does the reducing of iron oxide. How the carbon monoxide forms is not required by Edexcel 4CH1.</figcaption>
 </figure>
 
 
@@ -95,6 +95,8 @@ Electrolysis uses a lot of electricity, so it costs more. It is used only when c
 | Anode (+) | 2O²⁻ → O₂ + 4e⁻ (oxidation) |
 | Anodes replaced | Oxygen reacts with the hot carbon anodes to form CO₂, so they burn away |
 | Main cost | Electricity |
+
+*Cryolite and the burning carbon anodes are not required by the Edexcel 4CH1 specification (2.24C: detailed knowledge of extracting a specific metal is not required); included as background.*
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/edexcel-igcse-chemistry-4ch1-extraction-and-uses-of-metals--03-uses-aluminium-copper.webp" width="900" height="1135" alt="Six rows pair a property with a use: aluminium for aircraft bodies, overhead cables and drinks cans; copper for wiring, water pipes and saucepan bases." loading="lazy">
@@ -118,7 +120,7 @@ Electrolysis uses a lot of electricity, so it costs more. It is used only when c
 
 <figure class="topic-figure">
   <img src="/images/learning/chemistry/igcse-edexcel-aluminium-cell.svg" width="900" height="1080" alt="An electrolysis cell: carbon anodes dip into molten cryolite containing dissolved aluminium oxide. Al3+ ions move to the cathode and form molten aluminium; O2- ions go to the anodes and form oxygen, which burns the carbon anodes away as carbon dioxide. The whole figure is marked Paper 2 only; the cryolite note and the burning-anode box are marked not required by Edexcel." loading="lazy">
-  <figcaption>Aluminium oxide is dissolved in molten cryolite and electrolysed; the carbon anodes burn away and are replaced.</figcaption>
+  <figcaption>Aluminium oxide is dissolved in molten cryolite and electrolysed; the carbon anodes burn away and are replaced. Cryolite and the burning anodes are not required by Edexcel 4CH1.</figcaption>
 </figure>
 
 
@@ -221,7 +223,7 @@ Mr = 2(63.5) + 32 = 159
 3. Where does carbon go in the reactivity series?
 4. Zinc oxide is heated with carbon. Name the products and state which substance is reduced.
 5. Explain why aluminium is extracted by electrolysis, not by heating its oxide with carbon. Why is this method expensive?
-6. Why is aluminium oxide dissolved in cryolite?
+6. Why is aluminium oxide dissolved in cryolite? *(Cryolite is not required by Edexcel 4CH1.)*
 7. Write the half-equation at the cathode in aluminium extraction.
 8. Calculate the mass of iron that could be obtained from 400 tonnes of Fe₂O₃. (Ar: Fe = 56, O = 16)
 9. Calculate the percentage by mass of zinc in zinc oxide, ZnO. (Ar: Zn = 65, O = 16)
@@ -249,8 +251,8 @@ Mr = 2(63.5) + 32 = 159
 - Saying electrolysis is used "because aluminium is reactive" with no comparison with carbon.
 - Putting carbon above aluminium, or below zinc.
 - Writing "iron is reduced" instead of "iron(III) oxide is reduced".
-- Missing the reason the anodes are replaced: oxygen reacts with the carbon anodes to form carbon dioxide.
-- Writing "aluminium oxide is melted" without cryolite, or saying cryolite is a catalyst.
+- Missing the reason the anodes are replaced: oxygen reacts with the carbon anodes to form carbon dioxide (not required by Edexcel 4CH1).
+- Writing "aluminium oxide is melted" without cryolite, or saying cryolite is a catalyst (cryolite is not required by Edexcel 4CH1).
 - Giving a use without the property, or a property without linking it to the use.
 - Writing "aluminium is light" instead of "low density".
 - Saying alloy atoms "stop the layers sliding" rather than making sliding harder; leaving out "different-sized atoms".
@@ -264,6 +266,8 @@ Carbon sits between aluminium and zinc in the reactivity series. Metals below ca
 
 **Why is aluminium oxide dissolved in molten cryolite?**
 Aluminium oxide melts above 2000 °C, but a solution in molten cryolite works below 1000 °C, which saves energy. Cryolite is not a catalyst, and saying the oxide is simply melted misses the point.
+
+*Cryolite is not required by the Edexcel 4CH1 specification; included as background.*
 
 **What are the three types of steel in Edexcel International GCSE Chemistry (4CH1)?**
 Low-carbon (mild) steel is strong, malleable and cheap but rusts; high-carbon steel is very hard and strong but brittle; stainless steel contains chromium and resists corrosion. As a memory hook, more carbon makes steel harder but more brittle.

@@ -137,7 +137,7 @@ p = hρg = 5.0 × 1000 × 9.8 = 49,000 Pa
 </figure>
 
 
-## Change of state (Physics only)
+## Change of state (Physics only, Paper 2 only)
 
 Heating a system transfers energy into it, which can either raise its
 temperature or produce a **change of state** — but not usually both at
@@ -272,7 +272,7 @@ change.
 ## Frequently asked questions
 
 **Which parts of Edexcel IGCSE solids, liquids and gases are Physics only?**
-Sub-topic (c), change of state, is marked P, including specific heat capacity and ΔQ = mcΔT, along with the unit joules per kilogram degree Celsius.
+Sub-topic (c), change of state, is marked P, including specific heat capacity and ΔQ = mcΔT, along with the unit joules per kilogram degree Celsius. Physics only content is examined on Paper 2 only.
 
 **Is latent heat needed for Edexcel IGCSE Physics?**
 No. ΔQ = mcΔT applies to temperature changes without a change of state, and the separate latent heat calculation for a state change is beyond this specification.

@@ -60,20 +60,23 @@ test('sourceKind names the linked document honestly', () => {
   assert.equal(sourceKind('https://www.ibo.org/en/programmes/diploma-programme/curriculum/sciences/physics/'), 'course page');
 });
 
-// D-455 (OQ-3): an unconfirmed mark total is never printed as a number.
-test('DP Language A: Language and Literature Paper 2 says "mark total not confirmed", never 25', () => {
+// D-509: the guides confirmed the totals; Paper 2 is 25 for the exams from May 2026 (owner's choice).
+test('DP Language A: Language and Literature Paper 2 prints the confirmed 25 marks', () => {
   const s = answer(find('DP Language A: Language and Literature'));
   const p2 = s.split('; ').filter((x) => x.includes('Paper 2'));
   assert.ok(p2.length >= 2, 'Paper 2 appears for SL and HL');
-  for (const x of p2) { assert.match(x, /mark total not confirmed/); assert.doesNotMatch(x, /\b25 marks\b/); }
+  for (const x of p2) { assert.match(x, /\b25 marks\b/); assert.doesNotMatch(x, /mark total not confirmed/); }
   assert.match(s, /Paper 1 \(Paper 1 -- Guided Textual Analysis\) — 1h 15m, 20 marks/);
 });
 
-// D-473 (OQ-6): Language A: Literature HL essay and individual oral totals are not shown.
-test('DP Language A: Literature never prints the HL Essay or Individual Oral totals', () => {
+// D-509: the Literature guide confirms the HL Essay (20) and Individual Oral (40, 15 minutes).
+test('DP Language A: Literature prints the confirmed HL Essay and Individual Oral totals', () => {
   const s = answer(find('DP Language A: Literature'));
   const parts = s.split(/; |\. (?=[A-Z]{2} candidates take)/).filter((x) => /HL Essay|Individual Oral/.test(x));
   assert.ok(parts.length >= 3, 'IO at SL and HL, HL Essay at HL');
-  for (const x of parts) { assert.match(x, /mark total not confirmed/); assert.doesNotMatch(x, /\b(20|40) marks\b/); }
+  for (const x of parts) {
+    assert.doesNotMatch(x, /mark total not confirmed/);
+    assert.match(x, /HL Essay/.test(x) ? /\b20 marks\b/ : /0h 15m, 40 marks\b/);
+  }
   assert.match(s, /Paper 2 \(Paper 2 -- Comparative Essay\) — 1h 45m, 25 marks/);
 });

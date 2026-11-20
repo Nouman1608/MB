@@ -170,6 +170,8 @@ Mr CuCO₃ = 123.5; Mr CuO = 79.5; Mr CO₂ = 44. Ratio CuCO₃ : CuO : CO₂ = 
 4. More CO₂ (burning fossil fuels, deforestation) → more heat kept in.
 5. This **may contribute to climate change**.
 
+*The mechanism in steps 1 to 3 is not required by the Edexcel 4CH1 specification; included as background.*
+
 Write "may contribute": the specification uses that wording.
 
 <figure class="topic-figure">
@@ -179,7 +181,7 @@ Write "may contribute": the specification uses that wording.
 
 <figure class="topic-figure">
   <img src="/images/learning/chemistry/igcse-edexcel-greenhouse-effect.svg" width="900" height="1110" alt="Thermal energy rises from the Earth, is absorbed by carbon dioxide and methane, and some is re-emitted back down. Less escapes to space, so the Earth warms. Gases act by absorption and re-emission, not as a solid barrier. The mechanism is marked not required by Edexcel." loading="lazy">
-  <figcaption>CO2 and methane absorb thermal energy and re-emit some back down, slowing loss to space.</figcaption>
+  <figcaption>CO2 and methane absorb thermal energy and re-emit some back down, slowing loss to space. The mechanism is not required by Edexcel 4CH1.</figcaption>
 </figure>
 
 
