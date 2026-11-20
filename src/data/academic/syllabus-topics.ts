@@ -5957,8 +5957,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2027', effectiveTo: '2027', status: 'current',
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
-    sourceUrl: 'https://www.cambridgeinternational.org/Images/718153-2027-syllabus.pdf', verifiedDate: '2026-08-21',
-    notes: "Cambridge IGCSE Statistics (0479), for examination 2027. Twelve named topics verified in full from the Content overview list. Topic 1 (Data and its collection) content within the specification is presented as a flat, unnumbered list of individual learning outcomes rather than named sub-headings, so sub-topics are recorded as an empty array rather than inventing groupings the specification does not itself provide. Fetched and verified 2026-08-21.",
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/718153-2027-syllabus.pdf', verifiedDate: '2026-11-20',
+    notes: 'Cambridge IGCSE Statistics (0479), for examination 2027. Twelve named topics, checked in full against the Subject content section of the PDF on 2026-11-20. Each topic is presented as a flat numbered list of learning outcomes with notes and examples, and the syllabus prints no named sub-headings under any topic. Subtopics are therefore recorded as empty arrays rather than inventing groupings the specification does not itself provide.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Data and its collection', slug: 'data-and-its-collection-0479', subtopics: [] },
       { number: 2, name: 'Representation of data', slug: 'representation-of-data-0479', subtopics: [] },
@@ -5980,8 +5981,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2025', effectiveTo: '2027', status: 'current',
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
-    sourceUrl: 'https://www.cambridgeinternational.org/Images/664481-2025-2027-syllabus.pdf', verifiedDate: '2026-08-21',
-    notes: "Cambridge O Level Statistics (4040), for examination 2025-2027. Twelve named topic areas verified in full from the Syllabus content at a glance list, closely mirroring sibling IGCSE Statistics 0479's topic structure with slightly different wording. Topic 2 (Summary representation of data) sub-topic structure (2.1-2.4) reproduced directly from the official syllabus PDF's Section 6 Syllabus content table, fetched and verified 2026-09-01. Named sub-topics (1.1-1.5, 3.1-3.2, 4.1-4.2, 5.1-5.4, 6.1-6.2, 9.1-9.2, 10.1-10.2, 12.1-12.2) entered from the same Section 6 table on 2026-09-29 (D-377); topics 7, 8 and 11 have guidance notes but no numbered sub-topics in the PDF. Fetched and verified 2026-08-21.",
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/664481-2025-2027-syllabus.pdf', verifiedDate: '2026-11-20',
+    notes: 'Cambridge O Level Statistics (4040), for examination 2025-2027 (version 1, published September 2022). Twelve topic areas, closely mirroring sibling IGCSE Statistics 0479\'s topic structure with slightly different wording. The numbered sub-headings (1.1-1.5, 2.1-2.4, 3.1-3.2, 4.1-4.2, 5.1-5.4, 6.1-6.2, 9.1-9.2, 10.1-10.2, 12.1-12.2) are entered as the syllabus prints them in Section 6 Syllabus content, without the full stop the PDF puts after each name. Topics 7, 8 and 11 have guidance notes but no numbered sub-headings. Every topic was checked against the PDF on 2026-11-20.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Data and its collection', slug: 'data-and-its-collection-4040', subtopics: [
         { number: '1.1', name: 'General ideas of sampling', slug: 'general-ideas-of-sampling-4040' },
