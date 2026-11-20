@@ -202,6 +202,9 @@ export const HIGHER_LABELS_CHECKED: ReadonlySet<string> = new Set([
   'edexcel-igcse-mathematics-4ma1-transformation-geometry-edexcel-igcse-maths-practice',  // 2026-11-18
   'edexcel-igcse-mathematics-4ma1-trigonometry-and-pythagoras-theorem-edexcel-igcse-maths-practice',  // 2026-11-18
   'edexcel-igcse-mathematics-4ma1-use-of-symbols-edexcel-igcse-maths-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-mensuration-of-2d-shapes-edexcel-igcse-maths-practice',  // 2026-11-20
+  'edexcel-igcse-mathematics-4ma1-3d-shapes-and-volume-edexcel-igcse-maths-practice',  // 2026-11-20
+  'edexcel-igcse-mathematics-4ma1-similarity-edexcel-igcse-maths-practice',  // 2026-11-20
   'edexcel-igcse-mathematics-4ma1-vectors-edexcel-igcse-maths-practice',  // 2026-11-18
   // 8300
   'aqa-gcse-mathematics-algebra-practice',
