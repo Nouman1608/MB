@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "life-in-the-usa-9245"
 description: "Study guide to Life in the USA, 1920-1968 for 9245 Paper 2 Section A: the 1920s boom, the Depression and New Deal, the Second World War, post-war America and civil rights."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

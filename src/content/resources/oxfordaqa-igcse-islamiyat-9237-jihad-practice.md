@@ -18,8 +18,10 @@ syllabusTopics:
     subtopic: "jihad-9237"
 description: "Ten original questions with full answers on Jihad fee sabilillah, its four types and the rules of Kitaal, for 9237 content area 3.1.2.7."
 author: "marlbridge-academic-team"
-reviewNeeded: true
-reviewNote: "2026-11-20: check the mark guidance and the rules of Kitaal before use."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the mark guidance and the rules of Kitaal before use."
 publishedDate: 2026-11-20
 featured: false
 ---

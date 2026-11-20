@@ -18,8 +18,10 @@ syllabusTopics:
     subtopic: "the-call-to-prophethood-nabuat-9237"
 description: "Quick recall notes on the call to prophethood: Cave of Hira, Jibril (AS), the reactions of the Prophet (pbuh), Khadija (RA) and Waraqa, and Qur'an 96:1-5, for 9237 content area 3.2.1.3."
 author: "marlbridge-academic-team"
-reviewNeeded: true
-reviewNote: "2026-11-20: check the words attributed to Khadija (RA) and Waraqa against the hadith sources used in class."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the words attributed to Khadija (RA) and Waraqa against the hadith sources used in class."
 publishedDate: 2026-11-20
 featured: false
 ---

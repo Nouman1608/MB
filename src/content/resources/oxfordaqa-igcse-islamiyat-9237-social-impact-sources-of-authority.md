@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "the-social-impact-of-sources-of-authority-9237"
 description: "The rights of neighbours, the importance of Amanat, and the prohibition of backbiting, arrogance and jealousy, for 9237 topic 3.2.2.9."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

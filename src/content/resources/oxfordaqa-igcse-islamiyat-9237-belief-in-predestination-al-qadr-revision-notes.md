@@ -19,10 +19,12 @@ syllabusTopics:
     subtopic: "belief-in-predestination-al-qadr-9237"
 description: "Recall notes on the meaning of Al-Qadr, its four levels, free will, the Hadith in Sahih al-Bukhari 1362 and the effect of the belief on Muslims, for 9237 topic 3.1.1.5."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the one-line summaries of historical views on free will and the four levels of Qadr."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: check the one-line summaries of historical views on free will and the four levels of Qadr."
 ---
 
 **These notes condense content area 3.1.1.5 of 9237: "the meaning, importance and influence of beliefs about predestination for Muslims".** The full explanation is in the [Belief in predestination (Al-Qadr) study guide](/resources/oxfordaqa-igcse-islamiyat-9237-belief-in-predestination-al-qadr/).

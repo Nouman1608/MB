@@ -18,8 +18,10 @@ syllabusTopics:
     subtopic: "the-hijrah-and-the-madni-period-9237"
 description: "A timeline approach to the Hijrah and Madni period: the pledges of Aqaba, the journey with Abu Bakr and Ali (RA), early life in Madinah, the Charter and the first mosque, with Qur'an 9:108, for 9237 content area 3.2.1.7."
 author: "marlbridge-academic-team"
-reviewNeeded: true
-reviewNote: "2026-11-20: check the dates, the sequence of the journey and the terms of the Charter of Madinah against a teacher's notes."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the dates, the sequence of the journey and the terms of the Charter of Madinah against a teacher's notes."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -18,8 +18,10 @@ syllabusTopics:
     subtopic: "hajj-9237"
 description: "Recall notes on Hajj and Umrah: origins, Ihram, Meeqat, the rites at the Ka'aba, Mina, Arafat and Muzdalifah, unity of the Ummah, and a self-test, for 9237 content area 3.1.2.6."
 author: "marlbridge-academic-team"
-reviewNeeded: true
-reviewNote: "2026-11-20: check the order of rites, the dates and the status of Umrah in different schools of thought against a teacher's notes."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the order of rites, the dates and the status of Umrah in different schools of thought against a teacher's notes."
 publishedDate: 2026-11-20
 featured: false
 ---

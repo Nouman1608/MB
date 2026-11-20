@@ -19,10 +19,12 @@ syllabusTopics:
     subtopic: "the-early-leadership-of-the-muslim-community-9237"
 description: "Leadership after the Prophet's death and the role and importance of the four Rightly Guided Caliphs, with the Hadith in the Forty Hadith of an-Nawawi (9237 topic 3.1.1.8)."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check dates (632, 634, 644, 656, 661 CE), the account of the pledge at Saqifa, the Shi'a and Sunni summary of succession, and the identification of the Qur'an compilation under Abu Bakr and standardisation under Uthman."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: check dates (632, 634, 644, 656, 661 CE), the account of the pledge at Saqifa, the Shi'a and Sunni summary of succession, and the identification of the Qur'an compilation under Abu Bakr and standardisation under Uthman."
 ---
 
 **This guide covers content area 3.1.1.8 of OxfordAQA International GCSE Islamiat (9237), The early leadership of the Muslim community: "the leadership of Islam after Hazrat Muhammad's (pbuh) death, and the role and importance of the four rightly guided Caliphs".** The prescribed passage is Hadith 28 of the Forty Hadith of an-Nawawi. The topic asks two linked questions: how was the community led after the Prophet (pbuh) died, and why do Muslims value the four Caliphs who came first?

@@ -18,8 +18,10 @@ syllabusTopics:
     subtopic: "zakah-9237"
 description: "Quick recall notes on Zakah and Ushr: meaning, wisdom, the Nisaab, rates, the eight recipients in Qur'an 9:60 and a short self-test, for 9237 content area 3.1.2.5."
 author: "marlbridge-academic-team"
-reviewNeeded: true
-reviewNote: "2026-11-20: check the Nisaab weights, the Ushr rates and the list of people who may not receive Zakah against a teacher's course notes."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the Nisaab weights, the Ushr rates and the list of people who may not receive Zakah against a teacher's course notes."
 publishedDate: 2026-11-20
 featured: false
 ---

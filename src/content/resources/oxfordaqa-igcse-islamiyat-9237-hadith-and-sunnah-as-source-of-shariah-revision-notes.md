@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "the-hadith-and-sunnah-as-a-source-of-shariah-9237"
 description: "Recall notes on Hadith, Sunnah and Shariah, how the Hadith relates to the Qur'an, and the importance of the Prophet's teachings, with Qur'an 53:1-6, for 9237 topic 3.2.2.3."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "prophethood-nabuat-and-holy-books-in-islam-9237"
 description: "Recall notes on prophethood, Adam, Ibraheem, Musa and Isa, the Tawrat, Zabur, Injil and Suhuf, and the Seal of Prophethood, for 9237 topic 3.1.1.7."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

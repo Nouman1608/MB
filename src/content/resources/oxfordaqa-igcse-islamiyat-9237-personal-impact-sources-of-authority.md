@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "the-personal-impact-of-sources-of-authority-9237"
 description: "Generosity and sacrifice, sincerity, piety, honesty, hiding faults and the care of body and mind as shaped by the Qur'an and Hadith, for 9237 topic 3.2.2.8."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -18,8 +18,10 @@ syllabusTopics:
     subtopic: "festivals-and-commemorations-in-islam-9237"
 description: "The origins, importance and observance of Eid-ul-Fitr, Eid-ul-Adha and Ashura, with the prescribed Ibn Majah hadith, for 9237 content area 3.1.2.8."
 author: "marlbridge-academic-team"
-reviewNeeded: true
-reviewNote: "2026-11-20: check the practices of Ashura in Sunni and Shia communities and the details of Qurbani and Eid prayer against a teacher's notes."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the practices of Ashura in Sunni and Shia communities and the details of Qurbani and Eid prayer against a teacher's notes."
 publishedDate: 2026-11-20
 featured: false
 ---

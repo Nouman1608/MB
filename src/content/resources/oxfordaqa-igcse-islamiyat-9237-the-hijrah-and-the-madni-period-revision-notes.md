@@ -18,8 +18,10 @@ syllabusTopics:
     subtopic: "the-hijrah-and-the-madni-period-9237"
 description: "Timeline-style recall notes on the pledges of Aqaba, the Hijrah journey, the roles of Abu Bakr and Ali (RA), the Charter of Madinah and the first mosque, for 9237 content area 3.2.1.7."
 author: "marlbridge-academic-team"
-reviewNeeded: true
-reviewNote: "2026-11-20: check the dates and the sequence of events against a teacher's notes."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the dates and the sequence of events against a teacher's notes."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -18,8 +18,10 @@ syllabusTopics:
     subtopic: "jihad-9237"
 description: "Quick recall notes on Jihad fee sabilillah, the four types of Jihad, the rules of Kitaal and Qur'an 2:190, with a self-test, for 9237 content area 3.1.2.7."
 author: "marlbridge-academic-team"
-reviewNeeded: true
-reviewNote: "2026-11-20: check the rules of Kitaal and the sayings quoted against a teacher's notes."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the rules of Kitaal and the sayings quoted against a teacher's notes."
 publishedDate: 2026-11-20
 featured: false
 ---

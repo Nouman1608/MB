@@ -19,10 +19,12 @@ syllabusTopics:
     subtopic: "the-early-leadership-of-the-muslim-community-9237"
 description: "Nine original questions with mark guidance on leadership after the Prophet's death, the four Rightly Guided Caliphs and Hadith 28 of an-Nawawi (9237 topic 3.1.1.8)."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the questions and mark guidance on the Caliphs and the neutral Sunni and Shi'a wording."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: check the questions and mark guidance on the Caliphs and the neutral Sunni and Shi'a wording."
 ---
 
 > **These are original questions written for Marlbridge**, for practice on content area 3.1.1.8:

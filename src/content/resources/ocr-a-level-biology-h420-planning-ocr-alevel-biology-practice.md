@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "planning-ocr-alevel-biology"
 description: "Twelve original questions on experimental design, variables, apparatus choice, dilutions and evaluating methods for OCR A Level Biology A 1.1.1 Planning, with full answers."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

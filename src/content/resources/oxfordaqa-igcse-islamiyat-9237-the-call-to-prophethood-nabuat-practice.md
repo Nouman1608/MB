@@ -18,8 +18,10 @@ syllabusTopics:
     subtopic: "the-call-to-prophethood-nabuat-9237"
 description: "Ten original questions with full answers on the call to prophethood, the Cave of Hira, Khadija (RA), Waraqa and Qur'an 96:1-5, for 9237 content area 3.2.1.3."
 author: "marlbridge-academic-team"
-reviewNeeded: true
-reviewNote: "2026-11-20: check the historical details and mark guidance before use."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the historical details and mark guidance before use."
 publishedDate: 2026-11-20
 featured: false
 ---

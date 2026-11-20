@@ -18,8 +18,10 @@ syllabusTopics:
     subtopic: "opposition-to-hazrat-muhammad-9237"
 description: "Ten original questions with full answers on the Makkan opposition, the boycott of Banu Hashim, Ta'if and the plots to kill the Prophet (pbuh), with Qur'an 111:1-5, for 9237 content area 3.2.1.5."
 author: "marlbridge-academic-team"
-reviewNeeded: true
-reviewNote: "2026-11-20: check the historical details and mark guidance before use."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the historical details and mark guidance before use."
 publishedDate: 2026-11-20
 featured: false
 ---

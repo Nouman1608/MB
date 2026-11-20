@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "evaluation-ocr-alevel-biology"
 description: "OCR A Level Biology A (H420) 1.1.4 study guide: evaluating results, anomalies, limitations, precision, accuracy, percentage error and suggesting improvements."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the wording on absolute uncertainty and the factor of 2 in the specification's percentage error formula, and the simple rule for combining uncertainties, against the Practical Skills Handbook."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: check the wording on absolute uncertainty and the factor of 2 in the specification's percentage error formula, and the simple rule for combining uncertainties, against the Practical Skills Handbook."
 ---
 
 Evaluation is the skill of judging how far a set of results, and the method that produced them, can be trusted. For OCR A Level Biology A (H420) section 1.1.4 you must be able to evaluate results and draw conclusions, identify anomalies in experimental measurements, identify limitations in experimental procedures, discuss the precision and accuracy of measurements and data (including margins of error, percentage errors and uncertainties in apparatus), and refine an experimental design by suggesting improvements to the procedures and apparatus. Evaluation answers earn marks when they are specific: they name a weakness, say what effect it had on the results, and give a precise improvement.

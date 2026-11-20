@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "origins-and-development-of-the-cold-war-9245"
 description: "Twelve original 9245 Paper 1 Section B questions on the Cold War, 1945-1960, from 3-mark recall to 12-mark judgements on the Truman Doctrine, Berlin, Korea and Hungary."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

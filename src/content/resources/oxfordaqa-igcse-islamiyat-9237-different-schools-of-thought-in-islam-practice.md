@@ -17,10 +17,12 @@ syllabusTopics:
     subtopic: "the-different-schools-of-thought-in-islam-9237"
 description: "Original questions with mark guidance on the causes, founders, methods and role of the major law schools, for 9237 topic 3.2.2.5."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the founders' dates, the Qur'an 2:228 (quru') example and which school takes which meaning, and the examples of differences (hands in prayer, Witr, combining prayers, prostration)."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: check the founders' dates, the Qur'an 2:228 (quru') example and which school takes which meaning, and the examples of differences (hands in prayer, Witr, combining prayers, prostration)."
 ---
 
 > **These are original questions written for Marlbridge**, for practice on content area 3.2.2.5:

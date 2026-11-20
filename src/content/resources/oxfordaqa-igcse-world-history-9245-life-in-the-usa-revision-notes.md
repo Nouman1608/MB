@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "life-in-the-usa-9245"
 description: "Condensed notes on Life in the USA, 1920-1968 for 9245 Paper 2 Section A: timeline, the boom, Depression, New Deal, post-war America, civil rights and exam traps."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

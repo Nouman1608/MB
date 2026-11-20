@@ -18,8 +18,10 @@ syllabusTopics:
     subtopic: "zakah-9237"
 description: "Ten original questions with full answers on Zakah, Ushr, the Nisaab and the eight recipients in Qur'an 9:60, for 9237 content area 3.1.2.5."
 author: "marlbridge-academic-team"
-reviewNeeded: true
-reviewNote: "2026-11-20: check the Nisaab explanation, the Ushr rates and the mark guidance before use."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the Nisaab explanation, the Ushr rates and the mark guidance before use."
 publishedDate: 2026-11-20
 featured: false
 ---

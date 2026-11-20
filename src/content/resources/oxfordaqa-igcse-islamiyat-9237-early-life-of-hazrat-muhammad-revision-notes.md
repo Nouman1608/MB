@@ -18,8 +18,10 @@ syllabusTopics:
     subtopic: "early-life-of-hazrat-muhammad-9237"
 description: "Recall notes on the birth, upbringing, marriage and character of Hazrat Muhammad (pbuh), the roles of Abdul Mutalib, Abu Talib and Bahira, and Qur'an 68:4, for 9237 content area 3.2.1.2."
 author: "marlbridge-academic-team"
-reviewNeeded: true
-reviewNote: "2026-11-20: check the dates and the account of Bahira against a teacher's notes."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the dates and the account of Bahira against a teacher's notes."
 publishedDate: 2026-11-20
 featured: false
 ---

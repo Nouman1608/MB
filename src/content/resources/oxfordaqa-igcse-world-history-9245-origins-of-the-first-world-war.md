@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "origins-of-the-first-world-war-9245"
 description: "Study guide to the origins of the First World War, c1890-1915 for 9245 Paper 1 Section B: alliances, Weltpolitik, the Balkans, the July crisis and escalation."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

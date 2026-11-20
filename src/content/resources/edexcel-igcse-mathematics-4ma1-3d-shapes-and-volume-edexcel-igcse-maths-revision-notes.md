@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "3d-shapes-and-volume-edexcel-igcse-maths"
 description: "Revision notes for Edexcel IGCSE Maths 4MA1 section 4.10: solids and their parts, surface area, prism and cylinder volume, volume units, cones, spheres and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "practical-skills-ocr-alevel-biology"
 description: "Twelve original questions on CPAC competencies, record keeping, risk assessment, spreadsheets, referencing and PAGs for OCR A Level Biology A 1.2.1 Practical skills."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

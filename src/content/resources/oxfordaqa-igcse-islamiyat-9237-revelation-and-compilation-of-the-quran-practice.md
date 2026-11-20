@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "the-revelation-and-compilation-of-the-quran-9237"
 description: "Original questions with mark guidance on how the Qur'an was revealed, preserved and compiled, for 9237 topic 3.2.2.1."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

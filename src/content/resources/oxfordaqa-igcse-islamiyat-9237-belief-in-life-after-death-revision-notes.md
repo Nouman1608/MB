@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "belief-in-life-after-death-9237"
 description: "Recall notes on death, Barzakh, resurrection, the Day of Judgement, Heaven, Hell and Muslim death rituals, with Qur'an 80:34-42, for 9237 topic 3.1.1.6."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

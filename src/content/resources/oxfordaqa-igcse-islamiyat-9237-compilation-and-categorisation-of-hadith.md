@@ -17,10 +17,12 @@ syllabusTopics:
     subtopic: "the-compilation-and-categorisation-of-hadith-9237"
 description: "Sahih, Hasan, Daeef and Maudu Hadith, testing by Isnad and Matn, and the work of Imam Bukhari and Imam Muslim, for 9237 topic 3.2.2.4."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the traditional figures for Sahih al-Bukhari (about 7,000 reports with repeats, about 2,600 without; sixteen years), the dates for Bukhari and Muslim, and the account of the two conditions (met versus contemporaries)."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: check the traditional figures for Sahih al-Bukhari (about 7,000 reports with repeats, about 2,600 without; sixteen years), the dates for Bukhari and Muslim, and the account of the two conditions (met versus contemporaries)."
 ---
 
 **This guide covers content area 3.2.2.4 of OxfordAQA International GCSE Islamiat (9237), The compilation and categorisation of Hadith.** The specification lists three things: "the different categories of Hadith in relation to their reliability including Sahih, Hasan Daeef and Maudu"; "the methods used to test the reliability of Hadith including the Isnad (chains of transmission) and the Matn (text)"; and "the role of the main compilers of the major Hadith collections, including the main features of Sahih Bukhari and Sahih Muslim." The prescribed passage is Sahih al-Bukhari 3461.

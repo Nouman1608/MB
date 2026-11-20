@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "salah-9237"
 description: "The meaning and importance of Salah: how and why Muslims pray, prayer at home and in the mosque, the role of Salah in daily life and Friday prayers (Jummah), for 9237 topic 3.1.2.3."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

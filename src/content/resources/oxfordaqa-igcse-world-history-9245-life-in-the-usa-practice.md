@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "life-in-the-usa-9245"
 description: "Twelve original 9245 Paper 2 questions on Life in the USA, 1920-1968, from 3-mark recall to 12-mark judgements on the boom, the New Deal and civil rights."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

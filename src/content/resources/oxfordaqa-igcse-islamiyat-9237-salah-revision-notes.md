@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "salah-9237"
 description: "Recall notes on why and how Muslims pray, Salah at home and in the mosque, Friday prayers (Jummah) and the role of Salah in daily life, for 9237 topic 3.1.2.3."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

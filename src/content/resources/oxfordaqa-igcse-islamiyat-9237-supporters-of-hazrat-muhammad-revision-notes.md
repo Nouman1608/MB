@@ -18,8 +18,10 @@ syllabusTopics:
     subtopic: "supporters-of-hazrat-muhammad-9237"
 description: "Quick recall notes on the Ansaar and Muhajirun and the companions Abu Ayyub, Hamza, Talha and Zubair (RA), with the Tirmidhi hadith on generosity and a self-test, for 9237 content area 3.2.1.8."
 author: "marlbridge-academic-team"
-reviewNeeded: true
-reviewNote: "2026-11-20: check the biographical details of the four companions against a teacher's notes."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the biographical details of the four companions against a teacher's notes."
 publishedDate: 2026-11-20
 featured: false
 ---

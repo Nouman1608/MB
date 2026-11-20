@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "planning-ocr-alevel-biology"
 description: "OCR A Level Biology A (H420) 1.1.1 study guide: experimental design, choosing apparatus, identifying and controlling variables, and judging whether a method is appropriate."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

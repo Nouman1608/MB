@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "the-key-practices-in-islam-9237"
 description: "Nine original questions with mark guidance on the Five Pillars, Amr bil maroof, Nahi annil munkar and the Hadith of Jibril in Sahih al-Bukhari 50 (9237 topic 3.1.2.1)."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

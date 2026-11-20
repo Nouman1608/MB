@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "implementing-ocr-alevel-biology"
 description: "OCR A Level Biology A (H420) 1.1.2 study guide: using apparatus correctly, choosing and converting units, working out units for rates, and recording data in well-built tables."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

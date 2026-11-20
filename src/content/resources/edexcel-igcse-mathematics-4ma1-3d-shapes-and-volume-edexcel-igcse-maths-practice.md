@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "3d-shapes-and-volume-edexcel-igcse-maths"
 description: "Thirteen original 4MA1 questions on solids, surface area, prism and cylinder volume, volume units, cones, spheres and hemispheres, with marking points."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

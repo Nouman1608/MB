@@ -17,10 +17,12 @@ syllabusTopics:
     subtopic: "the-compilation-and-categorisation-of-hadith-9237"
 description: "Recall notes on the categories of Hadith, the Isnad and Matn tests, and Bukhari and Muslim, with Bukhari 3461, for 9237 topic 3.2.2.4."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the traditional figures for Sahih al-Bukhari (about 7,000 reports with repeats, about 2,600 without; sixteen years), the dates for Bukhari and Muslim, and the account of the two conditions (met versus contemporaries)."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: check the traditional figures for Sahih al-Bukhari (about 7,000 reports with repeats, about 2,600 without; sixteen years), the dates for Bukhari and Muslim, and the account of the two conditions (met versus contemporaries)."
 ---
 
 **These notes condense content area 3.2.2.4 of 9237: the categories of Hadith (Sahih, Hasan, Daeef and Maudu), the methods used to test reliability (Isnad and Matn), and the role of the main compilers, including the features of Sahih Bukhari and Sahih Muslim.** The full explanation is in the [study guide](/resources/oxfordaqa-igcse-islamiyat-9237-compilation-and-categorisation-of-hadith/).

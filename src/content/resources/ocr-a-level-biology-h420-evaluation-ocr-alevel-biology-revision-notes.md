@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "evaluation-ocr-alevel-biology"
 description: "Condensed notes on evaluating results, anomalies, limitations, precision, accuracy, percentage error and improvements for OCR A Level Biology A 1.1.4 Evaluation."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the wording on absolute uncertainty and the factor of 2 in the specification's percentage error formula, and the simple rule for combining uncertainties, against the Practical Skills Handbook."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: check the wording on absolute uncertainty and the factor of 2 in the specification's percentage error formula, and the simple rule for combining uncertainties, against the Practical Skills Handbook."
 ---
 
 These notes condense learning outcomes 1.1.4(a) to (e) of the OCR A Level Biology A specification (H420, Version 4.1, April 2026, first assessment 2025). For explanations and worked examples, read the [evaluation study guide](/resources/ocr-a-level-biology-h420-evaluation-ocr-alevel-biology/), then test yourself with the [evaluation practice questions](/resources/ocr-a-level-biology-h420-evaluation-ocr-alevel-biology-practice/). The whole module is summarised in the [planning, implementing, analysing and evaluating revision notes](/resources/ocr-a-level-biology-planning-implementing-analysing-and-evaluating-revision-notes/).

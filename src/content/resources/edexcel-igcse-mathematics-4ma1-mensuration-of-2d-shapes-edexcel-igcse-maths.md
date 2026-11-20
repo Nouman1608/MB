@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "mensuration-of-2d-shapes-edexcel-igcse-maths"
 description: "Study guide for Edexcel IGCSE Maths 4MA1 section 4.9: area unit conversions, perimeters, triangles, parallelograms, trapezia, circles, semicircles and sectors."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "concept-of-belief-in-allah-9237"
 description: "The 99 names of Allah and five names in depth, Qudrah, Al-Khaliq, Ar-Rehman, Ar-Raheem and Al-Aleem, with Qur'an 59:22-24, worked answers and exam advice for 9237 topic 3.1.1.3."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -17,10 +17,12 @@ syllabusTopics:
     subtopic: "the-use-of-shariah-in-everyday-life-9237"
 description: "Original questions with mark guidance on Halal and Haram, dietary and dress laws, and the role of parents, for 9237 topic 3.2.2.7."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the dress rules (navel to knees for men, silk and gold, covering for women) and the points on halal slaughter and parents' duties against a teacher's usual teaching."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: check the dress rules (navel to knees for men, silk and gold, covering for women) and the points on halal slaughter and parents' duties against a teacher's usual teaching."
 ---
 
 > **These are original questions written for Marlbridge**, for practice on content area 3.2.2.7:

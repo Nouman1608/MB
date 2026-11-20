@@ -18,8 +18,10 @@ syllabusTopics:
     subtopic: "supporters-of-hazrat-muhammad-9237"
 description: "The support given by the Ansaar to the Muhajirun and the contributions of Abu Ayub Ansari, Hamza, Talha and Zubair (RA), with the Tirmidhi hadith on generosity, for 9237 content area 3.2.1.8."
 author: "marlbridge-academic-team"
-reviewNeeded: true
-reviewNote: "2026-11-20: check the biographical details of the four companions and the dates against a teacher's notes."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the biographical details of the four companions and the dates against a teacher's notes."
 publishedDate: 2026-11-20
 featured: false
 ---

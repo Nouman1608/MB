@@ -19,10 +19,12 @@ syllabusTopics:
     subtopic: "the-early-leadership-of-the-muslim-community-9237"
 description: "Recall notes on the leadership of Islam after the Prophet's death and the role and importance of the four Rightly Guided Caliphs, for 9237 topic 3.1.1.8."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check dates, the order and method of selection of each Caliph, and the neutral wording of Sunni and Shi'a views."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: check dates, the order and method of selection of each Caliph, and the neutral wording of Sunni and Shi'a views."
 ---
 
 **These notes condense content area 3.1.1.8 of 9237: "the leadership of Islam after Hazrat Muhammad's (pbuh) death, and the role and importance of the four rightly guided Caliphs".** The full explanation is in the [Early leadership study guide](/resources/oxfordaqa-igcse-islamiyat-9237-early-leadership-muslim-community/).

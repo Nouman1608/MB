@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "sawm-9237"
 description: "Recall notes on the meaning and importance of Sawm, the rulings, benefits, Taraweeh, Itikaaf and Laylat ul-Qadr, with Qur'an 2:183-185, for 9237 topic 3.1.2.4."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

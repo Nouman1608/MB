@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "shahadah-9237"
 description: "Recall notes on the meaning, importance and use of the Shahadah, and how to use Qur'an 3:18-19 in an answer, for 9237 topic 3.1.2.2."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

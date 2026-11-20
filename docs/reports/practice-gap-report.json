@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T12:44:19.641Z",
+  "generatedAt": "2026-11-20T23:05:12.822Z",
   "reports": [
     {
       "code": "0620",
@@ -999,14 +999,39 @@
       "qualificationSlug": "igcse",
       "subjectSlug": "mathematics",
       "syllabusSeries": "Specification Issue 2, November 2017",
-      "totalQuestions": 591,
-      "totalSubtopics": 36,
-      "coveredSubtopics": 36,
+      "totalQuestions": 630,
+      "totalSubtopics": 39,
+      "coveredSubtopics": 39,
       "coveragePct": 100,
       "gaps": [],
       "thin": [],
       "topicsWithoutTaxonomy": [],
-      "topicOnlyTagged": []
+      "topicOnlyTagged": [
+        {
+          "topicNumber": 4,
+          "topicName": "Geometry and trigonometry",
+          "topicSlug": "geometry-and-trigonometry-edexcel-igcse-maths",
+          "resourceSlug": "edexcel-igcse-mathematics-4ma1-3d-shapes-and-volume-edexcel-igcse-maths-practice",
+          "resourceTitle": "Edexcel International GCSE Mathematics A (4MA1): 3D shapes and volume -- Practice Questions",
+          "questionCount": 13
+        },
+        {
+          "topicNumber": 4,
+          "topicName": "Geometry and trigonometry",
+          "topicSlug": "geometry-and-trigonometry-edexcel-igcse-maths",
+          "resourceSlug": "edexcel-igcse-mathematics-4ma1-mensuration-of-2d-shapes-edexcel-igcse-maths-practice",
+          "resourceTitle": "Edexcel International GCSE Mathematics A (4MA1): Mensuration of 2D shapes -- Practice Questions",
+          "questionCount": 13
+        },
+        {
+          "topicNumber": 4,
+          "topicName": "Geometry and trigonometry",
+          "topicSlug": "geometry-and-trigonometry-edexcel-igcse-maths",
+          "resourceSlug": "edexcel-igcse-mathematics-4ma1-similarity-edexcel-igcse-maths-practice",
+          "resourceTitle": "Edexcel International GCSE Mathematics A (4MA1): Similarity -- Practice Questions",
+          "questionCount": 13
+        }
+      ]
     },
     {
       "code": "8461",

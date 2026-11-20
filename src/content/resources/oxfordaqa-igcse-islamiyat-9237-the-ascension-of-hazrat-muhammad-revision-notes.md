@@ -18,8 +18,10 @@ syllabusTopics:
     subtopic: "the-ascension-of-hazrat-muhammad-9237"
 description: "Quick recall notes on Isra wal Mi'raj: the night journey, the ascent, the five daily prayers, the response of the Quraysh and Qur'an 17:1-2, with a self-test, for 9237 content area 3.2.1.6."
 author: "marlbridge-academic-team"
-reviewNeeded: true
-reviewNote: "2026-11-20: check the order of the prophets in the heavens and the account of the reduction of the prayers against a teacher's notes."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the order of the prophets in the heavens and the account of the reduction of the prayers against a teacher's notes."
 publishedDate: 2026-11-20
 featured: false
 ---

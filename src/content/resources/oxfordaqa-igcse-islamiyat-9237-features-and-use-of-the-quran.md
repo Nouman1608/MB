@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "the-features-and-use-of-the-quran-9237"
 description: "The Makki and Madni surahs and their themes, the miraculous nature and infallibility of the Qur'an, and how it is used and treated, for 9237 topic 3.2.2.2."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

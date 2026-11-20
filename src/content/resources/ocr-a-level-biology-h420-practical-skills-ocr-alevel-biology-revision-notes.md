@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "practical-skills-ocr-alevel-biology"
 description: "Condensed notes on the Practical Endorsement skills, CPAC competencies, record keeping, risk assessment and referencing for OCR A Level Biology A 1.2.1."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

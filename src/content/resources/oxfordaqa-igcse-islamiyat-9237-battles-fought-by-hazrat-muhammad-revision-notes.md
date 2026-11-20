@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "the-battles-fought-by-hazrat-muhammad-9237"
 description: "Recall notes on Badr, Uhud, the Trench, Hudaibiyah, Khaibar, Makkah, Hunayn, Aam ul wafood and the Farewell Pilgrimage, for 9237 topic 3.2.1.9."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

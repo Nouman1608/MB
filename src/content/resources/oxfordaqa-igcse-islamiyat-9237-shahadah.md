@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "shahadah-9237"
 description: "The meaning, importance and use of the Shahadah in a Muslim's life, with Qur'an 3:18-19, worked answers and common mistakes for 9237 topic 3.1.2.2."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

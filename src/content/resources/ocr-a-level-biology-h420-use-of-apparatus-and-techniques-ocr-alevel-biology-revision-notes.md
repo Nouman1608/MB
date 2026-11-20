@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "use-of-apparatus-and-techniques-ocr-alevel-biology"
 description: "Condensed notes on measuring, colorimetry, dilutions, microscopy, drawing, reagents, chromatography, aseptic technique, dissection and sampling for OCR A Level Biology A 1.2.2."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

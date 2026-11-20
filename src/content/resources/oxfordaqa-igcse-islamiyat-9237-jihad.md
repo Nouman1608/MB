@@ -18,8 +18,10 @@ syllabusTopics:
     subtopic: "jihad-9237"
 description: "Jihad fee sabilillah, the four types (heart, tongue, hand and sword) and the rules for armed warfare (Kitaal), for 9237 content area 3.1.2.7."
 author: "marlbridge-academic-team"
-reviewNeeded: true
-reviewNote: "2026-11-20: check the rules of Kitaal and the sayings quoted against a teacher's notes; the saying about the greater struggle is described as debated."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the rules of Kitaal and the sayings quoted against a teacher's notes; the saying about the greater struggle is described as debated."
 publishedDate: 2026-11-20
 featured: false
 ---

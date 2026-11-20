@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "analysis-ocr-alevel-biology"
 description: "OCR A Level Biology A (H420) 1.1.3 study guide: processing results, significant figures, statistical tests, plotting graphs, gradients, intercepts and valid conclusions."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "similarity-edexcel-igcse-maths"
 description: "Thirteen original 4MA1 similarity questions on scale factors, similar triangles, maps and plans, and area and volume ratios, with marking points."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

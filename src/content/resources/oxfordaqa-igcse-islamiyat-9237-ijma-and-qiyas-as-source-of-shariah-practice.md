@@ -17,10 +17,12 @@ syllabusTopics:
     subtopic: "ijma-and-qiyas-as-a-source-of-shariah-9237"
 description: "Original questions with mark guidance on the meaning, role and importance of Ijma and Qiyas in forming religious rulings, for 9237 topic 3.2.2.6."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the examples of Ijma (Taraweeh behind one imam, grandmother's one-sixth), the wording on the Hadith that the community will not agree on error, the Ja'fari and Maliki views of Ijma, and the use of Qur'an 4:115 as evidence."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: check the examples of Ijma (Taraweeh behind one imam, grandmother's one-sixth), the wording on the Hadith that the community will not agree on error, the Ja'fari and Maliki views of Ijma, and the use of Qur'an 4:115 as evidence."
 ---
 
 > **These are original questions written for Marlbridge**, for practice on content area 3.2.2.6:

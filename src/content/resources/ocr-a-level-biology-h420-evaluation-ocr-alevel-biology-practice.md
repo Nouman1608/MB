@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "evaluation-ocr-alevel-biology"
 description: "Twelve original questions on anomalies, limitations, precision, accuracy, percentage error and improving experiments for OCR A Level Biology A 1.1.4 Evaluation."
 author: "marlbridge-academic-team"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the wording on absolute uncertainty and the factor of 2 in the specification's percentage error formula, and the simple rule for combining uncertainties, against the Practical Skills Handbook."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: check the wording on absolute uncertainty and the factor of 2 in the specification's percentage error formula, and the simple rule for combining uncertainties, against the Practical Skills Handbook."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

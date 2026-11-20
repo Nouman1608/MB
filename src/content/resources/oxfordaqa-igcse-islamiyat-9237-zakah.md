@@ -18,8 +18,10 @@ syllabusTopics:
     subtopic: "zakah-9237"
 description: "The role, importance and wisdom of Zakah and Ushr, the Nisaab and the eight groups who may receive Zakah, for 9237 content area 3.1.2.5."
 author: "marlbridge-academic-team"
-reviewNeeded: true
-reviewNote: "2026-11-20: check the Nisaab weights, the Ushr rates and the list of people who may not receive Zakah against a teacher's course notes; schools of thought differ on some details."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the Nisaab weights, the Ushr rates and the list of people who may not receive Zakah against a teacher's course notes; schools of thought differ on some details."
 publishedDate: 2026-11-20
 featured: false
 ---

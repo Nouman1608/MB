@@ -19,10 +19,12 @@ syllabusTopics:
     subtopic: "belief-in-predestination-al-qadr-9237"
 description: "The meaning, importance and influence of belief in predestination (Al-Qadr): free will, responsibility, the Hadith in Sahih al-Bukhari 1362 and worked answers for 9237 topic 3.1.1.5."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the short summary of classical views on free will (Jabriyya, Qadariyya, mainstream Sunni, Shi'a emphasis on justice), the four levels of Qadr, and the Umar and plague of Amwas account."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: check the short summary of classical views on free will (Jabriyya, Qadariyya, mainstream Sunni, Shi'a emphasis on justice), the four levels of Qadr, and the Umar and plague of Amwas account."
 ---
 
 **This guide covers content area 3.1.1.5 of OxfordAQA International GCSE Islamiat (9237), Belief in Predestination (Al-Qadr): "the meaning, importance and influence of beliefs about predestination for Muslims".** The prescribed passage is a Hadith from Sahih al-Bukhari 1362, Book 23, Hadith 115. Predestination is among the hardest ideas in the course, because it seems to clash with free will. A good answer states the belief precisely, shows how Muslims reconcile it with responsibility, and explains how it affects daily life.

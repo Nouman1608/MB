@@ -18,8 +18,10 @@ syllabusTopics:
     subtopic: "pre-islamic-arabia-9237"
 description: "Ten original questions with full answers on Pre-Islamic Arabia, Jahiliya and Qur'an 17:31, covering religious, political, moral and social features, for 9237 content area 3.2.1.1."
 author: "marlbridge-academic-team"
-reviewNeeded: true
-reviewNote: "2026-11-20: check the historical details and mark guidance before use."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the historical details and mark guidance before use."
 publishedDate: 2026-11-20
 featured: false
 ---

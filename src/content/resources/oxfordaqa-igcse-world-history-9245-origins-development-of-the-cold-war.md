@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "origins-and-development-of-the-cold-war-9245"
 description: "Study guide to the origins and development of the Cold War, 1945-1960 for 9245 Paper 1 Section B: Yalta, Truman Doctrine, Berlin, Korea, Warsaw Pact and Hungary."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

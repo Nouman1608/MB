@@ -17,10 +17,12 @@ syllabusTopics:
     subtopic: "the-compilation-and-categorisation-of-hadith-9237"
 description: "Original questions with mark guidance on the categories of Hadith, the Isnad and Matn, and the work of Bukhari and Muslim, for 9237 topic 3.2.2.4."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the traditional figures for Sahih al-Bukhari (about 7,000 reports with repeats, about 2,600 without; sixteen years), the dates for Bukhari and Muslim, and the account of the two conditions (met versus contemporaries)."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: check the traditional figures for Sahih al-Bukhari (about 7,000 reports with repeats, about 2,600 without; sixteen years), the dates for Bukhari and Muslim, and the account of the two conditions (met versus contemporaries)."
 ---
 
 > **These are original questions written for Marlbridge**, for practice on content area 3.2.2.4:

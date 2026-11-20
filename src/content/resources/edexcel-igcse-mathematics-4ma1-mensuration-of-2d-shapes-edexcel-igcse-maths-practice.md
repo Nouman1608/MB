@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "mensuration-of-2d-shapes-edexcel-igcse-maths"
 description: "Thirteen original 4MA1 mensuration questions on unit conversion, compound shapes, trapezia, circles, semicircles and sectors, with full marking points."
 author: "marlbridge-academic-team"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

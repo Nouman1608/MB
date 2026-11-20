@@ -17,6 +17,10 @@ syllabusTopics:
     subtopic: "the-legacy-and-lessons-of-hazrat-muhammad-9237"
 description: "The key teachings of the Final Sermon and the lessons of his life on parents, justice, honesty and patience, for 9237 topic 3.2.1.10."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

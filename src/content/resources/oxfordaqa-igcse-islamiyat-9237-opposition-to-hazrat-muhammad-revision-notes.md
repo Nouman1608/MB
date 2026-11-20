@@ -18,8 +18,10 @@ syllabusTopics:
     subtopic: "opposition-to-hazrat-muhammad-9237"
 description: "Quick recall notes on why the Quraysh opposed the Prophet (pbuh), the boycott of Banu Hashim, Ta'if, the Year of Sorrow, the plots to kill him and Qur'an 111:1-5, for 9237 content area 3.2.1.5."
 author: "marlbridge-academic-team"
-reviewNeeded: true
-reviewNote: "2026-11-20: check the dates of the boycott and the Year of Sorrow against a teacher's notes."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the dates of the boycott and the Year of Sorrow against a teacher's notes."
 publishedDate: 2026-11-20
 featured: false
 ---

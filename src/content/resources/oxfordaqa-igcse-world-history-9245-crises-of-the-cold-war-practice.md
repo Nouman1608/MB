@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "crises-of-the-cold-war-9245"
 description: "Original 9245 Paper 1 Section A questions on Crises of the Cold War, 1960-1975: knowledge checks and source questions on Cuba, Czechoslovakia and Vietnam."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

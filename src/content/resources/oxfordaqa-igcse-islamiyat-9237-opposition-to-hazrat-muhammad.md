@@ -18,8 +18,10 @@ syllabusTopics:
     subtopic: "opposition-to-hazrat-muhammad-9237"
 description: "The reasons for Makkan opposition, the boycott of Banu Hashim, the events at Ta'if and the plots to kill the Prophet (pbuh), with Qur'an 111:1-5, for 9237 content area 3.2.1.5."
 author: "marlbridge-academic-team"
-reviewNeeded: true
-reviewNote: "2026-11-20: check the dates of the boycott and the Year of Sorrow and the details of Ta'if against a teacher's notes."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the dates of the boycott and the Year of Sorrow and the details of Ta'if against a teacher's notes."
 publishedDate: 2026-11-20
 featured: false
 ---

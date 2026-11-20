@@ -18,8 +18,10 @@ syllabusTopics:
     subtopic: "pre-islamic-arabia-9237"
 description: "The religious, political, moral and social features of Pre-Islamic Arabia and the meaning of Jahiliya, with Qur'an 17:31, for 9237 content area 3.2.1.1."
 author: "marlbridge-academic-team"
-reviewNeeded: true
-reviewNote: "2026-11-20: check the number of idols, the names of the deities and the practices described against a teacher's notes."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the number of idols, the names of the deities and the practices described against a teacher's notes."
 publishedDate: 2026-11-20
 featured: false
 ---

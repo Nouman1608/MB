@@ -17,10 +17,12 @@ syllabusTopics:
     subtopic: "the-use-of-shariah-in-everyday-life-9237"
 description: "Recall notes on Halal and Haram, dietary laws, dress laws and the role of parents, with Sahih al-Bukhari 5027, for 9237 topic 3.2.2.7."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the dress rules (navel to knees for men, silk and gold, covering for women) and the points on halal slaughter and parents' duties against a teacher's usual teaching."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: check the dress rules (navel to knees for men, silk and gold, covering for women) and the points on halal slaughter and parents' duties against a teacher's usual teaching."
 ---
 
 **These notes condense content area 3.2.2.7 of 9237: "Following the Qur'an and Sunnah in everyday life, including Halal and Haram, dietary laws and dress laws for men and women. The role of parents including religious upbringing and developing good morals and character."** The full explanation is in the [study guide](/resources/oxfordaqa-igcse-islamiyat-9237-use-of-shariah-in-everyday-life/).

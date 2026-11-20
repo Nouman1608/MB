@@ -19,6 +19,10 @@ syllabusTopics:
     subtopic: "belief-in-predestination-al-qadr-9237"
 description: "Nine original questions with mark guidance on Al-Qadr: its meaning, importance and influence, free will, and the Hadith in Sahih al-Bukhari 1362 (9237 topic 3.1.1.5)."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---
