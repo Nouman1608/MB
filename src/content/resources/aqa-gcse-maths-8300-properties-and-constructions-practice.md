@@ -115,7 +115,7 @@ These questions cover section 3.4.1, **Properties and constructions** (G1 to G13
 
 **7.** Let angle BAC = a and angle ABC = b. Angles in triangle ABC add to 180°, so angle ACB = 180 − a − b [1]. Angles on the straight line BCD add to 180°, so angle ACD = 180 − angle ACB [1] = 180 − (180 − a − b) = a + b, which is the sum of angle BAC and angle ABC [1].
 
-**8.** **(a)** Multiply each coordinate by 3/4: **(3, 3), (9, 3), (9, 6)** **[2]** (one mark for two correct points).
+**8.** **(a)** Multiply each coordinate by 3/4: **(3, 3), (9, 3), (9, 6)** [1] [1] (one mark for two correct points).
 **(b)** D = **(2, 5)** [1]. AC = √((8 − 2)² + (5 − 1)²) = √(36 + 16) [1] = √52 = **7.21 cm** (3 s.f.) [1].
 
 **9.** **(a)** F + V − E = 2, so 7 + 10 − E = 2 [1], giving E = **15** [1].

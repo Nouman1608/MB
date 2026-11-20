@@ -154,7 +154,6 @@ If the user had answered that the headlights are bright, Rule 1 would fail and t
 - It is **faster** than a person at searching large numbers of rules.
 - It can **explain** its reasoning.
 - It reduces the **cost** of employing experts and can free them for harder cases.
-- It can be used in **dangerous or remote** places.
 
 ## Disadvantages of expert systems
 
@@ -182,7 +181,6 @@ A good system can use both: forward chaining to narrow the list, then backward c
 - Mixing up forward chaining (starts with facts) and backward chaining (starts with a goal).
 - Writing that an expert system "thinks" or "is always right".
 - Saying the explanation system "explains how to use the system". It explains how the **conclusion** was reached.
-- Giving the same answer for the knowledge base editor and the user interface.
 
 ## Exam technique
 

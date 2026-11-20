@@ -16,7 +16,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "number"
     subtopic: "surds-4024"
-description: "Fourteen original Cambridge O Level Maths 4024 questions on simplifying surds, expanding brackets and rationalising denominators, with answers."
+description: "Seventeen original Cambridge O Level Maths 4024 questions on simplifying surds, expanding brackets and rationalising denominators, with answers."
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-20
 featured: false
@@ -68,6 +68,12 @@ Related: [Surds study guide](/resources/cambridge-o-level-mathematics-4024-surds
 
 **14.** Show that √50 ÷ √2 is an integer, and state its value. **[2]**
 
+**15.** Simplify √200 - √50. **[2]**
+
+**16.** A right-angled triangle has two shorter sides of length √7 cm and 3 cm. Find the exact length of the hypotenuse. **[2]**
+
+**17.** Write (√5 + 1)/(√5 - 1) in the form a + b√5, where a and b are fractions. **[3]**
+
 ## Answers
 
 **1.** 72 = 36 × 2 **[1]**; √72 = **6√2** **[1]** **[2]**
@@ -108,6 +114,14 @@ Related: [Surds study guide](/resources/cambridge-o-level-mathematics-4024-surds
 
 *Examiner insight:* Dividing the roots is quicker than simplifying each one.
 
+**15.** √200 = 10√2 and √50 = 5√2 **[1]**; **5√2** **[1]** **[2]**
+
+**16.** h² = (√7)² + 3² = 7 + 9 = 16 **[1]**; h = **4 cm** **[1]** **[2]**
+
+*Examiner insight:* Squaring √7 gives 7. The answer is a whole number, so the hypotenuse is rational even though one side is a surd.
+
+**17.** multiply top and bottom by (√5 + 1) **[1]**; numerator 6 + 2√5 and denominator 4 **[1]**; result **3/2 + (1/2)√5** **[1]** **[3]**
+
 ## Where marks are usually lost
 
 - Using a square factor that is not the largest in Question 1, and stopping at 2√18.
@@ -116,6 +130,8 @@ Related: [Surds study guide](/resources/cambridge-o-level-mathematics-4024-surds
 - Multiplying only the numerator when rationalising in Questions 7, 9 and 10.
 - Using the wrong sign for the conjugate in Questions 10 and 11.
 - Leaving the denominator -1 unresolved in Question 10.
+- Not cancelling the final fraction in Question 17.
+- Forgetting that √7 squared is 7 in Question 16.
 
 ## Frequently asked questions
 

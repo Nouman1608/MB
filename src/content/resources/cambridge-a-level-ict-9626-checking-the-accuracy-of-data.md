@@ -179,7 +179,6 @@ Using both gives the best chance of accurate data. A good system validates each 
 - Mixing up a **range check** (two limits) with a **limit check** (one limit).
 - Confusing a **hash total** with a **control total**: only the control total is a meaningful quantity.
 - Saying a parity check can correct errors. It only detects a single-bit error.
-- Using "double entry" for validation. It is a verification method.
 
 ## Exam technique
 

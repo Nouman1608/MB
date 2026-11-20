@@ -88,8 +88,6 @@ Compare the keys step by step.
 
 **New master file:** 101 (50), 102 (100), 104 (15), 106 (25). **Error report:** account 105 not found.
 
-This worked example shows why sorting matters. If the transaction file was in a different order, the program would not match the records in a single pass.
-
 ### Writing the update as an algorithm
 
 The syllabus asks you to write the steps as an algorithm (section 4.1 covers pseudocode). A suitable version is:
@@ -115,21 +113,17 @@ WHILE NOT end of both files
 ENDWHILE
 ```
 
-A full answer also needs a rule for when one file ends before the other; in practice a very high key value is used as an end marker so the loop copes with both cases.
-
 ### Advantages of batch processing
 
 - Efficient for large volumes, as the computer is set up once for a whole job.
 - Can run overnight or at quiet times, so it does not slow the system for users.
 - Cheaper per record, since staff are not needed during the run.
-- Errors found in a transaction file can be corrected before the run starts.
 
 ### Disadvantages of batch processing
 
 - **Results are delayed**: records are out of date until the batch has run.
 - If an error is not found until the run finishes, the whole job may need repeating.
 - Users cannot query or change records during the processing.
-- Needs well-organised sorting and scheduling.
 
 ## Online processing
 
@@ -166,7 +160,6 @@ In **online processing** (also called interactive or transaction processing), ea
 
 - Records are always **up to date**, so decisions use current data.
 - Customers get an **immediate response**, such as a confirmed booking.
-- Double booking and selling items that are out of stock are avoided.
 
 ### Disadvantages of online processing
 
@@ -203,14 +196,12 @@ A WSAN is a group of sensors and actuators that communicate **wirelessly** and w
 ### Advantages of real-time processing
 
 - Immediate response to changes, which is essential for safety.
-- Works without a person, day and night.
 - Keeps a quantity very close to the set value.
 
 ### Disadvantages of real-time processing
 
 - Expensive and complex to design, test and maintain.
 - A sensor or software fault could cause serious damage or danger.
-- Needs reliable power and a fast, dependable processor.
 
 ## Choosing a method
 
@@ -227,7 +218,6 @@ A WSAN is a group of sensors and actuators that communicate **wirelessly** and w
 - Forgetting that master and transaction files must be **in the same key order**.
 - Describing batch processing as "slow". It is efficient for volume, but the **results are delayed**.
 - Writing steps for EFT or online shopping that miss the **check** (balance, stock or authorisation) before the update.
-- Giving a generic advantage such as "it is faster" without saying what is faster and why.
 
 ## Exam technique
 

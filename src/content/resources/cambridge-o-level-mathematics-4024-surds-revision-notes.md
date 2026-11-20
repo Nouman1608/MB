@@ -123,6 +123,45 @@ Check with a calculator when allowed: 3/(2 + √5) = 0.708 and 3√5 - 6 = 0.708
 | Right isosceles triangle | legs 4 | hypotenuse 4√2 |
 | Square | side √7 | area 7, diagonal √14 |
 
+## Rational or irrational?
+
+| Expression | Value | Type |
+|---|---|---|
+| √2 × √8 | √16 = 4 | rational |
+| √3 × √5 | √15 | irrational |
+| (1 + √2)(1 - √2) | 1 - 2 = -1 | rational |
+| 3 + √5 | cannot be simplified | irrational |
+| √(9/4) | 3/2 | rational |
+| √(5/9) | √5/3 | irrational |
+| 2 × √7 | 2√7 | irrational |
+
+A rational number plus or times an irrational number (other than 0) is irrational. Two irrational numbers can combine to give a rational one, as √2 × √8 shows.
+
+## Surds under a fraction
+
+Split the root over the top and bottom, then simplify each.
+
+| Expression | Working | Result |
+|---|---|---|
+| √(9/4) | 3/2 | 3/2 |
+| √(5/9) | √5/3 | √5/3 |
+| √(8/18) | √8 ÷ √18 = 2√2 ÷ 3√2 | 2/3 |
+| 1/√2 | multiply top and bottom by √2 | √2/2 |
+| √2 ÷ √8 | √(2/8) = √(1/4) | 1/2 |
+
+## A full worked example
+
+Express (√5 + 1)/(√5 - 1) in the form a + b√5.
+
+```
+multiply top and bottom by (√5 + 1):
+numerator:   (√5 + 1)^2 = 5 + 2√5 + 1 = 6 + 2√5
+denominator: 5 - 1 = 4
+result: (6 + 2√5)/4 = (3 + √5)/2 = 3/2 + (1/2)√5
+```
+
+Steps to remember: conjugate, expand top, expand bottom, then simplify the fraction by cancelling common factors.
+
 ## Exam traps
 
 - √(a + b) is not √a + √b.

@@ -215,30 +215,6 @@ numbers with the smaller number and the remainder, which is the classic method f
 factor** of two numbers. 6 is the largest number that divides into both 48 and 18. To give the purpose you can
 either recognise the method or run two or three different inputs and spot the relationship.
 
-A third example shows how a trace exposes a purpose quickly.
-
-```
-n ← 2718
-s ← 0
-WHILE n > 0
-  d ← n MOD 10
-  s ← s + d
-  n ← n DIV 10
-ENDWHILE
-OUTPUT s
-```
-
-| Pass | d | s | n |
-|---|---|---|---|
-| start | | 0 | 2718 |
-| 1 | 8 | 8 | 271 |
-| 2 | 1 | 9 | 27 |
-| 3 | 7 | 16 | 2 |
-| 4 | 2 | 18 | 0 |
-
-The output is **18**. Each pass takes off the last digit with `MOD 10`, adds it to `s`, and removes it with
-`DIV 10`. The purpose is **to add up the digits of a whole number**.
-
 ## How to build a good trace table
 
 - Give each variable its own column, and add a column for the output if the algorithm has several outputs.
@@ -246,7 +222,6 @@ The output is **18**. Each pass takes off the last digit with `MOD 10`, adds it 
 - Add one row per pass, and update only the variables that change in that pass.
 - Do the work **line by line**. Doing the whole loop in your head is where most errors happen.
 - Stop when the loop condition fails, and check the output line afterwards.
-- Check the answer with a different test input, preferably an awkward one such as 0 or a single item.
 
 ## Worked example: from description to algorithm
 
@@ -281,7 +256,7 @@ the comparison and assignment are the processing, and the final `OUTPUT` is the 
 - Forgetting the end of a structure (`ENDIF`, `ENDWHILE`, `ENDFOR`) or ignoring indentation.
 - Using `=` for assignment when `←` is meant, or `←` for a comparison when `=` is meant.
 - Updating every variable in every row of a trace table, instead of only the ones that change.
-- Stating the output as the purpose. The output is **8**; the purpose is "adds the digits of a number".
+- Stating the output as the purpose. The output is **6**; the purpose is "finds the highest common factor".
 - Missing the final row of a trace, so the last pass of the loop is not recorded.
 
 ## Exam technique

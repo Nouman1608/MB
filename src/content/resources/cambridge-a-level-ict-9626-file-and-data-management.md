@@ -200,7 +200,6 @@ A **management information system** collects data from across an organisation, s
 
 - Confusing **generic** formats (many programs can open them) with **open-source** formats (the specification is public).
 - Mixing up indexed sequential access (index then block) and direct access (calculated position).
-- Writing that direct access needs the file to be sorted.
 - Describing an MIS as "the same as a database". An MIS uses data from databases to produce information for managers.
 
 ## Exam technique

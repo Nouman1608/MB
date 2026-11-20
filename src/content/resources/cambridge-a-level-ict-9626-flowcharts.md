@@ -230,7 +230,6 @@ After the fixes, the flowchart totals ten different numbers, then divides the to
 - Making a loop that never changes the value being tested.
 - Using the wrong comparison, so the boundary value goes the wrong way.
 - Joining flow lines into the middle of a box instead of to the box.
-- Using a flowchart symbol for subroutines but writing the steps inside the same box.
 
 ## Exam technique
 

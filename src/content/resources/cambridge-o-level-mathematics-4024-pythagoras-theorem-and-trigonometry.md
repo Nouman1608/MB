@@ -159,6 +159,18 @@ elevation from A: tan θ = 30/40, so θ = 36.9°
 elevation from C: tan φ = 30/50, so φ = 31.0°
 ```
 
+### Worked example 9
+
+A room is 5 m long, 4 m wide and 3 m high. A cable runs in a straight line from a floor corner to the opposite ceiling corner. Find its length and its angle to the floor.
+
+```
+floor diagonal = √(25 + 16) = √41 = 6.40 m
+cable² = 41 + 9 = 50, so cable = 7.07 m
+angle with the floor: tan θ = 3 / 6.40, so θ = 25.1°
+```
+
+Here the floor diagonal is the projection of the cable on the floor. 
+
 ## Drawing the triangles
 
 For every step, redraw the triangle as a flat right-angled triangle. Label the right angle, the known sides and the angle. It is tempting to read lengths from the 3D sketch, but the sketch distorts them, so rely only on the given dimensions.
