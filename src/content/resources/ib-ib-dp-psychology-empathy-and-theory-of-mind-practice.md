@@ -30,8 +30,7 @@ featured: false
 > tariffs. The study in Question 8 is invented, with invented figures.
 
 Related: [Empathy and theory of mind study guide](/resources/ib-ib-dp-psychology-empathy-and-theory-of-mind/),
-[revision notes](/resources/ib-ib-dp-psychology-empathy-and-theory-of-mind-revision-notes/) and the
-[developmental psychology practice questions](/resources/ib-ib-dp-psychology-developmental-psychology-practice/).
+[revision notes](/resources/ib-ib-dp-psychology-empathy-and-theory-of-mind-revision-notes/).
 
 ## Section A
 

@@ -128,4 +128,3 @@ These notes cover **theory of mind** and the **development of empathy** for the 
 ## Related pages
 
 - [Empathy and theory of mind: practice questions](/resources/ib-ib-dp-psychology-empathy-and-theory-of-mind-practice/)
-- [Developmental psychology practice questions](/resources/ib-ib-dp-psychology-developmental-psychology-practice/)
