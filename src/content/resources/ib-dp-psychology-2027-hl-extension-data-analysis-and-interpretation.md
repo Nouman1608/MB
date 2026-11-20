@@ -15,10 +15,12 @@ syllabusTopics:
     topic: "ib-dp-psychology-2027-hl-extension-data-analysis-and-interpretation"
 description: "A study guide to data analysis and interpretation in IB DP Psychology (2027): graphs, distributions, descriptive and inferential statistics, correlation and thematic analysis."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a psychologist should confirm the stages given for thematic analysis (six phases after Braun and Clarke) and the guidance on reading the t and r values; the guide lists the terms but not a procedure or a named test."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a psychologist should confirm the stages given for thematic analysis (six phases after Braun and Clarke) and the guidance on reading the t and r values; the guide lists the terms but not a procedure or a named test."
 ---
 
 Data analysis and interpretation is listed with the HL extensions in the IB Psychology guide for first assessment 2027, but there is a difference. The guide says it "should be studied by SL and HL students but it is **not** assessed at SL". For **HL students** it is assessed in **Paper 3** (four source-based questions, 30 marks, 1 hour 45 minutes) and it supports the internal assessment. This page is therefore HL-focused, though SL students will find it useful for Paper 2 and the research proposal. It is the skills strand that sits behind the culture, motivation and technology extensions.

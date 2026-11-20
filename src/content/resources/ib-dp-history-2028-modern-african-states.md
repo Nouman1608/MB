@@ -16,9 +16,11 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-regional-study-africa-and-the-middle-east-12"
 description: "Authoritarian rule, multi-party reform, development, social challenges, coups and external involvement in Ethiopia, Niger, Somalia, Tunisia, Zambia and Zimbabwe."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: country-specific facts across six states were written from general knowledge without a source text. A historian should confirm: Gukurahundi dates and the usual casualty estimate for Zimbabwe, Zambia's one-party state dates, Niger's list of coups and Tuareg rebellions, the Ethiopian famine of 1983 to 1985 estimates, Ethiopian growth figures, Somalia's 1991 collapse and the AMISOM dates."
 publishedDate: 2026-11-20
-reviewNeeded: true
-reviewNote: "2026-11-20: country-specific facts across six states were written from general knowledge without a source text. A historian should confirm: Gukurahundi dates and the usual casualty estimate for Zimbabwe, Zambia's one-party state dates, Niger's list of coups and Tuareg rebellions, the Ethiopian famine of 1983 to 1985 estimates, Ethiopian growth figures, Somalia's 1991 collapse and the AMISOM dates."
 featured: false
 ---
 

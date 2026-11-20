@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-regional-study-africa-and-the-middle-east-6"
 description: "Revision notes on South Africa from the Mineral Revolution to the 2020s for IB DP History HL Paper 3: apartheid, resistance, sanctions, transition and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

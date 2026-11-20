@@ -15,10 +15,12 @@ syllabusTopics:
     topic: "ib-dp-psychology-2027-hl-extension-culture"
 description: "A higher level study guide to the culture extension of IB DP Psychology (2027): areas of inquiry in each context, research problems, example studies and Paper 3 skills."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a psychologist should confirm the example studies and figures used (Hofstede dimensions, Berry's acculturation strategies, Markus and Kitayama 1991, Durie's Te Whare Tapa Wha, Becker et al. on Fiji, van IJzendoorn and Kroonenberg 1988). The guide prints no named studies for this extension."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a psychologist should confirm the example studies and figures used (Hofstede dimensions, Berry's acculturation strategies, Markus and Kitayama 1991, Durie's Te Whare Tapa Wha, Becker et al. on Fiji, van IJzendoorn and Kroonenberg 1988). The guide prints no named studies for this extension."
 ---
 
 This page is **higher level (HL) only**. The role of culture in shaping human behaviour is one of three HL extensions (with motivation and technology), and the extensions are assessed in **Paper 3**, which SL students do not sit. The extension is meant to extend your understanding of the four contexts, so you apply it inside health and well-being, human development, human relationships and learning and cognition. The guide prints areas of inquiry, not named studies, so the studies below are widely used examples. Teachers and students are encouraged to develop their own areas of inquiry.

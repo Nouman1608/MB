@@ -15,10 +15,12 @@ syllabusTopics:
     topic: "ib-dp-psychology-2027-sociocultural-approach"
 description: "Original IB DP Psychology (2027) practice on the sociocultural approach: cognitive dissonance, emic and etic research, enculturation, acculturation, conformity and a 15-mark evaluation."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a psychologist should confirm the study descriptions used in the answers (Festinger and Carlsmith 1959, Asch, Tajfel et al. 1971, Berry's model, Hofstede). The guide names no required studies for the approach. Mark tariffs are practice tariffs apart from Question 11, which uses the 15-mark tariff of the guide's concept-based extended response."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a psychologist should confirm the study descriptions used in the answers (Festinger and Carlsmith 1959, Asch, Tajfel et al. 1971, Berry's model, Hofstede). The guide names no required studies for the approach. Mark tariffs are practice tariffs apart from Question 11, which uses the 15-mark tariff of the guide's concept-based extended response."
 ---
 
 > **These are original questions written for Marlbridge** on the sociocultural approach (content) of IB DP Psychology, first assessment 2027. They are not past-paper questions, and the scenarios are invented. The guide says that Paper 1 Section A asks you to explain or describe a psychological idea and give an example, and Section B asks you to apply content to an unseen situation in one of the four contexts. Question 11 uses the 15-mark tariff of the concept-based extended response; other tariffs are for practice.

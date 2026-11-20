@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-focused-study-5"
 description: "Revision notes on feminism in the USA (1960 to 1979) and revolution in Tunisia (1989 to 2015) for IB DP History, first assessment 2028."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check US dates (Pill 1960, NOW 1966, Title IX 1972, Roe v. Wade 1973, ERA ratification outcome) and Tunisian dates and election results (17 December 2010, 14 January 2011, October 2011 and 2014 elections, 2014 constitution, 2015 attacks)."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: check US dates (Pill 1960, NOW 1966, Title IX 1972, Roe v. Wade 1973, ERA ratification outcome) and Tunisian dates and election results (17 December 2010, 14 January 2011, October 2011 and 2014 elections, 2014 constitution, 2015 attacks)."
 ---
 
 Revision notes for the focused study **Protest and change** in IB DP History (first assessment 2028), for SL and HL. Both examples are required: **feminism in the USA (1960 to 1979)** and **revolution in Tunisia (1989 to 2015)**. See the [study guide](/resources/ib-dp-history-2028-protest-and-change/) and the [practice questions](/resources/ib-dp-history-2028-protest-and-change-practice/).

@@ -15,10 +15,12 @@ syllabusTopics:
     topic: "ib-dp-psychology-2027-hl-extension-motivation"
 description: "HL revision notes on the motivation extension of IB DP Psychology (2027): key terms, self-determination theory, areas of inquiry and Paper 3 technique, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a psychologist should confirm the example theories and studies named (Lepper, Greene and Nisbett 1973, Maslow, Locke and Latham, Prochaska and DiClemente, Dweck). The guide names only self-determination theory."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a psychologist should confirm the example theories and studies named (Lepper, Greene and Nisbett 1973, Maslow, Locke and Latham, Prochaska and DiClemente, Dweck). The guide names only self-determination theory."
 ---
 
 These notes are for **HL only**. The motivation extension is assessed in Paper 3 (1 hour 45 minutes, 30 marks). They condense the IB Psychology guide for first assessment 2027. For explanations read the [study guide](/resources/ib-dp-psychology-2027-hl-extension-motivation/) and then use the [practice set](/resources/ib-dp-psychology-2027-hl-extension-motivation-practice/).

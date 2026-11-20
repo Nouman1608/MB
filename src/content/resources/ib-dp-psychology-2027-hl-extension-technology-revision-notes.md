@@ -15,10 +15,12 @@ syllabusTopics:
     topic: "ib-dp-psychology-2027-hl-extension-technology"
 description: "HL revision notes on the technology extension of IB DP Psychology (2027): research problems, areas of inquiry, example evidence and Paper 3 technique, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a psychologist should confirm the example studies (Kramer et al. 2014, Orben and Przybylski 2019, Twenge et al. 2018, Sparrow et al. 2011, Ward et al. 2017). The guide prints no named studies for this extension."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a psychologist should confirm the example studies (Kramer et al. 2014, Orben and Przybylski 2019, Twenge et al. 2018, Sparrow et al. 2011, Ward et al. 2017). The guide prints no named studies for this extension."
 ---
 
 These notes are for **HL only**. The technology extension is assessed in Paper 3 (1 hour 45 minutes, 30 marks). They condense the IB Psychology guide for first assessment 2027. For explanations read the [study guide](/resources/ib-dp-psychology-2027-hl-extension-technology/) and then use the [practice set](/resources/ib-dp-psychology-2027-hl-extension-technology-practice/).

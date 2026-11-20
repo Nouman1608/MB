@@ -15,10 +15,12 @@ syllabusTopics:
     topic: "ib-dp-psychology-2027-human-relationships"
 description: "A study guide to the human relationships context of IB DP Psychology (2027): group behaviour, interpersonal relationships, the survey practical and how to plan an extended response."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a psychologist should confirm the example study details used for illustration (Asch, Tajfel, Sherif, Freedman and Fraser, Hazan and Shaver 1987, Buss 1989). The guide names only Hazan and Shaver (1987) and Buss (1989), and only as suggestions for the class practical."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a psychologist should confirm the example study details used for illustration (Asch, Tajfel, Sherif, Freedman and Fraser, Hazan and Shaver 1987, Buss 1989). The guide names only Hazan and Shaver (1987) and Buss (1989), and only as suggestions for the class practical."
 ---
 
 Human relationships is the third of the four contexts in the IB Psychology course for first assessment 2027. It is studied by every SL and HL student. A **context** is the real-world setting in which you apply the content (the biological, cognitive and sociocultural approaches and research methodology) and the six concepts (bias, causality, change, measurement, perspective and responsibility). This page maps the whole context. Two detailed pages go deeper: **group behaviour** and **interpersonal relationships**. Each has its own study guide, revision notes and practice set.

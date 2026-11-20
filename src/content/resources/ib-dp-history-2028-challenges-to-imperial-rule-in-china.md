@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-regional-study-asia-and-oceania-3"
 description: "A study guide to the HL regional study of challenges to imperial rule in China (1736 to 1911): Qianlong, the Opium Wars, the Taiping, reform and the 1911 revolution."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

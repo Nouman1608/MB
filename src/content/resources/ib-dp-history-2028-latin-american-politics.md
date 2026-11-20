@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-regional-study-the-americas-10"
 description: "HL-only study guide to political developments in Latin America, 1934 to 2020: the Cuban Revolution, Castro's rule, populism, guerrillas, military dictatorship and democratisation."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a historian should confirm figures (Argentine disappeared and Nunca Mas totals, Peruvian Truth Commission totals, Mariel numbers, Chilean plebiscite result) and dates for Argentine amnesty laws and the Peruvian conflict."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a historian should confirm figures (Argentine disappeared and Nunca Mas totals, Peruvian Truth Commission totals, Mariel numbers, Chilean plebiscite result) and dates for Argentine amnesty laws and the Peruvian conflict."
 ---
 
 **HL only.** This is the tenth study in the Regional study for the Americas, examined on Paper 3 at Higher Level. Paper 3 asks you to evaluate an argument and reach a judgement. The first two inquiry topics are about **Cuba**. The next four each require **one Latin American country**: emerging challenges, the impact of a guerrilla movement, military dictatorship, and democratisation. This guide uses **Argentina** for populism, dictatorship and democratisation, **Peru** for guerrilla war, and **Chile** for comparison. You can use different countries, but know them in depth.

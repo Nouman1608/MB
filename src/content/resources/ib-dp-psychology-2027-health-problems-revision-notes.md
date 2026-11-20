@@ -15,10 +15,12 @@ syllabusTopics:
     topic: "ib-dp-psychology-2027-health-and-well-being"
 description: "Revision notes on health problems in IB DP Psychology (2027): prevalence, social learning and stress, with evaluation points and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a psychologist should confirm the example study details (Birch et al. 1980, Harris, Bargh and Brownell 2009, Kiecolt-Glaser et al. 1984, Epel et al. 2000, Hunt et al. 2018). The guide names none of them."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a psychologist should confirm the example study details (Birch et al. 1980, Harris, Bargh and Brownell 2009, Kiecolt-Glaser et al. 1984, Epel et al. 2000, Hunt et al. 2018). The guide names none of them."
 ---
 
 These notes condense the **health problems** strand of the health and well-being context (SL and HL, first assessment 2027). The guide says to understand one or more of obesity, drug misuse or abuse, or social media addiction, through three areas: prevalence, social learning and stress. Read the [study guide](/resources/ib-dp-psychology-2027-health-problems/) for the detail and try the [practice set](/resources/ib-dp-psychology-2027-health-problems-practice/).

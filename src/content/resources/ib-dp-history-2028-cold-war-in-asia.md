@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-regional-study-asia-and-oceania-11"
 description: "A study guide to the HL regional study of the Cold War in Asia (1949 to 2002): the Korean War, the Vietnam conflict and the war in Afghanistan, with causes and impact."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a historian should confirm the approximate casualty and troop figures, the Gulf of Tonkin and Afghan dates, and the wording on Soviet decision-making in 1979."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a historian should confirm the approximate casualty and troop figures, the Gulf of Tonkin and Afghan dates, and the wording on Soviet decision-making in 1979."
 ---
 
 This is a **higher level (HL) only** page. The Cold War in Asia (1949 to 2002) is one of the twelve regional studies in the Asia and Oceania option, examined on Paper 3, the 2-hour essay paper that standard level students do not sit. This guide follows the IB *History guide*, first assessment 2028. It covers three conflicts in turn: the Korean War, the war in Vietnam, and the conflict in Afghanistan, with the causes and the effects of each.

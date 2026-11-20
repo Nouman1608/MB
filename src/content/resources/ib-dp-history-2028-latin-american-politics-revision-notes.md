@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-regional-study-the-americas-10"
 description: "HL-only revision notes on political developments in Latin America, 1934 to 2020: Cuba, populism, guerrillas, dictatorship and democratisation, with debates and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a historian should confirm figures (Argentine disappeared, Peruvian Truth Commission deaths, Mariel numbers) and dates for the Argentine amnesty laws."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a historian should confirm figures (Argentine disappeared, Peruvian Truth Commission deaths, Mariel numbers) and dates for the Argentine amnesty laws."
 ---
 
 **HL only.** These notes support Paper 3 (Regional study, the Americas) in IB DP History for first assessment 2028. The first two topics are about Cuba. The next four need **one Latin American country** each. The notes use Argentina (populism, dictatorship, democratisation) and Peru (guerrilla movement), with Chile for comparison. See the [study guide](/resources/ib-dp-history-2028-latin-american-politics/) for explanations and the [practice questions](/resources/ib-dp-history-2028-latin-american-politics-practice/) to test yourself.

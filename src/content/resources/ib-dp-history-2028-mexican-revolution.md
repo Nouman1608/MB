@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-regional-study-the-americas-6"
 description: "HL-only study guide to the Mexican Revolution, 1884 to 1940: the Diaz regime, revolutionary leaders, the 1917 Constitution, the post-revolutionary state and foreign involvement."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a historian should confirm approximate figures (railway growth, hectares redistributed under Cardenas, death toll) and the summaries of Womack, Knight and revisionist views."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a historian should confirm approximate figures (railway growth, hectares redistributed under Cardenas, death toll) and the summaries of Womack, Knight and revisionist views."
 ---
 
 **HL only.** This is the sixth study in the Regional study for the Americas, examined on Paper 3 at Higher Level. Paper 3 asks you to evaluate an argument and reach a judgement. The Mexican Revolution is one of the central events of 20th-century Latin America, and it raises a basic question for essays: was it a genuine social revolution, or a long civil war that changed politics more than society? You need to know the key leaders, the main stages, and what changed and what did not by 1940.

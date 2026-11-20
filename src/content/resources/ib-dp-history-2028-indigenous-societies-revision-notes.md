@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-regional-study-the-americas-1"
 description: "HL-only revision notes on Indigenous societies in the Americas, circa 750 to 1500: key terms, case-study facts for the Aztec and Inca, debates and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a historian should confirm approximate dates and figures (Triple Alliance 1428, Pachacuti from about 1438, Inca civil war about 1527) and the summaries of historians' positions (Murra, Hassig, Baudin)."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a historian should confirm approximate dates and figures (Triple Alliance 1428, Pachacuti from about 1438, Inca civil war about 1527) and the summaries of historians' positions (Murra, Hassig, Baudin)."
 ---
 
 **HL only.** These notes support Paper 3 (Regional study, the Americas) in IB DP History for first assessment 2028. Every question on this study asks about **one Indigenous society**, so pick one (the notes use the Aztec Triple Alliance and the Inca) and learn it well. The fuller [study guide](/resources/ib-dp-history-2028-indigenous-societies/) gives the detail. Practise with the [practice questions](/resources/ib-dp-history-2028-indigenous-societies-practice/).

@@ -15,10 +15,12 @@ syllabusTopics:
     topic: "ib-dp-psychology-2027-biological-approach"
 description: "Revision notes on neurotransmission in IB DP Psychology (2027): the process at the synapse, drug actions, health applications, evaluation and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a psychologist should confirm the example details (SSRIs, L-DOPA, Olds and Milner 1954, Kirsch et al. 2008, Cipriani et al. 2018, Moncrieff et al. 2022, Caspi et al. 2003). The guide names none of them."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a psychologist should confirm the example details (SSRIs, L-DOPA, Olds and Milner 1954, Kirsch et al. 2008, Cipriani et al. 2018, Moncrieff et al. 2022, Caspi et al. 2003). The guide names none of them."
 ---
 
 These notes condense **neurotransmission** from the biological approach (SL and HL, first assessment 2027). The learning objective has two parts: the process of neurotransmission, and how an understanding of it allows psychologists to improve health and wellness. Read the [study guide](/resources/ib-dp-psychology-2027-neurotransmission/) for detail, then try the [practice set](/resources/ib-dp-psychology-2027-neurotransmission-practice/).

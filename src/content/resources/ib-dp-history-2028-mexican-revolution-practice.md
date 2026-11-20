@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-regional-study-the-americas-6"
 description: "HL-only practice questions with answers on the Mexican Revolution, 1884 to 1940, in the style of the Paper 3 regional study."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a historian should confirm factual claims in the answers and the constructed source extract."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a historian should confirm factual claims in the answers and the constructed source extract."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-regional-study-the-americas-11"
 description: "HL-only revision notes on social movements in the Americas, 1945 to 2020: the civil rights movement and the Chicano movement, with key terms, tables, debates and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a historian should confirm voter registration figures, the Chicano Moratorium details and the contract and law dates for the farm workers' movement."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a historian should confirm voter registration figures, the Chicano Moratorium details and the contract and law dates for the farm workers' movement."
 ---
 
 **HL only.** These notes support Paper 3 (Regional study, the Americas) in IB DP History for first assessment 2028. Half of the study is the African American civil rights movement; the other half is **one other movement**. These notes use the Chicano movement and the United Farm Workers (UFW). The [study guide](/resources/ib-dp-history-2028-social-movements-americas/) gives the explanations, and the [practice questions](/resources/ib-dp-history-2028-social-movements-americas-practice/) let you rehearse.

@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-thematic-study-3"
 description: "Study guide to the thematic study of authoritarian rule from 1750 CE onwards for IB DP History, first assessment 2028."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: example bank facts to confirm: Enabling Act and Nuremberg Laws dates, Stalin's terror dates, Great Leap Forward death estimates (a range), Pinochet dates and plebiscite result, Congo Free State dates."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: example bank facts to confirm: Enabling Act and Nuremberg Laws dates, Stalin's terror dates, Great Leap Forward death estimates (a range), Pinochet dates and plebiscite result, Congo Free State dates."
 ---
 
 The thematic study **Authoritarian rule (from 1750 CE onwards)** is one of four options in IB DP History (first assessment 2028). A class studies one thematic study, assessed in paper 2. The guide sets four inquiry questions, each with four lines of inquiry, and **prescribes no examples**. You and your teacher choose examples, and each line of inquiry must be explored using at least two examples from more than one region. This guide explains the framework, suggests a bank of examples, and shows how to build paper 2 answers. It is the same for SL and HL. The material includes persecution and mass death, so use careful, precise language.

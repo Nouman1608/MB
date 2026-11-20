@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-regional-study-asia-and-oceania-10"
 description: "Original HL practice questions with worked answers on the emergence of Central Asian republics (1917 to 2020), using Kazakhstan as the example."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a historian should confirm the factual claims in the answers (dates and approximate figures) before these questions are marked reviewed."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a historian should confirm the factual claims in the answers (dates and approximate figures) before these questions are marked reviewed."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

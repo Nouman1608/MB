@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-regional-study-the-americas-12"
 description: "HL-only study guide to political developments in the USA and Canada, 1960 to 2020: presidencies from Kennedy to Trump, and Canadian politics, the Quiet Revolution and reconciliation."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a historian should confirm dates and figures (tax rates, referendum results, seat counts, TRC calls to action) and the neutrality of the account of recent politics (2001 to 2020)."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a historian should confirm dates and figures (tax rates, referendum results, seat counts, TRC calls to action) and the neutrality of the account of recent politics (2001 to 2020)."
 ---
 
 **HL only.** This is the twelfth and last study in the Regional study for the Americas, examined on Paper 3 at Higher Level. Paper 3 asks you to evaluate an argument and reach a judgement. The study covers the domestic politics of the **United States** (three periods) and **Canada** (three topics, including the Quiet Revolution). Questions will name leaders and events from the guide. For recent politics, aim for balance: explain what supporters and critics said, and judge by evidence.

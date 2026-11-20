@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-regional-study-asia-and-oceania-5"
 description: "Original HL practice questions with worked answers on Korea (1840 to 1945), including Paper 3 essay plans on opening, reform and Japanese rule."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

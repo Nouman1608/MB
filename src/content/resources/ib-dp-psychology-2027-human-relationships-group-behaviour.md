@@ -15,10 +15,12 @@ syllabusTopics:
     topic: "ib-dp-psychology-2027-human-relationships"
 description: "A detailed study guide to group behaviour in IB DP Psychology (2027): acculturation, compliance, conformity, cultural dimensions, social identity theory and social learning."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a psychologist should confirm the example study details: Asch (1951, 1956), Sherif (1935, 1954), Tajfel et al. (1971), Freedman and Fraser (1966), Cialdini et al. (1975), Bond and Smith (1996), Berry's four strategies and Berry et al. (2006), Bandura (1961). The guide names none of these as required studies."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a psychologist should confirm the example study details: Asch (1951, 1956), Sherif (1935, 1954), Tajfel et al. (1971), Freedman and Fraser (1966), Cialdini et al. (1975), Bond and Smith (1996), Berry's four strategies and Berry et al. (2006), Bandura (1961). The guide names none of these as required studies."
 ---
 
 Group behaviour is the first of the two aspects of the **human relationships** context in IB Psychology (first assessment 2027). The guide's idea is that people are social and become part of groups gradually, by learning acceptable behaviours and norms. It lists six areas of study: acculturation, compliance techniques, conformity, cultural dimensions, social identity theory and social learning. This guide teaches each one with a definition, a worked example, evaluation and a link to the concepts. The guide names no compulsory studies here, so the studies below are well-established examples you can swap for your own.

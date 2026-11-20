@@ -15,10 +15,12 @@ syllabusTopics:
     topic: "ib-dp-psychology-2027-hl-extension-technology"
 description: "A higher level study guide to the technology extension of IB DP Psychology (2027): areas of inquiry in each context, research problems, example studies and Paper 3 skills."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a psychologist should confirm the example studies and figures (Kramer et al. 2014, Orben and Przybylski 2019, Twenge et al. 2018, Sparrow, Liu and Wegner 2011, Ward et al. 2017). The guide prints no named studies for this extension."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a psychologist should confirm the example studies and figures (Kramer et al. 2014, Orben and Przybylski 2019, Twenge et al. 2018, Sparrow, Liu and Wegner 2011, Ward et al. 2017). The guide prints no named studies for this extension."
 ---
 
 This page is **higher level (HL) only**. Technology is the third HL extension and is assessed in **Paper 3**, which SL students do not sit. The guide describes the growth of technology, including mobile phones, computers, video games and artificial intelligence, as a significant influence on human behaviour and relationships. It is studied inside the four contexts. The guide prints areas of inquiry and no named studies, so the research below consists of examples.

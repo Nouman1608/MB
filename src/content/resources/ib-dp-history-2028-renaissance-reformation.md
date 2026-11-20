@@ -15,10 +15,12 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-history-2028-regional-study-europe"
     subtopic: "ib-dp-history-2028-regional-study-europe-2"
-reviewNeeded: true
-reviewNote: "2026-11-20: a historian should confirm the England case details for the Renaissance (dates of the theatres, Harvey, Bacon, the Royal Society) and the Germany case details for the Reformation (Peasants' War, Schmalkaldic War and Thirty Years' War dates). Written from memory."
 description: "A study guide to Regional Study 2 of the IB DP History 2028 Europe option (HL only): the Renaissance in Italy and beyond, the Reformation, and the Catholic response."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a historian should confirm the England case details for the Renaissance (dates of the theatres, Harvey, Bacon, the Royal Society) and the Germany case details for the Reformation (Peasants' War, Schmalkaldic War and Thirty Years' War dates). Written from memory."
 publishedDate: 2026-11-20
 featured: false
 ---

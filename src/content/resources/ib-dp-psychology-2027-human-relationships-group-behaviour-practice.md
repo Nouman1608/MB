@@ -15,10 +15,12 @@ syllabusTopics:
     topic: "ib-dp-psychology-2027-human-relationships"
 description: "Original IB DP Psychology (2027) practice on group behaviour: acculturation, conformity, social identity, compliance and social learning, with full answers."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a psychologist should confirm the study descriptions used in the answers (Asch, Tajfel et al. 1971, Freedman and Fraser 1966, Berry's four strategies). Mark tariffs are practice tariffs; Question 9 uses the 15-mark tariff of the guide's concept-based extended response."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a psychologist should confirm the study descriptions used in the answers (Asch, Tajfel et al. 1971, Freedman and Fraser 1966, Berry's four strategies). Mark tariffs are practice tariffs; Question 9 uses the 15-mark tariff of the guide's concept-based extended response."
 ---
 
 > **These are original questions written for Marlbridge** on the group behaviour strand of the human relationships context (first assessment 2027). They are not past-paper questions, and the scenarios are invented. Section A questions follow the short-answer pattern, Section B questions apply knowledge to an unseen scenario, and Question 9 uses the 15-mark tariff of the concept-based extended response. Other tariffs are for practice.

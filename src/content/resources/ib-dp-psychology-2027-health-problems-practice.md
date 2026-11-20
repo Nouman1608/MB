@@ -15,10 +15,12 @@ syllabusTopics:
     topic: "ib-dp-psychology-2027-health-and-well-being"
 description: "Original IB DP Psychology (2027) practice on health problems: prevalence, social learning and stress, including a constructed study and a 15-mark evaluation."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a psychologist should confirm the general descriptions of social learning, cortisol and prevalence explanations in the answers. Mark tariffs are practice tariffs apart from Question 9, which uses the 15-mark tariff of the guide's concept-based extended response."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a psychologist should confirm the general descriptions of social learning, cortisol and prevalence explanations in the answers. Mark tariffs are practice tariffs apart from Question 9, which uses the 15-mark tariff of the guide's concept-based extended response."
 ---
 
 > **These are original questions written for Marlbridge** on the health problems strand of the health and well-being context (first assessment 2027). They are not past-paper questions. The scenarios and the data in Question 6 are invented. Question 9 uses the 15-mark tariff of the concept-based extended response; other tariffs are for practice.

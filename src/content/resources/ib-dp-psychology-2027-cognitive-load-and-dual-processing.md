@@ -15,10 +15,12 @@ syllabusTopics:
     topic: "ib-dp-psychology-2027-cognitive-approach"
 description: "A study guide to cognitive load theory and dual processing theory in IB DP Psychology (2027): the ideas, example studies, how they connect, and how to evaluate them."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a psychologist should confirm the example study details: Sweller's cognitive load theory and the worked-example and split-attention findings (Sweller and Cooper 1985; Chandler and Sweller 1991), Kahneman's two systems, Frederick (2005) on the bat and ball problem, and Shiv and Fedorikhin (1999) on cognitive load and food choice. The guide names no required studies."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a psychologist should confirm the example study details: Sweller's cognitive load theory and the worked-example and split-attention findings (Sweller and Cooper 1985; Chandler and Sweller 1991), Kahneman's two systems, Frederick (2005) on the bat and ball problem, and Shiv and Fedorikhin (1999) on cognitive load and food choice. The guide names no required studies."
 ---
 
 Two terms in the cognitive approach list of the 2027 IB Psychology guide need a closer look: **cognitive load theory** and **dual processing theory**. The guide's learning objectives are "the role of cognitive load theory in understanding human cognition" and "the role of the dual processing theory in understanding decision-making". Both are cognitive models, so they can be applied in any context, and both link to the concepts of bias, measurement and change. This guide explains each theory, shows how they connect, and teaches you to evaluate them. The guide names no required studies, so the studies here are illustrations; swap in your own if you prefer.

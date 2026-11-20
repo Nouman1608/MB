@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "ib-dp-history-2028-concepts"
 description: "Study guide to the four specified historical concepts: cause and consequence, continuity and change, perspectives and significance for IB DP History, first assessment 2028."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

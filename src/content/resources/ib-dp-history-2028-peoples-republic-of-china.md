@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-regional-study-asia-and-oceania-12"
 description: "A study guide to the HL regional study of the People's Republic of China (1949 to 2020): Mao's rule, the Great Leap Forward, Deng's reforms and China under Xi Jinping."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a historian should confirm the approximate figures (Great Leap Forward deaths, rustication numbers, one-child policy dates, Tiananmen casualties) and the wording on the Sino-Soviet split date."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a historian should confirm the approximate figures (Great Leap Forward deaths, rustication numbers, one-child policy dates, Tiananmen casualties) and the wording on the Sino-Soviet split date."
 ---
 
 This is a **higher level (HL) only** page. The People's Republic of China (1949 to 2020) is one of the twelve regional studies in the Asia and Oceania option, examined on Paper 3, the 2-hour essay paper that standard level students do not sit. This guide follows the IB *History guide*, first assessment 2028. It covers how Mao Zedong consolidated and kept power, the economic and social changes of his rule, his foreign policy, and then political, economic and foreign developments from 1976 to 2020.

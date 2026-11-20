@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-focused-study-2"
 description: "Study guide to the Haitian Revolution (about 1780 to 1825) and Kenyan independence (1945 to 1978) for IB DP History, first assessment 2028."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check dates and details for Haiti (Bois Caiman 1791, abolition 1793 and 1794, the 1801 constitution, the 1825 indemnity of 150 million francs reduced in 1838) and Kenya (KAU founding, emergency dates, Kapenguria trial, Lancaster House dates, independence 12 December 1963, one-party stage)."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: check dates and details for Haiti (Bois Caiman 1791, abolition 1793 and 1794, the 1801 constitution, the 1825 indemnity of 150 million francs reduced in 1838) and Kenya (KAU founding, emergency dates, Kapenguria trial, Lancaster House dates, independence 12 December 1963, one-party stage)."
 ---
 
 The focused study **Independence and identity** is one of the five focused studies in IB DP History (first assessment 2028). Two examples are studied, and both are required: **the Haitian Revolution (circa 1780 to 1825)** and **Kenyan independence (1945 to 1978)**. There are three inquiry questions, each with three points of grounding content for each example. The study is assessed through paper 1, in which you use three sources to address an inquiry question, so this guide gives the historical context and shows how to use it with sources. It applies to SL and HL.

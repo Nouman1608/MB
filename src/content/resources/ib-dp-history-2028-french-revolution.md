@@ -15,10 +15,12 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-history-2028-regional-study-europe"
     subtopic: "ib-dp-history-2028-regional-study-europe-4"
-reviewNeeded: true
-reviewNote: "2026-11-20: a historian should confirm the case study of Napoleonic rule in Spain (dates, Cadiz constitution, abolition of the Inquisition) and the execution estimates for the Terror. The revolution narrative is well established but written from memory."
 description: "A study guide to Regional Study 4 of the IB DP History 2028 Europe option (HL only): the French Revolution, the rise of Napoleon, his impact and the fall of the First Empire."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a historian should confirm the case study of Napoleonic rule in Spain (dates, Cadiz constitution, abolition of the Inquisition) and the execution estimates for the Terror. The revolution narrative is well established but written from memory."
 publishedDate: 2026-11-20
 featured: false
 ---

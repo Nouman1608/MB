@@ -15,10 +15,12 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-history-2028-regional-study-europe"
     subtopic: "ib-dp-history-2028-regional-study-europe-12"
-reviewNeeded: true
-reviewNote: "2026-11-20: a historian should confirm the Germany case details after 1990 and the approximate figures."
 description: "Concise revision notes for Regional Study 12 of the IB DP History 2028 Europe option (HL only): the Cold War in Europe, German division and reunification, and integration to 2020."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a historian should confirm the Germany case details after 1990 and the approximate figures."
 publishedDate: 2026-11-20
 featured: false
 ---

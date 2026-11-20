@@ -15,10 +15,12 @@ syllabusTopics:
     topic: "ib-dp-psychology-2027-human-relationships"
 description: "Revision notes on interpersonal relationships in IB DP Psychology (2027): chemical messengers, cognitive explanations, communication, strategies and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a psychologist should confirm the example study details (Kosfeld et al. 2005, Aron et al. 2005, Dabbs et al. 1987, Wedekind et al. 1995, Rusbult's investment model, Fincham and Bradbury 1993, Gottman, Aron et al. 1997, Hazan and Shaver 1987, Buss 1989). The guide names only the last two, as practical suggestions."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a psychologist should confirm the example study details (Kosfeld et al. 2005, Aron et al. 2005, Dabbs et al. 1987, Wedekind et al. 1995, Rusbult's investment model, Fincham and Bradbury 1993, Gottman, Aron et al. 1997, Hazan and Shaver 1987, Buss 1989). The guide names only the last two, as practical suggestions."
 ---
 
 These notes condense the **interpersonal relationships** strand of the human relationships context (SL and HL, first assessment 2027). The guide says to study one or more of social relationships or interpersonal conflict and aggression. Read the [study guide](/resources/ib-dp-psychology-2027-human-relationships-interpersonal-relationships/) for the detail, then try the [practice set](/resources/ib-dp-psychology-2027-human-relationships-interpersonal-relationships-practice/).

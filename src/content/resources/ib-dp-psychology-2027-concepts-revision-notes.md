@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "ib-dp-psychology-2027-concepts"
 description: "Condensed revision notes on the six IB DP Psychology (2027) concepts: key terms, question prompts, links between concepts and a short self-test."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-regional-study-asia-and-oceania-8"
 description: "A study guide to the HL regional study of the emergence of modern China (1910 to 1949): the republic, nationalism, Guomindang rule, the rise of communism and the Civil War."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

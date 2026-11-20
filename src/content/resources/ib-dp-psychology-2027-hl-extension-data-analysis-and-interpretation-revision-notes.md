@@ -15,10 +15,12 @@ syllabusTopics:
     topic: "ib-dp-psychology-2027-hl-extension-data-analysis-and-interpretation"
 description: "Revision notes on data analysis and interpretation in IB DP Psychology (2027): graphs, statistics, correlation, p-values and thematic analysis, with a Paper 3 routine."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a psychologist should confirm the six stages given for thematic analysis and the rule-of-thumb sizes for r; the guide lists the terms but gives no procedure or thresholds."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a psychologist should confirm the six stages given for thematic analysis and the rule-of-thumb sizes for r; the guide lists the terms but gives no procedure or thresholds."
 ---
 
 These notes condense data analysis and interpretation for the IB Psychology course (first assessment 2027). The strand is studied at SL and HL, but it is **not assessed at SL**. At HL it is tested in Paper 3 (four source-based questions, 30 marks, 1 hour 45 minutes). Read the [study guide](/resources/ib-dp-psychology-2027-hl-extension-data-analysis-and-interpretation/) for worked examples and then use the [practice set](/resources/ib-dp-psychology-2027-hl-extension-data-analysis-and-interpretation-practice/).

@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-regional-study-the-americas-2"
 description: "HL-only study guide to colonialism and the system of slavery in the Americas, circa 1492 to 1830: conquest, labour systems, transatlantic slavery, resistance and early abolitionism."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a historian should confirm dates (Potosi 1545, Laws of Burgos 1512, New Laws 1542, French abolitions 1794 and 1848, British Acts 1807 and 1833), the approximate figure for people carried across the Atlantic, and the summaries of Williams, Drescher and Crosby."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a historian should confirm dates (Potosi 1545, Laws of Burgos 1512, New Laws 1542, French abolitions 1794 and 1848, British Acts 1807 and 1833), the approximate figure for people carried across the Atlantic, and the summaries of Williams, Drescher and Crosby."
 ---
 
 **HL only.** This is the second study in the Regional study for the Americas, examined on Paper 3 at Higher Level. Paper 3 questions ask you to evaluate an argument and reach a judgement. This study covers a very wide span, circa 1492 to 1830, and brings together European conquest, the exploitation of Indigenous labour, the system of transatlantic slavery, resistance and the first organised opposition to slavery. You can refer to several colonial powers, and you need examples from more than one.

@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-regional-study-the-americas-1"
 description: "HL-only study guide to Indigenous societies in the Americas, circa 750 to 1500: authority, economy, society, warfare, culture and challenges, with the Aztec and Inca as case studies."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a historian should confirm approximate dates and figures for the Triple Alliance (1428), Inca expansion under Pachacuti, population estimates, the Haudenosaunee confederacy date range, and the characterisation of historians' views (Murra, Hassig, Baudin). Content written without a narrative source in the guide."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a historian should confirm approximate dates and figures for the Triple Alliance (1428), Inca expansion under Pachacuti, population estimates, the Haudenosaunee confederacy date range, and the characterisation of historians' views (Murra, Hassig, Baudin). Content written without a narrative source in the guide."
 ---
 
 **HL only.** This study is part of the Regional study for the Americas, which is examined on Paper 3 at Higher Level. Paper 3 asks you to evaluate an argument about the region and to reach your own judgement. This guide covers the first Americas study: Indigenous societies in the Americas, circa 750 to 1500. Every Paper 3 question on this study will make you refer to **one Indigenous society**. This guide uses the **Aztec (Mexica) Triple Alliance** and the **Inca (Tawantinsuyu)** as its main case studies, with short comparisons to the Haudenosaunee (Iroquois) and the Maya. Choose one society, and know it in depth.

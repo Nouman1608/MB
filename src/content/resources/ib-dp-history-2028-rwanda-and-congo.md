@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-regional-study-africa-and-the-middle-east-7"
 description: "Colonial rule in the Congo and Rwanda, civil war, Mobutu, the 1994 genocide and the Second Congo War, for IB DP History HL Paper 3 (first assessment 2028)."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

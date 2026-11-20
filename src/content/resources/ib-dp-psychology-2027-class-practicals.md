@@ -15,10 +15,12 @@ syllabusTopics:
     topic: "ib-dp-psychology-2027-class-practicals"
 description: "A study guide to the four IB DP Psychology (2027) class practicals: interview, observation, survey and experiment, with ethics, sampling and Paper 2 Section A skills."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a psychologist should confirm the descriptions of Hazan and Shaver (1987) and Buss (1989), which are named only as practical suggestions in the guide."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a psychologist should confirm the descriptions of Hazan and Shaver (1987) and Buss (1989), which are named only as practical suggestions in the guide."
 ---
 
 Class practicals are the hands-on strand of the IB Psychology course for first assessment 2027. Every SL and HL student must take part in a practical for **each of the four contexts**, and each context uses a different research method: an interview in health and well-being, an observation in human development, a survey or questionnaire in human relationships and an experiment in learning and cognition. They feed directly into **Paper 2 Section A** (four compulsory questions on the practicals) and they prepare you for the internal assessment, where you design a research proposal using one of these four methods. Class practicals take about 30 of the recommended teaching hours at both SL and HL (a minimum of four).

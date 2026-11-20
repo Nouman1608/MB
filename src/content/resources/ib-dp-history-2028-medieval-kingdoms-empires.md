@@ -15,10 +15,12 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-history-2028-regional-study-europe"
     subtopic: "ib-dp-history-2028-regional-study-europe-1"
-reviewNeeded: true
-reviewNote: "2026-11-20: a historian should confirm the Carolingian case-study details (Verden figure, dates of the Saxon wars, wording on the coinage reform) and the brief comparative notes on Norman England, Capetian France and Poland. Written from memory, not from a textbook."
 description: "A study guide to Regional Study 1 of the IB DP History 2028 Europe option (HL only): how medieval kingdoms and empires emerged, ruled, worshipped, developed and declined."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a historian should confirm the Carolingian case-study details (Verden figure, dates of the Saxon wars, wording on the coinage reform) and the brief comparative notes on Norman England, Capetian France and Poland. Written from memory, not from a textbook."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-thematic-study-2"
 description: "Study guide to the thematic study of innovation and transformation from 750 CE onwards for IB DP History, first assessment 2028."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: example bank facts to confirm: printing in Europe c.1450, the Battle of Talas and paper, Luddite dates, Green Revolution dates, Ottoman printing history."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: example bank facts to confirm: printing in Europe c.1450, the Battle of Talas and paper, Luddite dates, Green Revolution dates, Ottoman printing history."
 ---
 
 The thematic study **Innovation and transformation (from 750 CE onwards)** is one of four options in IB DP History (first assessment 2028). A class studies one thematic study, and it is assessed in paper 2. The guide sets four inquiry questions, each with four lines of inquiry, and **prescribes no examples**. You and your teacher choose examples, and each line of inquiry must be explored with at least two examples from more than one region. This guide explains the framework, offers a bank of illustrative examples, and shows how to build paper 2 answers. It is the same for SL and HL.

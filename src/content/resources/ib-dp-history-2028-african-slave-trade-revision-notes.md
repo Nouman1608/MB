@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-regional-study-africa-and-the-middle-east-3"
 description: "Revision notes on the African slave trade, 1500 to 1900, for IB DP History HL Paper 3: causes, impact, resistance, decline, abolition and the main arguments."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

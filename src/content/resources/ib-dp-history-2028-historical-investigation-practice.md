@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "ib-dp-history-2028-historical-investigation"
 description: "Original practice questions with worked answers on the historical investigation (internal assessment): the inquiry question, sources and perspectives, and synthesis and evaluation for IB DP History, first assessment 2028."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

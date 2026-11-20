@@ -15,10 +15,12 @@ syllabusTopics:
     topic: "ib-dp-psychology-2027-health-and-well-being"
 description: "Original IB DP Psychology (2027) practice on mental health disorders: biological explanations, cognitive models, cultural differences and environmental factors, with full answers."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a psychologist should confirm the study descriptions used in the answers (twin studies for depression, Beck's cognitive model, Becker et al. 2002, Brown and Harris 1978). Mark tariffs are practice tariffs apart from Question 9, which uses the 15-mark tariff of the guide's concept-based extended response."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a psychologist should confirm the study descriptions used in the answers (twin studies for depression, Beck's cognitive model, Becker et al. 2002, Brown and Harris 1978). Mark tariffs are practice tariffs apart from Question 9, which uses the 15-mark tariff of the guide's concept-based extended response."
 ---
 
 > **These are original questions written for Marlbridge** on the mental health disorders strand of the health and well-being context (first assessment 2027). They are not past-paper questions, and the scenarios are invented. Question 9 uses the 15-mark tariff of the concept-based extended response; other tariffs are for practice. Answers use major depressive disorder, but you may use any disorder in the guide's list.

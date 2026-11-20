@@ -15,10 +15,12 @@ syllabusTopics:
     topic: "ib-dp-psychology-2027-hl-extension-motivation"
 description: "A higher level study guide to the motivation extension of IB DP Psychology (2027): motives, self-determination theory, areas of inquiry in each context and Paper 3 skills."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a psychologist should confirm the example studies (Deci and Ryan self-determination theory, Lepper, Greene and Nisbett 1973, Maslow 1943, Keys et al., Prochaska and DiClemente, Locke and Latham). The guide names only self-determination theory and prints no studies for this extension."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a psychologist should confirm the example studies (Deci and Ryan self-determination theory, Lepper, Greene and Nisbett 1973, Maslow 1943, Keys et al., Prochaska and DiClemente, Locke and Latham). The guide names only self-determination theory and prints no studies for this extension."
 ---
 
 This page is **higher level (HL) only**. Motivation is one of the three HL extensions and is assessed in **Paper 3**, which SL students do not sit. The guide describes motivation as "the impetus that gives purpose or direction to behaviour", operating at a conscious or unconscious level. Like the other extensions, it is studied inside the four contexts. The guide names self-determination theory but prints no named studies, so the studies below are examples.

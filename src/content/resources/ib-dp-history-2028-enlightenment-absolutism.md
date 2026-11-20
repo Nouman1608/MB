@@ -15,10 +15,12 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-history-2028-regional-study-europe"
     subtopic: "ib-dp-history-2028-regional-study-europe-3"
-reviewNeeded: true
-reviewNote: "2026-11-20: a historian should confirm the Catherine II case details (dates of the Nakaz, Legislative Commission, Charter to the Nobility, Pugachev revolt, Crimea annexation) and the shorter notes on Frederick II, Joseph II and Charles III. Written from memory."
 description: "A study guide to Regional Study 3 of the IB DP History 2028 Europe option (HL only): Enlightenment ideas, the Enlightenment era, and the rule of one enlightened despot."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a historian should confirm the Catherine II case details (dates of the Nakaz, Legislative Commission, Charter to the Nobility, Pugachev revolt, Crimea annexation) and the shorter notes on Frederick II, Joseph II and Charles III. Written from memory."
 publishedDate: 2026-11-20
 featured: false
 ---

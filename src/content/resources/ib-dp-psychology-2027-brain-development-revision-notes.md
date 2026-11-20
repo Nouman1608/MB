@@ -15,10 +15,12 @@ syllabusTopics:
     topic: "ib-dp-psychology-2027-human-development"
 description: "Revision notes on brain development in IB DP Psychology (2027): maturation, critical periods and neuroplasticity, with evaluation points and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a psychologist should confirm the example study details (Hubel and Wiesel, Curtiss on Genie, Johnson and Newport 1989, English and Romanian Adoptees study, Draganski et al. 2004, Maguire et al. 2000). The guide names none of them."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a psychologist should confirm the example study details (Hubel and Wiesel, Curtiss on Genie, Johnson and Newport 1989, English and Romanian Adoptees study, Draganski et al. 2004, Maguire et al. 2000). The guide names none of them."
 ---
 
 These notes condense the **brain development** area of the human development context (SL and HL, first assessment 2027). The guide gives three learning objectives: the role of brain maturation, the extent to which critical periods explain development, and the role of neuroplasticity. They sit under models of development, where you study one or more of cognitive, social, moral or language development. Read the [study guide](/resources/ib-dp-psychology-2027-brain-development/), then try the [practice set](/resources/ib-dp-psychology-2027-brain-development-practice/).

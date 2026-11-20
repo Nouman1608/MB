@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-regional-study-asia-and-oceania-12"
 description: "Condensed HL revision notes on the People's Republic of China (1949 to 2020): chronology, Mao's campaigns, Deng's reforms, foreign policy and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a historian should confirm the chronology and approximate figures before these notes are marked reviewed."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a historian should confirm the chronology and approximate figures before these notes are marked reviewed."
 ---
 
 These revision notes are for **higher level (HL) only**. The People's Republic of China (1949 to 2020) is a regional study examined on Paper 3, which standard level students do not sit. They condense the IB *History guide*, first assessment 2028. Read the [study guide](/resources/ib-dp-history-2028-peoples-republic-of-china/) first, then use the [practice set](/resources/ib-dp-history-2028-peoples-republic-of-china-practice/).

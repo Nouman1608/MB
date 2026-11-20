@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "ib-dp-psychology-2027-concepts"
 description: "A study guide to the six concepts of IB DP Psychology (2027): bias, causality, change, measurement, perspective and responsibility, with related terms and worked examples."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

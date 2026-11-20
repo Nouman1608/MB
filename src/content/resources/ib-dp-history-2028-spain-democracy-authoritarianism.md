@@ -15,10 +15,12 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-history-2028-regional-study-europe"
     subtopic: "ib-dp-history-2028-regional-study-europe-10"
-reviewNeeded: true
-reviewNote: "2026-11-20: a historian should confirm casualty and repression estimates (they are given as ranges or described qualitatively), the 1936 election vote shares and the recent-history dates after 2004. The main narrative is well established but written from memory."
 description: "A study guide to Regional Study 10 of the IB DP History 2028 Europe option (HL only): Spain from the Primo de Rivera dictatorship through civil war and Franco to democracy and 2020."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a historian should confirm casualty and repression estimates (they are given as ranges or described qualitatively), the 1936 election vote shares and the recent-history dates after 2004. The main narrative is well established but written from memory."
 publishedDate: 2026-11-20
 featured: false
 ---

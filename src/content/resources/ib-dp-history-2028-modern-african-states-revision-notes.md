@@ -16,9 +16,11 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-regional-study-africa-and-the-middle-east-12"
 description: "Revision notes on authoritarian rule, democratisation, development, social challenges, coups and external involvement in six African states for IB DP History HL."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: country-specific facts written from general knowledge without a source text. A historian should confirm the dates of Niger's coups, Zambia's one-party period, the Gukurahundi, Ethiopia's growth and famine details, and the Somali dates."
 publishedDate: 2026-11-20
-reviewNeeded: true
-reviewNote: "2026-11-20: country-specific facts written from general knowledge without a source text. A historian should confirm the dates of Niger's coups, Zambia's one-party period, the Gukurahundi, Ethiopia's growth and famine details, and the Somali dates."
 featured: false
 ---
 

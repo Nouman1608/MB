@@ -16,9 +16,11 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-regional-study-africa-and-the-middle-east-8"
 description: "Revision notes on colonial rule in Côte d'Ivoire, Kenya, Mozambique, Nigeria, Senegal and Uganda, 1890 to 1980, for IB DP History HL Paper 3."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: country-specific facts written from general knowledge without a source text. A historian should confirm the independence dates, Aba Women's War (1929), Lugard's amalgamation (1914), Mau Mau and Hola details, the Harrist Church dates and the Mozambique forced-labour and cotton details."
 publishedDate: 2026-11-20
-reviewNeeded: true
-reviewNote: "2026-11-20: country-specific facts written from general knowledge without a source text. A historian should confirm the independence dates, Aba Women's War (1929), Lugard's amalgamation (1914), Mau Mau and Hola details, the Harrist Church dates and the Mozambique forced-labour and cotton details."
 featured: false
 ---
 

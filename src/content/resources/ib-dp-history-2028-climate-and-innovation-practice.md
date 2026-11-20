@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-focused-study-1"
 description: "Original practice questions with worked answers on the Norse exploration of the North Atlantic (about 982 to 1020) and the Aztec Empire (about 1428 to 1469) for IB DP History, first assessment 2028."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check dates and figures: Erik the Red's exile and Greenland settlement (about 982 to 985), Leif Erikson and L'Anse aux Meadows (about 1000), the Triple Alliance date (1428), the famine of One Rabbit (1454), the Nezahualcoyotl dike date (about 1449) and the Totonacapan conquest chronology."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: check dates and figures: Erik the Red's exile and Greenland settlement (about 982 to 985), Leif Erikson and L'Anse aux Meadows (about 1000), the Triple Alliance date (1428), the famine of One Rabbit (1454), the Nezahualcoyotl dike date (about 1449) and the Totonacapan conquest chronology."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

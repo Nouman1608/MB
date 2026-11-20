@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-regional-study-the-americas-9"
 description: "HL-only revision notes on the Americas during the Cold War, 1945 to 1991: key terms, interventions, Cuba, Vietnam, Canada, debates and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a historian should confirm figures (Bay of Pigs force, Dominican Republic troop numbers, Senate vote on the Panama Canal Treaties) and statements about US knowledge of Operation Condor."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a historian should confirm figures (Bay of Pigs force, Dominican Republic troop numbers, Senate vote on the Panama Canal Treaties) and statements about US knowledge of Operation Condor."
 ---
 
 **HL only.** These notes support Paper 3 (Regional study, the Americas) in IB DP History for first assessment 2028. The [study guide](/resources/ib-dp-history-2028-americas-cold-war/) gives the explanation, and the [practice questions](/resources/ib-dp-history-2028-americas-cold-war-practice/) let you rehearse essay plans. The study has parts on the USA, Canada and one Latin American country, so keep an evidence set for each.

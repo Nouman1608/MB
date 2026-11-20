@@ -15,10 +15,12 @@ syllabusTopics:
     topic: "ib-dp-psychology-2027-human-development"
 description: "A study guide to the development of self in IB DP Psychology (2027): attachment, enculturation of social norms, peer influence and the role of childhood experiences."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a psychologist should confirm the example study details: Bowlby's internal working model, Ainsworth's Strange Situation, Harlow's monkeys, the Minnesota longitudinal study, Markus and Kitayama (1991), Gardner and Steinberg (2005), Harris's group socialisation theory, Felitti et al. (1998), Mischel's delay of gratification research and the later replication by Watts, Duncan and Quan (2018). The guide names no required studies for this area."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a psychologist should confirm the example study details: Bowlby's internal working model, Ainsworth's Strange Situation, Harlow's monkeys, the Minnesota longitudinal study, Markus and Kitayama (1991), Gardner and Steinberg (2005), Harris's group socialisation theory, Felitti et al. (1998), Mischel's delay of gratification research and the later replication by Watts, Duncan and Quan (2018). The guide names no required studies for this area."
 ---
 
 The human development context of IB Psychology (first assessment 2027) has a second strand called **development of self**. The guide lists four areas of study: the role of **attachment**, **enculturation of social norms**, **peer influence** and **childhood experiences** in the development of self. All four are required. The guide does not define "self", so this page uses a working definition: the self is a person's sense of who they are, including their self-concept (the beliefs they hold about themselves), self-esteem (how they evaluate themselves) and identity (the roles and values they identify with). The guide names no required studies, so choose examples you can describe and evaluate.

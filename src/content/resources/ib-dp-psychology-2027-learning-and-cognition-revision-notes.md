@@ -15,10 +15,12 @@ syllabusTopics:
     topic: "ib-dp-psychology-2027-learning-and-cognition"
 description: "Revision notes on the learning and cognition context of IB DP Psychology (2027): learning objectives, example studies, evaluation points and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a psychologist should confirm the example study details (Loftus and Palmer 1974, Tversky and Kahneman 1974, Masuda and Nisbett 2001, Maguire et al. 2000, Bartlett 1932, Bandura 1961) and the dating of the Mozart effect work, which the guide prints as Rauscher et al. 1997."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a psychologist should confirm the example study details (Loftus and Palmer 1974, Tversky and Kahneman 1974, Masuda and Nisbett 2001, Maguire et al. 2000, Bartlett 1932, Bandura 1961) and the dating of the Mozart effect work, which the guide prints as Rauscher et al. 1997."
 ---
 
 These notes condense the learning and cognition context (SL and HL) of the IB Psychology course for first assessment 2027. The class practical for this context is an **experiment**. The guide's sub-headings are not used to form examination questions, so expect questions to come through the content terms and the concepts. Read the [study guide](/resources/ib-dp-psychology-2027-learning-and-cognition/) for detail and try the [practice set](/resources/ib-dp-psychology-2027-learning-and-cognition-practice/).

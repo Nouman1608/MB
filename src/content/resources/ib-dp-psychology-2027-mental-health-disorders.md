@@ -15,10 +15,12 @@ syllabusTopics:
     topic: "ib-dp-psychology-2027-health-and-well-being"
 description: "A study guide to mental health disorders in IB DP Psychology (2027): biological explanations, cognitive models, cultural differences in prevalence and environmental factors, with depression as the main example."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a psychologist should confirm the example study details: twin-study heritability for depression (Sullivan, Neale and Kendler 2000), Beck's cognitive triad, Becker et al. (2002) in Fiji, Kleinman's work on somatisation, Brown and Harris (1978). The guide names no required studies for this area."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a psychologist should confirm the example study details: twin-study heritability for depression (Sullivan, Neale and Kendler 2000), Beck's cognitive triad, Becker et al. (2002) in Fiji, Kleinman's work on somatisation, Brown and Harris (1978). The guide names no required studies for this area."
 ---
 
 The health and well-being context of IB Psychology (first assessment 2027) begins with mental health disorders. The guide asks you to understand **one or more of** major depressive disorder, eating disorders, post-traumatic stress disorder, obsessive-compulsive disorders or anxiety disorders. It then lists four areas of study: biological explanations, cognitive models, cultural differences and environmental factors. This guide uses **major depressive disorder** (depression) as the main worked example, because its evidence is broad, and shows where to swap in another disorder. The guide does not name required studies, so choose examples you can explain and evaluate.

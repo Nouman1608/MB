@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-regional-study-the-americas-7"
 description: "HL-only study guide to the Great Depression in the Americas, circa 1920 to 1939: causes, the New Deal, Canada, Brazil and other Latin American responses, and social impact."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a historian should confirm approximate statistics (bank failures, unemployment rates in the USA and Canada, coffee share of Brazilian exports) and the summaries of Friedman and Schwartz, Kindleberger and Galbraith."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a historian should confirm approximate statistics (bank failures, unemployment rates in the USA and Canada, coffee share of Brazilian exports) and the summaries of Friedman and Schwartz, Kindleberger and Galbraith."
 ---
 
 **HL only.** This is the seventh study in the Regional study for the Americas, examined on Paper 3 at Higher Level. Paper 3 asks you to evaluate an argument and reach a judgement. This study covers the USA in full, plus the effects in **one other country** (the guide asks for one country excluding the USA for political and social impact) and solutions in the USA and Canada and in **one Latin American country**. This guide uses **Canada** and **Brazil** as its main non-US examples, with Mexico and Argentina for comparison.

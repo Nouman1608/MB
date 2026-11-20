@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-focused-study-3"
 description: "Study guide to the Meiji Restoration (1853 to 1894) and the Russian Federation (1985 to 1999) for IB DP History, first assessment 2028."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check Meiji dates (Kanagawa 1854, Boshin War 1868 to 1869, 1871 abolition of domains, 1873 land tax and conscription, Satsuma Rebellion 1877, 1889 constitution) and Russian dates (August 1991 coup attempt, December 1991 dissolution, 1992 price liberalisation, 1993 crisis and constitution, Chechen War 1994 to 1996), and the approximate figures."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: check Meiji dates (Kanagawa 1854, Boshin War 1868 to 1869, 1871 abolition of domains, 1873 land tax and conscription, Satsuma Rebellion 1877, 1889 constitution) and Russian dates (August 1991 coup attempt, December 1991 dissolution, 1992 price liberalisation, 1993 crisis and constitution, Chechen War 1994 to 1996), and the approximate figures."
 ---
 
 The focused study **Political and economic transitions** is one of the five focused studies in IB DP History (first assessment 2028). It has two examples, and both must be studied: **the Meiji Restoration (1853 to 1894)** and **the Russian Federation (1985 to 1999)**. Three inquiry questions run through both. Paper 1 assesses the study through sources, so this guide gives the context and shows how to use it. It is the same for SL and HL.

@@ -15,10 +15,12 @@ syllabusTopics:
     topic: "ib-dp-psychology-2027-learning-and-cognition"
 description: "Original IB DP Psychology (2027) practice on learning and cognition: conditioning, biases, models of memory, a constructed experiment and a 15-mark evaluation."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a psychologist should confirm the descriptions of Loftus and Palmer (1974), the multi-store and working memory models and Bandura (1961) used in the answers."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a psychologist should confirm the descriptions of Loftus and Palmer (1974), the multi-store and working memory models and Bandura (1961) used in the answers."
 ---
 
 > **These are original questions written for Marlbridge** on the learning and cognition context of IB DP Psychology (first assessment 2027). They are not past-paper questions. The study in Question 6 is constructed for practice. Question 10 uses the 15-mark tariff of the concept-based extended response; the others use practice tariffs.

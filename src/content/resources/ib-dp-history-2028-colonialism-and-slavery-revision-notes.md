@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-regional-study-the-americas-2"
 description: "HL-only revision notes on colonialism and the system of slavery in the Americas, circa 1492 to 1830: key terms, timeline, debates and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a historian should confirm dates (Laws of Burgos 1512, New Laws 1542, Potosi 1545, Code Noir 1685, Acts of 1807 and 1833) and the summaries of Williams and Drescher."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a historian should confirm dates (Laws of Burgos 1512, New Laws 1542, Potosi 1545, Code Noir 1685, Acts of 1807 and 1833) and the summaries of Williams and Drescher."
 ---
 
 **HL only.** These notes support Paper 3 (Regional study, the Americas) in IB DP History for first assessment 2028. The topic is broad, so notes concentrate on what you can use as evidence in an evaluative essay. The [study guide](/resources/ib-dp-history-2028-colonialism-and-slavery/) gives the explanation, and the [practice questions](/resources/ib-dp-history-2028-colonialism-and-slavery-practice/) let you test it.

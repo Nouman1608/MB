@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-regional-study-asia-and-oceania-9"
 description: "A study guide to the HL regional study of politics and economy in Japan (1912 to 2020): Taisho democracy, militarism, defeat, the economic miracle and the Lost Decade."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

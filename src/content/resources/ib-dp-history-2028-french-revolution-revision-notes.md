@@ -15,10 +15,12 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-history-2028-regional-study-europe"
     subtopic: "ib-dp-history-2028-regional-study-europe-4"
-reviewNeeded: true
-reviewNote: "2026-11-20: a historian should confirm the Spain case details."
 description: "Concise revision notes for Regional Study 4 of the IB DP History 2028 Europe option (HL only): the French Revolution and Napoleon, with a timeline, key terms and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a historian should confirm the Spain case details."
 publishedDate: 2026-11-20
 featured: false
 ---

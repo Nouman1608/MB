@@ -15,10 +15,12 @@ syllabusTopics:
     topic: "ib-dp-psychology-2027-cognitive-approach"
 description: "Revision notes on cognitive load theory and dual processing theory in IB DP Psychology (2027): definitions, effects, evidence, evaluation and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a psychologist should confirm the example study details (Sweller and Cooper 1985, Chandler and Sweller 1991, Frederick 2005, Tversky and Kahneman 1974, Shiv and Fedorikhin 1999). The guide names none of them."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a psychologist should confirm the example study details (Sweller and Cooper 1985, Chandler and Sweller 1991, Frederick 2005, Tversky and Kahneman 1974, Shiv and Fedorikhin 1999). The guide names none of them."
 ---
 
 These notes condense two terms from the cognitive approach (SL and HL, first assessment 2027): **cognitive load theory** and **dual processing theory**. The guide's learning objectives are the role of cognitive load theory in understanding human cognition, and the role of dual processing theory in understanding decision-making. Read the [study guide](/resources/ib-dp-psychology-2027-cognitive-load-and-dual-processing/), then try the [practice set](/resources/ib-dp-psychology-2027-cognitive-load-and-dual-processing-practice/).

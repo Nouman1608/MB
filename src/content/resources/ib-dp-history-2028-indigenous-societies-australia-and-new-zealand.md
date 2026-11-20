@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-regional-study-asia-and-oceania-4"
 description: "A study guide to the HL regional study of Indigenous societies and national identity in Australia and New Zealand (circa 1770 to 2020), from colonisation to modern policy."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a historian should confirm the population and casualty figures, the dates of the New Zealand Wars, the referendum result of 1967, the Uluru Statement and 2023 referendum references, and the wording on the Treaty of Waitangi texts."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a historian should confirm the population and casualty figures, the dates of the New Zealand Wars, the referendum result of 1967, the Uluru Statement and 2023 referendum references, and the wording on the Treaty of Waitangi texts."
 ---
 
 This is a **higher level (HL) only** page. Indigenous societies and national identity in Australia and New Zealand (circa 1770 to 2020) is one of the twelve regional studies in the Asia and Oceania option, examined on Paper 3, the 2-hour essay paper that standard level students do not sit. This guide follows the IB *History guide*, first assessment 2028. The guide lets you choose **either** Australia **or** New Zealand for the two post-1945 inquiry topics (social and cultural developments, and foreign policy). Both are summarised here, so use the one you study.

@@ -15,10 +15,12 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-history-2028-regional-study-europe"
     subtopic: "ib-dp-history-2028-regional-study-europe-6"
-reviewNeeded: true
-reviewNote: "2026-11-20: a historian should confirm the Britain case details and the treaty figures."
 description: "Concise revision notes for Regional Study 6 of the IB DP History 2028 Europe option (HL only): alliances, German foreign policy, the First World War and the peace treaties."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a historian should confirm the Britain case details and the treaty figures."
 publishedDate: 2026-11-20
 featured: false
 ---

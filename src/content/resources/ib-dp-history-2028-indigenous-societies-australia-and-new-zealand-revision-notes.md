@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-regional-study-asia-and-oceania-4"
 description: "Condensed HL revision notes on Indigenous societies and national identity in Australia and New Zealand (circa 1770 to 2020): chronology, terms and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a historian should confirm the dates in the chronology, the referendum figures and the New Zealand Wars dates before these notes are marked reviewed."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a historian should confirm the dates in the chronology, the referendum figures and the New Zealand Wars dates before these notes are marked reviewed."
 ---
 
 These revision notes are for **higher level (HL) only**. Indigenous societies and national identity in Australia and New Zealand (circa 1770 to 2020) is a regional study examined on Paper 3, which standard level students do not sit. They condense the IB *History guide*, first assessment 2028. For the two post-1945 inquiry topics the guide lets you choose either Australia or New Zealand, so revise the one you study. Read the [study guide](/resources/ib-dp-history-2028-indigenous-societies-australia-and-new-zealand/) first and then try the [practice set](/resources/ib-dp-history-2028-indigenous-societies-australia-and-new-zealand-practice/).

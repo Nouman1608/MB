@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-focused-study-1"
 description: "Revision notes on the Norse exploration of the North Atlantic (about 982 to 1020) and the Aztec Empire (about 1428 to 1469) for IB DP History, first assessment 2028."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check dates and figures: Erik the Red's exile and Greenland settlement (about 982 to 985), Leif Erikson and L'Anse aux Meadows (about 1000), the Triple Alliance date (1428), the famine of One Rabbit (1454), the Nezahualcoyotl dike date (about 1449) and the Totonacapan conquest chronology."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: check dates and figures: Erik the Red's exile and Greenland settlement (about 982 to 985), Leif Erikson and L'Anse aux Meadows (about 1000), the Triple Alliance date (1428), the famine of One Rabbit (1454), the Nezahualcoyotl dike date (about 1449) and the Totonacapan conquest chronology."
 ---
 
 Revision notes for the focused study **Climate and innovation** in IB DP History (first assessment 2028), for SL and HL. Two examples, both to be studied: **Norse exploration (about 982 to 1020)** and **the Aztec Empire (about 1428 to 1469)**. See the [study guide](/resources/ib-dp-history-2028-climate-and-innovation/) for detail and the [practice questions](/resources/ib-dp-history-2028-climate-and-innovation-practice/) for a paper 1 style set.

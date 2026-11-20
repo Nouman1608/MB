@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-regional-study-asia-and-oceania-10"
 description: "A study guide to the HL regional study of the emergence of Central Asian republics (1917 to 2020), built around Kazakhstan with Uzbekistan and others as comparisons."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a historian should confirm the approximate figures (Kazakh famine deaths, deportations, Virgin Lands area, nuclear tests), the dates of the 1991 declarations of independence and the wording on the 1927 hujum and the 1986 Almaty events."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a historian should confirm the approximate figures (Kazakh famine deaths, deportations, Virgin Lands area, nuclear tests), the dates of the 1991 declarations of independence and the wording on the 1927 hujum and the 1986 Almaty events."
 ---
 
 This is a **higher level (HL) only** page. The emergence of Central Asian republics (1917 to 2020) is one of the twelve regional studies in the Asia and Oceania option, examined on Paper 3, the 2-hour essay paper that standard level students do not sit. This guide follows the IB *History guide*, first assessment 2028. The guide says that every examination question will require you to refer to **one** Central Asian republic. The suggested examples are Kyrgyzstan, Uzbekistan, Turkmenistan, Kazakhstan and Tajikistan. This guide uses **Kazakhstan** as its main case, with **Uzbekistan** and others as comparisons, so adapt the points to your own republic.

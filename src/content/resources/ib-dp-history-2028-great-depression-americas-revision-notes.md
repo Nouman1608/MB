@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-regional-study-the-americas-7"
 description: "HL-only revision notes on the Great Depression in the Americas, circa 1920 to 1939: causes, the New Deal, Canada, Brazil, social impact, debates and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a historian should confirm approximate statistics (bank failures, unemployment rates) and dates for the Canadian and Brazilian examples."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a historian should confirm approximate statistics (bank failures, unemployment rates) and dates for the Canadian and Brazilian examples."
 ---
 
 **HL only.** These notes support Paper 3 (Regional study, the Americas) in IB DP History for first assessment 2028. For the USA you need the whole study. For the other inquiry topics you choose **one country** outside the USA, and one in Latin America for solutions. These notes use Canada and Brazil. See the [study guide](/resources/ib-dp-history-2028-great-depression-americas/) for explanations and the [practice questions](/resources/ib-dp-history-2028-great-depression-americas-practice/) to test yourself.

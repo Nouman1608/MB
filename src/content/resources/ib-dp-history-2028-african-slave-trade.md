@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-regional-study-africa-and-the-middle-east-3"
 description: "Why the Atlantic and East African slave trades expanded, their impact in Africa, resistance, and the economic and ideological reasons for decline and abolition, for IB DP History HL."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -16,6 +16,10 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-regional-study-africa-and-the-middle-east-11"
 description: "The Iranian Revolution, the Iran-Iraq War, Nasser's Egypt, the 2011 Egyptian revolution and the Lebanese Civil War, for IB DP History HL Paper 3."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "ib-dp-psychology-2027-hl-extension-data-analysis-and-interpretation"
 description: "Practice questions on data analysis and interpretation in IB DP Psychology (2027): calculations, graphs, correlation, p-values and thematic analysis, with worked answers."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

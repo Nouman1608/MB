@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-focused-study-4"
 description: "Original practice questions with worked answers on post-war displacement in Europe (1945 to 1960) and the Indochina refugee crisis (1975 to 1990) for IB DP History, first assessment 2028."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check approximate displacement figures (millions displaced in Europe in 1945; ethnic German expulsions; Indochina departures and resettlement totals), UNRRA and IRO dates, and the dates of the Orderly Departure Program and the 1979 Geneva meeting."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: check approximate displacement figures (millions displaced in Europe in 1945; ethnic German expulsions; Indochina departures and resettlement totals), UNRRA and IRO dates, and the dates of the Orderly Departure Program and the 1979 Geneva meeting."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

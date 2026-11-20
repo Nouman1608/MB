@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-regional-study-the-americas-11"
 description: "HL-only study guide to social movements in the Americas, 1945 to 2020: the African American civil rights movement and a second movement, the Chicano movement and the United Farm Workers."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a historian should confirm figures (Black voter registration in Mississippi, the number of grape contracts, Chicano Moratorium details) and the characterisation of the Chicano movement. The guide's second movement is an example only."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a historian should confirm figures (Black voter registration in Mississippi, the number of grape contracts, Chicano Moratorium details) and the characterisation of the Chicano movement. The guide's second movement is an example only."
 ---
 
 **HL only.** This is the eleventh study in the Regional study for the Americas, examined on Paper 3 at Higher Level. Paper 3 asks you to evaluate an argument and reach a judgement. The study has two halves. The first half is the **African American civil rights movement** in the USA. The second half asks about **one other social movement** in the Americas. The guide suggests Hispanic, feminist, Indigenous, youth, counterculture, disability, Afro-Latino and Afro-Caribbean movements, among others. This guide uses the **Chicano movement and the United Farm Workers (UFW)** as its second movement, with notes on other movements for comparison.

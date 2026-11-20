@@ -15,10 +15,12 @@ syllabusTopics:
     topic: "ib-dp-psychology-2027-cognitive-approach"
 description: "Original IB DP Psychology (2027) practice on cognitive load theory and dual processing theory, with applications to scenarios and a 15-mark evaluation."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a psychologist should confirm the general descriptions of the worked-example effect, split attention and the bat and ball problem used in the answers. Mark tariffs are practice tariffs apart from Question 10, which uses the 15-mark tariff of the guide's concept-based extended response."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a psychologist should confirm the general descriptions of the worked-example effect, split attention and the bat and ball problem used in the answers. Mark tariffs are practice tariffs apart from Question 10, which uses the 15-mark tariff of the guide's concept-based extended response."
 ---
 
 > **These are original questions written for Marlbridge** on cognitive load theory and dual processing theory in the cognitive approach (first assessment 2027). They are not past-paper questions, and the scenarios are invented. Question 10 uses the 15-mark tariff of the concept-based extended response; other tariffs are for practice.

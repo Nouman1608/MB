@@ -15,10 +15,12 @@ syllabusTopics:
     topic: "ib-dp-psychology-2027-human-relationships"
 description: "Revision notes on group behaviour in IB DP Psychology (2027): definitions, example studies, evaluation points, concept links and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a psychologist should confirm the example study details (Asch, Sherif, Tajfel et al. 1971, Freedman and Fraser 1966, Cialdini et al. 1975, Bond and Smith 1996, Berry et al. 2006, Bandura 1961). The guide names none of them for this area."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a psychologist should confirm the example study details (Asch, Sherif, Tajfel et al. 1971, Freedman and Fraser 1966, Cialdini et al. 1975, Bond and Smith 1996, Berry et al. 2006, Bandura 1961). The guide names none of them for this area."
 ---
 
 These notes condense the **group behaviour** strand of the human relationships context (SL and HL, first assessment 2027). The guide lists six areas of study. Read the [study guide](/resources/ib-dp-psychology-2027-human-relationships-group-behaviour/) for detail, then try the [practice set](/resources/ib-dp-psychology-2027-human-relationships-group-behaviour-practice/). The sub-headings of the guide are not used to form examination questions, so expect the content terms and the concepts.

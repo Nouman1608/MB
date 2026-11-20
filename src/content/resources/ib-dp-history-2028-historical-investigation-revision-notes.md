@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "ib-dp-history-2028-historical-investigation"
 description: "Revision notes on the historical investigation (internal assessment): the inquiry question, sources and perspectives, and synthesis and evaluation for IB DP History, first assessment 2028."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -115,14 +119,14 @@ Criterion A sentence: "This question is appropriate for historical inquiry becau
 
 ## Process checklist
 
-- [ ] Topic approved by teacher.
-- [ ] Question redrafted at least once.
-- [ ] No more than seven sources.
-- [ ] Sources in section 2 match those in section 3.
-- [ ] Word count stated and within 2,200.
-- [ ] References accurate; bibliography included.
-- [ ] One draft submitted for advice.
-- [ ] Final version is your own work.
+- Topic approved by teacher.
+- Question redrafted at least once.
+- No more than seven sources.
+- Sources in section 2 match those in section 3.
+- Word count stated and within 2,200.
+- References accurate; bibliography included.
+- One draft submitted for advice.
+- Final version is your own work.
 
 ## Common mistakes
 

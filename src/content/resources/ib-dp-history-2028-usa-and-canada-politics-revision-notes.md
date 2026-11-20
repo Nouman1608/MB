@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-regional-study-the-americas-12"
 description: "HL-only revision notes on political developments in the USA and Canada, 1960 to 2020: presidents, prime ministers, the Quiet Revolution, debates and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a historian should confirm dates and figures (referendum results, 1993 seat count, TRC calls to action) and check the neutrality of the recent-history summaries."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a historian should confirm dates and figures (referendum results, 1993 seat count, TRC calls to action) and check the neutrality of the recent-history summaries."
 ---
 
 **HL only.** These notes support Paper 3 (Regional study, the Americas) in IB DP History for first assessment 2028. The study has six topics: three for the USA and three for Canada. Questions name leaders and events from the guide, so know who did what. See the [study guide](/resources/ib-dp-history-2028-usa-and-canada-politics/) for explanations and the [practice questions](/resources/ib-dp-history-2028-usa-and-canada-politics-practice/) to test yourself.

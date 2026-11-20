@@ -15,10 +15,12 @@ syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-history-2028-regional-study-europe"
     subtopic: "ib-dp-history-2028-regional-study-europe-9"
-reviewNeeded: true
-reviewNote: "2026-11-20: a historian should confirm the France case-study details (deportation figure, dates of the women's vote, Fourth Republic) and the Nuremberg trial figures. The wider narrative is well established but written from memory."
 description: "A study guide to Regional Study 9 of the IB DP History 2028 Europe option (HL only): the League, the road to war, Allied victory, the war's impact on one country and the Holocaust."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a historian should confirm the France case-study details (deportation figure, dates of the women's vote, Fourth Republic) and the Nuremberg trial figures. The wider narrative is well established but written from memory."
 publishedDate: 2026-11-20
 featured: false
 ---

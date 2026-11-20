@@ -15,10 +15,12 @@ syllabusTopics:
     topic: "ib-dp-psychology-2027-health-and-well-being"
 description: "Revision notes on mental health disorders in IB DP Psychology (2027): four areas of study, example evidence, evaluation points and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a psychologist should confirm the example study details (Sullivan, Neale and Kendler 2000, Moncrieff et al. 2022, Beck's cognitive triad, Kleinman on somatisation, Becker et al. 2002, Brown and Harris 1978, Felitti et al. 1998). The guide names none of them."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a psychologist should confirm the example study details (Sullivan, Neale and Kendler 2000, Moncrieff et al. 2022, Beck's cognitive triad, Kleinman on somatisation, Becker et al. 2002, Brown and Harris 1978, Felitti et al. 1998). The guide names none of them."
 ---
 
 These notes condense the **mental health disorders** strand of the health and well-being context (SL and HL, first assessment 2027). The guide says to understand one or more of major depressive disorder, eating disorders, post-traumatic stress disorder (PTSD), obsessive-compulsive disorders or anxiety disorders. Use one disorder in depth (depression is the example here). Read the [study guide](/resources/ib-dp-psychology-2027-mental-health-disorders/), then try the [practice set](/resources/ib-dp-psychology-2027-mental-health-disorders-practice/).

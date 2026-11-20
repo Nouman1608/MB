@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-regional-study-the-americas-8"
 description: "HL-only study guide to the emergence of the Americas in global affairs, 1880 to 1945: US expansionism, the world wars, the Good Neighbor Policy, Canada and domestic impact."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a historian should confirm figures (US and Canadian troop and casualty numbers, Japanese Canadian internment numbers, Brazilian expeditionary force size) and the dates for Brazil and Argentina used for comparison."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a historian should confirm figures (US and Canadian troop and casualty numbers, Japanese Canadian internment numbers, Brazilian expeditionary force size) and the dates for Brazil and Argentina used for comparison."
 ---
 
 **HL only.** This is the eighth study in the Regional study for the Americas, examined on Paper 3 at Higher Level. Paper 3 asks you to evaluate an argument and reach a judgement. The study has two halves. The first is the United States: why and how it expanded and how its global role changed. The second is **one other country** of the Americas, for the changing global role and for the domestic impact of the two world wars. This guide uses **Canada** as the main example, with Brazil and Argentina for comparison.

@@ -15,10 +15,12 @@ syllabusTopics:
     topic: "ib-dp-psychology-2027-human-relationships"
 description: "Original IB DP Psychology (2027) practice on interpersonal relationships: chemical messengers, cognitive explanations, communication, a survey design and a 15-mark evaluation."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a psychologist should confirm the descriptions of the oxytocin trust-game experiment (Kosfeld et al. 2005), the investment model and Gottman's four patterns used in the answers. Mark tariffs are practice tariffs apart from Question 9, which uses the 15-mark tariff of the guide's concept-based extended response."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a psychologist should confirm the descriptions of the oxytocin trust-game experiment (Kosfeld et al. 2005), the investment model and Gottman's four patterns used in the answers. Mark tariffs are practice tariffs apart from Question 9, which uses the 15-mark tariff of the guide's concept-based extended response."
 ---
 
 > **These are original questions written for Marlbridge** on the interpersonal relationships strand of the human relationships context (first assessment 2027). They are not past-paper questions, and the scenarios and survey in Question 6 are invented. Question 9 uses the 15-mark tariff of the concept-based extended response; other tariffs are for practice.

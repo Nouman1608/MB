@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-focused-study-1"
 description: "Study guide to the Norse exploration of the North Atlantic (about 982 to 1020) and the Aztec Empire (about 1428 to 1469) for IB DP History, first assessment 2028."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check dates and figures: Erik the Red's exile and Greenland settlement (about 982 to 985), Leif Erikson and L'Anse aux Meadows (about 1000), the Triple Alliance date (1428), the famine of One Rabbit (1454), the Nezahualcoyotl dike date (about 1449) and the Totonacapan conquest chronology."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: check dates and figures: Erik the Red's exile and Greenland settlement (about 982 to 985), Leif Erikson and L'Anse aux Meadows (about 1000), the Triple Alliance date (1428), the famine of One Rabbit (1454), the Nezahualcoyotl dike date (about 1449) and the Totonacapan conquest chronology."
 ---
 
 The focused study **Climate and innovation** is one of the five focused studies in IB DP History (first assessment 2028). It pairs two examples, and both must be studied: **Norse exploration (circa 982 to 1020)** and **the Aztec Empire (circa 1428 to 1469)**. It has three inquiry questions, each with three points of grounding content for each example. The study is assessed in paper 1, a source-based paper, so the aim is to know enough history to use sources well. This guide covers the history, suggests how to use the grounding content, and shows how to apply the source skills. It is the same for SL and HL.

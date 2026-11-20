@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-regional-study-the-americas-9"
 description: "HL-only study guide to the Americas during the Cold War, 1945 to 1991: US containment and intervention, Cuba, Vietnam, Chile, Nicaragua, Canada and one Latin American country."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a historian should confirm figures (Bay of Pigs force size, troops in the Dominican Republic, Canadian war resisters, Panama Canal Treaty vote) and the characterisation of US knowledge of Operation Condor."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a historian should confirm figures (Bay of Pigs force size, troops in the Dominican Republic, Canadian war resisters, Panama Canal Treaty vote) and the characterisation of US knowledge of Operation Condor."
 ---
 
 **HL only.** This is the ninth study in the Regional study for the Americas, examined on Paper 3 at Higher Level. Paper 3 asks you to evaluate an argument and reach a judgement. The Cold War reached the Americas in three ways: through US policy towards Latin America, through the Cuban Revolution and its consequences, and through domestic politics in the United States, Canada and Latin American states. This guide uses **Cuba** as the main example of a Latin American country, with Guatemala, Chile and Nicaragua for the US interventions, and Canada for the second part.

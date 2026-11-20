@@ -15,10 +15,12 @@ syllabusTopics:
     topic: "ib-dp-psychology-2027-learning-and-cognition"
 description: "A study guide to the learning and cognition context of IB DP Psychology (2027): thinking and learning, cognitive processes, example studies and the experiment practical."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a psychologist should confirm the study details given as examples: Loftus and Palmer (1974) mean speeds and percentages, Tversky and Kahneman (1974) median estimates, Masuda and Nisbett (2001) findings, Maguire et al. (2000), and the Rauscher et al. dating (the guide prints 1997; the original Mozart effect paper is 1993)."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a psychologist should confirm the study details given as examples: Loftus and Palmer (1974) mean speeds and percentages, Tversky and Kahneman (1974) median estimates, Masuda and Nisbett (2001) findings, Maguire et al. (2000), and the Rauscher et al. dating (the guide prints 1997; the original Mozart effect paper is 1993)."
 ---
 
 Learning and cognition is the fourth of the four contexts in the IB Psychology course for first assessment 2027, and it applies to both SL and HL students. In a context, you use the content (the biological, cognitive and sociocultural approaches and research methodology) and the six concepts to understand a real-world area. The guide's sub-headings, "Thinking and learning" and "Cognitive processes", are for convenience and are not used to form examination questions. The class practical for this context is an **experiment**. At HL the culture, motivation and technology extensions have learning and cognition strands, which are covered on their own pages.

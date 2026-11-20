@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-focused-study-4"
 description: "Study guide to post-war displacement in Europe (1945 to 1960) and the Indochina refugee crisis (1975 to 1990) for IB DP History, first assessment 2028."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check approximate displacement figures (millions displaced in Europe in 1945; ethnic German expulsions; Indochina departures and resettlement totals), UNRRA and IRO dates, and the dates of the Orderly Departure Program and the 1979 Geneva meeting."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: check approximate displacement figures (millions displaced in Europe in 1945; ethnic German expulsions; Indochina departures and resettlement totals), UNRRA and IRO dates, and the dates of the Orderly Departure Program and the 1979 Geneva meeting."
 ---
 
 The focused study **Conflict and displacement** is one of the five focused studies in IB DP History (first assessment 2028). Both of its examples must be studied: **post-war displacement in Europe (1945 to 1960)** and **the Indochina refugee crisis (1975 to 1990)**. There are three inquiry questions. Paper 1 assesses the study through sources, so this guide supplies the historical context and shows how to use sources about displaced people. It applies to SL and HL. Because the subject involves suffering, persecution and death, treat the material with care and precision.

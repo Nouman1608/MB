@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-regional-study-asia-and-oceania-10"
 description: "Condensed HL revision notes on the emergence of Central Asian republics (1917 to 2020): chronology, key terms, Soviet policies, independence and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a historian should confirm the chronology dates (delimitation, Virgin Lands, 1986, 1991 declarations) and approximate figures before these notes are marked reviewed."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a historian should confirm the chronology dates (delimitation, Virgin Lands, 1986, 1991 declarations) and approximate figures before these notes are marked reviewed."
 ---
 
 These revision notes are for **higher level (HL) only**. The emergence of Central Asian republics (1917 to 2020) is a regional study examined on Paper 3, which standard level students do not sit. They condense the IB *History guide*, first assessment 2028. Every question on this study requires you to refer to **one** Central Asian republic; these notes use Kazakhstan with comparisons. Read the [study guide](/resources/ib-dp-history-2028-central-asian-republics/) first, then try the [practice set](/resources/ib-dp-history-2028-central-asian-republics-practice/).

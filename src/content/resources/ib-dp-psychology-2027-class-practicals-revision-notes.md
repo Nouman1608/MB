@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "ib-dp-psychology-2027-class-practicals"
 description: "Revision notes on the four IB DP Psychology (2027) class practicals: methods, sampling, ethics rules and Paper 2 Section A answer technique, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

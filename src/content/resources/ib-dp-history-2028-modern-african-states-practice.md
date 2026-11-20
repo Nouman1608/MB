@@ -16,9 +16,11 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-regional-study-africa-and-the-middle-east-12"
 description: "Original practice questions with marking points on modern developments in Ethiopia, Niger, Somalia, Tunisia, Zambia and Zimbabwe for IB DP History HL."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: country-specific facts in the marking points were written from general knowledge without a source text. A historian should confirm the Zambian, Nigerien, Somali and Zimbabwean details used."
 publishedDate: 2026-11-20
-reviewNeeded: true
-reviewNote: "2026-11-20: country-specific facts in the marking points were written from general knowledge without a source text. A historian should confirm the Zambian, Nigerien, Somali and Zimbabwean details used."
 featured: false
 ---
 

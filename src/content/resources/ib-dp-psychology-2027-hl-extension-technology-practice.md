@@ -15,6 +15,10 @@ syllabusTopics:
     topic: "ib-dp-psychology-2027-hl-extension-technology"
 description: "HL practice questions on the technology extension of IB DP Psychology (2027): research problems, constructed data sources and a 15-mark synthesis, with marking points."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-20
 featured: false
 ---

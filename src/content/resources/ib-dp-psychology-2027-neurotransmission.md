@@ -15,10 +15,12 @@ syllabusTopics:
     topic: "ib-dp-psychology-2027-biological-approach"
 description: "A study guide to neurotransmission in IB DP Psychology (2027): the process at the synapse, how drugs act, and how understanding it helps psychologists improve health and wellness."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a psychologist should confirm the example details: the steps of synaptic transmission, SSRIs and reuptake, L-DOPA in Parkinson's disease, Olds and Milner (1954), Kirsch et al. (2008), Cipriani et al. (2018) and Moncrieff et al. (2022). The guide names no required studies."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a psychologist should confirm the example details: the steps of synaptic transmission, SSRIs and reuptake, L-DOPA in Parkinson's disease, Olds and Milner (1954), Kirsch et al. (2008), Cipriani et al. (2018) and Moncrieff et al. (2022). The guide names no required studies."
 ---
 
 The biological approach table in the 2027 IB Psychology guide includes two linked terms: **chemical messengers** and **neurotransmission**. The learning objective for neurotransmission is "the process of neurotransmission and how an understanding of the process of neurotransmission allows psychologists to improve health and wellness". That sentence has two parts: you must be able to describe the process, and you must be able to show how knowing it is useful. This guide teaches both. The guide names no required studies, so the examples are illustrations.

@@ -15,10 +15,12 @@ syllabusTopics:
     topic: "ib-dp-psychology-2027-human-relationships"
 description: "A detailed study guide to interpersonal relationships in IB DP Psychology (2027): chemical messengers, cognitive explanations, communication, improvement strategies and the survey practical."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a psychologist should confirm the example study details: Kosfeld et al. (2005), Aron et al. (2005) fMRI study, Dabbs et al. (1987), Wedekind et al. (1995), Byrne's similarity work, Rusbult's investment model, Fincham and Bradbury (1993), Gottman's four negative patterns, Aron et al. (1997), Dodge's hostile attribution bias, Hazan and Shaver (1987) and Buss (1989). The guide names only Hazan and Shaver (1987) and Buss (1989), and only as practical suggestions."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a psychologist should confirm the example study details: Kosfeld et al. (2005), Aron et al. (2005) fMRI study, Dabbs et al. (1987), Wedekind et al. (1995), Byrne's similarity work, Rusbult's investment model, Fincham and Bradbury (1993), Gottman's four negative patterns, Aron et al. (1997), Dodge's hostile attribution bias, Hazan and Shaver (1987) and Buss (1989). The guide names only Hazan and Shaver (1987) and Buss (1989), and only as practical suggestions."
 ---
 
 Interpersonal relationships is the second aspect of the **human relationships** context in IB Psychology (first assessment 2027). The guide says a lot depends on how relationships develop and what influences them. It lists purely cognitive models, genetic factors, chemical messengers and communication or language, and it adds that understanding these makes it possible to design strategies for improving relationships. The guide asks students to understand **one or more of social relationships or interpersonal conflict and aggression**. This page uses social relationships (friendship and romantic partnership) as the main thread and shows how each idea also applies to conflict and aggression, so you can adapt it to whichever choice your class makes.

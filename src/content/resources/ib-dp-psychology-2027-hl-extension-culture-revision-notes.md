@@ -15,10 +15,12 @@ syllabusTopics:
     topic: "ib-dp-psychology-2027-hl-extension-culture"
 description: "HL revision notes on the culture extension of IB DP Psychology (2027): key terms, areas of inquiry, research problems and Paper 3 technique, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a psychologist should confirm the example studies and the wording of the cultural terms (Hofstede, Berry, Markus and Kitayama). The guide prints no named studies for this extension."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a psychologist should confirm the example studies and the wording of the cultural terms (Hofstede, Berry, Markus and Kitayama). The guide prints no named studies for this extension."
 ---
 
 These notes are for **HL only**. The culture extension is assessed in Paper 3 (1 hour 45 minutes, 30 marks), which SL students do not sit. They condense the IB Psychology guide for first assessment 2027. Read the [study guide](/resources/ib-dp-psychology-2027-hl-extension-culture/) for detail and test yourself with the [practice set](/resources/ib-dp-psychology-2027-hl-extension-culture-practice/).

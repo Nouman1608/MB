@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-regional-study-asia-and-oceania-1"
 description: "A study guide to the HL regional study of Asian kingdoms and empires (750 CE to 1500 CE), built around the Mongol Empire with Angkor and Kamakura Japan as comparisons."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a historian should confirm the dates and figures for the Mongol conquests, the Angkor chronology (Jayavarman II, Suryavarman II, Jayavarman VII, the 1431 fall) and the Kamakura dates, and the wording on climate evidence for Angkor's decline."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a historian should confirm the dates and figures for the Mongol conquests, the Angkor chronology (Jayavarman II, Suryavarman II, Jayavarman VII, the 1431 fall) and the Kamakura dates, and the wording on climate evidence for Angkor's decline."
 ---
 
 This is a **higher level (HL) only** page. The regional study of Asian kingdoms and empires (750 CE to 1500 CE) is examined on Paper 3, the 2-hour essay paper that standard level students do not sit. It is the first of the twelve regional studies in the Asia and Oceania option. This guide follows the IB *History guide*, first assessment 2028.

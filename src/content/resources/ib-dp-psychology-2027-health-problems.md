@@ -15,10 +15,12 @@ syllabusTopics:
     topic: "ib-dp-psychology-2027-health-and-well-being"
 description: "A study guide to health problems in IB DP Psychology (2027): prevalence changes and differences, social learning and stress, with obesity, drug misuse and social media addiction as examples."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a psychologist should confirm the example study details: Birch et al. (1980) on peer influence on food choice, Harris, Bargh and Brownell (2009) on food advertising and snacking, Kiecolt-Glaser et al. (1984) on exam stress and immunity, Epel et al. (2000) on cortisol and central fat, Hunt et al. (2018) on limiting social media use. The guide names no required studies for this area."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a psychologist should confirm the example study details: Birch et al. (1980) on peer influence on food choice, Harris, Bargh and Brownell (2009) on food advertising and snacking, Kiecolt-Glaser et al. (1984) on exam stress and immunity, Epel et al. (2000) on cortisol and central fat, Hunt et al. (2018) on limiting social media use. The guide names no required studies for this area."
 ---
 
 The health and well-being context of IB Psychology (first assessment 2027) asks you to understand **one or more health problems** from this list: obesity, drug misuse or abuse, or social media addiction. The guide gives three areas of study: the **prevalence** of health problems, the role of **social learning**, and the role of **stress**. This guide teaches each area using obesity as the main thread and shows how to switch to drug misuse or social media addiction. It does not repeat the general account of determinants of health and the health belief model, which the health psychology study guide covers.

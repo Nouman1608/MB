@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-regional-study-the-americas-8"
 description: "HL-only revision notes on the emergence of the Americas in global affairs, 1880 to 1945: US expansionism, the world wars, Canada, key terms and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a historian should confirm approximate figures (Canadian service and casualty numbers, Japanese Canadian internment) and Brazilian and Argentine comparisons."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a historian should confirm approximate figures (Canadian service and casualty numbers, Japanese Canadian internment) and Brazilian and Argentine comparisons."
 ---
 
 **HL only.** These notes support Paper 3 (Regional study, the Americas) in IB DP History for first assessment 2028. The study has two halves: the United States, and **one other country** of the Americas. These notes use Canada. Read the [study guide](/resources/ib-dp-history-2028-americas-in-global-affairs/) for explanations and test yourself with the [practice questions](/resources/ib-dp-history-2028-americas-in-global-affairs-practice/).

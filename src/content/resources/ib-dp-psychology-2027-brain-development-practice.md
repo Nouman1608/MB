@@ -15,10 +15,12 @@ syllabusTopics:
     topic: "ib-dp-psychology-2027-human-development"
 description: "Original IB DP Psychology (2027) practice on brain development: maturation, critical periods and neuroplasticity, with a constructed study and a 15-mark evaluation."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a psychologist should confirm the general descriptions of the kitten visual deprivation studies, Genie and the juggling study used in the answers. Mark tariffs are practice tariffs apart from Question 9, which uses the 15-mark tariff of the guide's concept-based extended response."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a psychologist should confirm the general descriptions of the kitten visual deprivation studies, Genie and the juggling study used in the answers. Mark tariffs are practice tariffs apart from Question 9, which uses the 15-mark tariff of the guide's concept-based extended response."
 ---
 
 > **These are original questions written for Marlbridge** on the brain development area of the human development context (first assessment 2027). They are not past-paper questions. The scenarios and the study in Question 6 are invented. Question 9 uses the 15-mark tariff of the concept-based extended response; other tariffs are for practice.

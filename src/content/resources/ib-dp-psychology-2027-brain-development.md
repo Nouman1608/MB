@@ -15,10 +15,12 @@ syllabusTopics:
     topic: "ib-dp-psychology-2027-human-development"
 description: "A study guide to brain development in IB DP Psychology (2027): brain maturation, critical periods and neuroplasticity, and how they help explain cognitive, social and language development."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a psychologist should confirm the example study details: Hubel and Wiesel's kitten studies, Curtiss on Genie, Johnson and Newport (1989), the English and Romanian Adoptees study, Draganski et al. (2004), Maguire et al. (2000). The guide names no required studies for this area."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a psychologist should confirm the example study details: Hubel and Wiesel's kitten studies, Curtiss on Genie, Johnson and Newport (1989), the English and Romanian Adoptees study, Draganski et al. (2004), Maguire et al. (2000). The guide names no required studies for this area."
 ---
 
 The human development context of IB Psychology (first assessment 2027) asks how and why behaviour and cognition change over time. Under **models of development**, the guide asks you to understand one or more of cognitive, social, moral or language development. It then lists an area called **brain development** with three learning objectives: the role of **brain maturation** in human development, the extent to which **critical periods** explain human development, and the role of **neuroplasticity** in human development. This guide teaches those three ideas, shows how to apply them to cognitive, social, moral or language development, and gives evaluation points. The guide names no required studies, so use ones you can describe and evaluate.

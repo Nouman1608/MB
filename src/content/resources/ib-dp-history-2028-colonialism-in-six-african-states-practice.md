@@ -16,9 +16,11 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-regional-study-africa-and-the-middle-east-8"
 description: "Original practice questions with marking points on colonialism in six African states, 1890 to 1980, for IB DP History HL Paper 3 (first assessment 2028)."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: country-specific facts in the marking points were written from general knowledge without a source text. A historian should confirm the Aba Women's War, Hola camp, Buganda Agreement, FRELIMO and Four Communes details."
 publishedDate: 2026-11-20
-reviewNeeded: true
-reviewNote: "2026-11-20: country-specific facts in the marking points were written from general knowledge without a source text. A historian should confirm the Aba Women's War, Hola camp, Buganda Agreement, FRELIMO and Four Communes details."
 featured: false
 ---
 

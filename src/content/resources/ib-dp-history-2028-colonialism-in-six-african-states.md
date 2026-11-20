@@ -16,9 +16,11 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-regional-study-africa-and-the-middle-east-8"
 description: "How colonial rule was set up, maintained and resisted in Côte d'Ivoire, Kenya, Mozambique, Nigeria, Senegal and Uganda, for IB DP History HL Paper 3."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: country-specific details were written from general knowledge without a source text. A historian should confirm: the Four Communes and citizenship in Senegal; the Aba Women's War (1929) and Lugard's amalgamation (1914) in Nigeria; the Harrist Church dates in Côte d'Ivoire; Mau Mau casualty figures and the Hola camp date in Kenya; the end of chibalo and the Mozambique cotton concessions; and the Buganda Agreement (1900) in Uganda."
 publishedDate: 2026-11-20
-reviewNeeded: true
-reviewNote: "2026-11-20: country-specific details were written from general knowledge without a source text. A historian should confirm: the Four Communes and citizenship in Senegal; the Aba Women's War (1929) and Lugard's amalgamation (1914) in Nigeria; the Harrist Church dates in Côte d'Ivoire; Mau Mau casualty figures and the Hola camp date in Kenya; the end of chibalo and the Mozambique cotton concessions; and the Buganda Agreement (1900) in Uganda."
 featured: false
 ---
 

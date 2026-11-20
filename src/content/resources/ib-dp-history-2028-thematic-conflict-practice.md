@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-thematic-study-1"
 description: "Original practice questions with worked answers on the thematic study of conflict from 750 CE onwards for IB DP History, first assessment 2028."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: example bank facts to confirm: dates and details of the conflicts used as examples (American Civil War, Second World War, Algerian War, Chinese Civil War, Crusades)."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: example bank facts to confirm: dates and details of the conflicts used as examples (American Civil War, Second World War, Algerian War, Chinese Civil War, Crusades)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

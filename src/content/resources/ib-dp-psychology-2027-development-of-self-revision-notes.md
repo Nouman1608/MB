@@ -15,10 +15,12 @@ syllabusTopics:
     topic: "ib-dp-psychology-2027-human-development"
 description: "Revision notes on the development of self in IB DP Psychology (2027): attachment, enculturation, peer influence and childhood experiences, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a psychologist should confirm the example study details (Ainsworth, Harlow, Minnesota longitudinal study, Markus and Kitayama 1991, Gardner and Steinberg 2005, Harris, Felitti et al. 1998, Mischel and the Watts, Duncan and Quan 2018 replication). The guide names none of them."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a psychologist should confirm the example study details (Ainsworth, Harlow, Minnesota longitudinal study, Markus and Kitayama 1991, Gardner and Steinberg 2005, Harris, Felitti et al. 1998, Mischel and the Watts, Duncan and Quan 2018 replication). The guide names none of them."
 ---
 
 These notes condense the **development of self** strand of the human development context (SL and HL, first assessment 2027). The guide lists four areas: attachment, enculturation of social norms, peer influence and childhood experiences. Read the [study guide](/resources/ib-dp-psychology-2027-development-of-self/), then try the [practice set](/resources/ib-dp-psychology-2027-development-of-self-practice/).

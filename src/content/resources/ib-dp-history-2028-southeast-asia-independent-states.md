@@ -18,10 +18,12 @@ syllabusTopics:
     subtopic: "ib-dp-history-2028-regional-study-asia-and-oceania-7"
 description: "A study guide to the HL regional study of the emergence of independent states in Southeast Asia (1900 to 1990), built around Indonesia with Vietnam and Burma as comparisons."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-20
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: a historian should confirm the Indonesian dates (1908 to 1949), the wording on Japanese policies, the Vietnamese and Burmese comparison dates and the 1955 election results before this guide is marked reviewed."
 publishedDate: 2026-11-20
 featured: false
-reviewNeeded: true
-reviewNote: "2026-11-20: a historian should confirm the Indonesian dates (1908 to 1949), the wording on Japanese policies, the Vietnamese and Burmese comparison dates and the 1955 election results before this guide is marked reviewed."
 ---
 
 This is a **higher level (HL) only** page. The emergence of independent states in Southeast Asia (1900 to 1990) is one of the twelve regional studies in the Asia and Oceania option, examined on Paper 3, the 2-hour essay paper that standard level students do not sit. This guide follows the IB *History guide*, first assessment 2028. The guide says that every examination question will require you to refer to **one** state from Southeast Asia. This guide uses **Indonesia** as its main case, with Vietnam, Burma, the Philippines and Malaya as shorter comparisons, so you can adapt the points to your own state.
