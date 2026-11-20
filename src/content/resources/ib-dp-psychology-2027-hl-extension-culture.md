@@ -69,6 +69,18 @@ These are examples of the kind of evidence you can use. Check the details with y
 
 **Learning and cognition.** Masuda and Nisbett (2001) found that Japanese and American participants attended to scenes differently, which suggests holistic and analytic styles (see the learning and cognition guide). Bilingualism and cognition: some studies reported a bilingual advantage in executive control, but later large studies and replication attempts have been mixed, so claims should be cautious.
 
+## Indigenous and insider perspectives
+
+The guide stresses the perspectives of Indigenous people, and it describes how an emic approach led to a growing Indigenous psychology. This matters for method as well as content. Community-led research asks the community what questions matter, uses local language and concepts, and shares findings back. Qualitative methods such as interviews, talking circles and observation are common, so Paper 3 questions on these studies are likely to ask about credibility and transferability rather than statistics. When you evaluate such work, do not treat the lack of a large sample as a weakness in itself. Ask instead whether the researcher described the context in enough detail, checked interpretations with participants and reflected on their own position (reflexivity).
+
+## How to write about culture well
+
+- Name the cultural factor (for example a cultural dimension, a language, a norm or a level of acculturation) rather than writing "culture" in general.
+- Say whether the study is etic, emic or a mixture, and what that means for the claim.
+- Use cautious wording: "in these samples", "on average", "was associated with".
+- Link to at least one concept. Perspective, bias and measurement are the usual choices.
+- Show that the Western findings are one perspective rather than the default.
+
 ## Research problems to discuss in Paper 3
 
 Paper 3 emphasises interpretation of graphs, data analysis, research considerations (credibility, bias, transferability) and synthesis. For culture, prepare these points.

@@ -44,13 +44,13 @@ brain structures such as the hippocampus), cognitively (through
 information-processing models), and socioculturally (through the
 influence of schema and culture on recall). Revising the biological
 approach in complete isolation from the cognitive and sociocultural
-approaches misses this overlap — for any topic studied
+approaches misses this overlap: for any topic studied
 biologically, check whether it also appears under the other two
 approaches, and be able to compare what each approach adds.
 
 ## Syllabus coverage
 
-**IB DP PSYCHOLOGY — CONTENT: BIOLOGICAL APPROACH TO UNDERSTANDING
+**IB DP PSYCHOLOGY, CONTENT: BIOLOGICAL APPROACH TO UNDERSTANDING
 BEHAVIOUR**
 
 The IB Psychology guide (first assessment 2027) lists the following
@@ -58,25 +58,25 @@ terms for the biological approach, each with a learning objective, and
 students should be able to apply them in the contexts. All of them are
 studied at SL and HL:
 
-- **Animal research/animal models** — the value of animal research in the
+- **Animal research/animal models**: the value of animal research in the
 study of human behaviour and the ethical considerations in the use of
 animals in research.
-- **Biological reductionism** — the strengths and limitations of a
+- **Biological reductionism**: the strengths and limitations of a
 reductionist approach to the study of behaviour.
-- **Brain imaging techniques** — the value of using one or more brain
+- **Brain imaging techniques**: the value of using one or more brain
 imaging techniques in investigating human behaviour.
-- **Chemical messengers** — the role of one or more chemical messengers
+- **Chemical messengers**: the role of one or more chemical messengers
 in human behaviour.
-- **Diathesis-stress model** — the interaction of environmental factors
+- **Diathesis-stress model**: the interaction of environmental factors
 and genetics in human behaviour.
-- **Genetic inheritance** — the extent to which human behaviour may be
+- **Genetic inheritance**: the extent to which human behaviour may be
 inherited.
-- **Localization of function** — the role of localization of function in
+- **Localization of function**: the role of localization of function in
 explaining human behaviour and cognition, and the limitations of the
 argument that behaviour is localized.
-- **Neuroplasticity** — the process of neuroplasticity and the role of
+- **Neuroplasticity**: the process of neuroplasticity and the role of
 environmental factors on brain development.
-- **Neurotransmission** — the process of neurotransmission and how an
+- **Neurotransmission**: the process of neurotransmission and how an
 understanding of it allows psychologists to improve health and wellness.
 
 This guide is organised under four headings that group those terms:
@@ -242,7 +242,7 @@ behaviour, evaluated): regulating mood; Caspi et al. (2003) found
 The strong version states the mechanism, links it explicitly to the
 named behaviour, cites named evidence, and evaluates that evidence's
 limitations (a gene-environment interaction rather than a simple cause,
-and a contested replication record) — this is the structure that
+and a contested replication record), which is the structure that
 the higher markbands reward over a single unevaluated fact.
 
 <figure class="topic-figure">

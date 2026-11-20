@@ -27,8 +27,7 @@ featured: false
 
 Research methodology is one of the four content areas of IB DP Psychology (first assessment 2027): research methods, sampling techniques, procedures, data collection and analysis. It runs through every approach and context, it is the focus of the class practicals (an interview, an observation, a survey/questionnaire and an experiment), and you use it to evaluate studies on Paper 2. At HL, Paper 3 assesses data analysis and interpretation of research data from several sources.
 
-Related: [Approaches to researching behaviour study guide](/resources/ib-ib-dp-psychology-approaches-to-researching-behaviour-study-guide/) and
-[practice questions](/resources/ib-ib-dp-psychology-approaches-to-researching-behaviour-practice/).
+Related: [Approaches to researching behaviour study guide](/resources/ib-ib-dp-psychology-approaches-to-researching-behaviour-study-guide/).
 
 ## Syllabus coverage (first assessment 2027)
 

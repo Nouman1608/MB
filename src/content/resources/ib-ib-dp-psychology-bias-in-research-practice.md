@@ -29,8 +29,7 @@ featured: false
 > uses the 6-mark tariff of question 3 of HL Paper 3; the others use practice tariffs.
 
 Related: [Bias in research study guide](/resources/ib-ib-dp-psychology-bias-in-research/),
-[revision notes](/resources/ib-ib-dp-psychology-bias-in-research-revision-notes/) and the
-[approaches to researching behaviour practice questions](/resources/ib-ib-dp-psychology-approaches-to-researching-behaviour-practice/).
+[revision notes](/resources/ib-ib-dp-psychology-bias-in-research-revision-notes/).
 
 ## Section A
 

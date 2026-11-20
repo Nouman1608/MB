@@ -72,6 +72,13 @@ When these needs are supported, motivation becomes more internal and well-being 
 
 **Growth mindset (Dweck).** Believing that ability can be developed is linked with more persistence after setbacks. Evidence for large effects has been mixed, which makes it a good example for discussing replication.
 
+## Applying motivation in each context
+
+- **Health and well-being.** Motivation to change a health behaviour depends on whether the person values the goal and feels able to reach it. A prevention programme for smoking may use information, incentives or support for the person's own reasons. Evaluate by asking how long the change lasted and whether people who volunteered were already motivated (sampling bias).
+- **Human development.** Children's motivation changes with age and with the way adults respond. Praise for effort rather than for fixed ability is linked with persistence, but extrinsic rewards for activities children already enjoy may lower interest, as the overjustification research suggests.
+- **Human relationships.** In groups and workplaces, fair recognition, clear goals and a sense of belonging are linked with satisfaction and performance. Competition and cooperation both motivate, but in different ways and with different effects on relationships.
+- **Learning and cognition.** Interest, a sense of competence and choice support independent learning. Motivation can influence attention and memory because motivated learners engage more with material. How far motivation can be assessed depends on the measure: a questionnaire reports beliefs, while time on task records behaviour.
+
 ## Research methods and problems
 
 The guide notes problems that Paper 3 sources may illustrate.

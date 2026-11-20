@@ -125,4 +125,3 @@ These notes cover **bias** in research for IB DP Psychology (first assessment 20
 ## Related pages
 
 - [Bias in research: practice questions](/resources/ib-ib-dp-psychology-bias-in-research-practice/)
-- [Approaches to researching behaviour practice questions](/resources/ib-ib-dp-psychology-approaches-to-researching-behaviour-practice/)

@@ -80,6 +80,15 @@ These are examples. Select ones you know well and always note the design.
 7. **Replication.** Check whether the effect has been found again by other teams.
 8. **Responsibility.** Large-scale online experiments without consent; advice to parents that overstates certainty; the stigma attached to people described as "addicted".
 
+## Technology and the six concepts
+
+- **Bias:** sampling bias in online recruitment, confirmation bias in researchers who expect harm, and publication bias.
+- **Causality:** correlational designs dominate, so causal language needs support from experiments or longitudinal data.
+- **Change:** technology can change behaviour (for example attention habits) and can deliver change programmes (apps, tele-therapy). Ask whether the change lasts.
+- **Measurement:** screen time can be self-reported, logged by software or estimated by parents. Each has errors. Well-being scales differ in what they capture.
+- **Perspective:** some researchers focus on risks and others on benefits. A balanced answer shows both and explains why researchers differ.
+- **Responsibility:** consent and privacy in large online studies, the responsibility of researchers when they talk to parents and the media, and the responsibility of companies who hold data.
+
 ## Worked mini-analysis (constructed for practice)
 
 A researcher surveyed 500 teenagers about the hours they spent on a video-sharing app per day and their score on a sleep quality scale from 0 to 21 (higher = worse). She reported a correlation coefficient of r = +0.45 and concluded that "the app damages sleep".
