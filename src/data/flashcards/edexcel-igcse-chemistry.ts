@@ -331,6 +331,16 @@ export const DECK_EDEXCEL_IGCSE_CHEMISTRY: FlashcardDeck = {
     ...sub('organic-chemistry-4ch1', 'alcohols-4ch1', '4e', [
       { n: 1, f: 'Making ethanol: hydration of ethene vs fermentation (Paper 2 only)', b: 'Hydration: C₂H₄ + H₂O → C₂H₅OH; phosphoric acid catalyst, about 300 °C, 60–70 atm.\nFermentation: C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂; yeast enzymes, about 30 °C, absence of air.' },
     ]),
+    ...sub('organic-chemistry-4ch1', 'carboxylic-acids-4ch1', '4f', [
+      { n: 1, f: 'Functional group and general formula of carboxylic acids (Paper 2 only)', b: 'The functional group is -COOH (carboxyl): a C=O and an O-H on the same carbon. General formula CₙH₂ₙ₊₁COOH. Names end in -oic acid.', src: 'edexcel-igcse-chemistry-4ch1-carboxylic-acids-revision-notes' },
+      { n: 2, f: 'Name CH₃COOH and CH₃CH₂COOH (Paper 2 only)', b: 'CH₃COOH is ethanoic acid and CH₃CH₂COOH is propanoic acid. Count all the carbons, including the carboxyl carbon, then add -oic acid.', src: 'edexcel-igcse-chemistry-4ch1-carboxylic-acids-revision-notes' },
+      { n: 3, f: 'First four carboxylic acids and their formulae (Paper 2 only)', b: 'Methanoic HCOOH, ethanoic CH₃COOH, propanoic CH₃CH₂COOH, butanoic CH₃CH₂CH₂COOH.', src: 'edexcel-igcse-chemistry-4ch1-carboxylic-acids-revision-notes' },
+      { n: 4, f: 'Carboxylic acid + magnesium: products, equation and observation (Paper 2 only)', b: 'Salt (ethanoate) + hydrogen. Mg + 2CH₃COOH → (CH₃COO)₂Mg + H₂. The metal dissolves, bubbles form and a lit splint pops.', src: 'edexcel-igcse-chemistry-4ch1-carboxylic-acids-revision-notes' },
+      { n: 5, f: 'Carboxylic acid + metal carbonate: products, equation and observation (Paper 2 only)', b: 'Salt + water + carbon dioxide. CaCO₃ + 2CH₃COOH → (CH₃COO)₂Ca + H₂O + CO₂. Fizzing; the gas turns limewater milky.', src: 'edexcel-igcse-chemistry-4ch1-carboxylic-acids-revision-notes' },
+      { n: 6, f: 'Why are carboxylic acids called weak acids, and what does it change? (Paper 2 only)', b: 'They ionise only partly in water, so they react more slowly than a strong acid of the same concentration. The final volume of gas from the same amount of acid is the same.', src: 'edexcel-igcse-chemistry-4ch1-carboxylic-acids-revision-notes' },
+      { n: 7, f: 'What is vinegar and how is it made? (Paper 2 only)', b: 'An aqueous solution containing ethanoic acid. It forms when ethanol in wine or cider is oxidised by bacteria in air. It is used to flavour and preserve food.', src: 'edexcel-igcse-chemistry-4ch1-carboxylic-acids-revision-notes' },
+      { n: 8, f: '0.65 g of zinc (Ar = 65) reacts with excess ethanoic acid. Volume of H₂ at room temperature and pressure? (Paper 2 only)', b: 'Moles of Zn = 0.65 ÷ 65 = 0.010 mol, giving 0.010 mol H₂. Volume = 0.010 × 24 000 = 240 cm³.', src: 'edexcel-igcse-chemistry-4ch1-carboxylic-acids-revision-notes' },
+    ]),
     ...sub('organic-chemistry-4ch1', 'esters-4ch1', '4g', [
       { n: 1, f: 'Making an ester, with an example (Paper 2 only)', b: 'Alcohol + carboxylic acid ⇌ ester + water, with an acid catalyst. Ethanol + ethanoic acid → ethyl ethanoate, CH₃COOC₂H₅. Esters are used in food flavourings and perfumes.' },
     ]),

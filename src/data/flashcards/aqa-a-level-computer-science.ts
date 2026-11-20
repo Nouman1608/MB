@@ -32,6 +32,9 @@ const sub = (topic: string, subtopic: string, number: string, specs: Spec[]): Fl
   }));
 
 const DS = 'aqa-a-level-computer-science-data-structures-revision-notes';
+const ABS = 'aqa-a-level-computer-science-7517-abstraction-and-automation-revision-notes';
+const NSYS = 'aqa-a-level-computer-science-7517-number-systems-revision-notes';
+const NBASE = 'aqa-a-level-computer-science-7517-number-bases-revision-notes';
 
 const T1 = 'fundamentals-of-programming';
 const T2 = 'fundamentals-of-data-structures';
@@ -190,6 +193,16 @@ export const DECK_AQA_A_LEVEL_COMPUTER_SCIENCE: FlashcardDeck = {
     ]),
 
     // 4.4 Theory of computation
+    // 4.4.1 Abstraction and automation
+    ...sub('theory-of-computation-7517', 'abstraction-and-automation-7517', '4.4.1', [
+      { n: 1, f: 'What is an algorithm, according to the specification, and what are the four constructs?', b: 'A sequence of steps that can be followed to complete a task and that always terminates. The constructs are sequence, assignment, selection and iteration.', src: ABS },
+      { n: 2, f: 'What is the difference between procedural abstraction and functional abstraction?', b: 'Procedural: actual values are replaced by parameters, giving a reusable procedure, such as DrawSquare(side). Functional: the method of computation is hidden and only input and output matter, such as SquareRoot(x).', src: ABS },
+      { n: 3, f: 'Define data abstraction and information hiding', b: 'Information hiding: hiding all details of an object that do not contribute to its essential characteristics. Data abstraction: hiding how data is represented, so a stack is used through Push and Pop, not as an array and pointer.', src: ABS },
+      { n: 4, f: 'What is representational abstraction, and what is abstraction by generalisation?', b: 'Representational: a representation reached by removing unnecessary detail, such as a railway map.\nGeneralisation: grouping by common characteristics, giving an "is a kind of" hierarchy, such as car and lorry as kinds of vehicle.', src: ABS },
+      { n: 5, f: 'Problem abstraction (reduction), decomposition and composition', b: 'Reduction: removing details until the problem becomes one already solved.\nDecomposition: breaking a problem into sub-problems.\nComposition: combining procedures or data objects into compound ones.', src: ABS },
+      { n: 6, f: 'What is automation? Give its four steps', b: 'Putting models into action on a computer: create algorithms, implement them in program code, implement the models in data structures, then execute the code.', src: ABS },
+      { n: 7, f: 'Hand-trace a loop that sums the digits of 4729 by dividing n by 10 each time. What is the result?', b: 'n takes 4729, 472, 47, 4, 0; the digits added are 9, 2, 7, 4. Total = 22. The loop terminates because n shrinks by a factor of ten each time.', src: ABS },
+    ]),
     // 4.4.2 Regular languages
     ...sub('theory-of-computation-7517', 'regular-languages-7517', '4.4.2', [
       { n: 1, f: 'What is a finite state machine (FSM)?', b: 'A model of computation with a finite set of states, a start state, inputs and transitions between states. An FSM with no output can accept or reject input strings.' },
@@ -213,6 +226,26 @@ export const DECK_AQA_A_LEVEL_COMPUTER_SCIENCE: FlashcardDeck = {
     ]),
 
     // 4.5 Fundamentals of data representation
+    // 4.5.1 Number systems
+    ...sub('fundamentals-of-data-representation', 'number-systems-7517', '4.5.1', [
+      { n: 1, f: 'Natural numbers and integers: symbols, sets and the difference', b: 'ℕ = {0, 1, 2, 3, …}: whole numbers from zero upwards (zero is natural in this specification).\nℤ = {…, −2, −1, 0, 1, 2, …}: whole numbers that may be negative.', src: NSYS },
+      { n: 2, f: 'Rational vs irrational numbers, with examples', b: 'Rational (ℚ): can be written as a fraction of two integers, so 7 = 7/1 and 0.75 are rational. Irrational: cannot be written as a fraction, such as √2 and π.', src: NSYS },
+      { n: 3, f: 'How do the decimal forms of rational and irrational numbers differ?', b: 'Rational: the decimal terminates (0.125) or repeats for ever (0.333…). Irrational: it never terminates and never repeats (√2 = 1.41421356…).', src: NSYS },
+      { n: 4, f: 'How are ℕ, ℤ, ℚ and ℝ related? What does ℝ contain?', b: 'They nest: ℕ ⊂ ℤ ⊂ ℚ ⊂ ℝ. Real numbers include all rationals and all irrationals, so every real number is one or the other.', src: NSYS },
+      { n: 5, f: 'Classify 18, −7, 5/6, √9 and √7 in the smallest suitable set', b: '18 is in ℕ; −7 in ℤ; 5/6 in ℚ; √9 = 3, so ℕ; √7 = 2.6457… never ends or repeats, so it is irrational.', src: NSYS },
+      { n: 6, f: 'What is an ordinal number? How does it differ from a cardinal number?', b: 'An ordinal gives the position of an object in an ordered set (1st, 2nd, 3rd). A cardinal says how many there are ("three items").', src: NSYS },
+      { n: 7, f: 'Which kind of number is used for counting and which for measurement?', b: 'Counting uses natural numbers and gives an exact whole number. Measurement uses real numbers on a continuous scale, with limited precision (height, mass, time).', src: NSYS },
+    ]),
+    // 4.5.2 Number bases
+    ...sub('fundamentals-of-data-representation', 'number-bases-7517', '4.5.2', [
+      { n: 1, f: 'Digits and place values of decimal, binary and hexadecimal', b: 'Decimal (base 10): digits 0 to 9, places 1, 10, 100.\nBinary (base 2): digits 0 and 1, places 1, 2, 4, 8, 16, 32, 64, 128.\nHexadecimal (base 16): digits 0 to 9 and A to F, places 1, 16, 256.', src: NBASE },
+      { n: 2, f: 'Convert 11010110₂ to decimal', b: 'Add the place values of the 1 bits: 128 + 64 + 16 + 4 + 2 = 214.', src: NBASE },
+      { n: 3, f: 'Convert 173₁₀ to binary, and then to hexadecimal', b: '128 + 32 + 8 + 4 + 1 = 173, so 10101101₂. Groups of four: 1010 1101 = AD₁₆.', src: NBASE },
+      { n: 4, f: 'How do you convert 1000₁₀ to hexadecimal by repeated division?', b: '1000 ÷ 16 = 62 r 8; 62 ÷ 16 = 3 r 14 (E); 3 ÷ 16 = 0 r 3. Read the remainders from the bottom up: 3E8₁₆.', src: NBASE },
+      { n: 5, f: 'Convert 3F₁₆ to binary and to decimal', b: '3 = 0011 and F = 1111, so 00111111₂. In decimal: 3 × 16 + 15 = 63.', src: NBASE },
+      { n: 6, f: 'Why is hexadecimal used as shorthand for binary?', b: 'One hex digit is exactly four bits, so a byte is two hex digits. It is a quarter of the length, easier to read and copy with fewer errors, and conversion needs no arithmetic. Computers still store binary.', src: NBASE },
+      { n: 7, f: 'Convert 110010₂ to hexadecimal. Which way do you group the bits?', b: 'Group in fours from the right and pad the left with zeros: 0011 0010 = 32₁₆.', src: NBASE },
+    ]),
     // 4.5.3 Units of information
     ...sub('fundamentals-of-data-representation', 'units-of-information-7517', '4.5.3', [
       { n: 1, f: 'What is the difference between kibi and kilo prefixes?', b: 'Kibi (Ki) = 2¹⁰ = 1024; mebi (Mi) = 2²⁰; gibi (Gi) = 2³⁰.\nKilo (k) = 10³ = 1000; mega = 10⁶; giga = 10⁹.' },

@@ -61,6 +61,8 @@ const P3OX = 'aqa-a-level-chemistry-properties-of-period-3-elements-and-their-ox
 const RATE = 'aqa-a-level-chemistry-rate-equations-revision-notes';
 const IONS = 'aqa-a-level-chemistry-reactions-of-ions-in-aqueous-solution-revision-notes';
 const TM = 'aqa-a-level-chemistry-transition-metals-revision-notes';
+const BAL = 'aqa-a-level-chemistry-7405-balanced-equations-and-associated-calculations-revision-notes';
+const SHAPES = 'aqa-a-level-chemistry-7405-shapes-of-complex-ions-revision-notes';
 
 export const DECK_AQA_A_LEVEL_CHEMISTRY: FlashcardDeck = {
   boardSlug: 'aqa',
@@ -197,6 +199,15 @@ export const DECK_AQA_A_LEVEL_CHEMISTRY: FlashcardDeck = {
       { n: 3, f: 'A carbide is 75.0% Al and 25.0% C by mass (Al 27.0, C 12.0). Find its empirical formula.', b: 'Al 75.0 ÷ 27.0 = 2.778; C 25.0 ÷ 12.0 = 2.083. Ratio 1.333 : 1, × 3 gives 4 : 3. Al₄C₃.' },
       { n: 4, f: 'How do you get the molecular formula from the empirical formula?', b: 'Multiplier = Mr ÷ empirical formula mass. Multiply every subscript by it. Composition alone cannot do this: CF₂ and C₂F₄ have the same percentages.' },
       { n: 5, f: 'Finding an oxide’s formula: how do you know the reaction is complete?', b: 'Heat to constant mass. Then mass of oxygen = mass of oxide − mass of metal.' },
+    ]),
+    ...sub('amount-of-substance-7405', 'balanced-equations-and-associated-calculations-7405', '3.1.2.5', [
+      { n: 1, f: 'Method for writing an ionic equation. Give the one for Pb(NO₃)₂(aq) + 2KI(aq) → PbI₂(s) + 2KNO₃(aq)', b: 'Split soluble ionic compounds into ions, keep solids, liquids, gases and weak electrolytes whole, cancel spectator ions, keep state symbols.\nPb²⁺(aq) + 2I⁻(aq) → PbI₂(s)', src: BAL },
+      { n: 2, f: '0.500 g of CaCO₃ (Mr 100.1) reacts with excess acid at 298 K and 100 kPa. Volume of CO₂ in cm³? (R = 8.31)', b: 'n = 0.500 ÷ 100.1 = 4.995 × 10⁻³ mol. V = nRT ÷ p = 4.995 × 10⁻³ × 8.31 × 298 ÷ 1.00 × 10⁵ = 1.237 × 10⁻⁴ m³ = 124 cm³.', src: BAL },
+      { n: 3, f: '25.0 cm³ of Na₂CO₃ needs 22.50 cm³ of 0.100 mol dm⁻³ HCl. Find the concentration of Na₂CO₃.', b: 'n(HCl) = 0.100 × 0.02250 = 2.250 × 10⁻³ mol. Ratio Na₂CO₃ : HCl = 1 : 2, so n(Na₂CO₃) = 1.125 × 10⁻³ mol. c = 1.125 × 10⁻³ ÷ 0.0250 = 0.0450 mol dm⁻³.', src: BAL },
+      { n: 4, f: 'Percentage yield vs percentage atom economy: formulae and what each depends on', b: 'Yield = actual mass ÷ theoretical mass × 100; it needs an experiment and depends on losses.\nAtom economy = Mr of desired product ÷ sum of Mr of all reactants × 100; it needs only the equation.', src: BAL },
+      { n: 5, f: 'Atom economy for making CaO from CaCO₃ → CaO + CO₂ (Mr CaO 56.1, CaCO₃ 100.1)', b: '56.1 ÷ 100.1 × 100 = 56.0%. The rest of the reactant mass ends up as the by-product carbon dioxide.', src: BAL },
+      { n: 6, f: 'Economic, environmental and ethical advantages of a high atom economy', b: 'Economic: less waste to separate and dispose of, more feedstock becomes product. Environmental: fewer resources used, less waste released. Ethical: conserves finite resources and reduces pollution.', src: BAL },
+      { n: 7, f: '2.50 g of CuSO₄·xH₂O gives 1.60 g of anhydrous solid (Mr 159.6). Find x. Why heat to constant mass?', b: 'n(CuSO₄) = 1.60 ÷ 159.6 = 0.0100 mol; n(H₂O) = 0.90 ÷ 18.0 = 0.0500 mol; ratio 5, so x = 5. Constant mass shows all water has gone; otherwise x comes out too small.', src: BAL },
     ]),
 
     // 3 Bonding (3.1.3)
@@ -440,6 +451,15 @@ export const DECK_AQA_A_LEVEL_CHEMISTRY: FlashcardDeck = {
       { n: 3, f: 'Why does replacing H₂O by Cl⁻ change the co-ordination number from 6 to 4?', b: 'Cl⁻ is larger than H₂O, so fewer fit round the metal: e.g. [Co(H₂O)₆]²⁺ + 4Cl⁻ → [CoCl₄]²⁻ + 6H₂O (octahedral to tetrahedral).' },
       { n: 4, f: 'The chelate effect', b: 'Multidentate ligands replace monodentate ones. ΔH is small (similar bonds broken and made) but the number of particles increases, so ΔS is positive and ΔG = ΔH − TΔS is negative.' },
       { n: 5, f: 'Why is carbon monoxide toxic?', b: 'CO replaces the O₂ that is co-ordinately bonded to Fe(II) in haem, so oxygen cannot be transported in the blood.' },
+    ]),
+    ...sub('transition-metals-7405', 'shapes-of-complex-ions-7405', '3.2.5.3', [
+      { n: 1, f: 'The four shapes of complex ions: co-ordination number, bond angle and an example of each', b: 'Octahedral: 6, 90°, [Cu(H₂O)₆]²⁺.\nTetrahedral: 4, 109.5°, [CuCl₄]²⁻.\nSquare planar: 4, 90°, [Pt(NH₃)₂Cl₂].\nLinear: 2, 180°, [Ag(NH₃)₂]⁺.', src: SHAPES },
+      { n: 2, f: 'Why does Cl⁻ give a tetrahedral complex when H₂O or NH₃ give an octahedral one?', b: 'Cl⁻ is a larger ligand, so only four fit around the metal ion. The co-ordination number falls from 6 to 4 and the shape changes from octahedral to tetrahedral.', src: SHAPES },
+      { n: 3, f: 'Cis–trans isomerism in complexes, and which isomer is cisplatin', b: 'Identical ligands are adjacent (cis, 90°) or opposite (trans, 180°). It occurs in square planar and octahedral complexes. Cisplatin is cis-[Pt(NH₃)₂Cl₂], an anti-cancer drug.', src: SHAPES },
+      { n: 4, f: 'Which complexes show cis–trans isomerism?', b: 'Square planar MA₂B₂ and octahedral MA₄B₂: yes. Square planar MA₃B: no. Tetrahedral and linear complexes: no.', src: SHAPES },
+      { n: 5, f: 'Optical isomerism in complexes: what is needed, with an example', b: 'Octahedral complexes with bidentate ligands, such as [Ni(H₂NCH₂CH₂NH₂)₃]²⁺ or [Cr(C₂O₄)₃]³⁻. The isomers are non-superimposable mirror images.', src: SHAPES },
+      { n: 6, f: 'cis-[Co(en)₂Cl₂]⁺ shows optical isomerism but the trans form does not. Why?', b: 'The trans form has a plane of symmetry, so it is superimposable on its mirror image. The cis form has no plane of symmetry, so its mirror images are different.', src: SHAPES },
+      { n: 7, f: 'Shape, isomerism and oxidation state of cobalt in [Co(NH₃)₄Cl₂]⁺', b: 'Octahedral, with cis (Cl⁻ at 90°) and trans (Cl⁻ at 180°) isomers. Cobalt is +3, since the overall charge +1 = Co + 2 × (−1).', src: SHAPES },
     ]),
     ...sub('transition-metals-7405', 'formation-of-coloured-ions-7405', '3.2.5.4', [
       { n: 1, f: 'Why are transition metal complexes coloured?', b: 'Some visible wavelengths are absorbed, moving d electrons from the ground state to an excited state (ΔE = hν = hc/λ). The colour seen is the light transmitted or reflected.' },

@@ -49,6 +49,19 @@ const ORG = 'aqa-gcse-chemistry-8462-organic-chemistry-revision-notes';
 const ANAL = 'aqa-gcse-chemistry-8462-chemical-analysis-revision-notes';
 const ATMOS = 'aqa-gcse-chemistry-8462-chemistry-of-the-atmosphere-revision-notes';
 const KEY = 'aqa-gcse-chemistry-8462-key-ideas-revision-notes';
+const STATES = 'aqa-gcse-chemistry-8462-three-states-of-matter-revision-notes';
+const SYMB = 'aqa-gcse-chemistry-8462-state-symbols-revision-notes';
+const IONPROP = 'aqa-gcse-chemistry-8462-properties-of-ionic-compounds-revision-notes';
+const SMALL = 'aqa-gcse-chemistry-8462-properties-of-small-molecules-revision-notes';
+const POLY = 'aqa-gcse-chemistry-8462-polymers-revision-notes';
+const GIANT = 'aqa-gcse-chemistry-8462-giant-covalent-structures-revision-notes';
+const METAL = 'aqa-gcse-chemistry-8462-properties-of-metals-and-alloys-revision-notes';
+const MCOND = 'aqa-gcse-chemistry-8462-metals-as-conductors-revision-notes';
+const DIAM = 'aqa-gcse-chemistry-8462-diamond-revision-notes';
+const GRAPH = 'aqa-gcse-chemistry-8462-graphite-revision-notes';
+const FULL = 'aqa-gcse-chemistry-8462-graphene-and-fullerenes-revision-notes';
+const SIZES = 'aqa-gcse-chemistry-8462-sizes-of-particles-and-their-properties-revision-notes';
+const NANOUSE = 'aqa-gcse-chemistry-8462-uses-of-nanoparticles-revision-notes';
 
 const T1 = 'atomic-structure-and-the-periodic-table-8462';
 const T2 = 'bonding-structure-and-the-properties-of-matter-8462';
@@ -181,6 +194,113 @@ export const DECK_AQA_GCSE_CHEMISTRY: FlashcardDeck = {
       { n: 3, f: 'How are the atoms arranged in a metal?', b: 'A giant structure of atoms arranged in a regular pattern.' },
       { n: 4, f: 'How many delocalised electrons does each atom of sodium, calcium and aluminium provide?', b: 'The number of outer electrons: sodium 1 (Na⁺ left), calcium 2 (Ca²⁺), aluminium 3 (Al³⁺).' },
       { n: 5, f: 'Covalent vs metallic bonding: electrons and structure', b: 'Covalent: electrons shared in pairs between two particular atoms; small molecule, polymer or giant covalent.\nMetallic: electrons delocalised across the whole structure; always giant and regular.' },
+    ]),
+
+    ...sub(T2, 'the-three-states-of-matter-8462', '4.2.2.1', [
+      { n: 1, f: 'Which changes of state happen at the melting point, and which at the boiling point?', b: 'Melting (solid → liquid) and freezing (liquid → solid) happen at the melting point.\nBoiling (liquid → gas) and condensing (gas → liquid) happen at the boiling point.', src: STATES },
+      { n: 2, f: 'Why does the temperature stay constant while a pure solid is melting?', b: 'The energy supplied is used to overcome the forces between the particles. It does not make the particles move faster, so the temperature does not rise until the change of state is complete.', src: STATES },
+      { n: 3, f: 'Compare the arrangement and movement of particles in a solid, a liquid and a gas', b: 'Solid: regular, touching, vibrating in place.\nLiquid: touching but random, sliding past each other.\nGas: far apart, random, moving fast in all directions.', src: STATES },
+      { n: 4, f: 'What decides how much energy is needed to change state? Are covalent bonds broken when water boils?', b: 'The strength of the forces between the particles: stronger forces mean higher melting and boiling points. When water boils the intermolecular forces are overcome; the covalent bonds in H₂O stay.', src: STATES },
+      { n: 5, f: 'A substance melts at 98 °C and boils at 883 °C. What state is it in at 25 °C?', b: 'Solid, because 25 °C is below the melting point of 98 °C. Between 98 °C and 883 °C it would be a liquid; above 883 °C a gas.', src: STATES },
+      { n: 6, f: 'Limitations of the simple particle model, where particles are solid spheres', b: 'It shows no forces between particles, although real particles attract each other; all particles are the same sphere, though real ones differ in size and shape; and atoms are not solid, being mostly empty space.', u: true, src: STATES },
+    ]),
+    ...sub(T2, 'state-symbols-8462', '4.2.2.2', [
+      { n: 1, f: 'What do the state symbols (s), (l), (g) and (aq) mean?', b: '(s) solid, (l) liquid, (g) gas, (aq) aqueous: dissolved in water. The symbol is written in brackets straight after the formula.', src: SYMB },
+      { n: 2, f: 'Do state symbols change the balancing numbers? When do you add them?', b: 'No. Balance the equation first, then add the symbols last. The numbers of atoms and the balancing numbers do not depend on the state symbols.', src: SYMB },
+      { n: 3, f: 'Add state symbols: magnesium ribbon + dilute hydrochloric acid → magnesium chloride solution + hydrogen', b: 'Mg(s) + 2HCl(aq) → MgCl₂(aq) + H₂(g)', src: SYMB },
+      { n: 4, f: 'Add state symbols to Pb(NO₃)₂ + 2KI → PbI₂ + 2KNO₃ when lead iodide is a precipitate', b: 'Pb(NO₃)₂(aq) + 2KI(aq) → PbI₂(s) + 2KNO₃(aq)\nA solid formed from two solutions is a precipitate and can be filtered off.', src: SYMB },
+      { n: 5, f: 'Give the state symbols for pure water, steam and molten sodium chloride', b: 'H₂O(l), H₂O(g) and NaCl(l). Pure water is not a solution, and molten NaCl has melted without water, so neither is (aq).', src: SYMB },
+      { n: 6, f: 'In CaCO₃(s) → CaO(s) + CO₂(g), how does a state symbol explain why the solid loses mass?', b: 'The (g) shows that carbon dioxide is a gas. It escapes into the air from an open container, so its mass is no longer counted with the solid left behind.', src: SYMB },
+    ]),
+    ...sub(T2, 'properties-of-ionic-compounds-8462', '4.2.2.3', [
+      { n: 1, f: 'Describe the structure of an ionic compound and the forces in it', b: 'A giant ionic lattice: a regular arrangement of oppositely charged ions. Strong electrostatic forces of attraction act in all directions between the ions.', src: IONPROP },
+      { n: 2, f: 'Explain why ionic compounds have high melting and boiling points', b: 'There are many strong electrostatic forces between oppositely charged ions in the lattice, so a large amount of energy is needed to break them.', src: IONPROP },
+      { n: 3, f: 'When do ionic compounds conduct electricity, and what carries the charge?', b: 'When molten or dissolved in water. The ions are free to move, so they carry the charge. They do not conduct as solids.', src: IONPROP },
+      { n: 4, f: 'Solid sodium chloride contains ions. Why does it not conduct electricity?', b: 'The ions are held in fixed positions in the lattice and cannot move, so charge cannot flow. Containing ions is not enough: they must be free to move.', src: IONPROP },
+      { n: 5, f: 'A solid melts at 801 °C, does not conduct as a solid, but its melt does. What is it?', b: 'An ionic compound. The high melting point shows many strong bonds; conducting only once molten shows the ions can move only when the lattice has broken down.', src: IONPROP },
+      { n: 6, f: 'What does the formula NaCl tell you about sodium chloride?', b: 'Na⁺ and Cl⁻ ions are in the ratio 1 : 1 in a giant lattice. There are no separate NaCl molecules. Sodium chloride is the only ionic structure you need to know.', src: IONPROP },
+    ]),
+    ...sub(T2, 'properties-of-small-molecules-8462', '4.2.2.4', [
+      { n: 1, f: 'Typical state and melting and boiling points of substances made of small molecules', b: 'Usually gases or liquids, with low melting and boiling points, because only weak intermolecular forces hold the molecules together.', src: SMALL },
+      { n: 2, f: 'When a small molecular substance boils, what is overcome and what stays intact?', b: 'The weak intermolecular forces between the molecules are overcome. The strong covalent bonds inside each molecule are not broken.', src: SMALL },
+      { n: 3, f: 'How does the size of molecules affect melting and boiling points?', b: 'Intermolecular forces increase with the size of the molecules, so larger molecules have higher melting and boiling points. Methane boils at −162 °C and butane at −1 °C.', src: SMALL },
+      { n: 4, f: 'Why do small molecular substances not conduct electricity?', b: 'The molecules have no overall electric charge, and there are no free ions or delocalised electrons to carry charge.', src: SMALL },
+      { n: 5, f: 'Explain why bromine (boils at 59 °C) boils at a higher temperature than chlorine (−34 °C)', b: 'Bromine molecules are larger than chlorine molecules, so the intermolecular forces are stronger and more energy is needed to overcome them.', src: SMALL },
+      { n: 6, f: 'Iodine is a solid at room temperature. Why is it still a small molecular substance?', b: 'It is made of small I₂ molecules held by intermolecular forces. They are stronger than in chlorine because the molecules are larger, but still weak compared with covalent bonds, so it melts easily.', src: SMALL },
+    ]),
+    ...sub(T2, 'polymers-8462', '4.2.2.5', [
+      { n: 1, f: 'Describe the structure and bonding of a polymer', b: 'Very large molecules in which the atoms are linked by strong covalent bonds. The intermolecular forces between the molecules are relatively strong.', src: POLY },
+      { n: 2, f: 'Why are polymers solids at room temperature?', b: 'The molecules are very long, so the intermolecular forces add up and are relatively strong. A lot of energy is needed to separate the chains. The covalent bonds along the chain do not break.', src: POLY },
+      { n: 3, f: 'How can you recognise a polymer in a diagram of its bonding?', b: 'A repeat unit in square brackets, with bond lines passing through the brackets and n after the second bracket, where n is a very large number of repeat units.', src: POLY },
+      { n: 4, f: 'Give the repeat unit formulae of poly(ethene), poly(propene) and poly(chloroethene)', b: 'Poly(ethene) C₂H₄, poly(propene) C₃H₆, poly(chloroethene) C₂H₃Cl.', src: POLY },
+      { n: 5, f: 'A polymer chain has 300 repeat units of C₂H₄. How many carbon and hydrogen atoms?', b: 'Carbon: 300 × 2 = 600 atoms.\nHydrogen: 300 × 4 = 1200 atoms.', src: POLY },
+      { n: 6, f: 'How does a polymer differ from a giant covalent structure?', b: 'A polymer is separate, very long molecules held by relatively strong intermolecular forces. A giant covalent structure is one continuous network of covalent bonds with no separate molecules.', src: POLY },
+    ]),
+    ...sub(T2, 'giant-covalent-structures-8462', '4.2.2.6', [
+      { n: 1, f: 'Giant covalent structure: bonding, state and melting point', b: 'All the atoms are linked to other atoms by strong covalent bonds in a network. They are solids with very high melting points.', src: GIANT },
+      { n: 2, f: 'Name three giant covalent structures', b: 'Diamond and graphite (forms of carbon) and silicon dioxide (silica, SiO₂).', src: GIANT },
+      { n: 3, f: 'Describe the bonding in silicon dioxide and explain why its formula is SiO₂', b: 'Each silicon is bonded to four oxygen atoms and each oxygen to two silicon atoms. 4 ÷ 2 = 2 oxygen atoms for each silicon, so the formula is a ratio, not a molecule.', src: GIANT },
+      { n: 4, f: 'Explain why silicon dioxide has a very high melting point', b: 'It is a giant covalent structure. The strong covalent bonds linking the atoms must be broken to melt it, and there are very many of them, so a very large amount of energy is needed.', src: GIANT },
+      { n: 5, f: 'Why is carbon dioxide a gas but silicon dioxide a solid?', b: 'CO₂ is made of small molecules with weak intermolecular forces to overcome. SiO₂ is a giant covalent structure, so strong covalent bonds must be broken.', src: GIANT },
+      { n: 6, f: 'A substance melts at 2000 °C and does not conduct when solid or molten. What structure is it?', b: 'Giant covalent. The very high melting point fits strong covalent bonds, and it is not ionic because ionic compounds conduct when molten.', src: GIANT },
+    ]),
+    ...sub(T2, 'properties-of-metals-and-alloys-8462', '4.2.2.7', [
+      { n: 1, f: 'Why do most metals have high melting and boiling points?', b: 'Metals have giant structures with strong metallic bonding between the positive ions and the delocalised electrons. There are many bonds, so a large amount of energy is needed to break them.', src: METAL },
+      { n: 2, f: 'Why can a pure metal be bent and shaped?', b: 'The atoms are all the same size and arranged in regular layers. The layers can slide over each other while the metallic bonding still holds, so the metal changes shape without breaking.', src: METAL },
+      { n: 3, f: 'Explain why an alloy is harder than a pure metal', b: 'Atoms of different sizes distort the regular layers, so the layers cannot slide over each other so easily.', src: METAL },
+      { n: 4, f: 'Alloy: what is it, and what are brass, bronze and steel made from?', b: 'A mixture of a metal with one or more other elements. Brass: copper and zinc. Bronze: copper and tin. Steel: iron with a little carbon, a non-metal.', src: METAL },
+      { n: 5, f: '250 g of brass is 70% copper. What mass of zinc does it contain?', b: 'Copper: 70 ÷ 100 × 250 = 175 g.\nZinc: 250 − 175 = 75 g.', src: METAL },
+      { n: 6, f: 'Why is a pure metal often unsuitable for use in construction?', b: 'Pure metals are too soft for many uses because their layers slide easily. Mixing them with other elements to make alloys gives a harder material, such as steel.', src: METAL },
+    ]),
+    ...sub(T2, 'metals-as-conductors-8462', '4.2.2.8', [
+      { n: 1, f: 'Why are metals good conductors of electricity?', b: 'The delocalised electrons are free to move through the metal and carry electrical charge.', src: MCOND },
+      { n: 2, f: 'Why are metals good conductors of thermal energy?', b: 'The delocalised electrons gain energy at the hot end, move through the metal and transfer the energy to cooler parts.', src: MCOND },
+      { n: 3, f: 'In a solid metal, which particles stay fixed and which can move?', b: 'The positive metal ions stay in position in a regular arrangement. The delocalised electrons move freely and carry the charge and the energy.', src: MCOND },
+      { n: 4, f: 'Why does solid sodium conduct electricity but solid sodium chloride does not?', b: 'Sodium has delocalised electrons that are free to move. Sodium chloride has ions fixed in the lattice and no free electrons.', src: MCOND },
+      { n: 5, f: 'Name a non-metal element that conducts electricity, and give the reason', b: 'Graphite (carbon). It has one delocalised electron per carbon atom, free to move. Diamond does not conduct because all its outer electrons are used in bonds.', src: MCOND },
+      { n: 6, f: 'Why is a pan made of metal but its handle of plastic?', b: 'Metal conducts thermal energy well, so the pan heats the food. Plastic is a poor thermal conductor, so the handle stays cool to touch.', src: MCOND },
+    ]),
+    ...sub(T2, 'diamond-8462', '4.2.3.1', [
+      { n: 1, f: 'Describe the structure and bonding of diamond', b: 'A giant covalent structure of carbon atoms. Each carbon atom forms four covalent bonds with other carbon atoms, in a rigid three-dimensional network.', src: DIAM },
+      { n: 2, f: 'Explain why diamond is very hard', b: 'Each atom is held by four strong covalent bonds in a rigid 3D network, so the atoms cannot slide over each other.', src: DIAM },
+      { n: 3, f: 'Explain why diamond has a very high melting point', b: 'Many strong covalent bonds must be broken to melt it, so a very large amount of energy is needed.', src: DIAM },
+      { n: 4, f: 'Explain why diamond does not conduct electricity', b: 'All four outer electrons of each carbon atom are used in covalent bonds, so there are no delocalised electrons or ions free to move.', src: DIAM },
+      { n: 5, f: 'How many covalent bonds are in a crystal of 300 carbon atoms of diamond?', b: 'Each atom has four bonds and each bond joins two atoms, so 300 × 4 ÷ 2 = 600 bonds.', src: DIAM },
+      { n: 6, f: 'Allotropes of carbon: how many bonds per atom in diamond and in graphite?', b: 'Allotropes are different structural forms of the same element. Diamond has four bonds per carbon atom (3D network); graphite has three (layers).', src: DIAM },
+    ]),
+    ...sub(T2, 'graphite-8462', '4.2.3.2', [
+      { n: 1, f: 'Describe the structure and bonding of graphite', b: 'Each carbon atom forms three covalent bonds, giving layers of hexagonal rings. There are no covalent bonds between the layers. One electron per carbon atom is delocalised.', src: GRAPH },
+      { n: 2, f: 'Explain why graphite is soft and slippery', b: 'There are no covalent bonds between the layers, so the layers can slide over one another.', src: GRAPH },
+      { n: 3, f: 'Explain why graphite conducts electricity', b: 'One electron from each carbon atom is delocalised. These electrons are free to move through the layers and carry charge.', src: GRAPH },
+      { n: 4, f: 'Explain why graphite has a very high melting point', b: 'The many strong covalent bonds within the layers must be broken, which needs a very large amount of energy.', src: GRAPH },
+      { n: 5, f: 'Give three uses of graphite and the property each depends on', b: 'Pencils: soft, layers rub off.\nLubricant: layers slide.\nElectrodes: conducts electricity and has a high melting point.', src: GRAPH },
+      { n: 6, f: 'Each carbon atom in a graphite layer is shared by three hexagons. How many atoms per hexagon?', b: 'A hexagon has six corner atoms: 6 ÷ 3 = 2 carbon atoms per hexagon. So 50 hexagons contain 100 carbon atoms.', src: GRAPH },
+      { n: 7, f: 'In what way is graphite similar to a metal?', b: 'It has delocalised electrons, so it conducts electricity. Unlike a metal it is a non-metal with a giant covalent structure.', src: GRAPH },
+    ]),
+    ...sub(T2, 'graphene-and-fullerenes-8462', '4.2.3.3', [
+      { n: 1, f: 'Graphene: what is it, and why does it conduct electricity?', b: 'A single layer of graphite, one atom thick. Each carbon forms three bonds in hexagonal rings, and the one delocalised electron per atom is free to move and carry charge.', src: FULL },
+      { n: 2, f: 'Fullerenes: what are they, and what rings do they contain?', b: 'Molecules of carbon atoms with hollow shapes. Their structure is based on hexagonal rings of carbon atoms, but they may also contain rings of five or seven carbon atoms.', src: FULL },
+      { n: 3, f: 'Buckminsterfullerene: formula, shape, relative formula mass', b: 'C₆₀: a hollow sphere of 60 carbon atoms, the first fullerene discovered. Mr = 60 × 12 = 720.', src: FULL },
+      { n: 4, f: 'Carbon nanotubes: shape and uses', b: 'Cylindrical fullerenes with very high length to diameter ratios. Used in nanotechnology, electronics and materials, for example to strengthen them.', src: FULL },
+      { n: 5, f: 'How many covalent bonds are in one molecule of C₆₀?', b: 'Each of the 60 carbon atoms forms three bonds and each bond joins two atoms: 60 × 3 ÷ 2 = 90 bonds.', src: FULL },
+      { n: 6, f: 'Give a use of graphene and a use of fullerenes, with the property each depends on', b: 'Graphene: electronics (conducts electricity) or composites (strong but light).\nFullerenes: drug delivery (the hollow shape can carry other molecules).', src: FULL },
+    ]),
+    ...sub(T2, 'sizes-of-particles-and-their-properties-8462', '4.2.4.1', [
+      { n: 1, f: 'What size range does nanoscience cover, and how many atoms is that?', b: 'Structures 1 to 100 nm in size, which is of the order of a few hundred atoms. 1 nm = 1 × 10⁻⁹ m.', src: SIZES },
+      { n: 2, f: 'Give the diameter ranges of fine particles (PM2.5) and coarse particles (PM10)', b: 'Fine particles: 100 to 2500 nm (1 × 10⁻⁷ m to 2.5 × 10⁻⁶ m).\nCoarse particles, often called dust: 2.5 × 10⁻⁶ m to 1 × 10⁻⁵ m.', src: SIZES },
+      { n: 3, f: 'What happens to the surface area to volume ratio as the side of a cube decreases by a factor of 10?', b: 'It increases by a factor of 10. For a cube of side L the ratio is 6L² ÷ L³ = 6 ÷ L.', src: SIZES },
+      { n: 4, f: 'Write 40 nm in metres in standard form', b: '40 × 10⁻⁹ m = 4 × 10⁻⁸ m.', src: SIZES },
+      { n: 5, f: 'Calculate the surface area to volume ratio of a cube of side 3 cm', b: 'Surface area = 6 × 3² = 54 cm². Volume = 3³ = 27 cm³. Ratio = 54 ÷ 27 = 2 (that is, 6 ÷ 3).', src: SIZES },
+      { n: 6, f: 'Why may nanoparticles have different properties from the same material in bulk?', b: 'They have a very high surface area to volume ratio, so a large proportion of their atoms is at the surface. They can interact more effectively, so smaller quantities may be needed.', src: SIZES },
+      { n: 7, f: 'How many atoms of diameter 0.1 nm fit across a nanoparticle 20 nm wide?', b: '20 ÷ 0.1 = 200 atoms.', src: SIZES },
+    ]),
+    ...sub(T2, 'uses-of-nanoparticles-8462', '4.2.4.2', [
+      { n: 1, f: 'Name areas where nanoparticles have applications', b: 'Medicine, electronics, cosmetics and sun creams, deodorants, and catalysts. New applications are an important area of research.', src: NANOUSE },
+      { n: 2, f: 'Why is a nanoparticle catalyst effective, and why may less of it be needed?', b: 'Its high surface area to volume ratio exposes more of the material, so more reactant particles meet the surface and a smaller quantity is effective.', src: NANOUSE },
+      { n: 3, f: 'State possible risks of using nanoparticles', b: 'Very small particles may enter the body through the skin or lungs, long-term health effects may be unknown, and they might spread in the environment.', src: NANOUSE },
+      { n: 4, f: 'What four parts should an evaluation of a nanoparticle use include?', b: 'A benefit linked to a property, a possible risk or drawback, evidence from the data given, and a conclusion (or what more information is needed).', src: NANOUSE },
+      { n: 5, f: 'Catalyst A: 10 kg at £25 per kg. Nanoparticle catalyst: 1 kg at £120 per kg. Which is cheaper, and by how much?', b: 'A costs 10 × 25 = £250; the nanoparticle catalyst costs 1 × 120 = £120. The nanoparticle catalyst is cheaper by £130.', src: NANOUSE },
+      { n: 6, f: 'Why does an answer about nanoparticle risks say "possible"? Must you learn specific examples?', b: 'The risks are not all proven and some effects are not yet known. You do not need specific examples: the question supplies the information, which you use to evaluate.', src: NANOUSE },
     ]),
 
     // 3 Quantitative chemistry

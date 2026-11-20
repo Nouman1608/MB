@@ -41,6 +41,17 @@ const GEOM = 'o-level-mathematics-geometry-revision-notes';
 const PROB = 'o-level-mathematics-probability-revision-notes';
 const VEC = 'cambridge-o-level-mathematics-vectors-in-two-dimensions-column-vectors-magnitude-and-revision-notes';
 const STAT = 'cambridge-o-level-mathematics-statistics-classifying-data-averages-spread-and-revision-notes';
+const POW = 'cambridge-o-level-mathematics-4024-powers-and-roots-revision-notes';
+const ORD = 'cambridge-o-level-mathematics-4024-ordering-revision-notes';
+const OPS = 'cambridge-o-level-mathematics-4024-the-four-operations-revision-notes';
+const EST = 'cambridge-o-level-mathematics-4024-estimation-revision-notes';
+const RATE = 'cambridge-o-level-mathematics-4024-rates-revision-notes';
+const CALC = 'cambridge-o-level-mathematics-4024-using-a-calculator-revision-notes';
+const TIME = 'cambridge-o-level-mathematics-4024-time-revision-notes';
+const MONEY = 'cambridge-o-level-mathematics-4024-money-revision-notes';
+const COORDS = 'cambridge-o-level-mathematics-4024-coordinates-revision-notes';
+const CONS = 'cambridge-o-level-mathematics-4024-geometrical-constructions-revision-notes';
+const SYM = 'cambridge-o-level-mathematics-4024-symmetry-revision-notes';
 
 export const DECK_CAMBRIDGE_O_LEVEL_MATHEMATICS: FlashcardDeck = {
   boardSlug: 'cambridge',
@@ -98,8 +109,32 @@ export const DECK_CAMBRIDGE_O_LEVEL_MATHEMATICS: FlashcardDeck = {
     ...sub('number', 'sets-4024', '1.2', [
       { n: 1, f: 'Sets: formula for n(A ∪ B)', b: 'n(A ∪ B) = n(A) + n(B) − n(A ∩ B)\nn means "number of elements in". Subtract the overlap because it was counted twice.' },
     ]),
+    ...sub('number', 'powers-and-roots-4024', '1.3', [
+      { n: 1, f: 'Which squares and cubes must you recall?', b: 'Squares and their roots from 1 to 15 (1² = 1 up to 15² = 225). Cubes and their roots for 1, 2, 3, 4, 5 and 10: 1, 8, 27, 64, 125 and 1000.', src: POW },
+      { n: 2, f: 'Work out (−4)², (−4)³ and −4²', b: '(−4)² = 16 (even power, positive). (−4)³ = −64 (odd power, negative). −4² = −16, because the power applies to 4 only.', src: POW },
+      { n: 3, f: 'Solve x² = 49 and x³ = 27', b: 'x² = 49 gives x = 7 or x = −7. x³ = 27 gives only x = 3, because a cube has just one real cube root.', src: POW },
+      { n: 4, f: 'Write √(49/81), ∛(8/125) and √0.0036 as exact values', b: '7/9, 2/5 and 0.06. Take the root of the top and the bottom separately. Check a decimal root by multiplying back: 0.06 × 0.06 = 0.0036.', src: POW },
+      { n: 5, f: 'Between which two integers does √50 lie, and how do you find out?', b: 'Bracket it between perfect squares: 49 < 50 < 64, so √50 is between 7 and 8. It is close to 49, so it is just over 7 (about 7.07).', src: POW },
+      { n: 6, f: 'Is √(9 + 16) the same as √9 + √16?', b: 'No. √(9 + 16) = √25 = 5, but √9 + √16 = 3 + 4 = 7. A root over a sum is not the sum of the roots.', src: POW },
+    ]),
     ...sub('number', 'fractions-decimals-and-percentages-4024', '1.4', [
       { n: 1, f: 'Write 0.6̇3̇ (0.6363…) as a fraction', b: 'x = 0.6363…, so 100x = 63.6363…\nSubtract: 99x = 63\nx = 63/99 = 7/11' },
+    ]),
+    ...sub('number', 'ordering-4024', '1.5', [
+      { n: 1, f: 'What do the symbols =, ≠, >, <, ≥ and ≤ mean?', b: '= equal to; ≠ not equal to; > greater than; < less than; ≥ greater than or equal to; ≤ less than or equal to. Only ≥ and ≤ include the end value.', src: ORD },
+      { n: 2, f: 'Write "y is greater than 2 and at most 10" as an inequality', b: '2 < y ≤ 10. "Greater than" is strict (<), so 2 is left out; "at most" includes 10 (≤).', src: ORD },
+      { n: 3, f: 'List the integers x where −3 < x ≤ 2', b: '−2, −1, 0, 1, 2. The strict sign leaves out −3, and ≤ includes 2. Check each end of the inequality separately.', src: ORD },
+      { n: 4, f: 'Put in order, smallest first: 0.3, 1/4, 28%, 0.29', b: 'Convert everything to decimals: 0.3, 0.25, 0.28, 0.29. Smallest first: 1/4, 28%, 0.29, 0.3.', src: ORD },
+      { n: 5, f: 'How do you compare 4/7 and 7/12 by cross-multiplying?', b: '4 × 12 = 48 and 7 × 7 = 49. The larger product sits on the side of the larger fraction, so 7/12 > 4/7. Check: 48/84 < 49/84.', src: ORD },
+      { n: 6, f: 'Put in order, largest first: 3.2 × 10⁻², 4.1 × 10⁻³, 2.9 × 10⁻²', b: 'Compare the powers of 10 first: −2 is larger than −3. Then compare the front numbers: 3.2 > 2.9. Order: 3.2 × 10⁻², 2.9 × 10⁻², 4.1 × 10⁻³.', src: ORD },
+    ]),
+    ...sub('number', 'the-four-operations-4024', '1.6', [
+      { n: 1, f: 'What is the order of operations?', b: '1. Brackets (including fraction bars and roots). 2. Indices. 3. Multiply and divide, left to right. 4. Add and subtract, left to right.\nExample: 12 ÷ 3 × 2 = 4 × 2 = 8, not 12 ÷ 6.', src: OPS },
+      { n: 2, f: 'Work out −7 − (−12) and (−5) × 6 ÷ (−3)', b: 'Subtracting a negative adds: −7 + 12 = 5. (−5) × 6 = −30, and −30 ÷ (−3) = 10, because two negatives make a positive.', src: OPS },
+      { n: 3, f: 'How do you add 3/4 + 2/3?', b: 'Use a common denominator of 12: 9/12 + 8/12 = 17/12 = 1 5/12. Add or subtract only over the same denominator; never add the denominators.', src: OPS },
+      { n: 4, f: 'How do you multiply and divide mixed numbers? Work out 1 1/2 × 2 2/3', b: 'Convert to improper fractions: 3/2 × 8/3 = 4. To divide, multiply by the reciprocal of the second fraction: 3/5 ÷ 9/10 = 3/5 × 10/9 = 2/3.', src: OPS },
+      { n: 5, f: 'Work out 0.4 × 0.07 and 3.6 ÷ 0.9', b: 'Multiply as integers: 4 × 7 = 28, with three decimal places in all, so 0.028. Divide: multiply both numbers by 10 so the divisor is whole: 36 ÷ 9 = 4.', src: OPS },
+      { n: 6, f: 'The temperature is 5 °C and falls by 3 °C each hour for 4 hours. Find the final temperature.', b: '5 − 4 × 3 = 5 − 12 = −7 °C. Include the unit with the answer.', src: OPS },
     ]),
     ...sub('number', 'indices-i-4024', '1.7', [
       { n: 1, f: 'Index rules for zero, negative and fractional powers', b: 'a⁰ = 1\na⁻ⁿ = 1/aⁿ\na^(m/n) = (ⁿ√a)ᵐ: take the root first, then the power.\nExample: 64^(2/3) = 4² = 16.' },
@@ -107,14 +142,54 @@ export const DECK_CAMBRIDGE_O_LEVEL_MATHEMATICS: FlashcardDeck = {
     ...sub('number', 'standard-form-4024', '1.8', [
       { n: 1, f: 'Standard form', b: 'A × 10ⁿ, where 1 ≤ A < 10 and n is an integer.\nExamples: 45 000 000 = 4.5 × 10⁷; 0.00306 = 3.06 × 10⁻³.\n30 × 10⁴ is not in standard form: write 3 × 10⁵.' },
     ]),
+    ...sub('number', 'estimation-4024', '1.9', [
+      { n: 1, f: 'How do you estimate a calculation?', b: 'Round every number to 1 significant figure (a root to the nearest perfect square), do the easy calculation and show the rounded values.\nExample: 58.7 × 3.12 ÷ 0.205 ≈ 60 × 3 ÷ 0.2 = 900.', src: EST },
+      { n: 2, f: 'Round 0.0508 to 1 significant figure and 30 970 to 3 significant figures', b: 'Leading zeros are not significant. 0.0508 → 0.05. 30 970 → 31 000, keeping the zeros as placeholders; 31 would be wrong.', src: EST },
+      { n: 3, f: 'What is the rounding rule, and what is 9.996 to 2 decimal places?', b: 'Look at the digit after the rounding place: 5 or more rounds up, 4 or less rounds down. 9.996 to 2 d.p. is 10.00.', src: EST },
+      { n: 4, f: 'There are 213 people and each coach holds 45. How many coaches are needed?', b: '213 ÷ 45 = 4.73, so round up to 5 coaches: you need a whole number that covers everyone. Round down when asked how many full items fit.', src: EST },
+      { n: 5, f: 'If the divisor is rounded up in an estimate, is the estimate bigger or smaller than the exact value?', b: 'Smaller, because dividing by a bigger number gives a smaller result. Rounding up a number being multiplied makes the estimate bigger.', src: EST },
+      { n: 6, f: 'Write 4 530 000 to 2 significant figures in standard form', b: '4.5 × 10⁶. Decimal places are a poor choice for very small or large numbers; significant figures with standard form show the size clearly.', src: EST },
+    ]),
     ...sub('number', 'limits-of-accuracy-4024', '1.10', [
       { n: 1, f: 'A length is 847.6 m to 1 decimal place. Write its bounds.', b: '847.55 ≤ l < 847.65\nThe bounds are half a unit (0.05) either side. For the largest a − b or a ÷ b, use the upper bound of a with the lower bound of b.' },
     ]),
     ...sub('number', 'ratio-and-proportion-4024', '1.11', [
       { n: 1, f: 'How do you share an amount in a ratio? (240 in the ratio 3 : 5)', b: '1. Add the parts: 3 + 5 = 8.\n2. One part = 240 ÷ 8 = 30.\n3. Multiply: 3 × 30 = 90 and 5 × 30 = 150.' },
     ]),
+    ...sub('number', 'rates-4024', '1.12', [
+      { n: 1, f: 'Which rate formulas must you know, and which are given in the question?', b: 'You must know speed = distance ÷ time, with distance = speed × time and time = distance ÷ speed. The formulas for density, pressure and population density are given in the question.', src: RATE },
+      { n: 2, f: 'A cyclist rides 36 km in 2 h 15 min. Find the average speed.', b: '2 h 15 min = 2.25 h. Speed = 36 ÷ 2.25 = 16 km/h. Change the time to hours first; it is 2.25, not 2.15.', src: RATE },
+      { n: 3, f: 'A car travels at 40 km/h for 1 hour, then at 60 km/h for 3 hours. Find the average speed.', b: 'Average speed = total distance ÷ total time = (40 + 180) ÷ 4 = 55 km/h. The mean of the speeds (50) is wrong, because the times differ.', src: RATE },
+      { n: 4, f: 'Change 90 km/h to m/s and 15 m/s to km/h', b: 'km/h to m/s: divide by 3.6, so 90 ÷ 3.6 = 25 m/s. m/s to km/h: multiply by 3.6, so 15 × 3.6 = 54 km/h.', src: RATE },
+      { n: 5, f: 'A stone has mass 270 g and volume 100 cm³. Find its density.', b: 'Density = mass ÷ volume = 270 ÷ 100 = 2.7 g/cm³. Rearranged: mass = density × volume.', src: RATE },
+      { n: 6, f: 'A car uses 8 litres of fuel per 100 km. How much does it use in 275 km?', b: '8 × 275 ÷ 100 = 8 × 2.75 = 22 litres. Check whether the figure is per 100 km or per litre.', src: RATE },
+    ]),
     ...sub('number', 'percentages-4024', '1.13', [
       { n: 1, f: 'Reverse percentage: after a 20% discount a coat costs 1920 dollars. Find the original price.', b: 'The multiplier for a 20% decrease is 0.8.\nOriginal = 1920 ÷ 0.8 = 2400 dollars.\nDivide by the multiplier; do not take 20% of the new price.' },
+    ]),
+    ...sub('number', 'using-a-calculator-4024', '1.14', [
+      { n: 1, f: 'Why must you not round part way through a calculation?', b: 'Early rounding loses accuracy. 2.34 × 5.67 × 1.5 = 19.9 to 3 s.f., but rounding 2.34 × 5.67 to 13.3 first gives 13.3 × 1.5 = 20.0. Keep the full value and round only the final answer.', src: CALC },
+      { n: 2, f: 'What are the Paper 2 accuracy rules?', b: 'Give non-exact answers to 3 significant figures, angles in degrees to 1 decimal place and money to the nearest cent. Use the calculator value of π (or 3.142).', src: CALC },
+      { n: 3, f: 'Enter 2 hours 30 minutes as a decimal and read a display of 3.25 hours', b: '2 h 30 min = 2.5 hours (30 ÷ 60); never type 2.30. A display of 3.25 hours is 3 h 15 min, because 0.25 × 60 = 15.', src: CALC },
+      { n: 4, f: 'A calculator shows 4.8 for money in dollars and 1.47E4. Interpret both.', b: '4.8 in money is $4.80. 1.47E4 means 1.47 × 10⁴ = 14 700. Write standard form properly, not as 1.47E4.', src: CALC },
+      { n: 5, f: 'Where do you need brackets when keying in a calculation?', b: 'Round a whole denominator, a fractional index and a negative number being squared.\n12.8 ÷ (3.6 − 1.15) = 5.22 (3 s.f.), but 12.8 ÷ 3.6 − 1.15 = 2.41. (−3.2)² = 10.24, whereas −3.2² = −10.24.', src: CALC },
+      { n: 6, f: 'Convert 37.65° to degrees and minutes, and 12° 15′ to a decimal', b: '0.65 × 60 = 39, so 37.65° = 37° 39′. For the reverse, 12° 15′ = 12 + 15/60 = 12.25°.', src: CALC },
+    ]),
+    ...sub('number', 'time-4024', '1.15', [
+      { n: 1, f: 'How many seconds are in a day, and how many hours in a year?', b: '1 day = 24 h = 1 440 min = 86 400 s. A year is taken as 365 days = 8 760 h.', src: TIME },
+      { n: 2, f: 'Write 6.45 p.m. in the 24-hour clock and 00 40 in the 12-hour clock', b: '6.45 p.m. is 18 45: add 12 hours to p.m. times after 1 p.m. 00 40 is 12.40 a.m.; 12.00 a.m. is midnight and 12.00 p.m. is noon.', src: TIME },
+      { n: 3, f: 'Find the time from 09 35 to 22 50', b: 'Count up: 25 min to 10 00, then 12 h to 22 00, then 50 min. 25 min + 12 h + 50 min = 13 h 15 min.', src: TIME },
+      { n: 4, f: 'A journey starts at 21 40 and ends at 03 15 the next day. How long does it take?', b: 'It crosses midnight, so do not subtract directly. 21 40 to 24 00 is 2 h 20 min, plus 3 h 15 min gives 5 h 35 min.', src: TIME },
+      { n: 5, f: 'Write 2.3 hours in hours and minutes, and 45 minutes as a decimal of an hour', b: 'Time is base 60. 0.3 × 60 = 18, so 2.3 hours is 2 h 18 min. 45 ÷ 60 = 0.75 hours.', src: TIME },
+      { n: 6, f: 'A plane leaves at 20 15 and flies for 6 h 50 min. The arrival city is 4 hours behind. Find the local arrival time.', b: '20 15 + 6 h 50 min = 03 05 next day. The destination is 4 h behind, so subtract 4 h: 23 05 on the day of departure.', src: TIME },
+    ]),
+    ...sub('number', 'money-4024', '1.16', [
+      { n: 1, f: 'Hire purchase: how do you find the total paid and the extra cost?', b: 'Total paid = deposit + (number of payments × payment). Extra cost = total paid − cash price.\nExample: $240 + 12 × $38.50 = $702; cash price $620, so the extra cost is $82.', src: MONEY },
+      { n: 2, f: 'How do you decide which offer is the best buy?', b: 'Work out the cost per unit (price ÷ quantity), using the same unit for every offer. The lower unit cost is better value: 1.5 L for $2.64 is $1.76 per litre; 2 L for $3.40 is $1.70 per litre.', src: MONEY },
+      { n: 3, f: 'If $1 = €0.92, how do you change dollars to euros and euros to dollars?', b: 'Dollars to euros: multiply by 0.92 ($250 → €230). Euros to dollars: divide by 0.92 (€368 → $400). Sense check: the more valuable currency gives the smaller number.', src: MONEY },
+      { n: 4, f: 'Given $1 = €0.92 and $1 = £0.79, how do you change euros to pounds?', b: 'Go through dollars: euros to dollars (÷ 0.92), then dollars to pounds (× 0.79).\n€460 → $500 → £395.', src: MONEY },
+      { n: 5, f: 'Bureau A: $1 = €0.92 with a $4 fee. Bureau B: $1 = €0.90, no fee. Which gives more euros for $300?', b: 'A: (300 − 4) × 0.92 = €272.32. B: 300 × 0.90 = €270. Bureau A is better by €2.32. Apply a fee before or after the exchange as the wording says.', src: MONEY },
+      { n: 6, f: 'Gross pay is $568 and 12% is deducted. Find the net pay.', b: 'Net pay is pay after deductions: 568 × (1 − 0.12) = 568 × 0.88 = $499.84. Net pay must be smaller than gross pay.', src: MONEY },
     ]),
     ...sub('number', 'exponential-growth-and-decay-4024', '1.17', [
       { n: 1, f: 'Compound interest formula', b: 'Amount = P × (1 + r/100)ⁿ\nP = principal, r = rate per year (%), n = number of years. Subtract P to get the interest.\nExample: 480 dollars at 5% for 3 years: 480 × 1.05³ = 555.66 dollars.' },
@@ -211,6 +286,14 @@ export const DECK_CAMBRIDGE_O_LEVEL_MATHEMATICS: FlashcardDeck = {
     ]),
 
     // 3 Coordinate geometry
+    ...sub('coordinate-geometry', 'coordinates-4024', '3.1', [
+      { n: 1, f: 'Name the four quadrants and the signs of x and y in each', b: '1st top right (+, +); 2nd top left (−, +); 3rd bottom left (−, −); 4th bottom right (+, −). Points on an axis are in no quadrant.', src: COORDS },
+      { n: 2, f: 'Which quadrant is (−7, 3) in, and where is (0, −5)?', b: '(−7, 3) is in the 2nd quadrant (x negative, y positive). (0, −5) has x = 0, so it is on the negative y-axis, in no quadrant.', src: COORDS },
+      { n: 3, f: 'Find the distance between (−3, 4) and (5, 4)', b: 'The y-values match, so the line is horizontal. Subtract the x-values, larger minus smaller: 5 − (−3) = 8. Watch the negatives.', src: COORDS },
+      { n: 4, f: 'A(1, 2), B(5, 2) and C(7, 5) are three vertices of parallelogram ABCD. Find D.', b: 'From B to C is +2 across and +3 up, so D = A + (2, 3) = (3, 5).', src: COORDS },
+      { n: 5, f: 'Reflect (3, −2) in the x-axis and in the y-axis', b: 'In the x-axis the sign of y changes: (3, 2). In the y-axis the sign of x changes: (−3, −2).', src: COORDS },
+      { n: 6, f: 'The point (m + 4, 3m) lies on the y-axis. Find m and the point.', b: 'On the y-axis x = 0, so m + 4 = 0 and m = −4. The point is (0, −12).', src: COORDS },
+    ]),
     ...sub('coordinate-geometry', 'drawing-linear-graphs-4024', '3.2', [
       { n: 1, f: 'The lines x = 3 and y = 3: how do they differ?', b: 'x = 3 is vertical, through (3, 0); its gradient is undefined.\ny = 3 is horizontal, through (0, 3); its gradient is 0.' },
     ]),
@@ -240,6 +323,14 @@ export const DECK_CAMBRIDGE_O_LEVEL_MATHEMATICS: FlashcardDeck = {
     ...sub('geometry', 'geometrical-terms-4024', '4.1', [
       { n: 1, f: 'Sector and segment of a circle', b: 'Sector: bounded by two radii and an arc.\nSegment: bounded by a chord and an arc.', src: GEOM },
     ]),
+    ...sub('geometry', 'geometrical-constructions-4024', '4.2', [
+      { n: 1, f: 'How do you construct a triangle from its three sides?', b: '1. Draw the longest side as the base with a ruler. 2. With compasses set to the second side, draw an arc from one end. 3. Set to the third side and draw an arc from the other end. 4. Join both ends to where the arcs cross. Leave all arcs.', src: CONS },
+      { n: 2, f: 'Why can a triangle with sides 12 cm, 5 cm and 6 cm not be constructed?', b: 'The two shorter sides must add up to more than the longest side. 5 + 6 = 11, which is less than 12, so the arcs would not meet.', src: CONS },
+      { n: 3, f: 'How do you measure an angle with a protractor?', b: 'Put the centre mark on the vertex and the baseline along one arm. Read the scale that starts at 0 on that arm. A reflex angle is 360° minus the angle measured on the other side.', src: CONS },
+      { n: 4, f: 'Which faces make up the net of a triangular prism, a square-based pyramid and a cylinder?', b: 'Triangular prism: 2 triangles and 3 rectangles. Square-based pyramid: 1 square and 4 triangles. Cylinder: 2 circles and 1 rectangle of length 2πr.', src: CONS },
+      { n: 5, f: 'A cuboid measures 6 cm by 4 cm by 2 cm. Find its surface area and volume.', b: 'Surface area = area of the net = 2(lw + lh + wh) = 2(24 + 12 + 8) = 88 cm². Volume = 6 × 4 × 2 = 48 cm³.', src: CONS },
+      { n: 6, f: 'A square-based pyramid has base side 8 cm and slant height 5 cm. Find its vertical height.', b: 'h² + (b/2)² = l², so h² + 4² = 5² and h = 3 cm. Slant height lies along a face; vertical height is perpendicular to the base. Volume = 1/3 × 64 × 3 = 64 cm³.', src: CONS },
+    ]),
     ...sub('geometry', 'scale-drawings-4024', '4.3', [
       { n: 1, f: 'Bearings: the rules, and the back bearing of 296°', b: 'Measured clockwise from north, written with three figures (for example 040°).\nBack bearing: add 180° if under 180°, subtract 180° if 180° or more. 296° − 180° = 116°.' },
     ]),
@@ -247,6 +338,14 @@ export const DECK_CAMBRIDGE_O_LEVEL_MATHEMATICS: FlashcardDeck = {
       { n: 1, f: 'Similar and congruent shapes', b: 'Similar: same shape, with lengths in a constant ratio.\nCongruent: same shape and same size.', src: GEOM },
       { n: 2, f: 'Similar shapes: length scale factor k. What are the area and volume scale factors?', b: 'Area scale factor k². Volume scale factor k³.\nGiven areas or volumes, take the square root or cube root first to get k.' },
       { n: 3, f: 'Two similar cylinders have heights in the ratio 2 : 3. The smaller holds 40 cm³. Find the volume of the larger.', b: 'Volume factor (3/2)³ = 27/8.\n40 × 27/8 = 135 cm³.' },
+    ]),
+    ...sub('geometry', 'symmetry-4024', '4.5', [
+      { n: 1, f: 'How do you find the order of rotational symmetry from the smallest turn?', b: 'Order = 360° ÷ smallest turn. A smallest turn of 36° gives order 10, so a regular polygon with 10 sides. Order 1 means no rotational symmetry; order 0 does not exist.', src: SYM },
+      { n: 2, f: 'A regular polygon has n sides. How many lines of symmetry and what order does it have?', b: 'n lines of symmetry and rotational symmetry of order n. A regular octagon has 8 lines and order 8.', src: SYM },
+      { n: 3, f: 'State the lines of symmetry and the order of a rectangle, a rhombus, a parallelogram and a kite', b: 'Rectangle: 2 lines, order 2. Rhombus: 2 lines, order 2. Parallelogram: 0 lines, order 2. Kite: 1 line, order 1. Diagonals of a rectangle or parallelogram are not lines of symmetry.', src: SYM },
+      { n: 4, f: 'Triangle PQR has PQ = PR and angle QPR = 50°. Use symmetry to find angle PQR.', b: 'The triangle is isosceles, so the base angles are equal: (180° − 50°) ÷ 2 = 65°.', src: SYM },
+      { n: 5, f: 'How many planes of symmetry have a cuboid with three different edges, a cube and a cone?', b: 'Cuboid with all edges different: 3. Cube: 9. Cone: infinitely many. Count the planes of a prism from the cross-section, then add one halfway along the length.', src: SYM },
+      { n: 6, f: 'Reflect (4, 7) in the line x = 1, and rotate (3, 1) through 90° anticlockwise about the origin', b: 'Reflection in x = a: (x, y) → (2a − x, y), so (2 − 4, 7) = (−2, 7). Rotation 90° anticlockwise about the origin: (x, y) → (−y, x), so (−1, 3).', src: SYM },
     ]),
     ...sub('geometry', 'angles-4024', '4.6', [
       { n: 1, f: 'Sum of the interior angles of a polygon with n sides', b: '(n − 2) × 180°. The exterior angles of any polygon add up to 360°.' },
