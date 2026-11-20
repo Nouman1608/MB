@@ -102,6 +102,23 @@ Data example: 10 resistant bacteria dividing every 20 minutes for 4 hours (12 di
 
 **Explain why antibiotics should only be used when essential.** The more they are used, the more chances resistant bacteria have to survive and multiply, so antibiotics become less useful.
 
+## Vocabulary check
+
+| Word | Meaning |
+|---|---|
+| Mutation | A chance change in genetic material |
+| Selection | The survival of the individuals best suited to the conditions, which then reproduce |
+| Resistant | Not killed by the antibiotic |
+| Course | The full period of antibiotic doses prescribed |
+
+## How to revise this subtopic
+
+1. Cover the notes and write the key definitions from memory.
+2. Check each against the wording above, and fix any missing marking point.
+3. Do the self-test without looking at the answers, then mark it.
+4. Re-read the exam traps and note the ones you fell into.
+5. Try the practice questions under timed conditions.
+
 ## Exam traps
 
 - Antibiotics kill **bacteria**, not viruses.

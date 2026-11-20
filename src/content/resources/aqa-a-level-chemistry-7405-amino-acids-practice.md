@@ -73,6 +73,10 @@ These questions cover section **3.3.13.1 Amino acids** of the AQA AS and A-level
 
 **13.** A student claims that the zwitterion of an amino acid is uncharged. Explain why this is only partly correct. **[2]**
 
+**14.** 0.600 g of glycine (Mᵣ = 75.0) is dissolved in water and titrated with 0.250 mol dm⁻³ sodium hydroxide. Write the equation for the reaction of glycine with sodium hydroxide and calculate the volume of sodium hydroxide solution needed to neutralise all of the glycine. **[3]**
+
+**15.** Excess hydrochloric acid is added to a solution of glycine, and then excess sodium hydroxide solution is added to the same solution. Describe, by giving the structure of the main species present, what happens to the glycine at each stage. **[3]**
+
 ## Answers
 
 **1.** H₂N–CH(CH₃)–COOH drawn with the central carbon bonded to H, CH₃, NH₂ and COOH [1]; amino group (–NH₂) [1]; carboxyl group (–COOH) [1]. **[3]**
@@ -110,6 +114,10 @@ These questions cover section **3.3.13.1 Amino acids** of the AQA AS and A-level
 **13.** The zwitterion has no overall charge because the +1 and −1 charges cancel [1]; but it contains a positively charged group (–NH₃⁺) and a negatively charged group (–COO⁻), so it is not uncharged within the molecule [1]. **[2]**
 
 *Examiner insight:* Always write the charges on the groups, and do not put an overall charge on the zwitterion.
+
+**14.** H₂N–CH₂–COOH + NaOH → H₂N–CH₂–COO⁻Na⁺ + H₂O [1]; n(glycine) = 0.600 ÷ 75.0 = 0.00800 mol, so n(NaOH) = 0.00800 mol [1]; V = 0.00800 ÷ 0.250 = 0.0320 dm³ = **32.0 cm³** [1]. **[3]**
+
+**15.** Before any acid is added, glycine exists mostly as the zwitterion, ⁺H₃N–CH₂–COO⁻ [1]; with excess acid the –COO⁻ group takes up H⁺, giving the cation ⁺H₃N–CH₂–COOH [1]; with excess alkali, the cation first loses H⁺ and then –NH₃⁺ loses H⁺ as well, so the main species is the anion H₂N–CH₂–COO⁻ [1]. **[3]**
 
 ## Where marks are usually lost
 

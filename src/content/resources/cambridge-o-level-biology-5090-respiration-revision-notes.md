@@ -118,6 +118,15 @@ Marking points: **chemical reactions**; **all living cells** (including plants, 
 
 **State two uses of energy in a plant.** Any two of: active transport, growth, cell division, protein synthesis.
 
+## Respiration vocabulary check
+
+| Word | Use it for |
+|---|---|
+| Release | Energy from glucose in respiration |
+| Use | Energy in muscle contraction, active transport and so on |
+| Breathing | Moving air in and out of the lungs |
+| Denatured | Enzyme that has changed shape at high temperature |
+
 ## Exam traps
 
 - Respiration is not breathing.

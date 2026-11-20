@@ -147,6 +147,27 @@ Tarlton Retail has 400 staff, and labour turnover of 22% a year. Replacing a lea
 - **Train** staff in new skills.
 - **Celebrate early successes** and be patient.
 
+## Culture and strategy
+
+Culture should support the strategy.
+
+| Strategy | Culture that helps | Culture that hinders |
+|---|---|---|
+| Low cost | Role: standard procedures, careful control | Person: individuals pursue their own aims |
+| Innovation | Task: teams, autonomy, tolerance of failure | Role: strict rules, slow approval |
+| Rapid growth from a start-up | Power, then a more structured style as size rises | A strong culture that cannot cope with new staff |
+| International expansion | A core set of values with room for local variation | A culture too tied to one country |
+
+A common failure in mergers is that two cultures are left to clash. Leaders should decide which values to keep from each, communicate them clearly and reinforce them through recruitment and reward.
+
+## Signs that culture needs attention
+
+- High labour turnover or absenteeism
+- Low scores in staff surveys
+- Slow decisions and avoidance of responsibility
+- Complaints about customer service
+- Failure of earlier change programmes
+
 ## Exam technique
 
 - **Analyse:** identify the culture type from evidence (who decides, how formal the rules are, how teams form), then link it to its effect on performance or on a change.

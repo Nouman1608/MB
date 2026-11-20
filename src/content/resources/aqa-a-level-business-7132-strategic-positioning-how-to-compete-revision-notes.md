@@ -83,6 +83,23 @@ Imitation; technological change; changing customer tastes; complacency; new entr
 
 **Lasting advantages** are hard to copy: patents, brands built over time, core competences, economies of scale.
 
+## Model analysis paragraph
+
+"Aldric & Rowe follows a differentiation strategy. It charges £70 against a cost of £55 and earns a margin of 21.4%, compared with 15.0% for the low-cost firm. Its strength is that customers pay for the brand and design, which protects it from price wars. The risk is that costs rise or customers trade down in a recession; a 10% rise in cost cuts annual profit from £600,000 to £380,000. The strategy is sound only while customers still value the difference enough to pay the premium."
+
+## Choosing a strategy: questions to ask
+
+1. What do customers value most: price, quality or fit to their needs?
+2. Does the firm have the scale and processes to be the cheapest?
+3. Does it have the brand, design or service to command a premium?
+4. Is there a niche that large rivals ignore?
+5. How easily can rivals copy the advantage?
+
+## Command words
+
+- **Analyse:** identify the strategy from evidence, explain the effect on profit and risk.
+- **Evaluate:** weigh strengths against risks, link to the firm's resources, judge sustainability.
+
 ## Exam traps
 
 - Low cost is not the same as low price.

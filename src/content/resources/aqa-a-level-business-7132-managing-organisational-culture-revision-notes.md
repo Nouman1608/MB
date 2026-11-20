@@ -103,6 +103,15 @@ Quote the evidence, name the culture, then say what it means for performance or 
 3. Link to the result for the business (cost, quality, innovation, staff turnover).
 4. Say what the effect depends on, and whether the culture should change.
 
+## Model analysis paragraph
+
+"The firm has a role culture: staff follow detailed procedures and decisions go up the hierarchy. This gives consistency and compliance, which suits regulated work. But it slows decisions and discourages initiative, which conflicts with a strategy that depends on innovation. Changing culture would take years and the programme could cost £360,000. It is worth the cost only if leaders change their own behaviour and the savings from lower labour turnover are realised."
+
+## Command words
+
+- **Analyse:** identify the culture from evidence, then link it to behaviour and results.
+- **Evaluate:** judge the fit of culture and strategy, and the cost and time of changing it.
+
 ## Exam traps
 
 - No culture is best in all conditions.

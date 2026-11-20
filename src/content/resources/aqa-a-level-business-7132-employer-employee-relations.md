@@ -97,6 +97,10 @@ The wider [human resource management study guide](/resources/aqa-a-level-busines
 
 **Resolving disputes** usually follows stages: informal discussion, formal negotiation, then conciliation (a neutral person helps both sides agree), mediation or arbitration (a neutral person proposes or decides a settlement), and, as a last resort, tribunal or industrial action.
 
+## Types of dispute and how they develop
+
+Disputes usually begin over pay, working hours, job security, changes to working methods or perceived unfair treatment. Early signs include rising grievances, absence, falling output and informal complaints. If these are ignored, they may turn into formal claims and then industrial action. Employers can reduce the chance of escalation by listening early, explaining decisions, acting fairly and offering a clear route for complaints. Unions, too, often prefer a negotiated settlement, because strikes cost members pay. The best-managed relations resolve most disagreements before they become disputes.
+
 ## The value of good employer-employee relations
 
 - **Higher motivation and productivity**, because staff feel trusted and valued.

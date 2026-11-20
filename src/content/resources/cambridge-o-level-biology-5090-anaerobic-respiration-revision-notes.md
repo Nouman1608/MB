@@ -98,6 +98,16 @@ Training improves oxygen delivery (stronger heart, more capillaries), so less la
 
 The time this takes depends on how much lactic acid was made and on the person's fitness.
 
+## Aerobic and anaerobic: key numbers
+
+| Fact | Detail |
+|---|---|
+| Glucose breakdown | Aerobic: complete. Anaerobic: partial |
+| Oxygen debt | Extra oxygen needed after exercise to break down lactic acid |
+| Where lactic acid is broken down | The liver |
+| Evidence of anaerobic respiration in yeast | Limewater turns cloudy without oxygen |
+| Energy comparison | Aerobic releases a relatively large amount; anaerobic a relatively small amount |
+
 ## Short model answers
 
 **Explain why lactic acid builds up in a sprinter's muscles.** The muscles need energy faster than oxygen can be supplied, so they respire anaerobically. This makes lactic acid faster than it is removed.
@@ -107,6 +117,14 @@ The time this takes depends on how much lactic acid was made and on the person's
 **State why the heart rate stays high after exercise.** To carry lactic acid in the blood from the muscles to the liver.
 
 **Explain why bread rises.** Yeast respires anaerobically and releases carbon dioxide, which forms bubbles in the dough.
+
+## How to revise this subtopic
+
+1. Cover the notes and write the key definitions from memory.
+2. Check each against the wording above, and fix any missing marking point.
+3. Do the self-test without looking at the answers, then mark it.
+4. Re-read the exam traps and note the ones you fell into.
+5. Try the practice questions under timed conditions.
 
 ## Exam traps
 

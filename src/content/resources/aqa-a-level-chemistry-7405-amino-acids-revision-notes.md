@@ -101,6 +101,31 @@ Glycine examples: ⁺H₃N–CH₂–COOH; ⁺H₃N–CH₂–COO⁻; H₂N–CH
 3. Do not put a charge on the R group.
 4. Use –NH₃⁺ and –COO⁻ for the zwitterion, not –NH₂ and –COOH.
 
+## Worked examples to copy
+
+**Example 1.** Draw the structure of serine in alkaline solution.
+
+1. Start with serine: H₂N–CH(CH₂OH)–COOH.
+2. In alkali, the acidic –COOH loses H⁺ to hydroxide: –COO⁻.
+3. The –NH₂ group stays as –NH₂.
+4. Answer: H₂N–CH(CH₂OH)–COO⁻, overall charge 1−.
+
+**Example 2.** Explain why glycine melts at a much higher temperature than a molecule of similar size such as propylamine.
+
+1. Glycine is a zwitterion in the solid state.
+2. The lattice is held by ionic attractions between ⁺H₃N– and –COO⁻ groups.
+3. A lot of energy is needed to overcome these strong attractions.
+4. Propylamine has only hydrogen bonds and London forces between its molecules.
+
+## Comparing the three forms of alanine
+
+| Feature | Cation | Zwitterion | Anion |
+|---|---|---|---|
+| Amino group | –NH₃⁺ | –NH₃⁺ | –NH₂ |
+| Carboxyl group | –COOH | –COO⁻ | –COO⁻ |
+| Overall charge | 1+ | 0 | 1− |
+| Present in | Acid | Neutral solution, solid | Alkali |
+
 ## Quick calculations
 
 - Amino acid reacts 1 : 1 with HCl and 1 : 1 with NaOH (one group each).

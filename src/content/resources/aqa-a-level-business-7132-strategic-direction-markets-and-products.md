@@ -122,6 +122,27 @@ A rise from 12% to 15% of a £50m market is £6m to £7.5m, which is the £1.5m 
 - It does not account for competitors' reactions.
 - Risk rankings are generalisations. A well-researched diversification may be less risky than a poorly planned market development.
 
+## Applying the factors to a decision
+
+When choosing direction, sort the information into three questions.
+
+1. **Where is the market going?** Is demand growing, flat or falling? What are the trends in tastes, technology and regulation? A shrinking market makes penetration harder and increases pressure to look elsewhere.
+2. **What can the firm do well?** Which core competences does it have, and do they travel to the new product or market? A firm with strong design skills can move into related products; a firm with strong distribution can enter new regions.
+3. **What can it afford to risk?** How much cash can it invest, and what happens if the project fails? A business with thin margins cannot afford a failed diversification.
+
+The answers point to an option, and a final recommendation should state the deciding factor.
+
+## Quantitative checks
+
+| Measure | Use |
+|---|---|
+| Market share (sales ÷ market size) | Shows the room for penetration |
+| Expected revenue (probability × revenue) | Compares options with different risks |
+| Payback or NPV of the investment | Tests affordability |
+| Break-even output | Shows how much must be sold for the option to pay |
+
+These figures guide, but do not replace, judgement about fit with the firm's mission and capabilities.
+
 ## Exam technique
 
 - **Analyse:** explain why the option suits the case, using evidence on market growth, competitors, resources.

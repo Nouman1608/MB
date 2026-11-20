@@ -115,6 +115,26 @@ Breast milk gives the baby antibodies against the pathogens that the mother has 
 
 HIV infects and destroys **lymphocytes**. Over time, the number of lymphocytes **decreases**, and the body has a **reduced ability to produce antibodies**. This **weakens the immune system**, so the person is more likely to get infections that a healthy immune system would deal with. When the immune system has become very weak, the person is said to have AIDS (see subtopic 12.1).
 
+## Vaccination, infection and antibiotics: avoiding confusion
+
+Students often mix up three ideas that all protect people from disease. A clear table helps.
+
+| | Vaccination | Antibiotic treatment | Passive immunity |
+|---|---|---|---|
+| Purpose | Prevent a disease | Cure a bacterial infection | Give short-term protection |
+| What is given | Weakened pathogen or antigens | A drug that kills bacteria | Antibodies from another person |
+| Works on viruses? | Yes (vaccines exist for many) | No | Yes, if the antibodies are specific |
+| Memory cells made? | Yes | No | No |
+| Length of effect | Long term | Until the drug is used up | Weeks or months |
+
+### Why some diseases need repeated vaccination
+
+Some pathogens, such as the influenza virus, change their antigens often. Antibodies and memory cells that fit last year's antigens may not fit this year's. New vaccines containing the current antigens must be made. This is a good example of the specific shape of antigens, because a small change in the shape can stop an antibody from fitting.
+
+### Why vaccines are given before infection
+
+Vaccination works by preparing the body in advance. After an infection has begun, it is too late for the first, slow response to prevent illness. A vaccinated person has memory cells ready, so the second-exposure type of response happens at the first real infection.
+
 ## Common mistakes
 
 - Saying that antibodies are produced by phagocytes. Lymphocytes make antibodies.

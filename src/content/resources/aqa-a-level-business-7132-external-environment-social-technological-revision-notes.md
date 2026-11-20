@@ -101,6 +101,15 @@ Customers (boycotts); employees; pressure groups and social media; investors; go
 
 Machine costs £120,000, saves 3 workers at £30,000 each and costs £18,000 a year to run. Net saving = £90,000 − £18,000 = **£72,000**; payback = £120,000 ÷ £72,000 = **1.67 years**.
 
+## Model analysis paragraph
+
+"An ageing population is an opportunity for the pharmacy chain, because over-65s use more prescriptions. If the over-65 group in the catchment rises by 22%, demand for prescription services should rise. The chain may need longer opening hours and home delivery, and staff trained to help older customers. However, the chain also depends on young recruits, and an ageing population means fewer of them, so staffing may become harder."
+
+## Command words
+
+- **Analyse:** say what the change is, who it affects, and what the business should do.
+- **Evaluate (CSR):** use Carroll's pyramid or shareholder against stakeholder views to structure the answer.
+
 ## Exam traps
 
 - CSR does not always raise or always lower profit; it depends.

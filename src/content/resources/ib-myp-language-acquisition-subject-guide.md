@@ -73,13 +73,12 @@ starting proficiency.
 
 Where schools opt into MYP eAssessment, students are assessed at one of
 three overall proficiency levels -- emergent, capable or proficient --
-through an on-screen exam covering listening, reading and writing (each
-worth 24 marks in the eAssessment blueprint -- a separate scale from the
-8-level, 32-mark-total classroom assessment above -- against criteria A, B
-and D respectively), plus a separate,
+through an on-screen exam covering listening, reading and writing (three tasks, 96 marks in all, worth 32 marks each for criteria A, B
+and D in the eAssessment blueprint -- a separate scale from the
+8-level, 32-mark-total classroom assessment above), plus a separate,
 internally assessed speaking exam against criterion C, which is externally
 moderated by the IB rather than marked solely by the student's own teacher.
-Which of the three proficiency levels a student sits eAssessment at is agreed with their
+The speaking exam is worth 32 marks and lasts 15 to 17 minutes including preparation time (marks and timings from the Middle Years Programme Language acquisition guide, for use from September 2020/January 2021). Which of the three proficiency levels a student sits eAssessment at is agreed with their
 teacher in advance, based on their working proficiency phase, rather than
 being fixed by year group -- this keeps the external assessment aligned
 with the same phase-based model used in ordinary classroom teaching.

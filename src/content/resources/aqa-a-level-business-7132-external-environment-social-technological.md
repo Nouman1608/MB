@@ -157,6 +157,21 @@ Hartley Packaging buys a machine for £240,000 that replaces 6 workers, each cos
 - It can make existing assets obsolete.
 - Rapid change makes forecasting difficult, so flexibility matters.
 
+## Linking social and technological change
+
+The two often work together. Social change creates demand, and technology makes it possible to meet it. Customers who want convenience (social) use apps and delivery services (technological). A business that sees only one half may misjudge the opportunity.
+
+| Social change | Technological response | Decision for the business |
+|---|---|---|
+| Time-pressed households | Online ordering, apps, delivery tracking | Invest in e-commerce and logistics |
+| Ageing population | Telehealth, voice assistants | Design simple, accessible products |
+| Demand for ethical products | Supply chain tracking | Prove sourcing claims |
+| Home and flexible working | Collaboration software | Change office space and HR policies |
+
+## Evaluating the impact
+
+Judge the impact by asking how **large** the change is for this business, how **fast** it is happening, whether it affects **demand** or **costs** or both, and whether the business has the **flexibility** to respond. A small business may adapt faster than a large one with fixed assets, while a large business may have the resources to invest.
+
 ## Exam technique
 
 - **Analyse:** pick one change, say how it affects customers, costs or staff, and then how that affects a decision.

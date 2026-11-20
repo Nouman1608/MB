@@ -107,6 +107,25 @@ Fairlight Stores makes and sells garden furniture. Data for two years:
 - Employee costs fell as a share of turnover (from 20% to 18.2%), because sales revenue grew faster (19%) than employee costs (8.3%). This could reflect higher selling prices as well as efficiency.
 - Overall, Fairlight's HR performance improved, but the business has not yet turned higher productivity into lower labour cost per unit. If competitors cut costs, it could be vulnerable.
 
+## A second example: comparing two stores
+
+A retailer compares two stores for one year.
+
+| | Store A | Store B |
+|---|---|---|
+| Average employees | 40 | 25 |
+| Leavers | 10 | 3 |
+| Items sold (output) | 96,000 | 50,000 |
+| Employee costs | £960,000 | £700,000 |
+| Revenue | £4,800,000 | £2,500,000 |
+
+- Labour turnover: A = 10 ÷ 40 = **25%**; B = 3 ÷ 25 = **12%**.
+- Productivity: A = 96,000 ÷ 40 = **2,400**; B = 50,000 ÷ 25 = **2,000** items per employee.
+- Employee costs as a percentage of revenue: A = **20%**; B = **28%**.
+- Labour cost per unit: A = £960,000 ÷ 96,000 = **£10**; B = £700,000 ÷ 50,000 = **£14**.
+
+Store B keeps its staff much better, but it sells fewer items per employee and spends 28p of every pound of revenue on staff, against 20p at Store A. A manager should ask why. Perhaps Store B is too lightly used for its staffing, or its location draws less trade, or Store A's higher turnover hides a harder working culture that may not last. The sensible response is to investigate (for example, with staff surveys and exit interviews at A and a staffing review at B), not to copy one store's approach without evidence.
+
 ## Using the data
 
 | Question | Data to use | Possible decision |

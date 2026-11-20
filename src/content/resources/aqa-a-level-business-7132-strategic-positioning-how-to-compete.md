@@ -145,6 +145,27 @@ A **competitive advantage** is something that lets a business consistently beat 
 
 A lasting advantage is based on things that are hard to copy: patents, strong brands built over time, unique skills (core competences) and economies of scale.
 
+## Positioning and the customer
+
+Positioning begins with the customer. A useful way to compare options is to map price against perceived benefit.
+
+| Position | Price | Benefit | Typical customer |
+|---|---|---|---|
+| Low cost | Lowest in the market | Adequate | Price-sensitive |
+| Differentiation | Premium | Unique and highly valued | Quality- or status-conscious |
+| Focus | Depends on the niche | Tailored to the niche | A narrow group with particular needs |
+| Middle | Average | Average | No clear group |
+
+Firms in the middle are vulnerable from both sides: low-cost rivals take price-sensitive customers and differentiators take those who value quality.
+
+## Combining strategies
+
+Some businesses pursue both low cost and differentiation, for example by using scale to deliver a good-quality product cheaply. This can work, but it is hard to do and rivals can imitate parts of it. Porter warned that trying to do everything weakens the message to customers and strains the organisation. In an examination, judge whether a combined strategy is realistic for the firm's resources.
+
+## Keeping the advantage
+
+Ask four questions of any advantage: is it valuable to customers, rare, hard to copy, and supported by the organisation (people, processes, culture)? An advantage that passes all four is likely to last longer. One that passes only the first is likely to be copied.
+
 ## Exam technique
 
 - **Identify** the strategy from evidence in the case: price level, cost structure, product features, the size of the target group.

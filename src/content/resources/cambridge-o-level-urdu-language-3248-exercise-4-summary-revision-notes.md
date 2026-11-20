@@ -108,6 +108,33 @@ Keep names, numbers and technical terms as they are.
 | Opinion | Remove it |
 | No link between problem and solution | Add *تاہم* or *اس کے حل کے لیے* |
 
+## Planning frame
+
+Use a three-line plan in the margin before you write.
+
+| Line | Content |
+|---|---|
+| Opening | one sentence that names the topic and the aspect: *گلی کی لائبریری کو شروع میں کئی مشکلات پیش آئیں۔* |
+| Middle | the points in order, each in one clause, joined by connectives |
+| Close | the last point or result; no conclusion of your own |
+
+## Mini example
+
+Text points: *کچرا سڑک پر پھیلتا تھا؛ بلدیہ نے بڑے ڈبے رکھے؛ لوگوں نے ڈبے استعمال کیے؛ محلہ صاف ہو گیا۔*
+
+Summary frame: *محلے میں کچرا سڑک پر پھیلتا تھا۔ بلدیہ نے بڑے ڈبے رکھوائے، جنھیں لوگوں نے استعمال کیا، اس لیے محلہ صاف ہو گیا۔*
+
+Notice that two points are joined with *جنھیں* and the result is introduced with *اس لیے*. The summary has no opinion and no extra detail.
+
+## Final check list
+
+- Does the first sentence name the aspect?
+- Does every sentence give a point from the text?
+- Are two or more points joined with a linking word?
+- Is any sentence a copy of the text? Change its verb or structure.
+- Is the count 100 or fewer?
+- Does each sentence end with *۔*?
+
 ## Key terms
 
 | Urdu | English |

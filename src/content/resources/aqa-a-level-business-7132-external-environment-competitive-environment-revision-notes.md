@@ -103,6 +103,15 @@ Revenue lost = £5m × 30% × 4% = **£60,000**. Profit falls to £440,000, a fa
 | Specialist drug maker with a patent | Entry threat is low | The patent blocks entry |
 | Local bus company | Substitutes | Cars, bikes, taxis and remote working |
 
+## Model analysis paragraph
+
+"Buyer power is strong for this supplier because one supermarket takes 40% of its output. The supermarket can threaten to switch to own-label products, so it is able to demand a 5% price cut. Since costs do not fall, the whole cut comes out of profit, reducing profit by 20%. The supplier could reduce this power by widening its customer base. This matters most if the supermarket is likely to demand further cuts."
+
+## Command words
+
+- **Analyse:** pick the force, give evidence from the case, explain the effect on price, cost or profit.
+- **Evaluate:** rank the forces and justify the ranking.
+
 ## Exam traps
 
 - Distinguish **buyers** (customers) from **suppliers** (providers of inputs).

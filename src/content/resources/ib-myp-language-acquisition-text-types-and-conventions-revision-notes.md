@@ -36,7 +36,7 @@ All examples below are original and in English. Apply the same conventions in yo
 - Criterion D: Writing asks you to use language suitable to the audience and purpose, and to apply your understanding of language, form, mode and medium.
 - The brief's examples of registers include the language of home and of the classroom, formal and informal exchanges, and social and academic language.
 - Word choice, conventions and idiom are the brief's examples of related concepts.
-- In the on-screen examination, "Writing in response to multimodal texts" is Criterion D and carries 24 marks. Each criterion has eight achievement levels (1–8) in four bands.
+- In the on-screen examination, "Writing in response to multimodal texts" is Criterion D and carries 32 marks (Task 3 of the on-screen examination, which is worth 96 marks in all). Each criterion has eight achievement levels (1–8) in four bands.
 - The brief does **not** list text types, task wording or word limits. Your teacher will share the task-specific clarifications.
 
 ## Key definitions

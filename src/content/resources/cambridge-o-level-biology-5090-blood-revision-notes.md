@@ -101,6 +101,15 @@ Always give a feature you can see as the reason for naming a cell.
 | 12 Disease and immunity | Lymphocytes and phagocytes defend against pathogens; HIV reduces lymphocyte numbers |
 | 13 Excretion | Plasma carries urea to the kidneys |
 
+## Quick comparison of the cell types
+
+| | Red blood cell | Phagocyte | Lymphocyte | Platelet |
+|---|---|---|---|---|
+| Nucleus | No | Yes, lobed | Yes, large and round | No |
+| Number | Most numerous | Fewer | Fewer | Many fragments |
+| Function | Oxygen transport | Engulfs pathogens | Makes antibodies | Clotting |
+| Colour on stained slide | Pink-red | Stained nucleus | Stained nucleus | Small purple fragments |
+
 ## Short model answers
 
 **State the function of red blood cells.** Transport of oxygen.
@@ -110,6 +119,14 @@ Always give a feature you can see as the reason for naming a cell.
 **Explain how platelets prevent infection.** They help clotting, in which fibrinogen is converted into fibrin. The clot seals the wound, so bacteria cannot enter.
 
 **Describe how oxygen reaches a body cell from the blood.** It diffuses from the red blood cells, through the capillary wall into the tissue fluid, and then into the cell.
+
+## How to revise this subtopic
+
+1. Cover the notes and write the key definitions from memory.
+2. Check each against the wording above, and fix any missing marking point.
+3. Do the self-test without looking at the answers, then mark it.
+4. Re-read the exam traps and note the ones you fell into.
+5. Try the practice questions under timed conditions.
 
 ## Exam traps
 

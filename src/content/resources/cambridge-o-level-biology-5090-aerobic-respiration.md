@@ -144,6 +144,10 @@ Cells cannot store much oxygen, so a continuous supply is needed. The body suppl
 - **Topic 11.4**: red blood cells carry oxygen to the respiring cells.
 - **Topic 13**: carbon dioxide from respiration is excreted through the lungs.
 
+## Summary for revision
+
+Learn aerobic respiration as three linked facts. First, the definition: the release of a relatively large amount of energy by the breakdown of glucose in the presence of oxygen. Second, the equation: C6H12O6 + 6O2 → 6CO2 + 6H2O. Third, the place: mainly the mitochondria, which are numerous in cells that need a lot of energy. If you can write all three without notes, and explain why muscle cells have many mitochondria, you have the core of this subtopic.
+
 ## Common mistakes
 
 - Defining aerobic respiration as breathing.

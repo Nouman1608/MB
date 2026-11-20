@@ -102,6 +102,15 @@ Skills gaps; old systems that do not connect; resistance from staff; poor integr
 - Automation raises questions about job losses; responsible firms retrain and redeploy.
 - Algorithms can make unfair decisions if data is biased.
 
+## Model analysis paragraph
+
+"Automation could cut the warehouse's costs. If nine robots replace workers costing £225,000 a year and have running costs of £45,000, the net saving is £180,000 a year, and a £450,000 investment pays back in 2.5 years. This lowers unit costs and supports a low-cost strategy. But redundancies could harm morale, and a breakdown could stop dispatch. The decision is sound only if demand is stable enough to keep the robots busy and staff are retrained."
+
+## Command words
+
+- **Analyse:** name the form of technology and the function it affects.
+- **Evaluate:** weigh cost, risk and people against the gains, and say what the decision depends on.
+
 ## Exam traps
 
 - Big data is the data; data mining is the analysis.

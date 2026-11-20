@@ -118,6 +118,8 @@ D: protease
 
 **14.** Explain why the bread in a sandwich tastes slightly sweet after it has been chewed for a long time. **[3]**
 
+**15.** Name the enzymes that act on starch, and state the end-product of each stage. **[2]**
+
 ---
 
 ## Answers
@@ -171,6 +173,8 @@ D: protease
 **13.** Less bile would be stored and released [1], so less fat would be emulsified, which gives a smaller surface area [1]. Lipase would digest the fat more slowly [1]. **[3]**
 
 **14.** Saliva contains amylase [1], which digests starch in the bread to maltose [1], a sugar, which tastes sweet [1]. **[3]**
+
+**15.** Amylase breaks starch down to maltose [1], and maltase breaks maltose down to glucose [1]. **[2]**
 
 ---
 

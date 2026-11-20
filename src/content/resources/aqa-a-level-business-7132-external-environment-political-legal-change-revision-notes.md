@@ -86,6 +86,15 @@ Condensed notes on section **3.7.4 Analysing the external environment to assess 
 
 A shop pays 8 staff the minimum wage for 20 hours a week. The minimum rises by £0.50 an hour. Extra annual cost = £0.50 × 20 × 52 × 8 = **£4,160**. If annual operating profit is £20,000, profit falls 20.8% unless prices rise or costs are cut. A change that looks small can dominate a thin margin.
 
+## Model analysis paragraph
+
+"A rise in the minimum wage increases labour costs for this care business, because most of its staff are paid near the minimum and differentials must be kept. The extra £87,000 a year is more than half of its operating profit. The business can raise fees, but customers may not accept large rises. Because competitors face the same law, a price rise is easier to justify. The effect is therefore serious for profit but less serious for competitiveness."
+
+## Command words
+
+- **Analyse:** state the law or policy, its effect on cost or revenue, and the decision it changes.
+- **Evaluate:** use the six questions (scale, timing, certainty, who, flexibility, opportunity).
+
 ## Exam traps
 
 - Say how the change affects costs, revenues or choices, not only what the law is.

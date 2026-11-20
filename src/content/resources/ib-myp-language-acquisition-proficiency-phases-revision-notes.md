@@ -27,7 +27,7 @@ featured: false
 ---
 
 The [full syllabus guide](/resources/ib-myp-language-acquisition-syllabus-guide/) confirms all four
-assessment criteria carry equal weight in the eAssessment blueprint (24 marks each -- not to be
+assessment criteria carry equal weight in the eAssessment blueprint (32 marks each -- not to be
 confused with the separate 8-level, 32-mark-total classroom scale, covered below). These notes cover
 the **proficiency levels and criteria structure** specifically, alongside the
 [assessment revision notes](/resources/ib-myp-language-acquisition-assessment-revision-notes/) and
@@ -65,27 +65,28 @@ Classroom assessment scores each criterion on eight achievement levels (1-8), so
 classroom total across all four criteria is out of 32. Those eight levels form the four descriptor
 bands; a **level of 0** is also awarded for work that does not reach any band, so each criterion runs
 0-8 and the classroom total 0-32. The eAssessment blueprint is a separate
-scale: it allocates 24 raw marks to each criterion (with the actual distribution permitted to vary
-by up to three marks), so the eAssessment total across all four criteria is out of 96, not 128.
-Every mark figure below is the eAssessment blueprint figure, not the classroom one.
+scale: it allocates 32 marks to each criterion (with the actual distribution permitted to vary
+by up to three marks), so the on-screen paper (criteria A, B and D) is out of 96 marks and the speaking
+examination (criterion C) is out of 32. Every mark figure below is the eAssessment blueprint figure, not
+the classroom one. The eAssessment marks on this page come from the International Baccalaureate Organization, Middle Years Programme Language acquisition guide, for use from September 2020/January 2021 ("MYP eAssessment" and "Language acquisition examination blueprint", pages 51 and 52).
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-proficiency-phases--02-two-marking-scales.webp" width="900" height="750" alt="Each criterion, A listening, B reading, C speaking and D writing, is scored 0 to 8 for classroom assessment, giving a total of 0 to 32. Separately, the eAssessment blueprint gives each criterion 24 raw marks: A, B and D in the on-screen paper and C in a separate, internally marked, IB-moderated speaking examination." loading="lazy">
-  <figcaption>Levels 0–8 in class; 24 raw marks each in eAssessment. Do not mix the scales.</figcaption>
+  <img src="/images/learning/myp-language-acquisition/myp-la-eassessment-two-marking-scales.svg" width="900" height="750" alt="Each criterion, A listening, B reading, C speaking and D writing, is scored 0 to 8 for classroom assessment, giving a total of 0 to 32. Separately, the eAssessment blueprint gives each criterion 32 marks: A and B in Tasks 1 and 2 and D in Task 3 of the on-screen paper, which is worth 96 marks, and C in a separate, internally marked, IB-moderated speaking examination." loading="lazy">
+  <figcaption>Levels 0–8 in class (total 0–32); 32 marks per criterion in eAssessment (96 on screen). Do not mix the scales.</figcaption>
 </figure>
 
 ## The four criteria are independently weighted
 
-- **Criterion A: Listening** (24 marks) — interpreting and constructing meaning from spoken multimodal
+- **Criterion A: Listening** (32 marks) — interpreting and constructing meaning from spoken multimodal
   text.
-- **Criterion B: Reading** (24 marks) — constructing meaning from written, spatial and visual text.
-- **Criterion C: Speaking** (24 marks) — interacting on topics of personal, local and global interest.
-- **Criterion D: Writing** (24 marks) — using language suitable to audience and purpose across
+- **Criterion B: Reading** (32 marks) — constructing meaning from written, spatial and visual text.
+- **Criterion C: Speaking** (32 marks) — interacting on topics of personal, local and global interest.
+- **Criterion D: Writing** (32 marks) — using language suitable to audience and purpose across
   registers.
 
 Because listening, reading and writing are assessed together in one on-screen paper while speaking is
 assessed separately as an internally-marked, IB-moderated interactive task, strong written performance
-does not substitute for oral preparation — all four are independently weighted at an equal 24 marks
+does not substitute for oral preparation — all four are independently weighted at an equal 32 marks
 each in the eAssessment blueprint.
 
 ## Worked example: matching preparation to level
@@ -124,7 +125,7 @@ conversation under time pressure, not prepared monologues — rather than assumi
 revision automatically prepares you for it too.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-proficiency-phases--04-revision-balance.webp" width="900" height="640" alt="Listening, reading and writing share one on-screen paper and can be revised together; speaking is a separate strand. Each is worth 24 marks. Speaking needs its own routine of spontaneous, interactive conversation under time pressure, and over-investing in writing can hide a gap in speaking." loading="lazy">
+  <img src="/images/learning/myp-language-acquisition/myp-la-eassessment-revision-balance.svg" width="900" height="640" alt="Listening, reading and writing share one on-screen paper worth 96 marks and can be revised together; speaking is a separate strand. Each criterion is worth 32 marks. Speaking needs its own routine of spontaneous, interactive conversation under time pressure, and over-investing in writing can hide a gap in speaking." loading="lazy">
   <figcaption>Equal weights mean no single skill should dominate revision.</figcaption>
 </figure>
 
@@ -185,7 +186,7 @@ subject's proficiency-level structure applies to your own course.
 
 **Answers:** 1. Emergent, capable, proficient. 2. Because the specific level of vocabulary, structure
 and fluency examined depends on assessed proficiency level, not simply which year of the programme a
-student is in. 3. 24 marks each in the eAssessment blueprint (this is a separate scale from the 8-level, 32-mark-total
+student is in. 3. 32 marks each in the eAssessment blueprint (this is a separate scale from the 8-level, 32-mark-total
 classroom assessment), and yes, all four are weighted equally. 4. Speaking (Criterion C) — it
 is internally assessed by the student's own teacher and externally moderated by the IB, separate from
 the combined listening/reading/writing on-screen paper. 5. Practising at too low a level underprepares
@@ -197,7 +198,7 @@ broader levels (emergent, capable, proficient) used only for reporting eAssessme
 ## Frequently asked questions
 
 **How many marks is each MYP Language Acquisition criterion worth?**
-In the eAssessment blueprint, each of the four criteria (listening, reading, speaking, writing) carries 24 marks and they are weighted equally. In classroom assessment each criterion runs from 0 to 8, a separate scale with a total of 0–32.
+In the eAssessment blueprint, each of the four criteria (listening, reading, speaking, writing) carries 32 marks and they are weighted equally. In classroom assessment each criterion runs from 0 to 8, a separate scale with a total of 0–32.
 
 **Should I practise at a higher MYP Language Acquisition level than my own?**
 Not usually. Practising above your confirmed level wastes revision time on complexity beyond what is examined and risks errors, while practising below it underprepares you; aim at your own level's expectations.

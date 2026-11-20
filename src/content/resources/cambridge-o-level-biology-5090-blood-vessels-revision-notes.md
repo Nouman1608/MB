@@ -105,6 +105,10 @@ Recognising vessels on a section:
 
 **State which vessel brings blood from the intestine to the liver.** The hepatic portal vein.
 
+## Quick picture of the circuit
+
+Heart (left ventricle) → aorta → arteries → capillaries → veins → vena cava → heart (right atrium) → right ventricle → pulmonary artery → lung capillaries → pulmonary vein → left atrium.
+
 ## Exam traps
 
 - Artery and vein describe the **direction**, not the oxygen content.

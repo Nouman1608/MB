@@ -110,6 +110,15 @@ Critical path: A, D, E (3 + 5 + 2 = 10).
 | Clear dependencies; easy to re-plan | Large networks complex |
 | Basis for monitoring | Ignores motivation and people issues |
 
+## Model analysis paragraph
+
+"The critical path is B, D, F, I, so a delay to shopfitting delays the opening of the store. Recruiting the manager has two weeks of float, so it can slip without affecting the opening. The manager should therefore focus resources on the critical activities and keep a close eye on any that use up their float. The network is only as reliable as the estimates, so the plan should be reviewed regularly."
+
+## Command words
+
+- **Calculate:** show the forward and backward pass, state the float and the critical path.
+- **Evaluate:** judge the usefulness of leadership, communication, structure and network analysis for the case.
+
 ## Exam traps
 
 - The critical path is the **longest** path.

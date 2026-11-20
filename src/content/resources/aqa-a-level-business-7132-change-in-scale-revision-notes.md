@@ -115,6 +115,15 @@ Fixed £200,000, variable £5 a unit. At 40,000 units: total = £400,000; averag
 
 Objectives; finance and cash flow; risk and speed; economies and diseconomies; people and culture; market and rivals; time frame.
 
+## Model analysis paragraph
+
+"Growth by takeover may give the firm quick access to a new market, but it carries risks. The business must find the money, often by borrowing, which raises gearing. It must also combine two cultures. If the two firms' administration costs can be merged, synergy of, say, £150,000 a year may arise. Against this, culture clashes may cause staff to leave, so the expected gains may not appear. The decision depends on how closely the two businesses fit and whether the firm has the management skills to integrate them."
+
+## Command words
+
+- **Assess a change in scale:** consider objectives, finance, risk, speed and the effect on each function.
+- **Calculate:** show unit cost workings; state units.
+
 ## Exam traps
 
 - Growth is not always good. Check unit costs and cash.

@@ -140,6 +140,28 @@ Figures are in £000.
 
 So ratios are a starting point. The strongest assessments combine them with non-financial data (see the guide to overall performance) and with knowledge of the business's plans.
 
+## Linking ratios to strategic decisions
+
+Ratio analysis is not an end in itself. It shows what the business can afford to do.
+
+- **Low gearing and a healthy current ratio** suggest capacity to borrow for expansion or a takeover.
+- **Weak ROCE** suggests the business should improve how it uses existing assets before investing more.
+- **Poor liquidity with slow receivables** may point to a need for tighter credit control before growth, to avoid overtrading.
+- **Rising gearing with falling profit** warns that further borrowing is risky.
+
+When a case asks whether the business should pursue a strategy, use the ratios to judge its financial strength to carry it out.
+
+## Improving the ratios
+
+| To improve | Possible actions | Possible side effect |
+|---|---|---|
+| ROCE | Raise operating profit (prices, cost cuts); use less capital | Lost customers; under-investment |
+| Current ratio | Raise cash or cut payables; reduce short-term debt | Idle cash; strained supplier relations |
+| Gearing | Repay debt; issue shares | Slower growth; diluted ownership |
+| Receivables days | Stricter credit control | Lost sales |
+| Payables days | Negotiate longer terms | Supplier anger |
+| Inventory turnover | Just-in-time ordering; sell slow lines | Stock-outs |
+
 ## Exam technique
 
 - **Calculate:** write the formula, substitute, give the answer with units (%, days, times, or a ratio) and the rounding asked for.

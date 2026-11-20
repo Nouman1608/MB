@@ -118,6 +118,15 @@ Waves of contraction of the circular and longitudinal muscles squeeze food along
 
 **Describe peristalsis.** Waves of contraction of the circular and longitudinal muscles in the gut wall push the food along.
 
+## Where each enzyme is made
+
+| Enzyme | Made in |
+|---|---|
+| Salivary amylase | Salivary glands |
+| Pepsin (protease) | Stomach wall |
+| Pancreatic amylase, protease (trypsin) and lipase | Pancreas |
+| Maltase | Lining of the small intestine |
+
 ## Exam traps
 
 - Bile **emulsifies**; lipase **digests**.

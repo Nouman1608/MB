@@ -96,6 +96,8 @@ C6H12O6 + 6O2 → 6CO2 + 6H2O
 
 **12.** Suggest why a person who runs a long distance breathes more deeply for several minutes afterwards. **[2]**
 
+**13.** Name the two raw materials needed for aerobic respiration and state where each comes from in a human. **[2]**
+
 ---
 
 ## Answers
@@ -139,6 +141,8 @@ C6H12O6 + 6O2 → 6CO2 + 6H2O
 **11.** Six carbon atoms on the left need 6CO2 [1]. Twelve hydrogen atoms need 6H2O [1]. The oxygen atoms on the right total 18, and 6 come from glucose, so 6O2 are needed: C6H12O6 + 6O2 → 6CO2 + 6H2O [1]. **[3]**
 
 **12.** The muscles have used a lot of oxygen and the level of carbon dioxide in the blood is higher [1]. Deep breathing brings in more oxygen for aerobic respiration and removes the extra carbon dioxide [1]. **[2]**
+
+**13.** Glucose, from the digestion of carbohydrates in food [1]. Oxygen, from the air breathed into the lungs and carried in the blood [1]. **[2]**
 
 ---
 

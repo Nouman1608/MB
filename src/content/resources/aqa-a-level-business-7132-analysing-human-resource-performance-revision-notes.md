@@ -81,6 +81,28 @@ State units: %, units per employee, £ per unit.
 
 Some turnover is healthy: new ideas and promotion opportunities. What is "high" depends on the industry (retail and hospitality are higher).
 
+## Second example: comparing two stores
+
+| | Store A | Store B |
+|---|---|---|
+| Average employees | 40 | 25 |
+| Leavers | 10 | 3 |
+| Output | 96,000 | 50,000 |
+| Employee costs | £960,000 | £700,000 |
+| Revenue | £4.8m | £2.5m |
+
+- Turnover: A **25%**, B **12%**.
+- Productivity: A **2,400**, B **2,000** per employee.
+- Employee costs % of revenue: A **20%**, B **28%**.
+- Labour cost per unit: A **£10**, B **£14**.
+- Reading: B keeps staff better but costs more per unit and per pound of revenue. Investigate causes before changing anything.
+
+## How to write a good answer
+
+- Write the formula and show the substitution.
+- Compare with another year, store or competitor.
+- Suggest a cause and what further evidence would test it.
+
 ## Using the data
 
 | Question | Possible decision |

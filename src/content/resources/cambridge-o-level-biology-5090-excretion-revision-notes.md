@@ -76,6 +76,33 @@ Urea in the hepatic portal vein is 2.0 and in the hepatic vein 5.0 (mmol per dm 
 - Ratio = 5.0 divided by 2.0 = 2.5 times.
 - Reason: the liver makes urea from excess amino acids.
 
+## Links to other topics
+
+| Topic | Link |
+|---|---|
+| Respiration (10) | Source of carbon dioxide |
+| Gas exchange (9) | Alveoli remove carbon dioxide from the blood |
+| Nutrition (8) | Excess protein gives excess amino acids and more urea |
+| Transport (11) | Plasma carries carbon dioxide and urea |
+| Plants (6) | In the light, carbon dioxide is used in photosynthesis |
+
+## Control of carbon dioxide
+
+1. Exercise makes muscles respire faster.
+2. More carbon dioxide enters the blood.
+3. The brain detects the rise.
+4. Breathing becomes faster and deeper.
+5. More carbon dioxide is excreted, and the level returns to normal.
+
+## Writing a full answer on waste products
+
+For each waste product give **where it is made**, **how it travels**, and **where it leaves**.
+
+| Waste | Made in | Carried in | Leaves through |
+|---|---|---|---|
+| Carbon dioxide | All respiring cells | Blood plasma | Lungs |
+| Urea | Liver | Blood plasma | Kidneys (urine) |
+
 ## Short model answers
 
 **Define excretion.** The removal of toxic materials and the waste products of metabolism from organisms.
@@ -87,6 +114,14 @@ Urea in the hepatic portal vein is 2.0 and in the hepatic vein 5.0 (mmol per dm 
 **Describe how carbon dioxide leaves the body.** It is made by respiring cells, carried in the blood to the lungs, diffuses into the alveoli and is breathed out.
 
 **Explain why excess amino acids are broken down.** They cannot be stored, so the liver removes the nitrogen part as urea and the rest is used for energy or stored as carbohydrate or fat.
+
+## How to revise this subtopic
+
+1. Cover the notes and write the key definitions from memory.
+2. Check each against the wording above, and fix any missing marking point.
+3. Do the self-test without looking at the answers, then mark it.
+4. Re-read the exam traps and note the ones you fell into.
+5. Try the practice questions under timed conditions.
 
 ## Exam traps
 

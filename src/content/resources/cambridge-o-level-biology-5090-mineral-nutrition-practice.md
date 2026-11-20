@@ -102,6 +102,8 @@ D: starch
 
 **11.** Describe a water culture experiment that could be used to show that a plant needs magnesium ions. **[4]**
 
+**12.** State why the roots of a plant in waterlogged soil take up fewer mineral ions. **[2]**
+
 ---
 
 ## Answers
@@ -147,6 +149,8 @@ D: starch
 **10.** Nitrate ions are taken into the root hair cells by active transport [1], move across the root to the xylem [1], and are carried up the xylem to the leaf where they enter the cells [1]. **[3]**
 
 **11.** Grow identical seedlings in two solutions: a complete solution and one without magnesium [1]. The complete solution is the control [1]. Keep light, temperature, volume of solution and time the same, and aerate the solutions [1]. After several weeks compare the leaf colour and height or mass; the seedlings without magnesium should have yellow leaves and less growth [1]. **[4]**
+
+**12.** Waterlogged soil contains little oxygen, so the root cells cannot respire aerobically and release less energy [1]. Active transport of ions needs this energy, so less is taken up [1]. **[2]**
 
 ---
 

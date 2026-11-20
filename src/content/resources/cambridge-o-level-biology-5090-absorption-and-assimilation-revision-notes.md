@@ -105,6 +105,16 @@ Model: a 10 mm by 10 mm gut wall (100 mm squared) carrying 2000 cylindrical vill
 
 **Explain why most water absorption happens in the small intestine.** Large volumes of water enter the gut in food, drink and secretions, and the small intestine has a large surface area, so most of the water is absorbed there before it reaches the colon.
 
+## Adaptations of the ileum: summary
+
+| Feature | Advantage |
+|---|---|
+| Very long | More time and area for absorption |
+| Villi and microvilli | Large internal surface area |
+| Thin wall | Short diffusion distance |
+| Rich blood supply | Keeps the concentration gradient steep |
+| Many mitochondria | Energy for active transport |
+
 ## Exam traps
 
 - Absorption is into the **blood**; assimilation is **use by cells**.

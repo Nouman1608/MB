@@ -96,6 +96,15 @@ Example: 100 operatives, span 5: 20 + 4 + 1 = **25**. Span 10: 10 + 1 = **11**. 
 
 Depends on speed required, strength of resistance, who holds power and the quality of relations. Often start soft (communicate, involve) and use harder methods last.
 
+## Model analysis paragraph
+
+"Using force field analysis, the driving forces total 12 and the restraining forces 9, so the change is feasible. The largest restraining force is staff fear of job losses. If management guarantees no redundancies and offers training, that force falls and the balance improves. This is more effective than pressing harder on the driving forces, which could increase resistance. Education and communication would be the first approach because the resistance comes from fear and misunderstanding."
+
+## Command words
+
+- **Analyse:** apply the model (Lewin or Kotter and Schlesinger) to the case.
+- **Evaluate:** weigh the benefits against the cost, disruption and resistance, and judge the best approach.
+
 ## Exam traps
 
 - Change is not always good; weigh cost, disruption and risk.

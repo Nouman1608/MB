@@ -81,6 +81,23 @@ Expected return method: expected extra revenue = extra revenue × probability. A
 - No guidance on competitors' reactions or timing.
 - Risk rankings are generalisations.
 
+## Model analysis paragraph
+
+"Market penetration is the lowest-risk option for this business because it already knows its products and customers. A campaign that raises share from 12% to 15% of a £50m market adds £1.5m of revenue, at a cost of £0.4m. The limit is the size of the market: once the firm has a larger share, further growth is difficult and rivals may cut prices. Market development in Germany offers more growth but involves higher cost and unfamiliar competitors. The best strategy is probably to start with penetration and test a small pilot elsewhere."
+
+## Linking to objectives
+
+An option is only good if it helps meet the corporate objective. If the objective is 8% ROCE, a quick, low-cost option may be best. If the objective is doubling sales in five years, a riskier option may be needed. Always say which objective the recommendation serves.
+
+## Sequencing options
+
+Firms often combine options in sequence: penetration first to build cash and confidence, then market development or new products using the proceeds. Say why the order makes sense for the case.
+
+## Command words
+
+- **Analyse:** identify the option, link to evidence on market, finances and rivals.
+- **Evaluate:** compare options by risk and reward, name the deciding factor and conclude.
+
 ## Exam traps
 
 - Check **both** the product and the market before classifying.

@@ -124,14 +124,15 @@ common mistake in revision material about assessment structure:
 - **Classroom assessment** uses the eight achievement levels (1-8) described above for each
   criterion (plus level 0 below the lowest band), so a student's classroom total across all four
   criteria is out of **32**, with an attainable range of 0-32.
-- **The eAssessment blueprint** (below) allocates **24 raw marks** to each criterion in the
-  external examination, with the actual distribution permitted to vary by up to three marks
-  from that blueprint figure. Thirty-two is not a valid eAssessment mark total for any single
-  criterion.
+- **The eAssessment blueprint** (below) allocates **32 marks** to each criterion: 96 marks
+  for the on-screen examination (criteria A, B and D) and 32 for the speaking examination
+  (criterion C). The distribution of marks may vary by no more than three marks from the
+  blueprint. The figure 32 therefore means something different on each scale: a classroom total
+  of the four 0-8 levels, or the marks for a single criterion in the eAssessment.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-proficiency-phases--02-two-marking-scales.webp" width="900" height="750" alt="Each criterion, A listening, B reading, C speaking and D writing, is scored 0 to 8 for classroom assessment, giving a total of 0 to 32. Separately, the eAssessment blueprint gives each criterion 24 raw marks: A, B and D in the on-screen paper and C in a separate, internally marked, IB-moderated speaking examination." loading="lazy">
-  <figcaption>Levels 0–8 in class; 24 raw marks each in eAssessment. Do not mix the scales.</figcaption>
+  <img src="/images/learning/myp-language-acquisition/myp-la-eassessment-two-marking-scales.svg" width="900" height="750" alt="Each criterion, A listening, B reading, C speaking and D writing, is scored 0 to 8 for classroom assessment, giving a total of 0 to 32. Separately, the eAssessment blueprint gives each criterion 32 marks: A and B in Tasks 1 and 2 and D in Task 3 of the on-screen paper, which is worth 96 marks, and C in a separate, internally marked, IB-moderated speaking examination." loading="lazy">
+  <figcaption>Levels 0–8 in class (total 0–32); 32 marks per criterion in eAssessment (96 on screen). Do not mix the scales.</figcaption>
 </figure>
 
 ## MYP eAssessment structure
@@ -140,25 +141,28 @@ Students seeking MYP course results or the MYP certificate demonstrate
 achievement through **two separate components**:
 
 - An **end-of-course on-screen examination**, covering receptive and
-  productive skills through three tasks -- listening to spoken
-  multimodal texts (criterion A, 24 marks), reading written multimodal
-  texts (criterion B, 24 marks), and writing in response to multimodal
-  texts (criterion D, 24 marks).
+  productive skills through three tasks of about 35 minutes each (1 hour
+  45 minutes in all, 96 marks). Tasks 1 and 2 each pair a written-visual
+  text with an audio-visual text and assess listening to spoken
+  multimodal texts (criterion A, 16 marks per task) and reading written
+  multimodal texts (criterion B, 16 marks per task) equally. Task 3 is
+  writing in response to multimodal texts (criterion D, 32 marks). Criteria
+  A, B and D are therefore worth 32 marks each.
 - An **internally assessed, IB-moderated speaking examination**
-  (criterion C, 24 marks), an interactive summative task marked by the
+  (criterion C, 32 marks, 15 to 17 minutes including preparation time), an interactive summative task marked by the
   student's own classroom teacher and externally moderated by the IB
   from a sample of each school's students.
 
 Because speaking is assessed separately from the other three skills,
 strong performance on the written on-screen paper does not substitute
 for oral preparation -- all four criteria are independently marked and
-independently weighted, each worth an equal 24 marks in the eAssessment
+independently weighted, each worth an equal 32 marks in the eAssessment
 blueprint, so no single skill can be allowed to dominate revision time
 at the expense of the others.
 
-IB's general guidance puts MYP on-screen examination sessions somewhere between 1 hour 45 minutes and
-2 hours; a Language Acquisition-specific figure isn't separately published, as far as public sources
-go, so confirm the exact session length for your sitting with your school.
+The marks and timings above come from the Middle Years Programme Language acquisition guide, for use
+from September 2020/January 2021 ("MYP eAssessment" and "Language acquisition examination blueprint",
+pages 51 and 52). Confirm the arrangements for your sitting with your school.
 
 ## How to approach it
 
@@ -197,7 +201,7 @@ whether this subject counts towards it.
 The MYP requires at least 50 hours of teaching time for the subject in each year of the programme, rising to a recommended 70 hours of guided learning per year in MYP years 4 and 5 for students pursuing eAssessment.
 
 **What is the difference between the classroom mark scale and the eAssessment marks?**
-Classroom assessment uses achievement levels 0–8 for each criterion, giving a total out of 32. The eAssessment blueprint allocates 24 raw marks to each criterion, and the actual distribution can vary by up to three marks from that figure.
+Classroom assessment uses achievement levels 0–8 for each criterion, giving a total out of 32. The eAssessment blueprint allocates 32 marks to each criterion (96 marks for the on-screen examination covering A, B and D, and 32 for speaking), and the distribution of marks can vary by no more than three marks from the blueprint.
 
 **Is MYP Language Acquisition compulsory?**
 Yes, in every year of the programme, except for bilingual students pursuing courses in multiple languages within the MYP Language and Literature subject group.

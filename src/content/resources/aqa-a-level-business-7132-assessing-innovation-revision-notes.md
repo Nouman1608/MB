@@ -99,6 +99,18 @@ Others: trademarks, trade secrets, being first to market. Limits of protection: 
 
 Fit with objectives; affordability and staying power; risk of failure and how to limit it; protectability; market size and rivals' response; the firm's culture.
 
+## Model analysis paragraph
+
+"Kaizen could help Bryn Toys cut costs. Staff on the packing line see small wastes every day, such as time lost moving boxes. If they are encouraged to suggest changes and the best are adopted, each saving may be small, but 150 suggestions at £600 each save £90,000 a year. This improves margin without a large investment. However, the gains are incremental, so Kaizen alone is unlikely to produce a breakthrough product, and the scheme depends on managers acting on suggestions."
+
+Notice the pattern: method, link to the case, calculation, effect on the business, and a limit.
+
+## Command words
+
+- **Explain / analyse:** build a chain of cause and effect.
+- **Assess / evaluate:** weigh both sides and reach a judgement that states what it depends on.
+- **Calculate:** show the formula and units.
+
 ## Exam traps
 
 - Innovation is more than a new product; process innovation counts.

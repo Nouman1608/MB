@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="750" viewBox="0 0 900 750" role="img" aria-labelledby="title desc" font-family="Arial, Helvetica, sans-serif">
+<title id="title">Two scales: classroom levels and eAssessment marks</title>
+<desc id="desc">Two separate scales. In the classroom each criterion, A listening, B reading, C speaking and D writing, is scored at levels 0 to 8, giving a total of 0 to 32. In the eAssessment blueprint each criterion is worth 32 marks. A and B are assessed in Tasks 1 and 2 of the on-screen examination, 16 marks in each task, and D in Task 3. The on-screen examination is worth 96 marks. C is a separate speaking examination of 15 to 17 minutes including preparation time, worth 32 marks.</desc>
+<rect width="900" height="750" fill="#f4f6f6"/>
+<text x="450" y="52" font-size="30" font-weight="700" fill="#1c2d4b" text-anchor="middle">Two scales: classroom levels and eAssessment marks</text>
+<rect x="305" y="92" width="260" height="52" rx="12" fill="#dde9e6" stroke="#1c2d4b" stroke-width="3"/>
+<text x="435" y="126" font-size="21" font-weight="700" fill="#1c2d4b" text-anchor="middle">Classroom: levels 0–8</text>
+<rect x="580" y="92" width="300" height="52" rx="12" fill="#f0e6b8" stroke="#8a6d0b" stroke-width="3"/>
+<text x="730" y="126" font-size="21" font-weight="700" fill="#1c2d4b" text-anchor="middle">eAssessment: marks</text>
+<rect x="20" y="162" width="270" height="92" rx="14" fill="#fff" stroke="#c9d6d3" stroke-width="3"/>
+<circle cx="56" cy="208" r="24" fill="#f0e6b8" stroke="#1c2d4b" stroke-width="3"/>
+<text x="56" y="217" font-size="26" font-weight="700" fill="#1c2d4b" text-anchor="middle">A</text>
+<text x="92" y="198" font-size="22" font-weight="700" fill="#1c2d4b" text-anchor="start">Listening</text>
+<text x="92" y="222" font-size="17" fill="#4a5a72" text-anchor="start">spoken multimodal</text>
+<text x="92" y="242" font-size="17" fill="#4a5a72" text-anchor="start">text</text>
+<rect x="305" y="162" width="260" height="92" rx="14" fill="#e8f2ef" stroke="#2f6e66" stroke-width="3"/>
+<text x="435" y="206" font-size="34" font-weight="700" fill="#1c2d4b" text-anchor="middle">0–8</text>
+<text x="435" y="234" font-size="17" fill="#1c2d4b" text-anchor="middle">achievement levels</text>
+<rect x="580" y="162" width="300" height="92" rx="14" fill="#f0e6b8" stroke="#8a6d0b" stroke-width="3"/>
+<text x="730" y="198" font-size="30" font-weight="700" fill="#1c2d4b" text-anchor="middle">32 marks</text>
+<text x="730" y="222" font-size="17" fill="#1c2d4b" text-anchor="middle">on-screen: Tasks 1 and 2</text>
+<text x="730" y="242" font-size="17" fill="#1c2d4b" text-anchor="middle">(16 marks in each)</text>
+<rect x="20" y="268" width="270" height="92" rx="14" fill="#fff" stroke="#c9d6d3" stroke-width="3"/>
+<circle cx="56" cy="314" r="24" fill="#f0e6b8" stroke="#1c2d4b" stroke-width="3"/>
+<text x="56" y="323" font-size="26" font-weight="700" fill="#1c2d4b" text-anchor="middle">B</text>
+<text x="92" y="304" font-size="22" font-weight="700" fill="#1c2d4b" text-anchor="start">Reading</text>
+<text x="92" y="328" font-size="17" fill="#4a5a72" text-anchor="start">written, spatial and</text>
+<text x="92" y="348" font-size="17" fill="#4a5a72" text-anchor="start">visual text</text>
+<rect x="305" y="268" width="260" height="92" rx="14" fill="#e8f2ef" stroke="#2f6e66" stroke-width="3"/>
+<text x="435" y="312" font-size="34" font-weight="700" fill="#1c2d4b" text-anchor="middle">0–8</text>
+<text x="435" y="340" font-size="17" fill="#1c2d4b" text-anchor="middle">achievement levels</text>
+<rect x="580" y="268" width="300" height="92" rx="14" fill="#f0e6b8" stroke="#8a6d0b" stroke-width="3"/>
+<text x="730" y="304" font-size="30" font-weight="700" fill="#1c2d4b" text-anchor="middle">32 marks</text>
+<text x="730" y="328" font-size="17" fill="#1c2d4b" text-anchor="middle">on-screen: Tasks 1 and 2</text>
+<text x="730" y="348" font-size="17" fill="#1c2d4b" text-anchor="middle">(16 marks in each)</text>
+<rect x="20" y="374" width="270" height="92" rx="14" fill="#fff" stroke="#c9d6d3" stroke-width="3"/>
+<circle cx="56" cy="420" r="24" fill="#d4b02e" stroke="#1c2d4b" stroke-width="3"/>
+<text x="56" y="429" font-size="26" font-weight="700" fill="#1c2d4b" text-anchor="middle">C</text>
+<text x="92" y="410" font-size="22" font-weight="700" fill="#1c2d4b" text-anchor="start">Speaking</text>
+<text x="92" y="434" font-size="17" fill="#4a5a72" text-anchor="start">interacting on personal,</text>
+<text x="92" y="454" font-size="17" fill="#4a5a72" text-anchor="start">local, global topics</text>
+<rect x="305" y="374" width="260" height="92" rx="14" fill="#e8f2ef" stroke="#2f6e66" stroke-width="3"/>
+<text x="435" y="418" font-size="34" font-weight="700" fill="#1c2d4b" text-anchor="middle">0–8</text>
+<text x="435" y="446" font-size="17" fill="#1c2d4b" text-anchor="middle">achievement levels</text>
+<rect x="580" y="374" width="300" height="92" rx="14" fill="#d4b02e" stroke="#8a6d0b" stroke-width="3"/>
+<text x="730" y="410" font-size="30" font-weight="700" fill="#1c2d4b" text-anchor="middle">32 marks</text>
+<text x="730" y="434" font-size="17" fill="#1c2d4b" text-anchor="middle">separate speaking exam</text>
+<text x="730" y="454" font-size="17" fill="#1c2d4b" text-anchor="middle">(15 to 17 minutes)</text>
+<rect x="20" y="480" width="270" height="92" rx="14" fill="#fff" stroke="#c9d6d3" stroke-width="3"/>
+<circle cx="56" cy="526" r="24" fill="#f0e6b8" stroke="#1c2d4b" stroke-width="3"/>
+<text x="56" y="535" font-size="26" font-weight="700" fill="#1c2d4b" text-anchor="middle">D</text>
+<text x="92" y="516" font-size="22" font-weight="700" fill="#1c2d4b" text-anchor="start">Writing</text>
+<text x="92" y="540" font-size="17" fill="#4a5a72" text-anchor="start">language for audience</text>
+<text x="92" y="560" font-size="17" fill="#4a5a72" text-anchor="start">and purpose</text>
+<rect x="305" y="480" width="260" height="92" rx="14" fill="#e8f2ef" stroke="#2f6e66" stroke-width="3"/>
+<text x="435" y="524" font-size="34" font-weight="700" fill="#1c2d4b" text-anchor="middle">0–8</text>
+<text x="435" y="552" font-size="17" fill="#1c2d4b" text-anchor="middle">achievement levels</text>
+<rect x="580" y="480" width="300" height="92" rx="14" fill="#f0e6b8" stroke="#8a6d0b" stroke-width="3"/>
+<text x="730" y="516" font-size="30" font-weight="700" fill="#1c2d4b" text-anchor="middle">32 marks</text>
+<text x="730" y="540" font-size="17" fill="#1c2d4b" text-anchor="middle">on-screen: Task 3</text>
+<text x="730" y="560" font-size="17" fill="#1c2d4b" text-anchor="middle">(writing task)</text>
+<rect x="305" y="586" width="260" height="62" rx="12" fill="#dde9e6" stroke="#2f6e66" stroke-width="3"/>
+<text x="435" y="626" font-size="26" font-weight="700" fill="#1c2d4b" text-anchor="middle">total 0–32</text>
+<rect x="580" y="586" width="300" height="62" rx="12" fill="#f0e6b8" stroke="#8a6d0b" stroke-width="3"/>
+<text x="730" y="614" font-size="20" font-weight="700" fill="#1c2d4b" text-anchor="middle">on-screen 96 marks</text>
+<text x="730" y="637" font-size="20" font-weight="700" fill="#1c2d4b" text-anchor="middle">speaking 32 marks</text>
+<text x="450" y="693" font-size="18" fill="#4a5a72" text-anchor="middle">Level 0: work that does not reach any descriptor band.</text>
+<text x="450" y="720" font-size="18" fill="#4a5a72" text-anchor="middle">The two scales are separate: levels are not marks.</text>
+</svg>

@@ -107,6 +107,34 @@ The syllabus names carbon dioxide and urea. Other substances are excreted too, f
 
 All living organisms excrete, not just humans. Plants excrete carbon dioxide from respiration, and in the light they use this carbon dioxide in photosynthesis, so the gas exchange runs in the opposite direction. Single-celled organisms excrete across their cell surface by diffusion. Larger animals need specialised organs: the lungs for carbon dioxide and the kidneys for urea.
 
+## Linking excretion to other topics
+
+Excretion draws together several parts of the course, and questions often cross the boundaries.
+
+| Topic | Link to excretion |
+|---|---|
+| Respiration (10) | Aerobic respiration produces carbon dioxide, the waste product excreted by the lungs |
+| Human gas exchange (9) | The alveoli are where carbon dioxide leaves the blood and is breathed out |
+| Biological molecules (4) | Proteins are made of amino acids, which contain nitrogen; carbohydrates and fats do not |
+| Human nutrition (8) | Excess protein in the diet leads to excess amino acids and so more urea |
+| Transport in humans (11) | The plasma carries both carbon dioxide and urea |
+| Photosynthesis (6) | Plants use the carbon dioxide produced by respiration, so in the light they excrete little of it |
+
+### How the body controls carbon dioxide
+
+The level of carbon dioxide in the blood is monitored by the brain. When a person exercises, the muscles respire faster and release more carbon dioxide into the blood. The rise is detected, and the breathing rate and depth increase, so that more carbon dioxide is removed at the lungs. When the blood level falls back, breathing returns to normal. This is an example of the body controlling the level of a waste product, and it shows that excretion is closely tied to respiration and breathing.
+
+### An exam-style long answer
+
+*Describe how the body deals with the waste products carbon dioxide and urea.* A complete answer has four parts.
+
+1. Carbon dioxide is produced in all respiring cells and diffuses into the blood.
+2. It is carried in the plasma to the lungs, where it diffuses into the alveoli and is breathed out.
+3. Urea is produced in the liver from the breakdown of excess amino acids, which cannot be stored.
+4. It passes into the plasma, which carries it to the kidneys, to be removed in the urine.
+
+Each part names a **place**, a **process** and a **route**. Writing these three things for each waste product earns the marks.
+
 ## Common mistakes
 
 - Defining excretion as "getting rid of waste" with no mention of **metabolic** waste or **toxic** materials.

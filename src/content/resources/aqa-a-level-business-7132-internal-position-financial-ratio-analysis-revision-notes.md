@@ -89,6 +89,15 @@ Operating profit £240,000; capital employed £1,600,000; current assets £420,0
 4. Say what it means for cash, risk or return.
 5. Qualify: what else you would need to know.
 
+## Model analysis paragraph
+
+"ROCE fell from 16.9% to 13.1%. Operating profit fell 6.7% while capital employed rose 21%, so the new investment is not yet earning a return. This weakens the business's position because it earns less on each £100 of long-term funds. It may be a temporary effect of expansion, but if the trend continues the owners may find that borrowing costs approach the return on investment. More information on when the new assets will contribute would help."
+
+## Command words
+
+- **Calculate:** formula, substitution, answer with units.
+- **Analyse / assess:** explain what the change means, its likely cause and its effect on cash, risk or return.
+
 ## Exam traps
 
 - ROCE uses **operating profit**, not revenue.

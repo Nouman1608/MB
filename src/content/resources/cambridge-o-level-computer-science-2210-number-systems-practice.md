@@ -24,7 +24,7 @@ featured: false
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
 > and they do **not** replicate the exam's exact structure, question count or
-> mark tariffs — Cambridge International holds copyright in its own papers. Use
+> mark tariffs. Cambridge International holds copyright in its own papers. Use
 > these alongside the official past papers available from your board.
 
 Related: [Number systems study guide](/resources/cambridge-o-level-computer-science-2210-number-systems/)

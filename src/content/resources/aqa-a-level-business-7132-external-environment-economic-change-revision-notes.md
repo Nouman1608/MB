@@ -102,6 +102,15 @@ Condensed notes on section **3.7.5 Analysing the external environment to assess 
 4. Which markets and costs of this business are affected?
 5. Limits: forecasts; averages; time lags.
 
+## Model analysis paragraph
+
+"A fall in the value of the pound should help this exporter because its machines become cheaper for overseas buyers, so demand may rise. However, the firm imports components priced in dollars, so those costs rise in sterling terms. The overall effect depends on the share of costs that are imported against the share of sales made abroad. As exports are the larger part of its business, the fall is probably an opportunity, but the firm should plan for volatility."
+
+## Command words
+
+- **Analyse:** link the change to demand, cost or finance, then to a decision.
+- **Evaluate:** consider the size, duration and the type of business affected.
+
 ## Exam traps
 
 - Link every change to demand, costs or finance, and then to a decision.

@@ -97,6 +97,21 @@ Gives the baby antibodies against pathogens the mother has met, protecting the b
 | Peak level | Low | Much higher |
 | Reason | Few lymphocytes fit the antigen | Memory cells respond quickly |
 
+## Three protections compared
+
+| | Vaccination | Antibiotic | Passive immunity |
+|---|---|---|---|
+| Purpose | Prevent disease | Cure bacterial infection | Short-term protection |
+| Given | Weakened pathogen or antigens | Drug | Antibodies |
+| Works on viruses? | Yes | No | Yes |
+| Memory cells? | Yes | No | No |
+
+## Why timing matters
+
+- A vaccine is given **before** infection, so memory cells are ready.
+- The first response to a new pathogen takes days, so illness can develop.
+- Some pathogens (influenza) change antigens, so new vaccines are needed.
+
 ## Short model answers
 
 **Explain why a vaccine gives long-term immunity.** The antigens stimulate lymphocytes to make antibodies and memory cells. If the pathogen enters later, the memory cells quickly produce antibodies.
@@ -106,6 +121,14 @@ Gives the baby antibodies against pathogens the mother has met, protecting the b
 **Explain why a baby receives antibodies from its mother.** Antibodies cross the placenta before birth and are in breast milk after birth, protecting the baby while its own immune system develops.
 
 **Explain why HIV weakens the immune system.** It destroys lymphocytes, so fewer are available and fewer antibodies are made.
+
+## How to revise this subtopic
+
+1. Cover the notes and write the key definitions from memory.
+2. Check each against the wording above, and fix any missing marking point.
+3. Do the self-test without looking at the answers, then mark it.
+4. Re-read the exam traps and note the ones you fell into.
+5. Try the practice questions under timed conditions.
 
 ## Exam traps
 

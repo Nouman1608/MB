@@ -146,6 +146,10 @@ On a photomicrograph, size is a useful clue if the magnification is known. A red
 - **Respiration (topic 10)**: the oxygen carried by red blood cells is used in aerobic respiration, and the carbon dioxide produced is carried away in the plasma.
 - **Excretion (topic 13)**: urea made in the liver is carried in the plasma to the kidneys.
 
+## Summary for revision
+
+Learn four components and four jobs: red blood cells carry oxygen, white blood cells defend (lymphocytes make antibodies and phagocytes engulf), platelets help clotting by turning fibrinogen into fibrin, and plasma transports many substances. Add the recognition clues and the tissue fluid exchange, and you have the whole subtopic.
+
 ## Common mistakes
 
 - Saying that white blood cells carry oxygen, or that red blood cells fight infection.

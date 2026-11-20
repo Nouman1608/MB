@@ -143,6 +143,22 @@ Ask:
 5. Is there a market for it, and how quickly could rivals respond?
 6. Is the organisation's culture suited to innovation?
 
+## Innovation and the product life cycle
+
+Innovation links to the product life cycle. A product moves through introduction, growth, maturity and decline. In maturity, sales flatten and rivals copy the product, so profit is squeezed. A business that waits until decline to innovate is late. Firms therefore keep a **portfolio**: some products in growth, some mature products providing cash, and new products in development. R&D spending is sensible when the cash from mature products funds it.
+
+**Product innovation** often extends the life of a brand (a new version), while **process innovation** protects margins when the product matures and prices fall. A strong answer decides which type of innovation matters most at the stage the product has reached.
+
+## Costs and risks to weigh
+
+| Factor | Question to ask |
+|---|---|
+| Cost | How much must be spent before any revenue, and for how long? |
+| Probability | How likely is success, and has the market been tested? |
+| Speed | Can rivals copy before the investment has paid back? |
+| Protection | Can a patent, copyright or secrecy protect the return? |
+| Culture | Does the firm tolerate failure and listen to staff ideas? |
+
 ## Exam technique
 
 - **Analyse:** pick a pressure or a method and explain, step by step, how it leads to a benefit or a cost for this business.

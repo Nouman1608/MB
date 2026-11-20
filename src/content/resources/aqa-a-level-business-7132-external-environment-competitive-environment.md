@@ -156,6 +156,26 @@ The overall effect on **profit** depends on the balance of forces. An industry w
 - It does not measure the forces. Judging "high" or "low" is subjective.
 - It focuses on the industry, not the particular strengths of the firm.
 
+## Using the five forces to choose a strategy
+
+The model does more than describe an industry. It points to responses:
+
+- Where **entry** is easy, build barriers: a brand, loyalty schemes, exclusive distribution, patents, or scale.
+- Where **buyers** are powerful, reduce dependence on them by serving more customers, or make the product harder to replace through differentiation.
+- Where **suppliers** are powerful, find alternatives, build long-term relationships or integrate backwards.
+- Where **rivalry** is fierce, avoid head-on price competition by differentiating or by focusing on a segment.
+- Where **substitutes** threaten, improve value or move into the substitute.
+
+These responses connect to strategic direction and positioning (section 3.8). A business that finds all five forces strong may decide the industry is unattractive and look at a different market.
+
+## A short checklist for a case study
+
+1. Which forces does the case give evidence on?
+2. Which two are strongest, and why?
+3. How might each change over the next five years?
+4. What is the effect on prices, costs and profit?
+5. Which function must act, and what should it do?
+
 ## Exam technique
 
 - **Analyse:** choose the force that matters most in the case, say why it is strong, and trace the effect on prices, costs and profit.

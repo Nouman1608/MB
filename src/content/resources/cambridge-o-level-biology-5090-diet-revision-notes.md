@@ -100,6 +100,15 @@ Percentage difference = (difference divided by the smaller value) x 100. For 12 
 
 **State what is meant by a balanced diet.** A diet that contains all the nutrients in the correct proportions and gives the right amount of energy.
 
+## Quick matching of nutrient and disease
+
+| Nutrient lacking | Disease | Body part affected |
+|---|---|---|
+| Vitamin C | Scurvy | Gums, skin, joints |
+| Vitamin D | Rickets | Bones |
+| Calcium | Rickets | Bones and teeth |
+| Iron | Anaemia | Blood (haemoglobin) |
+
 ## Exam traps
 
 - Anaemia is lack of **iron**; scurvy is lack of **vitamin C**; rickets is lack of **vitamin D or calcium**.

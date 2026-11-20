@@ -93,6 +93,18 @@ D: a person releasing hormones
 
 **11.** Explain why carbon dioxide must be excreted. **[2]**
 
+**12.** A person eats a large steak, which is rich in protein, and a bowl of sugar. Explain which of the two will lead to more urea being made, and why. **[3]**
+
+**13.** Explain what happens to the part of an amino acid that is left after the nitrogen-containing part has been removed in the liver. **[2]**
+
+**14.** The breathing rate of a runner was 15 breaths per minute at rest and 40 breaths per minute during a race.
+
+**(a)** Calculate the percentage increase in breathing rate. **[2]**
+
+**(b)** Explain how this helps the body to excrete carbon dioxide. **[3]**
+
+**15.** Plants also produce carbon dioxide in respiration. Suggest why a plant in bright light does not need to excrete much carbon dioxide. **[2]**
+
 ---
 
 ## Answers
@@ -130,6 +142,18 @@ D: a person releasing hormones
 **(b)** It dissolves in the blood plasma [1] and is carried in the blood to the kidneys [1]. **[3]**
 
 **11.** Carbon dioxide forms an acid in water, which would change the pH of the blood [1] and upset the working of enzymes (or the body cells) [1]. **[2]**
+
+**12.** The steak will lead to more urea [1]. Protein is digested to amino acids, and the excess cannot be stored, so it is broken down in the liver [1]. Sugar is a carbohydrate and contains no nitrogen, so it does not make urea [1]. **[3]**
+
+**13.** It can be used in respiration to release energy [1], or converted into carbohydrate or fat for storage [1]. **[2]**
+
+**14.**
+
+**(a)** Increase = 40 - 15 = 25 [1]. 25 divided by 15 x 100 = 167 per cent [1].
+
+**(b)** During the race the muscles respire faster and make more carbon dioxide [1]. Faster breathing brings more air to the alveoli and keeps the concentration gradient steep [1], so carbon dioxide is removed from the blood more quickly [1]. **[5]**
+
+**15.** In bright light the plant uses the carbon dioxide from respiration in photosynthesis [1], so little is left to be excreted (and the plant may take in more from the air) [1]. **[2]**
 
 ---
 

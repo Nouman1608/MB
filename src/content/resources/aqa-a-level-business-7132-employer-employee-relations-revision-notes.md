@@ -88,6 +88,13 @@ Payroll £3m. Union asks 4% (£120,000). Employer offers 2% (£60,000). Gap **£
 - A 3% settlement costs £90,000 a year, £30,000 more than the offer. The strike's net cost is about 2.4 times that extra annual cost.
 - But a pay rise is permanent and a strike cost is one-off; the strike figure also ignores lasting damage to trust and morale.
 
+## How to write a good answer
+
+- Identify who is involved (union, works council, individual staff) and what they can do.
+- Link the choice of involvement to management style, workforce skills and the nature of the decision.
+- Use numbers to compare the cost of a dispute with the cost of a settlement.
+- Weigh benefits (commitment, ideas) against costs (time, control) and say what the decision depends on.
+
 ## Exam traps
 
 - Unions bargain (and may take industrial action); works councils consult.

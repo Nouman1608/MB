@@ -99,6 +99,8 @@ D: passive immunity from breast milk
 
 **12.** Antibodies have a specific shape. Explain what this means and why it matters. **[3]**
 
+**13.** A new strain of an influenza virus has antigens with a different shape from last year's strain. Suggest why last year's vaccine may not protect against it. **[2]**
+
 ---
 
 ## Answers
@@ -142,6 +144,8 @@ D: passive immunity from breast milk
 **11.** HIV infects and destroys lymphocytes [1]. The number of lymphocytes decreases, so fewer antibodies can be produced [1], and the person cannot defend against infections as well [1]. **[3]**
 
 **12.** The shape of an antibody is complementary to the shape of one particular antigen [1]. It binds only to the antigen that it fits, like a lock and key [1], so a different antibody is needed for each pathogen [1]. **[3]**
+
+**13.** Antibodies have a shape complementary to one specific antigen [1]. The memory cells and antibodies from last year's vaccine do not fit the changed antigens of the new strain [1]. **[2]**
 
 ---
 

@@ -105,6 +105,15 @@ Ask: was the short-term result achieved in a way that protects the future?
 - **Value:** wider view of success; protects reputation; meets stakeholder pressure.
 - **Limits:** people and planet hard to measure and compare; the three can conflict; selective reporting; survival still needs profit.
 
+## Model analysis paragraph
+
+"Labour turnover rose from 12% to 20% while on-time delivery fell from 96% to 91%. The two are probably linked: new staff are less experienced, so deliveries are late. Late deliveries harm customer satisfaction and may explain the fall in market share. The profit figures may not yet show this, so non-financial data give an early warning. The firm should find out why staff are leaving before it affects profit."
+
+## Command words
+
+- **Analyse data:** quote figures, calculate the change, explain cause and effect.
+- **Assess performance:** use financial and non-financial measures, short and long term.
+
 ## Exam traps
 
 - Interpret the figures; do not just describe them.

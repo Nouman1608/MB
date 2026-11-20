@@ -105,6 +105,15 @@ Mini-example: UK cost £30 a unit. Overseas: £20 production + £4 shipping + £
 
 Middle path: a global core with local variations.
 
+## Model analysis paragraph
+
+"Licensing could be a good first step into an overseas market. The brand owner earns a royalty, for example 6% of £10m is £600,000 a year, without building factories. The partner brings local knowledge. But the owner has less control over quality, and a poor product could damage the global brand. The partner may also learn the business and become a rival. The choice depends on how much the brand owner values control against speed and low risk."
+
+## Command words
+
+- **Assess a method of entry:** compare cost, risk, control, speed and local knowledge.
+- **Evaluate a market:** use factors such as size, growth, stability, competition and ease of entry.
+
 ## Exam traps
 
 - Globalisation is the trend; internationalisation is the firm's decision.
