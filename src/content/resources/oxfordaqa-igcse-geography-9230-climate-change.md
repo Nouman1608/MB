@@ -12,6 +12,7 @@ order: 1.1
 syllabusTopics:
   - qualification: "igcse"
     topic: "living-with-physical-environment-9230"
+    subtopic: "climate-change-9230"
 description: "Climate change for OxfordAQA IGCSE Geography 9230: Quaternary evidence, natural and human causes, effects on people and environment, mitigation and adaptation."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

@@ -12,6 +12,7 @@ order: 1.1
 syllabusTopics:
   - qualification: "igcse"
     topic: "living-with-physical-environment-9230"
+    subtopic: "climate-change-9230"
 description: "Condensed notes on climate change for OxfordAQA IGCSE Geography 9230: evidence types and timescales, natural and human causes, effects and management."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

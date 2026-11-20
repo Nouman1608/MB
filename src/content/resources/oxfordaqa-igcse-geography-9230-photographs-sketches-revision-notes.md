@@ -12,6 +12,7 @@ order: 3.1
 syllabusTopics:
   - qualification: "igcse"
     topic: "geographical-fieldwork-skills-9230"
+    subtopic: "cartographic-skills-9230"
 description: "Condensed notes for 9230 photograph and sketch skills: photo types, a reading system, map matching, field sketch steps, sketch maps and annotation."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
