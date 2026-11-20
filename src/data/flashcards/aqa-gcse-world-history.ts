@@ -1,13 +1,16 @@
 /**
  * D-444 -- flashcards for AQA GCSE History 8145 (first teaching 2016).
  *
- * Paper 1 (Understanding the modern world) has two subtopics in the syllabus
- * record, 3.2.1 Section A period studies and 3.2.2 Section B wider world depth
- * studies; each block covers every option in that section. Paper 2 (Shaping
- * the nation) itemises no subtopics, so its cards sit on the topic (topicOnly
- * helper). Card ids are `<subtopic number>-<n>` (or `<topic number>-<n>`) and
- * are permanent (browser progress is keyed by them): add a new card with the
- * next unused n, never renumber.
+ * Both papers have two subtopics in the syllabus record. Paper 1 (Understanding
+ * the modern world): 3.2.1 Section A period studies and 3.2.2 Section B wider
+ * world depth studies. Paper 2 (Shaping the nation): 3.3.1 Section A thematic
+ * studies and 3.3.2 Section B British depth studies. Each block covers every
+ * option in that section. Card ids are `<subtopic number>-<n>` (or
+ * `<topic number>-<n>`) and are permanent (browser progress is keyed by them):
+ * add a new card with the next unused n, never renumber.
+ *
+ * 20 Nov 2026: the Paper 2 cards were re-filed under 3.3.1 and 3.3.2 and have new
+ * ids; `idMigration` below moves browser progress saved before that date onto them.
  *
  * Skill and paper-structure cards follow Marlbridge's 8145 revision notes and
  * exam-preparation page. Those pages do not set out each option's content, so
@@ -49,10 +52,27 @@ export const DECK_AQA_GCSE_WORLD_HISTORY: FlashcardDeck = {
   subjectSlug: 'world-history',
   // D-484: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
   deckReview: { reviewerSlug: 'azam-siddique', reviewedOn: '2026-11-16' },
+  // Re-filed under the new subtopics on 2026-11-20: old id -> new id for every card, so progress
+  // saved before then follows each card. Cards that were already on a subtopic keep their id.
+  idMigration: {
+    id: '8145-subtopics-2026-11-20',
+    before: '2026-11-20',
+    map: {
+      '3.2.1-1': '3.2.1-1', '3.2.1-2': '3.2.1-2', '3.2.1-3': '3.2.1-3', '3.2.1-4': '3.2.1-4', '3.2.1-5': '3.2.1-5',
+      '3.2.1-6': '3.2.1-6', '3.2.1-7': '3.2.1-7', '3.2.1-8': '3.2.1-8', '3.2.1-9': '3.2.1-9', '3.2.1-10': '3.2.1-10',
+      '3.2.1-11': '3.2.1-11', '3.2.1-12': '3.2.1-12', '3.2.1-13': '3.2.1-13', '3.2.1-14': '3.2.1-14', '3.2.1-15': '3.2.1-15',
+      '3.2.2-1': '3.2.2-1', '3.2.2-2': '3.2.2-2', '3.2.2-3': '3.2.2-3', '3.2.2-4': '3.2.2-4', '3.2.2-5': '3.2.2-5',
+      '3.2.2-6': '3.2.2-6', '3.2.2-7': '3.2.2-7', '3.2.2-8': '3.2.2-8', '3.2.2-9': '3.2.2-9', '3.2.2-10': '3.2.2-10',
+      '3.2.2-11': '3.2.2-11', '3.2.2-12': '3.2.2-12', '3.2.2-13': '3.2.2-13', '3.2.2-14': '3.2.2-14', '3.2.2-15': '3.2.2-15',
+      '3.2.2-16': '3.2.2-16', '2-1': '3.3.1-1', '2-2': '3.3.1-2', '2-3': '3.3.2-1', '2-4': '3.3.2-2',
+      '2-5': '3.3.2-3', '2-6': '3.3.1-3', '2-7': '3.3.1-4', '2-8': '3.3.1-5', '2-9': '3.3.2-4',
+      '2-10': '3.3.2-5', '2-11': '3.3.2-6', '2-12': '3.3.2-7',
+    },
+  },
   syllabusCode: '8145',
   syllabusSeries: 'first teaching 2016',
   author: 'marlbridge-academic-team',
-  updated: '2026-11-08',
+  updated: '2026-11-20',
   cards: [
     // 1 Understanding the modern world -- Section A period studies
     ...sub(P1, 'utmw-section-a-period-studies-8145', '3.2.1', [
@@ -93,19 +113,21 @@ export const DECK_AQA_GCSE_WORLD_HISTORY: FlashcardDeck = {
     ]),
 
     // 2 Shaping the nation (no subtopics itemised)
-    ...topicOnly('shaping-the-nation-8145', '2', [
+    ...sub('shaping-the-nation-8145', 'stn-section-a-thematic-studies-8145', '3.3.1', [
       { n: 1, f: 'What are the two sections of AQA GCSE History Paper 2?', b: 'Section A: one thematic study. Section B: one British depth study, which includes a historic environment study.' },
       { n: 2, f: 'What are the three thematic study options in Paper 2 Section A?', b: 'AA Health and the people, c1000 to the present day. AB Power and the people, c1170 to the present day. AC Migration, empires and the people, c790 to the present day.' },
-      { n: 3, f: 'What are the four British depth study options in Paper 2 Section B?', b: 'BA Norman England, c1066–c1100. BB Medieval England: the reign of Edward I, 1272–1307. BC Elizabethan England, c1568–1603. BD Restoration England, 1660–1685.' },
-      { n: 4, f: 'How is the historic environment study examined?', b: 'By the final question of Paper 2 Section B, a 16-mark essay (8 AO1, 8 AO2) on a specified site that AQA changes each year.' },
-      { n: 5, f: 'What is the most common way marks are lost on the historic environment question?', b: 'Naming a feature of the site without connecting it to a specific event or development from the rest of the depth study and explaining what it reveals about the period.' },
-      { n: 6, f: 'What are the named factors in Health and the people?', b: 'War, religion, chance, government, communication, science and technology, and the role of the individual. Strong answers show how factors worked together.' },
-      { n: 7, f: 'Health and the people: name four turning points with dates', b: 'The Black Death (1348), Jenner’s smallpox vaccination (1796), germ theory (Pasteur, from 1861) and the creation of the NHS (1948).' },
-      { n: 8, f: 'Power and the people: what were Magna Carta (1215) and the Great Reform Act (1832)?', b: 'Magna Carta: barons forced King John to accept limits on royal power. The Great Reform Act: removed many “rotten boroughs” and extended the vote to more middle-class men.' },
-      { n: 9, f: 'Norman England: what were the Harrying of the North and the Domesday Book?', b: 'The Harrying of the North (1069–70) was William I’s brutal destruction of northern England after rebellions. The Domesday Book (1086) was a survey of land and resources across England.' },
-      { n: 10, f: 'Elizabethan England: what happened in 1587 and 1588?', b: 'Mary, Queen of Scots was executed in 1587 after the Babington Plot. In 1588 the Spanish Armada was defeated.' },
-      { n: 11, f: 'Restoration England: what happened in 1660, 1665 and 1666?', b: '1660: the monarchy was restored under Charles II. 1665: the Great Plague in London. 1666: the Great Fire of London.' },
-      { n: 12, f: 'Edward I: what was the Model Parliament, and how did Edward conquer Wales?', b: 'The Model Parliament (1295) included knights and townsmen as well as lords and clergy. After wars in 1277 and 1282–83 Edward conquered Wales and built castles such as Caernarfon and Conwy.' },
+      { n: 3, f: 'What are the named factors in Health and the people?', b: 'War, religion, chance, government, communication, science and technology, and the role of the individual. Strong answers show how factors worked together.' },
+      { n: 4, f: 'Health and the people: name four turning points with dates', b: 'The Black Death (1348), Jenner’s smallpox vaccination (1796), germ theory (Pasteur, from 1861) and the creation of the NHS (1948).' },
+      { n: 5, f: 'Power and the people: what were Magna Carta (1215) and the Great Reform Act (1832)?', b: 'Magna Carta: barons forced King John to accept limits on royal power. The Great Reform Act: removed many “rotten boroughs” and extended the vote to more middle-class men.' },
+    ]),
+    ...sub('shaping-the-nation-8145', 'stn-section-b-british-depth-studies-8145', '3.3.2', [
+      { n: 1, f: 'What are the four British depth study options in Paper 2 Section B?', b: 'BA Norman England, c1066–c1100. BB Medieval England: the reign of Edward I, 1272–1307. BC Elizabethan England, c1568–1603. BD Restoration England, 1660–1685.' },
+      { n: 2, f: 'How is the historic environment study examined?', b: 'By the final question of Paper 2 Section B, a 16-mark essay (8 AO1, 8 AO2) on a specified site that AQA changes each year.' },
+      { n: 3, f: 'What is the most common way marks are lost on the historic environment question?', b: 'Naming a feature of the site without connecting it to a specific event or development from the rest of the depth study and explaining what it reveals about the period.' },
+      { n: 4, f: 'Norman England: what were the Harrying of the North and the Domesday Book?', b: 'The Harrying of the North (1069–70) was William I’s brutal destruction of northern England after rebellions. The Domesday Book (1086) was a survey of land and resources across England.' },
+      { n: 5, f: 'Elizabethan England: what happened in 1587 and 1588?', b: 'Mary, Queen of Scots was executed in 1587 after the Babington Plot. In 1588 the Spanish Armada was defeated.' },
+      { n: 6, f: 'Restoration England: what happened in 1660, 1665 and 1666?', b: '1660: the monarchy was restored under Charles II. 1665: the Great Plague in London. 1666: the Great Fire of London.' },
+      { n: 7, f: 'Edward I: what was the Model Parliament, and how did Edward conquer Wales?', b: 'The Model Parliament (1295) included knights and townsmen as well as lords and clergy. After wars in 1277 and 1282–83 Edward conquered Wales and built castles such as Caernarfon and Conwy.' },
     ]),
   ],
 };
