@@ -11,9 +11,12 @@
  * IDS. The Unit 1 and Unit 2 sections are not numbered in syllabus-topics.ts
  * (number ''), so the validator expects ids of the form `-<n>`. To keep those
  * ids unique, each section takes its own block of n: Unit 1 Section A 101+,
- * Section B 201+; Unit 2 Section A 301+, Section B 401+. Units 3 and 4 itemise
- * no subtopics, so their ids are `3-<n>` and `4-<n>`. Ids are permanent: add a
- * card with the next unused n in its block, never renumber.
+ * Section B 201+; Unit 2 Section A 301+, Section B 401+. Unit 3 itemises no
+ * subtopics, so its ids are `3-<n>`. Unit 4 is itemised into 4a (Examination)
+ * and 4b (Non-exam assessment), so its ids are `4a-<n>` and `4b-<n>`; on
+ * 20 Nov 2026 its cards were re-filed onto 4a, and `idMigration` below moves
+ * saved progress onto the new ids. Ids are permanent: add a card with the next
+ * unused n in its block, never renumber.
  *
  * Written from Marlbridge's 9675 study guides and revision notes; no
  * revision-notes page maps to a single section, so every card is authored.
@@ -54,7 +57,20 @@ export const DECK_OXFORDAQA_A_LEVEL_ENGLISH_LITERATURE: FlashcardDeck = {
   syllabusCode: '9675',
   syllabusSeries: 'Version 5.3, for International AS exams from May/June 2018, A-level from May/June 2019',
   author: 'marlbridge-academic-team',
-  updated: '2026-11-08',
+  updated: '2026-11-20',
+  idMigration: {
+    id: '9675-subtopics-2026-11-20',
+    before: '2026-11-20',
+    map: {
+      '-101': '-101', '-102': '-102', '-103': '-103', '-104': '-104', '-105': '-105',
+      '-106': '-106', '-201': '-201', '-202': '-202', '-203': '-203', '-204': '-204',
+      '-205': '-205', '-301': '-301', '-302': '-302', '-303': '-303', '-304': '-304',
+      '-401': '-401', '-402': '-402', '-403': '-403', '-404': '-404', '3-1': '3-1',
+      '3-2': '3-2', '3-3': '3-3', '3-4': '3-4', '3-5': '3-5', '3-6': '3-6',
+      '3-7': '3-7', '4-1': '4a-1', '4-2': '4a-2', '4-3': '4a-3', '4-4': '4a-4',
+      '4-5': '4a-5', '4-6': '4a-6',
+    },
+  },
   cards: [
     // 1 Unit 1 Aspects of Dramatic Tragedy -- Section A
     ...sub(U1, 'unit-1-section-a-9675', '', [
@@ -101,7 +117,7 @@ export const DECK_OXFORDAQA_A_LEVEL_ENGLISH_LITERATURE: FlashcardDeck = {
     ]),
 
     // 4 Unit 4 Literary Representations
-    ...topicOnly('unit-4-literary-representations-9675', '4', [
+    ...sub('unit-4-literary-representations-9675', 'unit-4a-examination-9675', '4a', [
       { n: 1, f: 'What does representation mean in Unit 4?', b: 'The way a text portrays a person, group, place, event or idea through choices of language, structure, viewpoint and form: a construction, not a mirror.' },
       { n: 2, f: 'What questions should you ask about a representation?', b: 'Who is represented and who is missing or silent; who does the representing; what is emphasised or left out; what attitude is invited; and whether it stays stable.' },
       { n: 3, f: 'How does narrative viewpoint shape representation?', b: 'First person presents others subjectively, possibly unreliably. Third person can seem objective but still guides judgement through selection and tone.' },
