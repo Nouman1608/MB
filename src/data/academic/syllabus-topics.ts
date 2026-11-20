@@ -4163,8 +4163,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2024', effectiveTo: '2026', status: 'current',
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
-    sourceUrl: 'https://www.cambridgeinternational.org/Images/634453-2024-2026-syllabus.pdf', verifiedDate: '2026-08-19',
-    notes: 'This is the simplest English Language syllabus in the Marlbridge taxonomy: content is organised only into two skill strands (Reading, Writing) assessed by Paper 1 Reading (50%) and Paper 2 Writing (50%), with no further named sub-sections. Version 2, published December 2022.',
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/634453-2024-2026-syllabus.pdf', verifiedDate: '2026-11-20',
+    notes: 'This is the simplest English Language syllabus in the Marlbridge taxonomy: content is organised only into two skill strands (Reading, Writing) assessed by Paper 1 Reading (50%) and Paper 2 Writing (50%). The Subject content section prints no sub-headings under either strand, so they have no subtopics (checked against the PDF on 2026-11-20). Version 2, published December 2022.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Reading', slug: 'reading-1123', subtopics: [] },
       { number: 2, name: 'Writing', slug: 'writing-1123', subtopics: [] },
@@ -4176,8 +4177,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2026', effectiveTo: '2026', status: 'current',
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
-    sourceUrl: 'https://www.cambridgeinternational.org/Images/697163-2026-syllabus.pdf', verifiedDate: '2026-08-19',
-    notes: 'Literature syllabuses are organised around named papers, not a topic taxonomy, and their set texts rotate by examination year, so this entry represents the syllabus’s structural components only — it does not encode the 2026 set-text list (which will differ in future years). Candidates take Paper 1 plus EITHER Paper 2 OR (Paper 3 + Paper 4) OR (Paper 3 + Component 5). Version 2, published December 2025, valid for the 2026 series only.',
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/697163-2026-syllabus.pdf', verifiedDate: '2026-11-20',
+    notes: 'Literature syllabuses are organised around named papers, not a topic taxonomy, and their set texts rotate by examination year, so this entry represents the syllabus’s structural components only. It does not encode the 2026 set-text list (which will differ in future years). Candidates take Paper 1 plus EITHER Paper 2 OR (Paper 3 + Paper 4) OR (Paper 3 + Component 5). Version 2, published December 2025, valid for the 2026 series only. Checked against the PDF on 2026-11-20: Paper 1 prints Section A: Poetry and Section B: Prose, and Papers 2, 3, 4 and Component 5 print no sub-headings, so they have no subtopics.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Paper 1 – Poetry and Prose', slug: 'paper-1-poetry-and-prose-0475', subtopics: [
         { number: '1.1', name: 'Section A: Poetry', slug: 'section-a-poetry-0475' },
