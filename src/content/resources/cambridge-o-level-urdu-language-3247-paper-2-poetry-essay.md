@@ -12,6 +12,7 @@ order: 2.2
 syllabusTopics:
   - qualification: "o-level"
     topic: "fl-paper-2-texts-3247"
+    subtopic: "part-2-poetry-3247"
 description: "Writing the 15-mark essay on the prescribed ghazals and nazms in 3247 Paper 2 Part 2: reading the question, ghazal and nazm form, using quotation and planning."
 author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"

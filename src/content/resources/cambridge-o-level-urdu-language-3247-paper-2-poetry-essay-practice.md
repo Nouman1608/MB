@@ -12,6 +12,7 @@ order: 2.2
 syllabusTopics:
   - qualification: "o-level"
     topic: "fl-paper-2-texts-3247"
+    subtopic: "part-2-poetry-3247"
 description: "Original form, planning and paragraph tasks plus full 15-mark essays on the prescribed poems for 3247 Paper 2 Part 2, with model Urdu answers."
 author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"

@@ -12,6 +12,7 @@ order: 3.1
 syllabusTopics:
   - qualification: "o-level"
     topic: "sl-paper-1-reading-writing-3248"
+    subtopic: "exercise-3-note-making-3248"
 description: "Condensed notes on 3248 Paper 1 Exercise 3 Note-making: the task facts, what a good Urdu note looks like, mapping to headings, traps and a self-test."
 author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"

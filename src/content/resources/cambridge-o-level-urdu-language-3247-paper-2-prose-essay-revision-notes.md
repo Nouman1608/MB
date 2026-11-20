@@ -12,6 +12,7 @@ order: 2.3
 syllabusTopics:
   - qualification: "o-level"
     topic: "fl-paper-2-texts-3247"
+    subtopic: "part-3-prose-3247"
 description: "Condensed notes for the 3247 Paper 2 Prose question: the eight set items, question shapes, prose methods, empathic voice rules and a self-test."
 author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"

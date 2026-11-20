@@ -13,6 +13,7 @@ order: 4.1
 syllabusTopics:
   - qualification: "a-level"
     topic: "component-4-cambridge-research-report-9239"
+    subtopic: "research-methods-and-methodology-9239"
 description: "Original practice on 9239 Research Report methods: matching methods to questions, search strategies, survey wording, data definitions, ethics and limits."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"

@@ -12,6 +12,7 @@ order: 1.1
 syllabusTopics:
   - qualification: "o-level"
     topic: "fl-paper-1-reading-writing-3247"
+    subtopic: "part-1-reading-3247"
 description: "How to answer the 3247 Paper 1 Part 1 comprehension questions on a 400-word non-literary Urdu text, objective by objective, with an annotated example."
 author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"

@@ -12,6 +12,7 @@ order: 1.1
 syllabusTopics:
   - qualification: "o-level"
     topic: "fl-paper-1-reading-writing-3247"
+    subtopic: "part-1-reading-3247"
 description: "Condensed notes on 3247 Paper 1 Part 1 Reading: the four reading objectives, question words, answer length, own-words methods, traps and a self-test."
 author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"

@@ -12,6 +12,7 @@ order: 4.2
 syllabusTopics:
   - qualification: "o-level"
     topic: "sl-paper-2-grammar-writing-translation-3248"
+    subtopic: "exercise-4-translation-3248"
 description: "Translating the 150-word English passage into Urdu for 3248 Paper 2 Exercise 4: word order, tenses, articles, gender, idiom and register, with an example."
 author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"

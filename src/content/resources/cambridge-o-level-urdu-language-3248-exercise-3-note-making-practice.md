@@ -12,6 +12,7 @@ order: 3.1
 syllabusTopics:
   - qualification: "o-level"
     topic: "sl-paper-1-reading-writing-3248"
+    subtopic: "exercise-3-note-making-3248"
 description: "Original note-making drills and a full 9-mark Exercise 3 task on a new Urdu blog for 3248 Paper 1, with model notes, marking points and common errors."
 author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"

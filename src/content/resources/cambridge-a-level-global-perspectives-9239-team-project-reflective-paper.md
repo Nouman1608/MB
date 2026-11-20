@@ -13,6 +13,7 @@ order: 3.2
 syllabusTopics:
   - qualification: "a-level"
     topic: "component-3-team-project-9239"
+    subtopic: "reflective-paper-9239"
 description: "How to write the 800-word 9239 Team Project reflective paper: evaluating collaboration with evidence, proposing improvements and reflecting on learning."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"

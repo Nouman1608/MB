@@ -13,6 +13,7 @@ order: 4.1
 syllabusTopics:
   - qualification: "a-level"
     topic: "component-4-cambridge-research-report-9239"
+    subtopic: "research-methods-and-methodology-9239"
 description: "Recall notes on methods in the 9239 Research Report: question types, design decisions for each method, ethics, the methods section and its limits."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
