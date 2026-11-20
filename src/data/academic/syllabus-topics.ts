@@ -5668,13 +5668,24 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2026', effectiveTo: '2028', status: 'current',
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
-    sourceUrl: 'https://www.cambridgeinternational.org/Images/697359-2026-2028-syllabus.pdf', verifiedDate: '2026-08-21',
-    notes: "Cambridge International AS & A Level Global Perspectives & Research (9239) develops research, reasoning and communication skills through an approach called the Critical Path, rather than a numbered content taxonomy. Staged: AS Level comprises Components 1-3 (Written Exam, Essay, Team Project); the full A Level adds Component 4 (Cambridge Research Report). Three routes exist: AS Level only (Components 1-3 in one series), A Level staged over two years (Components 1-3 in Year 1, Component 4 in Year 2), or A Level with all four components in the same series. Verified directly from the official syllabus PDF's Syllabus overview and Details of the assessment sections, fetched 2026-08-21.",
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/697359-2026-2028-syllabus.pdf', verifiedDate: '2026-11-20',
+    notes: "Cambridge International AS & A Level Global Perspectives & Research (9239) develops research, reasoning and communication skills through an approach called the Critical Path, rather than a numbered content taxonomy. Staged: AS Level comprises Components 1-3 (Written Exam, Essay, Team Project); the full A Level adds Component 4 (Cambridge Research Report). Three routes exist: AS Level only (Components 1-3 in one series), A Level staged over two years (Components 1-3 in Year 1, Component 4 in Year 2), or A Level with all four components in the same series. Checked again on 2026-11-20 against the official syllabus PDF (Version 4). The syllabus prints no numbered subject content. Subtopics 3.1-3.2 and 4.1-4.6 are the sub-headings printed under Component 3 and Component 4 in Details of the assessment, numbered in the order they appear. Components 1 and 2 print no sub-headings of their own, so they have no subtopics.",
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Component 1 – Written Exam', slug: 'component-1-written-exam-9239', stage: 'AS', subtopics: [] },
       { number: 2, name: 'Component 2 – Essay', slug: 'component-2-essay-9239', stage: 'AS', subtopics: [] },
-      { number: 3, name: 'Component 3 – Team Project', slug: 'component-3-team-project-9239', stage: 'AS', subtopics: [] },
-      { number: 4, name: 'Component 4 – Cambridge Research Report', slug: 'component-4-cambridge-research-report-9239', stage: 'A', subtopics: [] },
+      { number: 3, name: 'Component 3 – Team Project', slug: 'component-3-team-project-9239', stage: 'AS', subtopics: [
+        { number: '3.1', name: 'Presentation', slug: 'presentation-9239' },
+        { number: '3.2', name: 'Reflective paper', slug: 'reflective-paper-9239' },
+      ] },
+      { number: 4, name: 'Component 4 – Cambridge Research Report', slug: 'component-4-cambridge-research-report-9239', stage: 'A', subtopics: [
+        { number: '4.1', name: 'Initial preparation and research proposal', slug: 'initial-preparation-and-research-proposal-9239' },
+        { number: '4.2', name: 'Evidence', slug: 'evidence-9239' },
+        { number: '4.3', name: 'Research methods and methodology', slug: 'research-methods-and-methodology-9239' },
+        { number: '4.4', name: 'Research log', slug: 'research-log-9239' },
+        { number: '4.5', name: 'Perspectives', slug: 'perspectives-9239' },
+        { number: '4.6', name: 'Structuring and presenting the Cambridge Research Report', slug: 'structuring-and-presenting-the-cambridge-research-report-9239' },
+      ] },
     ],
   },
   {

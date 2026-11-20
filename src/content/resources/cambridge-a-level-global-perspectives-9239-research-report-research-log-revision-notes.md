@@ -13,6 +13,7 @@ order: 4.2
 syllabusTopics:
   - qualification: "a-level"
     topic: "component-4-cambridge-research-report-9239"
+    subtopic: "research-log-9239"
 description: "Recall notes on the 9239 research log: syllabus rules, record-plan-reflect, what to log at each stage, entry types, habits, traps and a self-test."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"

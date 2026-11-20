@@ -13,6 +13,7 @@ order: 4.2
 syllabusTopics:
   - qualification: "a-level"
     topic: "component-4-cambridge-research-report-9239"
+    subtopic: "research-log-9239"
 description: "Original practice on the 9239 research log: labelling record, plan and reflect, writing source, feedback, decision and finding entries, and judging logs."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"

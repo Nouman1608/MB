@@ -13,6 +13,7 @@ order: 3.1
 syllabusTopics:
   - qualification: "a-level"
     topic: "component-3-team-project-9239"
+    subtopic: "presentation-9239"
 description: "Recall notes on the 9239 Team Project presentation: the seven assessed skills, analysing the problem, effective and workable solutions, AO3 and a self-test."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"

@@ -13,6 +13,7 @@ order: 3.1
 syllabusTopics:
   - qualification: "a-level"
     topic: "component-3-team-project-9239"
+    subtopic: "presentation-9239"
 description: "How to build the 30-mark 9239 Team Project presentation: analysing the problem, researching your perspective and justifying a workable solution."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"

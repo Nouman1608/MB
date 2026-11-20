@@ -13,6 +13,7 @@ order: 3.1
 syllabusTopics:
   - qualification: "a-level"
     topic: "component-3-team-project-9239"
+    subtopic: "presentation-9239"
 description: "Original practice on the 9239 Team Project presentation: analysing problems, testing solutions, spoken source evaluation, timing and AO3 communication."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
