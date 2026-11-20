@@ -13,6 +13,9 @@ order: 5
 syllabusTopics:
   - qualification: "igcse"
     topic: "use-of-biological-resources-edexcel-igcse-biology"
+  - qualification: "igcse"
+    topic: "use-of-biological-resources-edexcel-igcse-biology"
+    subtopic: "genetic-modification-genetic-engineering-4bi1"
 description: "Revision notes for Edexcel IGCSE Biology 4BI1 Topic 5: food production, fermenters, selective breeding, GM and cloning, with a quick self-test."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
