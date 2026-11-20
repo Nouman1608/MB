@@ -6,11 +6,13 @@
  * marks with a "C" reference (bold) is assessed on Paper 2 only; those cards say
  * "(Paper 2 only)" on the card itself, following the Marlbridge 4CH1 notes.
  *
- * Topics 1 and 2 are itemised into sub-topics (1a-1i, a-h), so ids are
- * `<sub-topic number>-<n>`. Topics 3 and 4 itemise no sub-topics in the
- * syllabus record, so their cards sit on the topic and ids are `<topic>-<n>`.
- * Ids are permanent (browser progress is keyed by them): add a new card with
- * the next unused n, never renumber.
+ * Every topic is itemised into sub-topics (1a-1i, 2a-2h, 3a-3c, 4a-4h), so ids
+ * are `<sub-topic number>-<n>`. The syllabus record now numbers Topic 2's
+ * sub-topics 2a-2h (they were a-h), so those cards were renumbered too, and
+ * on 20 Nov 2026 the cards on Topics 3 and 4 were re-filed under their
+ * sub-topics. `idMigration` below moves saved progress onto the new ids. Ids
+ * are permanent (browser progress is keyed by them): add a new card with the
+ * next unused n, never renumber.
  *
  *   src: '...'  The card restates that revision-notes page (found with
  *               scripts/flashcard-candidates.mjs 4CH1); origin 'revision-notes'.
@@ -32,17 +34,6 @@ const sub = (topic: string, subtopic: string, number: string, specs: Spec[]): Fl
     ...(src ? { source: src } : {}),
   }));
 
-/** For a topic that itemises no subtopics: the card sits on the topic alone. */
-const topicOnly = (topic: string, number: string, specs: Spec[]): Flashcard[] =>
-  specs.map(({ n, f, b, src }) => ({
-    id: `${number}-${n}`,
-    topic,
-    front: f,
-    back: b,
-    origin: src ? 'revision-notes' as const : 'authored' as const,
-    ...(src ? { source: src } : {}),
-  }));
-
 const P = 'principles-of-chemistry-4ch1';
 const I = 'inorganic-chemistry-4ch1';
 
@@ -58,8 +49,51 @@ export const DECK_EDEXCEL_IGCSE_CHEMISTRY: FlashcardDeck = {
   syllabusCode: '4CH1',
   syllabusSeries: 'Issue 3, September 2024',
   author: 'marlbridge-academic-team',
-  updated: '2026-11-05',
+  updated: '2026-11-20',
   deckReview: { reviewerSlug: 'nouman-ahmed', reviewedOn: '2026-11-05' },
+  idMigration: {
+    id: '4ch1-subtopics-2026-11-20',
+    before: '2026-11-20',
+    map: {
+      '1a-1': '1a-1', '1a-2': '1a-2', '1a-3': '1a-3', '1a-4': '1a-4', '1a-5': '1a-5',
+      '1a-6': '1a-6', '1a-7': '1a-7', '1a-8': '1a-8', '1a-9': '1a-9', '1a-10': '1a-10',
+      '1a-11': '1a-11', '1a-12': '1a-12', '1a-13': '1a-13', '1a-14': '1a-14', '1b-1': '1b-1',
+      '1b-2': '1b-2', '1b-3': '1b-3', '1b-4': '1b-4', '1b-5': '1b-5', '1b-6': '1b-6',
+      '1b-7': '1b-7', '1b-8': '1b-8', '1b-9': '1b-9', '1b-10': '1b-10', '1c-1': '1c-1',
+      '1c-2': '1c-2', '1c-3': '1c-3', '1c-4': '1c-4', '1c-5': '1c-5', '1c-6': '1c-6',
+      '1c-7': '1c-7', '1c-8': '1c-8', '1c-9': '1c-9', '1c-10': '1c-10', '1d-1': '1d-1',
+      '1d-2': '1d-2', '1d-3': '1d-3', '1d-4': '1d-4', '1d-5': '1d-5', '1d-6': '1d-6',
+      '1d-7': '1d-7', '1d-8': '1d-8', '1e-1': '1e-1', '1e-2': '1e-2', '1e-3': '1e-3',
+      '1e-4': '1e-4', '1e-5': '1e-5', '1e-6': '1e-6', '1e-7': '1e-7', '1e-8': '1e-8',
+      '1e-9': '1e-9', '1e-10': '1e-10', '1e-11': '1e-11', '1e-12': '1e-12', '1e-13': '1e-13',
+      '1e-14': '1e-14', '1f-1': '1f-1', '1f-2': '1f-2', '1f-3': '1f-3', '1f-4': '1f-4',
+      '1f-5': '1f-5', '1f-6': '1f-6', '1f-7': '1f-7', '1f-8': '1f-8', '1f-9': '1f-9',
+      '1g-1': '1g-1', '1g-2': '1g-2', '1g-3': '1g-3', '1g-4': '1g-4', '1g-5': '1g-5',
+      '1g-6': '1g-6', '1g-7': '1g-7', '1g-8': '1g-8', '1g-9': '1g-9', '1g-10': '1g-10',
+      '1h-1': '1h-1', '1h-2': '1h-2', '1h-3': '1h-3', '1h-4': '1h-4', '1h-5': '1h-5',
+      '1i-1': '1i-1', '1i-2': '1i-2', '1i-3': '1i-3', '1i-4': '1i-4', '1i-5': '1i-5',
+      '1i-6': '1i-6', '1i-7': '1i-7', '1i-8': '1i-8', '1i-9': '1i-9', '1i-10': '1i-10',
+      'a-1': '2a-1', 'a-2': '2a-2', 'a-3': '2a-3', 'a-4': '2a-4', 'a-5': '2a-5',
+      'a-6': '2a-6', 'a-7': '2a-7', 'b-1': '2b-1', 'b-2': '2b-2', 'b-3': '2b-3',
+      'b-4': '2b-4', 'b-5': '2b-5', 'b-6': '2b-6', 'b-7': '2b-7', 'b-8': '2b-8',
+      'c-1': '2c-1', 'c-2': '2c-2', 'c-3': '2c-3', 'c-4': '2c-4', 'c-5': '2c-5',
+      'c-6': '2c-6', 'c-7': '2c-7', 'c-8': '2c-8', 'd-1': '2d-1', 'd-2': '2d-2',
+      'd-3': '2d-3', 'd-4': '2d-4', 'd-5': '2d-5', 'd-6': '2d-6', 'd-7': '2d-7',
+      'd-8': '2d-8', 'e-1': '2e-1', 'e-2': '2e-2', 'e-3': '2e-3', 'e-4': '2e-4',
+      'e-5': '2e-5', 'e-6': '2e-6', 'e-7': '2e-7', 'e-8': '2e-8', 'e-9': '2e-9',
+      'e-10': '2e-10', 'f-1': '2f-1', 'f-2': '2f-2', 'f-3': '2f-3', 'f-4': '2f-4',
+      'f-5': '2f-5', 'f-6': '2f-6', 'f-7': '2f-7', 'f-8': '2f-8', 'g-1': '2g-1',
+      'g-2': '2g-2', 'g-3': '2g-3', 'g-4': '2g-4', 'g-5': '2g-5', 'g-6': '2g-6',
+      'g-7': '2g-7', 'g-8': '2g-8', 'g-9': '2g-9', 'h-1': '2h-1', 'h-2': '2h-2',
+      'h-3': '2h-3', 'h-4': '2h-4', 'h-5': '2h-5', 'h-6': '2h-6', 'h-7': '2h-7',
+      'h-8': '2h-8', 'h-9': '2h-9', 'h-10': '2h-10', '3-1': '3a-1', '3-2': '3a-2',
+      '3-3': '3a-3', '3-4': '3a-4', '3-5': '3a-5', '3-6': '3b-1', '3-7': '3b-2',
+      '3-8': '3b-3', '3-9': '3b-4', '3-10': '3c-1', '3-11': '3c-2', '3-12': '3c-3',
+      '4-1': '4a-1', '4-2': '4a-2', '4-3': '4b-1', '4-4': '4b-2', '4-5': '4b-3',
+      '4-6': '4b-4', '4-7': '4c-1', '4-8': '4d-1', '4-9': '4e-1', '4-10': '4g-1',
+      '4-11': '4h-1', '4-12': '4h-2',
+    },
+  },
   cards: [
     // 1 Principles of chemistry
     ...sub(P, 'states-of-matter-4ch1', '1a', [
@@ -172,7 +206,7 @@ export const DECK_EDEXCEL_IGCSE_CHEMISTRY: FlashcardDeck = {
     ]),
 
     // 2 Inorganic chemistry
-    ...sub(I, 'group-1-alkali-metals-4ch1', 'a', [
+    ...sub(I, 'group-1-alkali-metals-4ch1', '2a', [
       { n: 1, f: 'Observations when lithium, sodium or potassium is added to water', b: 'Floats (less dense than water), fizzes (hydrogen), moves around, gets smaller and disappears; universal indicator turns blue/purple (alkaline hydroxide).' },
       { n: 2, f: 'General equation for an alkali metal with water', b: 'metal + water → metal hydroxide + hydrogen\n2M(s) + 2H₂O(l) → 2MOH(aq) + H₂(g)' },
       { n: 3, f: 'Lithium, sodium and potassium with water: how do they differ?', b: 'Lithium fizzes steadily and stays solid. Sodium fizzes rapidly and melts into a ball. Potassium reacts violently; the hydrogen ignites with a lilac flame.' },
@@ -181,7 +215,7 @@ export const DECK_EDEXCEL_IGCSE_CHEMISTRY: FlashcardDeck = {
       { n: 6, f: 'Formulae of caesium hydroxide and rubidium oxide', b: 'CsOH and Rb₂O — every Group 1 metal forms a 1+ ion.' },
       { n: 7, f: 'Explain why reactivity increases down Group 1 (Paper 2 only)', b: 'More occupied shells, so the outer electron is further from the nucleus, with more shielding. The attraction to the nucleus is weaker, so the outer electron is lost more easily.' },
     ]),
-    ...sub(I, 'group-7-halogens-4ch1', 'b', [
+    ...sub(I, 'group-7-halogens-4ch1', '2b', [
       { n: 1, f: 'Appearance of chlorine, bromine and iodine at room temperature', b: 'Chlorine: pale green (yellow-green) gas.\nBromine: red-brown liquid (orange-brown vapour).\nIodine: grey-black solid (purple vapour).' },
       { n: 2, f: 'Group 7 trends down the group', b: 'Colour darkens; gas → liquid → solid; melting and boiling points increase; reactivity decreases.' },
       { n: 3, f: 'Predict the state and colour of fluorine, and of astatine', b: 'Fluorine: a gas, paler than chlorine (pale yellow).\nAstatine: a solid, darker than iodine (black).' },
@@ -191,7 +225,7 @@ export const DECK_EDEXCEL_IGCSE_CHEMISTRY: FlashcardDeck = {
       { n: 7, f: 'In Cl₂ + 2Br⁻ → 2Cl⁻ + Br₂, what is oxidised and what is reduced?', b: 'Bromide ions are oxidised (lose electrons). Chlorine is reduced (gains electrons) — it is the oxidising agent.' },
       { n: 8, f: 'Explain why reactivity decreases down Group 7 (Paper 2 only)', b: 'The outer shell is further from the nucleus, with more shielding, so the attraction for an incoming electron is weaker and an electron is gained less easily.' },
     ]),
-    ...sub(I, 'gases-in-the-atmosphere-4ch1', 'c', [
+    ...sub(I, 'gases-in-the-atmosphere-4ch1', '2c', [
       { n: 1, f: 'Composition of dry air: the four most abundant gases', b: 'Nitrogen 78%, oxygen 21%, argon 0.9%, carbon dioxide 0.04% (by volume).' },
       { n: 2, f: 'Three ways to find the percentage of oxygen in air', b: 'Damp iron wool rusting in an inverted measuring cylinder over water; burning phosphorus over water; passing air over hot copper between two gas syringes.' },
       { n: 3, f: '200 cm³ of air over damp iron wool falls to a constant 158 cm³. Percentage of oxygen?', b: '(200 − 158) ÷ 200 × 100 = 21.0%. Always divide by the starting volume.' },
@@ -201,7 +235,7 @@ export const DECK_EDEXCEL_IGCSE_CHEMISTRY: FlashcardDeck = {
       { n: 7, f: 'Heating a carbonate with a delivery tube into limewater: why remove the tube before stopping heating?', b: 'To prevent suck-back of cold limewater into the hot tube.' },
       { n: 8, f: 'How does carbon dioxide affect the Earth’s temperature?', b: 'The surface gives out infrared radiation; CO₂ absorbs some and re-emits some back. More CO₂ (burning fossil fuels, deforestation) keeps more heat in, which may contribute to climate change.' },
     ]),
-    ...sub(I, 'reactivity-series-4ch1', 'd', [
+    ...sub(I, 'reactivity-series-4ch1', '2d', [
       { n: 1, f: 'The 4CH1 reactivity series, most to least reactive', b: 'Potassium, sodium, lithium, calcium, magnesium, aluminium, zinc, iron, copper, silver, gold.' },
       { n: 2, f: 'Which reactions are used to place metals in the reactivity series?', b: 'Reactions with water; with dilute hydrochloric or sulfuric acid; and displacement reactions (metal + metal oxide, metal + aqueous metal salt).' },
       { n: 3, f: 'Will zinc react with copper(II) sulfate solution?', b: 'Yes. Zinc is more reactive than copper, so it displaces it: zinc sulfate and copper metal form. Zinc is oxidised (Zn → Zn²⁺); copper ions are reduced (Cu²⁺ → Cu).' },
@@ -211,7 +245,7 @@ export const DECK_EDEXCEL_IGCSE_CHEMISTRY: FlashcardDeck = {
       { n: 7, f: 'Conditions needed for iron to rust', b: 'Both water and oxygen together; neither alone is enough.' },
       { n: 8, f: 'Three ways to prevent rusting, and how each works', b: 'Barrier (paint, oil): keeps out water and oxygen.\nGalvanising: a zinc coating — a barrier, and sacrificial if scratched.\nSacrificial protection: a more reactive metal (zinc, magnesium) corrodes instead of the iron.' },
     ]),
-    ...sub(I, 'extraction-and-uses-of-metals-4ch1', 'e', [
+    ...sub(I, 'extraction-and-uses-of-metals-4ch1', '2e', [
       { n: 1, f: 'Ore (Paper 2 only)', b: 'A rock containing enough of a metal compound to make extracting the metal worthwhile.' },
       { n: 2, f: 'Why is gold found as the uncombined element? (Paper 2 only)', b: 'It is very unreactive, so it does not react with substances in the ground.' },
       { n: 3, f: 'How does reactivity decide the extraction method? (Paper 2 only)', b: 'Carbon sits between aluminium and zinc. Below carbon (Zn, Fe, Cu): heat the oxide with carbon. Above carbon: electrolysis of a molten compound, because carbon cannot remove the oxygen.' },
@@ -223,7 +257,7 @@ export const DECK_EDEXCEL_IGCSE_CHEMISTRY: FlashcardDeck = {
       { n: 9, f: 'Alloy, and why an alloy is harder than the pure metal (Paper 2 only)', b: 'A mixture of a metal with one or more other elements. Atoms of a different size distort the regular layers, so the layers slide over each other less easily.' },
       { n: 10, f: 'Maximum mass of iron from 400 tonnes of Fe₂O₃ (Ar: Fe = 56, O = 16) (Paper 2 only)', b: 'Mr Fe₂O₃ = 160, containing 112 of iron. 400 × 112 ÷ 160 = 280 tonnes.' },
     ]),
-    ...sub(I, 'acids-alkalis-and-titrations-4ch1', 'f', [
+    ...sub(I, 'acids-alkalis-and-titrations-4ch1', '2f', [
       { n: 1, f: 'Colours of litmus, phenolphthalein and methyl orange in acid and in alkali', b: 'Litmus: red in acid, blue in alkali.\nPhenolphthalein: colourless in acid, pink in alkali.\nMethyl orange: red in acid, yellow in alkali.' },
       { n: 2, f: 'pH bands', b: '0–3 strongly acidic; 4–6 weakly acidic; 7 neutral; 8–10 weakly alkaline; 11–14 strongly alkaline.' },
       { n: 3, f: 'Universal indicator colours at pH 1, 7 and 14', b: 'pH 1: red. pH 7: green. pH 14: purple. It gives only an approximate pH.' },
@@ -233,7 +267,7 @@ export const DECK_EDEXCEL_IGCSE_CHEMISTRY: FlashcardDeck = {
       { n: 7, f: 'Titres: 19.10 (rough), 18.45, 18.80, 18.50, 18.40 cm³. Mean titre? (Paper 2 only)', b: 'Use only the concordant titres (within 0.10 cm³): (18.45 + 18.50 + 18.40) ÷ 3 = 18.45 cm³.' },
       { n: 8, f: 'Why is universal indicator not used in a titration? (Paper 2 only)', b: 'It changes colour gradually, so there is no sharp end point.' },
     ]),
-    ...sub(I, 'acids-bases-and-salt-preparations-4ch1', 'g', [
+    ...sub(I, 'acids-bases-and-salt-preparations-4ch1', '2g', [
       { n: 1, f: 'Which salts are always soluble?', b: 'All sodium, potassium and ammonium compounds, and all nitrates.' },
       { n: 2, f: 'Insoluble chlorides and insoluble sulfates', b: 'Chlorides: silver and lead(II).\nSulfates: barium, calcium and lead(II).' },
       { n: 3, f: 'Which carbonates and hydroxides are soluble?', b: 'Carbonates: sodium, potassium, ammonium.\nHydroxides: sodium, potassium, and calcium (only slightly).' },
@@ -244,7 +278,7 @@ export const DECK_EDEXCEL_IGCSE_CHEMISTRY: FlashcardDeck = {
       { n: 8, f: 'Making a soluble sodium, potassium or ammonium salt (Paper 2 only)', b: 'Titrate to find the volumes needed, then mix the same volumes again without indicator, and crystallise. Both reactants are soluble, so there is no excess to filter off.' },
       { n: 9, f: 'Making an insoluble salt such as lead(II) sulfate (Paper 2 only)', b: 'Mix two solutions (e.g. lead(II) nitrate and a soluble sulfate), filter off the precipitate, wash with distilled water, dry.\nPb²⁺(aq) + SO₄²⁻(aq) → PbSO₄(s)' },
     ]),
-    ...sub(I, 'chemical-tests-4ch1', 'h', [
+    ...sub(I, 'chemical-tests-4ch1', '2h', [
       { n: 1, f: 'Tests for hydrogen and oxygen', b: 'Hydrogen: lighted splint at the mouth of the tube — squeaky pop.\nOxygen: glowing splint — relights.' },
       { n: 2, f: 'Tests for carbon dioxide, ammonia and chlorine', b: 'CO₂: bubble through limewater — turns milky.\nNH₃: damp red litmus paper — turns blue.\nCl₂: damp litmus paper — bleached white.' },
       { n: 3, f: 'Flame test: method', b: 'Clean a nichrome or platinum wire in concentrated HCl and heat until there is no colour; dip it in the acid then the solid; hold it in a blue (non-luminous) Bunsen flame; record the colour.' },
@@ -258,35 +292,51 @@ export const DECK_EDEXCEL_IGCSE_CHEMISTRY: FlashcardDeck = {
     ]),
 
     // 3 Physical chemistry (no subtopics itemised)
-    ...topicOnly('physical-chemistry-4ch1', '3', [
+    ...sub('physical-chemistry-4ch1', 'energetics-4ch1', '3a', [
       { n: 1, f: 'Exothermic and endothermic: heat, surroundings and sign of ΔH', b: 'Exothermic: heat given out, surroundings get hotter, ΔH negative.\nEndothermic: heat taken in, surroundings get colder, ΔH positive.' },
       { n: 2, f: 'Calculating ΔH from a calorimetry experiment', b: 'Q = m × c × ΔT (m = mass of water or solution, not the fuel). Convert to kJ (÷ 1000). ΔH = Q ÷ moles of the reactant not in excess. Temperature rose → negative sign.' },
       { n: 3, f: '200 g of water warms by 15.0 °C. Calculate Q. (c = 4.2 J/g/°C)', b: 'Q = 200 × 4.2 × 15.0 = 12 600 J (12.6 kJ)' },
       { n: 4, f: 'Bond breaking and bond making: which is endothermic, and how is ΔH found from bond energies? (Paper 2 only)', b: 'Breaking is endothermic; making is exothermic.\nΔH = total energy of bonds broken − total energy of bonds made.' },
       { n: 5, f: 'Activation energy vs ΔH on a reaction profile', b: 'Activation energy: from the reactants line up to the peak.\nΔH: from the reactants line to the products line.', src: PHYS },
-      { n: 6, f: 'Why does raising the temperature increase the rate? (two reasons)', b: 'Particles move faster, so they collide more often, and a greater proportion of collisions have energy equal to or greater than the activation energy.' },
-      { n: 7, f: 'More collisions vs more successful collisions', b: 'Only temperature and catalysts change the proportion of collisions that succeed. Concentration, pressure and surface area just make collisions more frequent.', src: PHYS },
-      { n: 8, f: 'Catalyst', b: 'A substance that increases the rate of a reaction and is chemically unchanged at the end. It provides an alternative pathway with a lower activation energy; ΔH is unchanged.' },
-      { n: 9, f: 'Marble chips + dilute HCl rate practical: what to measure and what to keep the same', b: 'Measure mass loss (cotton wool plug) or gas volume at regular times. Change chip size or acid concentration only; keep the mass of chips, volume of acid and temperature the same.', src: PHYS },
-      { n: 10, f: 'Heating hydrated copper(II) sulfate, then adding water to the product', b: 'Heating: blue → white (endothermic).\nAdding water: white → blue, and it gets hot (exothermic).' },
-      { n: 11, f: 'Equal rates vs equal concentrations at equilibrium (Paper 2 only)', b: 'At dynamic equilibrium the forward and reverse rates are equal; the concentrations stay constant, but are not necessarily equal. It needs a sealed container.', src: PHYS },
-      { n: 12, f: 'Effect of temperature, pressure and a catalyst on the position of equilibrium (Paper 2 only)', b: 'Temperature up: shifts in the endothermic direction.\nPressure up: shifts to the side with fewer moles of gas.\nCatalyst: no change in position — equilibrium is reached sooner.' },
+    ]),
+    ...sub('physical-chemistry-4ch1', 'rates-of-reaction-4ch1', '3b', [
+      { n: 1, f: 'Why does raising the temperature increase the rate? (two reasons)', b: 'Particles move faster, so they collide more often, and a greater proportion of collisions have energy equal to or greater than the activation energy.' },
+      { n: 2, f: 'More collisions vs more successful collisions', b: 'Only temperature and catalysts change the proportion of collisions that succeed. Concentration, pressure and surface area just make collisions more frequent.', src: PHYS },
+      { n: 3, f: 'Catalyst', b: 'A substance that increases the rate of a reaction and is chemically unchanged at the end. It provides an alternative pathway with a lower activation energy; ΔH is unchanged.' },
+      { n: 4, f: 'Marble chips + dilute HCl rate practical: what to measure and what to keep the same', b: 'Measure mass loss (cotton wool plug) or gas volume at regular times. Change chip size or acid concentration only; keep the mass of chips, volume of acid and temperature the same.', src: PHYS },
+    ]),
+    ...sub('physical-chemistry-4ch1', 'reversible-reactions-and-equilibria-4ch1', '3c', [
+      { n: 1, f: 'Heating hydrated copper(II) sulfate, then adding water to the product', b: 'Heating: blue → white (endothermic).\nAdding water: white → blue, and it gets hot (exothermic).' },
+      { n: 2, f: 'Equal rates vs equal concentrations at equilibrium (Paper 2 only)', b: 'At dynamic equilibrium the forward and reverse rates are equal; the concentrations stay constant, but are not necessarily equal. It needs a sealed container.', src: PHYS },
+      { n: 3, f: 'Effect of temperature, pressure and a catalyst on the position of equilibrium (Paper 2 only)', b: 'Temperature up: shifts in the endothermic direction.\nPressure up: shifts to the side with fewer moles of gas.\nCatalyst: no change in position — equilibrium is reached sooner.' },
     ]),
 
     // 4 Organic chemistry (no subtopics itemised)
-    ...topicOnly('organic-chemistry-4ch1', '4', [
+    ...sub('organic-chemistry-4ch1', 'introduction-4ch1', '4a', [
       { n: 1, f: 'Homologous series', b: 'A family with the same general formula and functional group, similar chemical properties and a trend in physical properties; each member differs by CH₂.' },
       { n: 2, f: 'Isomers', b: 'Compounds with the same molecular formula but different structural formulae. A bent chain is not a new isomer.' },
-      { n: 3, f: 'Crude oil fractions, top to bottom, with a use for each', b: 'Refinery gases: bottled gas. Gasoline: petrol. Kerosene: aircraft fuel. Diesel: lorries, trains. Fuel oil: ships, power stations. Bitumen: roads.\nGoing down: higher boiling point, more viscous, darker.' },
-      { n: 4, f: 'Complete vs incomplete combustion', b: 'Complete (plenty of oxygen): CO₂ and H₂O.\nIncomplete: CO and/or C (soot). CO is poisonous: it reduces the blood’s capacity to carry oxygen.', src: ORG },
-      { n: 5, f: 'Nitrogen oxides vs sulfur dioxide from engines and power stations', b: 'Nitrogen oxides: N₂ and O₂ from the air react at high temperature.\nSulfur dioxide: sulfur impurities in the fuel. Both cause acid rain.', src: ORG },
-      { n: 6, f: 'Cracking: products, conditions and why it is done', b: 'Long-chain alkane → shorter alkane + alkene. Silica or alumina catalyst, 600–700 °C. Supply of long-chain fractions exceeds demand; demand for short-chain fractions such as gasoline exceeds supply.' },
-      { n: 7, f: 'Addition vs substitution', b: 'Alkenes add (one product), e.g. C₂H₄ + Br₂ → C₂H₄Br₂.\nAlkanes substitute in UV light (two products, one is HX), e.g. C₃H₈ + Cl₂ → C₃H₇Cl + HCl.', src: ORG },
-      { n: 8, f: 'Test to tell an alkene from an alkane', b: 'Bromine water: an alkene decolourises it (orange → colourless); an alkane leaves it orange.' },
-      { n: 9, f: 'Making ethanol: hydration of ethene vs fermentation (Paper 2 only)', b: 'Hydration: C₂H₄ + H₂O → C₂H₅OH; phosphoric acid catalyst, about 300 °C, 60–70 atm.\nFermentation: C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂; yeast enzymes, about 30 °C, absence of air.' },
-      { n: 10, f: 'Making an ester, with an example (Paper 2 only)', b: 'Alcohol + carboxylic acid ⇌ ester + water, with an acid catalyst. Ethanol + ethanoic acid → ethyl ethanoate, CH₃COOC₂H₅. Esters are used in food flavourings and perfumes.' },
-      { n: 11, f: 'Addition polymer', b: 'Many monomers joined as the C=C opens. The repeat unit has only single bonds in the backbone and extension bonds through the brackets.', src: ORG },
-      { n: 12, f: 'Addition vs condensation polymerisation', b: 'Addition gives one product only. Condensation also gives water — e.g. a dicarboxylic acid + a diol → polyester + water (Paper 2 only).', src: ORG },
+    ]),
+    ...sub('organic-chemistry-4ch1', 'crude-oil-4ch1', '4b', [
+      { n: 1, f: 'Crude oil fractions, top to bottom, with a use for each', b: 'Refinery gases: bottled gas. Gasoline: petrol. Kerosene: aircraft fuel. Diesel: lorries, trains. Fuel oil: ships, power stations. Bitumen: roads.\nGoing down: higher boiling point, more viscous, darker.' },
+      { n: 2, f: 'Complete vs incomplete combustion', b: 'Complete (plenty of oxygen): CO₂ and H₂O.\nIncomplete: CO and/or C (soot). CO is poisonous: it reduces the blood’s capacity to carry oxygen.', src: ORG },
+      { n: 3, f: 'Nitrogen oxides vs sulfur dioxide from engines and power stations', b: 'Nitrogen oxides: N₂ and O₂ from the air react at high temperature.\nSulfur dioxide: sulfur impurities in the fuel. Both cause acid rain.', src: ORG },
+      { n: 4, f: 'Cracking: products, conditions and why it is done', b: 'Long-chain alkane → shorter alkane + alkene. Silica or alumina catalyst, 600–700 °C. Supply of long-chain fractions exceeds demand; demand for short-chain fractions such as gasoline exceeds supply.' },
+    ]),
+    ...sub('organic-chemistry-4ch1', 'alkanes-4ch1', '4c', [
+      { n: 1, f: 'Addition vs substitution', b: 'Alkenes add (one product), e.g. C₂H₄ + Br₂ → C₂H₄Br₂.\nAlkanes substitute in UV light (two products, one is HX), e.g. C₃H₈ + Cl₂ → C₃H₇Cl + HCl.', src: ORG },
+    ]),
+    ...sub('organic-chemistry-4ch1', 'alkenes-4ch1', '4d', [
+      { n: 1, f: 'Test to tell an alkene from an alkane', b: 'Bromine water: an alkene decolourises it (orange → colourless); an alkane leaves it orange.' },
+    ]),
+    ...sub('organic-chemistry-4ch1', 'alcohols-4ch1', '4e', [
+      { n: 1, f: 'Making ethanol: hydration of ethene vs fermentation (Paper 2 only)', b: 'Hydration: C₂H₄ + H₂O → C₂H₅OH; phosphoric acid catalyst, about 300 °C, 60–70 atm.\nFermentation: C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂; yeast enzymes, about 30 °C, absence of air.' },
+    ]),
+    ...sub('organic-chemistry-4ch1', 'esters-4ch1', '4g', [
+      { n: 1, f: 'Making an ester, with an example (Paper 2 only)', b: 'Alcohol + carboxylic acid ⇌ ester + water, with an acid catalyst. Ethanol + ethanoic acid → ethyl ethanoate, CH₃COOC₂H₅. Esters are used in food flavourings and perfumes.' },
+    ]),
+    ...sub('organic-chemistry-4ch1', 'synthetic-polymers-4ch1', '4h', [
+      { n: 1, f: 'Addition polymer', b: 'Many monomers joined as the C=C opens. The repeat unit has only single bonds in the backbone and extension bonds through the brackets.', src: ORG },
+      { n: 2, f: 'Addition vs condensation polymerisation', b: 'Addition gives one product only. Condensation also gives water — e.g. a dicarboxylic acid + a diol → polyester + water (Paper 2 only).', src: ORG },
     ]),
   ],
 };
