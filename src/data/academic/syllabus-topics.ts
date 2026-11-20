@@ -1140,9 +1140,10 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     syllabusCode: '8300', syllabusSeries: 'For first teaching 2015',
     effectiveFrom: '2015', effectiveTo: 'ongoing', status: 'current',
     tiered: true,
-    source: 'AQA -- official GCSE Mathematics (8300) specification, live subject-content pages',
-    sourceUrl: 'https://www.aqa.org.uk/subjects/mathematics/gcse/mathematics-8300/specification/subject-content', verifiedDate: '2026-09-02',
-    notes: "AQA GCSE Mathematics (8300), first teaching September 2015. Tiered: Foundation (grades 1-5) and Higher (grades 4-9); three papers per candidate, same tier throughout. Content matches the Department for Education's Mathematics GCSE subject content document and is common to all exam boards -- the six topic areas and their weighting are prescribed by Ofqual, not set independently by AQA. Six topic names verified directly against the live AQA specification subject-content pages (aqa.org.uk). Topic 1 (Number) subtopics reproduce the specification PDF's own 3.1.1-3.1.3 sub-headings, fetched and verified 2026-08-21. Topic 2 (Algebra) sub-topic structure (3.2.1-3.2.4) reproduced directly from the live AQA specification subject-content page (aqa.org.uk/.../subject-content/3.2-algebra), fetched and verified 2026-09-02; topics 3-6 remain name-only pending the same fetch for their content.",
+    source: 'AQA — official GCSE Mathematics 8300 specification PDF (Version 1.1, September 2026), subject content sections 3.1 to 3.6',
+    sourceUrl: 'https://www.aqa.org.uk/subjects/mathematics/gcse/mathematics-8300/specification/subject-content', verifiedDate: '2026-11-20',
+    notes: 'AQA GCSE Mathematics (8300), first teaching September 2015. Tiered: Foundation (grades 1-5) and Higher (grades 4-9); three papers per candidate, same tier throughout. Content matches the Department for Education\'s Mathematics GCSE subject content document and is common to all exam boards: the six topic areas and their weighting are prescribed by Ofqual, not set independently by AQA. All six topics (3.1-3.6) and every printed sub-heading checked against the AQA specification PDF (Version 1.1, September 2026) on 2026-11-20. Number has 3.1.1-3.1.3, Algebra has 3.2.1-3.2.4 and Geometry and measures has 3.4.1-3.4.3. Ratio, proportion and rates of change, Probability and Statistics print no sub-headings, only lists of numbered content statements (R1, P1, S1 and so on), so their subtopics stay empty.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Number', slug: 'number-aqa-gcse-maths', subtopics: [
         { number: '3.1.1', name: 'Structure and calculation', slug: 'structure-and-calculation-aqa-gcse-maths' },
@@ -1156,7 +1157,11 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '3.2.4', name: 'Sequences', slug: 'sequences-aqa-gcse-maths' },
       ] },
       { number: 3, name: 'Ratio, proportion and rates of change', slug: 'ratio-proportion-and-rates-of-change-aqa-gcse', subtopics: [] },
-      { number: 4, name: 'Geometry and measures', slug: 'geometry-and-measures-aqa-gcse-maths', subtopics: [] },
+      { number: 4, name: 'Geometry and measures', slug: 'geometry-and-measures-aqa-gcse-maths', subtopics: [
+        { number: '3.4.1', name: 'Properties and constructions', slug: 'properties-and-constructions-aqa-gcse-maths' },
+        { number: '3.4.2', name: 'Mensuration and calculation', slug: 'mensuration-and-calculation-aqa-gcse-maths' },
+        { number: '3.4.3', name: 'Vectors', slug: 'vectors-aqa-gcse-maths' },
+      ] },
       { number: 5, name: 'Probability', slug: 'probability-aqa-gcse-maths', subtopics: [] },
       { number: 6, name: 'Statistics', slug: 'statistics-aqa-gcse-maths', subtopics: [] },
     ],
