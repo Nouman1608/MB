@@ -70,6 +70,42 @@ const RES_DIR = 'src/content/resources';
  */
 const REVIEWED_LEGITIMATE = [
   {
+    files: ["ib-dp-psychology-2027-brain-development-practice.md", "ib-dp-psychology-2027-development-of-self-practice.md"],
+    evidence: "New-course pages for the 2027 IB Psychology record (20 Nov 2026, D-512). The record has no subtopics, so both practice sets carry the one Human development topic tag. They teach different named areas of the guide: brain maturation, critical periods and neuroplasticity (brain-development) against attachment, enculturation of social norms, peer influence and the role of childhood experiences (development-of-self). Different studies, worked examples and questions, no shared question or answer.",
+  },
+  {
+    files: ["ib-dp-psychology-2027-brain-development-revision-notes.md", "ib-dp-psychology-2027-development-of-self-revision-notes.md"],
+    evidence: "New-course pages for the 2027 IB Psychology record (20 Nov 2026, D-512). The record has no subtopics, so both revision notes carry the one Human development topic tag. They teach different named areas of the guide: brain maturation, critical periods and neuroplasticity (brain-development) against attachment, enculturation of social norms, peer influence and the role of childhood experiences (development-of-self). Different studies, worked examples and questions, no shared question or answer.",
+  },
+  {
+    files: ["ib-dp-psychology-2027-brain-development.md", "ib-dp-psychology-2027-development-of-self.md"],
+    evidence: "New-course pages for the 2027 IB Psychology record (20 Nov 2026, D-512). The record has no subtopics, so both study guides carry the one Human development topic tag. They teach different named areas of the guide: brain maturation, critical periods and neuroplasticity (brain-development) against attachment, enculturation of social norms, peer influence and the role of childhood experiences (development-of-self). Different studies, worked examples and questions, no shared question or answer.",
+  },
+  {
+    files: ["ib-dp-psychology-2027-health-problems-practice.md", "ib-dp-psychology-2027-mental-health-disorders-practice.md"],
+    evidence: "New-course pages for the 2027 IB Psychology record (20 Nov 2026, D-512). The record has no subtopics, so both practice sets carry the one Health and well-being topic tag. They teach different named areas of the guide: prevalence of health problems, social learning and stress and health (health-problems) against biological explanations, cognitive models, cultural differences and environmental factors for a mental health disorder (mental-health-disorders). Different studies, worked examples and questions, no shared question or answer.",
+  },
+  {
+    files: ["ib-dp-psychology-2027-health-problems-revision-notes.md", "ib-dp-psychology-2027-mental-health-disorders-revision-notes.md"],
+    evidence: "New-course pages for the 2027 IB Psychology record (20 Nov 2026, D-512). The record has no subtopics, so both revision notes carry the one Health and well-being topic tag. They teach different named areas of the guide: prevalence of health problems, social learning and stress and health (health-problems) against biological explanations, cognitive models, cultural differences and environmental factors for a mental health disorder (mental-health-disorders). Different studies, worked examples and questions, no shared question or answer.",
+  },
+  {
+    files: ["ib-dp-psychology-2027-health-problems.md", "ib-dp-psychology-2027-mental-health-disorders.md"],
+    evidence: "New-course pages for the 2027 IB Psychology record (20 Nov 2026, D-512). The record has no subtopics, so both study guides carry the one Health and well-being topic tag. They teach different named areas of the guide: prevalence of health problems, social learning and stress and health (health-problems) against biological explanations, cognitive models, cultural differences and environmental factors for a mental health disorder (mental-health-disorders). Different studies, worked examples and questions, no shared question or answer.",
+  },
+  {
+    files: ["ib-dp-psychology-2027-human-relationships-group-behaviour-practice.md", "ib-dp-psychology-2027-human-relationships-interpersonal-relationships-practice.md"],
+    evidence: "New-course pages for the 2027 IB Psychology record (20 Nov 2026, D-512). The record has no subtopics, so both practice sets carry the one Human relationships topic tag. Group behaviour teaches acculturation, conformity, cultural dimensions, social identity theory, compliance techniques and social learning; interpersonal relationships teaches chemical messengers, cognitive explanations, communication and language and strategies for improving relationships. Different studies, examples and questions.",
+  },
+  {
+    files: ["ib-dp-psychology-2027-human-relationships-group-behaviour-revision-notes.md", "ib-dp-psychology-2027-human-relationships-interpersonal-relationships-revision-notes.md"],
+    evidence: "New-course pages for the 2027 IB Psychology record (20 Nov 2026, D-512). The record has no subtopics, so both revision notes carry the one Human relationships topic tag. Group behaviour teaches acculturation, conformity, cultural dimensions, social identity theory, compliance techniques and social learning; interpersonal relationships teaches chemical messengers, cognitive explanations, communication and language and strategies for improving relationships. Different studies, examples and questions.",
+  },
+  {
+    files: ["ib-dp-psychology-2027-human-relationships.md", "ib-dp-psychology-2027-human-relationships-group-behaviour.md", "ib-dp-psychology-2027-human-relationships-interpersonal-relationships.md"],
+    evidence: "New-course pages for the 2027 IB Psychology record (20 Nov 2026, D-512). Three study guides share the one Human relationships topic tag because the record has no subtopics. The topic-level guide covers what the context is, the class practical, how it is assessed and how to approach the Paper 1 Section C extended response, with no study content; the other two teach the two areas in depth (group behaviour: acculturation, conformity, cultural dimensions, social identity theory, compliance techniques, social learning; interpersonal relationships: chemical messengers, cognitive explanations, communication and language, strategies for improving relationships).",
+  },
+  {
     files: ["gcse-history-historic-environment-practice.md", "gcse-history-shaping-the-nation-practice.md"],
     evidence: "Subtopic round (20 Nov 2026, D-510). Both pages carry the 8145 'Shaping the nation' topic, which the record now itemises into Section A and Section B; the historic environment is examined inside the Section B depth studies, so neither page names a single subtopic. The Historic Environment practice set drills one skill: the site-based essay question, with questions on the Feature-Context-Link-Significance structure and answers that work from a candidate's own site. The Shaping the Nation practice set is a Paper 2 set in three sections (A, B, C) on the paper's structure, options and choosing a revision approach. Different questions, different skills, no shared wording.",
   },
