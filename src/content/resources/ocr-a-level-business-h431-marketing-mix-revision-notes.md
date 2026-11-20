@@ -89,6 +89,14 @@ A balanced answer: standardise the core brand and adapt the details.
 
 Bramble & Co (invented): hamper costs £22.00. UK: 22.00 × 1.40 × 1.20 = £36.96. Abroad via distributor: landed cost 22 + 3 + 8% of 25 (£2.00) = £27.00; × 1.30 = £35.10; × 1.40 = £49.14; × 1.20 = £58.97. That is £22.01 (about 60%) more than the UK price. Direct online with a 25% margin: 27.00 × 1.25 × 1.20 = £40.50, which is £18.47 lower.
 
+## Price build-up in an export market
+
+1. Start with the cost, then add shipping to give the cost plus shipping.
+2. Add the tariff, charged on cost plus shipping, to give the landed cost.
+3. Add each margin in turn (distributor, then retailer), multiplying at each step.
+4. Add sales tax last, on the retailer's price.
+5. Compare with the home price and express the gap as a percentage.
+
 ## Key terms
 
 | Term | Meaning |
@@ -117,6 +125,13 @@ Bramble & Co (invented): hamper costs £22.00. UK: 22.00 × 1.40 × 1.20 = £36.
 - What would a rival do in response?
 - Would adapting the details raise sales by more than it adds to cost?
 - Finish with a judgement for the business and context named in the case.
+
+## Command words
+
+- **Explain:** define the term and add one link, such as why consistency matters.
+- **Distinguish:** state the difference between strategy and mix, with an example of each.
+- **Evaluate:** weigh a local, national or global mix against the target customer, cost and risk, then judge.
+- **Calculate:** show each step of a price build-up (cost, shipping, tariff, margins, tax).
 
 ## Self-test
 

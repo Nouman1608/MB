@@ -119,6 +119,13 @@ Segments: expected sales = people × spend × achievable share (for example 55,0
 - Segments: do the estimates of share rest on evidence? A trial can test them before the full launch.
 - Always finish with a judgement tied to the size, resources and aims of the business in the case.
 
+## Command words
+
+- **Explain:** define the model or term and apply it to the case.
+- **Distinguish:** state the difference between niche and mass, or customer and product orientation.
+- **Evaluate:** give a benefit and a limit of the model or method for the business, then judge.
+- **Recommend and justify:** choose segments using spend, share and competition, and state a risk.
+
 ## Self-test
 
 1. Distinguish planned and impulse purchases.

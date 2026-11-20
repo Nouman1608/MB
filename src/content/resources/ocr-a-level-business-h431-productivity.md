@@ -132,6 +132,17 @@ Orchard's output is **52,000** units a year with **40** employees (labour produc
 
 **Interpretation.** Training pays back fastest among the one-off options and raises labour productivity at no extra capital. The machinery earns the largest yearly gain but takes longer to pay back and lowers capital productivity, so the business gets more output per worker but less from each pound invested. Over five years B would earn 5 × £62,400 − £120,000 = **£192,000**, against A's 5 × £24,960 − £30,000 = **£94,800**, so B is more profitable if the machine lasts and the extra output can be sold. The bonus loses money as designed and would need a lower cost or a higher gain. The extra output also has to be sold: if demand is flat, higher productivity means fewer staff are needed, which has consequences for employees.
 
+## Applying the formulas
+
+- Labour productivity per employee is output ÷ employees; per hour it is output ÷ (employees × hours each).
+- If output rises 10% and employment rises 4%, productivity rises by about 5.8% (1.10 ÷ 1.04 = 1.058).
+- If pay per employee rises faster than productivity, labour cost per unit rises, even though output per worker is up.
+- Compare like with like: the same period, the same product and the same definition of inputs.
+
+## Productivity and the other efficiency measures
+
+Productivity is one of several measures of efficiency. **Capacity utilisation** compares actual output with the most the business could make: a factory making 7,500 units with a capacity of 10,000 is at 75%. A business can have high utilisation but low productivity, if it uses too many workers to reach full output. **Unit costs** combine both: they fall when productivity rises and when fixed costs are spread over more output. For example, if fixed costs are £225,000 and output rises from 10,000 to 12,500 units, fixed cost per unit falls from £22.50 to £18.00. Managers therefore look at productivity, utilisation and unit cost together, because each shows a different aspect of how well resources are used.
+
 ## Recommending methods
 
 A strong recommendation:

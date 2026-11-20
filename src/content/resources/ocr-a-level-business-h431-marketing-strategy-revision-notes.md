@@ -121,6 +121,13 @@ Weighted table (weights 30, 20, 20, 15, 15): A scores 4.15, B 3.40, C 2.70. With
 - Different stakeholders are affected differently.
 - Mention monitoring and what would trigger a change.
 
+## Command words
+
+- **Evaluate:** weigh benefits and limits for the business and for different stakeholders, then judge importance.
+- **Recommend:** make a clear choice of strategy, with objective, target market and mix.
+- **Justify:** use figures, such as expected return or weighted scores, and explain why alternatives were rejected.
+- **Calculate:** show the extra contribution, the net gain and the variance step by step.
+
 ## Self-test
 
 1. Define a marketing strategy.

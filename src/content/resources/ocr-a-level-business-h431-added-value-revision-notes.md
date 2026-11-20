@@ -114,6 +114,13 @@ Chairs: Value Chairs £60 − £35 = £25 (41.7%). Atelier Chairs £420 − £15
 - A higher percentage of price is not always better if total added value falls.
 - Compare like with like.
 
+## Command words
+
+- **Explain:** define added value and say what it is made up of.
+- **Calculate:** write the formula, substitute and give units (per unit or in total).
+- **Evaluate:** give a benefit and a limit of the measure for the business and a stakeholder, then judge.
+- **Compare:** use added value as a percentage of price when prices differ.
+
 ## Self-test
 
 1. Define added value.

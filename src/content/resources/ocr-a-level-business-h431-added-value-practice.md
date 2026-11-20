@@ -56,6 +56,8 @@ These questions cover the Added value content (4.2 on this site) in Operations m
 
 **6.** A restaurant owner says: "Our added value is high, so our profit must be high." Evaluate the usefulness of added value to the restaurant's owner and other stakeholders. **[6]**
 
+**7.** Explain **two** ways in which a business could increase the added value of its product. **[4]**
+
 ## Answers
 
 **1.** The difference between the selling price of a product [1] and the cost of the bought-in materials and services used to make it [1]. **[2]**
@@ -82,6 +84,8 @@ Judgement: the upgrade is worthwhile only if demand is reliable, so Dunmore shou
 **6.** Useful: it shows how much value the restaurant creates beyond the cost of ingredients [1]; it shows the amount available to pay wages, overheads and profit, which helps staff and lenders see the scope for pay and repayments [1]; the owner can compare dishes and see which add most value [1].
 Limits: added value ignores wages, rent and other overheads, so a high figure may still mean a low profit, as the owner assumes [1]; it may reflect location or market power rather than efficiency [1].
 Judgement: the owner is wrong to equate high added value with high profit; it is a useful starting point but needs cost and profit information as well [1]. **[6]**
+
+**7.** For each of two ways: 1 mark for a valid way and 1 mark for explaining how it raises the gap between the selling price and the bought-in cost [4 in total]. Examples: improve quality or design so that a higher price can be charged; build a brand that customers will pay a premium for; add services such as delivery or installation; do more of the work in the business instead of buying in finished parts; reduce bought-in costs by negotiating with suppliers or cutting waste. **[4]**
 
 ## Where marks are usually lost
 

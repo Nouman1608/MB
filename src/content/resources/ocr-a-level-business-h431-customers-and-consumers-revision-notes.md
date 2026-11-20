@@ -115,6 +115,12 @@ Nimbus (invented): £12,000 campaign, 9,600 visits, 3% buy = 288 orders at £24,
 - Could a different mix for each market keep the brand consistent while fitting each buyer?
 - Finish with a judgement for the business named in the case.
 
+## Command words
+
+- **Distinguish:** give the difference between customer and consumer, or B2B and B2C, with an example.
+- **Evaluate:** weigh a method's strength against its weakness for the buyers in the case, using cost per sale or account value.
+- **Calculate:** show cost per account, payback and contribution step by step.
+
 ## Self-test
 
 1. Distinguish a customer from a consumer.

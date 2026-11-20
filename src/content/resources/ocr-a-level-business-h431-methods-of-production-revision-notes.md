@@ -104,6 +104,13 @@ Division of labour: 8 workers, 32 minutes a unit, 480-minute day: 120 units, lab
 - Consider employees as well as costs.
 - Link the method to the product, volume and brand image.
 
+## Command words
+
+- **Distinguish:** state the difference between methods with an example of each.
+- **Calculate:** find unit cost including fixed cost; find the output where two methods cost the same.
+- **Evaluate:** match the method to volume, variety, capital and customer needs, then judge.
+- **Explain:** link division of labour to faster, more accurate work and lower unit costs.
+
 ## Self-test
 
 1. Define job production.

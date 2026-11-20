@@ -107,6 +107,14 @@ PED: price £10 to £11 is +10%; quantity 5,000 to 4,300 is −14%; PED = −1.4
 - Skimming and penetration depend on the objective.
 - Interpret each calculation, do not just state the number.
 
+## Command words
+
+- **Explain:** define the strategy or elasticity and say what it means for the business.
+- **Calculate:** show percentage changes first, then divide; give the sign.
+- **Interpret:** say whether demand is elastic or inelastic and what happens to revenue.
+- **Evaluate:** weigh the strategy against the objective, costs, rivals and demand, then judge.
+- **Recommend and justify:** choose a pricing mix, give a reason from the case and state a risk.
+
 ## Self-test
 
 1. Define penetration pricing.

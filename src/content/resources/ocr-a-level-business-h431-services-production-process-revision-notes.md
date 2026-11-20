@@ -120,6 +120,13 @@ Gym chain: 4,000 members; contribution £37.50 each. Renewal 70% to 78% keeps 32
 - Not every service business should aim for the highest service level.
 - Include effects on employees.
 
+## Command words
+
+- **Explain:** describe the stages of the service process and say how they differ from manufacturing.
+- **Calculate:** work out capacity per agent, agents needed and the retention gain step by step.
+- **Evaluate:** compare the cost of better service with the benefit, and consider employees and customers.
+- **Define:** customer service covers before, during and after the purchase.
+
 ## Self-test
 
 1. Give two ways in which service production differs from manufacturing.

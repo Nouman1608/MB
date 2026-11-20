@@ -119,6 +119,13 @@ Aria kettle: price £50, cost £28. Removing a £6 app feature that 12% value: c
 - Branding is the whole identity, not just advertising.
 - State the objective before recommending a mix.
 
+## Command words
+
+- **Explain:** define the term (product, USP, brand) and give an example.
+- **Evaluate:** apply the tool (Boston matrix, value analysis) with figures, then weigh its limits.
+- **Recommend and justify:** state which products to keep, develop or drop, give figures and a risk.
+- **Calculate:** show relative market share and contribution step by step.
+
 ## Self-test
 
 1. Define a product.

@@ -136,6 +136,13 @@ Process: robot £250,000; labour £6.00 to £4.20 on 50,000 devices saves £90,0
 - Mention risk and the size of the business.
 - Include effects on employees.
 
+## Command words
+
+- **Explain:** define the term and give an example of product or process innovation.
+- **Evaluate:** weigh cost and risk against return, using probability or payback, then judge.
+- **Calculate:** show expected value and payback step by step.
+- **Analyse:** follow the effect of innovation through to stakeholders such as staff and consumers.
+
 ## Self-test
 
 1. Distinguish invention from innovation.

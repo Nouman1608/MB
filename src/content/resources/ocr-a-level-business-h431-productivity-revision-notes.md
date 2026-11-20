@@ -103,6 +103,14 @@ Methods (base output 52,000; contribution £8; capital £400,000): training £30
 | Payback | Time taken for extra contribution to repay the cost |
 | Lean methods | Methods that cut waste and waiting |
 
+## Applying the formulas
+
+- Per employee: output ÷ employees. Per hour: output ÷ (employees × hours each).
+- Output up 10%, employment up 4%: productivity up by 1.10 ÷ 1.04 = 1.058, about 5.8%.
+- If pay per employee rises faster than productivity, labour cost per unit rises.
+- Compare like with like: same period, same product, same definition of inputs.
+- Productivity, capacity utilisation and unit cost each show a different side of efficiency; look at them together.
+
 ## Evaluation prompts
 
 - Is higher productivity coming from efficiency or just from higher output?

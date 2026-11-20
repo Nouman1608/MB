@@ -120,6 +120,13 @@ Patterns (invented chocolate brand): intensive 8,000 × £1,800 = £14.4m retail
 - Would using more than one channel cause conflict, for example a website undercutting shops?
 - Finish with a judgement for the product and business in the case.
 
+## Command words
+
+- **Explain:** define the channel or pattern and say how it reaches the customer.
+- **Evaluate:** weigh margin, reach, control and cost, and judge against the objective.
+- **Calculate:** find the producer's contribution per unit and in total for each channel.
+- **Recommend and justify:** choose a place mix, link it to image and customer, and state a risk.
+
 ## Self-test
 
 1. Define place.

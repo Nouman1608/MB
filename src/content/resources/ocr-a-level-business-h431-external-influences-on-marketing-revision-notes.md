@@ -86,6 +86,12 @@ Teague Snacks: 2,000,000 bags; price £4.00; variable cost £2.60; new packaging
 | Place | E-commerce, transport costs, trade barriers, political stability |
 | Promotion | Advertising law, data protection, social media, ethical expectations |
 
+## Link to other topics
+
+- Income and cross elasticities (3.9) show how sales respond to economic change and to rivals' prices.
+- The product life cycle (3.6) shows when social change or technology may end a product's growth.
+- SWOT (3.2) sorts these influences into opportunities and threats.
+
 ## Key terms
 
 | Term | Meaning |
@@ -113,6 +119,13 @@ Teague Snacks: 2,000,000 bags; price £4.00; variable cost £2.60; new packaging
 - An influence can be an opportunity as well as a threat.
 - Use figures to size the effect.
 - Do not assume the business cannot respond.
+
+## Command words
+
+- **Evaluate:** choose the influences that matter most for the business, show the effect on the mix, and judge.
+- **Calculate:** use YED, PED and exchange rates step by step, and interpret the result.
+- **Analyse:** link the influence to a specific element of the mix and to a stakeholder.
+- **Justify:** give the evidence from the case that shows the influence matters.
 
 ## Self-test
 

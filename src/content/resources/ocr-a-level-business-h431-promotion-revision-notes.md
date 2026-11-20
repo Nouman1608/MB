@@ -112,6 +112,14 @@ AED: spend £40,000 to £50,000 (+25%); sales 80,000 to 88,000 (+10%); AED 0.40.
 - Say how the effect of advertising is separated from other causes.
 - Viral marketing is not free or guaranteed.
 
+## Command words
+
+- **Explain:** define the method and say what it does for the business.
+- **Calculate:** show the percentage change in spend and in sales before dividing for AED.
+- **Interpret:** say whether sales respond strongly or weakly and whether extra spending pays.
+- **Evaluate:** weigh strength against weakness for the product and audience, then judge.
+- **Recommend and justify:** name the mix, tie it to the objective and budget, and state a risk.
+
 ## Self-test
 
 1. Define promotion.

@@ -115,6 +115,13 @@ Training: 25 staff × £800 = £20,000. Turnover 40% to 28% saves 3 leavers × �
 - Figures for training or process benefits are estimates; test them.
 - Cover all seven Ps in a recommendation, then focus on the key ones.
 
+## Command words
+
+- **Explain:** define the element (process, people or physical evidence) and give a service example.
+- **Evaluate:** weigh the benefit of the element against its cost for the service in the case.
+- **Recommend and justify:** cover the seven Ps briefly, then justify the two or three that matter most.
+- **Calculate:** show the capacity, discount or retention working step by step.
+
 ## Self-test
 
 1. Name the three extra Ps for services.
