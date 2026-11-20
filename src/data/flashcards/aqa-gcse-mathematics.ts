@@ -6,6 +6,10 @@
  * `<topic number>-<n>`) and are permanent (browser progress is keyed by them):
  * add a new card with the next unused n, never renumber.
  *
+ * 20 Nov 2026: topic 4 (Geometry and measures) gained subtopics, so its cards were
+ * re-filed under 3.4.1 to 3.4.3 and have new ids; `idMigration` below moves browser
+ * progress saved before that date onto the new ids.
+ *
  *   u: true     Upper tier: Higher tier only content, following the "(Higher)" /
  *               "Higher tier only" marks on Marlbridge's own 8300 revision notes
  *               (the specification's "Higher content only" column). Foundation
@@ -53,8 +57,39 @@ export const DECK_AQA_GCSE_MATHEMATICS: FlashcardDeck = {
   syllabusSeries: 'For first teaching 2015',
   tierScheme: 'foundation-higher',
   author: 'marlbridge-academic-team',
-  updated: '2026-11-05',
+  updated: '2026-11-20',
   deckReview: { reviewerSlug: 'sajawal-zahid', reviewedOn: '2026-11-05' },
+  // Re-filed under the new subtopics on 2026-11-20: old id -> new id for every card, so progress
+  // saved before then follows each card. Cards that were already on a subtopic keep their id.
+  idMigration: {
+    id: '8300-subtopics-2026-11-20',
+    before: '2026-11-20',
+    map: {
+      '3.1.1-1': '3.1.1-1', '3.1.1-2': '3.1.1-2', '3.1.1-3': '3.1.1-3', '3.1.1-4': '3.1.1-4', '3.1.1-5': '3.1.1-5',
+      '3.1.1-6': '3.1.1-6', '3.1.1-7': '3.1.1-7', '3.1.1-8': '3.1.1-8', '3.1.1-9': '3.1.1-9', '3.1.1-10': '3.1.1-10',
+      '3.1.2-1': '3.1.2-1', '3.1.2-2': '3.1.2-2', '3.1.2-3': '3.1.2-3', '3.1.2-4': '3.1.2-4', '3.1.2-5': '3.1.2-5',
+      '3.1.2-6': '3.1.2-6', '3.1.2-7': '3.1.2-7', '3.1.2-8': '3.1.2-8', '3.1.2-9': '3.1.2-9', '3.1.2-10': '3.1.2-10',
+      '3.1.3-1': '3.1.3-1', '3.1.3-2': '3.1.3-2', '3.1.3-3': '3.1.3-3', '3.1.3-4': '3.1.3-4', '3.1.3-5': '3.1.3-5',
+      '3.1.3-6': '3.1.3-6', '3.1.3-7': '3.1.3-7', '3.1.3-8': '3.1.3-8', '3.1.3-9': '3.1.3-9', '3.2.1-1': '3.2.1-1',
+      '3.2.1-2': '3.2.1-2', '3.2.1-3': '3.2.1-3', '3.2.1-4': '3.2.1-4', '3.2.1-5': '3.2.1-5', '3.2.1-6': '3.2.1-6',
+      '3.2.1-7': '3.2.1-7', '3.2.1-8': '3.2.1-8', '3.2.1-9': '3.2.1-9', '3.2.1-10': '3.2.1-10', '3.2.2-1': '3.2.2-1',
+      '3.2.2-2': '3.2.2-2', '3.2.2-3': '3.2.2-3', '3.2.2-4': '3.2.2-4', '3.2.2-5': '3.2.2-5', '3.2.2-6': '3.2.2-6',
+      '3.2.2-7': '3.2.2-7', '3.2.2-8': '3.2.2-8', '3.2.2-9': '3.2.2-9', '3.2.2-10': '3.2.2-10', '3.2.2-11': '3.2.2-11',
+      '3.2.2-12': '3.2.2-12', '3.2.3-1': '3.2.3-1', '3.2.3-2': '3.2.3-2', '3.2.3-3': '3.2.3-3', '3.2.3-4': '3.2.3-4',
+      '3.2.3-5': '3.2.3-5', '3.2.3-6': '3.2.3-6', '3.2.3-7': '3.2.3-7', '3.2.3-8': '3.2.3-8', '3.2.3-9': '3.2.3-9',
+      '3.2.3-10': '3.2.3-10', '3.2.4-1': '3.2.4-1', '3.2.4-2': '3.2.4-2', '3.2.4-3': '3.2.4-3', '3.2.4-4': '3.2.4-4',
+      '3.2.4-5': '3.2.4-5', '3.2.4-6': '3.2.4-6', '3.2.4-7': '3.2.4-7', '3.2.4-8': '3.2.4-8', '3.2.4-9': '3.2.4-9',
+      '3.2.4-10': '3.2.4-10', '3-1': '3-1', '3-2': '3-2', '3-3': '3-3', '3-4': '3-4',
+      '3-5': '3-5', '3-6': '3-6', '3-7': '3-7', '3-8': '3-8', '3-9': '3-9',
+      '3-10': '3-10', '4-1': '3.4.1-1', '4-2': '3.4.1-2', '4-3': '3.4.1-3', '4-4': '3.4.2-1',
+      '4-5': '3.4.2-2', '4-6': '3.4.2-3', '4-7': '3.4.1-4', '4-8': '3.4.2-4', '4-9': '3.4.1-5',
+      '4-10': '3.4.3-1', '5-1': '5-1', '5-2': '5-2', '5-3': '5-3', '5-4': '5-4',
+      '5-5': '5-5', '5-6': '5-6', '5-7': '5-7', '5-8': '5-8', '5-9': '5-9',
+      '5-10': '5-10', '6-1': '6-1', '6-2': '6-2', '6-3': '6-3', '6-4': '6-4',
+      '6-5': '6-5', '6-6': '6-6', '6-7': '6-7', '6-8': '6-8', '6-9': '6-9',
+      '6-10': '6-10', '6-11': '6-11',
+    },
+  },
   cards: [
     // 1 Number
     ...sub('number-aqa-gcse-maths', 'structure-and-calculation-aqa-gcse-maths', '3.1.1', [
@@ -160,17 +195,21 @@ export const DECK_AQA_GCSE_MATHEMATICS: FlashcardDeck = {
     ]),
 
     // 4 Geometry and measures
-    ...topicOnly('geometry-and-measures-aqa-gcse-maths', '4', [
+    ...sub('geometry-and-measures-aqa-gcse-maths', 'properties-and-constructions-aqa-gcse-maths', '3.4.1', [
       { n: 1, f: 'Angles and parallel lines', b: 'Alternate angles are equal. Corresponding angles are equal. Use these names as reasons, not "Z angles" or "F angles".' },
       { n: 2, f: 'Angle sums of polygons', b: 'Interior angles of an n-sided polygon add to (n − 2) × 180°.\nRegular polygon: exterior angle = 360° ÷ n; interior angle = 180° − exterior angle.' },
       { n: 3, f: 'Conditions for congruent triangles', b: 'SSS, SAS (the angle must be between the two sides), ASA, RHS. AAA shows similarity, not congruence.' },
-      { n: 4, f: 'Arc length and sector area for angle θ and radius r', b: 'Arc length = (θ/360) × 2πr\nSector area = (θ/360) × πr²\nSector perimeter = arc length + 2r.\nExample: r = 12, θ = 75°: area 30π cm², arc 5π cm.' },
-      { n: 5, f: 'Pythagoras and the right-angled trig ratios', b: 'a² + b² = c², where c is the hypotenuse.\nsin x = opp/hyp, cos x = adj/hyp, tan x = opp/adj. Use sin⁻¹, cos⁻¹ or tan⁻¹ to find an angle.' },
-      { n: 6, f: 'Exact trig values for 30°, 45° and 60°', b: 'sin 30° = cos 60° = 1/2\nsin 60° = cos 30° = √3/2\nsin 45° = cos 45° = √2/2\ntan 30° = √3/3, tan 45° = 1, tan 60° = √3' },
-      { n: 7, f: 'Circle theorems', b: 'Angle at the centre = 2 × angle at the circumference. Angle in a semicircle = 90°. Angles in the same segment are equal. Opposite angles of a cyclic quadrilateral add to 180°. Tangent ⊥ radius. Tangents from a point are equal. Perpendicular from the centre bisects a chord. Alternate segment theorem.', u: true },
-      { n: 8, f: 'Sine rule, cosine rule and area: which to use?', b: 'Side and opposite angle known: sine rule, a/sin A = b/sin B.\nTwo sides and the included angle, or three sides: cosine rule, a² = b² + c² − 2bc cos A.\nArea = ½ab sin C.', u: true },
-      { n: 9, f: 'Similar shapes with length scale factor k: area and volume factors', b: 'Area scale factor k². Volume scale factor k³. To go back from areas to lengths, square-root; from volumes, cube-root.', u: true },
-      { n: 10, f: 'How do you prove three points are collinear with vectors?', b: 'Show two of the vectors are parallel (one is a multiple of the other) and that they share a point. Parallel alone is not enough.', u: true },
+      { n: 4, f: 'Circle theorems', b: 'Angle at the centre = 2 × angle at the circumference. Angle in a semicircle = 90°. Angles in the same segment are equal. Opposite angles of a cyclic quadrilateral add to 180°. Tangent ⊥ radius. Tangents from a point are equal. Perpendicular from the centre bisects a chord. Alternate segment theorem.', u: true },
+      { n: 5, f: 'Similar shapes with length scale factor k: area and volume factors', b: 'Area scale factor k². Volume scale factor k³. To go back from areas to lengths, square-root; from volumes, cube-root.', u: true },
+    ]),
+    ...sub('geometry-and-measures-aqa-gcse-maths', 'mensuration-and-calculation-aqa-gcse-maths', '3.4.2', [
+      { n: 1, f: 'Arc length and sector area for angle θ and radius r', b: 'Arc length = (θ/360) × 2πr\nSector area = (θ/360) × πr²\nSector perimeter = arc length + 2r.\nExample: r = 12, θ = 75°: area 30π cm², arc 5π cm.' },
+      { n: 2, f: 'Pythagoras and the right-angled trig ratios', b: 'a² + b² = c², where c is the hypotenuse.\nsin x = opp/hyp, cos x = adj/hyp, tan x = opp/adj. Use sin⁻¹, cos⁻¹ or tan⁻¹ to find an angle.' },
+      { n: 3, f: 'Exact trig values for 30°, 45° and 60°', b: 'sin 30° = cos 60° = 1/2\nsin 60° = cos 30° = √3/2\nsin 45° = cos 45° = √2/2\ntan 30° = √3/3, tan 45° = 1, tan 60° = √3' },
+      { n: 4, f: 'Sine rule, cosine rule and area: which to use?', b: 'Side and opposite angle known: sine rule, a/sin A = b/sin B.\nTwo sides and the included angle, or three sides: cosine rule, a² = b² + c² − 2bc cos A.\nArea = ½ab sin C.', u: true },
+    ]),
+    ...sub('geometry-and-measures-aqa-gcse-maths', 'vectors-aqa-gcse-maths', '3.4.3', [
+      { n: 1, f: 'How do you prove three points are collinear with vectors?', b: 'Show two of the vectors are parallel (one is a multiple of the other) and that they share a point. Parallel alone is not enough.', u: true },
     ]),
 
     // 5 Probability

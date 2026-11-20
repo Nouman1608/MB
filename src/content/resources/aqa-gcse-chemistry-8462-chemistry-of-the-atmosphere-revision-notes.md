@@ -13,6 +13,9 @@ order: 9
 syllabusTopics:
   - qualification: "gcse"
     topic: "chemistry-of-the-atmosphere-8462"
+  - qualification: "gcse"
+    topic: "chemistry-of-the-atmosphere-8462"
+    subtopic: "the-composition-and-evolution-of-the-earths-atmosphere-8462"
 description: "Condensed AQA GCSE Chemistry 8462 revision notes on the atmosphere: gas proportions, early atmosphere, greenhouse effect and pollutants, with a self-test."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"

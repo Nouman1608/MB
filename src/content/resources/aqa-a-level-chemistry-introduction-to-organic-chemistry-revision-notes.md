@@ -14,6 +14,9 @@ order: 19
 syllabusTopics:
   - qualification: "a-level"
     topic: "introduction-to-organic-chemistry-7405"
+  - qualification: "a-level"
+    topic: "introduction-to-organic-chemistry-7405"
+    subtopic: "isomerism-7405"
 description: "Condensed AQA A-Level Chemistry 3.3.1 revision notes: formula types, naming rules, radical and curly-arrow conventions, isomer types, E–Z and CIP."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"

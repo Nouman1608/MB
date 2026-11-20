@@ -14,6 +14,12 @@ order: 9
 syllabusTopics:
   - qualification: "a-level"
     topic: "rate-equations-7405"
+  - qualification: "a-level"
+    topic: "rate-equations-7405"
+    subtopic: "rate-equations-subtopic-7405"
+  - qualification: "a-level"
+    topic: "rate-equations-7405"
+    subtopic: "determination-of-rate-equation-7405"
 description: "Condensed AQA A-Level Chemistry rate equations notes: definitions, units of k, Arrhenius, order graphs, mechanisms, RP7 and a self-test."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
