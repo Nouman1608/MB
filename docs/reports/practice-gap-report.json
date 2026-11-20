@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T07:11:58.504Z",
+  "generatedAt": "2026-11-20T09:21:08.449Z",
   "reports": [
     {
       "code": "0620",
@@ -82,14 +82,102 @@
       "qualificationSlug": "igcse",
       "subjectSlug": "chemistry",
       "syllabusSeries": "Issue 3, September 2024",
-      "totalQuestions": 280,
+      "totalQuestions": 424,
       "totalSubtopics": 28,
-      "coveredSubtopics": 17,
-      "coveragePct": 61,
+      "coveredSubtopics": 28,
+      "coveragePct": 100,
       "gaps": [],
       "thin": [],
       "topicsWithoutTaxonomy": [],
       "topicOnlyTagged": [
+        {
+          "topicNumber": 4,
+          "topicName": "Organic chemistry",
+          "topicSlug": "organic-chemistry-4ch1",
+          "resourceSlug": "edexcel-igcse-chemistry-4ch1-alcohols-practice",
+          "resourceTitle": "Pearson Edexcel International GCSE Chemistry (4CH1): Alcohols -- Practice Questions",
+          "questionCount": 14
+        },
+        {
+          "topicNumber": 4,
+          "topicName": "Organic chemistry",
+          "topicSlug": "organic-chemistry-4ch1",
+          "resourceSlug": "edexcel-igcse-chemistry-4ch1-alkanes-practice",
+          "resourceTitle": "Pearson Edexcel International GCSE Chemistry (4CH1): Alkanes -- Practice Questions",
+          "questionCount": 14
+        },
+        {
+          "topicNumber": 4,
+          "topicName": "Organic chemistry",
+          "topicSlug": "organic-chemistry-4ch1",
+          "resourceSlug": "edexcel-igcse-chemistry-4ch1-alkenes-practice",
+          "resourceTitle": "Pearson Edexcel International GCSE Chemistry (4CH1): Alkenes -- Practice Questions",
+          "questionCount": 14
+        },
+        {
+          "topicNumber": 4,
+          "topicName": "Organic chemistry",
+          "topicSlug": "organic-chemistry-4ch1",
+          "resourceSlug": "edexcel-igcse-chemistry-4ch1-carboxylic-acids-practice",
+          "resourceTitle": "Pearson Edexcel International GCSE Chemistry (4CH1): Carboxylic acids -- Practice Questions",
+          "questionCount": 14
+        },
+        {
+          "topicNumber": 4,
+          "topicName": "Organic chemistry",
+          "topicSlug": "organic-chemistry-4ch1",
+          "resourceSlug": "edexcel-igcse-chemistry-4ch1-crude-oil-practice",
+          "resourceTitle": "Pearson Edexcel International GCSE Chemistry (4CH1): Crude oil -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 3,
+          "topicName": "Physical chemistry",
+          "topicSlug": "physical-chemistry-4ch1",
+          "resourceSlug": "edexcel-igcse-chemistry-4ch1-energetics-practice",
+          "resourceTitle": "Pearson Edexcel International GCSE Chemistry (4CH1): Energetics -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 4,
+          "topicName": "Organic chemistry",
+          "topicSlug": "organic-chemistry-4ch1",
+          "resourceSlug": "edexcel-igcse-chemistry-4ch1-esters-practice",
+          "resourceTitle": "Pearson Edexcel International GCSE Chemistry (4CH1): Esters -- Practice Questions",
+          "questionCount": 14
+        },
+        {
+          "topicNumber": 4,
+          "topicName": "Organic chemistry",
+          "topicSlug": "organic-chemistry-4ch1",
+          "resourceSlug": "edexcel-igcse-chemistry-4ch1-organic-chemistry-introduction-practice",
+          "resourceTitle": "Pearson Edexcel International GCSE Chemistry (4CH1): Introduction to organic chemistry -- Practice Questions",
+          "questionCount": 14
+        },
+        {
+          "topicNumber": 3,
+          "topicName": "Physical chemistry",
+          "topicSlug": "physical-chemistry-4ch1",
+          "resourceSlug": "edexcel-igcse-chemistry-4ch1-rates-of-reaction-practice",
+          "resourceTitle": "Pearson Edexcel International GCSE Chemistry (4CH1): Rates of reaction -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 3,
+          "topicName": "Physical chemistry",
+          "topicSlug": "physical-chemistry-4ch1",
+          "resourceSlug": "edexcel-igcse-chemistry-4ch1-reversible-reactions-and-equilibria-practice",
+          "resourceTitle": "Pearson Edexcel International GCSE Chemistry (4CH1): Reversible reactions and equilibria -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 4,
+          "topicName": "Organic chemistry",
+          "topicSlug": "organic-chemistry-4ch1",
+          "resourceSlug": "edexcel-igcse-chemistry-4ch1-synthetic-polymers-practice",
+          "resourceTitle": "Pearson Edexcel International GCSE Chemistry (4CH1): Synthetic polymers -- Practice Questions",
+          "questionCount": 12
+        },
         {
           "topicNumber": 4,
           "topicName": "Organic chemistry",
@@ -204,14 +292,374 @@
       "qualificationSlug": "o-level",
       "subjectSlug": "mathematics",
       "syllabusSeries": "2025-2027",
-      "totalQuestions": 437,
+      "totalQuestions": 1093,
       "totalSubtopics": 68,
-      "coveredSubtopics": 23,
-      "coveragePct": 34,
+      "coveredSubtopics": 68,
+      "coveragePct": 100,
       "gaps": [],
       "thin": [],
       "topicsWithoutTaxonomy": [],
       "topicOnlyTagged": [
+        {
+          "topicNumber": 4,
+          "topicName": "Geometry",
+          "topicSlug": "geometry",
+          "resourceSlug": "cambridge-o-level-mathematics-4024-angles-practice",
+          "resourceTitle": "Cambridge O Level Mathematics (4024): Angles -- Practice Questions",
+          "questionCount": 15
+        },
+        {
+          "topicNumber": 5,
+          "topicName": "Mensuration",
+          "topicSlug": "mensuration",
+          "resourceSlug": "cambridge-o-level-mathematics-4024-area-and-perimeter-practice",
+          "resourceTitle": "Cambridge O Level Mathematics (4024): Area and Perimeter -- Practice Questions",
+          "questionCount": 17
+        },
+        {
+          "topicNumber": 4,
+          "topicName": "Geometry",
+          "topicSlug": "geometry",
+          "resourceSlug": "cambridge-o-level-mathematics-4024-circle-theorems-i-practice",
+          "resourceTitle": "Cambridge O Level Mathematics (4024): Circle Theorems I -- Practice Questions",
+          "questionCount": 13
+        },
+        {
+          "topicNumber": 4,
+          "topicName": "Geometry",
+          "topicSlug": "geometry",
+          "resourceSlug": "cambridge-o-level-mathematics-4024-circle-theorems-ii-practice",
+          "resourceTitle": "Cambridge O Level Mathematics (4024): Circle Theorems II -- Practice Questions",
+          "questionCount": 13
+        },
+        {
+          "topicNumber": 5,
+          "topicName": "Mensuration",
+          "topicSlug": "mensuration",
+          "resourceSlug": "cambridge-o-level-mathematics-4024-circles-arcs-and-sectors-practice",
+          "resourceTitle": "Cambridge O Level Mathematics (4024): Circles, Arcs and Sectors -- Practice Questions",
+          "questionCount": 17
+        },
+        {
+          "topicNumber": 5,
+          "topicName": "Mensuration",
+          "topicSlug": "mensuration",
+          "resourceSlug": "cambridge-o-level-mathematics-4024-compound-shapes-and-parts-of-shapes-practice",
+          "resourceTitle": "Cambridge O Level Mathematics (4024): Compound Shapes and Parts of Shapes -- Practice Questions",
+          "questionCount": 13
+        },
+        {
+          "topicNumber": 3,
+          "topicName": "Coordinate geometry",
+          "topicSlug": "coordinate-geometry",
+          "resourceSlug": "cambridge-o-level-mathematics-4024-coordinates-practice",
+          "resourceTitle": "Cambridge O Level Mathematics (4024): Coordinates -- Practice Questions",
+          "questionCount": 14
+        },
+        {
+          "topicNumber": 3,
+          "topicName": "Coordinate geometry",
+          "topicSlug": "coordinate-geometry",
+          "resourceSlug": "cambridge-o-level-mathematics-4024-drawing-linear-graphs-practice",
+          "resourceTitle": "Cambridge O Level Mathematics (4024): Drawing linear graphs -- Practice Questions",
+          "questionCount": 14
+        },
+        {
+          "topicNumber": 3,
+          "topicName": "Coordinate geometry",
+          "topicSlug": "coordinate-geometry",
+          "resourceSlug": "cambridge-o-level-mathematics-4024-equations-of-linear-graphs-practice",
+          "resourceTitle": "Cambridge O Level Mathematics (4024): Equations of linear graphs -- Practice Questions",
+          "questionCount": 14
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Number",
+          "topicSlug": "number",
+          "resourceSlug": "cambridge-o-level-mathematics-4024-estimation-practice",
+          "resourceTitle": "Cambridge O Level Mathematics (4024): Estimation -- Practice Questions",
+          "questionCount": 14
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Number",
+          "topicSlug": "number",
+          "resourceSlug": "cambridge-o-level-mathematics-4024-exponential-growth-and-decay-practice",
+          "resourceTitle": "Cambridge O Level Mathematics (4024): Exponential growth and decay -- Practice Questions",
+          "questionCount": 14
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Number",
+          "topicSlug": "number",
+          "resourceSlug": "cambridge-o-level-mathematics-4024-fractions-decimals-and-percentages-practice",
+          "resourceTitle": "Cambridge O Level Mathematics (4024): Fractions, decimals and percentages -- Practice Questions",
+          "questionCount": 16
+        },
+        {
+          "topicNumber": 4,
+          "topicName": "Geometry",
+          "topicSlug": "geometry",
+          "resourceSlug": "cambridge-o-level-mathematics-4024-geometrical-constructions-practice",
+          "resourceTitle": "Cambridge O Level Mathematics (4024): Geometrical Constructions -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 4,
+          "topicName": "Geometry",
+          "topicSlug": "geometry",
+          "resourceSlug": "cambridge-o-level-mathematics-4024-geometrical-terms-practice",
+          "resourceTitle": "Cambridge O Level Mathematics (4024): Geometrical Terms -- Practice Questions",
+          "questionCount": 16
+        },
+        {
+          "topicNumber": 3,
+          "topicName": "Coordinate geometry",
+          "topicSlug": "coordinate-geometry",
+          "resourceSlug": "cambridge-o-level-mathematics-4024-gradient-of-linear-graphs-practice",
+          "resourceTitle": "Cambridge O Level Mathematics (4024): Gradient of linear graphs -- Practice Questions",
+          "questionCount": 14
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Number",
+          "topicSlug": "number",
+          "resourceSlug": "cambridge-o-level-mathematics-4024-indices-i-practice",
+          "resourceTitle": "Cambridge O Level Mathematics (4024): Indices I -- Practice Questions",
+          "questionCount": 18
+        },
+        {
+          "topicNumber": 8,
+          "topicName": "Probability",
+          "topicSlug": "probability",
+          "resourceSlug": "cambridge-o-level-mathematics-4024-introduction-to-probability-practice",
+          "resourceTitle": "Cambridge O Level Mathematics (4024): Introduction to Probability -- Practice Questions",
+          "questionCount": 16
+        },
+        {
+          "topicNumber": 3,
+          "topicName": "Coordinate geometry",
+          "topicSlug": "coordinate-geometry",
+          "resourceSlug": "cambridge-o-level-mathematics-4024-length-and-midpoint-practice",
+          "resourceTitle": "Cambridge O Level Mathematics (4024): Length and midpoint -- Practice Questions",
+          "questionCount": 14
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Number",
+          "topicSlug": "number",
+          "resourceSlug": "cambridge-o-level-mathematics-4024-limits-of-accuracy-practice",
+          "resourceTitle": "Cambridge O Level Mathematics (4024): Limits of accuracy -- Practice Questions",
+          "questionCount": 14
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Number",
+          "topicSlug": "number",
+          "resourceSlug": "cambridge-o-level-mathematics-4024-money-practice",
+          "resourceTitle": "Cambridge O Level Mathematics (4024): Money -- Practice Questions",
+          "questionCount": 14
+        },
+        {
+          "topicNumber": 6,
+          "topicName": "Trigonometry",
+          "topicSlug": "trigonometry",
+          "resourceSlug": "cambridge-o-level-mathematics-4024-non-right-angled-triangles-practice",
+          "resourceTitle": "Cambridge O Level Mathematics (4024): Non-Right-Angled Triangles -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Number",
+          "topicSlug": "number",
+          "resourceSlug": "cambridge-o-level-mathematics-4024-ordering-practice",
+          "resourceTitle": "Cambridge O Level Mathematics (4024): Ordering -- Practice Questions",
+          "questionCount": 14
+        },
+        {
+          "topicNumber": 3,
+          "topicName": "Coordinate geometry",
+          "topicSlug": "coordinate-geometry",
+          "resourceSlug": "cambridge-o-level-mathematics-4024-parallel-lines-practice",
+          "resourceTitle": "Cambridge O Level Mathematics (4024): Parallel Lines -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Number",
+          "topicSlug": "number",
+          "resourceSlug": "cambridge-o-level-mathematics-4024-percentages-practice",
+          "resourceTitle": "Cambridge O Level Mathematics (4024): Percentages -- Practice Questions",
+          "questionCount": 17
+        },
+        {
+          "topicNumber": 3,
+          "topicName": "Coordinate geometry",
+          "topicSlug": "coordinate-geometry",
+          "resourceSlug": "cambridge-o-level-mathematics-4024-perpendicular-lines-practice",
+          "resourceTitle": "Cambridge O Level Mathematics (4024): Perpendicular Lines -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Number",
+          "topicSlug": "number",
+          "resourceSlug": "cambridge-o-level-mathematics-4024-powers-and-roots-practice",
+          "resourceTitle": "Cambridge O Level Mathematics (4024): Powers and roots -- Practice Questions",
+          "questionCount": 16
+        },
+        {
+          "topicNumber": 8,
+          "topicName": "Probability",
+          "topicSlug": "probability",
+          "resourceSlug": "cambridge-o-level-mathematics-4024-probability-of-combined-events-practice",
+          "resourceTitle": "Cambridge O Level Mathematics (4024): Probability of Combined Events -- Practice Questions",
+          "questionCount": 15
+        },
+        {
+          "topicNumber": 6,
+          "topicName": "Trigonometry",
+          "topicSlug": "trigonometry",
+          "resourceSlug": "cambridge-o-level-mathematics-4024-pythagoras-theorem-and-trigonometry-practice",
+          "resourceTitle": "Cambridge O Level Mathematics (4024): Pythagoras’ Theorem and Trigonometry in 3D -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 6,
+          "topicName": "Trigonometry",
+          "topicSlug": "trigonometry",
+          "resourceSlug": "cambridge-o-level-mathematics-4024-pythagoras-theorem-practice",
+          "resourceTitle": "Cambridge O Level Mathematics (4024): Pythagoras’ Theorem -- Practice Questions",
+          "questionCount": 17
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Number",
+          "topicSlug": "number",
+          "resourceSlug": "cambridge-o-level-mathematics-4024-rates-practice",
+          "resourceTitle": "Cambridge O Level Mathematics (4024): Rates -- Practice Questions",
+          "questionCount": 14
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Number",
+          "topicSlug": "number",
+          "resourceSlug": "cambridge-o-level-mathematics-4024-ratio-and-proportion-practice",
+          "resourceTitle": "Cambridge O Level Mathematics (4024): Ratio and proportion -- Practice Questions",
+          "questionCount": 14
+        },
+        {
+          "topicNumber": 8,
+          "topicName": "Probability",
+          "topicSlug": "probability",
+          "resourceSlug": "cambridge-o-level-mathematics-4024-relative-and-expected-frequencies-practice",
+          "resourceTitle": "Cambridge O Level Mathematics (4024): Relative and Expected Frequencies -- Practice Questions",
+          "questionCount": 16
+        },
+        {
+          "topicNumber": 6,
+          "topicName": "Trigonometry",
+          "topicSlug": "trigonometry",
+          "resourceSlug": "cambridge-o-level-mathematics-4024-right-angled-triangles-practice",
+          "resourceTitle": "Cambridge O Level Mathematics (4024): Right-Angled Triangles -- Practice Questions",
+          "questionCount": 15
+        },
+        {
+          "topicNumber": 4,
+          "topicName": "Geometry",
+          "topicSlug": "geometry",
+          "resourceSlug": "cambridge-o-level-mathematics-4024-scale-drawings-practice",
+          "resourceTitle": "Cambridge O Level Mathematics (4024): Scale Drawings -- Practice Questions",
+          "questionCount": 14
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Number",
+          "topicSlug": "number",
+          "resourceSlug": "cambridge-o-level-mathematics-4024-sets-practice",
+          "resourceTitle": "Cambridge O Level Mathematics (4024): Sets -- Practice Questions",
+          "questionCount": 14
+        },
+        {
+          "topicNumber": 4,
+          "topicName": "Geometry",
+          "topicSlug": "geometry",
+          "resourceSlug": "cambridge-o-level-mathematics-4024-similarity-practice",
+          "resourceTitle": "Cambridge O Level Mathematics (4024): Similarity -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Number",
+          "topicSlug": "number",
+          "resourceSlug": "cambridge-o-level-mathematics-4024-standard-form-practice",
+          "resourceTitle": "Cambridge O Level Mathematics (4024): Standard form -- Practice Questions",
+          "questionCount": 15
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Number",
+          "topicSlug": "number",
+          "resourceSlug": "cambridge-o-level-mathematics-4024-surds-practice",
+          "resourceTitle": "Cambridge O Level Mathematics (4024): Surds -- Practice Questions",
+          "questionCount": 17
+        },
+        {
+          "topicNumber": 5,
+          "topicName": "Mensuration",
+          "topicSlug": "mensuration",
+          "resourceSlug": "cambridge-o-level-mathematics-4024-surface-area-and-volume-practice",
+          "resourceTitle": "Cambridge O Level Mathematics (4024): Surface Area and Volume -- Practice Questions",
+          "questionCount": 15
+        },
+        {
+          "topicNumber": 4,
+          "topicName": "Geometry",
+          "topicSlug": "geometry",
+          "resourceSlug": "cambridge-o-level-mathematics-4024-symmetry-practice",
+          "resourceTitle": "Cambridge O Level Mathematics (4024): Symmetry -- Practice Questions",
+          "questionCount": 13
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Number",
+          "topicSlug": "number",
+          "resourceSlug": "cambridge-o-level-mathematics-4024-the-four-operations-practice",
+          "resourceTitle": "Cambridge O Level Mathematics (4024): The four operations -- Practice Questions",
+          "questionCount": 17
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Number",
+          "topicSlug": "number",
+          "resourceSlug": "cambridge-o-level-mathematics-4024-time-practice",
+          "resourceTitle": "Cambridge O Level Mathematics (4024): Time -- Practice Questions",
+          "questionCount": 14
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Number",
+          "topicSlug": "number",
+          "resourceSlug": "cambridge-o-level-mathematics-4024-types-of-number-practice",
+          "resourceTitle": "Cambridge O Level Mathematics (4024): Types of number -- Practice Questions",
+          "questionCount": 14
+        },
+        {
+          "topicNumber": 5,
+          "topicName": "Mensuration",
+          "topicSlug": "mensuration",
+          "resourceSlug": "cambridge-o-level-mathematics-4024-units-of-measure-practice",
+          "resourceTitle": "Cambridge O Level Mathematics (4024): Units of Measure -- Practice Questions",
+          "questionCount": 19
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Number",
+          "topicSlug": "number",
+          "resourceSlug": "cambridge-o-level-mathematics-4024-using-a-calculator-practice",
+          "resourceTitle": "Cambridge O Level Mathematics (4024): Using a calculator -- Practice Questions",
+          "questionCount": 14
+        },
         {
           "topicNumber": 3,
           "topicName": "Coordinate geometry",
@@ -343,10 +791,10 @@
       "qualificationSlug": "o-level",
       "subjectSlug": "computer-science",
       "syllabusSeries": "2026-2028",
-      "totalQuestions": 161,
+      "totalQuestions": 370,
       "totalSubtopics": 21,
-      "coveredSubtopics": 7,
-      "coveragePct": 33,
+      "coveredSubtopics": 21,
+      "coveragePct": 100,
       "gaps": [],
       "thin": [],
       "topicsWithoutTaxonomy": [
@@ -367,6 +815,118 @@
         }
       ],
       "topicOnlyTagged": [
+        {
+          "topicNumber": 8,
+          "topicName": "Programming",
+          "topicSlug": "programming-2210",
+          "resourceSlug": "cambridge-o-level-computer-science-2210-arrays-practice",
+          "resourceTitle": "Cambridge O Level Computer Science (2210): Arrays -- Practice Questions",
+          "questionCount": 13
+        },
+        {
+          "topicNumber": 6,
+          "topicName": "Automated and emerging technologies",
+          "topicSlug": "automated-and-emerging-technologies-2210",
+          "resourceSlug": "cambridge-o-level-computer-science-2210-artificial-intelligence-practice",
+          "resourceTitle": "Cambridge O Level Computer Science (2210): Artificial intelligence -- Practice Questions",
+          "questionCount": 14
+        },
+        {
+          "topicNumber": 6,
+          "topicName": "Automated and emerging technologies",
+          "topicSlug": "automated-and-emerging-technologies-2210",
+          "resourceSlug": "cambridge-o-level-computer-science-2210-automated-systems-practice",
+          "resourceTitle": "Cambridge O Level Computer Science (2210): Automated systems -- Practice Questions",
+          "questionCount": 14
+        },
+        {
+          "topicNumber": 5,
+          "topicName": "The internet and its uses",
+          "topicSlug": "the-internet-and-its-uses-2210",
+          "resourceSlug": "cambridge-o-level-computer-science-2210-cyber-security-practice",
+          "resourceTitle": "Cambridge O Level Computer Science (2210): Cyber security -- Practice Questions",
+          "questionCount": 17
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Data representation",
+          "topicSlug": "data-representation-2210",
+          "resourceSlug": "cambridge-o-level-computer-science-2210-data-storage-and-compression-practice",
+          "resourceTitle": "Cambridge O Level Computer Science (2210): Data storage and compression -- Practice Questions",
+          "questionCount": 16
+        },
+        {
+          "topicNumber": 5,
+          "topicName": "The internet and its uses",
+          "topicSlug": "the-internet-and-its-uses-2210",
+          "resourceSlug": "cambridge-o-level-computer-science-2210-digital-currency-practice",
+          "resourceTitle": "Cambridge O Level Computer Science (2210): Digital currency -- Practice Questions",
+          "questionCount": 15
+        },
+        {
+          "topicNumber": 8,
+          "topicName": "Programming",
+          "topicSlug": "programming-2210",
+          "resourceSlug": "cambridge-o-level-computer-science-2210-file-handling-practice",
+          "resourceTitle": "Cambridge O Level Computer Science (2210): File handling -- Practice Questions",
+          "questionCount": 13
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Data representation",
+          "topicSlug": "data-representation-2210",
+          "resourceSlug": "cambridge-o-level-computer-science-2210-number-systems-practice",
+          "resourceTitle": "Cambridge O Level Computer Science (2210): Number systems -- Practice Questions",
+          "questionCount": 15
+        },
+        {
+          "topicNumber": 8,
+          "topicName": "Programming",
+          "topicSlug": "programming-2210",
+          "resourceSlug": "cambridge-o-level-computer-science-2210-programming-concepts-practice",
+          "resourceTitle": "Cambridge O Level Computer Science (2210): Programming concepts -- Practice Questions",
+          "questionCount": 15
+        },
+        {
+          "topicNumber": 4,
+          "topicName": "Software",
+          "topicSlug": "software-2210",
+          "resourceSlug": "cambridge-o-level-computer-science-2210-programming-languages-translators-and-ides-practice",
+          "resourceTitle": "Cambridge O Level Computer Science (2210): Programming languages, translators and IDEs -- Practice Questions",
+          "questionCount": 16
+        },
+        {
+          "topicNumber": 6,
+          "topicName": "Automated and emerging technologies",
+          "topicSlug": "automated-and-emerging-technologies-2210",
+          "resourceSlug": "cambridge-o-level-computer-science-2210-robotics-practice",
+          "resourceTitle": "Cambridge O Level Computer Science (2210): Robotics -- Practice Questions",
+          "questionCount": 14
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Data representation",
+          "topicSlug": "data-representation-2210",
+          "resourceSlug": "cambridge-o-level-computer-science-2210-text-sound-and-images-practice",
+          "resourceTitle": "Cambridge O Level Computer Science (2210): Text, sound and images -- Practice Questions",
+          "questionCount": 15
+        },
+        {
+          "topicNumber": 5,
+          "topicName": "The internet and its uses",
+          "topicSlug": "the-internet-and-its-uses-2210",
+          "resourceSlug": "cambridge-o-level-computer-science-2210-the-internet-and-the-world-wide-web-practice",
+          "resourceTitle": "Cambridge O Level Computer Science (2210): The internet and the world wide web -- Practice Questions",
+          "questionCount": 16
+        },
+        {
+          "topicNumber": 4,
+          "topicName": "Software",
+          "topicSlug": "software-2210",
+          "resourceSlug": "cambridge-o-level-computer-science-2210-types-of-software-and-interrupts-practice",
+          "resourceTitle": "Cambridge O Level Computer Science (2210): Types of software and interrupts -- Practice Questions",
+          "questionCount": 16
+        },
         {
           "topicNumber": 7,
           "topicName": "Algorithm design and problem-solving",
@@ -484,129 +1044,11 @@
       "qualificationSlug": "gcse",
       "subjectSlug": "chemistry",
       "syllabusSeries": "For teaching from September 2016",
-      "totalQuestions": 228,
+      "totalQuestions": 618,
       "totalSubtopics": 46,
-      "coveredSubtopics": 8,
-      "coveragePct": 17,
-      "gaps": [
-        {
-          "topicNumber": 2,
-          "topicName": "Bonding, structure, and the properties of matter",
-          "topicSlug": "bonding-structure-and-the-properties-of-matter-8462",
-          "subtopicNumber": "4.2.2.1",
-          "subtopicName": "The three states of matter",
-          "subtopicSlug": "the-three-states-of-matter-8462",
-          "questionCount": 0
-        },
-        {
-          "topicNumber": 2,
-          "topicName": "Bonding, structure, and the properties of matter",
-          "topicSlug": "bonding-structure-and-the-properties-of-matter-8462",
-          "subtopicNumber": "4.2.2.2",
-          "subtopicName": "State symbols",
-          "subtopicSlug": "state-symbols-8462",
-          "questionCount": 0
-        },
-        {
-          "topicNumber": 2,
-          "topicName": "Bonding, structure, and the properties of matter",
-          "topicSlug": "bonding-structure-and-the-properties-of-matter-8462",
-          "subtopicNumber": "4.2.2.3",
-          "subtopicName": "Properties of ionic compounds",
-          "subtopicSlug": "properties-of-ionic-compounds-8462",
-          "questionCount": 0
-        },
-        {
-          "topicNumber": 2,
-          "topicName": "Bonding, structure, and the properties of matter",
-          "topicSlug": "bonding-structure-and-the-properties-of-matter-8462",
-          "subtopicNumber": "4.2.2.4",
-          "subtopicName": "Properties of small molecules",
-          "subtopicSlug": "properties-of-small-molecules-8462",
-          "questionCount": 0
-        },
-        {
-          "topicNumber": 2,
-          "topicName": "Bonding, structure, and the properties of matter",
-          "topicSlug": "bonding-structure-and-the-properties-of-matter-8462",
-          "subtopicNumber": "4.2.2.5",
-          "subtopicName": "Polymers",
-          "subtopicSlug": "polymers-8462",
-          "questionCount": 0
-        },
-        {
-          "topicNumber": 2,
-          "topicName": "Bonding, structure, and the properties of matter",
-          "topicSlug": "bonding-structure-and-the-properties-of-matter-8462",
-          "subtopicNumber": "4.2.2.6",
-          "subtopicName": "Giant covalent structures",
-          "subtopicSlug": "giant-covalent-structures-8462",
-          "questionCount": 0
-        },
-        {
-          "topicNumber": 2,
-          "topicName": "Bonding, structure, and the properties of matter",
-          "topicSlug": "bonding-structure-and-the-properties-of-matter-8462",
-          "subtopicNumber": "4.2.2.7",
-          "subtopicName": "Properties of metals and alloys",
-          "subtopicSlug": "properties-of-metals-and-alloys-8462",
-          "questionCount": 0
-        },
-        {
-          "topicNumber": 2,
-          "topicName": "Bonding, structure, and the properties of matter",
-          "topicSlug": "bonding-structure-and-the-properties-of-matter-8462",
-          "subtopicNumber": "4.2.2.8",
-          "subtopicName": "Metals as conductors",
-          "subtopicSlug": "metals-as-conductors-8462",
-          "questionCount": 0
-        },
-        {
-          "topicNumber": 2,
-          "topicName": "Bonding, structure, and the properties of matter",
-          "topicSlug": "bonding-structure-and-the-properties-of-matter-8462",
-          "subtopicNumber": "4.2.3.1",
-          "subtopicName": "Diamond",
-          "subtopicSlug": "diamond-8462",
-          "questionCount": 0
-        },
-        {
-          "topicNumber": 2,
-          "topicName": "Bonding, structure, and the properties of matter",
-          "topicSlug": "bonding-structure-and-the-properties-of-matter-8462",
-          "subtopicNumber": "4.2.3.2",
-          "subtopicName": "Graphite",
-          "subtopicSlug": "graphite-8462",
-          "questionCount": 0
-        },
-        {
-          "topicNumber": 2,
-          "topicName": "Bonding, structure, and the properties of matter",
-          "topicSlug": "bonding-structure-and-the-properties-of-matter-8462",
-          "subtopicNumber": "4.2.3.3",
-          "subtopicName": "Graphene and fullerenes",
-          "subtopicSlug": "graphene-and-fullerenes-8462",
-          "questionCount": 0
-        },
-        {
-          "topicNumber": 2,
-          "topicName": "Bonding, structure, and the properties of matter",
-          "topicSlug": "bonding-structure-and-the-properties-of-matter-8462",
-          "subtopicNumber": "4.2.4.1",
-          "subtopicName": "Sizes of particles and their properties",
-          "subtopicSlug": "sizes-of-particles-and-their-properties-8462",
-          "questionCount": 0
-        },
-        {
-          "topicNumber": 2,
-          "topicName": "Bonding, structure, and the properties of matter",
-          "topicSlug": "bonding-structure-and-the-properties-of-matter-8462",
-          "subtopicNumber": "4.2.4.2",
-          "subtopicName": "Uses of nanoparticles",
-          "subtopicSlug": "uses-of-nanoparticles-8462",
-          "questionCount": 0
-        }
-      ],
+      "coveredSubtopics": 46,
+      "coveragePct": 100,
+      "gaps": [],
       "thin": [],
       "topicsWithoutTaxonomy": [
         {
@@ -617,12 +1059,44 @@
       ],
       "topicOnlyTagged": [
         {
+          "topicNumber": 3,
+          "topicName": "Quantitative chemistry",
+          "topicSlug": "quantitative-chemistry-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-amount-of-substance-and-masses-practice",
+          "resourceTitle": "AQA GCSE Chemistry (8462): Use of amount of substance in relation to masses of pure substances -- Practice Questions",
+          "questionCount": 9
+        },
+        {
+          "topicNumber": 7,
+          "topicName": "Organic chemistry",
+          "topicSlug": "organic-chemistry-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-carbon-compounds-as-fuels-and-feedstock-practice",
+          "resourceTitle": "AQA GCSE Chemistry (8462): Carbon compounds as fuels and feedstock -- Practice Questions",
+          "questionCount": 10
+        },
+        {
+          "topicNumber": 9,
+          "topicName": "Chemistry of the atmosphere",
+          "topicSlug": "chemistry-of-the-atmosphere-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-carbon-dioxide-and-methane-as-greenhouse-gases-practice",
+          "resourceTitle": "AQA GCSE Chemistry (8462): Carbon dioxide and methane as greenhouse gases -- Practice Questions",
+          "questionCount": 10
+        },
+        {
           "topicNumber": 8,
           "topicName": "Chemical analysis",
           "topicSlug": "chemical-analysis-8462",
           "resourceSlug": "aqa-gcse-chemistry-8462-chemical-analysis-practice",
           "resourceTitle": "AQA GCSE Chemistry 8462: Chemical analysis -- Practice Questions",
           "questionCount": 11
+        },
+        {
+          "topicNumber": 5,
+          "topicName": "Energy changes",
+          "topicSlug": "energy-changes-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-chemical-cells-and-fuel-cells-practice",
+          "resourceTitle": "AQA GCSE Chemistry (8462): Chemical cells and fuel cells -- Practice Questions",
+          "questionCount": 10
         },
         {
           "topicNumber": 4,
@@ -633,11 +1107,51 @@
           "questionCount": 11
         },
         {
+          "topicNumber": 3,
+          "topicName": "Quantitative chemistry",
+          "topicSlug": "quantitative-chemistry-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-chemical-measurements-conservation-of-mass-practice",
+          "resourceTitle": "AQA GCSE Chemistry (8462): Chemical measurements, conservation of mass and chemical equations -- Practice Questions",
+          "questionCount": 10
+        },
+        {
           "topicNumber": 9,
           "topicName": "Chemistry of the atmosphere",
           "topicSlug": "chemistry-of-the-atmosphere-8462",
           "resourceSlug": "aqa-gcse-chemistry-8462-chemistry-of-the-atmosphere-practice",
           "resourceTitle": "AQA GCSE Chemistry 8462: Chemistry of the atmosphere -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 9,
+          "topicName": "Chemistry of the atmosphere",
+          "topicSlug": "chemistry-of-the-atmosphere-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-common-atmospheric-pollutants-and-their-sources-practice",
+          "resourceTitle": "AQA GCSE Chemistry (8462): Common atmospheric pollutants and their sources -- Practice Questions",
+          "questionCount": 10
+        },
+        {
+          "topicNumber": 3,
+          "topicName": "Quantitative chemistry",
+          "topicSlug": "quantitative-chemistry-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-concentrations-in-mol-dm3-practice",
+          "resourceTitle": "AQA GCSE Chemistry (8462): Using concentrations of solutions in mol/dm3 -- Practice Questions",
+          "questionCount": 10
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Bonding, structure, and the properties of matter",
+          "topicSlug": "bonding-structure-and-the-properties-of-matter-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-diamond-practice",
+          "resourceTitle": "AQA GCSE Chemistry (8462): Diamond -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 4,
+          "topicName": "Chemical changes",
+          "topicSlug": "chemical-changes-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-electrolysis-practice",
+          "resourceTitle": "AQA GCSE Chemistry (8462): Electrolysis -- Practice Questions",
           "questionCount": 12
         },
         {
@@ -649,6 +1163,54 @@
           "questionCount": 12
         },
         {
+          "topicNumber": 5,
+          "topicName": "Energy changes",
+          "topicSlug": "energy-changes-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-exothermic-and-endothermic-reactions-practice",
+          "resourceTitle": "AQA GCSE Chemistry (8462): Exothermic and endothermic reactions -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Bonding, structure, and the properties of matter",
+          "topicSlug": "bonding-structure-and-the-properties-of-matter-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-giant-covalent-structures-practice",
+          "resourceTitle": "AQA GCSE Chemistry (8462): Giant covalent structures -- Practice Questions",
+          "questionCount": 10
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Bonding, structure, and the properties of matter",
+          "topicSlug": "bonding-structure-and-the-properties-of-matter-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-graphene-and-fullerenes-practice",
+          "resourceTitle": "AQA GCSE Chemistry (8462): Graphene and fullerenes -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Bonding, structure, and the properties of matter",
+          "topicSlug": "bonding-structure-and-the-properties-of-matter-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-graphite-practice",
+          "resourceTitle": "AQA GCSE Chemistry (8462): Graphite -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 8,
+          "topicName": "Chemical analysis",
+          "topicSlug": "chemical-analysis-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-identification-of-common-gases-practice",
+          "resourceTitle": "AQA GCSE Chemistry (8462): Identification of common gases -- Practice Questions",
+          "questionCount": 10
+        },
+        {
+          "topicNumber": 8,
+          "topicName": "Chemical analysis",
+          "topicSlug": "chemical-analysis-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-identification-of-ions-by-chemical-and-spectroscopic-means-practice",
+          "resourceTitle": "AQA GCSE Chemistry (8462): Identification of ions by chemical and spectroscopic means -- Practice Questions",
+          "questionCount": 11
+        },
+        {
           "topicNumber": 11,
           "topicName": "Key ideas",
           "topicSlug": "key-ideas-8462",
@@ -657,12 +1219,68 @@
           "questionCount": 12
         },
         {
+          "topicNumber": 10,
+          "topicName": "Using resources",
+          "topicSlug": "using-resources-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-life-cycle-assessment-and-recycling-practice",
+          "resourceTitle": "AQA GCSE Chemistry (8462): Life cycle assessment and recycling -- Practice Questions",
+          "questionCount": 10
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Bonding, structure, and the properties of matter",
+          "topicSlug": "bonding-structure-and-the-properties-of-matter-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-metals-as-conductors-practice",
+          "resourceTitle": "AQA GCSE Chemistry (8462): Metals as conductors -- Practice Questions",
+          "questionCount": 11
+        },
+        {
           "topicNumber": 7,
           "topicName": "Organic chemistry",
           "topicSlug": "organic-chemistry-8462",
           "resourceSlug": "aqa-gcse-chemistry-8462-organic-chemistry-practice",
           "resourceTitle": "AQA GCSE Chemistry 8462: Organic chemistry -- Practice Questions",
           "questionCount": 11
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Bonding, structure, and the properties of matter",
+          "topicSlug": "bonding-structure-and-the-properties-of-matter-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-polymers-practice",
+          "resourceTitle": "AQA GCSE Chemistry (8462): Polymers -- Practice Questions",
+          "questionCount": 10
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Bonding, structure, and the properties of matter",
+          "topicSlug": "bonding-structure-and-the-properties-of-matter-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-properties-of-ionic-compounds-practice",
+          "resourceTitle": "AQA GCSE Chemistry (8462): Properties of ionic compounds -- Practice Questions",
+          "questionCount": 10
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Bonding, structure, and the properties of matter",
+          "topicSlug": "bonding-structure-and-the-properties-of-matter-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-properties-of-metals-and-alloys-practice",
+          "resourceTitle": "AQA GCSE Chemistry (8462): Properties of metals and alloys -- Practice Questions",
+          "questionCount": 10
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Bonding, structure, and the properties of matter",
+          "topicSlug": "bonding-structure-and-the-properties-of-matter-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-properties-of-small-molecules-practice",
+          "resourceTitle": "AQA GCSE Chemistry (8462): Properties of small molecules -- Practice Questions",
+          "questionCount": 10
+        },
+        {
+          "topicNumber": 8,
+          "topicName": "Chemical analysis",
+          "topicSlug": "chemical-analysis-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-purity-formulations-and-chromatography-practice",
+          "resourceTitle": "AQA GCSE Chemistry (8462): Purity, formulations and chromatography -- Practice Questions",
+          "questionCount": 10
         },
         {
           "topicNumber": 3,
@@ -676,9 +1294,113 @@
           "topicNumber": 6,
           "topicName": "The rate and extent of chemical change",
           "topicSlug": "the-rate-and-extent-of-chemical-change-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-rate-of-reaction-practice",
+          "resourceTitle": "AQA GCSE Chemistry (8462): Rate of reaction -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 4,
+          "topicName": "Chemical changes",
+          "topicSlug": "chemical-changes-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-reactions-of-acids-practice",
+          "resourceTitle": "AQA GCSE Chemistry (8462): Reactions of acids -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 7,
+          "topicName": "Organic chemistry",
+          "topicSlug": "organic-chemistry-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-reactions-of-alkenes-and-alcohols-practice",
+          "resourceTitle": "AQA GCSE Chemistry (8462): Reactions of alkenes and alcohols -- Practice Questions",
+          "questionCount": 10
+        },
+        {
+          "topicNumber": 4,
+          "topicName": "Chemical changes",
+          "topicSlug": "chemical-changes-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-reactivity-of-metals-practice",
+          "resourceTitle": "AQA GCSE Chemistry (8462): Reactivity of metals -- Practice Questions",
+          "questionCount": 10
+        },
+        {
+          "topicNumber": 6,
+          "topicName": "The rate and extent of chemical change",
+          "topicSlug": "the-rate-and-extent-of-chemical-change-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-reversible-reactions-and-dynamic-equilibrium-practice",
+          "resourceTitle": "AQA GCSE Chemistry (8462): Reversible reactions and dynamic equilibrium -- Practice Questions",
+          "questionCount": 10
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Bonding, structure, and the properties of matter",
+          "topicSlug": "bonding-structure-and-the-properties-of-matter-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-sizes-of-particles-and-their-properties-practice",
+          "resourceTitle": "AQA GCSE Chemistry (8462): Sizes of particles and their properties -- Practice Questions",
+          "questionCount": 12
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Bonding, structure, and the properties of matter",
+          "topicSlug": "bonding-structure-and-the-properties-of-matter-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-state-symbols-practice",
+          "resourceTitle": "AQA GCSE Chemistry (8462): State symbols -- Practice Questions",
+          "questionCount": 11
+        },
+        {
+          "topicNumber": 7,
+          "topicName": "Organic chemistry",
+          "topicSlug": "organic-chemistry-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-synthetic-and-naturally-occurring-polymers-practice",
+          "resourceTitle": "AQA GCSE Chemistry (8462): Synthetic and naturally occurring polymers -- Practice Questions",
+          "questionCount": 10
+        },
+        {
+          "topicNumber": 9,
+          "topicName": "Chemistry of the atmosphere",
+          "topicSlug": "chemistry-of-the-atmosphere-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-the-composition-and-evolution-of-the-earths-atmosphere-practice",
+          "resourceTitle": "AQA GCSE Chemistry (8462): The composition and evolution of the Earth's atmosphere -- Practice Questions",
+          "questionCount": 10
+        },
+        {
+          "topicNumber": 10,
+          "topicName": "Using resources",
+          "topicSlug": "using-resources-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-the-haber-process-and-the-use-of-npk-fertilisers-practice",
+          "resourceTitle": "AQA GCSE Chemistry (8462): The Haber process and the use of NPK fertilisers -- Practice Questions",
+          "questionCount": 10
+        },
+        {
+          "topicNumber": 6,
+          "topicName": "The rate and extent of chemical change",
+          "topicSlug": "the-rate-and-extent-of-chemical-change-8462",
           "resourceSlug": "aqa-gcse-chemistry-8462-the-rate-and-extent-of-chemical-change-practice",
           "resourceTitle": "AQA GCSE Chemistry 8462: The rate and extent of chemical change -- Practice Questions",
           "questionCount": 11
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Bonding, structure, and the properties of matter",
+          "topicSlug": "bonding-structure-and-the-properties-of-matter-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-three-states-of-matter-practice",
+          "resourceTitle": "AQA GCSE Chemistry (8462): The three states of matter -- Practice Questions",
+          "questionCount": 9
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Bonding, structure, and the properties of matter",
+          "topicSlug": "bonding-structure-and-the-properties-of-matter-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-uses-of-nanoparticles-practice",
+          "resourceTitle": "AQA GCSE Chemistry (8462): Uses of nanoparticles -- Practice Questions",
+          "questionCount": 9
+        },
+        {
+          "topicNumber": 10,
+          "topicName": "Using resources",
+          "topicSlug": "using-resources-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-using-materials-practice",
+          "resourceTitle": "AQA GCSE Chemistry (8462): Using materials -- Practice Questions",
+          "questionCount": 10
         },
         {
           "topicNumber": 10,
@@ -687,6 +1409,30 @@
           "resourceSlug": "aqa-gcse-chemistry-8462-using-resources-practice",
           "resourceTitle": "AQA GCSE Chemistry 8462: Using resources -- Practice Questions",
           "questionCount": 12
+        },
+        {
+          "topicNumber": 10,
+          "topicName": "Using resources",
+          "topicSlug": "using-resources-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-using-the-earths-resources-and-obtaining-potable-water-practice",
+          "resourceTitle": "AQA GCSE Chemistry (8462): Using the Earth's resources and obtaining potable water -- Practice Questions",
+          "questionCount": 10
+        },
+        {
+          "topicNumber": 3,
+          "topicName": "Quantitative chemistry",
+          "topicSlug": "quantitative-chemistry-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-volumes-of-gases-practice",
+          "resourceTitle": "AQA GCSE Chemistry (8462): Use of amount of substance in relation to volumes of gases -- Practice Questions",
+          "questionCount": 10
+        },
+        {
+          "topicNumber": 3,
+          "topicName": "Quantitative chemistry",
+          "topicSlug": "quantitative-chemistry-8462",
+          "resourceSlug": "aqa-gcse-chemistry-8462-yield-and-atom-economy-practice",
+          "resourceTitle": "AQA GCSE Chemistry (8462): Yield and atom economy of chemical reactions -- Practice Questions",
+          "questionCount": 10
         }
       ]
     },
@@ -711,10 +1457,10 @@
       "qualificationSlug": "gcse",
       "subjectSlug": "mathematics",
       "syllabusSeries": "For first teaching 2015",
-      "totalQuestions": 150,
+      "totalQuestions": 186,
       "totalSubtopics": 10,
-      "coveredSubtopics": 7,
-      "coveragePct": 70,
+      "coveredSubtopics": 10,
+      "coveragePct": 100,
       "gaps": [],
       "thin": [],
       "topicsWithoutTaxonomy": [
@@ -744,12 +1490,28 @@
           "questionCount": 12
         },
         {
+          "topicNumber": 4,
+          "topicName": "Geometry and measures",
+          "topicSlug": "geometry-and-measures-aqa-gcse-maths",
+          "resourceSlug": "aqa-gcse-maths-8300-mensuration-and-calculation-practice",
+          "resourceTitle": "AQA GCSE Mathematics 8300: Mensuration and calculation -- Practice Questions",
+          "questionCount": 13
+        },
+        {
           "topicNumber": 5,
           "topicName": "Probability",
           "topicSlug": "probability-aqa-gcse-maths",
           "resourceSlug": "aqa-gcse-maths-8300-probability-practice",
           "resourceTitle": "AQA GCSE Mathematics 8300: Probability -- Practice Questions",
           "questionCount": 11
+        },
+        {
+          "topicNumber": 4,
+          "topicName": "Geometry and measures",
+          "topicSlug": "geometry-and-measures-aqa-gcse-maths",
+          "resourceSlug": "aqa-gcse-maths-8300-properties-and-constructions-practice",
+          "resourceTitle": "AQA GCSE Mathematics 8300: Properties and constructions -- Practice Questions",
+          "questionCount": 12
         },
         {
           "topicNumber": 3,
@@ -766,6 +1528,14 @@
           "resourceSlug": "aqa-gcse-maths-8300-statistics-practice",
           "resourceTitle": "AQA GCSE Mathematics 8300: Statistics -- Practice Questions",
           "questionCount": 12
+        },
+        {
+          "topicNumber": 4,
+          "topicName": "Geometry and measures",
+          "topicSlug": "geometry-and-measures-aqa-gcse-maths",
+          "resourceSlug": "aqa-gcse-maths-8300-vectors-practice",
+          "resourceTitle": "AQA GCSE Mathematics 8300: Vectors -- Practice Questions",
+          "questionCount": 11
         }
       ]
     }

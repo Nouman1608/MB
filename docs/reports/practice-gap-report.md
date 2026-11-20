@@ -1,10 +1,10 @@
 # Practice-question gap report
 
-Generated 2026-11-20T07:11:58.504Z. Section 13 scope: practice-question coverage gaps for the
+Generated 2026-11-20T09:21:08.449Z. Section 13 scope: practice-question coverage gaps for the
 five flagship specifications only -- see src/utils/practice/gap-report.ts for the full
 rationale and docs/decision-log.md D-108 for what this deliberately does not attempt.
 
-**13 zero-question subtopics, 0 thin (1-2 question) subtopics, across all 5 codes.**
+**0 zero-question subtopics, 0 thin (1-2 question) subtopics, across all 5 codes.**
 
 ## Cambridge IGCSE Chemistry (0620, 2026-2028)
 
@@ -38,15 +38,26 @@ No zero-question subtopics.
 
 ## Pearson Edexcel IGCSE Chemistry (4CH1, Issue 3, September 2024)
 
-280 questions · 17/28 subtopics covered (61%)
+424 questions · 28/28 subtopics covered (100%)
 
 No zero-question subtopics.
 
-### Topic-tagged only, not subtopic-level (2)
+### Topic-tagged only, not subtopic-level (13)
 
 Real questions exist for these topics, but the source frontmatter doesn't say which
 subtopic -- excluded from both the gap list and the coverage count above.
 
+- 4. Organic chemistry — edexcel-igcse-chemistry-4ch1-alcohols-practice (14 questions)
+- 4. Organic chemistry — edexcel-igcse-chemistry-4ch1-alkanes-practice (14 questions)
+- 4. Organic chemistry — edexcel-igcse-chemistry-4ch1-alkenes-practice (14 questions)
+- 4. Organic chemistry — edexcel-igcse-chemistry-4ch1-carboxylic-acids-practice (14 questions)
+- 4. Organic chemistry — edexcel-igcse-chemistry-4ch1-crude-oil-practice (12 questions)
+- 3. Physical chemistry — edexcel-igcse-chemistry-4ch1-energetics-practice (12 questions)
+- 4. Organic chemistry — edexcel-igcse-chemistry-4ch1-esters-practice (14 questions)
+- 4. Organic chemistry — edexcel-igcse-chemistry-4ch1-organic-chemistry-introduction-practice (14 questions)
+- 3. Physical chemistry — edexcel-igcse-chemistry-4ch1-rates-of-reaction-practice (12 questions)
+- 3. Physical chemistry — edexcel-igcse-chemistry-4ch1-reversible-reactions-and-equilibria-practice (12 questions)
+- 4. Organic chemistry — edexcel-igcse-chemistry-4ch1-synthetic-polymers-practice (12 questions)
 - 4. Organic chemistry — edexcel-igcse-chemistry-organic-practice (12 questions)
 - 3. Physical chemistry — edexcel-igcse-chemistry-physical-chemistry-practice (12 questions)
 
@@ -88,15 +99,60 @@ No zero-question subtopics.
 
 ## Cambridge O Level Mathematics (4024, 2025-2027)
 
-437 questions · 23/68 subtopics covered (34%)
+1093 questions · 68/68 subtopics covered (100%)
 
 No zero-question subtopics.
 
-### Topic-tagged only, not subtopic-level (6)
+### Topic-tagged only, not subtopic-level (51)
 
 Real questions exist for these topics, but the source frontmatter doesn't say which
 subtopic -- excluded from both the gap list and the coverage count above.
 
+- 4. Geometry — cambridge-o-level-mathematics-4024-angles-practice (15 questions)
+- 5. Mensuration — cambridge-o-level-mathematics-4024-area-and-perimeter-practice (17 questions)
+- 4. Geometry — cambridge-o-level-mathematics-4024-circle-theorems-i-practice (13 questions)
+- 4. Geometry — cambridge-o-level-mathematics-4024-circle-theorems-ii-practice (13 questions)
+- 5. Mensuration — cambridge-o-level-mathematics-4024-circles-arcs-and-sectors-practice (17 questions)
+- 5. Mensuration — cambridge-o-level-mathematics-4024-compound-shapes-and-parts-of-shapes-practice (13 questions)
+- 3. Coordinate geometry — cambridge-o-level-mathematics-4024-coordinates-practice (14 questions)
+- 3. Coordinate geometry — cambridge-o-level-mathematics-4024-drawing-linear-graphs-practice (14 questions)
+- 3. Coordinate geometry — cambridge-o-level-mathematics-4024-equations-of-linear-graphs-practice (14 questions)
+- 1. Number — cambridge-o-level-mathematics-4024-estimation-practice (14 questions)
+- 1. Number — cambridge-o-level-mathematics-4024-exponential-growth-and-decay-practice (14 questions)
+- 1. Number — cambridge-o-level-mathematics-4024-fractions-decimals-and-percentages-practice (16 questions)
+- 4. Geometry — cambridge-o-level-mathematics-4024-geometrical-constructions-practice (12 questions)
+- 4. Geometry — cambridge-o-level-mathematics-4024-geometrical-terms-practice (16 questions)
+- 3. Coordinate geometry — cambridge-o-level-mathematics-4024-gradient-of-linear-graphs-practice (14 questions)
+- 1. Number — cambridge-o-level-mathematics-4024-indices-i-practice (18 questions)
+- 8. Probability — cambridge-o-level-mathematics-4024-introduction-to-probability-practice (16 questions)
+- 3. Coordinate geometry — cambridge-o-level-mathematics-4024-length-and-midpoint-practice (14 questions)
+- 1. Number — cambridge-o-level-mathematics-4024-limits-of-accuracy-practice (14 questions)
+- 1. Number — cambridge-o-level-mathematics-4024-money-practice (14 questions)
+- 6. Trigonometry — cambridge-o-level-mathematics-4024-non-right-angled-triangles-practice (12 questions)
+- 1. Number — cambridge-o-level-mathematics-4024-ordering-practice (14 questions)
+- 3. Coordinate geometry — cambridge-o-level-mathematics-4024-parallel-lines-practice (12 questions)
+- 1. Number — cambridge-o-level-mathematics-4024-percentages-practice (17 questions)
+- 3. Coordinate geometry — cambridge-o-level-mathematics-4024-perpendicular-lines-practice (12 questions)
+- 1. Number — cambridge-o-level-mathematics-4024-powers-and-roots-practice (16 questions)
+- 8. Probability — cambridge-o-level-mathematics-4024-probability-of-combined-events-practice (15 questions)
+- 6. Trigonometry — cambridge-o-level-mathematics-4024-pythagoras-theorem-and-trigonometry-practice (12 questions)
+- 6. Trigonometry — cambridge-o-level-mathematics-4024-pythagoras-theorem-practice (17 questions)
+- 1. Number — cambridge-o-level-mathematics-4024-rates-practice (14 questions)
+- 1. Number — cambridge-o-level-mathematics-4024-ratio-and-proportion-practice (14 questions)
+- 8. Probability — cambridge-o-level-mathematics-4024-relative-and-expected-frequencies-practice (16 questions)
+- 6. Trigonometry — cambridge-o-level-mathematics-4024-right-angled-triangles-practice (15 questions)
+- 4. Geometry — cambridge-o-level-mathematics-4024-scale-drawings-practice (14 questions)
+- 1. Number — cambridge-o-level-mathematics-4024-sets-practice (14 questions)
+- 4. Geometry — cambridge-o-level-mathematics-4024-similarity-practice (12 questions)
+- 1. Number — cambridge-o-level-mathematics-4024-standard-form-practice (15 questions)
+- 1. Number — cambridge-o-level-mathematics-4024-surds-practice (17 questions)
+- 5. Mensuration — cambridge-o-level-mathematics-4024-surface-area-and-volume-practice (15 questions)
+- 4. Geometry — cambridge-o-level-mathematics-4024-symmetry-practice (13 questions)
+- 1. Number — cambridge-o-level-mathematics-4024-the-four-operations-practice (17 questions)
+- 1. Number — cambridge-o-level-mathematics-4024-time-practice (14 questions)
+- 1. Number — cambridge-o-level-mathematics-4024-types-of-number-practice (14 questions)
+- 5. Mensuration — cambridge-o-level-mathematics-4024-units-of-measure-practice (19 questions)
+- 1. Number — cambridge-o-level-mathematics-4024-using-a-calculator-practice (14 questions)
 - 3. Coordinate geometry — o-level-mathematics-coordinate-geometry-practice (12 questions)
 - 4. Geometry — o-level-mathematics-geometry-practice (12 questions)
 - 5. Mensuration — o-level-mathematics-mensuration-practice (12 questions)
@@ -136,15 +192,29 @@ No zero-question subtopics.
 
 ## Cambridge O Level Computer Science (2210, 2026-2028)
 
-161 questions · 7/21 subtopics covered (33%)
+370 questions · 21/21 subtopics covered (100%)
 
 No zero-question subtopics.
 
-### Topic-tagged only, not subtopic-level (8)
+### Topic-tagged only, not subtopic-level (22)
 
 Real questions exist for these topics, but the source frontmatter doesn't say which
 subtopic -- excluded from both the gap list and the coverage count above.
 
+- 8. Programming — cambridge-o-level-computer-science-2210-arrays-practice (13 questions)
+- 6. Automated and emerging technologies — cambridge-o-level-computer-science-2210-artificial-intelligence-practice (14 questions)
+- 6. Automated and emerging technologies — cambridge-o-level-computer-science-2210-automated-systems-practice (14 questions)
+- 5. The internet and its uses — cambridge-o-level-computer-science-2210-cyber-security-practice (17 questions)
+- 1. Data representation — cambridge-o-level-computer-science-2210-data-storage-and-compression-practice (16 questions)
+- 5. The internet and its uses — cambridge-o-level-computer-science-2210-digital-currency-practice (15 questions)
+- 8. Programming — cambridge-o-level-computer-science-2210-file-handling-practice (13 questions)
+- 1. Data representation — cambridge-o-level-computer-science-2210-number-systems-practice (15 questions)
+- 8. Programming — cambridge-o-level-computer-science-2210-programming-concepts-practice (15 questions)
+- 4. Software — cambridge-o-level-computer-science-2210-programming-languages-translators-and-ides-practice (16 questions)
+- 6. Automated and emerging technologies — cambridge-o-level-computer-science-2210-robotics-practice (14 questions)
+- 1. Data representation — cambridge-o-level-computer-science-2210-text-sound-and-images-practice (15 questions)
+- 5. The internet and its uses — cambridge-o-level-computer-science-2210-the-internet-and-the-world-wide-web-practice (16 questions)
+- 4. Software — cambridge-o-level-computer-science-2210-types-of-software-and-interrupts-practice (16 questions)
 - 7. Algorithm design and problem-solving — o-level-computer-science-algorithm-design-practice (6 questions)
 - 6. Automated and emerging technologies — o-level-computer-science-automated-and-emerging-technologies-practice (7 questions)
 - 10. Boolean logic — o-level-computer-science-boolean-logic-practice (5 questions)
@@ -191,38 +261,62 @@ measure a subtopic-level gap against yet.
 
 ## AQA GCSE Chemistry (8462, For teaching from September 2016)
 
-228 questions · 8/46 subtopics covered (17%)
+618 questions · 46/46 subtopics covered (100%)
 
-### Gaps — zero questions (13)
+No zero-question subtopics.
 
-- 2. Bonding, structure, and the properties of matter — 4.2.2.1 The three states of matter
-- 2. Bonding, structure, and the properties of matter — 4.2.2.2 State symbols
-- 2. Bonding, structure, and the properties of matter — 4.2.2.3 Properties of ionic compounds
-- 2. Bonding, structure, and the properties of matter — 4.2.2.4 Properties of small molecules
-- 2. Bonding, structure, and the properties of matter — 4.2.2.5 Polymers
-- 2. Bonding, structure, and the properties of matter — 4.2.2.6 Giant covalent structures
-- 2. Bonding, structure, and the properties of matter — 4.2.2.7 Properties of metals and alloys
-- 2. Bonding, structure, and the properties of matter — 4.2.2.8 Metals as conductors
-- 2. Bonding, structure, and the properties of matter — 4.2.3.1 Diamond
-- 2. Bonding, structure, and the properties of matter — 4.2.3.2 Graphite
-- 2. Bonding, structure, and the properties of matter — 4.2.3.3 Graphene and fullerenes
-- 2. Bonding, structure, and the properties of matter — 4.2.4.1 Sizes of particles and their properties
-- 2. Bonding, structure, and the properties of matter — 4.2.4.2 Uses of nanoparticles
-
-### Topic-tagged only, not subtopic-level (9)
+### Topic-tagged only, not subtopic-level (47)
 
 Real questions exist for these topics, but the source frontmatter doesn't say which
 subtopic -- excluded from both the gap list and the coverage count above.
 
+- 3. Quantitative chemistry — aqa-gcse-chemistry-8462-amount-of-substance-and-masses-practice (9 questions)
+- 7. Organic chemistry — aqa-gcse-chemistry-8462-carbon-compounds-as-fuels-and-feedstock-practice (10 questions)
+- 9. Chemistry of the atmosphere — aqa-gcse-chemistry-8462-carbon-dioxide-and-methane-as-greenhouse-gases-practice (10 questions)
 - 8. Chemical analysis — aqa-gcse-chemistry-8462-chemical-analysis-practice (11 questions)
+- 5. Energy changes — aqa-gcse-chemistry-8462-chemical-cells-and-fuel-cells-practice (10 questions)
 - 4. Chemical changes — aqa-gcse-chemistry-8462-chemical-changes-practice (11 questions)
+- 3. Quantitative chemistry — aqa-gcse-chemistry-8462-chemical-measurements-conservation-of-mass-practice (10 questions)
 - 9. Chemistry of the atmosphere — aqa-gcse-chemistry-8462-chemistry-of-the-atmosphere-practice (12 questions)
+- 9. Chemistry of the atmosphere — aqa-gcse-chemistry-8462-common-atmospheric-pollutants-and-their-sources-practice (10 questions)
+- 3. Quantitative chemistry — aqa-gcse-chemistry-8462-concentrations-in-mol-dm3-practice (10 questions)
+- 2. Bonding, structure, and the properties of matter — aqa-gcse-chemistry-8462-diamond-practice (11 questions)
+- 4. Chemical changes — aqa-gcse-chemistry-8462-electrolysis-practice (12 questions)
 - 5. Energy changes — aqa-gcse-chemistry-8462-energy-changes-practice (12 questions)
+- 5. Energy changes — aqa-gcse-chemistry-8462-exothermic-and-endothermic-reactions-practice (11 questions)
+- 2. Bonding, structure, and the properties of matter — aqa-gcse-chemistry-8462-giant-covalent-structures-practice (10 questions)
+- 2. Bonding, structure, and the properties of matter — aqa-gcse-chemistry-8462-graphene-and-fullerenes-practice (11 questions)
+- 2. Bonding, structure, and the properties of matter — aqa-gcse-chemistry-8462-graphite-practice (11 questions)
+- 8. Chemical analysis — aqa-gcse-chemistry-8462-identification-of-common-gases-practice (10 questions)
+- 8. Chemical analysis — aqa-gcse-chemistry-8462-identification-of-ions-by-chemical-and-spectroscopic-means-practice (11 questions)
 - 11. Key ideas — aqa-gcse-chemistry-8462-key-ideas-practice (12 questions)
+- 10. Using resources — aqa-gcse-chemistry-8462-life-cycle-assessment-and-recycling-practice (10 questions)
+- 2. Bonding, structure, and the properties of matter — aqa-gcse-chemistry-8462-metals-as-conductors-practice (11 questions)
 - 7. Organic chemistry — aqa-gcse-chemistry-8462-organic-chemistry-practice (11 questions)
+- 2. Bonding, structure, and the properties of matter — aqa-gcse-chemistry-8462-polymers-practice (10 questions)
+- 2. Bonding, structure, and the properties of matter — aqa-gcse-chemistry-8462-properties-of-ionic-compounds-practice (10 questions)
+- 2. Bonding, structure, and the properties of matter — aqa-gcse-chemistry-8462-properties-of-metals-and-alloys-practice (10 questions)
+- 2. Bonding, structure, and the properties of matter — aqa-gcse-chemistry-8462-properties-of-small-molecules-practice (10 questions)
+- 8. Chemical analysis — aqa-gcse-chemistry-8462-purity-formulations-and-chromatography-practice (10 questions)
 - 3. Quantitative chemistry — aqa-gcse-chemistry-8462-quantitative-chemistry-practice (11 questions)
+- 6. The rate and extent of chemical change — aqa-gcse-chemistry-8462-rate-of-reaction-practice (11 questions)
+- 4. Chemical changes — aqa-gcse-chemistry-8462-reactions-of-acids-practice (11 questions)
+- 7. Organic chemistry — aqa-gcse-chemistry-8462-reactions-of-alkenes-and-alcohols-practice (10 questions)
+- 4. Chemical changes — aqa-gcse-chemistry-8462-reactivity-of-metals-practice (10 questions)
+- 6. The rate and extent of chemical change — aqa-gcse-chemistry-8462-reversible-reactions-and-dynamic-equilibrium-practice (10 questions)
+- 2. Bonding, structure, and the properties of matter — aqa-gcse-chemistry-8462-sizes-of-particles-and-their-properties-practice (12 questions)
+- 2. Bonding, structure, and the properties of matter — aqa-gcse-chemistry-8462-state-symbols-practice (11 questions)
+- 7. Organic chemistry — aqa-gcse-chemistry-8462-synthetic-and-naturally-occurring-polymers-practice (10 questions)
+- 9. Chemistry of the atmosphere — aqa-gcse-chemistry-8462-the-composition-and-evolution-of-the-earths-atmosphere-practice (10 questions)
+- 10. Using resources — aqa-gcse-chemistry-8462-the-haber-process-and-the-use-of-npk-fertilisers-practice (10 questions)
 - 6. The rate and extent of chemical change — aqa-gcse-chemistry-8462-the-rate-and-extent-of-chemical-change-practice (11 questions)
+- 2. Bonding, structure, and the properties of matter — aqa-gcse-chemistry-8462-three-states-of-matter-practice (9 questions)
+- 2. Bonding, structure, and the properties of matter — aqa-gcse-chemistry-8462-uses-of-nanoparticles-practice (9 questions)
+- 10. Using resources — aqa-gcse-chemistry-8462-using-materials-practice (10 questions)
 - 10. Using resources — aqa-gcse-chemistry-8462-using-resources-practice (12 questions)
+- 10. Using resources — aqa-gcse-chemistry-8462-using-the-earths-resources-and-obtaining-potable-water-practice (10 questions)
+- 3. Quantitative chemistry — aqa-gcse-chemistry-8462-volumes-of-gases-practice (10 questions)
+- 3. Quantitative chemistry — aqa-gcse-chemistry-8462-yield-and-atom-economy-practice (10 questions)
 
 ### No subtopic taxonomy recorded (1)
 
@@ -239,19 +333,22 @@ No zero-question subtopics.
 
 ## AQA GCSE Mathematics (8300, For first teaching 2015)
 
-150 questions · 7/10 subtopics covered (70%)
+186 questions · 10/10 subtopics covered (100%)
 
 No zero-question subtopics.
 
-### Topic-tagged only, not subtopic-level (4)
+### Topic-tagged only, not subtopic-level (7)
 
 Real questions exist for these topics, but the source frontmatter doesn't say which
 subtopic -- excluded from both the gap list and the coverage count above.
 
 - 4. Geometry and measures — aqa-gcse-maths-8300-geometry-and-measures-practice (12 questions)
+- 4. Geometry and measures — aqa-gcse-maths-8300-mensuration-and-calculation-practice (13 questions)
 - 5. Probability — aqa-gcse-maths-8300-probability-practice (11 questions)
+- 4. Geometry and measures — aqa-gcse-maths-8300-properties-and-constructions-practice (12 questions)
 - 3. Ratio, proportion and rates of change — aqa-gcse-maths-8300-ratio-proportion-and-rates-of-change-practice (12 questions)
 - 6. Statistics — aqa-gcse-maths-8300-statistics-practice (12 questions)
+- 4. Geometry and measures — aqa-gcse-maths-8300-vectors-practice (11 questions)
 
 ### No subtopic taxonomy recorded (3)
 
