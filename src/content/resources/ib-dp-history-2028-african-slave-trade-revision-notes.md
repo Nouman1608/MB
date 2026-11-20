@@ -131,3 +131,12 @@ featured: false
 ## Official syllabus
 
 International Baccalaureate Organization, *History guide*, first assessment 2028, Regional study 3 of Africa and the Middle East. Practice: [practice questions](/resources/ib-dp-history-2028-african-slave-trade-practice/).
+
+## Key terms
+
+- **Middle Passage:** the sea crossing of the Atlantic trade, in which captives were held in crowded ships and many died.
+- **Maroons:** communities formed by people who escaped slavery.
+- **Legitimate commerce:** trade in goods such as palm oil and groundnuts, promoted as a replacement for the trade in people.
+- **West Africa Squadron:** the British naval patrol from 1808 that stopped slave ships.
+- **Abolition:** the legal ending of the trade (1807 in Britain) or of slavery itself (1833 in the British Empire).
+- **Plantation complex:** the system of large farms, forced labour and export crops in the Americas and, later, in parts of Africa.

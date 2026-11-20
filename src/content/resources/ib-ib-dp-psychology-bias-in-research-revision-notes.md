@@ -1,17 +1,19 @@
 ---
-title: "IB DP Psychology (2019): Bias in Research and How to Avoid It -- Revision Notes"
+title: "IB DP Psychology: Bias in Research and How to Avoid It -- Revision Notes"
 resourceType: "revision-notes"
 subject: "psychology"
 level: ["ib"]
-topic: "Topic 4: Approaches to researching behaviour"
+topic: "Content -- Research methodology"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: ["DP Psychology (2019) / DP Psychology (2027)"]
-syllabusSeries: "First assessment 2019"
+syllabusCodes: ["DP Psychology (2027)", "DP Psychology (2019) / DP Psychology (2027)"]
+syllabusSeries: "First assessment 2027"
 order: 4.1
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-psychology-approaches-to-researching-behaviour"
+  - qualification: "ib-dp"
+    topic: "ib-dp-psychology-2027-research-methodology"
 description: "Condensed IB DP Psychology notes on research bias: participant and researcher bias types, matching strategies, reflexivity, Paper 3 traps and a self-test."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
@@ -22,7 +24,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-These notes cover **bias** in research for IB DP Psychology (first assessment 2019), one of the three issues that the final HL Paper 3 question can ask about ("discuss how the researcher in the study could avoid bias"). The other research ideas are in the [approaches to researching behaviour revision notes](/resources/ib-ib-dp-psychology-approaches-to-researching-behaviour-revision-notes/); the full explanations and a worked Paper 3 answer are in the [bias in research study guide](/resources/ib-ib-dp-psychology-bias-in-research/).
+These notes cover **bias** in research for IB DP Psychology (first assessment 2027), one of the three research considerations that question 3 of HL Paper 3 (6 marks) can ask about ("discuss how the researcher could avoid bias"). Bias is also one of the six concepts of the course. The other research ideas are in the [approaches to researching behaviour revision notes](/resources/ib-ib-dp-psychology-approaches-to-researching-behaviour-revision-notes/); the full explanations and a worked Paper 3 answer are in the [bias in research study guide](/resources/ib-ib-dp-psychology-bias-in-research/).
 
 ## Core definitions
 

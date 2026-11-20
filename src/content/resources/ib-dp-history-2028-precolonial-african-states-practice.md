@@ -71,3 +71,16 @@ featured: false
 - up to 4 for internal divisions (succession quarrels, rival claimants, civil war, disaffected tributaries; for the Zulu, conflict after Cetshwayo's defeat in 1879 and the division of the kingdom);
 - up to 4 for foreign pressure (British armies, annexation in 1887 or 1902, loss of trade, settler demand for land);
 - up to 4 for evaluation and judgement, including how the two interacted: Britain exploited existing divisions, so a clear answer will argue which was more decisive and why. **[15]**
+
+## Model paragraph and feedback
+
+Here is a model opening paragraph for Question 7, using Mali, followed by points on how to improve a draft.
+
+*Model paragraph:* "The Mali Empire grew rich on the trans-Saharan trade in gold and salt, and its rulers taxed the caravans that crossed their lands. This has led some historians to argue that control of trade was the main reason for its growth. Others stress the military victory of Sundiata Keita over Sumanguru at Kirina in about 1235 and the alliance of Mande clans that he built. This essay argues that trade sustained and enlarged the state, but that political alliance and military success created it. Control of trade therefore explains the size and the wealth of Mali more than its origins."
+
+*Feedback points:*
+
+- The paragraph names one state, as the exam requires, and keeps to it.
+- Use the same pattern for any other state: origin, economy, authority, impact, decline.
+- Say "about" for approximate dates, and avoid claims about exact wealth.
+- Refer to oral tradition and written accounts as different kinds of evidence, and say which you are using.

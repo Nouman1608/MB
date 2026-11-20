@@ -138,3 +138,13 @@ featured: false
 ## Official syllabus
 
 International Baccalaureate Organization, *History guide*, first assessment 2028, Regional study 5 of Africa and the Middle East. Practice: [practice questions](/resources/ib-dp-history-2028-partition-of-africa-practice/).
+
+## Key terms
+
+- **New Imperialism:** the burst of European colonial expansion from about 1870 to 1914.
+- **Scramble:** the rapid claiming of African territory after about 1880.
+- **Effective occupation:** the Berlin rule that a claim needed real control.
+- **Protectorate:** a territory run under the protection of a colonial power, often with local rulers kept in place.
+- **Concession:** a grant of rights, such as mining, usually signed by an African ruler.
+- **Civilising mission:** the idea that Europeans had a duty to bring Christianity and "progress" to Africa.
+- **Collaboration:** cooperation by African rulers or groups with European powers.

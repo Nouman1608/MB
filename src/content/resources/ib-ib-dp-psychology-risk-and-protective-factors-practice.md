@@ -24,14 +24,14 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-> **These are original questions written for Marlbridge** on "risk and protective factors" in the health
-> psychology option (IB DP Psychology, first assessment 2019). They are not past-paper questions.
-> Question 13 uses the Paper 2 essay tariff of 22 marks; the rest use practice tariffs. The survey in
+> **These are original questions written for Marlbridge** on risk and protective factors in the Health
+> and well-being context (IB DP Psychology, first assessment 2027). They are not past-paper questions.
+> Question 13 uses the Paper 1 Section C tariff of 15 marks; the rest use practice tariffs. The survey in
 > Question 9 is invented, with invented figures.
 
 Related: [Risk and protective factors study guide](/resources/ib-ib-dp-psychology-risk-and-protective-factors/),
 [revision notes](/resources/ib-ib-dp-psychology-risk-and-protective-factors-revision-notes/) and the
-[health psychology practice questions](/resources/ib-ib-dp-psychology-health-psychology-practice/).
+[health and well-being study guide](/resources/ib-ib-dp-psychology-health-psychology-study-guide/).
 
 ## Section A
 
@@ -72,7 +72,7 @@ Related: [Risk and protective factors study guide](/resources/ib-ib-dp-psycholog
 
 **12.** Explain why socio-economic status is a possible confounding variable in research on adverse childhood experiences. **[2]**
 
-**13.** Discuss risk and protective factors in relation to one health problem. **[22]**
+**13.** Evaluate the role of stress in one health problem, with reference to the concept of causality. **[15]**
 
 ## Answers
 
@@ -105,16 +105,16 @@ Related: [Risk and protective factors study guide](/resources/ib-ib-dp-psycholog
 
 **12.** Low income is linked to higher rates of household stress and adversity in childhood **[1]** and also to poorer adult health through access to care, housing and diet, so it could explain the link between ACEs and illness **[1]**.
 
-**13.** Marked with the Paper 2 essay criteria:
-- **A Focus:** names a health problem, such as stress-related illness, and defines risk and protective factors **[2]**.
-- **B Knowledge and understanding:** pathways; graded relationships; the buffering hypothesis **[6]**.
-- **C Use of research:** two or three of Felitti et al. (1998), Cohen, Tyrrell and Smith (1991), Berkman and Syme (1979) and Cohen et al. (1997) **[6]**.
-- **D Critical thinking:** correlation and confounding; prospective versus retrospective designs; controlled exposure; ethics; culture; a conclusion on how strong the evidence is **[6]**.
-- **E Clarity and organisation:** a clear structure that keeps the health problem in view **[2]**.
+**13.** Marked with the Paper 1 Section C markbands (15 marks). The top band, 13 to 15 marks, needs the demands of the question addressed; relevant knowledge and understanding fully explained; well-developed critical analysis; links to the concept of causality included throughout and fully explained; a reasoned, clearly stated conclusion; and accurate, precise terminology. Content that can be credited:
+- **Knowledge:** names a health problem, such as stress-related illness; defines stress, risk and protective factors; behavioural and physiological pathways; graded relationships; the buffering hypothesis.
+- **Research as evidence:** two or three of Felitti et al. (1998), Cohen, Tyrrell and Smith (1991), Berkman and Syme (1979) and Cohen et al. (1997). Details of studies are not assessed, so credit what the evidence shows.
+- **Critical analysis:** correlation and confounding; prospective versus retrospective designs; controlled exposure; ethics; culture.
+- **Causality:** what each design can and cannot show about cause and effect, and whether the pathway is behavioural, physiological or unknown.
+- **Conclusion:** a judgement on how strong the evidence is that stress plays a causal role in the health problem.
 
 ## Where marks are usually lost
 
 - **Question 7:** explaining the salt water but not the quarantine.
 - **Question 9(b):** saying support "always helps" without comparing the two stress levels.
 - **Question 12:** naming socio-economic status without explaining how it links to both variables.
-- **Question 13:** listing factors with no named health problem and no research.
+- **Question 13:** listing factors with no named health problem and no research, or never returning to causality.

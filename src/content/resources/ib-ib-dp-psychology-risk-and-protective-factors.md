@@ -24,7 +24,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide covers one content point of the health psychology option in IB DP Psychology (first assessment 2019): **"risk and protective factors"**, part of the topic "determinants of health". The [health psychology study guide](/resources/ib-ib-dp-psychology-health-psychology-study-guide/) introduces the biopsychosocial determinants and the health belief model, and the option's revision notes give risk and protection a single table row. This page defines the two kinds of factor, explains how they work, and gives four studies you can use, with evaluation and an essay plan. The course described here has its last examination session in November 2026.
+This guide covers **risk and protective factors in health** for the Health and well-being context of IB DP Psychology (first assessment 2027). The 2027 guide does not list risk and protective factors as an area of study. It does ask for the role of stress in health problems, the role of environmental factors in mental health disorders, and factors that explain differences in the prevalence of health problems, and the research on this page (stress and infection, childhood adversity, social ties) supplies evidence for those areas. The [health psychology study guide](/resources/ib-ib-dp-psychology-health-psychology-study-guide/) introduces the biopsychosocial determinants and the health belief model. This page defines the two kinds of factor, explains how they work, and gives four studies you can use as examples, with evaluation and a plan for a 15-mark Section C response. The 2019 health psychology option listed risk and protective factors as a content point; its last examination session was November 2026.
 
 ## Definitions
 
@@ -85,14 +85,16 @@ Cohen and Wills (1985) distinguished two ways in which social support might prot
 
 They argued that both occur, depending on how support is measured: being part of a network seems to have a general benefit, while having someone to rely on in a crisis acts as a buffer. In an essay, the buffering hypothesis shows interaction between risk and protective factors, which is a strong analytical point.
 
-## Worked example: planning a 22-mark essay
+## Worked example: planning a 15-mark Section C response
 
-**Question:** "Discuss risk and protective factors in relation to one health problem."
+Paper 1 Section C offers two concept-based extended-response questions, each from a different context. The question below is written in that style.
 
-1. **Focus:** choose stress-related illness; define risk and protective factors; state that they interact.
+**Question:** "Evaluate the role of stress in one health problem, with reference to the concept of causality." **[15]**
+
+1. **Focus:** choose stress-related illness; define stress, risk and protective factors; state that they interact.
 2. **Knowledge:** behavioural and physiological pathways; the buffering hypothesis.
 3. **Research:** Cohen, Tyrrell and Smith (1991) for stress as a risk factor; Felitti et al. (1998) for early adversity; Berkman and Syme (1979) and Cohen et al. (1997) for social ties as protection.
-4. **Discussion:** controlled viral exposure versus correlational surveys; retrospective recall in the ACE study; prospective designs; confounding by socio-economic status; ethics of viral exposure; cultural differences in what counts as support.
+4. **Discussion and concept link:** causality: what each design can and cannot show about cause and effect; controlled viral exposure versus correlational surveys; retrospective recall in the ACE study; prospective designs; confounding by socio-economic status; ethics of viral exposure; cultural differences in what counts as support.
 5. **Conclusion:** strong, repeated evidence that stress and adversity raise risk and that social ties protect; the exact mechanisms, and how they combine for each person, are less clear.
 
 ## Common mistakes
@@ -105,10 +107,10 @@ They argued that both occur, depending on how support is measured: being part of
 
 ## Exam technique
 
-**Discuss** needs several arguments, supported by research, with a conclusion. **Evaluate** needs a judgement of the strength of the evidence. **Contrast** asks for differences, for example between a risk factor and a protective factor, referring to both throughout. Build each paragraph as: factor, pathway, study, what it shows, and how strong the evidence is.
+**Discuss** needs several arguments, supported by research, with a conclusion. **Evaluate** needs a judgement of the strength of the evidence. **Compare and contrast** asks for similarities and differences, for example between a risk factor and a protective factor, referring to both throughout. Build each paragraph as: factor, pathway, study, what it shows, and how strong the evidence is.
 
 ## Related pages
 
 - [Risk and protective factors: revision notes](/resources/ib-ib-dp-psychology-risk-and-protective-factors-revision-notes/)
 - [Risk and protective factors: practice questions](/resources/ib-ib-dp-psychology-risk-and-protective-factors-practice/)
-- [Health psychology revision notes](/resources/ib-ib-dp-psychology-health-psychology-revision-notes/)
+- [Health and well-being study guide](/resources/ib-ib-dp-psychology-health-psychology-study-guide/)

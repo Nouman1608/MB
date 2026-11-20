@@ -71,3 +71,16 @@ featured: false
 - up to 4 for revolutionary features (abolition of sultanate and caliphate, secular law, Latin alphabet, women's political rights, the republic);
 - up to 4 for continuity (Tanzimat schools and law, CUP nationalism and centralisation, the officer corps, authoritarian methods, many reforms that had been proposed earlier);
 - up to 4 for evaluation and judgement, which may conclude that the scale and pace were new while many ideas and institutions came from the late empire. **[15]**
+
+## Model paragraph and feedback
+
+Here is a model opening paragraph for Question 8, followed by points on how to improve a draft.
+
+*Model paragraph:* "Atatürk's reforms between 1923 and 1938 are often called a revolution. Supporters point to the abolition of the caliphate, the Swiss-based Civil Code, the Latin alphabet and votes for women. Critics note that earlier Ottoman reformers had already created modern schools, courts and an army, and that the Committee of Union and Progress had already promoted Turkish nationalism and a strong state. This essay argues that the speed and the scope of the changes were revolutionary, especially in religion and law, but that the institutions and the officer class that carried them out came from the late empire. The most important evidence for revolution is the end of the caliphate. The most important evidence for continuity is the Tanzimat legacy in education and administration."
+
+*Feedback points:*
+
+- The paragraph sets out two sides, defines the claim and gives a position.
+- Support every claim with a date or a named reform.
+- When writing on 1915 and minorities, use measured language and say where interpretations differ.
+- Keep the focus on the question: do not give a biography of Kemal.

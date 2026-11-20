@@ -65,7 +65,7 @@ Before 1870 most of Africa was not ruled by Europeans. Europeans held coastal ba
 
 ## 4. Causes and impact of the partition
 
-The **Berlin Conference** (November 1884 to February 1885) was called by Portugal and hosted by German Chancellor **Otto von Bismarck**. Fourteen states attended, with no African representative. Its General Act set free trade in the Congo and Niger basins and said that claims on the coast must be backed by "effective occupation". It also recognised Leopold II's claim to the Congo. The conference did not itself divide Africa, but it set rules that encouraged a rush to claim territory.
+The **Berlin Conference** (November 1884 to February 1885) was hosted by German Chancellor **Otto von Bismarck**. Fourteen states attended, with no African representative. Its General Act set free trade in the Congo and Niger basins and said that claims on the coast must be backed by "effective occupation". It also recognised Leopold II's claim to the Congo. The conference did not itself divide Africa, but it set rules that encouraged a rush to claim territory.
 
 The **scramble** for annexation followed quickly.
 

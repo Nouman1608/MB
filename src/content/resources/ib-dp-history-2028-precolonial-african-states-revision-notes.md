@@ -126,3 +126,13 @@ featured: false
 ## Official syllabus
 
 International Baccalaureate Organization, *History guide*, first assessment 2028, Regional study 2 of Africa and the Middle East. Practice: [practice questions](/resources/ib-dp-history-2028-precolonial-african-states-practice/).
+
+## Key terms
+
+- **Mansa:** the title of the ruler of the Mali Empire.
+- **Asantehene:** the title of the king of Ashanti.
+- **Griot:** a hereditary West African oral historian and musician.
+- **Trans-Saharan trade:** caravan trade across the Sahara between West and North Africa.
+- **Matrilineal:** descent and inheritance traced through the mother's line.
+- **Age regiment (*ibutho*, plural *amabutho*):** a Zulu military and labour unit of men of similar age.
+- **Mfecane:** the early nineteenth-century upheaval in southern Africa; its causes are debated.

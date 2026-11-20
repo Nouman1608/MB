@@ -1,19 +1,21 @@
 ---
-title: "IB DP Psychology Core: The Cognitive Approach to Understanding Behaviour -- Practice Questions"
+title: "IB DP Psychology: The Cognitive Approach to Understanding Behaviour -- Practice Questions"
 seoTitle: "IB DP Psychology Cognitive Approach Practice Questions"
 resourceType: "practice-questions"
 subject: "psychology"
 level: ["ib"]
-topic: "Core -- Cognitive approach to understanding behaviour"
+topic: "Content -- Cognitive approach to understanding behaviour"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: ["DP Psychology"]
-syllabusSeries: "First assessment 2019"
+syllabusCodes: ["DP Psychology (2027)", "DP Psychology"]
+syllabusSeries: "First assessment 2027"
 order: 5
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-psychology-cognitive-approach"
-description: "Practice questions with worked answers on the IB DP Psychology cognitive approach: mental processes, reconstructive memory, schema and comparing approaches."
+  - qualification: "ib-dp"
+    topic: "ib-dp-psychology-2027-cognitive-approach"
+description: "Practice questions with worked answers on the IB DP Psychology cognitive approach (first assessment 2027): reconstructive memory, schema and comparing approaches."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
@@ -22,14 +24,6 @@ reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-09-06
 featured: false
 ---
-
-> **Course note (legacy syllabus):** This resource describes IB DP
-> Psychology for **first assessment 2019**, now in its final teaching
-> cycle (**last examination session November 2026**). A replacement
-> course (first assessment 2027) reworks the approaches into content
-> areas applied across four contexts, integrated with six named concepts.
-> A companion resource for the 2027 course does not yet exist on this
-> site.
 
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -44,7 +38,7 @@ Related: [Cognitive approach study guide](/resources/ib-dp-psychology-cognitive-
 
 ## Section A
 
-**1.** State the three compulsory core approaches examined on Paper 1. **[3]**
+**1.** State the three approaches to understanding human behaviour that the IB Psychology guide lists as content. **[3]**
 
 **2.** Define "reconstructive memory." **[2]**
 
@@ -54,14 +48,14 @@ Related: [Cognitive approach study guide](/resources/ib-dp-psychology-cognitive-
 
 ## Section B
 
-**4.** A candidate answers a Paper 1 essay question on the cognitive approach, about memory, by describing both hippocampal activity and information-processing models in the same paragraph, without stating which approach each point belongs to.
+**4.** A candidate answers a Paper 1 section C question about memory by describing both hippocampal activity and information-processing models in the same paragraph, without stating which approach each point belongs to or linking either to a concept.
 
 **(a)** Explain why this answer would likely lose marks even if both points are factually accurate. **[3]**
 **(b)** Rewrite the opening of this answer to fix the problem, in outline. **[3]**
 
 **5.** Explain, using the concept of schema, why two eyewitnesses to the same event might give genuinely different but equally confident accounts of what happened. **[4]**
 
-**6.** Explain how a student researching cognitive biases in decision-making might design an internal assessment (IA) that draws directly on this approach's vocabulary. **[4]**
+**6.** Explain how a student researching cognitive biases in decision-making might use this approach's vocabulary in the research proposal for the internal assessment (IA). **[4]**
 
 ---
 
@@ -69,7 +63,7 @@ Related: [Cognitive approach study guide](/resources/ib-dp-psychology-cognitive-
 
 **7.** "The cognitive approach's use of computer-like models is a strength because it makes an unobservable process easier to study, but this is also its main limitation." Discuss this statement, using named cognitive concepts. **[8]**
 
-**8.** As a revision exercise (not a Paper 1 essay format), prepare a worked comparison of how the cognitive and biological approaches would each explain a decline in memory accuracy after a stressful event, and explain what a strong answer does with this comparison that a weaker answer does not. **[6]**
+**8.** As a revision exercise, prepare a worked comparison of how the cognitive and biological approaches would each explain a decline in memory accuracy after a stressful event, and explain what a strong answer does with this comparison that a weaker answer does not. **[6]**
 
 ---
 
@@ -81,12 +75,12 @@ Related: [Cognitive approach study guide](/resources/ib-dp-psychology-cognitive-
 
 **3.** The study's methodology, and at least one genuine evaluative point (a strength or limitation of how it was conducted or how applicable its model is to real-world behaviour). **[2]**
 
-**4. (a)** Even where both points are individually accurate, the Paper 1 essay is answered from the single approach the question names -- here the cognitive approach -- with no separate credit for bringing in a second approach. The hippocampal material is biological-approach content, so it adds nothing creditable on its own, takes time away from developing and evaluating cognitive theories and studies, and, blended in without being labelled, makes the answer read as unfocused. **[3]**
-**(b)** A stronger opening names the approach the question asks for and stays within it, for example: "From the cognitive approach, information-processing models such as the multi-store model suggest memory is encoded, stored and retrieved through distinct stages, and reconstructive memory theory suggests retrieval can be distorted by schema..." -- then develops and evaluates cognitive theories and studies throughout, leaving the hippocampus out rather than blending a biological explanation into a cognitive-approach essay. **[3]**
+**4. (a)** Even where both points are individually accurate, the section C markbands reward analysis and explained links between concepts, not accurate description alone. Blending a biological explanation (the hippocampus) and a cognitive one (information-processing models) in one paragraph without labelling them, and without linking either to a concept such as perspective or measurement, leaves the response descriptive and unfocused, so it stays in the lower bands. **[3]**
+**(b)** A stronger opening names the approach for each point and links it to a concept, for example: "From the cognitive approach, information-processing models such as the multi-store model suggest memory is encoded, stored and retrieved through distinct stages, and reconstructive memory theory suggests retrieval can be distorted by schema; from the biological approach, the hippocampus is involved in forming new memories. These are different perspectives on the same behaviour..." -- then develops and evaluates each explanation, signalling which approach is doing the work at every point. **[3]**
 
 **5.** Reconstructive memory theory holds that recall is an active reconstruction shaped by each individual's existing schema -- their prior knowledge, expectations and beliefs -- rather than an accurate playback of the original event. Two eyewitnesses can have different schema going into the same event (different prior experiences, expectations, or areas of attention), so each reconstructs the event slightly differently during recall, integrating gaps with schema-consistent assumptions without being aware they have done so. Because this integration happens below conscious awareness, both witnesses can report their differing accounts with equal, genuine confidence -- confidence is a feature of how convincingly the memory has been reconstructed, not a reliable indicator of its objective accuracy. **[4]**
 
-**6.** A student might design an experiment testing how a manipulated variable -- for example, the way a decision-making scenario is framed (as a potential gain versus a potential loss) -- affects participants' choices, directly testing a cognitive bias such as framing effects or loss aversion. In the write-up, the student would use the cognitive approach's own vocabulary (information-processing, cognitive bias, heuristic) to justify the experimental design, explain the hypothesis in terms of a specific cognitive mechanism rather than a vague prediction, and discuss the findings by connecting them back to the named bias or model, rather than describing results in purely statistical terms disconnected from the underlying cognitive theory. **[4]**
+**6.** A student might propose an experiment (one of the four research methods the proposal can use) testing how a manipulated variable -- for example, the way a decision-making scenario is framed (as a potential gain versus a potential loss) -- affects participants' choices, directly testing a cognitive bias such as framing effects or loss aversion. In the proposal, the student would use the cognitive approach's own vocabulary (information-processing, cognitive bias, heuristic) to justify the choice of method and design, explain the hypothesis in terms of a specific cognitive mechanism rather than a vague prediction, and discuss the potential findings by connecting them back to the named bias or model, rather than describing results in purely statistical terms disconnected from the underlying cognitive theory. **[4]**
 
 **7.** A strong answer identifies specific cognitive models built on computer-like input/processing/storage/output structures -- multi-store models of memory, for example -- and explains that this framing gives cognitive psychology a testable, structured way to describe processes (encoding, storage, retrieval) that cannot be directly observed, which is a genuine methodological strength: it allows specific, falsifiable predictions to be generated and tested experimentally. The same framing is also a limitation, because reducing genuinely complex, embodied, emotional human cognition to a computer-like model risks oversimplifying processes that do not necessarily work in discrete, sequential stages the way a computer does -- real memory, for instance, is influenced by emotion, motivation and social context in ways a purely computational model does not easily represent, which limits the ecological validity of conclusions drawn from lab-based tests of these models. The strongest answers explicitly connect both the strength and the limitation back to named cognitive models and studies, rather than discussing "computer models" only in the abstract, and reach a substantiated conclusion about the overall value of this modelling approach rather than simply listing the strength and limitation side by side. **[8]**
 
@@ -95,17 +89,17 @@ Related: [Cognitive approach study guide](/resources/ib-dp-psychology-cognitive-
 ## Frequently asked questions
 
 **Which IB Psychology paper examines the cognitive approach?**
-The cognitive approach is one of the three compulsory core approaches examined on Paper 1, alongside the biological and sociocultural approaches.
+The cognitive approach is one of the three content areas studied at SL and HL, alongside the biological and sociocultural approaches. Paper 1 section A asks two short-answer questions from two of the three content areas.
 
 **Are these IB Psychology cognitive approach questions official past paper questions?**
-No. They are original practice questions with worked answers. The final question is a revision exercise rather than a Paper 1 essay format.
+No. They are original practice questions with worked answers. The final question is a revision exercise rather than a Paper 1 question format.
 
-**Is comparing two approaches an IB Psychology Paper 1 essay format?**
-No. Comparing how two approaches explain the same behaviour is a useful revision exercise, but the Paper 1 essay is answered from the single approach the question names.
+**Is comparing two approaches a useful revision exercise?**
+Yes. The 2027 guide encourages students to be aware of the overlaps and interactions between the approaches, so comparing how two approaches explain the same behaviour helps you say which approach each point belongs to.
 
 **Can the cognitive approach be used in the IB Psychology internal assessment?**
-Yes. Many students design their experimental study within the cognitive approach, for example testing how a manipulated variable affects recall or decision-making, and use its vocabulary to justify their design.
+Yes. Many students propose an experiment within the cognitive approach, for example on how a manipulated variable affects recall or decision-making, and use its vocabulary to justify their choices in the research proposal.
 
 ## Official syllabus
 
-International Baccalaureate Organization, *Diploma Programme Subject Brief -- Psychology*, first assessment 2019 -- the same source cited by the [study guide](/resources/ib-dp-psychology-cognitive-approach/) and [revision notes](/resources/ib-dp-psychology-cognitive-approach-revision-notes/). Verified 2026-09-06.
+International Baccalaureate Organization, *Diploma Programme Psychology guide*, first assessment 2027 (published February 2025), Syllabus content, "Cognitive approach" and Table 3.2 (p. 25), and External assessment, Paper 1 (pp. 45 to 46), read on 2026-11-20.

@@ -64,7 +64,7 @@ In Germany, revolts in Berlin and Vienna in March 1848 led to the **Frankfurt Pa
 
 *Political impact.* Autocracy was re-established. But some changes lasted: Piedmont kept its constitution (the *Statuto*), and Prussia had a constitution (1850) and a parliament, though with a voting system that favoured the rich.
 
-*Social and cultural impact.* Many liberals went into exile, and nationalism moved from poets to politicians. A famous judgement, that 1848 was a "turning point at which history failed to turn", is often debated. A fair view is that the revolutions failed immediately but changed how people thought about unity.
+*Social and cultural impact.* Many liberals went into exile, and nationalism moved from poets to politicians. A.J.P. Taylor's famous judgement, that 1848 was a "turning point at which history failed to turn", is often debated. A fair view is that the revolutions failed immediately but changed how people thought about unity.
 
 ## Unification of Italy (1849 to 1871)
 
@@ -74,7 +74,7 @@ In Germany, revolts in Berlin and Vienna in March 1848 led to the **Frankfurt Pa
 
 *Foreign influence.* Napoleon III's help was vital in 1859. In 1866 Italy joined Prussia against Austria and gained Venetia. In 1870, when France withdrew its garrison during the Franco-Prussian War, Italian troops entered Rome, which became the capital in 1871.
 
-*Social and economic factors.* Piedmont's economy and army gave it strength. But the new state was divided: the south was poorer, brigandage was crushed by force, and few Italians spoke standard Italian or voted. Massimo d'Azeglio's line, that Italy was made and now Italians must be made, captures the problem.
+*Social and economic factors.* Piedmont's economy and army gave it strength. But the new state was divided: the south was poorer, brigandage was crushed by force, and few Italians spoke standard Italian or voted. A line attributed to Massimo d'Azeglio, that Italy was made and now Italians must be made, captures the problem.
 
 ## Unification of Germany (1849 to 1871)
 

@@ -24,7 +24,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-These notes cover the cognitive approach topic **"emotion and cognition"**, content point **"the influence of emotion on cognitive processes"** (IB DP Psychology, first assessment 2019). The wider approach is in the [cognitive approach revision notes](/resources/ib-dp-psychology-cognitive-approach-revision-notes/); the full explanations and an essay plan are in the [emotion and cognition study guide](/resources/ib-ib-dp-psychology-influence-of-emotion-on-cognition/).
+These notes cover **the influence of emotion on cognitive processes** (IB DP Psychology, first assessment 2027). The 2027 guide does not list emotion as a topic; the research here gives examples of biological factors (arousal hormones, the amygdala) and an environmental influence (an emotionally charged event) on a cognitive process, which the learning and cognition context asks for. The 2019 course listed it as a content point; its last examination session was November 2026. The wider approach is in the [cognitive approach revision notes](/resources/ib-dp-psychology-cognitive-approach-revision-notes/); the full explanations and an essay plan are in the [emotion and cognition study guide](/resources/ib-ib-dp-psychology-influence-of-emotion-on-cognition/).
 
 ## The core argument in five lines
 
@@ -74,9 +74,9 @@ These notes cover the cognitive approach topic **"emotion and cognition"**, cont
 
 - **"Emotion improves memory."** Say which aspect: detail, accuracy, vividness or confidence.
 - **No baseline.** When evaluating, explain why a record made at the time is needed.
-- **Approach drift.** In a cognitive-approach essay, biological studies support the argument but should not dominate it.
+- **Approach drift.** In a cognitive-approach response, biological studies support the argument but should not dominate it.
 - **One process only.** If the question allows, weapon focus shows emotion acting on attention.
-- **Evaluation in a short answer.** A 9-mark short answer needs description and explanation, not critique.
+- **Evaluation in a short answer.** Paper 1 Section A (8 marks in all) and Section B (12 marks in all) ask for explanation and application, not critique; save evaluation for Section C (15 marks).
 
 ## Self-test
 

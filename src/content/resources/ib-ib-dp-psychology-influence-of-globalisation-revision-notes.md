@@ -24,7 +24,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-These notes cover the HL extension to the sociocultural approach: **"the influence of globalization on individual attitudes, identities and behaviour"** (IB DP Psychology, first assessment 2019). The core material it builds on is in the [sociocultural approach revision notes](/resources/ib-ib-dp-psychology-sociocultural-approach-revision-notes/); full explanations and an essay plan are in the [globalisation study guide](/resources/ib-ib-dp-psychology-influence-of-globalisation/).
+These notes cover globalisation within the HL extension **Culture** (IB DP Psychology, first assessment 2027), which is assessed on Paper 3. The 2027 guide notes that cultural diffusion has raised questions about the effect of globalization on mental and physical health, identity and relationships. The 2019 course had "the influence of globalization on individual attitudes, identities and behaviour" as its HL extension. The content it builds on is in the [sociocultural approach revision notes](/resources/ib-ib-dp-psychology-sociocultural-approach-revision-notes/); full explanations and a worked discussion plan are in the [globalisation study guide](/resources/ib-ib-dp-psychology-influence-of-globalisation/).
 
 ## Recall in one minute
 
@@ -87,8 +87,8 @@ These notes cover the HL extension to the sociocultural approach: **"the influen
 - **Answering with core content only.** Berry's model alone does not address globalisation.
 - **Economics instead of psychology.** Keep the focus on individuals.
 - **Treating Fiji as proof of cause.** It is strong evidence of association within a natural experiment.
-- **One-sided essays.** Include a positive or neutral effect, such as cooperation or integrated identities.
-- **SL students.** The extension is HL only; SL questions do not ask about it.
+- **One-sided answers.** Include a positive or neutral effect, such as cooperation or integrated identities.
+- **SL students.** The HL extensions are assessed only on Paper 3, which is HL only; SL papers do not ask about them.
 
 ## Self-test
 

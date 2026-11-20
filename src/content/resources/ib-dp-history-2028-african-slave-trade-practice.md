@@ -71,3 +71,16 @@ featured: false
 - up to 4 for evidence for the claim (public campaigning, parliamentary pressure that led to the 1807 Act, the role of religious groups);
 - up to 4 for other factors (economic change, the role of enslaved people's resistance including Haiti, political and naval interest, later European colonialism);
 - up to 4 for evaluating perspectives (Williams, Drescher and others) and a supported judgement. **[15]**
+
+## Model paragraph and feedback
+
+Here is a model opening paragraph for Question 8, followed by points on how to improve a draft.
+
+*Model paragraph:* "Historians have long debated why Britain ended its slave trade in 1807. Eric Williams argued that economic change, especially industrialisation, made the trade less valuable. Seymour Drescher replied that the trade was still profitable and that abolition needed a political and moral movement. This essay argues that the abolitionist movement was the most important single reason, because it turned opinion into law, but that it succeeded because economic change meant the West Indian interest was less able to defend the trade. It also argues that the actions of enslaved people, above all in Haiti, shaped the debate. The strongest case for the movement is the scale of petitions after 1787 and the parliamentary work of Wilberforce. The strongest case against is the shift to palm oil and other products."
+
+*Feedback points:*
+
+- The paragraph states the argument in the question, names two perspectives, and commits to a line. A weak answer would only list causes.
+- Check that each later paragraph tests one factor and ends by linking it back to the claim.
+- Use "about" for estimates of numbers of people. Never give a precise figure unless you are sure of it.
+- Do not drift into the American Civil War or later slavery unless the question asks for it.

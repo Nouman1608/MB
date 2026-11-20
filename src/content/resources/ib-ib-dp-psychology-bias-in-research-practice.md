@@ -1,18 +1,20 @@
 ---
-title: "IB DP Psychology (2019): Bias in Research and How to Avoid It -- Practice Questions"
+title: "IB DP Psychology: Bias in Research and How to Avoid It -- Practice Questions"
 resourceType: "practice-questions"
 subject: "psychology"
 level: ["ib"]
-topic: "Topic 4: Approaches to researching behaviour"
+topic: "Content -- Research methodology"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: ["DP Psychology (2019) / DP Psychology (2027)"]
-syllabusSeries: "First assessment 2019"
+syllabusCodes: ["DP Psychology (2027)", "DP Psychology (2019) / DP Psychology (2027)"]
+syllabusSeries: "First assessment 2027"
 order: 4.1
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-psychology-approaches-to-researching-behaviour"
-description: "Original IB DP Psychology practice on research bias: identifying bias types, matching strategies, two invented study summaries and a 9-mark Paper 3 discussion."
+  - qualification: "ib-dp"
+    topic: "ib-dp-psychology-2027-research-methodology"
+description: "Original IB DP Psychology practice on research bias: identifying bias types, matching strategies, two invented study summaries and a 6-mark Paper 3 discussion."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
@@ -23,8 +25,8 @@ featured: false
 ---
 
 > **These are original questions written for Marlbridge** on bias in research (IB DP Psychology, first
-> assessment 2019). They are not past-paper questions. Both study summaries are invented. Question 12
-> uses the 9-mark tariff of the final HL Paper 3 question; the others use practice tariffs.
+> assessment 2027). They are not past-paper questions. Both study summaries are invented. Question 12
+> uses the 6-mark tariff of question 3 of HL Paper 3; the others use practice tariffs.
 
 Related: [Bias in research study guide](/resources/ib-ib-dp-psychology-bias-in-research/),
 [revision notes](/resources/ib-ib-dp-psychology-bias-in-research-revision-notes/) and the
@@ -71,7 +73,7 @@ Identify and explain two sources of bias in this study, and suggest how each cou
 > took notes by hand and identified themes afterwards. She reported two themes: homesickness and
 > gratitude for university support.
 
-Discuss how the researcher in the study could avoid bias. **[9]**
+Discuss how the researcher in the study could avoid bias. **[6]**
 
 ## Answers
 
@@ -100,12 +102,12 @@ Discuss how the researcher in the study could avoid bias. **[9]**
 
 **11.** In an experiment, bias can be designed out with controls such as random allocation, standardised procedures and blind conditions **[1]**. In a semi-structured interview, the researcher asks the questions and interprets the answers, so bias cannot be designed out **[1]**; strategies therefore aim to make it visible and checkable, such as reflexivity, recording and researcher triangulation **[1]**.
 
-**12.** Markband guide: 7-9 for a balanced, well-developed discussion of several biases, each linked to the study with a realistic strategy and some judgement of how far it would work; 4-6 for relevant points that are partly generic or not weighed; 1-3 for a list of biases with little reference to the study. Indicative content, one mark per developed point:
-- Social desirability: students meeting in the adviser's office may praise the support she provides; meet in a neutral room with a moderator who is not the adviser **[2]**.
-- Dominant respondent: in groups of six, confident students may steer discussion; use a trained moderator and add individual interviews **[2]**.
-- Confirmation bias: as adviser, she may expect gratitude and record it; keep a reflexive diary and use a second analyst **[2]**.
-- Biased reporting: handwritten notes may capture only some comments; audio-record and transcribe, and report all themes with quotations **[2]**.
-- Judgement: her role as adviser is the most serious source of bias, because it affects both what students say and how she interprets it **[1]**.
+**12.** Markband guide (Paper 3 question 3 markbands): 5-6 for a detailed discussion of the research consideration with explicit reference to the relevant supporting evidence from the source; 3-4 for some understanding, with some inaccuracies and only implicit reference to the source; 1-2 for limited understanding with limited or missing reference to the source. Indicative content, credit developed points up to **[6]**:
+- Social desirability: students meeting in the adviser's office may praise the support she provides; meet in a neutral room with a moderator who is not the adviser.
+- Dominant respondent: in groups of six, confident students may steer discussion; use a trained moderator and add individual interviews.
+- Confirmation bias: as adviser, she may expect gratitude and record it; keep a reflexive diary and use a second analyst.
+- Biased reporting: handwritten notes may capture only some comments; audio-record and transcribe, and report all themes with quotations.
+- Judgement: her role as adviser is the most serious source of bias, because it affects both what students say and how she interprets it.
 
 ## Where marks are usually lost
 

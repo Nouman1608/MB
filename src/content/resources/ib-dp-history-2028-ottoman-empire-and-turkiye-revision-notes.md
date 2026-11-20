@@ -132,3 +132,13 @@ featured: false
 ## Official syllabus
 
 International Baccalaureate Organization, *History guide*, first assessment 2028, Regional study 4 of Africa and the Middle East. Practice: [practice questions](/resources/ib-dp-history-2028-ottoman-empire-and-turkiye-practice/).
+
+## Key terms
+
+- **Tanzimat:** "reorganisation", the reform era from 1839 to 1876.
+- **Millet:** a religious community with its own legal affairs inside the empire.
+- **Capitulations:** privileges given to foreign merchants, including lower duties and separate courts.
+- **Young Turks:** the opposition movement from which the CUP grew.
+- **Turkification:** policies that promoted Turkish language and identity over other groups.
+- **Statism:** state leadership of the economy in the 1930s.
+- **Secularism:** separating the state and law from religious authority.

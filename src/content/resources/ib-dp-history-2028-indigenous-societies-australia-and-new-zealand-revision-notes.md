@@ -145,7 +145,7 @@ These revision notes are for **higher level (HL) only**. Indigenous societies an
 
 1. What was terra nullius?
 2. When was the Treaty of Waitangi signed?
-3. Which battle-site conflict in 1854 arose from gold licence fees?
+3. Which 1854 conflict at Ballarat arose from gold licence fees?
 4. What happened on 1 January 1901?
 5. What was Gallipoli's importance to national identity?
 6. What did the Mabo decision decide?

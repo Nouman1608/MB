@@ -32,8 +32,7 @@ featured: false
 
 The sociocultural approach explains behaviour through the groups people belong to and the cultures they live in. In IB DP Psychology it is one of three content approaches. It is examined on Paper 1 Section A (two compulsory short-answer questions drawn from two of the three content areas, 8 marks in all) and used again in Sections B and C through the contexts. Paper 1 does not assess the details of research studies, so link each theory to an example that you can explain and evaluate.
 
-Related: [Sociocultural approach study guide](/resources/ib-ib-dp-psychology-sociocultural-approach-study-guide/) and
-[practice questions](/resources/ib-ib-dp-psychology-sociocultural-approach-practice/).
+Related: [Sociocultural approach study guide](/resources/ib-ib-dp-psychology-sociocultural-approach-study-guide/).
 
 ## Coverage in the 2027 guide
 
