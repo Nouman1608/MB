@@ -13,6 +13,12 @@ order: 247
 syllabusTopics:
   - qualification: "igcse"
     topic: "inheritance-oxfordaqa-igcse-biology"
+  - qualification: "igcse"
+    topic: "inheritance-oxfordaqa-igcse-biology"
+    subtopic: "reproduction-oxfordaqa-igcse-biology"
+  - qualification: "igcse"
+    topic: "inheritance-oxfordaqa-igcse-biology"
+    subtopic: "cell-division-oxfordaqa-igcse-biology"
 description: "Condensed revision notes on reproduction, mitosis, meiosis, differentiation, stem cells and tumours for OxfordAQA International GCSE Biology."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

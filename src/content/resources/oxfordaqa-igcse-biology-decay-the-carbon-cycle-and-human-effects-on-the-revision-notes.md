@@ -13,6 +13,9 @@ order: 242
 syllabusTopics:
   - qualification: "igcse"
     topic: "ecology-oxfordaqa-igcse-biology"
+  - qualification: "igcse"
+    topic: "ecology-oxfordaqa-igcse-biology"
+    subtopic: "humans-and-their-effects-on-the-environment-oxfordaqa-igcse-biology"
 description: "Condensed revision notes on decay, the carbon cycle, pollution, deforestation and global warming for OxfordAQA International GCSE Biology (9201)."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
