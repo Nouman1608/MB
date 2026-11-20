@@ -13,6 +13,12 @@ order: 11
 syllabusTopics:
   - qualification: "o-level"
     topic: "transport-in-humans"
+  - qualification: "o-level"
+    topic: "transport-in-humans"
+    subtopic: "circulatory-system"
+  - qualification: "o-level"
+    topic: "transport-in-humans"
+    subtopic: "heart"
 description: "Condensed revision notes on the heart, double circulation, blood vessels, blood and coronary heart disease for Cambridge O Level Biology 5090."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

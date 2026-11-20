@@ -13,6 +13,9 @@ order: 12
 syllabusTopics:
   - qualification: "o-level"
     topic: "disease-and-immunity"
+  - qualification: "o-level"
+    topic: "disease-and-immunity"
+    subtopic: "disease"
 description: "Condensed revision notes on pathogens, malaria, HIV, cholera, smoking, antibiotics and immunity for Cambridge O Level Biology 5090, with a self-test."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
