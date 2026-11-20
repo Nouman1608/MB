@@ -1,6 +1,6 @@
 ---
 title: "Cambridge O Level Biology (5090): Inheritance -- Practice Questions"
-seoTitle: "O Level Biology 5090 Inheritance Practice Questions"
+seoTitle: "Cambridge O Level Biology 5090 Inheritance Questions"
 resourceType: "practice-questions"
 subject: "biology"
 level: ["o-levels"]

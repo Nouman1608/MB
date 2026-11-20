@@ -1,6 +1,6 @@
 ---
 title: "AQA GCSE Chemistry (8462): Synthetic and naturally occurring polymers -- Practice Questions"
-seoTitle: "AQA GCSE Chemistry 8462 Polymers Practice Questions"
+seoTitle: "AQA GCSE Chemistry 8462 Synthetic Polymers Questions"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["gcse"]

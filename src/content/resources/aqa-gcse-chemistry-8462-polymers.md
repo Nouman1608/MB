@@ -1,6 +1,6 @@
 ---
 title: "AQA GCSE Chemistry (8462): Polymers"
-seoTitle: "AQA GCSE Chemistry 8462 Polymers Study Guide"
+seoTitle: "AQA GCSE Chemistry 8462 Polymer Structure Study Guide"
 resourceType: "study-guides"
 subject: "chemistry"
 level: ["gcse"]

@@ -1,6 +1,6 @@
 ---
 title: "AQA GCSE Chemistry (8462): Polymers -- Revision Notes"
-seoTitle: "AQA GCSE Chemistry 8462 Polymers Revision Notes"
+seoTitle: "AQA GCSE Chemistry 8462 Polymer Structure Revision Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["gcse"]

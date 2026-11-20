@@ -1,6 +1,6 @@
 ---
 title: "Cambridge O Level Biology (5090): Inheritance"
-seoTitle: "O Level Biology 5090 Inheritance Study Guide"
+seoTitle: "Cambridge O Level Biology 5090 Inheritance Study Guide"
 resourceType: "study-guides"
 subject: "biology"
 level: ["o-levels"]

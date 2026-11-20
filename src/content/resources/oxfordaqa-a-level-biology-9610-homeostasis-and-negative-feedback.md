@@ -1,6 +1,6 @@
 ---
 title: "OxfordAQA International AS and A-level Biology (9610): Homeostasis and negative feedback"
-seoTitle: "OxfordAQA A-level Biology: Homeostasis Study Guide"
+seoTitle: "OxfordAQA A-level Biology Negative Feedback Study Guide"
 resourceType: "study-guides"
 subject: "biology"
 level: ["a-levels"]

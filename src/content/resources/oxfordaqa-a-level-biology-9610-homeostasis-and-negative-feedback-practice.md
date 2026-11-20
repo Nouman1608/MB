@@ -1,6 +1,6 @@
 ---
 title: "OxfordAQA International AS and A-level Biology (9610): Homeostasis and negative feedback -- Practice Questions"
-seoTitle: "OxfordAQA A-level Biology Homeostasis Practice Questions"
+seoTitle: "OxfordAQA A-level Biology Negative Feedback Questions"
 resourceType: "practice-questions"
 subject: "biology"
 level: ["a-levels"]

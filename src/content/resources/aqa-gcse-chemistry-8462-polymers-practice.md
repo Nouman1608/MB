@@ -1,6 +1,6 @@
 ---
 title: "AQA GCSE Chemistry (8462): Polymers -- Practice Questions"
-seoTitle: "AQA GCSE Chemistry 8462 Polymers Practice Questions"
+seoTitle: "AQA GCSE Chemistry 8462 Polymer Structure Questions"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["gcse"]

@@ -1,6 +1,6 @@
 ---
 title: "OxfordAQA International AS and A-level Biology (9610): Homeostasis and negative feedback -- Revision Notes"
-seoTitle: "OxfordAQA A-level Biology Homeostasis Revision Notes"
+seoTitle: "OxfordAQA A-level Biology Negative Feedback Revision Notes"
 resourceType: "revision-notes"
 subject: "biology"
 level: ["a-levels"]
