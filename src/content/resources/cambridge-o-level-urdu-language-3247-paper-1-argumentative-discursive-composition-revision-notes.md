@@ -12,6 +12,7 @@ order: 1.2
 syllabusTopics:
   - qualification: "o-level"
     topic: "fl-paper-1-reading-writing-3247"
+    subtopic: "part-2-writing-3247"
 description: "Condensed notes for argumentative and discursive titles in 3247 Paper 1 Part 2: the two task shapes, marking strands, Urdu connectives, traps and a self-test."
 author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"

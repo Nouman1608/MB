@@ -12,6 +12,7 @@ order: 2.1
 syllabusTopics:
   - qualification: "o-level"
     topic: "fl-paper-2-texts-3247"
+    subtopic: "part-1-unseen-passage-3247"
 description: "Condensed notes on the 3247 Paper 2 Unseen Passage: the six levels, a reading method, Urdu literary terms and effects, traps and a self-test."
 author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"

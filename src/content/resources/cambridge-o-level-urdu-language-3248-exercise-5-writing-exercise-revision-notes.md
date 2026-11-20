@@ -12,6 +12,7 @@ order: 3.2
 syllabusTopics:
   - qualification: "o-level"
     topic: "sl-paper-1-reading-writing-3248"
+    subtopic: "exercise-5-writing-exercise-3248"
 description: "Condensed notes on 3248 Paper 1 Exercise 5: task facts, the writing objectives, purpose-format-audience, register tables, connectives and a self-test."
 author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"

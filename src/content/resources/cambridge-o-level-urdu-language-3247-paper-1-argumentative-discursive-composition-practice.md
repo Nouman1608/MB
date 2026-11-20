@@ -12,6 +12,7 @@ order: 1.2
 syllabusTopics:
   - qualification: "o-level"
     topic: "fl-paper-1-reading-writing-3247"
+    subtopic: "part-2-writing-3247"
 description: "Original skill tasks and a full composition for 3247 Paper 1 Part 2 argumentative and discursive titles, with model Urdu answers and levels guidance."
 author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"

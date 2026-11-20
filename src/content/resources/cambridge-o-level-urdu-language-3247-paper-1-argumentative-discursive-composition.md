@@ -12,6 +12,7 @@ order: 1.2
 syllabusTopics:
   - qualification: "o-level"
     topic: "fl-paper-1-reading-writing-3247"
+    subtopic: "part-2-writing-3247"
 description: "Planning and writing an argumentative or discursive title in 3247 Paper 1 Part 2: the 300-400-word Urdu composition, its marking strands and model paragraphs."
 author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"

@@ -12,6 +12,7 @@ order: 2.1
 syllabusTopics:
   - qualification: "o-level"
     topic: "fl-paper-2-texts-3247"
+    subtopic: "part-1-unseen-passage-3247"
 description: "How to read and write about the unseen Urdu prose or poetry extract in 3247 Paper 2 Part 1: using the prompts, analysing effects and reaching the top levels."
 author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"

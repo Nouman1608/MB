@@ -12,6 +12,7 @@ order: 2.3
 syllabusTopics:
   - qualification: "o-level"
     topic: "fl-paper-2-texts-3247"
+    subtopic: "part-3-prose-3247"
 description: "Answering the 15-mark prose question on the stories, essays and letters set for 3247 Paper 2 Part 3, including the empathic task in a character's voice."
 author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"
