@@ -60,8 +60,7 @@ the right, double each time: 1, 2, 4, 8, 16, 32, 64, 128. An eight-bit binary nu
 | 1 | 0 | 1 | 1 | 0 | 1 | 1 | 0 |
 
 The value is 128 + 32 + 16 + 4 + 2 = **182**. Only the columns that contain a 1 are added. The largest value with 8
-bits is 1111 1111, which is 255, and that is also the number of different values you can store minus one: 8 bits give
-2⁸ = 256 different patterns, from 0 to 255. Four bits give 16 patterns, from 0 to 15.
+bits is 1111 1111, which is 255: 8 bits give 2⁸ = 256 different patterns, from 0 to 255. Four bits give 16 patterns, from 0 to 15.
 
 By convention, long binary numbers are written in groups of four bits for readability, such as 1011 0110.
 

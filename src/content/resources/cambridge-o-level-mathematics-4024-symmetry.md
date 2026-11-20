@@ -135,6 +135,21 @@ a quarter turn takes (x, y) to (−y, x)
 
 The four points are (2, 1), (−1, 2), (−2, −1) and (1, −2).
 
+## Symmetry in letters and patterns
+
+Capital letters in a simple block style give quick practice. H has 2 lines of symmetry and order 2. O has 2 lines and order 2. A has 1 line and order 1. N, S and Z have no line of symmetry but have rotational symmetry of order 2. F and R have neither kind. In a repeating pattern, such as a border, look for lines of symmetry across the strip and for turns about points along it.
+
+### Worked example 4
+
+A shape has two lines of symmetry at right angles and rotational symmetry of order 2. It is not a square. Name two possible shapes.
+
+```
+a rectangle and a rhombus both have 2 lines of symmetry and order 2
+a square would have 4 lines and order 4, so it is excluded
+```
+
+When a shape has n lines of symmetry and n is at least 2, the shape also has rotational symmetry of order n. A kite has one line and order 1, and a parallelogram is the exception, with no lines but order 2.
+
 ## Symmetry in solids
 
 A **plane of symmetry** divides a solid into two parts that are mirror images of each other. An **axis of symmetry** is a line through the solid about which the solid can be turned through less than 360° and fit onto itself.
@@ -152,7 +167,7 @@ A **plane of symmetry** divides a solid into two parts that are mirror images of
 
 For prisms, count the planes by separating them into two kinds. A plane through the length that matches a line of symmetry of the cross-section, and a plane at right angles to the length halfway along it. An equilateral triangular prism has 3 of the first kind and 1 of the second, giving 4.
 
-### Worked example 4
+### Worked example 5
 
 How many planes of symmetry has a cuboid that measures 5 cm by 3 cm by 2 cm?
 

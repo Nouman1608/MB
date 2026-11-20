@@ -47,7 +47,7 @@ These notes summarise section 8.1, Introduction to probability, of the Cambridge
 ## The scale
 
 ```
-0 ———— 1/4 ———— 1/2 ———— 3/4 ———— 1
+0 ---- 1/4 ---- 1/2 ---- 3/4 ---- 1
 impossible   unlikely   even chance   likely   certain
 ```
 
