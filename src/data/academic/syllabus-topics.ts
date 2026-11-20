@@ -2017,9 +2017,10 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     syllabusCode: 'J247', syllabusSeries: 'Version 4.0 (August 2026), for first assessment in 2018',
     effectiveFrom: '2016', effectiveTo: 'ongoing', status: 'current',
     tiered: true,
-    source: 'OCR -- official GCSE (9-1) Gateway Science Suite Biology A (J247) specification-at-a-glance page',
-    sourceUrl: 'https://www.ocr.org.uk/qualifications/gcse/gateway-science-suite-biology-a-j247-from-2016/specification-at-a-glance/', verifiedDate: '2026-09-02',
-    notes: "OCR GCSE (9-1) Gateway Science Suite Biology A (J247). Tiered: Foundation (papers 1-2, grades 5-1) and Higher (papers 3-4, grades 9-4). Six teaching topics plus a practical-skills topic (B7), reproduced directly from the live OCR specification-at-a-glance page, fetched 2026-08-19; Topic 2 (Scaling up) learning outcomes (B2.1, B2.2) re-fetched and cross-checked in full against version 4.0 of the official accredited specification PDF (ocr.org.uk) on 2026-09-02.",
+    source: 'OCR — official GCSE (9-1) Gateway Science Suite Biology A (J247) specification PDF (Version 4.0, August 2026), summary of content and topics B1 to B7',
+    sourceUrl: 'https://www.ocr.org.uk/qualifications/gcse/gateway-science-suite-biology-a-j247-from-2016/specification-at-a-glance/', verifiedDate: '2026-11-20',
+    notes: 'OCR GCSE (9-1) Gateway Science Suite Biology A (J247). Tiered: Foundation (papers 1-2, grades 5-1) and Higher (papers 3-4, grades 9-4). Six teaching topics (B1-B6) plus a practical-skills topic (B7). All seven topics and every numbered sub-topic (B1.1 to B6.3, fifteen in all) checked against the OCR specification PDF (Version 4.0, August 2026) on 2026-11-20. Topic B7 (Practical skills) sets out the practical activity groups in tables and prints no numbered sub-headings, so its subtopics stay empty.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Cell level systems', slug: 'cell-level-systems-ocr-gcse-biology', subtopics: [
         { number: 'B1.1', name: 'Cell structures', slug: 'cell-structures-ocr-gcse-biology' },
@@ -2032,8 +2033,8 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: 'B2.2', name: 'The challenges of size', slug: 'the-challenges-of-size-ocr-gcse-biology' },
       ] },
       { number: 3, name: 'Organism level systems', slug: 'organism-level-systems-ocr-gcse-biology', subtopics: [
-        { number: 'B3.1', name: 'Coordination and control -- the nervous system', slug: 'coordination-and-control-the-nervous-system-ocr-gcse-biology' },
-        { number: 'B3.2', name: 'Coordination and control -- the endocrine system', slug: 'coordination-and-control-the-endocrine-system-ocr-gcse-biology' },
+        { number: 'B3.1', name: 'Coordination and control – the nervous system', slug: 'coordination-and-control-the-nervous-system-ocr-gcse-biology' },
+        { number: 'B3.2', name: 'Coordination and control – the endocrine system', slug: 'coordination-and-control-the-endocrine-system-ocr-gcse-biology' },
         { number: 'B3.3', name: 'Maintaining internal environments', slug: 'maintaining-internal-environments-ocr-gcse-biology' },
       ] },
       { number: 4, name: 'Community level systems', slug: 'community-level-systems-ocr-gcse-biology', subtopics: [
