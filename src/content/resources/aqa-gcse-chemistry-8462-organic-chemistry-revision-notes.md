@@ -13,6 +13,9 @@ order: 7
 syllabusTopics:
   - qualification: "gcse"
     topic: "organic-chemistry-8462"
+  - qualification: "gcse"
+    topic: "organic-chemistry-8462"
+    subtopic: "carbon-compounds-as-fuels-and-feedstock-8462"
 description: "Condensed revision notes for AQA GCSE Chemistry 8462 Organic chemistry, with homologous series tables, reaction summaries and a quick self-test."
 author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
