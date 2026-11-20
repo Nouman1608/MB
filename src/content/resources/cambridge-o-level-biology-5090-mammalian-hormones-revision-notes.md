@@ -73,6 +73,41 @@ These notes condense subtopic **14.3 Mammalian hormones** of Cambridge O Level B
 4. The target organ responds.
 5. The hormone is broken down and the effect fades.
 
+## What each hormone does (links to other subtopics)
+
+| Hormone | Made by | Main job |
+|---|---|---|
+| Adrenaline | Adrenal glands | Increases heart rate and blood glucose concentration in danger or excitement |
+| Insulin | Pancreas | Lowers blood glucose concentration |
+| Glucagon | Pancreas | Raises blood glucose concentration |
+| FSH | Pituitary gland | Helps an egg to develop in the ovary (menstrual cycle) |
+| LH | Pituitary gland | Triggers the release of an egg (menstrual cycle) |
+| Testosterone | Testes | Controls male secondary sexual characteristics at puberty |
+| Oestrogen | Ovaries | Controls female secondary sexual characteristics; repairs the uterus lining |
+| Progesterone | Ovaries | Maintains the lining of the uterus |
+
+For this subtopic, the main requirement is to match the gland to the hormone. The jobs are developed in blood glucose control and in sexual reproduction in humans.
+
+## Worked example: linking cause and effect
+
+*A student is told to explain why a frightened person's heart pounds.*
+
+1. The brain detects the danger and stimulates the adrenal glands.
+2. Adrenaline is released into the blood.
+3. The blood carries adrenaline to its target organs, including the heart.
+4. The heart rate increases and the blood glucose concentration rises.
+
+Keep the order: stimulus, gland, hormone, blood, target organ, response. This sequence earns marks in almost any hormone question.
+
+## Typical comparison table to learn
+
+| Question wording | Nervous side | Hormonal side |
+|---|---|---|
+| How fast? | Fast | Slower |
+| How long? | Short | Longer |
+| What carries the message? | Impulses along neurones | Hormones in the blood |
+| Which parts respond? | Effectors (muscles or glands) | Target organs |
+
 ## Worked calculation
 
 *A person's resting pulse is 70 beats per minute. After a shock it rises to 98 beats per minute. Find the percentage increase.*

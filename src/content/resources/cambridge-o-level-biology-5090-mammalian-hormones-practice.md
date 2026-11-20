@@ -103,6 +103,20 @@ D: in the digestive tract
 
 **11.** The hormone adrenaline is carried in the blood to every organ in the body, but it affects only some of them. Explain why. **[2]**
 
+**12.** Complete the table by naming the gland that produces each hormone.
+
+| Hormone | Gland |
+|---|---|
+| Testosterone | A |
+| Luteinising hormone | B |
+| Insulin | C |
+
+**[3]**
+
+**13.** A student says: "Nervous control and hormonal control both use the blood to carry messages." Decide whether it is correct and explain your decision. **[2]**
+
+**14.** Adrenaline is sometimes released when a person is excited and not in any danger, for example before performing on stage. Suggest why the body responds in this way, and why the response may last for several minutes after the performance begins. **[4]**
+
 ---
 
 ## Answers
@@ -146,6 +160,12 @@ D: in the digestive tract
 **(b)** Hormonal [1], because the change is slow and lasts a long time (testosterone) [1]. **[4]**
 
 **11.** Only the target organs [1] have cells that can detect (respond to) adrenaline [1]. **[2]**
+
+**12.** A: testes [1]. B: pituitary gland [1]. C: pancreas [1]. **[3]**
+
+**13.** The statement is only partly correct [1]. Hormonal control uses the blood, but nervous control uses electrical impulses along neurones, not the blood [1]. **[2]**
+
+**14.** The body prepares for physical action whenever there is a challenge [1], increasing heart rate and blood glucose concentration so that more energy can be released [1]. The effect lasts because adrenaline stays in the blood until it is broken down [1], so its effect on its target organs continues for some minutes [1]. **[4]**
 
 ---
 

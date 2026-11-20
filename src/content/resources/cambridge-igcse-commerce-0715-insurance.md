@@ -27,7 +27,7 @@ The syllabus lists five purposes.
 
 | Purpose | What it means | Example |
 |---|---|---|
-| **Risk reduction** | The insurer encourages safer behaviour, because safer firms pay lower premiums | A shop installs an alarm and gets a cheaper theft premium |
+| **Risk reduction** | The financial risk is passed from the business to the insurer, and insurers reward safety measures with lower premiums | A shop installs an alarm and gets a cheaper theft premium |
 | **Compensation** | The insurer pays for losses after an insured event | A factory fire is paid for, so the owner can rebuild |
 | **Financial protection** | A single large loss does not destroy the business | A lorry accident costs less than the insurance payout |
 | **Business confidence** | Owners are willing to start, expand and trade, knowing losses are covered | A new exporter ships goods because cargo is insured |

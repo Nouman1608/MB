@@ -52,7 +52,7 @@ The specification groups particles by their diameter.
 |---|---|---|---|
 | Nanoparticles | 1 to 100 nm | 1 × 10⁻⁹ m to 1 × 10⁻⁷ m | Smaller than fine particles |
 | Fine particles (PM2.5) | 100 to 2500 nm | 1 × 10⁻⁷ m to 2.5 × 10⁻⁶ m | |
-| Coarse particles (PM10) | up to the 10⁻⁵ m range | 2.5 × 10⁻⁶ m to 1 × 10⁻⁵ m | Often called dust |
+| Coarse particles (PM10) | 2500 to 10 000 nm | 2.5 × 10⁻⁶ m to 1 × 10⁻⁵ m | Often called dust |
 
 The unit **nm** means **nanometre**: 1 nm = 1 × 10⁻⁹ m, or one billionth of a metre. The specification states that
 nanoscience structures are of the order of **a few hundred atoms**.

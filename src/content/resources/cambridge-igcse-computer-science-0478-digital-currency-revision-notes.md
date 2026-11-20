@@ -82,6 +82,19 @@ Condensed notes for syllabus section 5.2, Digital currency: the idea of a curren
 
 A chain has three blocks. Block 2 stores the hash `4F2A` of block 1. Someone changes a payment in block 1, and the hash of block 1 now works out as `9C71`. Block 2 still says `4F2A`. The mismatch shows that block 1 has been altered, and the other copies of the chain would still show the original block 1.
 
+## Cash, bank money and digital currency
+
+| | Cash | Bank balance | Digital currency |
+|---|---|---|---|
+| Physical | Yes | No | No |
+| Record kept by | Nobody | The bank | The blockchain on many computers |
+| Sent abroad | Carried or exchanged | Through banks | Over the internet |
+| Main risk | Loss, theft | Fraud, hacking | Value changes, lost keys, wallet theft |
+
+## Model answer to learn: describe how a transaction is recorded
+
+A transaction is requested from a digital wallet and sent to a network of computers. They check it is valid. It is grouped with others into a block, time-stamped, given a hash and the hash of the previous block, and added to the end of the chain. All copies of the blockchain are updated.
+
 ## Exam traps
 
 - **Digital currency is bank balance on a card.** It must only exist electronically.

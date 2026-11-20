@@ -46,6 +46,19 @@ Many people use digital money already. A balance in a bank account is shown on a
 | Transactions are recorded and checked using a blockchain | If the access key is lost, the money may be lost for good |
 | Can reduce the need for a bank to pass on a payment | Criminals can try to steal wallets or trick users into sending money |
 
+### Cash, bank money and digital currency compared
+
+| | Cash | Money in a bank account | Digital currency |
+|---|---|---|---|
+| Physical form | Yes: coins and notes | No: balance on screen, but linked to the bank's records | No: electronic only |
+| Who keeps the record? | Nobody; the cash is the value | The bank | The blockchain, copied across a network of computers |
+| Paying abroad | Needs exchanging and carrying | Through the banking system, which can be slow | Sent over the internet |
+| Main risk | Loss or theft | Fraud or hacking of the account | Rapid change in value, lost keys, theft of wallets |
+
+### Keeping a digital wallet safe
+
+A wallet is only as safe as its access keys. A user who shares their key or writes it where others can find it can lose the whole balance. Good practice includes using strong authentication, keeping software up to date and checking links before entering any wallet details, because phishing messages often pretend to come from a wallet provider. (Section 5.3 covers these threats and the solutions.)
+
 ## Blockchain
 
 A **blockchain** is a **digital ledger**. A ledger is a record of transactions, like an accountant's book. A blockchain is:
@@ -112,6 +125,16 @@ Final balances: Ana 16, Ben 6, Chen 13. The total is 35, the same as at the star
 Because every block is in the chain, anyone checking the ledger can add the transactions up and find the same balances. If Ben claimed block 2 never happened, the chain would show that it did.
 
 Now suppose someone alters block 1 to say "Ana pays Ben 2". Block 1's hash changes. Block 2 holds the old hash of block 1, so the mismatch shows the chain has been tampered with.
+
+### Worked example: why a changed block is spotted
+
+To see the principle, imagine a very simple hash: add up the amounts in a block and write the result. Block 1 holds the payments 8 and 4, so its hash is 12. Block 2 holds a payment of 5 and stores the hash of block 1, which is 12.
+
+1. Someone changes the first payment in block 1 from 8 to 2. Block 1 now adds up to 6.
+2. Block 2 still stores 12 as the hash of block 1.
+3. Anyone checking sees 6 in block 1 but 12 stored in block 2. The numbers do not match, so the chain has been tampered with.
+
+Real blockchains use much more complicated hash functions, where a small change in the data produces a completely different code, but the checking idea is exactly the same.
 
 ## Annotated model answer
 
