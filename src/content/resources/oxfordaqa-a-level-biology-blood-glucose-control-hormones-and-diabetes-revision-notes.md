@@ -14,6 +14,7 @@ order: 270
 syllabusTopics:
   - qualification: "a-level"
     topic: "control-oxfordaqa-alevel-biology"
+    subtopic: "hormones-and-the-control-of-blood-glucose-concentration-oxfordaqa-alevel-biology"
 description: "Condensed recall notes for OxfordAQA International A-level Biology 9610, 3.4.7: glucose, liver processes, diabetes, hormones, cAMP, with a self-test."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

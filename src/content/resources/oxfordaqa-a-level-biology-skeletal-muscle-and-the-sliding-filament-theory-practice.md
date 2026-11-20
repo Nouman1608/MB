@@ -14,6 +14,7 @@ order: 267
 syllabusTopics:
   - qualification: "a-level"
     topic: "control-oxfordaqa-alevel-biology"
+    subtopic: "skeletal-muscles-as-effectors-oxfordaqa-alevel-biology"
 description: "Eleven original questions with worked answers on skeletal muscle for OxfordAQA International A-level Biology 9610 section 3.4.4, with image and data work."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

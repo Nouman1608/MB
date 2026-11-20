@@ -14,6 +14,7 @@ order: 259
 syllabusTopics:
   - qualification: "a-level"
     topic: "populations-and-genes-oxfordaqa-alevel-biology"
+    subtopic: "respiration-oxfordaqa-alevel-biology"
 description: "Study guide to glycolysis, anaerobic respiration, the link reaction, Krebs cycle, oxidative phosphorylation and RQ for OxfordAQA A-level Biology 9610."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

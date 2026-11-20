@@ -14,6 +14,7 @@ order: 261
 syllabusTopics:
   - qualification: "a-level"
     topic: "populations-and-genes-oxfordaqa-alevel-biology"
+    subtopic: "nutrient-cycles-oxfordaqa-alevel-biology"
 description: "Revision notes on recycling, carbon dioxide, methane, nitrogen cycle, fertilisers and eutrophication for OxfordAQA International A-level Biology."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

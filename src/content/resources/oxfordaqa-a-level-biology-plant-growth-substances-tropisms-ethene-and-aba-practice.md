@@ -14,6 +14,7 @@ order: 268
 syllabusTopics:
   - qualification: "a-level"
     topic: "control-oxfordaqa-alevel-biology"
+    subtopic: "control-systems-in-plants-oxfordaqa-alevel-biology"
 description: "Original practice questions with worked answers on IAA, tropisms, ethene, ripening and ABA for OxfordAQA International A-level Biology."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

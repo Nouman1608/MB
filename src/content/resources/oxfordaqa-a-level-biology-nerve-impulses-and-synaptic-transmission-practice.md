@@ -14,6 +14,7 @@ order: 266
 syllabusTopics:
   - qualification: "a-level"
     topic: "control-oxfordaqa-alevel-biology"
+    subtopic: "nerve-impulses-and-synaptic-transmission-oxfordaqa-alevel-biology"
 description: "Original questions with worked answers on action potentials, conduction speed, summation, the neuromuscular junction and drugs, OxfordAQA A-level Biology."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

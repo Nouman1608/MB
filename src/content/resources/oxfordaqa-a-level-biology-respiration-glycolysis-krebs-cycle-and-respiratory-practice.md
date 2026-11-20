@@ -14,6 +14,7 @@ order: 259
 syllabusTopics:
   - qualification: "a-level"
     topic: "populations-and-genes-oxfordaqa-alevel-biology"
+    subtopic: "respiration-oxfordaqa-alevel-biology"
 description: "Twelve original practice questions with worked answers on glycolysis, Krebs cycle, ATP synthase, RQ and respirometers for OxfordAQA A-level Biology 9610."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
