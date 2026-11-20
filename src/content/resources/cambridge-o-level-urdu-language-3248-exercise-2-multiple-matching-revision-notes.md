@@ -91,6 +91,29 @@ These notes cover **Exercise 2, Multiple matching**, of 3248 Paper 1: "candidate
 | A sentence has two ideas | Both must match |
 | A letter used already | Check the rubric before reusing |
 
+## Mini example to rehearse
+
+Paragraph: *میں اپنے محلے کے بچوں کو شام کو مفت ٹیوشن پڑھاتی ہوں۔ شروع میں کوئی بچہ نہیں آتا تھا، مگر اب بیس بچے آتے ہیں۔*
+
+| Sentence | Match? | Why |
+|---|---|---|
+| اس شخص کے کام کو وقت کے ساتھ لوگوں نے قبول کیا ہے | yes | *پہلے کوئی نہیں، اب بیس*: a change over time |
+| اس شخص کو اپنے کام کے بدلے پیسے ملتے ہیں | no | *مفت* contradicts it |
+| اس شخص نے اپنا کام اپنے گھر کے قریب شروع کیا | yes | *اپنے محلے* |
+| اس شخص کے پاس بہت زیادہ بچے ہیں | no | twenty is not stated as too many |
+
+Practise this on any short paragraph: write four sentences, two that match and two that nearly match, and say why.
+
+## Time plan
+
+| Stage | Share of the time |
+|---|---|
+| Read the paragraphs and note key ideas | about half |
+| Match the easy sentences | a quarter |
+| Eliminate and check the rest | a quarter |
+
+If one sentence will not match, move on and return to it. The remaining letters often make the answer clear.
+
 ## Key terms
 
 | Urdu | English |

@@ -71,6 +71,26 @@ and the [O Level Urdu Paper 1 study guide](/resources/o-level-cambridge-urdu-fir
 
 **5.** Write one new Urdu sentence of your own that fits paragraph E but does not fit any of the other four paragraphs. **[2]**
 
+## Section C
+
+**6.** Read the three short paragraphs. Match each sentence to one paragraph. Each letter is used once. They are original, written for this practice set.
+
+> **F** میں ہر صبح اخبار بانٹتا ہوں۔ اس کام کی بدولت میں اپنی فیس خود ادا کرتا ہوں، مگر امتحان کے دنوں میں تھکن بہت ہو جاتی ہے۔
+>
+> **G** میں اپنی دادی کے ساتھ رہتی ہوں اور شام کو ان کی دوائیں وقت پر دیتی ہوں۔ وہ مجھے پرانی کہانیاں سناتی ہیں، جو مجھے بہت پسند ہیں۔
+>
+> **H** میں اپنے اسکول کی کرکٹ ٹیم کا کپتان ہوں۔ پچھلے سال ہم ہر میچ ہار گئے تھے، لیکن اس سال ہم نے ہمت نہیں ہاری اور فائنل تک پہنچے۔
+
+**(a)** اس شخص کو اپنی تعلیم کا خرچ خود اٹھانے پر فخر ہو سکتا ہے۔ **[1]**
+
+**(b)** اس شخص نے پچھلی ناکامی کے بعد بہتر کارکردگی دکھائی۔ **[1]**
+
+**(c)** اس شخص کو بڑوں کی پرانی یادوں سے دلچسپی ہے۔ **[1]**
+
+**7.** In Question 6, explain why the sentence (a) cannot be matched to paragraph G, even though both people spend time helping someone. **[2]**
+
+**8.** Rewrite the sentence *اس شخص کو سردیوں میں جلدی اٹھنا مشکل لگتا ہے* in different words so that it keeps the same meaning. Then say what kind of change you made (a more general word, a cause for a result, or another kind). **[2]**
+
 ---
 
 ## Answers
@@ -97,10 +117,16 @@ and the [O Level Urdu Paper 1 study guide](/resources/o-level-cambridge-urdu-fir
 
 **5.** For example: *اس شخص کو سال کے کچھ مہینوں میں گاہکوں کی کمی کا سامنا ہوتا ہے۔* [2]. One mark for a sentence that is true of paragraph E, and one for making sure no other paragraph fits. A sentence about crowds only would also fit paragraph A (passengers), so check that your sentence is specific. Accept other correct sentences, for example about changing the shop's decoration.
 
+**6.** (a) F [1]: paying his own fees. (b) H [1]: lost every match last year, reached the final this year. (c) G [1]: the grandmother's old stories.
+
+**7.** Paragraph G is about caring for a grandmother and enjoying her stories, and says nothing about paying for education [1]. Sentence (a) is about meeting the cost of one's own education, which only paragraph F mentions; helping someone is a different idea from paying fees [1].
+
+**8.** For example: *اس شخص کو ٹھنڈے موسم میں صبح سویرے بستر چھوڑنا دشوار محسوس ہوتا ہے۔* [1]. The change is a paraphrase using a more general word (*ٹھنڈا موسم* for *سردیاں*) and a synonym (*دشوار* for *مشکل*) [1]. Accept any correct rewording with a sensible description.
+
 ## Where marks are usually lost
 
 - **Sentence 3**: choosing B because night duty is mentioned, forgetting the idea of sleeping early.
 - **Sentence 5**: choosing D without noticing the words *باپ دادا*, or choosing C because of the word *اسکول*.
 - **Sentence 6**: choosing A because of the word *ڈیوٹی*.
 - **Sentences 4 and 7**: both belong to C; a hope and a handmade shelf are different ideas in the same paragraph.
-- **Sentence 8**: choosing B because patients are people too; only A mentions friendships.
+- **Sentence 8**: choosing B because a nurse also works with people; only A mentions friendships made through the work.

@@ -101,7 +101,7 @@ Evaluate the plan and propose an improved four-week plan. **[8]**
 
 ## Answers
 
-**1.** Any three: it is **internally assessed**, not part of the on-screen examination [1]; it is **marked by your classroom teacher** against the published speaking examination marking criteria for MYP year 5 [1]; the **IB moderates a sample** from each school each session and adjusts grades as necessary [1]. Also accept: interactive; worth 24 marks. **[3]**
+**1.** Any three: it is **internally assessed**, not part of the on-screen examination [1]; it is **marked by your classroom teacher** against the published speaking examination marking criteria for MYP year 5 [1]; the **IB moderates a sample** from each school each session and adjusts grades as necessary [1]. Also accept: interactive; worth 32 marks. **[3]**
 *Examiner insight:* "State" needs three separate facts; "the teacher marks it" and "it is marked in school" are one fact said twice.
 
 **2.** A multimodal text combines **more than one mode of meaning**, such as words with images, layout or sound [1]. Example: **a poster with a photo and a slogan** (or an advert, infographic, web page) [1]. **[2]**
@@ -174,4 +174,4 @@ The brief calls the speaking task interactive, so it should be a two-way convers
 
 ## Official syllabus
 
-International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Language acquisition*, from 2020 (first eAssessment May 2023/November 2023). Published by the International Baccalaureate Organization.
+International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Language acquisition*, from 2020 (first eAssessment May 2023/November 2023). Published by the International Baccalaureate Organization. The speaking examination mark (32) and length (15 to 17 minutes including preparation time) come from the International Baccalaureate Organization, Middle Years Programme Language acquisition guide, for use from September 2020/January 2021 ("Language acquisition examination blueprint", page 52).

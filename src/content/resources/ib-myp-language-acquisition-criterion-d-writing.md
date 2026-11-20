@@ -49,7 +49,7 @@ The brief describes criterion D in two sentences:
 - You recognise and use language that suits the **audience and purpose**. The brief's examples include home and classroom language, formal and informal exchanges, and social and academic language.
 - You use your grasp of **language, form, mode, medium and literary concepts** to express ideas, values and opinions creatively and meaningfully.
 
-For eAssessment, the brief's blueprint names the objective "Writing in response to multimodal texts" and gives criterion D **24 marks**, the same as criteria A and B. The on-screen examination has three tasks and may use any topic from the language acquisition list; the mark distribution may vary by no more than three marks from the blueprint. Courses are assessed at emergent, capable or proficient level.
+For eAssessment, the guide's blueprint names the objective "Writing in response to multimodal texts" and gives criterion D **32 marks**, the same as criteria A and B. The on-screen examination has three tasks of about 35 minutes each (1 hour 45 minutes in all, 96 marks). Tasks 1 and 2 assess criteria A and B; Task 3 is the writing task and carries all 32 marks for criterion D. The examination may use any topic from the language acquisition list, and the distribution of marks may vary by no more than three marks from the blueprint. Courses are assessed at emergent, capable or proficient level.
 
 A multimodal stimulus combines words with images, layout or colour. Reading it in depth is covered in [multimodal texts and visuals](/resources/ib-myp-language-acquisition-multimodal-texts-and-visuals/). For criterion D, the stimulus is a springboard: you take its ideas and build your own text.
 
@@ -242,7 +242,7 @@ For the layout of each text type, see [text types and conventions](/resources/ib
 Criterion D is Writing. The MYP Language Acquisition subject brief (from 2020) says students use language suited to audience and purpose and apply their grasp of language, form, mode, medium and literary concepts to express ideas, values and opinions creatively and meaningfully.
 
 **How many marks is writing worth in the MYP Language Acquisition eAssessment?**
-The eAssessment blueprint names the objective "writing in response to multimodal texts" and gives Criterion D 24 marks, the same as Criteria A and B.
+The eAssessment blueprint names the objective "writing in response to multimodal texts" and gives Criterion D 32 marks, all in Task 3, the same as Criteria A and B.
 
 **What is register drift in MYP Language Acquisition writing?**
 Register drift is starting in one register and slipping into another, such as a formal email to a head of school that ends with "Anyway, let me know, thanks!" Choose the register when you decode the task and check every paragraph against it.
@@ -252,4 +252,4 @@ Range is the variety of vocabulary and structures you use, and accuracy is how c
 
 ## Official syllabus
 
-International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Language acquisition*, from 2020 (first eAssessment May 2023/November 2023). This guide follows the brief's description of criterion D, its statement that each criterion has eight achievement levels in four bands, and its eAssessment blueprint. Level descriptors and task-specific clarifications come from your school.
+International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Language acquisition*, from 2020 (first eAssessment May 2023/November 2023). This guide follows the brief's description of criterion D and its statement that each criterion has eight achievement levels in four bands. The eAssessment marks (32 for criterion D, all in Task 3 of the on-screen examination) come from the International Baccalaureate Organization, Middle Years Programme Language acquisition guide, for use from September 2020/January 2021 ("MYP eAssessment" and "Language acquisition examination blueprint", pages 51 and 52). Level descriptors and task-specific clarifications come from your school.

@@ -47,7 +47,7 @@ Use this guide with the [Criterion A revision notes](/resources/ib-myp-language-
 
 The brief sets out four equally weighted criteria: A Listening, B Reading, C Speaking and D Writing. Each has eight achievement levels (1-8) in four bands. For Criterion A, the brief says you interpret and construct meaning from spoken multimodal text. It adds that you should understand how images and other spatial aspects, presented with the oral text, work together to convey ideas, values and attitudes.
 
-In the eAssessment, the on-screen examination has three tasks and carries 24 marks for each of Criteria A, B and D. The brief says the mark distribution may vary by no more than three marks from the published blueprint. Speaking (Criterion C) is a separate, teacher-marked and IB-moderated examination. The [eAssessment exam preparation](/resources/ib-myp-language-acquisition-eassessment-exam-preparation/) page covers the structure; this page is about the listening skill itself.
+In the eAssessment, the on-screen examination has three tasks of about 35 minutes each (1 hour 45 minutes in all) and is worth 96 marks. Tasks 1 and 2 each pair a written-visual text with an audio-visual text and assess Criterion A (listening) and Criterion B (reading) equally, 16 marks each per task, so listening is worth 32 marks across the two tasks. Task 3 is writing (Criterion D). The guide says the distribution of marks may vary by no more than three marks from the blueprint. Speaking (Criterion C) is a separate individual examination, internally assessed and externally moderated. The [eAssessment exam preparation](/resources/ib-myp-language-acquisition-eassessment-exam-preparation/) page covers the structure; this page is about the listening skill itself.
 
 ## What a spoken multimodal text is
 
@@ -216,7 +216,7 @@ Check your own level with your teacher. The [proficiency phases guide](/resource
 Criterion A is Listening. The MYP Language Acquisition subject brief (from 2020) says students interpret and construct meaning from spoken multimodal text, including how images and other spatial aspects work with the oral text to convey ideas, values and attitudes.
 
 **How many marks is listening worth in the MYP Language Acquisition eAssessment?**
-The on-screen examination carries 24 marks for each of Criteria A, B and D, so listening is worth 24 marks. The brief says the mark distribution may vary by no more than three marks from the published blueprint.
+Listening (Criterion A) is worth 32 marks: 16 in Task 1 and 16 in Task 2 of the on-screen examination, which is worth 96 marks in all. The guide says the distribution of marks may vary by no more than three marks from the blueprint.
 
 **What is the difference between explicit and implicit information in a listening task?**
 Explicit information is said directly, such as a time, price or place, and questions ask you to identify or state it. Implicit information is suggested rather than stated, so you infer it from evidence such as word choice, tone, what is left out or the visuals.
@@ -230,4 +230,4 @@ Condense this into the [Criterion A revision notes](/resources/ib-myp-language-a
 
 ## Official syllabus
 
-International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Language acquisition*, from 2020 (first eAssessment May 2023/November 2023), published by the IB. The brief names Criterion A: Listening and gives the on-screen examination mark (24) for comprehending spoken multimodal texts. All texts on this page are original.
+International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Language acquisition*, from 2020 (first eAssessment May 2023/November 2023), published by the IB. The brief names Criterion A: Listening. The eAssessment marks (32 for Criterion A, 16 in each of Tasks 1 and 2) come from the International Baccalaureate Organization, Middle Years Programme Language acquisition guide, for use from September 2020/January 2021 ("MYP eAssessment" and "Language acquisition examination blueprint", pages 51 and 52). All texts on this page are original.

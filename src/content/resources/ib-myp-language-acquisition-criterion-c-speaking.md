@@ -26,7 +26,7 @@ featured: false
 
 This study guide teaches **Criterion C: Speaking** for IB MYP Language Acquisition, from the first word you say about a stimulus to the last follow-up question. It is aligned to the International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Language acquisition*, from 2020 (first eAssessment May 2023/November 2023), and applies to the course examined from the May 2023 and November 2023 eAssessment sessions onwards. MYP has no SL/HL split; the page suits MYP years 4 and 5, including the year 5 speaking examination.
 
-MYP has no prescribed content list -- schools design their own units -- so this page covers a skill the brief's criteria name. Where the brief is silent (preparation time, how long the task lasts, what the stimulus looks like), your teacher will share the task-specific clarifications.
+MYP has no prescribed content list -- schools design their own units -- so this page covers a skill the brief's criteria name. Where the blueprint is silent (such as what the stimulus looks like), your teacher will share the task-specific clarifications.
 
 Use it with the [revision notes](/resources/ib-myp-language-acquisition-criterion-c-speaking-revision-notes/) and the [practice set](/resources/ib-myp-language-acquisition-criterion-c-speaking-practice/). Course links: [IB MYP Language Acquisition hub](/boards/ib/ib-myp/myp-language-acquisition/) · [printable checklist](/checklists/ib/ib-myp/myp-language-acquisition/).
 
@@ -48,11 +48,11 @@ The brief lists four equally weighted criteria: A Listening, B Reading, C Speaki
 
 For speaking, the brief says you build communication skills by interacting on topics of personal, local and global interest and significance. You do this with support from spoken, written and visual texts in the target language. You also apply linguistic and literary concepts to use "a variety of structures, strategies and techniques" with increasing skill.
 
-For eAssessment, the facts printed in the brief are:
+For eAssessment, the facts printed in the brief and in the guide's blueprint are:
 
 - Speaking is an **internally assessed, IB moderated speaking examination**. It is separate from the on-screen examination, which covers Criteria A, B and D.
 - The brief calls it an **interactive** summative assessment task. It is a conversation, not a speech.
-- The objective is **speaking in response to multimodal texts**, Criterion C, **24 marks**.
+- The objective is **speaking in response to multimodal texts**, Criterion C, **32 marks**. The examination lasts 15 to 17 minutes, including preparation time.
 - Your **classroom teacher marks it** against the published speaking examination marking criteria for MYP year 5.
 - In each session the **IB moderates a sample** from each school and adjusts grades where needed.
 - Courses are formally assessed at one of three proficiency levels: **emergent, capable or proficient**.
@@ -60,8 +60,8 @@ For eAssessment, the facts printed in the brief are:
 The brief does not break Criterion C into named strands. The four skills below -- responding to the text, interacting, fluency and accuracy, pronunciation -- are what any spoken judgement rests on. Check the exact descriptors for your level with your teacher.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criterion-c-speaking--01-speaking-task-overview.webp" width="900" height="555" alt="Criteria A, B and D are assessed in the on-screen examination; criterion C, speaking, is a separate interactive examination worth 24 marks that responds to multimodal texts. The classroom teacher marks it against the MYP year 5 criteria, the IB moderates a sample from each school and grades are adjusted where needed." loading="lazy">
-  <figcaption>Speaking is a separate, teacher-marked, IB-moderated conversation worth 24 marks.</figcaption>
+  <img src="/images/learning/myp-language-acquisition/myp-la-speaking-examination-overview.svg" width="900" height="555" alt="Criteria A, B and D are assessed in the on-screen examination, which is worth 96 marks (32 each); criterion C, speaking, is a separate individual examination worth 32 marks and lasting 15 to 17 minutes including preparation time, which responds to multimodal texts. The classroom teacher marks it against the MYP year 5 criteria, the IB moderates a sample from each school and grades are adjusted where needed." loading="lazy">
+  <figcaption>Speaking is a separate, teacher-marked, IB-moderated conversation worth 32 marks.</figcaption>
 </figure>
 
 ## Responding to a multimodal text
@@ -228,7 +228,7 @@ For the on-screen examination, see the [eAssessment preparation page](/resources
 Speaking (Criterion C) is an internally assessed, IB-moderated examination, separate from the on-screen exam. Your classroom teacher marks it against the published speaking marking criteria for MYP year 5, and the IB moderates a sample from each school in each session.
 
 **How many marks is the MYP Language Acquisition speaking task worth?**
-The objective "speaking in response to multimodal texts" is assessed by Criterion C for 24 marks. The brief describes it as an interactive task, so it is a conversation rather than a speech.
+The objective "speaking in response to multimodal texts" is assessed by Criterion C for 32 marks. The brief describes it as an interactive task, so it is a conversation rather than a speech.
 
 **What is the difference between fluency and accuracy in speaking?**
 Fluency is how smoothly speech flows, with a steady pace and pauses in natural places; it is not speed. Accuracy is control of grammar, vocabulary and word order, and it pulls against range, since trying more complex language risks more errors.
@@ -247,4 +247,4 @@ Buy time with a turn-holding phrase, narrow the question to something you can an
 
 ## Official syllabus
 
-International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Language acquisition*, from 2020 (first eAssessment May 2023/November 2023). Published by the International Baccalaureate Organization.
+International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Language acquisition*, from 2020 (first eAssessment May 2023/November 2023). Published by the International Baccalaureate Organization. The speaking examination mark (32) and length (15 to 17 minutes including preparation time) come from the International Baccalaureate Organization, Middle Years Programme Language acquisition guide, for use from September 2020/January 2021 ("Language acquisition examination blueprint", page 52).

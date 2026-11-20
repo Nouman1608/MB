@@ -90,6 +90,23 @@ Home cost $8.50. Overseas price $6.20 plus $0.90 shipping and customs = $7.10. S
 
 **Explain why a business may use more than one supplier.** If one supplier fails because of a flood or bankruptcy, another can supply the goods, so production continues.
 
+## Developing a risk point
+
+| Risk | Weak point | Developed point |
+|---|---|---|
+| Natural disaster | "Floods are bad" | "A flood closes the port, so parts do not arrive and production stops" |
+| Financial | "Money problems" | "The supplier goes bankrupt, so the firm must find a new supplier quickly, probably at a higher price" |
+| Political | "Politics" | "A new tariff raises the price of imported parts, so costs rise" |
+| Technological | "Computers fail" | "A hacked order system cannot place orders, so stock runs out" |
+
+## Benefits against risks
+
+| Benefits of a global chain | Risks of a global chain |
+|---|---|
+| Lower production and labour costs | Delays over long distances |
+| Lower purchasing costs | Disasters, political and financial problems |
+| Better logistics and communication | Ethical and environmental harm to reputation |
+
 ## Exam traps
 
 - **Upstream and downstream swapped.**

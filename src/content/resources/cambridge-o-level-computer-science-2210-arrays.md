@@ -148,8 +148,8 @@ WHILE Index <= 5 AND Found = FALSE DO
    IF Marks[Index] = 78
       THEN
          Found ← TRUE
-   ELSE
-      Index ← Index + 1
+      ELSE
+         Index ← Index + 1
    ENDIF
 ENDWHILE
 ```

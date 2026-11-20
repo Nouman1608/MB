@@ -127,7 +127,7 @@ An upper bound that lies exactly on a rounding boundary is a special case; treat
 
 ## Self-test
 
-1. Write the lower and upper bounds of 85 m to the nearest 5 m. (Hint: the half unit is 2.5.)
+1. Write the lower and upper bounds of 80 m, measured to the nearest 10 m.
 2. Write the error interval for 0.6 kg to 1 decimal place.
 3. Write the bounds of 45 000 to 2 significant figures.
 4. A square has side 8 cm to the nearest centimetre. Find the upper bound of its area.
@@ -138,7 +138,7 @@ An upper bound that lies exactly on a rounding boundary is a special case; treat
 
 **Answers**
 
-1. Lower **82.5**, upper **87.5**.
+1. Lower **75 m**, upper **85 m**.
 2. **0.55 ⩽ m < 0.65**.
 3. **44 500 ⩽ x < 45 500**.
 4. 8.5² = **72.25 cm²**.

@@ -170,7 +170,7 @@ A common question asks: "Give a ÷ b to an accuracy that you can be sure about."
 
 - Using ±1 instead of half of the rounding unit.
 - Using the upper bound of both numbers in a subtraction or division, which does not give the largest result.
-- Adding half of the unit to the lower value in the wrong place column (for example using 0.5 instead of 0.05).
+- Using the wrong place column for the half unit (for example 0.5 instead of 0.05 for 1 decimal place).
 - Mixing up decimal place and significant figure rounding units.
 - Rounding the bounds before calculating.
 - Giving the error interval with ⩽ at the upper end.

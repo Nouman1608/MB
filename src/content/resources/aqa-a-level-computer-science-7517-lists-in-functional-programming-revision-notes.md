@@ -97,6 +97,19 @@ reverse' (x:xs) = reverse' xs ++ [x]
 
 For `xs = [4, 3, 5]`: `map (\x -> x * 2) xs` gives `[8, 6, 10]`; `filter (\x -> x > 3) xs` gives `[4, 5]`; `foldl (+) 0 xs` gives 12.
 
+## Question styles to expect
+
+- **Describe an operation:** say what it takes, what it returns, and whether the original list changes (it does not).
+- **Apply operations:** evaluate nested expressions from the inside out, writing each intermediate list.
+- **Write a function:** give the base case for `[]` first, then the recursive case that uses the head and a call on the tail.
+- **Trace a recursive call:** expand one substitution per line until the base case, then evaluate back up.
+- **Compare prepend and append:** prepending is one step; appending must rebuild the first list.
+- **Explain a result:** for example why `tail [5]` is `[]` and not 5, or why `head []` is an error.
+
+## Worked recall: trace of a mistake
+
+A student writes `total (x:xs) = x + total (x:xs)`. The recursive call is on the **whole list**, not the tail, so the list never gets shorter and the recursion never reaches the base case. The fix is `total (x:xs) = x + total xs`.
+
 ## Key terms
 
 | Term | Definition |

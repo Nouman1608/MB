@@ -28,7 +28,7 @@ For full explanations and worked examples, start with the [Criterion C study gui
 
 They cover **Criterion C: Speaking** for IB MYP Language Acquisition and are aligned to the International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Language acquisition*, from 2020 (first eAssessment May 2023/November 2023). They apply to the course examined from the May 2023 and November 2023 eAssessment sessions onwards. MYP has no SL/HL split; the notes suit MYP years 4 and 5.
 
-MYP has no prescribed content list -- schools design their own units -- so these notes cover a skill the brief's criteria name. For task details the brief does not print (timing, preparation, stimulus format), your teacher will share the task-specific clarifications.
+MYP has no prescribed content list -- schools design their own units -- so these notes cover a skill the brief's criteria name. For task details beyond the blueprint (such as the stimulus format), your teacher will share the task-specific clarifications.
 
 Links: [IB MYP Language Acquisition hub](/boards/ib/ib-myp/myp-language-acquisition/) · [printable checklist](/checklists/ib/ib-myp/myp-language-acquisition/) · [practice set](/resources/ib-myp-language-acquisition-criterion-c-speaking-practice/).
 
@@ -41,18 +41,19 @@ Links: [IB MYP Language Acquisition hub](/boards/ib/ib-myp/myp-language-acquisit
 | Levels | Eight achievement levels (1-8) in four bands |
 | The task | Internally assessed, IB moderated speaking examination |
 | Type | An interactive summative assessment task |
-| Objective and marks | Speaking in response to multimodal texts -- 24 marks |
+| Objective and marks | Speaking in response to multimodal texts -- 32 marks |
+| Length | 15 to 17 minutes, including preparation time |
 | Who marks | Your classroom teacher, against published speaking examination marking criteria for MYP year 5 |
 | Moderation | The IB moderates a sample from each school each session and adjusts grades if needed |
 | Proficiency levels | Emergent, capable or proficient |
 | Topics | Personal, local and global interest and significance |
 | Support | Spoken, written and visual texts in the target language |
 
-Not in the brief: preparation time, length of the task, stimulus format, named strands. Get these from your teacher.
+Not in the blueprint: stimulus format and named strands. Get these from your teacher.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criterion-c-speaking--01-speaking-task-overview.webp" width="900" height="555" alt="Criteria A, B and D are assessed in the on-screen examination; criterion C, speaking, is a separate interactive examination worth 24 marks that responds to multimodal texts. The classroom teacher marks it against the MYP year 5 criteria, the IB moderates a sample from each school and grades are adjusted where needed." loading="lazy">
-  <figcaption>Speaking is a separate, teacher-marked, IB-moderated conversation worth 24 marks.</figcaption>
+  <img src="/images/learning/myp-language-acquisition/myp-la-speaking-examination-overview.svg" width="900" height="555" alt="Criteria A, B and D are assessed in the on-screen examination, which is worth 96 marks (32 each); criterion C, speaking, is a separate individual examination worth 32 marks and lasting 15 to 17 minutes including preparation time, which responds to multimodal texts. The classroom teacher marks it against the MYP year 5 criteria, the IB moderates a sample from each school and grades are adjusted where needed." loading="lazy">
+  <figcaption>Speaking is a separate, teacher-marked, IB-moderated conversation worth 32 marks.</figcaption>
 </figure>
 
 ## Key terms
@@ -214,7 +215,7 @@ Build your own target-language version of each line and learn it as a chunk.
 
 1. **Criterion C: Speaking.**
 2. **Your classroom teacher**, against the published speaking examination marking criteria for MYP year 5; the **IB moderates a sample** from each school and adjusts grades if needed.
-3. **24 marks.**
+3. **32 marks.**
 4. **Emergent, capable, proficient.**
 5. **See, read, think, relate.**
 6. **Answer, reason, example, consequence.**
@@ -247,7 +248,7 @@ Your classroom teacher marks it against the published speaking examination marki
 Build the answer as a chain: answer, reason, example, consequence. This turns a one-line reply into several linked sentences and gives the teacher new threads to follow up.
 
 **Is the MYP Language Acquisition speaking task part of the on-screen exam?**
-No. The on-screen examination covers Criteria A, B and D. Speaking (Criterion C) is a separate interactive task worth 24 marks, assessed internally and moderated by the IB.
+No. The on-screen examination covers Criteria A, B and D. Speaking (Criterion C) is a separate interactive task worth 32 marks and lasting 15 to 17 minutes including preparation time, assessed internally and moderated by the IB.
 
 **Is self-correction a good thing in an MYP speaking assessment?**
 Yes. Correcting a slip quickly shows you know the rule and have control of the language.
@@ -262,4 +263,4 @@ Yes. Correcting a slip quickly shows you know the rule and have control of the l
 
 ## Official syllabus
 
-International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Language acquisition*, from 2020 (first eAssessment May 2023/November 2023). Published by the International Baccalaureate Organization.
+International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Language acquisition*, from 2020 (first eAssessment May 2023/November 2023). Published by the International Baccalaureate Organization. The speaking examination mark (32) and length (15 to 17 minutes including preparation time) come from the International Baccalaureate Organization, Middle Years Programme Language acquisition guide, for use from September 2020/January 2021 ("Language acquisition examination blueprint", page 52).

@@ -101,6 +101,14 @@ D: a base in a nucleotide
 
 **12.** Explain why a muscle cell and a nerve cell from the same person contain the same DNA but have different features. **[3]**
 
+**13.** A length of DNA has 90 base pairs.
+
+**(a)** State the total number of bases in this length of DNA. **[1]**
+
+**(b)** In one strand, 20 bases are A and 25 are T. State the number of A and T bases on the other strand. **[2]**
+
+**(c)** Explain your answer to part (b). **[1]**
+
 ---
 
 ## Answers
@@ -150,6 +158,14 @@ D: a base in a nucleotide
 **(b)** A mutation [1]. **[3]**
 
 **12.** Both cells came from the same zygote by mitosis, so they have the same DNA [1]. They use different genes [1], so they make different proteins and have different features [1]. **[3]**
+
+**13.**
+
+**(a)** 90 x 2 = 180 bases [1].
+
+**(b)** The other strand has 25 A bases [1] and 20 T bases [1].
+
+**(c)** A on one strand pairs with T on the other, and T pairs with A [1]. **[4]**
 
 ---
 

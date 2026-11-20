@@ -117,6 +117,10 @@ Actions that follow from a risk assessment include using more than one supplier,
 | New tariff on wood (political) | Medium | Medium: costs rise | Look for a supplier in a trading bloc partner country |
 | Exchange rate moves (financial) | High | Medium | Agree fixed prices in advance |
 
+## Balancing benefits against risks
+
+A global supply chain is a trade-off. Lower costs and wider choice are set against longer journeys, more links and more things that can go wrong. Some businesses respond by shortening the chain, for example by buying from suppliers closer to home or selling directly to consumers online. Others keep a global chain but reduce the risk by using several suppliers in different countries, keeping extra stock and checking suppliers carefully. A good exam answer says which choice suits the business in the question and why.
+
 ## Annotated model answer
 
 **Question:** Explain **two** benefits to a business of using a global supply chain. [4]

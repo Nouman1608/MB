@@ -117,6 +117,28 @@ So a change to the base sequence of a gene can change the order of amino acids, 
 
 Almost all the body cells of one person contain the same DNA. A muscle cell and a nerve cell have different features because they use different genes, and so they make different proteins. This idea links DNA to specialised cells.
 
+## Putting numbers on the genetic code
+
+A chromosome may contain thousands of genes, and each gene may be hundreds or thousands of bases long. Even a short gene has a huge number of possible base sequences. For a short stretch of just 4 bases, with 4 possible bases at each position, there are 4 x 4 x 4 x 4 = 256 different sequences. A gene of 300 bases has far more. This is why a cell can make so many different proteins from just four bases: the information is in the order, in the same way that the 26 letters of the alphabet can spell a very large number of words.
+
+### Worked example 5: the effect of a change
+
+*A section of a gene has the sequence A A G C T T. A mutation changes the third base from G to T, giving A A T C T T. Which statements are correct?*
+
+- The sequence of bases has changed. **Correct.**
+- The sequence of amino acids in the protein might change. **Correct** (it may, because the base sequence decides the amino acid sequence).
+- The protein will definitely stop working. **Not necessarily.** If the change alters the shape of an important part such as an active site, the protein may not work, but some changes have little or no effect.
+
+This is the kind of careful wording the exam rewards: use "may" and "could" when the outcome depends on the change.
+
+## DNA, genes and inheritance
+
+When cells divide by mitosis, the DNA is copied first, so that each daughter cell has the same genes. Sperm and egg cells carry half of the parent's DNA, and a zygote receives one set from each parent. The offspring therefore inherits a mixture of genes. This is explained further in the inheritance subtopic. Here it is enough to know that DNA is the material that is passed from one generation to the next, and that the information is the order of its bases.
+
+## A model to remember
+
+Think of DNA as a cookbook. The cookbook (the chromosome) contains many recipes (genes). Each recipe is written using only four letters (bases). A recipe gives instructions for making one dish (a protein). The cell reads only the recipes that it needs. Cooks (the cell) do the work, but the cookbook decides which dishes can be made. Like all models, this has limits: the DNA does not leave the nucleus, and a book does not copy itself before a cell divides. Use the model to remember the roles, but use correct biological terms in answers.
+
 ## Common mistakes
 
 - Saying that bases pair A with C or T with G. A pairs with T, and C with G.

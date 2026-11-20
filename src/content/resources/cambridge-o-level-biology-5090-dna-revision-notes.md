@@ -78,6 +78,24 @@ Totals in a DNA molecule: amount of A = amount of T; amount of C = amount of G.
 - **Specialised cells:** different cells use different genes, so they make different proteins.
 - **Enzymes:** the active site shape depends on the amino acid sequence.
 
+## Worked examples to practise
+
+**1. Complementary strand.** Strand 1: C C G A T T G. Strand 2: G G C T A A C.
+
+**2. Percentages.** If 15 per cent of the bases are C, then G = 15 per cent. C + G = 30 per cent. A + T = 70 per cent, so A = 35 per cent and T = 35 per cent.
+
+**3. Counting.** A DNA molecule has 120 base pairs. Number of bases on both strands = 120 x 2 = 240. Number of nucleotides = 240.
+
+**4. Effect of a change.** One base in a gene is changed. The amino acid sequence may change, the shape of the protein may change, and the protein may no longer work. Use "may" because not every change has an effect.
+
+## Diagram checklist
+
+- Draw two strands coiled round each other.
+- Draw rungs joining the strands to show base pairs.
+- Label the bases A, T, C and G, with A opposite T and C opposite G.
+- Show that each strand is a chain of nucleotides.
+- Mark one section as a gene.
+
 ## Short model answers
 
 **Describe the structure of DNA.** Two strands coiled together to form a double helix. Each strand is a chain of nucleotides, each with a base. The strands are held together by bonds between pairs of bases: A with T, and C with G.

@@ -34,8 +34,8 @@ Test yourself afterwards with the [Criterion A practice questions](/resources/ib
 
 - Criterion A is **Listening**: interpreting and constructing meaning from **spoken multimodal text**, including how images and other spatial aspects work with the oral text to convey **ideas, values and attitudes**.
 - Four equally weighted criteria (A-D), each with **eight achievement levels (1-8) in four bands**.
-- On-screen examination: **three tasks**; Criterion A, B and D are worth **24 marks each**. Distribution may vary by no more than three marks from the blueprint.
-- Speaking (Criterion C, 24 marks) is a separate, teacher-marked, IB-moderated examination.
+- On-screen examination: **three tasks** of about 35 minutes each (1 hour 45 minutes in all), **96 marks**. Tasks 1 and 2 each pair a written-visual text with an audio-visual text and assess Criterion A (16 marks) and Criterion B (16 marks), so Criterion A is worth **32 marks** across the two tasks. Task 3 is writing (Criterion D, 32 marks). The distribution of marks may vary by no more than three marks from the blueprint.
+- Speaking (Criterion C, 32 marks) is a separate individual examination of 15 to 17 minutes including preparation time, internally assessed and externally moderated.
 - Three proficiency levels for eAssessment: **emergent, capable, proficient**.
 
 <figure class="topic-figure">
@@ -167,7 +167,7 @@ Always add **why**: "The chime gets attention before key information."
 ## Quick self-test
 
 1. What makes a spoken text "multimodal"?
-2. How many marks does the brief give Criterion A in the on-screen examination?
+2. How many marks does the guide give Criterion A in the on-screen examination, and how are they spread across the tasks?
 3. A voicemail says: "Let's meet at the library -- actually, no, the café opposite." Where do you meet?
 4. Name the three ways an image can relate to speech.
 5. A speaker says "Great, another rainy sports day" in a flat voice. What attitude is suggested?
@@ -182,7 +182,7 @@ Always add **why**: "The chime gets attention before key information."
 ### Answers
 
 1. It combines speech with at least one other mode, such as images, on-screen text, music or gesture.
-2. 24 marks.
+2. 32 marks: 16 in Task 1 and 16 in Task 2.
 3. The café opposite the library (the self-correction gives the answer).
 4. Reinforce, add, contrast.
 5. Disappointment or sarcasm: "great" is used ironically, shown by the flat tone.
@@ -217,7 +217,7 @@ Watch for paraphrase (the speaker uses different words from the question), self-
 Every inference needs a quoted or described piece of evidence, such as specific words, a change in tone or a visual detail. Stating an attitude like "the speaker is worried" without evidence earns little.
 
 **Is listening assessed on screen in the IB MYP Language Acquisition eAssessment?**
-Yes. Criterion A Listening is part of the on-screen examination, which carries 24 marks for each of Criteria A, B and D. Speaking (Criterion C) is a separate, teacher-marked and IB-moderated examination.
+Yes. Criterion A Listening is part of the on-screen examination, which is worth 96 marks: 32 for each of Criteria A, B and D. Criterion A is assessed in Tasks 1 and 2, 16 marks in each. Speaking (Criterion C) is a separate individual examination, internally assessed and externally moderated.
 
 ## Next steps
 
@@ -225,4 +225,4 @@ Try the [Criterion A practice questions](/resources/ib-myp-language-acquisition-
 
 ## Official syllabus
 
-International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Language acquisition*, from 2020 (first eAssessment May 2023/November 2023), published by the IB. The brief names Criterion A: Listening and the 24-mark on-screen examination allocation for comprehending spoken multimodal texts. All texts here are original.
+International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Language acquisition*, from 2020 (first eAssessment May 2023/November 2023), published by the IB. The brief names Criterion A: Listening. The eAssessment marks (32 for Criterion A, 16 in each of Tasks 1 and 2) come from the International Baccalaureate Organization, Middle Years Programme Language acquisition guide, for use from September 2020/January 2021 ("MYP eAssessment" and "Language acquisition examination blueprint", pages 51 and 52). All texts here are original.

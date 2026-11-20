@@ -36,9 +36,9 @@ Test yourself afterwards with the [criterion D practice questions](/resources/ib
 |---|---|
 | Criterion D name | Writing |
 | eAssessment objective | Writing in response to multimodal texts |
-| eAssessment marks | 24 (criteria A and B also 24 each) |
+| eAssessment marks | 32, all in Task 3 (criteria A and B also 32 each) |
 | Mark flexibility | Distribution may vary by no more than 3 marks from the blueprint |
-| On-screen examination | Three tasks; may include any topic from the language acquisition list |
+| On-screen examination | Three tasks of about 35 minutes each, 96 marks; Task 3 is writing in response to multimodal texts (criterion D); may include any topic from the language acquisition list |
 | Achievement levels | Eight (1–8) in four bands, for each criterion |
 | Proficiency levels | Emergent, capable or proficient |
 | Weighting | The four criteria are equally weighted |
@@ -184,7 +184,7 @@ Check these against the descriptors your teacher gives you.
 ### Answers
 
 1. Writing in response to multimodal texts.
-2. 24 marks.
+2. 32 marks, all in Task 3.
 3. No more than 3 marks.
 4. Any four of: language used at home; the language of the classroom; formal exchanges; informal exchanges; social language; academic language.
 5. Purpose, audience, text type, stimulus.
@@ -221,8 +221,8 @@ Cohesive devices are the language that joins ideas: connectives such as "however
 No. Reuse the stimulus's ideas in your own words rather than copying its phrases word for word. Lifting stimulus phrases is a common way to lose credit.
 
 **How is MYP Language Acquisition writing assessed?**
-Criterion D has eight achievement levels in four bands, like the other three criteria, and carries 24 marks in the on-screen examination blueprint.
+Criterion D has eight achievement levels in four bands, like the other three criteria, and carries 32 marks in the on-screen examination blueprint, all in Task 3 (the on-screen examination is worth 96 marks in all).
 
 ## Official syllabus
 
-International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Language acquisition*, from 2020 (first eAssessment May 2023/November 2023). These notes follow the brief's description of criterion D, its eight achievement levels in four bands, and its eAssessment blueprint. Task-specific clarifications and level descriptors come from your school.
+International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Language acquisition*, from 2020 (first eAssessment May 2023/November 2023). These notes follow the brief's description of criterion D and its eight achievement levels in four bands. The eAssessment marks (32 for criterion D, all in Task 3 of the on-screen examination) come from the International Baccalaureate Organization, Middle Years Programme Language acquisition guide, for use from September 2020/January 2021 ("MYP eAssessment" and "Language acquisition examination blueprint", pages 51 and 52). Task-specific clarifications and level descriptors come from your school.
