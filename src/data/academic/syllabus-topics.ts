@@ -1197,8 +1197,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2026', effectiveTo: '2027', status: 'current',
     tiered: false,
     source: 'Cambridge Assessment International Education -- official syllabus PDF',
-    sourceUrl: 'https://www.cambridgeinternational.org/Images/697427-2026-2027-syllabus.pdf', verifiedDate: '2026-08-19',
-    notes: "Cambridge International AS & A Level Mathematics (9709). Modular: 6 papers across 3 content strands -- Pure Mathematics (Papers 1-3), Mechanics (Paper 4), Probability & Statistics (Papers 5-6). Different combinations of papers lead to different awards (e.g. Paper 1+2 for AS Pure Mathematics only; Paper 1,3,4,5 for the full A-level with Mechanics and Probability & Statistics 1). Not tiered in the Core/Extended sense. All 6 content sections and their sub-topic structure verified directly against the official syllabus PDF content overview (cambridgeinternational.org), fetched 2026-08-19.",
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/697427-2026-2027-syllabus.pdf', verifiedDate: '2026-11-20',
+    notes: "Cambridge International AS & A Level Mathematics (9709). Modular: 6 papers across 3 content strands -- Pure Mathematics (Papers 1-3), Mechanics (Paper 4), Probability & Statistics (Papers 5-6). Different combinations of papers lead to different awards (e.g. Paper 1+2 for AS Pure Mathematics only; Paper 1,3,4,5 for the full A-level with Mechanics and Probability & Statistics 1). Not tiered in the Core/Extended sense. All 6 content sections and their sub-topic structure verified directly against the official syllabus PDF content overview (cambridgeinternational.org), fetched 2026-08-19. Checked on 2026-11-20 against the Cambridge syllabus PDF (Version 5, published November 2026): all 6 topics and all 38 numbered subtopics match the printed headings in number, name and order; one apostrophe in 4.4 was corrected to the printed form.",
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Pure Mathematics 1', slug: 'pure-mathematics-1-cambridge-alevel', subtopics: [
         { number: '1.1', name: 'Quadratics', slug: 'quadratics-cambridge-alevel-maths' },
@@ -1233,7 +1234,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '4.1', name: 'Forces and equilibrium', slug: 'forces-and-equilibrium-cambridge-alevel-maths' },
         { number: '4.2', name: 'Kinematics of motion in a straight line', slug: 'kinematics-of-motion-in-a-straight-line-cambridge' },
         { number: '4.3', name: 'Momentum', slug: 'momentum-cambridge-alevel-maths' },
-        { number: '4.4', name: "Newton's laws of motion", slug: 'newtons-laws-of-motion-cambridge-alevel-maths' },
+        { number: '4.4', name: "Newton’s laws of motion", slug: 'newtons-laws-of-motion-cambridge-alevel-maths' },
         { number: '4.5', name: 'Energy, work and power', slug: 'energy-work-and-power-cambridge-alevel-maths' },
       ] },
       { number: 5, name: 'Probability & Statistics 1', slug: 'probability-and-statistics-1-cambridge-alevel', subtopics: [
