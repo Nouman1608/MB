@@ -96,7 +96,7 @@ D: A rival adopting robots.
 **(c)** Fixed-price or forward contract: Kestrel agrees the exchange rate in advance with its bank [1], so the cost is certain and it can plan, but it loses the benefit if the pound rises [1].
 Switch to a UK supplier: this removes the exchange-rate risk [1], but the UK price may be higher, or the quality or supply less reliable [1].
 Pass the cost on to customers: price rises may be possible if rivals face the same cost [1], but may lose orders if customers can switch [1].
-Hold stock when the pound is strong: reduces average cost [1], but ties up cash and storage space [1].
+Hold stock when the pound is strong: reduces average cost [1], but ties up cash and storage space.
 Judgement: a forward contract is the most practical first step because it gives certainty at low cost; Kestrel should combine this with a review of UK suppliers, because the extra cost of £24,545 is large compared with a small firm's profit [1]. **[8]**
 
 **7. (a)** Wage bill = 20 × £21,000 = £420,000 [1]. Extra cost = 7% × £420,000 = **£29,400** [1]. Per unit = £29,400 ÷ 140,000 = **£0.21** [1]. **[3]**
@@ -105,7 +105,7 @@ Judgement: a forward contract is the most practical first step because it gives 
 
 **(c)** The cost rise of £29,400 is a direct reduction in profit unless it is recovered [1]. Passing it on needs a price rise of 2.6%, which may be possible if all UK rivals face the same law [1].
 Kestrel could raise productivity, for example with automation or better training, to produce the same output with fewer hours [1], but this needs investment and may mean job losses [1].
-Stakeholders: employees gain higher pay [1], but if the business cuts staff to save cost, some may lose their jobs [1]. Customers may pay higher prices [1]. Overseas competitors not subject to this law may gain a cost advantage [1].
+Stakeholders: employees gain higher pay [1], but if the business cuts staff to save cost, some may lose their jobs [1]. Customers may pay higher prices [1]. Overseas competitors not subject to this law may gain a cost advantage.
 Judgement: the effect is moderate (2.6% of price) and can probably be absorbed through a small price rise and efficiency gains, unless Kestrel competes with overseas firms [1]. **[8]**
 
 **8. (a)** Tax before = 3,500 × £12 = **£42,000** [1]. Reduction in plastic = 20% × 3,500 = 700 tonnes [1]. Saving = 700 × £12 = **£8,400** a year [1]. **[3]**
@@ -114,7 +114,7 @@ Judgement: the effect is moderate (2.6% of price) and can probably be absorbed t
 
 **(c)** Importance: a packaging manufacturer uses large amounts of material, energy and waste disposal, so environmental rules and taxes bear directly on cost [1]. The tax of £42,000 shows how large the cost can be [1]. Customers, especially retailers, now ask for recyclable packaging, so environmental performance affects sales as well as cost [1].
 Responses: redesign to use less plastic, as in the example, pays back in 2.1 years [1], and switching to recycled materials may reduce the tax and appeal to customers [1]. Both need investment and may change the quality or cost of the product [1].
-Other stakeholders: the community benefits from less waste and pollution [1]; employees may need training in new materials and processes [1].
+Other stakeholders: the community benefits from less waste and pollution [1]; employees may need training in new materials and processes.
 Evaluation: the importance depends on the speed and size of tax and customer change [1]. Judgement: environmental influences are among the most important for a packaging business, because they affect both costs and what customers will buy, so Kestrel should treat redesign as a strategic priority and not just as compliance [1]. **[9]**
 
 ## Where marks are usually lost

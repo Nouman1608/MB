@@ -112,7 +112,7 @@ Tax payable           = profit x tax rate
 1. Define "depreciation" of a currency.
 2. Income rises by 6% and the YED of a product is +1.5. Calculate the change in demand.
 3. A $150,000 loan has its rate raised from 5% to 7%. Calculate the extra yearly interest.
-4. A firm buys EUR 90,000 of parts. Calculate the dollar cost at $1 = EUR 0.90 and at $1 = EUR 0.75, and the difference.
+4. A firm buys EUR 72,000 of parts. Calculate the dollar cost at $1 = EUR 0.90 and at $1 = EUR 0.75, and the difference.
 5. A firm's costs total $300,000 and rise by 4%. Calculate the extra cost.
 6. Profit is $50,000 and tax is 20%. Calculate profit after tax.
 7. Name two intellectual property rights.
@@ -125,7 +125,7 @@ Tax payable           = profit x tax rate
 1. A fall in the value of a currency, so it buys less foreign currency.
 2. 6 x 1.5 = **9% increase** in demand.
 3. 7% x 150,000 = $10,500 and 5% x 150,000 = $7,500, so the extra is **$3,000**.
-4. At 0.90: 90,000 / 0.90 = **$100,000**. At 0.75: 90,000 / 0.75 = **$120,000**. Difference = **$20,000** more.
+4. At 0.90: 72,000 / 0.90 = **$80,000**. At 0.75: 72,000 / 0.75 = **$96,000**. Difference = **$16,000** more.
 5. 4% x 300,000 = **$12,000**.
 6. Tax = 20% x 50,000 = $10,000, so profit after tax = **$40,000**.
 7. Any two of: copyright, patents, trademarks.

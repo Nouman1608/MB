@@ -81,6 +81,18 @@ Hobbs Plastics (invented).
 - Political tariffs can reverse the case for offshoring.
 - Social pressure on ethical sourcing can come before the law changes.
 
+## Which influence matters most? Quick guide
+
+| Business type | Influence likely to matter most | Why |
+|---|---|---|
+| Importer of materials | Economic (exchange rates), political (tariffs) | Input costs move with currency and trade rules |
+| Labour-intensive service | Legal (minimum wage), social (availability of staff) | Wages are the main cost |
+| Food producer | Legal (safety), ethical (sourcing), environmental (packaging) | Public trust and strict rules |
+| High-volume manufacturer | Technological, economic (interest rates) | Equipment and borrowing drive cost |
+| Exporter | International, economic (exchange rate) | Prices abroad depend on currency and standards |
+
+Use this only as a starting point. The case facts decide, so quote them.
+
 ## Key terms
 
 | Term | Meaning |

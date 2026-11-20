@@ -206,6 +206,7 @@ After simplifying, test the original and the result for a few input rows, or wri
 - **Use the notation** from the specification and put brackets round anything uncertain.
 - **Remove bars over groups first** using De Morgan.
 - **Look for the standard patterns**, such as A + A̅ = 1 and A + A̅⋅B = A + B, before expanding anything.
+- **Check with a row.** Substitute one set of values into the first and last lines. If they differ, find the step that went wrong before moving on.
 - **Stop when it is simple.** Repeating a correct step does not earn extra marks, and expanding can make an expression longer.
 
 ## Common mistakes
