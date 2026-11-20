@@ -125,6 +125,26 @@ Condensed recall for section 3.5.3 of OxfordAQA International GCSE Business (922
 - E-commerce data only covers online customers.
 - Use the correct total when finding percentages.
 
+## Model answer outline: a 6-mark "select the best method" question
+
+Question style: "Recommend a method of market research for a small bakery thinking of selling gluten-free bread."
+
+1. **Method:** a short questionnaire given to customers in the shop on several days, plus an online poll.
+2. **Reason:** it is cheap, reaches existing customers and gives quantitative data.
+3. **Add qualitative data:** a few interviews to find out why customers want gluten-free bread.
+4. **Secondary data:** an online report on market growth costs little.
+5. **Limits:** sample bias, untruthful answers; try a small test batch before launching.
+
+## Revision checklist
+
+- I can define primary, secondary, qualitative and quantitative research.
+- I can give seven purposes of market research.
+- I can describe six methods with a benefit and a drawback for each.
+- I can choose a method for a given business.
+- I can calculate percentages from a table and scale up a sample.
+- I can state six reasons why research might be inaccurate.
+- I can suggest how to make research more accurate.
+
 ## Self-test
 
 1. Define market research.

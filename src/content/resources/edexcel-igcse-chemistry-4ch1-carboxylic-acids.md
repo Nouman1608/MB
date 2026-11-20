@@ -126,6 +126,29 @@ Observations: the carbonate dissolves and the mixture **fizzes** because carbon 
 - Ethanoic acid reacts with ethanol in the presence of an acid catalyst to give the ester ethyl ethanoate (see the [esters study guide](/resources/edexcel-igcse-chemistry-4ch1-esters/)).
 - The general reactions of acids with metals and carbonates are the same as in Topic 2 for mineral acids.
 
+## Trends and a weak acid compared with a strong acid
+
+**Boiling points.** The boiling point rises with chain length.
+
+| Acid | Methanoic | Ethanoic | Propanoic | Butanoic |
+|---|---|---|---|---|
+| Boiling point / °C | 101 | 118 | 141 | 164 |
+
+**Worked example 4: the same amount of gas, but more slowly.** Excess magnesium is added to 25 cm³ of 0.10 mol/dm³ ethanoic acid in one flask, and to 25 cm³ of 0.10 mol/dm³ hydrochloric acid in another.
+
+1. Moles of each acid = 0.10 x 25 / 1,000 = **0.0025 mol**.
+2. Both equations have the ratio 2 acid : 1 hydrogen. Moles of H₂ = 0.0025 / 2 = **0.00125 mol**.
+3. Volume of H₂ = 0.00125 x 24,000 = **30 cm³** in each flask.
+
+The two flasks give the **same volume** of hydrogen, because they contain the same number of moles of acid. The ethanoic acid flask is **slower**, because ethanoic acid is only partly ionised and there are fewer hydrogen ions in the solution at any instant. A weak acid is not less able to react completely; it simply reacts at a lower rate. This is a classic examination point: concentration (amount dissolved) and strength (extent of ionisation) are different ideas.
+
+| | 0.10 mol/dm³ ethanoic acid | 0.10 mol/dm³ hydrochloric acid |
+|---|---|---|
+| Type | Weak acid | Strong acid |
+| Approximate pH | About 3 | About 1 |
+| Rate with magnesium | Slower | Faster |
+| Volume of hydrogen from excess magnesium (same volume of acid) | Same | Same |
+
 ## Common mistakes
 
 - Writing the carboxyl group as -COH or -CHO (that is an aldehyde).

@@ -17,7 +17,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "representing-data"
     subtopic: "number-bases-oxfordaqa-alevel-cs"
-description: "Ten original OxfordAQA 9645 questions on sub-topic 3.5.1 Number bases: converting between decimal, binary and hexadecimal, with full working."
+description: "Twelve original OxfordAQA 9645 questions on sub-topic 3.5.1 Number bases: converting between decimal, binary and hexadecimal, with full working."
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-20
 featured: false
@@ -64,6 +64,14 @@ Related pages: [number bases study guide](/resources/oxfordaqa-a-level-computer-
 **(b)** State the decimal value of `0xA5`. **[2]**
 **(c)** State the largest decimal value that can be held in two hexadecimal digits, and the hex number that holds it. **[2]**
 
+**11.** Convert the hexadecimal number `0xF0` to decimal and to eight-bit binary. Show your working. **[4]**
+
+**12.** The eight-bit binary number 10110111 is the operand of an instruction.
+
+**(a)** Write the number in hexadecimal. **[2]**
+**(b)** Write the number in decimal. **[2]**
+**(c)** A student converts the number to hexadecimal by splitting 10110111 into 101 and 10111. Explain the mistake. **[2]**
+
 ## Answers
 
 **1.** 16 digits [1]; E [1]. **[2]**
@@ -102,6 +110,12 @@ Divisions correct [2: all correct [2]; one slip [1]]; remainders read from the b
 **10. (a)** In hexadecimal, A is a **single digit** with value 10 [1] and the columns are worth 16 and 1, not 10 and 1 (the student read the digits as separate decimal numbers). **[1]**
 **(b)** 10 × 16 + 5 [1] = **165** [1]. **[2]**
 **(c)** **255** [1], held by **FF** [1]. **[2]**
+
+**11.** F is 15, so 15 × 16 + 0 [1] = **240** [1]. F is 1111 and 0 is 0000 [1], so the binary is **11110000** [1]. **[4]**
+
+**12. (a)** Groups of four from the right: 1011 and 0111 [1]; 1011 is B and 0111 is 7, so **B7** [1]. **[2]**
+**(b)** 11 × 16 + 7 [1] = 176 + 7 = **183** [1]. **[2]**
+**(c)** The bits must be split into groups of **four, starting from the right** [1]; the student's groups have 3 and 5 bits, so they do not match hexadecimal digits [1]. **[2]**
 
 ## Frequently asked questions
 

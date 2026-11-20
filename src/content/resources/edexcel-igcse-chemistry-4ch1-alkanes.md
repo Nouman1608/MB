@@ -119,6 +119,37 @@ The halogen's colour fades as it reacts. With bromine, the red-brown colour disa
 
 Alkanes burn completely in plenty of air to give carbon dioxide and water, releasing heat: C₃H₈ + 5O₂ → 3CO₂ + 4H₂O. In limited oxygen, carbon monoxide or soot may form. This is why alkanes are used as fuels (see the [crude oil study guide](/resources/edexcel-igcse-chemistry-4ch1-crude-oil/)).
 
+## More worked examples
+
+**Worked example 3: finding the formula from combustion data.** When 0.10 mol of an alkane burns completely, 0.50 mol of carbon dioxide and 0.60 mol of water form.
+
+1. Moles of CO₂ per mole of alkane = 0.50 / 0.10 = **5**, so the alkane has 5 carbon atoms.
+2. Moles of H₂O per mole of alkane = 0.60 / 0.10 = **6**, so the alkane has 12 hydrogen atoms (2 per water).
+3. The formula is **C₅H₁₂**, which fits 2n + 2 = 12 for n = 5. It is pentane or one of its isomers.
+
+**Worked example 4: the percentage of carbon.** The percentage of carbon by mass in an alkane is 12n / (14n + 2) x 100.
+
+| Alkane | Calculation | % carbon |
+|---|---|---|
+| Methane | 12 / 16 | 75.0% |
+| Ethane | 24 / 30 | 80.0% |
+| Propane | 36 / 44 | 81.8% |
+| Butane | 48 / 58 | 82.8% |
+| Pentane | 60 / 72 | 83.3% |
+
+The percentage rises as the chain gets longer and approaches 85.7% (the value for CH₂ units, as in alkenes). This explains why longer-chain alkanes burn with smokier flames when air is limited: they contain a higher proportion of carbon, so incomplete combustion produces more soot. Methane, with the lowest proportion, burns with a clean blue flame.
+
+## Properties at a glance
+
+| Property | Alkanes |
+|---|---|
+| Bonding | All carbon-carbon bonds single; saturated |
+| Solubility in water | Insoluble (non-polar molecules) |
+| Reaction with bromine water | None; the colour stays |
+| Combustion | Burn to carbon dioxide and water (clean flame for short chains) |
+| Reaction with halogens | Substitution in ultraviolet radiation |
+| Trend in boiling point | Increases with chain length |
+
 ## Common mistakes
 
 - Writing the general formula as CₙH₂ₙ (that is the alkenes).

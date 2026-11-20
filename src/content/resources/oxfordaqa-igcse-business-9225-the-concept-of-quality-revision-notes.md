@@ -114,6 +114,25 @@ Test: do the savings from fewer faults exceed the cost of the scheme? Example: s
 - Include costs as well as benefits of quality.
 - Use a figure or detail from the case.
 
+## Model answer outline: a 6-mark "analyse" question
+
+Question style: "Analyse why a mobile phone maker might introduce TQM."
+
+1. **Fewer faults:** if every employee checks quality, errors are found at the earliest stage, so fewer faulty phones reach customers.
+2. **Lower costs:** with 4% of 20,000 phones faulty at $25 each, faults cost $20,000 a month; a fall to 1.5% saves $12,500.
+3. **Reputation:** customers who expect phones to last three years will return and recommend the brand.
+4. **Drawback:** training and set-up costs, here $6,000 a month, so the saving is $6,500 net and depends on the defect rate really falling.
+
+## Revision checklist
+
+- I can define quality in terms of customer expectations.
+- I can describe five ways of measuring quality.
+- I can calculate a defect rate and the cost of defects.
+- I can describe quality control, quality assurance and TQM.
+- I can state two advantages and two drawbacks of TQM.
+- I can list costs and benefits of maintaining quality.
+- I can explain quality problems with outsourcing and franchising.
+
 ## Self-test
 
 1. Define quality.

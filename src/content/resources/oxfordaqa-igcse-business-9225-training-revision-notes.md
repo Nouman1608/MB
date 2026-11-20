@@ -105,6 +105,26 @@ Many businesses use a mix: induction, then on-the-job, with off-the-job courses 
 - Trained staff can leave; mention it in evaluations.
 - Match the method to the business in the question.
 
+## Model answer outline: a 9-mark "evaluate" question
+
+Question style: "Evaluate whether a call centre should use on-the-job or off-the-job training."
+
+- **On the job:** cheaper ($580 against $680 per adviser in an example), specific to the business, starts at once; but trainers lose output and may pass on bad habits.
+- **Off the job:** specialist teachers and qualifications; but fees, lost output and skills may not fit the business.
+- **Context:** the type of skill, the number of trainees and the budget.
+- **Calculation:** compare total cost with the saving from fewer errors.
+- **Judgement:** a mix often works best (induction, then on-the-job coaching, then a specialist course). Give a reason for your main choice.
+
+## Revision checklist
+
+- I can define training and induction.
+- I can list six benefits of training.
+- I can describe on-the-job and off-the-job training with two advantages and two drawbacks each.
+- I can work out the cost of each method including lost output.
+- I can calculate extra output and a simple payback.
+- I can list factors affecting the choice of method.
+- I can name the risk of trained staff leaving.
+
 ## Self-test
 
 1. Define training.

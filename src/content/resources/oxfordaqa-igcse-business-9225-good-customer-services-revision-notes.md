@@ -99,6 +99,34 @@ Example: help line costs $30,000. Benefits: 300 fewer returns x $50 = $15,000, p
 - Match the method to the business: an online shop needs fast delivery and returns; a restaurant needs attentive staff.
 - Social media can harm as well as help.
 
+## Model answer outline: a 6-mark "analyse" question
+
+Question style: "Analyse how an online shop could use social media to improve customer service."
+
+1. **Quick replies:** customers can ask questions and get an answer within minutes, which solves problems before they turn into complaints.
+2. **Public image:** a complaint solved publicly shows other customers that the shop cares, which builds reputation.
+3. **Feedback:** comments show what customers like and dislike, so the shop can change products or delivery.
+4. **Drawback:** a poorly handled complaint is visible to everyone, and staff must monitor the pages all day, which costs money.
+
+Always finish the chain by linking to **loyalty, reputation or sales**.
+
+## Revision checklist
+
+- I can describe product knowledge, customer engagement and post-sales services.
+- I can give examples of user training, help lines and servicing.
+- I can list four benefits of good service and four dangers of poor service.
+- I can calculate the annual value of a customer and the cost of losing customers.
+- I can explain the roles of websites, e-commerce and social media in customer service.
+- I can compare the cost of a service with its benefit.
+- I can match a service method to a business.
+
+## Command words for this subtopic
+
+- **State or identify:** name the method, for example "help line".
+- **Explain:** method, effect on the customer, effect on the business (loyalty, reputation, sales).
+- **Analyse:** build a chain, for example "fast replies on social media, so complaints are solved, so customers stay, so sales are protected".
+- **Evaluate:** weigh the cost of the service (staff, training, systems) against the gain, use figures, and give a judgement for the business named.
+
 ## Self-test
 
 1. Define customer service.

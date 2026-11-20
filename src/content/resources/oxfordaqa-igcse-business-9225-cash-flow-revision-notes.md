@@ -117,6 +117,26 @@ A profitable business can run out of cash; a business can have cash but make a l
 - Do not give inflows that are not cash.
 - Choose a solution that fits the **cause** and give a drawback.
 
+## Model answer outline: a 9-mark "evaluate" question
+
+Question style: "Evaluate whether an overdraft is the best way to solve a one-month cash shortage."
+
+- **For:** quick, flexible, interest only on the amount used (for example $60 for $4,500 for one month).
+- **Against:** high interest if it lasts longer, can be withdrawn by the bank.
+- **Alternatives:** delay a payment, ask customers to pay sooner, offer a discount for early payment.
+- **Cause:** is the problem short-lived (timing) or permanent (costs too high)?
+- **Judgement:** for a small, temporary gap an overdraft is suitable; for a lasting problem, the business must change its costs, prices or sales.
+
+## Revision checklist
+
+- I can distinguish cash flow from profit with an example.
+- I can complete net cash flow, closing and opening balances.
+- I can interpret a forecast, spotting negative balances.
+- I can give reasons for making forecasts and their limits.
+- I can name five solutions to cash flow problems with a drawback for each.
+- I can match a solution to a short-term or long-term problem.
+- I can calculate overdraft interest for part of a year.
+
 ## Self-test
 
 1. Define cash flow.

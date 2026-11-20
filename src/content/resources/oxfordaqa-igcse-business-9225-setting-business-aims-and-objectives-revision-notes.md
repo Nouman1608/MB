@@ -126,6 +126,25 @@ Governments encourage new businesses because they create **jobs**, bring in **ta
 - Objectives can conflict, such as growth against profit, or ethics against low costs.
 - Use percentages for market share and growth, with the correct formula.
 
+## Model answer outline: a 9-mark "evaluate" question
+
+Question style: "Evaluate whether profit is the best measure of success for a new coffee shop."
+
+- **For profit:** it shows that revenue covers costs, it is needed to survive and grow, and lenders and owners want to see it.
+- **Against:** a new shop may aim first for survival or customer satisfaction; a loss in year one may be part of a plan to grow; profit does not show reputation, staff or community impact.
+- **Other measures:** market share, customer satisfaction scores, number of customers, survival for three years, meeting ethical targets.
+- **Judgement:** profit matters, but for a new business it is not the best single measure. Survival and customer numbers are better guides in the first year, with profit becoming more important as the business matures. Say what would change your mind, for example if the shop had large debts.
+
+## Revision checklist
+
+- I can distinguish an aim from an objective.
+- I can list seven objectives and give an example of each.
+- I can calculate market share and percentage growth.
+- I can explain three reasons why objectives differ and two reasons why they change.
+- I can describe public sector objectives.
+- I can name ways to measure success other than profit.
+- I can give two ways governments support enterprise and four reasons start-ups fail.
+
 ## Self-test
 
 1. Distinguish between an aim and an objective.

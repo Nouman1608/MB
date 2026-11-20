@@ -108,6 +108,18 @@ All values recomputed.
 
 The computer stores bits; hex is only a way of writing them.
 
+## Quick conversions to memorise
+
+| Decimal | Binary | Hex |
+|---|---|---|
+| 16 | 00010000 | 10 |
+| 31 | 00011111 | 1F |
+| 128 | 10000000 | 80 |
+| 240 | 11110000 | F0 |
+| 255 | 11111111 | FF |
+
+A value that is a power of 2 has a single 1 bit. A hex number ending in 0 is a multiple of 16, and 0xFF is 255.
+
 ## Exam traps
 
 - **Remainder order.** Division remainders are read from last to first.

@@ -58,7 +58,7 @@ In a **rooted tree** one vertex is designated the **root**. Edges are then thoug
 | Descendant | Any node below a given node, through any number of steps |
 | Subtree | A node together with all of its descendants |
 | Depth of a node | The number of edges from the root to that node |
-| Height of the tree | The number of levels (or the longest path); here counted as the number of levels |
+| Height of the tree | The number of levels in the tree. This guide counts levels, so a single node has height 1 |
 
 All the other nodes are descendants of the root. A class hierarchy is a good example: `Object` is the root, every other class descends from it, and a class's parent is the class it inherits from. A folder structure on a computer, a family tree of descendants and the organisation of a company are also rooted trees.
 

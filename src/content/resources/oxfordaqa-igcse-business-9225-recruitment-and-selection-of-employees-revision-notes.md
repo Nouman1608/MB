@@ -113,6 +113,25 @@ Poor recruitment causes errors, unhappy customers, extra training and high turno
 - Always state the benefit to the business, such as productivity, service or retention.
 - Do not name specific laws unless the question does.
 
+## Model answer outline: a 9-mark "evaluate" question
+
+Question style: "Evaluate whether a hotel should recruit its new head chef internally or externally."
+
+- **Internal:** cheaper (for example $600 against $2,800), quicker, the person is known, motivates other staff; but few applicants and it creates a vacancy.
+- **External:** a wider choice, new ideas; but costs more, takes longer and is riskier.
+- **Context:** a hotel with high turnover may gain from rewarding loyal staff, but one that wants a new menu may need outside experience.
+- **Judgement:** choose one, say which factor mattered most and what would change your mind.
+
+## Revision checklist
+
+- I can state five reasons for recruiting.
+- I can distinguish internal from external recruitment with two points for each.
+- I can list the stages from vacancy to induction.
+- I can explain the job description and the person specification.
+- I can compare interviews, tests and work trials.
+- I can state three benefits of effective recruitment.
+- I can calculate staff turnover and the cost of replacing leavers.
+
 ## Self-test
 
 1. Define recruitment.

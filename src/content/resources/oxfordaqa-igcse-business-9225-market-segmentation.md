@@ -134,6 +134,12 @@ The social media campaign wins three times as many members for the same budget. 
 - Over-targeting can lose customers outside the target segment.
 - Segmentation can encourage stereotypes.
 
+## Worked exam-style answer
+
+**Question (6 marks):** Explain how a clothing shop could use segmentation by age.
+
+**Answer:** The shop could divide its customers into age groups such as 16 to 24, 25 to 44 and over 45. Each group wants different things: younger customers want fashion and low prices, while older customers may want comfort and quality. If 20% of 8,000 people aged 16 to 24 buy (1,600) and 12% of 15,000 people aged 25 to 44 buy (1,800), the shop can see where most of its buyers are. It can then use social media for the younger group and local newspapers for older customers, and stock the styles each group prefers. This targets spending on the people most likely to buy, which raises sales for each dollar of advertising.
+
 ## Common mistakes
 
 - Defining segmentation as "choosing a product". It is dividing the market into groups of customers.

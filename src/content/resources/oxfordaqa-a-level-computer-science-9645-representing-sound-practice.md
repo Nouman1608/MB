@@ -17,7 +17,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "representing-data"
     subtopic: "representing-sound-oxfordaqa-alevel-cs"
-description: "Ten original OxfordAQA 9645 questions on sub-topic 3.5.6: ADC and DAC, sampling rate and resolution, file size calculations and Nyquist's theorem."
+description: "Eleven original OxfordAQA 9645 questions on sub-topic 3.5.6: ADC and DAC, sampling rate and resolution, file size calculations and Nyquist's theorem."
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-20
 featured: false
@@ -67,6 +67,11 @@ Related pages: [representing sound study guide](/resources/oxfordaqa-a-level-com
 **(a)** State the number of different amplitude levels available at each setting. **[2]**
 **(b)** Explain **one** advantage and **one** disadvantage of choosing the 16-bit setting. **[2]**
 
+**11.** A mono sound is recorded at 16,000 Hz with 8-bit resolution for 45 seconds.
+
+**(a)** Calculate the file size in bytes. **[3]**
+**(b)** The engineer changes the resolution to 16 bits. State the new file size in bytes and the effect on quality. **[2]**
+
 ## Answers
 
 **1.** An analogue quantity varies **continuously** and can take any value in a range [1]; a digital quantity takes only **separate (discrete) values**, stored as binary [1]. **[2]**
@@ -94,6 +99,9 @@ Related pages: [representing sound study guide](/resources/oxfordaqa-a-level-com
 
 **10. (a)** 8 bits: 2^8 = **256** levels [1]; 16 bits: 2^16 = **65,536** levels [1]. **[2]**
 **(b)** Advantage: amplitude is measured more precisely, so the sound is closer to the original [1]. Disadvantage: the file is twice as large [1]. **[2]**
+
+**11. (a)** 16,000 × 8 × 45 [1] = 5,760,000 bits [1]; ÷ 8 = **720,000 bytes** [1]. **[3]**
+**(b)** The file size doubles to **1,440,000 bytes** [1]; the amplitude of each sample is measured more precisely, so the sound is closer to the original [1]. **[2]**
 
 ## Frequently asked questions
 

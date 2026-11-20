@@ -98,6 +98,24 @@ def price_with_vat(price):          # price is the parameter
 cost = price_with_vat(19.99)        # 19.99 is the argument; cost becomes 23.99
 ```
 
+## Building a structured solution: checklist
+
+1. List the tasks the program must carry out, each as a short verb phrase.
+2. Make each task a module with a clear name.
+3. Decide what each module needs as parameters and what it returns.
+4. Keep every other variable local to its module.
+5. Draw the hierarchy chart, then label the data on a structure chart.
+6. Write a short main program that only calls the modules in order.
+7. Test each module alone with chosen values, then test them together.
+
+Example interface table for the marks program (recomputed from the earlier example).
+
+| Module | Parameters | Returns | Result for 62, 48, 75, 91, 55 |
+|---|---|---|---|
+| `total_of` | `values` | integer | 331 |
+| `mean_of` | `values` | float | 66.2 |
+| `highest` | `values` | integer | 91 |
+
 ## Exam traps
 
 - **Hierarchy charts do not show data flow.** Only a structure chart does.

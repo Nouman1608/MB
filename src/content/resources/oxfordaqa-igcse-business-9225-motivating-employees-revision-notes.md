@@ -110,6 +110,25 @@ Examples:
 - Do not write about Maslow or other theories.
 - Match the method to the type of worker and the job.
 
+## Model answer outline: a 9-mark "evaluate" question
+
+Question style: "Evaluate whether a garage should give its mechanics a pay rise or more responsibility."
+
+- **Pay rise:** easy to understand and welcome, but costs money every year (for example $24,960) and may be taken for granted.
+- **More responsibility:** costs little, makes the job more interesting, and shows trust; but needs training and not all staff want it.
+- **Context:** if staff say the work is boring, pay alone may not stop them leaving.
+- **Judgement:** a combination may work best. State which would have the largest effect on retention for this business and why.
+
+## Revision checklist
+
+- I can define motivation and list five benefits of a motivated workforce.
+- I can distinguish wage, salary, commission and profit sharing.
+- I can calculate pay under each method.
+- I can name four non-financial methods.
+- I can compare autocratic and democratic styles.
+- I can match a method to a type of worker.
+- I know that specific theories such as Maslow's are not examined.
+
 ## Self-test
 
 1. Define motivation.

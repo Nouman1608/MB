@@ -17,7 +17,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "computer-systems-9645"
     subtopic: "hardware-and-software-oxfordaqa-alevel-cs"
-description: "Ten original OxfordAQA 9645 questions on sub-topic 3.6.1: defining hardware and software, classifying items and explaining how they relate, with answers."
+description: "Twelve original OxfordAQA 9645 questions on sub-topic 3.6.1: defining hardware and software, classifying items and explaining how they relate, with answers."
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-20
 featured: false
@@ -67,6 +67,17 @@ Related pages: [hardware and software study guide](/resources/oxfordaqa-a-level-
 
 **10.** Describe, in order, the hardware and software involved when a user clicks Save in a drawing program. Include at least **two** items of each. **[4]**
 
+**11.** A washing machine contains a small controller. A program stored in a memory chip in the controller runs whenever the machine is switched on.
+
+**(a)** State what the memory chip is and what the program is, using the terms hardware and software. **[2]**
+**(b)** Name the term for software stored in a chip in a hardware device. **[1]**
+**(c)** Explain why a laptop is more flexible than the controller. **[2]**
+
+**12.** A user wants a computer to open several programs at once without slowing down, and to be able to use a new printer.
+
+**(a)** Suggest a hardware change that would help with the first need. **[1]**
+**(b)** Suggest a software change that is needed for the second need, and explain why. **[2]**
+
 ## Answers
 
 **1.** The **electronic components** of a computer system [1]. **[1]**
@@ -94,6 +105,13 @@ Related pages: [hardware and software study guide](/resources/oxfordaqa-a-level-
 **9.** The statement is **incorrect** [1]. A document file is stored on the computer but is **data**, not instructions [1]. A spreadsheet application is software because it is a **sequence of instructions executed by the hardware** [1]. Software is defined by being instructions, not by being stored, because data is also stored [1]. **[4]**
 
 **10.** Any sensible chain with at least two items of each [4: two hardware items [1]; two software items [1]; correct order [1]; clear link between them [1]]. Example: the mouse (hardware) clicks Save; the drawing program (software) is being executed by the processor (hardware); the operating system (software) asks the file system to write the file; the solid-state drive (hardware) stores the data. **[4]**
+
+**11. (a)** The memory chip is **hardware** [1]; the program is **software** (a sequence of instructions) [1]. **[2]**
+**(b)** **Firmware** [1]. **[1]**
+**(c)** The laptop can run **many different programs**, installed or changed by the user [1], whereas the controller runs one fixed program for a single task [1]. **[2]**
+
+**12. (a)** Fit more RAM [1]. **[1]**
+**(b)** Install the printer's **driver** [1], because the operating system needs software that knows how to control that particular device [1]. **[2]**
 
 ## Frequently asked questions
 

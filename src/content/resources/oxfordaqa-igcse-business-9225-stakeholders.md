@@ -107,6 +107,20 @@ Long-term success often depends on keeping the key stakeholders reasonably happy
 
 **Worked example 3: the cost of ignoring a stakeholder.** A bakery uses 30 delivery trips a day through a quiet street. It plans 45 trips, a rise of (45 - 30) / 30 = 50%. Residents complain to the council, which limits deliveries to 35 a day. The bakery must pay for extra drivers on a new route or lose sales. If the bakery had talked to residents first, it could have agreed times that cause little disturbance.
 
+## Worked exam-style answer
+
+**Question (6 marks):** Explain how a new factory might affect two stakeholders.
+
+**Answer:** The local community may benefit from new jobs and from workers spending their wages in local shops. However, residents may suffer from extra noise and lorries, for example if daily lorry trips rise from 30 to 45 (a 50% increase), and they could complain to the council. The owners are another stakeholder. They may benefit from higher output and profit in the future and receive larger dividends, but the cost of building the factory may reduce profit now, so their dividends could be lower for a time. The business has to balance these interests, perhaps by agreeing delivery times with residents.
+
+## Applying the ideas: three quick cases
+
+1. **A supermarket cuts prices.** Customers gain; owners may lose profit per item but may gain from more sales; suppliers may be pushed to accept lower prices.
+2. **A factory installs a pollution filter costing $45,000.** The community gains; owners bear the cost; the government may be pleased by compliance.
+3. **A firm cuts 20 jobs to save costs.** Owners may gain; employees lose; the government may pay benefits; the local community loses spending power.
+
+For each case, name the stakeholders, say whether they gain or lose, and give one reason.
+
 ## Common mistakes
 
 - Treating "stakeholders" and "shareholders" as the same. Shareholders are one type of stakeholder.

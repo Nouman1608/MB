@@ -104,6 +104,23 @@ These notes condense sub-topic 4(e) Alcohols (points 4.29C to 4.33C) of the Pear
 - Do not say that enzymes are "killed" by high temperature. They are denatured.
 - This whole sub-topic is Paper 2 only: it cannot appear on Paper 1.
 
+## Trends and efficiency
+
+| Alcohol | Methanol | Ethanol | Propan-1-ol | Butan-1-ol |
+|---|---|---|---|---|
+| Boiling point / °C | 65 | 78 | 97 | 118 |
+
+- Boiling point rises with chain length because the intermolecular forces get stronger.
+- **Atom economy** = mass of wanted product / total mass of products x 100.
+  - Hydration: one product, so 100%.
+  - Fermentation: 92 / 180 x 100 = 51.1%, because carbon dioxide is also made.
+- A high atom economy is only one factor. Fermentation uses a renewable raw material, a low temperature and cheap equipment.
+- Ethanol is a renewable fuel only if the whole process (growing, fermenting, distilling) is considered; farmland used for fuel is not available for food.
+
+## One more worked example
+
+**Burning a given mass.** 23 g of ethanol (Mr = 46) is 0.50 mol. Complete combustion gives 2 x 0.50 = 1.0 mol of CO₂, which has a volume of 1.0 x 24 = **24 dm³** at room temperature and pressure, and 3 x 0.50 = 1.5 mol of water, a mass of 1.5 x 18 = **27 g**.
+
 ## Self-test
 
 1. Name the functional group in alcohols.

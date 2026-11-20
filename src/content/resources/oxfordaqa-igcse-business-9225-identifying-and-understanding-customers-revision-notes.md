@@ -120,6 +120,32 @@ Sign of success: repeat purchases, good reviews, few complaints.
 - Use details from the case: the type of customer, the market, the product.
 - Consumers and business customers have different needs.
 
+## Model answer outline: a 6-mark "analyse" question
+
+Question style: "Analyse why a snack maker should research customers' needs before selling abroad."
+
+1. **Different needs:** customers abroad may prefer different flavours or pack sizes, so the same product may not sell.
+2. **Cost of getting it wrong:** translating labels and making a new flavour costs $12,000; if the product does not sell, this is a loss.
+3. **Opportunity:** if research shows demand, the extra sales (for example 3,200 packs at $4 profit) can exceed the cost.
+4. **Link:** identifying needs first reduces the risk, and satisfied customers will return.
+
+## Revision checklist
+
+- I can define marketing and target market.
+- I can explain five types of customer need.
+- I can give six reasons why identifying needs is important.
+- I can describe the effects of getting customer needs wrong.
+- I can list ways of finding out what customers want.
+- I can explain how local, national and international markets differ.
+- I can calculate the cost and benefit of adapting a product for a new market.
+
+## Command words for this subtopic
+
+- **Define:** use the exact meaning, such as "the group of customers a business aims to sell to" for target market.
+- **Explain:** need, reason, consequence for sales or profit.
+- **Calculate:** write the formula, show the numbers, give units and a percentage sign.
+- **Evaluate:** compare extra profit with the cost of adapting, consider the risk that the forecast is wrong, and make a recommendation.
+
 ## Self-test
 
 1. Define marketing.

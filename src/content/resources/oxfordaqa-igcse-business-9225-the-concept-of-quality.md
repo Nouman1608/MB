@@ -149,6 +149,12 @@ As a business expands, keeping quality consistent gets harder, especially when i
 - **Franchising:** franchisees run outlets using the brand. If one outlet is dirty or slow, customers may think the whole chain is poor. The franchisor needs training, standards, inspections and the power to end a franchise agreement.
 - **General growth:** more staff and more locations make it harder to train everyone, communicate standards and spot problems early. Rapid growth can strain systems and lead to mistakes.
 
+## Worked exam-style answer
+
+**Question (6 marks):** Explain the consequences for a toy maker of poor quality.
+
+**Answer:** If 3% of 15,000 toys are faulty, that is 450 toys that customers may return, costing refunds and replacements. Parents may leave bad reviews and buy from rivals, so sales fall. Shops may stop stocking the toys, which reduces sales even more. If a toy is unsafe, the business may face fines and compensation claims. All of these hurt profit and take a long time to repair. The toy maker would therefore gain from spending on testing and training, if the cost is lower than the cost of faults.
+
 ## Common mistakes
 
 - Equating quality with high price. Quality means meeting customer expectations for that product.

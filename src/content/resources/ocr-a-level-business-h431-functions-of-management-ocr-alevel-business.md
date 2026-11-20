@@ -64,7 +64,7 @@ Linford Foods (invented) planned total costs of £480,000 for the year. Actual c
 
 A variance is the difference between planned and actual. When costs exceed the plan, the variance is **adverse**; when they are lower, **favourable**. Variance % = variance ÷ planned × 100. For overheads: 18,000 ÷ 50,000 × 100 = 36%.
 
-Control action is aimed where it matters: overheads are the biggest percentage overrun and the second-largest in money. A manager would find out why (for example energy prices, an unplanned repair, or poor forecasting) and decide whether it is a one-off or will continue. The marketing underspend might be good (efficient) or bad (opportunities missed), so it must be checked.
+Control action is aimed where it matters: overheads are the biggest overrun both in percentage and in money (£18,000, against £14,000 for materials). A manager would find out why (for example energy prices, an unplanned repair, or poor forecasting) and decide whether it is a one-off or will continue. The marketing underspend might be good (efficient) or bad (opportunities missed), so it must be checked.
 
 The example also shows the links between functions. A poor plan (too little allowed for overheads) leads to a variance that control highlights; the fix may involve organising (a new energy supplier) and directing (staff to cut waste).
 

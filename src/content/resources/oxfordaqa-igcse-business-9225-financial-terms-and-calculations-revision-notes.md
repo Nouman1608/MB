@@ -122,6 +122,25 @@ Even cash flows: payback = cost / annual net cash flow. $40,000 / $10,000 = 4 ye
 - For payback, use **cumulative** cash flows and include the fraction of the final year.
 - Break-even is a guide, not a prediction.
 
+## Model answer outline: a 9-mark "evaluate" question
+
+Question style: "Evaluate the usefulness of break-even analysis to a new juice business."
+
+- **Useful:** shows how many bottles must be sold (6,000) to avoid a loss; shows the margin of safety; helps set price and sales targets; supports a loan application.
+- **Limits:** assumes all output is sold and prices and costs stay the same; based on estimates; ignores competitors.
+- **Calculation:** margin of safety = 8,500 - 6,000 = 2,500 bottles.
+- **Judgement:** it is a useful guide for a new business, but should be combined with market research, and updated as costs and prices change.
+
+## Revision checklist
+
+- I can define fixed, variable and total costs, revenue, profit and loss.
+- I can calculate profit from costs and revenue.
+- I can read break-even output from a table or chart.
+- I can calculate the margin of safety.
+- I can say how price and cost changes affect break-even.
+- I can calculate the payback period, including part-years.
+- I can state advantages and limits of break-even and payback.
+
 ## Self-test
 
 1. Distinguish between fixed and variable costs.

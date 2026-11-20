@@ -119,6 +119,26 @@ A business that fails to adapt can lose customers to rivals that do.
 - Do not name a characteristic without saying why it helps the entrepreneur.
 - For "dynamic", name the cause of change and its effect.
 
+## Model answer outline: a 6-mark "analyse" question
+
+Question style: "Analyse why a new bakery's owner might be called an entrepreneur."
+
+1. **Point:** she is willing to take a risk. **Evidence:** she has spent her savings on an oven. **Effect:** if the bakery fails she could lose the money, which is what makes her an entrepreneur and not just an employee.
+2. **Point:** she is innovative. **Evidence:** she sells a flavour no other bakery in town offers. **Effect:** this fills a gap in the market, so she may attract customers from rivals.
+3. **Point:** she is organised. **Evidence:** she plans orders, staff rotas and deliveries. **Effect:** the business runs smoothly, so customers get fresh bread on time.
+
+Use the same three steps (point, evidence, effect) for every explain or analyse answer in this section.
+
+## Revision checklist
+
+- I can state five reasons for starting a business.
+- I can give an example of a good, a service, a need and a want.
+- I can name the four factors of production and give an example of each.
+- I can define opportunity cost and work out an example.
+- I can place businesses in the primary, secondary and tertiary sectors and explain their links.
+- I can outline four characteristics and six objectives of an entrepreneur.
+- I can name four causes of a changing business environment.
+
 ## Self-test
 
 1. State two reasons for starting a business.

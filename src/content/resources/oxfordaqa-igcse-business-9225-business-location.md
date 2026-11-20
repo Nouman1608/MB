@@ -128,6 +128,14 @@ Follow these steps for a recommendation question.
 3. Compare the sites on the factors that matter most.
 4. Recommend one, acknowledging the strongest argument for the other.
 
+## Worked exam-style answer
+
+**Question (6 marks):** Analyse why a bakery might choose a busy high street for its location.
+
+**Answer:** A bakery sells fresh products that customers usually buy on impulse or on the way to work, so being close to the market matters most. On a busy high street 5% of passers-by might come in, which for 1,200 people a day is 60 customers, ten times more than on a quiet street. This gives the bakery higher sales and a better chance of covering its costs. However, rent on a high street is higher, so the extra sales must exceed the extra rent. Being near other food shops may also attract more shoppers, although it brings competition. The bakery should choose the high street if the additional revenue clearly outweighs the additional rent.
+
+Notice the structure: factor, figure from the case, effect on sales and cost, then a limit.
+
 ## Common mistakes
 
 - Listing all six factors for every business. Pick the ones that are most relevant.

@@ -133,6 +133,10 @@ A drive is sold as 500 GB, meaning 500 × 10^9 = 500,000,000,000 B. An operating
 
 An uncompressed image 800 pixels wide and 600 pixels high with 24 bits per pixel contains 800 × 600 × 24 = 11,520,000 bits. Dividing by 8 gives 1,440,000 bytes. In decimal units that is **1,440 kB**; in binary units 1,440,000 ÷ 1,024 = **1,406.25 KiB**. (Sub-topic 3.5.5 covers image sizes.)
 
+## Why the doubling pattern matters
+
+Memory addresses, register sizes and many hardware limits are powers of 2, because each extra address bit doubles the number of locations that can be addressed. For example, 10 address bits can identify 2^10 = 1,024 different locations, which is exactly 1 KiB if each location holds a byte. That is why the binary prefixes were created: they match the way memory is built.
+
 ## Bits or bytes?
 
 Storage sizes are normally given in **bytes** (capital B). Data transfer rates are often given in **bits** per second (lower-case b). The conversion is 1 byte = 8 bits, so 1,000,000 B = 8,000,000 bits. Be careful with the capital letter when reading a question.

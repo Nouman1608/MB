@@ -114,6 +114,10 @@ Evaluation judges the finished system against criteria. The specification gives 
 
 A good evaluation compares the result with the original requirements, uses test evidence, includes user feedback and identifies improvements. It also recognises trade-offs: a very efficient algorithm may be harder to read, and a highly maintainable design may use a little more memory.
 
+## Iteration and feedback
+
+Because each stage can reveal problems with an earlier one, careful teams build in feedback. A prototype shown to users in the analysis stage prevents a misunderstood requirement from being built. Reviewing a design with users prevents an unusable interface. Testing early on the critical path prevents a late discovery that the foundation of the system does not work. Each loop back costs less than finding the same problem after the system has been delivered.
+
 ## Linking the aspects
 
 | If a problem is found in... | The cause may lie in... |

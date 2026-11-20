@@ -110,6 +110,13 @@ All businesses and figures are invented. Section B questions refer to the case s
 **Limited use:** the forecast of 2,500 was not based on market research, so it was too optimistic, because 1,200 smoothies gave only $120 profit [1]; fixed costs of $3,000 a month would still have to be paid [1]; a plan does not make customers buy [1].
 **Judgement:** the plan is useful because it identifies the risk and the break-even level of sales, but only if Dev updates it using real sales figures and market research [1]. Dev should treat the forecast as a target and prepare a cautious scenario [1]. **[9]**
 
+## Tips for the longer questions
+
+- In Question 11, give a reason for each of the two points: say what market research shows and how that helps the bank judge risk.
+- In Question 12, use both sets of figures: the forecast month (profit $3,500) and the first month (profit $120). Comparing them shows how a plan helps spot problems.
+- Finish with a judgement and a condition, such as "provided Dev reviews the plan each month".
+- Check each answer shows the working for revenue, then costs, then profit.
+
 ## Where marks are usually lost
 
 - Using $4.00 instead of $1.40 per smoothie for variable costs.

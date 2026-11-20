@@ -112,6 +112,17 @@ The last row explains why an operating system can report less space than the dri
 - 90 values need 7 bits (2^7 = 128).
 - A 2 KiB block holds 2 × 1,024 × 8 = 16,384 bits.
 
+## Extra worked reminders
+
+| Question | Working | Answer |
+|---|---|---|
+| 2.5 KiB in bytes | 2.5 × 1,024 | 2,560 bytes |
+| 2.5 KiB in bits | 2,560 × 8 | 20,480 bits |
+| 64 GiB in bytes | 64 × 2^30 | 68,719,476,736 bytes |
+| 64 GiB in GB | 68,719,476,736 ÷ 10^9 | about 68.7 GB |
+| 1 TiB in GiB | 2^40 ÷ 2^30 | 1,024 GiB |
+| Bits for 600 values | 2^9 = 512 is too few; 2^10 = 1,024 is enough | 10 bits |
+
 ## Exam traps
 
 - **kB is 1,000 B; KiB is 1,024 B.** Do not swap them.

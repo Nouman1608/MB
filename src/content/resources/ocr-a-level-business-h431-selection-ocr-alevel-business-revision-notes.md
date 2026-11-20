@@ -83,6 +83,18 @@ Cardew Engineering (invented), 120 applications.
 5. How does it feel to the candidate?
 6. Legal: no discrimination?
 
+## Quick case practice
+
+A business (invented) receives 40 applications. Screening takes 6 minutes per application at £25 an hour. Five candidates are interviewed for one hour by two interviewers, each valued at £30 an hour.
+
+- Screening = 40 × (6 ÷ 60) × £25 = **£100**.
+- Interviews = 5 × 1 × 2 × £30 = **£300**.
+- Total = **£400**.
+
+Model response outline: the cost is small compared with the cost of a poor appointment. If the post needs a practical skill, add a work trial for the final two candidates. Judge the choice of methods by validity (does it test the job), fairness and cost, and use references to check facts late in the process.
+
+A second check: if the work trial for the last two candidates costs £140 each, the full process costs £400 + £280 = £680. If it cuts the chance of a £6,000 poor appointment from 20% to 8%, the expected saving is 12% × £6,000 = £720, which is more than the extra £280. The trial is therefore worth its cost on these estimates, but only if the estimates are reliable.
+
 ## Key terms
 
 | Term | Meaning |

@@ -17,7 +17,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "representing-data"
     subtopic: "units-of-information-oxfordaqa-alevel-cs"
-description: "Ten original OxfordAQA 9645 questions on sub-topic 3.5.2: bits, bytes, 2^n values, binary and decimal prefixes and size conversions, with answers."
+description: "Fifteen original OxfordAQA 9645 questions on sub-topic 3.5.2: bits, bytes, 2^n values, binary and decimal prefixes and size conversions, with answers."
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-20
 featured: false
@@ -65,6 +65,26 @@ Related pages: [units of information study guide](/resources/oxfordaqa-a-level-c
 **(b)** Explain why the difference becomes more important for larger units. **[2]**
 **(c)** State the name of the unit written MB and the name of the unit written MiB. **[2]**
 
+**11.** A flash drive holds 64 GiB.
+
+**(a)** Calculate the capacity in bytes. **[2]**
+**(b)** Convert your answer to GB, to one decimal place. **[2]**
+
+**12.** A file is 2.5 KiB long.
+
+**(a)** State its size in bytes. **[1]**
+**(b)** State its size in bits. **[1]**
+
+**13.** A form field must hold one of 600 possible codes. Calculate the smallest number of bits needed. **[2]**
+
+**14.** Convert:
+
+**(a)** 1.5 MiB to KiB **[1]**
+**(b)** 1,500 kB to MB **[1]**
+**(c)** 3 TiB to GiB **[1]**
+
+**15.** Explain why the binary prefixes (kibi, mebi, gibi, tebi) were introduced. **[2]**
+
 ## Answers
 
 **1.** A bit is the **fundamental unit of information** (a binary digit with the value 0 or 1) [1]; a byte is a group of **8 bits** [1]. **[2]**
@@ -92,6 +112,20 @@ Related pages: [units of information study guide](/resources/oxfordaqa-a-level-c
 **10. (a)** 1 KiB = **1,024** bytes [1]; 1 kB = **1,000** bytes [1]. **[2]**
 **(b)** The gap grows with each step: about 2.4% for kibi against kilo, but about 7.4% for gibi against giga and 10% for tebi against tera [1], so a mix-up gives larger errors in big quantities [1]. **[2]**
 **(c)** MB is a **megabyte** (10^6 bytes) [1]; MiB is a **mebibyte** (2^20 bytes) [1]. **[2]**
+
+**11. (a)** 64 × 2^30 [1] = **68,719,476,736 bytes** [1]. **[2]**
+**(b)** 68,719,476,736 ÷ 10^9 [1] = **68.7 GB** [1]. **[2]**
+
+**12. (a)** 2.5 × 1,024 = **2,560 bytes** [1]. **[1]**
+**(b)** 2,560 × 8 = **20,480 bits** [1]. **[1]**
+
+**13.** 2^9 = 512 is too few [1]; 2^10 = 1,024 is enough, so **10 bits** [1]. **[2]**
+
+**14. (a)** 1.5 × 1,024 = **1,536 KiB** [1]
+**(b)** 1,500 ÷ 1,000 = **1.5 MB** [1]
+**(c)** 3 × 1,024 = **3,072 GiB** [1]
+
+**15.** The prefixes kilo and mega are powers of **10** (1,000 and 1,000,000), but memory sizes are naturally powers of **2** (1,024 and 1,048,576) [1]; using the same word for both caused confusion, so the binary prefixes were introduced to mean powers of 2 exactly [1]. **[2]**
 
 ## Frequently asked questions
 

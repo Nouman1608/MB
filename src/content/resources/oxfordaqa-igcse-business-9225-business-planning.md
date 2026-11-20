@@ -123,6 +123,12 @@ Once a business has started, the plan is used to:
 3. **show lenders** that the business is performing as expected
 4. **review objectives** as the business grows.
 
+## Worked exam-style answer
+
+**Question (6 marks):** Analyse the benefits and drawbacks of a start-up writing a business plan.
+
+**Answer:** A plan makes the owner think through the product, customers and costs before spending money. A smoothie stall that needs $18,000 can show a bank forecast sales of 2,500 cups and a profit of $3,500 a month, which makes a loan more likely. The plan also sets targets, so the owner can see quickly if sales of only 1,200 cups, which give a profit of just $120, are below plan. The drawbacks are that writing the plan takes time and that forecasts for a new business are uncertain, so a plan based on over-optimistic sales may mislead the owner. Overall, a plan is worth writing, provided its forecasts are cautious and it is reviewed regularly.
+
 ## Common mistakes
 
 - Writing that a business plan guarantees success. It only improves the chance of success.

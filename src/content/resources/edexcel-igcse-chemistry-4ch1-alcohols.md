@@ -143,6 +143,24 @@ C6H12O6 → 2C2H5OH + 2CO2        (yeast, about 30 °C, no air)
 
 The choice depends on the cost of the raw materials, the energy needed, the purity required and whether the oil or the farmland is plentiful.
 
+## Trends and a comparison of the routes in numbers
+
+**Boiling points.** The boiling point rises as the chain gets longer, because the intermolecular forces get stronger.
+
+| Alcohol | Methanol | Ethanol | Propan-1-ol | Butan-1-ol |
+|---|---|---|---|---|
+| Boiling point / °C | 65 | 78 | 97 | 118 |
+| State at 20 °C | Liquid | Liquid | Liquid | Liquid |
+
+**Worked example 4: how efficient is each route?** The **atom economy** is the mass of the wanted product as a percentage of the total mass of the products.
+
+- *Hydration of ethene:* C₂H₄ + H₂O → C₂H₅OH has a single product, so the atom economy is 46 / 46 x 100 = **100%**.
+- *Fermentation:* C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂. The wanted product is 2 x 46 = 92; the total mass of products is 92 + 2 x 44 = 180. The atom economy is 92 / 180 x 100 = **51.1%**.
+
+So hydration makes use of all the atoms in the reactants, while fermentation wastes almost half of the mass as carbon dioxide. Even so, fermentation uses a renewable raw material, a lower temperature and a cheaper plant, so a high atom economy is only one of the factors in the decision.
+
+**Ethanol as a fuel.** Ethanol made by fermentation can be mixed with petrol or burned alone. It releases energy when it burns, and the carbon dioxide it releases was taken in by the plants that grew the sugar, so it is described as a renewable fuel. The claim needs care: growing the crop, fermenting and distilling all need energy, and farmland used for fuel is not available for food.
+
 ## Common mistakes
 
 - Writing the alcohol group as -HO or -COH. It is -OH.

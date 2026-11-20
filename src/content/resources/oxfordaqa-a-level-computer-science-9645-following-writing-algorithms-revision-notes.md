@@ -130,6 +130,20 @@ def count_digits(n):
 
 `count_digits(7305)` returns 4. For an input of 0 it returns 0, although 0 has one digit, so check special cases such as 0 when you trace.
 
+## Trace table template
+
+Use one column for each variable, one for any condition you test, and one for output. For `IsPrime(29)` the trace is as follows (recomputed).
+
+| i | i * i | i * i <= 29 | 29 MOD i | Action |
+|---|---|---|---|---|
+| 2 | 4 | true | 1 | continue |
+| 3 | 9 | true | 2 | continue |
+| 4 | 16 | true | 1 | continue |
+| 5 | 25 | true | 4 | continue |
+| 6 | 36 | false | | loop ends; return True |
+
+Rules that save marks: write the starting values in the first row, change only one variable per row where possible, and write the condition result so that the reader can see why the loop stops.
+
 ## Exam traps
 
 - **Updating in the wrong order** (for example using the new `a` too early in Gcd).

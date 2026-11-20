@@ -103,6 +103,16 @@ Penhallow Distribution (invented), 50 staff, 250 days each.
 
 State the cost, the risk and what it depends on.
 
+## Quick case practice
+
+A warehouse (invented) has 30 staff, each expected to work 250 days, so 7,500 working days. Staff lose 450 days to absence. The manager sets a target of 4%.
+
+- Absence rate = 450 ÷ 7,500 × 100 = **6.0%**.
+- Target days lost = 4% × 7,500 = 300, so 150 fewer days.
+- At £90 a day for sick pay and cover, the saving is 150 × £90 = **£13,500** a year.
+
+Model response outline: state the rate and the cost; say that a measure shows what has happened but not why; suggest checking whether absence is concentrated in one team or on certain days; recommend a return-to-work interview and an appraisal conversation, and judge the plan against the cost of the measures and the effect on morale.
+
 ## Key terms
 
 | Term | Meaning |

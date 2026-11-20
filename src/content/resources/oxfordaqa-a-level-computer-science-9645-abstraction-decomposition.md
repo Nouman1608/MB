@@ -148,6 +148,10 @@ The specification says decomposition can be achieved through the use of subrouti
 
 An exam question may give a scenario and ask you to **identify the abstraction** (what is left out and why) or **decompose** it (list the sub-problems). It may also ask you to **explain** the benefit. Linking your answer to the scenario earns the marks.
 
+## Abstraction, decomposition and the structured approach
+
+The structured approach in sub-topic 3.3.1 brings the two ideas together. A programmer first abstracts the problem to a data model, then decomposes the work into modules with parameters and return values. In a hierarchy chart, the top box is the whole problem and each lower box is a sub-problem, so the chart is a picture of the decomposition.
+
 ## Benefits
 
 - **Abstraction** reduces complexity, keeps focus on the essentials, lets you reuse a solution for a general case, and lets you use a subroutine without understanding its inner workings.

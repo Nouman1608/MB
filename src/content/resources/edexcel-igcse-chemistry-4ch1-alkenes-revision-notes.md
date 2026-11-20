@@ -110,6 +110,34 @@ CH3CH=CH2 + Br2 → CH3CHBr-CH2Br (1,2-dibromopropane)
 - A smoky flame comes from the high carbon content, not from the double bond itself.
 - Alkenes come mainly from cracking, not directly from fractional distillation.
 
+## Alkanes and alkenes compared
+
+| | Ethane | Ethene |
+|---|---|---|
+| Formula | C₂H₆ | C₂H₄ |
+| Bonding | C-C single | C=C double |
+| General formula | CₙH₂ₙ₊₂ | CₙH₂ₙ |
+| Type | Saturated | Unsaturated |
+| Bromine water | No change | Decolourised |
+| Reaction with bromine | Substitution (UV); two products | Addition (room temperature); one product |
+| Flame | Cleaner | More smoky |
+| Percentage of carbon | 80.0% | 85.7% |
+
+## Two more worked examples
+
+**Finding n from Mr.** An alkene has Mr = 84. The general formula gives Mr = 14n, so n = 84 / 14 = 6 and the formula is **C₆H₁₂**.
+
+**Spotting an alkene from the formula.** A chain hydrocarbon with 5 carbons would be saturated if it were C₅H₁₂ (2n + 2). C₅H₁₀ has two fewer hydrogens, so it has one double bond and is an alkene (pentene). Always compare the number of hydrogens with 2n + 2: two fewer means one double bond.
+
+## Last-minute checklist
+
+- Can you give the general formula, and use it to find the formula of an alkene with a given Mr?
+- Can you explain "unsaturated" in one sentence that mentions the double bond and the number of hydrogens?
+- Can you draw and name ethene, propene, but-1-ene and but-2-ene?
+- Can you write the bromine equation and name the product?
+- Can you describe the bromine water test with both colours and the result for the alkane?
+- Can you state that these points can be examined on Paper 1 and Paper 2?
+
 ## Self-test
 
 1. State the general formula of the alkenes.

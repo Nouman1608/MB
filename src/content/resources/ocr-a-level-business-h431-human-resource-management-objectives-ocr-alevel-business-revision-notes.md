@@ -105,6 +105,16 @@ Larkfield Care (invented), 80 staff.
 5. Note conflicts and the effect on stakeholders.
 6. Say what it depends on.
 
+## Quick case practice
+
+A retailer (invented) has an average of 120 staff, and 18 left last year. It sets an HR objective to cut labour turnover to 10% within two years. Each leaver costs £2,000 to replace.
+
+- Labour turnover = 18 ÷ 120 × 100 = **15%**.
+- At 10%, leavers = 12, which is 6 fewer.
+- Saving = 6 × £2,000 = **£12,000** a year.
+
+Model response outline: the objective is measurable and time-bound, and links to the business aim of consistent service. A retention scheme costing more than £12,000 a year would not pay on cost alone, though service benefits might justify it. Judge it by the reasons why staff leave.
+
 ## Key terms
 
 | Term | Meaning |

@@ -108,6 +108,21 @@ The part everything else depends on. Build and test it first.
 | Efficiency | Speed and memory acceptable on realistic data |
 | Maintainability | Meaningful names, comments, modular structure, documentation |
 
+## Test plan layout
+
+A test plan is a table with the test number, the purpose, the data, the expected result and the actual result. The expected result is written **before** the test is run.
+
+| Test | Purpose | Data | Expected result |
+|---|---|---|---|
+| 1 | Normal value | Age 30 | Accepted |
+| 2 | Lowest valid boundary | Age 16 | Accepted |
+| 3 | Just below the range | Age 15 | Rejected |
+| 4 | Highest valid boundary | Age 60 | Accepted |
+| 5 | Just above the range | Age 61 | Rejected |
+| 6 | Wrong data type | "abc" | Rejected with a message |
+
+A test that fails is traced back to its cause: code, design or the original requirement.
+
 ## Exam traps
 
 - **Boundary needs both sides.** For 16 to 60, test 15, 16, 60 and 61.

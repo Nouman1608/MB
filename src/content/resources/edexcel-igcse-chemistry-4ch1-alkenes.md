@@ -134,6 +134,31 @@ Write the result as "bromine water is **decolourised**" or "turns from orange (b
 - Alkenes are the monomers of addition polymers (see the [synthetic polymers study guide](/resources/edexcel-igcse-chemistry-4ch1-synthetic-polymers/)).
 - Reactions of alkenes with steam to make ethanol are Paper 2 only content (see the alcohols page).
 
+## More worked examples
+
+**Worked example 4: finding n from the relative molecular mass.** An alkene has Mr = 84.
+
+1. The general formula gives Mr = 12n + 2n = 14n.
+2. 14n = 84, so n = 84 / 14 = **6**.
+3. The molecular formula is **C₆H₁₂**, and a possible structure is hex-1-ene, CH₂=CHCH₂CH₂CH₂CH₃.
+
+**Worked example 5: spotting unsaturation from a formula.** The saturated hydrocarbon with 4 carbons is C₄H₁₀. A hydrocarbon with 4 carbons and the formula C₄H₈ has two fewer hydrogens, which means it has one double bond (it is an alkene). A hydrocarbon C₄H₆ has four fewer hydrogens than the alkane, so it has two double bonds or a triple bond. Counting hydrogens against 2n + 2 tells you at once whether a chain hydrocarbon is saturated.
+
+**Worked example 6: bromine required.** 7.0 g of propene (Mr = 42) is shaken with excess bromine water. Moles of propene = 7.0 / 42 = 0.167 mol, so 0.167 mol of Br₂ is used, a mass of 0.167 x 160 = **26.7 g** of bromine, if every alkene molecule reacts.
+
+## Alkanes and alkenes compared
+
+| | Ethane | Ethene |
+|---|---|---|
+| Molecular formula | C₂H₆ | C₂H₄ |
+| Carbon-carbon bond | Single | Double |
+| Saturated or unsaturated | Saturated | Unsaturated |
+| General formula | CₙH₂ₙ₊₂ | CₙH₂ₙ |
+| Effect on bromine water | No change | Decolourised |
+| Reaction with bromine | Substitution (needs UV radiation), two products | Addition (room temperature), one product |
+| Flame when burned | Cleaner (blue, little soot) | More smoky |
+| Percentage of carbon | 80.0% | 85.7% |
+
 ## Common mistakes
 
 - Writing the general formula as CₙH₂ₙ₊₂.

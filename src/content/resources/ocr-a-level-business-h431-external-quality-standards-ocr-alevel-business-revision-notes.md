@@ -95,6 +95,16 @@ Tamsin Components (invented).
 5. The limits.
 6. A judgement linked to the customers, size and objectives of the business.
 
+## Quick case practice
+
+A firm (invented) can win £50,000 of extra sales at a 15% profit margin if it gains a quality certificate costing £6,000 to set up and £1,500 a year in audit fees.
+
+- Extra profit = 15% × £50,000 = **£7,500**.
+- Net after audit fees = £7,500 − £1,500 = **£6,000**.
+- Payback = £6,000 ÷ £6,000 = **1.0 year**.
+
+Model response outline: the certificate pays for itself in a year if the sales are secure; consider the risk that the customer leaves, the staff time not in the figures and the other markets the certificate may open.
+
 ## Key terms
 
 | Term | Meaning |

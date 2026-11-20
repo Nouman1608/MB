@@ -116,6 +116,16 @@ Pelham Plastics (invented), 10 redundancies, £520 a week, 6 years' service, enh
 6. Effect on employees, community and reputation.
 7. Judgement and its conditions.
 
+## Quick case practice
+
+A firm (invented) makes 6 staff redundant. Each receives £3,000 redundancy pay and £1,200 notice pay, and each earned £22,000 a year.
+
+- Cost = 6 × (£3,000 + £1,200) = **£25,200**.
+- Annual wage saving = 6 × £22,000 = **£132,000**.
+- Payback = £25,200 ÷ £132,000 × 12 = **2.3 months**.
+
+Model response outline: the payback is fast, but the figures omit lost output, the morale of survivors and the cost of rehiring if demand returns. Check that selection was fair and that alternatives were considered. Judgement: redundancy is justified only if the fall in demand is permanent.
+
 ## Key terms
 
 | Term | Meaning |

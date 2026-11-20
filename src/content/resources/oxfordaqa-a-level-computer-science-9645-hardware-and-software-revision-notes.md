@@ -104,6 +104,40 @@ A program of 2,000 machine code instructions with 4 bytes per instruction occupi
 4. A cable or wireless adapter (hardware) carries the signals.
 5. The printer (hardware) prints, controlled by its firmware (software).
 
+## Layers of a computer system
+
+| Layer | Contents | Type |
+|---|---|---|
+| Users | People who run programs | |
+| Application software | Word processor, browser, games | Software |
+| System software | Operating system, utilities, libraries, translators | Software |
+| Hardware | Processor, memory, storage, input and output devices | Hardware |
+
+Each layer uses the services of the layer below. A user never deals with the hardware directly. The application asks the operating system, and the operating system controls the hardware.
+
+## General-purpose and embedded systems
+
+| | General-purpose computer | Embedded system |
+|---|---|---|
+| Purpose | Many tasks, set by the software installed | One task, built into a device |
+| Software | Many programs, changed often | Fixed program, usually firmware |
+| Examples | Laptop, tablet | Washing machine controller, car engine controller |
+
+In both, the hardware executes software. The difference is how flexible the software is.
+
+## Why software is held as binary
+
+Hardware can store only bits. Instructions and data are therefore both stored as binary. A program of 2,000 four-byte instructions is 8,000 bytes. What makes a bit pattern an instruction rather than data is how the processor is directed to use it. The processor fetches the pattern and executes it as an instruction.
+
+## Reasons to upgrade each
+
+| Reason | Upgrade |
+|---|---|
+| More programs open at once | Hardware: more RAM |
+| Faster loading of programs | Hardware: solid-state drive |
+| New features or security fixes | Software: update |
+| A new device will not work | Software: install the correct driver |
+
 ## Exam traps
 
 - **Use the definitions.** Electronic components; sequences of instructions executed using the hardware.

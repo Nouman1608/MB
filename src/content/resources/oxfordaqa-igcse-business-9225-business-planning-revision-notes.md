@@ -105,6 +105,25 @@ Fixed costs stay at $2,400 whatever the sales, so low sales can cause a loss.
 - Connect each plan section to its purpose.
 - Explain why a lender wants the financial plan: to see whether the loan can be repaid.
 
+## Model answer outline: a 6-mark "analyse" question
+
+Question style: "Analyse why a bank might want to see a business plan before lending to a start-up."
+
+1. **Evidence of the idea:** the plan shows who the customers are and what they will pay, so the bank can see that there is a market.
+2. **Financial plan:** a cash flow forecast shows when money comes in and goes out, so the bank can see whether the business can make repayments.
+3. **Risk:** the bank can see whether the owner has thought about costs and competitors, which lowers the chance of the loan not being repaid.
+4. **Judgement of the forecast:** the bank will also ask whether the forecasts are realistic, since a new business has no sales record.
+
+## Revision checklist
+
+- I can state four reasons why businesses plan.
+- I can name eight sections of a business plan and say what each does.
+- I can give three benefits and three drawbacks of planning.
+- I can define fixed, variable and total costs, revenue, profit and loss.
+- I can calculate revenue, total costs and profit for any level of sales.
+- I can explain why a forecast may be wrong.
+- I can say that a plan improves the chance of success but does not guarantee it.
+
 ## Self-test
 
 1. State two reasons why a new business writes a business plan.

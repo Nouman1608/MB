@@ -105,6 +105,26 @@ The cheapest supplier is not always the best value: late or faulty supplies can 
 - State the **effect** of a late delivery: production stops, customers wait, profit falls.
 - Do not draw stock control charts.
 
+## Model answer outline: a 9-mark "evaluate" question
+
+Question style: "Evaluate whether a restaurant should use just in time stock control."
+
+- **For JIT:** fresh ingredients, little waste, less storage space, less cash tied up.
+- **Against:** deliveries more often (higher delivery costs), no bulk discounts, a late delivery could mean no food to serve.
+- **Context:** a restaurant uses perishable stock and usually has local suppliers, so JIT suits it more than it would a hardware shop.
+- **Calculation:** compare the saving on holding costs with the extra cost of deliveries and lost discounts.
+- **Judgement:** JIT is probably right for perishable goods, with a small buffer stock of items that do not spoil, because a stockout would lose customers.
+
+## Revision checklist
+
+- I can define procurement, stock, JIT and buffer stock.
+- I can list the benefits and costs of holding stock.
+- I can balance JIT savings against delivery costs and lost economies of scale.
+- I can work out a buffer stock from daily use and possible delay.
+- I can name the three supplier factors: price, quality, reliability.
+- I can compare two suppliers using total cost, not price alone.
+- I can say which businesses are suited to JIT and which are not.
+
 ## Self-test
 
 1. Define procurement.

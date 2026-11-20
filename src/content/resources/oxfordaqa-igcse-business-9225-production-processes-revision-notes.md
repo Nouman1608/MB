@@ -103,6 +103,25 @@ Example: saving 6 minutes per bike on 300 bikes a day saves 1,800 minutes, or 30
 - Link the method to the business's product, volume and customers.
 - Do not recommend flow production if customers want variety or the product often changes.
 
+## Model answer outline: a 6-mark "analyse" question
+
+Question style: "Analyse why a bakery might use batch production."
+
+1. **Variety:** the bakery sells rolls, loaves and cakes, so it needs to change what it makes during the day.
+2. **Cost:** making a batch of 120 rolls at once is cheaper per item than making one at a time (job production).
+3. **Drawback:** ovens and tables must be cleaned between batches; with 30 minutes of cleaning for a 60-minute bake, a third of the time is not producing.
+4. **Link to efficiency:** shortening set-up time to 15 minutes would raise output from 600 to 720 rolls a day, showing how efficiency could be improved.
+
+## Revision checklist
+
+- I can define job, batch, flow and cell production.
+- I can match each method to a product, quantity and customer.
+- I can give two advantages and two disadvantages of each method.
+- I can calculate productivity and cost per unit.
+- I can explain JIT and give one benefit and one risk.
+- I can explain Kaizen and why it needs the involvement of staff.
+- I can recommend a production method for a business and justify it.
+
 ## Self-test
 
 1. Define job production and give one example.

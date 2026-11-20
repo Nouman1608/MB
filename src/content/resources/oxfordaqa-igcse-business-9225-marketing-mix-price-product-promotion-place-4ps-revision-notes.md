@@ -123,6 +123,27 @@ Each intermediary adds a margin. Example: $10 x 1.25 = $12.50; $12.50 x 1.40 = $
 - Extension strategies are for maturity or decline, not launch.
 - Use the case: target market, budget, competitors, stage of life cycle.
 
+## Model answer outline: a 9-mark "evaluate" question
+
+Question style: "Evaluate whether a new speaker should be launched using skimming or penetration pricing."
+
+- **Skimming:** high profit per unit, premium image, suits a unique product; but few sales and rivals may enter.
+- **Penetration:** quick market share and large sales; but low profit per unit and hard to raise prices later.
+- **Calculation:** compare total profit for each, for example $120,000 against $175,000.
+- **Context:** how strong the USP is, how much competition there is and what the business wants to achieve.
+- **Judgement:** choose one, then say how the other three Ps must fit the choice (promotion, product quality and place).
+
+## Revision checklist
+
+- I can name the 4Ps and explain each.
+- I can describe five pricing methods and calculate cost-plus prices.
+- I can list factors that influence price.
+- I can explain differentiation, USP, brand and the product portfolio.
+- I can draw on the stages of the product life cycle and give extension strategies.
+- I can describe six promotion methods and choose a promotional mix.
+- I can compare channels of distribution and e-commerce.
+- I can explain why the mix must be consistent.
+
 ## Self-test
 
 1. List the 4Ps.

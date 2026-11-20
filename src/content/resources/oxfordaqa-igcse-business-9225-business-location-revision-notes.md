@@ -100,6 +100,26 @@ Site A: $3,500 + $9,000 + $1,200 = $13,700 a month. Site B: $2,000 + $7,500 + $3
 - Always use case details such as the type of goods, the staff needed and the sites offered.
 - Government influence means grants, planning rules, taxes and infrastructure.
 
+## Model answer outline: a 9-mark "evaluate" question
+
+Question style: "Evaluate whether a furniture maker should locate in the town centre or on an industrial estate."
+
+- **Identify what matters most:** the firm makes heavy goods and needs timber, so raw materials and costs are likely to matter more than footfall.
+- **Estate:** lower rent and wages, closer to the sawmill, possible government grant.
+- **Town centre:** more customers passing and a larger labour pool, but higher costs.
+- **Calculation:** compare total monthly costs for both sites and annualise the difference.
+- **Judgement:** recommend one site, say why the other is weaker for this business, and add a condition (for example "provided the grant lasts and customers can still reach the showroom").
+
+## Revision checklist
+
+- I can list the six location factors.
+- I can say which factors matter most for a shop, a factory, a call centre and an online seller.
+- I can add up the costs of two sites and compare them.
+- I can calculate transport cost per unit.
+- I can explain why a business might locate near or away from competitors.
+- I can give four ways a government can influence location.
+- I can write a recommendation that uses the facts in the case.
+
 ## Self-test
 
 1. List the six factors that influence business location.

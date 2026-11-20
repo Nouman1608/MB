@@ -86,6 +86,27 @@ def stops_between(start, end):
 
 `stops_between("Park", "Station")` returns 4. The data model is just an ordered list.
 
+## Levels of abstraction
+
+Abstraction can be layered. Each layer hides detail from the layer above it.
+
+| Layer | What the user of this layer sees | What is hidden |
+|---|---|---|
+| Application | Click Save | Which file routines are called |
+| Subroutine | `save(document)` | The code inside `save` |
+| Operating system | A file in a folder | Which sectors on the drive hold the data |
+| Hardware | Bits stored and read | The electronics of the storage device |
+
+A programmer working at one layer can ignore the detail of the layers below. This is why abstraction makes large systems manageable.
+
+## Decomposition checklist
+
+1. State the whole problem in one sentence.
+2. Split it into the main tasks. Check that each has a name and one purpose.
+3. Split any task that is still too large.
+4. Stop when each piece can be written as a short subroutine.
+5. Check that the pieces together solve the whole problem and nothing is missing.
+
 ## Comparing the two
 
 | | Abstraction | Decomposition |

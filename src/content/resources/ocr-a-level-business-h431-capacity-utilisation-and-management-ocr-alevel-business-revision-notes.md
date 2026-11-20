@@ -108,6 +108,16 @@ Orrin Print (invented): maximum 12,000 units a month, fixed costs £48,000, pric
 4. How quickly is capacity needed?
 5. What are the objectives (growth, profit, reputation)?
 
+## Quick case practice
+
+A print shop (invented) can make 9,000 leaflets a month and makes 7,200. Fixed costs are £27,000 a month and each leaflet earns a contribution of £5.
+
+- Utilisation = 7,200 ÷ 9,000 × 100 = **80%**.
+- Break-even output = £27,000 ÷ £5 = 5,400 leaflets, which is 5,400 ÷ 9,000 × 100 = **60%** utilisation.
+- Profit = 7,200 × £5 − £27,000 = **£9,000**.
+
+Model response outline: the shop is 20 percentage points above break-even, so it is profitable, with room for rush orders; a rise to 100% would add 1,800 × £5 = £9,000 of profit but leave no spare capacity for repairs; recommend a target near 85% to 90% and use temporary staff or subcontracting for peaks.
+
 ## Key terms
 
 | Term | Meaning |

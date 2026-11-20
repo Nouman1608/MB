@@ -100,6 +100,33 @@ Campaign example: $12,000 for 1,500 new members costs $8 each; $12,000 for 500 m
 - Not all people in a segment behave alike.
 - Link segmentation to all four elements of the marketing mix.
 
+## Model answer outline: a 6-mark "recommend" question
+
+Question style: "Recommend a marketing method for a gym that wants to attract 18 to 30-year-olds."
+
+1. **Method:** a social media campaign with offers for students.
+2. **Reason:** this age group spends a lot of time online and responds to discounts.
+3. **Evidence:** the campaign costs $18,000 and is expected to win 1,500 members, or $12 per member.
+4. **Consider the alternative:** newspaper adverts would reach older people but win fewer members per dollar.
+5. **Mix:** the price (student rates), product (evening classes) and place (online sign-up) should fit this segment too.
+
+## Revision checklist
+
+- I can define market segmentation and give three reasons for using it.
+- I can segment by age, gender, location and income and give an example of each.
+- I can match marketing methods to different segments.
+- I can calculate the number of buyers in a segment and the share of total buyers.
+- I can calculate the cost per customer won.
+- I can state two drawbacks of segmentation.
+- I can explain how segmentation affects the four Ps.
+
+## Command words for this subtopic
+
+- **State:** name the type of segmentation (age, gender, location, income).
+- **Explain:** segment, the need of that group, the effect on marketing.
+- **Recommend:** a method, a reason linked to the segment, and the result you expect.
+- **Evaluate:** compare the segments by size, likelihood to buy and cost of reaching them, then choose and justify.
+
 ## Self-test
 
 1. Define market segmentation.

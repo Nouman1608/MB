@@ -101,6 +101,16 @@ Trevelyan Hotels (invented), receptionist post paying £26,000, managers' time �
 
 State the cost, the risk and what it depends on.
 
+## Quick case practice
+
+A firm (invented) must recruit an accountant on £30,000. An agency charges 20% of the first year's salary. Advertising it itself would cost £1,500 plus 12 hours of managers' time at £30 an hour.
+
+- Agency fee = 20% × £30,000 = **£6,000**.
+- Own recruitment = £1,500 + 12 × £30 = **£1,860**.
+- Difference = £6,000 − £1,860 = **£4,140**.
+
+Model response outline: advertising directly is much cheaper, but takes managers' time and may not reach specialists. An agency may be justified if the post is urgent or hard to fill. Consider an internal candidate first, which saves cost but creates another vacancy.
+
 ## Key terms
 
 | Term | Meaning |

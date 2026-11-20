@@ -99,6 +99,45 @@ CaCO3 + 2CH3COOH → (CH3COO)2Ca + H2O + CO2
 - Weak acid does not mean dilute, and strong does not mean concentrated.
 - The whole sub-topic is Paper 2 only.
 
+## Trend in boiling point
+
+| Acid | Methanoic | Ethanoic | Propanoic | Butanoic |
+|---|---|---|---|---|
+| Boiling point / °C | 101 | 118 | 141 | 164 |
+
+The boiling point rises with chain length because the intermolecular forces between longer molecules are stronger.
+
+## Weak acid or strong acid?
+
+| | 0.10 mol/dm³ ethanoic acid | 0.10 mol/dm³ hydrochloric acid |
+|---|---|---|
+| Type | Weak (partly ionised) | Strong (fully ionised) |
+| Approximate pH | About 3 | About 1 |
+| Rate of reaction with magnesium | Slower | Faster |
+| Volume of hydrogen from excess magnesium (same volume of acid) | Same | Same |
+
+**Worked example.** 25 cm³ of 0.10 mol/dm³ acid contains 0.0025 mol of acid. The ratio is 2 acid : 1 hydrogen, so 0.00125 mol of H₂ forms, a volume of 0.00125 x 24,000 = **30 cm³**. Both acids give 30 cm³, but the ethanoic acid takes longer. **Strength** (extent of ionisation) affects the rate, and **concentration** (amount of acid) fixes the final volume.
+
+## Tests and observations
+
+| Test | Result for a carboxylic acid |
+|---|---|
+| Universal indicator | Orange or yellow (weakly acidic) |
+| Add a carbonate | Fizzing; gas turns limewater milky |
+| Add magnesium | Slow bubbling; lit splint pops |
+| Smell | Sharp, like vinegar (for ethanoic acid) |
+
+Other acids give the same results with a carbonate, so the fizz shows that the substance is an acid but not which acid.
+
+## Last-minute checklist
+
+- Can you draw the carboxyl group with one C=O and one O-H on the same carbon?
+- Can you name acids with one to four carbons, counting every carbon?
+- Can you write the equations for a metal and a carbonate reacting with ethanoic acid, with the factor 2 on the acid?
+- Can you state the observations for both reactions?
+- Can you explain why a weak acid reacts more slowly but gives the same final volume of gas?
+- Remember: the whole sub-topic is Paper 2 only.
+
 ## Self-test
 
 1. State the functional group in carboxylic acids.

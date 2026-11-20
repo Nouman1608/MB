@@ -110,6 +110,19 @@ Minimum file size for a 15,000 Hz sound, 16-bit, 60 s: rate 30,000 Hz, so 30,000
 4. DAC converts the numbers back to an analogue signal.
 5. Amplifier and speaker produce sound.
 
+## Quality and file size trade-offs
+
+| Change | Effect on quality | Effect on file size |
+|---|---|---|
+| Raise the sampling rate | Follows the wave more closely; captures higher frequencies | Larger |
+| Raise the resolution | Amplitude measured more precisely | Larger |
+| Lower the sampling rate below the Nyquist minimum | High frequencies lost or distorted | Smaller |
+| Lower the resolution | Coarser amplitude steps, more audible noise | Smaller |
+
+Recomputed: 16,000 Hz, 8 bits and 45 seconds give 16,000 × 8 × 45 = 5,760,000 bits = 720,000 bytes. A 30-second clip at 44,100 Hz and 16 bits is 44,100 × 16 × 30 / 8 = 2,646,000 bytes.
+
+A common exam sequence is: state the formula, substitute, divide by 8 for bytes, then convert to the unit asked for. Write each step on its own line.
+
 ## Exam traps
 
 - **Rate versus resolution.** Rate is samples per second; resolution is bits per sample.

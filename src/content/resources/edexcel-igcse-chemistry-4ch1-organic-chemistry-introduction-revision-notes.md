@@ -117,6 +117,25 @@ Reaction mechanisms are not required.
 - Addition gives one product; substitution gives two.
 - Alcohols and carboxylic acids are Paper 2 only content in Topic 4.
 
+## Naming practice
+
+| Formula | Name | Series |
+|---|---|---|
+| CH₃CH₂CH₂CH₃ | Butane | Alkane |
+| CH₃CH(CH₃)CH₃ | 2-methylpropane | Alkane (isomer of butane) |
+| CH₃CH=CH₂ | Propene | Alkene |
+| CH₃CH₂CH=CH₂ | But-1-ene | Alkene |
+| CH₃CH₂CH₂Cl | 1-chloropropane | Halogenoalkane |
+| BrCH₂CH₂Br | 1,2-dibromoethane | Halogenoalkane |
+| CH₃CH₂OH | Ethanol (Paper 2 only) | Alcohol |
+| CH₃CH₂COOH | Propanoic acid (Paper 2 only) | Carboxylic acid |
+
+## Two more worked examples
+
+**Empirical formula from percentages.** A hydrocarbon is 75% carbon and 25% hydrogen by mass. Moles: C = 75 / 12 = 6.25; H = 25 / 1 = 25. Dividing by the smaller: C = 1, H = 4. The empirical formula is **CH₄**; with Mr = 16 the molecular formula is also CH₄ (methane).
+
+**Counting isomers.** C₄H₁₀ has two isomers: butane (a straight chain of four carbons) and 2-methylpropane (a chain of three with a methyl group on the middle carbon). A "third" structure formed by bending the butane chain is the same molecule. Always test a new drawing by finding its longest chain: if the longest chain is four carbons with nothing attached, it is butane.
+
 ## Self-test
 
 1. Define a hydrocarbon.

@@ -109,6 +109,35 @@ Example: CH₃CH₂COOCH₃. C=O side has 3 carbons (propanoic acid); the other 
 - Do not heat with a naked flame.
 - All of this sub-topic is Paper 2 only.
 
+## Naming practice
+
+| Ester formula | Acid part | Alcohol part | Name |
+|---|---|---|---|
+| HCOOCH₂CH₃ | Methanoic acid | Ethanol | Ethyl methanoate |
+| CH₃COOCH₂CH₂CH₃ | Ethanoic acid | Propan-1-ol | Propyl ethanoate |
+| CH₃CH₂COOCH₃ | Propanoic acid | Methanol | Methyl propanoate |
+| CH₃COOCH₂CH₂CH₂CH₃ | Ethanoic acid | Butan-1-ol | Butyl ethanoate |
+
+## Isomers and comparisons
+
+**Esters with the formula C₃H₆O₂ (Mr = 74).** Two exist: methyl ethanoate, CH₃COOCH₃ (ethanoic acid + methanol), and ethyl methanoate, HCOOCH₂CH₃ (methanoic acid + ethanol). They are isomers: the same molecular formula, different structural formulae. Split the three carbons between the acid part (including the carbonyl carbon) and the alcohol part: 2 + 1 or 1 + 2.
+
+| | Alcohol | Carboxylic acid | Ester |
+|---|---|---|---|
+| Functional group | -OH | -COOH | -COO- |
+| Smell | Sharp, spirit-like | Sharp, vinegar | Sweet, fruity |
+| Fizzes with carbonate? | No | Yes | No |
+| Mixes with water? | Yes (short chains) | Yes (short chains) | Little or not at all |
+
+## Last-minute checklist
+
+- Can you write the equation for esterification, with the catalyst and the water?
+- Can you name an ester from the alcohol and acid, and work backwards from a formula?
+- Can you draw the displayed formula of ethyl ethanoate with correct bonding on every atom?
+- Can you explain each step of the preparation (catalyst, water bath, carbonate wash, smell test)?
+- Can you calculate a percentage yield and give two reasons why it is below 100%?
+- Remember: the whole sub-topic is Paper 2 only.
+
 ## Self-test
 
 1. Name the functional group in esters.

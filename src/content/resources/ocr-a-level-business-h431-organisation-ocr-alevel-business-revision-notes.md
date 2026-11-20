@@ -102,6 +102,16 @@ Hartwell Insurance (invented), 240 front-line staff.
 6. Closeness to the customer.
 7. Cost and disruption of change.
 
+## Quick case practice
+
+A firm (invented) has 90 front-line staff and a span of control of 5 at every level.
+
+- Managers: 90 ÷ 5 = 18; 18 ÷ 5 = 3.6, so 4; 4 ÷ 5 = 0.8, so 1. Total **23**.
+- With a span of 9: 90 ÷ 9 = 10; 10 ÷ 9 = 1.1, so 2; then 1. Total **13**.
+- Posts removed = 23 − 13 = **10**; at £42,000 each the saving is **£420,000** a year.
+
+Model response outline: delayering saves money and speeds communication, but a span of 9 needs experienced staff and good systems. Consider redundancy cost, morale and loss of promotion steps, then give a judgement about whether the work is routine enough to be supervised at a wider span.
+
 ## Key terms
 
 | Term | Meaning |

@@ -127,6 +127,12 @@ When the question asks you to evaluate a stock or supplier decision for a busine
 3. Consider the risks: late delivery, shortage, waste.
 4. Decide and justify, saying what would change your mind.
 
+## Worked exam-style answer
+
+**Question (6 marks):** Explain why a business may choose a dearer supplier.
+
+**Answer:** The cheapest supplier may deliver late or send faulty parts. If Supplier A charges $4.00 but is expected to be late twice a year, and each late delivery stops production at a cost of $4,000, its expected cost for 10,000 units is $40,000 plus $8,000, or $48,000. Supplier B charges $4.40 and is expected to be late only 0.2 times a year, so its expected cost is $44,000 plus $800, or $44,800. B is cheaper overall, because it is more reliable. B's higher quality may also reduce waste and returns. Therefore, price should be weighed against reliability and quality.
+
 ## Common mistakes
 
 - Treating JIT as an automatic advantage. It saves holding costs but adds delivery costs and risk.

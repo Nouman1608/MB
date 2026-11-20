@@ -96,6 +96,27 @@ Worked example: a 4% pay rise on a $1,200,000 wage bill costs 4% x $1,200,000 = 
 - Use case details such as figures and place names in analysis.
 - Judge by **power** and **long-term effect**.
 
+## Model answer outline: a 6-mark "analyse conflict" question
+
+Question style: "Analyse the conflict between employees and owners when a business has a profit of $200,000."
+
+1. **State the interests:** employees want higher pay and job security; owners want high dividends.
+2. **Show the clash with figures:** a 4% rise on a $1,200,000 wage bill costs $48,000, which reduces the profit available for dividends from $200,000 to $152,000.
+3. **Explain the effect on each:** employees gain security and motivation; owners lose income now, and may complain or sell their shares.
+4. **Link to the business:** a compromise, such as a smaller rise plus a bonus, can keep both groups reasonably satisfied.
+
+A conflict answer must name **two groups**, say what **each wants** and show **why one gain is the other's loss**.
+
+## Revision checklist
+
+- I can define a stakeholder and name the six in the specification.
+- I can state the main objective of each stakeholder.
+- I can explain how a decision affects at least three stakeholders.
+- I can describe how each stakeholder can influence a business.
+- I can give five examples of conflict between stakeholders.
+- I can name four ways of resolving conflicts.
+- I can calculate a dividend per share and the cost of a pay rise.
+
 ## Self-test
 
 1. Define "stakeholder".

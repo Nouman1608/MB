@@ -110,6 +110,13 @@ All businesses and figures are invented. Section B questions refer to the case s
 **Family and friends:** quick and easy, with flexible terms and perhaps low or no interest [1]; she needs only one or a few people [1]; but relatives may be unable to lend $15,000 and a business failure could strain relationships [1].
 **Judgement:** Ines should consider family and friends first for the $15,000 if they can afford it, because it is quicker and certain, but with written terms [1]. If they cannot afford it, she could use crowdfunding, which also tests demand for her tableware before she spends the money [1]. **[9]**
 
+## Tips for the longer questions
+
+- In Question 11, compare cost first ($210 of interest against nothing), then control and risk (the bank can withdraw an overdraft).
+- In Question 12, state the amount needed ($15,000) and use it: 300 backers at $50 is a large number for a new business to attract.
+- Give each source a benefit and a drawback, then make a judgement that depends on whether family and friends can afford to lend.
+- Remember that a sole trader cannot issue shares.
+
 ## Where marks are usually lost
 
 - Forgetting to multiply the yearly interest by the number of years.

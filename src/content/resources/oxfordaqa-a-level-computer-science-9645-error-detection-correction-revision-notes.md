@@ -125,6 +125,16 @@ Properties:
 | Weakness | Even number of errors missed | Two errors in a group give wrong data | Some patterns (swaps) missed |
 | Best for | Small groups; fast checks | Cases where re-sending is hard | Large blocks and files |
 
+## Choosing a method
+
+| Situation | Sensible choice | Reason |
+|---|---|---|
+| Short byte sent over a reliable link | Parity bit | Very small overhead |
+| A signal from a distant probe | Majority voting | Re-sending takes too long, so correction is valuable |
+| A large file download | Checksum | Few bytes of overhead for a whole file |
+
+If a parity check or checksum fails, the data is normally requested again. Majority voting avoids re-sending but costs three times the data.
+
 ## Exam traps
 
 - **Parity cannot correct.** It only detects.

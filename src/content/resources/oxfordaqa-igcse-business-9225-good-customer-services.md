@@ -133,6 +133,25 @@ Social media lets businesses respond quickly to questions and complaints, share 
 | E-commerce | Convenient buying, returns and reviews | Delivery problems; security concerns |
 | Social media | Quick replies; feedback; publicity | Public complaints spread quickly; needs constant monitoring |
 
+## Worked exam-style answer
+
+**Question (6 marks):** Explain how good customer service can benefit a bicycle shop.
+
+**Answer:** Good service, such as staff who know about electric bikes and a quick repair booking system, makes customers feel valued. Satisfied customers are more likely to return: if each regular customer spends $180 a year, keeping 90 more customers is worth $16,200 a year. They are also likely to recommend the shop to friends and leave good reviews, which brings new customers without advertising costs. Fewer complaints mean staff spend less time resolving problems. However, the shop must pay for training and systems, so the gain must be greater than the cost.
+
+## Service in different businesses
+
+Good service looks different in different businesses, so always match your answer to the case.
+
+| Business | What good service looks like | Likely method |
+|---|---|---|
+| Restaurant | Friendly staff, short waits, correct orders, quick handling of complaints | Customer engagement, staff training |
+| Electronics shop | Knowledgeable advice, easy returns, set-up help | Product knowledge, post-sales help line |
+| Online fashion retailer | Fast delivery, order tracking, simple returns, live chat | Website, e-commerce tools, social media replies |
+| Bicycle shop | Expert advice on models, repairs on time, annual servicing | Product knowledge, servicing, booking system |
+
+In each case the aim is the same: satisfied customers who return and recommend the business. The method is chosen because it suits what that group of customers values most.
+
 ## Common mistakes
 
 - Saying good service just means "being nice". It also includes product knowledge, quick problem solving and after-sales support.

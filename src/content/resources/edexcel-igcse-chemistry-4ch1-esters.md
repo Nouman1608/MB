@@ -133,6 +133,35 @@ Esters are **volatile** (they evaporate easily), because they are small molecule
 
 The yield is less than 100% because the reaction is reversible and does not go to completion, and because some product is lost during separation.
 
+## More naming practice and isomers
+
+| Ester formula | Acid part (second word) | Alcohol part (first word) | Name |
+|---|---|---|---|
+| HCOOCH₂CH₃ | Methanoic acid | Ethanol | Ethyl methanoate |
+| CH₃COOCH₂CH₂CH₃ | Ethanoic acid | Propan-1-ol | Propyl ethanoate |
+| CH₃CH₂COOCH₃ | Propanoic acid | Methanol | Methyl propanoate |
+| CH₃COOCH₂CH₂CH₂CH₃ | Ethanoic acid | Butan-1-ol | Butyl ethanoate |
+| CH₃CH₂CH₂COOCH₂CH₃ | Butanoic acid | Ethanol | Ethyl butanoate |
+
+**Worked example 4: esters with the formula C₃H₆O₂.** The relative formula mass is 3 x 12 + 6 x 1 + 2 x 16 = **74**. Two esters have this formula:
+
+1. **Methyl ethanoate**, CH₃COOCH₃ (from ethanoic acid and methanol).
+2. **Ethyl methanoate**, HCOOCH₂CH₃ (from methanoic acid and ethanol).
+
+They have the same molecular formula and different structural formulae, so they are isomers. The way to find both is to split the three carbons between the acid part (which includes the carbonyl carbon) and the alcohol part: 2 + 1 or 1 + 2.
+
+**Comparing three homologous series.**
+
+| | Alcohol | Carboxylic acid | Ester |
+|---|---|---|---|
+| Functional group | -OH | -COOH | -COO- |
+| Example | Ethanol | Ethanoic acid | Ethyl ethanoate |
+| Smell | Sharp, "spirit" | Sharp, vinegar | Sweet, fruity |
+| Fizzes with carbonate? | No | Yes | No |
+| Mixes with water? | Yes (short chains) | Yes (short chains) | Little or not at all |
+
+This table is a quick way to decide which of three liquids is which, using the fizz with sodium carbonate and the smell.
+
 ## Common mistakes
 
 - Putting the acid name first. In ethyl ethanoate, "ethyl" comes from the alcohol.

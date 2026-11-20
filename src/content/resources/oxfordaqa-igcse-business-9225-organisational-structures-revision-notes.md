@@ -125,6 +125,25 @@ Example: removing 10 supervisors on $30,000 saves $300,000 a year; redundancy at
 - Delayering is removing levels, not simply sacking workers.
 - Use case details such as the numbers of levels, spans and staff.
 
+## Model answer outline: a 9-mark "evaluate" question
+
+Question style: "Evaluate whether a company with 5 levels of management should delayer."
+
+- **For:** lower wage costs, faster communication (a message takes fewer days), more responsibility for staff.
+- **Against:** wider spans of control, overloaded managers, redundancy costs, fear of job losses, fewer promotion steps.
+- **Calculation:** annual saving = posts removed x salary; first-year saving = annual saving minus redundancy costs.
+- **Judgement:** delayering is worth doing if the saving is large and staff can handle more responsibility, but the business should delegate some decisions and check the new spans of control are workable. Make a clear recommendation.
+
+## Revision checklist
+
+- I can define chain of command, span of control, delegation and delayering.
+- I can describe four levels of a hierarchy and their roles.
+- I can compare tall and flat structures.
+- I can compare centralisation and decentralisation.
+- I can explain how structure affects communication.
+- I can calculate span of control and the saving from delayering.
+- I can recommend a structure for a given business.
+
 ## Self-test
 
 1. Define "chain of command".

@@ -69,6 +69,18 @@ Suppose a small program consists of 2,000 machine code instructions, each occupy
 
 Sub-topic 3.7 describes the internal components in more detail.
 
+## Layers of a computer system
+
+A computer system can be pictured as layers. At the bottom is the hardware. Above it is system software, mainly the operating system, which controls the hardware and hides its details. Above that is application software, which the user runs to get a job done. The user sits at the top. Each layer uses only the services of the layer directly below it, so a word processor asks the operating system to save a file, and the operating system uses the device driver and the drive to do it.
+
+## General-purpose and embedded systems
+
+A **general-purpose computer**, such as a laptop, can do many jobs because its software can be changed. An **embedded system**, such as the controller in a washing machine or a car engine, has hardware built into a device and runs one fixed program for a single purpose. That program is usually stored in a chip as firmware. In both kinds of system the hardware executes software, and the difference is how easily the software can be replaced.
+
+## Hardware and software upgrades
+
+Some problems are fixed by changing hardware and some by changing software. More RAM lets more programs be held in main memory at once. A solid-state drive loads programs faster. A software update can add features or repair security faults. A new peripheral often needs a new driver, which is software. When answering an exam question, say which kind of change is needed and explain the effect it has.
+
 ## Examples to classify
 
 Deciding whether something is hardware or software is a classic short question. Apply the definitions: electronic component, or instructions?

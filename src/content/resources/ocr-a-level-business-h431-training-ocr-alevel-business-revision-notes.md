@@ -97,6 +97,18 @@ Haddow Print (invented), 30 staff.
 5. State how success will be measured.
 6. State the main risk (staff leaving) and how to reduce it.
 
+## Quick case practice
+
+A firm (invented) trains 12 staff at £300 each. Waste costs £10,000 a year and training is expected to cut it by 30%.
+
+- Cost = 12 × £300 = **£3,600**.
+- Saving = 30% × £10,000 = **£3,000** a year.
+- Payback = £3,600 ÷ £3,000 = **1.2 years**.
+
+Model response outline: payback is acceptable, but the saving is an estimate; other benefits include safety and morale. A training needs analysis would show whether all 12 need the course. The risk is that trained staff leave, so link training to career steps.
+
+A second check: if the course is taken off-the-job, each trainee is also away for two days and a day of lost output is worth £80, an extra 12 × 2 × £80 = £1,920. The true cost is then £3,600 + £1,920 = £5,520, and payback becomes £5,520 ÷ £3,000 = 1.8 years. Always ask whether lost output has been counted before accepting a payback figure.
+
 ## Key terms
 
 | Term | Meaning |

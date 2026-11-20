@@ -98,6 +98,31 @@ A tree can also be held in a table: each row holds a node's left pointer, value 
 - Inserting values already in order, such as 5, 10, 15, 20, 25, gives a **chain** with 5 levels. Searching is then as slow as a list.
 - A mixed order, such as 15, 10, 20, 5, 25, gives a tree of 3 levels.
 
+## Checking whether a tree is a valid BST
+
+For each node, ask two questions.
+
+1. Is everything in the left subtree smaller than the node?
+2. Is everything in the right subtree larger than the node?
+
+It is not enough to compare a node with its own children. A value deeper down can break the rule. For example, a tree with root 40, left child 25 and the right child of 25 being 45 is **not** a valid BST: 45 is in the left subtree of 40, but 45 is larger than 40.
+
+## Real examples of rooted trees
+
+| Example | Root | Parent-child relationship |
+|---|---|---|
+| Class hierarchy | `Object` | A class's parent is the class it inherits from |
+| Folder structure | The top-level drive or folder | A folder contains sub-folders and files |
+| Family tree of descendants | The earliest ancestor | Parent and child |
+| Expression tree | The final operator | An operator and its operands |
+| Menu system | The main menu | A menu and its sub-menus |
+
+In each case there is exactly one root, every other item has exactly one parent, and there are no cycles.
+
+## Reading a table of nodes
+
+Each row holds a left pointer, a value and a right pointer. Start from the root row, follow the pointer to the left if the search value is smaller and to the right if it is larger, and stop at a dash. A dash in the pointer you need means the value is not in the tree.
+
 ## Exam traps
 
 - **Three conditions.** Connected, undirected, no cycles.

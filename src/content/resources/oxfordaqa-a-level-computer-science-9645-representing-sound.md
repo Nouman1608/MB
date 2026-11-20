@@ -136,6 +136,10 @@ If the rate is below the minimum, high frequencies are not captured and are wron
 
 A sound has a highest frequency of 15,000 Hz and is to be recorded for 60 seconds with 16-bit resolution. The minimum rate is 2 × 15,000 = 30,000 Hz. The minimum file size is 30,000 × 16 × 60 = 28,800,000 bits = 3,600,000 bytes (about 3.43 MiB).
 
+## Why sampling loses some detail
+
+An ADC measures the wave only at the sampling instants and rounds each reading to one of 2^res levels. Between samples the DAC has to join the points up, so some detail is lost. Raising the sampling rate puts the points closer together, and raising the resolution makes each point more precise. Neither can make the playback exactly identical to the original wave, which is why digital sound is an approximation that becomes good enough for the human ear.
+
 ## Putting it together
 
 | Step | Device or action | What happens |

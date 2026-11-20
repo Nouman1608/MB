@@ -99,6 +99,15 @@ Kestrel Distribution (invented).
 5. How were stakeholders affected?
 6. Judgement: what would be best, and what does it depend on?
 
+## Quick case practice
+
+A manager (invented) must tell 60 staff about a change to a safety rule. Staff time costs £15 an hour and manager time £25 an hour.
+
+- Email: each person takes 6 minutes, so 60 × 0.1 × £15 = **£90**.
+- Three briefings of 20 staff, 30 minutes each: staff time 3 × 20 × 0.5 × £15 = £450; manager time 3 × 0.5 × £25 = £37.50; total **£487.50**.
+
+Model response outline: email is much cheaper, but a safety change needs understanding, not just delivery; briefings allow questions and show that managers take the change seriously. The extra £397.50 is small compared with the cost of one accident. Recommend briefings, followed by an email as a written record.
+
 ## Key terms
 
 | Term | Meaning |

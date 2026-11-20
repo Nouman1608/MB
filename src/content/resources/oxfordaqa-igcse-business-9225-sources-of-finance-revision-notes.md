@@ -105,6 +105,26 @@ Condensed recall for section 3.6.1 of OxfordAQA International GCSE Business (922
 - A new share issue **dilutes** control.
 - Always **justify** the recommendation with the amount, time and risk.
 
+## Model answer outline: a 9-mark "evaluate" question
+
+Question style: "Evaluate whether a start-up potter should use crowdfunding or family and friends for $15,000."
+
+- **Crowdfunding:** no bank, tests demand, publicity; but may not reach the target and takes effort.
+- **Family and friends:** quick, flexible, cheap; but may be unable to lend that much and risks relationships.
+- **Context:** a new business has no track record, no retained profit and few assets.
+- **Judgement:** pick one and state why the other is less suitable. Mention that terms should be written down.
+
+## Revision checklist
+
+- I can list nine sources of finance.
+- I can classify them as internal or external and short or long term.
+- I can give an advantage and a disadvantage of each.
+- I can match a source to a purpose and a type of business.
+- I can calculate interest on a loan and an overdraft.
+- I can calculate how many backers a crowdfunding target needs.
+- I can explain dilution of control from a share issue.
+- I can say why sole traders cannot issue shares.
+
 ## Self-test
 
 1. Distinguish between internal and external finance.

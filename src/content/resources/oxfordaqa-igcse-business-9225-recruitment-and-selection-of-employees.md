@@ -139,6 +139,12 @@ Poor recruitment has the opposite effect: low productivity, errors, unhappy cust
 
 Businesses are expected to treat applicants fairly. Adverts and interviews should not discriminate against people because of characteristics such as sex, race, religion or disability, and the job description should be honest. Laws about this differ between countries, so you should use the general principle in your answer, not a particular country's law.
 
+## Worked exam-style answer
+
+**Question (6 marks):** Explain why effective recruitment and selection is important for a hotel.
+
+**Answer:** The hotel depends on staff to give guests a good experience. If it chooses receptionists with the right skills and attitude, guests are served quickly and politely, which improves reviews and repeat bookings. A good match between person and job also improves retention. If turnover falls from 18% to 10% of 150 staff, the hotel replaces 15 people instead of 27, and at $3,200 each saves $38,400 a year. A weak process does the opposite: staff who are unsuited leave quickly, guests are unhappy, and money is wasted on recruiting again.
+
 ## Common mistakes
 
 - Confusing recruitment (attracting applicants) with selection (choosing among them).
