@@ -100,7 +100,6 @@ bonded to three others.
 **(b)** Suggest **one** reason why some people are concerned about the use of nanotubes. **[1]**
 
 ## Answers
-## Answers
 
 **1. (a)** A **single layer of graphite** [1]
 **(b)** **C₆₀** [1]

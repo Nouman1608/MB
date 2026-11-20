@@ -99,7 +99,7 @@ D: The stock at the start of the year
 
 **(b)** Maximum inventory = buffer + re-order quantity = 50 + 240 = **290 bags** [1].
 
-**(c)** Usage during 5 days = 30 × 5 = 150 bags [1]. Stock falls from 140 to 140 − 150 = **−10**, so the garden centre would run out about two-thirds of a day before delivery, a stock-out of 10 bags of unmet demand [1]. **[5]**
+**(c)** Usage during 5 days = 30 × 5 = 150 bags [1]. Stock would be 140 − 150 = **−10**, so the buffer is used up and the centre would run out about a third of a day before the delivery arrives, leaving 10 bags of unmet demand [1]. **[5]**
 
 **6. (a)** Orders = 12,000 ÷ 1,000 = 12; ordering cost = 12 × £40 = £480 [1]. Average inventory = 500 + 100 = 600; holding cost = 600 × £2 = £1,200; total = **£1,680** [1].
 
@@ -107,7 +107,7 @@ D: The stock at the start of the year
 
 **(c)** 1,000 units, because the total cost is lower (£1,680 against £2,440), the saving on ordering being outweighed by higher holding costs [1]. **[5]**
 
-**7.** If the single supplier fails, for example through a strike or financial collapse, the business has no alternative source [1], so production could stop and customers be let down [1]. A single supplier may also use its power to raise prices [1 for an alternative second point; maximum 2 marks]. **[2]**
+**7.** If the single supplier fails, for example through a strike or financial collapse, the business has no alternative source [1], so production could stop and customers be let down [1]. Accept: a single supplier may use its bargaining power to raise prices. **[2]**
 
 **8.** Benefit 1: lower fixed costs and no need for investment [1]. A small retailer does not need to buy vans or employ drivers [1], so costs vary with the number of orders, and cash is saved for stock and marketing [1]. Benefit 2: access to expertise and flexibility [1]. A courier firm has routes, tracking systems and spare capacity [1], so the retailer can cope with peak periods and give customers tracking information without building it itself [1]. **[6]**
 

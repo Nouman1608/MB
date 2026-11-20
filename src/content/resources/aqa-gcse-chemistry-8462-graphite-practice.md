@@ -87,7 +87,6 @@ conductivity, its softness and its high melting point. **[6]**
 **(b)** Suggest **one** disadvantage of using graphite in electrical equipment. **[1]**
 
 ## Answers
-## Answers
 
 **1. (a)** **Three** [1]
 **(b)** **Hexagonal** [1]

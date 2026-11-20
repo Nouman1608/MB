@@ -89,7 +89,6 @@ does not conduct electricity. **[6]**
 **(b)** Give **one** limitation of a ball and stick model of diamond. **[1]**
 
 ## Answers
-## Answers
 
 **1. (a)** **Four** [1]
 **(b)** **Giant covalent** [1]

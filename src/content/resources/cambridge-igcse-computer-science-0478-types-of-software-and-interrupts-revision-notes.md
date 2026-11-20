@@ -131,6 +131,18 @@ Memory aid: group them as *files, interrupts, interface* / *peripherals, memory,
 9. The current state of the running program, including register contents.
 10. It does not need to keep checking devices; urgent events are handled quickly; the interrupted program is not lost.
 
+## Command words to expect
+
+| Command word | What to write |
+|---|---|
+| State, Give, Identify | A short answer with no explanation |
+| Define | A precise meaning |
+| Describe | The main points or characteristics, or the steps in order |
+| Explain | A reason or "how and why", supported with evidence from the question |
+| Compare | Similarities and differences, naming both sides every time |
+| Suggest | A sensible proposal that applies your knowledge to the situation given |
+| Evaluate | A judgement based on advantages and disadvantages, ending with a conclusion |
+
 ## Next steps
 
 Read the full explanations in the [Types of software and interrupts study guide](/resources/cambridge-igcse-computer-science-0478-types-of-software-and-interrupts/), then try the [Types of software and interrupts practice questions](/resources/cambridge-igcse-computer-science-0478-types-of-software-and-interrupts-practice/).

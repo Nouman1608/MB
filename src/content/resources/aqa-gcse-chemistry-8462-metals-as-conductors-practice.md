@@ -94,7 +94,6 @@ Compare the conduction in graphite with that in a metal. **[4]**
 **11.** Explain how the structure of a metal allows it to conduct both electricity and thermal energy. **[6]**
 
 ## Answers
-## Answers
 
 **1. (a)** **Delocalised electrons** [1]
 **(b)** **No**: they stay in fixed positions [1]

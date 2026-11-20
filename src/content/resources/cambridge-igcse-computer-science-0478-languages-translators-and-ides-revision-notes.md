@@ -151,6 +151,18 @@ Exam questions often ask what an IDE feature does **and** why it helps. Use the 
 9. Any three from code editor, run-time environment, translators, error diagnostics, auto-completion, auto-correction, prettyprint.
 10. It allows direct manipulation of hardware, so the programmer can control registers and memory exactly.
 
+## Command words to expect
+
+| Command word | What to write |
+|---|---|
+| State, Give, Identify | A short answer with no explanation |
+| Define | A precise meaning |
+| Describe | The main points or characteristics, or the steps in order |
+| Explain | A reason or "how and why", supported with evidence from the question |
+| Compare | Similarities and differences, naming both sides every time |
+| Suggest | A sensible proposal that applies your knowledge to the situation given |
+| Evaluate | A judgement based on advantages and disadvantages, ending with a conclusion |
+
 ## Next steps
 
 Read the full explanations in the [Types of programming language, translators and IDEs study guide](/resources/cambridge-igcse-computer-science-0478-languages-translators-and-ides/), then try the [Types of programming language, translators and IDEs practice questions](/resources/cambridge-igcse-computer-science-0478-languages-translators-and-ides-practice/).

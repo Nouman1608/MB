@@ -134,8 +134,6 @@ Related: [Sets study guide](/resources/cambridge-o-level-mathematics-4024-sets/)
 
 **(c)** **{4, 6, 8, 10, 12, 14}** **[1]** **[5]**
 
-*Examiner insight:* 2 is in A but not B, so it is not in the intersection. Many candidates forget that 2 is prime, or that 1 is odd but not prime.
-
 **2. (a)** 6 ∉ P **[1]**
 
 **(b)** Q ⊆ R **[1]**
@@ -143,8 +141,6 @@ Related: [Sets study guide](/resources/cambridge-o-level-mathematics-4024-sets/)
 **(c)** ∅ **[1]** **[3]**
 
 **3.** **{4, 5, 6, 7, 8}** **[1]**; n(D) = **5** **[1]** **[2]**
-
-*Examiner insight:* 3 < x excludes 3, whereas x ⩽ 8 includes 8.
 
 **4. (a)** P ∩ Q' means in P but not in Q **[1]**; **{4, 6, 8, 10}** **[1]**
 
@@ -201,11 +197,9 @@ Related: [Sets study guide](/resources/cambridge-o-level-mathematics-4024-sets/)
 ## Where marks are usually lost
 
 - Forgetting that 2 is prime in Question 1.
-- Including the end value 3 in D in Question 3.
 - Listing P ∩ Q instead of P ∩ Q' in Question 4(a).
 - Adding 28 and 20 without removing the overlap in Question 8.
 - Forgetting the "neither" set in Question 9.
-- Mixing up A' ∩ B' and A' ∪ B' in Question 10.
 - Subtracting the pairwise overlap from a circle total without removing the centre in Question 12.
 - Forming the equation 40 = 18 + 22 + x + (2x - 5) in Question 13.
 
@@ -213,12 +207,3 @@ Related: [Sets study guide](/resources/cambridge-o-level-mathematics-4024-sets/)
 
 **What is the difference between ∈ and ⊆?**
 Use ∈ between an element and a set, such as 3 ∈ A. Use ⊆ between two sets, such as {3} ⊆ A.
-
-**Does the order of elements matter in a set?**
-No. {1, 2, 3} and {3, 1, 2} are the same set. Elements are also not repeated.
-
-**Why do I need the region outside the circles?**
-The universal set holds every element in the problem. Elements in neither set sit inside the rectangle but outside the circles. Leaving them out makes the totals wrong.
-
-**Can the intersection be empty?**
-Yes. If A ∩ B = ∅, the sets share no elements. On a Venn diagram, the circles do not overlap.

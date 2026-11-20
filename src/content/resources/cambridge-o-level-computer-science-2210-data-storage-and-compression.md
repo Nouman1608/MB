@@ -146,7 +146,7 @@ To decompress, expand each pair again: A4 becomes AAAA, and so on, giving back e
 
 **Example 2: a row of pixels.** A row of black (1) and white (0) pixels is 111100001111. In RLE it is: four 1s, four 0s, four 1s. If each run is written as a (count, value) pair, this is (4,1) (4,0) (4,1). The row of twelve bits is described with three pairs.
 
-RLE works best when the data has **long runs of repeated values**, such as a logo with large areas of one colour. If there are few repeats, the compressed file can be as large as, or larger than, the original. For example ABCDEF becomes A1 B1 C1 D1 E1 F1, which is twice as long.
+RLE works best when the data has **long runs of repeated values**, such as a logo with large areas of one colour. If there are few repeats, the compressed file can be as large as, or larger than, the original. For example ABCDXY becomes A1 B1 C1 D1 X1 Y1, which is twice as long.
 
 ## Part 7: choosing a method
 
