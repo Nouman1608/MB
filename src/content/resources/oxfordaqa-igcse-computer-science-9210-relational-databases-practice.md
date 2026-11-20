@@ -89,8 +89,8 @@ Delivered.
 
 **(c)** Explain how the two table design avoids these problems. **[3]**
 
-**11.** Lee Chen moves from Bolton to Derby. State how many places in each design would need to be changed, and
-explain the benefit of the relational design. **[3]**
+**11.** Sam Patel moves from Derby to Leeds. State how many records would need to be changed in the single table design
+and how many in the two table design, and explain the benefit of the relational design. **[3]**
 
 **12.** A new Purchase record is entered with the CustomerID 19, but there is no customer with the CustomerID 19 in
 the Customer table. Explain why this is a problem. **[2]**
@@ -130,9 +130,8 @@ data would disagree [1].
 **(c)** The customer's details are stored once in the Customer table [1]; each purchase holds only the CustomerID [1], so
 there is no repeated data and the details cannot differ between records [1].
 
-**11.** In the single table design, every row for Lee Chen would need to be changed (one for each purchase, so one place
-here but potentially many) [1]; in the relational design the Town is changed in one place only, in the Customer table [1];
-this means that no purchase can be left showing the old town, so the data stays consistent [1].
+**11.** Single table: 2 records (Sam Patel appears in purchases 501 and 503) [1]; two table design: 1 record, in the Customer table [1]; the
+town is stored in one place only, so no purchase can be left showing the old town and the data stays consistent [1].
 
 **12.** The foreign key value does not match any primary key in the Customer table [1], so the purchase refers to a customer
 who is not recorded, and the link between the tables is broken [1].

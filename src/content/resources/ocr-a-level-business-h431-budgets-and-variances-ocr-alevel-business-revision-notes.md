@@ -104,6 +104,12 @@ Use five columns: item, budget, actual, variance and label (favourable or advers
 - Link variances: for example, lower sales should mean lower materials, so an adverse materials variance with lower sales is worse than it looks.
 - Finish an evaluation with a judgement: budgets and variance analysis are useful for control, but only if budgets are realistic and variances are acted on.
 
+## Exam prompts and how to approach them
+
+- **"Calculate the variances":** use actual minus budget for each line, label each favourable or adverse and check the total against the profit variance.
+- **"Analyse the materials variance":** give the cause, the effect on profit and one action, and link it to the change in sales.
+- **"Evaluate budgeting":** give a strength (control), a weakness (inflexible or built-in slack), name a stakeholder and judge.
+
 ## Key terms
 
 | Term | Meaning |

@@ -90,6 +90,12 @@ Raise price, cut variable cost, cut fixed cost, change the product mix. Each has
 
 Cobb Candles (invented): price £12, variable cost £5, fixed costs £42,000, planned sales 8,000. Contribution £7; break-even 6,000 candles (£72,000 revenue); margin of safety 2,000 (25%); profit £14,000; target profit £21,000 needs 9,000 candles. Fixed costs up to £49,000 give break-even 7,000. A special order of 1,500 candles at £8 adds 1,500 × £3 = £4,500 of contribution.
 
+## Exam prompts and how to approach them
+
+- **"Calculate the margin of safety":** state break-even output, subtract it from actual output, and give the result in units and as a percentage.
+- **"Evaluate a price rise using break-even":** show the new break-even, then test whether demand could fall enough to cancel the benefit.
+- **"Evaluate a special order":** work out contribution, check spare capacity and fixed costs, and comment on the effect on regular prices.
+
 ## Key terms
 
 | Term | Meaning |

@@ -70,6 +70,12 @@ Workforce planning, recruitment, training, pay and rewards, structure, relations
 
 Carrow Warehousing (invented): low unemployment doubles the cost per hire from £900 to £1,800 and needs a wage premium of £0.80 an hour. For 30 hires: recruitment rises from £27,000 to £54,000, and the premium is 30 × £1,560 = £46,800, so extra cost is £73,800. Brannock Packing (invented): a robot cell cuts labour cost from £552,000 to £377,200 (saving £174,800); after £60,000 running costs, payback on £600,000 is about 5.2 years, but 8 posts are lost.
 
+## Exam prompts and how to approach them
+
+- **"Evaluate the impact of technological change on human resources":** say which skills and jobs change, give a figure for cost or job numbers, name the stakeholders affected and judge the size and speed.
+- **"Evaluate the most important influence":** choose one, compare it with a second, and explain why it is larger, faster or harder to respond to.
+- **"Explain a legal influence":** name the law's area, say what it requires, and give its effect on cost or risk.
+
 ## Key terms
 
 | Term | Meaning |

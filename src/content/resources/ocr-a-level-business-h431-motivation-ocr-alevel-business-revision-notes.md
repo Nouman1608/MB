@@ -93,6 +93,12 @@ Diagnose with a theory, choose a method, count its cost, name a risk and give a 
 
 Maple Contact Centre (invented): E 0.8 for every option, valence 6. Pooled team bonus I 0.5 gives 0.8 × 0.5 × 6 = 2.4. Individual bonus I 0.9 gives 4.32, which is 80% higher. A £150 monthly bonus for 40 agents costs £6,000; a rise from 60 to 66 calls a day adds 5,280 calls a month, worth £13,200 at £2.50 each; net gain £7,200. Watch quality and stress.
 
+## Exam prompts and how to approach them
+
+- **"Explain Herzberg's two-factor theory":** separate hygiene factors from motivators, say pay is a hygiene factor, and give an example of each from the case.
+- **"Evaluate a bonus scheme":** give the benefit (clear target, fast effect), the cost (money, effect fades), a risk (rushed work) and a judgement.
+- **"Recommend a method":** diagnose with a theory, choose monetary or non-monetary methods, count the cost and name a risk.
+
 ## Key terms
 
 | Term | Meaning |

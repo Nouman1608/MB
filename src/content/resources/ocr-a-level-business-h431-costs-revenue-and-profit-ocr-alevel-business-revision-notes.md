@@ -90,6 +90,12 @@ Size, margin, trend, comparison with rivals and targets, quality (one-off or reg
 
 Tarn Furniture (invented): fixed £60,000, variable £140 a table, price £300, output 900. Total cost £186,000; average cost £206.67; revenue £270,000; profit £84,000. Ashby Joinery: overheads £58,500 over 3,900 labour hours give £15 per hour. A table costs £185 (profit £115) and a chair £45.50 (profit £24.50); total profit £162,300. Marginal contribution: tables £160, chairs £32. A £50 special order for chairs gives contribution £12 each, but only £4.50 profit under absorption.
 
+## Exam prompts and how to approach them
+
+- **"Calculate and interpret average cost":** divide total cost by output, then say what the figure means for pricing.
+- **"Evaluate absorption costing":** give a strength (prices cover all costs), a weakness (arbitrary allocation of overheads), and link to a decision.
+- **"Evaluate the profit level":** give size, margin, trend and comparison, and say whether the profit is enough for the business's purpose.
+
 ## Key terms
 
 | Term | Meaning |

@@ -94,6 +94,12 @@ Condensed notes on the **Leadership** content (5.11 on this site) in the Area of
 
 Ferncliffe Care Group (invented): three homes, 20 staff each. Autocratic North lost 9 staff (45% turnover); democratic Central lost 4 (20%); laissez-faire South lost 6 (30%). At £3,200 per leaver, North's replacement cost of £28,800 is £16,000 more than Central's £12,800. Style probably explains part of the gap, but one year of data from three homes is not conclusive.
 
+## Exam prompts and how to approach them
+
+- **"Explain Adair's Three Circles":** name the task, team and individual circles, say what each covers, and give one example of a leader neglecting a circle.
+- **"Evaluate trait theory":** give one reason it helps (simple selection) and one reason it fails (little evidence leaders are born), then judge its value to the case.
+- **"Recommend a style for this business":** link the style to staff skill, urgency and task type, give a risk, and say what would change your choice.
+
 ## Key terms
 
 | Term | Meaning |

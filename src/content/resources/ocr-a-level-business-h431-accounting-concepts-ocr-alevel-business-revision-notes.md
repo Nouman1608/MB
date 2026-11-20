@@ -86,6 +86,12 @@ Condensed notes on the **Accounting concepts** content (6.3 on this site) in the
 
 Penrose Printing (invented): sales earned £180,000 (£8,000 unpaid); cash costs £142,800. Cash profit £29,200. Accruals: electricity accrual £2,400 added and £2,700 of insurance carried forward as a prepayment, so costs are £142,500 and profit £37,500, which is £8,300 higher. Stock cost £6,000 with NRV £9 × 500 = £4,500 gives a £1,500 write-down; a £6,000 doubtful debt gives a total profit reduction of £7,500.
 
+## Exam prompts and how to approach them
+
+- **"Apply the prudence convention":** state the rule, apply it to the figures (for example a write-down or provision), and give the effect on profit and assets.
+- **"Explain accruals":** say that revenue and costs belong to the period in which they are earned or incurred, and show one accrual and one prepayment.
+- **"Evaluate the conventions":** give a use and a limit for two conventions, name a stakeholder and judge the whole set.
+
 ## Key terms
 
 | Term | Meaning |

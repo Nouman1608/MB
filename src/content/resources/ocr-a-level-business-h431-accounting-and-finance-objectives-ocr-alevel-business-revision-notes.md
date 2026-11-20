@@ -98,6 +98,12 @@ Choose two or three SMART objectives, link them to the business aim, justify wit
 
 Brackenfield Dairy (invented): revenue £4,000,000, net profit £280,000, operating profit £330,000, capital employed £2,100,000, non-current liabilities £700,000, current assets £600,000, current liabilities £380,000. Net margin 7.0% (target 8%: missed); ROCE 15.7% (target 12%: met); gearing 33.3% (limit 40%: met); current ratio 1.58 (target 1.5: met). A £600,000 loan would take gearing to 48.1%, above the limit.
 
+## Exam prompts and how to approach them
+
+- **"Explain why a business sets finance objectives":** give two uses (for example budgets and judging performance) and link them to the case.
+- **"Test a result against its objective":** show the formula, substitute, state whether the target is met and by how much.
+- **"Recommend objectives":** give two or three SMART targets with numbers and dates, justify them from the case and name a risk.
+
 ## Key terms
 
 | Term | Meaning |

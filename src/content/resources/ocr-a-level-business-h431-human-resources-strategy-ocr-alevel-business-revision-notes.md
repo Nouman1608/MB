@@ -95,6 +95,12 @@ Condensed notes on **The strategy** content (5.15 on this site) in the Area of S
 
 Kestrel Home Care (invented): 120 staff, revenue £6,000,000, labour cost £3,000,000, turnover 25% (30 leavers at £5,500 each, £165,000). Strategy cost £146,000 (training £48,000, 2% pay rise £60,000, coordinator £38,000). Benefits: turnover to 15% saves 12 × £5,500 = £66,000; 5% more revenue at 25% contribution gives £75,000; total £141,000. Year 1 net −£5,000; year 2 (training halves) net +£19,000.
 
+## Exam prompts and how to approach them
+
+- **"Evaluate the importance of a human resources strategy":** link it to objectives, give a measure such as turnover or productivity, name two stakeholders and judge when it matters most.
+- **"Recommend a strategy":** state the direction, support it with figures from the case, weigh a risk and an alternative, and give a judgement.
+- **"Analyse fit":** explain vertical fit with objectives and horizontal fit between recruitment, training and pay, using an example of a clash.
+
 ## Key terms
 
 | Term | Meaning |
