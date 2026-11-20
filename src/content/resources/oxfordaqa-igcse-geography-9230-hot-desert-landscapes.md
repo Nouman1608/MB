@@ -138,7 +138,7 @@ Salt lakes (sometimes called playas) form in desert basins where there is no out
 
 Check these examples against your own notes, as your class may have studied a different region, such as the Sahara or the Thar Desert.
 
-## Worked example: a 6-mark answer
+## Worked example: a 4-mark answer
 
 **Question:** Explain how an alluvial fan is formed. [4 marks]
 
