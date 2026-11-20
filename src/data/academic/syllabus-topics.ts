@@ -1832,10 +1832,14 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2017', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'Pearson Edexcel -- official International GCSE Biology (4BI1) specification PDF, Issue 3, September 2024',
-    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Biology/2017/specification-and-sample-assessments/international-gcse-biology-2017-specification1.pdf', verifiedDate: '2026-08-19',
-    notes: "Pearson Edexcel International GCSE in Biology (4BI1), first teaching September 2017, first examination June 2019. Untiered, linear qualification with two written papers. Five topic names reproduced directly from the official specification's 'Qualification at a glance' content summary, fetched 2026-08-19. Correction, 2026-09-02: the official specification PDF's own subject-content chapter DOES break each topic into named lettered sub-topics (e.g. Topic 1: (a) Characteristics of living organisms, (b) Variety of living organisms; Topic 2: (a) Level of organisation through (j) Co-ordination and response) -- the previous note's claim of 'a flat sequence... without named sub-headings' was incorrect and is superseded by this entry. Topic 2's named sub-topics (a)-(j) are now entered in full, with numbered-outcome detail sourced and verified for sub-topics (b) and (c); sub-topics for Topics 1, 4 and 5 are named but not yet broken out here -- future work. Topic 3's sub-topics (a) Reproduction and (b) Inheritance added and verified against the same specification PDF's numbered outcomes 3.1-3.39, 2026-09-02 (weekly study-guides automation run).",
+    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Biology/2017/specification-and-sample-assessments/international-gcse-biology-2017-specification1.pdf', verifiedDate: '2026-11-20',
+    notes: "Pearson Edexcel International GCSE in Biology (4BI1), first teaching September 2017, first examination June 2019. Untiered, linear qualification with two written papers. Five topic names reproduced directly from the official specification's 'Qualification at a glance' content summary, fetched 2026-08-19. Correction, 2026-09-02: the official specification PDF's own subject-content chapter DOES break each topic into named lettered sub-topics (e.g. Topic 1: (a) Characteristics of living organisms, (b) Variety of living organisms; Topic 2: (a) Level of organisation through (j) Co-ordination and response) -- the previous note's claim of 'a flat sequence... without named sub-headings' was incorrect and is superseded by this entry. Topic 2's named sub-topics (a)-(j) are now entered in full, with numbered-outcome detail sourced and verified for sub-topics (b) and (c); sub-topics for Topics 1, 4 and 5 were added on 2026-11-20 from the specification's own (a), (b), (c) lists. All five topics were then checked against the Issue 3 PDF. The specification prints Topic 2 as 'Structures and functions in living organisms' in its summary and 'Structure and functions in living organisms' at the start of the content chapter; the summary spelling is kept. Topic 3's sub-topics (a) Reproduction and (b) Inheritance added and verified against the same specification PDF's numbered outcomes 3.1-3.39, 2026-09-02 (weekly study-guides automation run).",
+    subtopicsComplete: true,
     topics: [
-      { number: 1, name: 'The nature and variety of living organisms', slug: 'the-nature-and-variety-of-living-organisms-edexcel-igcse-biology', subtopics: [] },
+      { number: 1, name: 'The nature and variety of living organisms', slug: 'the-nature-and-variety-of-living-organisms-edexcel-igcse-biology', subtopics: [
+        { number: 'a', name: 'Characteristics of living organisms', slug: 'characteristics-of-living-organisms-4bi1' },
+        { number: 'b', name: 'Variety of living organisms', slug: 'variety-of-living-organisms-4bi1' },
+      ] },
       { number: 2, name: 'Structures and functions in living organisms', slug: 'structures-and-functions-in-living-organisms-edexcel-igcse-biology', subtopics: [
         { number: 'a', name: 'Level of organisation', slug: 'level-of-organisation-4bi1' },
         { number: 'b', name: 'Cell structure', slug: 'cell-structure-4bi1' },
@@ -1852,8 +1856,18 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: 'a', name: 'Reproduction', slug: 'reproduction-4bi1' },
         { number: 'b', name: 'Inheritance', slug: 'inheritance-4bi1' },
       ] },
-      { number: 4, name: 'Ecology and the environment', slug: 'ecology-and-the-environment-edexcel-igcse-biology', subtopics: [] },
-      { number: 5, name: 'Use of biological resources', slug: 'use-of-biological-resources-edexcel-igcse-biology', subtopics: [] },
+      { number: 4, name: 'Ecology and the environment', slug: 'ecology-and-the-environment-edexcel-igcse-biology', subtopics: [
+        { number: 'a', name: 'The organism in the environment', slug: 'the-organism-in-the-environment-4bi1' },
+        { number: 'b', name: 'Feeding relationships', slug: 'feeding-relationships-4bi1' },
+        { number: 'c', name: 'Cycles within ecosystems', slug: 'cycles-within-ecosystems-4bi1' },
+        { number: 'd', name: 'Human influences on the environment', slug: 'human-influences-on-the-environment-4bi1' },
+      ] },
+      { number: 5, name: 'Use of biological resources', slug: 'use-of-biological-resources-edexcel-igcse-biology', subtopics: [
+        { number: 'a', name: 'Food production', slug: 'food-production-4bi1' },
+        { number: 'b', name: 'Selective breeding', slug: 'selective-breeding-4bi1' },
+        { number: 'c', name: 'Genetic modification (genetic engineering)', slug: 'genetic-modification-genetic-engineering-4bi1' },
+        { number: 'd', name: 'Cloning', slug: 'cloning-4bi1' },
+      ] },
     ],
   },
 
