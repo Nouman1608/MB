@@ -7313,11 +7313,11 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     syllabusCode: 'DP Environmental Systems and Societies', syllabusSeries: 'First assessment 2026',
     effectiveFrom: '2026', effectiveTo: 'current', status: 'current',
     tiered: false,
-    source: 'International Baccalaureate Organization, Diploma Programme Subject Brief -- Environmental systems and societies, first assessment 2026, published 2023',
+    source: 'International Baccalaureate Organization, Diploma Programme Environmental systems and societies guide, first assessment 2026, published February 2024',
     sourceUrl: 'https://www.ibo.org/globalassets/new-structure/university-admission/pdfs/environmental-systems-and-societies-subject-brief-en.pdf',
-    verifiedDate: '2026-09-08',
-    notes: 'Topic 1 (Foundation) and its three subtopics (1.1-1.3), the top-level names and numbers of Topics 2-8, and the three HL-only lenses (HL.a-HL.c) were transcribed directly from the IB\'s own Diploma Programme Subject Brief for ESS (first assessment 2026), fetched and read in full (all 5 pages, via pdf.js text extraction against the live ibo.org PDF) on 2026-09-08; the brief\'s curriculum-model table does not itself enumerate subtopics beyond Topic 1. Subtopics for Topics 2-8 (2.1-8.3) are not in the subject brief, so they were sourced by cross-checking two independent, unaffiliated IB-teacher resource sites (mrkremerscience.com and sciencesauceonline.com) that explicitly document the 2026 ESS syllabus and mirror the guide\'s own topic numbering; both agreed verbatim on every subtopic title except 6.1, where sciencesauceonline.com (explicitly framed as covering "all eight topics of the IB Environmental Systems and Societies 2026 syllabus") gave "Introduction to the atmosphere" versus mrkremerscience.com\'s abbreviated nav-menu label "Intro to the atmosphere" -- the fuller wording was used as the more likely faithful transcription. Because these subtopic titles come from secondary (non-IB) sources rather than the primary subject brief, they carry residual uncertainty despite two-source agreement; the official syllabus guide itself (which would resolve this definitively) was not consulted because only pirate/unofficial full-guide mirrors could be located, and those were deliberately avoided as sources. A third independent site, revisiondojo.com (its IB ESS new-syllabus page, read 2026-09-21), gives the same numbers and titles for all 24 subtopics of Topics 2-8, differing only in punctuation (a single hyphen for the double dash) and in 6.2, which it prints as "Climate change - causes and impact"; the owner accepted the three-site agreement as sufficient on 2026-09-21. Sources for the subtopics: sciencesauceonline.com, mrkremerscience.com and revisiondojo.com. Topic numbers 9-11 were assigned sequentially to the three HL-only lenses to satisfy the schema\'s numeric `number` field; their true source labels (HL.a/HL.b/HL.c) are preserved verbatim inside each `name` string, matching the precedent set by the existing DP Chemistry entry. No subtopic breakdown exists for the HL lenses in any source consulted, so their `subtopics` arrays are empty.',
-    subtopicsCaveat: 'The IB\'s subject brief confirms the eight topic names, Foundation subtopics 1.1-1.3 and the three HL lenses. The subtopic names shown for topics 2-8 are not printed in the brief and have not yet been checked against the IB\'s own ESS guide, so treat them as provisional and confirm them with your teacher or school.',
+    verifiedDate: '2026-11-20',
+    notes: 'Checked against the full IB guide (supplied by the owner) on 2026-11-20: Environmental systems and societies guide, first assessment 2026, published February 2024, which is the edition this record names. All 27 subtopic names (1.1-8.3) and the eight topic names match the guide\'s syllabus content; the one correction is 2.1, which the guide prints with a comma before "and ecosystems". The guide prints the dash in 6.2 and 7.1 as a long dash, shown here as a double hyphen. The three HL lenses are printed as HL.a Environmental law, HL.b Environmental economics and HL.c Environmental ethics, each with numbered understandings (HL.a.1 and so on) but no numbered sub-headings, so their subtopics stay empty. Topic numbers 9-11 were assigned sequentially to the three HL-only lenses to satisfy the schema\'s numeric `number` field; the true labels (HL.a/HL.b/HL.c) are kept inside each `name` string. Earlier subtopic names for topics 2-8 came from secondary sites; every one now matches the IB guide. The source link is the IB subject brief for the same course.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Foundation', slug: 'ib-dp-environmental-systems-and-societies-foundation', subtopics: [
         { number: '1.1', name: 'Perspectives', slug: 'ib-dp-environmental-systems-and-societies-1-1' },
@@ -7325,7 +7325,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '1.3', name: 'Sustainability', slug: 'ib-dp-environmental-systems-and-societies-1-3' },
       ] },
       { number: 2, name: 'Ecology', slug: 'ib-dp-environmental-systems-and-societies-ecology', subtopics: [
-        { number: '2.1', name: 'Individuals, populations, communities and ecosystems', slug: 'ib-dp-environmental-systems-and-societies-2-1' },
+        { number: '2.1', name: 'Individuals, populations, communities, and ecosystems', slug: 'ib-dp-environmental-systems-and-societies-2-1' },
         { number: '2.2', name: 'Energy and biomass in ecosystems', slug: 'ib-dp-environmental-systems-and-societies-2-2' },
         { number: '2.3', name: 'Biogeochemical cycles', slug: 'ib-dp-environmental-systems-and-societies-2-3' },
         { number: '2.4', name: 'Climate and biomes', slug: 'ib-dp-environmental-systems-and-societies-2-4' },
@@ -7363,7 +7363,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '8.3', name: 'Urban air pollution', slug: 'ib-dp-environmental-systems-and-societies-8-3' },
       ] },
       { number: 9, name: 'HL.a Environmental law', slug: 'ib-dp-environmental-systems-and-societies-hl-a-environmental-law', subtopics: [] },
-      { number: 10, name: 'HL.b Environmental and ecological economics', slug: 'ib-dp-environmental-systems-and-societies-hl-b-environmental-and-ecological-economics', subtopics: [] },
+      { number: 10, name: 'HL.b Environmental economics', slug: 'ib-dp-environmental-systems-and-societies-hl-b-environmental-and-ecological-economics', subtopics: [] },
       { number: 11, name: 'HL.c Environmental ethics', slug: 'ib-dp-environmental-systems-and-societies-hl-c-environmental-ethics', subtopics: [] },
     ],
   },
@@ -7372,10 +7372,11 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     syllabusCode: 'DP Geography', syllabusSeries: 'First assessments 2019',
     effectiveFrom: '2019', effectiveTo: 'current', status: 'current',
     tiered: false,
-    source: 'International Baccalaureate Organization, Geography guide (Diploma Programme), first teaching September 2017, first assessment May 2019 (published February 2017, updated to November 2022)',
+    source: 'International Baccalaureate Organization, Geography guide (Diploma Programme), first teaching September 2017, first assessment May 2019 (published February 2017)',
     sourceUrl: 'https://www.ibo.org/globalassets/new-structure/university-admission/pdfs/subject-guides/geography-guide.pdf',
-    verifiedDate: '2026-09-17',
-    notes: 'The seven Part one options (A-G), the six Part two units (1-6) and all 46 numbered sub-topics were read against the guide at ibo.org on 2026-09-17 (D-260, round 45 I398); every sub-topic name appears in it. The guide confirms first assessment 2019; geography is not in the IB\'s 2026 or 2027 curriculum-review waves. The top-level number field (1-14) is a sequential ordinal assigned for this database only, because the guide uses two label systems side by side (letters A-G for the Part one options, digits 1-6 for the Part two units); the official letter/digit label is kept inside each topic name. Topic 14 (Fieldwork, internal assessment) has no further numbered breakdown in the guide, so subtopics is left empty.',
+    verifiedDate: '2026-11-20',
+    notes: 'Checked against the full IB guide (supplied by the owner) on 2026-11-20: Geography guide, first examinations 2019, first teaching September 2017, which is the edition this record names. The copy checked prints "Published February 2017". The seven Part one options (A-G), the six Part two units (1-6) and all 46 numbered sub-topics match the guide; no name needed a correction. The guide prints a long dash in "Ocean-atmosphere interactions" and in the Unit 2 title, shown here as a hyphen and a double hyphen. The top-level number field (1-14) is a sequential ordinal assigned for this database only, because the guide uses two label systems side by side (letters A-G for the Part one options, digits 1-6 for the Part two units); the official letter/digit label is kept inside each topic name. Topic 14 (Fieldwork, internal assessment) has no numbered breakdown in the guide, so subtopics is left empty.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Option A: Freshwater', slug: 'ib-dp-geography-freshwater', subtopics: [
         { number: '1.1', name: 'Drainage basin hydrology and geomorphology', slug: 'ib-dp-geography-1-1' },
