@@ -22,14 +22,14 @@ publishedDate: 2026-11-20
 featured: false
 ---
 
-**Condensed notes on the Section A option "Crises of the Cold War, 1960-1975".** The specification names two parts: "Threats to peace in the 1960s" (the U2 Crisis, Berlin, the space and arms races, the Cuban Missile Crisis and Czechoslovakia) and "Conflict in Vietnam" (the US escalation and the ending of the conflict). The full explanation is in the [Crises of the Cold War study guide](/resources/oxfordaqa-igcse-world-history-9245-crises-of-the-cold-war/); the question types are in the [Paper 1 Section A revision notes](/resources/oxfordaqa-igcse-world-history-9245-paper-1-section-a-revision-notes/).
+**Condensed notes on the Section A option "Crises of the Cold War, 1960-1975".** The specification names two parts: "Threats to peace in the 1960s" (the U-2 Crisis, Berlin, the space and arms races, the Cuban Missile Crisis and Czechoslovakia) and "Conflict in Vietnam" (the US escalation and the ending of the conflict). The full explanation is in the [Crises of the Cold War study guide](/resources/oxfordaqa-igcse-world-history-9245-crises-of-the-cold-war/); the question types are in the [Paper 1 Section A revision notes](/resources/oxfordaqa-igcse-world-history-9245-paper-1-section-a-revision-notes/).
 
 ## Timeline
 
 | Date | Event |
 |---|---|
 | January 1959 | Castro takes power in Cuba |
-| May 1960 | U2 shot down; Paris Summit collapses |
+| May 1960 | U-2 shot down; Paris Summit collapses |
 | April 1961 | Gagarin in space; Bay of Pigs invasion |
 | August 1961 | Berlin Wall begins |
 | October 1961 | Tanks at Checkpoint Charlie |
@@ -46,9 +46,9 @@ featured: false
 | January 1973 | Paris peace agreement |
 | April 1975 | Fall of Saigon |
 
-## The U2 Crisis and Berlin
+## The U-2 Crisis and Berlin
 
-- **U2, May 1960:** American spy plane shot down; Eisenhower first denied, then admitted spying; Khrushchev demanded an apology; Paris Summit collapsed.
+- **U-2, May 1960:** American spy plane shot down; Eisenhower first denied, then admitted spying; Khrushchev demanded an apology; Paris Summit collapsed.
 - **Berlin:** around three million East Germans fled via West Berlin, 1949-61; border closed 13 August 1961.
 - **Kennedy's response:** protested, did not use force; backed West Berlin (visit in 1963). The Wall became a symbol of division.
 
@@ -65,7 +65,7 @@ featured: false
 |---|---|
 | Background | Castro (1959); American businesses taken over; embargo; Bay of Pigs failure (April 1961) |
 | Soviet action | Secret missiles in Cuba, 1962: to protect Cuba and to match US missiles in Turkey |
-| Discovery | U2 photographs, mid-October |
+| Discovery | U-2 photographs, mid-October |
 | Kennedy's choice | Naval blockade ("quarantine"), announced 22 October |
 | Resolution | 28 October: missiles removed; US promise not to invade Cuba; secret removal of US missiles from Turkey |
 | Results | Hotline; Test Ban Treaty; Kennedy's standing up; Khrushchev's down, removed in 1964 |
@@ -130,7 +130,7 @@ featured: false
 
 ## Self-test
 
-1. What happened to the American U2 plane in May 1960?
+1. What happened to the American U-2 plane in May 1960?
 2. Why did East Germany build the Berlin Wall?
 3. Who was the first human in space?
 4. Why did Kennedy order a naval blockade of Cuba?

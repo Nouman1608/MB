@@ -16,7 +16,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-international-relations-depth-studies-9245"
     subtopic: "crises-of-the-cold-war-9245"
-description: "Study guide to Crises of the Cold War, 1960-1975 for 9245 Paper 1 Section A: the U2, Berlin, Cuba, Czechoslovakia and Vietnam, with source-question technique."
+description: "Study guide to Crises of the Cold War, 1960-1975 for 9245 Paper 1 Section A: the U-2, Berlin, Cuba, Czechoslovakia and Vietnam, with source-question technique."
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-20
 featured: false
@@ -30,16 +30,16 @@ The option "enables students to understand the complex and diverse interests of 
 
 | Part | Content |
 |---|---|
-| Part 1: Threats to peace in the 1960s | Causes of tension (the U2 Crisis, Berlin and the Wall, the space and arms races); the Cuban Missile Crisis, 1962; Czechoslovakia, 1968 |
+| Part 1: Threats to peace in the 1960s | Causes of tension (the U-2 Crisis, Berlin and the Wall, the space and arms races); the Cuban Missile Crisis, 1962; Czechoslovakia, 1968 |
 | Part 2: Conflict in Vietnam | The US escalation of conflict; the ending of the conflict |
 
 Each of the source questions targets Part 1 or Part 2. Question 1 (4 marks) uses an unseen source; Question 2 (6 marks) compares one unseen and one pre-released source; Question 3 (8 marks) asks how useful an unseen source is; Question 4 (12 marks) asks you to analyse and evaluate an issue using a range of sources and your own knowledge.
 
 ## Part 1: Threats to peace in the 1960s
 
-### The U2 Crisis and the Paris Summit, 1960
+### The U-2 Crisis and the Paris Summit, 1960
 
-In May 1960 the USSR shot down an American U2 spy plane over its territory and captured the pilot, Gary Powers. President Eisenhower first said it was a weather research flight. Khrushchev then revealed that the pilot was alive and had confessed, and Eisenhower had to admit that the USA carried out spy flights. At the Paris Summit in the same month, Khrushchev demanded an apology; Eisenhower would not give one, and the summit collapsed. A planned visit by Eisenhower to the USSR was cancelled. The crisis ended hopes of a thaw, showed how mistrust could wreck talks, and led both sides to argue over who was to blame.
+In May 1960 the USSR shot down an American U-2 spy plane over its territory and captured the pilot, Gary Powers. President Eisenhower first said it was a weather research flight. Khrushchev then revealed that the pilot was alive and had confessed, and Eisenhower had to admit that the USA carried out spy flights. At the Paris Summit in the same month, Khrushchev demanded an apology; Eisenhower would not give one, and the summit collapsed. A planned visit by Eisenhower to the USSR was cancelled. The crisis ended hopes of a thaw, showed how mistrust could wreck talks, and led both sides to argue over who was to blame.
 
 ### Berlin and the Wall, 1961
 
@@ -57,7 +57,7 @@ The nuclear arms race was a race to build more and better weapons. Both sides bu
 
 In January 1959 Fidel Castro came to power in Cuba, 90 miles from Florida. He took over American-owned businesses, and the USA responded with a trade embargo. Castro turned to the USSR for aid. In April 1961 about 1,400 Cuban exiles trained by the CIA landed at the Bay of Pigs. They were defeated within days, and Kennedy was embarrassed. The invasion made Castro more dependent on the Soviets and may have convinced Khrushchev that Kennedy was weak.
 
-In 1962 Khrushchev secretly placed nuclear missiles in Cuba. Possible reasons include protecting Cuba from invasion, matching American missiles in Turkey, and improving the Soviet position in the arms race. In mid-October American U2 photographs revealed the missile sites. Kennedy's advisers considered air strikes and invasion, but he chose a naval blockade, which he called a quarantine, and announced it on television on 22 October. The world came close to nuclear war for about two weeks. On 28 October Khrushchev agreed to remove the missiles in return for an American promise not to invade Cuba; the USA also secretly agreed to withdraw its missiles from Turkey.
+In 1962 Khrushchev secretly placed nuclear missiles in Cuba. Possible reasons include protecting Cuba from invasion, matching American missiles in Turkey, and improving the Soviet position in the arms race. In mid-October American U-2 photographs revealed the missile sites. Kennedy's advisers considered air strikes and invasion, but he chose a naval blockade, which he called a quarantine, and announced it on television on 22 October. The world came close to nuclear war for about two weeks. On 28 October Khrushchev agreed to remove the missiles in return for an American promise not to invade Cuba; the USA also secretly agreed to withdraw its missiles from Turkey.
 
 **Results.** A telephone hotline linked Washington and Moscow in 1963, and a Partial Test Ban Treaty was signed in the same year. Kennedy's standing rose. Khrushchev's reputation was damaged, and he was removed from power in October 1964.
 

@@ -98,6 +98,26 @@ featured: false
 - **Britain and France:** alliances; no clear warning; French wish for revenge.
 - **Diplomacy failed:** commitment to alliances and military timetables.
 
+## Key people
+
+| Person | Role |
+|---|---|
+| Kaiser Wilhelm II | German emperor; Weltpolitik and the naval race |
+| Admiral Tirpitz | Built up the German navy |
+| Franz Ferdinand | Heir to the Austro-Hungarian throne, killed at Sarajevo |
+| Gavrilo Princip | The Bosnian Serb who shot him |
+| Emperor Franz Joseph | Austro-Hungarian emperor who received Germany's blank cheque |
+| Tsar Nicholas II | Russian ruler who mobilised in support of Serbia |
+| Schlieffen | Author of the German plan to defeat France quickly |
+
+## Writing good answers
+
+- **3 marks:** three separate, precise points.
+- **6 marks:** one way, with knowledge, an explanation and a consequence.
+- **9 marks:** two separate ways, each explained.
+- **12 marks:** weigh the given factor against others, compare and judge.
+- Separate long-term causes (alliances, arms race, rivalries) from the trigger (Sarajevo) and the July crisis.
+
 ## Key terms
 
 | Term | Meaning |

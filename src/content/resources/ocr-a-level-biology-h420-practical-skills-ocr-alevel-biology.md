@@ -105,7 +105,7 @@ You must identify hazards, assess the risks and apply controls. A short risk ass
 
 Use ICT where it helps: a spreadsheet, a data logger, graph software or modelling software.
 
-**Worked example 2.** Repeats of 8.0, 8.5 and 9.0 cm³ of oxygen in 2 minutes are in cells B2 to D2 of a spreadsheet. The mean is calculated with `=AVERAGE(B2:D2)`, giving 8.5. The rate is `=E2/2`, giving 4.25 cm³ min⁻¹. If you copy the formula down a column it gives the same calculation for each row, which reduces slips. Always check the first result by hand.
+**Worked example 2.** Repeats of 8.0, 8.5 and 9.0 cm³ of oxygen in 2 minutes are in cells A2 to C2 of a spreadsheet. The mean is calculated with `=AVERAGE(A2:C2)`, giving 8.5 in cell D2. The rate is `=D2/2`, giving 4.25 cm³ min⁻¹. If you copy the formula down a column it gives the same calculation for each row, which reduces slips. Always check the first result by hand.
 
 Tables and graphs should follow the rules in 1.1.2 and 1.1.3: headings with units, an even scale, labelled axes and a line of best fit where appropriate.
 

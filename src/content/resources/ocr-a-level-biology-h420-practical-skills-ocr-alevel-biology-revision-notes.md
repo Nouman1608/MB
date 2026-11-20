@@ -110,7 +110,7 @@ A good record has:
 
 Record data **at the time**, not afterwards.
 
-**Software:** a spreadsheet for means and rates (`=AVERAGE(B2:D2)`), graph software, a data logger, a computer model.
+**Software:** a spreadsheet for means and rates (`=AVERAGE(A2:C2)`), graph software, a data logger, a computer model.
 
 ## Research and referencing: 1.2.1(h) and (i)
 

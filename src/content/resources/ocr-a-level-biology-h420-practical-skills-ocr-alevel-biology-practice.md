@@ -52,9 +52,9 @@ Related: [practical skills study guide](/resources/ocr-a-level-biology-h420-prac
 
 ## Section B
 
-**6.** A learner types three repeats of the volume of oxygen collected in 2 minutes, 14.0, 14.5 and 15.0 cm³, into cells B2, C2 and D2 of a spreadsheet.
+**6.** A learner types three repeats of the volume of oxygen collected in 2 minutes, 14.0, 14.5 and 15.0 cm³, into cells A2, B2 and C2 of a spreadsheet.
 
-**(a)** Write a formula that calculates the mean in cell E2. **[1]**
+**(a)** Write a formula that calculates the mean in cell D2. **[1]**
 
 **(b)** Write a formula that calculates the mean rate in cell F2 and give the value and unit. **[2]**
 
@@ -94,9 +94,9 @@ Related: [practical skills study guide](/resources/ocr-a-level-biology-h420-prac
 
 **5.** Hazard: the scalpel is sharp [1]. Risk: a cut to the hand or fingers [1]. Control, any one [1]: cut on a dissection board or tile; cut away from the body; keep fingers behind the blade; carry the scalpel with the cover on. **[3]**
 
-**6. (a)** =AVERAGE(B2:D2) [1].
+**6. (a)** =AVERAGE(A2:C2) [1].
 
-**(b)** =E2/2 [1]. Value 14.5 ÷ 2 = **7.25 cm³ min⁻¹** [1]. **[3]**
+**(b)** =D2/2 [1]. Value 14.5 ÷ 2 = **7.25 cm³ min⁻¹** [1]. **[3]**
 
 **7.** Each learner must show independent evidence of their own competence [1], including a personal record of the work and independent application of investigative approaches and methods [1]. **[2]**
 
