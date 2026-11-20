@@ -16659,3 +16659,22 @@ Source: the owner's "Master Academic Quality Assurance, Content Authority & Sear
     - Pure 1: 2 rewritten; Pure 3 trigonometry, vectors and complex numbers: 1; Mechanics: 4; Probability and Statistics 1: 1; O Level Number: 7.
     - Pure 3 algebra and calculus needed no change.
   - No paper text was copied into the repository.
+
+## D-510 - Missing subtopics itemised from the boards' own documents (20 Nov 2026)
+
+- **Owner instruction.** "go ahead, spawn agents for it", after the D-509 gap survey found records whose topics had no subtopics.
+- **Method.** Five agents each took the records of one or two boards. For every record they read the board's own document (the record's `sourceUrl`), entered each printed sub-heading with the document's own number and name, checked every name by script against the extracted text, and set `subtopicsComplete: true` only when every topic had been checked. Where a document prints no sub-headings for a topic, that topic keeps none and the record says so in its notes.
+- **Result.**
+  - 706 subtopics were added across 31 records, and 46 records are newly marked complete.
+  - 114 existing resource pages gained a `subtopic:` tag where the page's own title or opening line names one subtopic: 69 OxfordAQA (9610, 9201, 9230), 39 Cambridge (9239, 3247 / 3248) and 6 AQA (8145). No page text, coverage claim or review field changed.
+  - Wrong names and numbers found and fixed: the 4CH1 Group 1 and Group 7 names were cut short; the YCH11 Unit 1 numbers now read 1-5; the 8145 topic names now match the document; the 7405 slug typo `br-nsted` is now `bronsted`; capitalisation and en-dash fixes in 9093, 0539, 9670, 9675, 9230, H460 and J247. Slugs that pages depend on were kept.
+  - Decision-log IDs and phase labels were removed from the notes of the records the agents rewrote.
+- **New subtopics with no page.** The agents did not write pages. The new subtopics that no page is tagged to are a content gap, by record: 7405 71, 7517 41, 8462 38, 7132 36, H431 61, 9645 57, 9626 60, 5090 47, 4024 45, 9225 23, 9210 23, 9201 20, 9230 15, 9610 15, 3247 / 3248 5, YAC11 17, YBS11 12, 4CH1 11, 4BI1 10, 7100 11, 0478 11, 2210 14, 0715 9, 9239 4, 8300 3, 0539 3, 9093 2, 9670 2, 9675 2.
+- **Records left unchanged, and why.**
+  - Eleven IB records (ESS, Geography, Global Politics, Language B, Psychology, History, and the five MYP subjects) could not be read: every ibo.org address returns HTTP 403 from the site's bot check. The agents did not try to get round it and did not fill anything from memory. They need the IB guides uploaded, as was done for the two Language A guides (both now complete, with no sub-headings printed under the three areas of exploration).
+  - AQA A-level Mathematics 7357: the document prints only 3.1.1-3.1.3 and 3.21.1 as headings; sections A to S are lists of numbered content statements. The existing B1 to B11 names are summaries (43 pages are tagged to them) and four of them do not appear in the document as written. Left unflagged for an owner decision.
+  - OCR A-level Business H431: topics 3 to 6 are now itemised in full, but the specification's Introduction to Business (7 headings) and Change (2 headings) areas belong to none of the record's 7 topics, and topic 7 has no area of that name. Left unflagged.
+  - OxfordAQA IGCSE Accounting 9215: the document prints no numbered sub-headings; the record's existing subtopics are curated groupings with paraphrased names, each with pages tagged. Left unflagged.
+- **Judgement calls the agents recorded.**
+  - Cambridge 9239: the syllabus prints no numbers, so subtopics 3.1, 3.2 and 4.1-4.6 take the document's headings in document order with numbers assigned by the agent; the record's notes say so.
+  - Granularity differs by record because the documents do: 7517 topic 2, 8461 topic 2 and 8462 topic 2 keep their earlier deeper levels; H460 lists the five numbered sections per component; YAC11 topics 2.2-2.9 and YCH11 Units 3 and 6 have no subtopics because their headings repeat the topic name or list abilities. Each is stated in that record's notes.
