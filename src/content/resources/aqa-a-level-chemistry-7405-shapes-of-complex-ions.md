@@ -129,6 +129,10 @@ Does [Pt(NH₃)₃Cl]⁺ show cis–trans isomerism? It is square planar with th
 
 Explain why [Ni(H₂NCH₂CH₂NH₂)₃]²⁺ has optical isomers. It is octahedral with three bidentate ligands. The ligands can be arranged in two ways that are mirror images of each other and cannot be superimposed, so it has two optical isomers.
 
+## Why the shape matters in practice
+
+Different shapes of the same formula give different properties. The cis and trans forms of [Pt(NH₃)₂Cl₂] differ in polarity, solubility and biological activity. Optical isomers of a complex may react differently with other chiral molecules in the body. In an exam answer, link the shape to the idea that atoms or ligands are arranged in space, because that is the origin of stereoisomerism.
+
 ## Common mistakes
 
 - Giving the shape of [CuCl₄]²⁻ as octahedral or square planar.

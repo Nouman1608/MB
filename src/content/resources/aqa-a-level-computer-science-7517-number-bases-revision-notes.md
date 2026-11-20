@@ -95,6 +95,23 @@ A = 10, B = 11, C = 12, D = 13, E = 14, F = 15.
 4. **Check** by converting back, or by comparing against a value you know, such as 255 = FF.
 5. Add the **base subscript** if the question asks for it, to avoid confusion between, for example, 101₂ and 101₁₀.
 
+## Worked pairs to practise
+
+| Decimal | Binary | Hex |
+|---|---|---|
+| 45 | 101101 | 2D |
+| 90 | 1011010 | 5A |
+| 100 | 1100100 | 64 |
+| 200 | 11001000 | C8 |
+| 255 | 11111111 | FF |
+| 300 | 100101100 | 12C |
+
+Cover two columns and rebuild them from the third. When binary to hex gives a group of fewer than four bits on the left, pad with zeros: 1011010 becomes 0101 1010, which is 5A.
+
+**Hex to decimal quickly.** Split into nibbles, find each nibble's value, then compute high digit × 16 + low digit. For C8: C is 12, so 12 × 16 + 8 = 200.
+
+**Sense check.** The largest 8-bit number, 11111111₂, is 255₁₀, which is FF₁₆. If a conversion of an 8-bit number gives a result above 255, an error has crept in.
+
 ## Exam traps
 
 - **Remainders read top to bottom.**

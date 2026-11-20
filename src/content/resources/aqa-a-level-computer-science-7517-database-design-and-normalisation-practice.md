@@ -56,9 +56,9 @@ Show the primary key of each table by writing it in bold (in an exam you would u
 
 | StudentID | StudentName | FormGroup | FormTutor | Exams entered |
 |---|---|---|---|---|
-| 101 | Kim Lee | 10A | Mr Ward | E1 Maths 2026-06-02 mark 71; E2 Physics 2026-06-05 mark 64 |
-| 102 | Sam Ortiz | 10B | Ms Dube | E1 Maths 2026-06-02 mark 58 |
-| 103 | Ana Petrov | 10A | Mr Ward | E2 Physics 2026-06-05 mark 80 |
+| 101 | Kim Lee | 10A | Mr Ward | MTH Maths 2026-06-02 mark 71; PHY Physics 2026-06-05 mark 64 |
+| 102 | Sam Ortiz | 10B | Ms Dube | MTH Maths 2026-06-02 mark 58 |
+| 103 | Ana Petrov | 10A | Mr Ward | PHY Physics 2026-06-05 mark 80 |
 
 **(a)** Identify the repeating group. **[1]**
 **(b)** Rewrite the data in first normal form, giving the attributes and a suitable primary key. **[3]**

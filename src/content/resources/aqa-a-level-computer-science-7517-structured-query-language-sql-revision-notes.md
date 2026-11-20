@@ -122,6 +122,17 @@ For the practice database (4 members, 4 books, 6 loans, three not returned):
 - Loans not yet returned: `SELECT COUNT(*) FROM Loan WHERE DateBack IS NULL` gives 3.
 - Total copies owned: 8; average 2.0; maximum 3.
 
+## Building a query step by step
+
+1. Decide which **columns** the answer must show and write the SELECT line.
+2. Decide which **tables** hold those columns and any columns used in conditions.
+3. If more than one table is needed, add a join for each foreign key link.
+4. Write the **WHERE** condition for rows, using quotes for text.
+5. If the question asks "how many" or "total" per something, add the aggregate and **GROUP BY**.
+6. If the condition is on the aggregate, add **HAVING**.
+7. Add **ORDER BY** last, with DESC if largest first.
+8. Test the query by hand on two or three rows of the sample data.
+
 ## Key terms
 
 | Term | Definition |

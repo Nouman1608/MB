@@ -111,8 +111,7 @@ smaller pieces. **[2]**
 **(b)** 4 × 4 × 4 = **64 cm³** [1]
 **(c)** 96 ÷ 64 = **1.5** (per cm) [1]
 
-**6. (a)** Surface area = 6 × 0.4 × 0.4 = 0.96 cm²; volume = 0.4 × 0.4 × 0.4 = 0.064 cm³ [1]; ratio = 0.96 ÷ 0.064 =
-**15** per cm [1]. **[2]**
+**6. (a)** Surface area = 6 × 0.4 × 0.4 = 0.96 cm²; volume = 0.4 × 0.4 × 0.4 = 0.064 cm³ [1]; ratio = 0.96 ÷ 0.064 = **15** per cm [1]. **[2]**
 **(b)** 15 ÷ 1.5 = **10** [1]; the side fell by a factor of 10 and the ratio rose by a factor of 10 [1]. **[2]**
 
 **7. (a)** 6 × 5 × 5 = **150 nm²** [1]

@@ -99,6 +99,17 @@ Benzene's ring has lower electron density than an isolated C=C, so it does not r
 | Bromine water | No reaction | Decolourises | No reaction |
 | Typical reaction | Radical substitution | Electrophilic addition | Electrophilic substitution |
 
+## Writing a full answer on stability
+
+A model answer for "Explain why benzene is more stable than cyclohexa-1,3,5-triene" has four steps.
+
+1. Benzene has delocalised pi electrons spread over all six carbons.
+2. Cyclohexa-1,3,5-triene would have three localised double bonds.
+3. Hydrogenation data: predicted −360 kJ mol⁻¹, measured −208 kJ mol⁻¹.
+4. Benzene releases 152 kJ mol⁻¹ less energy, so it starts at a lower energy and is more stable.
+
+Include the numbers and the word "delocalised" to secure every mark.
+
 ## Quick calculation checklist
 
 - Always write the predicted value as a multiple of the cyclohexene value.

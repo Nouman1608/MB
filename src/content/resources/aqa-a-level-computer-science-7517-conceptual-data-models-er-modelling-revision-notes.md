@@ -21,6 +21,15 @@ featured: false
 
 Condensed recall for **4.10.1 Conceptual data models and entity relationship modelling**, AQA A-Level Computer Science (7517): produce a **data model** from given requirements for a simple scenario with several entities, and produce **entity relationship diagrams** and **entity descriptions** in the form `Entity1 (Attribute1, Attribute2, ...)`. Worked scenarios are in the [data modelling study guide](/resources/aqa-a-level-computer-science-7517-conceptual-data-models-er-modelling/); questions are in the [data modelling practice questions](/resources/aqa-a-level-computer-science-7517-conceptual-data-models-er-modelling-practice/).
 
+## Question styles to expect
+
+- **Draw an ERD from a scenario:** entities as rectangles, relationships as labelled lines, degree at each end.
+- **Write entity descriptions:** `Entity (Attribute1, Attribute2, ...)` with the identifier underlined.
+- **State the type of a relationship** and justify it by asking the question in both directions.
+- **Resolve a many-to-many relationship** by adding and naming a link entity, and giving its identifier.
+- **Spot a fault in a model:** repeating attributes, a missing identifier, an unresolved many-to-many, or an attribute treated as an entity.
+- **State an assumption:** for example that a member can borrow the same book more than once on different dates.
+
 ## Key terms
 
 | Term | Definition |

@@ -126,6 +126,25 @@ Equation: C₆H₆ + CH₃COCl → C₆H₅COCH₃ + HCl.
 
 Example: 0.200 mol of benzene gives at most 0.200 × 123.0 = 24.6 g of nitrobenzene (Mᵣ 123.0).
 
+## Worked example to copy
+
+**Question.** Outline the mechanism for the nitration of benzene.
+
+1. Equation: HNO₃ + H₂SO₄ → NO₂⁺ + HSO₄⁻ + H₂O.
+2. Draw benzene as a hexagon with a circle. Draw an arrow from the circle to the N of NO₂⁺.
+3. Draw the intermediate: a hexagon with a horseshoe and + inside, and H and NO₂ on the same carbon at the open end.
+4. Draw an arrow from the C–H bond into the ring.
+5. Show the products: nitrobenzene and H⁺.
+6. Add: H⁺ + HSO₄⁻ → H₂SO₄.
+
+Mark yourself against the six marking points above. Most lost marks are for step 2 (arrow from the wrong place) and step 6 (catalyst not regenerated).
+
+## Linking to other topics
+
+- Nitrobenzene is reduced to phenylamine in the Amines sub-topics; this is how aromatic amines are prepared.
+- Phenylethanone made by acylation is a ketone and can be tested for with the carbonyl reactions of aldehydes and ketones.
+- The stability argument in the Bonding in benzene notes explains why every step ends by restoring the ring.
+
 ## Exam traps
 
 - Arrow starting at the electrophile rather than at the ring.

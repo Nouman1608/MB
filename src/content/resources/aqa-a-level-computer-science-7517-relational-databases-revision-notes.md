@@ -78,6 +78,15 @@ A **relational database** stores data in **tables**. Each table holds data about
 | Email address | Sometimes | Unique but can change |
 | Auto-numbered ID | Yes | Unique and stable |
 
+## Question styles to expect
+
+- **Define a term:** give the key idea and what makes it distinct (for example, "unique" for a primary key, "primary key of another table" for a foreign key).
+- **Identify keys in given tables:** name the attribute, the table it is in and, for a foreign key, the table it refers to.
+- **Explain why a composite key is needed:** show that each attribute repeats on its own but the pair does not.
+- **Follow a link:** start from a value in one table, read the foreign key, and find the matching record in the other table.
+- **Explain a benefit of linked tables:** less repeated data, one place to update, flexible queries.
+- **Referential integrity:** give an example of a record that would be refused, using values from the question.
+
 ## Key terms
 
 | Term | Definition |

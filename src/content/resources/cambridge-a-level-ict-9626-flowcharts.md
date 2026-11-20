@@ -55,9 +55,9 @@ A **flowchart** is a diagram that shows the steps of an algorithm as standard sy
 5. Keep the text short, and use the comparison operators `>`, `<` and `=`, and the arithmetic operators `+`, `-`, `*` and `/`.
 6. A subroutine symbol means that the steps inside are shown in a separate flowchart.
 
-## Describing a flowchart in words
+## Reading the flowchart tables
 
-In this guide each flowchart is written as a table so that you can follow the same box numbers when drawing it yourself. Read it like a map: start at box 1, follow the "Next" column, and for a decision choose the column that matches the answer.
+Each flowchart below is a table of numbered boxes. Start at box 1, follow the Next column, and at a decision take the exit that matches the answer.
 
 ## Selection: a decision
 
@@ -142,7 +142,7 @@ Use this when the same task is needed more than once, because the same box can b
 
 ## Using connectors
 
-A connector is a small circle containing a letter. Two connectors with the **same letter** mean "continue at the matching circle". They are used when a flowchart is too large for one page, or when drawing a long flow line back to the start would cross the others and make the chart hard to read. A connector with the letter A at the bottom of page 1 continues at the connector with the letter A at the top of page 2.
+A connector is a small circle containing a letter. Two connectors with the **same letter** mean "continue at the matching circle". They are used when a flowchart is too large for one page, or when a long flow line would cross others.
 
 ## Converting between a flowchart and pseudocode
 

@@ -176,6 +176,47 @@ volume halves the concentration.
 *Example (HT only):* 10 g in 0.5 dm³ is 20 g/dm³. 20 g in 0.5 dm³ is 40 g/dm³ (twice the mass, twice the
 concentration). 10 g in 1.0 dm³ is 10 g/dm³ (twice the volume, half the concentration).
 
+## Moles of different kinds of particle (HT only)
+
+The measurement of amounts in moles applies to atoms, molecules, ions, electrons, formulae and equations. One
+mole of carbon atoms (C) contains the same number of particles as one mole of carbon dioxide molecules (CO₂),
+but each CO₂ molecule contains three atoms.
+
+### Worked example 8: atoms in a compound (HT only)
+
+*How many oxygen atoms are in 0.50 mol of carbon dioxide, CO₂?*
+
+```
+Molecules = 0.50 x 6.02 x 10^23 = 3.01 x 10^23
+Each molecule has 2 O atoms
+Oxygen atoms = 2 x 3.01 x 10^23 = 6.02 x 10^23
+```
+
+### Worked example 9: mass of a gas made (HT only)
+
+*4.8 g of magnesium reacts with excess hydrochloric acid: Mg + 2HCl → MgCl₂ + H₂. Calculate the mass of
+hydrogen made.*
+
+```
+moles Mg = 4.8 / 24 = 0.20 mol
+ratio Mg : H2 = 1 : 1, so moles H2 = 0.20 mol
+mass H2 = 0.20 x 2 = 0.40 g
+```
+
+## A layout for every moles question (HT only)
+
+| Step | What to write |
+|---|---|
+| 1 | The balanced equation |
+| 2 | Mr of each substance you need |
+| 3 | Moles of the known substance = mass ÷ Mr |
+| 4 | Moles of the wanted substance, using the ratio |
+| 5 | Mass of the wanted substance = moles × Mr |
+| 6 | Answer with units and suitable significant figures |
+
+Following the same layout each time makes mistakes easier to spot. Give answers to the same number of
+significant figures as the data, or to 3 significant figures if you are unsure.
+
 ## Common mistakes
 
 - Using the mass of the wrong substance, or forgetting to use the ratio from the equation.

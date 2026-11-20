@@ -103,6 +103,13 @@ Each is correct for its reader. Putting the database layout in the receptionists
 9. Data flow diagrams, flowcharts, file and database structures, validation rules and screen and report layouts.
 10. Any one: tells customers what the system can do; helps to sell it; shows the requirements before purchase.
 
+## Exam technique
+
+- Start by naming the reader (users, technicians, the client, customers).
+- Give contents that match the reader. Screenshots suit user guides; data dictionaries suit technical documents.
+- When asked for advantages and disadvantages, give at least one of each and apply them to the scenario.
+- Use "why needed" language: so that the system can be maintained, so that users can learn it, so that buyers know what it offers.
+
 ## Where marks are usually lost
 
 - Saying "user documentation has the code".

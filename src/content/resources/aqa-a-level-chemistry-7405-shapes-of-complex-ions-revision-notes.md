@@ -99,6 +99,44 @@ Drawing tips: draw the first isomer, add a mirror line, and draw the reflection.
 
 **[Ni(en)₃]²⁺.** Octahedral with three bidentate ligands: two optical isomers.
 
+## Links between ligand type and shape
+
+| Ligand | Size and charge | Typical complex with Cu²⁺ or Co²⁺ |
+|---|---|---|
+| H₂O | Small, neutral | Octahedral, [M(H₂O)₆]²⁺ |
+| NH₃ | Small, neutral | Octahedral, [M(NH₃)₆]²⁺ (or [Cu(NH₃)₄(H₂O)₂]²⁺) |
+| Cl⁻ | Larger, 1– | Tetrahedral, [MCl₄]²⁻ |
+| en, C₂O₄²⁻ | Bidentate | Octahedral, three ligands per ion |
+
+When the ligand changes from water to chloride, the co-ordination number falls from 6 to 4 and the shape changes from octahedral to tetrahedral.
+
+## Counting isomers: quick reference
+
+| Complex | Shape | Isomerism | Number of isomers |
+|---|---|---|---|
+| [Pt(NH₃)₂Cl₂] | Square planar | cis–trans | 2 |
+| [Pt(NH₃)₃Cl]⁺ | Square planar | None | 1 |
+| [Co(NH₃)₄Cl₂]⁺ | Octahedral | cis–trans | 2 |
+| [Co(NH₃)₆]³⁺ | Octahedral | None | 1 |
+| [Ni(en)₃]²⁺ | Octahedral | Optical | 2 |
+| trans-[Co(en)₂Cl₂]⁺ | Octahedral | None (plane of symmetry) | 1 |
+| cis-[Co(en)₂Cl₂]⁺ | Octahedral | Optical | 2 |
+| [CuCl₄]²⁻ | Tetrahedral | None | 1 |
+
+## Naming the key idea in an answer
+
+- For cis–trans: "different arrangements of the same ligands, the same side or opposite sides".
+- For optical: "non-superimposable mirror images".
+- For shape: name the shape, give the angle, and link to the size of the ligand or the co-ordination number.
+
+## Drawing checklist
+
+- Put the central metal ion in the middle with its symbol.
+- Draw one line for each co-ordinate bond, from the donor atom of the ligand to the metal.
+- Use wedges and dashes in octahedral and tetrahedral drawings to show bonds towards and away from you.
+- Add square brackets and the overall charge.
+- Label the shape and bond angle if the question asks.
+
 ## Exam traps
 
 - Bond angle of 90° for a tetrahedral complex.

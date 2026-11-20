@@ -83,6 +83,23 @@ Boxes in order: START; `total ← 0`; INPUT number; decision `number = 0?`; Yes 
 
 Inputs 4, 9, 2, 0 give totals 4, 13, 15 and the output is **15**. The 0 is not added because the decision sends the flow out of the loop first.
 
+## Worked example: a three-way decision
+
+Problem: input an age and output "Free" for under 5, "Child" for 5 to 15 and "Adult" for 16 or more.
+
+| Box | Symbol | Contents | Next |
+|---|---|---|---|
+| 1 | Terminator | START | 2 |
+| 2 | Input/output | INPUT age | 3 |
+| 3 | Decision | age < 5? | Yes: 4. No: 5 |
+| 4 | Input/output | OUTPUT "Free" | 7 |
+| 5 | Decision | age < 16? | Yes: 6. No: 8 |
+| 6 | Input/output | OUTPUT "Child" | 7 |
+| 7 | Terminator | STOP | none |
+| 8 | Input/output | OUTPUT "Adult" | 7 |
+
+Test the boundaries: 4 gives Free, 5 gives Child, 15 gives Child and 16 gives Adult. Two decisions are needed because each decision has only two exits. Every output box leads to the same STOP.
+
 ## Editing a flowchart
 
 1. Trace the original with a sample.

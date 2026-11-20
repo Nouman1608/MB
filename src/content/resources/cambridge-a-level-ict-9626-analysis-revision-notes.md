@@ -108,6 +108,14 @@ URS: "Patients must be able to book an appointment online." System specification
 9. The design specification.
 10. The documents may be out of date, or may not show what people actually do or why.
 
+## Exam technique
+
+- Name the method, then link it to the people or situation in the scenario.
+- Give a disadvantage when the question asks for advantages **and** disadvantages.
+- For specifications, say what the document contains and who uses it.
+- With "evaluate" or "discuss", end with a recommendation, such as a combination of methods.
+- Use the scenario's words: the manager, the call handlers, the 900 students.
+
 ## Where marks are usually lost
 
 - Listing methods without linking them to the scenario's people.
