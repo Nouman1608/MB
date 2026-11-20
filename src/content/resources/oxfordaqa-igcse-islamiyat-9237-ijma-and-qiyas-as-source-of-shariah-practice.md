@@ -19,6 +19,8 @@ description: "Original questions with mark guidance on the meaning, role and imp
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-20
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-20: check the examples of Ijma (Taraweeh behind one imam, grandmother's one-sixth), the wording on the Hadith that the community will not agree on error, the Ja'fari and Maliki views of Ijma, and the use of Qur'an 4:115 as evidence."
 ---
 
 > **These are original questions written for Marlbridge**, for practice on content area 3.2.2.6:

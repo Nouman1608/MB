@@ -19,6 +19,8 @@ description: "Original questions with mark guidance on the categories of Hadith,
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-20
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-20: check the traditional figures for Sahih al-Bukhari (about 7,000 reports with repeats, about 2,600 without; sixteen years), the dates for Bukhari and Muslim, and the account of the two conditions (met versus contemporaries)."
 ---
 
 > **These are original questions written for Marlbridge**, for practice on content area 3.2.2.4:

@@ -19,6 +19,8 @@ description: "Recall notes on the meaning, role and importance of Ijma and Qiyas
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-20
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-20: check the examples of Ijma (Taraweeh behind one imam, grandmother's one-sixth), the wording on the Hadith that the community will not agree on error, the Ja'fari and Maliki views of Ijma, and the use of Qur'an 4:115 as evidence."
 ---
 
 **These notes condense content area 3.2.2.6 of 9237: "The meaning, role and importance of Ijma (consensus) and Qiyas (analogy) in forming religious rulings."** The full explanation is in the [study guide](/resources/oxfordaqa-igcse-islamiyat-9237-ijma-and-qiyas-as-source-of-shariah/).

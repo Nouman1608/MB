@@ -19,6 +19,8 @@ description: "Recall notes on why the law schools arose, their founders, dates a
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-20
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-20: check the founders' dates, the Qur'an 2:228 (quru') example and which school takes which meaning, and the examples of differences (hands in prayer, Witr, combining prayers, prostration)."
 ---
 
 **These notes condense content area 3.2.2.5 of 9237: "The origins and role of the major law schools in Islam including: Hanafi, Shaf'i, Maliki, Hanbali and Ja'fari."** The full explanation is in the [study guide](/resources/oxfordaqa-igcse-islamiyat-9237-different-schools-of-thought-in-islam/).

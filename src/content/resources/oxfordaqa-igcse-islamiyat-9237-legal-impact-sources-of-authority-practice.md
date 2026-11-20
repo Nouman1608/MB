@@ -123,7 +123,7 @@ In your answer you should:
 
 **(b)** Remainder: £90,000 − £30,000 = £60,000 [1]; wife: £60,000 ÷ 8 = **£7,500** [1].
 
-**(c)** £60,000 − £7,500 = £52,500 [0]; each son: £52,500 ÷ 2 = **£26,250** [1]. (The mark is for £26,250. Accept follow-through from an incorrect answer to (b).)
+**(c)** Left for the sons: £60,000 − £7,500 = £52,500; each son: £52,500 ÷ 2 = **£26,250** [1]. Accept follow-through from an incorrect answer to (b).
 
 **7.** AO1 **[4]**: for each of two reasons, reason identified [1] and explained [1]. AO2 **[2]**: one source of authority used generally [1] or specifically and applied [2].
 

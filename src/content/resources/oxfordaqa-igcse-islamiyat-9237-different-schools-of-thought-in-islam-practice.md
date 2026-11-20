@@ -19,6 +19,8 @@ description: "Original questions with mark guidance on the causes, founders, met
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-20
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-20: check the founders' dates, the Qur'an 2:228 (quru') example and which school takes which meaning, and the examples of differences (hands in prayer, Witr, combining prayers, prostration)."
 ---
 
 > **These are original questions written for Marlbridge**, for practice on content area 3.2.2.5:

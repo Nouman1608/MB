@@ -19,6 +19,8 @@ description: "Original questions with mark guidance on Halal and Haram, dietary 
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-20
 featured: false
+reviewNeeded: true
+reviewNote: "2026-11-20: check the dress rules (navel to knees for men, silk and gold, covering for women) and the points on halal slaughter and parents' duties against a teacher's usual teaching."
 ---
 
 > **These are original questions written for Marlbridge**, for practice on content area 3.2.2.7:
