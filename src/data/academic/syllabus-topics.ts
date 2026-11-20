@@ -5330,8 +5330,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2023', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'OxfordAQA — official specification PDF',
-    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2023/10/oxfordaqa-gcse-psychology-specification.pdf', verifiedDate: '2026-08-19',
-    notes: 'First teaching September 2023, first examined May/June 2025. Two equally-weighted papers, no coursework.',
+    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2023/10/oxfordaqa-gcse-psychology-specification.pdf', verifiedDate: '2026-11-20',
+    notes: 'First teaching September 2023, first examined May/June 2025. Two equally-weighted papers, no coursework. Checked on 2026-11-20 against the OxfordAQA specification PDF (Version 1.1): both papers and all 8 numbered subtopics (3.1.1 to 3.2.4) match the printed numbers and order; capital letters and one word (Social influence) were corrected to the printed names.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Paper 1 – Cognition and Behaviour', slug: 'paper-1-cognition-and-behaviour-9218', subtopics: [
         { number: '3.1.1', name: 'Memory', slug: 'memory-9218' },
@@ -5341,9 +5342,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
       ] },
       { number: 2, name: 'Paper 2 – Social Context and Behaviour', slug: 'paper-2-social-context-and-behaviour-9218', subtopics: [
         { number: '3.2.1', name: 'Communication', slug: 'communication-9218' },
-        { number: '3.2.2', name: 'Social Influences', slug: 'social-influences-9218' },
-        { number: '3.2.3', name: 'Mental Health', slug: 'mental-health-9218' },
-        { number: '3.2.4', name: 'Research Methods', slug: 'research-methods-paper2-9218' },
+        { number: '3.2.2', name: 'Social influence', slug: 'social-influences-9218' },
+        { number: '3.2.3', name: 'Mental health', slug: 'mental-health-9218' },
+        { number: '3.2.4', name: 'Research methods', slug: 'research-methods-paper2-9218' },
       ] },
     ],
   },
