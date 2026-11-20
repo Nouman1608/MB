@@ -114,6 +114,26 @@ A good answer follows the arc and names each part:
 
 Each of these bullet points is worth a mark, and a question like this often awards marks for naming the neurone and the effector, not for repeating the word "impulse".
 
+## Worked example: why a short pathway is faster
+
+*A sensory neurone carries an impulse 0.9 m from the toe to the spinal cord and a motor neurone carries it 0.9 m back to a leg muscle. Impulses travel at 90 m/s along these neurones. Calculate the time spent travelling along the neurones.*
+
+1. Total distance = 0.9 + 0.9 = 1.8 m.
+2. Time = distance divided by speed = 1.8 divided by 90 = 0.02 s.
+
+The time at the synapses is extra, because the chemical step takes a short time at each one. A reflex arc has only a few synapses, so the response is quick. If the message had to go all the way to the brain and back, with many more neurones and synapses, the response would be slower. This is the main reason why a reflex is useful when the body is in danger.
+
+## Investigating a nervous response
+
+The syllabus lists nervous responses among the experimental contexts. A simple method measures reaction time with a ruler.
+
+1. One student holds a 30 cm ruler vertically, with the zero end level with the top of the thumb and first finger of a second student, who is ready to catch it.
+2. The first student drops the ruler without warning.
+3. The second student catches it as quickly as possible and the distance fallen is read from the ruler.
+4. The test is repeated several times and a mean is found.
+
+A smaller distance means a faster response. To make the test fair, use the same hand, the same starting position and the same ruler each time. Because this response involves the brain deciding to catch, it is a voluntary response, not a reflex. A reflex such as the knee jerk is not controlled in this way.
+
 ## Reflex or voluntary?
 
 | Feature | Reflex action | Voluntary action |

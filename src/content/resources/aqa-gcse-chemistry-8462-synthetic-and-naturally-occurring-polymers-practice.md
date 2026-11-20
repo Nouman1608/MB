@@ -37,7 +37,7 @@ Learn the content first in the
 [synthetic and naturally occurring polymers study guide](/resources/aqa-gcse-chemistry-8462-synthetic-and-naturally-occurring-polymers/)
 and the [revision notes](/resources/aqa-gcse-chemistry-8462-synthetic-and-naturally-occurring-polymers-revision-notes/).
 
-Relative atomic masses: H = 1, C = 12, N = 14, O = 16.
+Relative atomic masses: H = 1, C = 12, N = 14, O = 16, F = 19.
 
 ## Questions
 
