@@ -7372,10 +7372,11 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     syllabusCode: 'DP Geography', syllabusSeries: 'First assessments 2019',
     effectiveFrom: '2019', effectiveTo: 'current', status: 'current',
     tiered: false,
-    source: 'International Baccalaureate Organization, Geography guide (Diploma Programme), first teaching September 2017, first assessment May 2019 (published February 2017, updated to November 2022)',
+    source: 'International Baccalaureate Organization, Geography guide (Diploma Programme), first teaching September 2017, first assessment May 2019 (published February 2017)',
     sourceUrl: 'https://www.ibo.org/globalassets/new-structure/university-admission/pdfs/subject-guides/geography-guide.pdf',
-    verifiedDate: '2026-09-17',
-    notes: 'The seven Part one options (A-G), the six Part two units (1-6) and all 46 numbered sub-topics were read against the guide at ibo.org on 2026-09-17 (D-260, round 45 I398); every sub-topic name appears in it. The guide confirms first assessment 2019; geography is not in the IB\'s 2026 or 2027 curriculum-review waves. The top-level number field (1-14) is a sequential ordinal assigned for this database only, because the guide uses two label systems side by side (letters A-G for the Part one options, digits 1-6 for the Part two units); the official letter/digit label is kept inside each topic name. Topic 14 (Fieldwork, internal assessment) has no further numbered breakdown in the guide, so subtopics is left empty.',
+    verifiedDate: '2026-11-20',
+    notes: 'Checked against the full IB guide (supplied by the owner) on 2026-11-20: Geography guide, first examinations 2019, first teaching September 2017, which is the edition this record names. The copy checked prints "Published February 2017". The seven Part one options (A-G), the six Part two units (1-6) and all 46 numbered sub-topics match the guide; no name needed a correction. The guide prints a long dash in "Ocean-atmosphere interactions" and in the Unit 2 title, shown here as a hyphen and a double hyphen. The top-level number field (1-14) is a sequential ordinal assigned for this database only, because the guide uses two label systems side by side (letters A-G for the Part one options, digits 1-6 for the Part two units); the official letter/digit label is kept inside each topic name. Topic 14 (Fieldwork, internal assessment) has no numbered breakdown in the guide, so subtopics is left empty.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Option A: Freshwater', slug: 'ib-dp-geography-freshwater', subtopics: [
         { number: '1.1', name: 'Drainage basin hydrology and geomorphology', slug: 'ib-dp-geography-1-1' },
