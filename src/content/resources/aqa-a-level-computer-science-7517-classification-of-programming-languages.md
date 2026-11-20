@@ -135,6 +135,8 @@ Relationship to low-level languages:
 - Needs a translator, and the generated code may be slower or larger than carefully written assembly.
 - Less direct control of the hardware.
 
+A useful way to remember the scale is to count instructions. A task such as "add two numbers and store the answer" is one statement in a high-level language, four or five lines in assembly language, and the same number of binary instructions in machine code. The more instructions the programmer must write, the more places there are to make a mistake, and the more difficult it is to change the program later.
+
 ## Choosing a language
 
 | Task | Likely choice | Reason |

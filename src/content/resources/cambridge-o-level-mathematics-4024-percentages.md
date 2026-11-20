@@ -209,6 +209,29 @@ original = 66 ÷ 0.88 = $75
 
 The most common error is to find 12% of $66 and add it on. That gives the wrong answer because the 12% was taken from the original price, not the sale price.
 
+## Two discounts and tax
+
+When there are two stages, apply one multiplier for each stage.
+
+**Worked example.** A coat costs $120. It is reduced by 20%, and then the sale price is reduced by a further 10%. Find the final price and the overall percentage reduction.
+
+```
+120 x 0.8 x 0.9 = $86.40
+overall multiplier = 0.8 x 0.9 = 0.72
+overall reduction = 28%   (not 30%)
+```
+
+**Worked example.** A meal costs $85 before a 12% service charge is added. Find the total, and then find the original price if the total were $95.20.
+
+```
+total = 85 x 1.12 = $95.20
+reverse: 95.20 ÷ 1.12 = $85
+```
+
+## Percentage points and comparing changes
+
+A rise from 20% to 25% is an increase of 5 **percentage points**, but it is a 25% increase in the rate itself (5 ÷ 20). The two statements mean different things, so read the wording carefully. When a question asks you to compare two deals, work out each final amount, not just the percentages.
+
 ## Percentages over 100
 
 A value that is 130% of another is 1.3 times as big. To find 240% of 50, multiply: 2.4 × 50 = 120. A reverse problem with "130% of the original is 91" gives original = 91 ÷ 1.3 = 70.

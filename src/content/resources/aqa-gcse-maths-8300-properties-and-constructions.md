@@ -175,7 +175,7 @@ A **plan** is the view from above; the **front elevation** is the view from the 
 ## Common errors
 
 - Using "Z angles" and "F angles" instead of alternate and corresponding angles.
-- Using the interior angle formula as n × 180 − 360 and mixing it with the exterior angle.
+- Forgetting to subtract 2 in (n − 2) × 180°, or mixing up interior and exterior angles.
 - Rubbing out construction arcs.
 - Using SSA as a congruence rule.
 - Giving a transformation without full details.

@@ -114,6 +114,8 @@ D: pectinase
 
 **12.** Explain why people who are lactose intolerant can drink milk treated with lactase. **[2]**
 
+**13.** Suggest why the concentration of ethanol in a fermenter cannot rise above a certain level when yeast is used to make it. **[2]**
+
 ---
 
 ## Answers
@@ -169,6 +171,8 @@ D: pectinase
 **11.** The enzymes in the powder work well at moderate temperatures [1]. At 80 degrees Celsius they would be denatured, as their shape changes [1], so they could not break down the stains [1]. **[3]**
 
 **12.** Lactase breaks down lactose [1] into glucose and galactose, which the person can digest [1]. **[2]**
+
+**13.** Ethanol is toxic to yeast at high concentrations [1], so the yeast cells die and fermentation stops [1]. **[2]**
 
 ---
 

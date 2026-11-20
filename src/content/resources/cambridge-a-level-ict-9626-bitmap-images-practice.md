@@ -93,7 +93,7 @@ Revise first with the [study guide](/resources/cambridge-a-level-ict-9626-bitmap
 **(b)** Greyscale keeps more detail [1], because it keeps the range of light and dark tones. **[1]**
 
 **6. (a)** Pixels = 1,000 × 1,500 = 1,500,000 [1]. Bits = 1,500,000 × 24 = 36,000,000 [1]. Bytes = 36,000,000 ÷ 8 = 4,500,000. [1] **[3]**
-**(b)** 1,500,000 × 8 ÷ 8 = 1,500,000 bytes [1]; 2 to the power of 8 = 256 colours [1]. (Award the first mark for the method and the second for the answer, 1,500,000 bytes, with 256 colours also required for the third mark.) [1] **[3]**
+**(b)** 8 bits is 1 byte per pixel, so 1,500,000 × 1 = 1,500,000 bytes [1]; 2 to the power of 8 gives 256 colours [1]; the size is one third of the original (4,500,000 ÷ 3 = 1,500,000). [1] **[3]**
 **(c)** New dimensions are 500 × 750 = 375,000 pixels [1]; at 3 bytes per pixel, 375,000 × 3 = 1,125,000 bytes [1]; this is one quarter of the original (4,500,000 ÷ 4 = 1,125,000), because both dimensions are halved. [1] **[3]**
 **(d)** Any one: banding (visible steps in smooth colour areas) appears; fewer colours means some detail and subtle shading are lost. [1] **[1]**
 

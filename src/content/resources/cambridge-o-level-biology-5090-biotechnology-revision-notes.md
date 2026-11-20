@@ -72,6 +72,22 @@ Other features: stirrer to mix the contents; sterile conditions to prevent conta
 | Pectinase | Fruit juice production | Breaks down pectin in cell walls; more juice, clearer juice |
 | Lactase | Lactose-free milk | Breaks down lactose to glucose and galactose |
 
+## Comparing the uses
+
+| Process | Organism or enzyme | Raw material | Useful product |
+|---|---|---|---|
+| Bread making | Yeast | Sugar in dough | Carbon dioxide |
+| Ethanol production | Yeast | Sugar solution | Ethanol |
+| Washing powder | Protease, lipase | Protein and fat stains | Soluble products washed away |
+| Fruit juice | Pectinase | Pectin in crushed fruit | More, clearer juice |
+| Lactose-free milk | Lactase | Lactose | Glucose and galactose |
+| Large-scale production | Bacteria or fungi in a fermenter | Nutrient medium | Medicines, proteins, food |
+
+## Benefits and limits of using microorganisms
+
+- **Benefits:** quick growth, cheap nutrients, controlled conditions, products can be made all year round, and genetic modification lets bacteria make human proteins.
+- **Limits:** the vessel must be kept sterile, the conditions must be controlled carefully, and waste products can poison the organisms. Very high concentrations of ethanol kill the yeast.
+
 ## Worked calculation
 
 *1.0 kg of crushed pears gives 450 cm3 of juice without pectinase and 585 cm3 with pectinase. Find the percentage increase.*
