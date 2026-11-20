@@ -141,6 +141,14 @@ Lost profit from lost sales = lost revenue x margin
 9. Any one: money spent reduces short-term profit; hard to measure the return; risk of greenwashing.
 10. Claiming to be more environmentally or socially responsible than is true.
 
+## Linking the ideas
+
+- Culture shapes which decisions are possible: a role culture will follow procedure, a task culture will experiment.
+- The stakeholder and shareholder models explain how profit is used, and ethics explains how it is earned.
+- Pay and CSR connect the two: they show whether a business treats staff and society as partners or as costs.
+- In an extended answer, link at least two ideas from this section, for example "a power culture means decisions favour the owner's view of the shareholder model, so the community's interests may be ignored".
+- Always finish with a judgement that names the factor on which your view depends.
+
 ## Next steps
 
 Check slips against the [Influences on business decisions study guide](/resources/edexcel-a-level-business-ybs11-influences-on-business-decisions/), then practise with the [Influences on business decisions practice questions](/resources/edexcel-a-level-business-ybs11-influences-on-business-decisions-practice/).

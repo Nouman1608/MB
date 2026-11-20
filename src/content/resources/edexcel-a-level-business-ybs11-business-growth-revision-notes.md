@@ -145,6 +145,14 @@ Combined market share = share A + share B (horizontal merger)
 9. Costs rise before customers pay, so cash runs out and bills cannot be paid even though sales and profit look healthy.
 10. Any two from: purchasing, technical, financial, managerial, marketing.
 
+## Linking the ideas
+
+- Growth brings economies of scale, but only up to the most efficient output. Beyond it, diseconomies of scale push average cost up again.
+- Fast organic growth can cause overtrading. Fast inorganic growth can cause communication and culture problems.
+- A takeover funded by debt turns a growth plan into a financial risk: interest must be paid whether or not the new business performs.
+- When a question asks you to choose a method of growth, compare the options against the same criteria (speed, cost, risk, control, fit with objectives) so your judgement is visible.
+- Quote figures from the source wherever possible: unit costs, premiums, interest costs and receivables turn a general point into a developed one.
+
 ## Next steps
 
 Check slips against the [Business growth study guide](/resources/edexcel-a-level-business-ybs11-business-growth/), then practise with the [Business growth practice questions](/resources/edexcel-a-level-business-ybs11-business-growth-practice/).
