@@ -24,7 +24,7 @@ featured: false
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
 > and they do **not** replicate the exam's exact structure, question count or
-> mark tariffs — examination boards hold copyright in their own papers. Use
+> mark tariffs; examination boards hold copyright in their own papers. Use
 > these alongside the official past papers available free from your board.
 
 Related: [Number bases study guide](/resources/oxfordaqa-igcse-computer-science-9210-number-bases/) | [Number bases revision notes](/resources/oxfordaqa-igcse-computer-science-9210-number-bases-revision-notes/)

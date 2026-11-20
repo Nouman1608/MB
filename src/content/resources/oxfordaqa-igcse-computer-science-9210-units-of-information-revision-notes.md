@@ -120,6 +120,14 @@ which is more than 2,000 kB. A number can only be compared when both sizes use t
 - Small to big, divide; big to small, multiply.
 - A lower-case **b** is small (a bit); an upper-case **B** is big (a byte, 8 bits).
 
+## More worked capacity examples
+
+- **How many 4 MB songs fit on a 2 GB player?** 2 GB = 2,000 MB; 2,000 ÷ 4 = **500 songs**.
+- **How long is a file of 3,000,000 bytes in kilobytes?** 3,000,000 ÷ 1,000 = **3,000 kB**.
+- **A drive has 250 GB. State its size in megabytes.** 250 × 1,000 = **250,000 MB**.
+- **How many bits are in 3 bytes?** 3 × 8 = **24 bits**.
+- **A file is 0.2 GB. State its size in kilobytes.** 0.2 × 1,000 = 200 MB, then 200 × 1,000 = **200,000 kB**.
+
 ## Exam traps
 
 - **b and B mixed up.** A bit is b; a byte is B. A quantity in bits is eight times the same quantity in bytes.

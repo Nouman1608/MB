@@ -261,16 +261,10 @@ the comparison and assignment are the processing, and the final `OUTPUT` is the 
 
 ## Exam technique
 
-- **State/define** questions need the specification's exact ideas: sequence of steps for an algorithm,
-  sub-problems for decomposition, removing unnecessary detail for abstraction.
-- **Trace** questions are marks for care. Show every row and every changed value, even if the question only asks for
-  the final output, as the working supports a follow-through mark.
-- **Purpose** questions: say what the algorithm achieves in terms of the problem, not the code. A good form is
-  "It calculates the ... of ...".
-- **Write an algorithm** questions: any clear and unambiguous pseudocode is accepted, but structure it properly and
-  use sensible names.
-- **Explain inputs, processing and outputs:** quote the line or lines for each one, so the examiner can see that
-  you have identified them.
+- **State/define** questions need the specification's ideas: sequence of steps, sub-problems, removing unnecessary detail.
+- **Trace** questions are marks for care: show every row and every changed value.
+- **Purpose** questions: say what the algorithm achieves for the problem, in the form "It calculates the ... of ...".
+- **Inputs, processing and outputs:** quote the line for each one.
 
 ## Next steps
 

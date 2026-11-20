@@ -115,6 +115,15 @@ number before it does arithmetic.
 | Text in several languages | Unicode |
 | Text including emoji or special symbols | Unicode |
 
+## Model answers
+
+**Explain why Unicode was developed. [3 marks]** 7-bit ASCII has only 128 codes, which is enough for English letters,
+digits and punctuation but not for the characters of other languages and many symbols. Unicode gives a single standard with
+far more codes, so text in many languages can be stored and shared. Its codes up to 127 are the same as ASCII.
+
+**The ASCII code for 'A' is 65. Calculate the code for 'T'. [2 marks]** T is the 20th letter, 19 places after A, so 65 + 19 =
+84.
+
 ## Exam traps
 
 - **ASCII has 256 characters.** 7-bit ASCII has 128.

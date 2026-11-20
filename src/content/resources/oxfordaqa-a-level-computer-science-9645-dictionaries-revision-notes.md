@@ -81,7 +81,7 @@ The result is `{'b': 1, 'a': 3, 'n': 2}`.
 
 *Lookup table.* `names = {"0": "zero", "4": "four", "7": "seven"}` converts "407" to `four zero seven`.
 
-*Nested dictionary.* `staff["E2"]["dept"]` reads the department of employee E2: the first key finds the inner dictionary, and the second finds the value in it.
+*Nested dictionary.* `staff["EM2"]["dept"]` reads the department of employee EM2: the first key finds the inner dictionary, and the second finds the value in it.
 
 ## Applications
 
@@ -153,7 +153,7 @@ A list is searched by position. If the program has a name and wants a number, it
 7. What error does `d["missing"]` cause in Python?
 8. Give one application of a dictionary.
 9. After `inv = {"pen": 12, "ink": 3}`, `inv["pen"] = inv["pen"] - 5` and `del inv["ink"]`, what is `inv`?
-10. How do you read the department of employee E2 from a dictionary of dictionaries called `staff`?
+10. How do you read the department of employee EM2 from a dictionary of dictionaries called `staff`?
 11. State one advantage of a dictionary over two parallel lists.
 12. How are dictionaries related to hash tables?
 
@@ -168,7 +168,7 @@ A list is searched by position. If the program has a name and wants a number, it
 7. A `KeyError`.
 8. Any one from: phone book, word counts, price list, translation table, cache, records by identifier.
 9. `{'pen': 7}`.
-10. `staff["E2"]["dept"]`.
+10. `staff["EM2"]["dept"]`.
 11. The value is found directly from its key, with no search written by the programmer (so less code and fewer mistakes).
 12. A dictionary is commonly implemented with a hash table, which maps each key to a position using a hash function.
 

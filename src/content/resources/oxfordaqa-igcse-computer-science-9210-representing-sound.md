@@ -166,6 +166,12 @@ For speech on a telephone, a low rate and resolution give a small file that is s
 rate and resolution are chosen so the sound is as faithful as possible. A longer recording gives a larger file in
 proportion to its length.
 
+## Quick comparison of two recordings
+
+A 10 second clip at 44,100 Hz with 16 bits per sample needs 7,056,000 bits (882,000 bytes). The same clip at 8,000 Hz with 8
+bits per sample needs 640,000 bits (80,000 bytes). The second file is smaller because it has fewer samples each second and
+fewer bits for each sample, but it loses detail, so the sound is less accurate.
+
 ## Common mistakes
 
 - Using minutes in the formula instead of **seconds**.

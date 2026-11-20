@@ -98,6 +98,17 @@ stops when a pass makes no swaps makes 14 comparisons in 2 passes. Always say wh
 
 Sentence frame: "A is more efficient than B because it ..., so for ... items it needs about ... steps rather than ...".
 
+## Model answer
+
+**Compare the efficiency of a linear search and a binary search of a sorted list of 1,000 items. [4 marks]**
+
+A linear search checks the items one at a time, so it may need up to 1,000 comparisons. A binary search compares the
+target with the middle item and discards half of the list each time, so it needs at most 10 comparisons. Binary search
+is therefore more time efficient for a large list. It can only be used if the list is sorted.
+
+Notice the four ingredients: both algorithms named, the method of each, a number of steps for the same data, and a
+conclusion with its condition.
+
 ## Exam traps
 
 - **Counting lines of code.** Short code can still do a lot of work.

@@ -24,7 +24,7 @@ featured: false
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
 > and they do **not** replicate the exam's exact structure, question count or
-> mark tariffs — examination boards hold copyright in their own papers. Use
+> mark tariffs; examination boards hold copyright in their own papers. Use
 > these alongside the official past papers available free from your board.
 
 Related: [Methods to detect and prevent cyber security threats study guide](/resources/oxfordaqa-igcse-computer-science-9210-methods-to-detect-and-prevent-cyber-security-threats/) | [Methods to detect and prevent cyber security threats revision notes](/resources/oxfordaqa-igcse-computer-science-9210-methods-to-detect-and-prevent-cyber-security-threats-revision-notes/)

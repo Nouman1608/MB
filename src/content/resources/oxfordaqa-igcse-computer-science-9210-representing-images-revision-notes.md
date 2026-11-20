@@ -119,6 +119,13 @@ Example: 4 × 4, 1-bit, 0 = white, 1 = black, data `0110 1001 1001 0110`:
 
 Example: a 3 × 2 image with rows black, white, black and white, black, white (black = 1) gives `101 010`.
 
+## Model answer
+
+**Describe how the number of pixels and the colour depth affect the file size of a bitmap. [4 marks]** File size is width ×
+height × colour depth. More pixels means more values to store, so the file is larger; for example doubling both the width
+and the height gives four times as many pixels and a file four times as large. A higher colour depth means more bits for
+each pixel, so the file is larger; reducing 24 bits to 8 bits makes the file one third of the size.
+
 ## Exam traps
 
 - **No division by 8** when bytes are wanted.

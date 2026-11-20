@@ -105,6 +105,15 @@ They are often used **together**: a client-side check for quick feedback, then a
 | Check that a username is unused | Server-side | Needs the server's list of users |
 | Enlarge an image on mouse-over | Client-side | Happens in the browser |
 
+## Model answers
+
+**Explain the difference between server-side and client-side scripting. [4 marks]** A server-side script runs on the web
+server and generates the HTML page that is sent to the browser, for example using data from a database. A client-side script
+is sent to the browser and runs on the user's computer, adding functionality such as checking a form or an interactive menu.
+
+**State one reason for using both. [1 mark]** The client-side script gives an instant response, and the server-side script
+checks and processes the data securely.
+
 ## Exam traps
 
 - **HTML called a programming language.** It is a markup language.

@@ -119,6 +119,11 @@ if the original files are lost, damaged or deleted.
 | Is it a maintenance tool (clean-up, backup, scan)? | Utility, so system software |
 | Does it let the OS talk to a device? | Device driver, so system software |
 
+## Examples to remember
+
+Application software: word processor, spreadsheet, browser, game. System software: operating system, device driver, anti-virus,
+backup, defragmenter, compression utility.
+
 ## Exam traps
 
 - **OS described as hardware.** It is software.

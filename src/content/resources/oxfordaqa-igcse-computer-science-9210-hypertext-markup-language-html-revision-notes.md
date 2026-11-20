@@ -156,6 +156,12 @@ p {
 | A style on only some paragraphs | Class selector, such as `.notice` |
 | A style on part of a line | `<span class="...">` |
 
+## Reading a page: what is displayed?
+
+For each tag and rule, write one effect: `<h1>` gives a large heading; a rule `h1 { color: blue; }` makes it blue; `<p
+class="note">` gives a paragraph in the style of the class note; `<strong>` makes bold text; `<ul>` with `<li>` items gives
+bullets. Listing the effects in the order of the page earns the marks.
+
 ## Exam traps
 
 - **A closing tag missing**, or tags closed in the wrong order.

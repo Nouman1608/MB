@@ -165,14 +165,6 @@ moving parts**. You do not need to know the precise details of how the circuits 
 - **Advantages:** very fast access; durable because there are no moving parts; silent; light and low power.
 - **Disadvantages:** higher cost per gigabyte than magnetic storage; each memory cell can be rewritten only a limited number of times.
 
-### Choosing storage
-
-| Situation | Suitable storage | Reason |
-|---|---|---|
-| A phone or tablet | Solid state | Small, light, robust, low power |
-| A server that stores huge amounts of data cheaply | Magnetic | Low cost per gigabyte, large capacity |
-| A film sold in shops | Optical | Cheap to produce and distribute |
-
 ## Cloud storage
 
 **Cloud storage** means saving data on **remote servers**, accessed through the internet. The servers use magnetic and,

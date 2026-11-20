@@ -88,6 +88,29 @@ AI systems can be trained on large numbers of medical images or records to help 
 
 Accuracy alone can mislead. A useless system that said "healthy" to everyone would score 950 / 1,000 = 95%, yet find no ill patients. The 5 missed cases and 20 false alarms both matter: a miss delays treatment, and a false alarm causes worry and unnecessary tests.
 
+## Search systems in more detail
+
+A search system has to decide which of millions of pages best matches a short query. A very simple scoring rule might give 2 points for each query word found in a page's title and 1 point for each time a query word appears in the body. For the query "solar panel cost", suppose three pages score as follows.
+
+| Page | Query words in title | Query words in body | Score (2 × title + 1 × body) |
+|---|---|---|---|
+| Page 1 | 2 | 3 | 7 |
+| Page 2 | 1 | 6 | 8 |
+| Page 3 | 0 | 9 | 9 |
+
+Page 3 would be ranked first, even though a person might judge Page 1 the most useful. This is the weakness of a fixed rule. An AI search system instead **learns what counts as relevant** from large amounts of data, such as which results people choose, and combines many signals, so the ranking is adjusted by experience rather than by one formula written by a programmer.
+
+## Evaluating an application
+
+For any application you may be asked to judge how well it works. A balanced answer covers four points.
+
+| Point | Question to ask | Example |
+|---|---|---|
+| Quality of results | How often is it right, and what kinds of mistake does it make? | A diagnosis tool that misses 5 of 50 ill patients |
+| Data | What was it trained on, and does that match the people it is used on? | A recommendation system trained mostly on one age group |
+| Scope | Is it working inside the narrow field it was built for? | A chess program asked to give medical advice |
+| Oversight | Does a person check important decisions? | A clinician confirming a flagged scan |
+
 ## Linking applications to characteristics
 
 When you describe an application, show that it matches the characteristics: it solves a complex problem; it uses a method like a human's or gets a result at least as good; it works in a narrow field; and it relies on data, usually a very large amount.

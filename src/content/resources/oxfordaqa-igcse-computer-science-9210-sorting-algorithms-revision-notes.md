@@ -116,6 +116,14 @@ Comparisons for a reverse-ordered list: 100 items need 9,900 for bubble sort and
 - **Merge, advantages:** far fewer comparisons on long lists; similar speed whatever the starting order.
 - **Merge, disadvantages:** more complicated; uses extra memory for the sub-lists.
 
+## Pseudocode checklist for bubble sort
+
+- Outer loop repeats until a pass has no swaps.
+- The flag is reset to False at the start of each pass.
+- Inner `FOR` loop runs to `LEN(data) - 2`, so that `data[i + 1]` always exists.
+- A temporary variable is used for the swap.
+- The flag is set to True inside the `IF`.
+
 ## Exam traps
 
 - **"Compares every item with every other."** Bubble sort compares **adjacent** items only.

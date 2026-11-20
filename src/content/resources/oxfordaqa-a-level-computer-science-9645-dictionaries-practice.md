@@ -75,11 +75,11 @@ State the output. **[4]**
 **9.** The dictionary below stores facts about employees, keyed by employee number.
 
 ```python
-staff = {"E1": {"name": "Rao", "dept": "IT", "pay": 2400},
-         "E2": {"name": "Lin", "dept": "HR", "pay": 2100}}
+staff = {"EM1": {"name": "Rao", "dept": "IT", "pay": 2400},
+         "EM2": {"name": "Lin", "dept": "HR", "pay": 2100}}
 ```
 
-**(a)** Write an expression that gives the department of employee E2. **[1]**
+**(a)** Write an expression that gives the department of employee EM2. **[1]**
 **(b)** Write an expression that gives the total pay of both employees. **[2]**
 
 **10.** A program must store the phone number for each of 200 students and find the number from a student's name. Compare using a dictionary with using two parallel lists (a list of names and a list of numbers). **[4]**
@@ -127,8 +127,8 @@ The output is `{'b': 1, 'a': 3, 'n': 2}` [1]. (Accept an `if ch in counts` / `el
 
 **8.** Example answer: `print(" ".join(names[d] for d in "407"))` [2 for looking up each digit and joining the words with spaces]. The output is `four zero seven` [1]. **[3]**
 
-**9. (a)** `staff["E2"]["dept"]` [1]
-**(b)** `staff["E1"]["pay"] + staff["E2"]["pay"]` [1] which gives 4500 [1]. **[2]**
+**9. (a)** `staff["EM2"]["dept"]` [1]
+**(b)** `staff["EM1"]["pay"] + staff["EM2"]["pay"]` [1] which gives 4500 [1]. **[2]**
 
 **10.** Dictionary: the name is the key and the number is the value, so a number is found directly from the name with a single look-up [1]. Parallel lists: the program must search the names list to find the position of the name, then use that position in the numbers list [1]. The dictionary needs less code and gives fewer opportunities for mistakes, and look-ups are usually much faster for 200 students [1]. With lists the two must be kept in step when students are added or removed, whereas a dictionary keeps each name with its number [1]. **[4]**
 

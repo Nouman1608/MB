@@ -112,6 +112,15 @@ Show the byte 1011 0110 in hex and decimal.
 - Hex: **B6**.
 - Decimal check: (11 × 16) + 6 = 182. Using binary place values: 128 + 32 + 16 + 4 + 2 = 182.
 
+## Model answers
+
+**Explain why computers use binary. [3 marks]** Computers are built from transistors, which are switches that are either on
+or off, giving two states. Two states are easy to tell apart, so the circuits are reliable, and they are simple and cheap to
+build.
+
+**Explain why programmers use hexadecimal. [2 marks]** It is shorter than binary, because one hex digit represents four
+bits, and it is easier for people to read and to copy without mistakes.
+
 ## Exam traps
 
 - **"Binary is easy for computers"** with no mention of two states, on and off.

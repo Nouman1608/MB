@@ -158,6 +158,21 @@ photograph is a few MB. A film is several GB. A large archive of video may be se
 sizes helps you check that a calculated answer is reasonable. If your calculation says that a photograph is 5 TB, you
 know a mistake has been made.
 
+## Quick reference
+
+| To change | Do this |
+|---|---|
+| bytes to kilobytes | divide by 1,000 |
+| kilobytes to megabytes | divide by 1,000 |
+| megabytes to gigabytes | divide by 1,000 |
+| gigabytes to megabytes | multiply by 1,000 |
+| megabytes to kilobytes | multiply by 1,000 |
+| bytes to bits | multiply by 8 |
+| bits to bytes | divide by 8 |
+
+A check that always works: a bigger unit gives a smaller number, and a smaller unit gives a bigger number. If you change
+from megabytes to kilobytes and the number gets smaller, the conversion is wrong.
+
 ## Common mistakes
 
 - Mixing up **b** and **B**. The same quantity is eight times larger when measured in bits than in bytes, so always

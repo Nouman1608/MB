@@ -113,6 +113,13 @@ Doubling the rate, the resolution or the time doubles the file size. Doubling tw
 A full-mark description has three points: the amplitude of the wave is measured at regular intervals; each
 measurement (sample) is stored as a binary number; and the number of measurements per second is the sampling rate.
 
+## Model answer
+
+**Explain how an analogue sound is stored as a digital file. [4 marks]** The amplitude of the sound wave is measured at
+regular intervals (sampled). Each measurement is rounded to the nearest level that can be stored, and written as a binary
+number using the sample resolution. The number of samples taken each second is the sampling rate. The list of binary numbers
+is the digital recording.
+
 ## Exam traps
 
 - **Minutes used instead of seconds.**

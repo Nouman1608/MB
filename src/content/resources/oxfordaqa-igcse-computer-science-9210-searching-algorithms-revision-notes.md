@@ -112,6 +112,23 @@ comparison halves the remaining list.
 - **Binary, advantages:** very few comparisons, even for large lists.
 - **Binary, disadvantages:** data must be sorted first; more complex code.
 
+## Model answers
+
+**Explain how a binary search finds a value in a sorted list. [4 marks]** The middle item of the list is compared with the
+target. If it matches, the search stops. If the middle item is smaller than the target, the lower half is discarded; if it is
+larger, the upper half is discarded. The process repeats on the half that is left until the item is found or no items
+remain.
+
+**Compare linear and binary search. [4 marks]** Linear search works on unsorted data and is simple, but is slow on long
+lists. Binary search needs far fewer comparisons, but the list must be sorted first and the algorithm is harder to write.
+
+## Trace table checklist
+
+- Columns: low, high, mid, data[mid].
+- One row for every pass of the loop.
+- Update low or high from the decision in the row above.
+- Stop when the item is found or when low is greater than high.
+
 ## Exam traps
 
 - **Binary search on an unsorted list.** It can miss an item that is present. For `[9, 2, 7, 4, 1]` and target 2 it

@@ -116,6 +116,12 @@ Stores **frequency/data pairs**: how many times, then the value.
 | Best for | Text with uneven character frequencies | Long runs of the same value |
 | Needs | The tree to decode | Pairs only |
 
+## Model answer
+
+**Explain how run length encoding compresses 0000011100000011. [3 marks]** The row has runs of identical values. Each run is
+stored as a frequency and a value: five 0s, three 1s, six 0s and two 1s, giving 5 0 3 1 6 0 2 1. Eight numbers are stored
+instead of 16 separate bits.
+
 ## Exam traps
 
 - **Joining the highest frequencies.** Always join the two lowest.

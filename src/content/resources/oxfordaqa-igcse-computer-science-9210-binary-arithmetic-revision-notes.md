@@ -97,6 +97,12 @@ A shift moves all the bits sideways. Empty places are filled with **0**. Bits sh
 Sentence to use: "A left shift by n places multiplies by 2 to the power n; a right shift by n places divides by 2 to
 the power n."
 
+## Checking by converting to decimal
+
+Convert both numbers and the answer to decimal. For 0100 1101 + 0101 0101, 77 + 85 = 162, and 1010 0010 = 128 + 32 + 2 =
+162, so the addition is right. For a shift, multiply or divide by the power of 2 and compare: 0000 0101 shifted left by 3 is
+5 × 8 = 40 = 0010 1000.
+
 ## Exam traps
 
 - **Forgetting a carry.** 1 + 1 is 0 with a carry of 1.
