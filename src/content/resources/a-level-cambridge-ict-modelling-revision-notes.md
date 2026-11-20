@@ -14,6 +14,9 @@ order: 9
 syllabusTopics:
   - qualification: "a-level"
     topic: "modelling"
+  - qualification: "a-level"
+    topic: "modelling"
+    subtopic: "modelling-and-simulations"
 description: "Revision notes for Cambridge AS & A Level IT 9626 Modelling: what-if and goal seek steps, uses, model strengths and limits, and a quick self-test."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"

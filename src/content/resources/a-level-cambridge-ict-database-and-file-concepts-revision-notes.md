@@ -14,6 +14,9 @@ order: 10
 syllabusTopics:
   - qualification: "a-level"
     topic: "database-and-file-concepts"
+  - qualification: "a-level"
+    topic: "database-and-file-concepts"
+    subtopic: "creating-a-database"
 description: "Revision notes for Cambridge AS & A Level IT 9626 Database and file concepts: keys, query types, normal forms, data dictionaries and DBMS types."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"

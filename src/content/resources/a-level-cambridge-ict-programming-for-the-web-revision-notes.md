@@ -14,6 +14,9 @@ order: 21
 syllabusTopics:
   - qualification: "a-level"
     topic: "programming-for-the-web"
+  - qualification: "a-level"
+    topic: "programming-for-the-web"
+    subtopic: "programming-for-the-web-content"
 description: "Revision notes for Cambridge A Level IT 9626 Programming for the web: JavaScript syntax tables, events, popups, loops, timers and a quick self-test."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"

@@ -14,6 +14,9 @@ order: 13
 syllabusTopics:
   - qualification: "a-level"
     topic: "new-and-emerging-technologies"
+  - qualification: "a-level"
+    topic: "new-and-emerging-technologies"
+    subtopic: "new-and-emerging-technologies-content"
 description: "Revision notes on new and emerging technologies for Cambridge A Level IT 9626: one-line definitions, impact grids, key distinctions and a quick self-test."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"

@@ -14,6 +14,9 @@ order: 4
 syllabusTopics:
   - qualification: "a-level"
     topic: "algorithms-and-flowcharts"
+  - qualification: "a-level"
+    topic: "algorithms-and-flowcharts"
+    subtopic: "algorithms"
 description: "Revision notes for Cambridge 9626 IT Topic 4: pseudocode keywords, loop choice, trace tables, flowchart symbols, error spotting and a quick self-test."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"

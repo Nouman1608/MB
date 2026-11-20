@@ -14,6 +14,9 @@ order: 20
 syllabusTopics:
   - qualification: "a-level"
     topic: "animation"
+  - qualification: "a-level"
+    topic: "animation"
+    subtopic: "animation-content"
 description: "Revision notes for Cambridge A Level IT 9626 Animation: key terms, tweening and frame-rate methods, animation types compared, and a quick self-test."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
