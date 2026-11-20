@@ -90,6 +90,18 @@ Each region may be used once per response, so a response using Poland and Britai
 - **Pattern:** movements with a broad coalition and international attention often did better.
 - **Exception:** Solidarity's success depended on wider changes in the Soviet bloc, not on its own strength alone.
 
+## Worked example: a paragraph for part (b)
+
+Question: "To what extent did violent methods help popular movements to achieve their aims?"
+
+"Violent methods had mixed results. The suffragettes' arson campaign of 1912 to 1914 gained publicity, but the government's response, including the Cat and Mouse Act, and public criticism meant that the vote was not granted until after the First World War, when women's war work shifted opinion. In South Africa, Umkhonto we Sizwe's sabotage after 1961 showed that the ANC would not accept apartheid, but the movement's greatest gains came from mass protest, international sanctions and negotiation in the 1980s and early 1990s. Violence, in both cases, attracted attention and exposed the state's response, but it was rarely the decisive factor."
+
+The paragraph draws on Europe and Africa, links the examples and gives a judgement. Note that a historian may argue that suffragette violence was more or less effective, and the paragraph does not claim certainty.
+
+## Writing part (a)
+
+Part (a) is a 4-mark short response on one example. Choose the example you know best, identify it, give two or three accurate details and explain how they answer the question. For instance, to explain a non-violent method: the Montgomery bus boycott began on 5 December 1955 after the arrest of Rosa Parks, Black residents refused to use the buses for over a year, the city's bus company lost income, and in 1956 the Supreme Court upheld a ruling that segregated buses were unconstitutional.
+
 ## Common mistakes
 
 - Telling the story of one movement and not answering the question.

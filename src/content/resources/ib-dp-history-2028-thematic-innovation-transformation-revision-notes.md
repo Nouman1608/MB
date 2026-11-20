@@ -116,6 +116,30 @@ Question: "Evaluate the extent to which economic factors explain why innovations
 - Paragraph 3 (Middle East): patronage and scholarship drove Abbasid innovation in a culture of translation.
 - Conclusion: economic factors set the conditions; political and social choices explain the form and timing.
 
+## Key dates and people
+
+| Date or person | Point |
+|---|---|
+| 751 | Battle of Talas; paper-making knowledge reaches the Islamic world (traditional account) |
+| Late eighth century | Paper in Baghdad; translation movement under the Abbasids |
+| 960 to 1279 | Song dynasty; printing, paper money, gunpowder |
+| About 1450 | Gutenberg's printing in Mainz |
+| 1517 | Start of the Reformation |
+| 1769 | Watt's patent for the separate condenser |
+| 1811 to 1816 | Luddite attacks on machinery |
+| 1868 | Meiji Restoration; state-led industrialisation |
+| 1960s | Green Revolution; Norman Borlaug and high-yield wheat |
+
+## Markbands at a glance
+
+| Part | Lower bands | Top band |
+|---|---|---|
+| Section A (6) | Describes the concept with minimal analysis; limited reference to an example | Clearly and accurately analyses the concept, effectively supported by a relevant, specific example |
+| Section B (a) (4) | Identifies (1) or describes (2) a relevant example | Effectively explains a relevant example (4); partial explanation scores 3 |
+| Section B (b) (15) | Unsubstantiated assertions or description, with irrelevant or vague examples and no connections | Consistently analytical, with a reasoned judgement, consistently relevant examples and well-developed connections integrated into the analysis |
+
+Use the time sensibly. Section A is worth 6 marks and section B part (a) 4 marks, so keep them brief, and save most of the 1 hour 45 minutes for the 15-mark essay. Plan the essay in a few minutes before writing.
+
 ## Common mistakes
 
 - Treating innovation as always beneficial.

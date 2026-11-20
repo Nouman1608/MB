@@ -51,6 +51,10 @@ These tasks follow the paper 2 structure for the thematic study of innovation an
 
 **6.** Discuss the view that resistance to innovation was always unsuccessful. Use examples from at least two regions. **[15]**
 
+## Section B: a further short response
+
+**7.** Explain one way in which an innovation affected the environment. **[4]**
+
 ## Answers
 
 **1.** Marking points (6). Credit:
@@ -93,6 +97,8 @@ Bands: 1 to 2 describes the concept with minimal analysis; 3 to 4 partial analys
 - analyse forms of resistance (authorities, popular, traditional ideas, competing innovations) with evidence **[4]**;
 - connect the examples and consider cases where resistance had effects, such as factory legislation after campaigns **[4]**;
 - reach a reasoned judgement on the word "always" **[2]**.
+
+**7.** Marking points (4). Award: identification of a relevant innovation, such as coal-powered industry in Britain or the Green Revolution **[1]**; accurate description of the environmental effect, such as air pollution in industrial towns or falling water tables from intensive irrigation **[1]**; explanation of the link between the innovation and the effect, such as that factories burned large amounts of coal, or that new crop varieties needed irrigation and fertiliser **[1]**; explanation of a wider or longer-term consequence, such as the contribution of coal burning to climate change, or reduced soil quality **[1]**.
 
 ## Frequently asked questions
 

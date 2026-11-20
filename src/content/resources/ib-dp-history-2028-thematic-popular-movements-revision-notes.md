@@ -115,6 +115,34 @@ Question: "To what extent were non-violent methods more effective than violent m
 - Paragraph 4 (Europe): suffragette militancy and its effect: increased attention but also division.
 - Conclusion: non-violence was more effective as a rule, but results depended on the opponent and on international context.
 
+## Key dates and people
+
+| Date or person | Point |
+|---|---|
+| 1913 | Cat and Mouse Act in Britain |
+| 1918 and 1928 | Representation of the People Acts |
+| 1919 | Amritsar massacre |
+| 1930 | Salt March; Gandhi |
+| 1952 | Defiance Campaign in South Africa |
+| 1955 to 1956 | Montgomery bus boycott; Rosa Parks; Martin Luther King Jr |
+| 1960 | Sharpeville |
+| 1963 | March on Washington |
+| 1964 and 1965 | Civil Rights Act; Voting Rights Act |
+| 1967 | Australian referendum |
+| 1980 to 1981 | Solidarity in Gdańsk; martial law |
+| 1992 | Mabo decision |
+| 1994 | First all-race election in South Africa; Nelson Mandela president |
+
+## Markbands at a glance
+
+| Part | Lower bands | Top band |
+|---|---|---|
+| Section A (6) | Describes the concept with minimal analysis; limited reference to an example | Clearly and accurately analyses the concept, effectively supported by a relevant, specific example |
+| Section B (a) (4) | Identifies (1) or describes (2) a relevant example | Effectively explains a relevant example (4); partial explanation scores 3 |
+| Section B (b) (15) | Unsubstantiated assertions or description, with irrelevant or vague examples and no connections | Consistently analytical, with a reasoned judgement, consistently relevant examples and well-developed connections integrated into the analysis |
+
+Use the time sensibly. Section A is worth 6 marks and section B part (a) 4 marks, so keep them brief, and save most of the 1 hour 45 minutes for the 15-mark essay. Plan the essay in a few minutes before writing.
+
 ## Common mistakes
 
 - Narrating one movement.

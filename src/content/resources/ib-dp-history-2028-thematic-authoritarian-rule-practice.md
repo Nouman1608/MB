@@ -51,6 +51,10 @@ These tasks follow the paper 2 structure for the thematic study of authoritarian
 
 **6.** Evaluate the importance of popular resistance in challenging authoritarian rule. Use examples from at least two regions. **[15]**
 
+## Section B: a further short response
+
+**7.** Explain one way in which an external threat challenged an authoritarian regime. **[4]**
+
 ## Answers
 
 **1.** Marking points (6). Credit:
@@ -93,6 +97,8 @@ Bands: 1 to 2 describes the concept with minimal analysis; 3 to 4 partial analys
 - analyse resistance with specific evidence, for example the mass participation and international attention of the Salt March, or the registration of voters and the 1988 plebiscite in Chile **[4]**;
 - compare with other factors (internal opposition, external threats, the cost of ruling) and connect the examples **[4]**;
 - reach a reasoned judgement **[2]**.
+
+**7.** Marking points (4). Award: identification of a relevant regime and threat, such as defeat in war for Nazi Germany **[1]**; accurate description, such as the Allied advance in 1944 and 1945 and the Soviet entry into Berlin **[1]**; explanation of how it ended the regime's control, such as the collapse of the army and state and the death of Hitler in April 1945 **[1]**; explanation of an additional factor or limit, such as that the regime had survived internal opposition and that only defeat in war removed it **[1]**.
 
 ## Frequently asked questions
 

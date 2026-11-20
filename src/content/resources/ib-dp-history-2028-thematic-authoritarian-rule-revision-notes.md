@@ -114,6 +114,33 @@ Question: "To what extent was force the main method by which authoritarian rule 
 - Paragraph 3 (Africa): the Congo Free State relied heavily on force with little attempt at consent, an extreme case.
 - Conclusion: force was the main method where regimes lacked support, while elsewhere other methods carried more weight.
 
+## Key dates and people
+
+| Date or person | Point |
+|---|---|
+| 1885 to 1908 | Congo Free State under Leopold II |
+| 1858 | Crown rule begins in India |
+| 1928 | First Soviet Five-Year Plan |
+| 1930 | Salt March |
+| January 1933 | Hitler becomes Chancellor |
+| March 1933 | Enabling Act |
+| 1935 | Nuremberg Laws |
+| 1937 to 1938 | Great Terror in the USSR |
+| 1958 to 1962 | Great Leap Forward |
+| 11 September 1973 | Coup in Chile |
+| 1988 | Plebiscite in Chile; the "No" side wins |
+| 1990 | Pinochet leaves the presidency |
+
+## Markbands at a glance
+
+| Part | Lower bands | Top band |
+|---|---|---|
+| Section A (6) | Describes the concept with minimal analysis; limited reference to an example | Clearly and accurately analyses the concept, effectively supported by a relevant, specific example |
+| Section B (a) (4) | Identifies (1) or describes (2) a relevant example | Effectively explains a relevant example (4); partial explanation scores 3 |
+| Section B (b) (15) | Unsubstantiated assertions or description, with irrelevant or vague examples and no connections | Consistently analytical, with a reasoned judgement, consistently relevant examples and well-developed connections integrated into the analysis |
+
+Use the time sensibly. Section A is worth 6 marks and section B part (a) 4 marks, so keep them brief, and save most of the 1 hour 45 minutes for the 15-mark essay. Plan the essay in a few minutes before writing.
+
 ## Common mistakes
 
 - Treating all regimes as the same.

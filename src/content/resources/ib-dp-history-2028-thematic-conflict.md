@@ -96,6 +96,18 @@ For the 15-mark essay you need a judgement and connected examples. Ways to conne
 - **Patterns and exceptions:** industrial strength usually mattered, but not in Algeria or Vietnam.
 - **Manifestation in different places:** how leadership worked in a democracy (Lincoln) compared with a revolutionary movement (Mao).
 
+## Worked example: a paragraph for part (b)
+
+Question: "To what extent was technology the most important factor in determining the outcome of conflicts?"
+
+"Technology mattered in the American Civil War, but mainly because of who could use it. The Union's railways and telegraph, and its industry, allowed it to move armies and supplies on a scale the Confederacy could not match, so technology and resources worked together. In the Second World War, radar and the production of aircraft and ships gave the Allies advantages, but the Red Army's victories at Stalingrad and Kursk also depended on mass mobilisation and leadership. By contrast, in Algeria the French army had greater firepower than the FLN, yet it did not win, because the war was decided by political and moral pressure. These examples suggest that technology was rarely decisive on its own; its effect depended on the resources, strategy and politics around it."
+
+The paragraph makes a claim, uses examples from the Americas, Europe and Africa, and connects them through a pattern and an exception. Each example is brief but accurate.
+
+## Writing part (a)
+
+Part (a) is a 4-mark short response on one example. Pick the example you know best for the line of inquiry named. Identify it, give two or three accurate details, then explain how they answer the question. For example, to explain how a leader affected the outcome of the American Civil War: Lincoln chose Grant to command all Union armies in 1864, Grant pressed the Confederacy on several fronts and accepted heavy losses, and this wore down Lee's army until the surrender at Appomattox in April 1865.
+
 ## Common mistakes
 
 - Telling the story of a war, instead of answering the question.

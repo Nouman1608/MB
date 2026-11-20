@@ -88,6 +88,18 @@ Paper 2 lasts 1 hour 45 minutes and is worth 25 marks. Section A (6 marks) asks 
 - **Pattern:** economic crisis and conflict often preceded the emergence of authoritarian rule.
 - **Exception:** Pinochet's regime ended by a plebiscite that it had called.
 
+## Worked example: a paragraph for part (b)
+
+Question: "To what extent did authoritarian regimes depend on force to remain in power?"
+
+"Force was central to all the regimes studied, but few relied on it alone. In Stalin's USSR the NKVD arrested and executed hundreds of thousands during the Great Terror of 1937 to 1938, and the camp system disciplined the population. Yet the regime also built support through industrialisation, education and appeals to national pride. In Nazi Germany, the Gestapo and concentration camps removed opponents, but the regime also used propaganda and early economic recovery to win consent from many. By contrast, in the Congo Free State, force was the main instrument, because the system aimed at extracting rubber with little interest in winning consent. The comparison suggests that force was most dominant where a regime had least need or chance of building support."
+
+The paragraph draws on Europe and Africa, so it meets the two-region requirement. Remember that the Soviet Union and Germany are both in Europe, so they count as one region between them.
+
+## Writing part (a)
+
+Part (a) is a 4-mark short response on one example. Choose the example you know best, identify it, give two or three accurate details and explain how they answer the question. For instance, to explain how a regime used legal methods: the Enabling Act of 23 March 1933 let Hitler's cabinet pass laws without the Reichstag, so he could ban parties and unions with a legal appearance, and the Nuremberg Laws of 1935 then defined citizenship by race.
+
 ## Common mistakes
 
 - Treating all authoritarian regimes as identical.

@@ -89,6 +89,18 @@ Paper 2 lasts 1 hour 45 minutes and carries 25 marks. Section A (6 marks) asks y
 - **Exception:** an innovation that spread more slowly or was resisted, such as Arabic-script printing in the Ottoman world, compared with the quick adoption of print in Europe.
 - **Same theme in different places:** how women's experience of work varied by context.
 
+## Worked example: a paragraph for part (b)
+
+Question: "To what extent were innovations resisted successfully?"
+
+"Resistance rarely stopped innovation, but it could shape how innovation developed. The Luddites of 1811 to 1816 attacked machines in the English textile districts, but the government sent troops and made machine-breaking a capital crime, so the machines spread. In the Ottoman world, the authorities restricted printing in Arabic script for a long period, though historians disagree about how strict and how long the restrictions were, and the first Ottoman Muslim press, run by Ibrahim Muteferrika, was approved in the 1720s. In both cases, resistance slowed or redirected change rather than preventing it, and the contrast between a violent popular protest and an elite policy shows that resistance took different forms."
+
+The paragraph connects Europe and the Middle East, compares the forms of resistance and is careful about a disputed claim.
+
+## Writing part (a)
+
+Part (a) is a 4-mark short response on one example. Choose the example you know best for the line of inquiry named, identify it, give two or three accurate details and explain how they answer the question. For instance, to explain how an innovation affected women: in early cotton mills such as those in Lowell, young women made up much of the workforce, worked long hours for wages lower than men's, and lived in company boarding houses, which gave them earnings and independence but also strict supervision.
+
 ## Common mistakes
 
 - Describing an invention without saying how it transformed society.

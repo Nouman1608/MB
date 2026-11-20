@@ -51,6 +51,10 @@ These tasks follow the paper 2 structure for the thematic study of popular movem
 
 **6.** Evaluate the importance of political factors in the emergence of popular movements. Use examples from at least two regions. **[15]**
 
+## Section B: a further short response
+
+**7.** Explain one way in which violent opposition affected a popular movement. **[4]**
+
 ## Answers
 
 **1.** Marking points (6). Credit:
@@ -93,6 +97,8 @@ Bands: 1 to 2 describes the concept with minimal analysis; 3 to 4 partial analys
 - analyse political factors with specific evidence (denial of voting rights; the Rowlatt Acts) **[4]**;
 - connect the examples and weigh economic and social factors, such as price rises in Poland (Europe) **[4]**;
 - reach a reasoned judgement **[2]**.
+
+**7.** Marking points (4). Award: identification of a relevant movement and event, such as the attack on marchers at Selma in March 1965 **[1]**; accurate description, such as state troopers using clubs and tear gas on marchers on 7 March, known as Bloody Sunday **[1]**; explanation of the effect, such as national television coverage that increased sympathy and pressure on Congress **[1]**; explanation of a limit or cost, such as injuries and fear for the participants, or that violent opposition could also deter some supporters **[1]**.
 
 ## Frequently asked questions
 
