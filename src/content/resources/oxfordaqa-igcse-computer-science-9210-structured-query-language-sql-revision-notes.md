@@ -117,6 +117,34 @@ stock is 0, and the Gel Pen costs 1.30. The final table holds products 101, 102,
 4. Two tables: add the **matching condition**.
 5. Check quotation marks and the semicolon.
 
+## Model answers
+
+**Write a query to show the names of all products with fewer than 100 items in stock. [3 marks]**
+
+```
+SELECT ProductName
+FROM Product
+WHERE Stock < 100;
+```
+
+SELECT with the correct field [1]; FROM with the correct table [1]; WHERE with the correct condition [1].
+
+**Write a statement to remove product 104. [2 marks]**
+
+```
+DELETE FROM Product
+WHERE ProductID = 104;
+```
+
+**Explain what is wrong with `SELECT ProductName FROM Product, Supplier WHERE Town = 'Leeds';`. [2 marks]** There is no
+condition that matches Product.SupplierID with Supplier.SupplierID, so every product is paired with every supplier, and the
+result is not the products that come from Leeds suppliers.
+
+## Reading a query aloud
+
+`SELECT ProductName, Price FROM Product WHERE Stock = 0;` reads as: "show the name and price of every product whose stock is
+0". Translating a query into a sentence is a quick way of checking that it asks the right question.
+
 ## Exam traps
 
 - **No WHERE** in UPDATE or DELETE FROM.
