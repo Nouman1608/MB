@@ -3486,9 +3486,10 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     syllabusCode: '7127', syllabusSeries: '2017-onwards',
     effectiveFrom: '2017', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
-    source: 'AQA — official subject content pages at aqa.org.uk/subjects/accounting/a-level/accounting-7127/specification/subject-content',
-    sourceUrl: 'https://www.aqa.org.uk/subjects/accounting/a-level/accounting-7127/specification/subject-content', verifiedDate: '2026-08-19',
-    notes: 'First teaching 2017. Honest-partial: all 18 named subject-content sections (3.1-3.18) verified in full and in order directly from AQA\'s live specification index. Topic 1 (An introduction to the role of the accountant in business) and Topic 2 (Types of business organisation) confirmed via the full specification PDF, fetched 2026-08-21/2026-09-02, to be genuine flat sections (Topic 1: 3 content statements; Topic 2: business ownership types -- sole traders, partnerships, private and public limited companies -- plus sources of finance for each) with no numbered sub-headings, so their subtopics correctly remain empty arrays; topics 3-18 remain name-only pending the same fetch for their content.',
+    source: 'AQA — official A-level Accounting 7127 specification PDF, subject content sections 3.1 to 3.18',
+    sourceUrl: 'https://www.aqa.org.uk/subjects/accounting/a-level/accounting-7127/specification/subject-content', verifiedDate: '2026-11-20',
+    notes: 'First teaching 2017. All 18 subject-content sections (3.1 to 3.18) checked in full and in order against the AQA specification PDF (Version 1.0, 22 December 2016) on 2026-11-20. Each section is a table of content statements with additional information, and the specification prints no numbered or named sub-headings inside any of them, so every topic correctly has no subtopics.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'An introduction to the role of the accountant in business', slug: 'an-introduction-to-the-role-of-the-accountant-in-business', subtopics: [] },
       { number: 2, name: 'Types of business organisation', slug: 'types-of-business-organisation', subtopics: [] },
