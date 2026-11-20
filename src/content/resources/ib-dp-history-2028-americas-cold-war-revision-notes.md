@@ -117,6 +117,17 @@ reviewNote: "2026-11-20: a historian should confirm figures (Bay of Pigs force, 
 4. Use a perspective (for example orthodox and revisionist views of US motives).
 5. Judge.
 
+## Worked example: planning an answer
+
+Question: "To what extent was fear of communism the main reason for US intervention in Latin America?"
+
+1. Line: anti-communism was the stated and often sincere reason, closely linked with economic and strategic interests.
+2. Evidence for: Guatemala 1954, the Dominican Republic 1965, Chile 1970 to 1973, Nicaragua in the 1980s.
+3. Other motives: United Fruit and Guatemala's land reform; ITT and copper in Chile; security of the Panama Canal.
+4. Perspective: orthodox accounts (defence against communism), revisionist accounts (economic and imperial interests), post-revisionist accounts (mixed motives).
+5. Counter-example: Carter's human rights policy and the Panama Canal Treaties.
+6. Judgement: anti-communism was the language, and economic and strategic interests decided where it was applied.
+
 ## Common mistakes
 
 - Mixing up Bay of Pigs and Missile Crisis.

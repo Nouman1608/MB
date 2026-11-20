@@ -125,6 +125,16 @@ Two 15-mark essays, each from a different regional study. Questions ask you to w
 4. Include a named view (for example, Williams) and test it against evidence.
 5. Judge.
 
+## Worked example: planning an answer
+
+Question: "To what extent did enslaved people themselves bring about the end of slavery in the Americas to 1830?"
+
+1. Line: their actions were essential in some places (Haiti) and a strong pressure everywhere, but abolitionist politics and economics also mattered.
+2. Evidence for: day-to-day resistance, maroon communities, Tacky's War, Demerara, the Haitian Revolution and its effect on planters' fear.
+3. Other factors: abolitionist campaigns, Quakers and evangelicals, the 1807 Act, British naval action, changing economic arguments.
+4. Perspective: Williams (economic change), Drescher (campaigning and politics), and writers who stress the agency of the enslaved.
+5. Judgement: resistance shaped the timing and the terms, and in Haiti it was decisive, while elsewhere it worked with political action in Europe.
+
 ## Common mistakes
 
 - Treating all colonial systems as one.

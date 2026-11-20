@@ -123,6 +123,16 @@ Success: legal equality on paper, Black political participation, schools. Failur
 4. Consider the counter-argument.
 5. Judge.
 
+## Worked example: planning an answer
+
+Question: "To what extent was Lincoln the main reason for the Union victory?"
+
+1. Line: Lincoln was important, but resources and military and social factors were as vital.
+2. For Lincoln: held the border states, kept the coalition together, chose Grant, issued the Emancipation Proclamation, kept foreign powers out.
+3. Other factors: the Union's population, industry and railways; the blockade; Black soldiers; Confederate weaknesses (states' rights, shortage of resources).
+4. Perspective: those who stress leadership against those who stress resources; Union victory as inevitable or contingent.
+5. Judgement: resources made victory possible, and leadership, especially emancipation, turned potential into victory.
+
 ## Common mistakes
 
 - Equating states' rights with a cause separate from slavery.

@@ -105,6 +105,17 @@ reviewNote: "2026-11-20: a historian should confirm voter registration figures, 
 4. Compare the two movements if the question allows.
 5. Judge.
 
+## Worked example: planning an answer
+
+Question: "To what extent did grassroots organisation, rather than national leadership, drive the success of the civil rights movement?"
+
+1. Line: grassroots work built the movement and national leaders gave it focus and access to power.
+2. Grassroots evidence: Ella Baker and SNCC, local women in Montgomery, Freedom Summer volunteers, church networks, voter registration in Mississippi.
+3. National leadership evidence: King and the SCLC, the March on Washington, Johnson's use of Selma to pass the Voting Rights Act.
+4. Perspective: the "long civil rights movement" view stresses local, long-running struggles; older accounts focus on King and Washington.
+5. Judgement: neither alone was enough; local organisation made protest possible and national leaders turned it into law.
+6. Test the line against the second movement: the UFW also combined local organising (Delano) with national leaders (Chávez and Huerta) and a national boycott.
+
 ## Common mistakes
 
 - Making King the only leader.

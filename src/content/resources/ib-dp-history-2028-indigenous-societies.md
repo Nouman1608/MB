@@ -32,7 +32,6 @@ The guide gives six inquiry topics for this study. They are: how political autho
 
 ## Key chronology
 
-- About 750 to 900: peak and then collapse of many southern Maya lowland city-states.
 - About 1325: the Mexica found Tenochtitlan on an island in Lake Texcoco.
 - 1428: Tenochtitlan, Texcoco and Tlacopan form the Triple Alliance and defeat Azcapotzalco.
 - About 1438 onward: Pachacuti begins the rapid expansion of the Inca state from Cusco.
@@ -65,10 +64,6 @@ The guide gives six inquiry topics for this study. They are: how political autho
 ## Social organisation
 
 **Hierarchies and gender.** Aztec society was ranked: the ruler and nobles (**pipiltin**), commoners (**macehualtin**), dependent workers, and enslaved people (often debtors or criminals, and not an inherited status). Inca society had the Sapa Inca and royal kin at the top, then provincial lords, then ordinary households grouped in the ayllu. Women's work in both was vital, especially weaving, which produced the cloth used for tribute. Gender roles were complementary but unequal. Aztec girls and boys were trained for different roles, and women could be priestesses, midwives and traders, but not rulers. Among the Haudenosaunee, descent was **matrilineal**, and women controlled the longhouse and much of the farming. This made them unusually influential.
-
-**Family and kinship.** The household was the base unit of tribute and labour in every case. Inca marriage was arranged by officials in some cases, which shows how the state reached into family life. Aztec boys went to one of two kinds of school, the **telpochcalli** for most and the **calmecac** for nobles.
-
-**Identity.** Ethnic and local identity remained strong inside empires. Imperial rulers imposed a state language (Quechua for the Inca, Nahuatl for the Aztec) but allowed local gods and customs to continue when they did not threaten the state. This tolerance helped rule, but it also left conquered peoples with their own loyalties.
 
 ## The impact of warfare
 
@@ -119,9 +114,6 @@ No. Choose one in depth. A second can help with comparison, but it is not requir
 
 **Is the Spanish conquest part of this study?**
 Not as a topic. It belongs to the next study. Use it only to explain what the society was like before it.
-
-**How precise do dates need to be?**
-Know the main periods and a few firm dates, and say "about" when unsure.
 
 ## Official syllabus
 

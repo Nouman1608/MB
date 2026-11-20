@@ -115,6 +115,18 @@ Historians: Galbraith (speculation and structure), Friedman and Schwartz (moneta
 4. Compare with a second country where relevant.
 5. Judge.
 
+## Worked example: planning an answer
+
+Question: "To what extent was the New Deal successful in dealing with the effects of the Great Depression?"
+
+1. Line: it was successful in relief and reform and less so in recovery.
+2. Relief: CCC, WPA, FERA gave work to millions.
+3. Reform: FDIC, SEC, Social Security and the Wagner Act created lasting protection.
+4. Recovery: GDP grew from 1933, but unemployment stayed high and the 1937 to 1938 recession followed spending cuts.
+5. Perspective: Schlesinger and Leuchtenburg (success), critics on the left (too little) and the right (prolonged the slump).
+6. Compare: Bennett's late "New Deal" in Canada or Vargas in Brazil.
+7. Judgement: success is clearest in reform and in confidence, and war ended the Depression.
+
 ## Common mistakes
 
 - Listing New Deal agencies without judging them.

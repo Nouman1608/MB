@@ -64,7 +64,7 @@ The six topics are: US politics 1961 to 1977; US politics 1977 to 2001; US polit
 
 **The 2008 financial crisis.** The collapse of the housing bubble and the failure of Lehman Brothers (September 2008) led to a deep recession. Bush and Congress passed a $700 billion bank rescue (TARP). Barack Obama, elected in 2008, passed a stimulus (2009), the Affordable Care Act (2010) and the Dodd-Frank financial reforms. Critics on the right formed the Tea Party movement.
 
-**Growth of political division.** Polarisation increased along lines of party, region, race and education. Factors included partisan media, social media, gerrymandering, campaign money after *Citizens United* (2010) and disputes over health care, immigration and race. Donald Trump, elected in 2016, ran against the political establishment, cut taxes (2017), tightened immigration and was impeached in 2019, but acquitted in 2020. The COVID-19 pandemic and protests over racial injustice marked 2020.
+**Growth of political division.** Polarisation increased along lines of party, region, race and education. Factors included partisan media, social media, gerrymandering, campaign money after *Citizens United* (2010) and disputes over health care, immigration and race. Donald Trump, elected in 2016, ran against the political establishment, cut taxes (2017), tightened immigration and was impeached in 2019, but acquitted in 2020. The coronavirus pandemic and protests over racial injustice marked 2020.
 
 **Roles of leaders.** Bush: security and tax cuts, undermined by Iraq and the crisis. Obama: first Black president, reform of health care, but facing opposition. Trump: populist style and sharp polarisation.
 

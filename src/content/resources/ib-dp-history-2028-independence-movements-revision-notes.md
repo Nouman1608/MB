@@ -116,6 +116,17 @@ featured: false
 4. Use one comparison with another country to test your claim.
 5. Conclude with a clear judgement.
 
+## Worked example: planning an answer
+
+Question: "To what extent was foreign support the main reason for the success of one independence movement?"
+
+1. Choose the country (for example the USA) and state a line: foreign help was crucial at key moments but not the main cause.
+2. Foreign support: the French alliance (1778), loans, the fleet at Yorktown.
+3. Other reasons: Washington's strategy and survival, local militias, Saratoga, British overstretch and the distance from Britain.
+4. Compare: Bolívar's British volunteers and the Andes campaign; Haiti, which had little foreign help.
+5. Perspective: historians who stress ideas and leadership against those who stress international circumstances.
+6. Judgement: foreign help turned a stalemate into victory, but without American resistance it would have had nothing to build on.
+
 ## Common mistakes
 
 - Narrating battles.

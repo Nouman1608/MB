@@ -120,6 +120,17 @@ reviewNote: "2026-11-20: a historian should confirm approximate figures (US rail
 4. Bring in a perspective.
 5. Conclude with a judgement.
 
+## Worked example: planning an answer
+
+Question: "To what extent did economic transformation shape the formation of one modern nation between 1860 and 1929?"
+
+1. Choose the country (for example the USA) and state a line: economic change was the base, but politics and ideas decided who benefited.
+2. Economic evidence: railways (about 30,000 miles in 1860 to about 190,000 in 1900), steel and oil, urbanisation, immigrant labour.
+3. Political and social evidence: Progressive reforms, the 19th Amendment, Jim Crow, labour conflict.
+4. Ideas: Social Darwinism and nativism versus Progressivism.
+5. Perspective: Turner's frontier thesis and its critics; dependency arguments if you use Argentina.
+6. Judgement: economic change set the pace, but the type of nation depended on political choices and on who was excluded.
+
 ## Common mistakes
 
 - Several countries, thin evidence.

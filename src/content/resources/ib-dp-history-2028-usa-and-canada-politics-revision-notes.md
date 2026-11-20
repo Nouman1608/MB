@@ -81,7 +81,7 @@ reviewNote: "2026-11-20: a historian should confirm dates and figures (referendu
 |---|---|
 | G. W. Bush | 9/11; Afghanistan and Iraq; Patriot Act; DHS; tax cuts; 2008 crisis and TARP |
 | Obama | Stimulus (2009); ACA (2010); Dodd-Frank; Tea Party opposition |
-| Trump | Populism; tax cuts (2017); immigration; impeached 2019; COVID-19 and protests in 2020 |
+| Trump | Populism; tax cuts (2017); immigration; impeached 2019; the coronavirus pandemic and protests in 2020 |
 
 Causes of polarisation: partisan media, social media, gerrymandering, campaign money (*Citizens United*), disputes over health care, immigration and race.
 
@@ -124,6 +124,16 @@ Causes of polarisation: partisan media, social media, gerrymandering, campaign m
 2. Rank two or three factors, with dated evidence.
 3. Bring in a perspective and the counter-argument.
 4. Judge.
+
+## Worked example: planning an answer
+
+Question: "To what extent was the Quiet Revolution the most important development in Canadian politics between 1963 and 1993?"
+
+1. Line: it was the most important source of long-term tension and change, but constitutional and economic issues also shaped the period.
+2. Evidence for: state-led modernisation, the Parti Québécois (1976), Bill 101, the October Crisis, the 1980 referendum, the Meech Lake and Charlottetown failures.
+3. Other developments: medicare and the Canada Pension Plan, the Constitution Act and Charter (1982), the National Energy Program and Western alienation, free trade (1988).
+4. Perspective: historians who see Quebec nationalism as central to national politics and those who stress regional and economic divisions.
+5. Judgement: the Quiet Revolution shaped the agenda of every government, and other developments mattered more for particular groups and regions.
 
 ## Common mistakes
 

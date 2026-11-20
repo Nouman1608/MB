@@ -124,6 +124,17 @@ reviewNote: "2026-11-20: a historian should confirm approximate figures (hectare
 4. Show change and continuity (what remained the same after 1920?).
 5. Judge.
 
+## Worked example: planning an answer
+
+Question: "To what extent was the Constitution of 1917 the most important achievement of the Mexican Revolution?"
+
+1. Line: it was a vital framework, but its importance depended on enforcement under Cárdenas.
+2. Evidence for: Article 27 (land and subsoil), Article 123 (labour), Article 3 (education), and the church provisions.
+3. Limits: Carranza's weak enforcement; the Cristero War; the Maximato.
+4. Other achievements: Cárdenas's land reform (about 18 million hectares), oil nationalisation (1938), the party-state (1929), cultural change.
+5. Perspective: Knight and Womack (real social change) against revisionists (change of elites).
+6. Judgement: the Constitution was the legal base and promise, while the main achievements came when later governments acted on it.
+
 ## Common mistakes
 
 - Confusing Zapata's and Villa's aims.

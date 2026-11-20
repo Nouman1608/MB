@@ -124,6 +124,16 @@ reviewNote: "2026-11-20: a historian should confirm approximate figures (Canadia
 4. Use a perspective.
 5. Judge.
 
+## Worked example: planning an answer
+
+Question: "To what extent was the First World War a turning point in the global role of the USA or Canada?"
+
+1. Choose the country and state a line: for the USA, entry in 1917 was a turning point in power but not in policy; for Canada, the war was a turning point in status.
+2. USA evidence: troops and finance, Wilson's Fourteen Points, the Senate's rejection of Versailles, withdrawal to a more limited role.
+3. Canada evidence: Vimy Ridge, a separate seat at Paris, League membership, the conscription crisis, later autonomy (1922 and 1931).
+4. Continuity: before 1914, the US already acted in the Caribbean; Canada's foreign policy was still tied to Britain until the 1920s.
+5. Judgement: the war accelerated a change that was already under way.
+
 ## Common mistakes
 
 - Treating the Spanish-American War as all of US policy.

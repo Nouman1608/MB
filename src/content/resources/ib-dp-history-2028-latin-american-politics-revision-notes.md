@@ -123,6 +123,17 @@ reviewNote: "2026-11-20: a historian should confirm figures (Argentine disappear
 4. Compare with a second country for contrast.
 5. Judge.
 
+## Worked example: planning an answer
+
+Question: "To what extent did repression, rather than popular support, explain how a military dictatorship stayed in power?"
+
+1. Line: repression was the main tool, but some groups gave support, and economic and ideological arguments helped.
+2. Repression: secret detention, disappearances, banned parties and unions, censorship (Argentina 1976 to 1983).
+3. Support: parts of the middle class and business who feared guerrillas and inflation; the language of national security.
+4. Economic factors: free-market policies that weakened unions; the debt that later weakened the regime.
+5. Perspective: those who stress fear and coercion versus those who stress consent among elites. Compare Chile.
+6. Judgement: repression sustained the regime, while limited support and Cold War context gave it room, until economic failure and the Falklands defeat removed both.
+
 ## Common mistakes
 
 - Mixing up Montoneros, ERP and Shining Path.
