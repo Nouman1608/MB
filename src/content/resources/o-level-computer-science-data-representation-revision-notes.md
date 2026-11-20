@@ -13,6 +13,12 @@ order: 1
 syllabusTopics:
   - qualification: "o-level"
     topic: "data-representation-2210"
+  - qualification: "o-level"
+    topic: "data-representation-2210"
+    subtopic: "number-systems-2210"
+  - qualification: "o-level"
+    topic: "data-representation-2210"
+    subtopic: "text-sound-and-images-2210"
 description: "Recall notes for Cambridge O Level Computer Science 2210 Topic 1: binary, hex, two's complement, shifts, character sets, images, sound, storage and compression."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
