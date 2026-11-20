@@ -13,6 +13,9 @@ order: 9
 syllabusTopics:
   - qualification: "o-level"
     topic: "human-gas-exchange"
+  - qualification: "o-level"
+    topic: "human-gas-exchange"
+    subtopic: "human-gas-exchange-content"
 description: "Condensed notes on alveoli, air composition, breathing mechanics, exercise and airway defence for Cambridge O Level Biology 5090, plus a self-test."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

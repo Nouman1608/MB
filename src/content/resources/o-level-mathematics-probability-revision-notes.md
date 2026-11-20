@@ -13,6 +13,9 @@ order: 524
 syllabusTopics:
   - qualification: "o-level"
     topic: "probability"
+  - qualification: "o-level"
+    topic: "probability"
+    subtopic: "relative-and-expected-frequencies-4024"
 description: "Condensed revision notes for all of Probability in Cambridge O Level Mathematics 4024: formulas, methods, a quick self-test and common lost marks."
 author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"

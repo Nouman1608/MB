@@ -1,11 +1,14 @@
 /**
  * D-444 -- flashcards for Cambridge IGCSE Computer Science 0478 (2026-2028).
  *
- * Topics 1-3 itemise subtopics in syllabus-topics.ts, so their cards use
- * `<subtopic number>-<n>`. Topics 4-10 itemise none, so their cards hang on
- * the topic (topicOnly helper) and use `<topic number>-<n>`. Ids are
- * permanent (browser progress is keyed by them): add a new card with the next
- * unused n, never renumber.
+ * Topics 1-6 and 8 itemise subtopics in syllabus-topics.ts, so their cards use
+ * `<subtopic number>-<n>`. Topics 7, 9 and 10 itemise none, so their cards
+ * hang on the topic (topicOnly helper) and use `<topic number>-<n>`. On
+ * 20 Nov 2026 the cards of topics 4, 5, 6 and 8, which until then sat on the
+ * topic, were re-filed under their subtopics (card text unchanged);
+ * `idMigration` below moves browser progress saved before that onto the new
+ * ids. Ids are permanent (browser progress is keyed by them): add a new card
+ * with the next unused n, never renumber.
  *
  * Not tiered. Written from Marlbridge's own 0478 revision notes and study
  * guides; pseudocode keywords follow the Cambridge pseudocode style used on
@@ -49,7 +52,34 @@ export const DECK_CAMBRIDGE_IGCSE_COMPUTER_SCIENCE: FlashcardDeck = {
   syllabusCode: '0478',
   syllabusSeries: '2026-2028',
   author: 'marlbridge-academic-team',
-  updated: '2026-11-08',
+  updated: '2026-11-20',
+  idMigration: {
+    id: '0478-subtopics-2026-11-20',
+    before: '2026-11-20',
+    map: {
+      '1.1-1': '1.1-1', '1.1-2': '1.1-2', '1.1-3': '1.1-3', '1.1-4': '1.1-4', '1.1-5': '1.1-5', '1.1-6': '1.1-6',
+      '1.1-7': '1.1-7', '1.2-1': '1.2-1', '1.2-2': '1.2-2', '1.2-3': '1.2-3', '1.2-4': '1.2-4', '1.2-5': '1.2-5',
+      '1.2-6': '1.2-6', '1.3-1': '1.3-1', '1.3-2': '1.3-2', '1.3-3': '1.3-3', '1.3-4': '1.3-4', '1.3-5': '1.3-5',
+      '1.3-6': '1.3-6', '1.3-7': '1.3-7', '2.1-1': '2.1-1', '2.1-2': '2.1-2', '2.1-3': '2.1-3', '2.1-4': '2.1-4',
+      '2.1-5': '2.1-5', '2.2-1': '2.2-1', '2.2-2': '2.2-2', '2.2-3': '2.2-3', '2.2-4': '2.2-4', '2.2-5': '2.2-5',
+      '2.2-6': '2.2-6', '2.3-1': '2.3-1', '2.3-2': '2.3-2', '2.3-3': '2.3-3', '2.3-4': '2.3-4', '3.1-1': '3.1-1',
+      '3.1-2': '3.1-2', '3.1-3': '3.1-3', '3.1-4': '3.1-4', '3.1-5': '3.1-5', '3.1-6': '3.1-6', '3.1-7': '3.1-7',
+      '3.2-1': '3.2-1', '3.2-2': '3.2-2', '3.2-3': '3.2-3', '3.2-4': '3.2-4', '3.2-5': '3.2-5', '3.3-1': '3.3-1',
+      '3.3-2': '3.3-2', '3.3-3': '3.3-3', '3.3-4': '3.3-4', '3.3-5': '3.3-5', '3.3-6': '3.3-6', '3.4-1': '3.4-1',
+      '3.4-2': '3.4-2', '3.4-3': '3.4-3', '3.4-4': '3.4-4', '3.4-5': '3.4-5', '3.4-6': '3.4-6', '4-1': '4.1-1',
+      '4-2': '4.1-2', '4-3': '4.1-3', '4-4': '4.1-4', '4-5': '4.1-5', '4-7': '4.2-1', '4-8': '4.2-2',
+      '4-9': '4.2-3', '4-10': '4.2-4', '4-11': '4.1-6', '4-12': '4.1-7', '5-1': '5.1-1', '5-2': '5.1-2',
+      '5-3': '5.1-3', '5-4': '5.1-4', '5-5': '5.1-5', '5-6': '5.2-1', '5-7': '5.3-1', '5-8': '5.3-2',
+      '5-9': '5.3-3', '5-10': '5.3-4', '6-1': '6.1-1', '6-2': '6.1-2', '6-3': '6.1-3', '6-4': '6.1-4',
+      '6-5': '6.2-1', '6-6': '6.2-2', '6-7': '6.3-1', '6-8': '6.3-2', '6-9': '6.3-3', '7-1': '7-1',
+      '7-2': '7-2', '7-3': '7-3', '7-4': '7-4', '7-5': '7-5', '7-6': '7-6', '7-7': '7-7',
+      '7-8': '7-8', '7-9': '7-9', '8-1': '8.1-1', '8-2': '8.1-2', '8-3': '8.1-3', '8-4': '8.1-4',
+      '8-5': '8.1-5', '8-6': '8.1-6', '8-7': '8.1-7', '8-8': '8.1-8', '8-9': '8.2-1', '8-10': '8.3-1',
+      '8-11': '8.1-9', '9-1': '9-1', '9-2': '9-2', '9-3': '9-3', '9-4': '9-4', '9-5': '9-5',
+      '9-6': '9-6', '9-7': '9-7', '9-8': '9-8', '10-1': '10-1', '10-2': '10-2', '10-3': '10-3',
+      '10-4': '10-4', '10-5': '10-5', '10-6': '10-6', '10-7': '10-7', '10-8': '10-8', '10-9': '10-9',
+    },
+  },
   cards: [
     // 1 Data representation
     ...sub(T1, 'number-systems-0478', '1.1', [
@@ -137,45 +167,55 @@ export const DECK_CAMBRIDGE_IGCSE_COMPUTER_SCIENCE: FlashcardDeck = {
     ]),
 
     // 4 Software
-    ...topicOnly('software', 4, [
+    ...sub('software', 'types-of-software-and-interrupts-0478', '4.1', [
       { n: 1, f: 'System software vs application software', b: 'System software manages the computer and provides a platform for other software (operating system, utilities, device drivers, translators). Application software lets the user do a useful task (word processor, spreadsheet, web browser).' },
       { n: 2, f: 'Give five functions of an operating system', b: 'Any five of: managing files; handling interrupts; providing a user interface; managing peripherals and drivers; managing memory; managing multitasking; providing a platform for applications; managing security; managing user accounts.' },
       { n: 3, f: 'What is an interrupt?', b: 'A signal to the processor that something needs attention at once, e.g. a key press, a printer out of paper, a division-by-zero error or a timer. It can come from hardware or software.' },
       { n: 4, f: 'What happens when the processor receives an interrupt?', b: 'At the end of the current fetch-decode-execute cycle it checks for interrupts. If the interrupt has high enough priority, it saves the current state, runs the interrupt service routine, then restores the state and carries on.' },
       { n: 5, f: 'What is a device driver?', b: 'A small program that translates operating system commands into signals that a particular peripheral, such as a printer, understands.' },
-      { n: 7, f: 'High-level vs low-level languages', b: 'High-level (e.g. Python): close to human language, easier to write and debug, not tied to one processor. Low-level (machine code, assembly): close to the processor, gives direct control of hardware and memory, but is processor-specific and harder to write.' },
-      { n: 8, f: 'Compiler vs interpreter', b: 'Compiler: translates the whole program before it runs, creating an executable; reports all errors after translation; runs fast without the translator. Interpreter: translates and runs one statement at a time; stops at the first error; needed every run.' },
-      { n: 9, f: 'What does an assembler do?', b: 'It translates assembly language (mnemonics such as LDA and ADD) into machine code.' },
-      { n: 10, f: 'Name four features of an IDE', b: 'Any four of: code editor (with syntax highlighting, auto-completion, auto-correction and pretty printing); error diagnostics; run-time environment; translator; debugging tools such as breakpoints, stepping and variable watching.' },
-      { n: 11, f: 'How do hardware, firmware and the operating system work together to run an application?', b: 'The bootloader (firmware) is run on the hardware at start-up; it loads the operating system, which runs on the firmware; applications are then run on the operating system.' },
-      { n: 12, f: 'Give the syllabus examples of hardware and software interrupts', b: 'Hardware: pressing a key on the keyboard, moving the mouse. Software: division by zero, two processes trying to access the same memory location.' },
+      { n: 6, f: 'How do hardware, firmware and the operating system work together to run an application?', b: 'The bootloader (firmware) is run on the hardware at start-up; it loads the operating system, which runs on the firmware; applications are then run on the operating system.' },
+      { n: 7, f: 'Give the syllabus examples of hardware and software interrupts', b: 'Hardware: pressing a key on the keyboard, moving the mouse. Software: division by zero, two processes trying to access the same memory location.' },
+    ]),
+    ...sub('software', 'types-of-programming-language-translators-and-integrated-development-environments-ides-0478', '4.2', [
+      { n: 1, f: 'High-level vs low-level languages', b: 'High-level (e.g. Python): close to human language, easier to write and debug, not tied to one processor. Low-level (machine code, assembly): close to the processor, gives direct control of hardware and memory, but is processor-specific and harder to write.' },
+      { n: 2, f: 'Compiler vs interpreter', b: 'Compiler: translates the whole program before it runs, creating an executable; reports all errors after translation; runs fast without the translator. Interpreter: translates and runs one statement at a time; stops at the first error; needed every run.' },
+      { n: 3, f: 'What does an assembler do?', b: 'It translates assembly language (mnemonics such as LDA and ADD) into machine code.' },
+      { n: 4, f: 'Name four features of an IDE', b: 'Any four of: code editor (with syntax highlighting, auto-completion, auto-correction and pretty printing); error diagnostics; run-time environment; translator; debugging tools such as breakpoints, stepping and variable watching.' },
     ]),
 
     // 5 The internet and its uses
-    ...topicOnly('the-internet-and-its-uses', 5, [
+    ...sub('the-internet-and-its-uses', 'the-internet-and-the-world-wide-web-0478', '5.1', [
       { n: 1, f: 'What is the difference between the internet and the World Wide Web?', b: 'The internet is the global network of interconnected networks (the infrastructure). The World Wide Web is a collection of web pages and resources stored on web servers and accessed using the internet.' },
       { n: 2, f: 'What are the parts of a URL?', b: 'The protocol (e.g. https), the domain name (e.g. www.example.com) and usually a path and file name (e.g. /shop/boots.html).' },
       { n: 3, f: 'HTTP vs HTTPS', b: 'HTTP is the protocol used to request and send web pages. HTTPS is the secure version: it encrypts the data using SSL/TLS, so intercepted data cannot be read.' },
       { n: 4, f: 'How does the DNS find a web page?', b: 'The browser sends the domain name to a DNS server, which looks up the matching IP address (asking other DNS servers if needed) and returns it. The browser then requests the page from the web server at that IP address.' },
       { n: 5, f: 'Session cookie vs persistent cookie', b: 'A session cookie is held in memory and deleted when the browser closes, e.g. to keep a shopping basket. A persistent cookie stays on the device until it expires or is deleted, e.g. to remember logins or preferences.' },
-      { n: 6, f: 'What is a blockchain?', b: 'A digital ledger of transactions held as a chain of blocks, shared across many computers. Each block holds transactions, a timestamp, its own hash and the hash of the previous block, so changing a past block breaks the chain and is detected.' },
-      { n: 7, f: 'What is a DDoS attack, and how can it be prevented?', b: 'Distributed denial of service: many computers flood a server with requests so genuine users cannot get through. Defences include a firewall, traffic filtering and proxy servers.' },
-      { n: 8, f: 'Phishing vs pharming', b: 'Phishing: fake emails or messages pretending to be from a trusted source trick the user into giving personal data. Pharming: malicious code redirects the user to a fake website even when the correct URL is typed.' },
-      { n: 9, f: 'What is a brute-force attack, and how is it prevented?', b: 'Trying many passwords or keys in turn until one works. Prevent it with long, complex passwords, a limit on login attempts and two-factor authentication.' },
-      { n: 10, f: 'Name five types of malware', b: 'Any five of: virus, worm, trojan horse, spyware, adware, ransomware.' },
+    ]),
+    ...sub('the-internet-and-its-uses', 'digital-currency-0478', '5.2', [
+      { n: 1, f: 'What is a blockchain?', b: 'A digital ledger of transactions held as a chain of blocks, shared across many computers. Each block holds transactions, a timestamp, its own hash and the hash of the previous block, so changing a past block breaks the chain and is detected.' },
+    ]),
+    ...sub('the-internet-and-its-uses', 'cyber-security-0478', '5.3', [
+      { n: 1, f: 'What is a DDoS attack, and how can it be prevented?', b: 'Distributed denial of service: many computers flood a server with requests so genuine users cannot get through. Defences include a firewall, traffic filtering and proxy servers.' },
+      { n: 2, f: 'Phishing vs pharming', b: 'Phishing: fake emails or messages pretending to be from a trusted source trick the user into giving personal data. Pharming: malicious code redirects the user to a fake website even when the correct URL is typed.' },
+      { n: 3, f: 'What is a brute-force attack, and how is it prevented?', b: 'Trying many passwords or keys in turn until one works. Prevent it with long, complex passwords, a limit on login attempts and two-factor authentication.' },
+      { n: 4, f: 'Name five types of malware', b: 'Any five of: virus, worm, trojan horse, spyware, adware, ransomware.' },
     ]),
 
     // 6 Automated and emerging technologies
-    ...topicOnly('automated-and-emerging-technologies', 6, [
+    ...sub('automated-and-emerging-technologies', 'automated-systems-0478', '6.1', [
       { n: 1, f: 'What are the three main parts of an automated system?', b: 'Sensors measure a physical property. A microprocessor reads the data, compares it with stored values and decides what to do. Actuators carry out the physical action, e.g. a motor, pump or heater.' },
       { n: 2, f: 'Why does an automated system need an ADC?', b: 'Sensors usually produce analogue signals that vary continuously, but the microprocessor can only process digital data, so an analogue-to-digital converter is needed between them.' },
       { n: 3, f: 'Describe the feedback loop in an automated system', b: 'The sensor takes a reading, which is converted to digital. The processor compares it with the preset value and, if action is needed, signals an actuator. The next reading reflects the effect, and the loop repeats continuously.' },
       { n: 4, f: 'Give two advantages and two disadvantages of automated systems', b: 'Advantages: work continuously; consistent quality; faster response; remove people from danger. Disadvantages: high set-up and maintenance cost; job losses; need skilled technicians; a fault can be repeated at speed.' },
-      { n: 5, f: 'What are the characteristics of a robot?', b: 'It has a mechanical structure (such as arms, wheels or legs), electrical components (sensors, motors, a processor), and it is programmable.' },
-      { n: 6, f: 'Give two advantages and two disadvantages of robots in a factory', b: 'Advantages: work non-stop; very consistent and accurate; can work in hazardous places. Disadvantages: high purchase and maintenance cost; cannot cope well with unexpected situations; can cause unemployment.' },
-      { n: 7, f: 'What is artificial intelligence (AI)?', b: 'The ability of a computer system to carry out tasks that normally need human intelligence. An AI system collects data, uses rules to reason about it, and can adapt its behaviour.' },
-      { n: 8, f: 'Knowledge base, rule base and inference engine', b: 'Knowledge base: stores the facts. Rule base: stores the rules, usually IF condition THEN conclusion. Inference engine: applies the rules to the facts to reach a conclusion.' },
-      { n: 9, f: 'What is machine learning?', b: 'A branch of AI in which the system improves its performance by learning from data, rather than being given every rule by a programmer, e.g. a spam filter trained on labelled emails.' },
+    ]),
+    ...sub('automated-and-emerging-technologies', 'robotics-0478', '6.2', [
+      { n: 1, f: 'What are the characteristics of a robot?', b: 'It has a mechanical structure (such as arms, wheels or legs), electrical components (sensors, motors, a processor), and it is programmable.' },
+      { n: 2, f: 'Give two advantages and two disadvantages of robots in a factory', b: 'Advantages: work non-stop; very consistent and accurate; can work in hazardous places. Disadvantages: high purchase and maintenance cost; cannot cope well with unexpected situations; can cause unemployment.' },
+    ]),
+    ...sub('automated-and-emerging-technologies', 'artificial-intelligence-0478', '6.3', [
+      { n: 1, f: 'What is artificial intelligence (AI)?', b: 'The ability of a computer system to carry out tasks that normally need human intelligence. An AI system collects data, uses rules to reason about it, and can adapt its behaviour.' },
+      { n: 2, f: 'Knowledge base, rule base and inference engine', b: 'Knowledge base: stores the facts. Rule base: stores the rules, usually IF condition THEN conclusion. Inference engine: applies the rules to the facts to reach a conclusion.' },
+      { n: 3, f: 'What is machine learning?', b: 'A branch of AI in which the system improves its performance by learning from data, rather than being given every rule by a programmer, e.g. a spam filter trained on labelled emails.' },
     ]),
 
     // 7 Algorithm design and problem-solving
@@ -192,7 +232,7 @@ export const DECK_CAMBRIDGE_IGCSE_COMPUTER_SCIENCE: FlashcardDeck = {
     ]),
 
     // 8 Programming
-    ...topicOnly('programming-0478', 8, [
+    ...sub('programming-0478', 'programming-concepts-0478', '8.1', [
       { n: 1, f: 'Variable vs constant', b: 'A variable is a named memory location whose value can change while the program runs. A constant is a named value fixed for the whole run, so it only needs changing in one place.' },
       { n: 2, f: 'What are the five data types in Cambridge pseudocode?', b: 'INTEGER (whole number), REAL (number with a fractional part), CHAR (a single character), STRING (zero or more characters), BOOLEAN (TRUE or FALSE).' },
       { n: 3, f: 'What are sequence, selection and iteration?', b: 'Sequence: statements run in the order written. Selection: a path is chosen (IF ... THEN ... ELSE ... ENDIF, CASE OF ... ENDCASE). Iteration: statements are repeated (FOR, WHILE, REPEAT loops).' },
@@ -201,9 +241,13 @@ export const DECK_CAMBRIDGE_IGCSE_COMPUTER_SCIENCE: FlashcardDeck = {
       { n: 6, f: 'What do LENGTH, SUBSTRING, UCASE and LCASE do?', b: 'LENGTH returns the number of characters. SUBSTRING(Word, Start, Length) returns part of a string, e.g. SUBSTRING("Cambridge", 1, 4) is "Camb". UCASE and LCASE convert to upper or lower case.' },
       { n: 7, f: 'Procedure vs function', b: 'Both are named blocks of code called by name that can take parameters. A function returns a value that can be used in an expression; a procedure does not.' },
       { n: 8, f: 'Local vs global variables', b: 'A local variable exists only inside the procedure or function where it is declared. A global variable can be used anywhere in the program. Local variables prevent accidental changes elsewhere.' },
-      { n: 9, f: 'How do you declare and use a 2D array in pseudocode?', b: 'DECLARE Grid : ARRAY[1:3, 1:4] OF INTEGER declares 3 rows and 4 columns. Grid[2, 4] is row 2, column 4. Arrays are usually processed with nested FOR loops.' },
-      { n: 10, f: 'What are the steps of file handling in pseudocode?', b: 'Open the file (OPENFILE ... FOR READ or FOR WRITE), process it (READFILE or WRITEFILE, testing EOF when reading), then close it (CLOSEFILE). Opening for WRITE replaces the old contents.' },
-      { n: 11, f: 'How do you make a program maintainable?', b: 'Use meaningful identifier names, comments, indentation, constants instead of repeated values, and procedures and functions for repeated tasks.' },
+      { n: 9, f: 'How do you make a program maintainable?', b: 'Use meaningful identifier names, comments, indentation, constants instead of repeated values, and procedures and functions for repeated tasks.' },
+    ]),
+    ...sub('programming-0478', 'arrays-0478', '8.2', [
+      { n: 1, f: 'How do you declare and use a 2D array in pseudocode?', b: 'DECLARE Grid : ARRAY[1:3, 1:4] OF INTEGER declares 3 rows and 4 columns. Grid[2, 4] is row 2, column 4. Arrays are usually processed with nested FOR loops.' },
+    ]),
+    ...sub('programming-0478', 'file-handling-0478', '8.3', [
+      { n: 1, f: 'What are the steps of file handling in pseudocode?', b: 'Open the file (OPENFILE ... FOR READ or FOR WRITE), process it (READFILE or WRITEFILE, testing EOF when reading), then close it (CLOSEFILE). Opening for WRITE replaces the old contents.' },
     ]),
 
     // 9 Databases
