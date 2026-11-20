@@ -114,6 +114,20 @@ For the takeover to pay off, Dunmore must earn Calder more than the $882,000 int
 
 The firm must find $49,315 more finance just to wait for customers to pay, before it has paid for the extra ingredients and staff. If it cannot, it will fall behind with suppliers. Solutions include a bank loan, an overdraft, factoring, shortening credit terms, or slowing growth.
 
+## Choosing between growth methods
+
+When a question asks you to choose a method of growth, compare the options on the same criteria and use the figures in the source.
+
+| Criterion | Organic growth | Merger or takeover |
+|---|---|---|
+| Speed | Slower | Faster |
+| Cost | Lower, often funded from profit | Higher, often needs debt (for example the $882,000 interest in worked example 2) |
+| Risk | Lower | Higher: overpaying, culture clash, integration failure |
+| Control | The business keeps its culture and systems | Two cultures and systems must be combined |
+| Effect on cash | Gradual demand for working capital | Large, immediate demand for finance |
+
+A business with strong cash reserves, a competitor available to buy and an urgent need to gain market share is more likely to choose a takeover. A business with limited finance, a loyal customer base and time to grow is more likely to choose organic growth. Whichever you recommend, name the factor on which your judgement depends.
+
 ## Common mistakes
 
 - Treating growth as always good: it can lower unit cost but it can also raise it.

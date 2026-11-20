@@ -80,6 +80,27 @@ Required depolarisation = threshold minus resting potential. Example: from -70 m
 
 Each rod gives 2 mV in dim light and a bipolar neurone needs 10 mV. 10 / 2 = 5 rods must be stimulated together. A single cone on its own neurone gives only 2 mV and does not trigger an impulse in dim light.
 
+## Model sentences to learn
+
+- "Pressure deforms the lamellae and stretches the membrane, so the stretch-mediated sodium ion channels open and sodium ions enter, producing a generator potential."
+- "If the generator potential reaches the threshold, an action potential is triggered in the sensory neurone."
+- "A larger stimulus opens more sodium channels, so the generator potential is larger and the frequency of action potentials is higher."
+- "Many rods share one bipolar neurone, so their small generator potentials add together and can reach the threshold in dim light."
+- "Each cone has its own bipolar neurone, so two close points produce two separate impulses, which gives high visual acuity."
+
+## Another data example
+
+Resting potential -70 mV; threshold -55 mV. A generator potential of +10 mV gives a membrane potential of -60 mV, which is 5 mV short of the threshold, so no action potential. A generator potential of +18 mV gives -52 mV, which is above the threshold, so an action potential is triggered.
+
+## Command words
+
+| Word | What the answer needs |
+|---|---|
+| Describe | The sequence from stimulus to action potential, in order |
+| Explain | The reason, naming the pigment, the channel or the connection |
+| Compare | Both rods and cones in each point |
+| Calculate | The working, including the threshold minus the resting potential |
+
 ## Exam traps
 
 - A receptor produces a generator potential, not an action potential directly.

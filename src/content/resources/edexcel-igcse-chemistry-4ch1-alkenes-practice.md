@@ -16,7 +16,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "organic-chemistry-4ch1"
     subtopic: "alkenes-4ch1"
-description: "Twelve original 4CH1 alkene questions on the C=C group, unsaturation, drawing and naming, bromine addition and the bromine water test, with full answers."
+description: "Fourteen original 4CH1 alkene questions on the C=C group, unsaturation, drawing and naming, bromine addition and the bromine water test, with full answers."
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-20
 featured: false
@@ -77,6 +77,10 @@ These questions cover sub-topic 4(d) Alkenes of the Pearson Edexcel Internationa
 
 **12.** Explain why ethene burns with a more smoky flame than ethane. **[2]**
 
+**13.** 7.0 g of propene (Mr = 42) is shaken with excess bromine water. Calculate the mass of bromine (Mr = 160) that reacts, to one decimal place. **[3]**
+
+**14.** Four hydrocarbons are C₃H₈, C₃H₆, C₅H₁₀ and C₆H₁₄. State which are alkenes and give the rule you used. **[2]**
+
 ## Answers
 
 **1.** CₙH₂ₙ [1].
@@ -111,6 +115,10 @@ These questions cover sub-topic 4(d) Alkenes of the Pearson Edexcel Internationa
 **(b)** C₅H₁₀ [1]; CH₂ [1].
 
 **12.** Ethene has a higher percentage of carbon than ethane (85.7% compared with 80%) [1], so combustion is more likely to be incomplete and produce soot (carbon) [1].
+
+**13.** Moles of propene = 7.0 / 42 = 0.167 mol [1]. The ratio is 1 : 1, so moles of Br₂ = 0.167 mol [1]. Mass = 0.167 x 160 = 26.7 g [1].
+
+**14.** C₃H₆ and C₅H₁₀ are alkenes [1]. They fit the general formula CₙH₂ₙ (twice as many hydrogens as carbons); C₃H₈ and C₆H₁₄ fit CₙH₂ₙ₊₂, so they are alkanes [1].
 
 ## Where marks are usually lost
 

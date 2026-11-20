@@ -16,7 +16,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "organic-chemistry-4ch1"
     subtopic: "introduction-4ch1"
-description: "Twelve original 4CH1 questions on hydrocarbons, formula types, homologous series, isomers, IUPAC naming and reaction types, with full answers."
+description: "Fourteen original 4CH1 questions on hydrocarbons, formula types, homologous series, isomers, IUPAC naming and reaction types, with full answers."
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-20
 featured: false
@@ -83,6 +83,14 @@ These questions cover sub-topic 4(a) Introduction of the Pearson Edexcel Interna
 **(b)** CH₃CH₂COOH **[1]**
 **(c)** State the functional group in each compound. **[2]**
 
+**13.** A compound has the formula C₂H₅Br.
+
+**(a)** Name the compound. **[1]**
+**(b)** State whether it is a hydrocarbon and give a reason. **[1]**
+**(c)** Name the type of reaction when ethane reacts with bromine in ultraviolet radiation to form it. **[1]**
+
+**14.** Calculate the percentage by mass of carbon in propane, C₃H₈, and in propene, C₃H₆, and state which would burn with the smokier flame. **[3]**
+
 ## Answers
 
 **1.** A compound containing hydrogen and carbon only [1].
@@ -119,6 +127,12 @@ These questions cover sub-topic 4(a) Introduction of the Pearson Edexcel Interna
 **12. (a)** Propan-1-ol (or propanol) [1].
 **(b)** Propanoic acid [1].
 **(c)** -OH (alcohol) in (a) [1]; -COOH (carboxyl) in (b) [1].
+
+**13. (a)** Bromoethane [1].
+**(b)** It is not a hydrocarbon, because it contains bromine as well as carbon and hydrogen [1].
+**(c)** Substitution [1].
+
+**14.** Propane: 36 / 44 x 100 = 81.8% [1]. Propene: 36 / 42 x 100 = 85.7% [1]. Propene has the higher percentage of carbon, so it is more likely to burn incompletely and give soot, and has the smokier flame [1].
 
 ## Where marks are usually lost
 

@@ -16,7 +16,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "organic-chemistry-4ch1"
     subtopic: "alkanes-4ch1"
-description: "Twelve original 4CH1 alkane questions on the general formula, saturation, drawing and naming, and substitution with halogens, with full answers."
+description: "Fourteen original 4CH1 alkane questions on the general formula, saturation, drawing and naming, and substitution with halogens, with full answers."
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-20
 featured: false
@@ -82,6 +82,15 @@ These questions cover sub-topic 4(c) Alkanes of the Pearson Edexcel Internationa
 
 **12.** A student writes that the reaction between ethane and chlorine in sunlight is an addition reaction giving only chloroethane. Identify the two errors. **[2]**
 
+**13.** 3.0 g of ethane, C₂H₆ (Mr = 30), burns completely in excess oxygen.
+
+**(a)** Write the balanced equation. **[1]**
+**(b)** Calculate the moles of ethane. **[1]**
+**(c)** Calculate the volume of carbon dioxide formed at room temperature and pressure (molar volume 24 dm³). **[1]**
+**(d)** Calculate the mass of water formed. **[1]**
+
+**14.** Hexane, C₆H₁₄, has a longer chain than pentane, which boils at 36 °C. Predict whether hexane is a gas or a liquid at 20 °C and explain your prediction. **[2]**
+
 ## Answers
 
 **1.** CₙH₂ₙ₊₂ [1].
@@ -116,6 +125,13 @@ These questions cover sub-topic 4(c) Alkanes of the Pearson Edexcel Internationa
 **11.** Alkanes have only single bonds, so they are saturated and cannot undergo addition reactions with bromine [1]; without UV radiation there is no substitution either, so the orange colour remains [1].
 
 **12.** Error 1: the reaction is substitution, not addition [1]. Error 2: hydrogen chloride is also formed, so there are two products [1].
+
+**13. (a)** 2C₂H₆ + 7O₂ → 4CO₂ + 6H₂O [1].
+**(b)** 3.0 / 30 = 0.10 mol [1].
+**(c)** Moles of CO₂ = 0.20 mol; volume = 0.20 x 24 = 4.8 dm³ [1].
+**(d)** Moles of H₂O = 0.30 mol; mass = 0.30 x 18 = 5.4 g [1].
+
+**14.** Liquid [1], because hexane molecules are longer than pentane, so the intermolecular forces are stronger and its boiling point is higher than 36 °C (well above 20 °C) [1].
 
 ## Where marks are usually lost
 

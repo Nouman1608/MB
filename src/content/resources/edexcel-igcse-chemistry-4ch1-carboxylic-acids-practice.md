@@ -16,7 +16,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "organic-chemistry-4ch1"
     subtopic: "carboxylic-acids-4ch1"
-description: "Twelve original 4CH1 carboxylic acid questions (Paper 2 only) on naming, drawing, reactions with metals and carbonates, and vinegar, with full answers."
+description: "Fourteen original 4CH1 carboxylic acid questions (Paper 2 only) on naming, drawing, reactions with metals and carbonates, and vinegar, with full answers."
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-20
 featured: false
@@ -73,6 +73,13 @@ These questions cover sub-topic 4(f) Carboxylic acids of the Pearson Edexcel Int
 
 **12.** (Paper 2 only) Describe how ethanoic acid can be made from ethanol in two different ways. **[4]**
 
+**13.** (Paper 2 only) 25 cm³ of 0.10 mol/dm³ ethanoic acid and 25 cm³ of 0.10 mol/dm³ hydrochloric acid are each added to excess magnesium.
+
+**(a)** Calculate the volume of hydrogen formed in each case. **[3]**
+**(b)** State which reaction is faster and explain why. **[1]**
+
+**14.** (Paper 2 only) Three colourless liquids are ethanol, ethanoic acid and ethyl ethanoate. Describe how a sodium carbonate solution and the smell can be used to identify them. **[3]**
+
 ## Answers
 
 **1.** -COOH (carboxyl group) [1].
@@ -105,6 +112,11 @@ These questions cover sub-topic 4(f) Carboxylic acids of the Pearson Edexcel Int
 **11.** Ethanoic acid is a weak acid and ionises only partly in water [1], so it has fewer hydrogen ions in the solution at any moment, and fewer collisions with the magnesium [1].
 
 **12.** Microbial oxidation: leave ethanol (for example in wine) open to the air [1]. Bacteria oxidise it with oxygen from the air to ethanoic acid [1]. Chemical oxidation: heat ethanol with acidified potassium dichromate(VI) [1]. The orange solution turns green as ethanoic acid forms [1].
+
+**13. (a)** Moles of acid = 0.10 x 25 / 1,000 = 0.0025 mol [1]. Moles of H₂ = 0.0025 / 2 = 0.00125 mol [1]. Volume = 0.00125 x 24,000 = 30 cm³ in each case [1].
+**(b)** The hydrochloric acid reaction is faster, because hydrochloric acid is a strong acid (fully ionised) and ethanoic acid is a weak acid (only partly ionised), so it has fewer hydrogen ions [1].
+
+**14.** Ethanoic acid fizzes with sodium carbonate solution and smells of vinegar [1]. Ethyl ethanoate does not fizz and has a sweet, fruity smell [1]. Ethanol does not fizz and has a sharp, spirit-like smell [1].
 
 ## Where marks are usually lost
 

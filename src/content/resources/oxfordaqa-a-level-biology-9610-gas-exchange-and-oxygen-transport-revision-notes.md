@@ -109,6 +109,15 @@ Coronary arteries; aorta; vena cava; pulmonary artery; pulmonary vein; hepatic a
 - Xerophytes do have stomata. They are positioned to reduce water loss.
 - A lung disease answer must link the changed structure (thickening, scarring, narrowing) to a changed measurement.
 
+## Command words
+
+| Word | What the answer needs |
+|---|---|
+| Describe | The path or the sequence, in order |
+| Explain | The reason, linked to diffusion, gradients or surface area |
+| Calculate | The formula, working and units |
+| Suggest | Apply the checklist to an unfamiliar surface |
+
 ## Quick self-test
 
 1. Calculate the surface area to volume ratio of a cube of side 4 cm.

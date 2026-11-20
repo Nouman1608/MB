@@ -114,6 +114,25 @@ Childhood. War. Women and men. Race, class and culture. They are not prescribed 
 | 3 | 4 | A logical argument across the essay; thorough explanations; precise expression |
 | 4 | 5 | Sensitivity to the texts; confident conviction; interpretations that connect context, genre and methods |
 
+## A suggested timeline (Marlbridge suggestion)
+
+| Stage | Task |
+|---|---|
+| 1 | Read widely and shortlist texts |
+| 2 | Check the rules: single author, not on a set list, different areas |
+| 3 | Agree the choice with your teacher |
+| 4 | Read closely and annotate, noting methods and different readings |
+| 5 | Write the task title with a view to argue |
+| 6 | Plan and draft each essay, keeping within 1,250 to 1,500 words |
+| 7 | Revise using the bands: more detail, more argument, more than one reading |
+
+## Sentence frames
+
+- "The writer presents [idea] as [claim], as when ..."
+- "This could be read as ..., although ..."
+- "Within [genre/context], this suggests ..."
+- "Overall, I agree / partly agree with the view because ..."
+
 ## Traps
 
 - Using a set text from any AS or A-level list.

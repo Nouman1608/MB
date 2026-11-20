@@ -94,6 +94,28 @@ These notes condense section 3.4.8 (Control of heart rate) of the OxfordAQA Inte
 - Write "more frequent waves of excitation from the SAN", not "the heart is told to beat faster".
 - Give the receptor and the stimulus together: chemoreceptors and pH change.
 
+## Command words and what they need
+
+| Command word | What the answer must contain |
+|---|---|
+| Describe | The sequence of structures or events, in order, with names |
+| Explain | A reason for each step, such as why the AVN delays the wave |
+| Calculate | The formula, the numbers substituted, the answer and its unit |
+| Suggest | A reasoned idea based on the data or principles given |
+
+## Model sentences
+
+- "The SAN is the pacemaker because it initiates the wave of excitation, which spreads across both atria so that they contract together."
+- "The AVN delays the wave, so the atria have finished contracting and the ventricles are full before they contract."
+- "Purkinje fibres carry the wave through the ventricle walls from the base upwards, so blood is forced towards the arteries."
+- "Chemoreceptors detect the fall in pH caused by carbon dioxide and send more impulses to the cardiac centre, which increases impulses along the sympathetic nerve to the SAN."
+
+## Common graph and data tasks
+
+- **ECG peaks.** Find the interval between two matching peaks, divide 60 by the interval in seconds, and give beats per minute.
+- **Nerve stimulation data.** Calculate the percentage change from the control, then say which nerve raised or lowered the rate and why.
+- **Cardiac output.** Multiply stroke volume by heart rate, convert units if needed, and compare with the resting value as a percentage change.
+
 ## Quick self-test
 
 1. What does myogenic mean?

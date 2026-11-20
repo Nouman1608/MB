@@ -109,6 +109,30 @@ References and the appendix are outside the word count.
 - [ ] Transcription conventions if speech is recorded.
 - [ ] The frameworks and levels to be used.
 
+## A suggested timeline (Marlbridge suggestion)
+
+| Stage | Task |
+|---|---|
+| 1 | Brainstorm topics from the specification's list and choose one with your teacher |
+| 2 | Draft an aim and check that the central focus is language |
+| 3 | Plan the data: kind, amount, collection method, consent |
+| 4 | Collect the data and record how, when and where |
+| 5 | Prepare the data: transcribe, list or organise |
+| 6 | Analyse by categories using the language levels |
+| 7 | Draft the Analysis, then the Method and Aim, then the Conclusion |
+| 8 | Add references and the appendix; check the word count |
+
+## Language levels to analyse with
+
+Phonetics and phonology; lexis and semantics; grammar; pragmatics; discourse; graphology. Pick the levels that suit your data, and explain why in the Method.
+
+## Model sentences
+
+- "The aim of this investigation is to find out [what] by analysing [data]."
+- "This data was chosen because ..."
+- "The pattern is shown by [example], which suggests ..."
+- "This finding is limited by the small sample, so it cannot show ..."
+
 ## Exam-style traps
 
 - A topic about a subject, not about language.

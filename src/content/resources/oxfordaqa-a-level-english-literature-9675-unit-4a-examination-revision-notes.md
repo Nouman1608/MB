@@ -117,6 +117,33 @@ The total is 150 minutes. Each question is worth the same number of marks, so gi
 - Failing to look at the last line or sentence.
 - Not finishing the second answer.
 
+## Question stems and what they ask
+
+| Stem (illustrative) | What to do |
+|---|---|
+| "Explore the significance of the representation of childhood" | Weigh up what the representation means, using methods and more than one reading |
+| "Write an analysis of this poem in which you explore the representation of class and culture" | Analyse methods, and link every point to class and culture |
+| "Analyse how the writer presents war in this extract" | Focus on methods; do not retell the extract |
+
+In every stem, the area gives you the topic, the aspect narrows it, and the verb tells you the skill. "Significance" signals that you must weigh up construction, context and interpretation, which the specification describes as the three parts of significance.
+
+## Sentence frames for fast, controlled writing
+
+- Opening: "The writer represents [area] as [claim], largely through [method]."
+- Evidence: "This is clear when [short quotation] ..."
+- Method and effect: "The [method] makes the reader feel / see / question ..."
+- Other reading: "However, a reader could see this as ..."
+- Closing a paragraph: "This shapes the representation of [area] because ..."
+
+## Checklist before you finish each answer
+
+- [ ] The first sentence answers the question.
+- [ ] Every paragraph names a method and explains its effect.
+- [ ] At least one place where you allow another reading.
+- [ ] Short quotations, correctly copied.
+- [ ] The last line of the text has been considered.
+- [ ] No retelling of the plot or paraphrase of the poem.
+
 ## Quick self-test
 
 1. How long is Unit 4a, and how many marks?

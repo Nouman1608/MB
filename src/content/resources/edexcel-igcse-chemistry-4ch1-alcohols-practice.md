@@ -16,7 +16,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "organic-chemistry-4ch1"
     subtopic: "alcohols-4ch1"
-description: "Twelve original 4CH1 alcohol questions (Paper 2 only) on naming, oxidation of ethanol, hydration of ethene and fermentation, with full answers."
+description: "Fourteen original 4CH1 alcohol questions (Paper 2 only) on naming, oxidation of ethanol, hydration of ethene and fermentation, with full answers."
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-20
 featured: false
@@ -73,6 +73,10 @@ These questions cover sub-topic 4(e) Alcohols of the Pearson Edexcel Internation
 
 **12.** (Paper 2 only) Describe how you would show that ethanol can be oxidised by acidified potassium dichromate(VI), and name the product. **[3]**
 
+**13.** (Paper 2 only) The atom economy of a reaction is the mass of the wanted product as a percentage of the total mass of all the products. Calculate the atom economy for ethanol in (a) the hydration of ethene (C₂H₄ + H₂O → C₂H₅OH) and (b) the fermentation of glucose (C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂, with Mr of CO₂ = 44 and of ethanol = 46). **[3]**
+
+**14.** (Paper 2 only) Ethanol made by fermentation can be used as a fuel. Give one advantage and one disadvantage of using it. **[2]**
+
 ## Answers
 
 **1.** -OH (hydroxyl) [1].
@@ -105,6 +109,11 @@ These questions cover sub-topic 4(e) Alcohols of the Pearson Edexcel Internation
 **11.** Air has got into the bottle [1]. Bacteria in the air oxidise the ethanol using oxygen [1]. The product is ethanoic acid (vinegar), which tastes sour [1].
 
 **12.** Warm ethanol with acidified potassium dichromate(VI) solution (heating gently, under reflux) [1]. The orange solution turns green [1]. Ethanoic acid is formed [1].
+
+**13. (a)** There is only one product, so the atom economy is 46 / 46 x 100 = 100% [1].
+**(b)** Mass of ethanol = 2 x 46 = 92; total mass of products = 92 + 2 x 44 = 180 [1]. Atom economy = 92 / 180 x 100 = 51.1% [1].
+
+**14.** Advantage (any one): made from a renewable raw material (plants); the carbon dioxide released when it burns was absorbed as the plants grew [1]. Disadvantage (any one): needs farmland that could be used for food; growing, fermenting and distilling use energy; fermentation is slow [1].
 
 ## Where marks are usually lost
 

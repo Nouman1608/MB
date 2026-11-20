@@ -82,6 +82,27 @@ These notes condense section 3.1.6 (Living organisms vary) of the OxfordAQA Inte
 
 **Using mean plus or minus 2 SD:** species P, mean 62 mm with SD 2 mm, spans 58 to 66 mm. Species Q, mean 70 mm with SD 3 mm, spans 64 to 76 mm. The overlap (64 to 66 mm) means some birds cannot be identified by wing length alone.
 
+## Model answers to learn
+
+**Describe how to take a random sample from a field.** Lay two tape measures at right angles along two sides to make a grid. Use a random number generator to give pairs of coordinates. Place a quadrat at each coordinate and record the measurement. Repeat until the sample is large enough to be representative.
+
+**Explain why two random samples from the same population gave different means.** Each sample contains a different set of individuals, and the individuals differ by chance. Small samples are strongly affected by a few extreme values.
+
+**Explain why a larger sample is better.** Chance has less effect on the mean, so the mean is more likely to be close to that of the whole population.
+
+## A comparison you can use in data questions
+
+Species P has a mean wing length of 62 mm (SD 2 mm). Species Q has a mean of 70 mm (SD 3 mm). The range within two standard deviations is 58 to 66 mm for P and 64 to 76 mm for Q. The overlap is 2 mm, so most birds can be identified by wing length but a few cannot.
+
+## Command words
+
+| Word | What the answer needs |
+|---|---|
+| Describe | Steps or features in order |
+| Explain | A reason, such as the effect of chance or bias |
+| Compare | Both samples, with values for each |
+| Suggest | A reasoned possibility, with cautious wording |
+
 ## Exam traps
 
 - Mixing up intraspecific and interspecific.

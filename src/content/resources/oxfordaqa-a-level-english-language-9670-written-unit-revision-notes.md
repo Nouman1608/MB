@@ -110,6 +110,13 @@ A good question is **specific**, **answerable from the data** and uses **at leas
 
 These timings are a guide to adjust to your own writing speed. They add up to 150 minutes, the length of the paper.
 
+## Sentence frames for each part
+
+- Aim: "The aim is to investigate how [data] uses [feature] to [purpose]."
+- Method: "[Data sets] were chosen because ...; each will be analysed for [levels]."
+- Analysis: "A pattern across the data is [claim]. For example, ...; this [term] suggests ..."
+- Conclusion: "The analysis shows that ...; this is limited by ..."
+
 ## Quick self-test
 
 1. How long is the written unit, and how many marks is it worth?

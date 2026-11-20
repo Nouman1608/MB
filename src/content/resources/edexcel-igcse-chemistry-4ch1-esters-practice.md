@@ -16,7 +16,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "organic-chemistry-4ch1"
     subtopic: "esters-4ch1"
-description: "Twelve original 4CH1 ester questions (Paper 2 only) on naming, drawing, esterification, yield and the preparation practical, with full answers."
+description: "Fourteen original 4CH1 ester questions (Paper 2 only) on naming, drawing, esterification, yield and the preparation practical, with full answers."
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-20
 featured: false
@@ -79,6 +79,13 @@ These questions cover sub-topic 4(g) Esters of the Pearson Edexcel International
 **(b)** Write the structural formula of each. **[2]**
 **(c)** Explain why they are isomers. **[1]**
 
+**13.** (Paper 2 only) Two esters have the molecular formula C₃H₆O₂.
+
+**(a)** Give the structural formula and name of each. **[2]**
+**(b)** State the acid and the alcohol that form each. **[1]**
+
+**14.** (Paper 2 only) A chemist needs 8.8 g of ethyl ethanoate (Mr = 88). Calculate the masses of ethanol (Mr = 46) and ethanoic acid (Mr = 60) needed if the reaction were 100% efficient. **[3]**
+
 ## Answers
 
 **1.** -COO- (the ester link) [1].
@@ -115,6 +122,11 @@ These questions cover sub-topic 4(g) Esters of the Pearson Edexcel International
 **12. (a)** Both are C₄H₈O₂ [1].
 **(b)** Methyl propanoate: CH₃CH₂COOCH₃ [1]. Ethyl ethanoate: CH₃COOCH₂CH₃ [1].
 **(c)** They have the same molecular formula but different structural formulae [1].
+
+**13. (a)** CH₃COOCH₃, methyl ethanoate [1]; HCOOCH₂CH₃, ethyl methanoate [1].
+**(b)** Methyl ethanoate: ethanoic acid and methanol; ethyl methanoate: methanoic acid and ethanol [1].
+
+**14.** Moles of ester = 8.8 / 88 = 0.10 mol [1]. The ratio is 1 : 1 : 1, so 0.10 mol each of ethanol and ethanoic acid are needed [1]. Mass of ethanol = 0.10 x 46 = 4.6 g; mass of ethanoic acid = 0.10 x 60 = 6.0 g [1].
 
 ## Where marks are usually lost
 

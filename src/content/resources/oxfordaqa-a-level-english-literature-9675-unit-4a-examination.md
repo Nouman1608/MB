@@ -136,8 +136,6 @@ This extract is original, written for this guide.
 - The simile "as if the cloth might be asked to give evidence" gives the mother's delay a legal or fearful tone. She postpones the news by cleaning her hands.
 - The final short sentence "Then she opened the door" ends before the news is delivered. The reader has to imagine the result, which makes the representation more powerful and more open to interpretation.
 
-**Connecting the two texts.** In a question with a poem and a prose extract on different areas, you answer each separately. If a question offers more than one text on the same area, you may compare, but only if the question asks for it.
-
 ## Time planning
 
 The paper is 2 hours 30 minutes for two compulsory 25-mark questions. A possible plan, which is a suggestion only: 10 minutes to read both questions and texts and choose arguments, about 65 minutes for each answer, and 10 minutes to check. That is 150 minutes.
@@ -147,10 +145,7 @@ The paper is 2 hours 30 minutes for two compulsory 25-mark questions. A possible
 - Summarising what happens in the text.
 - Naming techniques without saying what they do to the representation.
 - Bringing in prepared contextual information that the text does not support. The specification says you are not expected to draw on extensive contextual knowledge.
-- Writing the same kind of answer for both questions, and ignoring the different topic area.
-- Treating the first reading of a text as the only reading and not allowing for alternatives.
 - Working through a poem line by line and running out of time.
-- Spending far longer on one question than the other when both are worth 25 marks.
 
 ## Exam technique
 

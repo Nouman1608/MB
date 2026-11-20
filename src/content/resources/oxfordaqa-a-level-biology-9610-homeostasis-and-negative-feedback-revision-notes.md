@@ -87,6 +87,25 @@ These notes condense section 3.4.6 (Homeostasis and negative feedback) of the Ox
 
 **Positive feedback data:** 39.0, 40.0, 41.5, 43.5 at 30-minute intervals. The rises are 1.0, 1.5 and 2.0 degrees, so the rate is increasing. This is positive feedback.
 
+## A model five-mark answer
+
+**Question:** Describe how negative feedback keeps the core temperature of a mammal stable. [5 marks]
+
+**Answer:** Thermoreceptors detect a change in core temperature (1). They send impulses to the hypothalamus, which acts as the coordinator (1). If the temperature is too high, effectors cause vasodilation and sweating, so more heat is lost (1). If the temperature is too low, effectors cause vasoconstriction and shivering, so heat is conserved and generated (1). When the temperature returns to the set point, the receptors detect it and the responses are switched off, which is negative feedback (1).
+
+## Command words
+
+| Word | What the answer needs |
+|---|---|
+| Define | A precise statement, such as "maintaining the internal environment within restricted limits" |
+| Explain | A reason, such as the effect on the tertiary structure of enzymes |
+| Describe | The sequence from change to correction |
+| Interpret | Use values and rates from the graph, and say whether the response reverses or increases the change |
+
+## Link to other topics
+
+Blood glucose control (section 3.4.7) is another example of negative feedback with separate mechanisms for a rise and a fall. The control of heart rate (section 3.4.8) is also a negative feedback loop.
+
 ## Exam traps
 
 - Enzymes are denatured, they do not die.
