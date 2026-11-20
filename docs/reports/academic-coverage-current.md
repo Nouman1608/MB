@@ -12,16 +12,16 @@ written, so an unchanged repository regenerates identical files).
 
 | Measure | Value |
 | --- | --- |
-| Source resources | 17941 |
+| Source resources | 18165 |
 | Active board × qualification × subject combinations | 166 |
 | Combinations with an official-source record | 166/166 |
 | Combinations with a topic map | 166/166 |
 | Zero-resource combinations | 0 |
 | Combinations under 8 resources | 0 |
 | Combinations with topics that have no resource | 0 |
-| Median resources per combination | 98 |
-| Median words per resource | 1576 |
-| Resources under 900 words | 0 |
+| Median resources per combination | 101 |
+| Median words per resource | 1571 |
+| Resources under 900 words | 4 |
 | Resources under 400 words | 0 |
 | Demand | NO_DATA (no analytics, Search Console, CRM or enrolment source is read) |
 
@@ -40,8 +40,8 @@ source, a verification date, components with marks and durations, and an assessm
 
 | reviewStatus | Resources |
 | --- | --- |
-| archived | 9 |
-| reviewed | 17932 |
+| archived | 27 |
+| reviewed | 18138 |
 
 `reviewed` means a named Marlbridge subject teacher is credited as accountable for the page
 (owner decision D-379); it is not a record of a dated, line-by-line check. `review-pending`
@@ -52,10 +52,10 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 
 | Type | Resources |
 | --- | --- |
-| study-guides | 5908 |
-| revision-notes | 5748 |
+| study-guides | 5983 |
+| revision-notes | 5822 |
 | past-papers | 59 |
-| practice-questions | 5896 |
+| practice-questions | 5971 |
 | exam-preparation | 165 |
 | subject-guides | 165 |
 | learning-articles | 0 |
@@ -67,7 +67,7 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 | aqa | 2739 |
 | cambridge | 6721 |
 | edexcel | 1963 |
-| ib | 1815 |
+| ib | 2039 |
 | ocr | 1674 |
 | oxfordaqa | 3029 |
 
@@ -78,7 +78,7 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 | AQA | 26 | 26 | 26 | 3107 | 0 | 26 | 3107 | 0 |
 | Cambridge | 55 | 55 | 55 | 6873 | 0 | 55 | 6873 | 0 |
 | Pearson Edexcel | 21 | 21 | 21 | 1963 | 0 | 21 | 1963 | 0 |
-| International Baccalaureate | 21 | 21 | 21 | 1815 | 0 | 21 | 1815 | 0 |
+| International Baccalaureate | 21 | 21 | 21 | 2021 | 0 | 21 | 2021 | 0 |
 | OCR | 13 | 13 | 13 | 1916 | 0 | 13 | 1916 | 0 |
 | OxfordAQA | 30 | 30 | 30 | 3029 | 0 | 30 | 3029 | 0 |
 
@@ -91,7 +91,7 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 | AS Level | 3 | 619 |
 | IGCSE | 47 | 4480 |
 | O Level | 18 | 1980 |
-| IB Diploma Programme | 16 | 1585 |
+| IB Diploma Programme | 16 | 1791 |
 | IB Middle Years Programme | 5 | 230 |
 
 ## Known risks
@@ -238,12 +238,12 @@ Overall: no review-pending resources.
 | International Baccalaureate | IB Diploma Programme | Language A: Language and Literature | DP Language A: Language and Literature | 34 | 34 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
 | International Baccalaureate | IB Diploma Programme | Language A: Literature | DP Language A: Literature | 34 | 34 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
 | International Baccalaureate | IB Diploma Programme | Computer Science | DP Computer Science (2014) / DP Computer Science (2027) | 55 | 55 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
-| International Baccalaureate | IB Diploma Programme | Psychology | DP Psychology (2019) / DP Psychology (2027) | 52 | 52 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
+| International Baccalaureate | IB Diploma Programme | Psychology | DP Psychology (2019) / DP Psychology (2027) | 81 | 81 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
 | International Baccalaureate | IB Diploma Programme | Biology | DP Biology | 157 | 157 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
 | International Baccalaureate | IB Diploma Programme | Chemistry | DP Chemistry | 94 | 94 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
 | International Baccalaureate | IB Diploma Programme | Economics | DP Economics | 112 | 112 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
 | International Baccalaureate | IB Diploma Programme | Geography | DP Geography | 162 | 162 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
-| International Baccalaureate | IB Diploma Programme | World History | DP History / DP History (2028) | 82 | 82 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
+| International Baccalaureate | IB Diploma Programme | World History | DP History / DP History (2028) | 259 | 259 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
 | International Baccalaureate | IB Diploma Programme | Language B | DP Language B | 34 | 34 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
 | International Baccalaureate | IB Diploma Programme | Mathematics: Analysis and Approaches | DP Mathematics: Analysis and Approaches | 304 | 304 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
 | International Baccalaureate | IB Diploma Programme | Mathematics: Applications and Interpretation | DP Mathematics: Applications and Interpretation | 64 | 64 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
