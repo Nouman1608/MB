@@ -14,6 +14,9 @@ order: 12
 syllabusTopics:
   - qualification: "a-level"
     topic: "it-in-society"
+  - qualification: "a-level"
+    topic: "it-in-society"
+    subtopic: "data-mining"
 description: "Condensed revision notes on IT in society for Cambridge A Level IT 9626, with definition tables, data mining stages and a quick self-test."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"

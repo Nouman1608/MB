@@ -14,6 +14,9 @@ order: 6
 syllabusTopics:
   - qualification: "a-level"
     topic: "the-digital-divide"
+  - qualification: "a-level"
+    topic: "the-digital-divide"
+    subtopic: "the-digital-divide-content"
 description: "Revision notes on the digital divide for Cambridge AS & A Level IT 9626: definition, causes, effects, groups affected and a quick self-test."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"

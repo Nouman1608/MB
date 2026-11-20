@@ -1,11 +1,13 @@
 /**
  * D-444 -- flashcards for AQA A-level Computer Science 7517 (2015 onwards).
  *
- * One block per subtopic, in specification order. Topics 1 and 2 itemise
- * subtopics (ids `<subtopic number>-<n>`, e.g. 4.2.3-1); topics 3-13 list no
- * subtopics in the syllabus record, so their cards sit on the topic (topicOnly
- * helper, ids `<topic number>-<n>`). Ids are permanent (browser progress is
- * keyed by them): add a new card with the next unused n, never renumber.
+ * One block per subtopic, in specification order. All 13 topics itemise
+ * subtopics in the syllabus record, so every card is keyed `<subtopic
+ * number>-<n>` (e.g. 4.2.3-1). Topics 3-13 were first written as whole-topic
+ * cards (`<topic number>-<n>`) and re-filed on 20 Nov 2026 when the syllabus
+ * record gained their subtopics; `idMigration` below moves browser progress
+ * saved before then onto the new ids. Ids are permanent: add a new card with
+ * the next unused n, never renumber.
  *
  *   src: '...'  The card restates that revision-notes page (found with
  *               scripts/flashcard-candidates.mjs 7517); origin 'revision-notes'.
@@ -29,16 +31,6 @@ const sub = (topic: string, subtopic: string, number: string, specs: Spec[]): Fl
     ...(src ? { source: src } : {}),
   }));
 
-const topicOnly = (topic: string, number: string, specs: Spec[]): Flashcard[] =>
-  specs.map(({ n, f, b, src }) => ({
-    id: `${number}-${n}`,
-    topic,
-    front: f,
-    back: b,
-    origin: src ? 'revision-notes' as const : 'authored' as const,
-    ...(src ? { source: src } : {}),
-  }));
-
 const DS = 'aqa-a-level-computer-science-data-structures-revision-notes';
 
 const T1 = 'fundamentals-of-programming';
@@ -53,7 +45,37 @@ export const DECK_AQA_A_LEVEL_COMPUTER_SCIENCE: FlashcardDeck = {
   syllabusCode: '7517',
   syllabusSeries: '2015-onwards',
   author: 'marlbridge-academic-team',
-  updated: '2026-11-08',
+  updated: '2026-11-20',
+  idMigration: {
+    id: '7517-subtopics-2026-11-20',
+    before: '2026-11-20',
+    map: {
+      '4.1.1-1': '4.1.1-1', '4.1.1-2': '4.1.1-2', '4.1.1-3': '4.1.1-3', '4.1.1-4': '4.1.1-4', '4.1.1-5': '4.1.1-5', '4.1.1-6': '4.1.1-6', '4.1.1-7': '4.1.1-7', '4.1.1-8': '4.1.1-8',
+      '4.1.2-1': '4.1.2-1', '4.1.2-2': '4.1.2-2', '4.1.2-3': '4.1.2-3', '4.1.2-4': '4.1.2-4', '4.1.2-5': '4.1.2-5', '4.1.2-6': '4.1.2-6', '4.1.2-7': '4.1.2-7',
+      '4.2.1.1-1': '4.2.1.1-1', '4.2.1.1-2': '4.2.1.1-2', '4.2.1.1-3': '4.2.1.1-3',
+      '4.2.1.2-1': '4.2.1.2-1', '4.2.1.2-2': '4.2.1.2-2', '4.2.1.2-3': '4.2.1.2-3',
+      '4.2.1.3-1': '4.2.1.3-1', '4.2.1.3-2': '4.2.1.3-2', '4.2.1.3-3': '4.2.1.3-3',
+      '4.2.1.4-1': '4.2.1.4-1', '4.2.1.4-2': '4.2.1.4-2', '4.2.1.4-3': '4.2.1.4-3',
+      '4.2.2-1': '4.2.2-1', '4.2.2-2': '4.2.2-2', '4.2.2-3': '4.2.2-3', '4.2.2-4': '4.2.2-4',
+      '4.2.3-1': '4.2.3-1', '4.2.3-2': '4.2.3-2', '4.2.3-3': '4.2.3-3', '4.2.3-4': '4.2.3-4',
+      '4.2.4-1': '4.2.4-1', '4.2.4-2': '4.2.4-2', '4.2.4-3': '4.2.4-3', '4.2.4-4': '4.2.4-4',
+      '4.2.5-1': '4.2.5-1', '4.2.5-2': '4.2.5-2', '4.2.5-3': '4.2.5-3', '4.2.5-4': '4.2.5-4',
+      '4.2.6-1': '4.2.6-1', '4.2.6-2': '4.2.6-2', '4.2.6-3': '4.2.6-3', '4.2.6-4': '4.2.6-4',
+      '4.2.7-1': '4.2.7-1', '4.2.7-2': '4.2.7-2', '4.2.7-3': '4.2.7-3',
+      '4.2.8-1': '4.2.8-1', '4.2.8-2': '4.2.8-2', '4.2.8-3': '4.2.8-3', '4.2.8-4': '4.2.8-4',
+      '3-1': '4.3.1-1', '3-2': '4.3.1-2', '3-3': '4.3.2-1', '3-4': '4.3.3-1', '3-5': '4.3.4-1', '3-6': '4.3.5-1', '3-7': '4.3.5-2', '3-8': '4.3.6-1',
+      '4-1': '4.4.2-1', '4-2': '4.4.2-2', '4-3': '4.4.2-3', '4-4': '4.4.5-1', '4-5': '4.4.5-2', '4-6': '4.4.4-1', '4-7': '4.4.4-2', '4-8': '4.4.3-1', '4-9': '4.4.4-3',
+      '5-1': '4.5.3-1', '5-2': '4.5.4-1', '5-3': '4.5.4-2', '5-4': '4.5.4-3', '5-5': '4.5.4-4', '5-6': '4.5.5-1', '5-7': '4.5.6-1', '5-8': '4.5.6-2', '5-9': '4.5.6-3', '5-10': '4.5.6-4',
+      '6-1': '4.6.1-1', '6-2': '4.6.1-2', '6-3': '4.6.2-1', '6-4': '4.6.3-1', '6-5': '4.6.3-2', '6-6': '4.6.4-1', '6-7': '4.6.4-2', '6-8': '4.6.4-3', '6-9': '4.6.5-1',
+      '7-1': '4.7.2-1', '7-2': '4.7.1-1', '7-3': '4.7.3-1', '7-4': '4.7.3-2', '7-5': '4.7.3-3', '7-6': '4.7.3-4', '7-7': '4.7.3-5', '7-8': '4.7.4-1', '7-9': '4.7.4-2',
+      '8-1': '4.8.1-1', '8-2': '4.8.1-2', '8-3': '4.8.1-3', '8-4': '4.8.1-4', '8-5': '4.8.1-5',
+      '9-1': '4.9.1-1', '9-2': '4.9.1-2', '9-3': '4.9.1-3', '9-4': '4.9.2-1', '9-5': '4.9.4-1', '9-6': '4.9.4-2', '9-7': '4.9.4-3', '9-8': '4.9.4-4', '9-9': '4.9.4-5', '9-10': '4.9.4-6', '9-11': '4.9.3-1',
+      '10-1': '4.10.1-1', '10-2': '4.10.2-1', '10-3': '4.10.3-1', '10-4': '4.10.4-1', '10-5': '4.10.4-2', '10-6': '4.10.5-1', '10-7': '4.10.5-2',
+      '11-1': '4.11.1-1', '11-2': '4.11.1-2', '11-3': '4.11.1-3', '11-4': '4.11.1-4', '11-5': '4.11.1-5', '11-6': '4.11.1-6',
+      '12-1': '4.12.1-1', '12-2': '4.12.1-2', '12-3': '4.12.2-1', '12-4': '4.12.2-2', '12-5': '4.12.1-3', '12-6': '4.12.1-4', '12-7': '4.12.3-1',
+      '13-1': '4.13.1-1', '13-2': '4.13.1-2', '13-3': '4.13.1-3', '13-4': '4.13.1-4', '13-5': '4.13.1-5',
+    },
+  },
   cards: [
     // 4.1 Fundamentals of programming
     ...sub(T1, 'programming-aqa-alevel-cs', '4.1.1', [
@@ -140,72 +162,132 @@ export const DECK_AQA_A_LEVEL_COMPUTER_SCIENCE: FlashcardDeck = {
     ]),
 
     // 4.3 Fundamentals of algorithms
-    ...topicOnly('fundamentals-of-algorithms', '3', [
+    // 4.3.1 Graph-traversal
+    ...sub('fundamentals-of-algorithms', 'graph-traversal-7517', '4.3.1', [
       { n: 1, f: 'How does a breadth-first traversal of a graph work?', b: 'Visit all the neighbours of the start vertex first, then their neighbours, and so on, using a queue. Finds the shortest path in an unweighted graph.' },
       { n: 2, f: 'How does a depth-first traversal of a graph work?', b: 'Go as far as possible along one branch before backtracking, using a stack (or recursion). Used for navigating a maze.' },
-      { n: 3, f: 'What are the pre-order, in-order and post-order traversals of a binary tree?', b: 'Pre-order: node, left, right (copying a tree).\nIn-order: left, node, right (outputs a binary search tree in order).\nPost-order: left, right, node (emptying a tree; producing Reverse Polish).' },
-      { n: 4, f: 'What is Reverse Polish notation and why is it used?', b: 'Postfix notation: the operator follows its operands, e.g. 3 4 + for 3 + 4. No brackets are needed, and it is easily evaluated with a stack.' },
-      { n: 5, f: 'What are the time complexities of linear search, binary search and binary tree search?', b: 'Linear search: O(n).\nBinary search: O(log n).\nBinary tree search: O(log n) for a balanced tree.' },
-      { n: 6, f: 'How does a merge sort work, and what is its time complexity?', b: 'Split the list into single items, then repeatedly merge pairs of sorted sublists into larger sorted lists. O(n log n).' },
-      { n: 7, f: 'What is the time complexity of bubble sort?', b: 'O(n²): each pass compares adjacent pairs, and up to n passes may be needed.' },
-      { n: 8, f: 'What does Dijkstra’s algorithm do?', b: 'Finds the shortest path from a start vertex to every other vertex in a weighted graph (with no negative weights), using a priority queue.' },
+    ]),
+    // 4.3.2 Tree-traversal
+    ...sub('fundamentals-of-algorithms', 'tree-traversal-7517', '4.3.2', [
+      { n: 1, f: 'What are the pre-order, in-order and post-order traversals of a binary tree?', b: 'Pre-order: node, left, right (copying a tree).\nIn-order: left, node, right (outputs a binary search tree in order).\nPost-order: left, right, node (emptying a tree; producing Reverse Polish).' },
+    ]),
+    // 4.3.3 Reverse Polish
+    ...sub('fundamentals-of-algorithms', 'reverse-polish-7517', '4.3.3', [
+      { n: 1, f: 'What is Reverse Polish notation and why is it used?', b: 'Postfix notation: the operator follows its operands, e.g. 3 4 + for 3 + 4. No brackets are needed, and it is easily evaluated with a stack.' },
+    ]),
+    // 4.3.4 Searching algorithms
+    ...sub('fundamentals-of-algorithms', 'searching-algorithms-7517', '4.3.4', [
+      { n: 1, f: 'What are the time complexities of linear search, binary search and binary tree search?', b: 'Linear search: O(n).\nBinary search: O(log n).\nBinary tree search: O(log n) for a balanced tree.' },
+    ]),
+    // 4.3.5 Sorting algorithms
+    ...sub('fundamentals-of-algorithms', 'sorting-algorithms-7517', '4.3.5', [
+      { n: 1, f: 'How does a merge sort work, and what is its time complexity?', b: 'Split the list into single items, then repeatedly merge pairs of sorted sublists into larger sorted lists. O(n log n).' },
+      { n: 2, f: 'What is the time complexity of bubble sort?', b: 'O(n²): each pass compares adjacent pairs, and up to n passes may be needed.' },
+    ]),
+    // 4.3.6 Optimisation algorithms
+    ...sub('fundamentals-of-algorithms', 'optimisation-algorithms-7517', '4.3.6', [
+      { n: 1, f: 'What does Dijkstra’s algorithm do?', b: 'Finds the shortest path from a start vertex to every other vertex in a weighted graph (with no negative weights), using a priority queue.' },
     ]),
 
     // 4.4 Theory of computation
-    ...topicOnly('theory-of-computation-7517', '4', [
+    // 4.4.2 Regular languages
+    ...sub('theory-of-computation-7517', 'regular-languages-7517', '4.4.2', [
       { n: 1, f: 'What is a finite state machine (FSM)?', b: 'A model of computation with a finite set of states, a start state, inputs and transitions between states. An FSM with no output can accept or reject input strings.' },
       { n: 2, f: 'What is a Mealy machine?', b: 'A finite state machine with outputs, where each output is determined by the current state and the input (shown on the transitions).' },
       { n: 3, f: 'What is a regular expression? What do *, + and ? mean?', b: 'A way of describing a set of strings (a regular language).\n* : zero or more of the previous item.\n+ : one or more.\n? : zero or one.\n| separates alternatives.' },
-      { n: 4, f: 'What is a Turing machine?', b: 'A theoretical model of computation: a finite state machine with a read/write head on an infinitely long tape divided into cells, moving one cell left or right per step according to its transition rules.' },
-      { n: 5, f: 'What is a universal Turing machine?', b: 'A Turing machine that can simulate any other Turing machine by reading that machine’s description and its input from the tape: the idea behind the stored-program computer.' },
-      { n: 6, f: 'What is the Halting problem?', b: 'The problem of deciding, for any program and input, whether the program will eventually stop. It has been proved that no algorithm can solve it: some problems are not computable.' },
-      { n: 7, f: 'What is the difference between tractable and intractable problems?', b: 'Tractable: can be solved in polynomial time or better.\nIntractable: solvable in theory, but no polynomial-time algorithm is known, so heuristic methods are used for large inputs.' },
-      { n: 8, f: 'Why is Backus–Naur Form (BNF) needed as well as regular expressions?', b: 'Some languages, such as those with nested structures, cannot be described by regular expressions. BNF can define them, including recursive rules, so it is used to define programming language syntax.' },
-      { n: 9, f: 'What is the order of complexity of an algorithm that halves the problem each step?', b: 'Logarithmic, O(log n), as in binary search. Constant O(1) < logarithmic < linear O(n) < polynomial O(n²) < exponential O(2ⁿ).' },
+    ]),
+    // 4.4.3 Context-free languages
+    ...sub('theory-of-computation-7517', 'context-free-languages-7517', '4.4.3', [
+      { n: 1, f: 'Why is Backus–Naur Form (BNF) needed as well as regular expressions?', b: 'Some languages, such as those with nested structures, cannot be described by regular expressions. BNF can define them, including recursive rules, so it is used to define programming language syntax.' },
+    ]),
+    // 4.4.4 Classification of algorithms
+    ...sub('theory-of-computation-7517', 'classification-of-algorithms-7517', '4.4.4', [
+      { n: 1, f: 'What is the Halting problem?', b: 'The problem of deciding, for any program and input, whether the program will eventually stop. It has been proved that no algorithm can solve it: some problems are not computable.' },
+      { n: 2, f: 'What is the difference between tractable and intractable problems?', b: 'Tractable: can be solved in polynomial time or better.\nIntractable: solvable in theory, but no polynomial-time algorithm is known, so heuristic methods are used for large inputs.' },
+      { n: 3, f: 'What is the order of complexity of an algorithm that halves the problem each step?', b: 'Logarithmic, O(log n), as in binary search. Constant O(1) < logarithmic < linear O(n) < polynomial O(n²) < exponential O(2ⁿ).' },
+    ]),
+    // 4.4.5 A model of computation
+    ...sub('theory-of-computation-7517', 'a-model-of-computation-7517', '4.4.5', [
+      { n: 1, f: 'What is a Turing machine?', b: 'A theoretical model of computation: a finite state machine with a read/write head on an infinitely long tape divided into cells, moving one cell left or right per step according to its transition rules.' },
+      { n: 2, f: 'What is a universal Turing machine?', b: 'A Turing machine that can simulate any other Turing machine by reading that machine’s description and its input from the tape: the idea behind the stored-program computer.' },
     ]),
 
     // 4.5 Fundamentals of data representation
-    ...topicOnly('fundamentals-of-data-representation', '5', [
+    // 4.5.3 Units of information
+    ...sub('fundamentals-of-data-representation', 'units-of-information-7517', '4.5.3', [
       { n: 1, f: 'What is the difference between kibi and kilo prefixes?', b: 'Kibi (Ki) = 2¹⁰ = 1024; mebi (Mi) = 2²⁰; gibi (Gi) = 2³⁰.\nKilo (k) = 10³ = 1000; mega = 10⁶; giga = 10⁹.' },
-      { n: 2, f: 'How do you represent a negative number in two’s complement?', b: 'Write the positive value in binary, invert all the bits and add 1. The most significant bit has a negative place value (−128 in 8 bits).' },
-      { n: 3, f: 'What is the difference between fixed point and floating point binary?', b: 'Fixed point: the binary point is in a set position, giving fixed precision and a limited range.\nFloating point: a mantissa and an exponent, giving a much greater range for the same bits.' },
-      { n: 4, f: 'Why is a floating-point number normalised?', b: 'To give the maximum precision for the number of bits: the mantissa starts 01 for a positive number or 10 for a negative one.' },
-      { n: 5, f: 'What is the difference between absolute and relative error?', b: 'Absolute error: the difference between the true value and the stored value.\nRelative error: the absolute error divided by the true value.' },
-      { n: 6, f: 'How do majority voting and check digits detect errors?', b: 'Majority voting: each bit is sent three times and the receiver takes the value that appears most often.\nCheck digit: a digit calculated from the others and added to the end, recalculated to check the number.' },
-      { n: 7, f: 'What does Nyquist’s theorem state?', b: 'To reproduce a sound accurately, the sampling rate must be at least twice the highest frequency in the sound.' },
-      { n: 8, f: 'What is MIDI and what are its advantages?', b: 'Musical Instrument Digital Interface: music stored as event messages (note on/off, pitch, duration, instrument), not samples. Files are much smaller and easy to edit, but cannot store vocals.' },
-      { n: 9, f: 'What is the Vernam cipher, and why is it called perfectly secure?', b: 'Each character is XORed with a character of a random key (one-time pad) at least as long as the message, used only once. The ciphertext gives no information about the plaintext.' },
-      { n: 10, f: 'How do run-length encoding and dictionary-based compression work?', b: 'RLE: a run of repeated values is stored as one value and a count.\nDictionary-based: repeated patterns are stored once in a dictionary and replaced in the data by their codes. Both are lossless.' },
+    ]),
+    // 4.5.4 Binary number system
+    ...sub('fundamentals-of-data-representation', 'binary-number-system-7517', '4.5.4', [
+      { n: 1, f: 'How do you represent a negative number in two’s complement?', b: 'Write the positive value in binary, invert all the bits and add 1. The most significant bit has a negative place value (−128 in 8 bits).' },
+      { n: 2, f: 'What is the difference between fixed point and floating point binary?', b: 'Fixed point: the binary point is in a set position, giving fixed precision and a limited range.\nFloating point: a mantissa and an exponent, giving a much greater range for the same bits.' },
+      { n: 3, f: 'Why is a floating-point number normalised?', b: 'To give the maximum precision for the number of bits: the mantissa starts 01 for a positive number or 10 for a negative one.' },
+      { n: 4, f: 'What is the difference between absolute and relative error?', b: 'Absolute error: the difference between the true value and the stored value.\nRelative error: the absolute error divided by the true value.' },
+    ]),
+    // 4.5.5 Information coding systems
+    ...sub('fundamentals-of-data-representation', 'information-coding-systems-7517', '4.5.5', [
+      { n: 1, f: 'How do majority voting and check digits detect errors?', b: 'Majority voting: each bit is sent three times and the receiver takes the value that appears most often.\nCheck digit: a digit calculated from the others and added to the end, recalculated to check the number.' },
+    ]),
+    // 4.5.6 Representing images, sound and other data
+    ...sub('fundamentals-of-data-representation', 'representing-images-sound-and-other-data-7517', '4.5.6', [
+      { n: 1, f: 'What does Nyquist’s theorem state?', b: 'To reproduce a sound accurately, the sampling rate must be at least twice the highest frequency in the sound.' },
+      { n: 2, f: 'What is MIDI and what are its advantages?', b: 'Musical Instrument Digital Interface: music stored as event messages (note on/off, pitch, duration, instrument), not samples. Files are much smaller and easy to edit, but cannot store vocals.' },
+      { n: 3, f: 'What is the Vernam cipher, and why is it called perfectly secure?', b: 'Each character is XORed with a character of a random key (one-time pad) at least as long as the message, used only once. The ciphertext gives no information about the plaintext.' },
+      { n: 4, f: 'How do run-length encoding and dictionary-based compression work?', b: 'RLE: a run of repeated values is stored as one value and a count.\nDictionary-based: repeated patterns are stored once in a dictionary and replaced in the data by their codes. Both are lossless.' },
     ]),
 
     // 4.6 Fundamentals of computer systems
-    ...topicOnly('fundamentals-of-computer-systems', '6', [
+    // 4.6.1 Hardware and software
+    ...sub('fundamentals-of-computer-systems', 'hardware-and-software-7517', '4.6.1', [
       { n: 1, f: 'What is the difference between system software and application software?', b: 'System software runs and manages the computer (operating systems, utilities, libraries, translators). Application software performs tasks for the user.' },
       { n: 2, f: 'What is the role of an operating system?', b: 'It hides the complexity of the hardware from the user and manages resources: processor scheduling, memory, input/output devices and files.' },
-      { n: 3, f: 'What is the difference between low-level and high-level languages?', b: 'Low-level (machine code, assembly) is close to the processor’s instruction set. High-level languages use English-like statements, are portable between processors and are easier to write and debug.' },
-      { n: 4, f: 'What is the difference between a compiler, an interpreter and an assembler?', b: 'Compiler: translates the whole high-level program into object code before it runs.\nInterpreter: translates and runs one statement at a time.\nAssembler: translates assembly language into machine code.' },
-      { n: 5, f: 'What is bytecode?', b: 'An intermediate code produced by a compiler that is then run by a virtual machine (interpreter) on the target computer, so the same code is platform-independent.' },
-      { n: 6, f: 'What are the truth conditions for NAND, NOR and XOR?', b: 'NAND: 1 unless both inputs are 1.\nNOR: 1 only if both inputs are 0.\nXOR: 1 if the inputs differ.' },
-      { n: 7, f: 'What are the outputs of a half adder?', b: 'Sum = A XOR B; Carry = A AND B.' },
-      { n: 8, f: 'What does an edge-triggered D-type flip-flop do?', b: 'It stores one bit: on the rising edge of the clock the output takes the value of the D input and holds it until the next clock edge. Used to build registers and memory.' },
-      { n: 9, f: 'State De Morgan’s laws.', b: 'NOT (A AND B) = NOT A OR NOT B\nNOT (A OR B) = NOT A AND NOT B' },
+    ]),
+    // 4.6.2 Classification of programming languages
+    ...sub('fundamentals-of-computer-systems', 'classification-of-programming-languages-7517', '4.6.2', [
+      { n: 1, f: 'What is the difference between low-level and high-level languages?', b: 'Low-level (machine code, assembly) is close to the processor’s instruction set. High-level languages use English-like statements, are portable between processors and are easier to write and debug.' },
+    ]),
+    // 4.6.3 Types of program translator
+    ...sub('fundamentals-of-computer-systems', 'types-of-program-translator-7517', '4.6.3', [
+      { n: 1, f: 'What is the difference between a compiler, an interpreter and an assembler?', b: 'Compiler: translates the whole high-level program into object code before it runs.\nInterpreter: translates and runs one statement at a time.\nAssembler: translates assembly language into machine code.' },
+      { n: 2, f: 'What is bytecode?', b: 'An intermediate code produced by a compiler that is then run by a virtual machine (interpreter) on the target computer, so the same code is platform-independent.' },
+    ]),
+    // 4.6.4 Logic gates
+    ...sub('fundamentals-of-computer-systems', 'logic-gates-7517', '4.6.4', [
+      { n: 1, f: 'What are the truth conditions for NAND, NOR and XOR?', b: 'NAND: 1 unless both inputs are 1.\nNOR: 1 only if both inputs are 0.\nXOR: 1 if the inputs differ.' },
+      { n: 2, f: 'What are the outputs of a half adder?', b: 'Sum = A XOR B; Carry = A AND B.' },
+      { n: 3, f: 'What does an edge-triggered D-type flip-flop do?', b: 'It stores one bit: on the rising edge of the clock the output takes the value of the D input and holds it until the next clock edge. Used to build registers and memory.' },
+    ]),
+    // 4.6.5 Boolean algebra
+    ...sub('fundamentals-of-computer-systems', 'boolean-algebra-7517', '4.6.5', [
+      { n: 1, f: 'State De Morgan’s laws.', b: 'NOT (A AND B) = NOT A OR NOT B\nNOT (A OR B) = NOT A AND NOT B' },
     ]),
 
     // 4.7 Fundamentals of computer organisation and architecture
-    ...topicOnly('fundamentals-of-computer-organisation-and-architecture', '7', [
+    // 4.7.1 Internal hardware components of a computer
+    ...sub('fundamentals-of-computer-organisation-and-architecture', 'internal-hardware-components-of-a-computer-7517', '4.7.1', [
+      { n: 1, f: 'What is the difference between Von Neumann and Harvard architecture?', b: 'Von Neumann: instructions and data share one memory and bus.\nHarvard: separate memories and buses for instructions and data, so both can be fetched at once; used in embedded systems and digital signal processors.' },
+    ]),
+    // 4.7.2 The stored program concept
+    ...sub('fundamentals-of-computer-organisation-and-architecture', 'the-stored-program-concept-7517', '4.7.2', [
       { n: 1, f: 'What is the stored program concept?', b: 'Machine-code instructions are stored in main memory and are fetched and executed serially by a processor that carries out arithmetic and logical operations.' },
-      { n: 2, f: 'What is the difference between Von Neumann and Harvard architecture?', b: 'Von Neumann: instructions and data share one memory and bus.\nHarvard: separate memories and buses for instructions and data, so both can be fetched at once; used in embedded systems and digital signal processors.' },
-      { n: 3, f: 'What do the program counter, MAR, MBR and CIR hold?', b: 'PC: address of the next instruction.\nMAR: address to be read or written.\nMBR: data or instruction just read or to be written.\nCIR: the instruction being decoded and executed.' },
-      { n: 4, f: 'What are the steps of the fetch-execute cycle?', b: 'Fetch: copy PC to MAR; read memory into the MBR; increment PC; copy MBR to CIR.\nDecode: the control unit decodes the opcode.\nExecute: the instruction is carried out.' },
-      { n: 5, f: 'What is the difference between immediate and direct addressing?', b: 'Immediate: the operand is the value to use.\nDirect: the operand is the memory address holding the value.' },
-      { n: 6, f: 'What are the opcode and the operand of an instruction?', b: 'The opcode gives the operation (and addressing mode). The operand is the data or address it acts on.' },
-      { n: 7, f: 'Which factors affect processor performance?', b: 'Number of cores, cache memory size, clock speed, word length, and the width of the address and data buses.' },
-      { n: 8, f: 'How does an RFID tag work?', b: 'A reader sends radio waves that power a passive tag’s chip (or an active tag has its own battery); the tag transmits its stored data back to the reader by radio.' },
-      { n: 9, f: 'How does a solid-state drive store data, compared with a hard disk?', b: 'An SSD stores charge in NAND flash memory cells, with no moving parts, so access is faster. A hard disk uses magnetised regions on spinning platters read by a moving head, which is slower but cheaper per gigabyte.' },
+    ]),
+    // 4.7.3 Structure and role of the processor and its components
+    ...sub('fundamentals-of-computer-organisation-and-architecture', 'structure-and-role-of-the-processor-and-its-components-7517', '4.7.3', [
+      { n: 1, f: 'What do the program counter, MAR, MBR and CIR hold?', b: 'PC: address of the next instruction.\nMAR: address to be read or written.\nMBR: data or instruction just read or to be written.\nCIR: the instruction being decoded and executed.' },
+      { n: 2, f: 'What are the steps of the fetch-execute cycle?', b: 'Fetch: copy PC to MAR; read memory into the MBR; increment PC; copy MBR to CIR.\nDecode: the control unit decodes the opcode.\nExecute: the instruction is carried out.' },
+      { n: 3, f: 'What is the difference between immediate and direct addressing?', b: 'Immediate: the operand is the value to use.\nDirect: the operand is the memory address holding the value.' },
+      { n: 4, f: 'What are the opcode and the operand of an instruction?', b: 'The opcode gives the operation (and addressing mode). The operand is the data or address it acts on.' },
+      { n: 5, f: 'Which factors affect processor performance?', b: 'Number of cores, cache memory size, clock speed, word length, and the width of the address and data buses.' },
+    ]),
+    // 4.7.4 External hardware devices
+    ...sub('fundamentals-of-computer-organisation-and-architecture', 'external-hardware-devices-7517', '4.7.4', [
+      { n: 1, f: 'How does an RFID tag work?', b: 'A reader sends radio waves that power a passive tag’s chip (or an active tag has its own battery); the tag transmits its stored data back to the reader by radio.' },
+      { n: 2, f: 'How does a solid-state drive store data, compared with a hard disk?', b: 'An SSD stores charge in NAND flash memory cells, with no moving parts, so access is faster. A hard disk uses magnetised regions on spinning platters read by a moving head, which is slower but cheaper per gigabyte.' },
     ]),
 
     // 4.8 Consequences of uses of computing
-    ...topicOnly('consequences-of-uses-of-computing', '8', [
+    // 4.8.1 Individual (moral), social (ethical), legal and cultural issues and opportunities
+    ...sub('consequences-of-uses-of-computing', 'individual-moral-social-ethical-legal-and-cultural-issues-and-opportunities-7517', '4.8.1', [
       { n: 1, f: 'Why do computers raise new moral, ethical, legal and cultural issues?', b: 'They can collect, store, analyse and share huge amounts of personal data quickly and cheaply, so decisions by software developers can affect very many people.' },
       { n: 2, f: 'Why is it hard for legislation to keep up with computing?', b: 'Technology changes faster than laws are made, and the internet crosses national borders, so it is hard to decide which country’s laws apply and to enforce them.' },
       { n: 3, f: 'What are the arguments about monitoring behaviour online?', b: 'For: helps prevent crime and terrorism. Against: invades privacy, can be misused, and data can be leaked or used without consent.' },
@@ -214,33 +296,57 @@ export const DECK_AQA_A_LEVEL_COMPUTER_SCIENCE: FlashcardDeck = {
     ]),
 
     // 4.9 Fundamentals of communication and networking
-    ...topicOnly('fundamentals-of-communication-and-networking', '9', [
+    // 4.9.1 Communication
+    ...sub('fundamentals-of-communication-and-networking', 'communication-7517', '4.9.1', [
       { n: 1, f: 'What is the difference between serial and parallel transmission?', b: 'Serial: bits sent one after another along a single wire.\nParallel: several bits sent at once on separate wires. Serial is used over longer distances because parallel suffers from skew and crosstalk.' },
       { n: 2, f: 'What is the difference between baud rate and bit rate?', b: 'Baud rate: the number of signal changes per second.\nBit rate: the number of bits sent per second. Bit rate can exceed baud rate when each signal change encodes more than one bit.' },
       { n: 3, f: 'What are start and stop bits used for?', b: 'In asynchronous serial transmission, a start bit tells the receiver a byte is coming and a stop bit marks its end, so sender and receiver keep in step.' },
-      { n: 4, f: 'How does CSMA/CA with RTS/CTS work on WiFi?', b: 'A device listens and transmits only when the channel is free. With RTS/CTS it sends a Request to Send and waits for the access point’s Clear to Send before transmitting.' },
-      { n: 5, f: 'What are the four layers of the TCP/IP stack?', b: 'Application (e.g. HTTP), Transport (TCP: splits data into numbered segments and adds port numbers), Network (IP: adds IP addresses and routes packets), Link (adds MAC addresses for the physical network).' },
-      { n: 6, f: 'What is a socket?', b: 'The combination of an IP address and a port number, which identifies one end of a connection to a particular process on a host.' },
-      { n: 7, f: 'What does network address translation (NAT) do?', b: 'It lets devices with private IP addresses share one public IP address: the router replaces the private address with its public one on outgoing packets and keeps a table to route replies back.' },
-      { n: 8, f: 'What does DHCP do?', b: 'Dynamic Host Configuration Protocol automatically gives a device an IP address (and settings such as the gateway) from a pool when it joins a network.' },
-      { n: 9, f: 'What is a subnet mask used for?', b: 'ANDing an IP address with the subnet mask gives the network identifier, showing whether another host is on the same subnet or must be reached through a router.' },
-      { n: 10, f: 'What is the difference between JSON and XML for data exchange?', b: 'Both are text formats. JSON is shorter, easier for people to read and quicker for computers to parse. XML is more verbose but allows more complex structures and validation.' },
-      { n: 11, f: 'What is the difference between symmetric and asymmetric encryption?', b: 'Symmetric: one shared key encrypts and decrypts.\nAsymmetric: data encrypted with the recipient’s public key can only be decrypted with their private key.' },
+    ]),
+    // 4.9.2 Networking
+    ...sub('fundamentals-of-communication-and-networking', 'networking-7517', '4.9.2', [
+      { n: 1, f: 'How does CSMA/CA with RTS/CTS work on WiFi?', b: 'A device listens and transmits only when the channel is free. With RTS/CTS it sends a Request to Send and waits for the access point’s Clear to Send before transmitting.' },
+    ]),
+    // 4.9.3 The Internet
+    ...sub('fundamentals-of-communication-and-networking', 'the-internet-7517', '4.9.3', [
+      { n: 1, f: 'What is the difference between symmetric and asymmetric encryption?', b: 'Symmetric: one shared key encrypts and decrypts.\nAsymmetric: data encrypted with the recipient’s public key can only be decrypted with their private key.' },
+    ]),
+    // 4.9.4 The Transmission Control Protocol/Internet Protocol (TCP/IP) protocol
+    ...sub('fundamentals-of-communication-and-networking', 'the-transmission-control-protocol-internet-protocol-tcp-ip-protocol-7517', '4.9.4', [
+      { n: 1, f: 'What are the four layers of the TCP/IP stack?', b: 'Application (e.g. HTTP), Transport (TCP: splits data into numbered segments and adds port numbers), Network (IP: adds IP addresses and routes packets), Link (adds MAC addresses for the physical network).' },
+      { n: 2, f: 'What is a socket?', b: 'The combination of an IP address and a port number, which identifies one end of a connection to a particular process on a host.' },
+      { n: 3, f: 'What does network address translation (NAT) do?', b: 'It lets devices with private IP addresses share one public IP address: the router replaces the private address with its public one on outgoing packets and keeps a table to route replies back.' },
+      { n: 4, f: 'What does DHCP do?', b: 'Dynamic Host Configuration Protocol automatically gives a device an IP address (and settings such as the gateway) from a pool when it joins a network.' },
+      { n: 5, f: 'What is a subnet mask used for?', b: 'ANDing an IP address with the subnet mask gives the network identifier, showing whether another host is on the same subnet or must be reached through a router.' },
+      { n: 6, f: 'What is the difference between JSON and XML for data exchange?', b: 'Both are text formats. JSON is shorter, easier for people to read and quicker for computers to parse. XML is more verbose but allows more complex structures and validation.' },
     ]),
 
     // 4.10 Fundamentals of databases
-    ...topicOnly('fundamentals-of-databases', '10', [
+    // 4.10.1 Conceptual data models and entity relationship modelling
+    ...sub('fundamentals-of-databases', 'conceptual-data-models-and-entity-relationship-modelling-7517', '4.10.1', [
       { n: 1, f: 'What are an entity, an attribute and a relationship?', b: 'Entity: something about which data is stored (e.g. Student).\nAttribute: a property of an entity (e.g. DateOfBirth).\nRelationship: a link between entities (one-to-one, one-to-many, many-to-many).' },
-      { n: 2, f: 'What are a primary key, a composite key and a foreign key?', b: 'Primary key: uniquely identifies each record.\nComposite key: a primary key made of two or more attributes.\nForeign key: an attribute that is the primary key of another table, linking the two.' },
-      { n: 3, f: 'Why are databases normalised?', b: 'To remove data redundancy and so avoid update, insertion and deletion anomalies, keeping data consistent. A database in third normal form has attributes that depend on the key, the whole key and nothing but the key.' },
-      { n: 4, f: 'Write an SQL query to list names of students in Year 12, sorted by name.', b: 'SELECT Name FROM Student WHERE Year = 12 ORDER BY Name;' },
-      { n: 5, f: 'What do the SQL statements INSERT, UPDATE and DELETE do?', b: 'INSERT INTO adds a new record.\nUPDATE … SET … WHERE changes values in existing records.\nDELETE FROM … WHERE removes records.' },
-      { n: 6, f: 'What problem arises when two users update the same record at once in a client-server database?', b: 'Lost update: one user’s change overwrites the other’s. It is prevented by record locking, serialisation, timestamp ordering or commitment ordering.' },
-      { n: 7, f: 'What is record locking?', b: 'When one transaction is updating a record, the record is locked so no other transaction can change it until the first is finished. It can cause deadlock if two transactions wait for each other.' },
+    ]),
+    // 4.10.2 Relational databases
+    ...sub('fundamentals-of-databases', 'relational-databases-7517', '4.10.2', [
+      { n: 1, f: 'What are a primary key, a composite key and a foreign key?', b: 'Primary key: uniquely identifies each record.\nComposite key: a primary key made of two or more attributes.\nForeign key: an attribute that is the primary key of another table, linking the two.' },
+    ]),
+    // 4.10.3 Database design and normalisation techniques
+    ...sub('fundamentals-of-databases', 'database-design-and-normalisation-techniques-7517', '4.10.3', [
+      { n: 1, f: 'Why are databases normalised?', b: 'To remove data redundancy and so avoid update, insertion and deletion anomalies, keeping data consistent. A database in third normal form has attributes that depend on the key, the whole key and nothing but the key.' },
+    ]),
+    // 4.10.4 Structured Query Language (SQL)
+    ...sub('fundamentals-of-databases', 'structured-query-language-sql-7517', '4.10.4', [
+      { n: 1, f: 'Write an SQL query to list names of students in Year 12, sorted by name.', b: 'SELECT Name FROM Student WHERE Year = 12 ORDER BY Name;' },
+      { n: 2, f: 'What do the SQL statements INSERT, UPDATE and DELETE do?', b: 'INSERT INTO adds a new record.\nUPDATE … SET … WHERE changes values in existing records.\nDELETE FROM … WHERE removes records.' },
+    ]),
+    // 4.10.5 Client server databases
+    ...sub('fundamentals-of-databases', 'client-server-databases-7517', '4.10.5', [
+      { n: 1, f: 'What problem arises when two users update the same record at once in a client-server database?', b: 'Lost update: one user’s change overwrites the other’s. It is prevented by record locking, serialisation, timestamp ordering or commitment ordering.' },
+      { n: 2, f: 'What is record locking?', b: 'When one transaction is updating a record, the record is locked so no other transaction can change it until the first is finished. It can cause deadlock if two transactions wait for each other.' },
     ]),
 
     // 4.11 Big Data
-    ...topicOnly('big-data', '11', [
+    // 4.11.1 Big Data
+    ...sub('big-data', 'big-data-7517', '4.11.1', [
       { n: 1, f: 'What is Big Data?', b: 'Data that will not fit on a single server and is too large or complex for a conventional relational database, described by volume, velocity and variety.' },
       { n: 2, f: 'What do volume, velocity and variety mean for Big Data?', b: 'Volume: too much data for one server.\nVelocity: data arrives, and must be processed, very quickly (often streamed).\nVariety: many types of data, often unstructured (text, images, video).' },
       { n: 3, f: 'Why is Big Data processed across many machines?', b: 'One machine cannot store or process it fast enough, so the work is split across a cluster of servers working in parallel.' },
@@ -250,18 +356,26 @@ export const DECK_AQA_A_LEVEL_COMPUTER_SCIENCE: FlashcardDeck = {
     ]),
 
     // 4.12 Fundamentals of functional programming
-    ...topicOnly('fundamentals-of-functional-programming', '12', [
+    // 4.12.1 Functional programming paradigm
+    ...sub('fundamentals-of-functional-programming', 'functional-programming-paradigm-7517', '4.12.1', [
       { n: 1, f: 'What is a function in functional programming?', b: 'A rule that maps each value in its domain to a value in its co-domain, written f: A → B. It has no side effects: the same input always gives the same output.' },
       { n: 2, f: 'What does it mean that functions are first-class objects?', b: 'They can be assigned to variables, passed as arguments, and returned as the results of other functions.' },
-      { n: 3, f: 'What is a higher-order function?', b: 'A function that takes a function as an argument, returns a function, or both. Examples: map, filter and reduce (fold).' },
-      { n: 4, f: 'What do map, filter and reduce (fold) do?', b: 'Map: applies a function to every item of a list, giving a new list.\nFilter: keeps the items that meet a condition.\nReduce/fold: combines the items into one value using a function, e.g. a sum.' },
-      { n: 5, f: 'What is partial function application?', b: 'Fixing some of a function’s arguments to produce a new function of the remaining arguments, e.g. add 3 gives a function that adds 3 to its argument.' },
-      { n: 6, f: 'What is function composition?', b: 'Combining two functions so that the output of one becomes the input of the other: g ∘ f means apply f, then g.' },
-      { n: 7, f: 'What are the head and tail of a list?', b: 'Head: the first element. Tail: the list of everything after the first element. Head of [4, 3, 5] is 4; tail is [3, 5].' },
+      { n: 3, f: 'What is partial function application?', b: 'Fixing some of a function’s arguments to produce a new function of the remaining arguments, e.g. add 3 gives a function that adds 3 to its argument.' },
+      { n: 4, f: 'What is function composition?', b: 'Combining two functions so that the output of one becomes the input of the other: g ∘ f means apply f, then g.' },
+    ]),
+    // 4.12.2 Writing functional programs
+    ...sub('fundamentals-of-functional-programming', 'writing-functional-programs-7517', '4.12.2', [
+      { n: 1, f: 'What is a higher-order function?', b: 'A function that takes a function as an argument, returns a function, or both. Examples: map, filter and reduce (fold).' },
+      { n: 2, f: 'What do map, filter and reduce (fold) do?', b: 'Map: applies a function to every item of a list, giving a new list.\nFilter: keeps the items that meet a condition.\nReduce/fold: combines the items into one value using a function, e.g. a sum.' },
+    ]),
+    // 4.12.3 Lists in functional programming
+    ...sub('fundamentals-of-functional-programming', 'lists-in-functional-programming-7517', '4.12.3', [
+      { n: 1, f: 'What are the head and tail of a list?', b: 'Head: the first element. Tail: the list of everything after the first element. Head of [4, 3, 5] is 4; tail is [3, 5].' },
     ]),
 
     // 4.13 Systematic approach to problem solving
-    ...topicOnly('systematic-approach-to-problem-solving-7517', '13', [
+    // 4.13.1 Aspects of software development
+    ...sub('systematic-approach-to-problem-solving-7517', 'aspects-of-software-development-7517', '4.13.1', [
       { n: 1, f: 'What happens in the analysis stage?', b: 'The problem is defined and the requirements are established with the client and users, often by interview and observation, and agreed as measurable objectives. A data model may be produced.' },
       { n: 2, f: 'What happens in the design stage?', b: 'Plans are made for the solution: data structures, algorithms, modular structure, the user interface, and the testing strategy.' },
       { n: 3, f: 'Why is prototyping and agile development useful?', b: 'Working versions are shown to users early and often, so feedback can be used to refine the requirements and design as development proceeds.' },

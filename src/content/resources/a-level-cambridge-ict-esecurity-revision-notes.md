@@ -14,6 +14,9 @@ order: 5
 syllabusTopics:
   - qualification: "a-level"
     topic: "esecurity"
+  - qualification: "a-level"
+    topic: "esecurity"
+    subtopic: "malware"
 description: "Revision notes for Cambridge AS & A Level IT 9626 eSecurity: personal data, confidentiality, phishing types, firewalls, malware and prevention."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
