@@ -2,10 +2,14 @@
  * D-444 -- flashcards for Cambridge International AS & A Level Global
  * Perspectives & Research 9239 (2026-2028).
  *
- * The syllabus record lists the four components as its topics, with no
- * subtopics, so every card sits on its component (topicOnly helper) and ids
- * are `<topic number>-<n>`. Ids are permanent (browser progress is keyed by
- * them): add a new card with the next unused n, never renumber.
+ * The syllabus record lists the four components as its topics. Components 1
+ * and 2 itemise no subtopics, so their cards sit on the component (topicOnly
+ * helper) and ids are `<topic number>-<n>`. Components 3 and 4 itemise
+ * subtopics (3.1-3.2 and 4.1-4.6), so their cards use `<subtopic number>-<n>`;
+ * on 20 Nov 2026 they were re-filed from the component onto its subtopics, and
+ * `idMigration` below moves saved progress onto the new ids. Ids are permanent
+ * (browser progress is keyed by them): add a new card with the next unused n,
+ * never renumber.
  *
  * 9239 is a skills course built on the Critical Path, so the cards cover the
  * skills, terms and assessment rules of each component (deconstruction,
@@ -21,6 +25,17 @@
 import type { Flashcard, FlashcardDeck } from './types.ts';
 
 interface Spec { n: number; f: string; b: string; src?: string }
+
+const sub = (topic: string, subtopic: string, number: string, specs: Spec[]): Flashcard[] =>
+  specs.map(({ n, f, b, src }) => ({
+    id: `${number}-${n}`,
+    topic,
+    subtopic,
+    front: f,
+    back: b,
+    origin: src ? 'revision-notes' as const : 'authored' as const,
+    ...(src ? { source: src } : {}),
+  }));
 
 const topicOnly = (topic: string, number: string, specs: Spec[]): Flashcard[] =>
   specs.map(({ n, f, b, src }) => ({
@@ -46,7 +61,22 @@ export const DECK_CAMBRIDGE_A_LEVEL_GLOBAL_PERSPECTIVES: FlashcardDeck = {
   syllabusCode: '9239',
   syllabusSeries: '2026-2028',
   author: 'marlbridge-academic-team',
-  updated: '2026-11-08',
+  updated: '2026-11-20',
+  idMigration: {
+    id: '9239-subtopics-2026-11-20',
+    before: '2026-11-20',
+    map: {
+      '1-1': '1-1', '1-2': '1-2', '1-3': '1-3', '1-4': '1-4', '1-5': '1-5',
+      '1-6': '1-6', '1-7': '1-7', '1-8': '1-8', '1-9': '1-9', '1-10': '1-10',
+      '1-11': '1-11', '1-12': '1-12', '2-1': '2-1', '2-2': '2-2', '2-3': '2-3',
+      '2-4': '2-4', '2-5': '2-5', '2-6': '2-6', '2-7': '2-7', '2-8': '2-8',
+      '2-9': '2-9', '2-10': '2-10', '3-1': '3.1-1', '3-2': '3.1-2', '3-3': '3.1-3',
+      '3-4': '3.1-4', '3-5': '3.2-1', '3-6': '3.1-5', '3-7': '3.1-6', '3-8': '3.1-7',
+      '3-9': '3.1-8', '3-10': '3.1-9', '4-1': '4.1-1', '4-2': '4.6-1', '4-3': '4.1-2',
+      '4-4': '4.5-1', '4-5': '4.2-1', '4-6': '4.3-1', '4-7': '4.4-1', '4-8': '4.1-3',
+      '4-9': '4.1-4', '4-10': '4.1-5', '4-11': '4.6-2', '4-12': '4.5-2',
+    },
+  },
   cards: [
     // 1 Component 1 - Written Exam
     ...topicOnly('component-1-written-exam-9239', '1', [
@@ -79,33 +109,45 @@ export const DECK_CAMBRIDGE_A_LEVEL_GLOBAL_PERSPECTIVES: FlashcardDeck = {
     ]),
 
     // 3 Component 3 - Team Project
-    ...topicOnly('component-3-team-project-9239', '3', [
+    ...sub('component-3-team-project-9239', 'presentation-9239', '3.1', [
       { n: 1, f: 'What is the 9239 Component 3 Team Project?', b: 'Externally marked coursework worth 40 marks. Teams of 2–5 (3–4 works best) research a local problem with global relevance together, but every candidate is assessed individually.' },
       { n: 2, f: 'What does each candidate produce for the Team Project, and for how many marks?', b: 'An individual presentation (30 marks) and a reflective paper (10 marks, maximum 800 words).' },
       { n: 3, f: 'What are the rules for the Team Project presentation?', b: 'Maximum 10 minutes: work beyond that is not assessed. It is either a live recording to an audience of at least three including the teacher, or presentation software with a recorded voiceover. It should engage a non-specialist audience.' },
       { n: 4, f: 'Which assessment objectives mark the Team Project presentation?', b: 'AO1: individual analysis of the problem, range of research, evaluation of sources and justification of your own proposed solution. AO3: a well-argued, organised presentation, effective visuals and language suited to the audience.' },
-      { n: 5, f: 'What is the Team Project reflective paper assessed on, and what should it cover?', b: 'Entirely AO2 (Reflection). It covers how effectively the team worked together and what could improve, and your own learning. It is not a second presentation of findings.' },
-      { n: 6, f: 'What makes a good Team Project problem statement?', b: 'Broad enough for each member to research a distinct, contrasting perspective; specific enough to name a real place, group or situation. "Flooding risk to a named coastal town from rising sea levels" works; "climate change" is too abstract.' },
-      { n: 7, f: 'What does each candidate submit for the Team Project?', b: 'The recording, supporting audio-visual materials, a verbatim transcript and the reflective paper, plus a statement of originality.' },
-      { n: 8, f: 'Is a team presentation accepted in Component 3?', b: 'No. Research is collaborative, but only individual work is marked.' },
-      { n: 9, f: 'What may and may not a teacher do during the Team Project?', b: 'Allowed: explaining the task, helping formulate a topic and ways to explore perspectives, and building organisation, referencing and oral skills. Not allowed: detailed subject guidance, researching for a candidate, correcting notes, preparing any part of the presentation or transcript, or suggesting amendments.' },
-      { n: 10, f: 'Why should Team Project preparation put research ahead of polish?', b: 'The 30 presentation marks are split between AO1 and AO3, and AO1 covers four assessed elements against AO3\'s three. Research depth and source evaluation hold more of the marks, though weak delivery still loses AO3 marks.' },
+      { n: 5, f: 'What makes a good Team Project problem statement?', b: 'Broad enough for each member to research a distinct, contrasting perspective; specific enough to name a real place, group or situation. "Flooding risk to a named coastal town from rising sea levels" works; "climate change" is too abstract.' },
+      { n: 6, f: 'What does each candidate submit for the Team Project?', b: 'The recording, supporting audio-visual materials, a verbatim transcript and the reflective paper, plus a statement of originality.' },
+      { n: 7, f: 'Is a team presentation accepted in Component 3?', b: 'No. Research is collaborative, but only individual work is marked.' },
+      { n: 8, f: 'What may and may not a teacher do during the Team Project?', b: 'Allowed: explaining the task, helping formulate a topic and ways to explore perspectives, and building organisation, referencing and oral skills. Not allowed: detailed subject guidance, researching for a candidate, correcting notes, preparing any part of the presentation or transcript, or suggesting amendments.' },
+      { n: 9, f: 'Why should Team Project preparation put research ahead of polish?', b: 'The 30 presentation marks are split between AO1 and AO3, and AO1 covers four assessed elements against AO3\'s three. Research depth and source evaluation hold more of the marks, though weak delivery still loses AO3 marks.' },
+    ]),
+    ...sub('component-3-team-project-9239', 'reflective-paper-9239', '3.2', [
+      { n: 1, f: 'What is the Team Project reflective paper assessed on, and what should it cover?', b: 'Entirely AO2 (Reflection). It covers how effectively the team worked together and what could improve, and your own learning. It is not a second presentation of findings.' },
     ]),
 
     // 4 Component 4 - Cambridge Research Report
-    ...topicOnly('component-4-cambridge-research-report-9239', '4', [
+    ...sub('component-4-cambridge-research-report-9239', 'initial-preparation-and-research-proposal-9239', '4.1', [
       { n: 1, f: 'How is the Cambridge Research Report (Component 4) marked?', b: '85 marks: the research report 75 and the research log 10. It is externally marked, taken only on an A Level route, and is worth 50% of the A Level.' },
-      { n: 2, f: 'What are the length rules for the Cambridge Research Report?', b: 'Up to 5000 words, with an accurate word count stated; work beyond 5000 words is not marked. The title and bibliographical references are not counted, and the log is outside the limit.' },
-      { n: 3, f: 'What form must the Research Report title take?', b: 'A question that leads to a debate, and an open one rather than a loaded one. "Urban farming" is a topic; "Should cities give public land to urban farming?" is a question. "Why is X harmful?" is loaded: it assumes its answer.' },
-      { n: 4, f: 'How does the 9239 syllabus define a perspective?', b: '"A coherent world view which is a response to an issue": made up of argument, evidence and assumptions, and possibly shaped by context.', src: CRR },
-      { n: 5, f: 'What is the difference between primary and secondary evidence?', b: 'Primary: first-hand information such as documents, texts, artefacts, observations, interviews and surveys. Secondary: specialists\' arguments and opinions that reflect on or synthesise primary evidence.', src: CRR },
-      { n: 6, f: 'What is the difference between research methods and methodology?', b: 'Methods are what you did: the ways you gather and analyse evidence. Methodology is why those methods suit your subject, and how they shape what you can conclude.', src: CRR },
-      { n: 7, f: 'What is the research log for?', b: 'A separate record of information, plans, findings, decisions and reflection, worth 10 marks. It should record decisions and the reasons for them, not just dates and tasks, and must not be used to stretch the word limit.' },
-      { n: 8, f: 'What does the research proposal outline, and is it marked?', b: 'The research question, the key concepts, an outline of the debate and example sources. It is approved by your teacher and submitted, but not externally marked.' },
-      { n: 9, f: 'How are the assessment objectives weighted in Component 4?', b: 'AO1 65%, AO2 20%, AO3 15%.', src: CRR },
-      { n: 10, f: 'Which Critical Path stages are mapped to Component 4?', b: 'Deconstruction, reconstruction, reflection and communication. Collaboration is not part of this component.', src: CRR },
-      { n: 11, f: 'What is the difference between a summary and a judgement in the report?', b: 'A summary repeats both sides. A judgement weighs them and says which is stronger and why.', src: CRR },
-      { n: 12, f: 'What two kinds of reflection does AO2 want in the Research Report?', b: 'How other perspectives changed your thinking, and the scope and limits of your own research.', src: CRR },
+      { n: 2, f: 'What form must the Research Report title take?', b: 'A question that leads to a debate, and an open one rather than a loaded one. "Urban farming" is a topic; "Should cities give public land to urban farming?" is a question. "Why is X harmful?" is loaded: it assumes its answer.' },
+      { n: 3, f: 'What does the research proposal outline, and is it marked?', b: 'The research question, the key concepts, an outline of the debate and example sources. It is approved by your teacher and submitted, but not externally marked.' },
+      { n: 4, f: 'How are the assessment objectives weighted in Component 4?', b: 'AO1 65%, AO2 20%, AO3 15%.', src: CRR },
+      { n: 5, f: 'Which Critical Path stages are mapped to Component 4?', b: 'Deconstruction, reconstruction, reflection and communication. Collaboration is not part of this component.', src: CRR },
+    ]),
+    ...sub('component-4-cambridge-research-report-9239', 'evidence-9239', '4.2', [
+      { n: 1, f: 'What is the difference between primary and secondary evidence?', b: 'Primary: first-hand information such as documents, texts, artefacts, observations, interviews and surveys. Secondary: specialists\' arguments and opinions that reflect on or synthesise primary evidence.', src: CRR },
+    ]),
+    ...sub('component-4-cambridge-research-report-9239', 'research-methods-and-methodology-9239', '4.3', [
+      { n: 1, f: 'What is the difference between research methods and methodology?', b: 'Methods are what you did: the ways you gather and analyse evidence. Methodology is why those methods suit your subject, and how they shape what you can conclude.', src: CRR },
+    ]),
+    ...sub('component-4-cambridge-research-report-9239', 'research-log-9239', '4.4', [
+      { n: 1, f: 'What is the research log for?', b: 'A separate record of information, plans, findings, decisions and reflection, worth 10 marks. It should record decisions and the reasons for them, not just dates and tasks, and must not be used to stretch the word limit.' },
+    ]),
+    ...sub('component-4-cambridge-research-report-9239', 'perspectives-9239', '4.5', [
+      { n: 1, f: 'How does the 9239 syllabus define a perspective?', b: '"A coherent world view which is a response to an issue": made up of argument, evidence and assumptions, and possibly shaped by context.', src: CRR },
+      { n: 2, f: 'What two kinds of reflection does AO2 want in the Research Report?', b: 'How other perspectives changed your thinking, and the scope and limits of your own research.', src: CRR },
+    ]),
+    ...sub('component-4-cambridge-research-report-9239', 'structuring-and-presenting-the-cambridge-research-report-9239', '4.6', [
+      { n: 1, f: 'What are the length rules for the Cambridge Research Report?', b: 'Up to 5000 words, with an accurate word count stated; work beyond 5000 words is not marked. The title and bibliographical references are not counted, and the log is outside the limit.' },
+      { n: 2, f: 'What is the difference between a summary and a judgement in the report?', b: 'A summary repeats both sides. A judgement weighs them and says which is stronger and why.', src: CRR },
     ]),
   ],
 };

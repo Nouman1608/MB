@@ -6,11 +6,13 @@
  * marks with a "C" reference (bold) is assessed on Paper 2 only; those cards say
  * "(Paper 2 only)" on the card itself, following the Marlbridge 4CH1 notes.
  *
- * Topics 1 and 2 are itemised into sub-topics (1a-1i, a-h), so ids are
- * `<sub-topic number>-<n>`. Topics 3 and 4 itemise no sub-topics in the
- * syllabus record, so their cards sit on the topic and ids are `<topic>-<n>`.
- * Ids are permanent (browser progress is keyed by them): add a new card with
- * the next unused n, never renumber.
+ * Every topic is itemised into sub-topics (1a-1i, a-h for Topic 2, 3a-3c, 4a-4h),
+ * so ids are `<sub-topic number>-<n>`. Topic 2's sub-topics keep their plain
+ * letters (a-h), so its card ids did not change. On 20 Nov 2026 the cards on
+ * Topics 3 and 4 were re-filed under their sub-topics. `idMigration` below
+ * moves saved progress onto the new ids. Ids
+ * are permanent (browser progress is keyed by them): add a new card with the
+ * next unused n, never renumber.
  *
  *   src: '...'  The card restates that revision-notes page (found with
  *               scripts/flashcard-candidates.mjs 4CH1); origin 'revision-notes'.
@@ -32,17 +34,6 @@ const sub = (topic: string, subtopic: string, number: string, specs: Spec[]): Fl
     ...(src ? { source: src } : {}),
   }));
 
-/** For a topic that itemises no subtopics: the card sits on the topic alone. */
-const topicOnly = (topic: string, number: string, specs: Spec[]): Flashcard[] =>
-  specs.map(({ n, f, b, src }) => ({
-    id: `${number}-${n}`,
-    topic,
-    front: f,
-    back: b,
-    origin: src ? 'revision-notes' as const : 'authored' as const,
-    ...(src ? { source: src } : {}),
-  }));
-
 const P = 'principles-of-chemistry-4ch1';
 const I = 'inorganic-chemistry-4ch1';
 
@@ -58,8 +49,51 @@ export const DECK_EDEXCEL_IGCSE_CHEMISTRY: FlashcardDeck = {
   syllabusCode: '4CH1',
   syllabusSeries: 'Issue 3, September 2024',
   author: 'marlbridge-academic-team',
-  updated: '2026-11-05',
+  updated: '2026-11-20',
   deckReview: { reviewerSlug: 'nouman-ahmed', reviewedOn: '2026-11-05' },
+  idMigration: {
+    id: '4ch1-subtopics-2026-11-20',
+    before: '2026-11-20',
+    map: {
+      '1a-1': '1a-1', '1a-2': '1a-2', '1a-3': '1a-3', '1a-4': '1a-4', '1a-5': '1a-5',
+      '1a-6': '1a-6', '1a-7': '1a-7', '1a-8': '1a-8', '1a-9': '1a-9', '1a-10': '1a-10',
+      '1a-11': '1a-11', '1a-12': '1a-12', '1a-13': '1a-13', '1a-14': '1a-14', '1b-1': '1b-1',
+      '1b-2': '1b-2', '1b-3': '1b-3', '1b-4': '1b-4', '1b-5': '1b-5', '1b-6': '1b-6',
+      '1b-7': '1b-7', '1b-8': '1b-8', '1b-9': '1b-9', '1b-10': '1b-10', '1c-1': '1c-1',
+      '1c-2': '1c-2', '1c-3': '1c-3', '1c-4': '1c-4', '1c-5': '1c-5', '1c-6': '1c-6',
+      '1c-7': '1c-7', '1c-8': '1c-8', '1c-9': '1c-9', '1c-10': '1c-10', '1d-1': '1d-1',
+      '1d-2': '1d-2', '1d-3': '1d-3', '1d-4': '1d-4', '1d-5': '1d-5', '1d-6': '1d-6',
+      '1d-7': '1d-7', '1d-8': '1d-8', '1e-1': '1e-1', '1e-2': '1e-2', '1e-3': '1e-3',
+      '1e-4': '1e-4', '1e-5': '1e-5', '1e-6': '1e-6', '1e-7': '1e-7', '1e-8': '1e-8',
+      '1e-9': '1e-9', '1e-10': '1e-10', '1e-11': '1e-11', '1e-12': '1e-12', '1e-13': '1e-13',
+      '1e-14': '1e-14', '1f-1': '1f-1', '1f-2': '1f-2', '1f-3': '1f-3', '1f-4': '1f-4',
+      '1f-5': '1f-5', '1f-6': '1f-6', '1f-7': '1f-7', '1f-8': '1f-8', '1f-9': '1f-9',
+      '1g-1': '1g-1', '1g-2': '1g-2', '1g-3': '1g-3', '1g-4': '1g-4', '1g-5': '1g-5',
+      '1g-6': '1g-6', '1g-7': '1g-7', '1g-8': '1g-8', '1g-9': '1g-9', '1g-10': '1g-10',
+      '1h-1': '1h-1', '1h-2': '1h-2', '1h-3': '1h-3', '1h-4': '1h-4', '1h-5': '1h-5',
+      '1i-1': '1i-1', '1i-2': '1i-2', '1i-3': '1i-3', '1i-4': '1i-4', '1i-5': '1i-5',
+      '1i-6': '1i-6', '1i-7': '1i-7', '1i-8': '1i-8', '1i-9': '1i-9', '1i-10': '1i-10',
+      'a-1': 'a-1', 'a-2': 'a-2', 'a-3': 'a-3', 'a-4': 'a-4', 'a-5': 'a-5',
+      'a-6': 'a-6', 'a-7': 'a-7', 'b-1': 'b-1', 'b-2': 'b-2', 'b-3': 'b-3',
+      'b-4': 'b-4', 'b-5': 'b-5', 'b-6': 'b-6', 'b-7': 'b-7', 'b-8': 'b-8',
+      'c-1': 'c-1', 'c-2': 'c-2', 'c-3': 'c-3', 'c-4': 'c-4', 'c-5': 'c-5',
+      'c-6': 'c-6', 'c-7': 'c-7', 'c-8': 'c-8', 'd-1': 'd-1', 'd-2': 'd-2',
+      'd-3': 'd-3', 'd-4': 'd-4', 'd-5': 'd-5', 'd-6': 'd-6', 'd-7': 'd-7',
+      'd-8': 'd-8', 'e-1': 'e-1', 'e-2': 'e-2', 'e-3': 'e-3', 'e-4': 'e-4',
+      'e-5': 'e-5', 'e-6': 'e-6', 'e-7': 'e-7', 'e-8': 'e-8', 'e-9': 'e-9',
+      'e-10': 'e-10', 'f-1': 'f-1', 'f-2': 'f-2', 'f-3': 'f-3', 'f-4': 'f-4',
+      'f-5': 'f-5', 'f-6': 'f-6', 'f-7': 'f-7', 'f-8': 'f-8', 'g-1': 'g-1',
+      'g-2': 'g-2', 'g-3': 'g-3', 'g-4': 'g-4', 'g-5': 'g-5', 'g-6': 'g-6',
+      'g-7': 'g-7', 'g-8': 'g-8', 'g-9': 'g-9', 'h-1': 'h-1', 'h-2': 'h-2',
+      'h-3': 'h-3', 'h-4': 'h-4', 'h-5': 'h-5', 'h-6': 'h-6', 'h-7': 'h-7',
+      'h-8': 'h-8', 'h-9': 'h-9', 'h-10': 'h-10', '3-1': '3a-1', '3-2': '3a-2',
+      '3-3': '3a-3', '3-4': '3a-4', '3-5': '3a-5', '3-6': '3b-1', '3-7': '3b-2',
+      '3-8': '3b-3', '3-9': '3b-4', '3-10': '3c-1', '3-11': '3c-2', '3-12': '3c-3',
+      '4-1': '4a-1', '4-2': '4a-2', '4-3': '4b-1', '4-4': '4b-2', '4-5': '4b-3',
+      '4-6': '4b-4', '4-7': '4c-1', '4-8': '4d-1', '4-9': '4e-1', '4-10': '4g-1',
+      '4-11': '4h-1', '4-12': '4h-2',
+    },
+  },
   cards: [
     // 1 Principles of chemistry
     ...sub(P, 'states-of-matter-4ch1', '1a', [
@@ -258,35 +292,51 @@ export const DECK_EDEXCEL_IGCSE_CHEMISTRY: FlashcardDeck = {
     ]),
 
     // 3 Physical chemistry (no subtopics itemised)
-    ...topicOnly('physical-chemistry-4ch1', '3', [
+    ...sub('physical-chemistry-4ch1', 'energetics-4ch1', '3a', [
       { n: 1, f: 'Exothermic and endothermic: heat, surroundings and sign of ΔH', b: 'Exothermic: heat given out, surroundings get hotter, ΔH negative.\nEndothermic: heat taken in, surroundings get colder, ΔH positive.' },
       { n: 2, f: 'Calculating ΔH from a calorimetry experiment', b: 'Q = m × c × ΔT (m = mass of water or solution, not the fuel). Convert to kJ (÷ 1000). ΔH = Q ÷ moles of the reactant not in excess. Temperature rose → negative sign.' },
       { n: 3, f: '200 g of water warms by 15.0 °C. Calculate Q. (c = 4.2 J/g/°C)', b: 'Q = 200 × 4.2 × 15.0 = 12 600 J (12.6 kJ)' },
       { n: 4, f: 'Bond breaking and bond making: which is endothermic, and how is ΔH found from bond energies? (Paper 2 only)', b: 'Breaking is endothermic; making is exothermic.\nΔH = total energy of bonds broken − total energy of bonds made.' },
       { n: 5, f: 'Activation energy vs ΔH on a reaction profile', b: 'Activation energy: from the reactants line up to the peak.\nΔH: from the reactants line to the products line.', src: PHYS },
-      { n: 6, f: 'Why does raising the temperature increase the rate? (two reasons)', b: 'Particles move faster, so they collide more often, and a greater proportion of collisions have energy equal to or greater than the activation energy.' },
-      { n: 7, f: 'More collisions vs more successful collisions', b: 'Only temperature and catalysts change the proportion of collisions that succeed. Concentration, pressure and surface area just make collisions more frequent.', src: PHYS },
-      { n: 8, f: 'Catalyst', b: 'A substance that increases the rate of a reaction and is chemically unchanged at the end. It provides an alternative pathway with a lower activation energy; ΔH is unchanged.' },
-      { n: 9, f: 'Marble chips + dilute HCl rate practical: what to measure and what to keep the same', b: 'Measure mass loss (cotton wool plug) or gas volume at regular times. Change chip size or acid concentration only; keep the mass of chips, volume of acid and temperature the same.', src: PHYS },
-      { n: 10, f: 'Heating hydrated copper(II) sulfate, then adding water to the product', b: 'Heating: blue → white (endothermic).\nAdding water: white → blue, and it gets hot (exothermic).' },
-      { n: 11, f: 'Equal rates vs equal concentrations at equilibrium (Paper 2 only)', b: 'At dynamic equilibrium the forward and reverse rates are equal; the concentrations stay constant, but are not necessarily equal. It needs a sealed container.', src: PHYS },
-      { n: 12, f: 'Effect of temperature, pressure and a catalyst on the position of equilibrium (Paper 2 only)', b: 'Temperature up: shifts in the endothermic direction.\nPressure up: shifts to the side with fewer moles of gas.\nCatalyst: no change in position — equilibrium is reached sooner.' },
+    ]),
+    ...sub('physical-chemistry-4ch1', 'rates-of-reaction-4ch1', '3b', [
+      { n: 1, f: 'Why does raising the temperature increase the rate? (two reasons)', b: 'Particles move faster, so they collide more often, and a greater proportion of collisions have energy equal to or greater than the activation energy.' },
+      { n: 2, f: 'More collisions vs more successful collisions', b: 'Only temperature and catalysts change the proportion of collisions that succeed. Concentration, pressure and surface area just make collisions more frequent.', src: PHYS },
+      { n: 3, f: 'Catalyst', b: 'A substance that increases the rate of a reaction and is chemically unchanged at the end. It provides an alternative pathway with a lower activation energy; ΔH is unchanged.' },
+      { n: 4, f: 'Marble chips + dilute HCl rate practical: what to measure and what to keep the same', b: 'Measure mass loss (cotton wool plug) or gas volume at regular times. Change chip size or acid concentration only; keep the mass of chips, volume of acid and temperature the same.', src: PHYS },
+    ]),
+    ...sub('physical-chemistry-4ch1', 'reversible-reactions-and-equilibria-4ch1', '3c', [
+      { n: 1, f: 'Heating hydrated copper(II) sulfate, then adding water to the product', b: 'Heating: blue → white (endothermic).\nAdding water: white → blue, and it gets hot (exothermic).' },
+      { n: 2, f: 'Equal rates vs equal concentrations at equilibrium (Paper 2 only)', b: 'At dynamic equilibrium the forward and reverse rates are equal; the concentrations stay constant, but are not necessarily equal. It needs a sealed container.', src: PHYS },
+      { n: 3, f: 'Effect of temperature, pressure and a catalyst on the position of equilibrium (Paper 2 only)', b: 'Temperature up: shifts in the endothermic direction.\nPressure up: shifts to the side with fewer moles of gas.\nCatalyst: no change in position — equilibrium is reached sooner.' },
     ]),
 
     // 4 Organic chemistry (no subtopics itemised)
-    ...topicOnly('organic-chemistry-4ch1', '4', [
+    ...sub('organic-chemistry-4ch1', 'introduction-4ch1', '4a', [
       { n: 1, f: 'Homologous series', b: 'A family with the same general formula and functional group, similar chemical properties and a trend in physical properties; each member differs by CH₂.' },
       { n: 2, f: 'Isomers', b: 'Compounds with the same molecular formula but different structural formulae. A bent chain is not a new isomer.' },
-      { n: 3, f: 'Crude oil fractions, top to bottom, with a use for each', b: 'Refinery gases: bottled gas. Gasoline: petrol. Kerosene: aircraft fuel. Diesel: lorries, trains. Fuel oil: ships, power stations. Bitumen: roads.\nGoing down: higher boiling point, more viscous, darker.' },
-      { n: 4, f: 'Complete vs incomplete combustion', b: 'Complete (plenty of oxygen): CO₂ and H₂O.\nIncomplete: CO and/or C (soot). CO is poisonous: it reduces the blood’s capacity to carry oxygen.', src: ORG },
-      { n: 5, f: 'Nitrogen oxides vs sulfur dioxide from engines and power stations', b: 'Nitrogen oxides: N₂ and O₂ from the air react at high temperature.\nSulfur dioxide: sulfur impurities in the fuel. Both cause acid rain.', src: ORG },
-      { n: 6, f: 'Cracking: products, conditions and why it is done', b: 'Long-chain alkane → shorter alkane + alkene. Silica or alumina catalyst, 600–700 °C. Supply of long-chain fractions exceeds demand; demand for short-chain fractions such as gasoline exceeds supply.' },
-      { n: 7, f: 'Addition vs substitution', b: 'Alkenes add (one product), e.g. C₂H₄ + Br₂ → C₂H₄Br₂.\nAlkanes substitute in UV light (two products, one is HX), e.g. C₃H₈ + Cl₂ → C₃H₇Cl + HCl.', src: ORG },
-      { n: 8, f: 'Test to tell an alkene from an alkane', b: 'Bromine water: an alkene decolourises it (orange → colourless); an alkane leaves it orange.' },
-      { n: 9, f: 'Making ethanol: hydration of ethene vs fermentation (Paper 2 only)', b: 'Hydration: C₂H₄ + H₂O → C₂H₅OH; phosphoric acid catalyst, about 300 °C, 60–70 atm.\nFermentation: C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂; yeast enzymes, about 30 °C, absence of air.' },
-      { n: 10, f: 'Making an ester, with an example (Paper 2 only)', b: 'Alcohol + carboxylic acid ⇌ ester + water, with an acid catalyst. Ethanol + ethanoic acid → ethyl ethanoate, CH₃COOC₂H₅. Esters are used in food flavourings and perfumes.' },
-      { n: 11, f: 'Addition polymer', b: 'Many monomers joined as the C=C opens. The repeat unit has only single bonds in the backbone and extension bonds through the brackets.', src: ORG },
-      { n: 12, f: 'Addition vs condensation polymerisation', b: 'Addition gives one product only. Condensation also gives water — e.g. a dicarboxylic acid + a diol → polyester + water (Paper 2 only).', src: ORG },
+    ]),
+    ...sub('organic-chemistry-4ch1', 'crude-oil-4ch1', '4b', [
+      { n: 1, f: 'Crude oil fractions, top to bottom, with a use for each', b: 'Refinery gases: bottled gas. Gasoline: petrol. Kerosene: aircraft fuel. Diesel: lorries, trains. Fuel oil: ships, power stations. Bitumen: roads.\nGoing down: higher boiling point, more viscous, darker.' },
+      { n: 2, f: 'Complete vs incomplete combustion', b: 'Complete (plenty of oxygen): CO₂ and H₂O.\nIncomplete: CO and/or C (soot). CO is poisonous: it reduces the blood’s capacity to carry oxygen.', src: ORG },
+      { n: 3, f: 'Nitrogen oxides vs sulfur dioxide from engines and power stations', b: 'Nitrogen oxides: N₂ and O₂ from the air react at high temperature.\nSulfur dioxide: sulfur impurities in the fuel. Both cause acid rain.', src: ORG },
+      { n: 4, f: 'Cracking: products, conditions and why it is done', b: 'Long-chain alkane → shorter alkane + alkene. Silica or alumina catalyst, 600–700 °C. Supply of long-chain fractions exceeds demand; demand for short-chain fractions such as gasoline exceeds supply.' },
+    ]),
+    ...sub('organic-chemistry-4ch1', 'alkanes-4ch1', '4c', [
+      { n: 1, f: 'Addition vs substitution', b: 'Alkenes add (one product), e.g. C₂H₄ + Br₂ → C₂H₄Br₂.\nAlkanes substitute in UV light (two products, one is HX), e.g. C₃H₈ + Cl₂ → C₃H₇Cl + HCl.', src: ORG },
+    ]),
+    ...sub('organic-chemistry-4ch1', 'alkenes-4ch1', '4d', [
+      { n: 1, f: 'Test to tell an alkene from an alkane', b: 'Bromine water: an alkene decolourises it (orange → colourless); an alkane leaves it orange.' },
+    ]),
+    ...sub('organic-chemistry-4ch1', 'alcohols-4ch1', '4e', [
+      { n: 1, f: 'Making ethanol: hydration of ethene vs fermentation (Paper 2 only)', b: 'Hydration: C₂H₄ + H₂O → C₂H₅OH; phosphoric acid catalyst, about 300 °C, 60–70 atm.\nFermentation: C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂; yeast enzymes, about 30 °C, absence of air.' },
+    ]),
+    ...sub('organic-chemistry-4ch1', 'esters-4ch1', '4g', [
+      { n: 1, f: 'Making an ester, with an example (Paper 2 only)', b: 'Alcohol + carboxylic acid ⇌ ester + water, with an acid catalyst. Ethanol + ethanoic acid → ethyl ethanoate, CH₃COOC₂H₅. Esters are used in food flavourings and perfumes.' },
+    ]),
+    ...sub('organic-chemistry-4ch1', 'synthetic-polymers-4ch1', '4h', [
+      { n: 1, f: 'Addition polymer', b: 'Many monomers joined as the C=C opens. The repeat unit has only single bonds in the backbone and extension bonds through the brackets.', src: ORG },
+      { n: 2, f: 'Addition vs condensation polymerisation', b: 'Addition gives one product only. Condensation also gives water — e.g. a dicarboxylic acid + a diol → polyester + water (Paper 2 only).', src: ORG },
     ]),
   ],
 };

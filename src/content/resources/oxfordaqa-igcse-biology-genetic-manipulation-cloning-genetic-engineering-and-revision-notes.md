@@ -13,6 +13,8 @@ order: 249
 syllabusTopics:
   - qualification: "igcse"
     topic: "inheritance-oxfordaqa-igcse-biology"
+  - qualification: "igcse"
+    topic: "inheritance-oxfordaqa-igcse-biology"
     subtopic: "genetic-manipulation-oxfordaqa-igcse-biology"
 description: "Condensed revision notes on cloning, genetic engineering and GM crops for OxfordAQA International GCSE Biology (9201), section 3.5.5, with a self-test."
 author: "marlbridge-academic-team"

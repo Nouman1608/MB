@@ -2,11 +2,13 @@
  * D-444 -- flashcards for OxfordAQA International AS and A-level Biology 9610
  * (Version 5.1, for International A-level exams May/June 2018 onwards).
  *
- * One block per subtopic (Unit 2) or per topic (Units 1, 3 and 4, which the
- * syllabus record does not yet itemise into subtopics), in syllabus order.
- * Card ids are `<subtopic number>-<n>` or `<topic number>-<n>` and are
- * permanent (browser progress is keyed by them): add a new card with the
- * next unused n, never renumber.
+ * One block per subtopic, in syllabus order. The syllabus record itemises
+ * every topic into subtopics (3.1.1 to 3.4.10), so card ids are
+ * `<subtopic number>-<n>` and are permanent (browser progress is keyed by
+ * them): add a new card with the next unused n, never renumber. On 20 Nov
+ * 2026 the cards that sat on Units 1, 3 and 4 as a whole were re-filed under
+ * their subtopics, and `idMigration` below moves saved progress onto the new
+ * ids.
  *
  *   src: '...'  The card restates that revision-notes page (found with
  *               scripts/flashcard-candidates.mjs 9610, or a definition table
@@ -24,17 +26,6 @@ const sub = (topic: string, subtopic: string, number: string, specs: Spec[]): Fl
     id: `${number}-${n}`,
     topic,
     subtopic,
-    front: f,
-    back: b,
-    ...(u ? { tier: 'upper' as const } : {}),
-    origin: src ? 'revision-notes' as const : 'authored' as const,
-    ...(src ? { source: src } : {}),
-  }));
-
-const topicOnly = (topic: string, number: string, specs: Spec[]): Flashcard[] =>
-  specs.map(({ n, f, b, u, src }) => ({
-    id: `${number}-${n}`,
-    topic,
     front: f,
     back: b,
     ...(u ? { tier: 'upper' as const } : {}),
@@ -76,29 +67,80 @@ export const DECK_OXFORDAQA_A_LEVEL_BIOLOGY: FlashcardDeck = {
   syllabusCode: '9610',
   syllabusSeries: 'Version 5.1, for International A-level exams May/June 2018 onwards',
   author: 'marlbridge-academic-team',
-  updated: '2026-11-05',
+  updated: '2026-11-20',
   deckReview: { reviewerSlug: 'hina-mogul', reviewedOn: '2026-11-05' },
+  idMigration: {
+    id: '9610-subtopics-2026-11-20',
+    before: '2026-11-20',
+    map: {
+      '1-1': '3.1.10-1', '1-2': '3.1.10-2', '1-3': '3.1.10-3', '1-4': '3.1.10-4', '1-5': '3.1.11-1',
+      '1-6': '3.1.11-2', '1-7': '3.1.11-3', '1-8': '3.1.9-1', '1-9': '3.1.11-4', '1-10': '3.1.1-1',
+      '1-11': '3.1.4-1', '1-12': '3.1.7-1', '1-13': '3.1.1-2', '1-14': '3.1.1-3', '1-15': '3.1.1-4',
+      '1-16': '3.1.3-1', '1-17': '3.1.8-1', '1-18': '3.1.7-2', '3.2.1-1': '3.2.1-1', '3.2.1-2': '3.2.1-2',
+      '3.2.1-3': '3.2.1-3', '3.2.1-4': '3.2.1-4', '3.2.1-5': '3.2.1-5', '3.2.1-6': '3.2.1-6', '3.2.1-7': '3.2.1-7',
+      '3.2.1-8': '3.2.1-8', '3.2.1-9': '3.2.1-9', '3.2.2-1': '3.2.2-1', '3.2.2-2': '3.2.2-2', '3.2.2-3': '3.2.2-3',
+      '3.2.2-4': '3.2.2-4', '3.2.2-5': '3.2.2-5', '3.2.2-6': '3.2.2-6', '3.2.2-7': '3.2.2-7', '3.2.2-8': '3.2.2-8',
+      '3.2.2-9': '3.2.2-9', '3.2.3-1': '3.2.3-1', '3.2.3-2': '3.2.3-2', '3.2.3-3': '3.2.3-3', '3.2.3-4': '3.2.3-4',
+      '3.2.3-5': '3.2.3-5', '3.2.3-6': '3.2.3-6', '3.2.3-7': '3.2.3-7', '3.2.3-8': '3.2.3-8', '3.2.3-9': '3.2.3-9',
+      '3.2.4-1': '3.2.4-1', '3.2.4-2': '3.2.4-2', '3.2.4-3': '3.2.4-3', '3.2.4-4': '3.2.4-4', '3.2.4-5': '3.2.4-5',
+      '3.2.4-6': '3.2.4-6', '3.2.4-7': '3.2.4-7', '3.2.4-8': '3.2.4-8', '3.2.4-9': '3.2.4-9', '3.2.4-10': '3.2.4-10',
+      '3.2.5-1': '3.2.5-1', '3.2.5-2': '3.2.5-2', '3.2.5-3': '3.2.5-3', '3.2.5-4': '3.2.5-4', '3.2.5-5': '3.2.5-5',
+      '3.2.5-6': '3.2.5-6', '3.2.5-7': '3.2.5-7', '3.2.5-8': '3.2.5-8', '3.2.5-9': '3.2.5-9', '3.2.5-10': '3.2.5-10',
+      '3.2.5-11': '3.2.5-11', '3.2.5-12': '3.2.5-12', '3.2.6-1': '3.2.6-1', '3.2.6-2': '3.2.6-2', '3.2.6-3': '3.2.6-3',
+      '3.2.6-4': '3.2.6-4', '3.2.6-5': '3.2.6-5', '3.2.6-6': '3.2.6-6', '3.2.6-7': '3.2.6-7', '3.2.6-8': '3.2.6-8',
+      '3.2.6-9': '3.2.6-9', '3.2.6-10': '3.2.6-10', '3.2.6-11': '3.2.6-11', '3.2.7-1': '3.2.7-1', '3.2.7-2': '3.2.7-2',
+      '3.2.7-3': '3.2.7-3', '3.2.7-4': '3.2.7-4', '3.2.7-5': '3.2.7-5', '3.2.7-6': '3.2.7-6', '3.2.7-7': '3.2.7-7',
+      '3.2.7-8': '3.2.7-8', '3.2.7-9': '3.2.7-9', '3.2.8-1': '3.2.8-1', '3.2.8-2': '3.2.8-2', '3.2.8-3': '3.2.8-3',
+      '3.2.8-4': '3.2.8-4', '3.2.8-5': '3.2.8-5', '3.2.8-6': '3.2.8-6', '3.2.8-7': '3.2.8-7', '3.2.8-8': '3.2.8-8',
+      '3.2.8-9': '3.2.8-9', '3.2.8-10': '3.2.8-10', '3.2.8-11': '3.2.8-11', '3.2.9-1': '3.2.9-1', '3.2.9-2': '3.2.9-2',
+      '3.2.9-3': '3.2.9-3', '3.2.9-4': '3.2.9-4', '3.2.9-5': '3.2.9-5', '3.2.9-6': '3.2.9-6', '3.2.9-7': '3.2.9-7',
+      '3.2.9-8': '3.2.9-8', '3.2.10-1': '3.2.10-1', '3.2.10-2': '3.2.10-2', '3.2.10-3': '3.2.10-3', '3.2.10-4': '3.2.10-4',
+      '3.2.10-5': '3.2.10-5', '3.2.10-6': '3.2.10-6', '3.2.10-7': '3.2.10-7', '3.2.10-8': '3.2.10-8', '3.2.10-9': '3.2.10-9',
+      '3.2.10-10': '3.2.10-10', '3.2.10-11': '3.2.10-11', '3.2.11-1': '3.2.11-1', '3.2.11-2': '3.2.11-2', '3.2.11-3': '3.2.11-3',
+      '3.2.11-4': '3.2.11-4', '3.2.11-5': '3.2.11-5', '3.2.11-6': '3.2.11-6', '3.2.11-7': '3.2.11-7', '3.2.11-8': '3.2.11-8',
+      '3.2.11-9': '3.2.11-9', '3.2.11-10': '3.2.11-10', '3-1': '3.3.1-1', '3-2': '3.3.1-2', '3-3': '3.3.1-3',
+      '3-4': '3.3.2-1', '3-5': '3.3.2-2', '3-6': '3.3.3-1', '3-7': '3.3.4-1', '3-8': '3.3.5-1',
+      '3-9': '3.3.6-1', '3-10': '3.3.7-1', '3-11': '3.3.7-2', '3-12': '3.3.8-1', '4-1': '3.4.1-1',
+      '4-2': '3.4.2-1', '4-3': '3.4.2-2', '4-4': '3.4.5-1', '4-5': '3.4.5-2', '4-6': '3.4.3-1',
+      '4-7': '3.4.3-2', '4-8': '3.4.4-1', '4-9': '3.4.8-1', '4-10': '3.4.7-1', '4-11': '3.4.9-1',
+      '4-12': '3.4.10-1',
+    },
+  },
   cards: [
     // 1 The diversity of living organisms
-    ...topicOnly('the-diversity-of-living-organisms-oxfordaqa-alevel-biology', '1', [
+    ...sub('the-diversity-of-living-organisms-oxfordaqa-alevel-biology', 'biological-molecules-oxfordaqa-alevel-biology', '3.1.1', [
+      { n: 1, f: "Condensation and hydrolysis", b: "Condensation joins two molecules by a chemical bond, releasing a water molecule.\nHydrolysis breaks the bond using a water molecule.", src: BMOL },
+      { n: 2, f: "Starch compared with cellulose", b: "Starch: α-glucose; amylose (unbranched, coiled) and amylopectin (branched); insoluble, compact energy store in plants.\nCellulose: β-glucose; straight, unbranched chains joined by hydrogen bonds into microfibrils, giving the cell wall high tensile strength.", src: BMOL },
+      { n: 3, f: "Test for a non-reducing sugar", b: "After a negative Benedict's test, boil a fresh sample with dilute hydrochloric acid, neutralise with sodium hydrogencarbonate, then heat with Benedict's reagent. A coloured precipitate shows a non-reducing sugar (the acid hydrolysed it).", src: BMOL },
+      { n: 4, f: "Triglyceride compared with phospholipid", b: "Triglyceride: one glycerol and three fatty acids joined by ester bonds in condensation reactions.\nPhospholipid: one fatty acid is replaced by a phosphate-containing group, giving a hydrophilic head and hydrophobic tails.", src: BMOL },
+    ]),
+    ...sub('the-diversity-of-living-organisms-oxfordaqa-alevel-biology', 'biochemical-reactions-in-cells-are-controlled-by-enzymes-oxfordaqa-alevel-biology', '3.1.3', [
+      { n: 1, f: "Competitive compared with non-competitive inhibitors", b: "Competitive: similar shape to the substrate, binds the active site; its effect is reduced by adding more substrate.\nNon-competitive: binds away from the active site and changes its shape; adding more substrate does not overcome it.", src: BMOL },
+    ]),
+    ...sub('the-diversity-of-living-organisms-oxfordaqa-alevel-biology', 'transport-into-and-out-of-cells-oxfordaqa-alevel-biology', '3.1.4', [
+      { n: 1, f: "Facilitated diffusion compared with active transport", b: "Facilitated diffusion: passive movement down a concentration gradient through channel or carrier proteins; no ATP.\nActive transport: movement against a concentration gradient by carrier proteins, using ATP.", src: BMOL },
+    ]),
+    ...sub('the-diversity-of-living-organisms-oxfordaqa-alevel-biology', 'dna-genes-and-chromosomes-oxfordaqa-alevel-biology', '3.1.7', [
+      { n: 1, f: "Properties of the genetic code", b: "A triplet of bases codes for each amino acid. It is universal (same in all organisms), non-overlapping and degenerate (most amino acids have more than one triplet).", src: BMOL },
+      { n: 2, f: "Nuclear DNA of a eukaryote compared with DNA of a prokaryote", b: "Eukaryotic nucleus: long, linear, associated with proteins such as histones that package it into chromosomes.\nProkaryotes (and mitochondria and chloroplasts): shorter, circular, not associated with proteins.", src: BMOL },
+    ]),
+    ...sub('the-diversity-of-living-organisms-oxfordaqa-alevel-biology', 'protein-synthesis-oxfordaqa-alevel-biology', '3.1.8', [
+      { n: 1, f: "Transcription in prokaryotes compared with eukaryotes", b: "In both, RNA polymerase joins mRNA nucleotides. In prokaryotes transcription produces mRNA directly. In eukaryotes it produces pre-mRNA, which is spliced (introns removed) to form mRNA.", src: BMOL },
+    ]),
+    ...sub('the-diversity-of-living-organisms-oxfordaqa-alevel-biology', 'genetic-diversity-may-arise-by-meiosis-oxfordaqa-alevel-biology', '3.1.9', [
+      { n: 1, f: "Three causes of genetic diversity", b: "Mutation; meiosis (crossing over and independent assortment); and random fertilisation.", src: DIV },
+    ]),
+    ...sub('the-diversity-of-living-organisms-oxfordaqa-alevel-biology', 'species-and-taxonomy-oxfordaqa-alevel-biology', '3.1.10', [
       { n: 1, f: "The taxonomic hierarchy, from largest to smallest group", b: "Domain, kingdom, phylum, class, order, family, genus, species. Each group sits inside the one above, with no overlap between groups.", src: DIV },
       { n: 2, f: "Species", b: "A group of organisms with similar characteristics that can interbreed to produce fertile offspring. A mule (infertile offspring of a horse and a donkey) shows why 'fertile' is essential.", src: DIV },
       { n: 3, f: "How is a binomial name written?", b: "Genus then species. The genus has a capital letter, the species is lower case, and both are in italics (or underlined when handwritten).", src: DIV },
       { n: 4, f: "Phylogenetic classification, and the evidence used for it", b: "Grouping by evolutionary relationships and common ancestry. Evidence: DNA base sequences, mRNA sequences and amino acid sequences of proteins; the more similar, the more recent the common ancestor.", src: DIV },
-      { n: 5, f: "Species richness and species diversity", b: "Species richness: the number of different species present.\nSpecies diversity: the number of species and the number of individuals in each.", src: DIV },
-      { n: 6, f: "A community has 3 species with 10, 4 and 1 individuals. Calculate the index of diversity, d = N(N − 1) ÷ Σn(n − 1).", b: "N = 15, so N(N − 1) = 210. Σn(n − 1) = 90 + 12 + 0 = 102. d = 210 ÷ 102 = 2.06" },
-      { n: 7, f: "How can genetic diversity be measured (3.1.11.1)?", b: "By comparing the base sequence of DNA or of mRNA, the frequency of specific base sequences or alleles in populations, or the amino acid sequence of the proteins they code for.", src: DIV },
-      { n: 8, f: "Three causes of genetic diversity", b: "Mutation; meiosis (crossing over and independent assortment); and random fertilisation.", src: DIV },
-      { n: 9, f: "Why are quadrats placed at random coordinates, and why does sample size matter?", b: "Random coordinates remove bias from the person sampling, so the sample represents the area. The sample must be large enough for a reliable mean; a small one may miss species by chance.", src: DIV },
-      { n: 10, f: "Condensation and hydrolysis", b: "Condensation joins two molecules by a chemical bond, releasing a water molecule.\nHydrolysis breaks the bond using a water molecule.", src: BMOL },
-      { n: 11, f: "Facilitated diffusion compared with active transport", b: "Facilitated diffusion: passive movement down a concentration gradient through channel or carrier proteins; no ATP.\nActive transport: movement against a concentration gradient by carrier proteins, using ATP.", src: BMOL },
-      { n: 12, f: "Properties of the genetic code", b: "A triplet of bases codes for each amino acid. It is universal (same in all organisms), non-overlapping and degenerate (most amino acids have more than one triplet).", src: BMOL },
-      { n: 13, f: "Starch compared with cellulose", b: "Starch: α-glucose; amylose (unbranched, coiled) and amylopectin (branched); insoluble, compact energy store in plants.\nCellulose: β-glucose; straight, unbranched chains joined by hydrogen bonds into microfibrils, giving the cell wall high tensile strength.", src: BMOL },
-      { n: 14, f: "Test for a non-reducing sugar", b: "After a negative Benedict's test, boil a fresh sample with dilute hydrochloric acid, neutralise with sodium hydrogencarbonate, then heat with Benedict's reagent. A coloured precipitate shows a non-reducing sugar (the acid hydrolysed it).", src: BMOL },
-      { n: 15, f: "Triglyceride compared with phospholipid", b: "Triglyceride: one glycerol and three fatty acids joined by ester bonds in condensation reactions.\nPhospholipid: one fatty acid is replaced by a phosphate-containing group, giving a hydrophilic head and hydrophobic tails.", src: BMOL },
-      { n: 16, f: "Competitive compared with non-competitive inhibitors", b: "Competitive: similar shape to the substrate, binds the active site; its effect is reduced by adding more substrate.\nNon-competitive: binds away from the active site and changes its shape; adding more substrate does not overcome it.", src: BMOL },
-      { n: 17, f: "Transcription in prokaryotes compared with eukaryotes", b: "In both, RNA polymerase joins mRNA nucleotides. In prokaryotes transcription produces mRNA directly. In eukaryotes it produces pre-mRNA, which is spliced (introns removed) to form mRNA.", src: BMOL },
-      { n: 18, f: "Nuclear DNA of a eukaryote compared with DNA of a prokaryote", b: "Eukaryotic nucleus: long, linear, associated with proteins such as histones that package it into chromosomes.\nProkaryotes (and mitochondria and chloroplasts): shorter, circular, not associated with proteins.", src: BMOL },
+    ]),
+    ...sub('the-diversity-of-living-organisms-oxfordaqa-alevel-biology', 'biodiversity-within-a-community-oxfordaqa-alevel-biology', '3.1.11', [
+      { n: 1, f: "Species richness and species diversity", b: "Species richness: the number of different species present.\nSpecies diversity: the number of species and the number of individuals in each.", src: DIV },
+      { n: 2, f: "A community has 3 species with 10, 4 and 1 individuals. Calculate the index of diversity, d = N(N − 1) ÷ Σn(n − 1).", b: "N = 15, so N(N − 1) = 210. Σn(n − 1) = 90 + 12 + 0 = 102. d = 210 ÷ 102 = 2.06" },
+      { n: 3, f: "How can genetic diversity be measured (3.1.11.1)?", b: "By comparing the base sequence of DNA or of mRNA, the frequency of specific base sequences or alleles in populations, or the amino acid sequence of the proteins they code for.", src: DIV },
+      { n: 4, f: "Why are quadrats placed at random coordinates, and why does sample size matter?", b: "Random coordinates remove bias from the person sampling, so the sample represents the area. The sample must be large enough for a reliable mean; a small one may miss species by chance.", src: DIV },
     ]),
 
     // 2 Biological systems and disease
@@ -235,35 +277,65 @@ export const DECK_OXFORDAQA_A_LEVEL_BIOLOGY: FlashcardDeck = {
     ]),
 
     // 3 Populations and genes
-    ...topicOnly('populations-and-genes-oxfordaqa-alevel-biology', '3', [
+    ...sub('populations-and-genes-oxfordaqa-alevel-biology', 'the-effect-of-biotic-and-abiotic-factors-on-populations-oxfordaqa-alevel-biology', '3.3.1', [
       { n: 1, f: "Habitat and niche", b: "Habitat: the place where an organism lives.\nNiche: the role of a species in its habitat, set by its adaptations to biotic and abiotic conditions. Habitat is where; niche is how.", src: POPC },
       { n: 2, f: "Why does a predator population peak after its prey?", b: "More prey means more food for predators, so predator numbers rise after a delay; more predators then reduce the prey, and predator numbers fall in turn." },
       { n: 3, f: "How does primary succession lead to a climax community?", b: "Pioneer species (lichens, mosses) colonise bare ground; their remains build soil. Each stage changes the environment, making it suitable for newcomers with different adaptations, which may out-compete earlier species, until a relatively stable climax community forms." },
-      { n: 4, f: "Photolysis of water in the light-dependent reaction", b: "2H₂O → 4H⁺ + 4e⁻ + O₂. Electrons replace those lost from chlorophyll; protons combine with NADP to form reduced NADP; oxygen is released." },
-      { n: 5, f: "Light-independent reaction in outline", b: "CO₂ + RuBP (5C) → 2 GP (3C), catalysed by rubisco. GP is reduced to triose phosphate using ATP and reduced NADP. Most triose phosphate regenerates RuBP; the rest makes useful organic substances.", src: PHOT },
-      { n: 6, f: "Respiratory quotient (RQ), and typical values", b: "RQ = CO₂ produced ÷ O₂ consumed. Carbohydrate about 1.0, protein about 0.9, lipid about 0.7.", src: RESPX },
-      { n: 7, f: "Net production of a consumer", b: "N = I − (F + U + R). I: energy in ingested food; F: in faeces; U: in urine; R: respiratory loss.", src: ETPF },
-      { n: 8, f: "Nitrification and denitrification", b: "Nitrification: ammonium oxidised to nitrite, then nitrate, by nitrifying bacteria; aerobic.\nDenitrification: nitrate to nitrogen gas by denitrifying bacteria; anaerobic, e.g. waterlogged soil.", src: NUTC },
-      { n: 9, f: "Chi-squared test: degrees of freedom and decision", b: "χ² = Σ(O − E)² ÷ E, using counts not percentages. Degrees of freedom = categories − 1. Below the critical value at p = 0.05 (3.84 for 1 df): not significant, the null hypothesis stands.", src: INHX },
-      { n: 10, f: "Conditions for the Hardy–Weinberg principle", b: "A large population, random mating, no mutation, no migration (gene flow) and no selection.", src: AFG },
-      { n: 11, f: "Genetic bottleneck", b: "A severe reduction in population size, caused by an environmental event or human activity, which reduces the genetic variety of the gene pool.", src: AFG },
-      { n: 12, f: "Stabilising, directional and disruptive selection", b: "Stabilising: mean phenotype favoured; mean unchanged, spread narrows.\nDirectional: one extreme favoured; mean shifts.\nDisruptive: both extremes favoured; spread widens, two peaks.", src: NSS },
+    ]),
+    ...sub('populations-and-genes-oxfordaqa-alevel-biology', 'photosynthesis-oxfordaqa-alevel-biology', '3.3.2', [
+      { n: 1, f: "Photolysis of water in the light-dependent reaction", b: "2H₂O → 4H⁺ + 4e⁻ + O₂. Electrons replace those lost from chlorophyll; protons combine with NADP to form reduced NADP; oxygen is released." },
+      { n: 2, f: "Light-independent reaction in outline", b: "CO₂ + RuBP (5C) → 2 GP (3C), catalysed by rubisco. GP is reduced to triose phosphate using ATP and reduced NADP. Most triose phosphate regenerates RuBP; the rest makes useful organic substances.", src: PHOT },
+    ]),
+    ...sub('populations-and-genes-oxfordaqa-alevel-biology', 'respiration-oxfordaqa-alevel-biology', '3.3.3', [
+      { n: 1, f: "Respiratory quotient (RQ), and typical values", b: "RQ = CO₂ produced ÷ O₂ consumed. Carbohydrate about 1.0, protein about 0.9, lipid about 0.7.", src: RESPX },
+    ]),
+    ...sub('populations-and-genes-oxfordaqa-alevel-biology', 'energy-transfer-through-ecosystems-oxfordaqa-alevel-biology', '3.3.4', [
+      { n: 1, f: "Net production of a consumer", b: "N = I − (F + U + R). I: energy in ingested food; F: in faeces; U: in urine; R: respiratory loss.", src: ETPF },
+    ]),
+    ...sub('populations-and-genes-oxfordaqa-alevel-biology', 'nutrient-cycles-oxfordaqa-alevel-biology', '3.3.5', [
+      { n: 1, f: "Nitrification and denitrification", b: "Nitrification: ammonium oxidised to nitrite, then nitrate, by nitrifying bacteria; aerobic.\nDenitrification: nitrate to nitrogen gas by denitrifying bacteria; anaerobic, e.g. waterlogged soil.", src: NUTC },
+    ]),
+    ...sub('populations-and-genes-oxfordaqa-alevel-biology', 'inheritance-oxfordaqa-alevel-biology', '3.3.6', [
+      { n: 1, f: "Chi-squared test: degrees of freedom and decision", b: "χ² = Σ(O − E)² ÷ E, using counts not percentages. Degrees of freedom = categories − 1. Below the critical value at p = 0.05 (3.84 for 1 df): not significant, the null hypothesis stands.", src: INHX },
+    ]),
+    ...sub('populations-and-genes-oxfordaqa-alevel-biology', 'allele-frequencies-in-populations-oxfordaqa-alevel-biology', '3.3.7', [
+      { n: 1, f: "Conditions for the Hardy–Weinberg principle", b: "A large population, random mating, no mutation, no migration (gene flow) and no selection.", src: AFG },
+      { n: 2, f: "Genetic bottleneck", b: "A severe reduction in population size, caused by an environmental event or human activity, which reduces the genetic variety of the gene pool.", src: AFG },
+    ]),
+    ...sub('populations-and-genes-oxfordaqa-alevel-biology', 'evolution-may-lead-to-speciation-oxfordaqa-alevel-biology', '3.3.8', [
+      { n: 1, f: "Stabilising, directional and disruptive selection", b: "Stabilising: mean phenotype favoured; mean unchanged, spread narrows.\nDirectional: one extreme favoured; mean shifts.\nDisruptive: both extremes favoured; spread widens, two peaks.", src: NSS },
     ]),
 
     // 4 Control
-    ...topicOnly('control-oxfordaqa-alevel-biology', '4', [
+    ...sub('control-oxfordaqa-alevel-biology', 'control-systems-involve-stimulus-and-response-oxfordaqa-alevel-biology', '3.4.1', [
       { n: 1, f: "Taxis and kinesis", b: "Taxis: movement directed towards or away from the direction of a stimulus.\nKinesis: random movement whose speed or rate of turning changes with stimulus intensity.", src: RTKS },
-      { n: 2, f: "How does a Pacinian corpuscle produce a generator potential?", b: "Pressure deforms the lamellae and stretches the neurone ending membrane; stretch-mediated sodium ion channels widen and Na⁺ diffuses in, depolarising the membrane. If the generator potential reaches threshold, an action potential is set up." },
-      { n: 3, f: "Rods and cones: sensitivity and acuity", b: "Rods: many share one bipolar neurone, so generator potentials summate; high sensitivity in dim light, low acuity.\nCones: usually one cone per bipolar neurone; need bright light, high acuity; three types give colour vision." },
-      { n: 4, f: "Effect of a higher IAA concentration on shoots and roots", b: "Shoots: stimulates cell elongation.\nRoots: inhibits cell elongation.\nSo a horizontal shoot bends up and a horizontal root bends down.", src: PGS },
-      { n: 5, f: "How does ABA close stomata in a water-stressed plant?", b: "ABA stimulates transport of K⁺ and Cl⁻ out of the guard cells, raising their water potential. Water leaves the guard cells by osmosis, they shrink, and the stoma closes." },
-      { n: 6, f: "Ion movements during an action potential", b: "Depolarisation: voltage-gated Na⁺ channels open and Na⁺ enters; past threshold (about −55 mV) positive feedback opens many more, to about +40 mV.\nRepolarisation: Na⁺ channels close, voltage-gated K⁺ channels open, K⁺ leaves." },
-      { n: 7, f: "What happens when an action potential reaches a cholinergic synapse?", b: "Voltage-gated Ca²⁺ channels open and Ca²⁺ diffuses in; vesicles fuse and release acetylcholine by exocytosis; it diffuses across the cleft and binds receptors, opening Na⁺ channels. Acetylcholinesterase hydrolyses it." },
-      { n: 8, f: "Roles of ATP in muscle contraction", b: "ATP binding detaches the myosin head from actin; hydrolysis of ATP by the head's ATPase resets the head; ATP also powers the pumps returning Ca²⁺ to the sarcoplasmic reticulum.", src: SKM },
-      { n: 9, f: "Route of the electrical wave in a heartbeat", b: "SAN (pacemaker, right atrium) → wave across the atria, which contract → blocked by a fibrous layer → AVN delays it → bundle of His in the septum → Purkinje tissue → ventricles contract from the apex upwards." },
-      { n: 10, f: "Second messenger model for glucagon and adrenaline", b: "The hormone binds a surface receptor; adenyl cyclase is activated and converts ATP into cAMP (the second messenger); cAMP activates protein kinase, which activates enzymes that break glycogen down to glucose.", src: BG },
-      { n: 11, f: "Effect of histone acetylation on transcription", b: "Histones are positive and DNA negative. Increased acetylation reduces their attraction, loosening the DNA so RNA polymerase and transcription factors can reach it: more transcription. Decreased acetylation packs DNA tightly: less transcription.", src: REGS },
-      { n: 12, f: "Restriction endonucleases and DNA ligase", b: "A restriction endonuclease cuts DNA only at its own recognition sequence, often leaving sticky ends. DNA ligase joins sugar–phosphate backbones by forming phosphodiester bonds.", src: RDNA },
+    ]),
+    ...sub('control-oxfordaqa-alevel-biology', 'receptors-oxfordaqa-alevel-biology', '3.4.2', [
+      { n: 1, f: "How does a Pacinian corpuscle produce a generator potential?", b: "Pressure deforms the lamellae and stretches the neurone ending membrane; stretch-mediated sodium ion channels widen and Na⁺ diffuses in, depolarising the membrane. If the generator potential reaches threshold, an action potential is set up." },
+      { n: 2, f: "Rods and cones: sensitivity and acuity", b: "Rods: many share one bipolar neurone, so generator potentials summate; high sensitivity in dim light, low acuity.\nCones: usually one cone per bipolar neurone; need bright light, high acuity; three types give colour vision." },
+    ]),
+    ...sub('control-oxfordaqa-alevel-biology', 'nerve-impulses-and-synaptic-transmission-oxfordaqa-alevel-biology', '3.4.3', [
+      { n: 1, f: "Ion movements during an action potential", b: "Depolarisation: voltage-gated Na⁺ channels open and Na⁺ enters; past threshold (about −55 mV) positive feedback opens many more, to about +40 mV.\nRepolarisation: Na⁺ channels close, voltage-gated K⁺ channels open, K⁺ leaves." },
+      { n: 2, f: "What happens when an action potential reaches a cholinergic synapse?", b: "Voltage-gated Ca²⁺ channels open and Ca²⁺ diffuses in; vesicles fuse and release acetylcholine by exocytosis; it diffuses across the cleft and binds receptors, opening Na⁺ channels. Acetylcholinesterase hydrolyses it." },
+    ]),
+    ...sub('control-oxfordaqa-alevel-biology', 'skeletal-muscles-as-effectors-oxfordaqa-alevel-biology', '3.4.4', [
+      { n: 1, f: "Roles of ATP in muscle contraction", b: "ATP binding detaches the myosin head from actin; hydrolysis of ATP by the head's ATPase resets the head; ATP also powers the pumps returning Ca²⁺ to the sarcoplasmic reticulum.", src: SKM },
+    ]),
+    ...sub('control-oxfordaqa-alevel-biology', 'control-systems-in-plants-oxfordaqa-alevel-biology', '3.4.5', [
+      { n: 1, f: "Effect of a higher IAA concentration on shoots and roots", b: "Shoots: stimulates cell elongation.\nRoots: inhibits cell elongation.\nSo a horizontal shoot bends up and a horizontal root bends down.", src: PGS },
+      { n: 2, f: "How does ABA close stomata in a water-stressed plant?", b: "ABA stimulates transport of K⁺ and Cl⁻ out of the guard cells, raising their water potential. Water leaves the guard cells by osmosis, they shrink, and the stoma closes." },
+    ]),
+    ...sub('control-oxfordaqa-alevel-biology', 'hormones-and-the-control-of-blood-glucose-concentration-oxfordaqa-alevel-biology', '3.4.7', [
+      { n: 1, f: "Second messenger model for glucagon and adrenaline", b: "The hormone binds a surface receptor; adenyl cyclase is activated and converts ATP into cAMP (the second messenger); cAMP activates protein kinase, which activates enzymes that break glycogen down to glucose.", src: BG },
+    ]),
+    ...sub('control-oxfordaqa-alevel-biology', 'control-of-heart-rate-oxfordaqa-alevel-biology', '3.4.8', [
+      { n: 1, f: "Route of the electrical wave in a heartbeat", b: "SAN (pacemaker, right atrium) → wave across the atria, which contract → blocked by a fibrous layer → AVN delays it → bundle of His in the septum → Purkinje tissue → ventricles contract from the apex upwards." },
+    ]),
+    ...sub('control-oxfordaqa-alevel-biology', 'regulation-of-transcription-and-translation-oxfordaqa-alevel-biology', '3.4.9', [
+      { n: 1, f: "Effect of histone acetylation on transcription", b: "Histones are positive and DNA negative. Increased acetylation reduces their attraction, loosening the DNA so RNA polymerase and transcription factors can reach it: more transcription. Decreased acetylation packs DNA tightly: less transcription.", src: REGS },
+    ]),
+    ...sub('control-oxfordaqa-alevel-biology', 'recombinant-dna-technology-oxfordaqa-alevel-biology', '3.4.10', [
+      { n: 1, f: "Restriction endonucleases and DNA ligase", b: "A restriction endonuclease cuts DNA only at its own recognition sequence, often leaving sticky ends. DNA ligase joins sugar–phosphate backbones by forming phosphodiester bonds.", src: RDNA },
     ]),
   ],
 };

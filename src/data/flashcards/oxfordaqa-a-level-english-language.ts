@@ -6,9 +6,10 @@
  * (language levels) with key terms and a one-line effect, text types and
  * their conventions for directed writing, the social functions of language,
  * and the stages, theories and models for learning language and
- * international English. Card ids are `<subtopic number>-<n>` (or `4-<n>`
- * for Unit 4, which itemises no subtopics) and are permanent: add a new card
- * with the next unused n, never renumber.
+ * international English. Card ids are `<subtopic number>-<n>` and are
+ * permanent: add a new card with the next unused n, never renumber. On
+ * 20 Nov 2026 the Unit 4 cards were re-filed from the unit onto its two
+ * subtopics, and `idMigration` below moves saved progress onto the new ids.
  *
  * Written from Marlbridge's 9670 study guides and revision notes; no
  * revision-notes page maps to a single section, so every card is authored.
@@ -29,15 +30,6 @@ const sub = (topic: string, subtopic: string, number: string, specs: Spec[]): Fl
     origin: 'authored' as const,
   }));
 
-const topicOnly = (topic: string, number: string, specs: Spec[]): Flashcard[] =>
-  specs.map(({ n, f, b }) => ({
-    id: `${number}-${n}`,
-    topic,
-    front: f,
-    back: b,
-    origin: 'authored' as const,
-  }));
-
 const U1 = 'unit-1-language-and-context-9670';
 const U2 = 'unit-2-language-and-society-9670';
 const U3 = 'unit-3-language-variation-9670';
@@ -51,7 +43,21 @@ export const DECK_OXFORDAQA_A_LEVEL_ENGLISH_LANGUAGE: FlashcardDeck = {
   syllabusCode: '9670',
   syllabusSeries: 'Version 5.2, for International AS exams from May/June 2018, A-level from May/June 2019',
   author: 'marlbridge-academic-team',
-  updated: '2026-11-08',
+  updated: '2026-11-20',
+  idMigration: {
+    id: '9670-subtopics-2026-11-20',
+    before: '2026-11-20',
+    map: {
+      '3.1.1-1': '3.1.1-1', '3.1.1-2': '3.1.1-2', '3.1.1-3': '3.1.1-3', '3.1.1-4': '3.1.1-4', '3.1.1-5': '3.1.1-5',
+      '3.1.1-6': '3.1.1-6', '3.1.1-7': '3.1.1-7', '3.1.2-1': '3.1.2-1', '3.1.2-2': '3.1.2-2', '3.1.2-3': '3.1.2-3',
+      '3.1.2-4': '3.1.2-4', '3.2.1-1': '3.2.1-1', '3.2.1-2': '3.2.1-2', '3.2.1-3': '3.2.1-3', '3.2.1-4': '3.2.1-4',
+      '3.2.1-5': '3.2.1-5', '3.2.2-1': '3.2.2-1', '3.2.2-2': '3.2.2-2', '3.2.2-3': '3.2.2-3', '3.2.2-4': '3.2.2-4',
+      '3.3.1-1': '3.3.1-1', '3.3.1-2': '3.3.1-2', '3.3.1-3': '3.3.1-3', '3.3.1-4': '3.3.1-4', '3.3.1-5': '3.3.1-5',
+      '3.3.1-6': '3.3.1-6', '3.3.2-1': '3.3.2-1', '3.3.2-2': '3.3.2-2', '3.3.2-3': '3.3.2-3', '3.3.2-4': '3.3.2-4',
+      '3.3.2-5': '3.3.2-5', '4-1': '3.4.1-1', '4-2': '3.4.2-1', '4-3': '3.4.2-2', '4-4': '3.4.2-3',
+      '4-5': '3.4.2-4', '4-6': '3.4.1-2', '4-7': '3.4.1-3', '4-8': '3.4.2-5',
+    },
+  },
   cards: [
     // 1 Unit 1 Language and Context
     ...sub(U1, 'section-a-understanding-texts-9670', '3.1.1', [
@@ -103,15 +109,17 @@ export const DECK_OXFORDAQA_A_LEVEL_ENGLISH_LANGUAGE: FlashcardDeck = {
     ]),
 
     // 4 Unit 4 Language Exploration
-    ...topicOnly('unit-4-language-exploration-9670', '4', [
+    ...sub('unit-4-language-exploration-9670', 'written-unit-9670', '3.4.1', [
       { n: 1, f: 'What are the two routes for 9670 Unit 4?', b: 'An examined paper on Language Exploration (2 hours 30 minutes, 50 marks) or a non-exam language investigation. Both are 30% of the A-level.' },
-      { n: 2, f: 'What makes a good language investigation question?', b: 'It is specific, answerable with data you can collect, and connected to a language concept, for example how speakers in recorded meetings use interruptions and whether this varies with role.' },
-      { n: 3, f: 'What ethical steps does collecting language data need?', b: 'Get permission to record, tell participants how the data will be used, protect identities by changing names, and avoid collecting private information.' },
-      { n: 4, f: 'Why is a table of counts not an analysis?', b: 'Counts show patterns but must be interpreted: explain what the pattern shows, note exceptions, and quote examples.' },
-      { n: 5, f: 'What should an investigation\'s conclusion include?', b: 'A reasoned answer to the question, how strong the evidence is, its limitations (small sample, one context, the effect of being recorded) and what further research could add.' },
-      { n: 6, f: 'What is accommodation theory?', b: 'Speakers adjust their speech towards others (convergence) to build rapport or away from them (divergence) to show distance or identity.' },
-      { n: 7, f: 'What is face in politeness theory?', b: 'A person\'s public self-image. Positive face is the wish to be liked and approved of; negative face is the wish not to be imposed on. Politeness strategies protect both.' },
-      { n: 8, f: 'How long is a 9670 Unit 4b investigation?', b: 'The specification gives two figures: 2,500 to 3,000 words in the assessment overview, and approximately 2,500 words excluding data in section 3.4.2. Check the current limit with your teacher.' },
+      { n: 2, f: 'What is accommodation theory?', b: 'Speakers adjust their speech towards others (convergence) to build rapport or away from them (divergence) to show distance or identity.' },
+      { n: 3, f: 'What is face in politeness theory?', b: 'A person\'s public self-image. Positive face is the wish to be liked and approved of; negative face is the wish not to be imposed on. Politeness strategies protect both.' },
+    ]),
+    ...sub('unit-4-language-exploration-9670', 'non-exam-assessment-nea-9670', '3.4.2', [
+      { n: 1, f: 'What makes a good language investigation question?', b: 'It is specific, answerable with data you can collect, and connected to a language concept, for example how speakers in recorded meetings use interruptions and whether this varies with role.' },
+      { n: 2, f: 'What ethical steps does collecting language data need?', b: 'Get permission to record, tell participants how the data will be used, protect identities by changing names, and avoid collecting private information.' },
+      { n: 3, f: 'Why is a table of counts not an analysis?', b: 'Counts show patterns but must be interpreted: explain what the pattern shows, note exceptions, and quote examples.' },
+      { n: 4, f: 'What should an investigation\'s conclusion include?', b: 'A reasoned answer to the question, how strong the evidence is, its limitations (small sample, one context, the effect of being recorded) and what further research could add.' },
+      { n: 5, f: 'How long is a 9670 Unit 4b investigation?', b: 'The specification gives two figures: 2,500 to 3,000 words in the assessment overview, and approximately 2,500 words excluding data in section 3.4.2. Check the current limit with your teacher.' },
     ]),
   ],
 };

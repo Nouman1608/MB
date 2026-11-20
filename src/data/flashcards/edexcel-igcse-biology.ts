@@ -6,13 +6,15 @@
  * only; those cards say "(Paper 2 only)" on the card itself, following the
  * Marlbridge 4BI1 revision notes.
  *
- * Topics 2 and 3 are itemised into lettered sub-topics, so ids are
- * `<sub-topic letter>-<n>`. Both topics use the letters a and b, so Topic 3's
- * cards are numbered from 101 (a-101, b-101, ...) to keep every id unique.
- * Topics 1, 4 and 5 itemise no sub-topics in the syllabus record, so their
- * cards sit on the topic and ids are `<topic>-<n>`. Ids are permanent
- * (browser progress is keyed by them): add a new card with the next unused n,
- * never renumber.
+ * Every topic is itemised into lettered sub-topics (a, b, c and so on), so ids
+ * are `<sub-topic letter>-<n>`. Each topic restarts the letters at a, so the
+ * numbers are kept in separate ranges to keep every id unique: Topic 2 uses
+ * 1-99, Topic 3 uses 101 upwards (a-101, b-101, ...), Topic 1 uses 201 upwards,
+ * Topic 4 uses 301 upwards and Topic 5 uses 401 upwards. On 20 Nov 2026 the
+ * cards on Topics 1, 4 and 5 were re-filed under their sub-topics, and
+ * `idMigration` below moves saved progress onto the new ids. Ids are permanent
+ * (browser progress is keyed by them): add a new card with the next unused n
+ * in its topic's range, never renumber.
  *
  *   src: '...'  The card restates that revision-notes page (found with
  *               scripts/flashcard-candidates.mjs 4BI1); origin 'revision-notes'.
@@ -28,17 +30,6 @@ const sub = (topic: string, subtopic: string, number: string, specs: Spec[]): Fl
     id: `${number}-${n}`,
     topic,
     subtopic,
-    front: f,
-    back: b,
-    origin: src ? 'revision-notes' as const : 'authored' as const,
-    ...(src ? { source: src } : {}),
-  }));
-
-/** For a topic that itemises no subtopics: the card sits on the topic alone. */
-const topicOnly = (topic: string, number: string, specs: Spec[]): Flashcard[] =>
-  specs.map(({ n, f, b, src }) => ({
-    id: `${number}-${n}`,
-    topic,
     front: f,
     back: b,
     origin: src ? 'revision-notes' as const : 'authored' as const,
@@ -70,23 +61,67 @@ export const DECK_EDEXCEL_IGCSE_BIOLOGY: FlashcardDeck = {
   syllabusCode: '4BI1',
   syllabusSeries: 'Issue 3',
   author: 'marlbridge-academic-team',
-  updated: '2026-11-05',
+  updated: '2026-11-20',
   deckReview: { reviewerSlug: 'hina-mogul', reviewedOn: '2026-11-05' },
+  idMigration: {
+    id: '4bi1-subtopics-2026-11-20',
+    before: '2026-11-20',
+    map: {
+      '1-1': 'a-201', '1-2': 'a-202', '1-3': 'a-203', '1-4': 'b-201', '1-5': 'b-202',
+      '1-6': 'b-203', '1-7': 'b-204', '1-8': 'b-205', '1-9': 'b-206', '1-10': 'b-207',
+      '1-11': 'b-208', '1-12': 'b-209', 'a-1': 'a-1', 'a-2': 'a-2', 'a-3': 'a-3',
+      'a-4': 'a-4', 'a-5': 'a-5', 'a-6': 'a-6', 'a-7': 'a-7', 'a-8': 'a-8',
+      'a-9': 'a-9', 'b-1': 'b-1', 'b-2': 'b-2', 'b-3': 'b-3', 'b-4': 'b-4',
+      'b-5': 'b-5', 'b-6': 'b-6', 'b-7': 'b-7', 'b-8': 'b-8', 'b-9': 'b-9',
+      'b-10': 'b-10', 'b-11': 'b-11', 'b-12': 'b-12', 'c-1': 'c-1', 'c-2': 'c-2',
+      'c-3': 'c-3', 'c-4': 'c-4', 'c-5': 'c-5', 'c-6': 'c-6', 'c-7': 'c-7',
+      'c-8': 'c-8', 'c-9': 'c-9', 'c-10': 'c-10', 'c-11': 'c-11', 'c-12': 'c-12',
+      'd-1': 'd-1', 'd-2': 'd-2', 'd-3': 'd-3', 'd-4': 'd-4', 'd-5': 'd-5',
+      'd-6': 'd-6', 'd-7': 'd-7', 'd-8': 'd-8', 'd-9': 'd-9', 'd-10': 'd-10',
+      'd-11': 'd-11', 'd-12': 'd-12', 'e-1': 'e-1', 'e-2': 'e-2', 'e-3': 'e-3',
+      'e-4': 'e-4', 'e-5': 'e-5', 'e-6': 'e-6', 'e-7': 'e-7', 'e-8': 'e-8',
+      'e-9': 'e-9', 'e-10': 'e-10', 'e-11': 'e-11', 'e-12': 'e-12', 'f-1': 'f-1',
+      'f-2': 'f-2', 'f-3': 'f-3', 'f-4': 'f-4', 'f-5': 'f-5', 'f-6': 'f-6',
+      'f-7': 'f-7', 'f-8': 'f-8', 'f-9': 'f-9', 'f-10': 'f-10', 'f-11': 'f-11',
+      'g-1': 'g-1', 'g-2': 'g-2', 'g-3': 'g-3', 'g-4': 'g-4', 'g-5': 'g-5',
+      'g-6': 'g-6', 'g-7': 'g-7', 'g-8': 'g-8', 'g-9': 'g-9', 'g-10': 'g-10',
+      'g-11': 'g-11', 'g-12': 'g-12', 'h-1': 'h-1', 'h-2': 'h-2', 'h-3': 'h-3',
+      'h-4': 'h-4', 'h-5': 'h-5', 'h-6': 'h-6', 'h-7': 'h-7', 'h-8': 'h-8',
+      'h-9': 'h-9', 'h-10': 'h-10', 'h-11': 'h-11', 'h-12': 'h-12', 'i-1': 'i-1',
+      'i-2': 'i-2', 'i-3': 'i-3', 'i-4': 'i-4', 'i-5': 'i-5', 'i-6': 'i-6',
+      'i-7': 'i-7', 'i-8': 'i-8', 'i-9': 'i-9', 'i-10': 'i-10', 'i-11': 'i-11',
+      'i-12': 'i-12', 'j-1': 'j-1', 'j-2': 'j-2', 'j-3': 'j-3', 'j-4': 'j-4',
+      'j-5': 'j-5', 'j-6': 'j-6', 'j-7': 'j-7', 'j-8': 'j-8', 'j-9': 'j-9',
+      'j-10': 'j-10', 'j-11': 'j-11', 'j-12': 'j-12', 'a-101': 'a-101', 'a-102': 'a-102',
+      'a-103': 'a-103', 'a-104': 'a-104', 'a-105': 'a-105', 'a-106': 'a-106', 'a-107': 'a-107',
+      'a-108': 'a-108', 'a-109': 'a-109', 'a-110': 'a-110', 'a-111': 'a-111', 'a-112': 'a-112',
+      'b-101': 'b-101', 'b-102': 'b-102', 'b-103': 'b-103', 'b-104': 'b-104', 'b-105': 'b-105',
+      'b-106': 'b-106', 'b-107': 'b-107', 'b-108': 'b-108', 'b-109': 'b-109', 'b-110': 'b-110',
+      'b-111': 'b-111', 'b-112': 'b-112', '4-1': 'a-301', '4-2': 'a-302', '4-3': 'a-303',
+      '4-4': 'a-304', '4-5': 'b-301', '4-6': 'b-302', '4-7': 'c-301', '4-8': 'c-302',
+      '4-9': 'd-301', '4-10': 'd-302', '4-11': 'd-303', '4-12': 'd-304', '5-1': 'a-401',
+      '5-2': 'a-402', '5-3': 'a-403', '5-4': 'a-404', '5-5': 'a-405', '5-6': 'a-406',
+      '5-7': 'a-407', '5-8': 'b-401', '5-9': 'c-401', '5-10': 'c-402', '5-11': 'c-403',
+      '5-12': 'd-401',
+    },
+  },
   cards: [
-    // 1 The nature and variety of living organisms
-    ...topicOnly(T1, '1', [
-      { n: 1, f: 'The eight characteristics of living organisms', b: 'Nutrition, respiration, excretion, growth, movement, sensitivity, reproduction, and control of internal conditions (homeostasis).' },
-      { n: 2, f: 'Excretion (and how it differs from egestion)', b: 'Excretion is the removal of the waste products of metabolism, substances the body itself produced. Egestion is undigested food leaving the gut; it was never absorbed, so it is not excretion.', src: NV },
-      { n: 3, f: 'Growth', b: 'A permanent increase in size and dry mass. Taking up water increases mass without being growth.', src: NV },
-      { n: 4, f: 'Plant kingdom: key features and examples', b: 'Multicellular, with chloroplasts and a cellulose cell wall; store starch and sucrose.\nExamples: flowering plants, ferns.', src: NV },
-      { n: 5, f: 'Animal kingdom: key features and examples', b: 'Multicellular, no cell wall, no chloroplasts; store glycogen; usually have nervous co-ordination.\nExamples: mammals, insects.', src: NV },
-      { n: 6, f: 'Fungi: key features and examples', b: 'Body of thread-like hyphae forming a mycelium; cell wall made of chitin; saprotrophic nutrition; store glycogen; no chloroplasts.\nExamples: Mucor, and yeast (single-celled).', src: NV },
-      { n: 7, f: 'Describe saprotrophic nutrition, in the right order', b: 'Enzymes are secreted onto the food, digestion happens outside the organism, then the soluble products are absorbed. Digestion first, absorption second.' },
-      { n: 8, f: 'Protoctists: key features and examples', b: 'Microscopic and single-celled, with a nucleus; some are plant-like (with chloroplasts) and some animal-like.\nExamples: Amoeba, Chlorella, Plasmodium.', src: NV },
-      { n: 9, f: 'Prokaryotes (bacteria): key features and examples', b: 'Single-celled, no nucleus; circular DNA and plasmids.\nExamples: Lactobacillus, Pneumococcus.', src: NV },
-      { n: 10, f: 'Why are viruses not classed as living organisms?', b: 'They have no cellular structure (no cytoplasm or organelles), only genetic material (DNA or RNA) inside a protein coat, and they can only reproduce inside a living host cell.\nExamples: influenza virus, HIV, tobacco mosaic virus.' },
-      { n: 11, f: 'Pathogen vs vector, using malaria as the example', b: 'The pathogen is the organism that causes the disease: Plasmodium, a protoctist. The vector carries and transmits it: the mosquito.' },
-      { n: 12, f: 'Which kingdoms store starch, and which store glycogen?', b: 'Plants store starch (and sucrose). Animals and fungi store glycogen.' },
+    // 1 The nature and variety of living organisms (numbered from 201: see the note at the top)
+    ...sub(T1, 'characteristics-of-living-organisms-4bi1', 'a', [
+      { n: 201, f: 'The eight characteristics of living organisms', b: 'Nutrition, respiration, excretion, growth, movement, sensitivity, reproduction, and control of internal conditions (homeostasis).' },
+      { n: 202, f: 'Excretion (and how it differs from egestion)', b: 'Excretion is the removal of the waste products of metabolism, substances the body itself produced. Egestion is undigested food leaving the gut; it was never absorbed, so it is not excretion.', src: NV },
+      { n: 203, f: 'Growth', b: 'A permanent increase in size and dry mass. Taking up water increases mass without being growth.', src: NV },
+    ]),
+    ...sub(T1, 'variety-of-living-organisms-4bi1', 'b', [
+      { n: 201, f: 'Plant kingdom: key features and examples', b: 'Multicellular, with chloroplasts and a cellulose cell wall; store starch and sucrose.\nExamples: flowering plants, ferns.', src: NV },
+      { n: 202, f: 'Animal kingdom: key features and examples', b: 'Multicellular, no cell wall, no chloroplasts; store glycogen; usually have nervous co-ordination.\nExamples: mammals, insects.', src: NV },
+      { n: 203, f: 'Fungi: key features and examples', b: 'Body of thread-like hyphae forming a mycelium; cell wall made of chitin; saprotrophic nutrition; store glycogen; no chloroplasts.\nExamples: Mucor, and yeast (single-celled).', src: NV },
+      { n: 204, f: 'Describe saprotrophic nutrition, in the right order', b: 'Enzymes are secreted onto the food, digestion happens outside the organism, then the soluble products are absorbed. Digestion first, absorption second.' },
+      { n: 205, f: 'Protoctists: key features and examples', b: 'Microscopic and single-celled, with a nucleus; some are plant-like (with chloroplasts) and some animal-like.\nExamples: Amoeba, Chlorella, Plasmodium.', src: NV },
+      { n: 206, f: 'Prokaryotes (bacteria): key features and examples', b: 'Single-celled, no nucleus; circular DNA and plasmids.\nExamples: Lactobacillus, Pneumococcus.', src: NV },
+      { n: 207, f: 'Why are viruses not classed as living organisms?', b: 'They have no cellular structure (no cytoplasm or organelles), only genetic material (DNA or RNA) inside a protein coat, and they can only reproduce inside a living host cell.\nExamples: influenza virus, HIV, tobacco mosaic virus.' },
+      { n: 208, f: 'Pathogen vs vector, using malaria as the example', b: 'The pathogen is the organism that causes the disease: Plasmodium, a protoctist. The vector carries and transmits it: the mosquito.' },
+      { n: 209, f: 'Which kingdoms store starch, and which store glycogen?', b: 'Plants store starch (and sucrose). Animals and fungi store glycogen.' },
     ]),
 
     // 2 Structures and functions in living organisms
@@ -257,36 +292,48 @@ export const DECK_EDEXCEL_IGCSE_BIOLOGY: FlashcardDeck = {
       { n: 112, f: 'Natural selection: the sequence of steps', b: 'Variation (from mutation) → competition → the better-adapted survive → they reproduce → their alleles are passed on → the allele frequency increases over many generations. Example: antibiotic-resistant bacteria.' },
     ]),
 
-    // 4 Ecology and the environment
-    ...topicOnly(T4, '4', [
-      { n: 1, f: 'Population, community and ecosystem', b: 'Population: all the organisms of one species in an area.\nCommunity: all the populations of different species in an area.\nEcosystem: a community and its abiotic environment, interacting.', src: ECO },
-      { n: 2, f: 'Estimating a population with quadrats: a mean of 2.5 plants per 1 m² quadrat in a 400 m² field', b: 'Place quadrats at random (coordinates from random numbers), at least ten; find the mean per m². Population = 2.5 × 400 = 1000 plants.' },
-      { n: 3, f: 'Distribution vs biodiversity: how to sample each', b: 'Distribution: quadrats at regular intervals along a tape running across a change in conditions.\nBiodiversity: quadrats at random in each area, recording every species and how many of each. (Paper 2 only)', src: ECO },
-      { n: 4, f: 'Abiotic vs biotic factors: examples', b: 'Abiotic (non-living): temperature, light intensity, water, pH, soil minerals, oxygen in water, wind.\nBiotic (living): food supply, predation, competition, disease, parasites.' },
-      { n: 5, f: 'Pyramids of numbers, biomass and energy: which is always a true pyramid?', b: 'The pyramid of energy is always a pyramid. Biomass almost always is. Numbers can be any shape (one tree, many insects).' },
-      { n: 6, f: 'Primary consumers receive 5000 kJ and pass 450 kJ on. Efficiency, and where the rest goes?', b: '(450 ÷ 5000) × 100 = 9.0%. The rest is lost mainly as heat from respiration, and in parts not eaten, faeces, excretion and movement.' },
-      { n: 7, f: 'Processes in the carbon cycle that remove and return CO₂', b: 'Removed: photosynthesis.\nReturned: respiration by plants, animals and decomposers; combustion of fossil fuels and wood. Carbon passes along food chains by feeding.' },
-      { n: 8, f: 'Roles of nitrogen-fixing, nitrifying and denitrifying bacteria', b: 'Nitrogen-fixing (soil, legume root nodules): nitrogen gas → nitrogen compounds.\nNitrifying (need oxygen): ammonium → nitrite → nitrate.\nDenitrifying (waterlogged soil): nitrate → nitrogen gas. (Paper 2 only)' },
-      { n: 9, f: 'Sulfur dioxide and carbon monoxide: source and effect', b: 'Sulfur dioxide: burning fossil fuels containing sulfur; acid rain damages leaves, kills trees and acidifies lakes.\nCarbon monoxide: incomplete combustion; binds to haemoglobin, so less oxygen is carried.' },
-      { n: 10, f: 'The five greenhouse gases in the specification, and the enhanced greenhouse effect', b: 'Water vapour, carbon dioxide, nitrous oxide, methane, CFCs. Extra gases from human activity absorb and re-radiate more infrared back towards the Earth, which may lead to global warming.' },
-      { n: 11, f: 'Eutrophication: the sequence', b: 'Nitrates and phosphates from fertiliser leach into water → algal bloom → plants below die (no light) → decomposing bacteria multiply and respire aerobically → oxygen falls → fish and aerobic invertebrates die.' },
-      { n: 12, f: 'Effects of deforestation on soil and the atmosphere', b: 'Leaching of mineral ions; soil erosion (no roots to hold soil); less evapotranspiration, so less rain; less CO₂ absorbed and more released by burning or decay; less oxygen released. (Paper 2 only)', src: ECO },
+    // 4 Ecology and the environment (numbered from 301: see the note at the top)
+    ...sub(T4, 'the-organism-in-the-environment-4bi1', 'a', [
+      { n: 301, f: 'Population, community and ecosystem', b: 'Population: all the organisms of one species in an area.\nCommunity: all the populations of different species in an area.\nEcosystem: a community and its abiotic environment, interacting.', src: ECO },
+      { n: 302, f: 'Estimating a population with quadrats: a mean of 2.5 plants per 1 m² quadrat in a 400 m² field', b: 'Place quadrats at random (coordinates from random numbers), at least ten; find the mean per m². Population = 2.5 × 400 = 1000 plants.' },
+      { n: 303, f: 'Distribution vs biodiversity: how to sample each', b: 'Distribution: quadrats at regular intervals along a tape running across a change in conditions.\nBiodiversity: quadrats at random in each area, recording every species and how many of each. (Paper 2 only)', src: ECO },
+      { n: 304, f: 'Abiotic vs biotic factors: examples', b: 'Abiotic (non-living): temperature, light intensity, water, pH, soil minerals, oxygen in water, wind.\nBiotic (living): food supply, predation, competition, disease, parasites.' },
+    ]),
+    ...sub(T4, 'feeding-relationships-4bi1', 'b', [
+      { n: 301, f: 'Pyramids of numbers, biomass and energy: which is always a true pyramid?', b: 'The pyramid of energy is always a pyramid. Biomass almost always is. Numbers can be any shape (one tree, many insects).' },
+      { n: 302, f: 'Primary consumers receive 5000 kJ and pass 450 kJ on. Efficiency, and where the rest goes?', b: '(450 ÷ 5000) × 100 = 9.0%. The rest is lost mainly as heat from respiration, and in parts not eaten, faeces, excretion and movement.' },
+    ]),
+    ...sub(T4, 'cycles-within-ecosystems-4bi1', 'c', [
+      { n: 301, f: 'Processes in the carbon cycle that remove and return CO₂', b: 'Removed: photosynthesis.\nReturned: respiration by plants, animals and decomposers; combustion of fossil fuels and wood. Carbon passes along food chains by feeding.' },
+      { n: 302, f: 'Roles of nitrogen-fixing, nitrifying and denitrifying bacteria', b: 'Nitrogen-fixing (soil, legume root nodules): nitrogen gas → nitrogen compounds.\nNitrifying (need oxygen): ammonium → nitrite → nitrate.\nDenitrifying (waterlogged soil): nitrate → nitrogen gas. (Paper 2 only)' },
+    ]),
+    ...sub(T4, 'human-influences-on-the-environment-4bi1', 'd', [
+      { n: 301, f: 'Sulfur dioxide and carbon monoxide: source and effect', b: 'Sulfur dioxide: burning fossil fuels containing sulfur; acid rain damages leaves, kills trees and acidifies lakes.\nCarbon monoxide: incomplete combustion; binds to haemoglobin, so less oxygen is carried.' },
+      { n: 302, f: 'The five greenhouse gases in the specification, and the enhanced greenhouse effect', b: 'Water vapour, carbon dioxide, nitrous oxide, methane, CFCs. Extra gases from human activity absorb and re-radiate more infrared back towards the Earth, which may lead to global warming.' },
+      { n: 303, f: 'Eutrophication: the sequence', b: 'Nitrates and phosphates from fertiliser leach into water → algal bloom → plants below die (no light) → decomposing bacteria multiply and respire aerobically → oxygen falls → fish and aerobic invertebrates die.' },
+      { n: 304, f: 'Effects of deforestation on soil and the atmosphere', b: 'Leaching of mineral ions; soil erosion (no roots to hold soil); less evapotranspiration, so less rain; less CO₂ absorbed and more released by burning or decay; less oxygen released. (Paper 2 only)', src: ECO },
     ]),
 
-    // 5 Use of biological resources
-    ...topicOnly(T5, '5', [
-      { n: 1, f: 'How do glasshouses increase crop yield?', b: 'They let light in and trap heat, protect crops from frost, wind and some pests, and allow control of temperature, CO₂ and water. Burning paraffin or gas supplies both heat and CO₂.' },
-      { n: 2, f: 'Why does adding more CO₂ to a glasshouse eventually stop increasing yield?', b: 'Another factor, such as light intensity or temperature, becomes limiting. Too high a temperature also denatures photosynthesis enzymes.' },
-      { n: 3, f: 'Pesticides vs biological control', b: 'Pesticides: fast and kill most pests, but kill non-target species, build up along food chains, and pests become resistant.\nBiological control: specific, no residues, no resistance, but slow, does not remove all pests, and the control organism may become a pest.' },
-      { n: 4, f: 'How does yeast make bread rise?', b: 'Yeast respires anaerobically: glucose → ethanol + carbon dioxide. Bubbles of CO₂ make the dough rise. Baking kills the yeast and evaporates the ethanol.' },
-      { n: 5, f: 'Making yoghurt', b: 'Pasteurise milk to kill unwanted bacteria and cool it; add Lactobacillus; incubate warm. The bacteria ferment lactose to lactic acid; the pH falls, milk proteins clot and the yoghurt thickens and tastes sour.' },
-      { n: 6, f: 'Conditions controlled in an industrial fermenter, and why', b: 'Aseptic (steam, filtered air): no contaminants. Nutrients: for respiration and growth. Temperature (water jacket): respiration releases heat; keep enzymes at the optimum. pH: optimum for enzymes. Oxygen: aerobic respiration. Paddles: mix evenly.' },
-      { n: 7, f: 'How are fish farms managed to increase yield?', b: 'Keep water quality and oxygen high; separate fish by size (intraspecific predation) and keep one species (interspecific predation); control disease and density; remove waste; high-protein food little and often; selective breeding. (Paper 2 only)' },
-      { n: 8, f: 'Selective breeding: the steps', b: 'Choose parents with the desired characteristic; cross them; select the offspring showing it most strongly; cross these; repeat for many generations.' },
-      { n: 9, f: 'Transgenic', b: 'Genetic material has been transferred from one species to a different species.', src: USE },
-      { n: 10, f: 'Restriction enzyme, ligase and vector', b: 'Restriction enzyme: cuts DNA at a specific base sequence, leaving sticky ends.\nLigase: joins pieces of DNA.\nVector: a plasmid or virus that carries DNA into a cell.', src: USE },
-      { n: 11, f: 'Producing human insulin with bacteria', b: 'Cut the insulin gene out with a restriction enzyme; cut a plasmid with the same enzyme (matching sticky ends); join with ligase to make recombinant DNA; insert into bacteria; grow them in a fermenter; extract and purify the insulin.' },
-      { n: 12, f: 'Cloning Dolly the sheep: which sheep is the clone identical to?', b: 'A diploid body-cell nucleus from sheep A goes into an egg from sheep B whose nucleus was removed; an electric shock makes it divide; the embryo is implanted in surrogate C. The lamb is a clone of sheep A, the nucleus donor. (Paper 2 only)' },
+    // 5 Use of biological resources (numbered from 401: see the note at the top)
+    ...sub(T5, 'food-production-4bi1', 'a', [
+      { n: 401, f: 'How do glasshouses increase crop yield?', b: 'They let light in and trap heat, protect crops from frost, wind and some pests, and allow control of temperature, CO₂ and water. Burning paraffin or gas supplies both heat and CO₂.' },
+      { n: 402, f: 'Why does adding more CO₂ to a glasshouse eventually stop increasing yield?', b: 'Another factor, such as light intensity or temperature, becomes limiting. Too high a temperature also denatures photosynthesis enzymes.' },
+      { n: 403, f: 'Pesticides vs biological control', b: 'Pesticides: fast and kill most pests, but kill non-target species, build up along food chains, and pests become resistant.\nBiological control: specific, no residues, no resistance, but slow, does not remove all pests, and the control organism may become a pest.' },
+      { n: 404, f: 'How does yeast make bread rise?', b: 'Yeast respires anaerobically: glucose → ethanol + carbon dioxide. Bubbles of CO₂ make the dough rise. Baking kills the yeast and evaporates the ethanol.' },
+      { n: 405, f: 'Making yoghurt', b: 'Pasteurise milk to kill unwanted bacteria and cool it; add Lactobacillus; incubate warm. The bacteria ferment lactose to lactic acid; the pH falls, milk proteins clot and the yoghurt thickens and tastes sour.' },
+      { n: 406, f: 'Conditions controlled in an industrial fermenter, and why', b: 'Aseptic (steam, filtered air): no contaminants. Nutrients: for respiration and growth. Temperature (water jacket): respiration releases heat; keep enzymes at the optimum. pH: optimum for enzymes. Oxygen: aerobic respiration. Paddles: mix evenly.' },
+      { n: 407, f: 'How are fish farms managed to increase yield?', b: 'Keep water quality and oxygen high; separate fish by size (intraspecific predation) and keep one species (interspecific predation); control disease and density; remove waste; high-protein food little and often; selective breeding. (Paper 2 only)' },
+    ]),
+    ...sub(T5, 'selective-breeding-4bi1', 'b', [
+      { n: 401, f: 'Selective breeding: the steps', b: 'Choose parents with the desired characteristic; cross them; select the offspring showing it most strongly; cross these; repeat for many generations.' },
+    ]),
+    ...sub(T5, 'genetic-modification-genetic-engineering-4bi1', 'c', [
+      { n: 401, f: 'Transgenic', b: 'Genetic material has been transferred from one species to a different species.', src: USE },
+      { n: 402, f: 'Restriction enzyme, ligase and vector', b: 'Restriction enzyme: cuts DNA at a specific base sequence, leaving sticky ends.\nLigase: joins pieces of DNA.\nVector: a plasmid or virus that carries DNA into a cell.', src: USE },
+      { n: 403, f: 'Producing human insulin with bacteria', b: 'Cut the insulin gene out with a restriction enzyme; cut a plasmid with the same enzyme (matching sticky ends); join with ligase to make recombinant DNA; insert into bacteria; grow them in a fermenter; extract and purify the insulin.' },
+    ]),
+    ...sub(T5, 'cloning-4bi1', 'd', [
+      { n: 401, f: 'Cloning Dolly the sheep: which sheep is the clone identical to?', b: 'A diploid body-cell nucleus from sheep A goes into an egg from sheep B whose nucleus was removed; an electric shock makes it divide; the embryo is implanted in surrogate C. The lamb is a clone of sheep A, the nucleus donor. (Paper 2 only)' },
     ]),
   ],
 };

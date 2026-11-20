@@ -14,6 +14,8 @@ order: 258
 syllabusTopics:
   - qualification: "a-level"
     topic: "populations-and-genes-oxfordaqa-alevel-biology"
+  - qualification: "a-level"
+    topic: "populations-and-genes-oxfordaqa-alevel-biology"
     subtopic: "photosynthesis-oxfordaqa-alevel-biology"
 description: "Condensed revision notes on photosynthesis, the Calvin cycle and limiting factors, with a self-test, for OxfordAQA International A-level Biology."
 author: "marlbridge-academic-team"

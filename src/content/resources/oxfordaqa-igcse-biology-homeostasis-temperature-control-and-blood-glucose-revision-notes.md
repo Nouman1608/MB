@@ -13,6 +13,9 @@ order: 244
 syllabusTopics:
   - qualification: "igcse"
     topic: "organisms-interaction-with-the-environment-oxfordaqa-igcse-biology"
+  - qualification: "igcse"
+    topic: "organisms-interaction-with-the-environment-oxfordaqa-igcse-biology"
+    subtopic: "control-of-blood-glucose-oxfordaqa-igcse-biology"
 description: "Condensed revision notes on control systems, temperature control, insulin, glucagon and diabetes for OxfordAQA International GCSE Biology (9201)."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

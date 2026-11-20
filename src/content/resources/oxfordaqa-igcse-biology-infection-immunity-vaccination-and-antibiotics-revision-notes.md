@@ -13,6 +13,8 @@ order: 246
 syllabusTopics:
   - qualification: "igcse"
     topic: "organisms-interaction-with-the-environment-oxfordaqa-igcse-biology"
+  - qualification: "igcse"
+    topic: "organisms-interaction-with-the-environment-oxfordaqa-igcse-biology"
     subtopic: "infection-and-response-oxfordaqa-igcse-biology"
 description: "Condensed revision notes on pathogens, immunity, vaccines, antibiotics and resistance for OxfordAQA International GCSE Biology (9201), 3.4.7."
 author: "marlbridge-academic-team"

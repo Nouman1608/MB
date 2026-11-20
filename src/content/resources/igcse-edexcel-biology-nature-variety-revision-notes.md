@@ -13,6 +13,12 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "the-nature-and-variety-of-living-organisms-edexcel-igcse-biology"
+  - qualification: "igcse"
+    topic: "the-nature-and-variety-of-living-organisms-edexcel-igcse-biology"
+    subtopic: "characteristics-of-living-organisms-4bi1"
+  - qualification: "igcse"
+    topic: "the-nature-and-variety-of-living-organisms-edexcel-igcse-biology"
+    subtopic: "variety-of-living-organisms-4bi1"
 description: "Condensed recall notes on the characteristics of life, the five kingdoms, pathogens and levels of organisation for Edexcel International GCSE Biology 4BI1."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
