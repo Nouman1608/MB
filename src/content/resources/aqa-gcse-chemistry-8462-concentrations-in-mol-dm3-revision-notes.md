@@ -96,6 +96,33 @@ mass (g) → ÷ Mr → moles → ÷ volume (dm³) → concentration (mol/dm³)
 
 **4.** Moles in 40.0 cm³ of 0.250 mol/dm³: 0.250 × 0.0400 = 0.0100 mol.
 
+## Preparing a solution and diluting (HT only)
+
+1. Moles required = concentration × volume (dm³).
+2. Mass = moles × Mr.
+3. Weigh, dissolve in a beaker, transfer to a volumetric flask, rinse, fill to the mark, mix.
+
+Dilution: the moles stay the same. Example: 25.0 cm³ of 0.400 mol/dm³ contains 0.0100 mol. Diluted to 100 cm³ the
+concentration is 0.0100 ÷ 0.100 = 0.100 mol/dm³.
+
+## Titration technique notes
+
+- A pipette measures the fixed volume of one solution accurately.
+- A burette delivers the other solution; read the meniscus at eye level.
+- Repeat until two or more results are concordant, then use their mean.
+- The end point is shown by an indicator changing colour.
+
+## Step-by-step layout
+
+| Line | Write |
+|---|---|
+| 1 | Balanced equation and mole ratio |
+| 2 | Volume of the known solution in dm³ |
+| 3 | Moles of the known solution |
+| 4 | Moles of the unknown, using the ratio |
+| 5 | Concentration of the unknown, with units |
+| 6 | If asked, convert to g/dm³ using Mr |
+
 ## Exam traps
 
 - **cm³ not converted to dm³.**

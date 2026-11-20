@@ -142,6 +142,29 @@ Volume ratio: N₂ : H₂ : NH₃ = **1 : 3 : 2**.
 11. None; it only increases the rate.
 12. 28 ÷ 80 × 100 = 35%.
 
+## Worked answers to model
+
+**Describe the Haber process.** "Nitrogen from the air and hydrogen from natural gas are purified and passed over
+an iron catalyst at about 450 °C and 200 atmospheres. Some of the gases react to make ammonia. The mixture is
+cooled so that the ammonia liquefies and is removed. Unreacted nitrogen and hydrogen are recycled."
+
+**Explain why the temperature is a compromise (Higher tier only).** "The forward reaction is exothermic, so a lower
+temperature gives a higher yield, but the rate would be too slow. A higher temperature is faster but lowers the
+yield. 450 °C gives an acceptable rate and yield."
+
+## Why three elements in NPK
+
+| Element | Use in the plant |
+|---|---|
+| Nitrogen | Making proteins and leaf growth |
+| Phosphorus | Roots and energy transfer |
+| Potassium | Flowers, fruit and disease resistance |
+
+## Reading an NPK label
+
+A bag labelled 20 : 10 : 10 contains 20 % nitrogen, 10 % phosphorus and 10 % potassium compounds by the
+manufacturer's convention. In a 50 kg bag, 20 % is **10 kg** of nitrogen compound in terms of that label.
+
 ## Next steps
 
 - [The Haber process and NPK fertilisers study guide](/resources/aqa-gcse-chemistry-8462-the-haber-process-and-the-use-of-npk-fertilisers/)

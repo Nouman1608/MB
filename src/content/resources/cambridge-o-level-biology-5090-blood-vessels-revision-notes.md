@@ -76,6 +76,25 @@ Recognising vessels on a section:
 - Thin wall, large irregular lumen: vein.
 - Tube just wide enough for one red cell, wall of one cell: capillary.
 
+## Pulse and pressure
+
+- A pulse is felt in an artery, because each beat stretches the elastic wall.
+- Pressure falls from the aorta through arteries and capillaries to the veins.
+- Strong elastic walls are needed where pressure is high; valves are needed where it is low.
+
+## Kidney and liver blood flow
+
+| Organ | Change in the blood |
+|---|---|
+| Kidney (renal artery to renal vein) | Less urea, and excess water and salts removed |
+| Liver (hepatic portal vein to hepatic vein) | Excess glucose removed after a meal; many other substances processed |
+
+## Common labelling errors
+
+- Labelling the hepatic portal vein as an artery. It is a vein because it carries blood towards the liver, but it comes from the gut, not the heart.
+- Mixing up renal and hepatic vessels.
+- Calling the pulmonary vein "deoxygenated".
+
 ## Short model answers
 
 **Explain why arteries have thick walls.** Blood leaves the heart at high pressure. A thick wall with muscle and elastic tissue withstands the pressure and prevents the artery bursting.

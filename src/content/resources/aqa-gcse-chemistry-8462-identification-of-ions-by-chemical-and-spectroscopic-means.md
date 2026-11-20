@@ -211,6 +211,23 @@ A flame test would only show the yellow of sodium, so this instrumental method f
 - Mixing up the colours of silver halides (white, cream, yellow).
 - Naming Fe²⁺ as brown or Fe³⁺ as green. Iron(II) is green, iron(III) is brown.
 
+## Putting it together: a model extended answer
+
+*A technician has a colourless solution that may be iron(II) sulfate or magnesium chloride. Describe tests to tell
+them apart.*
+
+> Add sodium hydroxide solution to a sample of each. Iron(II) sulfate gives a green precipitate that does not
+> dissolve in excess; magnesium chloride gives a white precipitate that does not dissolve in excess. To confirm
+> the anion, add dilute hydrochloric acid and barium chloride solution to a fresh sample: iron(II) sulfate gives a
+> white precipitate of barium sulfate, but magnesium chloride gives nothing. Alternatively, add dilute nitric acid
+> and silver nitrate solution: magnesium chloride gives a white precipitate of silver chloride.
+
+## Linking to other topics
+
+- The hydroxide precipitation equations link to **ionic equations** and **solubility** rules.
+- Carbonate testing links to **acids and gas tests**.
+- Flame emission spectroscopy links to **electron energy levels**: each element emits its own pattern of light.
+
 ## Next steps
 
 - [Chemical analysis revision notes](/resources/aqa-gcse-chemistry-8462-chemical-analysis-revision-notes/)

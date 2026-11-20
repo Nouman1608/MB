@@ -190,6 +190,24 @@ right to replace the water, so more anhydrous copper sulfate forms.
 - Believing a catalyst changes the position of equilibrium. It speeds up both directions equally and only helps
   equilibrium to be reached sooner.
 
+## Putting it together: a model extended answer
+
+*Sulfur trioxide is made by 2SO₂(g) + O₂(g) ⇌ 2SO₃(g), exothermic in the forward direction. Explain the effect of
+temperature and pressure on the yield, and why a compromise is used (Higher tier only).*
+
+> A lower temperature favours the exothermic forward reaction, so the yield of sulfur trioxide is higher, but the
+> rate would be too slow. A higher temperature is faster but lowers the yield, so a moderate temperature is used.
+> There are 3 gas molecules on the left and 2 on the right, so a higher pressure shifts the position to the
+> right and increases the yield and the rate. However, high pressure is costly and needs strong equipment, so a
+> moderate pressure is used.
+
+## Linking to other topics
+
+- Reversible reactions and energy changes link to **4.5.1**: the forward and reverse enthalpy changes have the
+  same size and opposite sign.
+- The Haber process in **4.10.4** is the main industrial application of these ideas.
+- Rate ideas from **4.6.1** explain why temperature is a compromise.
+
 ## Next steps
 
 - [Reversible reactions and dynamic equilibrium revision notes](/resources/aqa-gcse-chemistry-8462-reversible-reactions-and-dynamic-equilibrium-revision-notes/)

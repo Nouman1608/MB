@@ -150,6 +150,27 @@ Example: 50 g of 18 carat gold contains 0.75 × 50 = **37.5 g** of gold.
 11. Matrix: polymer resin; reinforcement: glass fibres.
 12. 9 ÷ 24 × 8.0 = 3.0 g.
 
+## Worked answers to model
+
+**Explain how galvanising protects iron.** "The zinc coating acts as a barrier. If it is scratched, zinc is more
+reactive than iron, so it loses electrons in preference and corrodes instead of the iron."
+
+**Explain why steel is used for a car body and stainless steel for a sink.** "Low carbon steel is soft and easily
+shaped. Stainless steel contains chromium and nickel, so it is hard and resists corrosion."
+
+**Explain the difference between thermosoftening and thermosetting polymers.** "Thermosoftening polymers have
+separate chains with weak forces between them, so they soften and melt on heating. Thermosetting polymers have
+strong cross-links between chains, so they do not melt."
+
+## Composite examples
+
+| Composite | Why it is used |
+|---|---|
+| Carbon fibre | Strong and light for sports equipment and aircraft |
+| Fibreglass | Strong, light, does not rust, for boats |
+| Reinforced concrete | Strong in compression and tension for buildings |
+| Plywood | Strong across the sheet, does not split easily |
+
 ## Next steps
 
 - [Using materials study guide](/resources/aqa-gcse-chemistry-8462-using-materials/)

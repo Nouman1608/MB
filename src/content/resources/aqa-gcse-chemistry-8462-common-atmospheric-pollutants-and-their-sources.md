@@ -153,6 +153,27 @@ convert carbon monoxide and nitrogen oxides to less harmful gases, and keeping g
 - Saying particulates cause the greenhouse effect. They cause global dimming.
 - Writing soot as CO.
 
+## Putting it together: a model extended answer
+
+*A town sits beside a busy road and a coal-fired power station. Explain the air pollution problems it may have.*
+
+> The vehicles burn petrol and diesel. In the hot engines, nitrogen and oxygen from the air react to form oxides of
+> nitrogen, which cause respiratory problems and acid rain. If the air supply is limited, incomplete combustion
+> produces carbon monoxide, which is toxic and cannot be detected by smell, and soot, which causes global dimming
+> and lung problems. The power station burns coal that contains sulfur. The sulfur burns to form sulfur dioxide,
+> which also causes respiratory problems and acid rain that damages buildings and kills trees. Particulates from
+> the coal add to the health problems.
+
+This answer names each pollutant, says where it comes from and gives an effect, which is the structure that
+earns marks.
+
+## Linking to other topics
+
+- The combustion equations are the same as in **4.7.1.3** (hydrocarbons), now with limited oxygen.
+- Acid rain reacting with limestone links to **carbonates reacting with acids** in 4.4.2.
+- Carbon dioxide is a greenhouse gas but is **not** classed as a pollutant that causes acid rain or poisons people
+  directly.
+
 ## Next steps
 
 - [Common atmospheric pollutants revision notes](/resources/aqa-gcse-chemistry-8462-common-atmospheric-pollutants-and-their-sources-revision-notes/)

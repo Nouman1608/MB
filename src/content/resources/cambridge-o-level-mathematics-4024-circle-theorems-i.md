@@ -168,7 +168,7 @@ angle BCD = 180° − 74° = 106°     (angles on a straight line)
 angle DAB = 180° − 106° = 74°     (opposite angles of a cyclic quadrilateral sum to 180°)
 ```
 
-So the exterior angle DCE equals the interior opposite angle DAB. In an exam you may quote this shortcut as "exterior angle of a cyclic quadrilateral equals the interior opposite angle", but the two-step method above is always accepted.
+So the exterior angle DCE equals the interior opposite angle DAB. In an exam you may quote this shortcut as "exterior angle of a cyclic quadrilateral equals the interior opposite angle", but the two-step method above shows every step.
 
 ## Combining theorems
 

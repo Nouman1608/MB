@@ -116,6 +116,19 @@ Use actual size = image size divided by magnification.
 - A **tiny** tube barely wider than a red blood cell, with a wall of a single cell, is a capillary.
 - If valves are visible in a longitudinal section, the vessel is a vein.
 
+## The pulse and the pressure in different vessels
+
+You can feel a pulse in an artery near the surface, such as at the wrist. Each pulse is the surge of blood from one beat of the heart stretching the elastic wall of the artery. You cannot feel a pulse in veins or capillaries, because the surges have been smoothed out by the time the blood reaches them. The pressure falls steadily as the blood travels from the aorta, through the smaller arteries and the capillaries, to the veins.
+
+This fall in pressure is the reason for the different structures. Where the pressure is high, the vessel needs a strong, elastic wall. Where the pressure is low, the vessel needs valves to keep the blood moving in one direction.
+
+## Blood vessels in the liver and kidney
+
+The liver and kidneys show how the vessel names work together.
+
+- The **kidney** receives oxygenated blood from the aorta through the renal artery, and the renal vein returns the filtered blood to the vena cava. The kidney removes urea, so the blood in the renal vein has less urea than the blood in the renal artery.
+- The **liver** receives two supplies: oxygenated blood in the hepatic artery, and nutrient-rich blood from the gut in the hepatic portal vein. After the liver has processed the blood, it leaves in the hepatic vein. After a meal, blood in the hepatic portal vein has more glucose than blood in the hepatic vein, because the liver removes the excess.
+
 ## Common mistakes
 
 - Saying that arteries always carry oxygenated blood and veins deoxygenated blood.

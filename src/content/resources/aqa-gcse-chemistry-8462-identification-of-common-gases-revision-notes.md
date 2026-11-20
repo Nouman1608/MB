@@ -132,6 +132,30 @@ A splint going out is not a test in the specification: use limewater to identify
 11. Calcium hydroxide + carbon dioxide → calcium carbonate + water.
 12. Chlorine is toxic.
 
+## Worked answers to model
+
+**Describe how to test a gas collected in a test tube and say what the result shows.**
+
+- Hydrogen: "A burning splint is held at the open end of the test tube. The gas burns rapidly with a squeaky pop, so the gas is hydrogen."
+- Oxygen: "A glowing splint is put into the test tube. It relights, so the gas is oxygen."
+- Carbon dioxide: "The gas is bubbled through limewater. The limewater turns milky, so the gas is carbon dioxide."
+- Chlorine: "Damp litmus paper is put into the gas. It is bleached white, so the gas is chlorine."
+
+**Linking a reaction to the gas it makes**
+
+| Reaction | Gas | Test |
+|---|---|---|
+| Magnesium + hydrochloric acid | Hydrogen | Lit splint, squeaky pop |
+| Calcium carbonate + hydrochloric acid | Carbon dioxide | Limewater turns milky |
+| Hydrogen peroxide + manganese(IV) oxide | Oxygen | Glowing splint relights |
+| Electrolysis of sodium chloride solution (anode) | Chlorine | Damp litmus paper bleached |
+
+## Mark scheme pattern
+
+A typical two-mark gas test question gives one mark for the **test** and one mark for the **result**. A three-mark
+question usually adds the **name of the gas**. If you give only the name of the gas, you earn nothing for the
+test, so always write the full sentence.
+
 ## Next steps
 
 - [Identification of common gases study guide](/resources/aqa-gcse-chemistry-8462-identification-of-common-gases/)

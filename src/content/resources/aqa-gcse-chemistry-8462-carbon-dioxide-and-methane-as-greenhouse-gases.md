@@ -163,6 +163,24 @@ transport saving alone.
 - Assuming one weather event proves climate change.
 - Saying "the scientists agree" without referring to peer-reviewed evidence.
 
+## Putting it together: a model extended answer
+
+*Discuss how human activities may lead to global climate change and what could be done about it.*
+
+> Burning fossil fuels and deforestation increase the amount of carbon dioxide in the atmosphere, and cattle
+> farming, rice growing and landfill increase the amount of methane. These greenhouse gases absorb long wavelength
+> infrared radiation emitted by the Earth and re-radiate it, so more of it returns to the surface and the average
+> temperature rises. Potential effects include rising sea levels, more extreme weather, changes in rainfall and
+> loss of habitats. The evidence comes from peer-reviewed research, though the climate is difficult to model.
+> Emissions can be reduced by using renewable energy, improving energy efficiency, using public transport and
+> planting trees, but cost, lifestyle choices and lack of international agreement limit these actions.
+
+## Linking to other topics
+
+- Burning fuels links to **combustion** in 4.7.1.3.
+- Photosynthesis in plants links to **carbon dioxide removal** in 4.9.1.
+- The carbon footprint links to **life cycle assessment** in 4.10.2.
+
 ## Next steps
 
 - [Carbon dioxide and methane as greenhouse gases revision notes](/resources/aqa-gcse-chemistry-8462-carbon-dioxide-and-methane-as-greenhouse-gases-revision-notes/)

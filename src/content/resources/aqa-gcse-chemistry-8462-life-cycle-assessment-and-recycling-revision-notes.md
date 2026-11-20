@@ -145,6 +145,24 @@ scrap).
 11. Mixed materials may give a recycled product with the wrong properties; the separation needed depends on the properties required.
 12. To make the product look good by leaving out stages where it performs badly.
 
+## Worked answers to model
+
+**Explain why LCAs are not purely objective.** "Energy, water and waste can be measured, but the effects of
+pollutants need value judgements about how serious each is, so people can reach different conclusions."
+
+**Suggest why a company's LCA might be misleading.** "It may only include the stage where the product performs
+best, such as use, and leave out manufacture or disposal."
+
+**Evaluate recycling aluminium cans.** "Recycling uses much less energy than extracting aluminium from its ore,
+and it saves ore and reduces landfill. But cans must be collected and sorted, which costs money and uses fuel."
+
+## Exam answer frame for comparing two products
+
+1. State the stage totals for each product.
+2. State which is lower in total and per use.
+3. Mention what the data does not show (pollution, litter, habitats).
+4. Reach a conclusion.
+
 ## Next steps
 
 - [Life cycle assessment and recycling study guide](/resources/aqa-gcse-chemistry-8462-life-cycle-assessment-and-recycling/)

@@ -146,6 +146,30 @@ Mass check: two glycine molecules (75 each) lose one H₂O (18): 150 − 18 = **
 11. 2 × 75 − 18 = 132.
 12. Similarity: monomers join to make a long-chain polymer. Difference: condensation loses a small molecule, but addition does not.
 
+## Worked answers to model
+
+**Draw the repeating unit of poly(propene).** Draw two carbon atoms joined by a single bond. One carbon has an H
+and a CH₃ group, the other has two H atoms. Extend a bond from each end through square brackets and write n.
+
+**Name the monomer for –CH₂–CH(CH₃)–.** Restore the double bond: CH₂=CH–CH₃, which is propene.
+
+**Explain what is meant by condensation polymerisation (Higher tier only).** "Monomers with two functional groups
+join together, and a small molecule such as water is lost each time two monomers join."
+
+## Quick comparison: natural polymers
+
+| Polymer | Monomer | Function |
+|---|---|---|
+| DNA | Nucleotides | Carries genetic instructions |
+| Protein | Amino acids | Enzymes, muscle, structure |
+| Starch | Glucose | Energy store in plants |
+| Cellulose | Glucose | Cell walls in plants |
+
+## Common calculation
+
+Number of water molecules lost when n amino acids join in a single chain: n − 1. For 50 glycine units,
+**49** molecules of water are lost.
+
 ## Next steps
 
 - [Synthetic and naturally occurring polymers study guide](/resources/aqa-gcse-chemistry-8462-synthetic-and-naturally-occurring-polymers/)

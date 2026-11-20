@@ -166,6 +166,25 @@ removed from the atmosphere.
 - Saying photosynthesis uses oxygen and gives carbon dioxide (that is respiration).
 - Saying fossil fuels formed from dinosaurs. Coal is from plants, oil and gas from plankton.
 
+## Putting it together: a model extended answer
+
+*Describe how the Earth's atmosphere has changed over 4.6 billion years and give reasons for the changes.*
+
+> The early atmosphere was formed by gases from intense volcanic activity in the first billion years. It was
+> mainly carbon dioxide with water vapour, nitrogen, and small amounts of methane and ammonia, with little or no
+> oxygen, like Mars and Venus today. As the Earth cooled, the water vapour condensed to form the oceans. Carbon
+> dioxide dissolved in the oceans and carbonates were precipitated as sediments, which reduced the carbon dioxide.
+> About 2.7 billion years ago algae began to photosynthesise, taking in carbon dioxide and releasing oxygen,
+> and later plants did the same, so the percentage of oxygen gradually rose to about 20%, allowing animals to
+> evolve. Carbon was also locked into fossil fuels and limestone. Nitrogen, which is unreactive, built up to about
+> 80%.
+
+## Linking to other topics
+
+- Photosynthesis links to **biology** and to the greenhouse gases in 4.9.2.
+- Limestone, coal, crude oil and natural gas link to **organic chemistry** (4.7.1) and **carbonates** (4.4.2).
+- The evaluation of theories links to **How Science Works**: evidence, models and peer review.
+
 ## Next steps
 
 - [Composition and evolution of the atmosphere practice questions](/resources/aqa-gcse-chemistry-8462-the-composition-and-evolution-of-the-earths-atmosphere-practice/)

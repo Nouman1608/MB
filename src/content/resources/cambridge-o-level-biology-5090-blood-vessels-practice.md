@@ -96,6 +96,8 @@ D: valves
 
 **11.** Explain why a person who stands still for a long time may have blood collecting in the veins of the legs, and how valves reduce this. **[3]**
 
+**12.** Explain why a pulse can be felt in an artery at the wrist but not in a vein. **[2]**
+
 ---
 
 ## Answers
@@ -135,6 +137,8 @@ D: valves
 **10.** The lumen of a capillary is about as wide as a red blood cell [1]. The cells are close to the wall and move slowly [1], giving time and a short distance for oxygen to diffuse out of the cells and through the wall to the tissues [1]. **[3]**
 
 **11.** Pressure in the veins is low, so blood moves slowly back to the heart and can pool in the legs [1]. The valves close when blood begins to flow backwards [1], so the blood can only move towards the heart when leg muscles squeeze the veins [1]. **[3]**
+
+**12.** The artery wall is elastic and is stretched by each surge of blood from the heart [1]. The pressure in a vein is low and the surges have been smoothed out, so no pulse can be felt [1]. **[2]**
 
 ---
 

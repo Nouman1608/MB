@@ -192,6 +192,22 @@ different properties. You need only to name the monomer types.
 - Saying condensation polymers form with no water given off.
 - Mixing up the monomers: proteins are made from **amino acids**, not sugars.
 
+## Putting it together: a model answer
+
+*Compare the formation of poly(ethene) with the formation of a polyester (Higher tier only).*
+
+> Poly(ethene) forms by addition polymerisation. Many ethene molecules, each with a C=C double bond, join
+> together. The double bond opens and no other molecule is formed, so the repeating unit has the same atoms as
+> ethene. A polyester forms by condensation polymerisation. A monomer with two –OH groups, such as ethanediol,
+> reacts with a monomer with two –COOH groups, such as hexanedioic acid. Each time an ester link forms, a
+> molecule of water is lost, so the repeating unit has different atoms from the two monomers added together.
+
+## Linking to other topics
+
+- The alkene monomers come from **cracking** (4.7.1.4), which is why the polymer industry relies on crude oil.
+- Thermosetting and thermosoftening polymers link to **materials** (4.10.3).
+- DNA and proteins link to **biology**: genetic information, enzymes and structure.
+
 ## Next steps
 
 - [Synthetic and naturally occurring polymers revision notes](/resources/aqa-gcse-chemistry-8462-synthetic-and-naturally-occurring-polymers-revision-notes/)

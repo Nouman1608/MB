@@ -153,6 +153,26 @@ Carboxylic acids are **partially ionised** in water, so the solution has a **low
 11. It is only partially ionised in water.
 12. Ethanoic acid, because it is only partially ionised, so it has a lower hydrogen ion concentration.
 
+## Worked answers to model
+
+**Describe the test to distinguish ethane from ethene.** "Shake each gas with bromine water. Ethene changes the
+bromine water from orange to colourless. Ethane leaves it orange."
+
+**Explain why ethene is more reactive than ethane.** "Ethene contains a C=C double bond, which can open so that
+atoms can add across it. Ethane has only single bonds."
+
+**Describe how ethanol is made by fermentation.** "Dissolve sugar in water, add yeast, keep at about 30 to 40 °C
+with no oxygen. The yeast converts glucose to ethanol and carbon dioxide."
+
+## Structure drawing checklist
+
+1. Count the carbons and choose the right alcohol, alkene or acid name.
+2. Draw every atom and bond for a fully displayed formula.
+3. Check each carbon has four bonds.
+4. For addition products, each carbon of the former double bond gains one new atom.
+
+Example product: propene + hydrogen → propane, **C₃H₆ + H₂ → C₃H₈**.
+
 ## Next steps
 
 - [Reactions of alkenes and alcohols study guide](/resources/aqa-gcse-chemistry-8462-reactions-of-alkenes-and-alcohols/)

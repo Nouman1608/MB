@@ -178,6 +178,22 @@ The glowing splint test rules out oxygen. The limewater test matches **carbon di
 - Saying the splint "lights" in oxygen, instead of relights.
 - Saying hydrogen "explodes". The expected description is a squeaky pop.
 
+## Putting it together: a model extended answer
+
+*A student reacts calcium carbonate with dilute hydrochloric acid. Describe the observations and how to identify
+the gas.*
+
+> The calcium carbonate fizzes and the solid gets smaller as it reacts and dissolves. The gas given off can be
+> identified by leading it through a delivery tube into limewater. The limewater turns milky because the
+> carbon dioxide reacts with calcium hydroxide to make insoluble calcium carbonate. The equation for the reaction
+> is CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂.
+
+## Linking to other topics
+
+- The gas tests are used in **acids** (4.4.2: metals and carbonates), **electrolysis** (4.4.3), **rates**
+  (4.6.1: collecting gas) and **ion tests** (4.8.3: carbonates).
+- Knowing the products of each reaction helps you predict the gas before you test it.
+
 ## Next steps
 
 - [Identification of common gases revision notes](/resources/aqa-gcse-chemistry-8462-identification-of-common-gases-revision-notes/)

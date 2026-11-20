@@ -173,6 +173,38 @@ with the same mass lowers it in inverse proportion. A good explanation uses the 
 *Example:* 5.85 g of sodium chloride (Mr 58.5) in 500 cm³ gives 0.100 mol in 0.500 dm³ = 0.200 mol/dm³. The same
 mass in 250 cm³ gives 0.400 mol/dm³.
 
+## Preparing a standard solution
+
+To make a solution of known concentration in mol/dm³, you calculate the mass of solute needed and then dissolve
+it carefully.
+
+1. Calculate the moles required: concentration × volume (dm³).
+2. Calculate the mass: moles × Mr.
+3. Weigh the solid accurately on a balance.
+4. Dissolve it in a little water in a beaker, stirring.
+5. Transfer the solution to a volumetric flask, rinsing the beaker so no solute is lost.
+6. Add water up to the mark on the neck of the flask, then mix by inverting.
+
+### Worked example 9: a dilution (HT only)
+
+*25.0 cm³ of a 0.400 mol/dm³ solution is diluted to 100 cm³ with water. Calculate the new concentration.*
+
+```
+moles in 25.0 cm3 = 0.400 x 0.0250 = 0.0100 mol
+The moles do not change on dilution.
+new concentration = 0.0100 / 0.100 = 0.100 mol/dm3
+```
+
+The concentration has fallen by a factor of 4, because the volume has increased by a factor of 4.
+
+## Mean titres and accuracy
+
+In a titration, the volume of the second solution is read from a burette. You repeat the titration until you have
+at least two concordant results (results that agree closely). The mean is calculated using those results only.
+For example, concordant titres of 18.60, 18.55 and 18.65 cm³ give a mean of 18.60 cm³. Use the mean in the
+calculation. Using a pipette to measure the volume of the first solution, and a burette for the second, gives
+accurate volumes.
+
 ## Common mistakes
 
 - Forgetting to divide the cm³ by 1000.

@@ -96,6 +96,27 @@ A club has 8,000 followers. A post receives 320 likes and comments. Engagement r
 - Not naming the group (individuals, business, organisation or government) in an impact answer.
 - Forgetting censorship and false information when writing about governments.
 
+## Building a discuss answer
+
+A six-mark "discuss" answer needs both sides, a named group and a conclusion. A reliable pattern:
+
+1. **Name the platform and the group**: "For teenagers, a microblog..."
+2. **Benefit with a reason**: "...keeps them in contact with friends, which reduces loneliness."
+3. **Harm with a reason**: "...but constant comparison with others can lower self-esteem."
+4. **Second pair of points** for a different group or feature.
+5. **Conclusion**: say which effect matters more in the scenario, and why.
+
+**Choosing a type for a purpose.**
+
+| Purpose | Best type | Reason |
+|---|---|---|
+| Urgent flood warning to a town | Microblog | Short, instantly shared |
+| Detailed product guide with comments | Blog | Space for long posts |
+| Technical help that others can search later | Forum | Threads stay available |
+| Private quick question to a colleague | Instant messaging | Real time and private |
+| Formal notice that needs a record and an attachment | Email | Stored and can carry files |
+| Live open discussion on a hobby | Chat room | Many users at once |
+
 ## Self-test
 
 1. Name four types of social networking service listed in the syllabus.

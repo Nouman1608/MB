@@ -183,6 +183,25 @@ distance = Rf x solvent distance = 0.35 x 7.2 = 2.52 cm  (2.5 cm to 2 s.f.)
 - Saying a formulation is a "pure" product just because it is a manufactured product.
 - Saying a pure substance has a melting point in a range.
 
+## Putting it together: a model extended answer
+
+*A forensic scientist compares the ink on a ransom note with three pens using paper chromatography. Describe the
+method and how the results are used.*
+
+> A pencil line is drawn near the bottom of the chromatography paper. A small spot of ink from the note and a
+> spot from each pen are placed on the line. The paper is stood in a beaker with a little solvent, with the
+> solvent below the line, and a lid is put on. The solvent moves up the paper, carrying the dyes with it at
+> different rates, because they are distributed differently between the stationary phase (paper) and the mobile
+> phase (solvent). When the solvent is near the top, the paper is removed, the solvent front is marked and the
+> paper is dried. The Rf value of each spot is calculated. If the ink from the note gives spots with the same
+> Rf values as one pen in the same solvent, that pen is a likely match.
+
+## Linking to other topics
+
+- Melting and boiling point data link to **states of matter** and **intermolecular forces**.
+- Formulations link to **alloys** (4.10.3.2) and **NPK fertilisers** (4.10.4.2).
+- Rf values need **ratio and significant figures** from the maths skills.
+
 ## Next steps
 
 - [Purity, formulations and chromatography practice questions](/resources/aqa-gcse-chemistry-8462-purity-formulations-and-chromatography-practice/)

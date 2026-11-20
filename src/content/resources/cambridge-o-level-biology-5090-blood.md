@@ -125,6 +125,27 @@ Oxygen and glucose are used by the cells, so their concentration in the tissue f
 
 Tissue fluid links the capillary and the cell, so the capillary wall's thinness and large surface area (subtopic 11.3) are what makes the exchange possible.
 
+## Drawing and labelling blood cells
+
+If you are asked to draw cells from a prepared slide, follow the rules for biological drawings.
+
+1. Use a sharp pencil and draw clear single lines. Do not shade.
+2. Draw the cells large enough to show their features, and keep the proportions right: a white blood cell is bigger than a red blood cell.
+3. Draw only what you can see. Show the nucleus of a white cell and the pale centre of a red cell.
+4. Label with ruled lines that touch the structure, and add a title and the magnification.
+5. Do not draw a nucleus in a red blood cell.
+
+### Using size to identify cells
+
+On a photomicrograph, size is a useful clue if the magnification is known. A red blood cell has a diameter of about 7 micrometres. A phagocyte is roughly twice as wide, and a lymphocyte is between the two. If the scale on an image shows that a cell is 14 micrometres across and has a lobed nucleus, a phagocyte is a good answer. Always give a reason that uses something you can see, not just the name.
+
+## Blood and the rest of the course
+
+- **Disease and immunity (topic 12)**: lymphocytes and phagocytes are the cells that give immunity. Fewer lymphocytes, as in HIV infection, weaken the immune system.
+- **Human nutrition (topic 8)**: iron in the diet is needed to make haemoglobin, so a lack of iron leads to anaemia.
+- **Respiration (topic 10)**: the oxygen carried by red blood cells is used in aerobic respiration, and the carbon dioxide produced is carried away in the plasma.
+- **Excretion (topic 13)**: urea made in the liver is carried in the plasma to the kidneys.
+
 ## Common mistakes
 
 - Saying that white blood cells carry oxygen, or that red blood cells fight infection.

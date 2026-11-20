@@ -81,6 +81,18 @@ These notes condense **section 12.5 Technology enhanced learning** (Topic 12 IT 
 | Thousands of adult learners worldwide | MOOC | Scale and low cost |
 | A rural school needs a specialist teacher | Video-conferencing | Live access without travel |
 
+## Building an evaluate answer
+
+For a six-mark answer recommending a method:
+
+1. State the **needs** from the scenario (number of learners, location, budget, type of learning).
+2. Give two **strengths** of the chosen method, each linked to a need.
+3. Give one or two **weaknesses**, and say how they could be reduced.
+4. Explain briefly why the alternative suits the needs **less well**.
+5. Give a clear **recommendation**.
+
+**Example.** A hospital must train 3,000 staff on a new procedure. Computer-based training suits it because everyone gets the same content, staff can study between shifts and results are recorded. Its weakness is that nobody answers questions, so a short live session could follow. A MOOC is less suitable because the content is private and a general public course would not cover the hospital's own procedure.
+
 ## Exam traps
 
 - Not saying how the method is delivered.

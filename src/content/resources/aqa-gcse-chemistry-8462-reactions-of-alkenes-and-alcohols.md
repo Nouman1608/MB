@@ -209,6 +209,22 @@ example, 0.1 mol/dm³ ethanoic acid has a pH of about 3, while 0.1 mol/dm³ hydr
 - Omitting the "no oxygen" condition in fermentation.
 - Saying "weak" means "dilute" when comparing acids.
 
+## Putting it together: a model extended answer
+
+*Ethanol can be made from ethene or by fermentation. Compare the two methods.*
+
+> From ethene: ethene reacts with steam in an addition reaction using a phosphoric acid catalyst at high
+> temperature and pressure. It is a continuous process that gives pure ethanol quickly, but it uses crude oil,
+> which is finite, and a lot of energy. By fermentation: sugar solution with yeast at about 30 to 40 °C with no
+> oxygen gives aqueous ethanol and carbon dioxide. It is a batch process that uses renewable sugar crops and lower
+> temperatures, but it is slow, gives a dilute solution that needs distillation and uses farmland.
+
+## Linking to other topics
+
+- Alkenes come from **cracking** (4.7.1.4) and are the monomers for **polymers** (4.7.3).
+- Carboxylic acids link to **weak acids** in 4.4.2.6 and to **esters** used in perfumes.
+- Alcohol combustion links to **energy changes** (4.5.1): the reaction is exothermic.
+
 ## Next steps
 
 - [Reactions of alkenes and alcohols revision notes](/resources/aqa-gcse-chemistry-8462-reactions-of-alkenes-and-alcohols-revision-notes/)

@@ -91,6 +91,24 @@ Questions, with model answers and the reasoning for each.
 
 Two points deserve comment. First, the answer to the question about days needs **counting**: from 12 to 14 is three days, not two. Second, the answer about free entry needs the **whole group**: *طلبہ* alone is incomplete, because only students in school uniform are admitted free.
 
+## A second text: instructions
+
+Instructions and manuals are on the syllabus list, and they hide reasons and warnings inside short sentences. This text is also original.
+
+> **پودے کو پانی دینے کی ہدایات**
+>
+> پودے کو روزانہ پانی نہ دیں۔ گرمیوں میں ہفتے میں تین بار اور سردیوں میں صرف ایک بار پانی کافی ہے۔ پانی دینے کا بہترین وقت صبح سویرے ہے، کیونکہ دوپہر کی گرمی میں پانی جلد بھاپ بن کر اڑ جاتا ہے۔ پانی جڑوں کے قریب ڈالیں، پتوں پر نہیں۔ اگر پتے پیلے پڑنے لگیں تو سمجھ لیں کہ پانی ضرورت سے زیادہ دیا جا رہا ہے۔
+
+| Question | Model answer | Skill |
+|---|---|---|
+| سردیوں میں ہفتے میں کتنی بار پانی دینا چاہیے؟ | ایک بار | R1: a number linked to the right season |
+| پانی دینے کا بہترین وقت کون سا ہے؟ | صبح سویرے | R1: a time |
+| دوپہر کو پانی کیوں نہیں دینا چاہیے؟ | پانی جلد بھاپ بن کر اڑ جاتا ہے | R3: the reason follows *کیونکہ* |
+| پتوں کا پیلا پڑنا کس بات کی نشانی ہے؟ | ضرورت سے زیادہ پانی دینے کی | R4: the text says "understand that", so the meaning is implied |
+| پانی کہاں ڈالنا چاہیے؟ | جڑوں کے قریب | R1: a place, not the leaves |
+
+Notice that the first question has a trap: the text gives **two** numbers (three and one), and only one belongs to winter. Link every number to its season or subject before you write it. Notice also that *کیونکہ* is a signal word: in a *کیوں* question, look for *کیونکہ*، *اس لیے* or *تاکہ* near the topic.
+
 ## How long should an answer be?
 
 The syllabus asks for "short answers of a single word or phrase". That means:

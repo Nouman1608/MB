@@ -144,6 +144,25 @@ N₂(g) + 3H₂(g) ⇌ 2NH₃(g), forward reaction exothermic.
 11. Higher temperature: less SO₃ (opposes the rise by favouring the endothermic reverse reaction). Higher pressure: more SO₃ (3 gas molecules on the left, 2 on the right).
 12. It shifts to the right to replace the product, so more product forms.
 
+## Worked answers to model
+
+**Explain what is meant by dynamic equilibrium.** "In a closed system, the forward and reverse reactions happen at
+the same rate, so the concentrations of reactants and products stay constant, but both reactions are still
+going on."
+
+**Predict the effect of removing water vapour from CuSO₄·5H₂O ⇌ CuSO₄ + 5H₂O (Higher tier only).** "The
+equilibrium shifts to the right to replace the water, so more anhydrous copper sulfate forms."
+
+**Predict the effect of pressure on 2SO₂ + O₂ ⇌ 2SO₃ (Higher tier only).** "There are 3 gas molecules on the left
+and 2 on the right. Increasing the pressure shifts the position to the right, giving more SO₃."
+
+## Method for any prediction
+
+1. Write the balanced equation with state symbols.
+2. Decide whether the forward reaction is exothermic or endothermic.
+3. For pressure, count gas molecules on each side.
+4. State the direction of shift and the effect on the amount of product.
+
 ## Next steps
 
 - [Reversible reactions and dynamic equilibrium study guide](/resources/aqa-gcse-chemistry-8462-reversible-reactions-and-dynamic-equilibrium/)

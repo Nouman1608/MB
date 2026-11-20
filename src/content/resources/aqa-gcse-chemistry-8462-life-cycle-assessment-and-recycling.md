@@ -154,6 +154,24 @@ Questions give you data on cost, energy and waste, so your answer should refer t
 - Ignoring the use stage when comparing products.
 - Drawing a conclusion without using the data.
 
+## Putting it together: a model evaluation
+
+*Evaluate whether a supermarket should switch from plastic bags to paper bags using the data in Worked example 1.*
+
+> On energy alone, the paper bag needs 2.8 MJ against 1.7 MJ for the plastic bag, so the plastic bag has the lower
+> impact per bag. If plastic bags are reused three times, the energy per use falls to 0.57 MJ, which is far lower
+> than the 2.8 MJ for a single-use paper bag. However, the data cover only energy. Plastic bags last a long time
+> if dropped as litter, while paper decomposes, so disposal impacts are hard to compare. Overall, a reusable
+> plastic bag appears better on energy, but a full LCA would also need water use, waste and pollutants, and some
+> of those need value judgements.
+
+## Linking to other topics
+
+- Recycling metals links to **extraction**: electrolysis of aluminium oxide uses large amounts of energy, so
+  recycling aluminium saves much more energy than recycling steel saves compared with the blast furnace.
+- Plastic bag questions link to **polymers** (poly(ethene) from crude oil, a finite resource).
+- Quarrying links to **limestone** and **ceramics** in the materials section.
+
 ## Next steps
 
 - [Life cycle assessment and recycling revision notes](/resources/aqa-gcse-chemistry-8462-life-cycle-assessment-and-recycling-revision-notes/)

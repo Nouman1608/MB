@@ -132,6 +132,31 @@ to test yourself use the
 11. 2CH₄ + 3O₂ → 2CO + 4H₂O.
 12. Any four: carbon monoxide, carbon dioxide, soot, sulfur dioxide, particulates.
 
+## Worked answers to model
+
+**Explain why a car engine produces oxides of nitrogen although petrol contains no nitrogen.**
+"The temperature in the engine is very high, so nitrogen and oxygen from the air react together to form oxides of
+nitrogen, for example N₂ + O₂ → 2NO."
+
+**Explain why a gas fire with a blocked air vent is dangerous.**
+"There is not enough oxygen for complete combustion, so carbon monoxide forms. Carbon monoxide is toxic and is
+colourless and odourless, so people cannot detect it."
+
+**Explain how burning coal causes acid rain.**
+"Coal contains sulfur. The sulfur burns to form sulfur dioxide. This dissolves in rain water and makes it acidic."
+
+## Pollutant, source and effect in one line
+
+| Pollutant | Source | Effect |
+|---|---|---|
+| Carbon monoxide | Incomplete combustion | Toxic; reduces oxygen carried by blood |
+| Soot (carbon) | Incomplete combustion | Global dimming; lung problems |
+| Sulfur dioxide | Sulfur in fuels | Respiratory problems; acid rain |
+| Oxides of nitrogen | Air in hot engines | Respiratory problems; acid rain |
+| Unburned hydrocarbons | Fuel not burned | Form particulates |
+
+Use this pattern, pollutant then source then effect, in every "describe and explain" answer.
+
 ## Next steps
 
 - [Common atmospheric pollutants study guide](/resources/aqa-gcse-chemistry-8462-common-atmospheric-pollutants-and-their-sources/)

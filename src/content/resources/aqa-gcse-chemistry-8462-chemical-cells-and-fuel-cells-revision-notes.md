@@ -143,6 +143,25 @@ Finish with a **judgement**: which suits which use, with a reason.
 11. O₂ + 4H⁺ + 4e⁻ → 2H₂O.
 12. Reduced, because it gains electrons.
 
+## Worked answers to model
+
+**Explain why a cell using magnesium and copper gives a higher voltage than one using zinc and copper.** "Magnesium
+is more reactive than zinc, so the difference in reactivity between magnesium and copper is larger, which gives a
+larger voltage."
+
+**Explain why an alkaline battery cannot be recharged.** "The reactions cannot be reversed by passing a current, and
+the battery stops when a reactant is used up."
+
+**Give one environmental advantage of a hydrogen fuel cell.** "The only product at the point of use is water, so
+there are no carbon dioxide emissions from the vehicle."
+
+## Interpreting voltage tables
+
+1. Rank the pairs by voltage.
+2. Match the order to the reactivity of the metal paired with the common metal.
+3. A pair of identical metals gives 0 V.
+4. Cells in series add their voltages: three 1.1 V cells give **3.3 V**.
+
 ## Next steps
 
 - [Chemical cells and fuel cells study guide](/resources/aqa-gcse-chemistry-8462-chemical-cells-and-fuel-cells/)

@@ -16,7 +16,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "quantitative-chemistry-8462"
     subtopic: "using-concentrations-of-solutions-in-mol-dm3-8462"
-description: "Nine original AQA GCSE Chemistry 8462 questions (Higher tier) on section 4.3.4: concentration in mol/dm3, g/dm3 conversions and titration calculations, with answers."
+description: "Ten original AQA GCSE Chemistry 8462 questions (Higher tier) on section 4.3.4: concentration in mol/dm3, g/dm3 conversions and titration calculations, with answers."
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-20
 featured: false
@@ -80,6 +80,13 @@ Calculate the volume of hydrochloric acid needed. **[4]**
 **(a)** Calculate the mass of sodium chloride required. **[2]**
 **(b)** Describe how the technician should prepare the solution. **[3]**
 
+**10.** (Higher tier only) 25.0 cm³ of a 0.400 mol/dm³ solution of copper(II) sulfate is diluted with water to
+100 cm³.
+
+**(a)** Calculate the number of moles of copper(II) sulfate in the 25.0 cm³. **[2]**
+**(b)** Calculate the concentration of the diluted solution. **[2]**
+**(c)** Explain why the number of moles does not change when water is added. **[1]**
+
 ## Answers
 
 **1.** Volume = 600 ÷ 1000 = 0.600 dm³ [1]; concentration = 0.30 ÷ 0.600 = **0.50 mol/dm³** [1]. **[2]**
@@ -109,6 +116,10 @@ volume = 0.00500 ÷ 0.200 = 0.0250 dm³ [1] = **25.0 cm³** [1]. **[4]**
 **9. (a)** Moles = 0.200 × 0.500 = 0.100 mol [1]; mass = 0.100 × 58.5 = **5.85 g** [1]. **[2]**
 **(b)** Weigh 5.85 g of sodium chloride accurately [1]; dissolve it in some water in a beaker and transfer the
 solution to a 500 cm³ volumetric flask [1]; add water up to the 500 cm³ mark and mix [1]. **[3]**
+
+**10. (a)** 0.400 × 0.0250 [1] = **0.0100 mol** [1]. **[2]**
+**(b)** 100 cm³ = 0.100 dm³ [1]; 0.0100 ÷ 0.100 = **0.100 mol/dm³** [1]. **[2]**
+**(c)** Only water is added, so the amount of solute is unchanged [1]
 
 ## Where marks are usually lost
 

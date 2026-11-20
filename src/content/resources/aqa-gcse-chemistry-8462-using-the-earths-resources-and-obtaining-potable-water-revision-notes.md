@@ -150,6 +150,28 @@ need land (phytomining).
 11. Using plants to absorb metal compounds, then burning the plants to give ash containing the metal compounds.
 12. Displacement using scrap iron, or electrolysis.
 
+## Worked answers to model
+
+**Explain why potable water is not the same as pure water.**
+"Potable water is safe to drink, but it contains dissolved substances such as salts. Pure water contains only H₂O."
+
+**Give reasons for the steps used to produce potable water.**
+"A fresh water source has low levels of dissolved salts. Filter beds remove insoluble solids. Sterilising with
+chlorine, ozone or ultraviolet light kills microbes."
+
+**Compare getting potable water from ground water and from sea water.**
+"Ground water only needs filtering and sterilising. Sea water needs desalination by distillation or reverse
+osmosis, which uses a lot of energy, so it is more difficult and expensive."
+
+## Calculation pattern for dissolved solids
+
+1. Convert the volume to dm³ (cm³ ÷ 1000).
+2. Find the mass of residue (mass of dish with residue minus mass of empty dish).
+3. Divide mass by volume.
+
+Example: dish 24.512 g empty and 24.537 g with residue from 50.0 cm³. Residue = 0.025 g; volume = 0.0500 dm³;
+0.025 ÷ 0.0500 = **0.50 g/dm³**.
+
 ## Next steps
 
 - [Using the Earth's resources and obtaining potable water study guide](/resources/aqa-gcse-chemistry-8462-using-the-earths-resources-and-obtaining-potable-water/)

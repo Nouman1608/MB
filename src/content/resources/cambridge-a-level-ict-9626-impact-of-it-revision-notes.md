@@ -64,6 +64,20 @@ Tools: CCTV, number plate recognition, facial recognition, location tracking, on
 
 **Banking.** If an online payment costs £0.20 and a branch payment costs £2.80, moving 5,000 payments online saves (2.80 − 0.20) × 5,000 = **£13,000**.
 
+## Building a discuss answer
+
+For a six-mark "discuss" question on one area:
+
+1. Name the **technology** and the **group** affected.
+2. Give a **benefit** and explain why it happens.
+3. Give a **drawback** and explain why it happens.
+4. Add a second pair of points about a different group (for example workers, customers or the public).
+5. Finish with a **judgement** that fits the scenario.
+
+**Model chain for healthcare.** Electronic records (technology) let any doctor see the whole history (change), so treatment is quicker and safer for patients (benefit). However, records held centrally are a target for hackers, so patient privacy is at risk (cost). A judgement: the benefits are worth having if access is controlled and logged.
+
+**Words that earn marks:** "because", "so that", "which means", "as a result", "however", "whereas".
+
 ## Key words
 
 | Term | Meaning |
