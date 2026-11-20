@@ -14,6 +14,9 @@ order: 5
 syllabusTopics:
   - qualification: "a-level"
     topic: "analysis-of-accounting-statements"
+  - qualification: "a-level"
+    topic: "analysis-of-accounting-statements"
+    subtopic: "ratios-yac11"
 description: "Condensed notes on Edexcel IAL Accounting topic 1.5: ratio formulae, appraisal method, projection steps and a quick self-test with answers."
 author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"

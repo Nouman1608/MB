@@ -2,12 +2,15 @@
  * D-444 -- flashcards for Pearson Edexcel International A Level Accounting YAC11
  * (specification Issue 2, first teaching 2015).
  *
- * One block per subtopic (topics 1.1 and 1.2) or per topic (1.3 to 2.9, which
- * the syllabus record does not itemise into subtopics), in specification order.
- * Card ids are `<subtopic number>-<n>` or `<topic number>-<n>`, using the
+ * One block per subtopic (topics 1.1 to 1.6 and 2.1) or per topic (2.2 to 2.9,
+ * which the syllabus record does not itemise into subtopics), in specification
+ * order. Card ids are `<subtopic number>-<n>` or `<topic number>-<n>`, using the
  * record's own printed numbers (for example '1.1.3-1.1.7-2' or '2.4-5'), and are
  * permanent (browser progress is keyed by them): add a new card with the next
- * unused n, never renumber.
+ * unused n, never renumber. Topics 1.3 to 1.6 and 2.1 were first filed on the
+ * topic itself; on 20 Nov 2026 their cards were re-filed under the subtopics and
+ * renumbered, and `idMigration` below moves browser progress saved before then
+ * onto the new ids. Card text is unchanged.
  *
  *   src: '...'  The card restates that revision-notes page (found with
  *               scripts/flashcard-candidates.mjs YAC11, or a definition table,
@@ -73,8 +76,54 @@ export const DECK_EDEXCEL_A_LEVEL_ACCOUNTING: FlashcardDeck = {
   syllabusCode: 'YAC11',
   syllabusSeries: '2015-onwards',
   author: 'marlbridge-academic-team',
-  updated: '2026-11-05',
+  updated: '2026-11-20',
   deckReview: { reviewerSlug: 'javaid-iqbal-sabri', reviewedOn: '2026-11-05' },
+  // Old id -> new id for every card, so progress saved before the cards were re-filed under
+  // the new subtopics follows each card. Runs once per browser, on marks dated before 2026-11-20.
+  idMigration: {
+    id: 'yac11-subtopics-2026-11-20',
+    before: '2026-11-20',
+    map: {
+      '1.1.1-1.1.2-1': '1.1.1-1.1.2-1', '1.1.1-1.1.2-2': '1.1.1-1.1.2-2', '1.1.1-1.1.2-3': '1.1.1-1.1.2-3', '1.1.1-1.1.2-4': '1.1.1-1.1.2-4',
+      '1.1.3-1.1.7-1': '1.1.3-1.1.7-1', '1.1.3-1.1.7-2': '1.1.3-1.1.7-2', '1.1.3-1.1.7-3': '1.1.3-1.1.7-3', '1.1.3-1.1.7-4': '1.1.3-1.1.7-4', '1.1.3-1.1.7-5': '1.1.3-1.1.7-5', '1.1.3-1.1.7-6': '1.1.3-1.1.7-6',
+      '1.1.3-1.1.7-7': '1.1.3-1.1.7-7', '1.1.3-1.1.7-8': '1.1.3-1.1.7-8', '1.1.3-1.1.7-9': '1.1.3-1.1.7-9', '1.1.3-1.1.7-10': '1.1.3-1.1.7-10', '1.1.3-1.1.7-11': '1.1.3-1.1.7-11',
+      '1.1.8-1.1.10-1': '1.1.8-1.1.10-1', '1.1.8-1.1.10-2': '1.1.8-1.1.10-2', '1.1.8-1.1.10-3': '1.1.8-1.1.10-3', '1.1.8-1.1.10-4': '1.1.8-1.1.10-4', '1.1.8-1.1.10-5': '1.1.8-1.1.10-5', '1.1.8-1.1.10-6': '1.1.8-1.1.10-6',
+      '1.1.8-1.1.10-7': '1.1.8-1.1.10-7', '1.1.8-1.1.10-8': '1.1.8-1.1.10-8', '1.1.8-1.1.10-9': '1.1.8-1.1.10-9', '1.1.8-1.1.10-10': '1.1.8-1.1.10-10', '1.1.8-1.1.10-11': '1.1.8-1.1.10-11',
+      '1.1.11-1.1.12-1': '1.1.11-1.1.12-1', '1.1.11-1.1.12-2': '1.1.11-1.1.12-2', '1.1.11-1.1.12-3': '1.1.11-1.1.12-3', '1.1.11-1.1.12-4': '1.1.11-1.1.12-4', '1.1.11-1.1.12-5': '1.1.11-1.1.12-5', '1.1.11-1.1.12-6': '1.1.11-1.1.12-6',
+      '1.1.13-1.1.20-1': '1.1.13-1.1.20-1', '1.1.13-1.1.20-2': '1.1.13-1.1.20-2', '1.1.13-1.1.20-3': '1.1.13-1.1.20-3', '1.1.13-1.1.20-4': '1.1.13-1.1.20-4', '1.1.13-1.1.20-5': '1.1.13-1.1.20-5', '1.1.13-1.1.20-6': '1.1.13-1.1.20-6',
+      '1.1.13-1.1.20-7': '1.1.13-1.1.20-7', '1.1.13-1.1.20-8': '1.1.13-1.1.20-8', '1.1.13-1.1.20-9': '1.1.13-1.1.20-9', '1.1.13-1.1.20-10': '1.1.13-1.1.20-10',
+      '1.2.1-1.2.2-1': '1.2.1-1.2.2-1', '1.2.1-1.2.2-2': '1.2.1-1.2.2-2', '1.2.1-1.2.2-3': '1.2.1-1.2.2-3', '1.2.1-1.2.2-4': '1.2.1-1.2.2-4',
+      '1.2.3-1.2.4-1': '1.2.3-1.2.4-1', '1.2.3-1.2.4-2': '1.2.3-1.2.4-2', '1.2.3-1.2.4-3': '1.2.3-1.2.4-3', '1.2.3-1.2.4-4': '1.2.3-1.2.4-4', '1.2.3-1.2.4-5': '1.2.3-1.2.4-5',
+      '1.2.5-1.2.9-1': '1.2.5-1.2.9-1', '1.2.5-1.2.9-2': '1.2.5-1.2.9-2', '1.2.5-1.2.9-3': '1.2.5-1.2.9-3', '1.2.5-1.2.9-4': '1.2.5-1.2.9-4', '1.2.5-1.2.9-5': '1.2.5-1.2.9-5', '1.2.5-1.2.9-6': '1.2.5-1.2.9-6',
+      '1.2.5-1.2.9-7': '1.2.5-1.2.9-7', '1.2.5-1.2.9-8': '1.2.5-1.2.9-8', '1.2.5-1.2.9-9': '1.2.5-1.2.9-9', '1.2.5-1.2.9-10': '1.2.5-1.2.9-10', '1.2.5-1.2.9-11': '1.2.5-1.2.9-11',
+      '1.3-1': '1.3.1-1.3.2-1', '1.3-2': '1.3.3-1.3.6-1', '1.3-3': '1.3.3-1.3.6-2', '1.3-4': '1.3.7-1', '1.3-5': '1.3.8-1', '1.3-6': '1.3.9-1.3.13-1',
+      '1.3-7': '1.3.9-1.3.13-2', '1.3-8': '1.3.9-1.3.13-3', '1.3-9': '1.3.9-1.3.13-4', '1.3-10': '1.3.14-1.3.19-1', '1.3-11': '1.3.20-1.3.22-1', '1.3-12': '1.3.14-1.3.19-2',
+      '1.4-1': '1.4.1-1.4.3-1', '1.4-2': '1.4.1-1.4.3-2', '1.4-3': '1.4.1-1.4.3-3', '1.4-4': '1.4.4-1.4.6-1', '1.4-5': '1.4.4-1.4.6-2', '1.4-6': '1.4.4-1.4.6-3',
+      '1.4-7': '1.4.7-1.4.11-1', '1.4-8': '1.4.7-1.4.11-2', '1.4-9': '1.4.12-1.4.13-1', '1.4-10': '1.4.4-1.4.6-4', '1.4-11': '1.4.12-1.4.13-2',
+      '1.5-1': '1.5.1-1.5.3-1', '1.5-2': '1.5.1-1.5.3-2', '1.5-3': '1.5.1-1.5.3-3', '1.5-4': '1.5.1-1.5.3-4', '1.5-5': '1.5.1-1.5.3-5', '1.5-6': '1.5.1-1.5.3-6',
+      '1.5-7': '1.5.1-1.5.3-7', '1.5-8': '1.5.1-1.5.3-8', '1.5-9': '1.5.1-1.5.3-9', '1.5-10': '1.5.1-1.5.3-10',
+      '1.6-1': '1.6.1-1.6.3-1', '1.6-2': '1.6.1-1.6.3-2', '1.6-3': '1.6.1-1.6.3-3', '1.6-4': '1.6.1-1.6.3-4', '1.6-5': '1.6.4-1', '1.6-6': '1.6.4-2',
+      '1.6-7': '1.6.4-3', '1.6-8': '1.6.4-4', '1.6-9': '1.6.1-1.6.3-5',
+      '2.1-1': '2.1.1-2.1.3-1', '2.1-2': '2.1.4-2.1.11-1', '2.1-3': '2.1.4-2.1.11-2', '2.1-4': '2.1.4-2.1.11-3', '2.1-5': '2.1.4-2.1.11-4', '2.1-6': '2.1.4-2.1.11-5',
+      '2.1-7': '2.1.4-2.1.11-6', '2.1-8': '2.1.12-2.1.15-1', '2.1-9': '2.1.12-2.1.15-2', '2.1-10': '2.1.1-2.1.3-2', '2.1-11': '2.1.1-2.1.3-3', '2.1-12': '2.1.4-2.1.11-7',
+      '2.2-1': '2.2-1', '2.2-2': '2.2-2', '2.2-3': '2.2-3', '2.2-4': '2.2-4', '2.2-5': '2.2-5', '2.2-6': '2.2-6',
+      '2.2-7': '2.2-7', '2.2-8': '2.2-8', '2.2-9': '2.2-9', '2.2-10': '2.2-10',
+      '2.3-1': '2.3-1', '2.3-2': '2.3-2', '2.3-3': '2.3-3', '2.3-4': '2.3-4', '2.3-5': '2.3-5', '2.3-6': '2.3-6',
+      '2.3-7': '2.3-7', '2.3-8': '2.3-8', '2.3-9': '2.3-9', '2.3-10': '2.3-10', '2.3-11': '2.3-11', '2.3-12': '2.3-12',
+      '2.4-1': '2.4-1', '2.4-2': '2.4-2', '2.4-3': '2.4-3', '2.4-4': '2.4-4', '2.4-5': '2.4-5', '2.4-6': '2.4-6',
+      '2.4-7': '2.4-7', '2.4-8': '2.4-8', '2.4-9': '2.4-9', '2.4-10': '2.4-10',
+      '2.5-1': '2.5-1', '2.5-2': '2.5-2', '2.5-3': '2.5-3', '2.5-4': '2.5-4', '2.5-5': '2.5-5', '2.5-6': '2.5-6',
+      '2.5-7': '2.5-7', '2.5-8': '2.5-8', '2.5-9': '2.5-9', '2.5-10': '2.5-10',
+      '2.6-1': '2.6-1', '2.6-2': '2.6-2', '2.6-3': '2.6-3', '2.6-4': '2.6-4', '2.6-5': '2.6-5', '2.6-6': '2.6-6',
+      '2.6-7': '2.6-7', '2.6-8': '2.6-8', '2.6-9': '2.6-9', '2.6-10': '2.6-10',
+      '2.7-1': '2.7-1', '2.7-2': '2.7-2', '2.7-3': '2.7-3', '2.7-4': '2.7-4', '2.7-5': '2.7-5', '2.7-6': '2.7-6',
+      '2.7-7': '2.7-7', '2.7-8': '2.7-8', '2.7-9': '2.7-9', '2.7-10': '2.7-10',
+      '2.8-1': '2.8-1', '2.8-2': '2.8-2', '2.8-3': '2.8-3', '2.8-4': '2.8-4', '2.8-5': '2.8-5', '2.8-6': '2.8-6',
+      '2.8-7': '2.8-7', '2.8-8': '2.8-8', '2.8-9': '2.8-9', '2.8-10': '2.8-10', '2.8-11': '2.8-11',
+      '2.9-1': '2.9-1', '2.9-2': '2.9-2', '2.9-3': '2.9-3', '2.9-4': '2.9-4', '2.9-5': '2.9-5', '2.9-6': '2.9-6',
+      '2.9-7': '2.9-7', '2.9-8': '2.9-8', '2.9-9': '2.9-9', '2.9-10': '2.9-10',
+    },
+  },
   cards: [
     // 1.1 Principles of accounting and double entry bookkeeping
     ...sub(T11, 'role-and-purpose-of-accounting-yac11', '1.1.1-1.1.2', [
@@ -159,38 +208,56 @@ export const DECK_EDEXCEL_A_LEVEL_ACCOUNTING: FlashcardDeck = {
     ]),
 
     // 1.3 Financial statements of organisations
-    ...topicOnly('financial-statements-of-organisations', '1.3', [
+    ...sub('financial-statements-of-organisations', 'financial-statements-of-sole-traders-yac11', '1.3.1-1.3.2', [
       { n: 1, f: 'Sole trader: closing capital', b: 'Opening capital + profit for the year − drawings (+ any capital introduced).', src: FSO },
-      { n: 2, f: 'Rates paid 5,400; 900 prepaid at the start and 1,100 at the end. Expense?', b: '5,400 + 900 − 1,100 = 5,200.', src: FSO },
-      { n: 3, f: 'Receivables 22,000 after write-offs; allowance 3%; last year\'s allowance 800. Effect on profit and SOFP figure?', b: 'New allowance 660, a decrease of 140, added to profit. Receivables shown at 22,000 − 660 = 21,340.', src: FSO },
-      { n: 4, f: 'Departmental accounts: heating of 9,000 shared by floor area of 500 : 250 : 150 m²', b: '5,000 : 2,500 : 1,500 (total area 900 m², so 10 per m²).', src: FSO },
-      { n: 5, f: 'Convert these mark-ups to margins: 25%, 50%, 100%', b: '25% mark-up = 20% margin.\n50% mark-up = 33⅓% margin.\n100% mark-up = 50% margin.', src: FSO },
-      { n: 6, f: 'Profit 40,000; interest on drawings 600; partner\'s salary 8,000; interest on capital 4,600. Residual profit, shared equally by two partners?', b: '40,000 + 600 − 8,000 − 4,600 = 28,000, so 14,000 each.', src: FSO },
-      { n: 7, f: 'Fixed capital vs fluctuating capital accounts', b: 'Fixed: the capital account holds only capital introduced or withdrawn; salaries, interest, profit shares and drawings go to a current account.\nFluctuating: everything goes through the capital account; no current account.', src: FSO },
-      { n: 8, f: 'Section 24, Partnership Act 1890: rules where there is no agreement', b: 'Profits and losses shared equally; no salaries; no interest on capital; no interest on drawings; 5% a year on loans beyond agreed capital, charged against profit.', src: FSO },
-      { n: 9, f: 'Goodwill of 40,000 (not kept in the books) on admitting Z. New ratio X 2 : Y 2 : Z 1. Debit to Z?', b: 'Old partners are credited in the old ratio; all new partners are debited in the new ratio. Z: 40,000 × 1/5 = 8,000 debit.', src: FSO },
-      { n: 10, f: 'A club receives subscriptions of 4,870, including 120 owed from last year and 210 for next year. Income for the year?', b: '4,870 − 120 − 210 = 4,540.', src: FSO },
-      { n: 11, f: 'Closing finished goods at transfer price 13,200; mark-up 10%. Unrealised profit?', b: '13,200 × 10/110 = 1,200. Deduct only the increase in the provision from profit; show finished goods at cost.', src: FSO },
-      { n: 12, f: 'Opening accumulated fund 12,400; surplus 1,850. Closing accumulated fund?', b: '12,400 + 1,850 = 14,250. The accumulated fund is a club\'s assets minus liabilities.', src: FSO },
+    ]),
+    ...sub('financial-statements-of-organisations', 'year-end-adjustments-yac11', '1.3.3-1.3.6', [
+      { n: 1, f: 'Rates paid 5,400; 900 prepaid at the start and 1,100 at the end. Expense?', b: '5,400 + 900 − 1,100 = 5,200.', src: FSO },
+      { n: 2, f: 'Receivables 22,000 after write-offs; allowance 3%; last year\'s allowance 800. Effect on profit and SOFP figure?', b: 'New allowance 660, a decrease of 140, added to profit. Receivables shown at 22,000 − 660 = 21,340.', src: FSO },
+    ]),
+    ...sub('financial-statements-of-organisations', 'departmental-records-yac11', '1.3.7', [
+      { n: 1, f: 'Departmental accounts: heating of 9,000 shared by floor area of 500 : 250 : 150 m²', b: '5,000 : 2,500 : 1,500 (total area 900 m², so 10 per m²).', src: FSO },
+    ]),
+    ...sub('financial-statements-of-organisations', 'incomplete-records-yac11', '1.3.8', [
+      { n: 1, f: 'Convert these mark-ups to margins: 25%, 50%, 100%', b: '25% mark-up = 20% margin.\n50% mark-up = 33⅓% margin.\n100% mark-up = 50% margin.', src: FSO },
+    ]),
+    ...sub('financial-statements-of-organisations', 'partnership-yac11', '1.3.9-1.3.13', [
+      { n: 1, f: 'Profit 40,000; interest on drawings 600; partner\'s salary 8,000; interest on capital 4,600. Residual profit, shared equally by two partners?', b: '40,000 + 600 − 8,000 − 4,600 = 28,000, so 14,000 each.', src: FSO },
+      { n: 2, f: 'Fixed capital vs fluctuating capital accounts', b: 'Fixed: the capital account holds only capital introduced or withdrawn; salaries, interest, profit shares and drawings go to a current account.\nFluctuating: everything goes through the capital account; no current account.', src: FSO },
+      { n: 3, f: 'Section 24, Partnership Act 1890: rules where there is no agreement', b: 'Profits and losses shared equally; no salaries; no interest on capital; no interest on drawings; 5% a year on loans beyond agreed capital, charged against profit.', src: FSO },
+      { n: 4, f: 'Goodwill of 40,000 (not kept in the books) on admitting Z. New ratio X 2 : Y 2 : Z 1. Debit to Z?', b: 'Old partners are credited in the old ratio; all new partners are debited in the new ratio. Z: 40,000 × 1/5 = 8,000 debit.', src: FSO },
+    ]),
+    ...sub('financial-statements-of-organisations', 'clubs-and-non-profit-making-organisations-yac11', '1.3.14-1.3.19', [
+      { n: 1, f: 'A club receives subscriptions of 4,870, including 120 owed from last year and 210 for next year. Income for the year?', b: '4,870 − 120 − 210 = 4,540.', src: FSO },
+      { n: 2, f: 'Opening accumulated fund 12,400; surplus 1,850. Closing accumulated fund?', b: '12,400 + 1,850 = 14,250. The accumulated fund is a club\'s assets minus liabilities.', src: FSO },
+    ]),
+    ...sub('financial-statements-of-organisations', 'manufacturers-yac11', '1.3.20-1.3.22', [
+      { n: 1, f: 'Closing finished goods at transfer price 13,200; mark-up 10%. Unrealised profit?', b: '13,200 × 10/110 = 1,200. Deduct only the increase in the provision from profit; show finished goods at cost.', src: FSO },
     ]),
 
     // 1.4 Introduction to costing
-    ...topicOnly('introduction-to-costing', '1.4', [
+    ...sub('introduction-to-costing', 'valuation-of-inventory-yac11', '1.4.1-1.4.3', [
       { n: 1, f: 'FIFO vs LIFO in rising prices, and which IAS 2 allows', b: 'FIFO values closing inventory at the latest prices and gives higher profit; LIFO at the oldest prices and lower profit. LIFO is not permitted under IAS 2.', src: COSTI },
       { n: 2, f: 'An item cost 52. It sells for 64 after completion costs of 9 and selling costs of 6. Inventory value?', b: 'NRV = 64 − 9 − 6 = 49, below cost, so 49. This applies prudence.', src: COSTI },
       { n: 3, f: 'Buy 100 units at 4, then 50 at 5, then issue 120. Closing inventory under FIFO and LIFO?', b: '30 units left.\nFIFO: 30 × 5 = 150.\nLIFO: 30 × 4 = 120.', src: COSTI },
-      { n: 4, f: 'Halsey bonus: time allowed 30 hours, time taken 24, rate 15 an hour. Total earnings?', b: 'Bonus = 50% × 6 hours saved × 15 = 45. Earnings = 24 × 15 + 45 = 405.', src: COSTI },
-      { n: 5, f: 'Rowan bonus: time allowed 30 hours, time taken 24, rate 15 an hour. Total earnings?', b: 'Bonus = (24 ÷ 30) × 6 × 15 = 72. Earnings = 360 + 72 = 432.', src: COSTI },
-      { n: 6, f: 'Gross pay 500; employer\'s contributions 11% of gross pay. Employer cost?', b: '500 × 1.11 = 555. The employee\'s own tax and contributions come out of gross pay and are never added to employer cost.', src: COSTI },
-      { n: 7, f: 'Machine hour rate 8.00. Actual 9,400 machine hours; actual overhead 73,100. Over- or under-absorbed?', b: 'Absorbed 9,400 × 8 = 75,200, above actual 73,100: over-absorbed by 2,100, which is added to profit.', src: COSTI },
-      { n: 8, f: 'When is continuous allotment used?', b: 'When service departments serve each other. Their costs are shared out repeatedly until the amount left is very small, then split between production departments only.', src: COSTI },
-      { n: 9, f: 'Job cost sheet: build-up from direct costs to price', b: 'Direct materials + direct labour + direct expenses = prime cost; + absorbed production overhead = production cost; + administration, selling and distribution overhead = total cost; + profit = price.', src: COSTI },
-      { n: 10, f: 'Day work vs piecework: one advantage and one disadvantage each', b: 'Day work: simple, steady pay, quality not rushed; but no incentive to raise output.\nPiecework: rewards effort, fixed labour cost per unit; but quality risk and pay hit by breakdowns.', src: COSTI },
-      { n: 11, f: 'A 25% mark-up on a cost of 80: price, and the margin it gives', b: 'Price 100. Profit 20 ÷ 100 = a 20% margin. Mark-up is on cost; margin is on selling price.', src: COSTI },
+    ]),
+    ...sub('introduction-to-costing', 'labour-costs-yac11', '1.4.4-1.4.6', [
+      { n: 1, f: 'Halsey bonus: time allowed 30 hours, time taken 24, rate 15 an hour. Total earnings?', b: 'Bonus = 50% × 6 hours saved × 15 = 45. Earnings = 24 × 15 + 45 = 405.', src: COSTI },
+      { n: 2, f: 'Rowan bonus: time allowed 30 hours, time taken 24, rate 15 an hour. Total earnings?', b: 'Bonus = (24 ÷ 30) × 6 × 15 = 72. Earnings = 360 + 72 = 432.', src: COSTI },
+      { n: 3, f: 'Gross pay 500; employer\'s contributions 11% of gross pay. Employer cost?', b: '500 × 1.11 = 555. The employee\'s own tax and contributions come out of gross pay and are never added to employer cost.', src: COSTI },
+      { n: 4, f: 'Day work vs piecework: one advantage and one disadvantage each', b: 'Day work: simple, steady pay, quality not rushed; but no incentive to raise output.\nPiecework: rewards effort, fixed labour cost per unit; but quality risk and pay hit by breakdowns.', src: COSTI },
+    ]),
+    ...sub('introduction-to-costing', 'overhead-costs-yac11', '1.4.7-1.4.11', [
+      { n: 1, f: 'Machine hour rate 8.00. Actual 9,400 machine hours; actual overhead 73,100. Over- or under-absorbed?', b: 'Absorbed 9,400 × 8 = 75,200, above actual 73,100: over-absorbed by 2,100, which is added to profit.', src: COSTI },
+      { n: 2, f: 'When is continuous allotment used?', b: 'When service departments serve each other. Their costs are shared out repeatedly until the amount left is very small, then split between production departments only.', src: COSTI },
+    ]),
+    ...sub('introduction-to-costing', 'job-costing-yac11', '1.4.12-1.4.13', [
+      { n: 1, f: 'Job cost sheet: build-up from direct costs to price', b: 'Direct materials + direct labour + direct expenses = prime cost; + absorbed production overhead = production cost; + administration, selling and distribution overhead = total cost; + profit = price.', src: COSTI },
+      { n: 2, f: 'A 25% mark-up on a cost of 80: price, and the margin it gives', b: 'Price 100. Profit 20 ÷ 100 = a 20% margin. Mark-up is on cost; margin is on selling price.', src: COSTI },
     ]),
 
     // 1.5 Analysis of accounting statements
-    ...topicOnly('analysis-of-accounting-statements', '1.5', [
+    ...sub('analysis-of-accounting-statements', 'ratios-yac11', '1.5.1-1.5.3', [
       { n: 1, f: 'ROCE for a sole trader or partnership: formula and its parts', b: 'NPBI ÷ capital employed × 100.\nNPBI = profit for the year + loan interest.\nCapital employed = capital (for a partnership, capital and current accounts) + non-current liabilities.', src: ANAL },
       { n: 2, f: 'Capitals 60,000 and 45,000; current accounts 3,000 Cr and 1,500 Dr; bank loan 20,000; profit 19,200 after loan interest 1,200. ROCE?', b: 'Capital employed 60,000 + 45,000 + 3,000 − 1,500 + 20,000 = 126,500.\nNPBI 20,400.\nROCE 20,400 ÷ 126,500 × 100 = 16.13%.', src: ANAL },
       { n: 3, f: 'Opening inventory 18,000, closing 22,000, cost of sales 160,000. Inventory turnover?', b: 'Average inventory 20,000. 160,000 ÷ 20,000 = 8 times.', src: ANAL },
@@ -204,32 +271,38 @@ export const DECK_EDEXCEL_A_LEVEL_ACCOUNTING: FlashcardDeck = {
     ]),
 
     // 1.6 Social and ethical accounting
-    ...topicOnly('social-and-ethical-accounting', '1.6', [
+    ...sub('social-and-ethical-accounting', 'social-accounting-yac11', '1.6.1-1.6.3', [
       { n: 1, f: 'The five social contexts in 1.6.1', b: 'Local community, environment, workforce, health and safety, and use of natural resources.', src: SOC },
       { n: 2, f: 'Non-financial factor', b: 'Something relevant to a decision that cannot be measured reliably in money, such as morale, quality, reputation or community impact.', src: SOC },
       { n: 3, f: 'Social accounting', b: 'Considering the effects of accounting decisions on society, not only on profit.', src: SOC },
       { n: 4, f: 'A department has gross profit 30,000, its own wages 34,000 and apportioned overheads 8,000. Should it close?', b: 'Reported loss (12,000), but contribution is 30,000 − 34,000 = (4,000). Closing it raises total profit by 4,000 if the overheads remain. Then weigh staff and community effects.', src: SOC },
-      { n: 5, f: 'Receivables 45,000. The owner cuts the allowance from 4% to 2% while bad debts are rising. Effect and concept broken?', b: 'Allowance falls from 1,800 to 900, so profit rises by 900. It breaks prudence.', src: SOC },
-      { n: 6, f: 'Goods with a selling price of 6,000 (cost plus 25%) are recorded as sold before delivery. Effect and concept broken?', b: 'Cost 6,000 ÷ 1.25 = 4,800, so profit is overstated by 1,200. It breaks realisation.', src: SOC },
-      { n: 7, f: 'Draft profit 18,600; current assets 21,360; current liabilities 12,000. A 1,350 electricity bill owed is left out. Correct figures?', b: 'Profit 18,600 − 1,350 = 17,250.\nCurrent ratio 21,360 ÷ 13,350 = 1.60 : 1, not 1.78 : 1. Leaving it out misleads lenders and suppliers.', src: SOC },
-      { n: 8, f: 'Unethical vs illegal', b: 'Many unethical treatments are not crimes. Name the concept broken and the misleading effect instead of calling it illegal.', src: SOC },
-      { n: 9, f: 'How can social harm return to the accounts as a cost?', b: 'Through fines, compensation claims, clean-up costs, higher staff turnover and lost customers.', src: SOC },
+      { n: 5, f: 'How can social harm return to the accounts as a cost?', b: 'Through fines, compensation claims, clean-up costs, higher staff turnover and lost customers.', src: SOC },
+    ]),
+    ...sub('social-and-ethical-accounting', 'ethics-yac11', '1.6.4', [
+      { n: 1, f: 'Receivables 45,000. The owner cuts the allowance from 4% to 2% while bad debts are rising. Effect and concept broken?', b: 'Allowance falls from 1,800 to 900, so profit rises by 900. It breaks prudence.', src: SOC },
+      { n: 2, f: 'Goods with a selling price of 6,000 (cost plus 25%) are recorded as sold before delivery. Effect and concept broken?', b: 'Cost 6,000 ÷ 1.25 = 4,800, so profit is overstated by 1,200. It breaks realisation.', src: SOC },
+      { n: 3, f: 'Draft profit 18,600; current assets 21,360; current liabilities 12,000. A 1,350 electricity bill owed is left out. Correct figures?', b: 'Profit 18,600 − 1,350 = 17,250.\nCurrent ratio 21,360 ÷ 13,350 = 1.60 : 1, not 1.78 : 1. Leaving it out misleads lenders and suppliers.', src: SOC },
+      { n: 4, f: 'Unethical vs illegal', b: 'Many unethical treatments are not crimes. Name the concept broken and the misleading effect instead of calling it illegal.', src: SOC },
     ]),
 
     // 2.1 Limited companies
-    ...topicOnly('limited-companies-yac', '2.1', [
+    ...sub('limited-companies-yac', 'financial-statements-of-limited-companies-yac11', '2.1.1-2.1.3', [
       { n: 1, f: 'Company statement of profit or loss: the subtotals in order', b: 'Gross profit; profit from operations (after distribution costs and administrative expenses); profit before tax (after finance costs); profit for the year from continuing operations (after tax); profit for the year; total comprehensive income.', src: LTD },
-      { n: 2, f: '250,000 ordinary shares of 0.40 are issued at 0.90 for cash. Entries?', b: 'Debit bank 225,000; credit share capital 100,000; credit share premium 125,000.', src: LTD },
-      { n: 3, f: '1,400,000 shares of 1.00; a 2 for 7 rights issue at 1.30. New shares, cash and share premium?', b: '400,000 new shares; cash 520,000; share capital 400,000; share premium 120,000.', src: LTD },
-      { n: 4, f: 'Bonus issue: entries and the check', b: 'Debit the reserves named (often capital reserves first), credit share capital with the nominal value. No bank entry; total equity is unchanged.', src: LTD },
-      { n: 5, f: 'Gearing: formula, and the figure for debentures 455,000 and equity 845,000', b: 'Fixed cost capital (debt) ÷ total capital employed (debt + equity) × 100.\n455,000 ÷ 1,300,000 × 100 = 35.0%.', src: LTD },
-      { n: 6, f: 'Provision vs reserve', b: 'A provision is a liability of uncertain timing or amount and reduces profit. A reserve is part of equity, an allocation of profit.', src: LTD },
-      { n: 7, f: 'A company buys back 80,000 of its ordinary shares of 0.50 at par out of profits. Transfer?', b: 'Debit retained earnings, credit capital redemption reserve 40,000 (the nominal value bought back).', src: LTD },
-      { n: 8, f: 'Consideration 480,000 for agreed net assets of 437,500. Goodwill? What if net assets were 495,000?', b: 'Goodwill 42,500, an intangible non-current asset, not amortised but tested for impairment at least annually.\nWith net assets of 495,000 the consideration is 15,000 below them: a bargain purchase gain of 15,000 in profit or loss.', src: LTD },
-      { n: 9, f: 'Vendor: assets transferred at carrying value 410,000; liabilities transferred 60,000; consideration 395,000. Realisation result?', b: '395,000 + 60,000 − 410,000 = 45,000 profit on realisation, credited to sundry shareholders.', src: LTD },
-      { n: 10, f: 'A warranty provision is to be 1.5% of revenue of 820,000; last year\'s provision was 14,000. Entry in profit or loss?', b: 'Required 12,300, so the provision falls by 1,700, credited to profit or loss.', src: LTD },
-      { n: 11, f: 'How are discontinued operations shown, and why?', b: 'As a single amount on the face of the statement, with detail in the notes, so users can forecast from continuing operations only.', src: LTD },
-      { n: 12, f: 'Ordinary shares vs debentures', b: 'Shares: ownership, dividend at the directors\' discretion (statement of changes in equity), votes, not repaid.\nDebentures: a loan, interest is a legal obligation and a finance cost, no votes, repaid on the redemption date.', src: LTD },
+      { n: 2, f: 'A warranty provision is to be 1.5% of revenue of 820,000; last year\'s provision was 14,000. Entry in profit or loss?', b: 'Required 12,300, so the provision falls by 1,700, credited to profit or loss.', src: LTD },
+      { n: 3, f: 'How are discontinued operations shown, and why?', b: 'As a single amount on the face of the statement, with detail in the notes, so users can forecast from continuing operations only.', src: LTD },
+    ]),
+    ...sub('limited-companies-yac', 'capital-structure-yac11', '2.1.4-2.1.11', [
+      { n: 1, f: '250,000 ordinary shares of 0.40 are issued at 0.90 for cash. Entries?', b: 'Debit bank 225,000; credit share capital 100,000; credit share premium 125,000.', src: LTD },
+      { n: 2, f: '1,400,000 shares of 1.00; a 2 for 7 rights issue at 1.30. New shares, cash and share premium?', b: '400,000 new shares; cash 520,000; share capital 400,000; share premium 120,000.', src: LTD },
+      { n: 3, f: 'Bonus issue: entries and the check', b: 'Debit the reserves named (often capital reserves first), credit share capital with the nominal value. No bank entry; total equity is unchanged.', src: LTD },
+      { n: 4, f: 'Gearing: formula, and the figure for debentures 455,000 and equity 845,000', b: 'Fixed cost capital (debt) ÷ total capital employed (debt + equity) × 100.\n455,000 ÷ 1,300,000 × 100 = 35.0%.', src: LTD },
+      { n: 5, f: 'Provision vs reserve', b: 'A provision is a liability of uncertain timing or amount and reduces profit. A reserve is part of equity, an allocation of profit.', src: LTD },
+      { n: 6, f: 'A company buys back 80,000 of its ordinary shares of 0.50 at par out of profits. Transfer?', b: 'Debit retained earnings, credit capital redemption reserve 40,000 (the nominal value bought back).', src: LTD },
+      { n: 7, f: 'Ordinary shares vs debentures', b: 'Shares: ownership, dividend at the directors\' discretion (statement of changes in equity), votes, not repaid.\nDebentures: a loan, interest is a legal obligation and a finance cost, no votes, repaid on the redemption date.', src: LTD },
+    ]),
+    ...sub('limited-companies-yac', 'merger-or-purchase-of-limited-companies-yac11', '2.1.12-2.1.15', [
+      { n: 1, f: 'Consideration 480,000 for agreed net assets of 437,500. Goodwill? What if net assets were 495,000?', b: 'Goodwill 42,500, an intangible non-current asset, not amortised but tested for impairment at least annually.\nWith net assets of 495,000 the consideration is 15,000 below them: a bargain purchase gain of 15,000 in profit or loss.', src: LTD },
+      { n: 2, f: 'Vendor: assets transferred at carrying value 410,000; liabilities transferred 60,000; consideration 395,000. Realisation result?', b: '395,000 + 60,000 − 410,000 = 45,000 profit on realisation, credited to sundry shareholders.', src: LTD },
     ]),
 
     // 2.2 Investment ratios

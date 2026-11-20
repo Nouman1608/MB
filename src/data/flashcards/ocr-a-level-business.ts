@@ -2,11 +2,14 @@
  * D-444 -- flashcards for OCR A Level Business H431 (Version 2.1, January 2026;
  * final assessment summer 2027).
  *
- * One block per subtopic, in syllabus order; topics 3-7 list no subtopics in the
- * syllabus record, so their cards sit on the topic (topicOnly helper). Card ids
+ * One block per subtopic, in syllabus order; topic 7 lists no subtopics in the
+ * syllabus record, so its cards sit on the topic (topicOnly helper). Card ids
  * are `<subtopic number>-<n>` (or `<topic number>-<n>`) and are permanent
  * (browser progress is keyed by them): add a new card with the next unused n,
- * never renumber.
+ * never renumber. Topics 3 to 6 were first filed on the topic itself; on
+ * 20 Nov 2026 their cards were re-filed under the subtopics and renumbered, and
+ * `idMigration` below moves browser progress saved before then onto the new
+ * ids. Card text is unchanged.
  *
  *   src: '...'  The card restates that revision-notes page (found with
  *               scripts/flashcard-candidates.mjs H431); origin 'revision-notes'.
@@ -54,8 +57,48 @@ export const DECK_OCR_A_LEVEL_BUSINESS: FlashcardDeck = {
   syllabusCode: 'H431',
   syllabusSeries: 'Version 2.1 (January 2026), for first assessment in 2017; final assessment summer 2027',
   author: 'marlbridge-academic-team',
-  updated: '2026-11-05',
+  updated: '2026-11-20',
   deckReview: { reviewerSlug: 'salman-ahmad', reviewedOn: '2026-11-05' },
+  // Old id -> new id for every card, so progress saved before the cards were re-filed under
+  // the new subtopics follows each card. Runs once per browser, on marks dated before 2026-11-20.
+  idMigration: {
+    id: 'h431-subtopics-2026-11-20',
+    before: '2026-11-20',
+    map: {
+      '1.1-1': '1.1-1', '1.1-2': '1.1-2', '1.1-3': '1.1-3', '1.1-4': '1.1-4', '1.1-5': '1.1-5', '1.1-6': '1.1-6',
+      '1.2-1': '1.2-1', '1.2-2': '1.2-2', '1.2-3': '1.2-3', '1.2-4': '1.2-4', '1.2-5': '1.2-5',
+      '1.3-1': '1.3-1', '1.3-2': '1.3-2', '1.3-3': '1.3-3', '1.3-4': '1.3-4', '1.3-5': '1.3-5',
+      '1.4-1': '1.4-1', '1.4-2': '1.4-2', '1.4-3': '1.4-3', '1.4-4': '1.4-4', '1.4-5': '1.4-5', '1.4-6': '1.4-6',
+      '1.5-1': '1.5-1', '1.5-2': '1.5-2', '1.5-3': '1.5-3', '1.5-4': '1.5-4', '1.5-5': '1.5-5',
+      '1.6-1': '1.6-1', '1.6-2': '1.6-2', '1.6-3': '1.6-3', '1.6-4': '1.6-4', '1.6-5': '1.6-5',
+      '1.7-1': '1.7-1', '1.7-2': '1.7-2', '1.7-3': '1.7-3', '1.7-4': '1.7-4', '1.7-5': '1.7-5', '1.7-6': '1.7-6',
+      '1.8-1': '1.8-1', '1.8-2': '1.8-2', '1.8-3': '1.8-3', '1.8-4': '1.8-4',
+      '1.9-1': '1.9-1', '1.9-2': '1.9-2', '1.9-3': '1.9-3', '1.9-4': '1.9-4', '1.9-5': '1.9-5', '1.9-6': '1.9-6',
+      '1.10-1': '1.10-1', '1.10-2': '1.10-2', '1.10-3': '1.10-3', '1.10-4': '1.10-4', '1.10-5': '1.10-5', '1.10-6': '1.10-6',
+      '1.11-1': '1.11-1', '1.11-2': '1.11-2', '1.11-3': '1.11-3', '1.11-4': '1.11-4', '1.11-5': '1.11-5', '1.11-6': '1.11-6',
+      '1.12-1': '1.12-1', '1.12-2': '1.12-2', '1.12-3': '1.12-3', '1.12-4': '1.12-4', '1.12-5': '1.12-5', '1.12-6': '1.12-6',
+      '1.13-1': '1.13-1', '1.13-2': '1.13-2', '1.13-3': '1.13-3', '1.13-4': '1.13-4', '1.13-5': '1.13-5',
+      '1.14-1': '1.14-1', '1.14-2': '1.14-2', '1.14-3': '1.14-3', '1.14-4': '1.14-4', '1.14-5': '1.14-5',
+      '1.15-1': '1.15-1', '1.15-2': '1.15-2', '1.15-3': '1.15-3', '1.15-4': '1.15-4',
+      '1.16-1': '1.16-1', '1.16-2': '1.16-2', '1.16-3': '1.16-3', '1.16-4': '1.16-4', '1.16-5': '1.16-5',
+      '2.1-1': '2.1-1', '2.1-2': '2.1-2', '2.1-3': '2.1-3', '2.1-4': '2.1-4', '2.1-5': '2.1-5',
+      '2.2-1': '2.2-1', '2.2-2': '2.2-2', '2.2-3': '2.2-3', '2.2-4': '2.2-4', '2.2-5': '2.2-5',
+      '2.3-1': '2.3-1', '2.3-2': '2.3-2', '2.3-3': '2.3-3', '2.3-4': '2.3-4', '2.3-5': '2.3-5', '2.3-6': '2.3-6',
+      '2.4-1': '2.4-1', '2.4-2': '2.4-2', '2.4-3': '2.4-3', '2.4-4': '2.4-4', '2.4-5': '2.4-5', '2.4-6': '2.4-6',
+      '2.5-1': '2.5-1', '2.5-2': '2.5-2', '2.5-3': '2.5-3', '2.5-4': '2.5-4', '2.5-5': '2.5-5', '2.5-6': '2.5-6',
+      '2.6-1': '2.6-1', '2.6-2': '2.6-2', '2.6-3': '2.6-3', '2.6-4': '2.6-4', '2.6-5': '2.6-5',
+      '3-1': '3.2-1', '3-2': '3.3-1', '3-3': '3.3-2', '3-4': '3.3-3', '3-5': '3.3-4', '3-6': '3.4-1',
+      '3-7': '3.5-1', '3-8': '3.9-1', '3-9': '3.9-2', '3-10': '3.9-3', '3-11': '3.11-1', '3-12': '3.12-1',
+      '4-1': '4.1-1', '4-2': '4.4-1', '4-3': '4.2-1', '4-4': '4.10-1', '4-5': '4.10-2', '4-6': '4.6-1',
+      '4-7': '4.6-2', '4-8': '4.8-1', '4-9': '4.13-1', '4-10': '4.13-2', '4-11': '4.10-3', '4-12': '4.16-1',
+      '5-1': '5.2-1', '5-2': '5.3-1', '5-3': '5.4-1', '5-4': '5.4-2', '5-5': '5.5-1', '5-6': '5.8-1',
+      '5-7': '5.4-3', '5-8': '5.9-1', '5-9': '5.11-1', '5-10': '5.11-2', '5-11': '5.12-1', '5-12': '5.13-1',
+      '6-1': '6.2-1', '6-2': '6.3-1', '6-3': '6.4-1', '6-4': '6.4-2', '6-5': '6.5-1', '6-6': '6.4-3',
+      '6-7': '6.11-1', '6-8': '6.9-1', '6-9': '6.10-1', '6-10': '6.12-1', '6-11': '6.12-2', '6-12': '6.12-3',
+      '7-1': '7-1', '7-2': '7-2', '7-3': '7-3', '7-4': '7-4', '7-5': '7-5', '7-6': '7-6',
+      '7-7': '7-7', '7-8': '7-8', '7-9': '7-9', '7-10': '7-10', '7-11': '7-11', '7-12': '7-12',
+    },
+  },
   cards: [
     // 1 Business objectives and strategic decisions
     ...sub(T1, 'different-stakeholder-and-business-objectives-ocr-alevel-business', '1.1', [
@@ -222,64 +265,120 @@ export const DECK_OCR_A_LEVEL_BUSINESS: FlashcardDeck = {
       { n: 5, f: 'Ethical sourcing raises unit cost from £26 to £27.20 at a £40 price. Effect on margin?', b: 'Margin falls from 14 ÷ 40 = 35% to 12.80 ÷ 40 = 32%. Judge whether brand trust and repeat custom repay the three percentage points.' },
     ]),
     // 3 Marketing and marketing strategies
-    ...topicOnly('marketing-and-marketing-strategies-ocr-alevel-business', '3', [
+    ...sub('marketing-and-marketing-strategies-ocr-alevel-business', 'marketing-resources-ocr-alevel-business', '3.2', [
       { n: 1, f: 'SWOT analysis', b: 'It sorts factors into internal ones (strengths, weaknesses) and external ones (opportunities, threats). Use it to judge a firm\'s marketing position. Limits: it is a snapshot, it is subjective, and it does not rank issues or say what to do.', src: MKT },
-      { n: 2, f: 'Trial marketing', b: 'Launching a product in a limited area or to a limited group before a full launch. It tests demand and finds faults, but delays launch and alerts rivals.', src: MKT },
-      { n: 3, f: 'Sampling methods: random, stratified, cluster, systematic, quota, convenience', b: 'Random: equal chance. Stratified: groups sampled in proportion. Cluster: whole groups such as towns. Systematic: every nth person. Quota: fill set numbers of each type. Convenience: whoever is easiest to reach (cheap but biased).' },
-      { n: 4, f: 'Normal distribution', b: 'A symmetrical bell-shaped spread around the mean. Roughly 68% of observations fall within one standard deviation either side of the mean and roughly 95% within two (standard results).', src: MKT },
-      { n: 5, f: 'Standard deviation of weekly sales 40, 44, 48, 52, 56', b: 'Mean 48. Squared deviations 64, 16, 0, 16, 64 total 160; ÷ 5 = 32; √32 ≈ 5.7. A low value means steady sales and easier stock planning.' },
-      { n: 6, f: 'AIDA and ATR', b: 'AIDA: Attention, Interest, Desire, Action. ATR: Awareness, Trial, Reinforcement. Both describe how consumers move towards purchase, so promotion can be matched to the stage.' },
-      { n: 7, f: 'Customers vs consumers; B2B vs B2C marketing', b: 'Customers pay; consumers use. B2C uses mass media, branding and promotions; B2B uses personal selling, trade fairs, contracts and technical detail with fewer, larger buyers.' },
-      { n: 8, f: 'Cross elasticity (XED) and advertising elasticity (AED)', b: 'XED = % change in quantity of A ÷ % change in price of B: positive for substitutes, negative for complements.\nAED = % change in quantity ÷ % change in advertising spend (spend +25%, sales +7.5% → AED 0.3, weak).' },
-      { n: 9, f: 'Price falls 5% and quantity rises 8%. PED?', b: '8 ÷ −5 = −1.6: elastic, so the price cut raises revenue.' },
-      { n: 10, f: 'Marginal vs contribution pricing', b: 'Marginal: the price covers only the extra cost of one more unit; useful for extra orders. Contribution: price minus variable cost, which contributes to fixed costs and profit.' },
-      { n: 11, f: 'Above the line vs below the line; drip vs viral marketing', b: 'Above the line: paid media advertising. Below the line: other methods such as discounts, displays and sponsorship.\nDrip: a steady series of messages over time. Viral: customers spread the message themselves.' },
-      { n: 12, f: 'Service marketing: the extra elements', b: 'Process (how the service is delivered), people (staff skills and manner) and physical evidence (premises, uniforms, website, receipts) that make an intangible service tangible.' },
+    ]),
+    ...sub('marketing-and-marketing-strategies-ocr-alevel-business', 'identifying-customer-needs-ocr-alevel-business', '3.3', [
+      { n: 1, f: 'Trial marketing', b: 'Launching a product in a limited area or to a limited group before a full launch. It tests demand and finds faults, but delays launch and alerts rivals.', src: MKT },
+      { n: 2, f: 'Sampling methods: random, stratified, cluster, systematic, quota, convenience', b: 'Random: equal chance. Stratified: groups sampled in proportion. Cluster: whole groups such as towns. Systematic: every nth person. Quota: fill set numbers of each type. Convenience: whoever is easiest to reach (cheap but biased).' },
+      { n: 3, f: 'Normal distribution', b: 'A symmetrical bell-shaped spread around the mean. Roughly 68% of observations fall within one standard deviation either side of the mean and roughly 95% within two (standard results).', src: MKT },
+      { n: 4, f: 'Standard deviation of weekly sales 40, 44, 48, 52, 56', b: 'Mean 48. Squared deviations 64, 16, 0, 16, 64 total 160; ÷ 5 = 32; √32 ≈ 5.7. A low value means steady sales and easier stock planning.' },
+    ]),
+    ...sub('marketing-and-marketing-strategies-ocr-alevel-business', 'anticipating-consumer-needs-ocr-alevel-business', '3.4', [
+      { n: 1, f: 'AIDA and ATR', b: 'AIDA: Attention, Interest, Desire, Action. ATR: Awareness, Trial, Reinforcement. Both describe how consumers move towards purchase, so promotion can be matched to the stage.' },
+    ]),
+    ...sub('marketing-and-marketing-strategies-ocr-alevel-business', 'customers-and-consumers-ocr-alevel-business', '3.5', [
+      { n: 1, f: 'Customers vs consumers; B2B vs B2C marketing', b: 'Customers pay; consumers use. B2C uses mass media, branding and promotions; B2B uses personal selling, trade fairs, contracts and technical detail with fewer, larger buyers.' },
+    ]),
+    ...sub('marketing-and-marketing-strategies-ocr-alevel-business', 'price-ocr-alevel-business', '3.9', [
+      { n: 1, f: 'Cross elasticity (XED) and advertising elasticity (AED)', b: 'XED = % change in quantity of A ÷ % change in price of B: positive for substitutes, negative for complements.\nAED = % change in quantity ÷ % change in advertising spend (spend +25%, sales +7.5% → AED 0.3, weak).' },
+      { n: 2, f: 'Price falls 5% and quantity rises 8%. PED?', b: '8 ÷ −5 = −1.6: elastic, so the price cut raises revenue.' },
+      { n: 3, f: 'Marginal vs contribution pricing', b: 'Marginal: the price covers only the extra cost of one more unit; useful for extra orders. Contribution: price minus variable cost, which contributes to fixed costs and profit.' },
+    ]),
+    ...sub('marketing-and-marketing-strategies-ocr-alevel-business', 'promotion-ocr-alevel-business', '3.11', [
+      { n: 1, f: 'Above the line vs below the line; drip vs viral marketing', b: 'Above the line: paid media advertising. Below the line: other methods such as discounts, displays and sponsorship.\nDrip: a steady series of messages over time. Viral: customers spread the message themselves.' },
+    ]),
+    ...sub('marketing-and-marketing-strategies-ocr-alevel-business', 'service-marketing-ocr-alevel-business', '3.12', [
+      { n: 1, f: 'Service marketing: the extra elements', b: 'Process (how the service is delivered), people (staff skills and manner) and physical evidence (premises, uniforms, website, receipts) that make an intangible service tangible.' },
     ]),
     // 4 Operational strategy
-    ...topicOnly('operational-strategy-ocr-alevel-business', '4', [
+    ...sub('operational-strategy-ocr-alevel-business', 'operations-management-objectives-ocr-alevel-business', '4.1', [
       { n: 1, f: 'Operations management objectives', b: 'Targets for quality, cost, speed, flexibility, innovation, environment and capacity that support business objectives.', src: OPS },
-      { n: 2, f: 'Job, batch, flow and cell production', b: 'Job: very low volume, high variety and unit cost. Batch: medium volume and variety. Flow: high volume, low variety, low unit cost, inflexible. Cell: team-based units, medium volume, fairly flexible.' },
-      { n: 3, f: 'Added value, capacity utilisation and wastage rate', b: 'Added value = selling price − bought-in materials and services (£25 − £14.50 = £10.50).\nCapacity utilisation = actual ÷ maximum output × 100.\nWastage rate = units wasted ÷ units input × 100 (24 of 800 = 3%).' },
-      { n: 4, f: 'Economic order quantity (EOQ): formula and example', b: 'EOQ = √(2 × annual demand × cost per order ÷ holding cost per unit). Demand 2,000, order cost £25, holding £2.50: √40,000 = 200 units.' },
-      { n: 5, f: 'Reorder level and maximum stock', b: 'Reorder level = buffer + (usage per day × lead time). Maximum stock = reorder level + reorder quantity − usage in lead time. Buffer 100, usage 30, lead time 2, order 400 → reorder level 160, maximum 500.' },
-      { n: 6, f: 'PERT expected time', b: '(O + 4M + P) ÷ 6, where O is optimistic, M most likely and P pessimistic. O = 2, M = 3, P = 10 → (2 + 12 + 10) ÷ 6 = 4 days.' },
-      { n: 7, f: 'Total float vs free float', b: 'Total float = LFT − EST − duration: delay possible without delaying the project. Free float = EST of next activity − EST − duration: delay possible without affecting the next activity. EST 4, duration 3, LFT 10, next EST 9 → total 3, free 2.' },
-      { n: 8, f: 'Internal economies, external economies and diseconomies of scale', b: 'Internal: technical, purchasing, financial, marketing, managerial. External: labour pool, supplier clusters, infrastructure. Diseconomies: communication, coordination, alienation, congestion.' },
-      { n: 9, f: 'Total quality management (TQM)', b: 'Quality as the responsibility of every employee.', src: OPS },
-      { n: 10, f: 'Benchmarking', b: 'Comparing performance with the best and adopting their practice.', src: OPS },
-      { n: 11, f: 'Fixed reorder level vs fixed time reordering; Kanban', b: 'Fixed reorder level: set quantity, variable timing. Fixed time reordering: set timing, variable quantity. Kanban: cards signal when to replace stock.' },
-      { n: 12, f: 'Outsourcing, subcontracting, offshoring and re-shoring', b: 'Outsourcing: another business does an activity for you. Subcontracting: another firm does part of a specific job. Offshoring: activity moved abroad. Re-shoring: activity brought back home.' },
+    ]),
+    ...sub('operational-strategy-ocr-alevel-business', 'added-value-ocr-alevel-business', '4.2', [
+      { n: 1, f: 'Added value, capacity utilisation and wastage rate', b: 'Added value = selling price − bought-in materials and services (£25 − £14.50 = £10.50).\nCapacity utilisation = actual ÷ maximum output × 100.\nWastage rate = units wasted ÷ units input × 100 (24 of 800 = 3%).' },
+    ]),
+    ...sub('operational-strategy-ocr-alevel-business', 'methods-of-production-ocr-alevel-business', '4.4', [
+      { n: 1, f: 'Job, batch, flow and cell production', b: 'Job: very low volume, high variety and unit cost. Batch: medium volume and variety. Flow: high volume, low variety, low unit cost, inflexible. Cell: team-based units, medium volume, fairly flexible.' },
+    ]),
+    ...sub('operational-strategy-ocr-alevel-business', 'project-management-ocr-alevel-business', '4.6', [
+      { n: 1, f: 'PERT expected time', b: '(O + 4M + P) ÷ 6, where O is optimistic, M most likely and P pessimistic. O = 2, M = 3, P = 10 → (2 + 12 + 10) ÷ 6 = 4 days.' },
+      { n: 2, f: 'Total float vs free float', b: 'Total float = LFT − EST − duration: delay possible without delaying the project. Free float = EST of next activity − EST − duration: delay possible without affecting the next activity. EST 4, duration 3, LFT 10, next EST 9 → total 3, free 2.' },
+    ]),
+    ...sub('operational-strategy-ocr-alevel-business', 'economies-and-diseconomies-of-scale-ocr-alevel-business', '4.8', [
+      { n: 1, f: 'Internal economies, external economies and diseconomies of scale', b: 'Internal: technical, purchasing, financial, marketing, managerial. External: labour pool, supplier clusters, infrastructure. Diseconomies: communication, coordination, alienation, congestion.' },
+    ]),
+    ...sub('operational-strategy-ocr-alevel-business', 'stock-control-ocr-alevel-business', '4.10', [
+      { n: 1, f: 'Economic order quantity (EOQ): formula and example', b: 'EOQ = √(2 × annual demand × cost per order ÷ holding cost per unit). Demand 2,000, order cost £25, holding £2.50: √40,000 = 200 units.' },
+      { n: 2, f: 'Reorder level and maximum stock', b: 'Reorder level = buffer + (usage per day × lead time). Maximum stock = reorder level + reorder quantity − usage in lead time. Buffer 100, usage 30, lead time 2, order 400 → reorder level 160, maximum 500.' },
+      { n: 3, f: 'Fixed reorder level vs fixed time reordering; Kanban', b: 'Fixed reorder level: set quantity, variable timing. Fixed time reordering: set timing, variable quantity. Kanban: cards signal when to replace stock.' },
+    ]),
+    ...sub('operational-strategy-ocr-alevel-business', 'internal-quality-standards-ocr-alevel-business', '4.13', [
+      { n: 1, f: 'Total quality management (TQM)', b: 'Quality as the responsibility of every employee.', src: OPS },
+      { n: 2, f: 'Benchmarking', b: 'Comparing performance with the best and adopting their practice.', src: OPS },
+    ]),
+    ...sub('operational-strategy-ocr-alevel-business', 'location-and-logistics-ocr-alevel-business', '4.16', [
+      { n: 1, f: 'Outsourcing, subcontracting, offshoring and re-shoring', b: 'Outsourcing: another business does an activity for you. Subcontracting: another firm does part of a specific job. Offshoring: activity moved abroad. Re-shoring: activity brought back home.' },
     ]),
     // 5 Human resources
-    ...topicOnly('human-resources-ocr-alevel-business', '5', [
+    ...sub('human-resources-ocr-alevel-business', 'organisation-ocr-alevel-business', '5.2', [
       { n: 1, f: 'Line vs staff relationships', b: 'Line: manager to direct subordinate, with authority to instruct. Staff: specialist advice with no direct command.' },
-      { n: 2, f: 'The communication model', b: 'Source, message, media, barriers, receiver, feedback.' },
-      { n: 3, f: 'Workforce plan: 70 carers needed, 58 employed, 10% will leave. Recruits needed?', b: 'Leavers 5.8, so 52.2 remain; 70 − 52.2 = 17.8, so 18 recruits.' },
-      { n: 4, f: 'Flexi-time, compressed hours and annualised hours', b: 'Flexi-time: staff choose hours around core times. Compressed hours: the same hours in fewer, longer days. Annualised hours: a yearly total spread to match demand.' },
-      { n: 5, f: 'Job description vs person specification', b: 'Job description: the duties of the post. Person specification: the skills, qualifications and qualities of the person needed.' },
-      { n: 6, f: 'Absenteeism and lateness: formulas and example', b: 'Absenteeism = days lost ÷ days available × 100 (1,440 ÷ 28,800 = 5%).\nLateness = late arrivals ÷ possible attendances × 100 (84 ÷ 2,800 = 3%).' },
-      { n: 7, f: 'Pro rata holiday: 25 days for five days a week. Entitlement for two days a week?', b: 'Full entitlement × (days worked ÷ full-time days) = 25 × 2 ÷ 5 = 10 days.' },
-      { n: 8, f: 'Fair reasons for dismissal, and examples of unfair reasons', b: 'Fair: capacity, conduct, redundancy, some other substantial reason. Unfair include pregnancy, trade union membership, discrimination and whistle blowing.' },
-      { n: 9, f: 'McGregor\'s Theory X and Theory Y', b: 'Theory X: managers assume workers dislike work and need control. Theory Y: managers assume workers seek responsibility and can direct themselves.' },
-      { n: 10, f: 'Adair\'s action-centred leadership', b: 'A leader must balance three needs: the task, the team and the individual.' },
-      { n: 11, f: 'McClelland, Vroom and Locke', b: 'McClelland: needs for achievement, power and affiliation. Vroom (expectancy): effort, performance and reward must be linked. Locke: clear, hard goals improve performance.' },
-      { n: 12, f: 'Forms of employee participation', b: 'Industrial democracy, participative decision making and works councils. Trade unions represent workers and bargain over pay and conditions.' },
+    ]),
+    ...sub('human-resources-ocr-alevel-business', 'communication-ocr-alevel-business', '5.3', [
+      { n: 1, f: 'The communication model', b: 'Source, message, media, barriers, receiver, feedback.' },
+    ]),
+    ...sub('human-resources-ocr-alevel-business', 'workforce-planning-ocr-alevel-business', '5.4', [
+      { n: 1, f: 'Workforce plan: 70 carers needed, 58 employed, 10% will leave. Recruits needed?', b: 'Leavers 5.8, so 52.2 remain; 70 − 52.2 = 17.8, so 18 recruits.' },
+      { n: 2, f: 'Flexi-time, compressed hours and annualised hours', b: 'Flexi-time: staff choose hours around core times. Compressed hours: the same hours in fewer, longer days. Annualised hours: a yearly total spread to match demand.' },
+      { n: 3, f: 'Pro rata holiday: 25 days for five days a week. Entitlement for two days a week?', b: 'Full entitlement × (days worked ÷ full-time days) = 25 × 2 ÷ 5 = 10 days.' },
+    ]),
+    ...sub('human-resources-ocr-alevel-business', 'recruitment-ocr-alevel-business', '5.5', [
+      { n: 1, f: 'Job description vs person specification', b: 'Job description: the duties of the post. Person specification: the skills, qualifications and qualities of the person needed.' },
+    ]),
+    ...sub('human-resources-ocr-alevel-business', 'appraisal-and-workforce-performance-ocr-alevel-business', '5.8', [
+      { n: 1, f: 'Absenteeism and lateness: formulas and example', b: 'Absenteeism = days lost ÷ days available × 100 (1,440 ÷ 28,800 = 5%).\nLateness = late arrivals ÷ possible attendances × 100 (84 ÷ 2,800 = 3%).' },
+    ]),
+    ...sub('human-resources-ocr-alevel-business', 'redundancy-and-dismissal-ocr-alevel-business', '5.9', [
+      { n: 1, f: 'Fair reasons for dismissal, and examples of unfair reasons', b: 'Fair: capacity, conduct, redundancy, some other substantial reason. Unfair include pregnancy, trade union membership, discrimination and whistle blowing.' },
+    ]),
+    ...sub('human-resources-ocr-alevel-business', 'leadership-ocr-alevel-business', '5.11', [
+      { n: 1, f: 'McGregor\'s Theory X and Theory Y', b: 'Theory X: managers assume workers dislike work and need control. Theory Y: managers assume workers seek responsibility and can direct themselves.' },
+      { n: 2, f: 'Adair\'s action-centred leadership', b: 'A leader must balance three needs: the task, the team and the individual.' },
+    ]),
+    ...sub('human-resources-ocr-alevel-business', 'motivation-ocr-alevel-business', '5.12', [
+      { n: 1, f: 'McClelland, Vroom and Locke', b: 'McClelland: needs for achievement, power and affiliation. Vroom (expectancy): effort, performance and reward must be linked. Locke: clear, hard goals improve performance.' },
+    ]),
+    ...sub('human-resources-ocr-alevel-business', 'employer-employee-relations-ocr-alevel-business', '5.13', [
+      { n: 1, f: 'Forms of employee participation', b: 'Industrial democracy, participative decision making and works councils. Trade unions represent workers and bargain over pay and conditions.' },
     ]),
     // 6 Accounting and financial considerations
-    ...topicOnly('accounting-and-financial-considerations-ocr-alevel-business', '6', [
+    ...sub('accounting-and-financial-considerations-ocr-alevel-business', 'sources-of-finance-ocr-alevel-business', '6.2', [
       { n: 1, f: 'Short-term vs long-term sources of finance', b: 'Short-term: overdraft, trade credit, factoring. Long-term: shares, loans, debentures, retained profit. Internal sources: retained profit, sale of non-current assets, tighter working capital.' },
-      { n: 2, f: 'Accounting conventions', b: 'Consistency, going concern, accruals (matching), materiality, objectivity, prudence (conservatism) and realisation; accounts should give a true and fair view.' },
-      { n: 3, f: 'Cost centre vs profit centre', b: 'A cost centre collects costs. A profit centre earns revenue as well as incurring costs, so its profit can be measured.' },
-      { n: 4, f: 'Full, absorption and marginal costing', b: 'Full costing: all costs charged to units. Absorption: overheads added using a rate (e.g. overheads ÷ total hours). Marginal: only variable costs per unit; fixed costs treated as a period cost.' },
-      { n: 5, f: 'Fixed costs £18,000, price £9, variable cost £5. Break-even, and margin of safety at 8,000 units?', b: 'Contribution £4; break-even 18,000 ÷ 4 = 4,500 units. At 8,000 units, margin of safety = 3,500 units (43.75%).' },
-      { n: 6, f: 'When should a business accept a special order?', b: 'If its contribution is positive, there is spare capacity, and regular sales and prices are unaffected.' },
-      { n: 7, f: 'Straight-line vs reducing balance depreciation', b: 'Straight line = (cost − residual value) ÷ life: (30,000 − 3,000) ÷ 5 = £5,400 a year. Reducing balance = a fixed % of net book value: 30% on £20,000 gives £6,000, then £4,200; NBV £9,800. Depreciation cuts profit, not cash.' },
-      { n: 8, f: 'Working capital and the working capital cycle', b: 'Working capital = current assets − current liabilities. The cycle: cash out for inventory, production, sale, credit period, then cash in from customers.' },
-      { n: 9, f: 'Income statement: from revenue to retained profit', b: 'Revenue − cost of sales = gross profit; − operating expenses = operating profit; − interest = profit before tax; − tax = profit for the year; − dividends = retained profit.' },
-      { n: 10, f: 'Return on equity, earnings per share and price/earnings ratio', b: 'Return on equity = profit for the year ÷ equity × 100.\nEarnings per share = profit for the year ÷ number of shares.\nP/E ratio = share price ÷ earnings per share.' },
-      { n: 11, f: 'Dividend yield and non-current asset turnover', b: 'Dividend yield = dividend per share ÷ share price × 100 (6p ÷ 150p = 4%).\nNon-current asset turnover = revenue ÷ non-current assets.' },
-      { n: 12, f: 'Creditor days', b: 'Payables ÷ cost of sales × 365: how long the business takes to pay its suppliers.' },
+    ]),
+    ...sub('accounting-and-financial-considerations-ocr-alevel-business', 'accounting-concepts-ocr-alevel-business', '6.3', [
+      { n: 1, f: 'Accounting conventions', b: 'Consistency, going concern, accruals (matching), materiality, objectivity, prudence (conservatism) and realisation; accounts should give a true and fair view.' },
+    ]),
+    ...sub('accounting-and-financial-considerations-ocr-alevel-business', 'costs-revenue-and-profit-ocr-alevel-business', '6.4', [
+      { n: 1, f: 'Cost centre vs profit centre', b: 'A cost centre collects costs. A profit centre earns revenue as well as incurring costs, so its profit can be measured.' },
+      { n: 2, f: 'Full, absorption and marginal costing', b: 'Full costing: all costs charged to units. Absorption: overheads added using a rate (e.g. overheads ÷ total hours). Marginal: only variable costs per unit; fixed costs treated as a period cost.' },
+      { n: 3, f: 'When should a business accept a special order?', b: 'If its contribution is positive, there is spare capacity, and regular sales and prices are unaffected.' },
+    ]),
+    ...sub('accounting-and-financial-considerations-ocr-alevel-business', 'break-even-analysis-ocr-alevel-business', '6.5', [
+      { n: 1, f: 'Fixed costs £18,000, price £9, variable cost £5. Break-even, and margin of safety at 8,000 units?', b: 'Contribution £4; break-even 18,000 ÷ 4 = 4,500 units. At 8,000 units, margin of safety = 3,500 units (43.75%).' },
+    ]),
+    ...sub('accounting-and-financial-considerations-ocr-alevel-business', 'working-capital-ocr-alevel-business', '6.9', [
+      { n: 1, f: 'Working capital and the working capital cycle', b: 'Working capital = current assets − current liabilities. The cycle: cash out for inventory, production, sale, credit period, then cash in from customers.' },
+    ]),
+    ...sub('accounting-and-financial-considerations-ocr-alevel-business', 'income-statements-ocr-alevel-business', '6.10', [
+      { n: 1, f: 'Income statement: from revenue to retained profit', b: 'Revenue − cost of sales = gross profit; − operating expenses = operating profit; − interest = profit before tax; − tax = profit for the year; − dividends = retained profit.' },
+    ]),
+    ...sub('accounting-and-financial-considerations-ocr-alevel-business', 'statement-of-financial-position-ocr-alevel-business', '6.11', [
+      { n: 1, f: 'Straight-line vs reducing balance depreciation', b: 'Straight line = (cost − residual value) ÷ life: (30,000 − 3,000) ÷ 5 = £5,400 a year. Reducing balance = a fixed % of net book value: 30% on £20,000 gives £6,000, then £4,200; NBV £9,800. Depreciation cuts profit, not cash.' },
+    ]),
+    ...sub('accounting-and-financial-considerations-ocr-alevel-business', 'ratio-analysis-ocr-alevel-business', '6.12', [
+      { n: 1, f: 'Return on equity, earnings per share and price/earnings ratio', b: 'Return on equity = profit for the year ÷ equity × 100.\nEarnings per share = profit for the year ÷ number of shares.\nP/E ratio = share price ÷ earnings per share.' },
+      { n: 2, f: 'Dividend yield and non-current asset turnover', b: 'Dividend yield = dividend per share ÷ share price × 100 (6p ÷ 150p = 4%).\nNon-current asset turnover = revenue ÷ non-current assets.' },
+      { n: 3, f: 'Creditor days', b: 'Payables ÷ cost of sales × 365: how long the business takes to pay its suppliers.' },
     ]),
     // 7 The global environment of business
     ...topicOnly('the-global-environment-of-business-ocr-alevel-business', '7', [

@@ -1,11 +1,14 @@
 /**
  * D-444 -- flashcards for Cambridge IGCSE Commerce 0715 (2028).
  *
- * One block per subtopic, in syllabus order; topics 4-6 list no subtopics in
- * the syllabus record, so their cards sit on the topic (topicOnly helper). Card
- * ids are `<subtopic number>-<n>` (or `<topic number>-<n>`) and are permanent
- * (browser progress is keyed by them): add a new card with the next unused n,
- * never renumber.
+ * One block per subtopic, in syllabus order. All six topics now itemise
+ * subtopics in the syllabus record, so every card is keyed by its subtopic.
+ * The deck first filed topics 4-6 on the topic itself; on 20 Nov 2026 their
+ * cards were re-filed under the subtopics and renumbered, and `idMigration`
+ * below moves browser progress saved before then onto the new ids. Card ids are
+ * `<subtopic number>-<n>` and are permanent from now on (browser progress is
+ * keyed by them): add a new card with the next unused n, never renumber. Card
+ * text is unchanged.
  *
  * The course's 0715 revision notes map to topics only (no subtopic), so no card
  * can cite a page as `source`: every card is authored (origin 'authored'),
@@ -30,16 +33,6 @@ const sub = (topic: string, subtopic: string, number: string, specs: Spec[]): Fl
     ...(src ? { source: src } : {}),
   }));
 
-const topicOnly = (topic: string, number: string, specs: Spec[]): Flashcard[] =>
-  specs.map(({ n, f, b, src }) => ({
-    id: `${number}-${n}`,
-    topic,
-    front: f,
-    back: b,
-    origin: src ? 'revision-notes' as const : 'authored' as const,
-    ...(src ? { source: src } : {}),
-  }));
-
 const CP = 'commerce-and-production-0715';
 const CO = 'commercial-operations-0715';
 const GT = 'globalisation-of-trade-0715';
@@ -53,7 +46,34 @@ export const DECK_CAMBRIDGE_IGCSE_COMMERCE: FlashcardDeck = {
   syllabusCode: '0715',
   syllabusSeries: '2028',
   author: 'marlbridge-academic-team',
-  updated: '2026-11-08',
+  updated: '2026-11-20',
+  // Old id -> new id for every card, so progress saved before the cards were re-filed under
+  // the new subtopics follows each card. Runs once per browser, on marks dated before 2026-11-20.
+  idMigration: {
+    id: '0715-subtopics-2026-11-20',
+    before: '2026-11-20',
+    map: {
+      '1.1-1': '1.1-1', '1.1-2': '1.1-2', '1.1-3': '1.1-3', '1.1-4': '1.1-4', '1.1-5': '1.1-5', '1.1-6': '1.1-6',
+      '1.2-1': '1.2-1', '1.2-2': '1.2-2', '1.2-3': '1.2-3', '1.2-4': '1.2-4', '1.2-5': '1.2-5', '1.2-6': '1.2-6',
+      '2.1-1': '2.1-1', '2.1-2': '2.1-2', '2.1-3': '2.1-3', '2.1-4': '2.1-4', '2.1-5': '2.1-5', '2.1-6': '2.1-6',
+      '2.1-7': '2.1-7',
+      '2.2-1': '2.2-1', '2.2-2': '2.2-2', '2.2-3': '2.2-3', '2.2-4': '2.2-4',
+      '2.3-1': '2.3-1', '2.3-2': '2.3-2', '2.3-3': '2.3-3', '2.3-4': '2.3-4', '2.3-5': '2.3-5',
+      '2.4-1': '2.4-1', '2.4-2': '2.4-2', '2.4-3': '2.4-3', '2.4-4': '2.4-4', '2.4-5': '2.4-5',
+      '2.5-1': '2.5-1', '2.5-2': '2.5-2', '2.5-3': '2.5-3', '2.5-4': '2.5-4', '2.5-5': '2.5-5', '2.5-6': '2.5-6',
+      '2.6-1': '2.6-1', '2.6-2': '2.6-2', '2.6-3': '2.6-3', '2.6-4': '2.6-4',
+      '3.1-1': '3.1-1', '3.1-2': '3.1-2', '3.1-3': '3.1-3', '3.1-4': '3.1-4', '3.1-5': '3.1-5', '3.1-6': '3.1-6',
+      '3.1-7': '3.1-7',
+      '3.2-1': '3.2-1', '3.2-2': '3.2-2', '3.2-3': '3.2-3', '3.2-4': '3.2-4', '3.2-5': '3.2-5', '3.2-6': '3.2-6',
+      '4-1': '4.1-1', '4-2': '4.1-2', '4-3': '4.1-3', '4-4': '4.1-4', '4-5': '4.1-5', '4-6': '4.1-6',
+      '4-7': '4.1-7', '4-8': '4.1-8', '4-9': '4.2-1', '4-10': '4.2-2', '4-11': '4.2-3', '4-12': '4.2-4',
+      '5-1': '5.1-1', '5-2': '5.1-2', '5-3': '5.1-3', '5-4': '5.2-1', '5-5': '5.2-2', '5-6': '5.3-1',
+      '5-7': '5.3-2', '5-8': '5.3-3', '5-9': '5.3-4', '5-10': '5.3-5', '5-11': '5.3-6', '5-12': '5.4-1',
+      '5-13': '5.4-2', '5-14': '5.4-3', '5-15': '5.4-4',
+      '6-1': '6.1-1', '6-2': '6.1-2', '6-3': '6.1-3', '6-4': '6.1-4', '6-5': '6.1-5', '6-6': '6.2-1',
+      '6-7': '6.2-2', '6-8': '6.2-3', '6-9': '6.3-1', '6-10': '6.3-2', '6-11': '6.3-3',
+    },
+  },
   cards: [
     // 1 Commerce and production
     ...sub(CP, 'trade-and-commerce-0715', '1.1', [
@@ -138,7 +158,7 @@ export const DECK_CAMBRIDGE_IGCSE_COMMERCE: FlashcardDeck = {
     ]),
 
     // 4 Logistics in commerce
-    ...topicOnly('logistics-in-commerce-0715', '4', [
+    ...sub('logistics-in-commerce-0715', 'transport-0715', '4.1', [
       { n: 1, f: 'What are the three functions of transport in the supply chain?', b: 'Time, place and quantity: transport delivers the right quantity of goods to the right place at the right time.' },
       { n: 2, f: 'Road vs rail transport', b: 'Road (delivery vans, trucks, couriers): door-to-door and flexible, but limited loads and congestion.\nRail (freight trains): cheap for heavy, bulky loads over long distances, but fixed routes and usually needs road at each end.' },
       { n: 3, f: 'Sea vs air transport', b: 'Sea (ferry, tanker, container ship, cargo liner): cheapest for heavy, bulky goods internationally, but slow.\nAir (freight planes): fastest over long distances for perishable, urgent or valuable goods, but the most expensive.' },
@@ -147,44 +167,56 @@ export const DECK_CAMBRIDGE_IGCSE_COMMERCE: FlashcardDeck = {
       { n: 6, f: 'Which transport method suits fresh flowers sent abroad for a festival, and why?', b: 'Air freight, refrigerated: the flowers are perishable, urgent and valuable for their weight, so the high cost is justified.' },
       { n: 7, f: 'What is containerisation?', b: 'Packing goods into standard-sized sealed containers that move between ships, trains and trucks without being unpacked, cutting handling, damage and theft.' },
       { n: 8, f: 'What is transshipment?', b: 'Transferring containers from one ship or vehicle to another at a hub port on the way to their destination.' },
-      { n: 9, f: 'What are the five functions of warehousing in the supply chain?', b: 'Links with seasonal production, links with demand, protecting supply, price stability and logistics postponement.' },
-      { n: 10, f: 'Bonded vs cold storage warehouse', b: 'Bonded: holds imported goods until customs duty is paid.\nCold storage: refrigerated or frozen storage for perishable goods such as food and medicines.' },
-      { n: 11, f: 'What is a regional distribution centre (RDC)?', b: 'A large warehouse owned by a retail chain; suppliers deliver full loads to it and it sends mixed loads to the chain’s shops in that region.' },
-      { n: 12, f: 'Name three uses of automation in warehousing and two benefits', b: 'Uses: robotics, automated sorting and voice picking.\nBenefits: any two of lower labour costs, less human error, improved picking accuracy, improved inventory control and improved customer service.' },
+    ]),
+    ...sub('logistics-in-commerce-0715', 'warehousing-0715', '4.2', [
+      { n: 1, f: 'What are the five functions of warehousing in the supply chain?', b: 'Links with seasonal production, links with demand, protecting supply, price stability and logistics postponement.' },
+      { n: 2, f: 'Bonded vs cold storage warehouse', b: 'Bonded: holds imported goods until customs duty is paid.\nCold storage: refrigerated or frozen storage for perishable goods such as food and medicines.' },
+      { n: 3, f: 'What is a regional distribution centre (RDC)?', b: 'A large warehouse owned by a retail chain; suppliers deliver full loads to it and it sends mixed loads to the chain’s shops in that region.' },
+      { n: 4, f: 'Name three uses of automation in warehousing and two benefits', b: 'Uses: robotics, automated sorting and voice picking.\nBenefits: any two of lower labour costs, less human error, improved picking accuracy, improved inventory control and improved customer service.' },
     ]),
 
     // 5 Aids to trade that support commerce
-    ...topicOnly('aids-to-trade-that-support-commerce-0715', '5', [
+    ...sub('aids-to-trade-that-support-commerce-0715', 'advertising-0715', '5.1', [
       { n: 1, f: 'What are the purposes of advertising?', b: 'To inform customers about products and prices, persuade them to choose a brand, remind them of existing products, and build a brand image.' },
       { n: 2, f: 'Informative vs persuasive vs collective vs competitive advertising', b: 'Informative: gives facts.\nPersuasive: creates a desire to buy.\nCollective (generic): promotes a whole product type for an industry.\nCompetitive: compares a brand with its rivals.' },
       { n: 3, f: 'What is sales promotion? Give three methods', b: 'Short-term incentives to raise sales, such as free samples, coupons, special offers, competitions, loss leaders and free gifts.' },
-      { n: 4, f: 'Standing order vs direct debit', b: 'Standing order: a fixed amount paid on set dates, set up and changed by the payer.\nDirect debit: the receiver collects an amount that can vary, such as a utility bill.' },
-      { n: 5, f: 'What has been the impact of digital banking?', b: 'Closure of bank branches, more digital-only banks and less use of cash, a move towards a cashless society.' },
-      { n: 6, f: 'What are the five purposes of insurance in the syllabus?', b: 'Risk reduction, compensation, financial protection, business confidence and investment.' },
-      { n: 7, f: 'Name the seven types of insurance risk in the syllabus', b: 'Consequential loss, employer’s liability, fire, motor, premises, public liability and theft.' },
-      { n: 8, f: 'How does pooling of risk work?', b: 'Many policyholders pay premiums into a common fund; only a few suffer losses in a year, so the fund can compensate them.' },
-      { n: 9, f: 'Stock worth $80,000 is insured at $1.50 per $100. What is the premium?', b: '80,000 ÷ 100 × 1.50 = $1,200 a year.' },
-      { n: 10, f: 'Proposal form vs cover note vs policy', b: 'Proposal form: the application, giving full facts about the risk.\nCover note: temporary proof of cover until the policy is issued.\nPolicy: the full contract setting out what is covered.' },
-      { n: 11, f: 'What does an insurance broker do?', b: 'An independent adviser who compares insurers to find the most suitable cover at a good price for the client.' },
-      { n: 12, f: 'Name three short-term and three long-term sources of finance', b: 'Short-term: trade credit, debt factoring, overdraft, leasing, hire purchase, sale and leaseback, retained profit.\nLong-term: ordinary and preference shares, loans, debentures, venture capital, crowdfunding.' },
-      { n: 13, f: 'Mark-up % vs gross profit margin %', b: 'Mark-up = (average selling price − unit cost) ÷ unit cost × 100.\nGross profit margin = gross profit ÷ revenue × 100.' },
-      { n: 14, f: 'Unit cost $40, selling price $50: what is the mark-up?', b: '(50 − 40) ÷ 40 × 100 = 25%.' },
-      { n: 15, f: 'How do you calculate working capital and net profit?', b: 'Working capital = current assets − current liabilities.\nNet profit (profit for the year) = gross profit − expenses.' },
+    ]),
+    ...sub('aids-to-trade-that-support-commerce-0715', 'banking-0715', '5.2', [
+      { n: 1, f: 'Standing order vs direct debit', b: 'Standing order: a fixed amount paid on set dates, set up and changed by the payer.\nDirect debit: the receiver collects an amount that can vary, such as a utility bill.' },
+      { n: 2, f: 'What has been the impact of digital banking?', b: 'Closure of bank branches, more digital-only banks and less use of cash, a move towards a cashless society.' },
+    ]),
+    ...sub('aids-to-trade-that-support-commerce-0715', 'insurance-0715', '5.3', [
+      { n: 1, f: 'What are the five purposes of insurance in the syllabus?', b: 'Risk reduction, compensation, financial protection, business confidence and investment.' },
+      { n: 2, f: 'Name the seven types of insurance risk in the syllabus', b: 'Consequential loss, employer’s liability, fire, motor, premises, public liability and theft.' },
+      { n: 3, f: 'How does pooling of risk work?', b: 'Many policyholders pay premiums into a common fund; only a few suffer losses in a year, so the fund can compensate them.' },
+      { n: 4, f: 'Stock worth $80,000 is insured at $1.50 per $100. What is the premium?', b: '80,000 ÷ 100 × 1.50 = $1,200 a year.' },
+      { n: 5, f: 'Proposal form vs cover note vs policy', b: 'Proposal form: the application, giving full facts about the risk.\nCover note: temporary proof of cover until the policy is issued.\nPolicy: the full contract setting out what is covered.' },
+      { n: 6, f: 'What does an insurance broker do?', b: 'An independent adviser who compares insurers to find the most suitable cover at a good price for the client.' },
+    ]),
+    ...sub('aids-to-trade-that-support-commerce-0715', 'sources-of-finance-and-commercial-performance-0715', '5.4', [
+      { n: 1, f: 'Name three short-term and three long-term sources of finance', b: 'Short-term: trade credit, debt factoring, overdraft, leasing, hire purchase, sale and leaseback, retained profit.\nLong-term: ordinary and preference shares, loans, debentures, venture capital, crowdfunding.' },
+      { n: 2, f: 'Mark-up % vs gross profit margin %', b: 'Mark-up = (average selling price − unit cost) ÷ unit cost × 100.\nGross profit margin = gross profit ÷ revenue × 100.' },
+      { n: 3, f: 'Unit cost $40, selling price $50: what is the mark-up?', b: '(50 − 40) ÷ 40 × 100 = 25%.' },
+      { n: 4, f: 'How do you calculate working capital and net profit?', b: 'Working capital = current assets − current liabilities.\nNet profit (profit for the year) = gross profit − expenses.' },
     ]),
 
     // 6 Sustainability and ethics
-    ...topicOnly('sustainability-and-ethics-0715', '6', [
+    ...sub('sustainability-and-ethics-0715', 'sustainability-0715', '6.1', [
       { n: 1, f: 'What is the purpose of sustainability in the supply chain?', b: 'Making commercial processes eco-friendly and environmentally responsible for future generations.' },
       { n: 2, f: 'Name five of the nine actions to improve sustainability', b: 'Any five of: sustainable materials, sustainable logistics, reducing packaging, eco-friendly products, recycling and reducing waste, reducing returns and exchanges, digital resale marketplaces, free repair services, water stewardship.' },
       { n: 3, f: 'How does reducing returns and exchanges improve sustainability?', b: 'Fewer returns mean fewer delivery journeys and less wasted stock, for example by giving accurate size guides and clear product photos.' },
       { n: 4, f: 'What is a digital resale marketplace?', b: 'An online platform where customers resell used items, keeping products in use for longer.' },
       { n: 5, f: 'What is water stewardship?', b: 'Reducing, reusing and treating the water used in production so that local water supplies are protected.' },
-      { n: 6, f: 'What does ethics mean in commerce?', b: 'Moral principles about what is right and wrong, guiding how a business behaves, often beyond what the law requires.' },
-      { n: 7, f: 'What is the role of fair trade in commerce?', b: 'Producers in lower-income countries receive a fair, stable price and decent conditions; consumers get an ethical choice and retailers gain reputation.' },
-      { n: 8, f: 'Which two ethical issues does the syllabus name?', b: 'Misleading advertising and harmful disposal of products.' },
-      { n: 9, f: 'Why do consumers need protection?', b: 'Sellers know more than buyers, goods may be unsafe, faulty or not as described, advertising can mislead, and individuals have less power than large businesses.' },
-      { n: 10, f: 'What should a buyer do to resolve a complaint?', b: 'Keep the receipt and evidence, complain to the seller first, escalate to the manager or head office, contact a consumer protection organisation, and take legal action as a last resort.' },
-      { n: 11, f: 'How should a seller respond to a complaint?', b: 'Listen and record it, offer a repair, replacement or refund, apologise or offer goodwill, investigate the cause and train staff.' },
+    ]),
+    ...sub('sustainability-and-ethics-0715', 'ethics-0715', '6.2', [
+      { n: 1, f: 'What does ethics mean in commerce?', b: 'Moral principles about what is right and wrong, guiding how a business behaves, often beyond what the law requires.' },
+      { n: 2, f: 'What is the role of fair trade in commerce?', b: 'Producers in lower-income countries receive a fair, stable price and decent conditions; consumers get an ethical choice and retailers gain reputation.' },
+      { n: 3, f: 'Which two ethical issues does the syllabus name?', b: 'Misleading advertising and harmful disposal of products.' },
+    ]),
+    ...sub('sustainability-and-ethics-0715', 'consumer-protection-0715', '6.3', [
+      { n: 1, f: 'Why do consumers need protection?', b: 'Sellers know more than buyers, goods may be unsafe, faulty or not as described, advertising can mislead, and individuals have less power than large businesses.' },
+      { n: 2, f: 'What should a buyer do to resolve a complaint?', b: 'Keep the receipt and evidence, complain to the seller first, escalate to the manager or head office, contact a consumer protection organisation, and take legal action as a last resort.' },
+      { n: 3, f: 'How should a seller respond to a complaint?', b: 'Listen and record it, offer a repair, replacement or refund, apologise or offer goodwill, investigate the cause and train staff.' },
     ]),
   ],
 };

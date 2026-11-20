@@ -13,6 +13,12 @@ order: 814
 syllabusTopics:
   - qualification: "a-level"
     topic: "marketing-and-marketing-strategies-ocr-alevel-business"
+  - qualification: "a-level"
+    topic: "marketing-and-marketing-strategies-ocr-alevel-business"
+    subtopic: "marketing-resources-ocr-alevel-business"
+  - qualification: "a-level"
+    topic: "marketing-and-marketing-strategies-ocr-alevel-business"
+    subtopic: "identifying-customer-needs-ocr-alevel-business"
 description: "Condensed revision notes for every part of OCR A Level Business (H431) content area 3, Marketing and marketing strategies, with formulas and a self-test."
 author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"

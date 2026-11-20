@@ -2,11 +2,12 @@
  * D-444 -- flashcards for OxfordAQA International GCSE Business 9225
  * (first teaching September 2020, first examined May/June 2022).
  *
- * The syllabus record itemises subtopics only for topic 2 (Influences on
- * business, 3.2.1-3.2.6). Those cards use ids `<subtopic number>-<n>`; the other
- * five topics have no subtopics, so their cards use `<topic number>-<n>` and leave
- * `subtopic` out (topicOnly helper). Ids are permanent: add a new card with the
- * next unused n, never renumber.
+ * The syllabus record itemises subtopics for all six topics (3.1.1 to 3.6.4), so
+ * every card uses an id `<subtopic number>-<n>` and names its subtopic. The deck
+ * first filed topics 1 and 3 to 6 on the topic itself; on 20 Nov 2026 their cards
+ * were re-filed under the subtopics and renumbered, and `idMigration` below moves
+ * browser progress saved before then onto the new ids. Card text is unchanged.
+ * Ids are permanent: add a new card with the next unused n, never renumber.
  *
  *   src: '...'  The card restates that revision-notes page (found with
  *               scripts/flashcard-candidates.mjs 9225); origin 'revision-notes'.
@@ -33,17 +34,6 @@ const sub = (topic: string, subtopic: string, number: string, specs: Spec[]): Fl
     ...(src ? { source: src } : {}),
   }));
 
-const topicOnly = (topic: string, number: string, specs: Spec[]): Flashcard[] =>
-  specs.map(({ n, f, b, u, src }) => ({
-    id: `${number}-${n}`,
-    topic,
-    front: f,
-    back: b,
-    ...(u ? { tier: 'upper' as const } : {}),
-    origin: src ? 'revision-notes' as const : 'authored' as const,
-    ...(src ? { source: src } : {}),
-  }));
-
 const RW = 'igcse-oxfordaqa-business-real-world-revision-notes';
 const FIN = 'oxfordaqa-igcse-business-finance-revision-notes';
 
@@ -56,23 +46,59 @@ export const DECK_OXFORDAQA_IGCSE_BUSINESS: FlashcardDeck = {
   syllabusCode: '9225',
   syllabusSeries: 'First teaching September 2020, first examined May/June 2022',
   author: 'marlbridge-academic-team',
-  updated: '2026-11-05',
+  updated: '2026-11-20',
   deckReview: { reviewerSlug: 'salman-ahmad', reviewedOn: '2026-11-05' },
+  // Old id -> new id for every card, so progress saved before the cards were re-filed under
+  // the new subtopics follows each card. Runs once per browser, on marks dated before 2026-11-20.
+  idMigration: {
+    id: '9225-subtopics-2026-11-20',
+    before: '2026-11-20',
+    map: {
+      '1-1': '3.1.1-1', '1-2': '3.1.1-2', '1-3': '3.1.1-3', '1-4': '3.1.2-1', '1-5': '3.1.2-2', '1-6': '3.1.2-3',
+      '1-7': '3.1.2-4', '1-8': '3.1.2-5', '1-9': '3.1.7-1', '1-10': '3.1.7-2', '1-11': '3.1.7-3', '1-12': '3.1.5-1',
+      '3.2.1-1': '3.2.1-1', '3.2.1-2': '3.2.1-2', '3.2.1-3': '3.2.1-3', '3.2.1-4': '3.2.1-4', '3.2.1-5': '3.2.1-5', '3.2.1-6': '3.2.1-6',
+      '3.2.1-7': '3.2.1-7', '3.2.1-8': '3.2.1-8',
+      '3.2.2-1': '3.2.2-1', '3.2.2-2': '3.2.2-2', '3.2.2-3': '3.2.2-3', '3.2.2-4': '3.2.2-4', '3.2.2-5': '3.2.2-5', '3.2.2-6': '3.2.2-6',
+      '3.2.2-7': '3.2.2-7', '3.2.2-8': '3.2.2-8',
+      '3.2.3-1': '3.2.3-1', '3.2.3-2': '3.2.3-2', '3.2.3-3': '3.2.3-3', '3.2.3-4': '3.2.3-4', '3.2.3-5': '3.2.3-5', '3.2.3-6': '3.2.3-6',
+      '3.2.3-7': '3.2.3-7', '3.2.3-8': '3.2.3-8',
+      '3.2.4-1': '3.2.4-1', '3.2.4-2': '3.2.4-2', '3.2.4-3': '3.2.4-3', '3.2.4-4': '3.2.4-4', '3.2.4-5': '3.2.4-5', '3.2.4-6': '3.2.4-6',
+      '3.2.4-7': '3.2.4-7', '3.2.4-8': '3.2.4-8',
+      '3.2.5-1': '3.2.5-1', '3.2.5-2': '3.2.5-2', '3.2.5-3': '3.2.5-3', '3.2.5-4': '3.2.5-4', '3.2.5-5': '3.2.5-5', '3.2.5-6': '3.2.5-6',
+      '3.2.5-7': '3.2.5-7', '3.2.5-8': '3.2.5-8',
+      '3.2.6-1': '3.2.6-1', '3.2.6-2': '3.2.6-2', '3.2.6-3': '3.2.6-3', '3.2.6-4': '3.2.6-4', '3.2.6-5': '3.2.6-5', '3.2.6-6': '3.2.6-6',
+      '3.2.6-7': '3.2.6-7', '3.2.6-8': '3.2.6-8',
+      '3-1': '3.3.1-1', '3-2': '3.3.1-2', '3-3': '3.3.2-1', '3-4': '3.3.2-2', '3-5': '3.3.2-3', '3-6': '3.3.3-1',
+      '3-7': '3.3.3-2', '3-8': '3.3.3-3', '3-9': '3.3.4-1', '3-10': '3.3.4-2',
+      '4-1': '3.4.1-1', '4-2': '3.4.1-2', '4-3': '3.4.1-3', '4-4': '3.4.1-4', '4-5': '3.4.2-1', '4-6': '3.4.2-2',
+      '4-7': '3.4.3-1', '4-8': '3.4.3-2', '4-9': '3.4.4-1', '4-10': '3.4.3-3',
+      '5-1': '3.5.2-1', '5-2': '3.5.3-1', '5-3': '3.5.3-2', '5-4': '3.5.3-3', '5-5': '3.5.4-1', '5-6': '3.5.4-2',
+      '5-7': '3.5.4-3', '5-8': '3.5.4-4', '5-9': '3.5.4-5', '5-10': '3.5.4-6', '5-11': '3.5.4-7',
+      '6-1': '3.6.1-1', '6-2': '3.6.1-2', '6-3': '3.6.2-1', '6-4': '3.6.2-2', '6-5': '3.6.3-1', '6-6': '3.6.3-2',
+      '6-7': '3.6.4-1', '6-8': '3.6.4-2', '6-9': '3.6.4-3', '6-10': '3.6.4-4', '6-11': '3.6.4-5',
+    },
+  },
   cards: [
     // 1 Business in the real world
-    ...topicOnly('business-in-the-real-world-oxfordaqa-igcse-business', '1', [
+    ...sub('business-in-the-real-world-oxfordaqa-igcse-business', 'the-purpose-and-nature-of-businesses-oxfordaqa-igcse-business', '3.1.1', [
       { n: 1, f: 'Needs, wants and opportunity cost', b: 'Needs are essential; wants are desirable but not essential.\nOpportunity cost is the next best alternative given up when a choice is made.' },
       { n: 2, f: 'Added value', b: 'Added value = selling price − cost of bought-in materials. It is not profit: wages, rent and overheads still have to be paid from it.' },
       { n: 3, f: 'The three business sectors and how they depend on each other', b: 'Primary (extraction), secondary (manufacturing), tertiary (services). They are interdependent: a manufacturer needs primary raw materials and tertiary transport, retail and finance.' },
-      { n: 4, f: 'Unlimited and limited liability', b: 'Unlimited liability: the owner’s personal assets can be taken to pay business debts.\nLimited liability: the owner can lose only the amount invested.' },
-      { n: 5, f: 'Sole trader', b: 'Unlimited liability. For: easy to set up, all the profit, full control, privacy. Against: all the risk, limited capital, long hours, no continuity.', src: RW },
-      { n: 6, f: 'Private limited company (Ltd)', b: 'Limited liability. For: separate legal identity, easier to raise capital, continuity. Against: formation costs, accounts must be filed, shares not publicly traded.', src: RW },
-      { n: 7, f: 'Public limited company (plc)', b: 'Limited liability. For: large capital via the stock exchange, prestige. Against: expensive, public accounts, takeover risk, divorce of ownership from control.', src: RW },
-      { n: 8, f: 'Is franchising a form of ownership?', b: 'No. It is a way of setting up or growing. The franchisee trades as a sole trader, partnership or company, and that choice decides liability. The franchisee gets a proven brand and support but pays fees and royalties.' },
-      { n: 9, f: 'Horizontal and conglomerate integration', b: 'Horizontal: same industry, same stage, such as buying a competitor.\nConglomerate: an unrelated industry, which spreads risk.', src: RW },
-      { n: 10, f: 'Vertical forward and vertical backward integration', b: 'Forward: towards the customer, such as buying a retailer.\nBackward: towards the supplier, securing inputs.', src: RW },
-      { n: 11, f: 'Economies and diseconomies of scale', b: 'Economies of scale reduce average cost as output rises (purchasing, technical, financial, marketing, managerial). Diseconomies raise average cost when a firm grows too large (poor communication, weak coordination, falling motivation).' },
-      { n: 12, f: 'Why do weight-losing industries locate near raw materials?', b: 'The finished product is lighter than its inputs, so it is cheaper to transport the product than the raw materials. Weight-gaining and service industries locate near the market.' },
+    ]),
+    ...sub('business-in-the-real-world-oxfordaqa-igcse-business', 'business-ownership-oxfordaqa-igcse-business', '3.1.2', [
+      { n: 1, f: 'Unlimited and limited liability', b: 'Unlimited liability: the owner’s personal assets can be taken to pay business debts.\nLimited liability: the owner can lose only the amount invested.' },
+      { n: 2, f: 'Sole trader', b: 'Unlimited liability. For: easy to set up, all the profit, full control, privacy. Against: all the risk, limited capital, long hours, no continuity.', src: RW },
+      { n: 3, f: 'Private limited company (Ltd)', b: 'Limited liability. For: separate legal identity, easier to raise capital, continuity. Against: formation costs, accounts must be filed, shares not publicly traded.', src: RW },
+      { n: 4, f: 'Public limited company (plc)', b: 'Limited liability. For: large capital via the stock exchange, prestige. Against: expensive, public accounts, takeover risk, divorce of ownership from control.', src: RW },
+      { n: 5, f: 'Is franchising a form of ownership?', b: 'No. It is a way of setting up or growing. The franchisee trades as a sole trader, partnership or company, and that choice decides liability. The franchisee gets a proven brand and support but pays fees and royalties.' },
+    ]),
+    ...sub('business-in-the-real-world-oxfordaqa-igcse-business', 'business-location-oxfordaqa-igcse-business', '3.1.5', [
+      { n: 1, f: 'Why do weight-losing industries locate near raw materials?', b: 'The finished product is lighter than its inputs, so it is cheaper to transport the product than the raw materials. Weight-gaining and service industries locate near the market.' },
+    ]),
+    ...sub('business-in-the-real-world-oxfordaqa-igcse-business', 'expanding-a-business-oxfordaqa-igcse-business', '3.1.7', [
+      { n: 1, f: 'Horizontal and conglomerate integration', b: 'Horizontal: same industry, same stage, such as buying a competitor.\nConglomerate: an unrelated industry, which spreads risk.', src: RW },
+      { n: 2, f: 'Vertical forward and vertical backward integration', b: 'Forward: towards the customer, such as buying a retailer.\nBackward: towards the supplier, securing inputs.', src: RW },
+      { n: 3, f: 'Economies and diseconomies of scale', b: 'Economies of scale reduce average cost as output rises (purchasing, technical, financial, marketing, managerial). Diseconomies raise average cost when a firm grows too large (poor communication, weak coordination, falling motivation).' },
     ]),
 
     // 2 Influences on business
@@ -138,61 +164,83 @@ export const DECK_OXFORDAQA_IGCSE_BUSINESS: FlashcardDeck = {
     ]),
 
     // 3 Business operations
-    ...topicOnly('business-operations-oxfordaqa-igcse-business', '3', [
+    ...sub('business-operations-oxfordaqa-igcse-business', 'production-processes-oxfordaqa-igcse-business', '3.3.1', [
       { n: 1, f: 'Job, batch, flow and cell production', b: 'Job: one item made to order.\nBatch: identical items in groups, one group after another.\nFlow: continuous production of a standard product.\nCell: small teams each making a whole part or product.' },
       { n: 2, f: 'Efficiency, and two ways of improving it', b: 'More output from the resources used, or the same output from fewer, so unit cost falls. Ways: just-in-time (JIT) and Kaizen (many small improvements suggested by employees at every level).' },
-      { n: 3, f: 'JIT and buffer stock compared', b: 'JIT: lower storage costs and less cash tied up, but more deliveries, lost bulk discounts, and production stops if a delivery is late.\nBuffer stock: spare stock to meet unexpected demand, but storage, insurance and cash tied up.' },
-      { n: 4, f: 'Factors in choosing a supplier', b: 'Price (the total cost once delivery, discounts and credit terms are included), quality, and reliability.' },
-      { n: 5, f: 'A supplier charges 3.60 but 10% of its goods are unusable. What is the cost per usable unit?', b: '3.60 ÷ 0.90 = 4.00 per usable unit.' },
-      { n: 6, f: 'Total quality management (TQM): what it is, one advantage and one disadvantage', b: 'Every employee in every department is responsible for quality, and faults are prevented at each stage.\nFor: fewer defects and less waste.\nAgainst: training and time to introduce, and it needs managers’ commitment.' },
-      { n: 7, f: 'Consequences of poor quality', b: 'Refunds and replacements, lost sales, a damaged reputation, lost loyalty, low staff morale and possible legal problems.' },
-      { n: 8, f: 'Why can quality be harder to keep as a business grows?', b: 'Managers are further from daily work; with outsourcing there is less control over the other firm’s standards; with franchising one weak outlet can damage the brand.' },
-      { n: 9, f: 'Elements of good customer service', b: 'Product knowledge, customer engagement (greeting, listening, quick problem handling) and post-sales services (user training, help lines, servicing).' },
-      { n: 10, f: 'Benefits of good customer service and dangers of poor service', b: 'Good: satisfaction and loyalty, repeat custom, good word of mouth.\nPoor: dissatisfied customers, a poor reputation, lost sales.' },
+    ]),
+    ...sub('business-operations-oxfordaqa-igcse-business', 'the-role-of-procurement-oxfordaqa-igcse-business', '3.3.2', [
+      { n: 1, f: 'JIT and buffer stock compared', b: 'JIT: lower storage costs and less cash tied up, but more deliveries, lost bulk discounts, and production stops if a delivery is late.\nBuffer stock: spare stock to meet unexpected demand, but storage, insurance and cash tied up.' },
+      { n: 2, f: 'Factors in choosing a supplier', b: 'Price (the total cost once delivery, discounts and credit terms are included), quality, and reliability.' },
+      { n: 3, f: 'A supplier charges 3.60 but 10% of its goods are unusable. What is the cost per usable unit?', b: '3.60 ÷ 0.90 = 4.00 per usable unit.' },
+    ]),
+    ...sub('business-operations-oxfordaqa-igcse-business', 'the-concept-of-quality-oxfordaqa-igcse-business', '3.3.3', [
+      { n: 1, f: 'Total quality management (TQM): what it is, one advantage and one disadvantage', b: 'Every employee in every department is responsible for quality, and faults are prevented at each stage.\nFor: fewer defects and less waste.\nAgainst: training and time to introduce, and it needs managers’ commitment.' },
+      { n: 2, f: 'Consequences of poor quality', b: 'Refunds and replacements, lost sales, a damaged reputation, lost loyalty, low staff morale and possible legal problems.' },
+      { n: 3, f: 'Why can quality be harder to keep as a business grows?', b: 'Managers are further from daily work; with outsourcing there is less control over the other firm’s standards; with franchising one weak outlet can damage the brand.' },
+    ]),
+    ...sub('business-operations-oxfordaqa-igcse-business', 'good-customer-services-oxfordaqa-igcse-business', '3.3.4', [
+      { n: 1, f: 'Elements of good customer service', b: 'Product knowledge, customer engagement (greeting, listening, quick problem handling) and post-sales services (user training, help lines, servicing).' },
+      { n: 2, f: 'Benefits of good customer service and dangers of poor service', b: 'Good: satisfaction and loyalty, repeat custom, good word of mouth.\nPoor: dissatisfied customers, a poor reputation, lost sales.' },
     ]),
 
     // 4 Human resources
-    ...topicOnly('human-resources-oxfordaqa-igcse-business', '4', [
+    ...sub('human-resources-oxfordaqa-igcse-business', 'organisational-structures-oxfordaqa-igcse-business', '3.4.1', [
       { n: 1, f: 'Span of control and chain of command', b: 'Span of control: the number of people directly under one manager.\nChain of command: the path of authority linking the highest and lowest posts.' },
       { n: 2, f: 'Delegation and delayering', b: 'Delegation: passing authority for a task, and the right to decide about it, to someone lower down.\nDelayering: removing one or more levels from the structure.' },
       { n: 3, f: 'Tall and flat structures', b: 'Tall: many levels, narrow spans, slower communication, close supervision, higher management cost.\nFlat: few levels, wide spans, faster communication, more freedom, managers stretched.' },
       { n: 4, f: 'Centralised and decentralised structures', b: 'Centralised: decisions at the top; consistent and tightly controlled, but slow.\nDecentralised: decisions lower down; quick and local, but less control and risk of inconsistency.' },
-      { n: 5, f: 'Internal and external recruitment', b: 'Internal: cheaper, quicker, a known person, promotion motivates; but a small choice and no new ideas.\nExternal: wider choice and new skills; but slower, dearer and riskier.' },
-      { n: 6, f: 'Stages of recruitment and selection, in order', b: 'Identify the vacancy, write the job description and person specification, advertise, applications and shortlist, interviews and tests, then references, offer and acceptance.' },
-      { n: 7, f: 'Salary, wage, commission and profit sharing', b: 'Salary: fixed yearly pay. Wage: pay per hour or week.\nCommission: a percentage of own sales. Profit sharing: a share of the business’s profit.' },
-      { n: 8, f: 'Non-financial methods of motivation in the specification', b: 'Styles of management (consulting and trusting staff), training, greater responsibility, and fringe benefits such as discounts, meals or health cover.' },
-      { n: 9, f: 'Induction, on-the-job and off-the-job training', b: 'Induction: introduces new starters to the business, rules and job.\nOn the job: learning at work, such as shadowing; cheap and practical, but bad habits may pass on.\nOff the job: away from work, such as a course; specialist teaching, but fees and time away.' },
-      { n: 10, f: 'A business with 30 employees makes £180,000 profit and shares 4% of it equally. What does each employee get?', b: '0.04 × 180,000 = £7,200 ÷ 30 = £240 each.' },
+    ]),
+    ...sub('human-resources-oxfordaqa-igcse-business', 'recruitment-and-selection-of-employees-oxfordaqa-igcse-business', '3.4.2', [
+      { n: 1, f: 'Internal and external recruitment', b: 'Internal: cheaper, quicker, a known person, promotion motivates; but a small choice and no new ideas.\nExternal: wider choice and new skills; but slower, dearer and riskier.' },
+      { n: 2, f: 'Stages of recruitment and selection, in order', b: 'Identify the vacancy, write the job description and person specification, advertise, applications and shortlist, interviews and tests, then references, offer and acceptance.' },
+    ]),
+    ...sub('human-resources-oxfordaqa-igcse-business', 'motivating-employees-oxfordaqa-igcse-business', '3.4.3', [
+      { n: 1, f: 'Salary, wage, commission and profit sharing', b: 'Salary: fixed yearly pay. Wage: pay per hour or week.\nCommission: a percentage of own sales. Profit sharing: a share of the business’s profit.' },
+      { n: 2, f: 'Non-financial methods of motivation in the specification', b: 'Styles of management (consulting and trusting staff), training, greater responsibility, and fringe benefits such as discounts, meals or health cover.' },
+      { n: 3, f: 'A business with 30 employees makes £180,000 profit and shares 4% of it equally. What does each employee get?', b: '0.04 × 180,000 = £7,200 ÷ 30 = £240 each.' },
+    ]),
+    ...sub('human-resources-oxfordaqa-igcse-business', 'training-oxfordaqa-igcse-business', '3.4.4', [
+      { n: 1, f: 'Induction, on-the-job and off-the-job training', b: 'Induction: introduces new starters to the business, rules and job.\nOn the job: learning at work, such as shadowing; cheap and practical, but bad habits may pass on.\nOff the job: away from work, such as a course; specialist teaching, but fees and time away.' },
     ]),
 
     // 5 Marketing
-    ...topicOnly('marketing-oxfordaqa-igcse-business', '5', [
+    ...sub('marketing-oxfordaqa-igcse-business', 'market-segmentation-oxfordaqa-igcse-business', '3.5.2', [
       { n: 1, f: 'Market segmentation, and the types in the specification', b: 'Dividing customers into groups with shared characteristics, so product, price and message fit each group. Types: gender, age, location and income.' },
-      { n: 2, f: 'Purposes of market research', b: 'To identify market opportunities, gain insight into customers and competitors, and reduce the risk of launching the wrong product.' },
-      { n: 3, f: 'Primary and secondary research; quantitative and qualitative data', b: 'Primary: first-hand and new. Secondary: existing information collected by others.\nQuantitative: numbers and counts. Qualitative: opinions and reasons.' },
-      { n: 4, f: 'Why can market research be inaccurate?', b: 'A sample too small or unrepresentative, leading or unclear questions, dishonest or biased answers, out-of-date data, and misreading the results.' },
-      { n: 5, f: 'Pricing methods in the notes', b: 'Cost-plus (unit cost plus a mark-up), skimming (start high, cut later), penetration (start low to gain share), competitive (near rivals) and loss-leader (below cost to bring in shoppers).' },
-      { n: 6, f: 'A product costs 30 and sells for 39. Find the mark-up and the margin.', b: 'Profit = 9.\nMark-up = 9 ÷ 30 × 100 = 30% of cost.\nMargin = 9 ÷ 39 × 100 ≈ 23.1% of selling price.' },
-      { n: 7, f: 'Unique selling point (USP)', b: 'A feature or benefit that rivals lack, giving customers a reason to choose the product and sometimes allowing a higher price.' },
-      { n: 8, f: 'Product life cycle stages and extension strategies', b: 'Introduction (low sales), growth (rising quickly), maturity (peak, flat), decline (falling).\nExtension strategies, used at maturity or early decline: new packaging, uses, markets, price, design or promotion.' },
-      { n: 9, f: 'Factors in selecting a promotion method', b: 'The target market, the marketing budget, competitors’ activities and the type of product.' },
-      { n: 10, f: 'Distribution channels', b: 'Direct: producer to customer.\nRetailer: producer, retailer, customer.\nWholesaler: producer, wholesaler, retailer, customer.' },
-      { n: 11, f: 'Integrated marketing mix', b: 'Product, price, promotion and place set to fit each other and the target segment. Mismatched elements, such as a luxury image with a bargain price, confuse buyers.' },
+    ]),
+    ...sub('marketing-oxfordaqa-igcse-business', 'the-purpose-and-methods-of-market-research-oxfordaqa-igcse-business', '3.5.3', [
+      { n: 1, f: 'Purposes of market research', b: 'To identify market opportunities, gain insight into customers and competitors, and reduce the risk of launching the wrong product.' },
+      { n: 2, f: 'Primary and secondary research; quantitative and qualitative data', b: 'Primary: first-hand and new. Secondary: existing information collected by others.\nQuantitative: numbers and counts. Qualitative: opinions and reasons.' },
+      { n: 3, f: 'Why can market research be inaccurate?', b: 'A sample too small or unrepresentative, leading or unclear questions, dishonest or biased answers, out-of-date data, and misreading the results.' },
+    ]),
+    ...sub('marketing-oxfordaqa-igcse-business', 'the-elements-of-the-marketing-mix-price-product-promotion-and-place-4ps-oxfordaqa-igcse-business', '3.5.4', [
+      { n: 1, f: 'Pricing methods in the notes', b: 'Cost-plus (unit cost plus a mark-up), skimming (start high, cut later), penetration (start low to gain share), competitive (near rivals) and loss-leader (below cost to bring in shoppers).' },
+      { n: 2, f: 'A product costs 30 and sells for 39. Find the mark-up and the margin.', b: 'Profit = 9.\nMark-up = 9 ÷ 30 × 100 = 30% of cost.\nMargin = 9 ÷ 39 × 100 ≈ 23.1% of selling price.' },
+      { n: 3, f: 'Unique selling point (USP)', b: 'A feature or benefit that rivals lack, giving customers a reason to choose the product and sometimes allowing a higher price.' },
+      { n: 4, f: 'Product life cycle stages and extension strategies', b: 'Introduction (low sales), growth (rising quickly), maturity (peak, flat), decline (falling).\nExtension strategies, used at maturity or early decline: new packaging, uses, markets, price, design or promotion.' },
+      { n: 5, f: 'Factors in selecting a promotion method', b: 'The target market, the marketing budget, competitors’ activities and the type of product.' },
+      { n: 6, f: 'Distribution channels', b: 'Direct: producer to customer.\nRetailer: producer, retailer, customer.\nWholesaler: producer, wholesaler, retailer, customer.' },
+      { n: 7, f: 'Integrated marketing mix', b: 'Product, price, promotion and place set to fit each other and the target segment. Mismatched elements, such as a luxury image with a bargain price, confuse buyers.' },
     ]),
 
     // 6 Finance
-    ...topicOnly('finance-oxfordaqa-igcse-business', '6', [
+    ...sub('finance-oxfordaqa-igcse-business', 'sources-of-finance-oxfordaqa-igcse-business', '3.6.1', [
       { n: 1, f: 'Internal and external sources of finance', b: 'Internal: retained profit and selling unwanted assets.\nExternal: family and friends, a new share issue, loans or mortgages, overdrafts, trade credit, crowdfunding, and government or charitable grants and loans.' },
       { n: 2, f: 'Why do new and established businesses differ in raising finance?', b: 'A new business has no track record, so lenders see more risk. An established business has a profit history, assets and credibility.' },
-      { n: 3, f: 'Net cash flow and closing balance', b: 'Net cash flow = inflows − outflows.\nClosing balance = opening balance + net cash flow.\nExample: opening 2,000, inflows 6,500, outflows 7,200: net −700, closing 1,300.' },
-      { n: 4, f: 'Ways to solve a cash flow problem', b: 'Re-schedule payments, an overdraft, reduce cash outflows, increase cash inflows (chase debtors, prompt-payment discounts, sell assets), or new sources of finance.' },
-      { n: 5, f: 'Margin of safety, and an example', b: 'Margin of safety = actual or planned output − break-even output.\nBreak-even 800 units, planned 1,100 units: margin of safety = 300 units.' },
-      { n: 6, f: 'Payback period: cost 24,000, net inflows 8,000, 12,000 and 15,000 a year', b: 'After two years 20,000 is repaid. Remaining 4,000 ÷ 15,000 ≈ 0.27 of a year, about 3 months.\nPayback ≈ 2 years 3 months.' },
-      { n: 7, f: 'Assets', b: 'Owned by, or owed to, the business (non-current and current).', src: FIN },
-      { n: 8, f: 'Liabilities', b: 'Owed by the business (current and non-current).', src: FIN },
-      { n: 9, f: 'Gross profit margin and net profit margin', b: 'Gross profit margin = gross profit ÷ revenue × 100.\nNet profit margin = net profit ÷ revenue × 100.' },
-      { n: 10, f: 'Revenue 80,000, cost of sales 52,000, expenses 20,000. Find both margins.', b: 'Gross profit = 28,000, margin 35%.\nNet profit = 8,000, margin 10%.' },
-      { n: 11, f: 'Four comparisons for judging financial performance', b: 'Current performance, previous years, competitors, and the view of each stakeholder (owners, lenders, employees, suppliers).' },
+    ]),
+    ...sub('finance-oxfordaqa-igcse-business', 'cash-flow-oxfordaqa-igcse-business', '3.6.2', [
+      { n: 1, f: 'Net cash flow and closing balance', b: 'Net cash flow = inflows − outflows.\nClosing balance = opening balance + net cash flow.\nExample: opening 2,000, inflows 6,500, outflows 7,200: net −700, closing 1,300.' },
+      { n: 2, f: 'Ways to solve a cash flow problem', b: 'Re-schedule payments, an overdraft, reduce cash outflows, increase cash inflows (chase debtors, prompt-payment discounts, sell assets), or new sources of finance.' },
+    ]),
+    ...sub('finance-oxfordaqa-igcse-business', 'financial-terms-and-calculations-oxfordaqa-igcse-business', '3.6.3', [
+      { n: 1, f: 'Margin of safety, and an example', b: 'Margin of safety = actual or planned output − break-even output.\nBreak-even 800 units, planned 1,100 units: margin of safety = 300 units.' },
+      { n: 2, f: 'Payback period: cost 24,000, net inflows 8,000, 12,000 and 15,000 a year', b: 'After two years 20,000 is repaid. Remaining 4,000 ÷ 15,000 ≈ 0.27 of a year, about 3 months.\nPayback ≈ 2 years 3 months.' },
+    ]),
+    ...sub('finance-oxfordaqa-igcse-business', 'analysing-the-financial-performance-of-a-business-oxfordaqa-igcse-business', '3.6.4', [
+      { n: 1, f: 'Assets', b: 'Owned by, or owed to, the business (non-current and current).', src: FIN },
+      { n: 2, f: 'Liabilities', b: 'Owed by the business (current and non-current).', src: FIN },
+      { n: 3, f: 'Gross profit margin and net profit margin', b: 'Gross profit margin = gross profit ÷ revenue × 100.\nNet profit margin = net profit ÷ revenue × 100.' },
+      { n: 4, f: 'Revenue 80,000, cost of sales 52,000, expenses 20,000. Find both margins.', b: 'Gross profit = 28,000, margin 35%.\nNet profit = 8,000, margin 10%.' },
+      { n: 5, f: 'Four comparisons for judging financial performance', b: 'Current performance, previous years, competitors, and the view of each stakeholder (owners, lenders, employees, suppliers).' },
     ]),
   ],
 };

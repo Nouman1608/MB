@@ -14,6 +14,12 @@ order: 6
 syllabusTopics:
   - qualification: "a-level"
     topic: "social-and-ethical-accounting"
+  - qualification: "a-level"
+    topic: "social-and-ethical-accounting"
+    subtopic: "social-accounting-yac11"
+  - qualification: "a-level"
+    topic: "social-and-ethical-accounting"
+    subtopic: "ethics-yac11"
 description: "Revision notes for Edexcel IAL Accounting topic 1.6: social context, non-financial factors, stakeholders and ethics, plus a quick self-test."
 author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
