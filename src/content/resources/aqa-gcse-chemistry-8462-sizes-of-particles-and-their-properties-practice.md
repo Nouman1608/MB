@@ -16,7 +16,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "bonding-structure-and-the-properties-of-matter-8462"
     subtopic: "sizes-of-particles-and-their-properties-8462"
-description: "Ten original AQA GCSE Chemistry 8462 questions on section 4.2.4.1: nanoparticle sizes, standard form, surface area to volume ratio and properties, with answers."
+description: "Twelve original AQA GCSE Chemistry 8462 questions on section 4.2.4.1: nanoparticle sizes, standard form, surface area to volume ratio and properties, with answers."
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-20
 featured: false
@@ -81,6 +81,19 @@ atoms would fit across the nanoparticle. **[2]**
 **10.** Explain why a catalyst made of nanoparticles may need a smaller mass than the same catalyst in larger
 pieces to be effective. **[3]**
 
+**11.** Two particles are described. Particle M has a diameter of 6 × 10⁻⁸ m. Particle N has a diameter of
+2 × 10⁻⁶ m.
+
+**(a)** Convert each diameter into nanometres. **[2]**
+**(b)** Classify each particle as a nanoparticle or a fine particle. **[2]**
+
+**12.** A solid cube of side 1 cm is cut into 1000 identical small cubes, each of side 0.1 cm.
+
+**(a)** Calculate the surface area of the original cube. **[1]**
+**(b)** Calculate the total surface area of all 1000 small cubes. **[2]**
+**(c)** State how the total surface area has changed, and what this shows about dividing a material into
+smaller pieces. **[2]**
+
 ## Answers
 
 **1. (a)** **1 to 100 nm** [1]
@@ -113,6 +126,14 @@ pieces to be effective. **[3]**
 
 **10.** Nanoparticles have a very high surface area to volume ratio [1]; a larger proportion of the atoms are on the
 surface where the reactants can reach them [1]; so a smaller mass gives the same or greater effect [1]. **[3]**
+
+**11. (a)** M: 6 × 10⁻⁸ ÷ 10⁻⁹ = **60 nm** [1]; N: 2 × 10⁻⁶ ÷ 10⁻⁹ = **2000 nm** [1]. **[2]**
+**(b)** M is a **nanoparticle** (1 to 100 nm) [1]; N is a **fine particle** (100 to 2500 nm) [1]. **[2]**
+
+**12. (a)** 6 × 1 × 1 = **6 cm²** [1]
+**(b)** One small cube: 6 × 0.1 × 0.1 = 0.06 cm² [1]; 1000 cubes: 1000 × 0.06 = **60 cm²** [1]. **[2]**
+**(c)** The total surface area is **10 times larger** (60 ÷ 6) [1]; dividing a material into smaller pieces
+increases the total surface area for the same mass and volume [1]. **[2]**
 
 ## Where marks are usually lost
 

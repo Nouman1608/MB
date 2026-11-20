@@ -87,6 +87,34 @@ particles meet the surface.
 **Example 3.** Cost comparison: normal catalyst 20 kg at £30 per kg = £600; nanoparticle catalyst 2 kg at
 £150 per kg = £300. The nanoparticle catalyst is £300 cheaper per batch.
 
+## Linking uses to properties
+
+| Use | Property that matters | Explanation |
+|---|---|---|
+| Catalyst | High surface area to volume ratio | More reactant particles meet the surface at once |
+| Deodorant | High surface area to volume ratio | A small amount is effective |
+| Sun cream | Very small size | Spreads thinly and evenly; looks clear |
+| Medicine | Very small size | May reach cells; small doses may be enough |
+| Electronics | Very small size | Smaller components |
+
+## Model evaluation, step by step
+
+*Question:* "Evaluate the use of nanoparticles in a new sun cream."
+
+1. **Benefit:** the particles are so small that the cream spreads evenly and looks clear, and a small amount can
+   be effective.
+2. **Risk:** very small particles might pass through the skin, and the long-term effects are not known.
+3. **Evidence:** use any study or data given in the question.
+4. **Conclusion:** the cream has clear benefits, but further testing is needed to show it is safe.
+
+## Phrases to use
+
+- "possible risks"
+- "high surface area to volume ratio"
+- "smaller quantities are needed"
+- "long-term effects are not yet known"
+- "further research / testing is needed"
+
 ## Exam traps
 
 - **One-sided answers.** An evaluation needs both sides.

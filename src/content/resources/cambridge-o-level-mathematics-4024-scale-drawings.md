@@ -193,7 +193,7 @@ the two lines cross; the vertical line measures about 2.8 cm
 height ≈ 2.8 × 10 = 28 m
 ```
 
-A calculation gives 40 × tan 35° = 28.0 m, so the drawing agrees. This is a useful check on your accuracy. A slip of one degree on the protractor changes the answer by about half a metre here, so work carefully and use a sharp pencil.
+A calculation gives 40 × tan 35° = 28.0 m, so the drawing agrees. This is a useful check on your accuracy. A slip of one degree on the protractor changes the answer by about a metre here, so work carefully and use a sharp pencil.
 
 ## Common mistakes
 

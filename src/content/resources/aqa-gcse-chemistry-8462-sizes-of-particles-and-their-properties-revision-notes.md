@@ -99,6 +99,19 @@ times larger.
 
 **Number of atoms across.** A 10 nm particle compared with an atom of 0.1 nm: 10 ÷ 0.1 = 100 atoms across.
 
+## Why dividing a material raises the surface area
+
+A cube of side 1 cm has a surface area of 6 cm². Cut it into 1000 cubes of side 0.1 cm. The total volume is still
+1 cm³, but the total surface area is 1000 × 0.06 = 60 cm². The same material now has 10 times as much surface
+area. This is the idea behind the high surface area to volume ratio of nanoparticles.
+
+## Particle classification checklist
+
+1. Convert the diameter into nm if it is in metres.
+2. 1 to 100 nm: nanoparticle.
+3. 100 to 2500 nm: fine particle (PM2.5).
+4. 2500 to 10 000 nm: coarse particle (PM10), dust.
+
 ## Exam traps
 
 - **Writing the ratio goes down for smaller particles.** It goes up.

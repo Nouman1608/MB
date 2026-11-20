@@ -145,6 +145,43 @@ New applications for nanoparticulate materials are an important area of research
 properties from bulk materials, so there may be uses that are not yet known. Research is also needed to find out
 whether they are safe and how they affect the environment.
 
+## Linking each use to a property
+
+| Use | Property that matters | How it helps |
+|---|---|---|
+| Catalyst | High surface area to volume ratio | More reactant particles meet the catalyst surface at the same time |
+| Deodorant | High surface area to volume ratio | A small amount can be effective |
+| Sun cream | Very small size | Spreads thinly and evenly, and the cream looks clear |
+| Medicine | Very small size | May reach cells in the body; small doses may be enough |
+| Electronics | Very small size | Allows tiny components |
+
+When a question asks you to explain why nanoparticles are used for a purpose, pick the property that matters
+for that use and say what it makes possible.
+
+### Worked example 6: a six-mark evaluation
+
+*A company wants to add nanoparticles of a metal to a cleaning spray to kill bacteria. The spray would cost twice
+as much as the existing spray. Evaluate the idea.*
+
+Indicative content:
+
+- The nanoparticles have a high surface area to volume ratio, so a small quantity may kill bacteria effectively.
+- The product may work better than the existing spray, which is an advantage.
+- The spray costs twice as much, which may put some customers off.
+- Nanoparticles in a spray could be breathed in, and their effect on health is not fully known.
+- Nanoparticles washed down drains could affect the environment, and the effects are not fully known.
+- Conclusion: the company should consider the benefit against the cost and the possible risks, and test the
+  safety of the product before selling it.
+
+## Reading information in an exam question
+
+Questions often give a short passage, a table or a graph. A quick method:
+
+1. Underline what the nanoparticles are being used for.
+2. Underline any figures (costs, masses, percentages).
+3. Decide which property of nanoparticles is relevant (size or surface area to volume ratio).
+4. Write one benefit, one risk, then a conclusion that refers to what you underlined.
+
 ## Common mistakes
 
 - Writing only advantages, or only risks, in an "evaluate" question.
