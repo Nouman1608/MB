@@ -150,3 +150,11 @@ D: urea
 - Forgetting that decomposers respire and release carbon dioxide.
 - Missing the role of enzymes in decomposition.
 - Naming a process without saying which compound is formed.
+
+## Quick checks before you hand in
+
+1. Follow each arrow in a cycle diagram and name the process on it. Decay, nitrification, absorption, feeding and respiration are different processes, so one word is not enough.
+2. When a question asks you to explain a change in nitrate or carbon dioxide levels, say what makes the level rise and what makes it fall. A one-sided answer usually earns half the marks.
+3. Use the right form of the element: nitrogen gas in the air, ammonium ions from decay, nitrate ions taken up by roots, and carbon dioxide in the air. Marks are often lost for naming the wrong form.
+4. Link every process to the organisms that carry it out, such as decomposers, nitrifying bacteria, denitrifying bacteria, plants and animals.
+5. Check that your answer gives as many separate points as there are marks.
