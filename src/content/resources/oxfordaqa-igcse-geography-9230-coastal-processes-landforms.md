@@ -12,6 +12,7 @@ order: 1.3
 syllabusTopics:
   - qualification: "igcse"
     topic: "living-with-physical-environment-9230"
+    subtopic: "coastal-landscapes-9230"
 description: "Coasts for OxfordAQA IGCSE Geography 9230: wave types, weathering, mass movement, erosion, longshore drift, deposition, geology and coastal landforms."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

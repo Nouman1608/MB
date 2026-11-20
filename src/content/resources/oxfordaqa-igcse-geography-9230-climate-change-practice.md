@@ -12,6 +12,7 @@ order: 1.1
 syllabusTopics:
   - qualification: "igcse"
     topic: "living-with-physical-environment-9230"
+    subtopic: "climate-change-9230"
 description: "Original exam-style climate change questions for OxfordAQA IGCSE Geography 9230, from Quaternary evidence to mitigation and adaptation, with full answers."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

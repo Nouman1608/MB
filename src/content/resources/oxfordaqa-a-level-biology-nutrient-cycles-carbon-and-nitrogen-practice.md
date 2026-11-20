@@ -14,6 +14,7 @@ order: 261
 syllabusTopics:
   - qualification: "a-level"
     topic: "populations-and-genes-oxfordaqa-alevel-biology"
+    subtopic: "nutrient-cycles-oxfordaqa-alevel-biology"
 description: "Original practice questions on decomposers, carbon dioxide data, the nitrogen cycle, fertilisers and eutrophication for OxfordAQA A-level Biology."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

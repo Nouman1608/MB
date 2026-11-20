@@ -12,6 +12,7 @@ order: 3.1
 syllabusTopics:
   - qualification: "igcse"
     topic: "geographical-fieldwork-skills-9230"
+    subtopic: "cartographic-skills-9230"
 description: "Original 9230 practice on photographs and sketches: describing landscapes, direction of view, field sketches, comparing maps and satellite images."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

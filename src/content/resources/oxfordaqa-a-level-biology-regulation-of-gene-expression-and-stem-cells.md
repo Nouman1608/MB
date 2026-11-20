@@ -14,6 +14,7 @@ order: 271
 syllabusTopics:
   - qualification: "a-level"
     topic: "control-oxfordaqa-alevel-biology"
+    subtopic: "regulation-of-transcription-and-translation-oxfordaqa-alevel-biology"
 description: "Study guide to epigenetics, oncogenes, tumour suppressor genes, miRNA, siRNA and stem cell potency for OxfordAQA International A-level Biology 9610."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

@@ -13,6 +13,7 @@ order: 246
 syllabusTopics:
   - qualification: "igcse"
     topic: "organisms-interaction-with-the-environment-oxfordaqa-igcse-biology"
+    subtopic: "infection-and-response-oxfordaqa-igcse-biology"
 description: "Study guide to infection, white blood cell defences, vaccination and antibiotic resistance for OxfordAQA International GCSE Biology (9201), 3.4.7."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

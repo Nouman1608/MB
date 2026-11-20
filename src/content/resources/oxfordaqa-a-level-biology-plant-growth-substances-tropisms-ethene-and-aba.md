@@ -14,6 +14,7 @@ order: 268
 syllabusTopics:
   - qualification: "a-level"
     topic: "control-oxfordaqa-alevel-biology"
+    subtopic: "control-systems-in-plants-oxfordaqa-alevel-biology"
 description: "Study guide to plant growth substances, IAA and tropisms, ethene and ripening, and ABA and stomatal closure for OxfordAQA International A-level Biology."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

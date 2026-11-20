@@ -14,6 +14,7 @@ order: 263
 syllabusTopics:
   - qualification: "a-level"
     topic: "populations-and-genes-oxfordaqa-alevel-biology"
+    subtopic: "allele-frequencies-in-populations-oxfordaqa-alevel-biology"
 description: "Study guide to gene pools, allele frequency, bottlenecks, genetic drift and the Hardy-Weinberg equation for OxfordAQA International A-level Biology 9610."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

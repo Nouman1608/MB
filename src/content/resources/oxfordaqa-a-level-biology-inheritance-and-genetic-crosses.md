@@ -14,6 +14,7 @@ order: 262
 syllabusTopics:
   - qualification: "a-level"
     topic: "populations-and-genes-oxfordaqa-alevel-biology"
+    subtopic: "inheritance-oxfordaqa-alevel-biology"
 description: "Study guide to genotype, phenotype, alleles, genetic diagrams, linkage, epistasis and chi-squared for OxfordAQA International A-level Biology 9610."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

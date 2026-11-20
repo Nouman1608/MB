@@ -14,6 +14,7 @@ order: 270
 syllabusTopics:
   - qualification: "a-level"
     topic: "control-oxfordaqa-alevel-biology"
+    subtopic: "hormones-and-the-control-of-blood-glucose-concentration-oxfordaqa-alevel-biology"
 description: "Original practice questions with worked answers for OxfordAQA International A-level Biology 9610, 3.4.7: glucose control, diabetes, hormones, cAMP."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

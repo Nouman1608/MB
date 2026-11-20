@@ -12,6 +12,7 @@ order: 1.3
 syllabusTopics:
   - qualification: "igcse"
     topic: "living-with-physical-environment-9230"
+    subtopic: "coastal-landscapes-9230"
 description: "Condensed coastal notes for OxfordAQA IGCSE Geography 9230: wave types, the five process groups, geology, landform sequences, exam traps and a self-test."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

@@ -13,6 +13,7 @@ order: 245
 syllabusTopics:
   - qualification: "igcse"
     topic: "organisms-interaction-with-the-environment-oxfordaqa-igcse-biology"
+    subtopic: "control-of-water-and-ion-content-of-the-body-oxfordaqa-igcse-biology"
 description: "Original practice questions with worked answers on 3.4.3 for OxfordAQA International GCSE Biology: liver, kidneys, ADH and negative feedback."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

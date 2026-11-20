@@ -14,6 +14,7 @@ order: 260
 syllabusTopics:
   - qualification: "a-level"
     topic: "populations-and-genes-oxfordaqa-alevel-biology"
+    subtopic: "energy-transfer-through-ecosystems-oxfordaqa-alevel-biology"
 description: "Study guide to trophic levels, pyramids, GPP, NPP, consumer net production and farming efficiency for OxfordAQA International A-level Biology."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

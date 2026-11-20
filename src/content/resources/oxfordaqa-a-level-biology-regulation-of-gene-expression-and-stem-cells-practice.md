@@ -14,6 +14,7 @@ order: 271
 syllabusTopics:
   - qualification: "a-level"
     topic: "control-oxfordaqa-alevel-biology"
+    subtopic: "regulation-of-transcription-and-translation-oxfordaqa-alevel-biology"
 description: "Original practice questions with worked answers on epigenetics, cancer genes, miRNA, siRNA and stem cells for OxfordAQA International A-level Biology 9610."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

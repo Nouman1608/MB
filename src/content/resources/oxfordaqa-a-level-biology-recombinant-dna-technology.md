@@ -14,6 +14,7 @@ order: 272
 syllabusTopics:
   - qualification: "a-level"
     topic: "control-oxfordaqa-alevel-biology"
+    subtopic: "recombinant-dna-technology-oxfordaqa-alevel-biology"
 description: "Study guide to recombinant DNA technology for OxfordAQA International A-level Biology: cDNA, restriction enzymes, PCR, vectors, markers and evaluation."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
