@@ -4460,20 +4460,24 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     syllabusCode: '9675', syllabusSeries: 'Version 5.3, for International AS exams from May/June 2018, A-level from May/June 2019',
     effectiveFrom: '2018', effectiveTo: '2028', status: 'current',
     tiered: false,
-    source: 'OxfordAQA — official International AS and A-level English Literature (9675) specification PDF',
-    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-a-level-english-literature-specification.pdf', verifiedDate: '2026-09-16',
-    notes: 'Version 5.3 is taught out: OxfordAQA\'s qualification page gives its final AS exams as May/June 2027 and its final A2 exams as May/June 2028 (final resit opportunity November 2028), and a revised specification (Version 5.6) is published for teaching from 2027, first AS exams May/June 2028. International AS = Unit 1 and Unit 2; the full International A-level adds Unit 3 and Unit 4. Unit 1 and Unit 2 sub-sections and set-text lists fetched and verified 2026-09-02 directly from the full specification PDF, Version 4.1 (pages 11-14): Unit 1 splits into Section A (Elizabethan and Jacobean tragedy, passage-based) and Section B (later dramatic tragedies, essay); Unit 2 splits into Section A (prose) and Section B (poetry). Units 3 and 4 (International A-level only) remain topic-name-only pending the same fetch for their content. D-240 (I361): re-checked against Version 5.3 (copyright 2025, 26 pp.), linked from the OxfordAQA qualification page and read to its copyright block 2026-09-16; Units 1 and 2 are on pages 11-13 there, and every section and set text listed above appears unchanged.',
+    source: 'OxfordAQA — official International AS and A-level English Literature (9675) specification PDF, Version 5.3 (all four units and their sub-headings checked against it, 2026-11-20)',
+    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-a-level-english-literature-specification.pdf', verifiedDate: '2026-11-20',
+    notes: 'Version 5.3 is taught out: OxfordAQA\'s qualification page gives its final AS exams as May/June 2027 and its final A2 exams as May/June 2028 (final resit opportunity November 2028), and a revised specification (Version 5.6) is published for teaching from 2027, first AS exams May/June 2028. International AS = Unit 1 and Unit 2; the full International A-level adds Unit 3 and Unit 4. Unit 1 and Unit 2 sub-sections and set-text lists fetched and verified 2026-09-02 directly from the full specification PDF, Version 4.1 (pages 11-14): Unit 1 splits into Section A (Elizabethan and Jacobean tragedy, passage-based) and Section B (later dramatic tragedies, essay); Unit 2 splits into Section A (prose) and Section B (poetry). D-240 (I361): re-checked against Version 5.3 (copyright 2025, 26 pp.), linked from the OxfordAQA qualification page and read to its copyright block 2026-09-16; Units 1 and 2 are on pages 11-13 there, and every section and set text listed above appears unchanged. Re-checked on 2026-11-20 against the same PDF: sub-topic names now follow the section labels the specification prints (the set-text lists are no longer part of the names), and Unit 4 has its two printed headings, 4a Examination and 4b Non-exam assessment. Unit 3 prints no sub-headings, so it has none.',
+    subtopicsComplete: true,
     topics: [
-      { number: 1, name: 'Unit 1 – Aspects of Dramatic Tragedy', slug: 'unit-1-aspects-of-dramatic-tragedy-9675', stage: 'AS', subtopics: [
-        { number: '', name: 'Section A: Elizabethan and Jacobean Tragedy (passage-based) — choice of Othello, King Lear, Hamlet, Doctor Faustus (B text), The Duchess of Malfi', slug: 'unit-1-section-a-9675' },
-        { number: '', name: 'Section B: Later Dramatic Tragedies (essay) — choice of Death of a Salesman, A Streetcar Named Desire, Hedda Gabler, Waiting for Godot, Translations', slug: 'unit-1-section-b-9675' },
+      { number: 1, name: 'Unit 1: Aspects of dramatic tragedy', slug: 'unit-1-aspects-of-dramatic-tragedy-9675', stage: 'AS', subtopics: [
+        { number: '', name: 'Section A: Elizabethan and Jacobean tragedy', slug: 'unit-1-section-a-9675' },
+        { number: '', name: 'Section B: Later dramatic tragedies', slug: 'unit-1-section-b-9675' },
       ] },
-      { number: 2, name: 'Unit 2 – Place in Literary Texts', slug: 'unit-2-place-in-literary-texts-9675', stage: 'AS', subtopics: [
-        { number: '', name: 'Section A: Prose — choice of Heart of Darkness, The Great Gatsby, Americanah, Small Island, Last Man in Tower, Remains of the Day', slug: 'unit-2-section-a-9675' },
-        { number: '', name: 'Section B: Poetry — choice of Wordsworth, Robert Frost, Thomas Hardy or Seamus Heaney selections', slug: 'unit-2-section-b-9675' },
+      { number: 2, name: 'Unit 2: Place in literary texts', slug: 'unit-2-place-in-literary-texts-9675', stage: 'AS', subtopics: [
+        { number: '', name: 'Section A: Prose', slug: 'unit-2-section-a-9675' },
+        { number: '', name: 'Section B: Poetry', slug: 'unit-2-section-b-9675' },
       ] },
-      { number: 3, name: 'Unit 3 – Elements of Crime and Mystery', slug: 'unit-3-elements-of-crime-and-mystery-9675', stage: 'A', subtopics: [] },
-      { number: 4, name: 'Unit 4 – Literary Representations', slug: 'unit-4-literary-representations-9675', stage: 'A', subtopics: [] },
+      { number: 3, name: 'Unit 3: Elements of crime and mystery', slug: 'unit-3-elements-of-crime-and-mystery-9675', stage: 'A', subtopics: [] },
+      { number: 4, name: 'Unit 4: Literary representations', slug: 'unit-4-literary-representations-9675', stage: 'A', subtopics: [
+        { number: '4a', name: 'Examination', slug: 'unit-4a-examination-9675' },
+        { number: '4b', name: 'Non-exam assessment', slug: 'unit-4b-non-exam-assessment-9675' },
+      ] },
     ],
   },
   {
