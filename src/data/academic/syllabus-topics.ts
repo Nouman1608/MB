@@ -1523,9 +1523,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     syllabusCode: '7357', syllabusSeries: 'For first teaching 2017',
     effectiveFrom: '2017', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
-    source: 'AQA -- official A-level Mathematics (7357) specification, live subject-content pages',
-    sourceUrl: 'https://www.aqa.org.uk/subjects/mathematics/a-level/mathematics-7357/specification/subject-content', verifiedDate: '2026-08-19',
-    notes: "AQA A-level Mathematics (7357), first teaching September 2017. The subject content is set out by the Department for Education and is common across all exam boards offering A-level Mathematics -- the 21 subject-content sections (Overarching themes, 19 lettered sections A-S and Use of data in statistics) and their weighting are prescribed by Ofqual/DfE, not set independently by AQA. Section names verified directly against the live AQA specification subject-content index pages (aqa.org.uk). Topic 1 (Overarching themes) subtopics reproduce the specification PDF's own OT1-OT3 sub-headings, fetched and verified 2026-08-21. Topic 3 (B: Algebra and functions) subtopics B1-B9 reproduce the specification PDF's own numbered content statements, fetched and verified 2026-09-02 (from the current AQA-hosted specification PDF at cdn.sanity.io, linked from the live aqa.org.uk subject-content page); sections 2 and 4-21 remain name-only pending the same fetch for their content.",
+    source: 'AQA — official A-level Mathematics 7357 specification PDF (Version 1.3, 31 January 2018), section 3 subject content',
+    sourceUrl: 'https://www.aqa.org.uk/subjects/mathematics/a-level/mathematics-7357/specification/subject-content', verifiedDate: '2026-11-20',
+    notes: 'AQA A-level Mathematics (7357), first teaching September 2017. The subject content is set out by the Department for Education and is common across all exam boards offering A-level Mathematics: the 21 subject-content sections (Overarching themes, 19 lettered sections A-S and Use of data in statistics) and their weighting are prescribed by Ofqual/DfE, not set independently by AQA. Section names checked against the AQA specification PDF (Version 1.3, 31 January 2018) on 2026-11-20. The specification prints named sub-headings only for the Overarching themes (3.1.1-3.1.3, OT1-OT3) and for Use of data in statistics (3.21.1 Large data set). Sections A to S are lists of numbered content statements (A1, B1 to B11 and so on) with no sub-heading names. The short names given to B1-B11 are summaries of those statements, not printed headings, so this record is not marked complete.',
     topics: [
       { number: 1, name: 'Overarching themes', slug: 'overarching-themes-aqa-alevel-maths', subtopics: [
         { number: 'OT1', name: 'Mathematical argument, language and proof', slug: 'ot1-mathematical-argument-language-and-proof-aqa-alevel-maths' },
@@ -1563,7 +1563,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
       { number: 18, name: 'Q: Kinematics', slug: 'q-kinematics-aqa-alevel-maths', subtopics: [] },
       { number: 19, name: "R: Forces and Newton's laws", slug: 'r-forces-and-newtons-laws-aqa-alevel-maths', subtopics: [] },
       { number: 20, name: 'S: Moments', slug: 's-moments-aqa-alevel-maths', subtopics: [] },
-      { number: 21, name: 'Use of data in statistics', slug: 'use-of-data-in-statistics-aqa-alevel-maths', subtopics: [] },
+      { number: 21, name: 'Use of data in statistics', slug: 'use-of-data-in-statistics-aqa-alevel-maths', subtopics: [
+        { number: '3.21.1', name: 'Large data set', slug: 'large-data-set-aqa-alevel-maths' },
+      ] },
     ],
   },
 
