@@ -2386,8 +2386,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2018', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'Pearson Edexcel -- official International Advanced Level Business specification PDF (YBS11 / XBS11), Issue 1, September 2017',
-    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Business/2018/Specification-and-Sample-Assessment/International-A-Level-Business-Spec.pdf', verifiedDate: '2026-09-17',
-    notes: 'Pearson Edexcel International Advanced Level Business, first teaching September 2018 (specification Issue 1, September 2017), is a modular qualification: International AS (units 1-2, code XBS11) and the full International A Level (units 1-4, code YBS11). `syllabusCode` here is the qualification code alone, matching syllabuses.ts (I396/D-264); the unit codes are WBS11-WBS14 (see syllabuses.ts `relatedCodes`). Unit 1 (Marketing and people) subtopics reproduce the specification\'s own section 1.3.1-1.3.5 sub-headings, fetched and verified 2026-08-21 from the full specification PDF. Unit 2 (Managing business activities) subtopics 2.3.1-2.3.3 reproduce the same specification PDF\'s own sub-headings, fetched and verified 2026-09-02. Units 3-4 remain topic-name-only pending the same fetch for their content.',
+    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Business/2018/Specification-and-Sample-Assessment/International-A-Level-Business-Spec.pdf', verifiedDate: '2026-11-20',
+    notes: 'Pearson Edexcel International Advanced Level Business, first teaching September 2018 (specification Issue 1, September 2017), is a modular qualification: International AS (units 1-2, code XBS11) and the full International A Level (units 1-4, code YBS11). `syllabusCode` here is the qualification code alone, matching syllabuses.ts (I396/D-264); the unit codes are WBS11-WBS14 (see syllabuses.ts `relatedCodes`). Unit 1 (Marketing and people) subtopics reproduce the specification\'s own section 1.3.1-1.3.5 sub-headings, fetched and verified 2026-08-21 from the full specification PDF. Unit 2 (Managing business activities) subtopics 2.3.1-2.3.3 reproduce the same specification PDF\'s own sub-headings, fetched and verified 2026-09-02. On 2026-11-20 all four units were checked against the specification again: Unit 2 gained 2.3.4 Resource management and 2.3.5 External influences, and Units 3 and 4 were itemised into their numbered sections 3.3.1-3.3.6 and 4.3.1-4.3.4. The content tables also number the points inside each section (1, 2, 3 with lettered parts); those are not sub-headings and are not listed. Section 3.3.6 is headed Manging change in the body but Managing change in the unit overview, so the overview spelling is used.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Marketing and people', slug: 'marketing-and-people-edexcel-alevel-business', stage: 'AS', subtopics: [
         { number: '1.3.1', name: 'Meeting customer needs', slug: 'meeting-customer-needs-ybs11' },
@@ -2400,9 +2401,23 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '2.3.1', name: 'Planning a business and raising finance', slug: 'planning-and-raising-finance-ybs11' },
         { number: '2.3.2', name: 'Financial planning', slug: 'financial-planning-ybs11' },
         { number: '2.3.3', name: 'Managing finance', slug: 'managing-finance-ybs11' },
+        { number: '2.3.4', name: 'Resource management', slug: 'resource-management-ybs11' },
+        { number: '2.3.5', name: 'External influences', slug: 'external-influences-ybs11' },
       ] },
-      { number: 3, name: 'Business decisions and strategy', slug: 'business-decisions-and-strategy-edexcel-alevel-business', stage: 'A', subtopics: [] },
-      { number: 4, name: 'Global business', slug: 'global-business-edexcel-alevel-business', stage: 'A', subtopics: [] },
+      { number: 3, name: 'Business decisions and strategy', slug: 'business-decisions-and-strategy-edexcel-alevel-business', stage: 'A', subtopics: [
+        { number: '3.3.1', name: 'Business objectives and strategy', slug: 'business-objectives-and-strategy-ybs11' },
+        { number: '3.3.2', name: 'Business growth', slug: 'business-growth-ybs11' },
+        { number: '3.3.3', name: 'Decision-making techniques', slug: 'decision-making-techniques-ybs11' },
+        { number: '3.3.4', name: 'Influences on business decisions', slug: 'influences-on-business-decisions-ybs11' },
+        { number: '3.3.5', name: 'Assessing competitiveness', slug: 'assessing-competitiveness-ybs11' },
+        { number: '3.3.6', name: 'Managing change', slug: 'managing-change-ybs11' },
+      ] },
+      { number: 4, name: 'Global business', slug: 'global-business-edexcel-alevel-business', stage: 'A', subtopics: [
+        { number: '4.3.1', name: 'Globalisation', slug: 'globalisation-ybs11' },
+        { number: '4.3.2', name: 'Global markets and business expansion', slug: 'global-markets-and-business-expansion-ybs11' },
+        { number: '4.3.3', name: 'Global marketing', slug: 'global-marketing-ybs11' },
+        { number: '4.3.4', name: 'Global industries and companies (multinational corporations)', slug: 'global-industries-and-companies-ybs11' },
+      ] },
     ],
   },
 
