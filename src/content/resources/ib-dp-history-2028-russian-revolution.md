@@ -69,7 +69,7 @@ featured: false
 
 ## Survival and consolidation of Bolshevik rule
 
-*Treaty of Brest-Litovsk (March 1918).* Lenin accepted harsh terms to end the war: Russia lost Poland, the Baltic lands, Ukraine and Finland, about a quarter of its population and much of its industry. It was a gamble to save the revolution; opponents inside the party and the SRs bitterly objected.
+*Treaty of Brest-Litovsk (March 1918).* Lenin accepted harsh terms to end the war: Russia lost Poland, the Baltic lands, Ukraine and Finland, a large share of its population (about a third by some counts) and much of its industry. It was a gamble to save the revolution; opponents inside the party and the SRs bitterly objected.
 
 *Terror and coercion.* The Cheka (secret police) was set up in December 1917. Elections to the Constituent Assembly in November gave the SRs most seats and the Bolsheviks around a quarter; the Assembly met once, in January 1918, and was dissolved. After attempts on Lenin's life in August 1918, the Red Terror began. The royal family was shot in July 1918.
 

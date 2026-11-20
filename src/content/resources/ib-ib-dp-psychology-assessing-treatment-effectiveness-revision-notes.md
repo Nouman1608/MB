@@ -1,18 +1,20 @@
 ---
-title: "IB DP Psychology (2019): Assessing the Effectiveness of Treatment -- Revision Notes"
+title: "IB DP Psychology: Assessing the Effectiveness of Treatment -- Revision Notes"
 resourceType: "revision-notes"
 subject: "psychology"
 level: ["ib"]
-topic: "Topic 5: Option: Abnormal psychology"
+topic: "Context -- Health and well-being (prevention and treatment)"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: ["DP Psychology (2019) / DP Psychology (2027)"]
-syllabusSeries: "First assessment 2019"
+syllabusCodes: ["DP Psychology (2027)", "DP Psychology (2019) / DP Psychology (2027)"]
+syllabusSeries: "First assessment 2027"
 order: 5.1
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-psychology-abnormal-psychology"
-description: "Condensed notes on assessing treatment effectiveness for IB DP abnormal psychology: trial design, outcomes, bias, TADS, relapse studies and a self-test."
+  - qualification: "ib-dp"
+    topic: "ib-dp-psychology-2027-health-and-well-being"
+description: "Condensed notes on assessing treatment effectiveness for IB DP Psychology health and well-being: trial design, outcomes, bias, TADS, relapse studies and a self-test."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
@@ -22,7 +24,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-These notes cover **"assessing the effectiveness of treatment(s)"**, a content point in the "treatment of disorders" topic of the abnormal psychology option (IB DP Psychology, first assessment 2019). The option as a whole is in the [abnormal psychology revision notes](/resources/ib-ib-dp-psychology-abnormal-psychology-revision-notes/); full explanations and an essay plan are in the [assessing treatment effectiveness study guide](/resources/ib-ib-dp-psychology-assessing-treatment-effectiveness/). Major depressive disorder is the example disorder.
+These notes cover the effectiveness of treatment, part of "Prevention and treatment" in the health and well-being context of IB DP Psychology (first assessment 2027), where students study the explanation and effectiveness of biological and psychological treatments of mental health disorders. Full explanations and an extended-response plan are in the [assessing treatment effectiveness study guide](/resources/ib-ib-dp-psychology-assessing-treatment-effectiveness/). Major depressive disorder is the example disorder.
 
 ## Four questions to ask of any treatment study
 
@@ -114,4 +116,4 @@ These notes cover **"assessing the effectiveness of treatment(s)"**, a content p
 ## Related pages
 
 - [Assessing treatment effectiveness: practice questions](/resources/ib-ib-dp-psychology-assessing-treatment-effectiveness-practice/)
-- [Abnormal psychology practice questions](/resources/ib-ib-dp-psychology-abnormal-psychology-practice/)
+
