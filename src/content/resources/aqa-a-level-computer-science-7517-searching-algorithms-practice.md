@@ -1,6 +1,6 @@
 ---
 title: "AQA A-Level Computer Science (7517): Searching algorithms -- Practice Questions"
-seoTitle: "AQA A-Level Computer Science Searching Algorithms Practice Questions"
+seoTitle: "AQA A-Level CS Searching Algorithms Practice Questions"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["a-levels"]

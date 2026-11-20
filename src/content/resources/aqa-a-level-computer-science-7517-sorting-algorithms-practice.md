@@ -1,6 +1,6 @@
 ---
 title: "AQA A-Level Computer Science (7517): Sorting algorithms -- Practice Questions"
-seoTitle: "AQA A-Level Computer Science Sorting Algorithms Practice Questions"
+seoTitle: "AQA A-Level CS Sorting Algorithms Practice Questions"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["a-levels"]

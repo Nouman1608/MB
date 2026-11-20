@@ -1,6 +1,6 @@
 ---
 title: "AQA A-Level Computer Science (7517): Classification of algorithms -- Revision Notes"
-seoTitle: "AQA A-Level Computer Science Big-O and Halting Problem Revision Notes"
+seoTitle: "AQA A-Level CS Big-O and Halting Problem Revision Notes"
 resourceType: "revision-notes"
 subject: "computer-science"
 level: ["a-levels"]

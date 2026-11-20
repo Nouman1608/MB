@@ -1,6 +1,6 @@
 ---
 title: "Cambridge O Level Computer Science (2210): Types of software and interrupts"
-seoTitle: "Cambridge O Level Computer Science 2210 Software and Interrupts Guide"
+seoTitle: "Cambridge O Level CS 2210 Software and Interrupts Guide"
 resourceType: "study-guides"
 subject: "computer-science"
 level: ["o-levels"]

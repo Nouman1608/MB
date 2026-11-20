@@ -1,6 +1,6 @@
 ---
 title: "AQA A-Level Chemistry (7405): Carboxylic acids and esters -- Practice Questions"
-seoTitle: "AQA A-Level Carboxylic Acids and Esters Practice Questions (7405)"
+seoTitle: "AQA A-Level Acids and Esters Practice Questions (7405)"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["a-levels"]

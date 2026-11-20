@@ -1,6 +1,6 @@
 ---
 title: "AQA A-Level Computer Science (7517): Tree-traversal -- Practice Questions"
-seoTitle: "AQA A-Level Computer Science Tree Traversal Practice Questions"
+seoTitle: "AQA A-Level CS Tree Traversal Practice Questions"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["a-levels"]

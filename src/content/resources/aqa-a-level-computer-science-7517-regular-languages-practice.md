@@ -1,6 +1,6 @@
 ---
 title: "AQA A-Level Computer Science (7517): Regular languages -- Practice Questions"
-seoTitle: "AQA A-Level Computer Science Regular Languages Practice Questions"
+seoTitle: "AQA A-Level CS Regular Languages Practice Questions"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["a-levels"]

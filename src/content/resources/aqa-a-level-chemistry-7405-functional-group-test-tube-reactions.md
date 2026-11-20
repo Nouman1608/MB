@@ -1,6 +1,6 @@
 ---
 title: "AQA A-Level Chemistry (7405): Identification of functional groups by test-tube reactions"
-seoTitle: "AQA A-Level Chemistry Functional Group Test-Tube Reactions Guide (7405)"
+seoTitle: "AQA A-Level Functional Group Tests Guide (7405)"
 resourceType: "study-guides"
 subject: "chemistry"
 level: ["a-levels"]

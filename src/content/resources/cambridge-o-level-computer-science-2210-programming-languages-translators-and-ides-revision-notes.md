@@ -1,6 +1,6 @@
 ---
 title: "Cambridge O Level Computer Science (2210): Programming languages, translators and IDEs -- Revision Notes"
-seoTitle: "Cambridge O Level Computer Science 2210 Languages and Translators Notes"
+seoTitle: "Cambridge O Level CS 2210 Languages, Translators Notes"
 resourceType: "revision-notes"
 subject: "computer-science"
 level: ["o-levels"]

@@ -1,6 +1,6 @@
 ---
 title: "AQA GCSE Chemistry (8462): Diamond"
-seoTitle: "AQA GCSE Chemistry 8462 Diamond Structure and Properties Guide"
+seoTitle: "AQA GCSE Chemistry 8462 Diamond Structure and Properties"
 resourceType: "study-guides"
 subject: "chemistry"
 level: ["gcse"]

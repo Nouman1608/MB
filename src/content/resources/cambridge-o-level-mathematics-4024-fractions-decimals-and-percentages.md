@@ -1,6 +1,6 @@
 ---
 title: "Cambridge O Level Mathematics (4024): Fractions, decimals and percentages"
-seoTitle: "O Level Maths 4024 Fractions, Decimals and Percentages Study Guide"
+seoTitle: "O Level Maths 4024 Fractions, Decimals, Percentages"
 resourceType: "study-guides"
 subject: "mathematics"
 level: ["o-levels"]

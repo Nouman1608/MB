@@ -1,6 +1,6 @@
 ---
 title: "AQA GCSE Chemistry (8462): Graphite"
-seoTitle: "AQA GCSE Chemistry 8462 Graphite Structure and Properties Guide"
+seoTitle: "AQA GCSE Chemistry 8462 Graphite Structure and Properties"
 resourceType: "study-guides"
 subject: "chemistry"
 level: ["gcse"]

@@ -1,6 +1,6 @@
 ---
 title: "AQA A-Level Chemistry (7405): Addition reactions of alkenes -- Practice Questions"
-seoTitle: "AQA A-Level Addition Reactions of Alkenes Practice Questions (7405)"
+seoTitle: "AQA A-Level Alkene Addition Practice Questions (7405)"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["a-levels"]

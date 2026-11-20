@@ -1,6 +1,6 @@
 ---
 title: "AQA A-Level Chemistry (7405): Elimination of halogenoalkanes"
-seoTitle: "AQA A-Level Chemistry Elimination of Halogenoalkanes Study Guide (7405)"
+seoTitle: "AQA A-Level Halogenoalkane Elimination Guide (7405)"
 resourceType: "study-guides"
 subject: "chemistry"
 level: ["a-levels"]

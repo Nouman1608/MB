@@ -1,6 +1,6 @@
 ---
 title: "AQA A-Level Chemistry (7405): Carboxylic acids and esters"
-seoTitle: "AQA A-Level Chemistry Carboxylic Acids and Esters Study Guide (7405)"
+seoTitle: "AQA A-Level Carboxylic Acids and Esters Guide (7405)"
 resourceType: "study-guides"
 subject: "chemistry"
 level: ["a-levels"]

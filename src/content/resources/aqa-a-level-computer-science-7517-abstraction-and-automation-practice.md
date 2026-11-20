@@ -1,6 +1,6 @@
 ---
 title: "AQA A-Level Computer Science (7517): Abstraction and automation -- Practice Questions"
-seoTitle: "AQA A-Level Computer Science Abstraction and Automation Practice Questions"
+seoTitle: "AQA A-Level CS Abstraction Practice Questions"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["a-levels"]

@@ -1,6 +1,6 @@
 ---
 title: "Cambridge O Level Computer Science (2210): Text, sound and images -- Practice Questions"
-seoTitle: "Cambridge O Level Computer Science 2210 Text, Sound, Images Questions"
+seoTitle: "Cambridge O Level CS 2210 Text, Sound, Images Questions"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["o-levels"]

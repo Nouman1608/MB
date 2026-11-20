@@ -1,6 +1,6 @@
 ---
 title: "AQA A-Level Chemistry (7405): Addition reactions of alkenes -- Revision Notes"
-seoTitle: "AQA A-Level Addition Reactions of Alkenes Revision Notes (7405)"
+seoTitle: "AQA A-Level Alkene Addition Revision Notes (7405)"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["a-levels"]

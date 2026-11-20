@@ -1,6 +1,6 @@
 ---
 title: "Cambridge O Level Computer Science (2210): Number systems"
-seoTitle: "Cambridge O Level Computer Science 2210 Number Systems Guide"
+seoTitle: "Cambridge O Level CS 2210 Number Systems Guide"
 resourceType: "study-guides"
 subject: "computer-science"
 level: ["o-levels"]

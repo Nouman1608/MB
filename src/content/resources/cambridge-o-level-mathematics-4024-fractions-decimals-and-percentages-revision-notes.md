@@ -1,6 +1,6 @@
 ---
 title: "Cambridge O Level Mathematics (4024): Fractions, decimals and percentages -- Revision Notes"
-seoTitle: "O Level Maths 4024 Fractions, Decimals and Percentages Revision Notes"
+seoTitle: "O Level 4024 Fractions, Decimals, Percentages Notes"
 resourceType: "revision-notes"
 subject: "mathematics"
 level: ["o-levels"]

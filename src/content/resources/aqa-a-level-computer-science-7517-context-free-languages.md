@@ -1,6 +1,6 @@
 ---
 title: "AQA A-Level Computer Science (7517): Context-free languages"
-seoTitle: "AQA A-Level Computer Science BNF and Context-Free Languages Guide"
+seoTitle: "AQA A-Level CS BNF Study Guide"
 resourceType: "study-guides"
 subject: "computer-science"
 level: ["a-levels"]

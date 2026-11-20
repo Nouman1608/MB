@@ -1,6 +1,6 @@
 ---
 title: "Cambridge O Level Computer Science (2210): Types of software and interrupts -- Practice Questions"
-seoTitle: "Cambridge O Level Computer Science 2210 Software and Interrupts Questions"
+seoTitle: "Cambridge O Level CS 2210 Software and Interrupts Questions"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["o-levels"]

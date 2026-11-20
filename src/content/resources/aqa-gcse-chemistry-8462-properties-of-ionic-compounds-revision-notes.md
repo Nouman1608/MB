@@ -1,6 +1,6 @@
 ---
 title: "AQA GCSE Chemistry (8462): Properties of ionic compounds -- Revision Notes"
-seoTitle: "AQA GCSE Chemistry 8462 Ionic Compound Properties Revision Notes"
+seoTitle: "AQA GCSE Chemistry 8462 Ionic Properties Revision Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["gcse"]

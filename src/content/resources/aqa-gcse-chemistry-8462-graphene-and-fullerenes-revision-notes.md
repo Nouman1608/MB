@@ -1,6 +1,6 @@
 ---
 title: "AQA GCSE Chemistry (8462): Graphene and fullerenes -- Revision Notes"
-seoTitle: "AQA GCSE Chemistry 8462 Graphene and Fullerenes Revision Notes"
+seoTitle: "AQA GCSE Chemistry 8462 Graphene Fullerenes Revision Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["gcse"]

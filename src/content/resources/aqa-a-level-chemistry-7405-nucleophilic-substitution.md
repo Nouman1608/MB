@@ -1,6 +1,6 @@
 ---
 title: "AQA A-Level Chemistry (7405): Nucleophilic substitution"
-seoTitle: "AQA A-Level Chemistry Nucleophilic Substitution Study Guide (7405)"
+seoTitle: "AQA A-Level Nucleophilic Substitution Guide (7405)"
 resourceType: "study-guides"
 subject: "chemistry"
 level: ["a-levels"]

@@ -1,6 +1,6 @@
 ---
 title: "AQA GCSE Chemistry (8462): Properties of metals and alloys"
-seoTitle: "AQA GCSE Chemistry 8462 Properties of Metals and Alloys Guide"
+seoTitle: "AQA GCSE Chemistry 8462 Metals and Alloys Study Guide"
 resourceType: "study-guides"
 subject: "chemistry"
 level: ["gcse"]

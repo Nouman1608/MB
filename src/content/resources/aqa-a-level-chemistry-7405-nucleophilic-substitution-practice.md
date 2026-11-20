@@ -1,6 +1,6 @@
 ---
 title: "AQA A-Level Chemistry (7405): Nucleophilic substitution -- Practice Questions"
-seoTitle: "AQA A-Level Nucleophilic Substitution Practice Questions (7405)"
+seoTitle: "AQA A-Level Nucleophilic Substitution Practice (7405)"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["a-levels"]

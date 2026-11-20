@@ -68,6 +68,34 @@ These notes condense subtopic **14.6 Blood glucose control** of Cambridge O Leve
 | Treatment | Administration of insulin (injection) |
 | Why injected | Insulin is a protein; if swallowed it would be digested |
 
+## Putting the loops in order (exam sequence)
+
+| Step | Glucose too high | Glucose too low |
+|---|---|---|
+| 1. Change | Rises above set point (after a meal) | Falls below set point (exercise, fasting) |
+| 2. Detected by | Pancreas | Pancreas |
+| 3. Hormone released | Insulin | Glucagon |
+| 4. Carried by | Blood to the liver | Blood to the liver |
+| 5. Liver response | Glucose converted to glycogen | Glycogen converted to glucose |
+| 6. Result | Blood glucose falls | Blood glucose rises |
+| 7. Feedback | Insulin release falls | Glucagon release falls |
+
+## Diabetes: cause, sign, reason, treatment
+
+1. **Cause:** not enough insulin is made by the pancreas.
+2. **Effect:** glucose is not converted to glycogen well, so blood glucose stays high.
+3. **Sign 1:** increased blood glucose concentration.
+4. **Sign 2:** glucose in the urine, because the tubules cannot reabsorb it all.
+5. **Treatment:** insulin injections, matched to food eaten and activity.
+
+## Three similar words
+
+| Word | Meaning |
+|---|---|
+| Glucose | The sugar in the blood; fuel for respiration |
+| Glycogen | The insoluble store of glucose in the liver |
+| Glucagon | The hormone that raises blood glucose |
+
 ## Worked calculation
 
 *Blood glucose is 85 mg per 100 cm3 before a meal and 136 mg per 100 cm3 30 minutes after it. Find the percentage increase.*

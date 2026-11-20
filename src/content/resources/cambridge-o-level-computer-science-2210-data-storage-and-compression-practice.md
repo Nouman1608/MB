@@ -1,6 +1,6 @@
 ---
 title: "Cambridge O Level Computer Science (2210): Data storage and compression -- Practice Questions"
-seoTitle: "Cambridge O Level Computer Science 2210 Storage and Compression Questions"
+seoTitle: "Cambridge O Level CS 2210 Storage and Compression Questions"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["o-levels"]

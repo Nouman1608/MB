@@ -1,6 +1,6 @@
 ---
 title: "Cambridge O Level Computer Science (2210): Data storage and compression -- Revision Notes"
-seoTitle: "Cambridge O Level Computer Science 2210 Storage and Compression Notes"
+seoTitle: "Cambridge O Level CS 2210 Storage and Compression Notes"
 resourceType: "revision-notes"
 subject: "computer-science"
 level: ["o-levels"]

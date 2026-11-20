@@ -1,6 +1,6 @@
 ---
 title: "AQA A-Level Computer Science (7517): Sorting algorithms -- Revision Notes"
-seoTitle: "AQA A-Level Computer Science Sorting Algorithms Revision Notes"
+seoTitle: "AQA A-Level CS Sorting Algorithms Revision Notes"
 resourceType: "revision-notes"
 subject: "computer-science"
 level: ["a-levels"]

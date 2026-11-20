@@ -1,6 +1,6 @@
 ---
 title: "AQA A-Level Computer Science (7517): Classification of algorithms -- Practice Questions"
-seoTitle: "AQA A-Level Computer Science Big-O and Halting Problem Practice Questions"
+seoTitle: "AQA A-Level CS Big-O and Halting Problem Practice Questions"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["a-levels"]

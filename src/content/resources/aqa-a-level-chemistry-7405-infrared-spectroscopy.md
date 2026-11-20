@@ -1,6 +1,6 @@
 ---
 title: "AQA A-Level Chemistry (7405): Infrared spectroscopy"
-seoTitle: "AQA A-Level Chemistry Infrared Spectroscopy Study Guide (7405)"
+seoTitle: "AQA A-Level Infrared Spectroscopy Guide (7405)"
 resourceType: "study-guides"
 subject: "chemistry"
 level: ["a-levels"]

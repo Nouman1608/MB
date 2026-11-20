@@ -1,6 +1,6 @@
 ---
 title: "AQA A-Level Computer Science (7517): A model of computation -- Practice Questions"
-seoTitle: "AQA A-Level Computer Science Turing Machine Practice Questions"
+seoTitle: "AQA A-Level CS Turing Machines Practice Questions"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["a-levels"]

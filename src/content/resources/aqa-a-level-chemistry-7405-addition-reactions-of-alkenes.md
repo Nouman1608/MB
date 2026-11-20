@@ -1,6 +1,6 @@
 ---
 title: "AQA A-Level Chemistry (7405): Addition reactions of alkenes"
-seoTitle: "AQA A-Level Chemistry Addition Reactions of Alkenes Study Guide (7405)"
+seoTitle: "AQA A-Level Alkene Addition Reactions Guide (7405)"
 resourceType: "study-guides"
 subject: "chemistry"
 level: ["a-levels"]

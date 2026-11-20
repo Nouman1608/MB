@@ -1,6 +1,6 @@
 ---
 title: "AQA A-Level Computer Science (7517): Searching algorithms -- Revision Notes"
-seoTitle: "AQA A-Level Computer Science Searching Algorithms Revision Notes"
+seoTitle: "AQA A-Level CS Searching Algorithms Revision Notes"
 resourceType: "revision-notes"
 subject: "computer-science"
 level: ["a-levels"]

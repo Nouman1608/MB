@@ -1,6 +1,6 @@
 ---
 title: "AQA A-Level Chemistry (7405): Structure, bonding and reactivity of alkenes -- Practice Questions"
-seoTitle: "AQA A-Level Alkene Structure, Bonding and Reactivity Practice Questions (7405)"
+seoTitle: "AQA A-Level Alkene Bonding Practice Questions (7405)"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["a-levels"]

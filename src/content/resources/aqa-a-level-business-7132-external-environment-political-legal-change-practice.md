@@ -1,6 +1,6 @@
 ---
 title: "AQA A-Level Business (7132): Political and legal change in the external environment -- Practice Questions"
-seoTitle: "AQA A-Level Business 7132 Political and Legal Change Questions"
+seoTitle: "AQA A-Level Business 7132 Political Legal Questions"
 resourceType: "practice-questions"
 subject: "business"
 level: ["a-levels"]

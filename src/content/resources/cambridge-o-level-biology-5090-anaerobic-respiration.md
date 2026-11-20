@@ -116,6 +116,28 @@ Place yeast in boiled, cooled glucose solution. Boiling removes dissolved oxygen
 5. **Explain the fall**: the lactic acid was carried in the blood to the liver and broken down using oxygen, which was supplied by deeper and faster breathing.
 6. **Compare the rates**: from 0 to 10 minutes the fall was 4.0, in the next 20 minutes it was 5.0. So the rate was faster early on: 0.4 per minute against 0.25 per minute. The concentration gradient and the supply of oxygen explain why the rate slows.
 
+## Sprints and long-distance running
+
+The way an athlete uses the two kinds of respiration depends on the event.
+
+| Event | Energy demand | Main type of respiration | Result |
+|---|---|---|---|
+| 100 m sprint | Very high for a short time | Mostly anaerobic, with some aerobic | Lactic acid builds up; large oxygen debt afterwards |
+| Marathon | Moderate for a long time | Mostly aerobic | Little lactic acid; steady heart and breathing rates |
+| Walking | Low | Aerobic | No oxygen debt |
+
+A sprinter can run for only a short time at full effort, because the lactic acid builds up and the muscles tire. A marathon runner paces the race so that aerobic respiration can supply most of the energy, because it releases much more energy from each glucose molecule and does not produce a harmful build-up of lactic acid.
+
+Regular training improves the delivery of oxygen to the muscles, for example by strengthening the heart and increasing the number of capillaries. The muscles can then rely on aerobic respiration for longer, and less lactic acid is made at the same effort.
+
+## Three model answers
+
+**1. Explain why a person breathes heavily after running a race.** The muscles respired anaerobically during the race and made lactic acid. After the race, extra oxygen is needed to break down the lactic acid in the liver. Deep, fast breathing supplies this oxygen, so the oxygen debt is repaid.
+
+**2. Explain why the pulse rate stays high for a while after exercise.** The heart carries the lactic acid in the blood from the muscles to the liver, where it is broken down. The faster heart rate moves the lactic acid more quickly. Once the lactic acid has been removed, the pulse rate falls back to the resting value.
+
+**3. Compare the energy released by aerobic and anaerobic respiration.** Aerobic respiration releases a relatively large amount of energy, because the glucose is completely broken down to carbon dioxide and water. Anaerobic respiration releases a relatively small amount, because the glucose is only partly broken down and much of the energy remains in the lactic acid or ethanol.
+
 ## Common mistakes
 
 - Writing that lactic acid is made in aerobic respiration, or that it contains oxygen as a reactant.

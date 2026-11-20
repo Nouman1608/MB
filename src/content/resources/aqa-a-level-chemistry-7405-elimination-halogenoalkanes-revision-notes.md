@@ -1,6 +1,6 @@
 ---
 title: "AQA A-Level Chemistry (7405): Elimination of halogenoalkanes -- Revision Notes"
-seoTitle: "AQA A-Level Elimination of Halogenoalkanes Revision Notes (7405)"
+seoTitle: "AQA A-Level Elimination Revision Notes (7405)"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["a-levels"]

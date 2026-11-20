@@ -1,6 +1,6 @@
 ---
 title: "AQA A-Level Computer Science (7517): Regular languages -- Revision Notes"
-seoTitle: "AQA A-Level Computer Science Regular Languages Revision Notes"
+seoTitle: "AQA A-Level CS Regular Languages Revision Notes"
 resourceType: "revision-notes"
 subject: "computer-science"
 level: ["a-levels"]

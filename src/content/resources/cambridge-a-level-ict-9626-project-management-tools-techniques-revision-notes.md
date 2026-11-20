@@ -1,6 +1,6 @@
 ---
 title: "Cambridge A Level Information Technology (ICT): 15.3 Tools and techniques for project management tasks (9626) -- Revision Notes"
-seoTitle: "Cambridge A Level IT 9626: Gantt, PERT and CPM Revision Notes"
+seoTitle: "Cambridge A Level IT 9626: Gantt, PERT, CPM Revision Notes"
 resourceType: "revision-notes"
 subject: "ict"
 level: ["a-levels"]

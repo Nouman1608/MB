@@ -1,6 +1,6 @@
 ---
 title: "AQA A-Level Computer Science (7517): Abstraction and automation"
-seoTitle: "AQA A-Level Computer Science Abstraction and Automation Guide"
+seoTitle: "AQA A-Level CS Abstraction Study Guide"
 resourceType: "study-guides"
 subject: "computer-science"
 level: ["a-levels"]

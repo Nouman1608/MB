@@ -1,6 +1,6 @@
 ---
 title: "AQA A-Level Computer Science (7517): Reverse Polish -- Practice Questions"
-seoTitle: "AQA A-Level Computer Science Reverse Polish Practice Questions"
+seoTitle: "AQA A-Level CS Reverse Polish Practice Questions"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["a-levels"]

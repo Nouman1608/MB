@@ -1,6 +1,6 @@
 ---
 title: "Cambridge O Level Computer Science (2210): Types of software and interrupts -- Revision Notes"
-seoTitle: "Cambridge O Level Computer Science 2210 Software and Interrupts Notes"
+seoTitle: "Cambridge O Level CS 2210 Software and Interrupts Notes"
 resourceType: "revision-notes"
 subject: "computer-science"
 level: ["o-levels"]

@@ -1,6 +1,6 @@
 ---
 title: "AQA A-Level Chemistry (7405): Elimination of halogenoalkanes -- Practice Questions"
-seoTitle: "AQA A-Level Elimination of Halogenoalkanes Practice Questions (7405)"
+seoTitle: "AQA A-Level Elimination Practice Questions (7405)"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["a-levels"]

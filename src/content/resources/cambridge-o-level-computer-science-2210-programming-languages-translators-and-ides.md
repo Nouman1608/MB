@@ -1,6 +1,6 @@
 ---
 title: "Cambridge O Level Computer Science (2210): Programming languages, translators and IDEs"
-seoTitle: "Cambridge O Level Computer Science 2210 Languages, Translators, IDEs"
+seoTitle: "Cambridge O Level CS 2210 Languages, Translators Guide"
 resourceType: "study-guides"
 subject: "computer-science"
 level: ["o-levels"]

@@ -1,6 +1,6 @@
 ---
 title: "AQA GCSE Chemistry (8462): The three states of matter -- Revision Notes"
-seoTitle: "AQA GCSE Chemistry 8462 Three States of Matter Revision Notes"
+seoTitle: "AQA GCSE Chemistry 8462 States of Matter Revision Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["gcse"]

@@ -1,6 +1,6 @@
 ---
 title: "AQA A-Level Computer Science (7517): Abstraction and automation -- Revision Notes"
-seoTitle: "AQA A-Level Computer Science Abstraction and Automation Revision Notes"
+seoTitle: "AQA A-Level CS Abstraction Revision Notes"
 resourceType: "revision-notes"
 subject: "computer-science"
 level: ["a-levels"]

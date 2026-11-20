@@ -1,6 +1,6 @@
 ---
 title: "Cambridge O Level Computer Science (2210): Text, sound and images"
-seoTitle: "Cambridge O Level Computer Science 2210 Text, Sound and Images"
+seoTitle: "Cambridge O Level CS 2210 Text, Sound, Images Guide"
 resourceType: "study-guides"
 subject: "computer-science"
 level: ["o-levels"]

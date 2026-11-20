@@ -1,6 +1,6 @@
 ---
 title: "AQA A-Level Chemistry (7405): Structure, bonding and reactivity of alkenes"
-seoTitle: "AQA A-Level Chemistry Alkene Structure, Bonding and Reactivity Guide (7405)"
+seoTitle: "AQA A-Level Alkene Bonding and Reactivity Guide (7405)"
 resourceType: "study-guides"
 subject: "chemistry"
 level: ["a-levels"]

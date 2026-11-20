@@ -1,6 +1,6 @@
 ---
 title: "Cambridge O Level Biology (5090): Mammalian sense organs -- Practice Questions"
-seoTitle: "O Level Biology 5090 Mammalian Sense Organs Practice Questions"
+seoTitle: "O Level Biology 5090 Sense Organs Practice"
 resourceType: "practice-questions"
 subject: "biology"
 level: ["o-levels"]

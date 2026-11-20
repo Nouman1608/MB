@@ -1,6 +1,6 @@
 ---
 title: "Cambridge O Level Biology (5090): Mammalian nervous system -- Practice Questions"
-seoTitle: "O Level Biology 5090 Mammalian Nervous System Practice Questions"
+seoTitle: "O Level Biology 5090 Nervous System Practice"
 resourceType: "practice-questions"
 subject: "biology"
 level: ["o-levels"]

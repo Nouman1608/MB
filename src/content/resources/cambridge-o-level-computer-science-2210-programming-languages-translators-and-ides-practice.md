@@ -1,6 +1,6 @@
 ---
 title: "Cambridge O Level Computer Science (2210): Programming languages, translators and IDEs -- Practice Questions"
-seoTitle: "Cambridge O Level Computer Science 2210 Languages and Translators Questions"
+seoTitle: "Cambridge O Level CS 2210 Languages, Translators Questions"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["o-levels"]
