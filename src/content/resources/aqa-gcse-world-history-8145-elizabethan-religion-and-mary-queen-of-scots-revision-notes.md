@@ -12,6 +12,9 @@ order: 2.1
 syllabusTopics:
   - qualification: "gcse"
     topic: "shaping-the-nation-8145"
+  - qualification: "gcse"
+    topic: "shaping-the-nation-8145"
+    subtopic: "stn-section-b-british-depth-studies-8145"
 description: "Revision notes for AQA GCSE History 8145 Elizabethan England: the Catholic threat, missionaries, plots, Puritans, Mary Queen of Scots and her execution."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"

@@ -5228,15 +5228,19 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     syllabusCode: '8145', syllabusSeries: 'first teaching 2016',
     effectiveFrom: '2016', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
-    source: 'AQA — official specification pages',
-    sourceUrl: 'https://www.aqa.org.uk/subjects/history/gcse/history-8145/specification/subject-content/understanding-the-modern-world', verifiedDate: '2026-09-02',
-    notes: 'Two components: Understanding the Modern World (Paper 1) and Shaping the Nation (Paper 2). Paper 1 Section A (period studies) and Section B (wider world depth studies) named options fetched and verified 2026-09-02 from the official subject-content page. Students study one thematic study (spanning three eras), one period study, two depth studies (one British, one European/wider world), and a historic environment study. British history is a minimum of 40% of assessed content. Paper 2 (Shaping the Nation) named options are not yet itemised here.',
+    source: 'AQA — official GCSE History 8145 specification PDF (Version 1.3, 24 September 2019), subject content sections 3.2 and 3.3',
+    sourceUrl: 'https://www.aqa.org.uk/subjects/history/gcse/history-8145/specification/subject-content/understanding-the-modern-world', verifiedDate: '2026-11-20',
+    notes: 'Two components: Understanding the modern world (Paper 1, specification section 3.2) and Shaping the nation (Paper 2, section 3.3). Both topics and their four numbered sub-headings (3.2.1, 3.2.2, 3.3.1, 3.3.2) checked against the AQA specification PDF (Version 1.3, 24 September 2019) on 2026-11-20. Paper 1 Section A (period studies) and Section B (wider world depth studies) offer named options (AA to AD and BA to BE). Paper 2 Section A (thematic studies) and Section B (British depth studies, with the historic environment embedded) offer named options (AA to AC and BA to BD). Those options are headed by letter codes, not numbers, so they are not entered as subtopics. Students study one thematic study (spanning three eras), one period study, two depth studies (one British, one European/wider world), and a historic environment study. British history is a minimum of 40% of assessed content.',
+    subtopicsComplete: true,
     topics: [
-      { number: 1, name: 'Understanding the Modern World', slug: 'understanding-the-modern-world-8145', subtopics: [
-        { number: '3.2.1', name: 'Section A: Period Studies — choice of America 1840-1895; Germany 1890-1945; Russia 1894-1945; America 1920-1973', slug: 'utmw-section-a-period-studies-8145' },
-        { number: '3.2.2', name: 'Section B: Wider World Depth Studies — choice of Conflict and Tension: WWI, the inter-war years, East and West 1945-72, Asia 1950-75, or the Gulf and Afghanistan 1990-2009', slug: 'utmw-section-b-wider-world-depth-studies-8145' },
+      { number: 1, name: 'Understanding the modern world', slug: 'understanding-the-modern-world-8145', subtopics: [
+        { number: '3.2.1', name: 'Section A: Period studies', slug: 'utmw-section-a-period-studies-8145' },
+        { number: '3.2.2', name: 'Section B: Wider world depth studies', slug: 'utmw-section-b-wider-world-depth-studies-8145' },
       ] },
-      { number: 2, name: 'Shaping the Nation', slug: 'shaping-the-nation-8145', subtopics: [] },
+      { number: 2, name: 'Shaping the nation', slug: 'shaping-the-nation-8145', subtopics: [
+        { number: '3.3.1', name: 'Section A: Thematic studies', slug: 'stn-section-a-thematic-studies-8145' },
+        { number: '3.3.2', name: 'Section B: British depth studies', slug: 'stn-section-b-british-depth-studies-8145' },
+      ] },
     ],
   },
   {

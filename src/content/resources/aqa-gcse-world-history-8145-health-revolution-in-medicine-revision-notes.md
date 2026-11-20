@@ -12,6 +12,9 @@ order: 2.1
 syllabusTopics:
   - qualification: "gcse"
     topic: "shaping-the-nation-8145"
+  - qualification: "gcse"
+    topic: "shaping-the-nation-8145"
+    subtopic: "stn-section-a-thematic-studies-8145"
 description: "Revision notes for AQA GCSE History 8145 Health and the people, Part three: germ theory, surgery, cholera, reformers and the 1848 and 1875 Acts."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
