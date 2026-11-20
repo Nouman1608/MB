@@ -69,6 +69,7 @@ export const DECK_IB_IB_DP_WORLD_HISTORY: FlashcardDeck = {
   boardSlug: 'ib',
   qualificationSlug: 'ib-dp',
   subjectSlug: 'world-history',
+  deckReview: { reviewerSlug: 'azam-siddique', reviewedOn: '2026-11-20' },
   syllabusCode: 'DP History (2028)',
   syllabusSeries: 'First assessment 2028',
   author: 'marlbridge-academic-team',

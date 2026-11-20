@@ -45,6 +45,7 @@ export const DECK_IB_IB_DP_PSYCHOLOGY: FlashcardDeck = {
   boardSlug: 'ib',
   qualificationSlug: 'ib-dp',
   subjectSlug: 'psychology',
+  deckReview: { reviewerSlug: 'kanwal-aslam', reviewedOn: '2026-11-20' },
   syllabusCode: 'DP Psychology (2027)',
   syllabusSeries: 'First assessment 2027',
   author: 'marlbridge-academic-team',
