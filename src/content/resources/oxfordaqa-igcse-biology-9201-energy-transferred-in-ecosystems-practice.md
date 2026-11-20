@@ -128,7 +128,7 @@ For mixed ecology questions, use the [Energy transfer, biomass pyramids and adap
 - only about 10 % of the biomass is transferred from the wheat to the mice
 - some energy and materials are lost from the mice in waste materials
 - respiration supplies energy for living processes such as movement, and much of it is transferred to the surroundings
-- the loss is repeated from mice to hawk, so only about 10 % again reaches the hawk (about 0.1 % of the energy stored by the wheat is the same as 0.001 of the stored energy)
+- the loss is repeated from mice to hawk, so only about 10 % of the mice's biomass (about 1 % of the wheat's biomass) reaches the hawk
 
 ## Where marks are usually lost
 

@@ -113,6 +113,33 @@ Q changes only at the rising clock edge, when it takes the value of D at that mo
 | Rising edge | 0 | 0 |
 | D changes to 1, no edge | 1 | 0 |
 
+## Worked reminder: a three-input circuit
+
+NAND of A and B gives P. P and C go into an XOR gate. The output is X = NOT(A⋅B) ⨁ C.
+
+| A | B | C | P = NOT(A⋅B) | X |
+|---|---|---|---|---|
+| 0 | 0 | 0 | 1 | 1 |
+| 0 | 0 | 1 | 1 | 0 |
+| 0 | 1 | 0 | 1 | 1 |
+| 0 | 1 | 1 | 1 | 0 |
+| 1 | 0 | 0 | 1 | 1 |
+| 1 | 0 | 1 | 1 | 0 |
+| 1 | 1 | 0 | 0 | 0 |
+| 1 | 1 | 1 | 0 | 1 |
+
+Spot check: for A = B = C = 1, P = 0, and 0 ⨁ 1 = 1.
+
+## Full-adder trace method
+
+1. Compute A ⨁ B (the first half-adder sum) and A⋅B (the first carry).
+2. Compute S = (A ⨁ B) ⨁ Cin.
+3. Compute Cin⋅(A ⨁ B) (the second carry).
+4. Compute Cout = A⋅B + Cin⋅(A ⨁ B).
+5. Check that the number of 1s on the inputs equals S + 2 × Cout.
+
+*Example.* A = 0, B = 1, Cin = 1: A ⨁ B = 1, A⋅B = 0, S = 1 ⨁ 1 = 0, Cin⋅(A ⨁ B) = 1, Cout = 0 + 1 = 1. Check: two 1s on the inputs, and S + 2 × Cout = 0 + 2.
+
 ## Exam traps
 
 - **XOR is not OR.** For 1 and 1 the XOR output is 0.

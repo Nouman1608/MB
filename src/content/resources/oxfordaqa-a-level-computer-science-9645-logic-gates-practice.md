@@ -88,7 +88,7 @@ Related pages: [logic gates study guide](/resources/oxfordaqa-a-level-computer-s
 
 **2.** The NAND symbol has a small circle on the output (an AND shape with an inversion circle) [1]. **[1]**
 
-**3.** X = (A̅ + B)⋅C [2: 1 for A̅ + B in a bracket, 1 for ⋅C]. **[2]**
+**3.** X = (A̅ + B)⋅C: the OR of A̅ and B is in a bracket [1] and is ANDed with C [1]. **[2]**
 
 **4.** 2^5 = **32** [1]. **[1]**
 
@@ -130,10 +130,10 @@ All eight rows [1]; NOT(A⋅B) column [1]; B + C column [1]; W column [1]. **[4]
 
 **9. (a)** A ⨁ B = **0** [1]; A⋅B = **1** [1]; S = (0) ⨁ 0 = **0** [1]; Cout = 1 + 0 = **1** [1]. **[4]**
 **(b)** S = **0** [1]; Cout = **1** [1]. (1 + 1 = binary 10.)
-**(c)** Right-hand column: half-adder with 0 and 1 gives S = 1 and C = 0 [1]. Left-hand column: full-adder with 1, 1 and carry in 0 gives S = 0 and Cout = 1 [2: 1 for each]. Result: Cout, S, S = **101** [1] (which is 2 + 3 = 5). **[4]**
+**(c)** Right-hand column: half-adder with 0 and 1 gives S = 1 and C = 0 [1]. Left-hand column: full-adder with 1, 1 and carry in 0 gives S = 0 [1] and Cout = 1 [1]. Result: Cout, S, S = **101** [1] (which is 2 + 3 = 5). **[4]**
 
 **10. (a)** After event 1: **1** [1]. After events 2 and 3: **1** (no change, because the clock did not go high). After event 4: **1** (D was 1) [1]. After event 5: **0** [1]. So the sequence is 1, 1, 1, 1, 0. **[3]**
-**(b)** The flip-flop stores the value of D when the clock goes high [1] and keeps outputting it until the next clock rise, so it remembers a bit [1]. An AND gate's output depends only on its present inputs, so it keeps nothing when they change [accept for the second mark if already stated]. **[2]**
+**(b)** The flip-flop stores the value of D when the clock goes high and keeps outputting it until the next clock rise, so it remembers a bit [1]. An AND gate's output depends only on its present inputs, so it keeps nothing when they change [1]. **[2]**
 
 ## Frequently asked questions
 
