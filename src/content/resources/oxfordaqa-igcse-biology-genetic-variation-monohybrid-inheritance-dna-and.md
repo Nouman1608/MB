@@ -13,6 +13,9 @@ order: 248
 syllabusTopics:
   - qualification: "igcse"
     topic: "inheritance-oxfordaqa-igcse-biology"
+  - qualification: "igcse"
+    topic: "inheritance-oxfordaqa-igcse-biology"
+    subtopic: "genetic-variation-oxfordaqa-igcse-biology"
 description: "Study guide to variation, XX and XY, dominant and recessive alleles, genetic diagrams, family trees, DNA and genetic disorders for OxfordAQA IGCSE Biology."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

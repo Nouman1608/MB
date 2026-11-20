@@ -14,6 +14,9 @@ order: 265
 syllabusTopics:
   - qualification: "a-level"
     topic: "control-oxfordaqa-alevel-biology"
+  - qualification: "a-level"
+    topic: "control-oxfordaqa-alevel-biology"
+    subtopic: "control-systems-involve-stimulus-and-response-oxfordaqa-alevel-biology"
 description: "Study guide to the reflex arc, taxes and kineses, the Pacinian corpuscle and the rods and cones of the retina for OxfordAQA International A-level Biology."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

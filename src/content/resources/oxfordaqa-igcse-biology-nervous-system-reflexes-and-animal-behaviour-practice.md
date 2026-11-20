@@ -13,6 +13,12 @@ order: 243
 syllabusTopics:
   - qualification: "igcse"
     topic: "organisms-interaction-with-the-environment-oxfordaqa-igcse-biology"
+  - qualification: "igcse"
+    topic: "organisms-interaction-with-the-environment-oxfordaqa-igcse-biology"
+    subtopic: "the-human-nervous-system-oxfordaqa-igcse-biology"
+  - qualification: "igcse"
+    topic: "organisms-interaction-with-the-environment-oxfordaqa-igcse-biology"
+    subtopic: "behaviour-oxfordaqa-igcse-biology"
 description: "Original practice questions with worked answers on reflex arcs, courtship, parental care, learning and animal communication for OxfordAQA IGCSE Biology."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

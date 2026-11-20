@@ -13,6 +13,9 @@ order: 248
 syllabusTopics:
   - qualification: "igcse"
     topic: "inheritance-oxfordaqa-igcse-biology"
+  - qualification: "igcse"
+    topic: "inheritance-oxfordaqa-igcse-biology"
+    subtopic: "genetic-variation-oxfordaqa-igcse-biology"
 description: "Original practice questions with worked answers on variation, XX and XY, crosses, family trees, DNA, cystic fibrosis, sickle cell and Down's syndrome."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"

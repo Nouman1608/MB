@@ -13,6 +13,9 @@ order: 244
 syllabusTopics:
   - qualification: "igcse"
     topic: "organisms-interaction-with-the-environment-oxfordaqa-igcse-biology"
+  - qualification: "igcse"
+    topic: "organisms-interaction-with-the-environment-oxfordaqa-igcse-biology"
+    subtopic: "control-of-blood-glucose-oxfordaqa-igcse-biology"
 description: "Study guide to control systems, body temperature, insulin, glucagon and diabetes for OxfordAQA International GCSE Biology (9201), with worked examples."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
