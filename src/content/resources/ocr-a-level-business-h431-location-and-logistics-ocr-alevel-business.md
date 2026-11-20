@@ -84,7 +84,7 @@ Site B is £56,000 a year cheaper, or about £0.93 per unit.
 
 Dividing by 100 gives 3.30 for A and 3.50 for B.
 
-**Evaluation.** B is cheaper and scores slightly higher, but the margin is small. The result is sensitive to the weights and scores, which are judgements. If access to customers were weighted at 30 and cost at 30, A would score 3.40 and B 3.20, so A would win. The scoring method gives a structure, but it gives a false sense of precision.
+**Evaluation.** B is cheaper and scores slightly higher, but the margin is small. The result is sensitive to the weights and scores, which are judgements. If access to customers were weighted at 30 and cost at 30, A would score 3.60 and B 3.30, so A would win. The scoring method gives a structure, but it gives a false sense of precision.
 
 **Recommendation.** If cost and room to expand are the priority, as for a manufacturer that sells to trade customers, B is the better choice. If customers visit the premises, A is better. Tarn sells through retailers and online, so it should choose B, but should check that it can recruit skilled staff in the area.
 
