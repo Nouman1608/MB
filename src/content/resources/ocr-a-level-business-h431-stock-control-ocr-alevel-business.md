@@ -133,7 +133,6 @@ The costs of JIT are less obvious. The business would need weekly or daily deliv
 - **Job production** (one-off items): stock is ordered for each job, so buffer stock is small, but materials may be specialised and have long lead times. Plan orders around the project timetable.
 - **Batch production:** materials are drawn down in batches, and stock of work in progress builds up between stages. Fixed reorder levels and EOQ work well for materials used across many batches.
 - **Flow production:** continuous output needs continuous supply. A stoppage is very costly, so buffer stock or a very reliable JIT system is essential. Kanban is common.
-- **Mass customisation** needs a wide range of components and flexible systems.
 
 The pattern: the more continuous and expensive the production, the greater the cost of a stock-out, so the more careful the stock control must be.
 

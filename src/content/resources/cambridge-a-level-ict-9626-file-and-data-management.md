@@ -50,9 +50,7 @@ A **file type** (or format) tells the computer how the data inside is arranged, 
 | Images | `.jpg`, `.png`, `.gif`, `.svg` | Photographs, graphics; SVG for scalable vector images |
 | Audio | `.mp3`, `.wav`, `.flac` | Music and speech |
 | Video | `.mp4`, `.avi` | Moving pictures with sound |
-| Web | `.html`, `.css` | Web pages |
 | Executable | `.exe` | Programs that run |
-| Compressed | `.zip` | Several files stored in a smaller size |
 
 ## Generic file formats
 
@@ -62,8 +60,6 @@ A **generic file format** can be opened by many different programs, whatever the
 - **Sharing data between different software**: a CSV file can be exported from one database and imported into a spreadsheet from another supplier.
 - **Compatibility across systems**: a PDF looks the same on any device.
 - **Long-term access**: the data can still be opened if the original program is no longer available.
-- **Moving data when software is replaced** or when organisations work together.
-- **Accessibility**: a plain file can be read by assistive tools.
 
 **Limits:** generic formats may lose formatting, formulas or features that are special to one program. A CSV file does not keep colours or several sheets.
 
@@ -82,9 +78,6 @@ A **generic file format** can be opened by many different programs, whatever the
 - Files remain readable in the **long term**, even if a company stops trading.
 - Organisations such as governments and schools avoid **dependence on one supplier**.
 - Different software can read and write the same format, so **sharing** is easier.
-- The specification is public, so developers can check it and build new tools.
-
-**Disadvantages of open formats:** they may lack some advanced features, and may be less well supported by some commercial software.
 
 ## Methods of file access
 
@@ -145,8 +138,8 @@ A **database management system** is the software that creates, stores, protects 
 
 Data is arranged as a **tree**: each record (a "child") has only **one parent**, and a parent can have many children. To reach a record you move down from the top ("root"). It suits data with a natural one-to-many structure, such as a company organisation chart or a file system.
 
-- **Advantages:** simple; fast access along the paths; easy to understand.
-- **Disadvantages:** a child cannot have two parents, so many-to-many relationships are hard to show; changing the structure is difficult; data may be repeated.
+- **Advantages:** simple; fast access along the paths.
+- **Disadvantages:** many-to-many relationships are hard to show; changing the structure is difficult; data may be repeated.
 
 ### Network
 
@@ -187,7 +180,6 @@ A **management information system** collects data from across an organisation, s
 - **Processes** it: sorting, summarising, calculating and comparing with targets or past results.
 - Produces **reports**: summary reports, exception reports (showing only what is outside normal limits) and trends.
 - Provides **query** and **what-if** tools to explore data.
-- Presents information in **tables, graphs and dashboards**.
 - Controls **access** so that each manager sees only the data they need.
 
 ### How organisations use an MIS
@@ -197,10 +189,9 @@ A **management information system** collects data from across an organisation, s
 | Sales | Track sales by product, region and month; compare with targets |
 | Stock control | Show stock levels and flag items that need ordering |
 | Finance | Monitor spending against budget; forecast cash flow |
-| Human resources | Report staff absence and turnover |
 | Senior managers | Overview of the whole business for strategic planning |
 
-**Worked example 3.** A supermarket chain's MIS combines daily till data from every store. An exception report shows only the stores whose sales fell more than 10 per cent below target. The regional manager can then investigate those stores instead of reading hundreds of pages of figures.
+**Worked example 3.** A supermarket chain's MIS combines daily till data from every store. An exception report shows only the stores whose sales fell more than 10 per cent below target, so the manager can investigate those stores.
 
 **Advantages of an MIS:** better and faster decisions; a single view of the organisation; problems are found early; saves managers' time.
 **Disadvantages:** expensive to set up; relies on accurate and complete data; staff need training; managers may rely on it too much; security of the central data must be protected.
@@ -208,18 +199,14 @@ A **management information system** collects data from across an organisation, s
 ## Common mistakes
 
 - Confusing **generic** formats (many programs can open them) with **open-source** formats (the specification is public).
-- Saying that proprietary formats are "worse". They may offer more features but can limit access.
 - Mixing up indexed sequential access (index then block) and direct access (calculated position).
 - Writing that direct access needs the file to be sorted.
-- Describing a hierarchical database as "tables".
 - Describing an MIS as "the same as a database". An MIS uses data from databases to produce information for managers.
-- Giving advantages of relational databases without comparing them with the other types.
 
 ## Exam technique
 
 - **Describe** an access method with the steps: what is stored, how the record is located and what happens next.
 - **Compare** the four DBMS types by structure and the kind of relationships they handle, and link each to a use.
-- For **why** questions, link the reason to the user: "so that files can be opened if the company stops supporting its software".
 - For **MIS**, name the data input, the processing and the output used for a decision.
 
 ## Official syllabus

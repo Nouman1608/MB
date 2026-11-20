@@ -110,8 +110,8 @@ These questions cover section 3.4.1, **Properties and constructions** (G1 to G13
 **5.** **(a)** The perpendicular bisector of AB [1].
 **(b)** A rectangle around the fence with semicircular ends (a "racetrack" shape), including the fence itself [1]; the sides are straight lines 2 m from the fence and each end is a semicircle of radius 2 m centred on the end of the fence [1].
 
-**6.** **(a)** AB = DE, angle ABC = angle DEF, and BC = EF: two sides and the included angle are equal, so the triangles are congruent by **SAS** **[1] [1]**.
-**(b)** Each triangle has a right angle, hypotenuse 13 cm (PR = XZ) and one other equal side (QR = YZ): congruent by **RHS** **[1] [1]**.
+**6.** **(a)** AB = DE, angle ABC = angle DEF, and BC = EF: two sides and the included angle are equal, so the triangles are congruent by **SAS** [1] [1].
+**(b)** Each triangle has a right angle, hypotenuse 13 cm (PR = XZ) and one other equal side (QR = YZ): congruent by **RHS** [1] [1].
 
 **7.** Let angle BAC = a and angle ABC = b. Angles in triangle ABC add to 180°, so angle ACB = 180 − a − b [1]. Angles on the straight line BCD add to 180°, so angle ACD = 180 − angle ACB [1] = 180 − (180 − a − b) = a + b, which is the sum of angle BAC and angle ABC [1].
 

@@ -118,3 +118,9 @@ Related: [Ethics study guide](/resources/cambridge-o-level-commerce-7100-ethics/
 | Fair trade | Fair price and conditions |
 | Misleading advertising | False impression |
 | Harmful disposal | Damage to people or environment |
+
+## Frequently asked questions
+
+**Can something be legal but unethical?** Yes. Ethics asks whether an action is right and fair to everyone affected, not only whether the law allows it.
+
+**Is fair trade the same as charity?** No. Fair trade is a trading system. Producers are paid a fair price for goods, and a premium is paid for community projects.

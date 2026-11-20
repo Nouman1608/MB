@@ -125,3 +125,9 @@ Related: [Warehousing study guide](/resources/cambridge-o-level-commerce-7100-wa
 | Cash and carry | Trade customers collect |
 | RDC | Serves shops in a region |
 | Automation | Robotics, automated sorting, voice picking |
+
+## Frequently asked questions
+
+**Is a bonded warehouse the same as a normal warehouse?** No. It is approved by customs and stores imported goods so that duty is not paid until they are released for sale in the country.
+
+**Do I need to name an example in every answer?** An example helps to show understanding and earns marks when the question asks for it, but always give the explanation first.

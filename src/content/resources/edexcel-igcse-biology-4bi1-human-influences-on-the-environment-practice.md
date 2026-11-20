@@ -81,7 +81,7 @@ Learn the content first with the [human influences on the environment study guid
 **(c)** Carbon monoxide combines with haemoglobin in red blood cells [1]; so haemoglobin carries less oxygen [1]
 *Examiner insight:* "Carbon monoxide takes up the space of oxygen" is acceptable. "It blocks the lungs" is not.
 
-**2.** **(a)** Any two of: water vapour, CFCs [2] (the other three are named in the question stem)
+**2.** **(a)** Water vapour [1]; CFCs (chlorofluorocarbons) [1]
 **(b)** Any one of: cattle farming, rice growing, landfill sites [1]
 **(c)** Greenhouse gases absorb heat radiated from the Earth's surface [1]; they re-radiate some of it back to the Earth [1]; more gas means more heat is trapped, so the average temperature rises [1]
 *Examiner insight:* Write "traps" or "absorbs" heat, not that the gases "reflect the Sun's rays". The mark is for the idea of heat being kept in.

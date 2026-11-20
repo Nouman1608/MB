@@ -139,3 +139,9 @@ Related: [Sources of finance and commercial performance study guide](/resources/
 | Margin | ÷ revenue |
 | Mark-up | ÷ cost |
 | Working capital | Current assets − current liabilities |
+
+## Frequently asked questions
+
+**Do I have to learn the formulas?** The formulas for revenue, gross profit, gross profit margin, net profit, working capital and mark-up appear in the syllabus, so learn them. Always write the formula before substituting numbers.
+
+**What if my percentage is not a whole number?** Give the answer to the accuracy asked for. If the question does not say, one decimal place is sensible, and show the unrounded working.
