@@ -13,6 +13,9 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "algorithms-9210"
+  - qualification: "igcse"
+    topic: "algorithms-9210"
+    subtopic: "representing-algorithms-9210"
 description: "Recall notes for OxfordAQA International GCSE Computer Science 9210 Topic 1: computational thinking, flowcharts, pseudocode, searching, sorting, trace tables."
 author: "marlbridge-academic-team"
 reviewer: "harris-khan"
