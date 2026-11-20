@@ -127,12 +127,12 @@ Titles, SEO titles and descriptions that claim complete coverage ("every topic",
 | Resource | Type | Wording | Verdict | Why |
 | --- | --- | --- | --- | --- |
 | `a-level-edexcel-mathematics-pure-mathematics-1` | study-guides | "Every Topic" | NEEDS_REVIEW | syllabus-wide wording; page maps 1 topic(s) |
-| `aqa-a-level-business-analysing-the-strategic-position-of-a-business-revision-notes` | revision-notes | "covering all" | SUPPORTED_BY_MAPPING | every subtopic of each mapped topic is mapped |
+| `aqa-a-level-business-analysing-the-strategic-position-of-a-business-revision-notes` | revision-notes | "covering all" | NOT_SUPPORTED_BY_MAPPING | analysing-the-strategic-position-of-a-business-aqa-alevel-business: topic-level mapping only, 8 subtopics not listed (OT-1) |
 | `aqa-gcse-economics-8136-subject-guide` | subject-guides | "whole course" | NEEDS_REVIEW | no topic mapping |
 | `aqa-gcse-economics-exam-preparation` | exam-preparation | "whole course" | NEEDS_REVIEW | exam-level claim (papers draw on the whole course); check the wording |
 | `cambridge-igcse-statistics-0479-subject-guide` | subject-guides | "whole course" | NEEDS_REVIEW | no topic mapping |
 | `cambridge-igcse-urdu-language-exercise-5-writing-exercise` | study-guides | "covering every" | NOT_SUPPORTED_BY_MAPPING | paper-1-reading-writing-0539: 1 of 6 subtopics mapped |
-| `cambridge-o-level-urdu-language-3248-exercise-5-writing-exercise` | study-guides | "covering every" | SUPPORTED_BY_MAPPING | every subtopic of each mapped topic is mapped |
+| `cambridge-o-level-urdu-language-3248-exercise-5-writing-exercise` | study-guides | "covering every" | NOT_SUPPORTED_BY_MAPPING | sl-paper-1-reading-writing-3248: 1 of 5 subtopics mapped |
 | `ib-dp-business-management-finance-accounts-revision-notes` | revision-notes | "covering all" | NOT_SUPPORTED_BY_MAPPING | ib-dp-business-unit-3: topic-level mapping only, 9 subtopics not listed (OT-1) |
 | `ib-dp-business-management-syllabus-guide` | study-guides | "every sub-topic" | NOT_SUPPORTED_BY_MAPPING | ib-dp-business-unit-1: topic-level mapping only, 6 subtopics not listed (OT-1); ib-dp-business-unit-2: topic-level mapping only, 7 subtopics not listed (OT-1); ib-dp-business-unit-3: topic-level mapping only, 9 subtopics not listed (OT-1); ib-dp-business-unit-4: topic-level mapping only, 6 subtopics not listed (OT-1); ib-dp-business-unit-5: topic-level mapping only, 9 subtopics not listed (OT-1) |
 | `ib-dp-computer-science-syllabus-guide` | study-guides | "Full syllabus" | NEEDS_REVIEW | syllabus-wide wording; page maps 2 topic(s) |

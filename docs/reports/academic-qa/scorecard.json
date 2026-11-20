@@ -65,8 +65,8 @@
     },
     "searchMetadataCoverageClaims": {
       "NEEDS_REVIEW": 7,
-      "NOT_SUPPORTED_BY_MAPPING": 6,
-      "SUPPORTED_BY_MAPPING": 3
+      "NOT_SUPPORTED_BY_MAPPING": 8,
+      "SUPPORTED_BY_MAPPING": 1
     },
     "gate": {
       "integrity": "enforce",

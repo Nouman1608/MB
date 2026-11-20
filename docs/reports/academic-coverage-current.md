@@ -5,7 +5,7 @@ hand: `npm run coverage:academic-v2` writes this file, [`academic-coverage-curre
 and [`academic-coverage-current.csv`](academic-coverage-current.csv) from one dataset in one run, so all three
 agree. Older reports in this folder are dated historical evidence; see [README.md](README.md).
 
-Data as of **2026-11-19** (the latest date found in the data; no generation timestamp is
+Data as of **2026-11-20** (the latest date found in the data; no generation timestamp is
 written, so an unchanged repository regenerates identical files).
 
 ## Totals
@@ -112,7 +112,7 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 
 - None.
 
-## Stale verification (older than 180 days before 2026-11-19)
+## Stale verification (older than 180 days before 2026-11-20)
 
 - None.
 

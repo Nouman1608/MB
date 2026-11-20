@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T19:14:18.322Z",
+  "generatedAt": "2026-11-20T04:32:05.808Z",
   "reports": [
     {
       "code": "0620",
@@ -83,23 +83,12 @@
       "subjectSlug": "chemistry",
       "syllabusSeries": "Issue 3, September 2024",
       "totalQuestions": 280,
-      "totalSubtopics": 17,
+      "totalSubtopics": 28,
       "coveredSubtopics": 17,
-      "coveragePct": 100,
+      "coveragePct": 61,
       "gaps": [],
       "thin": [],
-      "topicsWithoutTaxonomy": [
-        {
-          "topicNumber": 3,
-          "topicName": "Physical chemistry",
-          "topicSlug": "physical-chemistry-4ch1"
-        },
-        {
-          "topicNumber": 4,
-          "topicName": "Organic chemistry",
-          "topicSlug": "organic-chemistry-4ch1"
-        }
-      ],
+      "topicsWithoutTaxonomy": [],
       "topicOnlyTagged": [
         {
           "topicNumber": 4,
@@ -216,43 +205,12 @@
       "subjectSlug": "mathematics",
       "syllabusSeries": "2025-2027",
       "totalQuestions": 437,
-      "totalSubtopics": 23,
+      "totalSubtopics": 68,
       "coveredSubtopics": 23,
-      "coveragePct": 100,
+      "coveragePct": 34,
       "gaps": [],
       "thin": [],
-      "topicsWithoutTaxonomy": [
-        {
-          "topicNumber": 1,
-          "topicName": "Number",
-          "topicSlug": "number"
-        },
-        {
-          "topicNumber": 3,
-          "topicName": "Coordinate geometry",
-          "topicSlug": "coordinate-geometry"
-        },
-        {
-          "topicNumber": 4,
-          "topicName": "Geometry",
-          "topicSlug": "geometry"
-        },
-        {
-          "topicNumber": 5,
-          "topicName": "Mensuration",
-          "topicSlug": "mensuration"
-        },
-        {
-          "topicNumber": 6,
-          "topicName": "Trigonometry",
-          "topicSlug": "trigonometry"
-        },
-        {
-          "topicNumber": 8,
-          "topicName": "Probability",
-          "topicSlug": "probability"
-        }
-      ],
+      "topicsWithoutTaxonomy": [],
       "topicOnlyTagged": [
         {
           "topicNumber": 3,
@@ -386,41 +344,16 @@
       "subjectSlug": "computer-science",
       "syllabusSeries": "2026-2028",
       "totalQuestions": 161,
-      "totalSubtopics": 7,
+      "totalSubtopics": 21,
       "coveredSubtopics": 7,
-      "coveragePct": 100,
+      "coveragePct": 33,
       "gaps": [],
       "thin": [],
       "topicsWithoutTaxonomy": [
         {
-          "topicNumber": 1,
-          "topicName": "Data representation",
-          "topicSlug": "data-representation-2210"
-        },
-        {
-          "topicNumber": 4,
-          "topicName": "Software",
-          "topicSlug": "software-2210"
-        },
-        {
-          "topicNumber": 5,
-          "topicName": "The internet and its uses",
-          "topicSlug": "the-internet-and-its-uses-2210"
-        },
-        {
-          "topicNumber": 6,
-          "topicName": "Automated and emerging technologies",
-          "topicSlug": "automated-and-emerging-technologies-2210"
-        },
-        {
           "topicNumber": 7,
           "topicName": "Algorithm design and problem-solving",
           "topicSlug": "algorithm-design-and-problem-solving-2210"
-        },
-        {
-          "topicNumber": 8,
-          "topicName": "Programming",
-          "topicSlug": "programming-2210"
         },
         {
           "topicNumber": 9,
@@ -552,52 +485,130 @@
       "subjectSlug": "chemistry",
       "syllabusSeries": "For teaching from September 2016",
       "totalQuestions": 228,
-      "totalSubtopics": 8,
+      "totalSubtopics": 46,
       "coveredSubtopics": 8,
-      "coveragePct": 100,
-      "gaps": [],
+      "coveragePct": 17,
+      "gaps": [
+        {
+          "topicNumber": 2,
+          "topicName": "Bonding, structure, and the properties of matter",
+          "topicSlug": "bonding-structure-and-the-properties-of-matter-8462",
+          "subtopicNumber": "4.2.2.1",
+          "subtopicName": "The three states of matter",
+          "subtopicSlug": "the-three-states-of-matter-8462",
+          "questionCount": 0
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Bonding, structure, and the properties of matter",
+          "topicSlug": "bonding-structure-and-the-properties-of-matter-8462",
+          "subtopicNumber": "4.2.2.2",
+          "subtopicName": "State symbols",
+          "subtopicSlug": "state-symbols-8462",
+          "questionCount": 0
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Bonding, structure, and the properties of matter",
+          "topicSlug": "bonding-structure-and-the-properties-of-matter-8462",
+          "subtopicNumber": "4.2.2.3",
+          "subtopicName": "Properties of ionic compounds",
+          "subtopicSlug": "properties-of-ionic-compounds-8462",
+          "questionCount": 0
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Bonding, structure, and the properties of matter",
+          "topicSlug": "bonding-structure-and-the-properties-of-matter-8462",
+          "subtopicNumber": "4.2.2.4",
+          "subtopicName": "Properties of small molecules",
+          "subtopicSlug": "properties-of-small-molecules-8462",
+          "questionCount": 0
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Bonding, structure, and the properties of matter",
+          "topicSlug": "bonding-structure-and-the-properties-of-matter-8462",
+          "subtopicNumber": "4.2.2.5",
+          "subtopicName": "Polymers",
+          "subtopicSlug": "polymers-8462",
+          "questionCount": 0
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Bonding, structure, and the properties of matter",
+          "topicSlug": "bonding-structure-and-the-properties-of-matter-8462",
+          "subtopicNumber": "4.2.2.6",
+          "subtopicName": "Giant covalent structures",
+          "subtopicSlug": "giant-covalent-structures-8462",
+          "questionCount": 0
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Bonding, structure, and the properties of matter",
+          "topicSlug": "bonding-structure-and-the-properties-of-matter-8462",
+          "subtopicNumber": "4.2.2.7",
+          "subtopicName": "Properties of metals and alloys",
+          "subtopicSlug": "properties-of-metals-and-alloys-8462",
+          "questionCount": 0
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Bonding, structure, and the properties of matter",
+          "topicSlug": "bonding-structure-and-the-properties-of-matter-8462",
+          "subtopicNumber": "4.2.2.8",
+          "subtopicName": "Metals as conductors",
+          "subtopicSlug": "metals-as-conductors-8462",
+          "questionCount": 0
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Bonding, structure, and the properties of matter",
+          "topicSlug": "bonding-structure-and-the-properties-of-matter-8462",
+          "subtopicNumber": "4.2.3.1",
+          "subtopicName": "Diamond",
+          "subtopicSlug": "diamond-8462",
+          "questionCount": 0
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Bonding, structure, and the properties of matter",
+          "topicSlug": "bonding-structure-and-the-properties-of-matter-8462",
+          "subtopicNumber": "4.2.3.2",
+          "subtopicName": "Graphite",
+          "subtopicSlug": "graphite-8462",
+          "questionCount": 0
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Bonding, structure, and the properties of matter",
+          "topicSlug": "bonding-structure-and-the-properties-of-matter-8462",
+          "subtopicNumber": "4.2.3.3",
+          "subtopicName": "Graphene and fullerenes",
+          "subtopicSlug": "graphene-and-fullerenes-8462",
+          "questionCount": 0
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Bonding, structure, and the properties of matter",
+          "topicSlug": "bonding-structure-and-the-properties-of-matter-8462",
+          "subtopicNumber": "4.2.4.1",
+          "subtopicName": "Sizes of particles and their properties",
+          "subtopicSlug": "sizes-of-particles-and-their-properties-8462",
+          "questionCount": 0
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Bonding, structure, and the properties of matter",
+          "topicSlug": "bonding-structure-and-the-properties-of-matter-8462",
+          "subtopicNumber": "4.2.4.2",
+          "subtopicName": "Uses of nanoparticles",
+          "subtopicSlug": "uses-of-nanoparticles-8462",
+          "questionCount": 0
+        }
+      ],
       "thin": [],
       "topicsWithoutTaxonomy": [
-        {
-          "topicNumber": 3,
-          "topicName": "Quantitative chemistry",
-          "topicSlug": "quantitative-chemistry-8462"
-        },
-        {
-          "topicNumber": 4,
-          "topicName": "Chemical changes",
-          "topicSlug": "chemical-changes-8462"
-        },
-        {
-          "topicNumber": 5,
-          "topicName": "Energy changes",
-          "topicSlug": "energy-changes-8462"
-        },
-        {
-          "topicNumber": 6,
-          "topicName": "The rate and extent of chemical change",
-          "topicSlug": "the-rate-and-extent-of-chemical-change-8462"
-        },
-        {
-          "topicNumber": 7,
-          "topicName": "Organic chemistry",
-          "topicSlug": "organic-chemistry-8462"
-        },
-        {
-          "topicNumber": 8,
-          "topicName": "Chemical analysis",
-          "topicSlug": "chemical-analysis-8462"
-        },
-        {
-          "topicNumber": 9,
-          "topicName": "Chemistry of the atmosphere",
-          "topicSlug": "chemistry-of-the-atmosphere-8462"
-        },
-        {
-          "topicNumber": 10,
-          "topicName": "Using resources",
-          "topicSlug": "using-resources-8462"
-        },
         {
           "topicNumber": 11,
           "topicName": "Key ideas",
@@ -701,9 +712,9 @@
       "subjectSlug": "mathematics",
       "syllabusSeries": "For first teaching 2015",
       "totalQuestions": 150,
-      "totalSubtopics": 7,
+      "totalSubtopics": 10,
       "coveredSubtopics": 7,
-      "coveragePct": 100,
+      "coveragePct": 70,
       "gaps": [],
       "thin": [],
       "topicsWithoutTaxonomy": [
@@ -711,11 +722,6 @@
           "topicNumber": 3,
           "topicName": "Ratio, proportion and rates of change",
           "topicSlug": "ratio-proportion-and-rates-of-change-aqa-gcse"
-        },
-        {
-          "topicNumber": 4,
-          "topicName": "Geometry and measures",
-          "topicSlug": "geometry-and-measures-aqa-gcse-maths"
         },
         {
           "topicNumber": 5,
