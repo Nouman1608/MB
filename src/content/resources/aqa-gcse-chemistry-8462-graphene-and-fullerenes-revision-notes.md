@@ -119,6 +119,26 @@ nanoparticles.
 
 A ring of 5 or 7 carbon atoms means the diagram shows a fullerene.
 
+## Building a full-mark description
+
+| Form | Say |
+|---|---|
+| Graphene | A single layer of graphite; each carbon bonded to three others in hexagonal rings; one delocalised electron per atom |
+| Buckminsterfullerene | A hollow sphere of 60 carbon atoms, C₆₀, based on hexagonal rings with some five-membered rings |
+| Carbon nanotube | A cylindrical fullerene with a very high length to diameter ratio |
+
+Then link one property to the structure: strong covalent bonds give strength, and delocalised electrons give
+electrical conduction.
+
+## Command words
+
+| Command word | What to write |
+|---|---|
+| Recognise | Name the structure and point to the feature in the diagram or description |
+| Give an example of a use | State the use and the property it depends on |
+| Explain | Link the property to bonding or delocalised electrons |
+| Evaluate | Advantage, risk, and a conclusion |
+
 ## Exam traps
 
 - **"Graphene is a thick layer."** It is one atom thick.

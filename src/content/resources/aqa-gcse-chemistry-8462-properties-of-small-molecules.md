@@ -127,7 +127,7 @@ because of delocalised electrons. Small molecules have neither.
 *Explain why iodine is a solid at 20 °C but chlorine is a gas.*
 
 ```
-Iodine molecules (I2) are larger than chlorine molecules (Cl2).
+Iodine molecules are larger than chlorine molecules.
 The intermolecular forces between larger molecules are stronger.
 More energy is needed to separate iodine molecules, so its melting and boiling points are higher.
 At 20 degrees C iodine is below its melting point (114), so solid;

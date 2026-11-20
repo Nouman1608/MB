@@ -120,7 +120,7 @@ A strike by distribution centre workers would, the employer estimates, lose sale
 - Total cost of the strike = £73,500 + £15,000 = **£88,500**.
 - Net cost after wages saved = £88,500 − £16,000 = **£72,500**.
 
-If the employer settles at 3%, the extra pay is £3m × 0.03 = **£90,000**, which is £30,000 more than offered, but £42,500 less than the net cost of the strike (£72,500 − £30,000). However, a pay rise is a permanent addition to payroll, while a strike's cost is one-off. The strike cost is also an under-estimate, because it ignores lasting damage to customers' trust and staff morale. So the decision depends on the business's ability to afford a permanent increase, on competitors' pay, on how long a dispute might last and on whether other staff will make similar claims. Good relations before the dispute would have made agreement easier.
+If the employer settles at 3%, the extra pay is £3m × 0.03 = **£90,000**, which is £30,000 a year more than the offer. The strike's net cost of £72,500 is about 2.4 times that extra annual cost. However, a pay rise is a permanent addition to payroll, while a strike's cost is one-off. The strike cost is also an under-estimate, because it ignores lasting damage to customers' trust and staff morale. So the decision depends on the business's ability to afford a permanent increase, on competitors' pay, on how long a dispute might last and on whether other staff will make similar claims. Good relations before the dispute would have made agreement easier.
 
 ## Technique for exam questions
 

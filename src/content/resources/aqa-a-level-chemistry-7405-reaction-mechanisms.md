@@ -98,7 +98,7 @@ Checks for each step:
 
 ## Curly arrows
 
-A **curly arrow** shows the movement of **a pair of electrons**. It always has a full head for the AQA specification (you do not need half-headed "fish-hook" arrows for single electrons). The tail of the arrow shows where the electrons come from and the head shows where they go.
+A **curly arrow** shows the movement of **a pair of electrons**. Because it represents an electron pair, it has a full head. You do not need half-headed arrows for single electrons, because curly arrows are not required for radical mechanisms. The tail of the arrow shows where the electrons come from and the head shows where they go.
 
 ### Rules for arrows
 
@@ -172,7 +172,7 @@ It supplies enough energy to break a covalent bond homolytically. Chlorine has a
 No. The arrow shows where the electrons come from. A positive charge means the atom lacks electrons.
 
 **Do I need half-headed arrows?**
-No. The AQA specification does not require curly arrows for radical mechanisms, and uses full-headed arrows for electron pairs elsewhere.
+No. Curly arrows are not required for radical mechanisms, and the arrows used elsewhere in the specification show electron pairs, so they have full heads.
 
 ## Official syllabus
 

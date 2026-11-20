@@ -85,6 +85,26 @@ Nature of goods; urgency; cost; security; distance; reliability of transporter.
 
 **Why is containerisation useful for exporters?** Goods are packed once and moved by ship, train and lorry without being unpacked, so loading is quick and the goods are protected from theft and damage.
 
+## Matching goods to transport
+
+| Goods | Best method | Key reason |
+|---|---|---|
+| Fresh seafood to another continent | Air | Perishable and urgent |
+| Natural gas to cities | Pipeline | Gas moves continuously in large amounts |
+| Bulk grain across the sea | Cargo ship | Cheap for heavy goods; not urgent |
+| Heavy steel across a country | Rail | Heavy, long distance, fixed route fine |
+| A birthday present to a friend in the same town | Courier or van | Small and door-to-door |
+
+## A containerised journey in five steps
+
+1. Truck takes the container from the factory to the rail terminal.
+2. Train carries it to the port.
+3. Crane loads it onto a container ship.
+4. Transshipment at a hub port if needed.
+5. Crane and truck deliver it to the customer.
+
+The goods are not unpacked between steps.
+
 ## Exam traps
 
 - **General answers** with no link to the goods.

@@ -116,6 +116,18 @@ Cost per box = 3,600 ÷ 2,400 = **$1.50**.
 
 If the container is only 75% full, it holds 0.75 × 2,400 = 1,800 boxes, and the cost per box rises to 3,600 ÷ 1,800 = **$2.00**. A full container is cheaper per unit, which is why businesses try to fill them.
 
+## Using more than one method: a journey step by step
+
+Few international deliveries use a single method. *Invented example:* a factory inland in one country exports machine parts to a customer inland in another.
+
+1. A truck collects the container from the factory and takes it to the railway terminal (road: door-to-door).
+2. A freight train carries it to the port (rail: cheap over distance).
+3. A crane lifts the container onto a container ship (sea: cheap, large quantity).
+4. At a hub port the container may be moved to a smaller ship by **transshipment**.
+5. At the destination port a crane lifts it onto a truck, which delivers it to the customer's door (road).
+
+Because the goods stay inside the sealed container throughout, they are not handled again until the customer opens it. This is why containerisation reduces damage, theft and time.
+
 ## Annotated model answer
 
 **Question:** A company in Kenya exports cut flowers to Europe. Explain why air transport is suitable. [4]

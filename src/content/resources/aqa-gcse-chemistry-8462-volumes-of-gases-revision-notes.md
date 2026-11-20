@@ -104,6 +104,19 @@ At room temperature and pressure, 24 dm³ of any gas contains one mole, but its 
 | Oxygen | 32 g |
 | Carbon dioxide | 44 g |
 
+## Method summary for each question type (HT only)
+
+| Question asks for | Steps |
+|---|---|
+| Volume of a given mass of gas | Moles = mass ÷ Mr; volume = moles × 24 |
+| Mass of a given volume of gas | Moles = volume ÷ 24; mass = moles × Mr |
+| Volume of one gas from another | Use the coefficient ratio directly |
+| Volume of gas from a solid reactant | Moles of solid; ratio; × 24 |
+| Mr of a gas | Moles = volume ÷ 24; Mr = mass ÷ moles |
+
+State the conditions (room temperature and pressure) when you quote 24 dm³ per mole, and give the unit with every
+answer.
+
 ## Exam traps
 
 - **Using 24 with cm³** without converting.

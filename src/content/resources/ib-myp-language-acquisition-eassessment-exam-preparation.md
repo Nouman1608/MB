@@ -34,10 +34,12 @@ on the site.
 
 ## Component 1: the on-screen examination (listening, reading, writing)
 
-This component covers three of the four criteria in one sitting -- listening to spoken multimodal
-texts (criterion A), reading written multimodal texts (criterion B), and writing in response to
-multimodal texts (criterion D) -- each worth 24 marks in the eAssessment blueprint (a separate scale
-from the 8-level, 32-mark-total classroom assessment). Because all three are assessed together,
+This component covers three of the four criteria in one sitting of three tasks, each of about 35
+minutes. Tasks 1 and 2 each pair a written-visual text with an audio-visual text and assess listening
+(criterion A) and reading (criterion B) equally, 16 marks each per task, so each task is worth 32 marks.
+Task 3 is writing in response to multimodal texts (criterion D), worth 32 marks. Criteria A, B and D are
+therefore worth 32 marks each, 96 marks in all, in the eAssessment blueprint (a separate scale from the
+8-level, 32-mark-total classroom assessment). Because all three criteria are assessed together,
 exam-preparation time should be distributed across all three skills rather than concentrated on
 whichever feels most comfortable. A practical preparation routine: for listening, practise with
 authentic or course-level audio at your assessed proficiency level and note down key information while
@@ -47,17 +49,16 @@ practise producing short pieces in different registers (formal, informal, social
 different audiences, since criterion D specifically rewards recognising which register a task
 actually calls for.
 
-On duration: IB's published guidance for MYP on-screen examinations generally puts sessions somewhere
-between 1 hour 45 minutes and 2 hours, but the IB does not appear to publish an exact, subject-specific
-figure for Language Acquisition's on-screen paper separately from that general range, as far as public
-sources go -- confirm the precise session length for your sitting with your school's exams office
-rather than assuming a single fixed number.
+On duration: the guide's blueprint puts the on-screen examination at 1 hour 45 minutes in all, three
+tasks of about 35 minutes each. Confirm the exact arrangements for your sitting with your school's exams
+office.
 
 ## Component 2: the speaking examination
 
 Unlike the other three criteria, speaking (criterion C) is assessed separately as an internally
 assessed, IB-moderated interactive task, marked first by your own classroom teacher and then checked
-by the IB against a sample of your school's students. Because it is genuinely interactive rather than
+by the IB against a sample of your school's students. It is worth 32 marks and lasts 15 to 17 minutes,
+including preparation time. Because it is genuinely interactive rather than
 a prepared monologue, the highest-value preparation is practising spontaneous, unscripted
 conversation on topics of personal, local and global interest under time pressure -- rehearsing only
 a fixed set of prepared answers risks being caught out if the actual interaction goes in an unexpected
@@ -67,7 +68,7 @@ realistic preparation method than rehearsing a script.
 
 ## Why treating the two components separately matters
 
-Because all four criteria are independently marked and equally weighted at 24 marks each in the
+Because all four criteria are independently marked and equally weighted at 32 marks each in the
 eAssessment blueprint, strong
 performance on the written on-screen paper does not substitute for oral preparation, and vice versa.
 A student who is confident on paper but has not rehearsed spontaneous speaking under pressure is
@@ -129,10 +130,10 @@ genuinely separate quarter of the total assessment.
 ## Frequently asked questions
 
 **How long is the IB MYP Language Acquisition on-screen exam?**
-IB guidance for MYP on-screen examinations generally puts sessions between 1 hour 45 minutes and 2 hours, but an exact figure for Language Acquisition is not published separately in public sources. Confirm the session length for your sitting with your school's exams office.
+The guide's blueprint gives 1 hour 45 minutes: three tasks of about 35 minutes each. Confirm the arrangements for your sitting with your school's exams office.
 
 **What is in the MYP Language Acquisition on-screen examination?**
-The on-screen exam assesses listening (Criterion A), reading (Criterion B) and writing (Criterion D) in one sitting, each worth 24 marks in the eAssessment blueprint. Speaking (Criterion C) is assessed separately.
+The on-screen exam has three tasks and is worth 96 marks. Tasks 1 and 2 each pair a written-visual text with an audio-visual text and assess listening (Criterion A) and reading (Criterion B), 16 marks each per task. Task 3 is writing in response to multimodal texts (Criterion D), 32 marks. That makes 32 marks each for Criteria A, B and D in the eAssessment blueprint. Speaking (Criterion C) is assessed separately and is worth 32 marks.
 
 **What is the difference between MYP Language Acquisition phases and proficiency levels?**
 Teaching is organised into six phases that do not correspond to age or year group, while eAssessment reports results at three proficiency levels: emergent, capable and proficient. They are two different things, so pitch exam practice at the level your assessment targets.
@@ -145,4 +146,6 @@ Practise spontaneous, unscripted conversation on topics of personal, local and g
 International Baccalaureate Organization, *Middle Years Programme Subject Brief -- Language
 Acquisition*, from 2020, (c) 2020 -- the same source already cited by the
 [full syllabus guide](/resources/ib-myp-language-acquisition-syllabus-guide/), which first described
-the two-component eAssessment structure and the six-phase/three-level system from it.
+the two-component eAssessment structure and the six-phase/three-level system from it. The
+marks and timings for the on-screen examination and the speaking examination come from the International Baccalaureate Organization, Middle Years Programme Language acquisition guide, for use from September 2020/January 2021
+("MYP eAssessment" and "Language acquisition examination blueprint", pages 51 and 52).

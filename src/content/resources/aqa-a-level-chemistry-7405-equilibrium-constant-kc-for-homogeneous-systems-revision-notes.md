@@ -98,6 +98,25 @@ Equilibrium: PCl₅ 0.20, PCl₃ 0.30, Cl₂ 0.30 mol dm⁻³. Kc = 0.30 × 0.30
 - Reason: the position shifts in the endothermic direction on heating, changing the ratio of products to reactants.
 - After a change in concentration the position shifts until the ratio equals Kc again.
 
+## Interpreting the size of Kc
+
+| Value of Kc | Meaning for the position |
+|---|---|
+| Very large (for example 10⁶) | Mostly products at equilibrium |
+| Around 1 | Significant amounts of both |
+| Very small (for example 10⁻⁶) | Mostly reactants at equilibrium |
+
+Kc says how far a reaction goes. It does not say how quickly equilibrium is reached, and it has the same value whether you approach equilibrium from the reactants or the products.
+
+## Checks before you finish a calculation
+
+- Is every concentration an **equilibrium** value?
+- Have you divided moles by the volume in dm³, unless the volume cancels?
+- Does the power on each term match its coefficient?
+- Does your answer for an unknown concentration make sense (not more than the amount that could exist)?
+- Have you given the units, or stated "no units"?
+- Have you kept at least one extra figure until the final line, then rounded to the data's significant figures?
+
 ## Common mistakes
 
 - Reactants on the top of the expression.

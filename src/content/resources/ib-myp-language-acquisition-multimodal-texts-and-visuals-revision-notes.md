@@ -57,17 +57,18 @@ Links: [practice questions](/resources/ib-myp-language-acquisition-multimodal-te
 
 Each criterion: eight achievement levels (1-8) in four bands. Your teacher will share the task-specific clarifications.
 
-## eAssessment facts from the brief
+## eAssessment facts from the brief and the guide
 
 | Component | Objective | Criterion | Marks |
 |---|---|---|---|
-| On-screen examination | Comprehending spoken multimodal texts | A | 24 |
-| On-screen examination | Comprehending written multimodal texts | B | 24 |
-| On-screen examination | Writing in response to multimodal texts | D | 24 |
-| Speaking examination | Speaking in response to multimodal texts | C | 24 |
+| On-screen examination, Tasks 1 and 2 | Comprehending spoken multimodal texts | A | 32 (16 per task) |
+| On-screen examination, Tasks 1 and 2 | Comprehending written multimodal texts | B | 32 (16 per task) |
+| On-screen examination, Task 3 | Writing in response to multimodal texts | D | 32 |
+| Speaking examination | Speaking in response to multimodal texts | C | 32 |
 
-- On-screen examination: three tasks; receptive (A, B) and productive (D).
-- Marks per task may vary by no more than three from the blueprint (so 21 to 27 around each 24).
+- On-screen examination: three tasks of about 35 minutes each (1 hour 45 minutes in all), 96 marks. Tasks 1 and 2 each pair a written-visual text with an audio-visual text and assess A and B equally (receptive); Task 3 assesses D (productive).
+- The distribution of marks may vary by no more than three marks from the blueprint.
+- Speaking: 15 to 17 minutes including preparation time.
 - Speaking: interactive, internally assessed by your class teacher, sample moderated by the IB.
 - Courses assessed at one of three proficiency levels: emergent, capable, proficient.
 - Timing and exact task format: confirm with your school.
@@ -196,7 +197,7 @@ This is not an IB descriptor; your teacher will tell you what your level's tasks
 2. What is the difference between denotation and connotation?
 3. A caption tells you a photo of an empty street shows a curfew, not an early morning. Which text-image relationship is this?
 4. What effect does a low camera angle usually create?
-5. How many marks does the brief's blueprint give the on-screen examination in total?
+5. How many marks does the guide's blueprint give the on-screen examination in total?
 6. By how many marks may the marks in an on-screen task vary from the blueprint?
 7. Which criterion is assessed in the internally assessed, IB-moderated examination?
 8. What are the three steps of Notice -- Connect -- Explain?
@@ -210,7 +211,7 @@ This is not an IB descriptor; your teacher will tell you what your level's tasks
 2. Denotation is what is literally there; connotation is what it suggests.
 3. Anchor -- the words fix the meaning of an open image.
 4. The subject looks strong, powerful or important.
-5. 72 marks (24 each for A, B and D).
+5. 96 marks (32 each for A, B and D).
 6. By no more than three marks.
 7. Criterion C: Speaking.
 8. Notice a detail, connect it to the words, sound or layout, explain its effect and the idea, value or attitude.
@@ -247,4 +248,4 @@ Use the stimulus's information and ideas, but write in your own words and in the
 
 ## Official syllabus
 
-International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Language acquisition*, from 2020 (first eAssessment May 2023/November 2023). Published by the International Baccalaureate Organization, 2020.
+International Baccalaureate Organization, Middle Years Programme Subject Brief -- *Language acquisition*, from 2020 (first eAssessment May 2023/November 2023). Published by the International Baccalaureate Organization, 2020. The eAssessment marks (on-screen examination 96 marks, speaking examination 32 marks) come from the International Baccalaureate Organization, Middle Years Programme Language acquisition guide, for use from September 2020/January 2021 ("MYP eAssessment" and "Language acquisition examination blueprint", pages 51 and 52).
