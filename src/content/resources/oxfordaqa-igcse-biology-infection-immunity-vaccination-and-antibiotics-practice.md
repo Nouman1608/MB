@@ -13,6 +13,7 @@ order: 246
 syllabusTopics:
   - qualification: "igcse"
     topic: "organisms-interaction-with-the-environment-oxfordaqa-igcse-biology"
+    subtopic: "infection-and-response-oxfordaqa-igcse-biology"
 description: "Twelve original questions with worked answers on pathogens, vaccination, antibiotic resistance and the disinfectant practical, OxfordAQA IGCSE Biology."
 author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
