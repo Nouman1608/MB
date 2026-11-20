@@ -13,7 +13,8 @@
  * Not tiered. Written from Marlbridge's own 0478 revision notes and study
  * guides; pseudocode keywords follow the Cambridge pseudocode style used on
  * those pages (assignment ←, DECLARE, FOR ... NEXT, REPEAT ... UNTIL).
- * The 0478 revision notes map to topics only, so no card names a `src`.
+ * Where a subtopic has its own 0478 revision-notes page, a card that restates it names that
+ * page as `src`; most cards are authored and name none.
  *
  * Plain text only (see types.ts).
  */
@@ -193,6 +194,10 @@ export const DECK_CAMBRIDGE_IGCSE_COMPUTER_SCIENCE: FlashcardDeck = {
     ]),
     ...sub('the-internet-and-its-uses', 'digital-currency-0478', '5.2', [
       { n: 1, f: 'What is a blockchain?', b: 'A digital ledger of transactions held as a chain of blocks, shared across many computers. Each block holds transactions, a timestamp, its own hash and the hash of the previous block, so changing a past block breaks the chain and is detected.' },
+      { n: 2, f: 'What is a digital currency, and what is a cryptocurrency?', b: 'A digital currency exists only electronically and is used to buy goods and services, send money or as an investment. A cryptocurrency is a digital currency that uses encryption to secure its records.', src: 'cambridge-igcse-computer-science-0478-digital-currency-revision-notes' },
+      { n: 3, f: 'Why can a blockchain not be altered without being noticed?', b: 'Changing a block changes its hash, but the next block still holds the old hash, so the mismatch shows the change. A cheat would have to recalculate every later block on most of the many copies.', src: 'cambridge-igcse-computer-science-0478-digital-currency-revision-notes' },
+      { n: 4, f: 'Steps by which a digital currency transaction is recorded', b: 'Requested from a wallet, sent to a network of computers, checked as valid, grouped with others into a time-stamped block, given its hash and the previous block’s hash, then added to the chain and all copies updated.', src: 'cambridge-igcse-computer-science-0478-digital-currency-revision-notes' },
+      { n: 5, f: 'Benefits and drawbacks of digital currency', b: 'Benefits: can be sent worldwide, no physical cash, transactions recorded. Drawbacks: value changes quickly, not accepted everywhere, lost keys can mean lost money, and theft and scams.', src: 'cambridge-igcse-computer-science-0478-digital-currency-revision-notes' },
     ]),
     ...sub('the-internet-and-its-uses', 'cyber-security-0478', '5.3', [
       { n: 1, f: 'What is a DDoS attack, and how can it be prevented?', b: 'Distributed denial of service: many computers flood a server with requests so genuine users cannot get through. Defences include a firewall, traffic filtering and proxy servers.' },
@@ -211,6 +216,9 @@ export const DECK_CAMBRIDGE_IGCSE_COMPUTER_SCIENCE: FlashcardDeck = {
     ...sub('automated-and-emerging-technologies', 'robotics-0478', '6.2', [
       { n: 1, f: 'What are the characteristics of a robot?', b: 'It has a mechanical structure (such as arms, wheels or legs), electrical components (sensors, motors, a processor), and it is programmable.' },
       { n: 2, f: 'Give two advantages and two disadvantages of robots in a factory', b: 'Advantages: work non-stop; very consistent and accurate; can work in hazardous places. Disadvantages: high purchase and maintenance cost; cannot cope well with unexpected situations; can cause unemployment.' },
+      { n: 3, f: 'Name the three types of component in a robot’s electrical system', b: 'Sensors collect data from the surroundings, a microprocessor processes it and decides what to do, and actuators (such as motors) produce movement or action.', src: 'cambridge-igcse-computer-science-0478-robotics-revision-notes' },
+      { n: 4, f: 'Why is a greenhouse controller an automated system rather than a robot?', b: 'It has electronics and a program, but no mechanical body that carries out physical tasks. A robot needs a mechanical structure, electrical components and to be programmable.', src: 'cambridge-igcse-computer-science-0478-robotics-revision-notes' },
+      { n: 5, f: 'Give four areas where robots are used, with an example of each', b: 'Industry (welding, painting), transport (driverless vehicles, delivery drones), agriculture (harvesting, spraying), medicine (surgery assistance) and domestic use (vacuuming, mowing).', src: 'cambridge-igcse-computer-science-0478-robotics-revision-notes' },
     ]),
     ...sub('automated-and-emerging-technologies', 'artificial-intelligence-0478', '6.3', [
       { n: 1, f: 'What is artificial intelligence (AI)?', b: 'The ability of a computer system to carry out tasks that normally need human intelligence. An AI system collects data, uses rules to reason about it, and can adapt its behaviour.' },
@@ -245,9 +253,17 @@ export const DECK_CAMBRIDGE_IGCSE_COMPUTER_SCIENCE: FlashcardDeck = {
     ]),
     ...sub('programming-0478', 'arrays-0478', '8.2', [
       { n: 1, f: 'How do you declare and use a 2D array in pseudocode?', b: 'DECLARE Grid : ARRAY[1:3, 1:4] OF INTEGER declares 3 rows and 4 columns. Grid[2, 4] is row 2, column 4. Arrays are usually processed with nested FOR loops.' },
+      { n: 2, f: 'How many elements are in ARRAY[1:30] and in ARRAY[0:4]?', b: 'Upper bound − lower bound + 1: 30 elements and 5 elements. A 2D array has rows × columns elements. State the first index in the declaration.', src: 'cambridge-igcse-computer-science-0478-arrays-revision-notes' },
+      { n: 3, f: 'What is an index, and what happens if it is out of range?', b: 'An index is the number giving an element’s position in an array. An index outside the declared bounds refers to an element that does not exist and causes an error.', src: 'cambridge-igcse-computer-science-0478-arrays-revision-notes' },
+      { n: 4, f: 'How do you find the highest value in an array?', b: 'Set Highest to the first element, loop from the second element to the upper bound, and replace Highest whenever the current element is bigger. For 12, 18, 9, 20, 15 the answer is 20.', src: 'cambridge-igcse-computer-science-0478-arrays-revision-notes' },
+      { n: 5, f: 'How are the loops arranged to process a 2D array?', b: 'A nested loop: the outer loop steps through the rows and the inner loop steps through the columns, for example FOR Row ← 1 TO 3 containing FOR Column ← 1 TO 4.', src: 'cambridge-igcse-computer-science-0478-arrays-revision-notes' },
     ]),
     ...sub('programming-0478', 'file-handling-0478', '8.3', [
       { n: 1, f: 'What are the steps of file handling in pseudocode?', b: 'Open the file (OPENFILE ... FOR READ or FOR WRITE), process it (READFILE or WRITEFILE, testing EOF when reading), then close it (CLOSEFILE). Opening for WRITE replaces the old contents.' },
+      { n: 2, f: 'Why store data in a file rather than in variables?', b: 'Variables are lost when the program ends. A file on secondary storage keeps data after the program ends, can hold large amounts and can be shared with other programs.', src: 'cambridge-igcse-computer-science-0478-file-handling-revision-notes' },
+      { n: 3, f: 'What happens if you open an existing file FOR WRITE?', b: 'Its existing contents are erased. Opening FOR READ requires the file to exist. Only one mode can be used at a time for one file.', src: 'cambridge-igcse-computer-science-0478-file-handling-revision-notes' },
+      { n: 4, f: 'How do you add one item to a file without losing the old data?', b: 'Open the file for READ, read every item into an array, close it, add the new item to the array, then open FOR WRITE, write all the items from the array, and close it.', src: 'cambridge-igcse-computer-science-0478-file-handling-revision-notes' },
+      { n: 5, f: 'Common mistakes with file handling in pseudocode', b: 'Using WRITE to add data (it erases the old contents), forgetting CLOSEFILE, using the wrong mode, and writing the file name without quotation marks (it must be a string).', src: 'cambridge-igcse-computer-science-0478-file-handling-revision-notes' },
     ]),
 
     // 9 Databases

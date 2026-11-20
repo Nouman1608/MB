@@ -108,6 +108,10 @@ export const DECK_CAMBRIDGE_O_LEVEL_MATHEMATICS: FlashcardDeck = {
     ]),
     ...sub('number', 'sets-4024', '1.2', [
       { n: 1, f: 'Sets: formula for n(A ∪ B)', b: 'n(A ∪ B) = n(A) + n(B) − n(A ∩ B)\nn means "number of elements in". Subtract the overlap because it was counted twice.' },
+      { n: 2, f: 'What do ∈, ∉, ⊆, ξ and ∅ mean?', b: '∈ is an element of; ∉ is not an element of; A ⊆ B means A is a subset of B; ξ is the universal set (all numbers being considered); ∅ is the empty set with n(∅) = 0.', src: 'cambridge-o-level-mathematics-4024-sets-revision-notes' },
+      { n: 3, f: 'List the elements of {x: 3 ≤ x < 7, x an integer}', b: '3, 4, 5, 6. The colon means "such that". ≤ includes the end value 3, whereas < leaves out 7.', src: 'cambridge-o-level-mathematics-4024-sets-revision-notes' },
+      { n: 4, f: 'In a group of 36, 21 have a bike and 17 have a scooter. Four have neither. How many have both?', b: 'At least one: 36 − 4 = 32. Both: 21 + 17 − 32 = 6. So bike only is 15, scooter only is 11, both 6, neither 4, which total 36.', src: 'cambridge-o-level-mathematics-4024-sets-revision-notes' },
+      { n: 5, f: 'State the two laws for (A ∪ B)′ and (A ∩ B)′', b: '(A ∪ B)′ = A′ ∩ B′ and (A ∩ B)′ = A′ ∪ B′. The complement of a union is the intersection of the complements, and the complement of an intersection is the union of the complements.', src: 'cambridge-o-level-mathematics-4024-sets-revision-notes' },
     ]),
     ...sub('number', 'powers-and-roots-4024', '1.3', [
       { n: 1, f: 'Which squares and cubes must you recall?', b: 'Squares and their roots from 1 to 15 (1² = 1 up to 15² = 225). Cubes and their roots for 1, 2, 3, 4, 5 and 10: 1, 8, 27, 64, 125 and 1000.', src: POW },
@@ -119,6 +123,10 @@ export const DECK_CAMBRIDGE_O_LEVEL_MATHEMATICS: FlashcardDeck = {
     ]),
     ...sub('number', 'fractions-decimals-and-percentages-4024', '1.4', [
       { n: 1, f: 'Write 0.6̇3̇ (0.6363…) as a fraction', b: 'x = 0.6363…, so 100x = 63.6363…\nSubtract: 99x = 63\nx = 63/99 = 7/11' },
+      { n: 2, f: 'Give 1/8, 3/8 and 1/20 as decimals and percentages', b: '1/8 = 0.125 = 12.5%. 3/8 = 0.375 = 37.5%. 1/20 = 0.05 = 5%. Multiply a decimal by 100 to get a percentage.', src: 'cambridge-o-level-mathematics-4024-fractions-decimals-and-percentages-revision-notes' },
+      { n: 3, f: 'How can you tell whether a fraction is a terminating or a recurring decimal without dividing?', b: 'Cancel to simplest form, then factorise the denominator. Only the prime factors 2 and 5 give a terminating decimal: 7/20 (2² × 5) terminates, 4/15 (3 × 5) recurs.', src: 'cambridge-o-level-mathematics-4024-fractions-decimals-and-percentages-revision-notes' },
+      { n: 4, f: 'How is 0.1232323… written with recurring notation?', b: '0.12̇3̇. Dots go over the first and last digits of the repeating block, here the 23. The 1 does not repeat, so it has no dot.', src: 'cambridge-o-level-mathematics-4024-fractions-decimals-and-percentages-revision-notes' },
+      { n: 5, f: 'Convert 11/4 to a mixed number and 2 3/4 to an improper fraction', b: '11 ÷ 4 = 2 remainder 3, so 11/4 = 2 3/4. Back: whole × denominator + numerator = 2 × 4 + 3 = 11, so 2 3/4 = 11/4.', src: 'cambridge-o-level-mathematics-4024-fractions-decimals-and-percentages-revision-notes' },
     ]),
     ...sub('number', 'ordering-4024', '1.5', [
       { n: 1, f: 'What do the symbols =, ≠, >, <, ≥ and ≤ mean?', b: '= equal to; ≠ not equal to; > greater than; < less than; ≥ greater than or equal to; ≤ less than or equal to. Only ≥ and ≤ include the end value.', src: ORD },
@@ -138,9 +146,17 @@ export const DECK_CAMBRIDGE_O_LEVEL_MATHEMATICS: FlashcardDeck = {
     ]),
     ...sub('number', 'indices-i-4024', '1.7', [
       { n: 1, f: 'Index rules for zero, negative and fractional powers', b: 'a⁰ = 1\na⁻ⁿ = 1/aⁿ\na^(m/n) = (ⁿ√a)ᵐ: take the root first, then the power.\nExample: 64^(2/3) = 4² = 16.' },
+      { n: 2, f: 'Work out 3⁵ × 3⁻² ÷ 3⁴', b: 'Add indices for multiplying and subtract for dividing, since the base is the same: 3^(5 − 2 − 4) = 3⁻¹ = 1/3.', src: 'cambridge-o-level-mathematics-4024-indices-i-revision-notes' },
+      { n: 3, f: 'Work out 27^(−2/3), giving the steps in order', b: 'Negative: take the reciprocal. Denominator: take the cube root, ∛27 = 3. Numerator: square it, 3² = 9. So 27^(−2/3) = 1/9.', src: 'cambridge-o-level-mathematics-4024-indices-i-revision-notes' },
+      { n: 4, f: 'Work out (1/4)^(−3/2) and (2/3)⁻²', b: 'A negative index flips the fraction. (1/4)^(−3/2) = 4^(3/2) = (√4)³ = 8. (2/3)⁻² = (3/2)² = 9/4.', src: 'cambridge-o-level-mathematics-4024-indices-i-revision-notes' },
+      { n: 5, f: 'Solve 4ⁿ = 8 and 2ⁿ = 1/32', b: 'Match the bases. 4ⁿ = 8 gives 2²ⁿ = 2³, so n = 3/2. 1/32 = 2⁻⁵, so n = −5.', src: 'cambridge-o-level-mathematics-4024-indices-i-revision-notes' },
     ]),
     ...sub('number', 'standard-form-4024', '1.8', [
       { n: 1, f: 'Standard form', b: 'A × 10ⁿ, where 1 ≤ A < 10 and n is an integer.\nExamples: 45 000 000 = 4.5 × 10⁷; 0.00306 = 3.06 × 10⁻³.\n30 × 10⁴ is not in standard form: write 3 × 10⁵.' },
+      { n: 2, f: 'Write 450 000 and 0.00072 in standard form. How does the sign of n relate to the size of the number?', b: '450 000 = 4.5 × 10⁵ and 0.00072 = 7.2 × 10⁻⁴. A number of 10 or more has positive n; a number below 1 has negative n; a number from 1 up to 10 has n = 0.', src: 'cambridge-o-level-mathematics-4024-standard-form-revision-notes' },
+      { n: 3, f: 'Put 0.62 × 10⁵ and 30 × 10⁹ into standard form', b: '0.62 = 6.2 × 10⁻¹, so 0.62 × 10⁵ = 6.2 × 10⁴. 30 = 3 × 10, so 30 × 10⁹ = 3 × 10¹⁰. Adjust the front number into 1 ≤ A < 10 and change the power to match.', src: 'cambridge-o-level-mathematics-4024-standard-form-revision-notes' },
+      { n: 4, f: 'Work out (3 × 10⁴)(2.5 × 10³) and (9.6 × 10⁷) ÷ (1.2 × 10³)', b: 'Multiply: multiply the fronts and add the powers, 7.5 × 10⁷. Divide: divide the fronts and subtract the powers, 8 × 10⁴. Check that 1 ≤ A < 10 afterwards.', src: 'cambridge-o-level-mathematics-4024-standard-form-revision-notes' },
+      { n: 5, f: 'Work out 3.2 × 10⁵ + 4.5 × 10⁴ and √(1.6 × 10⁷)', b: 'Match the powers to add: 32 × 10⁴ + 4.5 × 10⁴ = 36.5 × 10⁴ = 3.65 × 10⁵. For a square root, write 16 × 10⁶, so the answer is 4 × 10³.', src: 'cambridge-o-level-mathematics-4024-standard-form-revision-notes' },
     ]),
     ...sub('number', 'estimation-4024', '1.9', [
       { n: 1, f: 'How do you estimate a calculation?', b: 'Round every number to 1 significant figure (a root to the nearest perfect square), do the easy calculation and show the rounded values.\nExample: 58.7 × 3.12 ÷ 0.205 ≈ 60 × 3 ÷ 0.2 = 900.', src: EST },
@@ -152,9 +168,17 @@ export const DECK_CAMBRIDGE_O_LEVEL_MATHEMATICS: FlashcardDeck = {
     ]),
     ...sub('number', 'limits-of-accuracy-4024', '1.10', [
       { n: 1, f: 'A length is 847.6 m to 1 decimal place. Write its bounds.', b: '847.55 ≤ l < 847.65\nThe bounds are half a unit (0.05) either side. For the largest a − b or a ÷ b, use the upper bound of a with the lower bound of b.' },
+      { n: 2, f: 'Write the error interval for 4.3 kg (1 d.p.) and for 3 200 (2 s.f.)', b: 'Subtract and add half the rounding unit. 4.3 kg: 4.25 ≤ x < 4.35. 3 200 to 2 s.f. is rounded to the nearest 100: 3 150 ≤ x < 3 250.', src: 'cambridge-o-level-mathematics-4024-limits-of-accuracy-revision-notes' },
+      { n: 3, f: 'Is the upper bound part of the error interval, and is it used in calculations?', b: 'The lower bound is included in the interval but the upper bound is not, e.g. 6.5 ≤ x < 7.5. The upper bound value is still used as the upper bound in calculations.', src: 'cambridge-o-level-mathematics-4024-limits-of-accuracy-revision-notes' },
+      { n: 4, f: 'A rectangle is 15 cm by 9 cm to the nearest cm. Find the largest area and smallest perimeter', b: 'Bounds are 14.5 to 15.5 and 8.5 to 9.5. Largest area: 15.5 × 9.5 = 147.25 cm². Smallest perimeter: 2(14.5 + 8.5) = 46 cm.', src: 'cambridge-o-level-mathematics-4024-limits-of-accuracy-revision-notes' },
+      { n: 5, f: 'Which bounds give the largest and smallest values of speed = distance ÷ time?', b: 'Largest speed: upper bound of distance ÷ lower bound of time. Smallest speed: lower bound of distance ÷ upper bound of time. The divisor works in the opposite direction.', src: 'cambridge-o-level-mathematics-4024-limits-of-accuracy-revision-notes' },
     ]),
     ...sub('number', 'ratio-and-proportion-4024', '1.11', [
       { n: 1, f: 'How do you share an amount in a ratio? (240 in the ratio 3 : 5)', b: '1. Add the parts: 3 + 5 = 8.\n2. One part = 240 ÷ 8 = 30.\n3. Multiply: 3 × 30 = 90 and 5 × 30 = 150.' },
+      { n: 2, f: 'Simplify 1.2 m : 40 cm and 2.5 : 4', b: 'Use the same unit first: 120 : 40 = 3 : 1. For decimals, multiply by 10 to get whole numbers: 25 : 40 = 5 : 8.', src: 'cambridge-o-level-mathematics-4024-ratio-and-proportion-revision-notes' },
+      { n: 3, f: 'Boys : girls = 7 : 5 and there are 35 girls. How many boys?', b: '5 parts = 35, so one part = 7. Boys = 7 × 7 = 49.', src: 'cambridge-o-level-mathematics-4024-ratio-and-proportion-revision-notes' },
+      { n: 4, f: 'Two shares are in the ratio 5 : 3 and differ by 24. Find the shares', b: 'The difference is 2 parts = 24, so one part = 12. The shares are 5 × 12 = 60 and 3 × 12 = 36.', src: 'cambridge-o-level-mathematics-4024-ratio-and-proportion-revision-notes' },
+      { n: 5, f: 'a : b = 2 : 3 and b : c = 4 : 5. Find a : b : c', b: 'Make b the same in both ratios, using 12: a : b = 8 : 12 and b : c = 12 : 15. So a : b : c = 8 : 12 : 15.', src: 'cambridge-o-level-mathematics-4024-ratio-and-proportion-revision-notes' },
     ]),
     ...sub('number', 'rates-4024', '1.12', [
       { n: 1, f: 'Which rate formulas must you know, and which are given in the question?', b: 'You must know speed = distance ÷ time, with distance = speed × time and time = distance ÷ speed. The formulas for density, pressure and population density are given in the question.', src: RATE },
@@ -166,6 +190,10 @@ export const DECK_CAMBRIDGE_O_LEVEL_MATHEMATICS: FlashcardDeck = {
     ]),
     ...sub('number', 'percentages-4024', '1.13', [
       { n: 1, f: 'Reverse percentage: after a 20% discount a coat costs 1920 dollars. Find the original price.', b: 'The multiplier for a 20% decrease is 0.8.\nOriginal = 1920 ÷ 0.8 = 2400 dollars.\nDivide by the multiplier; do not take 20% of the new price.' },
+      { n: 2, f: 'Give the multipliers for +15%, −12% and −7.5%, and use one to find 45% of 360', b: '+15% is 1.15, −12% is 0.88 and −7.5% is 0.925. 45% of 360 uses the multiplier 0.45: 0.45 × 360 = 162.', src: 'cambridge-o-level-mathematics-4024-percentages-revision-notes' },
+      { n: 3, f: 'How do you find a percentage change or percentage loss? Bought for 400 dollars, sold for 340 dollars', b: 'Percentage change = change ÷ original × 100. The loss is 400 − 340 = 60 dollars, a loss of 60 ÷ 400 × 100 = 15% of the cost price.', src: 'cambridge-o-level-mathematics-4024-percentages-revision-notes' },
+      { n: 4, f: 'Find the simple interest on 2 500 dollars at 4% per year for 3 years', b: 'I = P × R × T ÷ 100 = 2 500 × 4 × 3 ÷ 100 = 300 dollars. The interest is the same each year, and the total is 2 800 dollars.', src: 'cambridge-o-level-mathematics-4024-percentages-revision-notes' },
+      { n: 5, f: 'A 15% deposit is paid on 1 840 dollars. Find the deposit and the balance. What is 3.5% commission on 12 400 dollars?', b: 'Deposit: 0.15 × 1 840 = 276 dollars. Balance: 1 840 − 276 = 1 564 dollars. Commission: 0.035 × 12 400 = 434 dollars.', src: 'cambridge-o-level-mathematics-4024-percentages-revision-notes' },
     ]),
     ...sub('number', 'using-a-calculator-4024', '1.14', [
       { n: 1, f: 'Why must you not round part way through a calculation?', b: 'Early rounding loses accuracy. 2.34 × 5.67 × 1.5 = 19.9 to 3 s.f., but rounding 2.34 × 5.67 to 13.3 first gives 13.3 × 1.5 = 20.0. Keep the full value and round only the final answer.', src: CALC },
@@ -193,9 +221,17 @@ export const DECK_CAMBRIDGE_O_LEVEL_MATHEMATICS: FlashcardDeck = {
     ]),
     ...sub('number', 'exponential-growth-and-decay-4024', '1.17', [
       { n: 1, f: 'Compound interest formula', b: 'Amount = P × (1 + r/100)ⁿ\nP = principal, r = rate per year (%), n = number of years. Subtract P to get the interest.\nExample: 480 dollars at 5% for 3 years: 480 × 1.05³ = 555.66 dollars.' },
+      { n: 2, f: 'What is the model for exponential growth and decay, and what multipliers go with +2.5%, −15% and halving?', b: 'Value after n periods = A × rⁿ, where A is the start value and r the multiplier. +2.5% gives 1.025 (growth), −15% gives 0.85 (decay), and halving gives 0.5.', src: 'cambridge-o-level-mathematics-4024-exponential-growth-and-decay-revision-notes' },
+      { n: 3, f: '500 bacteria double every 3 hours. How many are there after 12 hours?', b: 'Match n to the period: 12 ÷ 3 = 4 doublings. 500 × 2⁴ = 8 000.', src: 'cambridge-o-level-mathematics-4024-exponential-growth-and-decay-revision-notes' },
+      { n: 4, f: 'A car worth 18 000 dollars loses 15% of its value each year. Find its value after 3 years', b: 'Multiplier 0.85, so 18 000 × 0.85³ = 11 054.25 dollars. This is depreciation, a fall in value over time.', src: 'cambridge-o-level-mathematics-4024-exponential-growth-and-decay-revision-notes' },
+      { n: 5, f: 'A value falls from 8 000 to 5 832 in 3 years. What is the yearly percentage change?', b: 'r³ = 5 832 ÷ 8 000 = 0.729, so r = 0.9. The multiplier 0.9 is a 10% decrease each year.', src: 'cambridge-o-level-mathematics-4024-exponential-growth-and-decay-revision-notes' },
     ]),
     ...sub('number', 'surds-4024', '1.18', [
       { n: 1, f: 'How do you rationalise a denominator of the form a + √b?', b: 'Multiply top and bottom by a − √b. The denominator becomes a² − b.\nExample: 9/(4 + √7) = 9(4 − √7)/(16 − 7) = 4 − √7.' },
+      { n: 2, f: 'Simplify √72, √200 and √98', b: 'Find the largest square factor. √72 = √(36 × 2) = 6√2. √200 = √(100 × 2) = 10√2. √98 = √(49 × 2) = 7√2.', src: 'cambridge-o-level-mathematics-4024-surds-revision-notes' },
+      { n: 3, f: 'Simplify √75 + √12 − √27', b: 'Simplify each surd first: 5√3 + 2√3 − 3√3. Like surds can then be combined to give 4√3. Unlike surds, such as 3√2 + 2√5, cannot be combined.', src: 'cambridge-o-level-mathematics-4024-surds-revision-notes' },
+      { n: 4, f: 'Expand (2 + √5)² and (5 + √2)(5 − √2)', b: '(2 + √5)² = 4 + 4√5 + 5 = 9 + 4√5. (5 + √2)(5 − √2) = 25 − 2 = 23, because a pair of conjugates gives a² − b.', src: 'cambridge-o-level-mathematics-4024-surds-revision-notes' },
+      { n: 5, f: 'Rationalise 6/√3 and 4/(3 − √5)', b: '6/√3: multiply top and bottom by √3 to get 6√3/3 = 2√3. 4/(3 − √5): multiply by (3 + √5); the denominator becomes 9 − 5 = 4, giving 3 + √5.', src: 'cambridge-o-level-mathematics-4024-surds-revision-notes' },
     ]),
 
     // 2 Algebra and graphs
@@ -296,10 +332,17 @@ export const DECK_CAMBRIDGE_O_LEVEL_MATHEMATICS: FlashcardDeck = {
     ]),
     ...sub('coordinate-geometry', 'drawing-linear-graphs-4024', '3.2', [
       { n: 1, f: 'The lines x = 3 and y = 3: how do they differ?', b: 'x = 3 is vertical, through (3, 0); its gradient is undefined.\ny = 3 is horizontal, through (0, 3); its gradient is 0.' },
+      { n: 2, f: 'Which method do you use to draw y = 4 − 3x, and which for 3x + y = 9?', b: 'y = mx + c form (terms in either order): a table of values with at least 3 points. ax + by = c form: the intercepts (x = 0 and y = 0) plus a check point.', src: 'cambridge-o-level-mathematics-4024-drawing-linear-graphs-revision-notes' },
+      { n: 3, f: 'Complete the table of values for y = 4 − 3x at x = −2 and x = 3, and say what the y values should do', b: 'At x = −2, y = 4 + 6 = 10. At x = 3, y = 4 − 9 = −5. As x goes up by 1, y falls by a constant step of 3, which is the gradient.', src: 'cambridge-o-level-mathematics-4024-drawing-linear-graphs-revision-notes' },
+      { n: 4, f: 'Draw 2x + 3y = 12 using intercepts. What are the points and a check point?', b: 'x = 0 gives (0, 4). y = 0 gives (6, 0). Plot both and join them. A check point such as (3, 2) must lie on the line: 6 + 6 = 12.', src: 'cambridge-o-level-mathematics-4024-drawing-linear-graphs-revision-notes' },
+      { n: 5, f: 'Rearrange x − 2y = 6 into y = mx + c', b: '−2y = −x + 6. Divide every term by −2, flipping every sign: y = x/2 − 3. The gradient is 1/2 and the y-intercept is −3.', src: 'cambridge-o-level-mathematics-4024-drawing-linear-graphs-revision-notes' },
     ]),
     ...sub('coordinate-geometry', 'gradient-of-linear-graphs-4024', '3.3', [
       { n: 1, f: 'Gradient (meaning)', b: 'How much y changes for each 1 unit increase in x. Rising to the right is positive; falling to the right is negative.', src: COORD },
       { n: 2, f: 'Gradient of the line through (x₁, y₁) and (x₂, y₂)', b: 'm = (y₂ − y₁) ÷ (x₂ − x₁)\nSubtract in the same order on top and below.' },
+      { n: 3, f: 'Find the gradient of the line through (0, 5) and (4, −3)', b: '(−3 − 5) ÷ (4 − 0) = −8 ÷ 4 = −2. Subtract the y-values on top and the x-values below in the same order, and keep the sign.', src: 'o-level-mathematics-coordinate-geometry-revision-notes' },
+      { n: 4, f: 'How do you find a gradient from a graph, e.g. a line through A (1, 1) and B (5, 4)?', b: 'Use a triangle with corners on grid crossings. Run 4 along and rise 3 up, so the gradient is 3 ÷ 4 = 0.75.', src: 'o-level-mathematics-coordinate-geometry-revision-notes' },
+      { n: 5, f: 'What are the gradients of a horizontal and a vertical line, and why?', b: 'A horizontal line has gradient 0 because there is no rise. A vertical line has no gradient (undefined) because its run is zero, and you cannot divide by zero.', src: 'o-level-mathematics-coordinate-geometry-revision-notes' },
     ]),
     ...sub('coordinate-geometry', 'length-and-midpoint-4024', '3.4', [
       { n: 1, f: 'Length of the line segment from (x₁, y₁) to (x₂, y₂)', b: '√((x₂ − x₁)² + (y₂ − y₁)²)' },
@@ -309,19 +352,32 @@ export const DECK_CAMBRIDGE_O_LEVEL_MATHEMATICS: FlashcardDeck = {
     ...sub('coordinate-geometry', 'equations-of-linear-graphs-4024', '3.5', [
       { n: 1, f: 'In y = mx + c, what do m and c stand for?', b: 'm is the gradient (the number multiplying x); c is the y-intercept, where the line crosses the y-axis (x = 0).' },
       { n: 2, f: 'Find the gradient and y-intercept of 3x − 4y = 24', b: 'Rearrange: −4y = 24 − 3x, so y = (3/4)x − 6.\nGradient 3/4, y-intercept −6.' },
+      { n: 3, f: 'Find the equation of the line with gradient −3 through (2, −1)', b: 'Substitute into y = mx + c: −1 = −3 × 2 + c, so c = 5. The equation is y = −3x + 5. Check with a second point.', src: 'cambridge-o-level-mathematics-4024-equations-of-linear-graphs-revision-notes' },
+      { n: 4, f: 'Find the equation of the line through (−1, 5) and (3, −3)', b: 'm = (−3 − 5) ÷ (3 − (−1)) = −8 ÷ 4 = −2. Substitute (−1, 5): 5 = 2 + c, so c = 3. The equation is y = −2x + 3.', src: 'cambridge-o-level-mathematics-4024-equations-of-linear-graphs-revision-notes' },
+      { n: 5, f: 'Find the gradient and y-intercept of 2y = 6x − 4 and of x + 2y = 8', b: '2y = 6x − 4 gives y = 3x − 2: gradient 3, y-intercept −2. x + 2y = 8 gives y = −x/2 + 4: gradient −1/2, y-intercept 4. Divide every term.', src: 'cambridge-o-level-mathematics-4024-equations-of-linear-graphs-revision-notes' },
     ]),
     ...sub('coordinate-geometry', 'parallel-lines-4024', '3.6', [
       { n: 1, f: 'Parallel lines and perpendicular lines: gradient rules', b: 'Parallel: equal gradients, m₁ = m₂.\nPerpendicular: m₁ × m₂ = −1, so the perpendicular gradient is −1/m (flip the fraction and change the sign).' },
       { n: 2, f: 'Find the line parallel to y = 3x + 1 through (2, 5)', b: 'Gradient 3. Substitute: 5 = 3 × 2 + c, so c = −1.\ny = 3x − 1' },
+      { n: 3, f: 'What is the gradient of 3x + 2y = 7, and what shortcut is there for ax + by = c?', b: 'Rearrange to y = −3x/2 + 7/2, so the gradient is −3/2. In general the gradient of ax + by = c is −a/b.', src: 'cambridge-o-level-mathematics-4024-parallel-lines-revision-notes' },
+      { n: 4, f: 'Use the shortcut to find the line parallel to 5x − 2y = 9 through (3, −1)', b: 'A parallel line has the same left side; only the right side changes. 5(3) − 2(−1) = 17, so the line is 5x − 2y = 17.', src: 'cambridge-o-level-mathematics-4024-parallel-lines-revision-notes' },
+      { n: 5, f: 'Give the line through (a, b) parallel to the x-axis, and the line through (a, b) parallel to the y-axis', b: 'Parallel to the x-axis: y = b (horizontal, gradient 0). Parallel to the y-axis: x = a (vertical, gradient undefined).', src: 'cambridge-o-level-mathematics-4024-parallel-lines-revision-notes' },
     ]),
     ...sub('coordinate-geometry', 'perpendicular-lines-4024', '3.7', [
       { n: 1, f: 'Perpendicular bisector (meaning)', b: 'A line that cuts a line segment in half at 90°.', src: COORD },
       { n: 2, f: 'How do you find the equation of the perpendicular bisector of PQ?', b: '1. Find the midpoint of PQ.\n2. Find the gradient of PQ.\n3. Take the perpendicular gradient −1/m.\n4. Use y − y₁ = m(x − x₁) through the midpoint.' },
+      { n: 3, f: 'Write down the gradient perpendicular to 4 and to −5', b: 'Flip the fraction and change the sign. A gradient of 4 (as 4/1) becomes −1/4. A gradient of −5 becomes 1/5. The two gradients multiply to −1.', src: 'o-level-mathematics-coordinate-geometry-revision-notes' },
+      { n: 4, f: 'How do you prove that AB is perpendicular to BC for A(1, 1), B(5, 3), C(3, 7)?', b: 'Gradient of AB = 2/4 = 1/2. Gradient of BC = 4/(−2) = −2. The product is 1/2 × (−2) = −1, so AB and BC are perpendicular. Write the conclusion.', src: 'o-level-mathematics-coordinate-geometry-revision-notes' },
+      { n: 5, f: 'Find the perpendicular bisector of the line joining A(−3, 8) and B(9, −2)', b: 'Midpoint M(3, 3). Gradient of AB = −10/12 = −5/6, so the perpendicular gradient is 6/5. Then y − 3 = 6/5(x − 3), giving y = 6x/5 − 3/5.', src: 'o-level-mathematics-coordinate-geometry-revision-notes' },
     ]),
 
     // 4 Geometry
     ...sub('geometry', 'geometrical-terms-4024', '4.1', [
       { n: 1, f: 'Sector and segment of a circle', b: 'Sector: bounded by two radii and an arc.\nSegment: bounded by a chord and an arc.', src: GEOM },
+      { n: 2, f: 'Similar vs congruent shapes', b: 'Similar: the same shape, with lengths in a constant ratio (the scale factor). Congruent: the same shape and the same size.', src: 'o-level-mathematics-geometry-revision-notes' },
+      { n: 3, f: 'Chord vs diameter', b: 'A chord is any line joining two points on a circle. A diameter is a chord that passes through the centre, so it is the longest chord.', src: 'o-level-mathematics-geometry-revision-notes' },
+      { n: 4, f: 'Give a key fact for a parallelogram, a rhombus, a kite and a trapezium', b: 'Parallelogram: opposite sides parallel and equal, opposite angles equal. Rhombus: four equal sides, diagonals bisect at right angles. Kite: two pairs of adjacent equal sides. Trapezium: one pair of parallel sides.', src: 'o-level-mathematics-geometry-revision-notes' },
+      { n: 5, f: 'What faces are in the nets of a cube, a triangular prism and a square-based pyramid?', b: 'Cube: 6 square faces. Triangular prism: 2 triangles and 3 rectangles. Square-based pyramid: 1 square and 4 triangles. Surface area is the sum of the areas of all the faces.', src: 'o-level-mathematics-geometry-revision-notes' },
     ]),
     ...sub('geometry', 'geometrical-constructions-4024', '4.2', [
       { n: 1, f: 'How do you construct a triangle from its three sides?', b: '1. Draw the longest side as the base with a ruler. 2. With compasses set to the second side, draw an arc from one end. 3. Set to the third side and draw an arc from the other end. 4. Join both ends to where the arcs cross. Leave all arcs.', src: CONS },
@@ -333,6 +389,10 @@ export const DECK_CAMBRIDGE_O_LEVEL_MATHEMATICS: FlashcardDeck = {
     ]),
     ...sub('geometry', 'scale-drawings-4024', '4.3', [
       { n: 1, f: 'Bearings: the rules, and the back bearing of 296°', b: 'Measured clockwise from north, written with three figures (for example 040°).\nBack bearing: add 180° if under 180°, subtract 180° if 180° or more. 296° − 180° = 116°.' },
+      { n: 2, f: 'What real distance does 1 cm represent on maps of scale 1 : 25 000 and 1 : 100 000?', b: 'Real length = drawn length × scale number. 1 : 25 000: 25 000 cm = 250 m. 1 : 100 000: 100 000 cm = 1 km.', src: 'cambridge-o-level-mathematics-4024-scale-drawings-revision-notes' },
+      { n: 3, f: 'On a map 1 cm represents 2 km. What does 1 cm² represent?', b: 'Areas use the square of the length scale: 2² = 4, so 1 cm² represents 4 km².', src: 'cambridge-o-level-mathematics-4024-scale-drawings-revision-notes' },
+      { n: 4, f: 'Give the bearings of the compass points E, S, SW and NW', b: 'E is 090°, S is 180°, SW is 225° and NW is 315° (N is 000°). Always measure clockwise from north and write three figures.', src: 'cambridge-o-level-mathematics-4024-scale-drawings-revision-notes' },
+      { n: 5, f: 'Why do a bearing and its back bearing differ by 180°?', b: 'The north lines at the two points are parallel, so the two bearing angles are co-interior angles and add up to 180°. For example, 072° has back bearing 252°.', src: 'cambridge-o-level-mathematics-4024-scale-drawings-revision-notes' },
     ]),
     ...sub('geometry', 'similarity-4024', '4.4', [
       { n: 1, f: 'Similar and congruent shapes', b: 'Similar: same shape, with lengths in a constant ratio.\nCongruent: same shape and same size.', src: GEOM },
@@ -359,19 +419,33 @@ export const DECK_CAMBRIDGE_O_LEVEL_MATHEMATICS: FlashcardDeck = {
     ]),
     ...sub('geometry', 'circle-theorems-ii-4024', '4.8', [
       { n: 1, f: 'A circle has diameter 26 cm. A chord is 10 cm long. How far is the chord from the centre?', b: 'The perpendicular from the centre bisects the chord. Radius 13, half-chord 5.\nDistance = √(13² − 5²) = √144 = 12 cm.' },
+      { n: 2, f: 'State the three symmetry properties of circles in the syllabus', b: 'Equal chords are equidistant from the centre. The perpendicular bisector of a chord passes through the centre. Tangents from an external point are equal in length.', src: 'cambridge-o-level-mathematics-4024-circle-theorems-ii-revision-notes' },
+      { n: 3, f: 'A circle has radius 10 cm and a chord is 6 cm from the centre. How long is the chord?', b: 'The perpendicular from the centre bisects the chord. Half-chord = √(10² − 6²) = √64 = 8, so the chord is 2 × 8 = 16 cm. Remember to double.', src: 'cambridge-o-level-mathematics-4024-circle-theorems-ii-revision-notes' },
+      { n: 4, f: 'A tangent from P touches a circle of radius 8 at A. OP = 17. Find PA', b: 'The radius OA meets the tangent at 90°, so triangle OAP is right-angled at A. PA² = OP² − r² = 289 − 64 = 225, so PA = 15.', src: 'cambridge-o-level-mathematics-4024-circle-theorems-ii-revision-notes' },
+      { n: 5, f: 'Why do angle AOB and angle APB add to 180° for tangents PA and PB from P?', b: 'OAPB is a kite with right angles at A and B, because a tangent meets the radius at 90°. The four angles total 360°, so the other two angles add to 180°.', src: 'cambridge-o-level-mathematics-4024-circle-theorems-ii-revision-notes' },
     ]),
 
     // 5 Mensuration
     ...sub('mensuration', 'units-of-measure-4024', '5.1', [
       { n: 1, f: 'Area and volume unit conversions: m² to cm², m³ to cm³', b: '1 m² = 100² = 10 000 cm².\n1 m³ = 100³ = 1 000 000 cm³.\nSquare the length factor for area; cube it for volume.' },
       { n: 2, f: 'Capacity conversions', b: '1 cm³ = 1 ml.\n1 litre = 1000 cm³.\n1 m³ = 1000 litres.' },
+      { n: 3, f: 'Convert 3.6 m² to cm² and 450 000 cm² to m²', b: '1 m² = 10 000 cm². Going to a smaller unit, multiply: 3.6 × 10 000 = 36 000 cm². Going to a larger unit, divide: 450 000 ÷ 10 000 = 45 m².', src: 'cambridge-o-level-mathematics-4024-units-of-measure-revision-notes' },
+      { n: 4, f: 'Convert 720 000 cm³ to litres and 2.4 m³ to litres', b: '1000 cm³ = 1 litre, so 720 000 ÷ 1000 = 720 litres. 1 m³ = 1000 litres, so 2.4 × 1000 = 2400 litres.', src: 'cambridge-o-level-mathematics-4024-units-of-measure-revision-notes' },
+      { n: 5, f: 'How many m² are in 1 km², and how many mm³ in 1 cm³?', b: '1 km = 1000 m, so 1 km² = 1000² = 1 000 000 m². 1 cm = 10 mm, so 1 cm³ = 10³ = 1000 mm³. Area factor is the length factor squared; volume factor is cubed.', src: 'cambridge-o-level-mathematics-4024-units-of-measure-revision-notes' },
     ]),
     ...sub('mensuration', 'area-and-perimeter-4024', '5.2', [
       { n: 1, f: 'Area of a trapezium', b: '½(a + b)h, where a and b are the parallel sides and h is the perpendicular height between them.' },
+      { n: 2, f: "Which area formula is given in the exam, and what are the parallelogram's area and perimeter?", b: 'Only the area of a triangle, ½ × b × h, is given; learn the rest. A parallelogram has area b × h (perpendicular height) and perimeter 2(a + b).', src: 'cambridge-o-level-mathematics-4024-area-and-perimeter-revision-notes' },
+      { n: 3, f: 'A triangle has area 54 and base 9. A trapezium has area 91 and parallel sides 9 and 17. Find each height', b: 'Triangle: ½ × 9 × h = 54, so h = 12. Trapezium: ½ × (9 + 17) × h = 91, so 13h = 91 and h = 7.', src: 'cambridge-o-level-mathematics-4024-area-and-perimeter-revision-notes' },
+      { n: 4, f: 'Find the area of an isosceles triangle with sides 10, 10 and 12', b: 'Split it in half: base 6, hypotenuse 10, so the height is √(10² − 6²) = √64 = 8. Area = ½ × 12 × 8 = 48 square units.', src: 'cambridge-o-level-mathematics-4024-area-and-perimeter-revision-notes' },
+      { n: 5, f: 'How do you find the area of a path of width w around a rectangle?', b: "Path area = outer area − inner area. The outer rectangle is (length + 2w) by (breadth + 2w). Subtract the original rectangle's area.", src: 'cambridge-o-level-mathematics-4024-area-and-perimeter-revision-notes' },
     ]),
     ...sub('mensuration', 'circles-arcs-and-sectors-4024', '5.3', [
       { n: 1, f: 'Arc length and sector area for angle θ', b: 'Arc length = (θ/360) × 2πr.\nSector area = (θ/360) × πr².\nThe perimeter of a sector is the arc length + 2r.' },
       { n: 2, f: 'A sector has radius 8 cm and angle 135°. Find the arc length and area in terms of π.', b: 'Fraction = 135/360 = 3/8.\nArc = 3/8 × 16π = 6π cm.\nArea = 3/8 × 64π = 24π cm².' },
+      { n: 3, f: 'A sector has area 12π cm² and angle 120°. Find the radius', b: 'Fraction = 120/360 = 1/3. So 1/3 × πr² = 12π, giving r² = 36 and r = 6 cm. Form an equation in r² and solve.', src: 'cambridge-o-level-mathematics-4024-circles-arcs-and-sectors-revision-notes' },
+      { n: 4, f: 'A major sector has radius 6 cm and angle 250°. Find the arc length and area in terms of π', b: 'Fraction = 250/360 = 25/36. Arc = 25/36 × 12π = 25π/3 cm. Area = 25/36 × 36π = 25π cm².', src: 'cambridge-o-level-mathematics-4024-circles-arcs-and-sectors-revision-notes' },
+      { n: 5, f: 'How do you find the area of a ring, and what is the outer radius of a path of width w around a circle of radius r?', b: 'Ring area = πR² − πr²: subtract the areas, not the radii. A path of width w around a circle of radius r has outer radius r + w.', src: 'cambridge-o-level-mathematics-4024-circles-arcs-and-sectors-revision-notes' },
     ]),
     ...sub('mensuration', 'surface-area-and-volume-4024', '5.4', [
       { n: 1, f: 'Volume and curved surface area of a cone', b: 'Volume = ⅓πr²h (h = perpendicular height).\nCurved surface area = πrl (l = slant height).' },
@@ -383,16 +457,26 @@ export const DECK_CAMBRIDGE_O_LEVEL_MATHEMATICS: FlashcardDeck = {
     ]),
     ...sub('mensuration', 'compound-shapes-and-parts-of-shapes-4024', '5.5', [
       { n: 1, f: 'How do you find the volume of a frustum?', b: 'A frustum is a cone (or pyramid) with the top cut off parallel to the base. Volume = volume of the whole cone − volume of the small cone removed (the two cones are similar).' },
+      { n: 2, f: 'A rectangle has a semicircle on one side. How do you find the area and the perimeter?', b: 'Area = rectangle + ½πr². Perimeter = the three straight sides + πr, leaving out the join where the semicircle meets the rectangle.', src: 'cambridge-o-level-mathematics-4024-compound-shapes-and-parts-of-shapes-revision-notes' },
+      { n: 3, f: 'How do you find the area of a segment?', b: 'Area of the sector minus the area of the triangle formed by the two radii and the chord. At 90° this is πr²/4 − r²/2.', src: 'cambridge-o-level-mathematics-4024-compound-shapes-and-parts-of-shapes-revision-notes' },
+      { n: 4, f: 'Which surfaces do you count in the surface area of a compound solid?', b: 'Only the outside surfaces. Faces where two solids are joined are not counted. Use Pythagoras for any slant height.', src: 'cambridge-o-level-mathematics-4024-compound-shapes-and-parts-of-shapes-revision-notes' },
+      { n: 5, f: 'Give the volume of a cylinder with a hemisphere on top', b: 'πr²h + ⅔πr³, where the cylinder has radius r and height h and the hemisphere has the same radius. The surfaces counted are the cylinder base, the cylinder curved surface and the hemisphere curved surface.', src: 'cambridge-o-level-mathematics-4024-compound-shapes-and-parts-of-shapes-revision-notes' },
     ]),
 
     // 6 Trigonometry
     ...sub('trigonometry', 'pythagoras-theorem-4024', '6.1', [
       { n: 1, f: "Pythagoras' theorem", b: 'In a right-angled triangle with hypotenuse c: a² + b² = c².\nAdd the squares to find the hypotenuse; subtract to find a shorter side.' },
       { n: 2, f: '4024 accuracy for answers on the calculator paper', b: 'Non-exact answers to 3 significant figures and angles in degrees to 1 decimal place, unless the question says otherwise. Do not round until the final answer.' },
+      { n: 3, f: 'Name four Pythagorean triples and some multiples', b: '3, 4, 5 (6, 8, 10 and 9, 12, 15). 5, 12, 13 (10, 24, 26). 8, 15, 17 (16, 30, 34). 7, 24, 25 (14, 48, 50). Recognising them saves working.', src: 'cambridge-o-level-mathematics-4024-pythagoras-theorem-revision-notes' },
+      { n: 4, f: 'How do you test whether a triangle with sides 7, 9 and 12 is right-angled?', b: 'Square the longest side and compare with the sum of the other two squares. 49 + 81 = 130 but 12² = 144, which are not equal, so it is not right-angled.', src: 'cambridge-o-level-mathematics-4024-pythagoras-theorem-revision-notes' },
+      { n: 5, f: 'Find the height of an equilateral triangle of side 8', b: 'Half the base is 4, so h² = 8² − 4² = 48 and h = √48 = 4√3, about 6.93. The height splits the triangle into two right-angled triangles.', src: 'cambridge-o-level-mathematics-4024-pythagoras-theorem-revision-notes' },
     ]),
     ...sub('trigonometry', 'right-angled-triangles-4024', '6.2', [
       { n: 1, f: 'sin θ, cos θ and tan θ in a right-angled triangle', b: 'sin θ = opposite/hypotenuse\ncos θ = adjacent/hypotenuse\ntan θ = opposite/adjacent' },
       { n: 2, f: 'Angle of elevation and angle of depression', b: 'Both are measured from the horizontal: elevation upwards to the line of sight, depression downwards. The depression from A to B equals the elevation from B to A (alternate angles).' },
+      { n: 3, f: 'Which ratio do you choose if you know the opposite and the hypotenuse? The adjacent and the hypotenuse? The opposite and the adjacent?', b: 'Opposite and hypotenuse: sin. Adjacent and hypotenuse: cos. Opposite and adjacent: tan. SOH CAH TOA.', src: 'cambridge-o-level-mathematics-4024-right-angled-triangles-revision-notes' },
+      { n: 4, f: 'Find the hypotenuse when the angle is 30° and the opposite side is 7 cm', b: 'sin 30° = 7 ÷ H. When the unknown is the denominator, divide: H = 7 ÷ sin 30° = 7 ÷ 0.5 = 14 cm.', src: 'cambridge-o-level-mathematics-4024-right-angled-triangles-revision-notes' },
+      { n: 5, f: 'If tan θ = 5/12, find θ and the other acute angle', b: 'θ = tan⁻¹(5/12) = 22.6° to 1 decimal place. The other acute angle is 90° − 22.6° = 67.4°.', src: 'cambridge-o-level-mathematics-4024-right-angled-triangles-revision-notes' },
     ]),
     ...sub('trigonometry', 'non-right-angled-triangles-4024', '6.3', [
       { n: 1, f: 'The sine rule', b: 'a/sin A = b/sin B = c/sin C\n(side a is opposite angle A). Use it when you know a side and its opposite angle.' },
@@ -405,6 +489,9 @@ export const DECK_CAMBRIDGE_O_LEVEL_MATHEMATICS: FlashcardDeck = {
     ...sub('trigonometry', 'pythagoras-theorem-and-trigonometry-4024', '6.4', [
       { n: 1, f: 'Space diagonal of a cuboid l × w × h', b: '√(l² + w² + h²)\nExample: 4 × 3 × 12 cm gives √(16 + 9 + 144) = 13 cm.' },
       { n: 2, f: 'Angle between a line and a plane', b: 'The angle between the line and its projection on the plane. Drop a perpendicular from the top of the line to the plane, draw the right-angled triangle, then use a trig ratio.' },
+      { n: 3, f: 'What are the formulas for the sloping edge and slant height of a pyramid with the apex above the centre of the base?', b: 'Sloping edge² = height² + (half the base diagonal)². Slant height² = height² + (half the base side)². Both come from right-angled triangles inside the pyramid.', src: 'cambridge-o-level-mathematics-4024-pythagoras-theorem-and-trigonometry-revision-notes' },
+      { n: 4, f: 'A square-based pyramid has base side 6 cm and height 4 cm. Find the slant height and the sloping edge', b: 'Slant height = √(4² + 3²) = 5 cm. Half the base diagonal is 3√2, so the sloping edge = √(16 + 18) = √34, about 5.83 cm.', src: 'cambridge-o-level-mathematics-4024-pythagoras-theorem-and-trigonometry-revision-notes' },
+      { n: 5, f: 'Find the space diagonal of an 8 × 6 × 5 cuboid and the angle it makes with the base', b: 'Base diagonal = √(64 + 36) = 10. Space diagonal = √(100 + 25) = 11.2 cm. The angle with the base has tan = 5/10, so it is 26.6°.', src: 'cambridge-o-level-mathematics-4024-pythagoras-theorem-and-trigonometry-revision-notes' },
     ]),
 
     // 7 Transformations and vectors

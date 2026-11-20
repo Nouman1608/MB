@@ -169,27 +169,49 @@ export const DECK_AQA_A_LEVEL_COMPUTER_SCIENCE: FlashcardDeck = {
     ...sub('fundamentals-of-algorithms', 'graph-traversal-7517', '4.3.1', [
       { n: 1, f: 'How does a breadth-first traversal of a graph work?', b: 'Visit all the neighbours of the start vertex first, then their neighbours, and so on, using a queue. Finds the shortest path in an unweighted graph.' },
       { n: 2, f: 'How does a depth-first traversal of a graph work?', b: 'Go as far as possible along one branch before backtracking, using a stack (or recursion). Used for navigating a maze.' },
+      { n: 3, f: 'In breadth-first search, when is a vertex marked as visited?', b: 'When it is added to the queue, not when it is removed. This stops the same vertex being queued twice by two different neighbours.', src: 'aqa-a-level-computer-science-7517-graph-traversal-revision-notes' },
+      { n: 4, f: 'How do you traverse a graph that is not connected?', b: 'One traversal reaches only the connected part containing the start vertex. Start again from each vertex that is still unvisited until every vertex has been visited.', src: 'aqa-a-level-computer-science-7517-graph-traversal-revision-notes' },
+      { n: 5, f: 'How can breadth-first search give the actual shortest path to a target?', b: 'Record each vertex\'s parent when it is first discovered, then follow parents back from the target to the start. It is valid only for unweighted graphs; with weights use Dijkstra\'s algorithm.', src: 'aqa-a-level-computer-science-7517-graph-traversal-revision-notes' },
     ]),
     // 4.3.2 Tree-traversal
     ...sub('fundamentals-of-algorithms', 'tree-traversal-7517', '4.3.2', [
       { n: 1, f: 'What are the pre-order, in-order and post-order traversals of a binary tree?', b: 'Pre-order: node, left, right (copying a tree).\nIn-order: left, node, right (outputs a binary search tree in order).\nPost-order: left, right, node (emptying a tree; producing Reverse Polish).' },
+      { n: 2, f: 'What does an in-order traversal of a binary search tree output?', b: 'The values in ascending order. The left subtree holds smaller values and the right subtree larger ones, so left, node, right visits them in sorted order.', src: 'aqa-a-level-computer-science-7517-tree-traversal-revision-notes' },
+      { n: 3, f: 'Which traversal of an expression tree gives Reverse Polish, and what do the others give?', b: 'Post-order gives postfix (Reverse Polish), which needs no brackets. Pre-order gives prefix. In-order gives infix with the brackets missing.', src: 'aqa-a-level-computer-science-7517-tree-traversal-revision-notes' },
+      { n: 4, f: 'Why is pre-order used to copy a tree and post-order to empty one?', b: 'Pre-order creates a parent before its children, so children can be attached as they are made. Post-order deletes children before their parent, so no reference is lost.', src: 'aqa-a-level-computer-science-7517-tree-traversal-revision-notes' },
+      { n: 5, f: 'What is the base case of a recursive tree traversal?', b: 'An empty subtree: do nothing and return. Each node is otherwise output exactly once, so the number of items output equals the number of nodes.', src: 'aqa-a-level-computer-science-7517-tree-traversal-revision-notes' },
     ]),
     // 4.3.3 Reverse Polish
     ...sub('fundamentals-of-algorithms', 'reverse-polish-7517', '4.3.3', [
       { n: 1, f: 'What is Reverse Polish notation and why is it used?', b: 'Postfix notation: the operator follows its operands, e.g. 3 4 + for 3 + 4. No brackets are needed, and it is easily evaluated with a stack.' },
+      { n: 2, f: 'How is a Reverse Polish expression evaluated with a stack?', b: 'Read left to right. Push each operand. At an operator, pop two values, apply it and push the result. The single value left at the end is the answer.', src: 'aqa-a-level-computer-science-7517-reverse-polish-revision-notes' },
+      { n: 3, f: 'In RPN evaluation, which popped value is the left operand?', b: 'The value popped second. The first value popped is the right operand, so 9 3 - means 9 - 3 = 6, not 3 - 9.', src: 'aqa-a-level-computer-science-7517-reverse-polish-revision-notes' },
+      { n: 4, f: 'Write a + b × c in Reverse Polish notation.', b: 'a b c * +. Multiplication has higher precedence, so b c * is formed first and then added to a.', src: 'aqa-a-level-computer-science-7517-reverse-polish-revision-notes' },
+      { n: 5, f: 'What are the stack rules for converting infix to RPN (shunting-yard)?', b: 'Operands go straight to the output. For an operator, pop operators of higher or equal precedence to the output, then push it. Push "(", and at ")" pop to the output until "(". At the end pop everything.', src: 'aqa-a-level-computer-science-7517-reverse-polish-revision-notes' },
     ]),
     // 4.3.4 Searching algorithms
     ...sub('fundamentals-of-algorithms', 'searching-algorithms-7517', '4.3.4', [
       { n: 1, f: 'What are the time complexities of linear search, binary search and binary tree search?', b: 'Linear search: O(n).\nBinary search: O(log n).\nBinary tree search: O(log n) for a balanced tree.' },
+      { n: 2, f: 'What must be true of the data before a binary search can be used?', b: 'It must be sorted and allow direct access to the middle item, as in an array. On unsorted data a binary search can give wrong answers.', src: 'aqa-a-level-computer-science-7517-searching-algorithms-revision-notes' },
+      { n: 3, f: 'Why is binary search O(log n)?', b: 'Each comparison halves the items left to search, so doubling the list adds only one more comparison. About log₂ n steps are needed to reach a single item.', src: 'aqa-a-level-computer-science-7517-searching-algorithms-revision-notes' },
+      { n: 4, f: 'What are the best and worst cases for a linear search of n items?', b: 'Best case: the target is first, 1 comparison. Worst case: the target is last or absent, n comparisons. Doubling the list roughly doubles the work.', src: 'aqa-a-level-computer-science-7517-searching-algorithms-revision-notes' },
+      { n: 5, f: 'How does a binary tree search work, and when does it become O(n)?', b: 'Compare with the node: go left if smaller, right if larger; an empty subtree means not found. If data was inserted in sorted order the tree is a chain, so the search is O(n).', src: 'aqa-a-level-computer-science-7517-searching-algorithms-revision-notes' },
     ]),
     // 4.3.5 Sorting algorithms
     ...sub('fundamentals-of-algorithms', 'sorting-algorithms-7517', '4.3.5', [
       { n: 1, f: 'How does a merge sort work, and what is its time complexity?', b: 'Split the list into single items, then repeatedly merge pairs of sorted sublists into larger sorted lists. O(n log n).' },
       { n: 2, f: 'What is the time complexity of bubble sort?', b: 'O(n²): each pass compares adjacent pairs, and up to n passes may be needed.' },
+      { n: 3, f: 'How does a bubble sort know it has finished?', b: 'A complete pass makes no swaps. Each pass compares adjacent pairs and places the next largest item at the end, so the sort stops after a swap-free pass.', src: 'aqa-a-level-computer-science-7517-sorting-algorithms-revision-notes' },
+      { n: 4, f: 'Why is merge sort an example of divide and conquer?', b: 'It splits the list into halves recursively until each part has one item (already sorted), then merges the sorted parts back together. The problem is divided into smaller identical problems.', src: 'aqa-a-level-computer-science-7517-sorting-algorithms-revision-notes' },
+      { n: 5, f: 'How does the merge step of merge sort combine two sorted lists?', b: 'Compare the front items of the two lists, move the smaller to the result, and repeat. When one list is empty, copy across whatever remains of the other.', src: 'aqa-a-level-computer-science-7517-sorting-algorithms-revision-notes' },
     ]),
     // 4.3.6 Optimisation algorithms
     ...sub('fundamentals-of-algorithms', 'optimisation-algorithms-7517', '4.3.6', [
       { n: 1, f: 'What does Dijkstra’s algorithm do?', b: 'Finds the shortest path from a start vertex to every other vertex in a weighted graph (with no negative weights), using a priority queue.' },
+      { n: 2, f: 'Why can Dijkstra\'s algorithm not be replaced by breadth-first search on a weighted graph?', b: 'Breadth-first search finds the route with the fewest edges, which is not necessarily the lowest total weight. Dijkstra\'s algorithm minimises the sum of the weights.', src: 'aqa-a-level-computer-science-7517-optimisation-algorithms-revision-notes' },
+      { n: 3, f: 'What are the starting values in Dijkstra\'s algorithm?', b: 'The start vertex has distance 0 and every other vertex has distance infinity. No vertex is visited and none has a previous vertex.', src: 'aqa-a-level-computer-science-7517-optimisation-algorithms-revision-notes' },
+      { n: 4, f: 'In Dijkstra\'s algorithm, which vertex is chosen next and when is a distance updated?', b: 'Choose the unvisited vertex with the smallest distance and mark it visited. Update a neighbour only if distance plus edge weight is strictly smaller, and record the previous vertex.', src: 'aqa-a-level-computer-science-7517-optimisation-algorithms-revision-notes' },
+      { n: 5, f: 'How is the shortest route read off once Dijkstra\'s algorithm has finished?', b: 'Follow the previous-vertex pointers back from the target to the start, then reverse the list. The target\'s final distance is the total weight of that route.', src: 'aqa-a-level-computer-science-7517-optimisation-algorithms-revision-notes' },
     ]),
 
     // 4.4 Theory of computation
@@ -212,6 +234,10 @@ export const DECK_AQA_A_LEVEL_COMPUTER_SCIENCE: FlashcardDeck = {
     // 4.4.3 Context-free languages
     ...sub('theory-of-computation-7517', 'context-free-languages-7517', '4.4.3', [
       { n: 1, f: 'Why is Backus–Naur Form (BNF) needed as well as regular expressions?', b: 'Some languages, such as those with nested structures, cannot be described by regular expressions. BNF can define them, including recursive rules, so it is used to define programming language syntax.' },
+      { n: 2, f: 'What do the symbols ::= and | mean in BNF?', b: '::= means "is defined as". | means "or" and separates alternative productions. Symbols placed side by side mean "followed by".', src: 'aqa-a-level-computer-science-7517-context-free-languages-revision-notes' },
+      { n: 3, f: 'What is the difference between a terminal and a non-terminal in BNF?', b: 'A terminal appears literally in the string, for example 7 or if. A non-terminal is a category in angle brackets, such as digit in angle brackets, that is defined by its own production rule.', src: 'aqa-a-level-computer-science-7517-context-free-languages-revision-notes' },
+      { n: 4, f: 'How does BNF show repetition, and what must the rule include?', b: 'A recursive rule, for example number ::= digit | digit number (each name in angle brackets). It needs a non-recursive base case, or the derivation could never finish.', src: 'aqa-a-level-computer-science-7517-context-free-languages-revision-notes' },
+      { n: 5, f: 'How do you check whether a string is valid against a set of BNF rules?', b: 'Start from the starting non-terminal and choose the alternative that fits, expanding non-terminals until only terminals remain. If the whole string is produced it is valid.', src: 'aqa-a-level-computer-science-7517-context-free-languages-revision-notes' },
     ]),
     // 4.4.4 Classification of algorithms
     ...sub('theory-of-computation-7517', 'classification-of-algorithms-7517', '4.4.4', [
@@ -223,6 +249,9 @@ export const DECK_AQA_A_LEVEL_COMPUTER_SCIENCE: FlashcardDeck = {
     ...sub('theory-of-computation-7517', 'a-model-of-computation-7517', '4.4.5', [
       { n: 1, f: 'What is a Turing machine?', b: 'A theoretical model of computation: a finite state machine with a read/write head on an infinitely long tape divided into cells, moving one cell left or right per step according to its transition rules.' },
       { n: 2, f: 'What is a universal Turing machine?', b: 'A Turing machine that can simulate any other Turing machine by reading that machine’s description and its input from the tape: the idea behind the stored-program computer.' },
+      { n: 3, f: 'What are the parts of a Turing machine?', b: 'A finite set of states (one start state), a finite alphabet including a blank, an infinite tape of squares, a read-write head moving one square at a time, and transition rules.', src: 'aqa-a-level-computer-science-7517-a-model-of-computation-revision-notes' },
+      { n: 4, f: 'What does the transition function of a Turing machine map?', b: '(current state, symbol read) to (next state, symbol written, direction of head movement). δ(S0, 1) = (S0, 0, R) means stay in S0, write 0 and move right.', src: 'aqa-a-level-computer-science-7517-a-model-of-computation-revision-notes' },
+      { n: 5, f: 'When does a Turing machine halt?', b: 'When it reaches a halting state, which has no outgoing transitions, or there is no rule for the current state and symbol. The final tape contents are then checked.', src: 'aqa-a-level-computer-science-7517-a-model-of-computation-revision-notes' },
     ]),
 
     // 4.5 Fundamentals of data representation
@@ -249,6 +278,10 @@ export const DECK_AQA_A_LEVEL_COMPUTER_SCIENCE: FlashcardDeck = {
     // 4.5.3 Units of information
     ...sub('fundamentals-of-data-representation', 'units-of-information-7517', '4.5.3', [
       { n: 1, f: 'What is the difference between kibi and kilo prefixes?', b: 'Kibi (Ki) = 2¹⁰ = 1024; mebi (Mi) = 2²⁰; gibi (Gi) = 2³⁰.\nKilo (k) = 10³ = 1000; mega = 10⁶; giga = 10⁹.' },
+      { n: 2, f: 'How many different values can n bits represent?', b: '2ⁿ different values. For unsigned binary the range is 0 to 2ⁿ − 1, so 8 bits give 256 values, with a largest number of 255.', src: 'aqa-a-level-computer-science-7517-units-of-information-revision-notes' },
+      { n: 3, f: 'How many bits are needed to represent 100 different values?', b: '7 bits. Find the smallest n with 2ⁿ ≥ 100, rounding up: 2⁶ = 64 is too few and 2⁷ = 128 is enough.', src: 'aqa-a-level-computer-science-7517-units-of-information-revision-notes' },
+      { n: 4, f: 'What are a bit, a nibble and a byte?', b: 'A bit is the fundamental unit of information, 0 or 1. A nibble is 4 bits. A byte is a group of 8 bits.', src: 'aqa-a-level-computer-science-7517-units-of-information-revision-notes' },
+      { n: 5, f: 'How do you convert between binary and decimal prefixes such as KiB and kB?', b: 'Convert to bytes first. Binary prefixes step by 1024 (1 KiB = 2¹⁰ B = 1024 B); decimal prefixes step by 1000 (1 kB = 10³ B = 1000 B).', src: 'aqa-a-level-computer-science-7517-units-of-information-revision-notes' },
     ]),
     // 4.5.4 Binary number system
     ...sub('fundamentals-of-data-representation', 'binary-number-system-7517', '4.5.4', [
@@ -260,6 +293,10 @@ export const DECK_AQA_A_LEVEL_COMPUTER_SCIENCE: FlashcardDeck = {
     // 4.5.5 Information coding systems
     ...sub('fundamentals-of-data-representation', 'information-coding-systems-7517', '4.5.5', [
       { n: 1, f: 'How do majority voting and check digits detect errors?', b: 'Majority voting: each bit is sent three times and the receiver takes the value that appears most often.\nCheck digit: a digit calculated from the others and added to the end, recalculated to check the number.' },
+      { n: 2, f: 'How does the character code for the digit 7 differ from its pure binary value?', b: 'Pure binary 00000111 is the value seven, used for calculation. The ASCII code 00110111 (55) is the symbol "7", used for display and input. Subtract 48 from the code to get the value.', src: 'aqa-a-level-computer-science-7517-information-coding-systems-revision-notes' },
+      { n: 3, f: 'How many characters can ASCII represent, and what is its limitation?', b: 'It uses 7 bits, giving 128 codes (extended versions use 8 bits for 256). That is too few for other alphabets and large character sets, which is why Unicode was introduced.', src: 'aqa-a-level-computer-science-7517-information-coding-systems-revision-notes' },
+      { n: 4, f: 'What does Unicode provide that ASCII does not?', b: 'A code point for every character in every writing system, over a million possible values. Its first 128 code points match ASCII. The cost is more bits per character, so files can be larger.', src: 'aqa-a-level-computer-science-7517-information-coding-systems-revision-notes' },
+      { n: 5, f: 'How does a parity bit detect errors?', b: 'An extra bit is added so the number of 1s is always even (even parity) or always odd (odd parity). A received byte with the wrong parity shows an error, though it cannot say which bit.', src: 'aqa-a-level-computer-science-7517-information-coding-systems-revision-notes' },
     ]),
     // 4.5.6 Representing images, sound and other data
     ...sub('fundamentals-of-data-representation', 'representing-images-sound-and-other-data-7517', '4.5.6', [
@@ -274,15 +311,25 @@ export const DECK_AQA_A_LEVEL_COMPUTER_SCIENCE: FlashcardDeck = {
     ...sub('fundamentals-of-computer-systems', 'hardware-and-software-7517', '4.6.1', [
       { n: 1, f: 'What is the difference between system software and application software?', b: 'System software runs and manages the computer (operating systems, utilities, libraries, translators). Application software performs tasks for the user.' },
       { n: 2, f: 'What is the role of an operating system?', b: 'It hides the complexity of the hardware from the user and manages resources: processor scheduling, memory, input/output devices and files.' },
+      { n: 3, f: 'What are hardware and software?', b: 'Hardware is the physical components of a computer system. Software is the programs and data, the instructions that tell the hardware what to do. Each needs the other to be useful.', src: 'aqa-a-level-computer-science-7517-hardware-and-software-revision-notes' },
+      { n: 4, f: 'What is the difference between bespoke and off-the-shelf software?', b: 'Bespoke software is written for one customer: it fits exactly but is costly and slow to develop. Off-the-shelf software is mass market: cheap and ready now but may not fit exactly.', src: 'aqa-a-level-computer-science-7517-hardware-and-software-revision-notes' },
+      { n: 5, f: 'What are the roles of a utility program and a library?', b: 'A utility program maintains, protects or manages the system, for example antivirus, backup or compression. A library is a collection of pre-written, tested subroutines that programs can reuse.', src: 'aqa-a-level-computer-science-7517-hardware-and-software-revision-notes' },
     ]),
     // 4.6.2 Classification of programming languages
     ...sub('fundamentals-of-computer-systems', 'classification-of-programming-languages-7517', '4.6.2', [
       { n: 1, f: 'What is the difference between low-level and high-level languages?', b: 'Low-level (machine code, assembly) is close to the processor’s instruction set. High-level languages use English-like statements, are portable between processors and are easier to write and debug.' },
+      { n: 2, f: 'What are the opcode and operands in a machine code instruction?', b: 'The opcode is the operation to carry out. The operands are what it acts on: registers, values or memory addresses. Machine code is the only language the processor executes directly.', src: 'aqa-a-level-computer-science-7517-classification-of-programming-languages-revision-notes' },
+      { n: 3, f: 'What is assembly language and why is it not portable?', b: 'It uses mnemonics (such as ADD, LDR) and labels in place of binary, roughly one assembly instruction per machine instruction, translated by an assembler. It is specific to one processor\'s instruction set.', src: 'aqa-a-level-computer-science-7517-classification-of-programming-languages-revision-notes' },
+      { n: 4, f: 'What is an imperative high-level language?', b: 'One in which a program is a sequence of commands carried out in order, changing the state (variable values). Examples are Python, Java and C. Each statement becomes several machine instructions.', src: 'aqa-a-level-computer-science-7517-classification-of-programming-languages-revision-notes' },
+      { n: 5, f: 'Why are machine code programs hard to write and debug?', b: 'Instructions are binary patterns specific to one processor, with no meaningful names. They are very difficult to read, so errors are hard to spot, which is why assembly and high-level languages were developed.', src: 'aqa-a-level-computer-science-7517-classification-of-programming-languages-revision-notes' },
     ]),
     // 4.6.3 Types of program translator
     ...sub('fundamentals-of-computer-systems', 'types-of-program-translator-7517', '4.6.3', [
       { n: 1, f: 'What is the difference between a compiler, an interpreter and an assembler?', b: 'Compiler: translates the whole high-level program into object code before it runs.\nInterpreter: translates and runs one statement at a time.\nAssembler: translates assembly language into machine code.' },
       { n: 2, f: 'What is bytecode?', b: 'An intermediate code produced by a compiler that is then run by a virtual machine (interpreter) on the target computer, so the same code is platform-independent.' },
+      { n: 3, f: 'What are source code and object code?', b: 'Source code is the program as written by the programmer (assembly or high-level). Object code is the translated machine code that the processor can run. A translator converts source into object code.', src: 'aqa-a-level-computer-science-7517-types-of-program-translator-revision-notes' },
+      { n: 4, f: 'Why is a compiled program usually faster than an interpreted one?', b: 'A compiled program is already machine code, so it runs without translation and can be optimised. An interpreter has to re-translate statements as it runs, for example every time round a loop.', src: 'aqa-a-level-computer-science-7517-types-of-program-translator-revision-notes' },
+      { n: 5, f: 'When is a compiler better than an interpreter, and when the reverse?', b: 'Compiler: finished software distributed and run many times, where speed matters and the source should stay private. Interpreter: development, testing and short scripts, or source running on many machine types.', src: 'aqa-a-level-computer-science-7517-types-of-program-translator-revision-notes' },
     ]),
     // 4.6.4 Logic gates
     ...sub('fundamentals-of-computer-systems', 'logic-gates-7517', '4.6.4', [
@@ -293,16 +340,28 @@ export const DECK_AQA_A_LEVEL_COMPUTER_SCIENCE: FlashcardDeck = {
     // 4.6.5 Boolean algebra
     ...sub('fundamentals-of-computer-systems', 'boolean-algebra-7517', '4.6.5', [
       { n: 1, f: 'State De Morgan’s laws.', b: 'NOT (A AND B) = NOT A OR NOT B\nNOT (A OR B) = NOT A AND NOT B' },
+      { n: 2, f: 'State the identity and null laws for AND and OR.', b: 'Identity: A AND 1 = A, and A OR 0 = A. Null: A AND 0 = 0, and A OR 1 = 1. Complement: A AND NOT A = 0, and A OR NOT A = 1.', src: 'aqa-a-level-computer-science-7517-boolean-algebra-revision-notes' },
+      { n: 3, f: 'State the absorption laws.', b: 'A AND (A OR B) = A, and A OR (A AND B) = A. The second variable is absorbed, so the expression reduces to A.', src: 'aqa-a-level-computer-science-7517-boolean-algebra-revision-notes' },
+      { n: 4, f: 'How is XOR defined in Boolean algebra?', b: 'A XOR B is true when exactly one input is true: (A AND NOT B) OR (NOT A AND B). Expand XOR first when simplifying an expression.', src: 'aqa-a-level-computer-science-7517-boolean-algebra-revision-notes' },
+      { n: 5, f: 'Simplify (NOT A AND B) OR (A AND B).', b: 'Factorise with the distributive law: B AND (NOT A OR A). The complement law gives NOT A OR A = 1, and the identity law gives B.', src: 'aqa-a-level-computer-science-7517-boolean-algebra-revision-notes' },
     ]),
 
     // 4.7 Fundamentals of computer organisation and architecture
     // 4.7.1 Internal hardware components of a computer
     ...sub('fundamentals-of-computer-organisation-and-architecture', 'internal-hardware-components-of-a-computer-7517', '4.7.1', [
       { n: 1, f: 'What is the difference between Von Neumann and Harvard architecture?', b: 'Von Neumann: instructions and data share one memory and bus.\nHarvard: separate memories and buses for instructions and data, so both can be fetched at once; used in embedded systems and digital signal processors.' },
+      { n: 2, f: 'What does the address bus carry, and what determines how much memory it can address?', b: 'It carries the address of the location wanted, one direction only (processor outwards). With n address lines there are 2ⁿ addressable locations, so 16 lines address 65,536.', src: 'aqa-a-level-computer-science-7517-internal-hardware-components-revision-notes' },
+      { n: 3, f: 'What do the data bus and the control bus carry?', b: 'The data bus carries data and instructions in both directions; its width sets how many bits move per transfer. The control bus carries signals such as read, write, clock and interrupt requests.', src: 'aqa-a-level-computer-science-7517-internal-hardware-components-revision-notes' },
+      { n: 4, f: 'What does an I/O controller do?', b: 'It is the interface between the bus and a peripheral device: it converts signals and formats, buffers data and holds status information, so the processor need not handle device details.', src: 'aqa-a-level-computer-science-7517-internal-hardware-components-revision-notes' },
+      { n: 5, f: 'What is addressable memory?', b: 'Main memory split into locations, each with a unique address, usually holding one byte. The processor selects a location by placing its address on the address bus.', src: 'aqa-a-level-computer-science-7517-internal-hardware-components-revision-notes' },
     ]),
     // 4.7.2 The stored program concept
     ...sub('fundamentals-of-computer-organisation-and-architecture', 'the-stored-program-concept-7517', '4.7.2', [
       { n: 1, f: 'What is the stored program concept?', b: 'Machine-code instructions are stored in main memory and are fetched and executed serially by a processor that carries out arithmetic and logical operations.' },
+      { n: 2, f: 'What four parts should a full description of the stored program concept include?', b: 'Machine code instructions, stored in main memory, fetched and executed serially (one at a time, in order unless a branch occurs), by a processor performing arithmetic and logical operations.', src: 'aqa-a-level-computer-science-7517-stored-program-concept-revision-notes' },
+      { n: 3, f: 'Why can instructions and data share the same memory?', b: 'Memory holds only binary patterns. What a pattern means depends on how the processor uses it: 01100101 could be the number 101, the letter e or an instruction.', src: 'aqa-a-level-computer-science-7517-stored-program-concept-revision-notes' },
+      { n: 4, f: 'What did the stored program concept change compared with earlier machines?', b: 'Earlier machines were set up for one job by rewiring or switches. With a stored program the program is held in memory as data, so one machine can run any program by loading it.', src: 'aqa-a-level-computer-science-7517-stored-program-concept-revision-notes' },
+      { n: 5, f: 'How does the processor use the program counter to run a stored program?', b: 'It fetches the instruction at the address in the program counter, decodes and executes it, then repeats. The counter normally increases after each fetch; a branch instruction changes it.', src: 'aqa-a-level-computer-science-7517-stored-program-concept-revision-notes' },
     ]),
     // 4.7.3 Structure and role of the processor and its components
     ...sub('fundamentals-of-computer-organisation-and-architecture', 'structure-and-role-of-the-processor-and-its-components-7517', '4.7.3', [
@@ -316,6 +375,9 @@ export const DECK_AQA_A_LEVEL_COMPUTER_SCIENCE: FlashcardDeck = {
     ...sub('fundamentals-of-computer-organisation-and-architecture', 'external-hardware-devices-7517', '4.7.4', [
       { n: 1, f: 'How does an RFID tag work?', b: 'A reader sends radio waves that power a passive tag’s chip (or an active tag has its own battery); the tag transmits its stored data back to the reader by radio.' },
       { n: 2, f: 'How does a solid-state drive store data, compared with a hard disk?', b: 'An SSD stores charge in NAND flash memory cells, with no moving parts, so access is faster. A hard disk uses magnetised regions on spinning platters read by a moving head, which is slower but cheaper per gigabyte.' },
+      { n: 3, f: 'How does a barcode reader read a barcode?', b: 'A laser sweeps across the bars; dark bars absorb light and light spaces reflect it. A photodiode detects the pattern, which becomes a number that the computer looks up in a database.', src: 'aqa-a-level-computer-science-7517-external-hardware-devices-revision-notes' },
+      { n: 4, f: 'How does a laser printer produce a page?', b: 'The drum is charged, a laser removes charge to form an electrostatic image, toner sticks to the image and is transferred to charged paper, then a fuser melts it on with heat and pressure.', src: 'aqa-a-level-computer-science-7517-external-hardware-devices-revision-notes' },
+      { n: 5, f: 'How does a digital camera turn light into a stored image?', b: 'A lens focuses light on a CCD or CMOS sensor whose cells build up charge in proportion to brightness. An analogue-to-digital converter makes each charge a binary number, and the image is usually compressed.', src: 'aqa-a-level-computer-science-7517-external-hardware-devices-revision-notes' },
     ]),
 
     // 4.8 Consequences of uses of computing
@@ -338,10 +400,18 @@ export const DECK_AQA_A_LEVEL_COMPUTER_SCIENCE: FlashcardDeck = {
     // 4.9.2 Networking
     ...sub('fundamentals-of-communication-and-networking', 'networking-7517', '4.9.2', [
       { n: 1, f: 'How does CSMA/CA with RTS/CTS work on WiFi?', b: 'A device listens and transmits only when the channel is free. With RTS/CTS it sends a Request to Send and waits for the access point’s Clear to Send before transmitting.' },
+      { n: 2, f: 'What is the difference between physical and logical topology?', b: 'Physical topology is how cables and devices are laid out; logical topology is how data flows between devices. A physical star can behave as a logical bus if a hub repeats every frame to all ports.', src: 'aqa-a-level-computer-science-7517-networking-revision-notes' },
+      { n: 3, f: 'Compare peer-to-peer and client-server networks.', b: 'Peer-to-peer: all computers are equal and share their own resources; cheap but security and back-up are harder. Client-server: servers provide services centrally to clients; easier to manage but costly and the server is a single point of failure.', src: 'aqa-a-level-computer-science-7517-networking-revision-notes' },
+      { n: 4, f: 'What components does a WiFi network need, and what is an SSID?', b: 'A wireless network adapter in each device and a wireless access point. The SSID (Service Set Identifier) is the name that identifies the wireless network.', src: 'aqa-a-level-computer-science-7517-networking-revision-notes' },
+      { n: 5, f: 'What are three ways to secure a wireless network?', b: 'WPA/WPA2 encryption, turning off SSID broadcast, and a MAC address allow list. Encryption is the main protection; the others are extra layers, since names can be found and MAC addresses copied.', src: 'aqa-a-level-computer-science-7517-networking-revision-notes' },
     ]),
     // 4.9.3 The Internet
     ...sub('fundamentals-of-communication-and-networking', 'the-internet-7517', '4.9.3', [
       { n: 1, f: 'What is the difference between symmetric and asymmetric encryption?', b: 'Symmetric: one shared key encrypts and decrypts.\nAsymmetric: data encrypted with the recipient’s public key can only be decrypted with their private key.' },
+      { n: 2, f: 'What is packet switching?', b: 'A message is split into packets, each sent separately and possibly by a different route, then reassembled at the destination using sequence numbers. A header holds the destination and source IP addresses and a hop count.', src: 'aqa-a-level-computer-science-7517-the-internet-revision-notes' },
+      { n: 3, f: 'What is the role of a router and of a gateway?', b: 'A router connects networks and forwards each packet towards its destination using the destination IP address and a routing table. A gateway connects networks that may use different protocols.', src: 'aqa-a-level-computer-science-7517-the-internet-revision-notes' },
+      { n: 4, f: 'What does the Domain Name System (DNS) do?', b: 'It translates a domain name into an IP address, using a distributed hierarchy of servers (root, top-level domain, authoritative server). The result is cached for later requests.', src: 'aqa-a-level-computer-science-7517-the-internet-revision-notes' },
+      { n: 5, f: 'How does a digital signature work?', b: 'The sender hashes the message and encrypts the hash with their private key. The receiver decrypts it with the sender\'s public key and compares hashes, confirming authenticity and integrity.', src: 'aqa-a-level-computer-science-7517-the-internet-revision-notes' },
     ]),
     // 4.9.4 The Transmission Control Protocol/Internet Protocol (TCP/IP) protocol
     ...sub('fundamentals-of-communication-and-networking', 'the-transmission-control-protocol-internet-protocol-tcp-ip-protocol-7517', '4.9.4', [
@@ -357,24 +427,42 @@ export const DECK_AQA_A_LEVEL_COMPUTER_SCIENCE: FlashcardDeck = {
     // 4.10.1 Conceptual data models and entity relationship modelling
     ...sub('fundamentals-of-databases', 'conceptual-data-models-and-entity-relationship-modelling-7517', '4.10.1', [
       { n: 1, f: 'What are an entity, an attribute and a relationship?', b: 'Entity: something about which data is stored (e.g. Student).\nAttribute: a property of an entity (e.g. DateOfBirth).\nRelationship: a link between entities (one-to-one, one-to-many, many-to-many).' },
+      { n: 2, f: 'What is a conceptual data model?', b: 'A description of what data is stored and how it is related, independent of any software. Each entity later becomes a table and each attribute a field.', src: 'aqa-a-level-computer-science-7517-conceptual-data-models-er-modelling-revision-notes' },
+      { n: 3, f: 'How do you write an entity description?', b: 'In the form Entity (Attribute1, Attribute2, ...), with the entity identifier underlined. For example Member (MemberID, Name, Year) with MemberID underlined.', src: 'aqa-a-level-computer-science-7517-conceptual-data-models-er-modelling-revision-notes' },
+      { n: 4, f: 'How do you resolve a many-to-many relationship in a data model?', b: 'Add a link entity that has a one-to-many relationship with each original entity. Name it and give it an identifier, for example Loan between Member and Book.', src: 'aqa-a-level-computer-science-7517-conceptual-data-models-er-modelling-revision-notes' },
+      { n: 5, f: 'How do you decide the type of a relationship between two entities?', b: 'Ask the question in both directions: how many occurrences of B can one A relate to, and how many of A can one B relate to? The two answers give one-to-one, one-to-many or many-to-many.', src: 'aqa-a-level-computer-science-7517-conceptual-data-models-er-modelling-revision-notes' },
     ]),
     // 4.10.2 Relational databases
     ...sub('fundamentals-of-databases', 'relational-databases-7517', '4.10.2', [
       { n: 1, f: 'What are a primary key, a composite key and a foreign key?', b: 'Primary key: uniquely identifies each record.\nComposite key: a primary key made of two or more attributes.\nForeign key: an attribute that is the primary key of another table, linking the two.' },
+      { n: 2, f: 'What is a relational database?', b: 'Data held in tables, each about one kind of thing, linked by key values so related data can be combined without storing any fact twice.', src: 'aqa-a-level-computer-science-7517-relational-databases-revision-notes' },
+      { n: 3, f: 'What are other names for a table, a column and a row in a relational database?', b: 'Table: relation. Column: attribute or field, one property with one value per record. Row: record or tuple, one occurrence of the entity.', src: 'aqa-a-level-computer-science-7517-relational-databases-revision-notes' },
+      { n: 4, f: 'What properties must a primary key have?', b: 'Its value must be unique for every record, never empty (null) and stable over time. A table has only one primary key, though it may be composite.', src: 'aqa-a-level-computer-science-7517-relational-databases-revision-notes' },
+      { n: 5, f: 'Where does a foreign key live, and can its values repeat?', b: 'It lives in the table that refers to another. It is that other table\'s primary key, creates the link between the tables, and its values can repeat.', src: 'aqa-a-level-computer-science-7517-relational-databases-revision-notes' },
     ]),
     // 4.10.3 Database design and normalisation techniques
     ...sub('fundamentals-of-databases', 'database-design-and-normalisation-techniques-7517', '4.10.3', [
       { n: 1, f: 'Why are databases normalised?', b: 'To remove data redundancy and so avoid update, insertion and deletion anomalies, keeping data consistent. A database in third normal form has attributes that depend on the key, the whole key and nothing but the key.' },
+      { n: 2, f: 'What are the update, insertion and deletion anomalies?', b: 'Update: many rows must change, risking a missed one. Insertion: a customer or product cannot be recorded until an order exists. Deletion: removing the last order loses customer or product details.', src: 'aqa-a-level-computer-science-7517-database-design-and-normalisation-revision-notes' },
+      { n: 3, f: 'What are the requirements of first normal form (1NF)?', b: 'No repeating groups, every cell holds a single atomic value, and the relation has a primary key.', src: 'aqa-a-level-computer-science-7517-database-design-and-normalisation-revision-notes' },
+      { n: 4, f: 'What does second normal form (2NF) remove?', b: 'Partial dependencies: a non-key attribute that depends on only part of a composite key. The relation must be in 1NF, and every non-key attribute must depend on the whole key.', src: 'aqa-a-level-computer-science-7517-database-design-and-normalisation-revision-notes' },
+      { n: 5, f: 'What does third normal form (3NF) remove?', b: 'Transitive dependencies: a non-key attribute that depends on another non-key attribute. The relation must already be in 2NF.', src: 'aqa-a-level-computer-science-7517-database-design-and-normalisation-revision-notes' },
     ]),
     // 4.10.4 Structured Query Language (SQL)
     ...sub('fundamentals-of-databases', 'structured-query-language-sql-7517', '4.10.4', [
       { n: 1, f: 'Write an SQL query to list names of students in Year 12, sorted by name.', b: 'SELECT Name FROM Student WHERE Year = 12 ORDER BY Name;' },
       { n: 2, f: 'What do the SQL statements INSERT, UPDATE and DELETE do?', b: 'INSERT INTO adds a new record.\nUPDATE … SET … WHERE changes values in existing records.\nDELETE FROM … WHERE removes records.' },
+      { n: 3, f: 'In which order do the clauses of an SQL SELECT statement appear?', b: 'SELECT, FROM, WHERE, GROUP BY, HAVING, ORDER BY. Only SELECT and FROM are compulsory.', src: 'aqa-a-level-computer-science-7517-structured-query-language-sql-revision-notes' },
+      { n: 4, f: 'What is the difference between WHERE and HAVING?', b: 'WHERE filters rows before grouping. HAVING filters groups after grouping, so conditions on aggregates such as COUNT or SUM go in HAVING.', src: 'aqa-a-level-computer-science-7517-structured-query-language-sql-revision-notes' },
+      { n: 5, f: 'How do you join tables in SQL?', b: 'Use INNER JOIN ... ON, matching a foreign key to the primary key it refers to, for example Member.MemberID = Loan.MemberID. Without an ON condition every row pairs with every row.', src: 'aqa-a-level-computer-science-7517-structured-query-language-sql-revision-notes' },
     ]),
     // 4.10.5 Client server databases
     ...sub('fundamentals-of-databases', 'client-server-databases-7517', '4.10.5', [
       { n: 1, f: 'What problem arises when two users update the same record at once in a client-server database?', b: 'Lost update: one user’s change overwrites the other’s. It is prevented by record locking, serialisation, timestamp ordering or commitment ordering.' },
       { n: 2, f: 'What is record locking?', b: 'When one transaction is updating a record, the record is locked so no other transaction can change it until the first is finished. It can cause deadlock if two transactions wait for each other.' },
+      { n: 3, f: 'What is a client server database?', b: 'The database and its management system sit on a server. Clients send requests over a network, many at the same time, and everyone sees the same current data, with security and back-up managed centrally.', src: 'aqa-a-level-computer-science-7517-client-server-databases-revision-notes' },
+      { n: 4, f: 'What is a transaction in a database?', b: 'A sequence of operations treated as one unit of work, for example read, calculate and write. Concurrency control stops overlapping transactions from corrupting each other\'s results.', src: 'aqa-a-level-computer-science-7517-client-server-databases-revision-notes' },
+      { n: 5, f: 'How do serialisation and timestamp ordering control concurrent access?', b: 'Serialisation makes overlapping transactions give the same result as running them one at a time. Timestamp ordering makes conflicting operations happen in timestamp order, aborting and restarting a transaction that breaks it.', src: 'aqa-a-level-computer-science-7517-client-server-databases-revision-notes' },
     ]),
 
     // 4.11 Big Data
@@ -400,10 +488,17 @@ export const DECK_AQA_A_LEVEL_COMPUTER_SCIENCE: FlashcardDeck = {
     ...sub('fundamentals-of-functional-programming', 'writing-functional-programs-7517', '4.12.2', [
       { n: 1, f: 'What is a higher-order function?', b: 'A function that takes a function as an argument, returns a function, or both. Examples: map, filter and reduce (fold).' },
       { n: 2, f: 'What do map, filter and reduce (fold) do?', b: 'Map: applies a function to every item of a list, giving a new list.\nFilter: keeps the items that meet a condition.\nReduce/fold: combines the items into one value using a function, e.g. a sum.' },
+      { n: 3, f: 'What is a lambda expression?', b: 'An unnamed function written in place, for example \\x -> x * x in Haskell style or lambda x: x * x in Python. It is often passed to map, filter or fold.', src: 'aqa-a-level-computer-science-7517-writing-functional-programs-revision-notes' },
+      { n: 4, f: 'Why does a fold need a starting value, and what values are typical?', b: 'The accumulator needs a value to combine with the first element. Use 0 for a sum, 1 for a product and an empty string for joining strings.', src: 'aqa-a-level-computer-science-7517-writing-functional-programs-revision-notes' },
+      { n: 5, f: 'What are the lengths of the lists returned by map, filter and fold?', b: 'Map returns a list of the same length. Filter returns a list that is the same length or shorter. Fold returns a single value. None changes the original list.', src: 'aqa-a-level-computer-science-7517-writing-functional-programs-revision-notes' },
     ]),
     // 4.12.3 Lists in functional programming
     ...sub('fundamentals-of-functional-programming', 'lists-in-functional-programming-7517', '4.12.3', [
       { n: 1, f: 'What are the head and tail of a list?', b: 'Head: the first element. Tail: the list of everything after the first element. Head of [4, 3, 5] is 4; tail is [3, 5].' },
+      { n: 2, f: 'What is the empty list and what are its head and tail?', b: 'The empty list [] contains no elements, so it has no head and no tail. Taking the head or tail of [] is an error, so test for empty first.', src: 'aqa-a-level-computer-science-7517-lists-in-functional-programming-revision-notes' },
+      { n: 3, f: 'What is the difference between prepend and append?', b: 'Prepend adds one item to the front: 9 : xs. Append joins a list on the end: xs ++ [9]. For xs = [4, 3, 5] they give [9, 4, 3, 5] and [4, 3, 5, 9].', src: 'aqa-a-level-computer-science-7517-lists-in-functional-programming-revision-notes' },
+      { n: 4, f: 'What is the value of head (tail [4, 3, 5])?', b: '3. The tail of [4, 3, 5] is [3, 5], and the head of that list is 3.', src: 'aqa-a-level-computer-science-7517-lists-in-functional-programming-revision-notes' },
+      { n: 5, f: 'What are the two cases when defining a function on a list recursively?', b: 'The base case, the empty list [], and the recursive case x : xs, which uses the function on the tail. Each operation returns a new list.', src: 'aqa-a-level-computer-science-7517-lists-in-functional-programming-revision-notes' },
     ]),
 
     // 4.13 Systematic approach to problem solving

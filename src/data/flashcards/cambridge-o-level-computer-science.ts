@@ -191,6 +191,10 @@ export const DECK_CAMBRIDGE_O_LEVEL_COMPUTER_SCIENCE: FlashcardDeck = {
     ]),
     ...sub('the-internet-and-its-uses-2210', 'digital-currency-2210', '5.2', [
       { n: 1, f: 'Why is a blockchain hard to tamper with?', b: 'It is a decentralised ledger: every computer in the network holds a copy. Each block holds its own hash and the previous block\'s hash, so changing a block breaks the chain and does not match the other copies.' },
+      { n: 2, f: 'What is a digital currency?', b: 'A currency that only exists electronically, with no notes or coins. It is spent using the internet, from a digital wallet.', src: 'cambridge-o-level-computer-science-2210-digital-currency-revision-notes' },
+      { n: 3, f: 'What is a blockchain, in its basic form?', b: 'A digital ledger: a time-stamped series of records that cannot be altered. It is the record of the currency\'s transactions, not the currency itself.', src: 'cambridge-o-level-computer-science-2210-digital-currency-revision-notes' },
+      { n: 4, f: 'What does each block in a blockchain contain?', b: 'A group of transactions, a time stamp, its own hash and the hash of the previous block. Blocks are linked in order, and new blocks are added at the end.', src: 'cambridge-o-level-computer-science-2210-digital-currency-revision-notes' },
+      { n: 5, f: 'Give a benefit and a drawback of using digital currency', b: 'Benefit: fast payments, including international ones, and records that are very hard to alter. Drawback: the value can change quickly, wallets can be hacked, and payments are hard to reverse.', src: 'cambridge-o-level-computer-science-2210-digital-currency-revision-notes' },
     ]),
     ...sub('the-internet-and-its-uses-2210', 'cyber-security-2210', '5.3', [
       { n: 1, f: 'How does a user reach a fake website in phishing and in pharming?', b: 'Phishing: the user clicks a link in a legitimate-looking email or message. Pharming: malicious code on the computer or a DNS server redirects them, even when they type the correct URL.' },
@@ -243,9 +247,17 @@ export const DECK_CAMBRIDGE_O_LEVEL_COMPUTER_SCIENCE: FlashcardDeck = {
     ]),
     ...sub('programming-2210', 'arrays-2210', '8.2', [
       { n: 1, f: 'What is a one-dimensional array?', b: 'A data structure holding several items of the same data type under one identifier, each reached by an index, e.g. DECLARE Scores : ARRAY[1:25] OF INTEGER.' },
+      { n: 2, f: 'How many elements are in ARRAY[1:3, 1:4] and in ARRAY[0:9]?', b: 'ARRAY[1:3, 1:4] has 3 × 4 = 12 elements. ARRAY[0:9] has 9 − 0 + 1 = 10 elements. In a 2D array the first range is the rows and the second the columns.', src: 'cambridge-o-level-computer-science-2210-arrays-revision-notes' },
+      { n: 3, f: 'How does nested iteration process a 2D array?', b: 'The outer loop steps through the rows and the inner loop through the columns. The inner loop completes for every pass of the outer loop, so a 3 by 4 array runs the body 12 times.', src: 'cambridge-o-level-computer-science-2210-arrays-revision-notes' },
+      { n: 4, f: 'Data[1:4] holds 6, 2, 9, 4. A loop adds each value greater than 3 to Result (starting at 0). What is output?', b: '6 is added (6), 2 is not, 9 is added (15), 4 is added (19). The output is 19.', src: 'cambridge-o-level-computer-science-2210-arrays-revision-notes' },
+      { n: 5, f: 'Why use an array rather than separate variables?', b: 'One identifier stores many values of the same type, and a loop can process every element with the same code, so the program is shorter and easier to change.', src: 'cambridge-o-level-computer-science-2210-arrays-revision-notes' },
     ]),
     ...sub('programming-2210', 'file-handling-2210', '8.3', [
       { n: 1, f: 'Why must a program close a file after using it?', b: 'To make sure all data is written to the file and to free it for other use.' },
+      { n: 2, f: 'Why does a program store data in a file?', b: 'RAM is volatile, so variables lose their contents when the program ends. A file on secondary storage keeps the data between runs, such as a high score, and can share it with other programs.', src: 'cambridge-o-level-computer-science-2210-file-handling-revision-notes' },
+      { n: 3, f: 'What are the four file commands in the 2210 pseudocode?', b: 'OPENFILE name FOR mode; READFILE name, variable; WRITEFILE name, variable; and CLOSEFILE name. For example, OPENFILE "Scores.txt" FOR READ.', src: 'cambridge-o-level-computer-science-2210-file-handling-revision-notes' },
+      { n: 4, f: 'What are the rules for READ and WRITE modes?', b: 'One mode at a time for each file. WRITE creates a new file, so old data is lost. READ needs a file that already exists. To change mode, close the file and open it again.', src: 'cambridge-o-level-computer-science-2210-file-handling-revision-notes' },
+      { n: 5, f: 'How does 2210 pseudocode know when to stop reading a file?', b: 'It has no end-of-file test. Questions give the number of items or a stop value, so use a FOR loop with that number.', src: 'cambridge-o-level-computer-science-2210-file-handling-revision-notes' },
     ]),
 
     // 9 Databases

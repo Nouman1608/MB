@@ -87,6 +87,9 @@ export const DECK_CAMBRIDGE_A_LEVEL_ENGLISH_LANGUAGE: FlashcardDeck = {
     ...sub('paper-2-writing-9093', 'paper-2-knowledge-and-understanding-9093', '2.1', [
       { n: 1, f: 'How is 9093 Paper 2 Writing set out?', b: '2 hours, 50 marks: 50% of the AS and 25% of the A Level. Section A (compulsory, 25 marks) and Section B (one from three, 25 marks).', src: W },
       { n: 2, f: 'Which three categories does Paper 2 Section B always offer?', b: 'Imaginative/descriptive, discursive/argumentative, and review/critical. The categories are fixed; only the topic within each changes between series.' },
+      { n: 3, f: 'How does the knowledge tested in Paper 2 relate to Paper 1?', b: 'They share one base: textual forms, linguistic features and audience. Paper 1 asks you to analyse someone else\'s writing; Paper 2 asks you to apply the same knowledge in your own writing.', src: 'a-level-english-language-paper-2-writing-revision-notes' },
+      { n: 4, f: 'Which 9093 papers make up the AS and which complete the A Level?', b: 'Papers 1 (Reading) and 2 (Writing) are the AS content, each 50% of the AS. Papers 3 (Language Analysis) and 4 (Language Topics) complete the A Level, so each paper is 25% of the A Level.', src: 'a-level-english-language-paper-2-writing-revision-notes' },
+      { n: 5, f: 'What does each Paper 2 Section B category reward?', b: 'Imaginative/descriptive: sensory detail and a controlled voice. Discursive/argumentative: a genuinely balanced weighing of more than one side. Review/critical: a consistent evaluative voice with concrete detail.', src: 'a-level-english-language-paper-2-writing-revision-notes' },
     ]),
     ...sub('paper-2-writing-9093', 'paper-2-skills-and-techniques-9093', '2.2', [
       { n: 1, f: 'What does Paper 2 Section A part (a) require?', b: 'A shorter piece of at most 400 words, written to a specified form, audience and purpose (such as a leaflet, letter or speech). 15 marks.', src: W },

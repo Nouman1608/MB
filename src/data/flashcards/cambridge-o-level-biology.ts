@@ -145,6 +145,9 @@ export const DECK_CAMBRIDGE_O_LEVEL_BIOLOGY: FlashcardDeck = {
     ...sub('movement-into-and-out-of-cells', 'active-transport', '3.2', [
       { n: 1, f: 'Active transport', b: 'The movement of molecules or ions into or out of a cell through the cell membrane, from a region of their lower concentration to a region of their higher concentration (against a concentration gradient), using energy released during respiration.' },
       { n: 2, f: 'Why must root hair cells take up mineral ions by active transport?', b: 'The ion concentration in soil water is lower than in the cell, so ions must move against the concentration gradient. This needs energy from respiration, so lack of oxygen reduces ion uptake.' },
+      { n: 3, f: 'Active transport vs diffusion', b: 'Diffusion goes down the gradient and needs no respiratory energy. Active transport goes against the gradient, needs energy from respiration, and stops when oxygen is short, so it can build up a concentration difference.', src: 'cambridge-o-level-biology-5090-active-transport-revision-notes' },
+      { n: 4, f: 'Why do root hair cells have many mitochondria and a long, thin shape?', b: 'The mitochondria release energy by aerobic respiration to drive active transport of ions. The long, thin root hair gives a large surface area for taking up ions.', src: 'cambridge-o-level-biology-5090-active-transport-revision-notes' },
+      { n: 5, f: 'What is the evidence that ion uptake by roots is active transport?', b: 'Less oxygen or a lower temperature lowers respiration and uptake falls. A respiratory poison stops it. Ions are still taken up against a concentration gradient.', src: 'cambridge-o-level-biology-5090-active-transport-revision-notes' },
     ]),
 
     // 4 Biological molecules
@@ -191,9 +194,16 @@ export const DECK_CAMBRIDGE_O_LEVEL_BIOLOGY: FlashcardDeck = {
     ...sub('plant-nutrition', 'leaf-structure', '6.2', [
       { n: 1, f: 'Palisade vs spongy mesophyll', b: 'Palisade: tightly packed, near the upper surface, most chloroplasts, for photosynthesis.\nSpongy: loosely packed, fewer chloroplasts, air spaces giving a large surface for gas exchange.' },
       { n: 2, f: 'Why is a leaf large and thin?', b: 'Large surface area absorbs more light and lets more carbon dioxide in. Thin: short diffusion distance for gases, and light reaches all the mesophyll cells.' },
+      { n: 3, f: 'How do guard cells open and close a stoma?', b: 'When guard cells take in water they become turgid and the stoma opens. When they lose water they become flaccid and the stoma closes, reducing water loss. Guard cells contain chloroplasts.', src: 'cambridge-o-level-biology-5090-leaf-structure-revision-notes' },
+      { n: 4, f: 'Describe the route of carbon dioxide into a leaf cell', b: 'Air outside → stomata → air spaces → water film on the mesophyll cells → carbon dioxide dissolves and diffuses into the cells. Oxygen leaves by the reverse route.', src: 'cambridge-o-level-biology-5090-leaf-structure-revision-notes' },
+      { n: 5, f: 'What do xylem and phloem carry in a leaf\'s vascular bundle?', b: 'Xylem carries water and mineral ions into the leaf, and gives support. Phloem carries sucrose and amino acids away from the leaf.', src: 'cambridge-o-level-biology-5090-leaf-structure-revision-notes' },
     ]),
     ...sub('plant-nutrition', 'mineral-nutrition', '6.3', [
       { n: 1, f: 'Why plants need nitrate and magnesium ions', b: 'Nitrate: nitrogen to make amino acids, then proteins for growth.\nMagnesium: to make chlorophyll; less chlorophyll means less light absorbed.' },
+      { n: 2, f: 'Effects of nitrate deficiency in a plant', b: 'Stunted growth and pale green or yellow leaves, older leaves first, because amino acids and proteins cannot be made.', src: 'cambridge-o-level-biology-5090-mineral-nutrition-revision-notes' },
+      { n: 3, f: 'Effects of magnesium deficiency in a plant', b: 'Yellow leaves (chlorosis), older leaves first, because chlorophyll cannot be made. Less light is absorbed, so photosynthesis and glucose production fall.', src: 'cambridge-o-level-biology-5090-mineral-nutrition-revision-notes' },
+      { n: 4, f: 'Water culture experiment: sets and controlled variables', b: 'Set A has all ions (control), B lacks nitrate, C lacks magnesium. Keep seedlings, volume, light and temperature the same, aerate the solutions, and compare height, leaf colour and mass.', src: 'cambridge-o-level-biology-5090-mineral-nutrition-revision-notes' },
+      { n: 5, f: 'Control seedling 24.0 cm; without nitrate 9.0 cm. What is the percentage reduction?', b: '(24.0 − 9.0) ÷ 24.0 × 100 = 62.5% shorter. Percentage reduction = (control − test) ÷ control × 100.', src: 'cambridge-o-level-biology-5090-mineral-nutrition-revision-notes' },
     ]),
 
     // 7 Transport in flowering plants
@@ -257,6 +267,9 @@ export const DECK_CAMBRIDGE_O_LEVEL_BIOLOGY: FlashcardDeck = {
     ...sub('respiration', 'aerobic-respiration', '10.2', [
       { n: 1, f: 'Aerobic respiration: word and balanced equations', b: 'glucose + oxygen → carbon dioxide + water\nC₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O' },
       { n: 2, f: 'Cells (where respiration happens)', b: 'Aerobic respiration happens in the mitochondria; muscle cells have many of them.', src: RESP },
+      { n: 3, f: 'Define aerobic respiration', b: 'The release of a relatively large amount of energy by the breakdown of glucose in the presence of oxygen.', src: RESP },
+      { n: 4, f: 'How many oxygen molecules are needed, and carbon dioxide made, from 4 glucose molecules?', b: 'The ratio is 1 glucose : 6 O₂ : 6 CO₂ : 6 H₂O, so 4 glucose need 24 oxygen molecules and give 24 carbon dioxide molecules.', src: RESP },
+      { n: 5, f: 'Respiration vs breathing vs gas exchange', b: 'Respiration: chemical reactions in cells that release energy. Breathing: muscle movements that move air in and out of the lungs. Gas exchange: diffusion of oxygen and carbon dioxide across the alveoli.', src: RESP },
     ]),
     ...sub('respiration', 'anaerobic-respiration', '10.3', [
       { n: 1, f: 'Anaerobic respiration in humans and in yeast (word equations)', b: 'Humans (muscles): glucose → lactic acid.\nYeast: glucose → ethanol + carbon dioxide.' },
@@ -281,6 +294,9 @@ export const DECK_CAMBRIDGE_O_LEVEL_BIOLOGY: FlashcardDeck = {
     ...sub('transport-in-humans', 'blood-vessels', '11.3', [
       { n: 1, f: 'Artery vs vein vs capillary', b: 'Artery: high pressure, thick muscular elastic wall, narrow lumen, no valves.\nVein: low pressure, thin wall, wide lumen, valves.\nCapillary: wall one cell thick, short diffusion distance.' },
       { n: 2, f: 'Hepatic portal vein vs hepatic vein', b: 'Hepatic portal vein: small intestine → liver, rich in absorbed food.\nHepatic vein: liver → vena cava.' },
+      { n: 3, f: 'Name the vessels taking blood into and out of the lungs, kidneys and liver', b: 'Lungs: pulmonary artery in, pulmonary vein out. Kidneys: renal artery in, renal vein out. Liver: hepatic artery and hepatic portal vein in, hepatic vein out.', src: 'cambridge-o-level-biology-5090-blood-vessels-revision-notes' },
+      { n: 4, f: 'How is an artery\'s structure suited to its function?', b: 'The thick wall withstands high pressure. Elastic tissue stretches and recoils to smooth the surges, and muscle can change the width of the vessel.', src: 'cambridge-o-level-biology-5090-blood-vessels-revision-notes' },
+      { n: 5, f: 'How is a vein\'s structure suited to its function?', b: 'Pressure is low, so a thin wall is enough. A wide lumen reduces resistance, valves prevent backflow, and body muscles squeeze the veins to push blood on.', src: 'cambridge-o-level-biology-5090-blood-vessels-revision-notes' },
     ]),
     ...sub('transport-in-humans', 'blood', '11.4', [
       { n: 1, f: 'Functions of the blood components', b: 'Red cells: oxygen transport. Lymphocytes: produce antibodies. Phagocytes: engulf pathogens. Platelets: clotting. Plasma: transports cells, ions, glucose, amino acids, hormones, carbon dioxide, urea, vitamins and plasma proteins.' },
@@ -300,6 +316,10 @@ export const DECK_CAMBRIDGE_O_LEVEL_BIOLOGY: FlashcardDeck = {
     ]),
     ...sub('disease-and-immunity', 'antibiotics', '12.2', [
       { n: 1, f: 'Antibiotics and resistance', b: 'Antibiotics kill bacteria but do not affect viruses. Resistant bacteria (e.g. MRSA) survive and reproduce; resistance is minimised by using antibiotics only when essential.' },
+      { n: 2, f: 'Define a drug and an antibiotic', b: 'A drug is any substance taken into the body that modifies or affects chemical reactions in the body. An antibiotic is a drug that kills bacteria, used to treat bacterial infections.', src: 'cambridge-o-level-biology-5090-antibiotics-revision-notes' },
+      { n: 3, f: 'How does antibiotic resistance develop?', b: 'A chance mutation makes a bacterium resistant. The antibiotic kills the non-resistant bacteria; the resistant one survives, reproduces and passes on the gene. The resistant population grows.', src: 'cambridge-o-level-biology-5090-antibiotics-revision-notes' },
+      { n: 4, f: 'How can the development of antibiotic resistance be minimised?', b: 'Use antibiotics only when essential, never for viral infections, and complete the prescribed course. Limit use in farming and keep up hospital hygiene to stop MRSA spreading.', src: 'cambridge-o-level-biology-5090-antibiotics-revision-notes' },
+      { n: 5, f: 'In the inhibition zone practical, what does a clear zone round a disc show?', b: 'The bacteria cannot grow there. A larger zone means a more effective antibiotic; no zone means the bacteria are resistant.', src: 'cambridge-o-level-biology-5090-antibiotics-revision-notes' },
     ]),
     ...sub('disease-and-immunity', 'immunity', '12.3', [
       { n: 1, f: 'Active vs passive immunity', b: 'Active: defence by antibody production in the body; memory cells, long-term.\nPassive: short-term defence by antibodies acquired from another individual (across the placenta, in breast milk); no memory cells.' },
@@ -327,6 +347,9 @@ export const DECK_CAMBRIDGE_O_LEVEL_BIOLOGY: FlashcardDeck = {
     ...sub('coordination-and-control', 'mammalian-nervous-system', '14.1', [
       { n: 1, f: 'Reflex arc (O Level)', b: 'Receptor → sensory neurone → relay neurone → motor neurone → effector (muscle or gland). A reflex action is a rapid and automatic response to a stimulus.' },
       { n: 2, f: 'Events at a synapse (O Level)', b: 'An impulse arrives; neurotransmitter is released from vesicles into the gap; it diffuses across and binds with receptor proteins on the next neurone; an impulse is stimulated there. One way only: vesicles on one side, receptors on the other.' },
+      { n: 3, f: 'CNS vs PNS, and the three types of neurone', b: 'CNS: brain and spinal cord. PNS: nerves outside them. Sensory neurones carry impulses from receptor to CNS, relay neurones link within the CNS, motor neurones carry them from CNS to effector.', src: 'cambridge-o-level-biology-5090-mammalian-nervous-system-revision-notes' },
+      { n: 4, f: 'Why are reflex actions fast?', b: 'The pathway is short with few synapses, and the response is automatic, so no decision by the brain is needed. Reflexes protect the body, e.g. pulling a hand from heat.', src: 'cambridge-o-level-biology-5090-mammalian-nervous-system-revision-notes' },
+      { n: 5, f: 'An impulse travels 1.2 m to the spinal cord and 1.2 m back at 80 m/s. How long does it take?', b: 'Distance = 2.4 m. Time = 2.4 ÷ 80 = 0.03 s. The synapses add a little more time.', src: 'cambridge-o-level-biology-5090-mammalian-nervous-system-revision-notes' },
     ]),
     ...sub('coordination-and-control', 'mammalian-sense-organs', '14.2', [
       { n: 1, f: 'Functions of the cornea, lens, retina and fovea', b: 'Cornea: refracts light. Lens: focuses light onto the retina. Retina: light receptors, some sensitive to different colours. Fovea: greatest density of light receptors.' },
@@ -336,17 +359,30 @@ export const DECK_CAMBRIDGE_O_LEVEL_BIOLOGY: FlashcardDeck = {
     ...sub('coordination-and-control', 'mammalian-hormones', '14.3', [
       { n: 1, f: 'Hormones from the pituitary, pancreas and adrenal glands', b: 'Pituitary: FSH and LH. Pancreas: insulin and glucagon. Adrenal glands: adrenaline.' },
       { n: 2, f: 'Effects of adrenaline', b: 'Released in fear, stress or excitement. It raises the blood glucose concentration and the heart rate, so more glucose and oxygen reach the muscles for respiration.' },
+      { n: 3, f: 'Define a hormone', b: 'A chemical substance, produced by a gland and carried by the blood, which alters the activity of one or more specific target organs.', src: 'cambridge-o-level-biology-5090-mammalian-hormones-revision-notes' },
+      { n: 4, f: 'Nervous vs hormonal control', b: 'Nervous: electrical impulses along neurones, very fast, short-lived. Hormonal: chemicals in the blood, slower and longer-lasting, because hormones must reach the target organ and stay until broken down.', src: 'cambridge-o-level-biology-5090-mammalian-hormones-revision-notes' },
+      { n: 5, f: 'Which hormones do the testes and ovaries make?', b: 'Testes: testosterone. Ovaries: oestrogen and progesterone.', src: 'cambridge-o-level-biology-5090-mammalian-hormones-revision-notes' },
     ]),
     ...sub('coordination-and-control', 'homeostasis', '14.4', [
       { n: 1, f: 'Negative feedback (O Level)', b: 'A change away from the set point triggers a response that returns the value towards the set point.' },
+      { n: 2, f: 'Define homeostasis', b: 'The maintenance of a constant internal environment, meaning the blood and tissue fluid surrounding the cells.', src: 'cambridge-o-level-biology-5090-homeostasis-revision-notes' },
+      { n: 3, f: 'Parts of a negative feedback loop', b: 'Receptor: detects the change from the set point. Control centre: compares it with the set point (the hypothalamus for temperature). Effector: carries out the corrective response, which reverses the change.', src: 'cambridge-o-level-biology-5090-homeostasis-revision-notes' },
+      { n: 4, f: 'Why is homeostasis important?', b: 'Enzymes work best at an optimum temperature and pH. Cells need a steady glucose supply and the right water content to avoid osmosis swelling or shrinking them.', src: 'cambridge-o-level-biology-5090-homeostasis-revision-notes' },
+      { n: 5, f: 'How does a thermostat illustrate negative feedback?', b: 'The set temperature is the set point, the thermometer is the receptor, the switch is the control centre and the heater is the effector. The room warms, so the heater switches off.', src: 'cambridge-o-level-biology-5090-homeostasis-revision-notes' },
     ]),
     ...sub('coordination-and-control', 'temperature-control', '14.5', [
       { n: 1, f: 'Responses to overheating (O Level)', b: 'Sweating: water evaporates, transferring heat away. Hair erector muscles relax, hairs lie flat. Vasodilation: skin arterioles widen, so more heat is lost by radiation. Coordinated by the hypothalamus.' },
       { n: 2, f: 'Responses to getting too cold (O Level)', b: 'Shivering: respiration in contracting muscles releases heat. Hair erector muscles contract, hairs trap air. Vasoconstriction: skin arterioles narrow, so less heat is lost.' },
+      { n: 3, f: 'Which structures detect, control and carry out temperature regulation?', b: 'Receptors in the skin and brain detect changes. The hypothalamus is the control centre. Effectors are sweat glands, skeletal muscles, hair erector muscles and skin arterioles.', src: 'cambridge-o-level-biology-5090-temperature-control-revision-notes' },
+      { n: 4, f: 'Why does sweating cool the body?', b: 'Evaporating water needs energy, and this energy is taken from the skin, so the skin cools.', src: 'cambridge-o-level-biology-5090-temperature-control-revision-notes' },
+      { n: 5, f: 'What does insulation do in the skin?', b: 'Fatty tissue and hair reduce heat loss, and trapped air is a poor conductor of heat. Insulation does not produce heat; it only slows heat loss.', src: 'cambridge-o-level-biology-5090-temperature-control-revision-notes' },
     ]),
     ...sub('coordination-and-control', 'blood-glucose-control', '14.6', [
       { n: 1, f: 'How blood glucose concentration is controlled', b: 'High: pancreas secretes insulin; the liver converts glucose to glycogen; level falls.\nLow: pancreas secretes glucagon; the liver converts glycogen to glucose; level rises.' },
       { n: 2, f: 'Type 1 diabetes: signs and treatment', b: 'Signs: increased blood glucose concentration and glucose in the urine. Treatment: administration of insulin.' },
+      { n: 3, f: 'Why must blood glucose concentration be controlled?', b: 'Too low: not enough glucose for respiration, so the brain and muscles lack energy. Too high: it upsets the water balance of cells by osmosis and glucose is lost in the urine.', src: 'cambridge-o-level-biology-5090-blood-glucose-control-revision-notes' },
+      { n: 4, f: 'Why is insulin injected rather than swallowed?', b: 'Insulin is a protein. If swallowed it would be digested.', src: 'cambridge-o-level-biology-5090-blood-glucose-control-revision-notes' },
+      { n: 5, f: 'Why does glucose appear in the urine in Type 1 diabetes?', b: 'Blood glucose is so high that the kidney tubules cannot reabsorb all of it, so some passes out in the urine.', src: 'cambridge-o-level-biology-5090-blood-glucose-control-revision-notes' },
     ]),
 
     // 15 Coordination and response in plants
@@ -370,6 +406,10 @@ export const DECK_CAMBRIDGE_O_LEVEL_BIOLOGY: FlashcardDeck = {
     ]),
     ...sub('development-of-organisms-and-continuity-of-life', 'asexual-and-sexual-reproduction', '16.2', [
       { n: 1, f: 'Asexual vs sexual reproduction: one advantage of each', b: 'Asexual: no mate or pollinator needed; fast; good features kept.\nSexual: variation, so the population can respond to environmental change.' },
+      { n: 2, f: 'Define asexual reproduction', b: 'A process resulting in the production of genetically identical offspring from one parent. Offspring are clones, and nuclear division is by mitosis.', src: 'cambridge-o-level-biology-5090-asexual-and-sexual-reproduction-revision-notes' },
+      { n: 3, f: 'Define sexual reproduction', b: 'The fusion of haploid nuclei (fertilisation) to form a diploid zygote, producing genetically different offspring. Haploid gametes are made by meiosis.', src: 'cambridge-o-level-biology-5090-asexual-and-sexual-reproduction-revision-notes' },
+      { n: 4, f: 'Give examples of asexual reproduction in bacteria, yeast, strawberry, potato and onion', b: 'Bacteria: binary fission. Yeast: budding. Strawberry: runners. Potato: tubers. Onion and daffodil: bulbs. Gardeners also use cuttings.', src: 'cambridge-o-level-biology-5090-asexual-and-sexual-reproduction-revision-notes' },
+      { n: 5, f: 'Disadvantages of asexual and of sexual reproduction', b: 'Asexual: no variation, so a whole population is at risk from one disease or change. Sexual: needs two parents and a mate, is slower, uses more energy and gives fewer offspring.', src: 'cambridge-o-level-biology-5090-asexual-and-sexual-reproduction-revision-notes' },
     ]),
     ...sub('development-of-organisms-and-continuity-of-life', 'sexual-reproduction-in-plants', '16.3', [
       { n: 1, f: 'Pollination v fertilisation', b: 'Moving pollen v fusing nuclei.', src: DEV },
@@ -403,6 +443,10 @@ export const DECK_CAMBRIDGE_O_LEVEL_BIOLOGY: FlashcardDeck = {
     ]),
     ...sub('inheritance', 'selection', '17.4', [
       { n: 1, f: 'Natural v artificial selection', b: 'Environment selects v humans select.', src: INH },
+      { n: 2, f: 'Five points that explain natural selection', b: 'Variation in the population; many offspring; a struggle for survival with competition for resources; better-adapted individuals survive and reproduce; they pass on their alleles.', src: INH },
+      { n: 3, f: 'How do antibiotic-resistant bacteria such as MRSA arise?', b: 'Mutation gives a few bacteria resistance. The antibiotic kills the non-resistant ones, the resistant ones survive and reproduce, and the resistance allele is passed on to give a resistant strain.', src: INH },
+      { n: 4, f: 'Four points of artificial selection', b: 'Humans select individuals with desirable features, cross them, select offspring with the desirable features, and repeat over many generations.', src: INH },
+      { n: 5, f: 'What is artificial selection used for?', b: 'Producing economically important plants and animals, such as high-yield or disease-resistant crops and cattle with high milk yield.', src: INH },
     ]),
 
     // 18 Biotechnology and genetic modification
@@ -432,17 +476,31 @@ export const DECK_CAMBRIDGE_O_LEVEL_BIOLOGY: FlashcardDeck = {
     ...sub('relationships-of-organisms-with-one-another-and-with-the-environment', 'nutrient-cycles', '19.2', [
       { n: 1, f: 'Carbon cycle processes that add carbon dioxide to the air', b: 'Respiration (by plants, animals and decomposers), decomposition and combustion of fossil fuels and wood. Photosynthesis removes it.' },
       { n: 2, f: 'Nitrogen fixation, nitrification and denitrification', b: 'Fixation: nitrogen gas → compounds plants can use (lightning or nitrogen-fixing bacteria).\nNitrification: ammonium ions → nitrate ions (nitrifying bacteria).\nDenitrification: nitrate ions → nitrogen gas (denitrifying bacteria).' },
+      { n: 3, f: 'How do decomposers break down dead matter, and what makes it faster?', b: 'Fungi and bacteria release enzymes onto dead matter, which digest it to soluble molecules that are absorbed. They respire, releasing carbon dioxide. It is faster when warm, moist and with oxygen.', src: 'cambridge-o-level-biology-5090-nutrient-cycles-revision-notes' },
+      { n: 4, f: 'Why do plants grow poorly in waterlogged soil?', b: 'Denitrification increases, so nitrate ions fall, plants make less protein and grow poorly.', src: 'cambridge-o-level-biology-5090-nutrient-cycles-revision-notes' },
+      { n: 5, f: 'Why can legumes grow in poor soil and enrich it?', b: 'Nitrogen-fixing bacteria in the root nodules provide nitrogen compounds. When the legumes decay, the nitrogen compounds return to the soil.', src: 'cambridge-o-level-biology-5090-nutrient-cycles-revision-notes' },
     ]),
     ...sub('relationships-of-organisms-with-one-another-and-with-the-environment', 'ecosystems-and-biodiversity', '19.3', [
       { n: 1, f: 'Population, community, ecosystem and biodiversity', b: 'Population: one species, same area, same time. Community: all the populations of different species in an ecosystem. Ecosystem: the community and its environment interacting. Biodiversity: the number of different species in an area.' },
+      { n: 2, f: 'Factors affecting the growth of a population', b: 'Food supply, competition, predation and disease. Births and immigration increase a population; deaths and emigration decrease it.', src: 'cambridge-o-level-biology-5090-ecosystems-and-biodiversity-revision-notes' },
+      { n: 3, f: 'Describe the three phases of a population growth curve', b: 'A slow start with few individuals, a rapid increase while resources are plentiful, then levelling off as food, competition, predation and disease limit growth.', src: 'cambridge-o-level-biology-5090-ecosystems-and-biodiversity-revision-notes' },
+      { n: 4, f: 'Describe the predator and prey population pattern', b: 'Prey increase, so predators have more food and increase later. More predators eat more prey, so prey fall, then predators fall. The cycle repeats, with the predator peak following the prey peak.', src: 'cambridge-o-level-biology-5090-ecosystems-and-biodiversity-revision-notes' },
+      { n: 5, f: 'Why is the human population growing, and what are the consequences?', b: 'Death rates have fallen through better food, medicine and sanitation. Demand for food, land, water and energy rises, causing deforestation, pollution and loss of habitats and biodiversity.', src: 'cambridge-o-level-biology-5090-ecosystems-and-biodiversity-revision-notes' },
     ]),
     ...sub('relationships-of-organisms-with-one-another-and-with-the-environment', 'effects-of-humans-on-ecosystems', '19.4', [
       { n: 1, f: 'Non-native species', b: 'No natural predators or diseases; spreads fast; out-competes or eats native species.', src: REL },
       { n: 2, f: 'Eutrophication chain (O Level)', b: 'More nitrate and other ions → more growth of producers → more decomposition when they die → more aerobic respiration by decomposers → less dissolved oxygen → organisms that need dissolved oxygen die.' },
+      { n: 3, f: 'Five consequences of deforestation', b: 'Loss of biodiversity, extinction of species, loss of soil (no roots to hold it), flooding, and a higher carbon dioxide concentration (less photosynthesis; burning releases carbon dioxide).', src: REL },
+      { n: 4, f: 'What is over-harvesting and what are its effects?', b: 'Species are removed faster than they reproduce. Populations fall and may become extinct, and food webs are disrupted.', src: REL },
+      { n: 5, f: 'Effects of greenhouse gases such as carbon dioxide and methane', b: 'They trap heat, contributing to global warming. Likely effects include rising sea levels, more extreme weather and changes in species distribution.', src: REL },
+      { n: 6, f: 'Harmful effects of insecticides, herbicides and non-biodegradable plastics', b: 'Insecticides kill non-target insects such as pollinators and harm animals that eat them. Herbicides kill non-target plants. Plastics persist, so animals are entangled or swallow them.', src: REL },
     ]),
     ...sub('relationships-of-organisms-with-one-another-and-with-the-environment', 'conservation', '19.5', [
       { n: 1, f: 'Sustainable resource', b: 'One produced as rapidly as it is removed from the environment, so that it does not run out.', src: REL },
       { n: 2, f: 'Fish stocks', b: 'Education, closed seasons, protected areas, controlled net types and mesh size, quotas, monitoring.', src: REL },
+      { n: 3, f: 'Why conserve species and habitats?', b: 'To maintain biodiversity, reduce extinction and protect vulnerable environments.', src: REL },
+      { n: 4, f: 'Conservation measures for forests and for fish stocks', b: 'Forests: education, protected areas, quotas, replanting. Fish stocks: education, closed seasons, protected areas, controlled net types and mesh size, quotas, monitoring.', src: REL },
+      { n: 5, f: 'What is a sustainable resource?', b: 'One that is produced as rapidly as it is removed from the environment, so that it does not run out.', src: REL },
     ]),
   ],
 };

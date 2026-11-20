@@ -302,10 +302,16 @@ export const DECK_EDEXCEL_IGCSE_BIOLOGY: FlashcardDeck = {
     ...sub(T4, 'feeding-relationships-4bi1', 'b', [
       { n: 301, f: 'Pyramids of numbers, biomass and energy: which is always a true pyramid?', b: 'The pyramid of energy is always a pyramid. Biomass almost always is. Numbers can be any shape (one tree, many insects).' },
       { n: 302, f: 'Primary consumers receive 5000 kJ and pass 450 kJ on. Efficiency, and where the rest goes?', b: '(450 ÷ 5000) × 100 = 9.0%. The rest is lost mainly as heat from respiration, and in parts not eaten, faeces, excretion and movement.' },
+      { n: 303, f: 'Applying the 10% rule: producers hold 5000 kJ. Energy at each consumer level?', b: 'Primary consumers 5000 × 0.1 = 500 kJ; secondary 50 kJ; tertiary 5 kJ. Always take 10% of the energy of the lower level, not the higher one.', src: 'edexcel-igcse-biology-4bi1-feeding-relationships-revision-notes' },
+      { n: 304, f: 'Why is energy lost between trophic levels, and why are food chains short?', b: 'Lost through respiration (heat), parts not eaten such as bones and roots, faeces, excretion, and heat lost by birds and mammals. About 90% is lost at each step, so chains have four or five levels at most.', src: 'edexcel-igcse-biology-4bi1-feeding-relationships-revision-notes' },
+      { n: 305, f: 'Substances vs energy in a food chain: which is recycled?', b: 'Carbon and nitrogen are recycled: decomposers return them to the soil and air. Energy is not recycled, as it leaves as heat, so a constant supply of light from the Sun is needed.', src: 'edexcel-igcse-biology-4bi1-feeding-relationships-revision-notes' },
     ]),
     ...sub(T4, 'cycles-within-ecosystems-4bi1', 'c', [
       { n: 301, f: 'Processes in the carbon cycle that remove and return CO₂', b: 'Removed: photosynthesis.\nReturned: respiration by plants, animals and decomposers; combustion of fossil fuels and wood. Carbon passes along food chains by feeding.' },
       { n: 302, f: 'Roles of nitrogen-fixing, nitrifying and denitrifying bacteria', b: 'Nitrogen-fixing (soil, legume root nodules): nitrogen gas → nitrogen compounds.\nNitrifying (need oxygen): ammonium → nitrite → nitrate.\nDenitrifying (waterlogged soil): nitrate → nitrogen gas. (Paper 2 only)' },
+      { n: 303, f: 'Plants take in 900 units of carbon by photosynthesis and release 380 by respiration. Net uptake and % retained?', b: 'Net uptake = 900 − 380 = 520 units. Percentage retained = 520 ÷ 900 × 100 = 57.8%. In the light, photosynthesis is usually faster than respiration, so there is net uptake of CO₂.', src: 'edexcel-igcse-biology-4bi1-cycles-within-ecosystems-revision-notes' },
+      { n: 304, f: 'Why are decomposers important in the carbon cycle and for soil?', b: 'They break down dead organisms and waste, and their respiration returns carbon dioxide to the air. They also return mineral nutrients to the soil for plants to use.', src: 'edexcel-igcse-biology-4bi1-cycles-within-ecosystems-revision-notes' },
+      { n: 305, f: 'Why do plants need nitrate, and what do legume root nodules do? (Paper 2 only)', b: 'Plants absorb nitrate ions through their roots to make amino acids and proteins; without it growth is poor and leaves turn yellow. Nitrogen-fixing bacteria in legume root nodules supply nitrogen compounds in return for carbohydrate. (Paper 2 only)', src: 'edexcel-igcse-biology-4bi1-cycles-within-ecosystems-revision-notes' },
     ]),
     ...sub(T4, 'human-influences-on-the-environment-4bi1', 'd', [
       { n: 301, f: 'Sulfur dioxide and carbon monoxide: source and effect', b: 'Sulfur dioxide: burning fossil fuels containing sulfur; acid rain damages leaves, kills trees and acidifies lakes.\nCarbon monoxide: incomplete combustion; binds to haemoglobin, so less oxygen is carried.' },
@@ -326,6 +332,10 @@ export const DECK_EDEXCEL_IGCSE_BIOLOGY: FlashcardDeck = {
     ]),
     ...sub(T5, 'selective-breeding-4bi1', 'b', [
       { n: 401, f: 'Selective breeding: the steps', b: 'Choose parents with the desired characteristic; cross them; select the offspring showing it most strongly; cross these; repeat for many generations.' },
+      { n: 402, f: 'Advantages and disadvantages of selective breeding', b: 'Advantages: more yield or product, better quality, disease resistance, simple with no special equipment. Disadvantages: slow, less genetic variation so disease can hit the whole population, inbreeding can bring out harmful recessive alleles.', src: 'edexcel-igcse-biology-4bi1-selective-breeding-revision-notes' },
+      { n: 403, f: 'Milk yield rises from 5000 to 5960 litres over 3 generations. Percentage increase and mean change per generation?', b: 'Increase = 960 ÷ 5000 × 100 = 19.2%. Mean change per generation = 960 ÷ 3 = 320 litres.', src: 'edexcel-igcse-biology-4bi1-selective-breeding-revision-notes' },
+      { n: 404, f: 'Selective breeding vs natural selection', b: 'In natural selection the environment selects and favours survival and reproduction. In selective breeding humans select and favour characteristics useful to humans.', src: 'edexcel-igcse-biology-4bi1-selective-breeding-revision-notes' },
+      { n: 405, f: 'How can breeders judge a bull for milk yield?', b: 'Males cannot be measured for milk yield, so the evidence comes from the milk yield of his mother or daughters.', src: 'edexcel-igcse-biology-4bi1-selective-breeding-revision-notes' },
     ]),
     ...sub(T5, 'genetic-modification-genetic-engineering-4bi1', 'c', [
       { n: 401, f: 'Transgenic', b: 'Genetic material has been transferred from one species to a different species.', src: USE },
@@ -334,6 +344,10 @@ export const DECK_EDEXCEL_IGCSE_BIOLOGY: FlashcardDeck = {
     ]),
     ...sub(T5, 'cloning-4bi1', 'd', [
       { n: 401, f: 'Cloning Dolly the sheep: which sheep is the clone identical to?', b: 'A diploid body-cell nucleus from sheep A goes into an egg from sheep B whose nucleus was removed; an electric shock makes it divide; the embryo is implanted in surrogate C. The lamb is a clone of sheep A, the nucleus donor. (Paper 2 only)' },
+      { n: 402, f: 'Stages of micropropagation (Paper 2 only)', b: 'Choose a parent plant; cut small explants; sterilise explants and equipment; place on sterile nutrient medium with growth substances; cells divide by mitosis to form plantlets; move plantlets to compost. (Paper 2 only)', src: 'edexcel-igcse-biology-4bi1-cloning-revision-notes' },
+      { n: 403, f: 'Advantages and disadvantages of micropropagation (Paper 2 only)', b: 'Many identical plants quickly, all year, disease-free and useful for rare species. But no variation so one disease can affect all, it is costly, and contamination can ruin a batch. (Paper 2 only)', src: 'edexcel-igcse-biology-4bi1-cloning-revision-notes' },
+      { n: 404, f: 'How are cloned transgenic animals used to make medicines? (Paper 2 only)', b: 'A human gene is put into an animal cell by genetic engineering and the nucleus is used to clone animals. Each makes the human protein, usually in milk, which is purified. Cloning gives a large, reliable herd. (Paper 2 only)', src: 'edexcel-igcse-biology-4bi1-cloning-revision-notes' },
+      { n: 405, f: '3 shoots per cycle for 4 cycles of 3 weeks: plants and time? (Paper 2 only)', b: 'Number = 3⁴ = 81 plants. Time = 4 × 3 = 12 weeks. (Paper 2 only)', src: 'edexcel-igcse-biology-4bi1-cloning-revision-notes' },
     ]),
   ],
 };

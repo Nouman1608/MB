@@ -10,9 +10,10 @@
  * keyed by them): add a new card with the next unused n, never renumber. Card
  * text is unchanged.
  *
- * The course's 0715 revision notes map to topics only (no subtopic), so no card
- * can cite a page as `source`: every card is authored (origin 'authored'),
- * written from Marlbridge's own 0715 study guides and revision notes. Insurance
+ * Most cards are authored (origin 'authored'), written from Marlbridge's own
+ * 0715 study guides and revision notes; the 5.2 Banking cards added on 20 Nov
+ * 2026 cite the banking revision notes (`src`), which are tagged to that
+ * subtopic. Insurance
  * cards keep to what the revision notes give as the syllabus requirement
  * (purposes, named risks, pooling, premiums, documents, brokers), not the
  * classical principles of insurance. Worked figures are invented for
@@ -184,6 +185,9 @@ export const DECK_CAMBRIDGE_IGCSE_COMMERCE: FlashcardDeck = {
     ...sub('aids-to-trade-that-support-commerce-0715', 'banking-0715', '5.2', [
       { n: 1, f: 'Standing order vs direct debit', b: 'Standing order: a fixed amount paid on set dates, set up and changed by the payer.\nDirect debit: the receiver collects an amount that can vary, such as a utility bill.' },
       { n: 2, f: 'What has been the impact of digital banking?', b: 'Closure of bank branches, more digital-only banks and less use of cash, a move towards a cashless society.' },
+      { n: 3, f: 'Current account vs deposit (savings) account', b: 'Current: everyday payments, access at any time, little or no interest, with a cheque book and debit card. Deposit: for saving, pays interest, may need notice or have limits, with fewer payment tools.', src: 'cambridge-igcse-commerce-0715-banking-revision-notes' },
+      { n: 4, f: 'Overdraft, loan, mortgage and hire purchase: how do they differ?', b: 'Overdraft: spend beyond the balance up to a limit, short term. Loan: a fixed sum repaid with interest, medium term. Mortgage: long-term loan secured on property. Hire purchase: deposit plus instalments, ownership after the last payment.', src: 'cambridge-igcse-commerce-0715-banking-revision-notes' },
+      { n: 5, f: 'What is a documentary credit (letter of credit)?', b: 'A bank pays the exporter against shipping documents. It protects both importer and exporter when buying from overseas.', src: 'cambridge-igcse-commerce-0715-banking-revision-notes' },
     ]),
     ...sub('aids-to-trade-that-support-commerce-0715', 'insurance-0715', '5.3', [
       { n: 1, f: 'What are the five purposes of insurance in the syllabus?', b: 'Risk reduction, compensation, financial protection, business confidence and investment.' },

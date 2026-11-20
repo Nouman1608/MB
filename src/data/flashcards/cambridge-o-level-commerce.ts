@@ -12,8 +12,8 @@
  *
  * 7100 shares its six-topic structure with IGCSE 0715; this deck is written
  * separately for 7100, from Marlbridge's own 7100 study guides, revision notes
- * and exam-preparation page. The course's revision notes map to topics only (no
- * subtopic), so no card can cite a page as `source`: every card is authored.
+ * and exam-preparation page. Where a subtopic has its own 7100 revision-notes
+ * page, a card that restates it names that page as `src`; most cards are authored.
  * Insurance cards keep to the purposes, named risks, pooling, documents and
  * brokers. Worked figures are invented for illustration. Not tiered. Plain text
  * only (see types.ts).
@@ -149,6 +149,9 @@ export const DECK_CAMBRIDGE_O_LEVEL_COMMERCE: FlashcardDeck = {
     ...sub('globalisation-of-trade-7100', 'global-supply-chain-management-7100', '3.2', [
       { n: 1, f: 'What is a global supply chain?', b: 'The network of suppliers, manufacturers, agents, wholesalers and retailers in different countries that moves a product from raw materials to the final consumer.' },
       { n: 2, f: 'Give three risks to a global supply chain', b: 'Natural disasters, political change such as new tariffs or embargoes, and financial risk such as currency changes. Ethical, environmental and technological risks also apply.' },
+      { n: 3, f: 'Name the links in a simple and in a complex supply chain', b: 'Simple: supplier, manufacturer, consumer. Complex: supplier, agent, wholesaler, retailer, consumer. Each extra link adds cost but does a job.', src: 'cambridge-o-level-commerce-7100-global-supply-chain-management-revision-notes' },
+      { n: 4, f: 'Upstream, the enterprise and downstream: what does each mean?', b: 'Upstream: suppliers and activities before the business. The enterprise: the business itself, turning inputs into products. Downstream: distribution and selling after the business. For a bakery: farm and mill, bakery, delivery van and supermarket.', src: 'cambridge-o-level-commerce-7100-global-supply-chain-management-revision-notes' },
+      { n: 5, f: 'Benefits of global supply chain management', b: 'Lower cost of production, lower labour costs, lower purchasing costs, and advances in logistics and communication.', src: 'cambridge-o-level-commerce-7100-global-supply-chain-management-revision-notes' },
     ]),
 
     // 4 Logistics in commerce
@@ -178,6 +181,9 @@ export const DECK_CAMBRIDGE_O_LEVEL_COMMERCE: FlashcardDeck = {
     ...sub('aids-to-trade-that-support-commerce-7100', 'banking-7100', '5.2', [
       { n: 1, f: 'Standing order vs direct debit', b: 'Standing order: a fixed amount paid on set dates, set up and changed by the payer.\nDirect debit: the receiver collects an amount that can vary, such as a utility bill.' },
       { n: 2, f: 'What has been the impact of digital banking?', b: 'Closure of bank branches, more digital-only banks and less use of cash, a move towards a cashless society.' },
+      { n: 3, f: 'Debit card, credit card and store card: where does the money come from?', b: 'Debit: from your bank account now, so no interest. Credit: borrowed from the card company, with interest if not paid in full. Store card: shop credit, often at a high interest rate.', src: 'cambridge-o-level-commerce-7100-banking-revision-notes' },
+      { n: 4, f: 'Which banking service suits each situation: takings after closing, a short cash shortage, buying a house?', b: 'Takings after the bank closes: a night safe. A short-term cash shortage: an overdraft. Buying a house: a mortgage, a long-term loan secured on the property.', src: 'cambridge-o-level-commerce-7100-banking-revision-notes' },
+      { n: 5, f: 'What is a documentary credit?', b: 'A bank’s promise to pay an exporter once the exporter provides the required documents, giving the exporter payment security.', src: 'cambridge-o-level-commerce-7100-banking-revision-notes' },
     ]),
     ...sub('aids-to-trade-that-support-commerce-7100', 'insurance-7100', '5.3', [
       { n: 1, f: 'What are the five purposes of insurance in the syllabus?', b: 'Risk reduction, compensation, financial protection, business confidence and investment.' },

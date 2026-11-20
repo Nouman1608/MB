@@ -210,6 +210,10 @@ export const DECK_AQA_GCSE_MATHEMATICS: FlashcardDeck = {
     ]),
     ...sub('geometry-and-measures-aqa-gcse-maths', 'vectors-aqa-gcse-maths', '3.4.3', [
       { n: 1, f: 'How do you prove three points are collinear with vectors?', b: 'Show two of the vectors are parallel (one is a multiple of the other) and that they share a point. Parallel alone is not enough.', u: true },
+      { n: 2, f: 'Vector from A(2, 5) to B(7, 1) as a column vector', b: 'B − A = (7 − 2, 1 − 5) = (5, −4): 5 right and 4 down. The vector BA is the opposite, −AB = (−5, 4).', src: 'aqa-gcse-maths-8300-vectors-revision-notes' },
+      { n: 3, f: 'a = (3, 2) and b = (−1, 4). Work out 3a − b', b: '3a = (9, 6). 3a − b = (9 − (−1), 6 − 4) = (10, 2). Multiply every entry by the scalar, then subtract entry by entry, taking care with negatives.', src: 'aqa-gcse-maths-8300-vectors-revision-notes' },
+      { n: 4, f: 'In parallelogram ABCD, AB = p and AD = q. Write AC and BD in terms of p and q', b: 'AC = p + q. BD = BA + AD = −p + q = q − p. Choose a route along known vectors: add going along an arrow, subtract going against it.', src: 'aqa-gcse-maths-8300-vectors-revision-notes' },
+      { n: 5, f: 'OA = a, OB = b and P is the midpoint of AB. Write OP in terms of a and b (Higher tier only)', b: 'OP = OA + ½AB = a + ½(b − a) = ½(a + b). The midpoint\'s position vector is half the sum of the two end position vectors.', u: true, src: 'aqa-gcse-maths-8300-vectors-revision-notes' },
     ]),
 
     // 5 Probability

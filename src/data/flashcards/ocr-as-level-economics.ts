@@ -57,7 +57,7 @@ export const DECK_OCR_AS_LEVEL_ECONOMICS: FlashcardDeck = {
   syllabusCode: 'H060',
   syllabusSeries: 'Version 3.0 (June 2026), for first assessment in 2020',
   author: 'marlbridge-academic-team',
-  updated: '2026-11-19',
+  updated: '2026-11-20',
   deckReview: { reviewerSlug: 'salman-ahmad', reviewedOn: '2026-11-05' },
   // D-505: old id -> new id, so progress saved before the re-filing follows each card.
   // Old ids not listed were removed cards. Several old ids now name a different card,
@@ -138,16 +138,30 @@ export const DECK_OCR_AS_LEVEL_ECONOMICS: FlashcardDeck = {
     ...sub(T2, 'demand-ocr-aslevel-economics', '2.2', [
       { n: 1, f: 'Contraction of demand vs decrease in demand', b: 'Contraction: a movement along the demand curve after a rise in the good\'s own price.\nDecrease: a leftward shift caused by anything else.' },
       { n: 2, f: 'Derived vs composite demand', b: 'Derived: demand for a good or factor because of demand for what it helps to make.\nComposite: one good is wanted for several uses.' },
+      { n: 3, f: 'How is market demand found from individual demand curves?', b: 'Add the quantities at each price (a horizontal sum). Never add the prices.', src: 'ocr-as-level-economics-h060-supply-and-demand-and-the-interaction-of-markets-ocr-aslevel-economics-revision-notes' },
+      { n: 4, f: 'Which changes shift the demand curve to the right?', b: 'A rise in income (for a normal good), a rise in the price of a substitute, a fall in the price of a complement, tastes or advertising favouring the good, and population growth.', src: 'ocr-as-level-economics-h060-supply-and-demand-and-the-interaction-of-markets-ocr-aslevel-economics-revision-notes' },
+      { n: 5, f: 'Qd = 900 − 60P. The price rises from £5 to £6. Movement or shift, and what is the new quantity?', b: 'A movement along the curve (a contraction), because the good\'s own price changed. Quantity falls from 600 to 540.', src: 'ocr-as-level-economics-h060-supply-and-demand-and-the-interaction-of-markets-ocr-aslevel-economics-revision-notes' },
     ]),
     ...sub(T2, 'supply-ocr-aslevel-economics', '2.3', [
       { n: 1, f: 'Joint supply vs competitive supply', b: 'Joint: one process yields two or more products (beef and leather).\nCompetitive: producers can switch inputs between products, so the goods compete for resources.' },
+      { n: 2, f: 'Define supply.', b: 'The quantity producers are willing and able to sell at each price over a period. Ceteris paribus holds every other factor constant.', src: 'ocr-as-level-economics-h060-supply-and-demand-and-the-interaction-of-markets-ocr-aslevel-economics-revision-notes' },
+      { n: 3, f: 'Which changes shift the supply curve to the right?', b: 'Lower costs of production, better technology, lower indirect taxes or higher subsidies, more firms entering, and good weather for crops.', src: 'ocr-as-level-economics-h060-supply-and-demand-and-the-interaction-of-markets-ocr-aslevel-economics-revision-notes' },
+      { n: 4, f: 'Extension of supply vs increase in supply', b: 'Extension: a movement along the supply curve after a rise in the good\'s own price. Increase: a shift of the whole curve to the right, caused by any other factor.', src: 'ocr-as-level-economics-h060-supply-and-demand-and-the-interaction-of-markets-ocr-aslevel-economics-revision-notes' },
+      { n: 5, f: 'Qs = 120P − 180. Find the quantity supplied at £6 and the price at which supply is zero.', b: 'At £6, Qs = 720 − 180 = 540. Supply is zero when 120P = 180, so P = £1.50, the price-axis intercept.', src: 'ocr-as-level-economics-h060-supply-and-demand-and-the-interaction-of-markets-ocr-aslevel-economics-revision-notes' },
     ]),
     ...sub(T2, 'consumer-and-producer-surplus-ocr-aslevel-economics', '2.4', [
       { n: 1, f: 'Consumer surplus and producer surplus', b: 'Consumer surplus: the most buyers would pay minus the price paid; area beneath demand, above price.\nProducer surplus: price received minus the least sellers would accept; area above supply, below price.' },
+      { n: 2, f: 'How do you calculate consumer surplus from linear demand and supply equations?', b: 'Solve for equilibrium price P and quantity Q, find the demand price-axis intercept, then consumer surplus = 0.5 × (demand intercept − P) × Q.', src: 'ocr-as-level-economics-h060-supply-and-demand-and-the-interaction-of-markets-ocr-aslevel-economics-revision-notes' },
+      { n: 3, f: 'How do you calculate producer surplus from linear equations?', b: 'Solve for equilibrium P and Q, find the supply price-axis intercept, then producer surplus = 0.5 × (P − supply intercept) × Q.', src: 'ocr-as-level-economics-h060-supply-and-demand-and-the-interaction-of-markets-ocr-aslevel-economics-revision-notes' },
+      { n: 4, f: 'Qd = 900 − 60P and Qs = 120P − 180. Find consumer and producer surplus (quantity in thousands).', b: 'Equilibrium P = £6, Q = 540. Demand intercept 15, supply intercept 1.5. Consumer surplus = 0.5 × 9 × 540 = £2,430 thousand; producer surplus = 0.5 × 4.5 × 540 = £1,215 thousand.', src: 'ocr-as-level-economics-h060-supply-and-demand-and-the-interaction-of-markets-ocr-aslevel-economics-revision-notes' },
+      { n: 5, f: 'What happens to surplus when demand shifts right, and when supply shifts left?', b: 'Demand shifting right gives a higher price and quantity, so producer surplus rises. Supply shifting left gives a higher price and lower quantity, so consumer surplus falls.', src: 'ocr-as-level-economics-h060-supply-and-demand-and-the-interaction-of-markets-ocr-aslevel-economics-revision-notes' },
     ]),
     ...sub(T2, 'the-interaction-of-markets-ocr-aslevel-economics', '2.5', [
       { n: 1, f: 'Shortage vs surplus', b: 'Shortage (excess demand): quantity demanded above quantity supplied, so price tends to rise.\nSurplus (excess supply): quantity supplied above quantity demanded, so price tends to fall.' },
       { n: 2, f: 'Diagram: a fall in the cost of raw materials', b: 'Supply shifts right. At the old price there is excess supply, so price falls; quantity demanded extends to a new equilibrium at a lower price and higher quantity.' },
+      { n: 3, f: 'Define equilibrium and give the method for finding it from equations.', b: 'The price at which quantity demanded equals quantity supplied. Set Qd = Qs, solve for P, then substitute P into either equation to find Q.', src: 'ocr-as-level-economics-h060-supply-and-demand-and-the-interaction-of-markets-ocr-aslevel-economics-revision-notes' },
+      { n: 4, f: 'Qd = 900 − 60P and Qs = 120P − 180. Find the equilibrium.', b: '900 − 60P = 120P − 180, so 180P = 1,080 and P = £6. Q = 900 − 360 = 540 thousand.', src: 'ocr-as-level-economics-h060-supply-and-demand-and-the-interaction-of-markets-ocr-aslevel-economics-revision-notes' },
+      { n: 5, f: 'Adjustment chain after a shortage', b: 'Price rises, so demand contracts and supply extends, until quantity demanded equals quantity supplied at the new equilibrium.', src: 'ocr-as-level-economics-h060-supply-and-demand-and-the-interaction-of-markets-ocr-aslevel-economics-revision-notes' },
     ]),
     ...sub(T2, 'elasticity-ocr-aslevel-economics', '2.6', [
       { n: 1, f: 'PED, YED, XED and PES formulae', b: 'PED = %ΔQd ÷ %ΔP. YED = %ΔQd ÷ %Δ income. XED = %ΔQd of A ÷ %ΔP of B. PES = %ΔQs ÷ %ΔP.\nPercentage change = change ÷ starting value × 100.' },
