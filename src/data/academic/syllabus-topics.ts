@@ -4019,14 +4019,18 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2024', effectiveTo: '2026', status: 'current',
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
-    sourceUrl: 'https://www.cambridgeinternational.org/Images/635901-2024-2026-syllabus.pdf', verifiedDate: '2026-08-19',
-    notes: 'English Language syllabuses are organised around named papers and sections, not a numbered topic taxonomy. AS Level: Paper 1 Reading, Paper 2 Writing. A Level adds Paper 3 Language Analysis and Paper 4 Language Topics, each with two named sections. Version 2, published October 2021. Paper 1 subtopics (Knowledge and understanding; Skills and techniques) reproduce the specification PDF\'s own subject-content sub-headings for Paper 1, fetched and verified 2026-08-21; Paper 2 shares the same knowledge and understanding content as Paper 1 per the specification\'s own text.',
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/635901-2024-2026-syllabus.pdf', verifiedDate: '2026-11-20',
+    notes: 'English Language syllabuses are organised around named papers and sections, not a numbered topic taxonomy. AS Level: Paper 1 Reading, Paper 2 Writing. A Level adds Paper 3 Language Analysis and Paper 4 Language Topics, each with two named sections. Version 2, published October 2021. Subtopics 1.1, 1.2, 2.1 and 2.2 (Knowledge and understanding; Skills and techniques) reproduce the specification PDF\'s own subject-content sub-headings for Papers 1 and 2. Subtopics 3.1, 3.2, 4.1 and 4.2 are the named sections of Papers 3 and 4. Every topic checked against the syllabus PDF on 2026-11-20.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Paper 1 – Reading', slug: 'paper-1-reading-9093', stage: 'AS', subtopics: [
         { number: '1.1', name: 'Knowledge and understanding', slug: 'knowledge-and-understanding-9093' },
         { number: '1.2', name: 'Skills and techniques', slug: 'skills-and-techniques-9093' },
       ] },
-      { number: 2, name: 'Paper 2 – Writing', slug: 'paper-2-writing-9093', stage: 'AS', subtopics: [] },
+      { number: 2, name: 'Paper 2 – Writing', slug: 'paper-2-writing-9093', stage: 'AS', subtopics: [
+        { number: '2.1', name: 'Knowledge and understanding', slug: 'paper-2-knowledge-and-understanding-9093' },
+        { number: '2.2', name: 'Skills and techniques', slug: 'paper-2-skills-and-techniques-9093' },
+      ] },
       { number: 3, name: 'Paper 3 – Language Analysis', slug: 'paper-3-language-analysis-9093', stage: 'A', subtopics: [
         { number: '3.1', name: 'Section A: Language Change', slug: 'section-a-language-change-9093' },
         { number: '3.2', name: 'Section B: Child Language Acquisition', slug: 'section-b-child-language-acquisition-9093' },
