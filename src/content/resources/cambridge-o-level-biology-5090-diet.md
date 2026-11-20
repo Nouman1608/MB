@@ -122,6 +122,28 @@ Butter makes up only 10 g of the snack, but contributes 300 kJ, which shows how 
 
 *A girl has anaemia. Suggest a food to add to her diet and explain.* Red meat, liver or spinach would help, because they contain iron. Iron is needed to make haemoglobin, so with more iron her red blood cells can carry more oxygen and her tiredness should lessen. Adding vitamin C-rich foods is often advised, but this goes beyond the syllabus statements, so the key answer is iron and haemoglobin.
 
+## Linking nutrients to the rest of the course
+
+Diet connects with several other topics. Seeing the links helps you to answer longer questions.
+
+- **Iron and haemoglobin**: haemoglobin is in the red blood cells that carry oxygen (topic 11.4), so iron links diet to transport in humans.
+- **Calcium and vitamin D**: both relate to bone and tooth structure. Teeth are also covered in topic 8.2.
+- **Fibre**: peristalsis (topic 8.2) is the wave of contractions that fibre helps.
+- **Proteins**: enzymes are proteins (topic 5), and the digestion of protein produces amino acids (topic 8.2).
+- **Lipids and carbohydrates**: these are the energy sources for respiration (topic 10).
+- **Water**: acts as a solvent in digestion, excretion and transport (topic 3.1).
+
+## Reading data about diets
+
+Exam questions often give a table of the energy needs of different people or the nutrient content of foods. Use the following approach.
+
+1. **Read the units**: kilojoules (kJ) for energy, grams or milligrams for nutrients.
+2. **Check the portion**: values are usually per 100 g, so scale up or down to the real portion.
+3. **Compare like with like**: before saying one person needs more, check that both values are for the same time period, such as per day.
+4. **Link to the cause**: more energy for an active person (muscle contraction), more protein and calcium for a growing child, more iron for a pregnant woman.
+
+*Example.* A table shows that a teenage boy needs 12 000 kJ per day and an office worker needs 10 000 kJ per day (illustrative values). The difference is 2 000 kJ, which is 2 000 divided by 10 000 x 100 = 20 per cent more. The boy needs more energy because he is growing and probably more active. He also needs more protein and calcium, for the same reason.
+
 ## Common mistakes
 
 - Naming a disease without the nutrient that is missing, or the other way round.

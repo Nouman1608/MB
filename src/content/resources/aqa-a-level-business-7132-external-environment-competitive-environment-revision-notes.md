@@ -85,6 +85,24 @@ Revenue lost = £5m × 30% × 4% = **£60,000**. Profit falls to £440,000, a fa
 - **Strengths:** structured; covers more than current rivals; links to strategy.
 - **Limits:** snapshot; hard to define the industry; ignores government and cooperation; forces are not measured; industry-wide not firm-specific.
 
+## Applying the forces: a short method
+
+1. Pick the industry or market in the case.
+2. For each force, find one piece of evidence in the case (number of buyers, start-up cost, share of sales, close alternatives).
+3. Rate each force as high, medium or low, with a reason.
+4. Rank them: which two matter most for profit?
+5. Link to a decision: what should the business do, and which function leads?
+
+## Quick examples
+
+| Industry | Strong force | Why |
+|---|---|---|
+| Supermarket suppliers | Buyer power | A few chains take a large share of sales |
+| Budget airlines | Rivalry | Many similar fares, high fixed costs, price comparison |
+| Online selling | Entry threat | Low set-up cost lets new firms enter |
+| Specialist drug maker with a patent | Entry threat is low | The patent blocks entry |
+| Local bus company | Substitutes | Cars, bikes, taxis and remote working |
+
 ## Exam traps
 
 - Distinguish **buyers** (customers) from **suppliers** (providers of inputs).

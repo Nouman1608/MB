@@ -104,6 +104,12 @@ Xylem → mesophyll cells → **evaporates** from the cell surfaces into air spa
 
 **Explain why xylem vessels have no cross walls.** So that the vessels form a continuous tube and water moves without obstruction.
 
+## Link to other subtopics
+
+- 3.1 Diffusion and osmosis: water vapour diffuses out; water moves between cells by osmosis.
+- 6.2 Leaf structure: stomata, air spaces and mesophyll cells provide the route.
+- 7.1 Uptake of water: the water replaced in the roots comes from the soil.
+
 ## Exam traps
 
 - Transpiration is loss of water **vapour**, from the **leaves**, mainly via the **stomata**.

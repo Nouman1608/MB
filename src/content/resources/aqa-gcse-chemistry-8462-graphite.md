@@ -51,13 +51,11 @@ Graphite is another form of the element carbon. Each carbon atom has four outer 
 - there are **no covalent bonds between the layers**.
 
 ```
-   C ─ C
-  /     \
- C       C ─ C
-  \     /     \
-   C ─ C       C        One layer: hexagonal rings, 3 bonds per carbon atom.
-        \     /         Layers lie on top of each other with
-         C ─ C          only weak forces between them.
+Layer 1:  flat sheet of hexagonal rings; each C bonded to 3 other C atoms
+            ~ no covalent bonds between layers (weak forces only) ~
+Layer 2:  flat sheet of hexagonal rings; each C bonded to 3 other C atoms
+            ~ no covalent bonds between layers (weak forces only) ~
+Layer 3:  ...
 ```
 
 The layers are held together by weak forces. This is a different arrangement from diamond, where every carbon
@@ -70,14 +68,13 @@ atom has four bonds in all directions.
 | Conducts electricity | One delocalised electron per carbon atom is free to move, so charge can flow along the layers |
 | Soft and slippery | Layers can slide over each other because there are no covalent bonds between them |
 | Very high melting point | The covalent bonds within each layer are strong and there are very many of them; they must be broken for it to melt |
-| Opaque, grey, shiny | A feature of the delocalised electrons (not required by the specification) |
 
 ### Why graphite conducts
 
 Each carbon atom uses only three of its four outer electrons for bonding. The fourth electron is delocalised
 and can move through the layer. When a voltage is applied, these electrons carry charge. This is the same type
 of explanation as for a metal, which is why the specification says graphite "is similar to metals in that it has
-delocalised electrons". Graphite is the only common non-metal that conducts electricity well.
+delocalised electrons". Graphite is unusual among non-metals because it conducts electricity.
 
 ### Why graphite is soft
 

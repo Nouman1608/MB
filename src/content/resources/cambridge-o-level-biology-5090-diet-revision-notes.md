@@ -68,6 +68,26 @@ Energy of a portion = (mass in g divided by 100) x energy per 100 g.
 
 Example: 80 g bread at 1050 kJ per 100 g gives 0.8 x 1050 = 840 kJ. Add all the portions to find the total.
 
+## Links to other topics
+
+| Nutrient | Link |
+|---|---|
+| Iron | Haemoglobin in red blood cells (topic 11.4) |
+| Calcium and vitamin D | Bones and teeth (topic 8.2 for teeth) |
+| Fibre | Peristalsis in the gut (topic 8.2) |
+| Protein | Enzymes (topic 5); amino acids from digestion (topic 8.2) |
+| Carbohydrate and lipid | Energy released in respiration (topic 10) |
+| Water | Solvent in digestion, excretion and transport (topic 3.1) |
+
+## Reading diet data
+
+1. Check the units (kJ, g, mg) and the portion size.
+2. Scale values per 100 g up or down to the real portion.
+3. Compare like with like (same time period, same unit).
+4. Explain the difference: growth, activity, pregnancy or age.
+
+Percentage difference = (difference divided by the smaller value) x 100. For 12 000 kJ and 10 000 kJ: 2 000 divided by 10 000 x 100 = 20 per cent more.
+
 ## Short model answers
 
 **State why iron is needed in the diet.** To make haemoglobin, the pigment in red blood cells that carries oxygen.

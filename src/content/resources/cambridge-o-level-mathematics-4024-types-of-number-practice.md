@@ -25,7 +25,7 @@ featured: false
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
 > and they do **not** replicate the exam's exact structure, question count or
-> mark tariffs — examination boards hold copyright in their own papers. Use
+> mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers available free from your board.
 
 These questions cover subtopic 1.1 Types of number of Cambridge O Level Mathematics (Syllabus D) 4024, 2025 to 2027. All are non-calculator, as they could appear on Paper 1. Show your working.

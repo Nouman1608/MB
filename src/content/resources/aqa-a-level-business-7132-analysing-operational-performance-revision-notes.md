@@ -67,6 +67,20 @@ Output 48,000 plates a month; capacity 60,000; 60 employees working 160 hours ea
 
 Why unit cost falls: the same fixed costs are spread over more units.
 
+## Second worked example: reading two years of data
+
+| | Year 1 | Year 2 |
+|---|---|---|
+| Output | 3,600 | 3,780 |
+| Employees | 12 | 14 |
+| Maximum capacity | 4,800 | 4,800 |
+| Total costs | £288,000 | £321,300 |
+
+- Productivity: 3,600 ÷ 12 = **300**; 3,780 ÷ 14 = **270**, a fall of 10%.
+- Unit cost: £288,000 ÷ 3,600 = **£80**; £321,300 ÷ 3,780 = **£85**, a rise of 6.25%.
+- Utilisation: 3,600 ÷ 4,800 = **75%**; 3,780 ÷ 4,800 = **78.75%**.
+- Reading: output rose 5% but staff rose by two, so productivity fell and unit cost rose. Spare capacity remains. Possible causes: staff hired ahead of demand or not yet trained. The numbers raise the question; they do not answer it alone.
+
 ## Interpreting capacity utilisation
 
 | Level | Meaning | Consequences |

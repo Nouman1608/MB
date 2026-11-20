@@ -124,6 +124,25 @@ Possible explanations for a fall in productivity include poor morale, high absen
 
 Productivity and unit costs also interact: if wages per worker rise by 5% but productivity rises by 10%, labour cost per unit falls.
 
+## A second example: reading two years of data
+
+Rowan Joinery makes wooden windows. Its data for two years:
+
+| | Year 1 | Year 2 |
+|---|---|---|
+| Output (windows) | 3,600 | 3,780 |
+| Employees | 12 | 14 |
+| Maximum capacity | 4,800 | 4,800 |
+| Total costs | £288,000 | £321,300 |
+
+**Labour productivity.** Year 1: 3,600 ÷ 12 = **300** windows per employee. Year 2: 3,780 ÷ 14 = **270** per employee, a fall of 10%.
+
+**Unit cost.** Year 1: £288,000 ÷ 3,600 = **£80**. Year 2: £321,300 ÷ 3,780 = **£85**, a rise of 6.25%.
+
+**Capacity utilisation.** Year 1: 3,600 ÷ 4,800 × 100 = **75%**. Year 2: 3,780 ÷ 4,800 × 100 = **78.75%**.
+
+**Interpretation.** Output rose by 5%, but two extra staff were hired, so productivity fell sharply and unit cost rose. Utilisation improved only a little, so the business still has spare capacity. A sensible conclusion is that Rowan added staff ahead of demand or that the new workers are not yet fully trained. Managers should find out which, and avoid hiring further until output grows. A different reading is possible: if the two new staff were hired to improve quality or to cover absence, the fall in productivity might be a deliberate choice. The numbers raise the question; they do not answer it alone.
+
 ## Using operations data in decision making and planning
 
 - **Capacity decisions**: persistently high utilisation suggests investing in extra capacity; persistently low utilisation suggests closing a line, finding new customers or sharing resources.

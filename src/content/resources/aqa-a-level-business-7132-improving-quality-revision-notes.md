@@ -92,6 +92,18 @@ Cost and time to see returns; cultural change and resistance; conflict with cost
 
 Lost sales; damaged reputation (reviews, social media); rework, refunds, recalls; legal action and fines; forced price cuts; low staff morale; lost retailer or supplier contracts; in extreme cases, failure of the business.
 
+## Quality in services and sampling
+
+- In services, a fault cannot be inspected out before the customer sees it, so **assurance** (recruitment, training, standards, good processes) matters more than control. Feedback, reviews and mystery shoppers show where standards slip.
+- Sampling saves cost and is essential when testing destroys the product. Defect rate = faulty items ÷ sample size × 100. Expected faulty items in a batch = batch size × defect rate.
+- A sample must be random and large enough to be reliable. The acceptable defect rate should reflect the cost of failure and be far lower for safety-critical goods.
+
+## How to write a good answer
+
+- Use "prevent" for assurance and "detect" for control.
+- Apply the method to the product or service in the case.
+- Weigh the cost of improving quality against the cost of failure (rework, refunds, recalls, lost customers), then judge what the business should do.
+
 ## Exam traps
 
 - QC **detects**; QA **prevents**.

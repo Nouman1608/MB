@@ -94,13 +94,13 @@ These questions are for **section 1.1 Data and information** (Topic 1, AS Level)
 
 **(b)** Any two disadvantages, each worth one mark with one mark for development: many people do not return questionnaires [1], so the sample may be too small to be representative [1]; people may answer carelessly or dishonestly [1], which makes the results inaccurate [1]; closed questions cannot capture an unexpected reason or option [1], so useful detail is lost [1]. **[7]**
 
-**8. (a)** Data logging [1]. **[1]**
+**8. (a)** Data logging [1].
 
-**(b)** Any two from: readings are taken automatically at set intervals with no human needed [1], so none are missed overnight or in bad weather [1]; sensors are accurate and consistent [1], avoiding human reading errors [1]; the data is stored directly in a computer [1], so it can be processed straight away without typing it in [1]. **[4]**
+**(b)** Any two from: readings are taken automatically at set intervals with no human needed [1], so none are missed overnight or in bad weather [1]; sensors are accurate and consistent [1], avoiding human reading errors [1]; the data is stored directly in a computer [1], so it can be processed straight away without typing it in [1]. **[5]**
 
-**9. (a)** The census was collected by a government for the purpose of counting the population [1], not by the hospital for its own bed planning [1]. **[2]**
+**9. (a)** The census was collected by a government for the purpose of counting the population [1], not by the hospital for its own bed planning [1].
 
-**(b)** Advantages: it covers the whole population, a scale the hospital could not survey itself [1]; it is cheap or free, so no collection cost [1]; census data is collected by an official body and is usually reliable [1]. Disadvantages: it may be several years old, so the age profile may have changed [1]; it does not include health details or planned local housing, so it may not match the hospital's exact needs [1]; it needs cleaning or reorganising to show only older residents in the hospital's area [1]. Conclusion: it is a good starting point but should be combined with the hospital's own admissions records [1]. Any six from the seven points, with at least one advantage and one disadvantage. **[6]**
+**(b)** Advantages: it covers the whole population, a scale the hospital could not survey itself [1]; it is cheap or free, so no collection cost [1]; census data is collected by an official body and is usually reliable [1]. Disadvantages: it may be several years old, so the age profile may have changed [1]; it does not include health details or planned local housing, so it may not match the hospital's exact needs [1]; it needs cleaning or reorganising to show only older residents in the hospital's area [1]. Conclusion: it is a good starting point but should be combined with the hospital's own admissions records [1]. Any six from the seven points, with at least one advantage and one disadvantage. **[8]**
 
 **10.** Direct data is collected first-hand for the specific purpose, whereas indirect data was collected for another purpose [1]. Direct data is relevant and its source is known, whereas indirect data may be irrelevant or of unknown reliability [1]. Direct data is usually slower and more expensive to collect, whereas indirect data is quick and cheap to obtain [1]. Direct data is up to date, whereas indirect data may be out of date [1]. **[4]**
 

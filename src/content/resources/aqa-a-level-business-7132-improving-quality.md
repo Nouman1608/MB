@@ -112,6 +112,14 @@ Penhallow Appliances makes 20,000 kettles a month. At present it relies on end-o
 
 **Saving** = £17,400 − £15,820 = **£1,580 a month**. The saving looks small, but it leaves out the lost sales and reputation damage from 70 fewer customers receiving faulty kettles each month, and the improved morale of staff who take responsibility for quality. The case also depends on the figures being right: if the defect rate fell only to 3%, the saving would be smaller. The £10,000 is also a recurring cost, so the business must be sure the improvement lasts.
 
+## Quality in services
+
+Services are produced and consumed at the same moment, so a fault cannot be inspected out before the customer sees it. Quality control after the event is therefore weak in services, and quality assurance matters more. A hotel cannot "recall" a rude welcome. It must instead prevent the problem through recruitment, training, clear service standards, and well-designed processes such as quick check-in. Feedback from guests, reviews and mystery shoppers shows where the standard slips. Technology can help, for example by tracking waiting times, but staff attitude remains central.
+
+## Sampling in quality control
+
+Inspecting every item is costly, and it destroys the product in some tests (a firm cannot test every firework). Many businesses test a **sample** from each batch instead. If a sample of 500 items contains 15 faulty ones, the defect rate is 15 ÷ 500 × 100 = **3%**, and in a batch of 12,000 about 12,000 × 0.03 = **360** faulty items would be expected. The estimate is only as reliable as the sample: it must be random and large enough. Batches that fail the test can be rejected or inspected in full. The business sets an acceptable defect rate in advance, which should be linked to the cost of failure, and kept far lower for safety-critical products.
+
 ## Benefits of improving quality
 
 - **Fewer defects**, so less waste, rework and scrap.
