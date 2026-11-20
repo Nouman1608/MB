@@ -14,6 +14,12 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-2-writing-9093"
+  - qualification: "a-level"
+    topic: "paper-2-writing-9093"
+    subtopic: "paper-2-knowledge-and-understanding-9093"
+  - qualification: "a-level"
+    topic: "paper-2-writing-9093"
+    subtopic: "paper-2-skills-and-techniques-9093"
 description: "Condensed notes on Cambridge 9093 Paper 2 Writing: shorter writing and reflective commentary in Section A, and extended writing in Section B, with exam traps."
 author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
