@@ -196,5 +196,5 @@ In a merger, two companies, say Aston Ltd and Birch Ltd, combine. A new company,
 
 ## Official syllabus
 
-Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (YAC11) specification, Issue 2, September 2018, Unit 2, topic 2.1, outcomes 2.1.12 to 2.1.15 —
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (YAC11) specification, Issue 2, September 2018, Unit 2, topic 2.1, outcomes 2.1.12 to 2.1.15:
 [qualifications.pearson.com](https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Accounting/2015/specification-and-sample-assessments/pearson-edexcel-ial-accounting-specification.pdf).

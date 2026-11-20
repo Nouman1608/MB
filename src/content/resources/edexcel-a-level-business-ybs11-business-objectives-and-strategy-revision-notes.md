@@ -151,6 +151,14 @@ Relative market share   = own share / largest rival's share
 9. A strategic decision is long term, high risk, affects the whole business and is hard to reverse; a tactical decision is short term, uses existing resources and is easier to change.
 10. Rivalry, threat of new entrants, threat of substitutes, bargaining power of suppliers, bargaining power of buyers.
 
+## Answer frames
+
+- **Apply a model:** name the model, place the business in it with evidence, then say what it implies for the decision.
+- **Analyse a strategy:** link the strategy to the objective ("market penetration raises share, which meets the 15% target") and to a cost or risk.
+- **Discuss a tool:** give one benefit, one limit and a short verdict on how useful it is for this business.
+- **Assess a choice between strategies:** compare risk, cost, time and fit with objectives, then judge, and say what the decision depends on.
+- **Essay planning:** use the model as the structure, not the whole answer; every paragraph needs evidence from the source.
+
 ## Next steps
 
 Check slips against the [Business objectives and strategy study guide](/resources/edexcel-a-level-business-ybs11-business-objectives-and-strategy/), then practise with the [practice questions](/resources/edexcel-a-level-business-ybs11-business-objectives-and-strategy-practice/).

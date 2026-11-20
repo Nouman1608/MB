@@ -133,6 +133,14 @@ Tax payable           = profit x tax rate
 9. Demand falls more than for necessities because luxuries have a high income elasticity, so sales and profit fall.
 10. Competitor behaviour.
 
+## Answer frames
+
+- **Explain an effect:** name the influence, say what changes (cost, price, demand), then give the result for profit or sales.
+- **Explain a response:** say what the business could do and why it suits this business, then state one limit on the response.
+- **Analyse:** use a chain such as "rates rise, so repayments rise, so profit after interest falls, so there is less to reinvest".
+- **Assess:** compare two influences by size of effect, how soon it hits and whether the business can respond; then judge.
+- **Use numbers:** a calculated change (for example 24% of profit) is stronger evidence than the word "significant".
+
 ## Next steps
 
 Check slips against the [External influences study guide](/resources/edexcel-a-level-business-ybs11-external-influences/), then practise with the [External influences practice questions](/resources/edexcel-a-level-business-ybs11-external-influences-practice/).

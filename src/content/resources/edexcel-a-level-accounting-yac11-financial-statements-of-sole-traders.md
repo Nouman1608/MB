@@ -193,5 +193,5 @@ The statements also feed analysis. From Kessler Tools, gross profit as a percent
 
 ## Official syllabus
 
-Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (YAC11) specification, Issue 2, September 2018, Unit 1, topic 1.3, outcomes 1.3.1 and 1.3.2 —
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (YAC11) specification, Issue 2, September 2018, Unit 1, topic 1.3, outcomes 1.3.1 and 1.3.2:
 [qualifications.pearson.com](https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Accounting/2015/specification-and-sample-assessments/pearson-edexcel-ial-accounting-specification.pdf).

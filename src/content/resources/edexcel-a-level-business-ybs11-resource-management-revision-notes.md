@@ -145,6 +145,14 @@ Competitive advantage comes from fewer defects, lower waste, stronger reputation
 9. Any one: extra shifts, new equipment or premises, outsourcing, raising prices.
 10. Continuous improvement through constant small changes by all employees.
 
+## Answer frames
+
+- **Calculate:** write the formula, substitute the figures, give the answer with units or a percentage.
+- **Explain:** state one effect, then develop it with a detail from the source ("so unit cost falls because fixed costs are spread over more output").
+- **Analyse:** build a chain of at least three linked steps, ending with the effect on profit, competitiveness or customers.
+- **Discuss and assess:** give a case for and against, then a judgement that depends on a named feature of the business, such as reliability of suppliers or the steadiness of demand.
+- **Useful link phrases:** "this means", "which leads to", "this is more likely to matter if", "the decision depends on".
+
 ## Next steps
 
 Check any slips against the [Resource management study guide](/resources/edexcel-a-level-business-ybs11-resource-management/), then practise with the [Resource management practice questions](/resources/edexcel-a-level-business-ybs11-resource-management-practice/).

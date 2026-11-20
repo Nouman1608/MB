@@ -26,7 +26,7 @@ featured: false
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
 > and they do **not** replicate the exam's exact structure, question count or
-> mark tariffs — examination boards hold copyright in their own papers. Use
+> mark tariffs, because examination boards hold copyright in their own papers. Use
 > these alongside the official past papers available free from your board.
 
 These questions cover outcomes 1.3.9 to 1.3.13 (partnership accounts, capital and current accounts, the partnership agreement, Section 24 of the Partnership Act 1890, and the introduction or retirement of a partner) in Unit 1 of Pearson Edexcel International A Level Accounting (YAC11). All amounts are in dollars and all businesses are invented.

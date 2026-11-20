@@ -124,6 +124,16 @@ N₂ and O₂ do not absorb because their vibration produces no change in dipole
 
 Example: formula C₃H₆O₂ with broad 2500 to 3000 and C=O 1710 gives propanoic acid.
 
+## Command words
+
+| Command word | What to write |
+|---|---|
+| Identify | The bond, the wavenumber and the group |
+| Explain | The link between absorption and bond vibration |
+| Suggest | A structure consistent with the data |
+
+For a combined-data question, use mass spectrometry for the formula and infrared for the groups.
+
 ## Exam traps
 
 - Reading the spectrum upside down: absorptions are troughs.

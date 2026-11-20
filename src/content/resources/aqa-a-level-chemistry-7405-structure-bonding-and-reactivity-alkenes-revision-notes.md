@@ -113,6 +113,15 @@ Method: count each C–H and each C–C as one sigma bond, and add one more sigm
 - n = Mᵣ ÷ 14.0 gives the number of carbons for an alkene with one C=C.
 - Example: Mᵣ 56.0 gives n = 4, so C₄H₈.
 
+## Command words
+
+| Command word | What to write |
+|---|---|
+| Explain | Pi bond, high electron density, electrophile attack |
+| Calculate | Bonds broken minus bonds formed, with signs |
+| State | The fact, with a number if one is asked for |
+| Deduce | A formula or structure from the data given |
+
 ## Exam traps
 
 - "A double bond is two sigma bonds."

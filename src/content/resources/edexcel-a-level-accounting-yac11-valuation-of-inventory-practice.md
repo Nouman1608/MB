@@ -26,7 +26,7 @@ featured: false
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
 > and they do **not** replicate the exam's exact structure, question count or
-> mark tariffs — examination boards hold copyright in their own papers. Use
+> mark tariffs, because examination boards hold copyright in their own papers. Use
 > these alongside the official past papers available free from your board.
 
 These questions cover outcomes 1.4.1 to 1.4.3 (characteristics of FIFO, LIFO and NRV, valuation on a perpetual and periodic basis, and the effect on profit and the statement of financial position) in Unit 1 of Pearson Edexcel International A Level Accounting (YAC11). All amounts are in dollars and all businesses are invented.

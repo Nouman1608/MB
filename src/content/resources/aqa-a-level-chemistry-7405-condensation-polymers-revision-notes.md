@@ -136,6 +136,15 @@ Example: nylon 6,6 repeating unit Mᵣ = 146.0 + 116.0 − 36.0 = 226.0. A chain
 3. Check that each monomer has two functional groups.
 4. For forces, name the groups responsible: N–H and C=O for hydrogen bonds.
 
+## Command words
+
+| Command word | What to write |
+|---|---|
+| Draw | The structure, with the link in full and extended bonds for a repeating unit |
+| Name | The polymer or the monomers using the correct ending |
+| Explain | The force between chains, naming the groups responsible |
+| Deduce | The monomers from a chain section by breaking each link |
+
 ## Exam traps
 
 - Half a link at the end of the bracket.

@@ -118,6 +118,14 @@ For "explain why only one enantiomer binds", include:
 3. One enantiomer's groups **match**.
 4. The mirror-image enantiomer's groups are **in different positions**, so they cannot all bond.
 
+## Command words
+
+| Command word | What to write |
+|---|---|
+| Explain | A reason that refers to the active site and its groups |
+| Describe | The steps: binding, complex, reaction, release |
+| Suggest | A sensible chemical idea based on what you know |
+
 ## Exam traps
 
 - "Enzyme is used up."

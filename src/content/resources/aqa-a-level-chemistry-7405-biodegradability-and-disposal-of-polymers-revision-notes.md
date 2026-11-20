@@ -118,6 +118,15 @@ These notes condense section **3.3.12.2 Biodegradability and disposal of polymer
 
 Example: 5.00 kg of PVC burns completely, all the Cl forming HCl. n(units) = 5000 ÷ 62.5 = 80.0 mol, so HCl = 80.0 × 36.5 = 2920 g.
 
+## Command words
+
+| Command word | What to write |
+|---|---|
+| Explain | A reason linked to the bonds in the polymer |
+| Evaluate | Advantages and disadvantages, then a judgement |
+| Compare | A point about each polymer for each feature |
+| State | A short fact with no reason needed |
+
 ## Exam traps
 
 - "Polyalkenes are plastic" instead of "non-polar strong bonds, no δ+ site".

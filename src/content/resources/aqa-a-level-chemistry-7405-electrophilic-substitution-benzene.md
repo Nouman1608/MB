@@ -164,6 +164,10 @@ percentage yield     = 18.0 ÷ 24.0 × 100 = 75.0 %
 | Product from benzene | Nitrobenzene | A ketone (for CH₃COCl, phenylethanone) |
 | Important condition | About 50 °C | Anhydrous, reflux |
 
+## Checking a mechanism before you finish
+
+Count the arrows. Nitration and acylation each need an arrow from the ring to the electrophile and an arrow from the C-H bond back into the ring, with a final step that regenerates the catalyst. Check that the intermediate shows H and the new group on the same carbon, and that the positive charge is spread over the ring. A mechanism with these features earns the marks.
+
 ## Common mistakes
 
 - Starting the first arrow at the electrophile instead of at the ring.

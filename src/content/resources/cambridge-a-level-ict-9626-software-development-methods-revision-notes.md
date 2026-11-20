@@ -107,6 +107,13 @@ A council needs a system to report potholes. It wants a basic web form in two mo
 9. Each stage has a fixed, short deadline that is not extended.
 10. Iterative repeats the cycle to refine the whole system; incremental builds and delivers it part by part.
 
+## Exam technique
+
+- Name the method, describe how it works in the scenario, then give a point for and against.
+- Look for clues: fixed or changing requirements, separate modules, tight deadline, users available, safety-critical use.
+- Use the key terms: sprint, backlog, increment, iteration, prototype, time-box, sign-off.
+- For "evaluate" or "recommend", compare at least two methods and finish with a clear choice and a reason.
+
 ## Where marks are usually lost
 
 - Mixing up iterative and incremental.

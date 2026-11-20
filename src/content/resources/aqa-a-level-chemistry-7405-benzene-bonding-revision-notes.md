@@ -118,6 +118,10 @@ Include the numbers and the word "delocalised" to secure every mark.
 
 Example: if cyclohexene had ΔH = −118 kJ mol⁻¹, the predicted value is 3 × (−118) = −354 kJ mol⁻¹. With a measured value of −205 kJ mol⁻¹, benzene would be more stable by 149 kJ mol⁻¹.
 
+## Linking to other topics
+
+The stability of the delocalised ring explains why benzene undergoes electrophilic substitution (nitration and acylation) rather than addition. The enthalpy of hydrogenation data link to the Energetics notes on enthalpy change, and the idea of delocalised electrons links to the Bonding notes on metallic and covalent bonding.
+
 ## Exam traps
 
 - Alternating double and single bonds drawn as the true structure.

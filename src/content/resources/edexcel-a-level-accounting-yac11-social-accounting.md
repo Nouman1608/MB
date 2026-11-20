@@ -142,5 +142,5 @@ Annual expected cost of accidents = 60,000 ÷ 5 = 12,000. The guards cost 15,000
 
 ## Official syllabus
 
-Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (YAC11) specification, Issue 2, September 2018, Unit 1, topic 1.6, outcomes 1.6.1 to 1.6.3 —
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (YAC11) specification, Issue 2, September 2018, Unit 1, topic 1.6, outcomes 1.6.1 to 1.6.3:
 [qualifications.pearson.com](https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Accounting/2015/specification-and-sample-assessments/pearson-edexcel-ial-accounting-specification.pdf).

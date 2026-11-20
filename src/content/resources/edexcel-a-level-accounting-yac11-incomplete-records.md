@@ -196,5 +196,5 @@ When revenue, purchases or cost of sales is missing, use the gross profit relati
 
 ## Official syllabus
 
-Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (YAC11) specification, Issue 2, September 2018, Unit 1, topic 1.3, outcome 1.3.8 —
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (YAC11) specification, Issue 2, September 2018, Unit 1, topic 1.3, outcome 1.3.8:
 [qualifications.pearson.com](https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Accounting/2015/specification-and-sample-assessments/pearson-edexcel-ial-accounting-specification.pdf).

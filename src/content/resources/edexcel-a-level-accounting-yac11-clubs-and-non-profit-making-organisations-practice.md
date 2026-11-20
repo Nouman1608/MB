@@ -26,7 +26,7 @@ featured: false
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
 > and they do **not** replicate the exam's exact structure, question count or
-> mark tariffs — examination boards hold copyright in their own papers. Use
+> mark tariffs, because examination boards hold copyright in their own papers. Use
 > these alongside the official past papers available free from your board.
 
 These questions cover outcomes 1.3.14 to 1.3.19 (receipts and payments accounts, activity trading accounts, subscriptions, life membership, losses of inventory or cash, and income and expenditure accounts) in Unit 1 of Pearson Edexcel International A Level Accounting (YAC11). All amounts are in dollars and all organisations are invented.

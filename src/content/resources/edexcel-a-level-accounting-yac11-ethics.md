@@ -133,5 +133,5 @@ An ethical decision may cost money in the short term, for example turning down a
 
 ## Official syllabus
 
-Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (YAC11) specification, Issue 2, September 2018, Unit 1, topic 1.6, outcome 1.6.4 —
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (YAC11) specification, Issue 2, September 2018, Unit 1, topic 1.6, outcome 1.6.4:
 [qualifications.pearson.com](https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Accounting/2015/specification-and-sample-assessments/pearson-edexcel-ial-accounting-specification.pdf).

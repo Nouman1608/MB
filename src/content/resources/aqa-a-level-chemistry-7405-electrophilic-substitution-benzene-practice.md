@@ -67,6 +67,8 @@ These questions cover section **3.3.10.2 Electrophilic substitution** of the AQA
 
 **12.** Explain why benzene requires a strong electrophile generated using a catalyst, while cyclohexene reacts with bromine without a catalyst. **[3]**
 
+**13.** State the product formed when benzene reacts with butanoyl chloride, CH₃CH₂CH₂COCl, in the presence of anhydrous aluminium chloride, and name the type of reaction. **[2]**
+
 ## Answers
 
 **1.** A species that accepts a pair of electrons to form a covalent bond [1]. **[1]**
@@ -102,6 +104,8 @@ These questions cover section **3.3.10.2 Electrophilic substitution** of the AQA
 **11.** Addition would destroy the delocalised system of benzene [1]; this would lose the extra stability (about 152 kJ mol⁻¹) [1]; in substitution the H⁺ is lost in the second step and the delocalised ring is restored [1]. **[3]**
 
 **12.** The electrons in benzene are delocalised, so the electron density is lower than at the localised C=C in cyclohexene [1]; bromine is not polarised enough by benzene to react [1]; a catalyst is used to generate a much stronger electrophile (such as NO₂⁺ or RCO⁺) [1]. **[3]**
+
+**13.** The product is a ketone, 1-phenylbutan-1-one (phenyl propyl ketone) [1]; the reaction is Friedel-Crafts acylation, a type of electrophilic substitution [1]. **[2]**
 
 ## Where marks are usually lost
 

@@ -134,6 +134,12 @@ Glycine examples: ⁺H₃N–CH₂–COOH; ⁺H₃N–CH₂–COO⁻; H₂N–CH
 
 Example: glycine (Mᵣ 75.0) reacting with 20.0 cm³ of 0.200 mol dm⁻³ NaOH: n(NaOH) = 0.00400 mol, so n(glycine) = 0.00400 mol, mass = 0.00400 × 75.0 = 0.300 g.
 
+## Linking to other topics
+
+- Two amino acids join with loss of water to form a peptide link, which is the basis of the Proteins notes.
+- The amine and carboxylic acid behaviour in the Amines and Carboxylic acids notes explains the two groups.
+- The chirality of most amino acids links to Optical isomerism and to the stereospecific active site of enzymes.
+
 ## Exam traps
 
 - Zwitterion drawn as H₂N–CHR–COO⁻ or ⁺H₃N–CHR–COOH.

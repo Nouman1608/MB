@@ -120,6 +120,12 @@ Example: 0.0500 mol of propene gives at most 0.0500 mol of 2-bromopropane (Mᵣ 
 - Start arrows at a bond or lone pair, never at an atom or charge alone.
 - Name the intermediate type (primary, secondary or tertiary) in explanations.
 
+## Linking to other topics
+
+- The alkyl hydrogensulfate route to alcohols links to the Alcohol production notes.
+- The same stability order of carbocations (tertiary, secondary, primary) is used when explaining major and minor products in other mechanisms.
+- The bromine water test appears again in the test-tube reactions for organic analysis.
+
 ## Exam traps
 
 - The first arrow drawn from the reagent to the alkene.

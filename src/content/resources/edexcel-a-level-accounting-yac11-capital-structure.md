@@ -162,5 +162,5 @@ Creation: Dr statement of comprehensive income (expense), Cr provision (liabilit
 
 ## Official syllabus
 
-Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (YAC11) specification, Issue 2, September 2018, Unit 2, topic 2.1, outcomes 2.1.4 to 2.1.11 —
+Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (YAC11) specification, Issue 2, September 2018, Unit 2, topic 2.1, outcomes 2.1.4 to 2.1.11:
 [qualifications.pearson.com](https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Accounting/2015/specification-and-sample-assessments/pearson-edexcel-ial-accounting-specification.pdf).

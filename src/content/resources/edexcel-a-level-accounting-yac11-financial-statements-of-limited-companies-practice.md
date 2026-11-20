@@ -26,7 +26,7 @@ featured: false
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
 > and they do **not** replicate the exam's exact structure, question count or
-> mark tariffs — examination boards hold copyright in their own papers. Use
+> mark tariffs, because examination boards hold copyright in their own papers. Use
 > these alongside the official past papers available free from your board.
 
 These questions cover outcomes 2.1.1 to 2.1.3 (IAS 1 financial statements, the auditor and the reports, and continuing and discontinued activities and exceptional items) in Unit 2 of Pearson Edexcel International A Level Accounting (YAC11). All amounts are in dollars and all companies are invented.

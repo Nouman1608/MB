@@ -107,6 +107,13 @@ The best choice depends on how well the requirements are known, and how much cha
 9. The components may not fit together, so integration problems appear late.
 10. It is discarded once it has been used to clarify the requirements, and the real system is built afresh.
 
+## Exam technique
+
+- State what each type is, and when it suits the project: unclear requirements, a large system split into parts, a need for fast feedback.
+- Always say what happens to the prototype: kept and refined (evolutionary), combined (incremental) or discarded (throwaway).
+- Pair every advantage with a disadvantage for the same type.
+- Use the scenario: who the users are, how often requirements change, how much time there is.
+
 ## Where marks are usually lost
 
 - Describing all prototypes as thrown away.

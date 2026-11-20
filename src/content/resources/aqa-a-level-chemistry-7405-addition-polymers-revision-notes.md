@@ -136,6 +136,10 @@ Example: poly(propene), Mr of unit 42.0. A chain of Mr 84 000 has n = 84 000 ÷ 
 
 Check: no double bond remains, and the unit has two backbone carbons.
 
+## Quick check on drawing
+
+Before leaving a polymer answer, run through four checks. First, is there any C=C left? There should not be. Second, are there exactly two backbone carbons for each alkene monomer? Third, do bonds extend through the brackets at both ends? Fourth, is the subscript n outside the bracket? Four ticks mean the drawing is complete.
+
 ## Exam traps
 
 - Double bond left in the repeating unit.

@@ -150,6 +150,10 @@ The same lone pair controls the **nucleophilic** reactions of amines. A more ava
 
 All three behave in the same way chemically. The only difference is the extent to which the lone pair is available, which is what the strength order measures.
 
+## Checking your answer on strength
+
+Before you finish, check three things. Is the lone pair on nitrogen named as the species that accepts the proton? Has the effect on the lone pair been stated for each compound, as donating in the alkylamine and delocalised in phenylamine? Is the comparison made with ammonia, which acts as the reference point? An answer with all three is complete.
+
 ## Common mistakes
 
 - Defining a base as a hydroxide-releasing species only. Amines are proton acceptors.

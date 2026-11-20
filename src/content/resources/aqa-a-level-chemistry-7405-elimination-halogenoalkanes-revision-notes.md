@@ -127,6 +127,14 @@ Example: 0.200 mol of 2-bromopropane, of which 70 % eliminates, gives 0.140 mol 
 
 Answer in the exam as three alkenes plus a statement that hydroxide acts as a base.
 
+## Command words
+
+| Command word | What to write |
+|---|---|
+| Outline the mechanism | Three arrows from the correct starting points and the products |
+| Explain the role | Name nucleophile or base and say what each attacks |
+| Name the products | Check every adjacent carbon, then E/Z isomers |
+
 ## Exam traps
 
 - Taking the hydrogen from the carbon that holds the halogen. It must come from an **adjacent** carbon.

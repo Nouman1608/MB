@@ -113,6 +113,13 @@ A shop's till software has these tasks on its list.
 9. Adaptive maintenance (the environment, the browser, changed).
 10. It costs money without fixing a fault and can lead to feature creep, making the system more complicated.
 
+## Exam technique
+
+- First decide the trigger (fault, changed environment, user wish, future risk), then name the type.
+- Link the type to the scenario: say what exactly was wrong or what changed.
+- When asked how maintenance is carried out, give the order: identify the need, find the affected part, make the change, test it, release it, update the documentation.
+- With "evaluate", weigh cost now against benefit later and finish with a judgement.
+
 ## Where marks are usually lost
 
 - Mixing up adaptive and perfective.

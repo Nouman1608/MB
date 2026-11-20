@@ -102,6 +102,17 @@ Always **acidify with nitric acid** first. Hydrochloric or sulfuric acid would a
 
 Example: 0.0250 mol of ethanoic acid with excess sodium carbonate gives 0.0125 mol of CO₂, which is 0.0125 × 24.0 = 0.300 dm³, or 300 cm³.
 
+## Command words
+
+| Command word | What to write |
+|---|---|
+| Describe a test | Reagent, condition, observation for both substances |
+| Distinguish | A test with a different result for each compound |
+| Identify | The functional group, then the compound |
+| Explain | The chemistry behind the observation |
+
+A complete answer states the reagent, the condition, the positive result and the negative result.
+
 ## Exam traps
 
 - "Clear" instead of "colourless".

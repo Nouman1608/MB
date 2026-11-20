@@ -122,6 +122,14 @@ n(ozone destroyed) = n(Cl•) × number of cycles × 2, since each cycle destroy
 
 Example: 0.0100 mol of Cl• in 500 cycles destroys 0.0100 × 500 × 2 = 10.0 mol of ozone, which is 10.0 × 48.0 = 480 g.
 
+## Command words
+
+| Command word | What to write |
+|---|---|
+| Write an equation | Dots on radicals, UV as the condition for bond breaking |
+| Explain | Link catalyst behaviour to regeneration of Cl• |
+| Appreciate | Show how independent evidence led to legislation |
+
 ## Exam traps
 
 - "CFCs destroy ozone" rather than "chlorine atoms from CFCs destroy ozone".

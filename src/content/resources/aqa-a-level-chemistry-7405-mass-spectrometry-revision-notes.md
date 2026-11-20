@@ -134,6 +134,25 @@ C₃H₆O = 3(12.0000) + 6(1.0078) + 15.9949 = 36.0000 + 6.0468 + 15.9949 = 58.0
 
 Use all the decimal places given until the final answer.
 
+## Worked examples to copy
+
+**Example 1.** A compound of C, H and O has a molecular ion at m/z 46.0417. Candidates: C₂H₆O and CH₂O₂.
+
+1. C₂H₆O: 2(12.0000) + 6(1.0078) + 15.9949 = 46.0417.
+2. CH₂O₂: 12.0000 + 2(1.0078) + 2(15.9949) = 46.0054.
+3. The measured value matches C₂H₆O, which could be ethanol or methoxymethane.
+
+**Example 2.** A fragment ion appears at m/z 29 and the molecular ion is at m/z 58.
+
+1. 58 − 29 = 29, a loss of C₂H₅• or CHO•.
+2. The fragment at 29 is therefore likely to be C₂H₅⁺ or CHO⁺.
+3. Use other data to decide between them.
+
+**Example 3.** Why does a low-resolution spectrum not identify a formula?
+
+1. Several formulae have the same whole-number mass.
+2. Only a high-resolution spectrum separates them by their decimal places.
+
 ## Exam traps
 
 - Using Aᵣ values such as H = 1.0 instead of the precise masses supplied.
