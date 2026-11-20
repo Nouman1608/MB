@@ -12,6 +12,9 @@ order: 2.1
 syllabusTopics:
   - qualification: "gcse"
     topic: "shaping-the-nation-8145"
+  - qualification: "gcse"
+    topic: "shaping-the-nation-8145"
+    subtopic: "stn-section-a-thematic-studies-8145"
 description: "Original AQA GCSE History 8145 Health and the people practice on Part three: source utility, significance, similarity and a factor essay, with full answers."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
