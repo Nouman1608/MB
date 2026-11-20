@@ -39,7 +39,7 @@ featured: false
 
 ## The Renaissance in one country outside Italy: England
 
-*Spread of ideas.* Printing, developed in Germany around 1450, made classical and humanist texts cheaper. Travel by scholars and merchants carried ideas north. William Caxton set up the first press in England in 1476. Erasmus visited England several times and taught briefly at Cambridge, and he influenced scholars such as John Colet and Thomas More.
+*Spread of ideas.* Printing, developed in Germany around 1450, made classical and humanist texts cheaper. Travel by scholars and merchants carried ideas north. William Caxton set up the first press in England in 1476. Erasmus visited England several times and spent time at an English university, and he influenced scholars such as John Colet and Thomas More.
 
 *Social and political conditions.* Under the Tudors (from 1485), a stronger crown ended the Wars of the Roses and encouraged a court culture that valued learning. A growing educated gentry wanted grammar schools and classical education.
 
