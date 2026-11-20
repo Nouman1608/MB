@@ -101,6 +101,15 @@ Simplify `¬(A ∨ B) ∨ (¬A ∧ B)`.
 - "Unless both are on" means `¬(P ∧ Q)`, which equals `¬P ∨ ¬Q`.
 - Gate symbols: AND, OR, NOT, XOR, plus NAND and NOR (an AND or OR with a NOT on the output).
 
+## Question styles to expect
+
+- **Simplify:** reduce an expression to the fewest terms, naming each law.
+- **Show that:** start from one side and reach the other, or reduce both to the same form.
+- **Circuit to expression:** label every gate output, then write the final expression.
+- **Expression to circuit:** one gate for each operator, working from the innermost bracket outwards.
+- **NAND or NOR only:** use De Morgan's laws to rewrite AND, OR and NOT. For example, NOT A is NAND(A, A), because A ∧ A = A.
+- **Truth table check:** write every input combination (2ⁿ rows for n inputs) and compare columns.
+
 ## Key terms
 
 | Term | Definition |

@@ -108,6 +108,23 @@ Method: percentage ÷ 100 × total mass. Check that the parts add up to the tota
 - Some metals, like sodium, are soft even though they have metallic bonding. The exam question will tell you
   what it needs.
 
+## Six-mark answer plan
+
+1. Giant structure with strong metallic bonding gives a high melting point.
+2. Pure metal: same-size atoms in layers.
+3. Layers slide, so it can be bent and shaped.
+4. Alloy: atoms of different sizes.
+5. Layers are distorted.
+6. Sliding is harder, so the alloy is harder.
+
+## Choosing between a pure metal and an alloy
+
+| Need | Better choice | Reason |
+|---|---|---|
+| Wire that can be drawn out easily | Pure metal | Layers slide easily |
+| Strong beams for a bridge | Alloy (steel) | Harder, resists bending |
+| A coin that does not wear quickly | Alloy | Harder than the pure metal |
+
 ## Exam traps
 
 - **"Alloys have stronger bonds."** The key idea is distorted layers that cannot slide.

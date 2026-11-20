@@ -173,6 +173,19 @@ does this tell you?*
 The alloy is harder than the pure metal. This fits the idea that different-sized atoms in the alloy distort the
 layers and make sliding more difficult.
 
+### Worked example 6: a six-mark explanation
+
+*Explain why pure metals are malleable but alloys are harder, and why metals have high melting points.*
+
+Indicative content:
+
+- Metals have giant structures of atoms with strong metallic bonding.
+- Many strong bonds must be overcome to melt a metal, so melting points are high.
+- In a pure metal the atoms are the same size and arranged in layers.
+- The layers can slide over each other, so the metal can be bent and shaped.
+- In an alloy there are atoms of different sizes, which distort the layers.
+- The layers cannot slide easily, so the alloy is harder.
+
 ## Common mistakes
 
 - Writing that alloys are harder "because they are stronger" or "because they have more bonds". The reason is

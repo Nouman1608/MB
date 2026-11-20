@@ -84,6 +84,14 @@ Result: accumulator becomes 7, then 12, then 12 is stored at address 10 (0000 11
 
 The concept underlies the **von Neumann** model (one memory for both). A **Harvard** machine also runs a stored program but keeps code and data in separate memories.
 
+## Question styles to expect
+
+- **Describe the concept:** give all four parts (machine code, main memory, serial fetch and execute, arithmetic and logical operations).
+- **Trace a short program:** tabulate the program counter and the accumulator after each instruction, and show any change to memory.
+- **Explain an advantage or a risk:** state the point, then the cause (for example "programs can be replaced by loading new instructions, so one machine does many jobs").
+- **Interpret a binary pattern:** use the table in the question to decide what an opcode or an operand means.
+- **Compare with a fixed-wired machine:** the task was set by wiring, not by a program in memory.
+
 ## Key terms
 
 | Term | Definition |

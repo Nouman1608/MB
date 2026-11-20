@@ -93,7 +93,7 @@ Ions enter the root hair cells by active transport (or diffusion). They are then
 
 **Result**: the stain is found only in the **xylem**, which appears as stained dots or a ring in the transverse section, and as stained lines in the longitudinal section. This shows that the xylem carries water up the stem. Veins in the leaves are also stained, which shows the water reaching the leaf.
 
-**Control**: a shoot in water without stain, or in stain with the xylem blocked, shows that the stain moves with the water and not by other means.
+**Control**: a second shoot kept in unstained water shows what the stem looks like without the stain. Keeping light, temperature and the time the same for each shoot makes the comparison fair.
 
 ### Worked example: rate of movement
 
@@ -103,6 +103,17 @@ Ions enter the root hair cells by active transport (or diffusion). They are then
 2. There are 60 minutes in an hour, so 1.5 x 60 = **90 mm per hour**.
 
 If a second stem, kept in a draught, had stain travelling 60 mm in 30 minutes, the rate would be 2.0 mm per minute. A faster rate in a draught suggests that more transpiration pulls the water up faster (see subtopic 7.2).
+
+## When uptake goes wrong
+
+Understanding the uptake process helps you to explain situations that appear in exams.
+
+- **Waterlogged soil**: little oxygen reaches the roots, so aerobic respiration slows. Less energy is released, so active transport of ions falls. The plant may show mineral deficiency symptoms even though the soil contains the ions.
+- **Very salty or very concentrated soil water**: the soil water has a lower water potential than the cell sap. Water leaves the root hair cells by osmosis and the plant wilts.
+- **Damaged or cut roots**: fewer root hair cells means less surface area, so less water and ions are absorbed. Transplanted plants are often watered well and shaded to reduce water loss while new root hairs grow.
+- **Very dry soil**: there is little water to absorb, so the plant loses more water than it takes in, and the cells become flaccid.
+
+In each case, state the cause, then the effect on uptake, then the effect on the plant.
 
 ## Common mistakes
 
