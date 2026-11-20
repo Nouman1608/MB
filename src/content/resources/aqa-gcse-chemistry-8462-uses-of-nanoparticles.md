@@ -166,7 +166,7 @@ whether they are safe and how they affect the environment.
 
 - [Uses of nanoparticles revision notes](/resources/aqa-gcse-chemistry-8462-uses-of-nanoparticles-revision-notes/)
 - [Uses of nanoparticles practice questions](/resources/aqa-gcse-chemistry-8462-uses-of-nanoparticles-practice/)
-- [Chemical measurements and conservation of mass study guide](/resources/aqa-gcse-chemistry-8462-chemical-measurements-conservation-of-mass-and-the-quantitative-interpretation-of-chemical-equations/)
+- [Chemical measurements and conservation of mass study guide](/resources/aqa-gcse-chemistry-8462-chemical-measurements-conservation-of-mass/)
 - [AQA GCSE Chemistry course hub](/boards/aqa/gcse/chemistry/)
 
 ## Official syllabus

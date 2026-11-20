@@ -85,7 +85,7 @@ External entities: **Parent** and **Teacher**.
 - Process 2 "Take payment": receives *Payment* and *Consent form* from Parent, reads *Trip cost* from **Trips**, writes *Payment record* to **Payments** and sends *Receipt* to Parent.
 - Process 3 "Produce list": reads *Payment record* from **Payments** and *Trip record* from **Trips**, and sends *List of paid pupils* to Teacher.
 
-Check: the same four external flows appear at level 0 and level 1 (Trip details, Payment and Consent form, Receipt, List of paid pupils). The two data stores appear only at level 1.
+Check: the same five external flows appear at level 0 and level 1 (Trip details, Payment, Consent form, Receipt, List of paid pupils). The two data stores appear only at level 1.
 
 **Level 2** for process 2 might show "Check payment amount", "Record consent" and "Print receipt", with sub-processes numbered 2.1, 2.2 and 2.3.
 
