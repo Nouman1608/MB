@@ -17,7 +17,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "networking-and-cyber-security"
     subtopic: "communications-oxfordaqa-alevel-cs"
-description: "Ten original OxfordAQA 9645 questions on sub-topic 3.14.1 Communications: serial and parallel, synchronous and asynchronous, baud rate, bit rate, bandwidth and latency."
+description: "Twelve original OxfordAQA 9645 questions on sub-topic 3.14.1 Communications: serial and parallel, synchronous and asynchronous, baud rate, bit rate, bandwidth and latency."
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-20
 featured: false

@@ -17,7 +17,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "networking-and-cyber-security"
     subtopic: "the-internet-oxfordaqa-alevel-cs"
-description: "Ten original OxfordAQA 9645 questions on sub-topic 3.14.3 The Internet: packets, routers, TTL, URLs, domain names, DNS look-ups and Internet registries."
+description: "Eleven original OxfordAQA 9645 questions on sub-topic 3.14.3 The Internet: packets, routers, TTL, URLs, domain names, DNS look-ups and Internet registries."
 author: "marlbridge-academic-team"
 publishedDate: 2026-11-20
 featured: false
