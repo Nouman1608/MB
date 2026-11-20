@@ -1,18 +1,20 @@
 ---
-title: "IB DP Psychology (2019): Development of Empathy and Theory of Mind -- Practice Questions"
+title: "IB DP Psychology: Development of Empathy and Theory of Mind -- Practice Questions"
 resourceType: "practice-questions"
 subject: "psychology"
 level: ["ib"]
-topic: "Topic 6: Option: Developmental psychology"
+topic: "Context: Human development"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: ["DP Psychology (2019) / DP Psychology (2027)"]
-syllabusSeries: "First assessment 2019"
+syllabusCodes: ["DP Psychology (2027)", "DP Psychology (2019) / DP Psychology (2027)"]
+syllabusSeries: "First assessment 2027"
 order: 6.1
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-psychology-developmental-psychology"
-description: "Original IB DP developmental practice on empathy and theory of mind: false-belief logic, an invented task to analyse, empathy stages and a 22-mark essay plan."
+  - qualification: "ib-dp"
+    topic: "ib-dp-psychology-2027-human-development"
+description: "Original IB DP Psychology practice on empathy and theory of mind: false-belief logic, an invented task to analyse, empathy stages and a 15-mark essay plan."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
@@ -22,9 +24,9 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-> **These are original questions written for Marlbridge** on "development of empathy and theory of
-> mind" in the developmental psychology option (IB DP Psychology, first assessment 2019). They are not
-> past-paper questions. Question 13 uses the Paper 2 essay tariff of 22 marks; the rest use practice
+> **These are original questions written for Marlbridge** on theory of mind and the development of
+> empathy in the human development context (IB DP Psychology, first assessment 2027). They are not
+> past-paper questions. Question 13 uses the Paper 1 Section C tariff of 15 marks; the rest use practice
 > tariffs. The study in Question 8 is invented, with invented figures.
 
 Related: [Empathy and theory of mind study guide](/resources/ib-ib-dp-psychology-empathy-and-theory-of-mind/),
@@ -62,7 +64,7 @@ Related: [Empathy and theory of mind study guide](/resources/ib-ib-dp-psychology
 
 **12.** Explain how the development of theory of mind contributes to the development of cognitive empathy. **[3]**
 
-**13.** Evaluate research on the development of theory of mind. **[22]**
+**13.** Evaluate research on the development of theory of mind, with reference to the concept of measurement. **[15]**
 
 ## Answers
 
@@ -92,12 +94,12 @@ Related: [Empathy and theory of mind study guide](/resources/ib-ib-dp-psychology
 
 **12.** Cognitive empathy requires understanding what another person feels and why **[1]**. Theory of mind allows a child to recognise that another person's feelings come from that person's own beliefs and desires, which may differ from the child's **[1]**. A child who passes false-belief tasks can therefore respond to someone who is upset about something the child knows is untrue, for example comforting a friend who wrongly believes a pet is lost **[1]**.
 
-**13.** Marked with the Paper 2 essay criteria:
-- **A Focus:** defines theory of mind and identifies the issue of when and how it develops **[2]**.
-- **B Knowledge and understanding:** false belief; unexpected-location and unexpected-contents tasks; implicit versus explicit understanding **[6]**.
-- **C Use of research:** two or three of Wimmer and Perner (1983), Perner, Leekam and Wimmer (1987), Wellman, Cross and Watson (2001), Callaghan et al. (2005) and Onishi and Baillargeon (2005) **[6]**.
-- **D Critical thinking:** verbal task demands; cross-sectional designs; meta-analysis strength; cross-cultural support; competing interpretations of looking-time data; a judgement on the age of development **[6]**.
-- **E Clarity and organisation:** a planned argument that reaches a conclusion **[2]**.
+**13.** Marked with the Paper 1 Section C markbands (15 marks). The top band, 13 to 15 marks, needs the demands of the question addressed; relevant knowledge and understanding fully explained; well-developed critical analysis; links to the concept of measurement included throughout and fully explained; a reasoned, clearly stated conclusion consistent with the arguments; and accurate, precise psychological terminology. The 10 to 12 band has the same features with analysis that lacks development, and the 7 to 9 band has analysis that lacks development and links that are only partly relevant. Content that can be credited:
+- **Knowledge:** theory of mind and false belief; unexpected-location and unexpected-contents tasks; implicit versus explicit understanding.
+- **Research used as evidence:** two or three of Wimmer and Perner (1983), Perner, Leekam and Wimmer (1987), Wellman, Cross and Watson (2001), Callaghan et al. (2005) and Onishi and Baillargeon (2005). Details of the studies are not assessed on Paper 1, so credit what the evidence shows rather than a retelling.
+- **Critical analysis:** verbal task demands; cross-sectional designs; meta-analysis strength; cross-cultural support; competing interpretations of looking-time data.
+- **Measurement:** whether a false-belief answer, or looking time, measures understanding of belief or something else such as language, memory or surprise at an unusual event.
+- **Conclusion:** a judgement on the age at which theory of mind develops that depends on how it is measured.
 
 ## Where marks are usually lost
 

@@ -15,10 +15,8 @@ syllabusTopics:
     topic: "ib-dp-psychology-psychology-of-human-relationships"
 description: "Revision notes for the IB DP Psychology human relationships option: attraction, communication, relationship change, group conflict, prejudice and bystanderism."
 author: "marlbridge-academic-team"
-reviewer: "kanwal-aslam"
-reviewStatus: "reviewed"
-reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Check study details and figures against the original papers and the IB Psychology guide (first assessment 2019) before teacher sign-off."
+reviewStatus: "archived"
+reviewNote: "2026-11-20: archived: it teaches the 2019 psychology of human relationships option (including bystanderism, prosocial behaviour, cooperation and competition, prejudice and conflict resolution) and its Paper 2 examination, and the 2027 course has no options and its Human relationships context covers group behaviour and interpersonal relationships instead."
 publishedDate: 2026-11-08
 featured: false
 ---

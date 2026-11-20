@@ -9,10 +9,8 @@ syllabusCodes: ["DP Psychology"]
 syllabusSeries: "First assessment 2019"
 description: "Overview of IB DP Psychology (first assessment 2019): the three core approaches, four options, research methods and how SL and HL are assessed."
 author: "marlbridge-academic-team"
-reviewer: "kanwal-aslam"
-reviewStatus: "reviewed"
-reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewStatus: "archived"
+reviewNote: "2026-11-20: archived: it is an overview of the 2019 course (three core approaches, four options and an experimental-study internal assessment), and the 2027 course replaces the options with four contexts, six concepts and a research-proposal internal assessment."
 publishedDate: 2026-08-22
 featured: false
 ---

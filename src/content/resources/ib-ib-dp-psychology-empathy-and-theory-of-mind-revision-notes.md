@@ -1,17 +1,19 @@
 ---
-title: "IB DP Psychology (2019): Development of Empathy and Theory of Mind -- Revision Notes"
+title: "IB DP Psychology: Development of Empathy and Theory of Mind -- Revision Notes"
 resourceType: "revision-notes"
 subject: "psychology"
 level: ["ib"]
-topic: "Topic 6: Option: Developmental psychology"
+topic: "Context: Human development"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: ["DP Psychology (2019) / DP Psychology (2027)"]
-syllabusSeries: "First assessment 2019"
+syllabusCodes: ["DP Psychology (2027)", "DP Psychology (2019) / DP Psychology (2027)"]
+syllabusSeries: "First assessment 2027"
 order: 6.1
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-psychology-developmental-psychology"
+  - qualification: "ib-dp"
+    topic: "ib-dp-psychology-2027-human-development"
 description: "Condensed IB DP notes on empathy and theory of mind: false-belief tasks, cross-cultural and infant studies, Hoffman's stages, exam traps and a self-test."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
@@ -22,7 +24,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-These notes cover **"development of empathy and theory of mind"**, a content point in the "developing an identity" topic of the developmental psychology option (IB DP Psychology, first assessment 2019). The rest of the option is in the [developmental psychology revision notes](/resources/ib-ib-dp-psychology-developmental-psychology-revision-notes/); full explanations and an essay plan are in the [empathy and theory of mind study guide](/resources/ib-ib-dp-psychology-empathy-and-theory-of-mind/).
+These notes cover **theory of mind** and the **development of empathy** for the human development context of IB DP Psychology (first assessment 2027). The 2027 guide names theory of mind as an area of study (the role it has in understanding human development and cognition); empathy is not listed as an area of study, so treat the empathy material as supporting evidence. Paper 1 Sections A and C do not assess the details of research studies, so learn each study for what it shows. The wider topic is in the [developmental psychology revision notes](/resources/ib-ib-dp-psychology-developmental-psychology-revision-notes/); full explanations and an essay plan are in the [empathy and theory of mind study guide](/resources/ib-ib-dp-psychology-empathy-and-theory-of-mind/).
 
 ## Recall in one minute
 

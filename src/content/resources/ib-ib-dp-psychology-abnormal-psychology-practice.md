@@ -15,10 +15,8 @@ syllabusTopics:
     topic: "ib-dp-psychology-abnormal-psychology"
 description: "Original IB DP Psychology Paper 2 essays on abnormal psychology, covering diagnosis, etiology, prevalence and treatment, with ERQ criteria and model plans."
 author: "marlbridge-academic-team"
-reviewer: "kanwal-aslam"
-reviewStatus: "reviewed"
-reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Check model plans against the IB Psychology guide (first assessment 2019) and a recent Paper 2 markscheme before teacher sign-off."
+reviewStatus: "archived"
+reviewNote: "2026-11-20: archived: it is a set of 22-mark Paper 2 essays on the 2019 Abnormal psychology option (diagnosis, etiology, prevalence and treatment), and the 2027 course has no options and does not include that structure or the diagnosis content."
 publishedDate: 2026-11-08
 featured: false
 ---

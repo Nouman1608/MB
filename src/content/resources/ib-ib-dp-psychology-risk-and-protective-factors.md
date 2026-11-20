@@ -1,18 +1,20 @@
 ---
-title: "IB DP Psychology (2019): Risk and Protective Factors in Health"
+title: "IB DP Psychology: Risk and Protective Factors in Health"
 resourceType: "study-guides"
 subject: "psychology"
 level: ["ib"]
-topic: "Topic 7: Option: Health psychology"
+topic: "Context: Health and well-being"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: ["DP Psychology (2019) / DP Psychology (2027)"]
-syllabusSeries: "First assessment 2019"
+syllabusCodes: ["DP Psychology (2027)", "DP Psychology (2019) / DP Psychology (2027)"]
+syllabusSeries: "First assessment 2027"
 order: 7.1
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-psychology-health-psychology"
-description: "Risk and protective factors for the IB DP health psychology option: childhood adversity, stress and infection, social ties and the buffering hypothesis."
+  - qualification: "ib-dp"
+    topic: "ib-dp-psychology-2027-health-and-well-being"
+description: "Risk and protective factors for IB DP Psychology health and well-being: childhood adversity, stress and infection, social ties and the buffering hypothesis."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"

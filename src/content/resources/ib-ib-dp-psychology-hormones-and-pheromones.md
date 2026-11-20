@@ -1,17 +1,19 @@
 ---
-title: "IB DP Psychology (2019): Hormones and Pheromones and Their Effects on Behaviour"
+title: "IB DP Psychology: Hormones and Pheromones and Their Effects on Behaviour"
 resourceType: "study-guides"
 subject: "psychology"
 level: ["ib"]
-topic: "Core -- Biological approach to understanding behaviour"
+topic: "Content: Biological approach"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: ["DP Psychology (2019) / DP Psychology (2027)"]
-syllabusSeries: "First assessment 2019"
+syllabusCodes: ["DP Psychology (2027)", "DP Psychology (2019) / DP Psychology (2027)"]
+syllabusSeries: "First assessment 2027"
 order: 1.1
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-psychology-biological-approach"
+  - qualification: "ib-dp"
+    topic: "ib-dp-psychology-2027-biological-approach"
 description: "Hormones and pheromones in the IB DP Psychology biological approach: cortisol, oxytocin, the human pheromone debate and how to use the research in answers."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
@@ -22,13 +24,13 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide covers one topic of the biological approach in IB DP Psychology (first assessment 2019): **"hormones and pheromones and their effects on behaviour"**, which the guide lists for both SL and HL. The [biological approach study guide](/resources/ib-dp-psychology-biological-approach/) sets out the four topics of the approach and the basic difference between a hormone and a pheromone. This page goes further: how hormones act, two hormone studies you can use in an answer, the evidence for and against human pheromones, and how to turn that evidence into a 9-mark short answer or a 22-mark essay. The course described here has its last examination session in November 2026.
+This guide covers hormones and pheromones in the biological approach of IB DP Psychology (first assessment 2027). The 2027 guide lists **chemical messengers** as a term in the biological approach ("the role of one or more chemical messengers in human behaviour") and again under interpersonal relationships in the human relationships context. Hormones are chemical messengers, so the hormone sections (cortisol and oxytocin) apply directly. The guide does not name pheromones, so the pheromone section is extension material on chemical signals that act between individuals. The [biological approach study guide](/resources/ib-dp-psychology-biological-approach/) introduces the approach and the basic difference between a hormone and a pheromone. This page goes further: how hormones act, two hormone studies you can use as examples, the evidence for and against human pheromones, and how to turn that evidence into a Section A answer or a 15-mark Section C response. The 2019 course, which listed hormones and pheromones as a topic, had its last examination session in November 2026.
 
 ## Hormones: chemical messengers in the blood
 
 A **hormone** is a chemical released by an endocrine gland into the bloodstream, which carries it to target cells with matching receptors. Compared with a neurotransmitter, a hormone is slower to act, travels further and has longer-lasting, more widespread effects. That difference matters in an exam answer: a neurotransmitter explanation is about signals across a synapse, while a hormone explanation is about a body-wide state that changes how a person thinks or acts over minutes, hours or days.
 
-Three hormones are useful for the IB course:
+Three hormones are useful examples for the IB course:
 
 | Hormone | Released by | Behaviour it is linked to |
 |---|---|---|
@@ -75,21 +77,20 @@ The question for the IB course is whether humans have pheromones at all. Evidenc
 
 **Evaluating the evidence.** Wyatt (2015) argued that no human pheromone has yet been chemically identified, partly because candidate molecules were chosen without first showing which chemical in a body odour causes a reliable effect. Body odour preferences, as in Wedekind's study, may also be learned or cultural rather than an innate pheromone response. Human behaviour is strongly shaped by cognition and context, which makes a single chemical's effect hard to isolate; participants' expectations can also produce an effect. A balanced answer says that some findings are consistent with human chemical signalling, but the case for human pheromones remains unproven.
 
-## Worked example: a 9-mark short answer
+## Worked example: a Section A answer
 
-**Question:** "Explain one study investigating the effect of one hormone on human behaviour." **[9]**
+**Question:** "Explain the role of one chemical messenger in human behaviour, and give an example." **[4]**
 
-1. **Name the hormone and the behaviour** in the first sentence: cortisol and verbal memory.
+1. **Name the messenger and the behaviour** in the first sentence: cortisol and verbal memory.
 2. **Explain the mechanism** in two sentences: cortisol is released by the adrenal cortex at the end of the HPA axis during stress, and it binds to receptors in the hippocampus.
-3. **Describe the study** (Newcomer et al., 1999): aim, double-blind random allocation to high dose, low dose or placebo for four days, prose recall.
-4. **Give the findings and conclusion**: impaired recall in the high-dose group only, returning to normal after treatment.
-5. **Link back** in a final sentence: the study shows that a hormone produced by stress can change a cognitive behaviour, which is the effect the question asks about.
+3. **Give an example and explain it** (Newcomer et al., 1999): healthy adults given a high dose of cortisol for four days, in a double-blind, placebo-controlled design, recalled less of a prose passage, and recall returned to normal after treatment.
+4. **Link back** in a final sentence: the example shows that a hormone produced by stress can change a cognitive behaviour, which is the role the question asks about.
 
-A short answer question on Paper 1 is marked for knowledge, understanding and use of research. It does not require evaluation, so time spent criticising the study earns little here. Save evaluation for the essay.
+Paper 1 Section A is marked on how detailed your knowledge of the content is and on whether your example is relevant and explained. The details of the study are not assessed, so the example needs only enough detail to make the point. The question does not require evaluation, so time spent criticising the study earns little here. Save evaluation for Section C.
 
-## Turning the topic into an essay
+## Turning the topic into a Section C response
 
-An essay such as "Evaluate research on the effect of hormones on human behaviour" needs at least two studies and a judgement. Newcomer et al. (1999) and Kosfeld et al. (2005) work well together, because both are experiments that support causal claims, yet both raise the same questions: does an administered dose behave like the body's own hormone, and do findings from one sample generalise? An essay on pheromones should go further still and weigh evidence that is genuinely contested: present the strongest supporting study, the failures to replicate and Wyatt's argument, and reach a conclusion about how far the evidence goes.
+Section C (15 marks) offers two concept-based extended-response questions, each from a different context. A question such as "Evaluate the role of chemical messengers in human behaviour, with reference to causality" needs relevant research, links to the concept and a judgement. Newcomer et al. (1999) and Kosfeld et al. (2005) work well together, because both are experiments that support causal claims, yet both raise the same questions: does an administered dose behave like the body's own hormone, and do findings from one sample generalise? A response on pheromones should go further still and weigh evidence that is genuinely contested: present the strongest supporting study, the failures to replicate and Wyatt's argument, and reach a conclusion about how far the evidence goes.
 
 ## Common mistakes
 

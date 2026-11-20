@@ -119,6 +119,26 @@ Two 15-mark essays from two different regional studies in two hours. Top-band es
 
 **Answers:** 1. Competing rich city-states and patrons, or trade and banking wealth. 2. 1521. 3. He was occupied with wars against France and the Ottomans and relied on princes who protected Luther. 4. Each ruler could choose Catholicism or Lutheranism for his territory. 5. Reaffirmed doctrine; reformed clergy training and discipline. 6. Paul III.
 
+## Worked example: planning an essay
+
+**Question:** "To what extent was the printing press the main reason Lutheran ideas spread in the 1520s?"
+
+1. **Thesis:** Print was a vital accelerator, but it worked alongside protection by princes, Luther's own message and preaching, so it was not the single main reason.
+2. **Paragraph 1, print:** pamphlets and woodcuts in German reached readers and listeners beyond the Latin-reading elite; the debate became public and fast.
+3. **Paragraph 2, politics:** Frederick the Wise protected Luther; princes and cities had financial and political motives; Charles V was busy with France and the Ottomans.
+4. **Paragraph 3, message and preaching:** the call for faith and scripture appealed to many; most people could not read and heard ideas read aloud or preached.
+5. **Perspective:** some historians stress the "print revolution", others stress politics and local choices.
+6. **Judgement:** print mattered as a means, but political protection decided whether the movement survived.
+
+## Quick comparison table
+
+| Issue | Renaissance (Italy) | Reformation (Germany) |
+|---|---|---|
+| Starting point | City-states, wealth, humanism | Criticism of the Church, indulgences |
+| Key supporters | Patrons: Medici, Sforza, popes | Princes, cities, preachers |
+| Medium | Manuscripts, then print | Pamphlets, sermons, German Bible |
+| Main limit | Reached mostly elites | Split Christendom and led to war |
+
 ## Frequently asked questions
 
 **Which country should I choose for the Renaissance beyond Italy?**

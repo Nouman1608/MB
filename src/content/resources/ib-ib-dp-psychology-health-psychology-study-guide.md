@@ -1,18 +1,20 @@
 ---
-title: "IB DP Psychology: Option: Health psychology -- Study Guide"
+title: "IB DP Psychology: Health and well-being -- Study Guide"
 resourceType: "study-guides"
 subject: "psychology"
 level: ["ib"]
-topic: "Topic 7: Option: Health psychology"
+topic: "Context: Health and well-being"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: ["DP Psychology (2019) / DP Psychology (2027)"]
-syllabusSeries: "First assessment 2019"
+syllabusCodes: ["DP Psychology (2027)", "DP Psychology (2019) / DP Psychology (2027)"]
+syllabusSeries: "First assessment 2027"
 order: 7
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-psychology-health-psychology"
-description: "Study guide to the IB DP Psychology health option: determinants of health, stress, addiction and obesity, health belief models and health promotion."
+  - qualification: "ib-dp"
+    topic: "ib-dp-psychology-2027-health-and-well-being"
+description: "Study guide to health and well-being in IB DP Psychology: determinants of health, stress, addiction and obesity, health belief models and prevention."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
@@ -22,13 +24,17 @@ publishedDate: 2026-11-08
 featured: false
 ---
 
-Health psychology asks why some people stay healthy and others do not, and what psychology can do about it. It treats health as the product of biology, thinking and social context together, rather than as the absence of disease. In the IB Diploma Programme it is one of the options, so you study it in addition to the compulsory approaches and use it to practise building an argument from theory, research and evaluation.
+Health psychology asks why some people stay healthy and others do not, and what psychology can do about it. It treats health as the product of biology, thinking and social context together, rather than as the absence of disease. In the IB Diploma Programme (first assessment 2027) it appears in the context Health and well-being, which all SL and HL students study alongside the biological, cognitive and sociocultural approaches and research methodology, and it is a good place to practise building an argument from theory, research and evaluation.
 
 ## Where this fits in the course
 
-Options are assessed separately from the core approaches to behaviour. You will be asked for extended responses that mix knowledge, application of research, and critical thinking, marked against IB markbands. Because the wording of the content list differs between the 2019 and 2027 courses, treat this guide as a map of the core ideas and check your teacher's course outline for the exact scope.
+The 2027 course has no options. Health and well-being is one of four contexts (with human development, human relationships, and learning and cognition), and the contexts are studied through the six concepts and the content areas. For this context the guide lists three areas of study. **Mental health disorders**: one or more of major depressive disorder, eating disorders, post-traumatic stress disorder, obsessive-compulsive disorders or anxiety disorders. **Health problems**: one or more of obesity, drug misuse or abuse, or social media addiction, including the role of stress and social learning. **Prevention and treatment**. The class practical for this context is an interview.
 
-The option follows a pattern that runs through IB Psychology: factors that influence health, specific health problems, and then how behaviour change and promotion work in practice.
+This guide covers the second and third areas: stress and health, addiction and obesity, and prevention strategies. It does not cover the mental health disorders area. Determinants of health are not a listed area of study in the 2027 guide, so the next section is background that links the three approaches to health.
+
+In assessment, Paper 1 Section B sets two compulsory questions that apply content to an unseen situation, each from one of four contexts, and Section C offers a choice of two concept-based extended-response questions (15 marks), each from a different context. Paper 1 does not assess the details of research studies, so the studies below are evidence for an argument, not a list to memorise.
+
+The context follows a pattern that runs through IB Psychology: factors that influence health, specific health problems, and then how behaviour change and promotion work in practice.
 
 ## Determinants of health
 
@@ -71,7 +77,7 @@ Stress is a response to a perceived demand that exceeds a person's perceived abi
 
 ## Addiction, obesity and other health problems
 
-The option invites you to study specific health problems in depth. Whichever you cover, build your understanding in the same three layers.
+The context asks you to study one or more health problems in depth, chosen from obesity, drug misuse or abuse, and social media addiction. Whichever you cover, build your understanding in the same three layers.
 
 1. **What explains it biologically?** For addiction, the role of dopamine pathways and genetic vulnerability; for obesity, genetic influences on appetite and metabolism.
 2. **What explains it cognitively?** For addiction, expectations and beliefs about a substance; for obesity, beliefs about food and self-control.
@@ -160,7 +166,7 @@ For longer responses, plan before you write: a short introduction that defines t
 
 ## Frequently asked questions
 
-**What are the determinants of health in IB Psychology?**
+**What are the determinants of health in psychology?**
 Biological determinants include genetics and the stress response, cognitive determinants include beliefs, perceived control and self-efficacy, and sociocultural determinants include income, education, social support and culture.
 
 **What is Lazarus and Folkman's transactional model of stress?**

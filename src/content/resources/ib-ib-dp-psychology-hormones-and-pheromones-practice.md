@@ -1,18 +1,20 @@
 ---
-title: "IB DP Psychology (2019): Hormones and Pheromones and Their Effects on Behaviour -- Practice Questions"
+title: "IB DP Psychology: Hormones and Pheromones and Their Effects on Behaviour -- Practice Questions"
 resourceType: "practice-questions"
 subject: "psychology"
 level: ["ib"]
-topic: "Core -- Biological approach to understanding behaviour"
+topic: "Content: Biological approach"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: ["DP Psychology (2019) / DP Psychology (2027)"]
-syllabusSeries: "First assessment 2019"
+syllabusCodes: ["DP Psychology (2027)", "DP Psychology (2019) / DP Psychology (2027)"]
+syllabusSeries: "First assessment 2027"
 order: 1.1
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-psychology-biological-approach"
-description: "Original IB DP Psychology practice on hormones and pheromones: recall, applied study questions, a 9-mark short answer and an essay plan, with full answers."
+  - qualification: "ib-dp"
+    topic: "ib-dp-psychology-2027-biological-approach"
+description: "Original IB DP Psychology practice on hormones and pheromones: recall, applied study questions, a 4-mark short answer and a 15-mark essay plan, with full answers."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
@@ -22,10 +24,10 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-> **These are original questions written for Marlbridge** on the biological approach topic
-> "hormones and pheromones and their effects on behaviour" (IB DP Psychology, first assessment 2019).
-> They are not past-paper questions. Questions 11 and 12 use the Paper 1 short-answer and essay tariffs
-> of 9 and 22 marks; the other questions use practice tariffs to rehearse the component skills.
+> **These are original questions written for Marlbridge** on hormones and pheromones, which fit the
+> chemical messengers term of the biological approach (IB DP Psychology, first assessment 2027).
+> They are not past-paper questions. Questions 11 and 12 use the Paper 1 Section A tariff of 4 marks
+> and the Section C tariff of 15 marks; the other questions use practice tariffs to rehearse the component skills.
 
 Related: [Hormones and pheromones study guide](/resources/ib-ib-dp-psychology-hormones-and-pheromones/),
 [revision notes](/resources/ib-ib-dp-psychology-hormones-and-pheromones-revision-notes/) and the
@@ -57,9 +59,9 @@ Related: [Hormones and pheromones study guide](/resources/ib-ib-dp-psychology-ho
 
 **10.** Outline two reasons why the existence of human pheromones is disputed. **[4]**
 
-**11.** Explain one study investigating the effect of one hormone on human behaviour. **[9]**
+**11.** Explain the role of one chemical messenger in human behaviour, and give an example. **[4]**
 
-**12.** Evaluate research into the effect of pheromones on human behaviour. **[22]**
+**12.** To what extent does research support the claim that pheromones affect human behaviour, with reference to the concept of causality? **[15]**
 
 ## Answers
 
@@ -87,25 +89,23 @@ Related: [Hormones and pheromones study guide](/resources/ib-ib-dp-psychology-ho
 - Key findings have not held up: McClintock's (1971) menstrual synchrony was not found in later studies such as Yang and Schank (2006), and Hare et al. (2017) found that androstadienone and estratetraenol did not affect judgements of faces **[2]**.
 - Also creditable for two marks: human behaviour is strongly influenced by learning, culture and expectation, so it is hard to show that a chemical alone caused an effect.
 
-**11.** Award up to nine marks across knowledge and understanding and use of research:
-- names the hormone and behaviour, for example cortisol and verbal memory **[1]**;
-- explains the mechanism: released by the adrenal cortex at the end of the HPA axis, acting on receptors in the hippocampus **[2]**;
-- states the aim of Newcomer et al. (1999): whether stress-level cortisol impairs verbal declarative memory **[1]**;
-- describes the procedure: double-blind random allocation to high dose, low dose or placebo for four days; prose recall tested **[2]**;
-- gives the findings: impaired recall in the high-dose group only, recovering after treatment **[2]**;
-- links the study back to the question: a hormone released in stress changes a cognitive behaviour **[1]**.
-Kosfeld et al. (2005) on oxytocin and trust is equally creditable. Evaluation is not required.
+**11.** Marked with the Paper 1 Section A rubric (4 marks): 1 to 2 marks for limited knowledge with an example that is relevant but not explained; 3 to 4 marks for detailed knowledge with an example that is relevant and explained. Credit:
+- names a chemical messenger and a behaviour, for example cortisol and verbal memory **[1]**;
+- explains the mechanism: released by the adrenal cortex at the end of the HPA axis, acting on receptors in the hippocampus **[1]**;
+- gives a relevant example, for example Newcomer et al. (1999): a high dose of cortisol for four days, in a double-blind placebo-controlled design, impaired recall of a prose passage, and recall recovered after treatment **[1]**;
+- explains how the example shows the role: a hormone released in stress changes a cognitive behaviour **[1]**.
+Kosfeld et al. (2005) on oxytocin and trust is equally creditable. Details of studies are not assessed, and evaluation is not required.
 
-**12.** Marked with the Paper 1 essay criteria:
-- **A Focus (2):** states that the issue is whether chemical signals between people affect behaviour, and that the evidence is contested **[2]**.
-- **B Knowledge and understanding (6):** defines pheromone; distinguishes releaser and primer; explains why animal evidence is strong and why human evidence is harder to obtain **[6]**.
-- **C Use of research (6):** two or three studies explained and linked, for example Stern and McClintock (1998), Wedekind et al. (1995) and Hare et al. (2017) **[6]**.
-- **D Critical thinking (6):** Stern and McClintock used odourless compounds, reducing conscious expectation, but did not identify the active chemical; Wedekind's odour preference could be learned and is not clearly a pheromone; synchrony failed to replicate; Hare et al. challenge the best-known candidates; Wyatt's methodological critique; a conclusion that the case is unproven **[6]**.
-- **E Clarity and organisation (2):** a clear argument from introduction to conclusion **[2]**.
+**12.** Marked with the Paper 1 Section C markbands (15 marks). The top band, 13 to 15 marks, needs the demands of the question addressed; relevant knowledge and understanding fully explained; well-developed critical analysis; links to the concept of causality included throughout and fully explained; a reasoned, clearly stated conclusion; and accurate, precise terminology. Content that can be credited:
+- **Knowledge:** defines pheromone; distinguishes releaser and primer; explains why animal evidence is strong and why human evidence is harder to obtain.
+- **Research as evidence:** two or three studies, for example Stern and McClintock (1998), Wedekind et al. (1995) and Hare et al. (2017). Details of studies are not assessed, so credit what the evidence shows.
+- **Critical analysis:** Stern and McClintock used odourless compounds, reducing conscious expectation, but did not identify the active chemical; Wedekind's odour preference could be learned and is not clearly a pheromone; synchrony failed to replicate; Hare et al. challenge the best-known candidates; Wyatt's methodological critique.
+- **Causality:** correlation in odour preference or cycle timing does not show that a pheromone caused it; alternative explanations include learning, expectation and uncontrolled variables.
+- **Conclusion:** a judgement that the case for human pheromones is unproven.
 
 ## Where marks are usually lost
 
 - **Question 7:** naming "oxytocin" as the IV without the comparison condition.
 - **Question 9:** criticising the headline without any research.
-- **Question 11:** spending half the answer on evaluation, which earns nothing in a short answer.
+- **Question 11:** spending half the answer on evaluation, which earns nothing in Section A.
 - **Question 12:** describing moth or mouse studies at length; they show what a pheromone is, not that humans have one.

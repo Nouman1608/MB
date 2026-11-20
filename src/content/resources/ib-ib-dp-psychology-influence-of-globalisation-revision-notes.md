@@ -1,17 +1,19 @@
 ---
-title: "IB DP Psychology (2019): The Influence of Globalisation on Attitudes, Identities and Behaviour -- Revision Notes"
+title: "IB DP Psychology: The Influence of Globalisation on Attitudes, Identities and Behaviour -- Revision Notes"
 resourceType: "revision-notes"
 subject: "psychology"
 level: ["ib"]
-topic: "Topic 3: Sociocultural approach to understanding behaviour"
+topic: "HL extension: Culture"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: ["DP Psychology (2019) / DP Psychology (2027)"]
-syllabusSeries: "First assessment 2019"
+syllabusCodes: ["DP Psychology (2027)", "DP Psychology (2019) / DP Psychology (2027)"]
+syllabusSeries: "First assessment 2027"
 order: 3.1
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-psychology-sociocultural-approach"
+  - qualification: "ib-dp"
+    topic: "ib-dp-psychology-2027-hl-extension-culture"
 description: "Condensed HL notes on globalisation for IB DP Psychology: bicultural identity, globalisation-based acculturation, Becker's Fiji study, Buchan and a self-test."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"

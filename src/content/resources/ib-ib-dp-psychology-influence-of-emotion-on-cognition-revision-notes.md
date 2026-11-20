@@ -1,17 +1,19 @@
 ---
-title: "IB DP Psychology (2019): The Influence of Emotion on Cognitive Processes -- Revision Notes"
+title: "IB DP Psychology: The Influence of Emotion on Cognitive Processes -- Revision Notes"
 resourceType: "revision-notes"
 subject: "psychology"
 level: ["ib"]
-topic: "Core -- Cognitive approach to understanding behaviour"
+topic: "Context: Learning and cognition"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: ["DP Psychology (2019) / DP Psychology (2027)"]
-syllabusSeries: "First assessment 2019"
+syllabusCodes: ["DP Psychology (2027)", "DP Psychology (2019) / DP Psychology (2027)"]
+syllabusSeries: "First assessment 2027"
 order: 2.1
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-psychology-cognitive-approach"
+  - qualification: "ib-dp"
+    topic: "ib-dp-psychology-2027-learning-and-cognition"
 description: "Quick-recall notes on emotion and cognition for IB DP Psychology: flashbulb memory, accuracy versus confidence, weapon focus, key studies and a self-test."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"

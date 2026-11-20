@@ -1,18 +1,20 @@
 ---
-title: "IB DP Psychology (2019): The Influence of Emotion on Cognitive Processes -- Practice Questions"
+title: "IB DP Psychology: The Influence of Emotion on Cognitive Processes -- Practice Questions"
 resourceType: "practice-questions"
 subject: "psychology"
 level: ["ib"]
-topic: "Core -- Cognitive approach to understanding behaviour"
+topic: "Context: Learning and cognition"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: ["DP Psychology (2019) / DP Psychology (2027)"]
-syllabusSeries: "First assessment 2019"
+syllabusCodes: ["DP Psychology (2027)", "DP Psychology (2019) / DP Psychology (2027)"]
+syllabusSeries: "First assessment 2027"
 order: 2.1
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-psychology-cognitive-approach"
-description: "Original IB DP Psychology practice on emotion and cognition: flashbulb memory, weapon focus, an invented study to analyse, a 9-mark answer and an essay plan."
+  - qualification: "ib-dp"
+    topic: "ib-dp-psychology-2027-learning-and-cognition"
+description: "Original IB DP Psychology practice on emotion and cognition: flashbulb memory, weapon focus, an invented study to analyse, a 4-mark answer and a 15-mark essay plan."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"

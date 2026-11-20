@@ -1,18 +1,20 @@
 ---
-title: "IB DP Psychology (2019): Risk and Protective Factors in Health -- Revision Notes"
+title: "IB DP Psychology: Risk and Protective Factors in Health -- Revision Notes"
 resourceType: "revision-notes"
 subject: "psychology"
 level: ["ib"]
-topic: "Topic 7: Option: Health psychology"
+topic: "Context: Health and well-being"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: ["DP Psychology (2019) / DP Psychology (2027)"]
-syllabusSeries: "First assessment 2019"
+syllabusCodes: ["DP Psychology (2027)", "DP Psychology (2019) / DP Psychology (2027)"]
+syllabusSeries: "First assessment 2027"
 order: 7.1
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-psychology-health-psychology"
-description: "Condensed IB DP health psychology notes on risk and protective factors: pathways, the ACE study, stress and colds, social ties, buffering and a self-test."
+  - qualification: "ib-dp"
+    topic: "ib-dp-psychology-2027-health-and-well-being"
+description: "Condensed IB DP Psychology notes on risk and protective factors in health: pathways, the ACE study, stress and colds, social ties, buffering and a self-test."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"

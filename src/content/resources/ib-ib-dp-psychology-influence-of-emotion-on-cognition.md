@@ -1,18 +1,20 @@
 ---
-title: "IB DP Psychology (2019): The Influence of Emotion on Cognitive Processes"
+title: "IB DP Psychology: The Influence of Emotion on Cognitive Processes"
 resourceType: "study-guides"
 subject: "psychology"
 level: ["ib"]
-topic: "Core -- Cognitive approach to understanding behaviour"
+topic: "Context: Learning and cognition"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: ["DP Psychology (2019) / DP Psychology (2027)"]
-syllabusSeries: "First assessment 2019"
+syllabusCodes: ["DP Psychology (2027)", "DP Psychology (2019) / DP Psychology (2027)"]
+syllabusSeries: "First assessment 2027"
 order: 2.1
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-psychology-cognitive-approach"
-description: "Emotion and cognition for IB DP Psychology: flashbulb memory, weapon focus and the amygdala, with key studies, evaluation and a planned 22-mark essay."
+  - qualification: "ib-dp"
+    topic: "ib-dp-psychology-2027-learning-and-cognition"
+description: "Emotion and cognition for IB DP Psychology: flashbulb memory, weapon focus and the amygdala, with key studies, evaluation and a planned 15-mark essay."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
@@ -22,11 +24,11 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide covers the cognitive approach topic **"emotion and cognition"**, whose content in IB DP Psychology (first assessment 2019) is **"the influence of emotion on cognitive processes"**. The [cognitive approach study guide](/resources/ib-dp-psychology-cognitive-approach/) introduces reconstructive memory and schema; this page deals with a different question: what happens to attention and memory when an event is emotionally charged? The usual example is the **flashbulb memory**, supported by research on attention and on the biology of emotional memory. The course described here has its last examination session in November 2026.
+This guide covers **the influence of emotion on cognitive processes**, mainly memory and attention, for IB DP Psychology (first assessment 2027). The 2027 guide does not list emotion as a topic of its own. It does ask, in the learning and cognition context, for the role of biological factors and the influence of environmental factors on cognitive processes (attention, memory, perception or language), and the research here gives examples of both: arousal hormones and the amygdala as biological factors, and an emotionally charged event as an environmental influence. The [cognitive approach study guide](/resources/ib-dp-psychology-cognitive-approach/) introduces reconstructive memory and schema; this page deals with a different question: what happens to attention and memory when an event is emotionally charged? The usual example is the **flashbulb memory**, supported by research on attention and on the biology of emotional memory. The 2019 course listed the influence of emotion on cognitive processes as a content point; its last examination session was November 2026.
 
 ## What the topic asks
 
-"Cognitive processes" covers attention, perception, memory and decision-making. You need to show that emotion changes at least one of them, explain how, and evaluate the evidence. Most students choose memory, because the research is well developed and allows a clear debate: does emotion make memories more accurate, or only more vivid and more confidently held?
+In the 2027 guide the cognitive processes for study are attention, memory, perception and language, and its glossary also counts learning, thinking and decision-making as cognitive processes. To use this material you need to show that emotion changes at least one of them, explain how, and evaluate the evidence. Most students choose memory, because the research is well developed and allows a clear debate: does emotion make memories more accurate, or only more vivid and more confidently held?
 
 Keep the approach in view. The topic belongs to the cognitive approach, so the explanation should be about mental processes such as attention, rehearsal and reconstruction. Biological research on the amygdala can support the argument, but it should not take over an answer to a cognitive question.
 
@@ -69,15 +71,17 @@ Two studies show why emotional events may be remembered differently:
 
 Use these as supporting evidence: they suggest a mechanism (arousal hormones and the amygdala) that explains why emotional memories feel strong, without showing that they are accurate.
 
-## Worked example: planning a 22-mark essay
+## Worked example: planning a 15-mark Section C response
 
-**Question:** "Evaluate one theory of how emotion may affect one cognitive process."
+Paper 1 Section C offers two concept-based extended-response questions, each from a different context. The question below is written in that style.
+
+**Question:** "Evaluate one theory of how emotion may affect one cognitive process, with reference to the concept of measurement." **[15]**
 
 1. **Focus:** flashbulb memory theory (Brown and Kulik, 1977) and its claim that emotional events are recorded by a special mechanism, so memory is the cognitive process.
 2. **Knowledge:** define flashbulb memory, the role of surprise and consequentiality, and "Now Print!".
 3. **Supporting research:** Brown and Kulik's findings on personal importance; Sharot et al. (2007) as a possible neural basis.
 4. **Challenging research:** Neisser and Harsch (1992) on inconsistency with high confidence; Talarico and Rubin (2003), where flashbulb and everyday memories declined at a similar rate.
-5. **Critical thinking:** retrospective self-report versus test-retest designs; samples of students from single universities; the role of rehearsal and the media as an alternative explanation; whether confidence and accuracy should be separated.
+5. **Critical thinking and concept link:** measurement: how accuracy, vividness and confidence are each measured; retrospective self-report versus test-retest designs; samples of students from single universities; the role of rehearsal and the media as an alternative explanation; whether confidence and accuracy should be separated.
 6. **Conclusion:** emotion clearly changes how vivid and certain a memory feels, but the evidence does not support the claim that flashbulb memories are more accurate than everyday memories.
 
 ## Common mistakes
@@ -90,7 +94,7 @@ Use these as supporting evidence: they suggest a mechanism (arousal hormones and
 
 ## Exam technique
 
-A 9-mark short answer such as "Explain one study investigating the influence of emotion on one cognitive process" needs one study, described accurately, and a closing sentence that states what it shows about emotion and memory. An essay needs evaluation and a judgement. **Evaluate** asks for strengths and limitations of the theory or research, **discuss** for a balanced review, and **to what extent** for a conclusion about degree. Talarico and Rubin's distinction between consistency and confidence is the most useful single point for a top-band conclusion.
+A Section B question (6 marks) gives an unseen situation in a context, for example a witness recalling an emergency in the learning and cognition context, and asks you to apply your knowledge: here, the roles of arousal, attention and memory. Paper 1 does not assess the details of research studies, so use a study to support a point, then state what it shows about emotion and memory. A Section C response (15 marks) needs evaluation, links to the concept in the question and a judgement. **Evaluate** asks for strengths and limitations of the theory or research, **discuss** for a balanced review, and **to what extent** for a conclusion about degree. Talarico and Rubin's distinction between consistency and confidence is the most useful single point for a top-band conclusion.
 
 ## Related pages
 

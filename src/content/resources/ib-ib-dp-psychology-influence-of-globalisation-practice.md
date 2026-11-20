@@ -1,18 +1,20 @@
 ---
-title: "IB DP Psychology (2019): The Influence of Globalisation on Attitudes, Identities and Behaviour -- Practice Questions"
+title: "IB DP Psychology: The Influence of Globalisation on Attitudes, Identities and Behaviour -- Practice Questions"
 resourceType: "practice-questions"
 subject: "psychology"
 level: ["ib"]
-topic: "Topic 3: Sociocultural approach to understanding behaviour"
+topic: "HL extension: Culture"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: ["DP Psychology (2019) / DP Psychology (2027)"]
-syllabusSeries: "First assessment 2019"
+syllabusCodes: ["DP Psychology (2027)", "DP Psychology (2019) / DP Psychology (2027)"]
+syllabusSeries: "First assessment 2027"
 order: 3.1
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-psychology-sociocultural-approach"
-description: "Original HL practice on globalisation for IB DP Psychology: definitions, identity, the Fiji study, an invented survey to analyse and a 22-mark essay plan."
+  - qualification: "ib-dp"
+    topic: "ib-dp-psychology-2027-hl-extension-culture"
+description: "Original HL practice on globalisation for IB DP Psychology: definitions, identity, the Fiji study, an invented survey to analyse and a 15-mark discussion plan."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"

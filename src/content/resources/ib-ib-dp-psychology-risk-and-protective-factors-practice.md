@@ -1,18 +1,20 @@
 ---
-title: "IB DP Psychology (2019): Risk and Protective Factors in Health -- Practice Questions"
+title: "IB DP Psychology: Risk and Protective Factors in Health -- Practice Questions"
 resourceType: "practice-questions"
 subject: "psychology"
 level: ["ib"]
-topic: "Topic 7: Option: Health psychology"
+topic: "Context: Health and well-being"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: ["DP Psychology (2019) / DP Psychology (2027)"]
-syllabusSeries: "First assessment 2019"
+syllabusCodes: ["DP Psychology (2027)", "DP Psychology (2019) / DP Psychology (2027)"]
+syllabusSeries: "First assessment 2027"
 order: 7.1
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-psychology-health-psychology"
-description: "Original IB DP health psychology practice on risk and protective factors: definitions, pathways, an invented survey to analyse and a 22-mark essay plan."
+  - qualification: "ib-dp"
+    topic: "ib-dp-psychology-2027-health-and-well-being"
+description: "Original IB DP health and well-being practice on risk and protective factors: definitions, pathways, an invented survey to analyse and a 15-mark essay plan."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"

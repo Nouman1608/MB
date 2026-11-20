@@ -15,10 +15,8 @@ syllabusTopics:
     topic: "ib-dp-psychology-sociocultural-approach"
 description: "Original IB DP Psychology Paper 1 practice on the sociocultural approach: four 9-mark SAQs and two 22-mark ERQs with markband guidance and model outlines."
 author: "marlbridge-academic-team"
-reviewer: "kanwal-aslam"
-reviewStatus: "reviewed"
-reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Check the markband summaries and model outlines against the IB Psychology guide (first assessment 2019) and a recent Paper 1 markscheme before teacher sign-off."
+reviewStatus: "archived"
+reviewNote: "2026-11-20: archived: it is a 2019 Paper 1 practice set of 9-mark short-answer questions and 22-mark essays marked with the 2019 criteria, and the 2027 Paper 1 has an 8-mark Section A, a 12-mark Section B and a 15-mark Section C."
 publishedDate: 2026-11-08
 featured: false
 ---

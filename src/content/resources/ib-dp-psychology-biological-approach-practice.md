@@ -1,19 +1,21 @@
 ---
-title: "IB DP Psychology Core: The Biological Approach to Understanding Behaviour -- Practice Questions"
+title: "IB DP Psychology: The Biological Approach to Understanding Behaviour -- Practice Questions"
 seoTitle: "IB DP Psychology Biological Approach Practice Questions"
 resourceType: "practice-questions"
 subject: "psychology"
 level: ["ib"]
-topic: "Core -- Biological approach to understanding behaviour"
+topic: "Content -- Biological approach to understanding behaviour"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: ["DP Psychology"]
-syllabusSeries: "First assessment 2019"
+syllabusCodes: ["DP Psychology (2027)", "DP Psychology"]
+syllabusSeries: "First assessment 2027"
 order: 3
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-psychology-biological-approach"
-description: "Practice questions with worked answers on the brain, hormones and pheromones, genetics and HL animal research for the IB DP Psychology biological approach."
+  - qualification: "ib-dp"
+    topic: "ib-dp-psychology-2027-biological-approach"
+description: "Practice questions with worked answers on the brain, chemical messengers, genetics and animal research for the IB DP Psychology biological approach (first assessment 2027)."
 author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
@@ -23,14 +25,6 @@ publishedDate: 2026-09-06
 featured: false
 ---
 
-> **Course note (legacy syllabus):** This resource describes IB DP
-> Psychology for **first assessment 2019**, now in its final teaching
-> cycle (**last examination session November 2026**). A replacement
-> course (first assessment 2027) reworks the approaches into content
-> areas applied across four contexts, integrated with six named concepts.
-> A companion resource for the 2027 course does not yet exist on this
-> site.
-
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
 > and they do **not** replicate the exam's exact structure, question count or
@@ -38,11 +32,11 @@ featured: false
 > the official past papers available through your school or the IB store.
 
 Related: [Biological approach revision notes](/resources/ib-dp-psychology-biological-approach-revision-notes/)
-and the [IB DP Psychology syllabus guide](/resources/ib-dp-psychology-syllabus-guide/).
+and the [biological approach study guide](/resources/ib-dp-psychology-biological-approach/).
 
 ## Section A
 
-**1.** State the three topics of the biological approach that are studied at both SL and HL. **[3]**
+**1.** State three of the terms that the IB Psychology guide lists for the biological approach. **[3]**
 
 **2.** Define "concordance rate" as used in twin studies. **[2]**
 
@@ -68,7 +62,7 @@ and the [IB DP Psychology syllabus guide](/resources/ib-dp-psychology-syllabus-g
 
 ## Worked answers
 
-**1.** The relationship between the brain and behaviour **[1]**; hormones and pheromones and their effects on behaviour **[1]**; the relationship between genetics and behaviour **[1]**. (HL students also study a fourth topic, the role of animal research in understanding human behaviour; it earns no marks here.) **[3]**
+**1.** Any three of: animal research/animal models, biological reductionism, brain imaging techniques, chemical messengers, the diathesis-stress model, genetic inheritance, localization of function, neuroplasticity, neurotransmission **[1 each]**. **[3]**
 
 **2.** Concordance rate is the percentage of twin pairs in which both twins share a particular trait or behaviour, used to estimate the degree of similarity between twins for that characteristic. **[2]**
 
@@ -82,19 +76,19 @@ and the [IB DP Psychology syllabus guide](/resources/ib-dp-psychology-syllabus-g
 
 **6.** Strength: brain imaging provides objective, quantifiable data about brain structure or activity, reducing reliance on self-report or subjective observation. **[2]** Limitation: brain imaging typically shows correlation between brain activity and a task or behaviour, not causation, and scanning conditions (e.g. lying still in a scanner) may not reflect how the brain behaves in natural, everyday settings, limiting ecological validity. **[2]**
 
-**7.** A strong answer would define the biological approach's core claim (behaviour explained through the brain, hormones and pheromones, and genetics) and support it with a named study or theory, such as twin study evidence for a genetic contribution to a specific trait, or a neurochemical or hormonal explanation for a behaviour such as stress or motivation. Strengths to raise: objective, often quantifiable evidence (e.g. brain scans, hormone assays); biological explanations can be tested and often replicated using standardised measures; some biological interventions (e.g. drug treatments derived from neurochemical theories) have demonstrable real-world efficacy, which is itself evidence for the underlying explanation's validity. Limitations to raise: biological studies are frequently correlational, so causal claims often go beyond what the evidence supports; biological explanations alone cannot account for all variation in behaviour, since cognitive and sociocultural factors (such as schema, culture, and social context) clearly also shape behaviour, as the syllabus's own three-approach structure implies; reductionism -- explaining complex behaviour purely at the biological level risks oversimplifying phenomena that involve cognitive and social processes too. A well-rounded discussion should conclude that the biological approach offers valuable and often rigorous evidence, but the claim that it is the "most complete" explanation overstates its scope, since the syllabus itself frames it as one of three complementary approaches rather than a standalone, sufficient account of behaviour. **[9]** (Marks awarded across accurate description of approach and named study, balanced evaluation with genuine strengths and limitations, and a reasoned conclusion addressing the claim directly.)
+**7.** A strong answer would define the biological approach's core claim (behaviour explained through the brain, chemical messengers and genetics) and support it with a named study or theory, such as twin study evidence for a genetic contribution to a specific trait, or a neurochemical or hormonal explanation for a behaviour such as stress or motivation. Strengths to raise: objective, often quantifiable evidence (e.g. brain scans, hormone assays); biological explanations can be tested and often replicated using standardised measures; some biological interventions (e.g. drug treatments derived from neurochemical theories) have demonstrable real-world efficacy, which is itself evidence for the underlying explanation's validity. Limitations to raise: biological studies are frequently correlational, so causal claims often go beyond what the evidence supports; biological explanations alone cannot account for all variation in behaviour, since cognitive and sociocultural factors (such as schema, culture, and social context) clearly also shape behaviour, as the guide's three-approach structure implies; reductionism -- explaining complex behaviour purely at the biological level risks oversimplifying phenomena that involve cognitive and social processes too. A well-rounded discussion should conclude that the biological approach offers valuable and often rigorous evidence, but the claim that it is the "most complete" explanation overstates its scope, since the guide itself frames it as one of three approaches, none of which explains behaviour sufficiently on its own rather than a standalone, sufficient account of behaviour. **[9]** (Marks awarded across accurate description of approach and named study, balanced evaluation with genuine strengths and limitations, and a reasoned conclusion addressing the claim directly.)
 
 ## Why question 7 carries the most marks
 
-Question 7 uses an essay-style "discuss" prompt because Paper 1's essay is the paper's main test of the
-skill the revision notes identify as decisive: evaluation, not description. It is **not** set at Paper 1
-essay length or mark value. On the real Paper 1 (first assessment 2019), each of the three short-answer
-questions in Section A is worth 9 marks and the Section B essay is worth 22 marks, so treat question 7
-as a shorter rehearsal of the essay's evaluative skill rather than a full-length essay.
-Every other question in this set builds towards the two-part habit the notes recommend -- naming a
-mechanism and then explaining what behaviour it accounts for, or naming a finding and then evaluating
-it -- so that by question 7, a student who has worked through Sections A and B has already rehearsed
-the component skills the full essay demands.
+Question 7 uses an essay-style "discuss" prompt because the extended-response questions on the real
+papers are the main test of the skill the revision notes identify as decisive: evaluation, not
+description. It is **not** set at the length or mark value of a real extended response. On the real Paper 1
+(first assessment 2027), section A is worth 8 marks, section B 12 marks and section C, a concept-based
+extended response, 15 marks (35 marks in total), so treat question 7 as a shorter rehearsal of that
+evaluative skill. Every other question in this set builds towards the two-part habit the notes recommend --
+naming a mechanism and then explaining what behaviour it accounts for, or naming a finding and then
+evaluating it -- so that by question 7, a student who has worked through Sections A and B has already
+rehearsed the component skills the full response demands.
 
 ## Frequently asked questions
 
@@ -102,17 +96,14 @@ the component skills the full essay demands.
 No. They are original practice questions with worked answers, written to rehearse the skills Paper 1 tests rather than to reproduce its exact format.
 
 **How many marks are IB Psychology Paper 1 questions worth?**
-On Paper 1 (first assessment 2019), each of the three Section A short-answer questions is worth 9 marks and the Section B essay is worth 22 marks.
+On Paper 1 (first assessment 2027), section A is worth 8 marks, section B 12 marks and section C 15 marks, 35 marks in total. Section C is a concept-based extended response, answered from one of two questions that are each set from a different context.
 
 **Why does the essay-style question carry the most marks in this set?**
-It rehearses evaluation, the skill the Paper 1 essay rewards most. It is shorter than a real Paper 1 essay, so treat it as practice for the evaluative skill rather than a full-length essay.
+It rehearses evaluation, the skill the extended-response questions reward most. It is shorter than a real Paper 1 section C response, so treat it as practice for the evaluative skill rather than a full-length answer.
 
 **Why is naming a neurotransmitter not a complete biological explanation?**
 A name alone does not explain the mechanism or the behaviour. A complete explanation states what the neurotransmitter does physiologically and links that mechanism to the specific behaviour.
 
 ## Official syllabus
 
-International Baccalaureate Organization, *Diploma Programme Subject Brief -- Psychology*, first
-assessment 2019 -- the same source cited by the
-[Biological approach revision notes](/resources/ib-dp-psychology-biological-approach-revision-notes/)
-and the [IB DP Psychology syllabus guide](/resources/ib-dp-psychology-syllabus-guide/).
+International Baccalaureate Organization, *Diploma Programme Psychology guide*, first assessment 2027 (published February 2025), Syllabus content, "Biological approach" and Table 3.1 (pp. 24 to 25), and External assessment, Paper 1 (pp. 42 and 45 to 46), read on 2026-11-20.
