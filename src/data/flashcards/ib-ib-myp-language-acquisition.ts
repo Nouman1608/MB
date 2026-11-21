@@ -22,9 +22,10 @@
  * pages describe them.
  *
  *   The syllabus record is not tiered, so no card carries a tier.
- *   Every card is authored (origin 'authored'): the only candidates that
+ *   Almost every card is authored (origin 'authored'): the only candidates that
  *   scripts/flashcard-candidates.mjs lists are worked-example fragments, not
- *   term/definition pairs.
+ *   term/definition pairs. A few cards in the criterion B and C blocks restate
+ *   that criterion's own revision-notes page and name it as `src`.
  *
  * Plain text only (see types.ts).
  */
@@ -131,12 +132,18 @@ export const DECK_IB_IB_MYP_LANGUAGE_ACQUISITION: FlashcardDeck = {
     ...sub(AC, `${AC}-b-reading`, 'B', [
       { n: 1, f: 'What does criterion B (Reading) assess?', b: 'Constructing meaning from written, spatial and visual aspects of texts, and how they work with the words to convey ideas, values and attitudes.' },
       { n: 2, f: 'Visual aspects versus spatial aspects of a text', b: 'Visual: photos, drawings, icons, charts, logos, colour.\nSpatial: where things sit on the page — position, size, boxes, columns, grouping and white space.' },
+      { n: 3, f: 'Name, describe, explain, link: how do you explain a visual or spatial feature?', b: 'Name it (photo, icon, green strip), describe it precisely (what it shows and where it sits), explain its effect (does it repeat, add to or contrast with the words?), then link it to the text’s purpose or audience.', src: 'ib-myp-language-acquisition-criterion-b-reading-revision-notes' },
+      { n: 4, f: 'Main idea against supporting detail in a reading text', b: 'The main idea is the central point of the whole text, written in your own words. A supporting detail is a fact, example or reason that backs up one point. Check your main idea covers the whole text, not one detail.', src: 'ib-myp-language-acquisition-criterion-b-reading-revision-notes' },
+      { n: 5, f: 'How do you answer a true or false question with justification?', b: 'Find the part of the text the statement refers to, check negatives, contrast words and time words, decide, then copy the shortest phrase that proves your answer.', src: 'ib-myp-language-acquisition-criterion-b-reading-revision-notes' },
     ]),
 
     // 4 Assessment criteria: C Speaking
     ...sub(AC, `${AC}-c-speaking`, 'C', [
       { n: 1, f: 'What does criterion C (Speaking) assess?', b: 'Interacting in the target language on topics of personal, local and global interest and significance, supported by spoken, written and visual texts.' },
       { n: 2, f: 'Fluency, accuracy, range and intelligibility in speaking', b: 'Fluency: smooth flow with natural pauses. Accuracy: control of grammar, vocabulary and word order. Range: variety of vocabulary and structures. Intelligibility: how easily a listener understands you.' },
+      { n: 3, f: 'The four steps for responding to a stimulus in the speaking task', b: 'See (describe what is shown), read (what the headline or key words mean), think (audience, purpose, how image and words work together), relate (me, my community, the wider world, with a view and a reason).', src: 'ib-myp-language-acquisition-criterion-c-speaking-revision-notes' },
+      { n: 4, f: 'The chain for extending any spoken answer', b: 'Answer, reason, example, consequence: “yes”, “because…”, “for example, last week…”, “so / if…, then…”. It brings in different tenses naturally.', src: 'ib-myp-language-acquisition-criterion-c-speaking-revision-notes' },
+      { n: 5, f: 'What is the difference between prepared and memorised speaking, and between interaction and presentation?', b: 'Prepared: frames and vocabulary ready to adapt. Memorised: whole answers recited, which fails when questions change. Interaction is two-way and reacts to what is asked; a presentation is one-way and pre-planned.', src: 'ib-myp-language-acquisition-criterion-c-speaking-revision-notes' },
     ]),
 
     // 4 Assessment criteria: D Writing

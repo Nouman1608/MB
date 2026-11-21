@@ -213,16 +213,31 @@ export const DECK_AQA_A_LEVEL_CHEMISTRY: FlashcardDeck = {
     // 3 Bonding (3.1.3)
     ...sub('bonding-7405', 'ionic-bonding-7405', '3.1.3.1', [
       { n: 1, f: 'Ionic bonding', b: 'Electrostatic attraction between oppositely charged ions in a lattice.' },
+      { n: 2, f: 'Formula of calcium nitrate, and how to build any ionic formula', b: 'Ca²⁺ and NO₃⁻: Ca(NO₃)₂. Write each ion with its charge, find the smallest numbers that balance positive and negative charge, and use brackets only round a compound ion needed more than once.', src: 'aqa-a-level-chemistry-7405-ionic-bonding-revision-notes' },
+      { n: 3, f: 'Why is solid sodium chloride an insulator but molten NaCl a conductor?', b: 'In the solid the ions are fixed in the lattice. When molten the ions are free to move and carry charge.', src: 'aqa-a-level-chemistry-7405-ionic-bonding-revision-notes' },
+      { n: 4, f: 'Why is MgO’s melting point (about 2850 °C) far higher than NaCl’s (801 °C)?', b: 'Mg²⁺ and O²⁻ have larger charges and smaller radii than Na⁺ and Cl⁻, so the electrostatic attraction is stronger and more energy is needed to overcome it.', src: 'aqa-a-level-chemistry-7405-ionic-bonding-revision-notes' },
+      { n: 5, f: 'Why are ionic crystals brittle?', b: 'A blow shifts the layers so that ions of like charge meet. They repel, and the crystal splits.', src: 'aqa-a-level-chemistry-7405-ionic-bonding-revision-notes' },
     ]),
     ...sub('bonding-7405', 'nature-of-covalent-and-dative-covalent-bonds-7405', '3.1.3.2', [
       { n: 1, f: 'Co-ordinate (dative covalent) bond', b: 'A shared pair of electrons with both electrons supplied by one atom. Drawn as an arrow from the donor atom to the acceptor. Examples: NH₄⁺, H₃O⁺, NH₃BF₃.' },
+      { n: 2, f: 'How many electrons does a single, double and triple covalent bond contain?', b: 'A single bond is one shared pair (2 electrons), a double bond two shared pairs (4 electrons) and a triple bond three shared pairs (6 electrons). More shared pairs gives a shorter, stronger bond.', src: 'aqa-a-level-chemistry-7405-nature-of-covalent-and-dative-covalent-bonds-revision-notes' },
+      { n: 3, f: 'What must the donor and the acceptor have for a dative bond to form?', b: 'The donor needs a lone pair. The acceptor needs a vacancy or empty orbital, for example H⁺ (empty 1s) or boron in BF₃ (only six outer electrons).', src: 'aqa-a-level-chemistry-7405-nature-of-covalent-and-dative-covalent-bonds-revision-notes' },
+      { n: 4, f: 'How is a dative bond drawn, and is it weaker than an ordinary covalent bond?', b: 'An arrow from the donor to the acceptor. Once formed it is identical to other covalent bonds between the same atoms; all four N–H bonds in NH₄⁺ are equal.', src: 'aqa-a-level-chemistry-7405-nature-of-covalent-and-dative-covalent-bonds-revision-notes' },
+      { n: 5, f: 'Why can NH₃ form a dative bond but CH₄ cannot?', b: 'NH₃ has a lone pair on nitrogen to donate. CH₄ has no lone pair, and carbon already has a full outer shell.', src: 'aqa-a-level-chemistry-7405-nature-of-covalent-and-dative-covalent-bonds-revision-notes' },
     ]),
     ...sub('bonding-7405', 'metallic-bonding-7405', '3.1.3.3', [
       { n: 1, f: 'Metallic bonding, and what makes it stronger', b: 'Attraction between positive metal ions in a lattice and the delocalised electrons around them. Stronger with a bigger ion charge, smaller ions, or more delocalised electrons per atom.' },
+      { n: 2, f: 'Why does magnesium melt at a higher temperature than sodium?', b: 'Mg²⁺ has a higher charge and is smaller than Na⁺, and each Mg atom gives two delocalised electrons, not one. The electrostatic attraction is stronger, so more energy is needed.', src: 'aqa-a-level-chemistry-7405-metallic-bonding-revision-notes' },
+      { n: 3, f: 'Why does potassium melt at a lower temperature than lithium?', b: 'The ions have the same charge, but K⁺ is larger. The delocalised electrons are further from the nuclei, so the attraction is weaker.', src: 'aqa-a-level-chemistry-7405-metallic-bonding-revision-notes' },
+      { n: 4, f: 'Why can a metal conduct electricity when solid?', b: 'The delocalised electrons are free to move through the lattice and carry charge when a potential difference is applied. The ions stay in place.', src: 'aqa-a-level-chemistry-7405-metallic-bonding-revision-notes' },
+      { n: 5, f: 'Why are metals malleable rather than brittle?', b: 'Layers of positive ions slide over each other, and the delocalised electrons keep attracting the ions in the new positions, so the bonding continues.', src: 'aqa-a-level-chemistry-7405-metallic-bonding-revision-notes' },
     ]),
     ...sub('bonding-7405', 'bonding-and-physical-properties-7405', '3.1.3.4', [
       { n: 1, f: 'Diamond vs graphite: bonding and conductivity', b: 'Diamond: each C makes 4 covalent bonds (tetrahedral); no free electrons, so no conduction.\nGraphite: each C makes 3 bonds in hexagonal layers; one delocalised electron per C, so it conducts. Weak forces between layers let them slide.' },
       { n: 2, f: 'What is overcome when a simple molecular solid such as iodine melts?', b: 'Only the weak intermolecular forces (van der Waals) between molecules. The covalent bonds inside the molecules do not break.' },
+      { n: 3, f: 'What is overcome when sodium chloride, magnesium and diamond each melt?', b: 'NaCl: electrostatic attraction between ions. Mg: attraction between positive ions and delocalised electrons. Diamond: covalent bonds between carbon atoms throughout the lattice.', src: 'aqa-a-level-chemistry-7405-bonding-and-physical-properties-revision-notes' },
+      { n: 4, f: 'Why does silicon dioxide have a very high melting point?', b: 'It is a giant covalent (macromolecular) lattice, so strong covalent bonds must be broken throughout the structure, which needs a great deal of energy.', src: 'aqa-a-level-chemistry-7405-bonding-and-physical-properties-revision-notes' },
+      { n: 5, f: 'A solid melts at 1000 °C, does not conduct when solid, but conducts when molten. What is it?', b: 'Ionic. The high melting point shows strong forces throughout a giant lattice; it conducts only when molten because the ions are then free to move.', src: 'aqa-a-level-chemistry-7405-bonding-and-physical-properties-revision-notes' },
     ]),
     ...sub('bonding-7405', 'shapes-of-simple-molecules-and-ions-7405', '3.1.3.5', [
       { n: 1, f: 'Order of repulsion between electron pairs, and its effect', b: 'Lone pair–lone pair > lone pair–bond pair > bond pair–bond pair. Each lone pair squeezes the bond angles.' },
@@ -232,10 +247,16 @@ export const DECK_AQA_A_LEVEL_CHEMISTRY: FlashcardDeck = {
     ...sub('bonding-7405', 'bond-polarity-7405', '3.1.3.6', [
       { n: 1, f: 'Electronegativity', b: 'The ability of an atom to draw the bonding pair of electrons towards itself in a covalent bond. It increases across a period and decreases down a group; fluorine is the most electronegative.' },
       { n: 2, f: 'Why is CH₂Cl₂ polar but BF₃ non-polar?', b: 'Both have polar bonds. BF₃ is symmetrical (trigonal planar) so the dipoles cancel. CH₂Cl₂ is tetrahedral with two different outer atoms, so its dipoles do not cancel.' },
+      { n: 3, f: 'How do you decide if a molecule has a permanent dipole? (two-step test)', b: 'First, are the bonds polar? Second, is the molecule symmetrical so the dipoles cancel? Polar bonds that do not cancel give a permanent dipole.', src: 'aqa-a-level-chemistry-7405-bond-polarity-revision-notes' },
+      { n: 4, f: 'Why does CO₂ have no permanent dipole although its C=O bonds are polar?', b: 'The molecule is linear and symmetrical, so the two equal bond dipoles point in opposite directions and cancel.', src: 'aqa-a-level-chemistry-7405-bond-polarity-revision-notes' },
+      { n: 5, f: 'Why is the H–F bond more polar than H–Cl?', b: 'Fluorine is more electronegative than chlorine (4.0 against 3.0), so the electron pair is pulled further towards the halogen and the partial charges are larger.', src: 'aqa-a-level-chemistry-7405-bond-polarity-revision-notes' },
     ]),
     ...sub('bonding-7405', 'forces-between-molecules-7405', '3.1.3.7', [
       { n: 1, f: 'The three intermolecular forces, weakest to strongest', b: 'Induced dipole–dipole (van der Waals, London) between all molecules; permanent dipole–dipole between polar molecules; hydrogen bonding (H on N, O or F to a lone pair on N, O or F).' },
       { n: 2, f: 'Why is ice less dense than liquid water?', b: 'In ice each H₂O molecule is hydrogen bonded to four others in an open lattice, holding the molecules further apart than in the liquid.' },
+      { n: 3, f: 'Why does iodine have a higher boiling point than chlorine?', b: 'Both are non-polar, so only London forces act. Iodine has many more electrons, giving larger temporary dipoles and stronger attractions, which need more energy to overcome.', src: 'aqa-a-level-chemistry-7405-forces-between-molecules-revision-notes' },
+      { n: 4, f: 'Why does pentane boil at a higher temperature than 2,2-dimethylpropane?', b: 'Pentane is a straight chain with a larger surface area of contact, so its London forces are stronger. The branched isomer packs less closely.', src: 'aqa-a-level-chemistry-7405-forces-between-molecules-revision-notes' },
+      { n: 5, f: 'Conditions for a hydrogen bond, and how many can one water molecule form?', b: 'H bonded to N, O or F, attracted to a lone pair on N, O or F of another molecule, in a straight line. Water forms up to four (two from H atoms, two from lone pairs).', src: 'aqa-a-level-chemistry-7405-forces-between-molecules-revision-notes' },
     ]),
 
     // 4 Energetics (3.1.4)
@@ -248,35 +269,60 @@ export const DECK_AQA_A_LEVEL_CHEMISTRY: FlashcardDeck = {
     ...sub('energetics-7405', 'calorimetry-7405', '3.1.4.2', [
       { n: 1, f: 'Calorimetry: the two equations, with units', b: 'q = mcΔT (m in g of water or solution, c in J g⁻¹ K⁻¹, ΔT in K; q in J).\nΔH = −q ÷ n, with q in kJ and n the moles of the limiting reactant.' },
       { n: 2, f: 'Required practical 2: why extrapolate the cooling line back to the time of mixing?', b: 'To estimate the maximum temperature change, correcting for heat lost to the surroundings while the temperature was rising.' },
+      { n: 3, f: 'A reaction releases 5.02 kJ into 120 g of solution. What is the temperature rise? (c = 4.18 J g⁻¹ K⁻¹)', b: 'ΔT = q ÷ mc = 5020 ÷ (120 × 4.18) = 10.0 K. Convert kJ to J first.', src: 'aqa-a-level-chemistry-7405-calorimetry-revision-notes' },
+      { n: 4, f: 'In q = mcΔT, which mass is used for a reaction in solution?', b: 'The mass of the water or solution that changes temperature (1 cm³ = 1 g for dilute solutions), not the mass of the reactants weighed out.', src: 'aqa-a-level-chemistry-7405-calorimetry-revision-notes' },
+      { n: 5, f: 'Why does a combustion calorimetry experiment give a value less negative than the data book?', b: 'Heat is lost to the surroundings and the can, and combustion may be incomplete, so the water gains less energy. A draught shield, lid and stirring reduce the errors.', src: 'aqa-a-level-chemistry-7405-calorimetry-revision-notes' },
     ]),
     ...sub('energetics-7405', 'applications-of-hesss-law-7405', '3.1.4.3', [
       { n: 1, f: 'Hess’s law', b: 'The enthalpy change for a reaction is independent of the route taken, provided the initial and final conditions are the same.' },
       { n: 2, f: 'Hess’s law shortcuts with formation and with combustion data', b: 'Formation: ΔH = ΣΔfH(products) − ΣΔfH(reactants).\nCombustion: ΔH = ΣΔcH(reactants) − ΣΔcH(products).' },
+      { n: 3, f: 'How do you combine equations using Hess’s law?', b: 'Reversing an equation changes the sign of ΔH; multiplying by n multiplies ΔH by n; adding equations adds the ΔH values. Cancel species on both sides.', src: 'aqa-a-level-chemistry-7405-applications-of-hesss-law-revision-notes' },
+      { n: 4, f: 'Give two reasons why some enthalpy changes cannot be measured directly.', b: 'The reaction is too slow, does not go to completion, gives a mixture of products (for example C burning to CO and CO₂), or is hazardous or hard to control.', src: 'aqa-a-level-chemistry-7405-applications-of-hesss-law-revision-notes' },
+      { n: 5, f: 'What is ΔfH⦵ of an element in its standard state?', b: 'Zero. Formation of an element from itself involves no change, which is why elements sit at the bottom of a formation cycle.', src: 'aqa-a-level-chemistry-7405-applications-of-hesss-law-revision-notes' },
     ]),
     ...sub('energetics-7405', 'bond-enthalpies-7405', '3.1.4.4', [
       { n: 1, f: 'Mean bond enthalpy', b: 'The enthalpy change to break 1 mole of a stated covalent bond in gaseous molecules, averaged over a range of compounds.' },
       { n: 2, f: 'Why does a bond-enthalpy ΔH differ from a Hess’s law value?', b: 'Mean bond enthalpies are averages over many compounds, not the values in these molecules; and the method assumes all species are gases, ignoring enthalpy changes of state.' },
+      { n: 3, f: 'Bond breaking and bond making: exothermic or endothermic?', b: 'Breaking bonds is endothermic (energy absorbed); making bonds is exothermic (energy released).', src: 'aqa-a-level-chemistry-7405-bond-enthalpies-revision-notes' },
+      { n: 4, f: 'The formula for ΔH from mean bond enthalpies', b: 'ΔH = Σ(bonds broken) − Σ(bonds formed). Use displayed formulae, multiply by the number of each bond in the balanced equation, and give the answer in kJ mol⁻¹.', src: 'aqa-a-level-chemistry-7405-bond-enthalpies-revision-notes' },
+      { n: 5, f: 'H₂ + Cl₂ → 2HCl: find ΔH (H–H 436, Cl–Cl 243, H–Cl 432)', b: 'Broken: 436 + 243 = 679. Formed: 2 × 432 = 864. ΔH = 679 − 864 = −185 kJ mol⁻¹.', src: 'aqa-a-level-chemistry-7405-bond-enthalpies-revision-notes' },
     ]),
 
     // 5 Kinetics (3.1.5)
     ...sub('kinetics-7405', 'collision-theory-7405', '3.1.5.1', [
       { n: 1, f: 'Activation energy, Ea', b: 'The minimum energy that colliding particles must have for a reaction to occur.' },
       { n: 2, f: 'Rate of reaction', b: 'The change in amount or concentration of a reactant or product per unit time.' },
+      { n: 3, f: 'Why do most collisions between particles not lead to a reaction?', b: 'Only particles with energy at least equal to the activation energy react. Most have less, so when they collide they bounce apart. The higher Eₐ is, the smaller the fraction that react.', src: 'aqa-a-level-chemistry-7405-collision-theory-revision-notes' },
+      { n: 4, f: 'Is activation energy the same as ΔH?', b: 'No. Eₐ is the height from the reactants to the peak of the profile and is always positive. ΔH is the difference between products and reactants. An exothermic reaction can still be slow if Eₐ is large.', src: 'aqa-a-level-chemistry-7405-collision-theory-revision-notes' },
+      { n: 5, f: 'Reactants at 0, peak at +85, products at −120 kJ mol⁻¹. Find Eₐ and ΔH.', b: 'Eₐ (forward) = 85 − 0 = +85 kJ mol⁻¹. ΔH = −120 − 0 = −120 kJ mol⁻¹, so the reaction is exothermic.', src: 'aqa-a-level-chemistry-7405-collision-theory-revision-notes' },
     ]),
     ...sub('kinetics-7405', 'maxwell-boltzmann-distribution-7405', '3.1.5.2', [
       { n: 1, f: 'Maxwell–Boltzmann distribution: three drawing rules', b: 'Starts at the origin; the curve never meets the energy axis at high energy; the area under it equals the total number of molecules.' },
+      { n: 2, f: 'Why is the Maxwell–Boltzmann curve asymmetric and why does it never touch the x-axis?', b: 'Energy has a lower limit of zero but no upper limit, so there is a long tail to the right. A very few molecules have very high energies, so the curve approaches but never meets the axis.', src: 'aqa-a-level-chemistry-7405-maxwell-boltzmann-distribution-revision-notes' },
+      { n: 3, f: 'What does the area under a Maxwell–Boltzmann curve represent, and what does the area to the right of Eₐ show?', b: 'Total area: the total number of molecules in the sample (fixed). Area to the right of Eₐ: the molecules with energy equal to or greater than Eₐ, which can react on collision.', src: 'aqa-a-level-chemistry-7405-maxwell-boltzmann-distribution-revision-notes' },
+      { n: 4, f: 'What changes and what stays the same when temperature is raised on a Maxwell–Boltzmann diagram?', b: 'Changes: the peak is lower and further right, the curve is broader, and the area beyond Eₐ is larger. Unchanged: the total area (same molecules) and the value of Eₐ.', src: 'aqa-a-level-chemistry-7405-maxwell-boltzmann-distribution-revision-notes' },
+      { n: 5, f: 'How do you recognise which of two curves is at the higher temperature?', b: 'The curve with the lower peak at higher energy and the larger tail. The two curves cross once, to the right of the first peak.', src: 'aqa-a-level-chemistry-7405-maxwell-boltzmann-distribution-revision-notes' },
     ]),
     ...sub('kinetics-7405', 'effect-of-temperature-on-reaction-rate-7405', '3.1.5.3', [
       { n: 1, f: 'How does the curve change at a higher temperature?', b: 'The peak is lower and further right, with the same area. Many more molecules have E ≥ Ea.' },
       { n: 2, f: 'Main reason a small temperature rise greatly increases rate', b: 'A much larger proportion of molecules have energy ≥ Ea, so many more collisions are successful. Slightly more frequent collisions is only a minor reason.' },
+      { n: 3, f: 'Full explanation of why a rise in temperature increases rate (key points)', b: 'Particles gain kinetic energy; the curve shifts right with a bigger high-energy tail; Eₐ is unchanged but the area beyond it is much larger; a greater proportion of collisions have E ≥ Eₐ, so successful collisions are more frequent.', src: 'aqa-a-level-chemistry-7405-effect-of-temperature-on-reaction-rate-revision-notes' },
+      { n: 4, f: 'Thiosulfate and acid: what is the temperature practical measuring and what is the independent variable?', b: 'The time for a cross viewed through the mixture to disappear; rate is proportional to 1 ÷ time. The independent variable is temperature. Concentrations and volumes are controlled.', src: 'aqa-a-level-chemistry-7405-effect-of-temperature-on-reaction-rate-revision-notes' },
+      { n: 5, f: 'A concentration falls by 0.020 mol dm⁻³ in 40 s. What is the rate and its unit?', b: 'Rate = 0.020 ÷ 40 = 5.0 × 10⁻⁴ mol dm⁻³ s⁻¹.', src: 'aqa-a-level-chemistry-7405-effect-of-temperature-on-reaction-rate-revision-notes' },
     ]),
     ...sub('kinetics-7405', 'effect-of-concentration-and-pressure-7405', '3.1.5.4', [
       { n: 1, f: 'Raising concentration or gas pressure: what changes and what does not?', b: 'Collision frequency rises (more particles per unit volume). The proportion of particles with E ≥ Ea does not change, and the Maxwell–Boltzmann curve does not move.' },
       { n: 2, f: 'Required practical 3 (thiosulfate + acid): what measures the rate?', b: '1/t, where t is the time for the sulfur precipitate to hide a cross. The same amount of sulfur forms each run, so rate ∝ 1/t.' },
+      { n: 3, f: 'Explain why increasing the pressure of a gas increases the rate', b: 'The molecules are squeezed into a smaller volume, a higher concentration. They collide more often, so successful collisions are more frequent. It only applies if at least one reactant is a gas.', src: 'aqa-a-level-chemistry-7405-effect-of-concentration-and-pressure-revision-notes' },
+      { n: 4, f: 'Why does the rate of a reaction fall as it proceeds?', b: 'Reactants are used up, so their concentration falls and collisions become less frequent. On a product against time graph the gradient is steepest at the start.', src: 'aqa-a-level-chemistry-7405-effect-of-concentration-and-pressure-revision-notes' },
+      { n: 5, f: 'How is the rate at a particular time found from a concentration–time graph?', b: 'Draw a tangent to the curve at that time. The gradient of the tangent is the rate at that moment.', src: 'aqa-a-level-chemistry-7405-effect-of-concentration-and-pressure-revision-notes' },
     ]),
     ...sub('kinetics-7405', 'catalysts-kinetics-7405', '3.1.5.5', [
       { n: 1, f: 'Catalyst, and how it works', b: 'A substance that increases the rate of a chemical reaction without being changed in chemical composition or amount. It provides an alternative reaction route of lower activation energy.' },
       { n: 2, f: 'Catalyst on a Maxwell–Boltzmann diagram', b: 'One curve, unchanged. A lower Ea(cat) marked to the left of Ea, so a greater proportion of molecules have enough energy to react.' },
+      { n: 3, f: 'How does a catalyst change a reaction profile?', b: 'Reactants, products and ΔH are unchanged. The peak is lower (or there are several lower peaks), so Eₐ is lower, because the catalyst provides an alternative route.', src: 'aqa-a-level-chemistry-7405-catalysts-revision-notes' },
+      { n: 4, f: 'Does a catalyst change the position of equilibrium or the equilibrium yield?', b: 'No. It speeds up the forward and reverse reactions equally, so equilibrium is reached sooner but the composition is the same.', src: 'aqa-a-level-chemistry-7405-catalysts-revision-notes' },
+      { n: 5, f: 'Industrial benefits of using a catalyst', b: 'A lower operating temperature, so less energy and lower fuel costs and CO₂ emissions; faster reaction so more product per hour; reusable, though it can be poisoned by impurities.', src: 'aqa-a-level-chemistry-7405-catalysts-revision-notes' },
     ]),
 
     // 6 Chemical equilibria, Le Chatelier's principle and Kc (3.1.6)
@@ -364,14 +410,26 @@ export const DECK_AQA_A_LEVEL_CHEMISTRY: FlashcardDeck = {
     ]),
     ...sub('electrode-potentials-and-electrochemical-cells-7405', 'commercial-applications-of-electrochemical-cells-7405', '3.1.11.2', [
       { n: 1, f: 'Alkaline hydrogen–oxygen fuel cell: electrode half-equations', b: 'Positive: O₂ + 2H₂O + 4e⁻ → 4OH⁻\nNegative: H₂ + 2OH⁻ → 2H₂O + 2e⁻\nOverall 2H₂ + O₂ → 2H₂O; EMF +1.23 V.' },
+      { n: 2, f: 'Lithium cell: electrode half-equations and what is oxidised and reduced', b: 'Negative: Li → Li⁺ + e⁻ (Li 0 to +1). Positive: Li⁺ + CoO₂ + e⁻ → Li⁺[CoO₂]⁻ (Co +4 to +3). The electrolyte is non-aqueous because lithium reacts with water.', src: 'aqa-a-level-chemistry-7405-commercial-applications-of-electrochemical-cells-revision-notes' },
+      { n: 3, f: 'Non-rechargeable, rechargeable and fuel cells: how do they differ?', b: 'Non-rechargeable: irreversible, used until a reactant runs out. Rechargeable: reversible, an external current runs the reaction backwards. Fuel cell: fuel and oxidant are supplied continuously.', src: 'aqa-a-level-chemistry-7405-commercial-applications-of-electrochemical-cells-revision-notes' },
+      { n: 4, f: 'Explain how electrode reactions generate a current in a cell', b: 'Oxidation at the negative electrode releases electrons; they flow through the external circuit to the positive electrode, where reduction uses them. Ions move through the electrolyte to complete the circuit.', src: 'aqa-a-level-chemistry-7405-commercial-applications-of-electrochemical-cells-revision-notes' },
+      { n: 5, f: 'How do you find the EMF and the electrodes from two E values?', b: 'The more negative E is the negative electrode (reverse that half-equation, oxidation); the more positive is the positive electrode. EMF = E(positive) − E(negative). Do not multiply E when you multiply a half-equation.', src: 'aqa-a-level-chemistry-7405-commercial-applications-of-electrochemical-cells-revision-notes' },
     ]),
 
     // 12 Acids and bases (3.1.12)
     ...sub('acids-and-bases-7405', 'bronsted-lowry-acid-base-equilibria-in-aqueous-solution-7405', '3.1.12.1', [
       { n: 1, f: 'Brønsted–Lowry acid and base', b: 'An acid is a proton donor; a base is a proton acceptor.', src: ACID },
+      { n: 2, f: 'Strong acid and weak acid', b: 'A strong acid is fully dissociated in aqueous solution; a weak acid dissociates only slightly. This is a different idea from concentration.', src: 'aqa-a-level-chemistry-acids-and-bases-revision-notes' },
+      { n: 3, f: 'In NH₃ + H₂O ⇌ NH₄⁺ + OH⁻, name the acid and base in each direction', b: 'Forwards: H₂O is the acid (proton donor) and NH₃ the base. Backwards: NH₄⁺ is the acid and OH⁻ the base.', src: 'aqa-a-level-chemistry-acids-and-bases-revision-notes' },
+      { n: 4, f: 'Conjugate acid–base pair', b: 'Two species that differ by exactly one H⁺: the acid is the proton donor, and what remains after donating is its conjugate base. For example NH₄⁺ and NH₃.', src: 'aqa-a-level-chemistry-acids-and-bases-revision-notes' },
+      { n: 5, f: 'Acid–base equilibrium', b: 'An equilibrium in which protons are transferred from one species to another, for example HA + H₂O ⇌ H₃O⁺ + A⁻.', src: 'aqa-a-level-chemistry-acids-and-bases-revision-notes' },
     ]),
     ...sub('acids-and-bases-7405', 'definition-and-determination-of-ph-7405', '3.1.12.2', [
       { n: 1, f: 'pH', b: '−log₁₀[H⁺].', src: ACID },
+      { n: 2, f: 'Ionic product of water, Kw, and its value at 298 K', b: 'Kw = [H⁺][OH⁻] = 1.00 × 10⁻¹⁴ mol² dm⁻⁶ at 298 K. It is derived from the equilibrium constant for the dissociation of water.', src: 'aqa-a-level-chemistry-acids-and-bases-revision-notes' },
+      { n: 3, f: 'Why is pure water at 50 °C still neutral although its pH is below 7?', b: 'Kw increases with temperature, so [H⁺] is larger and the pH falls (6.63 at 50 °C). But [H⁺] = [OH⁻], so the water is neutral.', src: 'aqa-a-level-chemistry-acids-and-bases-revision-notes' },
+      { n: 4, f: 'Method for the pH of a strong base such as KOH', b: '[OH⁻] equals the base concentration for a monobasic base. Then [H⁺] = Kw ÷ [OH⁻], and pH = −log₁₀[H⁺]. Do not take −log of [OH⁻] directly.', src: 'aqa-a-level-chemistry-acids-and-bases-revision-notes' },
+      { n: 5, f: 'pH after mixing a strong acid and a strong base: the steps', b: 'Find moles of H⁺ and OH⁻, subtract to find the excess, divide by the total volume in dm³. Excess H⁺ gives pH directly; excess OH⁻ needs Kw first.', src: 'aqa-a-level-chemistry-acids-and-bases-revision-notes' },
     ]),
     ...sub('acids-and-bases-7405', 'the-ionic-product-of-water-kw-7405', '3.1.12.3', [
       { n: 1, f: 'Kw: expression, value at 298 K and units', b: 'Kw = [H⁺][OH⁻] = 1.00 × 10⁻¹⁴ mol² dm⁻⁶ at 298 K.' },
@@ -381,9 +439,16 @@ export const DECK_AQA_A_LEVEL_CHEMISTRY: FlashcardDeck = {
     ...sub('acids-and-bases-7405', 'weak-acids-and-bases-ka-for-weak-acids-7405', '3.1.12.4', [
       { n: 1, f: 'pH of a weak acid: the two assumptions', b: '[H⁺] = [A⁻], and [HA] at equilibrium equals the starting concentration (only slight dissociation). So [H⁺] = √(Ka × [HA]).' },
       { n: 2, f: 'Ka vs pKa: which way means a stronger acid?', b: 'Larger Ka means stronger acid; larger pKa means weaker acid.', src: ACID },
+      { n: 3, f: 'Ka expression for a weak acid HA, and its unit', b: 'Ka = [H⁺][A⁻] ÷ [HA]. The unit is mol dm⁻³. pKa = −log₁₀ Ka.', src: 'aqa-a-level-chemistry-acids-and-bases-revision-notes' },
+      { n: 4, f: 'Ethanoic acid, 0.100 mol dm⁻³, has pH 2.88. Find Ka.', b: '[H⁺] = 10⁻²·⁸⁸ = 1.32 × 10⁻³. Ka = [H⁺]² ÷ [HA] = (1.32 × 10⁻³)² ÷ 0.100 = 1.74 × 10⁻⁵ mol dm⁻³.', src: 'aqa-a-level-chemistry-acids-and-bases-revision-notes' },
+      { n: 5, f: 'What does the weak-acid approximation fail to allow for in a dilute weak acid?', b: 'It assumes [HA] stays at its starting value. In a dilute or relatively strong weak acid a sizeable fraction dissociates, so the shortcut gives a pH that is too low.', src: 'aqa-a-level-chemistry-acids-and-bases-revision-notes' },
     ]),
     ...sub('acids-and-bases-7405', 'ph-curves-titrations-and-indicators-7405', '3.1.12.5', [
       { n: 1, f: 'Indicator for a weak acid–strong base titration, and why', b: 'Phenolphthalein (range 8.3–10.0), because the vertical section and the equivalence point are in the alkaline range.' },
+      { n: 2, f: 'Shape and equivalence pH for strong acid + strong base, weak acid + strong base', b: 'Strong + strong: low start, long vertical section, equivalence about pH 7. Weak acid + strong base: higher start, a flat buffer region, vertical section in the alkaline range, equivalence above 7.', src: 'aqa-a-level-chemistry-7405-ph-curves-titrations-and-indicators-revision-notes' },
+      { n: 3, f: 'Which indicator suits a strong acid + weak base titration, and why?', b: 'Methyl orange (range 3.1–4.4): the vertical section and equivalence point are in the acidic range, and its whole colour-change range lies inside the vertical section.', src: 'aqa-a-level-chemistry-7405-ph-curves-titrations-and-indicators-revision-notes' },
+      { n: 4, f: 'Why is no indicator suitable for a weak acid + weak base titration?', b: 'There is no sharp vertical section, so no indicator changes colour sharply at the equivalence point. A pH meter is used instead.', src: 'aqa-a-level-chemistry-7405-ph-curves-titrations-and-indicators-revision-notes' },
+      { n: 5, f: 'Required practical 9: how is pKa found from a titration curve?', b: 'Read the pH at half the equivalence volume, where [HA] = [A⁻]. There pH = pKa, so Ka = 10⁻ᵖᴴ.', src: 'aqa-a-level-chemistry-7405-ph-curves-titrations-and-indicators-revision-notes' },
     ]),
     ...sub('acids-and-bases-7405', 'buffer-action-7405', '3.1.12.6', [
       { n: 1, f: 'pH of a buffer made from HA and its salt', b: '[H⁺] = Ka × [HA] ÷ [A⁻] (moles can be used, as the volume cancels), then pH = −log₁₀[H⁺]. At half-neutralisation pH = pKa.' },
@@ -395,6 +460,9 @@ export const DECK_AQA_A_LEVEL_CHEMISTRY: FlashcardDeck = {
     ...sub('periodicity-7405', 'classification-7405', '3.2.1.1', [
       { n: 1, f: 'How is an element’s block (s, p, d or f) decided?', b: 'By the sub-shell that holds its highest-energy electron.' },
       { n: 2, f: 'Which block are helium and gallium in?', b: 'Helium (1s²): s block.\nGallium: p block, because its last electron goes into 4p, even though it contains 3d¹⁰.' },
+      { n: 3, f: 'How many elements wide is each block, and why?', b: 's: 2, p: 6, d: 10, f: 14. Each is twice the number of orbitals in the sub-level (s has 1, p 3, d 5, f 7), since an orbital holds two electrons.', src: 'aqa-a-level-chemistry-7405-classification-revision-notes' },
+      { n: 4, f: 'Which block is the element with Z = 56 in, and how do you find out?', b: 'Xenon is Z = 54, so electrons 55 and 56 fill 6s. The last electron enters an s sub-level, so it is s-block (barium).', src: 'aqa-a-level-chemistry-7405-classification-revision-notes' },
+      { n: 5, f: 'Why is the Periodic Table ordered by proton number, not relative atomic mass?', b: 'Proton number sets the number of electrons, and electron configuration sets chemical properties. Ordering by mass would misplace elements such as argon and potassium.', src: 'aqa-a-level-chemistry-7405-classification-revision-notes' },
     ]),
     ...sub('periodicity-7405', 'physical-properties-of-period-3-elements-7405', '3.2.1.2', [
       { n: 1, f: 'Why does atomic radius decrease from Na to Cl?', b: 'Nuclear charge increases, electrons are added to the same shell so shielding is similar, and the stronger attraction pulls the outer electrons closer.' },
@@ -427,6 +495,9 @@ export const DECK_AQA_A_LEVEL_CHEMISTRY: FlashcardDeck = {
     ...sub('group-7-17-the-halogens-7405', 'uses-of-chlorine-and-chlorate-i-7405', '3.2.3.2', [
       { n: 1, f: 'Chlorine with cold, dilute NaOH: equation and type of reaction', b: 'Cl₂ + 2NaOH → NaCl + NaClO + H₂O. Disproportionation: Cl goes from 0 to −1 and to +1. The NaClO solution is bleach.' },
       { n: 2, f: 'Why is chlorine added to drinking water despite being toxic?', b: 'It kills bacteria. The doses are controlled and the health benefits outweigh the toxic effects.' },
+      { n: 3, f: 'Chlorine with water: equation and why it is disproportionation', b: 'Cl₂ + H₂O ⇌ HClO + HCl. Chlorine goes from 0 to +1 (oxidised, in chlorate(I)) and from 0 to −1 (reduced, in chloride) in the same reaction.', src: 'aqa-a-level-chemistry-7405-uses-of-chlorine-and-chlorate-i-revision-notes' },
+      { n: 4, f: 'Chlorine and water in sunlight: equation, and is it disproportionation?', b: '2Cl₂ + 2H₂O → 4H⁺ + 4Cl⁻ + O₂. Not disproportionation: chlorine is only reduced (0 to −1) and oxygen is oxidised (−2 to 0).', src: 'aqa-a-level-chemistry-7405-uses-of-chlorine-and-chlorate-i-revision-notes' },
+      { n: 5, f: 'Uses of the solution formed by chlorine and cold, dilute NaOH', b: 'It contains sodium chlorate(I), the active agent: household bleach, disinfectant for kitchens and bathrooms and swimming pool treatment. It must be cold and dilute; hot concentrated alkali gives a different product.', src: 'aqa-a-level-chemistry-7405-uses-of-chlorine-and-chlorate-i-revision-notes' },
     ]),
 
     // 16 Properties of Period 3 elements and their oxides (3.2.4)
@@ -444,6 +515,10 @@ export const DECK_AQA_A_LEVEL_CHEMISTRY: FlashcardDeck = {
     // 17 Transition metals (3.2.5)
     ...sub('transition-metals-7405', 'general-properties-of-transition-metals-7405', '3.2.5.1', [
       { n: 1, f: 'What gives transition metals (Ti–Cu) their characteristic properties, and what are the four properties?', b: 'An incomplete d sub-level in atoms or ions. Properties: complex formation, coloured ions, variable oxidation state and catalytic activity.' },
+      { n: 2, f: 'Ligand, complex and co-ordination number', b: 'Ligand: a molecule or ion that donates a lone pair to form a co-ordinate bond. Complex: a central metal ion surrounded by ligands. Co-ordination number: the number of co-ordinate bonds to the metal.', src: 'aqa-a-level-chemistry-7405-general-properties-of-transition-metals-revision-notes' },
+      { n: 3, f: 'Why are scandium and zinc d-block elements but not transition metals?', b: 'Sc³⁺ has no d electrons (3d⁰) and Zn²⁺ has a full 3d¹⁰. A transition metal forms at least one ion with an incomplete d sub-level.', src: 'aqa-a-level-chemistry-7405-general-properties-of-transition-metals-revision-notes' },
+      { n: 4, f: 'Electron configurations of Fe, Fe²⁺ and Fe³⁺', b: 'Fe: [Ar] 3d⁶ 4s². Fe²⁺: [Ar] 3d⁶. Fe³⁺: [Ar] 3d⁵. The 4s electrons are lost first.', src: 'aqa-a-level-chemistry-7405-general-properties-of-transition-metals-revision-notes' },
+      { n: 5, f: 'Co-ordination number and metal oxidation state in [CuCl₄]²⁻', b: 'Co-ordination number 4 (four Cl⁻ bonds). Oxidation state: overall charge minus ligand charges = −2 − (−4) = +2.', src: 'aqa-a-level-chemistry-7405-general-properties-of-transition-metals-revision-notes' },
     ]),
     ...sub('transition-metals-7405', 'substitution-reactions-7405', '3.2.5.2', [
       { n: 1, f: 'Ligand', b: 'A molecule or ion that forms a co-ordinate bond with a transition metal by donating a pair of electrons.', src: TM },
@@ -463,14 +538,25 @@ export const DECK_AQA_A_LEVEL_CHEMISTRY: FlashcardDeck = {
     ]),
     ...sub('transition-metals-7405', 'formation-of-coloured-ions-7405', '3.2.5.4', [
       { n: 1, f: 'Why are transition metal complexes coloured?', b: 'Some visible wavelengths are absorbed, moving d electrons from the ground state to an excited state (ΔE = hν = hc/λ). The colour seen is the light transmitted or reflected.' },
+      { n: 2, f: 'Which d-block ions are colourless, and why?', b: 'Sc³⁺ (3d⁰), Cu⁺ and Zn²⁺ (3d¹⁰). With no d electrons or a full d sub-level there is no vacancy to which an electron can be promoted.', src: 'aqa-a-level-chemistry-7405-formation-of-coloured-ions-revision-notes' },
+      { n: 3, f: 'Three changes that alter the colour of a transition metal complex', b: 'A change of oxidation state, of co-ordination number or of ligand. Each alters the energy gap ΔE between the d orbitals, so a different wavelength is absorbed.', src: 'aqa-a-level-chemistry-7405-formation-of-coloured-ions-revision-notes' },
+      { n: 4, f: 'Calculate ΔE for light of wavelength 600 nm (h = 6.63 × 10⁻³⁴ J s, c = 3.00 × 10⁸ m s⁻¹)', b: 'ΔE = hc ÷ λ = 6.63 × 10⁻³⁴ × 3.00 × 10⁸ ÷ 6.00 × 10⁻⁷ = 3.32 × 10⁻¹⁹ J per ion. Convert λ to metres first.', src: 'aqa-a-level-chemistry-7405-formation-of-coloured-ions-revision-notes' },
+      { n: 5, f: 'Colorimetry: steps to find the concentration of a coloured ion', b: 'Choose a filter of the complementary colour, zero with a blank, measure absorbance of standards, plot a calibration graph, then read off the unknown and multiply by any dilution factor.', src: 'aqa-a-level-chemistry-7405-formation-of-coloured-ions-revision-notes' },
     ]),
     ...sub('transition-metals-7405', 'variable-oxidation-states-7405', '3.2.5.5', [
       { n: 1, f: 'Colours of vanadium oxidation states when vanadate(V) is reduced by zinc in acid', b: 'VO₂⁺ (+5) yellow → VO²⁺ (+4) blue → V³⁺ (+3) green → V²⁺ (+2) violet.' },
       { n: 2, f: 'Manganate(VII) titrations: mole ratio with Fe²⁺ and with ethanedioate', b: 'MnO₄⁻ : Fe²⁺ = 1 : 5.\nMnO₄⁻ : C₂O₄²⁻ = 2 : 5 (the mixture is warmed).\nThe end point is the first permanent pale pink.' },
+      { n: 3, f: 'Why do transition metals show variable oxidation states?', b: 'The 4s and 3d electrons are close in energy, so different numbers of electrons can be lost, for example Fe²⁺ and Fe³⁺, or vanadium from +2 to +5.', src: 'aqa-a-level-chemistry-7405-variable-oxidation-states-revision-notes' },
+      { n: 4, f: 'Why does zinc reduce vanadate(V) in acid all the way to V²⁺?', b: 'Zn²⁺/Zn (E = −0.76 V) is more negative than each vanadium couple, so zinc can reduce VO₂⁺ through VO²⁺ and V³⁺ to V²⁺. Cell E = E(oxidising half) − E(reducing half) is positive for each step.', src: 'aqa-a-level-chemistry-7405-variable-oxidation-states-revision-notes' },
+      { n: 5, f: 'Manganate(VII) titrations: which acid and what is the end point?', b: 'Excess dilute sulfuric acid (not HCl, which MnO₄⁻ oxidises, nor HNO₃, an oxidiser). MnO₄⁻ is self-indicating: the end point is the first permanent pale pink.', src: 'aqa-a-level-chemistry-7405-variable-oxidation-states-revision-notes' },
+      { n: 6, f: 'Tollens’ reagent: what is it, and what does it show?', b: '[Ag(NH₃)₂]⁺ in alkaline solution. An aldehyde reduces it to a silver mirror: [Ag(NH₃)₂]⁺ + e⁻ → Ag + 2NH₃. A ketone gives no change.', src: 'aqa-a-level-chemistry-7405-variable-oxidation-states-revision-notes' },
     ]),
     ...sub('transition-metals-7405', 'catalysts-transition-metals-7405', '3.2.5.6', [
       { n: 1, f: 'Heterogeneous vs homogeneous catalyst, with an example of each', b: 'Heterogeneous: a different phase; works at surface active sites (V₂O₅ in the Contact process, Fe in the Haber process).\nHomogeneous: the same phase; works through an intermediate (Fe²⁺ in S₂O₈²⁻ + I⁻).' },
       { n: 2, f: 'Autocatalyst', b: 'A product of the reaction that catalyses it, e.g. Mn²⁺ in the reaction of MnO₄⁻ with C₂O₄²⁻.' },
+      { n: 3, f: 'Steps of heterogeneous catalysis at a surface', b: 'Reactants adsorb at active sites; their bonds weaken and they are held close together; the reaction occurs on the surface; products desorb, freeing the site.', src: 'aqa-a-level-chemistry-7405-catalysts-transition-metals-revision-notes' },
+      { n: 4, f: 'Catalyst poisoning and support media', b: 'Poisoning: impurities (sulfur compounds for iron, lead for catalytic converters) block active sites, so the catalyst must be replaced or the feed purified. A support medium gives a large surface area and uses less expensive metal.', src: 'aqa-a-level-chemistry-7405-catalysts-transition-metals-revision-notes' },
+      { n: 5, f: 'Why is S₂O₈²⁻ + 2I⁻ slow, and how does Fe²⁺ catalyse it?', b: 'Both reactants are negative ions that repel. Fe²⁺ reacts with S₂O₈²⁻ to give Fe³⁺, then Fe³⁺ oxidises I⁻ to I₂ and Fe²⁺ is regenerated.', src: 'aqa-a-level-chemistry-7405-catalysts-transition-metals-revision-notes' },
     ]),
 
     // 18 Reactions of ions in aqueous solution (3.2.6)
@@ -493,6 +579,10 @@ export const DECK_AQA_A_LEVEL_CHEMISTRY: FlashcardDeck = {
     ]),
     ...sub('introduction-to-organic-chemistry-7405', 'reaction-mechanisms-7405', '3.3.1.2', [
       { n: 1, f: 'Curly arrow', b: 'Shows the movement of an electron pair. It starts at a lone pair or a covalent bond and ends where the new bond forms or at the atom that keeps the pair.' },
+      { n: 2, f: 'Homolytic and heterolytic fission', b: 'Homolytic: each atom takes one electron of the bond, forming two radicals (Cl–Cl → 2Cl•, in UV light). Heterolytic: one atom takes both electrons, forming a cation and an anion.', src: 'aqa-a-level-chemistry-7405-reaction-mechanisms-revision-notes' },
+      { n: 3, f: 'Nucleophile and electrophile', b: 'A nucleophile is an electron-pair donor, attracted to δ+ centres (OH⁻, CN⁻, NH₃). An electrophile is an electron-pair acceptor, attracted to electron-rich regions (H⁺, δ+ hydrogen).', src: 'aqa-a-level-chemistry-7405-reaction-mechanisms-revision-notes' },
+      { n: 4, f: 'The three stages of a free-radical chain reaction', b: 'Initiation: X–X → 2X•. Propagation: X• + RH → R• + HX, then R• + X₂ → RX + X•. Termination: two radicals combine, with no radical left.', src: 'aqa-a-level-chemistry-7405-reaction-mechanisms-revision-notes' },
+      { n: 5, f: 'Nucleophilic substitution of a bromoalkane by OH⁻: the two curly arrows', b: 'Arrow 1 from a lone pair on the oxygen of OH⁻ to the δ+ carbon. Arrow 2 from the C–Br bond to the bromine, which leaves as Br⁻. The product is an alcohol.', src: 'aqa-a-level-chemistry-7405-reaction-mechanisms-revision-notes' },
     ]),
     ...sub('introduction-to-organic-chemistry-7405', 'isomerism-7405', '3.3.1.3', [
       { n: 1, f: 'Structural isomers vs stereoisomers', b: 'Structural isomers: same molecular formula, different structural formula.\nStereoisomers: same structural formula, different arrangement of atoms in space.' },
@@ -506,18 +596,30 @@ export const DECK_AQA_A_LEVEL_CHEMISTRY: FlashcardDeck = {
     ...sub('alkanes-7405', 'fractional-distillation-of-crude-oil-7405', '3.3.2.1', [
       { n: 1, f: 'How does fractional distillation of crude oil separate it?', b: 'The vapour rises through a column that is hot at the bottom and cool at the top. Each hydrocarbon condenses where the temperature falls below its boiling point; short chains collect near the top.' },
       { n: 2, f: 'Why do longer-chain alkanes have higher boiling points?', b: 'More electrons and more surface contact, so stronger van der Waals forces between molecules, which need more energy to overcome.' },
+      { n: 3, f: 'Alkanes: general formula and meaning of saturated', b: 'CₙH₂ₙ₊₂. Saturated means only single bonds between carbon atoms. Petroleum is a mixture of mainly alkanes.', src: 'aqa-a-level-chemistry-7405-fractional-distillation-of-crude-oil-revision-notes' },
+      { n: 4, f: 'Why do branched alkanes boil at lower temperatures than straight-chain isomers?', b: 'Branched molecules are more compact with less surface contact, so London forces are weaker and less energy is needed (hexane 69 °C; 2,2-dimethylbutane 50 °C).', src: 'aqa-a-level-chemistry-7405-fractional-distillation-of-crude-oil-revision-notes' },
+      { n: 5, f: 'How do volatility, viscosity and flame differ between short and long fractions?', b: 'Short chains (top): volatile, runny, easy to ignite, clean blue flame. Long chains (bottom): less volatile, viscous, harder to ignite, smoky yellow flame.', src: 'aqa-a-level-chemistry-7405-fractional-distillation-of-crude-oil-revision-notes' },
     ]),
     ...sub('alkanes-7405', 'modification-of-alkanes-by-cracking-7405', '3.3.2.2', [
       { n: 1, f: 'Thermal vs catalytic cracking: conditions and main products', b: 'Thermal: high pressure, high temperature; high percentage of alkenes.\nCatalytic: slight pressure, high temperature, zeolite catalyst; motor fuels and aromatic hydrocarbons.' },
       { n: 2, f: 'Economic reasons for cracking', b: 'Distillation gives a surplus of long-chain fractions; demand is higher for short-chain fractions such as petrol, which are worth more. Cracking also makes alkenes for polymers and other chemicals.' },
+      { n: 3, f: 'What is cracking?', b: 'Breaking C–C bonds in long-chain alkanes to give shorter alkanes and alkenes. It is a chemical change, unlike fractional distillation, which is physical.', src: 'aqa-a-level-chemistry-7405-modification-of-alkanes-by-cracking-revision-notes' },
+      { n: 4, f: 'Why must at least one alkene form when an alkane is cracked?', b: 'The alkane is saturated, so when it splits there is not enough hydrogen to make every product saturated. At least one product has a C=C double bond.', src: 'aqa-a-level-chemistry-7405-modification-of-alkanes-by-cracking-revision-notes' },
+      { n: 5, f: 'C₁₂H₂₆ is cracked to give C₄H₁₀ and one other product. Identify it.', b: 'Subtract: C₁₂H₂₆ − C₄H₁₀ = C₈H₁₆, an alkene (CₙH₂ₙ). Carbon and hydrogen atoms must balance.', src: 'aqa-a-level-chemistry-7405-modification-of-alkanes-by-cracking-revision-notes' },
     ]),
     ...sub('alkanes-7405', 'combustion-of-alkanes-7405', '3.3.2.3', [
       { n: 1, f: 'Where do NO and SO₂ from engines and power stations come from?', b: 'NO: nitrogen and oxygen from the air reacting at high engine temperature (N₂ + O₂ → 2NO).\nSO₂: sulfur impurities in the fuel.' },
       { n: 2, f: 'What does a catalytic converter do? Give one equation.', b: 'Converts CO, NOₓ and unburned hydrocarbons into CO₂, N₂ and H₂O. For example 2CO + 2NO → 2CO₂ + N₂.' },
+      { n: 3, f: 'Complete and incomplete combustion of alkanes: products and harm', b: 'Complete (plentiful O₂): CO₂ and H₂O, e.g. C₃H₈ + 5O₂ → 3CO₂ + 4H₂O. Incomplete: CO (toxic, binds to haemoglobin) and/or carbon soot (respiratory problems), and less energy is released.', src: 'aqa-a-level-chemistry-7405-combustion-of-alkanes-revision-notes' },
+      { n: 4, f: 'How is SO₂ removed from power station flue gases, and why does it work?', b: 'Passed through CaO or CaCO₃: CaO + SO₂ → CaSO₃. SO₂ is an acidic oxide, so the basic CaO or base CaCO₃ neutralises it and traps it as a solid. Limestone is cheap and abundant.', src: 'aqa-a-level-chemistry-7405-combustion-of-alkanes-revision-notes' },
+      { n: 5, f: 'Structure of a catalytic converter and what weakens it', b: 'A ceramic honeycomb (large surface area) coated with a thin layer of Pt, Pd and Rh (less metal needed). It is poisoned by lead and works less well when cold.', src: 'aqa-a-level-chemistry-7405-combustion-of-alkanes-revision-notes' },
     ]),
     ...sub('alkanes-7405', 'chlorination-of-alkanes-7405', '3.3.2.4', [
       { n: 1, f: 'Chlorination of methane: conditions and the two propagation steps', b: 'UV light; free-radical substitution.\nCl• + CH₄ → •CH₃ + HCl\n•CH₃ + Cl₂ → CH₃Cl + Cl•' },
       { n: 2, f: 'Initiation and termination steps in the chlorination of methane', b: 'Initiation: Cl₂ → 2Cl•\nTermination (any two radicals): Cl• + Cl• → Cl₂; •CH₃ + Cl• → CH₃Cl; •CH₃ + •CH₃ → C₂H₆' },
+      { n: 3, f: 'Why does the chlorination of methane need UV light?', b: 'Cl–Cl is weaker than C–H and C–C, so a UV photon breaks it homolytically to give Cl•. Methane and chlorine do not react in the dark at room temperature.', src: 'aqa-a-level-chemistry-7405-chlorination-of-alkanes-revision-notes' },
+      { n: 4, f: 'Why does chlorination of methane give a mixture, and how is CH₃Cl favoured?', b: 'CH₃Cl can be substituted again to give CH₂Cl₂, CHCl₃ and CCl₄. Using an excess of methane makes a chlorine radical more likely to meet CH₄ than a chlorinated product.', src: 'aqa-a-level-chemistry-7405-chlorination-of-alkanes-revision-notes' },
+      { n: 5, f: 'Why does chlorination of propane give two monochloro products?', b: 'Propane has two types of hydrogen (on the end carbons and on the middle carbon), so substitution gives 1-chloropropane and 2-chloropropane.', src: 'aqa-a-level-chemistry-7405-chlorination-of-alkanes-revision-notes' },
     ]),
 
     // 21 Halogenoalkanes (3.3.3)
@@ -531,14 +633,26 @@ export const DECK_AQA_A_LEVEL_CHEMISTRY: FlashcardDeck = {
     ]),
     ...sub('halogenoalkanes-7405', 'elimination-halogenoalkanes-7405', '3.3.3.2', [
       { n: 1, f: 'Substitution vs elimination with KOH: conditions that favour each', b: 'Substitution (alcohol): aqueous, warm; OH⁻ acts as a nucleophile.\nElimination (alkene): ethanol, hot; OH⁻ acts as a base.' },
+      { n: 2, f: 'In the reaction of 2-bromopropane with hydroxide, what are the two roles of OH⁻?', b: 'As a nucleophile it donates a lone pair to the δ+ carbon (substitution, giving propan-2-ol). As a base it accepts H⁺ from an adjacent carbon (elimination, giving propene). Both happen at once.', src: 'aqa-a-level-chemistry-7405-elimination-halogenoalkanes-revision-notes' },
+      { n: 3, f: 'Elimination from a halogenoalkane: the three curly arrows', b: 'Lone pair on O of OH⁻ to an H on an adjacent carbon; that C–H bond to the C–C bond, forming C=C; the C–Br bond to the Br. Products: alkene, H₂O and Br⁻.', src: 'aqa-a-level-chemistry-7405-elimination-halogenoalkanes-revision-notes' },
+      { n: 4, f: 'Equation for elimination from 2-bromopropane with KOH', b: 'CH₃CHBrCH₃ + OH⁻ → CH₃CH=CH₂ + H₂O + Br⁻. The solvent is ethanol and the mixture is heated under reflux.', src: 'aqa-a-level-chemistry-7405-elimination-halogenoalkanes-revision-notes' },
+      { n: 5, f: 'Which alkenes can 2-bromobutane form on elimination?', b: 'But-1-ene, (E)-but-2-ene and (Z)-but-2-ene. Check each carbon next to the C–Br carbon for at least one H, then look for E/Z isomers.', src: 'aqa-a-level-chemistry-7405-elimination-halogenoalkanes-revision-notes' },
     ]),
     ...sub('halogenoalkanes-7405', 'ozone-depletion-7405', '3.3.3.3', [
       { n: 1, f: 'How do chlorine radicals destroy ozone? Give the equations.', b: 'UV breaks C–Cl in CFCs, releasing Cl•.\nCl• + O₃ → ClO• + O₂\nClO• + O₃ → 2O₂ + Cl•\nCl• is regenerated, so it acts as a catalyst.' },
+      { n: 2, f: 'Why is ozone in the upper atmosphere beneficial?', b: 'It absorbs ultraviolet radiation, protecting living things on Earth.', src: 'aqa-a-level-chemistry-7405-ozone-depletion-revision-notes' },
+      { n: 3, f: 'Why were CFCs useful, and why do they reach the stratosphere?', b: 'They are non-toxic, non-flammable and easily liquefied, so were used as refrigerants, aerosol propellants and solvents. Their unreactivity lets them survive and reach the stratosphere unchanged.', src: 'aqa-a-level-chemistry-7405-ozone-depletion-revision-notes' },
+      { n: 4, f: 'Why do CFCs release chlorine atoms rather than fluorine atoms in the stratosphere?', b: 'The C–Cl bond (about 346 kJ mol⁻¹) is weaker than C–F (about 467 kJ mol⁻¹), so UV radiation breaks C–Cl homolytically, e.g. CCl₂F₂ → •CClF₂ + Cl•.', src: 'aqa-a-level-chemistry-7405-ozone-depletion-revision-notes' },
+      { n: 5, f: 'What replaced CFCs, and why are the replacements safer for ozone?', b: 'Compounds with C–F bonds but no C–Cl bonds, such as hydrofluorocarbons. They cannot release chlorine atoms. International legislation banned CFCs after consistent evidence from different research groups.', src: 'aqa-a-level-chemistry-7405-ozone-depletion-revision-notes' },
     ]),
 
     // 22 Alkenes (3.3.4)
     ...sub('alkenes-7405', 'structure-bonding-and-reactivity-7405', '3.3.4.1', [
       { n: 1, f: 'Why do alkenes react with electrophiles?', b: 'The C=C bond has two shared pairs between the same two carbons, so it is a centre of high electron density that attracts electron-deficient species.' },
+      { n: 2, f: 'Bonding and shape at a C=C double bond', b: 'One σ bond plus one π bond. Each carbon has three σ bonds and no lone pair, so the shape around it is trigonal planar (about 120°). The π electron density is above and below the plane.', src: 'aqa-a-level-chemistry-7405-structure-bonding-and-reactivity-alkenes-revision-notes' },
+      { n: 3, f: 'Is the π bond stronger or weaker than the σ bond?', b: 'Weaker. C=C (about 614 kJ mol⁻¹) is less than twice C–C (347), so the π bond is about 267 kJ mol⁻¹. Its electrons are exposed above and below the plane.', src: 'aqa-a-level-chemistry-7405-structure-bonding-and-reactivity-alkenes-revision-notes' },
+      { n: 4, f: 'Why can alkenes show E/Z isomerism, and what is needed?', b: 'Rotation about C=C would break the π bond, so groups are fixed. Each carbon of the double bond must carry two different groups. But-2-ene shows E/Z; but-1-ene does not.', src: 'aqa-a-level-chemistry-7405-structure-bonding-and-reactivity-alkenes-revision-notes' },
+      { n: 5, f: 'How can bromine water distinguish an alkene from a cycloalkane?', b: 'An alkene decolourises bromine water (orange to colourless) by addition at the C=C bond. A cycloalkane with the same formula CₙH₂ₙ does not.', src: 'aqa-a-level-chemistry-7405-structure-bonding-and-reactivity-alkenes-revision-notes' },
     ]),
     ...sub('alkenes-7405', 'addition-reactions-of-alkenes-7405', '3.3.4.2', [
       { n: 1, f: 'Electrophile', b: 'An electron pair acceptor, e.g. H⁺, Hδ+ in HBr, or Brδ+ in Br₂.' },
@@ -550,6 +664,9 @@ export const DECK_AQA_A_LEVEL_CHEMISTRY: FlashcardDeck = {
     ...sub('alkenes-7405', 'addition-polymers-7405', '3.3.4.3', [
       { n: 1, f: 'Why are polyalkenes unreactive?', b: 'The chains are saturated, with strong, non-polar C–C and C–H bonds and no C=C for electrophiles to attack.' },
       { n: 2, f: 'How does a plasticiser make PVC flexible?', b: 'Its small molecules get between the polymer chains, push them apart and weaken the intermolecular forces, so the chains slide more easily.' },
+      { n: 3, f: 'What kind of monomer forms addition polymers, and what is the atom economy?', b: 'A monomer with a C=C bond. The C=C opens to a single bond in the chain, and no other product forms, so the atom economy is 100%.', src: 'aqa-a-level-chemistry-7405-addition-polymers-revision-notes' },
+      { n: 4, f: 'Repeating unit and name of the polymer made from chloroethene', b: 'Repeating unit –[CH₂–CHCl]ₙ–. The name is poly(chloroethene), PVC: poly( ) around the IUPAC name of the monomer.', src: 'aqa-a-level-chemistry-7405-addition-polymers-revision-notes' },
+      { n: 5, f: 'Intermolecular forces between chains: poly(ethene) compared with PVC', b: 'Poly(ethene): London forces only, so it is flexible with a lower melting point. PVC: London forces plus permanent dipole–dipole (polar C–Cl), so it is stiffer.', src: 'aqa-a-level-chemistry-7405-addition-polymers-revision-notes' },
     ]),
 
     // 23 Alcohols (3.3.5)
@@ -584,6 +701,10 @@ export const DECK_AQA_A_LEVEL_CHEMISTRY: FlashcardDeck = {
     ]),
     ...sub('organic-analysis-7405', 'mass-spectrometry-7405', '3.3.6.2', [
       { n: 1, f: 'How does high-resolution mass spectrometry find a molecular formula?', b: 'Molecules with the same whole-number Mr have different precise masses. The m/z of the molecular ion to four decimal places matches only one formula.' },
+      { n: 2, f: 'Molecular ion: how is it formed and what does its m/z show?', b: 'M(g) + e⁻ → M⁺•(g) + 2e⁻. The ion has charge +1, so the m/z of the molecular ion peak equals the relative molecular mass Mᵣ.', src: 'aqa-a-level-chemistry-7405-mass-spectrometry-revision-notes' },
+      { n: 3, f: 'Why do precise masses differ slightly from whole numbers?', b: 'Carbon-12 is exactly 12. More hydrogen atoms push the mass slightly above the whole number (¹H = 1.0078); more oxygen atoms pull it slightly below (¹⁶O = 15.9949).', src: 'aqa-a-level-chemistry-7405-mass-spectrometry-revision-notes' },
+      { n: 4, f: 'Measured m/z 58.0420 for a compound of C, H and O. Which formula?', b: 'C₃H₆O (58.0417) matches. C₂H₂O₂ (58.0054) and C₄H₁₀ (58.0780) have the same nominal mass but do not fit the precise value.', src: 'aqa-a-level-chemistry-7405-mass-spectrometry-revision-notes' },
+      { n: 5, f: 'Fragment ions: which are detected and how is the mass lost found?', b: 'Only positively charged fragments are detected; neutral fragments and radicals leave undetected. Mass lost = m/z of M⁺• − m/z of the fragment (a loss of 15 is CH₃•).', src: 'aqa-a-level-chemistry-7405-mass-spectrometry-revision-notes' },
     ]),
     ...sub('organic-analysis-7405', 'infrared-spectroscopy-7405', '3.3.6.3', [
       { n: 1, f: 'IR absorptions: alcohol O–H vs carboxylic acid O–H', b: 'Alcohol O–H: 3230–3550 cm⁻¹, broad.\nAcid O–H: 2500–3000 cm⁻¹, very broad.' },
@@ -653,6 +774,9 @@ export const DECK_AQA_A_LEVEL_CHEMISTRY: FlashcardDeck = {
     ...sub('amines-7405', 'base-properties-7405', '3.3.11.2', [
       { n: 1, f: 'Base strength order: methylamine, ammonia, phenylamine', b: 'Methylamine > ammonia > phenylamine.' },
       { n: 2, f: 'Explain the base strength order of primary aliphatic amine > NH₃ > phenylamine', b: 'A base accepts H⁺ with the N lone pair. Alkyl groups release electron density, so N is more electron-rich. In phenylamine the lone pair is delocalised into the ring, so it is less available.' },
+      { n: 3, f: 'Why are amines weak bases, and what do aqueous amines do to pH?', b: 'The nitrogen lone pair forms a dative bond to H⁺: RNH₂ + H₂O ⇌ RNH₃⁺ + OH⁻. The reaction is reversible, so amines are weak bases, and their solutions are alkaline.', src: 'aqa-a-level-chemistry-7405-amine-base-properties-revision-notes' },
+      { n: 4, f: 'Equation for ethylamine with hydrochloric acid, and the name of the product', b: 'CH₃CH₂NH₂ + HCl → CH₃CH₂NH₃⁺Cl⁻, ethylammonium chloride. Adding NaOH releases the free amine again.', src: 'aqa-a-level-chemistry-7405-amine-base-properties-revision-notes' },
+      { n: 5, f: 'Key words for explaining why phenylamine is a weaker base than ammonia', b: 'The lone pair on nitrogen overlaps with the delocalised ring electrons and is partly delocalised into the ring, so it is less available to accept a proton.', src: 'aqa-a-level-chemistry-7405-amine-base-properties-revision-notes' },
     ]),
     ...sub('amines-7405', 'nucleophilic-properties-7405', '3.3.11.3', [
       { n: 1, f: 'Quaternary ammonium ion', b: 'Four carbons bonded to N, R₄N⁺. Its salts are R₄N⁺X⁻.', src: AMINE },
@@ -683,15 +807,30 @@ export const DECK_AQA_A_LEVEL_CHEMISTRY: FlashcardDeck = {
     ...sub('amino-acids-proteins-and-dna-7405', 'proteins-7405', '3.3.13.2', [
       { n: 1, f: 'Primary, secondary and tertiary structure of a protein: what holds each?', b: 'Primary: the amino acid sequence, held by peptide links.\nSecondary: α-helix or β-pleated sheet, held by hydrogen bonds between peptide links.\nTertiary: the 3D fold, held by hydrogen bonds and S–S bonds between side chains.' },
       { n: 2, f: 'α-helix', b: 'A coil; hydrogen bonds between peptide links on different turns of the same chain.', src: AMINO },
+      { n: 3, f: 'Peptide link: how it forms and its structure', b: 'A –COOH and an –NH₂ react with loss of water, giving –CO–NH–. A tripeptide forms with the loss of 2H₂O, and Mᵣ is the sum of the amino acid Mᵣ values minus 18.0 per link.', src: 'aqa-a-level-chemistry-amino-acids-proteins-and-dna-revision-notes' },
+      { n: 4, f: 'β-pleated sheet and disulfide bridges', b: 'β-sheet: chain sections side by side with hydrogen bonds between neighbouring sections. S–S bonds form between the –CH₂SH side chains of two cysteine residues and help hold the tertiary fold.', src: 'aqa-a-level-chemistry-amino-acids-proteins-and-dna-revision-notes' },
+      { n: 5, f: 'Products of hydrolysing a peptide in hot concentrated HCl', b: 'Every –CO–NH– link breaks, with –OH added to the C and –H to the N. The free amino acids appear as –NH₃⁺ ions with –COOH groups intact.', src: 'aqa-a-level-chemistry-amino-acids-proteins-and-dna-revision-notes' },
     ]),
     ...sub('amino-acids-proteins-and-dna-7405', 'enzymes-7405', '3.3.13.3', [
       { n: 1, f: 'Why does an enzyme act on only one enantiomer of a substrate?', b: 'The active site is stereospecific: its binding groups are in fixed 3D positions, and only one enantiomer can line up with all of them.' },
+      { n: 2, f: 'How does an enzyme catalyse a reaction? (steps)', b: 'The substrate fits the active site to form an enzyme–substrate complex, the reaction proceeds with a lower activation energy, the products leave and the enzyme is unchanged.', src: 'aqa-a-level-chemistry-7405-enzymes-revision-notes' },
+      { n: 3, f: 'What holds a substrate in an enzyme active site?', b: 'Hydrogen bonds, ionic attractions and London forces to the amino acid side chains lining the pocket. The primary, secondary and tertiary structure decide its shape.', src: 'aqa-a-level-chemistry-7405-enzymes-revision-notes' },
+      { n: 4, f: 'How can a drug act as an enzyme inhibitor?', b: 'It has a shape and groups like the substrate and binds in the active site. The site is blocked, so the substrate cannot bind and the rate of the enzyme-catalysed reaction falls.', src: 'aqa-a-level-chemistry-7405-enzymes-revision-notes' },
+      { n: 5, f: 'How are computers used in designing drugs that target enzymes?', b: 'They model the 3D shape of the active site and candidate molecules and predict how well each binds. Many candidates are tested quickly and cheaply before synthesis, with fewer early laboratory tests.', src: 'aqa-a-level-chemistry-7405-enzymes-revision-notes' },
     ]),
     ...sub('amino-acids-proteins-and-dna-7405', 'dna-7405', '3.3.13.4', [
       { n: 1, f: 'Base pairing in DNA and the number of hydrogen bonds', b: 'A pairs with T (2 hydrogen bonds); G pairs with C (3 hydrogen bonds).' },
+      { n: 2, f: 'Structure of a nucleotide and of a DNA strand', b: 'A nucleotide is phosphate – 2-deoxyribose – base, with the base on the sugar. In a strand, the phosphate of one nucleotide bonds to the sugar of the next, giving a sugar–phosphate backbone with bases hanging off.', src: 'aqa-a-level-chemistry-7405-dna-revision-notes' },
+      { n: 3, f: 'In a DNA double helix, which parts point outward and inward?', b: 'The sugar–phosphate backbones are on the outside and the bases point inwards. Hydrogen bonds between base pairs hold the two complementary strands together.', src: 'aqa-a-level-chemistry-7405-dna-revision-notes' },
+      { n: 4, f: 'Why are hydrogen bonds suited to joining the two DNA strands?', b: 'Each is weak, so the strands can separate for copying, but there are many, so the helix is stable. The covalent backbone is not broken when the strands separate.', src: 'aqa-a-level-chemistry-7405-dna-revision-notes' },
+      { n: 5, f: 'A strand reads G–G–A–T–C. Give the complementary strand and the hydrogen bonds', b: 'Complement: C–C–T–A–G. Pairs: G–C, G–C, A–T, T–A, C–G give 3 + 3 + 2 + 2 + 3 = 13 hydrogen bonds. A–T has 2 bonds and C–G has 3.', src: 'aqa-a-level-chemistry-7405-dna-revision-notes' },
     ]),
     ...sub('amino-acids-proteins-and-dna-7405', 'action-of-anticancer-drugs-7405', '3.3.13.5', [
       { n: 1, f: 'How does cisplatin act as an anticancer drug?', b: 'Its Cl⁻ ligands are replaced as Pt bonds to nitrogen atoms on guanine in DNA. Binding two guanines distorts the DNA, so it cannot replicate and the cell cannot divide.' },
+      { n: 2, f: 'Cisplatin: formula, shape and oxidation state of platinum', b: '[Pt(NH₃)₂Cl₂]: a neutral, square planar complex with Pt in oxidation state +2. In the cis isomer both Cl are on the same side. The trans isomer is not the anticancer drug.', src: 'aqa-a-level-chemistry-7405-action-of-anticancer-drugs-revision-notes' },
+      { n: 3, f: 'Reaction of cisplatin with DNA: what type of reaction and which bond forms?', b: 'Ligand replacement: the two Cl⁻ are replaced by nitrogen atoms on guanine, each donating a lone pair to form a dative covalent bond to Pt. The NH₃ ligands remain.', src: 'aqa-a-level-chemistry-7405-action-of-anticancer-drugs-revision-notes' },
+      { n: 4, f: 'Why does cisplatin have adverse effects?', b: 'It is not selective and also binds DNA in healthy cells that divide rapidly, such as hair follicles, gut lining and bone marrow. This causes hair loss, nausea and reduced blood cell production, and possible kidney damage.', src: 'aqa-a-level-chemistry-7405-action-of-anticancer-drugs-revision-notes' },
+      { n: 5, f: 'How is the use of an anticancer drug judged by society?', b: 'By weighing benefits (treating or curing some cancers, extending life) against adverse effects, taking account of the seriousness of the illness, the chance of success and the severity of side effects.', src: 'aqa-a-level-chemistry-7405-action-of-anticancer-drugs-revision-notes' },
     ]),
 
     // 32 Organic synthesis (3.3.14)

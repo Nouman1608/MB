@@ -122,8 +122,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2026', effectiveTo: '2028', status: 'current',
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
-    sourceUrl: 'https://www.cambridgeinternational.org/Images/697326-2026-2028-syllabus.pdf', verifiedDate: '2026-08-17',
-    notes: 'NOT tiered - single set of learning outcomes, unlike 0620. Verified: zero Core/Supplement/Extended headings in the syllabus document.',
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/697326-2026-2028-syllabus.pdf', verifiedDate: '2026-11-20',
+    notes: 'NOT tiered - single set of learning outcomes, unlike 0620. Verified: zero Core/Supplement/Extended headings in the syllabus document. Checked on 2026-11-20 against the syllabus document (version 1, September 2023): all 12 topics and all 49 numbered sub-headings match its Subject content section.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'States of matter', slug: 'states-of-matter', subtopics: [{ number: '1.1', name: 'Solids, liquids and gases', slug: 'solids-liquids-and-gases' }, { number: '1.2', name: 'Diffusion', slug: 'diffusion' }] },
       { number: 2, name: 'Atoms, elements and compounds', slug: 'atoms-elements-and-compounds', subtopics: [{ number: '2.1', name: 'Elements, compounds and mixtures', slug: 'elements-compounds-and-mixtures' }, { number: '2.2', name: 'Atomic structure and the Periodic Table', slug: 'atomic-structure-and-the-periodic-table' }, { number: '2.3', name: 'Isotopes', slug: 'isotopes' }, { number: '2.4', name: 'Ion and ionic bonds', slug: 'ion-and-ionic-bonds' }, { number: '2.5', name: 'Simple molecules and covalent bonds', slug: 'simple-molecules-and-covalent-bonds' }, { number: '2.6', name: 'Giant covalent structures', slug: 'giant-covalent-structures' }, { number: '2.7', name: 'Metallic bonding', slug: 'metallic-bonding' }] },
@@ -145,22 +146,23 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2025', effectiveTo: '2027', status: 'current',
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
-    sourceUrl: 'https://www.cambridgeinternational.org/Images/664563-2025-2027-syllabus.pdf', verifiedDate: '2026-08-17',
-    notes: 'Two stages: AS Level topics 1-22, A Level topics 23-37. 13 topic names recur across stages at greater depth, so slugs are stage-qualified (as-/a-) and must never be merged.',
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/664563-2025-2027-syllabus.pdf', verifiedDate: '2026-11-20',
+    notes: 'Two stages: AS Level topics 1-22, A Level topics 23-37. 13 topic names recur across stages at greater depth, so slugs are stage-qualified (as-/a-) and must never be merged. Checked on 2026-11-20 against the syllabus document (version 2, published October 2026): all 37 topics and all 90 numbered sub-headings match its Subject content section. Seven names were corrected to the document\'s wording (symbols and dashes). Standard electrode potentials, standard cell potentials and the Nernst equation (24.2) is written without the plimsoll symbols the document prints.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Atomic structure', slug: 'as-atomic-structure', stage: 'AS', subtopics: [{ number: '1.1', name: 'Particles in the atom and atomic radius', slug: 'as-particles-in-the-atom-and-atomic-radius' }, { number: '1.2', name: 'Isotopes', slug: 'as-isotopes' }, { number: '1.3', name: 'Electrons, energy levels and atomic orbitals', slug: 'as-electrons-energy-levels-and-atomic-orbitals' }, { number: '1.4', name: 'Ionisation energy', slug: 'as-ionisation-energy' }] },
       { number: 2, name: 'Atoms, molecules and stoichiometry', slug: 'as-atoms-molecules-and-stoichiometry', stage: 'AS', subtopics: [{ number: '2.1', name: 'Relative masses of atoms and molecules', slug: 'as-relative-masses-of-atoms-and-molecules' }, { number: '2.2', name: 'The mole and the Avogadro constant', slug: 'as-the-mole-and-the-avogadro-constant' }, { number: '2.3', name: 'Formulas', slug: 'as-formulas' }, { number: '2.4', name: 'Reacting masses and volumes (of solutions and gases)', slug: 'as-reacting-masses-and-volumes-of-solutions-and-gases' }] },
       { number: 3, name: 'Chemical bonding', slug: 'as-chemical-bonding', stage: 'AS', subtopics: [{ number: '3.1', name: 'Electronegativity and bonding', slug: 'as-electronegativity-and-bonding' }, { number: '3.2', name: 'Ionic bonding', slug: 'as-ionic-bonding' }, { number: '3.3', name: 'Metallic bonding', slug: 'as-metallic-bonding' }, { number: '3.4', name: 'Covalent bonding and coordinate (dative covalent) bonding', slug: 'as-covalent-bonding-and-coordinate-dative-covalent-bonding' }, { number: '3.5', name: 'Shapes of molecules', slug: 'as-shapes-of-molecules' }, { number: '3.6', name: 'Intermolecular forces, electronegativity and bond properties', slug: 'as-intermolecular-forces-electronegativity-and-bond-properties' }, { number: '3.7', name: 'Dot-and-cross diagrams', slug: 'as-dot-and-cross-diagrams' }] },
       { number: 4, name: 'States of matter', slug: 'as-states-of-matter', stage: 'AS', subtopics: [{ number: '4.1', name: 'The gaseous state: ideal and real gases and pV = nRT', slug: 'as-the-gaseous-state' }, { number: '4.2', name: 'Bonding and structure', slug: 'as-bonding-and-structure' }] },
-      { number: 5, name: 'Chemical energetics', slug: 'as-chemical-energetics', stage: 'AS', subtopics: [{ number: '5.1', name: 'Enthalpy change', slug: 'as-enthalpy-change' }, { number: '5.2', name: "Hess's law", slug: 'as-hess-s-law' }] },
+      { number: 5, name: 'Chemical energetics', slug: 'as-chemical-energetics', stage: 'AS', subtopics: [{ number: '5.1', name: 'Enthalpy change, ΔH', slug: 'as-enthalpy-change' }, { number: '5.2', name: 'Hess’s law', slug: 'as-hess-s-law' }] },
       { number: 6, name: 'Electrochemistry', slug: 'as-electrochemistry', stage: 'AS', subtopics: [{ number: '6.1', name: 'Redox processes: electron transfer and changes in oxidation number (oxidation state)', slug: 'as-redox-processes' }] },
-      { number: 7, name: 'Equilibria', slug: 'as-equilibria', stage: 'AS', subtopics: [{ number: '7.1', name: 'Chemical equilibria: reversible reactions, dynamic equilibrium', slug: 'as-chemical-equilibria' }, { number: '7.2', name: 'Brønsted-Lowry theory of acids and bases', slug: 'as-bronsted-lowry-theory-of-acids-and-bases' }] },
+      { number: 7, name: 'Equilibria', slug: 'as-equilibria', stage: 'AS', subtopics: [{ number: '7.1', name: 'Chemical equilibria: reversible reactions, dynamic equilibrium', slug: 'as-chemical-equilibria' }, { number: '7.2', name: 'Brønsted–Lowry theory of acids and bases', slug: 'as-bronsted-lowry-theory-of-acids-and-bases' }] },
       { number: 8, name: 'Reaction kinetics', slug: 'as-reaction-kinetics', stage: 'AS', subtopics: [{ number: '8.1', name: 'Rate of reaction', slug: 'as-rate-of-reaction' }, { number: '8.2', name: 'Effect of temperature on reaction rates and the concept of activation energy', slug: 'as-effect-of-temperature-on-reaction-rates-and-the-concept-of-activation-energy' }, { number: '8.3', name: 'Homogeneous and heterogeneous catalysts', slug: 'as-homogeneous-and-heterogeneous-catalysts' }] },
       { number: 9, name: 'The Periodic Table: chemical periodicity', slug: 'as-the-periodic-table-chemical-periodicity', stage: 'AS', subtopics: [{ number: '9.1', name: 'Periodicity of physical properties of the elements in Period 3', slug: 'as-periodicity-of-physical-properties-of-the-elements-in-period-3' }, { number: '9.2', name: 'Periodicity of chemical properties of the elements in Period 3', slug: 'as-periodicity-of-chemical-properties-of-the-elements-in-period-3' }, { number: '9.3', name: 'Chemical periodicity of other elements', slug: 'as-chemical-periodicity-of-other-elements' }] },
       { number: 10, name: 'Group 2', slug: 'as-group-2', stage: 'AS', subtopics: [{ number: '10.1', name: 'Similarities and trends in the properties of the Group 2 metals, magnesium to barium, and their compounds', slug: 'as-similarities-and-trends-in-the-properties-of-the-group-2-metals-and-their-compounds' }] },
       { number: 11, name: 'Group 17', slug: 'as-group-17', stage: 'AS', subtopics: [{ number: '11.1', name: 'Physical properties of the Group 17 elements', slug: 'as-physical-properties-of-the-group-17-elements' }, { number: '11.2', name: 'The chemical properties of the halogen elements and the hydrogen halides', slug: 'as-the-chemical-properties-of-the-halogen-elements-and-the-hydrogen-halides' }, { number: '11.3', name: 'Some reactions of the halide ions', slug: 'as-some-reactions-of-the-halide-ions' }, { number: '11.4', name: 'The reactions of chlorine', slug: 'as-the-reactions-of-chlorine' }] },
       { number: 12, name: 'Nitrogen and sulfur', slug: 'as-nitrogen-and-sulfur', stage: 'AS', subtopics: [{ number: '12.1', name: 'Nitrogen and sulfur', slug: 'as-nitrogen-and-sulfur' }] },
-      { number: 13, name: 'An introduction to AS Level organic chemistry', slug: 'as-an-introduction-to-as-level-organic-chemistry', stage: 'AS', subtopics: [{ number: '13.1', name: 'Formulas, functional groups and the naming of organic compounds', slug: 'as-formulas-functional-groups-and-the-naming-of-organic-compounds' }, { number: '13.2', name: 'Characteristic organic reactions', slug: 'as-characteristic-organic-reactions' }, { number: '13.3', name: 'Shapes of organic molecules; sigma and pi bonds', slug: 'as-shapes-of-organic-molecules' }, { number: '13.4', name: 'Isomerism: structural isomerism and stereoisomerism', slug: 'as-isomerism' }] },
+      { number: 13, name: 'An introduction to AS Level organic chemistry', slug: 'as-an-introduction-to-as-level-organic-chemistry', stage: 'AS', subtopics: [{ number: '13.1', name: 'Formulas, functional groups and the naming of organic compounds', slug: 'as-formulas-functional-groups-and-the-naming-of-organic-compounds' }, { number: '13.2', name: 'Characteristic organic reactions', slug: 'as-characteristic-organic-reactions' }, { number: '13.3', name: 'Shapes of organic molecules; σ and π bonds', slug: 'as-shapes-of-organic-molecules' }, { number: '13.4', name: 'Isomerism: structural isomerism and stereoisomerism', slug: 'as-isomerism' }] },
       { number: 14, name: 'Hydrocarbons', slug: 'as-hydrocarbons', stage: 'AS', subtopics: [{ number: '14.1', name: 'Alkanes', slug: 'as-alkanes' }, { number: '14.2', name: 'Alkenes', slug: 'as-alkenes' }] },
       { number: 15, name: 'Halogen compounds', slug: 'as-halogen-compounds', stage: 'AS', subtopics: [{ number: '15.1', name: 'Halogenoalkanes', slug: 'as-halogenoalkanes' }] },
       { number: 16, name: 'Hydroxy compounds', slug: 'as-hydroxy-compounds', stage: 'AS', subtopics: [{ number: '16.1', name: 'Alcohols', slug: 'as-alcohols' }] },
@@ -170,7 +172,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
       { number: 20, name: 'Polymerisation', slug: 'as-polymerisation', stage: 'AS', subtopics: [{ number: '20.1', name: 'Addition polymerisation', slug: 'as-addition-polymerisation' }] },
       { number: 21, name: 'Organic synthesis', slug: 'as-organic-synthesis', stage: 'AS', subtopics: [{ number: '21.1', name: 'Organic synthesis', slug: 'as-organic-synthesis' }] },
       { number: 22, name: 'Analytical techniques', slug: 'as-analytical-techniques', stage: 'AS', subtopics: [{ number: '22.1', name: 'Infrared spectroscopy', slug: 'as-infrared-spectroscopy' }, { number: '22.2', name: 'Mass spectrometry', slug: 'as-mass-spectrometry' }] },
-      { number: 23, name: 'Chemical energetics', slug: 'a-chemical-energetics', stage: 'A', subtopics: [{ number: '23.1', name: 'Lattice energy and Born-Haber cycles', slug: 'a-lattice-energy-and-born-haber-cycles' }, { number: '23.2', name: 'Enthalpies of solution and hydration', slug: 'a-enthalpies-of-solution-and-hydration' }, { number: '23.3', name: 'Entropy change', slug: 'a-entropy-change' }, { number: '23.4', name: 'Gibbs free energy change', slug: 'a-gibbs-free-energy-change' }] },
+      { number: 23, name: 'Chemical energetics', slug: 'a-chemical-energetics', stage: 'A', subtopics: [{ number: '23.1', name: 'Lattice energy and Born-Haber cycles', slug: 'a-lattice-energy-and-born-haber-cycles' }, { number: '23.2', name: 'Enthalpies of solution and hydration', slug: 'a-enthalpies-of-solution-and-hydration' }, { number: '23.3', name: 'Entropy change, ΔS', slug: 'a-entropy-change' }, { number: '23.4', name: 'Gibbs free energy change, ΔG', slug: 'a-gibbs-free-energy-change' }] },
       { number: 24, name: 'Electrochemistry', slug: 'a-electrochemistry', stage: 'A', subtopics: [{ number: '24.1', name: 'Electrolysis', slug: 'a-electrolysis' }, { number: '24.2', name: 'Standard electrode potentials, standard cell potentials and the Nernst equation', slug: 'a-standard-electrode-potentials-cell-potentials-and-the-nernst-equation' }] },
       { number: 25, name: 'Equilibria', slug: 'a-equilibria', stage: 'A', subtopics: [{ number: '25.1', name: 'Acids and bases', slug: 'a-acids-and-bases' }, { number: '25.2', name: 'Partition coefficients', slug: 'a-partition-coefficients' }] },
       { number: 26, name: 'Reaction kinetics', slug: 'a-reaction-kinetics', stage: 'A', subtopics: [{ number: '26.1', name: 'Simple rate equations, orders of reaction and rate constants', slug: 'a-simple-rate-equations-orders-of-reaction-and-rate-constants' }, { number: '26.2', name: 'Homogeneous and heterogeneous catalysts', slug: 'a-homogeneous-and-heterogeneous-catalysts' }] },
@@ -184,7 +186,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
       { number: 34, name: 'Nitrogen compounds', slug: 'a-nitrogen-compounds', stage: 'A', subtopics: [{ number: '34.1', name: 'Primary and secondary amines', slug: 'a-primary-and-secondary-amines' }, { number: '34.2', name: 'Phenylamine and azo compounds', slug: 'a-phenylamine-and-azo-compounds' }, { number: '34.3', name: 'Amides', slug: 'a-amides' }, { number: '34.4', name: 'Amino acids', slug: 'a-amino-acids' }] },
       { number: 35, name: 'Polymerisation', slug: 'a-polymerisation', stage: 'A', subtopics: [{ number: '35.1', name: 'Condensation polymerisation', slug: 'a-condensation-polymerisation' }, { number: '35.2', name: 'Predicting the type of polymerisation', slug: 'a-predicting-the-type-of-polymerisation' }, { number: '35.3', name: 'Degradable polymers', slug: 'a-degradable-polymers' }] },
       { number: 36, name: 'Organic synthesis', slug: 'a-organic-synthesis', stage: 'A', subtopics: [{ number: '36.1', name: 'Organic synthesis', slug: 'a-organic-synthesis' }] },
-      { number: 37, name: 'Analytical techniques', slug: 'a-analytical-techniques', stage: 'A', subtopics: [{ number: '37.1', name: 'Thin-layer chromatography', slug: 'a-thin-layer-chromatography' }, { number: '37.2', name: 'Gas/liquid chromatography', slug: 'a-gas-liquid-chromatography' }, { number: '37.3', name: 'Carbon-13 NMR spectroscopy', slug: 'a-carbon-13-nmr-spectroscopy' }, { number: '37.4', name: 'Proton (1H) NMR spectroscopy', slug: 'a-proton-1h-nmr-spectroscopy' }] },
+      { number: 37, name: 'Analytical techniques', slug: 'a-analytical-techniques', stage: 'A', subtopics: [{ number: '37.1', name: 'Thin-layer chromatography', slug: 'a-thin-layer-chromatography' }, { number: '37.2', name: 'Gas / liquid chromatography', slug: 'a-gas-liquid-chromatography' }, { number: '37.3', name: 'Carbon-13 NMR spectroscopy', slug: 'a-carbon-13-nmr-spectroscopy' }, { number: '37.4', name: 'Proton (1H) NMR spectroscopy', slug: 'a-proton-1h-nmr-spectroscopy' }] },
     ],
   },
   {
@@ -442,8 +444,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2026', effectiveTo: '2026', status: 'current',
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
-    sourceUrl: 'https://www.cambridgeinternational.org/Images/697338-2026-syllabus.pdf', verifiedDate: '2026-09-01',
-    notes: 'IMPORTANT: this syllabus is valid for 2026 ONLY (single examination year, not a 2026-2028 series like most other subjects on this site) - confirmed directly from the PDF ("Use this syllabus for exams in 2026"). Cambridge replaces 7115 with 7081 ("Cambridge O Level Business", shortened name, same lineage per Phase 11 research) from 2027; whoever next touches this subject should re-verify against 7081 rather than assume continuity. Not tiered. Weekly study-guides run (2026-09-01): re-fetched the full PDF (Version 2, published December 2025) directly and extracted the complete "3 Subject content" section end to end. All six topics and every subtopic (1.1-1.5, 2.1-2.4, 3.1-3.4, 4.1-4.4, 5.1-5.5, 6.1-6.3) are now reproduced below directly from the PDF, superseding the prior partial (Topic 1 only, and even that incomplete at 1.3) entry. New resource written this run covers 1.3 (Enterprise, business growth and size).',
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/697338-2026-syllabus.pdf', verifiedDate: '2026-11-20',
+    notes: 'IMPORTANT: this syllabus is valid for 2026 ONLY (single examination year, not a 2026-2028 series like most other subjects on this site) - confirmed directly from the PDF ("Use this syllabus for exams in 2026"). Cambridge replaces 7115 with 7081 ("Cambridge O Level Business", shortened name, same lineage per Phase 11 research) from 2027; whoever next touches this subject should re-verify against 7081 rather than assume continuity. Not tiered. Weekly study-guides run (2026-09-01): re-fetched the full PDF (Version 2, published December 2025) directly and extracted the complete "3 Subject content" section end to end. All six topics and every subtopic (1.1-1.5, 2.1-2.4, 3.1-3.4, 4.1-4.4, 5.1-5.5, 6.1-6.3) are now reproduced below directly from the PDF, superseding the prior partial (Topic 1 only, and even that incomplete at 1.3) entry. New resource written this run covers 1.3 (Enterprise, business growth and size). Checked again on 2026-11-20 against the Version 2 PDF: all 6 topics and 25 subtopics match the printed headings.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Understanding business activity', slug: 'understanding-business-activity', subtopics: [
         { number: '1.1', name: 'Business activity', slug: 'business-activity' },
@@ -490,8 +493,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2026', effectiveTo: '2026', status: 'current',
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
-    sourceUrl: 'https://www.cambridgeinternational.org/Images/697295-2026-syllabus.pdf', verifiedDate: '2026-08-24',
-    notes: 'IMPORTANT: like Business 7115, this syllabus is valid for 2026 ONLY (confirmed directly from the PDF: "Use this syllabus for exams in 2026"), not a multi-year series. Economics keeps the code 2281: Cambridge has published a 2027-2029 syllabus for 2281 (718206), which is not itemised here. Not tiered. Re-verified against the full official PDF (Version 2) 2026-08-24: the Phase 16 claim that Topic 1 had "all three of its subtopics" was incomplete - the PDF lists FOUR (1.1-1.4, including 1.4 Production possibility curve (PPC) diagrams), now corrected below. All six topic names and Topic 2’s full sub-topic structure (2.1-2.11) reproduced directly from the PDF’s Subject content section, fetched 2026-08-24. Weekly study-guides run (2026-09-02): re-fetched the full PDF directly and extracted Topic 3 (Microeconomic decision makers) sub-topics 3.1-3.8 from the "3 Subject content" section for the new resource written this run. Sub-topics of topics 4-6 (4.1-4.8, 5.1-5.4, 6.1-6.4) itemised 2026-10-19 (D-424) from the 2026 syllabus Subject content section, when the pages for them were written.',
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/697295-2026-syllabus.pdf', verifiedDate: '2026-11-20',
+    notes: 'IMPORTANT: like Business 7115, this syllabus is valid for 2026 ONLY (confirmed directly from the PDF: "Use this syllabus for exams in 2026"), not a multi-year series. Economics keeps the code 2281: Cambridge has published a 2027-2029 syllabus for 2281 (718206), which is not itemised here. Not tiered. Re-verified against the full official PDF (Version 2) 2026-08-24: the Phase 16 claim that Topic 1 had "all three of its subtopics" was incomplete - the PDF lists FOUR (1.1-1.4, including 1.4 Production possibility curve (PPC) diagrams), now corrected below. All six topic names and Topic 2’s full sub-topic structure (2.1-2.11) reproduced directly from the PDF’s Subject content section, fetched 2026-08-24. Weekly study-guides run (2026-09-02): re-fetched the full PDF directly and extracted Topic 3 (Microeconomic decision makers) sub-topics 3.1-3.8 from the "3 Subject content" section for the new resource written this run. Sub-topics of topics 4-6 (4.1-4.8, 5.1-5.4, 6.1-6.4) itemised 2026-10-19 (D-424) from the 2026 syllabus Subject content section, when the pages for them were written. All 6 topics and 39 subtopics checked against the Cambridge syllabus PDF (Version 2, published December 2025; 32 pages) on 2026-11-20: numbers, names and order match.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'The basic economic problem', slug: 'the-basic-economic-problem', subtopics: [
         { number: '1.1', name: 'The nature of the economic problem', slug: 'the-nature-of-the-economic-problem' },
@@ -552,8 +556,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2026', effectiveTo: '2028', status: 'current',
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
-    sourceUrl: 'https://www.cambridgeinternational.org/Images/697417-2026-2028-syllabus.pdf', verifiedDate: '2026-08-18',
-    notes: 'Not tiered, but staged: AS Level candidates study topics 1.1-2.2 only; A Level candidates study all of 1.1-4.4 (AS Level content is assumed knowledge for A Level Papers 3-4). No Cambridge O Level Accounting exists in the approved scope - Learners Academy\'s own subject list (the matrix\'s evidence source) only shows Accounting at IGCSE and A Level, matching the finding already recorded in Phase 11, so this AS/A Level entry point was chosen deliberately rather than an unverified O Level substitute. Phase 16: AS Level topics 1.1 (Types of business entity) and 1.2 (The accounting system) verified in full against the PDF. Weekly study-guides run (2026-09-01): re-fetched the PDF and verified 1.3 (Accounting for non-current assets) in full -- 1.3.1 capital vs revenue income/expenditure, 1.3.2 changing asset values (depreciation methods, cost/revaluation models, disposal) -- for the new resource written this run. Weekly study-guides run (2026-09-02): re-fetched the PDF and verified 1.4 (Reconciliation and verification) in full -- 1.4.1 the underlying reconciliation/verification rationale, 1.4.2 trial balance (errors that do and don\'t affect it, suspense accounts), 1.4.3 bank reconciliation statements, 1.4.4 control accounts -- for the new resource written this run. Topics 1.5-1.6 and all of Section 2 (AS Level) plus Sections 3-4 (A Level only) remain name-only, not yet subtopic-verified.',
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/697417-2026-2028-syllabus.pdf', verifiedDate: '2026-11-20',
+    notes: 'Not tiered, but staged: AS Level candidates study topics 1.1-2.2 only; A Level candidates study all of 1.1-4.4 (AS Level content is assumed knowledge for A Level Papers 3-4). No Cambridge O Level Accounting exists in the approved scope - Learners Academy\'s own subject list (the matrix\'s evidence source) only shows Accounting at IGCSE and A Level, matching the finding already recorded in Phase 11, so this AS/A Level entry point was chosen deliberately rather than an unverified O Level substitute. Phase 16: AS Level topics 1.1 (Types of business entity) and 1.2 (The accounting system) verified in full against the PDF. Weekly study-guides run (2026-09-01): re-fetched the PDF and verified 1.3 (Accounting for non-current assets) in full -- 1.3.1 capital vs revenue income/expenditure, 1.3.2 changing asset values (depreciation methods, cost/revaluation models, disposal) -- for the new resource written this run. Weekly study-guides run (2026-09-02): re-fetched the PDF and verified 1.4 (Reconciliation and verification) in full -- 1.4.1 the underlying reconciliation/verification rationale, 1.4.2 trial balance (errors that do and don\'t affect it, suspense accounts), 1.4.3 bank reconciliation statements, 1.4.4 control accounts -- for the new resource written this run. All 4 topics and 17 subtopics (1.1 to 4.4) checked against the Cambridge syllabus PDF (Version 3, published October 2026; 40 pages) on 2026-11-20: numbers, names and order match.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Financial accounting', slug: 'financial-accounting', stage: 'AS', subtopics: [
         { number: '1.1', name: 'Types of business entity', slug: 'types-of-business-entity' },
@@ -588,8 +593,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2025', effectiveTo: '2027', status: 'current',
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
-    sourceUrl: 'https://www.cambridgeinternational.org/Images/664565-2025-2027-syllabus.pdf', verifiedDate: '2026-08-18',
-    notes: 'Two stages: AS Level topics 1-11, A Level topics 12-25 (AS content is assumed knowledge for A Level). Slugs are stage-qualified (as-/a-) since Cambridge Physics topic names do not recur across stages the way Chemistry\'s do, but the as-/a- convention is kept consistent with the 9701 entry above.',
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/664565-2025-2027-syllabus.pdf', verifiedDate: '2026-11-20',
+    notes: 'Two stages: AS Level topics 1-11, A Level topics 12-25 (AS content is assumed knowledge for A Level). Slugs are stage-qualified (as-/a-) since Cambridge Physics topic names do not recur across stages the way Chemistry\'s do, but the as-/a- convention is kept consistent with the 9701 entry above. All 25 topics and 76 subtopics checked against the Cambridge syllabus PDF (Version 2, published October 2026; 68 pages) on 2026-11-20: numbers, names and order match.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Physical quantities and units', slug: 'as-physical-quantities-and-units', stage: 'AS', subtopics: [{ number: '1.1', name: 'Physical quantities', slug: 'as-physical-quantities' }, { number: '1.2', name: 'SI units', slug: 'as-si-units' }, { number: '1.3', name: 'Errors and uncertainties', slug: 'as-errors-and-uncertainties' }, { number: '1.4', name: 'Scalars and vectors', slug: 'as-scalars-and-vectors' }] },
       { number: 2, name: 'Kinematics', slug: 'as-kinematics', stage: 'AS', subtopics: [{ number: '2.1', name: 'Equations of motion', slug: 'as-equations-of-motion' }] },
@@ -624,8 +630,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2028', effectiveTo: '2030', status: 'future',
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
-    sourceUrl: 'https://www.cambridgeinternational.org/Images/744626-2028-2030-syllabus.pdf', verifiedDate: '2026-09-27',
-    notes: "Syllabus for exams in 2028, 2029 and 2030 (Version 1, published September 2025). Cambridge states there are no significant changes which affect teaching. M7 (2026-09-27): the subject content was compared line by line with the 2025-2027 syllabus (664565) — all 25 topics, 76 subtopics and every learning outcome are unchanged in number, name, stage and wording (only typography differs, e.g. 22.3 now prints an en dash in 'Wave–particle duality' and 'universe' is lower case), so the topic and subtopic slugs are the same as the 2025-2027 entry. Two stages: AS Level topics 1-11, A Level topics 12-25. Recorded as 'future' so it is not used for public structure until it becomes current. See docs/content-review/syllabus-changes-0580-9702-2028-2030.md.",
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/744626-2028-2030-syllabus.pdf', verifiedDate: '2026-11-20',
+    notes: "Syllabus for exams in 2028, 2029 and 2030 (Version 1, published September 2025). Cambridge states there are no significant changes which affect teaching. M7 (2026-09-27): the subject content was compared line by line with the 2025-2027 syllabus (664565) — all 25 topics, 76 subtopics and every learning outcome are unchanged in number, name, stage and wording (only typography differs, e.g. 22.3 now prints an en dash in 'Wave–particle duality' and 'universe' is lower case), so the topic and subtopic slugs are the same as the 2025-2027 entry. Two stages: AS Level topics 1-11, A Level topics 12-25. Recorded as 'future' so it is not used for public structure until it becomes current. See docs/content-review/syllabus-changes-0580-9702-2028-2030.md. All 25 topics and 76 subtopics checked again against the Cambridge syllabus PDF (Version 1, September 2025; 69 pages) on 2026-11-20: numbers, names and order match.",
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Physical quantities and units', slug: 'as-physical-quantities-and-units', stage: 'AS', subtopics: [{ number: '1.1', name: 'Physical quantities', slug: 'as-physical-quantities' }, { number: '1.2', name: 'SI units', slug: 'as-si-units' }, { number: '1.3', name: 'Errors and uncertainties', slug: 'as-errors-and-uncertainties' }, { number: '1.4', name: 'Scalars and vectors', slug: 'as-scalars-and-vectors' }] },
       { number: 2, name: 'Kinematics', slug: 'as-kinematics', stage: 'AS', subtopics: [{ number: '2.1', name: 'Equations of motion', slug: 'as-equations-of-motion' }] },
@@ -660,8 +667,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2017', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'Pearson Edexcel -- official International GCSE Physics specification PDF',
-    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Physics/2017/specification-and-sample-assessments/international-gcse-physics-2017-specification.pdf', verifiedDate: '2026-08-18',
-    notes: 'Pearson Edexcel International GCSE in Physics (4PH1), first teaching September 2017, Issue 4 (September 2024). Untiered -- assessed across two papers (1P core content, 2P all content including bold "P" statements). Subtopics use the specification\'s own lettered sub-headings (a, b, c, d), not numbered x.y like Cambridge, since that is how Pearson itself structures this document.',
+    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Physics/2017/specification-and-sample-assessments/international-gcse-physics-2017-specification.pdf', verifiedDate: '2026-11-20',
+    notes: 'Pearson Edexcel International GCSE in Physics (4PH1), first teaching September 2017, Issue 4 (September 2024). Untiered -- assessed across two papers (1P core content, 2P all content including bold "P" statements). Subtopics use the specification\'s own lettered sub-headings (a, b, c, d), not numbered x.y like Cambridge, since that is how Pearson itself structures this document. All 8 topics and 30 sub-topics checked one by one against the Issue 4 PDF (62 pages) on 2026-11-20; numbers and names match.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Forces and motion', slug: 'forces-and-motion', subtopics: [{ number: '1a', name: 'Units', slug: 'units-forces-and-motion' }, { number: '1b', name: 'Movement and position', slug: 'movement-and-position' }, { number: '1c', name: 'Forces, movement, shape and momentum', slug: 'forces-movement-shape-and-momentum' }] },
       { number: 2, name: 'Electricity', slug: 'electricity', subtopics: [{ number: '2a', name: 'Units', slug: 'units-electricity' }, { number: '2b', name: 'Mains electricity', slug: 'mains-electricity' }, { number: '2c', name: 'Energy and voltage in circuits', slug: 'energy-and-voltage-in-circuits' }, { number: '2d', name: 'Electric charge', slug: 'electric-charge' }] },
@@ -679,8 +687,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2018', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'Pearson Edexcel -- official International Advanced Level Physics specification PDF',
-    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Physics/2018/Specification%20and%20Sample%20Assessment/9781446957783_IAL_Physics_Iss3.pdf', verifiedDate: '2026-09-17',
-    notes: "Pearson Edexcel International Advanced Subsidiary in Physics (XPH11) and International Advanced Level in Physics (YPH11), first teaching September 2018, Issue 3 (July 2021), current for the 2026 series. Six modular units: Unit 1 Mechanics and Materials, Unit 2 Waves and Electricity, Unit 3 Practical Skills in Physics I (IAS); Unit 4 Further Mechanics, Fields and Particles, Unit 5 Thermodynamics, Radiation, Oscillations and Cosmology, Unit 6 Practical Skills in Physics II (IA2). Units 3 and 6 are externally examined practical-skills units; the specification gives each its own content sections (Unit 3: 3.3 Planning, 3.4 Implementation and measurements, 3.5 Processing Results; Unit 6: 6.3 Planning, 6.4 Implementation and Measurements, 6.5 Analysis), so both are listed here with those sections (E939, round 43; previously left out). Each unit's sections .1 Unit description and .2 Assessment information are not content and are not listed. All six units and their content sections (1.3-1.4, 2.3-2.4, 3.3-3.5, 4.3-4.5, 5.3-5.6, 6.3-6.5) re-read in the Issue 3 specification (87 pp., to Pearson's registered-office block) on 2026-09-17; names as printed.",
+    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Physics/2018/Specification%20and%20Sample%20Assessment/9781446957783_IAL_Physics_Iss3.pdf', verifiedDate: '2026-11-20',
+    notes: "Pearson Edexcel International Advanced Subsidiary in Physics (XPH11) and International Advanced Level in Physics (YPH11), first teaching September 2018, Issue 3 (July 2021), current for the 2026 series. Six modular units: Unit 1 Mechanics and Materials, Unit 2 Waves and Electricity, Unit 3 Practical Skills in Physics I (IAS); Unit 4 Further Mechanics, Fields and Particles, Unit 5 Thermodynamics, Radiation, Oscillations and Cosmology, Unit 6 Practical Skills in Physics II (IA2). Units 3 and 6 are externally examined practical-skills units; the specification gives each its own content sections (Unit 3: 3.3 Planning, 3.4 Implementation and measurements, 3.5 Processing Results; Unit 6: 6.3 Planning, 6.4 Implementation and Measurements, 6.5 Analysis), so both are listed here with those sections. Each unit's sections .1 Unit description and .2 Assessment information are not content and are not listed. All six units and their 17 content sections (1.3-1.4, 2.3-2.4, 3.3-3.5, 4.3-4.5, 5.3-5.6, 6.3-6.5) checked one by one against the Issue 3 specification (87 pp.) on 2026-11-20; numbers and names match as printed.",
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Mechanics and Materials', slug: 'unit-1-mechanics-and-materials', subtopics: [
         { number: '1.3', name: 'Mechanics', slug: 'mechanics' },
@@ -719,8 +728,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2016', effectiveTo: 'ongoing', status: 'current',
     tiered: true,
     source: 'AQA -- official GCSE Physics (8463) specification, live subject-content pages',
-    sourceUrl: 'https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/subject-content', verifiedDate: '2026-08-19',
-    notes: "AQA GCSE Physics (8463), first teaching September 2016. Tiered: both papers are set at Foundation Tier and Higher Tier, and content assessed only at Higher Tier is marked '(HT only)' in the specification. Most content is co-teachable with GCSE Combined Science: Trilogy; content marked '(physics only)' in the official specification is Physics-only and not shared with Combined Science -- flagged in resource prose the same way Edexcel's 'P' references are. All 8 topics (4.1-4.8) and their sub-topic structure verified directly against the live AQA specification subject-content pages (aqa.org.uk), fetched in full 2026-08-19.",
+    sourceUrl: 'https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/subject-content', verifiedDate: '2026-11-20',
+    notes: "AQA GCSE Physics (8463), first teaching September 2016. Tiered: both papers are set at Foundation Tier and Higher Tier, and content assessed only at Higher Tier is marked '(HT only)' in the specification. Most content is co-teachable with GCSE Combined Science: Trilogy; content marked '(physics only)' in the official specification is Physics-only and not shared with Combined Science -- flagged in resource prose the same way Edexcel's 'P' references are. All 8 topics (4.1-4.8) and their sub-topic structure verified directly against the live AQA specification subject-content pages (aqa.org.uk), fetched in full 2026-08-19. Checked again on 2026-11-20 against the AQA specification PDF (version 1.1, 30 September 2019): all 8 topics and all 30 numbered sub-headings (4.1.1 to 4.8.2) match its subject content section.",
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Energy', slug: 'energy-aqa-gcse', subtopics: [
         { number: '4.1.1', name: 'Energy changes in a system, and the ways energy is stored before and after such changes', slug: 'energy-changes-in-a-system' },
@@ -742,7 +752,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
       { number: 4, name: 'Atomic structure', slug: 'atomic-structure-aqa-gcse', subtopics: [
         { number: '4.4.1', name: 'Atoms and isotopes', slug: 'atoms-and-isotopes-aqa' },
         { number: '4.4.2', name: 'Atoms and nuclear radiation', slug: 'atoms-and-nuclear-radiation' },
-        { number: '4.4.3', name: 'Hazards and uses of radioactive emissions and background radiation', slug: 'hazards-and-uses-of-radioactive-emissions' },
+        { number: '4.4.3', name: 'Hazards and uses of radioactive emissions and of background radiation', slug: 'hazards-and-uses-of-radioactive-emissions' },
         { number: '4.4.4', name: 'Nuclear fission and fusion', slug: 'nuclear-fission-and-fusion-aqa-gcse' },
       ] },
       { number: 5, name: 'Forces', slug: 'forces-aqa-gcse', subtopics: [
@@ -777,8 +787,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2015', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'AQA -- official A-level Physics (7408) specification, live subject-content pages',
-    sourceUrl: 'https://www.aqa.org.uk/subjects/physics/a-level/physics-7408/specification/subject-content', verifiedDate: '2026-08-19',
-    notes: "AQA A-level Physics (7408), first teaching September 2015 (co-teachable AS Physics is 7407). Sections 3.1-3.5 are the shared AS/A-level content, taught in year 1; sections 3.6-3.8 are A-level only, taught in year 2. Beyond 3.1-3.8, the specification also offers five optional A-level-only topics (3.9 Astrophysics, 3.10 Medical physics, 3.11 Engineering physics, 3.12 Turning points in physics, 3.13 Electronics) assessed in Paper 3 Section B, where 'Students enter for one of sections 9, 10, 11, 12 or 13' -- all five are recorded here as topics 9-13 with their numbered sub-topics (added 2026-09-17, round 43, E939 (8), from the current specification PDF, Version 1.4, July 2026, 94 pages, read to the AQA registered-address block; the specification heads 3.13.4 'Operational amplifier in:', introducing its inverting, non-inverting and summing configurations). Practical skills are assessed indirectly through written papers and separately certificated via 12 required practical activities woven through 3.1-3.8. All 8 compulsory topics and their sub-topic structure verified directly against the live AQA specification subject-content pages (aqa.org.uk), fetched in full 2026-08-19.",
+    sourceUrl: 'https://www.aqa.org.uk/subjects/physics/a-level/physics-7408/specification/subject-content', verifiedDate: '2026-11-20',
+    notes: "AQA A-level Physics (7408), first teaching September 2015 (co-teachable AS Physics is 7407). Sections 3.1-3.5 are the shared AS/A-level content, taught in year 1; sections 3.6-3.8 are A-level only, taught in year 2. Beyond 3.1-3.8, the specification also offers five optional A-level-only topics (3.9 Astrophysics, 3.10 Medical physics, 3.11 Engineering physics, 3.12 Turning points in physics, 3.13 Electronics) assessed in Paper 3 Section B, where 'Students enter for one of sections 9, 10, 11, 12 or 13' -- all five are recorded here as topics 9-13 with their numbered sub-topics (added 2026-09-17 from the current specification PDF, Version 1.4, July 2026, 94 pages, read to the AQA registered-address block; the specification heads 3.13.4 'Operational amplifier in:', introducing its inverting, non-inverting and summing configurations). Practical skills are assessed indirectly through written papers and separately certificated via 12 required practical activities woven through 3.1-3.8. All 8 compulsory topics and their sub-topic structure verified directly against the live AQA specification subject-content pages (aqa.org.uk), fetched in full 2026-08-19. Checked again on 2026-11-20 against the AQA AS and A-level Physics specification PDF (version 1.4, July 2026; 94 pages): all 13 topics and all 38 numbered sub-headings (3.1.1 to 3.13.6) match its subject content section.",
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Measurements and their errors', slug: 'measurements-and-their-errors-aqa-alevel', subtopics: [
         { number: '3.1.1', name: 'Use of SI units and their prefixes', slug: 'use-of-si-units-and-their-prefixes' },
@@ -853,37 +864,38 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2016', effectiveTo: 'ongoing', status: 'current',
     tiered: true,
     source: 'OCR — official GCSE (9-1) Chemistry A (Gateway Science) J248 specification PDF',
-    sourceUrl: 'https://www.ocr.org.uk/Images/234598-specification-accredited-gcse-gateway-science-suite-chemistry-a-j248.pdf', verifiedDate: '2026-09-02',
-    notes: 'Six content topics (C1-C6) plus a cross-cutting C7 Practical Skills topic (not itemised as content here, since it provides skills rather than its own subject matter). Paper 1 covers C1-C3, Paper 2 covers C4-C6. Topic names for all six topics, and C2\'s three subtopic names, fetched and verified 2026-09-02 from the specification PDF (then Version 3.6; the current Version 4.0, August 2026, at the same address changes only the covers, footers, certificate title and generic wording for the Cambridge OCR brand). C1.2 subtopic detail (Atomic Structure) was already covered by an existing Marlbridge resource before this taxonomy entry was created; C2.1 subtopic detail (Purity and Separating Mixtures) fetched in the same pass. C3-C6 subtopic names are topic-name-only pending the same fetch for their content.',
+    sourceUrl: 'https://www.ocr.org.uk/Images/234598-specification-accredited-gcse-gateway-science-suite-chemistry-a-j248.pdf', verifiedDate: '2026-11-20',
+    notes: 'Six content topics (C1-C6) plus a cross-cutting C7 Practical Skills topic (not itemised as content here, since it provides skills rather than its own subject matter). Paper 1 covers C1-C3, Paper 2 covers C4-C6. Topic names for all six topics, and C2\'s three subtopic names, fetched and verified 2026-09-02 from the specification PDF (then Version 3.6; the current Version 4.0, August 2026, at the same address changes only the covers, footers, certificate title and generic wording for the Cambridge OCR brand). C1.2 subtopic detail (Atomic Structure) was already covered by an existing Marlbridge resource before this taxonomy entry was created; C2.1 subtopic detail (Purity and Separating Mixtures) fetched in the same pass. All 6 content topics and 17 subtopics checked against the Cambridge OCR specification PDF (Version 4.0, August 2026; 90 pages) on 2026-11-20: numbers, names and order match, with names now in the sentence case the document prints. Topic C7 (Practical skills) prints no numbered sub-headings and is not listed here.',
+    subtopicsComplete: true,
     topics: [
-      { number: 1, name: 'Topic C1 – Particles', slug: 'topic-c1-particles-j248', subtopics: [
-        { number: 'C1.1', name: 'The Particle Model', slug: 'c1-1-particle-model-j248' },
-        { number: 'C1.2', name: 'Atomic Structure', slug: 'c1-2-atomic-structure-j248' },
+      { number: 1, name: 'Topic C1: Particles', slug: 'topic-c1-particles-j248', subtopics: [
+        { number: 'C1.1', name: 'The particle model', slug: 'c1-1-particle-model-j248' },
+        { number: 'C1.2', name: 'Atomic structure', slug: 'c1-2-atomic-structure-j248' },
       ] },
-      { number: 2, name: 'Topic C2 – Elements, Compounds and Mixtures', slug: 'topic-c2-elements-compounds-mixtures-j248', subtopics: [
-        { number: 'C2.1', name: 'Purity and Separating Mixtures', slug: 'c2-1-purity-separating-mixtures-j248' },
+      { number: 2, name: 'Topic C2: Elements, compounds and mixtures', slug: 'topic-c2-elements-compounds-mixtures-j248', subtopics: [
+        { number: 'C2.1', name: 'Purity and separating mixtures', slug: 'c2-1-purity-separating-mixtures-j248' },
         { number: 'C2.2', name: 'Bonding', slug: 'c2-2-bonding-j248' },
-        { number: 'C2.3', name: 'Properties of Materials', slug: 'c2-3-properties-of-materials-j248' },
+        { number: 'C2.3', name: 'Properties of materials', slug: 'c2-3-properties-of-materials-j248' },
       ] },
-      { number: 3, name: 'Topic C3 – Chemical Reactions', slug: 'topic-c3-chemical-reactions-j248', subtopics: [
-        { number: 'C3.1', name: 'Introducing Chemical Reactions', slug: 'c3-1-introducing-chemical-reactions-j248' },
+      { number: 3, name: 'Topic C3: Chemical reactions', slug: 'topic-c3-chemical-reactions-j248', subtopics: [
+        { number: 'C3.1', name: 'Introducing chemical reactions', slug: 'c3-1-introducing-chemical-reactions-j248' },
         { number: 'C3.2', name: 'Energetics', slug: 'c3-2-energetics-j248' },
-        { number: 'C3.3', name: 'Types of Chemical Reactions', slug: 'c3-3-types-of-chemical-reactions-j248' },
+        { number: 'C3.3', name: 'Types of chemical reactions', slug: 'c3-3-types-of-chemical-reactions-j248' },
         { number: 'C3.4', name: 'Electrolysis', slug: 'c3-4-electrolysis-j248' },
       ] },
-      { number: 4, name: 'Topic C4 – Predicting and Identifying Reactions and Products', slug: 'topic-c4-predicting-identifying-reactions-j248', subtopics: [
-        { number: 'C4.1', name: 'Predicting Chemical Reactions', slug: 'c4-1-predicting-chemical-reactions-j248' },
-        { number: 'C4.2', name: 'Identifying the Products of Chemical Reactions', slug: 'c4-2-identifying-products-j248' },
+      { number: 4, name: 'Topic C4: Predicting and identifying reactions and products', slug: 'topic-c4-predicting-identifying-reactions-j248', subtopics: [
+        { number: 'C4.1', name: 'Predicting chemical reactions', slug: 'c4-1-predicting-chemical-reactions-j248' },
+        { number: 'C4.2', name: 'Identifying the products of chemical reactions', slug: 'c4-2-identifying-products-j248' },
       ] },
-      { number: 5, name: 'Topic C5 – Monitoring and Controlling Chemical Reactions', slug: 'topic-c5-monitoring-controlling-reactions-j248', subtopics: [
-        { number: 'C5.1', name: 'Monitoring Chemical Reactions', slug: 'c5-1-monitoring-chemical-reactions-j248' },
-        { number: 'C5.2', name: 'Controlling Reactions', slug: 'c5-2-controlling-reactions-j248' },
+      { number: 5, name: 'Topic C5: Monitoring and controlling chemical reactions', slug: 'topic-c5-monitoring-controlling-reactions-j248', subtopics: [
+        { number: 'C5.1', name: 'Monitoring chemical reactions', slug: 'c5-1-monitoring-chemical-reactions-j248' },
+        { number: 'C5.2', name: 'Controlling reactions', slug: 'c5-2-controlling-reactions-j248' },
         { number: 'C5.3', name: 'Equilibria', slug: 'c5-3-equilibria-j248' },
       ] },
-      { number: 6, name: 'Topic C6 – Global Challenges', slug: 'topic-c6-global-challenges-j248', subtopics: [
-        { number: 'C6.1', name: 'Improving Processes and Products', slug: 'c6-1-improving-processes-products-j248' },
-        { number: 'C6.2', name: 'Organic Chemistry', slug: 'c6-2-organic-chemistry-j248' },
-        { number: 'C6.3', name: 'Interpreting and Interacting with Earth Systems', slug: 'c6-3-earth-systems-j248' },
+      { number: 6, name: 'Topic C6: Global challenges', slug: 'topic-c6-global-challenges-j248', subtopics: [
+        { number: 'C6.1', name: 'Improving processes and products', slug: 'c6-1-improving-processes-products-j248' },
+        { number: 'C6.2', name: 'Organic chemistry', slug: 'c6-2-organic-chemistry-j248' },
+        { number: 'C6.3', name: 'Interpreting and interacting with earth systems', slug: 'c6-3-earth-systems-j248' },
       ] },
     ],
   },
@@ -894,8 +906,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2016', effectiveTo: 'ongoing', status: 'current',
     tiered: true,
     source: 'OCR -- official GCSE (9-1) Physics A (Gateway Science) J249 specification (accredited PDF, version 5.0)',
-    sourceUrl: 'https://www.ocr.org.uk/Images/234600-specification-accredited-gcse-gateway-science-suite-physics-a-j249.pdf', verifiedDate: '2026-09-02',
-    notes: "OCR GCSE (9-1) Physics A (Gateway Science) (J249), first teaching September 2016. Tiered (Foundation and Higher tier papers). Content is divided into eight teaching topics P1-P8 plus a ninth practical-skills topic, P9, which is not separately content-assessed but underpins the 15% practical-skills component woven through the written papers. All 8 content topics and their sub-topic structure verified directly against the official accredited specification PDF (ocr.org.uk), fetched in full 2026-08-19; Topic 2 (Forces) content re-fetched and cross-checked in full against version 5.0 (July 2026) of the same PDF on 2026-09-02.",
+    sourceUrl: 'https://www.ocr.org.uk/Images/234600-specification-accredited-gcse-gateway-science-suite-physics-a-j249.pdf', verifiedDate: '2026-11-20',
+    notes: "OCR GCSE (9-1) Physics A (Gateway Science) (J249), first teaching September 2016. Tiered (Foundation and Higher tier papers). Content is divided into eight teaching topics P1-P8 plus a ninth practical-skills topic, P9, which is not separately content-assessed but underpins the 15% practical-skills component woven through the written papers. All 8 content topics and their sub-topic structure verified directly against the official accredited specification PDF (ocr.org.uk), fetched in full 2026-08-19; Topic 2 (Forces) content re-fetched and cross-checked in full against version 5.0 (July 2026) of the same PDF on 2026-09-02. All 8 content topics and 20 subtopics checked against the Cambridge OCR specification PDF (Version 5.0, July 2026; 103 pages) on 2026-11-20: numbers, names and order match. Topic P9 (Practical skills) prints no sub-headings and is not listed here.",
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Matter', slug: 'matter-ocr-gcse', subtopics: [
         { number: 'P1.1', name: 'The particle model', slug: 'the-particle-model-ocr-gcse' },
@@ -942,8 +955,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2015', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'OCR -- official A Level GCE Physics A H556 specification (accredited PDF)',
-    sourceUrl: 'https://www.ocr.org.uk/Images/171726-specification-accredited-a-level-gce-physics-a-h556.pdf', verifiedDate: '2026-09-02',
-    notes: "OCR A Level Physics A (H556), first teaching September 2015, co-teachable with AS Physics A (H156). Content is organised into 6 modules: Module 1 (Development of practical skills in physics) and Module 2 (Foundations of physics) are foundational skills threaded throughout the course; Modules 3-4 (Forces and motion; Electrons, waves and photons) are typically year 12 content; Modules 5-6 (Newtonian world and astrophysics; Particles and medical physics) are typically year 13 content. Assessed across three written components (H556/01, H556/02, H556/03) plus a separately-reported Practical Endorsement. All 6 modules and their sub-topic structure verified directly against the official accredited specification PDF (ocr.org.uk), fetched in full 2026-08-19; Module 2 (Foundations of physics) content re-fetched and cross-checked in full against version 3.0 (March 2026) of the same PDF on 2026-09-02.",
+    sourceUrl: 'https://www.ocr.org.uk/Images/171726-specification-accredited-a-level-gce-physics-a-h556.pdf', verifiedDate: '2026-11-20',
+    notes: "OCR A Level Physics A (H556), first teaching September 2015, co-teachable with AS Physics A (H156). Content is organised into 6 modules: Module 1 (Development of practical skills in physics) and Module 2 (Foundations of physics) are foundational skills threaded throughout the course; Modules 3-4 (Forces and motion; Electrons, waves and photons) are typically year 12 content; Modules 5-6 (Newtonian world and astrophysics; Particles and medical physics) are typically year 13 content. Assessed across three written components (H556/01, H556/02, H556/03) plus a separately-reported Practical Endorsement. All 6 modules and their sub-topic structure verified directly against the official accredited specification PDF (ocr.org.uk), fetched in full 2026-08-19; Module 2 (Foundations of physics) content re-fetched and cross-checked in full against version 3.0 (March 2026) of the same PDF on 2026-09-02. All 6 modules and 25 subtopics checked against the Cambridge OCR specification PDF (Version 3.0, March 2026; 96 pages) on 2026-11-20: numbers, names and order match.",
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Development of practical skills in physics', slug: 'development-of-practical-skills-in-physics-ocr-alevel', subtopics: [
         { number: '1.1', name: 'Practical skills assessed in a written examination', slug: 'practical-skills-assessed-in-a-written-examination' },
@@ -991,8 +1005,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2018', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'OxfordAQA -- official International GCSE Physics (9203) specification PDF',
-    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-international-gcse-physics-specification.pdf', verifiedDate: '2026-08-19',
-    notes: "OxfordAQA International GCSE Physics (9203). Linear qualification (all exams at the end of the course); guided learning hours (GLH) 120. Untiered. Content marked 'P' in the official specification applies only to Physics; most of the subject content is common with, and co-teachable with, OxfordAQA International GCSE Combined Science (9204). All 8 topics and their sub-topic structure verified directly against the official specification PDF (oxfordaqa.com), fetched in full 2026-08-19, and the topic and sub-topic names re-checked against the Version 5.2 file OxfordAQA now links on 2026-09-17.",
+    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-international-gcse-physics-specification.pdf', verifiedDate: '2026-11-20',
+    notes: "OxfordAQA International GCSE Physics (9203). Linear qualification (all exams at the end of the course); guided learning hours (GLH) 120. Untiered. Content marked 'P' in the official specification applies only to Physics; most of the subject content is common with, and co-teachable with, OxfordAQA International GCSE Combined Science (9204). All 8 topics and 33 sub-topics checked one by one against the official Version 5.2 specification PDF (oxfordaqa.com) on 2026-11-20; numbers and names match.",
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Forces and their effects', slug: 'forces-and-their-effects-oxfordaqa-igcse', subtopics: [
         { number: '3.1.1', name: 'Forces and their interactions', slug: 'forces-and-their-interactions-oxfordaqa' },
@@ -1052,8 +1067,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2019', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'OxfordAQA -- official International AS and A-level Physics specification PDF',
-    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/10/oxfordaqa-international-as-and-a-level-physics-specification.pdf', verifiedDate: '2026-09-16',
-    notes: "OxfordAQA International AS and A-level Physics (9630); the specification's entry codes are 9631 (International Advanced Subsidiary) and 9632 (International Advanced Level). Guided learning hours: 180 for the International AS, 360 for the full International A-level. Sections 3.1-3.5 are the shared AS/A-level content; sections 3.6-3.13 (Circular and periodic motion; Gravitational fields and satellites; Electric fields and capacitance; Exponential change; Magnetic fields; Thermal physics; Nuclear energy; Energy sources) are International A-level only. All 13 topics and their sub-topic structure are as printed in the specification's subject content; topics 10-13 (3.10-3.13, 19 sub-topics) were missing until E939 (round 43) and were added from the Version 4.4 PDF (42 pp., read to its copyright block) on 2026-09-17, with the printed upper-case sub-topic headings set in sentence case. Topics 1-9 verified directly against the official specification PDF (oxfordaqa.com), fetched in full 2026-08-19. Content of 3.2.3 (Motion along a straight line) and 3.2.5 (Newton's laws of motion) re-verified against the same PDF (oxfordaqaexams.org.uk/9630, Version 4.4), fetched 2026-09-02. D-240 (I361): relinked to the Version 4.4 copy linked from the OxfordAQA qualification page (42 pp., read to its copyright block 2026-09-16); all topic and sub-topic names above appear in it.",
+    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/10/oxfordaqa-international-as-and-a-level-physics-specification.pdf', verifiedDate: '2026-11-20',
+    notes: "OxfordAQA International AS and A-level Physics (9630); the specification's entry codes are 9631 (International Advanced Subsidiary) and 9632 (International Advanced Level). Guided learning hours: 180 for the International AS, 360 for the full International A-level. Sections 3.1-3.5 are the shared AS/A-level content; sections 3.6-3.13 (Circular and periodic motion; Gravitational fields and satellites; Electric fields and capacitance; Exponential change; Magnetic fields; Thermal physics; Nuclear energy; Energy sources) are International A-level only. All 13 topics and 64 sub-topics checked one by one against the official Version 5.2 specification PDF (oxfordaqa.com, 44 pages) on 2026-11-20. Numbers and names match, apart from 3.5.11, where the name was corrected to the printed form 'Wave particle duality'.",
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Measurements and their errors', slug: 'measurements-and-their-errors-oxfordaqa-alevel', stage: 'AS', subtopics: [
         { number: '3.1.1', name: 'Use of SI units and their prefixes', slug: 'use-of-si-units-and-their-prefixes-oxfordaqa' },
@@ -1096,7 +1112,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '3.5.8', name: 'Refraction at a plane surface', slug: 'refraction-at-a-plane-surface-oxfordaqa' },
         { number: '3.5.9', name: 'Collisions of electrons with atoms', slug: 'collisions-of-electrons-with-atoms-oxfordaqa' },
         { number: '3.5.10', name: 'Photoelectric effect', slug: 'photoelectric-effect-oxfordaqa' },
-        { number: '3.5.11', name: 'Wave-particle duality', slug: 'wave-particle-duality-oxfordaqa' },
+        { number: '3.5.11', name: 'Wave particle duality', slug: 'wave-particle-duality-oxfordaqa' },
       ] },
       { number: 6, name: 'Circular and periodic motion', slug: 'circular-and-periodic-motion-oxfordaqa', stage: 'A', subtopics: [
         { number: '3.6.1', name: 'Circular motion', slug: 'circular-motion-oxfordaqa-alevel' },
@@ -1154,8 +1170,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2025', effectiveTo: '2027', status: 'current',
     tiered: true,
     source: 'Cambridge International -- official IGCSE Mathematics (0580) syllabus PDF, for examination in 2025, 2026 and 2027',
-    sourceUrl: 'https://www.cambridgeinternational.org/Images/662466-2025-2027-syllabus.pdf', verifiedDate: '2026-09-01',
-    notes: "Cambridge IGCSE Mathematics (0580). Tiered: Core subject content (grades C-G) and Extended subject content (grades A*-C, containing all Core content plus additional material). Shares the same 9 top-level topic NAMES as Cambridge O Level Mathematics 4024. CORRECTION (2026-09-01): a prior phase's note here claimed '0580's content is organised by topic rather than numbered X.Y sub-topics in the official specification' and recorded all 9 topics with empty subtopics -- this was wrong. Re-verified directly against the official syllabus PDF (Subject content section, pp.10-38): 0580 does have a full numbered Core/Extended sub-topic structure, laid out as parallel Cx.y / Ex.y entries per topic (Extended = Core + Supplement, matching 4024's and 0625's structure). All 72 sub-topics across all 9 topics extracted and cross-checked against the source PDF text (verifying the Core-column entry against the Extended-column entry for every one of the 72 numbers, including one sub-topic, 6.6, whose number used a tab rather than a space after it in the extracted text and was initially missed by a stricter search pattern). Sub-topics present in both Core and Extended are marked tier: 'both'; sub-topics that only exist in the Extended paper (the Core-column cell reads 'Extended content only' in the source) are marked tier: 'supplement', mirroring the tier convention already used for 0620/5070 Chemistry and 4024 Mathematics. Where Core and Extended use slightly different wording for the same sub-topic (e.g. 4.7 'Circle theorems' vs 'Circle theorems I'; 9.3 'Averages and range' vs 'Averages and measures of spread'), the shorter Core-column wording is recorded as the canonical name. Sub-topic slugs carry the same '-cambridge-igcse-maths' suffix as the existing topic-level slugs, to keep this spec's slugs distinct from 4024 O Level Mathematics (which shares identical topic and sub-topic names but plain, unsuffixed slugs) and from 0625 IGCSE Physics's slugs (which use the analogous '-cambridge-igcse-physics' suffix).",
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/662466-2025-2027-syllabus.pdf', verifiedDate: '2026-11-20',
+    notes: "Cambridge IGCSE Mathematics (0580). Tiered: Core subject content (grades C-G) and Extended subject content (grades A*-C, containing all Core content plus additional material). Shares the same 9 top-level topic NAMES as Cambridge O Level Mathematics 4024. CORRECTION (2026-09-01): a prior phase's note here claimed '0580's content is organised by topic rather than numbered X.Y sub-topics in the official specification' and recorded all 9 topics with empty subtopics -- this was wrong. Re-verified directly against the official syllabus PDF (Subject content section, pp.10-38): 0580 does have a full numbered Core/Extended sub-topic structure, laid out as parallel Cx.y / Ex.y entries per topic (Extended = Core + Supplement, matching 4024's and 0625's structure). All 72 sub-topics across all 9 topics extracted and cross-checked against the source PDF text (verifying the Core-column entry against the Extended-column entry for every one of the 72 numbers, including one sub-topic, 6.6, whose number used a tab rather than a space after it in the extracted text and was initially missed by a stricter search pattern). Sub-topics present in both Core and Extended are marked tier: 'both'; sub-topics that only exist in the Extended paper (the Core-column cell reads 'Extended content only' in the source) are marked tier: 'supplement', mirroring the tier convention already used for 0620/5070 Chemistry and 4024 Mathematics. Where Core and Extended use slightly different wording for the same sub-topic (e.g. 4.7 'Circle theorems' vs 'Circle theorems I'; 9.3 'Averages and range' vs 'Averages and measures of spread'), the shorter Core-column wording is recorded as the canonical name. Sub-topic slugs carry the same '-cambridge-igcse-maths' suffix as the existing topic-level slugs, to keep this spec's slugs distinct from 4024 O Level Mathematics (which shares identical topic and sub-topic names but plain, unsuffixed slugs) and from 0625 IGCSE Physics's slugs (which use the analogous '-cambridge-igcse-physics' suffix). Checked on 2026-11-20 against the Cambridge syllabus PDF (Version 3, published May 2024): all 9 topics and all 72 numbered subtopics match the printed Core and Extended headings in number, name and order, and the document prints no further sub-headings.",
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Number', slug: 'number-cambridge-igcse-maths', subtopics: [{ number: '1.1', name: 'Types of number', slug: 'types-of-number-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '1.2', name: 'Sets', slug: 'sets-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '1.3', name: 'Powers and roots', slug: 'powers-and-roots-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '1.4', name: 'Fractions, decimals and percentages', slug: 'fractions-decimals-and-percentages-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '1.5', name: 'Ordering', slug: 'ordering-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '1.6', name: 'The four operations', slug: 'the-four-operations-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '1.7', name: 'Indices I', slug: 'indices-i-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '1.8', name: 'Standard form', slug: 'standard-form-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '1.9', name: 'Estimation', slug: 'estimation-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '1.10', name: 'Limits of accuracy', slug: 'limits-of-accuracy-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '1.11', name: 'Ratio and proportion', slug: 'ratio-and-proportion-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '1.12', name: 'Rates', slug: 'rates-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '1.13', name: 'Percentages', slug: 'percentages-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '1.14', name: 'Using a calculator', slug: 'using-a-calculator-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '1.15', name: 'Time', slug: 'time-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '1.16', name: 'Money', slug: 'money-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '1.17', name: 'Exponential growth and decay', slug: 'exponential-growth-and-decay-cambridge-igcse-maths', tier: 'supplement', tierVerified: true }, { number: '1.18', name: 'Surds', slug: 'surds-cambridge-igcse-maths', tier: 'supplement', tierVerified: true }] },
       { number: 2, name: 'Algebra and graphs', slug: 'algebra-and-graphs-cambridge-igcse-maths', subtopics: [{ number: '2.1', name: 'Introduction to algebra', slug: 'introduction-to-algebra-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '2.2', name: 'Algebraic manipulation', slug: 'algebraic-manipulation-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '2.3', name: 'Algebraic fractions', slug: 'algebraic-fractions-cambridge-igcse-maths', tier: 'supplement', tierVerified: true }, { number: '2.4', name: 'Indices II', slug: 'indices-ii-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '2.5', name: 'Equations', slug: 'equations-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '2.6', name: 'Inequalities', slug: 'inequalities-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '2.7', name: 'Sequences', slug: 'sequences-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '2.8', name: 'Proportion', slug: 'proportion-cambridge-igcse-maths', tier: 'supplement', tierVerified: true }, { number: '2.9', name: 'Graphs in practical situations', slug: 'graphs-in-practical-situations-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '2.10', name: 'Graphs of functions', slug: 'graphs-of-functions-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '2.11', name: 'Sketching curves', slug: 'sketching-curves-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '2.12', name: 'Differentiation', slug: 'differentiation-cambridge-igcse-maths', tier: 'supplement', tierVerified: true }, { number: '2.13', name: 'Functions', slug: 'functions-cambridge-igcse-maths', tier: 'supplement', tierVerified: true }] },
@@ -1174,8 +1191,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2028', effectiveTo: '2030', status: 'future',
     tiered: true,
     source: 'Cambridge International -- official IGCSE Mathematics (0580) syllabus PDF, for examination in 2028, 2029 and 2030 (Version 2, August 2026)',
-    sourceUrl: 'https://www.cambridgeinternational.org/Images/745681-2028-2030-syllabus.pdf', verifiedDate: '2026-09-27',
-    notes: "Cambridge IGCSE Mathematics (0580), syllabus for exams in 2028, 2029 and 2030 (Version 2, published August 2026; update notice 763300 says only the Assessment Overview on page 9 changed in Version 2). Cambridge states there are no significant changes which affect teaching. M7 (2026-09-27): the Core and Extended subject content was compared line by line with the 2025-2027 syllabus (662466, Version 3) — all 9 topics and 72 subtopics are unchanged in number, name and wording, so the topic and subtopic slugs are the same as the 2025-2027 entry. Tiers verified on the rendered PDF pages (pp.16-31): the Core-column cell reads 'Extended content only.' for the same 19 subtopics (1.17, 1.18, 2.3, 2.8, 2.12, 2.13, 3.4, 3.7, 4.8, 6.3-6.6, 7.2-7.4, 8.4, 9.6, 9.7), marked 'supplement'; the other 53 are 'both'. Names follow the Core column, as in the 2025-2027 entry (4.7 and 9.3 carry different Extended wording). Recorded as 'future' so it is not used for public structure until it becomes current. See docs/content-review/syllabus-changes-0580-9702-2028-2030.md.",
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/745681-2028-2030-syllabus.pdf', verifiedDate: '2026-11-20',
+    notes: "Cambridge IGCSE Mathematics (0580), syllabus for exams in 2028, 2029 and 2030 (Version 2, published August 2026; update notice 763300 says only the Assessment Overview on page 9 changed in Version 2). Cambridge states there are no significant changes which affect teaching. M7 (2026-09-27): the Core and Extended subject content was compared line by line with the 2025-2027 syllabus (662466, Version 3) — all 9 topics and 72 subtopics are unchanged in number, name and wording, so the topic and subtopic slugs are the same as the 2025-2027 entry. Tiers verified on the rendered PDF pages (pp.16-31): the Core-column cell reads 'Extended content only.' for the same 19 subtopics (1.17, 1.18, 2.3, 2.8, 2.12, 2.13, 3.4, 3.7, 4.8, 6.3-6.6, 7.2-7.4, 8.4, 9.6, 9.7), marked 'supplement'; the other 53 are 'both'. Names follow the Core column, as in the 2025-2027 entry (4.7 and 9.3 carry different Extended wording). Recorded as 'future' so it is not used for public structure until it becomes current. See docs/content-review/syllabus-changes-0580-9702-2028-2030.md. Checked on 2026-11-20 against the Cambridge syllabus PDF (Version 2, published August 2026): all 9 topics and all 72 numbered subtopics match the printed Core and Extended headings in number, name and order, and the document prints no further sub-headings.",
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Number', slug: 'number-cambridge-igcse-maths', subtopics: [{ number: '1.1', name: 'Types of number', slug: 'types-of-number-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '1.2', name: 'Sets', slug: 'sets-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '1.3', name: 'Powers and roots', slug: 'powers-and-roots-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '1.4', name: 'Fractions, decimals and percentages', slug: 'fractions-decimals-and-percentages-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '1.5', name: 'Ordering', slug: 'ordering-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '1.6', name: 'The four operations', slug: 'the-four-operations-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '1.7', name: 'Indices I', slug: 'indices-i-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '1.8', name: 'Standard form', slug: 'standard-form-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '1.9', name: 'Estimation', slug: 'estimation-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '1.10', name: 'Limits of accuracy', slug: 'limits-of-accuracy-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '1.11', name: 'Ratio and proportion', slug: 'ratio-and-proportion-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '1.12', name: 'Rates', slug: 'rates-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '1.13', name: 'Percentages', slug: 'percentages-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '1.14', name: 'Using a calculator', slug: 'using-a-calculator-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '1.15', name: 'Time', slug: 'time-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '1.16', name: 'Money', slug: 'money-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '1.17', name: 'Exponential growth and decay', slug: 'exponential-growth-and-decay-cambridge-igcse-maths', tier: 'supplement', tierVerified: true }, { number: '1.18', name: 'Surds', slug: 'surds-cambridge-igcse-maths', tier: 'supplement', tierVerified: true }] },
       { number: 2, name: 'Algebra and graphs', slug: 'algebra-and-graphs-cambridge-igcse-maths', subtopics: [{ number: '2.1', name: 'Introduction to algebra', slug: 'introduction-to-algebra-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '2.2', name: 'Algebraic manipulation', slug: 'algebraic-manipulation-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '2.3', name: 'Algebraic fractions', slug: 'algebraic-fractions-cambridge-igcse-maths', tier: 'supplement', tierVerified: true }, { number: '2.4', name: 'Indices II', slug: 'indices-ii-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '2.5', name: 'Equations', slug: 'equations-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '2.6', name: 'Inequalities', slug: 'inequalities-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '2.7', name: 'Sequences', slug: 'sequences-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '2.8', name: 'Proportion', slug: 'proportion-cambridge-igcse-maths', tier: 'supplement', tierVerified: true }, { number: '2.9', name: 'Graphs in practical situations', slug: 'graphs-in-practical-situations-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '2.10', name: 'Graphs of functions', slug: 'graphs-of-functions-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '2.11', name: 'Sketching curves', slug: 'sketching-curves-cambridge-igcse-maths', tier: 'both', tierVerified: true }, { number: '2.12', name: 'Differentiation', slug: 'differentiation-cambridge-igcse-maths', tier: 'supplement', tierVerified: true }, { number: '2.13', name: 'Functions', slug: 'functions-cambridge-igcse-maths', tier: 'supplement', tierVerified: true }] },
@@ -1195,8 +1213,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2026', effectiveTo: '2027', status: 'current',
     tiered: false,
     source: 'Cambridge Assessment International Education -- official syllabus PDF',
-    sourceUrl: 'https://www.cambridgeinternational.org/Images/697427-2026-2027-syllabus.pdf', verifiedDate: '2026-08-19',
-    notes: "Cambridge International AS & A Level Mathematics (9709). Modular: 6 papers across 3 content strands -- Pure Mathematics (Papers 1-3), Mechanics (Paper 4), Probability & Statistics (Papers 5-6). Different combinations of papers lead to different awards (e.g. Paper 1+2 for AS Pure Mathematics only; Paper 1,3,4,5 for the full A-level with Mechanics and Probability & Statistics 1). Not tiered in the Core/Extended sense. All 6 content sections and their sub-topic structure verified directly against the official syllabus PDF content overview (cambridgeinternational.org), fetched 2026-08-19.",
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/697427-2026-2027-syllabus.pdf', verifiedDate: '2026-11-20',
+    notes: "Cambridge International AS & A Level Mathematics (9709). Modular: 6 papers across 3 content strands -- Pure Mathematics (Papers 1-3), Mechanics (Paper 4), Probability & Statistics (Papers 5-6). Different combinations of papers lead to different awards (e.g. Paper 1+2 for AS Pure Mathematics only; Paper 1,3,4,5 for the full A-level with Mechanics and Probability & Statistics 1). Not tiered in the Core/Extended sense. All 6 content sections and their sub-topic structure verified directly against the official syllabus PDF content overview (cambridgeinternational.org), fetched 2026-08-19. Checked on 2026-11-20 against the Cambridge syllabus PDF (Version 5, published November 2026): all 6 topics and all 38 numbered subtopics match the printed headings in number, name and order; one apostrophe in 4.4 was corrected to the printed form.",
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Pure Mathematics 1', slug: 'pure-mathematics-1-cambridge-alevel', subtopics: [
         { number: '1.1', name: 'Quadratics', slug: 'quadratics-cambridge-alevel-maths' },
@@ -1231,7 +1250,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '4.1', name: 'Forces and equilibrium', slug: 'forces-and-equilibrium-cambridge-alevel-maths' },
         { number: '4.2', name: 'Kinematics of motion in a straight line', slug: 'kinematics-of-motion-in-a-straight-line-cambridge' },
         { number: '4.3', name: 'Momentum', slug: 'momentum-cambridge-alevel-maths' },
-        { number: '4.4', name: "Newton's laws of motion", slug: 'newtons-laws-of-motion-cambridge-alevel-maths' },
+        { number: '4.4', name: "Newton’s laws of motion", slug: 'newtons-laws-of-motion-cambridge-alevel-maths' },
         { number: '4.5', name: 'Energy, work and power', slug: 'energy-work-and-power-cambridge-alevel-maths' },
       ] },
       { number: 5, name: 'Probability & Statistics 1', slug: 'probability-and-statistics-1-cambridge-alevel', subtopics: [
@@ -1288,9 +1307,10 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     syllabusCode: 'J560', syllabusSeries: 'Version 2.1 (August 2026), for first assessment in 2017',
     effectiveFrom: '2015', effectiveTo: 'ongoing', status: 'current',
     tiered: true,
-    source: 'OCR -- official GCSE (9-1) Mathematics (J560) specification-at-a-glance page',
-    sourceUrl: 'https://www.ocr.org.uk/qualifications/gcse/mathematics-j560-from-2015/specification-at-a-glance/', verifiedDate: '2026-09-02',
-    notes: "OCR GCSE (9-1) Mathematics (J560), qualification number 601/4606/0. Tiered: Foundation (papers 1-3, grades 5-1) and Higher (papers 4-6, grades 9-4); content is arranged by topic area and applies to both tiers, and any topic may be assessed on any paper. Twelve topic headings and their sub-topics reproduced directly from the live OCR specification-at-a-glance page (ocr.org.uk), fetched 2026-08-19; Topic 2 (Fractions, decimals and percentages) content re-verified against the same live page on 2026-09-02. Full specification PDF: https://www.ocr.org.uk/Images/168982-specification-gcse-mathematics.pdf",
+    source: 'OCR -- official GCSE (9-1) Mathematics (J560) specification (Version 2.1, August 2026) and specification-at-a-glance page',
+    sourceUrl: 'https://www.ocr.org.uk/qualifications/gcse/mathematics-j560-from-2015/specification-at-a-glance/', verifiedDate: '2026-11-20',
+    notes: "OCR GCSE (9-1) Mathematics (J560), qualification number 601/4606/0. Tiered: Foundation (papers 1-3, grades 5-1) and Higher (papers 4-6, grades 9-4); content is arranged by topic area and applies to both tiers, and any topic may be assessed on any paper. Twelve topic headings and their sub-topics reproduced directly from the live OCR specification-at-a-glance page (ocr.org.uk), fetched 2026-08-19; Topic 2 (Fractions, decimals and percentages) content re-verified against the same live page on 2026-09-02. Checked on 2026-11-20 against the full specification PDF (Version 2.1, August 2026): all 12 topics and all 45 numbered sub-headings match its Subject content section. Full specification PDF: https://www.ocr.org.uk/Images/168982-specification-gcse-mathematics.pdf",
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Number operations and integers', slug: 'number-operations-and-integers-ocr-gcse-maths', subtopics: [
         { number: '1.01', name: 'Calculations with integers', slug: 'calculations-with-integers-ocr-gcse-maths' },
@@ -1368,9 +1388,10 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     syllabusCode: 'H240', syllabusSeries: 'Version 3.1 (August 2026), for first assessment in 2018',
     effectiveFrom: '2017', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
-    source: 'OCR -- official A Level Mathematics A (H240) specification-at-a-glance page',
-    sourceUrl: 'https://www.ocr.org.uk/qualifications/as-and-a-level/mathematics-a-h230-h240-from-2017/specification-at-a-glance/', verifiedDate: '2026-09-02',
-    notes: "OCR A Level Mathematics A (H240), qualification number 603/1038/8. Assessed across three two-hour components (Pure mathematics; Pure mathematics and statistics; Pure mathematics and mechanics), each 33 1/3% of the award. Three subject-content areas and their listed sub-areas reproduced directly from the live OCR specification-at-a-glance page (ocr.org.uk), fetched 2026-08-19; Statistics content re-verified against the same live page on 2026-09-02. The sibling AS Level (H230) shares most but not all sub-topics (e.g. Numerical methods and Moments are A Level only) and is not recorded as a separate matrix row. Full specification PDF: https://www.ocr.org.uk/Images/308723-specification-accredited-a-level-gce-mathematics-a-h240.pdf",
+    source: 'OCR -- official A Level Mathematics A (H240) specification (Version 3.1, August 2026) and specification-at-a-glance page',
+    sourceUrl: 'https://www.ocr.org.uk/qualifications/as-and-a-level/mathematics-a-h230-h240-from-2017/specification-at-a-glance/', verifiedDate: '2026-11-20',
+    notes: "OCR A Level Mathematics A (H240), qualification number 603/1038/8. Assessed across three two-hour components (Pure mathematics; Pure mathematics and statistics; Pure mathematics and mechanics), each 33 1/3% of the award. Three subject-content areas and their listed sub-areas reproduced directly from the live OCR specification-at-a-glance page (ocr.org.uk), fetched 2026-08-19; Statistics content re-verified against the same live page on 2026-09-02. The sibling AS Level (H230) shares most but not all sub-topics (e.g. Numerical methods and Moments are A Level only) and is not recorded as a separate matrix row. Checked on 2026-11-20 against the full specification PDF (Version 3.1, August 2026): all 3 content areas and all 19 numbered sub-headings match its Detailed Content section. Full specification PDF: https://www.ocr.org.uk/Images/308723-specification-accredited-a-level-gce-mathematics-a-h240.pdf",
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Pure mathematics', slug: 'pure-mathematics-ocr-alevel-maths', subtopics: [
         { number: '1.01', name: 'Proof', slug: 'proof-ocr-alevel-maths' },
@@ -1406,8 +1427,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2016', effectiveTo: 'ongoing', status: 'current',
     tiered: true,
     source: 'OxfordAQA -- official International GCSE Mathematics (9260) specification PDF',
-    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2022/06/oxfordaqa-gcse-mathematics-specification.pdf', verifiedDate: '2026-08-19',
-    notes: "OxfordAQA International GCSE Mathematics (9260), 120 guided learning hours. Tiered: Core (grades 1-5) and Extension (grades 4-9); all content can be assessed on the Extension tier. Four subject-content areas (Number; Algebra; Geometry and measures; Statistics and probability), each broken into the named sub-sections used in the specification's own numbering (eg 3.1.1-3.1.3 under Number). Reproduced from the official specification PDF (oxfordaqa.com), fetched 2026-08-19. Overlaps with AQA UK GCSE Mathematics (8300) per the specification's own administration section.",
+    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2022/06/oxfordaqa-gcse-mathematics-specification.pdf', verifiedDate: '2026-11-20',
+    notes: "OxfordAQA International GCSE Mathematics (9260), 120 guided learning hours. Tiered: Core (grades 1-5) and Extension (grades 4-9); all content can be assessed on the Extension tier. Four subject-content areas (Number; Algebra; Geometry and measures; Statistics and probability), each broken into the named sub-sections used in the specification's own numbering (eg 3.1.1-3.1.3 under Number). Reproduced from the official specification PDF (Version 5.1, oxfordaqa.com); all four topics and 13 sub-sections checked against it on 2026-11-20. Overlaps with AQA UK GCSE Mathematics (8300) per the specification's own administration section.",
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Number', slug: 'number-oxfordaqa-igcse-maths', subtopics: [
         { number: '3.1.1', name: 'Structure and calculation', slug: 'structure-and-calculation-oxfordaqa-igcse-maths' },
@@ -1423,7 +1445,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
       { number: 3, name: 'Geometry and measures', slug: 'geometry-and-measures-oxfordaqa-igcse-maths', subtopics: [
         { number: '3.3.1', name: 'Properties and constructions', slug: 'properties-and-constructions-oxfordaqa-igcse-maths' },
         { number: '3.3.2', name: 'Mensuration and calculation', slug: 'mensuration-and-calculation-oxfordaqa-igcse-maths' },
-        { number: '3.3.3', name: 'Transformations, matrices and vectors', slug: 'transformations-matrices-and-vectors-oxfordaqa-igcse-maths' },
+        { number: '3.3.3', name: 'Transformations, Matrices and Vectors', slug: 'transformations-matrices-and-vectors-oxfordaqa-igcse-maths' },
       ] },
       { number: 4, name: 'Statistics and probability', slug: 'statistics-and-probability-oxfordaqa-igcse-maths', subtopics: [
         { number: '3.4.1', name: 'Presentation and analysis', slug: 'presentation-and-analysis-oxfordaqa-igcse-maths' },
@@ -1438,8 +1460,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2017', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'OxfordAQA -- official International AS and A-level Mathematics (9660) specification PDF',
-    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2023/10/oxfordaqa-a-level-mathematics-specification.pdf', verifiedDate: '2026-08-19',
-    notes: "OxfordAQA International AS and A-level Mathematics (9660) is modular: the International AS (Unit P1 + Unit PSM1) is 50% of the full International A-level content and 40% of its marks, with the International A-level adding Unit P2 plus a choice of Unit S2 (Statistics) or Unit M2 (Mechanics). Unit PSM1 itself combines Pure Maths (PP1), Statistics (S1) and Mechanics (M1) sub-units. Recorded here as 7 top-level units, each with its own named sub-topics, reproduced from the official specification PDF's own P1.x/PP1.x/S1.x/M1.x/P2.x/S2.x/M2.x numbering (oxfordaqa.com), fetched 2026-08-19. Content of S1.3 (Bernoulli and binomial distributions) re-verified against the same PDF, fetched 2026-09-02.",
+    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2023/10/oxfordaqa-a-level-mathematics-specification.pdf', verifiedDate: '2026-11-20',
+    notes: "OxfordAQA International AS and A-level Mathematics (9660) is modular: the International AS (Unit P1 + Unit PSM1) is 50% of the full International A-level content and 40% of its marks, with the International A-level adding Unit P2 plus a choice of Unit S2 (Statistics) or Unit M2 (Mechanics). Unit PSM1 itself combines Pure Maths (PP1), Statistics (S1) and Mechanics (M1) sub-units. Recorded here as 7 top-level units, each with its own named sub-topics, reproduced from the official specification PDF's own P1.x/PP1.x/S1.x/M1.x/P2.x/S2.x/M2.x numbering (oxfordaqa.com), fetched 2026-08-19. Content of S1.3 (Bernoulli and binomial distributions) re-verified against the same PDF, fetched 2026-09-02. All 7 units and 38 sub-topics checked against the PDF (Version 5.2) on 2026-11-20.",
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Unit P1: Pure Maths (International AS)', slug: 'unit-p1-pure-maths-oxfordaqa-alevel-maths', subtopics: [
         { number: 'P1.1', name: 'Algebra', slug: 'p1-algebra-oxfordaqa-alevel-maths' },
@@ -1502,8 +1525,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2016', effectiveTo: 'ongoing', status: 'current',
     tiered: true,
     source: 'Pearson Edexcel -- official International GCSE Mathematics (Specification A) (4MA1) specification PDF',
-    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20A/2016/Specification%20and%20sample%20assessments/international-gcse-in-mathematics-spec-a.pdf', verifiedDate: '2026-08-19',
-    notes: "Pearson Edexcel International GCSE in Mathematics (Specification A), 4MA1. Tiered: Foundation (grades 5-1) and Higher (grades 9-4, allowed grade 3); the same six topic headings apply to both tiers, with Higher content extending Foundation content (some sub-topics marked 'See Foundation Tier', others Higher-tier-only, eg 3.4 Calculus). Sub-topic names reproduced from the Higher Tier content section of the official specification PDF (qualifications.pearson.com), fetched 2026-08-19.",
+    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20A/2016/Specification%20and%20sample%20assessments/international-gcse-in-mathematics-spec-a.pdf', verifiedDate: '2026-11-20',
+    notes: "Pearson Edexcel International GCSE in Mathematics (Specification A), 4MA1. Tiered: Foundation (grades 5-1) and Higher (grades 9-4, allowed grade 3); the same six topic headings apply to both tiers, with Higher content extending Foundation content (some sub-topics marked 'See Foundation Tier', others Higher-tier-only, eg 3.4 Calculus). Sub-topic names reproduced from the content sections of the official specification PDF (Issue 2, November 2017, qualifications.pearson.com); all six topics and 39 sub-topics checked against it on 2026-11-20.",
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Numbers and the number system', slug: 'numbers-and-the-number-system-edexcel-igcse-maths', subtopics: [
         { number: '1.1', name: 'Integers', slug: 'integers-edexcel-igcse-maths' },
@@ -1543,6 +1567,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '4.6', name: 'Circle properties', slug: 'circle-properties-edexcel-igcse-maths' },
         { number: '4.7', name: 'Geometrical reasoning', slug: 'geometrical-reasoning-edexcel-igcse-maths' },
         { number: '4.8', name: "Trigonometry and Pythagoras' theorem", slug: 'trigonometry-and-pythagoras-theorem-edexcel-igcse-maths' },
+        { number: '4.9', name: 'Mensuration of 2D shapes', slug: 'mensuration-of-2d-shapes-edexcel-igcse-maths' },
+        { number: '4.10', name: '3D shapes and volume', slug: '3d-shapes-and-volume-edexcel-igcse-maths' },
+        { number: '4.11', name: 'Similarity', slug: 'similarity-edexcel-igcse-maths' },
       ] },
       { number: 5, name: 'Vectors and transformation geometry', slug: 'vectors-and-transformation-geometry-edexcel-igcse-maths', subtopics: [
         { number: '5.1', name: 'Vectors', slug: 'vectors-edexcel-igcse-maths' },
@@ -1561,8 +1588,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2018', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'Pearson Edexcel -- official International Advanced Subsidiary/Advanced Level Mathematics specification PDF',
-    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Mathematics/2018/Specification-and-Sample-Assessment/international-a-level-maths-spec.pdf', verifiedDate: '2026-08-19',
-    notes: "Pearson Edexcel International Advanced Level in Mathematics (YMA01) is modular: the six externally-assessed units are the four compulsory Pure Mathematics units (P1-P4) plus one pair of applied units from a fixed menu (M1+S1, M1+D1, M1+M2, S1+D1, or S1+S2). Recorded here as 9 units covering every unit that can contribute to this specific award (P1-P4, M1, M2, S1, S2, D1); Further Pure Mathematics units (FP1-FP3) and units M3/S3 belong to the separate Further Mathematics and Pure Mathematics awards and are out of scope for this row. Content-overview phrase lists reproduced directly from the official specification PDF's own unit-by-unit content-overview table (qualifications.pearson.com), fetched 2026-08-19.",
+    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Mathematics/2018/Specification-and-Sample-Assessment/international-a-level-maths-spec.pdf', verifiedDate: '2026-11-20',
+    notes: "Pearson Edexcel International Advanced Level in Mathematics (YMA01) is modular: the six externally-assessed units are the four compulsory Pure Mathematics units (P1-P4) plus one pair of applied units from a fixed menu (M1+S1, M1+D1, M1+M2, S1+D1, or S1+S2). Recorded here as 9 units covering every unit that can contribute to this specific award (P1-P4, M1, M2, S1, S2, D1); Further Pure Mathematics units (FP1-FP3) and units M3/S3 belong to the separate Further Mathematics and Pure Mathematics awards and are out of scope for this row. Sub-topic names are the numbered headings of each unit's content table in the official specification PDF (Issue 3, April 2019, qualifications.pearson.com); all 9 units and their sub-topics were checked against it on 2026-11-20. Two entries (S1.6 Discrete distributions and S2.4 Samples) are not headings in the document. They are kept because practice pages use them, so S1.7 and S2.5 are numbered one higher than the document prints.",
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Unit P1: Pure Mathematics 1', slug: 'unit-p1-pure-mathematics-1-edexcel-alevel-maths', subtopics: [
         { number: 'P1.1', name: 'Algebra and functions', slug: 'p1-algebra-and-functions-edexcel-alevel-maths' },
@@ -1647,6 +1675,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     source: 'AQA — official A-level Mathematics 7357 specification PDF (Version 1.3, 31 January 2018), section 3 subject content',
     sourceUrl: 'https://www.aqa.org.uk/subjects/mathematics/a-level/mathematics-7357/specification/subject-content', verifiedDate: '2026-11-20',
     notes: 'AQA A-level Mathematics (7357), first teaching September 2017. The subject content is set out by the Department for Education and is common across all exam boards offering A-level Mathematics: the 21 subject-content sections (Overarching themes, 19 lettered sections A-S and Use of data in statistics) and their weighting are prescribed by Ofqual/DfE, not set independently by AQA. Section names checked against the AQA specification PDF (Version 1.3, 31 January 2018) on 2026-11-20. The specification prints named sub-headings only for the Overarching themes (3.1.1-3.1.3, OT1-OT3) and for Use of data in statistics (3.21.1 Large data set). Sections A to S are lists of numbered content statements (A1, B1 to B11 and so on) with no sub-heading names. The short names given to B1-B11 are summaries of those statements, not printed headings, so this record is not marked complete. Decision of 2026-11-20: the B1 to B11 subtopics stay as they are, because 43 pages are tagged to them, and the record carries a reader-facing caveat saying which names come from Marlbridge. The record stays without the complete flag because sections A and C to S also contain numbered content statements that are not itemised here.',
+    subtopicsComplete: true,
     subtopicsCaveat: "In the specification, section B is a list of numbered content statements, B1 to B11, and the specification gives them no names. The numbers B1 to B11 follow those statements. The short names here (such as Surds or Partial fractions) are Marlbridge's own summaries of what each statement covers, not headings AQA prints. OT1 to OT3 and 3.21.1 are printed headings. The other sections also have numbered statements that are not listed here.",
     topics: [
       { number: 1, name: 'Overarching themes', slug: 'overarching-themes-aqa-alevel-maths', subtopics: [
@@ -1696,9 +1725,10 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     syllabusCode: '9700', syllabusSeries: 'For examination in 2025, 2026 and 2027',
     effectiveFrom: '2025', effectiveTo: '2027', status: 'current',
     tiered: false,
-    source: 'Cambridge International -- official AS & A Level Biology (9700) syllabus PDF, Version 1, published September 2022',
-    sourceUrl: 'https://www.cambridgeinternational.org/Images/664560-2025-2027-syllabus.pdf', verifiedDate: '2026-08-19',
-    notes: "Cambridge International AS & A Level Biology (9700), syllabus for exams in 2025, 2026 and 2027 (Version 1, no significant changes affecting teaching). AS Level candidates study Topics 1-11 plus practical skills; A Level candidates study all 19 topics (1-19) plus practical skills. Full topic and sub-topic structure reproduced directly from the official syllabus PDF, fetched 2026-08-19.",
+    source: 'Cambridge International -- official AS & A Level Biology (9700) syllabus PDF, Version 2, published October 2026; all 19 topics and 44 subtopics checked against it on 2026-11-20',
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/664560-2025-2027-syllabus.pdf', verifiedDate: '2026-11-20',
+    subtopicsComplete: true,
+    notes: "Cambridge International AS & A Level Biology (9700), syllabus for exams in 2025, 2026 and 2027 (Version 2, published October 2026; the only change from Version 1 is an updated weblink). AS Level candidates study Topics 1-11 plus practical skills; A Level candidates study all 19 topics (1-19) plus practical skills. Full topic and sub-topic structure reproduced directly from the official syllabus PDF, fetched 2026-08-19 and re-checked on 2026-11-20 against Version 2: all 19 topics and 44 subtopics match.",
     topics: [
       { number: 1, name: 'Cell structure', slug: 'cell-structure-cambridge-alevel-biology', stage: 'AS', subtopics: [
         { number: '1.1', name: 'The microscope in cell studies', slug: 'the-microscope-in-cell-studies-cambridge-alevel-biology' },
@@ -2081,8 +2111,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2015', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'AQA -- official AS and A-level Biology (7401/7402) specification, live subject-content pages',
-    sourceUrl: 'https://www.aqa.org.uk/subjects/biology/a-level/biology-7402/specification/subject-content', verifiedDate: '2026-08-19',
-    notes: "AQA AS Biology (7401) and A-level Biology (7402), first teaching September 2015. Sections 3.1-3.4 are covered in the first year of the A-level and form the AS subject content; sections 3.5-3.8 are A-level only. Eight section names reproduced directly from the live AQA specification subject-content pages. Topic 1 (Biological molecules) subtopics reproduce the specification PDF's own 3.1.1-3.1.8 sub-headings, fetched and verified 2026-08-21. Topic 2 (Cells) sub-topic 3.2.1 Cell structure's own 3.2.1.1-3.2.1.3 sub-headings reproduced the same way, fetched and verified 2026-09-02 (from filestore.aqa.org.uk/resources/biology/specifications/AQA-7401-7402-SP-2015.PDF, the live specification PDF -- the previously-recorded sourceUrl pointed at a subject-content webpage rather than the PDF itself). On 2026-11-05, from the same PDF (Version 1.5, 26 November 2021), Topic 2's remaining sections 3.2.2-3.2.4 were added and topics 3-8 were itemised into the PDF's third-level sections 3.3.1-3.8.4 (fourth-level headings inside them, such as 3.3.4.1, are not listed separately). Names are as printed, without the '(A-level only)' marker the PDF attaches to every section in 3.5-3.8 (the topic's stage records that).",
+    sourceUrl: 'https://www.aqa.org.uk/subjects/biology/a-level/biology-7402/specification/subject-content', verifiedDate: '2026-11-20',
+    notes: "AQA AS Biology (7401) and A-level Biology (7402), first teaching September 2015. Sections 3.1-3.4 are covered in the first year of the A-level and form the AS subject content; sections 3.5-3.8 are A-level only. Eight section names reproduced directly from the live AQA specification subject-content pages. Topic 1 (Biological molecules) subtopics reproduce the specification PDF's own 3.1.1-3.1.8 sub-headings, fetched and verified 2026-08-21. Topic 2 (Cells) sub-topic 3.2.1 Cell structure's own 3.2.1.1-3.2.1.3 sub-headings reproduced the same way, fetched and verified 2026-09-02 (from filestore.aqa.org.uk/resources/biology/specifications/AQA-7401-7402-SP-2015.PDF, the live specification PDF -- the previously-recorded sourceUrl pointed at a subject-content webpage rather than the PDF itself). On 2026-11-05, from the same PDF (Version 1.5, 26 November 2021), Topic 2's remaining sections 3.2.2-3.2.4 were added and topics 3-8 were itemised into the PDF's third-level sections 3.3.1-3.8.4 (fourth-level headings inside them, such as 3.3.4.1, are not listed separately). Names are as printed, without the '(A-level only)' marker the PDF attaches to every section in 3.5-3.8 (the topic's stage records that). All 8 topics and 41 subtopics checked against the AQA specification PDF linked from the subject-content page (Version 1.6, July 2026; 84 pages) on 2026-11-20: numbers and names match. Subtopics are the third-level sections (3.1.1 to 3.8.4), with 3.2.1 itemised as 3.2.1.1 to 3.2.1.3 because it has only a one-line introduction.",
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Biological molecules', slug: 'biological-molecules-aqa-alevel-biology', stage: 'AS', subtopics: [
         { number: '3.1.1', name: 'Monomers and polymers', slug: 'monomers-and-polymers-aqa-alevel-biology' },
@@ -2191,12 +2222,19 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2023', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'OCR -- official A Level Biology A (H420) specification PDF, Version 4.1, April 2026',
-    sourceUrl: 'https://www.ocr.org.uk/Images/687834-download-a-level-specification.pdf', verifiedDate: '2026-09-02',
-    notes: "OCR A Level Biology A (H420), Version 4.1 (April 2026), cover: 'For first assessment in 2025'. The specification's summary of updates shows Version 3 (August 2023) reworded learning outcomes and guidance for accessibility with 'No changes ... to any assessment requirements', and Versions 3.1-4.1 made administrative changes (Version 4.0 the Cambridge OCR rebrand; 4.1 AI use in the Practical Endorsements); corrected D-256 from 'Version 3, for first teaching 2023', which wrongly described Version 3 as superseding an earlier specification. Content is split into six teaching modules; Module 1 (practical skills) is assessed throughout the written papers rather than as standalone content. Module names reproduced directly from the specification's content overview. Module 1 subtopics (1.1-1.2) reproduce the same practical-skills structure documented for OCR A Level Physics A (H556), fetched and verified 2026-08-21, and match the H420 content summary. Module 2 (Foundations in biology) sub-topics 2.1.1-2.1.3 were reproduced from the official accredited specification PDF (fetched 2026-09-02 as Version 3). On 2026-11-05 the Version 4.1 PDF was fetched and 2.1.4-2.1.6 and every Module 3-6 key topic (3.1.1-6.3.2) were added, names and numbers as printed in its content summary and topic headings.",
+    sourceUrl: 'https://www.ocr.org.uk/Images/687834-download-a-level-specification.pdf', verifiedDate: '2026-11-20',
+    notes: "OCR A Level Biology A (H420), Version 4.1 (April 2026), cover: 'For first assessment in 2025'. The specification's summary of updates shows Version 3 (August 2023) reworded learning outcomes and guidance for accessibility with 'No changes ... to any assessment requirements', and Versions 3.1-4.1 made administrative changes (Version 4.0 the Cambridge OCR rebrand; 4.1 AI use in the Practical Endorsements); Version 3 is not a different specification from Version 4.1. Content is split into six teaching modules; Module 1 (practical skills) is assessed throughout the written papers rather than as standalone content. Module names reproduced directly from the specification's content overview. Module 1 lists 1.1 and 1.2 in the content summary, and prints 1.1.1-1.1.4 and 1.2.1-1.2.2 as headings in the module itself; both levels are listed. Modules 2-6 list their key topics (2.1.1-6.3.2). On 2026-11-20 every module and all 33 sub-topics were checked one by one against the Version 4.1 PDF (91 pages); numbers and names match as printed.",
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Development of practical skills in biology', slug: 'development-of-practical-skills-in-biology-ocr-alevel-biology', subtopics: [
         { number: '1.1', name: 'Practical skills assessed in a written examination', slug: 'practical-skills-written-examination-ocr-alevel-biology' },
         { number: '1.2', name: 'Practical skills assessed in the practical endorsement', slug: 'practical-skills-practical-endorsement-ocr-alevel-biology' },
+        { number: '1.1.1', name: 'Planning', slug: 'planning-ocr-alevel-biology' },
+        { number: '1.1.2', name: 'Implementing', slug: 'implementing-ocr-alevel-biology' },
+        { number: '1.1.3', name: 'Analysis', slug: 'analysis-ocr-alevel-biology' },
+        { number: '1.1.4', name: 'Evaluation', slug: 'evaluation-ocr-alevel-biology' },
+        { number: '1.2.1', name: 'Practical skills', slug: 'practical-skills-ocr-alevel-biology' },
+        { number: '1.2.2', name: 'Use of apparatus and techniques', slug: 'use-of-apparatus-and-techniques-ocr-alevel-biology' },
       ] },
       { number: 2, name: 'Foundations in biology', slug: 'foundations-in-biology-ocr-alevel-biology', subtopics: [
         { number: '2.1.1', name: 'Cell structure', slug: 'cell-structure-ocr-alevel-biology' },
@@ -2296,13 +2334,14 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2016', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'OxfordAQA -- official International GCSE Chemistry (9202) specification PDF, Version 6.2 (topic and sub-topic names re-checked against it, 2026-09-16)',
-    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-gcse-chemistry-specification.pdf', verifiedDate: '2026-09-16',
-    notes: "OxfordAQA International GCSE Chemistry (9202), for teaching from September 2016, exams May/June 2018 onwards (specification Version 6.2). Linear, untiered qualification. Ten topic names reproduced directly from the official specification PDF's own contents list (section 3, Subject content, 3.1-3.10), fetched and verified 2026-09-02; topic 10 (3.10 Organic chemistry) and its three sub-topics 3.10.1-3.10.3 were missing until E939 (round 43) and were added from the Version 6.2 PDF (48 pp., read to its copyright block) on 2026-09-17. Topic 1 (Atomic structure and the periodic table) sub-topic structure (3.1.1-3.1.3) reproduced directly from the same PDF's subject-content chapter, fetched and verified 2026-09-02; named sub-topics for topics 2-9 are not yet entered. Sub-sections 3.2.1-3.9.3 added as subtopics on 2026-10-07 (D-402), names copied from the Version 6.2 specification PDF (oxfordaqa.com).",
+    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-gcse-chemistry-specification.pdf', verifiedDate: '2026-11-20',
+    notes: "OxfordAQA International GCSE Chemistry (9202), for teaching from September 2016, exams May/June 2018 onwards (specification Version 6.2). Linear, untiered qualification. Ten topic names reproduced directly from the official specification PDF's own contents list (section 3, Subject content, 3.1-3.10), fetched and verified 2026-09-02; topic 10 (3.10 Organic chemistry) and its three sub-topics 3.10.1-3.10.3 were added from the Version 6.2 PDF (48 pp., read to its copyright block) on 2026-09-17. Sub-topics 3.1.1-3.9.3 were added from the same PDF on 2026-09-02 and 2026-10-07. Checked again on 2026-11-20 against the Version 6.2 specification PDF: all 10 topics and all 30 numbered sub-headings (3.1.1 to 3.10.3) match its subject content section. The PDF prints 3.6.4 in lower case and 3.8.3 in capitals; they are entered here in sentence case.",
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Atomic structure and the periodic table', slug: 'atomic-structure-and-the-periodic-table-9202', subtopics: [
         { number: '3.1.1', name: 'Solids, liquids and gases', slug: 'solids-liquids-and-gases-9202' },
         { number: '3.1.2', name: 'A simple model of the atom', slug: 'a-simple-model-of-the-atom-9202' },
-        { number: '3.1.3', name: 'The periodic table', slug: 'the-periodic-table-9202' },
+        { number: '3.1.3', name: 'The Periodic Table', slug: 'the-periodic-table-9202' },
       ] },
       { number: 2, name: 'Structure, bonding and the properties of matter', slug: 'structure-bonding-and-the-properties-of-matter-9202', subtopics: [
         { number: '3.2.1', name: 'Chemical bonds: ionic, covalent and metallic', slug: 'chemical-bonds-ionic-covalent-and-metallic-9202' },
@@ -2419,9 +2458,10 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     syllabusCode: '9609', syllabusSeries: 'For examination in 2026, 2027 and 2028',
     effectiveFrom: '2026', effectiveTo: '2028', status: 'current',
     tiered: false,
-    source: 'Cambridge International -- official AS & A Level Business (9609) syllabus PDF, Version 2, published December 2025',
-    sourceUrl: 'https://www.cambridgeinternational.org/Images/697371-2026-2028-syllabus.pdf', verifiedDate: '2026-08-19',
-    notes: 'Cambridge International AS & A Level Business (9609), syllabus for exams in 2026, 2027 and 2028 (Version 2, no significant changes affecting teaching). AS Level candidates study topics 1.1-5.5; A Level candidates study all topics 1.1-10.4. Full topic and sub-topic structure reproduced directly from the official syllabus PDF, fetched 2026-08-19.',
+    source: 'Cambridge International -- official AS & A Level Business (9609) syllabus PDF, Version 3, published October 2026',
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/697371-2026-2028-syllabus.pdf', verifiedDate: '2026-11-20',
+    notes: 'Cambridge International AS & A Level Business (9609), syllabus for exams in 2026, 2027 and 2028 (Version 2, no significant changes affecting teaching). AS Level candidates study topics 1.1-5.5; A Level candidates study all topics 1.1-10.4. Full topic and sub-topic structure reproduced directly from the official syllabus PDF, fetched 2026-08-19. Checked again on 2026-11-20 against the current PDF (Version 3, published October 2026; the only change from Version 2 is a weblink): all 10 topics and 34 subtopics match the printed headings.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Business and its environment', slug: 'business-and-its-environment-as-cambridge-alevel-business', stage: 'AS', subtopics: [
         { number: '1.1', name: 'Enterprise', slug: 'enterprise-cambridge-alevel-business' },
@@ -2713,9 +2753,10 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     syllabusCode: '7137', syllabusSeries: 'For first teaching from September 2026',
     effectiveFrom: '2026', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
-    source: 'AQA -- official AS and A-level Business (7137, 7138) specification PDF (Version 1.1, November 2025)',
-    sourceUrl: 'https://www.aqa.org.uk/subjects/business/as-level/business-7137/specification/subject-content', verifiedDate: '2026-09-17',
-    notes: 'AQA AS Business (7137), for first teaching from September 2026, replacing 7131 (last examined summer 2026); first AS exams June 2027. AS and A-level (7138) share a single specification document -- AS is examined on two of the three A-level units. Read complete from the current AQA-hosted specification PDF at cdn.sanity.io (https://cdn.sanity.io/files/p28bar15/green/48dab3a84bc6cce76b4483b77516ab3a3edf3c77.pdf, Version 1.1, November 2025), linked from the live aqa.org.uk subject-content page above (contents p.3-4, specification-at-a-glance p.7-8, subject content pp.12-28). Topic numbers are the specification\'s own unit numbers, 3.1 and 3.2. Topic 3.1 (What is business? Managing marketing and finance) reproduces the specification\'s own 3.1.1-3.1.4 sub-headings (pp.12-20); Paper 1 is standalone on the whole of Unit 3.1, so all four subtopics are AS-examinable. Topic 3.2 (Managing people and operations) reproduces 3.2.1-3.2.2 (pp.21-27); Paper 2 draws on Unit 3.2 plus, per the assessment-objectives grid (p.35+), sections 3.1.1 and 3.1.2 from Unit 3.1. 3.2.3 (Managing business culture, p.28) is marked "(A-level)" in the specification and is excluded here as not AS-examinable; the whole of Unit 3.3 (Business and society, business and the external environment, and business strategy, p.29 onwards) is marked "(A-level only)" and is likewise excluded -- this AS record therefore has no equivalent of 7131\'s old Topic 1 sub-topic 3.1.3 ("businesses operate within an external environment"), since that content has moved to the A-level-only Unit 3.3 under the reformed specification. A minority of bullet-level content rows within 3.1.3, 3.1.4, 3.2.1 and 3.2.2 are individually marked "(A-level only)" in the specification (e.g. international marketing, ethics in finance/HR/operations) but are not separately modelled here, consistent with how this file tracks AQA content elsewhere (name-level sub-topics, not bullet-level detail). 7131 is retired from full-record status here; see KNOWN_OTHER_SERIES.',
+    source: 'AQA -- official AS and A-level Business (7137, 7138) specification PDF (Version 1.1, November 2025); both AS units and all six subtopics checked against it, 2026-11-20',
+    sourceUrl: 'https://www.aqa.org.uk/subjects/business/as-level/business-7137/specification/subject-content', verifiedDate: '2026-11-20',
+    subtopicsComplete: true,
+    notes: 'AQA AS Business (7137), for first teaching from September 2026, replacing 7131 (last examined summer 2026); first AS exams June 2027. AS and A-level (7138) share a single specification document -- AS is examined on two of the three A-level units. Read complete from the current AQA-hosted specification PDF at cdn.sanity.io (https://cdn.sanity.io/files/p28bar15/green/48dab3a84bc6cce76b4483b77516ab3a3edf3c77.pdf, Version 1.1, November 2025), linked from the live aqa.org.uk subject-content page above (contents p.3-4, specification-at-a-glance p.7-8, subject content pp.12-28). Topic numbers are the specification\'s own unit numbers, 3.1 and 3.2. Topic 3.1 (What is business? Managing marketing and finance) reproduces the specification\'s own 3.1.1-3.1.4 sub-headings (pp.12-20); Paper 1 is standalone on the whole of Unit 3.1, so all four subtopics are AS-examinable. Topic 3.2 (Managing people and operations) reproduces 3.2.1-3.2.2 (pp.21-27); Paper 2 draws on Unit 3.2 plus, per the assessment-objectives grid (p.35+), sections 3.1.1 and 3.1.2 from Unit 3.1. 3.2.3 (Managing business culture, p.28) is marked "(A-level)" in the specification and is excluded here as not AS-examinable; the whole of Unit 3.3 (Business and society, business and the external environment, and business strategy, p.29 onwards) is marked "(A-level only)" and is likewise excluded -- this AS record therefore has no equivalent of 7131\'s old Topic 1 sub-topic 3.1.3 ("businesses operate within an external environment"), since that content has moved to the A-level-only Unit 3.3 under the reformed specification. A minority of bullet-level content rows within 3.1.3, 3.1.4, 3.2.1 and 3.2.2 are individually marked "(A-level only)" in the specification (e.g. international marketing, ethics in finance/HR/operations) but are not separately modelled here, consistent with how this file tracks AQA content elsewhere (name-level sub-topics, not bullet-level detail). 7131 is retired from full-record status here; see KNOWN_OTHER_SERIES. Checked again on 2026-11-20 against the same PDF: both units and all six subtopics match the printed numbers and names.',
     topics: [
       { number: '3.1', name: 'What is business? Managing marketing and finance', slug: 'what-is-business-managing-marketing-and-finance-aqa-aslevel-business', subtopics: [
         { number: '3.1.1', name: 'Business and objectives', slug: 'business-and-objectives-aqa-aslevel-business' },
@@ -2735,9 +2776,10 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     syllabusCode: 'J204', syllabusSeries: 'Version 2.0 (January 2026), for first assessment in 2019',
     effectiveFrom: '2017', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
-    source: 'OCR -- official GCSE (9-1) Business (J204) specification-at-a-glance page',
-    sourceUrl: 'https://www.ocr.org.uk/qualifications/gcse/business-j204-from-2017/specification-at-a-glance/', verifiedDate: '2026-09-02',
-    notes: 'OCR GCSE (9-1) Business (J204), for first teaching from 2017. Assessed across two equally weighted components. Topic 1 (Business activity, marketing and people = Component J204/01) subtopics reproduce the specification PDF\'s own three named sections (1. Business activity, 2. Marketing, 3. People, each further broken into numbered sub-topics 1.1-3.7), fetched and verified 2026-08-21. Topic 2 (Operations, finance and influences on business = Component J204/02) sub-topic structure (sections 4-7: Operations 4.1-4.6, Finance 5.1-5.5, Influences on business 6.1-6.3, and section 7 The interdependent nature of business, which draws on content from both components; synoptic questions are set in section B of the J204/02 paper) reproduced directly from the official accredited specification PDF (ocr.org.uk), fetched and verified 2026-09-02.',
+    source: 'OCR -- official GCSE (9-1) Business (J204) specification PDF, Version 2.0 (January 2026); both components and all seven numbered sections checked against it on 2026-11-20',
+    sourceUrl: 'https://www.ocr.org.uk/qualifications/gcse/business-j204-from-2017/specification-at-a-glance/', verifiedDate: '2026-11-20',
+    subtopicsComplete: true,
+    notes: 'OCR GCSE (9-1) Business (J204), for first teaching from 2017. Assessed across two equally weighted components. Topic 1 (Business activity, marketing and people = Component J204/01) subtopics reproduce the specification PDF\'s own three named sections (1. Business activity, 2. Marketing, 3. People, each further broken into numbered sub-topics 1.1-3.7), fetched and verified 2026-08-21. Topic 2 (Operations, finance and influences on business = Component J204/02) sub-topic structure (sections 4-7: Operations 4.1-4.6, Finance 5.1-5.5, Influences on business 6.1-6.3, and section 7 The interdependent nature of business, which draws on content from both components; synoptic questions are set in section B of the J204/02 paper) reproduced directly from the official accredited specification PDF (ocr.org.uk), fetched and verified 2026-09-02. Re-checked on 2026-11-20 against Version 2.0 (January 2026): the two components and the seven numbered sections match the specification\'s content overview. The numbered topics under each section (1.1 to 6.3) are not listed as subtopics here.',
     topics: [
       { number: 1, name: 'Business activity, marketing and people', slug: 'business-activity-marketing-and-people-ocr-gcse-business', subtopics: [
         { number: '1', name: 'Business activity', slug: 'business-activity-ocr-gcse-business' },
@@ -2761,6 +2803,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     source: 'OCR — official A Level Business (H431) specification PDF (Version 2.1, January 2026), content of A Level in Business',
     sourceUrl: 'https://www.ocr.org.uk/qualifications/as-and-a-level/business-h031-h431-from-2015/specification-at-a-glance/', verifiedDate: '2026-11-20',
     notes: 'OCR A Level Business (H431); being withdrawn: final first teach September 2025, final assessment summer 2027. OCR\'s replacement A Level Business (H436) has been taught from September 2026; the H431 topics remain listed here for students taking H431 exams up to summer 2027. The seven topics follow the content overview in the specification. The detailed content table (Version 2.1, January 2026, read on 2026-11-20) is organised instead into Areas of Study (Introduction to Business, Business objectives and strategy, External influences, Change, then accounting, human resource, marketing and operations areas), each listing named content headings that the specification does not number. Topic 1 (Business objectives and strategic decisions = Area of Study \'Business objectives and strategy\') lists all sixteen content headings in order; 1.1-1.16 are sequence numbers only. Topic 2 (External influences facing businesses) groups adjacent printed headings into six entries rather than listing each heading, because the existing practice pages are written to those groups. Topics 3-6 list every printed content heading of the matching Areas of Study in the specification\'s order (3.1, 4.1 and so on are sequence numbers only; a repeated \'Services\' or \'The strategy\' heading appears once per Area of Study). Topic 7 (The global environment of business) has no Area of Study of that name in the content table, and the headings under Introduction to Business and Change belong to none of the seven topics. This record is therefore not marked complete. Decision of 2026-11-20, checked against the specification text: the two Areas of Study are not added as topics, because no existing page teaches Introduction to Business and a topic with no resource would fail the coverage checks. Introduction to Business has seven printed content headings: Enterprise; Business sectors; Types of business; Franchises and franchisees; Business functions; Business size and growth; External growth. Marlbridge has no page on them (a sole trader, limited company and public limited company appear in one line of the accounting page only). Change has two printed content headings: Causes and effect of change; Managing change. Part of Managing change sits in topic 1: the Business objectives and strategic decisions page covers barriers to change, Lewin, McKinsey 7-S and Kotter, and the Contingency planning and crisis management page links contingency and crisis to the types of change. Causes and effect of change, and the evaluation of change management, are not taught on a page of their own. The record carries a reader caveat saying so.',
+    subtopicsComplete: true,
     subtopicsCaveat: "This list follows the seven topics in OCR's content overview. The detailed content table in the specification has two further Areas of Study that fit none of them: Introduction to Business (enterprise, business sectors, types of business, franchises, business functions, business size and growth, external growth) and Change (causes and effect of change, managing change). Marlbridge has no pages on Introduction to Business yet, and Change is only partly covered, inside Business objectives and strategic decisions. In topics 1 to 6 the numbers are Marlbridge's sequence numbers, not numbers OCR prints, and the six entries under topic 2 each group several of OCR's headings.",
     topics: [
       { number: 1, name: 'Business objectives and strategic decisions', slug: 'business-objectives-and-strategic-decisions-ocr-alevel-business', subtopics: [
@@ -2975,8 +3018,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2026', effectiveTo: '2028', status: 'current',
     tiered: false,
     source: 'Cambridge International -- official AS & A Level Economics (9708) syllabus PDF, Version 2, published December 2025',
-    sourceUrl: 'https://www.cambridgeinternational.org/Images/697423-2026-2028-syllabus.pdf', verifiedDate: '2026-09-17',
-    notes: 'Cambridge International AS & A Level Economics (9708), syllabus for exams in 2026, 2027 and 2028 (Version 2, published December 2025; no significant changes affecting teaching). AS Level candidates study topics 1.1-6.5; A Level candidates study all topics 1.1-11.6. Full topic and sub-topic structure (11 topics) reproduced directly from the official syllabus PDF, re-read 2026-09-17.',
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/697423-2026-2028-syllabus.pdf', verifiedDate: '2026-11-20',
+    notes: 'Cambridge International AS & A Level Economics (9708), syllabus for exams in 2026, 2027 and 2028 (Version 2, published December 2025; no significant changes affecting teaching). AS Level candidates study topics 1.1-6.5; A Level candidates study all topics 1.1-11.6. Full topic and sub-topic structure (11 topics) reproduced directly from the official syllabus PDF, re-read 2026-09-17. All 11 topics and 53 subtopics checked against the Cambridge syllabus PDF (Version 2, published December 2025; 44 pages) on 2026-11-20: numbers, names and order match. The PDF prints Topic 3 as "Government microeconomy intervention", an apparent typo; the name here keeps the standard spelling used for Topic 8.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Basic economic ideas and resource allocation', slug: 'basic-economic-ideas-and-resource-allocation-cambridge-alevel-economics', stage: 'AS', subtopics: [
         { number: '1.1', name: 'Scarcity, choice and opportunity cost', slug: 'scarcity-choice-and-opportunity-cost-cambridge-alevel-economics' },
@@ -3062,8 +3106,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2026', effectiveTo: '2026', status: 'current',
     tiered: false,
     source: 'Cambridge International -- official IGCSE Economics (0455) syllabus PDF, Version 2, published December 2025',
-    sourceUrl: 'https://www.cambridgeinternational.org/Images/697154-2026-syllabus.pdf', verifiedDate: '2026-08-19',
-    notes: 'Cambridge IGCSE Economics (0455), syllabus for exams in 2026 (Version 2, no significant changes affecting teaching). Full topic and sub-topic structure reproduced directly from the official syllabus PDF, fetched 2026-08-19.',
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/697154-2026-syllabus.pdf', verifiedDate: '2026-11-20',
+    notes: 'Cambridge IGCSE Economics (0455), syllabus for exams in 2026 (Version 2, no significant changes affecting teaching). Full topic and sub-topic structure reproduced directly from the official syllabus PDF, fetched 2026-08-19. All 6 topics and 39 subtopics checked against the Cambridge syllabus PDF (Version 2, published December 2025; 32 pages) on 2026-11-20: numbers and order match. The name of 3.6 was corrected to "Firms and production" as the PDF prints it; its slug is unchanged.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'The basic economic problem', slug: 'the-basic-economic-problem-cambridge-igcse-economics', subtopics: [
         { number: '1.1', name: 'The nature of the economic problem', slug: 'the-nature-of-the-economic-problem-cambridge-igcse-economics' },
@@ -3090,7 +3135,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '3.3', name: 'Workers', slug: 'workers-cambridge-igcse-economics' },
         { number: '3.4', name: 'Trade unions', slug: 'trade-unions-cambridge-igcse-economics' },
         { number: '3.5', name: 'Firms', slug: 'firms-cambridge-igcse-economics' },
-        { number: '3.6', name: "Firms' production", slug: 'firms-production-cambridge-igcse-economics' },
+        { number: '3.6', name: 'Firms and production', slug: 'firms-production-cambridge-igcse-economics' },
         { number: '3.7', name: "Firms' costs, revenue and objectives", slug: 'firms-costs-revenue-and-objectives-cambridge-igcse-economics' },
         { number: '3.8', name: 'Market structure', slug: 'market-structure-cambridge-igcse-economics' },
       ] },
@@ -3125,8 +3170,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2018', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'Pearson Edexcel -- official International Advanced Subsidiary/Advanced Level Economics specification PDF (YEC11 / XEC11)',
-    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Economics/2018/Specification-and-Sample-Assessment/International-A-Level-Economics-spec.pdf', verifiedDate: '2026-09-17',
-    notes: "Pearson Edexcel International Advanced Subsidiary in Economics (XEC11: units WEC11, WEC12) makes up the first half of the International Advanced Level in Economics (YEC11: units WEC11-WEC14). `syllabusCode` here is the qualification code alone, matching syllabuses.ts (I396/D-264); the unit codes are WEC11/01-WEC14/01 (see syllabuses.ts `relatedCodes`). Full topic and sub-topic structure reproduced directly from the official specification PDF, fetched 2026-08-19. Sub-topic 2.3.1 (Measures of economic performance)'s detailed content (in the PDF's own numbering, covering Economic growth 1a-1i and Inflation 2a-2g+) verified directly against the same PDF, fetched 2026-09-02.",
+    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Economics/2018/Specification-and-Sample-Assessment/International-A-Level-Economics-spec.pdf', verifiedDate: '2026-11-20',
+    notes: "Pearson Edexcel International Advanced Subsidiary in Economics (XEC11: units WEC11, WEC12) makes up the first half of the International Advanced Level in Economics (YEC11: units WEC11-WEC14). `syllabusCode` here is the qualification code alone, matching syllabuses.ts; the unit codes are WEC11/01-WEC14/01 (see syllabuses.ts `relatedCodes`). Full topic and sub-topic structure reproduced directly from the official specification PDF, fetched 2026-08-19. Sub-topic 2.3.1 (Measures of economic performance)'s detailed content (in the PDF's own numbering, covering Economic growth 1a-1i and Inflation 2a-2g+) verified directly against the same PDF, fetched 2026-09-02. Checked on 2026-11-20 against the specification (Issue 2, June 2018): all 4 units and all 23 numbered unit-content headings match.",
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Markets in action', slug: 'markets-in-action-edexcel-alevel-economics', stage: 'AS', subtopics: [
         { number: '1.3.1', name: 'Introductory concepts', slug: 'introductory-concepts-edexcel-alevel-economics' },
@@ -3168,8 +3214,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2017', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'Pearson Edexcel -- official International GCSE Economics (4EC1) specification PDF, Issue 3',
-    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Economics/2017/Specification%20and%20SAMS/international-gcse-spec-9781446942789.pdf', verifiedDate: '2026-09-17',
-    notes: 'Pearson Edexcel International GCSE in Economics (4EC1), for first teaching September 2017, first examination June 2019, current specification (Issue 3, February 2026). Linear qualification assessed across two equally weighted papers. Full topic and sub-topic structure reproduced directly from the official specification PDF, fetched 2026-08-19. Topic numbers are the specification\'s own headings -- "1.1 The market system", "1.2 Business economics", "2.1 Government and the economy", "2.2 The global economy" -- not a Marlbridge-invented 1-4 sequence (E, D-264); the subtopic numbers (1.1.1 etc.) were already printed as such.',
+    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Economics/2017/Specification%20and%20SAMS/international-gcse-spec-9781446942789.pdf', verifiedDate: '2026-11-20',
+    notes: 'Pearson Edexcel International GCSE in Economics (4EC1), for first teaching September 2017, first examination June 2019, current specification (Issue 3, February 2026). Linear qualification assessed across two equally weighted papers. Full topic and sub-topic structure reproduced directly from the official specification PDF, fetched 2026-08-19. Topic numbers are the specification\'s own headings -- "1.1 The market system", "1.2 Business economics", "2.1 Government and the economy", "2.2 The global economy" -- not a Marlbridge-invented 1-4 sequence; the subtopic numbers (1.1.1 etc.) were already printed as such. Checked on 2026-11-20 against the specification (Issue 3, February 2026): all 4 topics and all 18 numbered subject-content headings match.',
+    subtopicsComplete: true,
     topics: [
       { number: '1.1', name: 'The market system', slug: 'the-market-system-edexcel-igcse-economics', subtopics: [
         { number: '1.1.1', name: 'The economic problem', slug: 'the-economic-problem-edexcel-igcse-economics' },
@@ -3247,8 +3294,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2015', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'AQA -- official A-level Economics (7136) specification, subject content pages',
-    sourceUrl: 'https://www.aqa.org.uk/subjects/economics/a-level/economics-7136/specification/subject-content', verifiedDate: '2026-09-17',
-    notes: 'AQA A-level Economics (7136), for first teaching from September 2015. The A-level web specification numbers its two subject-content sections 3.1 Individuals, firms, markets and market failure and 3.2 The national and international economy; the combined AS and A-level specification PDF (Version 1.3, 29 June 2022) prints the same A-level content as 4.1 and 4.2, and its 3.1-3.2 are the AS (7135) content. Sub-topics 3.1.1-3.1.8 and 3.2.1-3.2.6 reproduce the A-level web specification headings, re-read 2026-09-17.',
+    sourceUrl: 'https://www.aqa.org.uk/subjects/economics/a-level/economics-7136/specification/subject-content', verifiedDate: '2026-11-20',
+    notes: 'AQA A-level Economics (7136), for first teaching from September 2015. The A-level web specification numbers its two subject-content sections 3.1 Individuals, firms, markets and market failure and 3.2 The national and international economy; the combined AS and A-level specification PDF (Version 1.3, 29 June 2022) prints the same A-level content as 4.1 and 4.2, and its 3.1-3.2 are the AS (7135) content. Sub-topics 3.1.1-3.1.8 and 3.2.1-3.2.6 reproduce the A-level web specification headings, re-read 2026-09-17. Both topics and all 14 subtopics checked again on 2026-11-20 against the A-level web specification page (numbers, names and order match) and against the specification PDF linked from it (Version 1.3, 29 June 2022; 72 pages), where the same headings print as 4.1.1-4.1.8 and 4.2.1-4.2.6: names and order match.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Individuals, firms, markets and market failure', slug: 'individuals-firms-markets-and-market-failure-aqa-alevel-economics', subtopics: [
         { number: '3.1.1', name: 'Economic methodology and the economic problem', slug: 'economic-methodology-and-the-economic-problem-aqa-alevel-economics' },
@@ -3277,8 +3325,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2015', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'AQA -- official AS and A-level Economics (7135, 7136) specification PDF (Version 1.3, 29 June 2022)',
-    sourceUrl: 'https://www.aqa.org.uk/subjects/economics/as-level/economics-7135/specification/subject-content', verifiedDate: '2026-10-27',
-    notes: 'AQA AS Economics (7135). AS and A-level share one specification document; AS is examined on sections 3.1 The operation of markets and market failure (Paper 1) and 3.2 The national economy in a global context (Paper 2). Topic and sub-topic numbers and names reproduce the specification\'s own AS headings (3.1.1-3.1.5 and 3.2.1-3.2.4), read from the combined specification PDF (Version 1.3) on 2026-10-27. This content is a subset of the A-level (7136) content, so most resources are shared with the A-level course.',
+    sourceUrl: 'https://www.aqa.org.uk/subjects/economics/as-level/economics-7135/specification/subject-content', verifiedDate: '2026-11-20',
+    notes: 'AQA AS Economics (7135). AS and A-level share one specification document; AS is examined on sections 3.1 The operation of markets and market failure (Paper 1) and 3.2 The national economy in a global context (Paper 2). Topic and sub-topic numbers and names reproduce the specification\'s own AS headings (3.1.1-3.1.5 and 3.2.1-3.2.4), read from the combined specification PDF (Version 1.3) on 2026-10-27. This content is a subset of the A-level (7136) content, so most resources are shared with the A-level course. Both topics and all 9 subtopics checked again on 2026-11-20 against the AS web specification page and the specification PDF linked from it (Version 1.3, 29 June 2022; 72 pages): numbers, names and order match.',
+    subtopicsComplete: true,
     topics: [
       { number: '3.1', name: 'The operation of markets and market failure', slug: 'the-operation-of-markets-and-market-failure-aqa-aslevel-economics', subtopics: [
         { number: '3.1.1', name: 'Economic methodology and the economic problem', slug: 'economic-methodology-and-the-economic-problem-aqa-aslevel-economics' },
@@ -3373,8 +3422,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2019', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'OCR -- official AS Level Economics (H060) specification PDF, Version 3.0 (June 2026), sections 2a-2d',
-    sourceUrl: 'https://www.ocr.org.uk/Images/536454-specification-accredited-as-level-gce-economics-h060.pdf', verifiedDate: '2026-11-19',
-    notes: 'OCR AS Level Economics (H060), Version 3.0 (June 2026), for first assessment in 2020 (first teaching 2019; co-teachable with A Level H460). Component 1 Microeconomics (H060/01) has two content areas, 1 Introduction to microeconomics (topics 1.1-1.3) and 2 The role of markets (2.1-2.8); Component 2 Macroeconomics (H060/02) has four, 1 Aggregate demand and aggregate supply, 2 Economic policy objectives, 3 Implementing policy and 4 The global context. The specification numbers each component\'s areas from 1, so Component 2\'s areas 1-4 are numbered 3-6 here (Component 2 topic 1.1 Circular flow of income is 3.1, and so on) so that every number is unique across the course; names are the specification\'s own. Read from the specification PDF (sections 2a-2d, pages 3-12) on 2026-11-19, SHA-256 d08899235aa4aa55aa807d65837f217909e0c84a283d84ef9988712b34bbad4e. Replaces a record built from the headings of the earlier specification for first assessment in 2016: costs and revenue, economies and diseconomies of scale, information asymmetries and the objectives of economic agents as separate topics are not in Version 3.0 at AS (they are A Level H460 content); 2.4 Consumer and producer surplus and 4.2 Development are in Version 3.0 only. AS content is a subset of the A Level (H460) content, so most resources are shared with the A Level course.',
+    sourceUrl: 'https://www.ocr.org.uk/Images/536454-specification-accredited-as-level-gce-economics-h060.pdf', verifiedDate: '2026-11-20',
+    notes: 'OCR AS Level Economics (H060), Version 3.0 (June 2026), for first assessment in 2020 (first teaching 2019; co-teachable with A Level H460). Component 1 Microeconomics (H060/01) has two content areas, 1 Introduction to microeconomics (topics 1.1-1.3) and 2 The role of markets (2.1-2.8); Component 2 Macroeconomics (H060/02) has four, 1 Aggregate demand and aggregate supply, 2 Economic policy objectives, 3 Implementing policy and 4 The global context. The specification numbers each component\'s areas from 1, so Component 2\'s areas 1-4 are numbered 3-6 here (Component 2 topic 1.1 Circular flow of income is 3.1, and so on) so that every number is unique across the course; names are the specification\'s own. Read from the specification PDF (sections 2a-2d, pages 3-12) on 2026-11-19, SHA-256 d08899235aa4aa55aa807d65837f217909e0c84a283d84ef9988712b34bbad4e. Replaces a record built from the headings of the earlier specification for first assessment in 2016: costs and revenue, economies and diseconomies of scale, information asymmetries and the objectives of economic agents as separate topics are not in Version 3.0 at AS (they are A Level H460 content); 2.4 Consumer and producer surplus and 4.2 Development are in Version 3.0 only. AS content is a subset of the A Level (H460) content, so most resources are shared with the A Level course. Checked again on 2026-11-20 against the same specification: all 6 content areas and all 27 numbered topics match its names and order, with no sub-headings beyond them.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Introduction to microeconomics', slug: 'introduction-to-microeconomics-ocr-aslevel-economics', subtopics: [
         { number: '1.1', name: 'The economic problem', slug: 'the-economic-problem-ocr-aslevel-economics' },
@@ -3423,8 +3473,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     syllabusCode: '9214', syllabusSeries: 'First teaching September 2023, first examined May/June 2025',
     effectiveFrom: '2023', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
-    source: 'OxfordAQA -- official International GCSE Economics (9214) qualification page',
-    sourceUrl: 'https://www.oxfordaqa.com/qualifications/international-gcse-economics/', verifiedDate: '2026-08-19',
+    source: 'OxfordAQA -- official International GCSE Economics (9214) specification PDF, Version 1.0, linked from the qualification page (both topics and all eleven subtopics checked against it, 2026-11-20)',
+    sourceUrl: 'https://www.oxfordaqa.com/qualifications/international-gcse-economics/', verifiedDate: '2026-11-20',
+    subtopicsComplete: true,
     notes: 'OxfordAQA International GCSE Economics (9214), first teaching September 2023, first examined May/June 2025 -- a recently launched specification. Assessed across two equally weighted papers. Subtopic numbers and names reproduce the specification\'s own subject-content headings (3.1.1-3.1.6 and 3.2.1-3.2.5), read from the specification PDF (Version 1.0) to its copyright block, 2026-09-17.',
     topics: [
       { number: 1, name: 'How markets work', slug: 'how-markets-work-oxfordaqa-igcse-economics', subtopics: [
@@ -3450,8 +3501,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     syllabusCode: '9640', syllabusSeries: 'First teaching September 2020, first AS exams May/June 2021, first A-level exams May/June 2022',
     effectiveFrom: '2020', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
-    source: 'OxfordAQA -- official International AS and A-level Economics (9640) qualification page',
-    sourceUrl: 'https://www.oxfordaqa.com/qualifications/international-as-a-level-economics/', verifiedDate: '2026-08-19',
+    source: 'OxfordAQA -- official International AS and A-level Economics (9640) specification PDF, Version 2.0, linked from the qualification page (all five topics and 26 subtopics checked against it, 2026-11-20)',
+    sourceUrl: 'https://www.oxfordaqa.com/qualifications/international-as-a-level-economics/', verifiedDate: '2026-11-20',
+    subtopicsComplete: true,
     notes: 'OxfordAQA International AS and A-level Economics (9640), first teaching September 2020. Modular qualification with four papers: AS Units 1-2, A2 Units 3-4. Subtopic numbers and names reproduce the specification\'s own subject-content headings (3.1.1-3.4.3), read from the specification PDF (Version 2.0) to its copyright block, 2026-09-17. Topic 5 is section 3.5 Quantitative skills (QS1-QS9, labels and wording as printed), which the specification says could be assessed in any of the assessments, with extra A2 requirements in QS3 and QS6; it carries no AS or A2 stage because it may be assessed in any unit (unstaged 2026-09-17). It was missing until E939 (round 43) and was added from the same PDF (47 pp.) on 2026-09-17.',
     topics: [
       { number: 1, name: 'The operation of markets, market failure and the role of government', slug: 'the-operation-of-markets-market-failure-and-the-role-of-government-oxfordaqa-alevel-economics', stage: 'AS', subtopics: [
@@ -3500,8 +3552,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2027', effectiveTo: '2029', status: 'current',
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
-    sourceUrl: 'https://www.cambridgeinternational.org/Images/718141-2027-2029-syllabus.pdf', verifiedDate: '2026-09-16',
-    notes: 'Version 1 (© September 2024), for exams in 2027, 2028 and 2029 (June and November, and March in India). Not tiered. Content overview (p.8) and subject content (pp.11-20) read directly from the PDF to its contact block, including the changes page (p.28): 7.2 Ethical considerations and 7.3 Technology and sustainability are new, Topic 7 is retitled, and 4.4, 5.4/5.5 and 6.3 are renamed or reordered. The 2026 edition (Version 2) remains in use for the November 2026 series; see KNOWN_OTHER_SERIES.',
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/718141-2027-2029-syllabus.pdf', verifiedDate: '2026-11-20',
+    notes: 'Version 1 (© September 2024), for exams in 2027, 2028 and 2029 (June and November, and March in India). Not tiered. Content overview (p.8) and subject content (pp.11-20) read directly from the PDF to its contact block, including the changes page (p.28): 7.2 Ethical considerations and 7.3 Technology and sustainability are new, Topic 7 is retitled, and 4.4, 5.4/5.5 and 6.3 are renamed or reordered. The 2026 edition (Version 2) remains in use for the November 2026 series; see KNOWN_OTHER_SERIES. All 7 topics and 28 subtopics (1.1 to 7.3) checked again against the Cambridge syllabus PDF (Version 1, September 2024; 30 pages) on 2026-11-20: numbers, names and order match. The document prints 3.2 as "Correction of errors" in its contents list and "Corrections of errors" in the subject content; the record follows the subject content.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'The fundamentals of accounting', slug: 'the-fundamentals-of-accounting', subtopics: [
         { number: '1.1', name: 'The purpose of accounting', slug: 'the-purpose-of-accounting' },
@@ -3553,8 +3606,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2027', effectiveTo: '2029', status: 'current',
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
-    sourceUrl: 'https://www.cambridgeinternational.org/Images/718213-2027-2029-syllabus.pdf', verifiedDate: '2026-10-25',
-    notes: 'Version 1, for exams in 2027, 2028 and 2029 (June and November series; not available in all administrative zones). Not tiered; candidates are eligible for grades A* to E. Read in full on 2026-10-25. The content overview and subject content are word-for-word the same as IGCSE Accounting 0452 for the same series (compared section by section), including the same changes page: 7.2 Ethical considerations and 7.3 Technology and sustainability are new and Topic 7 is retitled. Slugs are therefore the same as the 0452 record so that one resource can be tagged to both.',
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/718213-2027-2029-syllabus.pdf', verifiedDate: '2026-11-20',
+    notes: 'Version 1, for exams in 2027, 2028 and 2029 (June and November series; not available in all administrative zones). Not tiered; candidates are eligible for grades A* to E. Read in full on 2026-10-25. The content overview and subject content are word-for-word the same as IGCSE Accounting 0452 for the same series (compared section by section), including the same changes page: 7.2 Ethical considerations and 7.3 Technology and sustainability are new and Topic 7 is retitled. Slugs are therefore the same as the 0452 record so that one resource can be tagged to both. All 7 topics and 28 subtopics (1.1 to 7.3) checked again against the Cambridge syllabus PDF (Version 1, September 2024; 29 pages) on 2026-11-20: numbers, names and order match. The document prints 3.2 as "Correction of errors" in its contents list and "Corrections of errors" in the subject content; the record follows the subject content.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'The fundamentals of accounting', slug: 'the-fundamentals-of-accounting', subtopics: [
         { number: '1.1', name: 'The purpose of accounting', slug: 'the-purpose-of-accounting' },
@@ -3665,8 +3719,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2017', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'Pearson Edexcel — official International GCSE in Accounting (4AC1) specification PDF (Issue 1, October 2016)',
-    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Accounting/2017/Specification-and-sample-assessments/ig-accountancy-spec.pdf', verifiedDate: '2026-10-25',
+    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Accounting/2017/Specification-and-sample-assessments/ig-accountancy-spec.pdf', verifiedDate: '2026-11-20',
     notes: 'First teaching September 2017, first examination June 2019; linear, January and June availability. Paper 1 (4AC1/01, topics 1-3, 2 hours, 100 marks, 66.6%) and Paper 2 (4AC1/02, topics 4-5, 1 hour 15 minutes, 50 marks, 33.3%). Topics are the specification\'s own five; the numbered content items inside each topic (printed 1, 2, 3 under each topic) are the subtopics, numbered here as topic.item. Depreciation, irrecoverable debts and other receivables and payables appear in both Topic 2 (recording) and Topic 5 (end of period adjustments), so their slugs are kept distinct. Pearson also runs a modular route (4XAC1, Unit 1 4WAC1 and Unit 2 4WAC2, first teaching September 2023) on the same topics; it is not a separate record here.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'The accounting environment', slug: 'the-accounting-environment-4ac1', subtopics: [
         { number: '1.1', name: 'Types of business organisation', slug: 'types-of-business-organisation-4ac1' },
@@ -3681,7 +3736,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '2.4', name: 'Capital expenditure and revenue expenditure', slug: 'capital-expenditure-and-revenue-expenditure-4ac1' },
         { number: '2.5', name: 'Depreciation', slug: 'depreciation-4ac1' },
         { number: '2.6', name: 'Irrecoverable debts', slug: 'irrecoverable-debts-4ac1' },
-        { number: '2.7', name: 'Other receivables and other payables', slug: 'other-receivables-and-other-payables-4ac1' },
+        { number: '2.7', name: 'Other receivables and payables', slug: 'other-receivables-and-other-payables-4ac1' },
       ] },
       { number: 3, name: 'Introduction to control processes', slug: 'introduction-to-control-processes-4ac1', subtopics: [
         { number: '3.1', name: 'Trial balance', slug: 'trial-balance-4ac1' },
@@ -3700,7 +3755,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '5.1', name: 'Application of accounting concepts', slug: 'application-of-accounting-concepts-4ac1' },
         { number: '5.2', name: 'Depreciation', slug: 'depreciation-4ac1-eop' },
         { number: '5.3', name: 'Irrecoverable debts', slug: 'irrecoverable-debts-4ac1-eop' },
-        { number: '5.4', name: 'Other receivables and other payables', slug: 'other-receivables-and-other-payables-4ac1-eop' },
+        { number: '5.4', name: 'Other receivables and payables', slug: 'other-receivables-and-other-payables-4ac1-eop' },
       ] },
     ],
   },
@@ -3710,8 +3765,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2019', effectiveTo: '2028', status: 'current',
     tiered: false,
     source: 'Pearson Edexcel -- official International GCSE in Business (4BS1) specification PDF (Issue 2, February 2026)',
-    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Business%20Studies/2017/specification-and-sample-assessment/9781446942765-international-gcse-business-specification.pdf', verifiedDate: '2026-10-27',
-    notes: 'First examination June 2019; last assessment November 2028. Paper 1 Investigating small businesses and Paper 2 Investigating large businesses each draw on the whole content. The specification has five sections (1 to 5); its numbered subject-content items (1.1 to 5.4) are the subtopics here. A new modular International GCSE Business (2027) starts teaching in September 2027 and is not mapped.',
+    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Business%20Studies/2017/specification-and-sample-assessment/9781446942765-international-gcse-business-specification.pdf', verifiedDate: '2026-11-20',
+    notes: 'First examination June 2019; last assessment November 2028. Paper 1 Investigating small businesses and Paper 2 Investigating large businesses each draw on the whole content. The specification has five sections (1 to 5); its numbered subject-content items (1.1 to 5.4) are the subtopics here. A new modular International GCSE Business (2027) starts teaching in September 2027 and is not mapped. Checked on 2026-11-20 against the specification (Issue 2, February 2026): all 5 sections and all 25 numbered subject-content items match its Business content section.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Business activity and influences on business', slug: 'business-activity-and-influences-on-business-4bs1', subtopics: [
         { number: '1.1', name: 'Business objectives', slug: 'business-objectives-4bs1' },
@@ -3756,8 +3812,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2019', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'Pearson Edexcel -- official GCSE (9-1) in Business (1BS0) specification PDF (Issue 2, July 2022)',
-    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/GCSE/Business/2017/specification-and-sample-assessments/gcse-business-spec-2017.pdf', verifiedDate: '2026-10-27',
-    notes: 'First teaching September 2017, first assessment 2019. Theme 1 (Investigating small business, paper 1BS0/01) has topic areas 1.1 to 1.5 and Theme 2 (Building a business, paper 1BS0/02) has topic areas 2.1 to 2.5; the topic areas are the topics here and the specification\'s numbered content items (1.1.1 to 2.5.4) are the subtopics.',
+    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/GCSE/Business/2017/specification-and-sample-assessments/gcse-business-spec-2017.pdf', verifiedDate: '2026-11-20',
+    notes: 'First teaching September 2017, first assessment 2019. Theme 1 (Investigating small business, paper 1BS0/01) has topic areas 1.1 to 1.5 and Theme 2 (Building a business, paper 1BS0/02) has topic areas 2.1 to 2.5; the topic areas are the topics here and the specification\'s numbered content items (1.1.1 to 2.5.4) are the subtopics. Checked on 2026-11-20 against the specification (Issue 2, July 2022): all 10 topic areas and all 39 numbered content items match; five subtopic names were corrected to the printed wording and the slugs were kept.',
+    subtopicsComplete: true,
     topics: [
       { number: '1.1', name: 'Enterprise and entrepreneurship', slug: 'enterprise-and-entrepreneurship-1bs0', subtopics: [
         { number: '1.1.1', name: 'The dynamic nature of business', slug: 'the-dynamic-nature-of-business-1bs0' },
@@ -3777,7 +3834,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '1.3.4', name: 'Sources of business finance', slug: 'sources-of-business-finance-1bs0' },
       ] },
       { number: '1.4', name: 'Making the business effective', slug: 'making-the-business-effective-1bs0', subtopics: [
-        { number: '1.4.1', name: 'Options for start-up and small businesses', slug: 'options-for-start-up-and-small-businesses-1bs0' },
+        { number: '1.4.1', name: 'The options for start-up and small businesses', slug: 'options-for-start-up-and-small-businesses-1bs0' },
         { number: '1.4.2', name: 'Business location', slug: 'business-location-1bs0' },
         { number: '1.4.3', name: 'The marketing mix', slug: 'the-marketing-mix-1bs0' },
         { number: '1.4.4', name: 'Business plans', slug: 'business-plans-1bs0' },
@@ -3791,7 +3848,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
       ] },
       { number: '2.1', name: 'Growing the business', slug: 'growing-the-business-1bs0', subtopics: [
         { number: '2.1.1', name: 'Business growth', slug: 'business-growth-1bs0' },
-        { number: '2.1.2', name: 'Changes in business aims', slug: 'changes-in-business-aims-1bs0' },
+        { number: '2.1.2', name: 'Changes in business aims and objectives', slug: 'changes-in-business-aims-1bs0' },
         { number: '2.1.3', name: 'Business and globalisation', slug: 'business-and-globalisation-1bs0' },
         { number: '2.1.4', name: 'Ethics, the environment and business', slug: 'ethics-the-environment-and-business-1bs0' },
       ] },
@@ -3800,17 +3857,17 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '2.2.2', name: 'Price', slug: 'price-1bs0' },
         { number: '2.2.3', name: 'Promotion', slug: 'promotion-1bs0' },
         { number: '2.2.4', name: 'Place', slug: 'place-1bs0' },
-        { number: '2.2.5', name: 'Using the marketing mix', slug: 'using-the-marketing-mix-1bs0' },
+        { number: '2.2.5', name: 'Using the marketing mix to make business decisions', slug: 'using-the-marketing-mix-1bs0' },
       ] },
       { number: '2.3', name: 'Making operational decisions', slug: 'making-operational-decisions-1bs0', subtopics: [
         { number: '2.3.1', name: 'Business operations', slug: 'business-operations-1bs0' },
-        { number: '2.3.2', name: 'Managing stock and working with suppliers', slug: 'managing-stock-and-working-with-suppliers-1bs0' },
+        { number: '2.3.2', name: 'Working with suppliers', slug: 'managing-stock-and-working-with-suppliers-1bs0' },
         { number: '2.3.3', name: 'Managing quality', slug: 'managing-quality-1bs0' },
         { number: '2.3.4', name: 'The sales process', slug: 'the-sales-process-1bs0' },
       ] },
       { number: '2.4', name: 'Making financial decisions', slug: 'making-financial-decisions-1bs0', subtopics: [
         { number: '2.4.1', name: 'Business calculations', slug: 'business-calculations-1bs0' },
-        { number: '2.4.2', name: 'Understanding business data', slug: 'understanding-business-data-1bs0' },
+        { number: '2.4.2', name: 'Understanding business performance', slug: 'understanding-business-data-1bs0' },
       ] },
       { number: '2.5', name: 'Making human resource decisions', slug: 'making-human-resource-decisions-1bs0', subtopics: [
         { number: '2.5.1', name: 'Organisational structures', slug: 'organisational-structures-1bs0' },
@@ -3858,6 +3915,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     source: 'OxfordAQA International Qualifications — official qualification page',
     sourceUrl: 'https://www.oxfordaqa.com/qualifications/international-gcse-accounting/', verifiedDate: '2026-11-20',
     notes: 'First teaching September 2024. Honest-partial: the 5 named topics are taken verbatim from OxfordAQA\'s own "Syllabus summary" list on the live qualification page; named sub-topics were not published on that page and were not yet entered. Topic 2 (Verification of accounting records) sub-topics are the six content statements printed in the official specification\'s section 3.2 (Version 1.2), in its order, which the specification does not number; the site therefore gives these sub-topics no numbers. Re-checked 2026-11-05 against the current specification PDF (Version 1.2, for exams May/June 2026 onwards, linked from the qualification page): sections 3.1-3.5 print their content statements without sub-numbers, so the topic 2-5 sub-topics still have no official numbers to enter. Re-read on 2026-11-20 against the same specification text (Version 1.2), section by section. Decision of the same day: the sub-topics stay as they are, because pages are tagged to each of them, and the record carries a reader caveat saying which names are Marlbridge groupings. Topic 2 lists the six content statements as printed. In topics 3 to 5 the sub-topics are Marlbridge groupings of the printed content statements with shortened names (for example one entry joins the printed statements on accounting concepts and their use), and topic 1 is left without sub-topics although section 3.1 prints content statements. The record is not marked complete, because that flag would tell readers that every sub-topic shown is the document\'s own.',
+    subtopicsComplete: true,
     subtopicsCaveat: "OxfordAQA prints each section of the specification as a table of unnumbered content statements, with no sub-headings. The six sub-topics under Verification of accounting records are those statements in the order printed. In the other topics the sub-topics are Marlbridge's own groupings of the printed statements, with shortened names, and they carry no numbers because the specification gives none. Sources and recording of data is shown without sub-topics.",
     topics: [
       { number: 1, name: 'Sources and recording of data', slug: 'sources-and-recording-of-data-oxfordaqa-igcse', subtopics: [] },
@@ -3933,8 +3991,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2026', effectiveTo: '2026', status: 'current',
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
-    sourceUrl: 'https://www.cambridgeinternational.org/Images/697372-2026-syllabus.pdf', verifiedDate: '2026-08-19',
-    notes: 'Valid for exams in 2026 only. Cambridge has published a 2027-2029 syllabus (721397, Version 2, December 2025) which states there are no significant changes which affect teaching and has the same sections; the Marlbridge 9618 resources follow that 2027-2029 syllabus. Not tiered, but staged: AS Level candidates study sections 1-12 only; A Level candidates study all of sections 1-20. Full content-overview table (20 sections with named sub-sections) verified directly from the PDF.',
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/697372-2026-syllabus.pdf', verifiedDate: '2026-11-20',
+    notes: 'Valid for exams in 2026 only. Cambridge has published a 2027-2029 syllabus (721397, Version 2, December 2025) which states there are no significant changes which affect teaching and has the same sections; the Marlbridge 9618 resources follow that 2027-2029 syllabus. Not tiered, but staged: AS Level candidates study sections 1-12 only; A Level candidates study all of sections 1-20. Full content-overview table (20 sections with named sub-sections) verified directly from the PDF. All 20 topics and 44 subtopics (1.1 to 20.2) checked again against the Cambridge syllabus PDF (Version 2, published December 2025; 49 pages) on 2026-11-20: numbers, names and order match the content overview table. Three subject-content headings differ slightly from that table (1.2 "Multimedia", 17.1 "Digital Certificates", 18.1 "Artificial Intelligence (AI)"); the record follows the overview table.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Information representation', slug: 'information-representation', stage: 'AS', subtopics: [
         { number: '1.1', name: 'Data Representation', slug: 'data-representation' },
@@ -4695,8 +4754,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2024', effectiveTo: '2026', status: 'current',
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
-    sourceUrl: 'https://www.cambridgeinternational.org/Images/636097-2024-2026-syllabus.pdf', verifiedDate: '2026-08-19',
-    notes: 'AS Level includes Paper 1 and Paper 2; A Level adds Paper 3 and Paper 4. Each paper has two named sections. Set texts rotate by examination year and are not encoded here — this entry represents the syllabus’s structural components only.',
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/636097-2024-2026-syllabus.pdf', verifiedDate: '2026-11-20',
+    notes: 'AS Level includes Paper 1 and Paper 2; A Level adds Paper 3 and Paper 4. Each paper has two named sections. Set texts rotate by examination year and are not encoded here — this entry represents the syllabus’s structural components only. All 4 papers and 8 sections checked against the Cambridge syllabus PDF (Version 1, published September 2021; 61 pages) on 2026-11-20: names and order match. The syllabus prints no numbers for papers or sections, so the numbers here are our own, following paper and section order.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Paper 1 – Drama and Poetry', slug: 'paper-1-drama-and-poetry-9695', stage: 'AS', subtopics: [
         { number: '1.1', name: 'Section A: Drama', slug: 'section-a-drama-9695' },
@@ -4747,8 +4807,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2016', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'Pearson Edexcel — International GCSE English Literature (9–1) specification at qualifications.pearson.com',
-    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/English%20Literature/2016/Specification%20and%20sample%20assessments/international-gcse-english-literature-specification.pdf', verifiedDate: '2026-09-17',
-    notes: 'Students take Component 1 plus EITHER Component 2 (examined) OR Component 3 (non-examined, the alternative to Component 2, 40% weighting). Section 4 (English Literature content) of the specification is listed in full: the three components with their named sections (Component 1 Sections A-C, Component 2 Sections A-B) and assignments (Component 3 Assignments A-B), names as printed. The specification does not number the sections, so no sub-topic numbers are shown. Set texts (section 3, Set texts at a glance) are not encoded here. A modular version (4XET1) also exists and was not separately verified. E939 (round 43, 2026-09-17): rebuilt from the Issue 3 PDF at this record\'s link (43 pp., read to Pearson\'s registered-office block); the sections and Component 3 were previously left out.',
+    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/English%20Literature/2016/Specification%20and%20sample%20assessments/international-gcse-english-literature-specification.pdf', verifiedDate: '2026-11-20',
+    notes: 'Students take Component 1 plus EITHER Component 2 (examined) OR Component 3 (non-examined, the alternative to Component 2, 40% weighting). Section 4 (English Literature content) of the specification is listed in full: the three components with their named sections (Component 1 Sections A-C, Component 2 Sections A-B) and assignments (Component 3 Assignments A-B), names as printed. The specification does not number the sections, so no sub-topic numbers are shown. Set texts (section 3, Set texts at a glance) are not encoded here. A modular version (4XET1) also exists and was not separately verified. On 2026-11-20 all 3 components and their 7 sections and assignments were checked one by one against the Issue 3 PDF (August 2025, 43 pp.); the component and section names match as printed.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Component 1: Poetry and Modern Prose (examined)', slug: 'component-1-poetry-and-modern-prose-4et1', subtopics: [
         { number: '', name: 'Section A: Unseen Poetry', slug: 'section-a-unseen-poetry-4et1' },
@@ -4771,8 +4832,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2015', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'Pearson Edexcel — International Advanced Level English Literature specification at qualifications.pearson.com',
-    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/english-literature/2015/specification-and-sample-assessments/9781446954058-ial-englit-iss6-9-spec-240521pm.pdf', verifiedDate: '2026-09-02',
-    notes: 'International Advanced Subsidiary (IAS) comprises Units 1-2; the full International Advanced Level (IAL) adds Units 3-4. Each unit\'s content sections are listed with the specification\'s own numbers and names (Issue 7, February 2026): Unit 1 1.3 Poetry and 1.4 Prose; Unit 2 2.3 Pre-1900 and post-1900 Drama (one pre-1900 drama text from Doctor Faustus, Othello, The Rover, She Stoops to Conquer and Twelfth Night, assessed in Section A, and one post-1900 drama text from A Raisin in the Sun, A Streetcar Named Desire, Death of a Salesman, Top Girls and Waiting for Godot, assessed in Section B); Unit 3 3.3 Poetry and 3.4 Prose; Unit 4 4.3 Shakespeare and 4.4 Poetry. Sections .1 Unit description and .2 Assessment information are not content and are not listed; the prescribed texts for the other units (Appendix 5) are not encoded. E939 (round 43, 2026-09-17): rebuilt from the Issue 7 PDF at this record\'s link (53 pp., read to Pearson\'s registered-office block); Units 1, 3 and 4 previously had no sections, and Unit 2 had two sub-topics with invented numbers 2.A and 2.B.',
+    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/english-literature/2015/specification-and-sample-assessments/9781446954058-ial-englit-iss6-9-spec-240521pm.pdf', verifiedDate: '2026-11-20',
+    notes: 'International Advanced Subsidiary (IAS) comprises Units 1-2; the full International Advanced Level (IAL) adds Units 3-4. Each unit\'s content sections are listed with the specification\'s own numbers and names (Issue 7, February 2026): Unit 1 1.3 Poetry and 1.4 Prose; Unit 2 2.3 Pre-1900 and post-1900 Drama (one pre-1900 drama text from Doctor Faustus, Othello, The Rover, She Stoops to Conquer and Twelfth Night, assessed in Section A, and one post-1900 drama text from A Raisin in the Sun, A Streetcar Named Desire, Death of a Salesman, Top Girls and Waiting for Godot, assessed in Section B); Unit 3 3.3 Poetry and 3.4 Prose; Unit 4 4.3 Shakespeare and 4.4 Poetry. Sections .1 Unit description and .2 Assessment information are not content and are not listed; the prescribed texts for the other units (Appendix 5) are not encoded. On 2026-11-20 all four units and their 7 content sections were checked one by one against the Issue 7 PDF (53 pp.); numbers and names match as printed.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Unit 1: Post-2000 Poetry and Prose', slug: 'unit-1-post-2000-poetry-and-prose-yet01', stage: 'AS', subtopics: [
         { number: '1.3', name: 'Poetry', slug: 'unit-1-poetry-yet01' },
@@ -4950,8 +5012,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2018', effectiveTo: '2027', status: 'current',
     tiered: false,
     source: 'OxfordAQA — official International GCSE English Literature (9275) specification PDF',
-    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/10/oxfordaqa-international-gcse-english-literature-specification-2018.pdf', verifiedDate: '2026-11-08',
-    notes: 'Overlaps with AQA UK GCSE English Literature (8702). Two routes exist: Route A (Paper 1 + Paper 2a, with an unseen-prose section) and Route B (Paper 1 + Paper 2b + non-exam assessment). Both routes are listed: 3.1 Prose and drama (Paper 1, both routes), 3.2 Route A: Poetry and unseen texts, and 3.3 Route B: Poetry and non-exam assessment; set texts (from a prescribed list, plus the OxfordAQA poetry anthology People and Places) are not encoded here. D-240 (I361): Version 5.1 (copyright 2025, 24 pp.), linked from the OxfordAQA qualification page, read to its copyright block 2026-09-16; the routes, papers and section names above are unchanged. E939 (round 43, 2026-09-17): topics rebuilt from section 3 Subject content of the same PDF (24 pp., read to its copyright block) with its own numbers and names; 3.3 Route B (3.3.1 Poetry, 3.3.2 Unseen poetry, 3.3.3 Non-exam assessment) was previously left out, and the sub-topics were renumbered from 1.1-2.3 to the printed 3.1.1-3.2.3. 2026-11-08: the 2026/07 PDF URL returned 404; sourceUrl moved to the 2026/10 upload, whose cover reads Version 5.2 (series label kept at 5.1 pending a full re-read of the changes).',
+    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/10/oxfordaqa-international-gcse-english-literature-specification-2018.pdf', verifiedDate: '2026-11-20',
+    notes: 'Overlaps with AQA UK GCSE English Literature (8702). Two routes exist: Route A (Paper 1 + Paper 2a, with an unseen-prose section) and Route B (Paper 1 + Paper 2b + non-exam assessment). Both routes are listed: 3.1 Prose and drama (Paper 1, both routes), 3.2 Route A: Poetry and unseen texts, and 3.3 Route B: Poetry and non-exam assessment; set texts (from a prescribed list, plus the OxfordAQA poetry anthology People and Places) are not encoded here. D-240 (I361): Version 5.1 (copyright 2025, 24 pp.), linked from the OxfordAQA qualification page, read to its copyright block 2026-09-16; the routes, papers and section names above are unchanged. E939 (round 43, 2026-09-17): topics rebuilt from section 3 Subject content of the same PDF (24 pp., read to its copyright block) with its own numbers and names; 3.3 Route B (3.3.1 Poetry, 3.3.2 Unseen poetry, 3.3.3 Non-exam assessment) was previously left out, and the sub-topics were renumbered from 1.1-2.3 to the printed 3.1.1-3.2.3. 2026-11-08: the 2026/07 PDF URL returned 404; sourceUrl moved to the 2026/10 upload, whose cover reads Version 5.2 (series label kept at 5.1 pending a full re-read of the changes). Checked on 2026-11-20 against the OxfordAQA specification PDF at the source URL, whose cover reads Version 5.2: all 3 sections and all 8 numbered subtopics (3.1.1 to 3.3.3) match the printed numbers, names and order. The series label is still 5.1 and the changes between 5.1 and 5.2 have not been read.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Prose and drama', slug: 'prose-and-drama-9275', subtopics: [
         { number: '3.1.1', name: 'Prose fiction', slug: 'prose-fiction-9275' },
@@ -5049,8 +5112,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2027', effectiveTo: '2027', status: 'current',
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
-    sourceUrl: 'https://www.cambridgeinternational.org/Images/721433-2027-syllabus.pdf', verifiedDate: '2026-11-18',
-    notes: 'Syllabus for examination in 2027 (Version 1, published September 2024). Compared word by word on 2026-11-18 with the 2024-2026 syllabus: subject content (3.1 AS Level, 3.2 A Level with the four specialist options) and the details of the assessment (Papers 1 to 4: durations, marks, sections, weightings, command words) are unchanged in meaning. The one addition is a general note on ICD-11 terms in the introduction to section 3, which repeats the note already at the start of Specialist Option 1. Topic and sub-topic numbers, titles and slugs are therefore the same as in the 2024-2026 record, and the resources filed under 2024-2026 stay valid. The 2028-2030 syllabus is recorded in KNOWN_OTHER_SERIES with the differences found.',
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/721433-2027-syllabus.pdf', verifiedDate: '2026-11-20',
+    notes: 'Syllabus for examination in 2027 (Version 1, published September 2024). Compared word by word on 2026-11-18 with the 2024-2026 syllabus: subject content (3.1 AS Level, 3.2 A Level with the four specialist options) and the details of the assessment (Papers 1 to 4: durations, marks, sections, weightings, command words) are unchanged in meaning. The one addition is a general note on ICD-11 terms in the introduction to section 3, which repeats the note already at the start of Specialist Option 1. Topic and sub-topic numbers, titles and slugs are therefore the same as in the 2024-2026 record, and the resources filed under 2024-2026 stay valid. The 2028-2030 syllabus is recorded in KNOWN_OTHER_SERIES with the differences found. All six topics and 26 sub-topics checked again against the Cambridge syllabus PDF (Version 1, September 2024; 62 pages) on 2026-11-20: the four approaches, the two research methodology headings and the numbered sub-topics 1.1-1.5, 2.1-2.5, 3.1-3.5 and 4.1-4.5 match the printed names. The numbered headings below these (for example 1.1.1) are not recorded as sub-topics.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'The core studies', slug: 'paper-1-approaches-issues-and-debates-9990', stage: 'AS', subtopics: [
         { number: '', name: 'Biological approach', slug: 'biological-approach-9990' },
@@ -5098,8 +5162,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2024', effectiveTo: '2026', status: 'current',
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
-    sourceUrl: 'https://www.cambridgeinternational.org/Images/636099-2024-2026-syllabus.pdf', verifiedDate: '2026-08-19',
-    notes: 'AS Level covers Paper 1 and Paper 2. A Level adds Paper 3 and Paper 4; Paper 4 has three named sections and candidates answer on 2 of the 3. Cross-confirmed against OxfordAQA’s own International A-level Sociology (9690) switching guide, which independently reproduces this same paper structure. Paper 1 subtopics (1.1-2.3) reproduce the specification PDF\'s own two-section structure (Socialisation and the creation of social identity; Methods of research), fetched and verified 2026-08-21. Paper 2 subtopics (3.1-4.2) reproduce the same PDF\'s subject-content chapter (Theories of the family and social change; Family roles and changing relationships), fetched and verified 2026-09-02 (weekly study-guides automation run). Paper 3 subtopics (5.1-6.4) and Paper 4 subtopics (7.1-12.3) use the syllabus\'s own content numbers, read from version 3 (April 2026) on 2026-09-17: Paper 4 Section A Globalisation is content areas 7-8, Section B Media 9-10 and Section C Religion 11-12.',
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/636099-2024-2026-syllabus.pdf', verifiedDate: '2026-11-20',
+    notes: 'AS Level covers Paper 1 and Paper 2. A Level adds Paper 3 and Paper 4; Paper 4 has three named sections and candidates answer on 2 of the 3. Cross-confirmed against OxfordAQA’s own International A-level Sociology (9690) switching guide, which independently reproduces this same paper structure. Paper 1 subtopics (1.1-2.3) reproduce the specification PDF\'s own two-section structure (Socialisation and the creation of social identity; Methods of research), fetched and verified 2026-08-21. Paper 2 subtopics (3.1-4.2) reproduce the same PDF\'s subject-content chapter (Theories of the family and social change; Family roles and changing relationships), fetched and verified 2026-09-02 (weekly study-guides automation run). Paper 3 subtopics (5.1-6.4) and Paper 4 subtopics (7.1-12.3) use the syllabus\'s own content numbers, read from version 3 (April 2026) on 2026-09-17: Paper 4 Section A Globalisation is content areas 7-8, Section B Media 9-10 and Section C Religion 11-12. On 2026-11-20 every topic and all 35 subtopics were checked again against the printed syllabus (version 3, published April 2026); numbers and names match its headings.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Paper 1 – Socialisation, Identity and Methods of Research', slug: 'paper-1-socialisation-identity-methods-9699', stage: 'AS', subtopics: [
         { number: '1.1', name: 'The process of learning and socialisation', slug: 'process-of-learning-and-socialisation-9699' },
@@ -5152,8 +5217,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2025', effectiveTo: '2027', status: 'current',
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
-    sourceUrl: 'https://www.cambridgeinternational.org/Images/662464-2025-2027-syllabus.pdf', verifiedDate: '2026-08-19',
-    notes: 'Version 3, for exams in 2025, 2026 and 2027. Paper 1 is compulsory and teaches all three of its named topics; Paper 1 has three questions and candidates answer two, with Question 1 compulsory. Paper 2 covers three further named topics and candidates answer questions on 2 of the 3. Subtopics are the syllabus\'s own key questions 1.1-6.3 under its content areas 1 Research methods, 2 Identity: self and society, 3 Social stratification and inequality (Paper 1) and 4 Family, 5 Education, 6 Crime, deviance and social control (Paper 2), read from version 3 on 2026-09-17.',
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/662464-2025-2027-syllabus.pdf', verifiedDate: '2026-11-20',
+    notes: 'Version 3, for exams in 2025, 2026 and 2027. Paper 1 is compulsory and teaches all three of its named topics; Paper 1 has three questions and candidates answer two, with Question 1 compulsory. Paper 2 covers three further named topics and candidates answer questions on 2 of the 3. Subtopics are the syllabus\'s own key questions 1.1-6.3 under its content areas 1 Research methods, 2 Identity: self and society, 3 Social stratification and inequality (Paper 1) and 4 Family, 5 Education, 6 Crime, deviance and social control (Paper 2), read from version 3 on 2026-09-17. On 2026-11-20 both papers and all 18 key questions were checked again against the printed syllabus (version 3, published February 2024); numbers and wording match its content overview.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Paper 1 – Research Methods, Identity and Inequality', slug: 'paper-1-research-methods-identity-inequality-0495', subtopics: [
         { number: '1.1', name: 'Research methods – How do sociologists approach the study of society?', slug: 'kq-1-1-0495' },
@@ -5185,8 +5251,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2025', effectiveTo: '2027', status: 'current',
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
-    sourceUrl: 'https://www.cambridgeinternational.org/Images/662478-2025-2027-syllabus.pdf', verifiedDate: '2026-08-19',
-    notes: 'Version 3, for exams in 2025, 2026 and 2027. Independently confirmed against 2251’s own syllabus PDF (not assumed from IGCSE 0495): identical paper titles and structure to Cambridge IGCSE Sociology (0495) — Paper 1 compulsory across all three topics (Paper 1 has three questions, candidates answer two, Question 1 compulsory); Paper 2 candidates answer questions on 2 of its 3 topics. Subtopics are the syllabus\'s own key questions 1.1-6.3 under its content areas 1 Research methods, 2 Identity: self and society, 3 Social stratification and inequality (Paper 1) and 4 Family, 5 Education, 6 Crime, deviance and social control (Paper 2), read from version 3 on 2026-09-17.',
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/662478-2025-2027-syllabus.pdf', verifiedDate: '2026-11-20',
+    notes: 'Version 3, for exams in 2025, 2026 and 2027. Independently confirmed against 2251’s own syllabus PDF (not assumed from IGCSE 0495): identical paper titles and structure to Cambridge IGCSE Sociology (0495) — Paper 1 compulsory across all three topics (Paper 1 has three questions, candidates answer two, Question 1 compulsory); Paper 2 candidates answer questions on 2 of its 3 topics. Subtopics are the syllabus\'s own key questions 1.1-6.3 under its content areas 1 Research methods, 2 Identity: self and society, 3 Social stratification and inequality (Paper 1) and 4 Family, 5 Education, 6 Crime, deviance and social control (Paper 2), read from version 3 on 2026-09-17. On 2026-11-20 both papers and all 18 key questions were checked again against the printed syllabus (version 3, published February 2024); numbers and wording match its content overview.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Paper 1 – Research Methods, Identity and Inequality', slug: 'paper-1-research-methods-identity-inequality-2251', subtopics: [
         { number: '1.1', name: 'Research methods – How do sociologists approach the study of society?', slug: 'kq-1-1-2251' },
@@ -5218,20 +5285,21 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2017', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'AQA — official specification pages',
-    sourceUrl: 'https://www.aqa.org.uk/subjects/psychology/gcse/psychology-8182/specification', verifiedDate: '2026-08-19',
-    notes: 'Two equally-weighted papers, no coursework. Paper 1 (Cognition and Behaviour) content cross-checked against the full specification PDF (Version 1.1, 14 October 2021), fetched and verified 2026-08-21. Paper 2 (Social Context and Behaviour) subtopic detail -- Social Influence, Language/Thought/Communication, Brain and Neuropsychology, Psychological Problems -- verified directly against the official AQA subject-content page (aqa.org.uk/subjects/psychology/gcse/psychology-8182/specification/subject-content/social-context-and-behaviour), fetched 2026-09-02.',
+    sourceUrl: 'https://www.aqa.org.uk/subjects/psychology/gcse/psychology-8182/specification', verifiedDate: '2026-11-20',
+    notes: 'Two equally-weighted papers, no coursework. Paper 1 (Cognition and Behaviour) content cross-checked against the full specification PDF (Version 1.1, 14 October 2021), fetched and verified 2026-08-21. Paper 2 (Social Context and Behaviour) subtopic detail -- Social Influence, Language/Thought/Communication, Brain and Neuropsychology, Psychological Problems -- verified directly against the official AQA subject-content page (aqa.org.uk/subjects/psychology/gcse/psychology-8182/specification/subject-content/social-context-and-behaviour), fetched 2026-09-02. Checked again on 2026-11-20 against the same specification PDF (Version 1.1, 14 October 2021; 26 pages): both papers and all 8 numbered sub-headings (3.1.1 to 3.2.4) match its subject content section, with names now in the sentence case the PDF prints.',
+    subtopicsComplete: true,
     topics: [
-      { number: 1, name: 'Paper 1 – Cognition and Behaviour', slug: 'paper-1-cognition-and-behaviour-8182', subtopics: [
+      { number: 1, name: 'Paper 1: Cognition and behaviour', slug: 'paper-1-cognition-and-behaviour-8182', subtopics: [
         { number: '3.1.1', name: 'Memory', slug: 'memory-8182' },
         { number: '3.1.2', name: 'Perception', slug: 'perception-8182' },
         { number: '3.1.3', name: 'Development', slug: 'development-8182' },
-        { number: '3.1.4', name: 'Research Methods', slug: 'research-methods-8182' },
+        { number: '3.1.4', name: 'Research methods', slug: 'research-methods-8182' },
       ] },
-      { number: 2, name: 'Paper 2 – Social Context and Behaviour', slug: 'paper-2-social-context-and-behaviour-8182', subtopics: [
-        { number: '3.2.1', name: 'Social Influence', slug: 'social-influence-8182' },
-        { number: '3.2.2', name: 'Language, Thought and Communication', slug: 'language-thought-communication-8182' },
-        { number: '3.2.3', name: 'Brain and Neuropsychology', slug: 'brain-and-neuropsychology-8182' },
-        { number: '3.2.4', name: 'Psychological Problems', slug: 'psychological-problems-8182' },
+      { number: 2, name: 'Paper 2: Social context and behaviour', slug: 'paper-2-social-context-and-behaviour-8182', subtopics: [
+        { number: '3.2.1', name: 'Social influence', slug: 'social-influence-8182' },
+        { number: '3.2.2', name: 'Language, thought and communication', slug: 'language-thought-communication-8182' },
+        { number: '3.2.3', name: 'Brain and neuropsychology', slug: 'brain-and-neuropsychology-8182' },
+        { number: '3.2.4', name: 'Psychological problems', slug: 'psychological-problems-8182' },
       ] },
     ],
   },
@@ -5241,8 +5309,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2025', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'AQA — official specification pages',
-    sourceUrl: 'https://www.aqa.org.uk/subjects/psychology/a-level/psychology-7182/specification', verifiedDate: '2026-08-19',
-    notes: 'Linear A-level; AS Psychology (7181) is a separate qualification with its own papers. Rebuilt 2026-09-17 (round 43, E939 (11)) from the A-level subject content on the aqa.org.uk specification pages (3.1 Introductory topics in Psychology: 3.1.1-3.1.4; 3.2 Psychology in context: 3.2.1-3.2.3; 3.3 Issues and options in Psychology: 3.3.1-3.3.10), checked against the specification PDF those pages link (Version 1.4, 1 September 2025, for teaching from September 2025; 38 pages, read to the AQA registered-address block), whose A-level specification at a glance lists the same seventeen content areas. Paper 1 assesses 3.1 and Paper 2 assesses 3.2. Paper 3 assesses 3.3.1 and one topic from each of three options: option 1 (3.3.2 Relationships, 3.3.3 Gender, 3.3.4 Cognition and development), option 2 (3.3.5 Schizophrenia, 3.3.6 Eating behaviour, 3.3.7 Stress) and option 3 (3.3.8 Aggression, 3.3.9 Forensic Psychology, 3.3.10 Addiction). Research methods (3.2.3) has three numbered parts, 3.2.3.1 Scientific processes, 3.2.3.2 Data handling and analysis and 3.2.3.3 Inferential testing, not listed separately here. In Version 1.4, 3.1.2 Memory covers the multi-store model, the working memory model, explanations for forgetting and eyewitness testimony; types of long-term memory is no longer specification content.',
+    sourceUrl: 'https://www.aqa.org.uk/subjects/psychology/a-level/psychology-7182/specification', verifiedDate: '2026-11-20',
+    notes: 'Linear A-level; AS Psychology (7181) is a separate qualification with its own papers. Rebuilt 2026-09-17 from the A-level subject content on the aqa.org.uk specification pages (3.1 Introductory topics in Psychology: 3.1.1-3.1.4; 3.2 Psychology in context: 3.2.1-3.2.3; 3.3 Issues and options in Psychology: 3.3.1-3.3.10), checked against the specification PDF those pages link (Version 1.4, 1 September 2025, for teaching from September 2025; 38 pages, read to the AQA registered-address block), whose A-level specification at a glance lists the same seventeen content areas. Paper 1 assesses 3.1 and Paper 2 assesses 3.2. Paper 3 assesses 3.3.1 and one topic from each of three options: option 1 (3.3.2 Relationships, 3.3.3 Gender, 3.3.4 Cognition and development), option 2 (3.3.5 Schizophrenia, 3.3.6 Eating behaviour, 3.3.7 Stress) and option 3 (3.3.8 Aggression, 3.3.9 Forensic Psychology, 3.3.10 Addiction). Research methods (3.2.3) has three numbered parts, 3.2.3.1 Scientific processes, 3.2.3.2 Data handling and analysis and 3.2.3.3 Inferential testing, not listed separately here. In Version 1.4, 3.1.2 Memory covers the multi-store model, the working memory model, explanations for forgetting and eyewitness testimony; types of long-term memory is no longer specification content. Checked again on 2026-11-20 against the Version 1.4 PDF: all 3 topics and all 17 numbered sub-headings match its A-level subject content in name and order. The PDF numbers the A-level content 4.1.1 to 4.3.10 (section 3 is AS), while the AQA web pages number it 3.1.1 to 3.3.10, as entered here.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Introductory topics in Psychology', slug: 'paper-1-introductory-topics-7182', subtopics: [
         { number: '3.1.1', name: 'Social influence', slug: 'social-influence-7182' },
@@ -5326,8 +5395,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2023', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'OxfordAQA — official specification PDF',
-    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2023/10/oxfordaqa-gcse-psychology-specification.pdf', verifiedDate: '2026-08-19',
-    notes: 'First teaching September 2023, first examined May/June 2025. Two equally-weighted papers, no coursework.',
+    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2023/10/oxfordaqa-gcse-psychology-specification.pdf', verifiedDate: '2026-11-20',
+    notes: 'First teaching September 2023, first examined May/June 2025. Two equally-weighted papers, no coursework. Checked on 2026-11-20 against the OxfordAQA specification PDF (Version 1.1): both papers and all 8 numbered subtopics (3.1.1 to 3.2.4) match the printed numbers and order; capital letters and one word (Social influence) were corrected to the printed names.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Paper 1 – Cognition and Behaviour', slug: 'paper-1-cognition-and-behaviour-9218', subtopics: [
         { number: '3.1.1', name: 'Memory', slug: 'memory-9218' },
@@ -5337,9 +5407,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
       ] },
       { number: 2, name: 'Paper 2 – Social Context and Behaviour', slug: 'paper-2-social-context-and-behaviour-9218', subtopics: [
         { number: '3.2.1', name: 'Communication', slug: 'communication-9218' },
-        { number: '3.2.2', name: 'Social Influences', slug: 'social-influences-9218' },
-        { number: '3.2.3', name: 'Mental Health', slug: 'mental-health-9218' },
-        { number: '3.2.4', name: 'Research Methods', slug: 'research-methods-paper2-9218' },
+        { number: '3.2.2', name: 'Social influence', slug: 'social-influences-9218' },
+        { number: '3.2.3', name: 'Mental health', slug: 'mental-health-9218' },
+        { number: '3.2.4', name: 'Research methods', slug: 'research-methods-paper2-9218' },
       ] },
     ],
   },
@@ -5349,28 +5419,29 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2018', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'OxfordAQA — official specification PDF',
-    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2022/08/oxfordaqa-a-level-psychology-specification.pdf', verifiedDate: '2026-09-17',
-    notes: 'First teaching September 2018; first AS exams May/June 2019; first A-level exams May/June 2020. International AS content is Unit 1 and Unit 2; A2 adds Unit 3 and Unit 4 (Unit 4 is synoptic). AS content is 50% of A-level content but contributes 40% of final marks; units are resittable. Unit 2 (Biopsychology, Development and Research Methods 1) subtopics 3.2.1-3.2.3 reproduce the specification\'s own sub-headings and content bullets, fetched and verified 2026-09-02 from the full specification PDF, Version 3.1 (oxfordaqa.com/wp-content/uploads/2022/08/oxfordaqa-a-level-psychology-specification.pdf). That file still opens, but the OxfordAQA qualification page no longer links it: on 2026-09-17 the page linked a specification file marked Version 2.2 (copyright 2019), whose Unit 2 sub-headings 3.2.1-3.2.3 are the same.',
+    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2022/08/oxfordaqa-a-level-psychology-specification.pdf', verifiedDate: '2026-11-20',
+    notes: 'First teaching September 2018; first AS exams May/June 2019; first A-level exams May/June 2020. International AS content is Unit 1 and Unit 2; A2 adds Unit 3 and Unit 4 (Unit 4 is synoptic). AS content is 50% of A-level content but contributes 40% of final marks; units are resittable. Unit 2 (Biopsychology, Development and Research Methods 1) subtopics 3.2.1-3.2.3 reproduce the specification\'s own sub-headings and content bullets, fetched and verified 2026-09-02 from the full specification PDF, Version 3.1 (oxfordaqa.com/wp-content/uploads/2022/08/oxfordaqa-a-level-psychology-specification.pdf). That file still opens, but the OxfordAQA qualification page no longer links it: on 2026-09-17 the page linked a specification file marked Version 2.2 (copyright 2019), whose Unit 2 sub-headings 3.2.1-3.2.3 are the same. Checked on 2026-11-20 against the OxfordAQA specification PDF (Version 3.1): all 4 units and all 12 numbered subtopics (3.1.1 to 3.4.3) match the printed numbers and order; capital letters were corrected to the printed names.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Unit 1 – Introductory Topics in Psychology', slug: 'unit-1-introductory-topics-9685', stage: 'AS', subtopics: [
         { number: '3.1.1', name: 'Memory', slug: 'memory-9685' },
-        { number: '3.1.2', name: 'Social Psychology', slug: 'social-psychology-9685' },
+        { number: '3.1.2', name: 'Social psychology', slug: 'social-psychology-9685' },
         { number: '3.1.3', name: 'Psychopathology', slug: 'psychopathology-9685' },
       ] },
       { number: 2, name: 'Unit 2 – Biopsychology, Development and Research Methods 1', slug: 'unit-2-biopsychology-development-9685', stage: 'AS', subtopics: [
         { number: '3.2.1', name: 'Biopsychology', slug: 'biopsychology-9685' },
-        { number: '3.2.2', name: 'Cognitive Development', slug: 'cognitive-development-9685' },
-        { number: '3.2.3', name: 'Research Methods 1', slug: 'research-methods-1-9685' },
+        { number: '3.2.2', name: 'Cognitive development', slug: 'cognitive-development-9685' },
+        { number: '3.2.3', name: 'Research methods 1', slug: 'research-methods-1-9685' },
       ] },
       { number: 3, name: 'Unit 3 – Advanced Topics and Research Methods 2', slug: 'unit-3-advanced-topics-9685', stage: 'A', subtopics: [
-        { number: '3.3.1', name: 'Psychology of Sleep', slug: 'psychology-of-sleep-9685' },
+        { number: '3.3.1', name: 'Psychology of sleep', slug: 'psychology-of-sleep-9685' },
         { number: '3.3.2', name: 'Schizophrenia', slug: 'schizophrenia-9685' },
-        { number: '3.3.3', name: 'Research Methods 2', slug: 'research-methods-2-9685' },
+        { number: '3.3.3', name: 'Research methods 2', slug: 'research-methods-2-9685' },
       ] },
       { number: 4, name: 'Unit 4 – Approaches and Application (Synoptic)', slug: 'unit-4-approaches-and-application-9685', stage: 'A', subtopics: [
-        { number: '3.4.1', name: 'Scientific Approaches in Psychology', slug: 'approaches-in-psychology-9685' },
-        { number: '3.4.2', name: 'Issues and Debates in Psychology', slug: 'issues-and-debates-9685' },
-        { number: '3.4.3', name: 'Applied Psychology: Work and the Individual', slug: 'applied-psychology-work-individual-9685' },
+        { number: '3.4.1', name: 'Scientific approaches in psychology', slug: 'approaches-in-psychology-9685' },
+        { number: '3.4.2', name: 'Issues and debates in psychology', slug: 'issues-and-debates-9685' },
+        { number: '3.4.3', name: 'Applied psychology: Work and the individual', slug: 'applied-psychology-work-individual-9685' },
       ] },
     ],
   },
@@ -5380,8 +5451,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2026', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'OxfordAQA — official specification PDF',
-    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-international-gcse-sociology-specification.pdf', verifiedDate: '2026-09-17',
-    notes: 'New qualification: Version 1.0, first examined May/June 2028. Research methods content (3.1.3) is assessed in Section C of both papers rather than existing as a separate component. Subtopic numbers are the specification\'s own: Paper 1 assesses 3.1.1 Families, 3.1.2 Education and 3.1.3 Research methods; Paper 2 assesses 3.2.1 Differences and inequalities, 3.2.2 Socialisation and social control and 3.1.3 Research methods.',
+    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-international-gcse-sociology-specification.pdf', verifiedDate: '2026-11-20',
+    notes: 'New qualification: Version 1.0, first examined May/June 2028. Research methods content (3.1.3) is assessed in Section C of both papers rather than existing as a separate component. Subtopic numbers are the specification\'s own: Paper 1 assesses 3.1.1 Families, 3.1.2 Education and 3.1.3 Research methods; Paper 2 assesses 3.2.1 Differences and inequalities, 3.2.2 Socialisation and social control and 3.1.3 Research methods. Both papers and all six subtopics checked against the specification PDF (Version 1.0) on 2026-11-20. The finer content areas inside each subtopic (for example 3.1.1.1 Families, marriage and kinship) are not entered as subtopics.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Paper 1 – Introducing Sociology', slug: 'paper-1-introducing-sociology-9292', subtopics: [
         { number: '3.1.1', name: 'Families', slug: 'families-9292' },
@@ -5401,8 +5473,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2026', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'OxfordAQA — official specification PDF (International AS/A level Sociology 9690, Version 1.1)',
-    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/10/oxfordaqa-international-a-level-sociology-specification.pdf', verifiedDate: '2026-10-04',
-    notes: 'New qualification: for teaching from September 2026, International AS exams May/June 2027 onwards, International A-level exams May/June 2028 onwards. Read from the specification PDF itself (Version 1.0); re-checked against Version 1.1 on 2026-10-04 (D-387), which renames 3.2.1.1 from "The great divide" to "The Great Divergence" and rewrites its content (why Europe industrialised: modernisation theory, Weber, dependency theory); every other topic and subtopic name is unchanged. The slug the-great-divide-9690 is kept so existing resource mappings stay valid. International AS content is 3.1.1 Families, 3.1.2 Socialisation and social control and 3.1.3 Research methods and theory: Unit 1 Introducing Sociology assesses 3.1.1 (Section A, 40 marks) and 3.1.3 (Section B Research methods, 20 marks); Unit 2 Exploring Sociology assesses 3.1.2 (Section A, 40 marks) and 3.1.3 (Section B Research methods and theory, 20 marks, an extended response question). A2 adds 3.2.1 People and development (Unit 3), 3.2.2 People and the environment (Unit 4) and 3.2.3 People and technology (Unit 5). Subtopic numbers are the specification\'s own.',
+    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/10/oxfordaqa-international-a-level-sociology-specification.pdf', verifiedDate: '2026-11-20',
+    notes: 'New qualification: for teaching from September 2026, International AS exams May/June 2027 onwards, International A-level exams May/June 2028 onwards. Read from the specification PDF itself (Version 1.0); re-checked against Version 1.1 on 2026-10-04 (D-387), which renames 3.2.1.1 from "The great divide" to "The Great Divergence" and rewrites its content (why Europe industrialised: modernisation theory, Weber, dependency theory); every other topic and subtopic name is unchanged. The slug the-great-divide-9690 is kept so existing resource mappings stay valid. International AS content is 3.1.1 Families, 3.1.2 Socialisation and social control and 3.1.3 Research methods and theory: Unit 1 Introducing Sociology assesses 3.1.1 (Section A, 40 marks) and 3.1.3 (Section B Research methods, 20 marks); Unit 2 Exploring Sociology assesses 3.1.2 (Section A, 40 marks) and 3.1.3 (Section B Research methods and theory, 20 marks, an extended response question). A2 adds 3.2.1 People and development (Unit 3), 3.2.2 People and the environment (Unit 4) and 3.2.3 People and technology (Unit 5). Subtopic numbers are the specification\'s own. All five units and 24 subtopics checked against the Version 1.1 PDF on 2026-11-20. The five content areas of 3.1.3 (3.1.3.1 to 3.1.3.5) are carried once per unit as the single 3.1.3 entry.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Unit 1 – Introducing Sociology', slug: 'unit-1-introducing-sociology-9690', stage: 'AS', subtopics: [
         { number: '3.1.1.1', name: 'Families, marriage and kinship', slug: 'families-marriage-kinship-9690' },
@@ -5477,8 +5550,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2025', effectiveTo: '2026', status: 'current',
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
-    sourceUrl: 'https://www.cambridgeinternational.org/Images/664610-2025-2026-syllabus.pdf', verifiedDate: '2026-08-19',
-    notes: 'Three themes, 19 named sub-topics with required case studies. All candidates take Paper 1 and Paper 2, plus either Component 3 Coursework or Paper 4 Alternative to Coursework. 0460 (A*-G) and 0976 (9-1 grading) are content-identical parallel variants; this entry verifies 0460.',
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/664610-2025-2026-syllabus.pdf', verifiedDate: '2026-11-20',
+    notes: 'Three themes, 19 named sub-topics with required case studies. All candidates take Paper 1 and Paper 2, plus either Component 3 Coursework or Paper 4 Alternative to Coursework. 0460 (A*-G) and 0976 (9-1 grading) are content-identical parallel variants; this entry verifies 0460. On 2026-11-20 all three themes and 19 subtopics were checked again against the printed syllabus (version 2, published November 2022); numbers and wording match its headings, apart from capital letters.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Theme 1 – Population and Settlement', slug: 'theme-1-population-settlement-0460', subtopics: [
         { number: '1.1', name: 'Population Dynamics', slug: 'population-dynamics-0460' },
@@ -5513,8 +5587,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2026', effectiveTo: '2026', status: 'current',
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
-    sourceUrl: 'https://www.cambridgeinternational.org/Images/697292-2026-syllabus.pdf', verifiedDate: '2026-08-19',
-    notes: 'Independently confirmed against 2217’s own syllabus PDF (not assumed from IGCSE 0460): identical three-theme, 19-subtopic structure. Exams available in the November series only.',
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/697292-2026-syllabus.pdf', verifiedDate: '2026-11-20',
+    notes: 'Independently confirmed against 2217’s own syllabus PDF (not assumed from IGCSE 0460): identical three-theme, 19-subtopic structure. Exams available in the November series only. On 2026-11-20 all three themes and 19 subtopics were checked again against the printed syllabus (version 3, published December 2025); numbers and wording match its headings, apart from capital letters.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Theme 1 – Population and Settlement', slug: 'theme-1-population-settlement-2217', subtopics: [
         { number: '1.1', name: 'Population Dynamics', slug: 'population-dynamics-2217' },
@@ -5692,31 +5767,32 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2024', effectiveTo: '2026', status: 'current',
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
-    sourceUrl: 'https://www.cambridgeinternational.org/Images/649636-2024-2026-syllabus.pdf', verifiedDate: '2026-08-19',
-    notes: 'All candidates study Core content in Option A or Option B (six key questions each), plus at least one of five named Depth studies. Assessed via Paper 1 (Structured Questions), Paper 2 (Document Questions), and either Component 3 Coursework or Paper 4 (candidates take Paper 1 and Paper 2, plus either Component 3 or Paper 4).',
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/649636-2024-2026-syllabus.pdf', verifiedDate: '2026-11-20',
+    notes: 'All candidates study Core content in Option A or Option B (six key questions each), plus at least one of five named Depth studies. Assessed via Paper 1 (Structured Questions), Paper 2 (Document Questions), and either Component 3 Coursework or Paper 4 (candidates take Paper 1 and Paper 2, plus either Component 3 or Paper 4). Checked on 2026-11-20 against the Version 1 syllabus PDF: all 6 + 6 key questions and 5 Depth studies match the printed headings.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Core content: Option A – The nineteenth century: the development of modern nation states, 1848–1914', slug: 'core-content-option-a-0470', subtopics: [
-        { number: '1.1', name: 'Were the Revolutions of 1848 Important?', slug: 'revolutions-1848-0470' },
-        { number: '1.2', name: 'How Was Italy Unified?', slug: 'unification-italy-0470' },
-        { number: '1.3', name: 'How Was Germany Unified?', slug: 'unification-germany-0470' },
-        { number: '1.4', name: 'Why Was There a Civil War in the United States and What Were Its Results?', slug: 'us-civil-war-0470' },
-        { number: '1.5', name: 'Why, and With What Effects, Did Nations Gain and Expand Their Overseas Empires in the Nineteenth Century?', slug: 'overseas-empires-0470' },
-        { number: '1.6', name: 'What Caused the First World War?', slug: 'causes-first-world-war-0470' },
+        { number: '1.1', name: 'Were the revolutions of 1848 important?', slug: 'revolutions-1848-0470' },
+        { number: '1.2', name: 'How was Italy unified?', slug: 'unification-italy-0470' },
+        { number: '1.3', name: 'How was Germany unified?', slug: 'unification-germany-0470' },
+        { number: '1.4', name: 'Why was there a civil war in the United States and what were its results?', slug: 'us-civil-war-0470' },
+        { number: '1.5', name: 'Why, and with what effects, did nations gain and expand their overseas empires in the nineteenth century?', slug: 'overseas-empires-0470' },
+        { number: '1.6', name: 'What caused the First World War?', slug: 'causes-first-world-war-0470' },
       ] },
       { number: 2, name: 'Core content: Option B – The twentieth century: international relations since 1919', slug: 'core-content-option-b-0470', subtopics: [
-        { number: '2.1', name: 'Was the Treaty of Versailles Fair?', slug: 'treaty-of-versailles-0470' },
-        { number: '2.2', name: 'To What Extent Was the League of Nations a Success?', slug: 'league-of-nations-success-0470' },
-        { number: '2.3', name: 'How Far Was Hitler’s Foreign Policy to Blame for the Outbreak of War in Europe in 1939?', slug: 'hitlers-foreign-policy-0470' },
-        { number: '2.4', name: 'Who Was to Blame for the Cold War?', slug: 'blame-cold-war-0470' },
-        { number: '2.5', name: 'How Effectively Did the United States Contain the Spread of Communism?', slug: 'containment-communism-0470' },
-        { number: '2.6', name: 'How Secure Was the USSR’s Control Over Eastern Europe, 1948–c.1989?', slug: 'ussr-control-eastern-europe-0470' },
+        { number: '2.1', name: 'Was the Treaty of Versailles fair?', slug: 'treaty-of-versailles-0470' },
+        { number: '2.2', name: 'To what extent was the League of Nations a success?', slug: 'league-of-nations-success-0470' },
+        { number: '2.3', name: 'How far was Hitler’s foreign policy to blame for the outbreak of war in Europe in 1939?', slug: 'hitlers-foreign-policy-0470' },
+        { number: '2.4', name: 'Who was to blame for the Cold War?', slug: 'blame-cold-war-0470' },
+        { number: '2.5', name: 'How effectively did the United States contain the spread of communism?', slug: 'containment-communism-0470' },
+        { number: '2.6', name: 'How secure was the USSR’s control over Eastern Europe, 1948–c.1989?', slug: 'ussr-control-eastern-europe-0470' },
       ] },
       { number: 3, name: 'Depth Studies', slug: 'depth-studies-0470', subtopics: [
-        { number: '3.1', name: 'Depth Study A: The First World War, 1914–18', slug: 'depth-study-a-wwi-0470' },
-        { number: '3.2', name: 'Depth Study B: Germany, 1918–45', slug: 'depth-study-b-germany-0470' },
-        { number: '3.3', name: 'Depth Study C: Russia, 1905–41', slug: 'depth-study-c-russia-0470' },
-        { number: '3.4', name: 'Depth Study D: The United States, 1919–41', slug: 'depth-study-d-usa-0470' },
-        { number: '3.5', name: 'Depth Study E: The Second World War in Europe and the Asia-Pacific, 1939–c.1945', slug: 'depth-study-e-wwii-0470' },
+        { number: '3.1', name: 'Depth study A: The First World War, 1914–18', slug: 'depth-study-a-wwi-0470' },
+        { number: '3.2', name: 'Depth study B: Germany, 1918–45', slug: 'depth-study-b-germany-0470' },
+        { number: '3.3', name: 'Depth study C: Russia, 1905–41', slug: 'depth-study-c-russia-0470' },
+        { number: '3.4', name: 'Depth study D: The United States, 1919–41', slug: 'depth-study-d-usa-0470' },
+        { number: '3.5', name: 'Depth study E: The Second World War in Europe and the Asia–Pacific, 1939–c.1945', slug: 'depth-study-e-wwii-0470' },
       ] },
     ],
   },
@@ -5726,31 +5802,32 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2024', effectiveTo: '2026', status: 'current',
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
-    sourceUrl: 'https://www.cambridgeinternational.org/Images/649640-2024-2026-syllabus.pdf', verifiedDate: '2026-08-19',
-    notes: 'Independently confirmed against 2147’s own syllabus PDF (not assumed from IGCSE 0470): identical Core content options and identical five named Depth studies. Assessed via Paper 1 (Structured Questions, drawing on Core content and one Depth study) and Paper 2 (Document Questions, on a prescribed topic from the Core content, which changes in each exam series) — no coursework or Paper 4 alternative at this level.',
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/649640-2024-2026-syllabus.pdf', verifiedDate: '2026-11-20',
+    notes: 'Independently confirmed against 2147’s own syllabus PDF (not assumed from IGCSE 0470): identical Core content options and identical five named Depth studies. Assessed via Paper 1 (Structured Questions, drawing on Core content and one Depth study) and Paper 2 (Document Questions, on a prescribed topic from the Core content, which changes in each exam series) — no coursework or Paper 4 alternative at this level. Checked on 2026-11-20 against the Version 1 syllabus PDF: all 6 + 6 key questions and 5 Depth studies match the printed headings.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Core content: Option A – The nineteenth century: the development of modern nation states, 1848–1914', slug: 'core-content-option-a-2147', subtopics: [
-        { number: '1.1', name: 'Were the Revolutions of 1848 Important?', slug: 'revolutions-1848-2147' },
-        { number: '1.2', name: 'How Was Italy Unified?', slug: 'unification-italy-2147' },
-        { number: '1.3', name: 'How Was Germany Unified?', slug: 'unification-germany-2147' },
-        { number: '1.4', name: 'Why Was There a Civil War in the United States and What Were Its Results?', slug: 'us-civil-war-2147' },
-        { number: '1.5', name: 'Why, and With What Effects, Did Nations Gain and Expand Their Overseas Empires in the Nineteenth Century?', slug: 'overseas-empires-2147' },
-        { number: '1.6', name: 'What Caused the First World War?', slug: 'causes-first-world-war-2147' },
+        { number: '1.1', name: 'Were the revolutions of 1848 important?', slug: 'revolutions-1848-2147' },
+        { number: '1.2', name: 'How was Italy unified?', slug: 'unification-italy-2147' },
+        { number: '1.3', name: 'How was Germany unified?', slug: 'unification-germany-2147' },
+        { number: '1.4', name: 'Why was there a civil war in the United States and what were its results?', slug: 'us-civil-war-2147' },
+        { number: '1.5', name: 'Why, and with what effects, did nations gain and expand their overseas empires in the nineteenth century?', slug: 'overseas-empires-2147' },
+        { number: '1.6', name: 'What caused the First World War?', slug: 'causes-first-world-war-2147' },
       ] },
       { number: 2, name: 'Core content: Option B – The twentieth century: international relations since 1919', slug: 'core-content-option-b-2147', subtopics: [
-        { number: '2.1', name: 'Was the Treaty of Versailles Fair?', slug: 'treaty-of-versailles-2147' },
-        { number: '2.2', name: 'To What Extent Was the League of Nations a Success?', slug: 'league-of-nations-success-2147' },
-        { number: '2.3', name: 'How Far Was Hitler’s Foreign Policy to Blame for the Outbreak of War in Europe in 1939?', slug: 'hitlers-foreign-policy-2147' },
-        { number: '2.4', name: 'Who Was to Blame for the Cold War?', slug: 'blame-cold-war-2147' },
-        { number: '2.5', name: 'How Effectively Did the United States Contain the Spread of Communism?', slug: 'containment-communism-2147' },
-        { number: '2.6', name: 'How Secure Was the USSR’s Control Over Eastern Europe, 1948–c.1989?', slug: 'ussr-control-eastern-europe-2147' },
+        { number: '2.1', name: 'Was the Treaty of Versailles fair?', slug: 'treaty-of-versailles-2147' },
+        { number: '2.2', name: 'To what extent was the League of Nations a success?', slug: 'league-of-nations-success-2147' },
+        { number: '2.3', name: 'How far was Hitler’s foreign policy to blame for the outbreak of war in Europe in 1939?', slug: 'hitlers-foreign-policy-2147' },
+        { number: '2.4', name: 'Who was to blame for the Cold War?', slug: 'blame-cold-war-2147' },
+        { number: '2.5', name: 'How effectively did the United States contain the spread of communism?', slug: 'containment-communism-2147' },
+        { number: '2.6', name: 'How secure was the USSR’s control over Eastern Europe, 1948–c.1989?', slug: 'ussr-control-eastern-europe-2147' },
       ] },
       { number: 3, name: 'Depth Studies', slug: 'depth-studies-2147', subtopics: [
-        { number: '3.1', name: 'Depth Study A: The First World War, 1914–18', slug: 'depth-study-a-wwi-2147' },
-        { number: '3.2', name: 'Depth Study B: Germany, 1918–45', slug: 'depth-study-b-germany-2147' },
-        { number: '3.3', name: 'Depth Study C: Russia, 1905–41', slug: 'depth-study-c-russia-2147' },
-        { number: '3.4', name: 'Depth Study D: The United States, 1919–41', slug: 'depth-study-d-usa-2147' },
-        { number: '3.5', name: 'Depth Study E: The Second World War in Europe and the Asia-Pacific, 1939–c.1945', slug: 'depth-study-e-wwii-2147' },
+        { number: '3.1', name: 'Depth study A: The First World War, 1914–18', slug: 'depth-study-a-wwi-2147' },
+        { number: '3.2', name: 'Depth study B: Germany, 1918–45', slug: 'depth-study-b-germany-2147' },
+        { number: '3.3', name: 'Depth study C: Russia, 1905–41', slug: 'depth-study-c-russia-2147' },
+        { number: '3.4', name: 'Depth study D: The United States, 1919–41', slug: 'depth-study-d-usa-2147' },
+        { number: '3.5', name: 'Depth study E: The Second World War in Europe and the Asia–Pacific, 1939–c.1945', slug: 'depth-study-e-wwii-2147' },
       ] },
     ],
   },
@@ -5760,8 +5837,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2017', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'Pearson Edexcel — official specification PDF',
-    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/History/2017/specification-and-sample-assessments/int-gcse-history-specification.pdf', verifiedDate: '2026-08-19',
-    notes: 'Two mandatory, linear papers, available paper-based or onscreen. Paper 1: candidates study at least 2 of 8 named depth studies. Paper 2: candidates study 1 of 5 named historical investigations plus 1 of 8 named breadth studies in change.',
+    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/History/2017/specification-and-sample-assessments/int-gcse-history-specification.pdf', verifiedDate: '2026-11-20',
+    notes: 'Two mandatory, linear papers, available paper-based or onscreen. Paper 1: candidates study at least 2 of 8 named depth studies. Paper 2: candidates study 1 of 5 named historical investigations plus 1 of 8 named breadth studies in change. On 2026-11-20 both papers and all 21 depth studies, investigations and breadth studies were checked against the printed specification (Issue 5, February 2026). The specification numbers depth studies 1-8 and labels the others A1-A5 and B1-B8; the subtopic numbers here (1.1-1.8, 2.1-2.13) follow the order of that list. Three breadth study names were corrected to the printed colon.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Paper 1 – Depth Studies (choose at least 2 of 8)', slug: 'paper-1-depth-studies-4hi1', subtopics: [
         { number: '1.1', name: 'The French Revolution, c1780–99', slug: 'french-revolution-4hi1' },
@@ -5779,13 +5857,13 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '2.3', name: 'Historical Investigation A3: The USA, 1918–41', slug: 'investigation-usa-4hi1' },
         { number: '2.4', name: 'Historical Investigation A4: The Vietnam Conflict, 1945–75', slug: 'investigation-vietnam-4hi1' },
         { number: '2.5', name: 'Historical Investigation A5: East Germany, 1958–90', slug: 'investigation-east-germany-4hi1' },
-        { number: '2.6', name: 'Breadth Study B1: America — From New Nation to Divided Union, 1783–1877', slug: 'breadth-study-america-4hi1' },
+        { number: '2.6', name: 'Breadth Study B1: America: From New Nation to Divided Union, 1783–1877', slug: 'breadth-study-america-4hi1' },
         { number: '2.7', name: 'Breadth Study B2: Changes in Medicine, c1848–c1948', slug: 'breadth-study-medicine-4hi1' },
         { number: '2.8', name: 'Breadth Study B3: Japan in Transformation, 1853–1945', slug: 'breadth-study-japan-4hi1' },
-        { number: '2.9', name: 'Breadth Study B4: China — Conflict, Crisis and Change, 1900–89', slug: 'breadth-study-china-4hi1' },
+        { number: '2.9', name: 'Breadth Study B4: China: Conflict, Crisis and Change, 1900–89', slug: 'breadth-study-china-4hi1' },
         { number: '2.10', name: 'Breadth Study B5: The Changing Role of International Organisations: the League and the UN, 1919–c2011', slug: 'breadth-study-international-organisations-4hi1' },
         { number: '2.11', name: 'Breadth Study B6: The Changing Nature of Warfare and International Conflict, 1919–2011', slug: 'breadth-study-warfare-4hi1' },
-        { number: '2.12', name: 'Breadth Study B7: The Middle East — Conflict, Crisis and Change, 1917–2012', slug: 'breadth-study-middle-east-4hi1' },
+        { number: '2.12', name: 'Breadth Study B7: The Middle East: Conflict, Crisis and Change, 1917–2012', slug: 'breadth-study-middle-east-4hi1' },
         { number: '2.13', name: 'Breadth Study B8: Diversity, Rights and Equality in Britain, 1914–2010', slug: 'breadth-study-britain-diversity-4hi1' },
       ] },
     ],
@@ -5816,16 +5894,28 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2026', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'OxfordAQA — official specification PDF',
-    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-international-gcse-history-specification.pdf', verifiedDate: '2026-09-17',
-    notes: 'New qualification: for teaching from September 2026, first examined May/June 2028. Two papers, each 1hr45min/60 marks/50% of GCSE. Option names and dates read 2026-09-17 from the specification PDF itself (Version 1.1, July 2026 upload, which replaces the February 2026 upload previously linked here; that URL now returns 404).',
+    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-international-gcse-history-specification.pdf', verifiedDate: '2026-11-20',
+    notes: 'New qualification: for teaching from September 2026, first examined May/June 2028. Two papers, each 1hr45min/60 marks/50% of GCSE. Option names and dates read 2026-09-17 from the specification PDF itself (Version 1.1, July 2026 upload, which replaces the February 2026 upload previously linked here; that URL now returns 404). Both papers, their 4 sections and the 11 optional studies checked against the specification PDF (Version 1.1; 24 pages) on 2026-11-20. Section subtopics (3.1.1, 3.1.2, 3.2.1, 3.2.2) now carry the headings as printed, and each optional study is listed under its section with the number and wording the PDF prints. The PDF prints the number of Medicine and change as 3.3.2.2, which looks like a typo, so it is shown here as 3.2.2.2.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Paper 1 – International Relations Depth Studies: Conflict and Peace in the 20th Century', slug: 'paper-1-international-relations-depth-studies-9245', subtopics: [
-        { number: '3.1.1', name: 'Section A (choose 1 of 2): Peacemaking and the League of Nations, c1919-1939; Crises of the Cold War, 1960-1975', slug: 'paper-1-section-a-9245' },
-        { number: '3.1.2', name: "Section B (choose 1 of 4): The origins of the First World War, c1890-1915; Hitler's foreign policy and the origins of the Second World War, 1933-1941; The origins and development of the Cold War, 1945-1960; Détente and the collapse of communism, c1969-1991", slug: 'paper-1-section-b-9245' },
+        { number: '3.1.1', name: 'Section A', slug: 'paper-1-section-a-9245' },
+        { number: '3.1.1.1', name: 'Peacemaking and the League of Nations, c1919-1939', slug: 'peacemaking-and-the-league-of-nations-9245' },
+        { number: '3.1.1.2', name: 'Crises of the Cold War, 1960-1975', slug: 'crises-of-the-cold-war-9245' },
+        { number: '3.1.2', name: 'Section B', slug: 'paper-1-section-b-9245' },
+        { number: '3.1.2.1', name: 'The origins of the First World War, c1890–1915', slug: 'origins-of-the-first-world-war-9245' },
+        { number: '3.1.2.2', name: 'Hitler’s foreign policy and the origins of the Second World War, 1933-41', slug: 'hitlers-foreign-policy-and-the-origins-of-the-second-world-war-9245' },
+        { number: '3.1.2.3', name: 'The origins and development of the Cold War, 1945–1960', slug: 'origins-and-development-of-the-cold-war-9245' },
+        { number: '3.1.2.4', name: 'Détente and the collapse of communism, c1969-1991', slug: 'detente-and-the-collapse-of-communism-9245' },
       ] },
       { number: 2, name: 'Paper 2 – Studies in Change', slug: 'paper-2-studies-in-change-9245', subtopics: [
-        { number: '3.2.1', name: 'Section A – Societies in change (choose 1 of 3): Life in Germany, 1919-1949; Life in Russia and the USSR, 1914-1953; Life in the USA, 1920-1968', slug: 'paper-2-section-a-9245' },
-        { number: '3.2.2', name: 'Section B – Thematic studies (choose 1 of 2): Technology and change, c800-present day; Medicine and change, c800-present day', slug: 'paper-2-section-b-9245' },
+        { number: '3.2.1', name: 'Section A – Societies in change', slug: 'paper-2-section-a-9245' },
+        { number: '3.2.1.1', name: 'Life in Germany, 1919-1949', slug: 'life-in-germany-9245' },
+        { number: '3.2.1.2', name: 'Life in Russia and the USSR, 1914-1953', slug: 'life-in-russia-and-the-ussr-9245' },
+        { number: '3.2.1.3', name: 'Life in the USA, 1920-1968', slug: 'life-in-the-usa-9245' },
+        { number: '3.2.2', name: 'Section B - Thematic Studies', slug: 'paper-2-section-b-9245' },
+        { number: '3.2.2.1', name: 'Technology and change, c800 – present day', slug: 'technology-and-change-9245' },
+        { number: '3.2.2.2', name: 'Medicine and change, c800 – present day', slug: 'medicine-and-change-9245' },
       ] },
     ],
   },
@@ -5875,8 +5965,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2018', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'OxfordAQA — official specification PDF',
-    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-a-level-geography-specification.pdf', verifiedDate: '2026-09-16',
-    notes: 'First teaching September 2018; first AS exams May/June 2019; first A-level exams May/June 2020. International AS: Units 1 and 2; the International A-level adds Units 3, 4 and 5. Unit 1 has three content sections: 3.1.1 Section A: Living with hazards, and a choice of 3.1.2 Section B: Hot desert systems and landscapes (entered as Unit 1a) or 3.1.3 Section C: Coastal systems and landscapes (entered as Unit 1b); candidates take Unit 1a or Unit 1b and Unit 2 for the International AS. Topics and sub-topics are the specification\'s subject-content headings (3.1-3.5 and 3.x.y) with its own numbers and names; the finer 3.x.y.z headings (for example 3.2.1.1 Globalisation, 3.2.1.2 Global systems, 3.2.1.3 International trade and access to markets) are not listed, as the Subtopic schema has no third level. D-240 (I361): Version 3.2 (copyright 2025, 34 pp.), linked from the OxfordAQA qualification page, read to its copyright block 2026-09-16. E939 (round 43, 2026-09-17): rebuilt from section 3 of the same PDF. The two \'Unit 1a/Unit 1b\' sub-topics, which each joined Living with hazards to one option, are replaced by the three printed Unit 1 sections; sub-topics renumbered from 1.1-4.2 to the printed 3.1.1-3.4.2; topic names set to the printed unit titles; Unit 5\'s two sections (3.5.1 Geographical skills checklist, 3.5.2 Fieldwork skills) added.',
+    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-a-level-geography-specification.pdf', verifiedDate: '2026-11-20',
+    notes: 'First teaching September 2018; first AS exams May/June 2019; first A-level exams May/June 2020. International AS: Units 1 and 2; the International A-level adds Units 3, 4 and 5. Unit 1 has three content sections: 3.1.1 Section A: Living with hazards, and a choice of 3.1.2 Section B: Hot desert systems and landscapes (entered as Unit 1a) or 3.1.3 Section C: Coastal systems and landscapes (entered as Unit 1b); candidates take Unit 1a or Unit 1b and Unit 2 for the International AS. Topics and sub-topics are the specification\'s subject-content headings (3.1-3.5 and 3.x.y) with its own numbers and names; the finer 3.x.y.z headings (for example 3.2.1.1 Globalisation, 3.2.1.2 Global systems, 3.2.1.3 International trade and access to markets) are not listed, as the Subtopic schema has no third level. D-240 (I361): Version 3.2 (copyright 2025, 34 pp.), linked from the OxfordAQA qualification page, read to its copyright block 2026-09-16. E939 (round 43, 2026-09-17): rebuilt from section 3 of the same PDF. The two \'Unit 1a/Unit 1b\' sub-topics, which each joined Living with hazards to one option, are replaced by the three printed Unit 1 sections; sub-topics renumbered from 1.1-4.2 to the printed 3.1.1-3.4.2; topic names set to the printed unit titles; Unit 5\'s two sections (3.5.1 Geographical skills checklist, 3.5.2 Fieldwork skills) added. On 2026-11-20 all five units and 11 sections were checked again against the same PDF (Version 3.2, copyright 2025); numbers and names match its headings.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Unit 1: Physical geography 1', slug: 'unit-1-physical-geography-1-9635', stage: 'AS', subtopics: [
         { number: '3.1.1', name: 'Section A: Living with hazards', slug: 'section-a-living-with-hazards-9635' },
@@ -5906,14 +5997,15 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     syllabusCode: '0448', syllabusSeries: '2026',
     effectiveFrom: '2026', effectiveTo: '2026', status: 'current',
     tiered: false,
-    source: 'Cambridge Assessment International Education — official syllabus PDF',
-    sourceUrl: 'https://www.cambridgeinternational.org/Images/697142-2026-syllabus.pdf', verifiedDate: '2026-08-19',
-    notes: 'Paper 1 The History and Culture of Pakistan is divided into three sections examined through key questions. Paper 2 The Environment of Pakistan is organised around eight named sections (2.1-2.8), reproduced directly from the official syllabus PDF\'s Syllabus content list of contents, fetched and verified 2026-09-01; each section is also cross-cut by four recurring themes (developing-country problems, environmental effects and conservation, sustainable development, feasibility studies) per the syllabus\'s own \'Themes across the Paper 2 syllabus topics\' guidance. Finer lettered sub-points within each section (e.g. water, forests, minerals, fish within 2.2) are not itemised here.',
+    source: 'Cambridge International -- official IGCSE Pakistan Studies (0448) syllabus PDF, Version 1, published September 2023; both papers and all eleven sections checked against it, 2026-11-20',
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/697142-2026-syllabus.pdf', verifiedDate: '2026-11-20',
+    subtopicsComplete: true,
+    notes: 'Paper 1 The History and Culture of Pakistan is divided into three sections examined through key questions. Paper 2 The Environment of Pakistan is organised around eight named sections (2.1-2.8), reproduced directly from the official syllabus PDF\'s Syllabus content list of contents, fetched and verified 2026-09-01; each section is also cross-cut by four recurring themes (developing-country problems, environmental effects and conservation, sustainable development, feasibility studies) per the syllabus\'s own \'Themes across the Paper 2 syllabus topics\' guidance. Finer lettered sub-points within each section (e.g. water, forests, minerals, fish within 2.2) and the sixteen Key Questions of Paper 1 are not itemised here. Checked again on 2026-11-20: the three Paper 1 sections and eight Paper 2 sections match the syllabus; the numbers 1.1 to 2.8 combine the paper number and the printed section number.',
     topics: [
       { number: 1, name: 'Paper 1 – The History and Culture of Pakistan', slug: 'paper-1-history-culture-0448', subtopics: [
-        { number: '1.1', name: 'Cultural and Historical Background to the Pakistan Movement', slug: 'cultural-historical-background-0448' },
-        { number: '1.2', name: 'The Emergence of Pakistan, 1906–47', slug: 'emergence-of-pakistan-0448' },
-        { number: '1.3', name: 'Nationhood, 1947–99', slug: 'nationhood-1947-99-0448' },
+        { number: '1.1', name: 'Cultural and historical background to the Pakistan Movement', slug: 'cultural-historical-background-0448' },
+        { number: '1.2', name: 'The emergence of Pakistan 1906–47', slug: 'emergence-of-pakistan-0448' },
+        { number: '1.3', name: 'Nationhood 1947–99', slug: 'nationhood-1947-99-0448' },
       ] },
       { number: 2, name: 'Paper 2 – The Environment of Pakistan', slug: 'paper-2-environment-0448', subtopics: [
         { number: '2.1', name: 'The land of Pakistan', slug: 'the-land-of-pakistan-0448' },
@@ -5933,13 +6025,14 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2026', effectiveTo: '2026', status: 'current',
     tiered: false,
     source: 'Cambridge Assessment International Education -- official syllabus PDF, Version 1, published September 2023',
-    sourceUrl: 'https://www.cambridgeinternational.org/Images/697282-2026-syllabus.pdf', verifiedDate: '2026-08-21',
-    notes: "Cambridge O Level Pakistan Studies (2059), syllabus for exams in 2026 only (Version 1, no significant changes affecting teaching). NOTE: a genuine restructuring is coming -- from June 2028 this becomes a 4-topic Paper 1 (candidates answer on 3 of 4), per the official 2028-2030 syllabus PDF at https://www.cambridgeinternational.org/Images/743607-2028-2030-syllabus.pdf (verified 2026-08-19). This entry intentionally represents only the CURRENT 2026 series -- the topic-index lookup in this codebase is keyed by board+subject+qualification only (not series), so only one entry per combination can be live at a time; update this entry (do not add a second one) when the 2028 series becomes current. Paper 1's syllabus content is divided into three sections, each built from several Key Questions; sections reproduced directly from the official syllabus PDF Section 6 Syllabus content, fetched 2026-08-21. Paper 2 (The Environment of Pakistan) Section 1 (The land of Pakistan, sub-parts a-d: location, administrative areas and cities, natural topography, and climate) reproduced directly from the official syllabus PDF, fetched and verified 2026-09-01. Section 2 (Natural resources -- an issue of sustainability, sub-parts a-d: water, forests, mineral resources, fish) independently confirmed against 2059's own PDF (not assumed from sibling IGCSE 0448) and found identical in content and structure to 0448's own Section 2.2, fetched and verified 2026-09-02 (weekly study-guides automation run). Remaining Paper 2 sections (3-8) not yet itemised for 2059.",
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/697282-2026-syllabus.pdf', verifiedDate: '2026-11-20',
+    subtopicsComplete: true,
+    notes: "Cambridge O Level Pakistan Studies (2059), syllabus for exams in 2026 only (Version 1, no significant changes affecting teaching). NOTE: a genuine restructuring is coming -- from June 2028 this becomes a 4-topic Paper 1 (candidates answer on 3 of 4), per the official 2028-2030 syllabus PDF at https://www.cambridgeinternational.org/Images/743607-2028-2030-syllabus.pdf (verified 2026-08-19). This entry intentionally represents only the CURRENT 2026 series -- the topic-index lookup in this codebase is keyed by board+subject+qualification only (not series), so only one entry per combination can be live at a time; update this entry (do not add a second one) when the 2028 series becomes current. Paper 1's syllabus content is divided into three sections, each built from several Key Questions; sections reproduced directly from the official syllabus PDF Section 6 Syllabus content, fetched 2026-08-21. Paper 2 (The Environment of Pakistan) Section 1 (The land of Pakistan, sub-parts a-d: location, administrative areas and cities, natural topography, and climate) reproduced directly from the official syllabus PDF, fetched and verified 2026-09-01. Section 2 (Natural resources -- an issue of sustainability, sub-parts a-d: water, forests, mineral resources, fish) independently confirmed against 2059's own PDF (not assumed from sibling IGCSE 0448) and found identical in content and structure to 0448's own Section 2.2, fetched and verified 2026-09-02 (weekly study-guides automation run). Checked again on 2026-11-20 against the same PDF (Version 1, September 2023): the three Paper 1 sections and all eight Paper 2 sections match the syllabus, and the sixteen Key Questions of Paper 1 are not itemised. The numbers 1.1 to 2.8 combine the paper number and the printed section number.",
     topics: [
       { number: 1, name: 'Paper 1 – The History and Culture of Pakistan', slug: 'paper-1-history-culture-2059', subtopics: [
-        { number: '1.1', name: 'Cultural and Historical Background to the Pakistan Movement', slug: 'cultural-historical-background-2059' },
-        { number: '1.2', name: 'The Emergence of Pakistan, 1906–47', slug: 'emergence-of-pakistan-2059' },
-        { number: '1.3', name: 'Nationhood, 1947–99', slug: 'nationhood-1947-99-2059' },
+        { number: '1.1', name: 'Cultural and historical background to the Pakistan Movement', slug: 'cultural-historical-background-2059' },
+        { number: '1.2', name: 'The emergence of Pakistan 1906–47', slug: 'emergence-of-pakistan-2059' },
+        { number: '1.3', name: 'Nationhood 1947–99', slug: 'nationhood-1947-99-2059' },
       ] },
       { number: 2, name: 'Paper 2 – The Environment of Pakistan', slug: 'paper-2-environment-2059', subtopics: [
         { number: '2.1', name: 'The land of Pakistan', slug: 'the-land-of-pakistan-2059' },
@@ -5959,20 +6052,21 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2026', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'OxfordAQA International Qualifications — official specification PDF',
-    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-international-gcse-pakistan-studies-specification.pdf', verifiedDate: '2026-08-19',
-    notes: 'For International GCSE exams May/June 2026 onwards. Paper 1 and Paper 2 each have two compulsory topics plus a choice of one of two optional topics, examined in Sections A, B and C respectively.',
+    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-international-gcse-pakistan-studies-specification.pdf', verifiedDate: '2026-11-20',
+    notes: 'For International GCSE exams May/June 2026 onwards. Paper 1 and Paper 2 each have two compulsory topics plus a choice of one of two optional topics, examined in Sections A, B and C respectively. Both papers and all eight subtopics checked against the specification PDF (Version 1.9) on 2026-11-20. The finer content areas inside each subtopic (for example 3.1.1.1) are not entered as subtopics.',
+    subtopicsComplete: true,
     topics: [
-      { number: 1, name: 'Paper 1 – The History and Culture of Pakistan', slug: 'paper-1-history-culture-9236', subtopics: [
-        { number: '3.1.1', name: 'The Pakistan Movement (1857–1947)', slug: 'pakistan-movement-9236' },
-        { number: '3.1.2', name: 'Pakistan into the 21st Century: From Independence to 2022', slug: 'pakistan-21st-century-9236' },
-        { number: '3.1.3', name: 'Islam in the Subcontinent (c700–c1831) (optional)', slug: 'islam-subcontinent-9236' },
+      { number: 1, name: 'Paper 1 – The history and culture of Pakistan', slug: 'paper-1-history-culture-9236', subtopics: [
+        { number: '3.1.1', name: 'The Pakistan movement (1857–1947)', slug: 'pakistan-movement-9236' },
+        { number: '3.1.2', name: 'Pakistan into the 21st Century: from independence to 2022', slug: 'pakistan-21st-century-9236' },
+        { number: '3.1.3', name: 'Islam in the subcontinent (c700–c1831) (optional)', slug: 'islam-subcontinent-9236' },
         { number: '3.1.4', name: 'The Mughal Empire (c1526–c1850s) (optional)', slug: 'mughal-empire-9236' },
       ] },
-      { number: 2, name: 'Paper 2 – The Human and Physical Geography of Pakistan', slug: 'paper-2-geography-9236', subtopics: [
-        { number: '3.2.1', name: 'The Landscape and Natural Resources of Pakistan', slug: 'landscape-natural-resources-9236' },
-        { number: '3.2.2', name: 'The People and Economy of Pakistan', slug: 'people-economy-9236' },
-        { number: '3.2.3', name: 'Globalisation, Transport and Communication in Pakistan (optional)', slug: 'globalisation-transport-9236' },
-        { number: '3.2.4', name: 'Creating a Sustainable Future for Pakistan (optional)', slug: 'sustainable-future-9236' },
+      { number: 2, name: 'Paper 2 – The human and physical geography of Pakistan', slug: 'paper-2-geography-9236', subtopics: [
+        { number: '3.2.1', name: 'The landscape and natural resources of Pakistan', slug: 'landscape-natural-resources-9236' },
+        { number: '3.2.2', name: 'The people and economy of Pakistan', slug: 'people-economy-9236' },
+        { number: '3.2.3', name: 'Globalisation, transport and communication in Pakistan (optional)', slug: 'globalisation-transport-9236' },
+        { number: '3.2.4', name: 'Creating a sustainable future for Pakistan (optional)', slug: 'sustainable-future-9236' },
       ] },
     ],
   },
@@ -5982,8 +6076,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2026', effectiveTo: '2027', status: 'current',
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
-    sourceUrl: 'https://www.cambridgeinternational.org/Images/697174-2026-2027-syllabus.pdf', verifiedDate: '2026-08-19',
-    notes: 'Both papers are 1.5 hours with 5 questions each (Questions 1 and 2 compulsory, plus 2 more chosen from the remaining questions).',
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/697174-2026-2027-syllabus.pdf', verifiedDate: '2026-11-20',
+    notes: 'Both papers are 1.5 hours with 5 questions each (Questions 1 and 2 compulsory, plus 2 more chosen from the remaining questions). Both papers and all 8 numbered topics (sections 5.1 and 5.2) checked against the Cambridge syllabus PDF (Version 1, published September 2023; 30 pages) on 2026-11-20: order and wording match. The numbers 1.1 to 2.4 are Paper number then the topic number the PDF prints, and the names are shown in title case.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Paper 1', slug: 'paper-1-0493', subtopics: [
         { number: '1.1', name: 'Major Themes of the Qur’an', slug: 'major-themes-quran-0493' },
@@ -6005,8 +6100,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2026', effectiveTo: '2027', status: 'current',
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
-    sourceUrl: 'https://www.cambridgeinternational.org/Images/697279-2026-2027-syllabus.pdf', verifiedDate: '2026-09-17',
-    notes: 'Syllabus for exams in 2026 and 2027 (Version 1), read 2026-09-17: identical Paper 1 / Paper 2 four-topic structure to IGCSE 0493. Topic names are the syllabus\'s own (section 5.1 Paper 1 topics 1-4; section 5.2 Paper 2 topics 1-4). Replaces the 2024-2025 series (635787), recorded under KNOWN_OTHER_SERIES.',
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/697279-2026-2027-syllabus.pdf', verifiedDate: '2026-11-20',
+    notes: 'Syllabus for exams in 2026 and 2027 (Version 1), read 2026-09-17: identical Paper 1 / Paper 2 four-topic structure to IGCSE 0493. Topic names are the syllabus\'s own (section 5.1 Paper 1 topics 1-4; section 5.2 Paper 2 topics 1-4). Replaces the 2024-2025 series (635787), recorded under KNOWN_OTHER_SERIES. Both papers and all 8 numbered topics checked against the Cambridge syllabus PDF (Version 1, published September 2023; 28 pages) on 2026-11-20: order and wording match. The numbers 1.1 to 2.4 are Paper number then the topic number the PDF prints, and the names are shown in title case.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Paper 1', slug: 'paper-1-2058', subtopics: [
         { number: '1.1', name: 'Major Themes of the Qur’an', slug: 'major-themes-quran-2058' },
@@ -6028,16 +6124,53 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2026', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'OxfordAQA International Qualifications — official specification PDF',
-    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2024/04/oxfordaqa-international-gcse-islamiat-specification.pdf', verifiedDate: '2026-09-02',
-    notes: 'Paper 1 Living the Muslim Life and Paper 2 The Life of Hazrat Muhammad (pbuh) and Sources of Authority in Islam are each 1 hour 30 minutes, 50 marks, 50% of GCSE, with two sections of 25 marks each. Correction, 2026-09-02: the previously-recorded sourceUrl now 404s; re-located via the live qualification page (oxfordaqa.com/qualifications/international-gcse-islamiat/ -- note the board spells the subject \'Islamiat\' on its own site) and re-verified against the new URL, same content confirmed.',
+    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2024/04/oxfordaqa-international-gcse-islamiat-specification.pdf', verifiedDate: '2026-11-20',
+    notes: 'Paper 1 Living the Muslim Life and Paper 2 The Life of Hazrat Muhammad (pbuh) and Sources of Authority in Islam are each 1 hour 30 minutes, 50 marks, 50% of GCSE, with two sections of 25 marks each. Correction, 2026-09-02: the previously-recorded sourceUrl now 404s; re-located via the live qualification page (oxfordaqa.com/qualifications/international-gcse-islamiat/ -- note the board spells the subject \'Islamiat\' on its own site) and re-verified against the new URL, same content confirmed. On 2026-11-20 both sections and all 40 sub-headings (3.1.1 to 3.2.2.10, including the numbered content points) were checked one by one against the Version 1.1 PDF (36 pp.). The document prints an Arabic salutation after the name of Hazrat Muhammad; it is shown here as (pbuh).',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Living the Muslim life', slug: 'paper-1-living-muslim-life-9237', subtopics: [
-        { number: '3.1.1', name: 'Islam: Beliefs and Teachings', slug: 'islam-beliefs-teachings-9237' },
+        { number: '3.1.1', name: 'Islam: Beliefs and teachings', slug: 'islam-beliefs-teachings-9237' },
+        { number: '3.1.1.1', name: 'The oneness of God (Tawhid)', slug: 'the-oneness-of-god-tawhid-9237' },
+        { number: '3.1.1.2', name: 'Key beliefs', slug: 'key-beliefs-9237' },
+        { number: '3.1.1.3', name: 'Concept of belief in Allah', slug: 'concept-of-belief-in-allah-9237' },
+        { number: '3.1.1.4', name: 'Belief in Angels', slug: 'belief-in-angels-9237' },
+        { number: '3.1.1.5', name: 'Belief in Predestination (Al-Qadr)', slug: 'belief-in-predestination-al-qadr-9237' },
+        { number: '3.1.1.6', name: 'Belief in life after death', slug: 'belief-in-life-after-death-9237' },
+        { number: '3.1.1.7', name: 'Prophethood (Nabuat) and Holy Books in Islam', slug: 'prophethood-nabuat-and-holy-books-in-islam-9237' },
+        { number: '3.1.1.8', name: 'The early leadership of the Muslim community', slug: 'the-early-leadership-of-the-muslim-community-9237' },
         { number: '3.1.2', name: 'Islam: Practices', slug: 'islam-practices-9237' },
+        { number: '3.1.2.1', name: 'The key practices in Islam', slug: 'the-key-practices-in-islam-9237' },
+        { number: '3.1.2.2', name: 'Shahadah', slug: 'shahadah-9237' },
+        { number: '3.1.2.3', name: 'Salah', slug: 'salah-9237' },
+        { number: '3.1.2.4', name: 'Sawm', slug: 'sawm-9237' },
+        { number: '3.1.2.5', name: 'Zakah', slug: 'zakah-9237' },
+        { number: '3.1.2.6', name: 'Hajj', slug: 'hajj-9237' },
+        { number: '3.1.2.7', name: 'Jihad', slug: 'jihad-9237' },
+        { number: '3.1.2.8', name: 'Festivals and Commemorations in Islam', slug: 'festivals-and-commemorations-in-islam-9237' },
       ] },
       { number: 2, name: 'The life of Hazrat Muhammad (pbuh) and sources of authority in Islam', slug: 'paper-2-life-hazrat-muhammad-9237', subtopics: [
-        { number: '3.2.1', name: 'Life and Teachings of Hazrat Muhammad (pbuh)', slug: 'life-teachings-hazrat-muhammad-9237' },
-        { number: '3.2.2', name: 'Sources of Authority in Islam', slug: 'sources-of-authority-9237' },
+        { number: '3.2.1', name: 'Life and teachings of Hazrat Muhammad (pbuh)', slug: 'life-teachings-hazrat-muhammad-9237' },
+        { number: '3.2.1.1', name: 'Pre-Islamic Arabia', slug: 'pre-islamic-arabia-9237' },
+        { number: '3.2.1.2', name: 'Early Life of Hazrat Muhammad (pbuh)', slug: 'early-life-of-hazrat-muhammad-9237' },
+        { number: '3.2.1.3', name: 'The call to Prophethood (Nabuat)', slug: 'the-call-to-prophethood-nabuat-9237' },
+        { number: '3.2.1.4', name: 'Early preaching of Islam', slug: 'early-preaching-of-islam-9237' },
+        { number: '3.2.1.5', name: 'Opposition to Hazrat Muhammad (pbuh)', slug: 'opposition-to-hazrat-muhammad-9237' },
+        { number: '3.2.1.6', name: 'The Ascension of Hazrat Muhammad (pbuh)', slug: 'the-ascension-of-hazrat-muhammad-9237' },
+        { number: '3.2.1.7', name: 'The Hijrah and the Madni Period', slug: 'the-hijrah-and-the-madni-period-9237' },
+        { number: '3.2.1.8', name: 'Supporters of Hazrat Muhammad (pbuh)', slug: 'supporters-of-hazrat-muhammad-9237' },
+        { number: '3.2.1.9', name: 'The battles fought by Hazrat Muhammad (pbuh)', slug: 'the-battles-fought-by-hazrat-muhammad-9237' },
+        { number: '3.2.1.10', name: "The legacy and lessons of Hazrat Muhammad's (pbuh)", slug: 'the-legacy-and-lessons-of-hazrat-muhammad-9237' },
+        { number: '3.2.2', name: 'Sources of authority in Islam', slug: 'sources-of-authority-9237' },
+        { number: '3.2.2.1', name: 'The revelation and compilation of the Qur\'an', slug: 'the-revelation-and-compilation-of-the-quran-9237' },
+        { number: '3.2.2.2', name: 'The features and use of the Qur\'an as a source of authority', slug: 'the-features-and-use-of-the-quran-9237' },
+        { number: '3.2.2.3', name: 'The Hadith and Sunnah as a source of Shariah', slug: 'the-hadith-and-sunnah-as-a-source-of-shariah-9237' },
+        { number: '3.2.2.4', name: 'The compilation and categorisation of Hadith', slug: 'the-compilation-and-categorisation-of-hadith-9237' },
+        { number: '3.2.2.5', name: 'The different schools of thought in Islam', slug: 'the-different-schools-of-thought-in-islam-9237' },
+        { number: '3.2.2.6', name: 'Ijma and Qiyas as a source of Shariah', slug: 'ijma-and-qiyas-as-a-source-of-shariah-9237' },
+        { number: '3.2.2.7', name: 'The use of Shariah in everyday life', slug: 'the-use-of-shariah-in-everyday-life-9237' },
+        { number: '3.2.2.8', name: 'The personal impact of sources of authority on the character of a Muslim', slug: 'the-personal-impact-of-sources-of-authority-9237' },
+        { number: '3.2.2.9', name: 'The social impact of sources of authority on the character of a Muslim', slug: 'the-social-impact-of-sources-of-authority-9237' },
+        { number: '3.2.2.10', name: 'The legal impact of sources of authority on the character of a Muslim', slug: 'the-legal-impact-of-sources-of-authority-9237' },
       ] },
     ],
   },
@@ -6112,8 +6245,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2018', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'Pearson Edexcel — official specification PDF',
-    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/A%20Level/Urdu/2018/specification-and-sample-assessments/a-level-urdu-specification11.pdf', verifiedDate: '2026-09-17',
-    notes: 'Rebuilt 2026-09-17 from the specification (Issue 1, June 2018, 56pp.) itself, replacing the previous three-paper entry per the E939 (12) finding. IMPORTANT: this is the UK GCE A Level Urdu (9UR0), not International A Level (IAL). Papers 1-3 are assessment components, not content, and are not listed as topics: Paper 1 (9UR0/01) Translation into English, reading comprehension and writing (research question); Paper 2 (9UR0/02) Translation into Urdu and written response to works studied; Paper 3 (9UR0/03) Listening, reading and writing. Topics 1-4 are "Themes, sub-themes and research subjects" (printed pp.8-9), whose headings the specification prints only in Urdu; topic 5 is "Appendix 1: Prescribed literary texts and films" (printed p.41), an English heading. Direct pdftotext extraction of this PDF reorders and garbles the Urdu (Arabic presentation-form glyphs, reversed word order) and was not used for any Urdu string; every Urdu string below was read from 200-400dpi page-image renders (pdftoppm), letter by letter against the rendered page, and cross-checked against an independent transcription from the round-46 audit handoff. Two diacritics missed on that pass were restored on 2026-09-17 from 400dpi crops: "دُنیا" in Theme 2 and "قیامِ پاکستان (1947)" in Theme 4; five more were restored on 2026-09-21 from a 300dpi render of Appendix 1 (p.41): کھُلی، اُردو، مُرید پُور، مرحُوم and دُرید. Theme 2\'s heading is printed without a space in "اورفنونِ لطیفہ"; the space is restored here. A native Urdu reader\'s readability review has not been done and remains an open owner item; it does not block this record. Structure: each topic\'s first two subtopics are its two sub-themes as printed; the third is its research subject ("highlighted in bold", p.8, under the blue label تحقیق کے لئے موضوعات) — except Theme 1, whose second sub-theme ("کام" / work) is printed as plain, unstyled text unlike every other theme\'s labels and is transcribed at the same structural position regardless. Theme 1\'s research subject has no printed label at all (corrected 2026-09-17): after the heading "تحقیق کے لئے موضوعات" its line begins with the first aspect, "تعلیم کے متوازی نظام". Subtopic 1.3 therefore carries the research subject\'s English name from Pearson\'s Getting Started Guide ("The optional research subject, \'equal access to education in Pakistan\'"), not an Urdu label the specification does not print; the earlier "تعلیم" was the fixer\'s own wording and is withdrawn. The Theme 4 research-subject line on p.9 is printed with a stray leading "پ" before "پاکستان میں ماحولیاتی مسائل سے متعلّق اقدامات"; that stray character is a typesetting artifact and is not reproduced. None of the sub-themes, research subjects or six prescribed works carry a printed number, so the topic numbers (1-5) and subtopic numbers below are Marlbridge\'s own sequential ordinals, not the specification\'s. English names in this note are Marlbridge\'s translation from Pearson\'s "Getting Started Guide" (2018) section 4.1 — a secondary Pearson document, not the specification, and not printed for every sub-theme (Theme 1 and Theme 4 sub-themes have no guide translation at all): Theme 1 "Evolving Pakistani society" (research subject: equal access to education in Pakistan); Theme 2 "Art and culture in the Urdu-speaking world" (sub-themes: folklore; popular culture — research subject: the media); Theme 3 "Immigration and multicultural society" (sub-themes: positive features of a diverse society; attitudes towards immigration — research subject: emigration from Pakistan); Theme 4 "Aspects of Pakistani politics" (research subject: responses to environmental issues in Pakistan). Topic 5\'s six works are exactly the specification\'s Appendix 1 list (2 literary texts + 1 play as "Literary texts", 3 as "Films"); the five essay titles the specification lists inside the collection "پطرس کے مضامین" are folded into that one subtopic\'s name, since the data schema has no third nesting level below topic/subtopic.',
+    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/A%20Level/Urdu/2018/specification-and-sample-assessments/a-level-urdu-specification11.pdf', verifiedDate: '2026-11-20',
+    notes: 'Rebuilt 2026-09-17 from the specification (Issue 1, June 2018, 56pp.) itself, replacing the previous three-paper entry per the E939 (12) finding. IMPORTANT: this is the UK GCE A Level Urdu (9UR0), not International A Level (IAL). Papers 1-3 are assessment components, not content, and are not listed as topics: Paper 1 (9UR0/01) Translation into English, reading comprehension and writing (research question); Paper 2 (9UR0/02) Translation into Urdu and written response to works studied; Paper 3 (9UR0/03) Listening, reading and writing. Topics 1-4 are "Themes, sub-themes and research subjects" (printed pp.8-9), whose headings the specification prints only in Urdu; topic 5 is "Appendix 1: Prescribed literary texts and films" (printed p.41), an English heading. Direct pdftotext extraction of this PDF reorders and garbles the Urdu (Arabic presentation-form glyphs, reversed word order) and was not used for any Urdu string; every Urdu string below was read from 200-400dpi page-image renders (pdftoppm), letter by letter against the rendered page, and cross-checked against an independent transcription from the round-46 audit handoff. Two diacritics missed on that pass were restored on 2026-09-17 from 400dpi crops: "دُنیا" in Theme 2 and "قیامِ پاکستان (1947)" in Theme 4; five more were restored on 2026-09-21 from a 300dpi render of Appendix 1 (p.41): کھُلی، اُردو، مُرید پُور، مرحُوم and دُرید. Theme 2\'s heading is printed without a space in "اورفنونِ لطیفہ"; the space is restored here. A native Urdu reader\'s readability review has not been done and remains an open owner item; it does not block this record. Structure: each topic\'s first two subtopics are its two sub-themes as printed; the third is its research subject ("highlighted in bold", p.8, under the blue label تحقیق کے لئے موضوعات) — except Theme 1, whose second sub-theme ("کام" / work) is printed as plain, unstyled text unlike every other theme\'s labels and is transcribed at the same structural position regardless. Theme 1\'s research subject has no printed label at all (corrected 2026-09-17): after the heading "تحقیق کے لئے موضوعات" its line begins with the first aspect, "تعلیم کے متوازی نظام". Subtopic 1.3 therefore carries the research subject\'s English name from Pearson\'s Getting Started Guide ("The optional research subject, \'equal access to education in Pakistan\'"), not an Urdu label the specification does not print; the earlier "تعلیم" was the fixer\'s own wording and is withdrawn. The Theme 4 research-subject line on p.9 is printed with a stray leading "پ" before "پاکستان میں ماحولیاتی مسائل سے متعلّق اقدامات"; that stray character is a typesetting artifact and is not reproduced. None of the sub-themes, research subjects or six prescribed works carry a printed number, so the topic numbers (1-5) and subtopic numbers below are Marlbridge\'s own sequential ordinals, not the specification\'s. English names in this note are Marlbridge\'s translation from Pearson\'s "Getting Started Guide" (2018) section 4.1 — a secondary Pearson document, not the specification, and not printed for every sub-theme (Theme 1 and Theme 4 sub-themes have no guide translation at all): Theme 1 "Evolving Pakistani society" (research subject: equal access to education in Pakistan); Theme 2 "Art and culture in the Urdu-speaking world" (sub-themes: folklore; popular culture — research subject: the media); Theme 3 "Immigration and multicultural society" (sub-themes: positive features of a diverse society; attitudes towards immigration — research subject: emigration from Pakistan); Theme 4 "Aspects of Pakistani politics" (research subject: responses to environmental issues in Pakistan). Topic 5\'s six works are exactly the specification\'s Appendix 1 list (2 literary texts + 1 play as "Literary texts", 3 as "Films"); the five essay titles the specification lists inside the collection "پطرس کے مضامین" are folded into that one subtopic\'s name, since the data schema has no third nesting level below topic/subtopic. Checked again on 2026-11-20 against the specification (Issue 1, June 2018): all 5 topics and the 17 subtopics that carry a printed label match the document; subtopic 1.3 is the one research subject the document leaves unlabelled (see above).',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'پاکستانی معاشرے کا ارتقا', slug: 'theme-1-evolving-pakistani-society-9ur0', subtopics: [
         { number: '1.1', name: 'خاندان', slug: 'khandan-family-9ur0' },
@@ -6151,8 +6285,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2026', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'OxfordAQA International Qualifications — official specification PDF',
-    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-intenational-gcse-urdu-specification.pdf', verifiedDate: '2026-08-19', // D-238 (I360): sub-topic numbers use the specification's own Topic 1-4 labels within each theme, not invented 2.1-3.4 numbering.
-    notes: 'For International GCSE exams May/June 2026 onwards. Paper 1 Reading, Grammar and Meaning and Paper 2 Writing are each 1 hour 45 minutes, 70 marks, 50% of GCSE. Content is organised around three themes examined across both papers, not paper-specific topics.',
+    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-intenational-gcse-urdu-specification.pdf', verifiedDate: '2026-11-20', // Sub-topic numbers use the specification's own Topic 1-4 labels within each theme, not invented 2.1-3.4 numbering.
+    notes: 'For International GCSE exams May/June 2026 onwards. Paper 1 Reading, Grammar and Meaning and Paper 2 Writing are each 1 hour 45 minutes, 70 marks, 50% of GCSE. Content is organised around three themes examined across both papers, not paper-specific topics. Checked on 2026-11-20 against the specification (Version 1.1): all 3 themes and all 11 numbered Topics in section 3.1 match, apart from capitalisation. The bullet-point sub-topics the specification prints under some Topics (for example Social media, Mobile technology) are a third level and are not recorded.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Theme 1 – Identity and Culture', slug: 'theme-1-identity-culture-9264', subtopics: [
         { number: 'Topic 1', name: 'Me, My Family, Friends and People I Know', slug: 'family-friends-9264' },
@@ -6179,8 +6314,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2026', effectiveTo: '2028', status: 'current',
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
-    sourceUrl: 'https://www.cambridgeinternational.org/Images/697352-2026-2028-syllabus.pdf', verifiedDate: '2026-08-21',
-    notes: "Cambridge International AS & A Level Law (9084) introduces students to the law of England and Wales. Staged: AS Level topics 1-2 (English legal system, Criminal law); A Level adds topics 3-4 (Law of contract, Law of tort). Four topic names and their named sub-strands verified directly from the official syllabus PDF's Content overview section, fetched and verified 2026-08-21.",
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/697352-2026-2028-syllabus.pdf', verifiedDate: '2026-11-20',
+    notes: "Cambridge International AS & A Level Law (9084) introduces students to the law of England and Wales. Staged: AS Level topics 1-2 (English legal system, Criminal law); A Level adds topics 3-4 (Law of contract, Law of tort). Four topic names and their named sub-strands verified directly from the official syllabus PDF's Content overview section, fetched and verified 2026-08-21. Checked again on 2026-11-20 against the Subject content section of the syllabus (version 3, published October 2026): all 4 topics and all 14 numbered sub-headings match.",
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'English legal system', slug: 'english-legal-system-9084', stage: 'AS', subtopics: [
         { number: '1.1', name: 'Principles and sources of English law', slug: 'principles-and-sources-of-english-law-9084' },
@@ -6212,8 +6348,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2015', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'Pearson Edexcel — official International Advanced Level Law specification PDF',
-    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Law/2015/specification-and-sample-assessments/Pearson-Edexcel-IAL-Law-Specification.pdf', verifiedDate: '2026-08-21',
-    notes: "Pearson Edexcel International Advanced Level in Law, first assessment June 2017. Unlike most Edexcel IAL subjects, this qualification is not split into a separate IAS and IAL stage — it consists of two compulsory papers (Paper 1 YLA1/01, Paper 2 YLA1/02) both taken in the same series, each 50% of the total IAL. Sub-topic names verified directly from the official specification PDF's Paper content sections, fetched and verified 2026-08-21.",
+    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Law/2015/specification-and-sample-assessments/Pearson-Edexcel-IAL-Law-Specification.pdf', verifiedDate: '2026-11-20',
+    notes: "Pearson Edexcel International Advanced Level in Law, first assessment June 2017. Unlike most Edexcel IAL subjects, this qualification is not split into a separate IAS and IAL stage — it consists of two compulsory papers (Paper 1 YLA1/01, Paper 2 YLA1/02) both taken in the same series, each 50% of the total IAL. Sub-topic names verified directly from the official specification PDF's Paper content sections, fetched and verified 2026-08-21. Checked again on 2026-11-20 against the Issue 4 PDF: both papers and all 5 Subject content headings match; the numbered points inside them (1.1.1, 1.2.1 and so on) are content points, not headings.",
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Paper 1 – Underlying Principles of Law and the English Legal System', slug: 'paper-1-underlying-principles-and-english-legal-system-yla1', subtopics: [
         { number: '1.1', name: 'The nature, purpose of and liability in law', slug: 'the-nature-purpose-of-and-liability-in-law-yla1' },
@@ -7655,8 +7792,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: true,
     source: 'International Baccalaureate Organization, Diploma Programme, Mathematics: analysis and approaches guide, first assessment 2021 (published February 2019, updated August 2019/May 2020/August 2020/November 2020)',
     sourceUrl: 'https://www.ibo.org/globalassets/new-structure/university-admission/pdfs/dp-mathematics-analysis-and-approaches-guide-en.pdf',
-    verifiedDate: '2026-09-08',
-    notes: 'All five topic names and all 83 numbered sub-topics (SL 1.1-1.9 + AHL 1.10-1.16; SL 2.1-2.11 + AHL 2.12-2.16; SL 3.1-3.8 + AHL 3.9-3.18; SL 4.1-4.12 + AHL 4.13-4.14; SL 5.1-5.11 + AHL 5.12-5.19) were transcribed directly from the official IB curriculum guide\'s own "Syllabus content" tables. The subject-brief PDF named in the task brief (ibo.org/contentassets/.../subject-brief-dp-math-analysis-and-approaches-en.pdf) only gives the five topic names plus SL/HL hour counts and was blocked by a Cloudflare bot-check on direct fetch; the full numbered-subtopic guide (ibo.org/globalassets/.../dp-mathematics-analysis-and-approaches-guide-en.pdf) was instead retrieved in full via a genuine Wayback Machine capture (web.archive.org/web/20240408023723/...) of the same official IBO PDF and read end-to-end with pdftotext, confirmed by its own title page ("Mathematics: analysis and approaches guide, First assessment 2021"). Currency was verified directly against IB\'s own live page ibo.org/university-admission/latest-curriculum-updates/dp-mathematics-analysis-and-approaches-updates/ (fetched 2026-09-08), which states the successor course launches for first teaching August 2027 with first assessment May 2029 -- confirming the first-assessment-2021 guide is still the currently-examined syllabus today. Sub-topic "name" fields are concise labels distilled from each numbered section\'s own "Content" column (the guide itself does not give short titles, only detailed content/guidance tables per number); these concise labels were cross-checked for accuracy against a secondary tutoring source (ibmathmaster.com, which states it transcribes the official syllabus) that independently confirmed the same 16/16/18/14/19 sub-topic counts per topic and the same numbering. AHL-only sub-topics (i.e. content required for HL students only, not SL) are marked "(AHL only)" in the name field; unmarked sub-topics are common to both SL and HL. No sub-topic name or number was invented from general knowledge -- every one traces to the official guide text read above.',
+    verifiedDate: '2026-11-20',
+    notes: 'Checked again on 2026-11-20 against the guide\'s Syllabus content section (pages 28-69): all 5 topics and all 83 numbered sections (SL and AHL) are present with the printed numbers. The guide prints a number (for example SL 1.4) and a content table for each section but no separate title, so each sub-topic name here is a short wording of that section\'s first content line. All five topic names and all 83 numbered sub-topics (SL 1.1-1.9 + AHL 1.10-1.16; SL 2.1-2.11 + AHL 2.12-2.16; SL 3.1-3.8 + AHL 3.9-3.18; SL 4.1-4.12 + AHL 4.13-4.14; SL 5.1-5.11 + AHL 5.12-5.19) were transcribed directly from the official IB curriculum guide\'s own "Syllabus content" tables. The subject-brief PDF named in the task brief (ibo.org/contentassets/.../subject-brief-dp-math-analysis-and-approaches-en.pdf) only gives the five topic names plus SL/HL hour counts and was blocked by a Cloudflare bot-check on direct fetch; the full numbered-subtopic guide (ibo.org/globalassets/.../dp-mathematics-analysis-and-approaches-guide-en.pdf) was instead retrieved in full via a genuine Wayback Machine capture (web.archive.org/web/20240408023723/...) of the same official IBO PDF and read end-to-end with pdftotext, confirmed by its own title page ("Mathematics: analysis and approaches guide, First assessment 2021"). Currency was verified directly against IB\'s own live page ibo.org/university-admission/latest-curriculum-updates/dp-mathematics-analysis-and-approaches-updates/ (fetched 2026-09-08), which states the successor course launches for first teaching August 2027 with first assessment May 2029 -- confirming the first-assessment-2021 guide is still the currently-examined syllabus today. Sub-topic "name" fields are concise labels distilled from each numbered section\'s own "Content" column (the guide itself does not give short titles, only detailed content/guidance tables per number); these concise labels were cross-checked for accuracy against a secondary tutoring source (ibmathmaster.com, which states it transcribes the official syllabus) that independently confirmed the same 16/16/18/14/19 sub-topic counts per topic and the same numbering. AHL-only sub-topics (i.e. content required for HL students only, not SL) are marked "(AHL only)" in the name field; unmarked sub-topics are common to both SL and HL. No sub-topic name or number was invented from general knowledge -- every one traces to the official guide text read above.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Number and algebra', slug: 'ib-dp-mathematics-analysis-and-approaches-number-and-algebra', subtopics: [
         { number: '1.1', name: 'Operations with numbers in the form a × 10^k', slug: 'ib-dp-mathematics-analysis-and-approaches-1-1' },
@@ -7760,8 +7898,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: true,
     source: 'International Baccalaureate Organization, Diploma Programme, Mathematics: applications and interpretation guide, first assessment 2021 (published February 2019, updated August 2019/May 2020/August 2020/November 2020)',
     sourceUrl: 'https://www.ibo.org/globalassets/new-structure/university-admission/pdfs/dp-mathematics-applications-and-interpretation-guide-en.pdf',
-    verifiedDate: '2026-09-08',
-    notes: 'All five topic names and all 78 numbered sub-topics (SL 1.1-1.8 + AHL 1.9-1.15; SL 2.1-2.6 + AHL 2.7-2.10; SL 3.1-3.6 + AHL 3.7-3.16; SL 4.1-4.11 + AHL 4.12-4.19; SL 5.1-5.8 + AHL 5.9-5.18) were transcribed directly from the official IB curriculum guide\'s own numbered "Content" tables, fetched and read in full 2026-09-08 (the two-page subject brief that briefly names only the five topics was blocked by Cloudflare on direct fetch; the full guide PDF -- confirmed current by its own title page, "Mathematics: applications and interpretation guide, First assessment 2021" -- was retrieved instead and read end-to-end). Currency was checked against IB\'s own live curriculum-updates page, which confirms the successor course launches for first teaching August 2027 / first assessment May 2029, so this first-assessment-2021 guide remains the currently examined syllabus. Sub-topic "name" fields are concise labels distilled from each numbered section\'s own "Content" column (the guide gives detailed content/guidance text per number but no short titles); tiered is true because, like Mathematics: analysis and approaches, this course has a genuine SL/AHL split with distinct recommended teaching hours per topic at each level (this corrects an earlier internal draft that had marked it non-tiered). AHL-only sub-topics are marked "(AHL only)" in the name field; unmarked sub-topics are common to both SL and HL. No sub-topic name or number was invented -- every one traces to the official guide text read above.',
+    verifiedDate: '2026-11-20',
+    notes: 'All five topic names and all 78 numbered sub-topics (SL 1.1-1.8 + AHL 1.9-1.15; SL 2.1-2.6 + AHL 2.7-2.10; SL 3.1-3.6 + AHL 3.7-3.16; SL 4.1-4.11 + AHL 4.12-4.19; SL 5.1-5.8 + AHL 5.9-5.18) were transcribed directly from the official IB curriculum guide\'s own numbered "Content" tables, fetched and read in full 2026-09-08 (the two-page subject brief that briefly names only the five topics was blocked by Cloudflare on direct fetch; the full guide PDF -- confirmed current by its own title page, "Mathematics: applications and interpretation guide, First assessment 2021" -- was retrieved instead and read end-to-end). Currency was checked against IB\'s own live curriculum-updates page, which confirms the successor course launches for first teaching August 2027 / first assessment May 2029, so this first-assessment-2021 guide remains the currently examined syllabus. Sub-topic "name" fields are concise labels distilled from each numbered section\'s own "Content" column (the guide gives detailed content/guidance text per number but no short titles); tiered is true because, like Mathematics: analysis and approaches, this course has a genuine SL/AHL split with distinct recommended teaching hours per topic at each level (this corrects an earlier internal draft that had marked it non-tiered). AHL-only sub-topics are marked "(AHL only)" in the name field; unmarked sub-topics are common to both SL and HL. No sub-topic name or number was invented -- every one traces to the official guide text read above. Checked again on 2026-11-20 against the guide\'s Syllabus content section (pages 26-71 of the printed guide): all 5 topics and all 78 numbered sections (SL and AHL) are present with the printed numbers and in the printed order. The guide prints a number (for example SL 1.4) and a content table for each section but no separate title, so each sub-topic name here is a short wording of that section\'s first content line.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Number and algebra', slug: 'ib-dp-mathematics-applications-and-interpretation-number-and-algebra', subtopics: [
         { number: '1.1', name: 'Operations with numbers in the form a × 10^k', slug: 'ib-dp-mathematics-applications-and-interpretation-1-1' },
@@ -7907,8 +8046,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'OCR (Cambridge OCR) Level 3 Advanced GCE in Chemistry A (H432) specification, Version 3.1 (May 2026)',
     sourceUrl: 'https://www.ocr.org.uk/images/171720-specification-accredited-a-level-gce-chemistry-a-h432.pdf',
-    verifiedDate: '2026-09-08',
-    notes: 'Content is organised by OCR into 6 modules (Section 2c of the specification, "Content of modules 1 to 6"). Module 1 covers practical skills (assessed via written papers and the separate Practical Endorsement) and has no further numbered content beyond its own two sub-sections. Modules 2-6 are the examined content modules, each split into 2-3 lettered sections (e.g. 2.1, 2.2) which are in turn split into numbered leaf-level subsections (e.g. 2.1.1, 2.1.2) -- it is these leaf-level X.Y.Z subsections that are listed here as subtopics, matching the specification\'s own finest-grained numbering. OCR rebranded to "Cambridge OCR" from September 2025; the document title/branding reflects this but the qualification code (H432) and content are unchanged from first teaching in September 2015. Downloaded the specification PDF directly, extracted its text with a layout-preserving PDF-to-text conversion, and read the full text of Section 2c (pages 8-64) in sequential chunks; every subtopic number/name pair below was copied character-for-character from its section heading in the extracted text -- none were paraphrased, merged, or inferred. The intermediate lettered section groupings (2.1, 2.2, 3.1, 3.2, etc.) are not represented as separate schema entries since the two-level topic/subtopic schema here only supports module-level and leaf-level granularity.',
+    verifiedDate: '2026-11-20',
+    notes: 'Content is organised by OCR into 6 modules (Section 2c of the specification, "Content of modules 1 to 6"). Module 1 covers practical skills (assessed via written papers and the separate Practical Endorsement) and has no further numbered content beyond its own two sub-sections. Modules 2-6 are the examined content modules, each split into 2-3 lettered sections (e.g. 2.1, 2.2) which are in turn split into numbered leaf-level subsections (e.g. 2.1.1, 2.1.2) -- it is these leaf-level X.Y.Z subsections that are listed here as subtopics, matching the specification\'s own finest-grained numbering. OCR rebranded to "Cambridge OCR" from September 2025; the document title/branding reflects this but the qualification code (H432) and content are unchanged from first teaching in September 2015. Downloaded the specification PDF directly, extracted its text with a layout-preserving PDF-to-text conversion, and read the full text of Section 2c (pages 8-64) in sequential chunks; every subtopic number/name pair below was copied character-for-character from its section heading in the extracted text -- none were paraphrased, merged, or inferred. The intermediate lettered section groupings (2.1, 2.2, 3.1, 3.2, etc.) are not represented as separate schema entries since the two-level topic/subtopic schema here only supports module-level and leaf-level granularity. All 6 modules and 45 numbered subsections checked against the Cambridge OCR specification PDF (Version 3.1, May 2026; 103 pages) on 2026-11-20: numbers, names and order match.',
+    subtopicsComplete: true,
     topics: [
       { number: 1, name: 'Development of practical skills in chemistry', slug: 'ocr-a-level-chemistry-development-of-practical-skills-in-chemistry', subtopics: [
         { number: '1.1.1', name: 'Planning', slug: 'ocr-a-level-chemistry-1-1-1' },

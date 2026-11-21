@@ -12,15 +12,15 @@ written, so an unchanged repository regenerates identical files).
 
 | Measure | Value |
 | --- | --- |
-| Source resources | 18165 |
+| Source resources | 18318 |
 | Active board × qualification × subject combinations | 166 |
 | Combinations with an official-source record | 166/166 |
 | Combinations with a topic map | 166/166 |
 | Zero-resource combinations | 0 |
 | Combinations under 8 resources | 0 |
 | Combinations with topics that have no resource | 0 |
-| Median resources per combination | 101 |
-| Median words per resource | 1571 |
+| Median resources per combination | 102 |
+| Median words per resource | 1568 |
 | Resources under 900 words | 4 |
 | Resources under 400 words | 0 |
 | Demand | NO_DATA (no analytics, Search Console, CRM or enrolment source is read) |
@@ -41,7 +41,7 @@ source, a verification date, components with marks and durations, and an assessm
 | reviewStatus | Resources |
 | --- | --- |
 | archived | 27 |
-| reviewed | 18138 |
+| reviewed | 18291 |
 
 `reviewed` means a named Marlbridge subject teacher is credited as accountable for the page
 (owner decision D-379); it is not a record of a dated, line-by-line check. `review-pending`
@@ -52,10 +52,10 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 
 | Type | Resources |
 | --- | --- |
-| study-guides | 5983 |
-| revision-notes | 5822 |
+| study-guides | 6034 |
+| revision-notes | 5873 |
 | past-papers | 59 |
-| practice-questions | 5971 |
+| practice-questions | 6022 |
 | exam-preparation | 165 |
 | subject-guides | 165 |
 | learning-articles | 0 |
@@ -66,10 +66,10 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 | --- | --- |
 | aqa | 2739 |
 | cambridge | 6721 |
-| edexcel | 1963 |
+| edexcel | 1972 |
 | ib | 2039 |
-| ocr | 1674 |
-| oxfordaqa | 3029 |
+| ocr | 1692 |
+| oxfordaqa | 3155 |
 
 ## By board
 
@@ -77,19 +77,19 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | AQA | 26 | 26 | 26 | 3107 | 0 | 26 | 3107 | 0 |
 | Cambridge | 55 | 55 | 55 | 6873 | 0 | 55 | 6873 | 0 |
-| Pearson Edexcel | 21 | 21 | 21 | 1963 | 0 | 21 | 1963 | 0 |
+| Pearson Edexcel | 21 | 21 | 21 | 1972 | 0 | 21 | 1972 | 0 |
 | International Baccalaureate | 21 | 21 | 21 | 2021 | 0 | 21 | 2021 | 0 |
-| OCR | 13 | 13 | 13 | 1916 | 0 | 13 | 1916 | 0 |
-| OxfordAQA | 30 | 30 | 30 | 3029 | 0 | 30 | 3029 | 0 |
+| OCR | 13 | 13 | 13 | 1934 | 0 | 13 | 1934 | 0 |
+| OxfordAQA | 30 | 30 | 30 | 3155 | 0 | 30 | 3155 | 0 |
 
 ## By qualification
 
 | Qualification | Combinations | Resources (per-combination count, a resource can count for more than one) |
 | --- | --- | --- |
 | GCSE | 18 | 1725 |
-| A Level | 59 | 8084 |
+| A Level | 59 | 8102 |
 | AS Level | 3 | 619 |
-| IGCSE | 47 | 4480 |
+| IGCSE | 47 | 4615 |
 | O Level | 18 | 1980 |
 | IB Diploma Programme | 16 | 1791 |
 | IB Middle Years Programme | 5 | 230 |
@@ -227,7 +227,7 @@ Overall: no review-pending resources.
 | Pearson Edexcel | IGCSE | Economics | 4EC1 | 96 | 96 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | Pearson Edexcel | IGCSE | English Language | 4EA1 | 32 | 32 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
 | Pearson Edexcel | IGCSE | World History | 4HI1 | 71 | 71 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| Pearson Edexcel | IGCSE | Mathematics | 4MA1 | 148 | 148 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
+| Pearson Edexcel | IGCSE | Mathematics | 4MA1 | 157 | 157 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | Pearson Edexcel | IGCSE | Physics | 4PH1 | 116 | 116 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | Pearson Edexcel | IGCSE | Accounting | 4AC1 | 98 | 98 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | Pearson Edexcel | IGCSE | Business | 4BS1 | 107 | 107 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
@@ -264,7 +264,7 @@ Overall: no review-pending resources.
 | OCR | GCSE | Economics | J205 | 108 | 108 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OCR | A Level | Chemistry | H432 | 146 | 146 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OCR | A Level | Physics | H556 | 126 | 126 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| OCR | A Level | Biology | H420 | 126 | 126 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
+| OCR | A Level | Biology | H420 | 144 | 144 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OCR | A Level | Mathematics | H240 | 117 | 117 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OCR | A Level | Business | H431 | 293 | 293 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OCR | A Level | Economics | H460 | 251 | 251 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
@@ -279,8 +279,8 @@ Overall: no review-pending resources.
 | OxfordAQA | IGCSE | English Language | 9270 | 47 | 47 / 0 | VERIFIED_COMPLETE (mixed) | 0 | None. |
 | OxfordAQA | IGCSE | English Literature | 9275 | 35 | 35 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
 | OxfordAQA | IGCSE | Geography | 9230 | 77 | 77 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| OxfordAQA | IGCSE | World History | 9245 | 41 | 41 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| OxfordAQA | IGCSE | Islamiyat | 9237 | 39 | 39 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
+| OxfordAQA | IGCSE | World History | 9245 | 59 | 59 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
+| OxfordAQA | IGCSE | Islamiyat | 9237 | 147 | 147 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OxfordAQA | IGCSE | Pakistan Studies | 9236 | 51 | 51 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OxfordAQA | IGCSE | Psychology | 9218 | 52 | 52 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OxfordAQA | IGCSE | Sociology | 9292 | 47 | 47 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |

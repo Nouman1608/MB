@@ -109,10 +109,17 @@ export const DECK_OXFORDAQA_IGCSE_COMPUTER_SCIENCE: FlashcardDeck = {
     ]),
     ...sub('algorithms-9210', 'searching-algorithms-9210', '3.1.3', [
       { n: 1, f: 'What is the difference between a linear search and a binary search?', b: 'Linear: checks each item in turn; works on data in any order; slow on large sets.\nBinary: compares the middle item and discards half each time; the data must be sorted; much faster.' },
+      { n: 2, f: 'Binary search: what happens when data[mid] is less than the target?', b: 'The target must be in the upper half, so the lower half is discarded: low ← mid + 1. If data[mid] is greater than the target, high ← mid − 1.', src: 'oxfordaqa-igcse-computer-science-9210-searching-algorithms-revision-notes' },
+      { n: 3, f: 'When does an iterative binary search stop?', b: 'When the middle item equals the target (found), or when low becomes greater than high, meaning the range is empty and the item is not in the list.', src: 'oxfordaqa-igcse-computer-science-9210-searching-algorithms-revision-notes' },
+      { n: 4, f: 'Best and worst case comparisons for a linear search of n items', b: 'Best case 1 comparison (target is first). Worst case n comparisons (target is last or absent).', src: 'oxfordaqa-igcse-computer-science-9210-searching-algorithms-revision-notes' },
+      { n: 5, f: 'How many comparisons does a binary search need at most for 1,000 items, compared with a linear search?', b: 'About 10 comparisons for binary search, because each one halves the list. A linear search could need 1,000.', src: 'oxfordaqa-igcse-computer-science-9210-searching-algorithms-revision-notes' },
     ]),
     ...sub('algorithms-9210', 'sorting-algorithms-9210', '3.1.4', [
       { n: 1, f: 'How does a bubble sort work?', b: 'Repeatedly compare adjacent pairs and swap them if out of order. After each pass the largest remaining item has moved to the end. Stop when a pass makes no swaps.' },
       { n: 2, f: 'How does a merge sort work?', b: 'Divide the list in half repeatedly until each part holds one item, then merge the parts back together in order. Faster than bubble sort on large lists but more complex.' },
+      { n: 3, f: 'Why does a bubble sort need a final pass with no swaps?', b: 'A pass with no swaps confirms the list is in order. The outer loop is indefinite, controlled by a swapped flag reset to False at the start of every pass.', src: 'oxfordaqa-igcse-computer-science-9210-sorting-algorithms-revision-notes' },
+      { n: 4, f: 'Which loops does the 9210 bubble sort use?', b: 'Two nested loops: an outer indefinite loop that tests whether any swaps were made, and an inner definite FOR loop over the adjacent pairs.', src: 'oxfordaqa-igcse-computer-science-9210-sorting-algorithms-revision-notes' },
+      { n: 5, f: 'How are two sorted lists merged in a merge sort?', b: 'Compare the first item of each list, take the smaller, and repeat. When one list runs out, add the rest of the other. A list of one item is already sorted.', src: 'oxfordaqa-igcse-computer-science-9210-sorting-algorithms-revision-notes' },
     ]),
 
     // 2 Programming
@@ -194,25 +201,51 @@ export const DECK_OXFORDAQA_IGCSE_COMPUTER_SCIENCE: FlashcardDeck = {
     ...sub('data-representation-9210', 'number-bases-9210', '3.3.1', [
       { n: 1, f: 'Why do computers use binary?', b: 'Their circuits are made of switches (transistors) with two states, on and off, which represent 1 and 0.' },
       { n: 2, f: 'Why is hexadecimal used?', b: 'It is a shorter way of writing binary that is easier for people to read and less error-prone; each hex digit stands for four bits.' },
+      { n: 3, f: 'The bit pattern 0100 0001: what can it mean?', b: 'It has no meaning by itself. As an integer it is 65; as an ASCII character it is A; it could also be an image pixel value or a sound sample. The file format tells the computer how to interpret it.', src: 'oxfordaqa-igcse-computer-science-9210-number-bases-revision-notes' },
+      { n: 4, f: 'Values of the hexadecimal digits A to F', b: 'A = 10, B = 11, C = 12, D = 13, E = 14, F = 15.', src: 'oxfordaqa-igcse-computer-science-9210-number-bases-revision-notes' },
+      { n: 5, f: 'How many different patterns can n bits make, and how many for 8 bits?', b: '2ⁿ patterns. 4 bits give 16; 8 bits give 256 (the values 0 to 255).', src: 'oxfordaqa-igcse-computer-science-9210-number-bases-revision-notes' },
     ]),
     ...sub('data-representation-9210', 'converting-between-number-bases-9210', '3.3.2', [
       { n: 1, f: 'How do you convert binary 1011 0110 to hexadecimal?', b: 'Split into groups of four bits: 1011 = B and 0110 = 6, so B6.' },
       { n: 2, f: 'What range of values must you convert between bases in 9210?', b: 'Decimal 0 to 255, which is binary 0000 0000 to 1111 1111 and hexadecimal 00 to FF.' },
+      { n: 3, f: 'Convert decimal 150 to binary', b: '128 + 16 + 4 + 2 = 150, so 1001 0110. Check by repeated division by 2 and reading the remainders from the bottom up.', src: 'oxfordaqa-igcse-computer-science-9210-converting-between-number-bases-revision-notes' },
+      { n: 4, f: 'Convert hexadecimal A7 to decimal', b: 'A = 10, so 10 × 16 + 7 = 167.', src: 'oxfordaqa-igcse-computer-science-9210-converting-between-number-bases-revision-notes' },
+      { n: 5, f: 'Convert decimal 237 to hexadecimal', b: '237 ÷ 16 = 14 remainder 13, so the digits are E and D: ED.', src: 'oxfordaqa-igcse-computer-science-9210-converting-between-number-bases-revision-notes' },
     ]),
     ...sub('data-representation-9210', 'units-of-information-9210', '3.3.3', [
       { n: 1, f: 'What are the units of storage from bit to gigabyte?', b: 'A bit (b) is a 0 or 1; a byte (B) is 8 bits. 9210 uses decimal prefixes: 1 kB = 1,000 bytes, 1 MB = 1,000 kB, 1 GB = 1,000 MB, 1 TB = 1,000 GB.' },
+      { n: 2, f: 'Difference between b and B', b: 'A lower-case b is a bit (a single 0 or 1); an upper-case B is a byte (8 bits). Bytes to bits: × 8. Bits to bytes: ÷ 8.', src: 'oxfordaqa-igcse-computer-science-9210-units-of-information-revision-notes' },
+      { n: 3, f: 'Going down or up the unit ladder (B, kB, MB, GB, TB): multiply or divide?', b: 'To a smaller unit, multiply by 1,000 per step; to a bigger unit, divide by 1,000 per step. A bigger unit gives a smaller number. Example: 3.5 MB = 3,500 kB.', src: 'oxfordaqa-igcse-computer-science-9210-units-of-information-revision-notes' },
+      { n: 4, f: 'How many 5 MB photographs fit on a 16 GB card?', b: 'Convert to the same unit: 16 GB = 16,000 MB. 16,000 ÷ 5 = 3,200 photographs. Round down to a whole number.', src: 'oxfordaqa-igcse-computer-science-9210-units-of-information-revision-notes' },
+      { n: 5, f: 'Convert 12 kB to bits', b: '12 kB = 12,000 bytes. 12,000 × 8 = 96,000 bits.', src: 'oxfordaqa-igcse-computer-science-9210-units-of-information-revision-notes' },
     ]),
     ...sub('data-representation-9210', 'binary-arithmetic-9210', '3.3.4', [
       { n: 1, f: 'What does a binary shift do?', b: 'A left shift by one place multiplies a number by 2; a right shift by one place divides it by 2 (any remainder is lost).' },
+      { n: 2, f: 'The four cases of binary addition in a column', b: '0 + 0 = 0, 0 + 1 = 1, 1 + 1 = 0 carry 1, and 1 + 1 + 1 (with a carry in) = 1 carry 1. Work from the right to the left.', src: 'oxfordaqa-igcse-computer-science-9210-binary-arithmetic-revision-notes' },
+      { n: 3, f: 'Add 0100 1101 and 0101 0101', b: '1010 0010. Check: 77 + 85 = 162 = 128 + 32 + 2.', src: 'oxfordaqa-igcse-computer-science-9210-binary-arithmetic-revision-notes' },
+      { n: 4, f: 'Shift 0010 0011 (35) left by 3 places. Why is the answer not 280?', b: 'The result is 0001 1000 (24). The leading 1 is shifted off the left end and lost, and empty places are filled with 0, so the answer stays within 8 bits.', src: 'oxfordaqa-igcse-computer-science-9210-binary-arithmetic-revision-notes' },
+      { n: 5, f: 'Shift 0001 0101 (21) right by 2 places', b: '0000 0101 (5). A right shift by 2 divides by 4 and keeps only the whole-number part; the remainder is lost, so 5.25 becomes 5.', src: 'oxfordaqa-igcse-computer-science-9210-binary-arithmetic-revision-notes' },
     ]),
     ...sub('data-representation-9210', 'character-encoding-9210', '3.3.5', [
       { n: 1, f: 'What is a character set? Compare ASCII and Unicode.', b: 'A set of characters with a binary code for each. 7-bit ASCII has 128 codes (English). Unicode represents many alphabets and special symbols, a far greater range, and uses the same codes as ASCII up to 127.' },
+      { n: 2, f: 'How many characters can 7-bit ASCII represent, and why?', b: '128 characters (codes 0 to 127), because 2⁷ = 128. Only English letters, digits, punctuation and control codes fit.', src: 'oxfordaqa-igcse-computer-science-9210-character-encoding-revision-notes' },
+      { n: 3, f: 'ASCII codes for space, digits, capitals and lower case', b: 'Space 32; digits 0 to 9 are 48 to 57; capitals A to Z are 65 to 90; lower case a to z are 97 to 122. Codes in each group run in sequence.', src: 'oxfordaqa-igcse-computer-science-9210-character-encoding-revision-notes' },
+      { n: 4, f: 'Using A = 65, find the code for G and for m', b: 'G is 6 places after A: 65 + 6 = 71. m is 12 places after a (97): 97 + 12 = 109. A lower-case letter is its capital + 32.', src: 'oxfordaqa-igcse-computer-science-9210-character-encoding-revision-notes' },
+      { n: 5, f: 'Advantage and disadvantage of Unicode compared with ASCII', b: 'Advantage: many more characters (other alphabets and symbols) in one standard. Disadvantage: more bits per character, so files can be larger.', src: 'oxfordaqa-igcse-computer-science-9210-character-encoding-revision-notes' },
     ]),
     ...sub('data-representation-9210', 'representing-images-9210', '3.3.6', [
       { n: 1, f: 'How do you calculate the file size of a bitmap image?', b: 'Width in pixels × height in pixels × colour depth (bits per pixel) gives the size in bits; divide by 8 for bytes.' },
+      { n: 2, f: 'What is a pixel, and what is colour depth?', b: 'A pixel (picture element) is a single point in a graphical image. Colour depth is the number of bits used to represent each pixel; D bits give 2ᴰ colours.', src: 'oxfordaqa-igcse-computer-science-9210-representing-images-revision-notes' },
+      { n: 3, f: 'Calculate the size of an 800 × 600 bitmap with 24-bit colour', b: '800 × 600 × 24 = 11,520,000 bits. ÷ 8 = 1,440,000 bytes, which is 1.44 MB.', src: 'oxfordaqa-igcse-computer-science-9210-representing-images-revision-notes' },
+      { n: 4, f: 'Effect of more pixels or a higher colour depth on a bitmap', b: 'Both make the file larger: more pixels give more detail, and a higher colour depth gives more colours. Doubling both dimensions makes the file four times as large.', src: 'oxfordaqa-igcse-computer-science-9210-representing-images-revision-notes' },
+      { n: 5, f: 'What must a computer know to turn bitmap data back into an image?', b: 'The width and height in pixels (to know where rows end) and the colour depth (how many bits per pixel). Pixel values are stored in order, row by row.', src: 'oxfordaqa-igcse-computer-science-9210-representing-images-revision-notes' },
     ]),
     ...sub('data-representation-9210', 'representing-sound-9210', '3.3.7', [
       { n: 1, f: 'How do you calculate the file size of a sound recording?', b: 'Sample rate (Hz) × sample resolution (bits) × duration (seconds) gives the size in bits.' },
+      { n: 2, f: 'Why must sound be converted before a computer can store it?', b: 'Sound is analogue (continuous). It is sampled, measuring amplitude at regular intervals, and each sample is stored as a binary number, giving a digital recording.', src: 'oxfordaqa-igcse-computer-science-9210-representing-sound-revision-notes' },
+      { n: 3, f: 'Sampling rate and sample resolution', b: 'Sampling rate: the number of samples taken each second, in hertz. Sample resolution: the number of bits used for each sample. n bits give 2ⁿ amplitude levels.', src: 'oxfordaqa-igcse-computer-science-9210-representing-sound-revision-notes' },
+      { n: 4, f: 'Effect of a higher sampling rate or sample resolution', b: 'A closer match to the original wave and better quality, but a larger file. Lower values lose detail and give a smaller file.', src: 'oxfordaqa-igcse-computer-science-9210-representing-sound-revision-notes' },
+      { n: 5, f: 'File size of 10 s of sound at 44,100 Hz and 16-bit resolution', b: '44,100 × 16 × 10 = 7,056,000 bits. ÷ 8 = 882,000 bytes, which is 0.882 MB. Convert minutes to seconds first.', src: 'oxfordaqa-igcse-computer-science-9210-representing-sound-revision-notes' },
     ]),
     ...sub('data-representation-9210', 'data-compression-9210', '3.3.8', [
       { n: 1, f: 'How do you build a Huffman tree?', b: 'Count the frequency of each character, then repeatedly join the two items with the lowest totals into a new node holding their sum until one root remains. Label branches 0 and 1; a code is the path from the root.' },
@@ -233,9 +266,17 @@ export const DECK_OXFORDAQA_IGCSE_COMPUTER_SCIENCE: FlashcardDeck = {
     ]),
     ...sub('computer-systems-9210', 'boolean-logic-9210', '3.4.2', [
       { n: 1, f: 'What do the NOT, AND and OR gates do?', b: 'NOT: inverts its single input.\nAND: output 1 only when both inputs are 1.\nOR: output 1 when at least one input is 1.' },
+      { n: 2, f: 'Truth table for AND and OR with two inputs', b: 'AND gives 1 only for 1,1. OR gives 1 for 0,1, for 1,0 and for 1,1; it gives 0 only for 0,0.', src: 'oxfordaqa-igcse-computer-science-9210-boolean-logic-revision-notes' },
+      { n: 3, f: 'How many rows does a truth table need for 2 and 3 inputs?', b: '2ⁿ rows: 4 for two inputs and 8 for three. List the inputs in binary order and add a working column for each gate before the last.', src: 'oxfordaqa-igcse-computer-science-9210-boolean-logic-revision-notes' },
+      { n: 4, f: 'Order of working in a Boolean expression', b: 'Brackets first, then NOT, then AND, then OR. Always use brackets to be clear.', src: 'oxfordaqa-igcse-computer-science-9210-boolean-logic-revision-notes' },
+      { n: 5, f: 'Write an expression: an alarm X sounds when armed (S) and the window (W) or door (D) sensor is on', b: 'X = S · (W + D). “And” gives a dot, “or” gives a plus, “not” gives a bar over the letter.', src: 'oxfordaqa-igcse-computer-science-9210-boolean-logic-revision-notes' },
     ]),
     ...sub('computer-systems-9210', 'software-classification-9210', '3.4.3', [
       { n: 1, f: 'What are the main functions of an operating system?', b: 'Managing memory, files, the processor (so several programs can run), peripherals and security, and providing a user interface.' },
+      { n: 2, f: 'System software and application software', b: 'System software manages the computer’s resources and provides a platform for applications. Application software performs end-user tasks. Test: does it serve the user’s task, or look after the computer?', src: 'oxfordaqa-igcse-computer-science-9210-software-classification-revision-notes' },
+      { n: 3, f: 'Name the five areas an operating system manages', b: 'Processor, memory, input/output devices, applications and security. Providing a user interface and managing files are other commonly accepted functions.', src: 'oxfordaqa-igcse-computer-science-9210-software-classification-revision-notes' },
+      { n: 4, f: 'Describe how an operating system manages memory', b: 'It allocates RAM to a program when it starts, keeps each program’s memory separate so they cannot interfere, and frees the memory when the program closes.', src: 'oxfordaqa-igcse-computer-science-9210-software-classification-revision-notes' },
+      { n: 5, f: 'What is a utility program? Give three examples', b: 'System software that carries out maintenance or housekeeping tasks. Examples: anti-virus, backup, defragmenter, file compression, encryption, firewall.', src: 'oxfordaqa-igcse-computer-science-9210-software-classification-revision-notes' },
     ]),
     ...sub('computer-systems-9210', 'systems-architecture-9210', '3.4.4', [
       { n: 1, f: 'What do the ALU and the control unit do?', b: 'ALU: carries out calculations and logical comparisons.\nControl unit: fetches and decodes instructions and directs the other parts of the CPU.' },
@@ -303,6 +344,9 @@ export const DECK_OXFORDAQA_IGCSE_COMPUTER_SCIENCE: FlashcardDeck = {
     ...sub('web-page-design', 'key-concepts-9210', '3.8.1', [
       { n: 1, f: 'What is the difference between HTML and CSS?', b: 'HTML (hypertext markup language) describes the structure and content of a page. CSS (cascading style sheets) describes how it looks: colours, fonts and layout.' },
       { n: 2, f: 'Server-side vs client-side scripting', b: 'Server-side scripts run on the web server to generate pages dynamically. Client-side scripts run in the browser to add extra functionality to a page.' },
+      { n: 3, f: 'Static and dynamic web pages', b: 'Static: a ready-made file that every visitor receives unchanged. Dynamic: generated when requested, so its content can differ between visitors or visits.', src: 'oxfordaqa-igcse-computer-science-9210-key-concepts-revision-notes' },
+      { n: 4, f: 'Give one advantage of server-side scripting and one of client-side scripting', b: 'Server-side: more secure, as code and data stay on the server. Client-side: fast response with no wait for the server, and less load on the server.', src: 'oxfordaqa-igcse-computer-science-9210-key-concepts-revision-notes' },
+      { n: 5, f: 'Can the user see a server-side script or a client-side script?', b: 'Not a server-side script: the server sends only the finished HTML. The user can see a client-side script, because it is sent to the browser, so it cannot be trusted alone for security.', src: 'oxfordaqa-igcse-computer-science-9210-key-concepts-revision-notes' },
     ]),
     ...sub('web-page-design', 'hypertext-markup-language-html-9210', '3.8.2', [
       { n: 1, f: 'What are the head and body sections of an HTML page for?', b: 'Head: information about the page that is not shown in the main window, such as the title and links to style sheets.\nBody: the content displayed in the browser.' },

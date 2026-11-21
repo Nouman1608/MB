@@ -315,6 +315,9 @@ export const DECK_EDEXCEL_IGCSE_CHEMISTRY: FlashcardDeck = {
     ...sub('organic-chemistry-4ch1', 'introduction-4ch1', '4a', [
       { n: 1, f: 'Homologous series', b: 'A family with the same general formula and functional group, similar chemical properties and a trend in physical properties; each member differs by CH₂.' },
       { n: 2, f: 'Isomers', b: 'Compounds with the same molecular formula but different structural formulae. A bent chain is not a new isomer.' },
+      { n: 3, f: 'The five types of formula, using propene', b: 'Empirical CH₂ (simplest whole-number ratio), molecular C₃H₆ (real atoms in one molecule), general CₙH₂ₙ, structural CH₂=CHCH₃, and displayed (every atom and bond drawn).', src: 'edexcel-igcse-chemistry-4ch1-organic-chemistry-introduction-revision-notes' },
+      { n: 4, f: 'Steps in naming an organic compound', b: 'Find the longest chain that includes the functional group, add the ending for the series, number from the end giving the lower number to the functional group or branch, then put branches in front, for example 1,2-dibromoethane.', src: 'edexcel-igcse-chemistry-4ch1-organic-chemistry-introduction-revision-notes' },
+      { n: 5, f: 'A hydrocarbon is 75% carbon and 25% hydrogen by mass. Empirical formula?', b: 'Moles: C = 75 ÷ 12 = 6.25; H = 25 ÷ 1 = 25. Divide by the smaller: C = 1, H = 4. The empirical formula is CH₄.', src: 'edexcel-igcse-chemistry-4ch1-organic-chemistry-introduction-revision-notes' },
     ]),
     ...sub('organic-chemistry-4ch1', 'crude-oil-4ch1', '4b', [
       { n: 1, f: 'Crude oil fractions, top to bottom, with a use for each', b: 'Refinery gases: bottled gas. Gasoline: petrol. Kerosene: aircraft fuel. Diesel: lorries, trains. Fuel oil: ships, power stations. Bitumen: roads.\nGoing down: higher boiling point, more viscous, darker.' },
@@ -324,12 +327,24 @@ export const DECK_EDEXCEL_IGCSE_CHEMISTRY: FlashcardDeck = {
     ]),
     ...sub('organic-chemistry-4ch1', 'alkanes-4ch1', '4c', [
       { n: 1, f: 'Addition vs substitution', b: 'Alkenes add (one product), e.g. C₂H₄ + Br₂ → C₂H₄Br₂.\nAlkanes substitute in UV light (two products, one is HX), e.g. C₃H₈ + Cl₂ → C₃H₇Cl + HCl.', src: ORG },
+      { n: 2, f: 'General formula of the alkanes; formula of the alkane with Mr 142', b: 'CₙH₂ₙ₊₂. With Mr 142, 14n + 2 = 142, so n = 10 and the formula is C₁₀H₂₂. A 12-carbon alkane has 2 × 12 + 2 = 26 hydrogens.' },
+      { n: 3, f: 'Why are alkanes called saturated hydrocarbons?', b: 'They contain only C-C single bonds, so every carbon is bonded to the maximum possible number of hydrogen atoms and no more atoms can be added without breaking the carbon skeleton.', src: ORG },
+      { n: 4, f: 'Trend in boiling point from methane to pentane, and states at 20 °C', b: 'Boiling point rises with chain length (-162 °C methane to 36 °C pentane) because longer molecules have stronger intermolecular forces. Methane to butane are gases at 20 °C; pentane is a liquid.' },
+      { n: 5, f: 'Branched isomers of butane and pentane', b: 'Butane (C₄H₁₀) has one branched isomer, 2-methylpropane. Pentane (C₅H₁₂) has two, 2-methylbutane and 2,2-dimethylpropane. Check each drawing: four bonds per carbon, one per hydrogen.' },
     ]),
     ...sub('organic-chemistry-4ch1', 'alkenes-4ch1', '4d', [
       { n: 1, f: 'Test to tell an alkene from an alkane', b: 'Bromine water: an alkene decolourises it (orange → colourless); an alkane leaves it orange.' },
+      { n: 2, f: 'Why are alkenes called unsaturated?', b: 'They contain a C=C double bond, so they have fewer hydrogens than the alkane with the same number of carbons, and the double bond can open to bond to more atoms.', src: 'edexcel-igcse-chemistry-4ch1-alkenes-revision-notes' },
+      { n: 3, f: 'Ethene reacts with bromine: product, name and conditions', b: 'C₂H₄ + Br₂ → C₂H₄Br₂, which is 1,2-dibromoethane. It is an addition reaction giving one product at room temperature, with no UV light needed.', src: 'edexcel-igcse-chemistry-4ch1-alkenes-revision-notes' },
+      { n: 4, f: 'An alkene has Mr = 84. Its formula?', b: 'Mr = 14n, so n = 84 ÷ 14 = 6 and the formula is C₆H₁₂. The general formula CₙH₂ₙ has no +2.', src: 'edexcel-igcse-chemistry-4ch1-alkenes-revision-notes' },
+      { n: 5, f: 'Isomers of C₄H₈ that are alkenes', b: 'But-1-ene CH₂=CHCH₂CH₃, but-2-ene CH₃CH=CHCH₃ and the branched 2-methylpropene CH₂=C(CH₃)CH₃. Number from the end giving the lower number to the double bond.', src: 'edexcel-igcse-chemistry-4ch1-alkenes-revision-notes' },
     ]),
     ...sub('organic-chemistry-4ch1', 'alcohols-4ch1', '4e', [
       { n: 1, f: 'Making ethanol: hydration of ethene vs fermentation (Paper 2 only)', b: 'Hydration: C₂H₄ + H₂O → C₂H₅OH; phosphoric acid catalyst, about 300 °C, 60–70 atm.\nFermentation: C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂; yeast enzymes, about 30 °C, absence of air.' },
+      { n: 2, f: 'General formula and first four alcohols (Paper 2 only)', b: 'CₙH₂ₙ₊₁OH. Methanol CH₃OH, ethanol C₂H₅OH, propan-1-ol C₃H₇OH, butan-1-ol C₄H₉OH. In displayed formulae draw the O-H bond; oxygen has two bonds.', src: 'edexcel-igcse-chemistry-4ch1-alcohols-revision-notes' },
+      { n: 3, f: 'Oxidation of ethanol to ethanoic acid: two routes and the colour change (Paper 2 only)', b: 'Microbial oxidation with air and bacteria gives vinegar. Chemical oxidation by heating with acidified potassium dichromate(VI) turns orange to green as dichromate(VI) is reduced.', src: 'edexcel-igcse-chemistry-4ch1-alcohols-revision-notes' },
+      { n: 4, f: 'Why is fermentation done without air and at about 30 °C? (Paper 2 only)', b: 'No air, so the ethanol is not oxidised to ethanoic acid. Around 30 °C: lower is too slow; above about 40 °C the enzymes denature and the yeast stops working.', src: 'edexcel-igcse-chemistry-4ch1-alcohols-revision-notes' },
+      { n: 5, f: 'Boiling points of methanol, ethanol, propan-1-ol and butan-1-ol, and the trend (Paper 2 only)', b: '65, 78, 97 and 118 °C. Boiling point rises with chain length because the intermolecular forces get stronger.', src: 'edexcel-igcse-chemistry-4ch1-alcohols-revision-notes' },
     ]),
     ...sub('organic-chemistry-4ch1', 'carboxylic-acids-4ch1', '4f', [
       { n: 1, f: 'Functional group and general formula of carboxylic acids (Paper 2 only)', b: 'The functional group is -COOH (carboxyl): a C=O and an O-H on the same carbon. General formula CₙH₂ₙ₊₁COOH. Names end in -oic acid.', src: 'edexcel-igcse-chemistry-4ch1-carboxylic-acids-revision-notes' },
@@ -343,10 +358,17 @@ export const DECK_EDEXCEL_IGCSE_CHEMISTRY: FlashcardDeck = {
     ]),
     ...sub('organic-chemistry-4ch1', 'esters-4ch1', '4g', [
       { n: 1, f: 'Making an ester, with an example (Paper 2 only)', b: 'Alcohol + carboxylic acid ⇌ ester + water, with an acid catalyst. Ethanol + ethanoic acid → ethyl ethanoate, CH₃COOC₂H₅. Esters are used in food flavourings and perfumes.' },
+      { n: 2, f: 'How an ester is named from its alcohol and acid (Paper 2 only)', b: 'The first word comes from the alcohol (methyl, ethyl, propyl) and the second from the acid (-oate). Ethanol + ethanoic acid gives ethyl ethanoate; propan-1-ol + ethanoic acid gives propyl ethanoate.', src: 'edexcel-igcse-chemistry-4ch1-esters-revision-notes' },
+      { n: 3, f: 'Name the ester CH₃CH₂COOCH₃ and the acid and alcohol it comes from (Paper 2 only)', b: 'The C=O side has 3 carbons, so propanoic acid; the other side has 1 carbon, so methanol. The ester is methyl propanoate. It is an isomer of ethyl ethanoate, not the same ester.', src: 'edexcel-igcse-chemistry-4ch1-esters-revision-notes' },
+      { n: 4, f: 'Practical to make ethyl ethanoate: reagents and why (Paper 2 only)', b: 'Mix ethanol and ethanoic acid with a few drops of concentrated sulfuric acid catalyst, and warm in a hot water bath with no naked flame. Pour into sodium carbonate to remove unreacted acid; a fruity smell and oily layer show an ester.', src: 'edexcel-igcse-chemistry-4ch1-esters-revision-notes' },
+      { n: 5, f: 'Properties and uses of small esters; why is the yield below 100%? (Paper 2 only)', b: 'Volatile, fruity-smelling and insoluble in water; used in flavourings, perfumes and solvents. The reaction is reversible and some product is lost on separation, so yield is below 100%.', src: 'edexcel-igcse-chemistry-4ch1-esters-revision-notes' },
     ]),
     ...sub('organic-chemistry-4ch1', 'synthetic-polymers-4ch1', '4h', [
       { n: 1, f: 'Addition polymer', b: 'Many monomers joined as the C=C opens. The repeat unit has only single bonds in the backbone and extension bonds through the brackets.', src: ORG },
       { n: 2, f: 'Addition vs condensation polymerisation', b: 'Addition gives one product only. Condensation also gives water — e.g. a dicarboxylic acid + a diol → polyester + water (Paper 2 only).', src: ORG },
+      { n: 3, f: 'Four addition polymers named in the specification', b: 'Poly(ethene), poly(propene), poly(chloroethene) and (poly)tetrafluoroethene. Each forms by the C=C of its monomer opening to join many monomers.', src: ORG },
+      { n: 4, f: 'How to find the monomer from a repeat unit', b: 'Take the two backbone carbons, put a C=C between them and keep the side groups. The polymer is the whole chain; the repeat unit is the bracketed section with n outside.', src: ORG },
+      { n: 5, f: 'Problems with disposing of addition polymers', b: 'They are inert and do not biodegrade, so they persist in landfill, and burning them gives toxic gases. Biopolyesters (Paper 2 only) are biodegradable.', src: ORG },
     ]),
   ],
 };

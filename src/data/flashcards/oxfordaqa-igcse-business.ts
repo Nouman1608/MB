@@ -114,6 +114,10 @@ export const DECK_OXFORDAQA_IGCSE_BUSINESS: FlashcardDeck = {
     ]),
     ...sub('business-in-the-real-world-oxfordaqa-igcse-business', 'business-location-oxfordaqa-igcse-business', '3.1.5', [
       { n: 1, f: 'Why do weight-losing industries locate near raw materials?', b: 'The finished product is lighter than its inputs, so it is cheaper to transport the product than the raw materials. Weight-gaining and service industries locate near the market.' },
+      { n: 2, f: 'Name the six factors that influence where a business locates', b: 'Proximity to the market, availability of raw materials, labour, competition, costs, and government influence. Choose the factors that matter for the business in the case.', src: 'oxfordaqa-igcse-business-9225-business-location-revision-notes' },
+      { n: 3, f: 'How can a government influence where a business locates?', b: 'Grants and cheap loans for areas of high unemployment, lower taxes in special zones, planning rules, infrastructure (roads, rail, ports, broadband), and restrictions on noisy or polluting firms near homes.', src: 'oxfordaqa-igcse-business-9225-business-location-revision-notes' },
+      { n: 4, f: 'Benefits and risks of locating near competitors', b: 'Benefits: customers come to compare and the area becomes known for that type of shop. Risk: customers may choose a rival. Locating away avoids rivalry and may allow higher prices, but footfall is lower.', src: 'oxfordaqa-igcse-business-9225-business-location-revision-notes' },
+      { n: 5, f: 'Why is a cheap rent not enough to show a site is the cheaper choice?', b: 'Compare total costs: rent + wages + transport + other costs. A low rent may be outweighed by higher wages, transport costs or lost sales.', src: 'oxfordaqa-igcse-business-9225-business-location-revision-notes' },
     ]),
     ...sub('business-in-the-real-world-oxfordaqa-igcse-business', 'business-planning-oxfordaqa-igcse-business', '3.1.6', [
       { n: 1, f: 'Four reasons why businesses make plans', b: 'To set up a new business by thinking through the idea, costs and risks; to raise finance; to set objectives and targets; and to organise functions such as production, marketing, staffing and finance.', src: 'oxfordaqa-igcse-business-9225-business-planning-revision-notes' },
@@ -196,6 +200,9 @@ export const DECK_OXFORDAQA_IGCSE_BUSINESS: FlashcardDeck = {
     ...sub('business-operations-oxfordaqa-igcse-business', 'production-processes-oxfordaqa-igcse-business', '3.3.1', [
       { n: 1, f: 'Job, batch, flow and cell production', b: 'Job: one item made to order.\nBatch: identical items in groups, one group after another.\nFlow: continuous production of a standard product.\nCell: small teams each making a whole part or product.' },
       { n: 2, f: 'Efficiency, and two ways of improving it', b: 'More output from the resources used, or the same output from fewer, so unit cost falls. Ways: just-in-time (JIT) and Kaizen (many small improvements suggested by employees at every level).' },
+      { n: 3, f: 'Compare job, batch and flow production on quantity and cost per item', b: 'Job: one item, highest cost per item. Batch: groups of identical items, medium cost. Flow: very large quantities of a standard product on a line, lowest cost per item.', src: 'oxfordaqa-igcse-business-9225-production-processes-revision-notes' },
+      { n: 4, f: 'Advantages and drawbacks of just in time (JIT) stock control', b: 'Advantages: lower storage costs, less money tied up, less waste or damage. Drawbacks: needs reliable suppliers, a late delivery can stop production, and bulk-buying discounts may be lost.', src: 'oxfordaqa-igcse-business-9225-production-processes-revision-notes' },
+      { n: 5, f: 'Kaizen: what is it and what are its benefits and costs?', b: 'Continuous improvement through small changes suggested by staff at all levels. It reduces waste, speeds production and raises quality and motivation, but needs training and time and gains build up slowly.', src: 'oxfordaqa-igcse-business-9225-production-processes-revision-notes' },
     ]),
     ...sub('business-operations-oxfordaqa-igcse-business', 'the-role-of-procurement-oxfordaqa-igcse-business', '3.3.2', [
       { n: 1, f: 'JIT and buffer stock compared', b: 'JIT: lower storage costs and less cash tied up, but more deliveries, lost bulk discounts, and production stops if a delivery is late.\nBuffer stock: spare stock to meet unexpected demand, but storage, insurance and cash tied up.' },
@@ -210,6 +217,9 @@ export const DECK_OXFORDAQA_IGCSE_BUSINESS: FlashcardDeck = {
     ...sub('business-operations-oxfordaqa-igcse-business', 'good-customer-services-oxfordaqa-igcse-business', '3.3.4', [
       { n: 1, f: 'Elements of good customer service', b: 'Product knowledge, customer engagement (greeting, listening, quick problem handling) and post-sales services (user training, help lines, servicing).' },
       { n: 2, f: 'Benefits of good customer service and dangers of poor service', b: 'Good: satisfaction and loyalty, repeat custom, good word of mouth.\nPoor: dissatisfied customers, a poor reputation, lost sales.' },
+      { n: 3, f: 'Name three post-sales services', b: 'User training (showing customers how to use a product), help lines (phone, chat or email support) and servicing (maintenance and warranty repairs).', src: 'oxfordaqa-igcse-business-9225-good-customer-services-revision-notes' },
+      { n: 4, f: 'How has ICT developed customer service?', b: 'Websites give 24-hour information and order tracking; e-commerce allows convenient buying and returns; social media gives fast replies and feedback. Risks include public complaints and no personal contact.', src: 'oxfordaqa-igcse-business-9225-good-customer-services-revision-notes' },
+      { n: 5, f: 'How can a business judge whether better customer service is worth the cost?', b: 'Compare the cost of the service (staff, training, equipment) with the benefit (customers retained, fewer returns, more sales). Winning a new customer costs more than keeping an existing one.', src: 'oxfordaqa-igcse-business-9225-good-customer-services-revision-notes' },
     ]),
 
     // 4 Human resources
@@ -222,6 +232,9 @@ export const DECK_OXFORDAQA_IGCSE_BUSINESS: FlashcardDeck = {
     ...sub('human-resources-oxfordaqa-igcse-business', 'recruitment-and-selection-of-employees-oxfordaqa-igcse-business', '3.4.2', [
       { n: 1, f: 'Internal and external recruitment', b: 'Internal: cheaper, quicker, a known person, promotion motivates; but a small choice and no new ideas.\nExternal: wider choice and new skills; but slower, dearer and riskier.' },
       { n: 2, f: 'Stages of recruitment and selection, in order', b: 'Identify the vacancy, write the job description and person specification, advertise, applications and shortlist, interviews and tests, then references, offer and acceptance.' },
+      { n: 3, f: 'Job description and person specification', b: 'Job description: the duties, hours, pay and reporting line of the job. Person specification: the skills, qualifications and experience wanted in the person who fills it.', src: 'oxfordaqa-igcse-business-9225-recruitment-and-selection-of-employees-revision-notes' },
+      { n: 4, f: 'Why might a business need to recruit?', b: 'To replace leavers, because of business growth, to bring in new skills, to meet seasonal demand, or after reorganisation or the launch of new products.', src: 'oxfordaqa-igcse-business-9225-recruitment-and-selection-of-employees-revision-notes' },
+      { n: 5, f: 'Benefits of an effective recruitment and selection process', b: 'Higher productivity, higher-quality output or customer service, and better staff retention, which lowers recruitment and training costs. Poor recruitment causes errors and high staff turnover.', src: 'oxfordaqa-igcse-business-9225-recruitment-and-selection-of-employees-revision-notes' },
     ]),
     ...sub('human-resources-oxfordaqa-igcse-business', 'motivating-employees-oxfordaqa-igcse-business', '3.4.3', [
       { n: 1, f: 'Salary, wage, commission and profit sharing', b: 'Salary: fixed yearly pay. Wage: pay per hour or week.\nCommission: a percentage of own sales. Profit sharing: a share of the business’s profit.' },
@@ -230,6 +243,10 @@ export const DECK_OXFORDAQA_IGCSE_BUSINESS: FlashcardDeck = {
     ]),
     ...sub('human-resources-oxfordaqa-igcse-business', 'training-oxfordaqa-igcse-business', '3.4.4', [
       { n: 1, f: 'Induction, on-the-job and off-the-job training', b: 'Induction: introduces new starters to the business, rules and job.\nOn the job: learning at work, such as shadowing; cheap and practical, but bad habits may pass on.\nOff the job: away from work, such as a course; specialist teaching, but fees and time away.' },
+      { n: 2, f: 'Benefits of training to a business', b: 'Higher productivity, staff able to use new technology, increased motivation, better staff retention, higher-quality goods and better customer service.', src: 'oxfordaqa-igcse-business-9225-training-revision-notes' },
+      { n: 3, f: 'Costs and risks of training', b: 'Course fees, trainers’ pay and materials; lost output while staff train or train others; trained staff may leave for rivals; and the benefits are uncertain and take time.', src: 'oxfordaqa-igcse-business-9225-training-revision-notes' },
+      { n: 4, f: 'When is off-the-job training more suitable than on-the-job?', b: 'For technical, legal or safety knowledge, dangerous tasks (using simulators), when qualifications are needed, for large groups of trainees, and when there is a budget for fees.', src: 'oxfordaqa-igcse-business-9225-training-revision-notes' },
+      { n: 5, f: 'Calculate the cost of off-the-job training', b: 'Cost = course fees + lost output. For example, 8 staff at 600 each plus 3 days of lost output (8 × 3 × 120) = 4,800 + 2,880 = 7,680.', src: 'oxfordaqa-igcse-business-9225-training-revision-notes' },
     ]),
 
     // 5 Marketing
@@ -245,6 +262,10 @@ export const DECK_OXFORDAQA_IGCSE_BUSINESS: FlashcardDeck = {
     ]),
     ...sub('marketing-oxfordaqa-igcse-business', 'market-segmentation-oxfordaqa-igcse-business', '3.5.2', [
       { n: 1, f: 'Market segmentation, and the types in the specification', b: 'Dividing customers into groups with shared characteristics, so product, price and message fit each group. Types: gender, age, location and income.' },
+      { n: 2, f: 'Why do businesses segment their market?', b: 'To target spending on those most likely to buy, design products for specific needs, raise sales and profit, find segments rivals ignore and choose suitable marketing methods.', src: 'oxfordaqa-igcse-business-9225-market-segmentation-revision-notes' },
+      { n: 3, f: 'Match a marketing method to each segment: young adults, older customers, low income', b: 'Young adults: social media, influencers, student discounts. Older customers: local newspapers, direct mail, in-store advice. Low income: low prices, discounts and loyalty points.', src: 'oxfordaqa-igcse-business-9225-market-segmentation-revision-notes' },
+      { n: 4, f: 'Segmentation by location: give an example of how it is used', b: 'Climate, culture or urban against rural differences affect demand, for example selling raincoats in a wet region or using local radio adverts and regional offers.', src: 'oxfordaqa-igcse-business-9225-market-segmentation-revision-notes' },
+      { n: 5, f: 'Drawbacks of market segmentation', b: 'Research costs money, segments can be too small to be profitable, segments overlap and change, targeting one group may put off others, and there is a risk of stereotyping.', src: 'oxfordaqa-igcse-business-9225-market-segmentation-revision-notes' },
     ]),
     ...sub('marketing-oxfordaqa-igcse-business', 'the-purpose-and-methods-of-market-research-oxfordaqa-igcse-business', '3.5.3', [
       { n: 1, f: 'Purposes of market research', b: 'To identify market opportunities, gain insight into customers and competitors, and reduce the risk of launching the wrong product.' },
@@ -265,14 +286,24 @@ export const DECK_OXFORDAQA_IGCSE_BUSINESS: FlashcardDeck = {
     ...sub('finance-oxfordaqa-igcse-business', 'sources-of-finance-oxfordaqa-igcse-business', '3.6.1', [
       { n: 1, f: 'Internal and external sources of finance', b: 'Internal: retained profit and selling unwanted assets.\nExternal: family and friends, a new share issue, loans or mortgages, overdrafts, trade credit, crowdfunding, and government or charitable grants and loans.' },
       { n: 2, f: 'Why do new and established businesses differ in raising finance?', b: 'A new business has no track record, so lenders see more risk. An established business has a profit history, assets and credibility.' },
+      { n: 3, f: 'Why can a new business not use retained profit or a share issue?', b: 'A new business has no retained profit yet. A sole trader or partnership cannot issue shares; only a limited company can. A bank may also refuse a loan to a business with no track record.', src: 'oxfordaqa-igcse-business-9225-sources-of-finance-revision-notes' },
+      { n: 4, f: 'Matching finance to need: wages while waiting for customers to pay, and buying a building', b: 'Short-term need, short-term finance: an overdraft or trade credit for wages. A building is a long-term need: a mortgage secured on the property.', src: 'oxfordaqa-igcse-business-9225-sources-of-finance-revision-notes' },
+      { n: 5, f: 'Calculate simple interest on a 30,000 loan at 9% for 3 years', b: 'Interest = amount × rate × years = 30,000 × 0.09 × 3 = 8,100. Total repaid = 30,000 + 8,100 = 38,100.', src: 'oxfordaqa-igcse-business-9225-sources-of-finance-revision-notes' },
     ]),
     ...sub('finance-oxfordaqa-igcse-business', 'cash-flow-oxfordaqa-igcse-business', '3.6.2', [
       { n: 1, f: 'Net cash flow and closing balance', b: 'Net cash flow = inflows − outflows.\nClosing balance = opening balance + net cash flow.\nExample: opening 2,000, inflows 6,500, outflows 7,200: net −700, closing 1,300.' },
       { n: 2, f: 'Ways to solve a cash flow problem', b: 'Re-schedule payments, an overdraft, reduce cash outflows, increase cash inflows (chase debtors, prompt-payment discounts, sell assets), or new sources of finance.' },
+      { n: 3, f: 'Why can a profitable business run out of cash?', b: 'Profit is recorded when the sale is made, but credit customers pay later. Goods sold for 10,000 on 60 days’ credit with 6,000 of costs paid gives a profit of 4,000 but cash of −6,000 until the customer pays.', src: 'oxfordaqa-igcse-business-9225-cash-flow-revision-notes' },
+      { n: 4, f: 'Why do businesses produce cash flow forecasts, and what are their limits?', b: 'To spot shortages in advance, plan big payments, support loan applications and compare actual with plan. They are only estimates: sales may be lower, customers may pay late and new businesses have no past data.', src: 'oxfordaqa-igcse-business-9225-cash-flow-revision-notes' },
+      { n: 5, f: 'Consequences of cash flow problems for a business', b: 'Suppliers may refuse credit, staff may leave, opportunities such as bulk discounts are missed, and the business may become insolvent (unable to pay debts when due).', src: 'oxfordaqa-igcse-business-9225-cash-flow-revision-notes' },
     ]),
     ...sub('finance-oxfordaqa-igcse-business', 'financial-terms-and-calculations-oxfordaqa-igcse-business', '3.6.3', [
       { n: 1, f: 'Margin of safety, and an example', b: 'Margin of safety = actual or planned output − break-even output.\nBreak-even 800 units, planned 1,100 units: margin of safety = 300 units.' },
       { n: 2, f: 'Payback period: cost 24,000, net inflows 8,000, 12,000 and 15,000 a year', b: 'After two years 20,000 is repaid. Remaining 4,000 ÷ 15,000 ≈ 0.27 of a year, about 3 months.\nPayback ≈ 2 years 3 months.' },
+      { n: 3, f: 'Reading a break-even chart', b: 'Output is on the horizontal axis and money on the vertical. Total costs start at the fixed costs level; revenue starts at zero. Break-even is where they cross; left of it is a loss and right of it a profit.', src: 'oxfordaqa-igcse-business-9225-financial-terms-and-calculations-revision-notes' },
+      { n: 4, f: 'What happens to break-even output if price rises, or if fixed costs rise?', b: 'A higher price makes break-even output fall. Higher fixed costs or higher variable costs make it rise.', src: 'oxfordaqa-igcse-business-9225-financial-terms-and-calculations-revision-notes' },
+      { n: 5, f: 'A machine costs 60,000 with net cash flows of 12,000, 18,000, 24,000 and 24,000. Find the payback period', b: 'After 3 years the total is 54,000, leaving 6,000. 6,000 ÷ 24,000 = 0.25 of a year, so payback is 3 years 3 months.', src: 'oxfordaqa-igcse-business-9225-financial-terms-and-calculations-revision-notes' },
+      { n: 6, f: 'Limitations of break-even analysis', b: 'It assumes all output is sold at a constant price and constant costs, uses estimates, is hard with many products and ignores competitors and demand.', src: 'oxfordaqa-igcse-business-9225-financial-terms-and-calculations-revision-notes' },
     ]),
     ...sub('finance-oxfordaqa-igcse-business', 'analysing-the-financial-performance-of-a-business-oxfordaqa-igcse-business', '3.6.4', [
       { n: 1, f: 'Assets', b: 'Owned by, or owed to, the business (non-current and current).', src: FIN },

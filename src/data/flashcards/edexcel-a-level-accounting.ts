@@ -210,16 +210,31 @@ export const DECK_EDEXCEL_A_LEVEL_ACCOUNTING: FlashcardDeck = {
     // 1.3 Financial statements of organisations
     ...sub('financial-statements-of-organisations', 'financial-statements-of-sole-traders-yac11', '1.3.1-1.3.2', [
       { n: 1, f: 'Sole trader: closing capital', b: 'Opening capital + profit for the year − drawings (+ any capital introduced).', src: FSO },
+      { n: 2, f: 'Sole trader: cost of sales', b: 'Opening inventory + purchases (+ carriage inwards − returns outwards) − closing inventory. Revenue less cost of sales is gross profit.', src: 'edexcel-ial-accounting-financial-statements-of-organisations-revision-notes' },
+      { n: 3, f: 'Gross profit vs profit for the year', b: 'Gross profit is revenue less cost of sales, before expenses and other income. Profit for the year is after adding other operating income and deducting expenses.', src: 'edexcel-ial-accounting-financial-statements-of-organisations-revision-notes' },
+      { n: 4, f: 'Order of a sole trader\'s statement of financial position', b: 'Non-current assets (cost − accumulated depreciation = carrying value), current assets, current liabilities, non-current liabilities, then capital.', src: 'edexcel-ial-accounting-financial-statements-of-organisations-revision-notes' },
+      { n: 5, f: 'IAS terms: what replaces sales, stock, net profit and net book value?', b: 'Revenue, inventory, profit for the year and carrying value. The balance sheet becomes the statement of financial position.', src: 'edexcel-ial-accounting-financial-statements-of-organisations-revision-notes' },
     ]),
     ...sub('financial-statements-of-organisations', 'year-end-adjustments-yac11', '1.3.3-1.3.6', [
       { n: 1, f: 'Rates paid 5,400; 900 prepaid at the start and 1,100 at the end. Expense?', b: '5,400 + 900 − 1,100 = 5,200.', src: FSO },
       { n: 2, f: 'Receivables 22,000 after write-offs; allowance 3%; last year\'s allowance 800. Effect on profit and SOFP figure?', b: 'New allowance 660, a decrease of 140, added to profit. Receivables shown at 22,000 − 660 = 21,340.', src: FSO },
+      { n: 3, f: 'Expense accrued at the year end: effect on the statements', b: 'Add it to the expense in the statement of profit or loss. Show it in the statement of financial position as other payables.', src: 'edexcel-ial-accounting-financial-statements-of-organisations-revision-notes' },
+      { n: 4, f: 'Expense prepaid at the year end: effect on the statements', b: 'Deduct it from the expense in the statement of profit or loss. Show it in the statement of financial position as other receivables.', src: 'edexcel-ial-accounting-financial-statements-of-organisations-revision-notes' },
+      { n: 5, f: 'Irrecoverable debt vs allowance for irrecoverable debts', b: 'An irrecoverable debt is a known bad debt, written off as an expense and deducted from receivables. An allowance estimates further debts that may not be paid; only the change in it goes to profit.', src: 'edexcel-ial-accounting-financial-statements-of-organisations-revision-notes' },
     ]),
     ...sub('financial-statements-of-organisations', 'departmental-records-yac11', '1.3.7', [
       { n: 1, f: 'Departmental accounts: heating of 9,000 shared by floor area of 500 : 250 : 150 m²', b: '5,000 : 2,500 : 1,500 (total area 900 m², so 10 per m²).', src: FSO },
+      { n: 2, f: 'Departmental statements: layout and direct costs', b: 'One column per department plus a total column. Direct costs go to their own department; shared costs are apportioned on a fair basis.', src: 'edexcel-ial-accounting-financial-statements-of-organisations-revision-notes' },
+      { n: 3, f: 'Which bases apportion rent, advertising and staff welfare between departments?', b: 'Rent, rates and heating by floor area; advertising and carriage out by revenue; staff welfare by staff numbers. Insurance of equipment goes by asset value.', src: 'edexcel-ial-accounting-financial-statements-of-organisations-revision-notes' },
+      { n: 4, f: 'Rent of 12,000 shared by floor area 300 : 100 m². Each department\'s share?', b: 'Total area 400 m², so 30 per m². The first department bears 9,000 and the second 3,000.', src: 'edexcel-ial-accounting-financial-statements-of-organisations-revision-notes' },
+      { n: 5, f: 'Staff welfare of 3,600 shared by staff numbers 8 : 4 : 6. Each share?', b: 'Total staff 18, so 200 per person. The shares are 1,600, 800 and 1,200.', src: 'edexcel-ial-accounting-financial-statements-of-organisations-revision-notes' },
     ]),
     ...sub('financial-statements-of-organisations', 'incomplete-records-yac11', '1.3.8', [
       { n: 1, f: 'Convert these mark-ups to margins: 25%, 50%, 100%', b: '25% mark-up = 20% margin.\n50% mark-up = 33⅓% margin.\n100% mark-up = 50% margin.', src: FSO },
+      { n: 2, f: 'Incomplete records: how is opening capital found?', b: 'With a statement of affairs: assets minus liabilities at the start of the period.', src: 'edexcel-ial-accounting-financial-statements-of-organisations-revision-notes' },
+      { n: 3, f: 'Receipts from receivables 40,000; receivables 3,000 opening and 5,000 closing. Credit sales?', b: 'Receipts + closing receivables − opening receivables = 40,000 + 5,000 − 3,000 = 42,000.', src: 'edexcel-ial-accounting-financial-statements-of-organisations-revision-notes' },
+      { n: 4, f: 'Mark-up vs margin', b: 'Mark-up is gross profit ÷ cost. Margin is gross profit ÷ revenue. A 25% mark-up equals a 20% margin.', src: 'edexcel-ial-accounting-financial-statements-of-organisations-revision-notes' },
+      { n: 5, f: 'Incomplete records: how is profit found from net assets only?', b: 'Closing net assets − opening net assets + drawings − capital introduced.', src: 'edexcel-ial-accounting-financial-statements-of-organisations-revision-notes' },
     ]),
     ...sub('financial-statements-of-organisations', 'partnership-yac11', '1.3.9-1.3.13', [
       { n: 1, f: 'Profit 40,000; interest on drawings 600; partner\'s salary 8,000; interest on capital 4,600. Residual profit, shared equally by two partners?', b: '40,000 + 600 − 8,000 − 4,600 = 28,000, so 14,000 each.', src: FSO },
@@ -230,9 +245,16 @@ export const DECK_EDEXCEL_A_LEVEL_ACCOUNTING: FlashcardDeck = {
     ...sub('financial-statements-of-organisations', 'clubs-and-non-profit-making-organisations-yac11', '1.3.14-1.3.19', [
       { n: 1, f: 'A club receives subscriptions of 4,870, including 120 owed from last year and 210 for next year. Income for the year?', b: '4,870 − 120 − 210 = 4,540.', src: FSO },
       { n: 2, f: 'Opening accumulated fund 12,400; surplus 1,850. Closing accumulated fund?', b: '12,400 + 1,850 = 14,250. The accumulated fund is a club\'s assets minus liabilities.', src: FSO },
+      { n: 3, f: 'Receipts and payments account vs income and expenditure account', b: 'Receipts and payments: cash basis, includes capital items, ends with a cash or bank balance. Income and expenditure: accruals basis, revenue items only, includes depreciation, ends with a surplus or deficit.', src: 'edexcel-ial-accounting-financial-statements-of-organisations-revision-notes' },
+      { n: 4, f: 'How does a club treat life membership fees?', b: 'Credit them to a life membership fund, shown separately from the accumulated fund. Transfer a fixed share to income each year under the club\'s policy.', src: 'edexcel-ial-accounting-financial-statements-of-organisations-revision-notes' },
+      { n: 5, f: 'How does a club treat a bar or café trading result?', b: 'Prepare an activity trading account: revenue − cost of sales − direct costs = profit. The profit is taken to the income and expenditure account as income.', src: 'edexcel-ial-accounting-financial-statements-of-organisations-revision-notes' },
     ]),
     ...sub('financial-statements-of-organisations', 'manufacturers-yac11', '1.3.20-1.3.22', [
       { n: 1, f: 'Closing finished goods at transfer price 13,200; mark-up 10%. Unrealised profit?', b: '13,200 × 10/110 = 1,200. Deduct only the increase in the provision from profit; show finished goods at cost.', src: FSO },
+      { n: 2, f: 'Manufacturer: what is prime cost?', b: 'Direct materials consumed plus direct labour plus direct expenses such as royalties. It excludes factory overheads.', src: 'edexcel-ial-accounting-financial-statements-of-organisations-revision-notes' },
+      { n: 3, f: 'Manufacturer: raw materials opening 8,000, purchases 52,000, carriage in 1,000, closing 6,000. Consumed?', b: '8,000 + 52,000 + 1,000 − 6,000 = 55,000. With direct labour 30,000 and royalties 2,000, prime cost is 87,000.', src: 'edexcel-ial-accounting-financial-statements-of-organisations-revision-notes' },
+      { n: 4, f: 'Manufacturer: how is production cost found from prime cost?', b: 'Add factory overheads, then add opening work in progress and subtract closing work in progress. Manufacturing profit is added if goods transfer at a mark-up.', src: 'edexcel-ial-accounting-financial-statements-of-organisations-revision-notes' },
+      { n: 5, f: 'Factory rent of 24,000 shared by floor area 600 : 400 m² between two products. Shares?', b: 'Total area 1,000 m², so 24 per m². The shares are 14,400 and 9,600.', src: 'edexcel-ial-accounting-financial-statements-of-organisations-revision-notes' },
     ]),
 
     // 1.4 Introduction to costing
@@ -250,10 +272,16 @@ export const DECK_EDEXCEL_A_LEVEL_ACCOUNTING: FlashcardDeck = {
     ...sub('introduction-to-costing', 'overhead-costs-yac11', '1.4.7-1.4.11', [
       { n: 1, f: 'Machine hour rate 8.00. Actual 9,400 machine hours; actual overhead 73,100. Over- or under-absorbed?', b: 'Absorbed 9,400 × 8 = 75,200, above actual 73,100: over-absorbed by 2,100, which is added to profit.', src: COSTI },
       { n: 2, f: 'When is continuous allotment used?', b: 'When service departments serve each other. Their costs are shared out repeatedly until the amount left is very small, then split between production departments only.', src: COSTI },
+      { n: 3, f: 'Fixed, variable, semi-variable and semi-fixed costs: how does each behave as output rises?', b: 'Fixed: total unchanged. Variable: rises in proportion. Semi-variable: a fixed part plus a variable part. Semi-fixed (stepped): flat, then jumps at set levels of output.', src: 'edexcel-ial-accounting-introduction-to-costing-revision-notes' },
+      { n: 4, f: 'Allocation, apportionment and absorption of overheads', b: 'Allocation: the whole cost is charged to one cost centre. Apportionment: a shared cost is split fairly (floor area, employees). Absorption: overhead is charged to units or jobs, using the overhead absorption rate.', src: 'edexcel-ial-accounting-introduction-to-costing-revision-notes' },
+      { n: 5, f: 'How is an overhead absorption rate found, and when is a machine hour rate used?', b: 'Budgeted overhead ÷ budgeted hours for each production department. Use machine hours in machine-intensive departments and direct labour hours in labour-intensive ones.', src: 'edexcel-ial-accounting-introduction-to-costing-revision-notes' },
     ]),
     ...sub('introduction-to-costing', 'job-costing-yac11', '1.4.12-1.4.13', [
       { n: 1, f: 'Job cost sheet: build-up from direct costs to price', b: 'Direct materials + direct labour + direct expenses = prime cost; + absorbed production overhead = production cost; + administration, selling and distribution overhead = total cost; + profit = price.', src: COSTI },
       { n: 2, f: 'A 25% mark-up on a cost of 80: price, and the margin it gives', b: 'Price 100. Profit 20 ÷ 100 = a 20% margin. Mark-up is on cost; margin is on selling price.', src: COSTI },
+      { n: 3, f: 'Job costing vs batch costing', b: 'Job costing: work done to a customer\'s specification, each job separately identified. Batch costing: identical items costed as one job, so cost per unit = batch cost ÷ units.', src: 'edexcel-ial-accounting-introduction-to-costing-revision-notes' },
+      { n: 4, f: 'A batch of 400 units costs 6,000. Cost per unit?', b: '6,000 ÷ 400 = 15 per unit.', src: 'edexcel-ial-accounting-introduction-to-costing-revision-notes' },
+      { n: 5, f: 'A job has a total cost of 8,000 and a mark-up of 25% is added. Price, and the margin on it?', b: 'Profit 2,000, so price 10,000. The margin is 2,000 ÷ 10,000 = 20% of selling price.', src: 'edexcel-ial-accounting-introduction-to-costing-revision-notes' },
     ]),
 
     // 1.5 Analysis of accounting statements
@@ -303,6 +331,9 @@ export const DECK_EDEXCEL_A_LEVEL_ACCOUNTING: FlashcardDeck = {
     ...sub('limited-companies-yac', 'merger-or-purchase-of-limited-companies-yac11', '2.1.12-2.1.15', [
       { n: 1, f: 'Consideration 480,000 for agreed net assets of 437,500. Goodwill? What if net assets were 495,000?', b: 'Goodwill 42,500, an intangible non-current asset, not amortised but tested for impairment at least annually.\nWith net assets of 495,000 the consideration is 15,000 below them: a bargain purchase gain of 15,000 in profit or loss.', src: LTD },
       { n: 2, f: 'Vendor: assets transferred at carrying value 410,000; liabilities transferred 60,000; consideration 395,000. Realisation result?', b: '395,000 + 60,000 − 410,000 = 45,000 profit on realisation, credited to sundry shareholders.', src: LTD },
+      { n: 3, f: 'Purchase of a company: what goes in the vendor\'s realisation account?', b: 'Debit the assets transferred at carrying value; credit the liabilities transferred; credit the purchaser with the consideration. The balance is the profit (Dr) or loss (Cr) on realisation.', src: 'edexcel-ial-accounting-limited-companies-revision-notes' },
+      { n: 4, f: 'Purchase of a company: what goes in the purchaser\'s acquisition account?', b: 'Debit with the share capital, share premium and bank given, and liabilities taken over. Credit with assets taken over at agreed values. The balance is goodwill, or a bargain purchase gain if negative.', src: 'edexcel-ial-accounting-limited-companies-revision-notes' },
+      { n: 5, f: 'What is the purpose of a revaluation account in a merger?', b: 'To restate assets and liabilities to the agreed values before the merger. Any net gain or loss is shared among the shareholders.', src: 'edexcel-ial-accounting-limited-companies-revision-notes' },
     ]),
 
     // 2.2 Investment ratios

@@ -166,6 +166,10 @@ export const DECK_CAMBRIDGE_IGCSE_URDU_LANGUAGE: FlashcardDeck = {
     ]),
     ...sub(C5, 'part-3-general-conversation-0539', '3', [
       { n: 101, f: 'Component 5 Part 3: what is it, how long, how many marks?', b: 'General conversation, 3-4 minutes, 20 marks, on two or three general topics that you do not know in advance.' },
+      { n: 102, f: 'Component 5 Part 3: which topics can the examiner choose, and do you know them beforehand?', b: 'At least two topics: one from Areas A and B and one from Areas C, D and E. You get no advance notice, and the topics must not overlap with your Part 1 presentation.' },
+      { n: 103, f: 'Component 5 Part 3: how is it assessed?', b: 'Two criteria, 10 marks each. Comprehension and responsiveness: you understand, reply naturally and need little prompting. Quality of language: vocabulary, pronunciation and intonation, structures and errors.' },
+      { n: 104, f: 'What four moves should every Part 3 answer include?', b: 'Answer the question, give a reason, add an example from your own life, then extend with a contrast, a past or future idea, or a short question to the examiner.' },
+      { n: 105, f: 'What can you say in Urdu when you do not know much about a topic?', b: 'میں نے خود اس کے بارے میں زیادہ نہیں سوچا، لیکن ... (I have not thought much about it myself, but ...).\nمجھے پکا نہیں معلوم، لیکن میرا خیال ہے کہ ... (I am not sure, but I think ...).\nاچھا سوال ہے، ذرا سوچنے دیجیے (good question, let me think).' },
     ]),
   ],
 };

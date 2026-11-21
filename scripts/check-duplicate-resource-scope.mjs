@@ -70,6 +70,18 @@ const RES_DIR = 'src/content/resources';
  */
 const REVIEWED_LEGITIMATE = [
   {
+    files: ["oxfordaqa-igcse-world-history-9245-paper-1-section-a-practice.md", "oxfordaqa-igcse-world-history-9245-source-question-4-practice.md"],
+    evidence: "Record check against the specification (20 Nov 2026, D-514). The record now carries the printed Section A heading as one subtopic, so both practice sets carry it. Paper 1 Section A teaches the whole section: how the four source questions work, the pre-release, the method for each question and the knowledge for both depth-study options. Source question 4 teaches only the 12-mark Question 4: linking pre-released and unseen sources, provenance and a judgement. Different worked examples and questions, no shared question or answer.",
+  },
+  {
+    files: ["oxfordaqa-igcse-world-history-9245-paper-1-section-a-revision-notes.md", "oxfordaqa-igcse-world-history-9245-source-question-4-revision-notes.md"],
+    evidence: "Record check against the specification (20 Nov 2026, D-514). The record now carries the printed Section A heading as one subtopic, so both revision-notes pages carry it. Paper 1 Section A teaches the whole section: how the four source questions work, the pre-release, the method for each question and the knowledge for both depth-study options. Source question 4 teaches only the 12-mark Question 4: linking pre-released and unseen sources, provenance and a judgement. Different worked examples and questions, no shared question or answer.",
+  },
+  {
+    files: ["oxfordaqa-igcse-world-history-9245-paper-1-section-a.md", "oxfordaqa-igcse-world-history-9245-source-question-4.md"],
+    evidence: "Record check against the specification (20 Nov 2026, D-514). The record now carries the printed Section A heading as one subtopic, so both study guides carry it. Paper 1 Section A teaches the whole section: how the four source questions work, the pre-release, the method for each question and the knowledge for both depth-study options. Source question 4 teaches only the 12-mark Question 4: linking pre-released and unseen sources, provenance and a judgement. Different worked examples and questions, no shared question or answer.",
+  },
+  {
     files: ["ib-dp-psychology-2027-brain-development-practice.md", "ib-dp-psychology-2027-development-of-self-practice.md"],
     evidence: "New-course pages for the 2027 IB Psychology record (20 Nov 2026, D-512). The record has no subtopics, so both practice sets carry the one Human development topic tag. They teach different named areas of the guide: brain maturation, critical periods and neuroplasticity (brain-development) against attachment, enculturation of social norms, peer influence and the role of childhood experiences (development-of-self). Different studies, worked examples and questions, no shared question or answer.",
   },

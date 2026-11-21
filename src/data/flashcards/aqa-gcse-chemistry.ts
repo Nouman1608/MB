@@ -319,12 +319,23 @@ export const DECK_AQA_GCSE_CHEMISTRY: FlashcardDeck = {
     ...sub('quantitative-chemistry-8462', 'yield-and-atom-economy-of-chemical-reactions-8462', '4.3.3', [
       { n: 1, f: 'Percentage yield: formula, and why it is less than 100%', b: 'mass of product actually made ÷ maximum theoretical mass × 100.\nLess because the reaction may be reversible, some product is lost when it is separated, or reactants react in unexpected ways.' },
       { n: 2, f: 'Atom economy: formula, and the value for making CaO from CaCO₃ → CaO + CO₂', b: 'Mr of desired product ÷ sum of Mr of all reactants × 100.\nCaO: 56 ÷ 100 × 100 = 56%' },
+      { n: 3, f: 'The theoretical mass of product is 28.0 g and 22.4 g is made. What is the percentage yield?', b: '22.4 ÷ 28.0 × 100 = 80%.', src: 'aqa-gcse-chemistry-8462-yield-and-atom-economy-revision-notes' },
+      { n: 4, f: 'Steps to find the theoretical mass of product from a given mass of reactant', b: 'Write the balanced equation. Moles of reactant = mass ÷ Mr. Find moles of product from the equation ratio. Theoretical mass = moles × Mr. Then percentage yield = actual ÷ theoretical × 100.', u: true, src: 'aqa-gcse-chemistry-8462-yield-and-atom-economy-revision-notes' },
+      { n: 5, f: 'Why does a high atom economy matter, and when is it 100%?', b: 'Less waste, which matters for sustainable development and for economic reasons. A reaction that makes only one product has an atom economy of 100%.', src: 'aqa-gcse-chemistry-8462-yield-and-atom-economy-revision-notes' },
     ]),
     ...sub('quantitative-chemistry-8462', 'using-concentrations-of-solutions-in-mol-dm3-8462', '4.3.4', [
       { n: 1, f: '0.050 mol of solute is dissolved in 250 cm³. Concentration in mol/dm³?', b: '0.050 ÷ 0.250 = 0.20 mol/dm³. Multiply by Mr to convert to g/dm³.', u: true },
+      { n: 2, f: 'Equations linking concentration, moles, volume and Mr', b: 'Concentration (mol/dm³) = moles ÷ volume (dm³). Volume (dm³) = volume (cm³) ÷ 1000. Concentration (g/dm³) = concentration (mol/dm³) × Mr.', u: true, src: 'aqa-gcse-chemistry-8462-concentrations-in-mol-dm3-revision-notes' },
+      { n: 3, f: '25.0 cm³ of NaOH is neutralised by 20.0 cm³ of 0.100 mol/dm³ HCl (1 : 1). Find the NaOH concentration.', b: 'Moles HCl = 0.100 × 0.0200 = 0.00200 mol = moles NaOH. Concentration = 0.00200 ÷ 0.0250 = 0.0800 mol/dm³.', u: true, src: 'aqa-gcse-chemistry-8462-concentrations-in-mol-dm3-revision-notes' },
+      { n: 4, f: '25.0 cm³ of 0.400 mol/dm³ solution is diluted to 100 cm³. What is the new concentration?', b: 'The moles stay the same: 0.400 × 0.0250 = 0.0100 mol. New concentration = 0.0100 ÷ 0.100 = 0.100 mol/dm³.', u: true, src: 'aqa-gcse-chemistry-8462-concentrations-in-mol-dm3-revision-notes' },
+      { n: 5, f: 'What mass of Na₂CO₃ (Mr 106) is needed for 250 cm³ of 0.100 mol/dm³ solution?', b: 'Moles = 0.100 × 0.250 = 0.0250 mol. Mass = 0.0250 × 106 = 2.65 g.', u: true, src: 'aqa-gcse-chemistry-8462-concentrations-in-mol-dm3-revision-notes' },
     ]),
     ...sub('quantitative-chemistry-8462', 'use-of-amount-of-substance-in-relation-to-volumes-of-gases-8462', '4.3.5', [
       { n: 1, f: 'Volume of one mole of gas at RTP. What volume does 3.2 g of O₂ occupy?', b: '24 dm³ at RTP (20 °C, 1 atmosphere).\n3.2 ÷ 32 = 0.10 mol → 0.10 × 24 = 2.4 dm³', u: true },
+      { n: 2, f: 'What is true of equal amounts in moles of different gases?', b: 'Under the same conditions of temperature and pressure they occupy the same volume. At RTP one mole of any gas is 24 dm³, which is 24 000 cm³.', u: true, src: 'aqa-gcse-chemistry-8462-volumes-of-gases-revision-notes' },
+      { n: 3, f: 'What volume does 4.4 g of CO₂ (Mr 44) occupy at RTP?', b: '4.4 ÷ 44 = 0.10 mol. Volume = 0.10 × 24 = 2.4 dm³.', u: true, src: 'aqa-gcse-chemistry-8462-volumes-of-gases-revision-notes' },
+      { n: 4, f: '2H₂ + O₂ → 2H₂O. What volume of oxygen reacts with 10 dm³ of hydrogen, and what steam forms?', b: 'The gas volume ratio is 2 : 1 : 2, so 5 dm³ of oxygen react and 10 dm³ of steam form.', u: true, src: 'aqa-gcse-chemistry-8462-volumes-of-gases-revision-notes' },
+      { n: 5, f: 'What is the mass of 4.8 dm³ of oxygen (Mr 32) at RTP?', b: '4.8 ÷ 24 = 0.20 mol. Mass = 0.20 × 32 = 6.4 g.', u: true, src: 'aqa-gcse-chemistry-8462-volumes-of-gases-revision-notes' },
     ]),
 
     // 4 Chemical changes
@@ -345,6 +356,9 @@ export const DECK_AQA_GCSE_CHEMISTRY: FlashcardDeck = {
     ...sub('chemical-changes-8462', 'electrolysis-8462', '4.4.3', [
       { n: 1, f: 'Electrolysis of an aqueous solution: rules for the products', b: 'Cathode: hydrogen if the metal is more reactive than hydrogen, otherwise the metal.\nAnode: the halogen if a halide ion is present, otherwise oxygen.' },
       { n: 2, f: 'Extracting aluminium: why cryolite, and why the anodes are replaced', b: 'Aluminium oxide is dissolved in molten cryolite to lower the melting temperature, so less energy is needed. Oxygen made at the carbon anode reacts with it to form carbon dioxide, so the anode wears away.' },
+      { n: 3, f: 'Electrolysis of a molten binary compound: what forms at each electrode?', b: 'The metal forms at the cathode and the non-metal at the anode. For molten lead bromide: lead at the cathode and bromine at the anode.', src: 'aqa-gcse-chemistry-8462-electrolysis-revision-notes' },
+      { n: 4, f: 'Which ions go to which electrode, and what does PANIC mean?', b: 'Cations (positive) go to the cathode (negative electrode); anions (negative) go to the anode (positive electrode). PANIC: Positive Anode, Negative Is Cathode.', src: 'aqa-gcse-chemistry-8462-electrolysis-revision-notes' },
+      { n: 5, f: 'Half equations for copper and chloride ions: which electrode, and oxidation or reduction?', b: 'Cathode (reduction): Cu²⁺ + 2e⁻ → Cu. Anode (oxidation): 2Cl⁻ → Cl₂ + 2e⁻. Balance atoms and charge.', u: true, src: 'aqa-gcse-chemistry-8462-electrolysis-revision-notes' },
     ]),
 
     // 5 Energy changes
@@ -396,6 +410,10 @@ export const DECK_AQA_GCSE_CHEMISTRY: FlashcardDeck = {
     ...sub('organic-chemistry-8462', 'reactions-of-alkenes-and-alcohols-8462', '4.7.2', [
       { n: 1, f: 'What forms when an alcohol reacts with sodium, and with an oxidising agent?', b: 'Sodium: fizzing, hydrogen given off.\nOxidising agent: a carboxylic acid (propanol → propanoic acid).' },
       { n: 2, f: 'Ethanoic acid + ethanol (acid catalyst) gives…', b: 'The ester ethyl ethanoate, and water.' },
+      { n: 3, f: 'Conditions and products when ethene reacts with hydrogen, steam and bromine', b: 'Hydrogen (nickel catalyst, about 60 °C): ethane. Steam (phosphoric acid catalyst, high temperature and pressure): ethanol. Bromine at room temperature: dibromoethane.', src: 'aqa-gcse-chemistry-8462-reactions-of-alkenes-and-alcohols-revision-notes' },
+      { n: 4, f: 'What is the test for an alkene, and what type of reaction happens?', b: 'Bromine water turns from orange to colourless. Atoms add across the C=C bond, which becomes a single bond, giving one product only (addition).', src: 'aqa-gcse-chemistry-8462-reactions-of-alkenes-and-alcohols-revision-notes' },
+      { n: 5, f: 'Fermentation: conditions and equation', b: 'Sugar solution with yeast at about 30 to 40 °C and no oxygen: C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂. It gives aqueous ethanol.', src: 'aqa-gcse-chemistry-8462-reactions-of-alkenes-and-alcohols-revision-notes' },
+      { n: 6, f: 'Why are carboxylic acids weak acids?', b: 'They are only partially ionised in water, so the solution has a lower H⁺ concentration and a higher pH than a strong acid of the same concentration.', u: true, src: 'aqa-gcse-chemistry-8462-reactions-of-alkenes-and-alcohols-revision-notes' },
     ]),
     ...sub('organic-chemistry-8462', 'synthetic-and-naturally-occurring-polymers-8462', '4.7.3', [
       { n: 1, f: 'Addition polymerisation', b: 'Many alkene monomers join as the C=C opens to C–C. Nothing else forms, so the repeating unit has the same atoms as the monomer. Example: ethene → poly(ethene).' },
@@ -413,6 +431,9 @@ export const DECK_AQA_GCSE_CHEMISTRY: FlashcardDeck = {
     ...sub('chemical-analysis-8462', 'identification-of-common-gases-8462', '4.8.2', [
       { n: 1, f: 'Tests for hydrogen and oxygen', b: 'Hydrogen: burning splint at the mouth of the tube → squeaky pop.\nOxygen: glowing splint relights.' },
       { n: 2, f: 'Tests for carbon dioxide and chlorine', b: 'Carbon dioxide: limewater turns milky.\nChlorine: damp litmus paper is bleached white.' },
+      { n: 3, f: 'Why does limewater turn milky with carbon dioxide?', b: 'Ca(OH)₂(aq) + CO₂(g) → CaCO₃(s) + H₂O(l). The milky colour is insoluble calcium carbonate.', src: 'aqa-gcse-chemistry-8462-identification-of-common-gases-revision-notes' },
+      { n: 4, f: 'A lit splint goes out in a gas. Is it carbon dioxide?', b: 'Not necessarily. A going-out splint is not one of the tests, as nitrogen and other gases also put out a flame. Use limewater to identify carbon dioxide.', src: 'aqa-gcse-chemistry-8462-identification-of-common-gases-revision-notes' },
+      { n: 5, f: 'Where do hydrogen, oxygen and chlorine come from in the course?', b: 'Hydrogen: metal + dilute acid, or the cathode in aqueous electrolysis. Oxygen: decomposing hydrogen peroxide, or the anode with no halides. Chlorine: the anode in electrolysis of chlorides.', src: 'aqa-gcse-chemistry-8462-identification-of-common-gases-revision-notes' },
     ]),
     ...sub('chemical-analysis-8462', 'identification-of-ions-by-chemical-and-spectroscopic-means-8462', '4.8.3', [
       { n: 1, f: 'Flame test colours: Li⁺, Na⁺, K⁺, Ca²⁺, Cu²⁺', b: 'Li⁺ crimson, Na⁺ yellow, K⁺ lilac, Ca²⁺ orange-red, Cu²⁺ green.' },
@@ -439,6 +460,9 @@ export const DECK_AQA_GCSE_CHEMISTRY: FlashcardDeck = {
     ...sub('chemistry-of-the-atmosphere-8462', 'common-atmospheric-pollutants-and-their-sources-8462', '4.9.3', [
       { n: 1, f: 'Effects of carbon monoxide, sulfur dioxide, oxides of nitrogen and particulates', b: 'CO: toxic; colourless and odourless, so hard to detect.\nSO₂ and oxides of nitrogen: respiratory problems and acid rain.\nParticulates: global dimming and health problems.' },
       { n: 2, f: 'Where does the nitrogen in oxides of nitrogen from a car engine come from?', b: 'From the air: nitrogen and oxygen react at the high temperature in the engine, not nitrogen in the fuel.' },
+      { n: 3, f: 'Products of complete vs incomplete combustion of a hydrocarbon', b: 'Complete (plenty of oxygen): carbon dioxide and water. Incomplete (limited oxygen): carbon monoxide and/or soot (carbon), plus water.', src: 'aqa-gcse-chemistry-8462-common-atmospheric-pollutants-and-their-sources-revision-notes' },
+      { n: 4, f: 'Where does sulfur dioxide come from, and how does it cause acid rain?', b: 'From sulfur impurities in the fuel. SO₂ dissolves in rain to form an acidic solution, which damages buildings and trees and makes lakes too acidic for wildlife.', src: 'aqa-gcse-chemistry-8462-common-atmospheric-pollutants-and-their-sources-revision-notes' },
+      { n: 5, f: 'Equations: incomplete combustion of methane to CO, burning sulfur, nitrogen oxide in engines', b: '2CH₄ + 3O₂ → 2CO + 4H₂O. S + O₂ → SO₂. N₂ + O₂ → 2NO.', src: 'aqa-gcse-chemistry-8462-common-atmospheric-pollutants-and-their-sources-revision-notes' },
     ]),
 
     // 10 Using resources
@@ -452,6 +476,10 @@ export const DECK_AQA_GCSE_CHEMISTRY: FlashcardDeck = {
     ]),
     ...sub('using-resources-8462', 'life-cycle-assessment-and-recycling-8462', '4.10.2', [
       { n: 1, f: 'Stages of a life cycle assessment (LCA), and why it is not fully objective', b: 'Raw materials → manufacture and packaging → use → disposal (with transport throughout). Pollutant effects are hard to quantify and need value judgements.' },
+      { n: 2, f: 'What is easy and what is hard to quantify in an LCA?', b: 'Easy: water, resources, energy sources and some wastes. Hard: the effects of pollutants, which need value judgements. Selective LCAs can be misused, e.g. in advertising.', src: 'aqa-gcse-chemistry-8462-life-cycle-assessment-and-recycling-revision-notes' },
+      { n: 3, f: 'A plastic bag uses 1.7 MJ and is used 3 times; a paper bag uses 2.8 MJ and is used once. Compare energy per use.', b: 'Plastic: 1.7 ÷ 3 = 0.57 MJ per use. Paper: 2.8 MJ per use. Divide by the number of uses for a fair comparison.', src: 'aqa-gcse-chemistry-8462-life-cycle-assessment-and-recycling-revision-notes' },
+      { n: 4, f: 'Reduce, reuse and recycle: what does each mean?', b: 'Reduce: use less raw material and energy. Reuse: use the same item again, e.g. washed and refilled glass bottles. Recycle: remake the material into new products.', src: 'aqa-gcse-chemistry-8462-life-cycle-assessment-and-recycling-revision-notes' },
+      { n: 5, f: 'How are glass, metals and steel recycled?', b: 'Glass bottles are reused, or crushed and melted into different glass products. Metals are melted and recast. Scrap steel is added to iron from the blast furnace, reducing the iron extracted from ore.', src: 'aqa-gcse-chemistry-8462-life-cycle-assessment-and-recycling-revision-notes' },
     ]),
     ...sub('using-resources-8462', 'using-materials-8462', '4.10.3', [
       { n: 1, f: 'What does rusting need, and how does galvanising protect iron?', b: 'Both air (oxygen) and water. Galvanising coats iron with zinc: a barrier, plus sacrificial protection, because zinc is more reactive and corrodes instead of the iron, even when scratched.' },
@@ -461,6 +489,9 @@ export const DECK_AQA_GCSE_CHEMISTRY: FlashcardDeck = {
     ...sub('using-resources-8462', 'the-haber-process-and-the-use-of-npk-fertilisers-8462', '4.10.4', [
       { n: 1, f: 'Haber process: equation, raw materials and conditions', b: 'N₂ + 3H₂ ⇌ 2NH₃. Nitrogen from the air, hydrogen from natural gas. Iron catalyst, about 450 °C, about 200 atmospheres. Ammonia is removed by cooling (it liquefies); unreacted gases are recycled.' },
       { n: 2, f: 'Why are 450 °C and 200 atmospheres compromise conditions in the Haber process?', b: 'Forward reaction exothermic: a lower temperature gives a higher yield but a slower rate.\n4 gas molecules → 2: higher pressure gives a higher yield and faster rate, but costs more in equipment and energy.', u: true },
+      { n: 3, f: 'What are NPK fertilisers, and how are ammonium salts made from ammonia?', b: 'Formulations containing nitrogen, phosphorus and potassium compounds. NH₃ + HNO₃ → NH₄NO₃ and 2NH₃ + H₂SO₄ → (NH₄)₂SO₄.', src: 'aqa-gcse-chemistry-8462-the-haber-process-and-the-use-of-npk-fertilisers-revision-notes' },
+      { n: 4, f: 'Calculate the percentage nitrogen in NH₄NO₃', b: 'Mr = 80 and the mass of N is 28, so %N = 28 ÷ 80 × 100 = 35%.', src: 'aqa-gcse-chemistry-8462-the-haber-process-and-the-use-of-npk-fertilisers-revision-notes' },
+      { n: 5, f: 'How is phosphate rock made into a soluble fertiliser?', b: 'Phosphate rock is insoluble, so it is treated with acid. Nitric acid gives phosphoric acid and calcium nitrate; sulfuric acid gives calcium phosphate and calcium sulfate; phosphoric acid gives calcium phosphate.', src: 'aqa-gcse-chemistry-8462-the-haber-process-and-the-use-of-npk-fertilisers-revision-notes' },
     ]),
 
     // 11 Key ideas

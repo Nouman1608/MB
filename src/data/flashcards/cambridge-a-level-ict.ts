@@ -121,10 +121,18 @@ export const DECK_CAMBRIDGE_A_LEVEL_ICT: FlashcardDeck = {
     // 1.2 Quality of information
     ...sub('data-processing-and-information', 'quality-of-information', '1.2', [
       { n: 1, f: 'Name five factors that affect the quality of information', b: 'Accuracy, relevance, age, level of detail and completeness.', src: DP },
+      { n: 2, f: 'What does "age" mean as a quality factor for information?', b: 'Whether the information is recent enough for the decision being made. Out-of-date data, such as last year\'s stock levels, can lead to a poor decision.', src: DP },
+      { n: 3, f: 'What is the right level of detail in information?', b: 'Enough detail for the purpose, but not so much that the key points are lost. Too little detail and too much detail both reduce the quality of information.', src: DP },
+      { n: 4, f: 'Relevance vs completeness as quality factors', b: 'Relevance asks whether the information relates to the purpose it is needed for. Completeness asks whether anything essential is missing. Information can be accurate and still fail on either.', src: DP },
+      { n: 5, f: 'Why does the quality of information matter?', b: 'Poor-quality information leads to poor decisions. This is the practical reason validation and verification matter: they help keep the data accurate.', src: DP },
     ]),
     // 1.3 Encryption
     ...sub('data-processing-and-information', 'encryption', '1.3', [
       { n: 1, f: 'Symmetric vs asymmetric encryption', b: 'Symmetric: one secret key both encrypts and decrypts, so it must be shared securely; fast, but key sharing is the weak point. Asymmetric: a public key encrypts and only the matching private key decrypts; solves key sharing but is slower.', src: DP },
+      { n: 2, f: 'Why is data encrypted, and what does encryption not do?', b: 'Intercepted or stolen data cannot be read without the key. Encryption does not stop the data being intercepted in the first place.', src: DP },
+      { n: 3, f: 'TLS/SSL vs IPsec', b: 'TLS/SSL secures a client-server session, such as a browser and a bank\'s server, and is simple to deploy per application. IPsec encrypts and authenticates all packets between two hosts or networks, as in a VPN, but is harder to configure.', src: DP },
+      { n: 4, f: 'How do systems combine asymmetric and symmetric encryption?', b: 'Asymmetric encryption is used to swap a symmetric key securely. The faster symmetric encryption then protects the data itself.', src: DP },
+      { n: 5, f: 'What is systems encryption?', b: 'Encrypting a whole disk or device rather than single messages. Encryption protects data both in transit and when stored.', src: DP },
     ]),
     // 1.4 Checking the accuracy of data
     ...sub('data-processing-and-information', 'checking-the-accuracy-of-data', '1.4', [
@@ -135,6 +143,10 @@ export const DECK_CAMBRIDGE_A_LEVEL_ICT: FlashcardDeck = {
     // 1.5 Data processing
     ...sub('data-processing-and-information', 'data-processing', '1.5', [
       { n: 1, f: 'Batch vs online vs real-time processing', b: 'Batch: data collected and processed later as a group (payroll, utility bills). Online: each transaction is processed as entered while the user waits (online shopping, EFT). Real-time: processed at once and the output affects the input (central heating, traffic lights).', src: DP },
+      { n: 2, f: 'Why is batch processing suited to payroll?', b: 'Payroll is a large volume of similar transactions with no urgency, so processing can be scheduled overnight when the system is idle.', src: DP },
+      { n: 3, f: 'Real-time control vs online processing', b: 'In real-time control the output feeds back to influence the next input, so a delay is unacceptable. Online processing handles each transaction as entered while the user waits, but its output does not feed back.', src: DP },
+      { n: 4, f: 'Steps to update a master file sequentially', b: 'Sort the transaction file into master-file key order. Read both together: copy unmatched master records unchanged, update and write matched ones, until both files end. The new file becomes the master.', src: DP },
+      { n: 5, f: 'What happens to the old master file after a sequential update?', b: 'The new master file replaces it and the old one is kept as a backup.', src: DP },
     ]),
 
     // 2 Hardware and software
@@ -195,6 +207,10 @@ export const DECK_CAMBRIDGE_A_LEVEL_ICT: FlashcardDeck = {
     // 4.2 Flowcharts
     ...sub('algorithms-and-flowcharts', 'flowcharts', '4.2', [
       { n: 1, f: 'Which flowchart symbols are used for a subroutine and a connector?', b: 'Subroutine: a rectangle with double vertical lines at the sides, holding the procedure\'s name. Connector: a small circle with a letter, linking two parts of a chart.' },
+      { n: 2, f: 'Which flowchart shapes are used for START/STOP, input/output, a process and a decision?', b: 'Terminator (START, STOP): rounded rectangle. Input/output: parallelogram. Process (calculation or assignment): rectangle. Decision: diamond.', src: 'cambridge-a-level-ict-9626-flowcharts-revision-notes' },
+      { n: 3, f: 'How many ways in and out should each flowchart box have?', b: 'A decision has one way in and two ways out, labelled Yes and No. Every other box has one way out. A chart has one START and at least one STOP.', src: 'cambridge-a-level-ict-9626-flowcharts-revision-notes' },
+      { n: 4, f: 'How is a loop drawn, and how do test-before and test-after loops differ?', b: 'A loop is just a flow line back to an earlier box. Test-before: decision first, then the body (WHILE, may run zero times). Test-after: body first, then the decision (REPEAT...UNTIL).', src: 'cambridge-a-level-ict-9626-flowcharts-revision-notes' },
+      { n: 5, f: 'What errors should you look for when checking a flowchart?', b: 'Missing START or STOP; a decision with one or unlabelled exits; an endless loop; a total or counter not set to 0; a wrong comparison or boundary; a wrong symbol; an arrow to the wrong box.', src: 'cambridge-a-level-ict-9626-flowcharts-revision-notes' },
     ]),
 
     // 5 eSecurity
@@ -253,10 +269,18 @@ export const DECK_CAMBRIDGE_A_LEVEL_ICT: FlashcardDeck = {
     // 8.2 Testing a spreadsheet
     ...sub('spreadsheets', 'testing-a-spreadsheet', '8.2', [
       { n: 1, f: 'Normal, extreme and abnormal test data for a percentage from 0 to 100', b: 'Normal: e.g. 57. Extreme: 0 and 100 (valid, on the limits). Abnormal: e.g. -1, 101 or "pass" (must be rejected).' },
+      { n: 2, f: 'What does the syllabus say a spreadsheet test plan should test?', b: 'Functions, validation rules and conditional formatting. The plan also needs appropriate normal, extreme and abnormal test data.', src: 'cambridge-a-level-ict-9626-testing-a-spreadsheet-revision-notes' },
+      { n: 3, f: 'Which test plan columns are completed before testing?', b: 'The test number, what is tested, the test data, the type of data and the expected result. The actual result and the pass/fail and action are filled in when the test is run.', src: 'cambridge-a-level-ict-9626-testing-a-spreadsheet-revision-notes' },
+      { n: 4, f: 'Which two values test a rule "red if above 50"?', b: '50, which should not turn red, and 51, which should. Test both sides of every boundary.', src: 'cambridge-a-level-ict-9626-testing-a-spreadsheet-revision-notes' },
+      { n: 5, f: 'Pay is 12 an hour, with time and a half after 40 hours. What is the expected pay for 41 hours?', b: '480 + 1 × 12 × 1.5 = 498. A result of 492 would show the 1.5 multiplier was left out.', src: 'cambridge-a-level-ict-9626-testing-a-spreadsheet-revision-notes' },
     ]),
     // 8.3 Using a spreadsheet
     ...sub('spreadsheets', 'using-a-spreadsheet', '8.3', [
       { n: 1, f: 'Pivot table vs subtotals', b: 'A pivot table builds a separate summary and needs no sorting. Subtotals insert totals into the list itself and need the data sorted by the grouping field first.' },
+      { n: 2, f: 'AND vs OR when combining search criteria', b: 'AND narrows the result because every condition must be true. OR widens it because any one condition is enough. Two values of the same field joined by AND return nothing.', src: 'cambridge-a-level-ict-9626-using-a-spreadsheet-revision-notes' },
+      { n: 3, f: 'What do the wildcard patterns *an*, H* and *h find?', b: '*an* finds text containing "an" (Dana, Hana). H* finds text starting with H. *h finds text ending in h (Beth, Farah).', src: 'cambridge-a-level-ict-9626-using-a-spreadsheet-revision-notes' },
+      { n: 4, f: 'How does a multi-level sort work, and what must you select first?', b: 'Sort by one column first, then a second key orders records that tie on the first, e.g. Class then Score descending. Select all columns so each row stays together.', src: 'cambridge-a-level-ict-9626-using-a-spreadsheet-revision-notes' },
+      { n: 5, f: 'Why might the code 00123 change when a CSV is imported?', b: 'The software reads it as a number and drops the leading zeros. Set code columns to text on import, and check the delimiter and the day-month-year order of dates.', src: 'cambridge-a-level-ict-9626-using-a-spreadsheet-revision-notes' },
     ]),
 
     // 8.4 Graphs and charts
@@ -297,14 +321,25 @@ export const DECK_CAMBRIDGE_A_LEVEL_ICT: FlashcardDeck = {
     ...sub('database-and-file-concepts', 'normalisation-to-third-normal-form-3nf', '10.2', [
       { n: 1, f: 'What are the tests for 1NF, 2NF and 3NF?', b: '1NF: no repeating groups, atomic values, a primary key. 2NF: 1NF and no field depends on only part of a composite key. 3NF: 2NF and no non-key field depends on another non-key field.' },
       { n: 2, f: 'Employee(EmpID, DeptID, DeptName). Which normal form does it break?', b: '3NF. DeptName depends on DeptID, which is a non-key field (a transitive dependency).' },
+      { n: 3, f: 'Memory aid for 1NF, 2NF and 3NF', b: 'Every attribute depends on the key (1NF), the whole key (2NF) and nothing but the key (3NF).', src: 'cambridge-a-level-ict-9626-normalisation-to-3nf-revision-notes' },
+      { n: 4, f: 'Name the update, insert and delete anomalies', b: 'Update: a repeated value, such as a city, is missed when it changes. Insert: a new product cannot be stored until it is ordered. Delete: removing a customer\'s only order removes the customer\'s details.', src: 'cambridge-a-level-ict-9626-normalisation-to-3nf-revision-notes' },
+      { n: 5, f: 'An invoice holds InvoiceNo, Date, ClientID, ClientName and repeating item lines. What are the final 3NF tables?', b: 'Client, Invoice, Item and InvoiceLine. ClientName depends on ClientID so it moves to Client. Quantity sits in InvoiceLine, keyed by InvoiceNo and ItemCode.', src: 'cambridge-a-level-ict-9626-normalisation-to-3nf-revision-notes' },
     ]),
     // 10.3 Data dictionary
     ...sub('database-and-file-concepts', 'data-dictionary', '10.3', [
       { n: 1, f: 'Name eight components of a data dictionary', b: 'Any eight of: field name, data type, field size, format, key, validation rule, error text, default value, whether required, description, table name.' },
+      { n: 2, f: 'When should a number-like field use a text or alphanumeric type?', b: 'When it will not be used in calculations, such as a phone number, postcode or product code. Use integer or decimal only for values that are calculated with.', src: 'cambridge-a-level-ict-9626-data-dictionary-revision-notes' },
+      { n: 3, f: 'Choose a data type for a book\'s catalogue number AAA9999, price, on-loan status and date bought', b: 'Alphanumeric (letters and digits), currency, Boolean (two values only) and date, so that dates can be sorted and compared.', src: 'cambridge-a-level-ict-9626-data-dictionary-revision-notes' },
+      { n: 4, f: 'Which validation check suits age, an email, a country and a delivery date?', b: 'Age: range check, 0 to 120. Email: format check and presence check. Country: lookup check. Delivery date: limit check, not in the past.', src: 'cambridge-a-level-ict-9626-data-dictionary-revision-notes' },
+      { n: 5, f: 'Why does a data dictionary matter?', b: 'One agreed description keeps the database consistent. Designers check nothing is missing, and maintainers can understand a database they did not build.', src: 'cambridge-a-level-ict-9626-data-dictionary-revision-notes' },
     ]),
     // 10.4 File and data management
     ...sub('database-and-file-concepts', 'file-and-data-management', '10.4', [
       { n: 1, f: 'Indexed sequential vs direct access files', b: 'Indexed sequential: records in key order plus an index; good for sequential runs and fairly fast single look-ups. Direct access: hashing turns the key into an address; fastest single look-up, poor for processing in order.' },
+      { n: 2, f: 'Generic, proprietary and open file formats', b: 'Generic: opened by many programs (CSV, TXT, PDF) but may lose features. Proprietary: owned by a company and needs its software. Open: public specification, free to use, so files stay readable long term.', src: 'cambridge-a-level-ict-9626-file-and-data-management-revision-notes' },
+      { n: 3, f: 'Direct access with position = key MOD 7: where do keys 15 and 22 go?', b: '15 MOD 7 = 1, so position 1. 22 MOD 7 = 1 too, a collision, so 22 is stored in the next free position, 2.', src: 'cambridge-a-level-ict-9626-file-and-data-management-revision-notes' },
+      { n: 4, f: 'Indexed sequential file with an index entry every 1000: how is customer 3250 found?', b: 'Find the largest index key not above 3250, which is 3000. Go to that block, then read the records in order until 3250 is reached.', src: 'cambridge-a-level-ict-9626-file-and-data-management-revision-notes' },
+      { n: 5, f: 'Name four DBMS types and what each is built on', b: 'Hierarchical: a tree, each child has one parent. Network: a graph with many parents and children. Object-oriented: objects with data and methods. Relational: tables linked by keys.', src: 'cambridge-a-level-ict-9626-file-and-data-management-revision-notes' },
     ]),
 
     // 11 Video and audio editing
@@ -336,19 +371,33 @@ export const DECK_CAMBRIDGE_A_LEVEL_ICT: FlashcardDeck = {
     ...sub('it-in-society', 'data-mining', '12.2', [
       { n: 1, f: 'What is data mining?', b: 'Using software to search large data sets for previously unknown patterns, relationships and anomalies, to make predictions and support decisions.' },
       { n: 2, f: 'Name the six stages of data mining in order', b: 'Business understanding, data understanding, data preparation, data modelling, evaluation, deployment.', src: ITS },
+      { n: 3, f: 'Which techniques are applied at the data modelling stage of data mining?', b: 'Classification, clustering and association are applied to build a model. Stage 4 follows data preparation and comes before evaluation.', src: ITS },
+      { n: 4, f: 'Give uses of data mining', b: 'National security (threat patterns), surveillance, businesses (buying patterns, fraud detection), scientific research, healthcare (risk factors) and social and economic trends.', src: ITS },
+      { n: 5, f: 'Advantages and disadvantages of data mining', b: 'Advantages: hidden patterns support decisions, early detection of fraud or disease. Disadvantages: one data store is a target for hackers, privacy concerns, patterns may be coincidence, costly.', src: ITS },
     ]),
     // 12.3 Social networking services/platforms
     ...sub('it-in-society', 'social-networking-services-platforms', '12.3', [
       { n: 1, f: 'Instant messaging vs chat room', b: 'Instant messaging is real-time messaging with known contacts or small groups. A chat room is a real-time, topic-based space open to many users, often strangers.' },
       { n: 2, f: 'Give two negative impacts of social networking on individuals', b: 'Any two of: intellectual isolation, effects on physical and mental health, ideological polarisation, stereotyping, cognitive issues.' },
+      { n: 3, f: 'Name six types of social networking platform', b: 'Chat room, instant messaging, email, forum, blog and microblog.', src: 'cambridge-a-level-ict-9626-social-networking-services-platforms-revision-notes' },
+      { n: 4, f: 'How can governments use social networking, and what are the risks?', b: 'Uses: distribute useful information, update regulations, gather advice and discussion, share news, collect citizen feedback. Risks: censorship, and false or distorted information.', src: 'cambridge-a-level-ict-9626-social-networking-services-platforms-revision-notes' },
+      { n: 5, f: '8,000 followers, 320 likes and comments, 450 visits and 18 sign-ups for 90. Find engagement rate and cost per sign-up.', b: 'Engagement rate: 320 ÷ 8,000 = 4%. Cost per sign-up: 90 ÷ 18 = 5.', src: 'cambridge-a-level-ict-9626-social-networking-services-platforms-revision-notes' },
     ]),
     // 12.4 The impact of IT
     ...sub('it-in-society', 'the-impact-of-it', '12.4', [
       { n: 1, f: 'Give one benefit and one drawback of surveillance by the police', b: 'Benefit: CCTV, number plate and facial recognition help detect crime. Drawback: mass surveillance reduces privacy and misidentification can occur.' },
+      { n: 2, f: 'What method should you follow when discussing the impact of IT in any area?', b: 'Technology, change, benefit, cost: name the IT, say what is done differently, say who gains, and say who loses or what new risk appears. Include both sides in a discuss answer.', src: 'cambridge-a-level-ict-9626-impact-of-it-revision-notes' },
+      { n: 3, f: 'What makes surveillance fair?', b: 'It is proportionate, legal, open about what is collected and securely stored.', src: 'cambridge-a-level-ict-9626-impact-of-it-revision-notes' },
+      { n: 4, f: 'Benefit and drawback of IT in manufacturing', b: 'Benefit: robots and automated stock control give fast, consistent, 24-hour work and a safer workplace. Drawback: job losses, high cost, and a failure can stop production.', src: 'cambridge-a-level-ict-9626-impact-of-it-revision-notes' },
+      { n: 5, f: 'An online payment costs 0.20 and a branch payment 2.80. What is saved by moving 5,000 payments online?', b: '(2.80 − 0.20) × 5,000 = 13,000.', src: 'cambridge-a-level-ict-9626-impact-of-it-revision-notes' },
     ]),
     // 12.5 Technology enhanced learning
     ...sub('it-in-society', 'technology-enhanced-learning', '12.5', [
       { n: 1, f: 'MOOC vs networked course', b: 'A MOOC (massive open online course) is open to anyone at very large scale, with little individual support. A networked course is delivered to a closed group over one network.' },
+      { n: 2, f: 'What is autonomy in learning, and how can technology affect it?', b: 'Autonomy is the learner\'s control over their own learning. Positive: choose what, when and how fast. Negative: it needs self-discipline, and struggling learners may go unnoticed.', src: 'cambridge-a-level-ict-9626-technology-enhanced-learning-revision-notes' },
+      { n: 3, f: 'Synchronous vs asynchronous learning', b: 'Synchronous: happens at the same time for everyone, such as video-conferencing. Asynchronous: learners study at different times, such as recorded tutorials.', src: 'cambridge-a-level-ict-9626-technology-enhanced-learning-revision-notes' },
+      { n: 4, f: 'Why suit computer-based training to staff safety training repeated yearly?', b: 'It is consistent and repeatable, and progress is recorded. Drawbacks: no personal help, content goes out of date, and it is costly to make.', src: 'cambridge-a-level-ict-9626-technology-enhanced-learning-revision-notes' },
+      { n: 5, f: 'Video-conferencing for learning: advantages and disadvantages', b: 'Advantages: real-time questions, no travel, access to specialist teachers. Disadvantages: needs a fast connection, faults, and a class is harder to manage.', src: 'cambridge-a-level-ict-9626-technology-enhanced-learning-revision-notes' },
     ]),
 
     // 13 New and emerging technologies
@@ -369,6 +418,10 @@ export const DECK_CAMBRIDGE_A_LEVEL_ICT: FlashcardDeck = {
     // 14.1 Networks
     ...sub('communications-technology', 'networks', '14.1', [
       { n: 1, f: 'Physical vs logical topology', b: 'Physical topology is the cabling layout; logical topology is how data flows. A hub-based star is a physical star but a logical bus.', src: COM },
+      { n: 2, f: 'LAN vs WAN', b: 'LAN: one site, one owner; fast and cheap to run, but a limited area. WAN: linked LANs over a wide area; connects sites, but leased lines cost and it is slower.', src: COM },
+      { n: 3, f: 'Client-server vs peer-to-peer: one plus and one minus each', b: 'Client-server: central security and back-up, but the server is a single point of failure. Peer-to-peer: all nodes equal, cheap and simple, but there is no central control.', src: COM },
+      { n: 4, f: 'What is a VPN and what is its trade-off?', b: 'An encrypted tunnel over a public network, giving secure remote access. It is slower and needs set-up.', src: COM },
+      { n: 5, f: 'How does BitTorrent download a file?', b: 'The file is split into pieces and downloaded from many peers at once. Each peer also uploads the pieces it holds.', src: COM },
     ]),
     // 14.2 Components in a network
     ...sub('communications-technology', 'components-in-a-network', '14.2', [
@@ -379,6 +432,10 @@ export const DECK_CAMBRIDGE_A_LEVEL_ICT: FlashcardDeck = {
     // 14.3 Network servers
     ...sub('communications-technology', 'network-servers', '14.3', [
       { n: 1, f: 'What does a proxy server do?', b: 'It acts as a go-between for internet requests: it filters them, caches pages and hides internal addresses.', src: COM },
+      { n: 2, f: 'Which server would let a school block unsuitable sites and speed up repeated page loads?', b: 'A proxy server: it filters requests and caches pages. It adds a point of failure and must be kept updated.', src: COM },
+      { n: 3, f: 'Virtual server vs server farm', b: 'Virtual: a software server sharing hardware with others, so less hardware and power, but one hardware fault stops all. Server farm: many servers with load balancing; resilient but power-hungry.', src: COM },
+      { n: 4, f: 'File server vs print server: a benefit and a drawback of each', b: 'File: one copy of data with access rights, but heavy load slows it. Print: queues jobs fairly, but a fault in the queue blocks printing.', src: COM },
+      { n: 5, f: 'Why do mail, web and FTP servers need particular care?', b: 'Mail and web servers face the internet, so they must be secured. Plain FTP, used for large file transfers, is unencrypted.', src: COM },
     ]),
     // 14.4 Cloud computing
     ...sub('communications-technology', 'cloud-computing', '14.4', [
@@ -417,6 +474,10 @@ export const DECK_CAMBRIDGE_A_LEVEL_ICT: FlashcardDeck = {
     // 14.8 Mobile communication systems
     ...sub('communications-technology', 'mobile-communication-systems', '14.8', [
       { n: 1, f: 'How is data sent by satellite?', b: 'Data is encoded and modulated, sent from a ground station uplink, amplified by the satellite\'s transponder, sent down on another frequency, and decoded by the receiving dish.', src: COM },
+      { n: 2, f: 'How does a mobile network cope with a user on the move?', b: 'The area is split into cells, each with a base station. Neighbouring cells use different frequencies, and handover passes the connection on as you move.', src: COM },
+      { n: 3, f: '3G vs 4G vs 5G', b: '3G brought mobile internet. 4G is faster and all-IP. 5G is faster still, with lower delay and support for more devices.', src: COM },
+      { n: 4, f: 'How does GPS find a position?', b: 'A receiver works out its position from the timing of signals from several satellites.', src: COM },
+      { n: 5, f: 'Name uses of satellite communication', b: 'GPS, global mapping, surveillance, TV and radio broadcasting, UHD TV and remote telephones.', src: COM },
     ]),
     // 14.9 Network security
     ...sub('communications-technology', 'network-security', '14.9', [
@@ -430,6 +491,10 @@ export const DECK_CAMBRIDGE_A_LEVEL_ICT: FlashcardDeck = {
     // 14.10 Disaster recovery management
     ...sub('communications-technology', 'disaster-recovery-management', '14.10', [
       { n: 1, f: 'How can the effects of a disaster on a network be minimised?', b: 'UPS and surge protection, passwords and access control, anti-malware, off-site back-ups and a tested restore plan.', src: COM },
+      { n: 2, f: 'How is a risk quantified? Compare server failure (likelihood 3, impact 4) with laptop theft (2, 3).', b: 'Score = likelihood × impact. Server failure 3 × 4 = 12; laptop theft 2 × 3 = 6. Deal with server failure first, e.g. a spare server and tested back-ups.', src: COM },
+      { n: 3, f: 'Detect, prevent and restore: examples of each control', b: 'Detect: monitoring, alerts, intrusion logs. Prevent: firewalls, anti-malware, training. Restore: back-ups and a recovery plan.', src: COM },
+      { n: 4, f: 'Name the types of disaster to plan for', b: 'Natural disasters, equipment and power failure, cybercrime, malware, crime and accidents.', src: COM },
+      { n: 5, f: 'Name the four steps in analysing disaster risk', b: 'Risk analysis, perpetrator analysis, risk testing and quantifying the risk (likelihood × impact).', src: COM },
     ]),
 
     // 15 Project management
@@ -445,25 +510,44 @@ export const DECK_CAMBRIDGE_A_LEVEL_ICT: FlashcardDeck = {
     // 15.2 Project management software
     ...sub('project-management', 'project-management-software', '15.2', [
       { n: 1, f: 'Name the six uses of project management software', b: 'Planning, scheduling of tasks, allocation of resources, costings, communication, and collaborative working and decisions.' },
+      { n: 2, f: 'Two ways to classify project management software', b: 'By where it runs (desktop, web-based, mobile) and by who uses it (personal, single-user, collaborative). A product can be in both, such as a web-based collaborative tool.', src: 'cambridge-a-level-ict-9626-project-management-software-revision-notes' },
+      { n: 3, f: 'Desktop vs web-based project management software', b: 'Desktop: works offline and fast, but must be installed and updated on each machine. Web-based: any device and live sharing, but needs internet, a subscription and a third party holds the data.', src: 'cambridge-a-level-ict-9626-project-management-software-revision-notes' },
+      { n: 4, f: 'What does the software do for scheduling and for resource allocation?', b: 'Scheduling: durations and dependencies give a Gantt chart and critical path, recalculated when tasks slip. Resources: assigns people and equipment, shows workloads and warns of over-allocation.', src: 'cambridge-a-level-ict-9626-project-management-software-revision-notes' },
+      { n: 5, f: 'Task A (4 days), then B (6) and C (5) in parallel, then D (3). How long does the project take?', b: 'The longest path A, B, D is 4 + 6 + 3 = 13 days. If A took 7 days, the project would take 7 + 6 + 3 = 16 days.', src: 'cambridge-a-level-ict-9626-project-management-software-revision-notes' },
     ]),
     // 15.3 Tools and techniques for project management tasks
     ...sub('project-management', 'tools-and-techniques-for-project-management-tasks', '15.3', [
       { n: 1, f: 'What is the critical path?', b: 'The longest sequence of dependent activities through a project. It sets the shortest possible project time; any delay to a critical activity delays the whole project. Critical activities have zero float.' },
       { n: 2, f: 'What is float in critical path analysis?', b: 'The time an activity can be delayed without delaying the whole project. Staff can be moved from activities with float to critical ones.' },
+      { n: 3, f: 'How is a Gantt chart laid out and read?', b: 'Tasks run down the side and time across the top. A bar starts at the planned start and its length is the duration. Milestones are diamonds or zero-length bars.', src: 'cambridge-a-level-ict-9626-project-management-tools-techniques-revision-notes' },
+      { n: 4, f: 'Forward and backward pass rules in critical path analysis', b: 'Forward: ES is the largest EF of the predecessors; EF = ES + duration. Backward: LF is the smallest LS of the successors; LS = LF − duration. Float = LS − ES.', src: 'cambridge-a-level-ict-9626-project-management-tools-techniques-revision-notes' },
+      { n: 5, f: 'P (2 days) precedes Q (5) and R (3); S (4) follows Q and R. Find the critical path and R\'s float.', b: 'Critical path P, Q, S = 2 + 5 + 4 = 11 days. R has float 4 − 2 = 2, so a 3-day slip in R delays the end by 1 day.', src: 'cambridge-a-level-ict-9626-project-management-tools-techniques-revision-notes' },
     ]),
 
     // 16 System life cycle
     // 16.1 The stages in the system life cycle
     ...sub('system-life-cycle', 'the-stages-in-the-system-life-cycle', '16.1', [
       { n: 1, f: 'Name the stages of the system life cycle in order', b: 'Analysis, design, development and testing, implementation, documentation, evaluation, then maintenance.', src: SLC },
+      { n: 2, f: 'What is a system?', b: 'A collection of components forming a whole: a hardware system, a software system, or a combination of both.', src: 'a-level-cambridge-ict-system-life-cycle-revision-notes' },
+      { n: 3, f: 'How are the stages of the system life cycle linked?', b: 'Each stage\'s output is the next stage\'s input.', src: 'a-level-cambridge-ict-system-life-cycle-revision-notes' },
+      { n: 4, f: 'How does evaluation close the system life cycle?', b: 'Evaluation checks the system against the requirements set in analysis. Problems found feed a new analysis, so the cycle starts again.', src: 'a-level-cambridge-ict-system-life-cycle-revision-notes' },
+      { n: 5, f: 'Analysis vs design in one line', b: 'Analysis decides what is wrong and what the new system must do. Design decides how it will do it. The result of design is the design specification.' },
     ]),
     // 16.2 Analysis
     ...sub('system-life-cycle', 'analysis', '16.2', [
       { n: 1, f: 'User requirements specification vs design specification', b: 'The user requirements specification says what users need. The design specification says how the system will be built.' },
+      { n: 2, f: 'When does each research method suit: questionnaire, interview, observation, document analysis?', b: 'Questionnaire: many users, simple opinions. Interview: few experts, detailed needs. Observation: a complex or physical process. Document analysis: need the data and formats in use.', src: 'cambridge-a-level-ict-9626-analysis-revision-notes' },
+      { n: 3, f: 'A disadvantage of questionnaires and of observation', b: 'Questionnaire: poor return rate, cannot follow up answers, wording can mislead. Observation: people act differently when watched, it is slow, and it may miss rare events.', src: 'cambridge-a-level-ict-9626-analysis-revision-notes' },
+      { n: 4, f: 'What does the system specification contain and who reads it?', b: 'The hardware and software to run the system: computers, servers, peripherals, operating system, database and network needs. Managers, purchasers and IT staff read it.', src: 'cambridge-a-level-ict-9626-analysis-revision-notes' },
+      { n: 5, f: 'Typical contents of a user requirements specification', b: 'Objectives, problems with the current system, required tasks, inputs and outputs, data volumes, performance, and constraints such as budget, time and law.', src: 'cambridge-a-level-ict-9626-analysis-revision-notes' },
     ]),
     // 16.3 Design
     ...sub('system-life-cycle', 'design', '16.3', [
       { n: 1, f: 'Data flow diagram vs system flowchart', b: 'A DFD shows the movement of data. A system flowchart shows hardware, files and processes.' },
+      { n: 2, f: 'Rules for drawing a data flow diagram', b: 'Label every flow. Data must pass through a process: no flow from entity to entity, entity to store, or store to store. No data stores on level 0. Levels must balance.', src: 'cambridge-a-level-ict-9626-design-revision-notes' },
+      { n: 3, f: 'What do DFD levels 0, 1 and 2 show?', b: 'Level 0 (context): one process for the whole system, external entities and flows. Level 1: main processes, data stores and flows. Level 2: one level 1 process split into sub-processes.', src: 'cambridge-a-level-ict-9626-design-revision-notes' },
+      { n: 4, f: 'Radio buttons vs tick boxes vs drop-down list', b: 'Radio buttons: choose one option. Tick boxes: choose any number. Drop-down list: pick from a fixed set of choices. Each limits mistakes.', src: 'cambridge-a-level-ict-9626-design-revision-notes' },
+      { n: 5, f: 'Layout points for a printed report', b: 'Title, date, page numbers, repeated column headings, header and footer, totals and sub-totals, numbers right-aligned and margins that fit the paper.', src: 'cambridge-a-level-ict-9626-design-revision-notes' },
     ]),
     // 16.4 Development and testing
     ...sub('system-life-cycle', 'development-and-testing', '16.4', [
@@ -477,6 +561,10 @@ export const DECK_CAMBRIDGE_A_LEVEL_ICT: FlashcardDeck = {
     // 16.5 Implementation
     ...sub('system-life-cycle', 'implementation', '16.5', [
       { n: 1, f: 'Phased vs pilot implementation', b: 'Phased: one part of the system is introduced everywhere at a time. Pilot: the whole system is introduced in one place first.' },
+      { n: 2, f: 'Parallel vs direct changeover', b: 'Parallel: old and new run together with real data, lowest risk but expensive and double work. Direct: old stops on a set date and new starts, cheapest and quickest but no fallback.', src: 'cambridge-a-level-ict-9626-implementation-revision-notes' },
+      { n: 3, f: 'Which changeover suits payroll, separate modules, a chain of similar branches?', b: 'Payroll or banking: parallel (fallback and comparison). Separate modules: phased. Chain of similar branches: pilot. Failing old system with low risk: direct.', src: 'cambridge-a-level-ict-9626-implementation-revision-notes' },
+      { n: 4, f: 'What does implementation involve?', b: 'Install hardware and software, transfer data from the old system, train users, and choose a changeover method (a trade-off between risk, cost, time and disruption).', src: 'cambridge-a-level-ict-9626-implementation-revision-notes' },
+      { n: 5, f: 'A system has 3 modules, each taking 4 weeks to settle before the next. How long does phased changeover take?', b: '3 × 4 = 12 weeks. Phased limits a failure to one part, but is slow overall.', src: 'cambridge-a-level-ict-9626-implementation-revision-notes' },
     ]),
     // 16.6 Documentation
     ...sub('system-life-cycle', 'documentation', '16.6', [
@@ -490,19 +578,34 @@ export const DECK_CAMBRIDGE_A_LEVEL_ICT: FlashcardDeck = {
     // 16.7 Evaluation
     ...sub('system-life-cycle', 'evaluation', '16.7', [
       { n: 1, f: 'What criteria are used to evaluate a system?', b: 'Efficiency, ease of use and appropriateness for its intended use, judged by checking against the specifications and user requirements and collecting user feedback.', src: SLC },
+      { n: 2, f: 'What questions test the efficiency of a new system?', b: 'Is each task faster than with the old system? Does it use less staff time and fewer materials? Does it run quickly without crashes? Are running costs lower?' },
+      { n: 3, f: 'Evaluation vs testing', b: 'Testing checks that the system works before release. Evaluation judges how well it meets the needs after it has been in realistic use for a time.' },
+      { n: 4, f: 'Strength and weakness of checking a system against its specifications', b: 'Strength: objective and systematic, as each requirement is checked. Weakness: a system can meet every requirement and still be awkward to use if the requirements were wrong or incomplete.' },
+      { n: 5, f: 'How is user feedback collected for an evaluation, and what is its weakness?', b: 'By questionnaires, interviews, observation, focus groups, help-desk records and error logs. Opinions are personal, and the people who respond may not represent everyone.' },
     ]),
     // 16.8 Methods of software development
     ...sub('system-life-cycle', 'methods-of-software-development', '16.8', [
       { n: 1, f: 'Waterfall vs agile development', b: 'Waterfall completes one stage at a time with sign-off: a clear plan, but late changes are expensive. Agile uses short cycles with close customer contact: it handles changing needs but needs constant user time.' },
       { n: 2, f: 'What is RAD?', b: 'Rapid application development: fast prototypes, workshops with users and strict time limits. Quick and user-focused, but poor for large, complex systems.' },
+      { n: 3, f: 'Iterative vs incremental development', b: 'Iterative: build a rough version of the whole system, then repeat and refine it. Incremental: split the system into parts, then build, test and deliver each part, adding to what exists.', src: 'cambridge-a-level-ict-9626-software-development-methods-revision-notes' },
+      { n: 4, f: 'Which method suits fixed requirements with costly errors, changing requirements, or independent modules?', b: 'Fixed requirements and costly errors (e.g. a medical device): waterfall. Unclear, changing requirements: agile or iterative. Separate modules, some needed first: incremental.', src: 'cambridge-a-level-ict-9626-software-development-methods-revision-notes' },
+      { n: 5, f: 'Features, advantages and disadvantages of agile development', b: 'Short sprints give working software each time, with a small team, backlog and daily meetings. Flexible, but cost and final features are hard to predict and it needs constant customer involvement.', src: 'cambridge-a-level-ict-9626-software-development-methods-revision-notes' },
     ]),
     // 16.9 Prototyping
     ...sub('system-life-cycle', 'prototyping', '16.9', [
       { n: 1, f: 'Evolutionary vs throwaway prototyping', b: 'An evolutionary prototype is refined until it becomes the final system. A throwaway prototype is discarded once the requirements are clear.' },
+      { n: 2, f: 'What is a prototype and why does it help?', b: 'An early working model of all or part of a system. Users react to something real, so misunderstandings and design problems are found early, when they are cheap to fix.', src: 'cambridge-a-level-ict-9626-prototyping-revision-notes' },
+      { n: 3, f: 'Incremental prototyping vs incremental development', b: 'Incremental prototyping: trial versions of components are built and then combined. Incremental development: finished, working parts are delivered one after another.', src: 'cambridge-a-level-ict-9626-prototyping-revision-notes' },
+      { n: 4, f: 'Rapid vs throwaway prototype', b: 'Rapid describes how it is built: as quickly as possible with fast tools. Throwaway describes what happens to it: it is discarded. A prototype may be both, but a rapid one need not be thrown away.', src: 'cambridge-a-level-ict-9626-prototyping-revision-notes' },
+      { n: 5, f: 'Advantages and disadvantages of evolutionary prototyping', b: 'Advantages: the user is involved throughout, no work is wasted and changes are easy. Disadvantages: no clear end date or cost, the structure can become messy, and feature creep.', src: 'cambridge-a-level-ict-9626-prototyping-revision-notes' },
     ]),
     // 16.10 Maintenance
     ...sub('system-life-cycle', 'maintenance', '16.10', [
       { n: 1, f: 'Name the four types of maintenance', b: 'Corrective (fix a fault), adaptive (the environment changed, e.g. law or operating system), perfective (users want improvements) and preventive (reduce the risk of future faults).' },
+      { n: 2, f: 'How do you spot the type of maintenance?', b: 'Ask what caused the change. A fault happened: corrective. The environment changed (law, device, operating system): adaptive. Users want it better: perfective. Removing a risk before anything goes wrong: preventive.', src: 'cambridge-a-level-ict-9626-maintenance-revision-notes' },
+      { n: 3, f: 'Classify: a crash with an apostrophe in a name; a new tax band; faster searches on request', b: 'The crash is corrective (a fault). The new tax band is adaptive (the law changed). Faster searches on request are perfective (an improvement, nothing is wrong).', src: 'cambridge-a-level-ict-9626-maintenance-revision-notes' },
+      { n: 4, f: 'Steps in corrective maintenance', b: 'Report the fault, reproduce it, find the cause, fix it, test including related parts, release a patch and update the fault log.', src: 'cambridge-a-level-ict-9626-maintenance-revision-notes' },
+      { n: 5, f: 'Preventive vs perfective maintenance', b: 'Preventive stops a future problem, such as rewriting unclear code or setting up an automatic backup. Perfective adds value now to a working system, such as a new feature users asked for.', src: 'cambridge-a-level-ict-9626-maintenance-revision-notes' },
     ]),
 
     // 17 Data analysis and visualisation
@@ -534,25 +637,42 @@ export const DECK_CAMBRIDGE_A_LEVEL_ICT: FlashcardDeck = {
     // 19.1 Common graphics skills
     ...sub('graphics-creation', 'common-graphics-skills', '19.1', [
       { n: 1, f: 'Bring to front vs raise', b: 'Raise moves an object up one step in the stacking order. Bring to front moves it all the way to the top.', src: GC },
+      { n: 2, f: 'Merge vs flatten layers', b: 'Merge combines chosen layers into one. Flatten combines all the layers into a single layer. Blend describes how a layer combines with those below it.', src: GC },
+      { n: 3, f: 'Group vs combine objects', b: 'Group keeps the objects separate but makes them move together. Combine (or join) makes them one object, or joins end nodes.', src: GC },
+      { n: 4, f: 'What do add, subtract and intersect do to two shapes?', b: 'Add (union) merges their outlines. Subtract cuts one shape out of another. Intersect keeps only the overlap.', src: GC },
+      { n: 5, f: 'RGB vs CMYK', b: 'RGB is additive (light): red, green and blue at full make white; used for screens and the web. CMYK is subtractive (ink): cyan, magenta, yellow and black (key); used for print.', src: GC },
     ]),
     // 19.2 Vector graphics
     ...sub('graphics-creation', 'vector-graphics', '19.2', [
       { n: 1, f: 'What is a Bezier curve?', b: 'A vector curve whose shape is set by its end nodes and their control handles, which set the direction and strength of the bend.', src: GC },
       { n: 2, f: 'What does tracing a bitmap gain and lose?', b: 'It turns edges and colour areas into vector paths. Gains: scalable, editable, small for simple logos. Losses: detail and shading, many nodes for complex images, and clean-up time.', src: GC },
+      { n: 3, f: 'Name the four vector node types and how their handles behave', b: 'Cusp: handles move independently, giving a sharp corner. Smooth: handles in line, no corner. Symmetrical: in line and equal length. Asymmetrical: in line but unequal length.', src: GC },
+      { n: 4, f: 'Simplify a path vs convert to curves', b: 'Simplify deletes unneeded nodes, giving a cleaner line and smaller file. Convert to curves turns a shape object into an editable path, but the shape settings are lost.', src: GC },
+      { n: 5, f: 'Bitmap vs vector graphics', b: 'Bitmap: a grid of pixels, pixelates when enlarged, best for photographs. Vector: paths of nodes and curves, stays sharp when enlarged, best for logos, icons and diagrams.', src: GC },
     ]),
     // 19.3 Bitmap images
     ...sub('graphics-creation', 'bitmap-images', '19.3', [
       { n: 1, f: 'What happens if an image\'s resolution is too low or too high?', b: 'Too low: blocky or soft images, worst in print or when enlarged. Too high: no visible gain on screen, but larger files, slower web pages and more storage.', src: GC },
       { n: 2, f: 'What is the effect of reducing colour depth?', b: 'Fewer bits per pixel give a smaller file but fewer colours, so smooth areas show banding.', src: GC },
+      { n: 3, f: 'Magic wand vs colour select vs lasso', b: 'Lasso: draw round the area by hand. Magic wand: selects adjacent pixels of similar colour, using a tolerance. Colour select: selects similar colour anywhere in the image.', src: GC },
+      { n: 4, f: 'Image resize vs canvas resize', b: 'Image resize resamples the pixels, making the picture larger or smaller. Canvas resize changes the working area only.', src: GC },
+      { n: 5, f: 'An image 2000 pixels wide is printed 10 inches wide. What is the effective ppi, and is it enough?', b: '2000 ÷ 10 = 200 ppi. High-quality print commonly targets about 300 ppi, so expect blocky or soft print. Get a larger original or print smaller.', src: GC },
     ]),
     // 19.4 Compression
     ...sub('graphics-creation', 'compression', '19.4', [
       { n: 1, f: 'Lossless vs lossy image compression', b: 'Lossless rebuilds the original exactly, e.g. run-length encoding (RRRRBB → 4R 2B), and is best on flat colour. Lossy permanently removes detail for much smaller files, giving artefacts that get worse with each re-save.', src: GC },
+      { n: 2, f: 'What is the uncompressed size of a 2000 × 1000 image at 8-bit colour depth?', b: '2000 × 1000 × 8 ÷ 8 = 2,000,000 bytes = 2 MB. Eight bits per pixel allow 2⁸ = 256 colours.', src: GC },
+      { n: 3, f: 'Which compression does each format use: JPG, PNG, GIF, TIF?', b: 'JPG: lossy, for photographs. PNG: lossless with transparency, for logos and screenshots. GIF: lossless, maximum 256 colours. TIF: usually none or lossless, for print masters.', src: GC },
+      { n: 4, f: 'What artefacts does lossy compression cause?', b: 'Blockiness, blur, banding and fuzzy edges round text. The loss is permanent and worsens with each re-save.', src: GC },
+      { n: 5, f: 'Why is a logo or screenshot better saved as PNG than JPG?', b: 'PNG is lossless, so sharp text and flat colour stay clean. JPG is lossy and would leave fuzzy edges round text.', src: GC },
     ]),
     // 19.5 Text
     ...sub('graphics-creation', 'text', '19.5', [
       { n: 1, f: 'Kerning vs letter spacing', b: 'Kerning adjusts the space between one pair of letters. Letter spacing sets even spacing across all the selected letters.', src: GC },
       { n: 2, f: 'What does converting text to curves do?', b: 'The letters become paths, so no font is needed and letters can be reshaped, but the text can no longer be edited as text.', src: GC },
+      { n: 3, f: 'Text on a path vs text in a shape', b: 'Text on a path follows a line or wraps round a shape. Text in a shape flows inside an outline.', src: GC },
+      { n: 4, f: 'What do font face, size and line spacing control?', b: 'Font face is the style of lettering and size is how big it is. Line spacing is the distance between lines. Kerning and letter spacing control the gaps between letters.', src: GC },
+      { n: 5, f: 'What should justify every graphics and text design choice?', b: 'The intended application and audience.', src: GC },
     ]),
 
     // 20 Animation
