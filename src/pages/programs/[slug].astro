@@ -133,8 +133,8 @@ const programTuitionFaqs = hasGroupTuition
           return [{ question: f.question, answer: feeOnEnquiry
             ? `${PRICING_TERMS.billing} There is no separate registration or enrolment fee; the fee is confirmed on enquiry, before anything is booked.`
             : isAp
-            ? `${PRICING_TERMS.billing} There is no separate registration or enrolment fee. AP tuition is charged per one-to-one class: ${apFeeLine}. The pricing page shows indicative conversions for other currencies, and the exact fee is confirmed in writing before anything is booked.`
-            : `${PRICING_TERMS.billing} There is no separate registration or enrolment fee. IB tuition is charged per 1-hour class: ${IB_PRICING.perClass.toLocaleString('en-US')} ${IB_PRICING.currency} in ${IB_PRICING.region}. The pricing page shows indicative conversions for other currencies, and the exact fee is confirmed in writing before anything is booked.` }];
+            ? `${PRICING_TERMS.billing} There is no separate registration or enrolment fee. AP tuition is charged per one-to-one class: ${apFeeLine}. The pricing page shows the US dollar fee, also set by Marlbridge, and indicative conversions for other currencies, and the exact fee is confirmed in writing before anything is booked.`
+            : `${PRICING_TERMS.billing} There is no separate registration or enrolment fee. IB tuition is charged per 1-hour class: ${IB_PRICING.perClass.toLocaleString('en-US')} ${IB_PRICING.currency} in ${IB_PRICING.region}. The pricing page shows the US dollar fees, also set by Marlbridge, and indicative conversions for other currencies, and the exact fee is confirmed in writing before anything is booked.` }];
         }
         if (f.question !== 'Is the trial one-to-one or in a group?') return [f];
         return isIb || isAp
@@ -144,7 +144,7 @@ const programTuitionFaqs = hasGroupTuition
       .concat(feeOnEnquiry
         ? [{ question: `How much does ${d.title} tuition cost?`, answer: `There is no fixed fee for ${d.title} on the pricing page. Send an enquiry and Marlbridge will confirm the fee before anything is booked.` }]
         : isAp
-        ? [{ question: 'How is AP tuition charged?', answer: `AP tuition is one-to-one only and charged per class, not per subject per month: ${apFeeLine}. The multi-subject and sibling discounts do not apply. The pricing page shows indicative conversions for other currencies.` }]
+        ? [{ question: 'How is AP tuition charged?', answer: `AP tuition is one-to-one only and charged per class, not per subject per month: ${apFeeLine}. The multi-subject and sibling discounts do not apply. The pricing page shows the US dollar fee, also set by Marlbridge, and indicative conversions for other currencies.` }]
         : [{ question: 'How is IB tuition charged?', answer: `IB tuition is one-to-one only and charged per class, not per subject per month. The multi-subject and sibling discounts do not apply. The pricing page gives the rate for ${IB_PRICING.region}; for other regions Marlbridge confirms the fee on enquiry.` }]);
 
 const visibleFaqs = d.marlbridgeTeaches === 'teaching'

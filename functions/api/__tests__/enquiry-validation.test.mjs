@@ -156,17 +156,19 @@ test('validateEnquiry: trial accepts a structured request with no message', () =
 
 test('validateEnquiry: trial still accepts the five-field form (translated pages): message instead of choices', () => {
   const result = validateEnquiry('trial', {
-    name: 'Zara Ali', email: 'zara@example.com', country: 'Pakistan',
+    name: 'Zara Ali', email: 'zara@example.com', phoneCountry: 'PK', phone: '0300 1234567', country: 'Pakistan',
     message: 'Would like a trial for the next exam series -- A Level Physics, Cambridge, weekday evenings.',
   });
   assert.equal(result.ok, true);
+  // D-517: the translated form's phone is joined with its country code too.
+  if (result.ok) assert.equal(result.data.phone, '+92 300 1234567');
 });
 
 // D-291 -- the shortened form: a typed subject alone is enough (no
 // qualification dropdown, no time zone).
 test('validateEnquiry: trial accepts the short form (typed subject, no qualification or time zone)', () => {
   const result = validateEnquiry('trial', {
-    name: 'Zara Ali', email: 'zara@example.com', phone: '0323 9149918', country: 'Pakistan',
+    name: 'Zara Ali', email: 'zara@example.com', phoneCountry: 'PK', phone: '0323 9149918', country: 'Pakistan',
     subject: 'O Level Maths', board: 'not-sure', format: 'help-me-decide', source: 'trial-page',
   });
   assert.equal(result.ok, true);
@@ -193,7 +195,7 @@ test('validateEnquiry: trial needs either a subject or a message', () => {
 
 test('validateEnquiry: trial drops out-of-list values instead of trusting them', () => {
   const result = validateEnquiry('trial', {
-    name: 'Zara Ali', email: 'zara@example.com', country: 'Pakistan', message: 'Help please',
+    name: 'Zara Ali', email: 'zara@example.com', phone: '+92 300 1234567', country: 'Pakistan', message: 'Help please',
     board: 'made-up-board', availability: 'midnight', teacher: '<b>x</b>', source: 'ad-campaign', course: '../../etc',
   });
   assert.equal(result.ok, true);
@@ -201,7 +203,7 @@ test('validateEnquiry: trial drops out-of-list values instead of trusting them',
     for (const f of ['board', 'availability', 'teacher', 'source', 'course']) assert.equal(f in result.data, false, f);
   }
   // qualification is now a hidden value: a tampered one is dropped, not shown as an error
-  const badQual = validateEnquiry('trial', { name: 'Z', email: 'z@example.com', phone: '03001234567', country: 'PK', board: 'not-sure', format: 'group', qualification: 'phd', subject: 'x' });
+  const badQual = validateEnquiry('trial', { name: 'Z', email: 'z@example.com', phone: '+92 300 1234567', country: 'PK', board: 'not-sure', format: 'group', qualification: 'phd', subject: 'x' });
   assert.equal(badQual.ok, true);
   if (badQual.ok) assert.equal('qualification' in badQual.data, false);
   const badFormat = validateEnquiry('trial', { name: 'Z', email: 'z@example.com', country: 'PK', subject: 'x', format: 'weekly' });
@@ -238,12 +240,15 @@ test('validateEnquiry: trial with a typed subject needs name, phone and country,
   const shortPhone = validateEnquiry('trial', { ...base, phone: '12345' });
   assert.equal(shortPhone.ok, false);
   if (!shortPhone.ok) assert.ok(shortPhone.errors.phone);
-  // The translated five-field forms (no subject) still need an email, not a phone.
-  const translated = validateEnquiry('trial', { name: 'Z', email: 'z@example.com', country: 'PK', message: 'A Level Maths please' });
+  // The translated five-field forms (no subject) still need an email, and since D-517 a phone too.
+  const translated = validateEnquiry('trial', { name: 'Z', email: 'z@example.com', phoneCountry: 'PK', phone: '03001234567', country: 'PK', message: 'A Level Maths please' });
   assert.equal(translated.ok, true);
-  const translatedNoEmail = validateEnquiry('trial', { name: 'Z', phone: '03001234567', country: 'PK', message: 'A Level Maths please' });
+  const translatedNoEmail = validateEnquiry('trial', { name: 'Z', phoneCountry: 'PK', phone: '03001234567', country: 'PK', message: 'A Level Maths please' });
   assert.equal(translatedNoEmail.ok, false);
   if (!translatedNoEmail.ok) assert.ok(translatedNoEmail.errors.email);
+  const translatedNoPhone = validateEnquiry('trial', { name: 'Z', email: 'z@example.com', country: 'PK', message: 'A Level Maths please' });
+  assert.equal(translatedNoPhone.ok, false);
+  if (!translatedNoPhone.ok) assert.equal(translatedNoPhone.errors.phone, 'Please enter a phone or WhatsApp number.');
 });
 
 test('renderEmailBody: trial shows readable choices and says it is a request, not a booking', () => {
@@ -387,8 +392,19 @@ test('validateEnquiry: trial phone is joined with the selected country code', as
   const otherOk = validateEnquiry('trial', { ...base, phoneCountry: 'other', phone: '+1 415 555 0100' });
   if (otherOk.ok) assert.equal(otherOk.data.phone, '+1 415 555 0100');
   // A tampered code is dropped and the number kept as typed; no select (old page) works as before.
+  // D-517: an unknown code is dropped, and a number with no country code is rejected.
   const bad = validateEnquiry('trial', { ...base, phoneCountry: 'ZZ', phone: '0300 1234567' });
-  if (bad.ok) assert.equal(bad.data.phone, '0300 1234567');
+  assert.equal(bad.ok, false);
+  if (!bad.ok) assert.match(bad.errors.phone, /country code/);
+  const noCode = validateEnquiry('trial', { ...base, phone: '0300 1234567' });
+  assert.equal(noCode.ok, false);
+  if (!noCode.ok) assert.match(noCode.errors.phone, /country code/);
+  // Malformed: letters, or too few digits, whatever the code.
+  for (const phone of ['call me maybe 1234567', '+92 abc', '12-34', '+']) {
+    const r = validateEnquiry('trial', { ...base, phoneCountry: 'PK', phone });
+    assert.equal(r.ok, false, phone);
+    if (!r.ok) assert.match(r.errors.phone, /valid phone/, phone);
+  }
   const none = validateEnquiry('trial', { ...base, phone: '+92 300 1234567' });
   if (none.ok) assert.equal(none.data.phone, '+92 300 1234567');
 });

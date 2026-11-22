@@ -149,7 +149,7 @@
     line-height: 1.55;
   }
   .resource-content pre.astro-code[data-language="text"] code { font-family: inherit; }
-  /* D-516 -- tables in study resources had no borders, padding or header
+  /* D-518 -- tables in study resources had no borders, padding or header
      styling, so on a phone the columns ran together and one row could not be
      told from the next. A light header strip with a teal rule under it, thin
      row dividers, and text aligned to the top of each row. `break-word`, not

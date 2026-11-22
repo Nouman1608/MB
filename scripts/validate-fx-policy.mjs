@@ -212,7 +212,20 @@ for (const row of IB_CONVERSIONS) {
 
 // --- [2g] D-335: one-to-one-only course conversions -------------------------
 console.log(`\n[2g] One-to-one-only course fee conversions are labelled indicative and within ${FX_TOLERANCE_PERCENT}% of what FX_RATES implies`);
+// D-517 -- owner, 22 Nov 2026: the US dollar fee for these courses is set by
+// Marlbridge, like the Pakistan fee. It is a price, not a conversion: it must
+// be 'confirmed' and gets no drift check. Every other row stays indicative.
+const OWNER_SET_ONE_TO_ONE_ONLY_REGIONS = new Set(['Other countries']);
 for (const row of ONE_TO_ONE_ONLY_CONVERSIONS) {
+  if (OWNER_SET_ONE_TO_ONE_ONLY_REGIONS.has(row.region)) {
+    if (row.status !== 'confirmed') {
+      console.log(`  ✗ ONE_TO_ONE_ONLY_CONVERSIONS ${row.region}: owner-set fee (D-517), must be status 'confirmed'.`);
+      problems++;
+    } else {
+      console.log(`  ✓ ONE_TO_ONE_ONLY_CONVERSIONS ${row.region} (${row.currency}): ${row.perClass}, set by Marlbridge (no drift check)`);
+    }
+    continue;
+  }
   if (row.status !== 'indicative') {
     console.log(`  ✗ ONE_TO_ONE_ONLY_CONVERSIONS ${row.region}: must be status 'indicative'.`);
     problems++;

@@ -56,6 +56,12 @@ export interface FxRate {
   /** PKR value of one unit of this currency. E.g. 74.03 means 1 SAR was
    * worth PKR 74.03 as of FX_RATE_ASOF_DATE. */
   readonly pkrPerUnit: number;
+  /** D-517 -- date of this row's rate where it differs from
+   * FX_RATE_ASOF_DATE (rows added after the main snapshot). The one record
+   * of that date: pages read it through fxRateDate(), never restate it. */
+  readonly asOf?: string;
+  /** Published source of this row's rate where it is not FX_RATE_PROVIDER. */
+  readonly source?: string;
 }
 
 /** exchangerate-api.com's free, no-key endpoint, PKR as the base currency
@@ -63,6 +69,8 @@ export interface FxRate {
  * already named in ONE_TO_ONE_TERMS.conversionNote for the original
  * 2026-08-22 conversion, so re-fetches are directly comparable. */
 export const FX_RATE_SOURCE = 'https://open.er-api.com/v6/latest/PKR (provider: exchangerate-api.com)';
+/** The provider's name as shown to families beside indicative figures. */
+export const FX_RATE_PROVIDER = 'exchangerate-api.com';
 
 /** Date this snapshot was fetched and verified against the live source
  * above. Update this every time FX_RATES is refreshed. */
@@ -90,16 +98,41 @@ export const FX_RATES: readonly FxRate[] = [
   { currency: 'EUR', pkrPerUnit: 323.83 },
   // D-297 -- added 2026-09-23 for the Malaysia rows (owner request, same
   // source as the rows above; that day's rate: 1 PKR = 0.014703 MYR).
-  { currency: 'MYR', pkrPerUnit: 68.01 },
+  { currency: 'MYR', pkrPerUnit: 68.01, asOf: '2026-09-23' },
   // D-311 -- added 2026-09-24 for the US dollar rows (owner request, same
   // source; that day's rate: 1 USD = 276.970859 PKR).
-  { currency: 'USD', pkrPerUnit: 276.97 },
+  { currency: 'USD', pkrPerUnit: 276.97, asOf: '2026-09-24' },
   // D-416 -- added 2026-10-10 for the Singapore rows (owner request). The
   // exchangerate-api endpoint was unreachable from the build environment, so
   // this is XE's mid-market rate dated 2026-10-05 (1 SGD = 216.20 PKR);
   // other published rates that week ranged 215-219.
-  { currency: 'SGD', pkrPerUnit: 216.20 },
+  { currency: 'SGD', pkrPerUnit: 216.20, asOf: '2026-10-05', source: 'XE mid-market rate' },
 ] as const;
+
+/** D-517 -- the date of the rate recorded for a currency. */
+export function fxRateDate(currency: string): string {
+  const rate = FX_RATES.find((r) => r.currency === currency);
+  if (!rate) throw new Error(`No FX_RATES entry for currency "${currency}"`);
+  return rate.asOf ?? FX_RATE_ASOF_DATE;
+}
+
+/**
+ * D-517 -- the exchange-rate source and date line shown beside INDICATIVE
+ * figures only (never beside a set price). Built from FX_RATES so a date is
+ * written in one place. `dateOverrides` is for figures converted at an
+ * earlier rate than the recorded snapshot (the first one-to-one conversions,
+ * ONE_TO_ONE_TERMS.firstConversionRateDate in pricing.ts).
+ */
+export function fxRateNote(currencies: readonly string[], dateOverrides: Readonly<Record<string, string>> = {}): string {
+  const groups = new Map<string, string[]>();
+  for (const currency of currencies) {
+    const rate = FX_RATES.find((r) => r.currency === currency);
+    if (!rate) throw new Error(`No FX_RATES entry for currency "${currency}"`);
+    const key = `${rate.source ?? FX_RATE_PROVIDER} dated ${dateOverrides[currency] ?? fxRateDate(currency)}`;
+    groups.set(key, [...(groups.get(key) ?? []), currency]);
+  }
+  return `Exchange rates used: ${[...groups].map(([key, list]) => `${key} (${list.join(', ')})`).join('; ')}.`;
+}
 
 /** How many days after FX_RATE_ASOF_DATE the snapshot is considered stale
  * and the build must fail until it is refreshed. 120 days (~4 months) is

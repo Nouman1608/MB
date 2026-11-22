@@ -14,7 +14,7 @@
  * checks every card against the table rows.
  */
 import {
-  REGION_PRICING, ONE_TO_ONE_PRICING, INDICATIVE_NOTE, formatFee, isIndicative,
+  REGION_PRICING, ONE_TO_ONE_PRICING, INDICATIVE_NOTE, formatFee, isIndicative, statusLabel,
   type RegionPricing,
 } from '../../data/pricing.ts';
 
@@ -26,6 +26,8 @@ export interface RegionFeeBlock {
   aLevel: string;
   /** True when the table row is marked "Indicative" (D-297). */
   indicative: boolean;
+  /** D-517: the row's status as the tables print it. */
+  status: string;
 }
 
 export interface RegionFeeCard {
@@ -49,6 +51,7 @@ const block = (row: RegionPricing): RegionFeeBlock => ({
   igcse: money(row.igcse, row.currency),
   aLevel: money(row.aLevel, row.currency),
   indicative: isIndicative(row),
+  status: statusLabel(row),
 });
 
 export function regionFeeCard(row: RegionPricing): RegionFeeCard {

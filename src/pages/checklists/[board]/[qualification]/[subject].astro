@@ -91,7 +91,7 @@ const promptTrialHref = `/trial/?course=${encodeURIComponent(courseKey)}${oneToO
       <p class="m-0 mb-8 text-[14px] text-ink-mute">
         Syllabus {version.syllabusCode} &middot; {version.syllabusSeries} &middot; sourced from
         {' '}<a href={version.sourceUrl} class="underline decoration-teal-500 underline-offset-2">{version.source}</a>,
-        verified {version.verifiedDate}.
+        topic list verified {version.verifiedDate}.
       </p>
       {version.subtopicsCaveat && (
         <p class="m-0 -mt-4 mb-8 max-w-[70ch] text-[14px] text-ink-mute" data-subtopics-caveat>{version.subtopicsCaveat}</p>

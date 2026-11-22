@@ -12,7 +12,7 @@
  * is untouched, so its rows, headers and cells keep their table semantics for
  * screen readers. The wrapper is a focusable group so that a keyboard user can
  * scroll it; a table that fits never shows a scrollbar. The content files, and
- * their content hashes, are unchanged. (D-516.)
+ * their content hashes, are unchanged. (D-518.)
  */
 export const tableScrollPlugin = {
   name: 'marlbridge-table-scroll',

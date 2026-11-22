@@ -20,6 +20,7 @@ import {
 import { boardBySlug } from '../../../data/academic/boards';
 import { routes } from '../../../utils/urls/routes';
 import { faqNode } from '../../../utils/schema/faq';
+import { boardHubTitle } from '../../../utils/seo/hub-titles';
 
 export async function getStaticPaths() {
   return boardsWithCombinations().map((boardSlug) => ({ params: { board: boardSlug } }));
@@ -69,7 +70,7 @@ const faqs = [
 const faq = faqNode(faqs);
 ---
 <PageLayout
-  title={board.name}
+  title={boardHubTitle(board.name, qualificationNames)}
   description={`${board.name} qualifications taught by Marlbridge — every subject and qualification combination we publish, in one place.`}
   path={path}
   eyebrow="Board"

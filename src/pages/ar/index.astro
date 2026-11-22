@@ -40,6 +40,7 @@ const contactHref = localePath('ar', 'contact');
               <th class="px-3 py-2 text-start font-semibold text-navy-900">{copy.tableHeaders.currency}</th>
               <th class="px-3 py-2 text-start font-semibold text-navy-900">{copy.tableHeaders.igcse}</th>
               <th class="px-3 py-2 text-start font-semibold text-navy-900">{copy.tableHeaders.aLevel}</th>
+              <th class="px-3 py-2 text-start font-semibold text-navy-900">{copy.tableHeaders.status}</th>
             </tr>
           </thead>
           <tbody>
@@ -49,12 +50,14 @@ const contactHref = localePath('ar', 'contact');
                 <td class="px-3 py-2 text-ink-mute">{r.currency}</td>
                 <td class="px-3 py-2 text-ink-mute">{r.igcse}</td>
                 <td class="px-3 py-2 text-ink-mute">{r.aLevel}</td>
+                <td class="px-3 py-2 text-ink-mute">{copy.statusLabel[r.status]}</td>
               </tr>
             ))}
           </tbody>
         </table>
       </div>
-      {hasIndicativeRows && <p class="m-0 mt-4 text-[13px] text-ink-mute">{copy.indicativeNote}</p>}
+      <p class="m-0 mt-4 text-[13px] text-ink-mute">{copy.statusExplainer}</p>
+      {hasIndicativeRows && <p class="m-0 mt-2 text-[13px] text-ink-mute">{copy.indicativeNote}</p>}
       <p class="m-0 mt-6 text-[13.5px] text-ink-mute">{copy.termsNote}</p>
     </div>
   </section>

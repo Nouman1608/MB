@@ -158,6 +158,29 @@ export function sanitizeField(value: unknown, maxLength = MAX_FIELD_LENGTH, keep
   return stripped.slice(0, maxLength);
 }
 
+/**
+ * D-517 -- the trial form's phone rule, in one place. Returns the message to
+ * show, or null when the number is acceptable.
+ *
+ * A number is well formed when it holds only digits, spaces and the usual
+ * separators ( + - . ( ) ), is at most 30 characters and has at least 7
+ * digits: the same test the form runs in the browser. It must also carry a
+ * country code, either from the form's country-code select or typed in front
+ * of the number (+ or 00). `phoneCountry` has already been checked against
+ * the allow-list (TRIAL_RULES); an unknown value arrives here as undefined.
+ */
+const PHONE_RE = /^\+?[\d\s\-().]{7,30}$/;
+export function checkTrialPhone(phone: string | undefined, phoneCountry: string | undefined): string | null {
+  if (!phone) return 'Please enter a phone or WhatsApp number.';
+  if (!PHONE_RE.test(phone) || phone.replace(/\D/g, '').length < 7) {
+    return 'Please enter a valid phone or WhatsApp number: digits only, at least 7 of them.';
+  }
+  if (hasInternationalPrefix(phone)) return null;
+  if (phoneCountry === DIAL_OTHER) return 'Please type your number with its country code, starting with +.';
+  if (!phoneCountry) return 'Please choose your country code, or type your number with its country code, starting with +.';
+  return null;
+}
+
 /** Fields whose line breaks are preserved (body-only, never headers). */
 const MULTILINE_FIELDS = new Set(['message', 'description']);
 
@@ -229,22 +252,21 @@ export function validateEnquiry(
     if (data.subject) {
       if (!data.board) data.board = 'not-sure';
       if (!data.format && !errors.format) data.format = 'help-me-decide';
-      if (!data.phone) errors.phone = 'Please enter a phone or WhatsApp number.';
-      else if (data.phone.replace(/\D/g, '').length < 7 || data.phone.length > 30) errors.phone = 'Please enter a valid phone or WhatsApp number.';
-      else if (data.phoneCountry) {
-        // D-466: join the selected country code and the number, so the team
-        // always gets an international number. "Other" needs the code typed.
-        if (data.phoneCountry === DIAL_OTHER && !hasInternationalPrefix(data.phone)) {
-          errors.phone = 'Please type your number with its country code, starting with +.';
-        } else if (data.phoneCountry !== DIAL_OTHER) {
-          const joined = joinPhone(data.phoneCountry, data.phone);
-          if (joined) data.phone = joined;
-        }
-      }
-      delete data.phoneCountry;
     } else if (!data.email && !errors.email) {
       errors.email = 'This field is required.';
     }
+    // D-517 (owner, 22 Nov 2026): a phone number with a country code is
+    // compulsory on EVERY trial form, the translated five-field ones included
+    // (until now only the English form asked for it).
+    const phoneError = checkTrialPhone(data.phone, data.phoneCountry);
+    if (phoneError) errors.phone = phoneError;
+    else if (data.phoneCountry && data.phoneCountry !== DIAL_OTHER) {
+      // D-466: join the selected country code and the number, so the team
+      // always gets an international number.
+      const joined = joinPhone(data.phoneCountry, data.phone);
+      if (joined) data.phone = joined;
+    }
+    delete data.phoneCountry;
   }
 
   if (kind === 'correction' && data.issueType && !(ISSUE_TYPES as readonly string[]).includes(data.issueType)) {

@@ -1,6 +1,6 @@
 # Resource pages: tables and worked-example blocks on phones and desktop
 
-Internal review note, 22 Nov 2026 (D-515). Found while viewing the four pilot pages on the live site in a browser: a phone-sized view (375 x 812) and a desktop-sized view (1024 wide). Both findings are about how the site draws content. **Both were fixed the same day on the owner's instruction (D-516); see "What was done" at the end.** The text below is the finding as it was written.
+Internal review note, 22 Nov 2026 (D-515). Found while viewing the four pilot pages on the live site in a browser: a phone-sized view (375 x 812) and a desktop-sized view (1024 wide). Both findings are about how the site draws content. **Both were fixed the same day on the owner's instruction (D-518); see "What was done" at the end.** The text below is the finding as it was written.
 
 ## What was checked
 
@@ -40,7 +40,7 @@ Body text is 17.5px on all four. No page scrolls sideways at either size.
 - Screen readers, and keyboard use.
 - AI-assisted. Not a teacher review.
 
-## What was done (D-516, 22 Nov 2026)
+## What was done (D-518, 22 Nov 2026)
 
 The owner said "fix them", knowing the cost of finding 1.
 

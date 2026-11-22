@@ -25,7 +25,7 @@ import { site } from '../../data/site';
 import { routes } from '../../utils/urls/routes';
 import { BOARDS } from '../../data/academic/boards';
 import {
-  REGION_PRICING, ONE_TO_ONE_PRICING, ONE_TO_ONE_TERMS,
+  REGION_PRICING, ONE_TO_ONE_PRICING, ONE_TO_ONE_TERMS, ONE_TO_ONE_RATE_NOTE, PRICE_STATUS_INLINE,
   PRICING_TERMS, PRICING_VERIFIED_DATE, formatFee, INDICATIVE_NOTE, ibConversionFor,
 } from '../../data/pricing';
 
@@ -63,7 +63,7 @@ const faqs = [
   },
   {
     question: 'Which currency are fees in, and how do I pay?',
-    answer: `Group fees are set in each country's own currency, as in the table on this page (for example ${formatFee(uae.igcse, uae.currency)} ${uae.currency} per subject per month for IGCSE in the UAE). One-to-one rates are currency conversions of the Pakistan rate. Payment is by ${PRICING_TERMS.paymentMethods.join(' or ')}. ${PRICING_TERMS.billing}`,
+    answer: `Group fees are set in each country's own currency, as in the table on this page (for example ${formatFee(uae.igcse, uae.currency)} ${uae.currency} per subject per month for IGCSE in the UAE). One-to-one rates are indicative currency conversions of the Pakistan rate. Payment is by ${PRICING_TERMS.paymentMethods.join(' or ')}. ${PRICING_TERMS.billing}`,
   },
   {
     question: 'Why are the Kuwait and Bahrain fees written to three decimal places?',
@@ -185,8 +185,8 @@ const TIME_ZONES: Record<string, string> = {
           <thead>
             <tr class="border-b border-rule text-left">
               <th scope="col" class="py-3 pr-4 mb-label text-teal-700">Country</th>
-              <th scope="col" class="py-3 pr-4 mb-label text-teal-700">Group — GCSE/IGCSE/O Level</th>
-              <th scope="col" class="py-3 pr-4 mb-label text-teal-700">Group — AS/A Level</th>
+              <th scope="col" class="py-3 pr-4 mb-label text-teal-700">Group — GCSE/IGCSE/O Level ({PRICE_STATUS_INLINE.confirmed})</th>
+              <th scope="col" class="py-3 pr-4 mb-label text-teal-700">Group — AS/A Level ({PRICE_STATUS_INLINE.confirmed})</th>
               <th scope="col" class="py-3 pr-4 mb-label text-teal-700">One-to-one (per class)</th>
               <th scope="col" class="py-3 mb-label text-teal-700">IB (per 1-hour class)</th>
             </tr>
@@ -209,8 +209,8 @@ const TIME_ZONES: Record<string, string> = {
       </div>
 
       <p class="m-0 mt-6 text-[13px] text-ink-mute">
-        One-to-one rates: {INDICATIVE_NOTE} {ONE_TO_ONE_TERMS.conversionNote} {PRICING_TERMS.freeTrial} {PRICING_TERMS.notPermanentNote} Last confirmed
-        {' '}{PRICING_VERIFIED_DATE} (one-to-one rates {ONE_TO_ONE_TERMS.verifiedDate}).
+        Group fees are {PRICE_STATUS_INLINE.confirmed} for each country and are not currency conversions. One-to-one and IB rates: {INDICATIVE_NOTE} {ONE_TO_ONE_TERMS.conversionNote} {ONE_TO_ONE_RATE_NOTE} {PRICING_TERMS.freeTrial} {PRICING_TERMS.notPermanentNote} Group fees last confirmed
+        {' '}{PRICING_VERIFIED_DATE}; Pakistan one-to-one fee last confirmed {ONE_TO_ONE_TERMS.verifiedDate}.
       </p>
     </Container>
   </Section>

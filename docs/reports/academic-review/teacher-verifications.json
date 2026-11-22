@@ -30,7 +30,7 @@
       "sources": [
         "https://www.cambridgeinternational.org/Images/697205-2026-2028-syllabus.pdf"
       ],
-      "findings": "The reviewer reported no error. This is a re-check of the page after formatting-only changes (D-516, PR 215): eight aligned-column blocks are now real tables and two are fixed-width text blocks, and the page text is otherwise unchanged. The open findings of the latest AI-assisted assessment stay open in docs/reports/academic-qa/assessments.json unless a later assessment closes them; this check does not withdraw them.",
+      "findings": "The reviewer reported no error. This is a re-check of the page after formatting-only changes (D-518, PR 215): eight aligned-column blocks are now real tables and two are fixed-width text blocks, and the page text is otherwise unchanged. The open findings of the latest AI-assisted assessment stay open in docs/reports/academic-qa/assessments.json unless a later assessment closes them; this check does not withdraw them.",
       "corrections": [
         "72f371cb9"
       ],
@@ -49,7 +49,7 @@
       "sources": [
         "https://filestore.aqa.org.uk/resources/chemistry/specifications/AQA-7404-7405-SP-2015.PDF"
       ],
-      "findings": "The reviewer reported no error. This is a re-check of the page after formatting-only changes (D-516, PR 215): the three-relationship block is now a table, and the page text is otherwise unchanged. The open findings of the latest AI-assisted assessment stay open in docs/reports/academic-qa/assessments.json unless a later assessment closes them; this check does not withdraw them.",
+      "findings": "The reviewer reported no error. This is a re-check of the page after formatting-only changes (D-518, PR 215): the three-relationship block is now a table, and the page text is otherwise unchanged. The open findings of the latest AI-assisted assessment stay open in docs/reports/academic-qa/assessments.json unless a later assessment closes them; this check does not withdraw them.",
       "corrections": [
         "72f371cb9"
       ],

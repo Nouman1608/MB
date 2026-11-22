@@ -221,7 +221,7 @@ const placeholder = exampleTerms.length ? `e.g. ${exampleTerms.join(', ')}` : 'a
 
   {record && (
     <p class="m-0 mt-6 text-[14px] text-ink-mute">
-      Source: {record.source} — {/^\d/.test(record.syllabusSeries) ? `${record.syllabusSeries} series` : record.syllabusSeries}. Verified {record.verifiedDate}.
+      Source: {record.source} — {/^\d/.test(record.syllabusSeries) ? `${record.syllabusSeries} series` : record.syllabusSeries}. Topic list verified {record.verifiedDate}.
       {record.subtopicsComplete ? ' Every subtopic the document lists is shown.' : ' Subtopics are shown where Marlbridge has entered them; a topic may have more in the official document.'}
       {record.tiered ? ' This syllabus is tiered: see “About this course” below for the tier structure.' : ''}
       {' '}A topic listed here is part of the syllabus; it does not mean Marlbridge has published material for it. Always check the current syllabus for your examination year.

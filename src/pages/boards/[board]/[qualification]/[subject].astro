@@ -684,7 +684,7 @@ const jsonLd = [
         {hubPastPapers && (
           <div class="m-0"><dt class="m-0 mb-label text-teal-700">{hubPastPapers.label}</dt><dd class="m-0 mt-1 text-ink"><a href={hubPastPapers.href} class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700">{hubPastPapers.detail}</a></dd></div>
         )}
-        <div class="m-0"><dt class="m-0 mb-label text-teal-700">Where was this verified?</dt><dd class="m-0 mt-1 text-ink">{syllabus ? <>{syllabus.verifiedOn}, official {c.board} specification</> : 'Not yet verified against an official source'}</dd></div>
+        <div class="m-0"><dt class="m-0 mb-label text-teal-700">Specification code and title checked</dt><dd class="m-0 mt-1 text-ink">{syllabus ? <>{syllabus.verifiedOn}, against the official {c.board} specification</> : 'Not yet verified against an official source'}</dd></div>
         {practiceCount > 0 && (
           <div class="m-0"><dt class="m-0 mb-label text-teal-700">Free practice questions?</dt><dd class="m-0 mt-1 text-ink">Yes — <a href={`/practice/${syllabus!.code}/`} class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700">{practiceCount} self-check questions</a></dd></div>
         )}
@@ -693,7 +693,7 @@ const jsonLd = [
         )}
       </dl>
       <p class="m-0 mt-6 text-[13.5px] text-ink-mute">
-        Compiled and maintained by the{' '}{teamAuthor ? <a href={routes.author(teamAuthor.id)} class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700">{teamAuthor.data.name}</a> : 'Marlbridge Academic Team'}{syllabus && <>, checked against the official {c.board} specification on {syllabus.verifiedOn}</>}.
+        Compiled and maintained by the{' '}{teamAuthor ? <a href={routes.author(teamAuthor.id)} class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700">{teamAuthor.data.name}</a> : 'Marlbridge Academic Team'}{syllabus && <>. Specification code and title checked against the official {c.board} specification on {syllabus.verifiedOn}; the assessment and topic sections on this page give the dates of their own checks</>}.
       </p>
       <p class="m-0 mt-2 text-[13.5px] text-ink-mute">
         Spotted something wrong on this page?
@@ -845,7 +845,7 @@ const jsonLd = [
                   </p>
                 )}
                 <p class="m-0 mt-3 text-[13px] text-ink-mute">
-                  Source: <a href={a.officialSourceUrl} rel="nofollow noopener" class="underline decoration-rule underline-offset-2">official {c.board} specification</a>, verified {a.verifiedOn}.
+                  Source: <a href={a.officialSourceUrl} rel="nofollow noopener" class="underline decoration-rule underline-offset-2">official {c.board} specification</a>. Assessment structure verified {a.verifiedOn}.
                   {a.notes && <> {a.notes}</>}
                 </p>
               </div>
