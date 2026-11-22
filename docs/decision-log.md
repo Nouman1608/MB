@@ -16798,3 +16798,11 @@ Source: the owner's "Master Academic Quality Assurance, Content Authority & Sear
 - **QA.** QA-0018 (replaces QA-0015, 96) and QA-0019 (replaces QA-0016, 92), AI-assisted, each with a new fixed finding (F10, F13) for the ragged blocks. Both pages are VERIFIED_APPROVED again.
 - **Test.** `src/utils/markdown/__tests__/hast-table-scroll.test.mjs` (7 cases, including that the plugin and the stylesheet are wired) is added to `test:tools`.
 - **Not done.** Other pages have unlabelled aligned blocks of their own, and the same tables-and-blocks check was made only on the four pilot pages. The 2,900 tables that were already cut off are now reachable by scrolling, but nobody has reviewed them one by one.
+
+## D-519 - Owner's answers to two D-517 questions: conversions stay described as from the Pakistan fee; the Gulf one-to-one figures stay (23 Nov 2026)
+
+- **Owner, 23 Nov 2026:** "keep the Pakistan fee wording, leave the Gulf figures".
+- **Conversion base.** The site keeps saying that indicative figures are converted from the Pakistan fee. This closes the open question in D-517: the audit brief had described the one-to-one, IB, AP and OCR indicative figures as conversions of the US dollar price, but the published figures are conversions of the Pakistan fee and do not reproduce from the US dollar prices.
+- **Gulf one-to-one figures.** The twelve figures (SAR, AED, QAR, KWD, BHD, OMR; IGCSE and A Level tiers) stay as published, with the 2026-08-22 rate date beside them. Those rates were never recorded, so the figures cannot be reproduced exactly; they are 2 to 4.3% from the recorded 2026-08-26 snapshot, inside the 8% tolerance `validate-fx-policy.mjs` enforces. They are not to be re-converted without a new owner instruction.
+- **No code or fee changes.** Both answers confirm what D-517 shipped.
+- **Still open from D-517.** The cancellation sentence ("the month you've already paid for") in the one-to-one column of the pricing comparison table, and a native-speaker check of the new Arabic, Urdu and Bengali strings.
