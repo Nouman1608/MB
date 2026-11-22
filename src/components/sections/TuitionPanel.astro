@@ -18,7 +18,7 @@ import type { TuitionPage } from '../../data/tuition-pages';
 import VideoSection from '../media/VideoSection.astro';
 import FAQ from '../ui/FAQ.astro';
 import { teachersForSubjectTitle } from '../../utils/content/subject-teachers';
-import { REGION_PRICING, ONE_TO_ONE_PRICING, PRICING_TERMS, ONE_TO_ONE_TERMS, formatFee, feeFor, QUALIFICATION_TIER, PRICING_VERIFIED_DATE, isIndicative } from '../../data/pricing';
+import { REGION_PRICING, ONE_TO_ONE_PRICING, PRICING_TERMS, ONE_TO_ONE_TERMS, formatFee, feeFor, QUALIFICATION_TIER, PRICING_VERIFIED_DATE, statusInline, PRICE_STATUS_EXPLAINER, ONE_TO_ONE_RATE_NOTE } from '../../data/pricing';
 import { LA_EVIDENCE } from '../../data/learners-academy-evidence';
 import { topicsFor } from '../../data/academic/syllabus-topics';
 import { DIAGNOSTIC_SETS, diagnosticPath } from '../../data/diagnostics';
@@ -110,15 +110,15 @@ const h3 = 'm-0 mb-3 text-[18px] font-semibold tracking-[-0.01em] text-navy-800'
               return (
                 <tr class="border-b border-rule">
                   <th scope="row" class="py-2 pe-4 font-medium text-ink">{r.region}</th>
-                  <td class="py-2 pe-4">{formatFee(feeFor(r, tier), r.currency)} {r.currency}{isIndicative(r) ? '*' : ''}</td>
-                  <td class="py-2">{one ? `${formatFee(feeFor(one, tier), one.currency)} ${one.currency}${isIndicative(one) ? '*' : ''}` : 'Enquire'}</td>
+                  <td class="py-2 pe-4">{formatFee(feeFor(r, tier), r.currency)} {r.currency} <span class="text-[12.5px] text-ink-mute">({statusInline(r)})</span></td>
+                  <td class="py-2">{one ? <>{formatFee(feeFor(one, tier), one.currency)} {one.currency} <span class="text-[12.5px] text-ink-mute">({statusInline(one)})</span></> : 'Enquire'}</td>
                 </tr>
               );
             })}
           </tbody>
         </table>
       </div>
-      <p class="m-0 mt-3 text-[13px] leading-[1.6] text-ink-mute">* {ONE_TO_ONE_TERMS.conversionNote} Group rates last confirmed {PRICING_VERIFIED_DATE}. {PRICING_TERMS.notPermanentNote} Discounts and every term: <a href={routes.pricing} class="underline decoration-teal-500 underline-offset-2">pricing page</a>.</p>
+      <p class="m-0 mt-3 text-[13px] leading-[1.6] text-ink-mute">{PRICE_STATUS_EXPLAINER} {ONE_TO_ONE_TERMS.conversionNote} {ONE_TO_ONE_RATE_NOTE} Group fees set by Marlbridge last confirmed {PRICING_VERIFIED_DATE}; Pakistan one-to-one fee last confirmed {ONE_TO_ONE_TERMS.verifiedDate}. {PRICING_TERMS.notPermanentNote} Discounts and every term: <a href={routes.pricing} class="underline decoration-teal-500 underline-offset-2">pricing page</a>.</p>
     </div>
 
     {topics.length > 0 && (
