@@ -28,7 +28,7 @@ reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
-updatedDate: 2026-11-17
+updatedDate: 2026-11-22
 featured: false
 reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
@@ -136,13 +136,13 @@ Use the definitions word for word in an exam. "Number of protons" alone is not e
 
 From these two numbers you can work out everything else:
 
-```
-protons   = proton number
-neutrons  = mass number − proton number
-electrons = proton number                        (for a neutral atom)
-electrons = proton number − number of charges    (for a positive ion)
-electrons = proton number + number of charges    (for a negative ion)
-```
+| To find | Use |
+|---|---|
+| protons | proton number |
+| neutrons | mass number − proton number |
+| electrons in a neutral atom | proton number |
+| electrons in a positive ion | proton number − number of charges |
+| electrons in a negative ion | proton number + number of charges |
 
 A positive ion has lost electrons, so subtract: Al³⁺ has 13 − 3 = 10 electrons. A negative ion has gained electrons, so add: S²⁻ has 16 + 2 = 18 electrons. The figure below writes both cases as one rule, electrons = protons − charge, where the charge keeps its sign: for S²⁻, 16 − (−2) = 18.
 
@@ -161,13 +161,12 @@ A positive ion has lost electrons, so subtract: Al³⁺ has 13 − 3 = 10 electr
 
 Complete the table for an aluminium atom (proton number 13, mass number 27), an aluminium ion Al³⁺, a sulfide ion S²⁻ (proton number 16, mass number 32) and a calcium ion Ca²⁺ (proton number 20, mass number 40).
 
-```
-particle   protons   neutrons        electrons
-Al         13        27 − 13 = 14    13
-Al3+       13        14              13 − 3 = 10
-S2−        16        32 − 16 = 16    16 + 2 = 18
-Ca2+       20        40 − 20 = 20    20 − 2 = 18
-```
+| Particle | Protons | Neutrons | Electrons |
+|---|---|---|---|
+| Al | 13 | 27 − 13 = 14 | 13 |
+| Al³⁺ | 13 | 14 | 13 − 3 = 10 |
+| S²⁻ | 16 | 32 − 16 = 16 | 16 + 2 = 18 |
+| Ca²⁺ | 20 | 40 − 20 = 20 | 20 − 2 = 18 |
 
 Forming an ion changes **only** the number of electrons. The protons and neutrons stay the same, so Al³⁺ is still aluminium.
 
@@ -181,12 +180,12 @@ Forming an ion changes **only** the number of electrons. The protons and neutron
 
 Electrons fill shells from the nucleus outwards. For proton numbers 1 to 20:
 
-```
-first shell    up to 2 electrons
-second shell   up to 8 electrons
-third shell    up to 8 electrons (for this syllabus range)
-fourth shell   the remaining electrons (only K and Ca in this range)
-```
+| Shell | Electrons it holds |
+|---|---|
+| first shell | up to 2 |
+| second shell | up to 8 |
+| third shell | up to 8 (for this syllabus range) |
+| fourth shell | the remaining electrons (only K and Ca in this range) |
 
 Write the configuration as numbers separated by commas, one per shell, as the syllabus does: 2,8,3 for aluminium.
 
@@ -194,27 +193,22 @@ Write the configuration as numbers separated by commas, one per shell, as the sy
 
 Write the electronic configurations of nitrogen (7), silicon (14), argon (18) and calcium (20).
 
-```
-N   7 electrons:  2 then 5         -> 2,5
-Si  14 electrons: 2, 8, then 4     -> 2,8,4
-Ar  18 electrons: 2, 8, then 8     -> 2,8,8
-Ca  20 electrons: 2, 8, 8, then 2  -> 2,8,8,2
-```
+| Atom | Electrons | Fill the shells | Configuration |
+|---|---|---|---|
+| N | 7 | 2 then 5 | 2,5 |
+| Si | 14 | 2, 8, then 4 | 2,8,4 |
+| Ar | 18 | 2, 8, then 8 | 2,8,8 |
+| Ca | 20 | 2, 8, 8, then 2 | 2,8,8,2 |
 
 ### Worked example 5: ions
 
 Write the electronic configurations of N³⁻, F⁻ and S²⁻.
 
-```
-Step 1: find the number of electrons in the ion
-  N3−   7 + 3 = 10
-  F−    9 + 1 = 10
-  S2−   16 + 2 = 18
-Step 2: fill the shells with that number
-  N3−   2,8
-  F−    2,8
-  S2−   2,8,8
-```
+| Ion | Step 1: electrons in the ion | Step 2: fill the shells |
+|---|---|---|
+| N³⁻ | 7 + 3 = 10 | 2,8 |
+| F⁻ | 9 + 1 = 10 | 2,8 |
+| S²⁻ | 16 + 2 = 18 | 2,8,8 |
 
 Notice that N³⁻, F⁻ and Al³⁺ all end up as 2,8, the same as neon. S²⁻ and Ca²⁺ are 2,8,8, the same as argon. Why ions form is sub-topic 2.4.
 
@@ -243,19 +237,19 @@ Fact 2 does not apply to Group VIII. Helium has only 2 outer electrons, yet it i
 
 (a) An element has the configuration 2,8,5. State its group, its period and its proton number.
 
-```
-outer shell has 5 electrons   -> Group V
-3 shells occupied             -> Period 3
-total electrons 2 + 8 + 5 = 15 -> proton number 15 (phosphorus)
-```
+| Clue | What it tells you |
+|---|---|
+| outer shell has 5 electrons | Group V |
+| 3 shells occupied | Period 3 |
+| total electrons 2 + 8 + 5 = 15 | proton number 15 (phosphorus) |
 
 (b) An element is in Period 2 and Group VI. Write its configuration and identify it.
 
-```
-Period 2   -> 2 shells
-Group VI   -> 6 outer electrons
-configuration 2,6 ; total 8 electrons -> proton number 8 (oxygen)
-```
+| Clue | What it tells you |
+|---|---|
+| Period 2 | 2 shells |
+| Group VI | 6 outer electrons |
+| configuration 2,6; total 8 electrons | proton number 8 (oxygen) |
 
 Use the configuration of the **atom** for this, not of an ion. The configuration of O²⁻ (2,8) would wrongly suggest Group VIII.
 
@@ -273,12 +267,11 @@ In a symbol such as ¹⁸₈O, the **top** number is the mass number and the **b
 
 Oxygen has three naturally occurring isotopes: ¹⁶₈O, ¹⁷₈O and ¹⁸₈O. Give the numbers of protons, neutrons and electrons in each atom.
 
-```
-isotope   protons   neutrons       electrons
-16-O      8         16 − 8 = 8     8
-17-O      8         17 − 8 = 9     8
-18-O      8         18 − 8 = 10    8
-```
+| Isotope | Protons | Neutrons | Electrons |
+|---|---|---|---|
+| 16-O | 8 | 16 − 8 = 8 | 8 |
+| 17-O | 8 | 17 − 8 = 9 | 8 |
+| 18-O | 8 | 18 − 8 = 10 | 8 |
 
 ### Worked example 8: are these isotopes?
 
@@ -333,7 +326,7 @@ When abundances are percentages, the total is 100.
 
 Boron is about 20% boron-10 and 80% boron-11. Calculate its relative atomic mass.
 
-```
+```text
 relative atomic mass = (10 × 20 + 11 × 80) ÷ 100
                      = (200 + 880) ÷ 100
                      = 1080 ÷ 100
@@ -346,7 +339,7 @@ The answer lies between 10 and 11 and closer to 11, because boron-11 is more com
 
 Magnesium is about 79% magnesium-24, 10% magnesium-25 and 11% magnesium-26. Calculate Aᵣ to one decimal place.
 
-```
+```text
 check abundances: 79 + 10 + 11 = 100
 relative atomic mass = (24 × 79 + 25 × 10 + 26 × 11) ÷ 100
                      = (1896 + 250 + 286) ÷ 100

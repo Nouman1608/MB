@@ -175,9 +175,11 @@ The four pages were corrected and reassessed. The records above are kept as hist
 | Record | Replaces | Score | State | What is left |
 |---|---|---:|---|---|
 | QA-0006 | QA-0001 | 95.5 | replaced by QA-0015 | |
-| QA-0015 | QA-0006 | 96.0 | VERIFIED_APPROVED (18 Nov 2026, D-497) | One image label |
+| QA-0015 | QA-0006 | 96.0 | replaced by QA-0018 | |
+| QA-0018 | QA-0015 | 96.0 | VERIFIED_APPROVED (re-confirmed 22 Nov 2026, D-518) | One image label |
 | QA-0007 | QA-0002 | 91.5 | replaced by QA-0016 | |
-| QA-0016 | QA-0007 | 92.0 | VERIFIED_APPROVED (18 Nov 2026, D-497) | One image rounds an intermediate value |
+| QA-0016 | QA-0007 | 92.0 | replaced by QA-0019 | |
+| QA-0019 | QA-0016 | 92.0 | VERIFIED_APPROVED (re-confirmed 22 Nov 2026, D-518) | One image rounds an intermediate value |
 | QA-0008 | QA-0003 | 88.0 | replaced by QA-0010 | |
 | QA-0010 | QA-0008 | 89.0 | replaced by QA-0011 to QA-0014 | |
 | QA-0014 | QA-0013 | 92.5 | VERIFIED_APPROVED (re-check of 4(b) recorded 18 Nov 2026, D-504) | |

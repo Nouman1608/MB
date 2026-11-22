@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-09-02
-updatedDate: 2026-11-17
+updatedDate: 2026-11-22
 featured: false
 ---
 
@@ -141,11 +141,11 @@ For 3.1.2.2, the specification names three types of calculation.
 Learn each relationship and be ready to rearrange it, because a
 question usually gives two quantities and asks for the third.
 
-```
-amount in moles     = mass in g ÷ Mᵣ
-amount in moles     = concentration in mol dm⁻³ × volume in dm³
-number of particles = amount in moles × Avogadro constant
-```
+| To find | Use |
+|---|---|
+| amount in moles (from a mass) | mass in g ÷ Mᵣ |
+| amount in moles (from a solution) | concentration in mol dm⁻³ × volume in dm³ |
+| number of particles | amount in moles × Avogadro constant |
 
 You do not need to memorise the Avogadro constant. A question that
 needs it prints the value.
