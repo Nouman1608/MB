@@ -1,6 +1,6 @@
 # Resource pages: tables and worked-example blocks on phones and desktop
 
-Internal review note, 22 Nov 2026 (D-515). Found while viewing the four pilot pages on the live site in a browser: a phone-sized view (375 x 812) and a desktop-sized view (1024 wide). Nothing here was changed. Both findings are about how the site draws content, and fixing either has a cost that is the owner's to weigh.
+Internal review note, 22 Nov 2026 (D-515). Found while viewing the four pilot pages on the live site in a browser: a phone-sized view (375 x 812) and a desktop-sized view (1024 wide). Both findings are about how the site draws content. **Both were fixed the same day on the owner's instruction (D-516); see "What was done" at the end.** The text below is the finding as it was written.
 
 ## What was checked
 
@@ -39,3 +39,11 @@ Body text is 17.5px on all four. No page scrolls sideways at either size.
 - A real phone. The phone view is a browser emulation at 375 x 812.
 - Screen readers, and keyboard use.
 - AI-assisted. Not a teacher review.
+
+## What was done (D-516, 22 Nov 2026)
+
+The owner said "fix them", knowing the cost of finding 1.
+
+- **Finding 2 (tables)** was fixed site-wide in `src/styles/global.css`, with a scroll box added by a markdown plugin (`src/utils/markdown/hast-table-scroll.mjs`). Reason for the plugin: a survey of all 42,087 tables on 13,578 pages found about 2,900 (6.9%) already wider than a phone screen and cut off, because the page does not scroll; padding alone would have pushed 1,900 to 3,100 more over the edge.
+- **Finding 1 (worked-example blocks)**: eight blocks on the 0620 guide became real tables, two are fenced `text`, and one block on the AQA guide became a table. Prose-like blocks were left alone. The owner re-confirmed both pages and their verifications were replaced; the cost was exactly as predicted.
+- **Not done:** other pages with unlabelled aligned blocks were not looked for, and the pages were not checked on a real phone or with a screen reader.

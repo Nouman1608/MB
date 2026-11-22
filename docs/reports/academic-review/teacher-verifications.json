@@ -25,19 +25,18 @@
       "board": "cambridge",
       "syllabusCode": "0620",
       "syllabusSeries": "2026-2028",
-      "date": "2026-11-18",
+      "date": "2026-11-22",
       "scope": "whole page",
       "sources": [
         "https://www.cambridgeinternational.org/Images/697205-2026-2028-syllabus.pdf"
       ],
-      "findings": "The reviewer reported no errors. The page had been corrected on 17 Nov 2026 (D-496) before his check; the open advisory findings of the AI-assisted assessment are listed in docs/reports/academic-qa/assessments.json and were not withdrawn by this check.",
+      "findings": "The reviewer reported no error. This is a re-check of the page after formatting-only changes (D-516, PR 215): eight aligned-column blocks are now real tables and two are fixed-width text blocks, and the page text is otherwise unchanged. The open findings of the latest AI-assisted assessment stay open in docs/reports/academic-qa/assessments.json unless a later assessment closes them; this check does not withdraw them.",
       "corrections": [
-        "f9b6b484f",
-        "acbafb035"
+        "72f371cb9"
       ],
-      "approval": "approved-after-corrections",
-      "evidence": "Statement by the reviewer (Nouman Ahmed, project owner and credited Chemistry teacher) in the project working session of 18 Nov 2026: check completed on the 18th, scope \"all of it\", and that he holds his own record. He did not say where that record is kept. A copy of every finding and of the full before/after text of the page is saved for him in the owner's OneDrive: Papers 2025/resource check/Review-Records/2026-11-18-academic-qa-pilot-changes.md (SHA-256 c0f8cc1285150d5bbd1c2768dfc91adedb2dab03d44c252df1ba5c3a9223358e). Recorded at his instruction by the AI system that made the corrections.",
-      "contentSha256": "6c230ea73b24e337dd93ba1770b6f52ce96ae72afdfa4ebb69a1df75f7aac27b"
+      "approval": "approved",
+      "evidence": "Statement by the reviewer (Nouman Ahmed, project owner and credited Chemistry teacher) in the project working session of 2026-11-22: \"Yes, approved\", in answer to whether he had read the two changed guides (PR 215) and approved them. He holds his own record and did not say where. Recorded at his instruction by the AI system that made the changes. This record replaces the one of 2026-11-18 (D-497), which was of the text before these changes; that record is in git history.",
+      "contentSha256": "1e0a36a5473da04e27efd72ed51c94d10ced68090f57475ef83528545ece268a"
     },
     {
       "resource": "a-level-aqa-chemistry-relative-mass-and-the-mole",
@@ -45,19 +44,18 @@
       "board": "aqa",
       "syllabusCode": "7405",
       "syllabusSeries": "2015-onwards",
-      "date": "2026-11-18",
+      "date": "2026-11-22",
       "scope": "whole page",
       "sources": [
         "https://filestore.aqa.org.uk/resources/chemistry/specifications/AQA-7404-7405-SP-2015.PDF"
       ],
-      "findings": "The reviewer reported no errors. The page had been corrected on 17 Nov 2026 (D-496) before his check; the open advisory findings of the AI-assisted assessment are listed in docs/reports/academic-qa/assessments.json and were not withdrawn by this check.",
+      "findings": "The reviewer reported no error. This is a re-check of the page after formatting-only changes (D-516, PR 215): the three-relationship block is now a table, and the page text is otherwise unchanged. The open findings of the latest AI-assisted assessment stay open in docs/reports/academic-qa/assessments.json unless a later assessment closes them; this check does not withdraw them.",
       "corrections": [
-        "f9b6b484f",
-        "acbafb035"
+        "72f371cb9"
       ],
-      "approval": "approved-after-corrections",
-      "evidence": "Statement by the reviewer (Nouman Ahmed, project owner and credited Chemistry teacher) in the project working session of 18 Nov 2026: check completed on the 18th, scope \"all of it\", and that he holds his own record. He did not say where that record is kept. A copy of every finding and of the full before/after text of the page is saved for him in the owner's OneDrive: Papers 2025/resource check/Review-Records/2026-11-18-academic-qa-pilot-changes.md (SHA-256 c0f8cc1285150d5bbd1c2768dfc91adedb2dab03d44c252df1ba5c3a9223358e). Recorded at his instruction by the AI system that made the corrections.",
-      "contentSha256": "113b37cdbccfc19a28f36591bf63dda0144d3a24ce0b5aad2e449d681c3f6b43"
+      "approval": "approved",
+      "evidence": "Statement by the reviewer (Nouman Ahmed, project owner and credited Chemistry teacher) in the project working session of 2026-11-22: \"Yes, approved\", in answer to whether he had read the two changed guides (PR 215) and approved them. He holds his own record and did not say where. Recorded at his instruction by the AI system that made the changes. This record replaces the one of 2026-11-18 (D-497), which was of the text before these changes; that record is in git history.",
+      "contentSha256": "6fe0e87c36aa72f9ad162e780d5f39bf56f3cd0aa3b7e6f271fdefbd3bb3b921"
     },
     {
       "resource": "atomic-structure-practice",
