@@ -20,16 +20,17 @@
  */
 import type { Flashcard, FlashcardDeck } from './types.ts';
 
-interface Spec { n: number; f: string; b: string }
+interface Spec { n: number; f: string; b: string; src?: string }
 
 const sub = (topic: string, subtopic: string, number: string, specs: Spec[]): Flashcard[] =>
-  specs.map(({ n, f, b }) => ({
+  specs.map(({ n, f, b, src }) => ({
     id: `${number}-${n}`,
     topic,
     subtopic,
     front: f,
     back: b,
-    origin: 'authored' as const,
+    origin: src ? 'revision-notes' as const : 'authored' as const,
+    ...(src ? { source: src } : {}),
   }));
 
 export const DECK_CAMBRIDGE_O_LEVEL_URDU_LANGUAGE: FlashcardDeck = {
