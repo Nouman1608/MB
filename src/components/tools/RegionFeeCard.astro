@@ -106,7 +106,7 @@ const link = 'underline decoration-teal-500 underline-offset-2 hover:text-teal-7
       const el = cardEl.querySelector<HTMLElement>(selector);
       if (el) el.hidden = !on;
     };
-    // D-516: every block states its status ("Set by Marlbridge" or "Indicative").
+    // D-517: every block states its status ("Set by Marlbridge" or "Indicative").
     const flagText = (key: string, value: string) => {
       const el = cardEl.querySelector<HTMLElement>(`[data-rf-flag="${key}"]`);
       if (el) el.textContent = value;

@@ -27,7 +27,7 @@ const compareRows: [string, string, string, string][] = [
   ['Class size', `Up to ${PRICING_TERMS.maxGroupSize} students`, 'One student', 'One student'],
   ['Discounts', `${PRICING_TERMS.multiSubjectDiscount.percentOff}% for ${PRICING_TERMS.multiSubjectDiscount.minSubjects}+ subjects (IGCSE and A Level subjects count together); ${PRICING_TERMS.siblingDiscount.percentOff}% off each enrolled sibling's fees; the two add together`, 'None', 'None'],
   ['Free trial', 'A real group class', 'A real one-to-one class', 'A real one-to-one class'],
-  // D-516: each column states its own billing basis (per subject per month, or per class).
+  // D-517: each column states its own billing basis (per subject per month, or per class).
   ['Paying and stopping', `${PRICING_TERMS.billingByFormat.group} ${PRICING_TERMS.cancellationPolicy}`, `${PRICING_TERMS.billingByFormat.oneToOne} ${PRICING_TERMS.cancellationPolicy}`, `${PRICING_TERMS.billingByFormat.oneToOne} ${PRICING_TERMS.cancellationPolicy}`],
   ['Other countries', 'Set by Marlbridge for the Gulf, UK and Europe; indicative conversions for Malaysia, Singapore and other countries', 'Set by Marlbridge for Pakistan and US dollars; indicative conversions elsewhere', 'Set for Pakistan and US dollars; indicative conversions for the listed regions'],
 ];
@@ -64,7 +64,7 @@ const faqs = [
   },
   {
     question: 'Will these prices stay the same?',
-    // D-516: the page date is the latest of its sections' dates, never an older one.
+    // D-517: the page date is the latest of its sections' dates, never an older one.
     answer: `${PRICING_TERMS.notPermanentNote} Pricing last verified ${PRICING_LAST_VERIFIED}; each section of this page gives the date its own fees were last confirmed.`,
   },
   {
@@ -124,7 +124,7 @@ const faq = faqNode(faqs);
       <FeeCalculator />
 
       <h2 id="group-fees" class="m-0 mb-4 mt-12 scroll-mt-24 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Group classes, by region</h2>
-      {/* D-516: every fee row on this page carries one of two labels; this line says what they mean. */}
+      {/* D-517: every fee row on this page carries one of two labels; this line says what they mean. */}
       <p id="fee-status" class="m-0 mb-5 max-w-[62ch] scroll-mt-24 text-[15.5px] leading-relaxed text-ink-mute">{PRICE_STATUS_EXPLAINER}</p>
       <div class="overflow-x-auto" tabindex="0" role="group" aria-label="Table, scrolls sideways on small screens">
         <table class="w-full min-w-[560px] border-collapse text-[15px]">

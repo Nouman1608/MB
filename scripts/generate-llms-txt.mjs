@@ -261,7 +261,7 @@ const courseLines = active
 const feeLines = REGION_PRICING.map((r) => {
   const sym = r.symbol ?? r.currency;
   const fee = (n) => `${sym}${/[A-Za-z]$/.test(sym) ? ' ' : ''}${Number(n).toLocaleString('en-GB')}`;
-  // D-516: every row says which kind of figure it is.
+  // D-517: every row says which kind of figure it is.
   const kind = r.status === 'indicative' ? ' Indicative: a guide converted from the Pakistan fee; the invoiced amount may differ slightly with the exchange rate and is confirmed in writing before any payment.' : ' Set by Marlbridge in this currency.';
   return `- ${r.region}: ${fee(r.igcse)} (GCSE, IGCSE, O Level) and ${fee(r.aLevel)} (AS and A Level) per subject per month, group classes.${kind}`;
 });

@@ -92,7 +92,7 @@ test('one-to-one-only courses (D-335): Rs 6,000 per class, conversions elsewhere
   const us = calculateFee({ region: 'Other countries', format: 'one-to-one-only' });
   assert.equal(us.currency, 'USD');
   assert.equal(us.total, 22);
-  // D-516: the US dollar fee is set by Marlbridge.
+  // D-517: the US dollar fee is set by Marlbridge.
   assert.equal(us.indicative, false);
   const kw = calculateFee({ region: 'Kuwait', format: 'one-to-one-only', classes: 3 });
   assert.equal(kw.total, 19.98);

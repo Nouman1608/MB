@@ -56,7 +56,7 @@ export interface FxRate {
   /** PKR value of one unit of this currency. E.g. 74.03 means 1 SAR was
    * worth PKR 74.03 as of FX_RATE_ASOF_DATE. */
   readonly pkrPerUnit: number;
-  /** D-516 -- date of this row's rate where it differs from
+  /** D-517 -- date of this row's rate where it differs from
    * FX_RATE_ASOF_DATE (rows added after the main snapshot). The one record
    * of that date: pages read it through fxRateDate(), never restate it. */
   readonly asOf?: string;
@@ -109,7 +109,7 @@ export const FX_RATES: readonly FxRate[] = [
   { currency: 'SGD', pkrPerUnit: 216.20, asOf: '2026-10-05', source: 'XE mid-market rate' },
 ] as const;
 
-/** D-516 -- the date of the rate recorded for a currency. */
+/** D-517 -- the date of the rate recorded for a currency. */
 export function fxRateDate(currency: string): string {
   const rate = FX_RATES.find((r) => r.currency === currency);
   if (!rate) throw new Error(`No FX_RATES entry for currency "${currency}"`);
@@ -117,7 +117,7 @@ export function fxRateDate(currency: string): string {
 }
 
 /**
- * D-516 -- the exchange-rate source and date line shown beside INDICATIVE
+ * D-517 -- the exchange-rate source and date line shown beside INDICATIVE
  * figures only (never beside a set price). Built from FX_RATES so a date is
  * written in one place. `dateOverrides` is for figures converted at an
  * earlier rate than the recorded snapshot (the first one-to-one conversions,

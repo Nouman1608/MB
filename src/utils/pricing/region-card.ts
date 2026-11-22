@@ -26,7 +26,7 @@ export interface RegionFeeBlock {
   aLevel: string;
   /** True when the table row is marked "Indicative" (D-297). */
   indicative: boolean;
-  /** D-516: the row's status as the tables print it. */
+  /** D-517: the row's status as the tables print it. */
   status: string;
 }
 

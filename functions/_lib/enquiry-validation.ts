@@ -159,7 +159,7 @@ export function sanitizeField(value: unknown, maxLength = MAX_FIELD_LENGTH, keep
 }
 
 /**
- * D-516 -- the trial form's phone rule, in one place. Returns the message to
+ * D-517 -- the trial form's phone rule, in one place. Returns the message to
  * show, or null when the number is acceptable.
  *
  * A number is well formed when it holds only digits, spaces and the usual
@@ -255,7 +255,7 @@ export function validateEnquiry(
     } else if (!data.email && !errors.email) {
       errors.email = 'This field is required.';
     }
-    // D-516 (owner, 22 Nov 2026): a phone number with a country code is
+    // D-517 (owner, 22 Nov 2026): a phone number with a country code is
     // compulsory on EVERY trial form, the translated five-field ones included
     // (until now only the English form asked for it).
     const phoneError = checkTrialPhone(data.phone, data.phoneCountry);

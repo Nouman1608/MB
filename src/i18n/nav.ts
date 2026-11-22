@@ -25,7 +25,7 @@ export interface EnquiryFormLabels {
   country: string;
   message: string;
   optional: string;
-  /** D-516 -- the trial form's required phone field: country-code select and messages. */
+  /** D-517 -- the trial form's required phone field: country-code select and messages. */
   phoneCountryLabel: string;
   phoneCountryPlaceholder: string;
   phoneCountryOther: string;

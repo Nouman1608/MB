@@ -91,7 +91,7 @@ const clientStrings = JSON.stringify({
   requiredError: t.requiredError, emailError: t.emailError, genericFieldError: t.genericFieldError,
   phoneError: t.phoneError,
 });
-// D-516: country name (and aliases) -> dial-code id, as on the English trial
+// D-517: country name (and aliases) -> dial-code id, as on the English trial
 // form, so typing a listed country pre-selects its calling code.
 const dialByCountry = JSON.stringify(Object.fromEntries(DIAL_CODES.flatMap((d) => [d.name, ...(d.aliases ?? [])].map((n) => [n.toLowerCase(), d.id]))));
 ---
@@ -121,7 +121,7 @@ const dialByCountry = JSON.stringify(Object.fromEntries(DIAL_CODES.flatMap((d) =
   {kind === 'school' && <FormField name="role" label={t.role} required><Select name="role" options={t.roleOptions} placeholder={t.rolePlaceholder} required /></FormField>}
 
   <FormField name="email" label={t.email} required><Input name="email" type="email" autocomplete="email" inputmode="email" required /></FormField>
-  {/* D-516 (owner, 22 Nov 2026): on a trial request the phone is required, with a
+  {/* D-517 (owner, 22 Nov 2026): on a trial request the phone is required, with a
       country code, as on the English trial form (TrialRequestForm.astro, D-466).
       The server joins the two, or rejects a number without a code
       (functions/_lib/enquiry-validation.ts, checkTrialPhone). Other enquiry
@@ -221,7 +221,7 @@ const dialByCountry = JSON.stringify(Object.fromEntries(DIAL_CODES.flatMap((d) =
       field.setAttribute('aria-invalid', message ? 'true' : 'false');
     };
 
-    // D-516 -- trial form only: the phone needs a country code (chosen, or typed
+    // D-517 -- trial form only: the phone needs a country code (chosen, or typed
     // with + or 00) and must look like a number. Same test as the server.
     const phoneCountry = form.querySelector<HTMLSelectElement>('[data-phone-country]');
     const phone = form.querySelector<HTMLInputElement>('input[name="phone"]');

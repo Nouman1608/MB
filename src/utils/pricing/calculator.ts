@@ -135,7 +135,7 @@ export function calculateFee(input: CalcInput): CalcResult {
     if (input.region !== ONE_TO_ONE_ONLY_PRICING.region) {
       const conv = oneToOneOnlyConversionFor(input.region);
       if (!conv) return empty('', 'per class', ['There is no price for this region. Please ask us for a written quote.']);
-      // D-516: the US dollar row is set by Marlbridge, not a conversion.
+      // D-517: the US dollar row is set by Marlbridge, not a conversion.
       currency = conv.currency; perClass = conv.perClass; indicative = conv.status === 'indicative';
     }
     notes.push(`${ONE_TO_ONE_ONLY_PRICING.courses}: ${ONE_TO_ONE_ONLY_PRICING.deliveryMode}`);

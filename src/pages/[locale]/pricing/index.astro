@@ -18,7 +18,7 @@ export function getStaticPaths() {
 const { locale } = Astro.params as { locale: LocaleCode };
 const copy = MARKETING_COPY.pricing[locale];
 const nav = NAV_COPY[locale];
-// D-516: status labels and their explanation, shared with the locale home pages.
+// D-517: status labels and their explanation, shared with the locale home pages.
 const L = LOCALE_COPY[locale];
 // Post-v2.0 Quality Closure WS9 (2026-08-30): the combined-discount percentage
 // and the worked example are computed live from src/data/pricing.ts, exactly

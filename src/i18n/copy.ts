@@ -63,11 +63,11 @@ export interface LocaleCopy {
   pricingNote: string;
   tableHeaders: { region: string; currency: string; igcse: string; aLevel: string; status: string };
   termsNote: string;
-  /** D-297 -- explains indicative (converted) rows. D-516: no asterisk; every row carries its status. */
+  /** D-297 -- explains indicative (converted) rows. D-517: no asterisk; every row carries its status. */
   indicativeNote: string;
-  /** D-516 -- the two status labels, as PRICE_STATUS_LABEL in src/data/pricing.ts. */
+  /** D-517 -- the two status labels, as PRICE_STATUS_LABEL in src/data/pricing.ts. */
   statusLabel: Record<PriceStatus, string>;
-  /** D-516 -- what the two labels mean for a parent (PRICE_STATUS_EXPLAINER). */
+  /** D-517 -- what the two labels mean for a parent (PRICE_STATUS_EXPLAINER). */
   statusExplainer: string;
   contactHeading: string;
   contactBody: string;
@@ -162,7 +162,7 @@ export const LOCALE_COPY: Record<LocaleCode, LocaleCopy> = {
 /** Pricing rows shared by all three locale pages -- reads only from the verified pricing data, never re-states numbers. */
 // D-297 -- amounts only: the table already has a currency column, so the
 // symbol is not repeated in the cell ("SAR 270" next to "SAR" read twice).
-// D-516 -- every row carries its status (set by Marlbridge, or indicative),
+// D-517 -- every row carries its status (set by Marlbridge, or indicative),
 // shown in its own column in the page's language; no asterisk.
 export const pricingRows = REGION_PRICING.map((r) => ({
   region: r.region,
