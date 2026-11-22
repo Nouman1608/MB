@@ -18,8 +18,8 @@
       "NOT_SCORED": 18314
     },
     "withCompleteCurrentScore": 4,
-    "meanScore": 92.9,
-    "medianScore": 92.25,
+    "meanScore": 93.3,
+    "medianScore": 92.5,
     "scoreDistribution": {
       "90-100": 4,
       "75-89.9": 0,
@@ -48,13 +48,11 @@
       "TEACHER_CREDITED": 17510
     },
     "findingsOpenBySeverity": {
-      "advisory": 5,
-      "minor": 1
+      "advisory": 3
     },
     "findingsOpenByCheck": {
       "5 source-traceability": 1,
-      "6 clarity-accessibility": 2,
-      "8 editorial-accountability": 3
+      "6 clarity-accessibility": 2
     },
     "riskTier": {
       "4": 154,

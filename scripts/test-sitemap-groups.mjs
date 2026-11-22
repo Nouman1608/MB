@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * D-515 -- the split sitemap, checked on the built site.
+ * D-516 -- the split sitemap, checked on the built site.
  *
  * The sitemap is one index (dist/sitemap-index.xml) and one child file per
  * page type (src/utils/seo/sitemap-groups.ts). This reads the built files

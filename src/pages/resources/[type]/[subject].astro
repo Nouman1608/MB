@@ -62,7 +62,7 @@ const courseGroups = courses
   })
   .filter((g) => g.items.length > 0);
 const general = entries.filter((e) => (index.byResource.get(e.id) ?? []).length === 0);
-// D-515 -- the search title names the qualifications this list covers; the heading stays `title`.
+// D-516 -- the search title names the qualifications this list covers; the heading stays `title`.
 const searchTitle = resourceListingTitle(subjectTitle, meta.title, courseGroups.map((g) => g.c.qualification));
 ---
 <PageLayout

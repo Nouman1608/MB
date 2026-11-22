@@ -282,7 +282,7 @@ const jsonLd = [articleNode({
   updated: d.updatedDate,
   authors: [schemaAuthor(author)],
 }), ...videoNodes(videos), ...(faq ? [faq] : [])];
-// D-515 -- the search title adds the course to a title that does not name it; the heading stays d.title.
+// D-516 -- the search title adds the course to a title that does not name it; the heading stays d.title.
 const searchTitle = resourceSearchTitle({
   title: d.title,
   seoTitle: d.seoTitle,

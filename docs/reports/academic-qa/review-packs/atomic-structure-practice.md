@@ -37,10 +37,10 @@ Eligibility is not assignment: nobody has accepted this page until a record exis
 - QA-0004 (2026-11-15, ai-assisted, AI-assisted (claude-opus-5-5)) — **stale: the page has changed since**
 - QA-0005 (2026-11-15, ai-assisted, AI-assisted (claude-opus-5-5)) — **stale: the page has changed since**
 - QA-0009 (2026-11-17, ai-assisted, AI-assisted (claude-fable-5-2))
+- QA-0017 (2026-11-22, ai-assisted, AI-assisted (claude-fable-5-2))
 
-Open findings in QA-0009 (an AI-assisted finding is a lead to check, not a conclusion):
+Open findings in QA-0017 (an AI-assisted finding is a lead to check, not a conclusion):
 
-- **F13** check 8, advisory — Frontmatter reviewNote; teacher-verifications.json: A credit is recorded with a request for re-review; there is no dated line-by-line review. _Evidence:_ reviewNote: "2026-11-08: FAQ section added; please re-review; ... credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."; teacher-verifications.json results: [].
 - **F14** check 5, advisory — Academic-review ledger, officialSourceUrl: The ledger records one official URL per resource, so this two-syllabus page shows only the 0620 syllabus there. _Evidence:_ scripts/academic-review-ledger.mjs: officialSourceUrl takes the first source found for the page's board and code combinations.
 
 ## Checklist — the ten checks

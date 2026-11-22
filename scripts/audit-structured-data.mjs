@@ -48,7 +48,7 @@ const problems = [];
 const typeCounts = {};
 
 /**
- * D-515 -- author references. An Article or LearningResource names its
+ * D-516 -- author references. An Article or LearningResource names its
  * author as a Person or Organization carrying the `@id` and `url` of that
  * author's profile page. Checked against the built profile pages:
  *   - the URL is absolute, on this site, and a built /authors/<id>/ page

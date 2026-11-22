@@ -18,7 +18,7 @@ import { authorReference, type SchemaAuthor } from './person';
  * add `editor`, `reviewedBy`, `contributor` or any other person property for it.
  */
 /**
- * D-515 -- `authors` are the people or teams the page visibly credits as
+ * D-516 -- `authors` are the people or teams the page visibly credits as
  * its author, in that order, each built with schemaAuthor() from the same
  * authors-collection entry the page's byline reads. Each becomes a Person or
  * Organization carrying the `@id` and URL of its profile page (see

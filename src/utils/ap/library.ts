@@ -111,7 +111,7 @@ export const formatDay = (d: Date): string =>
 /**
  * schema.org LearningResource node -- neutral names only (see AP_MARK_IN_METADATA).
  * `author` is the page's own "Written by" author as authorReference() builds it
- * (D-515); without one the byline is the Academic Team, named without a link.
+ * (D-516); without one the byline is the Academic Team, named without a link.
  */
 export function apLearningResourceNode(e: ApEntry, path: string, absolute: (p: string) => string, author?: object) {
   const c = apCourse(e.data.course);

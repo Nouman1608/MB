@@ -1037,11 +1037,21 @@ const QA_CMD = 'node --experimental-strip-types scripts/validate-academic-qa.mjs
 console.log('\n[AX] D-465 -- an open hard-stop on current content blocks the build, whatever the score');
 withMutation(
   QA_REG,
-  // The gate acts on the newest record for the page's current content. Since the pilot closure
-  // (D-496) that is QA-0006, not QA-0001: a hard-stop planted in a replaced record is history
-  // and blocks nothing, so the fixture targets an open finding of the current record.
-  (text) => text.replace('"severity": "advisory",\n          "hardStop": null,\n          "location": "Figure \\"Relative atomic mass from abundances', '"severity": "critical",\n          "hardStop": "MATERIAL_FACTUAL_ERROR",\n          "location": "Figure \\"Relative atomic mass from abundances'),
-  { validatorCmd: QA_CMD, expectSubstring: 'open hard-stop MATERIAL_FACTUAL_ERROR', label: '95.5/100 page with an open critical factual error is rejected' },
+  // The gate acts on the newest record for the page's current content, so a hard-stop planted in a
+  // replaced record is history and blocks nothing. The fixture therefore finds the NEWEST record of
+  // the 0620 page, whichever it is, and plants the hard-stop in one of its open findings. (It once
+  // named QA-0001, then a figure finding of QA-0006, and broke each time the page was reassessed.)
+  (text) => {
+    const reg = JSON.parse(text);
+    const records = reg.results.filter((r) => r.resource === 'igcse-chemistry-0620-elements-atomic-structure-and-isotopes');
+    const newest = records.reduce((best, r) => (!best || r.date >= best.date ? r : best), null);
+    const target = newest.findings.find((f) => f.status === 'open');
+    if (!target) throw new Error(`AX fixture: ${newest.id} has no open finding to plant a hard-stop in`);
+    target.severity = 'critical';
+    target.hardStop = 'MATERIAL_FACTUAL_ERROR';
+    return `${JSON.stringify(reg, null, 2)}\n`;
+  },
+  { validatorCmd: QA_CMD, expectSubstring: 'open hard-stop MATERIAL_FACTUAL_ERROR', label: 'newest record of the 0620 page with an open critical factual error is rejected' },
 );
 
 console.log('\n[AY] D-465 -- a stored total is rejected (totals are computed)');

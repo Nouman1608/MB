@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * D-515 -- resource search titles: every resource page's <title> source
+ * D-516 -- resource search titles: every resource page's <title> source
  * (seoTitle, or the title with its course added by resourceSearchTitle())
  * must be unique across the library.
  *

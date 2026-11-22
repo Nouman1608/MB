@@ -2,7 +2,7 @@ import { absoluteUrl } from '../seo/meta';
 import { routes } from '../urls/routes';
 
 /**
- * D-515 -- one identity per author across the site.
+ * D-516 -- one identity per author across the site.
  *
  * An author's profile page (/authors/<id>/) declares the entity: a Person
  * for a real teacher, an Organization for a team byline. Every page that

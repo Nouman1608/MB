@@ -207,7 +207,7 @@ const publishedWorkshopPaths = buildWorkshopSitemapRules();
 
 
 /**
- * D-515 -- one child sitemap per page type (sitemap-resources-0.xml,
+ * D-516 -- one child sitemap per page type (sitemap-resources-0.xml,
  * sitemap-courses-0.xml, ...) under the same /sitemap-index.xml, so Search
  * Console reports submitted and indexed counts per type. sitemapGroup()
  * gives every URL exactly one group; the integration writes whatever no
