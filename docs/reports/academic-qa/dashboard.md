@@ -55,18 +55,18 @@ Unassessed resources are not counted as passing: they have no score and are excl
 
 | Resource | Assessment | Method | Score | State | Open findings | Hard-stops |
 | --- | --- | --- | --- | --- | --- | --- |
-| `a-level-aqa-chemistry-relative-mass-and-the-mole` | QA-0016 (2026-11-22) | ai-assisted | 92 | VERIFIED_APPROVED | 1 | — |
+| `a-level-aqa-chemistry-relative-mass-and-the-mole` | QA-0019 (2026-11-22) | ai-assisted | 92 | VERIFIED_APPROVED | 1 | — |
 | `a-level-psychology-clinical-psychology-practice` | QA-0014 (2026-11-18) | ai-assisted | 92.5 | VERIFIED_APPROVED | 0 | — |
 | `atomic-structure-practice` | QA-0017 (2026-11-22) | ai-assisted | 92.5 | VERIFIED_APPROVED | 1 | — |
-| `igcse-chemistry-0620-elements-atomic-structure-and-isotopes` | QA-0015 (2026-11-22) | ai-assisted | 96 | VERIFIED_APPROVED | 1 | — |
+| `igcse-chemistry-0620-elements-atomic-structure-and-isotopes` | QA-0018 (2026-11-22) | ai-assisted | 96 | VERIFIED_APPROVED | 1 | — |
 
 ## Open findings on current content
 
 | Resource | Finding | Check | Severity | Hard-stop | Location | Description |
 | --- | --- | --- | --- | --- | --- | --- |
-| `a-level-aqa-chemistry-relative-mass-and-the-mole` | QA-0016 F12 | 6 | advisory | — | Figure "From a solution to a number of ions" | The image rounds the intermediate value to 3.0 x 10^22 NaCl units before doubling, while the text carries 3.01 x 10^22 and rounds once at the end. The final answer is the same. |
+| `a-level-aqa-chemistry-relative-mass-and-the-mole` | QA-0019 F12 | 6 | advisory | — | Figure "From a solution to a number of ions" | The image rounds the intermediate value to 3.0 x 10^22 NaCl units before doubling, while the text carries 3.01 x 10^22 and rounds once at the end. The final answer is the same. |
 | `atomic-structure-practice` | QA-0017 F14 | 5 | advisory | — | Academic-review ledger, officialSourceUrl | The ledger records one official URL per resource, so this two-syllabus page shows only the 0620 syllabus there. |
-| `igcse-chemistry-0620-elements-atomic-structure-and-isotopes` | QA-0015 F9 | 6 | advisory | — | Figure "Relative atomic mass from abundances" (boron and magnesium) | Inside the image, the number-line labels read "Ar = 10.8" and "Ar = 24.3" with a full-size r, the form the text now reserves for argon. |
+| `igcse-chemistry-0620-elements-atomic-structure-and-isotopes` | QA-0018 F9 | 6 | advisory | — | Figure "Relative atomic mass from abundances" (boron and magnesium) | Inside the image, the number-line labels read "Ar = 10.8" and "Ar = 24.3" with a full-size r, the form the text now reserves for argon. |
 
 ## By board
 
