@@ -12,6 +12,9 @@
 # Conventional sitemap address -> the real sitemap index (D-454)
 /sitemap.xml                                              /sitemap-index.xml  301
 
+# Former single sitemap file -> the sitemap index (D-515)
+/sitemap-0.xml                                            /sitemap-index.xml  301
+
 # Gulf country pages folded into /gulf/ (D-483)
 /saudi-arabia/                                            /gulf/  301
 /saudi-arabia                                             /gulf/  301

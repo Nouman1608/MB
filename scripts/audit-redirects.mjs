@@ -82,9 +82,8 @@ if (dynamicRuleCount >= DYNAMIC_CEILING) {
 
 
 // --- Load sitemap URLs ---
-const sitemapXml = await readFile(join(DIST, 'sitemap-0.xml'), 'utf8');
-const sitemapUrls = [...sitemapXml.matchAll(/<loc>([^<]+)<\/loc>/g)].map((m) => m[1]);
-const sitemapPaths = new Set(sitemapUrls.map((u) => u.replace(SITE, '')));
+const { readSitemapPaths } = await import('./lib/sitemap.mjs');
+const sitemapPaths = new Set(readSitemapPaths(DIST));
 
 // [1] No sitemap URL is also a redirect source
 for (const p of sitemapPaths) {

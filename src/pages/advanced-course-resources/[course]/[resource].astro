@@ -17,6 +17,7 @@ import { apSourceById } from '../../../data/ap/sources';
 import { AP_MARK_IN_METADATA } from '../../../data/ap/config';
 import { routes } from '../../../utils/urls/routes';
 import { faqNode } from '../../../utils/schema/faq';
+import { authorReference, schemaAuthor } from '../../../utils/schema/person';
 import { absoluteUrl } from '../../../utils/seo/meta';
 import {
   getApResources, apUrls, apCourse, apVisibleName, apNoindex, apTypeLabel, apDifficultyLabel, apCalculatorLabel, apStatusLabel,
@@ -80,7 +81,7 @@ const h2 = 'm-0 mb-4 text-[length:var(--text-h2)] font-semibold leading-[1.16] t
     { label: visible, href: apUrls.course(c.slug) },
     { label: apTypeLabel[d.resourceType], href: path },
   ]}
-  jsonLd={[apLearningResourceNode(entry, path, absoluteUrl), ...(faq ? [faq] : [])]}
+  jsonLd={[apLearningResourceNode(entry, path, absoluteUrl, authorReference(schemaAuthor(author))), ...(faq ? [faq] : [])]}
   noindex={apNoindex()}
 >
   <Section surface="white">
