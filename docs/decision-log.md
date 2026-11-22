@@ -16814,6 +16814,13 @@ Source: the owner's "Master Academic Quality Assurance, Content Authority & Sear
 - **Where the briefs and the record differ and the record is kept.** Economics 2.4 is HL only in the record (from the full guide) but the SL brief lists it among the SL topics. Biology: the brief prints "Transfer of energy and matter" (C4.2) and "Sustainability and change" (D4.2), the record has "Transfers of energy and matter" and "Stability and change", and the brief prints no section numbers. Each is stated in the record's notes. A teacher should confirm those three against the full guides.
 - **Documents.** `Specification-checks-IB-DP-briefs-2026-11-22.md` is added to the study guides folder next to the D-514 index, listing the briefs used and the result for each record.
 
+## D-521 - Native-speaker review of the D-517 Arabic, Urdu and Bengali strings is done (23 Nov 2026)
+
+- **Owner, 23 Nov 2026:** "native speaker has reviewed". This closes the translation item left open in D-517 and D-519.
+- **What was reviewed.** The strings D-517 added: the fee status labels, the status explanation and the reworded indicative note on the three home pages and the translated pricing page (`LOCALE_COPY.statusLabel`, `statusExplainer`, `indicativeNote`), and the trial form's phone strings (`phoneCountryLabel`, `phoneCountryPlaceholder`, `phoneCountryOther`, `phoneHint`, `phoneError` in `src/i18n/nav.ts`).
+- **No wording changes.** The owner passed on no corrections, so the strings stay as merged. The log does not record who reviewed them or on what date; only the owner's confirmation above.
+- **Still open from D-517.** The cancellation sentence ("the month you've already paid for") in the one-to-one column of the pricing comparison table. The translated pricing page still prints `unsupportedRegionNote` in English and has no exchange-rate note; that is unbuilt work, not a review item.
+
 ## D-523 - Redrawn figures, aligned working in a fixed-width face, and a type check in the CI gate (23 Nov 2026)
 
 - Owner, 23 Nov 2026, on the open items after D-518: "Yes, do 1, 2 and 4".
