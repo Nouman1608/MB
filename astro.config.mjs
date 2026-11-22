@@ -3,6 +3,7 @@ import sitemap from '@astrojs/sitemap';
 import { satteri } from '@astrojs/markdown-satteri';
 import { rtlBlocksPlugin } from './src/utils/markdown/hast-rtl-blocks.mjs';
 import { partBreaksPlugin } from './src/utils/markdown/hast-part-breaks.mjs';
+import { alignedBlocksPlugin } from './src/utils/markdown/hast-aligned-blocks.mjs';
 import { tableScrollPlugin } from './src/utils/markdown/hast-table-scroll.mjs';
 import tailwindcss from '@tailwindcss/vite';
 import typographicDashes from './src/integrations/typographic-dashes.mjs';
@@ -254,7 +255,7 @@ export default defineConfig({
     // steps look like terminal output, so use a light reading surface.
     syntaxHighlight: { type: 'shiki' },
     shikiConfig: { theme: 'github-light' },
-    processor: satteri({ hastPlugins: [rtlBlocksPlugin, partBreaksPlugin, tableScrollPlugin] }),
+    processor: satteri({ hastPlugins: [rtlBlocksPlugin, partBreaksPlugin, tableScrollPlugin, alignedBlocksPlugin] }),
   },
   integrations: [
     typographicDashes(),

@@ -89,7 +89,7 @@ Step 4: NaCl gives 2 ions per formula unit (Na+ and Cl-):
 **Show every step explicitly** — AQA mark schemes award method marks for correct intermediate steps even if the final answer has a small arithmetic slip. **Always name (or check) the solute** — the ionic multiplier depends on how many ions each formula unit releases.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-relative-mass-and-the-mole--03-solution-to-ions.webp" width="900" height="960" alt="A flask of sodium chloride solution sits above four stacked steps: cm3 to dm3 gives 0.250 dm3, c times V gives 0.050 mol, times the Avogadro constant gives 3.0 x 10^22 formula units, and times 2 gives 6.0 x 10^22 ions." loading="lazy">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-relative-mass-and-the-mole--03-solution-to-ions.webp" width="900" height="960" alt="A flask of sodium chloride solution sits above four stacked steps: cm3 to dm3 gives 0.250 dm3, c times V gives 0.050 mol, times the Avogadro constant gives 3.01 x 10^22 formula units, and times 2 gives 6.0 x 10^22 ions." loading="lazy">
   <figcaption>Convert cm3 to dm3, find moles, then particles, then multiply by the ions per formula unit.</figcaption>
 </figure>
 
