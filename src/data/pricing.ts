@@ -369,6 +369,10 @@ export const PRICING_TERMS = {
    * on pages that show no fee (home, tutoring, trial, programme pages). */
   enrolmentFee: 'There is no separate registration or enrolment fee — the tuition fee is the only cost.',
   cancellationPolicy: "You can cancel or pause at any time. The month you've already paid for isn't refunded, but you won't be billed again once you cancel.",
+  /** D-522 -- owner, 23 Nov 2026: the "month you've already paid for" sentence
+   * is about monthly billing, so it does not belong beside one-to-one tuition,
+   * which is billed per class. This is the part that holds for one-to-one. */
+  cancellationPolicyOneToOne: 'You can cancel or pause at any time.',
   /**
    * Owner confirmed directly in chat, 2026-09-06 (see docs/decision-log.md
    * D-149). Three service facts that were previously stated nowhere on the

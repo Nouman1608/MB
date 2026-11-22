@@ -16821,6 +16821,14 @@ Source: the owner's "Master Academic Quality Assurance, Content Authority & Sear
 - **No wording changes.** The owner passed on no corrections, so the strings stay as merged. The log does not record who reviewed them or on what date; only the owner's confirmation above.
 - **Still open from D-517.** The cancellation sentence ("the month you've already paid for") in the one-to-one column of the pricing comparison table. The translated pricing page still prints `unsupportedRegionNote` in English and has no exchange-rate note; that is unbuilt work, not a review item.
 
+## D-522 - The "month you've already paid for" sentence is removed from the one-to-one columns of the pricing comparison table (23 Nov 2026)
+
+- **Owner, 23 Nov 2026:** "remove the cancellation sentence from the one-to-one column". This closes the last item left open in D-517.
+- **Why.** The sentence ("The month you've already paid for isn't refunded, but you won't be billed again once you cancel") describes monthly billing. One-to-one tuition is billed per class (D-517), so there is no paid month to refund.
+- **Change.** On /pricing/, the "Paying and stopping" row of the comparison table: the one-to-one column and the IB / AP / OCR one-to-one column now read "One-to-one tuition is billed per class, starting once your free trial class has taken place. You can cancel or pause at any time." (`PRICING_TERMS.cancellationPolicyOneToOne`). The group column is unchanged and keeps the full sentence.
+- **Kept: "You can cancel or pause at any time."** It was already published for one-to-one, it does not depend on monthly billing, and the row is titled "Paying and stopping". The owner can ask for it to go too.
+- **Not changed.** `PRICING_TERMS.cancellationPolicy` still appears in full in the pricing and tutoring FAQ answers, on /trial/ and on /international-tutoring/. Those are general answers that cover group classes, not a one-to-one column, and the instruction was about the column. No one-to-one refund rule is stated anywhere; none has been given.
+
 ## D-523 - Redrawn figures, aligned working in a fixed-width face, and a type check in the CI gate (23 Nov 2026)
 
 - Owner, 23 Nov 2026, on the open items after D-518: "Yes, do 1, 2 and 4".
