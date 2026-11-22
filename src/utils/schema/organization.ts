@@ -5,10 +5,10 @@ import { REGION_PRICING } from '../../data/pricing';
 
 /**
  * Site-wide graph nodes. No rating, award or affiliation is emitted until
- * the business confirms verifiable facts. D-349 (audit R-04): the address
- * (owner-confirmed 2026-09-21, site.about.address), the regions the pricing
+ * the business confirms verifiable facts. D-349 (audit R-04): the regions the pricing
  * page lists (REGION_PRICING) and the parent organisation (Learners Academy,
- * as the home page and /about/ state) are now emitted. The contact
+ * as the home page and /about/ state) are emitted. The postal address is deliberately not (Nov 2026 SEO audit):
+ * it is shown as visible text where relevant, not repeated in structured data. The contact
  * email is the exception: it already appears as visible text on every page
  * that renders EnquiryForm (Contact, Tutoring, For Schools), so repeating
  * it here keeps structured data in step with what a visitor can already
@@ -28,15 +28,6 @@ const areaServed = REGION_PRICING
     ? { '@type': 'Country', name, identifier: COUNTRY_CODES[name] }
     : { '@type': 'Place', name }));
 
-const address = site.about.address
-  ? {
-      '@type': 'PostalAddress',
-      streetAddress: site.about.address.split(', ').slice(0, -2).join(', '),
-      addressLocality: site.about.city,
-      addressCountry: 'PK',
-    }
-  : undefined;
-
 export function siteGraph() {
   const org = {
     '@type': 'EducationalOrganization',
@@ -50,7 +41,6 @@ export function siteGraph() {
       url: absoluteUrl('/images/brand/marlbridge-horizontal.svg'),
     },
     ...(site.social.length ? { sameAs: site.social.map((s) => s.href) } : {}),
-    ...(address ? { address } : {}),
     areaServed,
     parentOrganization: {
       '@type': 'EducationalOrganization',

@@ -27,7 +27,7 @@ import RelatedGrid from '../../../../components/layout/RelatedGrid.astro';
 import CTA from '../../../../components/ui/CTA.astro';
 import CourseTopicResources from '../../../../components/academic/CourseTopicResources.astro';
 import { courseTopics } from '../../../../utils/academic/course-topics';
-import { activeOnly, offersClasses, offeringsForSubject, academicHubPath, boardPath, levelPath, isFlagshipCode, type Combination } from '../../../../utils/academic';
+import { LEVEL_FOR_QUALIFICATION, activeOnly, offersClasses, offeringsForSubject, academicHubPath, boardPath, levelPath, isFlagshipCode, type Combination } from '../../../../utils/academic';
 import { subjectBySlug } from '../../../../data/academic/subjects';
 import { courseSubjectNameOverride } from '../../../../data/academic/matrix';
 import { syllabusFor } from '../../../../data/academic/syllabuses';
@@ -229,7 +229,7 @@ const sharedNotes = activeOnly()
   })
   .filter((x): x is { shared: number; o: Combination } => x !== null)
   .map(({ shared, o }) => `${shared} of these ${resources.length} resource${resources.length === 1 ? ' is' : 's are'} also listed on the <a href="${academicHubPath(o)}" class="underline decoration-teal-500 underline-offset-2">${o.board} ${o.qualification} ${o.subject}</a> course (${syllabusFor(o.boardSlug, o.qualificationSlug, o.subjectSlug)?.code ?? o.qualification}). They are the same pages, counted once on each course.`);
-const articles = await relatedArticles({ subject: hubSlug, limit: 3 });
+const articles = await relatedArticles({ subject: hubSlug, levels: [LEVEL_FOR_QUALIFICATION[c.qualificationSlug]].filter(Boolean), limit: 3 });
 
 /**
  * Official syllabus topics, straight from the awarding body's document.

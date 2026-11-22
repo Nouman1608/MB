@@ -36,6 +36,7 @@ const suffix = page.lastPage > 1 ? ` (page ${page.currentPage} of ${page.lastPag
   title={`Resources by ${name}${suffix}`}
   description={`All ${page.total} free resources published on Marlbridge by ${name}${suffix}.`}
   path={path}
+  noindex={page.currentPage > 1}
   eyebrow="Resources"
   heading={`Resources by ${name}`}
   lead={`${page.total} published. Showing ${page.start + 1} to ${page.end + 1}.`}

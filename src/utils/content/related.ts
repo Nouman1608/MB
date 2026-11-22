@@ -141,12 +141,23 @@ export async function relatedResources(
   return out;
 }
 
+/**
+ * Nov 2026 SEO audit (A9) -- the last line used to push any article at all, so
+ * "A Level tuition in Dubai" turned up under O Level Islamiyat and IGCSE
+ * Chemistry. Now only a hand-picked article, or one that shares the page's
+ * subject (or, for an article page, its category) AND whose levels do not
+ * contradict the page's, is returned; with no real match the list is empty and
+ * the page shows no "Related articles" block. An article that names no level is
+ * treated as level-neutral.
+ */
 export async function relatedArticles(
-  opts: { subject?: string; category?: string; picked?: readonly { id: string }[]; excludeId?: string; limit?: number },
+  opts: { subject?: string; category?: string; levels?: readonly string[]; picked?: readonly { id: string }[]; excludeId?: string; limit?: number },
 ): Promise<CollectionEntry<'articles'>[]> {
-  const { subject, category, picked = [], excludeId, limit = 3 } = opts;
+  const { subject, category, levels = [], picked = [], excludeId, limit = 3 } = opts;
   const all = (await getCollection('articles')).filter(isPublishedArticle);
   const byId = new Map(all.map((a) => [a.id, a]));
+  const levelOk = (a: CollectionEntry<'articles'>) =>
+    levels.length === 0 || a.data.levels.length === 0 || a.data.levels.some((l) => levels.includes(l));
 
   const out: CollectionEntry<'articles'>[] = [];
   const push = (entry?: CollectionEntry<'articles'>) => {
@@ -155,9 +166,8 @@ export async function relatedArticles(
   };
 
   for (const p of picked) push(byId.get(p.id));
-  if (subject) for (const a of all) if (a.data.subjects.some((s) => s.id === subject)) push(a);
-  if (category) for (const a of all) if (a.data.category === category) push(a);
-  for (const a of all) push(a);
+  if (subject) for (const a of all) if (a.data.subjects.some((s) => s.id === subject) && levelOk(a)) push(a);
+  if (category) for (const a of all) if (a.data.category === category && levelOk(a)) push(a);
   return out;
 }
 

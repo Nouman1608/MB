@@ -40,8 +40,9 @@ const segment = (i: number): string | undefined => {
 };
 /** Turn a known slug into readable words. Slugs are authored in this
  *  repository, never user input. */
+const ACRONYMS = new Set(['ib', 'ap', 'igcse', 'gcse', 'aqa', 'ocr', 'ial', 'ks3']);
 const words = (slug: string): string =>
-  slug.replace(/-/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase());
+  slug.split('-').map((w) => (ACRONYMS.has(w) ? w.toUpperCase() : w.charAt(0).toUpperCase() + w.slice(1))).join(' ');
 
 let context = '';
 if (path.startsWith('/programs/') && segment(1)) context = ` about ${words(segment(1)!)} tuition`;
