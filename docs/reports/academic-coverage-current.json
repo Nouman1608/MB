@@ -2,10 +2,10 @@
   "report": "Marlbridge academic coverage report (canonical, current)",
   "generator": "scripts/academic-coverage-report-v2.mjs (npm run coverage:academic-v2)",
   "timestampPolicy": "No wall-clock time is written. dataAsOf is the latest date found in the data; staleness is measured against it.",
-  "dataAsOf": "2026-11-20",
+  "dataAsOf": "2026-11-22",
   "rowCount": 166,
   "totals": {
-    "dataAsOf": "2026-11-20",
+    "dataAsOf": "2026-11-22",
     "sourceResources": 18318,
     "activeCombinations": 166,
     "combinationsWithOfficialSourceRecord": 166,

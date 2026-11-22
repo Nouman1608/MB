@@ -1,6 +1,6 @@
 # Practice-question gap report
 
-Generated 2026-11-20T23:05:12.822Z. Section 13 scope: practice-question coverage gaps for the
+Generated 2026-11-22T19:25:28.357Z. Section 13 scope: practice-question coverage gaps for the
 five flagship specifications only -- see src/utils/practice/gap-report.ts for the full
 rationale and docs/decision-log.md D-108 for what this deliberately does not attempt.
 
