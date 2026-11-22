@@ -30,6 +30,10 @@ jobs:
       - name: Build (also runs validate:academic as part of the build chain)
         run: npm run build
 
+      - name: Type check (astro check)
+        # Not part of the build. Without it, type errors in .ts data files reached main unnoticed (D-513, fixed in PR 217).
+        run: npm run check
+
       - name: Run full audit gate (needs the built dist/ above)
         env:
           # The audits load every built page; the site now outgrows Node's default heap.
