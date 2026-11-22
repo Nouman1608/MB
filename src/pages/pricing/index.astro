@@ -28,7 +28,8 @@ const compareRows: [string, string, string, string][] = [
   ['Discounts', `${PRICING_TERMS.multiSubjectDiscount.percentOff}% for ${PRICING_TERMS.multiSubjectDiscount.minSubjects}+ subjects (IGCSE and A Level subjects count together); ${PRICING_TERMS.siblingDiscount.percentOff}% off each enrolled sibling's fees; the two add together`, 'None', 'None'],
   ['Free trial', 'A real group class', 'A real one-to-one class', 'A real one-to-one class'],
   // D-517: each column states its own billing basis (per subject per month, or per class).
-  ['Paying and stopping', `${PRICING_TERMS.billingByFormat.group} ${PRICING_TERMS.cancellationPolicy}`, `${PRICING_TERMS.billingByFormat.oneToOne} ${PRICING_TERMS.cancellationPolicy}`, `${PRICING_TERMS.billingByFormat.oneToOne} ${PRICING_TERMS.cancellationPolicy}`],
+  // D-522: the "month you've already paid for" sentence stays in the group column only.
+  ['Paying and stopping', `${PRICING_TERMS.billingByFormat.group} ${PRICING_TERMS.cancellationPolicy}`, `${PRICING_TERMS.billingByFormat.oneToOne} ${PRICING_TERMS.cancellationPolicyOneToOne}`, `${PRICING_TERMS.billingByFormat.oneToOne} ${PRICING_TERMS.cancellationPolicyOneToOne}`],
   ['Other countries', 'Set by Marlbridge for the Gulf, UK and Europe; indicative conversions for Malaysia, Singapore and other countries', 'Set by Marlbridge for Pakistan and US dollars; indicative conversions elsewhere', 'Set for Pakistan and US dollars; indicative conversions for the listed regions'],
 ];
 const example = discountWorkedExample();
