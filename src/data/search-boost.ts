@@ -12,31 +12,38 @@
  *
  * Review this list when the next Search Console comparison is run: pages
  * that reach page 1 should leave it, and new page-2 pages can join.
+ *
+ * Refreshed 27 Oct 2026 (D-434) from Search Console 9-23 Oct: 17 of the 25
+ * original pages averaged position 10 or better and left the list; the 8
+ * still below page 1 stay, and 17 new page-2 pages (position 10.5-20, 25 or
+ * more impressions) join. If a page that left slips back below position 10
+ * at the next check, put it back.
  */
 export const PAGE_TWO_RESOURCES: ReadonlySet<string> = new Set([
-  'a-nmr-spectroscopy-carbon-13-and-proton-nmr',
-  'ocr-a-level-chemistry-exam-preparation',
-  'aqa-a-level-biology-exam-preparation',
-  'ib-dp-global-politics-subject-guide',
-  'a-level-maths-9709-pure-mathematics-1-circular-measure',
-  'a-level-aqa-sociology-crime-and-deviance-revision-notes',
-  'ib-myp-mathematics-criteria-in-practice-revision-notes',
-  'accounting-non-current-assets',
-  'edexcel-igcse-chemistry-exam-preparation',
-  'ib-dp-computer-science-syllabus-guide',
   'ib-dp-mathematics-aa-hl-further-functions',
   'a-electrochemistry-electrolysis-and-electrode-potentials',
   'edexcel-ial-physics-electric-circuits-practice',
   'ib-myp-individuals-and-societies-syllabus-guide',
   'igcse-accounting-analysis-revision-notes',
-  'igcse-business-marketing-revision-notes',
   'aqa-gcse-chemistry-exam-preparation',
-  'edexcel-ial-biology-exam-preparation',
   'edexcel-ial-chemistry-exam-preparation',
-  'ib-myp-language-acquisition-eassessment-exam-preparation',
-  'a-level-law-criminal-law-revision-notes',
-  'a-level-maths-9709-pure-mathematics-1-series-practice',
-  'a-level-maths-9709-pure-mathematics-1-differentiation-revision-notes',
   'edexcel-igcse-english-language-revision-notes',
-  'ib-dp-history-four-concepts-practice',
+  // Added 27 Oct 2026 (D-434).
+  'ib-dp-environmental-systems-and-societies-syllabus-guide',
+  'edexcel-igcse-chemistry-4ch1-atomic-structure-and-the-periodic-table-revision-notes',
+  'ib-myp-individuals-and-societies-global-contexts-revision-notes',
+  'ib-myp-design-criteria-in-practice-revision-notes',
+  'ib-dp-language-b-paper-1-writing-text-types',
+  'o-level-commerce-commercial-operations-revision-notes',
+  'edexcel-ial-mathematics-the-normal-distribution-standardising-tables-and',
+  'ib-dp-geography-subject-guide',
+  'environmental-management-land-revision-notes',
+  'edexcel-igcse-economics-exam-preparation',
+  'ib-dp-economics-syllabus-guide',
+  'edexcel-ial-mathematics-sequences-and-series-arithmetic-geometric-and-the-revision-notes',
+  'ib-dp-business-management-finance-accounts',
+  'edexcel-ial-physics-mechanics-revision-notes',
+  'ib-dp-chemistry-electron-sharing-reactions',
+  'ib-dp-chemistry-energy-cycles-in-reactions',
+  'a-level-biology-9700-photosynthesis-practice',
 ]);

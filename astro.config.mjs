@@ -11,6 +11,7 @@ import { subjectBySlug } from './src/data/academic/subjects.ts';
 import { topicsFor } from './src/data/academic/syllabus-topics.ts';
 import { isIndexableAcademicPage } from './src/utils/seo/indexability.ts';
 import { bodyWordCount } from './src/utils/seo/word-count.ts';
+import { sitemapGroup, SITEMAP_GROUPS } from './src/utils/seo/sitemap-groups.ts';
 import { AP_LIBRARY_PUBLIC, AP_LIBRARY_BASE } from './src/data/ap/config.ts';
 import { apFlashcardCourses, apFlashcardsPath, apUnitsWithCards, apDeckUpdated } from './src/data/ap-flashcards/index.ts';
 
@@ -205,6 +206,23 @@ function buildWorkshopSitemapRules() {
 const publishedWorkshopPaths = buildWorkshopSitemapRules();
 
 
+/**
+ * D-516 -- one child sitemap per page type (sitemap-resources-0.xml,
+ * sitemap-courses-0.xml, ...) under the same /sitemap-index.xml, so Search
+ * Console reports submitted and indexed counts per type. sitemapGroup()
+ * gives every URL exactly one group; the integration writes whatever no
+ * named group claims to sitemap-pages-0.xml, which is the "pages" group.
+ * The filter and the lastmod values below are unchanged: this decides which
+ * file a URL is written to, not whether it is listed.
+ * scripts/test-sitemap-groups.mjs checks the built files.
+ */
+const sitemapChunks = Object.fromEntries(
+  SITEMAP_GROUPS.filter((group) => group !== 'pages').map((group) => [
+    group,
+    (item) => (sitemapGroup(new URL(item.url).pathname) === group ? item : undefined),
+  ]),
+);
+
 export default defineConfig({
   site: 'https://marlbridge.com',
   trailingSlash: 'always',
@@ -280,6 +298,7 @@ export default defineConfig({
         const lastmod = lastmodBySlug.get(path);
         return lastmod ? { ...item, lastmod } : item;
       },
+      chunks: sitemapChunks,
     }),
   ],
   vite: { plugins: [tailwindcss()] },

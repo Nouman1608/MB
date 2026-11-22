@@ -108,8 +108,12 @@ export const formatExamDate = (iso: string): string =>
 export const formatDay = (d: Date): string =>
   d.toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' });
 
-/** schema.org LearningResource node -- neutral names only (see AP_MARK_IN_METADATA). */
-export function apLearningResourceNode(e: ApEntry, path: string, absolute: (p: string) => string) {
+/**
+ * schema.org LearningResource node -- neutral names only (see AP_MARK_IN_METADATA).
+ * `author` is the page's own "Written by" author as authorReference() builds it
+ * (D-516); without one the byline is the Academic Team, named without a link.
+ */
+export function apLearningResourceNode(e: ApEntry, path: string, absolute: (p: string) => string, author?: object) {
   const c = apCourse(e.data.course);
   return {
     '@type': 'LearningResource',
@@ -127,7 +131,7 @@ export function apLearningResourceNode(e: ApEntry, path: string, absolute: (p: s
     datePublished: e.data.publishedDate.toISOString(),
     dateModified: e.data.updatedDate.toISOString(),
     version: e.data.version,
-    author: { '@type': 'Organization', name: 'Marlbridge Academic Team' },
+    author: author ?? { '@type': 'Organization', name: 'Marlbridge Academic Team' },
     publisher: { '@id': absolute('/#organization') },
     mainEntityOfPage: { '@id': absolute(path) + '#webpage' },
   };

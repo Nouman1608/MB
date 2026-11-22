@@ -17,6 +17,7 @@ import { activeOnly, academicHubPath } from '../../../utils/academic';
 import { combinationIndex, hubSlugFor } from '../../../utils/academic/combination-resources';
 import { syllabusFor } from '../../../data/academic/syllabuses';
 import { QUALIFICATIONS } from '../../../data/academic/qualifications';
+import { resourceListingTitle } from '../../../utils/seo/hub-titles';
 
 export async function getStaticPaths() {
   const resources = await getResources();
@@ -61,9 +62,11 @@ const courseGroups = courses
   })
   .filter((g) => g.items.length > 0);
 const general = entries.filter((e) => (index.byResource.get(e.id) ?? []).length === 0);
+// D-516 -- the search title names the qualifications this list covers; the heading stays `title`.
+const searchTitle = resourceListingTitle(subjectTitle, meta.title, courseGroups.map((g) => g.c.qualification));
 ---
 <PageLayout
-  title={title}
+  title={searchTitle}
   description={`All ${entries.length} free ${subjectTitle} ${meta.title.toLowerCase()} published by Marlbridge, listed by title. ${meta.description}`}
   path={path}
   eyebrow="Resources"

@@ -70,10 +70,8 @@ function htmlPathToUrlPath(file) {
   return p;
 }
 
-const sitemapXml = await readFile(join(DIST, 'sitemap-0.xml'), 'utf8');
-const sitemapPaths = new Set(
-  [...sitemapXml.matchAll(/<loc>([^<]+)<\/loc>/g)].map((m) => m[1].replace(SITE, ''))
-);
+const { readSitemapPaths } = await import('./lib/sitemap.mjs');
+const sitemapPaths = new Set(readSitemapPaths(DIST));
 
 const redirectsRaw = await readFile('public/_redirects', 'utf8');
 const redirectSources = new Set();

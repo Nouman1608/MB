@@ -12,6 +12,7 @@ import RelatedGrid from '../../components/layout/RelatedGrid.astro';
 import { getArticles, readingTime, formatDate } from '../../utils/content/collections';
 import { relatedArticles, relatedResources } from '../../utils/content/related';
 import { articleNode } from '../../utils/schema/article';
+import { schemaAuthor } from '../../utils/schema/person';
 import { routes } from '../../utils/urls/routes';
 
 export async function getStaticPaths() {
@@ -43,8 +44,7 @@ const jsonLd = [articleNode({
   description: d.excerpt,
   published: d.publishedDate,
   updated: d.updatedDate,
-  authorName: author?.data.name ?? 'Marlbridge Academic Team',
-  authorEntityType: author?.data.entityType ?? 'organization',
+  authors: [schemaAuthor(author)],
 })];
 ---
 <PageLayout

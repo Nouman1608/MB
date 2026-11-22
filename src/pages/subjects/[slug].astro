@@ -22,6 +22,7 @@ import { KIND_ORDER, KIND_LABEL } from '../../utils/academic/course-topics';
 import ModeIcon from '../../components/academic/ModeIcon.astro';
 import { MODE } from '../../components/academic/ResourceMode';
 import { QUALIFICATIONS } from '../../data/academic/qualifications';
+import { subjectHubTitle } from '../../utils/seo/hub-titles';
 
 export async function getStaticPaths() {
   const subjects = await getSubjects();
@@ -81,7 +82,7 @@ const teachingSentence =
       : { strong: `${d.title} is taught by Marlbridge today`, rest: ', for each qualification below — these are distinct qualifications with different syllabuses and assessments. Pick the one your school enters you for.' };
 ---
 <PageLayout
-  title={d.seoTitle ?? d.title}
+  title={subjectHubTitle(d.title, courseGroups.map((g) => g.o.qualification), d.seoTitle)}
   description={d.seoDescription ?? d.description}
   path={path}
   eyebrow="Subject"

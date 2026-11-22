@@ -51,10 +51,8 @@ for (const line of redirectsRaw.split('\n')) {
 const builtHtmlFiles = await walk(DIST);
 const builtPaths = new Set(builtHtmlFiles.map(htmlPathToUrlPath));
 
-const sitemapXml = await readFile(join(DIST, 'sitemap-0.xml'), 'utf8');
-const sitemapPaths = new Set(
-  [...sitemapXml.matchAll(/<loc>([^<]+)<\/loc>/g)].map((m) => m[1].replace('https://marlbridge.com', ''))
-);
+const { readSitemapPaths } = await import('./lib/sitemap.mjs');
+const sitemapPaths = new Set(readSitemapPaths(DIST));
 
 const problems = [];
 const inboundLinks = new Map(); // targetPath -> Set(sourcePages)

@@ -261,6 +261,13 @@ for (const [from, to] of [
 lines.push('', '# Conventional sitemap address -> the real sitemap index (D-454)');
 lines.push(`${pad('/sitemap.xml')}/sitemap-index.xml  301`);
 
+// D-516 -- the sitemap is now split by page type (sitemap-resources-0.xml
+// and so on; see src/utils/seo/sitemap-groups.ts), so the single file it
+// used to be no longer exists. Anything that kept its address is sent to
+// the index, which lists every child file.
+lines.push('', '# Former single sitemap file -> the sitemap index (D-516)');
+lines.push(`${pad('/sitemap-0.xml')}/sitemap-index.xml  301`);
+
 // D-483 (owner, 16 Nov 2026) -- the Saudi Arabia, Kuwait and Bahrain pages
 // were near-identical, so they fold back into the Gulf overview.
 lines.push('', '# Gulf country pages folded into /gulf/ (D-483)');
