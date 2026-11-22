@@ -145,17 +145,28 @@ const gaId = site.analytics.ga4MeasurementId;
         24 Sep 2026: its main-thread work cost ~25 points of mobile Performance
         on /uae/). gtag() calls above are queued in dataLayer, so consent
         defaults, consent updates and the page_view are all sent once it
-        arrives -- nothing is lost, only delayed by a moment. */}
+        arrives -- nothing is lost, only delayed by a moment.
+        D-516 -- delayed further: on the visitor's first interaction (tap,
+        key, scroll) or 4 s after load, whichever comes first, so its
+        main-thread work no longer competes with first render on slow phones.
+        A visitor who leaves within ~4 s without touching the page is not
+        counted. */}
     <script is:inline define:vars={{ gaId }}>
       (function () {
+        var loaded = false;
         function loadGtag() {
+          if (loaded) return;
+          loaded = true;
           var s = document.createElement('script');
           s.async = true;
           s.src = 'https://www.googletagmanager.com/gtag/js?id=' + gaId;
           document.head.appendChild(s);
         }
-        if (document.readyState === 'complete') setTimeout(loadGtag, 0);
-        else window.addEventListener('load', function () { setTimeout(loadGtag, 0); });
+        ['pointerdown', 'keydown', 'touchstart', 'scroll'].forEach(function (type) {
+          window.addEventListener(type, loadGtag, { passive: true, once: true });
+        });
+        if (document.readyState === 'complete') setTimeout(loadGtag, 4000);
+        else window.addEventListener('load', function () { setTimeout(loadGtag, 4000); });
       })();
     </script>
 

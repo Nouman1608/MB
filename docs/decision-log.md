@@ -16748,3 +16748,19 @@ Source: the owner's "Master Academic Quality Assurance, Content Authority & Sear
 - **A test fixture fixed at the same time.** Negative-suite case AX planted its test hard-stop in a named record, and so would have stopped working the moment QA-0015 replaced QA-0006 (the gate acts only on the newest record). It now finds the newest record of the 0620 page and plants the hard-stop in one of its open findings. No validator changed.
 - The framework's pilot table is brought up to date, including the Psychology rows, which had not been updated since QA-0010.
 - **The second loose end: the four pages viewed on a phone and a desktop.** No page scrolls sideways at either size; every figure has alt text and none is broken; the two practice sets read well. Two findings, both about how the site draws content, recorded in `docs/content-review/resource-page-tables-and-code-blocks-2026-11-22.md` and not acted on: (1) aligned-column worked-example blocks use the proportional wrapping style meant for working steps, so on the 0620 guide they are ragged on a desktop and break on a phone. The site already has a monospace, scrolling style for blocks fenced as `text` (D-478), so the fix is relabelling 12 blocks on the 0620 guide and 3 on the AQA guide. That edits two verified pages, so both D-497 verifications would go stale until the teacher re-confirms; (2) tables have no borders or padding anywhere on resource pages, which is fine on a desktop and weak on a phone. Changing that restyles every table on 18,318 pages and needs a design decision.
+
+## D-516 - Google Analytics (gtag.js) waits for first interaction or 4 s after load (22 Nov 2026)
+
+**Owner request:** "fix the slow pages, start with Tag Manager".
+
+**Evidence (Lighthouse 12, mobile, live site, 22 Oct and 5 Nov 2026, 13 runs each).** Third-party code on every page was Google's gtag.js (178 KB, 290-420 ms of main-thread time) plus the Cloudflare beacon. Mobile scores moved a lot between runs on identical bytes (home 91 then 69, `/resources/` 96 then 85), as D-318 describes; desktop was 100 throughout. The slowest and most consistent pages were `/trial/`, `/authors/aizaz-raoof-ali/` and `/ar/` (LCP 3.6-4.8 s in the throttled estimate).
+
+| Change | File |
+|---|---|
+| gtag.js was already injected after the window `load` event (D-317). It is now injected on the visitor's first tap, key press or scroll, or 4 s after load, whichever comes first. `gtag()` calls stay queued in `dataLayer`, so consent defaults, consent updates and the page_view are sent when it arrives. Consent handling is unchanged. | `src/components/analytics/ConsentAnalytics.astro` |
+
+**Trade-off.** A visitor who leaves within about 4 s of the load event without touching the page is no longer counted in GA4. Everyone who scrolls or taps is counted as before.
+
+**Verified (headless Chromium, snippet extracted from the component):** no gtag.js request at 1.5 s with no input; a scroll loads it at once; with no input it loads about 4 s after load.
+
+**Not yet measured:** live Lighthouse after deploy. Re-run `/`, `/trial/`, `/authors/aizaz-raoof-ali/` and `/ar/` and compare against the figures above.
