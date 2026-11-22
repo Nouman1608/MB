@@ -174,11 +174,15 @@ The four pages were corrected and reassessed. The records above are kept as hist
 
 | Record | Replaces | Score | State | What is left |
 |---|---|---:|---|---|
-| QA-0006 | QA-0001 | 95.5 | VERIFIED_APPROVED (18 Nov 2026, D-497) | One image label |
-| QA-0007 | QA-0002 | 91.5 | VERIFIED_APPROVED (18 Nov 2026, D-497) | One image rounds an intermediate value |
+| QA-0006 | QA-0001 | 95.5 | replaced by QA-0015 | |
+| QA-0015 | QA-0006 | 96.0 | VERIFIED_APPROVED (18 Nov 2026, D-497) | One image label |
+| QA-0007 | QA-0002 | 91.5 | replaced by QA-0016 | |
+| QA-0016 | QA-0007 | 92.0 | VERIFIED_APPROVED (18 Nov 2026, D-497) | One image rounds an intermediate value |
 | QA-0008 | QA-0003 | 88.0 | replaced by QA-0010 | |
-| QA-0010 | QA-0008 | 89.0 | REVISION_REQUIRED (teacher verification recorded 18 Nov 2026, D-499; score below 90) | Level descriptors for the 10-mark answer; one study procedure unchecked |
-| QA-0009 | QA-0005 | 92.0 | VERIFIED_APPROVED (18 Nov 2026, D-499; owner-reported) | |
+| QA-0010 | QA-0008 | 89.0 | replaced by QA-0011 to QA-0014 | |
+| QA-0014 | QA-0013 | 92.5 | VERIFIED_APPROVED (re-check of 4(b) recorded 18 Nov 2026, D-504) | |
+| QA-0009 | QA-0005 | 92.0 | replaced by QA-0017 | |
+| QA-0017 | QA-0009 | 92.5 | VERIFIED_APPROVED (18 Nov 2026, D-499; owner-reported) | The ledger records one official URL for a two-syllabus page |
 
 Details: `docs/reports/academic-qa/pilot-closure-report.md`. Assessment dates use the UTC date, the one the validator compares against.
 

@@ -35,10 +35,10 @@ Eligibility is not assignment: nobody has accepted this page until a record exis
 
 - QA-0001 (2026-11-15, ai-assisted, AI-assisted (claude-opus-5-5)) — **stale: the page has changed since**
 - QA-0006 (2026-11-17, ai-assisted, AI-assisted (claude-fable-5-2))
+- QA-0015 (2026-11-22, ai-assisted, AI-assisted (claude-fable-5-2))
 
-Open findings in QA-0006 (an AI-assisted finding is a lead to check, not a conclusion):
+Open findings in QA-0015 (an AI-assisted finding is a lead to check, not a conclusion):
 
-- **F7** check 8, advisory — Frontmatter reviewNote; teacher-verifications.json: No documented teacher verification exists; the review note records a credit with no scope. (The description fragment in QA-0001 F7 is fixed.) _Evidence:_ reviewNote "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."; teacher-verifications.json results: [].
 - **F9** check 6, advisory — Figure "Relative atomic mass from abundances" (boron and magnesium): Inside the image, the number-line labels read "Ar = 10.8" and "Ar = 24.3" with a full-size r, the form the text now reserves for argon. _Evidence:_ Image igcse-chemistry-0620-elements-atomic-structure-and-isotopes--01-ar-percentages-boron-magnesium.webp, viewed 17 Nov 2026. The chlorine figure uses a subscript r.
 
 ## Checklist — the ten checks

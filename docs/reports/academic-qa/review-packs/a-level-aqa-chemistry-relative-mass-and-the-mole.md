@@ -36,10 +36,10 @@ Eligibility is not assignment: nobody has accepted this page until a record exis
 
 - QA-0002 (2026-11-15, ai-assisted, AI-assisted (claude-opus-5-5)) — **stale: the page has changed since**
 - QA-0007 (2026-11-17, ai-assisted, AI-assisted (claude-fable-5-2))
+- QA-0016 (2026-11-22, ai-assisted, AI-assisted (claude-fable-5-2))
 
-Open findings in QA-0007 (an AI-assisted finding is a lead to check, not a conclusion):
+Open findings in QA-0016 (an AI-assisted finding is a lead to check, not a conclusion):
 
-- **F10** check 8, minor — Frontmatter reviewNote: The credit was applied the same day as a request for re-review; there is no documented review, so the credit must not be read as a verification. _Evidence:_ reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)." teacher-verifications.json results: [].
 - **F12** check 6, advisory — Figure "From a solution to a number of ions": The image rounds the intermediate value to 3.0 x 10^22 NaCl units before doubling, while the text carries 3.01 x 10^22 and rounds once at the end. The final answer is the same. _Evidence:_ Image a-level-aqa-chemistry-relative-mass-and-the-mole--03-solution-to-ions.webp viewed 17 Nov 2026; page Worked example 2, steps 3 and 4.
 
 ## Checklist — the ten checks
