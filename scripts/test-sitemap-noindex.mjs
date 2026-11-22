@@ -25,9 +25,10 @@ let problems = 0;
 const fail = (msg) => { console.error(`  ✗ ${msg}`); problems++; };
 const ok = (msg) => console.log(`  ✓ ${msg}`);
 
+// Every child sitemap, whatever its group name (sitemap-resources-0.xml, ...), but not the index.
 async function sitemapFiles() {
   const entries = await readdir('dist');
-  return entries.filter((f) => /^sitemap-\d+\.xml$/.test(f));
+  return entries.filter((f) => /^sitemap-.+\.xml$/.test(f) && f !== 'sitemap-index.xml');
 }
 
 async function sitemapUrls() {

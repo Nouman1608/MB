@@ -11,6 +11,8 @@ import { boardBySlug } from '../../data/academic/boards';
 import { qualificationBySlug } from '../../data/academic/qualifications';
 import { relatedResources, relatedArticles, topicSiblings } from '../../utils/content/related';
 import { articleNode } from '../../utils/schema/article';
+import { schemaAuthor } from '../../utils/schema/person';
+import { resourceSearchTitle } from '../../utils/seo/resource-title';
 import { routes, resourceUrl } from '../../utils/urls/routes';
 import { syllabusFor } from '../../data/academic/syllabuses';
 import { syllabusPointsFor, topicRowSuffix, topicContextText } from '../../utils/academic/syllabus-points';
@@ -278,12 +280,21 @@ const jsonLd = [articleNode({
   description: d.description,
   published: d.publishedDate,
   updated: d.updatedDate,
-  authorName: author?.data.name ?? 'Marlbridge Academic Team',
-  authorEntityType: author?.data.entityType ?? 'organization',
+  authors: [schemaAuthor(author)],
 }), ...videoNodes(videos), ...(faq ? [faq] : [])];
+// D-516 -- the search title adds the course to a title that does not name it; the heading stays d.title.
+const searchTitle = resourceSearchTitle({
+  title: d.title,
+  seoTitle: d.seoTitle,
+  resourceType: d.resourceType,
+  subject: d.subject.id,
+  boards: d.boards,
+  qualifications: d.qualifications,
+  syllabusCodes: d.syllabusCodes,
+});
 ---
 <PageLayout
-  title={d.seoTitle ?? d.title}
+  title={searchTitle}
   description={d.seoDescription ?? d.description}
   path={path}
   eyebrow={meta.title}
