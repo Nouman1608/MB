@@ -3,6 +3,7 @@ import sitemap from '@astrojs/sitemap';
 import { satteri } from '@astrojs/markdown-satteri';
 import { rtlBlocksPlugin } from './src/utils/markdown/hast-rtl-blocks.mjs';
 import { partBreaksPlugin } from './src/utils/markdown/hast-part-breaks.mjs';
+import { tableScrollPlugin } from './src/utils/markdown/hast-table-scroll.mjs';
 import tailwindcss from '@tailwindcss/vite';
 import typographicDashes from './src/integrations/typographic-dashes.mjs';
 import { readdirSync, readFileSync } from 'node:fs';
@@ -225,7 +226,9 @@ export default defineConfig({
    * Default Sätteri processor (same features as Astro's default `satteri()`),
    * plus one hast plugin that marks Arabic-script text blocks right-to-left
    * (Qur'an and Hadith passages, Urdu exam text). See
-   * src/utils/markdown/hast-rtl-blocks.mjs. (D-257.)
+   * src/utils/markdown/hast-rtl-blocks.mjs. (D-257.) Two more wrap what would
+   * otherwise run off a phone screen or run together: question parts
+   * (hast-part-breaks.mjs, D-500) and tables (hast-table-scroll.mjs, D-516).
    */
   markdown: {
     // Resource pages use fenced blocks for formulas and worked calculations
@@ -233,7 +236,7 @@ export default defineConfig({
     // steps look like terminal output, so use a light reading surface.
     syntaxHighlight: { type: 'shiki' },
     shikiConfig: { theme: 'github-light' },
-    processor: satteri({ hastPlugins: [rtlBlocksPlugin, partBreaksPlugin] }),
+    processor: satteri({ hastPlugins: [rtlBlocksPlugin, partBreaksPlugin, tableScrollPlugin] }),
   },
   integrations: [
     typographicDashes(),

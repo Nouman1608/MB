@@ -149,6 +149,43 @@
     line-height: 1.55;
   }
   .resource-content pre.astro-code[data-language="text"] code { font-family: inherit; }
+  /* D-516 -- tables in study resources had no borders, padding or header
+     styling, so on a phone the columns ran together and one row could not be
+     told from the next. A light header strip with a teal rule under it, thin
+     row dividers, and text aligned to the top of each row. `break-word`, not
+     `anywhere`: a column never shrinks below its longest word (with `anywhere`
+     a short "Extended" column was cut mid-word).
+     Every table sits in a .table-scroll box (src/utils/markdown/
+     hast-table-scroll.mjs) that scrolls sideways when the table is wider than
+     the screen: about 7% of tables were already too wide for a phone and the
+     page does not scroll, so their right-hand columns were cut off. */
+  .resource-content .table-scroll {
+    margin-block: 1.25rem;
+    max-width: 100%;
+    overflow-x: auto;
+  }
+  .resource-content table {
+    border-collapse: collapse;
+    font-size: 0.95em;
+    line-height: 1.5;
+  }
+  .resource-content :is(th, td) {
+    padding: 0.5rem 0.75rem;
+    text-align: start;
+    vertical-align: top;
+    overflow-wrap: break-word;
+    border-bottom: 1px solid var(--color-rule);
+  }
+  .resource-content th {
+    background-color: var(--color-ivory);
+    color: var(--color-navy-800);
+    font-weight: 600;
+    border-bottom: 2px solid var(--color-teal-600);
+  }
+  @media (max-width: 40rem) {
+    .resource-content table { font-size: 0.9em; }
+    .resource-content :is(th, td) { padding: 0.4rem 0.5rem; }
+  }
   img { max-width: 100%; height: auto; }
 }
 
