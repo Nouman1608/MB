@@ -237,20 +237,20 @@
 
 ## Group class fees
 
-Monthly group fees per subject by region, last confirmed 2026-08-20. One-to-one and IB fees are per class; the [pricing page](https://marlbridge.com/pricing/) has them and marks any figure that is a currency conversion rather than a set price. The first trial class is free.
+Monthly group fees per subject by region; fees set by Marlbridge last confirmed 2026-08-20. One-to-one and IB fees are per class; the [pricing page](https://marlbridge.com/pricing/) has them and marks any figure that is a currency conversion rather than a set price. The first trial class is free.
 
-- Pakistan: Rs 19,000 (GCSE, IGCSE, O Level) and Rs 24,000 (AS and A Level) per subject per month, group classes.
-- Saudi Arabia: SAR 270 (GCSE, IGCSE, O Level) and SAR 330 (AS and A Level) per subject per month, group classes.
-- United Arab Emirates: AED 270 (GCSE, IGCSE, O Level) and AED 330 (AS and A Level) per subject per month, group classes.
-- Qatar: QAR 270 (GCSE, IGCSE, O Level) and QAR 330 (AS and A Level) per subject per month, group classes.
-- Kuwait: KWD 22.5 (GCSE, IGCSE, O Level) and KWD 27.5 (AS and A Level) per subject per month, group classes.
-- Bahrain: BHD 27.5 (GCSE, IGCSE, O Level) and BHD 33.5 (AS and A Level) per subject per month, group classes.
-- Oman: OMR 28 (GCSE, IGCSE, O Level) and OMR 34 (AS and A Level) per subject per month, group classes.
-- United Kingdom: £60 (GCSE, IGCSE, O Level) and £75 (AS and A Level) per subject per month, group classes.
-- Europe: €70 (GCSE, IGCSE, O Level) and €90 (AS and A Level) per subject per month, group classes.
-- Malaysia: RM 279 (GCSE, IGCSE, O Level) and RM 353 (AS and A Level) per subject per month, group classes. Indicative: a currency conversion of the Pakistan fee, confirmed in writing before any payment.
-- Singapore: S$88 (GCSE, IGCSE, O Level) and S$111 (AS and A Level) per subject per month, group classes. Indicative: a currency conversion of the Pakistan fee, confirmed in writing before any payment.
-- Other countries: US$69 (GCSE, IGCSE, O Level) and US$87 (AS and A Level) per subject per month, group classes. Indicative: a currency conversion of the Pakistan fee, confirmed in writing before any payment.
+- Pakistan: Rs 19,000 (GCSE, IGCSE, O Level) and Rs 24,000 (AS and A Level) per subject per month, group classes. Set by Marlbridge in this currency.
+- Saudi Arabia: SAR 270 (GCSE, IGCSE, O Level) and SAR 330 (AS and A Level) per subject per month, group classes. Set by Marlbridge in this currency.
+- United Arab Emirates: AED 270 (GCSE, IGCSE, O Level) and AED 330 (AS and A Level) per subject per month, group classes. Set by Marlbridge in this currency.
+- Qatar: QAR 270 (GCSE, IGCSE, O Level) and QAR 330 (AS and A Level) per subject per month, group classes. Set by Marlbridge in this currency.
+- Kuwait: KWD 22.5 (GCSE, IGCSE, O Level) and KWD 27.5 (AS and A Level) per subject per month, group classes. Set by Marlbridge in this currency.
+- Bahrain: BHD 27.5 (GCSE, IGCSE, O Level) and BHD 33.5 (AS and A Level) per subject per month, group classes. Set by Marlbridge in this currency.
+- Oman: OMR 28 (GCSE, IGCSE, O Level) and OMR 34 (AS and A Level) per subject per month, group classes. Set by Marlbridge in this currency.
+- United Kingdom: £60 (GCSE, IGCSE, O Level) and £75 (AS and A Level) per subject per month, group classes. Set by Marlbridge in this currency.
+- Europe: €70 (GCSE, IGCSE, O Level) and €90 (AS and A Level) per subject per month, group classes. Set by Marlbridge in this currency.
+- Malaysia: RM 279 (GCSE, IGCSE, O Level) and RM 353 (AS and A Level) per subject per month, group classes. Indicative: a guide converted from the Pakistan fee; the invoiced amount may differ slightly with the exchange rate and is confirmed in writing before any payment.
+- Singapore: S$88 (GCSE, IGCSE, O Level) and S$111 (AS and A Level) per subject per month, group classes. Indicative: a guide converted from the Pakistan fee; the invoiced amount may differ slightly with the exchange rate and is confirmed in writing before any payment.
+- Other countries: US$69 (GCSE, IGCSE, O Level) and US$87 (AS and A Level) per subject per month, group classes. Indicative: a guide converted from the Pakistan fee; the invoiced amount may differ slightly with the exchange rate and is confirmed in writing before any payment.
 
 ## More
 

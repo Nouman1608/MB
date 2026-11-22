@@ -27,13 +27,15 @@ import { faqNode } from '../../utils/schema/faq';
 import { TRIAL_STEPS } from '../../data/tuition';
 import {
   REGION_PRICING, ONE_TO_ONE_PRICING, PRICING_TERMS, PRICING_VERIFIED_DATE, ONE_TO_ONE_TERMS,
-  IB_PRICING, IB_USD_PRICING, formatFee, isIndicative, INDICATIVE_NOTE, ibConversionFor,
+  IB_PRICING, IB_USD_PRICING, formatFee, isIndicative, INDICATIVE_NOTE, ibConversionFor, statusLabel, PRICE_STATUS_LABEL,
   isOneToOneOnlyCourse, oneToOneOnlyConversionFor, ONE_TO_ONE_ONLY_NOTE,
 } from '../../data/pricing';
 import { site } from '../../data/site';
 import { timeRows, clock, LAHORE_UTC_OFFSET, hubIsTaught, RESOURCES_ONLY_SUFFIX, tutorCoursesFor, type Market } from '../../data/markets';
 import TutorBySubject from './TutorBySubject.astro';
 import CountryGuides from './CountryGuides.astro';
+
+import { fxRateDate } from '../../data/fx-policy';
 
 interface Props { market: Market }
 const { market: m } = Astro.props;
@@ -259,24 +261,24 @@ const summary = `Marlbridge teaches ${m.name}-based students live online, one-to
                 <th scope="row" class="py-3 pr-4 text-left font-normal text-ink">Group class, per subject per month</th>
                 <td class="py-3 pr-4 text-ink-mute">{formatFee(group.igcse, group.currency)} {group.currency}</td>
                 <td class="py-3 pr-4 text-ink-mute">{formatFee(group.aLevel, group.currency)} {group.currency}</td>
-                <td class="py-3 text-ink-mute">{isIndicative(group) ? 'Indicative' : 'Confirmed'}</td>
+                <td class="py-3 text-ink-mute">{statusLabel(group)}</td>
               </tr>
               <tr class="border-b border-rule">
                 <th scope="row" class="py-3 pr-4 text-left font-normal text-ink">One-to-one, per class</th>
                 <td class="py-3 pr-4 text-ink-mute">{formatFee(oneToOne.igcse, oneToOne.currency)} {oneToOne.currency}</td>
                 <td class="py-3 pr-4 text-ink-mute">{formatFee(oneToOne.aLevel, oneToOne.currency)} {oneToOne.currency}</td>
-                <td class="py-3 text-ink-mute">{isIndicative(oneToOne) ? 'Indicative' : 'Confirmed'}</td>
+                <td class="py-3 text-ink-mute">{statusLabel(oneToOne)}</td>
               </tr>
               <tr class="border-b border-rule">
                 <th scope="row" class="py-3 pr-4 text-left font-normal text-ink">IB, one-to-one, per 1-hour class</th>
                 <td class="py-3 pr-4 text-ink-mute" colspan="2">{ibUsd ? `MYP ${IB_USD_PRICING.myp} ${IB_USD_PRICING.currency}, Diploma ${IB_USD_PRICING.dp} ${IB_USD_PRICING.currency}` : ib ? `${formatFee(ib.perClass, ib.currency)} ${ib.currency}` : 'Confirmed in writing when you enquire'}</td>
-                <td class="py-3 text-ink-mute">{ibUsd ? 'Confirmed' : ib ? 'Indicative' : 'On enquiry'}</td>
+                <td class="py-3 text-ink-mute">{ibUsd ? PRICE_STATUS_LABEL[IB_USD_PRICING.status] : ib ? statusLabel(ib) : 'On enquiry'}</td>
               </tr>
               {oneToOneOnly && (
                 <tr class="border-b border-rule">
                   <th scope="row" class="py-3 pr-4 text-left font-normal text-ink">OCR courses, and OxfordAQA Islamiyat and Pakistan Studies, one-to-one only, per class</th>
                   <td class="py-3 pr-4 text-ink-mute" colspan="2">{formatFee(oneToOneOnly.perClass, oneToOneOnly.currency)} {oneToOneOnly.currency}</td>
-                  <td class="py-3 text-ink-mute">Indicative</td>
+                  <td class="py-3 text-ink-mute">{statusLabel(oneToOneOnly)}</td>
                 </tr>
               )}
             </tbody>
@@ -286,7 +288,7 @@ const summary = `Marlbridge teaches ${m.name}-based students live online, one-to
         <p class="m-0 text-[15.5px] text-ink-mute">{PRICING_TERMS.unsupportedRegionNote}</p>
       )}
       <p class="m-0 mt-4 max-w-[70ch] text-[13px] text-ink-mute">
-        {oneToOneOnly ? `${ONE_TO_ONE_ONLY_NOTE} ` : ''}{ibUsd ? `${m.name} has no separate price; these are the US dollar prices for countries without their own fee. "Confirmed" fees are set by Marlbridge in US dollars. ` : group && oneToOne && (!isIndicative(group) || !isIndicative(oneToOne)) ? `"Confirmed" fees are set by Marlbridge for ${m.name}. ` : ''}{INDICATIVE_NOTE} {ibUsd ? `IB is priced in US dollars ${IB_USD_PRICING.unit} (set ${IB_USD_PRICING.verifiedDate}).` : `The IB fee is set in Pakistan at ${IB_PRICING.perClass.toLocaleString('en-US')} ${IB_PRICING.currency} ${IB_PRICING.unit}; the figure above is its conversion (IB rates converted ${IB_PRICING.verifiedDate}).`} {PRICING_TERMS.notPermanentNote} Group fees last confirmed {PRICING_VERIFIED_DATE}; one-to-one figures last confirmed or converted {ONE_TO_ONE_TERMS.verifiedDate}{m.slug === 'malaysia' ? '; Malaysia figures converted 2026-09-23' : m.slug === 'singapore' ? '; Singapore figures converted at the 5 October 2026 rate' : ''}.
+        {oneToOneOnly ? `${ONE_TO_ONE_ONLY_NOTE} ` : ''}{ibUsd ? `${m.name} has no separate price; these are the US dollar prices for countries without their own fee. "${PRICE_STATUS_LABEL.confirmed}" fees are fixed in US dollars and are not currency conversions. ` : group && oneToOne && (!isIndicative(group) || !isIndicative(oneToOne)) ? `"${PRICE_STATUS_LABEL.confirmed}" fees are fixed for ${m.name} and are not currency conversions. ` : ''}{INDICATIVE_NOTE} {ibUsd ? `IB is priced in US dollars ${IB_USD_PRICING.unit} (set ${IB_USD_PRICING.verifiedDate}).` : `The IB fee is set in Pakistan at ${IB_PRICING.perClass.toLocaleString('en-US')} ${IB_PRICING.currency} ${IB_PRICING.unit}; the figure above is its conversion (IB rates converted ${IB_PRICING.verifiedDate}).`} {PRICING_TERMS.notPermanentNote} Group fees last confirmed {PRICING_VERIFIED_DATE}; one-to-one figures last confirmed or converted {ONE_TO_ONE_TERMS.verifiedDate}{m.slug === 'malaysia' ? `; Malaysia figures converted at the ${fxRateDate('MYR')} rate` : m.slug === 'singapore' ? `; Singapore figures converted at the ${fxRateDate('SGD')} rate` : ''}.
       </p>
     </Container>
   </Section>

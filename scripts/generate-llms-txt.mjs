@@ -261,7 +261,8 @@ const courseLines = active
 const feeLines = REGION_PRICING.map((r) => {
   const sym = r.symbol ?? r.currency;
   const fee = (n) => `${sym}${/[A-Za-z]$/.test(sym) ? ' ' : ''}${Number(n).toLocaleString('en-GB')}`;
-  const kind = r.status === 'indicative' ? ' Indicative: a currency conversion of the Pakistan fee, confirmed in writing before any payment.' : '';
+  // D-516: every row says which kind of figure it is.
+  const kind = r.status === 'indicative' ? ' Indicative: a guide converted from the Pakistan fee; the invoiced amount may differ slightly with the exchange rate and is confirmed in writing before any payment.' : ' Set by Marlbridge in this currency.';
   return `- ${r.region}: ${fee(r.igcse)} (GCSE, IGCSE, O Level) and ${fee(r.aLevel)} (AS and A Level) per subject per month, group classes.${kind}`;
 });
 
@@ -295,7 +296,7 @@ const lines = [
   '',
   '## Group class fees',
   '',
-  `Monthly group fees per subject by region, last confirmed ${PRICING_VERIFIED_DATE}. One-to-one and IB fees are per class; the [pricing page](${SITE_URL}/pricing/) has them and marks any figure that is a currency conversion rather than a set price. ${PRICING_TERMS.freeTrial}`,
+  `Monthly group fees per subject by region; fees set by Marlbridge last confirmed ${PRICING_VERIFIED_DATE}. One-to-one and IB fees are per class; the [pricing page](${SITE_URL}/pricing/) has them and marks any figure that is a currency conversion rather than a set price. ${PRICING_TERMS.freeTrial}`,
   '',
   ...feeLines,
   '',

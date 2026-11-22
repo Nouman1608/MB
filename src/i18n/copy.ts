@@ -43,7 +43,7 @@
  * bringing this page in line with what the rest of the site already
  * says. Same AI-assisted-translation caveat as the rest of this file.
  */
-import { REGION_PRICING, formatFee, feeFor, isIndicative } from '../data/pricing';
+import { REGION_PRICING, formatFee, feeFor, isIndicative, type PriceStatus } from '../data/pricing';
 
 export type LocaleCode = 'ar' | 'ur' | 'bn';
 
@@ -61,10 +61,14 @@ export interface LocaleCopy {
   locationNote: string;
   pricingHeading: string;
   pricingNote: string;
-  tableHeaders: { region: string; currency: string; igcse: string; aLevel: string };
+  tableHeaders: { region: string; currency: string; igcse: string; aLevel: string; status: string };
   termsNote: string;
-  /** D-297 -- explains the asterisk on indicative (converted) rows. */
+  /** D-297 -- explains indicative (converted) rows. D-516: no asterisk; every row carries its status. */
   indicativeNote: string;
+  /** D-516 -- the two status labels, as PRICE_STATUS_LABEL in src/data/pricing.ts. */
+  statusLabel: Record<PriceStatus, string>;
+  /** D-516 -- what the two labels mean for a parent (PRICE_STATUS_EXPLAINER). */
+  statusExplainer: string;
   contactHeading: string;
   contactBody: string;
   contactButton: string;
@@ -89,9 +93,11 @@ export const LOCALE_COPY: Record<LocaleCode, LocaleCopy> = {
     locationNote: 'تُقام الدروس الحضورية فقط من أكاديميتنا في باكستان؛ وفي أي مكان آخر، نقدّم التدريس مباشرة عبر الإنترنت.',
     pricingHeading: 'الأسعار',
     pricingNote: 'أسعار الدروس الجماعية معروضة بعملة منطقتك، لكل مادة شهريًا. أما الدروس الفردية وتدريس IB فتُحتسب لكل درس (راجع صفحة الأسعار).',
-    tableHeaders: { region: 'المنطقة', currency: 'العملة', igcse: 'IGCSE', aLevel: 'A Level' },
+    tableHeaders: { region: 'المنطقة', currency: 'العملة', igcse: 'IGCSE', aLevel: 'A Level', status: 'الحالة' },
     termsNote: 'الدرس التجريبي الأول مجاني. تُطبَّق على الدروس الجماعية خصومات عند تسجيل ثلاث مواد أو أكثر، وكذلك للأشقاء المسجَّلين معًا.',
-    indicativeNote: '* تقديري: تحويل عملة لرسوم باكستان، وليس سعرًا محددًا بشكل منفصل لذلك البلد. يُؤكَّد الرسم الدقيق كتابيًا قبل أي دفع.',
+    indicativeNote: 'تقديري: مبلغ استرشادي بعملتك، محوَّل من رسوم باكستان. قد يختلف مبلغ فاتورتك قليلًا بحسب سعر الصرف، ويُؤكَّد الرسم الدقيق كتابيًا قبل أي دفع.',
+    statusLabel: { confirmed: 'يحدده مارلبريدج', indicative: 'تقديري' },
+    statusExplainer: '«يحدده مارلبريدج» تعني أن الرسم ثابت بتلك العملة، وهو المبلغ الذي تُصدَر به فاتورتك. «تقديري» تعني أن المبلغ استرشادي بعملتك، محوَّل من رسم محدد؛ وقد يختلف مبلغ فاتورتك قليلًا بحسب سعر الصرف.',
     contactHeading: 'هل أنتم مستعدون للبدء؟',
     contactBody: 'أخبرونا بما تحتاجونه وسنرد عليكم عبر واتساب خلال ساعة (من 8 صباحًا حتى 11 مساءً بتوقيت باكستان، كل يوم)، وعبر البريد الإلكتروني في اليوم نفسه.',
     contactButton: 'الانتقال إلى نموذج الاستفسار',
@@ -114,9 +120,11 @@ export const LOCALE_COPY: Record<LocaleCode, LocaleCopy> = {
     locationNote: 'کلاس روم میں حاضری کے ساتھ تدریس صرف پاکستان میں ہماری اکیڈمی سے کی جاتی ہے؛ باقی ہر جگہ ہم براہِ راست آن لائن پڑھاتے ہیں۔',
     pricingHeading: 'فیس',
     pricingNote: 'گروپ کلاسوں کی فیس آپ کے علاقے کی کرنسی میں، فی مضمون فی ماہ دکھائی گئی ہے۔ انفرادی کلاسوں اور آئی بی کی تدریس کی فیس فی کلاس ہے (فیس کا صفحہ دیکھیں)۔',
-    tableHeaders: { region: 'علاقہ', currency: 'کرنسی', igcse: 'IGCSE', aLevel: 'اے لیول' },
+    tableHeaders: { region: 'علاقہ', currency: 'کرنسی', igcse: 'IGCSE', aLevel: 'اے لیول', status: 'حیثیت' },
     termsNote: 'پہلا ٹرائل سبق مفت ہے۔ گروپ کلاسوں میں تین یا زیادہ مضامین اور اکٹھے داخلہ لینے والے بہن بھائیوں کے لیے رعایت دی جاتی ہے۔',
-    indicativeNote: '* تخمینی: پاکستان کی فیس کی کرنسی میں تبدیلی، اس ملک کے لیے الگ سے مقرر کردہ قیمت نہیں۔ کسی بھی ادائیگی سے پہلے درست فیس کی تحریری تصدیق کی جاتی ہے۔',
+    indicativeNote: 'تخمینی: آپ کی کرنسی میں ایک اندازہ، جو پاکستان کی فیس سے تبدیل کیا گیا ہے۔ شرحِ تبادلہ کے مطابق آپ کے بل کی رقم کچھ مختلف ہو سکتی ہے، اور کسی بھی ادائیگی سے پہلے درست فیس کی تحریری تصدیق کی جاتی ہے۔',
+    statusLabel: { confirmed: 'مارل برج کی مقرر کردہ', indicative: 'تخمینی' },
+    statusExplainer: '"مارل برج کی مقرر کردہ" کا مطلب ہے کہ فیس اسی کرنسی میں طے ہے، اور آپ کا بل اسی رقم کا بنتا ہے۔ "تخمینی" کا مطلب ہے کہ یہ رقم آپ کی کرنسی میں ایک اندازہ ہے، جو مقرر کردہ فیس سے تبدیل کی گئی ہے؛ شرحِ تبادلہ کے مطابق آپ کے بل کی رقم کچھ مختلف ہو سکتی ہے۔',
     contactHeading: 'شروع کرنے کے لیے تیار ہیں؟',
     contactBody: 'ہمیں بتائیں کہ آپ کو کیا چاہیے، ہم واٹس ایپ پر ایک گھنٹے کے اندر (پاکستانی وقت کے مطابق روزانہ صبح 8 سے رات 11 بجے تک) اور ای میل پر اسی دن جواب دیں گے۔',
     contactButton: 'استفسار فارم پر جائیں',
@@ -139,9 +147,11 @@ export const LOCALE_COPY: Record<LocaleCode, LocaleCopy> = {
     locationNote: 'সশরীরে ক্লাস কেবল পাকিস্তানে আমাদের একাডেমি থেকে পড়ানো হয়; অন্য সব জায়গায় আমরা সরাসরি অনলাইনে পড়াই।',
     pricingHeading: 'মূল্য',
     pricingNote: 'গ্রুপ ক্লাসের ফি প্রতি বিষয়ে প্রতি মাসে, আপনার অঞ্চলের মুদ্রায় দেখানো হয়েছে। একক ক্লাস ও IB টিউশনের ফি প্রতি ক্লাসে (মূল্য পৃষ্ঠা দেখুন)।',
-    tableHeaders: { region: 'অঞ্চল', currency: 'মুদ্রা', igcse: 'IGCSE', aLevel: 'A Level' },
+    tableHeaders: { region: 'অঞ্চল', currency: 'মুদ্রা', igcse: 'IGCSE', aLevel: 'A Level', status: 'অবস্থা' },
     termsNote: 'প্রথম ট্রায়াল ক্লাসটি বিনামূল্যে। গ্রুপ ক্লাসে তিন বা তার বেশি বিষয় এবং একসঙ্গে ভর্তি হওয়া ভাইবোনদের জন্য ছাড় প্রযোজ্য।',
-    indicativeNote: '* আনুমানিক: পাকিস্তানের ফির মুদ্রা রূপান্তর, সেই দেশের জন্য আলাদাভাবে নির্ধারিত মূল্য নয়। কোনো অর্থপ্রদানের আগে সঠিক ফি লিখিতভাবে নিশ্চিত করা হয়।',
+    indicativeNote: 'আনুমানিক: আপনার মুদ্রায় একটি ধারণা, যা পাকিস্তানের ফি থেকে রূপান্তরিত। বিনিময় হার অনুযায়ী আপনার ইনভয়েসের অঙ্ক সামান্য ভিন্ন হতে পারে, এবং কোনো অর্থপ্রদানের আগে সঠিক ফি লিখিতভাবে নিশ্চিত করা হয়।',
+    statusLabel: { confirmed: 'মার্লব্রিজ নির্ধারিত', indicative: 'আনুমানিক' },
+    statusExplainer: '"মার্লব্রিজ নির্ধারিত" মানে ফি ওই মুদ্রাতেই স্থির, এবং আপনার ইনভয়েস সেই অঙ্কেই হয়। "আনুমানিক" মানে অঙ্কটি আপনার মুদ্রায় একটি ধারণা, যা নির্ধারিত ফি থেকে রূপান্তরিত; বিনিময় হার অনুযায়ী আপনার ইনভয়েসের অঙ্ক সামান্য ভিন্ন হতে পারে।',
     contactHeading: 'শুরু করতে প্রস্তুত?',
     contactBody: 'আপনার প্রয়োজন আমাদের জানান, আমরা WhatsApp-এ এক ঘণ্টার মধ্যে (প্রতিদিন, পাকিস্তান সময় সকাল ৮টা থেকে রাত ১১টা) এবং ইমেইলে একই দিনে উত্তর দেব।',
     contactButton: 'অনুসন্ধান ফর্মে যান',
@@ -152,9 +162,11 @@ export const LOCALE_COPY: Record<LocaleCode, LocaleCopy> = {
 /** Pricing rows shared by all three locale pages -- reads only from the verified pricing data, never re-states numbers. */
 // D-297 -- amounts only: the table already has a currency column, so the
 // symbol is not repeated in the cell ("SAR 270" next to "SAR" read twice).
-// Indicative (converted) rows carry an asterisk explained under the table.
+// D-516 -- every row carries its status (set by Marlbridge, or indicative),
+// shown in its own column in the page's language; no asterisk.
 export const pricingRows = REGION_PRICING.map((r) => ({
-  region: isIndicative(r) ? `${r.region} *` : r.region,
+  region: r.region,
+  status: (r.status ?? 'confirmed') as PriceStatus,
   currency: r.currency,
   igcse: formatFee(feeFor(r, 'igcse'), r.currency),
   aLevel: formatFee(feeFor(r, 'a-level'), r.currency),

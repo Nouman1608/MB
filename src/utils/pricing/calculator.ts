@@ -20,7 +20,7 @@
 import {
   REGION_PRICING, ONE_TO_ONE_PRICING, IB_PRICING, IB_USD_PRICING, PRICING_TERMS,
   ONE_TO_ONE_ONLY_PRICING, oneToOneOnlyConversionFor,
-  THREE_DECIMAL_CURRENCIES, ibConversionFor, isIndicative, formatFee,
+  THREE_DECIMAL_CURRENCIES, ibConversionFor, isIndicative, formatFee, INDICATIVE_NOTE,
 } from '../../data/pricing.ts';
 
 export type Format = 'group' | 'one-to-one' | 'ib' | 'one-to-one-only';
@@ -106,7 +106,7 @@ export function calculateFee(input: CalcInput): CalcResult {
     }
     const after = roundFor(row.currency, subtotal * (1 - discountPercent / 100));
     const indicative = isIndicative(row);
-    if (indicative) notes.push('Indicative: a currency conversion of the Pakistan fee. The exact fee is confirmed in writing before any payment.');
+    if (indicative) notes.push(INDICATIVE_NOTE);
     return { ok: true, currency: row.currency, period: 'per month', lines, subtotal, discountPercent, discountAmount: roundFor(row.currency, subtotal - after), total: after, indicative, notes, needsQuote };
   }
 
@@ -120,7 +120,7 @@ export function calculateFee(input: CalcInput): CalcResult {
     const lines = [{ label: `One-to-one ${label}, 1-hour class`, amount: perClass }];
     notes.push('One-to-one classes are charged per class. The multi-subject and sibling discounts do not apply.');
     const indicative = isIndicative(row);
-    if (indicative) notes.push('Indicative: a currency conversion of the Pakistan fee. The exact fee is confirmed in writing before any payment.');
+    if (indicative) notes.push(INDICATIVE_NOTE);
     if (!n) return { ok: true, currency: row.currency, period: 'per class', lines, subtotal: perClass, discountPercent: 0, discountAmount: 0, total: perClass, indicative, notes, needsQuote: false };
     const total = roundFor(row.currency, perClass * n);
     lines.push({ label: `× ${n} class${n > 1 ? 'es' : ''}`, amount: total });
@@ -135,10 +135,11 @@ export function calculateFee(input: CalcInput): CalcResult {
     if (input.region !== ONE_TO_ONE_ONLY_PRICING.region) {
       const conv = oneToOneOnlyConversionFor(input.region);
       if (!conv) return empty('', 'per class', ['There is no price for this region. Please ask us for a written quote.']);
-      currency = conv.currency; perClass = conv.perClass; indicative = true;
+      // D-516: the US dollar row is set by Marlbridge, not a conversion.
+      currency = conv.currency; perClass = conv.perClass; indicative = conv.status === 'indicative';
     }
     notes.push(`${ONE_TO_ONE_ONLY_PRICING.courses}: ${ONE_TO_ONE_ONLY_PRICING.deliveryMode}`);
-    if (indicative) notes.push('Indicative: a currency conversion of the Pakistan fee. The exact fee is confirmed in writing before any payment.');
+    if (indicative) notes.push(INDICATIVE_NOTE);
     const lines = [{ label: 'One-to-one class', amount: perClass }];
     const n = clampInt(input.classes, 200);
     if (!n) return { ok: true, currency, period: 'per class', lines, subtotal: perClass, discountPercent: 0, discountAmount: 0, total: perClass, indicative, notes, needsQuote: false };
@@ -159,7 +160,7 @@ export function calculateFee(input: CalcInput): CalcResult {
     currency = conv.currency; perClass = conv.perClass; indicative = true;
   }
   notes.push('IB is one-to-one only, 1 hour per class. The multi-subject and sibling discounts do not apply.');
-  if (indicative) notes.push('Indicative: a currency conversion of the Pakistan IB fee. The exact fee is confirmed in writing before any payment.');
+  if (indicative) notes.push(INDICATIVE_NOTE);
   const progLabel = input.ibProgramme === 'myp' ? 'IB MYP' : 'IB Diploma Programme';
   const lines = [{ label: `${progLabel}, 1-hour one-to-one class`, amount: perClass }];
   const n = clampInt(input.classes, 200);

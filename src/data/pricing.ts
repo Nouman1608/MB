@@ -18,6 +18,11 @@
  * All fees are per subject, per month.
  */
 
+import { FX_RATES, fxRateDate, fxRateNote } from './fx-policy.ts';
+
+/** Date the owner-set GROUP fees (REGION_PRICING rows without a status) were
+ * last confirmed. It is the group section's date, not the page's: the page
+ * date is PRICING_LAST_VERIFIED, derived at the foot of this file (D-516). */
 export const PRICING_VERIFIED_DATE = '2026-08-20';
 
 export type FeeTier = 'igcse' | 'a-level';
@@ -39,12 +44,21 @@ export const QUALIFICATION_TIER: Record<string, FeeTier> = {
 
 /**
  * D-297 -- every published fee says what kind of figure it is.
- *   'confirmed'  -- set directly by the owner for that region.
+ *   'confirmed'  -- set directly by the owner in that currency. Shown as
+ *                   "Set by Marlbridge" (PRICE_STATUS_LABEL). Never described
+ *                   as a conversion or tied to an exchange-rate date.
  *   'indicative' -- a currency conversion of the owner-set Pakistan rate
  *                   (FX_RATES in src/data/fx-policy.ts), shown so families
  *                   can see the approximate cost in their own currency; the
  *                   exact fee is confirmed on enquiry. Always labelled as
  *                   such wherever it is shown.
+ *
+ * D-516 (owner, 22 Nov 2026) -- which rows are which:
+ *   group       set: Pakistan, Saudi Arabia, UAE, Qatar, Kuwait, Bahrain,
+ *               Oman, UK, Europe. Indicative: Malaysia, Singapore, US dollars.
+ *   one-to-one  set: Pakistan and US dollars. Indicative: every other row.
+ *   IB, AP, OCR, OxfordAQA Islamiyat / Pakistan Studies (one-to-one only)
+ *               set: Pakistan and US dollars. Indicative: every other row.
  */
 export type PriceStatus = 'confirmed' | 'indicative';
 
@@ -61,9 +75,28 @@ export interface RegionPricing {
 export const priceStatus = (r: RegionPricing): PriceStatus => r.status ?? 'confirmed';
 export const isIndicative = (r: RegionPricing): boolean => priceStatus(r) === 'indicative';
 
-/** D-297 -- the one explanation shown next to any indicative figure. */
+/** D-516 -- the words shown for each status, the same in every fee table. */
+export const PRICE_STATUS_LABEL: Readonly<Record<PriceStatus, string>> = {
+  confirmed: 'Set by Marlbridge',
+  indicative: 'Indicative',
+};
+export const statusLabel = (r: { readonly status?: PriceStatus }): string => PRICE_STATUS_LABEL[r.status ?? 'confirmed'];
+/** The same two labels for use inside a sentence or beside a figure. */
+export const PRICE_STATUS_INLINE: Readonly<Record<PriceStatus, string>> = {
+  confirmed: 'set by Marlbridge',
+  indicative: 'indicative',
+};
+export const statusInline = (r: { readonly status?: PriceStatus }): string => PRICE_STATUS_INLINE[r.status ?? 'confirmed'];
+
+/** D-516 -- what the two labels mean for a parent, in one line. */
+export const PRICE_STATUS_EXPLAINER =
+  '"Set by Marlbridge" means the fee is fixed in that currency, and it is the amount you are invoiced. "Indicative" means the amount is a guide in your currency, converted from a set fee; what you are invoiced may differ slightly with the exchange rate.';
+
+/** D-297 -- the one explanation shown next to any indicative figure.
+ * D-516 -- says what it means for the invoice, and no longer reads as if it
+ * covered every row outside Pakistan. */
 export const INDICATIVE_NOTE =
-  'Indicative: a currency conversion of the Pakistan fee, not a separately set price for that country. The exact fee is confirmed in writing before any payment.';
+  'Indicative: a guide in your currency, converted from the Pakistan fee. What you are invoiced may differ slightly with the exchange rate, and the exact fee is confirmed in writing before any payment.';
 
 /** Monthly group fees by region. All rows are owner-set ('confirmed')
  * except Malaysia, which the owner asked on 23 Sep 2026 to be shown as the
@@ -109,7 +142,7 @@ export const IB_PRICING = {
   perClass: 6000,
   unit: 'per 1-hour class',
   deliveryMode: 'One-to-one only, 1 hour per class. There is no group option for IB.',
-  unsupportedRegionNote: 'IB fees in the other listed currencies are indicative conversions of the Pakistan fee; countries without their own row pay the US dollar IB price. The exact fee is confirmed in writing before any payment.',
+  unsupportedRegionNote: 'The Pakistan and US dollar IB fees are set by Marlbridge. IB fees in the other listed currencies are indicative conversions of the Pakistan fee; countries without their own row pay the US dollar IB price. The exact fee is confirmed in writing before any payment.',
   verifiedDate: '2026-09-24',
 } as const;
 
@@ -118,7 +151,8 @@ export interface IbConversion {
   readonly currency: string;
   readonly symbol: string;
   readonly perClass: number;
-  readonly status: 'indicative';
+  /** D-516: 'confirmed' only for an owner-set row (the US dollar AP/OCR fee). */
+  readonly status: PriceStatus;
 }
 
 /**
@@ -167,8 +201,9 @@ export const ibConversionFor = (region: string): IbConversion | undefined =>
  * offered and the one to one charges would be Rs 6,000 per class, you can
  * do the conversions in other currencies". No group option for these.
  *
- * Only the Pakistan fee is owner-set. Every other row, including US dollars,
- * is an indicative conversion of Rs 6,000 at the FX_RATES snapshot
+ * D-516 -- owner, 22 Nov 2026: the Pakistan and US dollar fees are set by
+ * Marlbridge (the US dollar fee was shown as indicative until then). Every
+ * other row is an indicative conversion of Rs 6,000 at the FX_RATES snapshot
  * (src/data/fx-policy.ts); validate-fx-policy.mjs [2g] checks each row.
  */
 export const ONE_TO_ONE_ONLY_PRICING = {
@@ -194,7 +229,7 @@ export const ONE_TO_ONE_ONLY_CONVERSIONS: readonly IbConversion[] = [
   { region: 'Europe', currency: 'EUR', symbol: '€', perClass: 19, status: 'indicative' },
   { region: 'Malaysia', currency: 'MYR', symbol: 'RM', perClass: 88, status: 'indicative' },
   { region: 'Singapore', currency: 'SGD', symbol: 'S$', perClass: 28, status: 'indicative' },
-  { region: 'Other countries', currency: 'USD', symbol: 'US$', perClass: 22, status: 'indicative' },
+  { region: 'Other countries', currency: 'USD', symbol: 'US$', perClass: 22, status: 'confirmed' },
 ] as const;
 
 /** D-338 -- one short line for pages that list OCR or OxfordAQA among the
@@ -255,8 +290,17 @@ export const ONE_TO_ONE_PRICING: readonly RegionPricing[] = [
 export const ONE_TO_ONE_TERMS = {
   unit: 'per class',
   deliveryMode: 'One-to-one only -- these rates are not available as group tuition.',
+  /** Date the Pakistan one-to-one fee was confirmed (D-012). */
   verifiedDate: '2026-08-23',
-  conversionNote: 'Only the Pakistan and US dollar rates above were directly set by Marlbridge. The other regions are indicative currency conversions of the Pakistan rate (exchange rates from exchangerate-api.com: dated 2026-08-22 for the Gulf, UK and Europe rows, 2026-09-23 for Malaysia; Singapore from the XE mid-market rate dated 2026-10-05). They are not independently published regional rates, are refreshed as exchange rates move, and the exact fee is confirmed in writing before any payment.',
+  /** Date the owner set the US dollar one-to-one fee (D-313). */
+  usdVerifiedDate: '2026-09-24',
+  /** Date of the exchange rates used for the first conversions (Gulf, UK and
+   * Europe rows, D-012). Those rates were not recorded; FX_RATES holds the
+   * 2026-08-26 snapshot the rows are checked against. */
+  firstConversionRateDate: '2026-08-22',
+  // D-516: the rate sources and dates are no longer written into this
+  // sentence; ONE_TO_ONE_RATE_NOTE below builds them from the data.
+  conversionNote: 'Of the one-to-one fees, the Pakistan and US dollar rates are set by Marlbridge. The one-to-one figures for the other regions are indicative currency conversions of the Pakistan rate. They are not independently published regional rates, are refreshed as exchange rates move, and the exact fee is confirmed in writing before any payment.',
   notPermanentNote: 'These fees are reviewed periodically and are not guaranteed to remain unchanged.',  // D-349 (R-01): no "date above/below"; each page prints its own dated line next to this note.
 } as const;
 
@@ -299,7 +343,9 @@ export const PRICING_TERMS = {
   // your behalf") sat next to tables that do contain labelled conversions.
   // D-311 -- countries without their own row now see the US dollar row
   // (an indicative conversion), per the owner's 24 Sep 2026 instruction.
-  unsupportedRegionNote: 'Families in countries without their own row use the US dollar prices ("Other countries"). The group figures are indicative conversions of the Pakistan fee; the one-to-one and IB US dollar prices are set by Marlbridge. The exact fee is confirmed in writing before any payment.',
+  // D-516 -- "The group figures" read as every group figure on the page; only
+  // the US dollar group fee is meant. The AP/OCR US dollar fee is now set too.
+  unsupportedRegionNote: 'Families in countries without their own row use the US dollar prices ("Other countries"). The US dollar group fee is an indicative conversion of the Pakistan fee; the US dollar one-to-one, IB, AP and OCR prices are set by Marlbridge. The exact fee is confirmed in writing before any payment.',
   notPermanentNote: 'These fees are reviewed periodically and are not guaranteed to remain unchanged.',  // D-349 (R-01): see ONE_TO_ONE_TERMS.notPermanentNote.
   /** Owner confirmed directly in chat, 2026-08-26 (D-043). Group-class length/frequency
    * is a fixed format; one-to-one length is fixed but the number of classes taken is
@@ -308,8 +354,16 @@ export const PRICING_TERMS = {
     group: '45 to 50 minutes per class, 3 classes a week, per subject.',
     oneToOne: '1 hour per class. How many classes you take is up to you.',
   },
-  /** Owner confirmed directly in chat, 2026-08-26 (D-043). */
-  billing: 'Fees are billed monthly, starting once your free trial class has taken place.',
+  /** Owner confirmed directly in chat, 2026-08-26 (D-043).
+   * D-516 -- owner, 22 Nov 2026: group tuition is billed per subject per
+   * month; one-to-one is billed per class. "Fees are billed monthly" was true
+   * of group classes only and sat on pages that also sell one-to-one. */
+  billing: 'Group tuition is billed per subject, per month. One-to-one tuition is billed per class. Billing starts once your free trial class has taken place.',
+  /** The same rule for a place that is about one format only. */
+  billingByFormat: {
+    group: 'Group tuition is billed per subject, per month, starting once your free trial class has taken place.',
+    oneToOne: 'One-to-one tuition is billed per class, starting once your free trial class has taken place.',
+  },
   paymentMethods: ['bank transfer', 'international wire transfer'] as readonly string[],
   /** D-296 -- no longer says "the fee shown above": the sentence also appears
    * on pages that show no fee (home, tutoring, trial, programme pages). */
@@ -418,3 +472,41 @@ export function discountWorkedExample() {
     afterDiscount,
   };
 }
+
+/**
+ * D-516 -- exchange-rate source and date lines, shown beside INDICATIVE rows
+ * only. Built from FX_RATES (src/data/fx-policy.ts), the one record of each
+ * rate's date, so no page restates a date.
+ */
+const indicativeCurrencies = (rows: readonly { readonly currency: string; readonly status?: PriceStatus }[]): string[] =>
+  rows.filter((r) => r.status === 'indicative').map((r) => r.currency);
+/** Group table: Malaysia, Singapore and US dollar rows. */
+export const GROUP_RATE_NOTE = fxRateNote(indicativeCurrencies(REGION_PRICING));
+/** One-to-one table. The Gulf, UK and Europe rows were converted at the
+ * 2026-08-22 rates (ONE_TO_ONE_TERMS.firstConversionRateDate). */
+export const ONE_TO_ONE_RATE_NOTE = fxRateNote(
+  indicativeCurrencies(ONE_TO_ONE_PRICING),
+  Object.fromEntries(FX_RATES.filter((r) => !r.asOf).map((r) => [r.currency, ONE_TO_ONE_TERMS.firstConversionRateDate])),
+);
+/** IB table, and the AP / OCR / OxfordAQA one-to-one-only table. */
+export const IB_RATE_NOTE = fxRateNote(indicativeCurrencies(IB_CONVERSIONS));
+export const ONE_TO_ONE_ONLY_RATE_NOTE = fxRateNote(indicativeCurrencies(ONE_TO_ONE_ONLY_CONVERSIONS));
+
+/**
+ * D-516 -- every dated fact on the pricing page, one entry per fact. The
+ * page-level "last verified" is the latest of them, so it can never be older
+ * than a section it sits above. Nothing here is a new verification: each
+ * value is read from the record that already held it.
+ */
+export const PRICING_DATES: Readonly<Record<string, string>> = {
+  'group fees set by Marlbridge': PRICING_VERIFIED_DATE,
+  'Pakistan one-to-one fee': ONE_TO_ONE_TERMS.verifiedDate,
+  'US dollar one-to-one fee': ONE_TO_ONE_TERMS.usdVerifiedDate,
+  'IB fee': IB_PRICING.verifiedDate,
+  'US dollar IB fee': IB_USD_PRICING.verifiedDate,
+  'AP, OCR and OxfordAQA one-to-one fee': ONE_TO_ONE_ONLY_PRICING.verifiedDate,
+  'first one-to-one conversion rates': ONE_TO_ONE_TERMS.firstConversionRateDate,
+  ...Object.fromEntries(FX_RATES.map((r) => [`${r.currency} exchange rate`, fxRateDate(r.currency)])),
+};
+/** ISO dates sort as text, so the last one is the most recent. */
+export const PRICING_LAST_VERIFIED: string = Object.values(PRICING_DATES).sort().at(-1)!;

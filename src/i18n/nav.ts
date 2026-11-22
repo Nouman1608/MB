@@ -25,6 +25,12 @@ export interface EnquiryFormLabels {
   country: string;
   message: string;
   optional: string;
+  /** D-516 -- the trial form's required phone field: country-code select and messages. */
+  phoneCountryLabel: string;
+  phoneCountryPlaceholder: string;
+  phoneCountryOther: string;
+  phoneHint: string;
+  phoneError: string;
   school: string;
   role: string;
   roleOptions: readonly string[];
@@ -131,7 +137,11 @@ export const NAV_COPY: Record<LocaleCode, NavCopy> = {
     lastUpdatedLabel: 'آخر تحديث',
     form: {
       name: 'الاسم الكامل', email: 'البريد الإلكتروني', phone: 'رقم الهاتف', country: 'الدولة', message: 'الرسالة',
-      optional: '(اختياري)', school: 'المدرسة', role: 'دورك', roleOptions: ['مدير المدرسة', 'رئيس قسم', 'معلم', 'منسق', 'أخرى'],
+      optional: '(اختياري)',
+      phoneCountryLabel: 'رمز الدولة', phoneCountryPlaceholder: 'الرمز', phoneCountryOther: 'أخرى (اكتب الرمز)',
+      phoneHint: 'اختر رمز دولتك ثم اكتب رقمك.',
+      phoneError: 'يُرجى اختيار رمز الدولة وإدخال رقم هاتف أو واتساب صحيح.',
+      school: 'المدرسة', role: 'دورك', roleOptions: ['مدير المدرسة', 'رئيس قسم', 'معلم', 'منسق', 'أخرى'],
       rolePlaceholder: 'يرجى الاختيار',
       messageHintStudent: 'ما الذي يحتاج الطالب المساعدة فيه؟ يُرجى ذكر البرنامج (مثل IGCSE أو A Level)، ومجلس الامتحان إن كان معروفاً، والمادة، والمستوى.',
       messageHintTrial: 'أخبرنا بما تريد أن يغطيه الدرس التجريبي: البرنامج أو المؤهل (مثل IGCSE أو A Level)، مجلس الامتحان إن كان معروفاً، المادة، المستوى، الأيام/الأوقات المفضلة والمنطقة الزمنية، وما الدعم الذي تحتاجه.',
@@ -206,7 +216,11 @@ export const NAV_COPY: Record<LocaleCode, NavCopy> = {
     lastUpdatedLabel: 'آخری تجدید',
     form: {
       name: 'پورا نام', email: 'ای میل', phone: 'فون نمبر', country: 'ملک', message: 'پیغام',
-      optional: '(اختیاری)', school: 'اسکول', role: 'آپ کا کردار', roleOptions: ['ہیڈ آف اسکول', 'ہیڈ آف ڈیپارٹمنٹ', 'استاد', 'کوآرڈینیٹر', 'دیگر'],
+      optional: '(اختیاری)',
+      phoneCountryLabel: 'ملک کا کوڈ', phoneCountryPlaceholder: 'کوڈ', phoneCountryOther: 'دیگر (کوڈ خود لکھیں)',
+      phoneHint: 'اپنے ملک کا کوڈ منتخب کریں، پھر اپنا نمبر لکھیں۔',
+      phoneError: 'براہِ کرم اپنے ملک کا کوڈ منتخب کریں اور درست فون یا واٹس ایپ نمبر درج کریں۔',
+      school: 'اسکول', role: 'آپ کا کردار', roleOptions: ['ہیڈ آف اسکول', 'ہیڈ آف ڈیپارٹمنٹ', 'استاد', 'کوآرڈینیٹر', 'دیگر'],
       rolePlaceholder: 'براہ کرم منتخب کریں',
       messageHintStudent: 'طالب علم کو کس چیز میں مدد درکار ہے؟ براہ کرم پروگرام (مثلاً IGCSE، A Level)، امتحانی بورڈ اگر معلوم ہو، مضمون، اور سطح شامل کریں۔',
       messageHintTrial: 'ہمیں بتائیں کہ آپ ٹرائل کلاس میں کیا چاہتے ہیں: آپ کا پروگرام یا قابلیت (مثلاً IGCSE، A Level)، امتحانی بورڈ اگر معلوم ہو، مضمون، سطح، پسندیدہ دن/اوقات اور ٹائم زون، اور آپ کو کس مدد کی ضرورت ہے۔',
@@ -281,7 +295,11 @@ export const NAV_COPY: Record<LocaleCode, NavCopy> = {
     lastUpdatedLabel: 'সর্বশেষ হালনাগাদ',
     form: {
       name: 'পূর্ণ নাম', email: 'ইমেইল', phone: 'ফোন নম্বর', country: 'দেশ', message: 'বার্তা',
-      optional: '(ঐচ্ছিক)', school: 'স্কুল', role: 'আপনার ভূমিকা', roleOptions: ['প্রধান শিক্ষক', 'বিভাগীয় প্রধান', 'শিক্ষক', 'সমন্বয়কারী', 'অন্যান্য'],
+      optional: '(ঐচ্ছিক)',
+      phoneCountryLabel: 'দেশের কোড', phoneCountryPlaceholder: 'কোড', phoneCountryOther: 'অন্যান্য (কোড লিখুন)',
+      phoneHint: 'আপনার দেশের কোড বেছে নিন, তারপর নম্বর লিখুন।',
+      phoneError: 'অনুগ্রহ করে দেশের কোড বেছে নিন এবং একটি সঠিক ফোন বা হোয়াটসঅ্যাপ নম্বর লিখুন।',
+      school: 'স্কুল', role: 'আপনার ভূমিকা', roleOptions: ['প্রধান শিক্ষক', 'বিভাগীয় প্রধান', 'শিক্ষক', 'সমন্বয়কারী', 'অন্যান্য'],
       rolePlaceholder: 'অনুগ্রহ করে নির্বাচন করুন',
       messageHintStudent: 'শিক্ষার্থীর কী বিষয়ে সাহায্য দরকার? অনুগ্রহ করে প্রোগ্রাম (যেমন IGCSE, A Level), পরীক্ষা বোর্ড জানা থাকলে, বিষয় এবং স্তর উল্লেখ করুন।',
       messageHintTrial: 'ট্রায়াল ক্লাসে কী কভার করতে চান তা আমাদের জানান: আপনার প্রোগ্রাম বা যোগ্যতা (যেমন IGCSE, A Level), পরীক্ষা বোর্ড জানা থাকলে, বিষয়, স্তর, পছন্দের দিন/সময় ও সময় অঞ্চল, এবং কী ধরনের সহায়তা প্রয়োজন।',

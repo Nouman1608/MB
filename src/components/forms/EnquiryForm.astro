@@ -7,6 +7,7 @@ import { FALLBACK_EMAIL, type EnquiryKind } from '../../utils/forms/submit';
 import { site } from '../../data/site';
 import type { EnquiryFormLabels } from '../../i18n/nav';
 import LazyTurnstile from './LazyTurnstile.astro';
+import { DIAL_CODES, DIAL_OTHER } from '../../../functions/_lib/dial-codes';
 
 // v1.x CLOSURE Release WS1 (2026-08-26) -- every non-school enquiry kind
 // (student, tutoring, trial) now shares exactly one field set: Name,
@@ -40,7 +41,11 @@ const { kind, labels } = Astro.props;
  */
 const EN_LABELS: EnquiryFormLabels = {
   name: 'Full name', email: 'Email', phone: 'Phone', country: 'Country', message: 'Message',
-  optional: '(optional)', school: 'School', role: 'Your role',
+  optional: '(optional)',
+  phoneCountryLabel: 'Country code', phoneCountryPlaceholder: 'Code', phoneCountryOther: 'Other (type the code)',
+  phoneHint: 'Choose your country code, then type your number.',
+  phoneError: 'Please choose your country code and enter a valid phone or WhatsApp number.',
+  school: 'School', role: 'Your role',
   roleOptions: ['Head of school', 'Head of department', 'Teacher', 'Coordinator', 'Other'],
   rolePlaceholder: 'Please choose',
   messageHintStudent: 'What does the learner need help with? Please include the programme (e.g. IGCSE, A Level), the exam board if known, the subject and the level.',
@@ -84,7 +89,11 @@ const MESSAGE_HINT: Record<TuitionEnquiryKind, string> = {
 const clientStrings = JSON.stringify({
   sending: t.sending, success: t.successMessage, genericError: t.genericError, networkError: t.networkError,
   requiredError: t.requiredError, emailError: t.emailError, genericFieldError: t.genericFieldError,
+  phoneError: t.phoneError,
 });
+// D-516: country name (and aliases) -> dial-code id, as on the English trial
+// form, so typing a listed country pre-selects its calling code.
+const dialByCountry = JSON.stringify(Object.fromEntries(DIAL_CODES.flatMap((d) => [d.name, ...(d.aliases ?? [])].map((n) => [n.toLowerCase(), d.id]))));
 ---
 {/*
   v1.2 WS3 — action now points at the real /api/enquiry Cloudflare Pages
@@ -112,7 +121,26 @@ const clientStrings = JSON.stringify({
   {kind === 'school' && <FormField name="role" label={t.role} required><Select name="role" options={t.roleOptions} placeholder={t.rolePlaceholder} required /></FormField>}
 
   <FormField name="email" label={t.email} required><Input name="email" type="email" autocomplete="email" inputmode="email" required /></FormField>
-  <FormField name="phone" label={t.phone} optionalLabel={t.optional}><Input name="phone" type="tel" autocomplete="tel" inputmode="tel" /></FormField>
+  {/* D-516 (owner, 22 Nov 2026): on a trial request the phone is required, with a
+      country code, as on the English trial form (TrialRequestForm.astro, D-466).
+      The server joins the two, or rejects a number without a code
+      (functions/_lib/enquiry-validation.ts, checkTrialPhone). Other enquiry
+      kinds keep an optional phone. */}
+  {kind === 'trial' ? (
+    <FormField name="phone" label={t.phone} required hint={t.phoneHint}>
+      <div class="flex gap-2">
+        <label for="phoneCountry" class="sr-only">{t.phoneCountryLabel}</label>
+        <select id="phoneCountry" name="phoneCountry" autocomplete="tel-country-code" data-phone-country data-dial-by-country={dialByCountry} class="min-h-11 w-[8.5rem] shrink-0 rounded-sm border border-rule bg-white px-2 text-[15px] text-ink">
+          <option value="">{t.phoneCountryPlaceholder}</option>
+          {DIAL_CODES.map((d) => <option value={d.id}>{`${d.name} ${d.dial}`}</option>)}
+          <option value={DIAL_OTHER}>{t.phoneCountryOther}</option>
+        </select>
+        <Input name="phone" type="tel" autocomplete="tel-national" inputmode="tel" required />
+      </div>
+    </FormField>
+  ) : (
+    <FormField name="phone" label={t.phone} optionalLabel={t.optional}><Input name="phone" type="tel" autocomplete="tel" inputmode="tel" /></FormField>
+  )}
   <FormField name="country" label={t.country} required>
     <Input name="country" autocomplete="country-name" required />
   </FormField>
@@ -177,7 +205,7 @@ const clientStrings = JSON.stringify({
 
   interface ClientStrings {
     sending: string; success: string; genericError: string; networkError: string;
-    requiredError: string; emailError: string; genericFieldError: string;
+    requiredError: string; emailError: string; genericFieldError: string; phoneError: string;
   }
 
   document.querySelectorAll<HTMLFormElement>('[data-enquiry-form]').forEach((form) => {
@@ -193,7 +221,30 @@ const clientStrings = JSON.stringify({
       field.setAttribute('aria-invalid', message ? 'true' : 'false');
     };
 
+    // D-516 -- trial form only: the phone needs a country code (chosen, or typed
+    // with + or 00) and must look like a number. Same test as the server.
+    const phoneCountry = form.querySelector<HTMLSelectElement>('[data-phone-country]');
+    const phone = form.querySelector<HTMLInputElement>('input[name="phone"]');
+    if (phoneCountry && phone) {
+      let codeChosen = false;
+      phoneCountry.addEventListener('change', () => { codeChosen = true; });
+      const byCountry = JSON.parse(phoneCountry.dataset.dialByCountry ?? '{}') as Record<string, string>;
+      form.querySelector<HTMLInputElement>('input[name="country"]')?.addEventListener('change', (e) => {
+        const name = (e.target as HTMLInputElement).value.trim().toLowerCase();
+        if (!codeChosen && Object.prototype.hasOwnProperty.call(byCountry, name)) phoneCountry.value = byCountry[name];
+      });
+    }
+    const checkPhone = () => {
+      if (!phoneCountry || !phone) return;
+      const v = phone.value.trim();
+      const typedCode = /^(\+|00)/.test(v);
+      const wellFormed = /^\+?[\d\s\-().]{7,30}$/.test(v) && v.replace(/\D/g, '').length >= 7;
+      const hasCode = typedCode || (phoneCountry.value !== '' && phoneCountry.value !== 'other');
+      phone.setCustomValidity(v && (!wellFormed || !hasCode) ? 'phone' : '');
+    };
+
     const validate = () => {
+      checkPhone();
       let firstInvalid: HTMLElement | null = null;
       form.querySelectorAll<HTMLInputElement>('input, select, textarea').forEach((field) => {
         if (!field.name) return;
@@ -203,7 +254,9 @@ const clientStrings = JSON.stringify({
             ? strings.requiredError
             : field.type === 'email'
               ? strings.emailError
-              : strings.genericFieldError;
+              : field.type === 'tel'
+                ? strings.phoneError
+                : strings.genericFieldError;
         setError(field, message);
         if (message && !firstInvalid) firstInvalid = field;
       });

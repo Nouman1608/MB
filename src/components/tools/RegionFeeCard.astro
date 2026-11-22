@@ -49,7 +49,7 @@ const link = 'underline decoration-teal-500 underline-offset-2 hover:text-teal-7
     <div class="mt-4">
       <p class={blockHead}>
         <span class="mb-label text-teal-700">Group classes, {PRICING_TERMS.unit}</span>
-        <span data-rf-flag="group" hidden={!first.group.indicative} class={flag}>Indicative</span>
+        <span data-rf-flag="group" class={flag}>{first.group.status}</span>
       </p>
       <dl class="m-0 mt-2 grid gap-1">
         <div class={row}><dt class={term}>GCSE / IGCSE / O Level</dt><dd data-rf="group-igcse" class={amount}>{first.group.igcse}</dd></div>
@@ -61,7 +61,7 @@ const link = 'underline decoration-teal-500 underline-offset-2 hover:text-teal-7
     <div data-rf-one hidden={!first.oneToOne} class="mt-4 border-t border-rule pt-4">
       <p class={blockHead}>
         <span class="mb-label text-teal-700">One-to-one classes, {ONE_TO_ONE_TERMS.unit}</span>
-        <span data-rf-flag="one" hidden={!first.oneToOne?.indicative} class={flag}>Indicative</span>
+        <span data-rf-flag="one" class={flag}>{first.oneToOne?.status}</span>
       </p>
       <dl class="m-0 mt-2 grid gap-1">
         <div class={row}><dt class={term}>GCSE / IGCSE / O Level</dt><dd data-rf="one-igcse" class={amount}>{first.oneToOne?.igcse}</dd></div>
@@ -85,7 +85,7 @@ const link = 'underline decoration-teal-500 underline-offset-2 hover:text-teal-7
 </div>
 
 <script>
-  interface Block { igcse: string; aLevel: string; indicative: boolean }
+  interface Block { igcse: string; aLevel: string; indicative: boolean; status: string }
   interface Card { region: string; label: string; group: Block; oneToOne: Block | null; note: string }
 
   const root = document.querySelector<HTMLElement>('[data-region-fees]');
@@ -106,6 +106,11 @@ const link = 'underline decoration-teal-500 underline-offset-2 hover:text-teal-7
       const el = cardEl.querySelector<HTMLElement>(selector);
       if (el) el.hidden = !on;
     };
+    // D-516: every block states its status ("Set by Marlbridge" or "Indicative").
+    const flagText = (key: string, value: string) => {
+      const el = cardEl.querySelector<HTMLElement>(`[data-rf-flag="${key}"]`);
+      if (el) el.textContent = value;
+    };
     // The card is a polite live region, so it is only touched when the region really changes.
     const render = () => {
       const card = cards.find((c) => c.region === select.value);
@@ -114,11 +119,11 @@ const link = 'underline decoration-teal-500 underline-offset-2 hover:text-teal-7
       text('label', card.label);
       text('group-igcse', card.group.igcse);
       text('group-alevel', card.group.aLevel);
-      show('[data-rf-flag="group"]', card.group.indicative);
+      flagText('group', card.group.status);
       show('[data-rf-one]', card.oneToOne !== null);
       text('one-igcse', card.oneToOne?.igcse ?? '');
       text('one-alevel', card.oneToOne?.aLevel ?? '');
-      show('[data-rf-flag="one"]', card.oneToOne?.indicative ?? false);
+      flagText('one', card.oneToOne?.status ?? '');
       text('note', card.note);
       show('[data-rf="note"]', card.note !== '');
     };

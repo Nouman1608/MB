@@ -20,7 +20,7 @@ import { routes } from '../../utils/urls/routes';
 import { taughtOnly, boardPath } from '../../utils/academic';
 import { boardBySlug } from '../../data/academic/boards';
 import {
-  REGION_PRICING, ONE_TO_ONE_PRICING, ONE_TO_ONE_TERMS, oneToOneOnlyConversionFor, ONE_TO_ONE_ONLY_NOTE,
+  REGION_PRICING, ONE_TO_ONE_PRICING, ONE_TO_ONE_TERMS, oneToOneOnlyConversionFor, ONE_TO_ONE_ONLY_NOTE, ONE_TO_ONE_RATE_NOTE, statusInline,
   PRICING_TERMS, PRICING_VERIFIED_DATE, formatFee, INDICATIVE_NOTE, ibConversionFor,
 } from '../../data/pricing';
 import { faqNode } from '../../utils/schema/faq';
@@ -241,12 +241,12 @@ const tutorCourses = tutorCoursesFor(['aqa', 'edexcel', 'ocr', 'cambridge'], 14,
           </thead>
           <tbody>
             <tr class="border-b border-rule">
-              <td class="py-3 pr-4 text-ink">Group class, per subject per month</td>
+              <td class="py-3 pr-4 text-ink">Group class, per subject per month <span class="text-[12px] text-ink-mute">({statusInline(uk)})</span></td>
               <td class="py-3 pr-4 text-ink-mute">{formatFee(uk.igcse, uk.currency)} {uk.currency}</td>
               <td class="py-3 text-ink-mute">{formatFee(uk.aLevel, uk.currency)} {uk.currency}</td>
             </tr>
             <tr class="border-b border-rule">
-              <td class="py-3 pr-4 text-ink">One-to-one, per class <span class="text-[12px] text-ink-mute">(indicative)</span></td>
+              <td class="py-3 pr-4 text-ink">One-to-one, per class <span class="text-[12px] text-ink-mute">({statusInline(ukOneToOne)})</span></td>
               <td class="py-3 pr-4 text-ink-mute">{formatFee(ukOneToOne.igcse, ukOneToOne.currency)} {ukOneToOne.currency}</td>
               <td class="py-3 text-ink-mute">{formatFee(ukOneToOne.aLevel, ukOneToOne.currency)} {ukOneToOne.currency}</td>
             </tr>
@@ -262,8 +262,8 @@ const tutorCourses = tutorCoursesFor(['aqa', 'edexcel', 'ocr', 'cambridge'], 14,
         </table>
       </div>
       <p class="m-0 mt-6 text-[13px] text-ink-mute">
-        {ONE_TO_ONE_ONLY_NOTE} One-to-one rates: {INDICATIVE_NOTE} {ONE_TO_ONE_TERMS.conversionNote} {PRICING_TERMS.freeTrial} {PRICING_TERMS.notPermanentNote} Last confirmed
-        {' '}{PRICING_VERIFIED_DATE} (one-to-one rates {ONE_TO_ONE_TERMS.verifiedDate}).
+        {ONE_TO_ONE_ONLY_NOTE} The group fee is {statusInline(uk)} in pounds and is not a currency conversion. One-to-one, IB and OCR rates: {INDICATIVE_NOTE} {ONE_TO_ONE_TERMS.conversionNote} {ONE_TO_ONE_RATE_NOTE} {PRICING_TERMS.freeTrial} {PRICING_TERMS.notPermanentNote} Group fee last confirmed
+        {' '}{PRICING_VERIFIED_DATE}; Pakistan one-to-one fee last confirmed {ONE_TO_ONE_TERMS.verifiedDate}.
       </p>
     </Container>
   </Section>
