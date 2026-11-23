@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International GCSE Chemistry: Chemical bonds: ionic, covalent and metallic (9202)"
+title: "OxfordAQA IGCSE Chemistry: Chemical bonds: ionic, covalent and metallic (9202)"
 seoTitle: "OxfordAQA IGCSE Chemistry Chemical Bonds Study Guide"
 resourceType: "study-guides"
 subject: "chemistry"

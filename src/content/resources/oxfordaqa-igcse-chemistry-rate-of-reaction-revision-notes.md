@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International GCSE Chemistry: Rate of reaction (9202) -- Revision Notes"
+title: "OxfordAQA IGCSE Chemistry: Rate of reaction (9202) -- Revision Notes"
 seoTitle: "OxfordAQA IGCSE Chemistry (9202) Rate of Reaction Notes"
 resourceType: "revision-notes"
 subject: "chemistry"

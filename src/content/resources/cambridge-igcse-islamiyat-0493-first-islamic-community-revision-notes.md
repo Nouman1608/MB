@@ -73,7 +73,7 @@ Caliphs during his lifetime (their rule after 632 is Paper 2).
 
 - **Khadija (RA):** first believer; supported him with wealth and comfort; died 619.
 - **Sawda (RA):** early Muslim widow; married after Khadija's (RA) death.
-- **A'isha:** scholar; narrated many Hadiths; taught after his death.
+- **A'isha:** scholar; narrated many Hadith; taught after his death.
 - **Hafsa (RA):** Umar's (RA) daughter; kept the Qur'an sheets.
 - **Zaynab bint Khuzayma (RA):** "mother of the poor"; died soon after marriage.
 - **Umm Salama (RA):** advised him at Hudaybiyya.
@@ -84,7 +84,7 @@ Caliphs during his lifetime (their rule after 632 is Paper 2).
 - **Maymuna (RA):** last marriage, 7 AH.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-first-islamic-community--02-the-wives.webp" width="900" height="832" alt="Eleven wives, each with a distinctive fact, from Khadija, the first to accept Islam, and A'isha, who narrated many Hadiths, to Maymuna, his last marriage in 7 AH. Mariya al-Qibtiyya was the mother of his son Ibrahim. The Qur'an calls the wives &quot;Mothers of the Believers&quot;." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-first-islamic-community--02-the-wives.webp" width="900" height="832" alt="Eleven wives, each with a distinctive fact, from Khadija, the first to accept Islam, and A'isha, who narrated many Hadith, to Maymuna, his last marriage in 7 AH. Mariya al-Qibtiyya was the mother of his son Ibrahim. The Qur'an calls the wives &quot;Mothers of the Believers&quot;." loading="lazy">
   <figcaption>Learn each wife with one or two facts that make her distinctive.</figcaption>
 </figure>
 
@@ -97,21 +97,21 @@ Caliphs during his lifetime (their rule after 632 is Paper 2).
 
 - **Children of Khadija (RA):** al-Qasim, Abdullah (died young); Zaynab, Ruqayya, Umm Kulthum, Fatima (RA).
 - **Son of Mariya:** Ibrahim, died as an infant.
-- **Grandchildren:** Hasan and Husayn (Fatima (RA) and Ali (RA)); Umama (Zaynab).
+- **Grandchildren:** Hasan (RA) and Husayn (RA) (Fatima (RA) and Ali (RA)); Umama (Zaynab).
 - **Fatima (RA):** the only child to outlive him; died a few months after him.
 
-**The twelve Imams (Twelver Shi'a):** Ali (RA); Hasan; Husayn; Ali Zayn al-Abidin; Muhammad al-Baqir;
+**The twelve Imams (Twelver Shi'a):** Ali (RA); Hasan (RA); Husayn (RA); Ali Zayn al-Abidin; Muhammad al-Baqir;
 Ja'far al-Sadiq; Musa al-Kazim; Ali al-Rida; Muhammad al-Jawad; Ali al-Hadi; Hasan al-Askari;
 Muhammad al-Mahdi.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-first-islamic-community--04-descendants.webp" width="900" height="716" alt="A text family tree. With Khadija: al-Qasim and Abdullah, who died young, and Zaynab (married Abu al-As), Ruqayya and Umm Kulthum (both married Uthman, called Dhu al-Nurayn) and Fatima (married Ali). With Mariya: Ibrahim, who died as an infant. Grandchildren include Hasan and Husayn, sons of Fatima, and Umama, daughter of Zaynab." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-first-islamic-community--04-descendants.webp" width="900" height="716" alt="A text family tree. With Khadija: al-Qasim and Abdullah, who died young, and Zaynab (married Abu al-As), Ruqayya and Umm Kulthum (both married Uthman, called Dhu al-Nurayn) and Fatima (married Ali (RA)). With Mariya: Ibrahim, who died as an infant. Grandchildren include Hasan (RA) and Husayn (RA), sons of Fatima, and Umama, daughter of Zaynab." loading="lazy">
   <figcaption>All his sons died young; his line continued through his daughters.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-first-islamic-community--05-twelve-imams.webp" width="900" height="760" alt="The twelve Imams in order, from Ali ibn Abi Talib, Hasan and Husayn to Hasan al-Askari and Muhammad al-Mahdi. Husayn was martyred at Karbala; Muhammad al-Mahdi is believed to be in occultation and to return. Twelver Shi'a Muslims believe leadership passed by God's appointment through the Prophet's (pbuh) family." loading="lazy">
-  <figcaption>Know the twelve names in order, with more detail on Ali (RA), Hasan and Husayn.</figcaption>
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-first-islamic-community--05-twelve-imams.webp" width="900" height="760" alt="The twelve Imams in order, from Ali ibn Abi Talib (RA), Hasan (RA) and Husayn (RA) to Hasan al-Askari and Muhammad al-Mahdi. Husayn (RA) was martyred at Karbala; Muhammad al-Mahdi is believed to be in occultation and to return. Twelver Shi'a Muslims believe leadership passed by God's appointment through the Prophet's (pbuh) family." loading="lazy">
+  <figcaption>Know the twelve names in order, with more detail on Ali (RA), Hasan (RA) and Husayn (RA).</figcaption>
 </figure>
 
 ## The Ten Blessed
@@ -163,7 +163,7 @@ Zayd ibn Thabit (RA) (chief scribe, later compiler), Ubayy ibn Ka'b (RA), Ali (R
 - **Ali (RA):** slept in the Prophet's (pbuh) bed at the Hijra.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-first-islamic-community--08-caliphs-in-his-lifetime.webp" width="900" height="742" alt="Four cards on the future caliphs during the Prophet's (pbuh) lifetime. Abu Bakr, al-Siddiq, was the first adult man to accept Islam and his companion on the Hijra. Umar, al-Faruq, accepted Islam in his sister's house. Uthman married two of his daughters and equipped the army for Tabuk. Ali, the first child to accept Islam, slept in the Prophet's (pbuh) bed on the night of the Hijra." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-first-islamic-community--08-caliphs-in-his-lifetime.webp" width="900" height="742" alt="Four cards on the future caliphs during the Prophet's (pbuh) lifetime. Abu Bakr, al-Siddiq, was the first adult man to accept Islam and his companion on the Hijra. Umar, al-Faruq, accepted Islam in his sister's house. Uthman married two of his daughters and equipped the army for Tabuk. Ali (RA), the first child to accept Islam, slept in the Prophet's (pbuh) bed on the night of the Hijra." loading="lazy">
   <figcaption>What each future caliph did before 632, not as caliph.</figcaption>
 </figure>
 
@@ -190,7 +190,7 @@ Zayd ibn Thabit (RA) (chief scribe, later compiler), Ubayy ibn Ka'b (RA), Ali (R
 12. How did Ali (RA) risk his life on the night of the Hijra?
 
 **Answers:** 1. Fatima (RA). 2. Zaynab bint Khuzayma (RA). 3. Hafsa (RA). 4. He married two of the Prophet's (pbuh)
-daughters, Ruqayya and then Umm Kulthum. 5. Husayn, at Karbala. 6. Muhammad al-Mahdi; he is in
+daughters, Ruqayya and then Umm Kulthum. 5. Husayn (RA), at Karbala. 6. Muhammad al-Mahdi; he is in
 occultation and will return. 7. Talha (RA), al-Zubayr, Abd al-Rahman ibn Awf (RA), Sa'd ibn Abi Waqqas (RA), Sa'id ibn
 Zayd, Abu Ubayda ibn al-Jarrah (RA). 8. Zayd ibn Thabit (RA). 9. Zayd ibn Haritha (RA) (Sura 33.37). 10. He asked to
 be shown the market so he could trade. 11. Sura 59.9; they preferred the Emigrants above themselves

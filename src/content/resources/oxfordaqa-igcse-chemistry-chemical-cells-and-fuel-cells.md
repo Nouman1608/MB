@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International GCSE Chemistry: Chemical cells and fuel cells (9202)"
+title: "OxfordAQA IGCSE Chemistry: Chemical cells and fuel cells (9202)"
 seoTitle: "OxfordAQA IGCSE Chemistry (9202) Cells and Fuel Cells Guide"
 resourceType: "study-guides"
 subject: "chemistry"

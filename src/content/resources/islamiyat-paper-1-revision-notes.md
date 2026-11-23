@@ -101,7 +101,7 @@ their lives and be ready to explain the importance of their actions and experien
   his message, whose support sustained him in Makkah, and **Aisha (RA)**, later an important narrator of
   Hadith.
 - **His descendants** — his children (including **Fatimah**), his grandchildren (including **Hasan**
-  and **Husayn**), and the line recognised among Shi'a Muslims as the **Imams**.
+  and **Husayn (RA)**), and the line recognised among Shi'a Muslims as the **Imams**.
 - **His leading Companions** — the **Ten Blessed Companions**, his **Scribes** (such as **Zayd ibn
   Thabit**, who wrote down revelation), and the other major figures of his ministry; for converts,
   know how and why they accepted Islam and what it cost them.

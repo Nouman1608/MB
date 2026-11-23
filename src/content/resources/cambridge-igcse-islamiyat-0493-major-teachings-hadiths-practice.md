@@ -1,5 +1,5 @@
 ---
-title: "Cambridge IGCSE Islamiyat (0493): Major Teachings in the Hadiths of the Prophet — Practice Questions"
+title: "Cambridge IGCSE Islamiyat (0493): Major Teachings in the Hadith of the Prophet — Practice Questions"
 resourceType: "practice-questions"
 subject: "islamiyat"
 level: ["igcse"]
@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-0493"
     subtopic: "major-teachings-hadiths-0493"
-description: "Twelve original questions on the set Hadiths for Cambridge IGCSE Islamiyat 0493 Paper 2 Question 1: their teachings and how Muslims act on them, with answers."
+description: "Twelve original questions on the set Hadith for Cambridge IGCSE Islamiyat 0493 Paper 2 Question 1: their teachings and how Muslims act on them, with answers."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
@@ -27,13 +27,13 @@ featured: false
 > examination boards hold copyright in their own papers. Use these alongside
 > the official past papers available free from your board.
 
-Related: [Major Teachings in the Hadiths study guide](/resources/cambridge-igcse-islamiyat-major-teachings-in-the-hadiths/), [Major Teachings in the Hadiths revision notes](/resources/cambridge-igcse-islamiyat-major-teachings-in-the-hadiths-revision-notes/)
+Related: [Major Teachings in the Hadith study guide](/resources/cambridge-igcse-islamiyat-major-teachings-in-the-hadiths/), [Major Teachings in the Hadith revision notes](/resources/cambridge-igcse-islamiyat-major-teachings-in-the-hadiths-revision-notes/)
 
 ---
 
-**How to use this set.** Question 1 of Paper 2 prints four of the twenty set Hadiths in Arabic and
+**How to use this set.** Question 1 of Paper 2 prints four of the twenty set Hadith in Arabic and
 English; you choose two and answer part (a), their teachings about what Muslims believe, worth 4
-marks, and part (b), how Muslims can put them into action, worth 4 marks. The Hadiths are numbered as
+marks, and part (b), how Muslims can put them into action, worth 4 marks. The Hadith are numbered as
 in the syllabus appendix, and the English below is the appendix translation. In the exam the Arabic is
 printed as well.
 
@@ -61,7 +61,7 @@ camels. **[2]**
 
 ## Section B — Question 1-style tasks
 
-For each question, write about **both** Hadiths.
+For each question, write about **both** Hadith.
 
 **8.** Hadith 3, "Let him who believes in Allah and the Last Day either speak good or keep silent … be
 generous to his neighbour … be generous to his guest", and Hadith 4, the man who asked whether
@@ -95,7 +95,7 @@ sincerity".
 
 ## Answers
 
-**How Section B is marked.** Cambridge marks Question 1 by levels, reading the two Hadiths together.
+**How Section B is marked.** Cambridge marks Question 1 by levels, reading the two Hadith together.
 The guide below breaks this into points: in part (a), for each Hadith, the central teaching stated
 [1] and developed with a link to belief, the Qur'an or another Hadith [1]; in part (b), for each
 Hadith, one practical action explained [2]. Other valid points of the same quality earn the same
@@ -178,7 +178,7 @@ customers and friends [2].
 
 - In part (a), paraphrasing the Hadith instead of saying what it teaches Muslims to believe.
 - In part (b), giving actions so general that they could fit any Hadith.
-- Writing about only one of the two Hadiths chosen.
+- Writing about only one of the two Hadith chosen.
 
 ## Frequently asked questions
 

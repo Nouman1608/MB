@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International GCSE Chemistry: Exothermic and endothermic reactions, and calculating and explaining energy change (9202)"
+title: "OxfordAQA IGCSE Chemistry: Exothermic and endothermic reactions, and calculating and explaining energy change (9202)"
 seoTitle: "OxfordAQA IGCSE Chemistry (9202) Energy Change Guide"
 resourceType: "study-guides"
 subject: "chemistry"

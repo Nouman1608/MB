@@ -24,7 +24,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "paper-2-2058"
     subtopic: "articles-faith-pillars-2058"
-description: "Original Cambridge O Level Islamiyat 2058 Paper 2 practice: set Hadiths, Bukhari and Muslim, Umar's caliphate, fasting and al-qadr, with mark guidance."
+description: "Original Cambridge O Level Islamiyat 2058 Paper 2 practice: set Hadith, Bukhari and Muslim, Umar's caliphate, fasting and al-qadr, with mark guidance."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
@@ -43,13 +43,13 @@ Related: [O Level Islamiyat: Paper 2 study guide](/resources/o-level-islamiyat-p
 
 ---
 
-**Paper format.** Cambridge O Level Islamiyat 2058, Paper 2: 1 hour 30 minutes, **50 marks**. The paper has five questions. Answer **Question 1**, **Question 2** and **two** other questions. Every question has a knowledge part **(a)** and an understanding part **(b)**: Question 1 is marked 4 + 4, and Questions 2–5 are marked 10 + 4 (8 + 14 + 14 + 14 = 50). Question 1 is always set on four of the Hadiths in the syllabus appendix, printed in Arabic and English; Question 2 is on the history and importance of the Hadiths; Questions 3–5 are on the Rightly Guided Caliphs and on the Articles of Faith and the Pillars of Islam, with one or two questions on each.
+**Paper format.** Cambridge O Level Islamiyat 2058, Paper 2: 1 hour 30 minutes, **50 marks**. The paper has five questions. Answer **Question 1**, **Question 2** and **two** other questions. Every question has a knowledge part **(a)** and an understanding part **(b)**: Question 1 is marked 4 + 4, and Questions 2–5 are marked 10 + 4 (8 + 14 + 14 + 14 = 50). Question 1 is always set on four of the Hadith in the syllabus appendix, printed in Arabic and English; Question 2 is on the history and importance of the Hadith; Questions 3–5 are on the Rightly Guided Caliphs and on the Articles of Faith and the Pillars of Islam, with one or two questions on each.
 
 You must answer Question 1, Question 2 and two other questions.
 
 ## Question 1
 
-**1** Choose any **two** of the following Hadiths.
+**1** Choose any **two** of the following Hadith.
 
 **(a)** Describe their teachings about what Muslims believe. **[4]**
 
@@ -79,13 +79,13 @@ May God show mercy to a man who is kindly when he sells, when he buys, and when 
 
 The believers are like a single man; if his eye is affected he is affected, and if his head is affected he is all affected.
 
-*The English texts are those printed in the syllabus appendix (Hadiths 1, 11, 14 and 16). The Arabic follows the appendix word for word; its vowel marks are given in standard form where the appendix's marking is partial or non-standard.*
+*The English texts are those printed in the syllabus appendix (Hadith 1, 11, 14 and 16). The Arabic follows the appendix word for word; its vowel marks are given in standard form where the appendix's marking is partial or non-standard.*
 
 ## Question 2
 
 **2 (a)** Write about the compilers and main features of Sahih al-Bukhari and Sahih Muslim. **[10]**
 
-**(b)** Explain why the Hadiths are important in Muslim legal thinking, alongside the Qur'an, consensus (ijma') and analogy (qiyas). **[4]**
+**(b)** Explain why the Hadith are important in Muslim legal thinking, alongside the Qur'an, consensus (ijma') and analogy (qiyas). **[4]**
 
 ## Question 3
 
@@ -109,20 +109,20 @@ The believers are like a single man; if his eye is affected he is affected, and 
 
 ## Answers and mark guidance
 
-**How this paper is marked.** Cambridge marks each part by levels of response (syllabus section 4.2). Part (a) tests knowledge (AO1): in Question 1, Level 4 = 4, Level 3 = 3, Level 2 = 2, Level 1 = 1; in Questions 2–5, Level 4 = 8–10, Level 3 = 5–7, Level 2 = 3–4, Level 1 = 1–2. Part (b) tests understanding (AO2): Level 2 = 3–4, Level 1 = 1–2. In Question 1, the two Hadiths chosen are read together and given one mark for (a) and one mark for (b).
+**How this paper is marked.** Cambridge marks each part by levels of response (syllabus section 4.2). Part (a) tests knowledge (AO1): in Question 1, Level 4 = 4, Level 3 = 3, Level 2 = 2, Level 1 = 1; in Questions 2–5, Level 4 = 8–10, Level 3 = 5–7, Level 2 = 3–4, Level 1 = 1–2. Part (b) tests understanding (AO2): Level 2 = 3–4, Level 1 = 1–2. In Question 1, the two Hadith chosen are read together and given one mark for (a) and one mark for (b).
 
 The credit guides below turn this into points you can check your own answer against. Each bracketed figure is one accurate, relevant point developed to the stated depth, and **every guide is capped at the tariff of its part**. Where a guide lists more points than are needed, every listed point carries the same credit, so it does not matter which ones you choose; other valid points of the same quality earn the same credit.
 
 ### Question 1
 
-**(a) [4]** — for **each** of the two chosen Hadiths: the central teaching correctly stated **[1]**, and developed with a link to belief or to a supporting verse or Hadith **[1]**. Two Hadiths × 2 = 4.
+**(a) [4]** — for **each** of the two chosen Hadith: the central teaching correctly stated **[1]**, and developed with a link to belief or to a supporting verse or Hadith **[1]**. Two Hadith × 2 = 4.
 
 - **(i)** Faith means sincere goodwill and loyalty (nasiha): worshipping God alone, believing and acting on His Book, following His Messenger [1], and giving honest counsel and goodwill to Muslim leaders and to ordinary people, so religion covers relationships with people as well as with God [1].
 - **(ii)** Caring for orphans is one of the highest good deeds [1]; the Prophet (pbuh), himself an orphan, promised closeness to him in Paradise, and the Qur'an repeatedly commands kindness to orphans and warns against consuming their property (Sura 4.10) [1].
 - **(iii)** Honesty and generosity in business are part of faith and earn God's mercy [1]; Muslims believe trade is lawful and blessed when it is fair, and the Qur'an condemns those who give short measure (Sura 83.1–3) [1].
 - **(iv)** Muslims form one united body (the umma) [1]; the suffering of one believer is the concern of all, just as the Qur'an calls the believers a single brotherhood (Sura 49.10) [1].
 
-**(b) [4]** — for **each** of the two chosen Hadiths, one practical action explained **[2]**. Two Hadiths × 2 = 4. For example:
+**(b) [4]** — for **each** of the two chosen Hadith, one practical action explained **[2]**. Two Hadith × 2 = 4. For example:
 
 - **(i)** Praying and acting with a sincere intention rather than for show, giving honest advice to friends, obeying and advising leaders respectfully, and speaking up politely when something is wrong [2].
 - **(ii)** Sponsoring an orphan through a charity, fostering or supporting orphans in one's family, and protecting an orphan's inheritance honestly if one is responsible for it [2].
@@ -133,19 +133,19 @@ The credit guides below turn this into points you can check your own answer agai
 
 **(a) [10]** — each accurate, developed point **[2]**; credit the **best five** (maximum 10).
 
-- **Imam al-Bukhari** (Muhammad ibn Isma'il, 194–256 AH) was born in Bukhara, began memorising Hadiths as a boy and travelled widely, to the Hijaz, Iraq, Syria and Egypt, to learn them from many teachers [2].
-- He is reported to have spent about **sixteen years** on his Sahih and to have chosen its contents from hundreds of thousands of reports; it contains about 7,000 Hadiths including repetitions, and far fewer without them [2].
+- **Imam al-Bukhari** (Muhammad ibn Isma'il, 194–256 AH) was born in Bukhara, began memorising Hadith as a boy and travelled widely, to the Hijaz, Iraq, Syria and Egypt, to learn them from many teachers [2].
+- He is reported to have spent about **sixteen years** on his Sahih and to have chosen its contents from hundreds of thousands of reports; it contains about 7,000 Hadith including repetitions, and far fewer without them [2].
 - His conditions were very strict: every narrator had to be of sound character and memory, and it had to be established that each narrator had actually **met** the person he narrated from [2].
-- The Sahih is arranged in **books by subject**, such as faith, prayer and fasting, and his chapter headings show his own legal understanding of the Hadiths beneath them [2].
-- **Imam Muslim** (Muslim ibn al-Hajjaj, died 261 AH) came from Nishapur and was a student of al-Bukhari; he also travelled widely and included only Hadiths he judged sound [2].
-- Muslim accepted a narration if the two narrators lived at the same time and **could have met**, and he wrote an **introduction** explaining the principles for accepting Hadiths [2].
+- The Sahih is arranged in **books by subject**, such as faith, prayer and fasting, and his chapter headings show his own legal understanding of the Hadith beneath them [2].
+- **Imam Muslim** (Muslim ibn al-Hajjaj, died 261 AH) came from Nishapur and was a student of al-Bukhari; he also travelled widely and included only Hadith he judged sound [2].
+- Muslim accepted a narration if the two narrators lived at the same time and **could have met**, and he wrote an **introduction** explaining the principles for accepting Hadith [2].
 - Muslim gathers **all the chains and wordings of a Hadith in one place**, which makes comparing versions easy; Sunni scholars call the two books **al-Sahihayn** and regard them as the most reliable books after the Qur'an [2].
 
 **(b) [4]** — each reasoned point **[2]**; credit the **best two** (maximum 4).
 
-- The Hadiths are the **second source** after the Qur'an; they explain and give detail to the Qur'an's general commands, such as how zakat is calculated [2].
+- The Hadith are the **second source** after the Qur'an; they explain and give detail to the Qur'an's general commands, such as how zakat is calculated [2].
 - Where the Qur'an is silent, rulings may come from the Prophet's (pbuh) words or practice, as when he approved Mu'adh ibn Jabal's plan to judge by the Qur'an, then the Sunna, then his own reasoning [2].
-- **Consensus** must agree with the Qur'an and Hadiths, and **analogy** works by extending a ruling found in them to a new case, so without the Hadiths scholars would have much less to base new rulings on [2].
+- **Consensus** must agree with the Qur'an and Hadith, and **analogy** works by extending a ruling found in them to a new case, so without the Hadith scholars would have much less to base new rulings on [2].
 
 ### Question 3
 
@@ -217,8 +217,8 @@ An answer arguing that some things, such as when a person is born or dies, are o
 **How is 2058 Paper 2 structured?**
 Paper 2 lasts 1 hour 30 minutes and is worth 50 marks (50%). It has five questions: Questions 1 and 2 are compulsory and you choose two of Questions 3 to 5. Question 1 is worth 8 marks (4 + 4) and each other answered question 14 marks (10 + 4).
 
-**What does Question 2 on the Hadiths test?**
-The history and importance of the Hadiths, for example the compilers and features of Sahih al-Bukhari and Sahih Muslim, and their role in Muslim law.
+**What does Question 2 on the Hadith test?**
+The history and importance of the Hadith, for example the compilers and features of Sahih al-Bukhari and Sahih Muslim, and their role in Muslim law.
 
 **Are these real Cambridge questions?**
 No. They are original questions in the published format and tariffs.

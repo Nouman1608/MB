@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International GCSE Chemistry: The properties of acids and bases, and preparation of salts (9202)"
+title: "OxfordAQA IGCSE Chemistry: The properties of acids and bases, and preparation of salts (9202)"
 seoTitle: "OxfordAQA IGCSE Chemistry (9202) Acids and Salts Guide"
 resourceType: "study-guides"
 subject: "chemistry"

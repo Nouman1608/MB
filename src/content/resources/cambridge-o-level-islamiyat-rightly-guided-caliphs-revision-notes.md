@@ -47,12 +47,12 @@ states. Events before 632, during the Prophet's (pbuh) lifetime, belong to Paper
 | End of rule | Died of illness | Stabbed by Abu Lu'lu'a | Martyred by rebels in Madina | Struck by Ibn Muljam in Kufa |
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-rightly-guided-caliphs--01-caliphs-timeline.webp" width="900" height="517" alt="A scaled bar from 632 to 661 divided into the rules of Abu Bakr (632–634), Umar (634–644), Uthman (644–656) and Ali (656–661), with key events for each: Usama's army, the Ridda wars and the collection of the Qur'an; Umar's conquests and administration; Uthman's expansion, navy, standard copies and the siege; and Ali's battles of the Camel, Siffin and Nahrawan." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-rightly-guided-caliphs--01-caliphs-timeline.webp" width="900" height="517" alt="A scaled bar from 632 to 661 divided into the rules of Abu Bakr (632–634), Umar (634–644), Uthman (644–656) and Ali (RA) (656–661), with key events for each: Usama's army, the Ridda wars and the collection of the Qur'an; Umar's conquests and administration; Uthman's expansion, navy, standard copies and the siege; and Ali (RA)'s battles of the Camel, Siffin and Nahrawan." loading="lazy">
   <figcaption>Four rules in under thirty years; Umar (RA) and Uthman (RA) ruled longest.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-rightly-guided-caliphs--06-how-each-was-chosen.webp" width="900" height="567" alt="Four cards: Abu Bakr chosen by discussion at the Saqifa and a public pledge; Umar nominated by Abu Bakr after consultation; Uthman chosen by a council of six through Abd al-Rahman ibn Awf; and Ali chosen in Madinah after Uthman's death. The members of the council of six are listed." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-rightly-guided-caliphs--06-how-each-was-chosen.webp" width="900" height="567" alt="Four cards: Abu Bakr chosen by discussion at the Saqifa and a public pledge; Umar nominated by Abu Bakr after consultation; Uthman chosen by a council of six through Abd al-Rahman ibn Awf; and Ali (RA) chosen in Madinah after Uthman's death. The members of the council of six are listed." loading="lazy">
   <figcaption>Four different methods, each resting on consultation and consent.</figcaption>
 </figure>
 
@@ -110,7 +110,7 @@ states. Events before 632, during the Prophet's (pbuh) lifetime, belong to Paper
 - Renowned for knowledge of the Qur'an, judgement and bravery.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-rightly-guided-caliphs--05-ali-civil-conflict.webp" width="900" height="719" alt="Six steps through Ali's rule: chosen in Madinah in 656; the Battle of the Camel over punishing Uthman's killers; the capital moved to Kufa; arbitration at Siffin in 657; the defeat of the Kharijites at Nahrawan in 658; and his death at Kufa in 661." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-rightly-guided-caliphs--05-ali-civil-conflict.webp" width="900" height="719" alt="Six steps through Ali (RA)'s rule: chosen in Madinah in 656; the Battle of the Camel over punishing Uthman's killers; the capital moved to Kufa; arbitration at Siffin in 657; the defeat of the Kharijites at Nahrawan in 658; and his death at Kufa in 661." loading="lazy">
   <figcaption>Camel, Siffin, Nahrawan: three crises in three years, in that order.</figcaption>
 </figure>
 

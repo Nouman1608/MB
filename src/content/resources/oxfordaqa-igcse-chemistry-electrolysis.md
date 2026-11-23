@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International GCSE Chemistry: Electrolysis (9202)"
+title: "OxfordAQA IGCSE Chemistry: Electrolysis (9202)"
 seoTitle: "OxfordAQA IGCSE Chemistry (9202) Electrolysis Study Guide"
 resourceType: "study-guides"
 subject: "chemistry"

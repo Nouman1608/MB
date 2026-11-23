@@ -1,6 +1,6 @@
 ---
-title: "Cambridge O Level Islamiyat: Major Teachings in the Hadiths — Revision Notes (2058)"
-seoTitle: "Cambridge O Level Islamiyat Major Teachings in Hadiths Notes"
+title: "Cambridge O Level Islamiyat: Major Teachings in the Hadith — Revision Notes (2058)"
+seoTitle: "Cambridge O Level Islamiyat Major Teachings in Hadith Notes"
 resourceType: "revision-notes"
 subject: "islamiyat"
 level: ["o-levels"]
@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "paper-2-2058"
     subtopic: "major-teachings-hadiths-2058"
-description: "Keyword cues, teachings and modern examples for all 20 set Hadiths in Cambridge O Level Islamiyat 2058 Paper 2 Question 1, plus a model answer and exam traps."
+description: "Keyword cues, teachings and modern examples for all 20 set Hadith in Cambridge O Level Islamiyat 2058 Paper 2 Question 1, plus a model answer and exam traps."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
@@ -25,13 +25,13 @@ reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page
 ---
 
 **These notes support Paper 2 Question 1 of Cambridge O Level Islamiyat 2058, Major Teachings in the
-Hadiths of the Prophet (pbuh).** Each of the twenty set Hadiths is listed with a keyword cue (the phrase
+Hadith of the Prophet (pbuh).** Each of the twenty set Hadith is listed with a keyword cue (the phrase
 that helps you recognise it in the exam), its teaching, and a modern example of putting it into
 practice. Cover the right-hand columns and test yourself.
 
 ## Syllabus coverage
 
-**2058 Paper 2, Topic 1 (2026–2027 syllabus):** twenty Hadiths from al-Bukhari and Muslim on
+**2058 Paper 2, Topic 1 (2026–2027 syllabus):** twenty Hadith from al-Bukhari and Muslim on
 individual conduct and life in the community; candidates answer on two of four set passages,
 explaining teaching and practice (8 marks).
 
@@ -50,8 +50,8 @@ explaining teaching and practice (8 marks).
 | "not at your forms … but your hearts and deeds" | Intention and action matter to Allah | Not judging people by clothes or wealth |
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-major-teachings-in-the-hadiths--01-six-themes-map.webp" width="900" height="906" alt="Six theme cards group the twenty Hadiths: true faith, speech and behaviour, charity and good work, treatment of the vulnerable, community and leaders, and knowledge and martyrdom. Each lists its Hadiths by key phrase and ends with typical exam applications or its key idea." loading="lazy">
-  <figcaption>Grouping the Hadiths by theme turns twenty passages into one picture of Muslim character.</figcaption>
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-major-teachings-in-the-hadiths--01-six-themes-map.webp" width="900" height="906" alt="Six theme cards group the twenty Hadith: true faith, speech and behaviour, charity and good work, treatment of the vulnerable, community and leaders, and knowledge and martyrdom. Each lists its Hadith by key phrase and ends with typical exam applications or its key idea." loading="lazy">
+  <figcaption>Grouping the Hadith by theme turns twenty passages into one picture of Muslim character.</figcaption>
 </figure>
 
 <figure class="topic-figure">
@@ -110,7 +110,7 @@ help those who suffer. Mercy includes animals; the Prophet (pbuh) taught kindnes
 dog. Teachers and parents should correct gently rather than harshly. This links to the Hadith "Be
 gentle and do not be hard."
 
-## Linking Hadiths to the Qur'an
+## Linking Hadith to the Qur'an
 
 - **Brotherhood and unity:** Qur'an 49.10, "The believers are but a single brotherhood."
 - **Speech:** Qur'an 49.11–12 forbids mockery and backbiting.
@@ -126,7 +126,7 @@ gentle and do not be hard."
 
 ## How is this topic examined?
 
-In Cambridge O Level 2058 Paper 2 (1 hour 30 minutes, 50 marks), the set Hadiths is examined by Question 1, which is compulsory: you choose two of the Hadiths printed and answer part (a) on their teaching (4 marks) and part (b) on their application (4 marks). Each answer has a knowledge part and a shorter part asking for understanding or significance, so revise every point with a reason why it matters to Muslims, not just the facts.
+In Cambridge O Level 2058 Paper 2 (1 hour 30 minutes, 50 marks), the set Hadith is examined by Question 1, which is compulsory: you choose two of the Hadith printed and answer part (a) on their teaching (4 marks) and part (b) on their application (4 marks). Each answer has a knowledge part and a shorter part asking for understanding or significance, so revise every point with a reason why it matters to Muslims, not just the facts.
 
 ## Frequently asked questions
 
@@ -139,7 +139,7 @@ Prophet (pbuh) grew up an orphan, and this Hadith promises a special place near 
 
 ## Related pages
 
-- [Major Teachings in the Hadiths study guide](/resources/cambridge-o-level-islamiyat-major-teachings-in-the-hadiths/)
+- [Major Teachings in the Hadith study guide](/resources/cambridge-o-level-islamiyat-major-teachings-in-the-hadiths/)
 - [Paper 2 revision notes](/resources/o-level-islamiyat-paper-2-revision-notes/)
 - [Paper 2 practice questions](/resources/o-level-islamiyat-paper-2-practice/)
 

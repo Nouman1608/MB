@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International GCSE Chemistry: Carbon compounds as fuels (9202) -- Revision Notes"
+title: "OxfordAQA IGCSE Chemistry: Carbon compounds as fuels (9202) -- Revision Notes"
 seoTitle: "OxfordAQA IGCSE Chemistry (9202) Fuels and Crude Oil Notes"
 resourceType: "revision-notes"
 subject: "chemistry"

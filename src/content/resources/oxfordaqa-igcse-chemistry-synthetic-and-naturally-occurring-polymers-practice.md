@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International GCSE Chemistry: Synthetic and naturally occurring polymers (9202) -- Practice Questions"
+title: "OxfordAQA IGCSE Chemistry: Synthetic and naturally occurring polymers (9202) -- Practice Questions"
 seoTitle: "OxfordAQA IGCSE Chemistry Polymers Practice (9202)"
 resourceType: "practice-questions"
 subject: "chemistry"

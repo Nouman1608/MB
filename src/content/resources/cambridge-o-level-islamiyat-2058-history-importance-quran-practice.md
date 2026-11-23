@@ -64,7 +64,7 @@ sure he included only genuine material? **[3]**
 **9. (a)** Write an account of the compilation of the Qur'an during the caliphate of Abu Bakr (RA). **[10]**
 **(b)** "The Qur'an would have been lost without Abu Bakr (RA)." Do you agree? Give reasons. **[4]**
 
-**10. (a)** Describe how the Qur'an is used, alongside the Hadiths, ijma' and qiyas, in Islamic legal
+**10. (a)** Describe how the Qur'an is used, alongside the Hadith, ijma' and qiyas, in Islamic legal
 thinking. **[10]**
 **(b)** Explain why the Qur'an must always come first among the sources of law. **[4]**
 
@@ -151,7 +151,7 @@ same credit.
 **10. (a)** Credit the best five, [2] each:
 - The Qur'an is the first and highest source; every ruling must agree with it [2].
 - It states many laws directly, for example prayer, zakat, fasting and inheritance shares [2].
-- The Hadiths explain and detail its commands, such as the number of units in each prayer and the
+- The Hadith explain and detail its commands, such as the number of units in each prayer and the
   rates of zakat, and cover matters it does not mention in detail [2].
 - Ijma' is the agreement of qualified scholars on a ruling based on the Qur'an and Sunna, such as the
   Companions' agreement to compile the Qur'an [2].

@@ -102,7 +102,7 @@ Quote: Ibn al-Mubarak is reported to have said that the Isnad is part of the rel
 | Chain description | Likely grade |
 |---|---|
 | All narrators upright, excellent memory, met in sequence | Sahih |
-| All upright and met, one slightly weaker in memory | Hasan |
+| All upright and met, one slightly weaker in memory | Hasan (RA) |
 | One link is missing or unknown | Da'if |
 | A narrator is known to have invented reports | Maudu' |
 
@@ -131,7 +131,7 @@ Quote: Ibn al-Mubarak is reported to have said that the Isnad is part of the rel
 1. What is the Isnad?
 2. What is the Matn?
 3. Give two things scholars checked about each narrator.
-4. What is a Hasan Hadith?
+4. What is a Hasan (RA) Hadith?
 5. What is a Maudu' Hadith?
 6. In which city was Imam Bukhari born?
 7. Whose student was Imam Muslim?

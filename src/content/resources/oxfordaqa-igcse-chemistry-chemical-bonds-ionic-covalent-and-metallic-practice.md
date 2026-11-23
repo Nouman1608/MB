@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International GCSE Chemistry: Chemical bonds: ionic, covalent and metallic (9202) -- Practice Questions"
+title: "OxfordAQA IGCSE Chemistry: Chemical bonds: ionic, covalent and metallic (9202) -- Practice Questions"
 seoTitle: "OxfordAQA IGCSE Chemistry Chemical Bonds Practice"
 resourceType: "practice-questions"
 subject: "chemistry"

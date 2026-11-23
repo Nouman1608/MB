@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International GCSE Chemistry: Electrolysis (9202) -- Revision Notes"
+title: "OxfordAQA IGCSE Chemistry: Electrolysis (9202) -- Revision Notes"
 seoTitle: "OxfordAQA IGCSE Chemistry (9202) Electrolysis Revision Notes"
 resourceType: "revision-notes"
 subject: "chemistry"

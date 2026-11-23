@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International GCSE Chemistry: Chemical cells and fuel cells (9202) -- Revision Notes"
+title: "OxfordAQA IGCSE Chemistry: Chemical cells and fuel cells (9202) -- Revision Notes"
 seoTitle: "OxfordAQA IGCSE Chemistry (9202) Fuel Cells Revision Notes"
 resourceType: "revision-notes"
 subject: "chemistry"

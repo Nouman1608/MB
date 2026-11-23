@@ -11,7 +11,7 @@
  * Standard transliterations follow those
  * pages. Cards state what Muslims believe and practise, and what the syllabus
  * asks for, factually; they give no rulings or opinions. The Qur'anic passages
- * and Hadiths set for study are listed in the syllabus appendices and change
+ * and Hadith set for study are listed in the syllabus appendices and change
  * from series to series, so cards on individual passages are well-known
  * examples, not a claim about the current list. No revision-notes page maps to
  * a single subtopic, so every card is authored.
@@ -57,7 +57,7 @@ export const DECK_CAMBRIDGE_O_LEVEL_ISLAMIYAT: FlashcardDeck = {
       { n: 6, f: 'What does the Qur’an teach about prophethood?', b: 'Muhammad (pbuh) is the last of a line of prophets sent by God to different peoples with essentially the same message. The stories of earlier prophets and communities are told as lessons and warnings.' },
       { n: 7, f: 'How should you write about a Qur’anic theme in the exam?', b: 'Link the named theme to a specific passage or example of its teaching, then explain its importance for Muslims, rather than listing themes as abstract labels.' },
       { n: 8, f: 'How is Question 1 on Paper 1 (the Qur’anic passages) set?', b: 'Three passages are set and you write on any two, for 8 marks. Read all three before choosing.' },
-      { n: 9, f: 'What characterises a top-band AO1 answer in O Level Islamiyat?', b: 'Detailed, accurate knowledge, and it is likely to quote Qur’an verses and Hadiths (or other relevant quotations) to support the points made.' },
+      { n: 9, f: 'What characterises a top-band AO1 answer in O Level Islamiyat?', b: 'Detailed, accurate knowledge, and it is likely to quote Qur’an verses and Hadith (or other relevant quotations) to support the points made.' },
     ]),
     ...sub(P1, 'history-importance-quran-2058', '1.2', [
       { n: 1, f: 'Over how long was the Qur’an revealed, and how did revelation begin?', b: 'Over 23 years, beginning in 610 CE in the Cave of Hira, through the angel Jibril.' },
@@ -107,11 +107,11 @@ export const DECK_CAMBRIDGE_O_LEVEL_ISLAMIYAT: FlashcardDeck = {
     ...sub(P2, 'history-importance-hadiths-2058', '2.2', [
       { n: 1, f: 'What is the difference between isnad and matn?', b: 'The isnad is the chain of people who transmitted a Hadith. The matn is its text (wording). Scholars tested both to judge a Hadith’s reliability.' },
       { n: 2, f: 'What are the three main grades of Hadith?', b: 'Sahih (sound), hasan (good) and da’if (weak).' },
-      { n: 3, f: 'What is the difference between a musnad and a musannaf collection?', b: 'A musnad arranges Hadiths by the Companion who narrated them, such as the Musnad of Ahmad ibn Hanbal. A musannaf arranges them by subject, such as the Muwatta of Imam Malik.' },
+      { n: 3, f: 'What is the difference between a musnad and a musannaf collection?', b: 'A musnad arranges Hadith by the Companion who narrated them, such as the Musnad of Ahmad ibn Hanbal. A musannaf arranges them by subject, such as the Muwatta of Imam Malik.' },
       { n: 4, f: 'Name the six major Sunni Hadith collections', b: 'Sahih al-Bukhari, Sahih Muslim, and the Sunan of Abu Dawud, al-Tirmidhi, al-Nasa’i and Ibn Majah.' },
       { n: 5, f: 'Name the four major Shi’a Hadith collections', b: 'Al-Kafi (al-Kulayni), Man la yahduruhu al-faqih (Ibn Babawayh, al-Saduq), and Tahdhib al-ahkam and al-Istibsar (both by al-Tusi).' },
-      { n: 6, f: 'How are Hadiths used in Islamic law?', b: 'They are the second source of law after the Qur’an, explaining and adding detail to it, and are used alongside consensus (ijma’) and analogy (qiyas).' },
-      { n: 7, f: 'Which Umayyad caliph ordered Hadiths to be collected in writing?', b: 'Umar ibn Abd al-Aziz (ruled 717–720), concerned that knowledge would be lost as scholars died.' },
+      { n: 6, f: 'How are Hadith used in Islamic law?', b: 'They are the second source of law after the Qur’an, explaining and adding detail to it, and are used alongside consensus (ijma’) and analogy (qiyas).' },
+      { n: 7, f: 'Which Umayyad caliph ordered Hadith to be collected in writing?', b: 'Umar ibn Abd al-Aziz (ruled 717–720), concerned that knowledge would be lost as scholars died.' },
     ]),
     ...sub(P2, 'rightly-guided-caliphs-2058', '2.3', [
       { n: 1, f: 'Name the four Rightly Guided Caliphs and the dates of their rule', b: 'Abu Bakr (632–634), Umar ibn al-Khattab (634–644), Uthman ibn Affan (644–656), Ali ibn Abi Talib (656–661).' },

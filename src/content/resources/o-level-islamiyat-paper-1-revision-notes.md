@@ -65,14 +65,14 @@ matters more than depth in only two or three.
   reasoning to engage with the question, not just descriptive recall.
 
 **What characterises the top band:** the top AO1 band descriptor says
-answers are "likely to quote Qur'an verses and Hadiths to support
+answers are "likely to quote Qur'an verses and Hadith to support
 points made" (or other relevant quotations), while the band below says
 answers "may" quote — so a top-band answer characteristically quotes,
 though the descriptor does not make this an absolute rule, and other
 relevant quotations count too, not only Qur'an and Hadith.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-1--02-assessment-objectives.webp" width="900" height="526" alt="A bar split 68 to 32: AO1, recall, select and present, against AO2, understanding of significance and reasoning. Below, the highest AO1 band is &quot;likely to quote Qur'an verses and Hadiths&quot;, while the band below &quot;may&quot; quote." loading="lazy">
+  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-1--02-assessment-objectives.webp" width="900" height="526" alt="A bar split 68 to 32: AO1, recall, select and present, against AO2, understanding of significance and reasoning. Below, the highest AO1 band is &quot;likely to quote Qur'an verses and Hadith&quot;, while the band below &quot;may&quot; quote." loading="lazy">
   <figcaption>Two-thirds of the marks are knowledge; quoting supporting references marks the top band.</figcaption>
 </figure>
 
@@ -120,7 +120,7 @@ unsupported label scores little.
 615  First migration to Abyssinia
 619  Year of Sorrow -- deaths of Khadijah and Abu Talib
 622  HIJRA to Madinah -- start of the Islamic calendar
-     (pledges of Aqabah secured support; Ali slept in the Prophet's
+     (pledges of Aqabah secured support; Ali (RA) slept in the Prophet's
      bed as a decoy; the Prophet and Abu Bakr sheltered three days
      in the cave of Thawr before completing the journey)
 622  Constitution of Madinah
@@ -155,7 +155,7 @@ their lives and be ready to explain the importance of their actions and experien
   his message, whose support sustained him in Makkah, and **Aisha (RA)**, later an important narrator of
   Hadith.
 - **His descendants** — his children (including **Fatimah**), his grandchildren (including **Hasan**
-  and **Husayn**), and the line recognised among Shi'a Muslims as the **Imams**.
+  and **Husayn (RA)**), and the line recognised among Shi'a Muslims as the **Imams**.
 - **His leading Companions** — the **Ten Blessed Companions**, his **Scribes** (such as **Zayd ibn
   Thabit**, who wrote down revelation), and the other major figures of his ministry; for converts,
   know how and why they accepted Islam and what it cost them.
@@ -196,7 +196,7 @@ their lives and be ready to explain the importance of their actions and experien
 **Answers:** 1. Question 1 and Question 2 are compulsory; two more
 must be answered from Questions 3–5. 2. 8 marks; candidates choose any
 two of three set passages to write on. 3. Quoting Qur'an verses and
-Hadiths to support the points made, alongside detailed and accurate
+Hadith to support the points made, alongside detailed and accurate
 knowledge. 4. Abu Bakr (RA) compiled it after Yamama; Uthman (RA) standardised
 it and distributed official copies. 5. It bound Muslims, Jews and
 other groups into one community with defined rights and duties, and

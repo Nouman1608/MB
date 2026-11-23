@@ -93,7 +93,7 @@ when he did, they all followed, ending a difficult moment [1].
 he was sent to Yathrib after the first pledge of Aqaba to teach the Qur'an; many in Yathrib accepted
 Islam through him; he carried the banner at Uhud and was martyred there. Maximum 3.
 
-**6.** Ali (RA) [1], Hasan [1], Husayn [1], Ali Zayn al-Abidin [1].
+**6.** Ali (RA) [1], Hasan (RA) [1], Husayn (RA) [1], Ali Zayn al-Abidin [1].
 
 **7.** Her father was the chief of the Banu Mustaliq, so the marriage built a bond with the tribe [1];
 the Companions freed many captives of her tribe because they had become the Prophet's (pbuh) relatives by
@@ -105,7 +105,7 @@ marriage [1].
 - She married the Prophet (pbuh) in Madina and was known for her intelligence and memory [2].
 - She was cleared of a false accusation by revelation (Sura 24.11–20), which taught Muslims to reject
   slander without proof [2].
-- She narrated a very large number of Hadiths, especially about his private life, prayer and family
+- She narrated a very large number of Hadith, especially about his private life, prayer and family
   conduct [2].
 - The Prophet (pbuh) died in her room, and was buried there [2].
 - After his death Companions consulted her on law and the Qur'an; she taught men and women for many
@@ -124,9 +124,9 @@ marriage [1].
   [2].
 - When she asked for a servant, the Prophet (pbuh) taught her and Ali (RA) to glorify God before sleeping
   instead, which is still practised [2].
-- Her sons Hasan and Husayn were loved by the Prophet (pbuh), who called them leaders of the youth of
+- Her sons Hasan (RA) and Husayn (RA) were loved by the Prophet (pbuh), who called them leaders of the youth of
   Paradise [2].
-- At the Mubahala with the Christians of Najran the Prophet (pbuh) brought out Ali (RA), Fatima (RA), Hasan and Husayn
+- At the Mubahala with the Christians of Najran the Prophet (pbuh) brought out Ali (RA), Fatima (RA), Hasan (RA) and Husayn (RA)
   (Sura 3.61) [2].
 - She died a few months after her father [2].
 **(b)** Credit the best two, [2] each:

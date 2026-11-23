@@ -1,6 +1,6 @@
 ---
-title: "Cambridge O Level Islamiyat: Major Teachings in the Hadiths, Subtopic 2.1 (2058)"
-seoTitle: "Cambridge O Level Islamiyat Major Teachings in Hadiths Guide"
+title: "Cambridge O Level Islamiyat: Major Teachings in the Hadith, Subtopic 2.1 (2058)"
+seoTitle: "Cambridge O Level Islamiyat Major Teachings in Hadith Guide"
 resourceType: "study-guides"
 subject: "islamiyat"
 level: ["o-levels"]
@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "paper-2-2058"
     subtopic: "major-teachings-hadiths-2058"
-description: "Theme-based study guide to the 20 set Hadiths in Cambridge O Level Islamiyat 2058 Paper 2: faith, speech, charity, work, leadership and mercy."
+description: "Theme-based study guide to the 20 set Hadith in Cambridge O Level Islamiyat 2058 Paper 2: faith, speech, charity, work, leadership and mercy."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
@@ -24,11 +24,11 @@ featured: false
 reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 ---
 
-**Major Teachings in the Hadiths of the Prophet (pbuh) is the compulsory first question of Paper 2 in
-Cambridge O Level Islamiyat 2058.** Twenty Hadiths, all recorded by al-Bukhari or Muslim, are set for
+**Major Teachings in the Hadith of the Prophet (pbuh) is the compulsory first question of Paper 2 in
+Cambridge O Level Islamiyat 2058.** Twenty Hadith, all recorded by al-Bukhari or Muslim, are set for
 study under two headings, individual conduct and life in the community. Four appear in the exam in
 Arabic and English; you choose two and explain what each teaches and how Muslims can act on it.
-This guide groups the Hadiths by shared themes, so that you understand them as a connected picture
+This guide groups the Hadith by shared themes, so that you understand them as a connected picture
 of Muslim character.
 
 ## Syllabus coverage
@@ -40,13 +40,13 @@ of Muslim character.
 - Exam: four passages set, two answered, 8 marks in total
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-major-teachings-in-the-hadiths--01-six-themes-map.webp" width="900" height="906" alt="Six theme cards group the twenty Hadiths: true faith, speech and behaviour, charity and good work, treatment of the vulnerable, community and leaders, and knowledge and martyrdom. Each lists its Hadiths by key phrase and ends with typical exam applications or its key idea." loading="lazy">
-  <figcaption>Grouping the Hadiths by theme turns twenty passages into one picture of Muslim character.</figcaption>
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-major-teachings-in-the-hadiths--01-six-themes-map.webp" width="900" height="906" alt="Six theme cards group the twenty Hadith: true faith, speech and behaviour, charity and good work, treatment of the vulnerable, community and leaders, and knowledge and martyrdom. Each lists its Hadith by key phrase and ends with typical exam applications or its key idea." loading="lazy">
+  <figcaption>Grouping the Hadith by theme turns twenty passages into one picture of Muslim character.</figcaption>
 </figure>
 
 ## Theme 1: What does true faith look like?
 
-Several Hadiths define faith by its effects rather than by words alone. "Religion is sincerity"
+Several Hadith define faith by its effects rather than by words alone. "Religion is sincerity"
 shows that faith means sincere loyalty to Allah, His Book, His Messenger, Muslim leaders and ordinary
 people. "None of you believes until he wants for his brother what he wants for himself" makes care
 for others a condition of complete faith. The Hadith of the man who asks whether performing
@@ -55,7 +55,7 @@ and is told "Yes", shows that Islam is built on manageable duties done faithfull
 at your forms and possessions but at your hearts and deeds" places intention and action above
 appearance and wealth.
 
-**Exam use:** these Hadiths suit applications about intention in worship, honest friendship and
+**Exam use:** these Hadith suit applications about intention in worship, honest friendship and
 avoiding showing off.
 
 ## Theme 2: How should a Muslim speak and behave?
@@ -143,7 +143,7 @@ The four
 passages set may come from either group. Knowing the theme helps your explanation; marks come from
 meaning and application.
 
-**How many Hadiths should I learn?**
+**How many Hadith should I learn?**
 All twenty, since any four may be set.
 
 **Can I write about the Hadith's background?**
@@ -152,7 +152,7 @@ Abu Musa and Mu'adh being sent to Yemen.
 
 ## Related pages
 
-- [Major Teachings in the Hadiths revision notes](/resources/cambridge-o-level-islamiyat-major-teachings-in-the-hadiths-revision-notes/)
+- [Major Teachings in the Hadith revision notes](/resources/cambridge-o-level-islamiyat-major-teachings-in-the-hadiths-revision-notes/)
 - [Paper 2 study guide](/resources/o-level-islamiyat-paper-2/)
 - [Paper 2 practice questions](/resources/o-level-islamiyat-paper-2-practice/)
 

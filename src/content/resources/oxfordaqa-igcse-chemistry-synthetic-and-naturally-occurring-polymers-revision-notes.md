@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International GCSE Chemistry: Synthetic and naturally occurring polymers (9202) -- Revision Notes"
+title: "OxfordAQA IGCSE Chemistry: Synthetic and naturally occurring polymers (9202) -- Revision Notes"
 seoTitle: "OxfordAQA IGCSE Chemistry Polymers Revision Notes (9202)"
 resourceType: "revision-notes"
 subject: "chemistry"

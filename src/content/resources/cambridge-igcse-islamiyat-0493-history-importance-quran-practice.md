@@ -65,7 +65,7 @@ final decision teach Muslims about meeting new needs in the community? **[4]**
 command to begin warning the people. **[10]**
 **(b)** What can Muslims learn from Khadija's (RA) response to the Prophet (pbuh) on that night? **[4]**
 
-**11. (a)** Describe how the Qur'an is used in legal thinking together with the Hadiths, ijma' and
+**11. (a)** Describe how the Qur'an is used in legal thinking together with the Hadith, ijma' and
 qiyas. **[10]**
 **(b)** Explain why a ruling based on ijma' or qiyas can never contradict the Qur'an. **[4]**
 
@@ -161,8 +161,8 @@ Qur'an and Hadith give no direct answer [1]. For example, drugs are forbidden be
 
 **11. (a)** Credit the best five, [2] each:
 - The Qur'an is the first source of law, the word of God, and all other sources depend on it [2].
-- Many commands are general, such as prayer or zakat; the Hadiths explain how to carry them out [2].
-- The Qur'an itself tells Muslims to obey the Messenger (for example Sura 4.59), so the Hadiths are
+- Many commands are general, such as prayer or zakat; the Hadith explain how to carry them out [2].
+- The Qur'an itself tells Muslims to obey the Messenger (for example Sura 4.59), so the Hadith are
   the second source [2].
 - Where these are silent, scholars may agree on a ruling by ijma', as the Companions did over the
   compilation of the Qur'an [2].

@@ -177,7 +177,7 @@ Sura 33.40 calls him "the Messenger of God and the Seal of the Prophets". Muslim
 
 - no prophet will come after him, so his message is final and complete;
 - earlier prophets were sent to particular peoples, but he was sent to all humanity (Sura 34.28);
-- his Sunnah, preserved in the Hadiths, is the model Muslims follow (Sura 33.21);
+- his Sunnah, preserved in the Hadith, is the model Muslims follow (Sura 33.21);
 - belief in the finality of his prophethood is part of faith, so a claim to new prophethood is rejected.
 
 <figure class="topic-figure">

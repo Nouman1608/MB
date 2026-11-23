@@ -88,7 +88,7 @@ Abi Waqqas, Sa'id ibn Zayd (RA), Abu Ubayda ibn al-Jarrah (RA): four correct [2]
 learned other languages at the Prophet's (pbuh) request; he was present when the Qur'an was reviewed in the
 final year. Maximum 2.
 
-**4.** Any three, [1] each: Hasan; Husayn; Ali Zayn al-Abidin; Muhammad al-Baqir; Ja'far al-Sadiq;
+**4.** Any three, [1] each: Hasan (RA); Husayn (RA); Ali Zayn al-Abidin; Muhammad al-Baqir; Ja'far al-Sadiq;
 Musa al-Kazim; Ali al-Rida; Muhammad al-Jawad; Ali al-Hadi; Hasan al-Askari; Muhammad al-Mahdi.
 Maximum 3.
 
@@ -106,7 +106,7 @@ large part of the army for Tabuk; he helped the poor emigrants. Maximum 2.
 - A'isha was the daughter of Abu Bakr (RA); she joined the Prophet's (pbuh) household in Madina after the Hijra [2].
 - When false accusations were spread about her after a journey, her innocence was declared in the
   Qur'an (Sura 24.11 onwards) [2].
-- She had a sharp memory and narrated a very large number of Hadiths, especially on his private
+- She had a sharp memory and narrated a very large number of Hadith, especially on his private
   and family life [2].
 - The Prophet (pbuh) died in her room with his head resting on her, and was buried there [2].
 - Umm Salama (RA) (Hind) and her first husband Abu Salama were early Muslims who migrated to Abyssinia [2].
@@ -130,14 +130,14 @@ large part of the army for Tabuk; he helped the poor emigrants. Maximum 2.
 - Ruqayya married Uthman (RA) and emigrated with him to Abyssinia; after her death he married Umm Kulthum [2].
 - Fatima (RA) married Ali (RA); she was the only child to outlive the Prophet (pbuh), and he called her a part
   of himself [2].
-- Hasan and Husayn, sons of Fatima (RA) and Ali (RA), were loved by him and called leaders of the youth of
+- Hasan (RA) and Husayn (RA), sons of Fatima (RA) and Ali (RA), were loved by him and called leaders of the youth of
   paradise [2].
 **(b)** Credit the best two, [2] each:
 - Shi'a Muslims believe leadership after the Prophet (pbuh) was appointed by God within his family,
   beginning with Ali (RA), so the Imams are the rightful guides [2].
 - The Imams are believed to be protected from error and to explain the Qur'an and Sunnah, so their
   teachings are a source of law [2].
-- The sacrifice of Husayn at Karbala is remembered every year as a model of standing against
+- The sacrifice of Husayn (RA) at Karbala is remembered every year as a model of standing against
   injustice [2].
 
 **10. (a)** Credit the best five, [2] each:
@@ -172,7 +172,7 @@ large part of the army for Tabuk; he helped the poor emigrants. Maximum 2.
 **12. (a)** Credit the best five, [2] each:
 - He was the Prophet's (pbuh) cousin, brought up in his household, and the first child to accept Islam [2].
 - On the night of the Hijra he slept in the Prophet's (pbuh) bed and then returned the goods held in trust [2].
-- In Madina he married Fatima (RA); their sons were Hasan and Husayn [2].
+- In Madina he married Fatima (RA); their sons were Hasan (RA) and Husayn (RA) [2].
 - He fought bravely at Badr, Uhud and the Trench, where he faced the Makkan champion Amr ibn Abd Wudd [2].
 - He wrote the Treaty of Hudaybiyya and carried the standard at Khaybar [2].
 - During Tabuk he was left in charge of Madina; the Prophet (pbuh) said he was to him as Harun was

@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International GCSE Chemistry: Structure and bonding of carbon, and nanoparticles (9202)"
+title: "OxfordAQA IGCSE Chemistry: Structure and bonding of carbon, and nanoparticles (9202)"
 seoTitle: "OxfordAQA IGCSE Chemistry Carbon and Nanoparticles Guide"
 resourceType: "study-guides"
 subject: "chemistry"

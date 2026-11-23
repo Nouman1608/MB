@@ -35,7 +35,7 @@ The 2026–2027 syllabus lists five areas:
 1. the revelation of the Qur'an to the Prophet (pbuh) between 610 and 632;
 2. the compilation of the Qur'an under the Rightly Guided Caliphs;
 3. the major themes of the Qur'an, in the set passages and in similar passages;
-4. the use of the Qur'an in legal thinking, and its relationship with the Hadiths, consensus (ijma')
+4. the use of the Qur'an in legal thinking, and its relationship with the Hadith, consensus (ijma')
    and analogy (qiyas);
 5. its significance as the basis of all thought and action in Islam.
 
@@ -56,7 +56,7 @@ revelation to this month and night: "Ramadan is the month in which the Qur'an wa
 resumed with the opening verses of Sura 74, commanding the Prophet (pbuh) to "arise and warn", and from then
 on it continued until shortly before his death in 632.
 
-**How revelation came.** Hadiths describe several ways. Sometimes it came like the ringing of a bell,
+**How revelation came.** Hadith describe several ways. Sometimes it came like the ringing of a bell,
 which the Prophet (pbuh) said was the hardest on him; Aisha (RA) reported seeing sweat on his forehead even on a
 very cold day. Sometimes Jibril came in the form of a man and spoke to him. Revelation also came in
 true dreams, and God spoke to the Prophet (pbuh) directly during the Mi'raj.

@@ -248,4 +248,4 @@ focus on what the question asks.
 
 **How many Qur'an references should a 10-mark answer have?**
 There is no set number, but the top-level descriptor says answers are likely to quote Qur'an verses
-and Hadiths, so two or three accurate references help.
+and Hadith, so two or three accurate references help.

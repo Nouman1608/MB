@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International GCSE Chemistry: Organic compounds: their structure and reactions (9202) -- Revision Notes"
+title: "OxfordAQA IGCSE Chemistry: Organic compounds: their structure and reactions (9202) -- Revision Notes"
 seoTitle: "OxfordAQA IGCSE Chemistry (9202) Alcohols & Esters Notes"
 resourceType: "revision-notes"
 subject: "chemistry"

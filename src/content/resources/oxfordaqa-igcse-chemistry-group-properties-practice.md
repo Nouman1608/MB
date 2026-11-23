@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International GCSE Chemistry: Group properties (9202) -- Practice Questions"
+title: "OxfordAQA IGCSE Chemistry: Group properties (9202) -- Practice Questions"
 seoTitle: "OxfordAQA IGCSE Chemistry (9202) Group Properties Practice"
 resourceType: "practice-questions"
 subject: "chemistry"

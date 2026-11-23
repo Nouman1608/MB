@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International GCSE Chemistry (9202) Past Papers: Grade Thresholds and Examiner Report Notes"
+title: "OxfordAQA IGCSE Chemistry (9202) Past Papers: Grade Thresholds and Examiner Report Notes"
 seoTitle: "9202 Past Papers, Grade Thresholds & Examiner Reports"
 resourceType: "past-papers"
 subject: "chemistry"

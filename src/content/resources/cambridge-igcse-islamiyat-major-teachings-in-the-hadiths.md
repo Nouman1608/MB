@@ -1,6 +1,6 @@
 ---
-title: "Cambridge IGCSE Islamiyat: Major Teachings in the Hadiths, Subtopic 2.1 (0493)"
-seoTitle: "Cambridge IGCSE Islamiyat Major Teachings in Hadiths Guide"
+title: "Cambridge IGCSE Islamiyat: Major Teachings in the Hadith, Subtopic 2.1 (0493)"
+seoTitle: "Cambridge IGCSE Islamiyat Major Teachings in Hadith Guide"
 resourceType: "study-guides"
 subject: "islamiyat"
 level: ["igcse"]
@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-0493"
     subtopic: "major-teachings-hadiths-0493"
-description: "Study guide to the 20 set Hadiths for Cambridge IGCSE Islamiyat 0493 Paper 2 Question 1: teachings on conduct and community life, with answer technique."
+description: "Study guide to the 20 set Hadith for Cambridge IGCSE Islamiyat 0493 Paper 2 Question 1: teachings on conduct and community life, with answer technique."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
@@ -24,23 +24,23 @@ featured: false
 reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 ---
 
-**Major Teachings in the Hadiths of the Prophet (pbuh) is Paper 2 Question 1 of Cambridge IGCSE Islamiyat
-0493.** The syllabus sets twenty Hadiths, all recorded by al-Bukhari or Muslim, about individual
+**Major Teachings in the Hadith of the Prophet (pbuh) is Paper 2 Question 1 of Cambridge IGCSE Islamiyat
+0493.** The syllabus sets twenty Hadith, all recorded by al-Bukhari or Muslim, about individual
 conduct and life in the community. Four are printed in the exam in Arabic and English and you write
 about two, explaining what each teaches Muslims to believe and how to act, and how Muslims can put
 that teaching into practice today.
 
 ## Syllabus coverage
 
-**0493 Paper 2, Topic 1: Major teachings in the Hadiths of the Prophet (pbuh) (2026–2027 syllabus)**
+**0493 Paper 2, Topic 1: Major teachings in the Hadith of the Prophet (pbuh) (2026–2027 syllabus)**
 - Two groups of passages for close study: individual conduct and life in the community
 - The teachings each passage contains about what Muslims should believe and how they should act
 - Study with reference to the original Arabic as well as the English translation
 - Exam: four passages set, candidates choose two (8 marks for the question)
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-major-teachings-in-the-hadiths--01-theme-map-of-set-hadiths.webp" width="900" height="742" alt="Two lists of key phrases. Individual conduct has nine Hadiths, from &quot;Religion is sincerity&quot; to &quot;Allah looks at hearts and deeds&quot;. Life in the community has eleven, from wanting for your brother what you want for yourself to &quot;the believers are like a single man&quot;." loading="lazy">
-  <figcaption>Nine Hadiths on individual conduct and eleven on life in the community.</figcaption>
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-major-teachings-in-the-hadiths--01-theme-map-of-set-hadiths.webp" width="900" height="742" alt="Two lists of key phrases. Individual conduct has nine Hadith, from &quot;Religion is sincerity&quot; to &quot;Allah looks at hearts and deeds&quot;. Life in the community has eleven, from wanting for your brother what you want for yourself to &quot;the believers are like a single man&quot;." loading="lazy">
+  <figcaption>Nine Hadith on individual conduct and eleven on life in the community.</figcaption>
 </figure>
 
 ## How should you answer a Hadith question?
@@ -59,7 +59,7 @@ Hadith into practice only apply to *this* Hadith? If so, it is specific enough.
   <figcaption>Teaching, then application: two paragraphs per Hadith, with a specific example.</figcaption>
 </figure>
 
-## What do the Hadiths teach about individual conduct?
+## What do the Hadith teach about individual conduct?
 
 **"Religion is sincerity" (to Allah, His Book, His Messenger, the leaders and the common people).**
 Faith is not only ritual but sincere loyalty in every relationship. Sincerity to Allah means
@@ -113,7 +113,7 @@ character, not by looks or riches.
   <figcaption>A tiny amount of faith saves; a tiny amount of pride blocks paradise.</figcaption>
 </figure>
 
-## What do the Hadiths teach about life in the community?
+## What do the Hadith teach about life in the community?
 
 **"None of you believes until he wants for his brother what he wants for himself."** True faith
 includes empathy and wishing others well. It rules out envy and selfishness and encourages fair
@@ -162,7 +162,7 @@ part is felt by all, so Muslims should support those in need, at home and abroad
 
 ## Frequently asked questions
 
-**Which collections are these Hadiths from?**
+**Which collections are these Hadith from?**
 The syllabus states that all of them are recorded by
 al-Bukhari or by Muslim in their Sahih collections, many by both.
 
@@ -177,8 +177,8 @@ and one on its application today.
 
 ## Related pages
 
-- [Major Teachings in the Hadiths revision notes](/resources/cambridge-igcse-islamiyat-major-teachings-in-the-hadiths-revision-notes/)
-- [History and Importance of the Hadiths study guide](/resources/cambridge-igcse-islamiyat-history-and-importance-of-the-hadiths/)
+- [Major Teachings in the Hadith revision notes](/resources/cambridge-igcse-islamiyat-major-teachings-in-the-hadiths-revision-notes/)
+- [History and Importance of the Hadith study guide](/resources/cambridge-igcse-islamiyat-history-and-importance-of-the-hadiths/)
 - [Paper 2 study guide](/resources/igcse-cambridge-islamiyat-paper-2/)
 
 *Source: Cambridge International, Cambridge IGCSE Islamiyat 0493 syllabus for examination in 2026

@@ -1,5 +1,5 @@
 ---
-title: "Cambridge O Level Islamiyat (2058): Major Teachings in the Hadiths of the Prophet — Practice Questions"
+title: "Cambridge O Level Islamiyat (2058): Major Teachings in the Hadith of the Prophet — Practice Questions"
 resourceType: "practice-questions"
 subject: "islamiyat"
 level: ["o-levels"]
@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "paper-2-2058"
     subtopic: "major-teachings-hadiths-2058"
-description: "Twelve original questions on the 20 set Hadiths for Cambridge O Level Islamiyat 2058 Paper 2 Question 1, with teachings, modern applications and marked answers."
+description: "Twelve original questions on the 20 set Hadith for Cambridge O Level Islamiyat 2058 Paper 2 Question 1, with teachings, modern applications and marked answers."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
@@ -23,25 +23,25 @@ publishedDate: 2026-11-17
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
-> practice on the set Hadiths for Paper 2 Question 1. They are **not**
+> practice on the set Hadith for Paper 2 Question 1. They are **not**
 > reproduced past-paper questions — examination boards hold copyright in their
 > own papers. Use these alongside the official past papers available free from
 > your board.
 
-Related: [Major Teachings in the Hadiths study guide](/resources/cambridge-o-level-islamiyat-major-teachings-in-the-hadiths/), [Major Teachings in the Hadiths revision notes](/resources/cambridge-o-level-islamiyat-major-teachings-in-the-hadiths-revision-notes/)
+Related: [Major Teachings in the Hadith study guide](/resources/cambridge-o-level-islamiyat-major-teachings-in-the-hadiths/), [Major Teachings in the Hadith revision notes](/resources/cambridge-o-level-islamiyat-major-teachings-in-the-hadiths-revision-notes/)
 
 ---
 
-**How to use this set.** In Paper 2, Question 1 is compulsory: four of the twenty Hadiths in the
+**How to use this set.** In Paper 2, Question 1 is compulsory: four of the twenty Hadith in the
 syllabus appendix are printed in Arabic and English, and you write about any two. Part (a) asks for
 their teachings about what Muslims believe **[4]** and part (b) how Muslims can put them into action
-**[4]**. Section A checks your knowledge of individual Hadiths; Section B gives five exam-style pairs.
+**[4]**. Section A checks your knowledge of individual Hadith; Section B gives five exam-style pairs.
 The English wording is the syllabus translation. In the exam each Hadith is also printed in Arabic, so
 learn its key Arabic words.
 
 ## Section A — Short questions
 
-**1.** The set Hadiths are divided into two groups. Name the groups and give **one** Hadith from each.
+**1.** The set Hadith are divided into two groups. Name the groups and give **one** Hadith from each.
 **[4]**
 
 **2.** In the Hadith of the man who asked whether obligatory prayer, fasting in Ramadan and keeping to
@@ -61,7 +61,7 @@ the index and middle fingers. What does the gesture show about caring for orphan
 
 ## Section B — Exam-style Hadith questions
 
-For each question, write about **both** Hadiths. **(a)** Describe their teachings about what Muslims
+For each question, write about **both** Hadith. **(a)** Describe their teachings about what Muslims
 believe. **(b)** Explain how Muslims can put these teachings into action.
 
 **7.** "None of you believes until he wants for his brother what he wants for himself." · "God does
@@ -115,7 +115,7 @@ Allah, or the one who stands for prayer in the night or fasts in the day."
 ## Answers
 
 **How Section B is marked.** Question 1 is marked by levels of response: part (a) Level 4 = 4,
-Level 3 = 3, Level 2 = 2, Level 1 = 1; part (b) Level 2 = 3–4, Level 1 = 1–2. The two Hadiths are
+Level 3 = 3, Level 2 = 2, Level 1 = 1; part (b) Level 2 = 3–4, Level 1 = 1–2. The two Hadith are
 read together. The credit guides below show one way to reach each tariff: in (a), for each Hadith the
 central teaching [1] developed with a link to belief or a supporting reference [1]; in (b), for each
 Hadith one practical action explained [2]. Other valid points of the same quality earn the same
@@ -212,5 +212,5 @@ costs or regular support, so that no household in the community is left alone [2
 No. The syllabus asks for the teachings about belief and action; background is useful only where it
 explains the teaching, as with Abu Musa and Mu'adh being sent to Yemen.
 
-**Can I use the same application for two Hadiths?**
+**Can I use the same application for two Hadith?**
 Avoid it: each Hadith carries half the marks of each part, so give each its own action.

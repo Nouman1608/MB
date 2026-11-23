@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International GCSE Chemistry: Rate of reaction (9202) -- Practice Questions"
+title: "OxfordAQA IGCSE Chemistry: Rate of reaction (9202) -- Practice Questions"
 seoTitle: "OxfordAQA IGCSE Chemistry (9202) Rate of Reaction Practice"
 resourceType: "practice-questions"
 subject: "chemistry"

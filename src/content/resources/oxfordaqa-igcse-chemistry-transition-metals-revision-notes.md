@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International GCSE Chemistry: Transition metals (9202) -- Revision Notes"
+title: "OxfordAQA IGCSE Chemistry: Transition metals (9202) -- Revision Notes"
 seoTitle: "OxfordAQA IGCSE Chemistry Transition Metals Revision Notes"
 resourceType: "revision-notes"
 subject: "chemistry"

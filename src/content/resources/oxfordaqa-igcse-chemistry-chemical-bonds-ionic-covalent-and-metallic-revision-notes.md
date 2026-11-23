@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International GCSE Chemistry: Chemical bonds: ionic, covalent and metallic (9202) -- Revision Notes"
+title: "OxfordAQA IGCSE Chemistry: Chemical bonds: ionic, covalent and metallic (9202) -- Revision Notes"
 seoTitle: "OxfordAQA IGCSE Chemistry Chemical Bonds Revision Notes"
 resourceType: "revision-notes"
 subject: "chemistry"

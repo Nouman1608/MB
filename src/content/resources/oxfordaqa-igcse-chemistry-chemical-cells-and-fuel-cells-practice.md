@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International GCSE Chemistry: Chemical cells and fuel cells (9202) -- Practice Questions"
+title: "OxfordAQA IGCSE Chemistry: Chemical cells and fuel cells (9202) -- Practice Questions"
 seoTitle: "OxfordAQA IGCSE Chemistry (9202) Fuel Cells Practice"
 resourceType: "practice-questions"
 subject: "chemistry"

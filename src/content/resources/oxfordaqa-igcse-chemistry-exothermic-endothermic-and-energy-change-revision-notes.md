@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International GCSE Chemistry: Exothermic and endothermic reactions, and calculating and explaining energy change (9202) -- Revision Notes"
+title: "OxfordAQA IGCSE Chemistry: Exothermic and endothermic reactions, and calculating and explaining energy change (9202) -- Revision Notes"
 seoTitle: "OxfordAQA IGCSE Chemistry (9202) Energy Change Notes"
 resourceType: "revision-notes"
 subject: "chemistry"

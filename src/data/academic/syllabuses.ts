@@ -1383,7 +1383,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'Cambridge IGCSE Islamiyat gives learners the opportunity to develop knowledge and understanding of the Qur’an, Hadith, the life of the Prophet Muhammad (pbuh) and the early Islamic community.',
     officialUrl: 'https://www.cambridgeinternational.org/Images/697174-2026-2027-syllabus.pdf',
     verifiedOn: '2026-08-19',
-    notes: 'Paper 1 (4 named topics on the Qur’an and the Prophet Muhammad) and Paper 2 (4 named topics on the Hadiths, the Rightly Guided Caliphs, and the Articles of Faith and Pillars of Islam), each 1.5 hours with 5 questions (Q1-2 compulsory, plus 2 more chosen).',
+    notes: 'Paper 1 (4 named topics on the Qur’an and the Prophet Muhammad) and Paper 2 (4 named topics on the Hadith, the Rightly Guided Caliphs, and the Articles of Faith and Pillars of Islam), each 1.5 hours with 5 questions (Q1-2 compulsory, plus 2 more chosen).',
   },
   {
     boardSlug: 'cambridge', qualificationSlug: 'o-level', subjectSlug: 'islamiyat',
