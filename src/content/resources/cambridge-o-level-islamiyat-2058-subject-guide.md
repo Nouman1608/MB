@@ -57,7 +57,7 @@ The record used here is for the 2026-2027 syllabus, first examined in 2026, with
 
 The content of the two papers is best understood as one connected account rather than two separate subjects.
 
-Paper 1's study of the Prophet's (pbuh) life (pbuh) provides the setting for Paper 2. The Hadiths preserve his words and practice, so knowing the events of his life helps you explain when and why particular teachings matter. The First Islamic Community in Paper 1 leads directly into the period of the Rightly Guided Caliphs in Paper 2, which describes how that community was led after the Prophet's (pbuh) death (pbuh).
+Paper 1's study of the Prophet's (pbuh) life provides the setting for Paper 2. The Hadiths preserve his words and practice, so knowing the events of his life helps you explain when and why particular teachings matter. The First Islamic Community in Paper 1 leads directly into the period of the Rightly Guided Caliphs in Paper 2, which describes how that community was led after the Prophet's (pbuh) death (pbuh).
 
 There is also a parallel between the two "history and importance" topics. The History and Importance of the Qur'an and The History and Importance of the Hadiths both ask how a source was compiled and preserved and why Muslims value it. Comparing the two, rather than revising them in isolation, sharpens your understanding of each.
 
@@ -67,12 +67,12 @@ Throughout the course, three abilities are tested again and again: accurate know
 
 ## Planning your study
 
-A logical order is chronological. Start with the Qur'an and the Prophet's (pbuh) life (pbuh), move through the early community and the Caliphs, and study the Hadiths and the Articles of Faith and Pillars of Islam alongside them.
+A logical order is chronological. Start with the Qur'an and the Prophet's (pbuh) life, move through the early community and the Caliphs, and study the Hadiths and the Articles of Faith and Pillars of Islam alongside them.
 
 In general terms:
 
 - Early in the course, concentrate on the Major Themes of the Qur'an, building familiarity with the passages and what they teach, and on the history of the Qur'an.
-- Next, build a clear, dated outline of the Prophet's (pbuh) life (pbuh) and the first Islamic community.
+- Next, build a clear, dated outline of the Prophet's (pbuh) life and the first Islamic community.
 - Then study the Hadiths, their teachings and history, followed by the Rightly Guided Caliphs.
 - Leave time for the Articles of Faith and the Pillars of Islam, and finish with mixed revision across both papers.
 
