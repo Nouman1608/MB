@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review; 2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 ---
 
 **These notes condense topic 3.2.1 of OxfordAQA International GCSE Islamiat 9237, Life and Teachings
@@ -49,9 +49,9 @@ Pilgrimage; 3.2.1.10 legacy and lessons.
 | c. 613 | Public preaching begins |
 | c. 615 | Some Muslims migrate to Abyssinia |
 | c. 616–619 | Boycott of Banu Hashim |
-| 619 | Year of Sorrow: deaths of Khadija and Abu Talib; visit to Ta'if |
+| 619 | Year of Sorrow: deaths of Khadija (RA) and Abu Talib; visit to Ta'if |
 | c. 620–621 | Isra wal Mi'raj; first pledge of Aqaba |
-| 622 | Second pledge of Aqaba; plot to kill the Prophet; Hijrah to Madinah |
+| 622 | Second pledge of Aqaba; plot to kill the Prophet (pbuh); Hijrah to Madinah |
 | 624 | Battle of Badr |
 | 625 | Battle of Uhud |
 | 627 | Battle of the Trench |
@@ -83,15 +83,15 @@ Pilgrimage; 3.2.1.10 legacy and lessons.
 | Waraqa ibn Nawfal | Scholar who confirmed the angel was the one sent to Musa (AS) |
 | Jibril (AS) | Angel who brought revelation |
 | Hazrat Abu Bakr (RA) | Early convert; companion on the Hijrah; al-Siddiq |
-| Hazrat Ali (RA) | Early convert; slept in the Prophet's bed on the night of the Hijrah |
+| Hazrat Ali (RA) | Early convert; slept in the Prophet's (pbuh) bed on the night of the Hijrah |
 | Hazrat Abu Ayyub Ansari (RA) | Host in Madinah |
 | Hazrat Hamza (RA) | Uncle; defender; martyred at Uhud |
-| Hazrat Talha (RA) | Shielded the Prophet at Uhud |
+| Hazrat Talha (RA) | Shielded the Prophet (pbuh) at Uhud |
 | Hazrat Zubair (RA) | Cousin; early Muslim and loyal fighter |
-| Salman al-Farsi | Suggested the trench |
+| Salman al-Farsi (RA) | Suggested the trench |
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-life-and-teachings-of-hazrat-muhammad--02-early-life.webp" width="900" height="614" alt="A timeline of the Prophet's early life: his father Abdullah dies before his birth around 570; he is nursed by Halima Sa'diya; his mother Amina dies when he is about six; his grandfather Abdul Muttalib and then his uncle Abu Talib raise him; Bahira advises protecting him; he becomes known as al-Amin and al-Sadiq; and he marries Hazrat Khadija (RA) at about twenty-five." loading="lazy">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-life-and-teachings-of-hazrat-muhammad--02-early-life.webp" width="900" height="614" alt="A timeline of the Prophet's (pbuh) early life: his father Abdullah dies before his birth around 570; he is nursed by Halima Sa'diya; his mother Amina dies when he is about six; his grandfather Abdul Muttalib and then his uncle Abu Talib raise him; Bahira advises protecting him; he becomes known as al-Amin and al-Sadiq; and he marries Hazrat Khadija (RA) at about twenty-five." loading="lazy">
   <figcaption>A succession of carers, then a reputation for honesty that led to his marriage.</figcaption>
 </figure>
 
@@ -131,17 +131,17 @@ Ta'if; plot to kill.
 
 - Comfort after the Year of Sorrow.
 - Five daily prayers ordained.
-- Link between Makka and Jerusalem; the Prophet leads earlier prophets in prayer.
-- Test of faith; Abu Bakr named al-Siddiq.
+- Link between Makka and Jerusalem; the Prophet (pbuh) leads earlier prophets in prayer.
+- Test of faith; Abu Bakr (RA) named al-Siddiq.
 
 ## Madinah: first steps
 
-- Mosque at Quba, then the Prophet's Mosque.
+- Mosque at Quba, then the Prophet (pbuh)'s Mosque.
 - Brotherhood between Muhajirun and Ansar.
-- Charter of Madinah: one community; mutual defence; religious freedom; the Prophet as arbiter.
+- Charter of Madinah: one community; mutual defence; religious freedom; the Prophet (pbuh) as arbiter.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-life-and-teachings-of-hazrat-muhammad--05-the-hijrah.webp" width="900" height="712" alt="Four numbered stages: the pledges of Aqaba; the night of the plot, with Hazrat Ali (RA) in the Prophet's bed and Hazrat Abu Bakr (RA) leaving with him; hiding in the cave of Thawr; and arrival in Madinah in 622. Below, the first steps there: the mosque at Quba, staying with Abu Ayyub Ansari, building the Prophet's Mosque, pairing Muhajirun with Ansar and the Charter of Madinah." loading="lazy">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-life-and-teachings-of-hazrat-muhammad--05-the-hijrah.webp" width="900" height="712" alt="Four numbered stages: the pledges of Aqaba; the night of the plot, with Hazrat Ali (RA) in the Prophet's (pbuh) bed and Hazrat Abu Bakr (RA) leaving with him; hiding in the cave of Thawr; and arrival in Madinah in 622. Below, the first steps there: the mosque at Quba, staying with Abu Ayyub Ansari, building the Prophet (pbuh)'s Mosque, pairing Muhajirun with Ansar and the Charter of Madinah." loading="lazy">
   <figcaption>The migration of 622 and the first steps in building a community in Madinah.</figcaption>
 </figure>
 
@@ -178,7 +178,7 @@ victory" (Sura 48) [2].
 
 - **Mixing up Aqaba and Hudaibiyah.** Aqaba = pledges before the Hijrah; Hudaibiyah = treaty in 628.
 - **Uhud as a defeat only.** Explain its lesson about obedience.
-- **Forgetting honorifics.** Use (pbuh) for the Prophet and (RA) or (AS) as the specification does.
+- **Forgetting honorifics.** Use (pbuh) for the Prophet (pbuh) and (RA) or (AS) as the specification does.
 - **No link to lessons today.** 12-mark answers should connect events to Muslim life now.
 
 ## How is this topic examined?

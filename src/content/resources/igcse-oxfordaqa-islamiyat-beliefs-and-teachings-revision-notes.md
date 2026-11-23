@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review; 2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 ---
 
 **These notes condense topic 3.1.1 of OxfordAQA International GCSE Islamiat 9237, Islam: Beliefs and
@@ -139,7 +139,7 @@ of death and judgement, show equality.
 
 ## Rightly Guided Caliphs
 
-- **Abu Bakr (RA), 632–634:** unity after the Prophet's death; Qur'an gathered.
+- **Abu Bakr (RA), 632–634:** unity after the Prophet's (pbuh) death; Qur'an gathered.
 - **Umar (RA), 634–644:** expansion; administration; justice.
 - **Uthman (RA), 644–656:** standard copies of the Qur'an.
 - **Ali (RA), 656–661:** knowledge and justice; civil conflict. Shi'a Muslims regard him as the first Imam.

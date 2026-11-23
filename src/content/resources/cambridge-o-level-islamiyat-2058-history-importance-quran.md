@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the historical details of revelation and compilation and the Qur'an references cited."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the historical details of revelation and compilation and the Qur'an references cited. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -46,20 +46,20 @@ Area 3 overlaps with Question 1; this guide concentrates on the other four.
 **The first revelation.** The Prophet (pbuh) used to retreat to the Cave of Hira on Mount Nur near
 Makka to reflect. In 610, during Ramadan, the angel Jibril appeared and commanded him to read. He
 replied that he could not read; the angel pressed him and repeated the command, and the first words
-revealed were Sura 96.1–5, beginning "Read! in the name of your Lord, who created". The Prophet
-returned shaken to Khadija, who comforted him and took him to her cousin Waraqa ibn Nawfal, a
+revealed were Sura 96.1–5, beginning "Read! in the name of your Lord, who created". The Prophet (pbuh)
+returned shaken to Khadija (RA), who comforted him and took him to her cousin Waraqa ibn Nawfal, a
 Christian scholar who said this was the same angel who had come to Musa. The Qur'an links its
 revelation to this month and night: "Ramadan is the month in which the Qur'an was sent down"
 (Sura 2.185) and "We have indeed revealed this in the Night of Power" (Sura 97.1).
 
 **A pause, then continuous revelation.** After the first revelation there was a pause. Revelation
-resumed with the opening verses of Sura 74, commanding the Prophet to "arise and warn", and from then
+resumed with the opening verses of Sura 74, commanding the Prophet (pbuh) to "arise and warn", and from then
 on it continued until shortly before his death in 632.
 
 **How revelation came.** Hadiths describe several ways. Sometimes it came like the ringing of a bell,
-which the Prophet said was the hardest on him; Aisha reported seeing sweat on his forehead even on a
+which the Prophet (pbuh) said was the hardest on him; Aisha (RA) reported seeing sweat on his forehead even on a
 very cold day. Sometimes Jibril came in the form of a man and spoke to him. Revelation also came in
-true dreams, and God spoke to the Prophet directly during the Mi'raj.
+true dreams, and God spoke to the Prophet (pbuh) directly during the Mi'raj.
 
 **Why it was gradual.** The Qur'an answers critics who asked why it was not sent down all at once:
 it was revealed in stages "that We may strengthen your heart thereby" (Sura 25.32) and so that it
@@ -84,7 +84,7 @@ now existed that needed guidance for its life together.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-history-importance-quran--03-why-gradual.webp" width="900" height="513" alt="Two Qur'anic reasons, Sura 25.32 (to strengthen the Prophet's heart) and Sura 17.106 (recited at intervals), above three practical reasons: people could memorise and act on each passage, events were answered as they arose, and laws came step by step, as with the prohibition of wine, which came in stages before the final ban in Sura 5.90." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-history-importance-quran--03-why-gradual.webp" width="900" height="513" alt="Two Qur'anic reasons, Sura 25.32 (to strengthen the Prophet's (pbuh) heart) and Sura 17.106 (recited at intervals), above three practical reasons: people could memorise and act on each passage, events were answered as they arose, and laws came step by step, as with the prohibition of wine, which came in stages before the final ban in Sura 5.90." loading="lazy">
   <figcaption>Gradual revelation strengthened the Prophet (pbuh) and let believers learn and apply each step.</figcaption>
 </figure>
 
@@ -93,57 +93,57 @@ now existed that needed guidance for its life together.
   <figcaption>Makka: calling to faith. Madinah: guidance for a community's shared life.</figcaption>
 </figure>
 
-## Preservation during the Prophet's lifetime
+## Preservation during the Prophet's (pbuh) lifetime
 
 - **Memorisation.** The Prophet (pbuh) recited each revelation to his Companions, who memorised it;
   those who learned the whole Qur'an were known as huffaz. The Qur'an was also recited in daily
   prayer, which kept it in constant use.
 - **Writing.** Scribes wrote revelations down on whatever was available, such as palm-leaf stalks,
-  pieces of leather, flat stones and the shoulder blades of animals. **Zayd ibn Thabit** was the best
-  known; others included Ubayy ibn Ka'b and Ali.
-- **Order.** The Prophet told the scribes where each new passage belonged, so the arrangement of
+  pieces of leather, flat stones and the shoulder blades of animals. **Zayd ibn Thabit (RA)** was the best
+  known; others included Ubayy ibn Ka'b (RA) and Ali (RA).
+- **Order.** The Prophet (pbuh) told the scribes where each new passage belonged, so the arrangement of
   verses within the suras was fixed by him.
-- **Annual review.** Each Ramadan Jibril reviewed the revealed Qur'an with the Prophet; in his final
+- **Annual review.** Each Ramadan Jibril reviewed the revealed Qur'an with the Prophet (pbuh); in his final
   year this happened twice.
 
 The Qur'an was therefore complete in memory and in writing by 632, but not yet gathered into a
 single bound copy.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-history-importance-quran--05-preservation-in-his-lifetime.webp" width="900" height="569" alt="Four methods of preservation in the Prophet's lifetime: memorisation by huffaz and recitation in prayer; writing by scribes such as Zayd ibn Thabit on palm-leaf stalks, leather, stones and bones; the order of verses fixed by the Prophet; and an annual review with Jibril each Ramadan. By 632 the Qur'an was complete in memory and writing but not yet in one bound copy." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-history-importance-quran--05-preservation-in-his-lifetime.webp" width="900" height="569" alt="Four methods of preservation in the Prophet's (pbuh) lifetime: memorisation by huffaz and recitation in prayer; writing by scribes such as Zayd ibn Thabit on palm-leaf stalks, leather, stones and bones; the order of verses fixed by the Prophet (pbuh); and an annual review with Jibril each Ramadan. By 632 the Qur'an was complete in memory and writing but not yet in one bound copy." loading="lazy">
   <figcaption>Complete in memory and writing by 632, but not yet in one volume.</figcaption>
 </figure>
 
-## Compilation under Abu Bakr
+## Compilation under Abu Bakr (RA)
 
-During Abu Bakr's caliphate (632–634) the Muslims fought the false prophet Musaylima at the **Battle
-of Yamama**, where many huffaz were killed. Umar feared that more would die and parts of the Qur'an
-would be lost, and urged Abu Bakr to collect it. Abu Bakr hesitated, asking how he could do something
+During Abu Bakr's (RA) caliphate (632–634) the Muslims fought the false prophet Musaylima at the **Battle
+of Yamama**, where many huffaz were killed. Umar (RA) feared that more would die and parts of the Qur'an
+would be lost, and urged Abu Bakr (RA) to collect it. Abu Bakr (RA) hesitated, asking how he could do something
 the Prophet (pbuh) had not done, but became convinced it was right.
 
-He gave the task to **Zayd ibn Thabit**, because Zayd was young, trustworthy, had memorised the
-Qur'an and had written revelation for the Prophet. Zayd said that moving a mountain would have been
+He gave the task to **Zayd ibn Thabit (RA)**, because Zayd was young, trustworthy, had memorised the
+Qur'an and had written revelation for the Prophet (pbuh). Zayd said that moving a mountain would have been
 easier. His method was strict: he gathered the written pieces and checked them against what was
 memorised, and he accepted written material only when witnesses confirmed it had been written in the
 Prophet's presence. The final verses of Sura 9 were found in writing only with Abu Khuzayma
-al-Ansari. The completed sheets (suhuf) stayed with Abu Bakr, then Umar, and then Umar's daughter
-**Hafsa**, a wife of the Prophet.
+al-Ansari. The completed sheets (suhuf) stayed with Abu Bakr (RA), then Umar (RA), and then Umar's (RA) daughter
+**Hafsa (RA)**, a wife of the Prophet (pbuh).
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-history-importance-quran--06-journey-of-the-suhuf.webp" width="900" height="990" alt="Two linked columns. Under Abu Bakr: the Battle of Yamama kills many huffaz, Umar urges Abu Bakr to collect the Qur'an, and Zayd ibn Thabit collects it with strict checks. The sheets are kept by Abu Bakr, then Umar, then Hafsa. Under Uthman: after Hudhayfa ibn al-Yaman warns of disputes, Hafsa's copy is borrowed, Zayd's committee makes copies, and copies go to the main centres while one stays in Madinah, Hafsa's is returned and other versions are burned." loading="lazy">
-  <figcaption>Abu Bakr's compiled sheets became the basis of Uthman's standard copies.</figcaption>
+  <figcaption>Abu Bakr's (RA) compiled sheets became the basis of Uthman's (RA) standard copies.</figcaption>
 </figure>
 
-## Standardisation under Uthman
+## Standardisation under Uthman (RA)
 
 As the state expanded, new Muslims learned to recite in different ways. During campaigns in Armenia
-and Azerbaijan, **Hudhayfa ibn al-Yaman** saw Muslims disputing over recitation and urged Uthman to
-act before they differed over their Book as earlier communities had. Uthman borrowed Hafsa's copy and
-appointed a committee led by Zayd ibn Thabit, with Abdullah ibn al-Zubayr, Sa'id ibn al-As and
+and Azerbaijan, **Hudhayfa ibn al-Yaman** saw Muslims disputing over recitation and urged Uthman (RA) to
+act before they differed over their Book as earlier communities had. Uthman (RA) borrowed Hafsa's (RA) copy and
+appointed a committee led by Zayd ibn Thabit (RA), with Abdullah ibn al-Zubayr, Sa'id ibn al-As and
 Abd al-Rahman ibn al-Harith. They made copies, and where they disagreed they wrote in the dialect of
 the Quraysh, in which the Qur'an had been revealed. Copies were sent to the main centres of the
-Muslim world, one was kept in Madina, Hafsa's copy was returned to her, and other written versions
-were burned. Uthman became known as the one who united the Muslims on a single text.
+Muslim world, one was kept in Madina, Hafsa's (RA) copy was returned to her, and other written versions
+were burned. Uthman (RA) became known as the one who united the Muslims on a single text.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-history-importance-quran--07-compiled-vs-standardised.webp" width="900" height="619" alt="A comparison table. Abu Bakr acted because many huffaz died at Yamama; Zayd ibn Thabit checked written pieces against memory with witnesses, producing one set of sheets. Uthman acted because Muslims disputed over recitation; a committee led by Zayd copied Hafsa's sheets in the dialect of the Quraysh and sent standard copies to the main centres." loading="lazy">
@@ -186,14 +186,14 @@ then the Sunna, then his own reasoning, and the Prophet (pbuh) approved.
 **Model answer (summary of a top-level response):**
 The Prophet (pbuh) used to meditate in the Cave of Hira. In 610, in the month of Ramadan, Jibril came
 and ordered him to "Read!" (*iqra*); after he replied that he could not read, the angel pressed him
-three times and then recited Sura 96.1–5. He went home trembling, and Khadija wrapped him in a cloak,
+three times and then recited Sura 96.1–5. He went home trembling, and Khadija (RA) wrapped him in a cloak,
 reassured him and took him to Waraqa ibn Nawfal, who recognised the angel as the one who had come to
 Musa. After a pause, Sura 74 was revealed, telling him to "arise and warn". Revelation continued for
 about twenty-three years until 632, in Makka and then Madina. It came in different ways: like the
 ringing of a bell, which was the hardest for him; through Jibril in human form; and in true dreams. It
-was revealed gradually, as Sura 25.32 explains, to strengthen the Prophet's heart and so that
+was revealed gradually, as Sura 25.32 explains, to strengthen the Prophet's (pbuh) heart and so that
 believers could learn and apply it step by step. Each passage was memorised by Companions and written
-down by scribes such as Zayd ibn Thabit.
+down by scribes such as Zayd ibn Thabit (RA).
 
 *Why it reaches the top level:* it is in order, gives names, places and the first words, quotes the
 Qur'an and covers the whole period, not only the first night.
@@ -201,19 +201,19 @@ Qur'an and covers the whole period, not only the first night.
 ## Answering part (b): understanding questions
 
 Part (b) asks you to explain, not describe. A strong answer makes two developed points, each with a
-reason. For example, to "Why was the compilation under Abu Bakr important?":
+reason. For example, to "Why was the compilation under Abu Bakr (RA) important?":
 
 - It ensured that the Qur'an did not depend on the memory of huffaz who could be killed in battle, so
   the text was safe for later generations.
-- It produced the agreed copy that Uthman later used, so his standard text rested on material
+- It produced the agreed copy that Uthman (RA) later used, so his standard text rested on material
   checked in the time of the Companions.
 
 ## Common mistakes
 
-- **Mixing up the two stages.** Abu Bakr collected the Qur'an into one copy; Uthman produced
+- **Mixing up the two stages.** Abu Bakr (RA) collected the Qur'an into one copy; Uthman (RA) produced
   standard copies for the provinces.
 - **Starting the story at Yamama.** Questions on compilation reward knowledge of how the Qur'an was
-  preserved in the Prophet's lifetime too.
+  preserved in the Prophet's (pbuh) lifetime too.
 - **Vague significance.** "The Qur'an is very important to Muslims" earns little; say *how* it guides
   a decision, a law or an act of worship.
 - **Confusing ijma' and qiyas.** Ijma' is agreement; qiyas is comparison with an existing ruling.

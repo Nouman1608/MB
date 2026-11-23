@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the beliefs, practices, Qur'an references and credit given, including any points where Sunni and Shi'a practice differ."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the beliefs, practices, Qur'an references and credit given, including any points where Sunni and Shi'a practice differ. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -136,7 +136,7 @@ may be combined, such as zuhr with asr [1].
 - Prophets are human beings chosen by God, of the best character, and protected from major sin [2].
 - They brought the same message of tawhid, taught God's law and were living examples of it [2].
 - Some were given miracles by God's permission to prove their message, such as Musa's staff and Isa's
-  healing (Sura 5.110); the Qur'an is the Prophet Muhammad's miracle [2].
+  healing (Sura 5.110); the Qur'an is the Prophet Muhammad's (pbuh) miracle [2].
 - Muhammad (pbuh) is the Seal of the Prophets (Sura 33.40), and his message is for all humanity [2].
 **(b)** Credit the best two, [2] each:
 - The Qur'an commands it: believers "make no distinction between one and another of His messengers"

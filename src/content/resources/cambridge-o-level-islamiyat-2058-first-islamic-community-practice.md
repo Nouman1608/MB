@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the facts about each person and the credit given in the answers."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the facts about each person and the credit given in the answers. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -37,32 +37,32 @@ around named people, so Section A drills the facts and Section B gives full exam
 
 ## Section A — Short questions
 
-**1.** Name **four** of the Prophet's children. **[4]**
+**1.** Name **four** of the Prophet's (pbuh) children. **[4]**
 
-**2.** Give **two** facts about Zayd ibn Thabit's service to the Prophet (pbuh). **[2]**
+**2.** Give **two** facts about Zayd ibn Thabit's (RA) service to the Prophet (pbuh). **[2]**
 
-**3.** Explain why Uthman was known as Dhu al-Nurayn. **[2]**
+**3.** Explain why Uthman (RA) was known as Dhu al-Nurayn. **[2]**
 
-**4.** Describe the part played by Umm Salama at Hudaybiyya. **[3]**
+**4.** Describe the part played by Umm Salama (RA) at Hudaybiyya. **[3]**
 
-**5.** State **three** facts about Mus'ab ibn Umayr. **[3]**
+**5.** State **three** facts about Mus'ab ibn Umayr (RA). **[3]**
 
 **6.** Name the first **four** Imams recognised by Twelver Shi'a Muslims. **[4]**
 
-**7.** Give **two** reasons why the marriage to Juwayriyya was important. **[2]**
+**7.** Give **two** reasons why the marriage to Juwayriyya (RA) was important. **[2]**
 
 ## Section B — Exam-style questions
 
-**8. (a)** Write about the life of Aisha and her contribution to the Muslim community. **[10]**
+**8. (a)** Write about the life of Aisha (RA) and her contribution to the Muslim community. **[10]**
 **(b)** What can Muslim women today learn from her example? **[4]**
 
-**9. (a)** Describe the life of Fatima and her family. **[10]**
+**9. (a)** Describe the life of Fatima (RA) and her family. **[10]**
 **(b)** Explain why the Ahl al-Bayt are especially honoured by Muslims. **[4]**
 
-**10. (a)** Write about the lives of Abu Bakr and Ali during the lifetime of the Prophet (pbuh). **[10]**
-**(b)** Which of the two do you think showed the greater loyalty to the Prophet? Give reasons. **[4]**
+**10. (a)** Write about the lives of Abu Bakr (RA) and Ali (RA) during the lifetime of the Prophet (pbuh). **[10]**
+**(b)** Which of the two do you think showed the greater loyalty to the Prophet (pbuh)? Give reasons. **[4]**
 
-**11. (a)** Describe the contributions of Hamza, Bilal and Salman al-Farsi to the early Muslim
+**11. (a)** Describe the contributions of Hamza (RA), Bilal (RA) and Salman al-Farsi (RA) to the early Muslim
 community. **[10]**
 **(b)** Explain what their lives show about the place of people from different backgrounds in Islam.
 **[4]**
@@ -76,38 +76,38 @@ Level 2 = 3–4, Level 1 = 1–2; part (b) Level 2 = 3–4, Level 1 = 1–2. Eac
 earns [2]; credit the best five in (a) (maximum 10) and the best two in (b) (maximum 4) unless
 stated. Other accurate points of the same quality earn the same credit.
 
-**1.** Any four, [1] each: Qasim, Abdullah, Zaynab, Ruqayya, Umm Kulthum, Fatima, Ibrahim. Maximum 4.
+**1.** Any four, [1] each: Qasim, Abdullah, Zaynab, Ruqayya, Umm Kulthum, Fatima (RA), Ibrahim. Maximum 4.
 
-**2.** Any two, [1] each: he was the chief scribe who wrote down revelation; he wrote the Prophet's
-letters; he learned another script at the Prophet's request to deal with correspondence; he had
+**2.** Any two, [1] each: he was the chief scribe who wrote down revelation; he wrote the Prophet's (pbuh)
+letters; he learned another script at the Prophet's (pbuh) request to deal with correspondence; he had
 memorised the Qur'an. Maximum 2.
 
-**3.** "Dhu al-Nurayn" means "possessor of the two lights" [1]; he married two of the Prophet's
+**3.** "Dhu al-Nurayn" means "possessor of the two lights" [1]; he married two of the Prophet's (pbuh)
 daughters, Ruqayya and, after her death, Umm Kulthum [1].
 
-**4.** After the treaty was agreed, the Companions were upset and did not respond when the Prophet
-told them to sacrifice and shave [1]. Umm Salama advised him to do it himself without speaking [1];
+**4.** After the treaty was agreed, the Companions were upset and did not respond when the Prophet (pbuh)
+told them to sacrifice and shave [1]. Umm Salama (RA) advised him to do it himself without speaking [1];
 when he did, they all followed, ending a difficult moment [1].
 
 **5.** Any three, [1] each: he came from a wealthy Makkan family and gave up his comfort for Islam;
 he was sent to Yathrib after the first pledge of Aqaba to teach the Qur'an; many in Yathrib accepted
 Islam through him; he carried the banner at Uhud and was martyred there. Maximum 3.
 
-**6.** Ali [1], Hasan [1], Husayn [1], Ali Zayn al-Abidin [1].
+**6.** Ali (RA) [1], Hasan [1], Husayn [1], Ali Zayn al-Abidin [1].
 
 **7.** Her father was the chief of the Banu Mustaliq, so the marriage built a bond with the tribe [1];
-the Companions freed many captives of her tribe because they had become the Prophet's relatives by
+the Companions freed many captives of her tribe because they had become the Prophet's (pbuh) relatives by
 marriage [1].
 
 **8. (a)** Credit the best five, [2] each:
-- Aisha was the daughter of Abu Bakr, the Prophet's closest friend, so she grew up in a Muslim home
+- Aisha (RA) was the daughter of Abu Bakr (RA), the Prophet's (pbuh) closest friend, so she grew up in a Muslim home
   [2].
-- She married the Prophet in Madina and was known for her intelligence and memory [2].
+- She married the Prophet (pbuh) in Madina and was known for her intelligence and memory [2].
 - She was cleared of a false accusation by revelation (Sura 24.11–20), which taught Muslims to reject
   slander without proof [2].
 - She narrated a very large number of Hadiths, especially about his private life, prayer and family
   conduct [2].
-- The Prophet died in her room, and was buried there [2].
+- The Prophet (pbuh) died in her room, and was buried there [2].
 - After his death Companions consulted her on law and the Qur'an; she taught men and women for many
   years [2].
 **(b)** Credit the best two, [2] each:
@@ -118,58 +118,58 @@ marriage [1].
   [2].
 
 **9. (a)** Credit the best five, [2] each:
-- Fatima was the youngest daughter of the Prophet and Khadija, and was very close to her father [2].
+- Fatima (RA) was the youngest daughter of the Prophet (pbuh) and Khadija (RA), and was very close to her father [2].
 - In Makka she cared for him, once removing filth thrown on his back while he prayed [2].
-- She migrated to Madina and married Ali; they lived simply and did heavy household work themselves
+- She migrated to Madina and married Ali (RA); they lived simply and did heavy household work themselves
   [2].
-- When she asked for a servant, the Prophet taught her and Ali to glorify God before sleeping
+- When she asked for a servant, the Prophet (pbuh) taught her and Ali (RA) to glorify God before sleeping
   instead, which is still practised [2].
-- Her sons Hasan and Husayn were loved by the Prophet, who called them leaders of the youth of
+- Her sons Hasan and Husayn were loved by the Prophet (pbuh), who called them leaders of the youth of
   Paradise [2].
-- At the Mubahala with the Christians of Najran the Prophet brought out Ali, Fatima, Hasan and Husayn
+- At the Mubahala with the Christians of Najran the Prophet (pbuh) brought out Ali (RA), Fatima (RA), Hasan and Husayn
   (Sura 3.61) [2].
 - She died a few months after her father [2].
 **(b)** Credit the best two, [2] each:
-- They are the Prophet's closest family, and showing love for them is a way of honouring him [2].
+- They are the Prophet's (pbuh) closest family, and showing love for them is a way of honouring him [2].
 - They lived lives of sacrifice and simplicity, which Muslims see as a model of devotion [2].
 - For Shi'a Muslims they are the source of the Imams, the rightful guides of the community, so their
   honour is part of belief [2].
 
 **10. (a)** Credit the best five, [2] each:
-- Abu Bakr was the first free adult man to accept Islam, and brought others such as Uthman and Talha
+- Abu Bakr (RA) was the first free adult man to accept Islam, and brought others such as Uthman (RA) and Talha (RA)
   to Islam [2].
-- He spent his wealth freeing slaves, including Bilal [2].
+- He spent his wealth freeing slaves, including Bilal (RA) [2].
 - He believed the Isra and Mi'raj at once and was called al-Siddiq [2].
-- He accompanied the Prophet on the Hijra and hid with him in the cave of Thawr (Sura 9.40), and led
+- He accompanied the Prophet (pbuh) on the Hijra and hid with him in the cave of Thawr (Sura 9.40), and led
   the prayers in his final illness [2].
-- Ali was raised in the Prophet's house and was the first young person to accept Islam [2].
-- On the night of the Hijra he slept in the Prophet's bed and then returned the trusts left with the
+- Ali (RA) was raised in the Prophet's (pbuh) house and was the first young person to accept Islam [2].
+- On the night of the Hijra he slept in the Prophet's (pbuh) bed and then returned the trusts left with the
   Prophet [2].
-- He married Fatima, fought at Badr, carried the banner at Khaybar, and was left in charge of Madina
+- He married Fatima (RA), fought at Badr, carried the banner at Khaybar, and was left in charge of Madina
   during Tabuk [2].
 **(b)** A clear judgement [1] supported by reasons [3]. For example: both were completely loyal, but
-Ali's loyalty was shown in the greater physical risk [1]: he lay in the bed where assassins expected
-the Prophet [1], fought in the front line in the major battles [1], and stayed behind when ordered,
-even when others criticised him [1]. An equally reasoned answer for Abu Bakr, for example his risk in
+Ali's (RA) loyalty was shown in the greater physical risk [1]: he lay in the bed where assassins expected
+the Prophet (pbuh) [1], fought in the front line in the major battles [1], and stayed behind when ordered,
+even when others criticised him [1]. An equally reasoned answer for Abu Bakr (RA), for example his risk in
 the cave of Thawr and his spending of all his wealth, earns the same credit.
 
 **11. (a)** Credit the best five, [2] each:
-- Hamza was the Prophet's uncle; he accepted Islam after Abu Jahl insulted the Prophet, and his
+- Hamza (RA) was the Prophet's (pbuh) uncle; he accepted Islam after Abu Jahl insulted the Prophet (pbuh), and his
   strength gave the Muslims protection in Makka [2].
 - He fought at Badr in the opening single combat and was martyred at Uhud, where his body was
-  mutilated; the Prophet grieved deeply and called him the master of martyrs [2].
-- Bilal was an Abyssinian slave in Makka who accepted Islam early and was tortured by Umayya ibn
+  mutilated; the Prophet (pbuh) grieved deeply and called him the master of martyrs [2].
+- Bilal (RA) was an Abyssinian slave in Makka who accepted Islam early and was tortured by Umayya ibn
   Khalaf, repeating "One, One" [2].
-- Abu Bakr bought and freed him; in Madina he was chosen to give the call to prayer, and at the
+- Abu Bakr (RA) bought and freed him; in Madina he was chosen to give the call to prayer, and at the
   conquest of Makka he called it from the Ka'ba [2].
-- Salman al-Farsi was a Persian who travelled widely in search of the truth before reaching Madina
+- Salman al-Farsi (RA) was a Persian who travelled widely in search of the truth before reaching Madina
   and accepting Islam [2].
 - At the Battle of the Trench in 627 he advised digging a trench, a Persian method, which protected
   Madina [2].
 **(b)** Credit the best two, [2] each:
 - Islam judges people by faith and conduct, not race or status: a former slave from Abyssinia and a
-  Persian were honoured alongside the Prophet's own uncle [2].
-- The Prophet valued skills and ideas from any background, as with Salman's trench, so Muslim
+  Persian were honoured alongside the Prophet's (pbuh) own uncle [2].
+- The Prophet (pbuh) valued skills and ideas from any background, as with Salman's trench, so Muslim
   communities should welcome everyone's talents [2].
 - This matches the Farewell Sermon's teaching that no Arab has superiority over a non-Arab [2].
 
@@ -184,7 +184,7 @@ the cave of Thawr and his spending of all his wealth, earns the same credit.
 ## Frequently asked questions
 
 **Will I be asked about Shi'a Imams in detail?**
-The syllabus names the line of Imams among the Prophet's descendants, so know who they are and why
+The syllabus names the line of Imams among the Prophet's (pbuh) descendants, so know who they are and why
 Shi'a Muslims honour them; detailed lives of the later Imams are not listed.
 
 **How many people should one answer cover?**

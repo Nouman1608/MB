@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review; 2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 ---
 
 **These notes condense Paper 2 Question 2 of Cambridge IGCSE Islamiyat 0493, The History and
@@ -40,7 +40,7 @@ major themes; use in law with the Qur'an, ijma' and qiyas; significance in thoug
 | Term | Meaning |
 |---|---|
 | Hadith | Report of the Prophet's (pbuh) words, actions or approval |
-| Sunnah | The Prophet's practice and way of life |
+| Sunnah | The Prophet's (pbuh) practice and way of life |
 | Isnad | Chain of narrators |
 | Matn | Text of the Hadith |
 | Sahifa | Early written notebook of Hadiths |
@@ -55,7 +55,7 @@ major themes; use in law with the Qur'an, ijma' and qiyas; significance in thoug
 | Tabi'un | The generation after the companions |
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-history-and-importance-of-the-hadiths--01-isnad-and-matn.webp" width="900" height="634" alt="The isnad is drawn as a chain: A told me that B said that C heard the Prophet (pbuh) say. Below it the matn, the text itself, reports what the Prophet said, did or approved. A note defines the Sunnah as his way of life, known mainly through Hadiths." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-history-and-importance-of-the-hadiths--01-isnad-and-matn.webp" width="900" height="634" alt="The isnad is drawn as a chain: A told me that B said that C heard the Prophet (pbuh) say. Below it the matn, the text itself, reports what the Prophet (pbuh) said, did or approved. A note defines the Sunnah as his way of life, known mainly through Hadiths." loading="lazy">
   <figcaption>Isnad is the chain of narrators; matn is the text they passed on.</figcaption>
 </figure>
 
@@ -69,7 +69,7 @@ major themes; use in law with the Qur'an, ijma' and qiyas; significance in thoug
 6. **The great Sahih and Sunan collections (3rd century AH):** al-Bukhari, Muslim and the others.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-history-and-importance-of-the-hadiths--02-stages-of-compilation.webp" width="900" height="693" alt="Four stages in order: memorising and some note-taking in the Prophet's lifetime; teaching by companions and successors with early sahifas; the order of Umar ibn Abd al-Aziz (ruled 717–720) to collect Hadiths in writing; and the musannaf and musnad collections of the second and third Islamic centuries, followed by the six Sunni collections." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-history-and-importance-of-the-hadiths--02-stages-of-compilation.webp" width="900" height="693" alt="Four stages in order: memorising and some note-taking in the Prophet's (pbuh) lifetime; teaching by companions and successors with early sahifas; the order of Umar ibn Abd al-Aziz (ruled 717–720) to collect Hadiths in writing; and the musannaf and musnad collections of the second and third Islamic centuries, followed by the six Sunni collections." loading="lazy">
   <figcaption>From memory to notebooks to official collection to the great compilations.</figcaption>
 </figure>
 
@@ -88,10 +88,10 @@ major themes; use in law with the Qur'an, ijma' and qiyas; significance in thoug
 
 **Matn checks:**
 - Must not contradict the Qur'an or well-established Hadiths.
-- Must be consistent with reason and with the Prophet's character.
+- Must be consistent with reason and with the Prophet's (pbuh) character.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-history-and-importance-of-the-hadiths--04-testing-reliability.webp" width="900" height="644" alt="Two checklists feed one grade. Isnad criticism checks narrators' character, memory, whether they could have met and that there is no gap in the chain. Matn criticism checks the text against the Qur'an, established Hadiths, reason and the Prophet's character. Results are sahih (sound), hasan (good), da'if (weak), or fabricated and rejected." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-history-and-importance-of-the-hadiths--04-testing-reliability.webp" width="900" height="644" alt="Two checklists feed one grade. Isnad criticism checks narrators' character, memory, whether they could have met and that there is no gap in the chain. Matn criticism checks the text against the Qur'an, established Hadiths, reason and the Prophet's (pbuh) character. Results are sahih (sound), hasan (good), da'if (weak), or fabricated and rejected." loading="lazy">
   <figcaption>Both the chain and the text are tested before a Hadith is graded.</figcaption>
 </figure>
 
@@ -113,7 +113,7 @@ The two Sahihs have the strictest conditions; the Sunan works focus on legal Had
 3. Tahdhib al-ahkam (al-Shaykh al-Tusi)
 4. al-Istibsar (al-Shaykh al-Tusi)
 
-Shi'a scholars accept Hadiths transmitted through the Prophet's family and the Imams.
+Shi'a scholars accept Hadiths transmitted through the Prophet's (pbuh) family and the Imams.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-history-and-importance-of-the-hadiths--05-four-shia-collections.webp" width="900" height="620" alt="Three compilers and their four books: al-Kulayni compiled al-Kafi, covering belief as well as law; Ibn Babawayh (al-Shaykh al-Saduq) compiled Man la yahduruhu al-faqih; al-Shaykh al-Tusi compiled Tahdhib al-ahkam and al-Istibsar. The last three focus mainly on law." loading="lazy">

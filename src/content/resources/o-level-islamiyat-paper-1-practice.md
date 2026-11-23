@@ -30,7 +30,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-08-25
 featured: false
 ---
@@ -88,7 +88,7 @@ life today. **[4]**
 
 **Sura 99**
 
-1\. When the earth is shaken to her utmost convulsion, 2. And the earth throws up her burdens, 3. And man cries out: ‘What is the matter with her?’, 4. On that day will she declare her tidings: 5. For that your Lord will have given her inspiration. 6. On that day will men proceed in companies sorted out, to be shown their deeds. 7. Then shall anyone who has done an atom’s weight of good see it! 8. And anyone who has done an atom’s weight of evil shall see it.
+1\. When the earth is shaken to her utmost convulsion, 2. And the earth throws up her burdens, 3. And man cries out: 'What is the matter with her?', 4. On that day will she declare her tidings: 5. For that your Lord will have given her inspiration. 6. On that day will men proceed in companies sorted out, to be shown their deeds. 7. Then shall anyone who has done an atom's weight of good see it! 8. And anyone who has done an atom's weight of evil shall see it.
 
 **(iii)**
 
@@ -104,7 +104,7 @@ life today. **[4]**
 
 **Sura 6.75–79**
 
-75\. So also did We show Abraham the power and the laws of the heavens and the earth, so that he might have certainty. 76. When the night covered him over, he saw a star: He said: ‘This is my Lord.’ But when it set, he said: ‘I do not love things that set.’ 77. When he saw the moon rising in splendour, he said: ‘This is my Lord.’ But when the moon set, he said: ‘Unless my Lord guides me, I will surely be among those who go astray.’ 78. When he saw the sun rising in splendour, he said: ‘This is my Lord; this is the greatest.’ But when the sun set, he said: ‘O my people! I am indeed free from your giving partners to Allah.’ 79. ‘For me, I have set my face firmly and truly towards Him who created the heavens and the earth, and never shall I give partners to Allah.’
+75\. So also did We show Abraham the power and the laws of the heavens and the earth, so that he might have certainty. 76. When the night covered him over, he saw a star: He said: 'This is my Lord.' But when it set, he said: 'I do not love things that set.' 77. When he saw the moon rising in splendour, he said: 'This is my Lord.' But when the moon set, he said: 'Unless my Lord guides me, I will surely be among those who go astray.' 78. When he saw the sun rising in splendour, he said: 'This is my Lord; this is the greatest.' But when the sun set, he said: 'O my people! I am indeed free from your giving partners to Allah.' 79. 'For me, I have set my face firmly and truly towards Him who created the heavens and the earth, and never shall I give partners to Allah.'
 
 *The English translations are those printed in the syllabus appendix. The Arabic text is from the Tanzil Project (tanzil.net) and has been checked word for word against the passages as printed in the syllabus appendix.*
 
@@ -112,12 +112,12 @@ life today. **[4]**
 
 **(a)** Describe how the Qur'an was compiled after the death of the
 Prophet (pbuh) and later standardised. **[10]**
-**(b)** Explain why the standardisation under Uthman was important
+**(b)** Explain why the standardisation under Uthman (RA) was important
 for the later history of Islam. **[4]**
 
 ## Answer any TWO of Questions 3–5
 
-### Question 3 (1.3 Life and importance of the Prophet) [14]
+### Question 3 (1.3 Life and importance of the Prophet (pbuh)) [14]
 
 **(a)** Describe the main events of the Hijra from Makkah to Madinah. **[10]**
 **(b)** Explain why the Hijra is regarded as a turning point for the
@@ -130,7 +130,7 @@ and the Ansar in Madinah. **[10]**
 **(b)** Explain why this relationship mattered for the survival of
 the early Muslim community. **[4]**
 
-### Question 5 (1.3 Life and importance of the Prophet) [14]
+### Question 5 (1.3 Life and importance of the Prophet (pbuh)) [14]
 
 **(a)** Describe the main provisions of the Farewell Sermon. **[10]**
 **(b)** Explain the importance of the Farewell Sermon for Muslims
@@ -178,15 +178,15 @@ wrongs such as rudeness or minor dishonesty, preparing for judgement
 creation to strengthen their faith, and, like Ibrahim, stand firm for
 tawhid even when the people around them hold other beliefs [2].
 
-**Question 2. (a)** After the Prophet's death, many who had memorised
+**Question 2. (a)** After the Prophet's (pbuh) death, many who had memorised
 the Qur'an were killed at the **Battle of Yamama** during the Ridda
 wars, prompting concern that parts of the text could be lost [2].
-**Abu Bakr**, on Umar's advice, commissioned **Zayd ibn Thabit** to
+**Abu Bakr (RA)**, on Umar's (RA) advice, commissioned **Zayd ibn Thabit (RA)** to
 collect the written and memorised Qur'an into a single copy [2],
-which was kept by Abu Bakr and later **Hafsah** [1]. As Islam spread,
+which was kept by Abu Bakr (RA) and later **Hafsah** [1]. As Islam spread,
 Muslims in different regions began reciting in different dialects,
 and disputes arose during campaigns in Armenia and Azerbaijan [2].
-**Uthman** had Hafsah's copy reproduced by a committee under Zayd,
+**Uthman (RA)** had Hafsah's copy reproduced by a committee under Zayd,
 using the dialect of the Quraysh where there was disagreement [2];
 **standard copies were sent to the main centres** of the Muslim world
 and other versions were destroyed [1].
@@ -198,8 +198,8 @@ Muslims regard as evidence of the Qur'an's careful preservation [2].
 **Question 3. (a)** Persecution in Makkah intensified, particularly
 after the deaths of Khadijah and Abu Talib [1]. Delegations from
 Yathrib pledged support at the two **pledges of Aqabah** [1]. The
-Quraysh plotted to kill the Prophet; **Ali slept in his bed** while
-the Prophet left with Abu Bakr [2]. They sheltered in the **cave of
+Quraysh plotted to kill the Prophet (pbuh); **Ali (RA) slept in his bed** while
+the Prophet (pbuh) left with Abu Bakr (RA) [2]. They sheltered in the **cave of
 Thawr** for three days to evade pursuers [2] before completing the
 journey to Yathrib, which became **Madinah** [2]; Muslims migrated in
 small groups to avoid detection [2].
@@ -210,7 +210,7 @@ authority** [1]; it enabled the **Constitution of Madinah** and the
 first mosque, and established the principle that migration to
 preserve one's faith is legitimate [2].
 
-**Question 4. (a)** On arrival, the Prophet paired each **Muhajir**
+**Question 4. (a)** On arrival, the Prophet (pbuh) paired each **Muhajir**
 (migrant from Makkah) with an **Ansari** (helper of Madinah) [2],
 who shared home, property and livelihood with the newcomer [2]. This
 went beyond hospitality — some Ansar offered to divide their wealth
@@ -226,7 +226,7 @@ fragile moment [2]; it also demonstrated a working **model of
 solidarity** across tribal lines that helped unify the new community
 [2].
 
-**Question 5. (a)** The Farewell Sermon, delivered on the Prophet's
+**Question 5. (a)** The Farewell Sermon, delivered on the Prophet's (pbuh)
 final pilgrimage, set out **equality regardless of race** — "no Arab
 has superiority over a non-Arab" [2]; the **sanctity of life and
 property** [2]; the **rights of women**, including fair treatment
@@ -247,8 +247,8 @@ point for Muslims discussing justice and conduct [2].
   about all three: the rubric asks for **two**, and each carries half
   the marks of each part — the theme(s) in part (a) and their
   importance in a Muslim's life today in part (b).
-- Confusing the **compilation** (Abu Bakr) with the
-  **standardisation** (Uthman) of the Qur'an.
+- Confusing the **compilation** (Abu Bakr (RA)) with the
+  **standardisation** (Uthman (RA)) of the Qur'an.
 - Giving a generic answer to a 10-mark part without anchoring points
   to specific events, named individuals or quotations.
 - Spending too long on Question 1's 8 marks and running short of time

@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -66,7 +66,7 @@ Apply **one** teaching from a source of authority in your answer. **[6]**
 > away, [O Muhammad (pbuh)], say, "Sufficient for me is Allah; there is no deity except Him. On
 > Him I have relied, and He is the Lord of the Great Throne."
 
-'The character of the Prophet is the strongest proof of his prophethood.'
+'The character of the Prophet (pbuh) is the strongest proof of his prophethood.'
 
 Examine why this statement is significant for Muslims.
 

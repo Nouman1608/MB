@@ -17,7 +17,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -26,12 +26,12 @@ Condensed recall notes for **Paper 2** of Cambridge O Level Islamiyat
 (2058), 2026–2027 series — identical content structure to sibling
 Cambridge IGCSE Islamiyat (0493). Paper 2 is a 1.5-hour exam of five
 questions, of which candidates must answer Question 1, Question 2 and
-two others, covering the Hadiths of the Prophet, the Rightly Guided
+two others, covering the Hadiths of the Prophet (pbuh), the Rightly Guided
 Caliphs, and the Articles of Faith and Pillars of Islam. Use alongside
 the full study guide on Paper 2 for explanation and context — these
 notes are for fast recall in the final stretch of revision.
 
-## 1. Major teachings in the Hadiths of the Prophet
+## 1. Major teachings in the Hadiths of the Prophet (pbuh)
 
 - Two groups of set passages: those on **individual conduct** and
   those on **life in the community**.
@@ -46,7 +46,7 @@ notes are for fast recall in the final stretch of revision.
   [8 marks]
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-2--02-quran-and-hadith.webp" width="900" height="448" alt="Two linked boxes: the Qur'an sets out core principles, and the Hadiths, a second source of guidance, give the practical detail of how they were lived out. A note defines Hadiths as the Prophet's sayings, actions and approvals, preserved through the isnad, distinct from the Qur'an but complementary." loading="lazy">
+  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-2--02-quran-and-hadith.webp" width="900" height="448" alt="Two linked boxes: the Qur'an sets out core principles, and the Hadiths, a second source of guidance, give the practical detail of how they were lived out. A note defines Hadiths as the Prophet's (pbuh) sayings, actions and approvals, preserved through the isnad, distinct from the Qur'an but complementary." loading="lazy">
   <figcaption>Principles from the Qur'an, practical detail from the Hadiths.</figcaption>
 </figure>
 
@@ -80,14 +80,14 @@ notes are for fast recall in the final stretch of revision.
   government today.
 - Their importance as examples for how Muslim communities relate to
   other states.
-- Boundary with Paper 1: the Caliphs' roles **during the Prophet's
+- Boundary with Paper 1: the Caliphs' roles **during the Prophet's (pbuh)
   lifetime** are examined under Paper 1 — this topic covers only their
   **period of rule after** his death.
 - Exam question: one or two questions, multi-part, essay-length
   answers. [14 marks]
 - Do not omit the **Ridda (apostasy) wars** when asked about Abu
   Bakr's rule, achievements or difficulties: tribes that withheld zakat
-  or followed false prophets after the Prophet's death were brought
+  or followed false prophets after the Prophet's (pbuh) death were brought
   back under the authority of Madinah, holding the community together.
   (Only the link to Yamama and the Qur'an's compilation belongs to
   Paper 1.)
@@ -146,7 +146,7 @@ notes are for fast recall in the final stretch of revision.
 ## Common mistakes
 
 - **Confusing content covered in Paper 1 versus Paper 2** for the
-  Rightly Guided Caliphs — remember the "during the Prophet's lifetime"
+  Rightly Guided Caliphs — remember the "during the Prophet's (pbuh) lifetime"
   boundary.
 - **Describing without explaining significance** on the Articles of
   Faith and Pillars, which caps marks even with accurate factual
@@ -168,7 +168,7 @@ Caliphs' role *during* his lifetime; Paper 2's topic 3 picks up their
 story only from his death onward. Candidates who blur this boundary
 sometimes answer a Paper 2 Caliphs question with material that
 actually belongs to Paper 1's account of the first Islamic community —
-keep a clear personal note of exactly where "during the Prophet's
+keep a clear personal note of exactly where "during the Prophet's (pbuh)
 lifetime" ends and "period of rule" begins, since this distinction is
 stated explicitly in the syllabus itself, not left to interpretation.
 

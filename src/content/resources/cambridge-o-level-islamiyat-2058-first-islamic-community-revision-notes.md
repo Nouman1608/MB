@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the names, relationships and facts given for each person in these notes."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the names, relationships and facts given for each person in these notes. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -45,26 +45,29 @@ their actions. Each person below has three or four facts you can expand in an an
 
 ## Wives: fact strings
 
-- **Khadija** — widow, trader → hired him, Maysara praised his honesty → proposed; he was 25 → first
+- **Khadija (RA)** — widow, trader → hired him, Maysara praised his honesty → proposed; he was 25 → first
   believer; comforted him after Hira → all children but Ibrahim → spent wealth, endured boycott →
   died 619. *Matters:* loyalty and sacrifice; a woman's support at the start of Islam.
-- **Sawda** — widow, had migrated to Abyssinia → married after Khadija → cared for his daughters.
+- **Sawda (RA)** — widow, had migrated to Abyssinia → married after Khadija (RA) → cared for his daughters.
   *Matters:* care for widows.
-- **Aisha** — daughter of Abu Bakr → narrator of very many Hadiths and teacher of law → Prophet died
+- **Aisha (RA)** — daughter of Abu Bakr (RA) → narrator of very many Hadith and teacher of law → the Prophet (pbuh) died
   in her room. *Matters:* women as scholars; source of knowledge of his private life.
-- **Hafsa** — daughter of Umar, a widow → kept Abu Bakr's collected Qur'an. *Matters:* trusted with
+- **Hafsa (RA)** — daughter of Umar (RA), a widow → kept Abu Bakr's (RA) collected Qur'an. *Matters:* trusted with
   the most precious text.
-- **Umm Salama** — widow of Abu Salama → at Hudaybiyya advised him to sacrifice and shave first; the
+- **Umm Salama (RA)** — widow of Abu Salama → at Hudaybiyya advised him to sacrifice and shave first; the
   Companions followed. *Matters:* he valued his wife's counsel.
-- **Zaynab bint Jahsh** — his cousin → marriage ended the custom treating an adopted son like a son
+- **Zaynab bint Jahsh (RA)** — his cousin → marriage ended the custom treating an adopted son like a son
   by birth (Sura 33.37). *Matters:* Qur'anic law set through example.
-- **Juwayriyya** — daughter of the Banu Mustaliq chief → captives of her tribe freed. *Matters:*
+- **Juwayriyya (RA)** — daughter of the Banu Mustaliq chief → captives of her tribe freed. *Matters:*
   marriage that brought peace and freedom.
-- **Umm Habiba** — daughter of Abu Sufyan → stayed Muslim in Abyssinia. *Matters:* faith over family
+- **Umm Habiba (RA)** — daughter of Abu Sufyan → stayed Muslim in Abyssinia. *Matters:* faith over family
   pressure.
-- **Safiyya** — from a Jewish family of Khaybar → he defended her honour. *Matters:* respect for
-  people of other backgrounds.
-- **Zaynab bint Khuzayma** ("mother of the poor") and **Maymuna** (last marriage) complete the list.
+- **Safiyya (RA)** — from a Jewish family, taken captive at Khaybar → freed and given the choice to go
+  back to her people or stay; she chose to stay and he married her → when other wives taunted her
+  for her Jewish descent, he told her to answer that Harun (Aaron) was her father, Musa (Moses) her
+  uncle and Muhammad (pbuh) her husband (Tirmidhi). *Matters:* respect for people of other
+  backgrounds.
+- **Zaynab bint Khuzayma (RA)** ("mother of the poor") and **Maymuna (RA)** (last marriage) complete the list.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-first-islamic-community--02-reasons-for-the-marriages.webp" width="900" height="624" alt="Five reasons for the marriages, each with examples: support for widows such as Sawda and Umm Salama; bonds with close Companions through Aisha and Hafsa; bonds with tribes through Juwayriyya and Umm Habiba; changing a custom through Zaynab bint Jahsh; and teaching Muslims about his private life and practice." loading="lazy">
@@ -82,23 +85,24 @@ their actions. Each person below has three or four facts you can expand in an an
 |---|---|---|
 | Qasim, Abdullah, Ibrahim | Sons who died young; eclipse at Ibrahim's death not caused by it | Patience in grief; rejection of superstition |
 | Zaynab | Eldest daughter; married Abu al-As | Loyalty to faith and family |
-| Ruqayya, Umm Kulthum | Married Uthman in turn (Dhu al-Nurayn) | Bond between the Prophet and Uthman |
-| Fatima | Al-Zahra; married Ali; mother of Hasan and Husayn; died months after him | Model of devotion and simple living |
+| Ruqayya, Umm Kulthum | Married Uthman (RA) in turn (Dhu al-Nurayn) | Bond between the Prophet (pbuh) and Uthman (RA) |
+| Fatima (RA) | Al-Zahra; married Ali (RA); mother of Hasan and Husayn; died months after him | Model of devotion and simple living |
 | Hasan, Husayn | "Leaders of the youth of Paradise"; at the Mubahala (Sura 3.61) | Love for children; the Ahl al-Bayt |
 
-**The twelve Imams (Twelver Shi'a):** Ali → Hasan → Husayn → Ali Zayn al-Abidin → Muhammad al-Baqir →
+**The twelve Imams (Twelver Shi'a):** Ali (RA) → Hasan (RA) → Husayn (RA) → Ali Zayn al-Abidin → Muhammad al-Baqir →
 Ja'far al-Sadiq → Musa al-Kazim → Ali al-Rida → Muhammad al-Jawad → Ali al-Hadi → Hasan al-Askari →
 Muhammad al-Mahdi (in hiding, awaited). Shi'a Muslims see them as divinely guided leaders from the
-Prophet's line.
+Prophet's (pbuh) line. Sunni Muslims honour the Prophet's (pbuh) family, including Ali, Hasan and
+Husayn, but do not recognise the Imams as divinely appointed leaders.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-first-islamic-community--03-descendants.webp" width="900" height="685" alt="A text family tree. With Khadija the Prophet (pbuh) had Qasim, Abdullah, Zaynab (married Abu al-As), Ruqayya and Umm Kulthum (both married Uthman) and Fatima (married Ali); with Maria he had Ibrahim. Fatima's children include Hasan, Husayn and Zaynab bint Ali. A note explains Uthman's title Dhu al-Nurayn and the Ahl al-Bayt at the Mubahala." loading="lazy">
-  <figcaption>Six children with Khadija, Ibrahim with Maria; the line continues through Fatima and Ali.</figcaption>
+  <figcaption>Six children with Khadija (RA), Ibrahim with Maria; the line continues through Fatima (RA) and Ali (RA).</figcaption>
 </figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-first-islamic-community--04-twelve-imams.webp" width="900" height="717" alt="The twelve Imams in order: Ali, Hasan, Husayn, Ali Zayn al-Abidin, Muhammad al-Baqir, Ja'far al-Sadiq, Musa al-Kazim, Ali al-Rida, Muhammad al-Jawad, Ali al-Hadi, Hasan al-Askari and Muhammad al-Mahdi. Cards note that they are seen as rightful, divinely guided leaders, that the twelfth is believed to be in hiding, and that Husayn's martyrdom at Karbala is remembered in Muharram." loading="lazy">
-  <figcaption>Twelve Imams in one line, from Ali to Muhammad al-Mahdi.</figcaption>
+  <figcaption>Twelve Imams in one line, from Ali (RA) to Muhammad al-Mahdi.</figcaption>
 </figure>
 
 ## The Ten Blessed Companions
@@ -106,19 +110,19 @@ Prophet's line.
 Memory hook, in two rows of five:
 
 ```
-Abu Bakr · Umar · Uthman · Ali · Talha ibn Ubaydullah
-al-Zubayr ibn al-Awwam · Abd al-Rahman ibn Awf · Sa'd ibn Abi Waqqas · Sa'id ibn Zayd · Abu Ubayda ibn al-Jarrah
+Abu Bakr (RA) · Umar (RA) · Uthman (RA) · Ali (RA) · Talha ibn Ubaydullah (RA)
+al-Zubayr ibn al-Awwam (RA) · Abd al-Rahman ibn Awf (RA) · Sa'd ibn Abi Waqqas (RA) · Sa'id ibn Zayd (RA) · Abu Ubayda ibn al-Jarrah (RA)
 ```
 
 ## Scribes and major characters
 
-- **Zayd ibn Thabit:** chief scribe; learned another script for letters; later compiled the Qur'an.
-- **Ubayy ibn Ka'b:** scribe and leading reciter.
-- **Hamza:** uncle; "Lion of God"; martyred at Uhud.
-- **Bilal:** tortured slave freed by Abu Bakr; first mu'adhdhin.
-- **Mus'ab ibn Umayr:** gave up wealth; first teacher sent to Yathrib; martyred at Uhud.
-- **Zayd ibn Haritha:** freed and adopted by the Prophet; only Companion named in the Qur'an.
-- **Salman al-Farsi:** Persian seeker of truth; idea of the trench.
+- **Zayd ibn Thabit (RA):** chief scribe; learned another script for letters; later compiled the Qur'an.
+- **Ubayy ibn Ka'b (RA):** scribe and leading reciter.
+- **Hamza (RA):** uncle; "Lion of God"; martyred at Uhud.
+- **Bilal (RA):** tortured slave freed by Abu Bakr (RA); first mu'adhdhin.
+- **Mus'ab ibn Umayr (RA):** gave up wealth; first teacher sent to Yathrib (the city later called Madinah after the Hijra; Yathrib and Madinah are the same place); martyred at Uhud.
+- **Zayd ibn Haritha (RA):** freed and adopted by the Prophet (pbuh); by the widely held view, the only Companion named in the Qur'an (Sura 33.37).
+- **Salman al-Farsi (RA):** Persian seeker of truth; idea of the trench.
 - **Opponents who matter:** Abu Lahab (Sura 111), Abu Jahl (killed at Badr), Abu Sufyan (Muslim at
   the conquest of Makka), Khalid ibn al-Walid (Uhud cavalry, later "Sword of God").
 
@@ -130,7 +134,7 @@ al-Zubayr ibn al-Awwam · Abd al-Rahman ibn Awf · Sa'd ibn Abi Waqqas · Sa'id 
 ## Emigrants and Helpers
 
 - Muhajirun left property in Makka; Ansar (Aws and Khazraj) welcomed them.
-- Paired in brotherhood; Sa'd ibn al-Rabi' offered half his wealth to Abd al-Rahman ibn Awf, who
+- Paired in brotherhood; Sa'd ibn al-Rabi' (RA) offered half his wealth to Abd al-Rahman ibn Awf (RA), who
   asked to be shown the market.
 - Qur'an praise: Sura 59.9 (Ansar preferred others over themselves); Sura 9.100 (both groups).
 
@@ -141,15 +145,15 @@ al-Zubayr ibn al-Awwam · Abd al-Rahman ibn Awf · Sa'd ibn Abi Waqqas · Sa'id 
 
 ## The four caliphs before 632
 
-| Caliph | Three facts to use |
+| Caliph | Facts to use |
 |---|---|
-| Abu Bakr | First free adult male believer; al-Siddiq after the Mi'raj; "second of two" in Thawr (Sura 9.40) |
-| Umar | Converted after Sura Ta-Ha; Muslims prayed openly at the Ka'ba; al-Faruq |
-| Uthman | Married two daughters of the Prophet; bought the well of Ruma; Pledge of Ridwan after rumours of his death |
-| Ali | First young believer; slept in the Prophet's bed at the Hijra; married Fatima; banner at Khaybar |
+| Abu Bakr (RA) | First free adult male believer; al-Siddiq after the Mi'raj; "second of two" in Thawr (Sura 9.40) |
+| Umar (RA) | Converted after Sura Ta-Ha; Muslims prayed openly at the Ka'ba; al-Faruq |
+| Uthman (RA) | Married two daughters of the Prophet (pbuh); bought the well of Ruma; Pledge of Ridwan after rumours of his death |
+| Ali (RA) | First young believer; slept in the Prophet's (pbuh) bed at the Hijra; married Fatima (RA); banner at Khaybar |
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-first-islamic-community--07-caliphs-in-his-lifetime.webp" width="900" height="599" alt="Four cards. Abu Bakr: first free adult man to accept Islam, companion in the cave of Thawr, led prayers in the final illness. Umar: once an opponent, accepted Islam after hearing Sura Ta-Ha, let Muslims pray openly at the Ka'ba. Uthman: early convert, married two daughters, funded Tabuk. Ali: first young person to accept Islam, slept in the Prophet's bed on the night of the Hijra, married Fatima." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-first-islamic-community--07-caliphs-in-his-lifetime.webp" width="900" height="599" alt="Four cards. Abu Bakr: first free adult man to accept Islam, companion in the cave of Thawr, led prayers in the final illness. Umar: once an opponent, accepted Islam after hearing Sura Ta-Ha, let Muslims pray openly at the Ka'ba. Uthman: early convert, married two daughters, funded Tabuk. Ali: first young person to accept Islam, slept in the Prophet's (pbuh) bed on the night of the Hijra, married Fatima." loading="lazy">
   <figcaption>Before 632: how each future caliph came to Islam and served the Prophet (pbuh).</figcaption>
 </figure>
 
@@ -157,10 +161,10 @@ al-Zubayr ibn al-Awwam · Abd al-Rahman ibn Awf · Sa'd ibn Abi Waqqas · Sa'id 
 
 | Term | Meaning |
 |---|---|
-| Ummahat al-Mu'minin | Mothers of the Believers, the Prophet's wives |
-| Ahl al-Bayt | People of the House, the Prophet's family |
-| Imam (Shi'a) | Divinely guided leader from the Prophet's line |
-| Sahaba | Companions of the Prophet |
+| Ummahat al-Mu'minin | Mothers of the Believers, the Prophet's (pbuh) wives |
+| Ahl al-Bayt | People of the House, the Prophet's (pbuh) family |
+| Imam (Shi'a) | Divinely guided leader from the Prophet's (pbuh) line |
+| Sahaba | Companions of the Prophet (pbuh) |
 | Al-'Ashara al-Mubashshara | The Ten promised Paradise |
 | Katib al-wahy | Scribe of revelation |
 | Muhajirun / Ansar | Emigrants / Helpers |
@@ -168,33 +172,33 @@ al-Zubayr ibn al-Awwam · Abd al-Rahman ibn Awf · Sa'd ibn Abi Waqqas · Sa'id 
 ## Exam traps
 
 - A caliph question in Paper 1 means **before 632**; conquests and government are Paper 2.
-- **Abu Talib** protected the Prophet but is not counted among the Companions who accepted Islam.
-- **Zaynab bint Khuzayma** and **Zaynab bint Jahsh** are different wives; **Zaynab** the daughter is
+- **Abu Talib** protected the Prophet (pbuh) but is not counted among the Companions who accepted Islam.
+- **Zaynab bint Khuzayma (RA)** and **Zaynab bint Jahsh (RA)** are different wives; **Zaynab** the daughter is
   different again.
-- Name facts, not virtues alone: "Uthman was generous" needs the well of Ruma or Tabuk.
+- Name facts, not virtues alone: "Uthman (RA) was generous" needs the well of Ruma or Tabuk.
 
 ## Self-test
 
-1. What title does the Qur'an give the Prophet's wives?
+1. What title does the Qur'an give the Prophet's (pbuh) wives?
 2. Which wife kept the collected copy of the Qur'an?
-3. What advice did Umm Salama give at Hudaybiyya?
-4. Why was Uthman called Dhu al-Nurayn?
-5. Name the Prophet's grandsons through Fatima.
+3. What advice did Umm Salama (RA) give at Hudaybiyya?
+4. Why was Uthman (RA) called Dhu al-Nurayn?
+5. Name the Prophet's (pbuh) grandsons through Fatima (RA).
 6. Who is the twelfth Imam of Twelver Shi'a Muslims?
 7. Name any five of the Ten Blessed Companions.
-8. Which Companion is named in the Qur'an?
+8. According to the widely held view, which Companion is named in the Qur'an?
 9. Who was the first teacher sent to Yathrib?
-10. What did Abd al-Rahman ibn Awf ask of Sa'd ibn al-Rabi'?
-11. Which verse calls Abu Bakr "the second of two"?
-12. What did Ali do on the night of the Hijra?
+10. What did Abd al-Rahman ibn Awf (RA) ask of Sa'd ibn al-Rabi' (RA)?
+11. Which verse calls Abu Bakr (RA) "the second of two"?
+12. What did Ali (RA) do on the night of the Hijra?
 
-**Answers:** 1. Mothers of the Believers (Sura 33.6). 2. Hafsa. 3. That he should sacrifice and shave
-his head first, so the Companions would follow; they did. 4. He married two of the Prophet's
+**Answers:** 1. Mothers of the Believers (Sura 33.6). 2. Hafsa (RA). 3. That he should sacrifice and shave
+his head first, so the Companions would follow; they did. 4. He married two of the Prophet's (pbuh)
 daughters, Ruqayya and then Umm Kulthum. 5. Hasan and Husayn. 6. Muhammad al-Mahdi. 7. Any five of
-Abu Bakr, Umar, Uthman, Ali, Talha, al-Zubayr, Abd al-Rahman ibn Awf, Sa'd ibn Abi Waqqas, Sa'id ibn
-Zayd, Abu Ubayda. 8. Zayd ibn Haritha (Sura 33.37). 9. Mus'ab ibn Umayr. 10. To be shown the market
-so he could trade. 11. Sura 9.40. 12. He slept in the Prophet's bed as a decoy and later returned
-the goods people had left with the Prophet for safekeeping.
+Abu Bakr (RA), Umar (RA), Uthman (RA), Ali (RA), Talha (RA), al-Zubayr (RA), Abd al-Rahman ibn Awf (RA),
+Sa'd ibn Abi Waqqas (RA), Sa'id ibn Zayd (RA), Abu Ubayda (RA). 8. Zayd ibn Haritha (RA), by the widely held view (Sura 33.37). 9. Mus'ab ibn Umayr (RA). 10. To be shown the market
+so he could trade. 11. Sura 9.40. 12. He slept in the Prophet's (pbuh) bed as a decoy and later returned
+the goods people had left with the Prophet (pbuh) for safekeeping.
 
 ## Related pages
 
@@ -202,4 +206,4 @@ the goods people had left with the Prophet for safekeeping.
 - [Life of the Prophet (pbuh) revision notes](/resources/cambridge-o-level-islamiyat-2058-life-prophet-revision-notes/)
 
 *Source: Cambridge International, Cambridge O Level Islamiyat 2058 syllabus for examination in 2026
-and 2027, Paper 1 Topic 4.*
+and 2027, Paper 1, topic 4 (numbered 1.4 on this site).*

@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -71,7 +71,7 @@ Use the passage to make two linked points in a long answer:
 
 In Dhul-Qa'dah 6 AH the Prophet (pbuh) set out for Makkah with about 1,400 companions, intending to perform Umrah. They wore pilgrim dress and carried only the swords travellers normally carried. The Quraysh would not let them enter. The Muslims halted at Hudaibiyah, just outside the sacred territory.
 
-The Prophet (pbuh) sent Hazrat Uthman (RA) as his envoy. When a rumour spread that Uthman had been killed, the companions pledged loyalty under a tree. This is the **Pledge of Ridwan**, and the Qur'an says that Allah was pleased with the believers who pledged allegiance under the tree (Qur'an 48:18).
+The Prophet (pbuh) sent Hazrat Uthman (RA) as his envoy. When a rumour spread that Uthman (RA) had been killed, the companions pledged loyalty under a tree. This is the **Pledge of Ridwan**, and the Qur'an says that Allah was pleased with the believers who pledged allegiance under the tree (Qur'an 48:18).
 
 **The terms** negotiated with Suhayl ibn Amr for the Quraysh were:
 

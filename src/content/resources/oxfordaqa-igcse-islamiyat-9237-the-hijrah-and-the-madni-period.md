@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the dates, the sequence of the journey and the terms of the Charter of Madinah against a teacher's notes."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the dates, the sequence of the journey and the terms of the Charter of Madinah against a teacher's notes. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -39,7 +39,7 @@ featured: false
 | 622 | Muslims migrate to Yathrib in small groups |
 | 622 | The Quraysh plot; Hijrah of the Prophet (pbuh) and Abu Bakr (RA) |
 | 622 | Arrival at Quba; first mosque; entry to Yathrib, which becomes Madinah |
-| 622 to 623 | Building of the Prophet's Mosque; brotherhood; Charter of Madinah |
+| 622 to 623 | Building of the Prophet (pbuh)'s Mosque; brotherhood; Charter of Madinah |
 
 Some dates are approximate. Examiners expect the order of events, not exact days.
 
@@ -69,7 +69,7 @@ When the Quraysh saw the Muslims leaving, they feared that the Prophet (pbuh) wo
 |---|---|
 | Night of the plot | The Prophet (pbuh) is told by Jibril (AS) not to sleep in his bed. Ali (RA) lies in his place wearing his green cloak. The Prophet (pbuh) leaves through the ring of men, reciting verses of Surah Ya-Sin |
 | Same night | He joins Abu Bakr (RA); they leave Makkah heading south toward Yemen, in the opposite direction from Madinah |
-| Three nights | They hide in the **Cave of Thawr**. Abu Bakr's son Abdullah brings news at night; his daughter Asma (RA) brings food; his servant Amir ibn Fuhayra grazes his flock over their tracks |
+| Three nights | They hide in the **Cave of Thawr**. Abu Bakr's (RA) son Abdullah brings news at night; his daughter Asma (RA) brings food; his servant Amir ibn Fuhayra grazes his flock over their tracks |
 | Searchers arrive | Quraysh trackers reach the cave mouth. Abu Bakr (RA) fears for the Prophet (pbuh), who says, "Do not grieve; indeed Allah is with us" (9:40) |
 | Departure | Their guide, Abdullah ibn Urayqit, brings the camels. They go by the coast road |
 | The pursuit | The Quraysh offer a reward of one hundred camels. Suraqa ibn Malik catches up, but his horse sinks into the ground. He asks for forgiveness and a written promise of safety, and turns back |
@@ -77,7 +77,7 @@ When the Quraysh saw the Muslims leaving, they feared that the Prophet (pbuh) wo
 
 ### The role of Hazrat Ali (RA)
 
-- He **slept in the Prophet's bed**, risking his life and fooling the watchers.
+- He **slept in the Prophet's (pbuh) bed**, risking his life and fooling the watchers.
 - He **returned the trusts**. The Makkans had left valuables with the Prophet (pbuh) for safekeeping, as he was al-Amin. Ali (RA) stayed to give each one back, then followed on foot.
 - **Lesson:** courage, honesty and keeping trust even with enemies.
 
@@ -91,11 +91,11 @@ When the Quraysh saw the Muslims leaving, they feared that the Prophet (pbuh) wo
 
 ## Stage 5: the first mosque at Quba
 
-The Prophet (pbuh) stayed at Quba for several days. Ali (RA) joined him there. He laid the foundation of the **Mosque of Quba**, the first mosque in Islam, and worked on it with his companions. The prescribed passage, Qur'an 9:108, mentions "a mosque founded on righteousness from the first day" and men "who love to purify themselves". Many scholars understand this as the mosque of Quba, and others as the Prophet's Mosque in Madinah. In either case, the verse teaches that a mosque's worth lies in the sincerity of those who use it.
+The Prophet (pbuh) stayed at Quba for several days. Ali (RA) joined him there. He laid the foundation of the **Mosque of Quba**, the first mosque in Islam, and worked on it with his companions. The prescribed passage, Qur'an 9:108, mentions "a mosque founded on righteousness from the first day" and men "who love to purify themselves". Many scholars understand this as the mosque of Quba, and others as the Prophet (pbuh)'s Mosque in Madinah. In either case, the verse teaches that a mosque's worth lies in the sincerity of those who use it.
 
 ## Stage 6: entering Madinah
 
-On a Friday the Prophet (pbuh) entered Yathrib, which came to be called **Madinat an-Nabi**, the City of the Prophet, or Madinah. Families called him to stay with them, but he said his camel, which Allah guided, should choose. It knelt on land that belonged to two orphans. He paid for it and built the **Prophet's Mosque** there. While it was built he stayed with **Hazrat Abu Ayyub al-Ansari (RA)**.
+On a Friday the Prophet (pbuh) entered Yathrib, which came to be called **Madinat an-Nabi**, the City of the Prophet (pbuh), or Madinah. Families called him to stay with them, but he said his camel, which Allah guided, should choose. It knelt on land that belonged to two orphans. He paid for it and built the **Prophet's Mosque** there. While it was built he stayed with **Hazrat Abu Ayyub al-Ansari (RA)**.
 
 The mosque was made of mud brick and palm trunks. It was used for prayer, learning, councils, hearing disputes and welcoming delegations. It also had a shaded area, the suffah, where poor Muslims lived.
 
@@ -130,7 +130,7 @@ The mosque was made of mud brick and palm trunks. It was used for prayer, learni
 
 ## Common mistakes
 
-- **Mixing up the two mosques.** Quba was first; the Prophet's Mosque came later in Madinah.
+- **Mixing up the two mosques.** Quba was first; the Prophet (pbuh)'s Mosque came later in Madinah.
 - **Placing the Hijrah before the second pledge of Aqaba.** The pledge made it possible.
 - **Giving Ali (RA) one role only.** He slept in the bed and returned the trusts.
 - **Saying that the Charter was only for Muslims.** Jewish tribes and others were included.

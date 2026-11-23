@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the events, names and Qur'an references in this account of the Prophet's life."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the events, names and Qur'an references in this account of the Prophet's life. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -58,7 +58,7 @@ matter as examples for Muslim individuals and communities today.
   **Bahira** is reported to have recognised signs of prophethood in him. He worked as a shepherd and
   was present at the **Hilf al-Fudul**, a pact to protect the oppressed, which he later said he
   would join again if invited.
-- **Al-Amin.** His honesty earned him the title al-Amin, "the trustworthy". Khadija employed him to
+- **Al-Amin.** His honesty earned him the title al-Amin, "the trustworthy". Khadija (RA) employed him to
   trade for her, was impressed by his honesty, and proposed marriage; they married when he was
   twenty-five.
 - **The Black Stone.** When the Ka'ba was rebuilt, the clans quarrelled over who would replace the
@@ -74,40 +74,40 @@ matter as examples for Muslim individuals and communities today.
 
 ## Part 2: Makka and the opponents (610–622)
 
-- **First believers.** Khadija, Ali, Abu Bakr and Zayd ibn Haritha were among the first. For about
+- **First believers.** Khadija (RA), Ali (RA), Abu Bakr (RA) and Zayd ibn Haritha (RA) were among the first. For about
   three years the call was private.
 - **Public preaching, 613.** He called the clans from Mount Safa. His uncle **Abu Lahab** cursed him,
   and Sura 111 was revealed about him.
 - **Why the Quraysh opposed him.** The message rejected the idols on which Makka's pilgrimage trade
   depended, declared all people equal before God, and challenged the authority of clan leaders.
-- **Persecution.** Weaker Muslims suffered most: **Bilal** was tortured by his master Umayya ibn
+- **Persecution.** Weaker Muslims suffered most: **Bilal (RA)** was tortured by his master Umayya ibn
   Khalaf and kept repeating "One, One"; **Sumayya**, mother of Ammar, became the first martyr. The
   Prophet himself was insulted, and rubbish was thrown on him.
 - **Offers and refusal.** The Quraysh sent Utba ibn Rabi'a to offer wealth, leadership or kingship if
-  he would stop. When they pressed Abu Talib, the Prophet replied that even if they placed the sun
+  he would stop. When they pressed Abu Talib, the Prophet (pbuh) replied that even if they placed the sun
   in his right hand and the moon in his left he would not give up his mission.
 - **Abyssinia, 615.** He sent a group of Muslims to the Christian king (the Negus). When the Quraysh
   demanded their return, **Ja'far ibn Abi Talib** explained Islam and recited from Sura Maryam; the
   king refused to hand them over.
 - **Boycott.** The Quraysh boycotted the clan of Hashim, who were confined to a valley known as Shi'b
   Abi Talib for about three years.
-- **Year of Sorrow, 619.** Khadija and Abu Talib died, leaving him without his closest support and
+- **Year of Sorrow, 619.** Khadija (RA) and Abu Talib died, leaving him without his closest support and
   his clan's protection.
 - **Ta'if.** He sought support in Ta'if but was mocked and stoned. When offered the destruction of
   the town, he refused and prayed that their descendants would worship God.
 - **Isra and Mi'raj.** He was taken by night from Makka to Jerusalem and raised through the heavens
   (Sura 17.1); the five daily prayers were made obligatory.
 - **The pledges of Aqaba.** Men from Yathrib accepted Islam and pledged first to worship God alone
-  and follow his teaching and then, the following year, to protect him; he sent **Mus'ab ibn Umayr** to teach them.
+  and follow his teaching and then, the following year, to protect him; he sent **Mus'ab ibn Umayr (RA)** to teach them.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-life-prophet--02-opposition-in-makka.webp" width="900" height="755" alt="Three reasons for opposition (threat to the pilgrimage trade, equality before God and the authority of clan leaders) lead to three forms of opposition: persecution of Bilal, Sumayya and the Prophet himself; offers of wealth and kingship, which he refused; and the boycott in Shi'b Abi Talib. Below: the migration to Abyssinia in 615, the Year of Sorrow in 619, Ta'if and the pledges of Aqaba." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-life-prophet--02-opposition-in-makka.webp" width="900" height="755" alt="Three reasons for opposition (threat to the pilgrimage trade, equality before God and the authority of clan leaders) lead to three forms of opposition: persecution of Bilal, Sumayya and the Prophet (pbuh) himself; offers of wealth and kingship, which he refused; and the boycott in Shi'b Abi Talib. Below: the migration to Abyssinia in 615, the Year of Sorrow in 619, Ta'if and the pledges of Aqaba." loading="lazy">
   <figcaption>Economic, social and political threats drove the opposition; the pledges of Aqaba opened the way out.</figcaption>
 </figure>
 
 ## Part 3: Madina (622–632)
 
-- **Hijra, 622.** The Quraysh plotted to kill him; Ali slept in his bed, and he left with Abu Bakr,
+- **Hijra, 622.** The Quraysh plotted to kill him; Ali (RA) slept in his bed, and he left with Abu Bakr (RA),
   hiding in the cave of Thawr for three days (Sura 9.40). He built a mosque at Quba and then the
   Prophet's Mosque in Madina.
 - **Building a community.** He paired the Emigrants with the Helpers in brotherhood and agreed the
@@ -117,8 +117,8 @@ matter as examples for Muslim individuals and communities today.
 - **Badr, 624.** About 313 Muslims defeated a much larger Makkan army; Abu Jahl was killed. Prisoners
   could win freedom by teaching Muslims to read.
 - **Uhud, 625.** Archers placed on a hill left their posts to collect booty; Khalid ibn al-Walid's
-  cavalry attacked from behind; the Prophet was wounded and his uncle **Hamza** was martyred.
-- **The Trench, 627.** On Salman al-Farsi's advice a trench was dug; the besieging allied army
+  cavalry attacked from behind; the Prophet (pbuh) was wounded and his uncle **Hamza (RA)** was martyred.
+- **The Trench, 627.** On Salman al-Farsi's (RA) advice a trench was dug; the besieging allied army
   withdrew. The Banu Qurayza, who had broken their treaty, were then dealt with.
 - **Hudaybiyya, 628.** Prevented from performing umra, he agreed a truce: the Muslims would return
   next year, there would be ten years of peace, and tribes could ally with either side. Though the
@@ -130,15 +130,15 @@ matter as examples for Muslim individuals and communities today.
   (Sura 17.81).
 - **Farewell Pilgrimage and death, 632.** In his sermon at Arafat he stressed equality, the sanctity
   of life and property, the rights of women, and the abolition of usury and blood feuds. He died in
-  Madina later that year, in Aisha's room.
+  Madina later that year, in Aisha's (RA) room.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-life-prophet--03-building-the-community.webp" width="900" height="545" alt="The Hijra of 622 at the centre, linked to four steps in building the community: mosques at Quba and in Madinah, the brotherhood between Emigrants and Helpers, the Constitution of Madinah uniting Muslims, Jews and others with the Prophet as arbiter, and the change of qibla from Jerusalem to the Ka'ba." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-life-prophet--03-building-the-community.webp" width="900" height="545" alt="The Hijra of 622 at the centre, linked to four steps in building the community: mosques at Quba and in Madinah, the brotherhood between Emigrants and Helpers, the Constitution of Madinah uniting Muslims, Jews and others with the Prophet (pbuh) as arbiter, and the change of qibla from Jerusalem to the Ka'ba." loading="lazy">
   <figcaption>Worship, brotherhood and a shared constitution turned migrants and hosts into one community.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-life-prophet--04-badr-uhud-trench.webp" width="900" height="489" alt="Three cards. Badr, 624: about 313 Muslims defeated a much larger army, Abu Jahl was killed and prisoners could earn freedom by teaching reading. Uhud, 625: archers left their posts, Khalid ibn al-Walid's cavalry attacked from behind, the Prophet was wounded and Hamza martyred. The Trench, 627: a trench dug on Salman al-Farsi's advice made the allied army withdraw." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-life-prophet--04-badr-uhud-trench.webp" width="900" height="489" alt="Three cards. Badr, 624: about 313 Muslims defeated a much larger army, Abu Jahl was killed and prisoners could earn freedom by teaching reading. Uhud, 625: archers left their posts, Khalid ibn al-Walid's cavalry attacked from behind, the Prophet (pbuh) was wounded and Hamza martyred. The Trench, 627: a trench dug on Salman al-Farsi's advice made the allied army withdraw." loading="lazy">
   <figcaption>Victory, setback, then a siege that failed: three battles in three years.</figcaption>
 </figure>
 
@@ -153,7 +153,7 @@ matter as examples for Muslim individuals and communities today.
 |---|---|---|
 | Honesty | Known as al-Amin before prophethood | Truthfulness in work and study |
 | Forgiveness | Pardon at the conquest of Makka; prayer for Ta'if | Forgive personal wrongs |
-| Women | Respected Khadija's judgement; helped at home | Treat wives and daughters with respect |
+| Women | Respected Khadija's (RA) judgement; helped at home | Treat wives and daughters with respect |
 | Non-Muslims | Constitution of Madina; protection in Abyssinia | Fair treatment of minorities |
 | Other states | Hudaybiyya; letters to rulers; envoys respected | Keep treaties; diplomacy before conflict |
 | Leadership | Consulted Companions before Uhud and the Trench | Consult before deciding |
@@ -173,11 +173,11 @@ people, not one nation. This makes his Sunna permanently binding as the model fo
 
 **Strong answer plan:** in 628 the Prophet (pbuh) set out with about 1,400 Companions to perform
 umra, unarmed except for travellers' swords → camped at Hudaybiyya when the Quraysh blocked the way →
-sent Uthman to negotiate; rumour of his death led to the Pledge of Ridwan under the tree (Sura 48.18)
+sent Uthman (RA) to negotiate; rumour of his death led to the Pledge of Ridwan under the tree (Sura 48.18)
 → Suhayl ibn Amr negotiated for the Quraysh; he objected to "Messenger of God" in the text, and the
 Prophet had it replaced by his own name → terms: return next year, ten-year truce, Makkans joining the
-Muslims without permission to be returned, tribes free to ally → Companions dismayed; on Umm Salama's
-advice the Prophet sacrificed and shaved first, and they followed → Sura 48 called it a clear victory.
+Muslims without permission to be returned, tribes free to ally → Companions dismayed; on Umm Salama's (RA)
+advice the Prophet (pbuh) sacrificed and shaved first, and they followed → Sura 48 called it a clear victory.
 
 *Why it scores well:* the events are in order, names and the Qur'an are used, and the reaction is
 explained rather than only the terms listed.

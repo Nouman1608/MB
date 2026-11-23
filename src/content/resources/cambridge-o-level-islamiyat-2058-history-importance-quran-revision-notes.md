@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the sequence of events, names and Qur'an references in these condensed notes."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the sequence of events, names and Qur'an references in these condensed notes. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -54,7 +54,7 @@ Importance of the Qur'an.** The question is compulsory and worth 14 marks: part 
 
 ## Revelation: the five things to know
 
-1. **Where and when:** Cave of Hira on Mount Nur, near Makka, in Ramadan 610, when the Prophet was
+1. **Where and when:** Cave of Hira on Mount Nur, near Makka, in Ramadan 610, when the Prophet (pbuh) was
    about forty.
 2. **Who brought it:** the angel Jibril.
 3. **The first words:** "Read! in the name of your Lord, who created" (Sura 96.1).
@@ -72,52 +72,52 @@ introduced step by step (wine forbidden in stages, ending with Sura 5.90).
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-history-importance-quran--03-why-gradual.webp" width="900" height="513" alt="Two Qur'anic reasons, Sura 25.32 (to strengthen the Prophet's heart) and Sura 17.106 (recited at intervals), above three practical reasons: people could memorise and act on each passage, events were answered as they arose, and laws came step by step, as with the prohibition of wine, which came in stages before the final ban in Sura 5.90." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-history-importance-quran--03-why-gradual.webp" width="900" height="513" alt="Two Qur'anic reasons, Sura 25.32 (to strengthen the Prophet's (pbuh) heart) and Sura 17.106 (recited at intervals), above three practical reasons: people could memorise and act on each passage, events were answered as they arose, and laws came step by step, as with the prohibition of wine, which came in stages before the final ban in Sura 5.90." loading="lazy">
   <figcaption>Gradual revelation strengthened the Prophet (pbuh) and let believers learn and apply each step.</figcaption>
 </figure>
 
-## Preservation in the Prophet's lifetime
+## Preservation in the Prophet's (pbuh) lifetime
 
 - **Memory:** Companions learned each passage as it came; huffaz knew the whole Qur'an.
-- **Writing:** scribes such as Zayd ibn Thabit, Ubayy ibn Ka'b and Ali wrote on palm stalks, leather,
+- **Writing:** scribes such as Zayd ibn Thabit (RA), Ubayy ibn Ka'b (RA) and Ali (RA) wrote on palm stalks, leather,
   flat stones and animal shoulder blades.
-- **Arrangement:** the Prophet told the scribes where each passage belonged.
+- **Arrangement:** the Prophet (pbuh) told the scribes where each passage belonged.
 - **Review:** Jibril went over the Qur'an with him each Ramadan, twice in the last year.
 
 **Key point for answers:** the whole Qur'an existed in memory and writing by 632, but scattered,
 not as one volume.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-history-importance-quran--05-preservation-in-his-lifetime.webp" width="900" height="569" alt="Four methods of preservation in the Prophet's lifetime: memorisation by huffaz and recitation in prayer; writing by scribes such as Zayd ibn Thabit on palm-leaf stalks, leather, stones and bones; the order of verses fixed by the Prophet; and an annual review with Jibril each Ramadan. By 632 the Qur'an was complete in memory and writing but not yet in one bound copy." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-history-importance-quran--05-preservation-in-his-lifetime.webp" width="900" height="569" alt="Four methods of preservation in the Prophet's (pbuh) lifetime: memorisation by huffaz and recitation in prayer; writing by scribes such as Zayd ibn Thabit on palm-leaf stalks, leather, stones and bones; the order of verses fixed by the Prophet (pbuh); and an annual review with Jibril each Ramadan. By 632 the Qur'an was complete in memory and writing but not yet in one bound copy." loading="lazy">
   <figcaption>Complete in memory and writing by 632, but not yet in one volume.</figcaption>
 </figure>
 
-## Abu Bakr's compilation: the chain of cause and effect
+## Abu Bakr's (RA) compilation: the chain of cause and effect
 
-**Yamama** (many huffaz killed fighting Musaylima) → **Umar's fear** that the Qur'an could be lost →
-**Abu Bakr's hesitation**, then agreement → **Zayd ibn Thabit appointed** (young, trusted, a hafiz,
+**Yamama** (many huffaz killed fighting Musaylima) → **Umar's (RA) fear** that the Qur'an could be lost →
+**Abu Bakr's (RA) hesitation**, then agreement → **Zayd ibn Thabit (RA) appointed** (young, trusted, a hafiz,
 a scribe of revelation) → **strict checking** of writing against memory, with witnesses → **suhuf**
-kept by Abu Bakr, then Umar, then **Hafsa**.
+kept by Abu Bakr (RA), then Umar (RA), then **Hafsa (RA)**.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-history-importance-quran--06-journey-of-the-suhuf.webp" width="900" height="990" alt="Two linked columns. Under Abu Bakr: the Battle of Yamama kills many huffaz, Umar urges Abu Bakr to collect the Qur'an, and Zayd ibn Thabit collects it with strict checks. The sheets are kept by Abu Bakr, then Umar, then Hafsa. Under Uthman: after Hudhayfa ibn al-Yaman warns of disputes, Hafsa's copy is borrowed, Zayd's committee makes copies, and copies go to the main centres while one stays in Madinah, Hafsa's is returned and other versions are burned." loading="lazy">
-  <figcaption>Abu Bakr's compiled sheets became the basis of Uthman's standard copies.</figcaption>
+  <figcaption>Abu Bakr's (RA) compiled sheets became the basis of Uthman's (RA) standard copies.</figcaption>
 </figure>
 
-## Uthman's standardisation: the chain of cause and effect
+## Uthman's (RA) standardisation: the chain of cause and effect
 
 **Expansion** of the state → **different ways of reciting** among new Muslims → **Hudhayfa ibn
-al-Yaman** alarmed during the Armenia and Azerbaijan campaigns → **Uthman borrows Hafsa's copy** →
+al-Yaman** alarmed during the Armenia and Azerbaijan campaigns → **Uthman (RA) borrows Hafsa's (RA) copy** →
 **committee under Zayd** (with Abdullah ibn al-Zubayr, Sa'id ibn al-As, Abd al-Rahman ibn al-Harith)
 → **Quraysh dialect** used where they differed → **copies sent to the main centres**, one kept in
-Madina → **other versions burned**; Hafsa's copy returned.
+Madina → **other versions burned**; Hafsa's (RA) copy returned.
 
-| | Abu Bakr | Uthman |
+| | Abu Bakr (RA) | Uthman (RA) |
 |---|---|---|
 | Problem | Loss of huffaz at Yamama | Disputes over recitation |
 | Aim | Gather the Qur'an into one copy | Unite all Muslims on one text |
-| Led by | Zayd ibn Thabit | Committee led by Zayd ibn Thabit |
-| Result | Suhuf kept by the caliph, then Hafsa | Standard copies in the main cities |
+| Led by | Zayd ibn Thabit (RA) | Committee led by Zayd ibn Thabit (RA) |
+| Result | Suhuf kept by the caliph, then Hafsa (RA) | Standard copies in the main cities |
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-history-importance-quran--07-compiled-vs-standardised.webp" width="900" height="619" alt="A comparison table. Abu Bakr acted because many huffaz died at Yamama; Zayd ibn Thabit checked written pieces against memory with witnesses, producing one set of sheets. Uthman acted because Muslims disputed over recitation; a committee led by Zayd copied Hafsa's sheets in the dialect of the Quraysh and sent standard copies to the main centres." loading="lazy">
@@ -148,7 +148,7 @@ reasoning, approved by the Prophet (pbuh).
 | God's own word, protected | "We will assuredly guard it" (Sura 15.9) |
 | Guidance for every part of life | "guidance sure, without doubt" (Sura 2.2) |
 | Central to worship | Recited in every prayer; recited in full in Ramadan |
-| Unites the Ummah | One text in one language worldwide since Uthman |
+| Unites the Ummah | One text in one language worldwide since Uthman (RA) |
 
 ## Key terms
 
@@ -158,7 +158,7 @@ reasoning, approved by the Prophet (pbuh).
 | Hira | Cave on Mount Nur where revelation began |
 | Hafiz (pl. huffaz) | Person who has memorised the whole Qur'an |
 | Katib | Scribe who wrote down revelation |
-| Suhuf | The sheets collected under Abu Bakr |
+| Suhuf | The sheets collected under Abu Bakr (RA) |
 | Mushaf | A written copy of the Qur'an |
 | Makki / Madani | Revealed in Makka / in Madina |
 | Ijma' | Consensus of qualified scholars |
@@ -166,9 +166,9 @@ reasoning, approved by the Prophet (pbuh).
 
 ## Exam traps
 
-- **Yamama is a battle under Abu Bakr**, not an event in the Prophet's lifetime.
-- **Hafsa kept the copy**; she did not compile it.
-- **Uthman did not compose or rearrange the Qur'an**; he copied the text already collected.
+- **Yamama is a battle under Abu Bakr (RA)**, not an event in the Prophet's (pbuh) lifetime.
+- **Hafsa (RA) kept the copy**; she did not compile it.
+- **Uthman (RA) did not compose or rearrange the Qur'an**; he copied the text already collected.
 - **Ijma' and qiyas do not stand alone**; both must rest on the Qur'an and Sunna.
 - **Part (b) is not more narrative.** Give reasons: what would have gone wrong without this step?
 
@@ -176,14 +176,14 @@ reasoning, approved by the Prophet (pbuh).
 
 1. In which month and year did revelation begin?
 2. What were the first words revealed, and from which sura?
-3. Who did Khadija take the Prophet to after the first revelation, and what did he say?
+3. Who did Khadija (RA) take the Prophet (pbuh) to after the first revelation, and what did he say?
 4. Give two ways in which revelation came to the Prophet (pbuh).
 5. Quote one reason the Qur'an gives for its gradual revelation.
-6. Name two materials on which the Qur'an was written in the Prophet's lifetime.
+6. Name two materials on which the Qur'an was written in the Prophet's (pbuh) lifetime.
 7. Which battle led to the first compilation, and why?
-8. Why was Zayd ibn Thabit chosen?
-9. Who kept the collected sheets after Umar's death?
-10. Who reported the disputes that led to Uthman's standardisation?
+8. Why was Zayd ibn Thabit (RA) chosen?
+9. Who kept the collected sheets after Umar's (RA) death?
+10. Who reported the disputes that led to Uthman's (RA) standardisation?
 11. Which dialect was used where the committee disagreed?
 12. Explain qiyas with one example.
 
@@ -192,8 +192,8 @@ ibn Nawfal, who said the angel was the same one who had come to Musa. 4. Any two
 a bell; Jibril in human form; true dreams; direct speech during the Mi'raj. 5. "That We may
 strengthen your heart thereby" (Sura 25.32), or so it could be recited "at intervals" (Sura 17.106).
 6. Any two: palm-leaf stalks, leather, flat stones, animal shoulder blades. 7. Yamama, because many
-huffaz were killed and Umar feared parts of the Qur'an would be lost. 8. He was young, trustworthy, a
-hafiz and a scribe of revelation for the Prophet. 9. Hafsa, Umar's daughter and a wife of the Prophet.
+huffaz were killed and Umar (RA) feared parts of the Qur'an would be lost. 8. He was young, trustworthy, a
+hafiz and a scribe of revelation for the Prophet (pbuh). 9. Hafsa (RA), Umar's (RA) daughter and a wife of the Prophet (pbuh).
 10. Hudhayfa ibn al-Yaman. 11. The dialect of the Quraysh. 12. Applying an existing ruling to a new
 case with the same cause, for example forbidding intoxicating drugs because wine is forbidden for
 causing intoxication.

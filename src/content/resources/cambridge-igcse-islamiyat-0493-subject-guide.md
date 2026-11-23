@@ -13,7 +13,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-15
 featured: false
 ---
@@ -33,7 +33,7 @@ The syllabus does not give the papers separate titles; it simply calls them Pape
 
 **Paper 2** focuses on the Hadiths, early leadership and the foundations of belief and practice:
 
-- Major Teachings in the Hadiths of the Prophet
+- Major Teachings in the Hadiths of the Prophet (pbuh)
 - The History and Importance of the Hadiths
 - The Period of Rule of the Rightly Guided Caliphs and Their Importance as Leaders
 - The Articles of Faith and the Pillars of Islam

@@ -15,7 +15,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-09-07
 featured: false
 ---
@@ -23,7 +23,7 @@ featured: false
 Cambridge O Level Islamiyat 2058 is assessed by two compulsory, externally assessed papers of equal
 weight. Each lasts 1 hour 30 minutes, carries 50 marks and contributes 50% of the qualification.
 Crucially, each paper prints **five questions, of which Question 1 and Question 2 are compulsory and
-two further questions are chosen** from the remaining three. Paper 1 covers the Qur'an, the Prophet
+two further questions are chosen** from the remaining three. Paper 1 covers the Qur'an, the Prophet (pbuh)
 Muhammad (pbuh) and the first Islamic community; Paper 2 covers the Hadiths, the Rightly Guided
 Caliphs, and the Articles of Faith and Pillars of Islam. All answers are written in English. These
 notes complement the site's content guides to

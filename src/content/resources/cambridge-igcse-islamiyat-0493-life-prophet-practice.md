@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the events, names, numbers and credit given in the answers."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the events, names, numbers and credit given in the answers. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -40,7 +40,7 @@ details; Section B gives full exam-style questions.
 **1.** Apart from violence, state **three** ways the Quraysh tried to stop the Prophet (pbuh)
 preaching. **[3]**
 
-**2.** Describe what happened while the Prophet (pbuh) and Abu Bakr were in the cave of Thawr. **[3]**
+**2.** Describe what happened while the Prophet (pbuh) and Abu Bakr (RA) were in the cave of Thawr. **[3]**
 
 **3.** Give **three** provisions of the Constitution of Madina. **[3]**
 
@@ -88,8 +88,8 @@ or kingship through Utba ibn Rabi'a; pressing Abu Talib to withdraw protection; 
 Hashim; sending envoys to the Negus to have the emigrants returned. Maximum 3.
 
 **2.** They hid there for three days while the Quraysh searched for them [1]. When pursuers came close,
-Abu Bakr feared they would be seen, and the Prophet (pbuh) told him not to grieve because God was with
-them (Sura 9.40) [1]. Abu Bakr's son Abdullah brought news, Asma brought food and Amir ibn Fuhayra
+Abu Bakr (RA) feared they would be seen, and the Prophet (pbuh) told him not to grieve because God was with
+them (Sura 9.40) [1]. Abu Bakr's (RA) son Abdullah brought news, Asma brought food and Amir ibn Fuhayra
 grazed sheep over their tracks [1].
 
 **3.** Any three, [1] each: Muslims, Jews and others formed one community; the Jewish tribes kept
@@ -103,8 +103,8 @@ them towards Makka, which they would later return to. Maximum 3.
 **5.** Abdullah ibn Jubayr [1]; not to leave the hill whatever happened, whether the Muslims were
 winning or losing [1].
 
-**6.** Any two, [2] each: he trusted and loved Khadija, who was a successful trader, showing respect
-for women's work and advice; he followed Umm Salama's advice at Hudaybiyya, showing that women's
+**6.** Any two, [2] each: he trusted and loved Khadija (RA), who was a successful trader, showing respect
+for women's work and advice; he followed Umm Salama's (RA) advice at Hudaybiyya, showing that women's
 counsel should be heard; he helped with work at home, showing that household tasks are shared; in the
 Farewell Sermon he told men to treat their wives well, showing that wives have rights. Maximum 4.
 
@@ -113,17 +113,17 @@ Abyssinia; the ruler of Egypt. Maximum 2. It shows he invited other states by pe
 diplomacy, not only by force [1].
 
 **8. (a)** Credit the best five, [2] each:
-- At the first pledge of Aqaba (621) twelve men from Yathrib accepted Islam, and Mus'ab ibn Umayr was
+- At the first pledge of Aqaba (621) twelve men from Yathrib accepted Islam, and Mus'ab ibn Umayr (RA) was
   sent to teach them; at the second (622) over seventy promised to protect the Prophet (pbuh) [2].
 - The Muslims of Makka migrated to Yathrib in small groups, leaving homes and property [2].
 - The Quraysh met and agreed that a young man from each clan would strike him together, so that
   blame would be shared [2].
-- Ali slept in the Prophet's bed and stayed to return goods held in trust, while the Prophet (pbuh)
-  left with Abu Bakr [2].
+- Ali (RA) slept in the Prophet's (pbuh) bed and stayed to return goods held in trust, while the Prophet (pbuh)
+  left with Abu Bakr (RA) [2].
 - They hid three days in the cave of Thawr; the Prophet (pbuh) said "God is with us" when pursuers
   came close [2].
 - On the road Suraqa ibn Malik chased them for a reward, but his horse stumbled and he turned back [2].
-- They stopped at Quba, where the first mosque was built, then entered Madina, where the Prophet
+- They stopped at Quba, where the first mosque was built, then entered Madina, where the Prophet (pbuh)
   (pbuh) stayed with Abu Ayyub al-Ansari [2].
 **(b)** Credit the best two, [2] each:
 - The Prophet (pbuh) arranged a guide, camels, a hiding place and someone to cover the tracks, so
@@ -139,7 +139,7 @@ diplomacy, not only by force [1].
 - Fifty archers under Abdullah ibn Jubayr were placed on a hill with orders not to leave [2].
 - The Muslims gained the upper hand and the Makkans began to flee [2].
 - Most archers left to collect spoils; Khalid ibn al-Walid's cavalry attacked from behind [2].
-- Hamza was killed; the Prophet (pbuh) was wounded and a rumour of his death spread [2].
+- Hamza (RA) was killed; the Prophet (pbuh) was wounded and a rumour of his death spread [2].
 - The Muslims regrouped on the mountain; the Quraysh withdrew without taking Madina [2].
 **(b)** Credit the best two, [2] each:
 - Disobeying a clear instruction harmed everyone, so Muslims should follow lawful leadership [2].
@@ -148,7 +148,7 @@ diplomacy, not only by force [1].
 
 **10. (a)** Credit the best five, [2] each:
 - In 5 AH the Quraysh and allied tribes formed a confederate army of about 10,000 to destroy Madina [2].
-- Salman al-Farsi advised digging a trench across the open side of the city, as was done in Persia [2].
+- Salman al-Farsi (RA) advised digging a trench across the open side of the city, as was done in Persia [2].
 - The Prophet (pbuh) dug alongside the Companions in cold weather and hunger [2].
 - The cavalry could not cross; the siege lasted weeks with only small clashes [2].
 - The Banu Qurayza broke their treaty, putting Madina in danger from within [2].
@@ -175,11 +175,11 @@ measure of worth [1], and because Muslims of every race standing together on haj
 lived [1].
 
 **12. (a)** Credit the best five, [2] each:
-- He built the Prophet's mosque, used for prayer, teaching, meeting delegations and decisions [2].
+- He built the Prophet's (pbuh) mosque, used for prayer, teaching, meeting delegations and decisions [2].
 - He paired each Emigrant with a Helper in brotherhood, sharing homes, work and wealth [2].
 - He agreed the Constitution of Madina, making Muslims, Jews and others one community with shared
   defence [2].
-- He set up the call to prayer, with Bilal as the first mu'adhdhin [2].
+- He set up the call to prayer, with Bilal (RA) as the first mu'adhdhin [2].
 - The qibla was changed to the Ka'ba and fasting in Ramadan was made obligatory in 2 AH [2].
 - He settled disputes between the Aws and Khazraj, uniting tribes that had fought each other [2].
 **(b)** Credit the best two, [2] each:

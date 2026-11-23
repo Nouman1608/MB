@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the traditional figures for Sahih al-Bukhari (about 7,000 reports with repeats, about 2,600 without; sixteen years), the dates for Bukhari and Muslim, and the account of the two conditions (met versus contemporaries)."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the traditional figures for Sahih al-Bukhari (about 7,000 reports with repeats, about 2,600 without; sixteen years), the dates for Bukhari and Muslim, and the account of the two conditions (met versus contemporaries). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -85,7 +85,7 @@ Quote: Ibn al-Mubarak is reported to have said that the Isnad is part of the rel
 
 | Part of the Hadith | Point |
 |---|---|
-| "Convey (my teachings) to the people even if it were a single sentence" | Muslims have a duty to pass on the Prophet's teaching |
+| "Convey (my teachings) to the people even if it were a single sentence" | Muslims have a duty to pass on the Prophet's (pbuh) teaching |
 | "tell others the stories of Bani Israel ... it is not sinful" | Accounts of earlier peoples may be told |
 | "whoever tells a lie on me intentionally will surely take his place in the Fire" | A grave warning that explains the testing of Hadith |
 

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New skill-unit page: please ask an Islamiyat teacher to check the questions, the Qur'an and Hadith references and the mark guidance before sign-off."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New skill-unit page: please ask an Islamiyat teacher to check the questions, the Qur'an and Hadith references and the mark guidance before sign-off. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -91,7 +91,7 @@ In your answer you should:
 - provide supporting evidence and reasoning. **[12]**
 
 *The passage is the prescribed Hadith for 3.2.2.9 in Section 6 of the specification; the
-specification prints the Prophet's opening words once, and the triple repetition shown here follows
+specification prints the Prophet's (pbuh) opening words once, and the triple repetition shown here follows
 the narration in Sahih al-Bukhari.*
 
 ---

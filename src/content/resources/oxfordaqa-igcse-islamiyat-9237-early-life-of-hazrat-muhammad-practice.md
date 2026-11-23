@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the historical details and mark guidance before use."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the historical details and mark guidance before use. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -167,7 +167,7 @@ Ways (AO1):
 - **Companionship and support** [1]: Khadija (RA) comforted him and stood by him throughout hardship [1].
 - **Economic security** [1]: her wealth freed him from financial worry and let him spend time in reflection [1].
 - **First believer** [1]: she was the first to accept his message, which gave him confidence [1].
-- **Family** [1]: their children, including Fatimah (RA), became part of the Prophet's household [1].
+- **Family** [1]: their children, including Fatimah (RA), became part of the Prophet's (pbuh) household [1].
 
 Applications (AO2), for example:
 

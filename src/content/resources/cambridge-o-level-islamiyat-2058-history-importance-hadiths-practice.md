@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the compilers, collections and methods named and the credit given in each answer."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the compilers, collections and methods named and the credit given in each answer. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -39,7 +39,7 @@ worth 4. Section A builds recall of terms and names; Section B gives full exam-s
 
 **1.** Define **isnad** and **matn**. **[2]**
 
-**2.** Give **three** ways in which the Companions learned the Sunna during the Prophet's lifetime.
+**2.** Give **three** ways in which the Companions learned the Sunna during the Prophet's (pbuh) lifetime.
 **[3]**
 
 **3.** Name **two** early written collections (sahifas) and the person associated with each. **[4]**
@@ -55,7 +55,7 @@ each. **[4]**
 
 ## Section B — Exam-style questions
 
-**8. (a)** Describe how the Hadiths were preserved and collected from the Prophet's lifetime to the
+**8. (a)** Describe how the Hadiths were preserved and collected from the Prophet's (pbuh) lifetime to the
 time of Umar ibn Abd al-Aziz. **[10]**
 **(b)** Explain why the early written collections were important for later compilers. **[4]**
 
@@ -63,7 +63,7 @@ time of Umar ibn Abd al-Aziz. **[10]**
 **(b)** Why do Sunni Muslims give the two Sahih collections a higher status than the Sunan? **[4]**
 
 **10. (a)** Describe the four Shi'a collections of Hadith and their compilers. **[10]**
-**(b)** Explain why Shi'a scholars give special weight to Hadiths narrated through the Prophet's
+**(b)** Explain why Shi'a scholars give special weight to Hadiths narrated through the Prophet's (pbuh)
 family and the Imams. **[4]**
 
 **11. (a)** Describe the methods scholars used to test the isnad and the matn of a Hadith. **[10]**
@@ -86,7 +86,7 @@ noting what he saw or heard and approved without objection [1].
 
 **3.** Any two, [2] each: al-Sahifa al-Sadiqa, written by Abdullah ibn Amr ibn al-As with the
 Prophet's permission; the sahifa of Hammam ibn Munabbih, from his teacher Abu Hurayra; the sheet kept
-by Ali with rulings such as those on blood money and captives. Maximum 4.
+by Ali (RA) with rulings such as those on blood money and captives. Maximum 4.
 
 **4.** He ordered governors and scholars to write down the Hadiths [1], because many who had learned
 them were dying and he feared the knowledge would be lost [1]; scholars such as Ibn Shihab al-Zuhri
@@ -102,13 +102,13 @@ al-Muwatta of Imam Malik [1].
 Mawdu' means fabricated: falsely attributed to the Prophet (pbuh) and rejected [1].
 
 **8. (a)** Credit the best five, [2] each:
-- In the Prophet's lifetime Companions memorised his words and copied his actions; he said "Pray as
+- In the Prophet's (pbuh) lifetime Companions memorised his words and copied his actions; he said "Pray as
   you have seen me pray" [2].
 - Some wrote with permission, such as Abdullah ibn Amr's al-Sahifa al-Sadiqa; writing was limited at
   first, reportedly so it would not be confused with the Qur'an [2].
-- After 632 Companions taught in new centres such as Kufa, Basra and Damascus; Abu Hurayra, Aisha,
-  Ibn Umar, Anas and Ibn Abbas narrated many Hadiths [2].
-- Abu Bakr and Umar were cautious, and Umar asked for a witness to a Hadith to show reports must be
+- After 632 Companions taught in new centres such as Kufa, Basra and Damascus; Abu Hurayra, Aisha (RA),
+  Ibn Umar (RA), Anas and Ibn Abbas narrated many Hadiths [2].
+- Abu Bakr (RA) and Umar (RA) were cautious, and Umar (RA) asked for a witness to a Hadith to show reports must be
   checked [2].
 - The tabi'un travelled to collect Hadiths, and sahifas such as that of Hammam ibn Munabbih
   circulated [2].
@@ -143,7 +143,7 @@ Mawdu' means fabricated: falsely attributed to the Prophet (pbuh) and rejected [
 **10. (a)** Credit the best five, [2] each:
 - Al-Kafi was compiled by al-Kulayni and is the largest and most important; it is divided into
   sections on belief (usul) and law (furu') [2].
-- Al-Kafi includes reports from the Imams as well as the Prophet, since Shi'a Muslims accept the
+- Al-Kafi includes reports from the Imams as well as the Prophet (pbuh), since Shi'a Muslims accept the
   Imams' words as authoritative [2].
 - Man la yahduruhu al-faqih, "for one who has no jurist present", was compiled by Ibn Babawayh, known
   as al-Shaykh al-Saduq, as a guide to law for ordinary believers [2].
@@ -155,26 +155,26 @@ Mawdu' means fabricated: falsely attributed to the Prophet (pbuh) and rejected [
 **(b)** Credit the best two, [2] each:
 - Shi'a Muslims believe the Imams were divinely guided and protected from error, so their reports
   preserve the Sunna faithfully [2].
-- The Prophet's family lived closest to him and knew his practice in private life best; the Hadith
+- The Prophet's (pbuh) family lived closest to him and knew his practice in private life best; the Hadith
   of the two weighty things links the Qur'an with his family [2].
 
 **11. (a)** Credit the best five, [2] each:
 - Each narrator in the isnad had to be of upright character and practice, known for honesty [2].
 - Each narrator had to have a reliable memory or accurate written record [2].
-- The chain had to be continuous back to the Prophet, each narrator able to have met the one before;
+- The chain had to be continuous back to the Prophet (pbuh), each narrator able to have met the one before;
   al-Bukhari required proof that they had actually met [2].
 - Scholars compiled biographical dictionaries of narrators ('ilm al-rijal) giving teachers, students,
   dates and reputation, to check these conditions [2].
 - The matn had to agree with the Qur'an and established Sunna, and not contradict reason or known
   facts [2].
-- Its language had to fit the Prophet's style; exaggerated promises of huge rewards for small acts
+- Its language had to fit the Prophet's (pbuh) style; exaggerated promises of huge rewards for small acts
   were warning signs [2].
 - Hadiths were then graded sahih, hasan, da'if or mawdu' [2].
 **(b)** Credit the best two, [2] each:
-- After the Prophet's death some people invented Hadiths for political, sectarian or personal reasons,
+- After the Prophet's (pbuh) death some people invented Hadiths for political, sectarian or personal reasons,
   so false reports had to be separated from true ones [2].
 - Hadiths are a source of law, so a false Hadith could lead to wrong rulings on worship or rights [2].
-- Testing protected the Prophet's words from distortion, as he warned against lying about him [2].
+- Testing protected the Prophet's (pbuh) words from distortion, as he warned against lying about him [2].
 
 ---
 

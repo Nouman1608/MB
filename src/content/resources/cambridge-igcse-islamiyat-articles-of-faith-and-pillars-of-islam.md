@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 ---
 
 **The Articles of Faith and the Pillars of Islam is Paper 2 Topic 4 of Cambridge IGCSE Islamiyat
@@ -122,7 +122,7 @@ Jihad means "striving" in the way of Allah. It includes:
 ## How are the Five Pillars practised, and why do they matter?
 
 **1. Shahada.** "There is no god but Allah, and Muhammad is the Messenger of Allah." The first part
-affirms tawhid; the second accepts the Prophet's message and Sunnah. Said sincerely, it makes a
+affirms tawhid; the second accepts the Prophet's (pbuh) message and Sunnah. Said sincerely, it makes a
 person Muslim; it is whispered to newborns and said in every prayer.
 
 **2. Salat.** Five daily prayers: Fajr, Zuhr, Asr, Maghrib and Isha. *Preparation:* intention

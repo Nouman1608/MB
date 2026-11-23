@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the events, names, verse references and legal examples."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the events, names, verse references and legal examples. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -52,7 +52,7 @@ In 610, during Ramadan, the Prophet (pbuh), then about forty, was spending time 
 of Hira on Jabal al-Nur outside Makka. The angel Jibril came to him and commanded "Read!" (*Iqra'*).
 He replied that he could not read; Jibril pressed him tightly three times and then recited the first
 five verses of Sura 96. The night is remembered as Laylat al-Qadr, the Night of Power (Sura 97.1).
-The Prophet (pbuh) returned home trembling and asked Khadija to cover him. She reassured him that God
+The Prophet (pbuh) returned home trembling and asked Khadija (RA) to cover him. She reassured him that God
 would never disgrace him, because he was kind to relatives, helped the weak and was hospitable, and
 she took him to her cousin Waraqa ibn Nawfal, a Christian scholar, who recognised the angel as the
 one who had come to Musa.
@@ -76,7 +76,7 @@ The Prophet (pbuh) described several modes, and a full answer names more than on
   this).
 - **True dreams**, which came before and alongside the spoken revelation.
 
-All of these are forms of *wahy*, revelation from God, which Muslims distinguish from the Prophet's
+All of these are forms of *wahy*, revelation from God, which Muslims distinguish from the Prophet's (pbuh)
 own words; his own sayings are recorded separately as Hadiths.
 
 <figure class="topic-figure">
@@ -99,18 +99,18 @@ the prohibition of intoxicants, which ended with the complete ban in Sura 5.90.
   <figcaption>Belief first in Makkah, law in Madinah, and rulings introduced step by step.</figcaption>
 </figure>
 
-## How was the Qur'an preserved in the Prophet's lifetime?
+## How was the Qur'an preserved in the Prophet's (pbuh) lifetime?
 
 - **Memorisation.** The Prophet (pbuh) recited each revelation to the Companions, who learned it and
   recited it in prayer; many became *huffaz*, people who knew the whole text by heart.
-- **Writing.** Scribes, the best known being **Zayd ibn Thabit**, wrote verses down on what was
+- **Writing.** Scribes, the best known being **Zayd ibn Thabit (RA)**, wrote verses down on what was
   available: parchment, palm stalks, flat stones and the shoulder blades of animals.
 - **Order.** The Prophet (pbuh) told the scribes where each new passage belonged.
 - **Review.** Jibril went through the revelation with the Prophet (pbuh) every Ramadan, and twice in
   his final year.
 
 Sura 5.3, "This day I have perfected your religion for you", was revealed during the Farewell
-Pilgrimage in 632. At the Prophet's death the whole Qur'an existed in memory and in writing, but not
+Pilgrimage in 632. At the Prophet's (pbuh) death the whole Qur'an existed in memory and in writing, but not
 as one bound volume.
 
 <figure class="topic-figure">
@@ -118,41 +118,41 @@ as one bound volume.
   <figcaption>Complete in memory and writing by 632, but not in a single volume.</figcaption>
 </figure>
 
-## How was the Qur'an compiled under Abu Bakr?
+## How was the Qur'an compiled under Abu Bakr (RA)?
 
-During the Ridda wars, many huffaz were killed at the **Battle of Yamama** (632–633). **Umar** feared
-that parts of the Qur'an could be lost if more memorisers died and urged **Abu Bakr** to collect it.
-Abu Bakr at first hesitated to do something the Prophet (pbuh) had not done, but became convinced it
-was right. He gave the task to **Zayd ibn Thabit**, because he was young, trustworthy, a scribe of
+During the Ridda wars, many huffaz were killed at the **Battle of Yamama** (632–633). **Umar (RA)** feared
+that parts of the Qur'an could be lost if more memorisers died and urged **Abu Bakr (RA)** to collect it.
+Abu Bakr (RA) at first hesitated to do something the Prophet (pbuh) had not done, but became convinced it
+was right. He gave the task to **Zayd ibn Thabit (RA)**, because he was young, trustworthy, a scribe of
 revelation and had been present at the final review. Zayd said that moving a mountain would have
 been easier.
 
 Zayd gathered the written pieces and checked them against the memories of the Companions, accepting
 written material only when it was confirmed. The last verses of Sura 9 were found written with only
 one Companion, Abu Khuzayma al-Ansari, though they were well known from memory. The completed sheets
-(*suhuf*) stayed with Abu Bakr, then with Umar, and on Umar's death with his daughter **Hafsa**, a wife
+(*suhuf*) stayed with Abu Bakr (RA), then with Umar (RA), and on Umar's (RA) death with his daughter **Hafsa (RA)**, a wife
 of the Prophet (pbuh).
 
-## How was it standardised under Uthman?
+## How was it standardised under Uthman (RA)?
 
-By Uthman's caliphate, Islam had spread to people who recited the Qur'an in differing ways. During
+By Uthman's (RA) caliphate, Islam had spread to people who recited the Qur'an in differing ways. During
 campaigns in Armenia and Azerbaijan, the Companion **Hudhayfa ibn al-Yaman** heard Muslims from
-different regions disputing over recitation, and warned Uthman to act before the community divided
+different regions disputing over recitation, and warned Uthman (RA) to act before the community divided
 as earlier peoples had over their scriptures.
 
-Uthman borrowed Hafsa's sheets and appointed **Zayd ibn Thabit, Abdullah ibn al-Zubayr, Sa'id ibn
+Uthman (RA) borrowed Hafsa's (RA) sheets and appointed **Zayd ibn Thabit (RA), Abdullah ibn al-Zubayr, Sa'id ibn
 al-As and Abd al-Rahman ibn al-Harith** to make copies. Where they differed, they were to write in the
 dialect of the Quraysh, in which the Qur'an had been revealed. Copies were sent to major centres such
-as Kufa, Basra and Damascus, one was kept in Madina, the original sheets were returned to Hafsa, and
-other written copies were burned so that only the agreed text remained. For this Uthman is known as
+as Kufa, Basra and Damascus, one was kept in Madina, the original sheets were returned to Hafsa (RA), and
+other written copies were burned so that only the agreed text remained. For this Uthman (RA) is known as
 *Jami' al-Qur'an*, the gatherer of the Qur'an.
 
-**Key distinction:** Abu Bakr compiled the Qur'an into one written collection; Uthman made standard
+**Key distinction:** Abu Bakr (RA) compiled the Qur'an into one written collection; Uthman (RA) made standard
 copies and sent them out so that all Muslims used the same text.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-history-importance-quran--06-compilation-journey.webp" width="900" height="754" alt="Two flows. Under Abu Bakr: huffaz die at Yamama, Umar urges Abu Bakr, Zayd ibn Thabit collects the written pieces confirmed by memory, and the sheets pass to Umar and then Hafsa. Under Uthman: Hudhayfa warns of disputes, Uthman borrows Hafsa's sheets, a committee of four copies them in the Quraysh dialect, and copies are sent out while other copies are burned." loading="lazy">
-  <figcaption>Hafsa's sheets link Abu Bakr's compilation to Uthman's standard copies.</figcaption>
+  <figcaption>Hafsa's (RA) sheets link Abu Bakr's (RA) compilation to Uthman's (RA) standard copies.</figcaption>
 </figure>
 
 <figure class="topic-figure">
@@ -194,7 +194,7 @@ ijma' or qiyas can never contradict the Qur'an.
 **Question:** Why was the compilation of the Qur'an important for later Muslims? **[4]**
 
 **Model answer:** The compilation meant the Qur'an no longer depended only on the memories of people
-who might die in battle, as at Yamama, so later generations received it complete. Because Uthman's
+who might die in battle, as at Yamama, so later generations received it complete. Because Uthman's (RA)
 copies were sent to every major city, Muslims everywhere recite exactly the same words, which keeps
 the community united in worship and law, and gives Muslims confidence that the text they follow today
 is the one revealed to the Prophet (pbuh).
@@ -204,9 +204,9 @@ rewards.
 
 ## Common mistakes
 
-- Confusing **revelation** (610–632, in the Prophet's lifetime) with **compilation** (after his death).
-- Saying Uthman "wrote" the Qur'an; his committee copied the sheets compiled under Abu Bakr.
-- Forgetting **Hafsa**, who links the two compilations.
+- Confusing **revelation** (610–632, in the Prophet's (pbuh) lifetime) with **compilation** (after his death).
+- Saying Uthman (RA) "wrote" the Qur'an; his committee copied the sheets compiled under Abu Bakr (RA).
+- Forgetting **Hafsa (RA)**, who links the two compilations.
 - Listing ijma' and qiyas without explaining their relationship to the Qur'an.
 - Writing 10-mark answers as short lists: develop each point with names, places and reasons.
 
@@ -218,12 +218,12 @@ explained. Spend more of your time on (a), but never skip (b).
 
 ## Frequently asked questions
 
-**Who was Zayd ibn Thabit?**
-A young Companion from Madina who was a scribe of revelation; he led the compilation under Abu Bakr and
-the copying under Uthman.
+**Who was Zayd ibn Thabit (RA)?**
+A young Companion from Madina who was a scribe of revelation; he led the compilation under Abu Bakr (RA) and
+the copying under Uthman (RA).
 
-**Why did Abu Bakr hesitate?**
-He was reluctant to do something the Prophet (pbuh) had not done, until Umar persuaded him that it was
+**Why did Abu Bakr (RA) hesitate?**
+He was reluctant to do something the Prophet (pbuh) had not done, until Umar (RA) persuaded him that it was
 necessary to protect the Qur'an.
 
 ## Related pages

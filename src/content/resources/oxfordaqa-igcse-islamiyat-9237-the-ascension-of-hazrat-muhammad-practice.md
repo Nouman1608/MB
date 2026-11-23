@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the historical details and mark guidance before use."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the historical details and mark guidance before use. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -166,7 +166,7 @@ Applications (AO2), for example:
 
 Lessons (AO1):
 
-- **Trust in the Prophet (pbuh)** [1]: Abu Bakr (RA) believed because he knew the Prophet's honesty [1].
+- **Trust in the Prophet (pbuh)** [1]: Abu Bakr (RA) believed because he knew the Prophet's (pbuh) honesty [1].
 - **Faith in Allah's power** [1]: he accepted that Allah can do what is beyond normal experience [1].
 - **Courage to believe when others doubt** [1]: he affirmed the truth when many mocked [1].
 - **Loyalty** [1]: his firm support for the Prophet (pbuh) earned him the title as-Siddiq [1].

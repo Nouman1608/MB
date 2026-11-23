@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-23: figure caption no longer cites Cambridge 0455 (audit C28)."
 ---
 
 This guide covers section 3.1.6, **Market failure**, of the AQA GCSE Economics (8136) specification for first teaching from September 2017. It teaches 3.1.6.1 (misallocation of resources) and 3.1.6.2 (externalities). The specification states no tiers, so all of it is common content, and it sits in Paper 1, How markets work. Every figure below is invented for illustration: the places and firms are made up and none of the numbers are real statistics.
@@ -106,7 +106,7 @@ A good conclusion picks a method and says why it suits the case: a tax where the
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-causes-of-market-failure.webp" width="900" height="1060" alt="Five small pictures show the causes of market failure: public goods, merit and demerit goods, external costs and benefits, abuse of monopoly power and factor immobility. The result is the wrong amount produced or used." loading="lazy">
-  <figcaption>Market failure has five causes limited to those in the 0455 syllabus.</figcaption>
+  <figcaption>Market failure has five main causes.</figcaption>
 </figure>
 
 

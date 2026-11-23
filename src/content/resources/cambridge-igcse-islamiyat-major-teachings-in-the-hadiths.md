@@ -21,10 +21,10 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 ---
 
-**Major Teachings in the Hadiths of the Prophet is Paper 2 Question 1 of Cambridge IGCSE Islamiyat
+**Major Teachings in the Hadiths of the Prophet (pbuh) is Paper 2 Question 1 of Cambridge IGCSE Islamiyat
 0493.** The syllabus sets twenty Hadiths, all recorded by al-Bukhari or Muslim, about individual
 conduct and life in the community. Four are printed in the exam in Arabic and English and you write
 about two, explaining what each teaches Muslims to believe and how to act, and how Muslims can put
@@ -32,7 +32,7 @@ that teaching into practice today.
 
 ## Syllabus coverage
 
-**0493 Paper 2, Topic 1: Major teachings in the Hadiths of the Prophet (2026–2027 syllabus)**
+**0493 Paper 2, Topic 1: Major teachings in the Hadiths of the Prophet (pbuh) (2026–2027 syllabus)**
 - Two groups of passages for close study: individual conduct and life in the community
 - The teachings each passage contains about what Muslims should believe and how they should act
 - Study with reference to the original Arabic as well as the English translation
@@ -140,7 +140,7 @@ Allah."** Caring for vulnerable people is as valuable as worship such as night p
 fasting.
 
 **"I and the one who brings up an orphan will be in paradise like this."** Caring for orphans earns
-closeness to the Prophet (pbuh) in paradise; the Prophet was himself an orphan.
+closeness to the Prophet (pbuh) in paradise; the Prophet (pbuh) was himself an orphan.
 
 **"Be gentle and do not be hard; cause rejoicing and do not alienate."** Said when sending Abu Musa
 and Mu'adh ibn Jabal to govern parts of Yemen: leaders and teachers should make religion easy and

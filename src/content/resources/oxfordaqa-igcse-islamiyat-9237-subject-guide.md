@@ -13,7 +13,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-15
 featured: false
 ---
@@ -38,7 +38,7 @@ how those beliefs are expressed in worship and daily life.
 
 **The life of Hazrat Muhammad (pbuh) and sources of authority in
 Islam.** This theme also has two parts. Life and Teachings of Hazrat
-Muhammad (pbuh) studies the Prophet's life and what it teaches.
+Muhammad (pbuh) studies the Prophet's (pbuh) life and what it teaches.
 Sources of Authority in Islam looks at where Muslim teaching and
 guidance come from and how they are used.
 
@@ -51,7 +51,7 @@ rather than belonging to a single topic.
 | Paper | Title | Time | Marks | Weighting |
 |---|---|---|---|---|
 | Paper 1 | Islam: Beliefs and Teachings; Islam: Practices | 90 minutes | 50 | 50% |
-| Paper 2 | Life and Teachings of Hazrat Muhammad; Sources of Authority in Islam | 90 minutes | 50 | 50% |
+| Paper 2 | Life and Teachings of Hazrat Muhammad (pbuh); Sources of Authority in Islam | 90 minutes | 50 | 50% |
 
 Both papers are externally assessed written exams, sat together at the
 end of the course. There is a single, untiered entry. Because the two
@@ -64,7 +64,7 @@ Although the papers are separate, the two themes are closely connected.
 Beliefs and practices in the first theme are grounded in the sources of
 authority studied in the second: when you explain why Muslims believe or
 act in a certain way, you will often refer to the Qur'an, the Hadith or
-the example of the Prophet (pbuh). Equally, the life of Hazrat Muhammad
+the example of the Prophet (pbuh). Equally, the life of Hazrat Muhammad (pbuh)
 (pbuh) gives concrete context for many of the beliefs and practices in
 the first theme.
 

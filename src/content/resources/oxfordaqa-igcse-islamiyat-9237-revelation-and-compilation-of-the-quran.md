@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -65,7 +65,7 @@ By his death, then, the Qur'an existed in two forms, memory and writing, held by
 
 **Cause.** In the first caliphate, many huffaz were martyred in the Battle of Yamama against false claimants to prophethood. Hazrat Umar (RA) feared that parts of the Qur'an might be lost if more huffaz died, and urged Abu Bakr (RA) to have it collected in one place.
 
-**Process.** Abu Bakr (RA) hesitated because the Prophet (pbuh) had not done this, but became convinced that it was a good work. He asked Zayd ibn Thabit (RA), who had written for the Prophet (pbuh) and had a very good memory, to do it. Zayd (RA) was careful: he accepted a verse only when it was both written down in the Prophet's (pbuh) presence and confirmed by witnesses who had heard it. The sheets (*suhuf*) were kept by Abu Bakr (RA), then by Umar (RA), and then by Umar's daughter Hafsa (RA), a wife of the Prophet (pbuh).
+**Process.** Abu Bakr (RA) hesitated because the Prophet (pbuh) had not done this, but became convinced that it was a good work. He asked Zayd ibn Thabit (RA), who had written for the Prophet (pbuh) and had a very good memory, to do it. Zayd (RA) was careful: he accepted a verse only when it was both written down in the Prophet's (pbuh) presence and confirmed by witnesses who had heard it. The sheets (*suhuf*) were kept by Abu Bakr (RA), then by Umar (RA), and then by Umar's (RA) daughter Hafsa (RA), a wife of the Prophet (pbuh).
 
 **Importance.** This produced a single, checked, written reference copy.
 

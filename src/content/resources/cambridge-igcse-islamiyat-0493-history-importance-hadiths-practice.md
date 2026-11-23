@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the compilers, collection features, methods and dates given in the answers."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the compilers, collection features, methods and dates given in the answers. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -148,8 +148,8 @@ commanded, and the Hadiths give the rates and the nisab.)
 - Together the four books are the main Shi'a sources for law after the Qur'an [2].
 **(b)** Credit the best two, [2] each:
 - Shi'a Muslims believe the Imams were appointed by God and protected from error, so their
-  transmission of the Prophet's teaching is the most secure [2].
-- The Imams were members of the Prophet's family, who lived closest to his practice, so they knew his
+  transmission of the Prophet's (pbuh) teaching is the most secure [2].
+- The Imams were members of the Prophet's (pbuh) family, who lived closest to his practice, so they knew his
   Sunnah best [2].
 
 **11. (a)** Credit the best five, [2] each:

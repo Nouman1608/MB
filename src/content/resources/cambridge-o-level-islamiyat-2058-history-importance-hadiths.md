@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the stages of compilation, the compilers and collections named, and the examples of Hadith criticism."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the stages of compilation, the compilers and collections named, and the examples of Hadith criticism. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -45,36 +45,36 @@ Hadiths matter in Islamic law and life.
 
 A **Hadith** is a report of what the Prophet (pbuh) said, did, or silently approved. The **Sunna** is
 his practice as a whole, which the Hadiths record. Every Hadith has two parts: the **isnad**, the
-chain of people who passed it on ("A told me that B told him that he heard the Prophet say…"), and
+chain of people who passed it on ("A told me that B told him that he heard the Prophet (pbuh) say…"), and
 the **matn**, the text itself.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-history-and-importance-of-the-hadiths--01-isnad-and-matn.webp" width="900" height="634" alt="The isnad is drawn as a chain: A told me that B said that C heard the Prophet (pbuh) say. Below it the matn, the text itself, reports what the Prophet said, did or approved. A note defines the Sunnah as his way of life, known mainly through Hadiths." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-history-and-importance-of-the-hadiths--01-isnad-and-matn.webp" width="900" height="634" alt="The isnad is drawn as a chain: A told me that B said that C heard the Prophet (pbuh) say. Below it the matn, the text itself, reports what the Prophet (pbuh) said, did or approved. A note defines the Sunnah as his way of life, known mainly through Hadiths." loading="lazy">
   <figcaption>Isnad is the chain of narrators; matn is the text they passed on.</figcaption>
 </figure>
 
-## Stage 1: the Prophet's lifetime
+## Stage 1: the Prophet's (pbuh) lifetime
 
 Companions learned Hadiths in three ways: by **hearing** his words, by **watching** his actions (he
 told them, "Pray as you have seen me pray"), and by noting what he **approved** without objection.
 Memory was the main method in a society used to memorising poetry and genealogy. Some wrote: Abdullah
 ibn Amr ibn al-As kept a written collection he called al-Sahifa al-Sadiqa, "the truthful sheet". At
 first writing was limited, reportedly so that Hadith would not be mixed with the Qur'an while it was
-still being revealed. Ali kept a sheet with rulings on matters such as blood money and the release of
+still being revealed. Ali (RA) kept a sheet with rulings on matters such as blood money and the release of
 captives.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-history-importance-hadiths--01-six-stages-of-compilation.webp" width="900" height="664" alt="Six stages: Companions learning in the Prophet's lifetime, mainly by memory; Companions teaching across new cities after 632; Successors travelling and keeping notebooks; the first official collection ordered by Umar ibn Abd al-Aziz (717–720); musannaf and musnad collections; and the sahih and sunan collections of the third Islamic century." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-history-importance-hadiths--01-six-stages-of-compilation.webp" width="900" height="664" alt="Six stages: Companions learning in the Prophet's (pbuh) lifetime, mainly by memory; Companions teaching across new cities after 632; Successors travelling and keeping notebooks; the first official collection ordered by Umar ibn Abd al-Aziz (717–720); musannaf and musnad collections; and the sahih and sunan collections of the third Islamic century." loading="lazy">
   <figcaption>Six stages, from memory to strictly selected collections; the official order of 717–720 is the turning point.</figcaption>
 </figure>
 
 ## Stage 2: the Companions
 
-After 632 the Companions became teachers. Abu Bakr and Umar were careful: Umar asked Abu Musa
+After 632 the Companions became teachers. Abu Bakr (RA) and Umar (RA) were careful: Umar (RA) asked Abu Musa
 al-Ash'ari to bring a witness for a Hadith on seeking permission to enter, to show that reports about
-the Prophet must be handled with care. Companions spread to Kufa, Basra, Damascus, Egypt and beyond,
-taking their knowledge with them. Among those who narrated most were **Abu Hurayra**, **Aisha**,
-**Abdullah ibn Umar**, **Anas ibn Malik** and **Abdullah ibn Abbas**.
+the Prophet (pbuh) must be handled with care. Companions spread to Kufa, Basra, Damascus, Egypt and beyond,
+taking their knowledge with them. Among those who narrated most were **Abu Hurayra**, **Aisha (RA)**,
+**Abdullah ibn Umar (RA)**, **Anas ibn Malik** and **Abdullah ibn Abbas**.
 
 ## Stage 3: the Successors and the first official collection
 
@@ -88,14 +88,14 @@ would be lost as the scholars died, and ordered governors and scholars to write 
 
 A **musannaf** collection arranges Hadiths **by subject**, such as purification, prayer, zakat and
 trade, so that a judge or student can find the rulings on one topic. The best-known early example is
-**al-Muwatta** of **Imam Malik ibn Anas** of Madina. It includes Hadiths of the Prophet together with
+**al-Muwatta** of **Imam Malik ibn Anas** of Madina. It includes Hadiths of the Prophet (pbuh) together with
 reports of the Companions and the practice of the people of Madina, reflecting Malik's view that
 Madina preserved the Sunna in living practice.
 
 ## Stage 5: musnad collections
 
-A **musnad** collection arranges Hadiths **by the Companion who narrated them**: all of Abu Bakr's
-narrations together, then Umar's, and so on. It made it easier to study each Companion's reports and
+A **musnad** collection arranges Hadiths **by the Companion who narrated them**: all of Abu Bakr's (RA)
+narrations together, then Umar's (RA), and so on. It made it easier to study each Companion's reports and
 check chains, but harder to find rulings on a subject. The most famous is the **Musnad** of **Ahmad
 ibn Hanbal**, a very large collection.
 
@@ -150,14 +150,14 @@ check this, scholars compiled biographical dictionaries of narrators (*'ilm al-r
 their teachers, students, dates and reliability.
 
 **Matn tests.** The text must not contradict the Qur'an or well-established Sunna, must not be
-contrary to reason or known history, and must sound like the Prophet's way of speaking rather than
+contrary to reason or known history, and must sound like the Prophet's (pbuh) way of speaking rather than
 exaggerated promises of huge rewards for small acts.
 
 **Result:** Hadiths were graded **sahih** (sound), **hasan** (good), **da'if** (weak) or **mawdu'**
 (fabricated). Only sahih and hasan Hadiths are used to establish rulings.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-history-importance-hadiths--04-testing-reliability.webp" width="900" height="588" alt="Two checklists. Isnad tests: good character ('adala), accurate memory (dabt) and an unbroken chain, checked in biographical dictionaries. Matn tests: no contradiction of the Qur'an or established Sunna, nothing against reason or known history, and the Prophet's way of speaking. Hadiths are graded sahih, hasan, da'if or mawdu'; only sahih and hasan establish rulings." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-history-importance-hadiths--04-testing-reliability.webp" width="900" height="588" alt="Two checklists. Isnad tests: good character ('adala), accurate memory (dabt) and an unbroken chain, checked in biographical dictionaries. Matn tests: no contradiction of the Qur'an or established Sunna, nothing against reason or known history, and the Prophet's (pbuh) way of speaking. Hadiths are graded sahih, hasan, da'if or mawdu'; only sahih and hasan establish rulings." loading="lazy">
   <figcaption>Chain and text are both tested; only sahih and hasan Hadiths are used for rulings.</figcaption>
 </figure>
 
@@ -178,7 +178,7 @@ basis for treating the Sunna as binding.
 ## Significance in thought and action
 
 - **Practice:** without the Hadiths Muslims could not perform prayer, hajj or zakat as commanded.
-- **Character:** they show the Prophet's manners, family life and dealings with others, the "beautiful
+- **Character:** they show the Prophet's (pbuh) manners, family life and dealings with others, the "beautiful
   pattern" of Sura 33.21.
 - **Explanation:** they explain the meaning of Qur'an verses, often with the reason for revelation.
 - **New questions:** scholars apply Hadith principles to issues such as business, medicine and
@@ -193,7 +193,7 @@ basis for treating the Sunna as binding.
 needed (fabrication after political disputes) → isnad: character, memory, continuity, meeting; give
 al-Bukhari's requirement that narrators had actually met, and Muslim's acceptance of narrators who
 lived at the same time and could have met → biographical dictionaries → matn: agreement with the
-Qur'an and Sunna, reason, the Prophet's style → grades from sahih to mawdu'.
+Qur'an and Sunna, reason, the Prophet's (pbuh) style → grades from sahih to mawdu'.
 
 *Why it reaches Level 4:* technical terms explained, examples given, and the reason for the tests
 included.

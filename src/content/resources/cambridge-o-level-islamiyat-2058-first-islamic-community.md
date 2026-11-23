@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the names, relationships and life details of the people covered, including the Shi'a Imams list."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the names, relationships and life details of the people covered, including the Shi'a Imams list. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -31,7 +31,7 @@ actions matter in the history and beliefs of Islam.
 
 ## What the syllabus lists
 
-1. The Prophet's **wives**.
+1. The Prophet's (pbuh) **wives**.
 2. His **descendants**: his children, his grandchildren and the direct line recognised among Shi'a
    Muslims as Imams.
 3. His **leading Companions**: the Ten Blessed Companions, his Scribes, the major characters around
@@ -49,21 +49,21 @@ The Qur'an calls them the **Mothers of the Believers** (Sura 33.6).
 
 | Wife | Key facts |
 |---|---|
-| Khadija | First wife and first believer; a widow and successful trader; mother of all his children except Ibrahim; supported him for twenty-five years; died in 619 |
-| Sawda | A widow who had migrated to Abyssinia; married after Khadija's death; cared for his household and daughters |
-| Aisha | Daughter of Abu Bakr; one of the most important narrators of Hadith and a teacher of law; the Prophet died in her room |
-| Hafsa | Daughter of Umar and a widow when she married the Prophet; later kept the collected copy of the Qur'an |
-| Zaynab bint Khuzayma | A widow known as "mother of the poor" for her generosity; died soon after the marriage |
-| Umm Salama | Widow of Abu Salama after Uhud; her advice at Hudaybiyya led the Companions to follow the Prophet's example |
-| Zaynab bint Jahsh | His cousin; the marriage showed that an adopted son's former wife could be married (Sura 33.37) |
-| Juwayriyya | Daughter of the chief of Banu Mustaliq; after the marriage the Companions freed many captives of her tribe |
-| Umm Habiba | Daughter of Abu Sufyan; stayed Muslim in Abyssinia when her husband left Islam |
-| Safiyya | From a Jewish family of Khaybar; he defended her when others mocked her background |
-| Maymuna | His last marriage, after the umra of the year following Hudaybiyya |
+| Khadija (RA) | First wife and first believer; a widow and successful trader; mother of all his children except Ibrahim; supported him for twenty-five years; died in 619 |
+| Sawda (RA) | A widow who had migrated to Abyssinia; married after Khadija's (RA) death; cared for his household and daughters |
+| Aisha (RA) | Daughter of Abu Bakr (RA); one of the most important narrators of Hadith and a teacher of law; the Prophet (pbuh) died in her room |
+| Hafsa (RA) | Daughter of Umar (RA) and a widow when she married the Prophet (pbuh); later kept the collected copy of the Qur'an |
+| Zaynab bint Khuzayma (RA) | A widow known as "mother of the poor" for her generosity; died soon after the marriage |
+| Umm Salama (RA) | Widow of Abu Salama after Uhud; her advice at Hudaybiyya led the Companions to follow the Prophet's (pbuh) example |
+| Zaynab bint Jahsh (RA) | His cousin; the marriage showed that an adopted son's former wife could be married (Sura 33.37) |
+| Juwayriyya (RA) | Daughter of the chief of Banu Mustaliq; after the marriage the Companions freed many captives of her tribe |
+| Umm Habiba (RA) | Daughter of Abu Sufyan; stayed Muslim in Abyssinia when her husband left Islam |
+| Safiyya (RA) | From a Jewish family of Khaybar; he defended her when others mocked her background |
+| Maymuna (RA) | His last marriage, after the umra of the year following Hudaybiyya |
 
 **Why so many marriages?** Examiners reward explanation, not just names: most of the wives after
-Khadija were widows who needed support; some marriages strengthened bonds with close Companions
-(Aisha, Hafsa) or with tribes (Juwayriyya, Umm Habiba); one changed a social custom (Zaynab bint
+Khadija (RA) were widows who needed support; some marriages strengthened bonds with close Companions
+(Aisha (RA), Hafsa (RA)) or with tribes (Juwayriyya (RA), Umm Habiba (RA)); one changed a social custom (Zaynab bint
 Jahsh); and his wives taught Muslim women and men about his private life and practice.
 
 <figure class="topic-figure">
@@ -73,50 +73,50 @@ Jahsh); and his wives taught Muslim women and men about his private life and pra
 
 ## 2. His descendants
 
-**Children.** With Khadija: **Qasim**, **Abdullah**, **Zaynab**, **Ruqayya**, **Umm Kulthum** and
-**Fatima**. With Maria: **Ibrahim**. All his sons died in childhood. Zaynab married Abu al-As;
-Ruqayya and later Umm Kulthum married Uthman, who was therefore called Dhu al-Nurayn, "possessor of
-two lights". Fatima married Ali. When Ibrahim died, an eclipse occurred; the Prophet taught that
+**Children.** With Khadija (RA): **Qasim**, **Abdullah**, **Zaynab**, **Ruqayya**, **Umm Kulthum** and
+**Fatima (RA)**. With Maria: **Ibrahim**. All his sons died in childhood. Zaynab married Abu al-As;
+Ruqayya and later Umm Kulthum married Uthman (RA), who was therefore called Dhu al-Nurayn, "possessor of
+two lights". Fatima (RA) married Ali (RA). When Ibrahim died, an eclipse occurred; the Prophet (pbuh) taught that
 eclipses are signs of God and do not happen for anyone's death.
 
-**Fatima.** Called al-Zahra; closest to her father; lived simply; outlived him by only a few months.
-Her children were **Hasan** and **Husayn**, and daughters including Zaynab bint Ali.
+**Fatima (RA).** Called al-Zahra; closest to her father; lived simply; outlived him by only a few months.
+Her children were **Hasan** and **Husayn**, and daughters including Zaynab bint Ali (RA).
 
-**Hasan and Husayn.** The Prophet loved them dearly, carrying them and letting them climb on him as
+**Hasan and Husayn.** The Prophet (pbuh) loved them dearly, carrying them and letting them climb on him as
 he prayed, and called them leaders of the youth of Paradise. At the Mubahala with the Christians of
-Najran (Sura 3.61) he came out with Ali, Fatima, Hasan and Husayn, the family Shi'a Muslims call the
+Najran (Sura 3.61) he came out with Ali (RA), Fatima (RA), Hasan and Husayn, the family Shi'a Muslims call the
 Ahl al-Bayt.
 
-**The Imams.** Twelver Shi'a Muslims recognise twelve Imams in a direct line from the Prophet's
-family as the rightful, divinely guided leaders after him: Ali, Hasan, Husayn, Ali Zayn al-Abidin,
+**The Imams.** Twelver Shi'a Muslims recognise twelve Imams in a direct line from the Prophet's (pbuh)
+family as the rightful, divinely guided leaders after him: Ali (RA), Hasan, Husayn, Ali Zayn al-Abidin,
 Muhammad al-Baqir, Ja'far al-Sadiq, Musa al-Kazim, Ali al-Rida, Muhammad al-Jawad, Ali al-Hadi, Hasan
 al-Askari and Muhammad al-Mahdi, who Shi'a Muslims believe is in hiding and will return. Husayn's
 martyrdom at Karbala is remembered especially in the month of Muharram.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-first-islamic-community--03-descendants.webp" width="900" height="685" alt="A text family tree. With Khadija the Prophet (pbuh) had Qasim, Abdullah, Zaynab (married Abu al-As), Ruqayya and Umm Kulthum (both married Uthman) and Fatima (married Ali); with Maria he had Ibrahim. Fatima's children include Hasan, Husayn and Zaynab bint Ali. A note explains Uthman's title Dhu al-Nurayn and the Ahl al-Bayt at the Mubahala." loading="lazy">
-  <figcaption>Six children with Khadija, Ibrahim with Maria; the line continues through Fatima and Ali.</figcaption>
+  <figcaption>Six children with Khadija (RA), Ibrahim with Maria; the line continues through Fatima (RA) and Ali (RA).</figcaption>
 </figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-first-islamic-community--04-twelve-imams.webp" width="900" height="717" alt="The twelve Imams in order: Ali, Hasan, Husayn, Ali Zayn al-Abidin, Muhammad al-Baqir, Ja'far al-Sadiq, Musa al-Kazim, Ali al-Rida, Muhammad al-Jawad, Ali al-Hadi, Hasan al-Askari and Muhammad al-Mahdi. Cards note that they are seen as rightful, divinely guided leaders, that the twelfth is believed to be in hiding, and that Husayn's martyrdom at Karbala is remembered in Muharram." loading="lazy">
-  <figcaption>Twelve Imams in one line, from Ali to Muhammad al-Mahdi.</figcaption>
+  <figcaption>Twelve Imams in one line, from Ali (RA) to Muhammad al-Mahdi.</figcaption>
 </figure>
 
 ## 3. The Companions
 
-**The Ten Blessed Companions** (al-'Ashara al-Mubashshara), promised Paradise by the Prophet in one
-Hadith: Abu Bakr, Umar, Uthman, Ali, Talha ibn Ubaydullah, al-Zubayr ibn al-Awwam, Abd al-Rahman ibn
-Awf, Sa'd ibn Abi Waqqas, Sa'id ibn Zayd and Abu Ubayda ibn al-Jarrah.
+**The Ten Blessed Companions** (al-'Ashara al-Mubashshara), promised Paradise by the Prophet (pbuh) in one
+Hadith: Abu Bakr (RA), Umar (RA), Uthman (RA), Ali (RA), Talha ibn Ubaydullah (RA), al-Zubayr ibn al-Awwam (RA), Abd al-Rahman ibn
+Awf, Sa'd ibn Abi Waqqas (RA), Sa'id ibn Zayd (RA) and Abu Ubayda ibn al-Jarrah (RA).
 
-**The Scribes.** **Zayd ibn Thabit** wrote down revelation and letters, and learned another language
-at the Prophet's request to handle correspondence; others included Ubayy ibn Ka'b, Ali and Uthman.
+**The Scribes.** **Zayd ibn Thabit (RA)** wrote down revelation and letters, and learned another language
+at the Prophet's (pbuh) request to handle correspondence; others included Ubayy ibn Ka'b (RA), Ali (RA) and Uthman (RA).
 
 **Major characters of his ministry** (choose by question):
-- **Supporters:** Abu Talib (protector, never accepted Islam); Hamza (the "Lion of God", martyred at
-  Uhud); Bilal (first mu'adhdhin); Mus'ab ibn Umayr (first teacher sent to Yathrib, martyred at Uhud);
-  Zayd ibn Haritha (freed and adopted by the Prophet, the only Companion named in the Qur'an, Sura
-  33.37); Salman al-Farsi (suggested the trench).
+- **Supporters:** Abu Talib (protector, never accepted Islam); Hamza (RA) (the "Lion of God", martyred at
+  Uhud); Bilal (RA) (first mu'adhdhin); Mus'ab ibn Umayr (RA) (first teacher sent to Yathrib, martyred at Uhud);
+  Zayd ibn Haritha (RA) (freed and adopted by the Prophet (pbuh), the only Companion named in the Qur'an, Sura
+  33.37); Salman al-Farsi (RA) (suggested the trench).
 - **Opponents:** Abu Lahab; Abu Jahl (killed at Badr); Abu Sufyan (led the Quraysh, accepted Islam at
   the conquest of Makka); Khalid ibn al-Walid (led the cavalry at Uhud, accepted Islam after
   Hudaybiyya and became the "Sword of God").
@@ -124,7 +124,7 @@ at the Prophet's request to handle correspondence; others included Ubayy ibn Ka'
 **The Emigrants and Helpers.** The Muhajirun left homes and property in Makka; the Ansar of the Aws
 and Khazraj received them. The Qur'an praises the Ansar for giving the Emigrants "preference over
 themselves, even though poverty was their own lot" (Sura 59.9) and promises both groups God's
-pleasure (Sura 9.100). The best-known example is Sa'd ibn al-Rabi', who offered Abd al-Rahman ibn Awf
+pleasure (Sura 9.100). The best-known example is Sa'd ibn al-Rabi', who offered Abd al-Rahman ibn Awf (RA)
 half his wealth; Abd al-Rahman thanked him and asked only to be shown the market.
 
 <figure class="topic-figure">
@@ -137,31 +137,31 @@ half his wealth; Abd al-Rahman thanked him and asked only to be shown the market
   <figcaption>Sacrifice on one side, generosity on the other: both praised in the Qur'an.</figcaption>
 </figure>
 
-## 4. The four caliphs in the Prophet's lifetime
+## 4. The four caliphs in the Prophet's (pbuh) lifetime
 
-- **Abu Bakr:** first free adult man to accept Islam; brought Uthman, Talha, al-Zubayr and others to
-  Islam; bought and freed Bilal; called al-Siddiq for believing at once in the Isra and Mi'raj; the
+- **Abu Bakr (RA):** first free adult man to accept Islam; brought Uthman (RA), Talha (RA), al-Zubayr and others to
+  Islam; bought and freed Bilal (RA); called al-Siddiq for believing at once in the Isra and Mi'raj; the
   Prophet's companion in the cave of Thawr ("the second of two", Sura 9.40); led the prayers in his
   final illness.
-- **Umar:** once a fierce opponent; accepted Islam after hearing Sura Ta-Ha recited at his sister
-  Fatima's house; his conversion let Muslims pray openly at the Ka'ba; called al-Faruq; his daughter
-  Hafsa married the Prophet.
-- **Uthman:** early convert through Abu Bakr; migrated to Abyssinia; married two of the Prophet's
+- **Umar (RA):** once a fierce opponent; accepted Islam after hearing Sura Ta-Ha recited at his sister
+  Fatima's (RA) house; his conversion let Muslims pray openly at the Ka'ba; called al-Faruq; his daughter
+  Hafsa (RA) married the Prophet (pbuh).
+- **Uthman (RA):** early convert through Abu Bakr (RA); migrated to Abyssinia; married two of the Prophet's (pbuh)
   daughters; bought the well of Ruma for the Muslims of Madina; paid for much of the army sent to
   Tabuk; his rumoured death at Hudaybiyya led to the Pledge of Ridwan (Sura 48.18).
-- **Ali:** cousin of the Prophet, raised in his house; the first young person to accept Islam; slept
-  in the Prophet's bed on the night of the Hijra and returned the trusts left with him; married
-  Fatima; fought at Badr and carried the banner at Khaybar; left in charge of Madina during the Tabuk
+- **Ali (RA):** cousin of the Prophet (pbuh), raised in his house; the first young person to accept Islam; slept
+  in the Prophet's (pbuh) bed on the night of the Hijra and returned the trusts left with him; married
+  Fatima (RA); fought at Badr and carried the banner at Khaybar; left in charge of Madina during the Tabuk
   expedition.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-first-islamic-community--07-caliphs-in-his-lifetime.webp" width="900" height="599" alt="Four cards. Abu Bakr: first free adult man to accept Islam, companion in the cave of Thawr, led prayers in the final illness. Umar: once an opponent, accepted Islam after hearing Sura Ta-Ha, let Muslims pray openly at the Ka'ba. Uthman: early convert, married two daughters, funded Tabuk. Ali: first young person to accept Islam, slept in the Prophet's bed on the night of the Hijra, married Fatima." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-first-islamic-community--07-caliphs-in-his-lifetime.webp" width="900" height="599" alt="Four cards. Abu Bakr: first free adult man to accept Islam, companion in the cave of Thawr, led prayers in the final illness. Umar: once an opponent, accepted Islam after hearing Sura Ta-Ha, let Muslims pray openly at the Ka'ba. Uthman: early convert, married two daughters, funded Tabuk. Ali: first young person to accept Islam, slept in the Prophet's (pbuh) bed on the night of the Hijra, married Fatima." loading="lazy">
   <figcaption>Before 632: how each future caliph came to Islam and served the Prophet (pbuh).</figcaption>
 </figure>
 
 ## Worked example
 
-**Question:** Write about the life of Khadija and her importance to the Prophet (pbuh). **[10]**
+**Question:** Write about the life of Khadija (RA) and her importance to the Prophet (pbuh). **[10]**
 
 **Strong answer plan:** a respected widow and trader of Makka → employed Muhammad (pbuh) to trade for
 her in Syria; her servant Maysara reported his honesty → she proposed marriage; he was twenty-five →
@@ -182,10 +182,10 @@ after her death.
 
 - **Lists of names without facts.** A list of the Ten Blessed Companions earns little unless the
   question asks only for names.
-- **Moving into Paper 2.** A question on Umar in this topic is about his life before 632, not his
+- **Moving into Paper 2.** A question on Umar (RA) in this topic is about his life before 632, not his
   conquests as caliph.
-- **Mixing up the two Zaynabs and the two Fatimas.** Zaynab bint Khuzayma and Zaynab bint Jahsh;
-  Fatima the Prophet's daughter and Fatima, Umar's sister.
+- **Mixing up the two Zaynabs and the two Fatimas.** Zaynab bint Khuzayma (RA) and Zaynab bint Jahsh (RA);
+  Fatima (RA) the Prophet's (pbuh) daughter and Fatima (RA), Umar's (RA) sister.
 - **Forgetting significance.** Part (b) often asks what Muslims learn from a person's actions.
 
 ## Exam technique

@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the dates of the phases and the stages of the prohibition of alcohol and gambling against a teacher's notes."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the dates of the phases and the stages of the prohibition of alcohol and gambling against a teacher's notes. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -55,8 +55,8 @@ featured: false
 - **Khadija (RA):** first.
 - **Ali (RA):** first boy.
 - **Zayd ibn Harithah (RA):** freed servant.
-- **Abu Bakr (RA):** friend; brought others, such as Uthman, Zubair, Abdur Rahman ibn Awf, Sa'd ibn Abi Waqqas and Talha.
-- Many early believers were young, poor or slaves, such as **Bilal** and **Ammar** and his parents.
+- **Abu Bakr (RA):** friend; brought others, such as Uthman (RA), Zubair, Abdur Rahman ibn Awf, Sa'd ibn Abi Waqqas (RA) and Talha (RA).
+- Many early believers were young, poor or slaves, such as **Bilal (RA)** and **Ammar** and his parents.
 
 ## The public call
 
@@ -152,7 +152,7 @@ featured: false
 9. Give one reason why alcohol and gambling were banned.
 10. Which surah is the prescribed passage for early preaching?
 
-**Answers:** 1. About three years. 2. Any two: Khadija, Ali, Zayd, Abu Bakr. 3. The house of al-Arqam. 4. Mount Safa. 5. Abu Lahab. 6. The oneness of Allah. 7. Any two: ban on infanticide; share of inheritance; owning property; receiving the mahr; consent in marriage; equal reward. 8. Three stages. 9. Any one: causes hatred and enmity; distracts from prayer and remembrance of Allah; wastes wealth; harms families. 10. Surah al-Fatihah (1:1-7).
+**Answers:** 1. About three years. 2. Any two: Khadija (RA), Ali (RA), Zayd, Abu Bakr (RA). 3. The house of al-Arqam. 4. Mount Safa. 5. Abu Lahab. 6. The oneness of Allah. 7. Any two: ban on infanticide; share of inheritance; owning property; receiving the mahr; consent in marriage; equal reward. 8. Three stages. 9. Any one: causes hatred and enmity; distracts from prayer and remembrance of Allah; wastes wealth; harms families. 10. Surah al-Fatihah (1:1-7).
 
 Practise with the [early preaching practice questions](/resources/oxfordaqa-igcse-islamiyat-9237-early-preaching-of-islam-practice/).
 

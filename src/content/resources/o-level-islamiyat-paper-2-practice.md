@@ -29,7 +29,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-09-03
 featured: false
 ---
@@ -57,15 +57,15 @@ You must answer Question 1, Question 2 and two other questions.
 
 **(i)**
 
-> ‘الدِّينُ النَّصِيحَةُ.’ قُلْنَا: لِمَنْ؟ قَالَ: ‘لِلهِ وَلِكِتَابِهِ، وَلِرَسُولِهِ، وَلأَئِمَّةِ المُسْلِمِينَ وَعَامَّتِهِمْ.’
+> 'الدِّينُ النَّصِيحَةُ.' قُلْنَا: لِمَنْ؟ قَالَ: 'لِلهِ وَلِكِتَابِهِ، وَلِرَسُولِهِ، وَلأَئِمَّةِ المُسْلِمِينَ وَعَامَّتِهِمْ.'
 
-‘Religion is sincerity.’ We said: ‘To whom?’ The Prophet said: ‘To Allah, his Book, his Messenger, the leaders of the Muslims and to their common people.’
+'Religion is sincerity.' We said: 'To whom?' The Prophet (pbuh) said: 'To Allah, his Book, his Messenger, the leaders of the Muslims and to their common people.'
 
 **(ii)**
 
-> ‘أَنَا وَكَافِلُ اليَتِيمِ فِي الجَنَّةِ هَكَذَا.’ وَقَالَ بِإِصْبَعَيْهِ السَّبَّابَةِ وَالوُسْطَى.
+> 'أَنَا وَكَافِلُ اليَتِيمِ فِي الجَنَّةِ هَكَذَا.' وَقَالَ بِإِصْبَعَيْهِ السَّبَّابَةِ وَالوُسْطَى.
 
-‘I and the man who brings up an orphan will be in paradise like this.’ And he pointed with his two fingers, the index finger and the middle finger.
+'I and the man who brings up an orphan will be in paradise like this.' And he pointed with his two fingers, the index finger and the middle finger.
 
 **(iii)**
 
@@ -89,9 +89,9 @@ The believers are like a single man; if his eye is affected he is affected, and 
 
 ## Question 3
 
-**3 (a)** Give an account of the expansion of the Muslim state during the caliphate of Umar. **[10]**
+**3 (a)** Give an account of the expansion of the Muslim state during the caliphate of Umar (RA). **[10]**
 
-**(b)** What can Muslim countries today learn from the way Umar treated the peoples of the lands that came under Muslim rule? **[4]**
+**(b)** What can Muslim countries today learn from the way Umar (RA) treated the peoples of the lands that came under Muslim rule? **[4]**
 
 ## Question 4
 
@@ -152,12 +152,12 @@ The credit guides below turn this into points you can check your own answer agai
 **(a) [10]** — each accurate, developed point **[2]**; credit the **best five** (maximum 10).
 
 - In Syria, Muslim armies took **Damascus** and then defeated a large Byzantine army at the **Battle of Yarmuk** (636), where Khalid ibn al-Walid played a leading part [2].
-- Umar replaced Khalid as overall commander with **Abu Ubayda ibn al-Jarrah**, so that people would understand victory came from God and not from one general [2].
-- **Jerusalem** surrendered on condition that the caliph came in person; Umar travelled there and gave its Christian inhabitants a written guarantee of safety for their lives, property and churches [2].
-- In Iraq, **Sa'd ibn Abi Waqqas** defeated the Persian army at **Qadisiyya**, and the Muslims then took the Persian capital, **Ctesiphon** (al-Mada'in) [2].
+- Umar (RA) replaced Khalid as overall commander with **Abu Ubayda ibn al-Jarrah (RA)**, so that people would understand victory came from God and not from one general [2].
+- **Jerusalem** surrendered on condition that the caliph came in person; Umar (RA) travelled there and gave its Christian inhabitants a written guarantee of safety for their lives, property and churches [2].
+- In Iraq, **Sa'd ibn Abi Waqqas (RA)** defeated the Persian army at **Qadisiyya**, and the Muslims then took the Persian capital, **Ctesiphon** (al-Mada'in) [2].
 - The victory at **Nahawand** (642) broke the remaining Persian power, and it became known as the "victory of victories" [2].
 - **Amr ibn al-As** led the conquest of **Egypt**, taking the fortress of Babylon and then Alexandria [2].
-- To control the new lands Umar founded **garrison towns** such as **Basra, Kufa and Fustat**, which kept the armies apart from local people, and he divided the state into provinces under governors [2].
+- To control the new lands Umar (RA) founded **garrison towns** such as **Basra, Kufa and Fustat**, which kept the armies apart from local people, and he divided the state into provinces under governors [2].
 
 **(b) [4]** — each reasoned point **[2]**; credit the **best two** (maximum 4).
 

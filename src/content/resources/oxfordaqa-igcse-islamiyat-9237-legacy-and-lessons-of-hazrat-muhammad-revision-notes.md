@@ -20,12 +20,12 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-20
 featured: false
 ---
 
-**These notes condense content area 3.2.1.10 of 9237: "the key teachings from his final sermon" and "key teachings from Hazrat Muhammad's life including: treatment of parents, the importance of justice, honesty and patience."** The full explanation is in the [study guide](/resources/oxfordaqa-igcse-islamiyat-9237-legacy-and-lessons-of-hazrat-muhammad/).
+**These notes condense content area 3.2.1.10 of 9237: "the key teachings from his final sermon" and "key teachings from Hazrat Muhammad's (pbuh) life including: treatment of parents, the importance of justice, honesty and patience."** The full explanation is in the [study guide](/resources/oxfordaqa-igcse-islamiyat-9237-legacy-and-lessons-of-hazrat-muhammad/).
 
 ## The legacy in four words
 
@@ -45,7 +45,7 @@ featured: false
 |---|---|
 | Sanctity | Life, property and honour are sacred |
 | Trusts | Return what you have been trusted with |
-| Interest | Interest is cancelled, starting with the Prophet's own family |
+| Interest | Interest is cancelled, starting with the Prophet's (pbuh) own family |
 | Revenge | Pre-Islamic blood feuds are ended |
 | Women | Treat them well; rights on both sides |
 | Equality | Only taqwa makes one person better than another |
@@ -71,7 +71,7 @@ The first part of the verse lists forbidden foods (dead animals, blood, pork, fo
 | Lesson | Qur'an or Hadith | Example from his life |
 |---|---|---|
 | Parents | Qur'an 17:23-24: good treatment; do not say "uff"; lower the wing of humility. Hadith: "your mother" three times, then "your father" | Honoured the memory of his parents; taught kindness continues after death through prayer and honouring their friends |
-| Justice | Qur'an 4:135: stand firm in justice, even against yourselves, parents and relatives. Qur'an 5:8 | Refused to excuse a noble woman's theft; said he would apply the same rule to his own daughter Fatima |
+| Justice | Qur'an 4:135: stand firm in justice, even against yourselves, parents and relatives. Qur'an 5:8 | Refused to excuse a noble woman's theft; said he would apply the same rule to his own daughter Fatima (RA) |
 | Honesty | Hadith: truthfulness leads to righteousness and righteousness to Paradise | Called al-Amin and al-Sadiq; returned deposits via Hazrat Ali (RA) at the Hijrah |
 | Patience | Qur'an 2:153: Allah is with the patient; 39:10: reward without account | Ta'if, the boycott, bereavements; forgiveness at Makkah |
 
