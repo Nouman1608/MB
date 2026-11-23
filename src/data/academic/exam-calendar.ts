@@ -54,33 +54,6 @@ export const CAMBRIDGE_EXAM_SERIES: readonly CambridgeExamSeries[] = [
     label: 'February/March',
     months: 'February and March',
     availability: 'Offered only in certain countries, not in every administrative zone -- Cambridge syllabuses state, for example, that exams are also available in the March series in India. Check your own syllabus for March availability.',
-  },  /**
-   * May/June 2027 -- ONLY the timetabled weeks, read on 2026-11-23 from
-   * Cambridge's final June 2027 exam timetables (Version 1, November 2026).
-   * Entry deadlines and results dates are NOT listed: Cambridge's key-dates
-   * page shows no June 2027 key-dates document yet, so none is invented.
-   * Weekly views: Zones 1-5 run 26 April to 11 June 2027 (Zone 5 first week
-   * 26 April to 1 May); Zone 6 runs 26 April to 12 June 2027.
-   */
-  {
-    seriesLabel: 'May/June 2027',
-    seriesSlug: 'june-2027',
-    examPeriodStart: '26 April 2027',
-    examPeriodEnd: '11 June 2027 (12 June for Zone 6)',
-    resultsReleased: [],
-    officialSourceUrl: 'https://www.cambridgeinternational.org/Images/766278-june-2027-zone-1-timetable.pdf',
-    sourceScope: 'final June 2027 exam timetables by administrative zone; only the timetabled weeks are listed, no entry or results dates yet',
-    verifiedOn: '2026-11-23',
-    examStartIso: '2027-04-26',
-    examEndIso: '2027-06-12',
-    partialNote: 'Only the exam window is listed so far. Cambridge has not yet published the key-dates document for the June 2027 series, so entry deadlines and results dates are not shown here. Confirm them with your school's exams officer.',
-    extraSources: [
-      { label: 'Zone 2', url: 'https://www.cambridgeinternational.org/Images/766279-june-2027-zone-2-timetable.pdf' },
-      { label: 'Zone 3', url: 'https://www.cambridgeinternational.org/Images/766281-june-2027-zone-3-timetable.pdf' },
-      { label: 'Zone 4', url: 'https://www.cambridgeinternational.org/Images/766282-june-2027-zone-4-timetable.pdf' },
-      { label: 'Zone 5', url: 'https://www.cambridgeinternational.org/Images/766283-june-2027-zone-5-timetable.pdf' },
-      { label: 'Zone 6', url: 'https://www.cambridgeinternational.org/Images/766284-june-2027-zone-6-timetable.pdf' },
-    ],
   },
 ] as const;
 
@@ -181,5 +154,33 @@ export const EXAM_SERIES_KEY_DATES: readonly ExamSeriesKeyDates[] = [
     examStartIso: '2027-02-03',
     examEndIso: '2027-03-04',
     resultsIso: '2027-05-13',
+  },
+  /**
+   * May/June 2027 -- ONLY the timetabled weeks, read on 2026-11-23 from
+   * Cambridge's final June 2027 exam timetables (Version 1, November 2026).
+   * Entry deadlines and results dates are NOT listed: Cambridge's key-dates
+   * page shows no June 2027 key-dates document yet, so none is invented.
+   * Weekly views: Zones 1-5 run 26 April to 11 June 2027 (Zone 5 first week
+   * 26 April to 1 May); Zone 6 runs 26 April to 12 June 2027.
+   */
+  {
+    seriesLabel: 'May/June 2027',
+    seriesSlug: 'june-2027',
+    examPeriodStart: '26 April 2027',
+    examPeriodEnd: '11 June 2027 (12 June for Zone 6)',
+    resultsReleased: [],
+    officialSourceUrl: 'https://www.cambridgeinternational.org/Images/766278-june-2027-zone-1-timetable.pdf',
+    sourceScope: 'final June 2027 exam timetables by administrative zone; only the timetabled weeks are listed, no entry or results dates yet',
+    verifiedOn: '2026-11-23',
+    examStartIso: '2027-04-26',
+    examEndIso: '2027-06-12',
+    partialNote: 'Only the exam window is listed so far. Cambridge has not yet published the key-dates document for the June 2027 series, so entry deadlines and results dates are not shown here. Confirm them with your exams officer.',
+    extraSources: [
+      { label: 'Zone 2', url: 'https://www.cambridgeinternational.org/Images/766279-june-2027-zone-2-timetable.pdf' },
+      { label: 'Zone 3', url: 'https://www.cambridgeinternational.org/Images/766281-june-2027-zone-3-timetable.pdf' },
+      { label: 'Zone 4', url: 'https://www.cambridgeinternational.org/Images/766282-june-2027-zone-4-timetable.pdf' },
+      { label: 'Zone 5', url: 'https://www.cambridgeinternational.org/Images/766283-june-2027-zone-5-timetable.pdf' },
+      { label: 'Zone 6', url: 'https://www.cambridgeinternational.org/Images/766284-june-2027-zone-6-timetable.pdf' },
+    ],
   },
 ] as const;

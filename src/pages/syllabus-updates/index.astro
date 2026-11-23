@@ -38,6 +38,17 @@ import CTA from '../../components/ui/CTA.astro';
 
 const path = '/syllabus-updates/';
 
+/** Print the paper code and title once: when the title already starts with the code, show the title only (same rule as componentLabel in assessment-faq.ts on the integration branch). */
+function componentLabel(paperCode: string, title: string): string {
+  const code = paperCode.trim();
+  const t = title.trim();
+  if (!t) return code;
+  if (!code) return t;
+  const repeats = t.toLowerCase() === code.toLowerCase()
+    || (t.toLowerCase().startsWith(code.toLowerCase()) && /^[s:-–—(]/.test(t.slice(code.length)));
+  return repeats ? t : `${code}: ${t}`;
+}
+
 function comboFor(a: Assessment) {
   return MATRIX.find(
     (c) => c.boardSlug === a.boardSlug && c.qualificationSlug === a.qualificationSlug && c.subjectSlug === a.subjectSlug,
@@ -323,7 +334,7 @@ const flagshipInTransition = [...future, ...legacy].some((r) => flagshipCodes.ha
                       </dl>
                       <ul class="m-0 list-none p-0 text-[13px] leading-[1.7] text-ink">
                         {b.comps.map((c) => (
-                          <li>{b.prefix}{c.paperCode} — {c.title} ({c.marks === null ? 'mark total not confirmed' : `${c.marks} marks`}, {c.asWeightingPercent != null && c.asWeightingPercent !== c.weightingPercent
+                          <li>{b.prefix}{componentLabel(c.paperCode, c.title)} ({c.marks === null ? 'mark total not confirmed' : `${c.marks} marks`}, {c.asWeightingPercent != null && c.asWeightingPercent !== c.weightingPercent
                             ? (c.weightingPercent === 0 ? `${c.asWeightingPercent}% AS only` : `${c.asWeightingPercent}% AS / ${c.weightingPercent}% A Level`)
                             : `${c.weightingPercent}%`})</li>
                         ))}

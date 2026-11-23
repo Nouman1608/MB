@@ -32,3 +32,15 @@ assert.deepEqual(l3('2027-05-10'), ['Results released', 'Exams over, results pen
 assert.deepEqual(l3('2027-06-20'), ['Results released', 'Results released', 'Exams over, results pending']);
 assert.equal(deadlineWarnings('2026-11-23', jun).length, 0);
 console.log('exam-calendar status tests passed');
+
+// Data file must compile and every series must be renderable (catches syntax errors the .mjs import misses).
+const data = await import('../src/data/academic/exam-calendar.ts');
+assert.ok(data.EXAM_SERIES_KEY_DATES.length >= 3);
+for (const s of data.EXAM_SERIES_KEY_DATES) {
+  assert.ok(s.seriesLabel && s.examPeriodStart && s.examPeriodEnd && s.examStartIso && s.examEndIso, s.seriesLabel);
+  assert.ok(s.officialSourceUrl.startsWith('https://'), s.seriesLabel);
+}
+assert.ok(data.EXAM_SERIES_KEY_DATES.some((s) => s.seriesLabel === 'May/June 2027'));
+const rows = data.EXAM_SERIES_KEY_DATES.map((s) => s);
+assert.deepEqual(seriesLabels('2026-11-23', rows).map((x) => x.label), ['Exams over, results pending', 'Next series', 'Later series']);
+console.log('exam-calendar data compiles; all series valid');
