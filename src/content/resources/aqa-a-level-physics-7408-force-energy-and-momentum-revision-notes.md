@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-These notes condense section 3.4.1 Force, energy and momentum (3.4.1.1 to 3.4.1.8) of the AQA AS and A-level Physics specification (7407/7408), including Required practical 3. Full explanations and worked examples are in the [force, energy and momentum study guide](/resources/aqa-a-level-physics-7408-force-energy-and-momentum/); test yourself with the [force, energy and momentum practice questions](/resources/aqa-a-level-physics-7408-force-energy-and-momentum-practice/). The materials half of section 3.4 is in the [Materials revision notes](/resources/aqa-a-level-physics-7408-materials-aqa-alevel-revision-notes/). Take g = 9.81 m s⁻².
+These notes condense section 3.4.1 Force, energy and momentum (3.4.1.1 to 3.4.1.8) of the AQA AS and A-level Physics specification (7407/7408), including Required practical 3. Full explanations and worked examples are in the [force, energy and momentum study guide](/resources/aqa-a-level-physics-7408-force-energy-and-momentum/); test yourself with the [force, energy and momentum practice questions](/resources/aqa-a-level-physics-7408-force-energy-and-momentum-practice/). The materials half of section 3.4 is in the [Materials revision notes](/resources/aqa-a-level-physics-7408-materials-revision-notes/). Take g = 9.81 m s⁻².
 
 ## Equations
 

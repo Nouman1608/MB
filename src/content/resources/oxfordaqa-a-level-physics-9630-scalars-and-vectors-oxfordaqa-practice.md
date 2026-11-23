@@ -191,7 +191,7 @@ D: 11 N
 
 ## Next steps
 
-- [Moments practice questions](/resources/oxfordaqa-a-level-physics-9630-moments-oxfordaqa-alevel-practice/)
+- [Moments practice questions](/resources/oxfordaqa-a-level-physics-9630-moments-practice/)
 - [Newton's laws of motion practice questions](/resources/oxfordaqa-a-level-physics-9630-newtons-laws-of-motion-oxfordaqa-practice/)
 - [Vectors, equilibrium of forces and moments practice questions](/resources/oxfordaqa-a-level-physics-vectors-equilibrium-of-forces-and-moments-practice/)
 

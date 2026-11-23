@@ -28,7 +28,7 @@ featured: false
 > mark tariffs: examination boards hold copyright in their own papers. Use
 > these alongside the official past papers available free from your board.
 
-Related: [Big Data study guide](/resources/aqa-a-level-computer-science-7517-big-data/) | [Big Data revision notes](/resources/aqa-a-level-computer-science-7517-big-data-revision-notes/)
+Related: [Big Data study guide](/resources/aqa-a-level-computer-science-7517-big-data/) | [Big Data revision notes](/resources/aqa-a-level-computer-science-big-data-revision-notes/)
 
 ---
 

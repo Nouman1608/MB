@@ -30,7 +30,7 @@ register-by-register descriptions of the fetch-execute cycle, short assembly lan
 comparisons of devices.
 
 Condensed for the final weeks. For the full explanation, use the
-[Fundamentals of computer organisation and architecture study guide](/resources/aqa-a-level-computer-science-fundamentals-of-computer-organisation-and-architecture-study-guide/).
+[Fundamentals of computer organisation and architecture study guide](/resources/aqa-a-level-computer-science-fundamentals-of-computer-organisation-and-architecture-study/).
 Practise with the [computer organisation and architecture practice questions](/resources/aqa-a-level-computer-science-fundamentals-of-computer-organisation-and-architecture-practice/).
 
 ## Syllabus coverage
@@ -194,7 +194,7 @@ arithmetic, compare, branch, logic and shifts -- with immediate and direct addre
 
 ## Related resources
 
-[Computer organisation and architecture study guide](/resources/aqa-a-level-computer-science-fundamentals-of-computer-organisation-and-architecture-study-guide/) |
+[Computer organisation and architecture study guide](/resources/aqa-a-level-computer-science-fundamentals-of-computer-organisation-and-architecture-study/) |
 [Computer organisation and architecture practice questions](/resources/aqa-a-level-computer-science-fundamentals-of-computer-organisation-and-architecture-practice/) |
 [Fundamentals of computer systems revision notes](/resources/aqa-a-level-computer-science-fundamentals-of-computer-systems-revision-notes/)
 

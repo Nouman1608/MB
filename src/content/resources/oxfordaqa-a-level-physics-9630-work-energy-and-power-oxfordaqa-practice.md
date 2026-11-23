@@ -189,7 +189,7 @@ D: 174 N
 
 ## Next steps
 
-- [Conservation of energy practice questions](/resources/oxfordaqa-a-level-physics-9630-conservation-of-energy-oxfordaqa-alevel-practice/)
+- [Conservation of energy practice questions](/resources/oxfordaqa-a-level-physics-9630-conservation-of-energy-practice/)
 - [Newton's laws of motion practice questions](/resources/oxfordaqa-a-level-physics-9630-newtons-laws-of-motion-oxfordaqa-practice/)
 - [Work, power, efficiency and conservation of energy practice questions](/resources/oxfordaqa-a-level-physics-work-power-efficiency-and-conservation-of-energy-practice/)
 

@@ -36,7 +36,7 @@ specification marks (HT only) in 4.1.1.1.
 For quick recall, use the [periodic table revision notes](/resources/aqa-gcse-chemistry-8462-the-periodic-table-revision-notes/).
 To test yourself, use the [periodic table practice questions](/resources/aqa-gcse-chemistry-8462-the-periodic-table-practice/).
 For the whole of topic 4.1 in one place, see the [Atomic structure and the periodic table overview](/resources/gcse-aqa-chemistry-atomic-structure-and-periodic-table/)
-and its [revision notes](/resources/aqa-gcse-chemistry-atomic-structure-revision-notes/). The course hub is
+and its [revision notes](/resources/aqa-gcse-chemistry-8462-atomic-structure-revision-notes/). The course hub is
 [AQA GCSE Chemistry](/boards/aqa/gcse/chemistry/), and the [printable checklist](/checklists/aqa/gcse/chemistry/)
 lists every specification point.
 

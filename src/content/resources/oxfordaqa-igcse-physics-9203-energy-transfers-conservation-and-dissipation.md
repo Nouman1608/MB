@@ -149,7 +149,7 @@ To **interpret** a diagram, measure each width, convert with the scale, check th
 
 ## Next steps
 
-Try the [energy transfers practice questions](/resources/oxfordaqa-igcse-physics-9203-energy-transfers-conservation-and-dissipation-practice/), then read the [Energy resources study guide](/resources/oxfordaqa-igcse-physics-9203-energy-resources-oxfordaqa-igcse/).
+Try the [energy transfers practice questions](/resources/oxfordaqa-igcse-physics-9203-energy-transfers-conservation-and-dissipation-practice/), then read the [Energy resources study guide](/resources/oxfordaqa-igcse-physics-9203-energy-resources/).
 
 ## Official syllabus
 

@@ -6,7 +6,7 @@ const t = (x, y, s, o = {}) => t0(x, y, s, { ...o, size: Math.max(MIN, o.size ||
 const tl = (x, y, lines, opts = {}, lh = Math.max(MIN, opts.size || 18) * 1.3) => lines.map((s, i) => t(x, y + i * lh, s, opts)).join('');
 const badge = (cx, cy, r, label, fill = C.mustard) => { const sz = Math.max(MIN, r); return `<circle cx="${cx}" cy="${cy}" r="${Math.max(r, sz * 0.85)}" fill="${fill}" stroke="${C.ink}" stroke-width="3"/>` + t(cx, cy + sz * 0.36, label, { size: sz, weight: 700, anchor: 'middle' }); };
 
-export const slug = 'cambridge-igcse-environmental-management-0680-sustainable-management-of-rocks-ores-and-minerals';
+export const slug = 'cambridge-igcse-environmental-management-0680-sustainable-management-of-rocks-ores';
 export const figures = [];
 const add = (name, svgText, alt, caption, after) => figures.push({ name, svg: svgText, alt, caption, after });
 

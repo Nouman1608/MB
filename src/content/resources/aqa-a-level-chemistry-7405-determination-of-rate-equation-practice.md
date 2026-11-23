@@ -30,7 +30,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover section **3.1.9.2 Determination of rate equation** of the AQA A-level Chemistry specification (7405), for teaching from September 2015. It is A-level only content, examined on Paper 2 (and Paper 3). Learn the methods in the [Determination of rate equation study guide](/resources/aqa-a-level-chemistry-7405-determination-of-rate-equation/) and the [Rate equations study guide](/resources/aqa-a-level-chemistry-7405-rate-equations/).
+These questions cover section **3.1.9.2 Determination of rate equation** of the AQA A-level Chemistry specification (7405), for teaching from September 2015. It is A-level only content, examined on Paper 2 (and Paper 3). Learn the methods in the [Determination of rate equation study guide](/resources/aqa-a-level-chemistry-7405-determination-of-rate-equation/) and the [Rate equations study guide](/resources/aqa-a-level-chemistry-rate-equations/).
 
 ## Questions
 
@@ -163,7 +163,7 @@ These questions cover section **3.1.9.2 Determination of rate equation** of the 
 ## Next steps
 
 - [Determination of rate equation study guide](/resources/aqa-a-level-chemistry-7405-determination-of-rate-equation/)
-- [Rate equations practice questions](/resources/aqa-a-level-chemistry-7405-rate-equations-practice/)
+- [Rate equations practice questions](/resources/aqa-a-level-chemistry-rate-equations-practice/)
 - [AQA A-Level Chemistry hub](/boards/aqa/a-level/chemistry/)
 
 ## Official syllabus

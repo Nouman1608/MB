@@ -196,7 +196,7 @@ interpretations (AO5).
 
 - [Elements of Crime Writing revision notes](/resources/aqa-a-level-english-literature-7712-7717-option-2a-elements-of-crime-writing-7717-revision-notes/)
 - [Option 2A crime writing practice questions](/resources/a-level-aqa-english-literature-b-crime-writing-practice/)
-- [Elements of Political and Social Protest Writing study guide](/resources/aqa-a-level-english-literature-7712-7717-option-2b-elements-of-political-and-social-protest-writing-7717/)
+- [Elements of Political and Social Protest Writing study guide](/resources/aqa-a-level-english-literature-7712-7717-option-2b-elements-of-political-and-social/)
 
 ## Specification
 

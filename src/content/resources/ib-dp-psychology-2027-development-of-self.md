@@ -25,7 +25,7 @@ featured: false
 
 The human development context of IB Psychology (first assessment 2027) has a second strand called **development of self**. The guide lists four areas of study: the role of **attachment**, **enculturation of social norms**, **peer influence** and **childhood experiences** in the development of self. All four are required. The guide does not define "self", so this page uses a working definition: the self is a person's sense of who they are, including their self-concept (the beliefs they hold about themselves), self-esteem (how they evaluate themselves) and identity (the roles and values they identify with). The guide names no required studies, so choose examples you can describe and evaluate.
 
-Related: [developmental psychology study guide](/resources/ib-ib-dp-psychology-developmental-psychology-study-guide/), [brain development](/resources/ib-dp-psychology-2027-brain-development/), [revision notes](/resources/ib-dp-psychology-2027-development-of-self-revision-notes/) and [practice set](/resources/ib-dp-psychology-2027-development-of-self-practice/).
+Related: [developmental psychology study guide](/resources/ib-dp-psychology-developmental-psychology-study-guide/), [brain development](/resources/ib-dp-psychology-2027-brain-development/), [revision notes](/resources/ib-dp-psychology-2027-development-of-self-revision-notes/) and [practice set](/resources/ib-dp-psychology-2027-development-of-self-practice/).
 
 ## How to think about the four areas
 

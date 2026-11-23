@@ -25,7 +25,7 @@ updatedDate: 2026-11-16
 featured: false
 ---
 
-Condensed recall for **1.4 Water management futures** (IB DP Geography, Option A: Freshwater). The [Freshwater study guide](/resources/ib-ib-dp-geography-freshwater-study-guide/) has the longer version.
+Condensed recall for **1.4 Water management futures** (IB DP Geography, Option A: Freshwater). The [Freshwater study guide](/resources/ib-dp-geography-freshwater-study-guide/) has the longer version.
 
 ## Two families of strategy
 
@@ -146,4 +146,4 @@ With little land to collect rain, Singapore combines four sources: water from lo
 
 ## Related resources
 
-- [Option A: Freshwater study guide](/resources/ib-ib-dp-geography-freshwater-study-guide/)
+- [Option A: Freshwater study guide](/resources/ib-dp-geography-freshwater-study-guide/)

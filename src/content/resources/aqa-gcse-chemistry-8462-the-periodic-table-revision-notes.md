@@ -33,7 +33,7 @@ specification marks (HT only) in 4.1.1.1, are labelled **Higher tier only** belo
 
 For full explanations and worked examples, use the [periodic table study guide](/resources/aqa-gcse-chemistry-8462-the-periodic-table/).
 Then test yourself with the [periodic table practice questions](/resources/aqa-gcse-chemistry-8462-the-periodic-table-practice/).
-The wider topic is summarised in the [Atomic structure revision notes](/resources/aqa-gcse-chemistry-atomic-structure-revision-notes/).
+The wider topic is summarised in the [Atomic structure revision notes](/resources/aqa-gcse-chemistry-8462-atomic-structure-revision-notes/).
 Course hub: [AQA GCSE Chemistry](/boards/aqa/gcse/chemistry/). Every point is listed on the
 [printable checklist](/checklists/aqa/gcse/chemistry/).
 

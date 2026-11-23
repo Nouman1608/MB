@@ -13,6 +13,7 @@ import { subjectBySlug } from './src/data/academic/subjects.ts';
 import { topicsFor } from './src/data/academic/syllabus-topics.ts';
 import { isIndexableAcademicPage } from './src/utils/seo/indexability.ts';
 import { bodyWordCount } from './src/utils/seo/word-count.ts';
+import { EN_PATH, TRANSLATED_LOCALES } from './src/i18n/routes.ts';
 import { sitemapGroup, SITEMAP_GROUPS } from './src/utils/seo/sitemap-groups.ts';
 import { AP_LIBRARY_PUBLIC, AP_LIBRARY_BASE } from './src/data/ap/config.ts';
 import { apFlashcardCourses, apFlashcardsPath, apUnitsWithCards, apDeckUpdated } from './src/data/ap-flashcards/index.ts';
@@ -77,6 +78,56 @@ function buildLastmodMap() {
 const lastmodBySlug = buildLastmodMap();
 
 /**
+ * Nov 2026 SEO audit (A7) -- lastmod for index pages. A hub or listing page
+ * changes when something it lists changes, so its lastmod is the newest real
+ * updatedDate/publishedDate among the pages it lists (never the build date).
+ * `bump` keeps the later of two ISO dates for a path.
+ */
+function bump(map, path, iso) {
+  if (!iso) return;
+  const prev = map.get(path);
+  if (!prev || iso > prev) map.set(path, iso);
+}
+
+/** Frontmatter field as a plain string, or undefined. */
+function fmField(frontmatter, name) {
+  return frontmatter.match(new RegExp(String.raw`^${name}:\s*"?([^"\n]+?)"?\s*$`, 'm'))?.[1];
+}
+
+function buildIndexLastmods() {
+  const idx = new Map();
+  for (const [dir, prefix] of [['src/content/resources', '/resources/'], ['src/content/articles', '/articles/']]) {
+    let files = [];
+    try { files = readdirSync(new URL(dir + '/', import.meta.url)).filter((f) => f.endsWith('.md')); } catch { continue; }
+    for (const file of files) {
+      const slug = file.replace(/\.md$/, '');
+      const iso = lastmodBySlug.get(`${prefix}${slug}/`);
+      if (!iso) continue;
+      const fm = (readFileSync(new URL(`${dir}/${file}`, import.meta.url), 'utf-8').split('---')[1]) ?? '';
+      bump(idx, prefix, iso);
+      bump(idx, '/', iso);
+      const type = fmField(fm, 'resourceType');
+      if (prefix === '/resources/' && type) bump(idx, `/resources/${type}/`, iso);
+      const author = fmField(fm, 'author');
+      if (author) { bump(idx, `/authors/${author}/`, iso); bump(idx, `/authors/${author}/resources/`, iso); bump(idx, '/authors/', iso); }
+    }
+  }
+  // A teacher's profile page was last changed when its facts were last checked.
+  try {
+    for (const file of readdirSync(new URL('src/content/authors/', import.meta.url)).filter((f) => f.endsWith('.md'))) {
+      const fm = readFileSync(new URL(`src/content/authors/${file}`, import.meta.url), 'utf-8').split('---')[1] ?? '';
+      const verified = fmField(fm, 'verifiedOn');
+      if (verified && !Number.isNaN(Date.parse(verified))) {
+        const slug = file.replace(/\.md$/, '');
+        bump(idx, `/authors/${slug}/`, new Date(verified).toISOString());
+      }
+    }
+  } catch { /* no authors */ }
+  return idx;
+}
+const indexLastmods = buildIndexLastmods();
+
+/**
  * Sitemap exclusion for non-indexable academic hub pages (Phase 2 -- Aug
  * 2026 SEO remediation).
  *
@@ -117,7 +168,7 @@ function buildIndexabilityExclusions() {
     const boards = boardsLine.split(',').map((s) => s.trim().replace(/['"]/g, '')).filter(Boolean);
     const wordCount = bodyWordCount(raw); // D-440: the same function the hub page uses
     if (!resourceType || !subject) continue;
-    resourceRecords.push({ resourceType, subject, level, boards, wordCount });
+    resourceRecords.push({ resourceType, subject, level, boards, wordCount, iso: lastmodBySlug.get(`/resources/${file.replace(/\.md$/, '')}/`) });
   }
 
   const excluded = new Set();
@@ -136,6 +187,16 @@ function buildIndexabilityExclusions() {
       hasSyllabusTopics,
     });
     if (!result.indexable) excluded.add(academicHubPath(c));
+    // A course page changes when the resources listed on it change.
+    const newest = matching.reduce((m, r) => (r.iso && (!m || r.iso > m) ? r.iso : m), undefined);
+    if (newest) {
+      const hub = academicHubPath(c);
+      const parts = hub.split('/').filter(Boolean); // boards, board, qualification, subject
+      for (const root of ['boards', 'checklists']) {
+        for (let n = 1; n <= parts.length; n++) bump(indexLastmods, `/${[root, ...parts.slice(1, n)].join('/')}/`, newest);
+      }
+      bump(indexLastmods, `/subjects/${hubSlug}/`, newest);
+    }
   }
   return excluded;
 }
@@ -225,6 +286,18 @@ const sitemapChunks = Object.fromEntries(
   ]),
 );
 
+/** hreflang for the pages that have ar/ur/bn counterparts (src/i18n/routes.ts), same rule as Meta.astro. */
+const enPathToKey = new Map(Object.values(EN_PATH).map((p) => [p, p]));
+function hreflangLinks(origin, path) {
+  const enPath = path.replace(/^\/(?:ar|ur|bn)(?=\/)/, '');
+  if (!enPathToKey.has(enPath) || enPath === '/search/') return undefined;
+  return [
+    { lang: 'en', url: origin + enPath },
+    ...TRANSLATED_LOCALES.map((l) => ({ lang: l, url: origin + '/' + l + enPath })),
+    { lang: 'x-default', url: origin + enPath },
+  ];
+}
+
 export default defineConfig({
   site: 'https://marlbridge.com',
   trailingSlash: 'always',
@@ -260,6 +333,8 @@ export default defineConfig({
   integrations: [
     typographicDashes(),
     sitemap({
+      // news/image/video namespaces are not used by any entry; xhtml carries hreflang.
+      namespaces: { news: false, image: false, video: false, xhtml: true },
       // Excluded: private/internal routes, plus every academic hub page
       // that isIndexableAcademicPage() has marked non-indexable (see
       // buildIndexabilityExclusions() above) -- keeping the sitemap and
@@ -303,8 +378,9 @@ export default defineConfig({
       },
       serialize(item) {
         const path = new URL(item.url).pathname;
-        const lastmod = lastmodBySlug.get(path);
-        return lastmod ? { ...item, lastmod } : item;
+        const lastmod = lastmodBySlug.get(path) ?? indexLastmods.get(path);
+        const links = hreflangLinks(new URL(item.url).origin, path);
+        return { ...item, ...(lastmod ? { lastmod } : {}), ...(links ? { links } : {}) };
       },
       chunks: sitemapChunks,
     }),

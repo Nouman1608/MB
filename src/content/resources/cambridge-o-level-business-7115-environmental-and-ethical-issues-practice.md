@@ -28,7 +28,7 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover section 6.2 Environmental and ethical issues of the Cambridge O Level Business Studies 7115 syllabus for examination in 2026. All businesses and figures are invented, and money is in dollars. Revise first with the [environmental and ethical issues study guide](/resources/cambridge-o-level-business-7115-environmental-and-ethical-issues/) and the [environmental and ethical issues revision notes](/resources/cambridge-o-level-business-7115-environmental-and-ethical-issues-revision-notes/). More questions that mix this section with international topics are in the [environmental, ethical and international practice set](/resources/o-level-business-environmental-and-ethical-issues-and-business-and-the-international-economy-practice/).
+These questions cover section 6.2 Environmental and ethical issues of the Cambridge O Level Business Studies 7115 syllabus for examination in 2026. All businesses and figures are invented, and money is in dollars. Revise first with the [environmental and ethical issues study guide](/resources/cambridge-o-level-business-7115-environmental-and-ethical-issues/) and the [environmental and ethical issues revision notes](/resources/cambridge-o-level-business-7115-environmental-and-ethical-issues-revision-notes/). More questions that mix this section with international topics are in the [environmental, ethical and international practice set](/resources/o-level-business-environmental-and-ethical-issues-and-business-and-the-international-practice/).
 
 ## Section A: Short-answer questions
 

@@ -30,7 +30,7 @@ featured: false
 
 This guide covers sub-topic **4.1 Capital and revenue expenditure and receipts**. The syllabus lists six points: the distinction between capital expenditure and revenue expenditure, and how to account for each; the distinction between capital receipts and revenue receipts, and how to account for each; and "how to identify and calculate the effect on profit of incorrect treatment" and "the effect on asset valuations of incorrect treatment".
 
-The examples follow Brookfield Print Works, owned by Ama Mensah. Amounts are in dollars. Use this guide with the [4.1 revision notes](/resources/cambridge-igcse-accounting-0452-capital-and-revenue-expenditure-and-receipts-revision-notes/) and [4.1 practice questions](/resources/cambridge-igcse-accounting-0452-capital-and-revenue-expenditure-and-receipts-practice/). Capital expenditure is spread over later years through [depreciation](/resources/cambridge-igcse-accounting-0452-accounting-for-depreciation-and-disposal-of-non-current-assets/).
+The examples follow Brookfield Print Works, owned by Ama Mensah. Amounts are in dollars. Use this guide with the [4.1 revision notes](/resources/cambridge-igcse-accounting-0452-capital-and-revenue-expenditure-and-receipts-revision-notes/) and [4.1 practice questions](/resources/cambridge-igcse-accounting-0452-capital-and-revenue-expenditure-and-receipts-practice/). Capital expenditure is spread over later years through [depreciation](/resources/cambridge-igcse-accounting-0452-accounting-for-depreciation-and-disposal-of-non-current/).
 
 ## 1. Capital expenditure and revenue expenditure
 

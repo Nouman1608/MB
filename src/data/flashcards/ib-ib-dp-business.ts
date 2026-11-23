@@ -31,7 +31,7 @@ const sub = (topic: string, subtopic: string, number: string, specs: Spec[]): Fl
     ...(src ? { source: src } : {}),
   }));
 
-const HRM = 'ib-dp-business-management-introduction-to-human-resource-management-and-organizational-structure-revision-notes';
+const HRM = 'ib-dp-business-management-introduction-to-human-resource-management-and-organizational-revision-notes';
 const COMM = 'ib-dp-business-management-communication-and-industrial-employee-relations-hl-only-revision-notes';
 const ACC = 'ib-dp-business-management-final-accounts-revision-notes';
 

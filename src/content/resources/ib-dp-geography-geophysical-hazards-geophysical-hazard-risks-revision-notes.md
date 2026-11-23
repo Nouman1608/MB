@@ -25,7 +25,7 @@ updatedDate: 2026-11-16
 featured: false
 ---
 
-Condensed recall for **4.2 Geophysical hazard risks** (IB DP Geography, Option D: Geophysical hazards). The [Geophysical hazards study guide](/resources/ib-ib-dp-geography-geophysical-hazards-study-guide/) has the longer account.
+Condensed recall for **4.2 Geophysical hazard risks** (IB DP Geography, Option D: Geophysical hazards). The [Geophysical hazards study guide](/resources/ib-dp-geography-geophysical-hazards-study-guide/) has the longer account.
 
 ## Risk
 
@@ -144,4 +144,4 @@ Further reasons: tourism income, minerals, family and cultural ties to land, and
 
 ## Related resources
 
-- [Option D: Geophysical hazards study guide](/resources/ib-ib-dp-geography-geophysical-hazards-study-guide/)
+- [Option D: Geophysical hazards study guide](/resources/ib-dp-geography-geophysical-hazards-study-guide/)

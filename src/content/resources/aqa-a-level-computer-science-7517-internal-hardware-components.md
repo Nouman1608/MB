@@ -25,7 +25,7 @@ featured: false
 
 This guide covers **4.7.1 Internal hardware components of a computer** in AQA A-Level Computer Science (7517). You must understand the role of six components and how they relate to each other: the **processor, main memory, address bus, data bus, control bus and I/O controllers**. You must also explain the need for communication between components, explain the difference between **von Neumann and Harvard architectures**, and understand the idea of **addressable memory**. The specification says that exam questions about specific machines will not be asked, so the focus is on the general model.
 
-The wider [computer organisation and architecture study guide](/resources/aqa-a-level-computer-science-fundamentals-of-computer-organisation-and-architecture-study-guide/) covers the whole of section 4.7. This page goes further on the buses and on addressing, with calculations.
+The wider [computer organisation and architecture study guide](/resources/aqa-a-level-computer-science-fundamentals-of-computer-organisation-and-architecture-study/) covers the whole of section 4.7. This page goes further on the buses and on addressing, with calculations.
 
 Condensed notes are in the [internal hardware components revision notes](/resources/aqa-a-level-computer-science-7517-internal-hardware-components-revision-notes/), and exam-style questions are in the [internal hardware components practice questions](/resources/aqa-a-level-computer-science-7517-internal-hardware-components-practice/).
 

@@ -38,7 +38,7 @@ Foundation and Higher Tier. Question 4 uses content the specification marks (HT 
 
 Learn the content first in the [study guide](/resources/aqa-gcse-chemistry-8462-atomic-structure/) and the
 [revision notes](/resources/aqa-gcse-chemistry-8462-atomic-structure-revision-notes/). For questions on group
-trends and the periodic table, use the [topic 4.1 practice questions](/resources/aqa-gcse-chemistry-atomic-structure-practice/);
+trends and the periodic table, use the [topic 4.1 practice questions](/resources/aqa-gcse-chemistry-8462-atomic-structure-practice/);
 the questions below are different. The course hub is [AQA GCSE Chemistry](/boards/aqa/gcse/chemistry/) and the
 [printable checklist](/checklists/aqa/gcse/chemistry/) lists every topic.
 
@@ -240,7 +240,7 @@ Dropping the divide-by-100 step or rounding before the final line are common err
 
 - Recap with the [revision notes](/resources/aqa-gcse-chemistry-8462-atomic-structure-revision-notes/).
 - Reread any weak area in the [study guide](/resources/aqa-gcse-chemistry-8462-atomic-structure/).
-- Practise the rest of topic 4.1 with the [topic 4.1 practice questions](/resources/aqa-gcse-chemistry-atomic-structure-practice/).
+- Practise the rest of topic 4.1 with the [topic 4.1 practice questions](/resources/aqa-gcse-chemistry-8462-atomic-structure-practice/).
 - Go back to the [AQA GCSE Chemistry hub](/boards/aqa/gcse/chemistry/) or the [printable checklist](/checklists/aqa/gcse/chemistry/).
 - Try one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).

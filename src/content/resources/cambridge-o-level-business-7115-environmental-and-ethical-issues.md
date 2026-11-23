@@ -33,7 +33,7 @@ This guide goes deeper into section **6.2 Environmental and ethical issues** of 
 - ethical issues a business might face: conflicts between profits and ethics
 - how business might react and respond to ethical issues, for example child labour and paying fair prices to suppliers.
 
-The combined [environmental, ethical and international guide](/resources/o-level-business-environmental-and-ethical-issues-and-business-and-the-international-economy/) defines each idea. This page focuses on the skill examiners reward most in this section: weighing the **opportunity** against the **constraint** for a particular business. Companion pages: [environmental and ethical issues revision notes](/resources/cambridge-o-level-business-7115-environmental-and-ethical-issues-revision-notes/) and [environmental and ethical issues practice questions](/resources/cambridge-o-level-business-7115-environmental-and-ethical-issues-practice/). All businesses and figures are invented.
+The combined [environmental, ethical and international guide](/resources/o-level-business-environmental-and-ethical-issues-and-business-and-the-international/) defines each idea. This page focuses on the skill examiners reward most in this section: weighing the **opportunity** against the **constraint** for a particular business. Companion pages: [environmental and ethical issues revision notes](/resources/cambridge-o-level-business-7115-environmental-and-ethical-issues-revision-notes/) and [environmental and ethical issues practice questions](/resources/cambridge-o-level-business-7115-environmental-and-ethical-issues-practice/). All businesses and figures are invented.
 
 ## Opportunity or constraint?
 

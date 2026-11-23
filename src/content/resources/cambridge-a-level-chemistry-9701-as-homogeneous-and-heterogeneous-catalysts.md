@@ -140,7 +140,7 @@ Add the two steps and NO₂ and NO cancel, leaving SO₂ + ½O₂ → SO₃. Add
 
 - [Homogeneous and heterogeneous catalysts: revision notes](/resources/cambridge-a-level-chemistry-9701-as-homogeneous-and-heterogeneous-catalysts-revision-notes/)
 - [Homogeneous and heterogeneous catalysts: practice questions](/resources/cambridge-a-level-chemistry-9701-as-homogeneous-and-heterogeneous-catalysts-practice/)
-- [Effect of temperature on reaction rates and activation energy](/resources/cambridge-a-level-chemistry-9701-as-effect-of-temperature-on-reaction-rates-and-the-concept-of-activation-energy/): the Boltzmann distribution this subtopic builds on
+- [Effect of temperature on reaction rates and activation energy](/resources/cambridge-a-level-chemistry-9701-as-effect-of-temperature-on-reaction-rates/): the Boltzmann distribution this subtopic builds on
 - [Chemical Equilibria: Kc, Kp and Le Chatelier's Principle](/resources/as-chemical-equilibria/): why a catalyst leaves the equilibrium position unchanged
 - [Reaction Kinetics: Rate Equations and Catalysis](/resources/a-reaction-kinetics-rate-equations-and-catalysis/): the A Level account of how each type of catalyst works
 

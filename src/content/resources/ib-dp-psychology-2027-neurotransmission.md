@@ -25,7 +25,7 @@ featured: false
 
 The biological approach table in the 2027 IB Psychology guide includes two linked terms: **chemical messengers** and **neurotransmission**. The learning objective for neurotransmission is "the process of neurotransmission and how an understanding of the process of neurotransmission allows psychologists to improve health and wellness". That sentence has two parts: you must be able to describe the process, and you must be able to show how knowing it is useful. This guide teaches both. The guide names no required studies, so the examples are illustrations.
 
-Related: [biological approach study guide](/resources/ib-dp-psychology-biological-approach/), [hormones and pheromones](/resources/ib-ib-dp-psychology-hormones-and-pheromones/), [revision notes](/resources/ib-dp-psychology-2027-neurotransmission-revision-notes/) and [practice set](/resources/ib-dp-psychology-2027-neurotransmission-practice/).
+Related: [biological approach study guide](/resources/ib-dp-psychology-biological-approach/), [hormones and pheromones](/resources/ib-dp-psychology-hormones-and-pheromones/), [revision notes](/resources/ib-dp-psychology-2027-neurotransmission-revision-notes/) and [practice set](/resources/ib-dp-psychology-2027-neurotransmission-practice/).
 
 ## The process of neurotransmission
 

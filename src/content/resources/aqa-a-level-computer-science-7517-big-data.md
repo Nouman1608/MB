@@ -27,7 +27,7 @@ This guide covers **4.11.1 Big Data** in AQA A-Level Computer Science (7517). Th
 
 The wider [Big Data study guide](/resources/aqa-a-level-computer-science-big-data-study-guide/) covers the topic at a broader level. This page works through each strand with numbers and small examples.
 
-Condensed notes are in the [Big Data revision notes](/resources/aqa-a-level-computer-science-7517-big-data-revision-notes/), and exam-style questions are in the [Big Data practice questions](/resources/aqa-a-level-computer-science-7517-big-data-practice/).
+Condensed notes are in the [Big Data revision notes](/resources/aqa-a-level-computer-science-big-data-revision-notes/), and exam-style questions are in the [Big Data practice questions](/resources/aqa-a-level-computer-science-7517-big-data-practice/).
 
 ## What makes data "big"
 
@@ -144,7 +144,7 @@ A graph schema makes it easy to ask questions that follow relationships (for exa
 
 ## Related resources
 
-- [Big Data revision notes](/resources/aqa-a-level-computer-science-7517-big-data-revision-notes/)
+- [Big Data revision notes](/resources/aqa-a-level-computer-science-big-data-revision-notes/)
 - [Big Data practice questions](/resources/aqa-a-level-computer-science-7517-big-data-practice/)
 - [Functional programming paradigm study guide](/resources/aqa-a-level-computer-science-7517-functional-programming-paradigm/)
 

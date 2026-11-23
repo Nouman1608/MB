@@ -144,7 +144,7 @@ Fully saturated blood carries 20 cm³ of oxygen per 100 cm³.
 
 - [Oxygen and carbon dioxide transport study guide](/resources/cambridge-a-level-biology-9700-transport-of-oxygen-and-carbon-dioxide-cambridge/)
 - [Oxygen and carbon dioxide transport revision notes](/resources/cambridge-a-level-biology-9700-transport-of-oxygen-and-carbon-dioxide-cambridge-revision-notes/)
-- [Heart practice questions](/resources/cambridge-a-level-biology-9700-the-heart-cambridge-alevel-biology-practice/)
+- [Heart practice questions](/resources/cambridge-a-level-biology-9700-the-heart-practice/)
 - [Transport in mammals study guide](/resources/a-level-biology-9700-transport-in-mammals/)
 
 ## Official syllabus

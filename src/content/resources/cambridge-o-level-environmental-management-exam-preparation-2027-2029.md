@@ -30,7 +30,7 @@ featured: false
 > assessment objectives are weighted AO1 40%, AO2 35% and AO3 25%, and it
 > lists recommended case studies for each topic and a glossary of terms instead of a
 > command word list. Use the
-> [2025-2026 exam preparation page](/resources/cambridge-o-level-environmental-management-exam-preparation/)
+> [2025-2026 exam preparation page](/resources/cambridge-o-level-environmental-management-exam-preparation-2027-2029/)
 > if you sit in November 2026.
 
 Cambridge O Level Environmental Management 5014 is assessed by two

@@ -171,7 +171,7 @@ D: a current that increases slowly
 
 - Revise with the [generating electricity revision notes](/resources/oxfordaqa-igcse-physics-9203-generating-electricity-oxfordaqa-revision-notes/).
 - Re-read the [generating electricity study guide](/resources/oxfordaqa-igcse-physics-9203-generating-electricity-oxfordaqa/).
-- Continue with the [motor effect practice questions](/resources/oxfordaqa-igcse-physics-9203-the-motor-effect-oxfordaqa-igcse-practice/).
+- Continue with the [motor effect practice questions](/resources/oxfordaqa-igcse-physics-9203-the-motor-effect-practice/).
 
 ## Specification reference
 

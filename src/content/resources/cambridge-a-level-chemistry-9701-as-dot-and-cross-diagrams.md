@@ -139,7 +139,7 @@ The cation has lost its outer shell, so either show nothing in its outer shell o
 
 - [Dot-and-cross diagrams revision notes](/resources/cambridge-a-level-chemistry-9701-as-dot-and-cross-diagrams-revision-notes/)
 - [Dot-and-cross diagrams practice questions](/resources/cambridge-a-level-chemistry-9701-as-dot-and-cross-diagrams-practice/)
-- [Covalent and coordinate bonding study guide](/resources/cambridge-a-level-chemistry-9701-as-covalent-bonding-and-coordinate-dative-covalent-bonding/)
+- [Covalent and coordinate bonding study guide](/resources/cambridge-a-level-chemistry-9701-as-covalent-bonding-and-coordinate-dative-covalent/)
 - [Ionic bonding study guide](/resources/cambridge-a-level-chemistry-9701-as-ionic-bonding/)
 
 *Written against Cambridge International AS & A Level Chemistry 9701, 2025–2027 series. Always check the current syllabus for your examination year.*

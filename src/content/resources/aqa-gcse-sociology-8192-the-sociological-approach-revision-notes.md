@@ -192,7 +192,7 @@ Use these in evaluation by explaining what has changed, not just that a study is
 
 ## Linked resources
 
-Apply the perspectives to topic content in the [families and education revision notes](/resources/aqa-gcse-sociology-families-education-revision-notes/) and the [crime and stratification revision notes](/resources/gcse-sociology-crime-stratification-revision-notes/). For methods, see the [research methods guide](/resources/aqa-gcse-sociology-research-methods/).
+Apply the perspectives to topic content in the [families and education revision notes](/resources/aqa-gcse-sociology-families-education-revision-notes/) and the [crime and stratification revision notes](/resources/gcse-sociology-crime-stratification-revision-notes/). For methods, see the [research methods guide](/resources/aqa-gcse-sociology-8192-research-methods/).
 
 ## Frequently asked questions
 

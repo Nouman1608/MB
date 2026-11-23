@@ -36,8 +36,8 @@ For quick recall, use the [revision notes for this section](/resources/aqa-gcse-
 To test yourself, use the [practice questions for this section](/resources/aqa-gcse-chemistry-8462-atomic-structure-practice/).
 For the rest of topic 4.1, see the
 [topic overview](/resources/gcse-aqa-chemistry-atomic-structure-and-periodic-table/),
-[topic revision notes](/resources/aqa-gcse-chemistry-atomic-structure-revision-notes/) and
-[topic practice questions](/resources/aqa-gcse-chemistry-atomic-structure-practice/). The course hub is
+[topic revision notes](/resources/aqa-gcse-chemistry-8462-atomic-structure-revision-notes/) and
+[topic practice questions](/resources/aqa-gcse-chemistry-8462-atomic-structure-practice/). The course hub is
 [AQA GCSE Chemistry](/boards/aqa/gcse/chemistry/), and the [printable checklist](/checklists/aqa/gcse/chemistry/)
 lists every specification point.
 

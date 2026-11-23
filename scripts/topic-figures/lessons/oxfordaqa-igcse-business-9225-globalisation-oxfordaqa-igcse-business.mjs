@@ -1,6 +1,6 @@
 import { C, svg, panel, t, tl, arrow, path, badge } from '../style.mjs';
 
-export const slug = 'oxfordaqa-igcse-business-9225-globalisation-oxfordaqa-igcse-business';
+export const slug = 'oxfordaqa-igcse-business-9225-globalisation';
 export const figures = [];
 const add = (name, svgText, alt, caption, after) => figures.push({ name, svg: svgText, alt, caption, after });
 

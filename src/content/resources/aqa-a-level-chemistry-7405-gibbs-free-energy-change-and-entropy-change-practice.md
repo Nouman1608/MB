@@ -135,7 +135,7 @@ These questions cover section **3.1.8.2 Gibbs free-energy change, ΔG, and entro
 ## Next steps
 
 - [Gibbs free-energy and entropy revision notes](/resources/aqa-a-level-chemistry-7405-gibbs-free-energy-change-and-entropy-change-revision-notes/)
-- [Rate equations study guide](/resources/aqa-a-level-chemistry-7405-rate-equations/)
+- [Rate equations study guide](/resources/aqa-a-level-chemistry-rate-equations/)
 - [AQA A-Level Chemistry hub](/boards/aqa/a-level/chemistry/)
 
 ## Official syllabus

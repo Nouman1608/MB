@@ -217,7 +217,7 @@ With a table of isotopes, use every column and reject each unsuitable option wit
 Move on to the
 [hazards and uses practice questions](/resources/aqa-gcse-physics-8463-hazards-and-uses-of-radioactive-emissions-practice/).
 The next section is in the
-[nuclear fission and fusion study guide](/resources/aqa-gcse-physics-8463-nuclear-fission-and-fusion-aqa-gcse/).
+[nuclear fission and fusion study guide](/resources/aqa-gcse-physics-8463-nuclear-fission-and-fusion/).
 
 ## Official syllabus
 

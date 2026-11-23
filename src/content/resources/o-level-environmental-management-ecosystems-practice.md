@@ -45,7 +45,7 @@ hydro-electric scheme in a rainforest and a woodland invertebrate survey provide
 > mark tariffs — examination boards hold copyright in their own papers. Use
 > these alongside the official past papers available free from your board.
 
-Related: [Ecosystems study guide (2027-2029)](/resources/cambridge-o-level-environmental-management-ecosystems-biodiversity-and-fieldwork-study-guide/) |
+Related: [Ecosystems study guide (2027-2029)](/resources/cambridge-o-level-environmental-management-ecosystems-biodiversity-and-fieldwork-study/) |
 [Ecosystems revision notes](/resources/o-level-environmental-management-ecosystems-revision-notes/)
 
 ---

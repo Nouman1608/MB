@@ -172,7 +172,7 @@ If the question had given the number of **atoms** instead, you would first divid
 - Condense this section with the [mole concept revision notes](/resources/oxfordaqa-igcse-chemistry-9202-the-mole-concept-revision-notes/).
 - Practise with the [mole concept practice questions](/resources/oxfordaqa-igcse-chemistry-9202-the-mole-concept-practice/).
 - Apply moles to solutions and gases in the [molar concentrations study guide](/resources/oxfordaqa-igcse-chemistry-9202-molar-concentrations/).
-- Review Mᵣ calculations in the [amount of substance study guide](/resources/oxfordaqa-igcse-chemistry-9202-use-of-amount-of-substance-in-relation-to-masses-of-pure-substances/).
+- Review Mᵣ calculations in the [amount of substance study guide](/resources/oxfordaqa-igcse-chemistry-9202-use-of-amount-of-substance-in-relation-to-masses-of-pure/).
 
 ## Official syllabus
 

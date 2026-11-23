@@ -25,7 +25,7 @@ updatedDate: 2026-11-16
 featured: false
 ---
 
-Condensed recall for **6.2 Food systems and spread of diseases** (IB DP Geography, Option F: Food and health). See the [Food and health study guide](/resources/ib-ib-dp-geography-food-health-study-guide/).
+Condensed recall for **6.2 Food systems and spread of diseases** (IB DP Geography, Option F: Food and health). See the [Food and health study guide](/resources/ib-dp-geography-food-health-study-guide/).
 
 ## Food systems
 
@@ -137,4 +137,4 @@ Abdel Omran's original 1971 model described three stages: an age of pestilence a
 
 ## Related resources
 
-- [Option F: Food and health study guide](/resources/ib-ib-dp-geography-food-health-study-guide/)
+- [Option F: Food and health study guide](/resources/ib-dp-geography-food-health-study-guide/)

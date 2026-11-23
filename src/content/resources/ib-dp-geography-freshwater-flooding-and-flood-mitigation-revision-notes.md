@@ -25,7 +25,7 @@ updatedDate: 2026-11-16
 featured: false
 ---
 
-Condensed recall for **1.2 Flooding and flood mitigation** (IB DP Geography, Option A: Freshwater). Fuller explanation is in the [Freshwater study guide](/resources/ib-ib-dp-geography-freshwater-study-guide/).
+Condensed recall for **1.2 Flooding and flood mitigation** (IB DP Geography, Option A: Freshwater). Fuller explanation is in the [Freshwater study guide](/resources/ib-dp-geography-freshwater-study-guide/).
 
 ## Causes of flooding
 
@@ -137,4 +137,4 @@ Compare economic, social, environmental and political dimensions: who pays, who 
 
 ## Related resources
 
-- [Option A: Freshwater study guide](/resources/ib-ib-dp-geography-freshwater-study-guide/)
+- [Option A: Freshwater study guide](/resources/ib-dp-geography-freshwater-study-guide/)

@@ -25,7 +25,7 @@ updatedDate: 2026-11-16
 featured: false
 ---
 
-Condensed recall for **2.4 Ocean management futures** (IB DP Geography, Option B: Oceans and coastal margins). See the [Oceans and coastal margins study guide](/resources/ib-ib-dp-geography-oceans-coastal-margins-study-guide/).
+Condensed recall for **2.4 Ocean management futures** (IB DP Geography, Option B: Oceans and coastal margins). See the [Oceans and coastal margins study guide](/resources/ib-dp-geography-oceans-coastal-margins-study-guide/).
 
 ## Key ideas
 
@@ -148,4 +148,4 @@ The park is managed by **zoning**: some areas allow general use, while others re
 
 ## Related resources
 
-- [Option B: Oceans and coastal margins study guide](/resources/ib-ib-dp-geography-oceans-coastal-margins-study-guide/)
+- [Option B: Oceans and coastal margins study guide](/resources/ib-dp-geography-oceans-coastal-margins-study-guide/)

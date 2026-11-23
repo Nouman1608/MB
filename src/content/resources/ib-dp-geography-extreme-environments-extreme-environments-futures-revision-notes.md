@@ -25,7 +25,7 @@ updatedDate: 2026-11-16
 featured: false
 ---
 
-Condensed recall for **3.4 Extreme environments futures** (IB DP Geography, Option C: Extreme environments). The [Extreme environments study guide](/resources/ib-ib-dp-geography-extreme-environments-study-guide/) has fuller discussion.
+Condensed recall for **3.4 Extreme environments futures** (IB DP Geography, Option C: Extreme environments). The [Extreme environments study guide](/resources/ib-dp-geography-extreme-environments-study-guide/) has fuller discussion.
 
 ## Main driver: climate change
 
@@ -131,4 +131,4 @@ Adaptation options include early warning systems and artificial lowering of dang
 
 ## Related resources
 
-- [Option C: Extreme environments study guide](/resources/ib-ib-dp-geography-extreme-environments-study-guide/)
+- [Option C: Extreme environments study guide](/resources/ib-dp-geography-extreme-environments-study-guide/)

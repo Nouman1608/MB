@@ -170,4 +170,4 @@ D: 15 **[1]**
 - [16.2 study guide](/resources/cambridge-a-level-biology-9700-the-roles-of-genes-in-determining-the-phenotype-cambridge/)
 - [16.2 revision notes](/resources/cambridge-a-level-biology-9700-the-roles-of-genes-in-determining-the-phenotype-cambridge-revision-notes/)
 - [Passage of information from parents to offspring practice questions](/resources/cambridge-a-level-biology-9700-passage-of-information-from-parents-to-offspring-cambridge-practice/)
-- [Gene control practice questions](/resources/cambridge-a-level-biology-9700-gene-control-cambridge-alevel-biology-practice/)
+- [Gene control practice questions](/resources/cambridge-a-level-biology-9700-gene-control-practice/)

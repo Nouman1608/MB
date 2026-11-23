@@ -179,7 +179,7 @@ D: It bends away from the normal.
 
 - Revise with the [refraction revision notes](/resources/oxfordaqa-igcse-physics-9203-refraction-and-total-internal-reflection-oxfordaqa-revision-notes/).
 - Re-read the [refraction study guide](/resources/oxfordaqa-igcse-physics-9203-refraction-and-total-internal-reflection-oxfordaqa/).
-- Practise the earlier subtopic with the [reflection practice questions](/resources/oxfordaqa-igcse-physics-9203-reflection-oxfordaqa-igcse-practice/).
+- Practise the earlier subtopic with the [reflection practice questions](/resources/oxfordaqa-igcse-physics-9203-reflection-practice/).
 
 ## Specification reference
 

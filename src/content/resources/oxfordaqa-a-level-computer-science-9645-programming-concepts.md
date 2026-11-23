@@ -199,7 +199,7 @@ Each call pushes a **stack frame** holding the **return address** (where to resu
 
 - [Programming concepts practice questions](/resources/oxfordaqa-a-level-computer-science-9645-programming-concepts-practice/)
 - [Procedural programming revision notes](/resources/a-computer-science-procedural-revision-notes/)
-- [Stacks study guide](/resources/oxfordaqa-a-level-computer-science-9645-stacks-oxfordaqa-alevel-cs/)
+- [Stacks study guide](/resources/oxfordaqa-a-level-computer-science-9645-stacks/)
 - [OxfordAQA A-level Computer Science course hub](/boards/oxfordaqa/a-level/computer-science/)
 
 ## Official syllabus

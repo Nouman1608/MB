@@ -25,7 +25,7 @@ featured: false
 
 The health and well-being context of IB Psychology (first assessment 2027) asks you to understand **one or more health problems** from this list: obesity, drug misuse or abuse, or social media addiction. The guide gives three areas of study: the **prevalence** of health problems, the role of **social learning**, and the role of **stress**. This guide teaches each area using obesity as the main thread and shows how to switch to drug misuse or social media addiction. It does not repeat the general account of determinants of health and the health belief model, which the health psychology study guide covers.
 
-Related: [health psychology study guide](/resources/ib-ib-dp-psychology-health-psychology-study-guide/), [risk and protective factors](/resources/ib-ib-dp-psychology-risk-and-protective-factors/), [revision notes](/resources/ib-dp-psychology-2027-health-problems-revision-notes/) and [practice set](/resources/ib-dp-psychology-2027-health-problems-practice/).
+Related: [health psychology study guide](/resources/ib-dp-psychology-health-psychology-study-guide/), [risk and protective factors](/resources/ib-dp-psychology-risk-and-protective-factors/), [revision notes](/resources/ib-dp-psychology-2027-health-problems-revision-notes/) and [practice set](/resources/ib-dp-psychology-2027-health-problems-practice/).
 
 ## Why these three areas
 

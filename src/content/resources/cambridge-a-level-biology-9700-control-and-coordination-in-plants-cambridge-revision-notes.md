@@ -139,4 +139,4 @@ These notes condense section **15.2 Control and coordination in plants** of the 
 
 ## Where to go next
 
-Use the [15.2 practice questions](/resources/cambridge-a-level-biology-9700-control-and-coordination-in-plants-cambridge-practice/). For the gene-level detail of DELLA proteins see the [gene control revision notes](/resources/cambridge-a-level-biology-9700-gene-control-cambridge-alevel-biology-revision-notes/); the [Control and coordination revision notes](/resources/a-level-biology-9700-control-and-coordination-revision-notes/) cover the whole topic.
+Use the [15.2 practice questions](/resources/cambridge-a-level-biology-9700-control-and-coordination-in-plants-cambridge-practice/). For the gene-level detail of DELLA proteins see the [gene control revision notes](/resources/cambridge-a-level-biology-9700-gene-control-revision-notes/); the [Control and coordination revision notes](/resources/a-level-biology-9700-control-and-coordination-revision-notes/) cover the whole topic.

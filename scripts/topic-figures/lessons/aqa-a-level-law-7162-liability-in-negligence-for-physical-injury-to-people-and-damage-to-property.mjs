@@ -1,6 +1,6 @@
 import { C, svg, panel, t, tl, arrow, path, badge } from '../style.mjs';
 
-export const slug = 'aqa-a-level-law-7162-liability-in-negligence-for-physical-injury-to-people-and-damage-to-property';
+export const slug = 'aqa-a-level-law-7162-liability-in-negligence-for-physical-injury-to-people-and-damage';
 export const figures = [];
 const add = (name, svgText, alt, caption, after) => figures.push({ name, svg: svgText, alt, caption, after });
 

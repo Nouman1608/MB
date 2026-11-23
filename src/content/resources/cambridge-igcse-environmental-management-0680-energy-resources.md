@@ -182,4 +182,4 @@ A common error is to count nuclear as renewable because it is low-carbon; that w
 
 ## Next steps
 
-Condense this page with the [Energy resources revision notes](/resources/cambridge-igcse-environmental-management-0680-energy-resources-revision-notes/), practise with the [Energy resources practice questions](/resources/cambridge-igcse-environmental-management-0680-energy-resources-practice/), then continue to the [Conservation and management of energy resources study guide](/resources/cambridge-igcse-environmental-management-0680-conservation-and-management-of-energy-resources/).
+Condense this page with the [Energy resources revision notes](/resources/cambridge-igcse-environmental-management-0680-energy-resources-revision-notes/), practise with the [Energy resources practice questions](/resources/cambridge-igcse-environmental-management-0680-energy-resources-practice/), then continue to the [Conservation and management of energy resources study guide](/resources/cambridge-igcse-environmental-management-0680-conservation-and-management-of-energy/).

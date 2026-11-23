@@ -177,4 +177,4 @@ Condensed notes for sub-topic 1.4. Step-by-step explanations and two worked exam
 
 ## Where to go next
 
-Try the [Energy resources practice questions](/resources/cambridge-igcse-environmental-management-0680-energy-resources-practice/), then revise the [Conservation and management of energy resources revision notes](/resources/cambridge-igcse-environmental-management-0680-conservation-and-management-of-energy-resources-revision-notes/).
+Try the [Energy resources practice questions](/resources/cambridge-igcse-environmental-management-0680-energy-resources-practice/), then revise the [Conservation and management of energy resources revision notes](/resources/cambridge-igcse-environmental-management-0680-conservation-and-management-of-energy-revision-notes/).

@@ -210,6 +210,6 @@ The array version above is **static**: its size is fixed, so it needs a full tes
 - [Stacks revision notes](/resources/aqa-a-level-computer-science-7517-stacks-revision-notes/)
 - [Stacks practice questions](/resources/aqa-a-level-computer-science-7517-stacks-practice/)
 - [Queues study guide](/resources/aqa-a-level-computer-science-7517-queues/)
-- [Programming study guide, including stack frames](/resources/aqa-a-level-computer-science-7517-programming-aqa-alevel-cs/)
+- [Programming study guide, including stack frames](/resources/aqa-a-level-computer-science-7517-programming/)
 
 *Written against the AQA A-level Computer Science (7517) specification, 4.2.3 Stacks. Always check the current specification on the AQA website.*

@@ -139,8 +139,8 @@ Half-lives range from fractions of a second to billions of years. The **most uns
 
 - [Radiation revision notes](/resources/oxfordaqa-igcse-physics-9203-ionizing-radiation-from-the-nucleus-revision-notes/)
 - [Radiation practice questions](/resources/oxfordaqa-igcse-physics-9203-ionizing-radiation-from-the-nucleus-practice/)
-- [Atomic structure study guide](/resources/oxfordaqa-igcse-physics-9203-atomic-structure-oxfordaqa-igcse/)
-- [Nuclear fission study guide](/resources/oxfordaqa-igcse-physics-9203-nuclear-fission-oxfordaqa-igcse/)
+- [Atomic structure study guide](/resources/oxfordaqa-igcse-physics-9203-atomic-structure/)
+- [Nuclear fission study guide](/resources/oxfordaqa-igcse-physics-9203-nuclear-fission/)
 
 ## Specification reference
 

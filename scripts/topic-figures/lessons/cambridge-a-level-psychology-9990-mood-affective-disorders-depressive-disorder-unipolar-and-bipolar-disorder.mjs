@@ -1,6 +1,6 @@
 import { C, svg, panel, t, tl, arrow, path, badge } from '../style.mjs';
 
-export const slug = 'cambridge-a-level-psychology-9990-mood-affective-disorders-depressive-disorder-unipolar-and-bipolar-disorder';
+export const slug = 'cambridge-a-level-psychology-9990-mood-affective-disorders-depressive-disorder-unipolar';
 export const figures = [];
 const add = (name, svgText, alt, caption, after) => figures.push({ name, svg: svgText, alt, caption, after });
 

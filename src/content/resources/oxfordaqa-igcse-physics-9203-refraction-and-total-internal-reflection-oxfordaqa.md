@@ -146,7 +146,7 @@ An optical fibre is a thin, flexible strand of glass or plastic. Light, or infra
 
 - [Refraction revision notes](/resources/oxfordaqa-igcse-physics-9203-refraction-and-total-internal-reflection-oxfordaqa-revision-notes/)
 - [Refraction practice questions](/resources/oxfordaqa-igcse-physics-9203-refraction-and-total-internal-reflection-oxfordaqa-practice/)
-- [Reflection study guide](/resources/oxfordaqa-igcse-physics-9203-reflection-oxfordaqa-igcse/)
+- [Reflection study guide](/resources/oxfordaqa-igcse-physics-9203-reflection/)
 - [Lenses, image formation and the eye](/resources/oxfordaqa-igcse-physics-lenses-image-formation-and-the-eye/)
 
 ## Specification reference

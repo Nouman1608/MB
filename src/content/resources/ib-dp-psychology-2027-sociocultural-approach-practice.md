@@ -25,7 +25,7 @@ featured: false
 
 > **These are original questions written for Marlbridge** on the sociocultural approach (content) of IB DP Psychology, first assessment 2027. They are not past-paper questions, and the scenarios are invented. The guide says that Paper 1 Section A asks you to explain or describe a psychological idea and give an example, and Section B asks you to apply content to an unseen situation in one of the four contexts. Question 11 uses the 15-mark tariff of the concept-based extended response; other tariffs are for practice.
 
-Related: [sociocultural approach study guide](/resources/ib-ib-dp-psychology-sociocultural-approach-study-guide/) and [revision notes](/resources/ib-ib-dp-psychology-sociocultural-approach-revision-notes/).
+Related: [sociocultural approach study guide](/resources/ib-dp-psychology-sociocultural-approach-study-guide/) and [revision notes](/resources/ib-dp-psychology-sociocultural-approach-revision-notes/).
 
 ## Section A
 

@@ -147,7 +147,7 @@ Then state the group, the likely period, and an identity consistent with all the
 
 - [Chemical periodicity of other elements: revision notes](/resources/cambridge-a-level-chemistry-9701-as-chemical-periodicity-of-other-elements-revision-notes/)
 - [Chemical periodicity of other elements: practice questions](/resources/cambridge-a-level-chemistry-9701-as-chemical-periodicity-of-other-elements-practice/)
-- [Periodicity of chemical properties in Period 3](/resources/cambridge-a-level-chemistry-9701-as-periodicity-of-chemical-properties-of-the-elements-in-period-3/): the patterns these predictions rely on
+- [Periodicity of chemical properties in Period 3](/resources/cambridge-a-level-chemistry-9701-as-periodicity-of-chemical-properties-of-the-elements/): the patterns these predictions rely on
 - [Group 2: The Alkaline Earth Metals](/resources/as-group-2-the-alkaline-earth-metals/): trends down a group
 - [Atomic Structure: Orbitals and Ionisation Energy](/resources/as-atomic-structure-orbitals-and-ionisation-energy/): successive ionisation energies
 

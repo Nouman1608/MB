@@ -142,4 +142,4 @@ For a force F moving an object at constant velocity v in its own direction, the 
 
 ## Where this subtopic leads
 
-Work done is the bridge to the energy accounts of 3.2.8. Continue with the [conservation of energy study guide](/resources/oxfordaqa-a-level-physics-9630-conservation-of-energy-oxfordaqa-alevel/); the forces that do the work come from the [Newton's laws of motion study guide](/resources/oxfordaqa-a-level-physics-9630-newtons-laws-of-motion-oxfordaqa/).
+Work done is the bridge to the energy accounts of 3.2.8. Continue with the [conservation of energy study guide](/resources/oxfordaqa-a-level-physics-9630-conservation-of-energy/); the forces that do the work come from the [Newton's laws of motion study guide](/resources/oxfordaqa-a-level-physics-9630-newtons-laws-of-motion-oxfordaqa/).

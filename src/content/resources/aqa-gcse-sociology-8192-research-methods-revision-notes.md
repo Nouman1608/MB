@@ -48,7 +48,7 @@ These notes condense the [research methods study guide](/resources/aqa-gcse-soci
 
 They cover section 3.7, Sociological research methods, of the AQA GCSE Sociology (8192) specification, Version 1.2 (June 2026), for GCSE exams 2019 onwards: research design, qualitative and quantitative methods, different types of data, primary and secondary sources, interpretation of data, practical issues and ethical issues. Methods are not a separate paper. Paper 1 (The sociology of families and education) and Paper 2 (The sociology of crime and deviance and social stratification) both assess "relevant areas of social theory and methodology", so expect methods questions set in any topic.
 
-When you have revised, try the [research methods practice questions](/resources/aqa-gcse-sociology-8192-research-methods-practice/). Track your progress on the [AQA GCSE Sociology hub](/boards/aqa/gcse/sociology/) and the [8192 checklist](/checklists/aqa/gcse/sociology/). The older [research methods overview](/resources/aqa-gcse-sociology-research-methods/) is a one-page summary.
+When you have revised, try the [research methods practice questions](/resources/aqa-gcse-sociology-8192-research-methods-practice/). Track your progress on the [AQA GCSE Sociology hub](/boards/aqa/gcse/sociology/) and the [8192 checklist](/checklists/aqa/gcse/sociology/). The older [research methods overview](/resources/aqa-gcse-sociology-8192-research-methods/) is a one-page summary.
 
 ## What the specification asks you to do
 

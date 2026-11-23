@@ -124,7 +124,7 @@ Energy is dissipated to the surroundings at each stage, mostly by heating, so th
 
 - [Generating electricity revision notes](/resources/oxfordaqa-igcse-physics-9203-generating-electricity-oxfordaqa-revision-notes/)
 - [Generating electricity practice questions](/resources/oxfordaqa-igcse-physics-9203-generating-electricity-oxfordaqa-practice/)
-- [The motor effect study guide](/resources/oxfordaqa-igcse-physics-9203-the-motor-effect-oxfordaqa-igcse/)
+- [The motor effect study guide](/resources/oxfordaqa-igcse-physics-9203-the-motor-effect/)
 - [Transformers and the national grid](/resources/oxfordaqa-igcse-physics-transformers-and-the-national-grid/)
 
 ## Specification reference

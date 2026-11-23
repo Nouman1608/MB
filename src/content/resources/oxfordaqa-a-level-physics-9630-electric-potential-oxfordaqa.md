@@ -158,7 +158,7 @@ For the +20 nC charge at r = 0.30 m, E = 179.8 / 0.30² = 2.0 × 10³ V m⁻¹. 
 - [Electric potential revision notes](/resources/oxfordaqa-a-level-physics-9630-electric-potential-oxfordaqa-revision-notes/)
 - [Electric potential practice questions](/resources/oxfordaqa-a-level-physics-9630-electric-potential-oxfordaqa-practice/)
 - [Electric field strength study guide](/resources/oxfordaqa-a-level-physics-9630-electric-field-strength-oxfordaqa/)
-- [Capacitors study guide](/resources/oxfordaqa-a-level-physics-9630-capacitors-oxfordaqa-alevel/)
+- [Capacitors study guide](/resources/oxfordaqa-a-level-physics-9630-capacitors/)
 
 ## Official syllabus
 
