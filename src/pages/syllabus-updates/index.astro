@@ -45,7 +45,7 @@ function componentLabel(paperCode: string, title: string): string {
   if (!t) return code;
   if (!code) return t;
   const repeats = t.toLowerCase() === code.toLowerCase()
-    || (t.toLowerCase().startsWith(code.toLowerCase()) && /^[s:-–—(]/.test(t.slice(code.length)));
+    || (t.toLowerCase().startsWith(code.toLowerCase()) && /^[\s:\-–—(]/.test(t.slice(code.length)));
   return repeats ? t : `${code}: ${t}`;
 }
 
