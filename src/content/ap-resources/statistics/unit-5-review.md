@@ -1,7 +1,7 @@
 ---
 resourceId: "mb-ap-stats-u5-review"
 title: "Regression Analysis: Mixed Unit Review (Statistics Unit 5)"
-description: "Unit 5 review for AP Statistics: big ideas, a method summary and seven original exam-style questions, with worked solutions and suggested rubrics."
+description: "Unit 5 review for Statistics: big ideas, a method summary and seven original exam-style questions, with worked solutions and suggested rubrics."
 course: "statistics"
 unit: 5
 topics: []

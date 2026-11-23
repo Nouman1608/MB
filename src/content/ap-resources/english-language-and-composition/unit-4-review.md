@@ -2,7 +2,7 @@
 resourceId: mb-ap-englang-u4-review
 title: 'Introductions, Conclusions and Further Methods of Development: Mixed Unit Review (English Language Unit 4)'
 seoTitle: "English Language Unit 4 Introductions and Conclusions Review"
-description: "Unit 4 review for AP English Language: big ideas, a method summary and seven original exam-style questions, with worked answers and suggested rubrics."
+description: "Unit 4 review for English Language: big ideas, a method summary and seven original exam-style questions, with worked answers and suggested rubrics."
 course: english-language-and-composition
 unit: 4
 topics: []
