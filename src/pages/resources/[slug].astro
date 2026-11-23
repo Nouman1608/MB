@@ -24,6 +24,7 @@ import { courseSubjectNameOverride, ONLINE_ONLY_SUBJECTS } from '../../data/acad
 import { teachersForSubjectTitle } from '../../utils/content/subject-teachers';
 import ResourceNextSteps from '../../components/tools/ResourceNextSteps.astro';
 import ResourceTutoringPrompt from '../../components/tools/ResourceTutoringPrompt.astro';
+import SubscribeBox from '../../components/tools/SubscribeBox.astro';
 import { resourceNextSteps, resourceCoursePlans } from '../../utils/content/resource-next-steps';
 import { topicAnchor } from '../../utils/academic/course-topics';
 import { STUDY_KIND } from '../../utils/academic/combination-resources';
@@ -292,6 +293,20 @@ const searchTitle = resourceSearchTitle({
   qualifications: d.qualifications,
   syllabusCodes: d.syllabusCodes,
 });
+
+// Audit P13/P17 -- the end-of-page tuition block: the full prompt where classes are
+// offered, a plain wrapper (with the "not offering" note) where they are not.
+const TuitionBlock = classesAvailable ? ResourceTutoringPrompt : 'div';
+const tuitionBlockProps = classesAvailable
+  ? {
+      label: taughtCourseLabel ?? (studyLabel || subject?.data.title || 'this subject'),
+      trialHref: courseTrialHref,
+      formatPhrase,
+      onlineOnly: matrixSubjects.some((s) => ONLINE_ONLY_SUBJECTS.includes(s)),
+      note: `${oneToOneOnlyFee} ${PRICING_TERMS.enquiryResponse.short}`,
+      class: 'mt-0',
+    }
+  : { 'data-testid': 'no-classes' };
 ---
 <PageLayout
   title={searchTitle}
@@ -476,18 +491,6 @@ const searchTitle = resourceSearchTitle({
 
       <VideoSection videos={videos} heading="Watch the lesson" id="resource-videos" />
 
-      {/* Conversion round (8 Oct 2026) -- the tuition prompt where the lesson
-          ends; see ResourceTutoringPrompt.astro. Only where classes are
-          really offered (classesAvailable, D-296). */}
-      {classesAvailable && (
-        <ResourceTutoringPrompt
-          label={taughtCourseLabel ?? (studyLabel || subject?.data.title || 'this subject')}
-          trialHref={courseTrialHref}
-          formatPhrase={formatPhrase}
-          onlineOnly={matrixSubjects.some((s) => ONLINE_ONLY_SUBJECTS.includes(s))}
-        />
-      )}
-
       {(siblings.prev || siblings.next) && (
         <nav aria-label="Topic sequence" class="mt-12 grid gap-4 border-t border-rule pt-6 sm:grid-cols-2">
           {siblings.prev && (
@@ -505,7 +508,7 @@ const searchTitle = resourceSearchTitle({
         </nav>
       )}
 
-      <ResourceNextSteps resource={resource} plan={nextStepsPlan} options={coursePlans.length > 1 ? coursePlans.map((p) => ({ id: p.id, steps: p.steps })) : undefined} />
+      <ResourceNextSteps resource={resource} plan={nextStepsPlan} showSubscribe={false} options={coursePlans.length > 1 ? coursePlans.map((p) => ({ id: p.id, steps: p.steps })) : undefined} />
 
       {alsoResources.length > 0 && (
         <RelatedGrid id="also-resources" title="Related resources">
@@ -521,26 +524,23 @@ const searchTitle = resourceSearchTitle({
     </Container>
   </Section>
 
+  {/* Audit P13/P17 (23 Nov 2026) -- ONE tuition block, at the end of the page
+      (D2: the other prompt is the short line under the title). It used to be
+      two blocks (a boxed prompt after the notes, plus this band), each with a
+      small eyebrow line that read as a stray heading, and the country list
+      sat in the middle of the page. The teachers list is this block's slot. */}
   <Section surface="ivory" spacing="md" searchIgnore border>
     <Container>
-      <div class="grid items-start gap-6 lg:grid-cols-[1.5fr_1fr] lg:gap-[clamp(32px,5vw,72px)]">
-        <div>
-          <p class="m-0 mb-3 mb-eyebrow text-teal-700">Studying this with a teacher</p>
-          <h2 class="m-0 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">
-            {studyLabel ? `Working through ${studyLabel}?` : 'Working through this with a teacher?'}
-          </h2>
-          {classesAvailable ? (
-            <p class="m-0 mt-4 max-w-[62ch] text-[16.5px] leading-[1.65] text-ink-mute">
-              This page is free and stays free. If you would rather be taught it, Marlbridge runs
-              {' '}{subject?.data.title ?? 'this subject'} classes {formatPhrase},
-              online in your own time zone.{oneToOneOnlyFee} {PRICING_TERMS.freeTrial} {PRICING_TERMS.enquiryResponse.short}
-            </p>
-          ) : (
+      <TuitionBlock {...tuitionBlockProps}>
+        {!classesAvailable && (
+          <>
+            <h2 class="m-0 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">{subject?.data.title ? `Studying ${subject.data.title}?` : 'Studying this subject?'}</h2>
             <p class="m-0 mt-4 max-w-[62ch] text-[16.5px] leading-[1.65] text-ink-mute">
               This page is free and stays free. Marlbridge is not offering {subject?.data.title ?? 'this subject'} classes
               at the moment, so there is no tuition to book for it. The free study resources stay open to everyone.
             </p>
-          )}
+          </>
+        )}
           {subjectTeachers.length > 0 && (
             <div data-testid="subject-teachers" class="mt-6">
               <p class="m-0 mb-3 mb-label text-teal-700">{teacherBoardLabel ? `${teacherBoardLabel} ${subject?.data.title} teachers at Marlbridge` : `${subject?.data.title} teachers at Marlbridge`}</p>
@@ -567,18 +567,19 @@ const searchTitle = resourceSearchTitle({
               </ul>
             </div>
           )}
-        </div>
-        <div class="flex flex-col items-start gap-3 lg:pt-10">
-          {classesAvailable ? (
-            <>
-              <a href={courseTrialHref} data-cta="resource-trial" class="inline-flex min-h-11 items-center justify-center rounded-sm bg-navy-800 px-6 py-3 text-[15px] font-medium text-ivory transition-colors duration-150 hover:bg-navy-700">Request a free trial</a>
-              <a href={routes.tutoring} class="text-[15px] font-medium text-navy-800 underline decoration-teal-500 underline-offset-4 hover:text-teal-700">Meet the teachers</a>
-            </>
-          ) : (
-            <a href={routes.resources} class="inline-flex min-h-11 items-center justify-center rounded-sm border border-navy-800 px-6 py-3 text-[15px] font-medium text-navy-800 hover:bg-white">Browse free resources</a>
-          )}
-        </div>
-      </div>
+        {classesAvailable ? (
+          <p class="m-0 mt-4 text-[15px]"><a href={routes.tutoring} class="font-medium text-navy-800 underline decoration-teal-500 underline-offset-4 hover:text-teal-700">Meet the teachers</a></p>
+        ) : (
+          <p class="m-0 mt-5"><a href={routes.resources} class="inline-flex min-h-11 items-center justify-center rounded-sm border border-navy-800 px-6 py-3 text-[15px] font-medium text-navy-800 hover:bg-white">Browse free resources</a></p>
+        )}
+      </TuitionBlock>
+    </Container>
+  </Section>
+
+  {/* Audit P13 -- the optional revision-email box is the last thing on the page. */}
+  <Section surface="white" spacing="md" searchIgnore>
+    <Container>
+      <SubscribeBox source="resource" preset={nextStepsPlan.course ? { qualification: nextStepsPlan.course.qualificationSlug, courseId: `${nextStepsPlan.course.boardSlug}/${nextStepsPlan.course.qualificationSlug}/${nextStepsPlan.course.subjectSlug}` } : undefined} />
     </Container>
   </Section>
 </PageLayout>
