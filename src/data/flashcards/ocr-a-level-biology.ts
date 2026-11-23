@@ -2,8 +2,8 @@
  * D-444 -- flashcards for OCR A Level Biology A H420
  * (Version 4.1 (April 2026), for first assessment in 2025).
  *
- * Every card sits on a subtopic of the syllabus record (1.1-1.2, 2.1.1-2.1.6,
- * 3.1.1-6.3.2), id `<subtopic number>-<n>`. Modules 3-6 were itemised on
+ * Every card sits on a subtopic of the syllabus record (1.1-1.2, 1.1.1-1.2.2,
+ * 2.1.1-2.1.6, 3.1.1-6.3.2), id `<subtopic number>-<n>`. Modules 3-6 were itemised on
  * 2026-11-05; their earlier topic-level cards (ids `<module>-<n>`) moved to
  * subtopic ids then. Ids are permanent (browser progress is keyed by them):
  * add a new card with the next unused n, never renumber.
@@ -41,6 +41,12 @@ const M6 = 'genetics-evolution-and-ecosystems-ocr-alevel-biology';
 
 const PLAN = 'ocr-a-level-biology-planning-implementing-analysing-and-evaluating-revision-notes';
 const PEND = 'ocr-a-level-biology-practical-endorsement-skills-apparatus-and-techniques-revision-notes';
+const PL1 = 'ocr-a-level-biology-h420-planning-ocr-alevel-biology-revision-notes';
+const IM1 = 'ocr-a-level-biology-h420-implementing-ocr-alevel-biology-revision-notes';
+const AN1 = 'ocr-a-level-biology-h420-analysis-ocr-alevel-biology-revision-notes';
+const EV1 = 'ocr-a-level-biology-h420-evaluation-ocr-alevel-biology-revision-notes';
+const PS1 = 'ocr-a-level-biology-h420-practical-skills-ocr-alevel-biology-revision-notes';
+const AP1 = 'ocr-a-level-biology-h420-use-of-apparatus-and-techniques-ocr-alevel-biology-revision-notes';
 const CS = 'ocr-a-level-biology-cell-structure-microscopy-and-prokaryotes-versus-revision-notes';
 const WCL = 'ocr-a-level-biology-water-carbohydrates-and-lipids-revision-notes';
 const IMMO = 'ocr-a-level-biology-specific-immunity-vaccination-and-medicines-revision-notes';
@@ -63,7 +69,7 @@ export const DECK_OCR_A_LEVEL_BIOLOGY: FlashcardDeck = {
   syllabusCode: 'H420',
   syllabusSeries: 'Version 4.1 (April 2026), for first assessment in 2025',
   author: 'marlbridge-academic-team',
-  updated: '2026-11-05',
+  updated: '2026-11-20',
   deckReview: { reviewerSlug: 'hina-mogul', reviewedOn: '2026-11-05' },
   cards: [
     // Module 1 Development of practical skills in biology
@@ -93,6 +99,59 @@ export const DECK_OCR_A_LEVEL_BIOLOGY: FlashcardDeck = {
       { n: 9, f: 'Capture–mark–recapture estimate and assumptions', b: 'N = (M × n) ÷ m, where M = number first marked, n = second sample, m = marked in the second sample. Assumes a closed population, lasting harmless marks and full mixing. Example: 30 × 25 ÷ 5 = 150.' },
       { n: 10, f: 'Label vs annotation on a biological drawing', b: 'A label names a structure. An annotation describes or explains it.', src: PEND },
       { n: 11, f: 'Ethics when using human volunteers in practical work', b: 'Informed consent, the right to stop, no strenuous activity where a health condition makes it unsafe, and results kept anonymous.' },
+    ]),
+    ...sub(M1, 'planning-ocr-alevel-biology', '1.1.1', [
+      { n: 1, f: 'How many values and repeats should an investigation plan include?', b: 'A range of the independent variable with at least five evenly spaced values, and three or more repeats at each so a mean can be found and anomalies spotted. Give numerical values for volumes, times and temperatures.', src: PL1 },
+      { n: 2, f: 'Pilot study, range and interval', b: 'Pilot study: a short trial to check range, timing and apparatus.\nRange: lowest to highest value of the independent variable.\nInterval: the gap between successive values.', src: PL1 },
+      { n: 3, f: 'Effect of temperature on the rate of amylase breaking down starch: name the variables', b: 'Independent: temperature. Dependent: rate of starch breakdown, such as the time for starch to disappear with iodine.\nControlled, any two: pH, enzyme concentration, starch concentration, volumes.' },
+      { n: 4, f: 'How can temperature, pH and volumes be held constant?', b: 'Temperature: thermostatic water bath, pre-warming solutions before mixing.\npH: buffer solutions of known pH.\nVolumes: the same syringe or graduated pipette each time.\n"Keep everything else the same" scores nothing.', src: PL1 },
+      { n: 5, f: 'How do you make 10 cm³ of a 30 % solution from a 100 % stock?', b: 'Mix 3 cm³ of stock with 7 cm³ of distilled water. The total volume must be the same in every tube of a dilution series.', src: PL1 },
+      { n: 6, f: 'Which apparatus is the better choice for gas volume, small liquid volumes and colour change?', b: 'Gas: a gas syringe, not counting bubbles.\nSmall liquid volumes: graduated pipette or syringe, not a measuring cylinder.\nColour: a colorimeter, not the eye.', src: PL1 },
+    ]),
+    ...sub(M1, 'implementing-ocr-alevel-biology', '1.1.2', [
+      { n: 1, f: 'How do you read a liquid volume and use a balance correctly?', b: 'Read with your eye level with the bottom of the meniscus. Tare the balance with the empty container on it, and blot tissue dry before weighing.', src: IM1 },
+      { n: 2, f: 'Why is a colorimeter zeroed with a blank?', b: 'The blank has no coloured substance, so absorbance from the solvent or cuvette is not included in the readings. Use the same cuvette and the correct filter throughout.', src: IM1 },
+      { n: 3, f: 'Convert 0.18 mm to μm, 2.5 dm³ to cm³ and 90 s to minutes', b: '0.18 × 1000 = 180 μm.\n2.5 × 1000 = 2500 cm³.\n90 ÷ 60 = 1.5 min.\nCheck: a smaller unit gives a bigger number.', src: IM1 },
+      { n: 4, f: 'Calculate a rate: 15 cm³ of gas in 2.5 min. How is a rate found from a time?', b: 'Rate = change ÷ time = 15 ÷ 2.5 = 6.0 cm³ min⁻¹.\nFrom a time to an end point, rate = 1 ÷ time, so a reaction taking 20 s is faster than one taking 40 s.' },
+      { n: 5, f: 'How should a results table be laid out?', b: 'Ruled lines; independent variable in the first column; quantity and unit in the column headings, not in the cells; decimal places matching the instrument (3.10 g on a 0.01 g balance); columns for repeats and the mean.', src: IM1 },
+      { n: 6, f: 'What makes a good observation, and how is 0.0040 mol dm⁻³ written in standard form?', b: 'Exact and checkable: "blue to brick-red after 90 s", not "it changed". Record the colour at start and end and the time.\n0.0040 mol dm⁻³ = 4.0 × 10⁻³ mol dm⁻³.', src: IM1 },
+    ]),
+    ...sub(M1, 'analysis-ocr-alevel-biology', '1.1.3', [
+      { n: 1, f: 'Standard deviation formula, and s for 8.0, 8.5 and 9.0 cm³', b: 's = √[Σ(x − x̄)² ÷ (n − 1)]. Mean 8.5; Σ(x − x̄)² = 0.50; 0.50 ÷ 2 = 0.25.\ns = 0.50 cm³. Divide by n − 1, not n.', src: AN1 },
+      { n: 2, f: 'Chi-squared, t-test or Spearman: which test for which data?', b: 'Chi-squared: observed against expected counts in categories.\nStudent’s t-test: means of two sets of continuous data.\nSpearman’s rank: correlation between paired measurements.', src: AN1 },
+      { n: 3, f: 'Degrees of freedom for each test, and the standard conclusion at p = 0.05', b: 'Chi-squared: categories − 1. Unpaired t-test: n₁ + n₂ − 2. Spearman: use n pairs.\nCalculated ≥ critical: reject the null hypothesis; the chance of the result being due to chance alone is 5 % or less.', src: AN1 },
+      { n: 4, f: 'Spearman: Σd² = 68 and n = 6. Find rₛ and say if it is significant (critical value 0.886).', b: 'rₛ = 1 − 6Σd² ÷ n(n² − 1) = 1 − 408 ÷ 210 = −0.94.\nIgnore the sign: 0.94 ≥ 0.886, so there is a significant negative correlation.', src: AN1 },
+      { n: 5, f: 'How do you find a gradient from a line of best fit?', b: '(y₂ − y₁) ÷ (x₂ − x₁), using two points far apart on the line, not two data points. Unit: y unit per x unit.\nExample: (30, 4.5) and (150, 22.5) gives 18.0 ÷ 120 = 0.15 cm³ s⁻¹.', src: AN1 },
+      { n: 6, f: 'A tangent at time zero passes through (0, 0) and (20, 16). Find the initial rate.', b: 'Gradient = 16 ÷ 20 = 0.80 cm³ s⁻¹, taking the y-axis as volume in cm³ and the x-axis as time in s.' },
+      { n: 7, f: 'What makes a valid conclusion from results?', b: 'State the relationship shown, quote values, say the data support or do not support the hypothesis, explain with biology and add the statistical result. Never say "proves"; correlation is not causation.', src: AN1 },
+    ]),
+    ...sub(M1, 'evaluation-ocr-alevel-biology', '1.1.4', [
+      { n: 1, f: 'Random error vs systematic error', b: 'Random: unpredictable scatter, reduced by repeating.\nSystematic: a consistent shift, such as a thermometer reading 3 °C high. Repeating does not remove it; calibrate or change the method.', src: EV1 },
+      { n: 2, f: 'Uncertainty of a balance, a syringe and a measuring cylinder', b: 'Half the smallest division: balance reading to 0.01 g, ±0.005 g; syringe to 0.1 cm³, ±0.05 cm³; measuring cylinder to 1 cm³, ±0.5 cm³.', src: EV1 },
+      { n: 3, f: 'Percentage error formula, for 4.0 cm³ in a syringe reading to 0.1 cm³', b: 'Percentage error = 2 × absolute uncertainty ÷ quantity × 100 %.\n2 × 0.05 ÷ 4.0 × 100 = 2.5 %.', src: EV1 },
+      { n: 4, f: 'A mass falls from 3.10 g to 2.79 g on a 0.01 g balance. What is the percentage error in the change?', b: 'Change = 0.31 g. The uncertainties add: ±0.005 + ±0.005 = ±0.01 g.\n0.01 ÷ 0.31 × 100 = 3.2 %.' },
+      { n: 5, f: 'Repeats give 12.0, 12.4 and 15.9 cm³. How do you deal with the anomaly?', b: '15.9 cm³ does not fit the repeats. Suggest a cause (air bubble, timing error), repeat if possible, otherwise leave it out and say so. Mean without it: 12.2 cm³.', src: EV1 },
+      { n: 6, f: 'Weakness, effect, improvement: a water bath on a hotplate drifts in temperature', b: 'Weakness: temperature not controlled. Effect: the rate is measured at the wrong temperature. Improvement: a thermostatically controlled water bath.', src: EV1 },
+      { n: 7, f: 'How can you reduce the percentage error in a measurement?', b: 'Use an instrument with a smaller uncertainty, measure a larger quantity, or (for a difference) arrange a larger change.', src: EV1 },
+    ]),
+    ...sub(M1, 'practical-skills-ocr-alevel-biology', '1.2.1', [
+      { n: 1, f: 'What are the five CPAC competencies?', b: '1 follows written procedures; 2 applies investigative approaches when using instruments and equipment; 3 safely uses a range of equipment and materials; 4 makes and records observations; 5 researches, references and reports.', src: PS1 },
+      { n: 2, f: 'How is the Practical Endorsement reported, and can you work in a group?', b: 'As a Pass or not, separate from the A Level grade, with a minimum of 12 activities. You may work in groups but must show independent evidence of your own competence.', src: PS1 },
+      { n: 3, f: 'Name the 12 Practical Activity Groups', b: 'PAG1 microscopy; 2 dissection; 3 sampling; 4 enzyme rates; 5 colorimeter or potometer; 6 chromatography or electrophoresis; 7 microbiology; 8 transport in and out of cells; 9 qualitative testing; 10 data logger or modelling; 11 plant or animal responses; 12 research skills.', src: PS1 },
+      { n: 4, f: 'Hazard, risk and control measure', b: 'Hazard: something that could cause harm.\nRisk: the likelihood and seriousness of that harm.\nControl measure: an action that reduces the risk.', src: PS1 },
+      { n: 5, f: 'Give a control measure for a scalpel, hydrogen peroxide and bacterial cultures', b: 'Scalpel: cut onto a tile, away from the body.\nHydrogen peroxide: eye protection, rinse splashes.\nBacteria: aseptic technique, disinfect and wash hands. "Be careful" is not a control measure.', src: PS1 },
+      { n: 6, f: 'What should a good practical record contain, and when is it written?', b: 'Date, title, aim, apparatus, method and changes, raw data table, observations, calculations and graphs, conclusion, evaluation and references. Record data at the time, not afterwards.', src: PS1 },
+      { n: 7, f: 'How should sources be judged and cited in research?', b: 'Use several sources and judge reliability by author, date, evidence and whether it is a primary source. Cite each one with author, year, title and publisher or journal; never copy text without credit.', src: PS1 },
+    ]),
+    ...sub(M1, 'use-of-apparatus-and-techniques-ocr-alevel-biology', '1.2.2', [
+      { n: 1, f: 'A calibration curve gives gradient 0.75 absorbance per mmol dm⁻³. Find the concentration at absorbance 0.36.', b: 'Concentration = 0.36 ÷ 0.75 = 0.48 mmol dm⁻³. The curve is made from standards of known concentration, with a blank, the same cuvette and a complementary filter.', src: AP1 },
+      { n: 2, f: 'How do you set up a potometer?', b: 'Cut the shoot and assemble the apparatus under water so no air enters the xylem; seal the joints; then measure the distance the air bubble moves in a set time.', src: AP1 },
+      { n: 3, f: 'Ten-fold and two-fold serial dilutions of a 1.0 mol dm⁻³ stock', b: 'Ten-fold: 1 cm³ into 9 cm³ of water each step: 0.1, 0.01, 0.001.\nTwo-fold: 5 cm³ into 5 cm³: 0.5, 0.25, 0.125. Use a clean tip each time, as errors carry through.', src: AP1 },
+      { n: 4, f: '50 graticule divisions match 40 stage divisions of 10 μm. How long is a cell of 6.5 divisions?', b: '40 × 10 = 400 μm for 50 divisions, so one division = 8.0 μm.\nCell = 6.5 × 8.0 = 52 μm. Calibrate each objective separately.', src: AP1 },
+      { n: 5, f: 'Magnification of a 78 mm drawing of a 0.052 mm cell', b: 'Magnification = size of image ÷ size of real object, in the same units: 78 ÷ 0.052 = × 1500.', src: AP1 },
+      { n: 6, f: 'Chemical tests for starch, reducing sugar, non-reducing sugar, protein and lipid', b: 'Starch: iodine, blue-black. Reducing sugar: Benedict’s and heat, green to brick-red. Non-reducing: boil with acid, neutralise, then Benedict’s. Protein: biuret, purple. Lipid: ethanol then water, cloudy emulsion.', src: AP1 },
+      { n: 7, f: 'Chromatography set-up, and Rf for a spot at 4.2 cm with the solvent front at 7.0 cm', b: 'Pencil origin line above the solvent level; mark the solvent front when the paper is removed.\nRf = 4.2 ÷ 7.0 = 0.60. It has no unit and is less than 1.', src: AP1 },
+      { n: 8, f: 'Quadrat results: 54 plants in 12 quadrats of 0.25 m². Find the density, and when are transects used?', b: '54 ÷ 12 = 4.5 per quadrat; 4.5 ÷ 0.25 = 18 per m².\nRandom coordinates suit a uniform habitat; a transect suits a gradient.', src: AP1 },
     ]),
 
     // Module 2 Foundations in biology

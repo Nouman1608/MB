@@ -45,6 +45,9 @@ const SFG = 'edexcel-igcse-maths-4ma1-sequences-functions-and-graphs-revision-no
 const GT = 'edexcel-igcse-maths-4ma1-geometry-and-trigonometry-revision-notes';
 const VT = 'edexcel-igcse-maths-4ma1-vectors-and-transformation-geometry-revision-notes';
 const SP = 'edexcel-igcse-maths-4ma1-statistics-and-probability-revision-notes';
+const M2D = 'edexcel-igcse-mathematics-4ma1-mensuration-of-2d-shapes-edexcel-igcse-maths-revision-notes';
+const S3D = 'edexcel-igcse-mathematics-4ma1-3d-shapes-and-volume-edexcel-igcse-maths-revision-notes';
+const SMLR = 'edexcel-igcse-mathematics-4ma1-similarity-edexcel-igcse-maths-revision-notes';
 
 const T1 = 'numbers-and-the-number-system-edexcel-igcse-maths';
 const T2 = 'equations-formulae-and-identities-edexcel-igcse-maths';
@@ -61,7 +64,7 @@ export const DECK_EDEXCEL_IGCSE_MATHEMATICS: FlashcardDeck = {
   syllabusSeries: 'Specification Issue 2, November 2017',
   tierScheme: 'foundation-higher',
   author: 'marlbridge-academic-team',
-  updated: '2026-11-05',
+  updated: '2026-11-20',
   deckReview: { reviewerSlug: 'sajawal-zahid', reviewedOn: '2026-11-05' },
   cards: [
     // 1 Numbers and the number system
@@ -307,6 +310,37 @@ export const DECK_EDEXCEL_IGCSE_MATHEMATICS: FlashcardDeck = {
       { n: 6, f: 'sin x = 0.6. Find both values of x between 0° and 180°.', b: 'x = sin⁻¹ 0.6 = 36.9°, and 180° − 36.9° = 143.1° (1 d.p.), because sin(180° − θ) = sin θ.', u: true },
       { n: 7, f: 'Angle of elevation and angle of depression', b: 'Both are measured from the horizontal, up or down. The angle of depression from A to B equals the angle of elevation from B to A.', u: true },
       { n: 8, f: '3D trigonometry: angle between a line and a plane', b: 'Use the right-angled triangle made by the line, its projection on the plane and the vertical. Find any missing base length first, often a diagonal, using Pythagoras.', u: true },
+    ]),
+    ...sub(T4, 'mensuration-of-2d-shapes-edexcel-igcse-maths', '4.9', [
+      { n: 1, f: 'Convert 3.6 m² to cm². What is the rule for area units?', b: 'Square the length factor. 1 m = 100 cm, so 1 m² = 10 000 cm².\n3.6 × 10 000 = 36 000 cm². Large unit to small unit: multiply; small to large: divide.', src: M2D },
+      { n: 2, f: 'Area of a triangle, a parallelogram and a trapezium: which formula is on the 4MA1 sheet?', b: 'Triangle: ½ × base × perpendicular height.\nParallelogram: base × perpendicular height.\nTrapezium: ½(a + b)h. Only the trapezium formula is given; use the perpendicular height, not the slanting side.', src: M2D },
+      { n: 3, f: 'A trapezium has area 63 cm² and parallel sides 7 cm and 11 cm. Find the distance between them.', b: '63 = ½ × (7 + 11) × h = 9h, so h = 7 cm.' },
+      { n: 4, f: 'Circle: circumference and area formulae, and values for r = 6.5 cm', b: 'C = 2πr = πd and A = πr². Neither is on the formulae sheet; use the radius in πr².\nC = 40.8 cm and A = 133 cm² (3 s.f.).', src: M2D },
+      { n: 5, f: 'Find the perimeter of a semicircle of diameter 10 cm', b: 'Curved edge: ½ × π × 10 = 15.7 cm. Add the diameter, 10 cm, which is also an edge.\nPerimeter = 25.7 cm. Missing the diameter is a common slip.' },
+      { n: 6, f: 'A 10 cm by 6 cm rectangle has a semicircle of diameter 6 cm on one short side. Find its area and perimeter.', b: 'Area = 60 + ½π × 3² = 60 + 14.1 = 74.1 cm².\nPerimeter: leave out the joined side: 10 + 10 + 6 + π × 3 = 35.4 cm.' },
+      { n: 7, f: 'Arc length, sector area and sector perimeter for r = 9 cm and θ = 140°', b: 'Fraction of the circle = θ/360.\nArc = θ/360 × 2πr = 22.0 cm. Area = θ/360 × πr² = 99.0 cm².\nPerimeter = arc + 2r = 40.0 cm. Degrees only: radians are not examined.', u: true },
+    ]),
+    ...sub(T4, '3d-shapes-and-volume-edexcel-igcse-maths', '4.10', [
+      { n: 1, f: 'How many faces, edges and vertices does a triangular prism have?', b: '5 faces, 9 edges and 6 vertices.\nA square-based pyramid has 5 faces, 8 edges and 5 vertices.', src: S3D },
+      { n: 2, f: 'Surface area of a cuboid, and of an 8 cm by 5 cm by 3 cm cuboid', b: '2(lw + lh + wh) = 2(40 + 24 + 15) = 158 cm².\nFor any prism: 2 × cross-section area + cross-section perimeter × length.' },
+      { n: 3, f: 'Total surface area of a closed cylinder and of an open cylinder', b: 'Closed: 2πrh + 2πr² (curved surface plus two circular ends).\nOpen at one end: 2πrh + πr².\nr = 2 cm and h = 5 cm, closed: 20π + 8π = 28π cm².', src: S3D },
+      { n: 4, f: 'Volume of a prism and of a cylinder', b: 'Prism: area of cross-section × length. Cylinder: πr²h.\nTrapezium cross-section ½(6 + 10) × 4 = 32 cm², length 15 cm: volume 480 cm³.', src: S3D },
+      { n: 5, f: 'Volume units: relate cm³, m³ and litres', b: '1 m³ = 1 000 000 cm³ (cube the length factor 100).\n1 litre = 1000 cm³, so 1 m³ = 1000 litres. 4500 cm³ = 4.5 litres.', src: S3D },
+      { n: 6, f: 'A tank is 50 cm by 40 cm by 30 cm. How many litres does it hold?', b: 'Volume = 50 × 40 × 30 = 60 000 cm³.\n60 000 ÷ 1000 = 60 litres.' },
+      { n: 7, f: 'Cone: slant height, volume and curved surface area (r = 5 cm, h = 12 cm)', b: 'l² = r² + h², so l = 13 cm.\nVolume = ⅓πr²h = 100π = 314 cm³.\nCurved surface area = πrl = 65π = 204 cm².\nAdd πr² for the base.', u: true },
+      { n: 8, f: 'Sphere: volume and surface area formulae, and values for r = 6 cm', b: 'Volume = 4/3 πr³ = 288π = 905 cm³.\nSurface area = 4πr² = 144π = 452 cm².', u: true },
+      { n: 9, f: 'A cylinder (r = 3 cm, h = 10 cm) has a hemisphere of radius 3 cm on top. Find the volume.', b: 'Cylinder: π × 9 × 10 = 90π. Hemisphere: ½ × 4/3 π × 27 = 18π.\nTotal = 108π = 339 cm³. Add the volumes of the parts.', u: true },
+    ]),
+    ...sub(T4, 'similarity-edexcel-igcse-maths', '4.11', [
+      { n: 1, f: 'What is true of corresponding angles and sides in similar figures?', b: 'Corresponding angles are equal and corresponding lengths are in the same ratio, the scale factor = new length ÷ old length. For triangles, two equal angles are enough.', src: SMLR },
+      { n: 2, f: 'Are rectangles 6 cm by 4 cm and 10 cm by 7 cm similar?', b: 'No. 10 ÷ 6 = 1.67 but 7 ÷ 4 = 1.75, so the sides are not in the same ratio. 6 by 4 and 9 by 6 are similar (both 1.5).' },
+      { n: 3, f: 'Triangles ABC and PQR are similar, with AB = 6, BC = 8, AC = 10 and PQ = 9. Find QR and PR.', b: 'Scale factor = PQ ÷ AB = 9 ÷ 6 = 1.5.\nQR = 8 × 1.5 = 12 and PR = 10 × 1.5 = 15.' },
+      { n: 4, f: 'DE is parallel to BC. AD = 4, DB = 2 and DE = 5. Find BC.', b: 'ADE and ABC are similar (angle A common). AB = 4 + 2 = 6.\nBC = 5 × 6 ÷ 4 = 7.5. Use the whole side AB, not DB.' },
+      { n: 5, f: 'Map scale 1 : 50 000: convert 3.4 cm on the map, and 4.5 km on the ground', b: 'Map to real: multiply. 3.4 × 50 000 = 170 000 cm = 1.7 km.\nReal to map: divide. 4.5 km = 450 000 cm, and ÷ 50 000 = 9 cm.', src: SMLR },
+      { n: 6, f: 'A 1.5 m post casts a 2 m shadow. A flagpole casts a 9 m shadow at the same time. Find its height.', b: 'The triangles are similar. Scale factor = 9 ÷ 2 = 4.5.\nHeight = 1.5 × 4.5 = 6.75 m.' },
+      { n: 7, f: 'If the length scale factor is k, what are the factors for perimeter, area and volume?', b: 'Perimeter: k. Area and surface area: k². Volume: k³.\nFor k = 3: lengths × 3, areas × 9, volumes × 27.', u: true, src: SMLR },
+      { n: 8, f: 'Two similar shapes have areas in the ratio 9 : 25. Find the ratio of lengths and of volumes.', b: 'Lengths: √9 : √25 = 3 : 5.\nVolumes: 3³ : 5³ = 27 : 125.', u: true },
+      { n: 9, f: 'Two similar jugs are 12 cm and 18 cm tall. The small one holds 240 ml. How much does the large one hold?', b: 'Length factor = 18 ÷ 12 = 1.5.\nVolume factor = 1.5³ = 3.375.\n240 × 3.375 = 810 ml.', u: true },
     ]),
 
     // 5 Vectors and transformation geometry
