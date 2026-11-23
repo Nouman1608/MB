@@ -17,6 +17,10 @@ import { qualificationBySlug } from '../../data/academic/qualifications';
 import { subjectBySlug } from '../../data/academic/subjects';
 import { courseSubjectNameOverride } from '../../data/academic/matrix';
 import { activeOnly } from '../../utils/academic';
+import { deckExamInfo } from '../../data/flashcards/exam-years';
+
+// T19 (audit): IB DP History is the IB subject "History"; the site slug stays world-history. Local label only (the matrix name is shared with the hubs).
+const IB_TITLE: Record<string, string> = { 'ib/ib-dp/world-history': 'History' };
 
 // Only list a checklist where the board+qualification+subject combination is
 // itself an active, publishable Marlbridge offering -- a verified syllabus
@@ -30,8 +34,9 @@ const rows = SYLLABUS_VERSIONS
   .map((v) => ({
     board: boardBySlug(v.boardSlug)?.name ?? v.boardSlug,
     qualification: qualificationBySlug(v.qualificationSlug)?.name ?? v.qualificationSlug,
-    subject: courseSubjectNameOverride(v.boardSlug, v.qualificationSlug, v.subjectSlug) ?? subjectBySlug(v.subjectSlug)?.name ?? v.subjectSlug,
-    syllabusCode: v.syllabusCode,
+    subject: IB_TITLE[`${v.boardSlug}/${v.qualificationSlug}/${v.subjectSlug}`] ?? courseSubjectNameOverride(v.boardSlug, v.qualificationSlug, v.subjectSlug) ?? subjectBySlug(v.subjectSlug)?.name ?? v.subjectSlug,
+    // Where a course names two syllabuses (IB DP Computer Science 2014 and 2027), say which exam years each covers.
+    syllabusCode: v.syllabusCode.includes('/') && deckExamInfo(v).length > 1 ? deckExamInfo(v).map((e) => e.label).join('; ') : v.syllabusCode,
     href: `/checklists/${v.boardSlug}/${v.qualificationSlug}/${v.subjectSlug}/`,
   }))
   .sort((a, b) => a.board.localeCompare(b.board) || a.subject.localeCompare(b.subject));

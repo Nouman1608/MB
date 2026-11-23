@@ -67,6 +67,9 @@ const courseGroups = activeOnly().filter((c) => hubSlugFor(c) === subject.id)
     };
   });
 const inSomeCourse = new Set(courseGroups.flatMap((g) => KIND_ORDER.flatMap((k) => g.byKind[k].map((r) => r.id))));
+// T16 (audit): the subject total is the same figure /subjects/ shows (distinct resources, resourcesForSubject). A resource that suits
+// several courses (AS and A Level, or two boards) is listed under each, so the course counts can add up to more; say so, with the numbers.
+const courseCountSum = courseGroups.reduce((n, g) => n + g.count, 0);
 const notTied = all.filter((r) => !inSomeCourse.has(r.id)).sort((a, b) => a.data.title.localeCompare(b.data.title));
 const articles = await relatedArticles({ subject: subject.id, limit: 3 });
 const faq = faqNode(d.faqs);
@@ -139,7 +142,7 @@ const teachingSentence =
       {(courseGroups.some((g) => g.count > 0) || notTied.length > 0) && (
         <section aria-labelledby="subject-by-course" class="mt-[clamp(48px,6vw,80px)]">
           <h2 id="subject-by-course" class="m-0 mb-2 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Every {d.title} resource, by course</h2>
-          <p class="m-0 mb-5 max-w-[68ch] text-[16px] leading-[1.6] text-ink-mute">Open your course to see its resources here, or go to the course page to see them under each syllabus topic.</p>
+          <p class="m-0 mb-5 max-w-[68ch] text-[16px] leading-[1.6] text-ink-mute">Open your course to see its resources here, or go to the course page to see them under each syllabus topic. {all.length.toLocaleString('en-GB')} {all.length === 1 ? 'resource' : 'resources'} in all, each counted once{courseCountSum > all.length - notTied.length ? `; a resource that suits more than one course (such as AS and A Level) is listed under each, so the course counts below add up to ${courseCountSum.toLocaleString('en-GB')}` : ''}.</p>
           <div class="border-t border-rule">
             {courseGroups.filter((g) => g.count > 0).map((g) => (
               <details class="group border-b border-rule">
