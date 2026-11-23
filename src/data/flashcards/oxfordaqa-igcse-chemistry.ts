@@ -70,7 +70,7 @@ export const DECK_OXFORDAQA_IGCSE_CHEMISTRY: FlashcardDeck = {
       { n: 4, f: 'Protons, electrons and neutrons in ²⁷₁₃Al', b: '13 protons, 13 electrons, 27 − 13 = 14 neutrons.' },
       { n: 5, f: 'Isotopes', b: 'Atoms of the same element (same atomic number) with different numbers of neutrons, so different mass numbers.' },
       { n: 6, f: 'Electron structure of sodium (atomic number 11)', b: '2,8,1 — shells fill 2, then 8, then the remainder.' },
-      { n: 7, f: 'Relative atomic mass, Ar', b: 'An average mass of the atoms of an element, compared with carbon-12.' },
+      { n: 7, f: 'Relative atomic mass, Ar', b: 'The weighted average mass of an atom of the element relative to 1/12 of the mass of a carbon-12 atom.' },
       { n: 8, f: 'How did the model of the atom change from the plum pudding model?', b: 'Alpha-particle scattering showed the mass and positive charge are concentrated in a tiny nucleus, so the nuclear model replaced the plum pudding model. Electrons were then placed in shells, and the neutron was found later.' },
     ]),
     ...sub(T1, 'the-periodic-table-9202', '3.1.3', [
