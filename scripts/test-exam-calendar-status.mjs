@@ -7,6 +7,7 @@ const nov = { examStartIso: '2026-09-21', examEndIso: '2026-11-20', resultsIso: 
 const mar = { examStartIso: '2027-02-03', examEndIso: '2027-03-04', resultsIso: '2027-05-13',
   finalEntriesDeadlineIso: '2026-11-27', finalEntriesDeadline: '27 November 2026',
   lateEntriesDeadlineIso: '2026-12-14', lateEntriesDeadline: '14 December 2026' };
+const jun = { examStartIso: '2027-04-26', examEndIso: '2027-06-12' }; // no entry/results dates
 const list = [nov, mar];
 
 assert.equal(daysUntil('2026-11-23', '2026-11-27'), 4);
@@ -25,4 +26,9 @@ assert.equal(deadlineWarnings('2026-11-13', mar).length, 1);   // 14 days: insid
 assert.match(deadlineWarnings('2026-11-27', mar)[0].text, /today/);
 assert.equal(deadlineWarnings('2026-11-28', mar).length, 0);   // passed
 assert.equal(deadlineWarnings('2026-12-10', mar).length, 1);   // late deadline in 4 days
+const l3 = (d) => seriesLabels(d, [nov, mar, jun]).map((x) => x.label);
+assert.deepEqual(l3('2026-11-23'), ['Exams over, results pending', 'Next series', 'Later series']);
+assert.deepEqual(l3('2027-05-10'), ['Results released', 'Exams over, results pending', 'Exams in progress now']);
+assert.deepEqual(l3('2027-06-20'), ['Results released', 'Results released', 'Exams over, results pending']);
+assert.equal(deadlineWarnings('2026-11-23', jun).length, 0);
 console.log('exam-calendar status tests passed');
