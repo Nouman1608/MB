@@ -161,7 +161,7 @@ concentration in mol dm-3  x  M  =  concentration in g dm-3
 **Answers:** 1. n = m/M, n = cV, n = V/24 for gases at RTP, and n = N/N_A. 2. Titres within 0.10 cm³ of each other; only concordant titres are averaged, and the rough titre is excluded. 3. Each titre requires an initial and a final reading, and each carries ±0.05 cm³, so the uncertainties combine. 4. Yield compares the product actually obtained with the theoretical maximum; atom economy measures what proportion of the total reactant mass ends up in the desired product. 5. Convert both reactants to moles and divide each by its stoichiometric coefficient; the smaller value is the limiting reagent.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-relative-mass-and-the-mole--03-solution-to-ions.webp" width="900" height="960" alt="A flask of sodium chloride solution sits above four stacked steps: cm3 to dm3 gives 0.250 dm3, c times V gives 0.050 mol, times the Avogadro constant gives 3.0 x 10^22 formula units, and times 2 gives 6.0 x 10^22 ions." loading="lazy">
+  <img src="https://img.marlbridge.com/a-level-aqa-chemistry-relative-mass-and-the-mole--03-solution-to-ions.webp" width="900" height="960" alt="A flask of sodium chloride solution sits above four stacked steps: cm3 to dm3 gives 0.250 dm3, c times V gives 0.050 mol, times the Avogadro constant gives 3.01 x 10^22 formula units, and times 2 gives 6.0 x 10^22 ions." loading="lazy">
   <figcaption>Convert cm3 to dm3, find moles, then particles, then multiply by the ions per formula unit.</figcaption>
 </figure>
 
