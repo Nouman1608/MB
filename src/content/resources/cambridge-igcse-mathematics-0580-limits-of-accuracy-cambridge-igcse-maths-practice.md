@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-23: Q2 unit and examiner note made exact (audit C14)"
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -93,9 +93,9 @@ Give each answer correct to 3 significant figures.
 
 **(b)** **2350 hectares** [1] **[2]**
 
-**2.** One correct bound, 0.475 or 0.485 [1]; **0.475 ⩽ m < 0.485** [1] **[2]**
+**2.** One correct bound, 0.475 or 0.485 [1]; **0.475 ⩽ m < 0.485** (in kg) [1] **[2]**
 
-*Examiner insight:* 0.48 to 2 s.f. is rounded to the nearest 0.01, so the half-unit is 0.005. Using 0.05 gives 0.43 to 0.53, which is the interval for a value rounded to 1 decimal place.
+*Examiner insight:* 0.48 to 2 s.f. is rounded to the nearest 0.01, so the half-unit is 0.005. Using 0.05 as the half-unit gives 0.43 to 0.53 (0.48 ± 0.05), which would be the interval only for a value rounded to the nearest 0.1.
 
 **3. (a)** **14.25 s** [1]
 

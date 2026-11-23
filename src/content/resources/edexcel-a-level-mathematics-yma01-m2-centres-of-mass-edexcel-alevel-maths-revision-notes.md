@@ -1,5 +1,5 @@
 ---
-title: "Edexcel International A Level Mathematics (YMA01): M2 Centres of mass -- Revision Notes"
+title: "Pearson Edexcel International A Level Mathematics (YMA01): M2 Centres of mass -- Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics"
 level: ["a-levels"]

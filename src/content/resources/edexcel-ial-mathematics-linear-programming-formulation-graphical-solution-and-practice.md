@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Linear programming: formulation, graphical solution and integer solutions (YMA01) -- Practice Questions"
+title: "Pearson Edexcel International A Level Mathematics: Linear programming: formulation, graphical solution and integer solutions (YMA01) -- Practice Questions"
 seoTitle: "Edexcel IAL Maths D1 Linear Programming Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics"

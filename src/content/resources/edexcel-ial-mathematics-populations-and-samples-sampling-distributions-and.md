@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Samples and hypothesis tests (YMA01)"
+title: "Pearson Edexcel International A Level Mathematics: Samples and hypothesis tests (YMA01)"
 seoTitle: "Edexcel IAL Maths S2 Samples & Hypothesis Tests Guide"
 resourceType: "study-guides"
 subject: "mathematics"

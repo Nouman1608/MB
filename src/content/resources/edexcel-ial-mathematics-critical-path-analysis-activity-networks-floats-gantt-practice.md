@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Critical path analysis and scheduling (YMA01) -- Practice Questions"
+title: "Pearson Edexcel International A Level Mathematics: Critical path analysis and scheduling (YMA01) -- Practice Questions"
 seoTitle: "Edexcel IAL Maths D1 Critical Path Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics"

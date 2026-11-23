@@ -1,5 +1,5 @@
 ---
-title: "Edexcel International A Level Mathematics: Straight-Line Coordinate Geometry (YMA01)"
+title: "Pearson Edexcel International A Level Mathematics: Straight-Line Coordinate Geometry (YMA01)"
 seoTitle: "Edexcel IAL Maths P1 Straight Lines Study Guide"
 resourceType: "study-guides"
 subject: "mathematics"
@@ -26,7 +26,7 @@ reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379).
 
 This guide covers the heading "Coordinate geometry in the (x, y) plane" in the Unit P1: Pure Mathematics 1 content of the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (YMA01), Specification Issue 3, April 2019. It teaches items 2.1 (the equation of a straight line) and 2.2 (conditions for two lines to be parallel or perpendicular) from scratch, with fully worked examples.
 
-For condensed recall use the [Pure Mathematics 1 revision notes](/resources/edexcel-a-level-mathematics-pure1-revision-notes/), and for questions use the [Pure Mathematics 1 practice set](/resources/edexcel-a-level-mathematics-pure1-practice/). The wider unit overview is in the [Pure Mathematics 1 study guide](/resources/a-level-edexcel-mathematics-pure-mathematics-1/). See also the [Edexcel A Level Mathematics hub](/boards/edexcel/a-level/mathematics/), the [printable checklist](/checklists/edexcel/a-level/mathematics/) and the [free 10-minute diagnostics](/diagnostics/).
+For condensed recall use the [Pure Mathematics 1 revision notes](/resources/edexcel-a-level-mathematics-pure1-revision-notes/), and for questions use the [Pure Mathematics 1 practice set](/resources/edexcel-a-level-mathematics-pure1-practice/). The wider unit overview is in the [Pure Mathematics 1 study guide](/resources/a-level-edexcel-mathematics-pure-mathematics-1/). See also the [Pearson Edexcel International A Level Mathematics hub](/boards/edexcel/a-level/mathematics/), the [printable checklist](/checklists/edexcel/a-level/mathematics/) and the [free 10-minute diagnostics](/diagnostics/).
 
 ## What the specification asks for
 

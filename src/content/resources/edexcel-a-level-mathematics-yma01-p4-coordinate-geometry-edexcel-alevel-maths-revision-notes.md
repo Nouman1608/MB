@@ -1,5 +1,5 @@
 ---
-title: "Edexcel International A Level Mathematics (YMA01): P4 Coordinate geometry in the (x, y) plane -- Revision Notes"
+title: "Pearson Edexcel International A Level Mathematics (YMA01): P4 Coordinate geometry in the (x, y) plane -- Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics"
 level: ["a-levels"]

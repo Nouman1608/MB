@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Product, quotient and chain rules (YMA01)"
+title: "Pearson Edexcel International A Level Mathematics: Product, quotient and chain rules (YMA01)"
 seoTitle: "Edexcel IAL Maths P3 Differentiation Rules Study Guide"
 resourceType: "study-guides"
 subject: "mathematics"
@@ -26,7 +26,7 @@ reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379).
 
 This guide is aligned to the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics specification (Issue 3, April 2019). It covers Unit P3: Pure Mathematics 3, section 4 (Differentiation, 4.1 to 4.4). The specification states that P3 and P4 are compulsory for IAL Mathematics and Pure Mathematics, and that P3 has no IAS weighting (it is not part of IAS). There are no tiers inside this content.
 
-Use it with the [revision notes](/resources/edexcel-ial-mathematics-differentiation-of-exponential-logarithmic-and-revision-notes/) and the [practice questions](/resources/edexcel-ial-mathematics-differentiation-of-exponential-logarithmic-and-practice/). The wider course sits on the [Edexcel A Level Mathematics hub](/boards/edexcel/a-level/mathematics/), the [printable checklist](/checklists/edexcel/a-level/mathematics/) lists every topic, and the [free 10-minute diagnostics](/diagnostics/) show where to start. Earlier work is in [differentiating powers of x](/resources/edexcel-ial-mathematics-differentiating-and-integrating-powers-of-x-gradients/) and the [Pure Mathematics 2 overview](/resources/a-level-edexcel-mathematics-pure-mathematics-2/). The [exam preparation page](/resources/edexcel-ial-mathematics-exam-preparation/) covers planning for the course as a whole.
+Use it with the [revision notes](/resources/edexcel-ial-mathematics-differentiation-of-exponential-logarithmic-and-revision-notes/) and the [practice questions](/resources/edexcel-ial-mathematics-differentiation-of-exponential-logarithmic-and-practice/). The wider course sits on the [Pearson Edexcel International A Level Mathematics hub](/boards/edexcel/a-level/mathematics/), the [printable checklist](/checklists/edexcel/a-level/mathematics/) lists every topic, and the [free 10-minute diagnostics](/diagnostics/) show where to start. Earlier work is in [differentiating powers of x](/resources/edexcel-ial-mathematics-differentiating-and-integrating-powers-of-x-gradients/) and the [Pure Mathematics 2 overview](/resources/a-level-edexcel-mathematics-pure-mathematics-2/). The [exam preparation page](/resources/edexcel-ial-mathematics-exam-preparation/) covers planning for the course as a whole.
 
 ## What this unit covers
 

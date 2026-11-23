@@ -122,7 +122,7 @@ The domain system adds a rank above kingdom and splits Prokaryotae. It does not 
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--02-three-domains.webp" width="900" height="1020" alt="A tree splits an ancestor into Bacteria, Archaea and Eukarya. Bacteria and Archaea are cells with no nucleus: Bacteria have a peptidoglycan wall and ester lipids, Archaea no peptidoglycan and ether lipids, with different rRNA. Eukarya holds four kingdoms. Viruses sit outside, classified only by nucleic acid." loading="lazy">
-  <figcaption>Three domains of cells, with viruses outside them (Cambridge only).</figcaption>
+  <figcaption>Three domains of cells, with viruses outside them.</figcaption>
 </figure>
 
 

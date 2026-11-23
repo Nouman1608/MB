@@ -1,5 +1,5 @@
 ---
-title: "Edexcel International A Level Mathematics (YMA01): Exponentials and logarithms (P3.3) -- Practice Questions"
+title: "Pearson Edexcel International A Level Mathematics (YMA01): Exponentials and logarithms (P3.3) -- Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics"
 level: ["a-levels"]

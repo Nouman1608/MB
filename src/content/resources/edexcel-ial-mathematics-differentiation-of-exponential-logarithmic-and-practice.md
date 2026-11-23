@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Product, quotient and chain rules (YMA01) -- Practice Questions"
+title: "Pearson Edexcel International A Level Mathematics: Product, quotient and chain rules (YMA01) -- Practice Questions"
 seoTitle: "Edexcel IAL Maths P3 Differentiation Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics"
@@ -32,7 +32,7 @@ reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379).
 
 These questions are aligned to the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics specification (Issue 3, April 2019), Unit P3 section 4 (Differentiation, 4.1 to 4.4). The specification states that P3 is compulsory for IAL Mathematics and Pure Mathematics and has no IAS weighting. Angles are in radians.
 
-Learn the methods first in the [study guide](/resources/edexcel-ial-mathematics-differentiation-of-exponential-logarithmic-and/) and the [revision notes](/resources/edexcel-ial-mathematics-differentiation-of-exponential-logarithmic-and-revision-notes/). The [Edexcel A Level Mathematics hub](/boards/edexcel/a-level/mathematics/), the [printable checklist](/checklists/edexcel/a-level/mathematics/) and the [free 10-minute diagnostics](/diagnostics/) help you plan the rest. Earlier work is in [differentiating powers of x](/resources/edexcel-ial-mathematics-differentiating-and-integrating-powers-of-x-gradients-practice/).
+Learn the methods first in the [study guide](/resources/edexcel-ial-mathematics-differentiation-of-exponential-logarithmic-and/) and the [revision notes](/resources/edexcel-ial-mathematics-differentiation-of-exponential-logarithmic-and-revision-notes/). The [Pearson Edexcel International A Level Mathematics hub](/boards/edexcel/a-level/mathematics/), the [printable checklist](/checklists/edexcel/a-level/mathematics/) and the [free 10-minute diagnostics](/diagnostics/) help you plan the rest. Earlier work is in [differentiating powers of x](/resources/edexcel-ial-mathematics-differentiating-and-integrating-powers-of-x-gradients-practice/).
 
 ## Questions
 
@@ -213,7 +213,7 @@ Section 4 of Unit P3 in Pearson Edexcel International A Level Mathematics (YMA01
 
 - Go back to the [revision notes](/resources/edexcel-ial-mathematics-differentiation-of-exponential-logarithmic-and-revision-notes/) for any rule you missed.
 - Read the [study guide](/resources/edexcel-ial-mathematics-differentiation-of-exponential-logarithmic-and/) for the full explanations.
-- Browse the [Edexcel A Level Mathematics hub](/boards/edexcel/a-level/mathematics/) and tick off topics on the [printable checklist](/checklists/edexcel/a-level/mathematics/).
+- Browse the [Pearson Edexcel International A Level Mathematics hub](/boards/edexcel/a-level/mathematics/) and tick off topics on the [printable checklist](/checklists/edexcel/a-level/mathematics/).
 - Take all [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 

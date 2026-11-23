@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-23: units added to Avogadro constant and molar mass; sense-check exception for light substances (audit C1)"
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -31,7 +31,7 @@ Links: [mole concept practice questions](/resources/oxfordaqa-igcse-chemistry-92
 
 - **One mole** of a substance = its Mᵣ in grams (3.6.3 a).
 - **moles = mass ÷ Mᵣ**, and **mass = moles × Mᵣ**.
-- **One mole contains 6.02 × 10²³ atoms or molecules**: Avogadro's constant (3.6.3 b).
+- **One mole contains 6.02 × 10²³ atoms or molecules**: Avogadro's constant, 6.02 × 10²³ mol⁻¹ (3.6.3 b).
 - **particles = moles × 6.02 × 10²³**.
 - Always go mass → moles → particles, or the reverse.
 
@@ -40,9 +40,9 @@ Links: [mole concept practice questions](/resources/oxfordaqa-igcse-chemistry-92
 | Term | Meaning |
 |---|---|
 | Mole (mol) | The amount of substance containing 6.02 × 10²³ particles |
-| Avogadro's constant | 6.02 × 10²³, the number of particles in one mole |
+| Avogadro's constant | 6.02 × 10²³ mol⁻¹, the number of particles in one mole |
 | Relative formula mass, Mᵣ | Sum of the Aᵣ values in a formula; one mole has this mass in grams |
-| Molar mass | Mass of one mole, numerically equal to Mᵣ, in g |
+| Molar mass | Mass of one mole, in g/mol, numerically equal to Mᵣ |
 | Particle | Whatever is being counted: an atom, a molecule, or a formula unit |
 | Standard form | A number written as a × 10ⁿ, with a between 1 and 10 |
 
@@ -93,7 +93,7 @@ The route is the conversion table read from the bottom up: particles → moles �
 - Use the ×10ˣ (EXP) key for 6.02 × 10²³.
 - Give final particle numbers to 3 significant figures.
 - Do not round between steps.
-- Sense check: a few grams of a common substance is usually less than 1 mol, and contains around 10²² to 10²³ particles.
+- Sense check: a few grams of most compounds is well under 1 mol (3.2 g of O₂ is 0.1 mol), so contains around 10²² to 10²³ particles. Very light substances are the exception: 5 g of hydrogen gas, H₂, is 2.5 mol, about 1.5 × 10²⁴ molecules.
 
 ## Exam traps
 
@@ -124,7 +124,7 @@ The route is the conversion table read from the bottom up: particles → moles �
 1. 44 g
 2. 20 ÷ 40 = 0.50 mol
 3. 0.25 × 100 = 25 g
-4. 6.02 × 10²³ (particles per mole)
+4. 6.02 × 10²³ mol⁻¹ (particles per mole)
 5. 0.50 × 6.02 × 10²³ = 3.01 × 10²³
 6. 2.2 ÷ 44 = 0.050 mol; 0.050 × 6.02 × 10²³ = 3.01 × 10²²
 7. 4 × 6.02 × 10²³ = 2.41 × 10²⁴

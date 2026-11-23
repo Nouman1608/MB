@@ -1,5 +1,5 @@
 ---
-title: "Edexcel International A Level Mathematics (YMA01): M1 Moments"
+title: "Pearson Edexcel International A Level Mathematics (YMA01): M1 Moments"
 resourceType: "study-guides"
 subject: "mathematics"
 level: ["a-levels"]

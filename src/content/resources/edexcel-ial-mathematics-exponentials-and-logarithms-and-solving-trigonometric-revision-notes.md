@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Exponentials, logarithms and trig equations (YMA01) -- Revision Notes"
+title: "Pearson Edexcel International A Level Mathematics: Exponentials, logarithms and trig equations (YMA01) -- Revision Notes"
 seoTitle: "Edexcel IAL Maths P2 Logs and Trig Equations Notes"
 resourceType: "revision-notes"
 subject: "mathematics"
@@ -28,7 +28,7 @@ reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379).
 ---
 These revision notes condense Unit P2 topics 5.1 to 5.3 and 6.1 to 6.2 of the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics, Further Mathematics and Pure Mathematics specification (Issue 3, April 2019). P2 is a compulsory unit for IAS Mathematics and IAL Mathematics (and Pure Mathematics). For full explanations and fully worked examples, read the [study guide](/resources/edexcel-ial-mathematics-exponentials-and-logarithms-and-solving-trigonometric/) first.
 
-Then test yourself with the [practice questions](/resources/edexcel-ial-mathematics-exponentials-and-logarithms-and-solving-trigonometric-practice/). Related pages: [Pure Mathematics 2](/resources/a-level-edexcel-mathematics-pure-mathematics-2/) and the [P2 revision notes](/resources/edexcel-a-level-mathematics-pure2-revision-notes/). Course hub: [Edexcel A Level Mathematics](/boards/edexcel/a-level/mathematics/). Printable [checklist](/checklists/edexcel/a-level/mathematics/). Check your level with the [free diagnostics](/diagnostics/).
+Then test yourself with the [practice questions](/resources/edexcel-ial-mathematics-exponentials-and-logarithms-and-solving-trigonometric-practice/). Related pages: [Pure Mathematics 2](/resources/a-level-edexcel-mathematics-pure-mathematics-2/) and the [P2 revision notes](/resources/edexcel-a-level-mathematics-pure2-revision-notes/). Course hub: [Pearson Edexcel International A Level Mathematics](/boards/edexcel/a-level/mathematics/). Printable [checklist](/checklists/edexcel/a-level/mathematics/). Check your level with the [free diagnostics](/diagnostics/).
 
 ## 5.1 y = a^x
 

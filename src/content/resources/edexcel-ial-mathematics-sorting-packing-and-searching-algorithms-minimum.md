@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Sorting, packing, spanning trees, Dijkstra (YMA01)"
+title: "Pearson Edexcel International A Level Mathematics: Sorting, packing, spanning trees, Dijkstra (YMA01)"
 seoTitle: "Edexcel IAL Maths D1 Algorithms and Graphs Guide"
 resourceType: "study-guides"
 subject: "mathematics"

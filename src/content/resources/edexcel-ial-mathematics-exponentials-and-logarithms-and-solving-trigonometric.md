@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Exponentials, logarithms and trig equations (YMA01)"
+title: "Pearson Edexcel International A Level Mathematics: Exponentials, logarithms and trig equations (YMA01)"
 seoTitle: "Edexcel IAL Maths P2 Logs, Exponentials, Trig Equations"
 resourceType: "study-guides"
 subject: "mathematics"
@@ -28,7 +28,7 @@ reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379).
 ---
 This guide follows the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics, Further Mathematics and Pure Mathematics specification (Issue 3, April 2019). It covers Unit P2 topics 5.1 to 5.3 (exponentials and logarithms) and 6.1 to 6.2 (trigonometric identities and equations). The specification lists P2 as a compulsory unit for both IAS Mathematics and IAL Mathematics (and Pure Mathematics).
 
-Use it with the [revision notes](/resources/edexcel-ial-mathematics-exponentials-and-logarithms-and-solving-trigonometric-revision-notes/) and the [practice set](/resources/edexcel-ial-mathematics-exponentials-and-logarithms-and-solving-trigonometric-practice/). For the rest of the unit, see [Pure Mathematics 2](/resources/a-level-edexcel-mathematics-pure-mathematics-2/) and the [P2 revision notes](/resources/edexcel-a-level-mathematics-pure2-revision-notes/). Course hub: [Edexcel A Level Mathematics](/boards/edexcel/a-level/mathematics/). Printable [checklist](/checklists/edexcel/a-level/mathematics/). Not sure where you stand? Try a [free 10-minute diagnostic](/diagnostics/).
+Use it with the [revision notes](/resources/edexcel-ial-mathematics-exponentials-and-logarithms-and-solving-trigonometric-revision-notes/) and the [practice set](/resources/edexcel-ial-mathematics-exponentials-and-logarithms-and-solving-trigonometric-practice/). For the rest of the unit, see [Pure Mathematics 2](/resources/a-level-edexcel-mathematics-pure-mathematics-2/) and the [P2 revision notes](/resources/edexcel-a-level-mathematics-pure2-revision-notes/). Course hub: [Pearson Edexcel International A Level Mathematics](/boards/edexcel/a-level/mathematics/). Printable [checklist](/checklists/edexcel/a-level/mathematics/). Not sure where you stand? Try a [free 10-minute diagnostic](/diagnostics/).
 
 ## What this unit covers
 

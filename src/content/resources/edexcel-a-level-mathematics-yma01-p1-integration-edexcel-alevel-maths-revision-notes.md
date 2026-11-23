@@ -1,5 +1,5 @@
 ---
-title: "Edexcel International A Level Mathematics (YMA01): P1 Integration -- Revision Notes"
+title: "Pearson Edexcel International A Level Mathematics (YMA01): P1 Integration -- Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics"
 level: ["a-levels"]

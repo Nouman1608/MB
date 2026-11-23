@@ -1,5 +1,5 @@
 ---
-title: "Edexcel International A Level Mathematics (YMA01): Mathematical models in probability and statistics"
+title: "Pearson Edexcel International A Level Mathematics (YMA01): Mathematical models in probability and statistics"
 resourceType: "study-guides"
 subject: "mathematics"
 level: ["a-levels"]

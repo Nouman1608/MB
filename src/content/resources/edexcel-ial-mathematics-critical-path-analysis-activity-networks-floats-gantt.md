@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Critical path analysis and scheduling (YMA01)"
+title: "Pearson Edexcel International A Level Mathematics: Critical path analysis and scheduling (YMA01)"
 seoTitle: "Edexcel IAL Maths D1 Critical Path Analysis Study Guide"
 resourceType: "study-guides"
 subject: "mathematics"
@@ -26,7 +26,7 @@ reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379).
 
 This guide teaches critical path analysis for the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics (YMA01), Specification Issue 3, April 2019. It covers unit D1 (Decision Mathematics 1), section 4, topics 4.1 to 4.4. The specification states that D1 is an optional unit for IAS Mathematics and Further Mathematics and for IAL Mathematics and Further Mathematics.
 
-Use it with the [revision notes](/resources/edexcel-ial-mathematics-critical-path-analysis-activity-networks-floats-gantt-revision-notes/) and the [practice questions](/resources/edexcel-ial-mathematics-critical-path-analysis-activity-networks-floats-gantt-practice/). The course page is [Edexcel A Level Mathematics](/boards/edexcel/a-level/mathematics/), the printable list is the [checklist](/checklists/edexcel/a-level/mathematics/), and [all free 10-minute diagnostics](/diagnostics/) help you find weak spots first.
+Use it with the [revision notes](/resources/edexcel-ial-mathematics-critical-path-analysis-activity-networks-floats-gantt-revision-notes/) and the [practice questions](/resources/edexcel-ial-mathematics-critical-path-analysis-activity-networks-floats-gantt-practice/). The course page is [Pearson Edexcel International A Level Mathematics](/boards/edexcel/a-level/mathematics/), the printable list is the [checklist](/checklists/edexcel/a-level/mathematics/), and [all free 10-minute diagnostics](/diagnostics/) help you find weak spots first.
 
 ## What this unit covers
 
@@ -282,7 +282,7 @@ Draw each activity as an arc with its letter and duration, use a single start an
 
 ## Next steps
 
-Condense the method with the [revision notes](/resources/edexcel-ial-mathematics-critical-path-analysis-activity-networks-floats-gantt-revision-notes/), then test yourself on the [practice questions](/resources/edexcel-ial-mathematics-critical-path-analysis-activity-networks-floats-gantt-practice/). Tick topics off on the [checklist](/checklists/edexcel/a-level/mathematics/) and see the [Edexcel A Level Mathematics hub](/boards/edexcel/a-level/mathematics/) for related units.
+Condense the method with the [revision notes](/resources/edexcel-ial-mathematics-critical-path-analysis-activity-networks-floats-gantt-revision-notes/), then test yourself on the [practice questions](/resources/edexcel-ial-mathematics-critical-path-analysis-activity-networks-floats-gantt-practice/). Tick topics off on the [checklist](/checklists/edexcel/a-level/mathematics/) and see the [Pearson Edexcel International A Level Mathematics hub](/boards/edexcel/a-level/mathematics/) for related units.
 
 ## Official syllabus
 

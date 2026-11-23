@@ -1,5 +1,5 @@
 ---
-title: "Edexcel International A Level Mathematics (YMA01): Trigonometry (P2.6)"
+title: "Pearson Edexcel International A Level Mathematics (YMA01): Trigonometry (P2.6)"
 resourceType: "study-guides"
 subject: "mathematics"
 level: ["a-levels"]

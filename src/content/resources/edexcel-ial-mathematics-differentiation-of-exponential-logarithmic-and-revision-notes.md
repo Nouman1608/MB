@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Product, quotient and chain rules (YMA01) -- Revision Notes"
+title: "Pearson Edexcel International A Level Mathematics: Product, quotient and chain rules (YMA01) -- Revision Notes"
 seoTitle: "Edexcel IAL Maths P3 Differentiation Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics"
@@ -26,7 +26,7 @@ reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379).
 
 These notes are aligned to the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics specification (Issue 3, April 2019). They cover Unit P3: Pure Mathematics 3, section 4 (Differentiation, 4.1 to 4.4). The specification states that P3 is compulsory for IAL Mathematics and Pure Mathematics and has no IAS weighting.
 
-For full explanations and worked examples, read the [study guide](/resources/edexcel-ial-mathematics-differentiation-of-exponential-logarithmic-and/). When you are ready to practise, use the [practice questions](/resources/edexcel-ial-mathematics-differentiation-of-exponential-logarithmic-and-practice/). The [Edexcel A Level Mathematics hub](/boards/edexcel/a-level/mathematics/) and the [printable checklist](/checklists/edexcel/a-level/mathematics/) show the rest of the course, and the [free 10-minute diagnostics](/diagnostics/) show which topics need work first. Related earlier work is in [differentiating powers of x](/resources/edexcel-ial-mathematics-differentiating-and-integrating-powers-of-x-gradients-revision-notes/).
+For full explanations and worked examples, read the [study guide](/resources/edexcel-ial-mathematics-differentiation-of-exponential-logarithmic-and/). When you are ready to practise, use the [practice questions](/resources/edexcel-ial-mathematics-differentiation-of-exponential-logarithmic-and-practice/). The [Pearson Edexcel International A Level Mathematics hub](/boards/edexcel/a-level/mathematics/) and the [printable checklist](/checklists/edexcel/a-level/mathematics/) show the rest of the course, and the [free 10-minute diagnostics](/diagnostics/) show which topics need work first. Related earlier work is in [differentiating powers of x](/resources/edexcel-ial-mathematics-differentiating-and-integrating-powers-of-x-gradients-revision-notes/).
 
 ## 4.1 Standard derivatives (radians)
 

@@ -1,5 +1,5 @@
 ---
-title: "Edexcel International A Level Mathematics (YMA01): Coordinate geometry of the circle (P2.3)"
+title: "Pearson Edexcel International A Level Mathematics (YMA01): Coordinate geometry of the circle (P2.3)"
 resourceType: "study-guides"
 subject: "mathematics"
 level: ["a-levels"]

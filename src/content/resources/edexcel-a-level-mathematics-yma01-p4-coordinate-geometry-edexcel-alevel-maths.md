@@ -1,5 +1,5 @@
 ---
-title: "Edexcel International A Level Mathematics (YMA01): P4 Coordinate geometry in the (x, y) plane"
+title: "Pearson Edexcel International A Level Mathematics (YMA01): P4 Coordinate geometry in the (x, y) plane"
 resourceType: "study-guides"
 subject: "mathematics"
 level: ["a-levels"]

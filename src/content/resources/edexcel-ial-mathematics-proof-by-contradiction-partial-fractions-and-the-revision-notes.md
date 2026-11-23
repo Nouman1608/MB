@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Proof, partial fractions and binomial series (YMA01) -- Revision Notes"
+title: "Pearson Edexcel International A Level Mathematics: Proof, partial fractions and binomial series (YMA01) -- Revision Notes"
 seoTitle: "Edexcel IAL Maths P4 Partial Fractions Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics"

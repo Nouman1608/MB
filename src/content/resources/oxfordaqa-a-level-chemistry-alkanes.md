@@ -111,7 +111,7 @@ separation, and that is what sets it apart from cracking.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--09-new-functional-groups.webp" width="900" height="1260" alt="Skeletal formulae of benzene, chlorobenzene, phenol, propanoyl chloride, propanamide, dimethylamine and 2-aminoethanoic acid with each new group highlighted." loading="lazy">
-  <figcaption>The functional groups first met at A Level (Cambridge).</figcaption>
+  <figcaption>The functional groups first met at A Level.</figcaption>
 </figure>
 
 

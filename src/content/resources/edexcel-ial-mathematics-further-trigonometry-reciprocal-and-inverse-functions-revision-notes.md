@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Further trigonometry and R-formulae (YMA01) -- Revision Notes"
+title: "Pearson Edexcel International A Level Mathematics: Further trigonometry and R-formulae (YMA01) -- Revision Notes"
 seoTitle: "Edexcel IAL Maths P3: Further Trig Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics"
@@ -25,7 +25,7 @@ reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379).
 ---
 These notes condense Unit P3 section 2 (topics 2.1 to 2.3) of the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification, Issue 3, April 2019. The specification lists P3 as compulsory for IAL Mathematics and Pure Mathematics only; IAS weighting is N/A. Longer explanations and fuller worked examples are in the [study guide](/resources/edexcel-ial-mathematics-further-trigonometry-reciprocal-and-inverse-functions/). Then test yourself with the [practice questions](/resources/edexcel-ial-mathematics-further-trigonometry-reciprocal-and-inverse-functions-practice/).
 
-Course hub: [Edexcel A Level Mathematics](/boards/edexcel/a-level/mathematics/). Printable [checklist](/checklists/edexcel/a-level/mathematics/). Unsure what to revise first? A [free 10-minute diagnostic](/diagnostics/) will show you. Related earlier work: [P2 revision notes](/resources/edexcel-a-level-mathematics-pure2-revision-notes/).
+Course hub: [Pearson Edexcel International A Level Mathematics](/boards/edexcel/a-level/mathematics/). Printable [checklist](/checklists/edexcel/a-level/mathematics/). Unsure what to revise first? A [free 10-minute diagnostic](/diagnostics/) will show you. Related earlier work: [P2 revision notes](/resources/edexcel-a-level-mathematics-pure2-revision-notes/).
 
 ## 2.1 Reciprocal functions
 

@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Centres of mass and rigid body equilibrium (YMA01)"
+title: "Pearson Edexcel International A Level Mathematics: Centres of mass and rigid body equilibrium (YMA01)"
 seoTitle: "Edexcel IAL Maths M2 Centres of Mass Study Guide"
 resourceType: "study-guides"
 subject: "mathematics"

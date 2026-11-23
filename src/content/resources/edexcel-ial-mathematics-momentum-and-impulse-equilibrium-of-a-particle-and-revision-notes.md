@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Momentum and impulse, equilibrium of a particle and moments (YMA01) -- Revision Notes"
+title: "Pearson Edexcel International A Level Mathematics: Momentum and impulse, equilibrium of a particle and moments (YMA01) -- Revision Notes"
 seoTitle: "Edexcel IAL Maths M1 Momentum and Moments Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics"

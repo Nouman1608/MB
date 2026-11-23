@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-23: technology-based definite integrals cite 5.5 and 5.11 (audit C3)"
 ---
 
 For full explanations and longer worked examples, start with the [integration and kinematics study guide](/resources/ib-dp-mathematics-aa-sl-integration-kinematics/). These notes are for the final weeks.
@@ -178,7 +178,7 @@ The particle moves backwards until t = 2, then forwards. The negative displaceme
 The guide splits this unit between hand methods and technology.
 
 - **By hand (Paper 1):** all the standard integrals in 5.10, linear composites, the reverse chain rule and substitution; definite integrals by F(b) − F(a) (5.11); areas where f(x) is positive or negative, which the guide says are found "without the use of technology"; areas between curves with easy intersections; kinematics with polynomial velocity.
-- **With a GDC (Paper 2):** definite integrals and areas using technology (5.5); integrals that can only be found with technology (5.11); intersections you cannot solve by hand; total distance as ∫|v(t)|dt for awkward velocity functions.
+- **With a GDC (Paper 2):** definite integrals and areas using technology (5.5 and 5.11); integrals that can only be found with technology (5.11); intersections you cannot solve by hand; total distance as ∫|v(t)|dt for awkward velocity functions.
 
 ### GDC routine for an area or distance
 

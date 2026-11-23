@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Projectiles and kinematics with calculus (YMA01)"
+title: "Pearson Edexcel International A Level Mathematics: Projectiles and kinematics with calculus (YMA01)"
 seoTitle: "Edexcel IAL Maths M2 Projectiles and Kinematics Guide"
 resourceType: "study-guides"
 subject: "mathematics"

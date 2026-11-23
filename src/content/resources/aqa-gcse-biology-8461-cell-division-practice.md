@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-23: Q5 wording and Q10(b) levels-of-response marking made consistent (audit C11)"
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -78,7 +78,7 @@ the [printable checklist](/checklists/aqa/gcse/biology/) lists every point.
 **(d)** Explain why the DNA per cell at 12 hours is exactly half the value at 10 hours. **[2]**
 
 **5.** A student looks at a stained root tip under a microscope. In one field of view she counts 250 cells.
-In 15 of them, the chromosomes are visible and being pulled apart.
+In 15 of them, the chromosomes are visible as separate structures (condensed, lined up or being pulled apart), so these cells are in mitosis. In the other cells no separate chromosomes can be seen.
 
 **(a)** Calculate the percentage of cells in mitosis. **[2]**
 **(b)** The full cell cycle in this tissue takes 25 hours. Estimate the time a cell spends in mitosis. Give
@@ -149,7 +149,7 @@ growing new shoots and roots throughout its life. **[3]**
 **(d)** The DNA was doubled by replication before division [1]; then divided equally between the two identical new cells [1]
 *Examiner insight:* Time periods must be read from the table; a single time such as "4 hours" does not earn the mark for a period.
 
-**5. (a)** 15 ÷ 250 × 100 [1] = **6%** [1]
+**5. (a)** 15 ÷ 250 × 100 [1] = **6%** [1] (the 15 cells with visible chromosomes are all in mitosis, whichever stage they are in; cells in interphase show no separate chromosomes)
 **(b)** 0.06 × 25 = 1.5 hours [1]; 1.5 × 60 = **90 minutes** [1]
 **(c)** One field may not be representative, so several give a more reliable (repeatable) estimate [1]
 *Examiner insight:* An answer left as 1.5 hours loses the final mark when minutes are asked for; allow ECF from an incorrect percentage in (a).
@@ -175,13 +175,14 @@ growing new shoots and roots throughout its life. **[3]**
 *Examiner insight:* An answer of 4 for (c) confuses mitosis with meiosis and scores zero for that part.
 
 **10. (a)** (Pancreas) cells that produce insulin [1]
-**(b)** Marking points (AQA marks 6-mark evaluate questions by levels; a top answer covers both sides and concludes):
-- the embryo is produced with the same genes as the patient, so the cells are not rejected [1]
-- embryonic stem cells can differentiate into most types of human cell, so they can form the needed cells [1]
-- the treatment may help a condition that would otherwise need lifelong management [1]
-- risk: viral infection could be transferred to the patient [1]
-- some people have ethical or religious objections to producing and using embryos [1]
-- a conclusion that weighs these points and is justified by them [1]
+**(b)** Levels of response (6 marks): Level 3 (5-6 marks) gives a balanced evaluation of benefits and risks or objections, supported by detail, with a justified conclusion; Level 2 (3-4 marks) gives some benefits and some drawbacks with limited detail or no clear conclusion; Level 1 (1-2 marks) gives isolated points, or only one side, with no evaluation. Indicative content, not point-marked:
+- the embryo is produced with the same genes as the patient, so the cells are not rejected
+- embryonic stem cells can differentiate into most types of human cell, so they can form the needed cells
+- the treatment may help a condition that would otherwise need lifelong management
+- risk: viral infection could be transferred to the patient
+- some people have ethical or religious objections to producing and using embryos
+- a conclusion that weighs these points and is justified by them
+
 *Examiner insight:* An answer that gives only benefits, or only objections, cannot reach the top level, however many points it lists.
 
 **11. (a)** The fertilised egg divides by mitosis [1]; repeatedly, so the number of cells increases [1]; the cells are (embryonic) stem cells, which differentiate as the embryo develops [1]; differentiated cells gain different sub-cellular structures to become specialised cells [1]

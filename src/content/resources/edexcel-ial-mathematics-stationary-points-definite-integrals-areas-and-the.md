@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Stationary points, definite integrals, areas and the trapezium rule (YMA01)"
+title: "Pearson Edexcel International A Level Mathematics: Stationary points, definite integrals, areas and the trapezium rule (YMA01)"
 seoTitle: "Edexcel IAL Maths P2 Stationary Points and Areas Guide"
 resourceType: "study-guides"
 subject: "mathematics"
@@ -29,7 +29,7 @@ reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379).
 
 This guide is aligned to the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics specification (Issue 3, April 2019). It covers Unit P2: Pure Mathematics 2, section 7 (Differentiation, 7.1) and section 8 (Integration, 8.1 to 8.3). As the specification states, P1 and P2 are compulsory units for both IAS Mathematics and IAL Mathematics (and Pure Mathematics). There are no tiers inside this content.
 
-Use it with the [revision notes](/resources/edexcel-ial-mathematics-stationary-points-definite-integrals-areas-and-the-revision-notes/) and the [practice questions](/resources/edexcel-ial-mathematics-stationary-points-definite-integrals-areas-and-the-practice/). The wider course sits on the [Edexcel A Level Mathematics hub](/boards/edexcel/a-level/mathematics/), the [printable checklist](/checklists/edexcel/a-level/mathematics/) lists every topic, and the [free 10-minute diagnostics](/diagnostics/) show where to start. The rules for differentiating and integrating powers of x are in the [P1 differentiation and integration guide](/resources/edexcel-ial-mathematics-differentiating-and-integrating-powers-of-x-gradients/).
+Use it with the [revision notes](/resources/edexcel-ial-mathematics-stationary-points-definite-integrals-areas-and-the-revision-notes/) and the [practice questions](/resources/edexcel-ial-mathematics-stationary-points-definite-integrals-areas-and-the-practice/). The wider course sits on the [Pearson Edexcel International A Level Mathematics hub](/boards/edexcel/a-level/mathematics/), the [printable checklist](/checklists/edexcel/a-level/mathematics/) lists every topic, and the [free 10-minute diagnostics](/diagnostics/) show where to start. The rules for differentiating and integrating powers of x are in the [P1 differentiation and integration guide](/resources/edexcel-ial-mathematics-differentiating-and-integrating-powers-of-x-gradients/).
 
 ## What this unit covers
 

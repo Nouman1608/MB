@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Inequalities, polynomials and graphs (YMA01) -- Revision Notes"
+title: "Pearson Edexcel International A Level Mathematics: Inequalities, polynomials and graphs (YMA01) -- Revision Notes"
 seoTitle: "Edexcel IAL Maths P1 Inequalities & Graphs Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics"
@@ -26,7 +26,7 @@ reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379).
 
 These notes are aligned to the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics specification (YMA01), Issue 3, April 2019, Unit P1: Pure Mathematics 1, topics 1.6 to 1.12. The specification makes P1 and P2 compulsory for IAS Mathematics, IAL Mathematics and IAL Pure Mathematics. For full explanations read the [study guide](/resources/edexcel-ial-mathematics-simultaneous-equations-inequalities-polynomials-graph/), then test yourself with the [practice questions](/resources/edexcel-ial-mathematics-simultaneous-equations-inequalities-polynomials-graph-practice/).
 
-Course pages: the [Edexcel A Level Mathematics hub](/boards/edexcel/a-level/mathematics/), the [printable checklist](/checklists/edexcel/a-level/mathematics/), the [free 10-minute diagnostics](/diagnostics/), [Pure Mathematics 1 revision notes](/resources/edexcel-a-level-mathematics-pure1-revision-notes/) and [Pure Mathematics 2 revision notes](/resources/edexcel-a-level-mathematics-pure2-revision-notes/).
+Course pages: the [Pearson Edexcel International A Level Mathematics hub](/boards/edexcel/a-level/mathematics/), the [printable checklist](/checklists/edexcel/a-level/mathematics/), the [free 10-minute diagnostics](/diagnostics/), [Pure Mathematics 1 revision notes](/resources/edexcel-a-level-mathematics-pure1-revision-notes/) and [Pure Mathematics 2 revision notes](/resources/edexcel-a-level-mathematics-pure2-revision-notes/).
 
 ## 1.6 Simultaneous equations by substitution
 
@@ -49,7 +49,7 @@ If the quadratic has no real roots, the line and curve do not meet. If it has on
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--08-disguised-quadratic.webp" width="900" height="1255" alt="With u = x^2 the equation x^4 - 5x^2 + 4 = 0 becomes u^2 - 5u + 4 = 0 with roots u = 1 and 4. Going back gives x = -2, -1, 1 and 2, the four x-intercepts of the quartic." loading="lazy">
-  <figcaption>Substitute u for the repeated function, solve the quadratic, then solve back for x using both signs. (Cambridge 9709 only.)</figcaption>
+  <figcaption>Substitute u for the repeated function, solve the quadratic, then solve back for x using both signs.</figcaption>
 </figure>
 
 

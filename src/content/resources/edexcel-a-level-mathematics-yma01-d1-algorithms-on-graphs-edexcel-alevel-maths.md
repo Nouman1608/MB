@@ -1,5 +1,5 @@
 ---
-title: "Edexcel International A Level Mathematics (YMA01): Algorithms on graphs"
+title: "Pearson Edexcel International A Level Mathematics (YMA01): Algorithms on graphs"
 resourceType: "study-guides"
 subject: "mathematics"
 level: ["a-levels"]

@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Projectiles, vertical motion and kinematics using calculus and vectors (YMA01) -- Practice Questions"
+title: "Pearson Edexcel International A Level Mathematics: Projectiles, vertical motion and kinematics using calculus and vectors (YMA01) -- Practice Questions"
 seoTitle: "Edexcel IAL Maths M2 Projectiles Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics"

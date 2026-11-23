@@ -1,5 +1,5 @@
 ---
-title: "Edexcel International A Level Mathematics (YMA01): Representation and summary of data"
+title: "Pearson Edexcel International A Level Mathematics (YMA01): Representation and summary of data"
 resourceType: "study-guides"
 subject: "mathematics"
 level: ["a-levels"]

@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Indices, surds and quadratics (YMA01)"
+title: "Pearson Edexcel International A Level Mathematics: Indices, surds and quadratics (YMA01)"
 seoTitle: "Edexcel IAL Maths P1 Indices, Surds, Quadratics Guide"
 resourceType: "study-guides"
 subject: "mathematics"
@@ -26,7 +26,7 @@ reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379).
 
 This guide follows the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics specification (YMA01), Issue 3, April 2019. It covers the first five statements of Unit P1, topic 1 (Algebra and functions): topics 1.1 to 1.5. The specification lists P1 as a compulsory unit for IAS Mathematics, IAL Mathematics and Pure Mathematics, so every candidate meets this material. Simultaneous equations and inequalities (1.6 onwards) are taught elsewhere and are not repeated here.
 
-Work through the guide in order, then use the [revision notes](/resources/edexcel-ial-mathematics-indices-surds-and-quadratics-functions-discriminant-revision-notes/) and the [practice questions](/resources/edexcel-ial-mathematics-indices-surds-and-quadratics-functions-discriminant-practice/). Tick off the topic on the [printable checklist](/checklists/edexcel/a-level/mathematics/), see the [Edexcel A Level Mathematics hub](/boards/edexcel/a-level/mathematics/), or find weak spots with the [free 10-minute diagnostics](/diagnostics/).
+Work through the guide in order, then use the [revision notes](/resources/edexcel-ial-mathematics-indices-surds-and-quadratics-functions-discriminant-revision-notes/) and the [practice questions](/resources/edexcel-ial-mathematics-indices-surds-and-quadratics-functions-discriminant-practice/). Tick off the topic on the [printable checklist](/checklists/edexcel/a-level/mathematics/), see the [Pearson Edexcel International A Level Mathematics hub](/boards/edexcel/a-level/mathematics/), or find weak spots with the [free 10-minute diagnostics](/diagnostics/).
 
 ## What this guide covers
 

@@ -1,5 +1,5 @@
 ---
-title: "Edexcel International A Level Mathematics (YMA01): M1 Mathematical models in mechanics"
+title: "Pearson Edexcel International A Level Mathematics (YMA01): M1 Mathematical models in mechanics"
 resourceType: "study-guides"
 subject: "mathematics"
 level: ["a-levels"]

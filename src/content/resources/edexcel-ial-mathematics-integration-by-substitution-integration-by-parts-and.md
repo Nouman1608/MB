@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Integration by substitution, by parts and using partial fractions (YMA01)"
+title: "Pearson Edexcel International A Level Mathematics: Integration by substitution, by parts and using partial fractions (YMA01)"
 seoTitle: "Edexcel IAL Maths P4 Integration Methods Study Guide"
 resourceType: "study-guides"
 subject: "mathematics"

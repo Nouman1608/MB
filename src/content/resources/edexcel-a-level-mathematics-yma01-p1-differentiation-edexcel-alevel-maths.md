@@ -1,5 +1,5 @@
 ---
-title: "Edexcel International A Level Mathematics (YMA01): P1 Differentiation"
+title: "Pearson Edexcel International A Level Mathematics (YMA01): P1 Differentiation"
 resourceType: "study-guides"
 subject: "mathematics"
 level: ["a-levels"]

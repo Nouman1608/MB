@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Differentiating and integrating powers of x: gradients, tangents, normals and indefinite integrals (YMA01) -- Revision Notes"
+title: "Pearson Edexcel International A Level Mathematics: Differentiating and integrating powers of x: gradients, tangents, normals and indefinite integrals (YMA01) -- Revision Notes"
 seoTitle: "Edexcel IAL Maths P1 Calculus Basics Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics"
@@ -29,7 +29,7 @@ reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379).
 
 These notes condense Unit P1: Pure Mathematics 1, sections 4.1 to 4.3 and 5.1 to 5.2 of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics specification (Issue 3, April 2019). P1 is a compulsory unit for IAS and IAL Mathematics and Pure Mathematics, as the specification states. For full explanations and longer worked examples, read the [study guide](/resources/edexcel-ial-mathematics-differentiating-and-integrating-powers-of-x-gradients/).
 
-Test yourself with the [practice questions](/resources/edexcel-ial-mathematics-differentiating-and-integrating-powers-of-x-gradients-practice/). The course sits on the [Edexcel A Level Mathematics hub](/boards/edexcel/a-level/mathematics/), the [checklist](/checklists/edexcel/a-level/mathematics/) lets you track progress, and the [free 10-minute diagnostics](/diagnostics/) find weak spots. Broader recall is in the [Pure 1 revision notes](/resources/edexcel-a-level-mathematics-pure1-revision-notes/).
+Test yourself with the [practice questions](/resources/edexcel-ial-mathematics-differentiating-and-integrating-powers-of-x-gradients-practice/). The course sits on the [Pearson Edexcel International A Level Mathematics hub](/boards/edexcel/a-level/mathematics/), the [checklist](/checklists/edexcel/a-level/mathematics/) lets you track progress, and the [free 10-minute diagnostics](/diagnostics/) find weak spots. Broader recall is in the [Pure 1 revision notes](/resources/edexcel-a-level-mathematics-pure1-revision-notes/).
 
 ## Key definitions (4.1, 5.1)
 

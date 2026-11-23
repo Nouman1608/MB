@@ -1,5 +1,5 @@
 ---
-title: "Edexcel International A Level Mathematics (YMA01): P4 Coordinate geometry in the (x, y) plane -- Practice Questions"
+title: "Pearson Edexcel International A Level Mathematics (YMA01): P4 Coordinate geometry in the (x, y) plane -- Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics"
 level: ["a-levels"]

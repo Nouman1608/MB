@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Functions, modulus and graph transformations (YMA01)"
+title: "Pearson Edexcel International A Level Mathematics: Functions, modulus and graph transformations (YMA01)"
 seoTitle: "Edexcel IAL Maths P3 Functions and Modulus Guide"
 resourceType: "study-guides"
 subject: "mathematics"

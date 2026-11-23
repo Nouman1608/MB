@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Newton's laws, pulleys, slopes and friction (YMA01) -- Practice Questions"
+title: "Pearson Edexcel International A Level Mathematics: Newton's laws, pulleys, slopes and friction (YMA01) -- Practice Questions"
 seoTitle: "Edexcel IAL Maths M1 Newton's Laws Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics"

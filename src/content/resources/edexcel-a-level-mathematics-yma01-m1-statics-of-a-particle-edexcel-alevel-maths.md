@@ -1,5 +1,5 @@
 ---
-title: "Edexcel International A Level Mathematics (YMA01): M1 Statics of a particle"
+title: "Pearson Edexcel International A Level Mathematics (YMA01): M1 Statics of a particle"
 resourceType: "study-guides"
 subject: "mathematics"
 level: ["a-levels"]
