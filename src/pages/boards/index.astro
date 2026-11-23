@@ -12,11 +12,14 @@ import PageLayout from '../../layouts/PageLayout.astro';
 import Section from '../../components/layout/Section.astro';
 import Container from '../../components/layout/Container.astro';
 import { BOARDS, boardPath, boardsPath, combinationsForBoard } from '../../utils/academic';
+import { QUALIFICATIONS } from '../../data/academic/qualifications';
 import { routes } from '../../utils/urls/routes';
 
 const rows = BOARDS.map((b) => {
   const combos = b.status === 'offered' ? combinationsForBoard(b.slug) : [];
-  const qualifications = [...new Set(combos.map((c) => c.qualification))];
+  const qualifications = [...new Map(combos.map((c) => [c.qualificationSlug, c.qualification] as const))]
+    .sort((a, b) => QUALIFICATIONS.findIndex((q) => q.slug === a[0]) - QUALIFICATIONS.findIndex((q) => q.slug === b[0]))
+    .map(([, name]) => name);
   return { board: b, combos, qualifications };
 });
 ---

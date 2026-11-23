@@ -852,6 +852,13 @@ export interface CourseSubjectName {
   readonly source: string;
 }
 export const COURSE_SUBJECT_NAMES: Readonly<Record<string, CourseSubjectName>> = {
+  // T19 (audit Nov 2026): the IB's own title for this course is "History" (syllabuses.ts officialTitle
+  // 'International Baccalaureate Diploma Programme History', code 'DP History'; IB guide history-hl-2020-eng.pdf).
+  // The slug stays world-history; only the displayed name changes.
+  'ib/ib-dp/world-history': {
+    name: 'History',
+    source: 'IB Diploma Programme History guide (ibo.org history-hl-2020-eng.pdf); title as recorded in syllabuses.ts',
+  },
   'cambridge/a-level/ict': {
     name: 'Information Technology',
     searchAlias: 'ICT',

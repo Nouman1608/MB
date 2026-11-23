@@ -14,8 +14,8 @@
  */
 import type { CollectionEntry } from 'astro:content';
 import type { Combination } from '../../data/academic/matrix';
-import { topicsFor, type SyllabusTopic } from '../../data/academic/syllabus-topics';
-import { resourcesForCombination, STUDY_KIND, type StudyKind } from './combination-resources';
+import { topicsFor, type SyllabusTopic } from '../../data/academic/syllabus-topics.ts';
+import { resourcesForCombination, STUDY_KIND, type StudyKind } from './combination-resources.ts';
 
 export const KIND_ORDER: readonly StudyKind[] = ['learn', 'review', 'practice'];
 
@@ -32,6 +32,13 @@ export interface CourseResourceItem {
   description: string;
   resourceType: CollectionEntry<'resources'>['data']['resourceType'];
   kind: StudyKind;
+  /**
+   * P6: true when this resource covers two or more subtopics of the topic it is listed under AND
+   * the same topic also has a stand-alone resource of the same kind for one of those subtopics
+   * (OxfordAQA 9202 "Nanoparticles" and "Structure and bonding of carbon, and nanoparticles").
+   * The course page marks such a resource "combined", so the two read as different things.
+   */
+  combined?: boolean;
 }
 
 export type KindGroups = Record<StudyKind, CourseResourceItem[]>;
@@ -75,7 +82,16 @@ export function courseTopics(c: Combination, allResources: readonly CollectionEn
     const rs = resources.filter((r) =>
       r.data.syllabusTopics.some((m) => m.qualification === c.qualificationSlug && m.topic === t.slug));
     rs.forEach((r) => mapped.add(r.id));
-    return { topic: t, groups: group(rs.map(item)), count: rs.length };
+    const subsOf = (r: CollectionEntry<'resources'>) => new Set(r.data.syllabusTopics
+      .filter((m) => m.qualification === c.qualificationSlug && m.topic === t.slug && m.subtopic)
+      .map((m) => m.subtopic as string));
+    const items = rs.map((r) => {
+      const it = item(r);
+      const subs = subsOf(r);
+      if (subs.size >= 2 && rs.some((o) => o !== r && STUDY_KIND[o.data.resourceType] === it.kind && subsOf(o).size === 1 && subs.has([...subsOf(o)][0]))) it.combined = true;
+      return it;
+    });
+    return { topic: t, groups: group(items), count: rs.length };
   });
   const rest = resources.filter((r) => !mapped.has(r.id)).map(item);
   return { topics, wholeCourse: group(rest), wholeCourseCount: rest.length, total: resources.length };

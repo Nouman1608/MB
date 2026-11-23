@@ -1,6 +1,8 @@
 ---
 import { teachingMonthLabel } from '../../../../utils/academic/teaching-month';
-import { assessmentAnswer } from '../../../../utils/academic/assessment-faq';
+import { firstAssessmentText } from '../../../../utils/academic/assessment-faq';
+import { topicListFaq } from '../../../../utils/academic/topic-faq';
+import { assessmentAnswer, componentLabel } from '../../../../utils/academic/assessment-faq';
 /**
  * Academic hub — /boards/{board}/{qualification}/{subject}/
  *
@@ -210,6 +212,23 @@ const resources = resourcesForCombination(c, allResources);
 // grouped as study guides / revision notes / practice questions. Replaces
 // the three card grids that used to sit below the topic list.
 const topicData = courseTopics(c, allResources);
+/**
+ * P8 / P7 (audit Nov 2026): the same resource can belong to two courses of one board and subject
+ * (a page written for both Cambridge IGCSE and O Level Chemistry carries both syllabus codes; an
+ * AS Level course reuses A Level pages). Each course page used to show its own total with no hint
+ * of that, so IGCSE and O Level read as identical lists and AS and A Level totals added up twice.
+ * Say how many are shared, and with which course, so a reader (and anyone adding totals) can see
+ * it is the same page counted once on each course.
+ */
+const resourceIds = new Set(resources.map((r) => r.id));
+const sharedNotes = activeOnly()
+  .filter((o) => o.boardSlug === c.boardSlug && o.subjectSlug === c.subjectSlug && o.qualificationSlug !== c.qualificationSlug)
+  .map((o) => {
+    const shared = resourcesForCombination(o, allResources).filter((r) => resourceIds.has(r.id)).length;
+    return shared > 0 ? { shared, o } : null;
+  })
+  .filter((x): x is { shared: number; o: Combination } => x !== null)
+  .map(({ shared, o }) => `${shared} of these ${resources.length} resource${resources.length === 1 ? ' is' : 's are'} also listed on the <a href="${academicHubPath(o)}" class="underline decoration-teal-500 underline-offset-2">${o.board} ${o.qualification} ${o.subject}</a> course (${syllabusFor(o.boardSlug, o.qualificationSlug, o.subjectSlug)?.code ?? o.qualification}). They are the same pages, counted once on each course.`);
 const articles = await relatedArticles({ subject: hubSlug, limit: 3 });
 
 /**
@@ -472,7 +491,7 @@ if (primaryAssessment) {
    */
   const primaryStatusCaveat =
     primaryAssessment.specStatus === 'future'
-      ? ` ${primaryAssessment.code} is an upcoming specification: its first exams (${primaryAssessment.firstAssessment}) have not been sat yet.${primaryAssessment.firstTeaching ? ` Learners who start the course from ${teachingMonthLabel(primaryAssessment.firstTeaching)} follow it.` : ''}`
+      ? ` ${primaryAssessment.code} is an upcoming specification: its first exams (${firstAssessmentText(primaryAssessment)}) have not been sat yet.${primaryAssessment.firstTeaching ? ` Learners who start the course from ${teachingMonthLabel(primaryAssessment.firstTeaching)} follow it.` : ''}`
       : primaryAssessment.specStatus === 'legacy-teach-out'
         ? ` ${primaryAssessment.code} is being withdrawn${primaryAssessment.relatedCode ? ` in favour of ${primaryAssessment.relatedCode}` : ''}.`
         : primaryAssessment.specStatus === 'withdrawn'
@@ -487,7 +506,7 @@ if (primaryAssessment) {
   if (future && future !== primaryAssessment) {
     faqs.push({
       question: `Is there a new ${c.board} ${c.subject} specification coming?`,
-      answer: `Yes. ${future.code} is an upcoming specification${future.relatedCode ? `, replacing ${future.relatedCode}` : ''}${future.firstTeaching ? `, for first teaching from ${teachingMonthLabel(future.firstTeaching)}` : ''}. First assessment: ${future.firstAssessment}. Learners who start the course ${future.firstTeaching ? `from ${teachingMonthLabel(future.firstTeaching)}` : 'once its teaching begins'} follow ${future.code}; learners already partway through ${primaryAssessment.code} finish that specification${primaryAssessment.finalAssessment ? `, whose final exams are in ${primaryAssessment.finalAssessment}` : ''}.`,
+      answer: `Yes. ${future.code} is an upcoming specification${future.relatedCode ? `, replacing ${future.relatedCode}` : ''}${future.firstTeaching ? `, for first teaching from ${teachingMonthLabel(future.firstTeaching)}` : ''}. First assessment: ${firstAssessmentText(future)}. Learners who start the course ${future.firstTeaching ? `from ${teachingMonthLabel(future.firstTeaching)}` : 'once its teaching begins'} follow ${future.code}; learners already partway through ${primaryAssessment.code} finish that specification${primaryAssessment.finalAssessment ? `, whose final exams are in ${primaryAssessment.finalAssessment}` : ''}.`,
     });
   }
   if (legacy && legacy !== primaryAssessment) {
@@ -509,10 +528,9 @@ if (primaryAssessment) {
  */
 const courseName = `${heading}${syllabus && hasRealCode ? ` (${syllabus.code})` : ''}`;
 if (checklistVersion && checklistVersion.topics.length > 0) {
-  const topicNames = checklistVersion.topics.map((t) => t.name);
   faqs.push({
     question: `What topics does ${courseName} cover?`,
-    answer: `${topicNames.length} topics in the current syllabus: ${topicNames.join('; ')}. The printable topic checklist lists every topic${checklistVersion.topics.some((t) => t.subtopics.length > 0) ? ' and subtopic' : ''} on one page.`,
+    answer: `${topicListFaq(checklistVersion.topics).text} The printable topic checklist lists every topic${checklistVersion.topics.some((t) => t.subtopics.length > 0) ? ' and subtopic' : ''} on one page.`,
   });
 }
 if (!tuitionPage) {
@@ -638,6 +656,7 @@ const jsonLd = [
         courseLabel={`${heading}${syllabus && hasRealCode ? ` (${syllabus.code})` : ''}`}
         searchLabel={syllabus && hasRealCode ? `${courseRenamed ? heading : c.subject} (${syllabus.code})` : heading}
         groups={topicGroups}
+        sharedNotes={sharedNotes}
         flashcards={topicFlashcards}
         tools={[
           ...hubDiagnostics.map((d) => ({ href: diagnosticPath(d), label: 'Test yourself in 10 minutes', detail: d.scopeLabel, cta: 'hub-tool-diagnostic' })),
@@ -762,7 +781,7 @@ const jsonLd = [
                 {a.specStatus === 'future' && (
                   <p class="m-0 mb-3 text-[15px] text-ink-mute">
                     {a.code} is an upcoming specification{a.relatedCode && <>, replacing {a.relatedCode}</>}
-                    {a.firstTeaching && <>, for first teaching from {teachingMonthLabel(a.firstTeaching)}</>}. First assessment: {a.firstAssessment}.
+                    {a.firstTeaching && <>, for first teaching from {teachingMonthLabel(a.firstTeaching)}</>}. First assessment: {firstAssessmentText(a)}.
                     {' '}Its first exams have not been sat yet.
                     {' '}{a.firstTeaching ? <>Learners who start the course from {teachingMonthLabel(a.firstTeaching)} follow it</> : <>Learners follow it once its teaching begins</>}{a.relatedCode && <>; learners already partway through {a.relatedCode} finish that specification{assessments.find((o) => o.code === a.relatedCode)?.finalAssessment && <>, whose final exams are in {assessments.find((o) => o.code === a.relatedCode)?.finalAssessment}</>}</>}.
                   </p>
@@ -801,7 +820,7 @@ const jsonLd = [
                     {a.components.map((comp) => (
                       <tr class="border-b border-rule/60">
                         <td class="py-2 pe-3 text-ink">
-                          {comp.paperCode}: {comp.title}
+                          {componentLabel(comp.paperCode, comp.title)}
                           {/* D-153 follow-up (WS5): some component titles already end in their own
                               "(Core)"/"(Extended)" — e.g. "Non-calculator (Core)" — because that is
                               genuinely part of the official component name. Appending the tier badge
