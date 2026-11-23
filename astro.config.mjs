@@ -287,6 +287,10 @@ export default defineConfig({
         // page's own robots meta in agreement, and don't advertise an
         // internal-only URL in a file search engines actively crawl.
         if (path.startsWith('/admin/')) return false;
+        // Nov 2026 SEO audit -- page 2 onward of an author's resource list renders
+        // noindex (src/pages/authors/[slug]/resources/[...page].astro), so it is kept
+        // out of the sitemap too. Page 1 (no number in the path) stays listed.
+        if (/^\/authors\/[^/]+\/resources\/\d+\/$/.test(path)) return false;
         if (noindexAcademicPaths.has(path)) return false;
         if (archivedContentPaths.has(path)) return false;
         // D-286: confirmation/unsubscribe/error pages are noindexed utility pages.
