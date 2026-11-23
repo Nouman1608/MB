@@ -296,8 +296,9 @@ const searchTitle = resourceSearchTitle({
 
 // Audit P13/P17 -- the end-of-page tuition block: the full prompt where classes are
 // offered, a plain wrapper (with the "not offering" note) where they are not.
-const TuitionBlock = classesAvailable ? ResourceTutoringPrompt : 'div';
-const tuitionBlockProps = classesAvailable
+// Typed loosely on purpose: the component and the plain 'div' take different props.
+const TuitionBlock: any = classesAvailable ? ResourceTutoringPrompt : 'div';
+const tuitionBlockProps: Record<string, unknown> = classesAvailable
   ? {
       label: taughtCourseLabel ?? (studyLabel || subject?.data.title || 'this subject'),
       trialHref: courseTrialHref,
