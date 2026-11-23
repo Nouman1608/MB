@@ -79,7 +79,7 @@ const programs = await getPrograms();
                 <a href={routes.author(t.id)} class="flex items-center gap-4 rounded-sm border border-rule p-4 hover:border-teal-500">
                   {t.data.image ? (
                     <TeacherPicture src={t.data.image} size={56}>
-                      <img src={t.data.image} alt="" width="56" height="56" class="h-14 w-14 shrink-0 rounded-full object-cover" loading="lazy" decoding="async" />
+                      <img src={t.data.image} alt={`Photograph of ${t.data.name}`} width="56" height="56" class="h-14 w-14 shrink-0 rounded-full object-cover" loading="lazy" decoding="async" />
                     </TeacherPicture>
                   ) : (
                     <span aria-hidden="true" class="flex h-14 w-14 shrink-0 items-center justify-center rounded-full border border-rule bg-ivory text-[17px] font-semibold text-ink-mute">{initials(t.data.name)}</span>

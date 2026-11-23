@@ -81,12 +81,48 @@ export const pageTitle = (title: string, isHome = false): string => {
  * fixed-width snippet, so shortening them there would only lose meaning
  * for no benefit.
  */
-const META_DESCRIPTION_MAX_LENGTH = 165;
+const META_DESCRIPTION_MAX_LENGTH = 155;
 
+/** Shortest cut we accept at a sentence or clause boundary; shorter than this
+ *  and a word-boundary cut keeps more of the sentence. */
+const MIN_CUT_LENGTH = 70;
+const DANGLING = /\s+(?:a|an|the|of|and|or|to|for|with|in|on|at|by|from|as|that|which|is|are|can|could|will|would|should|may|might|must|be|really|also|only|just|very|not|each|every|their|its|your|our)$/i;
+
+/**
+ * Nov 2026 SEO audit -- the previous version cut at 165 characters and ended
+ * with an ellipsis, so a long description showed as a sentence trailing off.
+ * It now returns a complete sentence of at most 155 characters: the longest
+ * run of whole sentences that fits, else the longest whole clause (cut at a
+ * ; : , or dash), else the longest run of whole words with any dangling
+ * connective removed and a full stop added. Never mid-word, never an ellipsis.
+ */
 export const metaDescription = (description: string, maxLength = META_DESCRIPTION_MAX_LENGTH): string => {
-  if (description.length <= maxLength) return description;
-  const truncated = description.slice(0, maxLength - 1);
-  const lastSpace = truncated.lastIndexOf(' ');
-  const safe = (lastSpace > 0 ? truncated.slice(0, lastSpace) : truncated).trimEnd();
-  return `${safe}…`;
+  const text = description.replace(/\s+/g, ' ').trim();
+  if (text.length <= maxLength) return text;
+  const window = text.slice(0, maxLength + 1);
+
+  // 1. Whole sentences: last ". " / "! " / "? " inside the window. A full stop
+  //    after a digit or a single capital (e.g. "Sir A. Khan", "1.") is not a stop.
+  let cut = -1;
+  for (const m of window.matchAll(/[.!?](?=\s)/g)) {
+    const i = m.index ?? 0;
+    if (/[A-Z]$|\d$|(?:Mr|Mrs|Ms|Dr|Prof|St|vs|e\.g|i\.e)$/.test(window.slice(0, i))) continue;
+    if (i + 1 <= maxLength) cut = i + 1;
+  }
+  if (cut >= MIN_CUT_LENGTH) return window.slice(0, cut);
+
+  // 2. Whole clause: last ; : , or spaced dash, dropped, and closed with a stop.
+  let clause = -1;
+  for (const m of window.matchAll(/[;:,]\s|\s[–—-]\s/g)) {
+    const i = m.index ?? 0;
+    if (i <= maxLength - 1) clause = i;
+  }
+  if (clause >= MIN_CUT_LENGTH) return `${window.slice(0, clause).replace(DANGLING, '').trimEnd()}.`;
+
+  // 3. Whole words, never mid-word.
+  const head = window.slice(0, maxLength - 1);
+  const lastSpace = head.lastIndexOf(' ');
+  let words = (lastSpace > 0 ? head.slice(0, lastSpace) : head).replace(/[\s,;:–—-]+$/, '');
+  while (DANGLING.test(words)) words = words.replace(DANGLING, '');
+  return `${words.replace(/[.!?]$/, '')}.`;
 };
