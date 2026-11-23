@@ -187,7 +187,7 @@ const flagshipInTransition = [...future, ...legacy].some((r) => flagshipCodes.ha
                 <span class="text-[13.5px] text-ink-mute">Specification {r.assessment.code}{r.assessment.relatedCode && <> (replaces {r.assessment.relatedCode})</>}</span>
                 <dl class="m-0 mt-1 grid grid-cols-[auto_1fr] gap-x-2 gap-y-0.5 text-[13px] text-ink-mute">
                   {r.assessment.firstTeaching && (<><dt class="font-medium text-navy-800">First teaching</dt><dd class="m-0">{teachingMonthLabel(r.assessment.firstTeaching)}</dd></>)}
-                  <dt class="font-medium text-navy-800">First assessment</dt><dd class="m-0">{r.assessment.firstAssessment}</dd>
+                  <dt class="font-medium text-navy-800">First assessment</dt><dd class="m-0">{r.assessment.firstAssessment}{r.assessment.firstAssessmentNote && <> ({r.assessment.firstAssessmentNote})</>}</dd>
                 </dl>
                 {r.hubHref
                   ? <a href={r.hubHref} class="mt-auto pt-2 text-[13.5px] font-medium text-teal-700 hover:underline">Full detail on the {r.subjectLabel} hub →</a>
@@ -234,7 +234,7 @@ const flagshipInTransition = [...future, ...legacy].some((r) => flagshipCodes.ha
                   : <>(its successor, {r.assessment.relatedCode}, has no Marlbridge assessment record yet)</>}</span>
                 <dl class="m-0 mt-1 grid grid-cols-[auto_1fr] gap-x-2 gap-y-0.5 text-[13px] text-ink-mute">
                   {r.assessment.firstTeaching && (<><dt class="font-medium text-navy-800">First teaching</dt><dd class="m-0">{teachingMonthLabel(r.assessment.firstTeaching)}</dd></>)}
-                  <dt class="font-medium text-navy-800">First assessment</dt><dd class="m-0">{r.assessment.firstAssessment}</dd>
+                  <dt class="font-medium text-navy-800">First assessment</dt><dd class="m-0">{r.assessment.firstAssessment}{r.assessment.firstAssessmentNote && <> ({r.assessment.firstAssessmentNote})</>}</dd>
                   {r.assessment.finalAssessment && (<><dt class="font-medium text-navy-800">Final assessment</dt><dd class="m-0">{r.assessment.finalAssessment}</dd></>)}
                 </dl>
                 {r.hubHref
@@ -311,7 +311,7 @@ const flagshipInTransition = [...future, ...legacy].some((r) => flagshipCodes.ha
                   <p class="m-0 mb-2 mb-label text-ink-mute">{label}</p>
                   <dl class="m-0 mb-3 grid grid-cols-[auto_1fr] gap-x-3 gap-y-0.5 text-[13px] text-ink-mute">
                     <dt class="font-medium text-navy-800">First teaching</dt><dd class="m-0">{a.firstTeaching ? teachingMonthLabel(a.firstTeaching) : 'Not recorded'}</dd>
-                    <dt class="font-medium text-navy-800">First assessment</dt><dd class="m-0">{a.firstAssessment}</dd>
+                    <dt class="font-medium text-navy-800">First assessment</dt><dd class="m-0">{a.firstAssessment}{a.firstAssessmentNote && <> ({a.firstAssessmentNote})</>}</dd>
                   </dl>
                   {tierBlocks(a).map((b) => (
                     <div class="mb-3 last:mb-0">
