@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the founders' dates, the Qur'an 2:228 (quru') example and which school takes which meaning, and the examples of differences (hands in prayer, Witr, combining prayers, prostration)."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the founders' dates, the Qur'an 2:228 (quru') example and which school takes which meaning, and the examples of differences (hands in prayer, Witr, combining prayers, prostration). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -139,7 +139,7 @@ Applications (AO2), for example:
 
 Differences (AO1):
 
-- **Founder and Imams** [1]: the Ja'fari school follows Ja'far al-Sadiq, regarded by Twelver Shi'a Muslims as the sixth Imam, and uses the teaching of the Imams of the Prophet's family [1].
+- **Founder and Imams** [1]: the Ja'fari school follows Ja'far al-Sadiq, regarded by Twelver Shi'a Muslims as the sixth Imam, and uses the teaching of the Imams of the Prophet's (pbuh) family [1].
 - **Use of reason** [1]: it relies on reason ('aql) where Sunni schools use qiyas [1].
 - **Ongoing ijtihad** [1]: living senior scholars (marja') continue to give rulings that followers accept [1].
 - **Practice** [1]: for example, Ja'fari Muslims regularly combine prayers and prostrate on natural earth [1].

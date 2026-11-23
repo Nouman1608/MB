@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New skill-unit page: please ask an Islamiyat teacher to check the Qur'an and Hadith references, the transliterations and the self-test answers before sign-off."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New skill-unit page: please ask an Islamiyat teacher to check the Qur'an and Hadith references, the transliterations and the self-test answers before sign-off. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -47,7 +47,7 @@ featured: false
 - "Whoever believes in Allah and the Last Day, let him honour his neighbour" (Bukhari).
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-rights-of-neighbours-amanat--02-rights-of-neighbours.webp" width="900" height="633" alt="The prescribed Bukhari Hadith links faith to the neighbour’s safety. Five rights follow: safety from harm, kindness and gifts, help in need, respect for privacy and patience. A note cites Qur’an 4:36 and the Hadith about Jibril (AS) advising on neighbours." loading="lazy">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-rights-of-neighbours-amanat--02-rights-of-neighbours.webp" width="900" height="633" alt="The prescribed Bukhari Hadith links faith to the neighbour's safety. Five rights follow: safety from harm, kindness and gifts, help in need, respect for privacy and patience. A note cites Qur'an 4:36 and the Hadith about Jibril (AS) advising on neighbours." loading="lazy">
   <figcaption>Safety is the minimum right: faith is linked to how a neighbour is treated.</figcaption>
 </figure>
 
@@ -58,7 +58,7 @@ Property left for safekeeping · secrets · promises · a job and working time �
 **Examples to quote:** the Prophet (pbuh) known as al-Amin; Ali (RA) returning the trusts in Makkah at the Hijrah; believers "to their trusts and their promises attentive" (23:8).
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-rights-of-neighbours-amanat--03-forms-of-amanah.webp" width="900" height="536" alt="Forms of amanah around a centre: goods left for safekeeping, as Ali (RA) returned on the night of the Hijrah, secrets, one’s job, public office and money, one’s body and abilities, and the neighbour’s safety, privacy and reputation. A note gives Qur’an 4:58 and the signs of a hypocrite." loading="lazy">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-rights-of-neighbours-amanat--03-forms-of-amanah.webp" width="900" height="536" alt="Forms of amanah around a centre: goods left for safekeeping, as Ali (RA) returned on the night of the Hijrah, secrets, one's job, public office and money, one's body and abilities, and the neighbour's safety, privacy and reputation. A note gives Qur'an 4:58 and the signs of a hypocrite." loading="lazy">
   <figcaption>Amanah includes secrets, jobs, promises and responsibilities, not only money.</figcaption>
 </figure>
 
@@ -70,7 +70,7 @@ Property left for safekeeping · secrets · promises · a job and working time �
 4. Limited exceptions: stopping wrongdoing, or honest advice when asked (for marriage or business).
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-rights-of-neighbours-amanat--04-backbiting-or-slander.webp" width="900" height="630" alt="Saying about someone what they would dislike is backbiting if it is true and slander if it is not. Qur’an 49:12 compares backbiting to eating a dead brother’s flesh. Muslims should defend the absent person; scholars allow limited exceptions such as reporting wrongdoing or giving an honest warning when asked." loading="lazy">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-rights-of-neighbours-amanat--04-backbiting-or-slander.webp" width="900" height="630" alt="Saying about someone what they would dislike is backbiting if it is true and slander if it is not. Qur'an 49:12 compares backbiting to eating a dead brother's flesh. Muslims should defend the absent person; scholars allow limited exceptions such as reporting wrongdoing or giving an honest warning when asked." loading="lazy">
   <figcaption>Backbiting is wrong even when it is true.</figcaption>
 </figure>
 
@@ -82,7 +82,7 @@ Property left for safekeeping · secrets · promises · a job and working time �
 4. Opposite: humility (*tawadu'*), shown in the equality of Salah rows and Hajj clothing.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-rights-of-neighbours-amanat--05-arrogance-humility.webp" width="900" height="606" alt="Arrogance began with Iblis refusing to prostrate to Adam (AS). Arrogance is rejecting the truth and looking down on people (Sahih Muslim; Qur’an 31:18); liking good clothes is not arrogance, because Allah is beautiful and loves beauty. Arrogance divides people; humility supports equality." loading="lazy">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-rights-of-neighbours-amanat--05-arrogance-humility.webp" width="900" height="606" alt="Arrogance began with Iblis refusing to prostrate to Adam (AS). Arrogance is rejecting the truth and looking down on people (Sahih Muslim; Qur'an 31:18); liking good clothes is not arrogance, because Allah is beautiful and loves beauty. Arrogance divides people; humility supports equality." loading="lazy">
   <figcaption>Arrogance means rejecting truth and looking down on people, not liking good things.</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Property left for safekeeping · secrets · promises · a job and working time �
 4. Ghibtah = wishing for the same good without wanting the other to lose it; allowed for wealth spent rightly and wisdom used to judge and teach (Bukhari).
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-rights-of-neighbours-amanat--06-hasad-or-ghibtah.webp" width="900" height="485" alt="When seeing another’s blessing, hasad wants them to lose it, resents Allah’s decree and leads to hatred; it is forbidden. Ghibtah wishes for the same good without wanting them to lose it, as in the Hadith of the two cases of wealth spent rightly and wisdom; it is allowed. The cure is contentment, gratitude and du’a." loading="lazy">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-rights-of-neighbours-amanat--06-hasad-or-ghibtah.webp" width="900" height="485" alt="When seeing another's blessing, hasad wants them to lose it, resents Allah's decree and leads to hatred; it is forbidden. Ghibtah wishes for the same good without wanting them to lose it, as in the Hadith of the two cases of wealth spent rightly and wisdom; it is allowed. The cure is contentment, gratitude and du'a." loading="lazy">
   <figcaption>Wishing for the same blessing is allowed; wishing someone to lose it is not.</figcaption>
 </figure>
 

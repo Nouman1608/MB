@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the traditional figures for Sahih al-Bukhari (about 7,000 reports with repeats, about 2,600 without; sixteen years), the dates for Bukhari and Muslim, and the account of the two conditions (met versus contemporaries)."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the traditional figures for Sahih al-Bukhari (about 7,000 reports with repeats, about 2,600 without; sixteen years), the dates for Bukhari and Muslim, and the account of the two conditions (met versus contemporaries). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -64,7 +64,7 @@ Apply **one** teaching from a source of authority in your answer. **[6]**
 
 > **Sahih al-Bukhari 3461** (extract)
 >
-> Narrated 'Abdullah bin 'Amr: The Prophet said, "Convey (my teachings) to the people even if it were
+> Narrated 'Abdullah bin 'Amr: The Prophet (pbuh) said, "Convey (my teachings) to the people even if it were
 > a single sentence, ... And whoever tells a lie on me intentionally will surely take his place in the
 > (Hell) Fire."
 

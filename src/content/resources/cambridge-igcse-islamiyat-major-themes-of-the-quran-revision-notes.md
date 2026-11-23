@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 ---
 
 **These notes cover Paper 1 Question 1 of Cambridge IGCSE Islamiyat 0493, Major Themes of the
@@ -81,7 +81,7 @@ attitude, and support it with another verse or hadith where you can.
 |---|---|---|---|
 | Sura 1 (al-Fatiha) | Praise, worship and the request for guidance | Praise to Allah, Lord of the worlds; Most Gracious, Most Merciful; Master of the Day of Judgement; You alone we worship and ask for help; guide us on the straight path | Recited in every unit of salat; a daily reminder of dependence on Allah and the need for guidance |
 | Sura 2.21–22 | Allah as Creator and Sustainer | Worship your Lord who created you and those before you; He made the earth a resting place and the sky a canopy; sends rain and brings out fruits; do not set up rivals to Him | Gratitude for provision; care for creation; avoid shirk |
-| Sura 96.1–5 | Allah as Creator and Teacher; the first revelation | "Read" in the name of your Lord who created; created humans from a clinging substance; taught by the pen; taught what humans did not know | Importance of seeking knowledge; marks the start of the Prophet's mission at Hira |
+| Sura 96.1–5 | Allah as Creator and Teacher; the first revelation | "Read" in the name of your Lord who created; created humans from a clinging substance; taught by the pen; taught what humans did not know | Importance of seeking knowledge; marks the start of the Prophet's (pbuh) mission at Hira |
 | Sura 99 (al-Zalzala) | The Day of Judgement and accountability | The earth will shake and bring out its burdens; it will report what happened on it; people will see their deeds; an atom's weight of good or evil will be seen | Every action counts, so Muslims try to do good and avoid even small wrongs |
 | Sura 114 (al-Nas) | Seeking refuge with Allah from evil | Seek refuge with the Lord, King and God of mankind from the whisperer who withdraws, among jinn and people | Recited for protection; reminds Muslims that Allah protects against temptation |
 

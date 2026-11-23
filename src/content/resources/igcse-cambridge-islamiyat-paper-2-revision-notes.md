@@ -17,7 +17,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -25,12 +25,12 @@ featured: false
 Condensed recall notes for **Paper 2** of Cambridge IGCSE Islamiyat
 (0493), 2026–2027 series. Paper 2 is a 1.5-hour exam of five questions,
 of which candidates must answer Question 1, Question 2 and two others,
-covering the Hadiths of the Prophet, the Rightly Guided Caliphs, and
+covering the Hadiths of the Prophet (pbuh), the Rightly Guided Caliphs, and
 the Articles of Faith and Pillars of Islam. Use this alongside the full
 study guide on Paper 2 for explanation and context — these notes are
 for quick recall in the final stretch of revision.
 
-## 1. Major teachings in the Hadiths of the Prophet
+## 1. Major teachings in the Hadiths of the Prophet (pbuh)
 
 - Two groups of passages are set for close study: those relating to
   **individual conduct** and those relating to **life in the
@@ -49,7 +49,7 @@ for quick recall in the final stretch of revision.
 ## 2. The history and importance of the Hadiths
 
 - The **history of compilation**: how the Hadiths were gathered after
-  the Prophet's death, and the earliest collections.
+  the Prophet's (pbuh) death, and the earliest collections.
 - The **main musnad and musannaf collections** and their compilers,
   and what each compiler did.
 - The method of testing a Hadith's reliability: examining the chain of
@@ -81,14 +81,14 @@ for quick recall in the final stretch of revision.
 - Their importance as examples for how Muslim communities relate to
   other states.
 - Note the boundary with Paper 1: the Caliphs' lives and roles *during
-  the Prophet's lifetime* are examined under Paper 1 — this topic in
-  Paper 2 covers only their period of **rule after** the Prophet's
+  the Prophet's (pbuh) lifetime* are examined under Paper 1 — this topic in
+  Paper 2 covers only their period of **rule after** the Prophet's (pbuh)
   death.
 - Exam question: one or two questions, usually multi-part,
   essay-length answers. [14 marks]
 - Do not omit the **Ridda (apostasy) wars** when asked about Abu
   Bakr's rule, achievements or difficulties: tribes that withheld zakat
-  or followed false prophets after the Prophet's death were brought
+  or followed false prophets after the Prophet's (pbuh) death were brought
   back under the authority of Madinah, holding the community together.
   (Only the link to Yamama and the Qur'an's compilation belongs to
   Paper 1.)
@@ -161,7 +161,7 @@ of significance are the most common way marks are lost on this topic.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-cambridge-islamiyat-paper-2--03-topic-tips.webp" width="900" height="624" alt="A banner says every answer should move from knowledge to significance. Below, one tip per topic: study the 2.1 passages in Arabic and English; in 2.2 link Hadiths to the Qur'an, ijma' and qiyas; in 2.3 cover only the Caliphs' rule after the Prophet's death; in 2.4 describe each Pillar as what, how and why." loading="lazy">
+  <img src="https://img.marlbridge.com/igcse-cambridge-islamiyat-paper-2--03-topic-tips.webp" width="900" height="624" alt="A banner says every answer should move from knowledge to significance. Below, one tip per topic: study the 2.1 passages in Arabic and English; in 2.2 link Hadiths to the Qur'an, ijma' and qiyas; in 2.3 cover only the Caliphs' rule after the Prophet's (pbuh) death; in 2.4 describe each Pillar as what, how and why." loading="lazy">
   <figcaption>Knowledge plus significance, with one specific habit per topic.</figcaption>
 </figure>
 

@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review; 2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: RCD row now names all three members (audit C16)."
 ---
 
 **These notes condense Section 3 of Cambridge O Level Pakistan Studies 2059 Paper 1, Nationhood
@@ -128,7 +128,7 @@ and refugees; US aid; died August 1988.
 | India | Kashmir; wars 1947–48, 1965, 1971; Simla 1972; nuclear rivalry; Lahore Declaration 1999 |
 | Bangladesh | Recognised 1974; repatriation and asset issues |
 | Afghanistan | Pakhtoonistan dispute; Soviet invasion 1979; refugees |
-| Iran | RCD 1964 with Turkey; changes after 1979 revolution |
+| Iran | RCD 1964 (Pakistan, Iran and Turkey); changes after 1979 revolution |
 | China | Close partnership; Karakoram Highway |
 | USSR/Russia | Cool in Cold War; Afghanistan; closer after 1991; Sharif in Moscow 1999 |
 | USA/UK | SEATO 1954, CENTO 1955; left SEATO 1972, CENTO 1979 |

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-09-01
 featured: false
 ---
@@ -51,7 +51,7 @@ in depth on any of the four topics, not just their strongest one.
 
 **CAMBRIDGE IGCSE ISLAMIYAT (0493) — PAPER 2**
 
-**2.1 Major teachings in the Hadiths of the Prophet**
+**2.1 Major teachings in the Hadiths of the Prophet (pbuh)**
 - Two groups of set passages for close study, covering individual conduct and life in the community, studied with reference to both the original Arabic text and its English translation (passages are set in both languages in the examination)
 - What each passage teaches Muslims to believe and how to act
 
@@ -102,7 +102,7 @@ Hadiths and the Qur'an distinct in your answers: 2.2 specifically
 asks about the Hadiths' relationship to the Qur'an, consensus and
 analogy, so an answer that only describes Hadith compilation without
 addressing that relationship misses part of the mark scheme. For
-2.3, note that the Caliphs' lives during the Prophet's own lifetime
+2.3, note that the Caliphs' lives during the Prophet's (pbuh) own lifetime
 belong to Paper 1, not Paper 2 -- Paper 2 covers only their period of
 rule after his death, so keep the two timeframes separate when
 revising. For 2.4, the Five Pillars are the most detailed part of
@@ -119,7 +119,7 @@ topics is examined in a way that does not suit a candidate's
 preparation that year.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-cambridge-islamiyat-paper-2--03-topic-tips.webp" width="900" height="624" alt="A banner says every answer should move from knowledge to significance. Below, one tip per topic: study the 2.1 passages in Arabic and English; in 2.2 link Hadiths to the Qur'an, ijma' and qiyas; in 2.3 cover only the Caliphs' rule after the Prophet's death; in 2.4 describe each Pillar as what, how and why." loading="lazy">
+  <img src="https://img.marlbridge.com/igcse-cambridge-islamiyat-paper-2--03-topic-tips.webp" width="900" height="624" alt="A banner says every answer should move from knowledge to significance. Below, one tip per topic: study the 2.1 passages in Arabic and English; in 2.2 link Hadiths to the Qur'an, ijma' and qiyas; in 2.3 cover only the Caliphs' rule after the Prophet's (pbuh) death; in 2.4 describe each Pillar as what, how and why." loading="lazy">
   <figcaption>Knowledge plus significance, with one specific habit per topic.</figcaption>
 </figure>
 

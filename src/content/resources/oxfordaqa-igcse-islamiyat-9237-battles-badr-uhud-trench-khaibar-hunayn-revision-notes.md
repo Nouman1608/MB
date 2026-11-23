@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New skill-unit page: please ask an Islamiyat teacher to check the battle summaries, traditional figures, names and self-test answers before sign-off."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New skill-unit page: please ask an Islamiyat teacher to check the battle summaries, traditional figures, names and self-test answers before sign-off. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -61,12 +61,12 @@ featured: false
 2. The Prophet (pbuh) consulted and accepted the majority view to go out.
 3. Abdullah ibn Ubayy withdrew with about a third of the army.
 4. About fifty archers under Abdullah ibn Jubayr (RA) left their post; Khalid ibn al-Walid attacked from behind.
-5. Hamza (RA) martyred; the Prophet wounded; Talha (RA) shielded him; about seventy martyred.
+5. Hamza (RA) martyred; the Prophet (pbuh) wounded; Talha (RA) shielded him; about seventy martyred.
 
 **Evidence:** the prescribed passage 3:121-127 describes Uhud and calls for patience and taqwa (3:125).
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-battles-badr-uhud-trench-khaibar-hunayn--03-uhud-chain.webp" width="900" height="768" alt="Five numbered steps at Uhud: consultation and going out to the mountain, the withdrawal of Abdullah ibn Ubayy, the order to the archers, most archers leaving the hill for spoils, and Khalid ibn al-Walid’s cavalry attacking from behind. Below, the lessons: obedience, greed, hypocrisy exposed, shura and patience." loading="lazy">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-battles-badr-uhud-trench-khaibar-hunayn--03-uhud-chain.webp" width="900" height="768" alt="Five numbered steps at Uhud: consultation and going out to the mountain, the withdrawal of Abdullah ibn Ubayy, the order to the archers, most archers leaving the hill for spoils, and Khalid ibn al-Walid's cavalry attacking from behind. Below, the lessons: obedience, greed, hypocrisy exposed, shura and patience." loading="lazy">
   <figcaption>Uhud was lost through disobedience, not because the Muslims were outnumbered.</figcaption>
 </figure>
 
@@ -79,8 +79,8 @@ featured: false
 5. Distrust among the allies and a cold wind (33:9) made them withdraw.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-battles-badr-uhud-trench-khaibar-hunayn--04-trench-schematic.webp" width="900" height="706" alt="A schematic, not to scale: a trench dug across the open northern side of Madinah stops the cavalry of about 10,000 confederates. Beside it: Salman al-Farsi’s idea, the Prophet (pbuh) digging with the companions, a siege of several weeks with the Banu Qurayza breaking their agreement, and a cold wind before the confederates withdrew." loading="lazy">
-  <figcaption>A Persian convert’s idea saved the city in the last great Makkan attack.</figcaption>
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-battles-badr-uhud-trench-khaibar-hunayn--04-trench-schematic.webp" width="900" height="706" alt="A schematic, not to scale: a trench dug across the open northern side of Madinah stops the cavalry of about 10,000 confederates. Beside it: Salman al-Farsi's idea, the Prophet (pbuh) digging with the companions, a siege of several weeks with the Banu Qurayza breaking their agreement, and a cold wind before the confederates withdrew." loading="lazy">
+  <figcaption>A Persian convert's idea saved the city in the last great Makkan attack.</figcaption>
 </figure>
 
 ## Khaibar: four facts
@@ -118,7 +118,7 @@ featured: false
 - **Significance:** peaceful spread of Islam; unity of Arabia; fulfilment of Surah an-Nasr (110).
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-battles-badr-uhud-trench-khaibar-hunayn--07-aam-ul-wufood.webp" width="900" height="595" alt="Delegations came to Madinah in 630–631 CE, including the Thaqif of Ta’if, the Banu Tamim and Christians from Najran. They were received with hospitality and taught Islam, and companions such as Mu’adh ibn Jabal (RA) were sent back as teachers and governors. Most of Arabia accepted Islam peacefully." loading="lazy">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-battles-badr-uhud-trench-khaibar-hunayn--07-aam-ul-wufood.webp" width="900" height="595" alt="Delegations came to Madinah in 630–631 CE, including the Thaqif of Ta'if, the Banu Tamim and Christians from Najran. They were received with hospitality and taught Islam, and companions such as Mu'adh ibn Jabal (RA) were sent back as teachers and governors. Most of Arabia accepted Islam peacefully." loading="lazy">
   <figcaption>Aam ul Wufood is about peaceful acceptance of Islam, not a battle.</figcaption>
 </figure>
 

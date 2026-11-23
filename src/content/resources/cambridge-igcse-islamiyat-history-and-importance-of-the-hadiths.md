@@ -21,11 +21,11 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 ---
 
 **The History and Importance of the Hadiths is Paper 2 Question 2 of Cambridge IGCSE Islamiyat
-0493, a compulsory 14-mark essay question.** It asks how the sayings and actions of the Prophet
+0493, a compulsory 14-mark essay question.** It asks how the sayings and actions of the Prophet (pbuh)
 Muhammad (pbuh) were recorded, collected and tested for reliability, what the major Sunni and Shi'a
 collections are, and how Hadiths are used alongside the Qur'an, ijma' and qiyas in Islamic law and
 in Muslims' lives.
@@ -45,18 +45,18 @@ in Muslims' lives.
 
 A Hadith is a report of what the Prophet (pbuh) said, did or approved. Each Hadith has two parts:
 the **isnad**, the chain of people who passed it on ("A told me that B said that C heard the
-Prophet say…"), and the **matn**, the text itself. The **Sunnah** is the Prophet's way of life,
+Prophet say…"), and the **matn**, the text itself. The **Sunnah** is the Prophet's (pbuh) way of life,
 known mainly through Hadiths.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-history-and-importance-of-the-hadiths--01-isnad-and-matn.webp" width="900" height="634" alt="The isnad is drawn as a chain: A told me that B said that C heard the Prophet (pbuh) say. Below it the matn, the text itself, reports what the Prophet said, did or approved. A note defines the Sunnah as his way of life, known mainly through Hadiths." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-history-and-importance-of-the-hadiths--01-isnad-and-matn.webp" width="900" height="634" alt="The isnad is drawn as a chain: A told me that B said that C heard the Prophet (pbuh) say. Below it the matn, the text itself, reports what the Prophet (pbuh) said, did or approved. A note defines the Sunnah as his way of life, known mainly through Hadiths." loading="lazy">
   <figcaption>Isnad is the chain of narrators; matn is the text they passed on.</figcaption>
 </figure>
 
 ## How were the Hadiths collected?
 
-**In the Prophet's lifetime.** Companions memorised his words and observed his practice. At first
-the Prophet discouraged writing Hadiths down, according to some reports so that they would not be
+**In the Prophet's (pbuh) lifetime.** Companions memorised his words and observed his practice. At first
+the Prophet (pbuh) discouraged writing Hadiths down, according to some reports so that they would not be
 confused with the Qur'an, but some companions, such as Abdullah ibn Amr ibn al-As, kept written
 notes with his permission.
 
@@ -78,7 +78,7 @@ main types of book:
 | Musnad | By the companion who narrated each Hadith | The *Musnad* of Ahmad ibn Hanbal |
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-history-and-importance-of-the-hadiths--02-stages-of-compilation.webp" width="900" height="693" alt="Four stages in order: memorising and some note-taking in the Prophet's lifetime; teaching by companions and successors with early sahifas; the order of Umar ibn Abd al-Aziz (ruled 717–720) to collect Hadiths in writing; and the musannaf and musnad collections of the second and third Islamic centuries, followed by the six Sunni collections." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-history-and-importance-of-the-hadiths--02-stages-of-compilation.webp" width="900" height="693" alt="Four stages in order: memorising and some note-taking in the Prophet's (pbuh) lifetime; teaching by companions and successors with early sahifas; the order of Umar ibn Abd al-Aziz (ruled 717–720) to collect Hadiths in writing; and the musannaf and musnad collections of the second and third Islamic centuries, followed by the six Sunni collections." loading="lazy">
   <figcaption>From memory to notebooks to official collection to the great compilations.</figcaption>
 </figure>
 
@@ -91,17 +91,17 @@ main types of book:
 
 **Isnad criticism.** Scholars studied the biographies of narrators (*ilm al-rijal*). A reliable chain
 needed narrators who were known to be of good character and religious practice, had a sound memory,
-and could have met the person they reported from, with no gap in the chain back to the Prophet
+and could have met the person they reported from, with no gap in the chain back to the Prophet (pbuh)
 (pbuh).
 
 **Matn criticism.** The text should not contradict the Qur'an, well-established Hadiths or reason,
-and should fit what was known of the Prophet's character and language.
+and should fit what was known of the Prophet's (pbuh) character and language.
 
 On this basis Hadiths were graded, for example as **sahih** (sound), **hasan** (good) or **da'if**
 (weak). Fabricated reports were identified and rejected.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-history-and-importance-of-the-hadiths--04-testing-reliability.webp" width="900" height="644" alt="Two checklists feed one grade. Isnad criticism checks narrators' character, memory, whether they could have met and that there is no gap in the chain. Matn criticism checks the text against the Qur'an, established Hadiths, reason and the Prophet's character. Results are sahih (sound), hasan (good), da'if (weak), or fabricated and rejected." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-history-and-importance-of-the-hadiths--04-testing-reliability.webp" width="900" height="644" alt="Two checklists feed one grade. Isnad criticism checks narrators' character, memory, whether they could have met and that there is no gap in the chain. Matn criticism checks the text against the Qur'an, established Hadiths, reason and the Prophet's (pbuh) character. Results are sahih (sound), hasan (good), da'if (weak), or fabricated and rejected." loading="lazy">
   <figcaption>Both the chain and the text are tested before a Hadith is graded.</figcaption>
 </figure>
 
@@ -122,7 +122,7 @@ clear arrangement.
 
 ## What are the four Shi'a collections?
 
-Shi'a Muslims accept Hadiths transmitted through the Prophet's family (the Ahl al-Bayt) and the
+Shi'a Muslims accept Hadiths transmitted through the Prophet's (pbuh) family (the Ahl al-Bayt) and the
 Imams. Their four main books are *al-Kafi* by al-Kulayni; *Man la yahduruhu al-faqih* by Ibn
 Babawayh (al-Shaykh al-Saduq); and *Tahdhib al-ahkam* and *al-Istibsar*, both by al-Shaykh al-Tusi.
 *Al-Kafi* covers belief as well as law; the other three focus mainly on law.

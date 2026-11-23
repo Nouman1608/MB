@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-23: figure caption no longer cites Cambridge 0455 (audit C28)."
 ---
 
 This guide follows the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021. It covers the area of study **Scarcity and choice** in Component 1, Microeconomics: the basic economic problem, the market economy and the concept of the margin. The whole specification is A Level and the text labels no content as AS or Extension. All figures in worked examples are invented and illustrative.
@@ -264,6 +264,6 @@ OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), for f
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-causes-of-market-failure.webp" width="900" height="1060" alt="Five small pictures show the causes of market failure: public goods, merit and demerit goods, external costs and benefits, abuse of monopoly power and factor immobility. The result is the wrong amount produced or used." loading="lazy">
-  <figcaption>Market failure has five causes limited to those in the 0455 syllabus.</figcaption>
+  <figcaption>Market failure has five main causes.</figcaption>
 </figure>
 

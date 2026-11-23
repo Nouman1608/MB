@@ -18,14 +18,14 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New skill-unit page: please ask an Islamiyat teacher to check the questions, historical details, references and mark guidance before sign-off."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New skill-unit page: please ask an Islamiyat teacher to check the questions, historical details, references and mark guidance before sign-off. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-17
 featured: false
 ---
 
 > **These are original questions written for Marlbridge**, for practice on content area 3.2.1.7:
-> the pledges of Aqaba, the journey to Madinah and the roles of Hazrat Abu Bakr (RA) and Hazrat Ali
-> (RA), the Prophet's role as a statesman, the Charter of Madinah and the first mosque. They use the
+> the pledges of Aqaba, the journey to Madinah and the roles of Hazrat Abu Bakr (RA) and Hazrat Ali (RA)
+> (RA), the Prophet's (pbuh) role as a statesman, the Charter of Madinah and the first mosque. They use the
 > 1, 2, 4, 6 and 12-mark tariffs of the paper's questions but are **not** reproduced past-paper
 > questions.
 
@@ -41,7 +41,7 @@ Related: [Hijrah study guide](/resources/oxfordaqa-igcse-islamiyat-9237-hijrah-m
 
 **3.** Give **two** promises made in the first pledge of Aqaba. **[2]**
 
-**4.** Give **two** uses of the Prophet's Mosque in Madinah apart from prayer. **[2]**
+**4.** Give **two** uses of the Prophet (pbuh)'s Mosque in Madinah apart from prayer. **[2]**
 
 **5.** Describe the role of Hazrat Ali (RA) in the Hijrah. **[4]**
 
@@ -123,14 +123,14 @@ accurate use of a source of authority, **two** for a specific use applied to the
 
 **4.** Any two, [1] each: teaching and learning; judging disputes; receiving delegations and visitors; planning and meetings for the community; shelter for poor companions in the suffah; announcing news.
 
-**5.** Any four, [1] each: the Quraysh planned to kill the Prophet (pbuh) at night; Ali (RA) slept in the Prophet's bed; covered with the Prophet's cloak, so the watchers thought the Prophet was still there; he risked his life; he stayed in Makkah to return goods people had left with the Prophet for safekeeping; he then travelled to Madinah and joined the Prophet.
+**5.** Any four, [1] each: the Quraysh planned to kill the Prophet (pbuh) at night; Ali (RA) slept in the Prophet's (pbuh) bed; covered with the Prophet's (pbuh) cloak, so the watchers thought the Prophet (pbuh) was still there; he risked his life; he stayed in Makkah to return goods people had left with the Prophet (pbuh) for safekeeping; he then travelled to Madinah and joined the Prophet (pbuh).
 
 **6.** For each of two ways: way identified [1] and explained [1].
 
 - **Preparation** [1]: he had camels ready and hired a guide, so the journey could begin at once [1].
-- **Companionship and courage** [1]: he hid with the Prophet in Thawr for three days despite the danger [1].
+- **Companionship and courage** [1]: he hid with the Prophet (pbuh) in Thawr for three days despite the danger [1].
 - **His family's help** [1]: his son brought news and his daughter Asma (RA) brought food [1].
-- **Loyalty** [1]: he put the Prophet's safety above his own, earning the title "the second of two" (9:40) [1].
+- **Loyalty** [1]: he put the Prophet's (pbuh) safety above his own, earning the title "the second of two" (9:40) [1].
 
 **7.** For each of two differences: difference identified [1] and explained [1].
 
@@ -167,10 +167,10 @@ Applications (AO2), for example:
 
 Reasons (AO1):
 
-- **Honesty with trusts** [1]: Ali (RA) returned goods to people who were the Prophet's enemies, so Muslims must keep trusts with everyone [1].
-- **Courage for the faith** [1]: Ali risked his life in the bed, showing willingness to sacrifice for Islam [1].
+- **Honesty with trusts** [1]: Ali (RA) returned goods to people who were the Prophet's (pbuh) enemies, so Muslims must keep trusts with everyone [1].
+- **Courage for the faith** [1]: Ali (RA) risked his life in the bed, showing willingness to sacrifice for Islam [1].
 - **Loyal friendship** [1]: Abu Bakr (RA) gave his wealth, time and family's help, a model of supporting good causes [1].
-- **Trust in Allah** [1]: in the cave the Prophet (pbuh) reassured Abu Bakr that Allah was with them, so Muslims rely on Allah in fear [1].
+- **Trust in Allah** [1]: in the cave the Prophet (pbuh) reassured Abu Bakr (RA) that Allah was with them, so Muslims rely on Allah in fear [1].
 
 Applications (AO2), for example:
 
@@ -198,7 +198,7 @@ Applications (AO2), for example:
 
 *Points of significance*
 
-- The Prophet's Mosque was a place of **teaching, justice, welfare and government** as well as prayer.
+- The Prophet (pbuh)'s Mosque was a place of **teaching, justice, welfare and government** as well as prayer.
 - The **suffah** sheltered and educated poor companions.
 - Delegations were received and decisions made there.
 - Mosques today run schools, give charity, host marriages and funerals, and bring communities together.
@@ -218,5 +218,5 @@ An answer that explains a range of points, reasons about their implications and 
 - Confusing the two pledges of Aqaba.
 - Saying Ali (RA) travelled with the Prophet (pbuh).
 - Naming the Cave of Hira instead of Thawr.
-- Calling the Prophet's Mosque the first mosque.
+- Calling the Prophet (pbuh)'s Mosque the first mosque.
 - In the 12-mark questions, giving only one view or not using the passage.

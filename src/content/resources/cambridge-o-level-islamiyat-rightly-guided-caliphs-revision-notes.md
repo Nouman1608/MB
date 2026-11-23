@@ -21,11 +21,11 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review; 2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 ---
 
 **These notes cover Paper 2 Topic 3 of Cambridge O Level Islamiyat 2058, The Period of Rule of the
-Rightly Guided Caliphs and their Importance as Leaders.** They compare Abu Bakr, Umar, Uthman and Ali
+Rightly Guided Caliphs and their Importance as Leaders.** They compare Abu Bakr (RA), Umar (RA), Uthman (RA) and Ali (RA)
 side by side, so you can answer both "describe the main events of…" questions and "what can modern
 leaders learn from…" questions with precise examples.
 
@@ -34,21 +34,21 @@ leaders learn from…" questions with precise examples.
 **2058 Paper 2, Topic 3 (2026–2027 syllabus):** main events of the four rules; policies for
 maintaining and expanding the state; approaches to leadership; achievements; difficulties;
 significance as examples of leadership; models for government today and for relations with other
-states. Events before 632, during the Prophet's lifetime, belong to Paper 1.
+states. Events before 632, during the Prophet's (pbuh) lifetime, belong to Paper 1.
 
 ## The four caliphs compared
 
-| | Abu Bakr | Umar | Uthman | Ali |
+| | Abu Bakr (RA) | Umar (RA) | Uthman (RA) | Ali (RA) |
 |---|---|---|---|---|
 | Rule (CE) | 632–634 | 634–644 | 644–656 | 656–661 |
-| How chosen | Agreement at Saqifa of Banu Sa'ida | Nominated by Abu Bakr after consultation | Council of six appointed by Umar | Pledged allegiance in Madina after Uthman's death |
+| How chosen | Agreement at Saqifa of Banu Sa'ida | Nominated by Abu Bakr (RA) after consultation | Council of six appointed by Umar (RA) | Pledged allegiance in Madina after Uthman's (RA) death |
 | Main challenge | Apostasy, false prophets, refusal of zakat | Governing a rapidly growing state | Unrest and accusations of favouritism | Civil conflict and the Kharijites |
 | Key achievement | Unity restored; Qur'an gathered into one copy | Conquests and administration | Standard copies of the Qur'an; navy | Justice and learning in a time of crisis |
 | End of rule | Died of illness | Stabbed by Abu Lu'lu'a | Martyred by rebels in Madina | Struck by Ibn Muljam in Kufa |
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-rightly-guided-caliphs--01-caliphs-timeline.webp" width="900" height="517" alt="A scaled bar from 632 to 661 divided into the rules of Abu Bakr (632–634), Umar (634–644), Uthman (644–656) and Ali (656–661), with key events for each: Usama's army, the Ridda wars and the collection of the Qur'an; Umar's conquests and administration; Uthman's expansion, navy, standard copies and the siege; and Ali's battles of the Camel, Siffin and Nahrawan." loading="lazy">
-  <figcaption>Four rules in under thirty years; Umar and Uthman ruled longest.</figcaption>
+  <figcaption>Four rules in under thirty years; Umar (RA) and Uthman (RA) ruled longest.</figcaption>
 </figure>
 
 <figure class="topic-figure">
@@ -56,20 +56,20 @@ states. Events before 632, during the Prophet's lifetime, belong to Paper 1.
   <figcaption>Four different methods, each resting on consultation and consent.</figcaption>
 </figure>
 
-## Abu Bakr: key points
+## Abu Bakr (RA): key points
 
 - First sermon: "Obey me as long as I obey Allah and His Messenger."
 - Sent Usama's army as the Prophet (pbuh) had planned.
 - Ridda wars against false prophets (Musaylima defeated at Yamama) and tribes refusing zakat.
-- Qur'an compiled by Zayd ibn Thabit after many memorisers died at Yamama.
+- Qur'an compiled by Zayd ibn Thabit (RA) after many memorisers died at Yamama.
 - Early campaigns into Iraq and Syria under Khalid ibn al-Walid.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-rightly-guided-caliphs--02-abu-bakr-problems-responses.webp" width="900" height="729" alt="Five problems and Abu Bakr's responses: choosing a leader at the Saqifa; sending Usama's army despite danger at home; the Ridda wars against tribes refusing zakat and false prophets, ending at Yamama; collecting the Qur'an after huffaz died; and nominating Umar after consultation." loading="lazy">
-  <figcaption>Abu Bakr met each crisis firmly and kept the community and the Qur'an intact.</figcaption>
+  <figcaption>Abu Bakr (RA) met each crisis firmly and kept the community and the Qur'an intact.</figcaption>
 </figure>
 
-## Umar: key points
+## Umar (RA): key points
 
 - Conquest of Syria (Yarmuk), Iraq (Qadisiyya), Jerusalem and Egypt.
 - Entered Jerusalem humbly and guaranteed the safety of its people and churches.
@@ -80,30 +80,30 @@ states. Events before 632, during the Prophet's lifetime, belong to Paper 1.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-rightly-guided-caliphs--03-umar-building-a-state.webp" width="900" height="581" alt="Umar at the centre with four areas: expansion through Yarmuk, Qadisiyya, Jerusalem, Egypt and Nahawand; administration with governors, separate qadis, the bayt al-mal, the diwan, garrison towns and the Hijri calendar; accountability through checks on governors; and religion, gathering Muslims for tarawih." loading="lazy">
-  <figcaption>Conquest, institutions and accountability: Umar turned a community into a state.</figcaption>
+  <figcaption>Conquest, institutions and accountability: Umar (RA) turned a community into a state.</figcaption>
 </figure>
 
-## Uthman: key points
+## Uthman (RA): key points
 
 - Expansion into North Africa, Armenia and parts of Persia; first navy (Cyprus).
-- Standardised the Qur'an from Hafsa's copy; copies sent to main cities.
-- Extended the Prophet's Mosque.
+- Standardised the Qur'an from Hafsa's (RA) copy; copies sent to main cities.
+- Extended the Prophet (pbuh)'s Mosque.
 - Generous with his own wealth.
 - Opposition over appointment of relatives as governors; siege of his house; martyred while reading the Qur'an, refusing to let blood be shed on his behalf.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-rightly-guided-caliphs--04-uthman-achievements-difficulties.webp" width="900" height="571" alt="Two columns. Achievements: chosen by the council of six, expansion into North Africa, Armenia and Persia, the first navy and Cyprus, standard copies of the Qur'an and the enlarged Prophet's Mosque. Difficulties: relatives appointed as governors, complaints from Egypt, Kufa and Basra, the siege of his house and his killing in 656." loading="lazy">
-  <figcaption>Uthman's rule brought growth and the standard Qur'an, but also division.</figcaption>
+  <figcaption>Uthman's (RA) rule brought growth and the standard Qur'an, but also division.</figcaption>
 </figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-rightly-guided-caliphs--07-uthman-difficulties-chain.webp" width="900" height="792" alt="A vertical chain: a large empire with new Muslims; disputes over recitation resolved by standardisation; criticism of relatives as governors; complaints from Egypt, Kufa and Basra; an alleged letter turning the Egyptian delegation back; the siege of his house, where he refused to let others fight for him; and his killing in 656." loading="lazy">
-  <figcaption>Each difficulty led to the next; include Uthman's response at every step.</figcaption>
+  <figcaption>Each difficulty led to the next; include Uthman's (RA) response at every step.</figcaption>
 </figure>
 
-## Ali: key points
+## Ali (RA): key points
 
-- Took office amid crisis; demands to punish Uthman's killers.
+- Took office amid crisis; demands to punish Uthman's (RA) killers.
 - Battle of the Camel (656); moved capital to Kufa.
 - Battle of Siffin (657) against Mu'awiya; arbitration accepted.
 - Kharijites rejected arbitration; defeated at Nahrawan (658).
@@ -118,25 +118,25 @@ states. Events before 632, during the Prophet's lifetime, belong to Paper 1.
 
 | Quality | Caliph example | Modern lesson |
 |---|---|---|
-| Accountability | Abu Bakr's first sermon | Leaders must accept criticism and correction |
-| Consultation | Umar's council of six | Major decisions should involve others |
-| Welfare | Umar's diwan and stipends | States should support the poor and elderly |
+| Accountability | Abu Bakr's (RA) first sermon | Leaders must accept criticism and correction |
+| Consultation | Umar's (RA) council of six | Major decisions should involve others |
+| Welfare | Umar's (RA) diwan and stipends | States should support the poor and elderly |
 | Justice for minorities | Treaty with Jerusalem | Protect the rights of non-Muslim citizens |
 | Protecting the faith | Qur'an compilations | Preserve knowledge and education |
-| Restraint | Uthman refusing bloodshed | Avoid violence for personal gain |
-| Diplomacy | Ali accepting arbitration | Seek peaceful settlement of disputes |
+| Restraint | Uthman (RA) refusing bloodshed | Avoid violence for personal gain |
+| Diplomacy | Ali (RA) accepting arbitration | Seek peaceful settlement of disputes |
 
 ## Relations with other states and peoples
 
-- **Treaties of protection:** conquered Christians and Jews kept their places of worship and laws in return for jizya, as in Umar's agreement with Jerusalem.
+- **Treaties of protection:** conquered Christians and Jews kept their places of worship and laws in return for jizya, as in Umar's (RA) agreement with Jerusalem.
 - **Fair treatment of envoys and prisoners**, following the Prophet's (pbuh) practice.
 - **Diplomacy before war:** commanders were told to offer terms before fighting.
-- **Rules of war:** Abu Bakr's instructions to his armies forbade killing women, children and the elderly, and cutting down fruit trees.
+- **Rules of war:** Abu Bakr's (RA) instructions to his armies forbade killing women, children and the elderly, and cutting down fruit trees.
 - **Lesson today:** relations between states should rest on agreements, justice and protection of civilians.
 
 ## Worked example
 
-**Question:** Describe how Umar organised the administration of the growing Muslim state. **[10]**
+**Question:** Describe how Umar (RA) organised the administration of the growing Muslim state. **[10]**
 
 **Answer plan:** divided lands into provinces under governors chosen for ability; appointed judges
 separate from governors; set up the bayt al-mal and the diwan to pay stipends; introduced the Hijri
@@ -146,9 +146,9 @@ system kept a huge state stable.
 
 ## Common mistakes and exam traps
 
-- **Muddling Abu Bakr's and Uthman's work on the Qur'an.** Collection versus standardisation.
-- **Forgetting dates and order of battles under Ali.**
-- **One-sided judgements.** For Uthman, explain both his achievements and the criticisms he faced.
+- **Muddling Abu Bakr's (RA) and Uthman's (RA) work on the Qur'an.** Collection versus standardisation.
+- **Forgetting dates and order of battles under Ali (RA).**
+- **One-sided judgements.** For Uthman (RA), explain both his achievements and the criticisms he faced.
 - **No link to today.** "Importance" questions need modern applications.
 
 ## How is this topic examined?
@@ -157,7 +157,7 @@ In Cambridge O Level 2058 Paper 2 (1 hour 30 minutes, 50 marks), the period of r
 
 ## Frequently asked questions
 
-**Why did Ali move the capital to Kufa?**
+**Why did Ali (RA) move the capital to Kufa?**
 It was more central to his supporters and to the eastern
 provinces during the conflicts of his rule.
 

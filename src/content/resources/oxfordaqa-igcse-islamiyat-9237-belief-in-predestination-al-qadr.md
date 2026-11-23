@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the short summary of classical views on free will (Jabriyya, Qadariyya, mainstream Sunni, Shi'a emphasis on justice), the four levels of Qadr, and the Umar and plague of Amwas account."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the short summary of classical views on free will (Jabriyya, Qadariyya, mainstream Sunni, Shi'a emphasis on justice), the four levels of Qadr, and the Umar and plague of Amwas account. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -121,7 +121,7 @@ A well-known example from early Islam: Hazrat Umar (RA) was travelling to Syria 
 - **Using "fate" with no explanation.** Say what Allah knows, writes, wills and creates.
 - **Making Muslims sound passive.** Show effort followed by trust.
 - **Forgetting both sides.** State the decree and human responsibility in the same answer.
-- **Not using the passage.** In a 12-mark answer, use the question "should we not depend on what has been written?" and the Prophet's reply.
+- **Not using the passage.** In a 12-mark answer, use the question "should we not depend on what has been written?" and the Prophet's (pbuh) reply.
 
 ## Related pages
 

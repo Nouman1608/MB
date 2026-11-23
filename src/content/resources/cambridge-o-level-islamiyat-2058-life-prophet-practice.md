@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the events, names and credit given in the answers."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the events, names and credit given in the answers. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -42,11 +42,11 @@ of the three questions. Each is worth 14 marks: a knowledge part (a) worth 10 an
 **2.** Describe how the Prophet (pbuh) settled the dispute over the Black Stone, and state what it
 shows about him. **[3]**
 
-**3.** Give **three** reasons why the leaders of the Quraysh opposed the Prophet's message. **[3]**
+**3.** Give **three** reasons why the leaders of the Quraysh opposed the Prophet's (pbuh) message. **[3]**
 
 **4.** Describe the Muslims' reception by the Negus of Abyssinia. **[4]**
 
-**5.** State **two** events of the Year of Sorrow and explain why they made the Prophet's position in
+**5.** State **two** events of the Year of Sorrow and explain why they made the Prophet's (pbuh) position in
 Makka more difficult. **[3]**
 
 **6.** Explain what happened at the Battle of Uhud that turned an early advantage into a reverse. **[3]**
@@ -60,15 +60,15 @@ Hijra. **[10]**
 **(b)** What can Muslims who face hostility for their faith learn from the way the early Muslims
 responded? **[4]**
 
-**9. (a)** Describe the Prophet's visit to Ta'if and the events of the Isra and Mi'raj. **[10]**
+**9. (a)** Describe the Prophet's (pbuh) visit to Ta'if and the events of the Isra and Mi'raj. **[10]**
 **(b)** Explain why the Isra and Mi'raj is important to Muslims today. **[4]**
 
 **10. (a)** Give an account of the Battle of Badr. **[10]**
 **(b)** Explain the lessons Muslims learn from the battles of Badr and Uhud taken together. **[4]**
 
-**11. (a)** Describe the events leading to the conquest of Makka and the Prophet's actions when he
+**11. (a)** Describe the events leading to the conquest of Makka and the Prophet's (pbuh) actions when he
 entered the city. **[10]**
-**(b)** How can the Prophet's behaviour at the conquest of Makka guide Muslims today? **[4]**
+**(b)** How can the Prophet's (pbuh) behaviour at the conquest of Makka guide Muslims today? **[4]**
 
 **12. (a)** Describe how the Prophet (pbuh) dealt with non-Muslims and with other states during his
 time in Madina. **[10]**
@@ -101,13 +101,13 @@ rise of the clan of Hashim. Maximum 3.
 Islam had changed them from idol worship and cruelty to honesty and kindness [1], and recited from
 Sura Maryam; the king was moved and refused to hand them over [1].
 
-**5.** Khadija died, and his uncle Abu Talib died [1]. He lost Khadija's personal support and
+**5.** Khadija (RA) died, and his uncle Abu Talib died [1]. He lost Khadija's (RA) personal support and
 encouragement [1], and with Abu Talib's death he lost the protection of his clan's leader, so the
 Quraysh could harm him more openly [1].
 
 **6.** The Muslims were winning, and the archers placed on the hill were ordered not to leave [1].
 Seeing the enemy flee, most left to collect booty [1]; Khalid ibn al-Walid's cavalry attacked from
-behind, the Prophet was wounded and Hamza was martyred [1].
+behind, the Prophet (pbuh) was wounded and Hamza (RA) was martyred [1].
 
 **7.** Sura 33.40 calls him the Seal of the Prophets [1]: Muslims believe no prophet will come after
 him [1], and his message completes and confirms those of earlier prophets and is for all humanity
@@ -115,9 +115,9 @@ until the end of time [1].
 
 **8. (a)** Credit the best five, [2] each:
 - After the public call from Mount Safa in 613, Abu Lahab cursed him; Sura 111 was revealed [2].
-- The Prophet himself was mocked as a poet or madman; rubbish and animal remains were thrown on him
+- The Prophet (pbuh) himself was mocked as a poet or madman; rubbish and animal remains were thrown on him
   while he prayed [2].
-- Slaves and the weak suffered most: Bilal was laid on hot sand with a rock on his chest by Umayya
+- Slaves and the weak suffered most: Bilal (RA) was laid on hot sand with a rock on his chest by Umayya
   ibn Khalaf, and repeated "One, One" [2].
 - Sumayya was killed for her faith, becoming the first martyr; her husband Yasir also died, and their
   son Ammar was tortured [2].
@@ -126,15 +126,15 @@ until the end of time [1].
 - The clan of Hashim was boycotted and confined to Shi'b Abi Talib for about three years; Muslims
   migrated to Abyssinia in 615 to escape [2].
 **(b)** Credit the best two, [2] each:
-- Bilal shows that firm belief can be kept even under severe pressure, so Muslims should not give up
+- Bilal (RA) shows that firm belief can be kept even under severe pressure, so Muslims should not give up
   prayer or principles to fit in [2].
-- The Prophet answered insults with patience, not revenge, so Muslims today should respond to mockery
+- The Prophet (pbuh) answered insults with patience, not revenge, so Muslims today should respond to mockery
   calmly and with good character [2].
 - The migration to Abyssinia shows that seeking safety, and lawful help from just authorities, is
   permitted; Muslims can use the law to protect their rights [2].
 
 **9. (a)** Credit the best five, [2] each:
-- After the Year of Sorrow in 619 he went to Ta'if, with Zayd ibn Haritha, to invite its leaders to
+- After the Year of Sorrow in 619 he went to Ta'if, with Zayd ibn Haritha (RA), to invite its leaders to
   Islam [2].
 - The leaders rejected him and set youths to insult him and throw stones until his feet bled [2].
 - When the angel offered to crush the town between the mountains, he refused and prayed that their
@@ -145,10 +145,10 @@ until the end of time [1].
   Ibrahim [2].
 - The daily prayers were made obligatory, reduced on Musa's advice to five, with the reward of fifty
   [2].
-- When he told the Quraysh, many mocked, but Abu Bakr believed at once and was called al-Siddiq [2].
+- When he told the Quraysh, many mocked, but Abu Bakr (RA) believed at once and was called al-Siddiq [2].
 **(b)** Credit the best two, [2] each:
 - It is the origin of the five daily prayers, so each prayer reminds Muslims of the honour God gave
-  the Prophet and their own direct link with God [2].
+  the Prophet (pbuh) and their own direct link with God [2].
 - It came after his hardest year, teaching that relief follows hardship and strengthening trust in
   God during difficulties [2].
 - It links Makka and Jerusalem, so Muslims value al-Aqsa as one of their holiest places [2].
@@ -156,12 +156,12 @@ until the end of time [1].
 **10. (a)** Credit the best five, [2] each:
 - In 624 the Muslims went out to intercept a Makkan caravan led by Abu Sufyan; it escaped, and the
   Quraysh marched out with a large army [2].
-- The Prophet consulted his Companions; the Emigrants and the Helpers both pledged to fight [2].
+- The Prophet (pbuh) consulted his Companions; the Emigrants and the Helpers both pledged to fight [2].
 - About 313 Muslims, with few horses and camels, faced a much larger, better-armed force [2].
 - On a suggestion from a Companion the Muslims camped near the wells, controlling the water [2].
-- The Prophet prayed through the night for God's help; the Qur'an speaks of angels sent to support
+- The Prophet (pbuh) prayed through the night for God's help; the Qur'an speaks of angels sent to support
   the believers [2].
-- The battle began with single combat in which Hamza, Ali and Ubayda defeated the Makkan champions;
+- The battle began with single combat in which Hamza (RA), Ali (RA) and Ubayda defeated the Makkan champions;
   Abu Jahl was killed in the fighting [2].
 - Prisoners were treated well, and literate prisoners could earn freedom by teaching Muslim children
   to read [2].
@@ -177,12 +177,12 @@ until the end of time [1].
 - Under the Treaty of Hudaybiyya (628) tribes could ally with either side; the Banu Bakr, allies of
   the Quraysh, attacked the Banu Khuza'a, allies of the Muslims, breaking the truce [2].
 - Abu Sufyan travelled to Madina to repair the treaty but failed [2].
-- In 630 the Prophet marched with a large army; at night many campfires were lit, and Abu Sufyan,
+- In 630 the Prophet (pbuh) marched with a large army; at night many campfires were lit, and Abu Sufyan,
   seeing their strength, accepted Islam [2].
-- The Prophet announced that anyone who stayed in their home, in the Ka'ba precinct or in Abu
+- The Prophet (pbuh) announced that anyone who stayed in their home, in the Ka'ba precinct or in Abu
   Sufyan's house would be safe, and the city was entered almost without fighting [2].
 - He removed the idols from the Ka'ba, reciting "Truth has come and falsehood has vanished" (Sura
-  17.81), and Bilal gave the call to prayer from the Ka'ba [2].
+  17.81), and Bilal (RA) gave the call to prayer from the Ka'ba [2].
 - He declared a general pardon to the people who had persecuted him, saying they were free [2].
 **(b)** Credit the best two, [2] each:
 - Muslims should forgive personal wrongs when they gain the upper hand, as he forgave his old enemies
@@ -227,5 +227,5 @@ About five developed points, each with a specific name, place, date or quotation
 order.
 
 **Can I use the same event in different answers?**
-Yes, if it fits the question: Hudaybiyya, for example, can support answers on the Prophet's
+Yes, if it fits the question: Hudaybiyya, for example, can support answers on the Prophet's (pbuh)
 leadership, his relations with other states and his patience.

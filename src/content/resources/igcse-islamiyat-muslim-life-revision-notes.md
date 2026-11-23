@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -64,8 +64,8 @@ Prayer is performed facing the **Qiblah** (the direction of the Ka'bah in Makkah
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-salah-conditions-wudu-azaan--06-rakah-pattern.webp" width="900" height="765" alt="Five stages of each rak’ah in order: standing and reciting al-Fatiha, bowing, standing again, two prostrations and sitting, with the words said in bowing and prostration. The prayer ends with the tashahhud, blessings on the Prophet (pbuh) and the salam." loading="lazy">
-  <figcaption>Every rak’ah follows the same pattern, recited in Arabic.</figcaption>
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-salah-conditions-wudu-azaan--06-rakah-pattern.webp" width="900" height="765" alt="Five stages of each rak'ah in order: standing and reciting al-Fatiha, bowing, standing again, two prostrations and sitting, with the words said in bowing and prostration. The prayer ends with the tashahhud, blessings on the Prophet (pbuh) and the salam." loading="lazy">
+  <figcaption>Every rak'ah follows the same pattern, recited in Arabic.</figcaption>
 </figure>
 
 ## Zakat and Sawm
@@ -94,7 +94,7 @@ Performed in Dhul-Hijjah. Key rites: **Ihram** (state of purity and simple white
 
 **The white ihram garments carry the central meaning**: all pilgrims dress identically, so wealth and status are invisible and all stand equal before God. That symbolism is what "explain the significance of Hajj" answers should reach.
 
-Standing at **Arafat** is the essential rite: pilgrims spend the afternoon of the ninth of Dhul-Hijjah there in prayer and supplication. It is also the site of the Prophet's Farewell Sermon, delivered there — one significant association among others, not the whole of what the rite involves.
+Standing at **Arafat** is the essential rite: pilgrims spend the afternoon of the ninth of Dhul-Hijjah there in prayer and supplication. It is also the site of the Prophet (pbuh)'s Farewell Sermon, delivered there — one significant association among others, not the whole of what the rite involves.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-living-muslim-life--03-hajj-rites.webp" width="900" height="622" alt="Six rites in order: ihram, tawaf (seven circuits of the Ka'bah), sa'i between Safa and Marwah, standing at Arafat (highlighted as the essential rite), stoning the pillars at Mina and the sacrifice. Below, the chain of meaning: identical white garments make wealth and status invisible, so all stand equal before God." loading="lazy">
@@ -143,7 +143,7 @@ Fajr, Zuhr, Asr, Maghrib and Isha.
 
 ## Sources of authority
 
-**The Qur'an** — the direct word of God, revealed to Muhammad through the angel Jibril. **The Sunnah and Hadith** — the practice and sayings of the Prophet, which explain and apply the Qur'an.
+**The Qur'an** — the direct word of God, revealed to Muhammad through the angel Jibril. **The Sunnah and Hadith** — the practice and sayings of the Prophet (pbuh), which explain and apply the Qur'an.
 
 **The relationship matters:** the Qur'an gives the command to pray but not its detailed form; the Sunnah supplies that. This is why both sources are needed and why Hadith authenticity is carefully assessed.
 
@@ -169,4 +169,4 @@ Fajr, Zuhr, Asr, Maghrib and Isha.
 6. Name the six Articles of Faith, and explain why tawhid is described as the foundation.
 7. Distinguish du'a from Salah, and explain the significance of the nisab threshold.
 
-**Answers:** 1. Shahadah, Salah, Zakat, Sawm, Hajj. 2. Accepting and declaring it is what makes a person a Muslim; the other pillars are practices that follow from that belief. 3. Zakat is an obligatory annual payment on qualifying wealth; sadaqah is voluntary charity given at any time in any amount. 4. All pilgrims wear identical simple white garments, so wealth and social status are indistinguishable and all stand equal before God. 5. The Qur'an gives the commands, while the Sunnah and Hadith show how the Prophet applied them in practice, supplying detail the Qur'an does not specify. 6. Tawhid, angels, books, prophets, the Day of Judgement, and al-qadr; tawhid is foundational because every other belief and practice follows from and is shaped by the oneness of God, and its opposite, shirk, is considered the gravest sin. 7. Du'a is personal, informal supplication offered in any words at any time, while Salah is the fixed, prescribed form of prayer performed five times daily; the nisab is the minimum level of wealth above which Zakat becomes due, so a Muslim with wealth below it owes no payment.
+**Answers:** 1. Shahadah, Salah, Zakat, Sawm, Hajj. 2. Accepting and declaring it is what makes a person a Muslim; the other pillars are practices that follow from that belief. 3. Zakat is an obligatory annual payment on qualifying wealth; sadaqah is voluntary charity given at any time in any amount. 4. All pilgrims wear identical simple white garments, so wealth and social status are indistinguishable and all stand equal before God. 5. The Qur'an gives the commands, while the Sunnah and Hadith show how the Prophet (pbuh) applied them in practice, supplying detail the Qur'an does not specify. 6. Tawhid, angels, books, prophets, the Day of Judgement, and al-qadr; tawhid is foundational because every other belief and practice follows from and is shaped by the oneness of God, and its opposite, shirk, is considered the gravest sin. 7. Du'a is personal, informal supplication offered in any words at any time, while Salah is the fixed, prescribed form of prayer performed five times daily; the nisab is the minimum level of wealth above which Zakat becomes due, so a Muslim with wealth below it owes no payment.

@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check dates (632, 634, 644, 656, 661 CE), the account of the pledge at Saqifa, the Shi'a and Sunni summary of succession, and the identification of the Qur'an compilation under Abu Bakr and standardisation under Uthman."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check dates (632, 634, 644, 656, 661 CE), the account of the pledge at Saqifa, the Shi'a and Sunni summary of succession, and the identification of the Qur'an compilation under Abu Bakr and standardisation under Uthman. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -33,7 +33,7 @@ featured: false
 
 Hazrat Muhammad (pbuh) died in Madinah in 11 AH (632 CE). He was Prophet, head of state, judge and army commander. No new prophet could follow (33:40), but the community still needed a leader to protect it, manage its affairs, collect Zakah, judge disputes and guard the faith. The leader was called **Khalifah** ("successor", plural *khulafa*), and the system the **Caliphate**. The role was not to bring revelation but to uphold the Qur'an and the Sunnah.
 
-Soon after the Prophet's death, many Ansar met at the courtyard of Banu Sa'ida (the *Saqifa*) in Madinah to discuss leadership. Hazrat Abu Bakr (RA), Hazrat Umar (RA) and Hazrat Abu Ubayda (RA) went to the meeting. Umar (RA) pledged loyalty to Abu Bakr (RA), the others followed, and the next day the people in the mosque gave their pledge (*bay'ah*). Sunni Muslims see this as selection by consultation and agreement. Shi'a Muslims believe that the Prophet (pbuh) had already named Hazrat Ali (RA) as his successor, citing the occasion at Ghadir Khumm, and so regard Ali (RA) as the first rightful Imam. Both traditions honour all four and respect Ali (RA); they differ over the order and the nature of leadership.
+Soon after the Prophet's (pbuh) death, many Ansar met at the courtyard of Banu Sa'ida (the *Saqifa*) in Madinah to discuss leadership. Hazrat Abu Bakr (RA), Hazrat Umar (RA) and Hazrat Abu Ubayda (RA) went to the meeting. Umar (RA) pledged loyalty to Abu Bakr (RA), the others followed, and the next day the people in the mosque gave their pledge (*bay'ah*). Sunni Muslims see this as selection by consultation and agreement. Shi'a Muslims believe that the Prophet (pbuh) had already named Hazrat Ali (RA) as his successor, citing the occasion at Ghadir Khumm, and so regard Ali (RA) as the first rightful Imam. Both traditions honour all four and respect Ali (RA); they differ over the order and the nature of leadership.
 
 ## The four Rightly Guided Caliphs
 
@@ -42,19 +42,19 @@ The *Khulafa ar-Rashidun* ("rightly guided successors") ruled in succession for 
 | Caliph | Rule (CE) | Years in office | How chosen |
 |---|---|---|---|
 | Hazrat Abu Bakr (RA) | 632-634 | 2 | Consultation and public pledge |
-| Hazrat Umar (RA) | 634-644 | 10 | Nominated by Abu Bakr, accepted by the people |
-| Hazrat Uthman (RA) | 644-656 | 12 | Chosen by a committee of six named by Umar |
+| Hazrat Umar (RA) | 634-644 | 10 | Nominated by Abu Bakr (RA), accepted by the people |
+| Hazrat Uthman (RA) | 644-656 | 12 | Chosen by a committee of six named by Umar (RA) |
 | Hazrat Ali (RA) | 656-661 | 5 | Pledge by the people of Madinah |
 
-### 1. Abu Bakr as-Siddiq (RA), 632-634
+### 1. Abu Bakr (RA) as-Siddiq (RA), 632-634
 
-**Background:** the Prophet's closest friend, the first adult man to accept Islam, his companion on the Hijrah, and the man who led prayers when the Prophet (pbuh) was ill. He was called *As-Siddiq*, "the truthful".
+**Background:** the Prophet's (pbuh) closest friend, the first adult man to accept Islam, his companion on the Hijrah, and the man who led prayers when the Prophet (pbuh) was ill. He was called *As-Siddiq*, "the truthful".
 
 **Key actions:**
 
 - He sent out the army of Usama that the Prophet (pbuh) had prepared.
 - He faced the **Ridda** (apostasy) wars, when some tribes left Islam, refused to pay Zakah or followed false prophets such as Musaylima. He said he would fight anyone who separated prayer from Zakah.
-- After many Qur'an memorisers fell at the Battle of Yamama, Umar (RA) urged him to preserve the Qur'an in writing. Abu Bakr (RA) asked Zayd ibn Thabit to gather it into one collection.
+- After many Qur'an memorisers fell at the Battle of Yamama, Umar (RA) urged him to preserve the Qur'an in writing. Abu Bakr (RA) asked Zayd ibn Thabit (RA) to gather it into one collection.
 - He began the campaigns towards Iraq and Syria.
 
 **Importance:** he held the community together at its most dangerous moment and protected the Qur'an in writing. He chose Umar (RA) as his successor shortly before his death.
@@ -77,13 +77,13 @@ He was killed by a slave named Abu Lu'lu'a while leading the Fajr prayer in 644.
 
 ### 3. Uthman ibn Affan (RA), 644-656
 
-**Background:** a wealthy, generous and modest Companion, called *Dhun-Nurayn* ("owner of two lights") because he married two of the Prophet's daughters. He had funded the army of Tabuk and bought a well for the Muslims in Madinah.
+**Background:** a wealthy, generous and modest Companion, called *Dhun-Nurayn* ("owner of two lights") because he married two of the Prophet's (pbuh) daughters. He had funded the army of Tabuk and bought a well for the Muslims in Madinah.
 
 **Key actions:**
 
 - He sent standard copies of the Qur'an to major cities and asked that other copies be set aside, so that all Muslims recited the same text. This protected the Qur'an from differences in reading as Islam spread to non-Arab lands.
 - He continued expansion in the east and in north Africa and built a navy.
-- He enlarged the Prophet's Mosque in Madinah.
+- He enlarged the Prophet (pbuh)'s Mosque in Madinah.
 
 Towards the end of his rule, critics complained about some governors, and rebels from several provinces besieged his house. He refused to let the Companions fight to defend him, as he did not want Muslim blood shed, and was killed in 656.
 
@@ -91,12 +91,12 @@ Towards the end of his rule, critics complained about some governors, and rebels
 
 ### 4. Ali ibn Abi Talib (RA), 656-661
 
-**Background:** the Prophet's cousin and son-in-law (husband of Fatimah), one of the first to accept Islam, and known for knowledge, bravery and simplicity. He had slept in the Prophet's bed on the night of the Hijrah.
+**Background:** the Prophet's (pbuh) cousin and son-in-law (husband of Fatimah), one of the first to accept Islam, and known for knowledge, bravery and simplicity. He had slept in the Prophet's (pbuh) bed on the night of the Hijrah.
 
 **Key actions:**
 
 - He took office in a time of conflict and moved his capital to Kufa in Iraq.
-- He faced the Battle of the Camel (656) with a group including Aisha (RA), Talha (RA) and Zubayr (RA), and the Battle of Siffin (657) with Mu'awiya, governor of Syria, over the punishment of Uthman's killers.
+- He faced the Battle of the Camel (656) with a group including Aisha (RA), Talha (RA) and Zubayr (RA), and the Battle of Siffin (657) with Mu'awiya, governor of Syria, over the punishment of Uthman's (RA) killers.
 - A group called the Khawarij broke away after the arbitration at Siffin. One of them, Ibn Muljam, struck Ali (RA) while he prayed, and he died in 661.
 
 **Importance:** his reign is remembered for learning, justice and a modest lifestyle. For Shi'a Muslims he is the first Imam, and for Sunnis the fourth Rightly Guided Caliph.
@@ -131,11 +131,11 @@ The Hadith is reported by al-Irbad ibn Sariyah (RA). The Prophet (pbuh) gave a s
 
 **Question:** Explain **two** reasons why the Rightly Guided Caliphs are important to Muslims. Apply **one** teaching from a source of authority. **[6]**
 
-> They are important because they kept the community together after the Prophet's death and spread Islam [1], so the faith survived and grew beyond Arabia [1]. They also protected the Qur'an: Abu Bakr had it collected and Uthman sent standard copies to the cities [1], so Muslims today read the same text [1]. The Hadith says, "You must keep to my Sunnah and to the Sunnah of the Khulafa ar-Rashideen" [1], which shows the Prophet himself urged Muslims to follow their example [1].
+> They are important because they kept the community together after the Prophet's (pbuh) death and spread Islam [1], so the faith survived and grew beyond Arabia [1]. They also protected the Qur'an: Abu Bakr (RA) had it collected and Uthman (RA) sent standard copies to the cities [1], so Muslims today read the same text [1]. The Hadith says, "You must keep to my Sunnah and to the Sunnah of the Khulafa ar-Rashideen" [1], which shows the Prophet (pbuh) himself urged Muslims to follow their example [1].
 
 ## Common mistakes
 
-- **Mixing the order.** Learn: Abu Bakr, Umar, Uthman, Ali.
+- **Mixing the order.** Learn: Abu Bakr (RA), Umar (RA), Uthman (RA), Ali (RA).
 - **Saying the Caliphs were prophets.** They were leaders, not recipients of revelation.
 - **Taking sides in Sunni and Shi'a questions.** Describe both views fairly.
 - **Giving dates only.** Add what each Caliph did and why it mattered.

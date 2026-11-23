@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the dates, names, events and the examples drawn for Muslims today."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the dates, names, events and the examples drawn for Muslims today. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -48,9 +48,9 @@ Learn the life in four blocks, each with a short list of events you can describe
 
 | Block | Years | Core events |
 |---|---|---|
-| Before prophethood | 570–610 | Birth in the Year of the Elephant; Halima; deaths of Amina and Abd al-Muttalib; Abu Talib; Bahira; Hilf al-Fudul; marriage to Khadija; the Black Stone |
+| Before prophethood | 570–610 | Birth in the Year of the Elephant; Halima; deaths of Amina and Abd al-Muttalib; Abu Talib; Bahira; Hilf al-Fudul; marriage to Khadija (RA); the Black Stone |
 | Makka | 610–622 | First revelation; secret then public preaching; persecution; Abyssinia; boycott; Year of Sorrow; Ta'if; Isra and Mi'raj; pledges of Aqaba |
-| Hijra | 622 | Plot of the Quraysh; Ali in his bed; cave of Thawr with Abu Bakr; Quba; arrival in Madina |
+| Hijra | 622 | Plot of the Quraysh; Ali (RA) in his bed; cave of Thawr with Abu Bakr (RA); Quba; arrival in Madina |
 | Madina | 622–632 | Mosque; brotherhood; Constitution of Madina; Badr; Uhud; the Trench; Hudaybiyya; letters to rulers; conquest of Makka; Farewell Pilgrimage; death |
 
 <figure class="topic-figure">
@@ -60,8 +60,8 @@ Learn the life in four blocks, each with a short list of events you can describe
 
 ## What happened in Makka, and how did his opponents respond?
 
-For about three years the Prophet (pbuh) invited people privately; early believers included Khadija,
-Ali, Abu Bakr and Zayd ibn Haritha. When commanded to preach openly, he called the Quraysh from Mount
+For about three years the Prophet (pbuh) invited people privately; early believers included Khadija (RA),
+Ali (RA), Abu Bakr (RA) and Zayd ibn Haritha (RA). When commanded to preach openly, he called the Quraysh from Mount
 Safa; his uncle **Abu Lahab** cursed him, and Sura 111 was revealed about Abu Lahab.
 
 The Quraysh opposed him because his message attacked the idols that brought pilgrims and trade to
@@ -72,13 +72,13 @@ Their response grew step by step:
 - **Offers:** through Utba ibn Rabi'a they offered wealth, leadership and even kingship if he stopped.
 - **Pressure on Abu Talib** to withdraw his protection; the Prophet (pbuh) replied that he would not
   stop even if they placed the sun in his right hand and the moon in his left.
-- **Persecution of the weak:** Bilal was tortured on hot sand by Umayya ibn Khalaf; Sumayya was killed,
+- **Persecution of the weak:** Bilal (RA) was tortured on hot sand by Umayya ibn Khalaf; Sumayya was killed,
   becoming the first martyr of Islam.
 - **Migration to Abyssinia (615):** a group of Muslims sought the protection of its Christian king,
   the Negus; Ja'far ibn Abi Talib's speech and recitation from Sura Maryam persuaded him to protect
   them.
 - **Boycott:** the clan of Hashim was confined to the valley of Abu Talib for about three years.
-- **Year of Sorrow (619):** Khadija and Abu Talib died, removing his chief support and his protector.
+- **Year of Sorrow (619):** Khadija (RA) and Abu Talib died, removing his chief support and his protector.
 - **Ta'if:** its leaders rejected him and had him stoned out of the town; he prayed for them rather
   than against them.
 
@@ -120,15 +120,15 @@ Arafat; he died in Madina in 11 AH (632), in the room of A'isha.
 
 Examiners reward character shown through specific actions:
 
-- **Trustworthiness:** called al-Amin before prophethood; on the night of the Hijra he left Ali to
+- **Trustworthiness:** called al-Amin before prophethood; on the night of the Hijra he left Ali (RA) to
   return goods his enemies had left with him.
 - **Patience and forgiveness:** at Ta'if he prayed for his attackers; at the conquest of Makka he
   forgave the Quraysh, saying there was no blame on them that day.
 - **Humility:** he mended his own clothes and helped with work at home, as A'isha reported, and dug in
   the trench alongside the Companions.
-- **Consultation:** he followed Salman al-Farsi's advice to dig the trench and consulted the
+- **Consultation:** he followed Salman al-Farsi's (RA) advice to dig the trench and consulted the
   Companions before Uhud.
-- **Justice:** he said that if his own daughter Fatima stole he would apply the same punishment as for
+- **Justice:** he said that if his own daughter Fatima (RA) stole he would apply the same punishment as for
   anyone else.
 
 <figure class="topic-figure">
@@ -141,7 +141,7 @@ Examiners reward character shown through specific actions:
 **In personal conduct:** honesty in trade, keeping promises, simple living, and prayer and fasting
 beyond what is obligatory.
 
-**With women:** his trust in Khadija as wife and adviser; consulting Umm Salama at Hudaybiyya, whose
+**With women:** his trust in Khadija (RA) as wife and adviser; consulting Umm Salama (RA) at Hudaybiyya, whose
 advice he followed; his teaching in the Farewell Sermon that men have rights over women and women
 have rights over men; and his saying that the best of people are those who are best to their families.
 

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New skill-unit page: please ask an Islamiyat teacher to check the accounts of the four prophets, the Qur'an references by surah and verse, the transliterations and the model answer before sign-off."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New skill-unit page: please ask an Islamiyat teacher to check the accounts of the four prophets, the Qur'an references by surah and verse, the transliterations and the model answer before sign-off. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -59,7 +59,7 @@ All prophets share one core message, Tawhid, and Muslims "make no distinction be
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-prophets-adam-ibraheem-musa-isa--02-adam.webp" width="900" height="726" alt="Five steps in the life of Adam (AS): Allah announces a khalifah, Adam is created from clay and taught the names, Iblis refuses out of pride, Adam and his wife slip and are sent to earth, and their repentance is accepted. Below, his importance: mercy, no inherited sin, stewardship, the danger of pride and equality." loading="lazy">
-  <figcaption>Adam’s forgiven mistake teaches that sincere repentance is always accepted.</figcaption>
+  <figcaption>Adam's forgiven mistake teaches that sincere repentance is always accepted.</figcaption>
 </figure>
 
 ## Ibraheem (AS): the friend of Allah
@@ -75,8 +75,8 @@ All prophets share one core message, Tawhid, and Muslims "make no distinction be
 - **A shared father:** Jews, Christians and Muslims all look to him, so he is a point of common ground.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-prophets-adam-ibraheem-musa-isa--03-ibraheem.webp" width="900" height="635" alt="Six events from the life of Ibraheem (AS): reasoning against worship of the stars, breaking the idols, the fire made cool, leaving Hajar and Isma’il (AS) in Makkah, the dream of sacrifice and raising the Ka’aba. Below, how worship recalls him: Sa’i remembers Hajar, the Eid-ul-Adha sacrifice remembers the ram, and the Ka’aba is the house he built." loading="lazy">
-  <figcaption>Hajj and Eid-ul-Adha relive Ibraheem’s submission every year.</figcaption>
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-prophets-adam-ibraheem-musa-isa--03-ibraheem.webp" width="900" height="635" alt="Six events from the life of Ibraheem (AS): reasoning against worship of the stars, breaking the idols, the fire made cool, leaving Hajar and Isma'il (AS) in Makkah, the dream of sacrifice and raising the Ka'aba. Below, how worship recalls him: Sa'i remembers Hajar, the Eid-ul-Adha sacrifice remembers the ram, and the Ka'aba is the house he built." loading="lazy">
+  <figcaption>Hajj and Eid-ul-Adha relive Ibraheem's submission every year.</figcaption>
 </figure>
 
 ## Musa (AS): the prophet who spoke with Allah
@@ -109,7 +109,7 @@ All prophets share one core message, Tawhid, and Muslims "make no distinction be
 - **Maryam's honour:** a whole surah carries her name, showing respect for a righteous woman.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-prophets-adam-ibraheem-musa-isa--05-isa.webp" width="900" height="602" alt="Six Islamic beliefs about Isa (AS): his miraculous birth to Maryam, speaking from the cradle as the servant of Allah, miracles by Allah’s permission, the Injil, that he was not crucified but raised up by Allah, and his announcement of a messenger named Ahmad." loading="lazy">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-prophets-adam-ibraheem-musa-isa--05-isa.webp" width="900" height="602" alt="Six Islamic beliefs about Isa (AS): his miraculous birth to Maryam, speaking from the cradle as the servant of Allah, miracles by Allah's permission, the Injil, that he was not crucified but raised up by Allah, and his announcement of a messenger named Ahmad." loading="lazy">
   <figcaption>Use the Islamic belief: a prophet and servant of Allah, not divine.</figcaption>
 </figure>
 
@@ -128,7 +128,7 @@ All prophets share one core message, Tawhid, and Muslims "make no distinction be
 **Why it scores 6:** two distinct reasons, each identified and developed with a specific event (AO1, 4 marks), and a source quoted accurately and applied to the question (AO2, 2 marks). A vague phrase such as "the Qur'an praises him" would earn only 1 of the AO2 marks.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-prophets-adam-ibraheem-musa-isa--07-six-mark-structure.webp" width="900" height="476" alt="The structure of a 6-mark answer: two separate reasons, a model of Tawhid and the link to Hajj and Eid-ul-Adha, each developed with an event for 4 marks, then a source, Qur’an 4:125, quoted and applied for 2 marks." loading="lazy">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-prophets-adam-ibraheem-musa-isa--07-six-mark-structure.webp" width="900" height="476" alt="The structure of a 6-mark answer: two separate reasons, a model of Tawhid and the link to Hajj and Eid-ul-Adha, each developed with an event for 4 marks, then a source, Qur'an 4:125, quoted and applied for 2 marks." loading="lazy">
   <figcaption>Two developed reasons plus one source applied to the question.</figcaption>
 </figure>
 

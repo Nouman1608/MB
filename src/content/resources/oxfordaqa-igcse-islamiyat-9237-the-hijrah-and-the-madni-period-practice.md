@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the historical details and mark guidance before use."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the historical details and mark guidance before use. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -117,7 +117,7 @@ accurate use of a source of authority, **two** for a specific use applied to the
 
 **2.** 622 CE [1].
 
-**3.** Any two, [1] each: where the Prophet (pbuh) would live; where the Prophet's Mosque would be built; the land of the two orphans; which family would host him, avoiding disputes among the families.
+**3.** Any two, [1] each: where the Prophet (pbuh) would live; where the Prophet (pbuh)'s Mosque would be built; the land of the two orphans; which family would host him, avoiding disputes among the families.
 
 **4.** Any two, [1] each: Muslims of Quraysh (the Muhajirun); Muslims of Yathrib (the Ansar); the Jewish tribes; other groups who joined the agreement.
 
@@ -136,7 +136,7 @@ accurate use of a source of authority, **two** for a specific use applied to the
 
 Ways (AO1):
 
-- **Sleeping in the Prophet's bed** [1]: the watchers thought he was still inside, which gave the Prophet (pbuh) time to escape [1].
+- **Sleeping in the Prophet's (pbuh) bed** [1]: the watchers thought he was still inside, which gave the Prophet (pbuh) time to escape [1].
 - **Returning the trusts** [1]: he gave back the valuables entrusted to the Prophet (pbuh), including those of his enemies [1].
 - **Courage** [1]: he risked his life as the Quraysh planned to strike the bed [1].
 - **Following the Prophet (pbuh)** [1]: he travelled to Madinah on foot to join him [1].

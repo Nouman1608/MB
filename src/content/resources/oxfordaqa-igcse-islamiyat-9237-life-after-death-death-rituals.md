@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New skill-unit page: please ask an Islamiyat teacher to check the stages of the afterlife, the description of Sunni and Shi'a funeral practice, the Qur'an and Hadith references and transliterations before sign-off."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New skill-unit page: please ask an Islamiyat teacher to check the stages of the afterlife, the description of Sunni and Shi'a funeral practice, the Qur'an and Hadith references and transliterations before sign-off. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -34,7 +34,7 @@ Belief in the Last Day (Yaum e Akhirah) is one of the key beliefs in 3.1.1.2. It
 - **Perspective:** wealth and status end at death, so Muslims are encouraged not to be greedy or proud.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-life-after-death-death-rituals--01-why-akhirah-matters.webp" width="900" height="412" alt="Qur’an 3:185 above three consequences of belief in the Last Day: accountability, so Muslims act well when unobserved; justice, so wrongs will be put right; and perspective, so wealth and status are not chased." loading="lazy">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-life-after-death-death-rituals--01-why-akhirah-matters.webp" width="900" height="412" alt="Qur'an 3:185 above three consequences of belief in the Last Day: accountability, so Muslims act well when unobserved; justice, so wrongs will be put right; and perspective, so wealth and status are not chased." loading="lazy">
   <figcaption>This world is a test and the next is permanent: three consequences follow.</figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ On a day only Allah knows, Israfil (AS) will blow the trumpet. "The Horn will be
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-life-after-death-death-rituals--04-day-of-judgement.webp" width="900" height="429" alt="Five features of the Day of Judgement with Qur’anic references: the book of deeds given in the right or left hand, the scales of justice, nothing too small to count, the body as witness, and Allah’s mercy with the Prophet’s (pbuh) intercession." loading="lazy">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-life-after-death-death-rituals--04-day-of-judgement.webp" width="900" height="429" alt="Five features of the Day of Judgement with Qur'anic references: the book of deeds given in the right or left hand, the scales of justice, nothing too small to count, the body as witness, and Allah's mercy with the Prophet's (pbuh) intercession." loading="lazy">
   <figcaption>Judgement is complete and just, and mercy is greater than anger.</figcaption>
 </figure>
 
@@ -99,7 +99,7 @@ On a day only Allah knows, Israfil (AS) will blow the trumpet. "The Horn will be
 **Martyrs:** in Sunni practice a person killed fighting in the way of Allah (a *shaheed*) is traditionally buried in the clothes they died in, without ghusl, as a sign of honour.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-life-after-death-death-rituals--05-death-rituals.webp" width="900" height="730" alt="Seven rituals in order with why each matters: Qur’an and the Shahadah near death, closing the eyes and covering the body, ghusl, the white kafan, Salat al-Janazah, burial facing the Qiblah, and mourning, including the widow’s iddah of four months and ten days." loading="lazy">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-life-after-death-death-rituals--05-death-rituals.webp" width="900" height="730" alt="Seven rituals in order with why each matters: Qur'an and the Shahadah near death, closing the eyes and covering the body, ghusl, the white kafan, Salat al-Janazah, burial facing the Qiblah, and mourning, including the widow's iddah of four months and ten days." loading="lazy">
   <figcaption>Each ritual expresses a belief: Tawhid, purity, equality or community.</figcaption>
 </figure>
 
@@ -114,7 +114,7 @@ The specification asks for different rituals, so you need examples of variation,
 - **Cremation and delay:** Muslims do not cremate. Where local law requires a post-mortem or delays burial, Muslims accept the delay but still bury as soon as they can.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-life-after-death-death-rituals--06-different-rituals.webp" width="900" height="548" alt="A table of differences in death rituals: four takbirs for Sunni and five for Shi’a Muslims in the Janazah prayer; how openly grief is shown; gatherings on set days in some South Asian communities seen by others as custom; differing views on visiting graves; A note covers cremation, delays and martyrs." loading="lazy">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-life-after-death-death-rituals--06-different-rituals.webp" width="900" height="548" alt="A table of differences in death rituals: four takbirs for Sunni and five for Shi'a Muslims in the Janazah prayer; how openly grief is shown; gatherings on set days in some South Asian communities seen by others as custom; differing views on visiting graves; A note covers cremation, delays and martyrs." loading="lazy">
   <figcaption>Show at least one difference and explain what it reveals.</figcaption>
 </figure>
 

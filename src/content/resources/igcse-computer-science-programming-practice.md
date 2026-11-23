@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-23: Q9 now says the file holds one player's result, consistent with WRITE mode (audit C18)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -83,7 +83,7 @@ ENDFUNCTION
 
 **8.** A board game needs a random whole number from 0 to 6 each turn. Write one pseudocode statement that assigns such a value to the variable `Roll`, using library routines. **[2]**
 
-**9.** A quiz program must save each player's name and score to a text file called "Results.txt", then later read back the first line of the file and output it.
+**9.** A quiz program must save the name and score of the most recent player to a text file called "Results.txt" (the file holds one player's result at a time), then later read back the first line of the file and output it.
 
 **(a)** Explain why the results are stored in a file rather than only in variables. **[1]**
 **(b)** Write pseudocode to write the variables `PlayerName` and `Score` to the file, then close it. **[3]**
@@ -160,7 +160,7 @@ WRITEFILE "Results.txt", Score
 CLOSEFILE "Results.txt"
 ```
 
-Opening in WRITE mode [1]; writing both values [1]; closing the file [1].
+Opening in WRITE mode [1]; writing both values [1]; closing the file [1]. (WRITE replaces any earlier contents, so the file holds only this player's name and score; the first line read back in part (c) is the name.)
 
 **(c)**
 

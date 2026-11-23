@@ -20,12 +20,12 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-20
 featured: false
 ---
 
-**This guide covers content area 3.2.1.10 of OxfordAQA International GCSE Islamiat (9237), The legacy and lessons of Hazrat Muhammad's (pbuh) life.** The specification asks for "the key teachings from his final sermon" and "key teachings from Hazrat Muhammad's life including: treatment of parents, the importance of justice, honesty and patience." The prescribed passage is Qur'an 5:3.
+**This guide covers content area 3.2.1.10 of OxfordAQA International GCSE Islamiat (9237), The legacy and lessons of Hazrat Muhammad's (pbuh) life.** The specification asks for "the key teachings from his final sermon" and "key teachings from Hazrat Muhammad's (pbuh) life including: treatment of parents, the importance of justice, honesty and patience." The prescribed passage is Qur'an 5:3.
 
 This is the point where the life story turns into guidance. Examiners are not asking you to retell events. They want to know what a Muslim should take from them, and how you can show it with a teaching from the Qur'an or Hadith and an example from his life.
 
@@ -86,7 +86,7 @@ Tradition connects the verse with Arafat during the Farewell Pilgrimage, which i
 
 **Teaching.** "O you who have believed, be persistently standing firm in justice, as witnesses for Allah, even if it be against yourselves or parents and relatives" (Qur'an 4:135). Hatred of a people must not push anyone away from fairness (5:8).
 
-**His example.** A woman from a respected tribe was found guilty of theft. Some companions asked for the punishment to be waived because of her family's standing. The Prophet (pbuh) refused and said that earlier nations had been destroyed because they let the powerful go free and punished the weak. He added that if his own daughter Fatima stole, he would apply the same rule.
+**His example.** A woman from a respected tribe was found guilty of theft. Some companions asked for the punishment to be waived because of her family's standing. The Prophet (pbuh) refused and said that earlier nations had been destroyed because they let the powerful go free and punished the weak. He added that if his own daughter Fatima (RA) stole, he would apply the same rule.
 
 **In the Final Sermon.** Cancelling his own relatives' debts and blood feuds first shows that a just leader begins with his own family. At Makkah, the amnesty shows justice joined to mercy.
 

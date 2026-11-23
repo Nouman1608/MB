@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -86,7 +86,7 @@ featured: false
 |---|---|
 | Hudhayfa warns about differences "as the Jews and the Christians did before" | Fear that earlier scriptures were disputed; desire to protect the Qur'an |
 | "Save this nation before they differ about the Book" | Unity of the Ummah depends on one text |
-| Uthman (RA) borrows Hafsa's (RA) sheets | Continuity with Abu Bakr's compilation |
+| Uthman (RA) borrows Hafsa's (RA) sheets | Continuity with Abu Bakr's (RA) compilation |
 | Writing in the Quraysh dialect | The Qur'an was revealed in that dialect |
 | Other copies burned | The need to remove causes of confusion |
 | A copy sent to every region | Standard text for all Muslims |

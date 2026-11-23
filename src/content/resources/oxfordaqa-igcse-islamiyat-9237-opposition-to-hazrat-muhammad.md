@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the dates of the boycott and the Year of Sorrow and the details of Ta'if against a teacher's notes."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the dates of the boycott and the Year of Sorrow and the details of Ta'if against a teacher's notes. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -48,7 +48,7 @@ The Quraysh tried several methods, in increasing order of severity.
 1. **Mockery and insults.** They called the Prophet (pbuh) a poet, a madman or a sorcerer, and mocked his followers.
 2. **Bargaining.** Leaders offered him wealth, leadership or marriage if he would stop preaching. He refused, saying that he would not give up his mission even if they set the sun in his right hand and the moon in his left.
 3. **Pressure on his protector.** They went to Abu Talib and asked him to stop his nephew. Abu Talib told the Prophet (pbuh) of their demand, but the Prophet (pbuh) kept to his task. Abu Talib continued to protect him.
-4. **Persecution of weaker Muslims.** Those with no tribal protection suffered most. **Bilal** was dragged over hot sand with a stone on his chest, and kept firm in his faith until Abu Bakr (RA) bought and freed him. **Sumayyah** and her husband **Yasir** were tortured, and Sumayyah is remembered as the first martyr of Islam. Their son **Ammar** survived.
+4. **Persecution of weaker Muslims.** Those with no tribal protection suffered most. **Bilal (RA)** was dragged over hot sand with a stone on his chest, and kept firm in his faith until Abu Bakr (RA) bought and freed him. **Sumayyah** and her husband **Yasir** were tortured, and Sumayyah is remembered as the first martyr of Islam. Their son **Ammar** survived.
 5. **Migration to Abyssinia.** Around 615 CE the Prophet (pbuh) advised a group of Muslims to move to Abyssinia, where the Christian king (the Negus) was just. The Quraysh sent envoys to bring them back, but the Negus protected them after hearing the Qur'an's words about Maryam and Isa.
 
 ## The boycott of Banu Hashim
@@ -73,7 +73,7 @@ Seeking help and a new home for Islam, the Prophet (pbuh) travelled to the town 
 
 - **They refused.** The leaders rejected him rudely.
 - **They set the people on him.** Children and slaves threw stones until his feet bled. Zayd (RA) tried to shield him and was wounded.
-- **He took refuge.** The Prophet (pbuh) found shelter in a vineyard belonging to two Makkan men, who sent him grapes by a Christian servant, Addas, who was moved by the Prophet's words.
+- **He took refuge.** The Prophet (pbuh) found shelter in a vineyard belonging to two Makkan men, who sent him grapes by a Christian servant, Addas, who was moved by the Prophet's (pbuh) words.
 - **His prayer.** He raised his hands and prayed, "O Allah, to You I complain of my weakness, my lack of resources and my low standing before people... If You are not angry with me, I do not mind."
 - **The angel's offer.** According to the hadith, the angel in charge of the mountains offered to crush the two mountains over the people of Makkah. The Prophet (pbuh) refused and said he hoped that Allah would bring from them people who worshipped Him alone.
 
@@ -89,9 +89,9 @@ Allah informed the Prophet (pbuh) through Jibril (AS). That night he left with A
 
 "May the hands of Abu Lahab be ruined, and ruined is he. His wealth will not avail him or that which he gained. He will [enter to] burn in a Fire of [blazing] flame. And his wife [as well] - the carrier of firewood. Around her neck is a rope of [twisted] fibre."
 
-- **Abu Lahab** was the Prophet's uncle, one of the loudest opponents. After the call from Mount Safa he insulted him. The surah is a warning that even close family receive no protection if they oppose the truth.
+- **Abu Lahab** was the Prophet's (pbuh) uncle, one of the loudest opponents. After the call from Mount Safa he insulted him. The surah is a warning that even close family receive no protection if they oppose the truth.
 - **"His wealth will not avail him"** shows that wealth and status cannot save a person from Allah's judgement.
-- **"the carrier of firewood"** refers to his wife, Umm Jamil, who is said to have spread thorns in the Prophet's path and spread slander.
+- **"the carrier of firewood"** refers to his wife, Umm Jamil, who is said to have spread thorns in the Prophet's (pbuh) path and spread slander.
 - The surah shows that Allah defends His Messenger.
 
 ## Worked example: a 6-mark answer

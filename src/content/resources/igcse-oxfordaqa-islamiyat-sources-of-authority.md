@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -28,7 +28,7 @@ This guide covers the textual core of Section 3.2.2 Sources of Authority
 in Islam — sub-topics 3.2.2.1 to 3.2.2.5 — from OxfordAQA International
 GCSE Islamiat (9237), Version 1.1, for International GCSE exams May/June
 2026 onwards. It sits within Paper 2 alongside the study of the life of
-Hazrat Muhammad (peace be upon him).
+Hazrat Muhammad (pbuh) (peace be upon him).
 
 ## Scope of this guide
 
@@ -92,7 +92,7 @@ Prophet (pbuh) while Matn checks the content of the text itself, since
 conflating the two is a common error.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-sources-of-authority--01-how-the-sources-relate.webp" width="900" height="616" alt="Three nested levels: the Qur'an as the primary, directly revealed source; the Hadith and Sunnah, recording the Prophet's words and practice to explain and apply it; and Ijma and Qiyas as secondary sources used where the Qur'an and Hadith give no explicit guidance. A note says this is a common scholarly account, not a required ranking." loading="lazy">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-sources-of-authority--01-how-the-sources-relate.webp" width="900" height="616" alt="Three nested levels: the Qur'an as the primary, directly revealed source; the Hadith and Sunnah, recording the Prophet's (pbuh) words and practice to explain and apply it; and Ijma and Qiyas as secondary sources used where the Qur'an and Hadith give no explicit guidance. A note says this is a common scholarly account, not a required ranking." loading="lazy">
   <figcaption>Primary, explanatory, then secondary: one common way to relate the four sources.</figcaption>
 </figure>
 

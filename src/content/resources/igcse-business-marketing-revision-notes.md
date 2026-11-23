@@ -1,5 +1,5 @@
 ---
-title: "IGCSE Business Studies: Marketing — Revision Notes"
+title: "IGCSE Business Studies: Marketing — Revision Notes (Cambridge 0450, exams to 2026)"
 seoTitle: "IGCSE Business 0450 Marketing Revision Notes: The 4Ps"
 seoDescription: "Revision notes for Cambridge IGCSE Business Studies 0450 marketing: niche and mass markets, market research, the four Ps and marketing strategy."
 resourceType: "revision-notes"
@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-03
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-23: title and body now state the syllabus code 0450 and its exam years (audit C21)."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

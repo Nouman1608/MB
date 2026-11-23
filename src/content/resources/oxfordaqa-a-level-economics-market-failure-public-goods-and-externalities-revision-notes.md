@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-23: figure caption no longer cites Cambridge 0455 (audit C28)."
 ---
 Short-form recall for 3.1.5.1, 3.1.5.2 and 3.1.5.3 of OxfordAQA's International AS and A-level Economics course (9640), specification version 1.2: what market failure means, private, public and quasi-public goods, and externalities. Section 3.1 belongs to the International AS, and the A-level extends it. The [study guide](/resources/oxfordaqa-a-level-economics-market-failure-public-goods-and-externalities/) has the full explanations, and the [practice questions](/resources/oxfordaqa-a-level-economics-market-failure-public-goods-and-externalities-practice/). Also see the [OxfordAQA A-level Economics hub](/boards/oxfordaqa/a-level/economics/) and [checklist](/checklists/oxfordaqa/a-level/economics/). A free [10-minute diagnostic](/diagnostics/) shows weak spots. Related reading: [the operation of markets](/resources/a-level-oxfordaqa-economics-operation-of-markets/). All figures are invented and illustrative.
 
@@ -48,7 +48,7 @@ The specification lists: public goods, positive and negative externalities, meri
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-causes-of-market-failure.webp" width="900" height="1060" alt="Five small pictures show the causes of market failure: public goods, merit and demerit goods, external costs and benefits, abuse of monopoly power and factor immobility. The result is the wrong amount produced or used." loading="lazy">
-  <figcaption>Market failure has five causes limited to those in the 0455 syllabus.</figcaption>
+  <figcaption>Market failure has five main causes.</figcaption>
 </figure>
 
 

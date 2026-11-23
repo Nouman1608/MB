@@ -13,7 +13,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). 2026-11-23: added set-text lists for 2026 and 2027 from the Cambridge syllabuses (audit C24)."
 publishedDate: 2026-11-15
 featured: false
 ---
@@ -31,6 +31,23 @@ The syllabus content is organised around the components themselves.
 - **Component 5, Coursework.** A portfolio of two assignments, each on a different text.
 
 Which of Papers 2 to 4 and Component 5 you study depends on the route your centre enters you for. Poetry and prose are common to everyone; drama is part of every route too, either through Paper 2 or through Paper 3.
+
+## The set texts
+
+Set texts rotate, so use the list for the year your candidates sit. The lists below are from the Cambridge International syllabuses for 2026 and 2027 (Section 3, Subject content).
+
+**Paper 1 Section A, Poetry (2026 and 2027, the same list):** answer on one of three set texts: 15 poems from *Songs of Ourselves* Volume 1 (from Aphra Behn's "Song: Love Armed" to Judith Wright's "Hunting Snake"); 15 poems from *Songs of Ourselves* Volume 2, Part 3 (from Nancy Fotheringham Cato's "The Road" to George Szirtes's "Song"); or 15 poems from *Kumukanda* by Kayo Chingonyi.
+
+**Paper 1 Section B, Prose, one text:**
+
+- *2026:* Chinua Achebe, *Things Fall Apart*; Jane Austen, *Pride and Prejudice*; Anita Desai, *Fire on the Mountain*; Kiran Desai, *Hullaballoo in the Guava Orchard*; Susan Hill, *I'm the King of the Castle*; Harper Lee, *To Kill a Mockingbird*; H G Wells, *The War of the Worlds*; or ten stories from *Stories of Ourselves* Volume 2.
+- *2027:* the same, except that *The War of the Worlds* is replaced by Lesley Nneka Arimah, *What it Means When a Man Falls from the Sky*.
+- The ten *Stories of Ourselves* Volume 2 stories are the same in both years: Rossetti, "Nick"; Schreiner, "The Woman's Rose"; Ellison, "The Black Ball"; Anand, "The Gold Watch"; Atwood, "When It Happens"; Ballard, "The Man Who Walked on the Moon"; Kincaid, "A Walk to the Jetty"; Gardam, "Showing the Flag"; Forna, "Haywards Heath"; and Gunesekera, "Fluke".
+
+**Paper 2 Drama (two different texts) and Paper 3 Drama, Open Text (one text):**
+
+- *2026:* Pearl Cleage, *Blues for an Alabama Sky*; Shelagh Delaney, *A Taste of Honey*; Shakespeare, *A Midsummer Night's Dream*; Shakespeare, *Antony and Cleopatra*; Tennessee Williams, *A Streetcar Named Desire*.
+- *2027:* the same, except that *A Streetcar Named Desire* is replaced by Chinonyerem Odimba, *Princess & the Hustler*.
 
 ## How it's assessed
 

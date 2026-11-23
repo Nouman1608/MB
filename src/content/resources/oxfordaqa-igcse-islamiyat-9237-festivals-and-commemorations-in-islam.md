@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the practices of Ashura in Sunni and Shia communities and the details of Qurbani and Eid prayer against a teacher's notes."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the practices of Ashura in Sunni and Shia communities and the details of Qurbani and Eid prayer against a teacher's notes. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -105,7 +105,7 @@ Both communities treat the day with respect and sorrow. For an exam answer, give
 
 ## The prescribed passage: Sunan Ibn Majah 1722
 
-The hadith reports that Umar bin al-Khattab (RA) said, "The Messenger of Allah forbade fasting on these two days, the Day of Fitr and the Day of Adha. As for the Day of Fitr, it is the day when you break your fast, and on the Day of Adha you eat the meat of your sacrifices."
+The hadith reports that Umar (RA) bin al-Khattab (RA) said, "The Messenger of Allah forbade fasting on these two days, the Day of Fitr and the Day of Adha. As for the Day of Fitr, it is the day when you break your fast, and on the Day of Adha you eat the meat of your sacrifices."
 
 - **Fasting is forbidden on both days.** They are days for celebrating, not fasting.
 - **Eid-ul-Fitr** is when "you break your fast", the end of Ramadhan.

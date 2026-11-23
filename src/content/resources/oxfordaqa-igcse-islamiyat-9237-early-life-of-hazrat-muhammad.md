@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the dates and the account of Bahira and the early trading journeys against a teacher's notes."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the dates and the account of Bahira and the early trading journeys against a teacher's notes. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -64,7 +64,7 @@ His honesty became so well known that the people of Makkah gave him the titles *
 
 ## Marriage to Hazrat Khadija (RA)
 
-**Khadija bint Khuwaylid (RA)** was a wealthy and respected widow of the Quraysh who ran a large trading business. She hired honest men to trade for her. Having heard of Muhammad's honesty, she asked him to take her goods to Syria, sending her servant **Maysarah** with him. The trading trip was very successful, and Maysarah reported on the Prophet's honesty, good manners and fair dealing.
+**Khadija (RA) bint Khuwaylid (RA)** was a wealthy and respected widow of the Quraysh who ran a large trading business. She hired honest men to trade for her. Having heard of Muhammad's honesty, she asked him to take her goods to Syria, sending her servant **Maysarah** with him. The trading trip was very successful, and Maysarah reported on the Prophet's (pbuh) honesty, good manners and fair dealing.
 
 Khadija (RA), about forty, then proposed to him through a friend. Muhammad (pbuh) was twenty-five. They married in about 595 CE and the marriage was happy and lasted twenty-five years. They had several children: Qasim and Abdullah, who died young, and four daughters, Zainab, Ruqayyah, Umm Kulthum and Fatimah (RA). Khadija (RA) was his first supporter. She was the first person to believe in his message, and she stood by him in hardship.
 
@@ -110,7 +110,7 @@ When the Prophet (pbuh) later called people to Islam, the Quraysh could not accu
 
 ## Exam technique
 
-**Give** or **name** questions ask for a person, place or title (Halimah, Busra, al-Amin). **Explain** questions need the person's role plus its effect. In a 12-mark question on 68:4, use "you [O Muhammad] are of a great moral character" and support it with events: the Black Stone, the trading journey and his honesty with Khadija's goods. Evaluate whether his early life shows that he was prepared for his mission, noting that Muslims believe revelation, not character alone, made him a prophet.
+**Give** or **name** questions ask for a person, place or title (Halimah, Busra, al-Amin). **Explain** questions need the person's role plus its effect. In a 12-mark question on 68:4, use "you [O Muhammad] are of a great moral character" and support it with events: the Black Stone, the trading journey and his honesty with Khadija's (RA) goods. Evaluate whether his early life shows that he was prepared for his mission, noting that Muslims believe revelation, not character alone, made him a prophet.
 
 ## Related pages
 

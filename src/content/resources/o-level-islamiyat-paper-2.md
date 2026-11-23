@@ -23,7 +23,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-09-01
 featured: false
 ---
@@ -56,15 +56,15 @@ sub-topic list alone.
 
 **CAMBRIDGE O LEVEL ISLAMIYAT 2058 — PAPER 2**
 
-- 2.1 Major Teachings in the Hadiths of the Prophet — the central
-  teachings recorded in the sayings and practice of the Prophet
+- 2.1 Major Teachings in the Hadiths of the Prophet (pbuh) — the central
+  teachings recorded in the sayings and practice of the Prophet (pbuh)
   Muhammad (pbuh)
 - 2.2 The History and Importance of the Hadiths — how the Hadiths were
   preserved, compiled and authenticated, and their significance
   alongside the Qur'an
 - 2.3 The Period of Rule of the Rightly Guided Caliphs and Their
-  Importance as Leaders — the leadership of Abu Bakr, Umar, Uthman and
-  Ali, and their significance for the early Muslim community
+  Importance as Leaders — the leadership of Abu Bakr (RA), Umar (RA), Uthman (RA) and
+  Ali (RA), and their significance for the early Muslim community
 - 2.4 The Articles of Faith and the Pillars of Islam — the six
   Articles of Faith and the five Pillars of Islam, and their meaning
   and practice
@@ -99,13 +99,13 @@ source of guidance for Muslims. Where the Qur'an sets out core
 principles, the Hadiths often provide the practical detail of how
 those principles were lived out day to day. Their preservation relied
 on a chain of transmission (isnad) linking each reported saying back
-to a witness of the Prophet's life, and later scholars developed
+to a witness of the Prophet's (pbuh) life, and later scholars developed
 rigorous methods to assess the reliability of each chain -- this
 process of authentication is central to why the Hadiths are treated
 as a trustworthy record.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-2--02-quran-and-hadith.webp" width="900" height="448" alt="Two linked boxes: the Qur'an sets out core principles, and the Hadiths, a second source of guidance, give the practical detail of how they were lived out. A note defines Hadiths as the Prophet's sayings, actions and approvals, preserved through the isnad, distinct from the Qur'an but complementary." loading="lazy">
+  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-2--02-quran-and-hadith.webp" width="900" height="448" alt="Two linked boxes: the Qur'an sets out core principles, and the Hadiths, a second source of guidance, give the practical detail of how they were lived out. A note defines Hadiths as the Prophet's (pbuh) sayings, actions and approvals, preserved through the isnad, distinct from the Qur'an but complementary." loading="lazy">
   <figcaption>Principles from the Qur'an, practical detail from the Hadiths.</figcaption>
 </figure>
 
@@ -113,15 +113,15 @@ as a trustworthy record.
 
 Following the death of the Prophet Muhammad (pbuh), the Muslim
 community was led in succession by four companions known as the
-Rightly Guided Caliphs (al-Khulafa al-Rashidun): Abu Bakr, Umar,
-Uthman and Ali.
+Rightly Guided Caliphs (al-Khulafa al-Rashidun): Abu Bakr (RA), Umar (RA),
+Uthman (RA) and Ali (RA).
 
 | Caliph | Notable for |
 |---|---|
-| Abu Bakr | Consolidating the community after the Prophet's death |
-| Umar | Territorial expansion and administrative organisation |
-| Uthman | Standardising the compilation of the Qur'an |
-| Ali | Leadership during a period of internal division |
+| Abu Bakr (RA) | Consolidating the community after the Prophet's (pbuh) death |
+| Umar (RA) | Territorial expansion and administrative organisation |
+| Uthman (RA) | Standardising the compilation of the Qur'an |
+| Ali (RA) | Leadership during a period of internal division |
 
 Each reign is examined both for its specific achievements and for
 the qualities of leadership it demonstrated, which the syllabus

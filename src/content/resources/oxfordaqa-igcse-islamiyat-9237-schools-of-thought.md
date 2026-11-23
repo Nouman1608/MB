@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New skill-unit page: please ask an Islamiyat teacher to check the accounts of the five imams and their methods, the examples of differences between the schools, the regions named and the references before sign-off."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New skill-unit page: please ask an Islamiyat teacher to check the accounts of the five imams and their methods, the examples of differences between the schools, the regions named and the references before sign-off. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -32,7 +32,7 @@ A **madhhab** (plural *madhahib*) is a school of Islamic law (*fiqh*): a body of
 The scholar who works out a ruling from the sources performs **ijtihad** (independent reasoning). Most Muslims are not trained to do this, so they follow the rulings of a qualified school or scholar; this is called **taqlid**. The Hadith of Mu'adh ibn Jabal (RA), reported in Abu Dawud, shows the method: sent to Yemen as a judge, he said he would judge by the Book of Allah, then by the Sunnah, and then by his own reasoning, and the Prophet (pbuh) approved.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-schools-of-thought--01-ijtihad-and-taqlid.webp" width="900" height="442" alt="The Hadith of Mu’adh ibn Jabal (RA): judge by the Book of Allah, then the Sunnah, then reasoning. Below, a chain: a qualified scholar performs ijtihad, a school preserves a method and body of rulings, and an ordinary Muslim follows it through taqlid." loading="lazy">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-schools-of-thought--01-ijtihad-and-taqlid.webp" width="900" height="442" alt="The Hadith of Mu'adh ibn Jabal (RA): judge by the Book of Allah, then the Sunnah, then reasoning. Below, a chain: a qualified scholar performs ijtihad, a school preserves a method and body of rulings, and an ordinary Muslim follows it through taqlid." loading="lazy">
   <figcaption>A madhhab is above all a method for deriving rulings from the sources.</figcaption>
 </figure>
 
@@ -81,17 +81,17 @@ The scholar who works out a ruling from the sources performs **ijtihad** (indepe
 ### Ja'fari
 
 - **Founder:** Imam **Ja'far al-Sadiq**, a descendant of the Prophet (pbuh) through Hazrat Ali (RA) and Hazrat Fatima (RA), in **Madinah**. Twelver Shi'a Muslims regard him as the sixth Imam. He was a leading teacher of his time, and traditions report that both Abu Hanifa and Malik learned from him.
-- **Method:** the Qur'an; the Sunnah, including the teachings of the Imams of the Prophet's family (*Ahl al-Bayt*); consensus; and reason (*'aql*). It does not use qiyas in the Sunni sense.
+- **Method:** the Qur'an; the Sunnah, including the teachings of the Imams of the Prophet's (pbuh) family (*Ahl al-Bayt*); consensus; and reason (*'aql*). It does not use qiyas in the Sunni sense.
 - **Ijtihad today:** qualified scholars (*mujtahids*) continue to give rulings, and ordinary Shi'a Muslims follow a living senior scholar (*marja'*).
 - **Today:** Iran, Iraq, Bahrain, Lebanon, Azerbaijan, and Shi'a communities in Pakistan and elsewhere.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-schools-of-thought--03-five-schools.webp" width="900" height="570" alt="A table of the five schools with founder and city, distinctive method, key work and where they are followed: Hanafi (Abu Hanifa, Kufa), Maliki (Malik, Madinah, al-Muwatta), Shafi’i (al-Shafi’i, Egypt, al-Risala), Hanbali (Ahmad ibn Hanbal, Baghdad, al-Musnad) and Ja’fari (Ja’far al-Sadiq, Madinah)." loading="lazy">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-schools-of-thought--03-five-schools.webp" width="900" height="570" alt="A table of the five schools with founder and city, distinctive method, key work and where they are followed: Hanafi (Abu Hanifa, Kufa), Maliki (Malik, Madinah, al-Muwatta), Shafi'i (al-Shafi'i, Egypt, al-Risala), Hanbali (Ahmad ibn Hanbal, Baghdad, al-Musnad) and Ja'fari (Ja'far al-Sadiq, Madinah)." loading="lazy">
   <figcaption>Learn each founder with a city and one distinctive method.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-schools-of-thought--04-teacher-links.webp" width="900" height="680" alt="Links between the founders: traditions report that Abu Hanifa and Malik learned from Ja’far al-Sadiq; al-Shafi’i studied under Malik and learned from Hanafi scholars in Iraq; Ahmad ibn Hanbal was a student of al-Shafi’i; and Abu Yusuf and al-Shaybani recorded Abu Hanifa’s teaching." loading="lazy">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-schools-of-thought--04-teacher-links.webp" width="900" height="680" alt="Links between the founders: traditions report that Abu Hanifa and Malik learned from Ja'far al-Sadiq; al-Shafi'i studied under Malik and learned from Hanafi scholars in Iraq; Ahmad ibn Hanbal was a student of al-Shafi'i; and Abu Yusuf and al-Shaybani recorded Abu Hanifa's teaching." loading="lazy">
   <figcaption>The founders learned from one another: the schools grew from shared scholarship.</figcaption>
 </figure>
 
@@ -110,7 +110,7 @@ These are the kind of examples that earn credit when a question asks how the sch
 None of these touches the fundamentals. Every school prays five times, fasts in Ramadhan, pays Zakah and performs Hajj.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-schools-of-thought--05-examples-of-differences.webp" width="900" height="587" alt="A table of differences between schools: where the hands are placed in prayer, saying Amin aloud or quietly, what breaks Wudu, combining prayers, and distinctive sources. Below, what every school shares: Tawhid, the Qur’an and Sunnah, five daily prayers, fasting, Zakah and Hajj." loading="lazy">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-schools-of-thought--05-examples-of-differences.webp" width="900" height="587" alt="A table of differences between schools: where the hands are placed in prayer, saying Amin aloud or quietly, what breaks Wudu, combining prayers, and distinctive sources. Below, what every school shares: Tawhid, the Qur'an and Sunnah, five daily prayers, fasting, Zakah and Hajj." loading="lazy">
   <figcaption>The schools differ on details of practice; none differs on the pillars.</figcaption>
 </figure>
 
@@ -123,7 +123,7 @@ None of these touches the fundamentals. Every school prays five times, fasts in 
 - **Unity in diversity:** the Sunni schools accept each other as valid, and in 2005 the Amman Message, endorsed by scholars from across the Muslim world, recognised the four Sunni schools and the Ja'fari school, among others, as legitimate.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-schools-of-thought--06-role-of-schools.webp" width="900" height="393" alt="Five roles of the law schools: guidance for ordinary Muslims, stability for courts and communities, flexibility for new times and places, respect for scholarship, and unity in diversity, shown by the Amman Message of 2005 recognising the four Sunni schools and the Ja’fari school." loading="lazy">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-schools-of-thought--06-role-of-schools.webp" width="900" height="393" alt="Five roles of the law schools: guidance for ordinary Muslims, stability for courts and communities, flexibility for new times and places, respect for scholarship, and unity in diversity, shown by the Amman Message of 2005 recognising the four Sunni schools and the Ja'fari school." loading="lazy">
   <figcaption>“Origins and role” means saying why the schools matter, not just who founded them.</figcaption>
 </figure>
 
@@ -137,7 +137,7 @@ None of these touches the fundamentals. Every school prays five times, fasts in 
 - "Refer it to Allah and the Messenger" gives the **method**: every school must justify its rulings from the sources.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-schools-of-thought--07-quran-4-59.webp" width="900" height="471" alt="The prescribed passage, Qur’an 4:59, in four phrases: obeying Allah and the Messenger grounds every school in the Qur’an and Sunnah; those in authority includes the learned; disagreement is expected; and referring disputes to Allah and the Messenger is the method every school must follow." loading="lazy">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-schools-of-thought--07-quran-4-59.webp" width="900" height="471" alt="The prescribed passage, Qur'an 4:59, in four phrases: obeying Allah and the Messenger grounds every school in the Qur'an and Sunnah; those in authority includes the learned; disagreement is expected; and referring disputes to Allah and the Messenger is the method every school must follow." loading="lazy">
   <figcaption>The passage both accepts disagreement and gives the method for handling it.</figcaption>
 </figure>
 

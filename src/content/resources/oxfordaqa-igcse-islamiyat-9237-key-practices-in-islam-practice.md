@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -128,7 +128,7 @@ Ways (AO1):
 
 Applications (AO2), for example:
 
-- "Islam is built upon five" (Hadith of Ibn Umar, Bukhari and Muslim) [2].
+- "Islam is built upon five" (Hadith of Ibn Umar (RA), Bukhari and Muslim) [2].
 - "The believing men and believing women are allies of one another" (Qur'an 9:71) [2].
 
 **8.** AO1 **[4]**: as in question 7. AO2 **[2]**: as in question 7.

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-23: figure caption no longer cites Cambridge 0455 (audit C28)."
 ---
 
 This guide covers two sub-sections of AQA A-level Economics (7136), from the AQA AS and A-level Economics specification, version 1.3, 29 June 2022: **How markets and prices allocate resources** and **The meaning of market failure**. They are numbered 3.1.8.1 and 3.1.8.2 on the AQA website; the combined specification PDF prints them as 4.1.8.1 and 4.1.8.2. The specification states no AS-only or A-level-only labels for this content. Every figure below is invented and illustrative.
@@ -212,7 +212,7 @@ The market exists, but it misallocates. Detailed treatment is left to the guides
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-causes-of-market-failure.webp" width="900" height="1060" alt="Five small pictures show the causes of market failure: public goods, merit and demerit goods, external costs and benefits, abuse of monopoly power and factor immobility. The result is the wrong amount produced or used." loading="lazy">
-  <figcaption>Market failure has five causes limited to those in the 0455 syllabus.</figcaption>
+  <figcaption>Market failure has five main causes.</figcaption>
 </figure>
 
 

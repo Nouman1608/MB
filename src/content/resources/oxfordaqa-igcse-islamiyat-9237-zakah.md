@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the Nisaab weights, the Ushr rates and the list of people who may not receive Zakah against a teacher's course notes; schools of thought differ on some details."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the Nisaab weights, the Ushr rates and the list of people who may not receive Zakah against a teacher's course notes; schools of thought differ on some details. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -91,7 +91,7 @@ The recipients are listed in the prescribed passage, Qur'an 9:60. Each phrase in
 | The cause of Allah | Work for the benefit of the faith and the community | Support for a worthy cause serving Muslims |
 | The stranded traveller | A traveller cut off from money | A student who has lost belongings abroad |
 
-Most scholars say Zakah may **not** be given to: a person who is rich enough to pay Zakah, a person's own dependent parents, spouse or children (their upkeep is already a duty), or members of the Prophet's family. Zakah should go to those who truly need it, and the giver should intend it for Allah, not for show.
+Most scholars say Zakah may **not** be given to: a person who is rich enough to pay Zakah, a person's own dependent parents, spouse or children (their upkeep is already a duty), or members of the Prophet's (pbuh) family. Zakah should go to those who truly need it, and the giver should intend it for Allah, not for show.
 
 ## Worked example: calculating Zakah
 

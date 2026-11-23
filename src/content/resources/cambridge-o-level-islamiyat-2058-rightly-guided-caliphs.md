@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the events, dates, names and leadership lessons for each of the four caliphs."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the events, dates, names and leadership lessons for each of the four caliphs. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -38,26 +38,26 @@ models of government.
 - their significance as examples of leadership;
 - the importance of their rules as models for government today, and for relations with other states.
 
-Their lives during the Prophet's lifetime belong to Paper 1; this topic begins in 632.
+Their lives during the Prophet's (pbuh) lifetime belong to Paper 1; this topic begins in 632.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-rightly-guided-caliphs--01-caliphs-timeline.webp" width="900" height="517" alt="A scaled bar from 632 to 661 divided into the rules of Abu Bakr (632–634), Umar (634–644), Uthman (644–656) and Ali (656–661), with key events for each: Usama's army, the Ridda wars and the collection of the Qur'an; Umar's conquests and administration; Uthman's expansion, navy, standard copies and the siege; and Ali's battles of the Camel, Siffin and Nahrawan." loading="lazy">
-  <figcaption>Four rules in under thirty years; Umar and Uthman ruled longest.</figcaption>
+  <figcaption>Four rules in under thirty years; Umar (RA) and Uthman (RA) ruled longest.</figcaption>
 </figure>
 
-## Abu Bakr (632–634): holding the community together
+## Abu Bakr (RA) (632–634): holding the community together
 
 **Becoming caliph.** When the Prophet (pbuh) died, the Ansar gathered at the Saqifa of Banu Sa'ida to
-choose a leader. Abu Bakr, Umar and Abu Ubayda went to them; after discussion, Umar pledged allegiance
-to Abu Bakr and the others followed, and the next day the people pledged in the mosque.
+choose a leader. Abu Bakr (RA), Umar (RA) and Abu Ubayda (RA) went to them; after discussion, Umar (RA) pledged allegiance
+to Abu Bakr (RA) and the others followed, and the next day the people pledged in the mosque.
 
 **His first address.** He said he had been given authority though he was not the best of them, asked
 them to help him if he did well and correct him if he did wrong, said that the weak among them would be
 strong with him until he secured their rights, and told them to obey him only as long as he obeyed
 God and His Messenger.
 
-**First decision: Usama's army.** The Prophet had prepared an army under young Usama ibn Zayd to go to
-the Syrian frontier. Despite the danger at home, Abu Bakr sent it, saying he would not undo what the
+**First decision: Usama's army.** The Prophet (pbuh) had prepared an army under young Usama ibn Zayd to go to
+the Syrian frontier. Despite the danger at home, Abu Bakr (RA) sent it, saying he would not undo what the
 Prophet had decided. Its safe return showed that the new state was still strong.
 
 **The Ridda wars.** Many tribes refused to pay zakat, and false prophets such as **Musaylima**,
@@ -65,22 +65,22 @@ Prophet had decided. Its safe return showed that the new state was still strong.
 Bakr insisted he would fight anyone who separated prayer from zakat. He sent armies to every region;
 Khalid ibn al-Walid defeated Tulayha and then Musaylima at **Yamama**.
 
-**The Qur'an.** Because many huffaz died at Yamama, he had Zayd ibn Thabit collect the Qur'an into one
+**The Qur'an.** Because many huffaz died at Yamama, he had Zayd ibn Thabit (RA) collect the Qur'an into one
 copy.
 
 **Expansion.** Khalid led campaigns into Iraq, then crossed the desert to join the armies in Syria.
 
-**Death.** Before dying in 634, he consulted senior Companions and nominated Umar. He was buried beside
-the Prophet.
+**Death.** Before dying in 634, he consulted senior Companions and nominated Umar (RA). He was buried beside
+the Prophet (pbuh).
 
 *Leadership lesson:* firmness on principle combined with humility and accountability.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-rightly-guided-caliphs--02-abu-bakr-problems-responses.webp" width="900" height="729" alt="Five problems and Abu Bakr's responses: choosing a leader at the Saqifa; sending Usama's army despite danger at home; the Ridda wars against tribes refusing zakat and false prophets, ending at Yamama; collecting the Qur'an after huffaz died; and nominating Umar after consultation." loading="lazy">
-  <figcaption>Abu Bakr met each crisis firmly and kept the community and the Qur'an intact.</figcaption>
+  <figcaption>Abu Bakr (RA) met each crisis firmly and kept the community and the Qur'an intact.</figcaption>
 </figure>
 
-## Umar (634–644): building a state
+## Umar (RA) (634–644): building a state
 
 - **Title and style.** The first to be called **Amir al-Mu'minin**, "Commander of the Faithful". He
   lived simply, patrolled Madina at night to learn people's needs, and carried food to the poor
@@ -96,27 +96,27 @@ the Prophet.
   overall command so that people would not think victories depended on one man.
 - **Religion.** He gathered Muslims for tarawih in congregation in Ramadan.
 - **Death.** He was stabbed by Abu Lu'lu'a while leading the dawn prayer in 644. Before dying he
-  appointed a council of six: Uthman, Ali, Abd al-Rahman ibn Awf, Sa'd ibn Abi Waqqas, al-Zubayr and
-  Talha, to choose his successor.
+  appointed a council of six: Uthman (RA), Ali (RA), Abd al-Rahman ibn Awf (RA), Sa'd ibn Abi Waqqas (RA), al-Zubayr and
+  Talha (RA), to choose his successor.
 
 *Leadership lesson:* justice applied to the powerful as strictly as to the weak.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-rightly-guided-caliphs--03-umar-building-a-state.webp" width="900" height="581" alt="Umar at the centre with four areas: expansion through Yarmuk, Qadisiyya, Jerusalem, Egypt and Nahawand; administration with governors, separate qadis, the bayt al-mal, the diwan, garrison towns and the Hijri calendar; accountability through checks on governors; and religion, gathering Muslims for tarawih." loading="lazy">
-  <figcaption>Conquest, institutions and accountability: Umar turned a community into a state.</figcaption>
+  <figcaption>Conquest, institutions and accountability: Umar (RA) turned a community into a state.</figcaption>
 </figure>
 
-## Uthman (644–656): growth and division
+## Uthman (RA) (644–656): growth and division
 
-- **Chosen** by the council of six through Abd al-Rahman ibn Awf, who consulted widely in Madina.
+- **Chosen** by the council of six through Abd al-Rahman ibn Awf (RA), who consulted widely in Madina.
 - **Expansion** continued into North Africa, Armenia and the remaining parts of Persia; under Mu'awiya,
   governor of Syria, the Muslims built their **first navy** and took Cyprus.
-- **The Qur'an.** He had standard copies made from Hafsa's copy and sent to the main cities, ending
+- **The Qur'an.** He had standard copies made from Hafsa's (RA) copy and sent to the main cities, ending
   disputes over recitation.
-- **Building.** He enlarged the Prophet's Mosque in Madina.
+- **Building.** He enlarged the Prophet (pbuh)'s Mosque in Madina.
 - **Difficulties.** He appointed several relatives from the Umayyad clan as governors, such as Mu'awiya
   in Syria, and critics accused them of injustice. Groups from Egypt, Kufa and Basra came to Madina
-  with complaints. Uthman answered them and promised reforms, but the rebels besieged his house.
+  with complaints. Uthman (RA) answered them and promised reforms, but the rebels besieged his house.
 - **Martyrdom.** He refused to let Companions fight to defend him, not wanting Muslim blood shed for
   his sake, and was killed in 656 while reading the Qur'an.
 
@@ -125,18 +125,18 @@ fuelled distrust even where they were capable.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-rightly-guided-caliphs--04-uthman-achievements-difficulties.webp" width="900" height="571" alt="Two columns. Achievements: chosen by the council of six, expansion into North Africa, Armenia and Persia, the first navy and Cyprus, standard copies of the Qur'an and the enlarged Prophet's Mosque. Difficulties: relatives appointed as governors, complaints from Egypt, Kufa and Basra, the siege of his house and his killing in 656." loading="lazy">
-  <figcaption>Uthman's rule brought growth and the standard Qur'an, but also division.</figcaption>
+  <figcaption>Uthman's (RA) rule brought growth and the standard Qur'an, but also division.</figcaption>
 </figure>
 
-## Ali (656–661): leading through civil conflict
+## Ali (RA) (656–661): leading through civil conflict
 
-- **Chosen** in Madina after Uthman's death, at a time of great confusion.
-- **The demand for justice.** Aisha, Talha and al-Zubayr demanded the immediate punishment of Uthman's
-  killers. Ali wanted to restore order first. The two sides met at the **Battle of the Camel** (656)
-  near Basra; Talha and al-Zubayr were killed, and Ali sent Aisha back to Madina with respect.
+- **Chosen** in Madina after Uthman's (RA) death, at a time of great confusion.
+- **The demand for justice.** Aisha (RA), Talha (RA) and al-Zubayr demanded the immediate punishment of Uthman's (RA)
+  killers. Ali (RA) wanted to restore order first. The two sides met at the **Battle of the Camel** (656)
+  near Basra; Talha (RA) and al-Zubayr were killed, and Ali (RA) sent Aisha (RA) back to Madina with respect.
 - **Kufa.** He moved the capital to Kufa in Iraq.
-- **Siffin, 657.** Mu'awiya refused to accept Ali until Uthman's killers were punished. At Siffin,
-  when Mu'awiya's soldiers raised copies of the Qur'an on spears, Ali agreed to arbitration, with Abu
+- **Siffin, 657.** Mu'awiya refused to accept Ali (RA) until Uthman's (RA) killers were punished. At Siffin,
+  when Mu'awiya's soldiers raised copies of the Qur'an on spears, Ali (RA) agreed to arbitration, with Abu
   Musa al-Ash'ari representing him and Amr ibn al-As representing Mu'awiya.
 - **The Kharijites.** A group rejected arbitration, saying "judgement belongs to God alone", and left
   his army. He defeated them at **Nahrawan** (658).
@@ -157,10 +157,10 @@ bloodshed.
 | Issue | How the caliphs responded | Model for government today |
 |---|---|---|
 | Choosing a leader | Discussion at Saqifa; nomination after consultation; a council of six; pledge in Madina | Leaders chosen with consultation and public consent |
-| Accountability | Abu Bakr's first address; Umar's checks on governors | Officials answerable for public money and conduct |
-| Welfare | Umar's diwan and stipends | State support for the poor, widows and elderly |
-| Minorities | Umar's guarantee to the Christians of Jerusalem | Protection of the rights and worship of all citizens |
-| Rebellion and dissent | Abu Bakr against the Ridda; Uthman's restraint; Ali against the Kharijites | Uphold the law while avoiding needless bloodshed |
+| Accountability | Abu Bakr's (RA) first address; Umar's (RA) checks on governors | Officials answerable for public money and conduct |
+| Welfare | Umar's (RA) diwan and stipends | State support for the poor, widows and elderly |
+| Minorities | Umar's (RA) guarantee to the Christians of Jerusalem | Protection of the rights and worship of all citizens |
+| Rebellion and dissent | Abu Bakr (RA) against the Ridda; Uthman's (RA) restraint; Ali (RA) against the Kharijites | Uphold the law while avoiding needless bloodshed |
 | Other states | Treaties, terms offered before fighting, rules protecting civilians | International agreements and humane conduct in war |
 
 <figure class="topic-figure">
@@ -170,7 +170,7 @@ bloodshed.
 
 ## Worked example
 
-**Question:** Describe the main difficulties Uthman faced during his caliphate. **[10]**
+**Question:** Describe the main difficulties Uthman (RA) faced during his caliphate. **[10]**
 
 **Strong answer plan:** a large empire with new Muslims and growing wealth → disputes over recitation
 of the Qur'an, which he resolved by standardisation, though some objected to the burning of other
@@ -184,15 +184,15 @@ to each is included.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-rightly-guided-caliphs--07-uthman-difficulties-chain.webp" width="900" height="792" alt="A vertical chain: a large empire with new Muslims; disputes over recitation resolved by standardisation; criticism of relatives as governors; complaints from Egypt, Kufa and Basra; an alleged letter turning the Egyptian delegation back; the siege of his house, where he refused to let others fight for him; and his killing in 656." loading="lazy">
-  <figcaption>Each difficulty led to the next; include Uthman's response at every step.</figcaption>
+  <figcaption>Each difficulty led to the next; include Uthman's (RA) response at every step.</figcaption>
 </figure>
 
 ## Common mistakes
 
-- **Writing the Prophet's lifetime into a Paper 2 answer.** Uthman's purchase of the well of Ruma is
+- **Writing the Prophet's (pbuh) lifetime into a Paper 2 answer.** Uthman's (RA) purchase of the well of Ruma is
   Paper 1.
-- **Mixing up the battles under Ali.** Camel 656, Siffin 657, Nahrawan 658.
-- **One-sided answers on Uthman or Ali.** Give achievements and difficulties.
+- **Mixing up the battles under Ali (RA).** Camel 656, Siffin 657, Nahrawan 658.
+- **One-sided answers on Uthman (RA) or Ali (RA).** Give achievements and difficulties.
 - **Vague modern links.** Name a specific modern practice, such as an anti-corruption inquiry or
   welfare payments.
 

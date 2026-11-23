@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -126,7 +126,7 @@ Reasons (AO1):
 
 Applications (AO2), for example:
 
-- "Islam is built upon five", beginning with the testimony (Hadith of Ibn Umar) [2].
+- "Islam is built upon five", beginning with the testimony (Hadith of Ibn Umar (RA)) [2].
 - "Allah witnesses that there is no deity except Him, and [so do] the angels and those of knowledge" (Qur'an 3:18) [2].
 
 **8.** AO1 **[4]**: as in question 7. AO2 **[2]**: as in question 7.

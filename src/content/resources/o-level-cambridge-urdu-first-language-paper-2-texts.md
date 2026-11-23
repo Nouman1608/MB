@@ -17,6 +17,7 @@ author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"
 reviewStatus: "reviewed"
 reviewedDate: 2026-09-29
+reviewNote: "2026-11-23: prose list clarified as seven articles plus Khatoot-e-Ghalib (two letters), checked against the 3247 syllabus for 2027 (audit C19); poet spelling note added."
 publishedDate: 2026-09-01
 featured: false
 ---
@@ -46,17 +47,17 @@ entirely through Assessment Objective 3, Literature (texts).
   guided by prompts in the question
 - Part 2 Poetry (15 marks) — two essay questions based on the
   prescribed ghazals and nazms; candidates answer one. Set poets
-  include Khwaja Haider Ali Ahtish, Parveen Shakir, Momin Khan Momin,
+  include Khwaja Haider Ali Ahtish (spelled Atish or Aatish in other books; Ahtish is the syllabus spelling), Parveen Shakir, Momin Khan Momin,
   Allama Iqbal and Ahmed Faraz (ten prescribed ghazals in total), plus
   three prescribed nazms: Altaf Hussain Hali's Musadas Hali (17
   selected stanzas), Syed Zameer Jafree's "Admee", and Mirza Mahmood
   Sarhadi's "Qitaat"
 - Part 3 Prose (15 marks) — two essay questions based on eight
-  prescribed prose articles; candidates answer one. Set writers
-  include Muhammad Hussain Azad, Mirza Farhatullah Baig, Ghulam
+  prescribed prose texts; candidates answer one. The eight are seven
+  articles by Muhammad Hussain Azad, Mirza Farhatullah Baig, Ghulam
   Abbas, Ahmad Nadeem Qasmi, Sir Syed Ahmed Khan, Mushtaq Ahmed
-  Yousafi, Syed Imtiaz Ali Taj, and two of Mirza Ghalib's letters
-  (Khatoot-e-Ghalib)
+  Yousafi and Syed Imtiaz Ali Taj, plus Mirza Ghalib's Khatoot-e-Ghalib,
+  which is two letters
 
 All three parts test Assessment Objective 3 (Literature): first-hand
 knowledge of the text, understanding of literal and deeper meanings,
@@ -64,7 +65,7 @@ recognising how writers use language to create effect, and
 communicating an informed, personal response.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-cambridge-urdu-first-language-paper-2-texts--01-paper-2-structure.webp" width="900" height="584" alt="Paper 2 Texts, 50% of 3247, has three parts: Part 1 Unseen Passage (20 marks, one passage-based question), Part 2 Poetry (15 marks, one of two essay questions on ten ghazals and three nazms) and Part 3 Prose (15 marks, one of two essay questions on eight articles). All test AO3 Literature." loading="lazy">
+  <img src="https://img.marlbridge.com/o-level-cambridge-urdu-first-language-paper-2-texts--01-paper-2-structure.webp" width="900" height="584" alt="Paper 2 Texts, 50% of 3247, has three parts: Part 1 Unseen Passage (20 marks, one passage-based question), Part 2 Poetry (15 marks, one of two essay questions on ten ghazals and three nazms) and Part 3 Prose (15 marks, one of two essay questions on eight prose texts). All test AO3 Literature." loading="lazy">
   <figcaption>An unseen extract for 20 marks, then one poetry and one prose essay for 15 each.</figcaption>
 </figure>
 
@@ -120,7 +121,7 @@ comprehension.
 |---|---|---|
 | 1 Unseen Passage | 20 | An extract not seen before (poetry or prose) |
 | 2 Poetry | 15 | Ten prescribed ghazals and three prescribed nazms |
-| 3 Prose | 15 | Eight prescribed prose articles, including two of Ghalib's letters |
+| 3 Prose | 15 | Eight prescribed prose texts: seven articles and Ghalib's Khatoot-e-Ghalib (two letters) |
 
 Because Parts 2 and 3 are set-text papers, candidates should treat
 each prescribed poem or article as something to know in real depth --
@@ -129,7 +130,7 @@ can be deployed to support an argument -- rather than something to
 recognise in outline only.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-cambridge-urdu-first-language-paper-2-texts--02-set-texts.webp" width="900" height="684" alt="Part 2 Poetry: ten ghazals by Khwaja Haider Ali Ahtish, Parveen Shakir, Momin Khan Momin, Allama Iqbal and Ahmed Faraz, and three nazms by Hali (Musadas Hali, 17 stanzas), Syed Zameer Jafree (Admee) and Mirza Mahmood Sarhadi (Qitaat). Part 3 Prose: eight articles, including two of Ghalib's letters." loading="lazy">
+  <img src="https://img.marlbridge.com/o-level-cambridge-urdu-first-language-paper-2-texts--02-set-texts.webp" width="900" height="684" alt="Part 2 Poetry: ten ghazals by Khwaja Haider Ali Ahtish, Parveen Shakir, Momin Khan Momin, Allama Iqbal and Ahmed Faraz, and three nazms by Hali (Musadas Hali, 17 stanzas), Syed Zameer Jafree (Admee) and Mirza Mahmood Sarhadi (Qitaat). Part 3 Prose: eight texts, seven articles and Ghalib's two letters." loading="lazy">
   <figcaption>Know each prescribed text in depth, with quotations ready.</figcaption>
 </figure>
 
@@ -166,7 +167,7 @@ leaving insufficient time for the two essay-based parts.
 - Know at least six of the ten prescribed ghazals and two of the
   three prescribed nazms in close textual detail, including specific
   lines to quote.
-- Know at least five of the eight prescribed prose articles in close
+- Know at least five of the eight prescribed prose texts in close
   textual detail, including precise reference points.
 - Practise writing essay answers that combine a clear personal
   response with sustained, specific textual reference.
@@ -174,6 +175,6 @@ leaving insufficient time for the two essay-based parts.
   the others in the real exam.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-cambridge-urdu-first-language-paper-2-texts--06-coverage-targets.webp" width="900" height="580" alt="The guide's revision targets: know at least six of the ten prescribed ghazals, two of the three nazms and five of the eight prose articles in close textual detail, and time each part so Part 1 does not crowd out the essays." loading="lazy">
+  <img src="https://img.marlbridge.com/o-level-cambridge-urdu-first-language-paper-2-texts--06-coverage-targets.webp" width="900" height="580" alt="The guide's revision targets: know at least six of the ten prescribed ghazals, two of the three nazms and five of the eight prose texts in close textual detail, and time each part so Part 1 does not crowd out the essays." loading="lazy">
   <figcaption>Enough depth across the list to keep both questions open.</figcaption>
 </figure>

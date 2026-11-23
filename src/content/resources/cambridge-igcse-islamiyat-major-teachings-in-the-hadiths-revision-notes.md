@@ -21,11 +21,11 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review; 2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 ---
 
 **These revision notes condense Paper 2 Question 1 of Cambridge IGCSE Islamiyat 0493, Major
-Teachings in the Hadiths of the Prophet.** For each of the twenty set Hadiths you get a short label
+Teachings in the Hadiths of the Prophet (pbuh).** For each of the twenty set Hadiths you get a short label
 to recognise it, its core teaching, and a practical application for Muslims today, which are the
 two things every answer must contain.
 

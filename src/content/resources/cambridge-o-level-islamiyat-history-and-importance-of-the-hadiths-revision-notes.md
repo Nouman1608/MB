@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review; 2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 ---
 
 **These notes cover Paper 2 Question 2 of Cambridge O Level Islamiyat 2058, The History and
@@ -51,7 +51,7 @@ thought and action.
 - Caliph Umar ibn Abd al-Aziz (717–720) ordered official collection; al-Zuhri took part.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-history-importance-hadiths--01-six-stages-of-compilation.webp" width="900" height="664" alt="Six stages: Companions learning in the Prophet's lifetime, mainly by memory; Companions teaching across new cities after 632; Successors travelling and keeping notebooks; the first official collection ordered by Umar ibn Abd al-Aziz (717–720); musannaf and musnad collections; and the sahih and sunan collections of the third Islamic century." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-history-importance-hadiths--01-six-stages-of-compilation.webp" width="900" height="664" alt="Six stages: Companions learning in the Prophet's (pbuh) lifetime, mainly by memory; Companions teaching across new cities after 632; Successors travelling and keeping notebooks; the first official collection ordered by Umar ibn Abd al-Aziz (717–720); musannaf and musnad collections; and the sahih and sunan collections of the third Islamic century." loading="lazy">
   <figcaption>Six stages, from memory to strictly selected collections; the official order of 717–720 is the turning point.</figcaption>
 </figure>
 
@@ -80,12 +80,12 @@ Prophet's way of speaking.
 **Grades:** sahih (sound), hasan (good), da'if (weak), mawdu' (fabricated).
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-history-and-importance-of-the-hadiths--01-isnad-and-matn.webp" width="900" height="634" alt="The isnad is drawn as a chain: A told me that B said that C heard the Prophet (pbuh) say. Below it the matn, the text itself, reports what the Prophet said, did or approved. A note defines the Sunnah as his way of life, known mainly through Hadiths." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-history-and-importance-of-the-hadiths--01-isnad-and-matn.webp" width="900" height="634" alt="The isnad is drawn as a chain: A told me that B said that C heard the Prophet (pbuh) say. Below it the matn, the text itself, reports what the Prophet (pbuh) said, did or approved. A note defines the Sunnah as his way of life, known mainly through Hadiths." loading="lazy">
   <figcaption>Isnad is the chain of narrators; matn is the text they passed on.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-history-importance-hadiths--04-testing-reliability.webp" width="900" height="588" alt="Two checklists. Isnad tests: good character ('adala), accurate memory (dabt) and an unbroken chain, checked in biographical dictionaries. Matn tests: no contradiction of the Qur'an or established Sunna, nothing against reason or known history, and the Prophet's way of speaking. Hadiths are graded sahih, hasan, da'if or mawdu'; only sahih and hasan establish rulings." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-history-importance-hadiths--04-testing-reliability.webp" width="900" height="588" alt="Two checklists. Isnad tests: good character ('adala), accurate memory (dabt) and an unbroken chain, checked in biographical dictionaries. Matn tests: no contradiction of the Qur'an or established Sunna, nothing against reason or known history, and the Prophet's (pbuh) way of speaking. Hadiths are graded sahih, hasan, da'if or mawdu'; only sahih and hasan establish rulings." loading="lazy">
   <figcaption>Chain and text are both tested; only sahih and hasan Hadiths are used for rulings.</figcaption>
 </figure>
 
@@ -99,7 +99,7 @@ al-Nasa'i; Sunan Ibn Majah.
 - *The four Sunan:* concentrate on Hadiths used for law; al-Tirmidhi often comments on grading.
 
 **Four Shi'a books:** al-Kafi (al-Kulayni); Man la yahduruhu al-faqih (Ibn Babawayh); Tahdhib
-al-ahkam and al-Istibsar (al-Tusi). They give weight to narrations through the Prophet's family and
+al-ahkam and al-Istibsar (al-Tusi). They give weight to narrations through the Prophet's (pbuh) family and
 the Imams.
 
 <figure class="topic-figure">
@@ -130,12 +130,12 @@ scholars apply this by qiyas to modern drugs.
 ## Why are Hadiths important to Muslims?
 
 - They show how to practise the Pillars in detail.
-- They model the Prophet's character, the "beautiful example" of Qur'an 33.21.
+- They model the Prophet's (pbuh) character, the "beautiful example" of Qur'an 33.21.
 - They guide manners, family life, business and community relations.
 - They help scholars respond to new questions.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-2--02-quran-and-hadith.webp" width="900" height="448" alt="Two linked boxes: the Qur'an sets out core principles, and the Hadiths, a second source of guidance, give the practical detail of how they were lived out. A note defines Hadiths as the Prophet's sayings, actions and approvals, preserved through the isnad, distinct from the Qur'an but complementary." loading="lazy">
+  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-2--02-quran-and-hadith.webp" width="900" height="448" alt="Two linked boxes: the Qur'an sets out core principles, and the Hadiths, a second source of guidance, give the practical detail of how they were lived out. A note defines Hadiths as the Prophet's (pbuh) sayings, actions and approvals, preserved through the isnad, distinct from the Qur'an but complementary." loading="lazy">
   <figcaption>Principles from the Qur'an, practical detail from the Hadiths.</figcaption>
 </figure>
 
@@ -180,7 +180,7 @@ In Cambridge O Level 2058 Paper 2 (1 hour 30 minutes, 50 marks), the history and
 
 **Did Shi'a and Sunni scholars use the same methods?**
 Both examined chains and texts, but Shi'a
-scholars placed particular weight on transmission through the Prophet's family and the Imams.
+scholars placed particular weight on transmission through the Prophet's (pbuh) family and the Imams.
 
 ## Related pages
 

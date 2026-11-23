@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New skill-unit page: please ask an Islamiyat teacher to check the questions, historical details, references and mark guidance before sign-off."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New skill-unit page: please ask an Islamiyat teacher to check the questions, historical details, references and mark guidance before sign-off. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -139,7 +139,7 @@ The 12-mark questions are marked by levels:
 **7.** For each of two events: event identified [1] and explained [1].
 
 - **The ambush** [1]: the Hawazin attacked at dawn in a narrow valley, and many Muslims fled [1].
-- **The Prophet stood firm** [1]: he called out that he was the Prophet and did not retreat, giving the army a point to rally to [1].
+- **The Prophet (pbuh) stood firm** [1]: he called out that he was the Prophet (pbuh) and did not retreat, giving the army a point to rally to [1].
 - **Abbas (RA) called the companions back** [1]: the Ansar and others regrouped and won the battle [1].
 - **Distribution of spoils** [1]: the Prophet (pbuh) gave generously to new Muslims and reassured the Ansar [1].
 
@@ -147,7 +147,7 @@ The 12-mark questions are marked by levels:
 
 - **Peaceful spread of Islam** [1]: tribes came to Madinah of their own accord to accept Islam [1].
 - **Unity of Arabia** [1]: rival tribes came under one faith and one leadership [1].
-- **The Prophet as statesman** [1]: he received delegations, made agreements, and sent teachers and governors such as Mu'adh ibn Jabal (RA) [1].
+- **The Prophet (pbuh) as statesman** [1]: he received delegations, made agreements, and sent teachers and governors such as Mu'adh ibn Jabal (RA) [1].
 - **Fulfilment of revelation** [1]: Surah an-Nasr describes people "entering into the religion of Allah in multitudes" [1].
 
 ### Section B
@@ -171,7 +171,7 @@ Applications (AO2), for example:
 Reasons (AO1):
 
 - **Value of consultation** [1]: the Prophet (pbuh) adopted Salman's idea, so good advice is welcomed whatever its source [1].
-- **Leadership by example** [1]: the Prophet dug with the companions and shared their hunger [1].
+- **Leadership by example** [1]: the Prophet (pbuh) dug with the companions and shared their hunger [1].
 - **Unity under pressure** [1]: the believers held together under siege while betrayal came from outside the community of believers [1].
 - **Trust in Allah** [1]: relief came through the wind and the breakdown of the alliance, not by fighting [1].
 

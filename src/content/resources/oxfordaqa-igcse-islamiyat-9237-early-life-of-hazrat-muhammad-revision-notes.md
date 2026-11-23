@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the dates and the account of Bahira against a teacher's notes."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the dates and the account of Bahira against a teacher's notes. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -55,7 +55,7 @@ featured: false
 | Abu Talib | Uncle | Guardian; took him to Syria; protected him; never accepted Islam |
 | Bahira | Monk of Busra | Recognised signs of prophethood; warned Abu Talib to protect the boy |
 | Khadija (RA) | Wife | Wealthy trader; hired him; proposed; first believer |
-| Maysarah | Khadija's servant | Travelled with him and reported on his honesty |
+| Maysarah | Khadija's (RA) servant | Travelled with him and reported on his honesty |
 
 ## What each guardian gave him
 
@@ -73,11 +73,11 @@ He lost both parents and then his grandfather. Muslims link this with his later 
 - Shepherd in youth: patience and care for the weak.
 - Merchant: honest, fair weights and prices, kept promises.
 - Known as **al-Amin** (the trustworthy) and **as-Sadiq** (the truthful).
-- Khadija's trip to Syria: a good profit by honest means; Maysarah praised his manners.
+- Khadija's (RA) trip to Syria: a good profit by honest means; Maysarah praised his manners.
 
 ## Marriage to Khadija (RA)
 
-- Khadija: wealthy widow, about forty; he was about twenty-five.
+- Khadija (RA): wealthy widow, about forty; he was about twenty-five.
 - She proposed after hearing of his honesty.
 - Married about 595 CE; lasted twenty-five years.
 - Children: Qasim and Abdullah (died young), Zainab, Ruqayyah, Umm Kulthum, Fatimah.
@@ -122,7 +122,7 @@ The clans rebuilt the Ka'aba and argued over who should lift the Black Stone. Th
 2. Say what happened.
 3. Explain the effect on his life or character.
 
-**Mini example (Khadija, RA):** "Khadija hired him to trade because she had heard of his honesty [1]. His success and his honest dealing led to their marriage [1]."
+**Mini example (Khadija (RA), RA):** "Khadija (RA) hired him to trade because she had heard of his honesty [1]. His success and his honest dealing led to their marriage [1]."
 
 ## Exam traps
 

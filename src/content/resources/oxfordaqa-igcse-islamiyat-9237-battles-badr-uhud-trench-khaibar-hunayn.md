@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New skill-unit page: please ask an Islamiyat teacher to check the accounts of the five battles and Aam ul Wufood, the traditional army sizes, the names of companions and the Qur'an references before sign-off."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New skill-unit page: please ask an Islamiyat teacher to check the accounts of the five battles and Aam ul Wufood, the traditional army sizes, the names of companions and the Qur'an references before sign-off. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -62,17 +62,17 @@ After the Hijrah, the Quraysh had seized the property of the Muslims who left Ma
 
 **Cause.** The Quraysh wanted revenge for Badr. About 3,000 men marched on Madinah under Abu Sufyan.
 
-**Events.** The Prophet (pbuh) would have preferred to defend the city, but he accepted the majority view of his companions and went out to meet the enemy at Mount Uhud. On the way, Abdullah ibn Ubayy, leader of the hypocrites, withdrew with about a third of the army, leaving about 700. The Prophet placed about fifty archers on a hill under Abdullah ibn Jubayr (RA) and ordered them not to leave their position whatever happened. The Muslims gained early success; most of the archers then left their post to collect spoils. Khalid ibn al-Walid, then fighting for Makkah, led the cavalry round the hill and attacked from behind. Hazrat Hamza (RA) was killed; the Prophet (pbuh) was wounded and a rumour spread that he had died; Hazrat Talha (RA) shielded him. About seventy Muslims were martyred.
+**Events.** The Prophet (pbuh) would have preferred to defend the city, but he accepted the majority view of his companions and went out to meet the enemy at Mount Uhud. On the way, Abdullah ibn Ubayy, leader of the hypocrites, withdrew with about a third of the army, leaving about 700. The Prophet (pbuh) placed about fifty archers on a hill under Abdullah ibn Jubayr (RA) and ordered them not to leave their position whatever happened. The Muslims gained early success; most of the archers then left their post to collect spoils. Khalid ibn al-Walid, then fighting for Makkah, led the cavalry round the hill and attacked from behind. Hazrat Hamza (RA) was killed; the Prophet (pbuh) was wounded and a rumour spread that he had died; Hazrat Talha (RA) shielded him. About seventy Muslims were martyred.
 
 **Importance.**
 - **Obedience:** the disaster came from disobeying a clear command, a lesson the prescribed passage connects to patience and taqwa (3:125).
 - **Greed:** desire for spoils broke discipline.
 - **Hypocrisy exposed:** the withdrawal showed who was committed.
-- **Leadership:** the Prophet's consultation (shura), even when he disagreed, is a model for Muslim decision-making.
+- **Leadership:** the Prophet's (pbuh) consultation (shura), even when he disagreed, is a model for Muslim decision-making.
 - **Patience in defeat:** the community recovered and continued.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-battles-badr-uhud-trench-khaibar-hunayn--03-uhud-chain.webp" width="900" height="768" alt="Five numbered steps at Uhud: consultation and going out to the mountain, the withdrawal of Abdullah ibn Ubayy, the order to the archers, most archers leaving the hill for spoils, and Khalid ibn al-Walid’s cavalry attacking from behind. Below, the lessons: obedience, greed, hypocrisy exposed, shura and patience." loading="lazy">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-battles-badr-uhud-trench-khaibar-hunayn--03-uhud-chain.webp" width="900" height="768" alt="Five numbered steps at Uhud: consultation and going out to the mountain, the withdrawal of Abdullah ibn Ubayy, the order to the archers, most archers leaving the hill for spoils, and Khalid ibn al-Walid's cavalry attacking from behind. Below, the lessons: obedience, greed, hypocrisy exposed, shura and patience." loading="lazy">
   <figcaption>Uhud was lost through disobedience, not because the Muslims were outnumbered.</figcaption>
 </figure>
 
@@ -85,12 +85,12 @@ After the Hijrah, the Quraysh had seized the property of the Muslims who left Ma
 **Importance.**
 - It was the last great Makkan attack; afterwards the Prophet (pbuh) said that the Muslims would now go to them, not they to the Muslims.
 - It shows the value of consultation and of good ideas whatever their source: a Persian convert's plan saved the city.
-- It shows leadership by example: the Prophet worked with his own hands.
+- It shows leadership by example: the Prophet (pbuh) worked with his own hands.
 - Surah al-Ahzab describes the fear and the faith of the believers in this siege.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-battles-badr-uhud-trench-khaibar-hunayn--04-trench-schematic.webp" width="900" height="706" alt="A schematic, not to scale: a trench dug across the open northern side of Madinah stops the cavalry of about 10,000 confederates. Beside it: Salman al-Farsi’s idea, the Prophet (pbuh) digging with the companions, a siege of several weeks with the Banu Qurayza breaking their agreement, and a cold wind before the confederates withdrew." loading="lazy">
-  <figcaption>A Persian convert’s idea saved the city in the last great Makkan attack.</figcaption>
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-battles-badr-uhud-trench-khaibar-hunayn--04-trench-schematic.webp" width="900" height="706" alt="A schematic, not to scale: a trench dug across the open northern side of Madinah stops the cavalry of about 10,000 confederates. Beside it: Salman al-Farsi's idea, the Prophet (pbuh) digging with the companions, a siege of several weeks with the Banu Qurayza breaking their agreement, and a cold wind before the confederates withdrew." loading="lazy">
+  <figcaption>A Persian convert's idea saved the city in the last great Makkan attack.</figcaption>
 </figure>
 
 ## Khaibar (628 CE)
@@ -113,11 +113,11 @@ After the Hijrah, the Quraysh had seized the property of the Muslims who left Ma
 
 **Cause.** After the conquest of Makkah, the Hawazin and Thaqif tribes gathered a large army to fight the Muslims.
 
-**Events.** The Muslim army of about 12,000, including many new Muslims from Makkah, was the largest it had been, and some felt confident because of its size. At dawn in the valley of Hunayn it was ambushed and many fled. The Prophet (pbuh) stood firm, calling out that he was the Prophet and the son of Abdul Muttalib (Sahih al-Bukhari). His uncle Hazrat Abbas (RA) called back the Ansar and the companions, who regrouped, and the Muslims won. The large spoils were later shared generously with the new Muslims of Makkah. When some of the Ansar felt overlooked, the Prophet (pbuh) asked whether they were not content that others went home with sheep and camels while they went home with the Messenger of Allah, and they wept with joy. Later, captives were returned to the Hawazin when their delegation came as Muslims.
+**Events.** The Muslim army of about 12,000, including many new Muslims from Makkah, was the largest it had been, and some felt confident because of its size. At dawn in the valley of Hunayn it was ambushed and many fled. The Prophet (pbuh) stood firm, calling out that he was the Prophet (pbuh) and the son of Abdul Muttalib (Sahih al-Bukhari). His uncle Hazrat Abbas (RA) called back the Ansar and the companions, who regrouped, and the Muslims won. The large spoils were later shared generously with the new Muslims of Makkah. When some of the Ansar felt overlooked, the Prophet (pbuh) asked whether they were not content that others went home with sheep and camels while they went home with the Messenger of Allah, and they wept with joy. Later, captives were returned to the Hawazin when their delegation came as Muslims.
 
 **Importance.**
 - "When your great number pleased you, but it did not avail you at all" (9:25): reliance must be on Allah, not numbers.
-- The Prophet's courage when others fled is a model of steadfastness.
+- The Prophet's (pbuh) courage when others fled is a model of steadfastness.
 - His treatment of the Ansar and the Hawazin shows wisdom and mercy in victory.
 
 <figure class="topic-figure">
@@ -127,12 +127,12 @@ After the Hijrah, the Quraysh had seized the property of the Muslims who left Ma
 
 ## Aam ul Wufood: the Year of Delegations (630–631 CE)
 
-After the conquest of Makkah and the victory at Hunayn, tribes from all over Arabia sent delegations (*wufood*) to Madinah. They included the Thaqif of Ta'if, who had stoned the Prophet years before; the Banu Tamim; and Christians from Najran, who discussed their beliefs with the Prophet (pbuh) and kept their religion under an agreement with the Muslims. The Prophet received the delegations with hospitality in the mosque, taught them Islam and sent companions back with them as teachers and governors, such as Hazrat Mu'adh ibn Jabal (RA) to Yemen.
+After the conquest of Makkah and the victory at Hunayn, tribes from all over Arabia sent delegations (*wufood*) to Madinah. They included the Thaqif of Ta'if, who had stoned the Prophet (pbuh) years before; the Banu Tamim; and Christians from Najran, who discussed their beliefs with the Prophet (pbuh) and kept their religion under an agreement with the Muslims. The Prophet (pbuh) received the delegations with hospitality in the mosque, taught them Islam and sent companions back with them as teachers and governors, such as Hazrat Mu'adh ibn Jabal (RA) to Yemen.
 
 **Significance.** Most of Arabia accepted Islam peacefully, fulfilling Surah an-Nasr (110): "you see the people entering into the religion of Allah in multitudes". It showed the Prophet (pbuh) as a statesman uniting the tribes, and it showed that the battles had defended a community whose message then spread by persuasion.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-battles-badr-uhud-trench-khaibar-hunayn--07-aam-ul-wufood.webp" width="900" height="595" alt="Delegations came to Madinah in 630–631 CE, including the Thaqif of Ta’if, the Banu Tamim and Christians from Najran. They were received with hospitality and taught Islam, and companions such as Mu’adh ibn Jabal (RA) were sent back as teachers and governors. Most of Arabia accepted Islam peacefully." loading="lazy">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-battles-badr-uhud-trench-khaibar-hunayn--07-aam-ul-wufood.webp" width="900" height="595" alt="Delegations came to Madinah in 630–631 CE, including the Thaqif of Ta'if, the Banu Tamim and Christians from Najran. They were received with hospitality and taught Islam, and companions such as Mu'adh ibn Jabal (RA) were sent back as teachers and governors. Most of Arabia accepted Islam peacefully." loading="lazy">
   <figcaption>Aam ul Wufood is about peaceful acceptance of Islam, not a battle.</figcaption>
 </figure>
 

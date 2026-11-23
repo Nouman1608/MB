@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the Nisaab weights, the Ushr rates and the list of people who may not receive Zakah against a teacher's course notes."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the Nisaab weights, the Ushr rates and the list of people who may not receive Zakah against a teacher's course notes. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -98,7 +98,7 @@ Zakah is **worship through money**. It is a duty from Allah, it purifies the giv
 7. The cause of Allah
 8. The stranded traveller
 
-**Not normally eligible:** someone rich enough to pay Zakah; the giver's own dependent parents, spouse or children; members of the Prophet's family (most scholars).
+**Not normally eligible:** someone rich enough to pay Zakah; the giver's own dependent parents, spouse or children; members of the Prophet's (pbuh) family (most scholars).
 
 ## Using the passage, Qur'an 9:58-60
 
@@ -141,9 +141,9 @@ Zakah is **worship through money**. It is a duty from Allah, it purifies the giv
 7. Name four of the eight groups in Qur'an 9:60.
 8. Give one reason why a person may not receive Zakah.
 9. Give one spiritual and one social benefit of Zakah.
-10. Which companion insisted that tribes pay Zakah after the Prophet's death?
+10. Which companion insisted that tribes pay Zakah after the Prophet's (pbuh) death?
 
-**Answers:** 1. Purification and growth. 2. 2.5 per cent. 3. The minimum amount of wealth (valued by gold or silver) that must be held before Zakah is due. 4. One full lunar year. 5. Zakah on crops, a tenth. 6. 10 per cent for rain-fed or naturally watered crops; 5 per cent for crops that need costly irrigation. 7. Any four of: the poor, the needy, collectors, bringing hearts together, freeing captives, those in debt, the cause of Allah, the stranded traveller. 8. Any one: they are rich enough to pay Zakah; the giver supports them already as dependants; they are members of the Prophet's family. 9. Spiritual: purifies the giver and removes greed. Social: reduces the gap between rich and poor. 10. Hazrat Abu Bakr (RA).
+**Answers:** 1. Purification and growth. 2. 2.5 per cent. 3. The minimum amount of wealth (valued by gold or silver) that must be held before Zakah is due. 4. One full lunar year. 5. Zakah on crops, a tenth. 6. 10 per cent for rain-fed or naturally watered crops; 5 per cent for crops that need costly irrigation. 7. Any four of: the poor, the needy, collectors, bringing hearts together, freeing captives, those in debt, the cause of Allah, the stranded traveller. 8. Any one: they are rich enough to pay Zakah; the giver supports them already as dependants; they are members of the Prophet's (pbuh) family. 9. Spiritual: purifies the giver and removes greed. Social: reduces the gap between rich and poor. 10. Hazrat Abu Bakr (RA).
 
 Practise with the [Zakah practice questions](/resources/oxfordaqa-igcse-islamiyat-9237-zakah-practice/).
 

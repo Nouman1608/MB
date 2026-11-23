@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-23: Updating-a-file example rewritten with loops in 0478 pseudocode (audit C17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -128,7 +128,23 @@ After the first block the file holds Red and Blue. The second `OPENFILE ... FOR 
 2. Add the new item to the array.
 3. Open in `WRITE`; write every item from the array; close.
 
-Example: `Names.txt` holds Ali, Bea, Cai. After reading into `Names[1:4]` and setting `Names[4] ← "Dev"`, writing all four items leaves Ali, Bea, Cai, Dev in the file.
+Example: `Names.txt` holds Ali, Bea, Cai (three names). Read them into `Names[1]` to `Names[3]`, add the fourth name, then write all four back:
+
+```
+OPENFILE "Names.txt" FOR READ
+FOR Index ← 1 TO 3
+    READFILE "Names.txt", Names[Index]
+NEXT Index
+CLOSEFILE "Names.txt"
+Names[4] ← "Dev"
+OPENFILE "Names.txt" FOR WRITE
+FOR Index ← 1 TO 4
+    WRITEFILE "Names.txt", Names[Index]
+NEXT Index
+CLOSEFILE "Names.txt"
+```
+
+The file now holds Ali, Bea, Cai, Dev. The first loop runs 3 times (one per name already in the file) and the second runs 4 times (every item must be written again because `WRITE` replaced the old contents).
 
 ## Variable, array or file?
 

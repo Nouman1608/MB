@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the mark guidance and the details of the rites before use."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the mark guidance and the details of the rites before use. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -171,7 +171,7 @@ Reasons (AO1):
 - **It is the heart of Hajj** [1]: the Prophet (pbuh) said "Hajj is Arafat", and Hajj is not complete without it [1].
 - **A time of forgiveness** [1]: pilgrims spend the afternoon asking Allah to forgive their sins [1].
 - **A reminder of the Day of Judgement** [1]: the huge crowd standing in simple clothes pictures all people before Allah [1].
-- **Link to the Prophet's farewell sermon** [1]: the Prophet (pbuh) gave his farewell sermon at Arafat, so pilgrims stand in the place of his final teaching [1].
+- **Link to the Prophet's (pbuh) farewell sermon** [1]: the Prophet (pbuh) gave his farewell sermon at Arafat, so pilgrims stand in the place of his final teaching [1].
 
 Applications (AO2), for example:
 

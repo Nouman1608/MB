@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -162,6 +162,6 @@ Applications (AO2), for example:
 *Use of the passage*
 
 - "Should we not depend on what has been written for us" states the objection.
-- "The good deeds are made easy for the blessed" gives the Prophet's reply.
+- "The good deeds are made easy for the blessed" gives the Prophet's (pbuh) reply.
 - "As for him who gives (in charity) and is Allah-fearing And believes in the Best reward" links Al-Qadr to action.
 - "place either in Paradise or in Hell assigned" shows Allah's knowledge.

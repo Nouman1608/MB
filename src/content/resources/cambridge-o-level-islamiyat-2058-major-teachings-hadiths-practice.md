@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the explanation of each set Hadith, the transliterated Arabic words and the supporting Qur'an references."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the explanation of each set Hadith, the transliterated Arabic words and the supporting Qur'an references. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -81,7 +81,7 @@ that which he eats out of the work of his hand."
 
 **9.** "Whosoever of you sees an evil action, let him change it with his hand, and if he is not able
 to do so then with his tongue, and if he is not able to do so then with his heart, and that is the
-weakest of faith." · The Prophet sent Abu Musa and Mu'adh ibn Jabal to Yaman to govern, and said: "Be
+weakest of faith." · The Prophet (pbuh) sent Abu Musa and Mu'adh ibn Jabal to Yaman to govern, and said: "Be
 gentle and do not be hard, and cause rejoicing and do not alienate."
 
 **(a)** **[4]**
@@ -136,7 +136,7 @@ depends on a life devoted to God and gives hope and comfort to families of belie
 illness [1].
 
 **4.** The two fingers held side by side show that the one who raises an orphan will be as close to
-the Prophet (pbuh) in paradise as the fingers are to each other [1]; the Prophet, himself an orphan,
+the Prophet (pbuh) in paradise as the fingers are to each other [1]; the Prophet (pbuh), himself an orphan,
 places this care among the highest of good deeds [1].
 
 **5.** A camel left untied wanders away, just as Qur'an knowledge fades if it is not revised [1]. The
@@ -166,7 +166,7 @@ rather than relying on others or cheating, and avoid income from forbidden sourc
 **9. (a)** **First Hadith:** every Muslim is responsible for opposing wrong according to ability:
 action, then speech, then at least hating it in the heart [1]; faith is shown by refusing to accept
 injustice [1]. **Second Hadith:** leaders and teachers should be gentle and make religion attractive
-[1], following the Qur'an's praise of the Prophet's gentleness, without which people "would have broken
+[1], following the Qur'an's praise of the Prophet's (pbuh) gentleness, without which people "would have broken
 away" (Sura 3.159) [1].
 **(b)** A Muslim who sees bullying intervenes if safe, reports it or speaks up, and at least refuses to
 join in or share abusive posts [2]. Parents, teachers and community leaders explain Islam patiently,
@@ -184,7 +184,7 @@ not envy people who live without limits [2].
 **11. (a)** **First Hadith:** belief in God and the Last Day must show in speech and in generosity to
 neighbours and guests [1]; Muslims believe they are accountable for every word [1]. **Second Hadith:**
 receiving God's mercy depends on showing mercy (*rahma*) to others [1]; God is the Most Merciful, and
-the Prophet was "a mercy for all creatures" (Sura 21.107) [1].
+the Prophet (pbuh) was "a mercy for all creatures" (Sura 21.107) [1].
 **(b)** Muslims avoid gossip, lies and insults, online and offline, and stay silent rather than say
 something hurtful; they share food with neighbours and welcome guests warmly [2]. They show mercy to
 the weak, forgive people who wrong them, and treat animals kindly [2].

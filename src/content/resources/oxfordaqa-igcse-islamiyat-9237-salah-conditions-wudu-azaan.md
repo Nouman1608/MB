@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New skill-unit page: please ask an Islamiyat teacher to check the steps of Wudu, the wording of the Azaan, the concessions and differences between schools, and the references before sign-off."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New skill-unit page: please ask an Islamiyat teacher to check the steps of Wudu, the wording of the Azaan, the concessions and differences between schools, and the references before sign-off. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -57,7 +57,7 @@ Before a prayer is valid, certain conditions must be met. Learn them as a list, 
 Prayer times change through the year with the sun, so mosques publish timetables. Praying at fixed times breaks up the day so that a Muslim never goes long without remembering Allah.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-salah-conditions-wudu-azaan--02-prayer-times.webp" width="900" height="757" alt="A schematic day with the sun’s path from sunrise to sunset and the five prayer periods: Fajr from true dawn to sunrise, Zuhr after the sun’s highest point, Asr from mid-afternoon, Maghrib after sunset and Isha from nightfall. A table gives when each begins and ends and its fard rak’ahs: 2, 4, 4, 3 and 4." loading="lazy">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-salah-conditions-wudu-azaan--02-prayer-times.webp" width="900" height="757" alt="A schematic day with the sun's path from sunrise to sunset and the five prayer periods: Fajr from true dawn to sunrise, Zuhr after the sun's highest point, Asr from mid-afternoon, Maghrib after sunset and Isha from nightfall. A table gives when each begins and ends and its fard rak'ahs: 2, 4, 4, 3 and 4." loading="lazy">
   <figcaption>Fixed times mean a Muslim never goes long without remembering Allah.</figcaption>
 </figure>
 
@@ -83,8 +83,8 @@ The obligatory parts of Wudu are in Qur'an 5:6: "wash your faces and your forear
 **Ghusl** (a full ritual bath) is needed after sexual relations and at the end of menstruation or bleeding after childbirth. **Tayammum** (dry ablution with clean earth or dust) replaces both when no water is available or water would cause harm (5:6). Shi'a practice differs in detail, for example wiping rather than washing the feet.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-salah-conditions-wudu-azaan--03-wudu-steps.webp" width="900" height="576" alt="Eight numbered steps of Wudu: intention and Bismillah, washing the hands, rinsing the mouth and nose, washing the face, each arm to the elbow, wiping the head, and washing each foot to the ankle, most three times. The face, arms, head and feet are highlighted as the obligatory parts named in Qur’an 5:6." loading="lazy">
-  <figcaption>Four parts are commanded in Qur’an 5:6; the rest follow the Sunnah.</figcaption>
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-salah-conditions-wudu-azaan--03-wudu-steps.webp" width="900" height="576" alt="Eight numbered steps of Wudu: intention and Bismillah, washing the hands, rinsing the mouth and nose, washing the face, each arm to the elbow, wiping the head, and washing each foot to the ankle, most three times. The face, arms, head and feet are highlighted as the obligatory parts named in Qur'an 5:6." loading="lazy">
+  <figcaption>Four parts are commanded in Qur'an 5:6; the rest follow the Sunnah.</figcaption>
 </figure>
 
 <figure class="topic-figure">
@@ -107,7 +107,7 @@ The Azaan calls Muslims to each prayer. Bilal (RA) was the first muezzin. The Su
 Before Fajr, *as-salatu khayrun min an-nawm* (prayer is better than sleep) is added. Shi'a Muslims add *Hayya 'ala khayr al-'amal* (come to the best of deeds). The **Iqamah**, a shorter call, is given just before the congregation stands. The Azaan contains the Shahadah, so it announces Tawhid publicly five times a day.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-salah-conditions-wudu-azaan--05-azaan.webp" width="900" height="764" alt="The Sunni wording of the Azaan in transliteration with English and the number of repetitions: Allahu Akbar four times; the two lines of the Shahadah twice each; come to prayer and come to success twice each; Allahu Akbar twice; and La ilaha illallah once. Below: the Fajr addition, the Shi’a addition and the Iqamah." loading="lazy">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-salah-conditions-wudu-azaan--05-azaan.webp" width="900" height="764" alt="The Sunni wording of the Azaan in transliteration with English and the number of repetitions: Allahu Akbar four times; the two lines of the Shahadah twice each; come to prayer and come to success twice each; Allahu Akbar twice; and La ilaha illallah once. Below: the Fajr addition, the Shi'a addition and the Iqamah." loading="lazy">
   <figcaption>The Azaan contains the Shahadah, announcing Tawhid publicly five times a day.</figcaption>
 </figure>
 
@@ -116,8 +116,8 @@ Before Fajr, *as-salatu khayrun min an-nawm* (prayer is better than sleep) is ad
 Each rak'ah follows the same pattern: standing (qiyam) and reciting **Surah al-Fatiha**, which the Prophet (pbuh) said is required in every prayer; another passage in the first two rak'ahs; bowing (ruku), saying *Subhana Rabbiyal Azeem*; standing again; two prostrations (sujood), saying *Subhana Rabbiyal A'la*; and sitting. The prayer ends with the tashahhud, blessings on the Prophet (pbuh) and the *salam* to right and left. Recitation is in Arabic, the language of revelation, which unites Muslims of every nationality.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-salah-conditions-wudu-azaan--06-rakah-pattern.webp" width="900" height="765" alt="Five stages of each rak’ah in order: standing and reciting al-Fatiha, bowing, standing again, two prostrations and sitting, with the words said in bowing and prostration. The prayer ends with the tashahhud, blessings on the Prophet (pbuh) and the salam." loading="lazy">
-  <figcaption>Every rak’ah follows the same pattern, recited in Arabic.</figcaption>
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-salah-conditions-wudu-azaan--06-rakah-pattern.webp" width="900" height="765" alt="Five stages of each rak'ah in order: standing and reciting al-Fatiha, bowing, standing again, two prostrations and sitting, with the words said in bowing and prostration. The prayer ends with the tashahhud, blessings on the Prophet (pbuh) and the salam." loading="lazy">
+  <figcaption>Every rak'ah follows the same pattern, recited in Arabic.</figcaption>
 </figure>
 
 ## Concessions (rukhsah)
@@ -133,7 +133,7 @@ Islam makes Salah possible in every situation rather than excusing people from i
 The principle behind all of them is in the Sawm passage for 3.1.2.4: "Allah intends for you ease and does not intend for you hardship" (2:185).
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-salah-conditions-wudu-azaan--07-concessions.webp" width="900" height="705" alt="Five situations with their concession and source: travellers shorten four-rak’ah prayers (4:101), the ill pray sitting or lying down, Tayammum replaces water (5:6), a shortened form in danger (4:102), and women during menstruation or post-natal bleeding are excused. The principle is ease, not hardship (2:185)." loading="lazy">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-salah-conditions-wudu-azaan--07-concessions.webp" width="900" height="705" alt="Five situations with their concession and source: travellers shorten four-rak'ah prayers (4:101), the ill pray sitting or lying down, Tayammum replaces water (5:6), a shortened form in danger (4:102), and women during menstruation or post-natal bleeding are excused. The principle is ease, not hardship (2:185)." loading="lazy">
   <figcaption>Concessions change how Muslims pray, not whether they pray.</figcaption>
 </figure>
 

@@ -29,7 +29,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -123,9 +123,9 @@ You must answer Question 1, Question 2 and two other questions.
 
 ## Question 5
 
-**5 (a)** Write about the lives of Khadija and Hafsa, wives of the Prophet (pbuh). **[10]**
+**5 (a)** Write about the lives of Khadija (RA) and Hafsa (RA), wives of the Prophet (pbuh). **[10]**
 
-**(b)** In your opinion, what example does Khadija's support for the Prophet (pbuh) give to Muslims today? Give reasons for your answer. **[4]**
+**(b)** In your opinion, what example does Khadija's (RA) support for the Prophet (pbuh) give to Muslims today? Give reasons for your answer. **[4]**
 
 ---
 
@@ -141,7 +141,7 @@ The credit guides below turn this into points you can check your own answer agai
 
 - **Sura 112** — theme: **God in Himself**, His absolute oneness (tawhid) [1]. The passage says He is "the one and only" and "eternal, absolute", that He neither begets nor is begotten, and that "there is none like Him", so He has no partner, child, parent or equal [1].
 - **Sura 1** — theme: **God's relationship with the created world** [1]. He is "cherisher and sustainer of the worlds", "most gracious, most merciful" and "Master of the day of judgement"; people worship Him alone, ask Him for help and ask to be guided on the straight way [1].
-- **Sura 108** — theme: **God's Messengers**, His support for the Prophet (pbuh) [1]. God has granted the Prophet "abundance" (al-Kawthar), tells him to respond with prayer and sacrifice, and assures him that the one who hates him, not the Prophet, will be "cut off" [1].
+- **Sura 108** — theme: **God's Messengers**, His support for the Prophet (pbuh) [1]. God has granted the Prophet (pbuh) "abundance" (al-Kawthar), tells him to respond with prayer and sacrifice, and assures him that the one who hates him, not the Prophet (pbuh), will be "cut off" [1].
 
 **(b) [4]** — for **each** of the two chosen passages, one reasoned point about its importance in a Muslim's life today, linked to the theme **[2]**. Two passages × 2 = 4. For example:
 
@@ -154,11 +154,11 @@ The credit guides below turn this into points you can check your own answer agai
 **(a) [10]** — each accurate, developed point **[2]**; credit the **best five** (maximum 10). Five developed points reach Level 4.
 
 - The first revelation came in **610**, in the month of **Ramadan**, while the Prophet (pbuh) was meditating in the **cave of Hira**; the angel **Jibril** commanded him to "Read!" and the first verses, Sura 96.1–5, were revealed [2].
-- The Prophet (pbuh) returned home shaken; **Khadija** comforted him and took him to her cousin **Waraqa ibn Nawfal**, who said that the same angel who had come to Musa had come to him [2].
+- The Prophet (pbuh) returned home shaken; **Khadija (RA)** comforted him and took him to her cousin **Waraqa ibn Nawfal**, who said that the same angel who had come to Musa had come to him [2].
 - After the first revelation there was a **pause**; revelation then resumed, with verses commanding him to begin warning the people (Sura 74), and continued for the rest of his life [2].
 - Revelation came in different ways: through **Jibril**, sometimes in the form of a man; sometimes **like the ringing of a bell**, which the Prophet (pbuh) said was the hardest on him; and through **true dreams** [2].
 - The Qur'an was revealed **gradually over about 23 years**, in Makka and in Madina, often in response to questions and events the community faced; Makkan passages mostly concern belief, and Madinan passages include laws for the community [2].
-- The Prophet (pbuh) recited each revelation to his Companions, who **memorised** it and recited it in prayer, and **scribes such as Zayd ibn Thabit** wrote it on palm leaves, leather and flat bones [2].
+- The Prophet (pbuh) recited each revelation to his Companions, who **memorised** it and recited it in prayer, and **scribes such as Zayd ibn Thabit (RA)** wrote it on palm leaves, leather and flat bones [2].
 - **Jibril reviewed the whole Qur'an with the Prophet (pbuh) every Ramadan**, and twice in his final year, and the Prophet (pbuh) told the Companions where each passage belonged [2].
 
 **(b) [4]** — each reasoned point **[2]**; credit the **best two** (maximum 4).
@@ -177,7 +177,7 @@ The credit guides below turn this into points you can check your own answer agai
 - His mother **Amina** died when he was six; he was cared for by his grandfather **Abd al-Muttalib**, and after his death, when the boy was eight, by his uncle **Abu Talib** [2].
 - At about twelve he travelled with Abu Talib's trading caravan to Syria, where the Christian monk **Bahira** recognised signs of prophethood in him and advised Abu Talib to protect him [2].
 - As a young man he worked as a shepherd and later as a trader, and he joined the **Hilf al-Fudul**, a pact among clans to protect anyone who was wronged in Makka; he became known as **al-Sadiq and al-Amin** [2].
-- He traded on behalf of **Khadija**, a respected merchant, who was impressed by his honesty and proposed marriage; they married when he was 25 [2].
+- He traded on behalf of **Khadija (RA)**, a respected merchant, who was impressed by his honesty and proposed marriage; they married when he was 25 [2].
 - When the Ka'ba was rebuilt he settled the clans' dispute over who should replace the **Black Stone** by placing it on a cloak that every clan leader lifted together [2].
 - As he approached forty he spent periods in **retreat in the cave of Hira**, reflecting and worshipping, where the first revelation later came to him [2].
 
@@ -185,18 +185,18 @@ The credit guides below turn this into points you can check your own answer agai
 
 - Honesty in work and trade builds trust that lasts; Muslims should keep their word and deal fairly even when cheating would be easy [2].
 - His good character came before his message, and people who knew him were readier to listen; Muslims show Islam best through their conduct [2].
-- He kept trusts even for his opponents: on the night of the Hijra he left Ali behind to return goods the Makkans had deposited with him, so Muslims must be honest with everyone, not only with fellow Muslims [2].
+- He kept trusts even for his opponents: on the night of the Hijra he left Ali (RA) behind to return goods the Makkans had deposited with him, so Muslims must be honest with everyone, not only with fellow Muslims [2].
 
 ### Question 4
 
 **(a) [10]** — each accurate, developed point **[2]**; credit the **best five** (maximum 10).
 
 - In **6 AH (628)** the Prophet (pbuh) set out from Madina with about **1,400 Muslims** to perform the lesser pilgrimage (umra), in ihram, with animals for sacrifice and carrying no weapons except travellers' swords [2].
-- The Quraysh refused them entry, and the Muslims camped at **Hudaybiyya**, near Makka; **Uthman** was sent to negotiate, and when a rumour spread that he had been killed the Muslims took the **Pledge of Ridwan** under a tree, which the Qur'an praises (Sura 48.18) [2].
-- The Quraysh sent **Suhayl ibn Amr** to agree terms; when the treaty was written by **Ali**, Suhayl objected to "In the name of God, most gracious, most merciful" and to "Messenger of God", and the Prophet (pbuh) agreed to "In Your name, O God" and "Muhammad son of Abdullah" [2].
+- The Quraysh refused them entry, and the Muslims camped at **Hudaybiyya**, near Makka; **Uthman (RA)** was sent to negotiate, and when a rumour spread that he had been killed the Muslims took the **Pledge of Ridwan** under a tree, which the Qur'an praises (Sura 48.18) [2].
+- The Quraysh sent **Suhayl ibn Amr** to agree terms; when the treaty was written by **Ali (RA)**, Suhayl objected to "In the name of God, most gracious, most merciful" and to "Messenger of God", and the Prophet (pbuh) agreed to "In Your name, O God" and "Muhammad son of Abdullah" [2].
 - Terms: a **ten-year truce**; the Muslims would return to Madina that year and come back the next year for three days of pilgrimage; tribes were free to ally with either side [2].
 - A Makkan who went to Madina without his guardian's permission would be **returned**, but a Muslim who went to Makka would not be; when **Abu Jandal** arrived in chains asking for refuge, he had to be sent back [2].
-- Many Muslims, including **Umar**, were distressed; on the advice of **Umm Salama** the Prophet (pbuh) sacrificed his animal and shaved his head, and the Companions followed [2].
+- Many Muslims, including **Umar (RA)**, were distressed; on the advice of **Umm Salama (RA)** the Prophet (pbuh) sacrificed his animal and shaved his head, and the Companions followed [2].
 - On the way home **Sura 48 (al-Fath)** was revealed, calling the treaty a clear victory; the truce allowed many to accept Islam, and when the Quraysh's allies broke it, the Muslims entered Makka in 8 AH [2].
 
 **(b) [4]** — each reasoned point **[2]**; credit the **best two** (maximum 4).
@@ -209,17 +209,17 @@ The credit guides below turn this into points you can check your own answer agai
 
 **(a) [10]** — each accurate, developed point **[2]**; credit the **best five** (maximum 10).
 
-- **Khadija** was a respected and wealthy widow of Quraysh who traded through agents; impressed by the Prophet's (pbuh) honesty on a trading journey to Syria, she proposed marriage, and they married when he was 25 [2].
-- Their marriage lasted about 25 years and he took no other wife in her lifetime; all his children except Ibrahim were born to her, including **Fatima** [2].
+- **Khadija (RA)** was a respected and wealthy widow of Quraysh who traded through agents; impressed by the Prophet's (pbuh) honesty on a trading journey to Syria, she proposed marriage, and they married when he was 25 [2].
+- Their marriage lasted about 25 years and he took no other wife in her lifetime; all his children except Ibrahim were born to her, including **Fatima (RA)** [2].
 - She was the **first person to accept Islam**; after the first revelation she comforted him, assured him that God would not disgrace a man of his character, and took him to Waraqa ibn Nawfal [2].
 - She spent her wealth supporting the Muslims and shared the hardship of the **boycott of Banu Hashim**; she died in the Year of Sorrow, about three years before the Hijra, and the Prophet (pbuh) always spoke of her with love [2].
-- **Hafsa** was the daughter of **Umar**; her first husband Khunays died of wounds from the Muslims' early battles, and she married the Prophet (pbuh) in Madina in 3 AH [2].
-- Hafsa could read and write, was devoted to fasting and prayer, and narrated Hadiths [2].
-- The written copy of the Qur'an compiled under Abu Bakr passed to Umar and then to **Hafsa's keeping**; Uthman borrowed it to make the standard copies and returned it to her [2].
+- **Hafsa (RA)** was the daughter of **Umar (RA)**; her first husband Khunays died of wounds from the Muslims' early battles, and she married the Prophet (pbuh) in Madina in 3 AH [2].
+- Hafsa (RA) could read and write, was devoted to fasting and prayer, and narrated Hadiths [2].
+- The written copy of the Qur'an compiled under Abu Bakr (RA) passed to Umar (RA) and then to **Hafsa's (RA) keeping**; Uthman (RA) borrowed it to make the standard copies and returned it to her [2].
 
 **(b) [4]** — each reasoned point **[2]**; credit the **best two** (maximum 4).
 
-- Spouses should support each other in hardship: Khadija believed in the Prophet (pbuh) when he was afraid, which shows the value of trust and reassurance in a marriage [2].
+- Spouses should support each other in hardship: Khadija (RA) believed in the Prophet (pbuh) when he was afraid, which shows the value of trust and reassurance in a marriage [2].
 - She used her wealth for the cause of faith, so Muslims should see their possessions as a means of helping others [2].
 - As a successful trader she shows that women may take part in lawful business, and her faith shows that being first to accept the truth needs courage [2].
 
@@ -230,7 +230,7 @@ The credit guides below turn this into points you can check your own answer agai
 - Explaining only one passage in Question 1, or writing about three: the rubric asks for **two**, and each is worth half of each part.
 - In Question 1(a), naming a theme without pointing to words in the passage; in 1(b), repeating the theme instead of saying how it shapes a Muslim's life **today**.
 - Answering a part (b) question with more narrative instead of reasons and your own view.
-- In Question 2, confusing the revelation of the Qur'an (in the Prophet's lifetime) with its compilation (under the Rightly Guided Caliphs).
+- In Question 2, confusing the revelation of the Qur'an (in the Prophet's (pbuh) lifetime) with its compilation (under the Rightly Guided Caliphs).
 - Writing a list of short facts for a 10-mark part: Level 4 needs detailed, well-developed points, supported by quotations where they fit.
 
 ## Frequently asked questions

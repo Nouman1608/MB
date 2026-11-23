@@ -14,7 +14,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). 2026-11-23: added the set-text list from the Pearson specification, Issue 3 (audit C24)."
 publishedDate: 2026-11-15
 featured: false
 ---
@@ -47,6 +47,17 @@ In practice this means two halves. Component 1 is about poetry and prose,
 including the skill of responding to an unfamiliar poem. Components 2 and 3
 are about drama and older literature, and your centre decides whether that
 half is examined or assessed through coursework.
+
+## The set texts
+
+Source: Pearson Edexcel International GCSE in English Literature specification, Issue 3 (August 2025). The two newest modern prose texts, *Klara and the Sun* and *Western Lane*, were first assessed in May 2026; the other texts are unchanged.
+
+- **Component 1, Section B (anthology poetry):** all sixteen poems from Part 3 of the Pearson Edexcel International GCSE English Anthology: "If-" (Kipling), "Prayer Before Birth" (MacNeice), "Blessing" (Dharker), "Search For My Tongue" (Bhatt), "Half-past Two" (Fanthorpe), "Piano" (D H Lawrence), "Hide and Seek" (Scannell), Sonnet 116 (Shakespeare), "La Belle Dame sans Merci" (Keats), "Poem at Thirty-Nine" (Walker), "War Photographer" (Duffy), "The Tyger" (Blake), "My Last Duchess" (Browning), "Half-caste" (Agard), "Do not go gentle into that good night" (Dylan Thomas) and "Remember" (Rossetti).
+- **Component 1, Section C (modern prose), one text:** *To Kill a Mockingbird* (Harper Lee), *Of Mice and Men* (John Steinbeck), *The Whale Rider* (Witi Ihimaera), *The Joy Luck Club* (Amy Tan), *Things Fall Apart* (Chinua Achebe), *Klara and the Sun* (Kazuo Ishiguro) or *Western Lane* (Chetna Maroo).
+- **Component 2 Section A and Component 3 Assignment A (modern drama), one text:** *A View from the Bridge* (Arthur Miller), *An Inspector Calls* (J B Priestley), *The Curious Incident of the Dog in the Night-time* (Mark Haddon, adapted by Simon Stephens), *Kindertransport* (Diane Samuels) or *Death and the King's Horseman* (Wole Soyinka).
+- **Component 2 Section B and Component 3 Assignment B (literary heritage), one text:** *Romeo and Juliet*, *Macbeth* or *The Merchant of Venice* (Shakespeare); *Pride and Prejudice* (Jane Austen); *Great Expectations* (Charles Dickens); or *The Scarlet Letter* (Nathaniel Hawthorne).
+
+Your centre chooses the texts, so confirm which ones you are studying.
 
 ## How it's assessed
 
