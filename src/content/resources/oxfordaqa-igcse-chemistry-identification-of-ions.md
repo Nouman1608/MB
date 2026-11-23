@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International GCSE Chemistry: Identification of ions (9202)"
+title: "OxfordAQA IGCSE Chemistry: Identification of ions (9202)"
 seoTitle: "OxfordAQA IGCSE Chemistry (9202) Ion Tests Study Guide"
 resourceType: "study-guides"
 subject: "chemistry"

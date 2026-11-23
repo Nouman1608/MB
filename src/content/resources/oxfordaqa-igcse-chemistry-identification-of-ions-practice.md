@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International GCSE Chemistry: Identification of ions (9202) -- Practice Questions"
+title: "OxfordAQA IGCSE Chemistry: Identification of ions (9202) -- Practice Questions"
 seoTitle: "OxfordAQA IGCSE Chemistry (9202) Ion Tests Practice"
 resourceType: "practice-questions"
 subject: "chemistry"

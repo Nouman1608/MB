@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International GCSE Chemistry: Synthetic and naturally occurring polymers (9202)"
+title: "OxfordAQA IGCSE Chemistry: Synthetic and naturally occurring polymers (9202)"
 seoTitle: "OxfordAQA IGCSE Chemistry Polymers Study Guide (9202)"
 resourceType: "study-guides"
 subject: "chemistry"

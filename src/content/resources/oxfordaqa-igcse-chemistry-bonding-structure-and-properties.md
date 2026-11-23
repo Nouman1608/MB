@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International GCSE Chemistry: How bonding and structure are related to the properties of substances (9202)"
+title: "OxfordAQA IGCSE Chemistry: How bonding and structure are related to the properties of substances (9202)"
 seoTitle: "OxfordAQA IGCSE Chemistry 9202 Structure and Properties"
 resourceType: "study-guides"
 subject: "chemistry"

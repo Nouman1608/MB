@@ -41,7 +41,7 @@ the Qur'an and the life of the Prophet Muhammad (pbuh), split into
 four sub-topics: the major themes of the Qur'an, the Qur'an's history
 and importance, the Prophet's (pbuh) life and importance, and the first
 Islamic community. It is one of two compulsory papers -- Paper 2
-covers the Hadiths, the Rightly Guided Caliphs and the Articles of
+covers the Hadith, the Rightly Guided Caliphs and the Articles of
 Faith and Pillars of Islam -- and this page sets out Paper 1's full
 content for the current 2026-2027 examination series.
 
@@ -53,7 +53,7 @@ and candidates answer two more chosen from the remaining questions.
 ## Where this fits in 0493
 
 Paper 1 covers the Qur'an and the life of the Prophet Muhammad (pbuh),
-while Paper 2 (not covered in this guide) covers the Hadiths, the
+while Paper 2 (not covered in this guide) covers the Hadith, the
 Rightly Guided Caliphs, and the Articles of Faith and Pillars of Islam.
 Together the two papers form the whole of 0493 — there is no numbered
 sub-topic list beyond these four per paper, but the syllabus also

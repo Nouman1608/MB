@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International GCSE Chemistry: Exothermic and endothermic reactions, and calculating and explaining energy change (9202) -- Practice Questions"
+title: "OxfordAQA IGCSE Chemistry: Exothermic and endothermic reactions, and calculating and explaining energy change (9202) -- Practice Questions"
 seoTitle: "OxfordAQA IGCSE Chemistry (9202) Energy Change Practice"
 resourceType: "practice-questions"
 subject: "chemistry"

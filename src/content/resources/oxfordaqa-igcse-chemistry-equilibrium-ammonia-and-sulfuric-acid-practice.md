@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International GCSE Chemistry: Factors affecting equilibrium, and production of ammonia and sulfuric acid (9202) -- Practice Questions"
+title: "OxfordAQA IGCSE Chemistry: Factors affecting equilibrium, and production of ammonia and sulfuric acid (9202) -- Practice Questions"
 seoTitle: "OxfordAQA IGCSE Chem (9202) Equilibrium and Haber Practice"
 resourceType: "practice-questions"
 subject: "chemistry"

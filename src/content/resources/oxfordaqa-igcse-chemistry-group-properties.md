@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International GCSE Chemistry: Group properties (9202)"
+title: "OxfordAQA IGCSE Chemistry: Group properties (9202)"
 seoTitle: "OxfordAQA IGCSE Chemistry (9202) Group Properties Guide"
 resourceType: "study-guides"
 subject: "chemistry"

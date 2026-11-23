@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International GCSE Chemistry: Organic compounds: their structure and reactions (9202) -- Practice Questions"
+title: "OxfordAQA IGCSE Chemistry: Organic compounds: their structure and reactions (9202) -- Practice Questions"
 seoTitle: "OxfordAQA IGCSE Chemistry (9202) Alcohols & Esters Practice"
 resourceType: "practice-questions"
 subject: "chemistry"

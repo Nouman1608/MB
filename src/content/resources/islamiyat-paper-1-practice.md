@@ -214,7 +214,7 @@ The credit guides below turn this into points you can check your own answer agai
 - She was the **first person to accept Islam**; after the first revelation she comforted him, assured him that God would not disgrace a man of his character, and took him to Waraqa ibn Nawfal [2].
 - She spent her wealth supporting the Muslims and shared the hardship of the **boycott of Banu Hashim**; she died in the Year of Sorrow, about three years before the Hijra, and the Prophet (pbuh) always spoke of her with love [2].
 - **Hafsa (RA)** was the daughter of **Umar (RA)**; her first husband Khunays died of wounds from the Muslims' early battles, and she married the Prophet (pbuh) in Madina in 3 AH [2].
-- Hafsa (RA) could read and write, was devoted to fasting and prayer, and narrated Hadiths [2].
+- Hafsa (RA) could read and write, was devoted to fasting and prayer, and narrated Hadith [2].
 - The written copy of the Qur'an compiled under Abu Bakr (RA) passed to Umar (RA) and then to **Hafsa's (RA) keeping**; Uthman (RA) borrowed it to make the standard copies and returned it to her [2].
 
 **(b) [4]** — each reasoned point **[2]**; credit the **best two** (maximum 4).

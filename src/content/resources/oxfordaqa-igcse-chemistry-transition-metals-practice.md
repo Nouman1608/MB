@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International GCSE Chemistry: Transition metals (9202) -- Practice Questions"
+title: "OxfordAQA IGCSE Chemistry: Transition metals (9202) -- Practice Questions"
 seoTitle: "OxfordAQA IGCSE Chemistry Transition Metals Practice"
 resourceType: "practice-questions"
 subject: "chemistry"

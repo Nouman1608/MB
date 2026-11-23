@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International GCSE Chemistry: Purity, chromatography and identification of common gases (9202) -- Practice Questions"
+title: "OxfordAQA IGCSE Chemistry: Purity, chromatography and identification of common gases (9202) -- Practice Questions"
 seoTitle: "OxfordAQA IGCSE Chemistry (9202) Purity & Gas Tests Practice"
 resourceType: "practice-questions"
 subject: "chemistry"

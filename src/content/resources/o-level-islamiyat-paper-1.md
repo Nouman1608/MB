@@ -41,7 +41,7 @@ been published; this page follows the current 2026-2027 document.)
 ## Where this fits in 2058
 
 Paper 1 covers the Qur'an and the life of the Prophet Muhammad (pbuh),
-while Paper 2 (not covered in this guide) covers the Hadiths, the
+while Paper 2 (not covered in this guide) covers the Hadith, the
 Rightly Guided Caliphs, and the Articles of Faith and Pillars of Islam.
 Together the two papers form the whole of 2058 — there is no numbered
 sub-topic list beyond these four per paper, but the syllabus also
@@ -93,7 +93,7 @@ knowledge-based part of each question, while **AO2 (Understanding)**
 makes up the remaining 32%, rewarding candidates who go beyond
 description to explain significance and reasoning. The published mark
 scheme describes the highest AO1 band as one that is "likely to quote
-Qur'an verses and Hadiths to support points made" (or other relevant
+Qur'an verses and Hadith to support points made" (or other relevant
 quotations), against "may" quote for the band below — so a top-band
 answer characteristically includes supporting reference, though this
 is a description of what such answers tend to do, not an absolute
@@ -105,7 +105,7 @@ rule against fact-only answers.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-1--02-assessment-objectives.webp" width="900" height="526" alt="A bar split 68 to 32: AO1, recall, select and present, against AO2, understanding of significance and reasoning. Below, the highest AO1 band is &quot;likely to quote Qur'an verses and Hadiths&quot;, while the band below &quot;may&quot; quote." loading="lazy">
+  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-1--02-assessment-objectives.webp" width="900" height="526" alt="A bar split 68 to 32: AO1, recall, select and present, against AO2, understanding of significance and reasoning. Below, the highest AO1 band is &quot;likely to quote Qur'an verses and Hadith&quot;, while the band below &quot;may&quot; quote." loading="lazy">
   <figcaption>Two-thirds of the marks are knowledge; quoting supporting references marks the top band.</figcaption>
 </figure>
 

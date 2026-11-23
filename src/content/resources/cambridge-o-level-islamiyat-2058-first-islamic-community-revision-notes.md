@@ -86,22 +86,22 @@ their actions. Each person below has three or four facts you can expand in an an
 | Qasim, Abdullah, Ibrahim | Sons who died young; eclipse at Ibrahim's death not caused by it | Patience in grief; rejection of superstition |
 | Zaynab | Eldest daughter; married Abu al-As | Loyalty to faith and family |
 | Ruqayya, Umm Kulthum | Married Uthman (RA) in turn (Dhu al-Nurayn) | Bond between the Prophet (pbuh) and Uthman (RA) |
-| Fatima (RA) | Al-Zahra; married Ali (RA); mother of Hasan and Husayn; died months after him | Model of devotion and simple living |
-| Hasan, Husayn | "Leaders of the youth of Paradise"; at the Mubahala (Sura 3.61) | Love for children; the Ahl al-Bayt |
+| Fatima (RA) | Al-Zahra; married Ali (RA); mother of Hasan (RA) and Husayn (RA); died months after him | Model of devotion and simple living |
+| Hasan (RA), Husayn (RA) | "Leaders of the youth of Paradise"; at the Mubahala (Sura 3.61) | Love for children; the Ahl al-Bayt |
 
 **The twelve Imams (Twelver Shi'a):** Ali (RA) → Hasan (RA) → Husayn (RA) → Ali Zayn al-Abidin → Muhammad al-Baqir →
 Ja'far al-Sadiq → Musa al-Kazim → Ali al-Rida → Muhammad al-Jawad → Ali al-Hadi → Hasan al-Askari →
 Muhammad al-Mahdi (in hiding, awaited). Shi'a Muslims see them as divinely guided leaders from the
-Prophet's (pbuh) line. Sunni Muslims honour the Prophet's (pbuh) family, including Ali, Hasan and
-Husayn, but do not recognise the Imams as divinely appointed leaders.
+Prophet's (pbuh) line. Sunni Muslims honour the Prophet's (pbuh) family, including Ali (RA), Hasan (RA) and
+Husayn (RA), but do not recognise the Imams as divinely appointed leaders.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-first-islamic-community--03-descendants.webp" width="900" height="685" alt="A text family tree. With Khadija the Prophet (pbuh) had Qasim, Abdullah, Zaynab (married Abu al-As), Ruqayya and Umm Kulthum (both married Uthman) and Fatima (married Ali); with Maria he had Ibrahim. Fatima's children include Hasan, Husayn and Zaynab bint Ali. A note explains Uthman's title Dhu al-Nurayn and the Ahl al-Bayt at the Mubahala." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-first-islamic-community--03-descendants.webp" width="900" height="685" alt="A text family tree. With Khadija the Prophet (pbuh) had Qasim, Abdullah, Zaynab (married Abu al-As), Ruqayya and Umm Kulthum (both married Uthman) and Fatima (married Ali (RA)); with Maria he had Ibrahim. Fatima's children include Hasan (RA), Husayn (RA) and Zaynab bint Ali (RA). A note explains Uthman's title Dhu al-Nurayn and the Ahl al-Bayt at the Mubahala." loading="lazy">
   <figcaption>Six children with Khadija (RA), Ibrahim with Maria; the line continues through Fatima (RA) and Ali (RA).</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-first-islamic-community--04-twelve-imams.webp" width="900" height="717" alt="The twelve Imams in order: Ali, Hasan, Husayn, Ali Zayn al-Abidin, Muhammad al-Baqir, Ja'far al-Sadiq, Musa al-Kazim, Ali al-Rida, Muhammad al-Jawad, Ali al-Hadi, Hasan al-Askari and Muhammad al-Mahdi. Cards note that they are seen as rightful, divinely guided leaders, that the twelfth is believed to be in hiding, and that Husayn's martyrdom at Karbala is remembered in Muharram." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-first-islamic-community--04-twelve-imams.webp" width="900" height="717" alt="The twelve Imams in order: Ali (RA), Hasan (RA), Husayn (RA), Ali Zayn al-Abidin, Muhammad al-Baqir, Ja'far al-Sadiq, Musa al-Kazim, Ali al-Rida, Muhammad al-Jawad, Ali al-Hadi, Hasan al-Askari and Muhammad al-Mahdi. Cards note that they are seen as rightful, divinely guided leaders, that the twelfth is believed to be in hiding, and that Husayn (RA)'s martyrdom at Karbala is remembered in Muharram." loading="lazy">
   <figcaption>Twelve Imams in one line, from Ali (RA) to Muhammad al-Mahdi.</figcaption>
 </figure>
 
@@ -153,7 +153,7 @@ al-Zubayr ibn al-Awwam (RA) · Abd al-Rahman ibn Awf (RA) · Sa'd ibn Abi Waqqas
 | Ali (RA) | First young believer; slept in the Prophet's (pbuh) bed at the Hijra; married Fatima (RA); banner at Khaybar |
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-first-islamic-community--07-caliphs-in-his-lifetime.webp" width="900" height="599" alt="Four cards. Abu Bakr: first free adult man to accept Islam, companion in the cave of Thawr, led prayers in the final illness. Umar: once an opponent, accepted Islam after hearing Sura Ta-Ha, let Muslims pray openly at the Ka'ba. Uthman: early convert, married two daughters, funded Tabuk. Ali: first young person to accept Islam, slept in the Prophet's (pbuh) bed on the night of the Hijra, married Fatima." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-first-islamic-community--07-caliphs-in-his-lifetime.webp" width="900" height="599" alt="Four cards. Abu Bakr: first free adult man to accept Islam, companion in the cave of Thawr, led prayers in the final illness. Umar: once an opponent, accepted Islam after hearing Sura Ta-Ha, let Muslims pray openly at the Ka'ba. Uthman: early convert, married two daughters, funded Tabuk. Ali (RA): first young person to accept Islam, slept in the Prophet's (pbuh) bed on the night of the Hijra, married Fatima." loading="lazy">
   <figcaption>Before 632: how each future caliph came to Islam and served the Prophet (pbuh).</figcaption>
 </figure>
 
@@ -194,7 +194,7 @@ al-Zubayr ibn al-Awwam (RA) · Abd al-Rahman ibn Awf (RA) · Sa'd ibn Abi Waqqas
 
 **Answers:** 1. Mothers of the Believers (Sura 33.6). 2. Hafsa (RA). 3. That he should sacrifice and shave
 his head first, so the Companions would follow; they did. 4. He married two of the Prophet's (pbuh)
-daughters, Ruqayya and then Umm Kulthum. 5. Hasan and Husayn. 6. Muhammad al-Mahdi. 7. Any five of
+daughters, Ruqayya and then Umm Kulthum. 5. Hasan (RA) and Husayn (RA). 6. Muhammad al-Mahdi. 7. Any five of
 Abu Bakr (RA), Umar (RA), Uthman (RA), Ali (RA), Talha (RA), al-Zubayr (RA), Abd al-Rahman ibn Awf (RA),
 Sa'd ibn Abi Waqqas (RA), Sa'id ibn Zayd (RA), Abu Ubayda (RA). 8. Zayd ibn Haritha (RA), by the widely held view (Sura 33.37). 9. Mus'ab ibn Umayr (RA). 10. To be shown the market
 so he could trade. 11. Sura 9.40. 12. He slept in the Prophet's (pbuh) bed as a decoy and later returned

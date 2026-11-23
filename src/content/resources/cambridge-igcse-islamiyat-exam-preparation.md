@@ -22,7 +22,7 @@ featured: false
 Cambridge IGCSE Islamiyat 0493 is assessed by two compulsory written papers of exactly equal weight:
 each lasts 1 hour 30 minutes, carries 50 marks, and contributes 50% of the qualification. Paper 1
 covers the Qur'an, the Prophet Muhammad (pbuh) and the first Islamic community; Paper 2 covers the
-Hadiths, the Rightly Guided Caliphs, and the Articles of Faith and Pillars of Islam. All answers are
+Hadith, the Rightly Guided Caliphs, and the Articles of Faith and Pillars of Islam. All answers are
 written in English. These notes turn that structure into a preparation plan and complement the
 site's topic material for
 [Paper 1](/resources/igcse-islamiyat-paper-1/) and
@@ -47,7 +47,7 @@ breaks that habit.
 
 ## Precise reference to the source material is what separates answers
 
-Both papers are grounded in specific source material -- Qur'anic passages on Paper 1, Hadiths on
+Both papers are grounded in specific source material -- Qur'anic passages on Paper 1, Hadith on
 Paper 2 -- and answers that refer to the specific passage or Hadith relevant to the question read very
 differently from answers that gesture at a general theme. **Exam-preparation priority**: when
 revising each set passage or Hadith, record alongside it (a) what it says, (b) the context in which it
@@ -146,4 +146,4 @@ Paper 1 lasts 1 hour 30 minutes and is worth 50 marks (50%). It has five questio
 No. Each paper is worth exactly 50%, so a strong Paper 1 cannot make up for a weak Paper 2.
 
 **What separates good answers?**
-Precise reference to the set Qur'an passages or Hadiths, and a clear explanation of significance as well as description.
+Precise reference to the set Qur'an passages or Hadith, and a clear explanation of significance as well as description.

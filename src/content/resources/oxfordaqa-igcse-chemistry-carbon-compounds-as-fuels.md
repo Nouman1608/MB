@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International GCSE Chemistry: Carbon compounds as fuels (9202)"
+title: "OxfordAQA IGCSE Chemistry: Carbon compounds as fuels (9202)"
 seoTitle: "OxfordAQA IGCSE Chemistry (9202) Fuels and Crude Oil Guide"
 resourceType: "study-guides"
 subject: "chemistry"

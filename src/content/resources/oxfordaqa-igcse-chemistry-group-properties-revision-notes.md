@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International GCSE Chemistry: Group properties (9202) -- Revision Notes"
+title: "OxfordAQA IGCSE Chemistry: Group properties (9202) -- Revision Notes"
 seoTitle: "OxfordAQA IGCSE Chemistry (9202) Group Properties Notes"
 resourceType: "revision-notes"
 subject: "chemistry"

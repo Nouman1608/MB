@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International GCSE Chemistry: Equations, Moles and a Specification With No Paper Split"
+title: "OxfordAQA IGCSE Chemistry: Equations, Moles and a Specification With No Paper Split"
 seoTitle: "OxfordAQA IGCSE Chemistry Exam Prep: Equations and Moles"
 resourceType: "exam-preparation"
 subject: "chemistry"

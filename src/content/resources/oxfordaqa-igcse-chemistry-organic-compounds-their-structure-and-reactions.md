@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International GCSE Chemistry: Organic compounds: their structure and reactions (9202)"
+title: "OxfordAQA IGCSE Chemistry: Organic compounds: their structure and reactions (9202)"
 seoTitle: "OxfordAQA IGCSE Chemistry (9202) Alcohols, Acids and Esters"
 resourceType: "study-guides"
 subject: "chemistry"

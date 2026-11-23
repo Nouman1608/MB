@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International GCSE Chemistry: Redox reactions (9202)"
+title: "OxfordAQA IGCSE Chemistry: Redox reactions (9202)"
 seoTitle: "OxfordAQA IGCSE Chemistry Redox Reactions Study Guide"
 resourceType: "study-guides"
 subject: "chemistry"

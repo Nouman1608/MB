@@ -6087,8 +6087,8 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '1.4', name: 'The First Islamic Community', slug: 'first-islamic-community-0493' },
       ] },
       { number: 2, name: 'Paper 2', slug: 'paper-2-0493', subtopics: [
-        { number: '2.1', name: 'Major Teachings in the Hadiths of the Prophet', slug: 'major-teachings-hadiths-0493' },
-        { number: '2.2', name: 'The History and Importance of the Hadiths', slug: 'history-importance-hadiths-0493' },
+        { number: '2.1', name: 'Major Teachings in the Hadith of the Prophet', slug: 'major-teachings-hadiths-0493' },
+        { number: '2.2', name: 'The History and Importance of the Hadith', slug: 'history-importance-hadiths-0493' },
         { number: '2.3', name: 'The Period of Rule of the Rightly Guided Caliphs and Their Importance as Leaders', slug: 'rightly-guided-caliphs-0493' },
         { number: '2.4', name: 'The Articles of Faith and the Pillars of Islam', slug: 'articles-faith-pillars-0493' },
       ] },
@@ -6111,8 +6111,8 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '1.4', name: 'The First Islamic Community', slug: 'first-islamic-community-2058' },
       ] },
       { number: 2, name: 'Paper 2', slug: 'paper-2-2058', subtopics: [
-        { number: '2.1', name: 'Major Teachings in the Hadiths of the Prophet', slug: 'major-teachings-hadiths-2058' },
-        { number: '2.2', name: 'The History and Importance of the Hadiths', slug: 'history-importance-hadiths-2058' },
+        { number: '2.1', name: 'Major Teachings in the Hadith of the Prophet', slug: 'major-teachings-hadiths-2058' },
+        { number: '2.2', name: 'The History and Importance of the Hadith', slug: 'history-importance-hadiths-2058' },
         { number: '2.3', name: 'The Period of Rule of the Rightly Guided Caliphs and Their Importance as Leaders', slug: 'rightly-guided-caliphs-2058' },
         { number: '2.4', name: 'The Articles of Faith and the Pillars of Islam', slug: 'articles-faith-pillars-2058' },
       ] },

@@ -1,5 +1,5 @@
 ---
-title: "Cambridge IGCSE Islamiyat (0493): The History and Importance of the Hadiths — Practice Questions"
+title: "Cambridge IGCSE Islamiyat (0493): The History and Importance of the Hadith — Practice Questions"
 resourceType: "practice-questions"
 subject: "islamiyat"
 level: ["igcse"]
@@ -27,7 +27,7 @@ featured: false
 > examination boards hold copyright in their own papers. Use these alongside
 > the official past papers available free from your board.
 
-Related: [History and Importance of the Hadiths study guide](/resources/cambridge-igcse-islamiyat-history-and-importance-of-the-hadiths/), [History and Importance of the Hadiths revision notes](/resources/cambridge-igcse-islamiyat-history-and-importance-of-the-hadiths-revision-notes/)
+Related: [History and Importance of the Hadith study guide](/resources/cambridge-igcse-islamiyat-history-and-importance-of-the-hadiths/), [History and Importance of the Hadith revision notes](/resources/cambridge-igcse-islamiyat-history-and-importance-of-the-hadiths-revision-notes/)
 
 ---
 
@@ -42,7 +42,7 @@ gives full exam-style questions.
 **2.** State the difference between a musnad and a musannaf collection, and name **one** example of
 each. **[4]**
 
-**3.** Name the **four** grades into which scholars placed Hadiths, from strongest to weakest. **[2]**
+**3.** Name the **four** grades into which scholars placed Hadith, from strongest to weakest. **[2]**
 
 **4.** Give **three** qualities a narrator had to have for a chain to be accepted as sound. **[3]**
 
@@ -55,18 +55,18 @@ each. **[4]**
 ## Section B — Exam-style questions
 
 **8. (a)** Describe the methods scholars used to examine the isnad and the matn of a Hadith. **[10]**
-**(b)** Why is it important for Muslims today that Hadiths were tested so carefully? **[4]**
+**(b)** Why is it important for Muslims today that Hadith were tested so carefully? **[4]**
 
-**9. (a)** Write about the six Sunni collections of Hadiths and their main features. **[10]**
+**9. (a)** Write about the six Sunni collections of Hadith and their main features. **[10]**
 **(b)** Why do Sunni Muslims regard the collections of al-Bukhari and Muslim as the most reliable? **[4]**
 
-**10. (a)** Write about the four Shi'a collections of Hadiths and their compilers. **[10]**
-**(b)** Explain why Shi'a Muslims give special importance to Hadiths transmitted through the Imams. **[4]**
+**10. (a)** Write about the four Shi'a collections of Hadith and their compilers. **[10]**
+**(b)** Explain why Shi'a Muslims give special importance to Hadith transmitted through the Imams. **[4]**
 
 **11. (a)** Describe the life and work of Imam al-Bukhari. **[10]**
 **(b)** What can Muslim students today learn from the way al-Bukhari worked? **[4]**
 
-**12. (a)** Explain why some Hadiths were fabricated, and describe how scholars classified Hadiths by
+**12. (a)** Explain why some Hadith were fabricated, and describe how scholars classified Hadith by
 reliability. **[10]**
 **(b)** Why should Muslims today check a Hadith before sharing it, for example online? **[4]**
 
@@ -82,7 +82,7 @@ of the same quality earn the same credit.
 **1.** The isnad is the chain of people who passed the Hadith on, back to the Prophet (pbuh) [1]; the
 matn is the text, the actual words or description of what he said or did [1].
 
-**2.** A musnad arranges Hadiths by the Companion who narrated them; a musannaf arranges them by
+**2.** A musnad arranges Hadith by the Companion who narrated them; a musannaf arranges them by
 subject [2]. Musnad: the Musnad of Ahmad ibn Hanbal [1]. Musannaf: the Muwatta of Imam Malik, or the
 Musannaf of Abd al-Razzaq [1].
 
@@ -99,9 +99,9 @@ checking each chain [1].
 
 **6.** Al-Kafi: al-Kulayni [1]. Man la yahduruhu al-faqih: Ibn Babawayh, known as al-Shaykh al-Saduq [1].
 
-**7.** The Qur'an commands Muslims to pray, and the Hadiths show the times, the number of units and
+**7.** The Qur'an commands Muslims to pray, and the Hadith show the times, the number of units and
 how to perform them [1]; the Prophet (pbuh) said, "Pray as you have seen me pray" [1]. (Or: zakat is
-commanded, and the Hadiths give the rates and the nisab.)
+commanded, and the Hadith give the rates and the nisab.)
 
 **8. (a)** Credit the best five, [2] each:
 - Scholars studied the biography of every narrator (ilm al-rijal), recording when and where they
@@ -110,12 +110,12 @@ commanded, and the Hadiths give the rates and the nisab.)
   rejected [2].
 - Each had to have an accurate memory; people whose reports often differed from others were weakened [2].
 - The chain had to be unbroken, each narrator having met or been able to meet the one before [2].
-- The matn must not contradict the Qur'an or Hadiths already established as sound [2].
+- The matn must not contradict the Qur'an or Hadith already established as sound [2].
 - The matn must not contain things against reason or known history, or promise huge rewards for
   trivial acts, and its language should befit the Prophet (pbuh) [2].
 - Each Hadith was then graded: sahih, hasan, da'if or mawdu' [2].
 **(b)** Credit the best two, [2] each:
-- Muslims base worship and law on the Hadiths, so they need confidence that what they follow really
+- Muslims base worship and law on the Hadith, so they need confidence that what they follow really
   comes from the Prophet (pbuh) [2].
 - Testing removed fabricated sayings used to support politics or sects, which protects the
   community from division [2].
@@ -126,13 +126,13 @@ commanded, and the Hadiths give the rates and the nisab.)
   by subject; accepted only chains where each narrator was known to have met the next [2].
 - **Sahih Muslim** by Muslim ibn al-Hajjaj (d. 875), al-Bukhari's student: accepted narrators who were
   contemporaries and could have met; gathers the different chains of one Hadith together [2].
-- **Sunan Abu Dawud**: concentrates on Hadiths used in law; the compiler noted where a Hadith was weak [2].
-- **Jami' al-Tirmidhi**: gives the grade of many Hadiths and records the opinions of jurists on them [2].
+- **Sunan Abu Dawud**: concentrates on Hadith used in law; the compiler noted where a Hadith was weak [2].
+- **Jami' al-Tirmidhi**: gives the grade of many Hadith and records the opinions of jurists on them [2].
 - **Sunan al-Nasa'i**: known for strict standards among the Sunan works, focusing on legal matters [2].
-- **Sunan Ibn Majah**: last to be accepted among the six; includes some Hadiths not found in the others,
+- **Sunan Ibn Majah**: last to be accepted among the six; includes some Hadith not found in the others,
   some of them weak [2].
 **(b)** Credit the best two, [2] each:
-- Their conditions for accepting a chain were the strictest, so they contain only Hadiths judged sahih [2].
+- Their conditions for accepting a chain were the strictest, so they contain only Hadith judged sahih [2].
 - Generations of scholars examined them and largely agreed with their judgements, so they gained
   consensus as the most trusted books after the Qur'an [2].
 
@@ -141,9 +141,9 @@ commanded, and the Hadiths give the rates and the nisab.)
   many years [2].
 - Al-Kafi is divided into usul (beliefs), furu' (law and practice) and a final miscellany [2].
 - **Man la yahduruhu al-faqih**, "for one who has no jurist present", by Ibn Babawayh (al-Shaykh
-  al-Saduq), gives legal Hadiths for people without a scholar to ask [2].
-- **Tahdhib al-ahkam** by al-Shaykh al-Tusi collects legal Hadiths with explanation [2].
-- **Al-Istibsar**, also by al-Tusi, deals with Hadiths that appear to conflict and shows how to
+  al-Saduq), gives legal Hadith for people without a scholar to ask [2].
+- **Tahdhib al-ahkam** by al-Shaykh al-Tusi collects legal Hadith with explanation [2].
+- **Al-Istibsar**, also by al-Tusi, deals with Hadith that appear to conflict and shows how to
   reconcile them [2].
 - Together the four books are the main Shi'a sources for law after the Qur'an [2].
 **(b)** Credit the best two, [2] each:
@@ -154,9 +154,9 @@ commanded, and the Hadiths give the rates and the nisab.)
 
 **11. (a)** Credit the best five, [2] each:
 - He was born in Bukhara in Central Asia; his father, a scholar of Hadith, died when he was young [2].
-- He memorised Hadiths as a boy and was known for an exceptional memory [2].
+- He memorised Hadith as a boy and was known for an exceptional memory [2].
 - At about sixteen he went on hajj with his mother and brother and stayed to study in the Hijaz [2].
-- He travelled widely, to cities including Basra, Kufa, Baghdad, Damascus and Egypt, to hear Hadiths
+- He travelled widely, to cities including Basra, Kufa, Baghdad, Damascus and Egypt, to hear Hadith
   from many teachers [2].
 - He examined a very large number of reports and chose only those meeting his strict conditions, and is
   reported to have prayed before recording each one [2].
@@ -169,7 +169,7 @@ commanded, and the Hadiths give the rates and the nisab.)
 
 **12. (a)** Credit the best five, [2] each:
 - Political disputes after the caliphs' era led some to invent sayings praising their side [2].
-- Sectarian and theological groups invented Hadiths to support their beliefs [2].
+- Sectarian and theological groups invented Hadith to support their beliefs [2].
 - Some storytellers and well-meaning people invented sayings to encourage good deeds [2].
 - The Prophet (pbuh) had warned that whoever lies about him deliberately will take his seat in the
   Fire, so scholars took fabrication very seriously [2].
@@ -179,7 +179,7 @@ commanded, and the Hadiths give the rates and the nisab.)
 **(b)** Credit the best two, [2] each:
 - Sharing a false saying means attributing words to the Prophet (pbuh) that he did not say, which he
   strongly warned against [2].
-- False Hadiths spread wrong beliefs and practices quickly online, so checking a reliable collection or
+- False Hadith spread wrong beliefs and practices quickly online, so checking a reliable collection or
   a scholar protects others [2].
 
 ## Where marks are usually lost

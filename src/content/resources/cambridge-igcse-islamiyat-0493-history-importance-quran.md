@@ -27,7 +27,7 @@ featured: false
 and it is always Question 2, which every candidate must answer.** It is worth 14 marks: a 10-mark
 knowledge part (a) and a 4-mark understanding part (b). The topic has five strands: how the Qur'an
 was revealed between 610 and 632, how it was compiled under the Rightly Guided Caliphs, its major
-themes, its use in legal thinking alongside the Hadiths, ijma' and qiyas, and why it is the basis of
+themes, its use in legal thinking alongside the Hadith, ijma' and qiyas, and why it is the basis of
 all thought and action in Islam. Because the question is compulsory, you cannot leave any strand
 unrevised.
 
@@ -37,7 +37,7 @@ unrevised.
 - The revelation of the Qur'an to the Prophet (pbuh) between the years 610 and 632
 - The account of the compilation of the Qur'an under the Rightly Guided Caliphs
 - The major themes of the Qur'an, in the set passages and in other similar passages
-- The use of the Qur'an in legal thinking, and its relationship with the Hadiths, consensus (ijma')
+- The use of the Qur'an in legal thinking, and its relationship with the Hadith, consensus (ijma')
   and analogy (qiyas)
 - Its significance as the basis of all thought and action in Islam
 
@@ -77,10 +77,10 @@ The Prophet (pbuh) described several modes, and a full answer names more than on
 - **True dreams**, which came before and alongside the spoken revelation.
 
 All of these are forms of *wahy*, revelation from God, which Muslims distinguish from the Prophet's (pbuh)
-own words; his own sayings are recorded separately as Hadiths.
+own words; his own sayings are recorded separately as Hadith.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-history-importance-quran--03-modes-of-revelation.webp" width="900" height="556" alt="Four modes of revelation: like the ringing of a bell, the hardest on him; Jibril in the form of a man; Jibril in his true form, seen rarely (Sura 53); and true dreams. All are wahy, distinct from the Prophet's (pbuh) own words, which are recorded as Hadiths." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-history-importance-quran--03-modes-of-revelation.webp" width="900" height="556" alt="Four modes of revelation: like the ringing of a bell, the hardest on him; Jibril in the form of a man; Jibril in his true form, seen rarely (Sura 53); and true dreams. All are wahy, distinct from the Prophet's (pbuh) own words, which are recorded as Hadith." loading="lazy">
   <figcaption>Name more than one mode; keep revelation distinct from Hadith.</figcaption>
 </figure>
 
@@ -167,7 +167,7 @@ to it:
 
 | Source | How it relates to the Qur'an | Example |
 |---|---|---|
-| Hadith (Sunnah) | Explains how to carry out the Qur'an's commands and adds detail | The Qur'an commands salat; the Hadiths show its times, units and movements |
+| Hadith (Sunnah) | Explains how to carry out the Qur'an's commands and adds detail | The Qur'an commands salat; the Hadith show its times, units and movements |
 | Ijma' (consensus) | Agreement of scholars on a matter the texts do not settle directly | The Companions agreed to compile the Qur'an into one book |
 | Qiyas (analogy) | Applies a Qur'anic ruling to a new case with the same cause | Wine is forbidden because it intoxicates (Sura 5.90), so other intoxicating drugs are forbidden |
 

@@ -24,7 +24,7 @@ Cambridge O Level Islamiyat 2058 is assessed by two compulsory, externally asses
 weight. Each lasts 1 hour 30 minutes, carries 50 marks and contributes 50% of the qualification.
 Crucially, each paper prints **five questions, of which Question 1 and Question 2 are compulsory and
 two further questions are chosen** from the remaining three. Paper 1 covers the Qur'an, the Prophet (pbuh)
-Muhammad (pbuh) and the first Islamic community; Paper 2 covers the Hadiths, the Rightly Guided
+Muhammad (pbuh) and the first Islamic community; Paper 2 covers the Hadith, the Rightly Guided
 Caliphs, and the Articles of Faith and Pillars of Islam. All answers are written in English. These
 notes complement the site's content guides to
 [Paper 1](/resources/o-level-islamiyat-paper-1/) and

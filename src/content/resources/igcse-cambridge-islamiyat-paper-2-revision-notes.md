@@ -12,7 +12,7 @@ order: 2
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-0493"
-description: "Revision notes on the Hadiths, the Rightly Guided Caliphs, and the Articles of Faith and Pillars of Islam for Cambridge IGCSE Islamiyat 0493 Paper 2, 2026-2027."
+description: "Revision notes on the Hadith, the Rightly Guided Caliphs, and the Articles of Faith and Pillars of Islam for Cambridge IGCSE Islamiyat 0493 Paper 2, 2026-2027."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
@@ -25,12 +25,12 @@ featured: false
 Condensed recall notes for **Paper 2** of Cambridge IGCSE Islamiyat
 (0493), 2026–2027 series. Paper 2 is a 1.5-hour exam of five questions,
 of which candidates must answer Question 1, Question 2 and two others,
-covering the Hadiths of the Prophet (pbuh), the Rightly Guided Caliphs, and
+covering the Hadith of the Prophet (pbuh), the Rightly Guided Caliphs, and
 the Articles of Faith and Pillars of Islam. Use this alongside the full
 study guide on Paper 2 for explanation and context — these notes are
 for quick recall in the final stretch of revision.
 
-## 1. Major teachings in the Hadiths of the Prophet (pbuh)
+## 1. Major teachings in the Hadith of the Prophet (pbuh)
 
 - Two groups of passages are set for close study: those relating to
   **individual conduct** and those relating to **life in the
@@ -46,9 +46,9 @@ for quick recall in the final stretch of revision.
 - Exam question: four passages are set, of which candidates choose any
   **two** to write on. [8 marks]
 
-## 2. The history and importance of the Hadiths
+## 2. The history and importance of the Hadith
 
-- The **history of compilation**: how the Hadiths were gathered after
+- The **history of compilation**: how the Hadith were gathered after
   the Prophet's (pbuh) death, and the earliest collections.
 - The **main musnad and musannaf collections** and their compilers,
   and what each compiler did.
@@ -56,16 +56,16 @@ for quick recall in the final stretch of revision.
   transmitters (**isnad**) and the wording (**matn**).
 - The **six major Sunni collections** and the **four major Shi'a
   collections**.
-- The **major themes** running through the Hadiths, both in the set
+- The **major themes** running through the Hadith, both in the set
   passages and in similar material.
-- How Hadiths are used in **legal thinking**, alongside the Qur'an,
+- How Hadith are used in **legal thinking**, alongside the Qur'an,
   consensus (**ijma'**) and analogy (**qiyas**).
 - Their overall **significance in Muslim thought and action**.
 - Exam question: usually set in more than one part, essay-length
   answer required. [14 marks]
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-cambridge-islamiyat-paper-2--02-how-the-topics-connect.webp" width="900" height="594" alt="Four topic boxes. A two-way link joins 2.1 (Hadith passages) and 2.4 (Articles and Pillars), because the passages refer to the Articles and Pillars. An arrow from 2.2 (history of the Hadiths) to 2.3 (the Caliphs) notes that the same isnad tradition recorded the Caliphs' rule." loading="lazy">
+  <img src="https://img.marlbridge.com/igcse-cambridge-islamiyat-paper-2--02-how-the-topics-connect.webp" width="900" height="594" alt="Four topic boxes. A two-way link joins 2.1 (Hadith passages) and 2.4 (Articles and Pillars), because the passages refer to the Articles and Pillars. An arrow from 2.2 (history of the Hadith) to 2.3 (the Caliphs) notes that the same isnad tradition recorded the Caliphs' rule." loading="lazy">
   <figcaption>Links between topics make recall and &quot;explain the importance&quot; answers easier.</figcaption>
 </figure>
 
@@ -146,7 +146,7 @@ for quick recall in the final stretch of revision.
 
 Because Question 1 and Question 2 are compulsory every year, prioritise
 rock-solid recall of the set Hadith passages (topic 1) and the history
-of the Hadiths (topic 2) before spending equal time on your two
+of the Hadith (topic 2) before spending equal time on your two
 optional questions from topics 3 and 4. For the Caliphs (topic 3), build
 a simple four-row table — one row per Caliph, columns for main events,
 achievements, difficulties — since exam questions often ask candidates
@@ -156,12 +156,12 @@ sentence for each item on the list; "describe" answers that stop short
 of significance are the most common way marks are lost on this topic.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-cambridge-islamiyat-paper-2--01-paper-2-structure.webp" width="900" height="676" alt="Question 1 on the Hadith passages (8 marks) and Question 2 on the history of the Hadiths (14 marks) are compulsory. Candidates then choose two of Questions 3 to 5, set on the Rightly Guided Caliphs and the Articles of Faith and Pillars, at 14 marks each. The paper lasts 1 hour 30 minutes and is worth 50 marks." loading="lazy">
+  <img src="https://img.marlbridge.com/igcse-cambridge-islamiyat-paper-2--01-paper-2-structure.webp" width="900" height="676" alt="Question 1 on the Hadith passages (8 marks) and Question 2 on the history of the Hadith (14 marks) are compulsory. Candidates then choose two of Questions 3 to 5, set on the Rightly Guided Caliphs and the Articles of Faith and Pillars, at 14 marks each. The paper lasts 1 hour 30 minutes and is worth 50 marks." loading="lazy">
   <figcaption>Two compulsory questions, then two chosen from three: 8 + 14 + 14 + 14 = 50 marks.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-cambridge-islamiyat-paper-2--03-topic-tips.webp" width="900" height="624" alt="A banner says every answer should move from knowledge to significance. Below, one tip per topic: study the 2.1 passages in Arabic and English; in 2.2 link Hadiths to the Qur'an, ijma' and qiyas; in 2.3 cover only the Caliphs' rule after the Prophet's (pbuh) death; in 2.4 describe each Pillar as what, how and why." loading="lazy">
+  <img src="https://img.marlbridge.com/igcse-cambridge-islamiyat-paper-2--03-topic-tips.webp" width="900" height="624" alt="A banner says every answer should move from knowledge to significance. Below, one tip per topic: study the 2.1 passages in Arabic and English; in 2.2 link Hadith to the Qur'an, ijma' and qiyas; in 2.3 cover only the Caliphs' rule after the Prophet's (pbuh) death; in 2.4 describe each Pillar as what, how and why." loading="lazy">
   <figcaption>Knowledge plus significance, with one specific habit per topic.</figcaption>
 </figure>
 
@@ -175,8 +175,8 @@ of significance are the most common way marks are lost on this topic.
 **How is 0493 Paper 2 structured?**
 Paper 2 lasts 1 hour 30 minutes and is worth 50 marks (50%). It has five questions: Questions 1 and 2 are compulsory and you choose two of Questions 3 to 5. Question 1 is worth 8 marks (4 + 4) and each other answered question 14 marks (10 + 4).
 
-**What are the two groups of set Hadiths?**
-Hadiths on individual conduct and Hadiths on life in the community.
+**What are the two groups of set Hadith?**
+Hadith on individual conduct and Hadith on life in the community.
 
 **What do I need to know about the Caliphs?**
 The main events of each rule, their policies for maintaining and expanding the state, their approaches to leadership, and their importance as models.

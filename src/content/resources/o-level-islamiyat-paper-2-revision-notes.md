@@ -12,7 +12,7 @@ order: 2
 syllabusTopics:
   - qualification: "o-level"
     topic: "paper-2-2058"
-description: "Revision notes on the Hadiths, the Rightly Guided Caliphs, and the Articles of Faith and Pillars of Islam for Cambridge O Level Islamiyat 2058 Paper 2."
+description: "Revision notes on the Hadith, the Rightly Guided Caliphs, and the Articles of Faith and Pillars of Islam for Cambridge O Level Islamiyat 2058 Paper 2."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
@@ -26,12 +26,12 @@ Condensed recall notes for **Paper 2** of Cambridge O Level Islamiyat
 (2058), 2026–2027 series — identical content structure to sibling
 Cambridge IGCSE Islamiyat (0493). Paper 2 is a 1.5-hour exam of five
 questions, of which candidates must answer Question 1, Question 2 and
-two others, covering the Hadiths of the Prophet (pbuh), the Rightly Guided
+two others, covering the Hadith of the Prophet (pbuh), the Rightly Guided
 Caliphs, and the Articles of Faith and Pillars of Islam. Use alongside
 the full study guide on Paper 2 for explanation and context — these
 notes are for fast recall in the final stretch of revision.
 
-## 1. Major teachings in the Hadiths of the Prophet (pbuh)
+## 1. Major teachings in the Hadith of the Prophet (pbuh)
 
 - Two groups of set passages: those on **individual conduct** and
   those on **life in the community**.
@@ -46,11 +46,11 @@ notes are for fast recall in the final stretch of revision.
   [8 marks]
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-2--02-quran-and-hadith.webp" width="900" height="448" alt="Two linked boxes: the Qur'an sets out core principles, and the Hadiths, a second source of guidance, give the practical detail of how they were lived out. A note defines Hadiths as the Prophet's (pbuh) sayings, actions and approvals, preserved through the isnad, distinct from the Qur'an but complementary." loading="lazy">
-  <figcaption>Principles from the Qur'an, practical detail from the Hadiths.</figcaption>
+  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-2--02-quran-and-hadith.webp" width="900" height="448" alt="Two linked boxes: the Qur'an sets out core principles, and the Hadith, a second source of guidance, give the practical detail of how they were lived out. A note defines Hadith as the Prophet's (pbuh) sayings, actions and approvals, preserved through the isnad, distinct from the Qur'an but complementary." loading="lazy">
+  <figcaption>Principles from the Qur'an, practical detail from the Hadith.</figcaption>
 </figure>
 
-## 2. The history and importance of the Hadiths
+## 2. The history and importance of the Hadith
 
 - The **history of compilation** and the **earliest collections**.
 - The **main musnad and musannaf collections** and their compilers.
@@ -58,7 +58,7 @@ notes are for fast recall in the final stretch of revision.
   used to test a Hadith's reliability.
 - The **six major Sunni collections** and the **four major Shi'a
   collections**.
-- The **major themes** running through the Hadiths, in both the set
+- The **major themes** running through the Hadith, in both the set
   passages and similar material.
 - Their use in **legal thinking**, alongside the Qur'an, consensus
   (**ijma'**) and analogy (**qiyas**).
@@ -66,7 +66,7 @@ notes are for fast recall in the final stretch of revision.
 - Exam question: usually multi-part, essay-length answer. [14 marks]
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-2--05-isnad-worked-example.webp" width="900" height="584" alt="A chain runs from the Prophet (pbuh) through narrators to the person recording the Hadith. Below, three steps: scholars checked each narrator's character and memory; so some Hadiths are classified as more reliable than others; and this scrutiny is why the Hadiths are treated as trustworthy." loading="lazy">
+  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-2--05-isnad-worked-example.webp" width="900" height="584" alt="A chain runs from the Prophet (pbuh) through narrators to the person recording the Hadith. Below, three steps: scholars checked each narrator's character and memory; so some Hadith are classified as more reliable than others; and this scrutiny is why the Hadith are treated as trustworthy." loading="lazy">
   <figcaption>Mechanism, then result, then why it matters.</figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ notes are for fast recall in the final stretch of revision.
   Paper 1.)
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-2--03-caliphs-in-order.webp" width="900" height="460" alt="Four numbered cards in succession: Abu Bakr, consolidating the community; Umar, expansion and administration; Uthman, standardising the Qur'an; and Ali, leadership during internal division. A bracket underneath says to compare them across the period." loading="lazy">
+  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-2--03-caliphs-in-order.webp" width="900" height="460" alt="Four numbered cards in succession: Abu Bakr, consolidating the community; Umar, expansion and administration; Uthman, standardising the Qur'an; and Ali (RA), leadership during internal division. A bracket underneath says to compare them across the period." loading="lazy">
   <figcaption>Know the order and one defining feature of each reign.</figcaption>
 </figure>
 
@@ -156,7 +156,7 @@ notes are for fast recall in the final stretch of revision.
   represent.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-2--06-common-mistakes.webp" width="900" height="542" alt="Four mistakes with their fixes: listing the Articles or Pillars instead of explaining them; describing Caliphs in isolation instead of comparing them; treating Hadiths as equal to the Qur'an instead of complementary; and under-revising 2.4 instead of giving it equal rigour." loading="lazy">
+  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-2--06-common-mistakes.webp" width="900" height="542" alt="Four mistakes with their fixes: listing the Articles or Pillars instead of explaining them; describing Caliphs in isolation instead of comparing them; treating Hadith as equal to the Qur'an instead of complementary; and under-revising 2.4 instead of giving it equal rigour." loading="lazy">
   <figcaption>Each common mistake has a simple fix: explain, compare, distinguish, revise evenly.</figcaption>
 </figure>
 
@@ -176,7 +176,7 @@ stated explicitly in the syllabus itself, not left to interpretation.
 
 Because Question 1 and Question 2 are compulsory every year, prioritise
 rock-solid recall of the set Hadith passages (topic 1) and the history
-of the Hadiths (topic 2) before spending equal time on your two
+of the Hadith (topic 2) before spending equal time on your two
 optional questions from topics 3 and 4. For the Caliphs, build a simple
 four-row table — one row per Caliph, columns for main events,
 achievements, difficulties — since exam questions often ask candidates

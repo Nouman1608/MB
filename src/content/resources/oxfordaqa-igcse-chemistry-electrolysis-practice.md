@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International GCSE Chemistry: Electrolysis (9202) -- Practice Questions"
+title: "OxfordAQA IGCSE Chemistry: Electrolysis (9202) -- Practice Questions"
 seoTitle: "OxfordAQA IGCSE Chemistry (9202) Electrolysis Practice"
 resourceType: "practice-questions"
 subject: "chemistry"

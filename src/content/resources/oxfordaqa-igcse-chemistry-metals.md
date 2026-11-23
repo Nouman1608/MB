@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International GCSE Chemistry: Metals (9202)"
+title: "OxfordAQA IGCSE Chemistry: Metals (9202)"
 seoTitle: "OxfordAQA IGCSE Chemistry Metals Study Guide"
 resourceType: "study-guides"
 subject: "chemistry"

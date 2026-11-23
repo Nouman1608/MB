@@ -169,7 +169,7 @@ and **Hazrat Ali (RA)** (656–661), known for knowledge and justice in a time o
 Muslims believe Ali (RA) should have led immediately after the Prophet (pbuh) as the first Imam.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-beliefs-and-teachings--07-rightly-guided-caliphs.webp" width="900" height="552" alt="A scaled timeline from 632 to 661: Abu Bakr (632–634) kept the community united and had the Qur'an gathered; Umar (634–644) expanded and organised the state; Uthman (644–656) distributed standard copies of the Qur'an; Ali (656–661) was known for knowledge and justice in a time of conflict. A note gives the Shi'a view of Ali as the first Imam." loading="lazy">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-beliefs-and-teachings--07-rightly-guided-caliphs.webp" width="900" height="552" alt="A scaled timeline from 632 to 661: Abu Bakr (632–634) kept the community united and had the Qur'an gathered; Umar (634–644) expanded and organised the state; Uthman (644–656) distributed standard copies of the Qur'an; Ali (RA) (656–661) was known for knowledge and justice in a time of conflict. A note gives the Shi'a view of Ali (RA) as the first Imam." loading="lazy">
   <figcaption>Four leaders in under thirty years, each remembered for a defining contribution.</figcaption>
 </figure>
 

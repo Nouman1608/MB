@@ -82,24 +82,24 @@ eclipses are signs of God and do not happen for anyone's death.
 **Fatima (RA).** Called al-Zahra; closest to her father; lived simply; outlived him by only a few months.
 Her children were **Hasan** and **Husayn**, and daughters including Zaynab bint Ali (RA).
 
-**Hasan and Husayn.** The Prophet (pbuh) loved them dearly, carrying them and letting them climb on him as
+**Hasan (RA) and Husayn (RA).** The Prophet (pbuh) loved them dearly, carrying them and letting them climb on him as
 he prayed, and called them leaders of the youth of Paradise. At the Mubahala with the Christians of
-Najran (Sura 3.61) he came out with Ali (RA), Fatima (RA), Hasan and Husayn, the family Shi'a Muslims call the
+Najran (Sura 3.61) he came out with Ali (RA), Fatima (RA), Hasan (RA) and Husayn (RA), the family Shi'a Muslims call the
 Ahl al-Bayt.
 
 **The Imams.** Twelver Shi'a Muslims recognise twelve Imams in a direct line from the Prophet's (pbuh)
-family as the rightful, divinely guided leaders after him: Ali (RA), Hasan, Husayn, Ali Zayn al-Abidin,
-Muhammad al-Baqir, Ja'far al-Sadiq, Musa al-Kazim, Ali al-Rida, Muhammad al-Jawad, Ali al-Hadi, Hasan
-al-Askari and Muhammad al-Mahdi, who Shi'a Muslims believe is in hiding and will return. Husayn's
+family as the rightful, divinely guided leaders after him: Ali (RA), Hasan (RA), Husayn (RA), Ali Zayn al-Abidin,
+Muhammad al-Baqir, Ja'far al-Sadiq, Musa al-Kazim, Ali al-Rida, Muhammad al-Jawad, Ali al-Hadi, Hasan (RA)
+al-Askari and Muhammad al-Mahdi, who Shi'a Muslims believe is in hiding and will return. Husayn (RA)'s
 martyrdom at Karbala is remembered especially in the month of Muharram.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-first-islamic-community--03-descendants.webp" width="900" height="685" alt="A text family tree. With Khadija the Prophet (pbuh) had Qasim, Abdullah, Zaynab (married Abu al-As), Ruqayya and Umm Kulthum (both married Uthman) and Fatima (married Ali); with Maria he had Ibrahim. Fatima's children include Hasan, Husayn and Zaynab bint Ali. A note explains Uthman's title Dhu al-Nurayn and the Ahl al-Bayt at the Mubahala." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-first-islamic-community--03-descendants.webp" width="900" height="685" alt="A text family tree. With Khadija the Prophet (pbuh) had Qasim, Abdullah, Zaynab (married Abu al-As), Ruqayya and Umm Kulthum (both married Uthman) and Fatima (married Ali (RA)); with Maria he had Ibrahim. Fatima's children include Hasan (RA), Husayn (RA) and Zaynab bint Ali (RA). A note explains Uthman's title Dhu al-Nurayn and the Ahl al-Bayt at the Mubahala." loading="lazy">
   <figcaption>Six children with Khadija (RA), Ibrahim with Maria; the line continues through Fatima (RA) and Ali (RA).</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-first-islamic-community--04-twelve-imams.webp" width="900" height="717" alt="The twelve Imams in order: Ali, Hasan, Husayn, Ali Zayn al-Abidin, Muhammad al-Baqir, Ja'far al-Sadiq, Musa al-Kazim, Ali al-Rida, Muhammad al-Jawad, Ali al-Hadi, Hasan al-Askari and Muhammad al-Mahdi. Cards note that they are seen as rightful, divinely guided leaders, that the twelfth is believed to be in hiding, and that Husayn's martyrdom at Karbala is remembered in Muharram." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-first-islamic-community--04-twelve-imams.webp" width="900" height="717" alt="The twelve Imams in order: Ali (RA), Hasan (RA), Husayn (RA), Ali Zayn al-Abidin, Muhammad al-Baqir, Ja'far al-Sadiq, Musa al-Kazim, Ali al-Rida, Muhammad al-Jawad, Ali al-Hadi, Hasan al-Askari and Muhammad al-Mahdi. Cards note that they are seen as rightful, divinely guided leaders, that the twelfth is believed to be in hiding, and that Husayn (RA)'s martyrdom at Karbala is remembered in Muharram." loading="lazy">
   <figcaption>Twelve Imams in one line, from Ali (RA) to Muhammad al-Mahdi.</figcaption>
 </figure>
 
@@ -155,7 +155,7 @@ half his wealth; Abd al-Rahman thanked him and asked only to be shown the market
   expedition.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-first-islamic-community--07-caliphs-in-his-lifetime.webp" width="900" height="599" alt="Four cards. Abu Bakr: first free adult man to accept Islam, companion in the cave of Thawr, led prayers in the final illness. Umar: once an opponent, accepted Islam after hearing Sura Ta-Ha, let Muslims pray openly at the Ka'ba. Uthman: early convert, married two daughters, funded Tabuk. Ali: first young person to accept Islam, slept in the Prophet's (pbuh) bed on the night of the Hijra, married Fatima." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-first-islamic-community--07-caliphs-in-his-lifetime.webp" width="900" height="599" alt="Four cards. Abu Bakr: first free adult man to accept Islam, companion in the cave of Thawr, led prayers in the final illness. Umar: once an opponent, accepted Islam after hearing Sura Ta-Ha, let Muslims pray openly at the Ka'ba. Uthman: early convert, married two daughters, funded Tabuk. Ali (RA): first young person to accept Islam, slept in the Prophet's (pbuh) bed on the night of the Hijra, married Fatima." loading="lazy">
   <figcaption>Before 632: how each future caliph came to Islam and served the Prophet (pbuh).</figcaption>
 </figure>
 

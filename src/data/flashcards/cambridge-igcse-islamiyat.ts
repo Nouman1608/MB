@@ -9,7 +9,7 @@
  * Paper 2, the Rightly Guided Caliphs). Standard transliterations follow those
  * pages. Cards state what Muslims believe and practise, and what the syllabus
  * asks for, factually; they give no rulings or opinions. The Qur'anic passages
- * and Hadiths set for study are listed in the syllabus appendices and change
+ * and Hadith set for study are listed in the syllabus appendices and change
  * from series to series, so cards on individual passages are well-known
  * examples, not a claim about the current list. No revision-notes page maps to
  * a single subtopic, so every card is authored.
@@ -101,11 +101,11 @@ export const DECK_CAMBRIDGE_IGCSE_ISLAMIYAT: FlashcardDeck = {
     ...sub(P2, 'history-importance-hadiths-0493', '2.2', [
       { n: 1, f: 'What is the difference between isnad and matn?', b: 'The isnad is the chain of people who transmitted a Hadith. The matn is its text (wording). Scholars tested both to judge a Hadith’s reliability.' },
       { n: 2, f: 'What are the three main grades of Hadith?', b: 'Sahih (sound), hasan (good) and da’if (weak).' },
-      { n: 3, f: 'What is the difference between a musnad and a musannaf collection?', b: 'A musnad arranges Hadiths by the Companion who narrated them, such as the Musnad of Ahmad ibn Hanbal. A musannaf arranges them by subject, such as the Muwatta of Imam Malik.' },
+      { n: 3, f: 'What is the difference between a musnad and a musannaf collection?', b: 'A musnad arranges Hadith by the Companion who narrated them, such as the Musnad of Ahmad ibn Hanbal. A musannaf arranges them by subject, such as the Muwatta of Imam Malik.' },
       { n: 4, f: 'Name the six major Sunni Hadith collections', b: 'Sahih al-Bukhari, Sahih Muslim, and the Sunan of Abu Dawud, al-Tirmidhi, al-Nasa’i and Ibn Majah.' },
       { n: 5, f: 'Name the four major Shi’a Hadith collections', b: 'Al-Kafi (al-Kulayni), Man la yahduruhu al-faqih (Ibn Babawayh, al-Saduq), and Tahdhib al-ahkam and al-Istibsar (both by al-Tusi).' },
-      { n: 6, f: 'How are Hadiths used in Islamic law?', b: 'They are the second source of law after the Qur’an, explaining and adding detail to it, and are used alongside consensus (ijma’) and analogy (qiyas).' },
-      { n: 7, f: 'Which Umayyad caliph ordered Hadiths to be collected in writing?', b: 'Umar ibn Abd al-Aziz (ruled 717–720), concerned that knowledge would be lost as scholars died.' },
+      { n: 6, f: 'How are Hadith used in Islamic law?', b: 'They are the second source of law after the Qur’an, explaining and adding detail to it, and are used alongside consensus (ijma’) and analogy (qiyas).' },
+      { n: 7, f: 'Which Umayyad caliph ordered Hadith to be collected in writing?', b: 'Umar ibn Abd al-Aziz (ruled 717–720), concerned that knowledge would be lost as scholars died.' },
     ]),
     ...sub(P2, 'rightly-guided-caliphs-0493', '2.3', [
       { n: 1, f: 'Name the four Rightly Guided Caliphs and the dates of their rule', b: 'Abu Bakr (632–634), Umar ibn al-Khattab (634–644), Uthman ibn Affan (644–656), Ali ibn Abi Talib (656–661).' },

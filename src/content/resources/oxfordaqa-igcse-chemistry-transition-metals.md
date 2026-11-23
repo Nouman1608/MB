@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International GCSE Chemistry: Transition metals (9202)"
+title: "OxfordAQA IGCSE Chemistry: Transition metals (9202)"
 seoTitle: "OxfordAQA IGCSE Chemistry Transition Metals Study Guide"
 resourceType: "study-guides"
 subject: "chemistry"

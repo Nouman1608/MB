@@ -18,7 +18,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "paper-2-2058"
     subtopic: "rightly-guided-caliphs-2058"
-description: "Paper 2 of Cambridge O Level Islamiyat 2058 (2026-2027): the teachings and history of the Hadiths, the Rightly Guided Caliphs, and Articles and Pillars."
+description: "Paper 2 of Cambridge O Level Islamiyat 2058 (2026-2027): the teachings and history of the Hadith, the Rightly Guided Caliphs, and Articles and Pillars."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
@@ -38,7 +38,7 @@ this page follows the current 2026-2027 document.)
 ## Where this fits in 2058
 
 Paper 1 (not covered in this guide) covers the Qur'an and the life of
-the Prophet Muhammad (pbuh). Paper 2 moves to the Hadiths, the period
+the Prophet Muhammad (pbuh). Paper 2 moves to the Hadith, the period
 of rule of the four Rightly Guided Caliphs, and the Articles of Faith
 and Pillars of Islam. Together the two papers form the whole of 2058
 -- there is no numbered sub-topic list beyond these four per paper,
@@ -56,10 +56,10 @@ sub-topic list alone.
 
 **CAMBRIDGE O LEVEL ISLAMIYAT 2058 — PAPER 2**
 
-- 2.1 Major Teachings in the Hadiths of the Prophet (pbuh) — the central
+- 2.1 Major Teachings in the Hadith of the Prophet (pbuh) — the central
   teachings recorded in the sayings and practice of the Prophet (pbuh)
   Muhammad (pbuh)
-- 2.2 The History and Importance of the Hadiths — how the Hadiths were
+- 2.2 The History and Importance of the Hadith — how the Hadith were
   preserved, compiled and authenticated, and their significance
   alongside the Qur'an
 - 2.3 The Period of Rule of the Rightly Guided Caliphs and Their
@@ -83,7 +83,7 @@ the four Caliphs in order, with one or two defining events and
 challenges for each reign, since questions often ask candidates to
 compare leadership across the period rather than describe one Caliph
 in isolation. As with 2.2, be ready to explain *why* the preservation
-of the Hadiths mattered, not only how it happened.
+of the Hadith mattered, not only how it happened.
 
 ## Official syllabus
 
@@ -91,22 +91,22 @@ Cambridge O Level Islamiyat (2058) syllabus for examination 2026 and
 2027, version 1 —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/697279-2026-2027-syllabus.pdf).
 
-## The Hadiths: teaching and preservation
+## The Hadith: teaching and preservation
 
-The Hadiths are the recorded sayings, actions and approvals of the
+The Hadith are the recorded sayings, actions and approvals of the
 Prophet Muhammad (pbuh), transmitted alongside the Qur'an as a second
 source of guidance for Muslims. Where the Qur'an sets out core
-principles, the Hadiths often provide the practical detail of how
+principles, the Hadith often provide the practical detail of how
 those principles were lived out day to day. Their preservation relied
 on a chain of transmission (isnad) linking each reported saying back
 to a witness of the Prophet's (pbuh) life, and later scholars developed
 rigorous methods to assess the reliability of each chain -- this
-process of authentication is central to why the Hadiths are treated
+process of authentication is central to why the Hadith are treated
 as a trustworthy record.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-2--02-quran-and-hadith.webp" width="900" height="448" alt="Two linked boxes: the Qur'an sets out core principles, and the Hadiths, a second source of guidance, give the practical detail of how they were lived out. A note defines Hadiths as the Prophet's (pbuh) sayings, actions and approvals, preserved through the isnad, distinct from the Qur'an but complementary." loading="lazy">
-  <figcaption>Principles from the Qur'an, practical detail from the Hadiths.</figcaption>
+  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-2--02-quran-and-hadith.webp" width="900" height="448" alt="Two linked boxes: the Qur'an sets out core principles, and the Hadith, a second source of guidance, give the practical detail of how they were lived out. A note defines Hadith as the Prophet's (pbuh) sayings, actions and approvals, preserved through the isnad, distinct from the Qur'an but complementary." loading="lazy">
+  <figcaption>Principles from the Qur'an, practical detail from the Hadith.</figcaption>
 </figure>
 
 ## The Rightly Guided Caliphs
@@ -128,7 +128,7 @@ the qualities of leadership it demonstrated, which the syllabus
 frames as a model for the early Muslim community.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-2--03-caliphs-in-order.webp" width="900" height="460" alt="Four numbered cards in succession: Abu Bakr, consolidating the community; Umar, expansion and administration; Uthman, standardising the Qur'an; and Ali, leadership during internal division. A bracket underneath says to compare them across the period." loading="lazy">
+  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-2--03-caliphs-in-order.webp" width="900" height="460" alt="Four numbered cards in succession: Abu Bakr, consolidating the community; Umar, expansion and administration; Uthman, standardising the Qur'an; and Ali (RA), leadership during internal division. A bracket underneath says to compare them across the period." loading="lazy">
   <figcaption>Know the order and one defining feature of each reign.</figcaption>
 </figure>
 
@@ -154,13 +154,13 @@ A question asks candidates to explain the importance of the isnad
 A strong answer would state that the isnad names every person in the
 chain from the Prophet (pbuh) to the person recording the Hadith,
 that scholars checked each narrator's character and memory, and that
-this scrutiny is why some Hadiths are classified as more reliable
+this scrutiny is why some Hadith are classified as more reliable
 than others -- linking the *mechanism* of preservation to *why* it
 matters is what separates a strong answer from a purely descriptive
 one.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-2--05-isnad-worked-example.webp" width="900" height="584" alt="A chain runs from the Prophet (pbuh) through narrators to the person recording the Hadith. Below, three steps: scholars checked each narrator's character and memory; so some Hadiths are classified as more reliable than others; and this scrutiny is why the Hadiths are treated as trustworthy." loading="lazy">
+  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-2--05-isnad-worked-example.webp" width="900" height="584" alt="A chain runs from the Prophet (pbuh) through narrators to the person recording the Hadith. Below, three steps: scholars checked each narrator's character and memory; so some Hadith are classified as more reliable than others; and this scrutiny is why the Hadith are treated as trustworthy." loading="lazy">
   <figcaption>Mechanism, then result, then why it matters.</figcaption>
 </figure>
 
@@ -170,20 +170,20 @@ Listing the Articles of Faith or Pillars of Islam without explaining
 their meaning or significance, on the assumption that naming them is
 sufficient. Describing the Rightly Guided Caliphs in isolation rather
 than comparing their leadership across the period. Treating the
-Hadiths as identical in status to the Qur'an rather than explaining
+Hadith as identical in status to the Qur'an rather than explaining
 their distinct but complementary role. Under-revising 2.4 because it
 feels more familiar than the historical sub-topics.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-2--06-common-mistakes.webp" width="900" height="542" alt="Four mistakes with their fixes: listing the Articles or Pillars instead of explaining them; describing Caliphs in isolation instead of comparing them; treating Hadiths as equal to the Qur'an instead of complementary; and under-revising 2.4 instead of giving it equal rigour." loading="lazy">
+  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-2--06-common-mistakes.webp" width="900" height="542" alt="Four mistakes with their fixes: listing the Articles or Pillars instead of explaining them; describing Caliphs in isolation instead of comparing them; treating Hadith as equal to the Qur'an instead of complementary; and under-revising 2.4 instead of giving it equal rigour." loading="lazy">
   <figcaption>Each common mistake has a simple fix: explain, compare, distinguish, revise evenly.</figcaption>
 </figure>
 
 ## Quick revision checklist
 
-- Explain the major teachings recorded in the Hadiths and how they
+- Explain the major teachings recorded in the Hadith and how they
   complement the Qur'an.
-- Describe how the Hadiths were preserved and authenticated, and why
+- Describe how the Hadith were preserved and authenticated, and why
   that process matters.
 - Sequence the four Rightly Guided Caliphs and give one defining
   feature of each reign.

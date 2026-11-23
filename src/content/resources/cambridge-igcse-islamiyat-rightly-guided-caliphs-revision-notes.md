@@ -118,7 +118,7 @@ for relations with other states. (The caliphs' lives during the Prophet's (pbuh)
 | 661 | Ali (RA) martyred in Kufa |
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-rightly-guided-caliphs--02-rightly-guided-caliphs-timeline.webp" width="900" height="578" alt="A scaled timeline from 632 to 661 CE divided into Abu Bakr (632–634), Umar (634–644), Uthman (644–656) and Ali (656–661), with a card of main events for each: the Ridda wars; expansion and the diwan; the standardised Qur'an and Uthman's assassination; and the First Fitna with the Battles of the Camel and Siffin." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-rightly-guided-caliphs--02-rightly-guided-caliphs-timeline.webp" width="900" height="578" alt="A scaled timeline from 632 to 661 CE divided into Abu Bakr (632–634), Umar (634–644), Uthman (644–656) and Ali (RA) (656–661), with a card of main events for each: the Ridda wars; expansion and the diwan; the standardised Qur'an and Uthman's assassination; and the First Fitna with the Battles of the Camel and Siffin." loading="lazy">
   <figcaption>Four Caliphs in order, each with the events that define his rule.</figcaption>
 </figure>
 

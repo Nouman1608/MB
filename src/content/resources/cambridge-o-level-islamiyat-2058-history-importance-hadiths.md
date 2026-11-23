@@ -1,5 +1,5 @@
 ---
-title: "Cambridge O Level Islamiyat (2058): The History and Importance of the Hadiths"
+title: "Cambridge O Level Islamiyat (2058): The History and Importance of the Hadith"
 resourceType: "study-guides"
 subject: "islamiyat"
 level: ["o-levels"]
@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "paper-2-2058"
     subtopic: "history-importance-hadiths-2058"
-description: "Study guide to compiling and testing the Hadiths, the Sunni and Shi'a collections and their legal role, for Cambridge O Level Islamiyat 2058 Paper 2 Question 2."
+description: "Study guide to compiling and testing the Hadith, the Sunni and Shi'a collections and their legal role, for Cambridge O Level Islamiyat 2058 Paper 2 Question 2."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
@@ -23,39 +23,39 @@ publishedDate: 2026-11-17
 featured: false
 ---
 
-**The History and Importance of the Hadiths is Paper 2 Question 2 in Cambridge O Level Islamiyat
+**The History and Importance of the Hadith is Paper 2 Question 2 in Cambridge O Level Islamiyat
 2058, and every candidate must answer it.** It is an essay question worth 14 marks, normally a
 knowledge part (a) worth 10 and an understanding part (b) worth 4. The syllabus covers how the
-Hadiths were collected, how scholars tested them, the main collections and compilers, and why the
-Hadiths matter in Islamic law and life.
+Hadith were collected, how scholars tested them, the main collections and compilers, and why the
+Hadith matter in Islamic law and life.
 
 ## What the syllabus lists
 
-- the history of the compilation of the Hadiths;
+- the history of the compilation of the Hadith;
 - the earliest collections;
 - the main musnad and musannaf collections;
 - the main compilers and their activities;
 - the methods of testing reliability through the chain of transmitters (isnad) and the text (matn);
 - the main features of the six Sunni collections and the four Shi'a collections;
-- the major themes of the Hadiths, in the set passages and similar ones;
+- the major themes of the Hadith, in the set passages and similar ones;
 - their use in legal thinking with the Qur'an, ijma' and qiyas;
 - their significance in thought and action in Islam.
 
 ## Key words first
 
 A **Hadith** is a report of what the Prophet (pbuh) said, did, or silently approved. The **Sunna** is
-his practice as a whole, which the Hadiths record. Every Hadith has two parts: the **isnad**, the
+his practice as a whole, which the Hadith record. Every Hadith has two parts: the **isnad**, the
 chain of people who passed it on ("A told me that B told him that he heard the Prophet (pbuh) say…"), and
 the **matn**, the text itself.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-history-and-importance-of-the-hadiths--01-isnad-and-matn.webp" width="900" height="634" alt="The isnad is drawn as a chain: A told me that B said that C heard the Prophet (pbuh) say. Below it the matn, the text itself, reports what the Prophet (pbuh) said, did or approved. A note defines the Sunnah as his way of life, known mainly through Hadiths." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-history-and-importance-of-the-hadiths--01-isnad-and-matn.webp" width="900" height="634" alt="The isnad is drawn as a chain: A told me that B said that C heard the Prophet (pbuh) say. Below it the matn, the text itself, reports what the Prophet (pbuh) said, did or approved. A note defines the Sunnah as his way of life, known mainly through Hadith." loading="lazy">
   <figcaption>Isnad is the chain of narrators; matn is the text they passed on.</figcaption>
 </figure>
 
 ## Stage 1: the Prophet's (pbuh) lifetime
 
-Companions learned Hadiths in three ways: by **hearing** his words, by **watching** his actions (he
+Companions learned Hadith in three ways: by **hearing** his words, by **watching** his actions (he
 told them, "Pray as you have seen me pray"), and by noting what he **approved** without objection.
 Memory was the main method in a society used to memorising poetry and genealogy. Some wrote: Abdullah
 ibn Amr ibn al-As kept a written collection he called al-Sahifa al-Sadiqa, "the truthful sheet". At
@@ -78,29 +78,29 @@ taking their knowledge with them. Among those who narrated most were **Abu Huray
 
 ## Stage 3: the Successors and the first official collection
 
-The next generation, the **tabi'un**, travelled from city to city to collect Hadiths from surviving
+The next generation, the **tabi'un**, travelled from city to city to collect Hadith from surviving
 Companions. Written notebooks (**sahifas**) circulated, such as that of **Hammam ibn Munabbih**, a
 student of Abu Hurayra. The Umayyad caliph **Umar ibn Abd al-Aziz** (717–720) feared that knowledge
-would be lost as the scholars died, and ordered governors and scholars to write Hadiths down;
+would be lost as the scholars died, and ordered governors and scholars to write Hadith down;
 **Ibn Shihab al-Zuhri** of Madina was among those who carried this out.
 
 ## Stage 4: musannaf collections
 
-A **musannaf** collection arranges Hadiths **by subject**, such as purification, prayer, zakat and
+A **musannaf** collection arranges Hadith **by subject**, such as purification, prayer, zakat and
 trade, so that a judge or student can find the rulings on one topic. The best-known early example is
-**al-Muwatta** of **Imam Malik ibn Anas** of Madina. It includes Hadiths of the Prophet (pbuh) together with
+**al-Muwatta** of **Imam Malik ibn Anas** of Madina. It includes Hadith of the Prophet (pbuh) together with
 reports of the Companions and the practice of the people of Madina, reflecting Malik's view that
 Madina preserved the Sunna in living practice.
 
 ## Stage 5: musnad collections
 
-A **musnad** collection arranges Hadiths **by the Companion who narrated them**: all of Abu Bakr's (RA)
+A **musnad** collection arranges Hadith **by the Companion who narrated them**: all of Abu Bakr's (RA)
 narrations together, then Umar's (RA), and so on. It made it easier to study each Companion's reports and
 check chains, but harder to find rulings on a subject. The most famous is the **Musnad** of **Ahmad
 ibn Hanbal**, a very large collection.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-history-importance-hadiths--02-musannaf-and-musnad.webp" width="900" height="606" alt="Two panels. A musannaf arranges Hadiths by subject, such as purification, prayer and zakat; al-Muwatta of Imam Malik is the example, useful for finding rulings. A musnad arranges them by the narrating Companion, such as all of Abu Bakr's narrations; the Musnad of Ahmad ibn Hanbal is the example, easier for checking chains but harder for finding rulings." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-history-importance-hadiths--02-musannaf-and-musnad.webp" width="900" height="606" alt="Two panels. A musannaf arranges Hadith by subject, such as purification, prayer and zakat; al-Muwatta of Imam Malik is the example, useful for finding rulings. A musnad arranges them by the narrating Companion, such as all of Abu Bakr's narrations; the Musnad of Ahmad ibn Hanbal is the example, easier for checking chains but harder for finding rulings." loading="lazy">
   <figcaption>Musannaf: by subject. Musnad: by narrator.</figcaption>
 </figure>
 
@@ -115,22 +115,22 @@ arranged by subject.
 |---|---|---|
 | Sahih al-Bukhari | Muhammad ibn Isma'il al-Bukhari (d. 870) | Strictest conditions; narrators must be proven to have met; chapter headings show his legal reasoning |
 | Sahih Muslim | Muslim ibn al-Hajjaj (d. 875) | Strict conditions; all versions of a Hadith gathered in one place; introduction on method |
-| Sunan Abu Dawud | Abu Dawud al-Sijistani | Focus on Hadiths used for legal rulings |
-| Jami' al-Tirmidhi | al-Tirmidhi | Comments on the grade of Hadiths and on scholars' legal views |
+| Sunan Abu Dawud | Abu Dawud al-Sijistani | Focus on Hadith used for legal rulings |
+| Jami' al-Tirmidhi | al-Tirmidhi | Comments on the grade of Hadith and on scholars' legal views |
 | Sunan al-Nasa'i | al-Nasa'i | Careful about narrators; legal arrangement |
-| Sunan Ibn Majah | Ibn Majah | Includes Hadiths not found in the other five |
+| Sunan Ibn Majah | Ibn Majah | Includes Hadith not found in the other five |
 
-A **sunan** work concentrates on Hadiths about legal practice. Sunni scholars regard al-Bukhari and
+A **sunan** work concentrates on Hadith about legal practice. Sunni scholars regard al-Bukhari and
 Muslim, together called al-Sahihayn, as the most reliable books after the Qur'an.
 
 **The four Shi'a collections (al-Kutub al-Arba'a):** **al-Kafi** by al-Kulayni, covering belief and
 law; **Man la yahduruhu al-faqih** by Ibn Babawayh (al-Shaykh al-Saduq), a legal guide for those with
 no scholar at hand; and **Tahdhib al-ahkam** and **al-Istibsar** by al-Tusi, both on law, the second
-dealing with reports that seem to conflict. Shi'a scholars accept Hadiths especially through the
+dealing with reports that seem to conflict. Shi'a scholars accept Hadith especially through the
 Prophet's family and the Imams, whose words also carry authority.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-history-importance-hadiths--03-six-sunni-collections.webp" width="900" height="712" alt="The six Sunni collections. Highlighted together as al-Sahihayn: al-Bukhari (d. 870), with the strictest conditions, and Muslim (d. 875), which gathers all versions of a Hadith in one place. Below: Abu Dawud, focused on legal rulings; al-Tirmidhi, commenting on grades and legal views; al-Nasa'i, careful about narrators; and Ibn Majah, with Hadiths not in the other five." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-history-importance-hadiths--03-six-sunni-collections.webp" width="900" height="712" alt="The six Sunni collections. Highlighted together as al-Sahihayn: al-Bukhari (d. 870), with the strictest conditions, and Muslim (d. 875), which gathers all versions of a Hadith in one place. Below: Abu Dawud, focused on legal rulings; al-Tirmidhi, commenting on grades and legal views; al-Nasa'i, careful about narrators; and Ibn Majah, with Hadith not in the other five." loading="lazy">
   <figcaption>Know one main feature for each of the six books; al-Bukhari and Muslim rank highest.</figcaption>
 </figure>
 
@@ -139,7 +139,7 @@ Prophet's family and the Imams, whose words also carry authority.
   <figcaption>Three compilers, four books; only al-Kafi covers belief as well as law.</figcaption>
 </figure>
 
-## How scholars tested Hadiths
+## How scholars tested Hadith
 
 Fabrication became a real problem as political and sectarian disputes grew and some storytellers
 invented reports to move audiences. Scholars responded with two sets of tests.
@@ -153,31 +153,31 @@ their teachers, students, dates and reliability.
 contrary to reason or known history, and must sound like the Prophet's (pbuh) way of speaking rather than
 exaggerated promises of huge rewards for small acts.
 
-**Result:** Hadiths were graded **sahih** (sound), **hasan** (good), **da'if** (weak) or **mawdu'**
-(fabricated). Only sahih and hasan Hadiths are used to establish rulings.
+**Result:** Hadith were graded **sahih** (sound), **hasan** (good), **da'if** (weak) or **mawdu'**
+(fabricated). Only sahih and hasan Hadith are used to establish rulings.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-history-importance-hadiths--04-testing-reliability.webp" width="900" height="588" alt="Two checklists. Isnad tests: good character ('adala), accurate memory (dabt) and an unbroken chain, checked in biographical dictionaries. Matn tests: no contradiction of the Qur'an or established Sunna, nothing against reason or known history, and the Prophet's (pbuh) way of speaking. Hadiths are graded sahih, hasan, da'if or mawdu'; only sahih and hasan establish rulings." loading="lazy">
-  <figcaption>Chain and text are both tested; only sahih and hasan Hadiths are used for rulings.</figcaption>
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-history-importance-hadiths--04-testing-reliability.webp" width="900" height="588" alt="Two checklists. Isnad tests: good character ('adala), accurate memory (dabt) and an unbroken chain, checked in biographical dictionaries. Matn tests: no contradiction of the Qur'an or established Sunna, nothing against reason or known history, and the Prophet's (pbuh) way of speaking. Hadith are graded sahih, hasan, da'if or mawdu'; only sahih and hasan establish rulings." loading="lazy">
+  <figcaption>Chain and text are both tested; only sahih and hasan Hadith are used for rulings.</figcaption>
 </figure>
 
-## Hadiths in legal thinking
+## Hadith in legal thinking
 
-The Qur'an gives principles; the Hadiths explain and apply them. The Qur'an commands prayer, but the
-times, units and actions come from the Sunna. The Qur'an commands zakat; the Hadiths give the rates
+The Qur'an gives principles; the Hadith explain and apply them. The Qur'an commands prayer, but the
+times, units and actions come from the Sunna. The Qur'an commands zakat; the Hadith give the rates
 and the minimum amounts. Where the Qur'an is silent, a Hadith can give a ruling, such as forbidding
 gold and silk clothing for men. **Ijma'** must agree with both sources, and **qiyas** extends their
 rulings to new cases. Sura 59.7 tells believers to "take what the Messenger gives you", which is the
 basis for treating the Sunna as binding.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-history-importance-hadiths--05-hadiths-in-law.webp" width="900" height="597" alt="Three rows link a Qur'anic command to the detail supplied by the Hadiths: prayer, whose times, units and actions come from the Sunna; zakat, whose rates and minimum amounts come from the Hadiths; and cases where the Qur'an is silent, such as the ban on gold and silk clothing for men. Cards add ijma', qiyas and Sura 59.7." loading="lazy">
-  <figcaption>Without the Hadiths, Qur'anic commands such as prayer and zakat could not be carried out.</figcaption>
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-history-importance-hadiths--05-hadiths-in-law.webp" width="900" height="597" alt="Three rows link a Qur'anic command to the detail supplied by the Hadith: prayer, whose times, units and actions come from the Sunna; zakat, whose rates and minimum amounts come from the Hadith; and cases where the Qur'an is silent, such as the ban on gold and silk clothing for men. Cards add ijma', qiyas and Sura 59.7." loading="lazy">
+  <figcaption>Without the Hadith, Qur'anic commands such as prayer and zakat could not be carried out.</figcaption>
 </figure>
 
 ## Significance in thought and action
 
-- **Practice:** without the Hadiths Muslims could not perform prayer, hajj or zakat as commanded.
+- **Practice:** without the Hadith Muslims could not perform prayer, hajj or zakat as commanded.
 - **Character:** they show the Prophet's (pbuh) manners, family life and dealings with others, the "beautiful
   pattern" of Sura 33.21.
 - **Explanation:** they explain the meaning of Qur'an verses, often with the reason for revelation.
@@ -209,7 +209,7 @@ included.
 - **Listing the six books with no features.** "Main features" means arrangement, conditions and
   purpose.
 - **Ignoring the Shi'a books.** They are named in the syllabus.
-- **Treating Hadith and Sunna as unrelated.** The Hadiths are the reports through which the Sunna is
+- **Treating Hadith and Sunna as unrelated.** The Hadith are the reports through which the Sunna is
   known.
 
 ## Exam technique
@@ -221,8 +221,8 @@ included.
 
 ## Related pages
 
-- [History and Importance of the Hadiths revision notes](/resources/cambridge-o-level-islamiyat-history-and-importance-of-the-hadiths-revision-notes/)
-- [History and Importance of the Hadiths practice questions](/resources/cambridge-o-level-islamiyat-2058-history-importance-hadiths-practice/)
+- [History and Importance of the Hadith revision notes](/resources/cambridge-o-level-islamiyat-history-and-importance-of-the-hadiths-revision-notes/)
+- [History and Importance of the Hadith practice questions](/resources/cambridge-o-level-islamiyat-2058-history-importance-hadiths-practice/)
 - [Paper 2 study guide](/resources/o-level-islamiyat-paper-2/)
 
 *Source: Cambridge International, Cambridge O Level Islamiyat 2058 syllabus for examination in 2026

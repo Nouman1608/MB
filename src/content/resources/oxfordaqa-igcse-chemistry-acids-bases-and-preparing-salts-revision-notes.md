@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International GCSE Chemistry: The properties of acids and bases, and preparation of salts (9202) -- Revision Notes"
+title: "OxfordAQA IGCSE Chemistry: The properties of acids and bases, and preparation of salts (9202) -- Revision Notes"
 seoTitle: "OxfordAQA IGCSE Chemistry (9202) Acids and Salts Notes"
 resourceType: "revision-notes"
 subject: "chemistry"

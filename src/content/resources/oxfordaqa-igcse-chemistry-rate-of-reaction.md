@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International GCSE Chemistry: Rate of reaction (9202)"
+title: "OxfordAQA IGCSE Chemistry: Rate of reaction (9202)"
 seoTitle: "OxfordAQA IGCSE Chemistry (9202) Rate of Reaction Guide"
 resourceType: "study-guides"
 subject: "chemistry"

@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International GCSE Chemistry: Structure and bonding of carbon, and nanoparticles (9202) -- Revision Notes"
+title: "OxfordAQA IGCSE Chemistry: Structure and bonding of carbon, and nanoparticles (9202) -- Revision Notes"
 seoTitle: "OxfordAQA IGCSE Chemistry Carbon and Nanoparticles Notes"
 resourceType: "revision-notes"
 subject: "chemistry"

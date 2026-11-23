@@ -13,8 +13,8 @@ order: 2
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-0493"
-description: "Paper 2 of Cambridge IGCSE Islamiyat 0493 (2026-2027): the Hadiths, the Rightly Guided Caliphs, and the Articles of Faith and Pillars of Islam."
-seoDescription: "Cambridge IGCSE Islamiyat (0493) Paper 2 study guide: the Hadiths, the Rightly Guided Caliphs, and the Articles of Faith and Pillars of Islam explained."
+description: "Paper 2 of Cambridge IGCSE Islamiyat 0493 (2026-2027): the Hadith, the Rightly Guided Caliphs, and the Articles of Faith and Pillars of Islam."
+seoDescription: "Cambridge IGCSE Islamiyat (0493) Paper 2 study guide: the Hadith, the Rightly Guided Caliphs, and the Articles of Faith and Pillars of Islam explained."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
@@ -27,7 +27,7 @@ featured: false
 This guide covers **Paper 2**, the second of two compulsory papers in
 Cambridge IGCSE Islamiyat (0493), 2026-2027 series. Where Paper 1
 centres on the Qur'an and the life of the Prophet Muhammad (pbuh),
-Paper 2 moves to the Hadiths, the leadership of the Rightly Guided
+Paper 2 moves to the Hadith, the leadership of the Rightly Guided
 Caliphs, and the core beliefs and practices that structure a Muslim's
 faith and daily life.
 
@@ -43,7 +43,7 @@ requires an essay-length answer. Candidates should be ready to answer
 in depth on any of the four topics, not just their strongest one.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-cambridge-islamiyat-paper-2--01-paper-2-structure.webp" width="900" height="676" alt="Question 1 on the Hadith passages (8 marks) and Question 2 on the history of the Hadiths (14 marks) are compulsory. Candidates then choose two of Questions 3 to 5, set on the Rightly Guided Caliphs and the Articles of Faith and Pillars, at 14 marks each. The paper lasts 1 hour 30 minutes and is worth 50 marks." loading="lazy">
+  <img src="https://img.marlbridge.com/igcse-cambridge-islamiyat-paper-2--01-paper-2-structure.webp" width="900" height="676" alt="Question 1 on the Hadith passages (8 marks) and Question 2 on the history of the Hadith (14 marks) are compulsory. Candidates then choose two of Questions 3 to 5, set on the Rightly Guided Caliphs and the Articles of Faith and Pillars, at 14 marks each. The paper lasts 1 hour 30 minutes and is worth 50 marks." loading="lazy">
   <figcaption>Two compulsory questions, then two chosen from three: 8 + 14 + 14 + 14 = 50 marks.</figcaption>
 </figure>
 
@@ -51,15 +51,15 @@ in depth on any of the four topics, not just their strongest one.
 
 **CAMBRIDGE IGCSE ISLAMIYAT (0493) — PAPER 2**
 
-**2.1 Major teachings in the Hadiths of the Prophet (pbuh)**
+**2.1 Major teachings in the Hadith of the Prophet (pbuh)**
 - Two groups of set passages for close study, covering individual conduct and life in the community, studied with reference to both the original Arabic text and its English translation (passages are set in both languages in the examination)
 - What each passage teaches Muslims to believe and how to act
 
-**2.2 The history and importance of the Hadiths**
-- The history of the compilation of the Hadiths, the earliest collections, and the main musnad and musannaf collections and their compilers
+**2.2 The history and importance of the Hadith**
+- The history of the compilation of the Hadith, the earliest collections, and the main musnad and musannaf collections and their compilers
 - The methods used to test a Hadith's reliability, based on examination of the chain of transmitters (isnad) and the text itself (matn)
-- The main features of the six collections of Sunni Hadiths and the four collections of Shi'a Hadiths
-- The major themes running through the Hadiths, their use in legal thinking, their relationship with the Qur'an, consensus (ijma') and analogy (qiyas), and their overall significance in Islamic thought and action
+- The main features of the six collections of Sunni Hadith and the four collections of Shi'a Hadith
+- The major themes running through the Hadith, their use in legal thinking, their relationship with the Qur'an, consensus (ijma') and analogy (qiyas), and their overall significance in Islamic thought and action
 
 **2.3 The period of rule of the Rightly Guided Caliphs and their importance as leaders**
 - The main events of the rules of the four Caliphs, their policies for maintaining and expanding the state, and their approaches to leading the community
@@ -85,7 +85,7 @@ four separate units to revise in isolation, makes both recall and
 the "explain the importance of" style questions more manageable.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-cambridge-islamiyat-paper-2--02-how-the-topics-connect.webp" width="900" height="594" alt="Four topic boxes. A two-way link joins 2.1 (Hadith passages) and 2.4 (Articles and Pillars), because the passages refer to the Articles and Pillars. An arrow from 2.2 (history of the Hadiths) to 2.3 (the Caliphs) notes that the same isnad tradition recorded the Caliphs' rule." loading="lazy">
+  <img src="https://img.marlbridge.com/igcse-cambridge-islamiyat-paper-2--02-how-the-topics-connect.webp" width="900" height="594" alt="Four topic boxes. A two-way link joins 2.1 (Hadith passages) and 2.4 (Articles and Pillars), because the passages refer to the Articles and Pillars. An arrow from 2.2 (history of the Hadith) to 2.3 (the Caliphs) notes that the same isnad tradition recorded the Caliphs' rule." loading="lazy">
   <figcaption>Links between topics make recall and &quot;explain the importance&quot; answers easier.</figcaption>
 </figure>
 
@@ -98,8 +98,8 @@ each belief, event or practice is, but why it matters -- to
 individual Muslims, to the wider community, or to later history. For
 2.1, revise the set passages with both languages side by side, since
 questions can draw on the Arabic text directly. For 2.2, keep the
-Hadiths and the Qur'an distinct in your answers: 2.2 specifically
-asks about the Hadiths' relationship to the Qur'an, consensus and
+Hadith and the Qur'an distinct in your answers: 2.2 specifically
+asks about the Hadith' relationship to the Qur'an, consensus and
 analogy, so an answer that only describes Hadith compilation without
 addressing that relationship misses part of the mark scheme. For
 2.3, note that the Caliphs' lives during the Prophet's (pbuh) own lifetime
@@ -119,7 +119,7 @@ topics is examined in a way that does not suit a candidate's
 preparation that year.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-cambridge-islamiyat-paper-2--03-topic-tips.webp" width="900" height="624" alt="A banner says every answer should move from knowledge to significance. Below, one tip per topic: study the 2.1 passages in Arabic and English; in 2.2 link Hadiths to the Qur'an, ijma' and qiyas; in 2.3 cover only the Caliphs' rule after the Prophet's (pbuh) death; in 2.4 describe each Pillar as what, how and why." loading="lazy">
+  <img src="https://img.marlbridge.com/igcse-cambridge-islamiyat-paper-2--03-topic-tips.webp" width="900" height="624" alt="A banner says every answer should move from knowledge to significance. Below, one tip per topic: study the 2.1 passages in Arabic and English; in 2.2 link Hadith to the Qur'an, ijma' and qiyas; in 2.3 cover only the Caliphs' rule after the Prophet's (pbuh) death; in 2.4 describe each Pillar as what, how and why." loading="lazy">
   <figcaption>Knowledge plus significance, with one specific habit per topic.</figcaption>
 </figure>
 
@@ -134,7 +134,7 @@ preparation that year.
 Paper 2 lasts 1 hour 30 minutes and is worth 50 marks (50%). It has five questions: Questions 1 and 2 are compulsory and you choose two of Questions 3 to 5. Question 1 is worth 8 marks (4 + 4) and each other answered question 14 marks (10 + 4).
 
 **What are the four Paper 2 topics?**
-2.1 Major teachings in the Hadiths; 2.2 The history and importance of the Hadiths; 2.3 The Rightly Guided Caliphs; 2.4 The Articles of Faith and the Pillars of Islam.
+2.1 Major teachings in the Hadith; 2.2 The history and importance of the Hadith; 2.3 The Rightly Guided Caliphs; 2.4 The Articles of Faith and the Pillars of Islam.
 
 **What does Cambridge reward?**
 Moving from knowledge to significance in the same answer: explain why each fact matters to Muslims.

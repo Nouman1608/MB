@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International GCSE Chemistry: Redox reactions (9202) -- Revision Notes"
+title: "OxfordAQA IGCSE Chemistry: Redox reactions (9202) -- Revision Notes"
 seoTitle: "OxfordAQA IGCSE Chemistry Redox Reactions Revision Notes"
 resourceType: "revision-notes"
 subject: "chemistry"

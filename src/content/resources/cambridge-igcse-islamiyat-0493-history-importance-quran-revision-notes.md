@@ -32,7 +32,7 @@ developed points; each 4-mark part (b) needs two explained reasons.
 ## Syllabus coverage
 
 **0493 Paper 1, Topic 2 (2026–2027 syllabus):** revelation 610–632; compilation under the Rightly
-Guided Caliphs; major themes in the set and similar passages; use in legal thinking with the Hadiths,
+Guided Caliphs; major themes in the set and similar passages; use in legal thinking with the Hadith,
 ijma' and qiyas; significance as the basis of all thought and action.
 
 <figure class="topic-figure">
@@ -86,7 +86,7 @@ the ban on intoxicants (Sura 5.90).
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-history-importance-quran--03-modes-of-revelation.webp" width="900" height="556" alt="Four modes of revelation: like the ringing of a bell, the hardest on him; Jibril in the form of a man; Jibril in his true form, seen rarely (Sura 53); and true dreams. All are wahy, distinct from the Prophet's (pbuh) own words, which are recorded as Hadiths." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-history-importance-quran--03-modes-of-revelation.webp" width="900" height="556" alt="Four modes of revelation: like the ringing of a bell, the hardest on him; Jibril in the form of a man; Jibril in his true form, seen rarely (Sura 53); and true dreams. All are wahy, distinct from the Prophet's (pbuh) own words, which are recorded as Hadith." loading="lazy">
   <figcaption>Name more than one mode; keep revelation distinct from Hadith.</figcaption>
 </figure>
 

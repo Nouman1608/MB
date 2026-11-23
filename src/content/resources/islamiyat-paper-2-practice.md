@@ -24,7 +24,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-0493"
     subtopic: "articles-faith-pillars-0493"
-description: "Original practice paper in the Cambridge IGCSE Islamiyat 0493 Paper 2 format: set Hadiths, their compilation, Abu Bakr, angels and zakat, with mark guidance."
+description: "Original practice paper in the Cambridge IGCSE Islamiyat 0493 Paper 2 format: set Hadith, their compilation, Abu Bakr, angels and zakat, with mark guidance."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
@@ -43,13 +43,13 @@ Related: [Cambridge IGCSE Islamiyat: Paper 2 study guide](/resources/igcse-cambr
 
 ---
 
-**Paper format.** Cambridge IGCSE Islamiyat 0493, Paper 2: 1 hour 30 minutes, **50 marks**. The paper has five questions. Answer **Question 1**, **Question 2** and **two** other questions. Every question has a knowledge part **(a)** and an understanding part **(b)**: Question 1 is marked 4 + 4, and Questions 2–5 are marked 10 + 4 (8 + 14 + 14 + 14 = 50). Question 1 is always set on four of the Hadiths in the syllabus appendix, printed in Arabic and English; Question 2 is on the history and importance of the Hadiths; Questions 3–5 are on the Rightly Guided Caliphs and on the Articles of Faith and the Pillars of Islam, with one or two questions on each.
+**Paper format.** Cambridge IGCSE Islamiyat 0493, Paper 2: 1 hour 30 minutes, **50 marks**. The paper has five questions. Answer **Question 1**, **Question 2** and **two** other questions. Every question has a knowledge part **(a)** and an understanding part **(b)**: Question 1 is marked 4 + 4, and Questions 2–5 are marked 10 + 4 (8 + 14 + 14 + 14 = 50). Question 1 is always set on four of the Hadith in the syllabus appendix, printed in Arabic and English; Question 2 is on the history and importance of the Hadith; Questions 3–5 are on the Rightly Guided Caliphs and on the Articles of Faith and the Pillars of Islam, with one or two questions on each.
 
 You must answer Question 1, Question 2 and two other questions.
 
 ## Question 1
 
-**1** Choose any **two** of the following Hadiths.
+**1** Choose any **two** of the following Hadith.
 
 **(a)** Describe their teachings about what Muslims believe. **[4]**
 
@@ -79,13 +79,13 @@ The world is the believer's prison and the unbeliever's paradise.
 
 God does not look at your forms and your possessions, but he looks at your hearts and your deeds.
 
-*The English texts are those printed in the syllabus appendix (Hadiths 2, 9, 19 and 20). The Arabic follows the appendix word for word; its vowel marks are given in standard form where the appendix's marking is partial or non-standard.*
+*The English texts are those printed in the syllabus appendix (Hadith 2, 9, 19 and 20). The Arabic follows the appendix word for word; its vowel marks are given in standard form where the appendix's marking is partial or non-standard.*
 
 ## Question 2
 
-**2 (a)** Write about the compilation of the Hadiths, from the time of the Prophet (pbuh) to the main musnad and musannaf collections. **[10]**
+**2 (a)** Write about the compilation of the Hadith, from the time of the Prophet (pbuh) to the main musnad and musannaf collections. **[10]**
 
-**(b)** Why do Muslims need the Hadiths as well as the Qur'an? **[4]**
+**(b)** Why do Muslims need the Hadith as well as the Qur'an? **[4]**
 
 ## Question 3
 
@@ -109,20 +109,20 @@ God does not look at your forms and your possessions, but he looks at your heart
 
 ## Answers and mark guidance
 
-**How this paper is marked.** Cambridge marks each part by levels of response (syllabus section 4.2). Part (a) tests knowledge (AO1): in Question 1, Level 4 = 4, Level 3 = 3, Level 2 = 2, Level 1 = 1; in Questions 2–5, Level 4 = 8–10, Level 3 = 5–7, Level 2 = 3–4, Level 1 = 1–2. Part (b) tests understanding (AO2): Level 2 = 3–4, Level 1 = 1–2. In Question 1, the two Hadiths chosen are read together and given one mark for (a) and one mark for (b).
+**How this paper is marked.** Cambridge marks each part by levels of response (syllabus section 4.2). Part (a) tests knowledge (AO1): in Question 1, Level 4 = 4, Level 3 = 3, Level 2 = 2, Level 1 = 1; in Questions 2–5, Level 4 = 8–10, Level 3 = 5–7, Level 2 = 3–4, Level 1 = 1–2. Part (b) tests understanding (AO2): Level 2 = 3–4, Level 1 = 1–2. In Question 1, the two Hadith chosen are read together and given one mark for (a) and one mark for (b).
 
 The credit guides below turn this into points you can check your own answer against. Each bracketed figure is one accurate, relevant point developed to the stated depth, and **every guide is capped at the tariff of its part**. Where a guide lists more points than are needed, every listed point carries the same credit, so it does not matter which ones you choose; other valid points of the same quality earn the same credit.
 
 ### Question 1
 
-**(a) [4]** — for **each** of the two chosen Hadiths: the central teaching correctly stated **[1]**, and developed with a link to belief or to a supporting verse or Hadith **[1]**. Two Hadiths × 2 = 4.
+**(a) [4]** — for **each** of the two chosen Hadith: the central teaching correctly stated **[1]**, and developed with a link to belief or to a supporting verse or Hadith **[1]**. Two Hadith × 2 = 4.
 
 - **(i)** True faith is shown in wanting good for others as much as for oneself [1]; selfishness and envy weaken faith, and Muslims form one brotherhood, as the Qur'an says, "The believers are but a single brotherhood" (Sura 49.10) [1].
 - **(ii)** Earning a lawful living by one's own effort is honourable and blessed [1]; the full narration in al-Bukhari adds that the Prophet Dawud ate from the work of his own hands, and the Prophet (pbuh) worked as a shepherd and a trader, so work is part of faith, not opposed to it [1].
 - **(iii)** This world is temporary and is a place of test for the believer, who restrains desires to obey God [1]; the lasting reward is in the hereafter, whereas someone who lives only for this world has nothing beyond it [1].
 - **(iv)** God judges people by their intentions and actions, not by appearance, wealth or status [1]; this matches the Qur'an's teaching that "the most honoured of you in the sight of God is the most righteous" (Sura 49.13) [1].
 
-**(b) [4]** — for **each** of the two chosen Hadiths, one practical action explained **[2]**. Two Hadiths × 2 = 4. For example:
+**(b) [4]** — for **each** of the two chosen Hadith, one practical action explained **[2]**. Two Hadith × 2 = 4. For example:
 
 - **(i)** Sharing with people in need, helping a classmate or colleague succeed rather than competing unfairly, and treating others as one would like to be treated, for example by giving fair prices and honest advice [2].
 - **(ii)** Studying and working diligently rather than depending on others without need, earning only by lawful means, and treating paid work as worship when it is done honestly [2].
@@ -133,19 +133,19 @@ The credit guides below turn this into points you can check your own answer agai
 
 **(a) [10]** — each accurate, developed point **[2]**; credit the **best five** (maximum 10).
 
-- In the Prophet's (pbuh) lifetime, the Companions **memorised** his words and actions and passed them on; at first writing Hadiths was discouraged so that they would not be confused with the Qur'an, but some Companions were allowed to write, such as **Abdullah ibn Amr**, whose collection was called al-Sahifa al-Sadiqa [2].
-- After his death, Companions such as **Abu Hurayra, A'isha, Abdullah ibn Umar (RA), Anas ibn Malik and Abdullah ibn Abbas** narrated large numbers of Hadiths, and their students (the Successors) travelled to collect them [2].
+- In the Prophet's (pbuh) lifetime, the Companions **memorised** his words and actions and passed them on; at first writing Hadith was discouraged so that they would not be confused with the Qur'an, but some Companions were allowed to write, such as **Abdullah ibn Amr**, whose collection was called al-Sahifa al-Sadiqa [2].
+- After his death, Companions such as **Abu Hurayra, A'isha, Abdullah ibn Umar (RA), Anas ibn Malik and Abdullah ibn Abbas** narrated large numbers of Hadith, and their students (the Successors) travelled to collect them [2].
 - Reasons for writing them down grew: many Companions were dying, Islam was spreading among people who had never met the Prophet (pbuh), and some people began to **invent sayings** to support political or sectarian views [2].
-- The Umayyad caliph **Umar ibn Abd al-Aziz** ordered scholars, including **Ibn Shihab al-Zuhri**, to collect the Hadiths officially [2].
-- **Musannaf** collections arranged Hadiths by subject, such as prayer or trade; the best known early one is the **Muwatta of Imam Malik**, which also includes the practice of the people of Madina and the opinions of Companions [2].
-- **Musnad** collections arranged Hadiths under the name of the Companion who narrated them; the most famous is the **Musnad of Ahmad ibn Hanbal**, containing many thousands of Hadiths [2].
+- The Umayyad caliph **Umar ibn Abd al-Aziz** ordered scholars, including **Ibn Shihab al-Zuhri**, to collect the Hadith officially [2].
+- **Musannaf** collections arranged Hadith by subject, such as prayer or trade; the best known early one is the **Muwatta of Imam Malik**, which also includes the practice of the people of Madina and the opinions of Companions [2].
+- **Musnad** collections arranged Hadith under the name of the Companion who narrated them; the most famous is the **Musnad of Ahmad ibn Hanbal**, containing many thousands of Hadith [2].
 - Because a musnad was hard to use for finding rulings on a subject, later scholars produced collections arranged by subject that included only reports they judged reliable, leading to the **six Sunni collections**, such as those of al-Bukhari and Muslim, and the **four Shi'a collections**, such as al-Kafi of al-Kulayni [2].
 
 **(b) [4]** — each reasoned point **[2]**; credit the **best two** (maximum 4).
 
-- The Qur'an often gives commands in general terms, and the Hadiths explain how to carry them out; for example the Qur'an commands prayer, but the Hadiths show its times, movements and number of units [2].
-- The Qur'an itself tells Muslims to obey the Messenger and follow his example (Sura 33.21), so the Hadiths are needed to know what that example is [2].
-- The Hadiths are the second source of law after the Qur'an, and scholars use them before turning to consensus (ijma') and analogy (qiyas) for new questions [2].
+- The Qur'an often gives commands in general terms, and the Hadith explain how to carry them out; for example the Qur'an commands prayer, but the Hadith show its times, movements and number of units [2].
+- The Qur'an itself tells Muslims to obey the Messenger and follow his example (Sura 33.21), so the Hadith are needed to know what that example is [2].
+- The Hadith are the second source of law after the Qur'an, and scholars use them before turning to consensus (ijma') and analogy (qiyas) for new questions [2].
 
 ### Question 3
 
@@ -216,7 +216,7 @@ The credit guides below turn this into points you can check your own answer agai
 Paper 2 lasts 1 hour 30 minutes and is worth 50 marks (50%). It has five questions: Questions 1 and 2 are compulsory and you choose two of Questions 3 to 5. Question 1 is worth 8 marks (4 + 4) and each other answered question 14 marks (10 + 4).
 
 **How is Question 1 answered?**
-Choose two of the set Hadiths; part (a) explains their teaching and part (b) how Muslims can put it into practice.
+Choose two of the set Hadith; part (a) explains their teaching and part (b) how Muslims can put it into practice.
 
 **Are these real Cambridge questions?**
 No. They are original questions in the published format and tariffs; use them alongside past papers.

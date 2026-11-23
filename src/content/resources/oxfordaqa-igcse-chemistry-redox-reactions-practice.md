@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International GCSE Chemistry: Redox reactions (9202) -- Practice Questions"
+title: "OxfordAQA IGCSE Chemistry: Redox reactions (9202) -- Practice Questions"
 seoTitle: "OxfordAQA IGCSE Chemistry Redox Reactions Practice"
 resourceType: "practice-questions"
 subject: "chemistry"

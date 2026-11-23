@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International GCSE Chemistry: Factors affecting equilibrium, and production of ammonia and sulfuric acid (9202) -- Revision Notes"
+title: "OxfordAQA IGCSE Chemistry: Factors affecting equilibrium, and production of ammonia and sulfuric acid (9202) -- Revision Notes"
 seoTitle: "OxfordAQA IGCSE Chemistry (9202) Equilibrium and Haber Notes"
 resourceType: "revision-notes"
 subject: "chemistry"

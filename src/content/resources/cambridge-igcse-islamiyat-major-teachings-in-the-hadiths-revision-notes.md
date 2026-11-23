@@ -1,6 +1,6 @@
 ---
-title: "Cambridge IGCSE Islamiyat: Major Teachings in the Hadiths — Revision Notes (0493)"
-seoTitle: "Cambridge IGCSE Islamiyat Major Teachings in Hadiths Notes"
+title: "Cambridge IGCSE Islamiyat: Major Teachings in the Hadith — Revision Notes (0493)"
+seoTitle: "Cambridge IGCSE Islamiyat Major Teachings in Hadith Notes"
 resourceType: "revision-notes"
 subject: "islamiyat"
 level: ["igcse"]
@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-0493"
     subtopic: "major-teachings-hadiths-0493"
-description: "One-line teaching and application for each of the 20 set Hadiths in Cambridge IGCSE Islamiyat 0493 Paper 2, with linked Qur'an verses and a worked answer."
+description: "One-line teaching and application for each of the 20 set Hadith in Cambridge IGCSE Islamiyat 0493 Paper 2, with linked Qur'an verses and a worked answer."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
@@ -25,19 +25,19 @@ reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page
 ---
 
 **These revision notes condense Paper 2 Question 1 of Cambridge IGCSE Islamiyat 0493, Major
-Teachings in the Hadiths of the Prophet (pbuh).** For each of the twenty set Hadiths you get a short label
+Teachings in the Hadith of the Prophet (pbuh).** For each of the twenty set Hadith you get a short label
 to recognise it, its core teaching, and a practical application for Muslims today, which are the
 two things every answer must contain.
 
 ## Syllabus coverage
 
-**0493 Paper 2, Topic 1 (2026–2027 syllabus):** twenty Hadiths from the Sahih collections of
+**0493 Paper 2, Topic 1 (2026–2027 syllabus):** twenty Hadith from the Sahih collections of
 al-Bukhari and Muslim, in two groups (individual conduct; life in the community). Four are set; you
 answer on two (8 marks), explaining what they teach about belief and action.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-major-teachings-in-the-hadiths--01-theme-map-of-set-hadiths.webp" width="900" height="742" alt="Two lists of key phrases. Individual conduct has nine Hadiths, from &quot;Religion is sincerity&quot; to &quot;Allah looks at hearts and deeds&quot;. Life in the community has eleven, from wanting for your brother what you want for yourself to &quot;the believers are like a single man&quot;." loading="lazy">
-  <figcaption>Nine Hadiths on individual conduct and eleven on life in the community.</figcaption>
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-major-teachings-in-the-hadiths--01-theme-map-of-set-hadiths.webp" width="900" height="742" alt="Two lists of key phrases. Individual conduct has nine Hadith, from &quot;Religion is sincerity&quot; to &quot;Allah looks at hearts and deeds&quot;. Life in the community has eleven, from wanting for your brother what you want for yourself to &quot;the believers are like a single man&quot;." loading="lazy">
+  <figcaption>Nine Hadith on individual conduct and eleven on life in the community.</figcaption>
 </figure>
 
 ## Quick-reference table
@@ -111,12 +111,12 @@ teaching that the believers are one brotherhood (49.10).
 
 - **Translating, not explaining.** Repeating the English text earns little; explain what it means.
 - **Weak applications.** "Muslims should follow this Hadith" is not an application; give an action.
-- **Mixing up similar Hadiths.** The widow-and-poor Hadith and the orphan Hadith teach related but distinct points.
+- **Mixing up similar Hadith.** The widow-and-poor Hadith and the orphan Hadith teach related but distinct points.
 - **Running out of time.** This question is 8 marks; keep answers focused so you have time for the 14-mark questions.
 
 ## How is this topic examined?
 
-In Cambridge IGCSE 0493 Paper 2 (1 hour 30 minutes, 50 marks), the set Hadiths is examined by Question 1, which is compulsory: you choose two of the Hadiths printed and answer part (a) on their teaching (4 marks) and part (b) on how Muslims apply them (4 marks). Each answer has a knowledge part and a shorter part asking for understanding or significance, so revise every point with a reason why it matters to Muslims, not just the facts.
+In Cambridge IGCSE 0493 Paper 2 (1 hour 30 minutes, 50 marks), the set Hadith is examined by Question 1, which is compulsory: you choose two of the Hadith printed and answer part (a) on their teaching (4 marks) and part (b) on how Muslims apply them (4 marks). Each answer has a knowledge part and a shorter part asking for understanding or significance, so revise every point with a reason why it matters to Muslims, not just the facts.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-major-teachings-in-the-hadiths--02-hadith-answer-structure.webp" width="900" height="700" alt="Four passages are printed and you choose two, writing two paragraphs on each. Paragraph one explains the teaching in your own words with its key phrase; paragraph two applies it today with a concrete example and a supporting verse or Hadith. A final box gives the test: could the example only apply to this Hadith?" loading="lazy">
@@ -125,17 +125,17 @@ In Cambridge IGCSE 0493 Paper 2 (1 hour 30 minutes, 50 marks), the set Hadiths i
 
 ## Frequently asked questions
 
-**Is it acceptable to use the same application for two Hadiths?**
+**Is it acceptable to use the same application for two Hadith?**
 Avoid it. Each answer should show
 the particular teaching of that Hadith.
 
 **Should I mention the narrator or collection?**
 It is not required for marks, but you can note that
-the syllabus Hadiths come from al-Bukhari or Muslim.
+the syllabus Hadith come from al-Bukhari or Muslim.
 
 ## Related pages
 
-- [Major Teachings in the Hadiths study guide](/resources/cambridge-igcse-islamiyat-major-teachings-in-the-hadiths/)
+- [Major Teachings in the Hadith study guide](/resources/cambridge-igcse-islamiyat-major-teachings-in-the-hadiths/)
 - [Paper 2 revision notes](/resources/igcse-cambridge-islamiyat-paper-2-revision-notes/)
 - [Paper 2 practice questions](/resources/islamiyat-paper-2-practice/)
 

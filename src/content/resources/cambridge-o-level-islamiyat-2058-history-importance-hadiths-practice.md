@@ -1,5 +1,5 @@
 ---
-title: "Cambridge O Level Islamiyat (2058): The History and Importance of the Hadiths — Practice Questions"
+title: "Cambridge O Level Islamiyat (2058): The History and Importance of the Hadith — Practice Questions"
 resourceType: "practice-questions"
 subject: "islamiyat"
 level: ["o-levels"]
@@ -27,7 +27,7 @@ featured: false
 > examination boards hold copyright in their own papers. Use these alongside
 > the official past papers available free from your board.
 
-Related: [History and Importance of the Hadiths study guide](/resources/cambridge-o-level-islamiyat-2058-history-importance-hadiths/), [History and Importance of the Hadiths revision notes](/resources/cambridge-o-level-islamiyat-history-and-importance-of-the-hadiths-revision-notes/)
+Related: [History and Importance of the Hadith study guide](/resources/cambridge-o-level-islamiyat-2058-history-importance-hadiths/), [History and Importance of the Hadith revision notes](/resources/cambridge-o-level-islamiyat-history-and-importance-of-the-hadiths-revision-notes/)
 
 ---
 
@@ -55,7 +55,7 @@ each. **[4]**
 
 ## Section B — Exam-style questions
 
-**8. (a)** Describe how the Hadiths were preserved and collected from the Prophet's (pbuh) lifetime to the
+**8. (a)** Describe how the Hadith were preserved and collected from the Prophet's (pbuh) lifetime to the
 time of Umar ibn Abd al-Aziz. **[10]**
 **(b)** Explain why the early written collections were important for later compilers. **[4]**
 
@@ -63,7 +63,7 @@ time of Umar ibn Abd al-Aziz. **[10]**
 **(b)** Why do Sunni Muslims give the two Sahih collections a higher status than the Sunan? **[4]**
 
 **10. (a)** Describe the four Shi'a collections of Hadith and their compilers. **[10]**
-**(b)** Explain why Shi'a scholars give special weight to Hadiths narrated through the Prophet's (pbuh)
+**(b)** Explain why Shi'a scholars give special weight to Hadith narrated through the Prophet's (pbuh)
 family and the Imams. **[4]**
 
 **11. (a)** Describe the methods scholars used to test the isnad and the matn of a Hadith. **[10]**
@@ -88,7 +88,7 @@ noting what he saw or heard and approved without objection [1].
 Prophet's permission; the sahifa of Hammam ibn Munabbih, from his teacher Abu Hurayra; the sheet kept
 by Ali (RA) with rulings such as those on blood money and captives. Maximum 4.
 
-**4.** He ordered governors and scholars to write down the Hadiths [1], because many who had learned
+**4.** He ordered governors and scholars to write down the Hadith [1], because many who had learned
 them were dying and he feared the knowledge would be lost [1]; scholars such as Ibn Shihab al-Zuhri
 carried out the work [1].
 
@@ -107,35 +107,35 @@ Mawdu' means fabricated: falsely attributed to the Prophet (pbuh) and rejected [
 - Some wrote with permission, such as Abdullah ibn Amr's al-Sahifa al-Sadiqa; writing was limited at
   first, reportedly so it would not be confused with the Qur'an [2].
 - After 632 Companions taught in new centres such as Kufa, Basra and Damascus; Abu Hurayra, Aisha (RA),
-  Ibn Umar (RA), Anas and Ibn Abbas narrated many Hadiths [2].
+  Ibn Umar (RA), Anas and Ibn Abbas narrated many Hadith [2].
 - Abu Bakr (RA) and Umar (RA) were cautious, and Umar (RA) asked for a witness to a Hadith to show reports must be
   checked [2].
-- The tabi'un travelled to collect Hadiths, and sahifas such as that of Hammam ibn Munabbih
+- The tabi'un travelled to collect Hadith, and sahifas such as that of Hammam ibn Munabbih
   circulated [2].
 - Umar ibn Abd al-Aziz (717–720) ordered official written collection, with scholars including al-Zuhri
   [2].
 **(b)** Credit the best two, [2] each:
 - They were written close to the source, so later compilers could compare them with oral reports and
   check wording [2].
-- They showed that Hadiths had been written down from the first generation, answering claims that
+- They showed that Hadith had been written down from the first generation, answering claims that
   everything relied only on memory [2].
 - Their material was absorbed into later works, such as the Musnad of Ahmad ibn Hanbal, which
   includes Hammam's narrations [2].
 
 **9. (a)** Credit the best five, [2] each:
-- A sunan collection concentrates on Hadiths with legal rulings, arranged by subject from
+- A sunan collection concentrates on Hadith with legal rulings, arranged by subject from
   purification to trade and inheritance [2].
-- Abu Dawud's Sunan gathers Hadiths used by jurists, and he noted where a Hadith had a weakness [2].
-- Al-Tirmidhi's Jami' comments on the grade of many Hadiths and records which scholars acted on them,
+- Abu Dawud's Sunan gathers Hadith used by jurists, and he noted where a Hadith had a weakness [2].
+- Al-Tirmidhi's Jami' comments on the grade of many Hadith and records which scholars acted on them,
   so it is valued for comparing legal opinions [2].
 - Al-Nasa'i's Sunan is known for strict judgement of narrators, and is often placed closest to the two
   Sahihs [2].
-- Ibn Majah's Sunan includes many Hadiths found in none of the other five, which made it valuable,
+- Ibn Majah's Sunan includes many Hadith found in none of the other five, which made it valuable,
   though it contains more weak reports [2].
-- Unlike the two Sahihs, the Sunan include some hasan and da'if Hadiths, often with the compiler's
+- Unlike the two Sahihs, the Sunan include some hasan and da'if Hadith, often with the compiler's
   note on their status [2].
 **(b)** Credit the best two, [2] each:
-- Al-Bukhari and Muslim accepted only Hadiths meeting the strictest conditions of narrator
+- Al-Bukhari and Muslim accepted only Hadith meeting the strictest conditions of narrator
   reliability and continuity, while the Sunan include some weaker reports [2].
 - Later scholars examined the two Sahihs in great detail and their agreement on most contents
   strengthened confidence; they are called the most reliable books after the Qur'an [2].
@@ -169,11 +169,11 @@ Mawdu' means fabricated: falsely attributed to the Prophet (pbuh) and rejected [
   facts [2].
 - Its language had to fit the Prophet's (pbuh) style; exaggerated promises of huge rewards for small acts
   were warning signs [2].
-- Hadiths were then graded sahih, hasan, da'if or mawdu' [2].
+- Hadith were then graded sahih, hasan, da'if or mawdu' [2].
 **(b)** Credit the best two, [2] each:
-- After the Prophet's (pbuh) death some people invented Hadiths for political, sectarian or personal reasons,
+- After the Prophet's (pbuh) death some people invented Hadith for political, sectarian or personal reasons,
   so false reports had to be separated from true ones [2].
-- Hadiths are a source of law, so a false Hadith could lead to wrong rulings on worship or rights [2].
+- Hadith are a source of law, so a false Hadith could lead to wrong rulings on worship or rights [2].
 - Testing protected the Prophet's (pbuh) words from distortion, as he warned against lying about him [2].
 
 ---
@@ -189,6 +189,6 @@ Mawdu' means fabricated: falsely attributed to the Prophet (pbuh) and rejected [
 **How much do I need to know about each compiler?**
 Their name, their collection and its main features: arrangement, strictness and purpose.
 
-**Is the importance of the Hadiths asked in part (a) as well?**
+**Is the importance of the Hadith asked in part (a) as well?**
 It can be. If part (a) asks you to describe their use in law, give examples of how a Hadith details a
 Qur'anic command.

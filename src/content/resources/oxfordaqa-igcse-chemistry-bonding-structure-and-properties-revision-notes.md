@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International GCSE Chemistry: How bonding and structure are related to the properties of substances (9202) -- Revision Notes"
+title: "OxfordAQA IGCSE Chemistry: How bonding and structure are related to the properties of substances (9202) -- Revision Notes"
 seoTitle: "OxfordAQA IGCSE Chem 9202 Structure and Properties Notes"
 resourceType: "revision-notes"
 subject: "chemistry"

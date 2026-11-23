@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International GCSE Chemistry: Carbon compounds as fuels (9202) -- Practice Questions"
+title: "OxfordAQA IGCSE Chemistry: Carbon compounds as fuels (9202) -- Practice Questions"
 seoTitle: "OxfordAQA IGCSE Chem (9202) Fuels and Crude Oil Practice"
 resourceType: "practice-questions"
 subject: "chemistry"

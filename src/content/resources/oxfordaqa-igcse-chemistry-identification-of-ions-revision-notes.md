@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International GCSE Chemistry: Identification of ions (9202) -- Revision Notes"
+title: "OxfordAQA IGCSE Chemistry: Identification of ions (9202) -- Revision Notes"
 seoTitle: "OxfordAQA IGCSE Chemistry (9202) Ion Tests Revision Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
