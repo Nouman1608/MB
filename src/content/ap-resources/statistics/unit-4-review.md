@@ -2,7 +2,7 @@
 resourceId: "mb-ap-stats-u4-review"
 title: "Inference for Quantitative Data: Means: Mixed Unit Review (Statistics Unit 4)"
 seoTitle: "Statistics Unit 4 Inference for Means Mixed Unit Review"
-description: "Unit 4 review for AP Statistics: big ideas, a method summary and seven original exam-style questions, with worked solutions and suggested rubrics."
+description: "Unit 4 review for Statistics: big ideas, a method summary and seven original exam-style questions, with worked solutions and suggested rubrics."
 course: "statistics"
 unit: 4
 topics: []
