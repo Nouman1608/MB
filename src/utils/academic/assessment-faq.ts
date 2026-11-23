@@ -24,6 +24,35 @@
  */
 import type { Assessment, AssessmentComponent } from '../../data/academic/assessments.ts';
 
+/**
+ * P4 (audit Nov 2026): true when a component's title is, or starts with, its own paper
+ * code ("Paper 1" / "Paper 1 Reading"), so the code must not be printed a second time.
+ */
+export function titleRepeatsCode(paperCode: string, title: string): boolean {
+  const code = paperCode.trim().toLowerCase();
+  const t = title.trim();
+  if (!code || !t) return false;
+  const lower = t.toLowerCase();
+  return lower === code || (lower.startsWith(code) && /^[\s:\-–—(]/.test(t.slice(code.length)));
+}
+
+/**
+ * First-assessment text with the optional clarifying note (field `firstAssessmentNote`, added by the
+ * syllabus-updates work for OxfordAQA 9725: AS 2027, full A Level 2028). Read through a cast so this file
+ * compiles whether or not the field is on the Assessment type in the tree it is merged into.
+ */
+export function firstAssessmentText(a: { firstAssessment: string }): string {
+  const note = (a as { firstAssessmentNote?: string }).firstAssessmentNote;
+  return note ? `${a.firstAssessment} (${note})` : a.firstAssessment;
+}
+
+/** Label for one assessment component: code and title shown once (P4). */
+export function componentLabel(paperCode: string, title: string): string {
+  if (!title.trim()) return paperCode.trim();
+  if (!paperCode.trim()) return title.trim();
+  return titleRepeatsCode(paperCode, title) ? title.trim() : `${paperCode.trim()}: ${title.trim()}`;
+}
+
 export const TIER_LABEL: Record<string, string> = {
   'not-tiered': '',
   core: 'Core',
@@ -81,7 +110,7 @@ export function assessmentAnswer(a: Assessment, ctx: { courseLabel: string; boar
       : 'no fixed duration';
     // D-455: an unconfirmed total is said so, never shown as a number.
     const marks = comp.marks === null ? 'mark total not confirmed' : `${comp.marks} marks`;
-    return `${comp.paperCode} (${comp.title}) — ${dur}, ${marks}, ${weightingProse(comp)}`;
+    return `${titleRepeatsCode(comp.paperCode, comp.title) ? comp.title.trim() : `${comp.paperCode} (${comp.title})`} — ${dur}, ${marks}, ${weightingProse(comp)}`;
   };
   const describeComponents = (comps: readonly AssessmentComponent[]): string => {
     const seen = new Set<string>();

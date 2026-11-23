@@ -20,8 +20,8 @@
  */
 import type { CollectionEntry } from 'astro:content';
 import type { Combination } from '../../data/academic/matrix';
-import { subjectBySlug } from '../../data/academic/subjects';
-import { LEVEL_FOR_QUALIFICATION } from './index';
+import { subjectBySlug } from '../../data/academic/subjects.ts';
+import { LEVEL_FOR_QUALIFICATION } from './index.ts';
 import { normaliseCode, codeMatches } from './syllabus-codes.ts';
 import { courseCodes } from './course-codes.ts';
 
