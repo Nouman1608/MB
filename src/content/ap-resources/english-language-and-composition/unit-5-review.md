@@ -2,7 +2,7 @@
 resourceId: mb-ap-englang-u5-review
 title: 'Coherence, Transitions and Word Choice: Mixed Unit Review (English Language Unit 5)'
 seoTitle: "English Language Unit 5 Coherence and Transitions Review"
-description: Big ideas, a one-table method summary and seven original exam-style questions that each combine two or more Unit 5 topics, with worked answers and suggested rubrics.
+description: "Unit 5 review for AP English Language: big ideas, a method summary and seven original exam-style questions, with worked answers and suggested rubrics."
 course: english-language-and-composition
 unit: 5
 topics: []
