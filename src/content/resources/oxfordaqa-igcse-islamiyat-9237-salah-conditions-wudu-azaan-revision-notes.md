@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New skill-unit page: please ask an Islamiyat teacher to check the Wudu steps, Azaan wording, concessions, school differences and self-test answers before sign-off."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New skill-unit page: please ask an Islamiyat teacher to check the Wudu steps, Azaan wording, concessions, school differences and self-test answers before sign-off. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -47,7 +47,7 @@ featured: false
 Total: **17 fard rak'ahs** a day. Evidence: "a decree of specified times" (4:103).
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-salah-conditions-wudu-azaan--02-prayer-times.webp" width="900" height="757" alt="A schematic day with the sun’s path from sunrise to sunset and the five prayer periods: Fajr from true dawn to sunrise, Zuhr after the sun’s highest point, Asr from mid-afternoon, Maghrib after sunset and Isha from nightfall. A table gives when each begins and ends and its fard rak’ahs: 2, 4, 4, 3 and 4." loading="lazy">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-salah-conditions-wudu-azaan--02-prayer-times.webp" width="900" height="757" alt="A schematic day with the sun's path from sunrise to sunset and the five prayer periods: Fajr from true dawn to sunrise, Zuhr after the sun's highest point, Asr from mid-afternoon, Maghrib after sunset and Isha from nightfall. A table gives when each begins and ends and its fard rak'ahs: 2, 4, 4, 3 and 4." loading="lazy">
   <figcaption>Fixed times mean a Muslim never goes long without remembering Allah.</figcaption>
 </figure>
 
@@ -61,8 +61,8 @@ Niyyah and Bismillah → hands ×3 → mouth ×3 → nose ×3 → face ×3 → a
 - **Tayammum** if no water or water would harm (5:6).
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-salah-conditions-wudu-azaan--03-wudu-steps.webp" width="900" height="576" alt="Eight numbered steps of Wudu: intention and Bismillah, washing the hands, rinsing the mouth and nose, washing the face, each arm to the elbow, wiping the head, and washing each foot to the ankle, most three times. The face, arms, head and feet are highlighted as the obligatory parts named in Qur’an 5:6." loading="lazy">
-  <figcaption>Four parts are commanded in Qur’an 5:6; the rest follow the Sunnah.</figcaption>
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-salah-conditions-wudu-azaan--03-wudu-steps.webp" width="900" height="576" alt="Eight numbered steps of Wudu: intention and Bismillah, washing the hands, rinsing the mouth and nose, washing the face, each arm to the elbow, wiping the head, and washing each foot to the ankle, most three times. The face, arms, head and feet are highlighted as the obligatory parts named in Qur'an 5:6." loading="lazy">
+  <figcaption>Four parts are commanded in Qur'an 5:6; the rest follow the Sunnah.</figcaption>
 </figure>
 
 <figure class="topic-figure">
@@ -80,7 +80,7 @@ Niyyah and Bismillah → hands ×3 → mouth ×3 → nose ×3 → face ×3 → a
 - First muezzin: **Bilal (RA)**.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-salah-conditions-wudu-azaan--05-azaan.webp" width="900" height="764" alt="The Sunni wording of the Azaan in transliteration with English and the number of repetitions: Allahu Akbar four times; the two lines of the Shahadah twice each; come to prayer and come to success twice each; Allahu Akbar twice; and La ilaha illallah once. Below: the Fajr addition, the Shi’a addition and the Iqamah." loading="lazy">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-salah-conditions-wudu-azaan--05-azaan.webp" width="900" height="764" alt="The Sunni wording of the Azaan in transliteration with English and the number of repetitions: Allahu Akbar four times; the two lines of the Shahadah twice each; come to prayer and come to success twice each; Allahu Akbar twice; and La ilaha illallah once. Below: the Fajr addition, the Shi'a addition and the Iqamah." loading="lazy">
   <figcaption>The Azaan contains the Shahadah, announcing Tawhid publicly five times a day.</figcaption>
 </figure>
 
@@ -89,8 +89,8 @@ Niyyah and Bismillah → hands ×3 → mouth ×3 → nose ×3 → face ×3 → a
 Takbir → qiyam with **al-Fatiha** (+ another passage in the first two rak'ahs) → ruku (*Subhana Rabbiyal Azeem*) → stand → sujood (*Subhana Rabbiyal A'la*) twice → sit. End: tashahhud → blessings on the Prophet (pbuh) → salam right and left.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-salah-conditions-wudu-azaan--06-rakah-pattern.webp" width="900" height="765" alt="Five stages of each rak’ah in order: standing and reciting al-Fatiha, bowing, standing again, two prostrations and sitting, with the words said in bowing and prostration. The prayer ends with the tashahhud, blessings on the Prophet (pbuh) and the salam." loading="lazy">
-  <figcaption>Every rak’ah follows the same pattern, recited in Arabic.</figcaption>
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-salah-conditions-wudu-azaan--06-rakah-pattern.webp" width="900" height="765" alt="Five stages of each rak'ah in order: standing and reciting al-Fatiha, bowing, standing again, two prostrations and sitting, with the words said in bowing and prostration. The prayer ends with the tashahhud, blessings on the Prophet (pbuh) and the salam." loading="lazy">
+  <figcaption>Every rak'ah follows the same pattern, recited in Arabic.</figcaption>
 </figure>
 
 ## Concessions
@@ -106,7 +106,7 @@ Takbir → qiyam with **al-Fatiha** (+ another passage in the first two rak'ahs)
 **Principle:** "Allah intends for you ease and does not intend for you hardship" (2:185).
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-salah-conditions-wudu-azaan--07-concessions.webp" width="900" height="705" alt="Five situations with their concession and source: travellers shorten four-rak’ah prayers (4:101), the ill pray sitting or lying down, Tayammum replaces water (5:6), a shortened form in danger (4:102), and women during menstruation or post-natal bleeding are excused. The principle is ease, not hardship (2:185)." loading="lazy">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-salah-conditions-wudu-azaan--07-concessions.webp" width="900" height="705" alt="Five situations with their concession and source: travellers shorten four-rak'ah prayers (4:101), the ill pray sitting or lying down, Tayammum replaces water (5:6), a shortened form in danger (4:102), and women during menstruation or post-natal bleeding are excused. The principle is ease, not hardship (2:185)." loading="lazy">
   <figcaption>Concessions change how Muslims pray, not whether they pray.</figcaption>
 </figure>
 

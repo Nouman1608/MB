@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Proof, factor theorem and circles (YMA01) -- Practice Questions"
+title: "Pearson Edexcel International A Level Mathematics: Proof, factor theorem and circles (YMA01) -- Practice Questions"
 seoTitle: "Edexcel IAL Maths P2 Proof, Factor, Circles Practice"
 resourceType: "practice-questions"
 subject: "mathematics"
@@ -196,7 +196,7 @@ Find the gradient of the radius to the point of contact, then take its negative 
 
 - Re-read the [revision notes](/resources/edexcel-ial-mathematics-proof-the-factor-and-remainder-theorems-and-the-revision-notes/) for the methods behind the questions you missed.
 - Work back through the [study guide](/resources/edexcel-ial-mathematics-proof-the-factor-and-remainder-theorems-and-the/).
-- Use the [Edexcel A Level Mathematics hub](/boards/edexcel/a-level/mathematics/) and the [checklist](/checklists/edexcel/a-level/mathematics/) to plan which unit to revise next.
+- Use the [Pearson Edexcel International A Level Mathematics hub](/boards/edexcel/a-level/mathematics/) and the [checklist](/checklists/edexcel/a-level/mathematics/) to plan which unit to revise next.
 - Take the [free diagnostics](/diagnostics/) when you want a quick check on another topic.
 - Book a free trial class: [/trial/](/trial/).
 

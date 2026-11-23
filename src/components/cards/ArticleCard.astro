@@ -2,11 +2,12 @@
 import type { CollectionEntry } from 'astro:content';
 import { formatDate } from '../../utils/content/collections';
 import { routes } from '../../utils/urls/routes';
+import { articleCategoryLabel } from '../../utils/content/article-category';
 
 interface Props { entry: CollectionEntry<'articles'> }
 const { entry } = Astro.props;
 const { title, excerpt, publishedDate, category } = entry.data;
-const categoryLabel = category.replace(/-/g, ' ');
+const categoryLabel = articleCategoryLabel(category);
 ---
 <a href={routes.article(entry.id)} class="flex h-full flex-col gap-3 rounded-sm border border-rule bg-white p-[clamp(22px,2.2vw,30px)] transition-colors duration-150 hover:border-teal-500">
   <p class="m-0 mb-label text-teal-700">{categoryLabel}</p>

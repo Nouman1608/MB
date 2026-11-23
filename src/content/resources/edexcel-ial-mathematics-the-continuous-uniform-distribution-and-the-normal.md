@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Continuous uniform and Normal approximations (YMA01)"
+title: "Pearson Edexcel International A Level Mathematics: Continuous uniform and Normal approximations (YMA01)"
 seoTitle: "Edexcel IAL Maths S2 Uniform and Normal Approx Guide"
 resourceType: "study-guides"
 subject: "mathematics"

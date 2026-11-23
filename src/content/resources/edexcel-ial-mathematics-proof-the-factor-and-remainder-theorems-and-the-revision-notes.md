@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Proof, factor theorem and circles (YMA01) -- Revision Notes"
+title: "Pearson Edexcel International A Level Mathematics: Proof, factor theorem and circles (YMA01) -- Revision Notes"
 seoTitle: "Edexcel IAL Maths P2 Proof, Factor, Circles Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics"
@@ -31,7 +31,7 @@ reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379).
 ---
 These notes condense P2 sections 1.1 to 1.3 (proof), 2.1 (factor and remainder theorems) and 3.1 (the circle) from the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (YMA01), Issue 3, April 2019. Read the [study guide](/resources/edexcel-ial-mathematics-proof-the-factor-and-remainder-theorems-and-the/) for the full explanations, then test yourself with the [practice set](/resources/edexcel-ial-mathematics-proof-the-factor-and-remainder-theorems-and-the-practice/).
 
-Related pages: the [Edexcel A Level Mathematics hub](/boards/edexcel/a-level/mathematics/), the [checklist to print](/checklists/edexcel/a-level/mathematics/), the [free diagnostics](/diagnostics/), the [Pure Mathematics 2 revision notes](/resources/edexcel-a-level-mathematics-pure2-revision-notes/) and [exam preparation advice](/resources/edexcel-ial-mathematics-exam-preparation/).
+Related pages: the [Pearson Edexcel International A Level Mathematics hub](/boards/edexcel/a-level/mathematics/), the [checklist to print](/checklists/edexcel/a-level/mathematics/), the [free diagnostics](/diagnostics/), the [Pure Mathematics 2 revision notes](/resources/edexcel-a-level-mathematics-pure2-revision-notes/) and [exam preparation advice](/resources/edexcel-ial-mathematics-exam-preparation/).
 
 ## Key results
 

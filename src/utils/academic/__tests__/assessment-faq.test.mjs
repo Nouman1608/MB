@@ -66,7 +66,7 @@ test('DP Language A: Language and Literature Paper 2 prints the confirmed 25 mar
   const p2 = s.split('; ').filter((x) => x.includes('Paper 2'));
   assert.ok(p2.length >= 2, 'Paper 2 appears for SL and HL');
   for (const x of p2) { assert.match(x, /\b25 marks\b/); assert.doesNotMatch(x, /mark total not confirmed/); }
-  assert.match(s, /Paper 1 \(Paper 1 -- Guided Textual Analysis\) — 1h 15m, 20 marks/);
+  assert.match(s, /Paper 1 -- Guided Textual Analysis — 1h 15m, 20 marks/);
 });
 
 // D-509: the Literature guide confirms the HL Essay (20) and Individual Oral (40, 15 minutes).
@@ -78,5 +78,17 @@ test('DP Language A: Literature prints the confirmed HL Essay and Individual Ora
     assert.doesNotMatch(x, /mark total not confirmed/);
     assert.match(x, /HL Essay/.test(x) ? /\b20 marks\b/ : /0h 15m, 40 marks\b/);
   }
-  assert.match(s, /Paper 2 \(Paper 2 -- Comparative Essay\) — 1h 45m, 25 marks/);
+  assert.match(s, /Paper 2 -- Comparative Essay — 1h 45m, 25 marks/);
+});
+
+// P4 (audit Nov 2026): "Paper 1: Paper 1" -- the paper name must appear once.
+test('componentLabel shows a paper name once', async () => {
+  const { componentLabel } = await import('../assessment-faq.ts');
+  assert.equal(componentLabel('Paper 1', 'Paper 1'), 'Paper 1');
+  assert.equal(componentLabel('Paper 1', 'Paper 1 Reading'), 'Paper 1 Reading');
+  assert.equal(componentLabel('Paper 1', 'Non-calculator (Core)'), 'Paper 1: Non-calculator (Core)');
+  assert.equal(componentLabel('Paper 1', 'Paper 11 Extra'), 'Paper 1: Paper 11 Extra');
+  for (const a of ASSESSMENTS) for (const c of a.components) {
+    assert.ok(!/(Paper \d+)\b[:\s]+\1\b/i.test(componentLabel(c.paperCode, c.title)), `${a.code} ${c.paperCode}`);
+  }
 });

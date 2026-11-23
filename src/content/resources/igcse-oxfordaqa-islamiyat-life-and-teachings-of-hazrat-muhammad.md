@@ -21,11 +21,11 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 ---
 
 **Life and Teachings of Hazrat Muhammad (pbuh) is topic 3.2.1 of OxfordAQA International GCSE
-Islamiat 9237, examined in Paper 2 Section A (25 marks).** It follows the Prophet's life from the
+Islamiat 9237, examined in Paper 2 Section A (25 marks).** It follows the Prophet's (pbuh) life from the
 society of pre-Islamic Arabia, through his early life, the first revelation and the years of
 preaching and opposition in Makka, to the Hijrah, the Madinan period, the battles and treaties, the
 conquest of Makka and the Farewell Pilgrimage, ending with the lessons of his life for Muslims today.
@@ -76,7 +76,7 @@ reported his honesty; she proposed marriage, and they were married when he was a
 He was known for fair dealing, generosity to the poor and courage.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-life-and-teachings-of-hazrat-muhammad--02-early-life.webp" width="900" height="614" alt="A timeline of the Prophet's early life: his father Abdullah dies before his birth around 570; he is nursed by Halima Sa'diya; his mother Amina dies when he is about six; his grandfather Abdul Muttalib and then his uncle Abu Talib raise him; Bahira advises protecting him; he becomes known as al-Amin and al-Sadiq; and he marries Hazrat Khadija (RA) at about twenty-five." loading="lazy">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-life-and-teachings-of-hazrat-muhammad--02-early-life.webp" width="900" height="614" alt="A timeline of the Prophet's (pbuh) early life: his father Abdullah dies before his birth around 570; he is nursed by Halima Sa'diya; his mother Amina dies when he is about six; his grandfather Abdul Muttalib and then his uncle Abu Talib raise him; Bahira advises protecting him; he becomes known as al-Amin and al-Sadiq; and he marries Hazrat Khadija (RA) at about twenty-five." loading="lazy">
   <figcaption>A succession of carers, then a reputation for honesty that led to his marriage.</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ He was known for fair dealing, generosity to the poor and courage.
 From about the age of forty, the Prophet (pbuh) often withdrew to the **Cave of Hira** near Makka to
 reflect. In 610 CE, during Ramadan, the angel **Jibril (AS)** appeared and commanded "Read!" (Iqra).
 He replied that he could not read; Jibril pressed him three times and then recited the first verses
-of Sura 96, "Read in the name of your Lord who created…". Shaken, he returned home and asked Khadija
+of Sura 96, "Read in the name of your Lord who created…". Shaken, he returned home and asked Khadija (RA)
 to cover him. **Hazrat Khadija (RA)** reassured him that Allah would never disgrace one who was kind
 to relatives, helped the weak and honoured guests, and became the first to accept Islam. She took
 him to her cousin **Waraqa ibn Nawfal**, a Christian scholar, who said that the same angel who had
@@ -98,8 +98,8 @@ come to Musa (AS) had come to him and warned that his people would drive him out
 
 ## How did the early preaching develop?
 
-For about three years he preached **privately**. Early Muslims included Hazrat Khadija, Hazrat Ali,
-Zayd ibn Haritha and Hazrat Abu Bakr (RA), who brought others to Islam. Then came the command to warn
+For about three years he preached **privately**. Early Muslims included Hazrat Khadija (RA), Hazrat Ali (RA),
+Zayd ibn Haritha (RA) and Hazrat Abu Bakr (RA), who brought others to Islam. Then came the command to warn
 his near relatives, and he began **public preaching**, calling the Quraysh from Mount Safa to
 believe in one God. His message was **tawhid**, the rejection of idols, belief in the Day of Judgement
 and care for orphans, the poor and slaves. Islam gave **women** rights to inheritance, property and
@@ -113,9 +113,9 @@ through revelation that came in stages, finally forbidden in Madinah.
 - It challenged loyalty to ancestral religion and tribal custom.
 - Belief in resurrection and judgement was mocked.
 
-Opposition grew from mockery to persecution: weaker Muslims such as Bilal were tortured, and some
+Opposition grew from mockery to persecution: weaker Muslims such as Bilal (RA) were tortured, and some
 Muslims migrated to Abyssinia. The Quraysh imposed a **boycott on Banu Hashim**, confining the clan
-to a valley for about three years with no trade or marriage. In the **Year of Sorrow** both Khadija
+to a valley for about three years with no trade or marriage. In the **Year of Sorrow** both Khadija (RA)
 and Abu Talib died. At **Ta'if** the Prophet (pbuh) was rejected and stoned, yet he prayed for its
 people rather than for their punishment. Finally the Makkan leaders **plotted to kill him**, choosing
 a young man from each clan so that blame would be shared.
@@ -130,22 +130,22 @@ a young man from each clan so that blame would be shared.
 In one night the Prophet (pbuh) was taken from Makka to al-Aqsa in Jerusalem (the Isra, Qur'an 17.1),
 where he led the prophets in prayer, and then ascended through the heavens (the Mi'raj), meeting
 earlier prophets. The **five daily prayers** were made obligatory. When the Quraysh mocked the account,
-Hazrat Abu Bakr (RA) at once affirmed it and was called **al-Siddiq**. The event comforted the Prophet
+Hazrat Abu Bakr (RA) at once affirmed it and was called **al-Siddiq**. The event comforted the Prophet (pbuh)
 after the Year of Sorrow and gave salat its special status.
 
 ## How did the Hijrah take place?
 
-At the **pledges of Aqaba** men from Yathrib promised to worship one God and to protect the Prophet
+At the **pledges of Aqaba** men from Yathrib promised to worship one God and to protect the Prophet (pbuh)
 (pbuh). Muslims began migrating there. On the night of the plot, **Hazrat Ali (RA)** slept in the
-Prophet's bed, while the Prophet left with **Hazrat Abu Bakr (RA)**, who had prepared camels; they
+Prophet's bed, while the Prophet (pbuh) left with **Hazrat Abu Bakr (RA)**, who had prepared camels; they
 hid in the cave of Thawr before travelling to Madinah in 622 CE, the first year of the Islamic
 calendar. In Madinah he stayed with **Hazrat Abu Ayyub Ansari (RA)** while the **Prophet's Mosque**
 was built, after building a mosque at Quba on arrival. He paired each Muhajir with an Ansari as
 brothers, and drew up the **Charter of Madinah**, which made Muslims, Jews and other groups one
-community with shared defence, freedom of religion and the Prophet as final judge in disputes.
+community with shared defence, freedom of religion and the Prophet (pbuh) as final judge in disputes.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-life-and-teachings-of-hazrat-muhammad--05-the-hijrah.webp" width="900" height="712" alt="Four numbered stages: the pledges of Aqaba; the night of the plot, with Hazrat Ali (RA) in the Prophet's bed and Hazrat Abu Bakr (RA) leaving with him; hiding in the cave of Thawr; and arrival in Madinah in 622. Below, the first steps there: the mosque at Quba, staying with Abu Ayyub Ansari, building the Prophet's Mosque, pairing Muhajirun with Ansar and the Charter of Madinah." loading="lazy">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-life-and-teachings-of-hazrat-muhammad--05-the-hijrah.webp" width="900" height="712" alt="Four numbered stages: the pledges of Aqaba; the night of the plot, with Hazrat Ali (RA) in the Prophet's (pbuh) bed and Hazrat Abu Bakr (RA) leaving with him; hiding in the cave of Thawr; and arrival in Madinah in 622. Below, the first steps there: the mosque at Quba, staying with Abu Ayyub Ansari, building the Prophet (pbuh)'s Mosque, pairing Muhajirun with Ansar and the Charter of Madinah." loading="lazy">
   <figcaption>The migration of 622 and the first steps in building a community in Madinah.</figcaption>
 </figure>
 
@@ -160,8 +160,8 @@ at Uhud. **Hazrat Zubair (RA)**, his cousin, was among the first Muslims and a l
 | Event | Date (CE) | Key points | Importance |
 |---|---|---|---|
 | Badr | 624 | About 313 Muslims defeated a much larger Makkan army | Confidence; seen as divine help (Qur'an 3.123) |
-| Uhud | 625 | Archers left their post; Muslims suffered losses; Hamza martyred | Lesson in obedience and discipline |
-| Trench | 627 | Trench dug on Salman al-Farsi's advice; siege by a large alliance failed | Makkan offensive power broken |
+| Uhud | 625 | Archers left their post; Muslims suffered losses; Hamza (RA) martyred | Lesson in obedience and discipline |
+| Trench | 627 | Trench dug on Salman al-Farsi's (RA) advice; siege by a large alliance failed | Makkan offensive power broken |
 | Hudaibiyah | 628 | Ten-year truce; Muslims to make umrah next year; terms seemed unfavourable | Called a "clear victory" (Sura 48); allowed Islam to spread peacefully |
 | Khaibar | 628 | Fortified oasis taken | Security of Madinah's north |
 | Conquest of Makkah | 630 | After the truce was broken, Makkah taken almost without fighting; general amnesty; idols removed from the Ka'ba | Forgiveness; Ka'ba restored to tawhid |
@@ -202,7 +202,7 @@ Madinah, creating one community with mutual defence and religious freedom.
 
 **Why was the conquest of Makkah significant?**
 It ended the Makkan opposition, restored the Ka'ba
-to the worship of one God, and showed the Prophet's mercy through a general amnesty.
+to the worship of one God, and showed the Prophet's (pbuh) mercy through a general amnesty.
 
 ## Related pages
 

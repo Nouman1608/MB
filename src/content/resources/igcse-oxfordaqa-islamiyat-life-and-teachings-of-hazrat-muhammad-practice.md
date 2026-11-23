@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -80,7 +80,7 @@ Ibrahim (AS) [1].
 **1 (c)** Any four: the Prophet (pbuh) was meditating in the cave in Ramadan [1]; the angel Jibril (AS)
 appeared and commanded "Read" [1]; he replied that he could not read [1]; Jibril pressed him tightly
 three times [1]; then recited the first verses of Sura 96 [1]; he returned home frightened and asked
-Khadija to cover him [1].
+Khadija (RA) to cover him [1].
 
 **1 (d)** Two reasons, each developed for up to 3 marks. *Economic:* Makkah earned money from pilgrims
 who came to worship the idols at the Ka'ba [1]; the call to worship one God threatened this trade
@@ -89,7 +89,7 @@ people are equal before Allah [1]; this challenged the power of the Quraysh lead
 system [1]; and their loyalty to the religion of their ancestors [1].
 
 **1 (e)** Levels-marked. *Arguments for:* the Hijrah saved the Muslim community from persecution
-[2]; it allowed the first Muslim state, the Prophet's Mosque and the Charter of Madinah [2]; it marks
+[2]; it allowed the first Muslim state, the Prophet (pbuh)'s Mosque and the Charter of Madinah [2]; it marks
 the start of the Islamic calendar, showing how central it is [1–2]; it showed trust in Allah, as in
 the cave of Thawr (Qur'an 9.40 tells of the two in the cave and Allah's support) [1–2]. *Arguments
 against:* the first revelation in Hira was the beginning of prophethood, without which nothing else
@@ -112,7 +112,7 @@ confirmed his account and was called al-Siddiq [1].
 
 **2 (d)** Two ways, each developed for up to 3 marks. *Shelter and property:* the Ansar welcomed the
 Muhajirun into their homes [1] because the migrants had left their property in Makka [1]; Abu Ayyub
-Ansari (RA) hosted the Prophet (pbuh) himself [1]. *Brotherhood:* the Prophet paired each Muhajir with
+Ansari (RA) hosted the Prophet (pbuh) himself [1]. *Brotherhood:* the Prophet (pbuh) paired each Muhajir with
 an Ansari [1]; they shared land, wealth and work [1]; this built a united community in Madinah [1].
 
 **2 (e)** Levels-marked. *Arguments for:* it summarises key teachings: sanctity of life and property

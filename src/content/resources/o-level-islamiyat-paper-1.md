@@ -26,7 +26,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-08-21
 featured: false
 ---
@@ -60,7 +60,7 @@ running through the Qur'an
 revealed and compiled, and its significance
 - 1.3 The Life and Importance of the Prophet Muhammad (pbuh) — the key
 events of his life and their significance for Muslims
-- 1.4 The First Islamic Community — the Prophet's wives; his
+- 1.4 The First Islamic Community — the Prophet's (pbuh) wives; his
 descendants, including his children, grandchildren and the line
 recognised among Shia Muslims as Imams; his leading Companions,
 including the Ten Blessed Companions, his Scribes and the major
@@ -100,7 +100,7 @@ is a description of what such answers tend to do, not an absolute
 rule against fact-only answers.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-1--01-paper-1-structure.webp" width="900" height="676" alt="Question 1 (three short passages on the Qur'an's themes, write on any two, 8 marks) and Question 2 (history and importance of the Qur'an, 14 marks) are compulsory. Candidates then choose two of Questions 3 to 5, set on the life of the Prophet and the first Islamic community, at 14 marks each." loading="lazy">
+  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-1--01-paper-1-structure.webp" width="900" height="676" alt="Question 1 (three short passages on the Qur'an's themes, write on any two, 8 marks) and Question 2 (history and importance of the Qur'an, 14 marks) are compulsory. Candidates then choose two of Questions 3 to 5, set on the life of the Prophet (pbuh) and the first Islamic community, at 14 marks each." loading="lazy">
   <figcaption>Two compulsory questions, then two chosen from three: 50 marks in 1 hour 30 minutes.</figcaption>
 </figure>
 
@@ -116,18 +116,18 @@ the Cave of Hira, through the angel Jibril, and consists of **114
 surahs** — generally shorter Makkan surahs concerned with tawhid, the
 afterlife and moral conduct, and generally longer Madinan surahs
 concerned with law, community and social order. It was **compiled**
-under Abu Bakr, after the Battle of Yamama had killed many of those
-who had memorised it, and later **standardised** under Uthman, who
+under Abu Bakr (RA), after the Battle of Yamama had killed many of those
+who had memorised it, and later **standardised** under Uthman (RA), who
 distributed official copies and had variant texts destroyed — two
 distinct stages that examiners expect to see kept separate, not
 conflated into one event.
 
-The Prophet's life (1.3) and the first Islamic community (1.4) are
+The Prophet's (pbuh) life (1.3) and the first Islamic community (1.4) are
 best revised as a connected timeline rather than as isolated facts:
 the first revelation in 610, the Hijra to Madinah in 622 that marks
 the start of the Islamic calendar, the Constitution of Madinah
 establishing Muslims, Jews and other groups as a single community
-under the Prophet's arbitration, the pairing of the Muhajirun with the
+under the Prophet's (pbuh) arbitration, the pairing of the Muhajirun with the
 Ansar as a practical response to the migrants' destitution, the
 Battles of Badr, Uhud and the Trench, and the Farewell Sermon setting
 out equality, the sanctity of life and property, and the abolition of
@@ -142,7 +142,7 @@ essay questions on these two sub-topics often ask candidates to do.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/o-level-islamiyat-paper-1--04-compiled-then-standardised.webp" width="900" height="520" alt="Two stages. First Abu Bakr compiled the Qur'an after the Battle of Yamama killed many who had memorised it. Later Uthman standardised it, distributing official copies and having variant texts destroyed. A warning box says to keep the stages separate." loading="lazy">
-  <figcaption>Abu Bakr compiled; Uthman standardised. Examiners expect the two kept apart.</figcaption>
+  <figcaption>Abu Bakr (RA) compiled; Uthman (RA) standardised. Examiners expect the two kept apart.</figcaption>
 </figure>
 
 <figure class="topic-figure">
@@ -160,7 +160,7 @@ unfamiliar territory if that is where the compulsory question falls.
 Answers are strongest when they combine accurate factual recall — dates,
 names, sequence of events — with an explanation of significance, since
 1.2 and 1.3 explicitly ask for an understanding of importance, not just
-narrative retelling. Build a simple timeline of the Prophet's life and
+narrative retelling. Build a simple timeline of the Prophet's (pbuh) life and
 the early community (1.3 and 1.4) as a revision anchor, since many exam
 questions ask candidates to place events in relation to one another.
 For 1.1 and 1.2, practise linking a named theme of the Qur'an to a

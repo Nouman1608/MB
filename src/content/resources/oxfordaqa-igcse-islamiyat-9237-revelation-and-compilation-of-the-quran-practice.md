@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -65,7 +65,7 @@ Apply **one** teaching from a source of authority in your answer. **[6]**
 > **Sahih al-Bukhari 4987** (extract)
 >
 > Hudhaifa was afraid of their (the people of Sham and Iraq) differences in the recitation of the
-> Qur'an, so he said to Uthman, "O chief of the Believers! Save this nation before they differ about
+> Qur'an, so he said to Uthman (RA), "O chief of the Believers! Save this nation before they differ about
 > the Book (Qur'an) as the Jews and the Christians did before."
 
 'The work of Hazrat Uthman (RA) was more important than the work of Hazrat Abu Bakr (RA) in protecting the Qur'an.'
@@ -117,7 +117,7 @@ In your answer you should:
 
 **6.** For each of two steps: step identified [1] and explained [1].
 
-- **Borrowed the sheets from Hafsa (RA)** [1]: they were Abu Bakr's checked compilation, so the new copies rested on a trusted base [1].
+- **Borrowed the sheets from Hafsa (RA)** [1]: they were Abu Bakr's (RA) checked compilation, so the new copies rested on a trusted base [1].
 - **Appointed a team** [1]: Zayd ibn Thabit (RA) and three members of the Quraysh copied them into volumes [1].
 - **Used the dialect of the Quraysh where they differed** [1]: the Qur'an had been revealed in that dialect [1].
 - **Sent a copy to each main region** [1]: so that Muslims everywhere had the same text [1].

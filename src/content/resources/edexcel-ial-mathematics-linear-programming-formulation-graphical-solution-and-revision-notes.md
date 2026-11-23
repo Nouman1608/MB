@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Linear programming: formulation, graphical solution and integer solutions (YMA01) -- Revision Notes"
+title: "Pearson Edexcel International A Level Mathematics: Linear programming: formulation, graphical solution and integer solutions (YMA01) -- Revision Notes"
 seoTitle: "Edexcel IAL Maths D1 Linear Programming Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics"

@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Exponentials, logarithms and trig equations (YMA01) -- Practice Questions"
+title: "Pearson Edexcel International A Level Mathematics: Exponentials, logarithms and trig equations (YMA01) -- Practice Questions"
 seoTitle: "Edexcel IAL Maths P2 Logs and Trig Equations Practice"
 resourceType: "practice-questions"
 subject: "mathematics"
@@ -32,7 +32,7 @@ reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379).
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover Unit P2 topics 5.1 to 5.3 (exponentials and logarithms) and 6.1 to 6.2 (trigonometric identities and equations) of the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification, Issue 3, April 2019. P2 is compulsory for IAS Mathematics and IAL Mathematics. Learn the content first in the [study guide](/resources/edexcel-ial-mathematics-exponentials-and-logarithms-and-solving-trigonometric/) and the [revision notes](/resources/edexcel-ial-mathematics-exponentials-and-logarithms-and-solving-trigonometric-revision-notes/). Course hub: [Edexcel A Level Mathematics](/boards/edexcel/a-level/mathematics/). See also the [P2 practice questions](/resources/edexcel-a-level-mathematics-pure2-practice/) and the [free diagnostics](/diagnostics/).
+These questions cover Unit P2 topics 5.1 to 5.3 (exponentials and logarithms) and 6.1 to 6.2 (trigonometric identities and equations) of the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification, Issue 3, April 2019. P2 is compulsory for IAS Mathematics and IAL Mathematics. Learn the content first in the [study guide](/resources/edexcel-ial-mathematics-exponentials-and-logarithms-and-solving-trigonometric/) and the [revision notes](/resources/edexcel-ial-mathematics-exponentials-and-logarithms-and-solving-trigonometric-revision-notes/). Course hub: [Pearson Edexcel International A Level Mathematics](/boards/edexcel/a-level/mathematics/). See also the [P2 practice questions](/resources/edexcel-a-level-mathematics-pure2-practice/) and the [free diagnostics](/diagnostics/).
 
 Give decimal answers to 3 significant figures, and angles in degrees to 1 decimal place, unless told otherwise. Give exact answers where the question asks for them.
 
@@ -162,7 +162,7 @@ It covers Unit P2 topics 5.1 to 5.3 on exponentials and logarithms and 6.1 to 6.
 
 - Revise with the [revision notes](/resources/edexcel-ial-mathematics-exponentials-and-logarithms-and-solving-trigonometric-revision-notes/).
 - Re-read the [study guide](/resources/edexcel-ial-mathematics-exponentials-and-logarithms-and-solving-trigonometric/).
-- Return to the [Edexcel A Level Mathematics hub](/boards/edexcel/a-level/mathematics/) or the [printable checklist](/checklists/edexcel/a-level/mathematics/).
+- Return to the [Pearson Edexcel International A Level Mathematics hub](/boards/edexcel/a-level/mathematics/) or the [printable checklist](/checklists/edexcel/a-level/mathematics/).
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 

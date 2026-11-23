@@ -84,7 +84,7 @@ Quick links: [course hub](/boards/aqa/a-level/mathematics/) | [checklist](/check
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--08-disguised-quadratic.webp" width="900" height="1255" alt="With u = x^2 the equation x^4 - 5x^2 + 4 = 0 becomes u^2 - 5u + 4 = 0 with roots u = 1 and 4. Going back gives x = -2, -1, 1 and 2, the four x-intercepts of the quartic." loading="lazy">
-  <figcaption>Substitute u for the repeated function, solve the quadratic, then solve back for x using both signs. (Cambridge 9709 only.)</figcaption>
+  <figcaption>Substitute u for the repeated function, solve the quadratic, then solve back for x using both signs.</figcaption>
 </figure>
 
 

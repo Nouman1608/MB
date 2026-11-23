@@ -1,5 +1,5 @@
 ---
-title: "Edexcel International A Level Mathematics (YMA01): Correlation and regression -- Revision Notes"
+title: "Pearson Edexcel International A Level Mathematics (YMA01): Correlation and regression -- Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics"
 level: ["a-levels"]

@@ -1,5 +1,5 @@
 ---
-title: "Edexcel International A Level Mathematics (YMA01): Discrete distributions"
+title: "Pearson Edexcel International A Level Mathematics (YMA01): Discrete distributions"
 resourceType: "study-guides"
 subject: "mathematics"
 level: ["a-levels"]

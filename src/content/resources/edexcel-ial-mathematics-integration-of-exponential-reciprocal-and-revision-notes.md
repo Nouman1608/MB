@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Exponential, reciprocal and trig integration (YMA01) -- Revision Notes"
+title: "Pearson Edexcel International A Level Mathematics: Exponential, reciprocal and trig integration (YMA01) -- Revision Notes"
 seoTitle: "Edexcel IAL Maths P3 Integration Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics"

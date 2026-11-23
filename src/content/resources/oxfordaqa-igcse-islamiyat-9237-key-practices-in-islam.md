@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -35,7 +35,7 @@ Islam joins belief and action. The key beliefs of 3.1.1 are what a Muslim holds 
 
 ## The Five Pillars
 
-The Prophet (pbuh) described the structure of Islam in a Hadith narrated by Abdullah ibn Umar (Sahih al-Bukhari and Sahih Muslim): "Islam is built upon five: the testimony that there is no god but Allah and that Muhammad is the Messenger of Allah, establishing prayer, paying Zakah, the pilgrimage to the House (Hajj) and fasting in Ramadhan." A building rests on its pillars, so they are the supports of a Muslim's religious life.
+The Prophet (pbuh) described the structure of Islam in a Hadith narrated by Abdullah ibn Umar (RA) (Sahih al-Bukhari and Sahih Muslim): "Islam is built upon five: the testimony that there is no god but Allah and that Muhammad is the Messenger of Allah, establishing prayer, paying Zakah, the pilgrimage to the House (Hajj) and fasting in Ramadhan." A building rests on its pillars, so they are the supports of a Muslim's religious life.
 
 | Pillar | What it is | What it trains | Link in the specification |
 |---|---|---|---|
@@ -64,7 +64,7 @@ The Prophet (pbuh) described the structure of Islam in a Hadith narrated by Abdu
 
 ### Differences between Muslims
 
-Sunni Muslims speak of the Five Pillars. Twelver Shi'a Muslims commonly teach ten practices of religion (*Furu' ad-Din*), which include prayer, fasting, Zakah and Hajj and also Khums (a one-fifth contribution), Jihad, enjoining good, forbidding evil, love for the Prophet's family and disassociation from their enemies. The practices overlap strongly. Mention the difference only if asked.
+Sunni Muslims speak of the Five Pillars. Twelver Shi'a Muslims commonly teach ten practices of religion (*Furu' ad-Din*), which include prayer, fasting, Zakah and Hajj and also Khums (a one-fifth contribution), Jihad, enjoining good, forbidding evil, love for the Prophet's (pbuh) family and disassociation from their enemies. The practices overlap strongly. Mention the difference only if asked.
 
 ## Amr bil maroof and Nahi annil munkar
 
@@ -108,7 +108,7 @@ The Hadith in Sahih al-Bukhari 50 tells how Jibril (AS), in the form of a man, a
 **Points to draw out:**
 
 - The Hadith defines Islam through actions, which supports the idea that practice is central.
-- The list in this report does not mention the Shahadah and Hajj in the same words; the Shahadah is implied by "worship Allah alone", and other reports list the five fully. The Hadith of Ibn Umar above gives all five.
+- The list in this report does not mention the Shahadah and Hajj in the same words; the Shahadah is implied by "worship Allah alone", and other reports list the five fully. The Hadith of Ibn Umar (RA) above gives all five.
 - It places Islam beside faith (*iman*) and excellence (*ihsan*): "to worship Allah as if you see Him." This links the pillars to sincerity.
 - The Prophet (pbuh) said at the end that Jibril "came to teach the people their religion", which shows that these three levels summarise the religion.
 

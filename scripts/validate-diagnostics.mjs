@@ -107,6 +107,11 @@ for (const set of DIAGNOSTIC_SETS) {
   if (set.questionIds.length < 4 || set.questionIds.length > 8) problems.push(`${key}: ${set.questionIds.length} questions; keep a diagnostic at 4-8`);
   if (marks > 16) problems.push(`${key}: ${marks} marks is too many for about ${set.minutes} minutes`);
   if (topics.size < Math.min(4, set.questionIds.length)) problems.push(`${key}: only ${topics.size} distinct topics sampled`);
+  // T13 (audit, 23 Nov 2026): a number word in scopeLabel ("Four topics") must equal the distinct topics the
+  // questions are reported under, so the label never disagrees with the list on the page.
+  const WORDS = { Three: 3, Four: 4, Five: 5, Six: 6, Seven: 7, Eight: 8 };
+  const claimed = set.scopeLabel.match(/^(Three|Four|Five|Six|Seven|Eight) (?:AS |A Level )?topics?\b/i);
+  if (claimed && WORDS[claimed[1]] !== topics.size) problems.push(`${key}: scopeLabel says "${claimed[1]} topics" but the questions cover ${topics.size} distinct topics`);
   console.log(`  ${key}: ${set.questionIds.length} questions, ${marks} marks, ${topics.size} topics${set.setReview ? `, reviewed by ${set.setReview.reviewerSlug}` : ', set not yet teacher-reviewed'}`);
 }
 if (problems.length) {

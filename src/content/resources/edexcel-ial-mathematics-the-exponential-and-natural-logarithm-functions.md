@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Exponentials, logs and numerical methods (YMA01)"
+title: "Pearson Edexcel International A Level Mathematics: Exponentials, logs and numerical methods (YMA01)"
 seoTitle: "Edexcel IAL Maths P3 Exponentials and Logs Study Guide"
 resourceType: "study-guides"
 subject: "mathematics"
@@ -29,7 +29,7 @@ reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379).
 
 This guide teaches P3 sections 3 and 6 (topics 3.1 to 3.3 and 6.1 to 6.2) of the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (YMA01), Issue 3, April 2019. The specification states that P3 is compulsory for IAL Mathematics and Pure Mathematics, and that its IAS weighting is N/A, so it is not part of IAS. It also says P1 and P2 knowledge is assumed, including the laws of logarithms, so revisit the [Unit P2 overview](/resources/a-level-edexcel-mathematics-pure-mathematics-2/) if those feel rusty.
 
-Pair it with the [revision notes](/resources/edexcel-ial-mathematics-the-exponential-and-natural-logarithm-functions-revision-notes/) for recall and the [practice questions](/resources/edexcel-ial-mathematics-the-exponential-and-natural-logarithm-functions-practice/) for testing. Course links: the [Edexcel A Level Mathematics hub](/boards/edexcel/a-level/mathematics/), the [printable checklist](/checklists/edexcel/a-level/mathematics/) and [all free 10-minute diagnostics](/diagnostics/).
+Pair it with the [revision notes](/resources/edexcel-ial-mathematics-the-exponential-and-natural-logarithm-functions-revision-notes/) for recall and the [practice questions](/resources/edexcel-ial-mathematics-the-exponential-and-natural-logarithm-functions-practice/) for testing. Course links: the [Pearson Edexcel International A Level Mathematics hub](/boards/edexcel/a-level/mathematics/), the [printable checklist](/checklists/edexcel/a-level/mathematics/) and [all free 10-minute diagnostics](/diagnostics/).
 
 ## What the sections cover
 

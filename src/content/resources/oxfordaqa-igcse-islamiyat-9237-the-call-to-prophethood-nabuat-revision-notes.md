@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the words attributed to Khadija (RA) and Waraqa against the hadith sources used in class."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the words attributed to Khadija (RA) and Waraqa against the hadith sources used in class. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -37,7 +37,7 @@ featured: false
 | Hira | The cave on Jabal al-Nur where the first revelation came |
 | Jibril (AS) | The angel of revelation |
 | Iqra | "Read" or "Recite": the first word of revelation |
-| Zammiluni | "Cover me": the Prophet's words to Khadija (RA) |
+| Zammiluni | "Cover me": the Prophet's (pbuh) words to Khadija (RA) |
 | Namus | The angel of revelation, as Waraqa called him |
 | Fatrah | The pause in revelation |
 | Ummi | Unlettered |
@@ -55,7 +55,7 @@ featured: false
 9. She takes him to **Waraqa ibn Nawfal**, who confirms the revelation and warns of opposition.
 10. A pause (**fatrah**); then revelation resumes with 74:1-2: "arise and warn".
 
-## The Prophet's reaction
+## The Prophet's (pbuh) reaction
 
 - Fear and confusion: he had not expected to be a prophet.
 - He did not claim any greatness; he sought the comfort of his wife.
@@ -84,7 +84,7 @@ featured: false
 | Person | Detail |
 |---|---|
 | Khadija (RA) | First adult believer |
-| Ali (RA) | Boy of about ten in the Prophet's household |
+| Ali (RA) | Boy of about ten in the Prophet's (pbuh) household |
 | Zayd ibn Harithah (RA) | Freed servant and adopted son |
 | Abu Bakr (RA) | Closest friend; accepted without hesitation |
 
@@ -121,7 +121,7 @@ featured: false
 2. Give the second reason and explain it (AO1).
 3. Add one quotation, such as 96:1 or 93:8, and say how it supports your point (AO2).
 
-**Mini example (Waraqa):** "Waraqa confirmed that the angel was the one who came to Musa. This reassured the Prophet that he was not mistaken, and showed that his message belonged to the line of earlier prophets."
+**Mini example (Waraqa):** "Waraqa confirmed that the angel was the one who came to Musa. This reassured the Prophet (pbuh) that he was not mistaken, and showed that his message belonged to the line of earlier prophets."
 
 ## Exam traps
 
@@ -145,7 +145,7 @@ featured: false
 9. What did Waraqa warn him about?
 10. Which prophet did Waraqa link him with?
 
-**Answers:** 1. The Cave of Hira. 2. Jibril (AS). 3. Iqra ("Read" or "Recite"). 4. "I am not one who can read." 5. Three times. 6. "Cover me, cover me." 7. Any two: keeps ties with relatives; bears the burdens of the weak; helps the poor; honours guests; helps in calamity. 8. Khadija's cousin, a Christian who had studied the scriptures. 9. That his people would drive him out and treat him with hostility. 10. Musa (AS).
+**Answers:** 1. The Cave of Hira. 2. Jibril (AS). 3. Iqra ("Read" or "Recite"). 4. "I am not one who can read." 5. Three times. 6. "Cover me, cover me." 7. Any two: keeps ties with relatives; bears the burdens of the weak; helps the poor; honours guests; helps in calamity. 8. Khadija's (RA) cousin, a Christian who had studied the scriptures. 9. That his people would drive him out and treat him with hostility. 10. Musa (AS).
 
 Practise with the [call to prophethood practice questions](/resources/oxfordaqa-igcse-islamiyat-9237-the-call-to-prophethood-nabuat-practice/).
 

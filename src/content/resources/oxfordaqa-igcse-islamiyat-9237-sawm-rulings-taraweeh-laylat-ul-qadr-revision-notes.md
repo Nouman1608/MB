@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New skill-unit page: please ask an Islamiyat teacher to check the fasting rulings, qada, fidya and kaffarah summaries, references and self-test answers before sign-off."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New skill-unit page: please ask an Islamiyat teacher to check the fasting rulings, qada, fidya and kaffarah summaries, references and self-test answers before sign-off. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -38,7 +38,7 @@ featured: false
 | "perhaps you will be grateful" | Gratitude as an aim of fasting |
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-sawm-rulings-taraweeh-laylat-ul-qadr--01-passage-2-183-185.webp" width="900" height="454" alt="The prescribed passage, Qur’an 2:183-185, broken into five ideas: the command to fast, the purpose of taqwa, the concession for the ill and travellers, Ramadhan as the month of revelation, and the spirit of ease rather than hardship." loading="lazy">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-sawm-rulings-taraweeh-laylat-ul-qadr--01-passage-2-183-185.webp" width="900" height="454" alt="The prescribed passage, Qur'an 2:183-185, broken into five ideas: the command to fast, the purpose of taqwa, the concession for the ill and travellers, Ramadhan as the month of revelation, and the spirit of ease rather than hardship." loading="lazy">
   <figcaption>Use the passage for purpose, compassion and the balance of obligation and mercy.</figcaption>
 </figure>
 
@@ -60,7 +60,7 @@ Deliberate eating or drinking · deliberate sexual relations (qada **plus** kaff
 **Not** invalidated by: forgetful eating or drinking ("Allah fed him and gave him drink", Bukhari).
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-sawm-rulings-taraweeh-laylat-ul-qadr--03-what-breaks-a-fast.webp" width="900" height="665" alt="Acts that invalidate a fast and their effect: deliberate eating or drinking, deliberate sexual relations, which also requires kaffarah of sixty days’ fasting or feeding sixty poor people, deliberate vomiting, the start of menstruation, and smoking. Eating by genuine mistake does not break the fast." loading="lazy">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-sawm-rulings-taraweeh-laylat-ul-qadr--03-what-breaks-a-fast.webp" width="900" height="665" alt="Acts that invalidate a fast and their effect: deliberate eating or drinking, deliberate sexual relations, which also requires kaffarah of sixty days' fasting or feeding sixty poor people, deliberate vomiting, the start of menstruation, and smoking. Eating by genuine mistake does not break the fast." loading="lazy">
   <figcaption>Deliberate acts break the fast; genuine forgetfulness does not.</figcaption>
 </figure>
 
@@ -92,8 +92,8 @@ Deliberate eating or drinking · deliberate sexual relations (qada **plus** kaff
 | Forgiveness of sins | Control of anger and speech | Equality of rich and poor in hunger |
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-sawm-rulings-taraweeh-laylat-ul-qadr--05-benefits.webp" width="900" height="440" alt="Benefits of fasting in three categories: spiritual, such as taqwa and more Qur’an recitation; moral, such as self-discipline, honesty and patience; and social, such as empathy with the hungry, charity and shared iftar. Health benefits are a side effect." loading="lazy">
-  <figcaption>Use the specification’s three headings: spiritual, moral and social.</figcaption>
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-sawm-rulings-taraweeh-laylat-ul-qadr--05-benefits.webp" width="900" height="440" alt="Benefits of fasting in three categories: spiritual, such as taqwa and more Qur'an recitation; moral, such as self-discipline, honesty and patience; and social, such as empathy with the hungry, charity and shared iftar. Health benefits are a side effect." loading="lazy">
+  <figcaption>Use the specification's three headings: spiritual, moral and social.</figcaption>
 </figure>
 
 ## Taraweeh

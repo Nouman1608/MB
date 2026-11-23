@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Route inspection and travelling salesman (YMA01)"
+title: "Pearson Edexcel International A Level Mathematics: Route inspection and travelling salesman (YMA01)"
 seoTitle: "Edexcel IAL Maths D1 Route Inspection and TSP Study Guide"
 resourceType: "study-guides"
 subject: "mathematics"
@@ -25,7 +25,7 @@ reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379).
 ---
 This guide is aligned to the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics specification (YMA01), Issue 3, April 2019. It covers Unit D1 (Decision Mathematics 1), section 3, "Algorithms on graphs II", topics 3.1 to 3.4. The specification states that D1 is an optional unit for IAS Mathematics and Further Mathematics and for IAL Mathematics and Further Mathematics. Check with your teacher whether your course includes it.
 
-For quick recall use the [revision notes](/resources/edexcel-ial-mathematics-route-inspection-chinese-postman-and-the-travelling-revision-notes/). To test yourself use the [practice set](/resources/edexcel-ial-mathematics-route-inspection-chinese-postman-and-the-travelling-practice/). The course pages are the [Edexcel A Level Mathematics hub](/boards/edexcel/a-level/mathematics/) and the [printable checklist](/checklists/edexcel/a-level/mathematics/). For wider exam technique see [IAL Mathematics exam preparation](/resources/edexcel-ial-mathematics-exam-preparation/). When you are ready, try the [free 10-minute diagnostics](/diagnostics/).
+For quick recall use the [revision notes](/resources/edexcel-ial-mathematics-route-inspection-chinese-postman-and-the-travelling-revision-notes/). To test yourself use the [practice set](/resources/edexcel-ial-mathematics-route-inspection-chinese-postman-and-the-travelling-practice/). The course pages are the [Pearson Edexcel International A Level Mathematics hub](/boards/edexcel/a-level/mathematics/) and the [printable checklist](/checklists/edexcel/a-level/mathematics/). For wider exam technique see [IAL Mathematics exam preparation](/resources/edexcel-ial-mathematics-exam-preparation/). When you are ready, try the [free 10-minute diagnostics](/diagnostics/).
 
 ## What this unit covers
 

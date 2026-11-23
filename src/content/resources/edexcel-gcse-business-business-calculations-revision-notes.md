@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
-reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379). 2026-11-23: removed the unsupported total-profit claim for kiln A (audit C23)."
 ---
 
 These notes condense content item 2.4.1, Business calculations, from Topic 2.4 Making financial decisions in Theme 2, Building a business, of the Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0) specification, Issue 2, July 2022. For full explanations and worked examples, read the [study guide](/resources/edexcel-gcse-business-business-calculations/) first. Then test yourself with the [practice questions](/resources/edexcel-gcse-business-business-calculations-practice/).
@@ -161,8 +161,8 @@ Limitations to quote in evaluate answers (standard points, not specification wor
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/edexcel-gcse-business-business-calculations--05-juniper-arr-a-vs-b.webp" width="900" height="940" alt="Two bars each stand for a kiln cost. A earns £6,000 a year on £24,000 (25%); B earns £4,950 a year on £18,000 (27.5%). B has the higher rate; A has the larger yearly and total profit." loading="lazy">
-  <figcaption>B has the higher rate of return, A the larger profit: choose one and justify it.</figcaption>
+  <img src="https://img.marlbridge.com/edexcel-gcse-business-business-calculations--05-juniper-arr-a-vs-b.webp" width="900" height="940" alt="Two bars each stand for a kiln cost. A earns £6,000 a year on £24,000 (25%); B earns £4,950 a year on £18,000 (27.5%). B has the higher rate; A has the larger average yearly profit (£6,000 against £4,950); total profit depends on how many years each kiln lasts." loading="lazy">
+  <figcaption>B has the higher rate of return, A the larger average yearly profit: choose one and justify it.</figcaption>
 </figure>
 
 

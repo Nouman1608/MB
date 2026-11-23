@@ -1,5 +1,5 @@
 ---
-title: "Edexcel International A Level Mathematics (YMA01): Exponentials and logarithms (P2.5) -- Revision Notes"
+title: "Pearson Edexcel International A Level Mathematics (YMA01): Exponentials and logarithms (P2.5) -- Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics"
 level: ["a-levels"]

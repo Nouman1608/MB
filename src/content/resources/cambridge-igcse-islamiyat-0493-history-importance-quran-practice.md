@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the events, names and credit given in the answers."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the events, names and credit given in the answers. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -42,28 +42,28 @@ gives full exam-style questions; allow about 20 minutes for each.
 **2.** Name **two** people the Prophet (pbuh) turned to after the first revelation, and state what each
 said or did. **[4]**
 
-**3.** Give **three** materials on which verses were written during the Prophet's lifetime. **[3]**
+**3.** Give **three** materials on which verses were written during the Prophet's (pbuh) lifetime. **[3]**
 
 **4.** Explain the difference between a Makkan and a Madinan passage, with **one** feature of each. **[3]**
 
 **5.** Explain why the Battle of Yamama led to the compilation of the Qur'an. **[3]**
 
-**6.** State **three** steps Uthman took to make sure all Muslims used the same text. **[3]**
+**6.** State **three** steps Uthman (RA) took to make sure all Muslims used the same text. **[3]**
 
 **7.** Explain, with an example, what is meant by qiyas. **[3]**
 
 ## Section B — Exam-style questions
 
-**8. (a)** Describe the compilation of the Qur'an under Abu Bakr. **[10]**
-**(b)** Abu Bakr at first hesitated to do something the Prophet (pbuh) had not done. What does his
+**8. (a)** Describe the compilation of the Qur'an under Abu Bakr (RA). **[10]**
+**(b)** Abu Bakr (RA) at first hesitated to do something the Prophet (pbuh) had not done. What does his
 final decision teach Muslims about meeting new needs in the community? **[4]**
 
-**9. (a)** Write about the work of Uthman in producing a standard text of the Qur'an. **[10]**
-**(b)** Explain how Uthman's work benefits Muslims today. **[4]**
+**9. (a)** Write about the work of Uthman (RA) in producing a standard text of the Qur'an. **[10]**
+**(b)** Explain how Uthman's (RA) work benefits Muslims today. **[4]**
 
 **10. (a)** Describe the first revelation and the events that immediately followed it, up to the
 command to begin warning the people. **[10]**
-**(b)** What can Muslims learn from Khadija's response to the Prophet (pbuh) on that night? **[4]**
+**(b)** What can Muslims learn from Khadija's (RA) response to the Prophet (pbuh) on that night? **[4]**
 
 **11. (a)** Describe how the Qur'an is used in legal thinking together with the Hadiths, ijma' and
 qiyas. **[10]**
@@ -84,7 +84,7 @@ of the same quality earn the same credit.
 
 **1.** The cave of Hira, on Jabal al-Nur near Makka [1]; in Ramadan [1]; *Iqra'*, "Read!" [1].
 
-**2.** Any two, [2] each: Khadija, who covered and comforted him and said God would never disgrace him
+**2.** Any two, [2] each: Khadija (RA), who covered and comforted him and said God would never disgrace him
 because of his kindness to relatives, the weak and guests; Waraqa ibn Nawfal, who said the angel was
 the one who had come to Musa and that his people would turn against him. Maximum 4.
 
@@ -95,11 +95,11 @@ Maximum 3.
 focused on belief such as tawhid and the hereafter [1]. Madinan: usually longer, with laws for the
 community such as fasting, zakat or family matters [1].
 
-**5.** Many huffaz were killed at Yamama during the Ridda wars [1]. Umar feared that if more
-memorisers died, parts of the Qur'an could be lost [1], so he urged Abu Bakr to collect it into one
+**5.** Many huffaz were killed at Yamama during the Ridda wars [1]. Umar (RA) feared that if more
+memorisers died, parts of the Qur'an could be lost [1], so he urged Abu Bakr (RA) to collect it into one
 written collection [1].
 
-**6.** Any three, [1] each: borrowed Hafsa's sheets as the basis; appointed Zayd ibn Thabit and three
+**6.** Any three, [1] each: borrowed Hafsa's (RA) sheets as the basis; appointed Zayd ibn Thabit (RA) and three
 others to copy them; told them to follow the dialect of Quraysh where they differed; sent copies to
 the main centres; ordered other copies to be burned. Maximum 3.
 
@@ -110,14 +110,14 @@ Qur'an and Hadith give no direct answer [1]. For example, drugs are forbidden be
 **8. (a)** Credit the best five, [2] each:
 - At Yamama, fought against Musaylima during the Ridda wars, many Companions who knew the Qur'an by
   heart were martyred [2].
-- Umar feared the loss of the Qur'an and urged Abu Bakr to have it collected; Abu Bakr first
+- Umar (RA) feared the loss of the Qur'an and urged Abu Bakr (RA) to have it collected; Abu Bakr (RA) first
   hesitated but then agreed it was right [2].
-- He chose Zayd ibn Thabit: young, reliable, a scribe of revelation, present at the final review [2].
+- He chose Zayd ibn Thabit (RA): young, reliable, a scribe of revelation, present at the final review [2].
 - Zayd collected the written pieces from parchment, palm stalks and stones, and from the memories
   of Companions; he said moving a mountain would have been easier [2].
 - Written material was accepted only when it was confirmed; the last verses of Sura 9 were found
   written with only Abu Khuzayma al-Ansari [2].
-- The completed sheets (suhuf) were kept by Abu Bakr, then Umar, then Hafsa [2].
+- The completed sheets (suhuf) were kept by Abu Bakr (RA), then Umar (RA), then Hafsa (RA) [2].
 **(b)** Credit the best two, [2] each:
 - Leaders may take new steps when they protect the religion itself; doing something new is not wrong
   if it serves the purposes of Islam [2].
@@ -128,14 +128,14 @@ Qur'an and Hadith give no direct answer [1]. For example, drugs are forbidden be
 
 **9. (a)** Credit the best five, [2] each:
 - Islam had spread to many peoples and regions, and Muslims recited in different ways [2].
-- Hudhayfa ibn al-Yaman, returning from campaigns in Armenia and Azerbaijan, warned Uthman of disputes
+- Hudhayfa ibn al-Yaman, returning from campaigns in Armenia and Azerbaijan, warned Uthman (RA) of disputes
   over recitation [2].
-- Uthman borrowed the sheets compiled under Abu Bakr from Hafsa [2].
-- He appointed Zayd ibn Thabit, Abdullah ibn al-Zubayr, Sa'id ibn al-As and Abd al-Rahman ibn
+- Uthman (RA) borrowed the sheets compiled under Abu Bakr (RA) from Hafsa (RA) [2].
+- He appointed Zayd ibn Thabit (RA), Abdullah ibn al-Zubayr, Sa'id ibn al-As and Abd al-Rahman ibn
   al-Harith to copy them, following the dialect of Quraysh where they differed [2].
 - Copies were sent to centres such as Kufa, Basra and Damascus, one was kept in Madina, and the
-  sheets were returned to Hafsa [2].
-- Other copies were burned so that only the agreed text remained; Uthman became known as Jami'
+  sheets were returned to Hafsa (RA) [2].
+- Other copies were burned so that only the agreed text remained; Uthman (RA) became known as Jami'
   al-Qur'an [2].
 **(b)** Credit the best two, [2] each:
 - Muslims everywhere recite the same words in prayer, so worship unites them across countries [2].
@@ -147,8 +147,8 @@ Qur'an and Hadith give no direct answer [1]. For example, drugs are forbidden be
 - In Ramadan 610, at about forty, the Prophet (pbuh) was in retreat in the cave of Hira [2].
 - Jibril appeared and commanded "Read!"; he replied he could not read; after being pressed three
   times he received Sura 96.1–5 [2].
-- He returned home shaken and asked Khadija to cover him [2].
-- Khadija reassured him that God would never disgrace him because of his good character [2].
+- He returned home shaken and asked Khadija (RA) to cover him [2].
+- Khadija (RA) reassured him that God would never disgrace him because of his good character [2].
 - She took him to Waraqa ibn Nawfal, who identified the angel and said his people would drive him
   out [2].
 - A pause followed; then Sura 74 commanded "Arise and warn", beginning his mission [2].
@@ -177,7 +177,7 @@ Qur'an and Hadith give no direct answer [1]. For example, drugs are forbidden be
 **12. (a)** Credit the best five, [2] each:
 - Each revelation was recited by the Prophet (pbuh) to the Companions, who memorised it [2].
 - Many became huffaz, and the Qur'an was recited aloud in daily prayers, keeping it fresh [2].
-- Scribes such as Zayd ibn Thabit wrote verses down as soon as they were revealed [2].
+- Scribes such as Zayd ibn Thabit (RA) wrote verses down as soon as they were revealed [2].
 - They used parchment, palm stalks, flat stones and animal bones [2].
 - The Prophet (pbuh) told them where each new passage belonged in the order of the suras [2].
 - Jibril reviewed the revelation with him every Ramadan, and twice in his final year [2].
@@ -191,7 +191,7 @@ Qur'an and Hadith give no direct answer [1]. For example, drugs are forbidden be
 ## Where marks are usually lost
 
 - Describing revelation when the question asks about compilation, or the reverse.
-- Naming Uthman as the first compiler.
+- Naming Uthman (RA) as the first compiler.
 - Giving qiyas without an example.
 - Writing narrative in part (b) instead of reasons.
 

@@ -10,7 +10,7 @@
 import { readdirSync, readFileSync, writeFileSync } from 'node:fs';
 
 const DIR = 'src/data/flashcards';
-const SKIP = new Set(['types.ts', 'index.ts', 'decks.generated.ts']);
+const SKIP = new Set(['types.ts', 'index.ts', 'decks.generated.ts', 'exam-years.ts']);
 
 export function deckModules(only) {
   return readdirSync(DIR).filter((f) => f.endsWith('.ts') && !SKIP.has(f) && (!only || only.includes(f))).sort().map((file) => {

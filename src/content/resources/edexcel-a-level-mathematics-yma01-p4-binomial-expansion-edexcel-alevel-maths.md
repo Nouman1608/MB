@@ -1,5 +1,5 @@
 ---
-title: "Edexcel International A Level Mathematics (YMA01): P4 Binomial expansion"
+title: "Pearson Edexcel International A Level Mathematics (YMA01): P4 Binomial expansion"
 resourceType: "study-guides"
 subject: "mathematics"
 level: ["a-levels"]

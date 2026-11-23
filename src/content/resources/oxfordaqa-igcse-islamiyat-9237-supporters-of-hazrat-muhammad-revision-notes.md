@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the biographical details of the four companions against a teacher's notes."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the biographical details of the four companions against a teacher's notes. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -60,7 +60,7 @@ featured: false
 | Main deed | Hosted the Prophet (pbuh) for about seven months | Strengthened Islam by his conversion; fought at Badr | Shielded the Prophet (pbuh) at Uhud | First to draw a sword for Islam (tradition); fought in many battles |
 | End | Died at Constantinople, about 52 AH | Martyred at Uhud, 3 AH | One of the ten promised Paradise | One of the ten promised Paradise |
 | Quality | Hospitality | Courage | Sacrifice | Readiness to serve |
-| Title | | Lion of Allah; Master of the Martyrs | Talha the Generous | The Prophet's hawari |
+| Title | | Lion of Allah; Master of the Martyrs | Talha (RA) the Generous | The Prophet's (pbuh) hawari |
 
 ## Why each matters
 
@@ -74,23 +74,23 @@ featured: false
 | Words | Use for |
 |---|---|
 | "ordered us to give charity" | The Sahabah answered the Prophet's (pbuh) call |
-| "Today I will outdo Abu Bakr" | Competing in good deeds |
+| "Today I will outdo Abu Bakr (RA)" | Competing in good deeds |
 | "half of my wealth" | Umar's (RA) generosity |
 | "everything he had" | Abu Bakr's (RA) complete sacrifice |
 | "Allah and His Messenger" | Trust in Allah; faith as the first priority |
-| "I will never do better than Abu Bakr" | Humility; recognising excellence |
+| "I will never do better than Abu Bakr (RA)" | Humility; recognising excellence |
 
-**Link:** the hadith matches the spirit of the Ansaar (ithar) and of Talha (sacrifice).
+**Link:** the hadith matches the spirit of the Ansaar (ithar) and of Talha (RA) (sacrifice).
 
 ## Qualities of the Sahabah
 
 | Quality | Example |
 |---|---|
-| Generosity | Ansaar sharing wealth; Abu Bakr's charity |
-| Courage | Hamza at Badr; Talha at Uhud |
+| Generosity | Ansaar sharing wealth; Abu Bakr's (RA) charity |
+| Courage | Hamza (RA) at Badr; Talha (RA) at Uhud |
 | Loyalty | Abu Ayyub's service; Zubair's readiness |
 | Sacrifice | Leaving Makkah; spending wealth |
-| Humility | Umar's words to Abu Bakr |
+| Humility | Umar's (RA) words to Abu Bakr (RA) |
 | Trust in Allah | "Allah and His Messenger" |
 
 ## Lessons Muslims take from the supporters
@@ -108,7 +108,7 @@ featured: false
 3. Name a second contribution.
 4. Say what it shows about faith.
 
-**Mini example (Talha):** "Talha shielded the Prophet at Uhud and was wounded [1]. This protected the Prophet's life at a dangerous moment and shows his loyalty and sacrifice [1]."
+**Mini example (Talha (RA)):** "Talha (RA) shielded the Prophet (pbuh) at Uhud and was wounded [1]. This protected the Prophet's (pbuh) life at a dangerous moment and shows his loyalty and sacrifice [1]."
 
 ## Exam traps
 
@@ -116,8 +116,8 @@ featured: false
 - Hamza (RA) died at **Uhud**, not Badr.
 - Abu Ayyub (RA) hosted the Prophet (pbuh) while the mosque was built.
 - Talha (RA) protected the Prophet (pbuh) at **Uhud**.
-- Zubair (RA) was the Prophet's **cousin**.
-- For the hadith, include **Abu Bakr's reply** "Allah and His Messenger".
+- Zubair (RA) was the Prophet's (pbuh) **cousin**.
+- For the hadith, include **Abu Bakr's (RA) reply** "Allah and His Messenger".
 
 ## Self-test
 
@@ -132,7 +132,7 @@ featured: false
 9. What did Abu Bakr (RA) say he had left for his family?
 10. What was Umar's (RA) reaction to Abu Bakr's (RA) gift?
 
-**Answers:** 1. Helpers. 2. Emigrants (migrants). 3. Abu Ayyub al-Ansari (RA). 4. Because he was martyred at Uhud and was the Prophet's beloved uncle. 5. Uhud. 6. He was his cousin. 7. To be shown the market. 8. Qur'an 59:9. 9. "Allah and His Messenger." 10. He said that he would never do better than Abu Bakr.
+**Answers:** 1. Helpers. 2. Emigrants (migrants). 3. Abu Ayyub al-Ansari (RA). 4. Because he was martyred at Uhud and was the Prophet's (pbuh) beloved uncle. 5. Uhud. 6. He was his cousin. 7. To be shown the market. 8. Qur'an 59:9. 9. "Allah and His Messenger." 10. He said that he would never do better than Abu Bakr (RA).
 
 Practise with the [supporters practice questions](/resources/oxfordaqa-igcse-islamiyat-9237-supporters-of-hazrat-muhammad-practice/).
 

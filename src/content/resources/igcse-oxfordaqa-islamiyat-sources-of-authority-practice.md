@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-09-05
 featured: false
 ---
@@ -53,7 +53,7 @@ Apply **one** teaching from a source of authority in your answer. **[6 marks]**
 
 > **Sahih Bukhari 4987, Book 66, Hadith 9**
 >
-> Hudhaifa bin Al-Yaman came to Uthman at the time when the people of Sham and the people of Iraq were Waging war to conquer Arminya and Adharbijan. Hudhaifa was afraid of their (the people of Sham and Iraq) differences in the recitation of the Qur'an, so he said to Uthman, “O chief of the Believers! Save this nation before they differ about the Book (Qur'an) as Jews and the Christians did before.”
+> Hudhaifa bin Al-Yaman came to Uthman (RA) at the time when the people of Sham and the people of Iraq were Waging war to conquer Arminya and Adharbijan. Hudhaifa was afraid of their (the people of Sham and Iraq) differences in the recitation of the Qur'an, so he said to Uthman (RA), “O chief of the Believers! Save this nation before they differ about the Book (Qur'an) as Jews and the Christians did before.”
 
 'The compilation of the Qur'an under the Rightly Guided Caliphs protected it for all time.'
 
@@ -117,7 +117,7 @@ Every list below offers alternatives of equal value; other correct answers of th
 **02.3 [4]** — for each of two ways: the way identified [1] and explained [1]; maximum two marks per way.
 
 - **Memorisation** [1]: the Prophet (pbuh) recited each revelation to his Companions, many of whom learned the whole Qur'an by heart (huffaz) and recited it daily in Salah [1].
-- **Writing** [1]: scribes such as Zayd ibn Thabit wrote down revelations as they came, on materials such as palm leaves, leather and flat bones [1].
+- **Writing** [1]: scribes such as Zayd ibn Thabit (RA) wrote down revelations as they came, on materials such as palm leaves, leather and flat bones [1].
 - **Review with Jibril** [1]: Jibril (AS) went over the Qur'an with the Prophet (pbuh) every Ramadhan, and twice in his final year, confirming the text and its order [1].
 - **Teaching and recitation** [1]: the Prophet (pbuh) sent teachers to new Muslims and checked the Companions' recitation, so the same text was shared across the community [1].
 
@@ -139,15 +139,15 @@ Applications of a source of authority (AO2), for example (each is a specific use
 
 *Points of significance*
 
-- After the Battle of Yamama, when many huffaz were killed, Abu Bakr had Zayd ibn Thabit gather the Qur'an into one written copy, so the text did not depend only on people who might die.
-- Under Uthman, standard copies were made from that collection, kept by Hafsa, and sent to the main cities, and other copies were destroyed, so all Muslims used the same text.
+- After the Battle of Yamama, when many huffaz were killed, Abu Bakr (RA) had Zayd ibn Thabit (RA) gather the Qur'an into one written copy, so the text did not depend only on people who might die.
+- Under Uthman (RA), standard copies were made from that collection, kept by Hafsa (RA), and sent to the main cities, and other copies were destroyed, so all Muslims used the same text.
 - Muslims believe this fulfilled Allah's promise to protect the Qur'an ("Indeed, it is We who sent down the message, and indeed, We will be its guardian", Qur'an 15:9), which is why they are confident it is unchanged today.
 - A single agreed text keeps the Ummah united: Muslims everywhere recite the same Qur'an in Salah and base Shariah on it.
 - Written copies worked alongside continued memorisation, so the Qur'an has been preserved both in writing and in the hearts of huffaz ever since.
 
 *Use of the passage*
 
-- The passage shows the danger Uthman faced: Muslims from Sham and Iraq were reciting differently, and Hudhaifa feared real division.
+- The passage shows the danger Uthman (RA) faced: Muslims from Sham and Iraq were reciting differently, and Hudhaifa feared real division.
 - Hudhaifa's words "Save this nation before they differ about the Book" show that the aim was unity of the Ummah, not only neat copies.
 - The comparison with how "Jews and the Christians did before" shows that Muslims saw differences over scripture as a threat to the religion itself, which the compilation prevented.
 - The fact that a Companion raised the problem and the caliph acted shows the Qur'an's protection was a responsibility of the whole early community.

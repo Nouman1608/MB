@@ -1,5 +1,5 @@
 ---
-title: "Edexcel International A Level Mathematics (YMA01): Hypothesis tests"
+title: "Pearson Edexcel International A Level Mathematics (YMA01): Hypothesis tests"
 resourceType: "study-guides"
 subject: "mathematics"
 level: ["a-levels"]

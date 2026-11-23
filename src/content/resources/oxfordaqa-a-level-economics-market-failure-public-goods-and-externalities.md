@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-23: figure caption no longer cites Cambridge 0455 (audit C28)."
 ---
 This page is aligned to OxfordAQA's International AS and A-level Economics course (9640), specification version 1.2, and covers 3.1.5.1 (the meaning of market failure), 3.1.5.2 (private, public and quasi-public goods) and 3.1.5.3 (positive and negative externalities in consumption and production). Section 3.1 belongs to the International AS, and the A-level extends it. Quantitative skills from section 3.5 may turn up in any unit, so the calculations below use QS2 (percentages), QS4 (graphs) and QS9 (interpreting information). All figures are invented and illustrative.
 
@@ -51,7 +51,7 @@ The specification lists the causes: public goods, positive and negative external
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-causes-of-market-failure.webp" width="900" height="1060" alt="Five small pictures show the causes of market failure: public goods, merit and demerit goods, external costs and benefits, abuse of monopoly power and factor immobility. The result is the wrong amount produced or used." loading="lazy">
-  <figcaption>Market failure has five causes limited to those in the 0455 syllabus.</figcaption>
+  <figcaption>Market failure has five main causes.</figcaption>
 </figure>
 
 

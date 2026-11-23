@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Newton's laws, pulleys, slopes and friction (YMA01)"
+title: "Pearson Edexcel International A Level Mathematics: Newton's laws, pulleys, slopes and friction (YMA01)"
 seoTitle: "Edexcel IAL Maths M1 Newton's Laws and Friction Guide"
 resourceType: "study-guides"
 subject: "mathematics"

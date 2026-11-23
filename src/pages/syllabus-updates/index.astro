@@ -38,6 +38,17 @@ import CTA from '../../components/ui/CTA.astro';
 
 const path = '/syllabus-updates/';
 
+/** Print the paper code and title once: when the title already starts with the code, show the title only (same rule as componentLabel in assessment-faq.ts on the integration branch). */
+function componentLabel(paperCode: string, title: string): string {
+  const code = paperCode.trim();
+  const t = title.trim();
+  if (!t) return code;
+  if (!code) return t;
+  const repeats = t.toLowerCase() === code.toLowerCase()
+    || (t.toLowerCase().startsWith(code.toLowerCase()) && /^[\s:\-–—(]/.test(t.slice(code.length)));
+  return repeats ? t : `${code}: ${t}`;
+}
+
 function comboFor(a: Assessment) {
   return MATRIX.find(
     (c) => c.boardSlug === a.boardSlug && c.qualificationSlug === a.qualificationSlug && c.subjectSlug === a.subjectSlug,
@@ -187,7 +198,7 @@ const flagshipInTransition = [...future, ...legacy].some((r) => flagshipCodes.ha
                 <span class="text-[13.5px] text-ink-mute">Specification {r.assessment.code}{r.assessment.relatedCode && <> (replaces {r.assessment.relatedCode})</>}</span>
                 <dl class="m-0 mt-1 grid grid-cols-[auto_1fr] gap-x-2 gap-y-0.5 text-[13px] text-ink-mute">
                   {r.assessment.firstTeaching && (<><dt class="font-medium text-navy-800">First teaching</dt><dd class="m-0">{teachingMonthLabel(r.assessment.firstTeaching)}</dd></>)}
-                  <dt class="font-medium text-navy-800">First assessment</dt><dd class="m-0">{r.assessment.firstAssessment}</dd>
+                  <dt class="font-medium text-navy-800">First assessment</dt><dd class="m-0">{r.assessment.firstAssessment}{r.assessment.firstAssessmentNote && <> ({r.assessment.firstAssessmentNote})</>}</dd>
                 </dl>
                 {r.hubHref
                   ? <a href={r.hubHref} class="mt-auto pt-2 text-[13.5px] font-medium text-teal-700 hover:underline">Full detail on the {r.subjectLabel} hub →</a>
@@ -234,7 +245,7 @@ const flagshipInTransition = [...future, ...legacy].some((r) => flagshipCodes.ha
                   : <>(its successor, {r.assessment.relatedCode}, has no Marlbridge assessment record yet)</>}</span>
                 <dl class="m-0 mt-1 grid grid-cols-[auto_1fr] gap-x-2 gap-y-0.5 text-[13px] text-ink-mute">
                   {r.assessment.firstTeaching && (<><dt class="font-medium text-navy-800">First teaching</dt><dd class="m-0">{teachingMonthLabel(r.assessment.firstTeaching)}</dd></>)}
-                  <dt class="font-medium text-navy-800">First assessment</dt><dd class="m-0">{r.assessment.firstAssessment}</dd>
+                  <dt class="font-medium text-navy-800">First assessment</dt><dd class="m-0">{r.assessment.firstAssessment}{r.assessment.firstAssessmentNote && <> ({r.assessment.firstAssessmentNote})</>}</dd>
                   {r.assessment.finalAssessment && (<><dt class="font-medium text-navy-800">Final assessment</dt><dd class="m-0">{r.assessment.finalAssessment}</dd></>)}
                 </dl>
                 {r.hubHref
@@ -311,7 +322,7 @@ const flagshipInTransition = [...future, ...legacy].some((r) => flagshipCodes.ha
                   <p class="m-0 mb-2 mb-label text-ink-mute">{label}</p>
                   <dl class="m-0 mb-3 grid grid-cols-[auto_1fr] gap-x-3 gap-y-0.5 text-[13px] text-ink-mute">
                     <dt class="font-medium text-navy-800">First teaching</dt><dd class="m-0">{a.firstTeaching ? teachingMonthLabel(a.firstTeaching) : 'Not recorded'}</dd>
-                    <dt class="font-medium text-navy-800">First assessment</dt><dd class="m-0">{a.firstAssessment}</dd>
+                    <dt class="font-medium text-navy-800">First assessment</dt><dd class="m-0">{a.firstAssessment}{a.firstAssessmentNote && <> ({a.firstAssessmentNote})</>}</dd>
                   </dl>
                   {tierBlocks(a).map((b) => (
                     <div class="mb-3 last:mb-0">
@@ -323,7 +334,7 @@ const flagshipInTransition = [...future, ...legacy].some((r) => flagshipCodes.ha
                       </dl>
                       <ul class="m-0 list-none p-0 text-[13px] leading-[1.7] text-ink">
                         {b.comps.map((c) => (
-                          <li>{b.prefix}{c.paperCode} — {c.title} ({c.marks === null ? 'mark total not confirmed' : `${c.marks} marks`}, {c.asWeightingPercent != null && c.asWeightingPercent !== c.weightingPercent
+                          <li>{b.prefix}{componentLabel(c.paperCode, c.title)} ({c.marks === null ? 'mark total not confirmed' : `${c.marks} marks`}, {c.asWeightingPercent != null && c.asWeightingPercent !== c.weightingPercent
                             ? (c.weightingPercent === 0 ? `${c.asWeightingPercent}% AS only` : `${c.asWeightingPercent}% AS / ${c.weightingPercent}% A Level`)
                             : `${c.weightingPercent}%`})</li>
                         ))}

@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Exponentials, logs and numerical methods (YMA01) -- Practice Questions"
+title: "Pearson Edexcel International A Level Mathematics: Exponentials, logs and numerical methods (YMA01) -- Practice Questions"
 seoTitle: "Edexcel IAL Maths P3 Exponentials and Logs Practice"
 resourceType: "practice-questions"
 subject: "mathematics"
@@ -188,7 +188,7 @@ Carry full calculator accuracy between steps and write down at least four decima
 
 - Recall methods with the [revision notes](/resources/edexcel-ial-mathematics-the-exponential-and-natural-logarithm-functions-revision-notes/).
 - Re-read the [study guide](/resources/edexcel-ial-mathematics-the-exponential-and-natural-logarithm-functions/).
-- Use the [Edexcel A Level Mathematics hub](/boards/edexcel/a-level/mathematics/) and the [printable checklist](/checklists/edexcel/a-level/mathematics/).
+- Use the [Pearson Edexcel International A Level Mathematics hub](/boards/edexcel/a-level/mathematics/) and the [printable checklist](/checklists/edexcel/a-level/mathematics/).
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 

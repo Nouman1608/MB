@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Probability, and correlation and regression (YMA01) -- Revision Notes"
+title: "Pearson Edexcel International A Level Mathematics: Probability, and correlation and regression (YMA01) -- Revision Notes"
 seoTitle: "Edexcel IAL Maths Probability, Regression Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics"

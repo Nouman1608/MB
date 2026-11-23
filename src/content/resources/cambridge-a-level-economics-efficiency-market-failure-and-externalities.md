@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-23: bypass cost-benefit example corrected (toll is a transfer), Pareto alt, MC at Q=40 shown, non-9708 diagrams removed (audit C4)"
 ---
 
 This guide follows the Cambridge International AS & A Level Economics (9708) syllabus for examination in 2026, 2027 and 2028. It covers section 7.3 (Efficiency and market failure) and section 7.4 (Private costs and benefits, externalities and social costs and benefits). The syllabus treats topics 1 to 6 as AS Level and 7 to 11 as A Level, so this unit is A Level only. AS content is assumed knowledge for Papers 3 and 4. Every figure below is invented for illustration: the firms, towns and markets are fictional.
@@ -67,16 +67,7 @@ The two efficiencies are separate: a firm can meet one and miss the other.
   <figcaption>The monopoly misses productive efficiency narrowly and allocative efficiency widely, with a welfare loss of 312.5 thousand CU.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-economics-demand-supply-equilibrium--05-ib-allocative-efficiency.webp" width="900" height="1022" alt="Demand is marginal benefit and supply is marginal cost. At output 30 MB (9) exceeds MC (5); at output 70 MC (9) exceeds MB (5); each loses 40 of surplus. Social surplus is highest, 250, at output 50 where MB equals MC." loading="lazy">
-  <figcaption>Producing more or less than the equilibrium quantity destroys social surplus; only MB = MC is allocatively efficient.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--08-monopoly-welfare-loss.webp" width="900" height="910" alt="Demand (AR) slopes down with marginal revenue below it and marginal cost sloping up. The monopolist produces where MR = MC: output 40 at price 10. The allocatively efficient output is where price = MC: output 60 at price 8. The triangle between 40 and 60 is the welfare loss, area 40." loading="lazy">
-  <figcaption>A monopolist restricts output below the allocatively efficient level and charges a higher price.</figcaption>
-</figure>
-
+**Worked check: monopoly welfare loss (illustrative numbers).** A monopolist sets MR = MC at output 40, where the demand price is 10 and MC is 6. The allocatively efficient output is where P = MC, at output 60, where P = MC = 8. At output 40 the gap between price and MC is 10 − 6 = 4, so the welfare loss triangle is ½ × 4 × (60 − 40) = 40.
 
 ## 7.3.3 Pareto optimality
 
@@ -94,7 +85,7 @@ W to X is a Pareto improvement: A gains and B is unchanged, so W was not Pareto 
 With perfect competition and no externalities, both conditions hold in every market and the outcome is Pareto optimal. A policy that helps most people but harms some is not a Pareto improvement, even if total welfare rises.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-economics-efficiency-market-failure-and-externalities--05-ef-pareto.webp" width="900" height="950" alt="Scatter graph of utility of person A against utility of person B for four allocations: W at 6,6; X at 8,6; Y at 8,3; Z at 5,9. A shaded region to the upper right of W contains all Pareto improvements on W. Moving from W to X makes A better off and leaves B unchanged, so it is a Pareto improvement and W was not Pareto optimal. Moving from X to Y makes B worse off and from X to Z makes A worse off, so neither is an improvement. X and Z are both Pareto optimal." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-efficiency-market-failure-and-externalities--05-ef-pareto.webp" width="900" height="950" alt="Scatter graph of utility of person A against utility of person B for four allocations: W at 6,6; X at 8,6; Y at 8,3; Z at 5,9. A shaded region contains every allocation that leaves both people at least as well off as at W and at least one of them better off, which are the Pareto improvements on W. Moving from W to X makes A better off and leaves B unchanged, so it is a Pareto improvement and W was not Pareto optimal. Moving from X to Y makes B worse off and from X to Z makes A worse off, so neither is an improvement. X and Z are both Pareto optimal." loading="lazy">
   <figcaption>A move is a Pareto improvement only if someone gains and nobody loses.</figcaption>
 </figure>
 
@@ -256,23 +247,17 @@ A fictional town considers a bypass (all figures in CU millions).
 
 | Item | Value |
 |---|---|
-| Toll income (private benefit) | 20 |
-| Time saved by drivers (external benefit) | 35 |
+| Time saved by drivers (mainly a private benefit to the drivers) | 55 |
 | Fewer accidents (external benefit) | 10 |
 | Construction (private cost) | 50 |
 | Noise and pollution (external cost) | 12 |
+| Toll income (a transfer from drivers to the operator, not counted in social benefit) | 20 |
 
-1. SB = 20 + 35 + 10 = 65 and SC = 50 + 12 = 62, so net social benefit = +3.
-2. A private operator sees 20 − 50 = −30 and would not build.
-3. If the time saving is 20% lower, it is 28, SB is 58 and net social benefit is −4. The result flips once the time saving falls below 32.
+1. SB = 55 + 10 = 65 and SC = 50 + 12 = 62, so net social benefit = +3.
+2. The toll is paid by drivers and received by the operator, so it cancels out for society. It matters only to a private operator, who sees 20 − 50 = −30 and would not build.
+3. If the time saving is 20% lower, it is 55 × 0.8 = 44, SB is 54 and net social benefit is 54 − 62 = −8. The result flips once the time saving falls below 52.
 
 **Evaluation.** The result is sensitive to its most uncertain values. Intangibles such as noise are hard to price, and who counts as affected changes the answer.
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-economics-efficiency-market-failure-and-externalities--03-bypass-cba-flip.webp" width="900" height="975" alt="Stacked columns compare social benefit with social cost for a bypass in CU millions. In the base case benefits of 65 (toll 20, time 35, accidents 10) exceed costs of 62 (construction 50, noise 12), a net of +3. If the time saving is 20% lower at 28, benefits are 58 and the net is -4; the break-even time saving is 32." loading="lazy">
-  <figcaption>Counting external benefits turns a private loss into a social gain of +3, but a 20% lower time saving flips the answer to -4.</figcaption>
-</figure>
-
 
 ## Common errors
 

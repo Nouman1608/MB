@@ -48,7 +48,7 @@ Halogens are more electronegative than carbon. The bonding pair is pulled toward
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--01-skeletal-isomers.webp" width="900" height="1240" alt="Butan-1-ol drawn as a skeletal formula with the three rules shown (end or corner is carbon, hydrogens on carbon not drawn, OH written in full), then skeletal formulae of the five structural isomers of C6H14." loading="lazy">
-  <figcaption>Each line is a bond and each end or corner is carbon; C6H14 has five structural isomers (AQA, Edexcel, OCR, OxfordAQA, Cambridge).</figcaption>
+  <figcaption>Each line is a bond and each end or corner is carbon; C6H14 has five structural isomers.</figcaption>
 </figure>
 
 <figure class="topic-figure">

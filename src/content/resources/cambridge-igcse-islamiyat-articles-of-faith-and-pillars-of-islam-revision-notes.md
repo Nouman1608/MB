@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review; 2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 ---
 
 **These notes condense Paper 2 Topic 4 of Cambridge IGCSE Islamiyat 0493, The Articles of Faith and
@@ -96,7 +96,7 @@ significance for individuals and communities.
 
 | Pillar | How it is performed | Significance |
 |---|---|---|
-| Shahada | Sincere declaration of tawhid and the Prophet's messengership | Entry to Islam; said in prayer and at birth and death |
+| Shahada | Sincere declaration of tawhid and the Prophet's (pbuh) messengership | Entry to Islam; said in prayer and at birth and death |
 | Salat | Five times daily (Fajr, Zuhr, Asr, Maghrib, Isha); niyya, wudu, clean place, facing qibla; rak'at; Jumu'a and Eid in congregation; qada for missed prayers; shortening for travellers | Remembrance; discipline; equality; keeps from wrongdoing (29.45) |
 | Zakat | 2.5 per cent of savings above nisab after a lunar year; set rates for crops and livestock; recipients in 9.60 | Purifies wealth; reduces poverty and greed; social unity |
 | Sawm | No food, drink or marital relations dawn to sunset in Ramadan; suhur and iftar; exemptions for the sick, travellers, pregnant or nursing women, menstruating women, the elderly and children | Self-control; empathy; gratitude; Laylat al-Qadr; Eid al-Fitr |
@@ -150,7 +150,7 @@ In Cambridge IGCSE 0493 Paper 2 (1 hour 30 minutes, 50 marks), the Articles of F
 
 **Why is the shahada called the foundation of the other pillars?**
 Because every other act of worship
-is valid only if done with belief in one God and acceptance of the Prophet's message.
+is valid only if done with belief in one God and acceptance of the Prophet's (pbuh) message.
 
 **What is Laylat al-Qadr?**
 The Night of Power in the last ten nights of Ramadan, when the Qur'an was

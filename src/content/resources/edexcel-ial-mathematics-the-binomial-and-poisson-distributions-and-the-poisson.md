@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: The Binomial and Poisson distributions and the Poisson approximation to the binomial (YMA01)"
+title: "Pearson Edexcel International A Level Mathematics: The Binomial and Poisson distributions and the Poisson approximation to the binomial (YMA01)"
 seoTitle: "Edexcel IAL Maths S2 Binomial and Poisson Study Guide"
 resourceType: "study-guides"
 subject: "mathematics"

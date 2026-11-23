@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Sequences and series: arithmetic, geometric and the binomial expansion (YMA01) -- Practice Questions"
+title: "Pearson Edexcel International A Level Mathematics: Sequences and series: arithmetic, geometric and the binomial expansion (YMA01) -- Practice Questions"
 seoTitle: "Edexcel IAL Maths Sequences and Series Practice"
 resourceType: "practice-questions"
 subject: "mathematics"
@@ -157,7 +157,7 @@ If the algebra gives a decimal, round to a whole number and check the terms eith
 
 - Re-read the [study guide](/resources/edexcel-ial-mathematics-sequences-and-series-arithmetic-geometric-and-the/) for any question you missed.
 - Use the [revision notes](/resources/edexcel-ial-mathematics-sequences-and-series-arithmetic-geometric-and-the-revision-notes/) for formulae and the proofs.
-- See the [Edexcel A Level Mathematics hub](/boards/edexcel/a-level/mathematics/) and the [printable checklist](/checklists/edexcel/a-level/mathematics/).
+- See the [Pearson Edexcel International A Level Mathematics hub](/boards/edexcel/a-level/mathematics/) and the [printable checklist](/checklists/edexcel/a-level/mathematics/).
 - Try [all free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 

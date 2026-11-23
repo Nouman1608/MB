@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the names, life events and credit given in the answers."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the names, life events and credit given in the answers. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -41,32 +41,32 @@ names and facts; Section B gives full exam-style questions.
 
 **2.** Name **four** of the Ten Blessed Companions who were not caliphs. **[2]**
 
-**3.** Give **two** facts about Zayd ibn Thabit's role in the Prophet's (pbuh) lifetime. **[2]**
+**3.** Give **two** facts about Zayd ibn Thabit's (RA) role in the Prophet's (pbuh) lifetime. **[2]**
 
-**4.** State **three** of the twelve Imams recognised by Twelver Shi'a Muslims after Ali. **[3]**
+**4.** State **three** of the twelve Imams recognised by Twelver Shi'a Muslims after Ali (RA). **[3]**
 
-**5.** Explain why Zaynab bint Khuzayma was called Umm al-Masakin. **[2]**
+**5.** Explain why Zaynab bint Khuzayma (RA) was called Umm al-Masakin. **[2]**
 
-**6.** Describe how Umar's acceptance of Islam changed the situation of the Muslims in Makka. **[3]**
+**6.** Describe how Umar's (RA) acceptance of Islam changed the situation of the Muslims in Makka. **[3]**
 
-**7.** Give **two** ways Uthman used his wealth for the Muslims during the Prophet's lifetime. **[2]**
+**7.** Give **two** ways Uthman (RA) used his wealth for the Muslims during the Prophet's (pbuh) lifetime. **[2]**
 
 ## Section B — Exam-style questions
 
-**8. (a)** Write about the lives of A'isha and Umm Salama, wives of the Prophet (pbuh). **[10]**
+**8. (a)** Write about the lives of A'isha and Umm Salama (RA), wives of the Prophet (pbuh). **[10]**
 **(b)** What does A'isha's work as a teacher show about the place of women in Islamic learning? **[4]**
 
 **9. (a)** Write about the children and grandchildren of the Prophet (pbuh). **[10]**
 **(b)** Explain why the descendants of the Prophet (pbuh) are especially important to Shi'a Muslims. **[4]**
 
-**10. (a)** Write about the lives of Bilal ibn Rabah and Salman al-Farsi. **[10]**
+**10. (a)** Write about the lives of Bilal ibn Rabah (RA) and Salman al-Farsi (RA). **[10]**
 **(b)** What do their lives teach Muslims about equality? **[4]**
 
 **11. (a)** Describe the relationship between the Emigrants and the Helpers after the Hijra. **[10]**
 **(b)** Why was this brotherhood important for the survival of the Muslim community in Madina? **[4]**
 
-**12. (a)** Write about the life of Ali ibn Abi Talib during the lifetime of the Prophet (pbuh). **[10]**
-**(b)** What can young Muslims today learn from Ali's example? **[4]**
+**12. (a)** Write about the life of Ali ibn Abi Talib (RA) during the lifetime of the Prophet (pbuh). **[10]**
+**(b)** What can young Muslims today learn from Ali's (RA) example? **[4]**
 
 ---
 
@@ -77,15 +77,15 @@ names and facts; Section B gives full exam-style questions.
 credit the best five in (a) (maximum 10) and the best two in (b) (maximum 4). Other accurate points
 of the same quality earn the same credit.
 
-**1.** Names, from Zaynab, Ruqayya, Umm Kulthum and Fatima: three correct [2], two correct [1]. Any
-two marriages, [1] each: Zaynab to Abu al-As; Ruqayya to Uthman; Umm Kulthum to Uthman; Fatima to Ali.
+**1.** Names, from Zaynab, Ruqayya, Umm Kulthum and Fatima (RA): three correct [2], two correct [1]. Any
+two marriages, [1] each: Zaynab to Abu al-As; Ruqayya to Uthman (RA); Umm Kulthum to Uthman (RA); Fatima (RA) to Ali (RA).
 Maximum 2. Total 4.
 
-**2.** Any four from Talha ibn Ubaydullah, al-Zubayr ibn al-Awwam, Abd al-Rahman ibn Awf, Sa'd ibn
-Abi Waqqas, Sa'id ibn Zayd, Abu Ubayda ibn al-Jarrah: four correct [2], two or three correct [1].
+**2.** Any four from Talha ibn Ubaydullah (RA), al-Zubayr ibn al-Awwam (RA), Abd al-Rahman ibn Awf (RA), Sa'd ibn
+Abi Waqqas, Sa'id ibn Zayd (RA), Abu Ubayda ibn al-Jarrah (RA): four correct [2], two or three correct [1].
 
-**3.** Any two, [1] each: he wrote down revelation as it came; he wrote the Prophet's letters; he
-learned other languages at the Prophet's request; he was present when the Qur'an was reviewed in the
+**3.** Any two, [1] each: he wrote down revelation as it came; he wrote the Prophet's (pbuh) letters; he
+learned other languages at the Prophet's (pbuh) request; he was present when the Qur'an was reviewed in the
 final year. Maximum 2.
 
 **4.** Any three, [1] each: Hasan; Husayn; Ali Zayn al-Abidin; Muhammad al-Baqir; Ja'far al-Sadiq;
@@ -95,7 +95,7 @@ Maximum 3.
 **5.** "Mother of the poor" [1], because she was known for her generosity in feeding and giving to the
 poor, even before her marriage to the Prophet (pbuh) [1].
 
-**6.** Umar was a strong and feared man of the Quraysh who had opposed Islam [1]. After he accepted
+**6.** Umar (RA) was a strong and feared man of the Quraysh who had opposed Islam [1]. After he accepted
 Islam the Muslims were able to pray openly at the Ka'ba [1], which gave them confidence; he became
 known as al-Faruq, the one who distinguishes truth from falsehood [1].
 
@@ -103,15 +103,15 @@ known as al-Faruq, the one who distinguishes truth from falsehood [1].
 large part of the army for Tabuk; he helped the poor emigrants. Maximum 2.
 
 **8. (a)** Credit the best five, [2] each:
-- A'isha was the daughter of Abu Bakr; she joined the Prophet's household in Madina after the Hijra [2].
+- A'isha was the daughter of Abu Bakr (RA); she joined the Prophet's (pbuh) household in Madina after the Hijra [2].
 - When false accusations were spread about her after a journey, her innocence was declared in the
   Qur'an (Sura 24.11 onwards) [2].
 - She had a sharp memory and narrated a very large number of Hadiths, especially on his private
   and family life [2].
 - The Prophet (pbuh) died in her room with his head resting on her, and was buried there [2].
-- Umm Salama (Hind) and her first husband Abu Salama were early Muslims who migrated to Abyssinia [2].
+- Umm Salama (RA) (Hind) and her first husband Abu Salama were early Muslims who migrated to Abyssinia [2].
 - When migrating to Madina she was separated from her husband and son by her relatives; later she
-  travelled alone with her son and was escorted by Uthman ibn Talha [2].
+  travelled alone with her son and was escorted by Uthman ibn Talha (RA) [2].
 - After Abu Salama died of wounds from Uhud, she married the Prophet (pbuh); at Hudaybiyya her advice
   to sacrifice and shave first led the Companions to follow [2].
 **(b)** Credit the best two, [2] each:
@@ -123,27 +123,27 @@ large part of the army for Tabuk; he helped the poor emigrants. Maximum 2.
   matters [2].
 
 **9. (a)** Credit the best five, [2] each:
-- Khadija bore two sons, al-Qasim and Abdullah, who died in childhood [2].
+- Khadija (RA) bore two sons, al-Qasim and Abdullah, who died in childhood [2].
 - Ibrahim, son of Mariya, died as an infant; the Prophet (pbuh) wept, saying the eye sheds tears but
   he says only what pleases God [2].
 - Zaynab, the eldest daughter, married Abu al-As, who later accepted Islam; their daughter was Umama [2].
-- Ruqayya married Uthman and emigrated with him to Abyssinia; after her death he married Umm Kulthum [2].
-- Fatima married Ali; she was the only child to outlive the Prophet (pbuh), and he called her a part
+- Ruqayya married Uthman (RA) and emigrated with him to Abyssinia; after her death he married Umm Kulthum [2].
+- Fatima (RA) married Ali (RA); she was the only child to outlive the Prophet (pbuh), and he called her a part
   of himself [2].
-- Hasan and Husayn, sons of Fatima and Ali, were loved by him and called leaders of the youth of
+- Hasan and Husayn, sons of Fatima (RA) and Ali (RA), were loved by him and called leaders of the youth of
   paradise [2].
 **(b)** Credit the best two, [2] each:
 - Shi'a Muslims believe leadership after the Prophet (pbuh) was appointed by God within his family,
-  beginning with Ali, so the Imams are the rightful guides [2].
+  beginning with Ali (RA), so the Imams are the rightful guides [2].
 - The Imams are believed to be protected from error and to explain the Qur'an and Sunnah, so their
   teachings are a source of law [2].
 - The sacrifice of Husayn at Karbala is remembered every year as a model of standing against
   injustice [2].
 
 **10. (a)** Credit the best five, [2] each:
-- Bilal was an Abyssinian slave of Umayya ibn Khalaf in Makka and an early Muslim [2].
+- Bilal (RA) was an Abyssinian slave of Umayya ibn Khalaf in Makka and an early Muslim [2].
 - He was tortured on hot sand with a rock on his chest, and kept repeating "One, One" [2].
-- Abu Bakr bought and freed him; in Madina he became the first mu'adhdhin [2].
+- Abu Bakr (RA) bought and freed him; in Madina he became the first mu'adhdhin [2].
 - At the conquest of Makka he gave the call to prayer from the roof of the Ka'ba [2].
 - Salman came from Persia; he left his family's religion and travelled, seeking the truth from
   teachers who told him of a prophet who would appear in a land of palm trees [2].
@@ -154,14 +154,14 @@ large part of the army for Tabuk; he helped the poor emigrants. Maximum 2.
 **(b)** Credit the best two, [2] each:
 - A freed African slave was honoured to call the adhan for all Muslims, so race and social rank do not
   decide a person's worth [2].
-- A Persian's idea saved Madina and he was counted among the Prophet's household, so Muslims value
+- A Persian's idea saved Madina and he was counted among the Prophet's (pbuh) household, so Muslims value
   people of every nation [2].
 
 **11. (a)** Credit the best five, [2] each:
 - The Emigrants arrived from Makka having left homes, trade and often family [2].
 - The Helpers, from the Aws and Khazraj, welcomed them into Madina [2].
 - The Prophet (pbuh) paired each Emigrant with a Helper as brothers in faith [2].
-- Helpers shared homes, land and food; Sa'd ibn al-Rabi' offered Abd al-Rahman ibn Awf half his wealth [2].
+- Helpers shared homes, land and food; Sa'd ibn al-Rabi' offered Abd al-Rahman ibn Awf (RA) half his wealth [2].
 - Abd al-Rahman asked to be shown the market and soon traded successfully [2].
 - The Qur'an praises the Helpers for preferring the Emigrants above themselves (Sura 59.9) [2].
 **(b)** Credit the best two, [2] each:
@@ -170,9 +170,9 @@ large part of the army for Tabuk; he helped the poor emigrants. Maximum 2.
 - It joined Aws, Khazraj and Makkans into one body loyal to the Prophet (pbuh) [2].
 
 **12. (a)** Credit the best five, [2] each:
-- He was the Prophet's cousin, brought up in his household, and the first child to accept Islam [2].
-- On the night of the Hijra he slept in the Prophet's bed and then returned the goods held in trust [2].
-- In Madina he married Fatima; their sons were Hasan and Husayn [2].
+- He was the Prophet's (pbuh) cousin, brought up in his household, and the first child to accept Islam [2].
+- On the night of the Hijra he slept in the Prophet's (pbuh) bed and then returned the goods held in trust [2].
+- In Madina he married Fatima (RA); their sons were Hasan and Husayn [2].
 - He fought bravely at Badr, Uhud and the Trench, where he faced the Makkan champion Amr ibn Abd Wudd [2].
 - He wrote the Treaty of Hudaybiyya and carried the standard at Khaybar [2].
 - During Tabuk he was left in charge of Madina; the Prophet (pbuh) said he was to him as Harun was
@@ -184,7 +184,7 @@ large part of the army for Tabuk; he helped the poor emigrants. Maximum 2.
 
 ## Where marks are usually lost
 
-- Writing about Ali's caliphate (Paper 2) instead of his life before 632.
+- Writing about Ali's (RA) caliphate (Paper 2) instead of his life before 632.
 - Mixing up the two Zaynabs among the wives, or the daughters with the wives.
 - Naming the Ten Blessed without facts.
 

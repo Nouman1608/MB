@@ -104,7 +104,7 @@ A limit to remember: the marker shows that the plasmid was taken up. It does not
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--06-gm-steps.webp" width="900" height="1260" alt="Extended. Six steps to make a human protein in bacteria. a: restriction enzymes cut out the human gene leaving sticky ends. b: the same enzymes cut a plasmid leaving complementary sticky ends. c: the gene is inserted and DNA ligase joins it, making a recombinant plasmid. d: plasmids are put into bacteria. e: bacteria multiply. f: bacteria make the human protein." loading="lazy">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-biotechnology-and-genetic-modification--06-gm-steps.webp" width="900" height="1260" alt="Six steps to make a human protein in bacteria. a: restriction enzymes cut out the human gene leaving sticky ends. b: the same enzymes cut a plasmid leaving complementary sticky ends. c: the gene is inserted and DNA ligase joins it, making a recombinant plasmid. d: plasmids are put into bacteria. e: bacteria multiply. f: bacteria make the human protein." loading="lazy">
   <figcaption>Cut gene and plasmid with the same enzymes, join with ligase, put into bacteria, multiply, collect protein.</figcaption>
 </figure>
 

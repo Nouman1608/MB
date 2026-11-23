@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Sequences and series: arithmetic, geometric and the binomial expansion (YMA01) -- Revision Notes"
+title: "Pearson Edexcel International A Level Mathematics: Sequences and series: arithmetic, geometric and the binomial expansion (YMA01) -- Revision Notes"
 seoTitle: "Edexcel IAL Maths Sequences and Series Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics"

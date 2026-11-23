@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the historical details and mark guidance before use."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the historical details and mark guidance before use. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -150,9 +150,9 @@ Applications (AO2), for example:
 
 *Points of significance*
 
-- **For the statement:** Abu Lahab was the Prophet's uncle and should have protected him, so his insults and hostility hurt more.
+- **For the statement:** Abu Lahab was the Prophet's (pbuh) uncle and should have protected him, so his insults and hostility hurt more.
 - **For the statement:** the Qur'an names him and his wife, which shows how serious the case was.
-- **Against the statement:** other trials were also severe: the boycott with its hunger, the death of Khadija and Abu Talib, the rejection at Ta'if and the plot to kill him.
+- **Against the statement:** other trials were also severe: the boycott with its hunger, the death of Khadija (RA) and Abu Talib, the rejection at Ta'if and the plot to kill him.
 - **Against the statement:** Abu Talib, also family, protected him, so family opposition was not complete.
 - **Balanced view:** opposition from family was painful, but the Prophet (pbuh) faced many kinds of hardship, and each taught patience.
 
@@ -181,7 +181,7 @@ Applications (AO2), for example:
 
 *Points of significance*
 
-- **For the statement:** Abu Lahab was wealthy and from the Prophet's own clan, yet the Qur'an says his wealth would not help him.
+- **For the statement:** Abu Lahab was wealthy and from the Prophet's (pbuh) own clan, yet the Qur'an says his wealth would not help him.
 - **For the statement:** the Quraysh leaders had great status, but their plots failed and Islam spread.
 - **For the statement:** Muslims learn that worldly rank has no value before Allah, only faith and good deeds.
 - **Against the statement:** in this world, the wealthy and powerful often did harm the believers for years; the benefit is promised mainly in the Hereafter.

@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Differentiating and integrating powers of x: gradients, tangents, normals and indefinite integrals (YMA01)"
+title: "Pearson Edexcel International A Level Mathematics: Differentiating and integrating powers of x: gradients, tangents, normals and indefinite integrals (YMA01)"
 seoTitle: "Edexcel IAL Maths P1 Differentiation and Integration Guide"
 resourceType: "study-guides"
 subject: "mathematics"
@@ -29,7 +29,7 @@ reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379).
 
 This guide is aligned to the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics specification (Issue 3, April 2019). It covers Unit P1: Pure Mathematics 1, section 4 (Differentiation, 4.1 to 4.3) and section 5 (Integration, 5.1 and 5.2). As the specification states, P1 is a compulsory unit for IAS Mathematics and Pure Mathematics and for IAL Mathematics and Pure Mathematics. There are no tiers or optional strands inside this content.
 
-Use it with the [revision notes](/resources/edexcel-ial-mathematics-differentiating-and-integrating-powers-of-x-gradients-revision-notes/) and the [practice questions](/resources/edexcel-ial-mathematics-differentiating-and-integrating-powers-of-x-gradients-practice/). The wider course sits on the [Edexcel A Level Mathematics hub](/boards/edexcel/a-level/mathematics/), the [printable checklist](/checklists/edexcel/a-level/mathematics/) lists every topic, and the [free 10-minute diagnostics](/diagnostics/) show where to start. The older [Pure Mathematics 1 overview](/resources/a-level-edexcel-mathematics-pure-mathematics-1/) gives the unit as a whole.
+Use it with the [revision notes](/resources/edexcel-ial-mathematics-differentiating-and-integrating-powers-of-x-gradients-revision-notes/) and the [practice questions](/resources/edexcel-ial-mathematics-differentiating-and-integrating-powers-of-x-gradients-practice/). The wider course sits on the [Pearson Edexcel International A Level Mathematics hub](/boards/edexcel/a-level/mathematics/), the [printable checklist](/checklists/edexcel/a-level/mathematics/) lists every topic, and the [free 10-minute diagnostics](/diagnostics/) show where to start. The older [Pure Mathematics 1 overview](/resources/a-level-edexcel-mathematics-pure-mathematics-1/) gives the unit as a whole.
 
 ## What this unit covers
 

@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the dates and the sequence of events against a teacher's notes."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the dates and the sequence of events against a teacher's notes. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -52,7 +52,7 @@ featured: false
 
 ## Journey: day by day
 
-1. **Night of the plot:** Ali (RA) sleeps in the Prophet's bed; the Prophet (pbuh) slips out.
+1. **Night of the plot:** Ali (RA) sleeps in the Prophet's (pbuh) bed; the Prophet (pbuh) slips out.
 2. **Same night:** meets Abu Bakr (RA); they head south.
 3. **Three nights in Thawr:** Abdullah brings news; Asma (RA) brings food; Amir ibn Fuhayra hides the tracks.
 4. **At the cave mouth:** "Do not grieve; indeed Allah is with us" (9:40).
@@ -67,7 +67,7 @@ featured: false
 |---|---|---|
 | Role | Slept in the bed; returned the trusts; followed on foot | Prepared camels and a guide; travelled with the Prophet (pbuh); hid in Thawr |
 | Quality | Courage and honesty | Loyalty and planning |
-| Effect | Plot failed; the Prophet's trustworthiness upheld | Journey succeeded; his family supported it |
+| Effect | Plot failed; the Prophet's (pbuh) trustworthiness upheld | Journey succeeded; his family supported it |
 
 ## Two mosques
 
@@ -77,7 +77,7 @@ featured: false
 | Importance | First mosque in Islam | Centre of community life |
 | Uses | Prayer | Prayer, learning, courts, meetings, delegations, the suffah |
 
-**Qur'an 9:108:** "a mosque founded on righteousness from the first day" and "men who love to purify themselves". Many scholars say Quba; others say the Prophet's Mosque.
+**Qur'an 9:108:** "a mosque founded on righteousness from the first day" and "men who love to purify themselves". Many scholars say Quba; others say the Prophet (pbuh)'s Mosque.
 
 ## Statesman: four actions
 
@@ -108,12 +108,12 @@ featured: false
 | Bay'ah | Pledge of allegiance |
 | Thawr | Cave of hiding |
 | Quba | Village where the first mosque was built |
-| Suffah | Covered area for poor Muslims in the Prophet's Mosque |
-| Madinat an-Nabi | City of the Prophet |
+| Suffah | Covered area for poor Muslims in the Prophet (pbuh)'s Mosque |
+| Madinat an-Nabi | City of the Prophet (pbuh) |
 
 ## Exam traps
 
-- **Quba** was the first mosque; the Prophet's Mosque came after.
+- **Quba** was the first mosque; the Prophet (pbuh)'s Mosque came after.
 - The cave is **Thawr**, not Hira.
 - The second pledge added **protection**.
 - Ali (RA) did **two things**: slept in the bed and returned trusts.
@@ -133,7 +133,7 @@ featured: false
 9. Give two terms of the Charter of Madinah.
 10. Which verse is the prescribed passage?
 
-**Answers:** 1. He taught the Qur'an and Islam. 2. More than seventy men and two women. 3. Thawr. 4. Asma (RA), daughter of Abu Bakr. 5. He slept in the Prophet's bed so that the watchers thought he was still there. 6. Suraqa ibn Malik. 7. Quba. 8. Abu Ayyub al-Ansari (RA). 9. Any two: one community; Jewish tribes keep their religion; joint defence; no help for the Quraysh; help for the oppressed; disputes to the Prophet (pbuh); Madinah a sacred area. 10. Qur'an 9:108.
+**Answers:** 1. He taught the Qur'an and Islam. 2. More than seventy men and two women. 3. Thawr. 4. Asma (RA), daughter of Abu Bakr (RA). 5. He slept in the Prophet's (pbuh) bed so that the watchers thought he was still there. 6. Suraqa ibn Malik. 7. Quba. 8. Abu Ayyub al-Ansari (RA). 9. Any two: one community; Jewish tribes keep their religion; joint defence; no help for the Quraysh; help for the oppressed; disputes to the Prophet (pbuh); Madinah a sacred area. 10. Qur'an 9:108.
 
 Practise with the [timeline-style practice questions](/resources/oxfordaqa-igcse-islamiyat-9237-the-hijrah-and-the-madni-period-practice/).
 

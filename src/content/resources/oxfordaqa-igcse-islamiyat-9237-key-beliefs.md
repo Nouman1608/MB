@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -64,7 +64,7 @@ Muslims believe Allah sent guidance in books: the Suhuf of Ibraheem (AS), the Ta
 
 Allah sent prophets and messengers to every community to teach the same message of Tawhid and good conduct. Muslims respect them all and "make no distinction between any of His messengers" (2:285). Hazrat Muhammad (pbuh) is believed to be the final prophet, the Seal of the Prophets (33:40).
 
-**Importance:** the messengers show believers how to live; the Prophet's Sunnah is the model.
+**Importance:** the messengers show believers how to live; the Prophet (pbuh)'s Sunnah is the model.
 
 ### 5. Yaum e Akhirah: belief in the Last Day
 
@@ -97,7 +97,7 @@ This does **not** mean that Allah likes or commands evil. Muslims draw three poi
 | Tawhid | Who is God? | Worships and trusts Allah alone |
 | Malaikah | Who is watching and serving? | Behaves well even in private |
 | Kutub | Where is the guidance? | Studies the Qur'an |
-| Risalah | Who shows how to live? | Follows the Prophet's example |
+| Risalah | Who shows how to live? | Follows the Prophet's (pbuh) example |
 | Yaum e Akhirah | Where is life heading? | Lives with accountability |
 | Al-Qadr | Who controls events? | Patient and hopeful |
 

@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Models, vectors and constant acceleration (YMA01) -- Practice Questions"
+title: "Pearson Edexcel International A Level Mathematics: Models, vectors and constant acceleration (YMA01) -- Practice Questions"
 seoTitle: "Edexcel IAL Maths M1 Vectors and SUVAT Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics"
@@ -38,7 +38,7 @@ reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379).
 
 These questions follow Unit M1: Mechanics 1, sections 1.1, 2.1, 2.2 and 3.1 of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics specification (Issue 3, April 2019). Under the specification, M1 is optional: it can be taken within IAS Mathematics, IAS Further Mathematics, IAL Mathematics and IAL Further Mathematics. Learn the content first from the [study guide](/resources/edexcel-ial-mathematics-mathematical-models-vectors-in-mechanics-and-constant/) or the [revision notes](/resources/edexcel-ial-mathematics-mathematical-models-vectors-in-mechanics-and-constant-revision-notes/).
 
-Course links: the [Edexcel A Level Mathematics hub](/boards/edexcel/a-level/mathematics/), the [printable checklist](/checklists/edexcel/a-level/mathematics/) and the [free diagnostics](/diagnostics/). Use g = 9.8 m s⁻² where needed. Vectors use i (east) and j (north) unless stated.
+Course links: the [Pearson Edexcel International A Level Mathematics hub](/boards/edexcel/a-level/mathematics/), the [printable checklist](/checklists/edexcel/a-level/mathematics/) and the [free diagnostics](/diagnostics/). Use g = 9.8 m s⁻² where needed. Vectors use i (east) and j (north) unless stated.
 
 ## Questions
 

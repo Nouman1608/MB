@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-23: bypass cost-benefit example corrected (toll is a transfer), lemons example explained, public and merit good definitions, Pareto alt, MC at Q=40 shown, non-9708 diagrams removed (audit C4)"
 ---
 
 Quick recall for sections 7.3 (Efficiency and market failure) and 7.4 (Private costs and benefits, externalities and social costs and benefits) of the Cambridge International AS & A Level Economics (9708) syllabus for examination in 2026, 2027 and 2028. Topic 7 is A Level content, not examined at AS. For full explanations and longer worked examples, read the [study guide](/resources/cambridge-a-level-economics-efficiency-market-failure-and-externalities/), then test yourself with the [practice questions](/resources/cambridge-a-level-economics-efficiency-market-failure-and-externalities-practice/). See also the [course hub](/boards/cambridge/a-level/economics/), the [printable checklist](/checklists/cambridge/a-level/economics/) and the [free diagnostics](/diagnostics/). All figures are invented, in fictional markets, with CU meaning currency units.
@@ -43,6 +43,8 @@ Quick recall for sections 7.3 (Efficiency and market failure) and 7.4 (Private c
 | Externality | A cost or benefit that falls on a third party outside the transaction |
 | Asymmetric information | One party to a transaction knows more than the other |
 | Moral hazard | Behaviour changes because someone else bears the cost of risk |
+| Public good | A good that is non-rival (one person's use does not reduce what is left for others) and non-excludable (people cannot be stopped from using it), so free-riders can use it without paying and private firms will not supply it |
+| Merit good | A good that is under-consumed in a free market because consumers have imperfect information about its full benefits |
 
 ## Formulas and relationships
 
@@ -80,16 +82,7 @@ For a firm with TC = a + bQ², AC = a/Q + bQ and MC = 2bQ. Minimum AC is where t
   <figcaption>The monopoly misses productive efficiency narrowly and allocative efficiency widely, with a welfare loss of 312.5 thousand CU.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/ib-dp-economics-demand-supply-equilibrium--05-ib-allocative-efficiency.webp" width="900" height="1022" alt="Demand is marginal benefit and supply is marginal cost. At output 30 MB (9) exceeds MC (5); at output 70 MC (9) exceeds MB (5); each loses 40 of surplus. Social surplus is highest, 250, at output 50 where MB equals MC." loading="lazy">
-  <figcaption>Producing more or less than the equilibrium quantity destroys social surplus; only MB = MC is allocatively efficient.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-economics-government-microeconomic-intervention--08-monopoly-welfare-loss.webp" width="900" height="910" alt="Demand (AR) slopes down with marginal revenue below it and marginal cost sloping up. The monopolist produces where MR = MC: output 40 at price 10. The allocatively efficient output is where price = MC: output 60 at price 8. The triangle between 40 and 60 is the welfare loss, area 40." loading="lazy">
-  <figcaption>A monopolist restricts output below the allocatively efficient level and charges a higher price.</figcaption>
-</figure>
-
+**Worked check: monopoly welfare loss (illustrative numbers).** A monopolist sets MR = MC at output 40, where the demand price is 10 and MC is 6. The allocatively efficient output is where P = MC, at output 60, where P = MC = 8. At output 40 the gap between price and MC is 10 − 6 = 4, so the welfare loss triangle is ½ × 4 × (60 − 40) = 40.
 
 ## Pareto optimality and dynamic efficiency (7.3.3, 7.3.4)
 
@@ -99,7 +92,7 @@ For a firm with TC = a + bQ², AC = a/Q + bQ and MC = 2bQ. Minimum AC is where t
 - Trade-off: market power can cause static loss but may fund investment. Whether it does depends on how profit is used and on threat of entry.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-economics-efficiency-market-failure-and-externalities--05-ef-pareto.webp" width="900" height="950" alt="Scatter graph of utility of person A against utility of person B for four allocations: W at 6,6; X at 8,6; Y at 8,3; Z at 5,9. A shaded region to the upper right of W contains all Pareto improvements on W. Moving from W to X makes A better off and leaves B unchanged, so it is a Pareto improvement and W was not Pareto optimal. Moving from X to Y makes B worse off and from X to Z makes A worse off, so neither is an improvement. X and Z are both Pareto optimal." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-a-level-economics-efficiency-market-failure-and-externalities--05-ef-pareto.webp" width="900" height="950" alt="Scatter graph of utility of person A against utility of person B for four allocations: W at 6,6; X at 8,6; Y at 8,3; Z at 5,9. A shaded region contains every allocation that leaves both people at least as well off as at W and at least one of them better off, which are the Pareto improvements on W. Moving from W to X makes A better off and leaves B unchanged, so it is a Pareto improvement and W was not Pareto optimal. Moving from X to Y makes B worse off and from X to Z makes A worse off, so neither is an improvement. X and Z are both Pareto optimal." loading="lazy">
   <figcaption>A move is a Pareto improvement only if someone gains and nobody loses.</figcaption>
 </figure>
 
@@ -173,6 +166,7 @@ At the social optimum the marginal external cost is 12 CU per trip, which is the
 - Moral hazard: after insurance or a guarantee, the protected party takes more risk.
 - Insurer's example: loss 5,000 CU, chance of a claim 4% before cover and 6% after. Expected claim rises from 200 to 300 CU. A premium of 200 loses 100 CU per policy.
 - Responses: excesses, monitoring, sharing information, regulation. Each has a cost.
+- Used-car example (invented figures): half the cars are good, worth 6,000 CU to a buyer, and half are poor, worth 3,000 CU. Buyers cannot tell which is which, so they offer the average, 0.5 × 6,000 + 0.5 × 3,000 = 4,500 CU. Owners of good cars need at least 5,000 CU, so they withdraw. Only poor cars remain, so the price falls to 3,000 CU. Each good-car sale that no longer happens loses a gain of 6,000 − 5,000 = 1,000 CU (the buyer's value minus the seller's minimum).
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-a-level-economics-efficiency-market-failure-and-externalities--01-lemons-car-market.webp" width="900" height="1010" alt="A number line shows the buyers' offer of 4,500 sitting 500 below the 5,000 that owners of good cars need, so good cars are withdrawn. Of ten cars, only the five poor ones remain and the price falls to 3,000. Each lost good-car sale would have gained 1,000." loading="lazy">
@@ -195,6 +189,20 @@ At the social optimum the marginal external cost is 12 CU per trip, which is the
 5. Test sensitivity: which values are least certain?
 
 Net present value is not required. A decision with positive net social benefit but large uncertain values deserves caution.
+
+### Worked reminder: a bypass (CU millions, invented figures)
+
+| Item | Value | Counted in social benefit or cost? |
+|---|---|---|
+| Time saved by drivers | 55 | Social benefit (mainly a private benefit to the drivers who use the road) |
+| Fewer accidents | 10 | Social benefit (external: injuries and hospital costs avoided by others) |
+| Construction | 50 | Social cost (private cost of the builder) |
+| Noise and pollution | 12 | Social cost (external cost to residents) |
+| Toll income | 20 | Not counted: a transfer from drivers to the operator |
+
+1. SB = 55 + 10 = 65 and SC = 50 + 12 = 62, so net social benefit = +3.
+2. The toll is paid by drivers and received by the operator, so it cancels out for society and is not added to SB. It matters only to the operator: 20 − 50 = −30, a private loss, so a private firm would not build.
+3. If the time saving is 20% lower, it is 55 × 0.8 = 44, SB = 54 and net social benefit = 54 − 62 = −8. The result flips when the time saving falls below 62 − 10 = 52.
 
 ## Quick self-test
 
@@ -227,11 +235,6 @@ Net present value is not required. A decision with positive net social benefit b
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-a-level-economics-efficiency-market-failure-and-externalities--06-ef-negative-externality.webp" width="900" height="920" alt="Diagram for a chemical works. Marginal private benefit is 90 minus 3Q, marginal private cost is 18 plus 3Q and marginal external cost is 2Q, so marginal social cost is 18 plus 5Q, which lies above MPC. The market settles where MPB equals MPC at 12 thousand tonnes and a price of 54. The social optimum is where MPB equals MSC at 9 thousand tonnes and 63. At 12 the gap between MSC and MPB is 24. The deadweight welfare loss triangle has area 36 thousand CU. The market overproduces by 3 thousand tonnes." loading="lazy">
   <figcaption>With an external cost the market produces 12 thousand tonnes against a social optimum of 9.</figcaption>
-</figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-a-level-economics-efficiency-market-failure-and-externalities--03-bypass-cba-flip.webp" width="900" height="975" alt="Stacked columns compare social benefit with social cost for a bypass in CU millions. In the base case benefits of 65 (toll 20, time 35, accidents 10) exceed costs of 62 (construction 50, noise 12), a net of +3. If the time saving is 20% lower at 28, benefits are 58 and the net is -4; the break-even time saving is 32." loading="lazy">
-  <figcaption>Counting external benefits turns a private loss into a social gain of +3, but a 20% lower time saving flips the answer to -4.</figcaption>
 </figure>
 
 <figure class="topic-figure">

@@ -21,11 +21,11 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08 recheck: added a short exam-format/content section (page was under 900 words); please re-review; 2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 ---
 
 **These notes support Paper 2 Question 1 of Cambridge O Level Islamiyat 2058, Major Teachings in the
-Hadiths of the Prophet.** Each of the twenty set Hadiths is listed with a keyword cue (the phrase
+Hadiths of the Prophet (pbuh).** Each of the twenty set Hadiths is listed with a keyword cue (the phrase
 that helps you recognise it in the exam), its teaching, and a modern example of putting it into
 practice. Cover the right-hand columns and test yourself.
 

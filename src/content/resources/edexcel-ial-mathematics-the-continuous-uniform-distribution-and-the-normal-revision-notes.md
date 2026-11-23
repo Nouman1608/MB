@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Continuous uniform and Normal approximations (YMA01) -- Revision Notes"
+title: "Pearson Edexcel International A Level Mathematics: Continuous uniform and Normal approximations (YMA01) -- Revision Notes"
 seoTitle: "Edexcel IAL Maths S2 Uniform and Normal Approx Notes"
 resourceType: "revision-notes"
 subject: "mathematics"

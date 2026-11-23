@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-23: total marks (37) stated and examiner notes added (audit C2)"
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -29,9 +29,9 @@ featured: false
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-This set practises section 3.6.3 The mole concept (statements a and b) of the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards. Section A is single-step conversions; Section B links mass, moles and particle numbers in longer problems. The course is untiered.
+This set practises section 3.6.3 The mole concept (statements a and b) of the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards. Section A is single-step conversions; Section B links mass, moles and particle numbers in longer problems. The course is untiered. The set is worth **37 marks** in total: Section A 8 marks, Section B 29 marks.
 
-Use these values throughout: Avogadro's constant = 6.02 × 10²³ per mole. Aᵣ: H = 1, C = 12, N = 14, O = 16, Mg = 24, Al = 27, Cl = 35.5, Fe = 56, Au = 197.
+Use these values throughout: Avogadro's constant = 6.02 × 10²³ mol⁻¹. Aᵣ: H = 1, C = 12, N = 14, O = 16, Mg = 24, Al = 27, Cl = 35.5, Fe = 56, Au = 197.
 
 Links: [mole concept study guide](/resources/oxfordaqa-igcse-chemistry-9202-the-mole-concept/) · [mole concept revision notes](/resources/oxfordaqa-igcse-chemistry-9202-the-mole-concept-revision-notes/)
 
@@ -111,47 +111,75 @@ D: 0.5 mol of CH₄
 
 **1.** Relative formula mass, Mᵣ (or relative atomic mass for an element) [1].
 
+*Examiner insight:* Use Aᵣ for an element and Mᵣ for a compound; the molar mass is then in g/mol.
+
 **2.** Mᵣ Cl₂ = 71 [1]; 7.1 ÷ 71 = **0.10 mol** [1].
 
 *Examiner insight:* Dividing by 35.5 gives 0.20 mol, which is the amount of chlorine atoms, not of Cl₂ molecules.
 
 **3.** Mᵣ MgO = 40 [1]; 0.400 × 40 = **16.0 g** [1].
 
+*Examiner insight:* Add Aᵣ values for the whole formula (24 + 16 = 40), then multiply moles by Mᵣ; the answer is a mass, so the unit is g.
+
 **4.** 0.25 × 6.02 × 10²³ = **1.51 × 10²³** [1].
+
+*Examiner insight:* Iron is made of single atoms, so atoms = moles × 6.02 × 10²³ with no extra multiplier.
 
 **5.** 0.020 × 6.02 × 10²³ = **1.20 × 10²²** [1].
 
+*Examiner insight:* The question asks for molecules, not atoms. Counting atoms would need a further × 5 (1 C + 4 H), giving 6.02 × 10²².
+
 **6.** C [1].
+
+*Examiner insight:* Equal moles means equal numbers of molecules whatever the substance, so compare moles only; the masses and Mᵣ values are irrelevant.
 
 **7. (a)** Mᵣ NH₃ = 17 [1]; 3.4 ÷ 17 = **0.20 mol** [1].
 
 **(b)** 0.20 × 6.02 × 10²³ = **1.20 × 10²³** [1].
 
+*Examiner insight:* Keep the unrounded value 1.204 × 10²³ for the next part.
+
 **(c)** Each molecule has 4 atoms [1]; 4 × 1.204 × 10²³ = **4.82 × 10²³** [1].
+
+*Examiner insight:* Using the rounded 1.20 × 10²³ would give 4.80 × 10²³; carry the unrounded value forward to get 4.82 × 10²³.
 
 **8. (a)** Carbon: 6.0 ÷ 12 = **0.50 mol** [1]; magnesium: 6.0 ÷ 24 = **0.25 mol** [1].
 
 **(b)** Magnesium atoms have twice the mass of carbon atoms (Aᵣ 24 compared with 12) [1], so the same mass of magnesium contains half as many atoms; the carbon sample contains twice as many atoms [1].
 
+*Examiner insight:* Same mass does not mean same number of atoms: compare moles (0.50 mol and 0.25 mol), not grams. Quote both figures in the explanation.
+
 **9. (a)** 3.01 × 10²⁴ ÷ 6.02 × 10²³ = **5.0 mol** [1].
 
 **(b)** Mᵣ H₂O = 18 [1]; 5.0 × 18 = **90 g** [1].
+
+*Examiner insight:* Moles first, then mass: n × Mᵣ. Check the size: 5 mol is much more than 1 mol, so the mass should be much more than 18 g.
 
 **10. (a)** Al: 2.70 ÷ 27 = 0.100 mol [1]; Cl₂: 10.65 ÷ 71 = 0.150 mol [1]; AlCl₃: Mᵣ 133.5, 13.35 ÷ 133.5 = 0.100 mol [1].
 
 **(b)** Ratio 0.100 : 0.150 : 0.100 = 2 : 3 : 2 [1]; **2Al + 3Cl₂ → 2AlCl₃** [1].
 
+*Examiner insight:* Divide by the smallest number (0.100) to get 1 : 1.5 : 1, then double to reach whole numbers 2 : 3 : 2. Use 71, not 35.5, for Cl₂.
+
 **11. (a)** 197 ÷ 6.02 × 10²³ [1] = **3.27 × 10⁻²² g** [1].
+
+*Examiner insight:* The mass of one atom is molar mass ÷ Avogadro's constant (g per atom). Do not forget the negative power of ten.
 
 **(b)** 0.50 ÷ 197 = 2.54 × 10⁻³ mol [1]; × 6.02 × 10²³ = **1.53 × 10²¹ atoms** [1].
 
+*Examiner insight:* Go mass → moles → atoms. The ring is tiny, so about 10²¹ atoms is a sensible size.
+
 **12. (a)** 8.0 ÷ 16 = **0.50 mol** [1].
+
+*Examiner insight:* Mᵣ CH₄ = 12 + 4 = 16. For parts (b) and (c) use the mole ratio from the equation before converting.
 
 **(b)** 2 × 0.50 = 1.0 mol O₂ [1]; 1.0 × 32 = **32 g** [1].
 
 **(c)** 0.50 mol CO₂ [1]; 0.50 × 6.02 × 10²³ = **3.01 × 10²³** [1].
 
 **13. (a)** The student divided Mᵣ by mass instead of mass by Mᵣ [1]; 9.0 ÷ 18 = **0.50 mol** [1].
+
+*Examiner insight:* Sense check: 9.0 g of water is half of 18 g, so it must be less than 1 mol; an answer of 2.0 mol should have been rejected.
 
 **(b)** 0.50 × 6.02 × 10²³ = **3.01 × 10²³** [1].
 

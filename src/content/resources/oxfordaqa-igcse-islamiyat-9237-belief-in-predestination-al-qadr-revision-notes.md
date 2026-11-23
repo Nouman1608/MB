@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the one-line summaries of historical views on free will and the four levels of Qadr."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the one-line summaries of historical views on free will and the four levels of Qadr. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -88,7 +88,7 @@ featured: false
 | Planning | Effort first, then *tawakkul* |
 | Wrongdoing | No excuse; repent |
 
-**Umar and the plague:** Umar (RA) turned back from a land struck by plague. "We flee from the decree of Allah to the decree of Allah." Taking precautions is part of the belief.
+**Umar (RA) and the plague:** Umar (RA) turned back from a land struck by plague. "We flee from the decree of Allah to the decree of Allah." Taking precautions is part of the belief.
 
 ## Key terms
 

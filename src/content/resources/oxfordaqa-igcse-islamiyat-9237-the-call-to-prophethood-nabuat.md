@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the details of the first revelation and the words attributed to Khadija (RA) and Waraqa against the hadith sources used in class."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the details of the first revelation and the words attributed to Khadija (RA) and Waraqa against the hadith sources used in class. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -64,7 +64,7 @@ The Prophet (pbuh) was terrified. He came down the mountain and went home to Kha
 
 - **It shows that he did not expect to be a prophet.** He had not sought the role.
 - **It shows honesty.** He did not hide his fear and confusion.
-- **It shows his humanity.** The Prophet was a man, who felt fear, and who needed comfort.
+- **It shows his humanity.** The Prophet (pbuh) was a man, who felt fear, and who needed comfort.
 
 ## The role of Hazrat Khadija (RA)
 
@@ -93,14 +93,14 @@ After the first revelation, there was a pause (the *fatrah*). The Prophet (pbuh)
 ## The first believers
 
 - **Hazrat Khadija (RA)**, the first adult believer.
-- **Hazrat Ali (RA)**, a boy of about ten, living in the Prophet's household.
+- **Hazrat Ali (RA)**, a boy of about ten, living in the Prophet's (pbuh) household.
 - **Hazrat Zayd ibn Harithah (RA)**, his freed servant and adopted son.
 - **Hazrat Abu Bakr (RA)**, his closest friend, who accepted without hesitation.
 
 ## Why the event matters
 
 - **It is the start of Islam** and of the final revelation, the Qur'an.
-- **It confirms Muhammad (pbuh) as the Prophet and Messenger.**
+- **It confirms Muhammad (pbuh) as the Prophet (pbuh) and Messenger.**
 - **It shows the value of knowledge** in the first word, "Recite".
 - **It shows the link between prophets**, as Waraqa connected the event with Musa (AS).
 - **It started the night known as Laylat ul-Qadr**, which Muslims honour in Ramadhan.
@@ -109,7 +109,7 @@ After the first revelation, there was a pause (the *fatrah*). The Prophet (pbuh)
 
 **Question:** Explain **two** ways in which Hazrat Khadija (RA) supported the Prophet (pbuh) after the first revelation. Apply **one** teaching from a source of authority in your answer. **[6]**
 
-> First, she comforted him when he came home frightened [1]. She told him that Allah would never disgrace him because of his kindness to relatives and the poor, which calmed him and gave him confidence [1]. Second, she took him to her cousin Waraqa, who knew the earlier scriptures [1], and Waraqa confirmed that the angel was the same one who came to Musa, which reassured the Prophet that the revelation was real [1]. The first words of the Qur'an, "Recite in the name of your Lord who created", show that the message was a revelation from the Creator, and Khadija's belief in it made her the first Muslim [2].
+> First, she comforted him when he came home frightened [1]. She told him that Allah would never disgrace him because of his kindness to relatives and the poor, which calmed him and gave him confidence [1]. Second, she took him to her cousin Waraqa, who knew the earlier scriptures [1], and Waraqa confirmed that the angel was the same one who came to Musa, which reassured the Prophet (pbuh) that the revelation was real [1]. The first words of the Qur'an, "Recite in the name of your Lord who created", show that the message was a revelation from the Creator, and Khadija's (RA) belief in it made her the first Muslim [2].
 
 ## Common mistakes
 

@@ -15,6 +15,7 @@ import { syllabusFor } from '../../../../../data/academic/syllabuses';
 import { activeOnly, academicHubPath, type Combination } from '../../../../../utils/academic';
 import { getEntry } from 'astro:content';
 import { routes } from '../../../../../utils/urls/routes';
+import { deckExamInfo } from '../../../../../data/flashcards/exam-years';
 
 export function getStaticPaths() {
   return FLASHCARD_DECKS.flatMap((deck) => {
@@ -36,6 +37,7 @@ const cards = deck.cards.map((card) => ({ ...card, group: card.topic }));
 const tl = deck.tierScheme ? TIER_LABELS[deck.tierScheme] : undefined;
 const upperCount = tl ? deck.cards.filter((x) => x.tier === 'upper').length : 0;
 const cs = codeSuffix(deck);
+const examInfo = deckExamInfo(deck);
 const codeWord = cs ? deck.syllabusCode : c.subject;
 const author = await getEntry('authors', deck.author);
 const reviewer = deck.deckReview ? await getEntry('authors', deck.deckReview.reviewerSlug) : undefined;
@@ -75,7 +77,7 @@ const fromNotes = deck.cards.filter((x) => x.origin === 'revision-notes').length
         ))}
       </ol>
       <div class="mt-8 max-w-[75ch] text-[14.5px] leading-[1.6] text-ink-mute">
-        <p class="m-0">Written for {courseTitle}, {cs ? `syllabus ${deck.syllabusCode} ` : ''}({deck.syllabusSeries}).{tl && upperCount > 0 && ` ${upperCount} cards cover ${tl.upper} content only; ${tl.lower} students can hide them with “${tl.lower} only”.`}</p>
+        <p class="m-0">Written for {courseTitle}, {cs ? `syllabus ${deck.syllabusCode} ` : ''}({deck.syllabusSeries}).{examInfo.length > 0 && ` ${examInfo.map((e) => e.label).join("; ")}.`}{tl && upperCount > 0 && ` ${upperCount} cards cover ${tl.upper} content only; ${tl.lower} students can hide them with “${tl.lower} only”.`}</p>
         <p class="m-0 mt-3">Cards by <a href={routes.author(deck.author)} class="underline decoration-teal-500 underline-offset-2">{author?.data.name ?? deck.author}</a>{fromNotes > 0 && `; ${fromNotes} restate definitions from the ${codeWord} revision notes`}.
           {reviewer
             ? <> This deck was reviewed by <a href={routes.author(reviewer.id)} class="underline decoration-teal-500 underline-offset-2">{reviewer.data.name}</a> on {deck.deckReview!.reviewedOn}.</>

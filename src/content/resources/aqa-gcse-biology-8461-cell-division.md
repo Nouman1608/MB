@@ -83,7 +83,7 @@ The second answer does not halve. Halving happens in meiosis, which makes gamete
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--04-mitosis-vs-meiosis.webp" width="900" height="1260" alt="Extended. A diploid cell with four chromosomes (two pairs) divides by mitosis into two identical cells with four chromosomes each, or by meiosis into four different cells with two chromosomes each. Fertilisation joins two haploid gametes to restore the diploid number; in humans 23 + 23 = 46." loading="lazy">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--04-mitosis-vs-meiosis.webp" width="900" height="1260" alt="A diploid cell with four chromosomes (two pairs) divides by mitosis into two identical cells with four chromosomes each, or by meiosis into four different cells with two chromosomes each. Fertilisation joins two haploid gametes to restore the diploid number; in humans 23 + 23 = 46." loading="lazy">
   <figcaption>Mitosis keeps the chromosome number; meiosis halves it, and fertilisation restores it.</figcaption>
 </figure>
 

@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the practices of Ashura in Sunni and Shia communities and the mark guidance before use."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the practices of Ashura in Sunni and Shia communities and the mark guidance before use. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -171,7 +171,7 @@ Lessons (AO1):
 - **Gratitude to Allah** [1]: the Sunni fast remembers how Allah saved Musa (AS), so Muslims thank Allah for help [1].
 - **Standing up for justice** [1]: Hazrat Husayn (RA) refused to accept what he saw as injustice, even at great cost [1].
 - **Patience and sacrifice** [1]: the story of Karbala teaches patience in suffering for the truth [1].
-- **Following the Prophet's example** [1]: the Prophet (pbuh) fasted, which shows the value of obeying the Sunnah [1].
+- **Following the Prophet's (pbuh) example** [1]: the Prophet (pbuh) fasted, which shows the value of obeying the Sunnah [1].
 
 Applications (AO2), for example:
 

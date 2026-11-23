@@ -29,7 +29,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-09-03
 featured: false
 ---
@@ -89,9 +89,9 @@ God does not look at your forms and your possessions, but he looks at your heart
 
 ## Question 3
 
-**3 (a)** Give an account of the main events of Abu Bakr's caliphate. **[10]**
+**3 (a)** Give an account of the main events of Abu Bakr's (RA) caliphate. **[10]**
 
-**(b)** In your opinion, which of Abu Bakr's decisions as caliph best shows his qualities as a leader? Give reasons for your answer. **[4]**
+**(b)** In your opinion, which of Abu Bakr's (RA) decisions as caliph best shows his qualities as a leader? Give reasons for your answer. **[4]**
 
 ## Question 4
 
@@ -134,7 +134,7 @@ The credit guides below turn this into points you can check your own answer agai
 **(a) [10]** — each accurate, developed point **[2]**; credit the **best five** (maximum 10).
 
 - In the Prophet's (pbuh) lifetime, the Companions **memorised** his words and actions and passed them on; at first writing Hadiths was discouraged so that they would not be confused with the Qur'an, but some Companions were allowed to write, such as **Abdullah ibn Amr**, whose collection was called al-Sahifa al-Sadiqa [2].
-- After his death, Companions such as **Abu Hurayra, A'isha, Abdullah ibn Umar, Anas ibn Malik and Abdullah ibn Abbas** narrated large numbers of Hadiths, and their students (the Successors) travelled to collect them [2].
+- After his death, Companions such as **Abu Hurayra, A'isha, Abdullah ibn Umar (RA), Anas ibn Malik and Abdullah ibn Abbas** narrated large numbers of Hadiths, and their students (the Successors) travelled to collect them [2].
 - Reasons for writing them down grew: many Companions were dying, Islam was spreading among people who had never met the Prophet (pbuh), and some people began to **invent sayings** to support political or sectarian views [2].
 - The Umayyad caliph **Umar ibn Abd al-Aziz** ordered scholars, including **Ibn Shihab al-Zuhri**, to collect the Hadiths officially [2].
 - **Musannaf** collections arranged Hadiths by subject, such as prayer or trade; the best known early one is the **Muwatta of Imam Malik**, which also includes the practice of the people of Madina and the opinions of Companions [2].
@@ -151,13 +151,13 @@ The credit guides below turn this into points you can check your own answer agai
 
 **(a) [10]** — each accurate, developed point **[2]**; credit the **best five** (maximum 10).
 
-- After the Prophet's (pbuh) death in 632 (11 AH), Abu Bakr was chosen as caliph at **Saqifa Bani Sa'ida**; in his first address he asked the people to obey him only as long as he obeyed God and His Messenger [2].
+- After the Prophet's (pbuh) death in 632 (11 AH), Abu Bakr (RA) was chosen as caliph at **Saqifa Bani Sa'ida**; in his first address he asked the people to obey him only as long as he obeyed God and His Messenger [2].
 - He sent the **army of Usama ibn Zayd** to the Syrian border as the Prophet (pbuh) had ordered, even though some advised keeping it in Madina; its success showed the tribes that the state remained strong [2].
-- Some tribes **refused to pay zakat**; Abu Bakr insisted that zakat could not be separated from prayer and sent forces to bring them back to obedience in the **Ridda wars** [2].
+- Some tribes **refused to pay zakat**; Abu Bakr (RA) insisted that zakat could not be separated from prayer and sent forces to bring them back to obedience in the **Ridda wars** [2].
 - He sent commanders against people who claimed to be prophets, including **Tulayha** and **Musaylima**; Musaylima was defeated and killed at the **Battle of Yamama** by an army under **Khalid ibn al-Walid** [2].
-- Many who knew the Qur'an by heart were martyred at Yamama, so on Umar's advice Abu Bakr ordered **Zayd ibn Thabit** to collect the Qur'an into a single written copy [2].
+- Many who knew the Qur'an by heart were martyred at Yamama, so on Umar's (RA) advice Abu Bakr (RA) ordered **Zayd ibn Thabit (RA)** to collect the Qur'an into a single written copy [2].
 - He began campaigns beyond Arabia, sending Khalid ibn al-Walid into **Iraq** against the Persians and armies into **Syria** against the Byzantines [2].
-- Before his death in 634 (13 AH) he consulted senior Companions and **nominated Umar** as his successor, so the community avoided dispute; he lived simply and asked that the allowance he had taken from the treasury be repaid from his property [2].
+- Before his death in 634 (13 AH) he consulted senior Companions and **nominated Umar (RA)** as his successor, so the community avoided dispute; he lived simply and asked that the allowance he had taken from the treasury be repaid from his property [2].
 
 **(b) [4]** — a clear judgement **[1]**, supported by reasons **[3]** (maximum 4). Any decision may be chosen and receives equal credit if it is well argued. For example:
 
@@ -207,7 +207,7 @@ The credit guides below turn this into points you can check your own answer agai
 - Writing about only one Hadith in Question 1, or explaining three: the rubric asks for **two**, and each is worth half of each part.
 - In Question 1(b), repeating the teaching instead of giving a practical action a Muslim could take today.
 - In Question 2, describing isnad and matn checks when the question asks about the **history of compilation**, or confusing a musnad (arranged by narrator) with a musannaf (arranged by subject).
-- Listing Abu Bakr's actions without the detail (names, places, reasons) that a Level 4 answer needs.
+- Listing Abu Bakr's (RA) actions without the detail (names, places, reasons) that a Level 4 answer needs.
 - In Question 5, giving the 2.5 per cent rate without the nisab and the one-year condition, or naming only two or three of the eight groups.
 
 ## Frequently asked questions

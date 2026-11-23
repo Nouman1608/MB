@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the events, dates and names and the credit given in each answer."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the events, dates and names and the credit given in each answer. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -39,32 +39,32 @@ details of each rule; Section B gives full exam-style questions.
 
 **1.** Give the years of rule of each of the four Rightly Guided Caliphs. **[4]**
 
-**2.** Why did Abu Bakr send Usama's army to the Syrian frontier despite the dangers at home? **[2]**
+**2.** Why did Abu Bakr (RA) send Usama's army to the Syrian frontier despite the dangers at home? **[2]**
 
-**3.** Name **three** people who claimed prophethood during Abu Bakr's caliphate. **[3]**
+**3.** Name **three** people who claimed prophethood during Abu Bakr's (RA) caliphate. **[3]**
 
-**4.** Name the **six** members of the council Umar appointed to choose his successor. **[3]**
+**4.** Name the **six** members of the council Umar (RA) appointed to choose his successor. **[3]**
 
-**5.** State **three** ways in which Umar held his governors to account. **[3]**
+**5.** State **three** ways in which Umar (RA) held his governors to account. **[3]**
 
-**6.** Give **two** achievements of Uthman's caliphate other than the standardisation of the Qur'an.
+**6.** Give **two** achievements of Uthman's (RA) caliphate other than the standardisation of the Qur'an.
 **[2]**
 
-**7.** Explain why the Kharijites broke away from Ali. **[3]**
+**7.** Explain why the Kharijites broke away from Ali (RA). **[3]**
 
 ## Section B — Exam-style questions
 
-**8. (a)** Describe how Abu Bakr became caliph and the main events of his rule. **[10]**
-**(b)** What can modern leaders learn from Abu Bakr's first address as caliph? **[4]**
+**8. (a)** Describe how Abu Bakr (RA) became caliph and the main events of his rule. **[10]**
+**(b)** What can modern leaders learn from Abu Bakr's (RA) first address as caliph? **[4]**
 
-**9. (a)** Describe the Ridda wars fought during the caliphate of Abu Bakr. **[10]**
-**(b)** Was Abu Bakr right to fight those who refused to pay zakat? Give reasons. **[4]**
+**9. (a)** Describe the Ridda wars fought during the caliphate of Abu Bakr (RA). **[10]**
+**(b)** Was Abu Bakr (RA) right to fight those who refused to pay zakat? Give reasons. **[4]**
 
-**10. (a)** Write about Umar's personal character and the way he led the community. **[10]**
-**(b)** Explain how Umar's welfare system can be a model for governments today. **[4]**
+**10. (a)** Write about Umar's (RA) personal character and the way he led the community. **[10]**
+**(b)** Explain how Umar's (RA) welfare system can be a model for governments today. **[4]**
 
-**11. (a)** Describe the events of Ali's caliphate from his election to his death. **[10]**
-**(b)** Explain what Muslims can learn from the way Ali dealt with conflict among Muslims. **[4]**
+**11. (a)** Describe the events of Ali's (RA) caliphate from his election to his death. **[10]**
+**(b)** Explain what Muslims can learn from the way Ali (RA) dealt with conflict among Muslims. **[4]**
 
 **12. (a)** Describe how the Rightly Guided Caliphs dealt with non-Muslim peoples and other states.
 **[10]**
@@ -79,16 +79,16 @@ Level 2 = 3–4, Level 1 = 1–2; part (b) Level 2 = 3–4, Level 1 = 1–2. Eac
 earns [2]; credit the best five in (a) (maximum 10) and the best two in (b) (maximum 4) unless
 stated. Other accurate points of the same quality earn the same credit.
 
-**1.** Abu Bakr 632–634 [1]; Umar 634–644 [1]; Uthman 644–656 [1]; Ali 656–661 [1].
+**1.** Abu Bakr (RA) 632–634 [1]; Umar (RA) 634–644 [1]; Uthman (RA) 644–656 [1]; Ali (RA) 656–661 [1].
 
-**2.** The Prophet (pbuh) had prepared the army before his death, and Abu Bakr would not undo a
-decision of the Prophet [1]; sending it also showed rebellious tribes and neighbouring powers that the
+**2.** The Prophet (pbuh) had prepared the army before his death, and Abu Bakr (RA) would not undo a
+decision of the Prophet (pbuh) [1]; sending it also showed rebellious tribes and neighbouring powers that the
 Muslim state was still strong [1].
 
 **3.** Musaylima [1]; Tulayha [1]; Sajah [1].
 
-**4.** Any six names correct = 3 marks; four or five = 2; two or three = 1: Uthman, Ali, Abd
-al-Rahman ibn Awf, Sa'd ibn Abi Waqqas, al-Zubayr ibn al-Awwam, Talha ibn Ubaydullah.
+**4.** Any six names correct = 3 marks; four or five = 2; two or three = 1: Uthman (RA), Ali (RA), Abd
+al-Rahman ibn Awf, Sa'd ibn Abi Waqqas (RA), al-Zubayr ibn al-Awwam (RA), Talha ibn Ubaydullah (RA).
 
 **5.** Any three, [1] each: he recorded their wealth on appointment and checked it later; he took back
 wealth gained unfairly; he heard complaints against them publicly, especially at hajj; he dismissed
@@ -96,23 +96,23 @@ governors who treated people unjustly; he told them to live simply and stay acce
 Maximum 3.
 
 **6.** Any two, [1] each: expansion into North Africa, Armenia and Persia; the first Muslim navy and
-the taking of Cyprus; enlargement of the Prophet's Mosque; generous use of his own wealth for the
+the taking of Cyprus; enlargement of the Prophet (pbuh)'s Mosque; generous use of his own wealth for the
 community. Maximum 2.
 
-**7.** At Siffin Ali agreed to arbitration with Mu'awiya [1]. A group in his army rejected it, saying
+**7.** At Siffin Ali (RA) agreed to arbitration with Mu'awiya [1]. A group in his army rejected it, saying
 "judgement belongs to God alone" and that humans could not judge the matter [1]; they left his army,
 declared him wrong, and later took up arms against him, so he fought them at Nahrawan [1].
 
 **8. (a)** Credit the best five, [2] each:
-- When the Prophet died in 632, the Ansar met at the Saqifa of Banu Sa'ida to choose a leader [2].
-- Abu Bakr, Umar and Abu Ubayda joined them; after discussion Umar pledged allegiance to Abu Bakr and
+- When the Prophet (pbuh) died in 632, the Ansar met at the Saqifa of Banu Sa'ida to choose a leader [2].
+- Abu Bakr (RA), Umar (RA) and Abu Ubayda (RA) joined them; after discussion Umar (RA) pledged allegiance to Abu Bakr (RA) and
   the others followed, and the people pledged in the mosque the next day [2].
-- He sent Usama ibn Zayd's army to the Syrian frontier, as the Prophet had planned [2].
+- He sent Usama ibn Zayd's army to the Syrian frontier, as the Prophet (pbuh) had planned [2].
 - He fought the Ridda wars against false prophets and tribes refusing zakat, ending with the defeat
   of Musaylima at Yamama [2].
-- After Yamama he had Zayd ibn Thabit collect the Qur'an into one copy [2].
+- After Yamama he had Zayd ibn Thabit (RA) collect the Qur'an into one copy [2].
 - Khalid ibn al-Walid led campaigns into Iraq and then joined the armies in Syria [2].
-- He consulted senior Companions and nominated Umar before his death in 634 [2].
+- He consulted senior Companions and nominated Umar (RA) before his death in 634 [2].
 **(b)** Credit the best two, [2] each:
 - He asked the people to correct him if he did wrong, so leaders today should accept criticism, a free
   press and independent courts [2].
@@ -122,9 +122,9 @@ declared him wrong, and later took up arms against him, so he fought them at Nah
   not personal power [2].
 
 **9. (a)** Credit the best five, [2] each:
-- After the Prophet's death many tribes turned away from Islam or refused to pay zakat to Madina [2].
+- After the Prophet's (pbuh) death many tribes turned away from Islam or refused to pay zakat to Madina [2].
 - False prophets appeared: Tulayha, Sajah and Musaylima, who had the largest following [2].
-- Some Companions, including Umar at first, advised against fighting those who still prayed; Abu Bakr
+- Some Companions, including Umar (RA) at first, advised against fighting those who still prayed; Abu Bakr (RA)
   said he would fight anyone who separated prayer from zakat [2].
 - He organised several armies under different commanders to deal with each region [2].
 - Khalid ibn al-Walid defeated Tulayha, then Musaylima at Yamama, where Musaylima was killed [2].
@@ -133,7 +133,7 @@ declared him wrong, and later took up arms against him, so he fought them at Nah
 - By the end of the wars Arabia was united again under Madina [2].
 **(b)** A clear judgement [1] supported by reasons [3]. For example: yes [1]. Zakat is a Pillar of
 Islam, commanded alongside prayer in the Qur'an, so refusing it rejected part of the religion [1];
-accepting the refusal would have encouraged others to break away and destroyed the unity the Prophet
+accepting the refusal would have encouraged others to break away and destroyed the unity the Prophet (pbuh)
 had built [1]; and the success of his firmness, which reunited Arabia, shows it was a wise decision
 [1]. A reasoned answer that concentrates on his firmness against the false prophets earns the same
 credit.
@@ -155,41 +155,41 @@ credit.
   like modern pensions and child support [2].
 - Support from the treasury for the poor and elderly shows that welfare should be a right, paid from
   public funds collected fairly [2].
-- Umar's personal checks on needs show that leaders should know the real conditions of citizens, for
+- Umar's (RA) personal checks on needs show that leaders should know the real conditions of citizens, for
   example through surveys and local offices [2].
 
 **11. (a)** Credit the best five, [2] each:
-- After Uthman's murder in 656, Ali was chosen in Madina at a time of disorder [2].
-- Aisha, Talha and al-Zubayr demanded immediate punishment of Uthman's killers; Ali wished to restore
+- After Uthman's (RA) murder in 656, Ali (RA) was chosen in Madina at a time of disorder [2].
+- Aisha (RA), Talha (RA) and al-Zubayr demanded immediate punishment of Uthman's (RA) killers; Ali (RA) wished to restore
   order first [2].
-- At the Battle of the Camel near Basra in 656 Ali won; Talha and al-Zubayr died, and he sent Aisha
+- At the Battle of the Camel near Basra in 656 Ali (RA) won; Talha (RA) and al-Zubayr died, and he sent Aisha (RA)
   back to Madina with honour [2].
 - He moved the capital to Kufa [2].
-- Mu'awiya, governor of Syria, refused allegiance; at Siffin in 657 Ali accepted arbitration when the
+- Mu'awiya, governor of Syria, refused allegiance; at Siffin in 657 Ali (RA) accepted arbitration when the
   Syrians raised copies of the Qur'an [2].
 - The Kharijites rejected arbitration and were defeated at Nahrawan in 658 [2].
 - In 661 the Kharijite Ibn Muljam struck him in the mosque at Kufa, and he died of the wound [2].
 **(b)** Credit the best two, [2] each:
 - He accepted arbitration rather than continue killing Muslims, so disputes should be settled by
   negotiation where possible [2].
-- He treated Aisha with respect after the Battle of the Camel, showing that opponents keep their
+- He treated Aisha (RA) with respect after the Battle of the Camel, showing that opponents keep their
   dignity [2].
 - He stood by principle and justice even when it made him unpopular, so leaders should not abandon
   what is right to win support [2].
 
 **12. (a)** Credit the best five, [2] each:
-- Abu Bakr told his armies not to kill women, children or the elderly, or to cut down fruit trees [2].
+- Abu Bakr (RA) told his armies not to kill women, children or the elderly, or to cut down fruit trees [2].
 - Commanders offered terms before fighting: acceptance of Islam, payment of jizya, or battle [2].
-- Umar travelled to Jerusalem and gave its Christian inhabitants a written guarantee for their lives,
+- Umar (RA) travelled to Jerusalem and gave its Christian inhabitants a written guarantee for their lives,
   property and churches [2].
 - Non-Muslims who paid jizya were protected and did not serve in the army; the poor, women, children
   and the elderly were exempt [2].
 - Agreements with cities were kept, and governors who mistreated local people were punished [2].
-- Uthman and Ali continued these treaties, and conquered peoples kept their own religious laws [2].
+- Uthman (RA) and Ali (RA) continued these treaties, and conquered peoples kept their own religious laws [2].
 **(b)** Credit the best two, [2] each:
 - States should honour treaties and agreements, as the caliphs kept their terms with conquered
   cities [2].
-- In war, civilians, crops and places of worship must be protected, matching Abu Bakr's instructions
+- In war, civilians, crops and places of worship must be protected, matching Abu Bakr's (RA) instructions
   [2].
 - Religious minorities should be protected and free to worship, following the guarantee to
   Jerusalem [2].
@@ -199,7 +199,7 @@ credit.
 ## Where marks are usually lost
 
 - Using events from before 632 in a Paper 2 answer.
-- Giving the conquests under Umar when the question asks about his character.
+- Giving the conquests under Umar (RA) when the question asks about his character.
 - Muddling the order of the Camel, Siffin and Nahrawan.
 
 ## Frequently asked questions

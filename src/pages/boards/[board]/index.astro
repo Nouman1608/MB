@@ -18,6 +18,8 @@ import {
   boardsWithCombinations, academicHubPath, offersClasses,
 } from '../../../utils/academic';
 import { boardBySlug } from '../../../data/academic/boards';
+import { QUALIFICATIONS } from '../../../data/academic/qualifications';
+import { pairedCodeNote, tileSubjectName } from '../../../data/academic/paired-codes';
 import { routes } from '../../../utils/urls/routes';
 import { faqNode } from '../../../utils/schema/faq';
 import { boardHubTitle } from '../../../utils/seo/hub-titles';
@@ -39,9 +41,10 @@ const groups = [...byQualification.entries()]
   .map(([qualificationSlug, items]) => ({
     qualificationSlug,
     qualification: items[0].qualification,
-    items: items.slice().sort((a, b) => a.subject.localeCompare(b.subject)),
+    items: items.slice().sort((a, b) => tileSubjectName(a).localeCompare(tileSubjectName(b))),
   }))
-  .sort((a, b) => a.qualification.localeCompare(b.qualification));
+  // P9: one qualification order on every board (the order of QUALIFICATIONS, as on /subjects/ and /resources/).
+  .sort((a, b) => QUALIFICATIONS.findIndex((q) => q.slug === a.qualificationSlug) - QUALIFICATIONS.findIndex((q) => q.slug === b.qualificationSlug));
 
 const path = boardPath(boardSlug as string);
 
@@ -64,7 +67,7 @@ const faqs = [
   },
   {
     question: `How many ${board.name} subjects does Marlbridge teach?`,
-    answer: `Marlbridge publishes ${combos.length} ${board.name} subject and qualification combinations, covering ${subjectCount} distinct subject${subjectCount === 1 ? '' : 's'}.${taughtCount < combos.length ? ` Classes are currently offered in ${taughtCount} of them; the rest are published for their free study resources only.` : ''}`,
+    answer: `Marlbridge publishes ${combos.length} ${board.name} subject and qualification combinations, covering ${subjectCount} distinct subject${subjectCount === 1 ? '' : 's'}.${taughtCount < combos.length ? ` Classes are currently offered in ${taughtCount} of them (each one is marked "Classes offered" in the lists on this page); the rest are published for their free study resources only.` : ''}`,
   },
 ];
 const faq = faqNode(faqs);
@@ -93,8 +96,10 @@ const faq = faqNode(faqs);
             {g.items.map((c) => (
               <li class="m-0 bg-white">
                 <a href={academicHubPath(c)} class="group flex h-full flex-col justify-between gap-2 p-5">
-                  <span class="font-display text-xl tracking-[-0.01em] text-navy-800 group-hover:text-gold-600 font-semibold">{c.subject}</span>
+                  <span class="font-display text-xl tracking-[-0.01em] text-navy-800 group-hover:text-gold-600 font-semibold">{tileSubjectName(c)}</span>
                   {c.qualificationCode && <span class="font-mono text-[12px] text-ink-mute">Specification {c.qualificationCode}</span>}
+                  {pairedCodeNote(c) && <span class="text-[13px] leading-snug text-ink-mute" data-paired-code-note>{pairedCodeNote(c)}</span>}
+                  {offersClasses(c) && <span class="mb-label text-teal-700" data-classes-offered>Classes offered</span>}
                 </a>
               </li>
             ))}

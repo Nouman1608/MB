@@ -46,11 +46,22 @@ interface Props {
   context: ShortTitleContext;
   /** D-444: topic slug -> that topic's flashcard page and card count, when the course has a deck. */
   flashcards?: Record<string, { href: string; count: number }>;
+  /** P7/P8: sentences (may hold one link) saying which resources this course shares with a sibling course. */
+  sharedNotes?: string[];
 }
-const { data, record, courseLabel, searchLabel, groups, tools, board, officialTitle, isMyp, context, flashcards } = Astro.props;
+const { data, record, courseLabel, searchLabel, groups, tools, board, officialTitle, isMyp, context, flashcards, sharedNotes = [] } = Astro.props;
 const rtl = recordRtlLang(record?.topics ?? []);
 const bySlug = new Map(data.topics.map((t) => [t.topic.slug, t]));
 const covered = data.topics.filter((t) => t.count > 0).length;
+// P3: a record whose top-level entries are papers ("Paper 1", "Paper 2") says so, rather than "2 topics".
+const papersAsTopics = data.topics.length > 0 && data.topics.every((t) => /^Paper d+$/i.test(t.topic.name.trim()));
+// P5: a resource listed under more than one topic is counted once in the total above; say how many are listed twice or more.
+const linkCount = data.topics.reduce((s, t) => s + t.count, 0) + data.wholeCourseCount;
+const listedMoreThanOnce = (() => {
+  const seen = new Map<string, number>();
+  for (const t of data.topics) for (const k of KIND_ORDER) for (const r of t.groups[k]) seen.set(r.id, (seen.get(r.id) ?? 0) + 1);
+  return [...seen.values()].filter((n) => n > 1).length;
+})();
 
 const TYPE_TAG: Record<string, string> = { 'subject-guides': 'Course guide', 'learning-articles': 'Article', 'past-papers': 'Past papers guide', 'exam-preparation': 'Exam preparation' };
 // Full titles, wrapping inside the chip when they are long (no ellipsis): a cut-off title hid
@@ -76,7 +87,7 @@ const placeholder = exampleTerms.length ? `e.g. ${exampleTerms.join(', ')}` : 'a
   <div class="flex flex-wrap items-end justify-between gap-x-6 gap-y-2">
     <h2 id="topics-heading" class="m-0 text-[length:var(--text-h2)] font-bold leading-[1.08] tracking-[-0.025em] text-navy-800">Topics and resources</h2>
     <p class="m-0 mb-meta text-ink-mute">
-      {data.total} free {data.total === 1 ? 'resource' : 'resources'}{record && <>, {covered} of {record.topics.length} topics covered</>}
+      {data.total} free {data.total === 1 ? 'resource' : 'resources'}{record && <>, {covered} of {record.topics.length} {papersAsTopics ? (record.topics.length === 1 ? 'paper' : 'papers') : (record.topics.length === 1 ? 'topic' : 'topics')} covered</>}{listedMoreThanOnce > 0 && <> ({listedMoreThanOnce} {listedMoreThanOnce === 1 ? 'is' : 'are'} listed under more than one topic, so {linkCount} links appear below)</>}
     </p>
   </div>
   <p class="m-0 mt-3 max-w-[70ch] text-[16px] leading-[1.6] text-ink-mute">
@@ -84,6 +95,7 @@ const placeholder = exampleTerms.length ? `e.g. ${exampleTerms.join(', ')}` : 'a
       ? <>Each topic below is {isMyp ? <>a heading from Marlbridge's summary of the IB's <a href={record.sourceUrl} rel="nofollow noopener" class="underline decoration-teal-500 underline-offset-2">subject brief</a></> : <>from the <a href={record.sourceUrl} rel="nofollow noopener" class="underline decoration-teal-500 underline-offset-2">official {board} document</a> for {officialTitle}</>}, with its study guides, revision notes and practice questions together. Everything here is for <strong class="font-semibold text-navy-800">{courseLabel}</strong> only.</>
       : <>The free study guides, revision notes and practice questions for <strong class="font-semibold text-navy-800">{courseLabel}</strong>. Topic-by-topic listing appears once the syllabus topics are confirmed against the awarding body's document.</>}
   </p>
+  {sharedNotes.map((n) => <p class="m-0 mt-2 max-w-[70ch] text-[14.5px] leading-[1.6] text-ink-mute" data-shared-resources set:html={n} />)}
   <ul class="m-0 mt-4 flex list-none flex-wrap gap-x-5 gap-y-2 p-0 text-[14.5px]" aria-label="How resources are grouped">
     {(['learn', 'review', 'practice'] as const).map((k) => (
       <li class={`m-0 flex items-center gap-1.5 font-semibold ${MODE[k].text}`}><ModeIcon kind={k} size={18} /><span>{MODE[k].mode}<span class="font-normal text-ink-mute"> with {MODE[k].label.toLowerCase()}</span></span></li>
@@ -179,7 +191,7 @@ const placeholder = exampleTerms.length ? `e.g. ${exampleTerms.join(', ')}` : 'a
                           <span class="w-[8.5rem] shrink-0 text-[13px] font-medium text-ink-mute">{entry.groups[k].length > 1 ? MODE[k].label : MODE[k].singular}</span>
                           <span class="flex min-w-0 flex-wrap gap-2">
                             {entry.groups[k].map((r) => (
-                              <a href={routes.resource(r.id)} data-res data-course-resource={k} title={r.title} data-search={searchText(r.title, r.description, MODE[k].label, TYPE_TAG[r.resourceType])} class={pill}>{entry.groups[k].length > 1 ? shortTitle(r.title, context) : MODE[k].singular}</a>
+                              <a href={routes.resource(r.id)} data-res data-course-resource={k} title={r.title} data-search={searchText(r.title, r.description, MODE[k].label, TYPE_TAG[r.resourceType])} class={pill}>{entry.groups[k].length > 1 ? shortTitle(r.title, context) : MODE[k].singular}{r.combined && <span class="text-ink-mute"> (combined)</span>}</a>
                             ))}
                           </span>
                         </div>

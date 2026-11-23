@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the order of the early converts, the dates of the private and public phases and the stages of the prohibition of alcohol and gambling against a teacher's notes."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the order of the early converts, the dates of the private and public phases and the stages of the prohibition of alcohol and gambling against a teacher's notes. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -39,7 +39,7 @@ After the first revelation and the pause, the Prophet (pbuh) began to call peopl
 | Hazrat Zayd ibn Harithah (RA) | His freed servant and adopted son |
 | Hazrat Abu Bakr (RA) | His closest friend, who invited others to Islam |
 
-Through Abu Bakr (RA), several notable men accepted Islam, including Uthman ibn Affan, Zubair ibn al-Awwam, Abdur Rahman ibn Awf, Sa'd ibn Abi Waqqas and Talha ibn Ubaydullah (may Allah be pleased with them). Many early believers were young, poor, or without tribal protection. They included slaves such as **Bilal** and people such as Ammar and his parents.
+Through Abu Bakr (RA), several notable men accepted Islam, including Uthman ibn Affan (RA), Zubair ibn al-Awwam, Abdur Rahman ibn Awf, Sa'd ibn Abi Waqqas (RA) and Talha ibn Ubaydullah (RA) (may Allah be pleased with them). Many early believers were young, poor, or without tribal protection. They included slaves such as **Bilal (RA)** and people such as Ammar and his parents.
 
 **Why was it private?** There were three reasons. The new community was tiny and weak. The Quraysh were powerful and might attack before the believers were ready. The Prophet (pbuh) also needed time to teach the first believers the Qur'an and how to pray. The small group met in secret, and many studied at the house of **al-Arqam** near Mount Safa. This place was useful because it was close to the Ka'aba but did not attract attention. Muslims prayed in the valleys away from view.
 

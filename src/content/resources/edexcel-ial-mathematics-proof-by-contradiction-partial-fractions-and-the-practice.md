@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Proof, partial fractions and binomial series (YMA01) -- Practice Questions"
+title: "Pearson Edexcel International A Level Mathematics: Proof, partial fractions and binomial series (YMA01) -- Practice Questions"
 seoTitle: "Edexcel IAL Maths P4 Partial Fractions Practice"
 resourceType: "practice-questions"
 subject: "mathematics"

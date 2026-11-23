@@ -22,13 +22,13 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the questions and mark guidance on the Caliphs and the neutral Sunni and Shi'a wording."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the questions and mark guidance on the Caliphs and the neutral Sunni and Shi'a wording. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-20
 featured: false
 ---
 
 > **These are original questions written for Marlbridge**, for practice on content area 3.1.1.8:
-> leadership after the Prophet's death and the four Rightly Guided Caliphs. They use the 1, 2, 4, 6
+> leadership after the Prophet's (pbuh) death and the four Rightly Guided Caliphs. They use the 1, 2, 4, 6
 > and 12-mark tariffs of the paper's questions but are **not** reproduced past-paper questions.
 
 Related: [Early leadership study guide](/resources/oxfordaqa-igcse-islamiyat-9237-early-leadership-muslim-community/) · [Early leadership revision notes](/resources/oxfordaqa-igcse-islamiyat-9237-early-leadership-muslim-community-revision-notes/) · [Islam: Beliefs and Teachings practice questions](/resources/oxfordaqa-igcse-islamiyat-9237-islam-beliefs-teachings-practice/)
@@ -119,8 +119,8 @@ the prescribed passage for 3.1.1.8.*
 
 Reasons (AO1):
 
-- **They kept the community united** [1]: after the Prophet's death, Abu Bakr held the Muslims together and defeated those who left Islam [1].
-- **They protected the Qur'an** [1]: it was collected under Abu Bakr and standardised under Uthman, so it is preserved [1].
+- **They kept the community united** [1]: after the Prophet's (pbuh) death, Abu Bakr (RA) held the Muslims together and defeated those who left Islam [1].
+- **They protected the Qur'an** [1]: it was collected under Abu Bakr (RA) and standardised under Uthman (RA), so it is preserved [1].
 - **They set an example of leadership** [1]: they were just, consulted others and were accountable, which gives Muslims a model for today [1].
 - **They spread Islam** [1]: within thirty years, Islam spread beyond Arabia, and its message reached many peoples [1].
 
@@ -133,7 +133,7 @@ Applications (AO2), for example:
 
 Challenges (AO1):
 
-- **Opposition over Uthman's death** [1]: some Companions demanded that his killers be punished, and this led to the Battle of the Camel [1].
+- **Opposition over Uthman's (RA) death** [1]: some Companions demanded that his killers be punished, and this led to the Battle of the Camel [1].
 - **Conflict with Mu'awiya** [1]: the governor of Syria refused to pledge loyalty until the killers were punished, leading to the Battle of Siffin [1].
 - **Division among his followers** [1]: the Khawarij broke away after the arbitration and opposed both sides [1].
 - **Disagreement over the best course** [1]: Ali (RA) was trying to restore order before acting, but critics said he should act at once [1].

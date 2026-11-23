@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 ---
 
 **Islam: Beliefs and Teachings is topic 3.1.1 of OxfordAQA International GCSE Islamiat 9237,
@@ -105,7 +105,7 @@ record good and bad deeds (Qur'an 82.10–12).
 In the **Hadith of Jibril**, recorded by Muslim, Jibril (AS) came to the Prophet (pbuh) as a man in
 white clothes and asked about **Islam** (the five pillars), **iman** (belief in Allah, His angels,
 books, messengers, the Last Day and qadr) and **ihsan** (worshipping Allah as though you see Him, for
-though you do not see Him, He sees you), and then about the signs of the Hour. The Prophet then told
+though you do not see Him, He sees you), and then about the signs of the Hour. The Prophet (pbuh) then told
 his companions that it was Jibril who had come to teach them their religion. Its teachings are that
 faith has three levels, practice, belief and excellence, and that Muslims should seek knowledge
 respectfully.

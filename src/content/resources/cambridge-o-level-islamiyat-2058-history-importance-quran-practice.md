@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the historical details and the credit given in each answer."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the historical details and the credit given in each answer. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -46,10 +46,10 @@ worth 4. Section A builds the factual recall you need; Section B gives full exam
 
 **4.** Describe **two** ways the Qur'an was preserved during the lifetime of the Prophet (pbuh). **[4]**
 
-**5.** Why did Zayd ibn Thabit find the task of compiling the Qur'an so difficult, and how did he make
+**5.** Why did Zayd ibn Thabit (RA) find the task of compiling the Qur'an so difficult, and how did he make
 sure he included only genuine material? **[3]**
 
-**6.** Explain the difference between the work of Abu Bakr and the work of Uthman on the Qur'an.
+**6.** Explain the difference between the work of Abu Bakr (RA) and the work of Uthman (RA) on the Qur'an.
 **[4]**
 
 **7.** Using **one** example, explain how qiyas depends on the Qur'an. **[2]**
@@ -61,8 +61,8 @@ sure he included only genuine material? **[3]**
 **(b)** Explain why the Qur'an's description of itself as guidance is important for Muslims today.
 **[4]**
 
-**9. (a)** Write an account of the compilation of the Qur'an during the caliphate of Abu Bakr. **[10]**
-**(b)** "The Qur'an would have been lost without Abu Bakr." Do you agree? Give reasons. **[4]**
+**9. (a)** Write an account of the compilation of the Qur'an during the caliphate of Abu Bakr (RA). **[10]**
+**(b)** "The Qur'an would have been lost without Abu Bakr (RA)." Do you agree? Give reasons. **[4]**
 
 **10. (a)** Describe how the Qur'an is used, alongside the Hadiths, ijma' and qiyas, in Islamic legal
 thinking. **[10]**
@@ -85,7 +85,7 @@ to 4. Other accurate points of the same quality earn the same credit.
 [1]; brought by the angel Jibril [1]; the first words were Sura 96.1–5, "Read! in the name of your
 Lord" [1]. Maximum 3.
 
-**2.** It strengthened the Prophet's heart through constant contact with God during years of
+**2.** It strengthened the Prophet's (pbuh) heart through constant contact with God during years of
 opposition, as Sura 25.32 says [2]. It allowed the Companions to memorise, understand and act on each
 passage, and allowed laws such as the ban on wine to be introduced step by step [2].
 
@@ -94,16 +94,16 @@ people to belief in one God, prophethood and the Day of Judgement, while Madinan
 laws for the community, such as rules of inheritance, family life and war [2].
 
 **4.** Companions memorised each passage as it was revealed, and many became huffaz, reciting it in
-prayer so it was constantly repeated [2]. Scribes such as Zayd ibn Thabit wrote it down on materials
-like palm stalks, leather and bones, and the Prophet told them where each passage belonged [2].
+prayer so it was constantly repeated [2]. Scribes such as Zayd ibn Thabit (RA) wrote it down on materials
+like palm stalks, leather and bones, and the Prophet (pbuh) told them where each passage belonged [2].
 
 **5.** It was a great responsibility, since an error would affect the word of God; he said moving a
 mountain would have been easier [1]. He checked every written piece against the memories of huffaz
-[1], and accepted written material only when witnesses confirmed it had been written in the Prophet's
+[1], and accepted written material only when witnesses confirmed it had been written in the Prophet's (pbuh)
 presence [1].
 
-**6.** Abu Bakr had the scattered written and memorised Qur'an **collected into one copy** after the
-huffaz were killed at Yamama [2]. Uthman had that copy **reproduced as standard copies** sent to the
+**6.** Abu Bakr (RA) had the scattered written and memorised Qur'an **collected into one copy** after the
+huffaz were killed at Yamama [2]. Uthman (RA) had that copy **reproduced as standard copies** sent to the
 main cities, ending disputes over recitation, and other versions were destroyed [2].
 
 **7.** Qiyas can only extend a ruling the Qur'an (or Sunna) already gives: wine is forbidden in Sura
@@ -114,7 +114,7 @@ share that cause [1].
 - The Prophet (pbuh) used to retreat to the Cave of Hira to reflect; in Ramadan 610, at about forty,
   Jibril appeared and commanded him to read [2].
 - He said he could not read; the angel pressed him three times and recited Sura 96.1–5 [2].
-- Shaken, he returned to Khadija, who comforted him and took him to Waraqa ibn Nawfal, who recognised
+- Shaken, he returned to Khadija (RA), who comforted him and took him to Waraqa ibn Nawfal, who recognised
   the angel as the one sent to Musa [2].
 - After a pause, revelation resumed with Sura 74, "arise and warn", beginning his public mission [2].
 - Revelation then came for about twenty-three years in Makka and Madina, in different ways: like the
@@ -130,21 +130,21 @@ share that cause [1].
   knows all things [2].
 
 **9. (a)** Credit the best five, [2] each:
-- After the Prophet's death, Abu Bakr fought the Ridda wars; at the Battle of Yamama against
+- After the Prophet's (pbuh) death, Abu Bakr (RA) fought the Ridda wars; at the Battle of Yamama against
   Musaylima many huffaz were killed [2].
-- Umar feared that if more huffaz died, parts of the Qur'an would be lost, and urged Abu Bakr to
+- Umar (RA) feared that if more huffaz died, parts of the Qur'an would be lost, and urged Abu Bakr (RA) to
   collect it [2].
-- Abu Bakr at first hesitated to do what the Prophet (pbuh) had not done, but became convinced it was
+- Abu Bakr (RA) at first hesitated to do what the Prophet (pbuh) had not done, but became convinced it was
   necessary [2].
-- He chose Zayd ibn Thabit, a young and trusted hafiz who had written revelation for the Prophet [2].
+- He chose Zayd ibn Thabit (RA), a young and trusted hafiz who had written revelation for the Prophet (pbuh) [2].
 - Zayd gathered the writings on palm stalks, leather and stones and checked them against memory,
-  accepting writing only with witnesses that it was written before the Prophet [2].
+  accepting writing only with witnesses that it was written before the Prophet (pbuh) [2].
 - The last verses of Sura 9 were found in writing only with Abu Khuzayma al-Ansari; the completed
-  sheets were kept by Abu Bakr, then Umar, then Hafsa [2].
+  sheets were kept by Abu Bakr (RA), then Umar (RA), then Hafsa (RA) [2].
 **(b)** A judgement [1] supported by reasons [3]. For example: I partly agree [1]. Without the
-collection, the deaths of more huffaz could have created gaps, so Abu Bakr's decision protected the
+collection, the deaths of more huffaz could have created gaps, so Abu Bakr's (RA) decision protected the
 text [1]. However, the Qur'an was still memorised by many Companions and recited daily [1], and
-Muslims believe God promised to guard it (Sura 15.9), so Abu Bakr was the means God used rather than
+Muslims believe God promised to guard it (Sura 15.9), so Abu Bakr (RA) was the means God used rather than
 the only reason it survived [1]. An equally reasoned answer reaching a different judgement earns the
 same credit.
 
@@ -184,7 +184,7 @@ same credit.
 
 ## Where marks are usually lost
 
-- Answering Question 9 with Uthman's standardisation as well, which earns nothing for that question.
+- Answering Question 9 with Uthman's (RA) standardisation as well, which earns nothing for that question.
 - Writing about "the Qur'an's importance" in part (a) of a narrative question.
 - Giving four one-line reasons in part (b) instead of two explained ones.
 

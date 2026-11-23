@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the condensed events, names and lessons in these notes."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the condensed events, names and lessons in these notes. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -44,7 +44,7 @@ life; her family saw blessings.
 **Hilf al-Fudul.** Pact to defend the oppressed; he said he would join such a pact again.
 *Significance:* justice for the weak is part of Islam.
 
-**Al-Amin and Khadija.** Trusted trader; married Khadija at twenty-five. *Significance:* model of
+**Al-Amin and Khadija (RA).** Trusted trader; married Khadija (RA) at twenty-five. *Significance:* model of
 honest business and of a marriage built on respect.
 
 **Black Stone.** Solved the dispute with a cloak lifted by every clan. *Significance:* wisdom and
@@ -64,40 +64,40 @@ peacemaking.
 
 | Event | Key details | Significance |
 |---|---|---|
-| Hira, 610 | Jibril; Sura 96.1–5; Khadija and Waraqa | Start of prophethood |
-| Private call | Khadija, Ali, Abu Bakr, Zayd ibn Haritha | Faith begins with family and friends |
+| Hira, 610 | Jibril; Sura 96.1–5; Khadija (RA) and Waraqa | Start of prophethood |
+| Private call | Khadija (RA), Ali (RA), Abu Bakr (RA), Zayd ibn Haritha (RA) | Faith begins with family and friends |
 | Public call, 613 | Mount Safa; Abu Lahab; Sura 111 | Courage in proclaiming the truth |
-| Persecution | Bilal ("One, One"); Sumayya first martyr | Patience and firmness under pressure |
+| Persecution | Bilal (RA) ("One, One"); Sumayya first martyr | Patience and firmness under pressure |
 | Offers refused | Utba's offer; "sun in my right hand…" | Faith not for sale |
 | Abyssinia, 615 | Ja'far before the Negus; Sura Maryam | Seeking refuge with a just ruler |
 | Boycott | Banu Hashim in Shi'b Abi Talib | Endurance as a community |
-| Year of Sorrow, 619 | Deaths of Khadija and Abu Talib | Loss of support and protection |
+| Year of Sorrow, 619 | Deaths of Khadija (RA) and Abu Talib | Loss of support and protection |
 | Ta'if | Stoned; refused to have the town destroyed | Mercy towards enemies |
 | Isra and Mi'raj | Makka to Jerusalem, heavens; five prayers (Sura 17.1) | Gift of prayer; honour of Jerusalem |
-| Aqaba pledges | Yathrib's believers; Mus'ab ibn Umayr sent | Prepared the Hijra |
+| Aqaba pledges | Yathrib's believers; Mus'ab ibn Umayr (RA) sent | Prepared the Hijra |
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-life-prophet--02-opposition-in-makka.webp" width="900" height="755" alt="Three reasons for opposition (threat to the pilgrimage trade, equality before God and the authority of clan leaders) lead to three forms of opposition: persecution of Bilal, Sumayya and the Prophet himself; offers of wealth and kingship, which he refused; and the boycott in Shi'b Abi Talib. Below: the migration to Abyssinia in 615, the Year of Sorrow in 619, Ta'if and the pledges of Aqaba." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-life-prophet--02-opposition-in-makka.webp" width="900" height="755" alt="Three reasons for opposition (threat to the pilgrimage trade, equality before God and the authority of clan leaders) lead to three forms of opposition: persecution of Bilal, Sumayya and the Prophet (pbuh) himself; offers of wealth and kingship, which he refused; and the boycott in Shi'b Abi Talib. Below: the migration to Abyssinia in 615, the Year of Sorrow in 619, Ta'if and the pledges of Aqaba." loading="lazy">
   <figcaption>Economic, social and political threats drove the opposition; the pledges of Aqaba opened the way out.</figcaption>
 </figure>
 
 ## Madina cards (622–632)
 
-**Hijra 622.** Plot to kill him → Ali in his bed → leaves with Abu Bakr → cave of Thawr three days
+**Hijra 622.** Plot to kill him → Ali (RA) in his bed → leaves with Abu Bakr (RA) → cave of Thawr three days
 (Sura 9.40) → Quba mosque → Madina. *Significance:* start of the Islamic calendar; from persecuted
 group to a community with its own authority.
 
 **Founding the state.** Prophet's Mosque; brotherhood of Emigrants and Helpers; Constitution of Madina
-(one community, shared defence, the Prophet as arbiter). *Significance:* model of a fair, plural
+(one community, shared defence, the Prophet (pbuh) as arbiter). *Significance:* model of a fair, plural
 society.
 
 **Badr 624.** About 313 Muslims vs a much larger force; victory; Abu Jahl killed; prisoners freed for
 teaching reading. *Significance:* God's help to the faithful (Sura 3.123); value of education.
 
-**Uhud 625.** Archers left the hill; Khalid's cavalry attack; Prophet wounded; Hamza martyred.
+**Uhud 625.** Archers left the hill; Khalid's cavalry attack; Prophet wounded; Hamza (RA) martyred.
 *Significance:* obedience and discipline; reverse caused by disobedience, not lack of numbers.
 
-**Trench 627.** Salman al-Farsi's idea; the allied siege withdrew. *Significance:* consultation and
+**Trench 627.** Salman al-Farsi's (RA) idea; the allied siege withdrew. *Significance:* consultation and
 new ideas welcomed.
 
 **Hudaybiyya 628.** Truce of ten years; return next year for umra; Pledge of Ridwan (Sura 48.18);
@@ -114,12 +114,12 @@ general pardon; idols removed (Sura 17.81). *Significance:* forgiveness in victo
 usury and blood feuds. *Significance:* summary of Islamic ethics.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-life-prophet--03-building-the-community.webp" width="900" height="545" alt="The Hijra of 622 at the centre, linked to four steps in building the community: mosques at Quba and in Madinah, the brotherhood between Emigrants and Helpers, the Constitution of Madinah uniting Muslims, Jews and others with the Prophet as arbiter, and the change of qibla from Jerusalem to the Ka'ba." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-life-prophet--03-building-the-community.webp" width="900" height="545" alt="The Hijra of 622 at the centre, linked to four steps in building the community: mosques at Quba and in Madinah, the brotherhood between Emigrants and Helpers, the Constitution of Madinah uniting Muslims, Jews and others with the Prophet (pbuh) as arbiter, and the change of qibla from Jerusalem to the Ka'ba." loading="lazy">
   <figcaption>Worship, brotherhood and a shared constitution turned migrants and hosts into one community.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-life-prophet--04-badr-uhud-trench.webp" width="900" height="489" alt="Three cards. Badr, 624: about 313 Muslims defeated a much larger army, Abu Jahl was killed and prisoners could earn freedom by teaching reading. Uhud, 625: archers left their posts, Khalid ibn al-Walid's cavalry attacked from behind, the Prophet was wounded and Hamza martyred. The Trench, 627: a trench dug on Salman al-Farsi's advice made the allied army withdraw." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-life-prophet--04-badr-uhud-trench.webp" width="900" height="489" alt="Three cards. Badr, 624: about 313 Muslims defeated a much larger army, Abu Jahl was killed and prisoners could earn freedom by teaching reading. Uhud, 625: archers left their posts, Khalid ibn al-Walid's cavalry attacked from behind, the Prophet (pbuh) was wounded and Hamza martyred. The Trench, 627: a trench dug on Salman al-Farsi's advice made the allied army withdraw." loading="lazy">
   <figcaption>Victory, setback, then a siege that failed: three battles in three years.</figcaption>
 </figure>
 
@@ -151,7 +151,7 @@ usury and blood feuds. *Significance:* summary of Islamic ethics.
 
 - **The order of battles:** Badr 624 (victory), Uhud 625 (reverse), Trench 627 (siege withstood).
 - **Hudaybiyya was not a defeat:** the Qur'an called it a victory, and peace helped Islam spread.
-- **Ta'if and Abyssinia are different events:** Ta'if was the Prophet's own visit after 619;
+- **Ta'if and Abyssinia are different events:** Ta'if was the Prophet's (pbuh) own visit after 619;
   Abyssinia was a migration of Companions in 615.
 - **Do not end at 622.** Questions on Madina and on his example are common.
 - **Name the group the question names.** "Relations with non-Muslims" needs examples involving
@@ -165,19 +165,19 @@ usury and blood feuds. *Significance:* summary of Islamic ethics.
 4. Which sura was revealed about Abu Lahab?
 5. Who spoke to the Negus for the Muslims, and what did he recite?
 6. What happened in the Year of Sorrow?
-7. How did the Prophet respond to the people of Ta'if?
+7. How did the Prophet (pbuh) respond to the people of Ta'if?
 8. Why did the Muslims suffer a reverse at Uhud?
 9. Whose idea was the trench in 627?
 10. Give two terms of the Treaty of Hudaybiyya.
-11. What did the Prophet do with his former enemies at the conquest of Makka?
+11. What did the Prophet (pbuh) do with his former enemies at the conquest of Makka?
 12. Which verse calls him the Seal of the Prophets?
 
 **Answers:** 1. His uncle Abu Talib. 2. A pact among Makkan clans to defend the oppressed, which he
 supported. 3. He placed it on a cloak, had each clan leader lift a corner, then set it in place
-himself. 4. Sura 111. 5. Ja'far ibn Abi Talib, who recited from Sura Maryam. 6. Khadija and Abu
+himself. 4. Sura 111. 5. Ja'far ibn Abi Talib, who recited from Sura Maryam. 6. Khadija (RA) and Abu
 Talib died, in 619. 7. He refused the offer to destroy them and prayed for their descendants to
 believe. 8. The archers left their position against his orders, allowing Khalid ibn al-Walid's
-cavalry to attack from behind. 9. Salman al-Farsi. 10. Any two: Muslims to return next year for
+cavalry to attack from behind. 9. Salman al-Farsi (RA). 10. Any two: Muslims to return next year for
 umra; ten years of peace; Makkans joining the Muslims without permission to be returned; tribes free
 to ally with either side. 11. He declared a general pardon. 12. Sura 33.40.
 

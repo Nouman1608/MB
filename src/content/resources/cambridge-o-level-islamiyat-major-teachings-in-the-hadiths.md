@@ -21,10 +21,10 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 ---
 
-**Major Teachings in the Hadiths of the Prophet is the compulsory first question of Paper 2 in
+**Major Teachings in the Hadiths of the Prophet (pbuh) is the compulsory first question of Paper 2 in
 Cambridge O Level Islamiyat 2058.** Twenty Hadiths, all recorded by al-Bukhari or Muslim, are set for
 study under two headings, individual conduct and life in the community. Four appear in the exam in
 Arabic and English; you choose two and explain what each teaches and how Muslims can act on it.

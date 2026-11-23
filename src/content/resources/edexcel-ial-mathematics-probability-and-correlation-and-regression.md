@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Probability, and correlation and regression (YMA01)"
+title: "Pearson Edexcel International A Level Mathematics: Probability, and correlation and regression (YMA01)"
 seoTitle: "Edexcel IAL Maths Probability and Regression Guide"
 resourceType: "study-guides"
 subject: "mathematics"

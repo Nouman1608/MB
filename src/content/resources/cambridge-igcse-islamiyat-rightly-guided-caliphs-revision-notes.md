@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 ---
 
 **These notes condense Paper 2 Topic 3 of Cambridge IGCSE Islamiyat 0493, The Period of Rule of
@@ -34,19 +34,19 @@ events, policies, achievements and difficulties, then the lessons for leadership
 **0493 Paper 2, Topic 3 (2026–2027 syllabus):** main events of the four rules; policies for
 maintaining and expanding the state; approaches to leading the community; achievements;
 difficulties; significance as examples of leadership; importance as models for government today and
-for relations with other states. (The caliphs' lives during the Prophet's lifetime belong to Paper 1.)
+for relations with other states. (The caliphs' lives during the Prophet's (pbuh) lifetime belong to Paper 1.)
 
-## Abu Bakr (632–634)
+## Abu Bakr (RA) (632–634)
 
 - **Election:** chosen at the Saqifa of Banu Sa'ida after the Prophet's (pbuh) death; first address promised to obey Allah and His Messenger and asked to be corrected if he went wrong.
-- **Usama's expedition:** sent the army the Prophet had prepared, despite advice to keep it in Madina, showing loyalty to the Prophet's decisions.
+- **Usama's expedition:** sent the army the Prophet (pbuh) had prepared, despite advice to keep it in Madina, showing loyalty to the Prophet's (pbuh) decisions.
 - **Ridda wars:** fought tribes who refused zakat and false claimants to prophethood, including Musaylima, defeated at Yamama by Khalid ibn al-Walid.
-- **Compilation of the Qur'an:** after many memorisers died at Yamama, Umar urged collection; Zayd ibn Thabit gathered the Qur'an into one copy, kept by Abu Bakr and later by Hafsa.
+- **Compilation of the Qur'an:** after many memorisers died at Yamama, Umar (RA) urged collection; Zayd ibn Thabit (RA) gathered the Qur'an into one copy, kept by Abu Bakr (RA) and later by Hafsa (RA).
 - **Expansion:** campaigns began into Iraq and Syria.
 - **Significance:** preserved the unity of the community and the obligation of zakat.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-rightly-guided-caliphs--01-narrate-vs-explain.webp" width="900" height="434" alt="Two panels. Narrating states only that Abu Bakr fought the Ridda wars. Explaining adds why it mattered: he held the early community together, so Islam survived as a unified faith and political community after the Prophet's death." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-rightly-guided-caliphs--01-narrate-vs-explain.webp" width="900" height="434" alt="Two panels. Narrating states only that Abu Bakr fought the Ridda wars. Explaining adds why it mattered: he held the early community together, so Islam survived as a unified faith and political community after the Prophet's (pbuh) death." loading="lazy">
   <figcaption>Marks come from saying why an event mattered, not just that it happened.</figcaption>
 </figure>
 
@@ -55,10 +55,10 @@ for relations with other states. (The caliphs' lives during the Prophet's lifeti
   <figcaption>Prepare the same three slots for each Caliph so comparisons come easily.</figcaption>
 </figure>
 
-## Umar ibn al-Khattab (634–644)
+## Umar ibn al-Khattab (RA) (634–644)
 
-- **Appointment:** nominated by Abu Bakr after consultation.
-- **Conquests:** Syria (Yarmuk), Iraq (Qadisiyya), Jerusalem (surrendered and visited by Umar, who granted its people security), Egypt (Amr ibn al-As), parts of Persia.
+- **Appointment:** nominated by Abu Bakr (RA) after consultation.
+- **Conquests:** Syria (Yarmuk), Iraq (Qadisiyya), Jerusalem (surrendered and visited by Umar (RA), who granted its people security), Egypt (Amr ibn al-As), parts of Persia.
 - **Administration:** provinces under governors; the diwan (register) for paying stipends; the public treasury (bayt al-mal); the Hijri calendar; judges separate from governors; garrison towns such as Kufa, Basra and Fustat.
 - **Religious measures:** congregational tarawih prayers in Ramadan.
 - **Character:** simple lifestyle; patrolled at night to see people's needs; held governors accountable.
@@ -69,18 +69,18 @@ for relations with other states. (The caliphs' lives during the Prophet's lifeti
   <figcaption>Action, problem solved, lasting significance, leadership quality.</figcaption>
 </figure>
 
-## Uthman ibn Affan (644–656)
+## Uthman ibn Affan (RA) (644–656)
 
 - **Selection:** chosen by the council of six.
 - **Expansion:** further conquests in North Africa and Persia; first Muslim navy under Mu'awiya, taking Cyprus.
-- **Standard Qur'an:** when differences in recitation appeared, Uthman had Zayd ibn Thabit and others prepare copies from Hafsa's text in the Quraysh dialect, sent them to the main cities and ordered other copies destroyed.
-- **Building:** enlarged the Prophet's Mosque in Madina.
+- **Standard Qur'an:** when differences in recitation appeared, Uthman (RA) had Zayd ibn Thabit (RA) and others prepare copies from Hafsa's (RA) text in the Quraysh dialect, sent them to the main cities and ordered other copies destroyed.
+- **Building:** enlarged the Prophet (pbuh)'s Mosque in Madina.
 - **Difficulties:** accusations of favouring relatives as governors; unrest in Egypt, Kufa and Basra; rebels besieged his house; he refused to shed Muslim blood to defend himself and was martyred while reading the Qur'an.
 
-## Ali ibn Abi Talib (656–661)
+## Ali ibn Abi Talib (RA) (656–661)
 
-- **Accession:** accepted the caliphate in Madina during crisis after Uthman's death.
-- **Battle of the Camel (656):** against forces led by Aisha, Talha and Zubayr, who demanded punishment of Uthman's killers.
+- **Accession:** accepted the caliphate in Madina during crisis after Uthman's (RA) death.
+- **Battle of the Camel (656):** against forces led by Aisha (RA), Talha (RA) and Zubayr, who demanded punishment of Uthman's (RA) killers.
 - **Capital moved to Kufa.**
 - **Siffin (657):** against Mu'awiya, governor of Syria; ended in arbitration.
 - **Kharijites:** a group rejected arbitration and left his army; defeated at Nahrawan (658).
@@ -91,11 +91,11 @@ for relations with other states. (The caliphs' lives during the Prophet's lifeti
 
 | Lesson | Example |
 |---|---|
-| Consultation (shura) | Umar's council of six; Abu Bakr consulting before nominating Umar |
-| Accountability | Abu Bakr asking to be corrected; Umar checking governors |
-| Justice for all | Umar's treaty with Jerusalem; protection of non-Muslims |
-| Service and simplicity | Umar's night patrols; Ali's modest life |
-| Protecting the faith | Abu Bakr and Uthman preserving the Qur'an |
+| Consultation (shura) | Umar's (RA) council of six; Abu Bakr (RA) consulting before nominating Umar (RA) |
+| Accountability | Abu Bakr (RA) asking to be corrected; Umar (RA) checking governors |
+| Justice for all | Umar's (RA) treaty with Jerusalem; protection of non-Muslims |
+| Service and simplicity | Umar's (RA) night patrols; Ali's (RA) modest life |
+| Protecting the faith | Abu Bakr (RA) and Uthman (RA) preserving the Qur'an |
 | Relations with other states | Treaties granting security to conquered peoples in return for jizya |
 
 <figure class="topic-figure">
@@ -107,15 +107,15 @@ for relations with other states. (The caliphs' lives during the Prophet's lifeti
 
 | Year (CE) | Event |
 |---|---|
-| 632 | Abu Bakr chosen; Usama's expedition; Ridda wars begin |
+| 632 | Abu Bakr (RA) chosen; Usama's expedition; Ridda wars begin |
 | 633 | Battle of Yamama; Qur'an gathered into one copy |
-| 634 | Umar succeeds Abu Bakr |
+| 634 | Umar (RA) succeeds Abu Bakr (RA) |
 | 636 | Battle of Yarmuk |
-| 638 | Jerusalem surrenders to Umar |
-| 644 | Umar martyred; Uthman chosen by the council |
-| 656 | Uthman martyred; Ali becomes caliph; Battle of the Camel |
+| 638 | Jerusalem surrenders to Umar (RA) |
+| 644 | Umar (RA) martyred; Uthman (RA) chosen by the council |
+| 656 | Uthman (RA) martyred; Ali (RA) becomes caliph; Battle of the Camel |
 | 657 | Battle of Siffin and arbitration |
-| 661 | Ali martyred in Kufa |
+| 661 | Ali (RA) martyred in Kufa |
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-rightly-guided-caliphs--02-rightly-guided-caliphs-timeline.webp" width="900" height="578" alt="A scaled timeline from 632 to 661 CE divided into Abu Bakr (632–634), Umar (634–644), Uthman (644–656) and Ali (656–661), with a card of main events for each: the Ridda wars; expansion and the diwan; the standardised Qur'an and Uthman's assassination; and the First Fitna with the Battles of the Camel and Siffin." loading="lazy">
@@ -124,7 +124,7 @@ for relations with other states. (The caliphs' lives during the Prophet's lifeti
 
 ## Worked example
 
-**Question:** Was the compilation of the Qur'an the most important achievement of Abu Bakr's rule?
+**Question:** Was the compilation of the Qur'an the most important achievement of Abu Bakr's (RA) rule?
 Give reasons. **[4]**
 
 **Model answer:** It was very important because many memorisers had been killed at Yamama, so
@@ -135,7 +135,7 @@ the survival of Islam, but the unity achieved in the Ridda wars made the compila
 
 ## Common mistakes and exam traps
 
-- **Mixing up the two compilations.** Abu Bakr gathered the Qur'an into one copy; Uthman standardised and distributed copies.
+- **Mixing up the two compilations.** Abu Bakr (RA) gathered the Qur'an into one copy; Uthman (RA) standardised and distributed copies.
 - **Narrating without evaluating.** Part (b) questions ask about significance or lessons today.
 - **Including Paper 1 material.** Events in the caliphs' lives before 632 belong to Paper 1.
 - **Wrong order of battles.** Camel (656), Siffin (657), Nahrawan (658).
@@ -148,7 +148,7 @@ the example of the Prophet (pbuh) and as models of just leadership.
 
 **What was the diwan?**
 A register of people entitled to stipends from the public treasury, introduced
-by Umar.
+by Umar (RA).
 
 ## Related pages
 

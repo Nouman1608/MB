@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -55,9 +55,9 @@ featured: false
 | 4:59 | Obey Allah and obey the Messenger |
 | 4:80 | He who obeys the Messenger has obeyed Allah |
 | 33:21 | The Messenger is an excellent pattern |
-| 3:31 | Follow the Prophet if you love Allah |
+| 3:31 | Follow the Prophet (pbuh) if you love Allah |
 | 59:7 | Take what the Messenger gives; refrain from what he forbids |
-| 16:44 | The Prophet was sent to explain the message |
+| 16:44 | The Prophet (pbuh) was sent to explain the message |
 
 Hazrat Aisha (RA) said that his character was the Qur'an (Muslim).
 
@@ -123,7 +123,7 @@ Without the Sunnah the pillars would be known by name and not by practice.
 - Hadith is a report; Sunnah is the practice. Do not use them as if identical.
 - The Sunnah never overrides the Qur'an.
 - Do not say that all Hadith are equally reliable.
-- Use a Qur'anic verse for why Muslims follow the Prophet (pbuh), not just "because he was the Prophet".
+- Use a Qur'anic verse for why Muslims follow the Prophet (pbuh), not just "because he was the Prophet (pbuh)".
 - Be careful in how you use 53:3-4: say "many scholars use this to support".
 
 ## Self-test

@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the founders' dates, the Qur'an 2:228 (quru') example and which school takes which meaning, and the examples of differences (hands in prayer, Witr, combining prayers, prostration)."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the founders' dates, the Qur'an 2:228 (quru') example and which school takes which meaning, and the examples of differences (hands in prayer, Witr, combining prayers, prostration). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -68,7 +68,7 @@ Notice the overlap. The first three imams lived in the same period, and al-Shafi
 
 **Hanbali.** Ahmad ibn Hanbal was an expert in Hadith and compiled the large collection called *al-Musnad*. His method gave priority to the texts, including the opinions of the companions, over analogy. He suffered imprisonment during the *mihna* because he would not say that the Qur'an was created, and he became a symbol of principle. His school is followed mainly in Saudi Arabia and Qatar.
 
-**Ja'fari.** The Ja'fari school is named after Ja'far al-Sadiq, a descendant of the Prophet (pbuh) through Hazrat Ali (RA) and Hazrat Fatima (RA), who taught in Madinah. Twelver Shi'a Muslims regard him as the sixth Imam. It is followed in Iran, Iraq, Bahrain, Lebanon and Azerbaijan. In addition to the Qur'an and Sunnah, it recognises the guidance of the Imams of the Prophet's family (the *Ahl al-Bayt*). It uses reason (*'aql*) rather than Sunni qiyas, and living senior scholars continue to give rulings by ijtihad.
+**Ja'fari.** The Ja'fari school is named after Ja'far al-Sadiq, a descendant of the Prophet (pbuh) through Hazrat Ali (RA) and Hazrat Fatima (RA), who taught in Madinah. Twelver Shi'a Muslims regard him as the sixth Imam. It is followed in Iran, Iraq, Bahrain, Lebanon and Azerbaijan. In addition to the Qur'an and Sunnah, it recognises the guidance of the Imams of the Prophet's (pbuh) family (the *Ahl al-Bayt*). It uses reason (*'aql*) rather than Sunni qiyas, and living senior scholars continue to give rulings by ijtihad.
 
 ## Comparing the methods
 

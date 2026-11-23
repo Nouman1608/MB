@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Statistical models and data summary (YMA01)"
+title: "Pearson Edexcel International A Level Mathematics: Statistical models and data summary (YMA01)"
 seoTitle: "Edexcel IAL Maths S1: Models and Data Study Guide"
 resourceType: "study-guides"
 subject: "mathematics"

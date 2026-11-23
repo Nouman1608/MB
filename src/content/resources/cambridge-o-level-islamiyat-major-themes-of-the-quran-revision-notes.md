@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 ---
 
 **These revision notes cover Paper 1 Question 1 of Cambridge O Level Islamiyat 2058, Major Themes of
@@ -116,7 +116,7 @@ provision. *What duties follow?* Do not oppress orphans or turn away those who a
 blessings. *Why does it matter?* Comfort in hard times and care for the vulnerable.
 
 **Sura 108 (al-Kawthar)** — *What has been given?* Abundance. *What response is asked?* Prayer and
-sacrifice. *What happens to the Prophet's enemy?* He is cut off. *Why does it matter?* Allah supports
+sacrifice. *What happens to the Prophet's (pbuh) enemy?* He is cut off. *Why does it matter?* Allah supports
 His Messenger; links to sacrifice at Eid al-Adha.
 
 <figure class="topic-figure">

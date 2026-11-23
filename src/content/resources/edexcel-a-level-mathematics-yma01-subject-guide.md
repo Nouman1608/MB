@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International A-Level Mathematics (YMA01): Subject Overview"
+title: "Pearson Edexcel International A Level Mathematics (YMA01): Subject Overview"
 seoTitle: "Edexcel International A Level Maths Subject Guide"
 resourceType: "subject-guides"
 subject: "mathematics"

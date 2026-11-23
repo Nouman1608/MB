@@ -1,5 +1,5 @@
 ---
-title: "Edexcel International A Level Mathematics (YMA01): Statics of rigid bodies"
+title: "Pearson Edexcel International A Level Mathematics (YMA01): Statics of rigid bodies"
 resourceType: "study-guides"
 subject: "mathematics"
 level: ["a-levels"]

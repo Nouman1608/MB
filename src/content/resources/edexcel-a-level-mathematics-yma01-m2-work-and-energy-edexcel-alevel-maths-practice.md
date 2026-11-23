@@ -1,5 +1,5 @@
 ---
-title: "Edexcel International A Level Mathematics (YMA01): M2 Work and energy -- Practice Questions"
+title: "Pearson Edexcel International A Level Mathematics (YMA01): M2 Work and energy -- Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics"
 level: ["a-levels"]

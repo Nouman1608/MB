@@ -1,5 +1,5 @@
 ---
-title: "Edexcel International A Level Mathematics (YMA01): Partial fractions (P4.2)"
+title: "Pearson Edexcel International A Level Mathematics (YMA01): Partial fractions (P4.2)"
 resourceType: "study-guides"
 subject: "mathematics"
 level: ["a-levels"]

@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-23: figure caption no longer cites Cambridge 0455 (audit C28)."
 ---
 
 These notes condense the area of study **Scarcity and choice** in Component 1, Microeconomics, of the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021: the basic economic problem, the market economy and the concept of the margin. Explanations and longer worked examples are in the [study guide](/resources/ocr-a-level-economics-scarcity-choice-the-margin-and-the-market-economy/). Test yourself with the [practice set](/resources/ocr-a-level-economics-scarcity-choice-the-margin-and-the-market-economy-practice/), see the [OCR Economics hub](/boards/ocr/a-level/economics/) and tick off the [checklist](/checklists/ocr/a-level/economics/). Unsure where to start? Try the [free diagnostics](/diagnostics/). Every figure below is invented.
@@ -288,6 +288,6 @@ OCR, *A Level in Economics (H460)* specification, Version 3.0 (June 2026), for f
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-economics-the-allocation-of-resources--03-causes-of-market-failure.webp" width="900" height="1060" alt="Five small pictures show the causes of market failure: public goods, merit and demerit goods, external costs and benefits, abuse of monopoly power and factor immobility. The result is the wrong amount produced or used." loading="lazy">
-  <figcaption>Market failure has five causes limited to those in the 0455 syllabus.</figcaption>
+  <figcaption>Market failure has five main causes.</figcaption>
 </figure>
 

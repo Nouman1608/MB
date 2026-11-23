@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-08-21
 featured: false
 ---
@@ -92,7 +92,7 @@ The Pillars are the framework of practice, and questions ask both what each invo
 
 Conditions and exemptions matter: Salah has prescribed times and requires wudu; Zakat applies only above the **nisab** threshold; Sawm exempts the ill, travelling, pregnant, nursing and elderly; Hajj requires both physical and financial capability.
 
-**Hajj is made up of specific rites, and questions often ask for these by name rather than for a general description.** Pilgrims enter **Ihram** — a state of purity marked by simple white garments — before performing **Tawaf** (seven circuits of the Ka'bah) and **Sa'i** (walking between the hills of Safa and Marwah). Standing at **Arafat** (wuquf) is the essential rite; it takes place on the plain where the Prophet delivered his Farewell Sermon during his final pilgrimage; pilgrims then stone the pillars at Mina and make the sacrifice. The white ihram garments carry the central meaning behind the whole pilgrimage: because every pilgrim dresses identically, wealth and status become invisible, so all stand equal before God -- that symbolism, not just the list of rites, is what a full-mark "explain the significance of Hajj" answer needs to reach.
+**Hajj is made up of specific rites, and questions often ask for these by name rather than for a general description.** Pilgrims enter **Ihram** — a state of purity marked by simple white garments — before performing **Tawaf** (seven circuits of the Ka'bah) and **Sa'i** (walking between the hills of Safa and Marwah). Standing at **Arafat** (wuquf) is the essential rite; it takes place on the plain where the Prophet (pbuh) delivered his Farewell Sermon during his final pilgrimage; pilgrims then stone the pillars at Mina and make the sacrifice. The white ihram garments carry the central meaning behind the whole pilgrimage: because every pilgrim dresses identically, wealth and status become invisible, so all stand equal before God -- that symbolism, not just the list of rites, is what a full-mark "explain the significance of Hajj" answer needs to reach.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-living-muslim-life--02-pillars-conditions-significance.webp" width="900" height="618" alt="A table of the Five Pillars with their practice, conditions and significance: salah has prescribed times and needs wudu; zakat applies only above the nisab; sawm exempts the ill, travelling, pregnant, nursing and elderly; hajj is only for those physically and financially able." loading="lazy">

@@ -72,12 +72,12 @@ This applies to **every** carbon, so a long chain is a zig-zag, not a straight l
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--01-skeletal-isomers.webp" width="900" height="1240" alt="Butan-1-ol drawn as a skeletal formula with the three rules shown (end or corner is carbon, hydrogens on carbon not drawn, OH written in full), then skeletal formulae of the five structural isomers of C6H14." loading="lazy">
-  <figcaption>Each line is a bond and each end or corner is carbon; C6H14 has five structural isomers (AQA, Edexcel, OCR, OxfordAQA, Cambridge).</figcaption>
+  <figcaption>Each line is a bond and each end or corner is carbon; C6H14 has five structural isomers.</figcaption>
 </figure>
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-organic-chemistry-naming-mechanisms-and-aromatic-shape--08-benzene-shape.webp" width="900" height="1180" alt="Top view: flat hexagon with 120 degree angles and three sigma bonds per carbon. Side view: p orbitals above and below the ring overlap into one delocalised pi system of six electrons." loading="lazy">
-  <figcaption>Benzene is a flat ring with a delocalised pi system, not three double bonds (Cambridge).</figcaption>
+  <figcaption>Benzene is a flat ring with a delocalised pi system, not three double bonds.</figcaption>
 </figure>
 
 

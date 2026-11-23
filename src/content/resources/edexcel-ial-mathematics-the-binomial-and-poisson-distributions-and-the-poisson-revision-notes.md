@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: The Binomial and Poisson distributions and the Poisson approximation to the binomial (YMA01) -- Revision Notes"
+title: "Pearson Edexcel International A Level Mathematics: The Binomial and Poisson distributions and the Poisson approximation to the binomial (YMA01) -- Revision Notes"
 seoTitle: "Edexcel IAL Maths S2 Binomial and Poisson Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics"

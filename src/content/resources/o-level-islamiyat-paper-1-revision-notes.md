@@ -27,7 +27,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-08-25
 featured: false
 ---
@@ -51,7 +51,7 @@ are weak on if it lands there — breadth across all four sub-topics
 matters more than depth in only two or three.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-1--01-paper-1-structure.webp" width="900" height="676" alt="Question 1 (three short passages on the Qur'an's themes, write on any two, 8 marks) and Question 2 (history and importance of the Qur'an, 14 marks) are compulsory. Candidates then choose two of Questions 3 to 5, set on the life of the Prophet and the first Islamic community, at 14 marks each." loading="lazy">
+  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-1--01-paper-1-structure.webp" width="900" height="676" alt="Question 1 (three short passages on the Qur'an's themes, write on any two, 8 marks) and Question 2 (history and importance of the Qur'an, 14 marks) are compulsory. Candidates then choose two of Questions 3 to 5, set on the life of the Prophet (pbuh) and the first Islamic community, at 14 marks each." loading="lazy">
   <figcaption>Two compulsory questions, then two chosen from three: 50 marks in 1 hour 30 minutes.</figcaption>
 </figure>
 
@@ -83,12 +83,12 @@ relevant quotations count too, not only Qur'an and Hadith.
 - **114 surahs**: **Makkan** (generally shorter — tawhid, the
   afterlife, moral conduct) or **Madinan** (generally longer — law,
   community, social order).
-- **Compiled** under **Abu Bakr** after the Battle of Yamama, when
-  many *huffaz* were killed; Abu Bakr commissioned **Zayd ibn Thabit**
+- **Compiled** under **Abu Bakr (RA)** after the Battle of Yamama, when
+  many *huffaz* were killed; Abu Bakr (RA) commissioned **Zayd ibn Thabit (RA)**
   to collect the written and memorised Qur'an into a single copy,
   which was later kept by **Hafsah**. **Standardised** under
-  **Uthman**, after dialect disputes arose among Muslims in different
-  regions during campaigns in Armenia and Azerbaijan; Uthman had
+  **Uthman (RA)**, after dialect disputes arose among Muslims in different
+  regions during campaigns in Armenia and Azerbaijan; Uthman (RA) had
   Hafsah's copy reproduced using the dialect of the Quraysh, sent
   official copies to the main centres, and had variant texts
   destroyed.
@@ -100,7 +100,7 @@ relevant quotations count too, not only Qur'an and Hadith.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/o-level-islamiyat-paper-1--04-compiled-then-standardised.webp" width="900" height="520" alt="Two stages. First Abu Bakr compiled the Qur'an after the Battle of Yamama killed many who had memorised it. Later Uthman standardised it, distributing official copies and having variant texts destroyed. A warning box says to keep the stages separate." loading="lazy">
-  <figcaption>Abu Bakr compiled; Uthman standardised. Examiners expect the two kept apart.</figcaption>
+  <figcaption>Abu Bakr (RA) compiled; Uthman (RA) standardised. Examiners expect the two kept apart.</figcaption>
 </figure>
 
 ## Themes of the Qur'an
@@ -111,7 +111,7 @@ relations with earlier scriptures. For Question 1, be ready to name a
 theme **and** attach it to a specific passage or example — an
 unsupported label scores little.
 
-## The Prophet's life — sequence
+## The Prophet's (pbuh) life — sequence
 
 ```
 570  Birth in Makkah
@@ -137,11 +137,11 @@ unsupported label scores little.
   <figcaption>Place events in relation to one another, not as isolated facts.</figcaption>
 </figure>
 
-## Key events in Madinah (part of the Prophet's life, 1.3)
+## Key events in Madinah (part of the Prophet's (pbuh) life, 1.3)
 
 - **Constitution of Madinah** — defined rights and duties of
   Muslims, Jews and other groups; established Madinah as a single
-  community with the Prophet as arbiter.
+  community with the Prophet (pbuh) as arbiter.
 - The **Farewell Sermon** set out equality regardless of race, the
   sanctity of life and property, the rights of women, and the
   abolition of usury and blood feuds.
@@ -151,8 +151,8 @@ unsupported label scores little.
 The syllabus builds this sub-topic around **named groups of people**. Know the significant facts of
 their lives and be ready to explain the importance of their actions and experiences.
 
-- **The Prophet's wives** — for example **Khadijah**, his first wife and the first person to accept
-  his message, whose support sustained him in Makkah, and **Aisha**, later an important narrator of
+- **The Prophet's (pbuh) wives** — for example **Khadijah**, his first wife and the first person to accept
+  his message, whose support sustained him in Makkah, and **Aisha (RA)**, later an important narrator of
   Hadith.
 - **His descendants** — his children (including **Fatimah**), his grandchildren (including **Hasan**
   and **Husayn**), and the line recognised among Shi'a Muslims as the **Imams**.
@@ -160,15 +160,15 @@ their lives and be ready to explain the importance of their actions and experien
   Thabit**, who wrote down revelation), and the other major figures of his ministry; for converts,
   know how and why they accepted Islam and what it cost them.
 - **The Emigrants (Muhajirun) and Helpers (Ansar)** — the Muslims who left Makkah for Madinah and the
-  Muslims of Madinah who received them; the Prophet paired them in brotherhood on arrival.
-- **The four Rightly Guided Caliphs during his lifetime** — Abu Bakr, Umar, Uthman and Ali, studied
-  here for their lives and roles while the Prophet lived; their rule after his death is Paper 2.
+  Muslims of Madinah who received them; the Prophet (pbuh) paired them in brotherhood on arrival.
+- **The four Rightly Guided Caliphs during his lifetime** — Abu Bakr (RA), Umar (RA), Uthman (RA) and Ali (RA), studied
+  here for their lives and roles while the Prophet (pbuh) lived; their rule after his death is Paper 2.
 
 ## Exam traps
 
 - Narrating events without stating their **significance** when a
   question asks for it — the AO2 half carries real marks on its own.
-- Abu Bakr **collected**; Uthman **standardised**. These are two
+- Abu Bakr (RA) **collected**; Uthman (RA) **standardised**. These are two
   distinct stages — do not conflate them.
 - Uhud was a **setback**, not a total defeat.
 - The Hijra marks the start of the Islamic calendar, not the
@@ -197,11 +197,11 @@ their lives and be ready to explain the importance of their actions and experien
 must be answered from Questions 3–5. 2. 8 marks; candidates choose any
 two of three set passages to write on. 3. Quoting Qur'an verses and
 Hadiths to support the points made, alongside detailed and accurate
-knowledge. 4. Abu Bakr compiled it after Yamama; Uthman standardised
+knowledge. 4. Abu Bakr (RA) compiled it after Yamama; Uthman (RA) standardised
 it and distributed official copies. 5. It bound Muslims, Jews and
 other groups into one community with defined rights and duties, and
-established the Prophet as arbiter — the first written constitution
-of the Islamic state. 6. The Prophet's wives; his descendants (his
+established the Prophet (pbuh) as arbiter — the first written constitution
+of the Islamic state. 6. The Prophet's (pbuh) wives; his descendants (his
 children, grandchildren and the line recognised among Shi'a Muslims as
 Imams); and his leading Companions, including the Ten Blessed
 Companions, his Scribes, the major figures of his ministry, the

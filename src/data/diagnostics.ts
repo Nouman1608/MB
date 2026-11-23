@@ -117,7 +117,7 @@ export const DIAGNOSTIC_SETS: readonly DiagnosticSet[] = [
     qualificationSlug: 'igcse',
     subjectSlug: 'chemistry',
     tier: 'extended',
-    scopeLabel: 'Six topics across the syllabus, Extended (Supplement) content',
+    scopeLabel: 'Five topics across the syllabus, Extended (Supplement) content',
     modelledOn: 'the Cambridge IGCSE Chemistry June 2025 Paper 4 series',
     audience: 'For Extended candidates (Papers 2 and 4). Core candidates should use the Core diagnostic.',
     // D-312 (2026-09-24): six original questions modelled on the June 2025
@@ -452,7 +452,7 @@ export const DIAGNOSTIC_SETS: readonly DiagnosticSet[] = [
     qualificationSlug: 'igcse',
     subjectSlug: 'biology',
     scopeLabel: 'Four topics, Core content',
-    modelledOn: 'the Cambridge IGCSE Biology June 2024 Paper 42, its mark scheme and examiner report',
+    modelledOn: 'the Cambridge IGCSE Biology June 2024 Paper 42 (an Extended paper), its mark scheme and examiner report, keeping to Core content',
     audience: 'For Core and Extended candidates (Core content only).',
     // D-323 (2026-09-24): original questions modelled on past papers (analysis only; no board text reproduced).
     questionIds: [
@@ -733,7 +733,7 @@ export const DIAGNOSTIC_SETS: readonly DiagnosticSet[] = [
     boardSlug: 'cambridge',
     qualificationSlug: 'a-level',
     subjectSlug: 'mathematics',
-    scopeLabel: 'Pure Mathematics 3 with AS applied topics',
+    scopeLabel: 'Pure Mathematics 3, plus one question each from Pure 1, Mechanics and Probability & Statistics 1',
     modelledOn: 'the Cambridge International AS & A Level Mathematics June 2025 Paper 32',
     audience: 'For A Level Mathematics candidates taking Paper 3. Its Probability & Statistics 1 question is also in the AS diagnostic.',
     // D-324 (2026-09-24): original questions; see decision log for sources (analysis only; no board text reproduced).

@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Differentiating and integrating powers of x: gradients, tangents, normals and indefinite integrals (YMA01) -- Practice Questions"
+title: "Pearson Edexcel International A Level Mathematics: Differentiating and integrating powers of x: gradients, tangents, normals and indefinite integrals (YMA01) -- Practice Questions"
 seoTitle: "Edexcel IAL Maths P1 Differentiation Integration Practice"
 resourceType: "practice-questions"
 subject: "mathematics"
@@ -35,7 +35,7 @@ reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379).
 
 These questions follow Unit P1: Pure Mathematics 1, sections 4.1 to 4.3 and 5.1 to 5.2 of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics specification (Issue 3, April 2019). P1 is compulsory for IAS and IAL Mathematics and Pure Mathematics, as the specification states. Learn the content first from the [study guide](/resources/edexcel-ial-mathematics-differentiating-and-integrating-powers-of-x-gradients/) or the [revision notes](/resources/edexcel-ial-mathematics-differentiating-and-integrating-powers-of-x-gradients-revision-notes/).
 
-Course links: the [Edexcel A Level Mathematics hub](/boards/edexcel/a-level/mathematics/), the [printable checklist](/checklists/edexcel/a-level/mathematics/) and the [free 10-minute diagnostics](/diagnostics/). Show full working throughout.
+Course links: the [Pearson Edexcel International A Level Mathematics hub](/boards/edexcel/a-level/mathematics/), the [printable checklist](/checklists/edexcel/a-level/mathematics/) and the [free 10-minute diagnostics](/diagnostics/). Show full working throughout.
 
 ## Questions
 
@@ -187,7 +187,7 @@ Differentiation is sections 4.1 to 4.3 and integration is sections 5.1 to 5.2 of
 
 - Go back to the [revision notes](/resources/edexcel-ial-mathematics-differentiating-and-integrating-powers-of-x-gradients-revision-notes/) for any rule you missed.
 - Read the [study guide](/resources/edexcel-ial-mathematics-differentiating-and-integrating-powers-of-x-gradients/) for the full explanations.
-- Browse the [Edexcel A Level Mathematics hub](/boards/edexcel/a-level/mathematics/) and tick off topics on the [printable checklist](/checklists/edexcel/a-level/mathematics/).
+- Browse the [Pearson Edexcel International A Level Mathematics hub](/boards/edexcel/a-level/mathematics/) and tick off topics on the [printable checklist](/checklists/edexcel/a-level/mathematics/).
 - Take all [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 

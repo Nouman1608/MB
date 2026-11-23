@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Exponential, reciprocal and trig integration (YMA01)"
+title: "Pearson Edexcel International A Level Mathematics: Exponential, reciprocal and trig integration (YMA01)"
 seoTitle: "Edexcel IAL Maths P3 Integration by Recognition Guide"
 resourceType: "study-guides"
 subject: "mathematics"

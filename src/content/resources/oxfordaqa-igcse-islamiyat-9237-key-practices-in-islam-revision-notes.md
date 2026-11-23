@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -33,13 +33,13 @@ featured: false
 
 | # | Pillar | Act | Role | Quick proof |
 |---|---|---|---|---|
-| 1 | Shahadah | Declaration of faith | Entry into Islam; Tawhid and prophethood | Hadith of Ibn Umar |
+| 1 | Shahadah | Declaration of faith | Entry into Islam; Tawhid and prophethood | Hadith of Ibn Umar (RA) |
 | 2 | Salah | Five daily prayers | Remembrance, discipline, humility | 4:103; 29:45 |
 | 3 | Sawm | Fasting in Ramadhan | Self-control; taqwa | 2:183 |
 | 4 | Zakah | Giving a share of wealth | Purifies wealth; helps the poor | 9:60 |
 | 5 | Hajj | Pilgrimage to Makkah | Unity; equality; submission | 3:97 |
 
-**Order:** this table follows the order of the specification (3.1.2.2 to 3.1.2.6). The Hadith of Ibn Umar lists them as Shahadah, prayer, Zakah, Hajj, fasting. Any order is fine in an answer if all five are correct.
+**Order:** this table follows the order of the specification (3.1.2.2 to 3.1.2.6). The Hadith of Ibn Umar (RA) lists them as Shahadah, prayer, Zakah, Hajj, fasting. Any order is fine in an answer if all five are correct.
 
 ## Why the pillars matter (six headings)
 
@@ -54,7 +54,7 @@ featured: false
 
 ## Shi'a note
 
-- Twelver Shi'a Muslims often speak of ten practices (*Furu' ad-Din*): prayer, fasting, Hajj, Zakah, Khums, Jihad, enjoining good, forbidding evil, love for the Prophet's family (Tawalla) and disassociation from their enemies (Tabarra).
+- Twelver Shi'a Muslims often speak of ten practices (*Furu' ad-Din*): prayer, fasting, Hajj, Zakah, Khums, Jihad, enjoining good, forbidding evil, love for the Prophet's (pbuh) family (Tawalla) and disassociation from their enemies (Tabarra).
 - Keep this brief and neutral.
 
 ## Amr bil maroof and Nahi annil munkar
@@ -93,7 +93,7 @@ featured: false
 | "What is faith?" | Belief comes first, practice follows |
 | "That was Jibril who came to teach the people their religion" | These three levels summarise the religion |
 
-**Note:** this report names four practices; other reports and the Hadith of Ibn Umar give all five. Do not say the Hadith "forgets" the Shahadah; say the Shahadah is expressed through "worship Allah alone".
+**Note:** this report names four practices; other reports and the Hadith of Ibn Umar (RA) give all five. Do not say the Hadith "forgets" the Shahadah; say the Shahadah is expressed through "worship Allah alone".
 
 ## Key terms
 

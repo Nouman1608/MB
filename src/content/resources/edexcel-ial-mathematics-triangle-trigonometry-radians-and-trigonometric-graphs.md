@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Triangle trig, radians and trig graphs (YMA01)"
+title: "Pearson Edexcel International A Level Mathematics: Triangle trig, radians and trig graphs (YMA01)"
 seoTitle: "Edexcel IAL Maths P1: Triangle Trig, Radians, Graphs"
 resourceType: "study-guides"
 subject: "mathematics"
@@ -25,7 +25,7 @@ reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379).
 ---
 This guide follows the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics, Further Mathematics and Pure Mathematics specification (Issue 3, April 2019). It covers Unit P1 topics 3.1, 3.2 and 3.3: the sine and cosine rules, radian measure, and the graphs of sine, cosine and tangent. The specification lists P1 as a compulsory unit for both IAS Mathematics and IAL Mathematics (and Pure Mathematics).
 
-Use it with the [revision notes](/resources/edexcel-ial-mathematics-triangle-trigonometry-radians-and-trigonometric-graphs-revision-notes/) and the [practice set](/resources/edexcel-ial-mathematics-triangle-trigonometry-radians-and-trigonometric-graphs-practice/). For the rest of the unit, see [Pure Mathematics 1](/resources/a-level-edexcel-mathematics-pure-mathematics-1/) and the [P1 revision notes](/resources/edexcel-a-level-mathematics-pure1-revision-notes/). Course hub: [Edexcel A Level Mathematics](/boards/edexcel/a-level/mathematics/). Printable [checklist](/checklists/edexcel/a-level/mathematics/). Not sure where you stand? Try a [free 10-minute diagnostic](/diagnostics/).
+Use it with the [revision notes](/resources/edexcel-ial-mathematics-triangle-trigonometry-radians-and-trigonometric-graphs-revision-notes/) and the [practice set](/resources/edexcel-ial-mathematics-triangle-trigonometry-radians-and-trigonometric-graphs-practice/). For the rest of the unit, see [Pure Mathematics 1](/resources/a-level-edexcel-mathematics-pure-mathematics-1/) and the [P1 revision notes](/resources/edexcel-a-level-mathematics-pure1-revision-notes/). Course hub: [Pearson Edexcel International A Level Mathematics](/boards/edexcel/a-level/mathematics/). Printable [checklist](/checklists/edexcel/a-level/mathematics/). Not sure where you stand? Try a [free 10-minute diagnostic](/diagnostics/).
 
 ## What this unit covers
 

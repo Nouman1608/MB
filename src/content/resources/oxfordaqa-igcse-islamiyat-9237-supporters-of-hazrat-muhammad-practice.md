@@ -21,14 +21,14 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the biographical details and mark guidance before use."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the biographical details and mark guidance before use. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-20
 featured: false
 ---
 
 > **These are original questions written for Marlbridge**, for practice on content area 3.2.1.8:
 > the support given by the Ansaar to the Muhajirun and the contributions of Hazrat Ayub Ansari,
-> Hazrat Hamza, Hazrat Talha and Hazrat Zubair (RA). They use the 1, 2, 4, 6 and 12-mark tariffs of
+> Hazrat Hamza (RA), Hazrat Talha (RA) and Hazrat Zubair (RA). They use the 1, 2, 4, 6 and 12-mark tariffs of
 > the paper's questions but are **not** reproduced past-paper questions.
 
 Related: [Supporters study guide](/resources/oxfordaqa-igcse-islamiyat-9237-supporters-of-hazrat-muhammad/) · [Supporters revision notes](/resources/oxfordaqa-igcse-islamiyat-9237-supporters-of-hazrat-muhammad-revision-notes/)
@@ -58,12 +58,12 @@ Apply **one** teaching from a source of authority in your answer. **[6]**
 
 > **Jami at-Tirmidhi 3675, Book 49, Hadith 71**
 >
-> Umar ibn al-Khattab reported: The Messenger of Allah, peace and blessings be upon him, ordered
+> Umar ibn al-Khattab (RA) reported: The Messenger of Allah, peace and blessings be upon him, ordered
 > us to give charity and at the time I had some wealth. I said to myself, "Today I will outdo Abu
-> Bakr, if ever there were a day to outdo him." I went with half of my wealth to the Prophet. He
-> said, "What have you left for your family?" I said, "The same amount." Then, Abu Bakr came with
-> everything he had. The Prophet said, "O Abu Bakr, what have you left for your family?" Abu Bakr
-> said, "Allah and his messenger." I said, "By Allah, I will never do better than Abu Bakr."
+> Bakr, if ever there were a day to outdo him." I went with half of my wealth to the Prophet (pbuh). He
+> said, "What have you left for your family?" I said, "The same amount." Then, Abu Bakr (RA) came with
+> everything he had. The Prophet (pbuh) said, "O Abu Bakr (RA), what have you left for your family?" Abu Bakr (RA)
+> said, "Allah and his messenger." I said, "By Allah, I will never do better than Abu Bakr (RA)."
 
 'Generosity was the most important quality of the companions of the Prophet (pbuh).'
 
@@ -124,12 +124,12 @@ accurate use of a source of authority, **two** for a specific use applied to the
 
 **4.** Any two, [1] each: bravery; sacrifice; generosity; early faith; loyalty to the Prophet (pbuh).
 
-**5.** Any four, [1] each: the Prophet's camel knelt near his house [1]; he carried the Prophet's luggage inside [1]; the Prophet (pbuh) stayed with him while the mosque was built [1]; for about seven months [1]; he showed respect by offering the upper floor [1]; the Prophet (pbuh) chose the lower floor for visitors [1]; he later fought in campaigns for Islam [1].
+**5.** Any four, [1] each: the Prophet's (pbuh) camel knelt near his house [1]; he carried the Prophet's (pbuh) luggage inside [1]; the Prophet (pbuh) stayed with him while the mosque was built [1]; for about seven months [1]; he showed respect by offering the upper floor [1]; the Prophet (pbuh) chose the lower floor for visitors [1]; he later fought in campaigns for Islam [1].
 
 **6.** For each of two reasons: reason identified [1] and explained [1].
 
 - **Strength and protection** [1]: he was a respected man of the Quraysh, so the Quraysh knew the Muslims had a powerful defender [1].
-- **Loyalty of family** [1]: the Prophet's own uncle supported him when others of his family did not [1].
+- **Loyalty of family** [1]: the Prophet's (pbuh) own uncle supported him when others of his family did not [1].
 - **Encouragement to others** [1]: his conversion made it easier for other people to accept Islam [1].
 - **A fighter for Islam** [1]: he fought bravely at Badr and was martyred at Uhud [1].
 
@@ -153,25 +153,25 @@ Applications (AO2), for example:
 
 *Points of significance*
 
-- **For the statement:** the hadith shows two companions competing in giving, and Abu Bakr gave everything.
+- **For the statement:** the hadith shows two companions competing in giving, and Abu Bakr (RA) gave everything.
 - **For the statement:** the Ansaar shared their homes and wealth with the migrants.
 - **Against the statement:** courage was also vital, as with Hamza (RA) and Talha (RA) in battle, and loyalty, as with Abu Ayyub (RA).
-- **Against the statement:** the passage shows trust in Allah and the Prophet (pbuh) as the deeper source of Abu Bakr's generosity.
+- **Against the statement:** the passage shows trust in Allah and the Prophet (pbuh) as the deeper source of Abu Bakr's (RA) generosity.
 - **Balanced view:** generosity was a main quality, but it came from faith and was matched by courage and loyalty.
 
 *Use of the passage*
 
 - "half of my wealth" and "everything he had" show levels of giving.
 - "Allah and his messenger" shows that his trust and faith were the basis of the generosity.
-- "I will never do better than Abu Bakr" shows humility and respect among the companions.
-- "ordered us to give charity" shows that giving was a response to the Prophet's call.
+- "I will never do better than Abu Bakr (RA)" shows humility and respect among the companions.
+- "ordered us to give charity" shows that giving was a response to the Prophet's (pbuh) call.
 
 **9.** AO1 **[4]**: as in question 7. AO2 **[2]**: as in question 7.
 
 Ways (AO1):
 
-- **Talha shielded the Prophet at Uhud** [1]: he used his body and hand to take blows and arrows when the Prophet (pbuh) was attacked [1].
-- **Talha spent his wealth** [1]: he gave generously to the poor and the community [1].
+- **Talha (RA) shielded the Prophet (pbuh) at Uhud** [1]: he used his body and hand to take blows and arrows when the Prophet (pbuh) was attacked [1].
+- **Talha (RA) spent his wealth** [1]: he gave generously to the poor and the community [1].
 - **Zubair was an early believer** [1]: he accepted Islam as a youth and faced hardship, including migration [1].
 - **Zubair fought in many battles** [1]: he volunteered for dangerous tasks, and the Prophet (pbuh) called him his hawari [1].
 
@@ -192,6 +192,6 @@ Applications (AO2), for example:
 
 *Use of the passage*
 
-- "ordered us to give charity" shows the companions responding as a community to the Prophet's leadership.
+- "ordered us to give charity" shows the companions responding as a community to the Prophet's (pbuh) leadership.
 - "everything he had" shows total sacrifice, which supports the idea that the mission rested on such commitment.
 - "Allah and his messenger" shows that their support was driven by trust in Allah, not by a human need.

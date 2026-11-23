@@ -26,8 +26,13 @@ interface Props {
    * script shows the one matching the student's chosen course instead.
    */
   options?: { id: string; steps: ResourceNextStepsPlan['steps'] }[];
+  /**
+   * Audit P13 -- the revision-email box is drawn by the page itself, at the very
+   * end, so it no longer interrupts the notes. Default true keeps other callers.
+   */
+  showSubscribe?: boolean;
 }
-const { resource, plan: given, options } = Astro.props;
+const { resource, plan: given, options, showSubscribe = true } = Astro.props;
 // B8 (2026-09-27): the step rules now live in src/utils/content/next-steps.ts
 // (resolved by resource-next-steps.ts), shared with the "On this topic" line.
 const { course, steps } = given ?? await resourceNextSteps(resource);
@@ -40,7 +45,7 @@ const { course, steps } = given ?? await resourceNextSteps(resource);
       {o.steps.map((s) => (
         <li class="m-0">
           <a href={s.href} data-next-step={s.kind} class="flex h-full flex-col gap-0.5 rounded-sm border border-rule bg-white px-4 py-3 transition-colors hover:border-teal-500">
-            <span class="text-[15px] font-semibold text-navy-800">{s.label}</span>
+            <span class="text-[15px] font-semibold text-navy-800">{s.label}</span>{' '}
             <span class="text-[13.5px] text-ink-mute">{s.detail}</span>
           </a>
         </li>
@@ -48,9 +53,9 @@ const { course, steps } = given ?? await resourceNextSteps(resource);
     </ul>
   ))}
 </nav>
-  <div class="mt-8">
+  {showSubscribe && <div class="mt-8">
     <SubscribeBox source="resource" preset={course ? { qualification: course.qualificationSlug, courseId: `${course.boardSlug}/${course.qualificationSlug}/${course.subjectSlug}` } : undefined} />
-  </div>
+  </div>}
 </div>
 
 <script>

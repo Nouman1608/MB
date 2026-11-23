@@ -299,8 +299,8 @@ fetched and verified in full 2026-09-02.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--04-sketch-quadratic.webp" width="900" height="1160" alt="A sketch of y = x² + 2x − 15: a U-shape crossing the x-axis at (−5, 0) and (3, 0) and the y-axis at (0, −15), symmetrical about x = −1. The turning point (−1, −16), from completing the square, is Extended only." loading="lazy">
-  <figcaption>A sketch shows shape, roots, y-intercept and symmetry; Extended adds the turning point.</figcaption>
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--04-sketch-quadratic.webp" width="900" height="1160" alt="A sketch of y = x² + 2x − 15: a U-shape crossing the x-axis at (−5, 0) and (3, 0) and the y-axis at (0, −15), symmetrical about x = −1. The turning point (−1, −16), from completing the square, is an extra step beyond the sketch." loading="lazy">
+  <figcaption>A sketch shows shape, roots, y-intercept and symmetry; the turning point is an extra.</figcaption>
 </figure>
 
 <figure class="topic-figure">
@@ -309,7 +309,7 @@ fetched and verified in full 2026-09-02.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--06-asymptotes.webp" width="900" height="1230" alt="Two Extended sketches with dashed asymptotes. y = 2/x + 1 has asymptotes x = 0 and y = 1 and crosses the x-axis at (−2, 0). y = 3 × 2ˣ − 6 has asymptote y = −6, y-intercept (0, −3) and root x = 1." loading="lazy">
+  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves--06-asymptotes.webp" width="900" height="1230" alt="Two sketches with dashed asymptotes. y = 2/x + 1 has asymptotes x = 0 and y = 1 and crosses the x-axis at (−2, 0). y = 3 × 2ˣ − 6 has asymptote y = −6, y-intercept (0, −3) and root x = 1." loading="lazy">
   <figcaption>Reciprocal and exponential curves approach their asymptotes but never cross or touch them.</figcaption>
 </figure>
 

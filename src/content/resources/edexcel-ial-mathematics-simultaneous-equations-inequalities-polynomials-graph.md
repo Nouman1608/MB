@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Inequalities, polynomials and graphs (YMA01)"
+title: "Pearson Edexcel International A Level Mathematics: Inequalities, polynomials and graphs (YMA01)"
 seoTitle: "Edexcel IAL Maths P1 Inequalities & Graphs Study Guide"
 resourceType: "study-guides"
 subject: "mathematics"
@@ -26,7 +26,7 @@ reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379).
 
 This guide is aligned to the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics specification (YMA01), Issue 3, April 2019. It covers Unit P1: Pure Mathematics 1, section 1 (Algebra and functions), topics 1.6 to 1.12. According to the specification, P1 and P2 are compulsory in IAS Mathematics, in IAL Mathematics and in IAL Pure Mathematics; no tier labels apply.
 
-Use it with the [revision notes](/resources/edexcel-ial-mathematics-simultaneous-equations-inequalities-polynomials-graph-revision-notes/) and the [practice questions](/resources/edexcel-ial-mathematics-simultaneous-equations-inequalities-polynomials-graph-practice/). Course pages: the [Edexcel A Level Mathematics hub](/boards/edexcel/a-level/mathematics/), the [printable checklist](/checklists/edexcel/a-level/mathematics/) and the [free 10-minute diagnostics](/diagnostics/). Other P1 and P2 pages: [Pure Mathematics 1](/resources/a-level-edexcel-mathematics-pure-mathematics-1/), [Pure Mathematics 2](/resources/a-level-edexcel-mathematics-pure-mathematics-2/) and the [IAL exam preparation page](/resources/edexcel-ial-mathematics-exam-preparation/). Topics 1.1 to 1.5 (indices, surds, quadratic functions, discriminant, completing the square) are not taught here.
+Use it with the [revision notes](/resources/edexcel-ial-mathematics-simultaneous-equations-inequalities-polynomials-graph-revision-notes/) and the [practice questions](/resources/edexcel-ial-mathematics-simultaneous-equations-inequalities-polynomials-graph-practice/). Course pages: the [Pearson Edexcel International A Level Mathematics hub](/boards/edexcel/a-level/mathematics/), the [printable checklist](/checklists/edexcel/a-level/mathematics/) and the [free 10-minute diagnostics](/diagnostics/). Other P1 and P2 pages: [Pure Mathematics 1](/resources/a-level-edexcel-mathematics-pure-mathematics-1/), [Pure Mathematics 2](/resources/a-level-edexcel-mathematics-pure-mathematics-2/) and the [IAL exam preparation page](/resources/edexcel-ial-mathematics-exam-preparation/). Topics 1.1 to 1.5 (indices, surds, quadratic functions, discriminant, completing the square) are not taught here.
 
 ## What this unit covers
 
@@ -68,7 +68,7 @@ Each pair gives the coordinates of one intersection of the two graphs. If the su
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-level-aqa-mathematics-quadratics-and-inequalities--08-disguised-quadratic.webp" width="900" height="1255" alt="With u = x^2 the equation x^4 - 5x^2 + 4 = 0 becomes u^2 - 5u + 4 = 0 with roots u = 1 and 4. Going back gives x = -2, -1, 1 and 2, the four x-intercepts of the quartic." loading="lazy">
-  <figcaption>Substitute u for the repeated function, solve the quadratic, then solve back for x using both signs. (Cambridge 9709 only.)</figcaption>
+  <figcaption>Substitute u for the repeated function, solve the quadratic, then solve back for x using both signs.</figcaption>
 </figure>
 
 

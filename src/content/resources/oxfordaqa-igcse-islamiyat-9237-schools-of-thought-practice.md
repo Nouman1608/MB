@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New skill-unit page: please ask an Islamiyat teacher to check the questions, the details of the schools, the references and the mark guidance before sign-off."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New skill-unit page: please ask an Islamiyat teacher to check the questions, the details of the schools, the references and the mark guidance before sign-off. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -166,7 +166,7 @@ Reasons (AO1):
 Applications (AO2), for example:
 
 - "Obey Allah and obey the Messenger and those in authority among you" (Qur'an 4:59), which many scholars understand to include the learned [2].
-- Mu'adh ibn Jabal (RA) told the Prophet (pbuh) he would judge by the Qur'an, then the Sunnah, then his own reasoning, and the Prophet approved (Abu Dawud): the schools follow the same order [2].
+- Mu'adh ibn Jabal (RA) told the Prophet (pbuh) he would judge by the Qur'an, then the Sunnah, then his own reasoning, and the Prophet (pbuh) approved (Abu Dawud): the schools follow the same order [2].
 
 **10.** AO1 **[4]**: as in question 9. AO2 **[2]**: as in question 9.
 

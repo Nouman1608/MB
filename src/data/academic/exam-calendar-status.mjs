@@ -31,7 +31,7 @@ export function toLocalIso(date) {
 export function seriesPhase(todayIso, s) {
   if (daysUntil(todayIso, s.examStartIso) > 0) return 'upcoming';
   if (daysUntil(todayIso, s.examEndIso) >= 0) return 'in-progress';
-  if (daysUntil(todayIso, s.resultsIso) > 0) return 'awaiting-results';
+  if (!s.resultsIso || daysUntil(todayIso, s.resultsIso) > 0) return 'awaiting-results';
   return 'results-out';
 }
 

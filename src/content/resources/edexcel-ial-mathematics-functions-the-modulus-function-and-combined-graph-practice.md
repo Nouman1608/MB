@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Functions, modulus and graph transformations (YMA01) -- Practice Questions"
+title: "Pearson Edexcel International A Level Mathematics: Functions, modulus and graph transformations (YMA01) -- Practice Questions"
 seoTitle: "Edexcel IAL Maths P3 Functions and Modulus Practice"
 resourceType: "practice-questions"
 subject: "mathematics"

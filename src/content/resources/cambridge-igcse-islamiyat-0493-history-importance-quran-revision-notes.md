@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the sequence of events, names and verse references."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the sequence of events, names and verse references. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -50,18 +50,18 @@ ijma' and qiyas; significance as the basis of all thought and action.
 | Fatra | The pause in revelation after the first experience |
 | Hafiz (pl. huffaz) | A person who has memorised the whole Qur'an |
 | Katib al-wahy | Scribe of revelation |
-| Suhuf | The sheets compiled under Abu Bakr |
+| Suhuf | The sheets compiled under Abu Bakr (RA) |
 | Mushaf | A written copy of the Qur'an as a book |
 | Makki / Madani | Passages revealed before / after the Hijra |
 | Ijma' | Consensus of scholars |
 | Qiyas | Analogy from an existing ruling |
-| Jami' al-Qur'an | "Gatherer of the Qur'an", title of Uthman |
+| Jami' al-Qur'an | "Gatherer of the Qur'an", title of Uthman (RA) |
 
 ## Revelation, 610–632: the sequence
 
 1. **Hira, Ramadan 610.** The Prophet (pbuh), about forty, in retreat on Jabal al-Nur; Jibril commands
    "Read!"; Sura 96.1–5 revealed.
-2. **Khadija** comforts him: God would never disgrace one who helps kin, the weak and guests.
+2. **Khadija (RA)** comforts him: God would never disgrace one who helps kin, the weak and guests.
 3. **Waraqa ibn Nawfal** identifies the angel as the one sent to Musa and warns that his people will
    drive him out.
 4. **Fatra** (pause), then Sura 74.1–2: "Arise and warn".
@@ -76,7 +76,7 @@ ijma' and qiyas; significance as the basis of all thought and action.
 prophets and the hereafter. Madinan passages are longer and include laws for worship, family, trade,
 war and peace.
 
-**Reasons for gradual revelation (part (b)):** strengthened the Prophet's heart (Sura 25.32); easier
+**Reasons for gradual revelation (part (b)):** strengthened the Prophet's (pbuh) heart (Sura 25.32); easier
 to memorise and act upon (Sura 17.106); answered real situations; introduced laws step by step, as with
 the ban on intoxicants (Sura 5.90).
 
@@ -102,24 +102,24 @@ the ban on intoxicants (Sura 5.90).
 
 ## Compilation: two stages
 
-| | Abu Bakr | Uthman |
+| | Abu Bakr (RA) | Uthman (RA) |
 |---|---|---|
 | Trigger | Many huffaz killed at Yamama during the Ridda wars | Disputes over recitation reported by Hudhayfa ibn al-Yaman after campaigns in Armenia and Azerbaijan |
-| Who urged it | Umar | Hudhayfa |
-| Who did the work | Zayd ibn Thabit | Zayd ibn Thabit, Abdullah ibn al-Zubayr, Sa'id ibn al-As, Abd al-Rahman ibn al-Harith |
-| Method | Collected written pieces; accepted them only when confirmed by Companions' memory | Copied Hafsa's sheets; where the copyists differed, they followed the dialect of Quraysh |
+| Who urged it | Umar (RA) | Hudhayfa |
+| Who did the work | Zayd ibn Thabit (RA) | Zayd ibn Thabit (RA), Abdullah ibn al-Zubayr, Sa'id ibn al-As, Abd al-Rahman ibn al-Harith |
+| Method | Collected written pieces; accepted them only when confirmed by Companions' memory | Copied Hafsa's (RA) sheets; where the copyists differed, they followed the dialect of Quraysh |
 | Result | One complete collection, the suhuf | Standard copies sent to major centres; other copies burned |
-| Where it went | Abu Bakr, then Umar, then Hafsa | Copies to cities such as Kufa, Basra and Damascus; one kept in Madina; sheets returned to Hafsa |
+| Where it went | Abu Bakr (RA), then Umar (RA), then Hafsa (RA) | Copies to cities such as Kufa, Basra and Damascus; one kept in Madina; sheets returned to Hafsa (RA) |
 
-**One line to remember:** Abu Bakr *collected*; Uthman *standardised and distributed*.
+**One line to remember:** Abu Bakr (RA) *collected*; Uthman (RA) *standardised and distributed*.
 
-**Detail that lifts a Level 3 answer to Level 4:** Abu Bakr's initial reluctance; Zayd's remark that
+**Detail that lifts a Level 3 answer to Level 4:** Abu Bakr's (RA) initial reluctance; Zayd's remark that
 moving a mountain would have been easier; the last verses of Sura 9 found written only with Abu
-Khuzayma al-Ansari; Hafsa's role as keeper of the sheets.
+Khuzayma al-Ansari; Hafsa's (RA) role as keeper of the sheets.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-history-importance-quran--06-compilation-journey.webp" width="900" height="754" alt="Two flows. Under Abu Bakr: huffaz die at Yamama, Umar urges Abu Bakr, Zayd ibn Thabit collects the written pieces confirmed by memory, and the sheets pass to Umar and then Hafsa. Under Uthman: Hudhayfa warns of disputes, Uthman borrows Hafsa's sheets, a committee of four copies them in the Quraysh dialect, and copies are sent out while other copies are burned." loading="lazy">
-  <figcaption>Hafsa's sheets link Abu Bakr's compilation to Uthman's standard copies.</figcaption>
+  <figcaption>Hafsa's (RA) sheets link Abu Bakr's (RA) compilation to Uthman's (RA) standard copies.</figcaption>
 </figure>
 
 <figure class="topic-figure">
@@ -154,8 +154,8 @@ qiyas.
 ## Exam traps
 
 - **Mixing revelation and compilation.** Revelation ends in 632; compilation begins after.
-- **Crediting Uthman with the first collection.** His copies came from Abu Bakr's sheets.
-- **Missing Hafsa.** She kept the sheets between the two stages.
+- **Crediting Uthman (RA) with the first collection.** His copies came from Abu Bakr's (RA) sheets.
+- **Missing Hafsa (RA).** She kept the sheets between the two stages.
 - **Vague legal examples.** Name a source and a specific case.
 - **Narrative in part (b).** Part (b) asks why or how important: give reasons, not more events.
 
@@ -167,19 +167,19 @@ qiyas.
 4. What command came when revelation resumed after the pause?
 5. Give two reasons the Qur'an itself gives for gradual revelation.
 6. Which battle prompted the first compilation, and who urged it?
-7. Why was Zayd ibn Thabit chosen?
-8. Who kept the sheets after Umar's death?
-9. Who warned Uthman about differences in recitation?
-10. Name the four men on Uthman's copying committee.
+7. Why was Zayd ibn Thabit (RA) chosen?
+8. Who kept the sheets after Umar's (RA) death?
+9. Who warned Uthman (RA) about differences in recitation?
+10. Name the four men on Uthman's (RA) copying committee.
 11. Give one example of qiyas based on a Qur'anic ruling.
 12. Give two reasons the Qur'an is central to a Muslim's daily life.
 
 **Answers:** 1. Ramadan 610, in the cave of Hira on Jabal al-Nur. 2. Sura 96.1–5. 3. Any two: like
 the ringing of a bell; Jibril in the form of a man; Jibril in his true form; true dreams. 4. Sura
-74.1–2, "Arise and warn". 5. To strengthen the Prophet's heart (25.32); so it could be recited to
-people at intervals (17.106). 6. Yamama; Umar urged Abu Bakr. 7. He was young, trustworthy, a scribe
-of revelation who had memorised the Qur'an and had been present at the final review. 8. Hafsa, the
-Prophet's wife and Umar's daughter. 9. Hudhayfa ibn al-Yaman. 10. Zayd ibn Thabit, Abdullah ibn
+74.1–2, "Arise and warn". 5. To strengthen the Prophet's (pbuh) heart (25.32); so it could be recited to
+people at intervals (17.106). 6. Yamama; Umar (RA) urged Abu Bakr (RA). 7. He was young, trustworthy, a scribe
+of revelation who had memorised the Qur'an and had been present at the final review. 8. Hafsa (RA), the
+Prophet's wife and Umar's (RA) daughter. 9. Hudhayfa ibn al-Yaman. 10. Zayd ibn Thabit (RA), Abdullah ibn
 al-Zubayr, Sa'id ibn al-As, Abd al-Rahman ibn al-Harith. 11. Drugs are forbidden by analogy with wine,
 because both intoxicate (or: all activity is forbidden at the Friday call, by analogy with trade in
 62.9). 12. Any two: it is recited in every prayer; it is the first source of law; it guides daily

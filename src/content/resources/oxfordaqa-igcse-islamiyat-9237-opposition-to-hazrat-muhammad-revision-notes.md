@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the dates of the boycott and the Year of Sorrow against a teacher's notes."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the dates of the boycott and the Year of Sorrow against a teacher's notes. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -33,7 +33,7 @@ featured: false
 | Term | Meaning |
 |---|---|
 | Quraysh | The ruling tribe of Makkah |
-| Banu Hashim | The Prophet's clan |
+| Banu Hashim | The Prophet's (pbuh) clan |
 | Boycott | Cutting off trade, marriage and contact with a group |
 | Shi'b Abi Talib | The valley where the boycotted clans lived |
 | Ta'if | Town about sixty miles from Makkah; home of the Thaqif tribe |
@@ -52,16 +52,16 @@ featured: false
 
 ## Key opponents
 
-- **Abu Lahab:** the Prophet's uncle; insulted him at Safa; his wife Umm Jamil spread thorns and slander (Surah 111).
+- **Abu Lahab:** the Prophet's (pbuh) uncle; insulted him at Safa; his wife Umm Jamil spread thorns and slander (Surah 111).
 - **Abu Jahl:** leading enemy; proposed the plot to kill the Prophet (pbuh).
-- **Umayyah ibn Khalaf:** tortured Bilal.
+- **Umayyah ibn Khalaf:** tortured Bilal (RA).
 
 ## Methods used
 
 1. Mockery and insults.
 2. Offers of wealth and leadership (refused).
 3. Pressure on Abu Talib.
-4. Torture of weak Muslims: Bilal, Sumayyah and Yasir (Sumayyah: the first martyr), Ammar.
+4. Torture of weak Muslims: Bilal (RA), Sumayyah and Yasir (Sumayyah: the first martyr), Ammar.
 5. Boycott of Banu Hashim.
 6. Attacks after Abu Talib's death.
 7. Plot to kill the Prophet (pbuh).
@@ -115,7 +115,7 @@ featured: false
 
 ## Lessons from the opposition
 
-- Patience in persecution (Bilal, Sumayyah).
+- Patience in persecution (Bilal (RA), Sumayyah).
 - Trust in Allah (Ta'if).
 - Forgiveness (refusing to destroy Makkah).
 - Loyalty (Abu Talib and the clans in the boycott).
@@ -146,7 +146,7 @@ featured: false
 - The Year of Sorrow = deaths of **Abu Talib and Khadija (RA)**.
 - Abu Talib **protected** but **did not accept Islam**.
 - Sumayyah is the **first martyr**.
-- Surah 111 is about **Abu Lahab**, the Prophet's uncle.
+- Surah 111 is about **Abu Lahab**, the Prophet's (pbuh) uncle.
 - Give more than one type of reason (religious, economic, political, social).
 
 ## Self-test

@@ -15,7 +15,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-09-09
 featured: false
 ---
@@ -62,9 +62,9 @@ significance step explicitly. For each passage or event revised, write two sente
 from memory before checking notes -- narrated detail without stated significance is a common way to
 under-score an otherwise accurate answer.
 
-## Both papers examine the life and teachings of the Prophet -- from different angles
+## Both papers examine the life and teachings of the Prophet (pbuh) -- from different angles
 
-Paper 1's practices content and Paper 2's dedicated section on the Prophet's life both draw on his
+Paper 1's practices content and Paper 2's dedicated section on the Prophet's (pbuh) life both draw on his
 example, but for different purposes -- one to illustrate practice, one to establish authority and
 history. **Exam-preparation priority**: keep clear in revision which angle a given fact supports, so
 that it can be deployed correctly depending on which paper's question calls for it.

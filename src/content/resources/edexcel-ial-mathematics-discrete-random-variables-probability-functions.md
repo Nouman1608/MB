@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Discrete random variables (YMA01)"
+title: "Pearson Edexcel International A Level Mathematics: Discrete random variables (YMA01)"
 seoTitle: "Edexcel IAL Maths S1 Discrete Random Variables Guide"
 resourceType: "study-guides"
 subject: "mathematics"
@@ -28,7 +28,7 @@ reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379).
 ---
 This guide is aligned to the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics (YMA01) specification, Issue 3, April 2019. It covers unit S1 section 5, topics 5.1 to 5.4: the concept of a discrete random variable, the probability function and cumulative distribution function, the mean and variance, and the discrete uniform distribution. The specification states that S1 is an optional unit for IAS Mathematics and Further Mathematics and for IAL Mathematics and Further Mathematics.
 
-Use it with the [revision notes](/resources/edexcel-ial-mathematics-discrete-random-variables-probability-functions-revision-notes/) and the [practice questions](/resources/edexcel-ial-mathematics-discrete-random-variables-probability-functions-practice/). The course page is [Edexcel A Level Mathematics](/boards/edexcel/a-level/mathematics/), the printable list is the [checklist](/checklists/edexcel/a-level/mathematics/), and the [free 10-minute diagnostics](/diagnostics/) can help you choose a starting point. For wider exam technique see the [IAL Mathematics exam preparation page](/resources/edexcel-ial-mathematics-exam-preparation/).
+Use it with the [revision notes](/resources/edexcel-ial-mathematics-discrete-random-variables-probability-functions-revision-notes/) and the [practice questions](/resources/edexcel-ial-mathematics-discrete-random-variables-probability-functions-practice/). The course page is [Pearson Edexcel International A Level Mathematics](/boards/edexcel/a-level/mathematics/), the printable list is the [checklist](/checklists/edexcel/a-level/mathematics/), and the [free 10-minute diagnostics](/diagnostics/) can help you choose a starting point. For wider exam technique see the [IAL Mathematics exam preparation page](/resources/edexcel-ial-mathematics-exam-preparation/).
 
 ## What this unit covers
 

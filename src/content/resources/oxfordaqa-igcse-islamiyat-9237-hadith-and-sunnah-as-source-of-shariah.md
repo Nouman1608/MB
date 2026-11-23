@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -54,7 +54,7 @@ The Qur'an gives the Prophet (pbuh) the role of teacher and model, and those ver
 - **Obedience.** "He who obeys the Messenger has obeyed Allah" (4:80). "Obey Allah and obey the Messenger" (4:59).
 - **Example.** "There has certainly been for you in the Messenger of Allah an excellent pattern" (33:21).
 - **Love of Allah.** "Say, [O Muhammad], 'If you should love Allah, then follow me, [so] Allah will love you'" (3:31).
-- **Explanation.** The Qur'an says the Prophet was sent "that you may make clear to the people what was sent down to them" (16:44).
+- **Explanation.** The Qur'an says the Prophet (pbuh) was sent "that you may make clear to the people what was sent down to them" (16:44).
 
 His wife Hazrat Aisha (RA) was asked about his character and answered that it was the Qur'an (Sahih Muslim). In other words, his life was the Qur'an put into practice.
 
@@ -89,7 +89,7 @@ In the specification's translation the passage reads: "By the star when it desce
 |---|---|
 | "your companion has not strayed, nor has he erred" | The Prophet (pbuh) was protected from error in his message, so his guidance can be trusted |
 | "nor does he speak from [his own] inclination" | His religious teaching did not come from personal desire |
-| "it is not but a revelation revealed" | The Prophet's guidance came from Allah; many scholars use this to support the authority of the Sunnah as well as the Qur'an |
+| "it is not but a revelation revealed" | The Prophet's (pbuh) guidance came from Allah; many scholars use this to support the authority of the Sunnah as well as the Qur'an |
 | "taught to him by one intense in strength" | Jibril (AS) was the means of revelation |
 | "and he rose to [his] true form" | A reference to the Prophet (pbuh) seeing Jibril (AS) in his real form |
 

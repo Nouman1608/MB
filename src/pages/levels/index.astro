@@ -13,7 +13,11 @@ import Section from '../../components/layout/Section.astro';
 import Container from '../../components/layout/Container.astro';
 import { QUALIFICATIONS, levelPath, levelsPath, combinationsForQualification, qualificationsWithCombinations } from '../../utils/academic';
 import { routes } from '../../utils/urls/routes';
+import { apFlashcardCourses } from '../../data/ap-flashcards';
+import { apLibraryBuilt, AP_LIBRARY_BASE } from '../../data/ap/config';
 
+// T17 (audit): the advanced (US curriculum) courses are taught (programs/ap) and have a library, but are not board x qualification rows in the matrix, so they are listed here as one extra entry, only when the library is built.
+const apCourseCount = apLibraryBuilt() ? apFlashcardCourses().length : 0;
 const available = qualificationsWithCombinations();
 const rows = QUALIFICATIONS
   .filter((q) => available.includes(q.slug))
@@ -26,7 +30,7 @@ const rows = QUALIFICATIONS
 <PageLayout
   translationKey="levels"
   title="Qualifications: IGCSE, O Level, GCSE, A Level & IB"
-  description="IGCSE, O Level, GCSE, AS Level, A Level and the IB Middle Years and Diploma Programmes at Marlbridge — every board and subject we publish for each qualification, in one place."
+  description="IGCSE, O Level, GCSE, AS Level, A Level and the IB Middle Years and Diploma Programmes, and advanced (US curriculum) courses at Marlbridge — every board and subject we publish for each qualification, in one place."
   path={levelsPath()}
   eyebrow="Qualifications"
   heading="Qualifications"
@@ -47,6 +51,15 @@ const rows = QUALIFICATIONS
             </a>
           </li>
         ))}
+        {apCourseCount > 0 && (
+          <li class="m-0 bg-white p-[clamp(20px,3vw,32px)]">
+            <a href={AP_LIBRARY_BASE} class="group block">
+              <h2 class="m-0 font-display text-2xl tracking-[-0.01em] text-navy-800 group-hover:text-gold-600 font-semibold">Advanced courses (US curriculum)</h2>
+              <p class="m-0 mt-2 text-[15px] text-ink-mute">{apCourseCount} courses, taught one-to-one and with a free study library for the May 2027 exams. These are not IGCSE, A Level or IB courses.</p>
+              <span class="mt-4 inline-block border-b border-gold-500 text-[14px] font-medium text-navy-800 group-hover:text-gold-600">View advanced courses →</span>
+            </a>
+          </li>
+        )}
       </ul>
     </Container>
   </Section>

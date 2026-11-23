@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Integration by substitution, by parts and using partial fractions (YMA01) -- Practice Questions"
+title: "Pearson Edexcel International A Level Mathematics: Integration by substitution, by parts and using partial fractions (YMA01) -- Practice Questions"
 seoTitle: "Edexcel IAL Maths P4 Integration Methods Practice"
 resourceType: "practice-questions"
 subject: "mathematics"

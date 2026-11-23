@@ -1,5 +1,5 @@
 ---
-title: "Edexcel International A Level Mathematics (YMA01): Proof by contradiction (P4.1)"
+title: "Pearson Edexcel International A Level Mathematics (YMA01): Proof by contradiction (P4.1)"
 resourceType: "study-guides"
 subject: "mathematics"
 level: ["a-levels"]
