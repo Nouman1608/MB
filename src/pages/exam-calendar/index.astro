@@ -50,7 +50,9 @@ const path = '/exam-calendar/';
   {EXAM_SERIES_KEY_DATES.map((featured, i) => (
     <Section surface={i % 2 === 0 ? 'ivory' : 'white'} border>
       <Container>
-        <p class="m-0 mb-1 mb-label text-teal-700">{i === 0 ? 'Currently ahead' : 'Next series'}</p>
+        <div data-series data-start={featured.examStartIso} data-end={featured.examEndIso} data-results={featured.resultsIso} data-final={featured.finalEntriesDeadlineIso} data-final-text={featured.finalEntriesDeadline} data-late={featured.lateEntriesDeadlineIso ?? ''} data-late-text={featured.lateEntriesDeadline ?? ''}>
+        <p class="m-0 mb-1 mb-label text-teal-700" data-series-status hidden></p>
+        <div role="alert" class="m-0 mb-4 rounded-sm border border-rule bg-ivory p-3 text-[14.5px] font-semibold text-navy-800" data-series-warning hidden></div>
         <h2 class="m-0 mb-6 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">{featured.seriesLabel} key dates</h2>
 
         <div class="grid gap-5 sm:grid-cols-2">
@@ -89,9 +91,31 @@ const path = '/exam-calendar/';
           Sourced directly from Cambridge's own key-dates document for the {featured.seriesLabel} series ({featured.sourceScope}), verified {featured.verifiedOn} —
           {' '}<a href={featured.officialSourceUrl} class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700" rel="noopener">view the original PDF</a>.
         </p>
+        </div>
       </Container>
     </Section>
   ))}
+
+  <script>
+    import { seriesLabels, deadlineWarnings, toLocalIso } from '../../data/academic/exam-calendar-status.mjs';
+    try {
+      const today = toLocalIso(new Date());
+      const blocks = Array.from(document.querySelectorAll<HTMLElement>('[data-series]'));
+      const list = blocks.map((b) => ({
+        examStartIso: b.dataset.start, examEndIso: b.dataset.end, resultsIso: b.dataset.results,
+        finalEntriesDeadlineIso: b.dataset.final, finalEntriesDeadline: b.dataset.finalText,
+        lateEntriesDeadlineIso: b.dataset.late || undefined, lateEntriesDeadline: b.dataset.lateText,
+      }));
+      const labels = seriesLabels(today, list);
+      blocks.forEach((b, i) => {
+        const lab = b.querySelector<HTMLElement>('[data-series-status]');
+        if (lab) { lab.textContent = labels[i].label; lab.hidden = false; }
+        const warn = b.querySelector<HTMLElement>('[data-series-warning]');
+        const ws = deadlineWarnings(today, list[i]);
+        if (warn && ws.length) { warn.textContent = ws.map((w) => w.text).join(' '); warn.hidden = false; }
+      });
+    } catch (e) { /* no-JS fallback: plain dates, no status labels */ }
+  </script>
 
   <Section surface="white" border>
     <Container>

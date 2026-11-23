@@ -76,10 +76,22 @@ export interface ExamSeriesKeyDates {
   /** How the source document is scoped (shown beside the source link). */
   readonly sourceScope: string;
   readonly verifiedOn: string;
+  /**
+   * Machine dates (yyyy-mm-dd) used ONLY by the in-browser status script
+   * (exam-calendar-status.mjs); the displayed text above stays the source's
+   * wording. Where Cambridge gives only a month part ("Late September",
+   * "Mid-November") the ISO value is a bounding day used for the label.
+   */
+  readonly finalEntriesDeadlineIso: string;
+  readonly lateEntriesDeadlineIso?: string;
+  readonly examStartIso: string;
+  readonly examEndIso: string;
+  readonly resultsIso: string;
 }
 
 /**
- * Currently holds only the next upcoming series relative to this build.
+ * Holds the series currently relevant to visitors. Labels (past/now/next) are
+ * computed in the browser from the visitor's date, never at build time.
  * When a later series becomes the relevant "upcoming" one, add a new
  * record here (and update src/pages/exam-calendar/index.astro's featured
  * series if it doesn't already just pick the nearest future one) rather
@@ -102,6 +114,12 @@ export const EXAM_SERIES_KEY_DATES: readonly ExamSeriesKeyDates[] = [
     officialSourceUrl: 'https://www.cambridgeinternational.org/Images/746006-key-dates-for-november-2026-series-international-.pdf',
     sourceScope: 'International centres; UK centres have a separate document',
     verifiedOn: '2026-08-29',
+    finalEntriesDeadlineIso: '2026-08-16',
+    lateEntriesDeadlineIso: '2026-09-21',
+    // Source gives "Late September" start and "Mid-November" end; bounding days used for labels only.
+    examStartIso: '2026-09-21',
+    examEndIso: '2026-11-20',
+    resultsIso: '2027-01-07',
   },
   /**
    * D-320 -- the March 2027 series, read from Cambridge's own "Key dates and
@@ -127,5 +145,10 @@ export const EXAM_SERIES_KEY_DATES: readonly ExamSeriesKeyDates[] = [
     officialSourceUrl: 'https://www.cambridgeinternational.org/Images/548188-march-series-monthly-calendar.pdf',
     sourceScope: 'March series monthly calendar; the March series runs only in certain countries, such as India',
     verifiedOn: '2026-09-24',
+    finalEntriesDeadlineIso: '2026-11-27',
+    lateEntriesDeadlineIso: '2026-12-14',
+    examStartIso: '2027-02-03',
+    examEndIso: '2027-03-04',
+    resultsIso: '2027-05-13',
   },
 ] as const;
