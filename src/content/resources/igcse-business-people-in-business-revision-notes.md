@@ -1,5 +1,5 @@
 ---
-title: "IGCSE Business Studies: People in Business — Revision Notes"
+title: "IGCSE Business Studies: People in Business — Revision Notes (Cambridge 0450, exams to 2026)"
 resourceType: "revision-notes"
 subject: "business"
 level: ["igcse"]
@@ -19,8 +19,10 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-05
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-23: title and body now state the syllabus code 0450 and its exam years (audit C21)."
 ---
+
+**Syllabus covered.** Cambridge IGCSE Business Studies 0450, which last examines in 2026. Cambridge IGCSE Business 0264 replaces it from 2027, so use the 0264 guides if you sit an exam in 2027 or later.
 
 Condensed for the final weeks. For the full explanation, use the
 [People in Business study guide](/resources/igcse-business-people-in-business/).
