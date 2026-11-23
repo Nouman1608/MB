@@ -28,7 +28,7 @@ the larger world" and "the focus on human organisation: domestically, in the wor
 and national governments". The
 [smaller world and larger world study guide](/resources/aqa-a-level-english-literature-7717-smaller-world-and-larger-world/)
 has full analysis and a model paragraph; the
-[protest writing revision notes](/resources/aqa-a-level-english-literature-7712-7717-option-2b-elements-of-political-and-social-protest-writing-7717-revision-notes/)
+[protest writing revision notes](/resources/aqa-a-level-english-literature-7712-7717-option-2b-elements-of-political-and-social-revision-notes/)
 cover the whole option.
 
 ## The four levels of organisation

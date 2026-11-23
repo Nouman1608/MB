@@ -27,7 +27,7 @@ This guide covers **4.2.1.1 Data structures** in AQA A-Level Computer Science (7
 
 The [Data Structures and Arrays study guide](/resources/a-level-aqa-computer-science-data-structures-and-arrays/) introduces the definition alongside arrays. This page goes further: it separates data structures from data types and abstract data types, gives you a set of properties for comparing structures, and works through choosing structures for realistic systems.
 
-Condensed notes are in the [Data structures revision notes](/resources/aqa-a-level-computer-science-7517-data-structures-revision-notes/), and exam-style questions are in the [Data structures practice questions](/resources/aqa-a-level-computer-science-7517-data-structures-practice/).
+Condensed notes are in the [Data structures revision notes](/resources/aqa-a-level-computer-science-data-structures-revision-notes/), and exam-style questions are in the [Data structures practice questions](/resources/aqa-a-level-computer-science-data-structures-practice/).
 
 ## What a data structure is
 
@@ -137,8 +137,8 @@ A beginner stores 30 test marks as `mark1`, `mark2`, …, `mark30`. Explain why 
 
 ## Related resources
 
-- [Data structures revision notes](/resources/aqa-a-level-computer-science-7517-data-structures-revision-notes/)
-- [Data structures practice questions](/resources/aqa-a-level-computer-science-7517-data-structures-practice/)
+- [Data structures revision notes](/resources/aqa-a-level-computer-science-data-structures-revision-notes/)
+- [Data structures practice questions](/resources/aqa-a-level-computer-science-data-structures-practice/)
 - [Single- and multi-dimensional arrays study guide](/resources/aqa-a-level-computer-science-7517-single-and-multi-dimensional-arrays/)
 - [Fields, records and files study guide](/resources/aqa-a-level-computer-science-7517-fields-records-and-files/)
 - [Data Structures and Arrays study guide](/resources/a-level-aqa-computer-science-data-structures-and-arrays/)

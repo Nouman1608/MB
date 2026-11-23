@@ -168,4 +168,4 @@ Most extended questions sit at stage 3 or stage 4; most short questions sit at s
 
 ## Where to go next
 
-Practise with the [Extraction of rocks, ores and minerals practice questions](/resources/cambridge-igcse-environmental-management-0680-extraction-of-rocks-ores-and-minerals-practice/), then revise conservation of minerals in the [Sustainable management of rocks, ores and minerals revision notes](/resources/cambridge-igcse-environmental-management-0680-sustainable-management-of-rocks-ores-and-minerals-revision-notes/).
+Practise with the [Extraction of rocks, ores and minerals practice questions](/resources/cambridge-igcse-environmental-management-0680-extraction-of-rocks-ores-and-minerals-practice/), then revise conservation of minerals in the [Sustainable management of rocks, ores and minerals revision notes](/resources/cambridge-igcse-environmental-management-0680-sustainable-management-of-rocks-ores-revision-notes/).

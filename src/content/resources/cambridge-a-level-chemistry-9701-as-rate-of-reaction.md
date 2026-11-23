@@ -24,7 +24,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-This guide covers subtopic **8.1, Rate of reaction**, from Topic 8, Reaction kinetics, of Cambridge International AS & A Level Chemistry 9701, 2025–2027 series. It is AS Level content. The [Reaction Kinetics: Collision Theory and Catalysis](/resources/as-reaction-kinetics-collision-theory-and-catalysis/) guide covers the whole topic in outline; this page concentrates on the vocabulary of 8.1 and on the calculation skill, using experimental data to find rates, which the overview treats only briefly. Condensed notes are in the [rate of reaction revision notes](/resources/cambridge-a-level-chemistry-9701-as-rate-of-reaction-revision-notes/), and you can practise with the [rate of reaction practice questions](/resources/cambridge-a-level-chemistry-9701-as-rate-of-reaction-practice/). Temperature and activation energy are covered in the [study guide on the effect of temperature and activation energy](/resources/cambridge-a-level-chemistry-9701-as-effect-of-temperature-on-reaction-rates-and-the-concept-of-activation-energy/), and catalysts in the [homogeneous and heterogeneous catalysts study guide](/resources/cambridge-a-level-chemistry-9701-as-homogeneous-and-heterogeneous-catalysts/).
+This guide covers subtopic **8.1, Rate of reaction**, from Topic 8, Reaction kinetics, of Cambridge International AS & A Level Chemistry 9701, 2025–2027 series. It is AS Level content. The [Reaction Kinetics: Collision Theory and Catalysis](/resources/as-reaction-kinetics-collision-theory-and-catalysis/) guide covers the whole topic in outline; this page concentrates on the vocabulary of 8.1 and on the calculation skill, using experimental data to find rates, which the overview treats only briefly. Condensed notes are in the [rate of reaction revision notes](/resources/cambridge-a-level-chemistry-9701-as-rate-of-reaction-revision-notes/), and you can practise with the [rate of reaction practice questions](/resources/cambridge-a-level-chemistry-9701-as-rate-of-reaction-practice/). Temperature and activation energy are covered in the [study guide on the effect of temperature and activation energy](/resources/cambridge-a-level-chemistry-9701-as-effect-of-temperature-on-reaction-rates/), and catalysts in the [homogeneous and heterogeneous catalysts study guide](/resources/cambridge-a-level-chemistry-9701-as-homogeneous-and-heterogeneous-catalysts/).
 
 ## Syllabus coverage
 
@@ -147,7 +147,7 @@ When magnesium reacts with excess acid and the hydrogen is collected:
 
 - [Rate of reaction revision notes](/resources/cambridge-a-level-chemistry-9701-as-rate-of-reaction-revision-notes/)
 - [Rate of reaction practice questions](/resources/cambridge-a-level-chemistry-9701-as-rate-of-reaction-practice/)
-- [Effect of temperature on reaction rates and the concept of activation energy](/resources/cambridge-a-level-chemistry-9701-as-effect-of-temperature-on-reaction-rates-and-the-concept-of-activation-energy/)
+- [Effect of temperature on reaction rates and the concept of activation energy](/resources/cambridge-a-level-chemistry-9701-as-effect-of-temperature-on-reaction-rates/)
 - [Reaction Kinetics: Rate Equations and Catalysis](/resources/a-reaction-kinetics-rate-equations-and-catalysis/), the A Level continuation
 
 *Written against Cambridge International AS & A Level Chemistry 9701, 2025–2027 series. Always check the current syllabus for your examination year.*

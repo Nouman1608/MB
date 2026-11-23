@@ -172,7 +172,7 @@ D: displacement of a charge
 ## Next steps
 
 - Revisit the explanations in the [electric potential study guide](/resources/oxfordaqa-a-level-physics-9630-electric-potential-oxfordaqa/).
-- Go on to the [capacitors practice questions](/resources/oxfordaqa-a-level-physics-9630-capacitors-oxfordaqa-alevel-practice/).
+- Go on to the [capacitors practice questions](/resources/oxfordaqa-a-level-physics-9630-capacitors-practice/).
 - For mixed questions on potential and capacitance, try the [electric potential and capacitors practice questions](/resources/oxfordaqa-a-level-physics-electric-potential-and-capacitors-practice/).
 
 ## Official syllabus

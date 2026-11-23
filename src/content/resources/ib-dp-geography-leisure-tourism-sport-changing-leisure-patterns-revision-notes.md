@@ -25,7 +25,7 @@ updatedDate: 2026-11-16
 featured: false
 ---
 
-Condensed recall for **5.1 Changing leisure patterns** (IB DP Geography, Option E: Leisure, tourism and sport). Fuller explanation is in the [Leisure, tourism and sport study guide](/resources/ib-ib-dp-geography-leisure-tourism-sport-study-guide/).
+Condensed recall for **5.1 Changing leisure patterns** (IB DP Geography, Option E: Leisure, tourism and sport). Fuller explanation is in the [Leisure, tourism and sport study guide](/resources/ib-dp-geography-leisure-tourism-sport-study-guide/).
 
 ## Key terms
 
@@ -127,4 +127,4 @@ Sport in particular has become a global business funded by broadcasting rights, 
 
 ## Related resources
 
-- [Option E: Leisure, tourism and sport study guide](/resources/ib-ib-dp-geography-leisure-tourism-sport-study-guide/)
+- [Option E: Leisure, tourism and sport study guide](/resources/ib-dp-geography-leisure-tourism-sport-study-guide/)

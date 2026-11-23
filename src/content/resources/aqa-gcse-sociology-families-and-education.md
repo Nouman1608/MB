@@ -55,7 +55,7 @@ concepts, theoretical perspectives, and how sociologists study society
 education. Sociological Research Methods is listed here but examined
 across both papers rather than being confined to Paper 1 alone; it is
 taught in the separate
-[research methods guide](/resources/aqa-gcse-sociology-research-methods/).
+[research methods guide](/resources/aqa-gcse-sociology-8192-research-methods/).
 
 ## Syllabus coverage
 

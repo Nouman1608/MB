@@ -24,7 +24,7 @@ publishedDate: 2026-11-20
 featured: false
 ---
 
-Condensed notes on the Product content (3.8 on this site) in The marketing strategy, OCR A Level Business H431, Version 2.1 (January 2026), final assessment summer 2027. Full explanations and the Kestrel Foods and Aria worked examples are in the [product study guide](/resources/ocr-a-level-business-h431-product/); test yourself with the [product practice questions](/resources/ocr-a-level-business-h431-product-practice/). Ansoff's matrix is covered in the [Ansoff's matrix revision notes](/resources/ocr-a-level-business-h431-ansoffs-matrix-ocr-alevel-business-revision-notes/), and the overview of the whole topic is in the [marketing and marketing strategies revision notes](/resources/ocr-a-level-business-marketing-and-marketing-strategies-revision-notes/).
+Condensed notes on the Product content (3.8 on this site) in The marketing strategy, OCR A Level Business H431, Version 2.1 (January 2026), final assessment summer 2027. Full explanations and the Kestrel Foods and Aria worked examples are in the [product study guide](/resources/ocr-a-level-business-h431-product/); test yourself with the [product practice questions](/resources/ocr-a-level-business-h431-product-practice/). Ansoff's matrix is covered in the [Ansoff's matrix revision notes](/resources/ocr-a-level-business-h431-ansoffs-matrix-revision-notes/), and the overview of the whole topic is in the [marketing and marketing strategies revision notes](/resources/ocr-a-level-business-marketing-and-marketing-strategies-revision-notes/).
 
 ## The specification points
 

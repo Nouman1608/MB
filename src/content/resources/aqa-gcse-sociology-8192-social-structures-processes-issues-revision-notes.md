@@ -197,7 +197,7 @@ Appendix B gives ready-made limits: Oakley predates civil partnerships; the Rapo
 - Giving Townsend's or Halsey's figures without saying what they show.
 - Ending an extended answer without a judgement that follows from the evidence.
 
-For topic detail, revise the [families and education revision notes](/resources/aqa-gcse-sociology-families-education-revision-notes/), the [crime and stratification revision notes](/resources/gcse-sociology-crime-stratification-revision-notes/) and the [research methods guide](/resources/aqa-gcse-sociology-research-methods/). For exam technique, see [exam preparation](/resources/aqa-gcse-sociology-exam-preparation/). Related 8192 units: [the sociological approach](/resources/aqa-gcse-sociology-8192-the-sociological-approach/) and [education](/resources/aqa-gcse-sociology-8192-education/).
+For topic detail, revise the [families and education revision notes](/resources/aqa-gcse-sociology-families-education-revision-notes/), the [crime and stratification revision notes](/resources/gcse-sociology-crime-stratification-revision-notes/) and the [research methods guide](/resources/aqa-gcse-sociology-8192-research-methods/). For exam technique, see [exam preparation](/resources/aqa-gcse-sociology-exam-preparation/). Related 8192 units: [the sociological approach](/resources/aqa-gcse-sociology-8192-the-sociological-approach/) and [education](/resources/aqa-gcse-sociology-8192-education/).
 
 ## Frequently asked questions
 

@@ -27,7 +27,7 @@ Quantitative chemistry; Chemical changes; Energy changes -- Topics 1-5, 1h45, 10
 Paper 2 (The rate and extent of chemical change; Organic chemistry; Chemical analysis; Chemistry of
 the atmosphere; Using resources -- Topics 6-10, 1h45, 100 marks, 50%). These notes turn that
 structure into an exam-day plan, alongside the
-[Atomic Structure](/resources/aqa-gcse-chemistry-atomic-structure-revision-notes/) and
+[Atomic Structure](/resources/aqa-gcse-chemistry-8462-atomic-structure-revision-notes/) and
 [Ionic Bonding](/resources/aqa-gcse-chemistry-ionic-bonding-revision-notes/) topic revision notes
 already on the site.
 

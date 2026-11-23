@@ -126,7 +126,7 @@ Since the mid-2000s, Maasai landowners next to the Maasai Mara National Reserve 
 
 - Condense this with the [7.4 revision notes](/resources/cambridge-a-level-geography-9696-sustainable-management-of-tropical-environments-revision-notes/).
 - Practise with the [7.4 practice questions](/resources/cambridge-a-level-geography-9696-sustainable-management-of-tropical-environments-practice/).
-- Review soil and nutrient fragility in the [7.3 study guide](/resources/cambridge-a-level-geography-9696-humid-tropical-rainforest-ecosystems-and-seasonally-humid-tropical-savanna-ecosystems/).
+- Review soil and nutrient fragility in the [7.3 study guide](/resources/cambridge-a-level-geography-9696-humid-tropical-rainforest-ecosystems-and-seasonally-humid/).
 
 ## Official syllabus
 

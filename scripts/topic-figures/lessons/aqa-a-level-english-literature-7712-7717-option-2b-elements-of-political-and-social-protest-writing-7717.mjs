@@ -1,6 +1,6 @@
 import { C, svg, panel, t, tl, arrow, path, badge } from '../style.mjs';
 
-export const slug = 'aqa-a-level-english-literature-7712-7717-option-2b-elements-of-political-and-social-protest-writing-7717';
+export const slug = 'aqa-a-level-english-literature-7712-7717-option-2b-elements-of-political-and-social';
 export const figures = [];
 const add = (name, svgText, alt, caption, after) => figures.push({ name, svg: svgText, alt, caption, after });
 

@@ -187,6 +187,6 @@ CLOSE(file)
 - [Fields, records and files revision notes](/resources/aqa-a-level-computer-science-7517-fields-records-and-files-revision-notes/)
 - [Fields, records and files practice questions](/resources/aqa-a-level-computer-science-7517-fields-records-and-files-practice/)
 - [Data structures study guide for 4.2.1.1](/resources/aqa-a-level-computer-science-7517-data-structures/)
-- [Programming study guide, including string conversion and exceptions](/resources/aqa-a-level-computer-science-7517-programming-aqa-alevel-cs/)
+- [Programming study guide, including string conversion and exceptions](/resources/aqa-a-level-computer-science-7517-programming/)
 
 *Written against the AQA A-level Computer Science (7517) specification, 4.2.1.3 Fields, records and files. Always check the current specification on the AQA website.*

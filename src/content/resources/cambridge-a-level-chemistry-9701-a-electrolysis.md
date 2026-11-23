@@ -225,7 +225,7 @@ Condense this page with the
 and test it with the
 [Electrolysis practice questions](/resources/cambridge-a-level-chemistry-9701-a-electrolysis-practice/).
 For electrode potentials and the Nernst equation, continue to the
-[Standard electrode potentials study guide](/resources/cambridge-a-level-chemistry-9701-a-standard-electrode-potentials-cell-potentials-and-the-nernst-equation/).
+[Standard electrode potentials study guide](/resources/cambridge-a-level-chemistry-9701-a-standard-electrode-potentials-cell-potentials/).
 
 Written against Cambridge International AS & A Level Chemistry 9701, 2025–2027 series.
 Always check the current syllabus for your examination year.

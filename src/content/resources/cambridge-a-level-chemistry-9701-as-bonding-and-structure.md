@@ -145,6 +145,6 @@ Solubility depends on whether the attractions that form between solute and solve
 - [Bonding and structure revision notes](/resources/cambridge-a-level-chemistry-9701-as-bonding-and-structure-revision-notes/)
 - [Bonding and structure practice questions](/resources/cambridge-a-level-chemistry-9701-as-bonding-and-structure-practice/)
 - [Ionic bonding study guide](/resources/cambridge-a-level-chemistry-9701-as-ionic-bonding/) and [metallic bonding study guide](/resources/cambridge-a-level-chemistry-9701-as-metallic-bonding/)
-- [Intermolecular forces study guide](/resources/cambridge-a-level-chemistry-9701-as-intermolecular-forces-electronegativity-and-bond-properties/)
+- [Intermolecular forces study guide](/resources/cambridge-a-level-chemistry-9701-as-intermolecular-forces-electronegativity-and-bond/)
 
 *Written against Cambridge International AS & A Level Chemistry 9701, 2025–2027 series. Always check the current syllabus for your examination year.*

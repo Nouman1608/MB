@@ -1,6 +1,6 @@
 import { C, svg, panel, t, tl, arrow, path, badge } from '../style.mjs';
 
-export const slug = 'ocr-gcse-business-j204-influences-on-business-ocr-gcse-business';
+export const slug = 'ocr-gcse-business-j204-influences-on-business';
 export const figures = [];
 const add = (name, svgText, alt, caption, after) => figures.push({ name, svg: svgText, alt, caption, after });
 

@@ -165,5 +165,5 @@ D: equal to half the amplitude **[1]**
 ## Next steps
 
 - Review the reasoning in the [longitudinal and transverse waves study guide](/resources/oxfordaqa-a-level-physics-9630-longitudinal-and-transverse-waves-oxfordaqa/).
-- Go back over phase difference with the [progressive waves practice questions](/resources/oxfordaqa-a-level-physics-9630-progressive-waves-oxfordaqa-alevel-practice/).
+- Go back over phase difference with the [progressive waves practice questions](/resources/oxfordaqa-a-level-physics-9630-progressive-waves-practice/).
 - For a mixed set on the whole unit, try the [progressive waves and polarisation practice set](/resources/oxfordaqa-a-level-physics-progressive-waves-longitudinal-and-transverse-waves-practice/).

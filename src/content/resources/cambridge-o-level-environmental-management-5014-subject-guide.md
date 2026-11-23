@@ -84,7 +84,7 @@ The syllabus order works well as a teaching sequence, but planning around the th
 - **Study guides** build understanding topic by topic: [Rocks, Ores and Minerals (2027-2029)](/resources/o-level-cambridge-environmental-management-rocks-ores-and-minerals/), [Land (2027-2029)](/resources/cambridge-o-level-environmental-management-land/) and [Natural hazards](/resources/cambridge-o-level-environmental-management-natural-hazards-study-guide/) are examples.
 - **Revision notes** summarise a topic once it has been taught, for instance [the Ecosystems, Biodiversity and Fieldwork revision notes](/resources/o-level-environmental-management-ecosystems-revision-notes/).
 - **Practice questions** check what you have learned, such as [the Atmosphere and Human Activities practice questions](/resources/o-level-environmental-management-atmosphere-practice/).
-- **Exam preparation**: [the exam preparation guide for the 2027-2029 papers](/resources/cambridge-o-level-environmental-management-exam-preparation-2027-2029/) is written for this edition, and [the paper-by-paper exam preparation guide](/resources/cambridge-o-level-environmental-management-exam-preparation/) also covers both papers.
+- **Exam preparation**: [the exam preparation guide for the 2027-2029 papers](/resources/cambridge-o-level-environmental-management-exam-preparation-2027-2029/) is written for this edition, and [the paper-by-paper exam preparation guide](/resources/cambridge-o-level-environmental-management-exam-preparation-2027-2029/) also covers both papers.
 
 ## Frequently asked questions
 

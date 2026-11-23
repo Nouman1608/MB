@@ -25,7 +25,7 @@ featured: false
 
 This guide covers **4.7.4 External hardware devices** in AQA A-Level Computer Science (7517). It has two parts. First, **input and output devices**: you must know the main characteristics, purposes and suitability of four devices and understand their principles of operation. The devices named are the **barcode reader, digital camera, laser printer and RFID**. Second, **secondary storage**: you must explain the need for it, know the characteristics, purposes, suitability and principles of operation of the **hard disk, optical disk and solid-state disk (SSD)**, and compare the capacity and speed of access of various media to judge their suitability for different applications.
 
-The wider [computer organisation and architecture study guide](/resources/aqa-a-level-computer-science-fundamentals-of-computer-organisation-and-architecture-study-guide/) covers all of section 4.7. This page goes deeper on how each device works and on the comparisons that exam questions ask for.
+The wider [computer organisation and architecture study guide](/resources/aqa-a-level-computer-science-fundamentals-of-computer-organisation-and-architecture-study/) covers all of section 4.7. This page goes deeper on how each device works and on the comparisons that exam questions ask for.
 
 Condensed notes are in the [external hardware devices revision notes](/resources/aqa-a-level-computer-science-7517-external-hardware-devices-revision-notes/), and exam-style questions are in the [external hardware devices practice questions](/resources/aqa-a-level-computer-science-7517-external-hardware-devices-practice/).
 

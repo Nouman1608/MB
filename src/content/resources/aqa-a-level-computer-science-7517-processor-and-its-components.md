@@ -25,7 +25,7 @@ featured: false
 
 This guide covers **4.7.3 Structure and role of the processor and its components** in AQA A-Level Computer Science (7517). The section has seven parts: the processor and its components; the Fetch-Execute cycle and the registers within it; the instruction set; addressing modes; machine-code and assembly operations; interrupts; and factors that affect processor performance. It is the largest section of topic 4.7 and a regular source of long questions.
 
-The wider [computer organisation and architecture study guide](/resources/aqa-a-level-computer-science-fundamentals-of-computer-organisation-and-architecture-study-guide/) gives an overview of section 4.7. This page works through each part with register-level detail and traced examples.
+The wider [computer organisation and architecture study guide](/resources/aqa-a-level-computer-science-fundamentals-of-computer-organisation-and-architecture-study/) gives an overview of section 4.7. This page works through each part with register-level detail and traced examples.
 
 Condensed notes are in the [processor revision notes](/resources/aqa-a-level-computer-science-7517-processor-and-its-components-revision-notes/), and exam-style questions are in the [processor practice questions](/resources/aqa-a-level-computer-science-7517-processor-and-its-components-practice/).
 

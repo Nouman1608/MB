@@ -140,4 +140,4 @@ Compression to next compression = λ. Compression to neighbouring rarefaction = 
 
 ## Links
 
-Return to the [longitudinal and transverse waves study guide](/resources/oxfordaqa-a-level-physics-9630-longitudinal-and-transverse-waves-oxfordaqa/), or review phase and c = fλ with the [progressive waves revision notes](/resources/oxfordaqa-a-level-physics-9630-progressive-waves-oxfordaqa-alevel-revision-notes/).
+Return to the [longitudinal and transverse waves study guide](/resources/oxfordaqa-a-level-physics-9630-longitudinal-and-transverse-waves-oxfordaqa/), or review phase and c = fλ with the [progressive waves revision notes](/resources/oxfordaqa-a-level-physics-9630-progressive-waves-revision-notes/).

@@ -176,7 +176,7 @@ The core areas of families, education, crime and deviance and social stratificat
 
 ## Using research methods in context
 
-The specification asks you to apply methods to each topic, and suggests teachers may set small-scale projects so you see the practical difficulties researchers face. Theory often guides method: Durkheim's scientific approach favoured statistics, while interactionists prefer qualitative methods such as participant observation, the method Ball used at Beachside. The full content is in our [research methods guide](/resources/aqa-gcse-sociology-research-methods/).
+The specification asks you to apply methods to each topic, and suggests teachers may set small-scale projects so you see the practical difficulties researchers face. Theory often guides method: Durkheim's scientific approach favoured statistics, while interactionists prefer qualitative methods such as participant observation, the method Ball used at Beachside. The full content is in our [research methods guide](/resources/aqa-gcse-sociology-8192-research-methods/).
 
 ## Common errors
 

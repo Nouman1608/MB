@@ -73,7 +73,7 @@ const dim = (x1, y1, x2, y2, label, { color = C.ink, lx, ly, size = 17, anchor =
 // header strip inside a panel
 const head = (x, y, w, s, fill = C.teal) => `<rect x="${x}" y="${y}" width="${w}" height="44" rx="12" fill="${fill}"/><rect x="${x}" y="${y + 30}" width="${w}" height="14" fill="${fill}"/>` + t(x + w / 2, y + 30, s, { size: 20, weight: 700, anchor: 'middle' });
 
-export const slug = 'cambridge-igcse-physics-0625-density-cambridge-igcse-physics';
+export const slug = 'cambridge-igcse-physics-0625-density';
 export const figures = [];
 const add = (name, svgText, alt, caption, after) => figures.push({ name, svg: svgText, alt, caption, after });
 

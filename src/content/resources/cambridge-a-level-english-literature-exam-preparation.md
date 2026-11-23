@@ -40,7 +40,7 @@ The first A2 paper. It combines a Shakespeare text and other drama. Treat plays 
 
 ## Paper 4: Pre- and Post-1900 Poetry and Prose (2 hours, 50 marks, 25%)
 
-The second A2 paper. It spans writing before and after 1900, so build a sense of how conventions and contexts differ across the two periods and be ready to compare where a question invites it. A [Paper 4 study guide](/resources/cambridge-a-level-english-literature-paper-4-pre-and-post-1900-poetry-and-prose-study-guide/) is available.
+The second A2 paper. It spans writing before and after 1900, so build a sense of how conventions and contexts differ across the two periods and be ready to compare where a question invites it. A [Paper 4 study guide](/resources/cambridge-a-level-english-literature-paper-4-pre-and-post-1900-poetry-and-prose-study/) is available.
 
 The record does not set out the question choices or the number of questions on each paper, so check the specification and specimen papers for that rather than relying on this page.
 

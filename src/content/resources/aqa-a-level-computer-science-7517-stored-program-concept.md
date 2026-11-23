@@ -25,7 +25,7 @@ featured: false
 
 This guide covers **4.7.2 The stored program concept** in AQA A-Level Computer Science (7517). The specification asks you to **describe the stored program concept: machine code instructions stored in main memory are fetched and executed serially by a processor that performs arithmetic and logical operations**. That one sentence contains four separate ideas, and a good answer states all of them: the instructions are in **machine code**, they are held in **main memory**, they are **fetched and executed one after another**, and the processor carries out **arithmetic and logical operations**.
 
-The wider [computer organisation and architecture study guide](/resources/aqa-a-level-computer-science-fundamentals-of-computer-organisation-and-architecture-study-guide/) covers the whole of section 4.7. This page takes the concept slowly, shows why it matters, and traces a tiny program through memory so that you can see it working.
+The wider [computer organisation and architecture study guide](/resources/aqa-a-level-computer-science-fundamentals-of-computer-organisation-and-architecture-study/) covers the whole of section 4.7. This page takes the concept slowly, shows why it matters, and traces a tiny program through memory so that you can see it working.
 
 Condensed notes are in the [stored program concept revision notes](/resources/aqa-a-level-computer-science-7517-stored-program-concept-revision-notes/), and exam-style questions are in the [stored program concept practice questions](/resources/aqa-a-level-computer-science-7517-stored-program-concept-practice/).
 

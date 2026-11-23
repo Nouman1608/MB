@@ -148,7 +148,7 @@ Find the times when v = 0, work out the displacement in each interval, and add t
 
 - [4.2 revision notes](/resources/cambridge-a-level-mathematics-9709-kinematics-of-motion-in-a-straight-line-cambridge-revision-notes/)
 - [4.2 practice questions](/resources/cambridge-a-level-mathematics-9709-kinematics-of-motion-in-a-straight-line-cambridge-practice/)
-- Forces that cause the motion: [4.1 Forces and equilibrium](/resources/cambridge-a-level-mathematics-9709-forces-and-equilibrium-cambridge-alevel-maths/)
+- Forces that cause the motion: [4.1 Forces and equilibrium](/resources/cambridge-a-level-mathematics-9709-forces-and-equilibrium/)
 - Mixed questions: [Mechanics practice](/resources/a-level-mathematics-mechanics-practice/)
 
 ## Official syllabus

@@ -30,7 +30,7 @@ and scenario based.
 
 Condensed for the final weeks. For the full explanation, use the
 [Big Data study guide](/resources/aqa-a-level-computer-science-big-data-study-guide/).
-Practise with the [Big Data practice questions](/resources/aqa-a-level-computer-science-big-data-practice/).
+Practise with the [Big Data practice questions](/resources/aqa-a-level-computer-science-7517-big-data-practice/).
 
 ## Syllabus coverage
 
@@ -177,7 +177,7 @@ other, so no locks are needed and results are predictable.
 ## Related resources
 
 [Big Data study guide](/resources/aqa-a-level-computer-science-big-data-study-guide/) |
-[Big Data practice questions](/resources/aqa-a-level-computer-science-big-data-practice/) |
+[Big Data practice questions](/resources/aqa-a-level-computer-science-7517-big-data-practice/) |
 [Fundamentals of functional programming revision notes](/resources/aqa-a-level-computer-science-fundamentals-of-functional-programming-revision-notes/)
 
 ## Official syllabus

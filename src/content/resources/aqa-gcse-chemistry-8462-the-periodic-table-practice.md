@@ -39,7 +39,7 @@ practical in this section.
 Learn the content first in the [periodic table study guide](/resources/aqa-gcse-chemistry-8462-the-periodic-table/) and
 the [revision notes](/resources/aqa-gcse-chemistry-8462-the-periodic-table-revision-notes/). For questions on the
 rest of topic 4.1 (atomic models, isotopes, separating mixtures), use the
-[Atomic structure practice questions](/resources/aqa-gcse-chemistry-atomic-structure-practice/). The course hub is
+[Atomic structure practice questions](/resources/aqa-gcse-chemistry-8462-atomic-structure-practice/). The course hub is
 [AQA GCSE Chemistry](/boards/aqa/gcse/chemistry/), and the [printable checklist](/checklists/aqa/gcse/chemistry/)
 lists every point.
 
@@ -233,7 +233,7 @@ Mendeleev without the role of evidence and isotopes keep the answer out of the t
 
 - Revise from the [periodic table revision notes](/resources/aqa-gcse-chemistry-8462-the-periodic-table-revision-notes/).
 - Reread any weak section in the [periodic table study guide](/resources/aqa-gcse-chemistry-8462-the-periodic-table/).
-- Practise the rest of topic 4.1 with the [Atomic structure practice questions](/resources/aqa-gcse-chemistry-atomic-structure-practice/).
+- Practise the rest of topic 4.1 with the [Atomic structure practice questions](/resources/aqa-gcse-chemistry-8462-atomic-structure-practice/).
 - Return to the [AQA GCSE Chemistry hub](/boards/aqa/gcse/chemistry/) and tick off points on the
   [printable checklist](/checklists/aqa/gcse/chemistry/).
 - Try one of the [free diagnostics](/diagnostics/) to find your next gap.

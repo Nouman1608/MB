@@ -208,7 +208,7 @@ offers more than one reading of a detail, and evaluates the effect of the writer
 
 Related: [Paper 1 study guide](/resources/aqa-gcse-english-language-paper-1/) |
 [Paper 2 study guide](/resources/aqa-gcse-english-language-paper-2/) |
-[evaluating a writer's choices study guide](/resources/aqa-gcse-english-language-8700-evaluation-of-a-writers-choice-of-vocabulary-form-grammatical-and-structural-features/)
+[evaluating a writer's choices study guide](/resources/aqa-gcse-english-language-8700-evaluation-of-a-writers-choice-of-vocabulary-form/)
 
 ## Official syllabus
 

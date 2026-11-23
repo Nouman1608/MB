@@ -195,7 +195,7 @@ Condense this page with the
 and test it with the
 [Homogeneous and heterogeneous catalysts practice questions](/resources/cambridge-a-level-chemistry-9701-a-homogeneous-and-heterogeneous-catalysts-practice/).
 For rate equations and mechanisms, see the
-[Rate equations study guide](/resources/cambridge-a-level-chemistry-9701-a-simple-rate-equations-orders-of-reaction-and-rate-constants/).
+[Rate equations study guide](/resources/cambridge-a-level-chemistry-9701-a-simple-rate-equations-orders-of-reaction-and-rate/).
 
 Written against Cambridge International AS & A Level Chemistry 9701, 2025–2027 series.
 Always check the current syllabus for your examination year.

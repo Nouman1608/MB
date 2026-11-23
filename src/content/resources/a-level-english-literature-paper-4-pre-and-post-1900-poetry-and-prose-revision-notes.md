@@ -35,7 +35,7 @@ A Level paper in which you write **two essays, one on a pre-1900 set text (Secti
 post-1900 set text (Section B), and one of the two must be on poetry and the other on prose**. Each
 essay is worth 25 marks, and every question assesses all five assessment objectives, including AO5,
 the evaluation of other opinions and interpretations. For the full method, use the
-[Paper 4 study guide](/resources/cambridge-a-level-english-literature-paper-4-pre-and-post-1900-poetry-and-prose-study-guide/).
+[Paper 4 study guide](/resources/cambridge-a-level-english-literature-paper-4-pre-and-post-1900-poetry-and-prose-study/).
 
 ## Format at a glance
 
@@ -241,7 +241,7 @@ Paper 4 Pre- and Post-1900 Poetry and Prose, Section A (Pre-1900 Poetry and Pros
 
 ## Related pages
 
-- [Paper 4 study guide](/resources/cambridge-a-level-english-literature-paper-4-pre-and-post-1900-poetry-and-prose-study-guide/)
+- [Paper 4 study guide](/resources/cambridge-a-level-english-literature-paper-4-pre-and-post-1900-poetry-and-prose-study/)
 - [Paper 4 practice questions](/resources/a-level-english-literature-paper-4-pre-and-post-1900-poetry-and-prose-practice/)
 - [Paper 3 – Shakespeare and Drama revision notes](/resources/a-level-english-literature-paper-3-shakespeare-and-drama-revision-notes/)
 

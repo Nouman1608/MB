@@ -25,7 +25,7 @@ featured: false
 
 Sub-topic 5.3 of the Cambridge O Level Environmental Management 5014 syllabus (2027-2029) has only two outcomes, but they carry a lot of content. Outcome 5.3.1 asks you to describe ten named strategies for conserving "the biodiversity and genetic resources of natural ecosystems". Outcome 5.3.2 asks you to **discuss** their benefits and limitations, which is where the marks for extended answers lie. This guide explains how each strategy works, what it protects and what it cannot do, and shows how to build a discussion answer that compares strategies rather than listing them.
 
-For the whole of Topic 5, see the [ecosystems, biodiversity and fieldwork study guide](/resources/cambridge-o-level-environmental-management-ecosystems-biodiversity-and-fieldwork-study-guide/).
+For the whole of Topic 5, see the [ecosystems, biodiversity and fieldwork study guide](/resources/cambridge-o-level-environmental-management-ecosystems-biodiversity-and-fieldwork-study/).
 
 ## Two things being conserved
 

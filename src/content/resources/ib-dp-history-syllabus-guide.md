@@ -58,7 +58,7 @@ on either.
 
 Paper 1 sets a separate group of four sources and four questions for
 each prescribed subject; you answer only the set for yours. See the
-[prescribed subjects study guide](/resources/ib-ib-dp-world-history-prescribed-subjects-study-guide/)
+[prescribed subjects study guide](/resources/ib-dp-world-history-prescribed-subjects-study-guide/)
 for the question types.
 
 ## What are the twelve world history topics? (90 hours, SL and HL)
@@ -87,7 +87,7 @@ lists prescribed content areas (for Authoritarian states: the
 emergence of authoritarian states, consolidation and maintenance of
 power, and the aims and results of policies) and suggests examples, but
 the choice of named states or wars is the teacher's. The
-[world history topics study guide](/resources/ib-ib-dp-world-history-world-history-topics-study-guide/)
+[world history topics study guide](/resources/ib-dp-world-history-topics-study-guide/)
 explains how Paper 2 essays are built.
 
 ## What are the HL regional options? (90 hours, HL only)
@@ -112,7 +112,7 @@ region, so 36 questions in all, and HL students answer three. Because
 you have studied only three sections, roughly six questions will be on
 your content, which is why every section you study must be revised
 fully. See the
-[HL options study guide](/resources/ib-ib-dp-world-history-hl-options-depth-studies-study-guide/).
+[HL options study guide](/resources/ib-dp-world-history-hl-options-depth-studies-study-guide/).
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-history-syllabus-guide--01-paper-3-funnel.webp" width="900" height="774" alt="HL students study one of four regional options and three of its eighteen sections. Paper 3 sets two questions on each section, 36 in all; about six fall on the three sections studied, and students answer three. Paper 3 is worth 35% at HL." loading="lazy">

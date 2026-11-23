@@ -24,7 +24,7 @@ updatedDate: 2026-11-16
 featured: false
 ---
 
-Condensed recall for **4.1 Geophysical systems** (IB DP Geography, Option D: Geophysical hazards). Fuller explanation is in the [Geophysical hazards study guide](/resources/ib-ib-dp-geography-geophysical-hazards-study-guide/).
+Condensed recall for **4.1 Geophysical systems** (IB DP Geography, Option D: Geophysical hazards). Fuller explanation is in the [Geophysical hazards study guide](/resources/ib-dp-geography-geophysical-hazards-study-guide/).
 
 ## Earth structure and plates
 
@@ -143,4 +143,4 @@ Landslides, liquefaction, tsunamis. A tsunami forms when sudden sea-floor displa
 
 ## Related resources
 
-- [Option D: Geophysical hazards study guide](/resources/ib-ib-dp-geography-geophysical-hazards-study-guide/)
+- [Option D: Geophysical hazards study guide](/resources/ib-dp-geography-geophysical-hazards-study-guide/)

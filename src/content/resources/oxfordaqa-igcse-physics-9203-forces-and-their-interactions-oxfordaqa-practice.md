@@ -170,7 +170,7 @@ These questions cover **3.1.1 Forces and their interactions**, statements a to h
 
 ## Next steps
 
-Revise from the [Forces and their interactions revision notes](/resources/oxfordaqa-igcse-physics-9203-forces-and-their-interactions-oxfordaqa-revision-notes/), then try the [motion practice questions](/resources/oxfordaqa-igcse-physics-9203-motion-oxfordaqa-igcse-practice/).
+Revise from the [Forces and their interactions revision notes](/resources/oxfordaqa-igcse-physics-9203-forces-and-their-interactions-oxfordaqa-revision-notes/), then try the [motion practice questions](/resources/oxfordaqa-igcse-physics-9203-motion-practice/).
 
 ## Official syllabus
 

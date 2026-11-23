@@ -122,7 +122,7 @@ The Appendix B summaries model this last step. Oakley's paper predates civil par
 
 ## Methods and methodological issues in each topic
 
-Section 3.7 teaches methods in general; here you judge methods *in the context of a topic*. For research design, sampling and ethics, see the [research methods guide](/resources/aqa-gcse-sociology-research-methods/).
+Section 3.7 teaches methods in general; here you judge methods *in the context of a topic*. For research design, sampling and ethics, see the [research methods guide](/resources/aqa-gcse-sociology-8192-research-methods/).
 
 ### Official statistics in three topics
 

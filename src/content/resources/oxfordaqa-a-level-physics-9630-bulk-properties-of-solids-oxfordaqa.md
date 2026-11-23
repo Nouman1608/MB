@@ -161,4 +161,4 @@ A stress–strain graph removes the effect of sample size, so different material
 
 ## Where this subtopic leads
 
-Stress and strain combine into the Young modulus in 3.2.10, measured in Required practical 2. For the energy ideas used here, revisit the [conservation of energy study guide](/resources/oxfordaqa-a-level-physics-9630-conservation-of-energy-oxfordaqa-alevel/) and the [work, energy and power study guide](/resources/oxfordaqa-a-level-physics-9630-work-energy-and-power-oxfordaqa/).
+Stress and strain combine into the Young modulus in 3.2.10, measured in Required practical 2. For the energy ideas used here, revisit the [conservation of energy study guide](/resources/oxfordaqa-a-level-physics-9630-conservation-of-energy/) and the [work, energy and power study guide](/resources/oxfordaqa-a-level-physics-9630-work-energy-and-power-oxfordaqa/).

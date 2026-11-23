@@ -147,4 +147,4 @@ The pyramid of numbers has a narrow base (1 tree), a wide second bar (4,000 cate
 
 - Recall tables and a self-test: [ecosystems revision notes](/resources/cambridge-o-level-environmental-management-5014-ecosystems-5014-2027-revision-notes/).
 - Exam-style questions with full answers: [ecosystems practice questions](/resources/cambridge-o-level-environmental-management-5014-ecosystems-5014-2027-practice/).
-- The whole of Topic 5, including forests, biodiversity and fieldwork: [O Level ecosystems, biodiversity and fieldwork study guide](/resources/cambridge-o-level-environmental-management-ecosystems-biodiversity-and-fieldwork-study-guide/).
+- The whole of Topic 5, including forests, biodiversity and fieldwork: [O Level ecosystems, biodiversity and fieldwork study guide](/resources/cambridge-o-level-environmental-management-ecosystems-biodiversity-and-fieldwork-study/).

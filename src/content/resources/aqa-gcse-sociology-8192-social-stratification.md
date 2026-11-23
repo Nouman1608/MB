@@ -247,7 +247,7 @@ Walby argued patriarchy has moved from **private patriarchy** (direct control by
 - Giving Devine's study as proof of embourgeoisement. Her findings do not support it.
 - Reciting Walby's six structures without private versus public patriarchy.
 
-For methods points, revisit the [Research methods guide](/resources/aqa-gcse-sociology-research-methods/).
+For methods points, revisit the [Research methods guide](/resources/aqa-gcse-sociology-8192-research-methods/).
 
 ## Frequently asked questions
 

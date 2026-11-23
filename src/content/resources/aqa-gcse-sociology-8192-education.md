@@ -48,7 +48,7 @@ Use this guide with the [Education revision notes](/resources/aqa-gcse-sociology
 | 3.4.3 Educational achievement | Class, gender and ethnicity as factors; functionalist, feminist and Marxist views; Halsey on class-based inequalities; Ball on parental choice and competition between schools | Paper 1 |
 | 3.4.4 Processes within schools | Streaming, setting, mixed ability teaching, labelling, the self-fulfilling prophecy; interactionist, functionalist, feminist and Marxist views; Ball on teacher expectations; Willis on counter school cultures | Paper 1 |
 
-The specification also expects you to use research methods in the context of education. The [research methods guide](/resources/aqa-gcse-sociology-research-methods/) covers that.
+The specification also expects you to use research methods in the context of education. The [research methods guide](/resources/aqa-gcse-sociology-8192-research-methods/) covers that.
 
 ## 3.4.1 Roles and functions of education
 

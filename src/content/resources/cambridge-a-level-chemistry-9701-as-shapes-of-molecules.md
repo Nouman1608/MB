@@ -156,7 +156,7 @@ The named examples with five and six pairs have no lone pairs. Analogous species
 
 - [Shapes of molecules revision notes](/resources/cambridge-a-level-chemistry-9701-as-shapes-of-molecules-revision-notes/)
 - [Shapes of molecules practice questions](/resources/cambridge-a-level-chemistry-9701-as-shapes-of-molecules-practice/)
-- [Covalent and coordinate bonding study guide](/resources/cambridge-a-level-chemistry-9701-as-covalent-bonding-and-coordinate-dative-covalent-bonding/)
-- [Intermolecular forces, electronegativity and bond properties study guide](/resources/cambridge-a-level-chemistry-9701-as-intermolecular-forces-electronegativity-and-bond-properties/)
+- [Covalent and coordinate bonding study guide](/resources/cambridge-a-level-chemistry-9701-as-covalent-bonding-and-coordinate-dative-covalent/)
+- [Intermolecular forces, electronegativity and bond properties study guide](/resources/cambridge-a-level-chemistry-9701-as-intermolecular-forces-electronegativity-and-bond/)
 
 *Written against Cambridge International AS & A Level Chemistry 9701, 2025–2027 series. Always check the current syllabus for your examination year.*

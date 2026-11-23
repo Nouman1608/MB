@@ -143,4 +143,4 @@ A laboratory version uses a microwave transmitter and a receiver. Rotating the r
 
 ## Next steps
 
-Condense this page with the [longitudinal and transverse waves revision notes](/resources/oxfordaqa-a-level-physics-9630-longitudinal-and-transverse-waves-oxfordaqa-revision-notes/) and test yourself with the [longitudinal and transverse waves practice questions](/resources/oxfordaqa-a-level-physics-9630-longitudinal-and-transverse-waves-oxfordaqa-practice/). The phase and wave-equation skills you need come from the [progressive waves study guide](/resources/oxfordaqa-a-level-physics-9630-progressive-waves-oxfordaqa-alevel/).
+Condense this page with the [longitudinal and transverse waves revision notes](/resources/oxfordaqa-a-level-physics-9630-longitudinal-and-transverse-waves-oxfordaqa-revision-notes/) and test yourself with the [longitudinal and transverse waves practice questions](/resources/oxfordaqa-a-level-physics-9630-longitudinal-and-transverse-waves-oxfordaqa-practice/). The phase and wave-equation skills you need come from the [progressive waves study guide](/resources/oxfordaqa-a-level-physics-9630-progressive-waves/).

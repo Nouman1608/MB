@@ -172,7 +172,7 @@ MgO + 2HCl → MgCl₂ + H₂O (Aᵣ: Mg = 24, O = 16, Cl = 35.5)
 
 - Rework weak areas with the [preparation of salts study guide](/resources/oxfordaqa-igcse-chemistry-9202-preparation-of-salts/).
 - Recheck solubility facts in the [preparation of salts revision notes](/resources/oxfordaqa-igcse-chemistry-9202-preparation-of-salts-revision-notes/).
-- Practise more mole calculations with the [use of amount of substance practice questions](/resources/oxfordaqa-igcse-chemistry-9202-use-of-amount-of-substance-in-relation-to-masses-of-pure-substances-practice/).
+- Practise more mole calculations with the [use of amount of substance practice questions](/resources/oxfordaqa-igcse-chemistry-9202-use-of-amount-of-substance-in-relation-to-masses-of-pure-practice/).
 
 ## Official syllabus
 

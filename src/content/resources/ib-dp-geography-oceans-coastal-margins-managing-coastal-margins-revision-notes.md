@@ -25,7 +25,7 @@ updatedDate: 2026-11-16
 featured: false
 ---
 
-Condensed recall for **2.3 Managing coastal margins** (IB DP Geography, Option B: Oceans and coastal margins). The [Oceans and coastal margins study guide](/resources/ib-ib-dp-geography-oceans-coastal-margins-study-guide/) gives fuller discussion.
+Condensed recall for **2.3 Managing coastal margins** (IB DP Geography, Option B: Oceans and coastal margins). The [Oceans and coastal margins study guide](/resources/ib-dp-geography-oceans-coastal-margins-study-guide/) gives fuller discussion.
 
 ## Management responses
 
@@ -135,4 +135,4 @@ After the catastrophic North Sea flood of 1953, the Dutch built the Delta Works,
 
 ## Related resources
 
-- [Option B: Oceans and coastal margins study guide](/resources/ib-ib-dp-geography-oceans-coastal-margins-study-guide/)
+- [Option B: Oceans and coastal margins study guide](/resources/ib-dp-geography-oceans-coastal-margins-study-guide/)

@@ -168,7 +168,7 @@ Plot ln y against ln x. The gradient is n and the vertical intercept is ln k.
 
 - [3.2 revision notes](/resources/cambridge-a-level-mathematics-9709-logarithmic-and-exponential-functions-cambridge-3-revision-notes/) for a condensed summary and self-test
 - [3.2 practice questions](/resources/cambridge-a-level-mathematics-9709-logarithmic-and-exponential-functions-cambridge-3-practice/) with mark-by-mark answers
-- Logarithms in calculus: [3.4 Differentiation](/resources/cambridge-a-level-mathematics-9709-differentiation-cambridge-alevel-maths-3/)
+- Logarithms in calculus: [3.4 Differentiation](/resources/cambridge-a-level-mathematics-9709-differentiation-3/)
 
 ## Official syllabus
 

@@ -32,7 +32,7 @@ reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 
 These questions cover section **4.1.3 Properties of transition metals** (4.1.3.1 Comparison with Group 1 elements and 4.1.3.2 Typical properties) of the AQA GCSE Chemistry (8462) specification, for teaching from September 2016 with exams from June 2018 (version 1.1). The section is part of Topic 1, examined on Paper 1 at Foundation and Higher tier. None of it is Higher tier only, so every question here is for both tiers. A calculator is useful for questions 3 and 8.
 
-Learn the content first in the [transition metals study guide](/resources/aqa-gcse-chemistry-8462-properties-of-transition-metals/) and the [transition metals revision notes](/resources/aqa-gcse-chemistry-8462-properties-of-transition-metals-revision-notes/). Questions on the rest of Topic 1 are in the [atomic structure practice questions](/resources/aqa-gcse-chemistry-atomic-structure-practice/). The course hub is [AQA GCSE Chemistry](/boards/aqa/gcse/chemistry/) and the [printable checklist](/checklists/aqa/gcse/chemistry/) lists every statement.
+Learn the content first in the [transition metals study guide](/resources/aqa-gcse-chemistry-8462-properties-of-transition-metals/) and the [transition metals revision notes](/resources/aqa-gcse-chemistry-8462-properties-of-transition-metals-revision-notes/). Questions on the rest of Topic 1 are in the [atomic structure practice questions](/resources/aqa-gcse-chemistry-8462-atomic-structure-practice/). The course hub is [AQA GCSE Chemistry](/boards/aqa/gcse/chemistry/) and the [printable checklist](/checklists/aqa/gcse/chemistry/) lists every statement.
 
 ## Questions
 

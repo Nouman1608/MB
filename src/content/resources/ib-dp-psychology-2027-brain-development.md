@@ -25,7 +25,7 @@ featured: false
 
 The human development context of IB Psychology (first assessment 2027) asks how and why behaviour and cognition change over time. Under **models of development**, the guide asks you to understand one or more of cognitive, social, moral or language development. It then lists an area called **brain development** with three learning objectives: the role of **brain maturation** in human development, the extent to which **critical periods** explain human development, and the role of **neuroplasticity** in human development. This guide teaches those three ideas, shows how to apply them to cognitive, social, moral or language development, and gives evaluation points. The guide names no required studies, so use ones you can describe and evaluate.
 
-Related: [developmental psychology study guide](/resources/ib-ib-dp-psychology-developmental-psychology-study-guide/), [empathy and theory of mind](/resources/ib-ib-dp-psychology-empathy-and-theory-of-mind/), [revision notes](/resources/ib-dp-psychology-2027-brain-development-revision-notes/) and [practice set](/resources/ib-dp-psychology-2027-brain-development-practice/).
+Related: [developmental psychology study guide](/resources/ib-dp-psychology-developmental-psychology-study-guide/), [empathy and theory of mind](/resources/ib-dp-psychology-empathy-and-theory-of-mind/), [revision notes](/resources/ib-dp-psychology-2027-brain-development-revision-notes/) and [practice set](/resources/ib-dp-psychology-2027-brain-development-practice/).
 
 ## Why brain development matters for the context
 

@@ -87,3 +87,23 @@ test('an unrelated host (e.g. a preview/staging domain) is left untouched, not r
   assert.notEqual(res.status, 301, 'only the literal www.marlbridge.com host should ever be redirected');
   assert.equal(calls.length, 1);
 });
+
+const OLD_SLUG = ['cambridge-igcse-mathematics-0580-introduction-to-algebra', 'cambridge', 'igcse', 'maths'].join('-');
+
+test('a renamed resource slug 301s to its new URL, keeping the query string', async () => {
+  const { env, calls } = makeEnv();
+  const res = await worker.fetch(
+    new Request(`https://marlbridge.com/resources/${OLD_SLUG}/?x=1`), // built from parts so slug rewrites do not touch it
+    env,
+  );
+  assert.equal(res.status, 301);
+  assert.equal(res.headers.get('location'), 'https://marlbridge.com/resources/cambridge-igcse-mathematics-0580-introduction-to-algebra/?x=1');
+  assert.equal(calls.length, 0);
+});
+
+test('a current resource slug is not redirected', async () => {
+  const { env, calls } = makeEnv();
+  const res = await worker.fetch(new Request('https://marlbridge.com/resources/cambridge-igcse-mathematics-0580-introduction-to-algebra/'), env);
+  assert.equal(res.status, 200);
+  assert.equal(calls.length, 1);
+});

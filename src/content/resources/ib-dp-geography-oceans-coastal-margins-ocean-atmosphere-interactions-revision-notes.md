@@ -25,7 +25,7 @@ updatedDate: 2026-11-16
 featured: false
 ---
 
-Condensed recall for **2.1 Ocean-atmosphere interactions** (IB DP Geography, Option B: Oceans and coastal margins). Fuller explanation is in the [Oceans and coastal margins study guide](/resources/ib-ib-dp-geography-oceans-coastal-margins-study-guide/).
+Condensed recall for **2.1 Ocean-atmosphere interactions** (IB DP Geography, Option B: Oceans and coastal margins). Fuller explanation is in the [Oceans and coastal margins study guide](/resources/ib-dp-geography-oceans-coastal-margins-study-guide/).
 
 ## Heat redistribution
 
@@ -135,4 +135,4 @@ During **La Nina**, the reverse tends to happen: wetter conditions and flood ris
 
 ## Related resources
 
-- [Option B: Oceans and coastal margins study guide](/resources/ib-ib-dp-geography-oceans-coastal-margins-study-guide/)
+- [Option B: Oceans and coastal margins study guide](/resources/ib-dp-geography-oceans-coastal-margins-study-guide/)

@@ -126,7 +126,7 @@ When a substance is heated, its particles move or vibrate more and take up more 
 
 - [Energy transfers revision notes](/resources/oxfordaqa-igcse-physics-9203-energy-transfers-and-particle-motion-revision-notes/)
 - [Energy transfers practice questions](/resources/oxfordaqa-igcse-physics-9203-energy-transfers-and-particle-motion-practice/)
-- [Kinetic theory study guide](/resources/oxfordaqa-igcse-physics-9203-kinetic-theory-oxfordaqa-igcse/)
+- [Kinetic theory study guide](/resources/oxfordaqa-igcse-physics-9203-kinetic-theory/)
 
 ## Specification reference
 

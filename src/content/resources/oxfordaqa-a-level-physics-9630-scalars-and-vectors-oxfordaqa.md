@@ -162,4 +162,4 @@ An object moving at **constant velocity** is in equilibrium too: zero resultant 
 
 ## Where this subtopic leads
 
-Moments in 3.2.2 add the second condition for the equilibrium of an extended object. Continue with the [moments study guide](/resources/oxfordaqa-a-level-physics-9630-moments-oxfordaqa-alevel/) and the [Newton's laws of motion study guide](/resources/oxfordaqa-a-level-physics-9630-newtons-laws-of-motion-oxfordaqa/).
+Moments in 3.2.2 add the second condition for the equilibrium of an extended object. Continue with the [moments study guide](/resources/oxfordaqa-a-level-physics-9630-moments/) and the [Newton's laws of motion study guide](/resources/oxfordaqa-a-level-physics-9630-newtons-laws-of-motion-oxfordaqa/).

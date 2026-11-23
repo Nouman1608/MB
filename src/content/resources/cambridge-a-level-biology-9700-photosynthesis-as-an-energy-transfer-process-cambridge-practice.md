@@ -166,5 +166,5 @@ D: The cytoplasm of the palisade cell **[1]**
 
 - [13.1 study guide](/resources/cambridge-a-level-biology-9700-photosynthesis-as-an-energy-transfer-process-cambridge/)
 - [13.1 revision notes](/resources/cambridge-a-level-biology-9700-photosynthesis-as-an-energy-transfer-process-cambridge-revision-notes/)
-- [Investigation of limiting factors practice questions](/resources/cambridge-a-level-biology-9700-investigation-of-limiting-factors-cambridge-alevel-practice/)
+- [Investigation of limiting factors practice questions](/resources/cambridge-a-level-biology-9700-investigation-of-limiting-factors-practice/)
 - [Photosynthesis practice questions for the whole topic](/resources/a-level-biology-9700-photosynthesis-practice/)

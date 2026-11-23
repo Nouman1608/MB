@@ -141,7 +141,7 @@ Population grows faster than housing, so migrants build informal settlements *(1
 
 - [Human population size revision notes](/resources/cambridge-o-level-environmental-management-5014-human-population-size-5014-2027-revision-notes/)
 - [Human population size practice questions](/resources/cambridge-o-level-environmental-management-5014-human-population-size-5014-2027-practice/)
-- [Population density, distribution and structure study guide](/resources/cambridge-o-level-environmental-management-5014-human-population-density-distribution-and-structure-5014-2027/)
+- [Population density, distribution and structure study guide](/resources/cambridge-o-level-environmental-management-5014-human-population-density-distribution/)
 
 ## Official syllabus
 

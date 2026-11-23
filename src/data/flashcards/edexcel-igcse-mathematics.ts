@@ -45,9 +45,9 @@ const SFG = 'edexcel-igcse-maths-4ma1-sequences-functions-and-graphs-revision-no
 const GT = 'edexcel-igcse-maths-4ma1-geometry-and-trigonometry-revision-notes';
 const VT = 'edexcel-igcse-maths-4ma1-vectors-and-transformation-geometry-revision-notes';
 const SP = 'edexcel-igcse-maths-4ma1-statistics-and-probability-revision-notes';
-const M2D = 'edexcel-igcse-mathematics-4ma1-mensuration-of-2d-shapes-edexcel-igcse-maths-revision-notes';
-const S3D = 'edexcel-igcse-mathematics-4ma1-3d-shapes-and-volume-edexcel-igcse-maths-revision-notes';
-const SMLR = 'edexcel-igcse-mathematics-4ma1-similarity-edexcel-igcse-maths-revision-notes';
+const M2D = 'edexcel-igcse-mathematics-4ma1-mensuration-of-2d-shapes-revision-notes';
+const S3D = 'edexcel-igcse-mathematics-4ma1-3d-shapes-and-volume-revision-notes';
+const SMLR = 'edexcel-igcse-mathematics-4ma1-similarity-revision-notes';
 
 const T1 = 'numbers-and-the-number-system-edexcel-igcse-maths';
 const T2 = 'equations-formulae-and-identities-edexcel-igcse-maths';

@@ -150,7 +150,7 @@ Use h = 6.63 × 10⁻³⁴ J s, c = 3.00 × 10⁸ m s⁻¹, e = 1.60 × 10⁻¹�
 
 ## Next steps
 
-Revisit the [quantum phenomena study guide](/resources/aqa-a-level-physics-7408-electromagnetic-radiation-and-quantum-phenomena/), then try the mixed [Particles and radiation practice questions](/resources/aqa-a-level-physics-particles-and-radiation-practice/). For the particle half of section 3.2, use the [Particles practice questions](/resources/aqa-a-level-physics-7408-particles-aqa-alevel-practice/).
+Revisit the [quantum phenomena study guide](/resources/aqa-a-level-physics-7408-electromagnetic-radiation-and-quantum-phenomena/), then try the mixed [Particles and radiation practice questions](/resources/aqa-a-level-physics-particles-and-radiation-practice/). For the particle half of section 3.2, use the [Particles practice questions](/resources/aqa-a-level-physics-7408-particles-practice/).
 
 ## Frequently asked questions
 

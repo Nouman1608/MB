@@ -25,7 +25,7 @@ updatedDate: 2026-11-16
 featured: false
 ---
 
-Condensed recall for **5.4 Managing tourism and sport for the future** (IB DP Geography, Option E: Leisure, tourism and sport). See the [Leisure, tourism and sport study guide](/resources/ib-ib-dp-geography-leisure-tourism-sport-study-guide/).
+Condensed recall for **5.4 Managing tourism and sport for the future** (IB DP Geography, Option E: Leisure, tourism and sport). See the [Leisure, tourism and sport study guide](/resources/ib-dp-geography-leisure-tourism-sport-study-guide/).
 
 ## Core concept
 
@@ -136,4 +136,4 @@ If capacity is fixed and arrivals rise 25 per cent, the destination may approach
 
 ## Related resources
 
-- [Option E: Leisure, tourism and sport study guide](/resources/ib-ib-dp-geography-leisure-tourism-sport-study-guide/)
+- [Option E: Leisure, tourism and sport study guide](/resources/ib-dp-geography-leisure-tourism-sport-study-guide/)

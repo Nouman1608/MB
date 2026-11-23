@@ -25,7 +25,7 @@ updatedDate: 2026-11-16
 featured: false
 ---
 
-Condensed recall for **5.3 Tourism and sport at the international scale** (IB DP Geography, Option E: Leisure, tourism and sport). Fuller explanation is in the [Leisure, tourism and sport study guide](/resources/ib-ib-dp-geography-leisure-tourism-sport-study-guide/).
+Condensed recall for **5.3 Tourism and sport at the international scale** (IB DP Geography, Option E: Leisure, tourism and sport). Fuller explanation is in the [Leisure, tourism and sport study guide](/resources/ib-dp-geography-leisure-tourism-sport-study-guide/).
 
 ## Growth and its drivers
 
@@ -136,4 +136,4 @@ Examples of shocks:
 
 ## Related resources
 
-- [Option E: Leisure, tourism and sport study guide](/resources/ib-ib-dp-geography-leisure-tourism-sport-study-guide/)
+- [Option E: Leisure, tourism and sport study guide](/resources/ib-dp-geography-leisure-tourism-sport-study-guide/)

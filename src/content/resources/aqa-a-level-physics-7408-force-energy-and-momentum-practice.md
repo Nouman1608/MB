@@ -142,7 +142,7 @@ These questions cover section 3.4.1 Force, energy and momentum (3.4.1.1 to 3.4.1
 
 ## Next steps
 
-Review the [force, energy and momentum study guide](/resources/aqa-a-level-physics-7408-force-energy-and-momentum/), then continue with [Materials](/resources/aqa-a-level-physics-7408-materials-aqa-alevel/). The [Mechanics and materials practice questions](/resources/aqa-a-level-physics-mechanics-and-materials-practice/) mix both halves of section 3.4.
+Review the [force, energy and momentum study guide](/resources/aqa-a-level-physics-7408-force-energy-and-momentum/), then continue with [Materials](/resources/aqa-a-level-physics-7408-materials/). The [Mechanics and materials practice questions](/resources/aqa-a-level-physics-mechanics-and-materials-practice/) mix both halves of section 3.4.
 
 ## Frequently asked questions
 

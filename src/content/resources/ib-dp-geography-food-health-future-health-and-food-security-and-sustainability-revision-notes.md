@@ -25,7 +25,7 @@ updatedDate: 2026-11-16
 featured: false
 ---
 
-Condensed recall for **6.4 Future health and food security and sustainability** (IB DP Geography, Option F: Food and health). Fuller explanation is in the [Food and health study guide](/resources/ib-ib-dp-geography-food-health-study-guide/).
+Condensed recall for **6.4 Future health and food security and sustainability** (IB DP Geography, Option F: Food and health). Fuller explanation is in the [Food and health study guide](/resources/ib-dp-geography-food-health-study-guide/).
 
 ## Pressures ahead
 
@@ -149,4 +149,4 @@ Use measures from 6.1 to judge progress, diffusion ideas from 6.2 to explain ris
 
 ## Related resources
 
-- [Option F: Food and health study guide](/resources/ib-ib-dp-geography-food-health-study-guide/)
+- [Option F: Food and health study guide](/resources/ib-dp-geography-food-health-study-guide/)

@@ -33,7 +33,7 @@ Higher Tier (Paper 2 can draw on them too). The one (HT only) statement is marke
 
 For full explanations and worked examples, use the [study guide for this section](/resources/aqa-gcse-chemistry-8462-atomic-structure/).
 Then test yourself with the [practice questions](/resources/aqa-gcse-chemistry-8462-atomic-structure-practice/).
-The [topic 4.1 revision notes](/resources/aqa-gcse-chemistry-atomic-structure-revision-notes/) cover the periodic
+The [topic 4.1 revision notes](/resources/aqa-gcse-chemistry-8462-atomic-structure-revision-notes/) cover the periodic
 table and group trends, which this page does not. The course hub is [AQA GCSE Chemistry](/boards/aqa/gcse/chemistry/)
 and the [printable checklist](/checklists/aqa/gcse/chemistry/) lists every specification point.
 

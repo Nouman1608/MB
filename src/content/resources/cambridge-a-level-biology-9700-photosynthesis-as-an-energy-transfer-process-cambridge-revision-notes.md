@@ -157,4 +157,4 @@ Rf = distance moved by pigment ÷ distance moved by solvent front
 
 ## Where to go next
 
-Work through the [13.1 practice questions](/resources/cambridge-a-level-biology-9700-photosynthesis-as-an-energy-transfer-process-cambridge-practice/), then move on to the [investigation of limiting factors revision notes](/resources/cambridge-a-level-biology-9700-investigation-of-limiting-factors-cambridge-alevel-revision-notes/). For the whole topic in one page, see the [Photosynthesis revision notes](/resources/a-level-biology-9700-photosynthesis-revision-notes/).
+Work through the [13.1 practice questions](/resources/cambridge-a-level-biology-9700-photosynthesis-as-an-energy-transfer-process-cambridge-practice/), then move on to the [investigation of limiting factors revision notes](/resources/cambridge-a-level-biology-9700-investigation-of-limiting-factors-revision-notes/). For the whole topic in one page, see the [Photosynthesis revision notes](/resources/a-level-biology-9700-photosynthesis-revision-notes/).

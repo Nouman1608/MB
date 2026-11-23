@@ -1,6 +1,6 @@
 import { C, svg, panel, t, tl, arrow, path, badge } from '../style.mjs';
 
-export const slug = 'aqa-a-level-law-7162-human-rights-in-the-united-kingdom-after-the-enactment-of-the-human-rights-act-1998';
+export const slug = 'aqa-a-level-law-7162-human-rights-in-the-united-kingdom-after-the-enactment-of-the-human';
 export const figures = [];
 const add = (name, svgText, alt, caption, after) => figures.push({ name, svg: svgText, alt, caption, after });
 
