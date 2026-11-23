@@ -14,6 +14,7 @@ import { relatedArticles, relatedResources } from '../../utils/content/related';
 import { articleNode } from '../../utils/schema/article';
 import { schemaAuthor } from '../../utils/schema/person';
 import { routes } from '../../utils/urls/routes';
+import { articleCategoryLabel } from '../../utils/content/article-category';
 
 export async function getStaticPaths() {
   const articles = await getArticles();
@@ -51,7 +52,7 @@ const jsonLd = [articleNode({
   title={d.seoTitle ?? d.title}
   description={d.seoDescription ?? d.excerpt}
   path={path}
-  eyebrow={d.category.replace(/-/g, ' ')}
+  eyebrow={articleCategoryLabel(d.category)}
   heading={d.title}
   lead={d.excerpt}
   headingFont="display"
