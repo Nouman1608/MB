@@ -22,7 +22,7 @@ const path = '/exam-calendar/';
 ---
 <PageLayout
   title="Cambridge Exam Dates 2026–2027: Entries, Exams & Results"
-  description="Cambridge exam dates for November 2026 and February/March 2027: entry deadlines, exam window and results days, taken from Cambridge's own key-dates PDFs."
+  description="Cambridge exam dates for November 2026, February/March 2027 and May/June 2027: entry deadlines, exam windows and results days, taken from Cambridge's own key-dates PDFs and exam timetables."
   path={path}
   eyebrow="Free tool"
   heading="Exam calendar"
@@ -50,17 +50,19 @@ const path = '/exam-calendar/';
   {EXAM_SERIES_KEY_DATES.map((featured, i) => (
     <Section surface={i % 2 === 0 ? 'ivory' : 'white'} border>
       <Container>
-        <p class="m-0 mb-1 mb-label text-teal-700">{i === 0 ? 'Currently ahead' : 'Next series'}</p>
+        <div data-series data-start={featured.examStartIso} data-end={featured.examEndIso} data-results={featured.resultsIso ?? ''} data-final={featured.finalEntriesDeadlineIso ?? ''} data-final-text={featured.finalEntriesDeadline ?? ''} data-late={featured.lateEntriesDeadlineIso ?? ''} data-late-text={featured.lateEntriesDeadline ?? ''}>
+        <p class="m-0 mb-1 mb-label text-teal-700" data-series-status hidden></p>
+        <div role="alert" class="m-0 mb-4 rounded-sm border border-rule bg-ivory p-3 text-[14.5px] font-semibold text-navy-800" data-series-warning hidden></div>
         <h2 class="m-0 mb-6 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">{featured.seriesLabel} key dates</h2>
 
         <div class="grid gap-5 sm:grid-cols-2">
-          <div class="rounded-sm border border-rule bg-white p-[clamp(20px,2vw,26px)]">
+          {featured.finalEntriesDeadline && (<div class="rounded-sm border border-rule bg-white p-[clamp(20px,2vw,26px)]">
             <p class="m-0 mb-3 mb-label text-navy-800">Entries</p>
             <dl class="m-0 grid grid-cols-[1fr_auto] gap-x-3 gap-y-2 text-[14.5px]">
               <dt class="m-0 text-ink-mute">Final entries deadline</dt><dd class="m-0 text-right font-medium text-navy-800">{featured.finalEntriesDeadline}</dd>
               {featured.lateEntriesDeadline && (<><dt class="m-0 text-ink-mute">Late entries deadline</dt><dd class="m-0 text-right font-medium text-navy-800">{featured.lateEntriesDeadline}</dd></>)}
             </dl>
-          </div>
+          </div>)}
           <div class="rounded-sm border border-rule bg-white p-[clamp(20px,2vw,26px)]">
             <p class="m-0 mb-3 mb-label text-navy-800">Exam window</p>
             <dl class="m-0 grid grid-cols-[1fr_auto] gap-x-3 gap-y-2 text-[14.5px]">
@@ -68,30 +70,53 @@ const path = '/exam-calendar/';
               <dt class="m-0 text-ink-mute">End</dt><dd class="m-0 text-right font-medium text-navy-800">{featured.examPeriodEnd}</dd>
             </dl>
           </div>
-          <div class="rounded-sm border border-rule bg-white p-[clamp(20px,2vw,26px)]">
+          {featured.resultsReleased.length > 0 && (<div class="rounded-sm border border-rule bg-white p-[clamp(20px,2vw,26px)]">
             <p class="m-0 mb-3 mb-label text-navy-800">Results released</p>
             <dl class="m-0 grid grid-cols-[1fr_auto] gap-x-3 gap-y-2 text-[14.5px]">
               {featured.resultsReleased.map((r) => (
                 <><dt class="m-0 text-ink-mute">{r.qualificationGroup}</dt><dd class="m-0 text-right font-medium text-navy-800">{r.date}</dd></>
               ))}
             </dl>
-          </div>
-          <div class="rounded-sm border border-rule bg-white p-[clamp(20px,2vw,26px)]">
+          </div>)}
+          {(featured.enquiriesAboutResultsDeadline || featured.accessToScriptsDeadline) && (<div class="rounded-sm border border-rule bg-white p-[clamp(20px,2vw,26px)]">
             <p class="m-0 mb-3 mb-label text-navy-800">After results</p>
             <dl class="m-0 grid grid-cols-[1fr_auto] gap-x-3 gap-y-2 text-[14.5px]">
               {featured.enquiriesAboutResultsDeadline && (<><dt class="m-0 text-ink-mute">Enquiries about results deadline</dt><dd class="m-0 text-right font-medium text-navy-800">{featured.enquiriesAboutResultsDeadline}</dd></>)}
               {featured.accessToScriptsDeadline && (<><dt class="m-0 text-ink-mute">Access to Scripts deadline</dt><dd class="m-0 text-right font-medium text-navy-800">{featured.accessToScriptsDeadline}</dd></>)}
             </dl>
-          </div>
+          </div>)}
         </div>
+        {featured.partialNote && (<p class="m-0 mt-4 rounded-sm border border-dashed border-rule bg-white p-3 text-[13.5px] leading-[1.6] text-ink-mute">{featured.partialNote}</p>)}
 
         <p class="m-0 mt-6 text-[13px] text-ink-mute">
-          Sourced directly from Cambridge's own key-dates document for the {featured.seriesLabel} series ({featured.sourceScope}), verified {featured.verifiedOn} —
-          {' '}<a href={featured.officialSourceUrl} class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700" rel="noopener">view the original PDF</a>.
+          Sourced directly from Cambridge's own {featured.partialNote ? 'final exam timetables' : 'key-dates document'} for the {featured.seriesLabel} series ({featured.sourceScope}), verified {featured.verifiedOn} —
+          {' '}<a href={featured.officialSourceUrl} class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700" rel="noopener">{featured.extraSources ? 'Zone 1' : 'view the original PDF'}</a>{featured.extraSources && featured.extraSources.map((x) => (<>{', '}<a href={x.url} class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700" rel="noopener">{x.label}</a></>))}.
         </p>
+        </div>
       </Container>
     </Section>
   ))}
+
+  <script>
+    import { seriesLabels, deadlineWarnings, toLocalIso } from '../../data/academic/exam-calendar-status.mjs';
+    try {
+      const today = toLocalIso(new Date());
+      const blocks = Array.from(document.querySelectorAll<HTMLElement>('[data-series]'));
+      const list = blocks.map((b) => ({
+        examStartIso: b.dataset.start, examEndIso: b.dataset.end, resultsIso: b.dataset.results,
+        finalEntriesDeadlineIso: b.dataset.final, finalEntriesDeadline: b.dataset.finalText,
+        lateEntriesDeadlineIso: b.dataset.late || undefined, lateEntriesDeadline: b.dataset.lateText,
+      }));
+      const labels = seriesLabels(today, list);
+      blocks.forEach((b, i) => {
+        const lab = b.querySelector<HTMLElement>('[data-series-status]');
+        if (lab) { lab.textContent = labels[i].label; lab.hidden = false; }
+        const warn = b.querySelector<HTMLElement>('[data-series-warning]');
+        const ws = deadlineWarnings(today, list[i]);
+        if (warn && ws.length) { warn.textContent = ws.map((w) => w.text).join(' '); warn.hidden = false; }
+      });
+    } catch (e) { /* no-JS fallback: plain dates, no status labels */ }
+  </script>
 
   <Section surface="white" border>
     <Container>

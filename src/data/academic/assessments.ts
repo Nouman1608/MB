@@ -314,6 +314,9 @@ export interface Assessment {
    * date and it is recorded here when the board states one. */
   readonly firstTeaching?: string;
   readonly firstAssessment: string;
+  /** Optional plain-English clarification shown beside firstAssessment where
+   * AS and A Level are first examined in different years (e.g. OxfordAQA 9725). */
+  readonly firstAssessmentNote?: string;
   /** Set only for a legacy-teach-out record: the last exam series this
    * specification will be assessed in. */
   readonly finalAssessment?: string;
@@ -2376,6 +2379,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     specStatus: 'legacy-teach-out',
     relatedCode: '7138',
     tiers: ['not-tiered'],
+    firstTeaching: '2023-09',
     firstAssessment: '2025',
     finalAssessment: '2027',
     components: [
@@ -2396,6 +2400,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     specStatus: 'withdrawn',
     relatedCode: '7137',
     tiers: ['not-tiered'],
+    firstTeaching: '2023-09',
     firstAssessment: '2024',
     finalAssessment: '2026',
     components: [
@@ -2936,6 +2941,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     tiers: ['not-tiered'],
     firstTeaching: '2026-09',
     firstAssessment: '2027',
+    firstAssessmentNote: 'AS first examined May/June 2027; full A Level first examined May/June 2028',
     components: [
       { paperCode: 'AS Unit 1', title: 'AS Unit 1 -- Business and Markets (first exam opportunity May/June 2027)', durationMinutes: 75, marks: 60, weightingPercent: 20, assessmentType: 'written-exam', externallyAssessed: true },
       { paperCode: 'AS Unit 2', title: 'AS Unit 2 -- Managing Operations, Human Resources and Finance (first exam opportunity May/June 2027)', durationMinutes: 75, marks: 60, weightingPercent: 20, assessmentType: 'written-exam', externallyAssessed: true },
@@ -3352,6 +3358,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     specStatus: 'legacy-teach-out',
     relatedCode: 'DP History (2028)',
     tiers: ['sl', 'hl'],
+    firstTeaching: '2015',
     firstAssessment: '2017',
     // IB History in the DP page (ibo.org, cited in the syllabus record): subject brief 'for the last assessment in 2027'.
     finalAssessment: '2027',
@@ -3364,6 +3371,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
       { paperCode: 'Paper 3', title: 'Paper 3 -- Essay Paper on One Regional Option (HL Only)', durationMinutes: 150, marks: 45, weightingPercent: 35, assessmentType: 'written-exam', tier: 'hl', externallyAssessed: true },
       { paperCode: 'Internal Assessment', title: 'Internal Assessment -- Historical Investigation', durationMinutes: null, marks: 25, weightingPercent: 20, assessmentType: 'coursework', tier: 'hl', internallyAssessed: true, externallyModerated: true },
     ],
+    marksSourceNote: 'The Internal Assessment has no fixed sitting duration, so its duration is left empty. The 20 hours of teaching time the IB gives for the Internal Assessment is confirmed only for the new History course (first assessment 2028); the figure for this course is not confirmed here.',
     officialSourceUrl: 'https://www.ibo.org/globalassets/new-structure/programmes/dp/pdfs/history-hl-2020-eng.pdf',
     verifiedOn: '2026-09-04',
     notes: 'Being taught out: the new History course (code \'DP History (2028)\') has been taught since August 2026, so a new student follows that one, and this course is examined for learners already partway through it; the IB\'s own History page gives this course\'s last assessment as 2027, so 2027 is recorded as its last assessment year. Both tiers modeled in full. Weighting and duration are read directly from the official public subject briefs (first assessments 2017; the Higher Level and Standard Level briefs are published as two separate PDFs, both read on 2026-09-04). Paper 1 (24 marks, both tiers), Paper 2 (30 marks, both tiers) and Paper 3 (45 marks, Higher Level only) mark totals are read directly from the official freely public specimen papers, also read on 2026-09-04. The Internal Assessment (a historical investigation into a topic of the student\'s own choice, 2,200-word limit, marked against three criteria -- Identification and Evaluation of Sources (6 marks), Investigation (15 marks), Reflection (4 marks), 25 marks total, identical task and criteria at both tiers) was independently corroborated against a current, actively maintained third-party IB revision resource rather than found in either specimen-paper document, since the Internal Assessment is not part of the externally set specimen papers. Higher Level sits an additional Paper 3 essay paper on one of four regional depth-study options (History of Africa and the Middle East, the Americas, Asia and Oceania, or Europe); the 45-mark, 2-hour-30-minute structure is confirmed directly from the official Africa-and-the-Middle-East specimen paper and is stated uniformly across all four regions by the official subject brief\'s own assessment table, which does not differentiate marks or duration by region.',
@@ -3644,18 +3652,18 @@ export const ASSESSMENTS: readonly Assessment[] = [
     // IB course page (ibo.org, read 2026-09-21): 'for the last assessment in 2026'.
     finalAssessment: '2026',
     components: [
-      { paperCode: 'Paper 1', title: 'Paper 1 -- Three Short-Answer Questions on the Core Approaches (Biological, Cognitive, Sociocultural), Plus One Essay Chosen from Three', durationMinutes: 120, marks: 49, weightingPercent: 50, assessmentType: 'written-exam', tier: 'sl', externallyAssessed: true },
-      { paperCode: 'Paper 2', title: 'Paper 2 -- One Essay Question on One Option (Abnormal, Developmental, Health, or Relationships Psychology)', durationMinutes: 60, marks: 22, weightingPercent: 25, assessmentType: 'written-exam', tier: 'sl', externallyAssessed: true },
-      { paperCode: 'Internal Assessment', title: 'Internal Assessment -- Report on a Simple Experimental Study', durationMinutes: null, marks: 22, weightingPercent: 25, assessmentType: 'coursework', tier: 'sl', internallyAssessed: true, externallyModerated: true },
-      { paperCode: 'Paper 1', title: 'Paper 1 -- Three Short-Answer Questions on the Core Approaches (Biological, Cognitive, Sociocultural), Plus One Essay Chosen from Three', durationMinutes: 120, marks: 49, weightingPercent: 40, assessmentType: 'written-exam', tier: 'hl', externallyAssessed: true },
-      { paperCode: 'Paper 2', title: 'Paper 2 -- Two Essay Questions, One Each on Two Options (Abnormal, Developmental, Health, or Relationships Psychology)', durationMinutes: 120, marks: 44, weightingPercent: 20, assessmentType: 'written-exam', tier: 'hl', externallyAssessed: true },
-      { paperCode: 'Paper 3', title: 'Paper 3 -- Three Short-Answer Questions on Approaches to Research, Based on an Unseen Stimulus (HL Only)', durationMinutes: 60, marks: 24, weightingPercent: 20, assessmentType: 'written-exam', tier: 'hl', externallyAssessed: true },
-      { paperCode: 'Internal Assessment', title: 'Internal Assessment -- Report on a Simple Experimental Study', durationMinutes: null, marks: 22, weightingPercent: 20, assessmentType: 'coursework', tier: 'hl', internallyAssessed: true, externallyModerated: true },
+      { paperCode: 'Paper 1', title: 'Paper 1 -- Three Short-Answer Questions on the Core Approaches (Biological, Cognitive, Sociocultural), Plus One Essay Chosen from Three', durationMinutes: 120, marks: null, weightingPercent: 50, assessmentType: 'written-exam', tier: 'sl', externallyAssessed: true },
+      { paperCode: 'Paper 2', title: 'Paper 2 -- One Essay Question on One Option (Abnormal, Developmental, Health, or Relationships Psychology)', durationMinutes: 60, marks: null, weightingPercent: 25, assessmentType: 'written-exam', tier: 'sl', externallyAssessed: true },
+      { paperCode: 'Internal Assessment', title: 'Internal Assessment -- Report on a Simple Experimental Study', durationMinutes: null, marks: null, weightingPercent: 25, assessmentType: 'coursework', tier: 'sl', internallyAssessed: true, externallyModerated: true },
+      { paperCode: 'Paper 1', title: 'Paper 1 -- Three Short-Answer Questions on the Core Approaches (Biological, Cognitive, Sociocultural), Plus One Essay Chosen from Three', durationMinutes: 120, marks: null, weightingPercent: 40, assessmentType: 'written-exam', tier: 'hl', externallyAssessed: true },
+      { paperCode: 'Paper 2', title: 'Paper 2 -- Two Essay Questions, One Each on Two Options (Abnormal, Developmental, Health, or Relationships Psychology)', durationMinutes: 120, marks: null, weightingPercent: 20, assessmentType: 'written-exam', tier: 'hl', externallyAssessed: true },
+      { paperCode: 'Paper 3', title: 'Paper 3 -- Three Short-Answer Questions on Approaches to Research, Based on an Unseen Stimulus (HL Only)', durationMinutes: 60, marks: null, weightingPercent: 20, assessmentType: 'written-exam', tier: 'hl', externallyAssessed: true },
+      { paperCode: 'Internal Assessment', title: 'Internal Assessment -- Report on a Simple Experimental Study', durationMinutes: null, marks: null, weightingPercent: 20, assessmentType: 'coursework', tier: 'hl', internallyAssessed: true, externallyModerated: true },
     ],
-    marksSourceNote: 'The IB\'s public subject brief for this course gives durations and weightings but no marks. The Paper 1, Paper 2 and Paper 3 totals shown were read from copies of May 2019 IB markschemes found on third-party websites (for Paper 2, a mirror copy of the May 2019 Paper 2 markscheme); and the internal assessment\'s 22 marks came from third-party teacher resources. None was read from a document published by the IB.',
+    marksSourceNote: 'The public IB subject brief for this course gives durations and weightings but no marks. Paper 1, Paper 2, Paper 3 and Internal Assessment totals are not shown, because no document published by the IB confirms them.',
     officialSourceUrl: 'https://www.ibo.org/contentassets/5895a05412144fe890312bad52b17044/psychology-sl-hl-2019-en.pdf',
     verifiedOn: '2026-09-08',
-    notes: 'Both tiers modeled in full, for the psychology course first assessed in 2019. Recorded as being taught out from 2026-09-17: the new course (code \'DP Psychology (2027)\') has been taught since August 2025, so a new student follows that one, and this course is examined for learners already partway through it; the IB\'s own DP psychology page summarizes this course "for the last assessment in 2026" (read on 2026-09-21), so 2026 is recorded as its last examination year. The same rule is applied to AQA 7137/7138, OCR H436 and OxfordAQA 9725: a specification is current once its first teaching has begun. Weighting and duration figures are read directly from the IB\'s own official public subject brief (First assessment 2019), read on 2026-09-08. Mark totals -- not published in that subject brief -- were independently confirmed against real, genuine IB markschemes read on 2026-09-08: Paper 1 (M19/3/PSYCH/SP1) totals 49 marks (Section A: three compulsory short-answer questions on the biological, cognitive and sociocultural approaches, 9 marks each = 27; Section B: one essay chosen from three, 22 marks), identical for SL and HL. Paper 2 (option paper) is one essay marked out of 22 at SL (one question) or two essays marked out of 22 each = 44 at HL (two questions) -- this figure was confirmed earlier from a mirror copy of the May 2019 Paper 2 markscheme and is repeated here, not re-derived. Paper 3 (M19/3/PSYCH/HP3, HL only) totals 24 marks (Q1 a/b/c: 3+3+3=9; Q2: 6; Q3: 9). The Internal Assessment (a report on a simple experimental study, word-limited, undertaken individually) is marked against four criteria -- Introduction (6), Exploration (4), Analysis (6), Evaluation (6) -- 22 marks total, both tiers; this breakdown and total were corroborated across multiple independently-authored third-party IB teacher/revision resources and cross-checked against a real, dated (May 2019) subject-report account of the same four criterion names, rather than read from a single source alone. A genuine discrepancy was found and resolved during sourcing: an older, pre-2019-revision IA rubric (9 criteria A-I, 34 marks total) exists online and was initially mistaken for this syllabus\'s rubric before the dated May-2019 subject report confirmed the correct (4-criterion, 22-mark) structure actually in use for first assessment 2019 -- the 34-mark rubric belongs to an earlier, already-superseded revision of this same legacy course and is not used here.',
+    notes: 'Both tiers modeled in full, for the psychology course first assessed in 2019. Recorded as being taught out from 2026-09-17: the new course (code \'DP Psychology (2027)\') has been taught since August 2025, so a new student follows that one, and this course is examined for learners already partway through it; the IB\'s own DP psychology page summarizes this course "for the last assessment in 2026" (read on 2026-09-21), so 2026 is recorded as its last examination year. The same rule is applied to AQA 7137/7138, OCR H436 and OxfordAQA 9725: a specification is current once its first teaching has begun. Weighting and duration figures are read directly from the IB\'s own official public subject brief (First assessment 2019), read on 2026-09-08. Mark totals are not confirmed: the public IB subject brief does not publish them, and the figures once shown here came from third-party sources, so they have been removed.',
     internalNotes: 'Closes the gap flagged in the \'DP Psychology (2027)\' record\'s own internalNotes (D-129 batch, 2026-09-05): that session sourced Paper 2\'s marks for this syllabus but explicitly left Paper 1 and Paper 3 unconfirmed due to time budget. This session fetched official IB markschemes directly (papacambridge.com mirrors of genuine M19/3/PSYCH/SP1 and M19/3/PSYCH/HP3 documents, confirmed as real IB markscheme content by their formatting, IB copyright notices and paper codes, not just search-engine summaries) for both, plus the official 2019 subject brief PDF (ibo.org) for weighting/duration, plus multiple independent secondary sources for the IA mark breakdown (cross-checked against each other and against a dated May-2019 IB Psychology subject report before settling the 22-vs-34-mark discrepancy in the text above). sourceConfidence/mirrorSourceUrl intentionally omitted: every mark total was verified against the primary IB markscheme document itself, not a third-party estimate.',
     assessmentModel: 'component-based',
   },

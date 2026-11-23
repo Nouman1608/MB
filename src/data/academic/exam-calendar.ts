@@ -54,6 +54,33 @@ export const CAMBRIDGE_EXAM_SERIES: readonly CambridgeExamSeries[] = [
     label: 'February/March',
     months: 'February and March',
     availability: 'Offered only in certain countries, not in every administrative zone -- Cambridge syllabuses state, for example, that exams are also available in the March series in India. Check your own syllabus for March availability.',
+  },  /**
+   * May/June 2027 -- ONLY the timetabled weeks, read on 2026-11-23 from
+   * Cambridge's final June 2027 exam timetables (Version 1, November 2026).
+   * Entry deadlines and results dates are NOT listed: Cambridge's key-dates
+   * page shows no June 2027 key-dates document yet, so none is invented.
+   * Weekly views: Zones 1-5 run 26 April to 11 June 2027 (Zone 5 first week
+   * 26 April to 1 May); Zone 6 runs 26 April to 12 June 2027.
+   */
+  {
+    seriesLabel: 'May/June 2027',
+    seriesSlug: 'june-2027',
+    examPeriodStart: '26 April 2027',
+    examPeriodEnd: '11 June 2027 (12 June for Zone 6)',
+    resultsReleased: [],
+    officialSourceUrl: 'https://www.cambridgeinternational.org/Images/766278-june-2027-zone-1-timetable.pdf',
+    sourceScope: 'final June 2027 exam timetables by administrative zone; only the timetabled weeks are listed, no entry or results dates yet',
+    verifiedOn: '2026-11-23',
+    examStartIso: '2027-04-26',
+    examEndIso: '2027-06-12',
+    partialNote: 'Only the exam window is listed so far. Cambridge has not yet published the key-dates document for the June 2027 series, so entry deadlines and results dates are not shown here. Confirm them with your school's exams officer.',
+    extraSources: [
+      { label: 'Zone 2', url: 'https://www.cambridgeinternational.org/Images/766279-june-2027-zone-2-timetable.pdf' },
+      { label: 'Zone 3', url: 'https://www.cambridgeinternational.org/Images/766281-june-2027-zone-3-timetable.pdf' },
+      { label: 'Zone 4', url: 'https://www.cambridgeinternational.org/Images/766282-june-2027-zone-4-timetable.pdf' },
+      { label: 'Zone 5', url: 'https://www.cambridgeinternational.org/Images/766283-june-2027-zone-5-timetable.pdf' },
+      { label: 'Zone 6', url: 'https://www.cambridgeinternational.org/Images/766284-june-2027-zone-6-timetable.pdf' },
+    ],
   },
 ] as const;
 
@@ -65,7 +92,7 @@ export interface ResultsRelease {
 export interface ExamSeriesKeyDates {
   readonly seriesLabel: string;
   readonly seriesSlug: string;
-  readonly finalEntriesDeadline: string;
+  readonly finalEntriesDeadline?: string;
   readonly lateEntriesDeadline?: string;
   readonly examPeriodStart: string;
   readonly examPeriodEnd: string;
@@ -76,10 +103,26 @@ export interface ExamSeriesKeyDates {
   /** How the source document is scoped (shown beside the source link). */
   readonly sourceScope: string;
   readonly verifiedOn: string;
+  /**
+   * Machine dates (yyyy-mm-dd) used ONLY by the in-browser status script
+   * (exam-calendar-status.mjs); the displayed text above stays the source's
+   * wording. Where Cambridge gives only a month part ("Late September",
+   * "Mid-November") the ISO value is a bounding day used for the label.
+   */
+  readonly finalEntriesDeadlineIso?: string;
+  readonly lateEntriesDeadlineIso?: string;
+  readonly examStartIso: string;
+  readonly examEndIso: string;
+  readonly resultsIso?: string;
+  /** Shown on the page when only part of the key dates is published/verified. */
+  readonly partialNote?: string;
+  /** Extra official source documents (e.g. one per administrative zone). */
+  readonly extraSources?: readonly { readonly label: string; readonly url: string }[];
 }
 
 /**
- * Currently holds only the next upcoming series relative to this build.
+ * Holds the series currently relevant to visitors. Labels (past/now/next) are
+ * computed in the browser from the visitor's date, never at build time.
  * When a later series becomes the relevant "upcoming" one, add a new
  * record here (and update src/pages/exam-calendar/index.astro's featured
  * series if it doesn't already just pick the nearest future one) rather
@@ -102,6 +145,12 @@ export const EXAM_SERIES_KEY_DATES: readonly ExamSeriesKeyDates[] = [
     officialSourceUrl: 'https://www.cambridgeinternational.org/Images/746006-key-dates-for-november-2026-series-international-.pdf',
     sourceScope: 'International centres; UK centres have a separate document',
     verifiedOn: '2026-08-29',
+    finalEntriesDeadlineIso: '2026-08-16',
+    lateEntriesDeadlineIso: '2026-09-21',
+    // Source gives "Late September" start and "Mid-November" end; bounding days used for labels only.
+    examStartIso: '2026-09-21',
+    examEndIso: '2026-11-20',
+    resultsIso: '2027-01-07',
   },
   /**
    * D-320 -- the March 2027 series, read from Cambridge's own "Key dates and
@@ -127,5 +176,10 @@ export const EXAM_SERIES_KEY_DATES: readonly ExamSeriesKeyDates[] = [
     officialSourceUrl: 'https://www.cambridgeinternational.org/Images/548188-march-series-monthly-calendar.pdf',
     sourceScope: 'March series monthly calendar; the March series runs only in certain countries, such as India',
     verifiedOn: '2026-09-24',
+    finalEntriesDeadlineIso: '2026-11-27',
+    lateEntriesDeadlineIso: '2026-12-14',
+    examStartIso: '2027-02-03',
+    examEndIso: '2027-03-04',
+    resultsIso: '2027-05-13',
   },
 ] as const;
