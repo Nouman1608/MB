@@ -147,7 +147,7 @@ How towers form:
 
 - Condense this with the [7.2 revision notes](/resources/cambridge-a-level-geography-9696-landforms-of-tropical-environments-revision-notes/).
 - Practise with the [7.2 practice questions](/resources/cambridge-a-level-geography-9696-landforms-of-tropical-environments-practice/).
-- Continue to [7.3 Rainforest and savanna ecosystems](/resources/cambridge-a-level-geography-9696-humid-tropical-rainforest-ecosystems-and-seasonally-humid-tropical-savanna-ecosystems/).
+- Continue to [7.3 Rainforest and savanna ecosystems](/resources/cambridge-a-level-geography-9696-humid-tropical-rainforest-ecosystems-and-seasonally-humid/).
 
 ## Official syllabus
 

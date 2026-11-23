@@ -175,7 +175,7 @@ These questions cover section 3.4.5, Potential divider, of OxfordAQA Internation
 
 - Recap with the [potential divider revision notes](/resources/oxfordaqa-a-level-physics-9630-potential-divider-oxfordaqa-revision-notes/).
 - Re-read the [potential divider study guide](/resources/oxfordaqa-a-level-physics-9630-potential-divider-oxfordaqa/).
-- Revise sensor components with the [resistivity practice questions](/resources/oxfordaqa-a-level-physics-9630-resistivity-oxfordaqa-alevel-practice/).
+- Revise sensor components with the [resistivity practice questions](/resources/oxfordaqa-a-level-physics-9630-resistivity-practice/).
 
 ## Official syllabus
 

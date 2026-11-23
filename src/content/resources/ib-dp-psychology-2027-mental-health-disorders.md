@@ -25,7 +25,7 @@ featured: false
 
 The health and well-being context of IB Psychology (first assessment 2027) begins with mental health disorders. The guide asks you to understand **one or more of** major depressive disorder, eating disorders, post-traumatic stress disorder, obsessive-compulsive disorders or anxiety disorders. It then lists four areas of study: biological explanations, cognitive models, cultural differences and environmental factors. This guide uses **major depressive disorder** (depression) as the main worked example, because its evidence is broad, and shows where to swap in another disorder. The guide does not name required studies, so choose examples you can explain and evaluate.
 
-Related: [health psychology study guide](/resources/ib-ib-dp-psychology-health-psychology-study-guide/), [assessing treatment effectiveness](/resources/ib-ib-dp-psychology-assessing-treatment-effectiveness/), [revision notes](/resources/ib-dp-psychology-2027-mental-health-disorders-revision-notes/) and [practice set](/resources/ib-dp-psychology-2027-mental-health-disorders-practice/).
+Related: [health psychology study guide](/resources/ib-dp-psychology-health-psychology-study-guide/), [assessing treatment effectiveness](/resources/ib-dp-psychology-assessing-treatment-effectiveness/), [revision notes](/resources/ib-dp-psychology-2027-mental-health-disorders-revision-notes/) and [practice set](/resources/ib-dp-psychology-2027-mental-health-disorders-practice/).
 
 ## Where this fits
 

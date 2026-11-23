@@ -1,4 +1,4 @@
-// Topic figures for cambridge-igcse-environmental-management-0680-conservation-and-management-of-energy-resources
+// Topic figures for cambridge-igcse-environmental-management-0680-conservation-and-management-of-energy
 import { C, svg, panel, t, tl, arrow, path, badge } from '../style.mjs';
 
 // ---- local helpers (kept inside this lesson file on purpose) ----
@@ -80,7 +80,7 @@ const cloud = (cx, cy, w, h, fill = C.tealLight) => {
 export const figures = [];
 const add = (name, svgText, alt, caption, after) => figures.push({ name, svg: svgText, alt, caption, after });
 
-export const slug = 'cambridge-igcse-environmental-management-0680-conservation-and-management-of-energy-resources';
+export const slug = 'cambridge-igcse-environmental-management-0680-conservation-and-management-of-energy';
 
 // 01 Demand-side vs supply-side strategies
 {

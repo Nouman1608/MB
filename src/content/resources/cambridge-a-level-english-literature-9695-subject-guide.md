@@ -94,7 +94,7 @@ At both stages, build a notebook for each text: key passages, quotations, themes
 
 ## Using Marlbridge resources for this course
 
-- **Study guides** set out what each paper asks of you and how to build the relevant skills: [Paper 1 Drama and Poetry](/resources/a-level-english-literature-paper-1-drama-and-poetry/), [Paper 2 Prose and Unseen](/resources/a-level-english-literature-paper-2-prose-and-unseen/), [Paper 3 Shakespeare and Drama](/resources/a-level-english-literature-paper-3-shakespeare-and-drama/) and [Paper 4 Pre- and Post-1900 Poetry and Prose](/resources/cambridge-a-level-english-literature-paper-4-pre-and-post-1900-poetry-and-prose-study-guide/).
+- **Study guides** set out what each paper asks of you and how to build the relevant skills: [Paper 1 Drama and Poetry](/resources/a-level-english-literature-paper-1-drama-and-poetry/), [Paper 2 Prose and Unseen](/resources/a-level-english-literature-paper-2-prose-and-unseen/), [Paper 3 Shakespeare and Drama](/resources/a-level-english-literature-paper-3-shakespeare-and-drama/) and [Paper 4 Pre- and Post-1900 Poetry and Prose](/resources/cambridge-a-level-english-literature-paper-4-pre-and-post-1900-poetry-and-prose-study/).
 - **Revision notes** summarise approaches and key ideas for quick review, for example [the Paper 2 Prose and Unseen revision notes](/resources/a-level-english-literature-paper-2-prose-unseen-revision-notes/).
 - **Practice questions** provide tasks to write against, such as [the Paper 3 set-text essay and passage practice](/resources/a-level-english-literature-paper-3-set-text-essay-practice/).
 - **Exam preparation**: [the paper-by-paper exam preparation guide for 9695](/resources/cambridge-a-level-english-literature-exam-preparation/) covers each of the four papers.

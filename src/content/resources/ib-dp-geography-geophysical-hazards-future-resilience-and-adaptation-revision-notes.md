@@ -25,7 +25,7 @@ updatedDate: 2026-11-16
 featured: false
 ---
 
-Condensed recall for **4.4 Future resilience and adaptation** (IB DP Geography, Option D: Geophysical hazards). The [Geophysical hazards study guide](/resources/ib-ib-dp-geography-geophysical-hazards-study-guide/) gives fuller coverage.
+Condensed recall for **4.4 Future resilience and adaptation** (IB DP Geography, Option D: Geophysical hazards). The [Geophysical hazards study guide](/resources/ib-dp-geography-geophysical-hazards-study-guide/) gives fuller coverage.
 
 ## Options for reducing risk
 
@@ -155,4 +155,4 @@ Retrofitting existing buildings is structural, costly and slow but directly prot
 
 ## Related resources
 
-- [Option D: Geophysical hazards study guide](/resources/ib-ib-dp-geography-geophysical-hazards-study-guide/)
+- [Option D: Geophysical hazards study guide](/resources/ib-dp-geography-geophysical-hazards-study-guide/)

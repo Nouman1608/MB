@@ -163,7 +163,7 @@ D: more humid air
 
 - Revise with the [energy transfers revision notes](/resources/oxfordaqa-igcse-physics-9203-energy-transfers-and-particle-motion-revision-notes/).
 - Re-read the [energy transfers study guide](/resources/oxfordaqa-igcse-physics-9203-energy-transfers-and-particle-motion/).
-- Try the [kinetic theory practice questions](/resources/oxfordaqa-igcse-physics-9203-kinetic-theory-oxfordaqa-igcse-practice/).
+- Try the [kinetic theory practice questions](/resources/oxfordaqa-igcse-physics-9203-kinetic-theory-practice/).
 
 ## Specification reference
 

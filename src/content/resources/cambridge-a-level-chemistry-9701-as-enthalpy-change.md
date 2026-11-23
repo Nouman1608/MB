@@ -152,6 +152,6 @@ This is much less exothermic than the data-book value (about −2020 kJ mol⁻¹
 - [Enthalpy change revision notes](/resources/cambridge-a-level-chemistry-9701-as-enthalpy-change-revision-notes/)
 - [Enthalpy change practice questions](/resources/cambridge-a-level-chemistry-9701-as-enthalpy-change-practice/)
 - [Hess's law study guide](/resources/cambridge-a-level-chemistry-9701-as-hess-s-law/)
-- [Covalent and coordinate bonding study guide](/resources/cambridge-a-level-chemistry-9701-as-covalent-bonding-and-coordinate-dative-covalent-bonding/) for bond energy and bond length
+- [Covalent and coordinate bonding study guide](/resources/cambridge-a-level-chemistry-9701-as-covalent-bonding-and-coordinate-dative-covalent/) for bond energy and bond length
 
 *Written against Cambridge International AS & A Level Chemistry 9701, 2025–2027 series. Always check the current syllabus for your examination year.*

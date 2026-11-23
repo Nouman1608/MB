@@ -25,7 +25,7 @@ updatedDate: 2026-11-16
 featured: false
 ---
 
-Condensed recall for **3.2 Physical processes and landscapes** (IB DP Geography, Option C: Extreme environments). The [Extreme environments study guide](/resources/ib-ib-dp-geography-extreme-environments-study-guide/) gives the longer version.
+Condensed recall for **3.2 Physical processes and landscapes** (IB DP Geography, Option C: Extreme environments). The [Extreme environments study guide](/resources/ib-dp-geography-extreme-environments-study-guide/) gives the longer version.
 
 ## Weathering and mass movement
 
@@ -159,4 +159,4 @@ A fuller version picks up extra credit by naming conditions: snow collects in a 
 
 ## Related resources
 
-- [Option C: Extreme environments study guide](/resources/ib-ib-dp-geography-extreme-environments-study-guide/)
+- [Option C: Extreme environments study guide](/resources/ib-dp-geography-extreme-environments-study-guide/)

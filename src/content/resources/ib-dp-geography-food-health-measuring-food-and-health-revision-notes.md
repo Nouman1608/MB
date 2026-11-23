@@ -25,7 +25,7 @@ updatedDate: 2026-11-16
 featured: false
 ---
 
-Condensed recall for **6.1 Measuring food and health** (IB DP Geography, Option F: Food and health). Fuller explanation is in the [Food and health study guide](/resources/ib-ib-dp-geography-food-health-study-guide/).
+Condensed recall for **6.1 Measuring food and health** (IB DP Geography, Option F: Food and health). Fuller explanation is in the [Food and health study guide](/resources/ib-dp-geography-food-health-study-guide/).
 
 ## Food security
 
@@ -152,4 +152,4 @@ The stages are often summarised as: traditional diets high in starchy staples ->
 
 ## Related resources
 
-- [Option F: Food and health study guide](/resources/ib-ib-dp-geography-food-health-study-guide/)
+- [Option F: Food and health study guide](/resources/ib-dp-geography-food-health-study-guide/)

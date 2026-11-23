@@ -27,7 +27,7 @@ This topic explains what a computer system is made of and how a program written 
 
 ## Where this fits in the specification
 
-Fundamentals of computer systems is section 4.6 of AQA 7517 and is assessed on Paper 2. It is the foundation for [Fundamentals of computer organisation and architecture](/resources/aqa-a-level-computer-science-fundamentals-of-computer-organisation-and-architecture-study-guide/), which uses the same gates to explain the processor. Typical questions ask you to define a term, compare two translators, simplify a Boolean expression or complete a truth table.
+Fundamentals of computer systems is section 4.6 of AQA 7517 and is assessed on Paper 2. It is the foundation for [Fundamentals of computer organisation and architecture](/resources/aqa-a-level-computer-science-fundamentals-of-computer-organisation-and-architecture-study/), which uses the same gates to explain the processor. Typical questions ask you to define a term, compare two translators, simplify a Boolean expression or complete a truth table.
 
 ## Hardware, software and system software
 

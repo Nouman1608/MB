@@ -162,7 +162,7 @@ const codePanel = (x, y, w, lines, o = {}) => {
 const add = (name, svgText, alt, caption, after) => figures.push({ name, svg: svgText, alt, caption, after });
 export const figures = [];
 
-export const slug = 'oxfordaqa-igcse-computer-science-9210-classification-of-programming-languages-and-translators';
+export const slug = 'oxfordaqa-igcse-computer-science-9210-classification-of-programming-languages';
 
 const chipBox = (x, y, w, h, label, o = {}) => `<rect x="${x}" y="${y}" width="${w}" height="${h}" rx="${o.rx ?? 12}" fill="${o.fill || '#ffffff'}" stroke="${o.edge || C.ink}" stroke-width="${o.sw || 2.5}"/>` +
   (o.mono ? code(x + w / 2, y + h / 2 + 7, label, { size: o.size || 18, weight: 700, anchor: 'middle', fill: o.tf || C.ink }) : T(x + w / 2, y + h / 2 + 6, label, { size: o.size || 18, weight: 700, anchor: 'middle', fill: o.tf || C.ink }));

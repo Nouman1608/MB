@@ -178,7 +178,7 @@ This also explains why concentrated sulfuric acid is a poor reagent for preparin
 
 - [Some reactions of the halide ions: revision notes](/resources/cambridge-a-level-chemistry-9701-as-some-reactions-of-the-halide-ions-revision-notes/)
 - [Some reactions of the halide ions: practice questions](/resources/cambridge-a-level-chemistry-9701-as-some-reactions-of-the-halide-ions-practice/)
-- [Chemical properties of the halogens and hydrogen halides](/resources/cambridge-a-level-chemistry-9701-as-the-chemical-properties-of-the-halogen-elements-and-the-hydrogen-halides/): the oxidising power of the halogens
+- [Chemical properties of the halogens and hydrogen halides](/resources/cambridge-a-level-chemistry-9701-as-the-chemical-properties-of-the-halogen-elements/): the oxidising power of the halogens
 - [The reactions of chlorine](/resources/cambridge-a-level-chemistry-9701-as-the-reactions-of-chlorine/): the next subtopic
 - [Redox Processes: Oxidation Numbers and Electron Transfer](/resources/as-redox-processes/): half-equations and balancing
 

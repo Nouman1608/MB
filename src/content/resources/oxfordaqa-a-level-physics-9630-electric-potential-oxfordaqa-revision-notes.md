@@ -24,7 +24,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-These notes condense section 3.8.3, Electric potential, of OxfordAQA International AS and A-level Physics (9630), in Section 3.8 Electric fields and capacitance (International A-level only). Full explanations and worked examples are in the [electric potential study guide](/resources/oxfordaqa-a-level-physics-9630-electric-potential-oxfordaqa/); test yourself with the [electric potential practice questions](/resources/oxfordaqa-a-level-physics-9630-electric-potential-oxfordaqa-practice/). Capacitors, the next subtopic, are in the [capacitors revision notes](/resources/oxfordaqa-a-level-physics-9630-capacitors-oxfordaqa-alevel-revision-notes/).
+These notes condense section 3.8.3, Electric potential, of OxfordAQA International AS and A-level Physics (9630), in Section 3.8 Electric fields and capacitance (International A-level only). Full explanations and worked examples are in the [electric potential study guide](/resources/oxfordaqa-a-level-physics-9630-electric-potential-oxfordaqa/); test yourself with the [electric potential practice questions](/resources/oxfordaqa-a-level-physics-9630-electric-potential-oxfordaqa-practice/). Capacitors, the next subtopic, are in the [capacitors revision notes](/resources/oxfordaqa-a-level-physics-9630-capacitors-revision-notes/).
 
 Constants: 1/(4πε₀) = 8.99 × 10⁹ N m² C⁻²; e = 1.60 × 10⁻¹⁹ C; electron mass 9.11 × 10⁻³¹ kg.
 

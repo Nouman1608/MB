@@ -25,7 +25,7 @@ updatedDate: 2026-11-16
 featured: false
 ---
 
-Condensed recall for **2.2 Interactions between oceans and coastal places** (IB DP Geography, Option B: Oceans and coastal margins). See the [Oceans and coastal margins study guide](/resources/ib-ib-dp-geography-oceans-coastal-margins-study-guide/) for the full account.
+Condensed recall for **2.2 Interactions between oceans and coastal places** (IB DP Geography, Option B: Oceans and coastal margins). See the [Oceans and coastal margins study guide](/resources/ib-dp-geography-oceans-coastal-margins-study-guide/) for the full account.
 
 ## What shapes coasts
 
@@ -157,4 +157,4 @@ A cliff top retreats 3.6 m in 8 years: 3.6 / 8 = 0.45 m per year. Retreat is epi
 
 ## Related resources
 
-- [Option B: Oceans and coastal margins study guide](/resources/ib-ib-dp-geography-oceans-coastal-margins-study-guide/)
+- [Option B: Oceans and coastal margins study guide](/resources/ib-dp-geography-oceans-coastal-margins-study-guide/)

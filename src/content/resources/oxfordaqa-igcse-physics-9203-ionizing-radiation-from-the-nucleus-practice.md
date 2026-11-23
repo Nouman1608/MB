@@ -178,7 +178,7 @@ Evaluate which isotope is most suitable. **[4]**
 
 - Revise with the [radiation revision notes](/resources/oxfordaqa-igcse-physics-9203-ionizing-radiation-from-the-nucleus-revision-notes/).
 - Re-read the [radiation study guide](/resources/oxfordaqa-igcse-physics-9203-ionizing-radiation-from-the-nucleus/).
-- Continue with the [nuclear fission practice questions](/resources/oxfordaqa-igcse-physics-9203-nuclear-fission-oxfordaqa-igcse-practice/).
+- Continue with the [nuclear fission practice questions](/resources/oxfordaqa-igcse-physics-9203-nuclear-fission-practice/).
 
 ## Specification reference
 

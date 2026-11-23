@@ -184,4 +184,4 @@ Point 5   Impact via Strasbourg: Sunday Times, Malone, Dudgeon – legislative
 
 [Human Rights before the HRA 1998 revision notes](/resources/aqa-a-level-law-7162-human-rights-in-the-united-kingdom-prior-to-the-human-rights-act-1998-revision-notes/) |
 [Human Rights before the HRA 1998 practice questions](/resources/aqa-a-level-law-7162-human-rights-in-the-united-kingdom-prior-to-the-human-rights-act-1998-practice/) |
-[Human Rights after the HRA 1998 study guide](/resources/aqa-a-level-law-7162-human-rights-in-the-united-kingdom-after-the-enactment-of-the-human-rights-act-1998/)
+[Human Rights after the HRA 1998 study guide](/resources/aqa-a-level-law-7162-human-rights-in-the-united-kingdom-after-the-enactment-of-the-human/)

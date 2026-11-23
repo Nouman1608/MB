@@ -1,6 +1,6 @@
 import { C, svg, panel, t, tl, arrow, path, badge } from '../style.mjs';
 
-export const slug = 'ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-2';
+export const slug = 'ib-dp-computer-science-a-2';
 export const figures = [];
 const add = (name, svgText, alt, caption, after) => figures.push({ name, svg: svgText, alt, caption, after });
 

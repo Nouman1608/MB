@@ -28,7 +28,7 @@ reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 > mark tariffs — examination boards hold copyright in their own papers. Use
 > these alongside the official past papers available free from your board.
 
-Related: [Computer organisation and architecture study guide](/resources/aqa-a-level-computer-science-fundamentals-of-computer-organisation-and-architecture-study-guide/) | [Computer organisation and architecture revision notes](/resources/aqa-a-level-computer-science-fundamentals-of-computer-organisation-and-architecture-revision-notes/)
+Related: [Computer organisation and architecture study guide](/resources/aqa-a-level-computer-science-fundamentals-of-computer-organisation-and-architecture-study/) | [Computer organisation and architecture revision notes](/resources/aqa-a-level-computer-science-fundamentals-of-computer-organisation-and-architecture-revision-notes/)
 
 These questions cover section 4.7 of the AQA A-Level Computer Science (7517) specification: internal
 components (4.7.1), the stored program concept (4.7.2), the processor (4.7.3) and external devices (4.7.4).

@@ -28,7 +28,7 @@ Section B of Paper 4 asks for one essay on a post-1900 set text, poetry or prose
 not choose in Section A. It is worth 25 of the paper's 50 marks and is assessed on **AO1 to AO5**, each
 20%. This guide focuses on the methods typical of modern and contemporary writing, and on building AO5
 from the critical approaches these texts invite. For the paper as a whole, see the
-[Paper 4 study guide](/resources/cambridge-a-level-english-literature-paper-4-pre-and-post-1900-poetry-and-prose-study-guide/).
+[Paper 4 study guide](/resources/cambridge-a-level-english-literature-paper-4-pre-and-post-1900-poetry-and-prose-study/).
 
 ## What the section asks of you
 

@@ -139,7 +139,7 @@ These are predictions from the trends, and you should present them as such ("exp
 
 - [Physical properties of the Group 17 elements: revision notes](/resources/cambridge-a-level-chemistry-9701-as-physical-properties-of-the-group-17-elements-revision-notes/)
 - [Physical properties of the Group 17 elements: practice questions](/resources/cambridge-a-level-chemistry-9701-as-physical-properties-of-the-group-17-elements-practice/)
-- [Chemical properties of the halogens and the hydrogen halides](/resources/cambridge-a-level-chemistry-9701-as-the-chemical-properties-of-the-halogen-elements-and-the-hydrogen-halides/): the next subtopic
+- [Chemical properties of the halogens and the hydrogen halides](/resources/cambridge-a-level-chemistry-9701-as-the-chemical-properties-of-the-halogen-elements/): the next subtopic
 - [Group 17: The Halogens](/resources/as-group-17-the-halogens/): the overview of the whole topic
 - [Chemical Bonding: Shapes and Intermolecular Forces](/resources/as-chemical-bonding-shapes-and-intermolecular-forces/): intermolecular forces in general
 

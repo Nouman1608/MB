@@ -23,7 +23,7 @@ publishedDate: 2026-11-18
 featured: false
 ---
 
-These notes condense section 3.2.2 Electromagnetic radiation and quantum phenomena (3.2.2.1 to 3.2.2.4) of the AQA AS and A-level Physics specification (7407/7408). Full explanations are in the [quantum phenomena study guide](/resources/aqa-a-level-physics-7408-electromagnetic-radiation-and-quantum-phenomena/); test yourself with the [quantum phenomena practice questions](/resources/aqa-a-level-physics-7408-electromagnetic-radiation-and-quantum-phenomena-practice/). The particles half of section 3.2 is in the [Particles revision notes](/resources/aqa-a-level-physics-7408-particles-aqa-alevel-revision-notes/).
+These notes condense section 3.2.2 Electromagnetic radiation and quantum phenomena (3.2.2.1 to 3.2.2.4) of the AQA AS and A-level Physics specification (7407/7408). Full explanations are in the [quantum phenomena study guide](/resources/aqa-a-level-physics-7408-electromagnetic-radiation-and-quantum-phenomena/); test yourself with the [quantum phenomena practice questions](/resources/aqa-a-level-physics-7408-electromagnetic-radiation-and-quantum-phenomena-practice/). The particles half of section 3.2 is in the [Particles revision notes](/resources/aqa-a-level-physics-7408-particles-revision-notes/).
 
 ## Equations
 

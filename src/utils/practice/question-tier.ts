@@ -172,40 +172,40 @@ export const HIGHER_LABELS_CHECKED: ReadonlySet<string> = new Set([
   'edexcel-igcse-maths-4ma1-use-of-symbols-and-algebraic-manipulation-practice',  // 2026-10-04
   // 2026-11-18 (D-500): new subtopic files checked against the 4MA1 specification (Issue 2):
   // vectors labelled (5.1 is Higher only), four labels added or moved to parts, one removed.
-  'edexcel-igcse-mathematics-4ma1-algebraic-manipulation-edexcel-igcse-maths-practice',  // 2026-11-18
-  'edexcel-igcse-mathematics-4ma1-angles-lines-and-triangles-edexcel-igcse-maths-practice',  // 2026-11-18
-  'edexcel-igcse-mathematics-4ma1-applying-number-edexcel-igcse-maths-practice',  // 2026-11-18
-  'edexcel-igcse-mathematics-4ma1-calculus-edexcel-igcse-maths-practice',  // 2026-11-18
-  'edexcel-igcse-mathematics-4ma1-circle-properties-edexcel-igcse-maths-practice',  // 2026-11-18
-  'edexcel-igcse-mathematics-4ma1-construction-edexcel-igcse-maths-practice',  // 2026-11-18
-  'edexcel-igcse-mathematics-4ma1-decimals-edexcel-igcse-maths-practice',  // 2026-11-18
-  'edexcel-igcse-mathematics-4ma1-degree-of-accuracy-edexcel-igcse-maths-practice',  // 2026-11-18
-  'edexcel-igcse-mathematics-4ma1-electronic-calculators-edexcel-igcse-maths-practice',  // 2026-11-18
-  'edexcel-igcse-mathematics-4ma1-expressions-and-formulae-edexcel-igcse-maths-practice',  // 2026-11-18
-  'edexcel-igcse-mathematics-4ma1-fractions-edexcel-igcse-maths-practice',  // 2026-11-18
-  'edexcel-igcse-mathematics-4ma1-function-notation-edexcel-igcse-maths-practice',  // 2026-11-18
-  'edexcel-igcse-mathematics-4ma1-geometrical-reasoning-edexcel-igcse-maths-practice',  // 2026-11-18
-  'edexcel-igcse-mathematics-4ma1-graphical-representation-of-data-edexcel-igcse-maths-practice',  // 2026-11-18
-  'edexcel-igcse-mathematics-4ma1-graphs-edexcel-igcse-maths-practice',  // 2026-11-18
-  'edexcel-igcse-mathematics-4ma1-integers-edexcel-igcse-maths-practice',  // 2026-11-18
-  'edexcel-igcse-mathematics-4ma1-linear-equations-edexcel-igcse-maths-practice',  // 2026-11-18
-  'edexcel-igcse-mathematics-4ma1-measures-edexcel-igcse-maths-practice',  // 2026-11-18
-  'edexcel-igcse-mathematics-4ma1-percentages-edexcel-igcse-maths-practice',  // 2026-11-18
-  'edexcel-igcse-mathematics-4ma1-polygons-edexcel-igcse-maths-practice',  // 2026-11-18
-  'edexcel-igcse-mathematics-4ma1-powers-and-roots-edexcel-igcse-maths-practice',  // 2026-11-18
-  'edexcel-igcse-mathematics-4ma1-probability-edexcel-igcse-maths-practice',  // 2026-11-18
-  'edexcel-igcse-mathematics-4ma1-ratio-and-proportion-edexcel-igcse-maths-practice',  // 2026-11-18
-  'edexcel-igcse-mathematics-4ma1-sequences-edexcel-igcse-maths-practice',  // 2026-11-18
-  'edexcel-igcse-mathematics-4ma1-standard-form-edexcel-igcse-maths-practice',  // 2026-11-18
-  'edexcel-igcse-mathematics-4ma1-statistical-measures-edexcel-igcse-maths-practice',  // 2026-11-18
-  'edexcel-igcse-mathematics-4ma1-symmetry-edexcel-igcse-maths-practice',  // 2026-11-18
-  'edexcel-igcse-mathematics-4ma1-transformation-geometry-edexcel-igcse-maths-practice',  // 2026-11-18
-  'edexcel-igcse-mathematics-4ma1-trigonometry-and-pythagoras-theorem-edexcel-igcse-maths-practice',  // 2026-11-18
-  'edexcel-igcse-mathematics-4ma1-use-of-symbols-edexcel-igcse-maths-practice',  // 2026-11-18
-  'edexcel-igcse-mathematics-4ma1-mensuration-of-2d-shapes-edexcel-igcse-maths-practice',  // 2026-11-20
-  'edexcel-igcse-mathematics-4ma1-3d-shapes-and-volume-edexcel-igcse-maths-practice',  // 2026-11-20
-  'edexcel-igcse-mathematics-4ma1-similarity-edexcel-igcse-maths-practice',  // 2026-11-20
-  'edexcel-igcse-mathematics-4ma1-vectors-edexcel-igcse-maths-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-algebraic-manipulation-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-angles-lines-and-triangles-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-applying-number-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-calculus-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-circle-properties-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-construction-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-decimals-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-degree-of-accuracy-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-electronic-calculators-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-expressions-and-formulae-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-fractions-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-function-notation-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-geometrical-reasoning-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-graphical-representation-of-data-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-graphs-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-integers-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-linear-equations-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-measures-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-percentages-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-polygons-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-powers-and-roots-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-probability-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-ratio-and-proportion-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-sequences-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-standard-form-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-statistical-measures-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-symmetry-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-transformation-geometry-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-trigonometry-and-pythagoras-theorem-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-use-of-symbols-practice',  // 2026-11-18
+  'edexcel-igcse-mathematics-4ma1-mensuration-of-2d-shapes-practice',  // 2026-11-20
+  'edexcel-igcse-mathematics-4ma1-3d-shapes-and-volume-practice',  // 2026-11-20
+  'edexcel-igcse-mathematics-4ma1-similarity-practice',  // 2026-11-20
+  'edexcel-igcse-mathematics-4ma1-vectors-practice',  // 2026-11-18
   // 8300
   'aqa-gcse-mathematics-algebra-practice',
   'aqa-gcse-mathematics-number-practice',
@@ -238,33 +238,33 @@ export const HIGHER_LABELS_CHECKED: ReadonlySet<string> = new Set([
   'aqa-gcse-biology-8461-health-lifestyle-and-cancer-practice',  // 2026-11-08
   'aqa-gcse-biology-8461-plant-tissues-and-organ-system-practice',  // 2026-11-08
   // 2026-11-18 (D-500): new subtopic files, each checked question by question against the 8461 specification.
-  'aqa-gcse-biology-8461-adaptations-interdependence-and-competition-aqa-gcse-biology-practice',  // 2026-11-18
-  'aqa-gcse-biology-8461-biodiversity-and-the-effect-of-human-interaction-on-ecosystems-aqa-gcse-biology-practice',  // 2026-11-18
-  'aqa-gcse-biology-8461-blood-aqa-gcse-biology-practice',  // 2026-11-18
-  'aqa-gcse-biology-8461-cancer-aqa-gcse-biology-practice',  // 2026-11-18
-  'aqa-gcse-biology-8461-classification-of-living-organisms-aqa-gcse-biology-practice',  // 2026-11-18
-  'aqa-gcse-biology-8461-communicable-diseases-aqa-gcse-biology-practice',  // 2026-11-18
-  'aqa-gcse-biology-8461-coronary-heart-disease-aqa-gcse-biology-practice',  // 2026-11-18
-  'aqa-gcse-biology-8461-food-production-aqa-gcse-biology-practice',  // 2026-11-18
-  'aqa-gcse-biology-8461-health-issues-aqa-gcse-biology-practice',  // 2026-11-18
-  'aqa-gcse-biology-8461-homeostasis-aqa-gcse-biology-practice',  // 2026-11-18
-  'aqa-gcse-biology-8461-hormonal-coordination-in-humans-aqa-gcse-biology-practice',  // 2026-11-18
-  'aqa-gcse-biology-8461-monoclonal-antibodies-aqa-gcse-biology-practice',  // 2026-11-18
-  'aqa-gcse-biology-8461-organisation-of-an-ecosystem-aqa-gcse-biology-practice',  // 2026-11-18
-  'aqa-gcse-biology-8461-photosynthesis-aqa-gcse-biology-practice',  // 2026-11-18
-  'aqa-gcse-biology-8461-plant-disease-aqa-gcse-biology-practice',  // 2026-11-18
-  'aqa-gcse-biology-8461-plant-hormones-aqa-gcse-biology-practice',  // 2026-11-18
-  'aqa-gcse-biology-8461-plant-organ-system-aqa-gcse-biology-practice',  // 2026-11-18
-  'aqa-gcse-biology-8461-plant-tissues-aqa-gcse-biology-practice',  // 2026-11-18
-  'aqa-gcse-biology-8461-principles-of-organisation-aqa-gcse-biology-practice',  // 2026-11-18
-  'aqa-gcse-biology-8461-reproduction-aqa-gcse-biology-practice',  // 2026-11-18
-  'aqa-gcse-biology-8461-respiration-aqa-gcse-biology-practice',  // 2026-11-18
-  'aqa-gcse-biology-8461-the-development-of-understanding-of-genetics-and-evolution-aqa-gcse-biology-practice',  // 2026-11-18
-  'aqa-gcse-biology-8461-the-effect-of-lifestyle-on-some-non-communicable-diseases-aqa-gcse-biology-practice',  // 2026-11-18
-  'aqa-gcse-biology-8461-the-heart-and-blood-vessels-aqa-gcse-biology-practice',  // 2026-11-18
-  'aqa-gcse-biology-8461-the-human-nervous-system-aqa-gcse-biology-practice',  // 2026-11-18
-  'aqa-gcse-biology-8461-trophic-levels-in-an-ecosystem-aqa-gcse-biology-practice',  // 2026-11-18
-  'aqa-gcse-biology-8461-variation-and-evolution-aqa-gcse-biology-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-adaptations-interdependence-and-competition-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-biodiversity-and-the-effect-of-human-interaction-on-ecosystems-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-blood-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-cancer-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-classification-of-living-organisms-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-communicable-diseases-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-coronary-heart-disease-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-food-production-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-health-issues-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-homeostasis-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-hormonal-coordination-in-humans-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-monoclonal-antibodies-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-organisation-of-an-ecosystem-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-photosynthesis-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-plant-disease-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-plant-hormones-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-plant-organ-system-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-plant-tissues-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-principles-of-organisation-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-reproduction-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-respiration-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-the-development-of-understanding-of-genetics-and-evolution-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-the-effect-of-lifestyle-on-some-non-communicable-diseases-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-the-heart-and-blood-vessels-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-the-human-nervous-system-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-trophic-levels-in-an-ecosystem-practice',  // 2026-11-18
+  'aqa-gcse-biology-8461-variation-and-evolution-practice',  // 2026-11-18
   // 8462
   'aqa-gcse-chemistry-8462-chemical-analysis-practice',
   'aqa-gcse-chemistry-8462-chemical-changes-practice',
@@ -302,21 +302,21 @@ export const HIGHER_LABELS_CHECKED: ReadonlySet<string> = new Set([
   // induced-potential labels added, five whole-question labels moved onto their Higher parts.
   'aqa-gcse-physics-8463-atoms-and-isotopes-aqa-practice',  // 2026-11-18
   'aqa-gcse-physics-8463-atoms-and-nuclear-radiation-practice',  // 2026-11-18
-  'aqa-gcse-physics-8463-black-body-radiation-aqa-gcse-practice',  // 2026-11-18
+  'aqa-gcse-physics-8463-black-body-radiation-practice',  // 2026-11-18
   'aqa-gcse-physics-8463-changes-of-state-and-the-particle-model-practice',  // 2026-11-18
   'aqa-gcse-physics-8463-current-potential-difference-and-resistance-aqa-practice',  // 2026-11-18
   'aqa-gcse-physics-8463-domestic-uses-and-safety-practice',  // 2026-11-18
-  'aqa-gcse-physics-8463-electromagnetic-waves-aqa-gcse-practice',  // 2026-11-18
+  'aqa-gcse-physics-8463-electromagnetic-waves-practice',  // 2026-11-18
   'aqa-gcse-physics-8463-energy-transfers-aqa-electricity-practice',  // 2026-11-18
   'aqa-gcse-physics-8463-forces-and-elasticity-practice',  // 2026-11-18
-  'aqa-gcse-physics-8463-forces-and-motion-aqa-gcse-practice',  // 2026-11-18
+  'aqa-gcse-physics-8463-forces-and-motion-practice',  // 2026-11-18
   'aqa-gcse-physics-8463-forces-and-their-interactions-practice',  // 2026-11-18
   'aqa-gcse-physics-8463-hazards-and-uses-of-radioactive-emissions-practice',  // 2026-11-18
   'aqa-gcse-physics-8463-induced-potential-transformers-and-the-national-grid-practice',  // 2026-11-18
   'aqa-gcse-physics-8463-internal-energy-and-energy-transfers-practice',  // 2026-11-18
   'aqa-gcse-physics-8463-moments-levers-and-gears-practice',  // 2026-11-18
-  'aqa-gcse-physics-8463-momentum-aqa-gcse-practice',  // 2026-11-18
-  'aqa-gcse-physics-8463-nuclear-fission-and-fusion-aqa-gcse-practice',  // 2026-11-18
+  'aqa-gcse-physics-8463-momentum-practice',  // 2026-11-18
+  'aqa-gcse-physics-8463-nuclear-fission-and-fusion-practice',  // 2026-11-18
   'aqa-gcse-physics-8463-particle-model-and-pressure-practice',  // 2026-11-18
   'aqa-gcse-physics-8463-permanent-and-induced-magnetism-practice',  // 2026-11-18
   'aqa-gcse-physics-8463-pressure-and-pressure-differences-in-fluids-practice',  // 2026-11-18

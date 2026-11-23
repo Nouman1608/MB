@@ -25,7 +25,7 @@ updatedDate: 2026-11-16
 featured: false
 ---
 
-Condensed recall for **1.3 Water scarcity and water quality** (IB DP Geography, Option A: Freshwater). See the [Freshwater study guide](/resources/ib-ib-dp-geography-freshwater-study-guide/) for fuller treatment.
+Condensed recall for **1.3 Water scarcity and water quality** (IB DP Geography, Option A: Freshwater). See the [Freshwater study guide](/resources/ib-dp-geography-freshwater-study-guide/) for fuller treatment.
 
 ## Key terms
 
@@ -141,4 +141,4 @@ Ethiopia has built a large hydroelectric dam on the Blue Nile, the source of mos
 
 ## Related resources
 
-- [Option A: Freshwater study guide](/resources/ib-ib-dp-geography-freshwater-study-guide/)
+- [Option A: Freshwater study guide](/resources/ib-dp-geography-freshwater-study-guide/)

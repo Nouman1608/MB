@@ -44,7 +44,7 @@ sustainably, how biodiversity is conserved, and how to plan a fieldwork investig
 reliable data. Paper 2 often sets a fieldwork method or a data table from an investigation, so the
 practical part deserves as much revision as the theory.
 
-Full explanations: [ecosystems study guide](/resources/cambridge-o-level-environmental-management-ecosystems-biodiversity-and-fieldwork-study-guide/).
+Full explanations: [ecosystems study guide](/resources/cambridge-o-level-environmental-management-ecosystems-biodiversity-and-fieldwork-study/).
 Test yourself: [ecosystems practice questions](/resources/o-level-environmental-management-ecosystems-practice/).
 
 ## Syllabus coverage (5014, 2027-2029)

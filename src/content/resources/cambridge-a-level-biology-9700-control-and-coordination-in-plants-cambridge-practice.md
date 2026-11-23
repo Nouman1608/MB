@@ -159,4 +159,4 @@ D: It causes DELLA proteins to be made. **[1]**
 - [15.2 study guide](/resources/cambridge-a-level-biology-9700-control-and-coordination-in-plants-cambridge/)
 - [15.2 revision notes](/resources/cambridge-a-level-biology-9700-control-and-coordination-in-plants-cambridge-revision-notes/)
 - [Control and coordination in mammals practice questions](/resources/cambridge-a-level-biology-9700-control-and-coordination-in-mammals-cambridge-practice/)
-- [Gene control practice questions](/resources/cambridge-a-level-biology-9700-gene-control-cambridge-alevel-biology-practice/)
+- [Gene control practice questions](/resources/cambridge-a-level-biology-9700-gene-control-practice/)

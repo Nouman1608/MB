@@ -25,7 +25,7 @@ updatedDate: 2026-11-16
 featured: false
 ---
 
-Condensed recall for **5.2 Tourism and sport at the local and national scale** (IB DP Geography, Option E: Leisure, tourism and sport). See the [Leisure, tourism and sport study guide](/resources/ib-ib-dp-geography-leisure-tourism-sport-study-guide/).
+Condensed recall for **5.2 Tourism and sport at the local and national scale** (IB DP Geography, Option E: Leisure, tourism and sport). See the [Leisure, tourism and sport study guide](/resources/ib-dp-geography-leisure-tourism-sport-study-guide/).
 
 ## Types of tourism
 
@@ -151,4 +151,4 @@ Arrivals rise from 1.2 million to 1.5 million: 0.3 / 1.2 x 100 = 25 per cent inc
 
 ## Related resources
 
-- [Option E: Leisure, tourism and sport study guide](/resources/ib-ib-dp-geography-leisure-tourism-sport-study-guide/)
+- [Option E: Leisure, tourism and sport study guide](/resources/ib-dp-geography-leisure-tourism-sport-study-guide/)

@@ -26,7 +26,7 @@ featured: false
 **These notes condense one element of Option 2B:** "gender politics and issues of social class". The
 [gender politics and social class study guide](/resources/aqa-a-level-english-literature-7717-gender-politics-and-social-class/)
 has full analysis and a model paragraph; the
-[protest writing revision notes](/resources/aqa-a-level-english-literature-7712-7717-option-2b-elements-of-political-and-social-protest-writing-7717-revision-notes/)
+[protest writing revision notes](/resources/aqa-a-level-english-literature-7712-7717-option-2b-elements-of-political-and-social-revision-notes/)
 cover the whole option.
 
 ## Four questions for any system of power

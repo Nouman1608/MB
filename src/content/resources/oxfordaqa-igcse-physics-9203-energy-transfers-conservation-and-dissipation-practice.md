@@ -160,7 +160,7 @@ These questions cover **3.2.2 Energy transfers, conservation and dissipation of 
 
 ## Next steps
 
-Revise from the [energy transfers revision notes](/resources/oxfordaqa-igcse-physics-9203-energy-transfers-conservation-and-dissipation-revision-notes/), then try the [Energy resources practice questions](/resources/oxfordaqa-igcse-physics-9203-energy-resources-oxfordaqa-igcse-practice/).
+Revise from the [energy transfers revision notes](/resources/oxfordaqa-igcse-physics-9203-energy-transfers-conservation-and-dissipation-revision-notes/), then try the [Energy resources practice questions](/resources/oxfordaqa-igcse-physics-9203-energy-resources-practice/).
 
 ## Official syllabus
 

@@ -1,6 +1,6 @@
 import { C, svg, panel, t, tl, arrow, path, badge } from '../style.mjs';
 
-export const slug = 'aqa-gcse-english-language-8700-evaluation-of-a-writers-choice-of-vocabulary-form-grammatical-and-structural-features';
+export const slug = 'aqa-gcse-english-language-8700-evaluation-of-a-writers-choice-of-vocabulary-form';
 export const figures = [];
 const add = (name, svgText, alt, caption, after) => figures.push({ name, svg: svgText, alt, caption, after });
 

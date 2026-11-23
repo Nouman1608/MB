@@ -25,7 +25,7 @@ featured: false
 
 **This guide covers one element AQA lists for Option 2B Elements of Political and Social Protest
 Writing:** "gender politics and issues of social class". The
-[Elements of Political and Social Protest Writing study guide](/resources/aqa-a-level-english-literature-7712-7717-option-2b-elements-of-political-and-social-protest-writing-7717/)
+[Elements of Political and Social Protest Writing study guide](/resources/aqa-a-level-english-literature-7712-7717-option-2b-elements-of-political-and-social/)
 gives one example of each from four texts; this page explains how the two ideas work as systems of
 power, how they intersect, and how to write about them without reducing a text to a message.
 
@@ -147,7 +147,7 @@ worker, an insider and an outsider. Use the open book to find short, exact quota
 
 - [Gender politics and social class revision notes](/resources/aqa-a-level-english-literature-7717-gender-politics-and-social-class-revision-notes/)
 - [Gender politics and social class practice questions](/resources/aqa-a-level-english-literature-7717-gender-politics-and-social-class-practice/)
-- [Elements of Political and Social Protest Writing revision notes](/resources/aqa-a-level-english-literature-7712-7717-option-2b-elements-of-political-and-social-protest-writing-7717-revision-notes/)
+- [Elements of Political and Social Protest Writing revision notes](/resources/aqa-a-level-english-literature-7712-7717-option-2b-elements-of-political-and-social-revision-notes/)
 - [Paper 2 Texts and Genres overview](/resources/a-level-aqa-english-literature-b-texts-and-genres/)
 
 ## Specification

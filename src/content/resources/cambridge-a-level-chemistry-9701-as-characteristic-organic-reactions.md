@@ -158,7 +158,7 @@ A curly arrow shows the movement of **a pair of electrons**. It must **start at 
 
 - [Characteristic organic reactions: revision notes](/resources/cambridge-a-level-chemistry-9701-as-characteristic-organic-reactions-revision-notes/)
 - [Characteristic organic reactions: practice questions](/resources/cambridge-a-level-chemistry-9701-as-characteristic-organic-reactions-practice/)
-- [Formulas, functional groups and naming](/resources/cambridge-a-level-chemistry-9701-as-formulas-functional-groups-and-the-naming-of-organic-compounds/): the previous subtopic
+- [Formulas, functional groups and naming](/resources/cambridge-a-level-chemistry-9701-as-formulas-functional-groups-and-the-naming-of-organic/): the previous subtopic
 - [Hydrocarbons: Alkanes and Alkenes](/resources/as-hydrocarbons-alkanes-and-alkenes/): free-radical substitution and electrophilic addition in full
 - [Halogenoalkanes: Nucleophilic Substitution and Elimination](/resources/as-halogenoalkanes/): nucleophilic substitution in full
 

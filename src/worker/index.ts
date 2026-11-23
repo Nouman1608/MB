@@ -35,6 +35,7 @@ import { runGscRefresh, type D1Database } from '../../functions/_lib/gsc-refresh
 import { applyConsentRegion } from './consent-region.ts';
 import { onSubscribePost, onSubscribeConfirm, onUnsubscribe } from '../../functions/api/subscribe.ts';
 import { onWorkshopRegisterPost } from '../../functions/api/workshop-register.ts';
+import slugRedirects from './slug-redirects.json' with { type: 'json' };
 
 /**
  * Minimal local binding types. Deliberately hand-written rather than adding
@@ -135,6 +136,19 @@ export default {
     }
 
     const { pathname } = url;
+
+    // Nov 2026 SEO audit (B1): resource slugs renamed because they broke the
+    // board-qualification-subject-code-topic pattern. Old URL -> new URL, 301,
+    // query string kept. The map is src/worker/slug-redirects.json, written by
+    // scripts/rename-malformed-resource-slugs.mjs, so the redirects ship in the
+    // same deploy as the renamed pages.
+    if ((request.method === 'GET' || request.method === 'HEAD') && pathname.startsWith('/resources/')) {
+      const renamed = (slugRedirects as Record<string, string>)[pathname.slice('/resources/'.length).replace(/\/$/, '')];
+      if (renamed) {
+        url.pathname = `/resources/${renamed}/`;
+        return Response.redirect(url.toString(), 301);
+      }
+    }
 
     // Accept the trailing-slash variant too: the site is built with
     // `trailingSlash: 'always'`, so a form action can legitimately arrive

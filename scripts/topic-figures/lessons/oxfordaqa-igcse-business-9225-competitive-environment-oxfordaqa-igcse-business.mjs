@@ -1,6 +1,6 @@
 import { C, svg, panel, t, tl, arrow, path, badge } from '../style.mjs';
 
-export const slug = 'oxfordaqa-igcse-business-9225-competitive-environment-oxfordaqa-igcse-business';
+export const slug = 'oxfordaqa-igcse-business-9225-competitive-environment';
 export const figures = [];
 const add = (name, svgText, alt, caption, after) => figures.push({ name, svg: svgText, alt, caption, after });
 

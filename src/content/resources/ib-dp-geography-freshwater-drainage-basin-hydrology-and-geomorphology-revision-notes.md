@@ -25,7 +25,7 @@ updatedDate: 2026-11-16
 featured: false
 ---
 
-Condensed recall for **1.1 Drainage basin hydrology and geomorphology** (IB DP Geography, Option A: Freshwater). For fuller explanation and worked examples, read the [Freshwater study guide](/resources/ib-ib-dp-geography-freshwater-study-guide/).
+Condensed recall for **1.1 Drainage basin hydrology and geomorphology** (IB DP Geography, Option A: Freshwater). For fuller explanation and worked examples, read the [Freshwater study guide](/resources/ib-dp-geography-freshwater-study-guide/).
 
 ## The basin as a system
 
@@ -150,4 +150,4 @@ The upper line is the **critical erosion velocity**: the speed needed to pick up
 
 ## Related resources
 
-- [Option A: Freshwater study guide](/resources/ib-ib-dp-geography-freshwater-study-guide/)
+- [Option A: Freshwater study guide](/resources/ib-dp-geography-freshwater-study-guide/)

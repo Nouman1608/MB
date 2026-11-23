@@ -37,7 +37,7 @@ reviewNote: "2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
 > these alongside the official past papers available free from your board.
 
 Related: [Paper 4 revision notes](/resources/a-level-english-literature-paper-4-pre-and-post-1900-poetry-and-prose-revision-notes/) ·
-[Paper 4 study guide](/resources/cambridge-a-level-english-literature-paper-4-pre-and-post-1900-poetry-and-prose-study-guide/)
+[Paper 4 study guide](/resources/cambridge-a-level-english-literature-paper-4-pre-and-post-1900-poetry-and-prose-study/)
 
 Paper 4 of Cambridge International A Level Literature in English (9695) asks for two essays in two
 hours: one on a pre-1900 set text (Section A) and one on a post-1900 set text (Section B), one poetry and

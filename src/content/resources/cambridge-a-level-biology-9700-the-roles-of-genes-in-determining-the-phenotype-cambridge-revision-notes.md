@@ -155,4 +155,4 @@ One gene affects the expression of another gene at a different locus. Typical ca
 
 ## Where to go next
 
-Use the [16.2 practice questions](/resources/cambridge-a-level-biology-9700-the-roles-of-genes-in-determining-the-phenotype-cambridge-practice/), then move on to the [gene control revision notes](/resources/cambridge-a-level-biology-9700-gene-control-cambridge-alevel-biology-revision-notes/). The [Inheritance revision notes](/resources/a-level-biology-9700-inheritance-revision-notes/) cover the whole topic.
+Use the [16.2 practice questions](/resources/cambridge-a-level-biology-9700-the-roles-of-genes-in-determining-the-phenotype-cambridge-practice/), then move on to the [gene control revision notes](/resources/cambridge-a-level-biology-9700-gene-control-revision-notes/). The [Inheritance revision notes](/resources/a-level-biology-9700-inheritance-revision-notes/) cover the whole topic.

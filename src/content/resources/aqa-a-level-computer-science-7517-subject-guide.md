@@ -108,7 +108,7 @@ How to prepare for the on-screen paper, the written paper and the project is set
 - **Study guides** teach a content area in depth, for example
   [fundamentals of programming](/resources/aqa-a-level-computer-science-fundamentals-of-programming/),
   [fundamentals of algorithms](/resources/aqa-a-level-computer-science-fundamentals-of-algorithms/) and
-  [fundamentals of computer organisation and architecture](/resources/aqa-a-level-computer-science-fundamentals-of-computer-organisation-and-architecture-study-guide/).
+  [fundamentals of computer organisation and architecture](/resources/aqa-a-level-computer-science-fundamentals-of-computer-organisation-and-architecture-study/).
 - **Revision notes** condense a topic for review, such as
   [revision notes on queues, stacks, graphs, trees, hash tables and vectors](/resources/aqa-a-level-computer-science-abstract-data-types-revision-notes/).
 - **Practice questions** check understanding, such as

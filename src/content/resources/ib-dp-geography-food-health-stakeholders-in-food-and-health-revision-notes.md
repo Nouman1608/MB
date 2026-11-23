@@ -25,7 +25,7 @@ updatedDate: 2026-11-16
 featured: false
 ---
 
-Condensed recall for **6.3 Stakeholders in food and health** (IB DP Geography, Option F: Food and health). The [Food and health study guide](/resources/ib-ib-dp-geography-food-health-study-guide/) has the longer account.
+Condensed recall for **6.3 Stakeholders in food and health** (IB DP Geography, Option F: Food and health). The [Food and health study guide](/resources/ib-dp-geography-food-health-study-guide/) has the longer account.
 
 ## Stakeholders (household to global)
 
@@ -135,4 +135,4 @@ Ask: **who gains**, **who is excluded**, and **is it lasting**? Consider effecti
 
 ## Related resources
 
-- [Option F: Food and health study guide](/resources/ib-ib-dp-geography-food-health-study-guide/)
+- [Option F: Food and health study guide](/resources/ib-dp-geography-food-health-study-guide/)

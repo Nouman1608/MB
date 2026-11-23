@@ -1,6 +1,6 @@
 import { C, svg, panel, t, tl, arrow, path, badge } from '../style.mjs';
 
-export const slug = 'ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-6';
+export const slug = 'ib-dp-world-history-topics-6';
 export const figures = [];
 const add = (name, svgText, alt, caption, after) => figures.push({ name, svg: svgText, alt, caption, after });
 

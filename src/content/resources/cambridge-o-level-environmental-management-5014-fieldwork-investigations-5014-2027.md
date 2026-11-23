@@ -25,7 +25,7 @@ featured: false
 
 Sub-topic 5.4, Fieldwork investigations, is new in the 2027-2029 Cambridge O Level Environmental Management 5014 syllabus. It sets out the scientific method for collecting reliable data (5.4.1), two sampling strategies (5.4.2 and 5.4.3) and seven sampling techniques for measuring the populations of species (5.4.4 and 5.4.5). The syllabus also has a separate "Fieldwork requirements" section listing the investigation skills candidates should have and the apparatus they should know. Paper 2 uses source material on fieldwork investigations, so expect questions that give you an unfamiliar method or a table of results and ask you to plan, process or evaluate.
 
-For the whole of Topic 5, see the [ecosystems, biodiversity and fieldwork study guide](/resources/cambridge-o-level-environmental-management-ecosystems-biodiversity-and-fieldwork-study-guide/).
+For the whole of Topic 5, see the [ecosystems, biodiversity and fieldwork study guide](/resources/cambridge-o-level-environmental-management-ecosystems-biodiversity-and-fieldwork-study/).
 
 ## The scientific method in the field (5.4.1)
 

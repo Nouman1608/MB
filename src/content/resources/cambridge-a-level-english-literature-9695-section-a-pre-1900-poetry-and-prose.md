@@ -28,7 +28,7 @@ Section A of Paper 4 asks for one essay on a pre-1900 set text, which may be poe
 worth 25 of the paper's 50 marks and is assessed on **AO1 to AO5**, each 20%. This guide concentrates on
 what is distinctive about older texts: their language, their conventions, and the long critical
 conversation around them that feeds AO5. For the paper as a whole, see the
-[Paper 4 study guide](/resources/cambridge-a-level-english-literature-paper-4-pre-and-post-1900-poetry-and-prose-study-guide/).
+[Paper 4 study guide](/resources/cambridge-a-level-english-literature-paper-4-pre-and-post-1900-poetry-and-prose-study/).
 
 ## What the section asks of you
 

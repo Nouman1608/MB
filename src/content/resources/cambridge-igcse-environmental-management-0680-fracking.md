@@ -166,4 +166,4 @@ For **define**, give the syllabus wording. For **discuss**, aim for benefits and
 
 ## Next steps
 
-Revise with the [Fracking revision notes](/resources/cambridge-igcse-environmental-management-0680-fracking-revision-notes/) and practise with the [Fracking practice questions](/resources/cambridge-igcse-environmental-management-0680-fracking-practice/). For the strategies that could be used instead, see the [Conservation and management of energy resources study guide](/resources/cambridge-igcse-environmental-management-0680-conservation-and-management-of-energy-resources/).
+Revise with the [Fracking revision notes](/resources/cambridge-igcse-environmental-management-0680-fracking-revision-notes/) and practise with the [Fracking practice questions](/resources/cambridge-igcse-environmental-management-0680-fracking-practice/). For the strategies that could be used instead, see the [Conservation and management of energy resources study guide](/resources/cambridge-igcse-environmental-management-0680-conservation-and-management-of-energy/).

@@ -143,7 +143,7 @@ In the required practical, the limit shows up as the point where force divided b
 
 ## Next steps
 
-Work through the [practice questions on forces and their interactions](/resources/oxfordaqa-igcse-physics-9203-forces-and-their-interactions-oxfordaqa-practice/), then move on to the [motion study guide](/resources/oxfordaqa-igcse-physics-9203-motion-oxfordaqa-igcse/), which uses vectors to describe how objects move.
+Work through the [practice questions on forces and their interactions](/resources/oxfordaqa-igcse-physics-9203-forces-and-their-interactions-oxfordaqa-practice/), then move on to the [motion study guide](/resources/oxfordaqa-igcse-physics-9203-motion/), which uses vectors to describe how objects move.
 
 ## Official syllabus
 

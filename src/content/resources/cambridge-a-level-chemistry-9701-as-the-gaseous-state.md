@@ -157,6 +157,6 @@ It is an approximation for real gases. It is closest at low pressure and high te
 - [Gaseous state revision notes](/resources/cambridge-a-level-chemistry-9701-as-the-gaseous-state-revision-notes/)
 - [Gaseous state practice questions](/resources/cambridge-a-level-chemistry-9701-as-the-gaseous-state-practice/)
 - [Bonding and structure study guide](/resources/cambridge-a-level-chemistry-9701-as-bonding-and-structure/), the other half of Topic 4
-- [Intermolecular forces study guide](/resources/cambridge-a-level-chemistry-9701-as-intermolecular-forces-electronegativity-and-bond-properties/), which explains why some gases deviate more than others
+- [Intermolecular forces study guide](/resources/cambridge-a-level-chemistry-9701-as-intermolecular-forces-electronegativity-and-bond/), which explains why some gases deviate more than others
 
 *Written against Cambridge International AS & A Level Chemistry 9701, 2025–2027 series. Always check the current syllabus for your examination year.*

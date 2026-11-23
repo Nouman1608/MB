@@ -26,7 +26,7 @@ featured: false
 **This guide covers two linked elements AQA lists for Option 2B Elements of Political and Social
 Protest Writing:** "the connection of the smaller world to the larger world" and "the focus on human
 organisation: domestically, in the work place, in local and national governments". The
-[Elements of Political and Social Protest Writing study guide](/resources/aqa-a-level-english-literature-7712-7717-option-2b-elements-of-political-and-social-protest-writing-7717/)
+[Elements of Political and Social Protest Writing study guide](/resources/aqa-a-level-english-literature-7712-7717-option-2b-elements-of-political-and-social/)
 names three examples in a sentence each; this page shows the methods writers use to connect scales,
 how each set text organises its worlds, and how to turn the idea into an argument.
 
@@ -154,7 +154,7 @@ microcosm with one that works by a chain of cause.
 - [Smaller world and larger world revision notes](/resources/aqa-a-level-english-literature-7717-smaller-world-and-larger-world-revision-notes/)
 - [Smaller world and larger world practice questions](/resources/aqa-a-level-english-literature-7717-smaller-world-and-larger-world-practice/)
 - [Gender politics and social class](/resources/aqa-a-level-english-literature-7717-gender-politics-and-social-class/)
-- [Elements of Political and Social Protest Writing revision notes](/resources/aqa-a-level-english-literature-7712-7717-option-2b-elements-of-political-and-social-protest-writing-7717-revision-notes/)
+- [Elements of Political and Social Protest Writing revision notes](/resources/aqa-a-level-english-literature-7712-7717-option-2b-elements-of-political-and-social-revision-notes/)
 
 ## Specification
 

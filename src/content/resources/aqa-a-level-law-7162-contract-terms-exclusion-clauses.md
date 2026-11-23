@@ -230,4 +230,4 @@ test.
 
 [Exclusion clauses revision notes](/resources/aqa-a-level-law-7162-contract-terms-exclusion-clauses-revision-notes/) |
 [Exclusion clauses practice questions](/resources/aqa-a-level-law-7162-contract-terms-exclusion-clauses-practice/) |
-[Consumer contract implied terms study guide](/resources/aqa-a-level-law-7162-contract-terms-specific-terms-implied-by-statute-law-in-relation-to-consumer-contracts/)
+[Consumer contract implied terms study guide](/resources/aqa-a-level-law-7162-contract-terms-specific-terms-implied-by-statute-law-in-relation/)

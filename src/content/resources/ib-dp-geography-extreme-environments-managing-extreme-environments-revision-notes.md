@@ -25,7 +25,7 @@ updatedDate: 2026-11-16
 featured: false
 ---
 
-Condensed recall for **3.3 Managing extreme environments** (IB DP Geography, Option C: Extreme environments). See the [Extreme environments study guide](/resources/ib-ib-dp-geography-extreme-environments-study-guide/).
+Condensed recall for **3.3 Managing extreme environments** (IB DP Geography, Option C: Extreme environments). See the [Extreme environments study guide](/resources/ib-dp-geography-extreme-environments-study-guide/).
 
 ## Living in extreme places
 
@@ -160,4 +160,4 @@ Low productivity and harsh conditions mean vegetation and soils regrow slowly, s
 
 ## Related resources
 
-- [Option C: Extreme environments study guide](/resources/ib-ib-dp-geography-extreme-environments-study-guide/)
+- [Option C: Extreme environments study guide](/resources/ib-dp-geography-extreme-environments-study-guide/)

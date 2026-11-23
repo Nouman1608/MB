@@ -204,7 +204,7 @@ D: the breaking stress
 
 ## Next steps
 
-- [Conservation of energy practice questions](/resources/oxfordaqa-a-level-physics-9630-conservation-of-energy-oxfordaqa-alevel-practice/)
+- [Conservation of energy practice questions](/resources/oxfordaqa-a-level-physics-9630-conservation-of-energy-practice/)
 - [Work, energy and power practice questions](/resources/oxfordaqa-a-level-physics-9630-work-energy-and-power-oxfordaqa-practice/)
 - [Bulk properties of solids and the Young modulus practice questions](/resources/oxfordaqa-a-level-physics-bulk-properties-of-solids-and-the-young-modulus-practice/)
 

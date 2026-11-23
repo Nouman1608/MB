@@ -25,7 +25,7 @@ featured: false
 
 Sub-topic 5.2 of the Cambridge O Level Environmental Management 5014 syllabus (2027-2029) is a tightly listed piece of content. It names exactly six causes of deforestation, exactly seven impacts, one definition of sustainable forest management, and seven reasons why that management is needed. Because the lists are closed ("limited to" in the syllabus), the examiner can ask about any item by name, and you can be sure nothing outside the lists will be required. This guide goes through each item in more depth than the topic overview, shows how the items link into chains of cause and effect, and models the kind of answer that earns full marks.
 
-For the whole of Topic 5, see the [ecosystems, biodiversity and fieldwork study guide](/resources/cambridge-o-level-environmental-management-ecosystems-biodiversity-and-fieldwork-study-guide/).
+For the whole of Topic 5, see the [ecosystems, biodiversity and fieldwork study guide](/resources/cambridge-o-level-environmental-management-ecosystems-biodiversity-and-fieldwork-study/).
 
 ## What 5.2 asks you to do
 
