@@ -1,5 +1,11 @@
 ---
-/** Native details/summary — zero JavaScript. */
+/**
+ * Native details/summary — zero JavaScript.
+ * Audit P18: the open/closed marker is drawn with CSS (summary::after), not as
+ * "+" / "−" characters in the markup, so text readers, search snippets and
+ * text extraction no longer see a stray "+ −" after every question. The empty
+ * alternative text after the slash also hides it from assistive tech.
+ */
 interface Props { items: readonly { question: string; answer: string }[]; id?: string }
 const { items, id = 'faqs' } = Astro.props;
 ---
@@ -7,13 +13,25 @@ const { items, id = 'faqs' } = Astro.props;
   <div id={id} class="border-t border-rule">
     {items.map((item) => (
       <details class="group border-b border-rule">
-        <summary class="flex cursor-pointer list-none items-baseline justify-between gap-4 py-5 text-[17.5px] font-semibold text-navy-800 marker:hidden">
+        <summary class="faq-summary flex cursor-pointer list-none items-baseline justify-between gap-4 py-5 text-[17.5px] font-semibold text-navy-800 marker:hidden">
           {item.question}
-          <span aria-hidden="true" class="shrink-0 font-mono text-lg text-teal-700 group-open:hidden">+</span>
-          <span aria-hidden="true" class="hidden shrink-0 font-mono text-lg text-teal-700 group-open:inline">−</span>
         </summary>
         <p class="m-0 max-w-[68ch] pb-6 text-[16.5px] leading-[1.7] text-ink-mute">{item.answer}</p>
       </details>
     ))}
   </div>
 )}
+<style>
+  .faq-summary::after {
+    content: '+';
+    content: '+' / '';
+    flex-shrink: 0;
+    font-family: var(--font-mono, monospace);
+    font-size: 1.125rem;
+    color: var(--color-teal-700, #0f766e);
+  }
+  details[open] > .faq-summary::after {
+    content: '−';
+    content: '−' / '';
+  }
+</style>

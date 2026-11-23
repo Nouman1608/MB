@@ -9,6 +9,15 @@
  * nobody is subscribed until they click the link and Resend accepts the
  * contact (functions/api/subscribe.ts). No personal data goes to analytics:
  * the only event, on the confirmation page, carries no address.
+ *
+ * Audit P14 (23 Nov 2026) -- the form needs JavaScript (Turnstile check, JSON
+ * answer), so it is hidden until the page script reveals it, and a <noscript>
+ * note says what to do instead; before, a visitor without JavaScript (and any
+ * text-only reader) met a bare "Qualification Choose..." list and the line
+ * "Choose a qualification to see its subjects." with no way to act on it. With
+ * JavaScript: the qualification is a labelled native select (a real, keyboard
+ * and screen-reader friendly control) with a hint, and the subjects list only
+ * appears once a qualification is chosen.
  */
 import { NEWSLETTER } from '../../data/newsletter';
 import { QUALIFICATIONS } from '../../data/academic/qualifications';
@@ -23,7 +32,8 @@ const uid = `sub-${source}`;
   <section aria-labelledby={`${uid}-h`} class="rounded-sm border border-rule bg-ivory p-[clamp(18px,2.4vw,28px)]" data-subscribe-box data-preset-course={preset?.courseId ?? ''}>
     <h2 id={`${uid}-h`} class="m-0 text-[18px] font-semibold text-navy-800">Get free revision emails (optional)</h2>
     <p class="m-0 mt-1 max-w-[62ch] text-[14.5px] text-ink-mute">{NEWSLETTER.promise} The free tools on this site never need an email.</p>
-    <form class="mt-4 grid gap-4 sm:grid-cols-2" novalidate method="post" action="/api/subscribe" data-subscribe-form>
+    <noscript><p class="m-0 mt-3 max-w-[62ch] text-[14.5px] text-ink">This sign-up needs JavaScript. Without it, you can ask for revision emails by writing to us on the <a href="/contact/" class="underline decoration-teal-500 underline-offset-2">contact page</a>.</p></noscript>
+    <form class="mt-4 grid gap-4 sm:grid-cols-2" novalidate method="post" action="/api/subscribe" data-subscribe-form hidden>
       <div aria-hidden="true" class="pointer-events-none absolute start-0 top-0 h-px w-px overflow-hidden whitespace-nowrap opacity-0 [clip-path:inset(50%)]"><label for={`${uid}-web`}>Website</label><input id={`${uid}-web`} name="website" tabindex={-1} autocomplete="off" /></div>
       <input type="hidden" name="source" value={source} />
       <div class="grid gap-1.5">
@@ -32,16 +42,17 @@ const uid = `sub-${source}`;
         <p id={`${uid}-email-err`} class="m-0 text-[13.5px] text-error" hidden data-err="email"></p>
       </div>
       <div class="grid gap-1.5">
-        <label for={`${uid}-q`} class="text-[14px] font-medium">Qualification</label>
-        <select id={`${uid}-q`} name="qualification" required class="min-h-11 rounded-sm border border-rule bg-white px-3 text-[15px]" aria-describedby={`${uid}-q-err`}>
-          <option value="">Choose…</option>
+        <label for={`${uid}-q`} class="text-[14px] font-medium">Your qualification</label>
+        <select id={`${uid}-q`} name="qualification" required class="min-h-11 rounded-sm border border-rule bg-white px-3 text-[15px]" aria-describedby={`${uid}-q-hint ${uid}-q-err`}>
+          <option value="">Select your qualification</option>
           {QUALIFICATIONS.map((q) => <option value={q.slug} selected={preset?.qualification === q.slug}>{q.name}</option>)}
         </select>
+        <p id={`${uid}-q-hint`} class="m-0 text-[13.5px] text-ink-mute">Pick one to choose your subjects.</p>
         <p id={`${uid}-q-err`} class="m-0 text-[13.5px] text-error" hidden data-err="qualification"></p>
       </div>
-      <fieldset class="m-0 border-0 p-0 sm:col-span-2">
+      <fieldset class="m-0 border-0 p-0 sm:col-span-2" data-subscribe-subjects hidden>
         <legend class="mb-1.5 p-0 text-[14px] font-medium">Subjects <span class="font-normal text-ink-mute">(optional, up to 6)</span></legend>
-        <div class="grid gap-1.5 sm:grid-cols-2" data-subscribe-courses><p class="m-0 text-[13.5px] text-ink-mute">Choose a qualification to see its subjects.</p></div>
+        <div class="grid gap-1.5 sm:grid-cols-2" data-subscribe-courses></div>
       </fieldset>
       <label class="flex items-start gap-2.5 text-[14px] sm:col-span-2">
         <input type="checkbox" name="consent" value="yes" required class="mt-0.5 h-5 w-5 shrink-0" aria-describedby={`${uid}-c-err`} />
@@ -65,6 +76,8 @@ const uid = `sub-${source}`;
       const q = form.querySelector<HTMLSelectElement>('select[name="qualification"]')!;
       const courses = form.querySelector<HTMLElement>('[data-subscribe-courses]')!;
       const status = form.querySelector<HTMLElement>('[data-subscribe-status]')!;
+      const subjects = form.querySelector<HTMLElement>('[data-subscribe-subjects]')!;
+      form.hidden = false;
       const button = form.querySelector<HTMLButtonElement>('button[type="submit"]')!;
       // D-396: read at render time, not once. A resource page shared by two
       // courses (e.g. 0620 and 5070) switches data-preset-course and the
@@ -79,6 +92,7 @@ const uid = `sub-${source}`;
       const renderCourses = async () => {
         const mine = ++renderId;
         courses.replaceChildren();
+        subjects.hidden = !q.value;
         if (!q.value) return;
         const catalogue = await loadCatalogue();
         if (mine !== renderId) return;

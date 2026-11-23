@@ -29,6 +29,12 @@
  * to map to /gulf/ and keep WhatsApp first); /gulf/ stays in the list as the
  * overview. The UK keeps its own page.
  *
+ * Audit P13/P17 (23 Nov 2026) -- on resource pages this is now the ONE tuition
+ * block, at the end of the page (after the notes, next steps, related items and
+ * the email box's neighbours), with the page's teachers passed in the default
+ * slot. The separate "Studying this with a teacher" band and the small
+ * eyebrow line above the heading (read as a stray heading) are gone.
+ *
  * D-467 (owner, 15 Nov 2026) -- the Europe page covers "all Europe outside
  * UK", so every Europe/* zone except the UK and the Crown Dependencies (which
  * use the pound) goes there, plus the European zones filed under Asia/ and
@@ -43,8 +49,12 @@ interface Props {
   formatPhrase: string;
   /** D-412 -- the course is taught live online only (no Lahore in-person classes). */
   onlineOnly?: boolean;
+  /** Extra sentence(s) after the intro, e.g. the one-to-one-only fee. */
+  note?: string;
+  /** CSS margin override; the block sits at the page end on resource pages. */
+  class?: string;
 }
-const { label, trialHref, formatPhrase, onlineOnly = false } = Astro.props;
+const { label, trialHref, formatPhrase, onlineOnly = false, note = '', class: extraClass = 'mt-12' } = Astro.props;
 
 // D-405 -- the UK line names GCSE/A Level, evening UK times and the set GBP group fee.
 const ukRow = REGION_PRICING.find((r) => r.region === 'United Kingdom');
@@ -67,11 +77,10 @@ const MARKET_LINKS = [
   { slug: 'europe', href: '/europe/', name: 'Europe', local: 'For families in Europe: live online classes, fees in euros and class times in your time zone.' },
 ] as const;
 ---
-<aside data-tutoring-prompt aria-labelledby="tutoring-prompt-heading" class="mt-12 rounded-sm border border-teal-500 bg-ivory p-[clamp(20px,2.4vw,28px)]">
-  <p class="m-0 mb-2 mb-eyebrow text-teal-700">Learn this with a teacher</p>
+<aside data-tutoring-prompt aria-labelledby="tutoring-prompt-heading" class:list={[extraClass, 'rounded-sm border border-teal-500 bg-ivory p-[clamp(20px,2.4vw,28px)]']}>
   <h2 id="tutoring-prompt-heading" class="m-0 text-[22px] font-semibold leading-snug text-navy-800">Stuck on {label}?</h2>
   <p class="m-0 mt-3 max-w-[60ch] text-[16px] leading-[1.6] text-ink-mute">
-    A Marlbridge subject teacher can take you through it live, {formatPhrase}. {PRICING_TERMS.freeTrial}
+    A Marlbridge subject teacher can take you through it live, {formatPhrase}. {PRICING_TERMS.freeTrial}{note}
   </p>
   {MARKET_LINKS.filter((m) => m.local).map((m) => (
     <p data-market-local={m.slug} hidden class="m-0 mt-3 max-w-[60ch] text-[15px] leading-[1.6] text-ink">
@@ -82,6 +91,7 @@ const MARKET_LINKS = [
     <a href={trialHref} data-cta="resource-trial-mid" data-prompt-action="trial" class="inline-flex min-h-11 items-center justify-center rounded-sm bg-navy-800 px-6 py-3 text-[15px] font-medium text-ivory transition-colors duration-150 hover:bg-navy-700">Book a free trial class</a>
     <a href={whatsappHref} target="_blank" rel="noopener noreferrer" data-whatsapp-button data-link-location="resource_prompt" data-page-context={`about ${label} classes`} data-prompt-action="whatsapp" class="inline-flex min-h-11 items-center justify-center rounded-sm border border-navy-800 px-6 py-3 text-[15px] font-medium text-navy-800 hover:bg-white">Ask on WhatsApp</a>
   </div>
+  <slot />
   <p data-market-list class="m-0 mt-4 text-[14px] leading-[1.6] text-ink-mute">
     Local fees and class times:{' '}
     {MARKET_LINKS.map((m, i) => (
