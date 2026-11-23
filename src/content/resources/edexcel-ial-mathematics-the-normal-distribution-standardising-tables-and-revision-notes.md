@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: The Normal distribution (YMA01) -- Revision Notes"
+title: "Pearson Edexcel International A Level Mathematics: The Normal distribution (YMA01) -- Revision Notes"
 seoTitle: "Edexcel IAL Maths Normal Distribution Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics"
@@ -26,7 +26,7 @@ reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379).
 
 These revision notes condense the Normal distribution content from the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (YMA01), Specification Issue 3, April 2019. The content is section 6 of Statistics 1, numbered 5.1 in the specification, and S1 is an optional unit for IAS and IAL Mathematics and Further Mathematics. For full explanations and longer worked examples, read the [study guide](/resources/edexcel-ial-mathematics-the-normal-distribution-standardising-tables-and/).
 
-Other pages: [practice questions](/resources/edexcel-ial-mathematics-the-normal-distribution-standardising-tables-and-practice/), the [Edexcel A Level Mathematics hub](/boards/edexcel/a-level/mathematics/), the [printable checklist](/checklists/edexcel/a-level/mathematics/) and the [free diagnostics](/diagnostics/).
+Other pages: [practice questions](/resources/edexcel-ial-mathematics-the-normal-distribution-standardising-tables-and-practice/), the [Pearson Edexcel International A Level Mathematics hub](/boards/edexcel/a-level/mathematics/), the [printable checklist](/checklists/edexcel/a-level/mathematics/) and the [free diagnostics](/diagnostics/).
 
 ## Key facts
 

@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Functions, modulus and graph transformations (YMA01) -- Revision Notes"
+title: "Pearson Edexcel International A Level Mathematics: Functions, modulus and graph transformations (YMA01) -- Revision Notes"
 seoTitle: "Edexcel IAL Maths P3 Functions and Modulus Notes"
 resourceType: "revision-notes"
 subject: "mathematics"

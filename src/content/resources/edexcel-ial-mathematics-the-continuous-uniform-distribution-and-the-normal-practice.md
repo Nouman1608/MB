@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Continuous uniform and Normal approximations (YMA01) -- Practice Questions"
+title: "Pearson Edexcel International A Level Mathematics: Continuous uniform and Normal approximations (YMA01) -- Practice Questions"
 seoTitle: "Edexcel IAL Maths S2 Uniform and Normal Approx Practice"
 resourceType: "practice-questions"
 subject: "mathematics"

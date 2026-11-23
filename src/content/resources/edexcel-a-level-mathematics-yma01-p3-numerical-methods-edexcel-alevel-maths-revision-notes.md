@@ -1,5 +1,5 @@
 ---
-title: "Edexcel International A Level Mathematics (YMA01): Numerical methods (P3.6) -- Revision Notes"
+title: "Pearson Edexcel International A Level Mathematics (YMA01): Numerical methods (P3.6) -- Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics"
 level: ["a-levels"]
@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-23: self-test 4 working from unrounded value (audit C6)"
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -124,7 +124,7 @@ x² − x − 3 = 0 can be written x = √(x + 3) (for x > 0). With x₀ = 2: x�
 
 **3.** [1.365, 1.375].
 
-**4.** x₁ = √5 = 2.2361 and x₂ = √(5.2361) = 2.2882.
+**4.** x₁ = √5 = 2.2361 and x₂ = √(√5 + 3) = 2.2882 (working from the unrounded x₁ = 2.236068..., so x₂ = √5.236068... = 2.28825...).
 
 **5.** x² = x + 3, that is x² − x − 3 = 0 (positive root).
 

@@ -1,5 +1,5 @@
 ---
-title: "Edexcel International A Level Mathematics (YMA01): Probability"
+title: "Pearson Edexcel International A Level Mathematics (YMA01): Probability"
 resourceType: "study-guides"
 subject: "mathematics"
 level: ["a-levels"]

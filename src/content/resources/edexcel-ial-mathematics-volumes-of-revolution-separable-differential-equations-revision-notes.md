@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Volumes of revolution, separable differential equations and areas from parametric equations (YMA01) -- Revision Notes"
+title: "Pearson Edexcel International A Level Mathematics: Volumes of revolution, separable differential equations and areas from parametric equations (YMA01) -- Revision Notes"
 seoTitle: "Edexcel IAL Maths Volumes, Separable DEs Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics"

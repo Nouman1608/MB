@@ -1,5 +1,5 @@
 ---
-title: "Edexcel International A Level Mathematics (YMA01): Probability -- Practice Questions"
+title: "Pearson Edexcel International A Level Mathematics (YMA01): Probability -- Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics"
 level: ["a-levels"]

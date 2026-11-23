@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Proof, partial fractions and binomial series (YMA01)"
+title: "Pearson Edexcel International A Level Mathematics: Proof, partial fractions and binomial series (YMA01)"
 seoTitle: "Edexcel IAL Maths P4: Contradiction, Partial Fractions"
 resourceType: "study-guides"
 subject: "mathematics"

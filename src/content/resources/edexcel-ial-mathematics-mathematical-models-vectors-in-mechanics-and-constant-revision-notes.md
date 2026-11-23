@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Models, vectors and constant acceleration (YMA01) -- Revision Notes"
+title: "Pearson Edexcel International A Level Mathematics: Models, vectors and constant acceleration (YMA01) -- Revision Notes"
 seoTitle: "Edexcel IAL Maths M1 Vectors and SUVAT Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics"
@@ -32,7 +32,7 @@ reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379).
 
 These revision notes condense Unit M1: Mechanics 1, sections 1.1, 2.1, 2.2 and 3.1 of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics specification (Issue 3, April 2019). Under the specification, M1 is optional: it can be taken within IAS Mathematics, IAS Further Mathematics, IAL Mathematics and IAL Further Mathematics. For full explanations and worked examples use the [study guide](/resources/edexcel-ial-mathematics-mathematical-models-vectors-in-mechanics-and-constant/), then test yourself with the [practice questions](/resources/edexcel-ial-mathematics-mathematical-models-vectors-in-mechanics-and-constant-practice/).
 
-Course links: the [Edexcel A Level Mathematics hub](/boards/edexcel/a-level/mathematics/), the [printable checklist](/checklists/edexcel/a-level/mathematics/) and the [free diagnostics](/diagnostics/).
+Course links: the [Pearson Edexcel International A Level Mathematics hub](/boards/edexcel/a-level/mathematics/), the [printable checklist](/checklists/edexcel/a-level/mathematics/) and the [free diagnostics](/diagnostics/).
 
 ## 1.1 Models: terms and assumptions
 

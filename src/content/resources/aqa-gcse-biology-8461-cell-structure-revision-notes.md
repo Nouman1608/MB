@@ -290,7 +290,7 @@ magnification = size of image / size of real object
 12. Magnification is how many times bigger the image is; resolution is the ability to **distinguish two close points** as separate.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--07-bacteria-doubling.webp" width="900" height="890" alt="Extended worked example. A resistant bacterium dividing every 30 minutes makes 8 divisions in 4 hours, so 2 to the power 8 = 256 bacteria. The line graph curves steeply upwards." loading="lazy">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--07-bacteria-doubling.webp" width="900" height="890" alt="Worked example. A resistant bacterium dividing every 30 minutes makes 8 divisions in 4 hours, so 2 to the power 8 = 256 bacteria. The line graph curves steeply upwards." loading="lazy">
   <figcaption>A resistant strain can become common very quickly because numbers double with every division.</figcaption>
 </figure>
 

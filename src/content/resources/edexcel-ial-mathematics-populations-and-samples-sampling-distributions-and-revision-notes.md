@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Samples and hypothesis tests (YMA01) -- Revision Notes"
+title: "Pearson Edexcel International A Level Mathematics: Samples and hypothesis tests (YMA01) -- Revision Notes"
 seoTitle: "Edexcel IAL Maths S2 Hypothesis Tests Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics"

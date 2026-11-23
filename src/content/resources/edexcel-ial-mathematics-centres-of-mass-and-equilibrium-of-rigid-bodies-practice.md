@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Centres of mass and rigid body equilibrium (YMA01) -- Practice Questions"
+title: "Pearson Edexcel International A Level Mathematics: Centres of mass and rigid body equilibrium (YMA01) -- Practice Questions"
 seoTitle: "Edexcel IAL Maths M2 Centres of Mass Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics"

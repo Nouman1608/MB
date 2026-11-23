@@ -1,5 +1,5 @@
 ---
-title: "Edexcel International A Level Mathematics (YMA01): M2 Collisions"
+title: "Pearson Edexcel International A Level Mathematics (YMA01): M2 Collisions"
 resourceType: "study-guides"
 subject: "mathematics"
 level: ["a-levels"]

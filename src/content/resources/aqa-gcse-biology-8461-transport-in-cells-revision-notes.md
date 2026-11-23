@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-23: three Cambridge IGCSE images showing Extended or water potential removed (audit C5)"
 ---
 
 These notes condense section **4.1.3 Transport in cells** of the AQA GCSE Biology (8461) specification, for first
@@ -140,11 +140,6 @@ Features 3 and 4 work by **keeping the concentration gradient steep**.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-human-nutrition--08-villus.webp" width="900" height="1250" alt="Extended. A row of villi on the folded small intestine lining, then one villus enlarged. Its surface epithelium is one cell thick with microvilli on the outside. Inside are a capillary network and a central lacteal. Sugars and amino acids enter the capillaries and go into the blood; fatty acids and glycerol enter the lacteal, which is part of the lymphatic system." loading="lazy">
-  <figcaption>Capillaries take sugars and amino acids; the lacteal takes fatty acids and glycerol.</figcaption>
-</figure>
-
-<figure class="topic-figure">
   <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--07-three-processes.webp" width="900" height="1030" alt="Three pictures. Diffusion is passive: particles move from high to low concentration, no energy needed. Osmosis is passive: water moves through a partially permeable membrane, no energy needed. Active transport is active: a carrier moves particles from low to high concentration using energy from respiration." loading="lazy">
   <figcaption>Diffusion and osmosis are passive; active transport uses energy from respiration to move particles against the gradient.</figcaption>
 </figure>
@@ -214,12 +209,6 @@ Points above zero mean water entered; points below zero mean water left.
   <figcaption>The five steps of required practical 3 in order.</figcaption>
 </figure>
 
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--03-osmosis.webp" width="900" height="960" alt="A container split by a membrane with small gaps. Dilute solution (many water molecules, 3 solute particles) on the left, concentrated solution (fewer water molecules, 11 solute particles) on the right. Solute is too big to pass; arrows show water moving to the concentrated side. An Extended card gives the water potential wording: higher on the dilute side, lower on the concentrated side." loading="lazy">
-  <figcaption>Water moves through the membrane from the dilute to the concentrated solution; solute particles cannot pass.</figcaption>
-</figure>
-
-
 ## 4.1.3.3 Active transport
 
 - Moves substances **against** the concentration gradient (dilute → concentrated).
@@ -236,12 +225,6 @@ Less respiration (for example, little oxygen in waterlogged soil) means less act
   <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-transport-in-cells--04-root-hair-waterlogged.webp" width="900" height="985" alt="Two panels of a root hair cell. In well-aerated soil, mineral ions move from few in the soil to many in the cell using energy from respiration. In waterlogged soil there is little oxygen, respiration slows, and fewer ions are taken up." loading="lazy">
   <figcaption>Active transport in roots needs energy from respiration, so waterlogging reduces ion uptake.</figcaption>
 </figure>
-
-<figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--06-active-transport.webp" width="900" height="1120" alt="A membrane separates low concentration (top) from high concentration (bottom). Step 1: a particle binds a carrier protein facing the low side. Step 2: energy from respiration changes the carrier and the particle is released on the high side, so it moves against the gradient. Extended: protein carriers, for example ion uptake by root hairs." loading="lazy">
-  <figcaption>Active transport moves particles from low to high concentration using energy from respiration.</figcaption>
-</figure>
-
 
 ## Must-know distinctions
 

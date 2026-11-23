@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Volumes of revolution, separable differential equations and areas from parametric equations (YMA01) -- Practice Questions"
+title: "Pearson Edexcel International A Level Mathematics: Volumes of revolution, separable differential equations and areas from parametric equations (YMA01) -- Practice Questions"
 seoTitle: "Edexcel IAL Maths Volumes, Separable DEs Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics"

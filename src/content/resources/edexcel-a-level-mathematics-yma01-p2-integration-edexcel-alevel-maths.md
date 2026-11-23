@@ -1,5 +1,5 @@
 ---
-title: "Edexcel International A Level Mathematics (YMA01): Integration (P2.8)"
+title: "Pearson Edexcel International A Level Mathematics (YMA01): Integration (P2.8)"
 resourceType: "study-guides"
 subject: "mathematics"
 level: ["a-levels"]

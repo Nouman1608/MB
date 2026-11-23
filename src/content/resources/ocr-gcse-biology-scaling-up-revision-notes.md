@@ -73,7 +73,7 @@ Condensed for the final weeks. For the full explanation, use the
 **The capillary misconception:** blood does NOT flow slowly because capillaries are narrow — it's because the **total cross-sectional area** of all capillaries in a tissue is far greater than the aorta's, so the blood moves more slowly (in speed) through them, even though the total volume flowing through per second is unchanged and individual capillaries are narrow. This slow flow is what **allows time for diffusion** — the "problem" is actually the adaptation.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--01-circulation.webp" width="900" height="1290" alt="Extended. Top: in a fish the heart pumps blood to the gills, then on to the body and back, so blood passes through the heart once per circuit and pressure drops in the gills. Bottom: in a mammal the right side pumps deoxygenated blood to the lungs, oxygenated blood returns to the left side, which pumps it at high pressure to the body; blood passes through the heart twice per circuit. Left side of the heart is drawn on the right." loading="lazy">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--01-circulation.webp" width="900" height="1290" alt="Top: in a fish the heart pumps blood to the gills, then on to the body and back, so blood passes through the heart once per circuit and pressure drops in the gills. Bottom: in a mammal the right side pumps deoxygenated blood to the lungs, oxygenated blood returns to the left side, which pumps it at high pressure to the body; blood passes through the heart twice per circuit. Left side of the heart is drawn on the right." loading="lazy">
   <figcaption>A fish heart is passed once per circuit; a mammal heart twice, with the two sides kept separate.</figcaption>
 </figure>
 
@@ -98,12 +98,12 @@ Condensed for the final weeks. For the full explanation, use the
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--03-osmosis.webp" width="900" height="960" alt="A container split by a membrane with small gaps. Dilute solution (many water molecules, 3 solute particles) on the left, concentrated solution (fewer water molecules, 11 solute particles) on the right. Solute is too big to pass; arrows show water moving to the concentrated side. An Extended card gives the water potential wording: higher on the dilute side, lower on the concentrated side." loading="lazy">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--03-osmosis.webp" width="900" height="960" alt="A container split by a membrane with small gaps. Dilute solution (many water molecules, 3 solute particles) on the left, concentrated solution (fewer water molecules, 11 solute particles) on the right. Solute is too big to pass; arrows show water moving to the concentrated side." loading="lazy">
   <figcaption>Water moves through the membrane from the dilute to the concentrated solution; solute particles cannot pass.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--06-active-transport.webp" width="900" height="1120" alt="A membrane separates low concentration (top) from high concentration (bottom). Step 1: a particle binds a carrier protein facing the low side. Step 2: energy from respiration changes the carrier and the particle is released on the high side, so it moves against the gradient. Extended: protein carriers, for example ion uptake by root hairs." loading="lazy">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--06-active-transport.webp" width="900" height="1120" alt="A membrane separates low concentration (top) from high concentration (bottom). Step 1: a particle binds a carrier protein facing the low side. Step 2: energy from respiration changes the carrier and the particle is released on the high side, so it moves against the gradient. Also shown: protein carriers, for example ion uptake by root hairs." loading="lazy">
   <figcaption>Active transport moves particles from low to high concentration using energy from respiration.</figcaption>
 </figure>
 
@@ -195,7 +195,7 @@ The specification groups this topic's practical work into Practical Activity Gro
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--08-sources-and-sinks.webp" width="900" height="1290" alt="Extended. A plant diagram: a mature photosynthesising leaf is a source releasing sucrose into the phloem; arrows show it moving up to the shoot tip, along to a fruit and down to roots, which are sinks that use or store it. Below, a young leaf is a sink and becomes a source when mature." loading="lazy">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--08-sources-and-sinks.webp" width="900" height="1290" alt="A plant diagram: a mature photosynthesising leaf is a source releasing sucrose into the phloem; arrows show it moving up to the shoot tip, along to a fruit and down to roots, which are sinks that use or store it. Below, a young leaf is a sink and becomes a source when mature." loading="lazy">
   <figcaption>Phloem carries sucrose from sources to sinks, and a leaf can be both at different times.</figcaption>
 </figure>
 
@@ -227,27 +227,27 @@ fetched and verified in full 2026-09-02.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--02-heart-structure.webp" width="900" height="1180" alt="Schematic heart section viewed as if facing the person. Four chambers (atria above, ventricles below), septum between left and right, vena cava and pulmonary vein entering the atria, pulmonary artery and aorta leaving the ventricles, coronary artery over the outer wall. Extended labels: atrioventricular valves, semilunar valves, thicker left ventricle wall." loading="lazy">
-  <figcaption>Left side of the heart is on the right of the page; gold labels are Extended only.</figcaption>
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--02-heart-structure.webp" width="900" height="1180" alt="Schematic heart section viewed as if facing the person. Four chambers (atria above, ventricles below), septum between left and right, vena cava and pulmonary vein entering the atria, pulmonary artery and aorta leaving the ventricles, coronary artery over the outer wall. Further labels: atrioventricular valves, semilunar valves, thicker left ventricle wall." loading="lazy">
+  <figcaption>Left side of the heart is on the right of the page; gold labels mark extra detail.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--04-blood-vessels.webp" width="900" height="1230" alt="Cross-sections of an artery (thick muscular elastic wall, narrow lumen), a vein (thin wall, wide lumen) and a capillary (wall one cell thick, very narrow lumen), plus a side view of a vein valve. Extended notes link structure to pressure and function." loading="lazy">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--04-blood-vessels.webp" width="900" height="1230" alt="Cross-sections of an artery (thick muscular elastic wall, narrow lumen), a vein (thin wall, wide lumen) and a capillary (wall one cell thick, very narrow lumen), plus a side view of a vein valve. Further notes link structure to pressure and function." loading="lazy">
   <figcaption>Wall thickness and lumen size are matched to the job of each vessel.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--06-blood-components.webp" width="900" height="1150" alt="Four parts of blood. Red blood cells carry oxygen, have no nucleus and a pale centre. White blood cells do phagocytosis and make antibodies and have a nucleus; Extended: lymphocytes (large round nucleus) make antibodies and phagocytes (lobed nucleus) engulf pathogens. Platelets are fragments that help clotting. Plasma carries cells, ions, nutrients, urea, hormones and carbon dioxide." loading="lazy">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--06-blood-components.webp" width="900" height="1150" alt="Four parts of blood. Red blood cells carry oxygen, have no nucleus and a pale centre. White blood cells do phagocytosis and make antibodies and have a nucleus; further detail: lymphocytes (large round nucleus) make antibodies and phagocytes (lobed nucleus) engulf pathogens. Platelets are fragments that help clotting. Plasma carries cells, ions, nutrients, urea, hormones and carbon dioxide." loading="lazy">
   <figcaption>Red cells, white cells, platelets and plasma each have a job in the blood.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--05-transpiration-in-leaf.webp" width="900" height="1130" alt="A leaf cross-section. Step 1: water evaporates from the wet surfaces of mesophyll cells into the air spaces. Step 2: water vapour diffuses out through the stomata. Extended step 3: water lost from the leaf is pulled up the xylem. Steps 1 and 2 are Core; step 3 is tagged Extended." loading="lazy">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--05-transpiration-in-leaf.webp" width="900" height="1130" alt="A leaf cross-section. Step 1: water evaporates from the wet surfaces of mesophyll cells into the air spaces. Step 2: water vapour diffuses out through the stomata. Step 3: water lost from the leaf is pulled up the xylem." loading="lazy">
   <figcaption>Water evaporates inside the leaf, then the vapour diffuses out through the stomata.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--06-transpiration-factors.webp" width="900" height="1290" alt="Three side-by-side comparisons of a leaf with copper arrows for water vapour leaving; more arrows mean a faster rate. Warm air gives more than cool air, windy air more than still air, and humid air less than dry air. Explanations (kinetic energy, concentration gradient) are Extended; humidity is Extended." loading="lazy">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-plants--06-transpiration-factors.webp" width="900" height="1290" alt="Three side-by-side comparisons of a leaf with copper arrows for water vapour leaving; more arrows mean a faster rate. Warm air gives more than cool air, windy air more than still air, and humid air less than dry air. Explanations use kinetic energy and the concentration gradient; humidity also changes the rate." loading="lazy">
   <figcaption>Higher temperature and wind speed raise the rate; higher humidity lowers it.</figcaption>
 </figure>
 

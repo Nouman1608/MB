@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Vectors, lines and the scalar product (YMA01)"
+title: "Pearson Edexcel International A Level Mathematics: Vectors, lines and the scalar product (YMA01)"
 seoTitle: "Edexcel IAL Maths P4 Vectors Study Guide"
 resourceType: "study-guides"
 subject: "mathematics"

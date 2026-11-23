@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Continuous random variables: pdf, cdf, mean, variance, mode, median and quartiles (YMA01) -- Practice Questions"
+title: "Pearson Edexcel International A Level Mathematics: Continuous random variables: pdf, cdf, mean, variance, mode, median and quartiles (YMA01) -- Practice Questions"
 seoTitle: "Edexcel IAL Maths S2 Continuous Random Variables Practice"
 resourceType: "practice-questions"
 subject: "mathematics"

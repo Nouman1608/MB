@@ -19,7 +19,7 @@ author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-23: Kc units reasoning corrected for liquid-phase equilibrium; symbols fixed (audit C9)"
 publishedDate: 2026-08-22
 featured: false
 ---
@@ -48,7 +48,7 @@ Related: [Chemical Equilibria revision notes](/resources/as-chemistry-equilibria
 **4.** For the Contact process:
 
 ```
-2SO2(g) + O2(g)  <=>  2SO3(g)     delta-H = -196 kJ mol-1
+2SO₂(g) + O₂(g)  ⇌  2SO₃(g)     ΔH = −196 kJ mol⁻¹
 ```
 
 **(a)** Write the expression for Kc and state its units. **[2]**
@@ -62,7 +62,7 @@ Related: [Chemical Equilibria revision notes](/resources/as-chemistry-equilibria
 **5.** 2.00 mol of ethanoic acid and 3.00 mol of ethanol were mixed and allowed to reach equilibrium in a 1.00 dm³ vessel. At equilibrium, 1.60 mol of ester had formed.
 
 ```
-CH3COOH + C2H5OH  <=>  CH3COOC2H5 + H2O
+CH₃COOH + C₂H₅OH  ⇌  CH₃COOC₂H₅ + H₂O
 ```
 
 **(a)** Construct an ICE table and determine the equilibrium amount of each species. **[3]**
@@ -109,7 +109,7 @@ CH3COOH + C2H5OH  <=>  CH3COOC2H5 + H2O
 [1 for changes in 1:1:1:1 ratio; 1 for acid and alcohol; 1 for products]
 
 **(b)** Kc = (1.60 × 1.60) ÷ (0.40 × 1.40) [1] = 2.56 ÷ 0.56 = **4.57** [1].
-No units because there are **two moles of gas/species on each side**, so the concentration units cancel [1].
+No units because there are **equal numbers of moles of species on each side of the equation** (2 mol of reactants and 2 mol of products), so there are two concentration terms on the top of Kc and two on the bottom and the units (mol dm⁻³) cancel [1]. (All four species are liquids here, so this is about moles of species, not moles of gas.)
 
 **6. (a)** P(N₂O₄) = 0.60 × 200 = **120 kPa** [1]; P(NO₂) = 0.40 × 200 = **80 kPa** [1].
 **(b)** Kp = (P_NO₂)² ÷ P_N₂O₄ [1] = 80² ÷ 120 = 6400 ÷ 120 = **53.3 kPa** [1]. The mole count changes (1 → 2), so the units don't cancel — Kp carries units of kPa¹, matching the net order of (2 − 1) = 1 [1].

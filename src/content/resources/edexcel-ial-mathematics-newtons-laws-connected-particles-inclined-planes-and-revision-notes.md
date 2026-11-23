@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Newton's laws, pulleys, slopes and friction (YMA01) -- Revision Notes"
+title: "Pearson Edexcel International A Level Mathematics: Newton's laws, pulleys, slopes and friction (YMA01) -- Revision Notes"
 seoTitle: "Edexcel IAL Maths M1 Newton's Laws Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics"

@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Further trigonometry and R-formulae (YMA01) -- Practice Questions"
+title: "Pearson Edexcel International A Level Mathematics: Further trigonometry and R-formulae (YMA01) -- Practice Questions"
 seoTitle: "Edexcel IAL Maths P3: Further Trig Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics"
@@ -29,7 +29,7 @@ reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379).
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover Unit P3 section 2 (topics 2.1 to 2.3) of the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification, Issue 3, April 2019. The specification lists P3 as compulsory for IAL Mathematics and Pure Mathematics only; IAS weighting is N/A. Learn the content first in the [study guide](/resources/edexcel-ial-mathematics-further-trigonometry-reciprocal-and-inverse-functions/) and the [revision notes](/resources/edexcel-ial-mathematics-further-trigonometry-reciprocal-and-inverse-functions-revision-notes/). Course hub: [Edexcel A Level Mathematics](/boards/edexcel/a-level/mathematics/). Printable [checklist](/checklists/edexcel/a-level/mathematics/). To gauge your level beforehand, use a [free 10-minute diagnostic](/diagnostics/).
+These questions cover Unit P3 section 2 (topics 2.1 to 2.3) of the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification, Issue 3, April 2019. The specification lists P3 as compulsory for IAL Mathematics and Pure Mathematics only; IAS weighting is N/A. Learn the content first in the [study guide](/resources/edexcel-ial-mathematics-further-trigonometry-reciprocal-and-inverse-functions/) and the [revision notes](/resources/edexcel-ial-mathematics-further-trigonometry-reciprocal-and-inverse-functions-revision-notes/). Course hub: [Pearson Edexcel International A Level Mathematics](/boards/edexcel/a-level/mathematics/). Printable [checklist](/checklists/edexcel/a-level/mathematics/). To gauge your level beforehand, use a [free 10-minute diagnostic](/diagnostics/).
 
 Give angles in degrees to 1 decimal place unless told otherwise. Use radians where the question uses π. Keep unrounded values in your working until the final answer.
 
@@ -210,7 +210,7 @@ Common slips are matching R cos α and R sin α to the wrong coefficients, so α
 
 - Review the [revision notes](/resources/edexcel-ial-mathematics-further-trigonometry-reciprocal-and-inverse-functions-revision-notes/) for any question you missed.
 - Reread the [study guide](/resources/edexcel-ial-mathematics-further-trigonometry-reciprocal-and-inverse-functions/) for the matching worked examples.
-- Return to the [Edexcel A Level Mathematics hub](/boards/edexcel/a-level/mathematics/) and tick off the topic on the [printable checklist](/checklists/edexcel/a-level/mathematics/).
+- Return to the [Pearson Edexcel International A Level Mathematics hub](/boards/edexcel/a-level/mathematics/) and tick off the topic on the [printable checklist](/checklists/edexcel/a-level/mathematics/).
 - Use the [free 10-minute diagnostics](/diagnostics/) to choose what to revise next.
 - Book a free trial class at [/trial/](/trial/).
 

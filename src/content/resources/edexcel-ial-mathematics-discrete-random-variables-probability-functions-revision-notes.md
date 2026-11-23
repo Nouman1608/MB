@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Discrete random variables (YMA01) -- Revision Notes"
+title: "Pearson Edexcel International A Level Mathematics: Discrete random variables (YMA01) -- Revision Notes"
 seoTitle: "Edexcel IAL Maths S1 Discrete Random Variables Notes"
 resourceType: "revision-notes"
 subject: "mathematics"
@@ -28,7 +28,7 @@ reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379).
 ---
 These revision notes are aligned to the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics (YMA01) specification, Issue 3, April 2019, unit S1 section 5 (topics 5.1 to 5.4). The specification states that S1 is an optional unit for IAS Mathematics and Further Mathematics and for IAL Mathematics and Further Mathematics. Read the [study guide](/resources/edexcel-ial-mathematics-discrete-random-variables-probability-functions/) for the full explanations and examples, then test yourself with the [practice questions](/resources/edexcel-ial-mathematics-discrete-random-variables-probability-functions-practice/).
 
-Related pages: the [Edexcel A Level Mathematics course page](/boards/edexcel/a-level/mathematics/), the [printable checklist](/checklists/edexcel/a-level/mathematics/) and the [free 10-minute diagnostics](/diagnostics/).
+Related pages: the [Pearson Edexcel International A Level Mathematics course page](/boards/edexcel/a-level/mathematics/), the [printable checklist](/checklists/edexcel/a-level/mathematics/) and the [free 10-minute diagnostics](/diagnostics/).
 
 ## Key ideas by topic
 

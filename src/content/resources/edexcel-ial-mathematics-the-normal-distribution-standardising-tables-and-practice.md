@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: The Normal distribution (YMA01) -- Practice Questions"
+title: "Pearson Edexcel International A Level Mathematics: The Normal distribution (YMA01) -- Practice Questions"
 seoTitle: "Edexcel IAL Maths Normal Distribution Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics"
@@ -32,7 +32,7 @@ reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379).
 
 These questions follow the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (YMA01), Specification Issue 3, April 2019, section 6 of Statistics 1 (numbered 5.1 in the specification). The specification states that S1 is an optional unit for IAS and IAL Mathematics and Further Mathematics. Where a question needs a value from a table, it is given in the question. Give answers to 3 significant figures unless a question says otherwise.
 
-Study first with the [study guide](/resources/edexcel-ial-mathematics-the-normal-distribution-standardising-tables-and/) and the [revision notes](/resources/edexcel-ial-mathematics-the-normal-distribution-standardising-tables-and-revision-notes/). Course pages: the [Edexcel A Level Mathematics hub](/boards/edexcel/a-level/mathematics/) and the [printable checklist](/checklists/edexcel/a-level/mathematics/).
+Study first with the [study guide](/resources/edexcel-ial-mathematics-the-normal-distribution-standardising-tables-and/) and the [revision notes](/resources/edexcel-ial-mathematics-the-normal-distribution-standardising-tables-and-revision-notes/). Course pages: the [Pearson Edexcel International A Level Mathematics hub](/boards/edexcel/a-level/mathematics/) and the [printable checklist](/checklists/edexcel/a-level/mathematics/).
 
 ## Questions
 
@@ -144,7 +144,7 @@ The tails outside a central 90% interval each hold 5%, so look up Φ(z) = 0.95, 
 
 - Re-read the [study guide](/resources/edexcel-ial-mathematics-the-normal-distribution-standardising-tables-and/) for any question that cost you marks.
 - Use the [revision notes](/resources/edexcel-ial-mathematics-the-normal-distribution-standardising-tables-and-revision-notes/) for a quick recap.
-- Open the [Edexcel A Level Mathematics hub](/boards/edexcel/a-level/mathematics/) and tick the topic off on the [checklist](/checklists/edexcel/a-level/mathematics/).
+- Open the [Pearson Edexcel International A Level Mathematics hub](/boards/edexcel/a-level/mathematics/) and tick the topic off on the [checklist](/checklists/edexcel/a-level/mathematics/).
 - Take the [free 10-minute diagnostics](/diagnostics/) to find weak spots.
 - [Book a free trial class](/trial/) if you would like a teacher to go through the questions with you.
 

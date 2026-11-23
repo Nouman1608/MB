@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Parametric and implicit differentiation (YMA01) -- Practice Questions"
+title: "Pearson Edexcel International A Level Mathematics: Parametric and implicit differentiation (YMA01) -- Practice Questions"
 seoTitle: "Edexcel IAL Maths Parametric and Implicit Practice Qs"
 resourceType: "practice-questions"
 subject: "mathematics"

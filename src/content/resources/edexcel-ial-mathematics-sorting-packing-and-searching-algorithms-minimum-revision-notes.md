@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Sorting, packing, spanning trees, Dijkstra (YMA01) -- Revision Notes"
+title: "Pearson Edexcel International A Level Mathematics: Sorting, packing, spanning trees, Dijkstra (YMA01) -- Revision Notes"
 seoTitle: "Edexcel IAL Maths D1 Algorithms Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics"

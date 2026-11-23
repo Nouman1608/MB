@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Indices, surds and quadratics (YMA01) -- Revision Notes"
+title: "Pearson Edexcel International A Level Mathematics: Indices, surds and quadratics (YMA01) -- Revision Notes"
 seoTitle: "Edexcel IAL Maths P1 Indices, Surds, Quadratics Notes"
 resourceType: "revision-notes"
 subject: "mathematics"

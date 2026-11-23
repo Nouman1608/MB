@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Momentum and impulse, equilibrium of a particle and moments (YMA01)"
+title: "Pearson Edexcel International A Level Mathematics: Momentum and impulse, equilibrium of a particle and moments (YMA01)"
 seoTitle: "Edexcel IAL Maths M1 Momentum, Equilibrium, Moments"
 resourceType: "study-guides"
 subject: "mathematics"

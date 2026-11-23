@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Parametric and implicit differentiation (YMA01) -- Revision Notes"
+title: "Pearson Edexcel International A Level Mathematics: Parametric and implicit differentiation (YMA01) -- Revision Notes"
 seoTitle: "Edexcel IAL Maths Parametric and Implicit Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics"

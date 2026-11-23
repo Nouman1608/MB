@@ -192,7 +192,7 @@ You can draw benzene as the Kekulé hexagon or as a hexagon with a circle, as ap
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--09-synthesis-route.webp" width="900" height="1120" alt="Seven structures joined by six arrows: benzene, nitrobenzene, phenylamine, benzenediazonium chloride, phenol, 4-nitrophenol and 4-nitrophenyl ethanoate, each arrow labelled with reaction type and reagents. Step 5 also gives 2-nitrophenol as a by-product." loading="lazy">
-  <figcaption>Six reactions turn benzene into 4-nitrophenyl ethanoate. (Cambridge only)</figcaption>
+  <figcaption>Six reactions turn benzene into 4-nitrophenyl ethanoate.</figcaption>
 </figure>
 
 

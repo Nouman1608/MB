@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Route inspection and travelling salesman (YMA01) -- Practice Questions"
+title: "Pearson Edexcel International A Level Mathematics: Route inspection and travelling salesman (YMA01) -- Practice Questions"
 seoTitle: "Edexcel IAL Maths D1 Route Inspection and TSP Practice"
 resourceType: "practice-questions"
 subject: "mathematics"
@@ -29,7 +29,7 @@ reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379).
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover Unit D1 (Decision Mathematics 1), section 3, topics 3.1 to 3.4, of the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (YMA01), Issue 3, April 2019. The specification states that D1 is optional for IAS Mathematics and Further Mathematics and for IAL Mathematics and Further Mathematics. Revise first with the [study guide](/resources/edexcel-ial-mathematics-route-inspection-chinese-postman-and-the-travelling/) or the [revision notes](/resources/edexcel-ial-mathematics-route-inspection-chinese-postman-and-the-travelling-revision-notes/). Course pages: the [Edexcel A Level Mathematics hub](/boards/edexcel/a-level/mathematics/) and the [printable checklist](/checklists/edexcel/a-level/mathematics/). Not sure which topics to start with? Take a [free 10-minute diagnostic](/diagnostics/). Show each step of every algorithm.
+These questions cover Unit D1 (Decision Mathematics 1), section 3, topics 3.1 to 3.4, of the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (YMA01), Issue 3, April 2019. The specification states that D1 is optional for IAS Mathematics and Further Mathematics and for IAL Mathematics and Further Mathematics. Revise first with the [study guide](/resources/edexcel-ial-mathematics-route-inspection-chinese-postman-and-the-travelling/) or the [revision notes](/resources/edexcel-ial-mathematics-route-inspection-chinese-postman-and-the-travelling-revision-notes/). Course pages: the [Pearson Edexcel International A Level Mathematics hub](/boards/edexcel/a-level/mathematics/) and the [printable checklist](/checklists/edexcel/a-level/mathematics/). Not sure which topics to start with? Take a [free 10-minute diagnostic](/diagnostics/). Show each step of every algorithm.
 
 ## Questions
 
@@ -176,7 +176,7 @@ No. The route length is the total weight of every edge in the network plus the s
 
 - Review the [revision notes](/resources/edexcel-ial-mathematics-route-inspection-chinese-postman-and-the-travelling-revision-notes/)
 - Reread the [study guide](/resources/edexcel-ial-mathematics-route-inspection-chinese-postman-and-the-travelling/)
-- Back to the [Edexcel A Level Mathematics hub](/boards/edexcel/a-level/mathematics/)
+- Back to the [Pearson Edexcel International A Level Mathematics hub](/boards/edexcel/a-level/mathematics/)
 - Track progress on the [printable checklist](/checklists/edexcel/a-level/mathematics/)
 - Take [all free 10-minute diagnostics](/diagnostics/)
 - [Book a free trial class](/trial/)

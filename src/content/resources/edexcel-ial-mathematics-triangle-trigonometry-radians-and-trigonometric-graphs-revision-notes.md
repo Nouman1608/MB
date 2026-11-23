@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Triangle trig, radians and trig graphs (YMA01) -- Revision Notes"
+title: "Pearson Edexcel International A Level Mathematics: Triangle trig, radians and trig graphs (YMA01) -- Revision Notes"
 seoTitle: "Edexcel IAL Maths P1 Trig and Radians Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics"
@@ -25,7 +25,7 @@ reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379).
 ---
 These revision notes condense Unit P1 topics 3.1 to 3.3 of the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (Issue 3, April 2019): sine and cosine rules, radians, and trigonometric graphs. P1 is a compulsory unit for IAS Mathematics and IAL Mathematics, as the specification states. For full explanations and worked examples, read the [study guide](/resources/edexcel-ial-mathematics-triangle-trigonometry-radians-and-trigonometric-graphs/). Then try the [practice questions](/resources/edexcel-ial-mathematics-triangle-trigonometry-radians-and-trigonometric-graphs-practice/).
 
-Links: [Edexcel A Level Mathematics hub](/boards/edexcel/a-level/mathematics/), [printable checklist](/checklists/edexcel/a-level/mathematics/), [P1 revision notes](/resources/edexcel-a-level-mathematics-pure1-revision-notes/), [free diagnostics](/diagnostics/).
+Links: [Pearson Edexcel International A Level Mathematics hub](/boards/edexcel/a-level/mathematics/), [printable checklist](/checklists/edexcel/a-level/mathematics/), [P1 revision notes](/resources/edexcel-a-level-mathematics-pure1-revision-notes/), [free diagnostics](/diagnostics/).
 
 ## 3.1 Triangles: formulae at a glance
 

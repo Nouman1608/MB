@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Models and data (YMA01) -- Practice Questions"
+title: "Pearson Edexcel International A Level Mathematics: Models and data (YMA01) -- Practice Questions"
 seoTitle: "Edexcel IAL Maths S1 Data Summary Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics"

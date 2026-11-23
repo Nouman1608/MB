@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Probability, and correlation and regression (YMA01) -- Practice Questions"
+title: "Pearson Edexcel International A Level Mathematics: Probability, and correlation and regression (YMA01) -- Practice Questions"
 seoTitle: "Edexcel IAL Maths Probability, Regression Practice"
 resourceType: "practice-questions"
 subject: "mathematics"

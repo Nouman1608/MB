@@ -1,5 +1,5 @@
 ---
-title: "Edexcel International A Level Mathematics (YMA01): Correlation and regression -- Practice Questions"
+title: "Pearson Edexcel International A Level Mathematics (YMA01): Correlation and regression -- Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics"
 level: ["a-levels"]

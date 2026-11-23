@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Models and data summary (YMA01) -- Revision Notes"
+title: "Pearson Edexcel International A Level Mathematics: Models and data summary (YMA01) -- Revision Notes"
 seoTitle: "Edexcel IAL Maths S1 Data Summary Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics"

@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: The Normal distribution (YMA01)"
+title: "Pearson Edexcel International A Level Mathematics: The Normal distribution (YMA01)"
 seoTitle: "Edexcel IAL Maths Normal Distribution Study Guide"
 resourceType: "study-guides"
 subject: "mathematics"
@@ -26,7 +26,7 @@ reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379).
 
 This study guide follows the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (YMA01), Specification Issue 3, April 2019. It covers section 6 of the Statistics 1 (S1) content, "The Normal distribution", which the specification numbers 5.1. The specification states that S1 is an optional unit for IAS Mathematics and Further Mathematics and for IAL Mathematics and Further Mathematics.
 
-Use it with the [revision notes](/resources/edexcel-ial-mathematics-the-normal-distribution-standardising-tables-and-revision-notes/) and the [practice questions](/resources/edexcel-ial-mathematics-the-normal-distribution-standardising-tables-and-practice/). Course pages: [Edexcel A Level Mathematics hub](/boards/edexcel/a-level/mathematics/), the [printable checklist](/checklists/edexcel/a-level/mathematics/), and the earlier statistics page on [statistical models and representing data](/resources/edexcel-ial-mathematics-statistical-models-and-the-representation-and-summary/). To find out where you stand first, try the [free diagnostics](/diagnostics/).
+Use it with the [revision notes](/resources/edexcel-ial-mathematics-the-normal-distribution-standardising-tables-and-revision-notes/) and the [practice questions](/resources/edexcel-ial-mathematics-the-normal-distribution-standardising-tables-and-practice/). Course pages: [Pearson Edexcel International A Level Mathematics hub](/boards/edexcel/a-level/mathematics/), the [printable checklist](/checklists/edexcel/a-level/mathematics/), and the earlier statistics page on [statistical models and representing data](/resources/edexcel-ial-mathematics-statistical-models-and-the-representation-and-summary/). To find out where you stand first, try the [free diagnostics](/diagnostics/).
 
 ## What the specification asks for
 

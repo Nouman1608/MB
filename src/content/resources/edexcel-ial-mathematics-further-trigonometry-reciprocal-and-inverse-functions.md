@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Further trigonometry and R-formulae (YMA01)"
+title: "Pearson Edexcel International A Level Mathematics: Further trigonometry and R-formulae (YMA01)"
 seoTitle: "Edexcel IAL Maths P3: Further Trigonometry Study Guide"
 resourceType: "study-guides"
 subject: "mathematics"
@@ -25,7 +25,7 @@ reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379).
 ---
 This guide follows the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics, Further Mathematics and Pure Mathematics specification (Issue 3, April 2019). It covers Unit P3 section 2 (topics 2.1 to 2.3): reciprocal and inverse trigonometric functions, the identities for sec² and cosec², and the double angle, compound angle and a cos θ + b sin θ results. The specification lists P3 and P4 as compulsory for IAL Mathematics and Pure Mathematics only. It gives IAS weighting as N/A, so P3 sits outside IAS.
 
-Pair this guide with the [revision notes](/resources/edexcel-ial-mathematics-further-trigonometry-reciprocal-and-inverse-functions-revision-notes/) and the [practice set](/resources/edexcel-ial-mathematics-further-trigonometry-reciprocal-and-inverse-functions-practice/). Earlier trigonometry is in the [P1 triangle trigonometry guide](/resources/edexcel-ial-mathematics-triangle-trigonometry-radians-and-trigonometric-graphs/) and the [P2 revision notes](/resources/edexcel-a-level-mathematics-pure2-revision-notes/). Course hub: [Edexcel A Level Mathematics](/boards/edexcel/a-level/mathematics/). Printable [checklist](/checklists/edexcel/a-level/mathematics/). If you are unsure where to begin, a [free 10-minute diagnostic](/diagnostics/) will point you to your gaps.
+Pair this guide with the [revision notes](/resources/edexcel-ial-mathematics-further-trigonometry-reciprocal-and-inverse-functions-revision-notes/) and the [practice set](/resources/edexcel-ial-mathematics-further-trigonometry-reciprocal-and-inverse-functions-practice/). Earlier trigonometry is in the [P1 triangle trigonometry guide](/resources/edexcel-ial-mathematics-triangle-trigonometry-radians-and-trigonometric-graphs/) and the [P2 revision notes](/resources/edexcel-a-level-mathematics-pure2-revision-notes/). Course hub: [Pearson Edexcel International A Level Mathematics](/boards/edexcel/a-level/mathematics/). Printable [checklist](/checklists/edexcel/a-level/mathematics/). If you are unsure where to begin, a [free 10-minute diagnostic](/diagnostics/) will point you to your gaps.
 
 ## What this unit covers
 

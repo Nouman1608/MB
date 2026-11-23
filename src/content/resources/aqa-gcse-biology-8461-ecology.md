@@ -322,7 +322,7 @@ Because so little biomass passes up, less biomass is available at each higher le
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-human-influences-on-ecosystems--07-fish-net-mesh-size.webp" width="900" height="895" alt="Extended. Two side views of a net. With a small mesh both young and adult fish are caught. With a large mesh the gaps are bigger than young fish but smaller than adults, so young fish escape and survive to breed." loading="lazy">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-human-influences-on-ecosystems--07-fish-net-mesh-size.webp" width="900" height="895" alt="Two side views of a net. With a small mesh both young and adult fish are caught. With a large mesh the gaps are bigger than young fish but smaller than adults, so young fish escape and survive to breed." loading="lazy">
   <figcaption>A larger mesh lets young fish escape so they survive to breed.</figcaption>
 </figure>
 

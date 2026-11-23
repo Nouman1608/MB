@@ -338,12 +338,12 @@ Divide by the starting value (68), not the final one.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--08-heart-rate-exercise.webp" width="900" height="1130" alt="Bar chart from the lesson worked example: mean resting rate 74 beats per minute, mean after exercise 118, an increase of 44 (59 per cent). Extended panel: active muscles respire faster, need more oxygen and glucose and produce more carbon dioxide, so the heart rate rises to supply and remove them faster." loading="lazy">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-transport-in-animals--08-heart-rate-exercise.webp" width="900" height="1130" alt="Bar chart from the lesson worked example: mean resting rate 74 beats per minute, mean after exercise 118, an increase of 44 (59 per cent). Further panel: active muscles respire faster, need more oxygen and glucose and produce more carbon dioxide, so the heart rate rises to supply and remove them faster." loading="lazy">
   <figcaption>After exercise the mean heart rate rose from 74 to 118 beats per minute, a 59% increase.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--05-oxygen-debt.webp" width="900" height="1290" alt="Extended. Lactic acid built up in the muscles is carried by the blood, driven by a fast heart rate, to the liver, where it is broken down by aerobic respiration using extra oxygen supplied by deeper, faster breathing. Charts of the cyclist example show heart rate 64, 172, 118, 66 and breathing rate 14, 40, 26, 15 at rest, end of sprint, 5 and 15 minutes after." loading="lazy">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-respiration--05-oxygen-debt.webp" width="900" height="1290" alt="Lactic acid built up in the muscles is carried by the blood, driven by a fast heart rate, to the liver, where it is broken down by aerobic respiration using extra oxygen supplied by deeper, faster breathing. Charts of the cyclist example show heart rate 64, 172, 118, 66 and breathing rate 14, 40, 26, 15 at rest, end of sprint, 5 and 15 minutes after." loading="lazy">
   <figcaption>Fast heart rate moves lactic acid to the liver and fast breathing supplies the oxygen to break it down.</figcaption>
 </figure>
 

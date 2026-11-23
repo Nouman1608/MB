@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Indices, surds and quadratics (YMA01) -- Practice Questions"
+title: "Pearson Edexcel International A Level Mathematics: Indices, surds and quadratics (YMA01) -- Practice Questions"
 seoTitle: "Edexcel IAL Maths P1 Indices, Surds, Quadratics Practice"
 resourceType: "practice-questions"
 subject: "mathematics"
@@ -190,7 +190,7 @@ When a question asks for an exact answer or a form such as a + b√c, a decimal 
 
 - Recap the methods with the [revision notes](/resources/edexcel-ial-mathematics-indices-surds-and-quadratics-functions-discriminant-revision-notes/).
 - Re-read the worked examples in the [study guide](/resources/edexcel-ial-mathematics-indices-surds-and-quadratics-functions-discriminant/).
-- Tick off the topic on the [printable checklist](/checklists/edexcel/a-level/mathematics/) and browse the [Edexcel A Level Mathematics hub](/boards/edexcel/a-level/mathematics/).
+- Tick off the topic on the [printable checklist](/checklists/edexcel/a-level/mathematics/) and browse the [Pearson Edexcel International A Level Mathematics hub](/boards/edexcel/a-level/mathematics/).
 - Find your weak spots with the [free 10-minute diagnostics](/diagnostics/).
 - Want help from a tutor? [Book a free trial class](/trial/).
 

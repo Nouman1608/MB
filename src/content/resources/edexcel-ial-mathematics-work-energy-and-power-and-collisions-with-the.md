@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Work, energy and power, and collisions with the coefficient of restitution (YMA01)"
+title: "Pearson Edexcel International A Level Mathematics: Work, energy and power, and collisions with the coefficient of restitution (YMA01)"
 seoTitle: "Edexcel IAL Maths M2 Work, Energy and Collisions Guide"
 resourceType: "study-guides"
 subject: "mathematics"

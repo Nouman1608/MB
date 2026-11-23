@@ -1,5 +1,5 @@
 ---
-title: "Edexcel International A Level Mathematics (YMA01): M1 Vectors in mechanics"
+title: "Pearson Edexcel International A Level Mathematics (YMA01): M1 Vectors in mechanics"
 resourceType: "study-guides"
 subject: "mathematics"
 level: ["a-levels"]

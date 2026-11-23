@@ -1,5 +1,5 @@
 ---
-title: "Edexcel International A Level Mathematics (YMA01): Numerical methods (P3.6)"
+title: "Pearson Edexcel International A Level Mathematics (YMA01): Numerical methods (P3.6)"
 resourceType: "study-guides"
 subject: "mathematics"
 level: ["a-levels"]

@@ -70,7 +70,7 @@ You may draw benzene as a Kekulé hexagon or a hexagon with a circle (the π-sys
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--09-synthesis-route.webp" width="900" height="1120" alt="Seven structures joined by six arrows: benzene, nitrobenzene, phenylamine, benzenediazonium chloride, phenol, 4-nitrophenol and 4-nitrophenyl ethanoate, each arrow labelled with reaction type and reagents. Step 5 also gives 2-nitrophenol as a by-product." loading="lazy">
-  <figcaption>Six reactions turn benzene into 4-nitrophenyl ethanoate. (Cambridge only)</figcaption>
+  <figcaption>Six reactions turn benzene into 4-nitrophenyl ethanoate.</figcaption>
 </figure>
 
 
@@ -252,7 +252,7 @@ Order matters in synthesis (6.2.5): the right sequence gives the target isomer a
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-aromatic-chemistry--06-directing-effects.webp" width="900" height="1000" alt="Numbered benzene rings: OH (also NH2, CH3) directs to positions 2, 4, 6 and NO2 directs to 3 and 5. Phenol with dilute HNO3 gives 2- and 4-nitrophenol; nitrobenzene gives 1,3-dinitrobenzene." loading="lazy">
-  <figcaption>OH, NH2 and CH3 direct to 2, 4 and 6; NO2 directs to 3 and 5. (OCR and Cambridge)</figcaption>
+  <figcaption>OH, NH2 and CH3 direct to 2, 4 and 6; NO2 directs to 3 and 5.</figcaption>
 </figure>
 
 

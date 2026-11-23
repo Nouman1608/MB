@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Momentum and impulse, equilibrium of a particle and moments (YMA01) -- Practice Questions"
+title: "Pearson Edexcel International A Level Mathematics: Momentum and impulse, equilibrium of a particle and moments (YMA01) -- Practice Questions"
 seoTitle: "Edexcel IAL Maths M1 Momentum and Moments Practice"
 resourceType: "practice-questions"
 subject: "mathematics"
@@ -162,7 +162,7 @@ Use the perpendicular distance from the pivot to the line of action of the force
 
 - Review the [revision notes](/resources/edexcel-ial-mathematics-momentum-and-impulse-equilibrium-of-a-particle-and-revision-notes/) for the key results and methods.
 - Reread the [study guide](/resources/edexcel-ial-mathematics-momentum-and-impulse-equilibrium-of-a-particle-and/) for the worked examples behind each topic.
-- Return to the [Edexcel A Level Mathematics hub](/boards/edexcel/a-level/mathematics/) and tick topics on the [checklist](/checklists/edexcel/a-level/mathematics/).
+- Return to the [Pearson Edexcel International A Level Mathematics hub](/boards/edexcel/a-level/mathematics/) and tick topics on the [checklist](/checklists/edexcel/a-level/mathematics/).
 - Take one of the [free 10-minute diagnostics](/diagnostics/) to find the next gap.
 - [Book a free trial class](/trial/) if you want help from a teacher.
 

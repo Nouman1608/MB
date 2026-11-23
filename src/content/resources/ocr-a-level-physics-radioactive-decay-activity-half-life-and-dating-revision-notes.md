@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-23: dice lambda unit and decay table headers clarified (audit C12)"
 ---
 These notes condense section 6.4.3 (Radioactivity), statements (a) to (h), of the OCR Advanced GCE in Physics A (H556) specification, Version 3.0 (March 2026), for first assessment in 2017. H556 is the full A level. For explanations and longer worked examples, read the [study guide](/resources/ocr-a-level-physics-radioactive-decay-activity-half-life-and-dating/), then use the [practice set](/resources/ocr-a-level-physics-radioactive-decay-activity-half-life-and-dating-practice/). The course hub is [OCR A Level Physics](/boards/ocr/a-level/physics/), the printable list is the [checklist](/checklists/ocr/a-level/physics/), and the [free 10-minute diagnostics](/diagnostics/) find gaps.
 
@@ -83,7 +83,7 @@ Expect a sharp cut-off for α and β and an exponential fall for γ. Safety: ton
 
 ## 6.4.3(c) Decay equations
 
-| Decay | A | Z | Particle emitted |
+| Decay | Change in A (nucleon number) | Change in Z (proton number) | Particle emitted |
 |---|---|---|---|
 | α | −4 | −2 | ⁴₂α |
 | β⁻ | 0 | +1 | ⁰₋₁e with antineutrino |
@@ -117,7 +117,7 @@ Measuring a half-life:
 ## 6.4.3(f) Exponential decay and dice
 
 - Dice: each die has a probability p of "decaying" per throw. The expected survivors after n throws are N₀(1 − p)ⁿ, so λ = −ln(1 − p) per throw.
-- For p = 1/6, λ = 0.182 and t½ = 3.8 throws.
+- For p = 1/6, λ = −ln(5/6) = 0.182 per throw (throw⁻¹) and t½ = ln 2 ÷ λ = 3.8 throws.
 - λ is close to p only when p is small.
 
 ## 6.4.3(g) Graphs and spreadsheet

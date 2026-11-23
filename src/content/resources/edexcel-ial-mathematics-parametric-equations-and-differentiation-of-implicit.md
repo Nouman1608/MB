@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Parametric and implicit differentiation (YMA01)"
+title: "Pearson Edexcel International A Level Mathematics: Parametric and implicit differentiation (YMA01)"
 seoTitle: "Edexcel IAL Maths Parametric and Implicit Differentiation"
 resourceType: "study-guides"
 subject: "mathematics"

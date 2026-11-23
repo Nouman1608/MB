@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Inequalities, polynomials and graphs (YMA01) -- Practice Questions"
+title: "Pearson Edexcel International A Level Mathematics: Inequalities, polynomials and graphs (YMA01) -- Practice Questions"
 seoTitle: "Edexcel IAL Maths P1 Inequalities & Graphs Practice"
 resourceType: "practice-questions"
 subject: "mathematics"
@@ -32,7 +32,7 @@ reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379).
 
 These questions cover Unit P1: Pure Mathematics 1, topics 1.6 to 1.12 of the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (YMA01), Issue 3, April 2019. The specification makes P1 and P2 compulsory for IAS Mathematics, IAL Mathematics and IAL Pure Mathematics. Read the [study guide](/resources/edexcel-ial-mathematics-simultaneous-equations-inequalities-polynomials-graph/) first, or use the [revision notes](/resources/edexcel-ial-mathematics-simultaneous-equations-inequalities-polynomials-graph-revision-notes/) for a quick refresher.
 
-Course pages: the [Edexcel A Level Mathematics hub](/boards/edexcel/a-level/mathematics/), the [printable checklist](/checklists/edexcel/a-level/mathematics/) and the [free 10-minute diagnostics](/diagnostics/). For sketches, label intercepts, turning points given in the question and asymptote equations.
+Course pages: the [Pearson Edexcel International A Level Mathematics hub](/boards/edexcel/a-level/mathematics/), the [printable checklist](/checklists/edexcel/a-level/mathematics/) and the [free 10-minute diagnostics](/diagnostics/). For sketches, label intercepts, turning points given in the question and asymptote equations.
 
 ## Questions
 
@@ -169,7 +169,7 @@ Write them as two inequalities joined by "or", such as x < −2 or x > 3. Combin
 ## Next steps
 
 - Review the [revision notes](/resources/edexcel-ial-mathematics-simultaneous-equations-inequalities-polynomials-graph-revision-notes/) and the [study guide](/resources/edexcel-ial-mathematics-simultaneous-equations-inequalities-polynomials-graph/).
-- Go to the [Edexcel A Level Mathematics hub](/boards/edexcel/a-level/mathematics/) and the [printable checklist](/checklists/edexcel/a-level/mathematics/).
+- Go to the [Pearson Edexcel International A Level Mathematics hub](/boards/edexcel/a-level/mathematics/) and the [printable checklist](/checklists/edexcel/a-level/mathematics/).
 - Take the [free 10-minute diagnostics](/diagnostics/) to find weak topics.
 - [Book a free trial class](/trial/).
 

@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Vectors, lines and the scalar product (YMA01) -- Revision Notes"
+title: "Pearson Edexcel International A Level Mathematics: Vectors, lines and the scalar product (YMA01) -- Revision Notes"
 seoTitle: "Edexcel IAL Maths P4 Vectors Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics"

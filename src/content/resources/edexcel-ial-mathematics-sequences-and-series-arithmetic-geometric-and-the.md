@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Sequences and series: arithmetic, geometric and the binomial expansion (YMA01)"
+title: "Pearson Edexcel International A Level Mathematics: Sequences and series: arithmetic, geometric and the binomial expansion (YMA01)"
 seoTitle: "Edexcel IAL Maths Sequences and Series Study Guide"
 resourceType: "study-guides"
 subject: "mathematics"
@@ -26,7 +26,7 @@ reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379).
 
 This guide teaches section 4 (topics 4.1 to 4.5) of Unit P2: Pure Mathematics 2 in the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (YMA01), Issue 3, April 2019. The specification states that P2 is a compulsory unit for both IAS Mathematics and IAL Mathematics (and Pure Mathematics), so there is no optional route around it. The specification also says knowledge of P1 may be tested, so keep your P1 algebra sharp.
 
-Use it with the [revision notes](/resources/edexcel-ial-mathematics-sequences-and-series-arithmetic-geometric-and-the-revision-notes/) and the [practice questions](/resources/edexcel-ial-mathematics-sequences-and-series-arithmetic-geometric-and-the-practice/). For the wider course see the [Edexcel A Level Mathematics hub](/boards/edexcel/a-level/mathematics/), the [printable checklist](/checklists/edexcel/a-level/mathematics/), the [Unit P2 overview](/resources/a-level-edexcel-mathematics-pure-mathematics-2/) and [all free 10-minute diagnostics](/diagnostics/).
+Use it with the [revision notes](/resources/edexcel-ial-mathematics-sequences-and-series-arithmetic-geometric-and-the-revision-notes/) and the [practice questions](/resources/edexcel-ial-mathematics-sequences-and-series-arithmetic-geometric-and-the-practice/). For the wider course see the [Pearson Edexcel International A Level Mathematics hub](/boards/edexcel/a-level/mathematics/), the [printable checklist](/checklists/edexcel/a-level/mathematics/), the [Unit P2 overview](/resources/a-level-edexcel-mathematics-pure-mathematics-2/) and [all free 10-minute diagnostics](/diagnostics/).
 
 ## What the section covers
 

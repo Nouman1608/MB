@@ -1,5 +1,5 @@
 ---
-title: "Edexcel International A Level Mathematics (YMA01): Correlation and regression"
+title: "Pearson Edexcel International A Level Mathematics (YMA01): Correlation and regression"
 resourceType: "study-guides"
 subject: "mathematics"
 level: ["a-levels"]

@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Triangle trig, radians and trig graphs (YMA01) -- Practice Questions"
+title: "Pearson Edexcel International A Level Mathematics: Triangle trig, radians and trig graphs (YMA01) -- Practice Questions"
 seoTitle: "Edexcel IAL Maths P1 Trig and Radians Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics"
@@ -29,7 +29,7 @@ reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379).
 > mark tariffs -- examination boards hold copyright in their own papers. Use
 > these alongside the official past papers from your board or school.
 
-These questions cover Unit P1 topics 3.1 to 3.3 (sine and cosine rules, radian measure, trigonometric graphs) of the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification, Issue 3, April 2019. P1 is compulsory for IAS Mathematics and IAL Mathematics. Learn the content first in the [study guide](/resources/edexcel-ial-mathematics-triangle-trigonometry-radians-and-trigonometric-graphs/) and the [revision notes](/resources/edexcel-ial-mathematics-triangle-trigonometry-radians-and-trigonometric-graphs-revision-notes/). Course hub: [Edexcel A Level Mathematics](/boards/edexcel/a-level/mathematics/). See also the [P1 practice questions](/resources/edexcel-a-level-mathematics-pure1-practice/).
+These questions cover Unit P1 topics 3.1 to 3.3 (sine and cosine rules, radian measure, trigonometric graphs) of the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification, Issue 3, April 2019. P1 is compulsory for IAS Mathematics and IAL Mathematics. Learn the content first in the [study guide](/resources/edexcel-ial-mathematics-triangle-trigonometry-radians-and-trigonometric-graphs/) and the [revision notes](/resources/edexcel-ial-mathematics-triangle-trigonometry-radians-and-trigonometric-graphs-revision-notes/). Course hub: [Pearson Edexcel International A Level Mathematics](/boards/edexcel/a-level/mathematics/). See also the [P1 practice questions](/resources/edexcel-a-level-mathematics-pure1-practice/).
 
 Give angles in degrees to 1 decimal place and lengths to 3 significant figures unless told otherwise. Use radians where an angle is given in radians.
 
@@ -217,7 +217,7 @@ The perimeter of a sector is the arc length plus both radii. For a segment it is
 
 - Revise with the [revision notes](/resources/edexcel-ial-mathematics-triangle-trigonometry-radians-and-trigonometric-graphs-revision-notes/).
 - Re-read the [study guide](/resources/edexcel-ial-mathematics-triangle-trigonometry-radians-and-trigonometric-graphs/).
-- Return to the [Edexcel A Level Mathematics hub](/boards/edexcel/a-level/mathematics/) or the [printable checklist](/checklists/edexcel/a-level/mathematics/).
+- Return to the [Pearson Edexcel International A Level Mathematics hub](/boards/edexcel/a-level/mathematics/) or the [printable checklist](/checklists/edexcel/a-level/mathematics/).
 - Try the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 

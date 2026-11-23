@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Continuous random variables: pdf, cdf, mean, variance, mode, median and quartiles (YMA01) -- Revision Notes"
+title: "Pearson Edexcel International A Level Mathematics: Continuous random variables: pdf, cdf, mean, variance, mode, median and quartiles (YMA01) -- Revision Notes"
 seoTitle: "Edexcel IAL Maths S2 Continuous Random Variables Notes"
 resourceType: "revision-notes"
 subject: "mathematics"

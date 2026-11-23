@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Sorting, packing, spanning trees, Dijkstra (YMA01) -- Practice Questions"
+title: "Pearson Edexcel International A Level Mathematics: Sorting, packing, spanning trees, Dijkstra (YMA01) -- Practice Questions"
 seoTitle: "Edexcel IAL Maths D1 Algorithms Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics"

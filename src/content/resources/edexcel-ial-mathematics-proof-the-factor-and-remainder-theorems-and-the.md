@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Proof, factor theorem and circles (YMA01)"
+title: "Pearson Edexcel International A Level Mathematics: Proof, factor theorem and circles (YMA01)"
 seoTitle: "Edexcel IAL Maths P2: Proof, Factor Theorem, Circles"
 resourceType: "study-guides"
 subject: "mathematics"

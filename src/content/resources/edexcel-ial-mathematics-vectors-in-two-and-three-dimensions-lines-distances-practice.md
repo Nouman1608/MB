@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Vectors, lines and the scalar product (YMA01) -- Practice Questions"
+title: "Pearson Edexcel International A Level Mathematics: Vectors, lines and the scalar product (YMA01) -- Practice Questions"
 seoTitle: "Edexcel IAL Maths P4 Vectors Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics"
@@ -177,7 +177,7 @@ Use only the direction vectors of the lines, not the position vectors. Take the 
 ## Next steps
 
 - Review the [revision notes](/resources/edexcel-ial-mathematics-vectors-in-two-and-three-dimensions-lines-distances-revision-notes/) and the [study guide](/resources/edexcel-ial-mathematics-vectors-in-two-and-three-dimensions-lines-distances/).
-- Go to the [Edexcel A Level Mathematics hub](/boards/edexcel/a-level/mathematics/) and tick off topics on the [checklist](/checklists/edexcel/a-level/mathematics/).
+- Go to the [Pearson Edexcel International A Level Mathematics hub](/boards/edexcel/a-level/mathematics/) and tick off topics on the [checklist](/checklists/edexcel/a-level/mathematics/).
 - Take one of the [free 10-minute diagnostics](/diagnostics/).
 - [Book a free trial class](/trial/).
 

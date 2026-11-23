@@ -1,5 +1,5 @@
 ---
-title: "Edexcel International A Level Mathematics (YMA01): Exponentials and logarithms (P3.3)"
+title: "Pearson Edexcel International A Level Mathematics (YMA01): Exponentials and logarithms (P3.3)"
 resourceType: "study-guides"
 subject: "mathematics"
 level: ["a-levels"]

@@ -162,7 +162,7 @@ The cell cycle consists of growth and DNA replication, then mitosis, then cytopl
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--04-mitosis-vs-meiosis.webp" width="900" height="1260" alt="Extended. A diploid cell with four chromosomes (two pairs) divides by mitosis into two identical cells with four chromosomes each, or by meiosis into four different cells with two chromosomes each. Fertilisation joins two haploid gametes to restore the diploid number; in humans 23 + 23 = 46." loading="lazy">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--04-mitosis-vs-meiosis.webp" width="900" height="1260" alt="A diploid cell with four chromosomes (two pairs) divides by mitosis into two identical cells with four chromosomes each, or by meiosis into four different cells with two chromosomes each. Fertilisation joins two haploid gametes to restore the diploid number; in humans 23 + 23 = 46." loading="lazy">
   <figcaption>Mitosis keeps the chromosome number; meiosis halves it, and fertilisation restores it.</figcaption>
 </figure>
 
@@ -201,12 +201,12 @@ Substances move into and out of cells by three processes, distinguished by what 
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--03-osmosis.webp" width="900" height="960" alt="A container split by a membrane with small gaps. Dilute solution (many water molecules, 3 solute particles) on the left, concentrated solution (fewer water molecules, 11 solute particles) on the right. Solute is too big to pass; arrows show water moving to the concentrated side. An Extended card gives the water potential wording: higher on the dilute side, lower on the concentrated side." loading="lazy">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--03-osmosis.webp" width="900" height="960" alt="A container split by a membrane with small gaps. Dilute solution (many water molecules, 3 solute particles) on the left, concentrated solution (fewer water molecules, 11 solute particles) on the right. Solute is too big to pass; arrows show water moving to the concentrated side." loading="lazy">
   <figcaption>Water moves through the membrane from the dilute to the concentrated solution; solute particles cannot pass.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--06-active-transport.webp" width="900" height="1120" alt="A membrane separates low concentration (top) from high concentration (bottom). Step 1: a particle binds a carrier protein facing the low side. Step 2: energy from respiration changes the carrier and the particle is released on the high side, so it moves against the gradient. Extended: protein carriers, for example ion uptake by root hairs." loading="lazy">
+  <img src="https://img.marlbridge.com/igcse-biology-movement-into-and-out-of-cells--06-active-transport.webp" width="900" height="1120" alt="A membrane separates low concentration (top) from high concentration (bottom). Step 1: a particle binds a carrier protein facing the low side. Step 2: energy from respiration changes the carrier and the particle is released on the high side, so it moves against the gradient. Also shown: protein carriers, for example ion uptake by root hairs." loading="lazy">
   <figcaption>Active transport moves particles from low to high concentration using energy from respiration.</figcaption>
 </figure>
 

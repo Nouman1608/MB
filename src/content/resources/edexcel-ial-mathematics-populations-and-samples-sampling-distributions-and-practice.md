@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Samples and hypothesis tests (YMA01) -- Practice Questions"
+title: "Pearson Edexcel International A Level Mathematics: Samples and hypothesis tests (YMA01) -- Practice Questions"
 seoTitle: "Edexcel IAL Maths S2 Hypothesis Tests Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics"

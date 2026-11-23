@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-23: brackets in Q11 working corrected (audit C7)"
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -136,9 +136,9 @@ Links: [study guide](/resources/ocr-a-level-physics-capacitance-capacitor-combin
 **(c)** W = ½QV: 6.0 µF: ½ × 24 × 4.0 = 48 µJ; 3.0 µF: ½ × 24 × 8.0 = 96 µJ, which is twice 48 µJ [1]. Total = 144 µJ, and ½CV² = 0.5 × 2.0 × 10⁻⁶ × 12² = 144 µJ [1]. **[6]**
 *Examiner insight:* On a "show that" question, give both energies and the final comparison. Saying "the answers match" demonstrates nothing.
 
-**11. (a)** W = ½V²C, so V = √(2W/C) [1] = √(2 × 15 / 0.90 × 10⁻³) [1] = **1.8 × 10² V** (183 V) [1].
+**11. (a)** W = ½V²C, so V = √(2W/C) [1] = √(2 × 15 / (0.90 × 10⁻³)) [1] = **1.8 × 10² V** (183 V) [1].
 **(b)** It can release its stored energy in a very short time [1], giving a high-power pulse that a small battery could not supply directly [1].
-**(c)** P = W/t = 15 / 2.0 × 10⁻³ [1] = **7.5 × 10³ W** [1]. **[7]**
+**(c)** P = W/t = 15 / (2.0 × 10⁻³) [1] = **7.5 × 10³ W** [1]. **[7]**
 *Examiner insight:* Use the energy equation containing W and C, and rearrange before substituting.
 
 ## Where marks are usually lost

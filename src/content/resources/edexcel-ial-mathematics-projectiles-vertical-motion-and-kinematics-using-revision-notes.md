@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Projectiles, vertical motion and kinematics using calculus and vectors (YMA01) -- Revision Notes"
+title: "Pearson Edexcel International A Level Mathematics: Projectiles, vertical motion and kinematics using calculus and vectors (YMA01) -- Revision Notes"
 seoTitle: "Edexcel IAL Maths M2 Projectiles Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics"

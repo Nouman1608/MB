@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Exponential, reciprocal and trig integration (YMA01) -- Practice Questions"
+title: "Pearson Edexcel International A Level Mathematics: Exponential, reciprocal and trig integration (YMA01) -- Practice Questions"
 seoTitle: "Edexcel IAL Maths P3 Integration Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics"

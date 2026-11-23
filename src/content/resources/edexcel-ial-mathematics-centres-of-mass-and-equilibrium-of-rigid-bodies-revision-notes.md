@@ -1,5 +1,5 @@
 ---
-title: "Pearson Edexcel International Advanced Level Mathematics: Centres of mass and rigid body equilibrium (YMA01) -- Revision Notes"
+title: "Pearson Edexcel International A Level Mathematics: Centres of mass and rigid body equilibrium (YMA01) -- Revision Notes"
 seoTitle: "Edexcel IAL Maths M2 Centres of Mass Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics"

@@ -126,12 +126,12 @@ rather than a list of unordered facts.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--04-resistance-develops.webp" width="900" height="1290" alt="Extended. Four steps of natural selection in bacteria: one of ten bacteria has a random mutation making it resistant; the antibiotic kills the nine non-resistant ones; the survivor divides and passes on the gene; later all bacteria are resistant and the antibiotic no longer works." loading="lazy">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--04-resistance-develops.webp" width="900" height="1290" alt="Four steps of natural selection in bacteria: one of ten bacteria has a random mutation making it resistant; the antibiotic kills the nine non-resistant ones; the survivor divides and passes on the gene; later all bacteria are resistant and the antibiotic no longer works." loading="lazy">
   <figcaption>The antibiotic selects resistant bacteria that already exist; it does not cause the mutation.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--05-only-when-essential.webp" width="900" height="1010" alt="Extended. A cold or flu (virus) and a minor bacterial infection the body clears itself do not need antibiotics; a serious bacterial infection does. Fewer uses mean fewer chances to select resistant bacteria, so antibiotics keep working." loading="lazy">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--05-only-when-essential.webp" width="900" height="1010" alt="A cold or flu (virus) and a minor bacterial infection the body clears itself do not need antibiotics; a serious bacterial infection does. Fewer uses mean fewer chances to select resistant bacteria, so antibiotics keep working." loading="lazy">
   <figcaption>Using antibiotics only when essential gives resistant bacteria fewer chances to be selected.</figcaption>
 </figure>
 
@@ -247,12 +247,12 @@ ion deficiencies and plant defence responses are still required content.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--04-antigen.webp" width="900" height="1090" alt="Extended. A pathogen has antigens with specific shapes. An antibody with a complementary shape fits and binds them; an antigen of a different shape does not fit, so there is no binding. Binding leads to direct destruction of the pathogen, or to marking it for destruction by a phagocyte." loading="lazy">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--04-antigen.webp" width="900" height="1090" alt="A pathogen has antigens with specific shapes. An antibody with a complementary shape fits and binds them; an antigen of a different shape does not fit, so there is no binding. Binding leads to direct destruction of the pathogen, or to marking it for destruction by a phagocyte." loading="lazy">
   <figcaption>An antibody binds only the antigen whose shape is complementary to it.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--05-vaccination-memory.webp" width="900" height="1130" alt="Extended. Three steps: weakened pathogens or antigens go in; lymphocytes make antibodies; memory cells give long-term immunity. A sketch graph of antibody level against time shows a slow, small first response and, on meeting the same pathogen again, a fast, large second response." loading="lazy">
+  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--05-vaccination-memory.webp" width="900" height="1130" alt="Three steps: weakened pathogens or antigens go in; lymphocytes make antibodies; memory cells give long-term immunity. A sketch graph of antibody level against time shows a slow, small first response and, on meeting the same pathogen again, a fast, large second response." loading="lazy">
   <figcaption>Memory cells make the second response faster and larger.</figcaption>
 </figure>
 

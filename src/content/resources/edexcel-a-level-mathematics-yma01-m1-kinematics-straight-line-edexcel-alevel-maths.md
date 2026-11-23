@@ -1,5 +1,5 @@
 ---
-title: "Edexcel International A Level Mathematics (YMA01): M1 Kinematics of a particle moving in a straight line"
+title: "Pearson Edexcel International A Level Mathematics (YMA01): M1 Kinematics of a particle moving in a straight line"
 resourceType: "study-guides"
 subject: "mathematics"
 level: ["a-levels"]
