@@ -28,4 +28,9 @@ Counts below were computed from the data by running the page's own logic (`cours
 - `combination-resources.ts` and `course-topics.ts`: import specifiers now carry `.ts` (as `course-codes.ts` already does) so the check script can run them in node; no behaviour change.
 
 ## Verification run
-See bottom of this file (updated at commit time).
+Run on the final tree (after T19):
+- validate-assessments, validate-cross-board-integrity, validate-as-level-display, validate-resource-titles, validate-academic-content, validate-academic-matrix: all pass.
+- assessment-faq unit tests: 10/10 pass (one new, two old expectations updated for P4).
+- validate-course-consistency (new, wired into validate:academic after validate-resource-titles): "166 courses, 18318 resources; hard problems 0, new [5] findings 0, baselined 62", exit 0. Runtime about 2-3 minutes cold (front matter only is read).
+- Seeded mismatch (`--seed-mismatch` adds one fake resource and one fake topic to cambridge/igcse/chemistry): detected, "[1] cambridge/igcse/chemistry: page says 210 resources but lists 211" and "[2] cambridge/igcse/chemistry: record has 12 topics but the page lists 13". An unbaselined [5] finding or any [1]-[4] problem exits 1.
+- NOT run: full build, astro check (the .astro edits are untested by a compiler or a render; please include them in the lead's build). The 62 baselined [5a] cases are listed in scripts/course-consistency-baseline.json.
