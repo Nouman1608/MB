@@ -191,7 +191,8 @@ test('real banks: every checked file is a practice file in a Foundation/Higher b
   // duplicates of that set's Q7(a), Q6, Q9(c), Q8(b) and Q8(a)) = 591.
   // Re-pinned 20 Nov 2026 (D-514): three 4MA1 practice files (mensuration of 2D shapes, 3D shapes and volume, similarity; 39 questions, 11 Higher-only) checked against the specification: sector arc length and area (4.9), sphere and cone (4.10) and area and volume ratios of similar figures (4.11) are Higher-only. 4MA1: 176 to 187 Higher-only, 591 to 630 total.
   // Re-pinned 20 Nov 2026: the 41 files above add 8462 +390 (228 to 618) and 8300 +36 (150 to 186) questions.
-  assert.deepEqual(totals, { '4MA1': 630, '8461': 480, '8462': 618, '8463': 447, '8300': 186 });
+  // Re-pinned 24 Nov 2026: retiring the duplicate aqa-gcse-chemistry-atomic-structure-practice page (B1 twin retirement, #231) removes its 10 questions, 618 to 608.
+  assert.deepEqual(totals, { '4MA1': 630, '8461': 480, '8462': 608, '8463': 447, '8300': 186 });
 });
 
 /**
