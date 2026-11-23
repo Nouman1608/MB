@@ -16,6 +16,7 @@ import { SYLLABUS_VERSIONS, topicsFor } from '../../../../data/academic/syllabus
 import { boardBySlug } from '../../../../data/academic/boards';
 import { qualificationBySlug } from '../../../../data/academic/qualifications';
 import { subjectBySlug } from '../../../../data/academic/subjects';
+import { deckExamInfo } from '../../../../data/flashcards/exam-years';
 import { courseSubjectNameOverride, ONLINE_ONLY_SUBJECTS } from '../../../../data/academic/matrix';
 import { activeOnly, academicHubPath } from '../../../../utils/academic';
 import { recordRtlLang, nameRtlLang } from '../../../../utils/academic/rtl-names';
@@ -37,10 +38,12 @@ const { board, qualification, subject } = Astro.params as { board: string; quali
 const version = topicsFor(board, qualification, subject);
 if (!version) throw new Error(`No syllabus version for ${board}/${qualification}/${subject}`);
 
+const examLabels = version.syllabusCode.includes('/') ? deckExamInfo(version) : [];
+const codeText = examLabels.length > 1 ? examLabels.map((e) => e.label).join('; ') : version.syllabusCode;
 const boardName = boardBySlug(board)?.name ?? board;
 const qualificationName = qualificationBySlug(qualification)?.name ?? qualification;
 // B15 -- name the course as its hub does (9626 is "Information Technology").
-const subjectName = courseSubjectNameOverride(board, qualification, subject) ?? subjectBySlug(subject)?.name ?? subject;
+const subjectName = (board === 'ib' && qualification === 'ib-dp' && subject === 'world-history' ? 'History' : undefined) ?? courseSubjectNameOverride(board, qualification, subject) ?? subjectBySlug(subject)?.name ?? subject;
 /**
  * D-462 (15 Nov 2026) -- the IB qualification names ("IB Diploma Programme",
  * "IB Middle Years Programme") already name the board, so the <title> said it
@@ -89,7 +92,7 @@ const promptTrialHref = `/trial/?course=${encodeURIComponent(courseKey)}${oneToO
         <span data-pagefind-filter={`Qualification:${qualificationName}`}></span>
       </div>
       <p class="m-0 mb-8 text-[14px] text-ink-mute">
-        Syllabus {version.syllabusCode} &middot; {version.syllabusSeries} &middot; sourced from
+        Syllabus {codeText} &middot; {version.syllabusSeries} &middot; sourced from
         {' '}<a href={version.sourceUrl} class="underline decoration-teal-500 underline-offset-2">{version.source}</a>,
         topic list verified {version.verifiedDate}.
       </p>

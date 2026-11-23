@@ -127,11 +127,11 @@ const topicFilters = Object.fromEntries(Object.entries(topicFilterIndex(clientQu
         <div class="rounded-sm border border-rule bg-ivory p-6">
           <p class="m-0 text-[15px] text-ink">
             This interactive practice session needs JavaScript. Without it, you can still work
-            through the same questions directly in the source resources:
+            through the same {clientQuestions.length} questions directly in the {new Set(clientQuestions.map((q) => q.resourceSlug)).size} source resources below, each with its worked answers:
           </p>
           <ul class="m-0 mt-3 list-disc pl-5 text-[14.5px] text-ink-mute">
             {[...new Set(clientQuestions.map((q) => q.resourceSlug))].map((slug) => (
-              <li><a href={`/resources/${slug}/`} class="underline decoration-teal-500 underline-offset-2">{clientQuestions.find((q) => q.resourceSlug === slug)?.resourceTitle}</a></li>
+              <li><a href={`/resources/${slug}/`} class="underline decoration-teal-500 underline-offset-2">{clientQuestions.find((q) => q.resourceSlug === slug)?.resourceTitle}</a> ({clientQuestions.filter((q) => q.resourceSlug === slug).length} questions)</li>
             ))}
           </ul>
         </div>

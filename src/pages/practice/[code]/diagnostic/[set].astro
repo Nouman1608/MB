@@ -138,7 +138,7 @@ const trialHref = `/trial/?course=${encodeURIComponent(courseId)}&source=diagnos
             <div><dt class="mb-label text-teal-700">Qualification</dt><dd class="m-0 mt-1">{courseTitle}</dd></div>
             <div><dt class="mb-label text-teal-700">Exam board and syllabus</dt><dd class="m-0 mt-1">{c.board} · syllabus {set.code}{topicRecord ? ` (${topicRecord.syllabusSeries})` : ''}</dd></div>
             <div><dt class="mb-label text-teal-700">What it covers</dt><dd class="m-0 mt-1">{set.scopeLabel}: {[...new Set(questions.map((q) => q.topicName))].join(', ')}</dd></div>
-            <div><dt class="mb-label text-teal-700">Length</dt><dd class="m-0 mt-1">{questions.length} questions, {totalMarks} marks, about {set.minutes} minutes</dd></div>
+            <div><dt class="mb-label text-teal-700">Length</dt><dd class="m-0 mt-1">{questions.length} questions on {new Set(questions.map((q) => q.topicSlug)).size} topic{new Set(questions.map((q) => q.topicSlug)).size === 1 ? "" : "s"}, {totalMarks} marks, about {set.minutes} minutes</dd></div>
             <div class="sm:col-span-2"><dt class="mb-label text-teal-700">Who it is for</dt><dd class="m-0 mt-1">{set.audience}</dd></div>
           </dl>
           <button type="button" id="diag-start" class="mt-6 inline-flex min-h-11 items-center justify-center rounded-sm bg-navy-800 px-7 py-3.5 text-[15px] font-medium text-ivory transition-colors hover:bg-navy-700">Start the diagnostic</button>
@@ -150,14 +150,15 @@ const trialHref = `/trial/?course=${encodeURIComponent(courseId)}&source=diagnos
         <aside class="text-[14.5px] leading-[1.6] text-ink-mute">
           <h2 class="m-0 mb-2 text-[16px] font-semibold text-navy-800">How this works</h2>
           <ol class="m-0 grid gap-2 pl-5">
-            <li>Answer each question on paper or in the box. Your typed answers stay on this page only.</li>
+            <li>Answer each question on paper or in the box. Your typed answers stay on this page only: they are not saved and not sent anywhere.</li>
             <li>Then see the worked answers and <strong class="text-ink">mark yourself</strong>. These questions are self-assessed: nothing is marked automatically.</li>
             <li>Get a list of topics to practise, with links to the notes and questions for each one.</li>
           </ol>
           {set.modelledOn && (
             <p class="m-0 mt-4">The questions are original, written to test the skills and the mistakes examiners reported in {set.modelledOn}. No exam-board questions are reproduced. {everyAnswerHasPointer ? 'Each worked answer names the real past-paper question to try next.' : 'Most worked answers name the real past-paper question to try next.'}</p>
           )}
-          <p class="m-0 mt-4"><strong class="text-ink">This is a short study check, not a predicted grade.</strong> One question per topic shows where to look first. It cannot measure a whole topic or forecast an exam result.</p>
+          <p class="m-0 mt-4"><strong class="text-ink">Your answers are not sent or saved.</strong> The marks you award yourself are kept only in this browser, so the practice page and revision planner can use them, and are never sent to Marlbridge. Our analytics records only that a diagnostic was started or finished (course, set, number of questions and a rough time band), never your marks, answers or topics.</p>
+          <p class="m-0 mt-4"><strong class="text-ink">This is a short study check, not a predicted grade.</strong> One or two questions per topic show where to look first. It cannot measure a whole topic or forecast an exam result.</p>
           <p class="m-0 mt-4">The questions come from Marlbridge's published <a href={`/practice/${set.code}/`} class="underline decoration-teal-500 underline-offset-2">{set.code} practice questions</a>, written by {authors.map((a, i) => <>{i > 0 && (i === authors.length - 1 ? ' and ' : ', ')}<a href={routes.author(a!.id)} class="underline decoration-teal-500 underline-offset-2">{a!.data.name}</a></>)}.
             {reviewer
               ? <> This set was reviewed by <a href={routes.author(reviewer.id)} class="underline decoration-teal-500 underline-offset-2">{reviewer.data.name}</a> on {set.setReview!.reviewedOn}.</>
@@ -194,7 +195,7 @@ const trialHref = `/trial/?course=${encodeURIComponent(courseId)}&source=diagnos
       <div id="diag-results" hidden>
         <h2 tabindex="-1" id="diag-results-heading" class="m-0 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Your results</h2>
         <p id="diag-total" class="m-0 mt-2 text-[15.5px] text-ink"></p>
-        <p class="m-0 mt-2 max-w-[70ch] text-[14px] text-ink-mute">A limited study diagnostic from your own marking of {questions.length} questions — one per topic. It shows where to look first. It is not a predicted grade.</p>
+        <p class="m-0 mt-2 max-w-[70ch] text-[14px] text-ink-mute">A limited study diagnostic from your own marking of {questions.length} questions, one or two per topic. It shows where to look first. It is not a predicted grade.</p>
         <div class="mt-6 grid gap-6 lg:grid-cols-[1.4fr_1fr]">
           <div>
             <h3 class="m-0 mb-3 text-[17px] font-semibold text-navy-800">Topics</h3>

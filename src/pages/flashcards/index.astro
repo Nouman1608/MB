@@ -11,11 +11,12 @@ import { activeOnly } from '../../utils/academic';
 import { routes } from '../../utils/urls/routes';
 import { apFlashcardCourses, apFlashcardsPath, apCardsForCourse, apUnitsWithCards } from '../../data/ap-flashcards';
 import { apLibraryBuilt } from '../../data/ap/config';
+import { deckExamInfo } from '../../data/flashcards/exam-years';
 
 const path = '/flashcards/';
 const decks = FLASHCARD_DECKS.flatMap((deck) => {
   const c = activeOnly().find((x) => x.boardSlug === deck.boardSlug && x.qualificationSlug === deck.qualificationSlug && x.subjectSlug === deck.subjectSlug);
-  return c ? [{ deck, c, topics: Object.keys(topicCardCounts(deck)).length }] : [];
+  return c ? [{ deck, c, topics: Object.keys(topicCardCounts(deck)).length, exams: deckExamInfo(deck) }] : [];
 });
 const total = decks.reduce((n, d) => n + d.deck.cards.length, 0);
 
@@ -40,14 +41,18 @@ const families = [...new Set(decks.map((d) => familyOf(d.c.subjectSlug)))]
 // Advanced-course (AP) decks live under the library (src/data/ap-flashcards/); listed only when the library is built.
 // Neutral course names here, so no College Board mark (and no attribution) on this page.
 const apDecks = apLibraryBuilt() ? apFlashcardCourses().map((c) => ({ c, cards: apCardsForCourse(c.slug).length, units: apUnitsWithCards(c.slug).length })) : [];
+// T10 (audit): one source for the headline. Every figure below is counted from the decks listed on this page: the syllabus decks (decks) and the advanced-course decks (apDecks).
+const apCards = apDecks.reduce((n, d) => n + d.cards, 0);
+const apPhrase = apDecks.length > 0 ? `, plus ${apCards.toLocaleString("en-GB")} cards for ${apDecks.length} advanced (US curriculum) courses` : "";
+const grand = total + apCards;
 ---
 <PageLayout
   title="Free Revision Flashcards by Syllabus"
-  description={`Free flashcards written to the official syllabus for ${decks.length} courses, one set per topic and subtopic: ${total.toLocaleString('en-GB')} cards. Study online, track what you know, or print.`}
+  description={`Free flashcards written to the official syllabus: ${total.toLocaleString('en-GB')} cards for ${decks.length} courses${apPhrase}, one set per topic and subtopic (${grand.toLocaleString('en-GB')} cards in all). Study online, track what you know, or print.`}
   path={path}
   eyebrow="Free revision tools"
   heading="Flashcards"
-  lead={`${total.toLocaleString('en-GB')} short question-and-answer cards for ${decks.length} courses, set out by topic and subtopic of each syllabus. Turn a card, say whether you knew it, and the ones you missed come back until you have them.`}
+  lead={`${total.toLocaleString('en-GB')} short question-and-answer cards for ${decks.length} courses${apPhrase}, set out by topic and subtopic of each syllabus. Turn a card, say whether you knew it, and the ones you missed come back until you have them.`}
   breadcrumbs={[
     { label: 'Home', href: routes.home },
     { label: 'Flashcards', href: path },
@@ -68,12 +73,13 @@ const apDecks = apLibraryBuilt() ? apFlashcardCourses().map((c) => ({ c, cards: 
             <div class="mt-5">
               <h3 class="m-0 mb-3 text-[16px] font-semibold text-ink">{q.label}</h3>
               <ul class="m-0 grid list-none gap-3 p-0 sm:grid-cols-2 lg:grid-cols-3">
-                {q.items.map(({ deck, c, topics }) => (
+                {q.items.map(({ deck, c, topics, exams }) => (
                   <li class="m-0">
                     <a href={flashcardsPath(deck)} class="block h-full rounded-sm border border-rule bg-white p-4 no-underline hover:border-teal-500">
                       <span class="mb-label text-teal-700">{c.board}{codeSuffix(deck) && ` · ${deck.syllabusCode}`}</span>
                       <span class="mt-1 block text-[16.5px] font-semibold text-navy-800">{c.qualification} {c.subject}</span>
                       <span class="mt-1 block text-[14px] text-ink-mute">{deck.cards.length} cards · {topics} topic{topics === 1 ? '' : 's'} · {deck.syllabusSeries}</span>
+                      {exams.length > 0 && <span class={`mt-1 block text-[13.5px] ${exams.some((e) => e.outgoing) ? "text-ink font-medium" : "text-ink-mute"}`}>{exams.map((e) => e.label).join("; ")}</span>}
                     </a>
                   </li>
                 ))}
