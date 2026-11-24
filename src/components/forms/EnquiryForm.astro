@@ -80,7 +80,7 @@ const MESSAGE_HINT: Record<TuitionEnquiryKind, string> = {
 
 /**
  * Client-side validation/status strings can't read Astro frontmatter
- * variables directly (the <script> below is a separate module script), so
+ * variables directly (the script element below is a separate module script), so
  * they travel via this data attribute instead, read with JSON.parse. An
  * English page renders no `labels` prop, so `t` is EN_LABELS and this
  * attribute's content is identical to the previous hardcoded English

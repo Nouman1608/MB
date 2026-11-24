@@ -41,6 +41,7 @@ for (const s of data.EXAM_SERIES_KEY_DATES) {
   assert.ok(s.officialSourceUrl.startsWith('https://'), s.seriesLabel);
 }
 assert.ok(data.EXAM_SERIES_KEY_DATES.some((s) => s.seriesLabel === 'May/June 2027'));
+assert.deepEqual(data.examSeriesProblems(), [], 'exam-calendar.ts record problems');
 const rows = data.EXAM_SERIES_KEY_DATES.map((s) => s);
 assert.deepEqual(seriesLabels('2026-11-23', rows).map((x) => x.label), ['Exams over, results pending', 'Next series', 'Later series']);
 console.log('exam-calendar data compiles; all series valid');

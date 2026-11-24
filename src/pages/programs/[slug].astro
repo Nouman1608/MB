@@ -14,7 +14,7 @@ import ProgramTeachers from '../../components/sections/ProgramTeachers.astro';
 import TuitionOptions from '../../components/sections/TuitionOptions.astro';
 import HowTuitionWorks from '../../components/sections/HowTuitionWorks.astro';
 import { TUITION_FAQS } from '../../data/tuition';
-import { PRICING_TERMS, QUALIFICATION_TIER, IB_PRICING, ONE_TO_ONE_ONLY_PRICING } from '../../data/pricing';
+import { PRICING_TERMS, QUALIFICATION_TIER, IB_PRICING, ONE_TO_ONE_ONLY_PRICING, oneToOneOnlyConversionFor } from '../../data/pricing';
 import { getPrograms, availabilityLabel, availabilityTone } from '../../utils/content/collections';
 import { relatedResources } from '../../utils/content/related';
 import { courseNode } from '../../utils/schema/course';
@@ -120,7 +120,9 @@ const isIb = d.level === 'ib';
 // D-391 -- owner, 5 Oct 2026: AP is one-to-one only at Rs 6,000 per class (ONE_TO_ONE_ONLY_PRICING).
 const isAp = d.level === 'ap';
 const feeOnEnquiry = !hasGroupTuition && !isIb && !isAp;
-const apFeeLine = `${ONE_TO_ONE_ONLY_PRICING.symbol} ${ONE_TO_ONE_ONLY_PRICING.perClass.toLocaleString('en-US')} per class in ${ONE_TO_ONE_ONLY_PRICING.region}`;
+// Audit 3 D5: the set USD one-to-one rate (Other countries row, owner-set, D-517) beside the PKR rate.
+const apUsd = oneToOneOnlyConversionFor('Other countries');
+const apFeeLine = `${ONE_TO_ONE_ONLY_PRICING.symbol} ${ONE_TO_ONE_ONLY_PRICING.perClass.toLocaleString('en-US')} per class in ${ONE_TO_ONE_ONLY_PRICING.region}${apUsd?.currency === 'USD' && apUsd.status === 'confirmed' ? ` or ${apUsd.symbol} ${apUsd.perClass.toLocaleString('en-US')} per class in other countries` : ''}`;
 
 const programTuitionFaqs = hasGroupTuition
   ? TUITION_FAQS

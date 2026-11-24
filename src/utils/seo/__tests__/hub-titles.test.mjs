@@ -63,7 +63,8 @@ test('sitemapGroup: every kind of URL has one group', () => {
     '/resources/study-guides/physics/': 'courses',
     '/resources/as-physics-waves/': 'resources',
     '/practice/0625/': 'practice',
-    '/flashcards/cambridge/igcse/physics/forces/': 'practice',
+    // Flashcards have had their own child sitemap since 2e4a50381 (S2, 24 Nov 2026); the test was not updated then.
+    '/flashcards/cambridge/igcse/physics/forces/': 'flashcards',
     '/advanced-course-resources/biology/unit-1/': 'advanced-courses',
     '/authors/hina-mogul/': 'authors',
     '/authors/hina-mogul/resources/': 'author-archives',

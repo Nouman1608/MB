@@ -29,10 +29,12 @@
  *       Grade type; a typo'd key would silently never render.
  *   [6] Required source/verification fields -- every syllabus record must
  *       carry a non-empty officialSourceUrl and verifiedOn date.
+ *   [7] One record per syllabus and series (thresholdProblems in
+ *       grade-thresholds.ts; audit 3 item 44).
  *
  * Run as part of `npm run validate:academic`. Exits 1 on any problem.
  */
-import { GRADE_THRESHOLDS } from '../src/data/academic/grade-thresholds.ts';
+import { GRADE_THRESHOLDS, thresholdProblems } from '../src/data/academic/grade-thresholds.ts';
 
 const A_LEVEL_ORDER = ['A*', 'A', 'B', 'C', 'D', 'E', 'F', 'G'];
 const AS_ORDER = ['a', 'b', 'c', 'd', 'e'];
@@ -122,6 +124,7 @@ for (const syllabus of GRADE_THRESHOLDS) {
   }
 }
 
+for (const p of thresholdProblems()) problems.push(`[7] ${p}`);
 if (problems.length > 0) {
   console.error('Grade-threshold validation FAILED:');
   for (const p of problems) console.error(`  ✗ ${p}`);
