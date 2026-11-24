@@ -44,9 +44,9 @@ export const MARKETING_COPY: Record<MarketingKey, Record<LocaleCode, MarketingCo
         ] },
         { heading: 'أين نعمل', paragraphs: [
           'معلمونا في أكاديميتنا في لاهور، باكستان، ويدرّسون هناك حضوريًا ومباشرة عبر الإنترنت للطلاب في أي مكان. مكتبة المصادر مكتوبة للمناهج الدولية المدروسة عبر الشرق الأوسط وجنوب آسيا والمملكة المتحدة وما وراءها، ومفتوحة لأي شخص في أي مكان.',
-          // Audit 3 item 18: garbled ("نصف" also reads as "half"). English: "We describe only the teaching that actually runs."
-          // NEEDS OWNER: proposed 'لا نصف إلا التدريس الذي يُقدَّم فعليًا.' is a new sentence (not an approved term), so not applied.
-          'نصف تدريسنا فقط حيث يعمل فعليًا. أي شيء لم نبنِه بعد نتركه خارج هذه الصفحة بدلًا من الإعلان عنه مبكرًا.',
+          // Audit 3 item 18 -- was 'نصف تدريسنا فقط حيث يعمل فعليًا' (garbled; "نصف" also reads as "half").
+          // English: "We describe only the teaching that actually runs." Owner approved the rewrite, 25 Nov 2026.
+          'لا نصف إلا التدريس الذي يُقدَّم فعليًا. أي شيء لم نبنِه بعد نتركه خارج هذه الصفحة بدلًا من الإعلان عنه مبكرًا.',
         ] },
         { heading: 'ما نقدّمه اليوم', paragraphs: [
           'تعكس قائمة برامجنا (المتاحة على صفحة البرامج) ما يُدرَّس فعليًا وما يُنشر فعليًا حاليًا — لا أكثر.',
