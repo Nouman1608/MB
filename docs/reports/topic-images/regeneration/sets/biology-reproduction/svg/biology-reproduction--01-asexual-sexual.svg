@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1220" width="900" height="1220" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1220" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">One parent or two?</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">How offspring are made</text>
+<rect x="40" y="130" width="820" height="320" rx="14" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="70" y="176" font-size="24" font-weight="700" fill="#1e2a44" text-anchor="start">Asexual: one parent</text>
+<circle cx="150" cy="290" r="50" fill="#b5d3cf" stroke="#1e2a44" stroke-width="3"/><circle cx="150" cy="290" r="5" fill="#1e2a44" stroke="#1e2a44" stroke-width="1"/>
+<line x1="230" y1="290" x2="352" y2="290" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/>
+<circle cx="452" cy="290" r="40" fill="#b5d3cf" stroke="#1e2a44" stroke-width="3"/><circle cx="452" cy="290" r="5" fill="#1e2a44" stroke="#1e2a44" stroke-width="1"/>
+<circle cx="572" cy="290" r="40" fill="#b5d3cf" stroke="#1e2a44" stroke-width="3"/><circle cx="572" cy="290" r="5" fill="#1e2a44" stroke="#1e2a44" stroke-width="1"/>
+<circle cx="692" cy="290" r="40" fill="#b5d3cf" stroke="#1e2a44" stroke-width="3"/><circle cx="692" cy="290" r="5" fill="#1e2a44" stroke="#1e2a44" stroke-width="1"/>
+<text x="150" y="378" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">1 parent</text>
+<text x="572" y="378" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Genetically identical</text>
+<text x="70" y="420" font-size="19" font-weight="400" fill="#4a5568" text-anchor="start">e.g. bacteria, yeast, potato tubers</text>
+<rect x="40" y="480" width="820" height="700" rx="14" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="70" y="526" font-size="24" font-weight="700" fill="#1e2a44" text-anchor="start">Sexual: two parents</text>
+<circle cx="290" cy="620" r="44" fill="#b5d3cf" stroke="#1e2a44" stroke-width="3"/>
+<circle cx="720" cy="620" r="44" fill="#d4b02e" stroke="#1e2a44" stroke-width="3"/>
+<text x="230" y="628" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="end">Parent 1</text>
+<text x="776" y="628" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Parent 2</text>
+<line x1="290" y1="666" x2="290" y2="718" stroke="#2e6b62" stroke-width="3" marker-end="url(#ahT)"/>
+<line x1="720" y1="666" x2="720" y2="718" stroke="#8a6d0d" stroke-width="3" marker-end="url(#ahO)"/>
+<circle cx="290" cy="750" r="28" fill="#b5d3cf" stroke="#1e2a44" stroke-width="3"/>
+<text x="290" y="758" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">n</text>
+<text x="332" y="758" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">gamete</text>
+<circle cx="720" cy="750" r="28" fill="#d4b02e" stroke="#1e2a44" stroke-width="3"/>
+<text x="720" y="758" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">n</text>
+<text x="678" y="758" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="end">gamete</text>
+<line x1="312" y1="772" x2="482" y2="840" stroke="#2e6b62" stroke-width="3" marker-end="url(#ahT)"/>
+<line x1="698" y1="772" x2="578" y2="840" stroke="#8a6d0d" stroke-width="3" marker-end="url(#ahO)"/>
+<path d="M530 834 A40 40 0 0 0 530 914 Z" fill="#b5d3cf"/><path d="M530 834 A40 40 0 0 1 530 914 Z" fill="#d4b02e"/>
+<circle cx="530" cy="874" r="40" fill="none" stroke="#1e2a44" stroke-width="3"/>
+<text x="530" y="882" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">2n</text>
+<text x="476" y="882" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="end">Zygote</text>
+<text x="588" y="866" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Fertilisation:</text>
+<text x="588" y="894" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">nuclei fuse</text>
+<line x1="530" y1="916" x2="530" y2="962" stroke="#1e2a44" stroke-width="3.5" marker-end="url(#ah)"/>
+<circle cx="400" cy="1010" r="38" fill="#93b496" stroke="#1e2a44" stroke-width="3"/><circle cx="400" cy="1010" r="7" fill="#1e2a44" stroke="#1e2a44" stroke-width="1"/>
+<circle cx="530" cy="1010" r="38" fill="#b8b86a" stroke="#1e2a44" stroke-width="3"/><circle cx="530" cy="1010" r="12" fill="none" stroke="#1e2a44" stroke-width="4"/>
+<circle cx="660" cy="1010" r="38" fill="#d1b84a" stroke="#1e2a44" stroke-width="3"/><rect x="648" y="1005" width="24" height="10" rx="3" fill="#1e2a44"/>
+<text x="722" y="1002" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Different</text>
+<text x="722" y="1030" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">offspring</text>
+<text x="70" y="1110" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">n = one set, 2n = two sets</text>
+<text x="560" y="1110" font-size="20" font-weight="400" fill="#4a5568" text-anchor="start">Cat: 19 + 19 = 38</text>
+</svg>

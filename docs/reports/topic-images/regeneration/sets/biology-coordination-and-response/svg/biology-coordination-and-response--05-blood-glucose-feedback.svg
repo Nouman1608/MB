@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1250" width="900" height="1250" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1250" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Blood glucose: negative feedback</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Each response reverses the change</text>
+<defs><marker id="aN" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="22" markerHeight="22" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker><marker id="aT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="22" markerHeight="22" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker><marker id="aO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="22" markerHeight="22" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker><marker id="aNs" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="16" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker><marker id="aOs" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="16" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker></defs><rect x="30" y="130" width="250" height="110" rx="14" fill="#f2e7b8" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="155" y="175" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">Glucose rises</text>
+<text x="155" y="207" font-size="21" font-weight="400" fill="#1e2a44" text-anchor="middle">after a meal</text>
+<line x1="280" y1="185" x2="323" y2="185" stroke="#1e2a44" stroke-width="3" marker-end="url(#aNs)"/>
+<rect x="325" y="130" width="250" height="110" rx="14" fill="#f2e7b8" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="450" y="175" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">Pancreas</text>
+<text x="450" y="207" font-size="21" font-weight="400" fill="#1e2a44" text-anchor="middle">releases insulin</text>
+<line x1="575" y1="185" x2="618" y2="185" stroke="#1e2a44" stroke-width="3" marker-end="url(#aNs)"/>
+<rect x="620" y="130" width="250" height="110" rx="14" fill="#f2e7b8" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="745" y="175" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">Liver: glucose</text>
+<text x="745" y="207" font-size="21" font-weight="400" fill="#1e2a44" text-anchor="middle">to glycogen</text>
+<polyline points="745,240 745,280 155,280 155,246" fill="none" stroke="#8a6d0d" stroke-width="4" marker-end="url(#aO)"/>
+<text x="450" y="267" font-size="22" font-weight="700" fill="#8a6d0d" text-anchor="middle">Glucose falls back down</text>
+<rect x="30" y="360" width="250" height="110" rx="14" fill="#dfeceb" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="155" y="405" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">Glucose falls</text>
+<text x="155" y="437" font-size="21" font-weight="400" fill="#1e2a44" text-anchor="middle">between meals</text>
+<line x1="280" y1="415" x2="323" y2="415" stroke="#1e2a44" stroke-width="3" marker-end="url(#aNs)"/>
+<rect x="325" y="360" width="250" height="110" rx="14" fill="#dfeceb" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="450" y="405" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">Pancreas</text>
+<text x="450" y="437" font-size="21" font-weight="400" fill="#1e2a44" text-anchor="middle">releases glucagon</text>
+<line x1="575" y1="415" x2="618" y2="415" stroke="#1e2a44" stroke-width="3" marker-end="url(#aNs)"/>
+<rect x="620" y="360" width="250" height="110" rx="14" fill="#dfeceb" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="745" y="405" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">Liver: glycogen</text>
+<text x="745" y="437" font-size="21" font-weight="400" fill="#1e2a44" text-anchor="middle">to glucose</text>
+<polyline points="745,470 745,510 155,510 155,476" fill="none" stroke="#2e6b62" stroke-width="4" marker-end="url(#aT)"/>
+<text x="450" y="497" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="middle">Glucose rises back up</text>
+<text x="30" y="620" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">Blood glucose (mmol per dm<tspan font-size="65%" dy="-0.6em">3</tspan><tspan dy="0.39em">)</tspan></text>
+<line x1="130" y1="1080" x2="840" y2="1080" stroke="#1e2a44" stroke-width="3.5"/>
+<line x1="130" y1="1080" x2="130" y2="650" stroke="#1e2a44" stroke-width="3.5"/>
+<line x1="122" y1="1080" x2="130" y2="1080" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="114" y="1087" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="end">4</text>
+<line x1="122" y1="996" x2="130" y2="996" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="114" y="1003" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="end">5</text>
+<line x1="122" y1="912" x2="130" y2="912" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="114" y="919" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="end">6</text>
+<line x1="122" y1="828" x2="130" y2="828" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="114" y="835" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="end">7</text>
+<line x1="122" y1="744" x2="130" y2="744" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="114" y="751" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="end">8</text>
+<line x1="122" y1="660" x2="130" y2="660" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="114" y="667" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="end">9</text>
+<line x1="130" y1="1080" x2="130" y2="1088" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="130" y="1114" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="middle">0</text>
+<line x1="304.75" y1="1080" x2="304.75" y2="1088" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="304.75" y="1114" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="middle">30</text>
+<line x1="479.5" y1="1080" x2="479.5" y2="1088" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="479.5" y="1114" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="middle">60</text>
+<line x1="654.25" y1="1080" x2="654.25" y2="1088" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="654.25" y="1114" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="middle">90</text>
+<line x1="829" y1="1080" x2="829" y2="1088" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="829" y="1114" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="middle">120</text>
+<text x="480" y="1152" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="middle">Time after glucose drink (minutes)</text>
+<line x1="130" y1="996" x2="830" y2="996" stroke="#4a5a78" stroke-width="2.5" stroke-dasharray="10 7"/>
+<text x="826" y="1028" font-size="21" font-weight="700" fill="#4a5a78" text-anchor="end">set point</text>
+<path d="M130 996 C176.6 979.2 234.85000000000002 744 304.75 744 C421.25 744 566.875 886.8 654.25 928.8 C724.15 962.4 782.4 979.2 829 979.2" fill="none" stroke="#1e2a44" stroke-width="4.5" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="130" cy="996" r="10" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="304.75" cy="744" r="10" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="829" cy="979.2" r="10" fill="#d4b02e" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="152" y="1036" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">5.0</text>
+<text x="326.75" y="724" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">8.0 (+60%)</text>
+<text x="540" y="734" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">Insulin: liver stores</text>
+<text x="540" y="765" font-size="22" font-weight="700" fill="#1e2a44" text-anchor="start">glucose as glycogen</text>
+<text x="450" y="1222" font-size="20" font-weight="400" fill="#4a5568" text-anchor="middle">Example from the lesson; smooth curve is a sketch</text>
+</svg>

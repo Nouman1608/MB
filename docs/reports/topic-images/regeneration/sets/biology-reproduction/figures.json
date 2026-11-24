@@ -1,0 +1,20 @@
+[
+ {
+  "file": "biology-reproduction--08-menstrual-cycle.webp",
+  "width": 900,
+  "height": 1000,
+  "after": "### The cycle in outline",
+  "alt": "Two graphs over 28 days: the uterus lining is lost on days 1-5, then rebuilt, with ovulation around day 14; Sketch of FSH, oestrogen, LH and progesterone, with oestrogen peaking before the LH peak at ovulation and progesterone high afterwards.",
+  "caption": "Link the lining and hormone changes to the days of the cycle.",
+  "bytes": 86480
+ },
+ {
+  "file": "biology-reproduction--01-asexual-sexual.webp",
+  "width": 900,
+  "height": 1220,
+  "after": "### Worked example 2: a data question",
+  "alt": "One parent makes genetically identical offspring. In sexual reproduction two parents each make a gamete; the gametes fuse to form a zygote, giving offspring that differ from each other. Also shown: gametes are n and the zygote 2n (cat 19 + 19 = 38).",
+  "caption": "Compare one-parent and two-parent reproduction.",
+  "bytes": 103828
+ }
+]

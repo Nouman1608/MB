@@ -1,0 +1,38 @@
+[
+ {
+  "file": "biology-coordination-and-response--02-synapse.webp",
+  "width": 900,
+  "height": 980,
+  "after": "### Temperature control",
+  "alt": "A schematic synapse: an impulse in neurone 1 makes vesicles release neurotransmitter into the synaptic gap, the molecules diffuse across, bind receptor proteins on neurone 2 and start a new impulse. Only neurone 1 releases neurotransmitter and only neurone 2 has receptors, so the impulse goes one way.",
+  "caption": "Neurotransmitter crosses the gap and binds receptors, so impulses go one way only.",
+  "bytes": 94608
+ },
+ {
+  "file": "biology-coordination-and-response--04-pupil-reflex.webp",
+  "width": 900,
+  "height": 960,
+  "after": "### Iris reflex in brief",
+  "alt": "Two front views of the eye. Bright light: pupil narrows, less light enters. Dim light: pupil widens, more light enters. Further panel: in bright light circular muscles contract and radial relax; in dim light radial contract and circular relax.",
+  "caption": "The pupil narrows in bright light and widens in dim light because two sets of iris muscles work against each other.",
+  "bytes": 133752
+ },
+ {
+  "file": "biology-coordination-and-response--05-blood-glucose-feedback.webp",
+  "width": 900,
+  "height": 1250,
+  "after": "### Worked example 4: an overnight fast",
+  "alt": "Two loops keep blood glucose near its set point: after a meal insulin makes the liver store glucose as glycogen so glucose falls; between meals glucagon makes the liver release glucose so it rises. The sketch graph uses the lesson example: 5.0 to 8.0 mmol per dm3 in 30 minutes (60% rise) then 5.2 by 120 minutes.",
+  "caption": "Each response reverses the change, returning glucose towards the set point.",
+  "bytes": 133766
+ },
+ {
+  "file": "biology-coordination-and-response--06-auxin-phototropism.webp",
+  "width": 900,
+  "height": 1040,
+  "after": "### IVF (Higher tier only)",
+  "alt": "Light from one side: auxin made in the tip collects on the shaded side. Auxin stimulates cell elongation, so shaded cells (0.15 mm) grow longer than lit cells (0.10 mm), 50% longer, and the shoot bends towards the light.",
+  "caption": "Longer shaded-side cells bend the shoot towards the light.",
+  "bytes": 89762
+ }
+]

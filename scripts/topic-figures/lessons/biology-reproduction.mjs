@@ -77,12 +77,12 @@ function asexualSexual() {
   // sexual
   out.push(`<rect x="40" y="480" width="820" height="700" rx="14" fill="#fff" stroke="${C.ink}" stroke-width="2.5"/>`);
   out.push(t(70, 526, 'Sexual: two parents', { size: 24, weight: 700 }));
-  out.push(circ(290, 620, 44, T), circ(770, 620, 44, G));
-  out.push(t(230, 628, 'Parent 1', { size: 21, weight: 700, anchor: 'end' }), t(830, 628, 'Parent 2', { size: 21, weight: 700, anchor: 'end' }).replace('text-anchor="end"', 'text-anchor="end"'));
-  out.push(arrow(290, 666, 290, 718, { color: C.tealDark, marker: 'ahT', w: 3 }), arrow(770, 666, 770, 718, { color: C.olive, marker: 'ahO', w: 3 }));
+  out.push(circ(290, 620, 44, T), circ(720, 620, 44, G));
+  out.push(t(230, 628, 'Parent 1', { size: 21, weight: 700, anchor: 'end' }), t(776, 628, 'Parent 2', { size: 21, weight: 700 }));
+  out.push(arrow(290, 666, 290, 718, { color: C.tealDark, marker: 'ahT', w: 3 }), arrow(720, 666, 720, 718, { color: C.olive, marker: 'ahO', w: 3 }));
   out.push(circ(290, 750, 28, T), t(290, 758, 'n', { size: 21, weight: 700, anchor: 'middle' }), t(332, 758, 'gamete', { size: 21, weight: 700 }));
-  out.push(circ(770, 750, 28, G), t(770, 758, 'n', { size: 21, weight: 700, anchor: 'middle' }), t(728, 758, 'gamete', { size: 21, weight: 700, anchor: 'end' }));
-  out.push(arrow(312, 772, 470, 846, { color: C.tealDark, marker: 'ahT', w: 3 }), arrow(748, 772, 590, 846, { color: C.olive, marker: 'ahO', w: 3 }));
+  out.push(circ(720, 750, 28, G), t(720, 758, 'n', { size: 21, weight: 700, anchor: 'middle' }), t(678, 758, 'gamete', { size: 21, weight: 700, anchor: 'end' }));
+  out.push(arrow(312, 772, 482, 840, { color: C.tealDark, marker: 'ahT', w: 3 }), arrow(698, 772, 578, 840, { color: C.olive, marker: 'ahO', w: 3 }));
   out.push(`<path d="M530 834 A40 40 0 0 0 530 914 Z" fill="${T}"/><path d="M530 834 A40 40 0 0 1 530 914 Z" fill="${G}"/>`, circ(530, 874, 40, 'none'));
   out.push(t(530, 882, '2n', { size: 21, weight: 700, anchor: 'middle' }), t(476, 882, 'Zygote', { size: 21, weight: 700, anchor: 'end' }));
   out.push(t(588, 866, 'Fertilisation:', { size: 21, weight: 700 }), t(588, 894, 'nuclei fuse', { size: 20 }));
