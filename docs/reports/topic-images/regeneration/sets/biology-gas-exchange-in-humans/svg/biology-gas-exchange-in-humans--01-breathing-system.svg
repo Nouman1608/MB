@@ -1,14 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 830" width="900" height="830" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 850" width="900" height="850" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
 <defs>
  <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
  <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
  <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
  <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
 </defs>
-<rect width="900" height="830" fill="#f4f6f6"/>
+<rect width="900" height="850" fill="#f4f6f6"/>
 <text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">The breathing system</text>
 <text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Front view, schematic</text>
-<path d="M180 370 Q190 290 450 270 Q710 290 720 370" fill="none" stroke="#8a6d0d" stroke-width="17" stroke-linecap="round"/>
+<g transform="translate(0 20)"><path d="M180 370 Q190 290 450 270 Q710 290 720 370" fill="none" stroke="#8a6d0d" stroke-width="17" stroke-linecap="round"/>
 <path d="M180 370 Q190 290 450 270 Q710 290 720 370" fill="none" stroke="#f2e7b8" stroke-width="11" stroke-linecap="round"/>
 <path d="M174 436 Q184 356 450 336 Q716 356 726 436" fill="none" stroke="#8a6d0d" stroke-width="17" stroke-linecap="round"/>
 <path d="M174 436 Q184 356 450 336 Q716 356 726 436" fill="none" stroke="#f2e7b8" stroke-width="11" stroke-linecap="round"/>
@@ -97,20 +97,20 @@
 <line x1="486" y1="246" x2="468" y2="246" stroke="#1e2a44" stroke-width="2"/><circle cx="468" cy="246" r="5" fill="#1e2a44"/>
 <text x="410" y="262" font-size="19" font-weight="400" fill="#4a5568" text-anchor="end">Cartilage rings</text>
 <line x1="414" y1="257" x2="440" y2="258" stroke="#1e2a44" stroke-width="2"/><circle cx="440" cy="258" r="5" fill="#1e2a44"/>
-<text x="760" y="346" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Lung</text>
-<line x1="754" y1="340" x2="640" y2="420" stroke="#1e2a44" stroke-width="2"/><circle cx="640" cy="420" r="5" fill="#1e2a44"/>
-<text x="760" y="412" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">3 Bronchi</text>
-<line x1="754" y1="406" x2="512" y2="466" stroke="#1e2a44" stroke-width="2"/><circle cx="512" cy="466" r="5" fill="#1e2a44"/>
-<text x="760" y="478" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">4 Bronchioles</text>
-<line x1="754" y1="472" x2="562" y2="530" stroke="#1e2a44" stroke-width="2"/><circle cx="562" cy="530" r="5" fill="#1e2a44"/>
-<text x="760" y="544" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">5 Alveoli</text>
-<line x1="754" y1="538" x2="620" y2="570" stroke="#1e2a44" stroke-width="2"/><circle cx="620" cy="570" r="5" fill="#1e2a44"/>
-<text x="760" y="744" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Diaphragm</text>
-<line x1="754" y1="738" x2="740" y2="714" stroke="#1e2a44" stroke-width="2"/><circle cx="740" cy="714" r="5" fill="#1e2a44"/>
+<text x="736" y="346" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Lung</text>
+<line x1="730" y1="340" x2="640" y2="420" stroke="#1e2a44" stroke-width="2"/><circle cx="640" cy="420" r="5" fill="#1e2a44"/>
+<text x="736" y="412" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">3 Bronchi</text>
+<line x1="730" y1="406" x2="512" y2="466" stroke="#1e2a44" stroke-width="2"/><circle cx="512" cy="466" r="5" fill="#1e2a44"/>
+<text x="736" y="478" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">4 Bronchioles</text>
+<line x1="730" y1="472" x2="562" y2="530" stroke="#1e2a44" stroke-width="2"/><circle cx="562" cy="530" r="5" fill="#1e2a44"/>
+<text x="736" y="544" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">5 Alveoli</text>
+<line x1="730" y1="538" x2="620" y2="570" stroke="#1e2a44" stroke-width="2"/><circle cx="620" cy="570" r="5" fill="#1e2a44"/>
+<text x="736" y="744" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Diaphragm</text>
+<line x1="730" y1="738" x2="740" y2="714" stroke="#1e2a44" stroke-width="2"/><circle cx="740" cy="714" r="5" fill="#1e2a44"/>
 <text x="140" y="380" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="end">Ribs</text>
 <line x1="146" y1="374" x2="200" y2="390" stroke="#1e2a44" stroke-width="2"/><circle cx="200" cy="390" r="5" fill="#1e2a44"/>
 <text x="140" y="560" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="end">Intercostal</text>
 <text x="140" y="586" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="end">muscles</text>
 <line x1="146" y1="566" x2="188" y2="548" stroke="#1e2a44" stroke-width="2"/><circle cx="188" cy="548" r="5" fill="#1e2a44"/>
-<text x="450" y="800" font-size="20" font-weight="400" fill="#4a5568" text-anchor="middle">Numbers 1 to 5: the route air takes</text>
+<text x="450" y="800" font-size="20" font-weight="400" fill="#4a5568" text-anchor="middle">Numbers 1 to 5: the route air takes</text></g>
 </svg>

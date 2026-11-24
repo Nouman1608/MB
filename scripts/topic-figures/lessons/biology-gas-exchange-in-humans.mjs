@@ -54,15 +54,15 @@ function breathing() {
   o.push(t(cx - 46, 214, '1 Larynx', { size: 21, weight: 700, anchor: 'end' }), lead(cx - 44, 207, cx - 28, 204));
   o.push(t(cx + 40, 252, '2 Trachea', { size: 21, weight: 700 }), lead(cx + 36, 246, cx + 18, 246));
   o.push(t(cx - 40, 262, 'Cartilage rings', { size: 19, fill: C.muted, anchor: 'end' }), lead(cx - 36, 257, cx - 10, 258));
-  o.push(t(760, 346, 'Lung', { size: 21, weight: 700 }), lead(754, 340, cx + 190, 420));
-  o.push(t(760, 412, '3 Bronchi', { size: 21, weight: 700 }), lead(754, 406, cx + 62, 466));
-  o.push(t(760, 478, '4 Bronchioles', { size: 21, weight: 700 }), lead(754, 472, cx + 112, 530));
-  o.push(t(760, 544, '5 Alveoli', { size: 21, weight: 700 }), lead(754, 538, cx + 170, 570));
-  o.push(t(760, 744, 'Diaphragm', { size: 21, weight: 700 }), lead(754, 738, cx + 290, 714));
+  o.push(t(736, 346, 'Lung', { size: 21, weight: 700 }), lead(730, 340, cx + 190, 420));
+  o.push(t(736, 412, '3 Bronchi', { size: 21, weight: 700 }), lead(730, 406, cx + 62, 466));
+  o.push(t(736, 478, '4 Bronchioles', { size: 21, weight: 700 }), lead(730, 472, cx + 112, 530));
+  o.push(t(736, 544, '5 Alveoli', { size: 21, weight: 700 }), lead(730, 538, cx + 170, 570));
+  o.push(t(736, 744, 'Diaphragm', { size: 21, weight: 700 }), lead(730, 738, cx + 290, 714));
   o.push(t(140, 380, 'Ribs', { size: 21, weight: 700, anchor: 'end' }), lead(146, 374, cx - 250, 390));
   o.push(t(140, 560, 'Intercostal', { size: 21, weight: 700, anchor: 'end' }), t(140, 586, 'muscles', { size: 21, weight: 700, anchor: 'end' }), lead(146, 566, cx - 262, 548));
   o.push(t(cx, 800, 'Numbers 1 to 5: the route air takes', { size: 20, fill: C.muted, anchor: 'middle' }));
-  return svg(W, 830, 'The breathing system', o.join('\n'), 'Front view, schematic');
+  return svg(W, 850, 'The breathing system', `<g transform="translate(0 20)">${o.join('\n')}</g>`, 'Front view, schematic');
 }
 
 // ---------- 08 Airway protection ----------
