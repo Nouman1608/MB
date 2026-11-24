@@ -18,6 +18,13 @@
  *       one build date stamped on everything
  *   [7] robots.txt names the index, and the old single-file address
  *       redirects to it
+ *   [8] every child sitemap has a <lastmod> in the index, and every practice
+ *       URL has one (audit round 3, item 49)
+ *
+ * [0] runs first and needs no build: the real-date sources for the practice
+ * and translated pages (src/utils/seo/sitemap-lastmod.ts) give a date for
+ * every practice page that is built and for every translated legal page, and
+ * the localized-date parser reads what the pages display.
  *
  * Needs a fresh dist/ (run `npm run build` first). Part of `npm run audit:all`.
  * test-sitemap-noindex.mjs separately checks that no listed page is noindexed.
@@ -28,6 +35,12 @@ import { readFileSync, readdirSync, statSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 import { readSitemapFiles, SITE } from './lib/sitemap.mjs';
 import { sitemapGroup, SITEMAP_GROUPS, SITEMAP_GROUP_DESCRIPTIONS } from '../src/utils/seo/sitemap-groups.ts';
+import { practiceLastmods, localizedLastmods, parseLocalizedDate } from '../src/utils/seo/sitemap-lastmod.ts';
+import { flagshipSpecs } from '../src/utils/academic/index.ts';
+import { practiceQuestionsForCode } from '../src/utils/practice/bank.ts';
+import { DIAGNOSTIC_SETS, diagnosticPath } from '../src/data/diagnostics.ts';
+import { LEGAL_COPY } from '../src/i18n/pages/legal.ts';
+import { TRANSLATED_LOCALES } from '../src/i18n/routes.ts';
 
 const DIST = 'dist';
 const MAX_URLS = 50_000;
@@ -45,6 +58,43 @@ const fail = (kind, msg) => {
 const ok = (msg) => console.log(`  ✓ ${msg}`);
 
 console.log('Split sitemap check\n');
+
+// [0] lastmod sources for the practice and localized groups (no build needed)
+{
+  const resourceDates = new Map();
+  for (const f of readdirSync('src/content/resources').filter((x) => x.endsWith('.md'))) {
+    const fm = readFileSync(join('src/content/resources', f), 'utf8').split('---')[1] ?? '';
+    const d = fm.match(/^updatedDate:\s*(\S+)/m)?.[1] ?? fm.match(/^publishedDate:\s*(\S+)/m)?.[1];
+    if (d) resourceDates.set(`/resources/${f.replace(/\.md$/, '')}/`, new Date(d).toISOString());
+  }
+  const practice = practiceLastmods((p) => resourceDates.get(p));
+  const builtPractice = [
+    '/practice/',
+    ...flagshipSpecs().filter((s) => practiceQuestionsForCode(s.code).length > 0).map((s) => `/practice/${s.code}/`),
+    ...DIAGNOSTIC_SETS.map(diagnosticPath),
+  ];
+  for (const p of builtPractice) if (!practice.get(p)) fail('source', `${p} gets no lastmod from its question-bank sources`);
+  for (const [p, iso] of practice) if (Date.parse(iso) > Date.now() + 86_400_000) fail('source', `${p} lastmod ${iso} is in the future`);
+
+  const english = new Map([['/articles/', '2026-01-02T00:00:00.000Z'], ['/resources/', '2026-01-03T00:00:00.000Z'], ['/', '2026-01-04T00:00:00.000Z']]);
+  const localized = localizedLastmods((p) => english.get(p));
+  for (const l of TRANSLATED_LOCALES) {
+    if (localized.get(`/${l}/articles/`) !== english.get('/articles/')) fail('source', `/${l}/articles/ should take the English /articles/ lastmod`);
+    if (localized.has(`/${l}/`)) fail('source', `/${l}/ must not take the English home's lastmod (it does not list resources)`);
+    if (localized.has(`/${l}/about/`)) fail('source', `/${l}/about/ has no real date and must carry no lastmod`);
+  }
+  for (const [key, byLocale] of Object.entries(LEGAL_COPY)) {
+    const dates = TRANSLATED_LOCALES.map((l) => localized.get(`/${l}/legal/${key}/`));
+    if (dates.some((d) => !d)) fail('source', `a translated legal/${key} page's "last updated" text could not be read: ${TRANSLATED_LOCALES.map((l) => byLocale[l].lastUpdated).join(' | ')}`);
+    else if (new Set(dates).size !== 1) fail('source', `translated legal/${key} pages show different dates: ${dates.join(', ')}`);
+  }
+  const cases = [['17 نوفمبر 2026', 'ar', '2026-11-17'], ['23 ستمبر 2026', 'ur', '2026-09-23'], ['১৭ আগস্ট ২০২৬', 'bn', '2026-08-17'], ['31 فبراير 2026', 'ar', undefined], ['17 November 2026', 'ar', undefined]];
+  for (const [text, locale, want] of cases) {
+    const got = parseLocalizedDate(text, locale)?.slice(0, 10);
+    if (got !== want) fail('source', `parseLocalizedDate(${JSON.stringify(text)}, ${locale}) = ${got}, want ${want}`);
+  }
+  if (!shown.has('source')) ok(`lastmod sources: all ${builtPractice.length} practice page(s) dated from their question-bank resources; ${Object.keys(LEGAL_COPY).length * TRANSLATED_LOCALES.length} translated legal page(s) dated from the date they display; translated directories follow their English page`);
+}
 
 // [1] index and files
 let files;
@@ -141,6 +191,22 @@ for (const old of ['/sitemap.xml', '/sitemap-0.xml']) {
   if (!new RegExp(`^${old.replace(/[.]/g, '\\.')}\\s+/sitemap-index\\.xml\\s+301\\s*$`, 'm').test(redirects)) fail('robots', `_redirects has no 301 from ${old} to /sitemap-index.xml`);
 }
 if (!shown.has('robots')) ok('robots.txt names the index; /sitemap.xml and /sitemap-0.xml redirect to it');
+
+// [8] every child has a lastmod in the index (the newest lastmod of its URLs), and every practice URL is dated
+const indexEntries = [...indexXml.matchAll(/<sitemap>([\s\S]*?)<\/sitemap>/g)].map((m) => ({
+  loc: m[1].match(/<loc>([^<]+)<\/loc>/)?.[1], lastmod: m[1].match(/<lastmod>([^<]+)<\/lastmod>/)?.[1],
+}));
+for (const e of indexEntries) {
+  if (!e.lastmod) { fail('index-lastmod', `${e.loc} has no <lastmod> in sitemap-index.xml`); continue; }
+  const child = files.find((f) => f.url === e.loc);
+  const newest = child?.urls.map((u) => u.lastmod).filter(Boolean).sort().pop();
+  if (newest && newest !== e.lastmod) fail('index-lastmod', `${e.loc} index lastmod ${e.lastmod} is not the newest of its URLs (${newest})`);
+}
+for (const f of files) {
+  if (!/^sitemap-practice-/.test(f.file)) continue;
+  for (const u of f.urls) if (!u.lastmod) fail('index-lastmod', `${u.loc} (practice) has no lastmod`);
+}
+if (!shown.has('index-lastmod')) ok(`all ${indexEntries.length} child sitemap(s) have a <lastmod> in the index; every practice URL is dated`);
 
 console.log('\n  Group              URLs     Size      Contents');
 for (const g of SITEMAP_GROUPS) {
