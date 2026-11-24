@@ -42,6 +42,29 @@
  * reappears, check Cloudflare Zaraz first -- it is not visible in git.
  */
 import { site } from '../../data/site';
+import { NAV_COPY, type CookieBannerCopy, type LocaleCode } from '../../i18n/nav';
+import { localePath } from '../../i18n/routes';
+
+/**
+ * Audit round 3 (item 17/19, 25 Nov 2026) -- a translated page (LocaleLayout)
+ * passes its locale: the banner text and buttons come from
+ * NAV_COPY[locale].cookieBanner and the policy link goes to that language's
+ * cookie policy. With no locale (BaseLayout, every English page) the English
+ * text and /legal/cookies/ are unchanged.
+ */
+interface Props { locale?: LocaleCode }
+const { locale } = Astro.props;
+const EN_BANNER: CookieBannerCopy = {
+  regionLabel: 'Cookie consent',
+  optinShort: 'Allow analytics cookies? None are set unless you accept.',
+  optinLong: "We'd like to use Google Analytics to understand how visitors use this site. No analytics cookie is set unless you accept.",
+  optoutShort: 'We use analytics cookies. Choose Reject to switch them off.',
+  optoutLong: 'We use Google Analytics to understand how visitors use this site. Choose Reject to switch it off on this device.',
+  seePrefix: 'See our', policyLink: 'Cookie Policy', seeSuffix: '.',
+  reject: 'Reject', accept: 'Accept',
+};
+const b = locale ? NAV_COPY[locale].cookieBanner : EN_BANNER;
+const policyHref = locale ? localePath(locale, 'legal-cookies') : '/legal/cookies/';
 
 const gaId = site.analytics.ga4MeasurementId;
 ---
@@ -162,7 +185,7 @@ const gaId = site.analytics.ga4MeasurementId;
     <div
       data-consent-banner
       role="region"
-      aria-label="Cookie consent"
+      aria-label={b.regionLabel}
       class="fixed inset-x-0 bottom-0 z-[90] hidden border-t border-navy-rule bg-navy-900 px-[var(--spacing-gutter)] py-3 text-on-navy sm:py-5"
     >
       {/* D-439: on phones the banner is compact (about 110px instead of 175-200px):
@@ -171,26 +194,24 @@ const gaId = site.analytics.ga4MeasurementId;
           wider screens is unchanged. */}
       <div class="mx-auto flex max-w-[var(--container-site)] flex-wrap items-center justify-between gap-2 sm:gap-4">
         <p data-consent-copy-optin class="m-0 max-w-[62ch] text-[14px] leading-snug text-on-navy max-sm:pe-16 sm:text-[14.5px] sm:leading-relaxed">
-          <span class="sm:hidden">Allow analytics cookies? None are set unless you accept.</span>
-          <span class="max-sm:hidden">We'd like to use Google Analytics to understand how visitors use this site. No analytics cookie is set
-          unless you accept. See our</span> <a href="/legal/cookies/" class="underline decoration-teal-500 underline-offset-2 text-on-navy">Cookie Policy</a>.
+          <span class="sm:hidden">{b.optinShort}</span>
+          <span class="max-sm:hidden">{b.optinLong} {b.seePrefix}</span> <a href={policyHref} class="underline decoration-teal-500 underline-offset-2 text-on-navy">{b.policyLink}</a>{b.seeSuffix}
         </p>
         <p data-consent-copy-optout class="m-0 hidden max-w-[62ch] text-[14px] leading-snug text-on-navy max-sm:pe-16 sm:text-[14.5px] sm:leading-relaxed">
-          <span class="sm:hidden">We use analytics cookies. Choose Reject to switch them off.</span>
-          <span class="max-sm:hidden">We use Google Analytics to understand how visitors use this site. Choose Reject to switch it off on this
-          device. See our</span> <a href="/legal/cookies/" class="underline decoration-teal-500 underline-offset-2 text-on-navy">Cookie Policy</a>.
+          <span class="sm:hidden">{b.optoutShort}</span>
+          <span class="max-sm:hidden">{b.optoutLong} {b.seePrefix}</span> <a href={policyHref} class="underline decoration-teal-500 underline-offset-2 text-on-navy">{b.policyLink}</a>{b.seeSuffix}
         </p>
         <div class="flex gap-2 sm:gap-3">
           <button
             type="button"
             data-consent-reject
             class="inline-flex min-h-11 items-center justify-center rounded-sm border border-[#3A4A63] px-4 py-2 text-[14.5px] font-medium text-on-navy hover:bg-navy-800 sm:px-5 sm:py-2.5"
-          >Reject</button>
+          >{b.reject}</button>
           <button
             type="button"
             data-consent-accept
             class="inline-flex min-h-11 items-center justify-center rounded-sm bg-gold-500 px-4 py-2 text-[14.5px] font-medium text-navy-900 hover:opacity-90 sm:px-5 sm:py-2.5"
-          >Accept</button>
+          >{b.accept}</button>
         </div>
       </div>
     </div>

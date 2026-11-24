@@ -26,6 +26,12 @@
 
 import { taughtOnly } from '../utils/academic';
 import { courseSubjectNameOverride } from './academic/matrix';
+import { PRICING_TERMS } from './pricing';
+
+/** D7 (owner, audit round 3) -- region pages no longer say teachers are
+ * available 24 hours a day, 7 days a week; they state the real reply hours,
+ * from the one record of them (PRICING_TERMS.enquiryResponse, D-346). */
+const REPLY_HOURS = PRICING_TERMS.enquiryResponse.summary;
 
 /**
  * True when the board hub at `path` (/boards/<board>/<qual>/<subject>/) is a
@@ -168,7 +174,7 @@ export const MARKETS: readonly Market[] = [
       {
         question: 'What time would classes be in the UAE?',
         answer:
-          'The UAE is one hour behind Lahore all year, so a 5:00 pm class in Dubai or Abu Dhabi is 6:00 pm in Lahore. Group class times are agreed with the families in each group and confirmed before the trial; one-to-one classes can be arranged at any time, because teachers are available 24 hours a day, 7 days a week.',
+          'The UAE is one hour behind Lahore all year, so a 5:00 pm class in Dubai or Abu Dhabi is 6:00 pm in Lahore. Group class times are agreed with the families in each group and confirmed before the trial; one-to-one class times are agreed with you before the first class. ' + REPLY_HOURS,
       },
       {
         question: 'Can my child be taught for Pearson Edexcel International GCSE or International A Level?',
@@ -210,7 +216,7 @@ export const MARKETS: readonly Market[] = [
       {
         question: 'What time would classes be in Qatar?',
         answer:
-          'Qatar is two hours behind Lahore all year, so a 5:00 pm class in Doha is 7:00 pm in Lahore. Group class times are agreed with the families in each group and confirmed before the trial; one-to-one classes can be arranged at any time, because teachers are available 24 hours a day, 7 days a week.',
+          'Qatar is two hours behind Lahore all year, so a 5:00 pm class in Doha is 7:00 pm in Lahore. Group class times are agreed with the families in each group and confirmed before the trial; one-to-one class times are agreed with you before the first class. ' + REPLY_HOURS,
       },
       {
         question: 'My child is in an IB school in Doha. Can Marlbridge help?',
@@ -252,7 +258,7 @@ export const MARKETS: readonly Market[] = [
       {
         question: 'What time would classes be in Malaysia?',
         answer:
-          'Malaysia is three hours ahead of Lahore all year, so a 5:00 pm class in Kuala Lumpur is 2:00 pm in Lahore. Group class times are agreed with the families in each group and confirmed before the trial; one-to-one classes can be arranged at any time, because teachers are available 24 hours a day, 7 days a week.',
+          'Malaysia is three hours ahead of Lahore all year, so a 5:00 pm class in Kuala Lumpur is 2:00 pm in Lahore. Group class times are agreed with the families in each group and confirmed before the trial; one-to-one class times are agreed with you before the first class. ' + REPLY_HOURS,
       },
       {
         question: 'Why are the Malaysia fees marked "indicative"?',
@@ -307,7 +313,7 @@ export const MARKETS: readonly Market[] = [
       {
         question: 'What time would classes be in Singapore?',
         answer:
-          'Singapore is three hours ahead of Lahore all year, so a 5:00 pm class in Singapore is 2:00 pm in Lahore. Group class times are agreed with the families in each group and confirmed before the trial; one-to-one classes can be arranged at any time, because teachers are available 24 hours a day, 7 days a week.',
+          'Singapore is three hours ahead of Lahore all year, so a 5:00 pm class in Singapore is 2:00 pm in Lahore. Group class times are agreed with the families in each group and confirmed before the trial; one-to-one class times are agreed with you before the first class. ' + REPLY_HOURS,
       },
       {
         question: 'Is this tuition for the Singapore O-Level or A-Level?',
@@ -357,7 +363,7 @@ export const MARKETS: readonly Market[] = [
       {
         question: 'What time would classes be in Oman?',
         answer:
-          'Oman is one hour behind Lahore all year, so a 5:00 pm class in Oman is 6:00 pm in Lahore. Group class times are agreed with the families in each group and confirmed before the trial; one-to-one classes can be arranged at any time, because teachers are available 24 hours a day, 7 days a week.',
+          'Oman is one hour behind Lahore all year, so a 5:00 pm class in Oman is 6:00 pm in Lahore. Group class times are agreed with the families in each group and confirmed before the trial; one-to-one class times are agreed with you before the first class. ' + REPLY_HOURS,
       },
       {
         question: 'What does tuition cost from Oman?',
@@ -413,7 +419,7 @@ export const MARKETS: readonly Market[] = [
       {
         question: 'What time would classes be in Europe?',
         answer:
-          'It depends on the country and the time of year. Lahore is four hours ahead of Central European Time in winter and three hours ahead in summer, so a 5:00 pm class in France or Germany is 9:00 pm in Lahore in winter and 8:00 pm in summer. Group class times are agreed with the families in each group and confirmed before the trial; one-to-one classes can be arranged at any time, because teachers are available 24 hours a day, 7 days a week.',
+          'It depends on the country and the time of year. Lahore is four hours ahead of Central European Time in winter and three hours ahead in summer, so a 5:00 pm class in France or Germany is 9:00 pm in Lahore in winter and 8:00 pm in summer. Group class times are agreed with the families in each group and confirmed before the trial; one-to-one class times are agreed with you before the first class. ' + REPLY_HOURS,
       },
       {
         question: 'What does tuition cost from Europe?',

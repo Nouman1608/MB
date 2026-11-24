@@ -96,7 +96,8 @@ const faqs = [
   },
   {
     question: 'My country is not listed. Can my child still be taught?',
-    answer: 'Yes. One-to-one classes can be arranged for any time zone, because teachers are available around the clock; group class times are agreed with the families in each group. Send a trial request with your country, time zone and preferred times; Marlbridge confirms a teacher, a time and the fee (the US dollar figures on the pricing page are the guide) before anything is booked.',
+    // D7 (owner, audit round 3) -- no "around the clock" claim; class times are agreed before the first class.
+    answer: 'Yes. One-to-one class times are agreed with you before the first class; group class times are agreed with the families in each group. Send a trial request with your country, time zone and preferred times; Marlbridge confirms a teacher, a time and the fee (the US dollar figures on the pricing page are the guide) before anything is booked.',
   },
   {
     question: 'Is the first class really free?',
@@ -177,7 +178,7 @@ const faq = faqNode(faqs);
     <Container>
       <h2 id="intl-time" class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Time zones</h2>
       <p class="m-0 mb-6 max-w-[70ch] text-[15.5px] leading-[1.65] text-ink-mute">
-        Lahore is on UTC+5 all year. The table shows where a 5:00 pm local class falls in Lahore. Countries that use daylight saving (such as the UK, Egypt, Spain, the United States, Canada and parts of Australia) move by an hour for part of the year. {PRICING_TERMS.teacherAvailability} The exact time is always agreed with the teacher before the first class.
+        Lahore is on UTC+5 all year. The table shows where a 5:00 pm local class falls in Lahore. Countries that use daylight saving (such as the UK, Egypt, Spain, the United States, Canada and parts of Australia) move by an hour for part of the year. {PRICING_TERMS.groupClassTimes} The exact time is always agreed with the teacher before the first class. {PRICING_TERMS.enquiryResponse.summary}
       </p>
       <div class="overflow-x-auto" tabindex="0" role="group" aria-label="Table, scrolls sideways on small screens">
         <table class="w-full min-w-[480px] max-w-[720px] border-collapse text-[15px]">
