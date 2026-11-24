@@ -116,9 +116,19 @@ function buildIndexLastmods() {
       bump(idx, '/', iso);
       const type = fmField(fm, 'resourceType');
       if (prefix === '/resources/' && type) bump(idx, `/resources/${type}/`, iso);
+      const subject = fmField(fm, 'subject');
+      if (prefix === '/resources/' && type && subject) bump(idx, `/resources/${type}/${subject}/`, iso);
       const author = fmField(fm, 'author');
       if (author) { bump(idx, `/authors/${author}/`, iso); bump(idx, `/authors/${author}/resources/`, iso); bump(idx, '/authors/', iso); }
     }
+  }
+  // Advanced-course library: a course hub and the library index take the newest page under them.
+  for (const [path, iso] of lastmodBySlug) {
+    if (!path.startsWith(AP_LIBRARY_BASE)) continue;
+    const course = path.slice(AP_LIBRARY_BASE.length).split('/')[0];
+    if (!course) continue;
+    bump(idx, AP_LIBRARY_BASE, iso);
+    bump(idx, `${AP_LIBRARY_BASE}${course}/`, iso);
   }
   // /flashcards/ changes when any deck does.
   for (const deck of FLASHCARD_DECKS) {
