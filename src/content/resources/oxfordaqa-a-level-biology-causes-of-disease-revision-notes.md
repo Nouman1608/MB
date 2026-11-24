@@ -99,7 +99,7 @@ Exam answers that state the limitation explicitly, rather than only describing t
 A strong answer does more than state "pathogens cause disease" — it names a specific pathogen and identifies which mechanism, or both, it uses. For example, the bacterium responsible for tetanus causes disease almost entirely through toxin production (the toxin affects the nervous system, causing muscle spasms, while the bacterium itself does relatively little direct tissue damage), whereas many viruses cause disease predominantly through direct cell damage as they replicate inside and rupture host cells. Being able to give a worked example like this, rather than a purely general statement, is the difference between a mid-band and a top-band answer on this sub-topic.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-gas-exchange--09-cholera-toxin.webp" width="900" height="1010" alt="A gut epithelial cell with an open chloride channel. Chloride ions move out into the lumen and sodium ions follow, lowering the lumen water potential. Water leaves the tissue by osmosis into the lumen, causing watery diarrhoea." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-gas-exchange--09-cholera-toxin.webp" width="900" height="970" alt="A gut epithelial cell with an open chloride channel. Chloride ions move out into the lumen and sodium ions follow, lowering the lumen water potential. Water leaves the tissue by osmosis into the lumen, causing watery diarrhoea." loading="lazy">
   <figcaption>Cholera toxin keeps chloride channels open, so ions then water flood into the gut.</figcaption>
 </figure>
 

@@ -113,7 +113,7 @@ Non-disjunction means that chromosomes fail to separate during meiosis. It arise
 A human gamete normally has 23 chromosomes. With non-disjunction of chromosome 21, one gamete has 24 and another has 22. Fertilisation by a normal gamete (23) gives a zygote with 24 + 23 = **47** chromosomes (three copies of chromosome 21, as in Down syndrome), or 22 + 23 = **45** chromosomes.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-the-mitotic-cell-cycle--07-non-disjunction.webp" width="900" height="1030" alt="One homologous pair is followed. Failure in meiosis I gives two n+1 and two n-1 gametes; failure in meiosis II gives one n+1, one n-1 and two normal gametes. In humans these are 24 and 22 chromosomes, and fertilisation by a normal 23 gives 47 or 45." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-the-mitotic-cell-cycle--07-non-disjunction.webp" width="900" height="1030" alt="One homologous pair is followed. Failure in meiosis I gives two n+1 and two n-1 gametes; failure in meiosis II gives one n+1, one n-1 and two normal gametes. In humans these are 24 and 22 chromosomes, and fertilisation by a normal 23 gives 47 or 45." loading="lazy">
   <figcaption>Non-disjunction gives gametes with an extra or a missing chromosome.</figcaption>
 </figure>
 

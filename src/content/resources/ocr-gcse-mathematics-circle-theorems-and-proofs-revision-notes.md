@@ -43,7 +43,7 @@ Related pages: the [OCR GCSE Mathematics hub](/boards/ocr/gcse/mathematics/), th
 | Segment | Region bounded by a chord and an arc |
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-geometrical-terms-constructions-and-scale-drawings--01-circle-parts.webp" width="900" height="1030" alt="Circle with centre, diameter, radius, chord, tangent touching at one point, circumference and a highlighted arc. Below, a shaded sector (two radii and an arc) and a shaded segment (a chord and an arc). Sector and segment are the pair most often confused." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-geometrical-terms-constructions-and-scale-drawings--01-circle-parts.webp" width="900" height="980" alt="Circle with centre, diameter, radius, chord, tangent touching at one point, circumference and a highlighted arc. Below, a shaded sector (two radii and an arc) and a shaded segment (a chord and an arc). Sector and segment are the pair most often confused." loading="lazy">
   <figcaption>Radius, chord and tangent in one circle, with sector and segment shaded separately.</figcaption>
 </figure>
 
@@ -146,7 +146,7 @@ Angle ACD = 180° - 64° - 69° = 47°    (angles in triangle ACD)
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--04-angle-at-centre.webp" width="900" height="830" alt="Circle with arc AB, centre angle AOB of 130 degrees, and points C and D each giving an angle of 65 degrees on the same arc. The angle at the centre (130 degrees) is twice the angle at the circumference (65 degrees) on the same arc, and angles in the same segment are equal." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-geometry--04-angle-at-centre.webp" width="900" height="820" alt="Circle with arc AB, centre angle AOB of 130 degrees, and points C and D each giving an angle of 65 degrees on the same arc. The angle at the centre (130 degrees) is twice the angle at the circumference (65 degrees) on the same arc, and angles in the same segment are equal." loading="lazy">
   <figcaption>The angle at the centre is twice the angle at the circumference, and angles in the same segment are equal.</figcaption>
 </figure>
 
@@ -156,17 +156,17 @@ Angle ACD = 180° - 64° - 69° = 47°    (angles in triangle ACD)
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-circle-theorems-ii--02-chord-bisector.webp" width="900" height="850" alt="Circle of radius 10 with chord AB of length 16. OM meets AB at right angles at the midpoint M, so AM = MB = 8. Triangle OMB has sides 6, 8, 10. A line from the centre perpendicular to a chord cuts the chord in half, giving a right-angled triangle (radius 10, half-chord 8, distance 6)." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-circle-theorems-ii--02-chord-bisector.webp" width="900" height="820" alt="Circle of radius 10 with chord AB of length 16. OM meets AB at right angles at the midpoint M, so AM = MB = 8. Triangle OMB has sides 6, 8, 10. A line from the centre perpendicular to a chord cuts the chord in half, giving a right-angled triangle (radius 10, half-chord 8, distance 6)." loading="lazy">
   <figcaption>The perpendicular from the centre bisects the chord, so Pythagoras finds the missing length.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-circle-theorems-ii--05-tangent-angles.webp" width="900" height="910" alt="Circle with tangents PA and PB from P, angle APB 50 degrees. Triangle PAB is isosceles so angles at A and B are 65 degrees. Angle AOB is 360 minus 90 minus 90 minus 50 = 130 degrees. Given angle APB = 50 degrees: equal tangents make PAB isosceles (65 degrees each), and the quadrilateral OAPB gives AOB = 130 degrees." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-circle-theorems-ii--05-tangent-angles.webp" width="900" height="770" alt="Circle with tangents PA and PB from P, angle APB 50 degrees. Triangle PAB is isosceles so angles at A and B are 65 degrees. Angle AOB is 360 minus 90 minus 90 minus 50 = 130 degrees. Given angle APB = 50 degrees: equal tangents make PAB isosceles (65 degrees each), and the quadrilateral OAPB gives AOB = 130 degrees." loading="lazy">
   <figcaption>Using PA = PB and the radius-tangent right angles to find angles.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--05-cyclic-quadrilateral.webp" width="900" height="850" alt="Quadrilateral ABCD inscribed in a circle with angles A 100, B 65, C 80, D 115 degrees. A plus C is 180 and B plus D is 180. In a cyclic quadrilateral opposite angles add to 180 degrees (100 + 80 and 65 + 115)." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-geometry--05-cyclic-quadrilateral.webp" width="900" height="830" alt="Quadrilateral ABCD inscribed in a circle with angles A 100, B 65, C 80, D 115 degrees. A plus C is 180 and B plus D is 180. In a cyclic quadrilateral opposite angles add to 180 degrees (100 + 80 and 65 + 115)." loading="lazy">
   <figcaption>Opposite angles of a cyclic quadrilateral add to 180°.</figcaption>
 </figure>
 

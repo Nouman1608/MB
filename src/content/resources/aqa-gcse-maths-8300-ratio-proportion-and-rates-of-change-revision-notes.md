@@ -156,12 +156,12 @@ For full explanations, read the [ratio, proportion and rates of change study gui
 **Worked reminders:** if y ∝ x and y = 21 when x = 6, then k = 3.5 and y = **35** when x = 10. If y ∝ 1/x and y = 8 when x = 5, then k = 40 and y = **2.5** when x = 16.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-proportion--01-direct-shapes.webp" width="900" height="990" alt="Five direct proportion graphs for x from 0 to 4 with k = 1: y = x cubed, x squared, x, square root of x and cube root of x. All start at the origin and pass through (1, 1). The powers rise steeply; the roots flatten." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-proportion--01-direct-shapes.webp" width="900" height="930" alt="Five direct proportion graphs for x from 0 to 4 with k = 1: y = x cubed, x squared, x, square root of x and cube root of x. All start at the origin and pass through (1, 1). The powers rise steeply; the roots flatten." loading="lazy">
   <figcaption>Every direct proportion graph starts at O; powers curve upwards and roots flatten.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-proportion--02-inverse-shapes.webp" width="900" height="940" alt="Five inverse proportion graphs with k = 1: 1 over the cube root of x, the square root of x, x, x squared and x cubed. All pass through (1, 1) and fall towards the x-axis without reaching zero. Higher powers fall faster." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-proportion--02-inverse-shapes.webp" width="900" height="890" alt="Five inverse proportion graphs with k = 1: 1 over the cube root of x, the square root of x, x, x squared and x cubed. All pass through (1, 1) and fall towards the x-axis without reaching zero. Higher powers fall faster." loading="lazy">
   <figcaption>In inverse proportion y falls as x rises, and a higher power falls faster.</figcaption>
 </figure>
 
@@ -178,7 +178,7 @@ Lengths in similar shapes are in a single ratio, the scale factor. In a right-an
 - Always give units: for depth in cm against time in minutes, the rate is in cm per minute.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-in-practical-situations--05-tangent-speed.webp" width="900" height="930" alt="A curved distance-time graph through (0, 0), (1, 1), (2, 4), (3, 9), (4, 16), (5, 25). A tangent at (3, 9) passes through (2, 3) and (5, 21), so its gradient is 18 divided by 3 = 6 m/s. A chord to (5, 25) has gradient 8 and only gives an average." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-graphs-in-practical-situations--05-tangent-speed.webp" width="900" height="930" alt="A curved distance-time graph through (0, 0), (1, 1), (2, 4), (3, 9), (4, 16), (5, 25). A tangent at (3, 9) passes through (2, 3) and (5, 21), so its gradient is 18 divided by 3 = 6 m/s. A chord to (5, 25) has gradient 8 and only gives an average." loading="lazy">
   <figcaption>Speed at one instant is the gradient of the tangent, not of a chord.</figcaption>
 </figure>
 

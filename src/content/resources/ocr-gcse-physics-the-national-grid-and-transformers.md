@@ -80,7 +80,7 @@ Transformers need an alternating current, because they work through a changing m
 Quick test: look at where the arrow of power is going. Leaving a power station, the potential difference goes up, so step-up. Arriving at a town, it goes down, so step-down. Far from the power station you may see several step-down stages in a row.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--06-transformer.webp" width="900" height="880" alt="A soft-iron core with a primary coil of 920 turns on the left taking 230 V a.c. and a secondary coil of 48 turns on the right giving 12 V. Vs = 230 x 48 / 920 = 12 V, a step-down transformer. Extended: power in equals power out, 18 W." loading="lazy">
+  <img src="https://img.marlbridge.com/physics-electricity-and-magnetism--06-transformer.webp" width="900" height="720" alt="A soft-iron core with a primary coil of 920 turns on the left taking 230 V a.c. and a secondary coil of 48 turns on the right giving 12 V. Vs = 230 x 48 / 920 = 12 V, a step-down transformer. Power in equals power out, 18 W." loading="lazy">
   <figcaption>A step-down transformer has fewer turns on the secondary, so the output voltage is lower.</figcaption>
 </figure>
 
@@ -142,7 +142,7 @@ Doubling the supply potential difference halves the current and cuts the wasted 
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--07-transmission-loss.webp" width="900" height="880" alt="Sending 50 MW through 4.0 ohm cables: at 25 kV the current is 2000 A (thick cable) and 16 MW is lost as heat; at 250 kV the current is 200 A (thin cable) and only 0.16 MW is lost, one hundredth." loading="lazy">
+  <img src="https://img.marlbridge.com/physics-electricity-and-magnetism--07-transmission-loss.webp" width="900" height="690" alt="Sending 50 MW through 4.0 ohm cables: at 25 kV the current is 2000 A (thick cable) and 16 MW is lost as heat; at 250 kV the current is 200 A (thin cable) and only 0.16 MW is lost, one hundredth." loading="lazy">
   <figcaption>Ten times the voltage means one tenth of the current and one hundredth of the heating loss.</figcaption>
 </figure>
 

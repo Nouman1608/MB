@@ -184,7 +184,7 @@ The tangent is **y = 2x − 12**.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-graphs-in-practical-situations--05-tangent-speed.webp" width="900" height="930" alt="A curved distance-time graph through (0, 0), (1, 1), (2, 4), (3, 9), (4, 16), (5, 25). A tangent at (3, 9) passes through (2, 3) and (5, 21), so its gradient is 18 divided by 3 = 6 m/s. A chord to (5, 25) has gradient 8 and only gives an average." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-graphs-in-practical-situations--05-tangent-speed.webp" width="900" height="930" alt="A curved distance-time graph through (0, 0), (1, 1), (2, 4), (3, 9), (4, 16), (5, 25). A tangent at (3, 9) passes through (2, 3) and (5, 21), so its gradient is 18 divided by 3 = 6 m/s. A chord to (5, 25) has gradient 8 and only gives an average." loading="lazy">
   <figcaption>Speed at one instant is the gradient of the tangent, not of a chord.</figcaption>
 </figure>
 
@@ -314,7 +314,7 @@ At x = 0 the gradient is negative on both sides, so **(0, 0) is a stationary poi
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--07-gradient-turning-points.webp" width="900" height="980" alt="The curve y = x cubed minus 12x has a maximum at (minus 2, 16) and a minimum at (2, minus 16), where the tangent is flat and the gradient is 0. At x = 3 the tangent has gradient 15. The gradient is positive, negative, positive across the three sections." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-algebra-and-graphs--07-gradient-turning-points.webp" width="900" height="945" alt="The curve y = x cubed minus 12x has a maximum at (minus 2, 16) and a minimum at (2, minus 16), where the tangent is flat and the gradient is 0. At x = 3 the tangent has gradient 15. The gradient is positive, negative, positive across the three sections." loading="lazy">
   <figcaption>Turning points are where the gradient dy/dx is zero.</figcaption>
 </figure>
 

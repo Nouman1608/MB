@@ -56,7 +56,7 @@ Dehydration, low blood water potential:
 Too much water, high blood water potential: every step reverses. Less ADH, fewer aquaporins, a large volume of dilute urine.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--06-adh-osmoregulation.webp" width="900" height="1010" alt="Top: a fall in blood water potential makes hypothalamus osmoreceptors shrink and signal the posterior pituitary by impulses, which releases ADH into the blood, going to the kidney. Bottom: two collecting duct cells. With little ADH vesicles stay inside and little water leaves; with ADH the vesicles fuse, aquaporin pores open and more water leaves by osmosis, giving small concentrated urine." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-homeostasis--06-adh-osmoregulation.webp" width="900" height="970" alt="Top: a fall in blood water potential makes hypothalamus osmoreceptors shrink and signal the posterior pituitary by impulses, which releases ADH into the blood, going to the kidney. Bottom: two collecting duct cells. With little ADH vesicles stay inside and little water leaves; with ADH the vesicles fuse, aquaporin pores open and more water leaves by osmosis, giving small concentrated urine." loading="lazy">
   <figcaption>ADH makes the collecting duct more permeable to water by inserting aquaporins, so less water is lost in urine.</figcaption>
 </figure>
 
@@ -75,12 +75,12 @@ Too much water, high blood water potential: every step reverses. Less ADH, fewer
 | Collecting duct | Cortex to medulla | Water reabsorbed under ADH control; carries urine to the pelvis |
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--02-nephron.webp" width="900" height="1090" alt="A schematic nephron across the cortex and medulla: wide afferent and narrow efferent arterioles at the glomerulus inside Bowman’s capsule, the coiled proximal tubule, the loop of Henle dipping into the medulla, the coiled distal tubule and a collecting duct shared with other nephrons that runs to the renal pelvis. Numbers give the job of each part." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-homeostasis--02-nephron.webp" width="900" height="1050" alt="A schematic nephron across the cortex and medulla: wide afferent and narrow efferent arterioles at the glomerulus inside Bowman’s capsule, the coiled proximal tubule, the loop of Henle dipping into the medulla, the coiled distal tubule and a collecting duct shared with other nephrons that runs to the renal pelvis. Numbers give the job of each part." loading="lazy">
   <figcaption>The nephron runs from the glomerulus in the cortex, through the loop of Henle in the medulla, to the collecting duct.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--05-loop-of-henle.webp" width="900" height="1080" alt="A loop of Henle and a collecting duct drawn through a medulla that gets darker towards the bottom. Water leaves the descending limb by osmosis, so the filtrate gets more concentrated down the limb. Ions are pumped out of the ascending limb, which is impermeable to water, so the filtrate gets more dilute going up. Water leaves the collecting duct down the same gradient." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-homeostasis--05-loop-of-henle.webp" width="900" height="1044" alt="A loop of Henle and a collecting duct drawn through a medulla that gets darker towards the bottom. Water leaves the descending limb by osmosis, so the filtrate gets more concentrated down the limb. Ions are pumped out of the ascending limb, which is impermeable to water, so the filtrate gets more dilute going up. Water leaves the collecting duct down the same gradient." loading="lazy">
   <figcaption>The ascending limb pumps out ions and the descending limb loses water, building a steep gradient that lets the collecting duct recover water.</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Too much water, high blood water potential: every step reverses. Less ADH, fewer
 5. Net outward pressure = capillary hydrostatic pressure − capsule pressure − pressure due to plasma proteins (when these values are given as data).
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--03-ultrafiltration.webp" width="900" height="1100" alt="Blood with red cells, plasma proteins and small molecules lies on the left. Fluid crosses the endothelium with gaps, the basement membrane mesh and the podocyte slits into the capsule space. Water, glucose, urea and ions pass; cells and proteins stay. A bar diagram of AQA example pressures (9.6 out, 2.1 and 4.5 back) gives 3.0 kPa net outward." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-homeostasis--03-ultrafiltration.webp" width="900" height="1084" alt="Blood with red cells, plasma proteins and small molecules lies on the left. Fluid crosses the endothelium with gaps, the basement membrane mesh and the podocyte slits into the capsule space. Water, glucose, urea and ions pass; cells and proteins stay. A bar diagram of example pressures (9.6 out, 2.1 and 4.5 back) gives 3.0 kPa net outward." loading="lazy">
   <figcaption>Blood is forced through three layers; the basement membrane is the main filter, and cells and proteins stay in the blood.</figcaption>
 </figure>
 
@@ -110,7 +110,7 @@ Too much water, high blood water potential: every step reverses. Less ADH, fewer
 Adaptations: microvilli (surface area), many mitochondria (ATP), folded membrane next to the capillary (surface area), carrier proteins. Glucose cannot be reabsorbed once all the carriers are in use.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--04-pct-reabsorption.webp" width="900" height="940" alt="One proximal tubule cell between filtrate (left) and blood (right) with microvilli, mitochondria and tight junctions. Step 1: a sodium-potassium pump moves Na+ out of the cell using ATP. Step 2: Na+ diffuses in through a co-transporter carrying glucose. Step 3: glucose leaves by facilitated diffusion. Step 4: water follows by osmosis." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-homeostasis--04-pct-reabsorption.webp" width="900" height="910" alt="One proximal tubule cell between filtrate (left) and blood (right) with microvilli, mitochondria and tight junctions. Step 1: a sodium-potassium pump moves Na+ out of the cell using ATP. Step 2: Na+ diffuses in through a co-transporter carrying glucose. Step 3: glucose leaves by facilitated diffusion. Step 4: water follows by osmosis." loading="lazy">
   <figcaption>Active transport of sodium out of the cell drives co-transport of glucose in, and water follows by osmosis.</figcaption>
 </figure>
 
@@ -195,7 +195,7 @@ Example: loop length 12 mm gives urine 4.0 times plasma concentration, and loop 
 12. The filtered glucose exceeds what the carriers can reabsorb, so some stays in the filtrate.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--09-glucose-tolerance.webp" width="900" height="1050" alt="A graph of blood glucose for two people over 120 minutes after a glucose drink. Person A starts at 4.9, peaks at 7.8 (a 59 percent rise) and returns to 4.9. Person B starts at 7.4, peaks at 14.0 and is still 10.4, 3.0 above the start, at 120 minutes. Two cards show Type 1 (beta cells destroyed) and Type 2 (receptors respond poorly to insulin)." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-homeostasis--09-glucose-tolerance.webp" width="900" height="1014" alt="A graph of blood glucose for two people over 120 minutes after a glucose drink. Person A starts at 4.9, peaks at 7.8 (a 59 percent rise) and returns to 4.9. Person B starts at 7.4, peaks at 14.0 and is still 10.4, 3.0 above the start, at 120 minutes. Two cards show Type 1 (beta cells destroyed) and Type 2 (receptors respond poorly to insulin)." loading="lazy">
   <figcaption>A person whose glucose does not return to its starting range after a glucose drink may have diabetes.</figcaption>
 </figure>
 

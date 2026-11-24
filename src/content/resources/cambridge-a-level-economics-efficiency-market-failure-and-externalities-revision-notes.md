@@ -84,6 +84,16 @@ For a firm with TC = a + bQ², AC = a/Q + bQ and MC = 2bQ. Minimum AC is where t
 
 **Worked check: monopoly welfare loss (illustrative numbers).** A monopolist sets MR = MC at output 40, where the demand price is 10 and MC is 6. The allocatively efficient output is where P = MC, at output 60, where P = MC = 8. At output 40 the gap between price and MC is 10 − 6 = 4, so the welfare loss triangle is ½ × 4 × (60 − 40) = 40.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/economics-efficiency-and-market-failure--01-allocative-efficiency.webp" width="900" height="920" alt="Demand and marginal cost curves cross at quantity Q*, where price equals marginal cost: allocative efficiency. Below Q*, price is above marginal cost, so too little is made because the last unit is worth more than it costs. Above Q*, price is below marginal cost, so too much is made. With externalities the condition becomes marginal social benefit equals marginal social cost." loading="lazy">
+  <figcaption>Allocative efficiency is where price equals marginal cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/economics-efficiency-and-market-failure--02-monopoly-welfare-loss.webp" width="900" height="934" alt="A monopolist sets marginal revenue equal to marginal cost at output 40 and charges price 10, where marginal cost is 6. The allocatively efficient output, where price equals marginal cost, is 60 at a price of 8. The welfare loss triangle between demand and marginal cost from 40 to 60 has area one half times 4 times 20, which is 40." loading="lazy">
+  <figcaption>The monopolist stops at 40, losing the units worth more than they cost: a welfare loss of 40.</figcaption>
+</figure>
+
 ## Pareto optimality and dynamic efficiency (7.3.3, 7.3.4)
 
 - Test a move: does anyone lose? If anyone loses, it is not a Pareto improvement.
@@ -203,6 +213,11 @@ Net present value is not required. A decision with positive net social benefit b
 1. SB = 55 + 10 = 65 and SC = 50 + 12 = 62, so net social benefit = +3.
 2. The toll is paid by drivers and received by the operator, so it cancels out for society and is not added to SB. It matters only to the operator: 20 − 50 = −30, a private loss, so a private firm would not build.
 3. If the time saving is 20% lower, it is 55 × 0.8 = 44, SB = 54 and net social benefit = 54 − 62 = −8. The result flips when the time saving falls below 62 − 10 = 52.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/economics-efficiency-and-market-failure--03-bypass-cost-benefit.webp" width="900" height="870" alt="Social benefit of a bypass is 65 (time saved by drivers 55 plus fewer accidents 10) and social cost is 62 (construction 50 plus noise and pollution 12), so the net social benefit is plus 3. The toll of 20 is a transfer from drivers to the operator and cancels out for society. A private operator sees toll 20 minus construction 50, which is minus 30, and would not build. All figures are CU millions for a fictional town." loading="lazy">
+  <figcaption>Society gains 3, but a private operator would lose 30: the toll is only a transfer.</figcaption>
+</figure>
 
 ## Quick self-test
 

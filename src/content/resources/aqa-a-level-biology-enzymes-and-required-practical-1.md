@@ -55,7 +55,7 @@ It does this by holding substrate molecules in a position that favours the chang
 Enzymes are **catalysts**, so they are not used up. The same molecule can act on many substrate molecules in turn.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--03-activation-energy.webp" width="900" height="1060" alt="An energy profile from substrates to lower-energy products. The uncatalysed route has a high peak (large Ea); with an enzyme the peak is lower between the same substrates and products, so the overall energy change is unchanged. Two small pictures show an active site holding two substrates close in the correct orientation (building) and straining a bond (breaking)." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-factors-that-affect-enzyme-action--03-activation-energy.webp" width="900" height="912" alt="An energy profile from substrates to lower-energy products. The uncatalysed route has a high peak (large Ea); with an enzyme the peak is lower between the same substrates and products, so the overall energy change is unchanged. Two small pictures show an active site holding two substrates close in the correct orientation (building) and straining a bond (breaking)." loading="lazy">
   <figcaption>An enzyme lowers the activation energy without changing the overall energy change of the reaction.</figcaption>
 </figure>
 
@@ -73,7 +73,7 @@ In 1894 Emil Fischer proposed the **lock-and-key** model. The active site is a r
 A model explains evidence, and scientists change it when it cannot account for new observations. Lock and key pictures a rigid active site, which cannot account for strain on the substrate. Use induced fit in answers unless a question asks you to compare the two.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--02-lock-key-induced-fit.webp" width="900" height="1130" alt="Three rows. Lock and key: a rigid notch-shaped active site that the substrate fits exactly. Induced fit: the site starts close to but not exactly complementary, and moulds round the substrate as it binds, straining bonds. Specificity: a round substrate of the wrong shape cannot bind." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-factors-that-affect-enzyme-action--02-lock-key-induced-fit.webp" width="900" height="985" alt="Three rows. Lock and key: a rigid notch-shaped active site that the substrate fits exactly. Induced fit: the site starts close to but not exactly complementary, and moulds round the substrate as it binds, straining bonds. Specificity: a round substrate of the wrong shape cannot bind." loading="lazy">
   <figcaption>Lock and key has a fixed active site; in induced fit the site changes shape slightly as the substrate binds.</figcaption>
 </figure>
 
@@ -83,7 +83,7 @@ A model explains evidence, and scientists change it when it cannot account for n
 Enzymes catalyse a wide range of reactions. **Intracellular** enzymes act inside the cell that made them. Catalase breaks down hydrogen peroxide, a harmful by-product of metabolism, and DNA polymerase copies DNA. **Extracellular** enzymes are secreted and act outside the cell. Amylase from the salivary glands and the pancreas, and trypsin from the pancreas, digest food in the gut. Together they link cell chemistry to whole-organism function: respiration enzymes supply energy to cells, and digestive enzymes release small molecules that the body can absorb.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--01-enzyme-cycle.webp" width="900" height="1150" alt="Four panels in a cycle. Free enzyme E and substrate S, whose shape is complementary to the notch-shaped active site; the enzyme-substrate complex ES with the substrate in the site; the enzyme-product complex EP with the two product parts separating; then E + P with the products released and the active site free again. The enzyme is unchanged at the end." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-factors-that-affect-enzyme-action--01-enzyme-cycle.webp" width="900" height="940" alt="Four panels in a cycle. Free enzyme E and substrate S, whose shape is complementary to the notch-shaped active site; the enzyme-substrate complex ES with the substrate in the site; the enzyme-product complex EP with the two product parts separating; then E + P with the products released and the active site free again. The enzyme is unchanged at the end." loading="lazy">
   <figcaption>An enzyme binds its substrate, converts it and releases the products, ready to act again.</figcaption>
 </figure>
 
@@ -95,7 +95,7 @@ Enzymes catalyse a wide range of reactions. **Intracellular** enzymes act inside
 Raising temperature from a low value gives molecules more kinetic energy. Enzyme and substrate collide more often and with more energy, giving more enzyme-substrate complexes each second, and the rate rises. At the **optimum** the rate is highest. Above the optimum the enzyme vibrates more, and this breaks the hydrogen and ionic bonds holding the tertiary structure. The active site is altered, so the substrate does not fit. The enzyme is **denatured**. This is not reversible. A cold enzyme is slow but is not denatured.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--05-temperature-ph.webp" width="900" height="1140" alt="Two graphs. Temperature: rate rises to an optimum a little below 45 degrees Celsius then falls steeply as the active site is distorted and the enzyme denatured. pH: a bell-shaped curve with an optimum near 7; at low and high pH charges on R groups change. A buffer holds pH constant." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-factors-that-affect-enzyme-action--05-temperature-ph.webp" width="900" height="1170" alt="Two graphs. Temperature: rate rises to an optimum a little below 45 degrees Celsius then falls steeply as the active site is distorted and the enzyme denatured. pH: a bell-shaped curve with an optimum near 7; at low and high pH charges on R groups change. A buffer holds pH constant." loading="lazy">
   <figcaption>Away from the optimum, the active site changes shape so fewer enzyme-substrate complexes form.</figcaption>
 </figure>
 
@@ -117,7 +117,7 @@ At low substrate concentration the rate rises quickly, because collisions betwee
 A **competitive inhibitor** is a molecule shaped like the substrate. It occupies the active site, so fewer enzyme-substrate complexes can form. Increasing the inhibitor concentration lowers the rate. Raising the substrate concentration reduces the effect, because substrate molecules compete better for the active sites, and the same maximum rate can be reached.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-factors-that-affect-enzyme-action--07-inhibitor-types.webp" width="900" height="1060" alt="Three rows. No inhibitor: substrate fits the active site. Competitive: an inhibitor with a similar shape sits in the active site, blocking the substrate; more substrate out-competes it. Non-competitive: the inhibitor binds elsewhere and reshapes the active site, so extra substrate does not help." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-factors-that-affect-enzyme-action--07-inhibitor-types.webp" width="900" height="930" alt="Three rows. No inhibitor: substrate fits the active site. Competitive: an inhibitor with a similar shape sits in the active site, blocking the substrate; more substrate out-competes it. Non-competitive: the inhibitor binds elsewhere and reshapes the active site, so extra substrate does not help." loading="lazy">
   <figcaption>Competitive inhibitors compete for the active site; non-competitive inhibitors bind elsewhere and change its shape.</figcaption>
 </figure>
 

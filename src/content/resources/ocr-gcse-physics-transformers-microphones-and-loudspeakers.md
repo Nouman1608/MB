@@ -172,7 +172,7 @@ The potential difference is stepped down by a factor of 25 (225 to 9.0) and the 
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--06-transformer.webp" width="900" height="880" alt="A soft-iron core with a primary coil of 920 turns on the left taking 230 V a.c. and a secondary coil of 48 turns on the right giving 12 V. Vs = 230 x 48 / 920 = 12 V, a step-down transformer. Extended: power in equals power out, 18 W." loading="lazy">
+  <img src="https://img.marlbridge.com/physics-electricity-and-magnetism--06-transformer.webp" width="900" height="720" alt="A soft-iron core with a primary coil of 920 turns on the left taking 230 V a.c. and a secondary coil of 48 turns on the right giving 12 V. Vs = 230 x 48 / 920 = 12 V, a step-down transformer. Power in equals power out, 18 W." loading="lazy">
   <figcaption>A step-down transformer has fewer turns on the secondary, so the output voltage is lower.</figcaption>
 </figure>
 

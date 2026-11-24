@@ -41,7 +41,7 @@ Companion pages: the [revision notes](/resources/ocr-gcse-physics-sound-waves-at
 You need one equation, which you should already know: wave speed (m/s) = frequency (Hz) × wavelength (m), or v = f λ. Everything in P5.1f is that equation used carefully.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-waves--01-measuring-a-wave.webp" width="900" height="890" alt="A sine graph of displacement against distance marks wavelength between two crests (0.40 m) and amplitude from rest position to crest. With f = 5 Hz, v = f x wavelength = 2.0 m/s and the period is 0.2 s." loading="lazy">
+  <img src="https://img.marlbridge.com/physics-waves--01-measuring-a-wave.webp" width="900" height="810" alt="A sine graph of displacement against distance marks wavelength between two crests (0.40 m) and amplitude from rest position to crest. With f = 5 Hz, v = f x wavelength = 2.0 m/s and the period is 0.2 s." loading="lazy">
   <figcaption>Wavelength is crest to crest; amplitude is from the middle to a crest; v = f x wavelength.</figcaption>
 </figure>
 
@@ -148,7 +148,7 @@ The very short wavelength is useful. Waves reflect from detail that is about as 
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-waves--08-sonar.webp" width="900" height="1060" alt="A pulse goes down and the echo returns in 0.40 s at 1500 m/s: 600 m there and back, so the depth is 300 m." loading="lazy">
+  <img src="https://img.marlbridge.com/physics-waves--08-sonar.webp" width="900" height="990" alt="A pulse goes down and the echo returns in 0.40 s at 1500 m/s: 600 m there and back, so the depth is 300 m." loading="lazy">
   <figcaption>Depth = speed x time / 2, because the pulse travels there and back.</figcaption>
 </figure>
 

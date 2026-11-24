@@ -66,7 +66,7 @@ The **fluid mosaic model** describes the membrane as a fluid **phospholipid bila
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-cell-membranes-and-transport--01-fluid-mosaic.webp" width="900" height="970" alt="Cross-section of a cell surface membrane. Phospholipid heads face the watery outside and inside, with hydrophobic tails forming a core. A channel protein with a water-filled pore, a carrier protein and a glycoprotein span the bilayer, cholesterol sits in both layers, and carbohydrate chains on the glycoprotein and a glycolipid face outwards only." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-cell-membranes-and-transport--01-fluid-mosaic.webp" width="900" height="800" alt="Cross-section of a cell surface membrane. Phospholipid heads face the watery outside and inside, with hydrophobic tails forming a core. A channel protein with a water-filled pore, a carrier protein and a glycoprotein span the bilayer, cholesterol sits in both layers, and carbohydrate chains on the glycoprotein and a glycolipid face outwards only." loading="lazy">
   <figcaption>The bilayer, proteins, cholesterol and outward-facing carbohydrate chains of the fluid mosaic model.</figcaption>
 </figure>
 
@@ -94,12 +94,12 @@ The **fluid mosaic model** describes the membrane as a fluid **phospholipid bila
 Build this comparison table from memory — it is one of the most frequently tested structures in cell biology at this level. Don't forget **endocytosis and exocytosis** when a question asks about membrane transport "more broadly" — they don't use carrier/channel proteins but are still part of this outcome.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-cell-membranes-and-transport--03-passive-transport.webp" width="900" height="1010" alt="Three panels with a crowded high-concentration side and a sparse low-concentration side. Oxygen crosses the bilayer directly, ions pass through a channel protein pore, and glucose binds to a carrier protein that changes shape. All move down the gradient with no ATP." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-cell-membranes-and-transport--03-passive-transport.webp" width="900" height="1030" alt="Three panels with a crowded high-concentration side and a sparse low-concentration side. Oxygen crosses the bilayer directly, ions pass through a channel protein pore, and glucose binds to a carrier protein that changes shape. All move down the gradient with no ATP." loading="lazy">
   <figcaption>Simple diffusion crosses the bilayer; facilitated diffusion uses channel or carrier proteins; none needs ATP.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-cell-membranes-and-transport--04-active-bulk-transport.webp" width="900" height="1040" alt="A carrier protein moves glucose from the low to the high concentration side using ATP, which becomes ADP and phosphate. Endocytosis shows the membrane folding in, pinching off and leaving a vesicle inside. Exocytosis shows a vesicle arriving, fusing and releasing its contents outside." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-cell-membranes-and-transport--04-active-bulk-transport.webp" width="900" height="962" alt="A carrier protein moves glucose from the low to the high concentration side using ATP, which becomes ADP and phosphate. Endocytosis shows the membrane folding in, pinching off and leaving a vesicle inside. Exocytosis shows a vesicle arriving, fusing and releasing its contents outside." loading="lazy">
   <figcaption>Active transport and bulk transport both need ATP.</figcaption>
 </figure>
 

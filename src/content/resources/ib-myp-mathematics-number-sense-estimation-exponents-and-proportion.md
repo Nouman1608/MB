@@ -65,7 +65,7 @@ The sets, in the guide's notation: N is the positive integers and zero, Z the in
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--03-recurring-to-fraction.webp" width="900" height="870" alt="Two rows of digit boxes show x = 0.3636... and 100x = 36.3636... with identical tails after the decimal point. Subtracting gives 99x = 36, so x = 36/99 = 4/11." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-fractions-decimals-percentages-ordering-operations--03-recurring-to-fraction.webp" width="900" height="860" alt="Two rows of digit boxes show x = 0.3636... and 100x = 36.3636... with identical tails after the decimal point. Subtracting gives 99x = 36, so x = 36/99 = 4/11." loading="lazy">
   <figcaption>Multiplying by 100 lines up the repeating tails so that subtracting removes them.</figcaption>
 </figure>
 
@@ -98,12 +98,12 @@ A difference of squares removes the surd: (2 + √3)(2 - √3) = 4 - 3 = **1**.
 5/(3 - √2) = 5(3 + √2) / ((3 - √2)(3 + √2)) = 5(3 + √2)/7 = **(15 + 5√2)/7**.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exponential-growth-decay-and-surds--04-surd-diagonal.webp" width="900" height="940" alt="A square of side 4 cm has a diagonal of root 32, since 16 + 16 = 32. Taking out the square factor gives 4 root 2, which lands near 5.657 on the number line." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-exponential-growth-decay-and-surds--04-surd-diagonal.webp" width="900" height="900" alt="A square of side 4 cm has a diagonal of root 32, since 16 + 16 = 32. Taking out the square factor gives 4 root 2, which lands near 5.657 on the number line." loading="lazy">
   <figcaption>The exact length 4√2 cm is a surd; 5.657 is only a rounded value.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exponential-growth-decay-and-surds--05-conjugate-area.webp" width="900" height="769" alt="A square of side 3 with a square of area 5 cut out leaves area 4. Rearranged, it makes a rectangle 3 + root 5 by 3 minus root 5. So the conjugate product is 9 minus 5 = 4, a whole number." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-exponential-growth-decay-and-surds--05-conjugate-area.webp" width="900" height="779" alt="A square of side 3 with a square of area 5 cut out leaves area 4. Rearranged, it makes a rectangle 3 + root 5 by 3 minus root 5. So the conjugate product is 9 minus 5 = 4, a whole number." loading="lazy">
   <figcaption>Multiplying by the conjugate gives a difference of two squares, so the surd disappears.</figcaption>
 </figure>
 
@@ -171,7 +171,7 @@ To solve 2ˣ = 50, take logs: x = log 50 / log 2 = **5.64** (3 s.f.), found with
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-powers-roots-and-indices--05-fractional-indices.webp" width="900" height="1000" alt="A cube of 125 blocks has side 5, so 125^(1/3) = 5. Two flow chains show 125^(-2/3): root 3, square, flip gives 1/25, and 32^(3/5): root 5, cube gives 8." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-powers-roots-and-indices--05-fractional-indices.webp" width="900" height="970" alt="A cube of 125 blocks has side 5, so 125^(1/3) = 5. Two flow chains show 125^(-2/3): root 3, square, flip gives 1/25, and 32^(3/5): root 5, cube gives 8." loading="lazy">
   <figcaption>The denominator is the root, the numerator is the power, and a minus sign flips.</figcaption>
 </figure>
 
@@ -193,7 +193,7 @@ Open circle: the end value is not included (< or >). Closed circle: included (�
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--03-inequality-number-line.webp" width="900" height="860" alt="Solving minus 5 less than 2x plus 3, at most 11, gives minus 4 less than x, at most 4. An open circle at minus 4 and a closed circle at 4 are joined by a line. The whole-number solutions are minus 3 to 4." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-algebra-and-graphs--03-inequality-number-line.webp" width="900" height="750" alt="Solving minus 5 less than 2x plus 3, at most 11, gives minus 4 less than x, at most 4. An open circle at minus 4 and a closed circle at 4 are joined by a line. The whole-number solutions are minus 3 to 4." loading="lazy">
   <figcaption>Open circles exclude an end value, closed circles include it.</figcaption>
 </figure>
 

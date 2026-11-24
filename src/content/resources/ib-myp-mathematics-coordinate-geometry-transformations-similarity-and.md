@@ -112,17 +112,17 @@ Two lines at right angles have gradients whose product is −1. So the partner o
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--03-length-midpoint.webp" width="900" height="960" alt="A line from A (-2, 1) to B (6, 7) forms a right triangle 8 across and 6 up, so its length is 10. The midpoint is the average of the coordinates, (2, 4)." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-coordinate-geometry--03-length-midpoint.webp" width="900" height="950" alt="A line from A (-2, 1) to B (6, 7) forms a right triangle 8 across and 6 up, so its length is 10. The midpoint is the average of the coordinates, (2, 4)." loading="lazy">
   <figcaption>Length uses Pythagoras; the midpoint averages the coordinates.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--06-perpendicular-lines.webp" width="900" height="960" alt="Two lines meet at right angles at (0, 1). One has gradient 2/3 and the other -3/2; their product is -1." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-coordinate-geometry--06-perpendicular-lines.webp" width="900" height="940" alt="Two lines meet at right angles at (0, 1). One has gradient 2/3 and the other -3/2; their product is -1." loading="lazy">
   <figcaption>Perpendicular gradients multiply to -1.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-coordinate-geometry--07-perpendicular-bisector.webp" width="900" height="1050" alt="AB joins (-3, 8) and (9, -2) with gradient -5/6. The bisector has gradient 6/5 and passes through M (3, 3), giving y = 6/5 x - 3/5." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-coordinate-geometry--07-perpendicular-bisector.webp" width="900" height="1040" alt="AB joins (-3, 8) and (9, -2) with gradient -5/6. The bisector has gradient 6/5 and passes through M (3, 3), giving y = 6/5 x - 3/5." loading="lazy">
   <figcaption>Combine gradient, perpendicular rule, midpoint and y = mx + c.</figcaption>
 </figure>
 
@@ -152,7 +152,7 @@ To reflect a point, go the same perpendicular distance beyond the mirror line. O
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--01-reflection-mirror-line.webp" width="900" height="845" alt="Triangle ABC is reflected in the vertical line x = 4. Dashed lines join each corner to its image and cross the mirror at their midpoints. Image corners are A'(7,2), B'(7,4), C'(5,2)." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-transformations-and-vectors--01-reflection-mirror-line.webp" width="900" height="792" alt="Triangle ABC is reflected in the vertical line x = 4. Dashed lines join each corner to its image and cross the mirror at their midpoints. Image corners are A'(7,2), B'(7,4), C'(5,2)." loading="lazy">
   <figcaption>A reflection puts each image point the same distance behind the mirror line, and is described by its mirror line.</figcaption>
 </figure>
 
@@ -180,12 +180,12 @@ A translation slides every point by the same column vector; (3, −2) as a colum
 To describe a transformation, give its type and details: mirror equation; centre, angle and direction; vector; or centre and scale factor. 
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--02-rotation-about-origin.webp" width="900" height="1065" alt="Triangle ABC is rotated 90 degrees clockwise about the origin. B(1,4) moves to B'(4,-1); the lines OB and OB' are equal and meet at a right angle. A rotation needs centre, angle and direction." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-transformations-and-vectors--02-rotation-about-origin.webp" width="900" height="864" alt="Triangle ABC is rotated 90 degrees clockwise about the origin. B(1,4) moves to B'(4,-1); the lines OB and OB' are equal and meet at a right angle. A rotation needs centre, angle and direction." loading="lazy">
   <figcaption>A rotation is described by its centre, angle and direction.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--03-translation-column-vector.webp" width="900" height="970" alt="Triangle ABC is translated by (4, -3): 4 right and 3 down. Every corner moves by the same arrow to A'(5,-1), B'(5,1), C'(7,-1)." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-transformations-and-vectors--03-translation-column-vector.webp" width="900" height="886" alt="Triangle ABC is translated by (4, -3): 4 right and 3 down. Every corner moves by the same arrow to A'(5,-1), B'(5,1), C'(7,-1)." loading="lazy">
   <figcaption>A translation slides every point by the same column vector without turning or resizing the shape.</figcaption>
 </figure>
 
@@ -273,17 +273,17 @@ A factor between 0 and 1 gives a smaller image; a negative factor puts it across
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--04-enlargement-scale-factor-2.webp" width="900" height="945" alt="Triangle ABC is enlarged by scale factor 2 from P(1,1). Dashed lines from P pass through each corner to its image, which is twice as far from P. Every side doubles." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-transformations-and-vectors--04-enlargement-scale-factor-2.webp" width="900" height="860" alt="Triangle ABC is enlarged by scale factor 2 from P(1,1). Dashed lines from P pass through each corner to its image, which is twice as far from P. Every side doubles." loading="lazy">
   <figcaption>An enlargement multiplies every distance from the centre, and every side, by the scale factor.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--05-enlargement-fractional.webp" width="900" height="1145" alt="Triangle ABC is enlarged by scale factor one half from P(1,1). Each image corner is half as far from P, giving a smaller image A'(2,2), B'(2,4), C'(4,2)." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-transformations-and-vectors--05-enlargement-fractional.webp" width="900" height="880" alt="Triangle ABC is enlarged by scale factor one half from P(1,1). Each image corner is half as far from P, giving a smaller image A'(2,2), B'(2,4), C'(4,2)." loading="lazy">
   <figcaption>A scale factor between 0 and 1 makes the image smaller.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--06-enlargement-negative.webp" width="900" height="905" alt="Triangle ABC is enlarged by scale factor -2 from P(3,3). Each image corner is twice as far from P but on the opposite side, so the image is upside down: A'(1,1), B'(1,-1), C'(-3,1)." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-transformations-and-vectors--06-enlargement-negative.webp" width="900" height="864" alt="Triangle ABC is enlarged by scale factor -2 from P(3,3). Each image corner is twice as far from P but on the opposite side, so the image is upside down: A'(1,1), B'(1,-1), C'(-3,1)." loading="lazy">
   <figcaption>A negative scale factor puts the image on the opposite side of the centre, inverted.</figcaption>
 </figure>
 

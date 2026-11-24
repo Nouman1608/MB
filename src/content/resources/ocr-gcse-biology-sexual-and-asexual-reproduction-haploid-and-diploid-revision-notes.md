@@ -83,7 +83,7 @@ These notes condense statements B5.1f, B5.1g and B5.1h of the OCR GCSE (9-1) Bio
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--01-asexual-sexual.webp" width="900" height="1095" alt="One parent makes genetically identical offspring. In sexual reproduction two parents each make a gamete; the gametes fuse to form a zygote, giving offspring that differ from each other. Also shown: gametes are n and the zygote 2n (cat 19 + 19 = 38)." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-reproduction--01-asexual-sexual.webp" width="900" height="1220" alt="One parent makes genetically identical offspring. In sexual reproduction two parents each make a gamete; the gametes fuse to form a zygote, giving offspring that differ from each other. Also shown: gametes are n and the zygote 2n (cat 19 + 19 = 38)." loading="lazy">
   <figcaption>Compare one-parent and two-parent reproduction.</figcaption>
 </figure>
 
@@ -129,7 +129,7 @@ These notes condense statements B5.1f, B5.1g and B5.1h of the OCR GCSE (9-1) Bio
 - It is a source of genetic variation.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-drugs--07-bacteria-doubling.webp" width="900" height="890" alt="Worked example. A resistant bacterium dividing every 30 minutes makes 8 divisions in 4 hours, so 2 to the power 8 = 256 bacteria. The line graph curves steeply upwards." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-drugs--07-bacteria-doubling.webp" width="900" height="660" alt="Worked example. A resistant bacterium dividing every 30 minutes makes 8 divisions in 4 hours, so 2 to the power 8 = 256 bacteria. The line graph curves steeply upwards." loading="lazy">
   <figcaption>A resistant strain can become common very quickly because numbers double with every division.</figcaption>
 </figure>
 
@@ -169,7 +169,7 @@ These notes condense statements B5.1f, B5.1g and B5.1h of the OCR GCSE (9-1) Bio
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-inheritance--04-mitosis-vs-meiosis.webp" width="900" height="1260" alt="A diploid cell with four chromosomes (two pairs) divides by mitosis into two identical cells with four chromosomes each, or by meiosis into four different cells with two chromosomes each. Fertilisation joins two haploid gametes to restore the diploid number; in humans 23 + 23 = 46." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-inheritance--04-mitosis-vs-meiosis.webp" width="900" height="1220" alt="A diploid cell with four chromosomes (two pairs) divides by mitosis into two identical cells with four chromosomes each, or by meiosis into four different cells with two chromosomes each. Fertilisation joins two haploid gametes to restore the diploid number; in humans 23 + 23 = 46." loading="lazy">
   <figcaption>Mitosis keeps the chromosome number; meiosis halves it, and fertilisation restores it.</figcaption>
 </figure>
 

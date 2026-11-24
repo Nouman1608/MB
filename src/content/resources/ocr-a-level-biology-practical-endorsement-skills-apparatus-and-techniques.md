@@ -195,7 +195,7 @@ Rf = spot distance from baseline / solvent front distance from baseline
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-genetic-technology--06-gel-electrophoresis.webp" width="900" height="1109" alt="An agarose gel has wells at the negative end and DNA runs towards the positive electrode. Smaller fragments travel further. Linear 6000 bp DNA cut twice gives 3300, 1500 and 1200 bp bands; a 5000 bp circle cut twice gives 2300 and 2700 bp bands." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-genetic-technology--06-gel-electrophoresis.webp" width="900" height="1020" alt="An agarose gel has wells at the negative end and DNA runs towards the positive electrode. Smaller fragments travel further. Linear 6000 bp DNA cut twice gives 3300, 1500 and 1200 bp bands; a 5000 bp circle cut twice gives 2300 and 2700 bp bands." loading="lazy">
   <figcaption>Negatively charged DNA runs to the anode, with smaller fragments travelling further.</figcaption>
 </figure>
 
@@ -266,7 +266,7 @@ For mobile animals, capture–mark–recapture: N = (M × n) / m, where M is the
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--04-sampling-methods.webp" width="900" height="1070" alt="Three fields show quadrat placement. Random quadrats are scattered by coordinates from two tapes. A transect has quadrats at equal intervals from path to woodland. Stratified sampling puts 14 quadrats in grass and 6 in a hollow, matching 70% and 30% of the area." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-classification-biodiversity-and-conservation--04-sampling-methods.webp" width="900" height="1045" alt="Three fields show quadrat placement. Random quadrats are scattered by coordinates from two tapes. A transect has quadrats at equal intervals from path to woodland. Stratified sampling puts 14 quadrats in grass and 6 in a hollow, matching 70% and 30% of the area." loading="lazy">
   <figcaption>Random avoids bias, transects show change along a gradient, and stratified samples each area in proportion.</figcaption>
 </figure>
 

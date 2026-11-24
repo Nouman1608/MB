@@ -62,7 +62,7 @@ A vector has both **magnitude** (size) and **direction**. A scalar, such as 5 or
 A column vector (x, y) means "move x across and y up". Negative x is left and negative y is down. So →AB = (4, −3) means from A go 4 right and 3 down to reach B. Reversing the direction changes every sign: →BA = −→AB = (−4, 3).
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-vectors-and-magnitude--01-vector-between-points.webp" width="900" height="1020" alt="Grid with P(-3,5) and Q(4,-1). Going from P to Q is 7 right and 6 down, so PQ is the column vector (7, -6). QP goes the other way, (-7, 6), so QP = -PQ." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-vectors-and-magnitude--01-vector-between-points.webp" width="900" height="1020" alt="Grid with P(-3,5) and Q(4,-1). Going from P to Q is 7 right and 6 down, so PQ is the column vector (7, -6). QP goes the other way, (-7, 6), so QP = -PQ." loading="lazy">
   <figcaption>Finish minus start gives the column vector; the reverse vector has both signs changed.</figcaption>
 </figure>
 
@@ -76,17 +76,17 @@ A column vector (x, y) means "move x across and y up". Negative x is left and ne
 Two vectors are **parallel** when one is a scalar multiple of the other. For example, 6**a** − 9**b** = 3(2**a** − 3**b**), so 6**a** − 9**b** is parallel to 2**a** − 3**b** and three times as long.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-vectors-and-magnitude--04-scalar-multiples.webp" width="900" height="866" alt="r = (6,-4) with 3r = (18,-12) three times as long, half r = (3,-2) half as long, and -2r = (-12,8) twice as long and reversed. All lie along the same line." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-vectors-and-magnitude--04-scalar-multiples.webp" width="900" height="866" alt="r = (6,-4) with 3r = (18,-12) three times as long, half r = (3,-2) half as long, and -2r = (-12,8) twice as long and reversed. All lie along the same line." loading="lazy">
   <figcaption>Multiplying by k scales both entries and keeps the arrow parallel to r.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-vectors-and-magnitude--02-adding-vectors.webp" width="900" height="1020" alt="p = (5,-2) is drawn from the origin, then q = (-1,7) from where p ends. The single arrow from the origin to (4,5) is p + q, found by adding tops and adding bottoms." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-vectors-and-magnitude--02-adding-vectors.webp" width="900" height="1010" alt="p = (5,-2) is drawn from the origin, then q = (-1,7) from where p ends. The single arrow from the origin to (4,5) is p + q, found by adding tops and adding bottoms." loading="lazy">
   <figcaption>p + q means do p, then q; add the tops and add the bottoms.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-vectors-and-magnitude--03-subtracting-vectors.webp" width="900" height="1026" alt="p = (5,-2), then -q = (1,-7) from the end of p. The arrow from the origin to (6,-9) is p - q, the same as subtracting entry by entry." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-vectors-and-magnitude--03-subtracting-vectors.webp" width="900" height="1010" alt="p = (5,-2), then -q = (1,-7) from the end of p. The arrow from the origin to (6,-9) is p - q, the same as subtracting entry by entry." loading="lazy">
   <figcaption>p − q is p plus the opposite of q.</figcaption>
 </figure>
 
@@ -117,12 +117,12 @@ Square the negative component in full: (−24)² = +576.
 ```
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-vectors-and-magnitude--05-magnitude-pythagoras.webp" width="900" height="998" alt="The vector (-8,15) is the hypotenuse of a right-angled triangle with sides 8 and 15. Pythagoras gives square root of (64 + 225) = 17." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-vectors-and-magnitude--05-magnitude-pythagoras.webp" width="900" height="1000" alt="The vector (-8,15) is the hypotenuse of a right-angled triangle with sides 8 and 15. Pythagoras gives square root of (64 + 225) = 17." loading="lazy">
   <figcaption>The magnitude is the hypotenuse of the right-angled triangle with sides x and y.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-vectors-and-magnitude--06-magnitude-of-sum.webp" width="900" height="800" alt="a = (3,-1) then b = (-2,4) gives a + b = (1,3). |a| + |b| = 7.63 but |a + b| = 3.16, so magnitudes cannot be added separately." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-vectors-and-magnitude--06-magnitude-of-sum.webp" width="900" height="800" alt="a = (3,-1) then b = (-2,4) gives a + b = (1,3). |a| + |b| = 7.63 but |a + b| = 3.16, so magnitudes cannot be added separately." loading="lazy">
   <figcaption>Add the vectors first, then find the magnitude; |a + b| is not |a| + |b|.</figcaption>
 </figure>
 
@@ -180,7 +180,7 @@ A proof must end with a sentence that names both facts: the scalar multiple *and
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--07-vector-proof-midpoints.webp" width="900" height="945" alt="In triangle OAB, M and N are midpoints of OA and OB. MN = ON - OM = half of (b - a), and AB = b - a, so MN is half of AB and parallel to it. Shown with a = (8,2), b = (2,6)." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-transformations-and-vectors--07-vector-proof-midpoints.webp" width="900" height="906" alt="In triangle OAB, M and N are midpoints of OA and OB. MN = ON - OM = half of (b - a), and AB = b - a, so MN is half of AB and parallel to it. Shown with a = (8,2), b = (2,6)." loading="lazy">
   <figcaption>Writing every vector in terms of a and b shows MN = half of AB, so the lines are parallel.</figcaption>
 </figure>
 
@@ -225,7 +225,7 @@ The image has vertices **(1, 2), (1, 4) and (−2, 2)**. Check one length: the s
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--02-rotation-about-origin.webp" width="900" height="1065" alt="Triangle ABC is rotated 90 degrees clockwise about the origin. B(1,4) moves to B'(4,-1); the lines OB and OB' are equal and meet at a right angle. A rotation needs centre, angle and direction." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-transformations-and-vectors--02-rotation-about-origin.webp" width="900" height="864" alt="Triangle ABC is rotated 90 degrees clockwise about the origin. B(1,4) moves to B'(4,-1); the lines OB and OB' are equal and meet at a right angle. A rotation needs centre, angle and direction." loading="lazy">
   <figcaption>A rotation is described by its centre, angle and direction.</figcaption>
 </figure>
 
@@ -258,7 +258,7 @@ To **construct** a mirror line from an object and its image, join a point to its
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--01-reflection-mirror-line.webp" width="900" height="845" alt="Triangle ABC is reflected in the vertical line x = 4. Dashed lines join each corner to its image and cross the mirror at their midpoints. Image corners are A'(7,2), B'(7,4), C'(5,2)." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-transformations-and-vectors--01-reflection-mirror-line.webp" width="900" height="792" alt="Triangle ABC is reflected in the vertical line x = 4. Dashed lines join each corner to its image and cross the mirror at their midpoints. Image corners are A'(7,2), B'(7,4), C'(5,2)." loading="lazy">
   <figcaption>A reflection puts each image point the same distance behind the mirror line, and is described by its mirror line.</figcaption>
 </figure>
 
@@ -268,7 +268,7 @@ To **construct** a mirror line from an object and its image, join a point to its
 A translation is specified by a distance and a direction, written as a column vector. Translating by (−5, 3) moves every point 5 left and 3 up. To describe a translation, subtract object coordinates from image coordinates: image − object.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--03-translation-column-vector.webp" width="900" height="970" alt="Triangle ABC is translated by (4, -3): 4 right and 3 down. Every corner moves by the same arrow to A'(5,-1), B'(5,1), C'(7,-1)." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-transformations-and-vectors--03-translation-column-vector.webp" width="900" height="886" alt="Triangle ABC is translated by (4, -3): 4 right and 3 down. Every corner moves by the same arrow to A'(5,-1), B'(5,1), C'(7,-1)." loading="lazy">
   <figcaption>A translation slides every point by the same column vector without turning or resizing the shape.</figcaption>
 </figure>
 
@@ -314,12 +314,12 @@ The image is **(3, 1), (5, 1), (5, 3)**. Each side is half as long and each angl
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--04-enlargement-scale-factor-2.webp" width="900" height="945" alt="Triangle ABC is enlarged by scale factor 2 from P(1,1). Dashed lines from P pass through each corner to its image, which is twice as far from P. Every side doubles." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-transformations-and-vectors--04-enlargement-scale-factor-2.webp" width="900" height="860" alt="Triangle ABC is enlarged by scale factor 2 from P(1,1). Dashed lines from P pass through each corner to its image, which is twice as far from P. Every side doubles." loading="lazy">
   <figcaption>An enlargement multiplies every distance from the centre, and every side, by the scale factor.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--05-enlargement-fractional.webp" width="900" height="1145" alt="Triangle ABC is enlarged by scale factor one half from P(1,1). Each image corner is half as far from P, giving a smaller image A'(2,2), B'(2,4), C'(4,2)." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-transformations-and-vectors--05-enlargement-fractional.webp" width="900" height="880" alt="Triangle ABC is enlarged by scale factor one half from P(1,1). Each image corner is half as far from P, giving a smaller image A'(2,2), B'(2,4), C'(4,2)." loading="lazy">
   <figcaption>A scale factor between 0 and 1 makes the image smaller.</figcaption>
 </figure>
 

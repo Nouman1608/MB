@@ -160,7 +160,7 @@ Useful relation from speed = distance / time: orbital speed = 2πr / T.
 **Method for a greenhouse-gas question:** (1) more greenhouse gas absorbs more outgoing infrared, (2) less escapes to space, so emitted is less than absorbed, (3) Earth warms, (4) it emits more until the balance returns at a higher temperature.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-thermal-physics--07-radiation-plates.webp" width="900" height="950" alt="A radiant heater faces a dull black and a shiny plate at equal distance. The black plate absorbs the infrared, its wax melts and its pin falls first; the shiny plate reflects most of it and its pin stays." loading="lazy">
+  <img src="https://img.marlbridge.com/physics-thermal-physics--07-radiation-plates.webp" width="900" height="910" alt="A radiant heater faces a dull black and a shiny plate at equal distance. The black plate absorbs the infrared, its wax melts and its pin falls first; the shiny plate reflects most of it and its pin stays." loading="lazy">
   <figcaption>Dull black surfaces absorb infrared best; shiny ones reflect it.</figcaption>
 </figure>
 

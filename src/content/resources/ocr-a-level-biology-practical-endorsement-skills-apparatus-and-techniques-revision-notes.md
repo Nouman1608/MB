@@ -228,7 +228,7 @@ Mark–recapture assumptions: population closed, marks last and cause no harm, m
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-classification-biodiversity-and-conservation--04-sampling-methods.webp" width="900" height="1070" alt="Three fields show quadrat placement. Random quadrats are scattered by coordinates from two tapes. A transect has quadrats at equal intervals from path to woodland. Stratified sampling puts 14 quadrats in grass and 6 in a hollow, matching 70% and 30% of the area." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-classification-biodiversity-and-conservation--04-sampling-methods.webp" width="900" height="1045" alt="Three fields show quadrat placement. Random quadrats are scattered by coordinates from two tapes. A transect has quadrats at equal intervals from path to woodland. Stratified sampling puts 14 quadrats in grass and 6 in a hollow, matching 70% and 30% of the area." loading="lazy">
   <figcaption>Random avoids bias, transects show change along a gradient, and stratified samples each area in proportion.</figcaption>
 </figure>
 

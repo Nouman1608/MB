@@ -85,7 +85,7 @@ C′ = (−1 + 5, 4 − 2) = (4, 2)
 To return A′B′C′ to ABC you use the opposite vector (−5, 2).
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--03-translation-column-vector.webp" width="900" height="970" alt="Triangle ABC is translated by (4, -3): 4 right and 3 down. Every corner moves by the same arrow to A'(5,-1), B'(5,1), C'(7,-1)." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-transformations-and-vectors--03-translation-column-vector.webp" width="900" height="886" alt="Triangle ABC is translated by (4, -3): 4 right and 3 down. Every corner moves by the same arrow to A'(5,-1), B'(5,1), C'(7,-1)." loading="lazy">
   <figcaption>A translation slides every point by the same column vector without turning or resizing the shape.</figcaption>
 </figure>
 
@@ -123,7 +123,7 @@ L lies on the line y = x, so it does not move.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--01-reflection-mirror-line.webp" width="900" height="845" alt="Triangle ABC is reflected in the vertical line x = 4. Dashed lines join each corner to its image and cross the mirror at their midpoints. Image corners are A'(7,2), B'(7,4), C'(5,2)." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-transformations-and-vectors--01-reflection-mirror-line.webp" width="900" height="792" alt="Triangle ABC is reflected in the vertical line x = 4. Dashed lines join each corner to its image and cross the mirror at their midpoints. Image corners are A'(7,2), B'(7,4), C'(5,2)." loading="lazy">
   <figcaption>A reflection puts each image point the same distance behind the mirror line, and is described by its mirror line.</figcaption>
 </figure>
 
@@ -170,7 +170,7 @@ The centre is (1, 2). Check the angle: P is (3, 1) from the centre and P′ is (
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--02-rotation-about-origin.webp" width="900" height="1065" alt="Triangle ABC is rotated 90 degrees clockwise about the origin. B(1,4) moves to B'(4,-1); the lines OB and OB' are equal and meet at a right angle. A rotation needs centre, angle and direction." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-transformations-and-vectors--02-rotation-about-origin.webp" width="900" height="864" alt="Triangle ABC is rotated 90 degrees clockwise about the origin. B(1,4) moves to B'(4,-1); the lines OB and OB' are equal and meet at a right angle. A rotation needs centre, angle and direction." loading="lazy">
   <figcaption>A rotation is described by its centre, angle and direction.</figcaption>
 </figure>
 
@@ -198,7 +198,7 @@ The object has area ½ × 1 × 2 = 1 and the image has area 9, which is 3² time
 **Finding the centre.** Draw a line through each pair of corresponding points. The lines meet at the centre. Here (2, 1) to (4, 3) is the line y = x − 1, and (3, 3) to (7, 9) is the line y − 3 = 1.5(x − 3). They meet at (1, 0). The scale factor is the ratio of corresponding lengths: image ÷ object.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-transformations-and-vectors--04-enlargement-scale-factor-2.webp" width="900" height="945" alt="Triangle ABC is enlarged by scale factor 2 from P(1,1). Dashed lines from P pass through each corner to its image, which is twice as far from P. Every side doubles." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-transformations-and-vectors--04-enlargement-scale-factor-2.webp" width="900" height="860" alt="Triangle ABC is enlarged by scale factor 2 from P(1,1). Dashed lines from P pass through each corner to its image, which is twice as far from P. Every side doubles." loading="lazy">
   <figcaption>An enlargement multiplies every distance from the centre, and every side, by the scale factor.</figcaption>
 </figure>
 

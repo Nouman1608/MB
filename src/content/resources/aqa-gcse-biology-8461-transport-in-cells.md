@@ -174,6 +174,11 @@ Link each feature to its effect: "villi give a large surface area, so more gluco
   <figcaption>Oxygen diffuses into the blood and carbon dioxide out, across two walls each one cell thick.</figcaption>
 </figure>
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/biology-transport-in-cells--01-villus.webp" width="900" height="1010" alt="The small intestine lining is covered in millions of villi, giving a large surface area so more glucose is absorbed at once. One villus is enlarged: digested food such as glucose crosses its wall, which is one cell thick for a short diffusion path, into a good capillary network that carries absorbed food away and keeps the gradient steep." loading="lazy">
+  <figcaption>Villi give a large surface area, a thin wall and a good blood supply.</figcaption>
+</figure>
+
 ## Osmosis (4.1.3.2)
 
 Water moves across cell membranes by osmosis:
@@ -233,6 +238,11 @@ Always give the unit.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-transport-in-cells--03-water-uptake-rate.webp" width="900" height="900" alt="A straight-line graph of water gained (g) against time (min) from 0 to 0.36 g at 30 minutes. The gradient is 0.012 g per min, which equals 0.72 g per hour." loading="lazy">
   <figcaption>Rate = amount divided by time: 0.36 g in 30 min is 0.012 g/min.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/biology-transport-in-cells--02-osmosis.webp" width="900" height="906" alt="A partially permeable membrane separates a dilute solution (more water, less solute) from a concentrated solution (less water, more solute). Water molecules pass through but sucrose molecules are too large, so there is a net movement of water from the dilute to the concentrated solution, with no energy needed. Below, plant tissue gains mass in a more dilute solution, loses mass in a more concentrated one, and does not change at the same concentration." loading="lazy">
+  <figcaption>In osmosis water moves from a dilute to a concentrated solution through a partially permeable membrane.</figcaption>
 </figure>
 
 ## Required practical activity 3
@@ -297,6 +307,11 @@ aerobic respiration slows and mineral ion uptake falls.
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-transport-in-cells--04-root-hair-waterlogged.webp" width="900" height="985" alt="Two panels of a root hair cell. In well-aerated soil, mineral ions move from few in the soil to many in the cell using energy from respiration. In waterlogged soil there is little oxygen, respiration slows, and fewer ions are taken up." loading="lazy">
   <figcaption>Active transport in roots needs energy from respiration, so waterlogging reduces ion uptake.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/biology-transport-in-cells--03-active-transport.webp" width="900" height="818" alt="Particles are moved across a cell membrane from a more dilute solution to a more concentrated one, against the concentration gradient, using energy from respiration. Two examples: root hair cells take in mineral ions from very dilute soil water, and sugar molecules move from a lower concentration in the gut into blood with a higher concentration. Less respiration, as in waterlogged roots, means less active transport." loading="lazy">
+  <figcaption>Active transport moves substances against the gradient using energy from respiration.</figcaption>
 </figure>
 
 ## Comparing the three processes

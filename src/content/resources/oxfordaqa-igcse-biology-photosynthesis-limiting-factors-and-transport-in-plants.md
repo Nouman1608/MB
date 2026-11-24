@@ -207,7 +207,7 @@ A cube of the same volume has sides of 1.26 cm, a surface area of 9.52 cm² and 
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/o-level-biology-5090-transport-in-flowering-plants--07-root-hair-cell.webp" width="900" height="1000" alt="A root hair cell with a long thin hair among soil particles. Labels: thin cell wall, cell sap with lower water potential than soil, many mitochondria for active transport, nucleus. Arrows show water entering by osmosis and ions by active transport." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-transport-in-flowering-plants--07-root-hair-cell.webp" width="900" height="1000" alt="A root hair cell with a long thin hair among soil particles. Labels: thin cell wall, cell sap more concentrated than the soil water, many mitochondria for active transport, nucleus. Arrows show water entering by osmosis and ions by active transport." loading="lazy">
   <figcaption>Each feature of a root hair cell helps uptake of water and ions.</figcaption>
 </figure>
 

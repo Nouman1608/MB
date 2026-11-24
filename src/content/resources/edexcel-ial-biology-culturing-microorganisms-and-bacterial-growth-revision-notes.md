@@ -72,7 +72,7 @@ CFU per cm³ = (mean colonies ÷ volume plated in cm³) × dilution factor
 **Which method when?** Use dilution plating if you need to know how many cells are alive. Use turbidity if you want many readings from one culture without opening it often. Use dry mass if the cells clump or are filamentous and cannot be counted. Use a haemocytometer for a rapid count of larger cells.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--08-herd-immunity.webp" width="900" height="930" alt="Two grids of 100 people with one case and R0 of 6. With nobody immune the case infects 6 neighbours. With 84 immune, above the 83.3 per cent needed (1 minus 1/6), every neighbour is immune and spread is blocked, protecting those who cannot be vaccinated." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-immunity--08-herd-immunity.webp" width="900" height="890" alt="Two grids of 100 people with one case and R0 of 6. With nobody immune the case infects 6 neighbours. With 84 immune, above the 83.3 per cent needed (1 minus 1/6), every neighbour is immune and spread is blocked, protecting those who cannot be vaccinated." loading="lazy">
   <figcaption>When enough people are immune, a pathogen cannot find susceptible hosts and the outbreak stops.</figcaption>
 </figure>
 

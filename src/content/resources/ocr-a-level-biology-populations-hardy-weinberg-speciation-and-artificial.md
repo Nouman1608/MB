@@ -56,12 +56,12 @@ The environment is stable and the extremes of a feature are at a disadvantage. I
 Hatching is highest at 22 g and falls on both sides. This is stabilising selection. Hatching at 18 g is 88 − 34 = 54 percentage points lower than at 22 g. As a percentage of the 22 g value, the fall is 54 ÷ 88 × 100 = 61.4%.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--02-three-types-of-selection.webp" width="900" height="1274" alt="Three panels each show a dashed bell curve before selection and a solid curve after. Stabilising selection narrows the curve with the mean unchanged, directional selection shifts it toward one extreme, and disruptive selection leaves two peaks and removes the middle." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-selection-and-evolution--02-three-types-of-selection.webp" width="900" height="1216" alt="Three panels each show a dashed bell curve before selection and a solid curve after. Stabilising selection narrows the curve with the mean unchanged, directional selection shifts it toward one extreme, and disruptive selection leaves two peaks and removes the middle." loading="lazy">
   <figcaption>Selection can narrow, shift or split the distribution of a phenotype.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--03-selection-changes-allele-frequency.webp" width="900" height="1140" alt="A population of 1000 beetles is 490 AA, 420 Aa and 90 aa. Predators eat all aa beetles, leaving 910 breeders. The allele count changes q from 600/2000 = 0.30 to 420/1820 = 0.23, a gradual fall because a allele hides in Aa survivors." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-selection-and-evolution--03-selection-changes-allele-frequency.webp" width="900" height="1070" alt="A population of 1000 beetles is 490 AA, 420 Aa and 90 aa. Predators eat all aa beetles, leaving 910 breeders. The allele count changes q from 600/2000 = 0.30 to 420/1820 = 0.23, a gradual fall because a allele hides in Aa survivors." loading="lazy">
   <figcaption>Removing one phenotype lowers the frequency of its allele in the next generation.</figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ The environment changes, or a new selection pressure appears, and one extreme is
 **Genetic drift** is a change in allele frequency by chance. It is not caused by any advantage. It matters most in small populations because a chance event affects a large share of the gene pool. Suppose a colony of 15 diploid lizards holds 30 copies of a gene and 3 copies of one allele fail to pass on by chance. The frequency of that allele changes by 3 ÷ 30 = 0.10. Among 6000 lizards (12 000 copies) the same loss changes it by 3 ÷ 12 000 = 0.00025. An allele can be lost altogether, or fixed at frequency 1.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--06-genetic-drift.webp" width="900" height="1200" alt="Two graphs show eight simulated populations starting with an allele at 0.5. With 20 gene copies the lines wander and several are lost or fixed by chance; with 1000 gene copies they stay near 0.5." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-selection-and-evolution--06-genetic-drift.webp" width="900" height="1110" alt="Two graphs show eight simulated populations starting with an allele at 0.5. With 20 gene copies the lines wander and several are lost or fixed by chance; with 1000 gene copies they stay near 0.5." loading="lazy">
   <figcaption>Chance changes in allele frequency are large in small populations and small in large ones.</figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ The **founder effect** is the same sampling problem in a new population. A few i
 **Worked example.** Twenty-five birds found an island population. Five are heterozygous for a rare recessive allele and the others have none. The island frequency is 5 ÷ 50 = 0.10. On the mainland it is 0.02. In an island generation of 400 birds in equilibrium, aa would be 0.10² × 400 = 4, against 0.02² × 400 = 0.16 at the mainland frequency. A rare allele can become common because of who founded the population.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--07-bottleneck-founder.webp" width="900" height="1070" alt="In a bottleneck 5000 animals fall to 40 survivors and allele A drops from 0.30 to 0.15. In the founder effect 25 birds found an island and a rare allele rises from 0.02 to 0.10. A small sample of the gene pool differs from the original by chance." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-selection-and-evolution--07-bottleneck-founder.webp" width="900" height="984" alt="In a bottleneck 5000 animals fall to 40 survivors and allele A drops from 0.30 to 0.15. In the founder effect 25 birds found an island and a rare allele rises from 0.02 to 0.10. A small sample of the gene pool differs from the original by chance." loading="lazy">
   <figcaption>A small sample of a gene pool can change allele frequencies without any selection.</figcaption>
 </figure>
 
@@ -141,7 +141,7 @@ Only 5 people in the town have the condition (0.00015625 × 32 000), yet 790 car
 Selection against a recessive phenotype lowers q, but slowly once the allele is rare, because heterozygotes hide it.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--05-hardy-weinberg-square.webp" width="900" height="1010" alt="A unit square is divided by p = 0.8 and q = 0.2 into AA 0.64, two Aa areas of 0.16 and aa 0.04. For 400 animals with 16 recessive, q squared is 0.04, so q is 0.2, p is 0.8, 2pq is 0.32 and there are 128 carriers." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-selection-and-evolution--05-hardy-weinberg-square.webp" width="900" height="970" alt="A unit square is divided by p = 0.8 and q = 0.2 into AA 0.64, two Aa areas of 0.16 and aa 0.04. For 400 animals with 16 recessive, q squared is 0.04, so q is 0.2, p is 0.8, 2pq is 0.32 and there are 128 carriers." loading="lazy">
   <figcaption>p squared, 2pq and q squared are the areas of a square split by the two allele frequencies.</figcaption>
 </figure>
 
@@ -161,7 +161,7 @@ A **species** is a group of organisms that can interbreed to produce fertile off
 5. If the barrier is removed, the groups cannot interbreed to produce fertile offspring, so they are separate species.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--01-polygenes-bell-curve.webp" width="900" height="1040" alt="A bar chart of offspring from AaBbCc x AaBbCc across 0 to 6 height-adding alleles: 1, 6, 15, 20, 15, 6, 1 out of 64. A plant under each bar gets taller as the number of adding alleles rises. Many small additive genes, blurred by the environment, give a smooth continuous range." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-selection-and-evolution--01-polygenes-bell-curve.webp" width="900" height="970" alt="A bar chart of offspring from AaBbCc x AaBbCc across 0 to 6 height-adding alleles: 1, 6, 15, 20, 15, 6, 1 out of 64. A plant under each bar gets taller as the number of adding alleles rises. Many small additive genes, blurred by the environment, give a smooth continuous range." loading="lazy">
   <figcaption>Many genes with small additive effects give a bell-shaped distribution of offspring.</figcaption>
 </figure>
 
@@ -184,7 +184,7 @@ Polyploidy is common in plants. Bread wheat has six sets of chromosomes, a resul
 Use of a different host or niche in the same place can also split a population. The sequence is always no gene flow, independent mutation and selection, divergence in allele frequencies, then inability to produce fertile offspring.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--08-speciation.webp" width="900" height="1080" alt="In allopatric speciation a river splits one population, gene flow stops, and the two groups diverge until they cannot produce fertile offspring together. In sympatric speciation the groups share an area but are isolated, for example by flowering in May or July, and diverge in the same way." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-selection-and-evolution--08-speciation.webp" width="900" height="1034" alt="In allopatric speciation a river splits one population, gene flow stops, and the two groups diverge until they cannot produce fertile offspring together. In sympatric speciation the groups share an area but are isolated, for example by flowering in May or July, and diverge in the same way." loading="lazy">
   <figcaption>Speciation needs reproductive isolation, either by a physical barrier or by another barrier in the same place.</figcaption>
 </figure>
 
@@ -228,7 +228,7 @@ The specification asks you to consider extreme cases such as dog breeds. Some br
 - Writing that artificial selection adds new alleles. It changes the frequencies of existing ones.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-selection-and-evolution--09-dna-relatedness.webp" width="900" height="930" alt="Four rows show the same 27-base DNA section in species A to D with differences from A highlighted: B 1 (3.7 percent), C 3 (11.1 percent) and D 8 (29.6 percent). Fewer differences mean a more recent common ancestor, so B is closest to A." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-selection-and-evolution--09-dna-relatedness.webp" width="900" height="850" alt="Four rows show the same 27-base DNA section in species A to D with differences from A highlighted: B 1 (3.7 percent), C 3 (11.1 percent) and D 8 (29.6 percent). Fewer differences mean a more recent common ancestor, so B is closest to A." loading="lazy">
   <figcaption>Fewer base differences suggest a more recent common ancestor.</figcaption>
 </figure>
 

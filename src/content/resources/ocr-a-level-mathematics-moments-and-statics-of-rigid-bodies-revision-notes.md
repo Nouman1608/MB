@@ -41,7 +41,7 @@ These notes condense moments and statics of rigid bodies for OCR A Level Mathema
 The specification excludes the vector nature of moments. Use clockwise and anticlockwise, with a positive sense chosen once. Problems are set with rectangular laminas and uniform or non-uniform rods only. Use g = 9.8 m s⁻² unless told otherwise.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--07-amth-forces-slope.webp" width="900" height="920" alt="A 4 kg block on a 30 degree rough slope with μ = 0.25. Weight 39.2 N splits into mg sin 30 = 19.6 N down the slope and mg cos 30 = 33.9 N into it, so R = 33.9 N and F = 8.49 N up the slope. 19.6 − 8.49 = 4a gives a = 2.78 m per second squared down the slope." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-mechanics--07-amth-forces-slope.webp" width="900" height="820" alt="A 4 kg block on a 30 degree rough slope with μ = 0.25. Weight 39.2 N splits into mg sin 30 = 19.6 N down the slope and mg cos 30 = 33.9 N into it, so R = 33.9 N and F = 8.49 N up the slope. 19.6 − 8.49 = 4a gives a = 2.78 m per second squared down the slope." loading="lazy">
   <figcaption>Resolve the weight along and across the slope: R = mg cos θ and the net force down the slope is mg sin θ − μR.</figcaption>
 </figure>
 
@@ -56,7 +56,7 @@ The specification excludes the vector nature of moments. Use clockwise and antic
 **Reminder.** A force of 18 N acts at 0.5 m from O along a rod, at 60° to the rod. Moment about O = 18 × 0.5 × sin 60° = 7.79 N m (3 s.f.).
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--08-amth-forces-moments.webp" width="900" height="1010" alt="A uniform plank AB, 5 m and 22 kg, rests on supports C (0.5 m from A) and D (1.5 m from B); a 55 kg person stands 1 m from A. Moments about C: clockwise 269.5 + 431.2 = 700.7 N m equals R_D × 3.0, so R_D = 233.6 N and R_C = 754.6 − 233.6 = 521.0 N. Distances are to scale." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-mechanics--08-amth-forces-moments.webp" width="900" height="1010" alt="A uniform plank AB, 5 m and 22 kg, rests on supports C (0.5 m from A) and D (1.5 m from B); a 55 kg person stands 1 m from A. Moments about C: clockwise 269.5 + 431.2 = 700.7 N m equals R_D × 3.0, so R_D = 233.6 N and R_C = 754.6 − 233.6 = 521.0 N. Distances are to scale." loading="lazy">
   <figcaption>Take moments about a support to remove its reaction; clockwise moments equal anticlockwise moments.</figcaption>
 </figure>
 
@@ -79,7 +79,7 @@ Take moments about a point that removes the most unknowns. A reaction or hinge f
 5. Check with moments about a different point. The equation must also hold there.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--02-amth-forces-two-strings.webp" width="900" height="960" alt="A 5 kg particle hangs on two strings at 30 and 45 degrees to the horizontal. Solving the horizontal and vertical balances gives T1 = 35.9 N and T2 = 43.9 N. Drawn head to tail, W, T1 and T2 form a closed triangle, so the resultant is zero." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-mechanics--02-amth-forces-two-strings.webp" width="900" height="930" alt="A 5 kg particle hangs on two strings at 30 and 45 degrees to the horizontal. Solving the horizontal and vertical balances gives T1 = 35.9 N and T2 = 43.9 N. Drawn head to tail, W, T1 and T2 form a closed triangle, so the resultant is zero." loading="lazy">
   <figcaption>In equilibrium the forces sum to zero in every direction, so they close into a triangle.</figcaption>
 </figure>
 
@@ -160,7 +160,7 @@ With nothing else on the ladder, moments about the foot give S × L sin θ = W �
 10. The resultant force is zero and the resultant moment is zero. The weight acts at the **centre of the rectangle** (its point of symmetry).
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--06-amth-forces-rope-angle.webp" width="900" height="970" alt="A 12 kg box on rough ground (μ = 0.4) on the point of sliding. Pulled by a rope at 25 degrees above horizontal, T = 43.7 N and R = 99.1 N, less than the weight 117.6 N. Pushed at 25 degrees below horizontal, P = 63.8 N and R = 144.6 N, more than the weight. Dashed lines show components." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-mechanics--06-amth-forces-rope-angle.webp" width="900" height="960" alt="A 12 kg box on rough ground (μ = 0.4) on the point of sliding. Pulled by a rope at 25 degrees above horizontal, T = 43.7 N and R = 99.1 N, less than the weight 117.6 N. Pushed at 25 degrees below horizontal, P = 63.8 N and R = 144.6 N, more than the weight. Dashed lines show components." loading="lazy">
   <figcaption>A pull at an angle lowers R and so the friction limit; a push at an angle raises it.</figcaption>
 </figure>
 
@@ -178,7 +178,7 @@ With nothing else on the ladder, moments about the foot give S × L sin θ = W �
 - Rounding too early. Keep full values, then round the answer to 3 significant figures unless told otherwise.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-mechanics--05-amth-forces-friction-model.webp" width="900" height="940" alt="Graph of friction against push for a 5 kg box with μ = 0.4 (R = 49 N, maximum friction 19.6 N). F equals P until P = 19.6 N, then stays at 19.6 N when the box slides. P = 15 N gives F = 15 N, not 19.6 N. Three mini diagrams show at rest, limiting and sliding (a = 1.08 m per second squared)." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-mechanics--05-amth-forces-friction-model.webp" width="900" height="900" alt="Graph of friction against push for a 5 kg box with μ = 0.4 (R = 49 N, maximum friction 19.6 N). F equals P until P = 19.6 N, then stays at 19.6 N when the box slides. P = 15 N gives F = 15 N, not 19.6 N. Three mini diagrams show at rest, limiting and sliding (a = 1.08 m per second squared)." loading="lazy">
   <figcaption>Friction matches the push up to a maximum μR; only when on the point of moving or sliding is F = μR.</figcaption>
 </figure>
 

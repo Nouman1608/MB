@@ -166,7 +166,7 @@ Unit: scale drawings and similar shapes (MYP 4-5).
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-geometry--06-similar-scale-factors.webp" width="900" height="1050" alt="A bar of length 1 becomes 2. A unit square becomes a 2 by 2 square of 4 squares. A unit cube becomes a 2 by 2 by 2 cube of 8 cubes. With length scale factor 2, a unit square becomes four unit squares and a unit cube becomes eight unit cubes." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-geometry--06-similar-scale-factors.webp" width="900" height="1040" alt="A bar of length 1 becomes 2. A unit square becomes a 2 by 2 square of 4 squares. A unit cube becomes a 2 by 2 by 2 cube of 8 cubes. With length scale factor 2, a unit square becomes four unit squares and a unit cube becomes eight unit cubes." loading="lazy">
   <figcaption>Length scale factor k multiplies area by k² and volume by k³ (shown for k = 2).</figcaption>
 </figure>
 

@@ -61,7 +61,7 @@ A normal lymphocyte cannot go on dividing for long, so it would give only a smal
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-diseases-and-immunity--04-antigen.webp" width="900" height="1090" alt="A pathogen has antigens with specific shapes. An antibody with a complementary shape fits and binds them; an antigen of a different shape does not fit, so there is no binding. Binding leads to direct destruction of the pathogen, or to marking it for destruction by a phagocyte." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-diseases-and-immunity--04-antigen.webp" width="900" height="1076" alt="A pathogen has antigens with specific shapes. An antibody with a complementary shape fits and binds them; an antigen of a different shape does not fit, so there is no binding. Binding leads to direct destruction of the pathogen, or to marking it for destruction by a phagocyte." loading="lazy">
   <figcaption>An antibody binds only the antigen whose shape is complementary to it.</figcaption>
 </figure>
 

@@ -113,7 +113,7 @@ If the question does not say that C is acute, the other possible angle is 180° 
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--06-area-sine.webp" width="900" height="800" alt="Triangle with a = 8, b = 10 and C = 40 degrees. Height h = 8 sin 40 = 5.14 cm, so area = half of 10 times 5.14 = 25.7 cm squared, which is half a b sin C." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-trigonometry--06-area-sine.webp" width="900" height="760" alt="Triangle with a = 8, b = 10 and C = 40 degrees. Height h = 8 sin 40 = 5.14 cm, so area = half of 10 times 5.14 = 25.7 cm squared, which is half a b sin C." loading="lazy">
   <figcaption>The area formula comes from base times height with h = a sin C.</figcaption>
 </figure>
 
@@ -268,7 +268,7 @@ Common sectors: a semicircle is 180° (half), a quarter circle is 90° (a quarte
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-mensuration--03-arc-and-sector.webp" width="900" height="1010" alt="A 90 degree sector of radius 6 cm is a quarter of the circle: arc 9.42 cm, area 28.3 cm2. A 110 degree sector of radius 8 cm is 110/360 of the circle: arc 15.36 cm, area 61.4 cm2. Core angles are factors of 360; Extended allows any angle." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-mensuration--03-arc-and-sector.webp" width="900" height="1010" alt="A 90 degree sector of radius 6 cm is a quarter of the circle: arc 9.42 cm, area 28.3 cm2. A 110 degree sector of radius 8 cm is 110/360 of the circle: arc 15.36 cm, area 61.4 cm2. The same method works for any angle." loading="lazy">
   <figcaption>Arc length and sector area are the same fraction, angle over 360, of the circumference and the area.</figcaption>
 </figure>
 

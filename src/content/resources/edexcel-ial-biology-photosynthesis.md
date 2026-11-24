@@ -93,7 +93,7 @@ Products: ATP only. There is no reduced NADP, no photolysis and no oxygen. The c
 | Oxygen released | Yes | No |
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--05-cyclic-vs-noncyclic.webp" width="900" height="900" alt="Two panels compare electron routes. Non-cyclic uses PSII and PSI, takes electrons from water and makes ATP, reduced NADP and oxygen. Cyclic uses PSI only, returns electrons to PSI and makes ATP only." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-photosynthesis--05-cyclic-vs-noncyclic.webp" width="900" height="800" alt="Two panels compare electron routes. Non-cyclic uses PSII and PSI, takes electrons from water and makes ATP, reduced NADP and oxygen. Cyclic uses PSI only, returns electrons to PSI and makes ATP only." loading="lazy">
   <figcaption>Which products each photophosphorylation route makes.</figcaption>
 </figure>
 
@@ -123,7 +123,7 @@ In the dark, ATP and reduced NADP fall. GP cannot be reduced, so GP accumulates.
 (ii) The products are simple sugars. Plants, animals and other organisms use them in respiration, and to synthesise new molecules: polysaccharides (starch for storage, cellulose for cell walls), amino acids and so proteins (with nitrogen from nitrate), lipids (from glycerol and fatty acids made from GALP-derived compounds) and nucleic acids (sugars and the phosphate-containing nucleotides). Animals depend on this because they eat plants or other organisms that did.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-photosynthesis--06-calvin-cycle.webp" width="900" height="820" alt="The Calvin cycle for three turns: 3 CO2 and 3 RuBP (15C) give 6 GP (18C), reduced to 6 TP. Five TP (15C) regenerate 3 RuBP and one TP leaves. In total 9 ATP and 6 reduced NADP are used, 3 and 2 per CO2." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-photosynthesis--06-calvin-cycle.webp" width="900" height="830" alt="The Calvin cycle for three turns: 3 CO2 and 3 RuBP (15C) give 6 GP (18C), reduced to 6 TP. Five TP (15C) regenerate 3 RuBP and one TP leaves. In total 9 ATP and 6 reduced NADP are used, 3 and 2 per CO2." loading="lazy">
   <figcaption>Counting carbon, ATP and reduced NADP through the Calvin cycle.</figcaption>
 </figure>
 

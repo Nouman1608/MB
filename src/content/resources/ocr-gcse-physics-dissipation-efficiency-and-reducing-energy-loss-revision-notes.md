@@ -155,7 +155,7 @@ Check that useful and wasted energies add up to the input.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-motion-forces-and-energy--08-sankey-diagram.webp" width="900" height="1000" alt="A Sankey diagram: 100 J enters; 10 J, 50 J and 5 J are wasted at the boiler, turbine and generator, leaving 35 J electrical. Efficiency is 35 / 100 = 35%." loading="lazy">
+  <img src="https://img.marlbridge.com/physics-motion-forces-and-energy--08-sankey-diagram.webp" width="900" height="935" alt="A Sankey diagram: 100 J enters; 10 J, 50 J and 5 J are wasted at the boiler, turbine and generator, leaving 35 J electrical. Efficiency is 35 / 100 = 35%." loading="lazy">
   <figcaption>A Sankey diagram shows energy flow with arrow width in proportion to energy; efficiency = useful / total.</figcaption>
 </figure>
 

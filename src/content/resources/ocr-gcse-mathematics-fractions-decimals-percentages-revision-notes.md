@@ -135,7 +135,7 @@ This three-step method (fraction, then decimal, then percentage) is more reliabl
 A recurring decimal such as 0.333... converts to a fraction using algebra: let x = 0.333..., then 10x = 3.333..., so 10x − x = 3, giving 9x = 3 and x = 3/9 = 1/3. This Higher-tier skill is often under-revised because it feels like Number-topic content, even though it is examined here as part of fluency with the fraction-decimal relationship -- worth including explicitly in a revision plan rather than treating as a separate, optional extra.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-fractions-decimals-percentages-ordering-operations--03-recurring-to-fraction.webp" width="900" height="870" alt="Two rows of digit boxes show x = 0.3636... and 100x = 36.3636... with identical tails after the decimal point. Subtracting gives 99x = 36, so x = 36/99 = 4/11." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-fractions-decimals-percentages-ordering-operations--03-recurring-to-fraction.webp" width="900" height="860" alt="Two rows of digit boxes show x = 0.3636... and 100x = 36.3636... with identical tails after the decimal point. Subtracting gives 99x = 36, so x = 36/99 = 4/11." loading="lazy">
   <figcaption>Multiplying by 100 lines up the repeating tails so that subtracting removes them.</figcaption>
 </figure>
 

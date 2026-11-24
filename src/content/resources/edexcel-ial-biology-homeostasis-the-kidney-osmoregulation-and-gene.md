@@ -45,17 +45,17 @@ A control system has a receptor, a coordinator and an effector. In **negative fe
 In **positive feedback**, a change is detected and the response makes the change larger. The system moves away from its starting point until something outside the loop stops it. During childbirth, stretching of the cervix triggers release of oxytocin, which strengthens contractions, which stretch the cervix further. The loop ends when the baby is born. The rising phase of an action potential is another example, because depolarisation opens more sodium ion channels. Positive feedback does not maintain a steady state, so it is not used for homeostasis.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--01-temperature-control.webp" width="900" height="1030" alt="A strip shows receptors in skin and blood, the hypothalamus as coordinator, effectors in skin and muscle and the restored set point, with a feedback line back to the start. Two skin cross-sections follow. Too hot: wide blood vessel loop (vasodilation), sweat droplets and flat hairs. Too cold: narrow loop (vasoconstriction), no sweat, raised hairs and shivering muscle." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-homeostasis--01-temperature-control.webp" width="900" height="1010" alt="A strip shows receptors in skin and blood, the hypothalamus as coordinator, effectors in skin and muscle and the restored set point, with a feedback line back to the start. Two skin cross-sections follow. Too hot: wide blood vessel loop (vasodilation), sweat droplets and flat hairs. Too cold: narrow loop (vasoconstriction), no sweat, raised hairs and shivering muscle." loading="lazy">
   <figcaption>Temperature control is negative feedback: receptors, hypothalamus and effectors reverse any change from the set point.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--07-blood-glucose-control.webp" width="900" height="1110" alt="A graph of blood glucose against time with a shaded 4 to 6 mmol per dm cubed band: a meal raises it and insulin brings it back, exercise lowers it and glucagon raises it. Below, glucose too high: beta cells release insulin, the liver makes glycogen and muscle and fat cells gain glucose channels. Glucose too low: alpha cells release glucagon, the liver breaks glycogen down and makes glucose from amino acids and glycerol." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-homeostasis--07-blood-glucose-control.webp" width="900" height="1070" alt="A graph of blood glucose against time with a shaded 4 to 6 mmol per dm cubed band: a meal raises it and insulin brings it back, exercise lowers it and glucagon raises it. Below, glucose too high: beta cells release insulin, the liver makes glycogen and muscle and fat cells gain glucose channels. Glucose too low: alpha cells release glucagon, the liver breaks glycogen down and makes glucose from amino acids and glycerol." loading="lazy">
   <figcaption>Insulin lowers and glucagon raises blood glucose, acting on the liver and on muscle and fat cells.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--09-glucose-tolerance.webp" width="900" height="1050" alt="A graph of blood glucose for two people over 120 minutes after a glucose drink. Person A starts at 4.9, peaks at 7.8 (a 59 percent rise) and returns to 4.9. Person B starts at 7.4, peaks at 14.0 and is still 10.4, 3.0 above the start, at 120 minutes. Two cards show Type 1 (beta cells destroyed) and Type 2 (receptors respond poorly to insulin)." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-homeostasis--09-glucose-tolerance.webp" width="900" height="1014" alt="A graph of blood glucose for two people over 120 minutes after a glucose drink. Person A starts at 4.9, peaks at 7.8 (a 59 percent rise) and returns to 4.9. Person B starts at 7.4, peaks at 14.0 and is still 10.4, 3.0 above the start, at 120 minutes. Two cards show Type 1 (beta cells destroyed) and Type 2 (receptors respond poorly to insulin)." loading="lazy">
   <figcaption>A person whose glucose does not return to its starting range after a glucose drink may have diabetes.</figcaption>
 </figure>
 
@@ -99,7 +99,7 @@ The **afferent arteriole** brings blood to the glomerulus and is wider than the 
 **Worked example 2.** A micrograph of a glomerulus is 45 mm wide and the scale shows it is really 150 µm across. Magnification = image size ÷ actual size = 45 mm ÷ 0.150 mm = **×300**. Keep both lengths in the same unit.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--02-nephron.webp" width="900" height="1090" alt="A schematic nephron across the cortex and medulla: wide afferent and narrow efferent arterioles at the glomerulus inside Bowman’s capsule, the coiled proximal tubule, the loop of Henle dipping into the medulla, the coiled distal tubule and a collecting duct shared with other nephrons that runs to the renal pelvis. Numbers give the job of each part." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-homeostasis--02-nephron.webp" width="900" height="1050" alt="A schematic nephron across the cortex and medulla: wide afferent and narrow efferent arterioles at the glomerulus inside Bowman’s capsule, the coiled proximal tubule, the loop of Henle dipping into the medulla, the coiled distal tubule and a collecting duct shared with other nephrons that runs to the renal pelvis. Numbers give the job of each part." loading="lazy">
   <figcaption>The nephron runs from the glomerulus in the cortex, through the loop of Henle in the medulla, to the collecting duct.</figcaption>
 </figure>
 
@@ -115,7 +115,7 @@ Amino acids in excess of need cannot be stored. In the liver, **deamination** re
 **Worked example 4.** The filtrate forms at 118 cm³ min⁻¹ and urine is produced at 0.9 cm³ min⁻¹. Reabsorbed = 118 − 0.9 = 117.1 cm³ min⁻¹. Percentage = 117.1 ÷ 118 × 100 = **99.2%**. Filtrate per day = 118 × 60 × 24 = about 170 dm³, and urine about 1.3 dm³.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--03-ultrafiltration.webp" width="900" height="1100" alt="Blood with red cells, plasma proteins and small molecules lies on the left. Fluid crosses the endothelium with gaps, the basement membrane mesh and the podocyte slits into the capsule space. Water, glucose, urea and ions pass; cells and proteins stay. A bar diagram of AQA example pressures (9.6 out, 2.1 and 4.5 back) gives 3.0 kPa net outward." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-homeostasis--03-ultrafiltration.webp" width="900" height="1084" alt="Blood with red cells, plasma proteins and small molecules lies on the left. Fluid crosses the endothelium with gaps, the basement membrane mesh and the podocyte slits into the capsule space. Water, glucose, urea and ions pass; cells and proteins stay. A bar diagram of example pressures (9.6 out, 2.1 and 4.5 back) gives 3.0 kPa net outward." loading="lazy">
   <figcaption>Blood is forced through three layers; the basement membrane is the main filter, and cells and proteins stay in the blood.</figcaption>
 </figure>
 
@@ -137,12 +137,12 @@ Animals with long loops, such as desert rodents, make very concentrated urine.
 **Worked example 5.** Plasma glucose is 5.0 mmol dm⁻³ and filtrate forms at 0.118 dm³ min⁻¹, so glucose filtered = 5.0 × 0.118 = **0.59 mmol min⁻¹**. Urine contains none, so all 0.59 mmol is reabsorbed each minute. If plasma urea is 5.0 mmol dm⁻³ and urine urea is 300 mmol dm⁻³, urea is **60 times** more concentrated in urine because water is reabsorbed more than urea.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--04-pct-reabsorption.webp" width="900" height="940" alt="One proximal tubule cell between filtrate (left) and blood (right) with microvilli, mitochondria and tight junctions. Step 1: a sodium-potassium pump moves Na+ out of the cell using ATP. Step 2: Na+ diffuses in through a co-transporter carrying glucose. Step 3: glucose leaves by facilitated diffusion. Step 4: water follows by osmosis." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-homeostasis--04-pct-reabsorption.webp" width="900" height="910" alt="One proximal tubule cell between filtrate (left) and blood (right) with microvilli, mitochondria and tight junctions. Step 1: a sodium-potassium pump moves Na+ out of the cell using ATP. Step 2: Na+ diffuses in through a co-transporter carrying glucose. Step 3: glucose leaves by facilitated diffusion. Step 4: water follows by osmosis." loading="lazy">
   <figcaption>Active transport of sodium out of the cell drives co-transport of glucose in, and water follows by osmosis.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--05-loop-of-henle.webp" width="900" height="1080" alt="A loop of Henle and a collecting duct drawn through a medulla that gets darker towards the bottom. Water leaves the descending limb by osmosis, so the filtrate gets more concentrated down the limb. Ions are pumped out of the ascending limb, which is impermeable to water, so the filtrate gets more dilute going up. Water leaves the collecting duct down the same gradient." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-homeostasis--05-loop-of-henle.webp" width="900" height="1044" alt="A loop of Henle and a collecting duct drawn through a medulla that gets darker towards the bottom. Water leaves the descending limb by osmosis, so the filtrate gets more concentrated down the limb. Ions are pumped out of the ascending limb, which is impermeable to water, so the filtrate gets more dilute going up. Water leaves the collecting duct down the same gradient." loading="lazy">
   <figcaption>The ascending limb pumps out ions and the descending limb loses water, building a steep gradient that lets the collecting duct recover water.</figcaption>
 </figure>
 
@@ -156,7 +156,7 @@ ADH binds to receptors on collecting duct cells (and the distal tubule). Vesicle
 **Worked example 6.** After a hot day, plasma concentration rises from 285 to 295 mOsm kg⁻¹ and urine flow falls from 1.9 to 0.6 cm³ min⁻¹. Percentage change in urine flow = (0.6 − 1.9) ÷ 1.9 × 100 = **−68.4%**. Plasma concentration rose only 3.5%, yet urine flow fell by almost 70%.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--06-adh-osmoregulation.webp" width="900" height="1010" alt="Top: a fall in blood water potential makes hypothalamus osmoreceptors shrink and signal the posterior pituitary by impulses, which releases ADH into the blood, going to the kidney. Bottom: two collecting duct cells. With little ADH vesicles stay inside and little water leaves; with ADH the vesicles fuse, aquaporin pores open and more water leaves by osmosis, giving small concentrated urine." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-homeostasis--06-adh-osmoregulation.webp" width="900" height="970" alt="Top: a fall in blood water potential makes hypothalamus osmoreceptors shrink and signal the posterior pituitary by impulses, which releases ADH into the blood, going to the kidney. Bottom: two collecting duct cells. With little ADH vesicles stay inside and little water leaves; with ADH the vesicles fuse, aquaporin pores open and more water leaves by osmosis, giving small concentrated urine." loading="lazy">
   <figcaption>ADH makes the collecting duct more permeable to water by inserting aquaporins, so less water is lost in urine.</figcaption>
 </figure>
 
@@ -170,7 +170,7 @@ A **transcription factor** is a protein that binds to a specific DNA sequence ne
 **Peptide hormones** (such as insulin and ADH) are water-soluble and cannot cross the membrane. They bind receptors on the cell surface membrane, acting extracellularly. This triggers a chain of reactions involving a second messenger such as cyclic AMP, which activates transcription factors in the cell and so changes which genes are expressed.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-homeostasis--08-second-messenger.webp" width="900" height="1040" alt="A liver cell membrane with glucagon outside. Glucagon binds a receptor; a G-protein is activated; adenylyl cyclase makes cAMP from ATP; cAMP activates protein kinase A; an enzyme cascade amplifies the signal (for example 50 at each of three stages gives 125 000); glycogen is broken down to glucose." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-homeostasis--08-second-messenger.webp" width="900" height="1000" alt="A liver cell membrane with glucagon outside. Glucagon binds a receptor; a G-protein is activated; adenylyl cyclase makes cAMP from ATP; cAMP activates protein kinase A; an enzyme cascade amplifies the signal (for example 50 at each of three stages gives 125 000); glycogen is broken down to glucose." loading="lazy">
   <figcaption>Glucagon never enters the cell: cAMP relays the message and the enzyme cascade amplifies it.</figcaption>
 </figure>
 

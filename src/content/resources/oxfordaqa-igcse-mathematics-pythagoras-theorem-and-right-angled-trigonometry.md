@@ -269,7 +269,7 @@ space diagonal² = l² + w² + h²
 The angle between a line and a plane is measured to the **shadow** of the line on the plane: drop a perpendicular from the top of the line to the plane, and the angle sits between the line and its shadow. In Example 9 the shadow of the space diagonal on the base is the base diagonal.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-trigonometry--07-trig-3d.webp" width="900" height="960" alt="A cuboid 8 by 6 by 5 cm. The base diagonal AC = 10 cm, and with CG = 5 and AG = 11.2 it forms a right-angled triangle. The angle between AG and the base has tan x = 5/10, so x = 26.6 degrees. The triangle is also shown flat." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-trigonometry--07-trig-3d.webp" width="900" height="940" alt="A cuboid 8 by 6 by 5 cm. The base diagonal AC = 10 cm, and with CG = 5 and AG = 11.2 it forms a right-angled triangle. The angle between AG and the base has tan x = 5/10, so x = 26.6 degrees. The triangle is also shown flat." loading="lazy">
   <figcaption>Pull the right-angled triangle out of the solid, then use ordinary trigonometry.</figcaption>
 </figure>
 

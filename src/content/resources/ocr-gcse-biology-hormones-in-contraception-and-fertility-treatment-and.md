@@ -100,7 +100,7 @@ A good evaluation weighs several factors and reaches a judgement. Use these:
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-reproduction--08-menstrual-cycle.webp" width="900" height="1010" alt="Two graphs over 28 days: the uterus lining is lost on days 1-5, then rebuilt, with ovulation around day 14; Sketch of FSH, oestrogen, LH and progesterone, with oestrogen peaking before the LH peak at ovulation and progesterone high afterwards." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-reproduction--08-menstrual-cycle.webp" width="900" height="1000" alt="Two graphs over 28 days: the uterus lining is lost on days 1-5, then rebuilt, with ovulation around day 14; Sketch of FSH, oestrogen, LH and progesterone, with oestrogen peaking before the LH peak at ovulation and progesterone high afterwards." loading="lazy">
   <figcaption>Link the lining and hormone changes to the days of the cycle.</figcaption>
 </figure>
 
@@ -146,7 +146,7 @@ Phototropism is growth in response to light. A shoot tip grows towards light, wh
 4. The shoot bends towards the light.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--06-auxin-phototropism.webp" width="900" height="1080" alt="Light from one side: auxin made in the tip collects on the shaded side. Auxin stimulates cell elongation, so shaded cells (0.15 mm) grow longer than lit cells (0.10 mm), 50% longer, and the shoot bends towards the light." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-coordination-and-response--06-auxin-phototropism.webp" width="900" height="1040" alt="Light from one side: auxin made in the tip collects on the shaded side. Auxin stimulates cell elongation, so shaded cells (0.15 mm) grow longer than lit cells (0.10 mm), 50% longer, and the shoot bends towards the light." loading="lazy">
   <figcaption>Longer shaded-side cells bend the shoot towards the light.</figcaption>
 </figure>
 

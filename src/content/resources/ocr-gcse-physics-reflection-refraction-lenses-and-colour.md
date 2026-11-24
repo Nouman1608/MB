@@ -219,7 +219,7 @@ Where the rays cross is the top of the **image**. Drop a line to the axis to dra
 For a **concave** lens the parallel ray spreads out as if it came from F on the object side; trace it backwards with a dashed line. The image is on the same side as the object.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-waves--06-lens-image.webp" width="900" height="770" alt="To-scale ray diagram with f = 120 and object at 300: image forms at 200, real, inverted and diminished." loading="lazy">
+  <img src="https://img.marlbridge.com/physics-waves--06-lens-image.webp" width="900" height="680" alt="To-scale ray diagram with f = 120 and object at 300: image forms at 200, real, inverted and diminished." loading="lazy">
   <figcaption>An object beyond 2F gives a real, inverted, diminished image.</figcaption>
 </figure>
 
@@ -232,7 +232,7 @@ For a **concave** lens the parallel ray spreads out as if it came from F on the 
 The specification's practical suggestions include investigating how a convex lens image of a bulb changes with distance. Your table above predicts the results.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-waves--05-lens-focus.webp" width="900" height="890" alt="Parallel rays meet at the principal focus after a converging lens. After a diverging lens they spread out and appear to come from a principal focus on the incoming side." loading="lazy">
+  <img src="https://img.marlbridge.com/physics-waves--05-lens-focus.webp" width="900" height="820" alt="Parallel rays meet at the principal focus after a converging lens. After a diverging lens they spread out and appear to come from a principal focus on the incoming side." loading="lazy">
   <figcaption>A converging lens brings parallel rays to a focus; a diverging lens spreads them as if from a focus.</figcaption>
 </figure>
 

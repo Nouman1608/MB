@@ -71,7 +71,7 @@ Magnification reminder: magnification = image size / actual size, using the same
 Helper T-cells initiate the body's response to infections. Losing them leaves the patient unable to respond effectively, so infections that are normally controlled become serious.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--07-hiv-replication.webp" width="900" height="1310" alt="Six steps in a helper T cell: glycoproteins bind CD4; capsid contents enter; reverse transcriptase makes DNA from RNA; integrase inserts the DNA into a host chromosome; host ribosomes make proteins which protease cuts; new particles bud off with an envelope. The enzymes of steps 3, 4 and 5 are drug targets." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-immunity--07-hiv-replication.webp" width="900" height="1270" alt="Six steps in a helper T cell: glycoproteins bind CD4; capsid contents enter; reverse transcriptase makes DNA from RNA; integrase inserts the DNA into a host chromosome; host ribosomes make proteins which protease cuts; new particles bud off with an envelope. The enzymes of steps 3, 4 and 5 are drug targets." loading="lazy">
   <figcaption>HIV uses the host cell to make new virus particles, destroying helper T cells.</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Question style: "Explain why a person with untreated HIV becomes unable to fight
 Keep to the cycle you have learned. Do not add detail about antibodies or memory cells unless the question supplies it.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--01-bacterium-vs-virus.webp" width="900" height="1070" alt="A bacterium is a living prokaryotic cell with a cell wall, ribosomes, a circular chromosome and plasmids. HIV is not a cell: it has an envelope carrying glycoproteins, a protein capsid, two RNA copies and enzymes such as reverse transcriptase. HIV is about 120 nm across and a bacterium about 17 times longer." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-immunity--01-bacterium-vs-virus.webp" width="900" height="1060" alt="A bacterium is a living prokaryotic cell with a cell wall, ribosomes, a circular chromosome and plasmids. HIV is not a cell: it has an envelope carrying glycoproteins, a protein capsid, two RNA copies and enzymes such as reverse transcriptase. HIV is about 120 nm across and a bacterium about 17 times longer." loading="lazy">
   <figcaption>A bacterium is a cell; HIV is a particle with RNA, enzymes, a capsid and an envelope.</figcaption>
 </figure>
 
@@ -193,7 +193,7 @@ Worked reminder (colony growth). 5 aphids doubling every 2 days for 10 days: 10 
 11. They migrate to start colonies on new host plants, spreading the virus.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-biology-9700-immunity--02-four-diseases.webp" width="900" height="1190" alt="Four panels. Cholera (bacterium Vibrio cholerae) spreads through contaminated water or food. Malaria (protoctist Plasmodium) is passed by the bite of a female Anopheles mosquito. TB (bacterium Mycobacterium tuberculosis) spreads in droplets breathed in. HIV (a virus) spreads in body fluids: sexual contact, blood and from mother to child." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-immunity--02-four-diseases.webp" width="900" height="1140" alt="Four panels. Cholera (bacterium Vibrio cholerae) spreads through contaminated water or food. Malaria (protoctist Plasmodium) is passed by the bite of a female Anopheles mosquito. TB (bacterium Mycobacterium tuberculosis) spreads in droplets breathed in. HIV (a virus) spreads in body fluids: sexual contact, blood and from mother to child." loading="lazy">
   <figcaption>Each disease has a named pathogen type and a main transmission route.</figcaption>
 </figure>
 

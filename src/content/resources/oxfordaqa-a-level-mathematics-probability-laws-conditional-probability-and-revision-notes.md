@@ -79,7 +79,7 @@ For three events in sequence: P(A ∩ B ∩ C) = P(A) × P(B | A) × P(C | A ∩
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-1--06-venn-conditional.webp" width="900" height="1050" alt="Venn regions A only 0.45, both 0.10, B only 0.25, neither 0.20. Given B the sample space is the B circle (0.35), so P(A|B) = 0.10/0.35 = 2/7. Given not A the space is 0.45, so P(B|A') = 0.25/0.45 = 5/9." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-probability-statistics--06-venn-conditional.webp" width="900" height="990" alt="Venn regions A only 0.45, both 0.10, B only 0.25, neither 0.20. Given B the sample space is the B circle (0.35), so P(A|B) = 0.10/0.35 = 2/7. Given not A the space is 0.45, so P(B|A') = 0.25/0.45 = 5/9." loading="lazy">
   <figcaption>The condition becomes the new sample space and sits in the denominator.</figcaption>
 </figure>
 
@@ -123,7 +123,7 @@ P(both red) = 5/8 × 4/7 = 20/56 = 5/14
 ```
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-1--08-independence-model-check.webp" width="900" height="900" alt="Two students chosen when 45% are girls: the independent model gives 0.2025. The exact value without replacement is 0.2023 for 1200 students (gap 0.0002); illustrative sizes of 100 and 20 students give gaps 0.0025 and 0.0130." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-probability-statistics--08-independence-model-check.webp" width="900" height="860" alt="Two students chosen when 45% are girls: the independent model gives 0.2025. The exact value without replacement is 0.2023 for 1200 students (gap 0.0002); illustrative sizes of 100 and 20 students give gaps 0.0025 and 0.0130." loading="lazy">
   <figcaption>Independence is a good approximation for a large population but poor for a small group.</figcaption>
 </figure>
 
@@ -215,7 +215,7 @@ Before you move on, run through these checks.
 10. 5/8 × 4/7 = 20/56 = **5/14**
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-probability-statistics-1--03-dice-sample-space-independence.webp" width="900" height="1106" alt="A 6 by 6 grid of two-dice totals. A (first die even) covers 18 cells, B (total 7) 6 cells, both 3 cells. 1/2 x 1/6 = 1/12 = 3/36, so A and B are independent." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-probability-statistics--03-dice-sample-space-independence.webp" width="900" height="1060" alt="A 6 by 6 grid of two-dice totals. A (first die even) covers 18 cells, B (total 7) 6 cells, both 3 cells. 1/2 x 1/6 = 1/12 = 3/36, so A and B are independent." loading="lazy">
   <figcaption>Counting cells in the sample space shows P(A and B) equals P(A) x P(B).</figcaption>
 </figure>
 

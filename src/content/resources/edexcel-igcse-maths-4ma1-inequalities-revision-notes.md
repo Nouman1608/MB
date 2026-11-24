@@ -88,7 +88,7 @@ When you list integers, check each end on its own. For −1 < n ≤ 3 the intege
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--03-inequality-number-line.webp" width="900" height="860" alt="Solving minus 5 less than 2x plus 3, at most 11, gives minus 4 less than x, at most 4. An open circle at minus 4 and a closed circle at 4 are joined by a line. The whole-number solutions are minus 3 to 4." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-algebra-and-graphs--03-inequality-number-line.webp" width="900" height="750" alt="Solving minus 5 less than 2x plus 3, at most 11, gives minus 4 less than x, at most 4. An open circle at minus 4 and a closed circle at 4 are joined by a line. The whole-number solutions are minus 3 to 4." loading="lazy">
   <figcaption>Open circles exclude an end value, closed circles include it.</figcaption>
 </figure>
 
@@ -108,7 +108,7 @@ The specification says conventions for showing whether a boundary is included ar
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-algebra-and-graphs--04-inequality-region.webp" width="900" height="890" alt="A graph with a solid line y = 1, a dashed line y = x and a solid line x + y = 6 bounds a shaded triangle with corners (1, 1), (5, 1) and (3, 3). A test point inside satisfies all three inequalities. Solid lines are included; dashed lines are not." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-algebra-and-graphs--04-inequality-region.webp" width="900" height="850" alt="A graph with a solid line y = 1, a dashed line y = x and a solid line x + y = 6 bounds a shaded triangle with corners (1, 1), (5, 1) and (3, 3). A test point inside satisfies all three inequalities. Solid lines are included; dashed lines are not." loading="lazy">
   <figcaption>The region is where all the inequalities are true at once.</figcaption>
 </figure>
 

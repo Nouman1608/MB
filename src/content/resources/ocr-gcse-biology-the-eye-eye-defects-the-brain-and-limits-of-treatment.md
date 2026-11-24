@@ -71,7 +71,7 @@ The iris has circular muscle fibres and radial muscle fibres. Bright light: the 
 A diameter fall of under three-quarters gives a far larger fall in the area of the opening.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--04-pupil-reflex.webp" width="900" height="960" alt="Two front views of the eye. Bright light: pupil narrows, less light enters. Dim light: pupil widens, more light enters. Further panel: in bright light circular muscles contract and radial relax; in dim light radial contract and circular relax." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-coordination-and-response--04-pupil-reflex.webp" width="900" height="960" alt="Two front views of the eye. Bright light: pupil narrows, less light enters. Dim light: pupil widens, more light enters. Further panel: in bright light circular muscles contract and radial relax; in dim light radial contract and circular relax." loading="lazy">
   <figcaption>The pupil narrows in bright light and widens in dim light because two sets of iris muscles work against each other.</figcaption>
 </figure>
 

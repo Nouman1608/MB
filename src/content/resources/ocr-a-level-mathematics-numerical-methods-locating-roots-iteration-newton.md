@@ -113,7 +113,7 @@ Rearrangement (A) homes in on α = 1.7625 to 4 decimal places. Rearrangement (B)
 Draw y = x and y = g(x). From x₁ go vertically to the curve, then horizontally to the line y = x. That gives x₂. Repeat. Where g is increasing the path is a **staircase**. Where g is decreasing the path spirals, a **cobweb**.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--03-staircase-cobweb.webp" width="900" height="1270" alt="Four cobweb diagrams with g-prime at the root 0.358 (staircase in), -0.215 (cobweb in), 2.795 (staircase out) and -1.217 (cobweb out). The iteration converges when |g-prime| &lt; 1." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-numerical-solution-of-equations--03-staircase-cobweb.webp" width="900" height="1220" alt="Four cobweb diagrams with g-prime at the root 0.358 (staircase in), -0.215 (cobweb in), 2.795 (staircase out) and -1.217 (cobweb out). The iteration converges when |g-prime| &lt; 1." loading="lazy">
   <figcaption>Where the curve y = g(x) meets y = x is the root; the path converges when the curve is flatter than the line there.</figcaption>
 </figure>
 
@@ -177,7 +177,7 @@ Three steps reach the accuracy that rearrangement (A) needed six steps for.
 The method fails if the initial value is at a stationary point, because f′(x₁) = 0 and the tangent never meets the axis. It can also fail if x₁ is near a stationary point: the tangent is almost flat and throws the next value far away, possibly to a different root.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--05-newton-raphson-fails.webp" width="900" height="920" alt="On y = x^3-12x+7 a start at x=2 has a flat tangent, x=2.1 throws the next value to 9.37, and x=3 converges to 3.1240." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-numerical-solution-of-equations--05-newton-raphson-fails.webp" width="900" height="890" alt="On y = x^3-12x+7 a start at x=2 has a flat tangent, x=2.1 throws the next value to 9.37, and x=3 converges to 3.1240." loading="lazy">
   <figcaption>Starting at or near a stationary point sends Newton-Raphson away from the root you want.</figcaption>
 </figure>
 
@@ -195,7 +195,7 @@ x₁ = 3:    x₂ = 3.1333, which converges to the root 3.1240
 The roots are −3.7254, 0.6015 and 3.1240. Starting near 2 flings the iteration well beyond all three.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--04-newton-raphson-tangent.webp" width="900" height="880" alt="On y = x^3+2x-9 the tangent at x1 = 1.5 meets the axis at x2 = 1.8, the tangent there meets it at x3 = 1.7631, and x4 = 1.7625." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-numerical-solution-of-equations--04-newton-raphson-tangent.webp" width="900" height="860" alt="On y = x^3+2x-9 the tangent at x1 = 1.5 meets the axis at x2 = 1.8, the tangent there meets it at x3 = 1.7631, and x4 = 1.7625." loading="lazy">
   <figcaption>Each step replaces the curve by its tangent and moves to where the tangent meets the x-axis.</figcaption>
 </figure>
 
@@ -236,17 +236,17 @@ Upper (right ends):  0.5 × (0.405465 + 0.693147 + 0.916291 + 1.098612) = 1.5568
 ln x is increasing, so 1.0075 < I < 1.5568. Its second derivative −1/x² is negative, so 1.2821 is an underestimate. The exact value is 3 ln 3 − 2 = 1.2958, so the trapezium estimate is 0.0137 too low. The trapezium value is the mean of the lower and upper rectangle totals. More strips give a smaller error.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--06-trapezium-rule.webp" width="900" height="1180" alt="ln x on 1 to 3 with 4 strips gives 1.2821 against the exact 1.2958. A magnified first strip shows the chord below the curve, so the rule under-estimates a concave curve." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-numerical-solution-of-equations--06-trapezium-rule.webp" width="900" height="1140" alt="ln x on 1 to 3 with 4 strips gives 1.2821 against the exact 1.2958. A magnified first strip shows the chord below the curve, so the rule under-estimates a concave curve." loading="lazy">
   <figcaption>For a concave curve the chords lie below it so the trapezium rule under-estimates; for a convex curve it over-estimates.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--07-rectangle-bounds.webp" width="900" height="1070" alt="Left-hand rectangles under the increasing curve ln x sum to 1.0075 and right-hand rectangles over it sum to 1.5568, so 1.0075 &lt; I &lt; 1.5568; the trapezium value 1.2821 is their mean." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-numerical-solution-of-equations--07-rectangle-bounds.webp" width="900" height="1050" alt="Left-hand rectangles under the increasing curve ln x sum to 1.0075 and right-hand rectangles over it sum to 1.5568, so 1.0075 &lt; I &lt; 1.5568; the trapezium value 1.2821 is their mean." loading="lazy">
   <figcaption>For an increasing function left-hand rectangles give a lower bound and right-hand rectangles an upper bound.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations--08-mid-ordinate-rule.webp" width="900" height="890" alt="y = 1/x on 1 to 3 with 2 strips: midpoint heights 0.667 and 0.4 give 1.0667, below ln 3 = 1.0986, because tangents at the midpoints lie below the convex curve." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-numerical-solution-of-equations--08-mid-ordinate-rule.webp" width="900" height="840" alt="y = 1/x on 1 to 3 with 2 strips: midpoint heights 0.667 and 0.4 give 1.0667, below ln 3 = 1.0986, because tangents at the midpoints lie below the convex curve." loading="lazy">
   <figcaption>Each mid-ordinate rectangle equals the trapezium under the tangent at the midpoint, so a convex curve is under-estimated.</figcaption>
 </figure>
 

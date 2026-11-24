@@ -89,7 +89,7 @@ Rules:
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-physics-0625-electricity-and-magnetism--01-bar-magnet-field.webp" width="900" height="760" alt="A bar magnet with N on the left and S on the right, with curved field lines leaving N and entering S, arrows pointing N to S. Lines are closest together near the poles (strong field) and spread out far from the magnet (weaker field)." loading="lazy">
+  <img src="https://img.marlbridge.com/physics-electricity-and-magnetism--01-bar-magnet-field.webp" width="900" height="600" alt="A bar magnet with N on the left and S on the right, with curved field lines leaving N and entering S, arrows pointing N to S. Lines are closest together near the poles (strong field) and spread out far from the magnet (weaker field)." loading="lazy">
   <figcaption>Field lines run from N to S and are closest together where the field is strongest.</figcaption>
 </figure>
 

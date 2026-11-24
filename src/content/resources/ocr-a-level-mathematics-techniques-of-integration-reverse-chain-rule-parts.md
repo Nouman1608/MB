@@ -65,12 +65,12 @@ As n → ∞, 9/n → 0, so the area is 12. Check: ∫₀³ (2x + 1) dx = [x² +
 <!-- /marlbridge-diagram:maths-b39-ocr-riemann-sum-limit -->
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--03-area-between-curves.webp" width="900" height="764" alt="The parabola y = 6x − x² and line y = 2x meet at (0, 0) and (4, 8). The region between is cut into vertical strips of height top minus bottom, 4x − x². The integral of that from 0 to 4 is 32/3." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-integration--03-area-between-curves.webp" width="900" height="708" alt="The parabola y = 6x − x² and line y = 2x meet at (0, 0) and (4, 8). The region between is cut into vertical strips of height top minus bottom, 4x − x². The integral of that from 0 to 4 is 32/3." loading="lazy">
   <figcaption>The area between two curves is the integral of the top curve minus the bottom curve.</figcaption>
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--04-limit-of-a-sum.webp" width="900" height="886" alt="Six rectangles of width 0.5 under y = 2x + 1 give lower and upper totals 10.5 and 13.5. With 30 and 300 strips the bounds tighten to 11.7 to 12.3 and 11.97 to 12.03. The limit is the integral, 12. AQA and OCR content." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-integration--04-limit-of-a-sum.webp" width="900" height="820" alt="Six rectangles of width 0.5 under y = 2x + 1 give lower and upper totals 10.5 and 13.5. With 30 and 300 strips the bounds tighten to 11.7 to 12.3 and 11.97 to 12.03. The limit is the integral, 12." loading="lazy">
   <figcaption>As strips get thinner, the rectangle sums close in on the integral.</figcaption>
 </figure>
 
@@ -167,7 +167,7 @@ Then dx = 2 cos θ dθ and √(4 − 4 sin²θ) = 2 cos θ (cos θ ≥ 0 here). 
 This matches the quarter circle in the trapezium example.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--07-substitution-limits.webp" width="900" height="1020" alt="The area under y = x√(2x − 1) from x = 1 to 5 is 428/15. After u = 2x − 1 the integrand is ¼(u + 1)√u with limits 1 and 9, and the area is again 428/15. Converting the limits keeps the value unchanged." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-integration--07-substitution-limits.webp" width="900" height="940" alt="The area under y = x√(2x − 1) from x = 1 to 5 is 428/15. After u = 2x − 1 the integrand is ¼(u + 1)√u with limits 1 and 9, and the area is again 428/15. Converting the limits keeps the value unchanged." loading="lazy">
   <figcaption>With a substitution, convert the limits and the definite integral keeps its value.</figcaption>
 </figure>
 
@@ -211,7 +211,7 @@ Keep ln x as u, because it becomes 1/x. Then dv/dx = x³, so v = x⁴/4.
 Reduction formulae are not part of the specification.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--08-parts-as-area.webp" width="900" height="830" alt="The rectangle of width e and height 1 is split by y = ln x. The part under the curve has area 1 and the part to its left has area e − 1, together e. This shows ∫y dx + ∫x dy = xy, the idea behind parts and the result ∫ln x dx = x ln x − x." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-integration--08-parts-as-area.webp" width="900" height="800" alt="The rectangle of width e and height 1 is split by y = ln x. The part under the curve has area 1 and the part to its left has area e − 1, together e. This shows ∫y dx + ∫x dy = xy, the idea behind parts and the result ∫ln x dx = x ln x − x." loading="lazy">
   <figcaption>Integration by parts is the statement that two complementary areas fill a rectangle.</figcaption>
 </figure>
 
@@ -241,7 +241,7 @@ Use A/(x − 1) + B/(x + 2) + C/(x + 2)². Putting x = 1 gives A = 1. Putting x 
 ```
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/a-level-maths-9709-pure-mathematics-1-integration--09-partial-fractions-area.webp" width="900" height="876" alt="The curve y = (5x + 1)/((x − 1)(x + 2)) equals 2/(x − 1) plus 3/(x + 2). The area from 2 to 4 splits into a bottom band 3 ln 1.5 (about 1.216) and a top band 2 ln 3 (about 2.197), total about 3.413." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-integration--09-partial-fractions-area.webp" width="900" height="804" alt="The curve y = (5x + 1)/((x − 1)(x + 2)) equals 2/(x − 1) plus 3/(x + 2). The area from 2 to 4 splits into a bottom band 3 ln 1.5 (about 1.216) and a top band 2 ln 3 (about 2.197), total about 3.413." loading="lazy">
   <figcaption>Splitting into partial fractions splits the area into two simple logarithmic bands.</figcaption>
 </figure>
 

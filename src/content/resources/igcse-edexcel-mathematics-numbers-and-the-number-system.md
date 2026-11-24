@@ -199,7 +199,7 @@ answer from a plausible-looking incorrect one.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-exponential-growth-decay-and-surds--04-surd-diagonal.webp" width="900" height="940" alt="A square of side 4 cm has a diagonal of root 32, since 16 + 16 = 32. Taking out the square factor gives 4 root 2, which lands near 5.657 on the number line." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-exponential-growth-decay-and-surds--04-surd-diagonal.webp" width="900" height="900" alt="A square of side 4 cm has a diagonal of root 32, since 16 + 16 = 32. Taking out the square factor gives 4 root 2, which lands near 5.657 on the number line." loading="lazy">
   <figcaption>The exact length 4√2 cm is a surd; 5.657 is only a rounded value.</figcaption>
 </figure>
 
@@ -254,7 +254,7 @@ labelled diagram.
 </figure>
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-mathematics-0580-sets--04-subset-or-not.webp" width="900" height="990" alt="Three Venn diagrams. A circle for {2, 4} sits wholly inside a circle for {1, 2, 3, 4}, so A ⊆ B. A = {2, 6} overlaps B but 6 is outside B, so A ⊈ B. Two separate circles show A ∩ B = ∅." loading="lazy">
+  <img src="https://img.marlbridge.com/mathematics-sets--04-subset-or-not.webp" width="900" height="990" alt="Three Venn diagrams. A circle for {2, 4} sits wholly inside a circle for {1, 2, 3, 4}, so A ⊆ B. A = {2, 6} overlaps B but 6 is outside B, so A ⊈ B. Two separate circles show A ∩ B = ∅." loading="lazy">
   <figcaption>A is a subset of B only if no element of A lies outside B.</figcaption>
 </figure>
 

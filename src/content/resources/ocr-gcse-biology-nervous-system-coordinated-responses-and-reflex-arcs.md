@@ -81,7 +81,7 @@ The impulse cannot jump the gap directly. Instead:
 Receptors for the chemical are only on the receiving side, so the signal passes in one direction only. The chemical step also means each synapse adds a small delay.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/igcse-biology-0610-coordination-and-response--02-synapse.webp" width="900" height="1010" alt="A schematic synapse: an impulse in neurone 1 makes vesicles release neurotransmitter into the synaptic gap, the molecules diffuse across, bind receptor proteins on neurone 2 and start a new impulse. Only neurone 1 releases neurotransmitter and only neurone 2 has receptors, so the impulse goes one way." loading="lazy">
+  <img src="https://img.marlbridge.com/biology-coordination-and-response--02-synapse.webp" width="900" height="980" alt="A schematic synapse: an impulse in neurone 1 makes vesicles release neurotransmitter into the synaptic gap, the molecules diffuse across, bind receptor proteins on neurone 2 and start a new impulse. Only neurone 1 releases neurotransmitter and only neurone 2 has receptors, so the impulse goes one way." loading="lazy">
   <figcaption>Neurotransmitter crosses the gap and binds receptors, so impulses go one way only.</figcaption>
 </figure>
 
