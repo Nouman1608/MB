@@ -51,7 +51,7 @@ function snippetCut(text: string, max: number, min: number): string {
 export function apMetaDescription(description: string, max = SNIPPET_MAX): string {
   const full = description.replace(/\s+/g, ' ').trim();
   if (full.length <= max) return full;
-  for (const min of [70, 40]) {
+  for (const min of [70]) {
     for (const text of [full, compact(full)]) {
       if (text.length <= max && text.length >= min) return text;
       const s = snippetCut(text, max, min);

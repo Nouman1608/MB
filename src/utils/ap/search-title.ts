@@ -7,6 +7,7 @@
  * 2. the same words reordered course-first with a short type,
  *    "<Course> <n.n> <Topic> <Short type>", when that fits in 60 characters;
  * 3. otherwise the full title, unchanged.
+ * Every result starts with "AP" (audit 3, item 28): titles over 60 characters are accepted (D-529).
  * The on-page heading always stays the full title.
  */
 const SHORT_TYPE: Record<string, string> = {
@@ -23,8 +24,11 @@ const PATTERN = /^(.*): ([A-Z][\w ]+?) \((.+?) ((?:Unit )?\d+(?:\.\d+)?)\)$/;
 
 export const SEARCH_TITLE_MAX = 60;
 
+/** Audit 3 item 28: every AP search title starts with "AP" (hand-written seoTitles and fallbacks included). */
+const withAp = (t: string): string => (/^AP\b/.test(t) ? t : `AP ${t}`);
+
 export function apSearchTitle(title: string, seoTitle?: string): string {
-  if (seoTitle) return seoTitle;
+  if (seoTitle) return withAp(seoTitle);
   const m = PATTERN.exec(title);
   if (m) {
     const [, topic, type, course, num] = m;
@@ -41,8 +45,8 @@ export function apSearchTitle(title: string, seoTitle?: string): string {
     const fit = candidates.find((c) => c.length <= SEARCH_TITLE_MAX);
     if (fit) return fit;
     // No AP form fits: keep the earlier behaviour (course-first short form, else the full title).
-    const old = `${course} ${num} ${topic} ${short}`;
-    return old.length <= SEARCH_TITLE_MAX ? old : title;
+    const old = `AP ${course} ${num} ${topic} ${short}`;
+    return old.length <= SEARCH_TITLE_MAX ? old : withAp(title);
   }
-  return title;
+  return withAp(title);
 }

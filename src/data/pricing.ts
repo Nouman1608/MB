@@ -417,7 +417,7 @@ export const PRICING_TERMS = {
    * D7 (owner, audit round 3, 25 Nov 2026): the old `teacherAvailability`
    * sentence ("Teachers are available 24 hours a day, 7 days a week ...", D-311)
    * is retired site-wide; pages state the real reply hours (enquiryResponse). */
-  groupClassTimes: "Group class times are agreed with the families in each group, and we confirm them in your own time zone before the trial.",
+  groupClassTimes: "Group class times are agreed with the families in each group, and we confirm them in the time zone of the country you give us before the trial.",
   /** D-331 item 24 / D-332 -- owner: no notice period is needed to move a
    * confirmed trial class. Published on /trial/ (FAQ and success panel). */
   trialReschedule: 'Yes. To move a confirmed trial class, reply to our email or message us on WhatsApp. No notice period is needed.',
