@@ -26,6 +26,8 @@ import ArticleCard from '../../../../components/cards/ArticleCard.astro';
 import RelatedGrid from '../../../../components/layout/RelatedGrid.astro';
 import CTA from '../../../../components/ui/CTA.astro';
 import CourseTopicResources from '../../../../components/academic/CourseTopicResources.astro';
+import CoursePastPapers from '../../../../components/academic/CoursePastPapers.astro';
+import { courseLibrary, courseListing, countLabel, yearRange } from '../../../../utils/past-papers/library';
 import { courseTopics } from '../../../../utils/academic/course-topics';
 import { LEVEL_FOR_QUALIFICATION, activeOnly, offersClasses, offeringsForSubject, academicHubPath, boardPath, levelPath, isFlagshipCode, type Combination } from '../../../../utils/academic';
 import { subjectBySlug } from '../../../../data/academic/subjects';
@@ -103,6 +105,10 @@ const topicFlashcards = hubDeck
 // has any for it. Undefined for a course with no entries, and then nothing is
 // rendered. Kept out of the "Free tools" list: these are the board's documents.
 const hubPastPapers = hubLibraryLink(c);
+// Audit 3 item 40: the newest series of those documents, listed on this page
+// (year, series, paper, variant, a link per document). Same manifest, same
+// functions as /past-papers/; undefined for a course with no entries.
+const hubPastPaperCourse = courseLibrary(c);
 
 /**
  * v2.0 AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS2 -- every academic
@@ -898,6 +904,20 @@ const jsonLd = [
       )}
     </Container>
   </Section>
+
+  {hubPastPaperCourse && (
+    <Section surface="white" spacing="md" border>
+      <Container>
+        <CoursePastPapers
+          listing={courseListing(hubPastPaperCourse)}
+          href={hubPastPaperCourse.path}
+          board={c.board}
+          countText={countLabel(hubPastPaperCourse.entries.length)}
+          years={yearRange(hubPastPaperCourse)}
+        />
+      </Container>
+    </Section>
+  )}
 
   {tuitionPage && (
     <TuitionPanel

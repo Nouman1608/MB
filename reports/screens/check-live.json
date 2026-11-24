@@ -1,0 +1,146 @@
+[
+  {
+    "check": "exam-calendar status labels",
+    "url": "https://marlbridge.com/exam-calendar/",
+    "status": 200,
+    "browserToday": "Wed Nov 25 2026 02:28:15 GMT+0500 (Pakistan Standard Time)",
+    "series": [
+      {
+        "heading": "October/November 2026 key dates",
+        "status": "Exams over, results pending",
+        "warning": null
+      },
+      {
+        "heading": "February/March 2027 key dates",
+        "status": "Next series",
+        "warning": "Final entries deadline is in 2 days (27 November 2026). Confirm entries with your exams officer now."
+      },
+      {
+        "heading": "May/June 2027 key dates",
+        "status": "Later series",
+        "warning": null
+      }
+    ],
+    "screenshot": "live-exam-calendar.png"
+  },
+  {
+    "check": "end-of-page tuition block",
+    "url": "https://marlbridge.com/resources/ocr-gcse-physics-matter/",
+    "status": 200,
+    "count": 1,
+    "text": "Stuck on GCSE Physics (J249)? A Marlbridge subject teacher can take you through it live, one-to-one. The first trial class is free. One-to-one only for this course: Rs 6,000 per class in Pakistan, with other currencies on the fees page. WhatsApp replies within an hour (8am–11pm Pakistan time, every day); email the same day. In Pakistan, classes are in person at our Lahore academy or live online, w",
+    "screenshot": "live-resource-tuition-block.png"
+  },
+  {
+    "check": "sign-up form, JavaScript on",
+    "url": "https://marlbridge.com/resources/ocr-gcse-physics-matter/",
+    "boxes": 1,
+    "state": {
+      "formHidden": false,
+      "formVisible": true,
+      "fields": [
+        "website",
+        "email",
+        "qualification",
+        "courses",
+        "courses",
+        "courses",
+        "courses",
+        "courses",
+        "courses",
+        "courses",
+        "courses",
+        "courses",
+        "courses",
+        "courses",
+        "courses",
+        "courses",
+        "courses",
+        "courses",
+        "courses",
+        "courses",
+        "courses",
+        "consent"
+      ],
+      "errorsAfterEmptySubmit": [
+        "Please enter a valid email address.",
+        "Please tick the box to agree to receive these emails."
+      ],
+      "requestsSent": 0
+    },
+    "screenshot": "live-signup-js-on.png"
+  },
+  {
+    "check": "sign-up form, JavaScript off",
+    "url": "https://marlbridge.com/resources/ocr-gcse-physics-matter/",
+    "status": 200,
+    "boxes": 1,
+    "state": {
+      "formRendered": false,
+      "noscriptText": "This sign-up needs JavaScript.",
+      "contactLink": true
+    },
+    "screenshot": "live-signup-js-off.png"
+  },
+  {
+    "check": "FAQ toggle marks",
+    "url": "https://marlbridge.com/boards/cambridge/igcse/chemistry/",
+    "status": 200,
+    "count": 8,
+    "closedMark": "\"+\" / \"\"",
+    "openMark": "\"−\" / \"\"",
+    "accessibleNameOfFirstSummary": null,
+    "screenshots": [
+      "live-faq-closed.png",
+      "live-faq-open.png"
+    ]
+  },
+  {
+    "check": "figure",
+    "why": "A2 integration figure (pill kept, owner 24 Nov 2026; e519239f2)",
+    "url": "https://marlbridge.com/resources/aqa-a-level-mathematics-integration/",
+    "status": 200,
+    "found": 1,
+    "info": {
+      "src": "https://img.marlbridge.com/mathematics-integration--08-parts-as-area-a2.webp",
+      "complete": true,
+      "naturalWidth": 1800,
+      "naturalHeight": 1600,
+      "alt": "The rectangle of width e and height 1 is split by y = ln x. The part under the curve has area 1 and the part to its left",
+      "caption": "Integration by parts is the statement that two complementary areas fill a rectangle."
+    },
+    "screenshot": "live-figure-1.png"
+  },
+  {
+    "check": "figure",
+    "why": "D-525 board-neutral replacement (23e6667af)",
+    "url": "https://marlbridge.com/resources/ocr-gcse-physics-matter/",
+    "status": 200,
+    "found": 1,
+    "info": {
+      "src": "https://img.marlbridge.com/physics-thermal-physics--01-particle-states.webp",
+      "complete": true,
+      "naturalWidth": 1800,
+      "naturalHeight": 1960,
+      "alt": "Three boxes of particles: a solid with particles touching in regular rows, vibrating; a liquid with touching random part",
+      "caption": "Particles are arranged and move differently in solids, liquids and gases."
+    },
+    "screenshot": "live-figure-2.png"
+  },
+  {
+    "check": "figure",
+    "why": "D-525 board-neutral replacement (23e6667af), first figure on the page",
+    "url": "https://marlbridge.com/resources/a-level-edexcel-biology-membranes-gas-exchange-and-osmosis/",
+    "status": 200,
+    "found": 1,
+    "info": {
+      "src": "https://img.marlbridge.com/biology-cell-membranes-and-transport--01-fluid-mosaic.webp",
+      "complete": true,
+      "naturalWidth": 1800,
+      "naturalHeight": 1600,
+      "alt": "Cross-section of a cell surface membrane. Phospholipid heads face the watery outside and inside, with hydrophobic tails ",
+      "caption": "The bilayer, proteins, cholesterol and outward-facing carbohydrate chains of the fluid mosaic model."
+    },
+    "screenshot": "live-figure-3.png"
+  }
+]

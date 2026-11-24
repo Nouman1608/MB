@@ -8,7 +8,8 @@
 import PageLayout from '../../layouts/PageLayout.astro';
 import Section from '../../components/layout/Section.astro';
 import Container from '../../components/layout/Container.astro';
-import { DIAGNOSTIC_SETS, diagnosticPath, diagnosticsForCode } from '../../data/diagnostics';
+import { DIAGNOSTIC_SETS, diagnosticPath, diagnosticsForCode, diagnosticTopicSlugs, diagnosticSizeLabel } from '../../data/diagnostics';
+import { buildClientQuestions } from '../../utils/practice/client-questions';
 import { flagshipSpecs, academicHubPath } from '../../utils/academic';
 import { routes } from '../../utils/urls/routes';
 
@@ -39,11 +40,14 @@ const QUAL_HEADINGS: Record<string, string> = {
 const codes = [...new Set(DIAGNOSTIC_SETS.map((d) => d.code))];
 const subjects = codes.map((code) => {
   const spec = specs.find((s) => s.code === code)!;
+  // Audit 3 item 42: "N questions on M topics", counted from the question data
+  // with the set page's own rule (diagnosticTopicSlugs in data/diagnostics.ts).
+  const bank = buildClientQuestions(spec);
   const sets = diagnosticsForCode(code).map((d) => ({
     href: diagnosticPath(d),
     label: setLabel(d.slug, code),
     scope: d.scopeLabel,
-    questions: d.questionIds.length,
+    size: diagnosticSizeLabel(diagnosticTopicSlugs(d, bank)),
     minutes: d.minutes,
   }));
   return {
@@ -140,7 +144,7 @@ const jsonLd = {
                     <li class="m-0">
                       <a href={d.href} data-diagnostic-link={s.code} class="flex flex-wrap items-baseline justify-between gap-x-3 gap-y-0.5 rounded-sm border border-gold-500 bg-ivory px-4 py-3 transition-colors hover:bg-white">
                         <span class="font-medium text-navy-800">{d.label} <span aria-hidden="true" class="text-teal-700">→</span></span>
-                        <span class="text-[13.5px] text-ink-mute">{d.questions} questions · about {d.minutes} min</span>
+                        <span class="text-[13.5px] text-ink-mute">{d.size} · about {d.minutes} min</span>
                         <span class="w-full text-[13.5px] text-ink-mute">{d.scope}</span>
                       </a>
                     </li>

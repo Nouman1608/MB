@@ -12,12 +12,18 @@
 import PageLayout from '../../layouts/PageLayout.astro';
 import Section from '../../components/layout/Section.astro';
 import Container from '../../components/layout/Container.astro';
-import { GRADE_THRESHOLDS, type Grade } from '../../data/academic/grade-thresholds.ts';
+import { thresholdsByCode, seriesCovered, seriesPhrase, thresholdProblems, type Grade } from '../../data/academic/grade-thresholds.ts';
 import { routes } from '../../utils/urls/routes';
 import CTA from '../../components/ui/CTA.astro';
 import { getCollection } from 'astro:content';
 
 const path = '/grade-thresholds/';
+// Audit 3 item 44: one panel per syllabus, each series newest first, so a new
+// series is new records in the data file and no change here.
+const problems = thresholdProblems();
+if (problems.length > 0) throw new Error(`grade-thresholds.ts: ${problems.join('; ')}`);
+const BY_CODE = thresholdsByCode();
+const SERIES = seriesPhrase(seriesCovered());
 const GRADE_ORDER: Grade[] = ['A*', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'a', 'b', 'c', 'd', 'e'];
 
 // Past-papers guides (resourceType "past-papers") hold the earlier series'
@@ -29,11 +35,11 @@ const PAST_PAPER_GUIDES = (await getCollection('resources'))
 ---
 <PageLayout
   title="Grade Threshold Explorer — Cambridge Grade Boundaries"
-  description="Verified June 2026 grade thresholds (grade boundaries) for Cambridge IGCSE Chemistry, Physics, Mathematics and AS & A Level Chemistry, Physics -- sourced directly from Cambridge's own official grade-threshold documents."
+  description={`Verified ${SERIES} grade thresholds (grade boundaries) for Cambridge IGCSE Chemistry, Physics, Mathematics and AS & A Level Chemistry, Physics -- sourced directly from Cambridge's own official grade-threshold documents.`}
   path={path}
   eyebrow="Free tool"
   heading="Grade threshold explorer"
-  lead={`The minimum mark needed for each grade in the June 2026 series, for ${GRADE_THRESHOLDS.length} flagship Cambridge specifications -- copied directly from Cambridge's own official grade-threshold documents, not estimated. Each table lists every single-series paper-combination route Cambridge published for that specification, so you can find your own exact combination rather than a single "representative" one; for AS & A Level Chemistry (9701) and Physics (9702), the staged-assessment routes (AS and A2 papers sat in different series) are not reproduced -- see the note under those tables. The figures are syllabus grade thresholds out of Cambridge's maximum weighted mark, exactly as Cambridge publishes them: Cambridge derives them from the weighted component thresholds. They are not percentage uniform marks.`}
+  lead={`The minimum mark needed for each grade in the ${SERIES} series, for ${BY_CODE.length} flagship Cambridge specifications -- copied directly from Cambridge's own official grade-threshold documents, not estimated. Each table lists every single-series paper-combination route Cambridge published for that specification, so you can find your own exact combination rather than a single "representative" one; for AS & A Level Chemistry (9701) and Physics (9702), the staged-assessment routes (AS and A2 papers sat in different series) are not reproduced -- see the note under those tables. The figures are syllabus grade thresholds out of Cambridge's maximum weighted mark, exactly as Cambridge publishes them: Cambridge derives them from the weighted component thresholds. They are not percentage uniform marks.`}
   breadcrumbs={[
     { label: 'Home', href: routes.home },
     { label: 'Grade thresholds', href: path },
@@ -44,7 +50,7 @@ const PAST_PAPER_GUIDES = (await getCollection('resources'))
       <div class="mx-auto max-w-[360px]">
         <label for="mb-gt-select" class="m-0 mb-2 block mb-label text-ink-mute">Choose a specification</label>
         <select id="mb-gt-select" class="w-full rounded-sm border border-rule bg-white px-4 py-3 text-[16px] text-navy-800 outline-none transition-colors duration-150 focus:border-gold-500">
-          {GRADE_THRESHOLDS.map((g) => (
+          {BY_CODE.map((g) => (
             <option value={g.code}>{g.qualificationLabel} {g.subjectLabel} ({g.code})</option>
           ))}
         </select>
@@ -57,9 +63,10 @@ const PAST_PAPER_GUIDES = (await getCollection('resources'))
       </p>
 
       <div class="mt-10 flex flex-col gap-14">
-        {GRADE_THRESHOLDS.map((g) => (
-          <div class="mb-gt-panel" data-code={g.code}>
-            <h2 class="m-0 mb-1 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">{g.qualificationLabel} {g.subjectLabel} <span class="font-mono text-[16px] font-normal text-ink-mute">({g.code})</span></h2>
+        {BY_CODE.map((group) => (
+          <div class="mb-gt-panel" data-code={group.code}>
+            <h2 class="m-0 mb-1 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">{group.qualificationLabel} {group.subjectLabel} <span class="font-mono text-[16px] font-normal text-ink-mute">({group.code})</span></h2>
+            {group.records.map((g, ri) => (<div class={ri > 0 ? 'mt-10' : ''} data-series={g.series}>
             <p class="m-0 mb-6 text-[13.5px] text-ink-mute">{g.series} series</p>
 
             <div class="overflow-x-auto rounded-sm border border-rule">
@@ -93,6 +100,7 @@ const PAST_PAPER_GUIDES = (await getCollection('resources'))
               Sourced directly from Cambridge's official grade-threshold document for {g.code}, {g.series}, verified {g.verifiedOn} —
               {' '}<a href={g.officialSourceUrl} class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700" rel="noopener">view the original PDF</a>.
             </p>
+            </div>))}
           </div>
         ))}
       </div>

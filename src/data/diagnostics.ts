@@ -40,6 +40,8 @@
  * the bank or moves to another syllabus code.
  */
 
+import { reportTopicSlug } from '../utils/practice/topic-filter.ts';
+
 export interface DiagnosticSet {
   /** URL segment under /practice/{code}/diagnostic/ -- '' for the only set of a code. */
   slug: string;
@@ -781,3 +783,37 @@ export const diagnosticPath = (s: Pick<DiagnosticSet, 'code' | 'slug'>): string 
 
 export const diagnosticsForCode = (code: string): DiagnosticSet[] =>
   DIAGNOSTIC_SETS.filter((s) => s.code === code);
+
+/**
+ * Audit 3, item 42 (25 Nov 2026) -- the topic each question of a set is
+ * reported under, in the order asked: the set's own override for a question
+ * that spans two topics (M9), else the question's first mapped topic, and
+ * 'general' for a question with no topic tag. This is the rule the set page
+ * (/practice/<code>/diagnostic/<set>/) uses for its result lines, its
+ * recommendations and its "N questions on M topics" line, so the
+ * diagnostics hub counts topics the same way. `bank` is
+ * buildClientQuestions() for the set's code (passed in so this data file
+ * keeps no import of the practice bank). Throws, as the set page does, when
+ * a question id is not in the bank or an override is not one of the
+ * question's own topics: the build fails rather than miscounting.
+ */
+export function diagnosticTopicSlugs(
+  set: Pick<DiagnosticSet, 'code' | 'slug' | 'questionIds' | 'topicOverrides'>,
+  bank: readonly { readonly id: string; readonly topics: readonly { readonly key: string }[] }[],
+): string[] {
+  return set.questionIds.map((id) => {
+    const q = bank.find((x) => x.id === id);
+    if (!q) throw new Error(`Diagnostic ${set.code}/${set.slug}: question ${id} is not in the practice bank`);
+    const override = set.topicOverrides?.[id];
+    const reported = reportTopicSlug(q, override);
+    if (override !== undefined && reported === null) throw new Error(`Diagnostic ${set.code}/${set.slug}: topicOverrides names ${override}, which ${id} is not mapped to`);
+    return reported ?? 'general';
+  });
+}
+
+/** "6 questions on 5 topics": the set page's Length line, without marks and minutes. */
+export function diagnosticSizeLabel(topicSlugs: readonly string[]): string {
+  const q = topicSlugs.length;
+  const t = new Set(topicSlugs).size;
+  return `${q} question${q === 1 ? '' : 's'} on ${t} topic${t === 1 ? '' : 's'}`;
+}
