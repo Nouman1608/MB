@@ -412,11 +412,11 @@ export const PRICING_TERMS = {
     summary: 'We reply to WhatsApp messages within an hour, between 8am and 11pm Pakistan time every day, and to email enquiries the same day.',
     short: 'WhatsApp replies within an hour (8am–11pm Pakistan time, every day); email the same day.',
   },
-  /** D-311 -- owner, 24 Sep 2026: "we have teachers available 24/7".
-   * D-332 -- owner, 25 Sep 2026: group class times are arranged per group
-   * (agreed with the families in it) and confirmed before the trial. The 24/7
-   * sentence alone read as if a fixed group could meet at any hour. */
-  teacherAvailability: "Teachers are available 24 hours a day, 7 days a week, so one-to-one classes can be arranged at any time that suits your time zone. Group class times are agreed with the families in each group, and we confirm them in your own time zone before the trial.",
+  /** D-332 -- owner, 25 Sep 2026: group class times are arranged per group
+   * (agreed with the families in it) and confirmed before the trial.
+   * D7 (owner, audit round 3, 25 Nov 2026): the old `teacherAvailability`
+   * sentence ("Teachers are available 24 hours a day, 7 days a week ...", D-311)
+   * is retired site-wide; pages state the real reply hours (enquiryResponse). */
   groupClassTimes: "Group class times are agreed with the families in each group, and we confirm them in your own time zone before the trial.",
   /** D-331 item 24 / D-332 -- owner: no notice period is needed to move a
    * confirmed trial class. Published on /trial/ (FAQ and success panel). */

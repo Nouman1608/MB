@@ -220,7 +220,7 @@ const jsonLd = [
           {teachesOneToOneOnly && (
             <p class="m-0 mt-3 text-[14px] text-ink-mute">{ONE_TO_ONE_ONLY_NOTE} In Pakistan {formatFee(ONE_TO_ONE_ONLY_PRICING.perClass, ONE_TO_ONE_ONLY_PRICING.currency)} {ONE_TO_ONE_ONLY_PRICING.currency} {ONE_TO_ONE_ONLY_PRICING.unit}.</p>
           )}
-          <p class="m-0 mt-3 text-[14px] text-ink-mute">A Level, IB and other regions are priced differently: <a href={routes.pricing} class="underline decoration-teal-500 underline-offset-2">Fees in your currency</a>. {PRICING_TERMS.teacherAvailability}</p>
+          <p class="m-0 mt-3 text-[14px] text-ink-mute">A Level, IB and other regions are priced differently: <a href={routes.pricing} class="underline decoration-teal-500 underline-offset-2">Fees in your currency</a>. {/* D7 (owner, audit 3): no 24/7 claim */}{PRICING_TERMS.groupClassTimes}</p>
           <div class="mt-6 flex flex-wrap items-center gap-4">
             <Button href={`${routes.trial}?teacher=${author.id}&source=teacher`} variant="primary" data-cta="teacher-trial">Request a free trial with {d.name.split(' ')[0]}</Button>
             <Button href={routes.tutoring} variant="quiet">See all teachers</Button>
