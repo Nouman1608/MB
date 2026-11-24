@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -169,7 +169,7 @@ Rounding α too early can shift the final angle by a decimal place and lose the 
 **How do you solve an equation such as tan 2θ = 3 tan θ?**
 Replace tan 2θ with 2 tan θ/(1 − tan²θ), rearrange and factorise rather than dividing by tan θ. Then check whether tan θ = 0 gives any solutions in the interval.
 
-## Next steps
+## More on this topic
 
 - [Trigonometry revision notes](/resources/a-level-maths-9709-pure-mathematics-2-trigonometry-revision-notes/)
 - [Trigonometry study guide](/resources/a-level-maths-9709-pure-mathematics-2-trigonometry/)

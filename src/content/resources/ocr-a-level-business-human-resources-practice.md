@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -136,7 +136,7 @@ Name several stakeholders only if you link each one to a specific effect, such a
 **What makes an HR recommendation convincing?**
 Use the evidence in the stem, such as exit-interview comments, costs or a seasonal peak in sales, to support your choice and to reject the alternative.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/ocr-a-level-business-human-resources/) and use the [revision notes](/resources/ocr-a-level-business-human-resources-revision-notes/) for formulas.
 - Go to the [OCR A Level Business hub](/boards/ocr/a-level/business/) or the printable [checklist](/checklists/ocr/a-level/business/).

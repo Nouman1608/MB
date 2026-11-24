@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -134,7 +134,7 @@ Related pages: the [OxfordAQA Mathematics hub](/boards/oxfordaqa/a-level/mathema
 - Missing the squared term for a repeated factor.
 - Giving a decimal for an answer that should be exact, such as (3 ± √41)/4.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/oxfordaqa-a-level-mathematics-transformations-rational-functions-algebraic-division-revision-notes/) and the [study guide](/resources/oxfordaqa-a-level-mathematics-transformations-rational-functions-algebraic-division/).
 - Go back to the [OxfordAQA Mathematics hub](/boards/oxfordaqa/a-level/mathematics/) and tick items off the [checklist](/checklists/oxfordaqa/a-level/mathematics/).

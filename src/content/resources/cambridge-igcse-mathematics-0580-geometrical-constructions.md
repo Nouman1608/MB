@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -168,7 +168,7 @@ The prism and pyramid volume formulas are on the formula list printed in the pap
 - **Draw** a net: use a ruler, label lengths if the question asks, and count the faces at the end.
 - **Calculate** from a net: write which dimensions you are using before you multiply.
 
-## Next steps
+## More on this topic
 
 - Recap with the [geometrical constructions revision notes](/resources/cambridge-igcse-mathematics-0580-geometrical-constructions-revision-notes/) and practise with the [geometrical constructions practice questions](/resources/cambridge-igcse-mathematics-0580-geometrical-constructions-practice/).
 - Construction skills are used again in the [scale drawings study guide](/resources/cambridge-igcse-mathematics-0580-scale-drawings/); surface area and volume continue in the [Mensuration study guide](/resources/igcse-mathematics-mensuration/).

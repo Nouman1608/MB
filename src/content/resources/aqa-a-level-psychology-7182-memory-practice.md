@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -175,7 +175,7 @@ Use the working memory model to explain whether her friend is right. **[4]**
 - Listing the cognitive interview techniques without explaining why they work.
 - Writing about types of long-term memory, which are not Version 1.4 content.
 
-## Next steps
+## More on this topic
 
 Review the models with the [multi-store and working memory models study guide](/resources/a-level-aqa-psychology-multi-store-and-working-memory-models/) and the [memory models revision notes](/resources/aqa-a-level-psychology-memory-revision-notes/). For mixed Paper 1 questions, try the [Introductory Topics practice questions](/resources/aqa-a-level-psychology-introductory-practice/).
 

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -114,7 +114,7 @@ A 2.0 kg steel block rides on the flat bed of a lorry moving at 20 m s⁻¹. The
 - **Suggest** (whether internal energy changes in an unfamiliar situation): ask whether the state of the system changes. If temperature, volume and phase are all unchanged, the internal energy is unchanged.
 - **Calculate** or **show that** (ideal gas): write U = N(3/2)kT or (3/2)nRT, state that it applies because there is no potential energy, and keep T in kelvin.
 
-## Related resources
+## More resources on this topic
 
 - [Thermodynamics study guide](/resources/a-physics-thermodynamics/) — the whole of Topic 16
 - [Internal energy revision notes](/resources/cambridge-a-level-physics-9702-a-internal-energy-revision-notes/)

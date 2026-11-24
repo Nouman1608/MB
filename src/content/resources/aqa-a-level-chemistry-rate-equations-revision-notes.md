@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 These notes condense section **3.1.9 Rate equations** of the AQA AS and A-level Chemistry specification
@@ -264,7 +264,7 @@ A zero-order reactant gives a horizontal line, a first-order reactant gives a st
 **Can orders be taken from the balanced equation?**
 No. Orders come from experimental data, while coefficients come from the balanced equation. Taking orders from the equation is one of the most common errors.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/aqa-a-level-chemistry-rate-equations-practice/), and go back
 to the [study guide](/resources/aqa-a-level-chemistry-rate-equations/) for any step that felt shaky. The free

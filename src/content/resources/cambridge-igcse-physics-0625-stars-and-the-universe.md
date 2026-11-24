@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -145,7 +145,7 @@ Every galaxy gives the same value of d/v, because v is proportional to d. That s
 - **Explain** what redshift shows: expansion, then the Big Bang link.
 - **Calculate:** write H₀ = v/d, rearrange, substitute in SI units, and convert to light-years or years only at the end.
 
-## Next steps
+## More on this topic
 
 Condense this with the [stars and the Universe revision notes](/resources/cambridge-igcse-physics-0625-stars-and-the-universe-revision-notes/) and practise with the [stars and the Universe practice questions](/resources/cambridge-igcse-physics-0625-stars-and-the-universe-practice/). The previous subtopic is [the Earth and the Solar System](/resources/cambridge-igcse-physics-0625-the-earth-and-the-solar-system/).
 

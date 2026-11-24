@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -159,7 +159,7 @@ These questions cover statements B4.1e to B4.1j of OCR GCSE (9-1) Gateway Scienc
 - Calling egestion excretion.
 - Giving "energy is lost" with no named route of biomass loss.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ocr-gcse-biology-ecosystem-organisation-abiotic-and-biotic-factors-revision-notes/) and the [study guide](/resources/ocr-gcse-biology-ecosystem-organisation-abiotic-and-biotic-factors/).
 - Visit the [OCR GCSE Biology hub](/boards/ocr/gcse/biology/) and the [printable checklist](/checklists/ocr/gcse/biology/).

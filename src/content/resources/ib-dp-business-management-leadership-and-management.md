@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers section 2.3, Leadership and management, in Unit 2 (Human resource management) of the IB *Business management guide*, first assessment 2024. Most of the section applies to both SL and HL. One point, scientific and intuitive thinking/management, is labelled HL only in the guide. The wording of the official text is short, so this guide fills in each named idea with the standard textbook account and says where it does so.
@@ -205,7 +205,7 @@ Good HL answers avoid presenting one as always right. Managers often combine bot
 - Listing advantages and disadvantages with no link to the case. At AO3, a verdict is needed.
 - Forgetting that scientific and intuitive thinking is HL only if you sit SL.
 
-## Next steps
+## More on this topic
 
 Condense this page with the [revision notes](/resources/ib-dp-business-management-leadership-and-management-revision-notes/), then test yourself on the [practice questions](/resources/ib-dp-business-management-leadership-and-management-practice/). Tick off the section on the [checklist](/checklists/ib/ib-dp/business/) when you are confident.
 

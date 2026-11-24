@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers section 2.3, Ledger accounting, of Topic 2, Introduction to bookkeeping, in the Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016. The section has two points: explain the purpose of the nominal ledger, the receivables ledger and the payables ledger, and record transactions in ledger accounts using double entry principles. The specification lists no tiers and no paper-only markers for this content. It says Paper 1 draws exclusively from topics 1 to 3, and that Paper 2 builds on the knowledge, understanding and skills from those topics.
@@ -215,7 +215,7 @@ For each transaction, name the account debited and the account credited.
 - Balancing with the totals not level, or bringing the balance down on the same side as the Balance c/d.
 - Treating drawings as an expense of the business. They have their own account, debited when the owner takes money or goods.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [ledger accounting practice set](/resources/edexcel-igcse-accounting-ledger-accounting-practice/), revise with the [revision notes](/resources/edexcel-igcse-accounting-ledger-accounting-revision-notes/), tick off topics on the [checklist](/checklists/edexcel/igcse/accounting/), and try a [free diagnostic](/diagnostics/). The [course hub](/boards/edexcel/igcse/accounting/) lists the rest of the course.
 

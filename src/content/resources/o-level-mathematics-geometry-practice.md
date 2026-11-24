@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-24
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -137,7 +137,7 @@ If the length scale factor is k, areas multiply by k² and volumes by k³. Using
 **Which circle theorem facts are most often missed in Cambridge O Level Mathematics?**
 Common slips include forgetting that a tangent meets the radius at 90°, applying the alternate segment theorem to an angle in the wrong segment, and not stating that the angle in a semicircle needs a diameter.
 
-## Next steps
+## More on this topic
 
 - [Geometry revision notes](/resources/o-level-mathematics-geometry-revision-notes/)
 - [Geometry study guide](/resources/o-level-mathematics-geometry/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -157,7 +157,7 @@ liquid gives a greater upthrust at the same depth, so an object floats higher in
 - "Less gravity higher up" as the reason for lower atmospheric pressure.
 - Saying the ship floats lower because it is "heavier" in fresh water.
 
-## Next steps
+## More on this topic
 
 - [Pressure in fluids study guide](/resources/aqa-gcse-physics-8463-pressure-and-pressure-differences-in-fluids/)
 - [Pressure in fluids revision notes](/resources/aqa-gcse-physics-8463-pressure-and-pressure-differences-in-fluids-revision-notes/)

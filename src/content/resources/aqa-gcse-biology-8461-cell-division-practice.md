@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-23: Q5 wording and Q10(b) levels-of-response marking made consistent (audit C11)"
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-23: Q5 wording and Q10(b) levels-of-response marking made consistent (audit C11) 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -201,7 +201,7 @@ growing new shoots and roots throughout its life. **[3]**
 - Evaluate answers that list one side only or give no conclusion.
 - Writing that stem cells "cure" diabetes rather than "may help".
 
-## Next steps
+## More on this topic
 
 - [Cell division revision notes](/resources/aqa-gcse-biology-8461-cell-division-revision-notes/)
 - [Cell division study guide](/resources/aqa-gcse-biology-8461-cell-division/)

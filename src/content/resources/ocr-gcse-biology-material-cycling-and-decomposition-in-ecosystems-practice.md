@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -158,7 +158,7 @@ These questions cover statements B4.1a to B4.1d of the OCR GCSE (9-1) Gateway Sc
 - Calculating a percentage of the final mass instead of the starting mass.
 - Mixing up aerobic and anaerobic.
 
-## Next steps
+## More on this topic
 
 - Read the [study guide](/resources/ocr-gcse-biology-material-cycling-and-decomposition-in-ecosystems/) and the [revision notes](/resources/ocr-gcse-biology-material-cycling-and-decomposition-in-ecosystems-revision-notes/).
 - Return to the [OCR GCSE Biology hub](/boards/ocr/gcse/biology/) and tick off the [checklist](/checklists/ocr/gcse/biology/).

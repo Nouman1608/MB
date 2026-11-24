@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to zain-ud-din-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to zain-ud-din-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers section 3.2 Regulatory and ethical considerations of the Cambridge International AS & A Level Accounting 9706 syllabus for 2026, 2027 and 2028. It is A Level content. The official text bases the questions of Paper 3, Financial Accounting, on section 3, with AS Level knowledge assumed. All businesses and figures below are invented, and amounts are in dollars.
@@ -237,7 +237,7 @@ Recoverable amount is the higher of fair value less costs of disposal and value 
 **What are the five fundamental ethical principles?**
 The five principles are integrity, objectivity, professional competence and due care, confidentiality, and professional behaviour.
 
-## Next steps
+## More on this topic
 
 Condense this with the [revision notes](/resources/cambridge-a-level-accounting-regulatory-and-ethical-considerations-revision-notes/), then test yourself on the [practice questions](/resources/cambridge-a-level-accounting-regulatory-and-ethical-considerations-practice/). In evaluation answers, give reasons on both sides and then a justified conclusion.
 

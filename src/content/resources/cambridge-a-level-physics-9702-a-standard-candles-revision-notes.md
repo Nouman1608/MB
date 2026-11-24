@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -119,7 +119,7 @@ Two objects of the same luminosity: the one with 100 times less flux is 10 times
 
 **Answers:** 1. The total power of radiation emitted by a star. 2. Power of radiation received per unit area (normal to the direction of travel); W m⁻². 3. An astronomical object of known luminosity. 4. At distance d the power L is spread over the surface of a sphere of area 4πd². 5. It falls to a quarter. 6. F = 3.6 × 10²⁷ / (4π × (2.4 × 10¹⁷)²) = 5.0 × 10⁻⁹ W m⁻². 7. d = √(1.2 × 10³⁰ / (4π × 2.0 × 10⁻¹⁵)) = 6.9 × 10²¹ m. 8. 1 : 4 (the brighter one is four times nearer). 9. Identify a standard candle in the galaxy, measure its radiant flux intensity, and use its known luminosity in F = L/(4πd²) to find d. 10. Measure F for examples at known distances and calculate L = 4πd²F. 11. Too large. 12. Cepheid variable stars and Type Ia supernovae.
 
-## Related resources
+## More resources on this topic
 
 - [Astronomy and Cosmology revision notes](/resources/a-physics-astronomy-cosmology-revision-notes/) — the whole of Topic 25
 - [Standard candles practice questions](/resources/cambridge-a-level-physics-9702-a-standard-candles-practice/)

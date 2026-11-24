@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches Topic 4, **Geometry and measures** (references G1–G25), of the AQA GCSE Mathematics (8300) specification, Version 1.0, for exams in May/June 2017 onwards and every May/June and November series after that. It covers all three parts: 3.4.1 Properties and constructions, 3.4.2 Mensuration and calculation, and 3.4.3 Vectors. Content in the specification's "Higher content only" column is marked **Higher tier only**; everything else is on both tiers. Geometry can be tested on Paper 1 (non-calculator) and on Papers 2 and 3 (calculator allowed).
@@ -379,7 +379,7 @@ A translation needs a column vector, a reflection needs the equation of the mirr
 **How do you find the volume of a frustum?**
 Treat it as a composite solid: find the volume of the whole cone and subtract the volume of the small cone that was cut off.
 
-## Next steps
+## More on this topic
 
 - Condense this into the [revision notes](/resources/aqa-gcse-maths-8300-geometry-and-measures-revision-notes/) for the final weeks.
 - Test yourself with the [practice questions](/resources/aqa-gcse-maths-8300-geometry-and-measures-practice/), which have fully worked answers.

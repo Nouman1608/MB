@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches **Section O: Statistical hypothesis testing** (content references O1 to O3) of the
@@ -307,7 +307,7 @@ No. In Section O the product moment correlation coefficient r is given, together
 **Which AQA A-level Maths paper tests hypothesis testing?**
 Section O: Statistical hypothesis testing (O1 to O3) of the AQA 7357 specification is listed under Paper 3, with the rest of the statistics content.
 
-## Next steps
+## More on this topic
 
 Go through the [revision notes](/resources/aqa-a-level-mathematics-statistical-hypothesis-testing-revision-notes/)
 for a condensed version and a quick self-test, then try the

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -226,7 +226,7 @@ Arrows starting from the N atom instead of its lone pair, missing the final depr
 **Which equation symbol should you use for an amine reacting with water?**
 Use the equilibrium sign ⇌, because amines are weak bases and only partly react with water. A full arrow contradicts the idea of a weak base.
 
-## Next steps
+## More on this topic
 
 - [Amines revision notes](/resources/aqa-a-level-chemistry-amines-revision-notes/)
 - [Amines study guide](/resources/aqa-a-level-chemistry-amines/)

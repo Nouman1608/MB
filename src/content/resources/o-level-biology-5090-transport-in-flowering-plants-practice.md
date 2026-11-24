@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -167,7 +167,7 @@ Learn the content first with the [study guide](/resources/o-level-biology-5090-t
 - Placing phloem on the inside of a stem vascular bundle.
 - Forgetting the heat filter or the settling time in a potometer plan.
 
-## Next steps
+## More on this topic
 
 - Recap with the [transport in flowering plants revision notes](/resources/o-level-biology-5090-transport-in-flowering-plants-revision-notes/).
 - Re-read any weak sections in the [study guide](/resources/o-level-biology-5090-transport-in-flowering-plants/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the specification says only 'know the criteria for evaluating a computer system' (4.13.1.5) and does not itemise them. The criteria listed here (meets requirements, usability, robustness, efficiency, maintainability) are the commonly taught set; check against current exam mark schemes."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the specification says only 'know the criteria for evaluating a computer system' (4.13.1.5) and does not itemise them. The criteria listed here (meets requirements, usability, robustness, efficiency, maintainability) are the commonly taught set; check against current exam mark schemes. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -145,7 +145,7 @@ Compared with a strictly sequential approach, these allow requirements to change
 - When asked to justify modular design, mention separate writing and testing, reuse, and clear interfaces.
 - For evaluation, link each criterion to evidence.
 
-## Related resources
+## More resources on this topic
 
 - [Aspects of software development revision notes](/resources/aqa-a-level-computer-science-7517-aspects-of-software-development-revision-notes/)
 - [Aspects of software development practice questions](/resources/aqa-a-level-computer-science-7517-aspects-of-software-development-practice/)

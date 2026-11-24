@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide covers **topic 21, Programming for the web**, of Cambridge International AS & A Level Information Technology (9626). It follows the Cambridge International AS & A Level Information Technology 9626 syllabus for examination in 2025, 2026 and 2027 (version 3), section 21.1. Topic 21 is **A Level only**. The syllabus bases **Paper 3 (Advanced Theory)** questions on sections 12–21 and **Paper 4 (Advanced Practical)** tasks on sections 17–21, so you can meet JavaScript in both papers. The syllabus recommends a working knowledge of HTML and CSS first, for example from website authoring in Cambridge IGCSE ICT.
@@ -338,7 +338,7 @@ The clock shows 5, 4, 3, 2, 1, 0, then the interval stops.
 - Treating `prompt()`'s Cancel as an empty string; it returns `null`.
 - Off-by-one loops: `i <= scores.length` reads one past the end of the array.
 
-## Next steps
+## More on this topic
 
 Condense this with the [Programming for the web revision notes](/resources/a-level-cambridge-ict-programming-for-the-web-revision-notes/), then test yourself with the [Programming for the web practice questions](/resources/a-level-cambridge-ict-programming-for-the-web-practice/).
 

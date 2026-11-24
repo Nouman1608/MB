@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Section 3.3.3, Analysing the industry environment, sits inside 3.3 Business analysis of the OxfordAQA International AS and A-level Business (9725) specification, Version 1.1, for International AS exams May/June 2027 onwards and International A-level exams May/June 2028 onwards. None of it is examined at International AS: it is **International A-level only**. Students still taking the older 9625 course should rely on the 9625 specification for their exams.
@@ -223,7 +223,7 @@ A business can act to weaken a force, for example differentiating through brandi
 **How do strong forces affect a business's profit?**
 Rivalry, buyer power and substitutes limit the prices a business can charge, supplier power raises its costs, and entrants and substitutes take volume. Lower margins then mean less retained profit for investment and lower shareholder returns.
 
-## Next steps
+## More on this topic
 
 Recall it with the [revision notes](/resources/oxfordaqa-a-level-business-analysing-the-industry-environment-revision-notes/), test it with the [practice questions](/resources/oxfordaqa-a-level-business-analysing-the-industry-environment-practice/), and see [OxfordAQA A-level Business exam preparation](/resources/oxfordaqa-a-level-business-exam-preparation/) for technique.
 

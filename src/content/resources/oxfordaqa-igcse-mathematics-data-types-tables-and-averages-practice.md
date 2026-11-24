@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -184,7 +184,7 @@ Under-40 leisure = 22 − 14 = 8 [1]. Over-40 commute = 31 − 14 = 17 [1]. Over
 - Overlapping or incomplete categories when designing a two-way table.
 - Giving the position of a quartile instead of its value (Extension only).
 
-## Next steps
+## More on this topic
 
 - Read the [revision notes](/resources/oxfordaqa-igcse-mathematics-data-types-tables-and-averages-revision-notes/) and the [study guide](/resources/oxfordaqa-igcse-mathematics-data-types-tables-and-averages/).
 - Go to the [OxfordAQA IGCSE Mathematics hub](/boards/oxfordaqa/igcse/mathematics/) or the [checklist](/checklists/oxfordaqa/igcse/mathematics/).

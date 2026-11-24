@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The specification does not list the principles by name; a teacher should confirm that the five principles of the international code used here match centre teaching."
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The specification does not list the principles by name; a teacher should confirm that the five principles of the international code used here match centre teaching. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -144,7 +144,7 @@ Evaluate whether Nadia's duty of confidentiality to her employer should prevent 
 - Using "the public interest" to mean what is popular or newsworthy.
 - Writing an evaluation with no conclusion.
 
-## Next steps
+## More on this topic
 
 - Revisit the [professional ethics study guide](/resources/edexcel-igcse-accounting-4ac1-professional-ethics/) for any principle you mixed up.
 - Condense with the [professional ethics revision notes](/resources/edexcel-igcse-accounting-4ac1-professional-ethics-revision-notes/).

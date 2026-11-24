@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -122,7 +122,7 @@ A strong six-mark discussion of, say, insect-resistant maize might run: advantag
 - **Evaluate** or **discuss-style** questions on crops: both sides, linked to the named crop, with a conclusion.
 - **Suggest**: apply the four example types to an unfamiliar organism or gene.
 
-## Next steps
+## More on this topic
 
 Condense the section with the [section 21.3 revision notes](/resources/cambridge-igcse-biology-0610-genetic-modification-revision-notes/), then apply it in the [section 21.3 practice questions](/resources/cambridge-igcse-biology-0610-genetic-modification-practice/). Why bacteria and plasmids are used is covered in [section 21.1](/resources/cambridge-igcse-biology-0610-biotechnology-and-genetic-modification/); how the modified bacteria are grown on a large scale is in [section 21.2](/resources/cambridge-igcse-biology-0610-biotechnology/).
 

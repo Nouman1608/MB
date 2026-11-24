@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -135,7 +135,7 @@ So **α = 1.895** to 3 decimal places. Notice how small f(1.8955) is: the root i
 - **"By choosing a suitable interval, show that α = ... to 3 decimal places"**: the interval is the rounding interval, and the sign change completes the proof.
 - **"Explain why ..."** after an iteration that diverges or a sign test that fails: name the reason (discontinuity, repeated root, divergence) in words.
 
-## Related resources
+## More resources on this topic
 
 - [P3 numerical methods revision notes](/resources/edexcel-a-level-mathematics-yma01-p3-numerical-methods-revision-notes/)
 - [P3 numerical methods practice questions](/resources/edexcel-a-level-mathematics-yma01-p3-numerical-methods-practice/)

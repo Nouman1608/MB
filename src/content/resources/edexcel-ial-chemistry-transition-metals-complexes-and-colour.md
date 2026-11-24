@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches outcomes 17.1 to 17.17 of Topic 17: Transition Metals and their Chemistry, from the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017. The content is International A2 (IA2) material and sits in Unit 5: Transition Metals and Organic Nitrogen Chemistry. The later outcomes of Topic 17 (vanadium and chromium redox, reactions with hydroxide and ammonia, catalysis) are in the [redox and catalysis guide](/resources/edexcel-ial-chemistry-transition-metals-redox-and-catalysis/).
@@ -239,7 +239,7 @@ If some sites hold CO instead, this capacity falls in proportion.
 - Giving 90° for a tetrahedral complex, or 109.5° for a square planar one.
 - Describing CO as "blocking" haemoglobin without saying it **replaces** O₂ by ligand exchange and binds more strongly.
 
-## Next steps
+## More on this topic
 
 Condense with the [revision notes](/resources/edexcel-ial-chemistry-transition-metals-complexes-and-colour-revision-notes/), then try the [practice questions](/resources/edexcel-ial-chemistry-transition-metals-complexes-and-colour-practice/). See the [exam preparation guide](/resources/edexcel-ial-chemistry-exam-preparation/) for planning.
 

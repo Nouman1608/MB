@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -142,7 +142,7 @@ Fertiliser that is not taken up by plants can be washed into rivers and lakes. S
 - **Explain:** link the chemistry, such as solubility or the reaction with bases, to the farmer's purpose.
 - **Calculate** *(Extended)*: show Mr, count every nitrogen atom, then give the percentage to three significant figures.
 
-## Related resources
+## More resources on this topic
 
 - [Fertilisers revision notes](/resources/cambridge-igcse-chemistry-0620-fertilisers-revision-notes/) and [practice questions](/resources/cambridge-igcse-chemistry-0620-fertilisers-practice/)
 - [Water study guide](/resources/cambridge-igcse-chemistry-0620-water/), for nitrates and phosphates in rivers

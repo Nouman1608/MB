@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -144,7 +144,7 @@ In the short term, profit falls, because $24,000 is spent before any saving arri
   <figcaption>Action, cost, benefit, profit: then judge what the answer depends on.</figcaption>
 </figure>
 
-## Related resources
+## More resources on this topic
 
 - [Ethical and Environmental Considerations revision notes](/resources/oxfordaqa-igcse-business-9225-ethical-and-environmental-considerations-revision-notes/)
 - [Ethical and Environmental Considerations practice questions](/resources/oxfordaqa-igcse-business-9225-ethical-and-environmental-considerations-practice/)

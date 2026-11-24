@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -128,7 +128,7 @@ Life-cycle stage is a useful way to explain these flows: young adults move towar
 
 **Answers:** 1. Moving up the settlement hierarchy in stages. 2. Unemployment, low farm incomes, poor services, land shortage. 3. Loss of young adults or an ageing population. 4. Money sent home by migrants. 5. Pressure on housing and services or growth of informal settlements. 6. Movement from large cities to smaller towns and rural areas. 7. China's household registration system; it links access to services to a registered home, so migrants may lack urban services. 8. Repeated moves between home and city, such as seasonal work. 9. Jobs, education, nightlife and short commutes suit their life stage. 10. Young men often migrate first, leaving more women and older people. 11. Rural-urban, urban-rural, urban-urban and intra-urban.
 
-## Related resources
+## More resources on this topic
 
 - [Core Human Geography study guide](/resources/a-level-cambridge-geography-core-human-geography/)
 - [Paper 2 core revision notes (overview)](/resources/a-geography-human-revision-notes/)

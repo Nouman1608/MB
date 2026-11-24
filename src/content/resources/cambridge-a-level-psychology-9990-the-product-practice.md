@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -144,6 +144,6 @@ Related: [The product study guide](/resources/cambridge-a-level-psychology-9990-
 - In question 8(a), writing "eye level" instead of the centre of the display.
 - In question 9(a), naming "persuasion" or "pressure" instead of the principles.
 
-## Next steps
+## More on this topic
 
 Revisit any weak area in the [product study guide](/resources/cambridge-a-level-psychology-9990-the-product/), and compare these questions with the mixed [Consumer Psychology practice questions](/resources/a-level-psychology-consumer-psychology-practice/).

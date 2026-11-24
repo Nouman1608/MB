@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -129,7 +129,7 @@ Accuracy supports the communication of ideas. The descriptors use "effectively a
 **Can I invent a source in practice?**
 In practice you can, to rehearse the format. In real work every source must be real and checked.
 
-## Next steps
+## More on this topic
 
 - [Criterion C revision notes](/resources/ib-myp-individuals-and-societies-criterion-c-communicating-revision-notes/)
 - [Criterion C study guide](/resources/ib-myp-individuals-and-societies-criterion-c-communicating/)

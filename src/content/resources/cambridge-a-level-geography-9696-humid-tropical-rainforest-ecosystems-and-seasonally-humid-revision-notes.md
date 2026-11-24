@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -149,7 +149,7 @@ Tree cover in savanna decreases from wetter woodland savanna to drier grass sava
 11. Iron is leached down in the wet season and concentrated as water evaporates and rises in the dry season.
 12. A repeated sequence of soils from hilltop to valley floor caused by differences in drainage and movement of material.
 
-## Related resources
+## More resources on this topic
 
 - [7.3 study guide](/resources/cambridge-a-level-geography-9696-humid-tropical-rainforest-ecosystems-and-seasonally-humid/)
 - [7.3 practice questions](/resources/cambridge-a-level-geography-9696-humid-tropical-rainforest-ecosystems-and-seasonally-humid-practice/)

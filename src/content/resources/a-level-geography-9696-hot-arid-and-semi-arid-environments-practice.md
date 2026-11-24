@@ -32,6 +32,7 @@ publishedDate: 2026-09-29
 featured: false
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
+reviewNote: "2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 reviewedDate: 2026-10-09
 ---
 
@@ -183,7 +184,7 @@ Revise first with the [study guide](/resources/a-level-geography-9696-hot-arid-a
 - Treating desertification as wholly human or wholly natural.
 - Describing a case study without judging success against clear criteria.
 
-## Next steps
+## More on this topic
 
 - Check your understanding with our [diagnostics](/diagnostics/).
 - Revise exam technique with the [9696 exam preparation guide](/resources/cambridge-a-level-geography-exam-preparation/).

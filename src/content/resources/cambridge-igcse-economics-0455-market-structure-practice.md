@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -134,7 +134,7 @@ Judgement: consumers are usually better off where the industry offers few econom
 - Forgetting to divide total sales among the new number of firms after entry.
 - Writing that monopoly is always bad, with no mention of economies of scale or regulation.
 
-## Next steps
+## More on this topic
 
 - Recap the tables in the [market structure revision notes](/resources/cambridge-igcse-economics-0455-market-structure-revision-notes/).
 - Reread the entry and natural monopoly examples in the [market structure study guide](/resources/cambridge-igcse-economics-0455-market-structure/).

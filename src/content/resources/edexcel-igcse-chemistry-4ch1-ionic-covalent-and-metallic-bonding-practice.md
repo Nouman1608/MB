@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -223,7 +223,7 @@ xx N (xxx •••) N ••
 - In metals, describing the particles as atoms or protons instead of positive ions.
 - Explaining only one substance in a "compare" question.
 
-## Next steps
+## More on this topic
 
 - [Bonding revision notes](/resources/edexcel-igcse-chemistry-4ch1-ionic-covalent-and-metallic-bonding-revision-notes/)
 - [Bonding study guide](/resources/edexcel-igcse-chemistry-4ch1-ionic-covalent-and-metallic-bonding/)

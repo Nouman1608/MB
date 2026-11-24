@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -156,7 +156,7 @@ These questions cover section 2.1.1 e) and f) of the Pearson Edexcel Internation
 - Writing a list for "Evaluate" without a final judgement.
 - Omitting units or the word "dollars" in money answers.
 
-## Next steps
+## More on this topic
 
 - Review the [study guide](/resources/edexcel-igcse-economics-environmental-protection-and-redistribution-of-income/) and [revision notes](/resources/edexcel-igcse-economics-environmental-protection-and-redistribution-of-income-revision-notes/).
 - Return to the [Edexcel IGCSE Economics hub](/boards/edexcel/igcse/economics/) and the [checklist](/checklists/edexcel/igcse/economics/).

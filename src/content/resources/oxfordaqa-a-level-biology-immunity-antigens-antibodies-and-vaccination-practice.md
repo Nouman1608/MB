@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -162,7 +162,7 @@ Mild side effects occurred in 12% of the vaccine group and 4% of the placebo gro
 - Giving efficacy as the percentage of vaccinated people who became ill, instead of the reduction compared with placebo.
 - Evaluating a trial without figures or a limitation.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/oxfordaqa-a-level-biology-immunity-antigens-antibodies-and-vaccination-revision-notes/).
 - Re-read the [study guide](/resources/oxfordaqa-a-level-biology-immunity-antigens-antibodies-and-vaccination/).

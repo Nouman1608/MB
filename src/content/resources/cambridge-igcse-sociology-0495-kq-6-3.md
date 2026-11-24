@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -140,6 +140,6 @@ Judge each punishment against three tests: does it meet its aim; what are its si
 - **Discuss**: for "Discuss the effectiveness of community policing", give developed strengths and limitations with comparison.
 - **Evaluate**: identify the aim, test the punishment or strategy against it, consider side effects and fairness, and conclude.
 
-## Next steps
+## More on this topic
 
 Condense with the [key question 6.3 revision notes](/resources/cambridge-igcse-sociology-0495-kq-6-3-revision-notes/) and practise with the [key question 6.3 practice questions](/resources/cambridge-igcse-sociology-0495-kq-6-3-practice/). For the explanations of crime that punishments respond to, see [patterns and explanations (key question 6.2)](/resources/cambridge-igcse-sociology-0495-kq-6-2/).

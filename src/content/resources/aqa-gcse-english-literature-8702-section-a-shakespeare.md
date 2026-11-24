@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -221,7 +221,7 @@ timeline of the play's key scenes with one short quotation for each. For every m
 theme, note how they appear at the start, middle and end. Practise with random extracts: open the play
 at any scene, give yourself ten minutes, and plan how that extract links to the rest of the play.
 
-## Related resources
+## More resources on this topic
 
 - [Shakespeare revision notes](/resources/aqa-gcse-english-literature-8702-section-a-shakespeare-revision-notes/)
 - [Shakespeare practice questions](/resources/aqa-gcse-english-literature-8702-section-a-shakespeare-practice/)

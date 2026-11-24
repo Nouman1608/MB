@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -213,7 +213,7 @@ in days: 2.4 × 10⁶ / 86 400 ≈ 28 days
 - **Estimate:** round to one significant figure first, such as 2π ≈ 6, to check an answer's order of magnitude.
 - **Show that:** give your final value to at least one more significant figure than the value shown in the question.
 
-## Related resources
+## More resources on this topic
 
 - [Units in astrophysics revision notes](/resources/edexcel-igcse-physics-4ph1-units-astrophysics-revision-notes/) with conversions and a self-test
 - [Units in astrophysics practice questions](/resources/edexcel-igcse-physics-4ph1-units-astrophysics-practice/) with worked answers

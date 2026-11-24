@@ -24,7 +24,7 @@ author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -267,7 +267,7 @@ Its two CH₃ groups are equivalent by symmetry, both attached identically to th
 **Which splitting patterns do you need for Cambridge 9701 Chemistry?**
 At this level splitting is limited to singlet, doublet, triplet, quartet and multiplet. A multiplet covers four or more neighbouring protons or non-equivalent neighbours.
 
-## Related resources
+## More resources on this topic
 
 - [Analytical Techniques: IR and Mass
   Spectrometry](/resources/as-analytical-techniques-ir-and-mass-spectrometry/)

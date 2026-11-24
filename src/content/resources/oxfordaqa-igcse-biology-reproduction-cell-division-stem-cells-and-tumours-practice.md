@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -189,7 +189,7 @@ Make a judgement about which treatment the panel should support, using the infor
 - Describing a tumour as "cancer" without saying whether it invades other tissues.
 - Leaving out units, such as mm per month, in rate answers.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/oxfordaqa-igcse-biology-reproduction-cell-division-stem-cells-and-tumours-revision-notes/).
 - Re-read the [study guide](/resources/oxfordaqa-igcse-biology-reproduction-cell-division-stem-cells-and-tumours/).

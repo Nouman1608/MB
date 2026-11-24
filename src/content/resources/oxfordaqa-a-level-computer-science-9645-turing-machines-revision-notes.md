@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -168,7 +168,7 @@ S0 runs right to the blank. S1 runs left, turning 1s into 0s until it finds a 0,
 11. One tape, infinite in one direction.
 12. The blank, written □.
 
-## Next steps
+## More on this topic
 
 - [Turing machines study guide](/resources/oxfordaqa-a-level-computer-science-9645-turing-machines/)
 - [Turing machines practice questions](/resources/oxfordaqa-a-level-computer-science-9645-turing-machines-practice/)

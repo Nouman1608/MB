@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -166,7 +166,7 @@ The [health promotion study guide](/resources/cambridge-a-level-psychology-9990-
 11. Middle schools in Israel.
 12. Groups were not randomly allocated individuals, so differences between schools or classes, or self-report bias, could explain the results.
 
-## Related resources
+## More resources on this topic
 
 - [Health promotion study guide](/resources/cambridge-a-level-psychology-9990-health-promotion/)
 - [Health promotion practice questions](/resources/cambridge-a-level-psychology-9990-health-promotion-practice/)

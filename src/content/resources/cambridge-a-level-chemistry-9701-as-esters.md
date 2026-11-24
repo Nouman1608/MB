@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -171,7 +171,7 @@ Esters often appear in the middle of a synthesis route. Recognise the reagent pa
 - **Deduce** an ester's identity: split its carbons into acid part and alcohol part using the products.
 - **Calculate**: write the 1 : 1 equation and use molar masses to three significant figures.
 
-## Next steps
+## More on this topic
 
 - Recall tables and self-test: [Esters revision notes](/resources/cambridge-a-level-chemistry-9701-as-esters-revision-notes/)
 - Exam-style questions with full answers: [Esters practice questions](/resources/cambridge-a-level-chemistry-9701-as-esters-practice/)

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE
@@ -174,7 +174,7 @@ Other information:
 - Applying a depreciation percentage to cost instead of net book value.
 - Calling the result a profit when the question expects surplus or deficit.
 
-## Next steps
+## More on this topic
 
 - Revisit the [study guide](/resources/igcse-accounting-clubs-and-societies/) and the [revision notes](/resources/igcse-accounting-clubs-and-societies-revision-notes/).
 - Return to the [Cambridge IGCSE Accounting hub](/boards/cambridge/igcse/accounting/) and tick off the [checklist](/checklists/cambridge/igcse/accounting/).

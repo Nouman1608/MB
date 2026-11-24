@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -115,7 +115,7 @@ These questions cover statement 3 of 2.3.6 Macroeconomic objectives and policies
 - Conclusions that restate the points without a judgement.
 - Treating supply-side policy as only aggregate demand policy.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/edexcel-ial-economics-supply-side-policies-revision-notes/) and the [study guide](/resources/edexcel-ial-economics-supply-side-policies/).
 - Course hub: [Edexcel A Level Economics](/boards/edexcel/a-level/economics/); printable [checklist](/checklists/edexcel/a-level/economics/).

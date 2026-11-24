@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -189,7 +189,7 @@ Plan a titration to find the mass of iron in one tablet. Include quantities, sho
 - Percentage error and uncertainty calculated but not compared.
 - Plans with no quantities, or an unsuitable titre size.
 
-## Next steps
+## More on this topic
 
 - [Practical skills revision notes](/resources/ocr-a-level-chemistry-practical-skills-written-examination-revision-notes/)
 - [Practical skills study guide](/resources/ocr-a-level-chemistry-practical-skills-written-examination/)

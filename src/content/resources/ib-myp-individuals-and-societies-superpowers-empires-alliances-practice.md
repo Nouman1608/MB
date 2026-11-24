@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -153,7 +153,7 @@ Compare and contrast the usefulness of Sources A and B for a historian studying 
 - Describing data trends without quoting figures or percentage changes.
 - Extended answers that list factors but never judge "to what extent".
 
-## Next steps
+## More on this topic
 
 - [Revision notes for this unit](/resources/ib-myp-individuals-and-societies-superpowers-empires-alliances-revision-notes/)
 - [Study guide for this unit](/resources/ib-myp-individuals-and-societies-superpowers-empires-alliances/)

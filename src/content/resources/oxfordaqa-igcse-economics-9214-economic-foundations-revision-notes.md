@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -142,7 +142,7 @@ Opportunity cost exists even without money: an hour of sport costs an hour of re
 11. 4,500 (the next best alternative only).
 12. 3 × 10 = 30 currency units.
 
-## Next steps
+## More on this topic
 
 - Full explanations: [economic foundations study guide](/resources/oxfordaqa-igcse-economics-9214-economic-foundations/).
 - Questions with mark schemes: [economic foundations practice questions](/resources/oxfordaqa-igcse-economics-9214-economic-foundations-practice/).

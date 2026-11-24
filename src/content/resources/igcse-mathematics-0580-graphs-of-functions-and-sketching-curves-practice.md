@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -199,7 +199,7 @@ Label the roots, intercepts, turning points and any asymptotes. The labels carry
 **Can a reciprocal graph be joined across x = 0?**
 No. A reciprocal graph has two separate branches that never cross the asymptote at x = 0, so the branches must not be joined.
 
-## Next steps
+## More on this topic
 
 - [Graphs of functions and sketching curves study guide](/resources/igcse-mathematics-0580-graphs-of-functions-and-sketching-curves/)
 - [Algebra and graphs revision notes](/resources/igcse-mathematics-algebra-and-graphs-revision-notes/)

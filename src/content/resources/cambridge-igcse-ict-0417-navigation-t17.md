@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -127,7 +127,7 @@ The practical paper uses *create*, *insert*, *add* and *delete*. Follow names an
 5. What happens to a hyperlink when its bookmark is deleted? *It no longer goes to the correct place.*
 6. Why should a link be tested? *To prove it goes to the correct target.*
 
-## Next steps
+## More on this topic
 
 Revise with the [navigation revision notes](/resources/cambridge-igcse-ict-0417-navigation-t17-revision-notes/), then try the [navigation practice questions](/resources/cambridge-igcse-ict-0417-navigation-t17-practice/).
 

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -156,7 +156,7 @@ These questions follow section 4.01 of the OCR GCSE (9-1) Mathematics J560 speci
 - Giving 250 or 249.9 as the greatest value of a counted quantity.
 - Showing an estimate with no rounded values written down.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ocr-gcse-mathematics-rounding-estimation-error-intervals-and-bounds-revision-notes/) and the [study guide](/resources/ocr-gcse-mathematics-rounding-estimation-error-intervals-and-bounds/).
 - Open the [OCR GCSE Mathematics hub](/boards/ocr/gcse/mathematics/) and the [printable checklist](/checklists/ocr/gcse/mathematics/).

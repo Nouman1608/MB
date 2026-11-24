@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -167,7 +167,7 @@ Friction opposes the motion: it acts up the slope for a particle sliding down an
 **Should you write one equation for a pair of connected particles?**
 Write one F = ma equation for each particle, because the forces on them differ. Adding the equations eliminates the tension so you can find the acceleration.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/edexcel-ial-mathematics-newtons-laws-connected-particles-inclined-planes-and-revision-notes/) and the [study guide](/resources/edexcel-ial-mathematics-newtons-laws-connected-particles-inclined-planes-and/).
 - Check the [Edexcel mathematics hub](/boards/edexcel/a-level/mathematics/) and the [printable checklist](/checklists/edexcel/a-level/mathematics/).

@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -172,7 +172,7 @@ As a business expands, keeping quality consistent gets harder, especially when i
 
 For **define** questions, use customer expectations. For **explain** questions, give a benefit or consequence and a reason: "poor quality leads to returns, which cost the business refunds and a damaged reputation". For **calculate** questions, show the percentage or cost step by step. For **evaluate** questions, such as whether a business should invest in TQM, compare the cost of the scheme with savings and long-term benefits and decide using the facts.
 
-## Related resources
+## More resources on this topic
 
 - [Revision notes for this subtopic](/resources/oxfordaqa-igcse-business-9225-the-concept-of-quality-revision-notes/)
 - [Practice questions for this subtopic](/resources/oxfordaqa-igcse-business-9225-the-concept-of-quality-practice/)

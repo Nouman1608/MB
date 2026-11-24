@@ -22,7 +22,7 @@ reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 updatedDate: 2026-11-05
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -135,7 +135,7 @@ Appraisal: revenue rose by 10% but gross profit margin fell by 5 percentage poin
 - Treating depreciation or drawings as if they changed cash and profit in the same way.
 - Saying a higher current ratio always means more cash.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/oxfordaqa-igcse-accounting-appraising-business-performance-cash-and-profit-revision-notes/) and the [study guide](/resources/oxfordaqa-igcse-accounting-appraising-business-performance-cash-and-profit/)
 - Visit the [course hub](/boards/oxfordaqa/igcse/accounting/) and the [checklist](/checklists/oxfordaqa/igcse/accounting/)

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -172,7 +172,7 @@ and cyclone shelters. 9. Through four sources: local catchment, imports, recycle
 desalination. 10. Passing the financial cost of a shock to others, for example through insurance.
 11. To establish a fund for vulnerable countries, which was set up at COP28.
 
-## Related resources
+## More resources on this topic
 
 - [Global risks and resilience study guide](/resources/ib-dp-geography-global-risks-resilience-study-guide/)
 - [Geopolitical and economic risks revision notes](/resources/ib-dp-geography-geopolitical-and-economic-risks-revision-notes/)

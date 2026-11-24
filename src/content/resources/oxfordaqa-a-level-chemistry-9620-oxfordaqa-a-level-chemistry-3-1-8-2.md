@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -155,7 +155,7 @@ A negative ∆G means a reaction **can** happen; it says nothing about **how fas
 - **Explain** why an endothermic reaction becomes feasible at high temperature: ∆S is positive, so −T∆S becomes more negative as T rises until it outweighs ∆H.
 - **Use a graph**: gradient = −∆S, intercept = ∆H, crossing point = feasibility temperature.
 
-## Next steps
+## More on this topic
 
 Condense this with the [3.1.8.2 revision notes](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-8-2-revision-notes/), then try the [3.1.8.2 practice questions](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-8-2-practice/). The enthalpy side of thermodynamics is in [Born–Haber cycles (3.1.8.1)](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-8-1/).
 

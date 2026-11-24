@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to zain-ud-din-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to zain-ud-din-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -144,7 +144,7 @@ A classification supported by the reason, whether or not the event relates to a 
 **How do I earn marks on an ethics scenario question?**
 Link each principle to the facts of the scenario, such as the instruction given or the documents involved. Naming ethical principles without applying them earns little credit.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/cambridge-a-level-accounting-regulatory-and-ethical-considerations-revision-notes/) and [study guide](/resources/cambridge-a-level-accounting-regulatory-and-ethical-considerations/)
 - [Course hub](/boards/cambridge/a-level/accounting/) and [checklist](/checklists/cambridge/a-level/accounting/)

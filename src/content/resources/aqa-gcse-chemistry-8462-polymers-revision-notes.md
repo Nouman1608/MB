@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -164,7 +164,7 @@ need the structure and properties of the finished polymer.
 9. No. The intermolecular forces are overcome.
 10. C₂H₃Cl.
 
-## Next steps
+## More on this topic
 
 - [Polymers study guide](/resources/aqa-gcse-chemistry-8462-polymers/)
 - [Polymers practice questions](/resources/aqa-gcse-chemistry-8462-polymers-practice/)

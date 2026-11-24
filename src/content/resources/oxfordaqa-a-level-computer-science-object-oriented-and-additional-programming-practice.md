@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -296,7 +296,7 @@ Base case `n == 1` returns the first value [1]; recursive call on `n - 1` [1]; c
 - `"w"` used where `"a"` was needed.
 - Recursive traces with no return phase.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/oxfordaqa-a-level-computer-science-object-oriented-and-additional-programming-revision-notes/)
 - [Study guide](/resources/oxfordaqa-a-level-computer-science-object-oriented-and-additional-programming/)

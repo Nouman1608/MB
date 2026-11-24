@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -156,7 +156,7 @@ Use sin²θ + cos²θ = 1 to find the size of cos θ, then use the quadrant to d
 **What should you do with a root such as cos x = −4?**
 Reject it with a reason: −1 ≤ cos x ≤ 1, so cos x = −4 has no solutions.
 
-## Next steps
+## More on this topic
 
 - Recap with the [trigonometry revision notes](/resources/a-level-maths-9709-pure-mathematics-1-trigonometry-revision-notes/).
 - Review the method in the [trigonometry study guide](/resources/a-level-maths-9709-pure-mathematics-1-trigonometry/).

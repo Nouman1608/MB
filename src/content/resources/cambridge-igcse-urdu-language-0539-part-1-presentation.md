@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to farheen-zehra (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to farheen-zehra (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -161,7 +161,7 @@ Marks are given in bands: very good (9 to 10), good (7 to 8), satisfactory (5 to
 5. Practise aloud, record, listen, and improve.
 6. Practise follow-up questions, because Part 2 is a conversation about the presentation.
 
-## Related resources
+## More resources on this topic
 
 - [Part 1 Presentation: revision notes](/resources/cambridge-igcse-urdu-language-0539-part-1-presentation-revision-notes/)
 - [Part 1 Presentation: practice questions](/resources/cambridge-igcse-urdu-language-0539-part-1-presentation-practice/)

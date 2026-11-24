@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches **section 3.1.12 Equilibrium constant Kp for homogeneous systems** of the
@@ -324,7 +324,7 @@ without it; they are simply reached sooner.
 - Claiming that a higher pressure increases Kp, or that a catalyst raises the yield.
 - Rounding partial pressures early and drifting in the final significant figure.
 
-## Next steps
+## More on this topic
 
 Shrink this page down with the [Kp revision notes](/resources/oxfordaqa-a-level-chemistry-equilibrium-constant-kp-for-homogeneous-systems-revision-notes/),
 and then work through the [Kp practice questions](/resources/oxfordaqa-a-level-chemistry-equilibrium-constant-kp-for-homogeneous-systems-practice/).

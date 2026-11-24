@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -149,7 +149,7 @@ Product placement is the paid inclusion of a branded product in a film or televi
 
 For **describe** questions, use the five features of the Yale model or the 4 Cs as a structure. For **evaluate** questions, the syllabus lists use of children in research, determinism versus free will, self-reports and validity for 2.5.2, and application, use of children and experiments for 2.5.3. For **suggest** questions, name the concept, apply it to the product in the stem and say what effect it should have.
 
-## Related resources
+## More resources on this topic
 
 - [Advertising revision notes](/resources/cambridge-a-level-psychology-9990-advertising-revision-notes/)
 - [Advertising practice questions](/resources/cambridge-a-level-psychology-9990-advertising-practice/)

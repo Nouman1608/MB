@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches topic 2.6, Project appraisal, of the Pearson Edexcel International Advanced
@@ -323,7 +323,7 @@ are (outcomes 1.6.2 and 1.6.3 in Unit 1 cover these ideas).
 - Mixing ARR bases, or not stating which base you used.
 - Counting months for payback from the start of the project instead of from the start of the payback year.
 
-## Next steps
+## More on this topic
 
 Go to the [revision notes](/resources/edexcel-ial-accounting-project-appraisal-revision-notes/) for the
 formulae on one page and ten short recall questions. After that, work through the

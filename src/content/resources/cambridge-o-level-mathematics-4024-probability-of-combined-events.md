@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -227,7 +227,7 @@ total = 38/132 = 19/66
 - Use "1 − P(none)" for "at least one".
 - Keep fractions exact until the end.
 
-## Next steps
+## More on this topic
 
 Work through the [probability of combined events practice questions](/resources/cambridge-o-level-mathematics-4024-probability-of-combined-events-practice/) and recap with the [probability of combined events revision notes](/resources/cambridge-o-level-mathematics-4024-probability-of-combined-events-revision-notes/).
 

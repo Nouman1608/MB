@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -147,7 +147,7 @@ These ideas are **relative**, not absolute. A densely populated, high-income cou
 
 **Answers:** 1. Maximum population an environment can support indefinitely. 2. Drought, conflict, poverty, poor storage. 3. Population grows faster than food supply, so checks limit it. 4. Population pressure stimulates innovation and higher food output. 5. Number giving the highest standard of living for the resources and technology. 6. It increases output from the same resources. 7. Availability, access, utilisation and stability. 8. Positive checks raise the death rate (famine, disease, war); preventive checks lower the birth rate (later marriage). 9. Benefit: higher grain yields and self-sufficiency. Cost: falling water tables, or unequal gains for poorer farmers. 10. People cannot obtain food, for example because prices rise or incomes fall, even though food is available. 11. It depends on resources, technology and trade, not on numbers or density alone.
 
-## Related resources
+## More resources on this topic
 
 - [Core Human Geography study guide](/resources/a-level-cambridge-geography-core-human-geography/)
 - [Paper 2 core revision notes (overview)](/resources/a-geography-human-revision-notes/)

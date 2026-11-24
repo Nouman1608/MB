@@ -28,7 +28,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false
@@ -253,7 +253,7 @@ Wave-particle duality is the idea that light shows particle behaviour in the pho
 **How do line spectra show that atoms have discrete energy levels?**
 Only certain energy differences exist between the levels in an atom, so only photons of particular frequencies are emitted or absorbed, using hf = E₁ − E₂. This produces separate lines rather than a continuous spectrum.
 
-## Related resources
+## More resources on this topic
 
 - [Alternating Currents](/resources/a-physics-alternating-currents/) — the previous A Level topic
 - [Nuclear Physics](/resources/a-physics-nuclear-physics/) — the next A Level topic

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -142,7 +142,7 @@ Judge it against criteria such as speed, communication and recovery, using evide
 **How specific should a contingency plan recommendation be?**
 Very specific. Name the action, how it would work and why it fits the business, supported by the figures in the stem; generic measures that could fit any business score poorly.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/ocr-a-level-business-contingency-planning-and-crisis-management/) and use the [revision notes](/resources/ocr-a-level-business-contingency-planning-and-crisis-management-revision-notes/) for methods.
 - Go to the [OCR A Level Business hub](/boards/ocr/a-level/business/) or the printable [checklist](/checklists/ocr/a-level/business/).

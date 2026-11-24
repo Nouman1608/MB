@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -158,7 +158,7 @@ A budget deficit is the gap in a single year when government spending is above r
 **Do savers gain when interest rates fall?**
 No. Savers earn less interest when rates fall, so they lose out, while borrowers gain because their repayments fall. Saying savers gain from a rate cut is a common error.
 
-## Next steps
+## More on this topic
 
 - Read the [study guide](/resources/ocr-gcse-economics-fiscal-policy-government-budgets-and-monetary-policy/) and [revision notes](/resources/ocr-gcse-economics-fiscal-policy-government-budgets-and-monetary-policy-revision-notes/).
 - Check progress against the [checklist](/checklists/ocr/gcse/economics/) and the [course hub](/boards/ocr/gcse/economics/).

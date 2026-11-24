@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -167,7 +167,7 @@ and its melting point is low [1]; the molecules have no overall charge, so it do
 - Forgetting the state at a stated temperature needs a comparison.
 - Explaining non-conduction with "no electrons" (electrons are present, but they are not free).
 
-## Next steps
+## More on this topic
 
 - Recap with the [properties of small molecules revision notes](/resources/aqa-gcse-chemistry-8462-properties-of-small-molecules-revision-notes/).
 - Reread any weak area in the [properties of small molecules study guide](/resources/aqa-gcse-chemistry-8462-properties-of-small-molecules/).

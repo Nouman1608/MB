@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -168,7 +168,7 @@ After describing the observations, state that the wave must be transverse, becau
 **Where is a compression on a displacement-distance graph of a longitudinal wave?**
 Taking displacement to the right as positive, the centre of a compression is at a zero crossing where the graph slopes downwards. It is not at a peak of the graph.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ocr-a-level-physics-wave-motion-polarisation-and-wave-effects-revision-notes/) and the [study guide](/resources/ocr-a-level-physics-wave-motion-polarisation-and-wave-effects/).
 - Tick off outcomes on the [printable checklist](/checklists/ocr/a-level/physics/) and browse the [course hub](/boards/ocr/a-level/physics/).

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -162,7 +162,7 @@ A **free radical** is a species with one or more unpaired electrons. Examples in
 - **Describe** orbitals: give number of orbitals per sub-shell and two electrons per orbital.
 - **Sketch** orbitals: label axes and the nucleus.
 
-## Related resources
+## More resources on this topic
 
 - [Cambridge 9701 Ionisation energy](/resources/cambridge-a-level-chemistry-9701-as-ionisation-energy/) — configurations explain the trends
 - [Cambridge 9701 Isotopes](/resources/cambridge-a-level-chemistry-9701-as-isotopes/) — why identical configurations mean identical chemistry

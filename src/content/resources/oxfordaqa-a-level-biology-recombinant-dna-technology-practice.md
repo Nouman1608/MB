@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -126,7 +126,7 @@ These questions cover section 3.4.10 (Recombinant DNA technology) of the OxfordA
 - Dividing colonies by the mass of DNA without scaling up to the full volume.
 - Giving only benefits or only risks in an evaluation.
 
-## Next steps
+## More on this topic
 
 - Review with the [revision notes](/resources/oxfordaqa-a-level-biology-recombinant-dna-technology-revision-notes/) and the [study guide](/resources/oxfordaqa-a-level-biology-recombinant-dna-technology/).
 - Find your weak areas with the [free diagnostics](/diagnostics/), and tick off topics on the [checklist](/checklists/oxfordaqa/a-level/biology/).

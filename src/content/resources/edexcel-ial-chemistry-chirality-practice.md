@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -169,7 +169,7 @@ C2 drawn as a tetrahedral centre: two in-plane bonds, a solid wedge and a hashed
 - Using optical data as evidence when the product is achiral, or when the chiral centre is not the carbon being attacked.
 - Predicting the sign of rotation of an SN2 product from the sign of the reactant.
 
-## Next steps
+## More on this topic
 
 - [Chirality revision notes](/resources/edexcel-ial-chemistry-chirality-revision-notes/)
 - [Chirality study guide](/resources/edexcel-ial-chemistry-chirality/)

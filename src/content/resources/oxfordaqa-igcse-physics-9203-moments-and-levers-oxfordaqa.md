@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -150,7 +150,7 @@ Everyday force multipliers include a crowbar, a wheelbarrow, a bottle opener, a 
 - **Explain** how a lever acts as a force multiplier: effort further from the pivot than the load, so a smaller effort gives the same moment.
 - **Show that**: every line of working, with units.
 
-## Next steps
+## More on this topic
 
 Try the [Moments and levers practice questions](/resources/oxfordaqa-igcse-physics-9203-moments-and-levers-oxfordaqa-practice/), and revisit the [Centre of mass study guide](/resources/oxfordaqa-igcse-physics-9203-centre-of-mass-oxfordaqa/) for stability.
 

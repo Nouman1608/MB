@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "asif-iqbal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -143,7 +143,7 @@ Also consider the effect on workers: redundancy, retraining, morale.
 11. 9 + 1,500 ÷ 300 = 9 + 5 = 14.
 12. A flow line is costly to change between products, so frequent switching would waste time and money.
 
-## Next steps
+## More on this topic
 
 Practise with the [production practice questions](/resources/edexcel-igcse-business-4bs1-production-practice/), and compare capital-intensive and labour-intensive activities in the [factors of production revision notes](/resources/edexcel-igcse-business-4bs1-factors-of-production-revision-notes/).
 

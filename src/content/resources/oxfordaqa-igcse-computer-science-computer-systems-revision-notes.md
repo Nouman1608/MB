@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Computer systems (topic 3.4 of OxfordAQA International GCSE Computer Science 9210) covers hardware and software,
@@ -190,7 +190,7 @@ so it waits less often for main memory.
 A microwave oven's controller is an embedded system: a small computer that performs one dedicated job inside a
 larger device.
 
-## Related resources
+## More resources on this topic
 
 [Computer systems study guide](/resources/oxfordaqa-igcse-computer-science-computer-systems-study-guide/) |
 [Computer systems practice questions](/resources/oxfordaqa-igcse-computer-science-computer-systems-practice/) |

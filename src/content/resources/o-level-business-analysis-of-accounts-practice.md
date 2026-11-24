@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -160,7 +160,7 @@ Dividing gross profit by cost of sales instead of revenue, and using revenue ins
 **How do you answer a "justify" question on ratio analysis?**
 Reach a clear judgement supported by two or three relevant ratios, linked to the user's concern, and say what extra comparison would strengthen it. Listing every ratio without a conclusion usually gains less.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/o-level-business-analysis-of-accounts/) and [revision notes](/resources/o-level-business-analysis-of-accounts-revision-notes/).
 - Practise past-paper style work with [exam preparation](/resources/cambridge-o-level-business-exam-preparation/).

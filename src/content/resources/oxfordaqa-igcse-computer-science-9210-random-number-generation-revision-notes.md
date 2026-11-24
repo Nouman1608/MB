@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -189,7 +189,7 @@ test the rest of the code.
 11. `random.randint(a, b)`.
 12. No; only using random number generation is required.
 
-## Related resources
+## More resources on this topic
 
 - [Random number generation study guide](/resources/oxfordaqa-igcse-computer-science-9210-random-number-generation/)
 - [Random number generation practice questions](/resources/oxfordaqa-igcse-computer-science-9210-random-number-generation-practice/)

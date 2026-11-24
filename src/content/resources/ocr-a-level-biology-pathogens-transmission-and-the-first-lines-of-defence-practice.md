@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -160,7 +160,7 @@ These questions cover OCR A Level Biology A (H420) statements 4.1.1(a) to 4.1.1(
 - Describing phagocytosis without a phagosome, lysosomes or enzymes.
 - Drawing with shading, overlapping label lines, or no scale.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/ocr-a-level-biology-pathogens-transmission-and-the-first-lines-of-defence-revision-notes/) and the [study guide](/resources/ocr-a-level-biology-pathogens-transmission-and-the-first-lines-of-defence/).
 - Course hub: [OCR A Level Biology](/boards/ocr/a-level/biology/) and the [checklist](/checklists/ocr/a-level/biology/).

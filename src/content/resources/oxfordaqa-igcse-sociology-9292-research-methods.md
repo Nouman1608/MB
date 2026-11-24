@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-15
 featured: false
 ---
@@ -159,6 +159,6 @@ Judgement         triangulation: questionnaire for extent, then
 - Evaluating a method in general rather than for the topic in the question.
 - Describing data without quoting figures from it.
 
-## Next steps
+## More on this topic
 
 Condense with the [research methods revision notes](/resources/oxfordaqa-igcse-sociology-9292-research-methods-revision-notes/) and practise both paper styles with the [research methods practice questions](/resources/oxfordaqa-igcse-sociology-9292-research-methods-practice/). For applying methods to Paper 2 content, see the [differences and inequalities guide](/resources/igcse-oxfordaqa-sociology-differences-and-inequalities/) and the [socialisation guide](/resources/igcse-oxfordaqa-sociology-socialisation/).

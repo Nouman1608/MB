@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -185,7 +185,7 @@ These questions cover references A17 and A18 (section 3.2.2, Functions, graphs a
 - Using y = kx for an inverse relationship, or forgetting the square (Extension only).
 - Changing a percentage by adding it to the answer instead of using a multiplier (Extension only).
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/oxfordaqa-igcse-mathematics-graphs-in-real-contexts-rates-of-change-and-direct-and-revision-notes/) and [study guide](/resources/oxfordaqa-igcse-mathematics-graphs-in-real-contexts-rates-of-change-and-direct-and/).
 - Return to the [course hub](/boards/oxfordaqa/igcse/mathematics/) and tick off skills on the [checklist](/checklists/oxfordaqa/igcse/mathematics/).

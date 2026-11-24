@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -136,7 +136,7 @@ Always find t from the direction with no force; then use it in the direction wit
 
 **Answers:** 1. 500 ÷ 0.020 = 2.5 × 10⁴ V m⁻¹. 2. V m⁻¹ = J C⁻¹ m⁻¹ = N m C⁻¹ m⁻¹ = N C⁻¹. 3. It falls to a quarter. 4. 100 V. 5. 1.60 × 10⁻¹⁹ × 1.0 × 10⁴ = 1.6 × 10⁻¹⁵ N. 6. eV = 1.60 × 10⁻¹⁹ × 500 = 8.0 × 10⁻¹⁷ J. 7. Constant velocity parallel to the plates and constant acceleration perpendicular to them. 8. A straight line. 9. Any two: larger p.d., smaller separation, longer plates, slower particle, larger charge, smaller mass. 10. y = ½ × 1.0 × 10¹⁵ × (2.0 × 10⁻⁹)² = 2.0 × 10⁻³ m. 11. Upwards, towards the positive plate. 12. The electric force is many orders of magnitude larger (about 10¹⁰ times larger even in a field of 1 N C⁻¹).
 
-## Related resources
+## More resources on this topic
 
 - [Electric Fields revision notes](/resources/a-physics-electric-fields-revision-notes/) — the whole of Topic 18
 - [Electric fields and field lines revision notes](/resources/cambridge-a-level-physics-9702-a-electric-fields-and-field-lines-revision-notes/)

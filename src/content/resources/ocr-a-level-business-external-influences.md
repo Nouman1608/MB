@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers **External influences** — the name the
@@ -178,7 +178,7 @@ Monopolistic competition, oligopoly and monopoly. Each is linked to a business's
 **How should PESTLE factors be used in an answer?**
 Apply a named factor to the named business and trace its effect on costs, revenue or strategy, linking factors where they interact. Listing PESTLE categories generically earns far fewer marks.
 
-## Related resources
+## More resources on this topic
 
 [External Influences Facing Businesses revision notes](/resources/ocr-a-level-business-external-influences-revision-notes/) |
 [External Influences Facing Businesses practice questions](/resources/ocr-a-level-business-external-influences-practice/)

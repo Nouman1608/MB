@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -160,7 +160,7 @@ Learn the content first with the [excretion study guide](/resources/edexcel-igcs
 - Leaving a volume calculation in cm³ when dm³ is asked for, or dividing by the urine volume in a percentage reabsorbed calculation.
 - Writing "mitochondria make energy".
 
-## Next steps
+## More on this topic
 
 - Revise with the [excretion revision notes](/resources/edexcel-igcse-biology-4bi1-excretion-revision-notes/).
 - Re-read any weak sections in the [excretion study guide](/resources/edexcel-igcse-biology-4bi1-excretion/).

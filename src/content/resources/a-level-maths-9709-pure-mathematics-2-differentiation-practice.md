@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -156,7 +156,7 @@ Use that value of t to find x, y and dy/dx, then take the normal gradient as −
 **Why should you say a factor like e^(−x) is never zero?**
 Before cancelling a factor when solving dy/dx = 0, state that it can never be zero. Otherwise the step is unjustified and solutions could be lost.
 
-## Next steps
+## More on this topic
 
 - [Differentiation revision notes](/resources/a-level-maths-9709-pure-mathematics-2-differentiation-revision-notes/)
 - [Differentiation study guide](/resources/a-level-maths-9709-pure-mathematics-2-differentiation/)

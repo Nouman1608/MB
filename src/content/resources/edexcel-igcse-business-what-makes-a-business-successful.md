@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide follows the Pearson Edexcel International GCSE in Business (4BS1) specification, Issue 2, February 2026. It covers Topic 1, section 1.8 "What makes a business successful?", points 1.8.1 (measuring success in business) and 1.8.2 (reasons for business failure). The specification says both Paper 1 (small businesses) and Paper 2 (large businesses) can draw on the whole content, so this section can appear in either paper and alongside any other topic.
@@ -211,7 +211,7 @@ Markets change: customers' tastes move, new technology arrives, rivals enter and
 - Treating growth as success when cash is running out.
 - Confusing "not competitive" with "failure to adapt" without naming the cause.
 
-## Next steps
+## More on this topic
 
 Condense the formulas with the [revision notes](/resources/edexcel-igcse-business-what-makes-a-business-successful-revision-notes/), then test yourself on the [practice questions](/resources/edexcel-igcse-business-what-makes-a-business-successful-practice/). Return to the [4BS1 Business hub](/boards/edexcel/igcse/business/) or the [checklist](/checklists/edexcel/igcse/business/). Find weak spots with the [free diagnostics](/diagnostics/).
 

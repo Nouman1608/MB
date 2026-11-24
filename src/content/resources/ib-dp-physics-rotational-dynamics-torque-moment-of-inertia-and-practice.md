@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -141,7 +141,7 @@ Read the [study guide](/resources/ib-dp-physics-rotational-dynamics-torque-momen
 - Leaving out the pulley's rotational energy in an energy check on a coupled system.
 - Rounding intermediate values too early.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ib-dp-physics-rotational-dynamics-torque-moment-of-inertia-and-revision-notes/) and the [study guide](/resources/ib-dp-physics-rotational-dynamics-torque-moment-of-inertia-and/).
 - Return to the [IB Physics hub](/boards/ib/ib-dp/physics/) and the [printable checklist](/checklists/ib/ib-dp/physics/).

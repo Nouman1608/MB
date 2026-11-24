@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide covers **section 3.1.8 Thermodynamics** of the AQA AS and A-level Chemistry
@@ -355,7 +355,7 @@ Some endothermic changes happen readily, such as ice melting at room temperature
 **What is the gradient of a ΔG against temperature graph?**
 The gradient of a ΔG against T graph is –ΔS, and the intercept gives ΔH. Taking the gradient as +ΔS is a common error; section 3.1.8 is listed under AQA A-level Paper 1.
 
-## Next steps
+## More on this topic
 
 Revise from the [revision notes](/resources/aqa-a-level-chemistry-thermodynamics-revision-notes/),
 test yourself with the [practice questions](/resources/aqa-a-level-chemistry-thermodynamics-practice/),

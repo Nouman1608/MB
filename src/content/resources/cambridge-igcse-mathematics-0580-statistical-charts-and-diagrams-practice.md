@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -216,7 +216,7 @@ Key: ● = 8 visitors; part symbols are quarters
 - Stem-and-leaf diagrams without ordered leaves or a key.
 - Comparing pie charts by angle when the two totals are different.
 
-## Next steps
+## More on this topic
 
 - Re-read the [statistical charts and diagrams study guide](/resources/igcse-mathematics-0580-statistical-charts-and-diagrams/).
 - Use the diagrams for comparisons in the [interpreting statistical data practice questions](/resources/cambridge-igcse-mathematics-0580-interpreting-statistical-data-practice/).

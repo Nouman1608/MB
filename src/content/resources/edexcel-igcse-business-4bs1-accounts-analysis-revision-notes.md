@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "asif-iqbal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -139,7 +139,7 @@ Reading it: the current ratio looks comfortable, but more than half of current a
 11. Gross profit = 0.35 × 300,000 = 105,000; cost of sales = 300,000 − 105,000 = 195,000.
 12. Any one of: based on past data; does not explain causes; ignores non-financial factors; one year may be distorted; rivals may not be comparable.
 
-## Next steps
+## More on this topic
 
 Apply this in the [accounts analysis practice questions](/resources/edexcel-igcse-business-4bs1-accounts-analysis-practice/) and revisit the [financial documents revision notes](/resources/edexcel-igcse-business-4bs1-financial-documents-revision-notes/) for the statement terms.
 

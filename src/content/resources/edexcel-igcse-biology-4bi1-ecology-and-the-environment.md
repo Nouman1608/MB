@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches Topic 4, **Ecology and the environment** (specification points 4.1–4.18), of the Pearson Edexcel International GCSE Biology (4BI1) specification, Issue 3. The qualification is untiered. Points with a **B** reference (4.3B, 4.4B, 4.11B and 4.18B) are bold in the specification and are examined on Paper 2 only; everything else can appear on either paper. It applies to the June and November series examined under Issue 3.
@@ -350,7 +350,7 @@ The Sun's radiation passes through the atmosphere and warms the Earth's surface.
 - Saying carbon monoxide causes acid rain, or that sulfur dioxide binds to haemoglobin.
 - Forgetting to scale by quadrat area in population estimates.
 
-## Next steps
+## More on this topic
 
 Condense this with the [revision notes](/resources/edexcel-igcse-biology-4bi1-ecology-and-the-environment-revision-notes/), then test yourself with the [practice questions](/resources/edexcel-igcse-biology-4bi1-ecology-and-the-environment-practice/). To find which Biology topics need the most work, try the [free diagnostics](/diagnostics/).
 

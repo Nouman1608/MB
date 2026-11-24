@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -137,7 +137,7 @@ Real situations need simplifying before mathematics can be applied. Stating assu
 **How many significant figures should I give in a real-life answer?**
 No more than the data supports. Work out the range of possible answers from the accuracy of the inputs, as in the tree question, and round to a value that the whole range agrees on.
 
-## Next steps
+## More on this topic
 
 - Review the worked tasks in the [Criterion D study guide](/resources/ib-myp-mathematics-assessment-criteria-d-applying-mathematics-in-real-life-contexts/).
 - Practise setting out your solutions with the [Criterion C practice questions](/resources/ib-myp-mathematics-assessment-criteria-c-communicating-practice/).

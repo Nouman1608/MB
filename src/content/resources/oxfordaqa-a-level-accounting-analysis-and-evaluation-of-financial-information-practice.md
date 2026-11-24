@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -165,7 +165,7 @@ Depreciation added back [1]; working capital changes with correct signs [1]; dra
 - Reversing the sign of a working capital change in a cash-versus-profit working.
 - Finishing an evaluation with no overall verdict.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/oxfordaqa-a-level-accounting-analysis-and-evaluation-of-financial-information-revision-notes/)
 - [Study guide](/resources/oxfordaqa-a-level-accounting-analysis-and-evaluation-of-financial-information/)

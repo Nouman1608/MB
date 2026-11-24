@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -183,7 +183,7 @@ Begin by stating that gravity provides the centripetal force, then write GMm/r²
 **When can you use v₁r₁ = v₂r₂ for an orbit?**
 Only at the closest and furthest points of the orbit, where the velocity is perpendicular to the line joining the planet to the Sun. It does not apply at other points.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/ocr-a-level-physics-gravitational-fields-newtons-law-and-planetary-motion-revision-notes/) and [study guide](/resources/ocr-a-level-physics-gravitational-fields-newtons-law-and-planetary-motion/).
 - Go back to the [OCR A Level Physics hub](/boards/ocr/a-level/physics/) and tick off the [checklist](/checklists/ocr/a-level/physics/).

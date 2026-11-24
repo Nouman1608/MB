@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -148,6 +148,6 @@ Related: [The patient–practitioner relationship study guide](/resources/cambri
 - In question 5(a), stating that patients preferred the sharing style.
 - In question 9(a), writing a hypothesis without a direction.
 
-## Next steps
+## More on this topic
 
 Review any weak areas in the [patient–practitioner relationship study guide](/resources/cambridge-a-level-psychology-9990-the-patientpractitioner-relationship/), then try the mixed [Health Psychology practice questions](/resources/a-level-psychology-health-psychology-practice/).

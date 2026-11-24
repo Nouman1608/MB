@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -195,7 +195,7 @@ Medellín. 9. For example surveillance and privacy concerns, or excluding people
 access. 10. Environmental improvements raising property values and displacing lower-income
 residents. 11. Residents voting on how part of a city's budget is spent, as in Porto Alegre.
 
-## Related resources
+## More resources on this topic
 
 - [Urban environments study guide](/resources/ib-dp-geography-urban-environments-study-guide/)
 - [Urban environmental and social stresses revision notes](/resources/ib-dp-geography-urban-environmental-and-social-stresses-revision-notes/)

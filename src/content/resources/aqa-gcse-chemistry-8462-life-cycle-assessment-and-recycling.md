@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -176,7 +176,7 @@ Questions give you data on cost, energy and waste, so your answer should refer t
 - Plastic bag questions link to **polymers** (poly(ethene) from crude oil, a finite resource).
 - Quarrying links to **limestone** and **ceramics** in the materials section.
 
-## Next steps
+## More on this topic
 
 - [Life cycle assessment and recycling revision notes](/resources/aqa-gcse-chemistry-8462-life-cycle-assessment-and-recycling-revision-notes/)
 - [Life cycle assessment and recycling practice questions](/resources/aqa-gcse-chemistry-8462-life-cycle-assessment-and-recycling-practice/)

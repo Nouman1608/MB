@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -167,6 +167,6 @@ featured: false
 11. The idea that communism and capitalism could compete peacefully.
 12. Soviet tanks crushed the Hungarian rising.
 
-## Next steps
+## More on this topic
 
 Try the [origins and development of the Cold War practice questions](/resources/oxfordaqa-igcse-world-history-9245-origins-development-of-the-cold-war-practice/).

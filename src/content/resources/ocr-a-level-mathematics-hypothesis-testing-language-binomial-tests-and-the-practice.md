@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08 recheck: labelled the Type II error parts (5(b)-(d), 10(d), 11(d)) as extension because H240 2.05 does not list Type I/II errors; reworded 5(a) in specification language; rewrote description. Please re-review; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08 recheck: labelled the Type II error parts (5(b)-(d), 10(d), 11(d)) as extension because H240 2.05 does not list Type I/II errors; reworded 5(a) in specification language; rewrote description. Please re-review; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -150,7 +150,7 @@ Compare each tail probability with half the significance level, or double the sm
 **What standard deviation do you use for a sample mean?**
 Use σ/√n, not σ. Under H₀ the sample mean of n values from N(μ, σ²) has distribution N(μ, σ²/n); the sample mean test is A Level only in OCR H240.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ocr-a-level-mathematics-hypothesis-testing-language-binomial-tests-and-the-revision-notes/) and the [study guide](/resources/ocr-a-level-mathematics-hypothesis-testing-language-binomial-tests-and-the/).
 - Open the [hub](/boards/ocr/a-level/mathematics/) and [checklist](/checklists/ocr/a-level/mathematics/).

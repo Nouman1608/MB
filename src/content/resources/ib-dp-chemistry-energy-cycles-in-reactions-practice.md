@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -154,7 +154,7 @@ Calculate ΔH for Cu₂O(s) + ½O₂(g) → 2CuO(s). **[3]**
 - Forgetting IE₂ for Ca²⁺ or Mg²⁺, or doubling the wrong terms in an MX₂ or M₂X cycle.
 - Treating the lattice enthalpy as negative when the question defines it in the separating direction.
 
-## Next steps
+## More on this topic
 
 - Recap with the [short-form notes](/resources/ib-dp-chemistry-energy-cycles-in-reactions-revision-notes/).
 - For any question you missed, go back to the matching section of the [full study guide](/resources/ib-dp-chemistry-energy-cycles-in-reactions/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -141,7 +141,7 @@ Disagree in part: over-population compares people with resources, not with area 
 - Case study answers with no named country or no facts specific to it.
 - Policy answers that describe but never evaluate.
 
-## Next steps
+## More on this topic
 
 - Re-read the [Population Dynamics study guide](/resources/cambridge-igcse-geography-0460-population-dynamics/) for any question you found hard.
 - Link this topic to pyramids with the [Population Structure practice questions](/resources/cambridge-igcse-geography-0460-population-structure-practice/).

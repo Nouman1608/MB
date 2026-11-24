@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -135,7 +135,7 @@ These questions cover Topic 1, section 1.5 "Business and the international econo
 - Calculating the import and export effects but not saying which is larger.
 - Giving advice that does not use the facts in the case, such as the size of the business.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/edexcel-igcse-business-business-and-the-international-economy-revision-notes/) and the [study guide](/resources/edexcel-igcse-business-business-and-the-international-economy/).
 - Go to the [4BS1 Business hub](/boards/edexcel/igcse/business/) or the [printable checklist](/checklists/edexcel/igcse/business/).

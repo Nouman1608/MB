@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-29
 featured: false
 ---
@@ -156,7 +156,7 @@ For the extended Questions 7 and 8, the real exam uses levels of response, not p
 - A broad Individual Report title that is a topic, not a question.
 - Submitting planning notes as Evidence of Action.
 
-## Next steps
+## More on this topic
 
 - Try the free [diagnostics](/diagnostics/).
 - More practice: [Global Perspectives practice](/resources/global-perspectives-practice/), [Individual Report practice](/resources/igcse-global-perspectives-individual-report-practice/), [Team Project practice](/resources/igcse-global-perspectives-team-project-practice/).

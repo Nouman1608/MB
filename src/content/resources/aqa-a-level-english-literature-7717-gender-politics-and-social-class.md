@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -143,7 +143,7 @@ When a question names gender or class, open by defining the system in the text a
 it. In Section C, pair texts that show the same system from different positions: a wife and a
 worker, an insider and an outsider. Use the open book to find short, exact quotations.
 
-## Related resources
+## More resources on this topic
 
 - [Gender politics and social class revision notes](/resources/aqa-a-level-english-literature-7717-gender-politics-and-social-class-revision-notes/)
 - [Gender politics and social class practice questions](/resources/aqa-a-level-english-literature-7717-gender-politics-and-social-class-practice/)

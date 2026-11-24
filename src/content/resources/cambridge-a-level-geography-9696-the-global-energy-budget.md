@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -111,7 +111,7 @@ Station D's range is four times larger. In winter, the land loses heat rapidly b
 - **Compare** two locations: make direct statements about range, maximum and minimum.
 - Diagrams of the three-cell model must show directions of air movement and the pressure belts at the surface.
 
-## Related resources
+## More resources on this topic
 
 - [2.2 The global energy budget revision notes](/resources/a-level-geography-9696-global-energy-budget-revision-notes/)
 - [2.2 The global energy budget practice questions](/resources/cambridge-a-level-geography-9696-the-global-energy-budget-practice/)

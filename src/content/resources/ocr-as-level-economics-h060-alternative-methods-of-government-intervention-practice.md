@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -144,7 +144,7 @@ When demand is less price elastic than supply, buyers keep buying at the higher 
 **What is the difference between a pollution tax and tradable permits?**
 A tax sets the price of polluting and lets the quantity adjust. Permits set the quantity through the cap and let the permit price adjust.
 
-## Next steps
+## More on this topic
 
 - Re-read the [government intervention study guide](/resources/ocr-as-level-economics-h060-alternative-methods-of-government-intervention/).
 - Move on to [government failure](/resources/ocr-as-level-economics-h060-government-failure/).

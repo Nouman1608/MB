@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -172,7 +172,7 @@ Practise this calculation directly rather than only reciting the definition, sin
 
 This sub-topic's indicators and objectives recur throughout the rest of Topic 2 (The National Economy in a Global Environment), since later sub-topics on fiscal and monetary policy are assessed against exactly these objectives -- a policy is judged "successful" by whether it moves the named indicators toward the stated objectives without triggering an unacceptable conflict elsewhere. Treat the objective-indicator pairing built here as a tool you will reuse for the rest of the topic, not content specific to 3.2.1 alone.
 
-## Related resources
+## More resources on this topic
 
 - [Measurement of Macroeconomic Performance study guide](/resources/a-level-oxfordaqa-economics-measurement-of-macroeconomic-performance/)
 - [Measurement of Macroeconomic Performance practice questions](/resources/oxfordaqa-a-level-economics-macroeconomic-performance-practice/)

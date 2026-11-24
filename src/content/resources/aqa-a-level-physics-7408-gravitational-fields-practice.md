@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -131,7 +131,7 @@ Data: G = 6.67 × 10⁻¹¹ N m² kg⁻²; Earth mass 5.97 × 10²⁴ kg; Earth 
 - Using mgh far from the surface.
 - Leaving out a line of the T² ∝ r³ derivation.
 
-## Next steps
+## More on this topic
 
 - [Gravitational fields revision notes](/resources/aqa-a-level-physics-7408-gravitational-fields-revision-notes/)
 - [Gravitational fields study guide](/resources/aqa-a-level-physics-7408-gravitational-fields/)

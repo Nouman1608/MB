@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -192,7 +192,7 @@ It must satisfy the conditions in the statement and show the conclusion is false
 **How do you find the gradient of a tangent to a circle?**
 Find the gradient of the radius to the point of contact, then take its negative reciprocal, because the tangent is perpendicular to the radius.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/edexcel-ial-mathematics-proof-the-factor-and-remainder-theorems-and-the-revision-notes/) for the methods behind the questions you missed.
 - Work back through the [study guide](/resources/edexcel-ial-mathematics-proof-the-factor-and-remainder-theorems-and-the/).

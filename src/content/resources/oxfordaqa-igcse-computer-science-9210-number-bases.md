@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -206,7 +206,7 @@ hex, which is why one hex digit covers exactly four bits.
 - **State the largest value** questions: use 255, 1111 1111 and FF for eight bits.
 - **Different types of data** questions: use the 0100 0001 example, giving two different meanings for one pattern.
 
-## Next steps
+## More on this topic
 
 For a condensed summary and self-test, use the [Number bases revision
 notes](/resources/oxfordaqa-igcse-computer-science-9210-number-bases-revision-notes/), and test yourself with the

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This page teaches the higher level end of Reactivity 3.2, "Electron transfer reactions", for IB DP Chemistry. It follows the IB's *Diploma Programme Chemistry guide* (first assessment 2025, published February 2023) and covers understandings Reactivity 3.2.12 to 3.2.16. All five are additional higher level (AHL) material, so everything here is **HL only**, for exam sessions in 2025 and later years.
@@ -267,7 +267,7 @@ Clean and degrease the object so the coating sticks, then weigh it. Connect it t
 - Predicting chlorine from dilute NaCl(aq), or forgetting that a copper anode dissolves.
 - Making the object the anode in electroplating.
 
-## Next steps
+## More on this topic
 
 Next, consolidate with the [condensed notes](/resources/ib-dp-chemistry-electron-transfer-standard-electrode-potentials-and-revision-notes/), and check yourself on the [marked questions](/resources/ib-dp-chemistry-electron-transfer-standard-electrode-potentials-and-practice/).
 

@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Here you will learn outcomes 14.1 to 14.14, the opening half of Topic 14 (Acid-base Equilibria), as set out by the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017. That means proton transfer, pH, strong and weak acids, Ka, Kw, pKa and pKw, and the analysis of pH data. Topic 14 is assessed in Unit 4, the International A2 (IA2) unit titled Rates, Equilibria and Further Organic Chemistry. Expect the Unit 2, Topic 9B equilibrium ideas to be extended here. Titration curves, indicators, buffers and Core Practical 11 (outcomes 14.15 onwards) have their own [titration curves and buffers guide](/resources/edexcel-ial-chemistry-acid-base-equilibria-titration-curves-and-buffers/).
@@ -260,7 +260,7 @@ The same two assumptions apply. Here [H⁺] is about 4% of [HA], so treating [HA
 - In 14.14 working, using the mass of acid or the volume in cm³ directly instead of the concentration in mol dm⁻³.
 - Stating the weak-acid assumptions vaguely; say which concentration is assumed equal to which.
 
-## Next steps
+## More on this topic
 
 Try the [pH, Ka and Kw practice set](/resources/edexcel-ial-chemistry-acid-base-equilibria-ph-ka-and-kw-practice/) next, and keep the [condensed notes](/resources/edexcel-ial-chemistry-acid-base-equilibria-ph-ka-and-kw-revision-notes/) for the last weeks before the Unit 4 exam. The free [diagnostics](/diagnostics/) will show which topics need more work.
 

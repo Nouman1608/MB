@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -132,7 +132,7 @@ These questions practise section 4.4 Market research of the IB *Business managem
 - Evaluating without a final decision or without a reason for it.
 - Ignoring figures in the stem, such as cost, time or sample size.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/ib-dp-business-management-market-research-revision-notes/) and the [study guide](/resources/ib-dp-business-management-market-research/).
 - See the [Business Management hub](/boards/ib/ib-dp/business/) and the [printable checklist](/checklists/ib/ib-dp/business/).

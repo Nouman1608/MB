@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -160,7 +160,7 @@ These questions cover section 3.12.3, Induced fission, of OxfordAQA Internationa
 - Treating critical mass as the mass needed for an explosion.
 - Listing a coolant's properties without relating them to removing energy.
 
-## Next steps
+## More on this topic
 
 - Recap with the [induced fission revision notes](/resources/oxfordaqa-a-level-physics-9630-induced-fission-revision-notes/).
 - Re-read the [induced fission study guide](/resources/oxfordaqa-a-level-physics-9630-induced-fission/).

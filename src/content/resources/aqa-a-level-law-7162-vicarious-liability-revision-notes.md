@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: The specification heading 'Other areas of vicarious liability' is not defined further; a teacher should confirm that lent employees, independent contractors and the employer's indemnity are the areas centres teach under it."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: The specification heading 'Other areas of vicarious liability' is not defined further; a teacher should confirm that lent employees, independent contractors and the employer's indemnity are the areas centres teach under it. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -166,6 +166,6 @@ Both yes -> D vicariously liable for the wrongdoer's tort
 11. Who is liable for a lent employee in *Mersey Docks*? *The general employer, the harbour board.*
 12. What did *Lister v Romford Ice* decide? *An employer can recover its loss from the negligent employee.*
 
-## Related resources
+## More resources on this topic
 
 [Vicarious liability practice questions](/resources/aqa-a-level-law-7162-vicarious-liability-practice/) | [Tort revision notes](/resources/aqa-a-level-law-tort-revision-notes/)

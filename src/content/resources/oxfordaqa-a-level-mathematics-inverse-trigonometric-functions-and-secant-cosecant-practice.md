@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -162,7 +162,7 @@ Links: [course hub](/boards/oxfordaqa/a-level/mathematics/), [checklist](/checkl
 - Forgetting that a strict inequality applies to tan⁻¹x, while sin⁻¹x and cos⁻¹x include their end points.
 - Leaving answers in the wrong unit when the interval is given in degrees or in radians.
 
-## Next steps
+## More on this topic
 
 - Condense the topic with the [revision notes](/resources/oxfordaqa-a-level-mathematics-inverse-trigonometric-functions-and-secant-cosecant-revision-notes/).
 - Read the full explanations in the [study guide](/resources/oxfordaqa-a-level-mathematics-inverse-trigonometric-functions-and-secant-cosecant/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -164,7 +164,7 @@ Decide in the first minutes whether the task wants argument, discussion or a ble
 structure and plan three aspects. Write your conclusion's judgement into the plan before you begin.
 Leave time to check the punctuation of long sentences.
 
-## Related resources
+## More resources on this topic
 
 - [Discursive writing revision notes](/resources/oxfordaqa-igcse-english-language-9270-discursive-writing-revision-notes/)
 - [Discursive writing practice](/resources/oxfordaqa-igcse-english-language-9270-discursive-writing-practice/)

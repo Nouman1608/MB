@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -140,7 +140,7 @@ The types are cyclical, caused by a fall in spending in a downturn; frictional, 
 **How do you answer an 8-mark "evaluate" question on economic growth?**
 Give both benefits and costs of growth rather than only one side, explain how each links to the outcome, and finish with a supported judgement, such as whether the growth is shared and sustainable.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ocr-gcse-economics-economic-growth-gdp-and-unemployment-revision-notes/) and re-read the [study guide](/resources/ocr-gcse-economics-economic-growth-gdp-and-unemployment/).
 - Tick off topics on the [printable checklist](/checklists/ocr/gcse/economics/) and see the [OCR GCSE Economics hub](/boards/ocr/gcse/economics/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -144,6 +144,6 @@ Related: [study guide on general properties of waves](/resources/cambridge-igcse
 - Saying frequency changes in refraction.
 - *(Extended)* Saying a wider gap gives more spreading.
 
-## Next steps
+## More on this topic
 
 Review the [study guide on general properties of waves](/resources/cambridge-igcse-physics-0625-general-properties-of-waves/), then use the [Waves revision notes](/resources/igcse-physics-waves-revision-notes/) to move on to light, the electromagnetic spectrum and sound.

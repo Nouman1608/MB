@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -132,7 +132,7 @@ Every IP address and every domain name must be **unique**, otherwise packets and
 - Saying DNS stores web pages. It stores the mapping from names to addresses.
 - Treating the domain name and the FQDN as the same thing.
 
-## Next steps
+## More on this topic
 
 - [Internet revision notes](/resources/oxfordaqa-a-level-computer-science-9645-internet-revision-notes/)
 - [Internet practice questions](/resources/oxfordaqa-a-level-computer-science-9645-internet-practice/)

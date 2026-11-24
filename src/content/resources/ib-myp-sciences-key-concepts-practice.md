@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -189,7 +189,7 @@ Give both the structural feature (form) and what it does (function), and link th
 **What does a Criterion D answer on key concepts need?**
 List the advantages and disadvantages and then reach a judgement. A list of pros and cons with no conclusion limits the credit.
 
-## Next steps
+## More on this topic
 
 - [Key concepts revision notes](/resources/ib-myp-sciences-key-concepts-revision-notes/)
 - [Key concepts study guide](/resources/ib-myp-sciences-key-concepts/)

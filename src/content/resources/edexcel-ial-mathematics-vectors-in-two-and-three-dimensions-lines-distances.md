@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches Unit P4 section 7 (topics 7.1 to 7.7, Vectors) of the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (YMA01), Issue 3, April 2019. The specification states that P4 is a compulsory unit for IAL Mathematics and Pure Mathematics, and that its IAS weighting is N/A, so this content is not part of IAS. Coordinate geometry from [Pure Mathematics 1](/resources/a-level-edexcel-mathematics-pure-mathematics-1/) and [Pure Mathematics 2](/resources/a-level-edexcel-mathematics-pure-mathematics-2/) is useful background, since lines in the (x, y) plane are the two-dimensional case of this work.
@@ -283,7 +283,7 @@ Skew lines are lines in three dimensions that are not parallel and never meet. I
 **How do you check whether a point lies on a line?**
 Equate the i, j and k components of the line with the point, solve one equation for the parameter, and check that the same value satisfies the other two.
 
-## Next steps
+## More on this topic
 
 Try the [practice questions](/resources/edexcel-ial-mathematics-vectors-in-two-and-three-dimensions-lines-distances-practice/), then keep the [revision notes](/resources/edexcel-ial-mathematics-vectors-in-two-and-three-dimensions-lines-distances-revision-notes/) for the final weeks.
 

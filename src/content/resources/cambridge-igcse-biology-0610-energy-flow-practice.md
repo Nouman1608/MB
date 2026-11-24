@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -145,7 +145,7 @@ Describe the flow of energy from the Sun through this food chain and to the envi
 - Forgetting that respiration releases energy as heat at every stage.
 - Leaving out a unit or dividing by the wrong value in a percentage calculation.
 
-## Next steps
+## More on this topic
 
 - Re-read the [energy flow study guide](/resources/cambridge-igcse-biology-0610-energy-flow/) for any question you found hard.
 - Move on to the [food chains and food webs practice questions](/resources/cambridge-igcse-biology-0610-food-chains-and-food-webs-practice/).

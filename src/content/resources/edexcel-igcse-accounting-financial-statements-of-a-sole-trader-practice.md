@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -207,7 +207,7 @@ Correct title, name and date [1]. Net assets equal closing capital, which confir
 - Leaving out the business name, statement title or the date wording.
 - Giving a general comment about risk without quoting a figure.
 
-## Next steps
+## More on this topic
 
 - Work through the [revision notes](/resources/edexcel-igcse-accounting-financial-statements-of-a-sole-trader-revision-notes/) and repeat the layouts from memory.
 - Re-read the [study guide](/resources/edexcel-igcse-accounting-financial-statements-of-a-sole-trader/) for the two full worked examples.

@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -108,7 +108,7 @@ These questions cover section 2.3.1, Planning a business and raising finance, of
 - Finishing a judgement question without a decision.
 - Describing liability in legal detail instead of stating it in general terms.
 
-## Next steps
+## More on this topic
 
 - Review [the revision notes](/resources/edexcel-ial-business-planning-a-business-and-raising-finance-revision-notes/) and the [study guide](/resources/edexcel-ial-business-planning-a-business-and-raising-finance/).
 - Go back to the [course hub](/boards/edexcel/a-level/business/) and tick off the [checklist](/checklists/edexcel/a-level/business/).

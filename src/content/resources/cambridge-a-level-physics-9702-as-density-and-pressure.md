@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -184,7 +184,7 @@ The volume of fluid displaced: the submerged volume of the object.
 **Why does an object float?**
 Because the upthrust equals its weight when only part of it is submerged, which happens if its average density is less than the fluid's.
 
-## Related resources
+## More resources on this topic
 
 - [Density and pressure revision notes](/resources/cambridge-a-level-physics-9702-as-density-and-pressure-revision-notes/)
 - [Density and pressure practice questions](/resources/cambridge-a-level-physics-9702-as-density-and-pressure-practice/)

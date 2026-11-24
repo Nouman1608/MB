@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -189,7 +189,7 @@ To improve accuracy, a business can use a larger and more representative sample,
 
 For **define** and **state** questions, give the key feature: "primary research is collected first-hand". For **explain** questions, give a benefit or drawback with a reason that fits the business. For **calculate** questions, show the sum and use the correct total. For **select the best method** questions, match the method to the business's budget, size and the information needed. For **evaluate** questions, weigh the reliability of the results against the cost, and say how the findings should be used.
 
-## Related resources
+## More resources on this topic
 
 - [Revision notes for this subtopic](/resources/oxfordaqa-igcse-business-9225-the-purpose-and-methods-of-market-research-revision-notes/)
 - [Practice questions for this subtopic](/resources/oxfordaqa-igcse-business-9225-the-purpose-and-methods-of-market-research-practice/)

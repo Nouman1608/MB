@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -159,7 +159,7 @@ cubes keeps the volume but raises the surface area.
 11. (34 − 10) ÷ (60 − 20) = 24 ÷ 40 = 0.60 cm³/s.
 12. At 20 s, because a larger gradient means a faster rate; the reactants have a higher concentration early in the reaction, so collisions are more frequent.
 
-## Next steps
+## More on this topic
 
 - [Rate of reaction study guide](/resources/aqa-gcse-chemistry-8462-rate-of-reaction/)
 - [Rate of reaction practice questions](/resources/aqa-gcse-chemistry-8462-rate-of-reaction-practice/)

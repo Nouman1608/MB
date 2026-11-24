@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -120,7 +120,7 @@ The answer scores because it uses both terms correctly, avoids treating them as 
 - **Suggest** reasons for an unfamiliar hydrograph: use the information given in the resource (rock, land use, rainfall) before adding your own ideas.
 - In a Section B extended answer, group influences into climatic and basin characteristics, as the syllabus does, and judge which matter most in the case you are discussing.
 
-## Related resources
+## More resources on this topic
 
 - [1.2 Discharge relationships revision notes](/resources/a-level-geography-9696-discharge-relationships-revision-notes/)
 - [1.2 Discharge relationships practice questions](/resources/cambridge-a-level-geography-9696-discharge-relationships-within-drainage-basins-practice/)

@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -121,6 +121,6 @@ These questions cover sub-topic 4(b) Crude oil of the Pearson Edexcel Internatio
 - Getting the direction of the trend in boiling point the wrong way round.
 - Explaining carbon monoxide's harm without mentioning oxygen transport.
 
-## Next steps
+## More on this topic
 
 Review the [crude oil study guide](/resources/edexcel-igcse-chemistry-4ch1-crude-oil/) for any slips, then continue with the [alkanes study guide](/resources/edexcel-igcse-chemistry-4ch1-alkanes/).

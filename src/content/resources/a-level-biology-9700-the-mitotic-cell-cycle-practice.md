@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -159,7 +159,7 @@ Revise first with the [study guide](/resources/a-level-biology-9700-the-mitotic-
 - Stating a plant cell structure (cell wall) instead of a difference in the process of division.
 - Describing a DNA mass graph without quoting values and units.
 
-## Next steps
+## More on this topic
 
 - Go back over the [mitotic cell cycle revision notes](/resources/a-level-biology-9700-the-mitotic-cell-cycle-revision-notes/).
 - Re-read any weak section in the [mitotic cell cycle study guide](/resources/a-level-biology-9700-the-mitotic-cell-cycle/).

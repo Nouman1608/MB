@@ -28,7 +28,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -195,7 +195,7 @@ Formulae: N = (n₁ × n₂) / m₂ ; D = 1 − Σ(n/N)² ; rₛ = 1 − (6 × �
 - Mixing up IUCN and CITES, or zoos and frozen zoos.
 - Applying assisted reproduction methods to non-mammals.
 
-## Next steps
+## More on this topic
 
 - [Revision notes for topic 18](/resources/a-level-biology-9700-classification-biodiversity-and-conservation-revision-notes/)
 - [Study guide for topic 18](/resources/a-level-biology-9700-classification-biodiversity-and-conservation/)

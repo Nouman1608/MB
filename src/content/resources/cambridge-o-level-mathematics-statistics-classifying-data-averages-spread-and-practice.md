@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -231,7 +231,7 @@ Work with totals rather than means: multiply each mean by its number of values a
 **Which sections of the Cambridge 4024 syllabus does this statistics topic cover?**
 It covers sections 9.1 to 9.4 of the Cambridge O Level Mathematics (Syllabus D) 4024 syllabus: classifying and tabulating data, interpreting data, averages and range, and statistical charts.
 
-## Next steps
+## More on this topic
 
 * Revise the methods: [revision notes](/resources/cambridge-o-level-mathematics-statistics-classifying-data-averages-spread-and-revision-notes/)
 * Re-read the explanations: [study guide](/resources/cambridge-o-level-mathematics-statistics-classifying-data-averages-spread-and/)

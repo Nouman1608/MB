@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -117,7 +117,7 @@ Evaluate the extent to which Vellmoor should give priority to the needs of its s
 - Evaluating by repeating earlier points rather than weighing groups against each other.
 - Ending with a conclusion that does not say what it depends on, such as time horizon or mission.
 
-## Next steps
+## More on this topic
 
 - Revisit the [study guide](/resources/aqa-a-level-business-understanding-the-role-and-importance-of-stakeholders/) for worked examples.
 - Use the [revision notes](/resources/aqa-a-level-business-understanding-the-role-and-importance-of-stakeholders-revision-notes/) for a quick recall check.

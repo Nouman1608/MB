@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers statement G19 in section 3.3.2 (Mensuration and calculation) of the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1, for exams from May/June 2018 onwards. The Core content is Pythagoras' theorem and the sine, cosine and tangent ratios in right-angled triangles in two-dimensional figures. The Extension content adds three-dimensional figures. All content can be assessed on the Extension papers, so Core learners should work through the 2D sections and Extension learners should do the whole guide. Scientific calculators are allowed on every paper.
@@ -310,7 +310,7 @@ In part (c) the angle between two planes is measured along a line at right angle
 - Rounding in the middle of a multi-step problem.
 - In 3D, using a slanting line where a perpendicular height is needed.
 
-## Next steps
+## More on this topic
 
 Try the [practice questions](/resources/oxfordaqa-igcse-mathematics-pythagoras-theorem-and-right-angled-trigonometry-practice/), then use the [revision notes](/resources/oxfordaqa-igcse-mathematics-pythagoras-theorem-and-right-angled-trigonometry-revision-notes/) the week before your exam. Take a [diagnostic](/diagnostics/) when you want a quick check of where you stand.
 

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -131,7 +131,7 @@ Also: cos x = sin(90° − x), so cos 70° = sin 20°.
 11. **x = 0°, 180° or 360°**
 12. cos x = −4/3, which is less than −1, and cos x always lies between −1 and 1.
 
-## Next steps
+## More on this topic
 
 - Re-read the worked examples in the [trigonometric functions study guide](/resources/cambridge-igcse-mathematics-0580-trigonometric-functions/).
 - The exact values you need for Paper 2 are in the [exact values and trigonometric functions study guide](/resources/igcse-mathematics-0580-exact-trigonometric-values-and-trigonometric-functions/) and the [trigonometry revision notes](/resources/igcse-mathematics-trigonometry-revision-notes/).

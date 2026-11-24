@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -158,7 +158,7 @@ Frequency (f)   3   9  12   4   2
 11. **20 < x ≤ 40.**
 12. The individual values are unknown, so each is **assumed to be at the class midpoint**.
 
-## Next steps
+## More on this topic
 
 - Re-read the worked examples in the [averages and range study guide](/resources/cambridge-igcse-mathematics-0580-averages-and-range/).
 - Try the [averages and range practice questions](/resources/cambridge-igcse-mathematics-0580-averages-and-range-practice/).

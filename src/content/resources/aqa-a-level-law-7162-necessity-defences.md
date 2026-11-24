@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -142,6 +142,6 @@ Conclusion: duress likely to succeed; acquittal.
 
 Name the defence, set out its test in stages, apply each stage to the facts with an authority and conclude on whether the defendant is acquitted. In homicide problems, consider loss of control as a fallback if self-defence fails because the force was excessive.
 
-## Related resources
+## More resources on this topic
 
 [Necessity defences revision notes](/resources/aqa-a-level-law-7162-necessity-defences-revision-notes/) | [Necessity defences practice questions](/resources/aqa-a-level-law-7162-necessity-defences-practice/)

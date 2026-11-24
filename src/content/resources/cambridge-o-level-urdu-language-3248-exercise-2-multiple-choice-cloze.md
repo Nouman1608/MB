@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: An Urdu specialist should check every Urdu grammar example, the original cloze passage and the explanations of agreement and articles on this page."
+reviewNote: "2026-11-17: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: An Urdu specialist should check every Urdu grammar example, the original cloze passage and the explanations of agreement and articles on this page. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -198,7 +198,7 @@ standard forms.
 - Picking a word with the right meaning but the wrong collocation.
 - Reading only the words next to the gap.
 
-## Related resources
+## More resources on this topic
 
 - [Exercise 2 cloze: revision notes](/resources/cambridge-o-level-urdu-language-3248-exercise-2-multiple-choice-cloze-revision-notes/)
 - [Exercise 2 cloze: practice questions](/resources/cambridge-o-level-urdu-language-3248-exercise-2-multiple-choice-cloze-practice/)

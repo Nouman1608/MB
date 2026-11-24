@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -152,7 +152,7 @@ Links: [Cambridge A Level Economics hub](/boards/cambridge/a-level/economics/), 
 - Listing policies without comparing them or reaching a judgement.
 - Ignoring that transfers and state provision are funded by taxes.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/cambridge-a-level-economics-income-and-wealth-inequality-and-redistribution-revision-notes/) and the [study guide](/resources/cambridge-a-level-economics-income-and-wealth-inequality-and-redistribution/).
 - Return to the [Cambridge A Level Economics hub](/boards/cambridge/a-level/economics/) and tick off the [printable checklist](/checklists/cambridge/a-level/economics/).

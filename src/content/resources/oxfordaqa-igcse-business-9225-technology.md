@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -143,7 +143,7 @@ The answer earns analysis marks because each point is followed through to an eff
 - **Analyse**: build a chain of reasons, as in worked example 2.
 - **Evaluate**: weigh benefits against costs and reach a judgement that depends on something in the case, such as the type of customer or the size of the cost.
 
-## Related resources
+## More resources on this topic
 
 - [Technology revision notes](/resources/oxfordaqa-igcse-business-9225-technology-revision-notes/)
 - [Technology practice questions](/resources/oxfordaqa-igcse-business-9225-technology-practice/)

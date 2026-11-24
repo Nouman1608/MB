@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -148,7 +148,7 @@ The concept underlies the **von Neumann** model (one memory for both). A **Harva
 11. 12 (0000 1100).
 12. Harvard architecture.
 
-## Related resources
+## More resources on this topic
 
 - [Stored program concept study guide](/resources/aqa-a-level-computer-science-7517-stored-program-concept/)
 - [Stored program concept practice questions](/resources/aqa-a-level-computer-science-7517-stored-program-concept-practice/)

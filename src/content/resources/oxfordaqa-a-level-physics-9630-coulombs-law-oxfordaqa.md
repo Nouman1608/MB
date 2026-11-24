@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -155,7 +155,7 @@ The ratio is fixed only for a given pair of particles. For an electron and a pro
 - **Compare** gravitational and electrostatic forces: calculate both, give the ratio, and draw the conclusion that gravity is negligible.
 - **Explain** why a balance point is independent of the third charge: show that the third charge appears on both sides of the force equation and cancels.
 
-## Related resources
+## More resources on this topic
 
 - [Coulomb's law revision notes](/resources/oxfordaqa-a-level-physics-9630-coulombs-law-oxfordaqa-revision-notes/)
 - [Coulomb's law practice questions](/resources/oxfordaqa-a-level-physics-9630-coulombs-law-oxfordaqa-practice/)

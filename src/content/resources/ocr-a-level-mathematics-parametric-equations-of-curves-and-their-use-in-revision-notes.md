@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 These notes condense parametric equations of curves for OCR A Level Mathematics A (H240), specification Version 3.1 (August 2026), content statements 1.03g and 1.03h. Both statements are in the Stage 2 column, so they are **A Level only**. For full explanations and longer worked examples, read the [study guide](/resources/ocr-a-level-mathematics-parametric-equations-of-curves-and-their-use-in/) first. Differentiating parametric equations is statement 1.07s and is not covered here. Find the rest of the course on the [OCR A Level Mathematics hub](/boards/ocr/a-level/mathematics/) and tick off skills on the [printable checklist](/checklists/ocr/a-level/mathematics/).
@@ -229,7 +229,7 @@ No. Many correct parametric forms exist for the same curve. For any curve y = f(
 **Is parametric equations content AS or A Level in OCR H240?**
 Content statements 1.03g and 1.03h, on parametric equations of curves and their use in modelling, are A Level only in OCR A Level Mathematics A (H240).
 
-## Next steps
+## More on this topic
 
 Try the [practice questions](/resources/ocr-a-level-mathematics-parametric-equations-of-curves-and-their-use-in-practice/) under timed conditions, and use the [free 10-minute diagnostics](/diagnostics/) to check wider Pure Mathematics. The course-level [Pure Mathematics revision notes](/resources/ocr-a-level-mathematics-pure-revision-notes/) put this unit in context.
 

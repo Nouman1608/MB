@@ -18,7 +18,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false
@@ -223,7 +223,7 @@ At low pressure and high temperature, where the molecules are far apart, so thei
 **Can the ideal gas equation be written in moles?**
 Yes. As well as pV = NkT for N molecules, it can be written pV = nRT, with n in moles and R = 8.31 J mol⁻¹ K⁻¹.
 
-## Related resources
+## More resources on this topic
 
 - [Unit 5: Nuclear Decay](/resources/edexcel-ial-physics-nuclear-decay/) — the next sub-topic
 - [Unit 1: Mechanics](/resources/edexcel-ial-physics-mechanics/) — foundational mechanics this unit builds on

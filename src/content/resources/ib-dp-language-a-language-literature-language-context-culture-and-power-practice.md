@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -222,7 +222,7 @@ then Passage C in full is block comparison and weakens the argument.
 - Missing how "we" in Passage C shifts from the executives to everyone.
 - Comparing block by block in question 11 instead of pairing evidence in each point.
 
-## Next steps
+## More on this topic
 
 - [Language, context, culture and power revision
   notes](/resources/ib-dp-language-a-language-literature-language-context-culture-and-power-revision-notes/)

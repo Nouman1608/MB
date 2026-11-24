@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -123,6 +123,6 @@ Argument 2: peer and classroom processes still constrain girls [1]. Lees showed 
 
 **Level guidance:** top answers test the explanation against different groups of boys and alternative causes; middle answers describe the crisis with limited evaluation; low answers treat it as fact.
 
-## Next steps
+## More on this topic
 
 Move on to Paper 4 with [perspectives on globalisation](/resources/cambridge-a-level-sociology-9699-perspectives-on-globalisation/), or review [ethnicity and educational attainment](/resources/cambridge-a-level-sociology-9699-ethnicity-educational-attainment/).

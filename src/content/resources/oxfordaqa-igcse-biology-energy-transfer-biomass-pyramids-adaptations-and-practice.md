@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -158,7 +158,7 @@ These questions cover OxfordAQA International GCSE Biology, Version 5.2 (for exa
 - Naming a feature without saying how it helps survival.
 - Giving one general parasite statement ("it is adapted to live in the gut") with no feature.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/oxfordaqa-igcse-biology-energy-transfer-biomass-pyramids-adaptations-and-revision-notes/) and re-read the [study guide](/resources/oxfordaqa-igcse-biology-energy-transfer-biomass-pyramids-adaptations-and/).
 - Course hub: [OxfordAQA IGCSE Biology](/boards/oxfordaqa/igcse/biology/); [printable checklist](/checklists/oxfordaqa/igcse/biology/).

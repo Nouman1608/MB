@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -129,7 +129,7 @@ These questions cover OCR GCSE (9-1) Gateway Science Biology A (J247), Version 4
 - Treating phase 1 as a test of effectiveness.
 - Judging a trial from the drug group alone, without comparing with the placebo group.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/ocr-gcse-biology-monoclonal-antibodies-aseptic-technique-and-drug-revision-notes/) and the [study guide](/resources/ocr-gcse-biology-monoclonal-antibodies-aseptic-technique-and-drug/).
 - Open the [OCR GCSE Biology hub](/boards/ocr/gcse/biology/) and tick off statements on the [checklist](/checklists/ocr/gcse/biology/).

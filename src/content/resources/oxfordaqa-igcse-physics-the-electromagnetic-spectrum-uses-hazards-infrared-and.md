@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This study guide covers section 3.3.2, The electromagnetic spectrum (statements a to m), of the OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards. The qualification is untiered. Some statements in 3.3.2 are for the full Physics award only (marked P in the specification): the extra detail on emission in statement d, and statements e and f on black-body radiation. They are included below. The wave equation used in the calculations comes from section 3.3.1.
 
@@ -252,7 +252,7 @@ High-energy ionising radiation can be dangerous. People who work with it need **
 - Forgetting to convert nm, MHz or GHz to m and Hz before using the wave equation.
 - Saying that X-rays "pass through bone". Bone absorbs them strongly; soft tissue transmits them.
 
-## Next steps
+## More on this topic
 
 Condense this with the revision notes, then test yourself with the practice questions (both linked at the top). Tick off progress on the [checklist](/checklists/oxfordaqa/igcse/physics/).
 

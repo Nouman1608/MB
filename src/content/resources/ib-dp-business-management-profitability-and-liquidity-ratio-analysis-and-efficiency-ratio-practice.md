@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -146,7 +146,7 @@ These questions practise sections 3.5 (Profitability and liquidity ratio analysi
 - Calling a figure good or bad with no comparison, or recommending a strategy with no cost, risk or case number.
 - Treating insolvency and bankruptcy as the same.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/ib-dp-business-management-profitability-and-liquidity-ratio-analysis-and-efficiency-ratio-revision-notes/).
 - Re-read the [study guide](/resources/ib-dp-business-management-profitability-and-liquidity-ratio-analysis-and-efficiency-ratio/).

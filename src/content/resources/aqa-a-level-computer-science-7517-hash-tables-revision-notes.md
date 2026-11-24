@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -149,7 +149,7 @@ symbol tables, caches. 11. They spread keys with common factors across
 more slots, reducing collisions. 12. Chaining: each slot holds a list of
 all items that hash to it.
 
-## Next steps
+## More on this topic
 
 - Apply these steps under exam conditions with the
   [Hash tables practice questions](/resources/aqa-a-level-computer-science-7517-hash-tables-practice/).

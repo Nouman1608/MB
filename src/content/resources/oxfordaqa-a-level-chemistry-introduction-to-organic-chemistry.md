@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide covers section **3.3.1 Introduction to organic chemistry** of the OxfordAQA International AS and
@@ -331,7 +331,7 @@ Decide whether this alkene is E or Z.
 - Beginning a curly arrow at a charge sign or a bare atom instead of at a lone pair or bond.
 - Ranking CIP groups by size or by the number of atoms rather than by atomic number at the first difference.
 
-## Next steps
+## More on this topic
 
 Use the [revision notes](/resources/oxfordaqa-a-level-chemistry-introduction-to-organic-chemistry-revision-notes/) to condense this guide,
 then try the [practice questions](/resources/oxfordaqa-a-level-chemistry-introduction-to-organic-chemistry-practice/).

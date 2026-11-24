@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -169,7 +169,7 @@ maintains the dominance of powerful nations. 11. Widens: access to education, em
 it becomes a gatekeeper that excludes those without good English teaching. 12. It signals that many varieties are
 valid and that no single variety owns the language.
 
-## Next steps
+## More on this topic
 
 Try the [English in the World practice questions](/resources/cambridge-a-level-english-language-9093-section-a-english-in-the-world-practice/),
 then the [Paper 4 revision notes](/resources/a-level-english-language-paper-4-language-topics-revision-notes/) for both sections.

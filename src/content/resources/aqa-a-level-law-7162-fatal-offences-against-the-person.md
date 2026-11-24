@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -173,6 +173,6 @@ The order matters: test murder first, then the partial defence if murder is made
 
 In problem questions, apply each element to the facts and conclude on each offence before moving to the next. In evaluation questions, the most-used criticisms are the mandatory life sentence and the breadth of murder, the correspondence problem in unlawful act manslaughter, and the circular test in gross negligence manslaughter.
 
-## Related resources
+## More resources on this topic
 
 [Fatal offences revision notes](/resources/aqa-a-level-law-7162-fatal-offences-against-the-person-revision-notes/) | [Fatal offences practice questions](/resources/aqa-a-level-law-7162-fatal-offences-against-the-person-practice/)

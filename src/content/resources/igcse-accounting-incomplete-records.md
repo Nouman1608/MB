@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE
@@ -321,7 +321,7 @@ Another case: revenue 80,000, margin 25%. Cost of sales is 75% x 80,000 = 60,000
 - Using closing inventory alone as the figure in the inventory turnover formula.
 - Charging the whole allowance as an expense instead of the change.
 
-## Next steps
+## More on this topic
 
 - [Revision notes for incomplete records](/resources/igcse-accounting-incomplete-records-revision-notes/)
 - [Practice questions for incomplete records](/resources/igcse-accounting-incomplete-records-practice/)

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -174,7 +174,7 @@ This also explains why concentrated sulfuric acid is a poor reagent for preparin
 - **Describe and explain** (sulfuric acid): observations, the acid–base step, how far sulfur is reduced, and the link to reducing power.
 - **Construct** (equations): combine half-equations so that electrons cancel, then check atoms.
 
-## Related resources
+## More resources on this topic
 
 - [Some reactions of the halide ions: revision notes](/resources/cambridge-a-level-chemistry-9701-as-some-reactions-of-the-halide-ions-revision-notes/)
 - [Some reactions of the halide ions: practice questions](/resources/cambridge-a-level-chemistry-9701-as-some-reactions-of-the-halide-ions-practice/)

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -151,7 +151,7 @@ Check that the answer makes sense in the story. Reject impossible values, such a
 **What is a trace table used for?**
 A trace table records the value of each variable after every pass through an algorithm or flowchart. Stopping the table one pass early or late gives the wrong output, so test the stopping condition each time.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/ib-myp-mathematics-algebra-in-myp-expressions-equations-sequences-and-revision-notes/) for the methods you missed.
 - Return to the [study guide](/resources/ib-myp-mathematics-algebra-in-myp-expressions-equations-sequences-and/) for the full worked examples.

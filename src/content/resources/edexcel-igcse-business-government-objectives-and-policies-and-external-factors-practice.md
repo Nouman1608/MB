@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -153,7 +153,7 @@ These questions cover Topic 1, sections 1.6 "Government objectives and policies"
 - Giving one side only in evaluate and justify questions, or stopping without a conclusion.
 - Ignoring figures supplied in the case study.
 
-## Next steps
+## More on this topic
 
 Review the [revision notes](/resources/edexcel-igcse-business-government-objectives-and-policies-and-external-factors-revision-notes/) and the [study guide](/resources/edexcel-igcse-business-government-objectives-and-policies-and-external-factors/). Go back to the [4BS1 Business hub](/boards/edexcel/igcse/business/), tick off progress on the [checklist](/checklists/edexcel/igcse/business/), take the [free diagnostics](/diagnostics/), or [book a free trial class](/trial/).
 

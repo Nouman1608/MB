@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -178,7 +178,7 @@ Always **quote numbers from the table** to support each statement, and state the
 - **Use the data:** quote values and describe trends with both variables named.
 - **Explain** speed changes in an ellipse: name both energy stores and say energy is conserved.
 
-## Next steps
+## More on this topic
 
 Condense this with the [Earth and Solar System revision notes](/resources/cambridge-igcse-physics-0625-the-earth-and-the-solar-system-revision-notes/) and practise with the [Earth and Solar System practice questions](/resources/cambridge-igcse-physics-0625-the-earth-and-the-solar-system-practice/). The next subtopic is [stars and the Universe](/resources/cambridge-igcse-physics-0625-stars-and-the-universe/).
 

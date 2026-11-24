@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -163,7 +163,7 @@ Link profit to entry or exit: supernormal profit attracts new firms, which shift
 **What do Cambridge 9708 "show that" questions on market structures expect?**
 Every step of the working, from the revenue or cost figures through MR = MC to the final profit or price. Skipping steps in a "show that" answer is one of the listed ways marks are lost.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/cambridge-a-level-economics-perfect-competition-monopoly-and-monopolistic-revision-notes/) and the [study guide](/resources/cambridge-a-level-economics-perfect-competition-monopoly-and-monopolistic/).
 - Open the [course hub](/boards/cambridge/a-level/economics/) and the [checklist](/checklists/cambridge/a-level/economics/).

@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -141,7 +141,7 @@ Links: [study guide](/resources/oxfordaqa-a-level-physics-radioactive-decay-mode
 - Dividing the activity by 2 once for each hour rather than once for each half-life.
 - Using 1/r instead of 1/r² when checking the law.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/oxfordaqa-a-level-physics-radioactive-decay-modes-half-life-radiation-properties-revision-notes/)
 - [Study guide](/resources/oxfordaqa-a-level-physics-radioactive-decay-modes-half-life-radiation-properties/)

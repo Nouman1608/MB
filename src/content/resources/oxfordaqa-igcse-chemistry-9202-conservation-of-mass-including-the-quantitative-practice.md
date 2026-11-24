@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -185,7 +185,7 @@ CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂ (Aᵣ: Ca = 40, C = 12, O = 16)
 - Using the 2 in 2Mg as a reason to double the moles of magnesium oxide when the ratio is 1 : 1.
 - Mixing tonnes and grams in a mass-ratio calculation.
 
-## Next steps
+## More on this topic
 
 - Rework mass-change ideas in the [conservation of mass study guide](/resources/oxfordaqa-igcse-chemistry-9202-conservation-of-mass-including-the-quantitative/).
 - Move on to formula calculations with the [use of amount of substance practice questions](/resources/oxfordaqa-igcse-chemistry-9202-use-of-amount-of-substance-in-relation-to-masses-of-pure-practice/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -161,7 +161,7 @@ For a visual source, spend a minute working through the five layers before you w
 text, look at every word and its grammar. Check which text or texts each question names, and divide
 your time by the marks shown.
 
-## Related resources
+## More resources on this topic
 
 - [Brief and visual texts revision notes](/resources/oxfordaqa-igcse-english-language-9270-brief-and-visual-texts-revision-notes/)
 - [Brief and visual texts practice](/resources/oxfordaqa-igcse-english-language-9270-brief-and-visual-texts-practice/)

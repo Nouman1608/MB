@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -148,7 +148,7 @@ Write the ratio with the hypotenuse on the bottom, rearrange to divide by the ex
 **Can I use the 1 : √3 : 2 ratio instead of writing a trigonometric equation?**
 Yes. Scaling the special triangle is a valid method, as long as you match each side to the correct angle and show the scale factor.
 
-## Next steps
+## More on this topic
 
 - Review the methods in the [exact trigonometric values study guide](/resources/cambridge-igcse-mathematics-0580-exact-trigonometric-values/).
 - Recap with the [exact trigonometric values revision notes](/resources/cambridge-igcse-mathematics-0580-exact-trigonometric-values-revision-notes/).

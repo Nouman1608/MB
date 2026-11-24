@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -183,7 +183,7 @@ Heating to *constant mass* makes sure all the water has gone; otherwise x comes 
 - **Calculate** an empirical formula: use a table with mass, moles and ratio rows.
 - **Deduce** a molecular formula: divide Mr by the empirical formula mass and show the multiplier.
 
-## Related resources
+## More resources on this topic
 
 - [Cambridge 9701 The mole and the Avogadro constant](/resources/cambridge-a-level-chemistry-9701-as-the-mole-and-the-avogadro-constant/)
 - [Cambridge 9701 Reacting masses and volumes](/resources/cambridge-a-level-chemistry-9701-as-reacting-masses-and-volumes-of-solutions-and-gases/)

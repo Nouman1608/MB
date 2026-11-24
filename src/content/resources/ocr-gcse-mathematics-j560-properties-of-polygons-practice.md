@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -188,7 +188,7 @@ Learn the properties first in the [properties of polygons study guide](/resource
 - Considering only one case for an isosceles triangle.
 - Proof steps without reasons, or no final statement.
 
-## Next steps
+## More on this topic
 
 - Review with the [properties of polygons revision notes](/resources/ocr-gcse-mathematics-j560-properties-of-polygons-revision-notes/).
 - Re-read the explanations in the [properties of polygons study guide](/resources/ocr-gcse-mathematics-j560-properties-of-polygons/).

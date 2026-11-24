@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide follows the IB *Physics guide*, first assessment 2025, and covers section C.4 (standing waves and resonance), which is taught to both SL and HL. The guide adds no higher-level content to C.4, so everything here applies at both levels. It sits within topic C, wave behaviour. You can check your progress against the [printable checklist](/checklists/ib/ib-dp/physics/) and the [IB Physics hub](/boards/ib/ib-dp/physics/). Condensed recall is in the [revision notes](/resources/ib-dp-physics-standing-waves-resonance-and-damping-revision-notes/) and exam-style questions are in the [practice set](/resources/ib-dp-physics-standing-waves-resonance-and-damping-practice/). For the wider course map see the [IB DP Physics syllabus guide](/resources/ib-dp-physics-syllabus-guide/), and to find out where you stand today try the [free diagnostics](/diagnostics/).
@@ -212,7 +212,7 @@ Critical damping is the borderline: any less and the system overshoots, any more
 - Claiming damping has no effect on the frequency of the peak, or that heavy damping makes the amplitude larger.
 - Describing critical damping as "no damping".
 
-## Next steps
+## More on this topic
 
 Condense this with the [revision notes](/resources/ib-dp-physics-standing-waves-resonance-and-damping-revision-notes/), then test yourself with the [practice questions](/resources/ib-dp-physics-standing-waves-resonance-and-damping-practice/). For exam technique see [IB DP Physics exam preparation](/resources/ib-dp-physics-exam-preparation/).
 

@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -160,7 +160,7 @@ Home cost $8.50. Overseas price $6.20 plus $0.90 shipping and customs = $7.10. S
 | Justify | A case backed with evidence |
 | Evaluate | A judgement of value, ending with a conclusion |
 
-## Next steps
+## More on this topic
 
 Read the full explanations in the [Global supply chain management study guide](/resources/cambridge-o-level-commerce-7100-global-supply-chain-management/), then try the [Global supply chain management practice questions](/resources/cambridge-o-level-commerce-7100-global-supply-chain-management-practice/).
 

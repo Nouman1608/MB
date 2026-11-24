@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers section 3.10, Marginal costing, of the AQA A-level Accounting (7127) specification,
@@ -346,7 +346,7 @@ It assumes costs split cleanly into fixed and variable, a single selling price a
 **Which costs are relevant in a make-or-buy decision?**
 Compare the marginal cost of making with the price of buying. Fixed overheads that will still be paid whichever option is chosen are not relevant, and non-financial factors such as supplier quality and reliability should be weighed before deciding.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [marginal costing practice questions](/resources/aqa-a-level-accounting-marginal-costing-practice/),
 condense with the [revision notes](/resources/aqa-a-level-accounting-marginal-costing-revision-notes/),

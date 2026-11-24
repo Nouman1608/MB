@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -174,6 +174,6 @@ featured: false
 11. Gain: jobs, education or healthcare. Loss: overcrowded housing, rationing or queues.
 12. Any one: agriculture damaged; consumer goods neglected; reliance on forced labour; exaggerated statistics; famine.
 
-## Next steps
+## More on this topic
 
 Try the [Stalin's modernisation practice questions](/resources/aqa-gcse-world-history-8145-stalins-modernisation-practice/).

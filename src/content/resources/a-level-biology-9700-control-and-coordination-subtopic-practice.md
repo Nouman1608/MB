@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -146,7 +146,7 @@ They differ from the topic-level practice set; related pages are under Next step
 - Saying the A band or the filaments shorten.
 - Giving ATP only an "energy" role instead of detachment and re-cocking.
 
-## Next steps
+## More on this topic
 
 - [Control and coordination revision notes](/resources/a-level-biology-9700-control-and-coordination-revision-notes/)
 - [Control and coordination study guide](/resources/a-level-biology-9700-control-and-coordination/)

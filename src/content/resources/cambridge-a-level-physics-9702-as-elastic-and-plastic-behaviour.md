@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -201,7 +201,7 @@ while the deformation is elastic.
 Because the wire has been plastically deformed: it has a permanent extension
 once the load is removed.
 
-## Related resources
+## More resources on this topic
 
 - [Deformation of Solids](/resources/as-physics-deformation-of-solids/) — the whole of Topic 6 in one guide
 - [Stress and strain](/resources/cambridge-a-level-physics-9702-as-stress-and-strain/) — subtopic 6.1, Hooke's law and the Young modulus

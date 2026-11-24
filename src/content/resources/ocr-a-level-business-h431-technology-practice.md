@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -113,7 +113,7 @@ Customers: they can bank at any time and avoid queues [1]; some, such as older c
 - Not calculating payback correctly (using the cost as the saving, or forgetting running costs).
 - Ignoring risks such as system failure and data security.
 
-## Next steps
+## More on this topic
 
 - Revisit the [technology study guide](/resources/ocr-a-level-business-h431-technology/) for any gaps.
 - Return to the [OCR A Level Business hub](/boards/ocr/a-level/business/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This guide teaches the friction content of the OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026), for first assessment in 2018. It covers references 3.03r to 3.03v within 3.03 Forces and Newton's laws. The first reference is Stage 1 content, shared with AS. The rest is Stage 2 and is **A Level only**. Use the [course hub](/boards/ocr/a-level/mathematics/) and the [printable checklist](/checklists/ocr/a-level/mathematics/) to see where this unit sits, and the [free diagnostics](/diagnostics/) to find your weak spots. Condensed notes are in the [revision notes](/resources/ocr-a-level-mathematics-friction-limiting-friction-coefficient-of-friction-and-revision-notes/) and exam-style questions are in the [practice set](/resources/ocr-a-level-mathematics-friction-limiting-friction-coefficient-of-friction-and-practice/).
 
@@ -241,7 +241,7 @@ The contact force is the resultant of the normal force R and the frictional forc
 **Which way does friction act on a slope?**
 Friction opposes the motion or the tendency to move. Going down the slope it acts up the slope, and going up the slope it acts down it.
 
-## Next steps
+## More on this topic
 
 Practise these skills with the [practice questions](/resources/ocr-a-level-mathematics-friction-limiting-friction-coefficient-of-friction-and-practice/), then condense them with the [revision notes](/resources/ocr-a-level-mathematics-friction-limiting-friction-coefficient-of-friction-and-revision-notes/). Tick off each reference on the [checklist](/checklists/ocr/a-level/mathematics/) when you can do it without notes.
 

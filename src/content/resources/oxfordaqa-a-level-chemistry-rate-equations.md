@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches **section 3.1.11 Rate equations** of the OxfordAQA International AS and
@@ -349,7 +349,7 @@ tangent drawing.
 - Giving Ea a negative sign: Ea = –gradient × R.
 - Saying that a higher concentration increases k.
 
-## Next steps
+## More on this topic
 
 Use the [revision notes](/resources/oxfordaqa-a-level-chemistry-rate-equations-revision-notes/), then the
 [practice questions](/resources/oxfordaqa-a-level-chemistry-rate-equations-practice/).

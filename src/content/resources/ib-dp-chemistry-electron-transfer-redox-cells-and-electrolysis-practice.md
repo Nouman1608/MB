@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -198,7 +198,7 @@ Where needed, use Ar(H) = 1.01, Ar(C) = 12.01, Ar(O) = 16.00, Ar(Mg) = 24.31, an
 - Using reflux when the aldehyde is the target product.
 - Using one mole of H₂ per mole of alkyne when the alkane is formed.
 
-## Next steps
+## More on this topic
 
 - [Reactivity 3.2 revision notes](/resources/ib-dp-chemistry-electron-transfer-redox-cells-and-electrolysis-revision-notes/) for a final read-through
 - [Reactivity 3.2 study guide](/resources/ib-dp-chemistry-electron-transfer-redox-cells-and-electrolysis/) for full explanations

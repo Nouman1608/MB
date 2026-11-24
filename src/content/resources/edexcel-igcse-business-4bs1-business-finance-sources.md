@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "asif-iqbal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -136,7 +136,7 @@ Why it works: it starts from the owner's stated priority, uses facts from the ca
 - Forgetting that the main cost of share capital is shared profit and control, not interest.
 - Choosing an overdraft for a long-term need.
 
-## Next steps
+## More on this topic
 
 Condense this with the [sources of finance revision notes](/resources/edexcel-igcse-business-4bs1-business-finance-sources-revision-notes/), then try the [sources of finance practice questions](/resources/edexcel-igcse-business-4bs1-business-finance-sources-practice/).
 

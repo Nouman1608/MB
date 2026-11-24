@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -143,7 +143,7 @@ D: magnification − image size
 - Skipping the working: each step can earn a method mark.
 - Forgetting to divide by the number of cells when several are measured together.
 
-## Next steps
+## More on this topic
 
 - Re-read the [size of specimens study guide](/resources/cambridge-igcse-biology-0610-size-of-specimens/).
 - Move on to the [diffusion practice questions](/resources/cambridge-igcse-biology-0610-diffusion-practice/).

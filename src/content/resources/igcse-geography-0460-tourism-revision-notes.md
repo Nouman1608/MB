@@ -22,6 +22,7 @@ publishedDate: 2026-09-29
 featured: false
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
+reviewNote: "2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 reviewedDate: 2026-10-09
 ---
 
@@ -210,7 +211,7 @@ Phrases such as "How far do you agree" and "To what extent" also appear. They ne
 - Forgetting that impacts differ for different groups, which costs judgement marks.
 - Treating the Butler model as a rule that every resort must follow.
 
-## Related resources
+## More resources on this topic
 
 - Reef conditions: [coasts](/resources/igcse-geography-coasts/)
 - Migration and settlement links: [population and settlement revision notes](/resources/igcse-geography-population-settlement-revision-notes/)

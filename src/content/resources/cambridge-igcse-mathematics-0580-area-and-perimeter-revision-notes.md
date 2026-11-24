@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -130,7 +130,7 @@ b = 2 × 66 ÷ 6 − 7 = 22 − 7 = 15 cm
 11. 120 × 45 = **5400 cm²**
 12. 4(x + 3) = 36, x + 3 = 9, **x = 6**
 
-## Next steps
+## More on this topic
 
 - Re-read the worked examples in the [area and perimeter study guide](/resources/cambridge-igcse-mathematics-0580-area-and-perimeter/).
 - Practise with the [area and perimeter practice questions](/resources/cambridge-igcse-mathematics-0580-area-and-perimeter-practice/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide covers section 3.1.6 of the AQA AS and A-level Chemistry specification (7404/7405), version 1.2 (July 2026), for AS and A-level exams from June 2016 onwards. It teaches both parts of the section: 3.1.6.1 Chemical equilibria and Le Chatelier's principle, and 3.1.6.2 Equilibrium constant Kc for homogeneous systems. All of this content is AS content, so it is also part of the full A-level; nothing in section 3.1.6 is marked "A-level only". The partial-pressure constant Kp is a separate section (3.1.10, A-level only) and is not covered here.
@@ -308,7 +308,7 @@ Put the equilibrium concentrations of the products on top and the reactants on t
 **Is there a required practical for equilibria in AQA A-level Chemistry 7405?**
 No. Section 3.1.6 lists no required practical, but the specification suggests test-tube equilibrium shifts and finding Kc for the formation of ethyl ethanoate as practical activities.
 
-## Next steps
+## More on this topic
 
 Condense this with the [revision notes](/resources/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc-revision-notes/), then test yourself with the [practice questions](/resources/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc-practice/). For paper formats, see the [exam preparation guide](/resources/aqa-a-level-chemistry-exam-preparation/), and try the [free diagnostics](/diagnostics/).
 

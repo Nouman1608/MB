@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -147,6 +147,6 @@ s₁²/n₁ + s₂²/n₂ = 14.49/10 + 10.27/10 = 1.449 + 1.027 = 2.476
 - **Use** the t-test (17.1.4): show means, s², the substitution, t, degrees of freedom, the critical value and a conclusion about the null hypothesis, in that order.
 - Round only at the end, and give t to two or three significant figures.
 
-## Next steps
+## More on this topic
 
 Revise with the [17.1 revision notes](/resources/cambridge-a-level-biology-9700-variation-revision-notes/) and test yourself with the [17.1 practice questions](/resources/cambridge-a-level-biology-9700-variation-practice/). Variation is what selection acts on: continue with the [natural and artificial selection study guide](/resources/cambridge-a-level-biology-9700-natural-and-artificial-selection/). Meiosis, a source of genetic variation, is in the [passage of information from parents to offspring study guide](/resources/cambridge-a-level-biology-9700-passage-of-information-from-parents-to-offspring-cambridge/).

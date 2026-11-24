@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches section 3.1.1, Periodicity, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. It opens Module 3, Periodic table and energy, and covers every lettered outcome, 3.1.1(a) to (g), with its additional guidance. H432 is a full A level, not split into AS and A2 here. According to the specification, components 01 (Periodic table, elements and physical chemistry) and 03 (Unified chemistry) examine Module 3. This section has no PAG link.
@@ -237,7 +237,7 @@ Boron melts at 2076 °C and nitrogen at −210 °C, a gap of 2286 °C. Boron is 
 - Writing that melting a simple molecular element breaks covalent bonds.
 - Describing metallic bonding as attraction between atoms rather than cations and delocalised electrons.
 
-## Next steps
+## More on this topic
 
 - Condensed tables and a self-test: [Periodicity revision notes](/resources/ocr-a-level-chemistry-periodicity-revision-notes/)
 - Original questions with marked answers: [Periodicity practice questions](/resources/ocr-a-level-chemistry-periodicity-practice/)

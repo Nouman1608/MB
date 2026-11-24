@@ -26,7 +26,7 @@ reviewedDate: 2026-11-08
 publishedDate: 2026-08-17
 updatedDate: 2026-11-05
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers subtopics **28.1, General physical and chemical
@@ -338,7 +338,7 @@ With limited ammonia, NH₃ acts as a base and precipitates the hydroxide, but i
 **Why is a potassium manganate(VII) titration self-indicating?**
 MnO₄⁻ is intensely purple, while the products such as Mn²⁺ are colourless, so the end point is the first permanent trace of pink or purple. This shows that MnO₄⁻ is no longer being used up.
 
-## Related resources
+## More resources on this topic
 
 - [Redox Processes: Oxidation Numbers and Electron
   Transfer](/resources/as-redox-processes/) — half-equation balancing this

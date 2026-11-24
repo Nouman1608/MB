@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -195,7 +195,7 @@ if a question allows any method.
   reduces collisions because keys with a common factor are spread over
   more slots".
 
-## Next steps
+## More on this topic
 
 - Recall tables, traps and a self-test are in the
   [Hash tables revision notes](/resources/aqa-a-level-computer-science-7517-hash-tables-revision-notes/).

@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -255,7 +255,7 @@ Check the totals first: 14 + 10 + 6 = 30, 12 + 11 + 7 = 30, and 30 + 30 = 60.
 - **Show that**: give the exact fraction and the working.
 - Check: probabilities for a full set of outcomes add to 1, and P(A′) = 1 − P(A).
 
-## Next steps
+## More on this topic
 
 Work through the [introduction to probability practice questions](/resources/cambridge-o-level-mathematics-4024-introduction-to-probability-practice/) and recap with the [introduction to probability revision notes](/resources/cambridge-o-level-mathematics-4024-introduction-to-probability-revision-notes/).
 

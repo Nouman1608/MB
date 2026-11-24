@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -123,7 +123,7 @@ Competition affects a business through three features of its rivals.
 
 For **explain** questions give one effect and develop it using a number or detail from the source. For **analyse**, build a chain: "interest rates rise, so loan repayments rise, so profit falls and the firm may delay investment". For **discuss** and **assess**, weigh which influence matters most to this business at this time, and say what would change your view, such as whether the business exports, is highly geared or sells luxury goods.
 
-## Related resources
+## More resources on this topic
 
 - [External influences revision notes](/resources/edexcel-a-level-business-ybs11-external-influences-revision-notes/)
 - [External influences practice questions](/resources/edexcel-a-level-business-ybs11-external-influences-practice/)

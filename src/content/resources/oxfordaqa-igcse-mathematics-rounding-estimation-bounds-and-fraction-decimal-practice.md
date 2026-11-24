@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -158,7 +158,7 @@ Links: [study guide](/resources/oxfordaqa-igcse-mathematics-rounding-estimation-
 - Leaving a fraction unsimplified when "simplest form" is asked for.
 - Comparing quantities in different units without converting first.
 
-## Next steps
+## More on this topic
 
 - Read the [revision notes](/resources/oxfordaqa-igcse-mathematics-rounding-estimation-bounds-and-fraction-decimal-revision-notes/) for a short recap.
 - Go back to the [study guide](/resources/oxfordaqa-igcse-mathematics-rounding-estimation-bounds-and-fraction-decimal/) for any worked example you found hard.

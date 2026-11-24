@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers section 3.13, Capital investment appraisal, of the AQA A-level Accounting (7127)
@@ -316,7 +316,7 @@ Build a cumulative cash flow column and find the year in which it turns positive
 **What does a positive net present value mean?**
 A positive NPV means the project earns more than the cost of capital and adds value, so it should be accepted on financial grounds. When choosing between projects, prefer the one with the higher positive NPV.
 
-## Next steps
+## More on this topic
 
 Try the [practice questions](/resources/aqa-a-level-accounting-capital-investment-appraisal-practice/),
 recap with the [revision notes](/resources/aqa-a-level-accounting-capital-investment-appraisal-revision-notes/),

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide follows the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (Issue 3, April 2019) and covers Pure Mathematics 4 (P4) integration sections 6.1, 6.4 and 6.5. P4 is a compulsory unit for IAL Mathematics and Pure Mathematics; the specification gives its IAS weighting as N/A, so it is not part of IAS. Substitution, integration by parts and partial fractions (6.2 and 6.3) are taught elsewhere, so every integral here is a standard one.
@@ -320,7 +320,7 @@ If y = 0 satisfies the equation, dividing by y removes it, so note that case whe
 **Do you need to sketch parametric curves in Edexcel IAL P4?**
 No. The specification says you are not expected to sketch a curve from its parametric equations for volumes and areas in Unit P4.
 
-## Next steps
+## More on this topic
 
 Try the [practice questions](/resources/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations-practice/), then condense with the [revision notes](/resources/edexcel-ial-mathematics-volumes-of-revolution-separable-differential-equations-revision-notes/). For an overview of all papers, see [IAL Mathematics exam preparation](/resources/edexcel-ial-mathematics-exam-preparation/).
 

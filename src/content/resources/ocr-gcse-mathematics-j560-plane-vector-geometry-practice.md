@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -204,7 +204,7 @@ Which of them are parallel to (6 over −4)? **[2]**
 - Claiming collinearity without the shared point.
 - Ending a proof with algebra and no geometrical conclusion.
 
-## Next steps
+## More on this topic
 
 - Review with the [plane vector geometry revision notes](/resources/ocr-gcse-mathematics-j560-plane-vector-geometry-revision-notes/).
 - Re-read the explanations in the [plane vector geometry study guide](/resources/ocr-gcse-mathematics-j560-plane-vector-geometry/).

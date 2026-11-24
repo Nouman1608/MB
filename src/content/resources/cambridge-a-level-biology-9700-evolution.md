@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -133,7 +133,7 @@ Why it scores: each step is a separate idea, the answer names *alleles* and *gen
 - **Explain** (17.3.3): give reasons in sequence (barrier → no gene flow → mutation → different selection → reproductive isolation).
 - **Suggest**: apply the ideas to an unfamiliar organism; use the information in the stem, such as different flowering times or songs, to decide which type of speciation fits.
 
-## Next steps
+## More on this topic
 
 - [Evolution revision notes](/resources/cambridge-a-level-biology-9700-evolution-revision-notes/)
 - [Evolution practice questions](/resources/cambridge-a-level-biology-9700-evolution-practice/)

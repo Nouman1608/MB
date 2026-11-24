@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -129,7 +129,7 @@ Notice that every answer quotes the data and then gives the biology.
 - **Explain** a deficiency: food missing → nutrient missing → effect or disease.
 - **Suggest** a dietary change: name a food that supplies the missing nutrient.
 
-## Next steps
+## More on this topic
 
 - Recall drill and self-test: [diet revision notes](/resources/cambridge-igcse-biology-0610-diet-revision-notes/).
 - Twelve marked questions: [diet practice questions](/resources/cambridge-igcse-biology-0610-diet-practice/).

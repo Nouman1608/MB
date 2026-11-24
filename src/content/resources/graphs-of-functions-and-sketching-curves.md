@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-08-18
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers subtopics **2.10 Graphs of functions** and **2.11
@@ -248,7 +248,7 @@ No. Depending on the cubic, the curve may cross the x-axis once, twice (with a r
 **How can you tell exponential growth from exponential decay?**
 For y = abˣ + c, the graph shows exponential growth when b > 1 and exponential decay when 0 < b < 1. In both cases the curve approaches the horizontal line y = c without reaching it.
 
-## Related resources
+## More resources on this topic
 
 - [Indices and Equations](/resources/indices-and-equations/) — the
 equation-solving and completing-the-square skills used throughout this

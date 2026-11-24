@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -279,7 +279,7 @@ Gas particles collide with the walls of the container, and each collision pushes
 **Is states and properties of matter in the IB MYP Sciences syllabus?**
 The IB MYP Sciences subject brief (from 2014) lists states and properties of matter among the topics the on-screen examinations can draw on. MYP has no prescribed content list, so schools design their own units.
 
-## Next steps
+## More on this topic
 
 Go to the [revision notes](/resources/ib-myp-sciences-states-and-properties-of-matter-revision-notes/) for condensed tables and a self-test, then try the [practice questions](/resources/ib-myp-sciences-states-and-properties-of-matter-practice/), which include a design task and a data-analysis task. Why substances have different melting points is explained by bonding in [atomic structure and bonding](/resources/ib-myp-sciences-atomic-structure-and-bonding/). The [course models guide](/resources/ib-myp-sciences-course-models/) explains how your eAssessment option affects which topics you meet.
 

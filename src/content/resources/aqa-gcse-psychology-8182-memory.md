@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-15
 featured: false
 ---
@@ -162,7 +162,7 @@ The final sentence earns the application mark. Without "Jamal" or the codes, the
 
 In scenario questions, always quote or refer to the person or situation in the stem.
 
-## Next steps
+## More on this topic
 
 Condense this page with the [Memory revision notes](/resources/aqa-gcse-psychology-8182-memory-revision-notes/), then test yourself with the [Memory practice questions](/resources/aqa-gcse-psychology-8182-memory-practice/). To plan a memory study, see the [Research Methods guide](/resources/aqa-gcse-psychology-research-methods/).
 

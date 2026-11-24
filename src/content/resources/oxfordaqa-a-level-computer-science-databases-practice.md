@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -213,7 +213,7 @@ Correct SELECT fields and all four tables in FROM [1]; three correct join condit
 - Using UPDATE or DELETE with an incomplete WHERE clause.
 - Naming volume, velocity and variety without linking each to the scenario.
 
-## Next steps
+## More on this topic
 
 - [Databases revision notes](/resources/oxfordaqa-a-level-computer-science-databases-revision-notes/)
 - [Databases study guide](/resources/oxfordaqa-a-level-computer-science-databases/)

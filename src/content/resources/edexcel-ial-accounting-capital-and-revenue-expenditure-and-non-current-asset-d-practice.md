@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -199,7 +199,7 @@ The part-exchange allowance is treated like sale proceeds of the old asset in th
 **What are common mistakes in a schedule of non-current assets?**
 Disposals must reduce cost at the original cost and reduce depreciation at the accumulated figure. Using the wrong figure in either section is a common error.
 
-## Next steps
+## More on this topic
 
 - Review with the [revision notes](/resources/edexcel-ial-accounting-capital-and-revenue-expenditure-and-non-current-asset-d-revision-notes/) and the [study guide](/resources/edexcel-ial-accounting-capital-and-revenue-expenditure-and-non-current-asset-d/).
 - Open the [Edexcel A-Level Accounting hub](/boards/edexcel/a-level/accounting/) and the [checklist](/checklists/edexcel/a-level/accounting/).

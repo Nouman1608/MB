@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -232,7 +232,7 @@ Split the significance level equally, so each tail is compared with 2.5%. Compar
 **How should you write the conclusion of a hypothesis test?**
 Compare with the significance level, then conclude in context using non-definite language, such as there is sufficient evidence to suggest the proportion has decreased. Never claim the test proves a result.
 
-## Next steps
+## More on this topic
 
 - [Hypothesis testing revision notes](/resources/aqa-a-level-mathematics-statistical-hypothesis-testing-revision-notes/)
 - [Hypothesis testing study guide](/resources/aqa-a-level-mathematics-statistical-hypothesis-testing/)

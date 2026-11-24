@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to farheen-zehra (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to farheen-zehra (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -160,7 +160,7 @@ The limit is **no more than 100 words**. Count in rough as you draft, and then c
 - Leave a minute to count and to check spelling.
 - The exercise is worth 10 of 50 marks, so it deserves more time than Exercises 1 and 2.
 
-## Related resources
+## More resources on this topic
 
 - [Exercise 4 Summary: revision notes](/resources/cambridge-o-level-urdu-language-3248-exercise-4-summary-revision-notes/)
 - [Exercise 4 Summary: practice questions](/resources/cambridge-o-level-urdu-language-3248-exercise-4-summary-practice/)

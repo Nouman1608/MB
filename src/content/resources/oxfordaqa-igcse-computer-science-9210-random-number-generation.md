@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -225,7 +225,7 @@ question rules out.
 - **Explain** why a program behaves oddly: check where the random value is generated and how many times.
 - Any suitable function name is accepted in your own code, as long as the range is clear.
 
-## Next steps
+## More on this topic
 
 Condensed notes and a self-test are in the [random number generation revision
 notes](/resources/oxfordaqa-igcse-computer-science-9210-random-number-generation-revision-notes/), and exam-style

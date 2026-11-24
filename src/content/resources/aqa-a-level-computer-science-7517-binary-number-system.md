@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -167,7 +167,7 @@ Both result from a finite number of bits being used for the mantissa and exponen
 - **State the format** you are assuming if the question has not fixed one.
 - **Discuss error** by naming the cause (limited bits, non-terminating binary fraction) and its effect.
 
-## Related resources
+## More resources on this topic
 
 - [Binary number system revision notes](/resources/aqa-a-level-computer-science-7517-binary-number-system-revision-notes/)
 - [Binary number system practice questions](/resources/aqa-a-level-computer-science-7517-binary-number-system-practice/)

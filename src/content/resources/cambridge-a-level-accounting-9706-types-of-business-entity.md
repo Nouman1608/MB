@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "zain-ud-din-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to zain-ud-din-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to zain-ud-din-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -130,7 +130,7 @@ For the inventory, an overdraft is cheaper and more flexible because interest st
 - **Explain**: give the feature and why it matters, for example, "limited liability means shareholders can lose only their investment, so it is easier to attract investors".
 - **Advise**, **discuss** and **evaluate**: consider both sides, use the figures and context given, and finish with a justified recommendation, as Paper 2 expects.
 
-## Next steps
+## More on this topic
 
 Condense this guide with the [types of business entity revision notes](/resources/cambridge-a-level-accounting-9706-types-of-business-entity-revision-notes/), test yourself with the [types of business entity practice questions](/resources/cambridge-a-level-accounting-9706-types-of-business-entity-practice/), then move on to [the accounting system](/resources/cambridge-a-level-accounting-9706-the-accounting-system/).
 

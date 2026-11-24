@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -215,7 +215,7 @@ Key: for the "without" group 4 | 2 means 24 cm. For the "with" group 2 | 4 means
 - Claiming correlation proves cause.
 - Trusting an extrapolated estimate or missing an impossible value.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/oxfordaqa-igcse-mathematics-interpreting-graphs-comparing-distributions-and-revision-notes/) and the [study guide](/resources/oxfordaqa-igcse-mathematics-interpreting-graphs-comparing-distributions-and/).
 - Return to the [course hub](/boards/oxfordaqa/igcse/mathematics/) and tick off skills on the [checklist](/checklists/oxfordaqa/igcse/mathematics/).

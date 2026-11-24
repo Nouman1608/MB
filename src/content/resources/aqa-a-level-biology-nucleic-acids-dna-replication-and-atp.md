@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide follows the AQA *AS and A-level Biology* specification (7401 and 7402, first teaching 2015, exams from June 2016). It covers sections 3.1.5.1 (structure of DNA and RNA), 3.1.5.2 (DNA replication) and 3.1.6 (ATP). Section 3.1 is part of both the AS and the A-level, so everything here applies to either. Nothing in these three sections is marked as A-level only.
@@ -244,7 +244,7 @@ ATP is **resynthesised by the condensation of ADP and Pi**, catalysed by **ATP s
 - Writing "ATP contains energy" without saying that energy is released on hydrolysis.
 - Mixing up ATP hydrolase and ATP synthase.
 
-## Next steps
+## More on this topic
 
 Work through the [revision notes](/resources/aqa-a-level-biology-nucleic-acids-dna-replication-and-atp-revision-notes/), then the [practice questions](/resources/aqa-a-level-biology-nucleic-acids-dna-replication-and-atp-practice/).
 

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE
@@ -352,7 +352,7 @@ In the statement of financial position, show each partner's capital and current 
 - Sharing a loss equally when the ratio is different.
 - Starting from profit before the adjustments and loan interest.
 
-## Next steps
+## More on this topic
 
 Try the [partnership practice questions](/resources/igcse-accounting-financial-statements-of-partnerships-practice/), then revise from the [revision notes](/resources/igcse-accounting-financial-statements-of-partnerships-revision-notes/). For the wider topic see the [Topic 5 revision notes](/resources/igcse-accounting-financial-statements-revision-notes/) and [practice](/resources/igcse-accounting-financial-statements-practice/).
 

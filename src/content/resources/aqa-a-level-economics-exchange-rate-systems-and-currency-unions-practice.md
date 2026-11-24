@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -127,7 +127,7 @@ No. Buying the home currency uses foreign exchange reserves, which are limited, 
 **How do I evaluate a currency union question for AQA?**
 Apply the points to the country in the question and finish with a supported judgement on which factor dominates, rather than restating the list.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/aqa-a-level-economics-exchange-rate-systems-and-currency-unions-revision-notes/) and the [study guide](/resources/aqa-a-level-economics-exchange-rate-systems-and-currency-unions/).
 - Use the [printable checklist](/checklists/aqa/a-level/economics/) and the [AQA A-level Economics hub](/boards/aqa/a-level/economics/) to plan your next topic.

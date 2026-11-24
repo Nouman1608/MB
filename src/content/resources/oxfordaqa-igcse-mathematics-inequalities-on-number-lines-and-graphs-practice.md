@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -185,7 +185,7 @@ Both conditions: −3/2 < x ≤ 5, so the integers are **−1, 0, 1, 2, 3, 4, 5*
 - Drawing a solid line for a strict inequality or a dashed line for an included one.
 - Testing a point that is on the boundary line, so the region test tells you nothing.
 
-## Next steps
+## More on this topic
 
 - Review the method in the [revision notes](/resources/oxfordaqa-igcse-mathematics-inequalities-on-number-lines-and-graphs-revision-notes/) or the [study guide](/resources/oxfordaqa-igcse-mathematics-inequalities-on-number-lines-and-graphs/).
 - Visit the [OxfordAQA International GCSE Mathematics hub](/boards/oxfordaqa/igcse/mathematics/) and tick off topics on the [printable checklist](/checklists/oxfordaqa/igcse/mathematics/).

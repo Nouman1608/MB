@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -140,7 +140,7 @@ The overlapping schedule that gives 550 does not match "A then B" (450) or "B th
 11. So every client sees the same current data and it can be managed centrally.
 12. 150, when the correct value is 100.
 
-## Related resources
+## More resources on this topic
 
 - [Client server databases study guide](/resources/aqa-a-level-computer-science-7517-client-server-databases/)
 - [Client server databases practice questions](/resources/aqa-a-level-computer-science-7517-client-server-databases-practice/)

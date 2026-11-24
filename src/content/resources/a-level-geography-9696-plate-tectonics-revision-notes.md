@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -135,7 +135,7 @@ Jigsaw fit of continents, matching rocks and fossils across oceans, sea-floor ag
 
 **Answers:** 1. The crust and rigid upper mantle, divided into plates. 2. Slab pull, ridge push or mantle convection. 3. An ocean trench and a volcanic island arc. 4. No magma source: plates slide past without subduction or divergence. 5. Age of ocean floor increasing away from ridges, or magnetic stripes. 6. Fold mountains. 7. The cold, dense edge of a subducting plate sinks and pulls the plate after it. 8. Their magma is viscous and gas-rich. 9. The East African Rift Valley. 10. The sloping zone of earthquakes along a subducting plate. 11. The plate moves over a fixed plume, so new volcanoes form while older ones are carried away. 12. Continental crust is too buoyant to subduct, so there is compression but little melting.
 
-## Related resources
+## More resources on this topic
 
 - [Core Physical Geography study guide](/resources/a-level-cambridge-geography-core-physical-geography/)
 - [Paper 1 core revision notes (overview)](/resources/a-geography-physical-revision-notes/)

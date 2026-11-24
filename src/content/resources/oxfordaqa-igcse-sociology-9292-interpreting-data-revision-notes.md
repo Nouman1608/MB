@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -142,7 +142,7 @@ the other. 10. Identify themes; quote evidence; interpret meanings; consider the
 limitations. 11. People may change their behaviour because they know they are being watched (the
 Hawthorne effect). 12. 15 ÷ 100 × 200 = 30 people.
 
-## Related resources
+## More resources on this topic
 
 - [Interpreting data: study guide](/resources/oxfordaqa-igcse-sociology-9292-interpreting-data/)
 - [Interpreting data: practice questions](/resources/oxfordaqa-igcse-sociology-9292-interpreting-data-practice/)

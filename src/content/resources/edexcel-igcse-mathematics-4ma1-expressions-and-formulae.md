@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -181,7 +181,7 @@ Squaring T/(2π) gives T²/(4π²), not T²/(2π). This is the most common slip 
 - **"Find the value of"** after a rearrangement: use your rearranged formula, but you can check by substituting back into the original.
 - If a part says **"Hence"**, use the formula from the previous part.
 
-## Next steps
+## More on this topic
 
 Use the [expressions and formulae revision notes](/resources/edexcel-igcse-mathematics-4ma1-expressions-and-formulae-revision-notes/) for recall, then try the [expressions and formulae practice questions](/resources/edexcel-igcse-mathematics-4ma1-expressions-and-formulae-practice/). Rearranging uses the same balancing steps as solving equations, covered in the [linear equations study guide](/resources/edexcel-igcse-mathematics-4ma1-linear-equations/).
 

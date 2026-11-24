@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -142,7 +142,7 @@ These questions cover section **3.3.5.2 Oxidation of alcohols** of the AQA AS an
 - Missing the "no change" observation for a ketone.
 - Forgetting that a secondary alcohol stops at the ketone.
 
-## Next steps
+## More on this topic
 
 - [Oxidation of alcohols revision notes](/resources/aqa-a-level-chemistry-7405-oxidation-of-alcohols-revision-notes/)
 - [Elimination practice questions](/resources/aqa-a-level-chemistry-7405-elimination-alcohols-practice/)

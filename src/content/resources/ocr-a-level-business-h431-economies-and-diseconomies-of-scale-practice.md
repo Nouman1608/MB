@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -124,7 +124,7 @@ Evaluation: the saving is modest relative to the combined paper bill of £800,00
 - Assuming that lower average cost always means higher profit, without checking demand.
 - Evaluating with only the benefits and not the costs and risks of growth.
 
-## Next steps
+## More on this topic
 
 - Revisit the [economies and diseconomies of scale study guide](/resources/ocr-a-level-business-h431-economies-and-diseconomies-of-scale/) for any gaps.
 - Return to the [OCR A Level Business hub](/boards/ocr/a-level/business/).

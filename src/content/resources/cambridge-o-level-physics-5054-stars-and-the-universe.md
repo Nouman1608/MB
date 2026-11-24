@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -144,7 +144,7 @@ Each link earns credit, so do not jump from "redshift" straight to "Big Bang".
 - **Compare** (two redshifts): say which is greater and what that implies about speed and distance.
 - **Describe, qualitatively** (Big Bang): a linked chain, not a single sentence.
 
-## Related resources
+## More resources on this topic
 
 - [Stars and the Universe revision notes](/resources/cambridge-o-level-physics-5054-stars-and-the-universe-revision-notes/)
 - [Stars and the Universe practice questions](/resources/cambridge-o-level-physics-5054-stars-and-the-universe-practice/)

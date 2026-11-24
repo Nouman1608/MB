@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -150,7 +150,7 @@ A path difference of 1.5λ, for sources in phase, gives destructive interference
 - **Calculate** or **determine**: write λ = ax/D, convert units, substitute, and give the answer to a sensible number of significant figures with a unit.
 - **Suggest** (why minima are not completely dark or silent): unequal amplitudes, reflections or background noise.
 
-## Related resources
+## More resources on this topic
 
 - [Superposition study guide](/resources/as-physics-superposition/) — the whole of Topic 8
 - [Interference revision notes](/resources/cambridge-a-level-physics-9702-as-interference-revision-notes/)

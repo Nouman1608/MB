@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -171,7 +171,7 @@ Links: [identification of common gases study guide](/resources/oxfordaqa-igcse-c
 - Naming ions (chloride, ammonium) where the question asks for a gas.
 - Treating a splint going out as proof of carbon dioxide.
 
-## Next steps
+## More on this topic
 
 - Revise the method behind each test in the [identification of common gases study guide](/resources/oxfordaqa-igcse-chemistry-9202-identification-of-common-gases/).
 - Recheck your recall with the [identification of common gases revision notes](/resources/oxfordaqa-igcse-chemistry-9202-identification-of-common-gases-revision-notes/).

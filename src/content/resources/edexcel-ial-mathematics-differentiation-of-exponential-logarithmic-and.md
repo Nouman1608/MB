@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide is aligned to the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics specification (Issue 3, April 2019). It covers Unit P3: Pure Mathematics 3, section 4 (Differentiation, 4.1 to 4.4). The specification states that P3 and P4 are compulsory for IAL Mathematics and Pure Mathematics, and that P3 has no IAS weighting (it is not part of IAS). There are no tiers inside this content.
@@ -275,7 +275,7 @@ By the chain rule, the derivative of ln f(x) is f′(x)/f(x).
 **What are the derivatives of sec x, cosec x and cot x?**
 d/dx(sec x) = sec x tan x, d/dx(cosec x) = −cosec x cot x and d/dx(cot x) = −cosec² x. They can be rebuilt from the quotient and chain rules if forgotten.
 
-## Next steps
+## More on this topic
 
 Rebuild each derivative from memory, then test yourself with the [revision notes](/resources/edexcel-ial-mathematics-differentiation-of-exponential-logarithmic-and-revision-notes/) and try the [practice questions](/resources/edexcel-ial-mathematics-differentiation-of-exponential-logarithmic-and-practice/).
 

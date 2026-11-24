@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-29
 featured: false
 ---
@@ -166,7 +166,7 @@ Assess which option would be most effective in reducing child poverty in Tamswor
 - Ending with "it depends" and no clear judgement.
 - In Team Project answers, giving no way to evidence or measure the action.
 
-## Next steps
+## More on this topic
 
 - Re-read the section on judging sources in the [study guide](/resources/igcse-global-perspectives-0457-poverty-and-inequality/).
 - Plan your coursework with the [Individual Report practice](/resources/igcse-global-perspectives-individual-report-practice/) and [Team Project practice](/resources/igcse-global-perspectives-team-project-practice/).

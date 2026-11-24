@@ -26,7 +26,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-21
 featured: false
 ---
@@ -187,7 +187,7 @@ Yes, for 2026–2027 the two syllabuses share the same structure.
 Cambridge O Level Islamiyat 2058 syllabus for 2026 and 2027, version 1 —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/697279-2026-2027-syllabus.pdf).
 
-## Related resources
+## More resources on this topic
 
 - [Paper 1: Revision Notes](/resources/o-level-islamiyat-paper-1-revision-notes/) —
   condensed recall notes on the real Q1–Q5 question structure and mark

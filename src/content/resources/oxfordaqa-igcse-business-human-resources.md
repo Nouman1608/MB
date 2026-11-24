@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers section 3.4 Human resources of the OxfordAQA International GCSE Business (9225) specification, version 3.1, for exams from May/June 2022 onwards. The specification lists this topic as number 4 in its subject content. The official text divides it into four parts, set out in the map below. Human resources is assessed on Paper 1, which the specification titles as the influences of operations and human resources on business activity. All businesses and figures are invented. The [course hub](/boards/oxfordaqa/igcse/business/), [printable checklist](/checklists/oxfordaqa/igcse/business/) and [free diagnostics](/diagnostics/) cover the rest of the course. The [revision notes](/resources/oxfordaqa-igcse-business-human-resources-revision-notes/) and [practice questions](/resources/oxfordaqa-igcse-business-human-resources-practice/) go with this page.
@@ -229,7 +229,7 @@ Induction training introduces a new employee to the business, covering the layou
 **How do you calculate commission on sales above a target?**
 Subtract the target from total sales to find the sales that qualify, multiply by the commission rate, then add any basic salary. Applying the rate to all sales is a common error.
 
-## Next steps
+## More on this topic
 
 Condense this guide with the [revision notes](/resources/oxfordaqa-igcse-business-human-resources-revision-notes/), then test yourself with the [practice questions](/resources/oxfordaqa-igcse-business-human-resources-practice/).
 

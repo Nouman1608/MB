@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches topic 8, Machine code and assembly language, from Version 1.1 of OxfordAQA's International AS and A-level Computer Science (9645) specification (it applies to International AS exams in May/June 2025 and later, and to International A-level exams in May/June 2026 and later). The sections taught are sections 3.8.1 and 3.8.2. The whole topic is International AS content. The assessment overview puts it in the written paper for Unit 2 (Concepts and principles of computer science), which means it also counts towards the full International A-level.
@@ -238,7 +238,7 @@ memory[84] ← total
 - Forgetting that shifted-out bits are lost in a fixed-size register.
 - Using registers above R12.
 
-## Next steps
+## More on this topic
 
 Check what you remember using the [revision notes](/resources/oxfordaqa-a-level-computer-science-machine-code-and-assembly-language-revision-notes/), then try the [practice set](/resources/oxfordaqa-a-level-computer-science-machine-code-and-assembly-language-practice/). The [topic 6 notes](/resources/oxfordaqa-a-level-computer-science-computer-systems-revision-notes/) cover assemblers and low-level languages, and the [exam preparation page](/resources/oxfordaqa-a-level-computer-science-exam-preparation/) deals with exam technique.
 

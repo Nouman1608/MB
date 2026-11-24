@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -147,7 +147,7 @@ This set covers **section 2.12 (AHL only)** of IB DP Mathematics: Analysis and A
 - Leaving out the scaling constant when building a polynomial from its zeros.
 - Not stating "conjugate" as the reason for the extra complex roots.
 
-## Next steps
+## More on this topic
 
 - Return to the [polynomials study guide](/resources/ib-dp-mathematics-analysis-and-approaches-2-12/) for any method you found difficult.
 - Use factorised polynomials to solve inequalities in the [inequalities g(x) ≥ f(x) practice set](/resources/ib-dp-mathematics-analysis-and-approaches-2-15-practice/).

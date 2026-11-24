@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -133,7 +133,7 @@ Field example: solar rent 11,500 chosen; barley 9,000; sheep 7,200 → opportuni
 
 **Answers:** 1. Land, labour, capital, enterprise. 2. Capital. 3. Enterprise and labour. 4. Wages are a payment for labour, not a factor. 5. The difference between the selling price of a product and the cost of the bought-in materials or inputs used to make it. 6. 45.00 − 27.50 = 17.50. 7. Wages, rent and other costs must still be paid out of added value. 8. Any two: branding, better quality or design, convenience, better service, unique features, packaging. 9. That total added value (per-unit added value × the new sales volume) is higher. 10. The benefit of the next best alternative given up when a choice is made. 11. 2,600. 12. For example, the owner's time spent on paperwork instead of selling, or a field used for one crop instead of another.
 
-## Related resources
+## More resources on this topic
 
 - [Business activity study guide](/resources/cambridge-igcse-business-0264-business-activity/)
 - [Business activity practice questions](/resources/cambridge-igcse-business-0264-business-activity-practice/)

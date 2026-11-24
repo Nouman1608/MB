@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -126,7 +126,7 @@ Attempt Questions 1 to 4 from memory first, then check them against the lists in
 - Listing effects on a decision without saying who gains and who loses
 - Leaving out a conclusion in a discuss question
 
-## Next steps
+## More on this topic
 
 - Revisit the [study guide](/resources/oxfordaqa-igcse-accounting-internal-and-external-stakeholders/) for the full explanations
 - Use the [revision notes](/resources/oxfordaqa-igcse-accounting-internal-and-external-stakeholders-revision-notes/) for a quick recap

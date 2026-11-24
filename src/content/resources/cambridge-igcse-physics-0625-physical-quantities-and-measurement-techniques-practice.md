@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -169,6 +169,6 @@ Related: [study guide on physical quantities and measurement techniques](/resour
 - *(Extended)* Adding perpendicular vectors as plain numbers.
 - *(Extended)* Giving an angle without saying what it is measured from.
 
-## Next steps
+## More on this topic
 
 Revise with the [revision notes on physical quantities and measurement techniques](/resources/cambridge-igcse-physics-0625-physical-quantities-and-measurement-techniques-revision-notes/), then move on to the [practice questions on motion](/resources/cambridge-igcse-physics-0625-motion-practice/).

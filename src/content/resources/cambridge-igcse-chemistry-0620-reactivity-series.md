@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -178,7 +178,7 @@ How this appears in experiments: when aluminium foil is added to dilute hydrochl
 - **Explain:** link each observation to the metal's position, for example "copper is below hydrogen, so it cannot displace hydrogen from the acid".
 - **Deduce:** quote the data: "X has the largest temperature rise, so it is the most reactive".
 
-## Related resources
+## More resources on this topic
 
 - [Reactivity series revision notes](/resources/cambridge-igcse-chemistry-0620-reactivity-series-revision-notes/) and [practice questions](/resources/cambridge-igcse-chemistry-0620-reactivity-series-practice/)
 - [Properties of metals study guide](/resources/cambridge-igcse-chemistry-0620-properties-of-metals/), for the general reactions of metals

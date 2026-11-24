@@ -22,6 +22,7 @@ publishedDate: 2026-09-29
 featured: false
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
+reviewNote: "2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 reviewedDate: 2026-10-09
 ---
 
@@ -143,7 +144,7 @@ Revise first with the [Environmental risks study guide](/resources/igcse-geograp
 - Case study answers with no place names, dates or evidence.
 - Writing about management without judging how far it has succeeded.
 
-## Next steps
+## More on this topic
 
 - Check gaps in your knowledge with our [diagnostics](/diagnostics/).
 - Link this topic to farming in the [Food production practice questions](/resources/igcse-geography-0460-food-production-practice/) and to factories in the [Industry practice questions](/resources/igcse-geography-0460-industry-practice/).

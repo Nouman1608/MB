@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -123,7 +123,7 @@ These questions cover section 11.6 (outcomes 11.6.1 to 11.6.3) of the Cambridge 
 - Giving the net effect of trade diversion without saying why it is a loss.
 - Stopping an essay at costs and gains with no weighing of which matters more and why.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/cambridge-a-level-economics-globalisation-trading-blocs-trade-creation-and-revision-notes/) and re-read the [study guide](/resources/cambridge-a-level-economics-globalisation-trading-blocs-trade-creation-and/).
 - Check your coverage on the [Cambridge A Level Economics checklist](/checklists/cambridge/a-level/economics/) and the [course hub](/boards/cambridge/a-level/economics/).

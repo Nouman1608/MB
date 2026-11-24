@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -170,7 +170,7 @@ These questions cover section 3.6.2 (simple harmonic motion) of the OxfordAQA In
 - Drawing Ek and Ep against time with period T rather than T/2.
 - Reading a gradient off a chord instead of a tangent.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/oxfordaqa-a-level-physics-simple-harmonic-motion-equations-graphs-and-energy-revision-notes/) and the [study guide](/resources/oxfordaqa-a-level-physics-simple-harmonic-motion-equations-graphs-and-energy/).
 - Go to the [OxfordAQA A-level Physics hub](/boards/oxfordaqa/a-level/physics/) and tick off the [printable checklist](/checklists/oxfordaqa/a-level/physics/).

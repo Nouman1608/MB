@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This guide is written for the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1 (for exams May/June 2018 onwards). It covers statements G23, G24, G25 and G26 in section 3.3.3, Transformations, Matrices and Vectors. All four appear only in the Extension content column, so every skill here is **Extension only**. The specification says all content can be assessed on the Extension papers. It also says the use of i and j notation is not required, so this guide does not use it.
 
@@ -319,7 +319,7 @@ Two rotations of 90° make a rotation of 180°. A reflection done twice gives th
 - Describing a transformation without its full detail, such as "rotation" with no angle, direction or centre.
 - Putting a column on the left of a matrix. A column always goes on the right.
 
-## Next steps
+## More on this topic
 
 Use the [revision notes](/resources/oxfordaqa-igcse-mathematics-matrices-and-matrix-transformations-revision-notes/) for the quick-recall version, then test yourself with the [practice questions](/resources/oxfordaqa-igcse-mathematics-matrices-and-matrix-transformations-practice/).
 

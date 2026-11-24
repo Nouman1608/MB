@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -188,7 +188,7 @@ Only if the graph passes through the origin. If it does not, such as a charge wi
 **How do you find the gradient of a tangent accurately?**
 Choose two points on the tangent line itself, far apart, not points on the curve. Tangent gradients are Extended content in Cambridge IGCSE Mathematics 0580 subtopic 2.9.
 
-## Next steps
+## More on this topic
 
 - Review the explanations in the [graphs in practical situations study guide](/resources/igcse-mathematics-0580-graphs-in-practical-situations/).
 - Recap the whole topic with the [Algebra and graphs revision notes](/resources/igcse-mathematics-algebra-and-graphs-revision-notes/) and the [Algebra and graphs study guide](/resources/igcse-mathematics-algebra-and-graphs/).

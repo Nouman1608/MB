@@ -19,7 +19,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 featured: false
 ---
@@ -270,7 +270,7 @@ The 5054 syllabus describes friction as a force that may impede motion and produ
 **Where are moments and centre of gravity covered for 5054?**
 The elastic deformation, moments and centre of gravity parts of subtopic 1.5 are covered on the Elastic Deformation, Moments and Centre of Gravity page.
 
-## Related resources
+## More resources on this topic
 
 - [Kinematics and Motion Graphs](/resources/kinematics/) — the motion
 these forces act on

@@ -22,7 +22,7 @@ reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -176,7 +176,7 @@ These questions cover statements P2.3g to P2.3j and P2.3n to P2.3o of Topic P2 F
 - Saying the force from fluid pressure is "along" the surface rather than at right angles to it.
 - Treating the hydraulic force gain as free: the small piston moves further.
 
-## Next steps
+## More on this topic
 
 - Read the [revision notes](/resources/ocr-gcse-physics-gravity-weight-and-pressure-force-in-fluids-revision-notes/) and the [study guide](/resources/ocr-gcse-physics-gravity-weight-and-pressure-force-in-fluids/).
 - Return to the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/) and tick off the [printable checklist](/checklists/ocr/gcse/physics/).

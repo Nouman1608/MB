@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "asif-iqbal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -140,7 +140,7 @@ Why it works: it uses ratios from both years, explains causes from the statement
 - Saying a ratio is "good" or "bad" with no comparison.
 - Describing a change ("fell by 2 points") with no cause or consequence.
 
-## Next steps
+## More on this topic
 
 Condense this with the [accounts analysis revision notes](/resources/edexcel-igcse-business-4bs1-accounts-analysis-revision-notes/), then try the [accounts analysis practice questions](/resources/edexcel-igcse-business-4bs1-accounts-analysis-practice/).
 

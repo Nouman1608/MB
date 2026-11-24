@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -187,7 +187,7 @@ because the specification requires you to test for full.
 - Treating peek as removing the item.
 - Forgetting to test for an empty stack before pop, which is underflow.
 
-## Next steps
+## More on this topic
 
 - [Stacks revision notes](/resources/oxfordaqa-a-level-computer-science-9645-stacks-revision-notes/)
 - [Stacks practice questions](/resources/oxfordaqa-a-level-computer-science-9645-stacks-practice/)

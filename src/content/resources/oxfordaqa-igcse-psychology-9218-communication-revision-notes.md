@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -180,7 +180,7 @@ shaped by learning and culture.
     depended more on the mouth.
 12. Participants were students from two countries, so the results may not represent whole cultures.
 
-## Related resources
+## More resources on this topic
 
 - [Communication practice questions](/resources/oxfordaqa-igcse-psychology-9218-communication-practice/)
 - [Mental Health revision notes](/resources/oxfordaqa-igcse-psychology-9218-mental-health-revision-notes/)

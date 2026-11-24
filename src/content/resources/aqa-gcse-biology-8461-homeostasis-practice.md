@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -159,7 +159,7 @@ answer. **[6]**
 - Linking water control to enzymes instead of osmosis.
 - Definitions that mention only temperature.
 
-## Next steps
+## More on this topic
 
 - [Homeostasis study guide](/resources/aqa-gcse-biology-8461-homeostasis/)
 - [Homeostasis revision notes](/resources/aqa-gcse-biology-8461-homeostasis-revision-notes/)

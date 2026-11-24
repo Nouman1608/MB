@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -152,7 +152,7 @@ The two graphs are reflections of each other in y = x, because each function is 
 
 **12.** eˣ(eˣ − 3) = 0; eˣ ≠ 0, so eˣ = 3 and x = ln 3.
 
-## Related resources
+## More resources on this topic
 
 - [P3 exponentials and logarithms study guide](/resources/edexcel-a-level-mathematics-yma01-p3-exponentials-and-logarithms/)
 - [P3 exponentials and logarithms practice questions](/resources/edexcel-a-level-mathematics-yma01-p3-exponentials-and-logarithms-practice/)

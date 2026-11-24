@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches section 1.2, Cells as the basic units of living organisms, from Topic 1 Cell structure of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It works through all seven learning outcomes in 1.2. This is AS Level content: it is examined on Paper 1 (Multiple Choice) and Paper 2 (AS Level Structured Questions), and Paper 4 can draw on it because A Level questions need knowledge of the AS content. Microscope skills from section 1.1 are covered in the topic-level pages linked below.
@@ -253,7 +253,7 @@ A virus has no cytoplasm, no ribosomes and no cell surface membrane of its own. 
 - Saying a virus has a cell wall or a cell membrane. The envelope is phospholipid, but the virus is not a cell.
 - Labelling a lysosome as a ribosome. Ribosomes are much smaller and have no membrane.
 
-## Next steps
+## More on this topic
 
 - [1.2 revision notes](/resources/a-level-biology-9700-cells-as-the-basic-units-of-living-organisms-revision-notes/) for quick recall
 - [1.2 practice questions](/resources/a-level-biology-9700-cells-as-the-basic-units-of-living-organisms-practice/) with mark-by-mark answers

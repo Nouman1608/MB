@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -217,7 +217,7 @@ Common errors include discounting the year-0 outlay or forgetting to deduct it, 
 **What does a strong investment appraisal evaluation include?**
 Use the figures, include at least one non-financial factor, and end with a decision justified by the figures. "It depends" with no choice does not earn the final mark.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/aqa-a-level-accounting-capital-investment-appraisal-revision-notes/)
 - [Study guide](/resources/aqa-a-level-accounting-capital-investment-appraisal/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -186,6 +186,6 @@ In each, the **change in momentum is the same**; only the time changes.
 - **Calculate**: state the positive direction, write "momentum before = momentum after", substitute, and give magnitude, unit and direction.
 - **Explain** a safety feature: use the chain "longer time → same change in momentum → smaller rate of change of momentum → smaller force", and name F = Δp/Δt.
 
-## Next steps
+## More on this topic
 
 Revise with the [revision notes on momentum](/resources/cambridge-igcse-physics-0625-momentum-revision-notes/) and try the [practice questions on momentum](/resources/cambridge-igcse-physics-0625-momentum-practice/). Resultant force and acceleration are covered in the [study guide on forces](/resources/cambridge-igcse-physics-0625-forces/), and kinetic energy in the [study guide on energy, work and power](/resources/cambridge-igcse-physics-0625-energy-work-and-power/).

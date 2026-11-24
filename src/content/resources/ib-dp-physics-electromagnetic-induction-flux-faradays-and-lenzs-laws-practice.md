@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -134,7 +134,7 @@ These questions practise **sub-topic D.4, Induction**, from the IB Diploma Progr
 - Writing that emf is maximum when flux is maximum for a rotating coil.
 - Not linking induced current to a force and to work done.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ib-dp-physics-electromagnetic-induction-flux-faradays-and-lenzs-laws-revision-notes/) and the [study guide](/resources/ib-dp-physics-electromagnetic-induction-flux-faradays-and-lenzs-laws/).
 - Return to the [IB Physics hub](/boards/ib/ib-dp/physics/) and the [printable checklist](/checklists/ib/ib-dp/physics/).

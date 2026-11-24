@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -164,7 +164,7 @@ D: 5 µm
 - Squaring the size factor when it is the ratio that is asked for: a side 10 times smaller gives a ratio 10 times larger.
 - Treating nanoparticles as a different substance from the bulk material.
 
-## Next steps
+## More on this topic
 
 - Review weak areas in the [nanoparticles study guide](/resources/oxfordaqa-igcse-chemistry-9202-nanoparticles/).
 - Move on to the [purity and chromatography practice questions](/resources/oxfordaqa-igcse-chemistry-9202-purity-and-chromatography-practice/).

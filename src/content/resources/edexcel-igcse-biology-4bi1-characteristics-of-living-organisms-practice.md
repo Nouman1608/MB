@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -128,7 +128,7 @@ Explain why a mule is still classified as a living organism, and why the charact
 - Saying that plants do not move or respond.
 - Treating one or two characteristics as enough to call something alive.
 
-## Next steps
+## More on this topic
 
 - Revise with the [Topic 1 revision notes](/resources/igcse-edexcel-biology-nature-variety-revision-notes/).
 - Re-read the [characteristics of living organisms study guide](/resources/edexcel-igcse-biology-4bi1-characteristics-of-living-organisms/).

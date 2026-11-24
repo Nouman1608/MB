@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches **sub-topic A.5, Galilean and special relativity**, from Topic A of the IB *Physics guide*, first assessment 2025. The guide places all of A.5 in the additional higher level (AHL) content, so everything here is **HL only**; A.5 has no standard level part. Derivations of the Lorentz transformations, velocity addition, time dilation and length contraction are not required, so the focus is on using the results.
@@ -244,7 +244,7 @@ Both explanations agree: time dilation in the Earth frame, length contraction in
 - Drawing x′ perpendicular to ct′, or tilting it away from the light line instead of towards it.
 - Saying the object "really shrinks" or a clock "really breaks"; measurements differ because the frames differ.
 
-## Next steps
+## More on this topic
 
 Try the [practice questions](/resources/ib-dp-physics-galilean-and-special-relativity-frames-lorentz-practice/), then condense with the [revision notes](/resources/ib-dp-physics-galilean-and-special-relativity-frames-lorentz-revision-notes/). Check coverage on the [printable checklist](/checklists/ib/ib-dp/physics/) and test yourself with the [free diagnostics](/diagnostics/).
 

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -193,6 +193,6 @@ These questions cover syllabus section 3.6 of IB DP Mathematics: Analysis and Ap
 - Losing a root of a quadratic in sin x, such as sin x = 1 in question 7.
 - Decimal answers where exact values are required.
 
-## Next steps
+## More on this topic
 
 Revisit any method in the [3.6 study guide](/resources/ib-dp-mathematics-analysis-and-approaches-3-6/), then try mixed questions across the unit in the [circular functions practice questions](/resources/ib-dp-mathematics-aa-circular-functions-trig-identities-practice/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -155,7 +155,7 @@ Learn the methods first in the [standard form study guide](/resources/cambridge-
 
 Work out A and the power of 10 separately, then tidy. On calculator questions, enter each number with the ×10ˣ key and write down the full display before rounding A. In context questions, convert units first, decide whether the answer should be large or small, and check the power of 10 against that expectation.
 
-## Next steps
+## More on this topic
 
 - Review the rules in the [standard form revision notes](/resources/cambridge-igcse-mathematics-0580-standard-form-revision-notes/).
 - Mixed Topic 1 practice: [Number (Extended) practice questions](/resources/igcse-mathematics-number-extended-practice/).

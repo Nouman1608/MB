@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -164,7 +164,7 @@ Work through the [study guide](/resources/ocr-a-level-chemistry-practical-skills
 - Writing "voltmeter" without "high-resistance".
 - Treating a weak acid as fully dissociated in a pH calculation.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/ocr-a-level-chemistry-practical-skills-practical-endorsement-revision-notes/)
 - [Study guide](/resources/ocr-a-level-chemistry-practical-skills-practical-endorsement/)

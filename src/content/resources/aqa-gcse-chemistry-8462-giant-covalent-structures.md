@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -229,7 +229,7 @@ The comparison works best when each sentence has a matching pair: structure, for
 - **Identify from a diagram:** say it is a network that continues, with every atom bonded.
 - **Formula:** give the ratio of atoms and show the working.
 
-## Next steps
+## More on this topic
 
 - [Giant covalent structures revision notes](/resources/aqa-gcse-chemistry-8462-giant-covalent-structures-revision-notes/)
 - [Giant covalent structures practice questions](/resources/aqa-gcse-chemistry-8462-giant-covalent-structures-practice/)

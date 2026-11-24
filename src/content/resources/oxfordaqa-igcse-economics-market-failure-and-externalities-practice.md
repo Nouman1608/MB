@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -149,7 +149,7 @@ These questions follow specification references 3.1.6.1 and 3.1.6.2 in OxfordAQA
 - Naming a policy without saying how it changes costs or behaviour.
 - Giving one-sided answers to an evaluate question.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/oxfordaqa-igcse-economics-market-failure-and-externalities-revision-notes/) and the [study guide](/resources/oxfordaqa-igcse-economics-market-failure-and-externalities/).
 - Visit the [course hub](/boards/oxfordaqa/igcse/economics/) and the [checklist](/checklists/oxfordaqa/igcse/economics/).

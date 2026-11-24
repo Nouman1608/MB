@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -131,7 +131,7 @@ Links: [course hub](/boards/oxfordaqa/a-level/mathematics/), [checklist](/checkl
 - Leaving out roots when the interval is longer than 0° to 360°, or mis-handling the negative angles in question 10.
 - Losing the lower-limit term in a definite integral involving cos 2x.
 
-## Next steps
+## More on this topic
 
 - Condense the topic with the [revision notes](/resources/oxfordaqa-a-level-mathematics-compound-and-double-angle-formulae-r-form-identities-revision-notes/).
 - Read the full explanations in the [study guide](/resources/oxfordaqa-a-level-mathematics-compound-and-double-angle-formulae-r-form-identities/).

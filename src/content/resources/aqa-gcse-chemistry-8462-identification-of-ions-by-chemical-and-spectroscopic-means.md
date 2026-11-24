@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -232,7 +232,7 @@ them apart.*
 - Carbonate testing links to **acids and gas tests**.
 - Flame emission spectroscopy links to **electron energy levels**: each element emits its own pattern of light.
 
-## Next steps
+## More on this topic
 
 - [Chemical analysis revision notes](/resources/aqa-gcse-chemistry-8462-chemical-analysis-revision-notes/)
 - [Identification of ions practice questions](/resources/aqa-gcse-chemistry-8462-identification-of-ions-by-chemical-and-spectroscopic-means-practice/)

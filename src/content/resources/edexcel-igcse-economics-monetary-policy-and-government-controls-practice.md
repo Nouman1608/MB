@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -169,7 +169,7 @@ To find what a home export costs abroad, multiply its home price by the exchange
 **What do you need for a good evaluation of monetary policy in Edexcel IGCSE Economics?**
 Give both sides, use the data in the question, and reach a verdict. Say what the outcome depends on, such as whether inflation is demand-pull or cost-push, how much debt is on variable rates and how long the time lag is.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/edexcel-igcse-economics-monetary-policy-and-government-controls-revision-notes/) and re-read the [study guide](/resources/edexcel-igcse-economics-monetary-policy-and-government-controls/).
 - Check your coverage on the [printable checklist](/checklists/edexcel/igcse/economics/) and the [course hub](/boards/edexcel/igcse/economics/).

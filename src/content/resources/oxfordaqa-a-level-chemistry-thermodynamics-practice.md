@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -235,7 +235,7 @@ not explain why an endothermic change happens.
 - Stating a temperature without saying whether the reaction is feasible above or below it.
 - Setting the absolute entropy of an element to zero.
 
-## Next steps
+## More on this topic
 
 - [Thermodynamics revision notes](/resources/oxfordaqa-a-level-chemistry-thermodynamics-revision-notes/)
 - [Thermodynamics study guide](/resources/oxfordaqa-a-level-chemistry-thermodynamics/)

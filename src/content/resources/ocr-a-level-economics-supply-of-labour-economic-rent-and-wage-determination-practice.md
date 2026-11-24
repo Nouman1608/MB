@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -172,7 +172,7 @@ Employment falls to the amount firms demand at the higher wage while more worker
 **Why can a backward-bending labour supply curve occur?**
 As the wage rises, the substitution effect encourages more work, but the income effect lets people afford more leisure. At higher wages the income effect may dominate, so hours offered fall; say which effect dominates in each range.
 
-## Next steps
+## More on this topic
 
 - Recall with the [revision notes](/resources/ocr-a-level-economics-supply-of-labour-economic-rent-and-wage-determination-revision-notes/) and re-read the [study guide](/resources/ocr-a-level-economics-supply-of-labour-economic-rent-and-wage-determination/).
 - Course pages: the [OCR Economics hub](/boards/ocr/a-level/economics/) and the [checklist](/checklists/ocr/a-level/economics/).

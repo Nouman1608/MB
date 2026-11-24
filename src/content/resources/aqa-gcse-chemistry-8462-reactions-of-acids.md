@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -229,7 +229,7 @@ hydrogen ion concentration in Y? The pH difference is 3, so the factor is 10 × 
 - Forgetting that excess solid, not excess acid, is used in the soluble salt method.
 - Saying that pH 1 has twice the H⁺ of pH 2. It has ten times.
 
-## Next steps
+## More on this topic
 
 - [Reactions of acids revision notes](/resources/aqa-gcse-chemistry-8462-reactions-of-acids-revision-notes/)
 - [Reactions of acids practice questions](/resources/aqa-gcse-chemistry-8462-reactions-of-acids-practice/)

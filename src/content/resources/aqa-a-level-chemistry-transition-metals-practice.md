@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -186,7 +186,7 @@ Using λ in nm instead of m in ΔE = hc/λ, and forgetting to divide ΔS by 1000
 **What ratios are used in manganate(VII) titrations?**
 MnO₄⁻ reacts with Fe²⁺ in a 1 : 5 ratio and with C₂O₄²⁻ or H₂O₂ in a 2 : 5 ratio. Also remember to scale up from the titrated portion to the full volumetric flask.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/aqa-a-level-chemistry-transition-metals-revision-notes/).
 - Re-read any weak section in the [study guide](/resources/aqa-a-level-chemistry-transition-metals/).

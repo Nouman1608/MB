@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -153,7 +153,7 @@ Name a specific reason from the Edexcel specification, such as habit, poor calcu
 **What are the most common mistakes in Edexcel IGCSE Economics PPF questions?**
 Common slips include treating a point inside the curve as unobtainable, showing growth as a movement along the curve instead of a shift, and naming a cause of growth without linking it to resources and output.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/edexcel-igcse-economics-scarcity-opportunity-cost-the-ppf-and-economic-revision-notes/) and the [study guide](/resources/edexcel-igcse-economics-scarcity-opportunity-cost-the-ppf-and-economic/).
 - Go to the [Edexcel IGCSE Economics hub](/boards/edexcel/igcse/economics/) and tick off the [checklist](/checklists/edexcel/igcse/economics/).

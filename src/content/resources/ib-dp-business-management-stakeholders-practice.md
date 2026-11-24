@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -119,7 +119,7 @@ Recommend whether Mossgrave Dairy should accept the farmers' request and raise i
 - Ignoring the data in the stem when asked to discuss or recommend.
 - Ending a discuss or recommend answer without a reasoned judgment.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ib-dp-business-management-stakeholders-revision-notes/) and the [study guide](/resources/ib-dp-business-management-stakeholders/).
 - Go to the [course hub](/boards/ib/ib-dp/business/) and the [checklist](/checklists/ib/ib-dp/business/).

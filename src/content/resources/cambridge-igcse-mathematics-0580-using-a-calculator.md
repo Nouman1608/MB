@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -161,7 +161,7 @@ In part (a) copy every digit the display shows. If you round in part (a), you lo
 - **Give your answer in hours and minutes**: convert the decimal part of the hours by multiplying by 60.
 - **Give your answer in standard form**: write A × 10ⁿ with 1 ⩽ A < 10, never the calculator's E notation.
 
-## Next steps
+## More on this topic
 
 - Condensed keying rules and a self-test: the [using a calculator revision notes](/resources/cambridge-igcse-mathematics-0580-using-a-calculator-revision-notes/).
 - Exam-style questions with mark schemes: the [using a calculator practice questions](/resources/cambridge-igcse-mathematics-0580-using-a-calculator-practice/).

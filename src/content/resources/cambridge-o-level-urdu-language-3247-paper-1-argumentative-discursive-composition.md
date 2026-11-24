@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: An Urdu specialist should check that every Urdu title, connective and model paragraph on this page is correct and natural."
+reviewNote: "2026-11-17: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: An Urdu specialist should check that every Urdu title, connective and model paragraph on this page is correct and natural. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -199,7 +199,7 @@ That "only once" is a judgement, and a discursive essay without a judgement read
 - Leave time to check gender and number agreement, the ergative *نے* and spelling, since the
   language strand carries as many marks as content.
 
-## Related resources
+## More resources on this topic
 
 - [Argumentative and discursive composition: revision notes](/resources/cambridge-o-level-urdu-language-3247-paper-1-argumentative-discursive-composition-revision-notes/)
 - [Argumentative and discursive composition: practice](/resources/cambridge-o-level-urdu-language-3247-paper-1-argumentative-discursive-composition-practice/)

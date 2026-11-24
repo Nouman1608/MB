@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -248,7 +248,7 @@ P₄O₁₀ and SO₃ are simple molecular, so melting overcomes only intermolec
 **How are pH values for Period 3 oxide solutions marked?**
 A pH outside a reasonable range loses the mark even if the equation is correct. Also say that Al₂O₃ and SiO₂ are insoluble, rather than that they form a neutral solution.
 
-## Next steps
+## More on this topic
 
 - [Period 3 oxides revision notes](/resources/aqa-a-level-chemistry-properties-of-period-3-elements-and-their-oxides-revision-notes/)
 - [Period 3 oxides study guide](/resources/aqa-a-level-chemistry-properties-of-period-3-elements-and-their-oxides/)

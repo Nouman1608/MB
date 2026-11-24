@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please check the procedural details and figures given for the three bystander studies (particularly Levine's) against the course textbook."
+reviewNote: "2026-11-18: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please check the procedural details and figures given for the three bystander studies (particularly Levine's) against the course textbook. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -143,7 +143,7 @@ for the factors they test, see the
 12. Strength, any one: high control; standardised procedure. Weakness, any one: male students only;
     artificial setting; deception and possible distress.
 
-## Related resources
+## More resources on this topic
 
 - [Studies of bystander behaviour practice questions](/resources/oxfordaqa-igcse-psychology-9218-bystander-studies-practice/)
 - [Research methods for Paper 2 revision notes](/resources/oxfordaqa-igcse-psychology-9218-research-methods-paper2-revision-notes/)

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -210,7 +210,7 @@ Judgement: the view is mostly wrong; a simple budget with monthly comparison is 
 - Charging cash paid, not the expense incurred, in the income statement.
 - Writing an evaluation with no judgement.
 
-## Next steps
+## More on this topic
 
 - [Revision notes for this topic](/resources/oxfordaqa-a-level-accounting-budgeting-revision-notes/)
 - [Study guide for this topic](/resources/oxfordaqa-a-level-accounting-budgeting/)

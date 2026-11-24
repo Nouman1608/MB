@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -144,7 +144,7 @@ For r ≥ R, the graph of ϕ against r is a curve below the r-axis, starting at 
 - **Suggest** (why mgΔh is inaccurate): g decreases with height, so the field is not uniform over a large height change.
 - **Sketch** (ϕ against r): negative throughout, rising towards zero, steeper near the surface.
 
-## Related resources
+## More resources on this topic
 
 - [Gravitational Fields study guide](/resources/a-physics-gravitational-fields/) — the whole of Topic 13
 - [Gravitational potential revision notes](/resources/cambridge-a-level-physics-9702-a-gravitational-potential-revision-notes/)

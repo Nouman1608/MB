@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -155,7 +155,7 @@ No. A large firm in a competitive market is not a monopoly; size alone does not 
 **What should an assess question on market power include?**
 Explain how each cause reduces competition, consider both sides, and finish with a judgement rather than a one-sided answer.
 
-## Next steps
+## More on this topic
 
 - Read the [revision notes](/resources/aqa-gcse-economics-market-structures-competitive-and-non-competitive-revision-notes/) and re-read the [study guide](/resources/aqa-gcse-economics-market-structures-competitive-and-non-competitive/) for any question you missed.
 - Visit the [AQA GCSE Economics hub](/boards/aqa/gcse/economics/) and tick off topics on the [checklist](/checklists/aqa/gcse/economics/).

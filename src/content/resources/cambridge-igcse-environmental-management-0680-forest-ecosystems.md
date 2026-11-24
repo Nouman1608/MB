@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -146,6 +146,6 @@ Why it scores: every sentence links a step to the next, and the answer uses the 
 3. Explain genetic depletion. (Loss of genetic variety as populations shrink and species disappear.)
 4. Name the four water cycle processes the syllabus links to forests. (Interception, water uptake, transpiration, surface run-off.)
 
-## Next steps
+## More on this topic
 
 Condense this into the [Forest ecosystems revision notes](/resources/cambridge-igcse-environmental-management-0680-forest-ecosystems-revision-notes/), then test yourself with the [Forest ecosystems practice questions](/resources/cambridge-igcse-environmental-management-0680-forest-ecosystems-practice/).

@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -195,7 +195,7 @@ A **hemisphere** is half a sphere. Its volume is half the sphere's, so 2/3 πr³
 - Counting the hidden face between two joined solids in a surface area.
 - Dividing by 100 instead of 1000 for cm³ to litres.
 
-## Next steps
+## More on this topic
 
 Condense the facts with the [3D shapes and volume revision notes](/resources/edexcel-igcse-mathematics-4ma1-3d-shapes-and-volume-revision-notes/), then try the [3D shapes and volume practice questions](/resources/edexcel-igcse-mathematics-4ma1-3d-shapes-and-volume-practice/).
 

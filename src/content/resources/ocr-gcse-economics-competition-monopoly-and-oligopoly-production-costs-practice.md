@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -162,7 +162,7 @@ Not necessarily. Productivity is output per worker, so it rises only if output g
 **How do you write a good "evaluate" answer on competition?**
 Consider the effects on both producers and consumers, not consumers alone, and reach a supported judgement rather than giving a list.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/ocr-gcse-economics-competition-monopoly-and-oligopoly-production-costs-revision-notes/) and the [study guide](/resources/ocr-gcse-economics-competition-monopoly-and-oligopoly-production-costs/).
 - Check the [course hub](/boards/ocr/gcse/economics/) and the [checklist](/checklists/ocr/gcse/economics/).

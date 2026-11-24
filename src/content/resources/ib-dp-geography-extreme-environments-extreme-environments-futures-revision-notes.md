@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -129,6 +129,6 @@ Adaptation options include early warning systems and artificial lowering of dang
 
 **Answers:** 1. For example glacier retreat and permafrost thaw. 2. Thaw releases stored carbon, which strengthens warming and causes more thaw. 3. Changing rainfall and higher temperatures may intensify drought in some places. 4. A managed future adapts through cooperation and planning; business as usual leads to degradation. 5. For example diverse livelihoods or good governance. 6. The Arctic warming faster than the global average. 7. Warming melts snow and ice; a darker surface absorbs more energy; this causes more warming and melting. 8. The point after which glacier meltwater declines because the remaining ice is too small. 9. Retreating glaciers leave more lakes dammed by unstable moraine. 10. Benefit: shorter shipping routes; risk: oil spills or pressure on indigenous land. 11. Methane is a more powerful greenhouse gas over short periods, so it strengthens the feedback. 12. For example an early warning system or artificially lowering the lake level.
 
-## Related resources
+## More resources on this topic
 
 - [Option C: Extreme environments study guide](/resources/ib-dp-geography-extreme-environments-study-guide/)

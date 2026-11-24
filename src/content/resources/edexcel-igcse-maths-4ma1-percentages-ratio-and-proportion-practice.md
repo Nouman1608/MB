@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -176,7 +176,7 @@ No. Keep the full calculator value and use the multiplier raised to the power of
 **What should you show when finding how many years it takes to reach a target?**
 Show the values for the years either side of the target, not just the final number of years. In Edexcel IGCSE Maths 4MA1 this type of compound interest problem is Higher tier only.
 
-## Next steps
+## More on this topic
 
 - Refresh the methods: [revision notes](/resources/edexcel-igcse-maths-4ma1-percentages-ratio-and-proportion-revision-notes/)
 - Re-learn anything you missed: [study guide](/resources/edexcel-igcse-maths-4ma1-percentages-ratio-and-proportion/)

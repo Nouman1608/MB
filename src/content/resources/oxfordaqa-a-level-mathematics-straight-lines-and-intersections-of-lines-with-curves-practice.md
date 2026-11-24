@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -167,7 +167,7 @@ The repeated root x = 1 means the line **touches** the curve at **(1, −2)** [1
 * Expanding (4 − k)² incorrectly, or dividing only some terms when clearing fractions.
 * Leaving answers as decimals when exact surds or fractions were expected.
 
-## Next steps
+## More on this topic
 
 * Revisit the [revision notes](/resources/oxfordaqa-a-level-mathematics-straight-lines-and-intersections-of-lines-with-curves-revision-notes/) for formulas and method boxes.
 * Reread the [study guide](/resources/oxfordaqa-a-level-mathematics-straight-lines-and-intersections-of-lines-with-curves/) for worked examples.

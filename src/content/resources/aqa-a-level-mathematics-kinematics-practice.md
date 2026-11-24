@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -214,7 +214,7 @@ Solve v = 0 to find where the particle changes direction, find the position at t
 **How do you show a projectile clears a wall?**
 Find the time to reach the wall from the constant horizontal velocity, find the height at that time, compare it with the wall height and state the conclusion.
 
-## Next steps
+## More on this topic
 
 - Recap with the [Kinematics revision notes](/resources/aqa-a-level-mathematics-kinematics-revision-notes/).
 - Re-read any weak section in the [Kinematics study guide](/resources/aqa-a-level-mathematics-kinematics/).

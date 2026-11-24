@@ -41,7 +41,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Condensed recall notes for **Paper 2 Family, Education and Crime**,
@@ -223,7 +223,7 @@ Crime breaks the law and deviance breaks social norms. Both are relative across 
 **Is O Level Sociology 2251 the same as IGCSE 0495?**
 The 2251 Paper 2 has an identical subject-content structure to Cambridge IGCSE Sociology (0495).
 
-## Related resources
+## More resources on this topic
 
 - [Cambridge O Level Sociology: Family, Education and Crime](/resources/o-level-sociology-family-education-crime/)
 - [Cambridge O Level Sociology: Research Methods, Identity and Inequality](/resources/o-level-sociology-research-methods-identity-and-inequality/)

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -159,7 +159,7 @@ Demand-pull inflation happens when total spending rises faster than the economy 
 **How do you get full marks on an "evaluate" question about inflation?**
 Build a chain of reasoning for each group affected, such as savers, borrowers, producers and the government, then give a judgement with a reason, for example depending on whether incomes keep pace with prices.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/ocr-gcse-economics-distribution-of-income-and-wealth-inflation-and-price-revision-notes/)
 - [Study guide](/resources/ocr-gcse-economics-distribution-of-income-and-wealth-inflation-and-price/)

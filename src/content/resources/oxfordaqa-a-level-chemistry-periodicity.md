@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Here you will learn section **3.2.1 Periodicity** from the OxfordAQA International AS and A-level
@@ -331,7 +331,7 @@ Then count along from the landmark in order of proton number.
   electrons.
 - Leaving out the state symbols, or using X(s), in a first ionisation energy equation.
 
-## Next steps
+## More on this topic
 
 Next, shrink all this down with the [revision notes](/resources/oxfordaqa-a-level-chemistry-periodicity-revision-notes/)
 and check your answers against the [practice questions](/resources/oxfordaqa-a-level-chemistry-periodicity-practice/).

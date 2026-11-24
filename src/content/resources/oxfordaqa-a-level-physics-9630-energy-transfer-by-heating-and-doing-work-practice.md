@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -144,7 +144,7 @@ D: Neither changes, because the temperature is constant.
 - Using the total mass instead of the mass flow rate.
 - Saying heat losses make the measured specific heat capacity too small.
 
-## Next steps
+## More on this topic
 
 - Revisit the explanations in the [heating and doing work study guide](/resources/oxfordaqa-a-level-physics-9630-energy-transfer-by-heating-and-doing-work/).
 - For conduction and U-values, try the [first law, heating and conduction practice questions](/resources/oxfordaqa-a-level-physics-first-law-of-thermodynamics-heating-and-conduction-practice/).

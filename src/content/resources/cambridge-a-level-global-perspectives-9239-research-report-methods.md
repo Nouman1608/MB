@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -153,7 +153,7 @@ The syllabus asks you to "reflect on their conclusions (AO2)" and to "reflect on
 - **No ethics**: research with people that does not mention consent or anonymity.
 - **Too many methods** for the word limit, each done thinly.
 
-## Next steps
+## More on this topic
 
 Condense this with the [research methods revision notes](/resources/cambridge-a-level-global-perspectives-9239-research-report-methods-revision-notes/) and practise it with the [research methods practice questions](/resources/cambridge-a-level-global-perspectives-9239-research-report-methods-practice/). Record your method decisions as you go; the companion unit on [the research log](/resources/cambridge-a-level-global-perspectives-9239-research-report-research-log/) shows how.
 

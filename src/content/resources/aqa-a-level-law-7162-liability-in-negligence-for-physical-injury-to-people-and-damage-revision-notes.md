@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -164,6 +164,6 @@ Burden: claimant, balance of probabilities
 11. Distinguish *Hughes* and *Doughty*. *In Hughes the type of harm (burns) was foreseeable; in Doughty an eruption was a different kind of risk from a splash.*
 12. What does the thin skull rule mean? *The defendant is liable for the full extent of harm even if worsened by the claimant's condition.*
 
-## Related resources
+## More resources on this topic
 
 [Negligence for physical injury and property damage practice questions](/resources/aqa-a-level-law-7162-liability-in-negligence-for-physical-injury-to-people-and-damage-practice/) | [Tort revision notes](/resources/aqa-a-level-law-tort-revision-notes/)

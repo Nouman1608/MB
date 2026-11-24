@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -312,7 +312,7 @@ mass of N = 2 × 14 = 28
 - Stating that the catalyst increases the yield of ammonia. It only increases rate.
 - Forgetting that unreacted gases are recycled.
 
-## Next steps
+## More on this topic
 
 Go to the [revision notes](/resources/aqa-gcse-chemistry-8462-using-resources-revision-notes/) for a condensed version and self-test, then try the [practice questions](/resources/aqa-gcse-chemistry-8462-using-resources-practice/). For a course-wide check, take a [free 10-minute diagnostic](/diagnostics/).
 

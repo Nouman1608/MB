@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches sub-topic 2(e) Extraction and uses of metals of the Pearson Edexcel International GCSE Chemistry (4CH1) specification, Issue 3 (September 2024): statements 2.22C to 2.27C. The qualification is untiered. Every statement in 2(e) is printed in bold with a C reference, so the whole sub-topic is **Paper 2 only**. Chemistry Paper 2 (1 hour 15 minutes, 70 marks) assesses all the content; Paper 1 assesses only the content that is not in bold.
@@ -285,7 +285,7 @@ Explain why brass is harder than pure copper. **[3]**
 - Giving "aluminium is light" for aircraft. Use the property name: "low density".
 - Inventing facts in a 2.24C answer.
 
-## Next steps
+## More on this topic
 
 Condense this into the [extraction and uses of metals revision notes](/resources/edexcel-igcse-chemistry-4ch1-extraction-and-uses-of-metals-revision-notes/), then test yourself with the [extraction and uses of metals practice questions](/resources/edexcel-igcse-chemistry-4ch1-extraction-and-uses-of-metals-practice/). For related content, see the [electrolysis study guide](/resources/edexcel-igcse-chemistry-4ch1-electrolysis/), the [bonding study guide](/resources/edexcel-igcse-chemistry-4ch1-ionic-covalent-and-metallic-bonding/) for metallic lattices, and the topic-level [reactivity practice](/resources/edexcel-igcse-chemistry-reactivity-practice/).
 

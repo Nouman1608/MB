@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -176,6 +176,6 @@ Two liquids that **do** mix (such as water and alcohol) do not form layers, whic
 - **Determine / State and explain** whether something floats: quote the two densities and compare them in a sentence ("0.92 g/cm³ is less than 1.00 g/cm³, so it floats").
 - *(Extended)* For layers, give the order **and** the reason (density) for each position.
 
-## Next steps
+## More on this topic
 
 Revise with the [revision notes on density](/resources/cambridge-igcse-physics-0625-density-revision-notes/), then try the [practice questions on density](/resources/cambridge-igcse-physics-0625-density-practice/). Density reappears in liquid pressure in the [study guide on pressure](/resources/cambridge-igcse-physics-0625-pressure/) and in convection in the [study guide on transfer of thermal energy](/resources/cambridge-igcse-physics-0625-transfer-of-thermal-energy/).

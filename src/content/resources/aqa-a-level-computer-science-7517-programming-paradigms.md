@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -194,7 +194,7 @@ When asked to interpret a diagram, name the relationship, the direction (which c
 - **Write a class**: declare attributes with specifiers, write the constructor, then the methods; mark overrides clearly.
 - **Describe the relationship**: state composition or aggregation and justify with the lifetime of the part.
 
-## Related resources
+## More resources on this topic
 
 - [Programming paradigms revision notes](/resources/aqa-a-level-computer-science-7517-programming-paradigms-revision-notes/)
 - [Programming Paradigms practice questions](/resources/aqa-a-level-computer-science-programming-paradigms-practice/)

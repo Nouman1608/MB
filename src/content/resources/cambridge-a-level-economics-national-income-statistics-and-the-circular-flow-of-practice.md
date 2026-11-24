@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -173,7 +173,7 @@ No. Only government spending on goods and services counts as an injection. Trans
 **How do you show that national income will rise or fall?**
 Add up total injections and total leakages and compare them. If injections exceed leakages, national income rises; if leakages exceed injections, it falls. State both totals rather than just the direction.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/cambridge-a-level-economics-national-income-statistics-and-the-circular-flow-of-revision-notes/) and the [study guide](/resources/cambridge-a-level-economics-national-income-statistics-and-the-circular-flow-of/).
 - Return to the [course hub](/boards/cambridge/a-level/economics/) and the [printable checklist](/checklists/cambridge/a-level/economics/).

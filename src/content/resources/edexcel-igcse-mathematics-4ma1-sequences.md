@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -171,7 +171,7 @@ Count the terms with "(last − first)/d + 1". Forgetting the +1 is a classic er
 - **"Show that"** a given sum: write the formula with numbers substituted before simplifying.
 - (Higher) Quote Sₙ from the formulae sheet, and define a, d and n before substituting.
 
-## Next steps
+## More on this topic
 
 Revise with the [sequences revision notes](/resources/edexcel-igcse-mathematics-4ma1-sequences-revision-notes/), then try the [sequences practice questions](/resources/edexcel-igcse-mathematics-4ma1-sequences-practice/). A linear nth term is a straight-line rule in disguise: the difference plays the role of the gradient, covered in the [graphs study guide](/resources/edexcel-igcse-mathematics-4ma1-graphs/).
 

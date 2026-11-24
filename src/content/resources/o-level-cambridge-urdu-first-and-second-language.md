@@ -20,6 +20,7 @@ description: "First Language and Second Language Urdu -- the two distinct, curre
 author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"
 reviewStatus: "reviewed"
+reviewNote: "2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-21
 featured: false
@@ -190,7 +191,7 @@ Copying from the passage where own words are required. Writing at length for low
 - Drill gender agreement, verb forms, postpositions and script accuracy.
 - Always reserve time to check agreement and script at the end.
 
-## Related resources
+## More resources on this topic
 
 - [Paper 1: Revision Notes](/resources/o-level-cambridge-urdu-first-and-second-language-revision-notes/) —
   condensed recall notes on the 3247 and 3248 Paper 1 formats, marking

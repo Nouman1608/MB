@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -133,7 +133,7 @@ The ratios are not on the List of formulas, so learn them.
 11. **14°** (alternate angles between horizontal lines)
 12. In a right-angled triangle the opposite side is shorter than the hypotenuse, so O/H is always **less than 1** for an acute angle.
 
-## Next steps
+## More on this topic
 
 - Re-read the worked examples in the [right-angled triangles study guide](/resources/cambridge-igcse-mathematics-0580-right-angled-triangles/).
 - Practise with the [right-angled triangles practice questions](/resources/cambridge-igcse-mathematics-0580-right-angled-triangles-practice/).

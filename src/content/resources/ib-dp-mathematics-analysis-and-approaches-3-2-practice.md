@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -137,7 +137,7 @@ This set covers **section 3.2** (SL and HL) of IB DP Mathematics: Analysis and A
 - Rounding intermediate values and carrying them forward.
 - Decimals on calculator-free questions.
 
-## Next steps
+## More on this topic
 
 - Re-read the rule-choosing table in the [triangle trigonometry study guide](/resources/ib-dp-mathematics-analysis-and-approaches-3-2/).
 - Apply the rules in context in the [applications of trigonometry practice set](/resources/ib-dp-mathematics-analysis-and-approaches-3-3-practice/).

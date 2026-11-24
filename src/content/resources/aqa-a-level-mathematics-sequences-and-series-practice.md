@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -175,7 +175,7 @@ Set up the inequality with Sₙ, solve it, and round up to the next integer, che
 **When can you use the sum to infinity of a geometric series?**
 Only when the common ratio satisfies |r| < 1. State this condition before quoting the sum to infinity.
 
-## Next steps
+## More on this topic
 
 - Recap with the [Section D revision notes](/resources/aqa-a-level-mathematics-sequences-and-series-revision-notes/)
 - Relearn any weak part from the [Section D study guide](/resources/aqa-a-level-mathematics-sequences-and-series/)

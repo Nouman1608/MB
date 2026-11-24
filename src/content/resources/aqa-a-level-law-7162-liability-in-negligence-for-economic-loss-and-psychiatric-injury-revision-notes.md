@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -151,6 +151,6 @@ Financial loss
 11. Why did the claimant succeed in *McLoughlin v O'Brian*? *She saw her family in the immediate aftermath at the hospital.*
 12. What did *Paul* (2024) decide? *Witnessing a death caused by earlier medical negligence does not make a relative a secondary victim.*
 
-## Related resources
+## More resources on this topic
 
 [Economic loss and psychiatric injury practice questions](/resources/aqa-a-level-law-7162-liability-in-negligence-for-economic-loss-and-psychiatric-injury-practice/) | [Theory of tort law revision notes](/resources/aqa-a-level-law-7162-theory-of-tort-law-revision-notes/)

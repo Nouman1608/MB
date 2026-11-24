@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -191,7 +191,7 @@ Use the facts given, such as the staff's experience, the deadline, staff departu
 **How should you answer a question on who to make redundant?**
 Compare all the people in the data using several criteria, such as skills, attendance record, length of service and cost, then choose one and admit the downside. A choice based on one fact alone reads as thin.
 
-## Next steps
+## More on this topic
 
 - Review the [study guide](/resources/igcse-business-0264-organisation-and-management/) and use the [revision notes](/resources/igcse-business-0264-organisation-and-management-revision-notes/).
 - Return to the [course hub](/boards/cambridge/igcse/business/) and the [printable checklist](/checklists/cambridge/igcse/business/).

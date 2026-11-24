@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: File-handling command names in the pseudocode are illustrative, not taken from OxfordAQA's pseudocode guide; please check they suit the board's current teaching guidance."
+reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: File-handling command names in the pseudocode are illustrative, not taken from OxfordAQA's pseudocode guide; please check they suit the board's current teaching guidance. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -192,7 +192,7 @@ programs.
 11. One (each opening wipes the file, so only the last line remains).
 12. `OUTPUT "Score " + INT_TO_STRING(score)`.
 
-## Related resources
+## More resources on this topic
 
 - [Input/output and file handling study guide](/resources/oxfordaqa-igcse-computer-science-9210-input-output-and-file-handling/)
 - [Input/output and file handling practice questions](/resources/oxfordaqa-igcse-computer-science-9210-input-output-and-file-handling-practice/)

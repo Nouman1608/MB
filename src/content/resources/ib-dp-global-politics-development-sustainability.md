@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -202,7 +202,7 @@ Paper 2 (1 hour 45 minutes, 30 marks; 40% at SL and 30% at HL) is based on the t
 - Writing about "the IMF" as if it acts alone, without its member states and voting shares.
 - Arguing only one side of a debate such as de-growth.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [revision notes](/resources/ib-dp-global-politics-development-sustainability-revision-notes/), then try the [practice questions](/resources/ib-dp-global-politics-development-sustainability-practice/). For the other thematic studies, see [Rights and justice](/resources/ib-dp-global-politics-rights-justice/) and [Peace and conflict](/resources/ib-dp-global-politics-peace-conflict/).
 

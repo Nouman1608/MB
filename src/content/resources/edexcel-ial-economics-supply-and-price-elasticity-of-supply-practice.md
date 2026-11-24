@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -123,7 +123,7 @@ Read the [study guide](/resources/edexcel-ial-economics-supply-and-price-elastic
 - Giving a list of determinants without applying them to the product or market in the question.
 - Ending evaluation without a judgement.
 
-## Next steps
+## More on this topic
 
 - Read the [study guide](/resources/edexcel-ial-economics-supply-and-price-elasticity-of-supply/) and the [revision notes](/resources/edexcel-ial-economics-supply-and-price-elasticity-of-supply-revision-notes/).
 - Go to the [Edexcel A Level Economics hub](/boards/edexcel/a-level/economics/) and the [printable checklist](/checklists/edexcel/a-level/economics/).

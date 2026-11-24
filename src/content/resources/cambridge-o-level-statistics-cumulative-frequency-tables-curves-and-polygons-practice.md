@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -205,7 +205,7 @@ The class 10 < d ≤ 15 has frequency 18. Find x, and find the frequency of the 
 - Quoting graph readings as exact, or without units.
 - Leaving out working, although the syllabus says essential working must be shown.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/cambridge-o-level-statistics-cumulative-frequency-tables-curves-and-polygons-revision-notes/) and the [study guide](/resources/cambridge-o-level-statistics-cumulative-frequency-tables-curves-and-polygons/).
 - Tick it off on the [checklist](/checklists/cambridge/o-level/statistics/) and see the [4040 hub](/boards/cambridge/o-level/statistics/).

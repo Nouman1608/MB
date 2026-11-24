@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -182,7 +182,7 @@ CLOSE(file)
 - **Calculate a file size or position**: show the bytes per field, the record size, then multiply.
 - **Justify a file type**: link the scenario's need (people must edit it; records must be updated individually) to the property.
 
-## Related resources
+## More resources on this topic
 
 - [Fields, records and files revision notes](/resources/aqa-a-level-computer-science-7517-fields-records-and-files-revision-notes/)
 - [Fields, records and files practice questions](/resources/aqa-a-level-computer-science-7517-fields-records-and-files-practice/)

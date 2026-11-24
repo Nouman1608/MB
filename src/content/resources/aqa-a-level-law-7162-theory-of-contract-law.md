@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: The specification asks for an outline of five theory issues; a teacher should confirm that the arguments and authorities chosen here match the depth centres teach."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: The specification asks for an outline of five theory issues; a teacher should confirm that the arguments and authorities chosen here match the depth centres teach. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -146,6 +146,6 @@ The law controls them in three layers: **incorporation** (*Olley v Marlborough C
 
 The command words for this row are usually "explain", "discuss" or "evaluate". Structure each point as: the rule, the reason for it, a case, a criticism, and a short judgement. Paper 3 essays reward a clear line of argument across the answer, not a list of isolated points.
 
-## Related resources
+## More resources on this topic
 
 [Theory of contract law revision notes](/resources/aqa-a-level-law-7162-theory-of-contract-law-revision-notes/) | [Theory of contract law practice questions](/resources/aqa-a-level-law-7162-theory-of-contract-law-practice/) | [Rules of contract law study guide](/resources/aqa-a-level-law-7162-the-rules-of-contract-law/)

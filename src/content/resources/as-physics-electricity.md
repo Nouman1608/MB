@@ -25,7 +25,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false
@@ -224,7 +224,7 @@ Resistivity, ρ, is a property of the material and does not change if you cut a 
 **What is the I-V characteristic of a semiconductor diode?**
 A diode conducts easily in forward bias once a threshold voltage is passed, but has a very high resistance in reverse bias, so almost no current flows.
 
-## Related resources
+## More resources on this topic
 
 - [Superposition: Stationary Waves, Diffraction and Interference](/resources/as-physics-superposition/) — the previous AS topic
 - [D.C. Circuits: Kirchhoff's Laws and Potential Dividers](/resources/as-physics-dc-circuits/) — the next AS topic, applying these definitions to full circuits

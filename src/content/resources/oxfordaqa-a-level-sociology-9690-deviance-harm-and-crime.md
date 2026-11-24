@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -198,7 +198,7 @@ In **explain** questions, link each point to a mechanism, for example how police
 class patterns in statistics. In **evaluate** questions, compare data sources and perspectives,
 and use a named society's laws or statistics for application.
 
-## Next steps
+## More on this topic
 
 - [Deviance, harm and crime revision notes](/resources/oxfordaqa-a-level-sociology-9690-deviance-harm-and-crime-revision-notes/)
 - [Deviance, harm and crime practice questions](/resources/oxfordaqa-a-level-sociology-9690-deviance-harm-and-crime-practice/)

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -164,7 +164,7 @@ They act on the same object and are different types of force. Third-law pairs ac
 **What is the difference between mass and weight?**
 Mass resists change in motion and is the same everywhere; weight is the gravitational force on the mass, W = mg, and depends on the field.
 
-## Related resources
+## More resources on this topic
 
 - [Momentum and Newton's laws revision notes](/resources/cambridge-a-level-physics-9702-as-momentum-and-newtons-laws-of-motion-revision-notes/)
 - [Momentum and Newton's laws practice questions](/resources/cambridge-a-level-physics-9702-as-momentum-and-newtons-laws-of-motion-practice/)

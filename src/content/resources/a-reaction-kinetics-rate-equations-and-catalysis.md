@@ -22,7 +22,7 @@ author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review. 2026-11-08: SO₂-oxidation catalysis bullet now names NO₂ as catalyst and NO as intermediate, matching the revision notes; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review. 2026-11-08: SO₂-oxidation catalysis bullet now names NO₂ as catalyst and NO as intermediate, matching the revision notes; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -307,7 +307,7 @@ An intermediate is formed in one step and used up in a later step. A catalyst is
 **How does a heterogeneous catalyst work?**
 Reactant molecules adsorb onto active sites on the catalyst surface, bonds within them are weakened so they react more easily, and the products then desorb. Iron in the Haber process works this way.
 
-## Related resources
+## More resources on this topic
 
 - [Reaction Kinetics: Collision Theory and
   Catalysis](/resources/as-reaction-kinetics-collision-theory-and-catalysis/)

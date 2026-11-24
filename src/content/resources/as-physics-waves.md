@@ -32,7 +32,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 updatedDate: 2026-09-27
 featured: false
@@ -301,7 +301,7 @@ In order of increasing frequency and decreasing wavelength: radio waves, microwa
 **What is the difference between phase difference and path difference?**
 Phase difference is an angle or fraction of a cycle showing how far out of step two points or waves are. Path difference is a distance; the two are related through the wavelength but are not the same quantity.
 
-## Related resources
+## More resources on this topic
 
 - [Superposition: Stationary Waves, Diffraction and Interference](/resources/as-physics-superposition/) — the next AS topic, building directly on wave terms introduced here
 - [Deformation of Solids: Stress, Strain and the Young Modulus](/resources/as-physics-deformation-of-solids/) — the previous AS topic

@@ -34,7 +34,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-08
 updatedDate: 2026-11-18
 featured: false
@@ -159,7 +159,7 @@ Key studies are the main focus of Paper 4 Section A, but using one accurately as
 - In question 4(b), naming "idiographic" without explaining what it means for this treatment.
 - In design questions, naming a design without a justification tied to the scenario.
 
-## Next steps
+## More on this topic
 
 Check weak areas against the [Clinical Psychology study guide](/resources/a-level-psychology-clinical-psychology/), then revisit planning and method terms in the [Paper 2 Research Methods practice questions](/resources/a-level-psychology-research-methods-practice/).
 

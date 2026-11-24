@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -192,7 +192,7 @@ Reading from the bottom: **C8**. Check: 12 × 16 + 8 = 200.
 - Writing decimal 10 as a hex digit "10" instead of A.
 - Writing the column values wrongly; each is double the one to its right.
 
-## Next steps
+## More on this topic
 
 - [Number bases revision notes](/resources/oxfordaqa-a-level-computer-science-9645-number-bases-revision-notes/)
 - [Number bases practice questions](/resources/oxfordaqa-a-level-computer-science-9645-number-bases-practice/)

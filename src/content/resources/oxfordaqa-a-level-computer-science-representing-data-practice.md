@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -191,7 +191,7 @@ Links: [study guide](/resources/oxfordaqa-a-level-computer-science-representing-
 - Forgetting to convert minutes to seconds in sound calculations.
 - Describing parity as able to correct errors.
 
-## Next steps
+## More on this topic
 
 - [Representing data revision notes](/resources/oxfordaqa-a-level-computer-science-representing-data-revision-notes/)
 - [Representing data study guide](/resources/oxfordaqa-a-level-computer-science-representing-data/)

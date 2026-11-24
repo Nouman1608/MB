@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -153,7 +153,7 @@ which needs less energy [1]. **[3]**
 - Saying the forces between polymer molecules are weak.
 - Not multiplying by the number of repeat units when counting atoms.
 
-## Next steps
+## More on this topic
 
 - Recap with the [polymers revision notes](/resources/aqa-gcse-chemistry-8462-polymers-revision-notes/).
 - Reread any weak area in the [polymers study guide](/resources/aqa-gcse-chemistry-8462-polymers/).

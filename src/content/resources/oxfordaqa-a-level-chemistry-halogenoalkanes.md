@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Here you learn section **3.3.3 Halogenoalkanes** from scratch, following the OxfordAQA specification for
@@ -365,7 +365,7 @@ every carbon next to the C–X carbon that carries a hydrogen, then check each a
 - Removing a hydrogen from the C–X carbon itself instead of an adjacent carbon.
 - Missing E–Z isomers among elimination products.
 
-## Next steps
+## More on this topic
 
 For fast recall, move on to the [halogenoalkane notes](/resources/oxfordaqa-a-level-chemistry-halogenoalkanes-revision-notes/);
 for exam-style work, use the [question set with answers](/resources/oxfordaqa-a-level-chemistry-halogenoalkanes-practice/).

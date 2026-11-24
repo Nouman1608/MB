@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide is aligned to the OxfordAQA International GCSE Physics (9203) specification, version 5.2, for exams May/June 2018 onwards. It covers sections 3.1.1 (Forces and their interactions) and 3.1.2 (Motion). The qualification is untiered. After reading, use the [revision notes](/resources/oxfordaqa-igcse-physics-forces-hookes-law-vectors-and-distance-time-motion-revision-notes/) and the [practice questions](/resources/oxfordaqa-igcse-physics-forces-hookes-law-vectors-and-distance-time-motion-practice/).
@@ -326,7 +326,7 @@ The rest counts as time. Averaging the three speeds gives 3.2 m/s, which is the 
 - Reading a flat section of a distance-time graph as steady movement. It means the object is not moving.
 - Calling a distance a vector. Distance is a scalar; displacement is the vector.
 
-## Next steps
+## More on this topic
 
 Attempt the practice questions, then check progress on the [course checklist](/checklists/oxfordaqa/igcse/physics/) and the [free diagnostics](/diagnostics/).
 

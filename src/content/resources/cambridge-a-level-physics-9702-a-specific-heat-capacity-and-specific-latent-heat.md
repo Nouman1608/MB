@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -151,7 +151,7 @@ L = 6000 / 2.7 × 10⁻³ = 2.2 × 10⁶ J kg⁻¹
 - **Calculate**: split multi-stage processes into stages, label each, and add. Convert g to kg; use P × t for electrical energy.
 - **Suggest** (sources of error): energy lost to the surroundings, energy absorbed by the container, or (for boiling) vapour condensing back.
 
-## Related resources
+## More resources on this topic
 
 - [Temperature study guide](/resources/a-physics-temperature/) — the whole of Topic 14
 - [Revision notes for this subtopic](/resources/cambridge-a-level-physics-9702-a-specific-heat-capacity-and-specific-latent-heat-revision-notes/)

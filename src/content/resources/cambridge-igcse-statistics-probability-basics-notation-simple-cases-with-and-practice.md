@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -165,7 +165,7 @@ These questions cover outcomes 7.1 to 7.4 of Topic 7 (Probability) in the Cambri
 - Not simplifying a fraction, or giving a decimal or percentage when the question asked for another form.
 - Writing only a final answer. The syllabus says essential working must be shown for full marks to be awarded.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/cambridge-igcse-statistics-probability-basics-notation-simple-cases-with-and-revision-notes/) and re-read the [study guide](/resources/cambridge-igcse-statistics-probability-basics-notation-simple-cases-with-and/).
 - Open the [Cambridge IGCSE Statistics hub](/boards/cambridge/igcse/statistics/) and tick off the outcomes on the [checklist](/checklists/cambridge/igcse/statistics/).

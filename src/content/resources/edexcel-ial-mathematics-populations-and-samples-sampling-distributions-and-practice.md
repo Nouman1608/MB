@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -195,7 +195,7 @@ A result outside the critical region means there is insufficient evidence to rej
 **What do you need to do when a Poisson test uses a longer time period?**
 Scale the mean to the interval in the question first. For example, a rate of 3.2 per day becomes a mean of 16 for a 5-day count.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/edexcel-ial-mathematics-populations-and-samples-sampling-distributions-and-revision-notes/) and [study guide](/resources/edexcel-ial-mathematics-populations-and-samples-sampling-distributions-and/)
 - [Course hub](/boards/edexcel/a-level/mathematics/) and [checklist](/checklists/edexcel/a-level/mathematics/)

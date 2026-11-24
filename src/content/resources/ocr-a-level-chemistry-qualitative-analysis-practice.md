@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -152,7 +152,7 @@ Identify M, giving the evidence for each ion, and write the full equation for th
 - Leaving a gas volume in cm³ when dividing by 24.0 dm³ mol⁻¹ (question 7).
 - Rearranging the KX and AgX mole equation wrongly (question 9).
 
-## Next steps
+## More on this topic
 
 - Tables and method steps: [Qualitative analysis revision notes](/resources/ocr-a-level-chemistry-qualitative-analysis-revision-notes/)
 - Full explanations and worked examples: [Qualitative analysis study guide](/resources/ocr-a-level-chemistry-qualitative-analysis/)

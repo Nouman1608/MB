@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -150,7 +150,7 @@ The two short sources below are original and written for this guide.
 - **Undefended verdict.** "Source A is better" with no criterion that decides it.
 - **Context as guesswork.** Comments on the writer's position must be tied to how it shapes the argument, not used to dismiss the source.
 
-## Next steps
+## More on this topic
 
 Condense the toolkit with the [Question 3 revision notes](/resources/cambridge-a-level-global-perspectives-9239-written-exam-question-3-revision-notes/) and practise it with the [Question 3 practice questions](/resources/cambridge-a-level-global-perspectives-9239-written-exam-question-3-practice/). The earlier questions on the paper are covered in [Question 1: short answers on two sources](/resources/cambridge-a-level-global-perspectives-9239-written-exam-question-1/) and [Question 2: evaluating evidence](/resources/cambridge-a-level-global-perspectives-9239-written-exam-question-2/).
 

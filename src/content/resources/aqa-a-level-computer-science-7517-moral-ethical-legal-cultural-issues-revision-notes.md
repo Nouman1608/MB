@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -141,7 +141,7 @@ Condensed recall for **4.8.1 Individual (moral), social (ethical), legal and cul
 11. Using data collected for one purpose for another purpose.
 12. The question asks for a discussion, which needs both sides and a judgement.
 
-## Related resources
+## More resources on this topic
 
 - [Issues and opportunities study guide](/resources/aqa-a-level-computer-science-7517-moral-ethical-legal-cultural-issues/)
 - [Issues and opportunities practice questions](/resources/aqa-a-level-computer-science-7517-moral-ethical-legal-cultural-issues-practice/)

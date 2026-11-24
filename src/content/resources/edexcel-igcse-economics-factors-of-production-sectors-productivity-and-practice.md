@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -132,7 +132,7 @@ These questions cover sections 1.2.1 and 1.2.2 of the Pearson Edexcel Internatio
 - Mixing total output and average output when migration is the topic.
 - Leaving out units: tonnes, shirts, dollars.
 
-## Next steps
+## More on this topic
 
 - Revise from the [revision notes](/resources/edexcel-igcse-economics-factors-of-production-sectors-productivity-and-revision-notes/) and the [study guide](/resources/edexcel-igcse-economics-factors-of-production-sectors-productivity-and/).
 - Visit the [course hub](/boards/edexcel/igcse/economics/) and tick off topics on the [checklist](/checklists/edexcel/igcse/economics/).

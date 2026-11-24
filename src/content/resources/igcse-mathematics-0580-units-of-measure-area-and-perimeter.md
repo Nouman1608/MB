@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches two subtopics of Topic 5 Mensuration in the Cambridge IGCSE Mathematics 0580 syllabus for 2025, 2026 and 2027: **5.1 Units of measure** and **5.2 Area and perimeter**. The Core statements (C5.1, C5.2) and the Extended statements (E5.1, E5.2) say the same thing, so everything on this page applies to both tiers. There is no Extended-only content in these two subtopics.
@@ -376,7 +376,7 @@ No. The Core and Extended statements for 5.1 Units of measure and 5.2 Area and p
 **Should you round down in a "how many tins" question?**
 No. If rounding down would not give enough to finish the job, round up to the next whole tin, bag or tile.
 
-## Next steps
+## More on this topic
 
 - Cover all of Topic 5 with the [Mensuration study guide](/resources/igcse-mathematics-mensuration/) and condense it with the [Mensuration revision notes](/resources/igcse-mathematics-mensuration-revision-notes/).
 - Practise with the [Mensuration practice questions](/resources/igcse-mathematics-mensuration-practice/).

@@ -18,7 +18,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 featured: false
 ---
@@ -236,7 +236,7 @@ Numerically, yes. The gravitational field strength g is about 9.8 N/kg, the same
 **Do 5054 questions use forces at an angle to the motion?**
 The syllabus mostly restricts work done to a force and motion in the same direction, but the distance must always be the distance moved in the direction of the force.
 
-## Related resources
+## More resources on this topic
 
 - [Energy Resources and Efficiency](/resources/energy-resources-and-efficiency/) — the rest of subtopic 1.7
 - [Forces and Motion](/resources/forces-and-motion/) — the forces that do

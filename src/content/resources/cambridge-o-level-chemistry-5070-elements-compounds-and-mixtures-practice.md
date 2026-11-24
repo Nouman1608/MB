@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -176,7 +176,7 @@ Identify the box that shows:
 - Giving "separated easily" instead of naming a physical method.
 - Answering a "compare" question with two separate descriptions and no comparison.
 
-## Next steps
+## More on this topic
 
 - Recap with the [elements, compounds and mixtures revision notes](/resources/cambridge-o-level-chemistry-5070-elements-compounds-and-mixtures-revision-notes/).
 - Move on to the [atomic structure and the Periodic Table practice questions](/resources/cambridge-o-level-chemistry-5070-atomic-structure-and-the-periodic-table-practice/).

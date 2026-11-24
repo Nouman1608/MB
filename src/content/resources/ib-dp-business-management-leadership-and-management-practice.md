@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -120,7 +120,7 @@ On balance, Tomas should move toward a democratic approach for the rota, because
 - Forgetting that a democratic style costs time, or that an autocratic style can be right in an emergency.
 - Giving one-sided answers when the case supports a situational view.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/ib-dp-business-management-leadership-and-management-revision-notes/) and the [study guide](/resources/ib-dp-business-management-leadership-and-management/).
 - Return to the [Business Management hub](/boards/ib/ib-dp/business/) and tick your progress on the [checklist](/checklists/ib/ib-dp/business/).

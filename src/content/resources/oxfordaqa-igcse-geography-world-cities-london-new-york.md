@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-15
 featured: false
 ---
@@ -260,7 +260,7 @@ Link:         migration has shaped London's food, culture and labour
 - Describing a regeneration project without its reasons and judged
   impacts.
 
-## Next steps
+## More on this topic
 
 - Recall the key facts with the [World cities revision notes](/resources/oxfordaqa-igcse-geography-world-cities-london-new-york-revision-notes/).
 - Try the [World cities practice questions](/resources/oxfordaqa-igcse-geography-world-cities-london-new-york-practice/).

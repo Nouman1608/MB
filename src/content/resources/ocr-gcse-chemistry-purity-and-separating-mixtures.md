@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -168,7 +168,7 @@ identify or check the purity of a substance.
 - Be able to suggest an appropriate purification or chromatographic
 method for an unfamiliar mixture described in an exam question.
 
-## Related resources
+## More resources on this topic
 
 - [Purity and Separating Mixtures revision notes](/resources/ocr-gcse-chemistry-purity-separating-revision-notes/)
 - [Purity and Separating Mixtures practice questions](/resources/ocr-gcse-chemistry-purity-separating-practice/)

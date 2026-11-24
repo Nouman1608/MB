@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -235,7 +235,7 @@ Normal value inside the range [1]; both valid boundaries, 12.0 and 30.0 [1]; bot
 - Naming a feature of the structured approach without explaining how it helps.
 - Giving evaluation criteria as definitions only, with no link to the system described.
 
-## Next steps
+## More on this topic
 
 - [Program design revision notes](/resources/oxfordaqa-a-level-computer-science-program-design-revision-notes/)
 - [Program design study guide](/resources/oxfordaqa-a-level-computer-science-program-design/)

@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
-reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -147,7 +147,7 @@ Evaluate which option the business should choose. **[9]**
 - Writing a list of advantages and disadvantages for "justify" or "evaluate" with no decision.
 - Treating the internet as removing the need for any premises.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/edexcel-gcse-business-limited-liability-and-business-location-revision-notes/).
 - Re-read the [study guide](/resources/edexcel-gcse-business-limited-liability-and-business-location/).

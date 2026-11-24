@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -150,7 +150,7 @@ Work out average cost before and after as (fixed cost + variable cost × output)
 **What do IB Economics examiners expect in an evaluate answer on joining a bloc?**
 Explain the advantages and disadvantages with their mechanisms, say which stakeholders gain and lose, weigh their size, and finish with a verdict. Giving both sides with no verdict loses marks.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/ib-dp-economics-economic-integration-revision-notes/) for the definitions and methods.
 - Go back to the [study guide](/resources/ib-dp-economics-economic-integration/) for worked explanations.

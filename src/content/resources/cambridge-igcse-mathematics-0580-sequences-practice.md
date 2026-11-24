@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -146,7 +146,7 @@ For worked examples, read the [sequences study guide](/resources/cambridge-igcse
 - Writing (½)ⁿ instead of (½)ⁿ⁻¹, so that every term is half the size it should be.
 - Keeping a negative or fractional value of n as a position.
 
-## Next steps
+## More on this topic
 
 - [Sequences study guide](/resources/cambridge-igcse-mathematics-0580-sequences/)
 - [Sequences revision notes](/resources/cambridge-igcse-mathematics-0580-sequences-revision-notes/)

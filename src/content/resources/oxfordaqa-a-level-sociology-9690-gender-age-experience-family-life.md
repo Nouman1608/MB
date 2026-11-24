@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -209,7 +209,7 @@ In **explain** answers, give a reason, a mechanism and a named study or example.
 answers on gender equality, distinguish attitudes from practice and tasks from responsibility, and
 apply to a named society. For age, compare at least two societies or two historical periods.
 
-## Next steps
+## More on this topic
 
 - [Gender, age and the experience of family life revision notes](/resources/oxfordaqa-a-level-sociology-9690-gender-age-experience-family-life-revision-notes/)
 - [Gender, age and family life practice questions](/resources/oxfordaqa-a-level-sociology-9690-gender-age-and-family-life-practice/)

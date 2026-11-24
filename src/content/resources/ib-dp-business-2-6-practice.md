@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -104,7 +104,7 @@ Marrowgate Software is an invented company with 90 developers: 50 in its home co
 * Treating informal communication only as harmful.
 * Giving two methods but no comparison or order of use.
 
-## Next steps
+## More on this topic
 
 * Review the [2.6 study guide](/resources/ib-dp-business-2-6/).
 * Re-read the [2.6 revision notes](/resources/ib-dp-business-2-6-revision-notes/).

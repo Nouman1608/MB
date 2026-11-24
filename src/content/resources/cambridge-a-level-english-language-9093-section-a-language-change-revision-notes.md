@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please check the working definitions of telescoping, coalescence, random fluctuation and cultural transmission against Cambridge's 9093 teacher support glossary."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please check the working definitions of telescoping, coalescence, random fluctuation and cultural transmission against Cambridge's 9093 teacher support glossary. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -184,7 +184,7 @@ represented. 10. Different collocates in different periods show a word being use
 meaning has shifted. 11. The theory of lexical gaps (functional theory is also creditable). 12. That changes spread
 outward from a centre across neighbouring varieties, like ripples, rather than only down branches of a family tree.
 
-## Next steps
+## More on this topic
 
 Practise with the [Language Change practice questions](/resources/cambridge-a-level-english-language-9093-section-a-language-change-practice/),
 and see the whole paper in the [Paper 3 revision notes](/resources/a-level-english-language-paper-3-revision-notes/).

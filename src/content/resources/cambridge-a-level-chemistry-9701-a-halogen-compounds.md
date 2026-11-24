@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -161,7 +161,7 @@ chlorobenzene explanation from this page ready to use as the third part of that 
 - **Predict**: classify each C–X bond before deciding which reacts.
 - **Describe a test**: give the reagent, condition and observation for each compound.
 
-## Related resources
+## More resources on this topic
 
 - [Halogen compounds practice questions](/resources/cambridge-a-level-chemistry-9701-a-halogen-compounds-practice/)
 - [Halogen compounds revision notes](/resources/a-chemistry-halogen-compounds-revision-notes/)

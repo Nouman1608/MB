@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -198,7 +198,7 @@ If two of the three measurements are equal, such as 5 by 3 by 3, the cuboid has 
 - **Complete** a diagram: check by folding, or by working out the reflected coordinates.
 - Explain a property by naming the symmetry that causes it.
 
-## Next steps
+## More on this topic
 
 Work through the [symmetry practice questions](/resources/cambridge-o-level-mathematics-4024-symmetry-practice/) and recap with the [symmetry revision notes](/resources/cambridge-o-level-mathematics-4024-symmetry-revision-notes/).
 

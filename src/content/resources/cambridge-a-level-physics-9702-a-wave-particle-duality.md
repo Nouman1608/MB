@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -147,7 +147,7 @@ E_k = ½mₑv² = 1.07 × 10⁻¹⁷ J,  so V = E_k / e = 67 V
 - **Calculate**: kinetic energy in joules, then momentum, then wavelength, with units on each line.
 - **Suggest** (why a heavy particle shows no diffraction): its momentum is so large that λ is far smaller than any available gap.
 
-## Related resources
+## More resources on this topic
 
 - [Quantum Physics study guide](/resources/a-physics-quantum-physics/) — the whole of Topic 22
 - [Wave-particle duality revision notes](/resources/cambridge-a-level-physics-9702-a-wave-particle-duality-revision-notes/)

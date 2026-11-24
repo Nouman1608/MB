@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -157,7 +157,7 @@ These questions cover section 3.5 Processing Results of Unit 3: Practical Skills
 - Calling an offset or intercept random error when it is systematic.
 - Vague improvements that name no instrument and no error. Missing units on axes and gradients.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/edexcel-ial-physics-unit-3-processing-results-graphs-and-uncertainties-revision-notes/) and the [study guide](/resources/edexcel-ial-physics-unit-3-processing-results-graphs-and-uncertainties/).
 - Go to the [Edexcel A Level Physics hub](/boards/edexcel/a-level/physics/) and tick off the [printable checklist](/checklists/edexcel/a-level/physics/).

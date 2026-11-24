@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -138,7 +138,7 @@ Always say what the weights represent and that the algorithm finds the route wit
 9. Any two: satellite navigation; network routing; robot or game path finding; travel or delivery planning.
 10. Follow the previous-vertex records back from the target to the start and reverse the list.
 
-## Related resources
+## More resources on this topic
 
 - [Optimisation algorithms study guide](/resources/aqa-a-level-computer-science-7517-optimisation-algorithms/)
 - [Optimisation algorithms practice questions](/resources/aqa-a-level-computer-science-7517-optimisation-algorithms-practice/)

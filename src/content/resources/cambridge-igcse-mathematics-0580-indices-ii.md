@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -184,7 +184,7 @@ In (b), both 3 and −3 work, because (−3)⁻² = 1/9. In (a), only the positi
 - **"Solve"** an index equation: write the common-base form as a line of working, then equate.
 - On Papers 1 and 2 (no calculator), know powers of 2 up to 2¹⁰, powers of 3 up to 3⁵, and powers of 5 up to 5⁴.
 
-## Next steps
+## More on this topic
 
 - [Indices II revision notes](/resources/cambridge-igcse-mathematics-0580-indices-ii-revision-notes/) for condensed recall and a self-test.
 - [Indices II practice questions](/resources/cambridge-igcse-mathematics-0580-indices-ii-practice/) with marked answers.

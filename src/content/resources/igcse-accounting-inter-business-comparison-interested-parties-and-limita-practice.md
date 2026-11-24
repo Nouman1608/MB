@@ -36,7 +36,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE
@@ -264,7 +264,7 @@ conclusion usually leaves them unclaimed.
 - Giving a non-financial aspect with no effect on the business.
 - Ending an evaluation without a judgement.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/igcse-accounting-inter-business-comparison-interested-parties-and-limita/).
 - Condense with the [revision notes](/resources/igcse-accounting-inter-business-comparison-interested-parties-and-limita-revision-notes/).

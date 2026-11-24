@@ -27,7 +27,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false
@@ -253,7 +253,7 @@ Step-up transformers increase the voltage and decrease the current, which reduce
 **Are real transformers 100% efficient?**
 No. Input power = output power, VₚIₚ = VₛIₛ, is an idealisation for a 100% efficient transformer; real transformers have some energy loss.
 
-## Related resources
+## More resources on this topic
 
 - [Solids, Liquids and Gases](/resources/edexcel-igcse-physics-solids-liquids-and-gases/) — the previous topic
 - [Radioactivity and Particles](/resources/edexcel-igcse-physics-radioactivity-and-particles/) — the next topic

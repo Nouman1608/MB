@@ -17,7 +17,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-01
 featured: false
 ---
@@ -186,7 +186,7 @@ Cambridge O Level World History 2147 syllabus for 2024, 2025 and 2026
 —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/649640-2024-2026-syllabus.pdf).
 
-## Related resources
+## More resources on this topic
 
 - [Core Content Option A: The Nineteenth Century, 1848-1914](/resources/o-level-world-history-nineteenth-century-1848-1914/)
 

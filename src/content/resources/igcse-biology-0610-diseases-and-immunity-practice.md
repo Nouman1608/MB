@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -151,7 +151,7 @@ Treat or safely dispose of sewage [1], so pathogens in faeces cannot reach the w
 - Rounding a percentage to the wrong precision when a number of decimal places is specified.
 - Writing separate descriptions instead of direct comparisons in "compare" questions.
 
-## Next steps
+## More on this topic
 
 - Recap with the [diseases and immunity revision notes](/resources/igcse-biology-0610-diseases-and-immunity-revision-notes/).
 - Re-read any weak section in the [study guide](/resources/igcse-biology-0610-diseases-and-immunity/).

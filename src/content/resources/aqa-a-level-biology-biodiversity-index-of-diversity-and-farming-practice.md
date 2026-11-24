@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -150,7 +150,7 @@ Describe how biodiversity can be considered from a small local habitat up to the
 - Dividing a percentage change by the new value instead of the old one.
 - Giving effects of farming with no mechanism, or one-sided answers on the balance.
 
-## Next steps
+## More on this topic
 
 - Revisit the [study guide](/resources/aqa-a-level-biology-biodiversity-index-of-diversity-and-farming/) and the [revision notes](/resources/aqa-a-level-biology-biodiversity-index-of-diversity-and-farming-revision-notes/).
 - See the [AQA A-level Biology hub](/boards/aqa/a-level/biology/) and the [printable checklist](/checklists/aqa/a-level/biology/).

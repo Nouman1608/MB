@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -155,7 +155,7 @@ No. The OCR H240 specification excludes the direction of a vector in three dimen
 **How do you find a position vector at time t?**
 Use r = r₀ + ut + ½at², adding the starting position r₀. Using s = ut + ½at² alone gives the displacement, not the position.
 
-## Next steps
+## More on this topic
 
 - Review the method in the [vectors revision notes](/resources/ocr-a-level-mathematics-vectors-in-two-and-three-dimensions-revision-notes/).
 - Re-read the [vectors study guide](/resources/ocr-a-level-mathematics-vectors-in-two-and-three-dimensions/) for the topics you got wrong.

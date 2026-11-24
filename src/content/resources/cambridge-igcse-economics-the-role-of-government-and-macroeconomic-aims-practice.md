@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -157,7 +157,7 @@ These questions cover sections 4.1 and 4.2 (the role of government, the macroeco
 - Describing a conflict without the chain of cause and effect.
 - Ending a discuss answer with no reasoned judgement.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/cambridge-igcse-economics-the-role-of-government-and-macroeconomic-aims/) and the [revision notes](/resources/cambridge-igcse-economics-the-role-of-government-and-macroeconomic-aims-revision-notes/).
 - Check progress on the [Cambridge IGCSE Economics course page](/boards/cambridge/igcse/economics/) and the [printable checklist](/checklists/cambridge/igcse/economics/).

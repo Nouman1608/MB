@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -179,7 +179,7 @@ Treating the scale factor as positive, which puts the image on the wrong side of
 **Which references does AQA GCSE Maths Topic 4 Geometry and measures cover?**
 Topic 4 Geometry and measures in AQA GCSE Mathematics 8300 covers references G1 to G25, including angles, constructions, transformations, circles, mensuration, trigonometry, similarity and vectors.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/aqa-gcse-maths-8300-geometry-and-measures-revision-notes/).
 - Re-learn anything you got wrong in the [study guide](/resources/aqa-gcse-maths-8300-geometry-and-measures/).

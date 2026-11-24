@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -174,7 +174,7 @@ feature you can find.
 12. The hearer's negative face (freedom from imposition), by using an interrogative, the modal "could" and the
     hedge "possibly" to make the request indirect.
 
-## Related resources
+## More resources on this topic
 
 - [Paper 1 methods of language analysis practice questions](/resources/aqa-a-level-english-language-7702-methods-of-language-analysis-3-1-2-practice/)
 - [Textual variations and representations revision notes](/resources/aqa-a-level-english-language-7702-section-a-textual-variations-and-representations-revision-notes/)

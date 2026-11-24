@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide is aligned to the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026), first assessment in 2018. It covers learning outcomes P3.2i to P3.2m in topic P3.2 Simple circuits. No statement in this range is printed in bold in the specification, so each is assessed in both Foundation and Higher Tier papers.
@@ -207,7 +207,7 @@ A 9.0 V cell is connected to a 15 Ω resistor and a 30 Ω resistor in series. Fi
 - Giving a power as an energy, or the reverse. Joules measure energy, watts measure joules per second.
 - Dropping units, or giving a final answer with far more figures than the data supports.
 
-## Next steps
+## More on this topic
 
 Try the [practice questions](/resources/ocr-gcse-physics-series-and-parallel-circuit-calculations-and-practice/), then use the [revision notes](/resources/ocr-gcse-physics-series-and-parallel-circuit-calculations-and-revision-notes/) for quick recall. A [free diagnostic](/diagnostics/) will show where to focus.
 

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -208,7 +208,7 @@ structure.
 **Suggest**: you are expected to apply your knowledge to an unfamiliar molecule, and more than one answer may
 be credited. Give a structure that fits every piece of data, not just the peak count.
 
-## Related resources
+## More resources on this topic
 
 - [Proton (¹H) NMR spectroscopy study guide](/resources/cambridge-a-level-chemistry-9701-a-proton-1h-nmr-spectroscopy/)
   — the companion subtopic, 37.4

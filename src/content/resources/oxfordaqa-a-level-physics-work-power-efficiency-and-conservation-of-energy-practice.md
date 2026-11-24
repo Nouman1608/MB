@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -158,7 +158,7 @@ Read the [study guide](/resources/oxfordaqa-a-level-physics-work-power-efficienc
 - Mixing up input and output when using efficiency, which gives a value above 100%.
 - Missing units, or mixing kJ and J without converting.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/oxfordaqa-a-level-physics-work-power-efficiency-and-conservation-of-energy-revision-notes/) and [study guide](/resources/oxfordaqa-a-level-physics-work-power-efficiency-and-conservation-of-energy/).
 - Open the [course page](/boards/oxfordaqa/a-level/physics/) and the [checklist](/checklists/oxfordaqa/a-level/physics/).

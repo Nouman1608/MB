@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -117,7 +117,7 @@ A full description uses figures: pH fell by 1.6 units, from 6.5 to 4.9, and the 
 
 **Describe** the formation by naming each gas, its source and the reaction in the atmosphere, in that order. **Describe** impacts by giving the effect and what is affected; where marks allow, add a reason. **Describe** strategies by naming what each removes and how. **Discuss** needs benefits and limitations, with a judgement that might mention which strategy suits the main source in the question, such as power stations or traffic.
 
-## Next steps
+## More on this topic
 
 - Quick recall and a self-test: [acid rain revision notes](/resources/cambridge-o-level-environmental-management-5014-acid-rain-5014-2027-revision-notes/).
 - Exam-style questions and answers: [acid rain practice questions](/resources/cambridge-o-level-environmental-management-5014-acid-rain-5014-2027-practice/).

@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -175,7 +175,7 @@ Learn the methods first in the [study guide](/resources/ib-dp-mathematics-aa-sl-
 - Finding only one intersection on the GDC when there are two.
 - Leaving out units (°C, minutes, hours) in a context question.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/ib-dp-mathematics-aa-sl-rational-exponential-log-functions-transformations-revision-notes/) for any method you lost marks on.
 - Reread the matching section of the [study guide](/resources/ib-dp-mathematics-aa-sl-rational-exponential-log-functions-transformations/).

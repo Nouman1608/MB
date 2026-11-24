@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -165,7 +165,7 @@ In the short run, demand for exports and imports is inelastic because of existin
 **What are common mistakes in exchange rate calculations?**
 Typical errors are reversing the exchange rate quote so a depreciation seems to raise export prices abroad, adding the elasticities without comparing the sum with 1, and giving answers without units or working.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ocr-a-level-economics-purchasing-power-parity-the-marshall-lerner-condition-revision-notes/) and the [study guide](/resources/ocr-a-level-economics-purchasing-power-parity-the-marshall-lerner-condition/).
 - Go to the [OCR Economics hub](/boards/ocr/a-level/economics/) and the [checklist](/checklists/ocr/a-level/economics/).

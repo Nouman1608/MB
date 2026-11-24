@@ -18,7 +18,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-19
 updatedDate: 2026-08-19
 featured: false
@@ -142,7 +142,7 @@ A derived unit is built by combining base units through the relationship that de
 **Is the newton a base unit?**
 No. The newton is a derived unit for force, built from mass × acceleration. The base unit of mass is the kilogram.
 
-## Related resources
+## More resources on this topic
 
 - [Use of SI Units and Their Prefixes practice questions](/resources/aqa-alevel-physics-use-of-si-units-and-their-prefixes-practice/)
 - [Limitation of Physical Measurements](/resources/aqa-alevel-physics-limitation-of-physical-measurements/) — the next sub-topic

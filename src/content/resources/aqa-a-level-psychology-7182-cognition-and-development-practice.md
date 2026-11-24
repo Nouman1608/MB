@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-29
 featured: false
 ---
@@ -155,7 +155,7 @@ Students often mix up class inclusion, conservation and egocentrism, or define a
 **How are the 16-mark Cognition and development essays marked?**
 Extended answers are marked with levels of response, not point by point. Evaluation scores higher when each study is followed by what it means for the theory, rather than being described on its own.
 
-## Next steps
+## More on this topic
 
 - Recheck weak areas in the [study guide](/resources/aqa-a-level-psychology-7182-cognition-and-development/) and [revision notes](/resources/aqa-a-level-psychology-7182-cognition-and-development-revision-notes/).
 - Revisit schemas and the cognitive approach in [Approaches in Psychology](/resources/a-level-aqa-psychology-approaches-in-psychology/) and practise with the [Approaches practice questions](/resources/aqa-a-level-psychology-approaches-practice/).

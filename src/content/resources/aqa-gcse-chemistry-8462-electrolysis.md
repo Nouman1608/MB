@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -202,7 +202,7 @@ a charge of 2− and the right has 2 electrons, also 2−.
 - Saying cryolite "reacts" with aluminium oxide. It is a solvent that lowers the melting point.
 - Writing oxygen as O or chlorine as Cl in half equations. They are diatomic: O₂ and Cl₂.
 
-## Next steps
+## More on this topic
 
 - [Electrolysis revision notes](/resources/aqa-gcse-chemistry-8462-electrolysis-revision-notes/)
 - [Electrolysis practice questions](/resources/aqa-gcse-chemistry-8462-electrolysis-practice/)

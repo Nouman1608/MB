@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -151,7 +151,7 @@ Sales volume rises by 20%, but contribution falls by $8,000 a month. The dairy i
 
 **Define** questions here are often on opportunity cost, intrapreneurship or satisficing: give a precise meaning and a short example. In **explain** and **analyse** answers, use the motives and objectives stated or implied in the source, such as a founder who mentions family or community. In **discuss** and **assess** answers, the evaluation usually lies in a trade-off: show what is gained, what is given up and what the judgement depends on, such as the business's stage of development or its owner's motives.
 
-## Related resources
+## More resources on this topic
 
 - [Entrepreneurs and Leaders revision notes](/resources/edexcel-a-level-business-ybs11-entrepreneurs-and-leaders-revision-notes/)
 - [Entrepreneurs and Leaders practice questions](/resources/edexcel-a-level-business-ybs11-entrepreneurs-and-leaders-practice/)

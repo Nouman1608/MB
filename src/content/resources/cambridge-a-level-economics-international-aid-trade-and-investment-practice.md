@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -161,7 +161,7 @@ These questions follow sections 11.5.1 and 11.5.2 of the Cambridge International
 - Forgetting that a fall in terms of trade need not mean a fall in export revenue.
 - Giving trade and aid as alternatives with no conclusion about which suits which country.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/cambridge-a-level-economics-international-aid-trade-and-investment-revision-notes/)
 - [Study guide](/resources/cambridge-a-level-economics-international-aid-trade-and-investment/)

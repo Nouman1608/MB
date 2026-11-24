@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This guide is written for the OxfordAQA International AS and A-level Economics (9640) specification, version 1.2. It covers sections 3.1.2.3 (the supply of goods and services) and 3.1.2.4 (price elasticity of supply). Section 3.1 is International AS content, and the A-level builds on it. The quantitative skills in section 3.5 can be assessed in any unit, so the calculations here also practise QS2 (percentages), QS4 (graphs) and QS8 (elasticity). All figures are invented and illustrative.
 
@@ -242,7 +242,7 @@ A strong answer weighs the factors rather than listing them. For a farm crop, th
 - Saying a steep curve always has low elasticity. Elasticity depends on percentage changes, so check the intercept.
 - Giving a PES with no interpretation. Say what the number means for the market.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/oxfordaqa-a-level-economics-supply-and-price-elasticity-of-supply-practice/), then use the [revision notes](/resources/oxfordaqa-a-level-economics-supply-and-price-elasticity-of-supply-revision-notes/). For earlier topics, see [markets revision notes](/resources/oxfordaqa-a-level-economics-markets-revision-notes/) and [markets practice](/resources/oxfordaqa-a-level-economics-markets-practice/).
 

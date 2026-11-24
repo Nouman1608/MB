@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -185,7 +185,7 @@ Learn the methods first in the [language of functions study guide](/resources/oc
 - Showing a general result with one number instead of algebra.
 - Not checking an inverse with a simple input.
 
-## Next steps
+## More on this topic
 
 - Review with the [language of functions revision notes](/resources/ocr-gcse-mathematics-j560-language-of-functions-revision-notes/).
 - Re-read the explanations in the [language of functions study guide](/resources/ocr-gcse-mathematics-j560-language-of-functions/).

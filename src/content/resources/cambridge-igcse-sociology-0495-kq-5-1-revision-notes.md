@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -147,6 +147,6 @@ Background critic: Illich, *Deschooling Society* (1971), argued schools create d
 
 **Answers:** 1. Any two: formal takes place in institutions, informal in everyday life; formal is planned and assessed, informal is unplanned; formal leads to qualifications, informal does not; formal uses trained teachers. 2. Testing, syllabus content, subjects. 3. Norms and values, punctuality, conformity, gender roles. 4. For example, boys and girls being offered different sports, or girls being praised for neatness and boys for confidence. 5. A school that chooses pupils by test, interview or other criteria. 6. Strength: smaller classes and more resources; limitation: fees exclude most families and reproduce class advantage. 7. Without boys present, girls may feel freer to choose subjects such as physics, and boys cannot dominate classroom talk. 8. They reflect the pupils a school admits, so value added is a fairer measure of effectiveness. 9. Homeschooling usually follows a curriculum set by parents; unschooling is led by the child's interests with no set curriculum. 10. Any one: needs devices and internet access (digital divide); limited social interaction; requires self-discipline. 11. Child-centred schooling where pupils have choice and a voice, such as Summerhill, founded by A. S. Neill. 12. It often has lower status than academic routes and may steer working-class pupils into lower-paid jobs.
 
-## Next steps
+## More on this topic
 
 Apply these notes in the [key question 5.1 practice questions](/resources/cambridge-igcse-sociology-0495-kq-5-1-practice/), then move on to the [key question 5.2 revision notes](/resources/cambridge-igcse-sociology-0495-kq-5-2-revision-notes/).

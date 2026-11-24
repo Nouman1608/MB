@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -160,6 +160,6 @@ Defences:  Contributory negligence may reduce damages for a 15-year-old who
 
 Work through the five steps in order and use the section numbers: examiners reward accurate statutory reference. The decisive issue is usually claimant status or, under the 1984 Act, the s1(3) conditions. Spend your time there and conclude on each claimant and each type of damage.
 
-## Related resources
+## More resources on this topic
 
 [Occupiers' liability revision notes](/resources/aqa-a-level-law-7162-occupiers-liability-revision-notes/) | [Occupiers' liability practice questions](/resources/aqa-a-level-law-7162-occupiers-liability-practice/) | [Tort overview](/resources/aqa-a-level-law-tort/)

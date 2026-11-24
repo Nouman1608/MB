@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -124,7 +124,7 @@ Notice that the answer ends on employment, the variable in the question, and add
 
 Paper 1 is multiple choice, so practise identifying the direction of each tool quickly. The Section C essays in Paper 2 have two parts and need evidence of evaluation.
 
-## Next steps
+## More on this topic
 
 - Condense this page with the [monetary policy revision notes](/resources/cambridge-a-level-economics-9708-monetary-policy-as-revision-notes/).
 - Test yourself with the [monetary policy practice questions](/resources/cambridge-a-level-economics-9708-monetary-policy-as-practice/).

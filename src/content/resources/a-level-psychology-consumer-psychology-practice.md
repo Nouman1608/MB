@@ -34,7 +34,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-08
 featured: false
 ---
@@ -144,7 +144,7 @@ Know the aim, sample, procedure, main results and conclusions. For Robson et al.
 - Writing "lab experiments lack ecological validity" without saying why for this study.
 - In question 5, giving suggestions that are not based on any named research.
 
-## Next steps
+## More on this topic
 
 Review the topics you found hardest in the [Consumer Psychology study guide](/resources/a-level-psychology-consumer-psychology/), and practise IV, DV and validity terms with the [Paper 2 Research Methods practice questions](/resources/a-level-psychology-research-methods-practice/).
 

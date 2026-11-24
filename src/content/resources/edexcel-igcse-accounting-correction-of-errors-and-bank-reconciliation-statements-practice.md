@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -173,7 +173,7 @@ Heading with date [1]. Starts with 5,102 [1]. Adds 820 [1]. Deducts 1,650 [1]. C
 - Mixing up the signs when overdrawn.
 - Failing to label the first and last lines of the reconciliation statement.
 
-## Next steps
+## More on this topic
 
 - Condensed recall: [correction of errors and bank reconciliation revision notes](/resources/edexcel-igcse-accounting-correction-of-errors-and-bank-reconciliation-statements-revision-notes/)
 - Full teaching: [correction of errors and bank reconciliation study guide](/resources/edexcel-igcse-accounting-correction-of-errors-and-bank-reconciliation-statements/)

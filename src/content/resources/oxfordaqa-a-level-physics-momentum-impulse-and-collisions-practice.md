@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -144,7 +144,7 @@ These questions follow section 3.2.6 (Momentum) of the OxfordAQA International A
 - Leaving out weight when a vertical impact asks for the force from the surface.
 - Explaining crumple zones in terms of "absorbing" force instead of increasing time.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/oxfordaqa-a-level-physics-momentum-impulse-and-collisions-revision-notes/) and [study guide](/resources/oxfordaqa-a-level-physics-momentum-impulse-and-collisions/).
 - Tick off the topic on the [printable checklist](/checklists/oxfordaqa/a-level/physics/) and visit the [course hub](/boards/oxfordaqa/a-level/physics/).

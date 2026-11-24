@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -149,7 +149,7 @@ The answer to (c) names the basis of each perspective, not just its conclusion. 
   <figcaption>Identify in the source’s words; explain in your own.</figcaption>
 </figure>
 
-## Next steps
+## More on this topic
 
 Condense these skills with the [Question 1 revision notes](/resources/cambridge-a-level-global-perspectives-9239-written-exam-question-1-revision-notes/) and test them with the [Question 1 practice questions](/resources/cambridge-a-level-global-perspectives-9239-written-exam-question-1-practice/). For the longer questions, see [Question 2: evaluating evidence](/resources/cambridge-a-level-global-perspectives-9239-written-exam-question-2/) and [Question 3: comparing arguments and perspectives](/resources/cambridge-a-level-global-perspectives-9239-written-exam-question-3/).
 

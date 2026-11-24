@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This guide follows the Cambridge O Level Mathematics (Syllabus D) syllabus for exams in 2025, 2026 and 2027. It covers sections 9.1 to 9.4 of the statistics content: classifying and tabulating data, interpreting data, averages and spread, and statistical charts. The syllabus is not tiered, so every candidate meets all of this material.
 
@@ -334,7 +334,7 @@ Give one comment on an average and one on spread, each with the numbers and a co
 **Why should you be careful drawing conclusions from data?**
 A small or biased sample may not represent everyone, grouped data hides exact values, averages hide spread, a chart cannot prove cause, and predicting beyond the data is unreliable.
 
-## Next steps
+## More on this topic
 
 Work through the [revision notes](/resources/cambridge-o-level-mathematics-statistics-classifying-data-averages-spread-and-revision-notes/) to fix the methods, then try the [practice questions](/resources/cambridge-o-level-mathematics-statistics-classifying-data-averages-spread-and-practice/). The [probability practice set](/resources/o-level-mathematics-probability-practice/) uses frequency tables in a similar way, and the [past papers page](/resources/cambridge-o-level-mathematics-4024-past-papers/) points you to official papers.
 

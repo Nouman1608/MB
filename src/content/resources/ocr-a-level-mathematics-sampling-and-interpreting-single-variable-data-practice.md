@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -173,7 +173,7 @@ Use the class midpoints, not the class boundaries, and state the results as esti
 **How should you compare two data sets in OCR A Level Mathematics?**
 Comment on both a measure of average and a measure of spread, in context. Comparing with an average only is a common way to lose marks.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/ocr-a-level-mathematics-sampling-and-interpreting-single-variable-data-revision-notes/).
 - Re-read the [study guide](/resources/ocr-a-level-mathematics-sampling-and-interpreting-single-variable-data/).

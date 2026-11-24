@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -155,7 +155,7 @@ freedom from interference; positive liberty is the capacity to act and control o
 Civil and political; economic, social and cultural; collective. 12. For: they rest on shared human
 dignity, as the UDHR states. Against: cultural relativists argue rights reflect Western values.
 
-## Related resources
+## More resources on this topic
 
 [Theory in Human Rights study guide](/resources/aqa-a-level-law-7162-theory-in-human-rights/) |
 [Theory in Human Rights practice questions](/resources/aqa-a-level-law-7162-theory-in-human-rights-practice/) |

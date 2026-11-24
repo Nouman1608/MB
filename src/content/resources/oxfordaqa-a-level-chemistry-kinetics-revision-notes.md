@@ -36,7 +36,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 For full explanations and worked examples, read the [kinetics study guide](/resources/oxfordaqa-a-level-chemistry-kinetics/)
@@ -252,7 +252,7 @@ two curves or two Ea lines by dividing one count by the other.
 - Calling the peak the mean energy.
 - Stopping before the final link: successful collisions per second.
 
-## Next steps
+## More on this topic
 
 Return to the [study guide](/resources/oxfordaqa-a-level-chemistry-kinetics/) for any point you missed, then
 work through the [practice questions](/resources/oxfordaqa-a-level-chemistry-kinetics-practice/). Related

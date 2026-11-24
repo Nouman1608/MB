@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -148,7 +148,7 @@ Because 1 u = 1.66 × 10⁻²⁴ g, the actual mass of one particle in grams is 
 - **Deduce** an abundance: set up the equation with x and 1 − x.
 - Give answers to the number of significant figures the data justify, normally three or four.
 
-## Related resources
+## More resources on this topic
 
 - [Cambridge 9701 The mole and the Avogadro constant](/resources/cambridge-a-level-chemistry-9701-as-the-mole-and-the-avogadro-constant/)
 - [Cambridge 9701 Formulas](/resources/cambridge-a-level-chemistry-9701-as-formulas/)

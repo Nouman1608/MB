@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -139,7 +139,7 @@ They cover section 3.1.2.3, Segmentation, targeting and positioning, in OxfordAQ
 **Why is revenue not enough to compare two target markets?**
 A larger segment may bring more revenue but also higher costs per unit or of reaching customers, so the option with more revenue may leave less profit. Compare contribution or profit where the case gives cost data.
 
-## Next steps
+## More on this topic
 
 - Recap the content in the [revision notes](/resources/oxfordaqa-a-level-business-segmentation-targeting-and-positioning-revision-notes/).
 - Return to the [OxfordAQA A-level Business hub](/boards/oxfordaqa/a-level/business/) and tick off topics on the [checklist](/checklists/oxfordaqa/a-level/business/).

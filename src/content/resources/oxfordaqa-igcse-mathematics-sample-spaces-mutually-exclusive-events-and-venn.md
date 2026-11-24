@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This study guide is written for OxfordAQA International GCSE Mathematics (9260), using the specification Version 5.1 (for exams May/June 2018 onwards). It covers references S14, S15 and S16 in section 3.4.3 Probability: sample spaces, mutually exclusive and exhaustive outcomes, and Venn diagrams for probabilities. All three are Core content, which the specification says can also be assessed on the Extension Tier papers, so there is nothing here that is Extension only. Use the [OxfordAQA International GCSE Mathematics hub](/boards/oxfordaqa/igcse/mathematics/) and the [checklist](/checklists/oxfordaqa/igcse/mathematics/) to see where this fits, and try the free [10-minute diagnostics](/diagnostics/) to find weak spots.
 
@@ -277,7 +277,7 @@ Exactly two sports means 5 + 4 + 2 = 11 pupils, so P = 11/40.
 - Writing the totals 28 and 35 straight into the circles and forgetting that the overlap is counted in both.
 - Leaving out the number outside the circles, so the regions do not add to the total.
 
-## Next steps
+## More on this topic
 
 Condense this with the [revision notes](/resources/oxfordaqa-igcse-mathematics-sample-spaces-mutually-exclusive-events-and-venn-revision-notes/), then work through the [practice questions](/resources/oxfordaqa-igcse-mathematics-sample-spaces-mutually-exclusive-events-and-venn-practice/). Tick off S14 to S16 on the [checklist](/checklists/oxfordaqa/igcse/mathematics/), and take a [free diagnostic](/diagnostics/) for a check on the wider topic.
 

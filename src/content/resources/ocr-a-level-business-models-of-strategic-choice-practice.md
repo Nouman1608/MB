@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -123,7 +123,7 @@ Give points both for and against the model, then reach a judgement about when it
 **Is a low price the same as a cost leadership strategy?**
 No. Cost leadership means having the lowest costs in the whole market, which allows a business to charge less and still earn a margin. A business can charge a low price without having low costs, which is not a sustainable advantage.
 
-## Next steps
+## More on this topic
 
 - Revise from the [revision notes](/resources/ocr-a-level-business-models-of-strategic-choice-revision-notes/) and the [study guide](/resources/ocr-a-level-business-models-of-strategic-choice/).
 - Check the [course hub](/boards/ocr/a-level/business/) and the [checklist](/checklists/ocr/a-level/business/).

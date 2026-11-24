@@ -17,6 +17,7 @@ description: "Condensed recall notes on the four listening exercises -- short an
 author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"
 reviewStatus: "reviewed"
+reviewNote: "2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 reviewedDate: 2026-09-29
 publishedDate: 2026-09-02
 featured: false
@@ -181,7 +182,7 @@ playing, then matching against the answer options on the second.
   <figcaption>The paper moves from what is said towards what is meant.</figcaption>
 </figure>
 
-## Related resources
+## More resources on this topic
 
 - [Cambridge IGCSE Urdu as a Second Language: Paper 2 – Listening (0539)](/resources/igcse-cambridge-urdu-paper-2-listening/)
 - [Cambridge IGCSE Urdu as a Second Language: Paper 1 Reading and Writing (0539)](/resources/igcse-cambridge-urdu-paper-1-reading-writing/)

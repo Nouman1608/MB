@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -157,7 +157,7 @@ A change of state keeps the same formula. It is a physical change, not a chemica
 11. CaCO₃(s) → CaO(s) + CO₂(g).
 12. The gas can escape into the air, so its mass is no longer counted with the solid left behind.
 
-## Next steps
+## More on this topic
 
 - [State symbols study guide](/resources/aqa-gcse-chemistry-8462-state-symbols/)
 - [State symbols practice questions](/resources/aqa-gcse-chemistry-8462-state-symbols-practice/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -146,7 +146,7 @@ This set covers **section 3.5** (SL and HL) of IB DP Mathematics: Analysis and A
 - Quoting only one angle in the ambiguous case, or not checking the angle sum.
 - Not stating the test value b sin A when asked to show that two triangles exist.
 
-## Next steps
+## More on this topic
 
 - Review the ambiguous-case table in the [unit circle study guide](/resources/ib-dp-mathematics-analysis-and-approaches-3-5/).
 - Continue with the identities in the [Pythagorean and double angle identities guide](/resources/ib-dp-mathematics-analysis-and-approaches-3-6/).

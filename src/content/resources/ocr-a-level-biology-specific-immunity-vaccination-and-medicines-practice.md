@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -127,7 +127,7 @@ These questions cover learning outcomes 4.1.1(f) to 4.1.1(n) of the OCR A Level 
 - Listing risks of antibiotics without describing resistance in terms of mutation and selection.
 - Using raw numbers when proportions or percentages are needed.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/ocr-a-level-biology-specific-immunity-vaccination-and-medicines-revision-notes/) and [study guide](/resources/ocr-a-level-biology-specific-immunity-vaccination-and-medicines/).
 - Open the [course hub](/boards/ocr/a-level/biology/) and the [checklist](/checklists/ocr/a-level/biology/).

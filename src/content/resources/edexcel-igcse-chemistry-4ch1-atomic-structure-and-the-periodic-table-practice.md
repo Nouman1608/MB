@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -190,7 +190,7 @@ x = **75%** [1].
 - Saying noble gases have "8 outer electrons" without allowing for helium's full shell of 2.
 - Classifying an element without using the oxide evidence the question gives.
 
-## Next steps
+## More on this topic
 
 - Condensed recall: [atomic structure and Periodic Table revision notes](/resources/edexcel-igcse-chemistry-4ch1-atomic-structure-and-the-periodic-table-revision-notes/)
 - Full teaching: [atomic structure and Periodic Table study guide](/resources/edexcel-igcse-chemistry-4ch1-atomic-structure-and-the-periodic-table/)

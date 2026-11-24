@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -151,7 +151,7 @@ x = 0: t² = 1, so t = ±1 [1]; t = 1 gives y = −3 and t = −1 gives y = 3, s
 - Giving only one of two points when the equation in t has two roots.
 - Leaving a "show that" answer without its final line matching the given result.
 
-## Next steps
+## More on this topic
 
 - Re-read the [coordinate geometry revision notes](/resources/oxfordaqa-a-level-mathematics-9660-p2-coordinate-geometry-revision-notes/).
 - Return to the [coordinate geometry study guide](/resources/oxfordaqa-a-level-mathematics-9660-p2-coordinate-geometry/) for the worked examples.

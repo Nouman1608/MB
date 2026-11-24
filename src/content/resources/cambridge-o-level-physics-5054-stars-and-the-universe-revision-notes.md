@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -153,7 +153,7 @@ stable star (hydrogen → helium fusion)
 11. F is moving away faster than G and is further away.
 12. About 100 000 light-years.
 
-## Related resources
+## More resources on this topic
 
 - [Stars and the Universe study guide](/resources/cambridge-o-level-physics-5054-stars-and-the-universe/)
 - [Stars and the Universe practice questions](/resources/cambridge-o-level-physics-5054-stars-and-the-universe-practice/)

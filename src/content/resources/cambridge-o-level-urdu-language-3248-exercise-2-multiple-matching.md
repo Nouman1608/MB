@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to farheen-zehra (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to farheen-zehra (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -121,7 +121,7 @@ Match each sentence to the paragraph it fits. In this example, a letter may be u
 - Check the instruction about repeated letters.
 - Keep this exercise to a short, fixed time: it is worth 9 of 50 marks.
 
-## Related resources
+## More resources on this topic
 
 - [Exercise 2 Multiple matching: revision notes](/resources/cambridge-o-level-urdu-language-3248-exercise-2-multiple-matching-revision-notes/)
 - [Exercise 2 Multiple matching: practice questions](/resources/cambridge-o-level-urdu-language-3248-exercise-2-multiple-matching-practice/)

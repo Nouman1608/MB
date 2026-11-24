@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -156,7 +156,7 @@ Set (θ/360) × 2πr equal to the arc length and solve for θ. On a calculator p
 **How do I find the area of a major sector quickly?**
 Find the area of the minor sector and subtract it from πr², or use (360 − θ)/360 × πr² directly.
 
-## Next steps
+## More on this topic
 
 - Review the methods in the [circles, arcs and sectors study guide](/resources/cambridge-igcse-mathematics-0580-circles-arcs-and-sectors/).
 - Recap with the [circles, arcs and sectors revision notes](/resources/cambridge-igcse-mathematics-0580-circles-arcs-and-sectors-revision-notes/).

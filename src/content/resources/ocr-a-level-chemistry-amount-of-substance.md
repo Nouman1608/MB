@@ -18,7 +18,7 @@ author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 featured: false
 ---
@@ -252,7 +252,7 @@ Module 2.1.3 underpins calculations in all three written components of OCR A Lev
 **How are masses measured in amount of substance practicals?**
 Mass is measured by difference: weigh a container before and after adding or removing a substance, or before and after heating. These PAG1 techniques are examined directly.
 
-## Related resources
+## More resources on this topic
 
 - [Atoms, Molecules and Stoichiometry (Cambridge AS & A Level)](/resources/as-atoms-molecules-and-stoichiometry/) — the equivalent AS-level content from a different awarding body
 - [Formulae, Equations and the Mole (Cambridge IGCSE / O Level)](/resources/formulae-equations-and-the-mole/) — the GCSE-level foundation this page builds on

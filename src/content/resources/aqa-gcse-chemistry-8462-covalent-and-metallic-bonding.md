@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches sections **4.2.1.4 Covalent bonding** and **4.2.1.5 Metallic bonding** of the AQA GCSE Chemistry (8462) specification, for teaching from September 2016 with exams from June 2018 (version 1.1). Both sit in Topic 2, Bonding, structure, and the properties of matter, which is examined on Paper 1 (1 hour 45 minutes, 100 marks, 50% of the GCSE) and can also be drawn on in Paper 2. Neither section contains any content marked Higher tier only, so everything here is for both Foundation and Higher tier. No required practical is attached to these two sections.
@@ -298,7 +298,7 @@ The links between metallic bonding and properties such as conductivity and malle
 - Saying metals have "free electrons" without saying the electrons are **delocalised** and come from the **outer shell**.
 - Describing metallic bonding as attraction between "atoms and electrons" with no mention of electrostatic attraction or of sharing through the whole structure.
 
-## Next steps
+## More on this topic
 
 1. Go through the [revision notes](/resources/aqa-gcse-chemistry-8462-covalent-and-metallic-bonding-revision-notes/) and do their quick self-test.
 2. Attempt the [practice questions](/resources/aqa-gcse-chemistry-8462-covalent-and-metallic-bonding-practice/), then mark them against the worked answers.

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide is aligned to the OCR GCSE (9-1) Gateway Science Physics A specification (J249), Version 5.0, July 2026, for first assessment in 2018. It covers statements P8.1a to P8.1e in topic P8.1 Physics on the move: typical everyday speeds, estimating accelerations, converting units and computing rates, measuring human reaction times, and the factors that affect stopping distance. None of these five statements is shown in bold, so all of them can be assessed in both tiers.
@@ -285,7 +285,7 @@ A car travels at 43.2 km/h. The driver's reaction time is 0.85 s.
 - Taking one ruler drop as the result instead of a mean.
 - Writing "braking distance doubles when speed doubles" instead of quadruples.
 
-## Next steps
+## More on this topic
 
 Revise with the [revision notes](/resources/ocr-gcse-physics-everyday-speeds-reaction-times-and-stopping-distances-revision-notes/), then test yourself with the [practice questions](/resources/ocr-gcse-physics-everyday-speeds-reaction-times-and-stopping-distances-practice/).
 

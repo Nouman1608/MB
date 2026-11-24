@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -170,7 +170,7 @@ Consent (informed agreement) -- deception (avoid unless necessary) -- debrief (r
 
 **Answers:** 1. A directional hypothesis states the direction of the effect; a non-directional one predicts an effect without its direction. 2. The sample may be biased towards people available at that time and place, so findings may not generalise. 3. To check procedures, instructions and timings before the main study. 4. Repeated measures. 5. Half the participants do condition A then B, the other half B then A, so order effects are spread across conditions. 6. For example the number of times a child hits, pushes or shouts at another child in ten minutes. 7. It gives quantitative data that are easy to analyse and compare. 8. A study in which the IV varies naturally rather than being manipulated by the researcher. 9. Ordered: 2, 4, 5, 7, 8, 9; median = (5 + 7) / 2 = 6. 10. Positively skewed. 11. A combination of the results of many studies on the same topic. 12. Confidentiality, consent, deception, debrief, right to withdraw, protection from harm, privacy.
 
-## Related resources
+## More resources on this topic
 
 - [Research methods 1 study guide](/resources/oxfordaqa-a-level-psychology-9685-research-methods-1/)
 - [Research methods 2 revision notes](/resources/oxfordaqa-a-level-psychology-9685-research-methods-2-revision-notes/)

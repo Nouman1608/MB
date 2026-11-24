@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -113,7 +113,7 @@ Judgement: the review is very important to Hesketh's survival, but its value dep
 - Describing Plan-Do-Review without linking the review to a change in the next plan.
 - Discussing a strategic review without saying how each stakeholder is affected.
 
-## Next steps
+## More on this topic
 
 - Revisit the [business plan study guide](/resources/ocr-a-level-business-h431-business-plan/) for any gaps.
 - Try the [strategy and implementation practice questions](/resources/ocr-a-level-business-h431-strategy-and-implementation-practice/).

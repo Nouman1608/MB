@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -112,7 +112,7 @@ This set covers section 4.1, The nature of operations, from the Cambridge Intern
 - Describing the problems of changing method without using the numbers in the case.
 - Stopping an evaluation at a list of pros and cons with no judgement.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/cambridge-a-level-business-the-nature-of-operations-revision-notes/) and the [study guide](/resources/cambridge-a-level-business-the-nature-of-operations/).
 - Try the [inventory and capacity questions](/resources/a-level-business-operations-practice/).

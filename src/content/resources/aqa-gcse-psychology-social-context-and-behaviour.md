@@ -29,7 +29,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -251,7 +251,7 @@ Describe the biological explanation (serotonin imbalance, treated with antidepre
 **Are antidepressants and CBT competing treatments?**
 No. They are complementary, and both appear on mark schemes as valid treatment routes for depression.
 
-## Related resources
+## More resources on this topic
 
 - [Social Context and Behaviour revision notes](/resources/gcse-psychology-social-context-revision-notes/)
 - [Social Context and Behaviour practice questions](/resources/gcse-psychology-social-context-practice/)

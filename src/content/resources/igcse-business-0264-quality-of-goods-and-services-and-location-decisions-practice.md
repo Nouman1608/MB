@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -153,7 +153,7 @@ Choose one approach, use facts from the stem such as the number of complaints, t
 **What do you need to include when working out the gain from a quality programme?**
 Subtract the cost of the programme from the savings it creates, and show each step with units. Stopping at the gross saving leaves the answer incomplete.
 
-## Next steps
+## More on this topic
 
 - Review the [study guide](/resources/igcse-business-0264-quality-of-goods-and-services-and-location-decisions/) and the [revision notes](/resources/igcse-business-0264-quality-of-goods-and-services-and-location-decisions-revision-notes/).
 - Return to the [course hub](/boards/cambridge/igcse/business/) and the [printable checklist](/checklists/cambridge/igcse/business/).

@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 These revision notes condense **index numbers**: Topic 8 of the Cambridge O Level Statistics 4040 syllabus for examination in 2025, 2026 and 2027, and the matching content in Topic 10 of Cambridge IGCSE Statistics 0479. The 4040 text lists price relatives, weighted aggregate index numbers, and their use and limitations. The 0479 learning outcomes spell the same content out in more detail, so these notes follow them. For full explanations, start with the [index numbers study guide](/resources/o-level-statistics-4040-index-numbers/). When you are ready to test yourself, use the [index numbers practice questions](/resources/o-level-statistics-4040-index-numbers-practice/).
@@ -201,7 +201,7 @@ A good limitation answer names a specific item. Compare "the weights may be out 
 - Giving limitations in general terms with no link to the items in the question.
 - Rounding too early: keep the full weighted total until the final division.
 
-## Next steps
+## More on this topic
 
 - Work through the [index numbers study guide](/resources/o-level-statistics-4040-index-numbers/) if any step above is unclear.
 - Test yourself with the [index numbers practice questions](/resources/o-level-statistics-4040-index-numbers-practice/).

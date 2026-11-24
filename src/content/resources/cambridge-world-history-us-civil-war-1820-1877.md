@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 **Key question 1.4 asks why the United States went to war with itself
@@ -246,7 +246,7 @@ Partly. Slavery was abolished and the
 14th and 15th Amendments were passed, but by 1877 federal protection
 had been withdrawn and most freed people lacked land, votes and safety.
 
-## Related resources
+## More resources on this topic
 
 - [US Civil War revision notes](/resources/cambridge-world-history-us-civil-war-revision-notes/)
 - [US Civil War practice questions](/resources/cambridge-world-history-us-civil-war-practice/)

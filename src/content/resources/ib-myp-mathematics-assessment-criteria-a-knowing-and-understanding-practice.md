@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -139,7 +139,7 @@ They do not tell you which mathematics to use. You have to recognise, for exampl
 **How should I check an answer to a problem like these?**
 Substitute back, estimate with rounded figures or apply the reverse operation. For the ticket problem, putting a = 18 and c = 8 into the equation you did not use confirms both values.
 
-## Next steps
+## More on this topic
 
 - Revisit the [Criterion A study guide](/resources/ib-myp-mathematics-assessment-criteria-a-knowing-and-understanding/) for the annotated solutions.
 - Try investigation-style questions in the [Criterion B practice questions](/resources/ib-myp-mathematics-assessment-criteria-b-investigating-patterns-practice/).

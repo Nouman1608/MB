@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -173,7 +173,7 @@ A function must give exactly one output for each input in its domain, but this r
 **How do you disprove a claim such as "6n + 1 is always prime"?**
 Find one counter-example and show why it fails, for example n = 4 gives 25 = 5 × 5. Checking a few cases that work never proves a general claim.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and-revision-notes/) and the [study guide](/resources/aqa-a-level-mathematics-mathematical-language-set-notation-functions-and/).
 - Return to the [AQA A-level Mathematics hub](/boards/aqa/a-level/mathematics/) and tick off the [checklist](/checklists/aqa/a-level/mathematics/).

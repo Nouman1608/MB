@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -184,7 +184,7 @@ Data for all questions:
 - Marking a carbon with two identical groups as chiral (questions 6 and 9).
 - Missing a side-chain chiral centre (questions 9 to 11).
 
-## Next steps
+## More on this topic
 
 - Recap with the [Amino acids, amides and chirality revision notes](/resources/ocr-a-level-chemistry-amino-acids-amides-and-chirality-revision-notes/)
 - Full explanations: [Amino acids, amides and chirality study guide](/resources/ocr-a-level-chemistry-amino-acids-amides-and-chirality/)

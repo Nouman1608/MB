@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -198,7 +198,7 @@ tan θ = 12 / 5, θ = 67.4°
 - Using the cosine rule with the angle not between the two given sides.
 - In 3D, using a slanted line as the projection on the base.
 
-## Next steps
+## More on this topic
 
 Condense the rules with the [Trigonometry and Pythagoras revision notes](/resources/edexcel-igcse-mathematics-4ma1-trigonometry-and-pythagoras-theorem-revision-notes/), then work through the [Trigonometry and Pythagoras practice questions](/resources/edexcel-igcse-mathematics-4ma1-trigonometry-and-pythagoras-theorem-practice/).
 

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -196,7 +196,7 @@ D: it depends on the mass of the ball
 - Forgetting a head start or delay in catch-up problems.
 - Using a gradient of g instead of g/2 for s against t².
 
-## Next steps
+## More on this topic
 
 - [Newton's laws of motion practice questions](/resources/oxfordaqa-a-level-physics-9630-newtons-laws-of-motion-oxfordaqa-practice/)
 - [Motion and Newton's laws practice questions](/resources/oxfordaqa-a-level-physics-motion-newtons-laws-practice/)

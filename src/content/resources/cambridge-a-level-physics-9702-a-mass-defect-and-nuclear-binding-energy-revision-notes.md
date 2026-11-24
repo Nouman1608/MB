@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -128,7 +128,7 @@ Syllabus example: ¹⁴₇N + ⁴₂He → ¹⁷₈O + ¹₁H (A: 18 = 18; Z: 9 
 
 **Answers:** 1. The difference between the total mass of the separate nucleons and the mass of the nucleus. 2. The minimum energy required to separate a nucleus into its individual protons and neutrons. 3. E = 2.0 × 10⁻³ × (3.00 × 10⁸)² = 1.8 × 10¹⁴ J. 4. Nucleon number and proton number. 5. ¹₁H (a proton). 6. Energy is released when the nucleons bind, and the mass equivalent of that energy (the binding energy) is lost. 7. Near the peak, at A ≈ 56 (iron). 8. The fission products have a higher binding energy per nucleon than uranium, so total binding energy increases and total mass decreases; the mass difference is released as energy. 9. Iron is at the peak; a heavier product would have a lower binding energy per nucleon, so energy would have to be supplied. 10. 0.0050 × 1.66 × 10⁻²⁷ × 9.00 × 10¹⁶ = 7.5 × 10⁻¹³ J. 11. 28.4 × 1.60 × 10⁻¹³ = 4.54 × 10⁻¹² J. 12. Energy must be supplied (for example as kinetic energy of the incoming particle) for the reaction to happen.
 
-## Related resources
+## More resources on this topic
 
 - [Nuclear Physics revision notes](/resources/a-physics-nuclear-physics-revision-notes/) — the whole of Topic 23
 - [Mass defect and binding energy practice questions](/resources/cambridge-a-level-physics-9702-a-mass-defect-and-nuclear-binding-energy-practice/)

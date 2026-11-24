@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Fundamentals of functional programming (section 4.12 of AQA A-Level Computer Science 7517) treats a program
@@ -187,7 +187,7 @@ The specification lists Haskell, Standard ML, Scheme and Lisp, and languages tha
 Python, F#, C#, Scala, Java 8, Delphi XE onwards and VB.NET 2008 onwards. Exam questions often use Haskell-style
 notation, so practise reading it.
 
-## Related resources
+## More resources on this topic
 
 [Functional programming study guide](/resources/aqa-a-level-computer-science-fundamentals-of-functional-programming-study-guide/) |
 [Functional programming practice questions](/resources/aqa-a-level-computer-science-fundamentals-of-functional-programming-practice/) |

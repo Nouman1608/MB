@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -147,7 +147,7 @@ Read the [study guide](/resources/ib-dp-business-management-what-is-a-business-a
 - Calling every social enterprise non-profit, when the guide lists for-profit forms too.
 - Writing "evaluate" or "recommend" answers with no judgement.
 
-## Next steps
+## More on this topic
 
 - Revise from the [revision notes](/resources/ib-dp-business-management-what-is-a-business-and-types-of-business-entities-revision-notes/) and re-read the [study guide](/resources/ib-dp-business-management-what-is-a-business-and-types-of-business-entities/).
 - Course pages: the [IB DP Business Management hub](/boards/ib/ib-dp/business/) and the [printable checklist](/checklists/ib/ib-dp/business/).

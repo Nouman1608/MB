@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-01
 featured: false
 ---
@@ -236,7 +236,7 @@ Joint demand is for goods bought together, like printers and ink. Derived demand
 **What factors affect price elasticity of supply?**
 Spare capacity, the time allowed for producers to respond, and how easily inputs and stocks can be adjusted. Supply is more elastic when firms can expand output quickly.
 
-## Related resources
+## More resources on this topic
 
 - [A Level Economics: Basic Economic Ideas and Resource Allocation (Cambridge 9708)](/resources/a-level-economics-basic-economic-ideas-and-resource-allocation/)
 

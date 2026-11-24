@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -129,7 +129,7 @@ Money figures are in dollars. All businesses and people are invented, and any le
 - Recommending a candidate without matching each point to the person specification.
 - Quoting named laws and details from memory instead of describing the control in general terms.
 
-## Next steps
+## More on this topic
 
 - Revise the [revision notes](/resources/igcse-business-0264-human-resource-management-hrm-revision-notes/).
 - Re-read the [study guide](/resources/igcse-business-0264-human-resource-management-hrm/).

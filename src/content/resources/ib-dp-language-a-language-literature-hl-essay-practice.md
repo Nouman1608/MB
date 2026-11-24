@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -236,7 +236,7 @@ produces three separate descriptions.
 - Using a critic's idea without a citation because it was paraphrased.
 - Drafting with no word budget, then cutting analysis to fit.
 
-## Next steps
+## More on this topic
 
 - Review the [HL essay revision notes](/resources/ib-dp-language-a-language-literature-hl-essay-revision-notes/).
 - Re-read the worked examples in the [HL essay study guide](/resources/ib-dp-language-a-language-literature-hl-essay/).

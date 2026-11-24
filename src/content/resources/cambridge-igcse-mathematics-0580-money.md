@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -162,7 +162,7 @@ Take off the fee in the currency in which it is charged, before converting.
 - **Give your answer to the nearest cent / dollar / rupee**: do this only at the end.
 - **Explain** a decision: refer to the amounts you worked out, with currency units.
 
-## Next steps
+## More on this topic
 
 - Condensed rules and a self-test: the [money revision notes](/resources/cambridge-igcse-mathematics-0580-money-revision-notes/).
 - Exam-style questions with mark schemes: the [money practice questions](/resources/cambridge-igcse-mathematics-0580-money-practice/).

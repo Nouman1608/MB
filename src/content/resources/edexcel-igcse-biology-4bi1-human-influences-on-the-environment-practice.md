@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -126,7 +126,7 @@ Learn the content first with the [human influences on the environment study guid
 - Leaving out the step of leaching in a fertiliser answer.
 - Confusing leaching with soil erosion.
 
-## Next steps
+## More on this topic
 
 - Re-read the [human influences on the environment study guide](/resources/edexcel-igcse-biology-4bi1-human-influences-on-the-environment/).
 - Revise with the [ecology and the environment revision notes](/resources/edexcel-igcse-biology-4bi1-ecology-and-the-environment-revision-notes/).

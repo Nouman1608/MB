@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -133,7 +133,7 @@ These questions cover sections 2.2 Motivation and 2.3 Management of the Cambridg
 - Crediting a manager for a change without allowing for other causes.
 - Concluding an evaluation question with no clear recommendation.
 
-## Next steps
+## More on this topic
 
 - Read the [revision notes](/resources/cambridge-a-level-business-motivation-and-management-revision-notes/) and the [study guide](/resources/cambridge-a-level-business-motivation-and-management/).
 - Go to the [Cambridge A Level Business hub](/boards/cambridge/a-level/business/) and the [checklist](/checklists/cambridge/a-level/business/).

@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -157,7 +157,7 @@ The **significance** is that the Halting problem demonstrates that there are som
 - Saying the Halting problem is too slow to solve. It cannot be solved.
 - Saying a heuristic always finds the best answer.
 
-## Next steps
+## More on this topic
 
 - [Classification of algorithms revision notes](/resources/oxfordaqa-a-level-computer-science-9645-classification-of-algorithms-revision-notes/)
 - [Classification of algorithms practice questions](/resources/oxfordaqa-a-level-computer-science-9645-classification-of-algorithms-practice/)

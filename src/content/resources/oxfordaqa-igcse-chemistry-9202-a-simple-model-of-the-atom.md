@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -135,7 +135,7 @@ The **relative atomic mass (Ar)** of an element compares the mass of its atoms w
 - **Draw** or **give** electronic structures with the correct number in each shell, checking the total.
 - **Explain** why Ar is not a whole number: "it is an average of the masses of the isotopes of the element".
 
-## Next steps
+## More on this topic
 
 - Condense this with the [simple model of the atom revision notes](/resources/oxfordaqa-igcse-chemistry-9202-a-simple-model-of-the-atom-revision-notes/).
 - Practise with the [simple model of the atom practice questions](/resources/oxfordaqa-igcse-chemistry-9202-a-simple-model-of-the-atom-practice/).

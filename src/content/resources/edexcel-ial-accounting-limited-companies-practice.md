@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -201,7 +201,7 @@ Agreed values differ as follows: Caldbeck's property 300,000 and inventory 52,00
 - Discontinued results split across revenue and expenses instead of one line.
 - Agreed values used in the vendor's realisation account instead of carrying values.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/edexcel-ial-accounting-limited-companies-revision-notes/)
 - [Study guide](/resources/edexcel-ial-accounting-limited-companies/)

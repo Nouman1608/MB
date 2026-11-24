@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -154,7 +154,7 @@ From the top equation, p = 2q ÷ 3. Substitute: −2q ÷ 3 + 4q = 10, so 10q ÷ 
 - **Describe fully the single transformation**: name it as a translation and give its column vector.
 - **Express in terms of a and b**: answer with letters, not columns.
 
-## Next steps
+## More on this topic
 
 Try the [vectors in two dimensions practice questions](/resources/cambridge-o-level-mathematics-4024-vectors-in-two-dimensions-practice/) and recap with the [vectors in two dimensions revision notes](/resources/cambridge-o-level-mathematics-4024-vectors-in-two-dimensions-revision-notes/). Section 7.3 continues with the length of a vector: see [magnitude of a vector](/resources/cambridge-o-level-mathematics-4024-magnitude-of-a-vector/). Section 7.4 applies vectors to shapes: see [vector geometry](/resources/cambridge-o-level-mathematics-4024-vector-geometry/).
 

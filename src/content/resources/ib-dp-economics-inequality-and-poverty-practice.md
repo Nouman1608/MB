@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -153,7 +153,7 @@ Work out the tax as a percentage of income for each household. If the percentage
 **What are common mistakes in IB Economics inequality questions?**
 Common slips include leaving the Lorenz curve axes unlabelled, confusing the marginal tax rate with the average rate, and listing policies without evaluating their cost, speed and side effects.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/ib-dp-economics-inequality-and-poverty/) for any part you missed, then rework the weakest questions.
 - Use the [revision notes](/resources/ib-dp-economics-inequality-and-poverty-revision-notes/) for the final week.

@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -172,7 +172,7 @@ Use these values: C 12.0, H 1.0, N 14.0, O 16.0. Proton NMR shifts: alkyl CH abo
 - Control measures that do not match the hazard given.
 - A melting temperature described as "higher" when the sample is impure.
 
-## Next steps
+## More on this topic
 
 - [All free 10-minute diagnostics](/diagnostics/), to find weak topics
 - [Organic synthesis revision notes](/resources/edexcel-ial-chemistry-organic-synthesis-revision-notes/) for a final recap

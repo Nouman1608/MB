@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This guide is written for the OxfordAQA International AS and A-level Economics (9640) specification, version 1.2. It covers sections 3.2.2.1 (the circular flow of income), 3.2.2.2 (aggregate demand and aggregate supply analysis) and 3.2.2.3 (determinants of aggregate demand). Section 3.2 is International AS content, and the A-level builds on it. The quantitative skills in section 3.5 can be assessed in any unit, so the sums here practise QS2 (percentages), QS4 (graphs), QS5 (index numbers), QS7 (money to real terms) and QS9 (interpreting data). Every figure is invented and illustrative.
 
@@ -226,7 +226,7 @@ Net investment halves between the third and fourth rows although output is still
 - Using "demand-pull" and "cost-push" without naming the curve that shifts and the direction.
 - Treating the accelerator as a link between investment and the level of income rather than its change.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/oxfordaqa-a-level-economics-the-circular-flow-and-aggregate-demand-and-supply-practice/), then check recall with the [revision notes](/resources/oxfordaqa-a-level-economics-the-circular-flow-and-aggregate-demand-and-supply-revision-notes/). Tick off outcomes on the [checklist](/checklists/oxfordaqa/a-level/economics/).
 

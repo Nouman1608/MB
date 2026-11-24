@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -153,7 +153,7 @@ D: Between non-sister chromatids, in anaphase I **[1]**
 - Naming a stage without giving visible evidence.
 - Missing random fertilisation in variation answers.
 
-## Next steps
+## More on this topic
 
 - [16.1 study guide](/resources/cambridge-a-level-biology-9700-passage-of-information-from-parents-to-offspring-cambridge/)
 - [16.1 revision notes](/resources/cambridge-a-level-biology-9700-passage-of-information-from-parents-to-offspring-cambridge-revision-notes/)

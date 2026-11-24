@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -174,6 +174,6 @@ The urban share rose from 40% to 50%, so the country is urbanising. Notice that 
 - **Calculate**: separate natural change and net migration, then combine, and give percentages to the stated accuracy.
 - Link impacts to the environment, for example population growth → more waste → land and water pollution.
 
-## Next steps
+## More on this topic
 
 Revise with the [Human population size revision notes](/resources/cambridge-igcse-environmental-management-0680-human-population-size-revision-notes/), then try the [Human population size practice questions](/resources/cambridge-igcse-environmental-management-0680-human-population-size-practice/).

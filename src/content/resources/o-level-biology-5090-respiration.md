@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches Topic 10, Respiration, for Cambridge O Level Biology 5090. It is aligned to the Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4), and covers every learning outcome in sections 10.1 Respiration, 10.2 Aerobic respiration and 10.3 Anaerobic respiration, including the yeast investigation the syllabus lists. The 5090 syllabus is not tiered, so every candidate studies all of it.
@@ -272,7 +272,7 @@ By minute 6 uptake is back at the resting value, so the debt has been repaid.
 - Explaining the fall in yeast respiration above the optimum as "the yeast gets too hot" without enzymes being **denatured**.
 - Saying breathing stays fast after exercise "to get more energy". It supplies oxygen to break down lactic acid in the liver.
 
-## Next steps
+## More on this topic
 
 Condense this guide with the [revision notes](/resources/o-level-biology-5090-respiration-revision-notes/), then try the [practice questions](/resources/o-level-biology-5090-respiration-practice/).
 

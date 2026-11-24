@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-29
 featured: false
 ---
@@ -180,7 +180,7 @@ Name each symptom of groupthink and point to the specific person or event in the
 **What are common mistakes in work and the individual questions?**
 Students often explain social facilitation only as improvement, treat deindividuation as always antisocial, and claim workload alone causes illness, which contradicts the Whitehall II findings.
 
-## Next steps
+## More on this topic
 
 - Check your weaker areas with a [free diagnostic](/diagnostics/).
 - For Unit 1 practice, try the [9685 Unit 1 practice questions](/resources/oxfordaqa-a-level-psychology-practice/).

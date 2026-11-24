@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -158,7 +158,7 @@ Write the chain rule in full, for example dV/dt = (dV/dh) × (dh/dt), differenti
 **What counts as evidence for the nature of a stationary point?**
 Either the value of the second derivative at the point (positive for a minimum, negative for a maximum) or the sign of dy/dx on either side. If a question names the method, you must use that one.
 
-## Next steps
+## More on this topic
 
 - [Paper 1 differentiation revision notes](/resources/a-level-maths-9709-pure-mathematics-1-differentiation-revision-notes/)
 - [Paper 1 differentiation study guide](/resources/a-level-maths-9709-pure-mathematics-1-differentiation/)

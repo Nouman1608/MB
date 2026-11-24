@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -169,6 +169,6 @@ Related: [study guide on motion](/resources/cambridge-igcse-physics-0625-motion/
 - *(Extended)* Saying that at terminal velocity there are no forces; they are balanced.
 - *(Extended)* Describing a parachute as making the skydiver move upwards.
 
-## Next steps
+## More on this topic
 
 Go back to the [revision notes on motion](/resources/cambridge-igcse-physics-0625-motion-revision-notes/) for any part you found hard, then try the [practice questions on forces](/resources/cambridge-igcse-physics-0625-forces-practice/).

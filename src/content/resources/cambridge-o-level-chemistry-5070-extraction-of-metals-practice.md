@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -158,6 +158,6 @@ D: zinc
 - Leaving out units or the ratio step in reacting-mass calculations.
 - Saying the anodes are replaced because aluminium attacks them.
 
-## Next steps
+## More on this topic
 
 Check any slips in the [Extraction of metals study guide](/resources/cambridge-o-level-chemistry-5070-extraction-of-metals/), then return to the [Reactivity series practice questions](/resources/cambridge-o-level-chemistry-5070-reactivity-series-practice/) to connect extraction with the order of the series.

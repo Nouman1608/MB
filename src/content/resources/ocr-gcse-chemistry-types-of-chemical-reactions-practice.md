@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -192,7 +192,7 @@ Explain, in terms of oxygen, which substance is oxidised and which is reduced, a
 - (Higher Tier only) Treating a pH change of 3 as a factor of 3 rather than 1000.
 - Not converting cm³ to dm³ in a concentration calculation.
 
-## Next steps
+## More on this topic
 
 - Recap with the [Types of chemical reactions revision notes](/resources/ocr-gcse-chemistry-types-of-chemical-reactions-revision-notes/).
 - Go back to the [Types of chemical reactions study guide](/resources/ocr-gcse-chemistry-types-of-chemical-reactions/) for the outcomes that caught you out.

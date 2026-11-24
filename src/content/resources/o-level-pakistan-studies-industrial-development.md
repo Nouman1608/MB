@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 **Industrial development is Section 5 of Paper 2 in Cambridge O Level Pakistan Studies 2059.** It
@@ -203,7 +203,7 @@ industrial estate offers serviced plots and infrastructure without that export c
 Mostly informal or semi-formal: kilns are often unregistered, use seasonal and family labour, and
 have been criticised for bonded labour and smoke pollution.
 
-## Related resources
+## More resources on this topic
 
 - [Industrial Development revision notes](/resources/o-level-pakistan-studies-industrial-development-revision-notes/)
 - [Industrial Development practice questions](/resources/o-level-pakistan-studies-industrial-development-practice/)

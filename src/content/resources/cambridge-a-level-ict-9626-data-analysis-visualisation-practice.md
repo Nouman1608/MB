@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -128,7 +128,7 @@ Explain the likely causes and describe how to put them right. **[4]**
 - Giving a chart type without a reason.
 - Not checking that the key field is unique and in the same format in both sources.
 
-## Next steps
+## More on this topic
 
 - Recap with the [topic revision notes](/resources/a-level-cambridge-ict-data-analysis-and-visualisation-revision-notes/).
 - Reread the [study guide](/resources/cambridge-a-level-ict-9626-data-analysis-visualisation/).

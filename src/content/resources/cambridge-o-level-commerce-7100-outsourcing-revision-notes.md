@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Syllabus 2.2.1 names only 'the growth of outsourcing: contract manufacturing and logistics'; please check that the depth given to reasons for growth, benefits and risks suits this statement."
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Syllabus 2.2.1 names only 'the growth of outsourcing: contract manufacturing and logistics'; please check that the depth given to reasons for growth, benefits and risks suits this statement. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -148,7 +148,7 @@ When a question gives figures:
 
 **Where else does outsourcing appear in the course?** The meaning and benefits of in-house and outsourced production are in 1.2.2, and logistics elements are in 1.1.2 and Topic 4.
 
-## Next steps
+## More on this topic
 
 Try the [outsourcing practice questions](/resources/cambridge-o-level-commerce-7100-outsourcing-practice/), and revisit 1.2.2 in the [production revision notes](/resources/cambridge-o-level-commerce-7100-production-revision-notes/).
 

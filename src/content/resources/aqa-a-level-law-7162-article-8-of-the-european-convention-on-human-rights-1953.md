@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -190,7 +190,7 @@ that the first stage is fully argued with authority before moving on.
 - **Discuss**: evaluate how well English law protects privacy without a statutory privacy tort, using
   Wainwright, Campbell and Vidal-Hall.
 
-## Related resources
+## More resources on this topic
 
 [Article 8 revision notes](/resources/aqa-a-level-law-7162-article-8-of-the-european-convention-on-human-rights-1953-revision-notes/) |
 [Article 8 practice questions](/resources/aqa-a-level-law-7162-article-8-of-the-european-convention-on-human-rights-1953-practice/) |

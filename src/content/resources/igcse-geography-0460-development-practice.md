@@ -22,6 +22,7 @@ publishedDate: 2026-09-29
 featured: false
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
+reviewNote: "2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 reviewedDate: 2026-10-09
 ---
 
@@ -175,7 +176,7 @@ TNC investment creates factory jobs with regular wages, such as Nike's contract 
 - Using a TNC case study with no named countries, figures or links between headquarters, factories and markets.
 - Ending an extended answer with no justified judgement when the question says "justify".
 
-## Next steps
+## More on this topic
 
 - Re-read the [Development study guide](/resources/igcse-geography-0460-development/) for any question you found hard.
 - Use the [Development revision notes](/resources/igcse-geography-0460-development-revision-notes/) for a quick self-test before a mock.

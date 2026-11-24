@@ -27,7 +27,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false
@@ -272,7 +272,7 @@ A lamp lighting up or an LED glowing shows a current is present. It is a simple 
 **What units does Topic 2 use?**
 Topic 2 uses the ampere, coulomb, joule, ohm, second, volt and watt.
 
-## Related resources
+## More resources on this topic
 
 - [Forces and Motion](/resources/edexcel-igcse-physics-forces-and-motion/) — the previous topic
 - [Waves](/resources/edexcel-igcse-physics-waves/) — the next topic

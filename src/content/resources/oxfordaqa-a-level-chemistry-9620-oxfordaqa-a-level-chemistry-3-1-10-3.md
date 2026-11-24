@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -169,7 +169,7 @@ At 25 °C the same solution has pH 12.00. The solution is just as alkaline in te
 - **Deduce** whether ionisation is endothermic: Kw rises with temperature → equilibrium moves right on heating → endothermic.
 - **Explain** whether water at a given pH is neutral: compare [H⁺] and [OH⁻], not the pH with 7.
 
-## Next steps
+## More on this topic
 
 Condense this with the [3.1.10.3 revision notes](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-10-3-revision-notes/), then try the [3.1.10.3 practice questions](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-10-3-practice/). For strong acids, see [pH (3.1.10.2)](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-10-2/).
 

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -114,7 +114,7 @@ Bringing inflation from 8% to 2% costs three years with unemployment 2.5 points 
 - **Analyse:** use an SRPC and LRPC diagram, or an AD/AS diagram, and refer to it.
 - **Evaluate:** say what each link depends on, such as spare capacity, elasticities, the exchange-rate regime or how fast expectations adjust, and reach a judgement.
 
-## Next steps
+## More on this topic
 
 - Condense this page with the [links between macroeconomic problems revision notes](/resources/cambridge-a-level-economics-9708-links-between-macroeconomic-problems-revision-notes/).
 - Test yourself with the [links between macroeconomic problems practice questions](/resources/cambridge-a-level-economics-9708-links-between-macroeconomic-problems-practice/).

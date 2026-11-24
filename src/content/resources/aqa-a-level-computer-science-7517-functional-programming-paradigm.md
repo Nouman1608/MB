@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -159,7 +159,7 @@ The output type of `f` must match the input type of `g`, or the composition is n
 - For composition, evaluate the **inner function first**, and write each intermediate value.
 - State domain and co-domain as sets or data types, using the notation in the question.
 
-## Related resources
+## More resources on this topic
 
 - [Functional programming paradigm revision notes](/resources/aqa-a-level-computer-science-7517-functional-programming-paradigm-revision-notes/)
 - [Functional programming paradigm practice questions](/resources/aqa-a-level-computer-science-7517-functional-programming-paradigm-practice/)

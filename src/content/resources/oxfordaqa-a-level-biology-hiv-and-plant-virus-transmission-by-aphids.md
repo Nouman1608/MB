@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches HIV and the spread of plant viruses by aphids from scratch. It follows the OxfordAQA International AS and A-level Biology (9610) specification, Version 5.1, and covers sections 3.2.4 (HIV as an example of a human disease caused by a virus) and 3.2.9 (the role of aphids in spreading plant viruses), plus the Unit 2 biological principle that viruses are acellular and non-living. The specification lists Units 1 and 2 under International AS and A-level, and Units 3 and 4 as International A-level only, so this material is in the first group.
@@ -203,7 +203,7 @@ Suction-trap data over six weeks from a field of 400 monitored plants:
 - Saying aphids suck sap using muscle power. The pressure in the phloem forces the sap in.
 - Saying aphids bite leaves. The stylets reach the phloem.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [practice questions](/resources/oxfordaqa-a-level-biology-hiv-and-plant-virus-transmission-by-aphids-practice/) and condense with the [revision notes](/resources/oxfordaqa-a-level-biology-hiv-and-plant-virus-transmission-by-aphids-revision-notes/).
 

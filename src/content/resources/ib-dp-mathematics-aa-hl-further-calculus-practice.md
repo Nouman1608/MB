@@ -42,7 +42,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -168,7 +168,7 @@ Learn the methods first in the [further calculus study guide](/resources/ib-dp-m
 - Volumes about the y-axis using x-limits (question 9).
 - Euler values rounded mid-table (question 10).
 
-## Next steps
+## More on this topic
 
 - Recap the key facts in the [further calculus revision notes](/resources/ib-dp-mathematics-aa-hl-further-calculus-revision-notes/).
 - Re-learn any weak topic in the [further calculus study guide](/resources/ib-dp-mathematics-aa-hl-further-calculus/).

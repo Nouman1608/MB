@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -174,7 +174,7 @@ Starting balance [1]; debit 350 [1]; credit 2,840, twice 1,420 [1]; credit 600 [
 - Correcting the control account for an error that is only in the list.
 - Forgetting that a debit posted on the credit side is out by twice the amount.
 
-## Next steps
+## More on this topic
 
 - Revisit the [study guide](/resources/edexcel-ial-accounting-the-trial-balance-and-correction-of-errors/) and [revision notes](/resources/edexcel-ial-accounting-the-trial-balance-and-correction-of-errors-revision-notes/).
 - Open the [Edexcel A-Level Accounting hub](/boards/edexcel/a-level/accounting/) and tick off the [printable checklist](/checklists/edexcel/a-level/accounting/).

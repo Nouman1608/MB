@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the course does not fix a case-study place. This page uses the Amazon in Brazil. Check the deforestation figures (about 27,000 square km in 2004, under 5,000 in 2012, about 13,000 in 2021), the dates of the Trans-Amazonian highway, soy moratorium and Amazon Fund, and the Belo Monte dam against your own case-study notes."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the course does not fix a case-study place. This page uses the Amazon in Brazil. Check the deforestation figures (about 27,000 square km in 2004, under 5,000 in 2012, about 13,000 in 2021), the dates of the Trans-Amazonian highway, soy moratorium and Amazon Fund, and the Belo Monte dam against your own case-study notes. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -165,6 +165,6 @@ This answer names the place, gives causes with specific detail, and links impact
 - **Ignoring trade-offs.** Management strategies have limits as well as benefits.
 - **Quoting figures without a date or source.** Use dates and approximate values.
 
-## Next steps
+## More on this topic
 
 Condense this with the [tropical rainforests revision notes](/resources/oxfordaqa-igcse-geography-9230-tropical-rainforests-revision-notes/) and test yourself with the [tropical rainforests practice questions](/resources/oxfordaqa-igcse-geography-9230-tropical-rainforests-practice/). Compare it with the [hot deserts study guide](/resources/oxfordaqa-igcse-geography-9230-hot-deserts/).

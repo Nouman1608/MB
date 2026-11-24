@@ -36,7 +36,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-29
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -177,7 +177,7 @@ Evaluation: Latour's actor-network theory rejects the either/or by treating huma
 - Ending extended answers with no judgement, or a judgement that ignores the arguments made.
 - Writing about AI and algorithms without naming a type, use or study.
 
-## Next steps
+## More on this topic
 
 - Check your weaker answers against the [study guide](/resources/oxfordaqa-a-level-sociology-9690-people-and-technology/).
 - Review AS links in the [Exploring Sociology practice questions](/resources/oxfordaqa-a-level-sociology-exploring-sociology-practice/) and the [exam preparation guide](/resources/oxfordaqa-a-level-sociology-exam-preparation/).

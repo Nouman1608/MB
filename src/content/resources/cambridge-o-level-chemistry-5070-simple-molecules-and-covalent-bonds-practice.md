@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -161,7 +161,7 @@ These questions cover section 2.5, Simple molecules and covalent bonds, of the C
 - Electrons drawn outside the overlap for a shared pair.
 - Saying the substance has "no electrons" instead of "no delocalised electrons or ions".
 
-## Next steps
+## More on this topic
 
 - Recap with the [simple molecules and covalent bonds revision notes](/resources/cambridge-o-level-chemistry-5070-simple-molecules-and-covalent-bonds-revision-notes/).
 - Compare with giant structures in the [giant covalent structures practice questions](/resources/cambridge-o-level-chemistry-5070-giant-covalent-structures-practice/).

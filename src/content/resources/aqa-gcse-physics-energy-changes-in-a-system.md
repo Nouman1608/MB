@@ -18,7 +18,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-19
 updatedDate: 2026-08-19
 featured: false
@@ -243,7 +243,7 @@ Required practical activity 1 determines the specific heat capacity of one or mo
 **What is power?**
 Power is the rate at which energy is transferred or work is done, P = E/t or P = W/t. A transfer of 1 joule per second is a power of 1 watt.
 
-## Related resources
+## More resources on this topic
 
 - [Energy Changes in a System revision notes](/resources/aqa-gcse-physics-energy-changes-revision-notes/)
 - [Energy Changes in a System practice questions](/resources/aqa-gcse-physics-energy-changes-practice/)

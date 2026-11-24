@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -186,7 +186,7 @@ alone do not prove the school is more effective.
 11. A.S. Neill's Summerhill School, or Montessori schools.
 12. Ivan Illich (*Deschooling Society*, 1971).
 
-## Related resources
+## More resources on this topic
 
 - [What is education and schooling? study guide](/resources/o-level-sociology-education-and-schooling/)
 - [Practice questions for key question 5.1](/resources/cambridge-o-level-sociology-2251-kq-5-1-practice/)

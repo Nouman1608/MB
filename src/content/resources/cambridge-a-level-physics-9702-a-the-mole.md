@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -125,7 +125,7 @@ Equal masses, but helium has ten times as many atoms, because each helium atom h
 - **Estimate** (molecular spacing): volume per molecule from molar volume ÷ N_A, then a cube root.
 - **Show that**: give at least one more significant figure than the value to be shown.
 
-## Related resources
+## More resources on this topic
 
 - [Ideal Gases study guide](/resources/a-physics-ideal-gases/) — the whole of Topic 15
 - [The mole revision notes](/resources/cambridge-a-level-physics-9702-a-the-mole-revision-notes/)

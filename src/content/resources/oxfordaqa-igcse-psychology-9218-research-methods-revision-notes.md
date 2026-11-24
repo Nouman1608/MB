@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -185,7 +185,7 @@ are managers; sample of 40 → 0.25 × 40 = 10 managers.
 11. Consistency: the same results would be found if the study were repeated.
 12. Use participant numbers instead of names, or store data securely.
 
-## Related resources
+## More resources on this topic
 
 - [Research Methods (Paper 1) practice questions](/resources/oxfordaqa-igcse-psychology-9218-research-methods-practice/)
 - [Memory revision notes](/resources/oxfordaqa-igcse-psychology-9218-memory-revision-notes/)

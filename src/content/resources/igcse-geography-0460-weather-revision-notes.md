@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -199,7 +199,7 @@ Fairly dry: the 6-degree difference shows a lot of evaporation from the wet bulb
 and trees do not block or channel the wind and give false readings. 12. Rising air expands and
 cools to its dew point, water vapour condenses into cloud droplets, and these grow until they fall.
 
-## Related resources
+## More resources on this topic
 
 - [Weather study guide](/resources/igcse-geography-weather/)
 - [The Natural Environment revision notes (whole theme)](/resources/igcse-geography-natural-environment-revision-notes/)

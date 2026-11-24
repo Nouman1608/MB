@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -153,6 +153,6 @@ Lost profit from lost sales = lost revenue x margin
 - In an extended answer, link at least two ideas from this section, for example "a power culture means decisions favour the owner's view of the shareholder model, so the community's interests may be ignored".
 - Always finish with a judgement that names the factor on which your view depends.
 
-## Next steps
+## More on this topic
 
 Check slips against the [Influences on business decisions study guide](/resources/edexcel-a-level-business-ybs11-influences-on-business-decisions/), then practise with the [Influences on business decisions practice questions](/resources/edexcel-a-level-business-ybs11-influences-on-business-decisions-practice/).

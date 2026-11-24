@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -179,7 +179,7 @@ Learn the methods first in the [powers and roots study guide](/resources/cambrid
 - Missing brackets on the calculator for a numerator or a negative base.
 - Rounding before the last step, or rounding when all the figures were asked for.
 
-## Next steps
+## More on this topic
 
 - Rework any errors using the [powers and roots revision notes](/resources/cambridge-igcse-mathematics-0580-powers-and-roots-revision-notes/).
 - Continue with the [Indices I practice questions](/resources/cambridge-igcse-mathematics-0580-indices-i-practice/).

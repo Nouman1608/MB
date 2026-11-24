@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -175,7 +175,7 @@ number = 3.00 × 10⁻³ × 6.02 × 10²³ = **1.81 × 10²¹ K⁺ ions** [1]
 - Forgetting the excess reactant gas, or counting a liquid product, in a final gas volume.
 - Not following a stated precision, such as "2 decimal places".
 
-## Next steps
+## More on this topic
 
 - [Revision notes for Structure 1.4](/resources/ib-dp-chemistry-counting-particles-by-mass-the-mole-revision-notes/)
 - [Study guide for Structure 1.4](/resources/ib-dp-chemistry-counting-particles-by-mass-the-mole/)

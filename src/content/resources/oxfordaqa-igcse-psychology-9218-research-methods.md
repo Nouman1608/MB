@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -190,7 +190,7 @@ Each line gives a design decision **and** a reason, which is what "outline how" 
 - Confusing random allocation (to conditions) with random sampling (from a population).
 - Saying deception is never allowed; it is permitted when justified and followed by a debrief.
 
-## Related resources
+## More resources on this topic
 
 - [Research Methods (Paper 1) revision notes](/resources/oxfordaqa-igcse-psychology-9218-research-methods-revision-notes/)
 - [Research Methods (Paper 1) practice questions](/resources/oxfordaqa-igcse-psychology-9218-research-methods-practice/)

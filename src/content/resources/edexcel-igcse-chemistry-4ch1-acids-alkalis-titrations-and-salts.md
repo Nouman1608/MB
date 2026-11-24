@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches sub-topics (f) Acids, alkalis and titrations and (g) Acids, bases and salt preparations of Topic 2, Inorganic chemistry, in the Pearson Edexcel International GCSE Chemistry (4CH1) specification, Issue 3 (September 2024). It covers points 2.28–2.43 in depth. The qualification is untiered. Points 2.33C, 2.40C, 2.41C and 2.43C are bold with a C reference, so they are assessed on Paper 2 only, and this guide labels them **Paper 2 only**. Other points can appear on either paper.
@@ -361,7 +361,7 @@ Lead compounds are toxic: wear gloves and eye protection.
 - Heating hydrated crystals to dryness.
 - Leaving out the washing step for a precipitate.
 
-## Next steps
+## More on this topic
 
 Condense this with the [revision notes](/resources/edexcel-igcse-chemistry-4ch1-acids-alkalis-titrations-and-salts-revision-notes/), then try questions 6–10 of the [Groups 1 and 7, acids, salts and tests practice set](/resources/edexcel-igcse-chemistry-4ch1-inorganic-groups-acids-salts-tests-practice/).
 

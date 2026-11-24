@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -128,7 +128,7 @@ If a transaction tries to do something that would break that order (for example,
 - For "give a disadvantage", name a specific problem (waiting, deadlock, restarts).
 - Always link the answer to the scenario: bank balance, seats, stock.
 
-## Related resources
+## More resources on this topic
 
 - [Client server databases revision notes](/resources/aqa-a-level-computer-science-7517-client-server-databases-revision-notes/)
 - [Client server databases practice questions](/resources/aqa-a-level-computer-science-7517-client-server-databases-practice/)

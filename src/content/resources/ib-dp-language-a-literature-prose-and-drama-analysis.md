@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches you how to read and write about **prose fiction and drama** for IB
@@ -292,7 +292,7 @@ Use a four-part pattern in each analytical point:
 - Writing "the audience feels tension" without saying what on stage creates it.
 - Mixing up in-text setting with the context of production.
 
-## Next steps
+## More on this topic
 
 Condense this unit with the [revision notes](/resources/ib-dp-language-a-literature-prose-and-drama-analysis-revision-notes/),
 then test yourself with the [practice questions](/resources/ib-dp-language-a-literature-prose-and-drama-analysis-practice/).

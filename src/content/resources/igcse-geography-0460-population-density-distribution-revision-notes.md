@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-18
 featured: false
@@ -191,7 +191,7 @@ desert country, and the main cities and jobs are there. 10. For example irrigati
 in dry areas. 11. To draw people and development away from the crowded coast into the sparsely
 populated interior.
 
-## Related resources
+## More resources on this topic
 
 - [Population and Settlement study guide](/resources/igcse-geography-population-and-settlement/)
 - [Population and Settlement revision notes (whole theme)](/resources/igcse-geography-population-settlement-revision-notes/)

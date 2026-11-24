@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -119,7 +119,7 @@ Related: the [Achieving quality production study guide](/resources/cambridge-o-l
 - Recommending one approach in question 9 without using the scale of production.
 - Defining quality as "expensive" or "luxury" in question 10 or 11.
 
-## Next steps
+## More on this topic
 
 Review the cost calculations in the [Achieving quality production study guide](/resources/cambridge-o-level-business-7115-achieving-quality-production/), and practise location decisions with the [Achieving Quality Production and Location Decisions practice questions](/resources/o-level-business-achieving-quality-production-and-location-decisions-practice/).
 

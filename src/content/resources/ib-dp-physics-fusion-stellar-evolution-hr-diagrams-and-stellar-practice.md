@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -145,7 +145,7 @@ The [study guide](/resources/ib-dp-physics-fusion-stellar-evolution-hr-diagrams-
 - Using L in solar units alongside σ in SI units.
 - Writing fusion "balances" gravity rather than outward pressure balancing gravity.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ib-dp-physics-fusion-stellar-evolution-hr-diagrams-and-stellar-revision-notes/) and the [study guide](/resources/ib-dp-physics-fusion-stellar-evolution-hr-diagrams-and-stellar/).
 - Visit the [IB DP Physics course page](/boards/ib/ib-dp/physics/) and the [checklist](/checklists/ib/ib-dp/physics/).

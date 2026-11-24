@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -198,7 +198,7 @@ These criticisms drive the debate covered in the [Reform study guide](/resources
 - In problem answers, use section 6 (public authority), section 7 (victim) and section 8 (remedy) to
   frame the claim.
 
-## Related resources
+## More resources on this topic
 
 [Human Rights after the HRA 1998 revision notes](/resources/aqa-a-level-law-7162-human-rights-in-the-united-kingdom-after-the-enactment-of-the-human-revision-notes/) |
 [Human Rights after the HRA 1998 practice questions](/resources/aqa-a-level-law-7162-human-rights-in-the-united-kingdom-after-the-enactment-of-the-human-practice/) |

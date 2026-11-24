@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-29
 featured: false
 ---
@@ -156,7 +156,7 @@ Weighing up: states criteria such as effectiveness, cost and fairness [1]. Notes
 - Assessing only one course of action, or describing actions without comparing them.
 - Planning a Team Project action with no "before" data to measure against.
 
-## Next steps
+## More on this topic
 
 - Work through the [Written Exam practice questions](/resources/global-perspectives-practice/), the [Individual Report practice questions](/resources/igcse-global-perspectives-individual-report-practice/) and the [Team Project practice questions](/resources/igcse-global-perspectives-team-project-practice/).
 - Check your strengths and gaps with a [diagnostic](/diagnostics/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -138,6 +138,6 @@ Reminder: selenium is in Group 6 below sulfur, so it is a non-metal with an acid
 11. It has a full outer shell (2,8), which is stable, so it does not lose, gain or share electrons.
 12. CaCl₂: calcium is in the same group as magnesium, with the same number (2) of outer electrons, so it reacts in the same way.
 
-## Next steps
+## More on this topic
 
 The particle counts behind these configurations are summarised in the [atomic structure revision notes](/resources/edexcel-igcse-chemistry-4ch1-atomic-structure-revision-notes/). For the whole of Topic 1 in one place, use the [Principles of chemistry revision notes](/resources/igcse-edexcel-chemistry-principles-revision-notes/).

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -165,7 +165,7 @@ Students often apply one tax rate to all income instead of using the bands, divi
 **How should you evaluate supply-side policies in OCR A Level Economics?**
 Build a chain from each policy to its effect on an objective rather than listing policies, consider time lags and costs, and end with a judgement that picks a side rather than a summary.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ocr-a-level-economics-supply-side-policy-revision-notes/) and [study guide](/resources/ocr-a-level-economics-supply-side-policy/).
 - Visit the [OCR Economics hub](/boards/ocr/a-level/economics/) and the [checklist](/checklists/ocr/a-level/economics/).

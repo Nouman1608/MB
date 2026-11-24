@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -179,7 +179,7 @@ Satisfaction shows in repeat purchases, positive reviews and few complaints.
 
 For **define** and **state** questions, keep to the meaning of customer needs or the market. For **explain** questions, give a reason with a consequence: "if a business does not identify customer needs, it may make products that do not sell, so it will lose money". For **calculate** questions, show percentages and costs step by step. For **evaluate** questions, such as whether a business should sell abroad, compare the extra sales with the costs of adapting and the risk of misunderstanding customers' needs, then give a reasoned conclusion.
 
-## Related resources
+## More resources on this topic
 
 - [Revision notes for this subtopic](/resources/oxfordaqa-igcse-business-9225-identifying-and-understanding-customers-revision-notes/)
 - [Practice questions for this subtopic](/resources/oxfordaqa-igcse-business-9225-identifying-and-understanding-customers-practice/)

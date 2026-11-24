@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -186,7 +186,7 @@ Consumers pay the new market price. Producers receive the market price minus the
 **What should an evaluation of privatisation include?**
 Explain why each advantage or drawback happens, such as the profit motive driving efficiency or a private monopoly raising prices, and end with a judgement tied to the case.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/cambridge-o-level-economics-the-mixed-economic-system-and-government-intervention/) and [revision notes](/resources/cambridge-o-level-economics-the-mixed-economic-system-and-government-intervention-revision-notes/).
 - Check the [Cambridge O Level Economics hub](/boards/cambridge/o-level/economics/) and the [printable checklist](/checklists/cambridge/o-level/economics/).

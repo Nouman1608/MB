@@ -33,7 +33,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -182,7 +182,7 @@ Learn the content first in the [study guide](/resources/aqa-gcse-biology-8461-ec
 - One-sided "evaluate" answers with no conclusion.
 - Unsimplified fractions when the question asks for simplest form.
 
-## Next steps
+## More on this topic
 
 - [Ecology revision notes](/resources/aqa-gcse-biology-8461-ecology-revision-notes/)
 - [Ecology study guide](/resources/aqa-gcse-biology-8461-ecology/)

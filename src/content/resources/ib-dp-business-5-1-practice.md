@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The guide lists one content point for 5.1 (the role of operations management); a teacher should confirm that the goods-versus-services and performance-objective framing used here fits the 2024 wording."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The guide lists one content point for 5.1 (the role of operations management); a teacher should confirm that the goods-versus-services and performance-objective framing used here fits the 2024 wording. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -109,7 +109,7 @@ Lindqvist Bikes assembles electric bicycles from frames, motors and batteries bo
 * Explaining one performance aim with no trade-off.
 * Treating ethical sourcing as unrelated to operations.
 
-## Next steps
+## More on this topic
 
 * Review the [5.1 study guide](/resources/ib-dp-business-5-1/).
 * Re-read the [5.1 revision notes](/resources/ib-dp-business-5-1-revision-notes/).

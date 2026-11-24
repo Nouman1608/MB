@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -120,7 +120,7 @@ The second law also gives the p.d. between any two points: add the p.d.s along *
 
 **Answers:** 1. The sum of the currents into a junction equals the sum of the currents out. 2. Conservation of energy. 3. 3.7 A out of the junction. 4. 5.0 Ω. 5. Each branch adds another path for charge, so for the same p.d. the total current is larger than through any single branch. 6. 3.0 Ω. 7. The first law (no junctions between them). 8. The second law (each branch forms a loop with the supply). 9. Negative. 10. The current is 0.40 A in the opposite direction to the arrow drawn. 11. 0.60 A in the 6.0 Ω and 1.2 A in the 3.0 Ω. 12. The total resistance falls, so for the same e.m.f. the supply current rises.
 
-## Related resources
+## More resources on this topic
 
 - [D.C. circuits revision notes](/resources/as-physics-dc-circuits-revision-notes/) — the whole of Topic 10
 - [Practical circuits revision notes](/resources/cambridge-a-level-physics-9702-as-practical-circuits-revision-notes/) — subtopic 10.1

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -135,7 +135,7 @@ These questions cover section **3.1.11.1 Electrode potentials and cells** of the
 - Missing out the standard conditions in a definition.
 - Treating a positive EMF as proof of a fast reaction.
 
-## Next steps
+## More on this topic
 
 - [Electrode potentials and cells study guide](/resources/aqa-a-level-chemistry-7405-electrode-potentials-and-cells/)
 - [Electrode potentials and electrochemical cells (topic level)](/resources/aqa-a-level-chemistry-electrode-potentials-and-electrochemical-cells/)

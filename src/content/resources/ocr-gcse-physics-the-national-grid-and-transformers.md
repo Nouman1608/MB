@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers statements P8.2c to P8.2f of topic P8.2, Powering Earth, in the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026). It explains how electrical power travels from power stations to homes, why the potential difference is changed on the way, and why this wastes so little energy. **Statement P8.2f is in bold in the specification, so it is tested only in the Higher Tier papers.** Statements P8.2c, P8.2d and P8.2e can be tested in both tiers.
@@ -222,7 +222,7 @@ A full Higher Tier answer links the chain: more secondary turns, so higher poten
 - Writing that a transformer works on direct current.
 - Forgetting units: 80 MW is 80 000 000 W and 20 kV is 20 000 V before you substitute.
 
-## Next steps
+## More on this topic
 
 Try the [practice questions](/resources/ocr-gcse-physics-the-national-grid-and-transformers-practice/), then use the [revision notes](/resources/ocr-gcse-physics-the-national-grid-and-transformers-revision-notes/) for the final weeks. The [checklist](/checklists/ocr/gcse/physics/) lets you tick off P8.2c to P8.2f.
 

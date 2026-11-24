@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -163,7 +163,7 @@ An inferior good is one with a negative income elasticity of demand, so demand f
 **Is higher revenue the same as higher profit?**
 No. Revenue leaves out costs, so a price rise that lifts revenue may not raise profit; treating revenue as profit weakens an evaluation.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/aqa-a-level-economics-demand-shifts-in-demand-and-elasticities-of-demand-revision-notes/) and the [study guide](/resources/aqa-a-level-economics-demand-shifts-in-demand-and-elasticities-of-demand/).
 - Visit the [AQA A-level Economics hub](/boards/aqa/a-level/economics/) and tick off topics on the [checklist](/checklists/aqa/a-level/economics/).

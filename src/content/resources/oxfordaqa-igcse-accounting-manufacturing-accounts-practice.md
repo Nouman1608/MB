@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -139,7 +139,7 @@ Profit for the year = 68,700 - 48,860 = **19,840** [1]. **[10]**
 - Charging the whole provision, not the change, to the income statement.
 - Making a comment with no figure and no reason.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/oxfordaqa-igcse-accounting-manufacturing-accounts-revision-notes/) for the layouts.
 - Go back to the [study guide](/resources/oxfordaqa-igcse-accounting-manufacturing-accounts/) for the full worked example.

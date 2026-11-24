@@ -25,7 +25,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-01
 featured: false
 ---
@@ -195,7 +195,7 @@ Cambridge International AS & A Level History 9489 syllabus for
 2027-2029 —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/718292-2027-2029-syllabus.pdf).
 
-## Related resources
+## More resources on this topic
 
 - [European Option: Modern Europe, 1774-1924](/resources/a-level-world-history-modern-europe-1750-1921/)
   — the alternative AS Level route through 9489

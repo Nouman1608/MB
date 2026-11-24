@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -276,7 +276,7 @@ Load x [1]; shift left by 3 for 8x [1]; shift left by 1 for 2x [1]; add and stor
 - Shifting without respecting the register size, so lost bits are still counted.
 - Writing pseudocode that copies each instruction instead of showing IF or WHILE.
 
-## Next steps
+## More on this topic
 
 - [Machine code and assembly language revision notes](/resources/oxfordaqa-a-level-computer-science-machine-code-and-assembly-language-revision-notes/)
 - [Machine code and assembly language study guide](/resources/oxfordaqa-a-level-computer-science-machine-code-and-assembly-language/)

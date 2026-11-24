@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -135,6 +135,6 @@ Compare economic, social, environmental and political dimensions: who pays, who 
 
 **Answers:** 1. Physical: intense rainfall, snowmelt; human: urbanisation, deforestation. 2. Primary are immediate (damage, deaths); secondary follow later (disease, disrupted services, lost livelihoods). 3. Hard: dams, embankments; soft: afforestation, wetland restoration. 4. It can pass water and risk to places further down the river. 5. Combining hard, soft and adaptive measures across the whole catchment with stakeholders. 6. Less interception and infiltration mean more overland flow, and eroded soil reduces channel capacity. 7. (39 + 1) / 3 = 13.3 years. 8. 1 per cent. 9. Defences encourage more building behind them, raising losses when they are overtopped. 10. For example extreme monsoon rain with glacier melt, and poverty and flat land that drained slowly. 11. It moved from raising dykes to giving rivers more space. 12. Strength: low cost and wildlife benefits; limit: works best in small catchments and moderate events.
 
-## Related resources
+## More resources on this topic
 
 - [Option A: Freshwater study guide](/resources/ib-dp-geography-freshwater-study-guide/)

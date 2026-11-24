@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -159,7 +159,7 @@ moment produces a much larger force on the load than the person applies [1]
 - Stating a gear's moment without saying what happens to its speed.
 - Giving "the force is multiplied" without linking it to moments and distances.
 
-## Next steps
+## More on this topic
 
 - [Moments, levers and gears study guide](/resources/aqa-gcse-physics-8463-moments-levers-and-gears/)
 - [Moments, levers and gears revision notes](/resources/aqa-gcse-physics-8463-moments-levers-and-gears-revision-notes/)

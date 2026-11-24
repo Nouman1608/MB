@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -136,7 +136,7 @@ The questions cover sections 3.1.2.1 and 3.1.2.2 of OxfordAQA's economics specif
 - Giving a list of evaluation points with no judgement at the end.
 - Forgetting that a rule based on elasticity is weaker for large changes.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/oxfordaqa-a-level-economics-demand-and-the-elasticities-of-demand-revision-notes/) and the [study guide](/resources/oxfordaqa-a-level-economics-demand-and-the-elasticities-of-demand/).
 - Return to the [OxfordAQA Economics hub](/boards/oxfordaqa/a-level/economics/) and the [checklist](/checklists/oxfordaqa/a-level/economics/).

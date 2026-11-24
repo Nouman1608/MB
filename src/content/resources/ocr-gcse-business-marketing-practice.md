@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -164,7 +164,7 @@ Not simply. Calling qualitative data "less reliable" loses marks unless you also
 **How do you answer an "analyse" question about the marketing mix?**
 Build a chain of reasoning from the change to its effect on customers and then on the business, for example a lower price leading to more customers and higher sales. Each step should link to the business in the question.
 
-## Next steps
+## More on this topic
 
 - Read the [revision notes](/resources/ocr-gcse-business-marketing-revision-notes/) and the [study guide](/resources/ocr-gcse-business-marketing/).
 - Return to the [OCR GCSE Business hub](/boards/ocr/gcse/business/) and tick items off the [printable checklist](/checklists/ocr/gcse/business/).

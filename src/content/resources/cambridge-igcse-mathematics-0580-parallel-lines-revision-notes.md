@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -138,7 +138,7 @@ y = 7 - 2x        m = -2                   not parallel
 11. B is y = 3x – 2.5, gradient 3: **A and B** (C has gradient 1/3)
 12. PQ and SR both have gradient 1/3; QR and PS both have gradient 3: **yes**
 
-## Next steps
+## More on this topic
 
 - Re-read the worked examples in the [parallel lines study guide](/resources/cambridge-igcse-mathematics-0580-parallel-lines/).
 - Practise with the [parallel lines practice questions](/resources/cambridge-igcse-mathematics-0580-parallel-lines-practice/).

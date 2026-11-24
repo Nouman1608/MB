@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: An Urdu specialist should check the Urdu literary terms, the description of ghazal, nazm, musaddas and qita form, and the original illustrative couplet and model paragraph."
+reviewNote: "2026-11-17: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: An Urdu specialist should check the Urdu literary terms, the description of ghazal, nazm, musaddas and qita form, and the original illustrative couplet and model paragraph. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -202,7 +202,7 @@ reference is still credited; a garbled quotation is not.
 - **Unbalanced timing.** Fifteen marks out of fifty in two hours is roughly 35 minutes, including a
   few minutes to plan.
 
-## Related resources
+## More resources on this topic
 
 - [Poetry essay: revision notes](/resources/cambridge-o-level-urdu-language-3247-paper-2-poetry-essay-revision-notes/)
 - [Poetry essay: practice questions](/resources/cambridge-o-level-urdu-language-3247-paper-2-poetry-essay-practice/)

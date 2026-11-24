@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -229,7 +229,7 @@ heat in terms of particles; it does not list a latent heat equation.
 
 **Is Δθ the same in kelvin and Celsius?** Yes. A change of 1 °C equals a change of 1 K.
 
-## Related resources
+## More resources on this topic
 
 - [Thermal properties and temperature revision notes](/resources/cambridge-o-level-physics-5054-thermal-properties-and-temperature-revision-notes/)
 - [Thermal properties and temperature practice questions](/resources/cambridge-o-level-physics-5054-thermal-properties-and-temperature-practice/)

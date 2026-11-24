@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -179,7 +179,7 @@ may still be right, but the speed or size of the change may differ: a useful eva
 - **Assess / Evaluate:** weigh the size of elasticities, the time period and the realism of the model's
   assumptions, then reach a judgement.
 
-## Related resources
+## More resources on this topic
 
 - [Demand, shifts in demand and elasticities of demand revision notes](/resources/aqa-a-level-economics-demand-shifts-in-demand-and-elasticities-of-demand-revision-notes/)
 - [Production, costs and revenue study guide](/resources/aqa-a-level-economics-7136-production-costs-and-revenue/)

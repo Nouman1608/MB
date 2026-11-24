@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -158,7 +158,7 @@ Related: [section 1.8 study guide](/resources/edexcel-igcse-mathematics-4ma1-deg
 - Using 12 550 as the largest attendance in question 8(b); people are counted in whole numbers.
 - Using the upper bound of the load in question 11, which does not guarantee the crates fit.
 
-## Next steps
+## More on this topic
 
 - Recap the rules in the [section 1.8 revision notes](/resources/edexcel-igcse-mathematics-4ma1-degree-of-accuracy-revision-notes/).
 - For bounds questions combined with standard form, try the [degree of accuracy and standard form practice questions](/resources/edexcel-igcse-maths-4ma1-degree-of-accuracy-and-standard-form-practice/).

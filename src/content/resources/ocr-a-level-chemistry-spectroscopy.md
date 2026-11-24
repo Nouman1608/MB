@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches 6.3.2 Spectroscopy from the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. NMR-centred outcomes 6.3.2(a) to (e) are all taught on this page, which sits within Module 6 (Organic chemistry and analysis); because H432 is the full A level, none of it carries an AS or A2 label. The specification's assessment overview puts Module 6 in two papers: Component 02, Synthesis and analytical techniques, plus Component 03, Unified chemistry, which spans every module. No PAG is linked to 6.3.2.
@@ -247,7 +247,7 @@ Compound C contains 50.8% C, 8.5% H and 40.7% O by mass. Relative atomic masses:
 - Trying to work out splitting for aromatic protons, which you are not expected to analyse.
 - Saying D₂O makes the O–H peak "move" rather than disappear.
 
-## Next steps
+## More on this topic
 
 - Condensed tables and a quick self-test: [Spectroscopy revision notes](/resources/ocr-a-level-chemistry-spectroscopy-revision-notes/)
 - Original questions with mark-by-mark answers: [Spectroscopy practice questions](/resources/ocr-a-level-chemistry-spectroscopy-practice/)

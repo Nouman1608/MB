@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -144,6 +144,6 @@ The largest possible value of sin θ is 1, so n cannot exceed d/λ. Round **down
 - **Derive**: use a labelled diagram and the five points above, ending with the condition for a maximum.
 - **Calculate**: write d = 1/N with the conversion shown, then d sin θ = nλ, and quote angles to three significant figures.
 
-## Next steps
+## More on this topic
 
 Condense the page with the [diffraction revision notes](/resources/oxfordaqa-a-level-physics-9630-diffraction-revision-notes/) and test yourself with the [diffraction practice questions](/resources/oxfordaqa-a-level-physics-9630-diffraction-practice/). The coherence and path-difference ideas behind the grating are in the [interference study guide](/resources/oxfordaqa-a-level-physics-9630-interference/). Electron diffraction, which uses the same wave idea, is covered in the [wave-particle duality study guide](/resources/oxfordaqa-a-level-physics-9630-wave-particle-duality-oxfordaqa/).

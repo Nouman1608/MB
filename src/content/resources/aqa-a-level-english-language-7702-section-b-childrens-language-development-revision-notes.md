@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -189,7 +189,7 @@ instructions, letter); influence of teaching on structure and connectives.
 11. Heuristic.
 12. That children perceive adult sound distinctions before they can produce them.
 
-## Related resources
+## More resources on this topic
 
 - [Children's language development practice questions](/resources/aqa-a-level-english-language-7702-section-b-childrens-language-development-practice/)
 - [Paper 1 revision notes](/resources/aqa-english-language-paper-1-revision-notes/)

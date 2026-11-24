@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -140,7 +140,7 @@ These questions cover the growth part of Economic growth and development in Comp
 - Giving a recession verdict without citing the quarters or rule used.
 - Evaluating in general terms rather than using the figures in the question.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ocr-a-level-economics-economic-growth-gdp-and-recession-revision-notes/) and the [study guide](/resources/ocr-a-level-economics-economic-growth-gdp-and-recession/).
 - Visit the [OCR Economics hub](/boards/ocr/a-level/economics/) and the [printable checklist](/checklists/ocr/a-level/economics/).

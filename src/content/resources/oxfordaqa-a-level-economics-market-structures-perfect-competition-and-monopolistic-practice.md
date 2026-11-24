@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -125,7 +125,7 @@ The questions test sections 3.3.3.1 to 3.3.3.3 of the OxfordAQA *International A
 - Describing non-price competition as only good, or only bad, for buyers.
 - Forgetting that advertising is a fixed cost in profit calculations.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/oxfordaqa-a-level-economics-market-structures-perfect-competition-and-monopolistic/) and the [revision notes](/resources/oxfordaqa-a-level-economics-market-structures-perfect-competition-and-monopolistic-revision-notes/).
 - Tick off the [checklist](/checklists/oxfordaqa/a-level/economics/) and visit the [course hub](/boards/oxfordaqa/a-level/economics/).

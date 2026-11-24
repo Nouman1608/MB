@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -156,7 +156,7 @@ The next year, the same race had median 28.5 minutes and IQR 6.8 minutes. Compar
 - **Use your diagram to estimate:** draw the reading lines on the graph so the method is visible.
 - **Compare:** median and IQR, values quoted, in context.
 
-## Next steps
+## More on this topic
 
 Try the [cumulative frequency diagrams practice questions](/resources/cambridge-o-level-mathematics-4024-cumulative-frequency-diagrams-practice/) and revise from the [cumulative frequency diagrams revision notes](/resources/cambridge-o-level-mathematics-4024-cumulative-frequency-diagrams-revision-notes/). For other measures of average and spread, see [averages and measures of spread](/resources/cambridge-o-level-mathematics-4024-averages-and-measures-of-spread/), and for comparison technique, [interpreting statistical data](/resources/cambridge-o-level-mathematics-4024-interpreting-statistical-data/).
 

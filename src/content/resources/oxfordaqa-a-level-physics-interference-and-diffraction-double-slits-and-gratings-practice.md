@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -179,7 +179,7 @@ Read the [study guide](/resources/oxfordaqa-a-level-physics-interference-and-dif
 - Giving vague laser safety such as "be careful".
 - Writing a non-whole highest order, or counting maxima on one side only.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/oxfordaqa-a-level-physics-interference-and-diffraction-double-slits-and-gratings-revision-notes/) and the [study guide](/resources/oxfordaqa-a-level-physics-interference-and-diffraction-double-slits-and-gratings/).
 - Course pages: [physics hub](/boards/oxfordaqa/a-level/physics/) and [checklist](/checklists/oxfordaqa/a-level/physics/).

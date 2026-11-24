@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -164,7 +164,7 @@ Cost on the debit side [1]. Provision of 19,520 on the credit side [1]. Bank 17,
 - Showing a loss on the debit side, or a profit on the credit side.
 - Forgetting part-year depreciation before a disposal when the question asks for it.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/oxfordaqa-igcse-accounting-capital-and-revenue-items-depreciation-and-disposal-of-revision-notes/) and [study guide](/resources/oxfordaqa-igcse-accounting-capital-and-revenue-items-depreciation-and-disposal-of/).
 - Go to the [course hub](/boards/oxfordaqa/igcse/accounting/) and tick off the [checklist](/checklists/oxfordaqa/igcse/accounting/).

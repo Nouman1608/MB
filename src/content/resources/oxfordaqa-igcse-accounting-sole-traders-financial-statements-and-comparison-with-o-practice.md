@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -127,7 +127,7 @@ Statement of financial position: net book value 16,000 - 7,000 = 9,000 [1]. Curr
 - Describing figures in comments without explaining what they mean for the owner.
 - Listing features of a business type without linking them to the case.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/oxfordaqa-igcse-accounting-sole-traders-financial-statements-and-comparison-with-o/) for any question you missed.
 - Use the [revision notes](/resources/oxfordaqa-igcse-accounting-sole-traders-financial-statements-and-comparison-with-o-revision-notes/) for a quick recap.

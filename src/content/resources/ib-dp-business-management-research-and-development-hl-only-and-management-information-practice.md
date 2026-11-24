@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -151,7 +151,7 @@ Project B (incremental upgrade): cost 1.8 million, probability of success 0.8, t
 - Choosing the project with the highest expected value without weighing risk and cash.
 - Giving a one-sided answer to "evaluate" or "recommend" with no conclusion.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ib-dp-business-management-research-and-development-hl-only-and-management-information-revision-notes/) and the [study guide](/resources/ib-dp-business-management-research-and-development-hl-only-and-management-information/).
 - Return to the [course hub](/boards/ib/ib-dp/business/) and the [syllabus checklist](/checklists/ib/ib-dp/business/).

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -162,7 +162,7 @@ Gate control theory links the three groups: drugs reduce signals, psychological 
 
 **Describe** answers on theories should include the mechanism and an example. **Evaluate** answers can use the debates the syllabus lists for 3.3.1, such as nature versus nurture and reductionism versus holism, and for 3.3.2, such as idiographic versus nomothetic and psychometrics. **Suggest** answers in Paper 4 should match a measure or treatment to the patient in the scenario, for example a behavioural scale for a child too young to self-report.
 
-## Related resources
+## More resources on this topic
 
 - [Pain revision notes](/resources/cambridge-a-level-psychology-9990-pain-revision-notes/)
 - [Pain practice questions](/resources/cambridge-a-level-psychology-9990-pain-practice/)

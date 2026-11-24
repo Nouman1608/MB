@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -158,7 +158,7 @@ D: protease **[1]**
 - (Extended) Placing maltase in the stomach, or pepsin in the small intestine.
 - (Extended) Forgetting that bile neutralises the acidic mixture entering the duodenum.
 
-## Next steps
+## More on this topic
 
 - Go back over the [chemical digestion revision notes](/resources/cambridge-igcse-biology-0610-chemical-digestion-revision-notes/).
 - Move on to the [absorption practice questions](/resources/cambridge-igcse-biology-0610-absorption-practice/).

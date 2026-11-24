@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -137,7 +137,7 @@ d = v / H₀ = 3.0 × 10⁶ / 2.3 × 10⁻¹⁸ = 1.3 × 10²⁴ m
 - **State** (Hubble's law): the recession speed of a galaxy is (approximately) proportional to its distance from the observer.
 - **Explain** (how Hubble's law leads to the Big Bang): reverse the expansion; all matter together at one time; Universe began in a hot, dense state.
 
-## Related resources
+## More resources on this topic
 
 - [Astronomy and Cosmology study guide](/resources/a-physics-astronomy-and-cosmology/) — the whole of Topic 25
 - [Hubble's law and the Big Bang revision notes](/resources/cambridge-a-level-physics-9702-a-hubbles-law-and-the-big-bang-theory-revision-notes/)

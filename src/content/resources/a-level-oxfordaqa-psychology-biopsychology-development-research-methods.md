@@ -28,7 +28,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -295,7 +295,7 @@ In the Sally-Anne study (Baron-Cohen, Leslie and Frith, 1985), most typically de
 **Can a correlation show cause and effect?**
 No. A correlation measures the relationship between two co-variables without manipulating an independent variable, so a third variable could explain both. Strong answers name a specific, plausible third variable.
 
-## Related resources
+## More resources on this topic
 
 - [Biopsychology, Development and Research Methods 1 revision notes](/resources/oxfordaqa-a-level-psychology-biopsychology-development-revision-notes/)
 - [Biopsychology, Development and Research Methods 1 practice questions](/resources/oxfordaqa-a-level-psychology-biopsychology-development-practice/)

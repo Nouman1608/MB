@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -109,7 +109,7 @@ Named coastline with location [1]. Opportunity: tourism based on beaches, reefs 
 - Coral reef conditions with no idea of temperature or light.
 - Management answers that describe methods without evaluating them.
 
-## Next steps
+## More on this topic
 
 - Re-read the [Coasts study guide](/resources/igcse-geography-coasts/) for any question you found hard.
 - Use the [Coasts revision notes](/resources/igcse-geography-0460-coasts-revision-notes/) for a final self-test.

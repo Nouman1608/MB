@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -146,7 +146,7 @@ These questions are for Cambridge O Level Economics 2281, syllabus for examinati
 - Listing effects without a chain to the named aim.
 - Evaluation that ignores the figures in the question and ends without a judgement.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/cambridge-o-level-economics-fiscal-policy-measures-and-their-effects-revision-notes/) and then the [study guide](/resources/cambridge-o-level-economics-fiscal-policy-measures-and-their-effects/).
 - Check what is covered on the [course hub](/boards/cambridge/o-level/economics/) and the [printable checklist](/checklists/cambridge/o-level/economics/).

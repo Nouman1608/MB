@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -238,7 +238,7 @@ the [structured programming study guide](/resources/oxfordaqa-igcse-computer-sci
   calling routine".
 - **Trace**: record the parameter values for each call in a table, as above.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [subroutines revision
 notes](/resources/oxfordaqa-igcse-computer-science-9210-subroutines-procedures-and-functions-revision-notes/) and

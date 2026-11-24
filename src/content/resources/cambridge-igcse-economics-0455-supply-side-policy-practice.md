@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -134,7 +134,7 @@ Judgement: privatisation is more likely to improve performance if competition is
 - Treating privatisation as automatically beneficial, without discussing competition.
 - Explaining a measure without linking it to the aim named in the question.
 
-## Next steps
+## More on this topic
 
 - Recap the tables in the [supply-side policy revision notes](/resources/cambridge-igcse-economics-0455-supply-side-policy-revision-notes/).
 - Reread the incentive and investment examples in the [supply-side policy study guide](/resources/cambridge-igcse-economics-0455-supply-side-policy/).

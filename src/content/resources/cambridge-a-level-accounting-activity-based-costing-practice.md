@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to zain-ud-din-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to zain-ud-din-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -160,7 +160,7 @@ Apply the mark-up to total cost per unit, including direct costs. Applying it to
 **How do I answer an ABC question about a small business?**
 Develop each use or limitation and link it to the business in the question. Single-word lists tend to earn little.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/cambridge-a-level-accounting-activity-based-costing-revision-notes/) and [study guide](/resources/cambridge-a-level-accounting-activity-based-costing/).
 - Visit the [course hub](/boards/cambridge/a-level/accounting/) and tick off the [checklist](/checklists/cambridge/a-level/accounting/).

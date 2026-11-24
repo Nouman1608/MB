@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: The syllabus names no study for gift-wrapping; please confirm the supporting studies cited (Howard, 1992; Rixom et al., 2020) are accurately summarised."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: The syllabus names no study for gift-wrapping; please confirm the supporting studies cited (Howard, 1992; Rixom et al., 2020) are accurately summarised. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -145,7 +145,7 @@ Atalay, Bodur and Rasolofoarison (2012) used eye-tracking with shelf displays an
 
 **Describe** questions on Becker et al. need aim, design, both variables, the design-sensitivity measure, results and conclusion. **Evaluate** questions reward the debates the syllabus lists for 2.4.1 (reductionism versus holism, determinism versus free will, generalisation, objective and subjective data, validity). **Suggest** questions want a concrete proposal for the shop in the scenario, linked to a named concept.
 
-## Related resources
+## More resources on this topic
 
 - [The product revision notes](/resources/cambridge-a-level-psychology-9990-the-product-revision-notes/)
 - [The product practice questions](/resources/cambridge-a-level-psychology-9990-the-product-practice/)

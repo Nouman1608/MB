@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -154,7 +154,7 @@ Plants often wilt in the hottest part of the day and recover in the evening, whe
 - **Investigate** questions: name the independent variable, how it is varied, what is measured, two controlled variables, repeats.
 - **Calculate**: mean, then rate = distance ÷ time; percentage change = change ÷ start × 100.
 
-## Next steps
+## More on this topic
 
 - Recall drill and self-test: [transpiration revision notes](/resources/cambridge-igcse-biology-0610-transpiration-revision-notes/).
 - Marked questions: [transpiration practice questions](/resources/cambridge-igcse-biology-0610-transpiration-practice/).

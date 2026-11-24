@@ -17,7 +17,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -196,7 +196,7 @@ Focus: *benefits of community gardens*.
 11. Question 3b, the short response, on Text B.
 12. To give the summary deliberate structure and to show relationships between points.
 
-## Related resources
+## More resources on this topic
 
 - [Question 3a Summary: practice questions](/resources/cambridge-o-level-english-language-1123-question-3a-summary-practice/)
 - [Paper 1 Reading revision notes](/resources/o-level-english-language-paper-1-reading-revision-notes/)

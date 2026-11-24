@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -130,7 +130,7 @@ Evaluation: Option A protects profit now; Option B may protect the business's fu
 - Letting money already spent influence a recommendation.
 - Judging success on one measure, usually profit.
 
-## Next steps
+## More on this topic
 
 - Revisit the [decision making study guide](/resources/ocr-a-level-business-h431-decision-making/) for any gaps.
 - Try the [decision trees practice questions](/resources/ocr-a-level-business-h431-decision-trees-practice/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide follows the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. It covers **sub-topic 2.6 Elasticity of supply** in Unit 2 Microeconomics. Almost all of it is SL and HL content. One point, why primary commodities usually have a lower price elasticity of supply than manufactured goods, is **HL only**.
@@ -267,7 +267,7 @@ A firm with spare machines, space and labour can raise output without new invest
 **What does a PES between 0 and 1 mean?**
 Supply is relatively inelastic: quantity supplied changes by a smaller percentage than price.
 
-## Next steps
+## More on this topic
 
 Next, work through the [practice questions](/resources/ib-dp-economics-elasticity-of-supply-practice/), then use the [revision notes](/resources/ib-dp-economics-elasticity-of-supply-revision-notes/) as a quick recap.
 

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers sections 2.6 (Communication) and 2.7 (Industrial/employee relations) in Unit 2, Human resource management, of the IB *Business management guide*, first assessment 2024. Section 2.6 applies to both SL and HL. Section 2.7 is labelled HL only in the guide. The guide lists these points briefly, so where it names an idea without defining it, this page gives the standard textbook account and says so.
@@ -216,7 +216,7 @@ Payroll is 160 × 38,000 = 6,080,000. The claim costs 5% of this, 304,000, and t
 - Presenting a lockout as an employee action. It is an employer action.
 - Giving only one side. AO3 points need strengths and limits, then a judgement.
 
-## Next steps
+## More on this topic
 
 Use the [revision notes](/resources/ib-dp-business-management-communication-and-industrial-employee-relations-hl-only-revision-notes/) for recall and the [practice questions](/resources/ib-dp-business-management-communication-and-industrial-employee-relations-hl-only-practice/) to test yourself. Check the [course hub](/boards/ib/ib-dp/business/), the [checklist](/checklists/ib/ib-dp/business/) and the [diagnostics](/diagnostics/).
 

@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -172,7 +172,7 @@ far more codes, so text in many languages can be stored and shared. Its codes up
 9. It can represent many more characters (so many languages and symbols).
 10. They are the same as the ASCII codes.
 
-## Related resources
+## More resources on this topic
 
 - [Character encoding study guide](/resources/oxfordaqa-igcse-computer-science-9210-character-encoding/)
 - [Character encoding practice questions](/resources/oxfordaqa-igcse-computer-science-9210-character-encoding-practice/)

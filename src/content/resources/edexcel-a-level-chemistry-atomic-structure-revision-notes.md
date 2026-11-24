@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -181,7 +181,7 @@ Subtract the atomic number from the mass number. Confusing atomic number with ma
 **How do you identify a molecule from its molecular ion peak?**
 List the candidate molecular formulae with that relative molecular mass, then use other evidence, such as the fragmentation pattern or context, to decide between them.
 
-## Related resources
+## More resources on this topic
 
 [Atomic Structure and Mass Spectrometry study guide](/resources/a-level-edexcel-chemistry-atomic-structure-and-mass-spectrometry/) |
 [Atomic Structure and Mass Spectrometry practice questions](/resources/edexcel-a-level-chemistry-atomic-structure-practice/)

@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide follows the Pearson Edexcel International GCSE in Business (4BS1) specification, Issue 2, February 2026. It covers Topic 3 (Business finance), sections 3.4 Financial documents and 3.5 Accounts analysis. As both papers draw on the whole content, expect this material in either the small-business paper or the large-business paper.
@@ -215,7 +215,7 @@ A ratio means little alone, so compare it:
 - Assuming a profitable firm must have plenty of cash.
 - Calling a ratio good or bad without a comparison.
 
-## Next steps
+## More on this topic
 
 Condense the formulae with the [revision notes](/resources/edexcel-igcse-business-financial-documents-and-accounts-analysis-revision-notes/), then try the [practice questions](/resources/edexcel-igcse-business-financial-documents-and-accounts-analysis-practice/). Go back to the [Edexcel IGCSE Business hub](/boards/edexcel/igcse/business/), tick progress on the [checklist](/checklists/edexcel/igcse/business/), or locate gaps with the [free diagnostics](/diagnostics/).
 

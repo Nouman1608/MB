@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -180,7 +180,7 @@ Wherever a calculation needs them, take Aᵣ as H 1.0, C 12.0 and O 16.0.
 - Missing the second alkene from an alcohol whose C–OH carbon has two unlike H-bearing neighbours.
 - Naming bromine, not NaBr and H₂SO₄, for making a bromoalkane.
 
-## Next steps
+## More on this topic
 
 - Recap the tables and equations: [revision notes](/resources/ocr-a-level-chemistry-alcohols-revision-notes/)
 - Worked examples and explanations: [study guide](/resources/ocr-a-level-chemistry-alcohols/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -112,7 +112,7 @@ Three points examiners look for:
 
 In the Alternative to Practical paper, apparatus is often shown as a diagram to identify, or a scale to read. Practise reading thermometer, burette and syringe scales to half a division, and always write the unit.
 
-## Next steps
+## More on this topic
 
 - Condense the key facts with the [experimental design revision notes](/resources/cambridge-o-level-chemistry-5070-experimental-design-revision-notes/).
 - Test yourself with the [experimental design practice questions](/resources/cambridge-o-level-chemistry-5070-experimental-design-practice/).

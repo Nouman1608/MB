@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -150,7 +150,7 @@ Diseconomies of scale are a long-run idea, when average cost rises as the firm g
 **How do you explain a type of economy of scale for full marks?**
 Name the source and explain why average cost falls, for example spreading a fixed marketing cost over more units. Stating the type without the reason loses marks in Edexcel International A Level Economics questions.
 
-## Next steps
+## More on this topic
 
 - Check the formulas in the [revision notes](/resources/edexcel-ial-economics-economies-and-diseconomies-of-scale-profit-and-revision-notes/) and rework weak questions.
 - Reread the explanations in the [study guide](/resources/edexcel-ial-economics-economies-and-diseconomies-of-scale-profit-and/).

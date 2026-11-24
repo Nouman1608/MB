@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -169,7 +169,7 @@ Before you start, read the [C3.1 study guide](/resources/ocr-gcse-chemistry-intr
 - Comparing masses instead of moles to find the limiting reactant.
 - Final answers with too many significant figures, or in ordinary form when the value is very small.
 
-## Next steps
+## More on this topic
 
 - Recap the methods in the [C3.1 revision notes](/resources/ocr-gcse-chemistry-introducing-chemical-reactions-revision-notes/).
 - Re-read any weak section in the [C3.1 study guide](/resources/ocr-gcse-chemistry-introducing-chemical-reactions/).

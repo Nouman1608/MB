@@ -33,7 +33,7 @@ author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 featured: false
 ---
@@ -294,7 +294,7 @@ Galvanising coats steel with zinc. It acts as a barrier and also gives sacrifici
 **Why does aluminium seem unreactive?**
 Aluminium is above zinc and iron in the reactivity series, but it is covered by a protective oxide layer that stops it reacting. This explanation is 0620 Extended content and required for O Level 5070.
 
-## Related resources
+## More resources on this topic
 
 - [Alloys and Extraction of Metals](/resources/alloys-and-extraction-of-metals/) — uses, alloys and extraction, the rest of Topic 9
 - [Ionic, Covalent and Metallic Bonding](/resources/ionic-covalent-and-metallic-bonding/) — the metallic bonding behind these physical properties

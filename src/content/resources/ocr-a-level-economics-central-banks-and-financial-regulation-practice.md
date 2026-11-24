@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -120,7 +120,7 @@ These questions cover the role of the central bank and financial regulation in t
 - Calling the IMF a regulator of banks.
 - Not linking a number to its economic meaning, such as lending falling when capital rules tighten.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ocr-a-level-economics-central-banks-and-financial-regulation-revision-notes/) and the [study guide](/resources/ocr-a-level-economics-central-banks-and-financial-regulation/).
 - Check the [OCR Economics hub](/boards/ocr/a-level/economics/) and the [checklist](/checklists/ocr/a-level/economics/).

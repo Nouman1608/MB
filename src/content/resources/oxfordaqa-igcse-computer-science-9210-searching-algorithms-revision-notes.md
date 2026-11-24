@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -178,7 +178,7 @@ lists. Binary search needs far fewer comparisons, but the list must be sorted fi
 9. The checked item stays in the range, so the loop can repeat the same values endlessly.
 10. Linear search, because the list is short and unsorted, so sorting it for a binary search is not worthwhile.
 
-## Related resources
+## More resources on this topic
 
 - [Searching algorithms study guide](/resources/oxfordaqa-igcse-computer-science-9210-searching-algorithms/)
 - [Searching algorithms practice questions](/resources/oxfordaqa-igcse-computer-science-9210-searching-algorithms-practice/)

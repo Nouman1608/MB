@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -165,6 +165,6 @@ Only location B meets all three conditions. In the exam, state the condition eac
 - **Discuss**: give a benefit and a limitation for each strategy and show how they depend on each other.
 - **Using the source**: quote figures such as wind speed or distance flooded.
 
-## Next steps
+## More on this topic
 
 Condense this with the [Tropical cyclones revision notes](/resources/cambridge-igcse-environmental-management-0680-tropical-cyclones-revision-notes/), then practise with the [Tropical cyclones practice questions](/resources/cambridge-igcse-environmental-management-0680-tropical-cyclones-practice/).

@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -135,7 +135,7 @@ These questions cover statements 6.10 to 6.15 (B and T cells, types of immunity,
 - Quoting infection counts when the number of patient-days is different.
 - Naming a hospital practice with no link to the cause it addresses.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/edexcel-ial-biology-adaptive-immunity-immunisation-and-antibiotics-revision-notes/)
 - [Study guide](/resources/edexcel-ial-biology-adaptive-immunity-immunisation-and-antibiotics/)

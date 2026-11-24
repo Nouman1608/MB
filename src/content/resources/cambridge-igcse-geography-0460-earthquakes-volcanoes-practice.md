@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -120,7 +120,7 @@ Agree: high-income countries can afford earthquake-resistant buildings, so fewer
 - Data answers that quote one column of a table and ignore the others.
 - Case studies with no name, date or figures.
 
-## Next steps
+## More on this topic
 
 - Re-read the [Earthquakes and Volcanoes study guide](/resources/igcse-geography-earthquakes-and-volcanoes/) for any question you found hard.
 - Use the [Earthquakes and Volcanoes revision notes](/resources/igcse-geography-0460-earthquakes-volcanoes-revision-notes/) for a final self-test.

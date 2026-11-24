@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -143,7 +143,7 @@ Give a chain of reasoning for each cost, use the data in the question and say wh
 **Which part of the AQA 7136 specification do these questions cover?**
 They cover the first part of section 4.2.6.2 Trade in AQA A-level Economics 7136: comparative advantage and the costs and benefits of international trade.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/aqa-a-level-economics-comparative-advantage-and-the-costs-and-benefits-of-revision-notes/)
 - [Study guide](/resources/aqa-a-level-economics-comparative-advantage-and-the-costs-and-benefits-of/)

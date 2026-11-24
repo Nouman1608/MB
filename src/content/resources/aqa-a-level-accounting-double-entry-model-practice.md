@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -225,7 +225,7 @@ Common errors include naming a ledger account instead of the book of prime entry
 **How should financial statements be set out to earn full marks?**
 Use the correct headings and subtotals so that net assets and capital can be compared. Leaving out headings, totals or the net assets check is a common reason marks are lost.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/aqa-a-level-accounting-double-entry-model-revision-notes/) and [study guide](/resources/aqa-a-level-accounting-double-entry-model/).
 - Go to the [AQA A-level Accounting hub](/boards/aqa/a-level/accounting/) and tick off the [checklist](/checklists/aqa/a-level/accounting/).

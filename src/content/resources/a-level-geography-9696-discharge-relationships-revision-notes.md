@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -128,7 +128,7 @@ Evaporation also matters: in hot summers, high evapotranspiration lowers dischar
 
 **Answers:** 1. Time between peak rainfall and peak discharge. 2. Discharge in cubic metres per second. 3. Impermeable surfaces and drains send water quickly to the channel as overland flow. 4. Permeable rock, gentle slopes, woodland, elongated shape, low drainage density. 5. Baseflow from groundwater. 6. The pattern of a river's discharge through the year. 7. 16 cumecs. 8. Water from all parts arrives at the outlet at about the same time. 9. Wet ground gives more overland flow, a shorter lag and a higher peak; dry ground absorbs more. 10. Slower throughflow and baseflow keep feeding the river after overland flow stops. 11. Melting of snow and glacier ice in warm months.
 
-## Related resources
+## More resources on this topic
 
 - [Core Physical Geography study guide](/resources/a-level-cambridge-geography-core-physical-geography/)
 - [Paper 1 core revision notes (overview)](/resources/a-geography-physical-revision-notes/)

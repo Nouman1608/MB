@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -154,7 +154,7 @@ Budgeted output was 1,500 benches. Actual output in the period was 1,560 benches
 - Giving a reason that explains the wrong direction of variance.
 - Discussing a single variance when the scenario points to a linked cause.
 
-## Next steps
+## More on this topic
 
 - [Standard costing revision notes](/resources/edexcel-ial-accounting-standard-costing-revision-notes/)
 - [Standard costing study guide](/resources/edexcel-ial-accounting-standard-costing/)

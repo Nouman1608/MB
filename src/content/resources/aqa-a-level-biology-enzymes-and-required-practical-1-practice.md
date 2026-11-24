@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -157,7 +157,7 @@ A tangent drawn at time 0 passes through (0, 0.00) and (30, 0.53).
 - Describing inhibitors without saying where each binds.
 - Drawing a tangent at the wrong place instead of at time 0.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/aqa-a-level-biology-enzymes-and-required-practical-1-revision-notes/) and the [study guide](/resources/aqa-a-level-biology-enzymes-and-required-practical-1/).
 - Go to the [AQA A-level Biology hub](/boards/aqa/a-level/biology/) and the [printable checklist](/checklists/aqa/a-level/biology/).

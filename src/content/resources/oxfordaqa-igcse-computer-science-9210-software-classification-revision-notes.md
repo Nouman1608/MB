@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -174,7 +174,7 @@ backup, defragmenter, compression utility.
 9. It manages the hardware, shares resources between programs and provides a platform on which applications run.
 10. For example a word processor (application) and a file compression program (utility).
 
-## Related resources
+## More resources on this topic
 
 - [Software classification study guide](/resources/oxfordaqa-igcse-computer-science-9210-software-classification/)
 - [Software classification practice questions](/resources/oxfordaqa-igcse-computer-science-9210-software-classification-practice/)

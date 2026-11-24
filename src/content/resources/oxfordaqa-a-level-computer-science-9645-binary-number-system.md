@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -180,7 +180,7 @@ Normalising never changes the value.
 - Shifting right instead of left when normalising, or forgetting to adjust the exponent.
 - Calling relative error the "bigger" error. It is a ratio, not a size.
 
-## Next steps
+## More on this topic
 
 - [Binary number system revision notes](/resources/oxfordaqa-a-level-computer-science-9645-binary-number-system-revision-notes/)
 - [Binary number system practice questions](/resources/oxfordaqa-a-level-computer-science-9645-binary-number-system-practice/)

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -133,7 +133,7 @@ No angles or components are needed: the net charge (+4.0 nC) at one distance doe
 
 **Answers:** 1. The work done per unit positive charge in bringing a small test charge from infinity to the point. 2. The negative charge attracts the positive test charge, so negative work is done by the agent bringing it in. 3. 8.99 × 10⁹ × 5.0 × 10⁻⁹ ÷ 0.25 = 180 V. 4. E = V/r = 180 ÷ 0.25 = 720 V m⁻¹. 5. 5.0 ÷ 2.0 × 10⁻³ = 2.5 × 10³ V m⁻¹. 6. 8.99 × 10⁹ × (−6.0 × 10⁻¹²) ÷ 0.15 = −0.36 J. 7. qV = 4.5 × 10⁻⁷ J. 8. 6.0/x = 2.0/(0.40 − x) → x = 0.30 m from the +6.0 nC charge. 9. 1.2 × 10⁴ V m⁻¹, in the direction of decreasing potential. 10. Towards higher potential. 11. |q|ΔV = 1.60 × 10⁻¹⁹ × 500 = 8.0 × 10⁻¹⁷ J. 12. ΔV = 0, so W = qΔV = 0 (the field is perpendicular to the motion).
 
-## Related resources
+## More resources on this topic
 
 - [Electric Fields revision notes](/resources/a-physics-electric-fields-revision-notes/) — the whole of Topic 18
 - [Electric field of a point charge revision notes](/resources/cambridge-a-level-physics-9702-a-electric-field-of-a-point-charge-revision-notes/)

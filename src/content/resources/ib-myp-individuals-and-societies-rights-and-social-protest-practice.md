@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -162,7 +162,7 @@ Using your knowledge of the UDHR, identify two rights the marchers could claim, 
 - Research questions with no focus, place or time frame.
 - Essays that describe movements but never compare or judge.
 
-## Next steps
+## More on this topic
 
 - [Rights and social protest revision notes](/resources/ib-myp-individuals-and-societies-rights-and-social-protest-revision-notes/)
 - [Rights and social protest study guide](/resources/ib-myp-individuals-and-societies-rights-and-social-protest/)

@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches subtopics E6.3 Exact trigonometric values and E6.4 Trigonometric functions from topic 6, Trigonometry, of the Cambridge IGCSE Mathematics 0580 syllabus for 2025, 2026 and 2027. Both subtopics are **Extended only**: the syllabus lists C6.3 and C6.4 as "Extended content only", so they are not tested on the Core papers (Papers 1 and 3). Extended candidates meet them on Paper 2, which is non-calculator, and Paper 4, which is a calculator paper. Paper 2 is where exact values matter most, because you cannot look a value up.
@@ -327,7 +327,7 @@ No. When a question asks for an exact value, give the surd form, such as √3/2,
 **Does the graph of y = tan x cross x = 90°?**
 No. y = tan x has vertical asymptotes at x = 90° and x = 270°, so the graph never crosses those lines and its branches should not be joined across them.
 
-## Next steps
+## More on this topic
 
 Practise the equation and exact-value questions in the [Extended trigonometry practice set](/resources/igcse-mathematics-trigonometry-extended-practice/). If you sit Core papers, the [Core diagnostic](/practice/0580/diagnostic/core/) covers your content instead.
 

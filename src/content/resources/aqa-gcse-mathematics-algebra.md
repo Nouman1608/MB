@@ -19,7 +19,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers **Topic 2 Algebra**, the second of six topic areas
@@ -215,7 +215,7 @@ Yes. Solving quadratic equations by factorising (A18) is Foundation tier content
 **Which paper is algebra tested on in AQA GCSE Maths?**
 Algebra is assessed across all three papers, and questions often combine it with number, ratio or geometry rather than testing it on its own.
 
-## Related resources
+## More resources on this topic
 
 - [Algebra revision notes](/resources/aqa-gcse-mathematics-algebra-revision-notes/)
 - [Algebra practice questions](/resources/aqa-gcse-mathematics-algebra-practice/)

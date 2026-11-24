@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -158,7 +158,7 @@ Not necessarily. Flat sales usually suggest the maturity stage of the product li
 **Which part of OxfordAQA IGCSE Business 9225 do these questions cover?**
 They cover section 3.5 Marketing of OxfordAQA International GCSE Business (9225): customers, segmentation, market research and the 4Ps of price, product, promotion and place.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/oxfordaqa-igcse-business-marketing/) for any question you missed.
 - Condense it with the [revision notes](/resources/oxfordaqa-igcse-business-marketing-revision-notes/).

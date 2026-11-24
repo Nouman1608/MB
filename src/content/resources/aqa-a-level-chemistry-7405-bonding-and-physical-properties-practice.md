@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -135,7 +135,7 @@ Identify the type of structure in each solid, giving the evidence. **[4]**
 - Failing to compare the strength of the forces in two substances.
 - Leaving out the labels or the charges on lattice diagrams.
 
-## Next steps
+## More on this topic
 
 - [Bonding and physical properties revision notes](/resources/aqa-a-level-chemistry-7405-bonding-and-physical-properties-revision-notes/)
 - [Shapes of simple molecules and ions study guide](/resources/aqa-a-level-chemistry-7405-shapes-of-simple-molecules-and-ions/)

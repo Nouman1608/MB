@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -234,7 +234,7 @@ No. Results such as d/dx sin x = cos x hold only when x is measured in radians.
 **Do you need second derivatives of parametric or implicit curves in Cambridge 9709 Paper 2?**
 No. For parametric and implicit curves you only need the first derivative dy/dx, for gradients, tangents and normals.
 
-## Next steps
+## More on this topic
 
 Try the [practice questions](/resources/a-level-maths-9709-pure-mathematics-2-differentiation-practice/), then check your AS readiness with the free [AS diagnostic](/practice/9709/diagnostic/as/) or the [9709 self-check bank](/practice/9709/). For eˣ and ln x themselves, see the [logarithms and exponentials revision notes](/resources/a-level-maths-9709-pure-mathematics-2-logarithms-and-exponentials-revision-notes/). A Level candidates meet this content again, with tan⁻¹ x added, in the [Pure Mathematics 3 revision notes](/resources/a-level-maths-9709-pure-mathematics-3-revision-notes/).
 

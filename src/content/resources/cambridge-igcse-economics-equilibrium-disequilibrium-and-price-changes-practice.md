@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -163,7 +163,7 @@ This set tests sections 2.5 and 2.6 of the Cambridge IGCSE Economics 0455 syllab
 - Forgetting units such as bunches per week.
 - Giving a conclusion in evaluation that repeats earlier points with no condition.
 
-## Next steps
+## More on this topic
 
 - Revise from the [revision notes](/resources/cambridge-igcse-economics-equilibrium-disequilibrium-and-price-changes-revision-notes/).
 - Re-read the [study guide](/resources/cambridge-igcse-economics-equilibrium-disequilibrium-and-price-changes/) for any weak point.

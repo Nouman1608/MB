@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -177,7 +177,7 @@ Judgement: with high import dependence and inelastic demand, stability is likely
 - Offering a list of merits and drawbacks with no judgement.
 - Using a hybrid example without explaining what is managed.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ocr-a-level-economics-exchange-rate-determination-measures-and-systems-revision-notes/) and the [study guide](/resources/ocr-a-level-economics-exchange-rate-determination-measures-and-systems/).
 - See the [OCR Economics hub](/boards/ocr/a-level/economics/) and the [printable checklist](/checklists/ocr/a-level/economics/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -157,7 +157,7 @@ the errors cannot reach full marks.
 - Classifying an alloy diagram as ionic because it shows two kinds of particle.
 - Saying the bonds are weak because the electrons move.
 
-## Next steps
+## More on this topic
 
 - Recap with the [metallic bonding revision notes](/resources/aqa-gcse-chemistry-8462-metallic-bonding-revision-notes/).
 - Reread any weak area in the [metallic bonding study guide](/resources/aqa-gcse-chemistry-8462-metallic-bonding/).

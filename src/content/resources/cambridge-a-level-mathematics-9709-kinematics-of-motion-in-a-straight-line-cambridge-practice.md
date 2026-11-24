@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -168,7 +168,7 @@ Related: the [4.2 study guide](/resources/cambridge-a-level-mathematics-9709-kin
 - Sign errors in vertical motion; state the positive direction.
 - Not interpreting the second root of a quadratic in t.
 
-## Next steps
+## More on this topic
 
 - [4.2 study guide](/resources/cambridge-a-level-mathematics-9709-kinematics-of-motion-in-a-straight-line-cambridge/)
 - [4.2 revision notes](/resources/cambridge-a-level-mathematics-9709-kinematics-of-motion-in-a-straight-line-cambridge-revision-notes/)

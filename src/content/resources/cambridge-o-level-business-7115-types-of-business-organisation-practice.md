@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -125,7 +125,7 @@ Related: the [Types of business organisation study guide](/resources/cambridge-o
 - Confusing a public limited company with a public corporation in question 12.
 - Giving benefits only in question 10, with no limitations or judgement.
 
-## Next steps
+## More on this topic
 
 Revisit the four needs for choosing a form in the [Types of business organisation study guide](/resources/cambridge-o-level-business-7115-types-of-business-organisation/), then try the [Business objectives and stakeholder objectives practice questions](/resources/cambridge-o-level-business-7115-business-objectives-and-stakeholder-objectives-practice/).
 

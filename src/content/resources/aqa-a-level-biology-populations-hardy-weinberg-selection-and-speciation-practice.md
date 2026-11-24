@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -149,7 +149,7 @@ These questions cover AQA A-level Biology (7402) sections 3.7.2 and 3.7.3 (A-lev
 - Describing drift as if it improves survival.
 - Omitting "fertile" from the end point of speciation.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/aqa-a-level-biology-populations-hardy-weinberg-selection-and-speciation-revision-notes/) and the [study guide](/resources/aqa-a-level-biology-populations-hardy-weinberg-selection-and-speciation/).
 - Visit the [AQA A-level Biology hub](/boards/aqa/a-level/biology/) and the [printable checklist](/checklists/aqa/a-level/biology/).

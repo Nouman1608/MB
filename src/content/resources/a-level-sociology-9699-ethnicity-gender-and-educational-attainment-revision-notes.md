@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-29
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 These notes condense the [Ethnicity, gender and educational attainment study guide](/resources/a-level-sociology-9699-ethnicity-gender-and-educational-attainment/). Read that first if a study or term below is new to you.
@@ -192,7 +192,7 @@ They did well at school, but a race- and gender-segregated labour market limited
 **Is the crisis of masculinity a fact?**
 No. It is a debated idea, so treat it as an argument to evaluate. One suggested cause is the decline of manual jobs that once needed few qualifications.
 
-## Next steps
+## More on this topic
 
 - Background on gender identity: [Socialisation and methods revision notes](/resources/a-sociology-socialisation-methods-revision-notes/).
 - Gender roles at home: [Family revision notes](/resources/a-level-sociology-family-revision-notes/).

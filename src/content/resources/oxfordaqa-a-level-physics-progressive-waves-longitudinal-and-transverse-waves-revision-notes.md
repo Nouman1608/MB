@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 These notes condense sections 3.5.3 (Progressive waves) and 3.5.4 (Longitudinal and transverse waves) of the OxfordAQA International AS and A-level Physics (9630) specification, Version 4.4. Both sections are shared AS and A-level content. For full explanations and longer worked examples, read the [study guide](/resources/oxfordaqa-a-level-physics-progressive-waves-longitudinal-and-transverse-waves/), then test yourself with the [practice questions](/resources/oxfordaqa-a-level-physics-progressive-waves-longitudinal-and-transverse-waves-practice/). The [course hub](/boards/oxfordaqa/a-level/physics/) and [checklist](/checklists/oxfordaqa/a-level/physics/) show where this unit sits in the course.
@@ -193,7 +193,7 @@ Malus's law is not expected, so you do not need to calculate transmitted intensi
 - Describing a longitudinal wave with a drawing of crests and troughs. Use compressions and rarefactions.
 - Describing polarisation without mentioning the transmission axis or the direction of oscillation.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/oxfordaqa-a-level-physics-progressive-waves-longitudinal-and-transverse-waves-practice/), re-read the [study guide](/resources/oxfordaqa-a-level-physics-progressive-waves-longitudinal-and-transverse-waves/) where you slipped, and take a free 10-minute check on the [diagnostics page](/diagnostics/).
 

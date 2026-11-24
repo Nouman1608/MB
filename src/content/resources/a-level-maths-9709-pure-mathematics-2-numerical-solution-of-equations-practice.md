@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -154,7 +154,7 @@ Test for a sign change on the rounding bounds, c − 0.005 and c + 0.005. Testin
 **When do you stop an iteration?**
 Stop when two successive iterates round to the same value at the accuracy asked for. Use the calculator's stored value each time rather than retyping rounded values.
 
-## Next steps
+## More on this topic
 
 - Recap the methods in the [revision notes](/resources/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations-revision-notes/).
 - Re-read the worked examples in the [study guide](/resources/a-level-maths-9709-pure-mathematics-2-numerical-solution-of-equations/).

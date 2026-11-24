@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This guide covers the first part of section P2.7 (Integration) of the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2: the standard integrals of eˣ, 1/x, sin x and cos x, the reverse chain rule by inspection and by substitution, and integrals of the form f′(x)/f(x). The specification places this content in International A-level (A2) Unit P2 (Pure Maths); it is not examined at International AS. Integration by parts, partial fractions and volumes of revolution are the other parts of P2.7 and are not covered here. Pair this guide with the [revision notes](/resources/oxfordaqa-a-level-mathematics-integration-by-inspection-and-substitution-revision-notes/) and the [practice questions](/resources/oxfordaqa-a-level-mathematics-integration-by-inspection-and-substitution-practice/). The basics of integrating powers are in the [P1.4 integration guide](/resources/oxfordaqa-a-level-mathematics-integration-indefinite-definite-integrals-areas-and/). The course home is the [OxfordAQA A-level Mathematics hub](/boards/oxfordaqa/a-level/mathematics/), with a [printable checklist](/checklists/oxfordaqa/a-level/mathematics/). If you are unsure where you stand, take a [free diagnostic](/diagnostics/) first.
 
@@ -278,7 +278,7 @@ Try inspection first when the integrand is one function of g(x) multiplied by g�
 - Using degrees. These integrals assume radians.
 - Missing + c on an indefinite integral.
 
-## Next steps
+## More on this topic
 
 Try the [practice questions](/resources/oxfordaqa-a-level-mathematics-integration-by-inspection-and-substitution-practice/), then use the [revision notes](/resources/oxfordaqa-a-level-mathematics-integration-by-inspection-and-substitution-revision-notes/) to recall the results quickly. Tick off the topic on the [checklist](/checklists/oxfordaqa/a-level/mathematics/).
 

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -144,7 +144,7 @@ Both sequences are valid unless the question restricts the sign of the terms.
 11. 1 + 5 + 25 + 125 + 625 = 781.
 12. The denominator r − 1 would be zero.
 
-## Next steps
+## More on this topic
 
 - [Section 1.3 study guide](/resources/ib-dp-mathematics-analysis-and-approaches-1-3/)
 - [Section 1.3 practice questions](/resources/ib-dp-mathematics-analysis-and-approaches-1-3-practice/)

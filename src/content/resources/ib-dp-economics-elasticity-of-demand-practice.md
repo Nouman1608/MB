@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -160,7 +160,7 @@ Give both the sign and the size: a negative YED means an inferior good, a YED be
 **What are common mistakes in IB Economics elasticity calculations?**
 Frequent slips include measuring percentage changes from the end figure instead of the start, putting the price change over the quantity change, and treating revenue as profit in a discussion.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ib-dp-economics-elasticity-of-demand-revision-notes/) and the [study guide](/resources/ib-dp-economics-elasticity-of-demand/).
 - Return to the [IB DP Economics hub](/boards/ib/ib-dp/economics/) and tick the [checklist](/checklists/ib/ib-dp/economics/).

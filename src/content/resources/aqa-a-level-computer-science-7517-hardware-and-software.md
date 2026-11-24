@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the spec says only 'need for, and attributes of, different types of software' (4.6.1.2); check that the general-purpose, special-purpose, bespoke and off-the-shelf split matches the intended teaching."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the spec says only 'need for, and attributes of, different types of software' (4.6.1.2); check that the general-purpose, special-purpose, bespoke and off-the-shelf split matches the intended teaching. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -158,7 +158,7 @@ The user runs an application program. The application calls library routines and
 - **OS role**: give both parts, hiding hardware complexity and resource management, with an example of each.
 - **Resource management**: name the resource (processor, memory or I/O) and say what the OS does with it.
 
-## Related resources
+## More resources on this topic
 
 - [Hardware and software revision notes](/resources/aqa-a-level-computer-science-7517-hardware-and-software-revision-notes/)
 - [Hardware and software practice questions](/resources/aqa-a-level-computer-science-7517-hardware-and-software-practice/)

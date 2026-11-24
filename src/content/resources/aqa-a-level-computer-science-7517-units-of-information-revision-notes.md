@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -167,7 +167,7 @@ Memory locations are addressed with binary numbers. With n address bits there ar
 9. 1 TB is 10¹² bytes. Dividing by 2³⁰ gives about 931, so the same number of bytes is reported in the larger binary unit.
 10. A gibibyte (1,073,741,824 bytes against 1,000,000,000).
 
-## Related resources
+## More resources on this topic
 
 - [Units of information study guide](/resources/aqa-a-level-computer-science-7517-units-of-information/)
 - [Units of information practice questions](/resources/aqa-a-level-computer-science-7517-units-of-information-practice/)

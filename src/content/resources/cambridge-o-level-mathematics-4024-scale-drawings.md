@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -217,7 +217,7 @@ A calculation gives 40 × tan 35° = 28.0 m, so the drawing agrees. This is a us
 - Label north lines and angles on your sketch before you calculate.
 - Check bearings with common sense: south-west must be near 225°.
 
-## Next steps
+## More on this topic
 
 Work through the [scale drawings practice questions](/resources/cambridge-o-level-mathematics-4024-scale-drawings-practice/) and recap with the [scale drawings revision notes](/resources/cambridge-o-level-mathematics-4024-scale-drawings-revision-notes/).
 

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -159,7 +159,7 @@ D: red blood cell **[1]**
 - Describing tissue fluid formation without the venous end.
 - Swapping monocyte and neutrophil nuclei.
 
-## Next steps
+## More on this topic
 
 - [Circulatory system study guide](/resources/cambridge-a-level-biology-9700-the-circulatory-system/)
 - [Circulatory system revision notes](/resources/cambridge-a-level-biology-9700-the-circulatory-system-revision-notes/)

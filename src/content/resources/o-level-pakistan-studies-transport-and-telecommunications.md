@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 **Transport and telecommunications is Section 7 of Paper 2 in Cambridge O Level Pakistan Studies
@@ -205,7 +205,7 @@ It is a deep-water port close to the Strait of Hormuz and the planned southern e
 China–Pakistan Economic Corridor, but it still lacks the road, rail, water and power links needed
 for heavy traffic.
 
-## Related resources
+## More resources on this topic
 
 - [Transport and Telecommunications revision notes](/resources/o-level-pakistan-studies-transport-and-telecommunications-revision-notes/)
 - [Transport and Telecommunications practice questions](/resources/o-level-pakistan-studies-transport-and-telecommunications-practice/)

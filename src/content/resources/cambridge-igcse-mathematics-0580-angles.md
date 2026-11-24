@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -185,7 +185,7 @@ Avoid it. The syllabus expects correct geometrical terminology, so write "altern
 **How do I find the number of sides of a regular polygon?**
 Find the exterior angle (180° minus the interior angle if needed), then divide 360° by it. The answer must be a whole number; if it is not, check your working.
 
-## Next steps
+## More on this topic
 
 - Consolidate with the [angles revision notes](/resources/cambridge-igcse-mathematics-0580-angles-revision-notes/).
 - Practise with the [angles practice questions](/resources/cambridge-igcse-mathematics-0580-angles-practice/).

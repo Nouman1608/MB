@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -148,7 +148,7 @@ Star X has a quarter of the radius of star Y. *Annotation.* Ratio questions are 
 - **Explain** (why a cool star can be very luminous): L = 4πσr²T⁴, so a large radius compensates for low temperature.
 - **Suggest** (why the radius is an estimate): stars are not perfect black bodies.
 
-## Related resources
+## More resources on this topic
 
 - [Astronomy and Cosmology study guide](/resources/a-physics-astronomy-and-cosmology/) — the whole of Topic 25
 - [Stellar radii revision notes](/resources/cambridge-a-level-physics-9702-a-stellar-radii-revision-notes/)

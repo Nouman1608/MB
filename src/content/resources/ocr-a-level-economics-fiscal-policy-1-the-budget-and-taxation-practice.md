@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -154,7 +154,7 @@ Calculate the average rate of each tax at each income, and classify each tax. **
 - Using debt interest or wages as examples of capital spending.
 - Treating any deficit as expansionary policy, or forgetting that the current budget excludes capital spending.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ocr-a-level-economics-fiscal-policy-1-the-budget-and-taxation-revision-notes/) and the [study guide](/resources/ocr-a-level-economics-fiscal-policy-1-the-budget-and-taxation/).
 - Use the [hub](/boards/ocr/a-level/economics/) and [checklist](/checklists/ocr/a-level/economics/).

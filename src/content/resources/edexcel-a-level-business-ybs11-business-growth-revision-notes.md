@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -157,6 +157,6 @@ Combined market share = share A + share B (horizontal merger)
 - When a question asks you to choose a method of growth, compare the options against the same criteria (speed, cost, risk, control, fit with objectives) so your judgement is visible.
 - Quote figures from the source wherever possible: unit costs, premiums, interest costs and receivables turn a general point into a developed one.
 
-## Next steps
+## More on this topic
 
 Check slips against the [Business growth study guide](/resources/edexcel-a-level-business-ybs11-business-growth/), then practise with the [Business growth practice questions](/resources/edexcel-a-level-business-ybs11-business-growth-practice/).

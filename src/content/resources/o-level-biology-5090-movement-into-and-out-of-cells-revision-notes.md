@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 For full explanations and worked examples, read the [study guide for this topic](/resources/o-level-biology-5090-movement-into-and-out-of-cells/) first.
@@ -249,7 +249,7 @@ These notes cover Topic 3, Movement into and out of cells, of the Cambridge O Le
 - Explaining a temperature effect without mentioning **kinetic energy**.
 - Saying "the cell gains water because the solution is weak" without comparing water potentials inside and outside.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/o-level-biology-5090-movement-into-and-out-of-cells-practice/), and use the free [diagnostics](/diagnostics/) to spot weak topics. The cell membrane and root hair cell are revised in [Cell structure and organisation revision notes](/resources/cell-structure-and-organisation-revision-notes/).
 

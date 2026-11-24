@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -170,7 +170,7 @@ For a cubic y = x³ translated by (−1 over 4), replace x by x + 1 and add 4: y
 - **Show that**: expand or simplify step by step from the transformed equation to the given form.
 - **Write down the equation of the asymptote**: give the full equation, such as y = −1, not just the number.
 
-## Next steps
+## More on this topic
 
 - Condense the rules with the [transformations of curves revision notes](/resources/ocr-gcse-mathematics-j560-transformations-of-curves-and-their-equations-revision-notes/).
 - Test yourself with the [transformations of curves practice questions](/resources/ocr-gcse-mathematics-j560-transformations-of-curves-and-their-equations-practice/).

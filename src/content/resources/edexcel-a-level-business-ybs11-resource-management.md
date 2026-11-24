@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -157,7 +157,7 @@ Competitive advantage follows from fewer defects and returns, lower waste, a str
 
 **Calculate** questions need the formula, the figures and a unit or percentage. For **explain**, give one cause or effect and develop it with a specific detail from the source. **Analyse** needs a chain of reasoning, such as "higher utilisation, lower fixed cost per unit, higher profit margin". **Discuss** and **assess** need both sides and a judgement that depends on the business in the source: for instance, JIT suits a business with reliable local suppliers and predictable demand, but not one that depends on distant suppliers.
 
-## Related resources
+## More resources on this topic
 
 - [Resource management revision notes](/resources/edexcel-a-level-business-ybs11-resource-management-revision-notes/)
 - [Resource management practice questions](/resources/edexcel-a-level-business-ybs11-resource-management-practice/)

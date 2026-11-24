@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 For full explanations and worked examples, read the [study guide on expert systems](/resources/a-level-cambridge-ict-expert-systems/) first. These notes are for quick recall in the final weeks.
@@ -222,7 +222,7 @@ Link every point to the scenario in the question.
 - Giving "it is fast" or "it is expensive" with no reason and no link to the scenario.
 - Saying an expert system replaces the expert. It supports a decision; it suggests **possible** solutions.
 
-## Next steps
+## More on this topic
 
 - Full explanations and worked examples: [expert systems study guide](/resources/a-level-cambridge-ict-expert-systems/)
 - Marked exam-style questions: [expert systems practice](/resources/a-level-cambridge-ict-expert-systems-practice/)

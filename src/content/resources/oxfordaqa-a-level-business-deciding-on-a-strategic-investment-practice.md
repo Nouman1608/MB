@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -138,7 +138,7 @@ Complete any missing probability first: the probabilities at one chance node mus
 **Which OxfordAQA 9725 section and paper do these questions cover?**
 They cover section 3.4.3 Deciding on a strategic investment of OxfordAQA International AS and A-level Business (9725), which is examined in the Unit 4: Business strategy paper.
 
-## Next steps
+## More on this topic
 
 - Recap every formula with the [strategic investment revision notes](/resources/oxfordaqa-a-level-business-deciding-on-a-strategic-investment-revision-notes/)
 - Rework the examples in the [strategic investment study guide](/resources/oxfordaqa-a-level-business-deciding-on-a-strategic-investment/)

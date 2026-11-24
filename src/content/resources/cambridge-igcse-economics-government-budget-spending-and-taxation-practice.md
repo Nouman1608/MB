@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -150,7 +150,7 @@ This set covers sections 4.3.1 to 4.3.6 of the Cambridge IGCSE Economics 0455 sy
 - Writing a list for an evaluation question with no judgement.
 - Leaving out units or the percentage sign.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/cambridge-igcse-economics-government-budget-spending-and-taxation-revision-notes/) and the [study guide](/resources/cambridge-igcse-economics-government-budget-spending-and-taxation/).
 - Visit the [Cambridge IGCSE Economics hub](/boards/cambridge/igcse/economics/) and tick off outcomes on the [printable checklist](/checklists/cambridge/igcse/economics/).

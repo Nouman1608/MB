@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -162,7 +162,7 @@ Water is pumped through an engine at 0.050 kg s⁻¹ and leaves 12 K warmer than
 - **Calculate** in stages: one line per stage, then add.
 - **Evaluate** the practical: name the error, its direction (c too big or too small) and a specific fix.
 
-## Related resources
+## More resources on this topic
 
 - [Heating and doing work revision notes](/resources/oxfordaqa-a-level-physics-9630-energy-transfer-by-heating-and-doing-work-revision-notes/)
 - [Heating and doing work practice questions](/resources/oxfordaqa-a-level-physics-9630-energy-transfer-by-heating-and-doing-work-practice/)

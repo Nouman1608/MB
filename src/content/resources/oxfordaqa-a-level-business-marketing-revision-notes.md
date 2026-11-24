@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -308,7 +308,7 @@ Customer retention rate is customers at the end of the period minus new customer
 **What sampling methods are in OxfordAQA International AS Business?**
 The sampling methods are random, stratified and quota sampling. Choosing a research method depends on cost, time and reliability.
 
-## Related resources
+## More resources on this topic
 
 - [Marketing study guide](/resources/a-level-oxfordaqa-business-marketing/)
 - [Marketing practice questions](/resources/oxfordaqa-a-level-business-marketing-practice/)

@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-03
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -174,7 +174,7 @@ an accurate but unsupported general statement — general exam-technique
 advice, since no published mark scheme yet exists for this new
 specification to confirm it.
 
-## Related resources
+## More resources on this topic
 
 - [Socialisation study guide](/resources/igcse-oxfordaqa-sociology-socialisation/)
 - [Socialisation practice questions](/resources/igcse-oxfordaqa-sociology-socialisation-practice/)

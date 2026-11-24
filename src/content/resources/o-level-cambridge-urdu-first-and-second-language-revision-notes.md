@@ -18,6 +18,7 @@ description: "Condensed recall notes on the exact Paper 1 exercise structure, ma
 author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"
 reviewStatus: "reviewed"
+reviewNote: "2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 reviewedDate: 2026-09-29
 publishedDate: 2026-08-25
 featured: false
@@ -187,7 +188,7 @@ given purpose and audience." 5. Urdu letters are distinguished by the
 number and position of dots; changing them produces a different
 letter and therefore a different word.
 
-## Related resources
+## More resources on this topic
 
 - [Cambridge O-Level Urdu study guide](/resources/o-level-cambridge-urdu-first-and-second-language/) —
   the full explanation this page condenses

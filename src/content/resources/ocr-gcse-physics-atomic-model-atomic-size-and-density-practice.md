@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -170,7 +170,7 @@ Explain it in terms of spacing: the particles in a gas are far apart with empty 
 **How should you describe an error in a density experiment?**
 Name the source of error and say which way it affects the result, for example whether it makes the measured volume, and so the density, too large or too small. An error source with no direction of effect earns less credit.
 
-## Next steps
+## More on this topic
 
 - Review with the [revision notes](/resources/ocr-gcse-physics-atomic-model-atomic-size-and-density-revision-notes/) or the [study guide](/resources/ocr-gcse-physics-atomic-model-atomic-size-and-density/).
 - Browse the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/) and tick off the [printable checklist](/checklists/ocr/gcse/physics/).

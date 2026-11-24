@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -152,7 +152,7 @@ A **translator** takes source code as input and produces object code. A processo
 9. A compiler.
 10. Source code is the program as the programmer wrote it; object code is the translated machine code that the processor runs.
 
-## Related resources
+## More resources on this topic
 
 - [Types of program translator study guide](/resources/aqa-a-level-computer-science-7517-types-of-program-translator/)
 - [Types of program translator practice questions](/resources/aqa-a-level-computer-science-7517-types-of-program-translator-practice/)

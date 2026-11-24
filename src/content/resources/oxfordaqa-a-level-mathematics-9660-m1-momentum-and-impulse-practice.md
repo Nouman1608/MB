@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -178,7 +178,7 @@ These questions cover section M1.4 (Momentum and impulse) of the OxfordAQA Inter
 - Using a speed in a momentum equation where a signed velocity is needed.
 - Forgetting the 1.5 m s⁻² deceleration before a collision in a multi-stage question.
 
-## Next steps
+## More on this topic
 
 - Re-read the [momentum and impulse revision notes](/resources/oxfordaqa-a-level-mathematics-9660-m1-momentum-and-impulse-revision-notes/).
 - Return to the [momentum and impulse study guide](/resources/oxfordaqa-a-level-mathematics-9660-m1-momentum-and-impulse/) for the multi-stage examples.

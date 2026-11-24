@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -191,7 +191,7 @@ Do not mix up a sector (a slice of pizza) with a segment (a cap cut off by a cho
 - **Describe** questions need the key features, for example "a rhombus has four equal sides".
 - Label diagrams as you read, so that vertices, bisectors and tangents are all visible.
 
-## Next steps
+## More on this topic
 
 Try the [geometrical terms practice questions](/resources/cambridge-o-level-mathematics-4024-geometrical-terms-practice/) and recap with the [geometry revision notes](/resources/o-level-mathematics-geometry-revision-notes/).
 

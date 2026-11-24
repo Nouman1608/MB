@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -123,7 +123,7 @@ These questions cover topic 5, Business operations, sections 5.3 Factors of prod
 - Ignoring the costs and risks of change when evaluating.
 - Finishing an evaluation without a clear judgement.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/edexcel-igcse-business-factors-of-production-and-quality-revision-notes/) and the [study guide](/resources/edexcel-igcse-business-factors-of-production-and-quality/).
 - Course hub: [Edexcel IGCSE Business](/boards/edexcel/igcse/business/) and the [printable checklist](/checklists/edexcel/igcse/business/).

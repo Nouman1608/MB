@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -256,7 +256,7 @@ Factors to consider:
 
 For **state** questions, name the source. For **explain** questions, give an advantage or drawback with a reason that fits the business. For **calculate** questions, show interest and totals. For **evaluate** questions, compare at least two sources against the amount, time, cost, risk and control, then recommend one and explain why the other is less suitable.
 
-## Related resources
+## More resources on this topic
 
 - [Revision notes for this subtopic](/resources/oxfordaqa-igcse-business-9225-sources-of-finance-revision-notes/)
 - [Practice questions for this subtopic](/resources/oxfordaqa-igcse-business-9225-sources-of-finance-practice/)

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -190,7 +190,7 @@ Failure usually comes from a combination. An external shock, such as a rise in i
 
 **Calculate** answers need the formula, the figures and the answer to a sensible number of decimal places, with % where relevant. In **analyse** answers, explain what a change in a ratio or margin means for the named business and why it happened. In **discuss** and **assess** answers about liquidity or failure, weigh internal against external causes, and judge which was more significant in the source.
 
-## Related resources
+## More resources on this topic
 
 - [Managing Finance revision notes](/resources/edexcel-a-level-business-ybs11-managing-finance-revision-notes/)
 - [Managing Finance practice questions](/resources/edexcel-a-level-business-ybs11-managing-finance-practice/)

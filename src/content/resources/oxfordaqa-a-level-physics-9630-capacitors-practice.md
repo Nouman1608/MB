@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -150,7 +150,7 @@ D: replacing the dielectric with one of half the relative permittivity
 - Assuming the charge is constant when the capacitor is still connected, or the p.d. constant when it is isolated.
 - Stating that energy "triples" without giving where the energy comes from.
 
-## Next steps
+## More on this topic
 
 - Revisit the explanations in the [capacitors study guide](/resources/oxfordaqa-a-level-physics-9630-capacitors/).
 - Move on to charging and discharging with the [capacitor charge and discharge practice questions](/resources/oxfordaqa-a-level-physics-capacitor-charge-and-discharge-through-resistors-practice/).

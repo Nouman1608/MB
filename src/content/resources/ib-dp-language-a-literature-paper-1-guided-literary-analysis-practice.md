@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -251,7 +251,7 @@ The real exam is marked holistically against the IB criteria, not point by point
 - Inventing context, such as a date or the writer's life.
 - Long quotations dropped in, or no conclusion because time ran out.
 
-## Next steps
+## More on this topic
 
 - [Paper 1 revision notes](/resources/ib-dp-language-a-literature-paper-1-guided-literary-analysis-revision-notes/)
 - [Paper 1 study guide](/resources/ib-dp-language-a-literature-paper-1-guided-literary-analysis/)

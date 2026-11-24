@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -158,7 +158,7 @@ These questions cover IB Diploma Programme Biology sections A2.1 (Origins of cel
 - Using "mutation" for influenza reassortment, which is a mixing of segments.
 - Giving a list for evaluate and discuss questions with no judgement.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/ib-dp-biology-origins-of-cells-and-viruses-hl-revision-notes/) and re-read the [study guide](/resources/ib-dp-biology-origins-of-cells-and-viruses-hl/).
 - Go to the [IB DP Biology hub](/boards/ib/ib-dp/biology/) or tick off topics on the [printable checklist](/checklists/ib/ib-dp/biology/).

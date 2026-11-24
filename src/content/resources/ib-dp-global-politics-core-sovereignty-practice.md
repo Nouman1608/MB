@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -159,7 +159,7 @@ In the real exam, questions like 6, 9 and 10 are marked holistically against the
 - Naming real cases (Libya, Brexit, Honduras) without explaining how they support the point.
 - Leaving out a judgement on "evaluate", "discuss" or "recommend" questions.
 
-## Next steps
+## More on this topic
 
 - Revise with the [sovereignty revision notes](/resources/ib-dp-global-politics-core-sovereignty-revision-notes/).
 - Re-read weak areas in the [sovereignty study guide](/resources/ib-dp-global-politics-core-sovereignty/).

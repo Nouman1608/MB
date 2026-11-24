@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to zain-ud-din-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to zain-ud-din-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -156,7 +156,7 @@ Yes. Stopping at a number with no decision is a common way to lose marks; tie th
 **What should I do when appraisal techniques disagree?**
 Say which technique you give the most weight and why, weigh the non-financial factors against the figures, and reach a clear decision.
 
-## Next steps
+## More on this topic
 
 - [Study guide](/resources/cambridge-a-level-accounting-investment-appraisal/) and [revision notes](/resources/cambridge-a-level-accounting-investment-appraisal-revision-notes/)
 - [Course hub](/boards/cambridge/a-level/accounting/) and [checklist](/checklists/cambridge/a-level/accounting/)

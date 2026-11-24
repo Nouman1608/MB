@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -134,7 +134,7 @@ mass of zinc   = 250 − 162.5 = 87.5 g          [1]
 - **Explain** (outcome 5, Extended): compare the pure metal and the alloy, mention the size difference and finish with "layers can no longer slide over each other".
 - **Suggest:** use data you are given to propose a use for an unfamiliar alloy, justifying it with a property.
 
-## Related resources
+## More resources on this topic
 
 - [Alloys revision notes](/resources/cambridge-igcse-chemistry-0620-alloys-and-their-properties-revision-notes/) and [practice questions](/resources/cambridge-igcse-chemistry-0620-alloys-and-their-properties-practice/)
 - [Uses of metals study guide](/resources/cambridge-igcse-chemistry-0620-uses-of-metals/), for the same "property, therefore use" reasoning applied to pure metals

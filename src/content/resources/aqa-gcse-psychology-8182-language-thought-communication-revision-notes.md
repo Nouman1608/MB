@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-15
 updatedDate: 2026-11-16
 featured: false
@@ -202,7 +202,7 @@ early; blind-born children show similar expressions; basic expressions are recog
 cultures. 7. Japanese participants used the eyes more, and American participants the mouth more, to
 judge emotion in emoticons, suggesting NVC interpretation is learned through culture. 8. That a verbal label changed how an ambiguous drawing was remembered and redrawn, so language can affect recall. 9. Any two: regulating turn-taking in conversation, signalling interest or attraction, expressing emotion. 10. That food is close to the hive, so they search nearby. 11. Talking about things not present in time or place; it lets humans discuss the future and make plans. 12. Any one: participants were students; the emoticons and faces were artificial; it measured interpretation, not production, of expressions.
 
-## Related resources
+## More resources on this topic
 
 - [Language, Thought and Communication study guide](/resources/aqa-gcse-psychology-8182-language-thought-communication/)
 - [Language, Thought and Communication practice questions](/resources/aqa-gcse-psychology-8182-language-thought-communication-practice/)

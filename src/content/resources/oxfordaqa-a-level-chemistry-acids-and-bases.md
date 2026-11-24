@@ -39,7 +39,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches section 3.1.10, Acids and bases, of the OxfordAQA International AS and A-level Chemistry (9620) specification, Version 5.3, for International AS and A-level exams May/June 2020 onwards. It covers 3.1.10.1 to 3.1.10.6 and required practical 7. This is International A2 material, so it is **International A-level only**. Acids and bases sit in Unit 3 (Inorganic 2 and Physical 2), and questions in Unit 5 (Practical and synoptic) can come from anywhere in the course.
@@ -358,7 +358,7 @@ HZ left = 2.40 × 10⁻³ mol;   Z⁻ formed = 3.00 × 10⁻³ mol
 - Choosing an indicator when only one end of its range is on the steep part.
 - Averaging the rough titre with the concordant ones.
 
-## Next steps
+## More on this topic
 
 Move on to the [revision notes](/resources/oxfordaqa-a-level-chemistry-acids-and-bases-revision-notes/) for a summary and the [practice questions](/resources/oxfordaqa-a-level-chemistry-acids-and-bases-practice/) for exam-style work.
 

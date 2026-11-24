@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -200,7 +200,7 @@ Non-current assets [1]; current assets [1]; fund plus donation [1]; less deficit
 - Forgetting the life fund or the overdraft in the accumulated fund.
 - Evaluating without figures or without a final judgement.
 
-## Next steps
+## More on this topic
 
 - Layout problems? Revisit the [club accounts study guide](/resources/oxfordaqa-a-level-accounting-clubs-and-non-profit-making-organisations/).
 - Quick recap: [club accounts revision notes](/resources/oxfordaqa-a-level-accounting-clubs-and-non-profit-making-organisations-revision-notes/).

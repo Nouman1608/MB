@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This study guide is aligned to the OxfordAQA International GCSE Biology (9201) specification, Version 5.2, for exams May/June 2018 onwards. It covers section 3.4.3, Control of water and ion content of the body, statements a to g. The qualification is untiered, so all of this content is for every candidate. Content from any part of the specification can be assessed on either of the two written papers.
 
@@ -235,7 +235,7 @@ The same loop runs the other way when water content is too high: less ADH, less 
 - Describing negative feedback as "the body gets worse". It means the change is reversed.
 - Mixing up concentrated (low volume) and dilute (large volume) urine.
 
-## Next steps
+## More on this topic
 
 Check recall with the [revision notes](/resources/oxfordaqa-igcse-biology-water-and-ion-balance-liver-kidneys-and-adh-revision-notes/), then attempt the [practice questions](/resources/oxfordaqa-igcse-biology-water-and-ion-balance-liver-kidneys-and-adh-practice/). For exam technique across the whole course see [OxfordAQA IGCSE Biology exam preparation](/resources/oxfordaqa-igcse-biology-exam-preparation/).
 

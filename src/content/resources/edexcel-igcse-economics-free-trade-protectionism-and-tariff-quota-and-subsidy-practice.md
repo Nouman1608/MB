@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -160,7 +160,7 @@ Label the price and quantity axes, the demand curve, the home supply curve, a ho
 **Why might a tariff fail to reduce a current account deficit?**
 If demand for imports is price inelastic, spending on imports falls only a little when their price rises. Trading partners may also retaliate with their own tariffs, which reduces exports.
 
-## Next steps
+## More on this topic
 
 - Revisit the [study guide](/resources/edexcel-igcse-economics-free-trade-protectionism-and-tariff-quota-and-subsidy/) for any question that cost you marks.
 - Use the [revision notes](/resources/edexcel-igcse-economics-free-trade-protectionism-and-tariff-quota-and-subsidy-revision-notes/) and try the self-test again.

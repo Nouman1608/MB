@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -157,7 +157,7 @@ A definite integral gives a signed total, so parts below the x-axis count as neg
 **Should integration answers be exact in OCR A Level Mathematics?**
 Give an exact value or the stated form when the question asks for one, such as 12 + 10 ln 2, rather than a decimal.
 
-## Next steps
+## More on this topic
 
 - Recap the methods in the [revision notes](/resources/ocr-a-level-mathematics-integration-basics-fundamental-theorem-indefinite-and-revision-notes/) or re-read the [study guide](/resources/ocr-a-level-mathematics-integration-basics-fundamental-theorem-indefinite-and/).
 - See the [OCR A Level Mathematics hub](/boards/ocr/a-level/mathematics/) and tick items off the [checklist](/checklists/ocr/a-level/mathematics/).

@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -156,7 +156,7 @@ The digit block starts at code 48, so the code of any digit character is **48 + 
 - Saying Unicode "is" UTF-8. UTF-8 is one encoding of Unicode.
 - Counting codes from 1 instead of from 0 when working out the number of characters 2^7 = 128 (codes 0 to 127).
 
-## Next steps
+## More on this topic
 
 - [Representing characters revision notes](/resources/oxfordaqa-a-level-computer-science-9645-representing-characters-revision-notes/)
 - [Representing characters practice questions](/resources/oxfordaqa-a-level-computer-science-9645-representing-characters-practice/)

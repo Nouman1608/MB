@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -158,6 +158,6 @@ Low productivity and harsh conditions mean vegetation and soils regrow slowly, s
 
 **Answers:** 1. For example nomadic pastoralism and climate-suited building design. 2. For example resource extraction and tourism. 3. It destabilises ground, damaging buildings and pipelines, and may release stored carbon. 4. For example cost and long-term sustainability. 5. Low productivity and harsh conditions mean slow regrowth of vegetation and soils. 6. Herds keep moving, so grazing and water in any one place are not exhausted. 7. Land degradation in drylands caused by climate variability and human activities such as overgrazing. 8. To stop heat from the oil thawing ice-rich permafrost and making the ground subside. 9. It carries heat out of the ground in cold weather, keeping the permafrost frozen. 10. Mineral resource activities other than scientific research. 11. Farmers own and maintain it, it is cheap, and regrowth comes from established roots. 12. It has no permanent population and territorial claims are frozen by the treaty.
 
-## Related resources
+## More resources on this topic
 
 - [Option C: Extreme environments study guide](/resources/ib-dp-geography-extreme-environments-study-guide/)

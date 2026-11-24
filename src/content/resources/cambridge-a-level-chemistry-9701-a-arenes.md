@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -170,7 +170,7 @@ group is on the ring when the new group goes on, and where does that group direc
 - **Suggest a synthesis**: number the steps, give reagents and conditions for each, and name each intermediate.
 - **Explain** substitution over addition: refer to the delocalised π system being restored.
 
-## Related resources
+## More resources on this topic
 
 - [Arenes revision notes](/resources/cambridge-a-level-chemistry-9701-a-arenes-revision-notes/)
 - [Arenes practice questions](/resources/cambridge-a-level-chemistry-9701-a-arenes-practice/)

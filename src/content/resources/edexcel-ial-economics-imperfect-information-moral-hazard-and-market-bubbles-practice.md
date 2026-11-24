@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -137,7 +137,7 @@ An information gap, such as hidden risk, exists before the deal is made. Moral h
 **Which groups should you cover when asked about the impact of moral hazard or a bubble?**
 The specification names four groups: consumers, producers, workers and governments. Answers that discuss only one or two of them lose marks.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/edexcel-ial-economics-imperfect-information-moral-hazard-and-market-bubbles/) and use the [revision notes](/resources/edexcel-ial-economics-imperfect-information-moral-hazard-and-market-bubbles-revision-notes/).
 - Tick off coverage on the [printable checklist](/checklists/edexcel/a-level/economics/) or the [hub](/boards/edexcel/a-level/economics/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -145,6 +145,6 @@ Conclusion: Likely guilty of attempted theft.
 
 State s1(1), apply "more than merely preparatory" using a comparable case, then intention for the specific full offence, then impossibility if the facts raise it. For evaluation, focus on the vagueness of the actus reus test and the policy problem of when police can intervene.
 
-## Related resources
+## More resources on this topic
 
 [Attempt revision notes](/resources/aqa-a-level-law-7162-preliminary-offence-revision-notes/) | [Attempt practice questions](/resources/aqa-a-level-law-7162-preliminary-offence-practice/)

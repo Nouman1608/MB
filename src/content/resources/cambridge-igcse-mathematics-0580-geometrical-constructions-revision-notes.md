@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -147,7 +147,7 @@ For a pyramid, the triangle heights in the net are **slant** heights. The vertic
 11. ½ × 6 × 8 × 10 = **240 cm³**
 12. They add up to 187°, not 180°, so **at least one reading is wrong**: measure each angle again
 
-## Next steps
+## More on this topic
 
 - Re-read the worked examples in the [geometrical constructions study guide](/resources/cambridge-igcse-mathematics-0580-geometrical-constructions/).
 - Practise with the [geometrical constructions practice questions](/resources/cambridge-igcse-mathematics-0580-geometrical-constructions-practice/).

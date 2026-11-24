@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -196,7 +196,7 @@ For every step, redraw the triangle as a flat right-angled triangle. Label the r
 - Keep full accuracy until the final step, then give lengths to 3 significant figures and angles to 1 decimal place.
 - Check that your answer is plausible: the angle between a line and a plane is below 90°.
 
-## Next steps
+## More on this topic
 
 Work through the [Pythagoras' theorem and trigonometry in 3D practice questions](/resources/cambridge-o-level-mathematics-4024-pythagoras-theorem-and-trigonometry-practice/) and recap with the [Pythagoras' theorem and trigonometry in 3D revision notes](/resources/cambridge-o-level-mathematics-4024-pythagoras-theorem-and-trigonometry-revision-notes/).
 

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -127,7 +127,7 @@ Evaluation: the change is likely to raise revenue but at the cost of the heritag
 - Listing stakeholders without saying how much each is affected.
 - Ending an evaluation without a judgement or a condition.
 
-## Next steps
+## More on this topic
 
 - Revisit the [mission statement study guide](/resources/ocr-a-level-business-h431-mission-statement/) for any gaps.
 - Move on to [corporate social responsibility practice questions](/resources/ocr-a-level-business-h431-corporate-social-responsibility-practice/).

@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -156,7 +156,7 @@ A count is exact. A measurement has limited precision, set by the instrument and
 9. The position of an object in an ordered arrangement, such as 1st or 2nd.
 10. Natural numbers for counting and real numbers for measurement.
 
-## Related resources
+## More resources on this topic
 
 - [Number systems study guide](/resources/aqa-a-level-computer-science-7517-number-systems/)
 - [Number systems practice questions](/resources/aqa-a-level-computer-science-7517-number-systems-practice/)

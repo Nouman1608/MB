@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -193,7 +193,7 @@ shows about the question. 9. Evaluation depends on weighing the claim against al
 counter-argument, there is no judgement. 10. As the point to evaluate: show what else language does besides the
 function claimed. 11. So that your Section A analysis gathers the evidence your essay needs.
 
-## Next steps
+## More on this topic
 
 Practise with the [Language and Social Groups – Writing practice questions](/resources/oxfordaqa-a-level-english-language-9670-section-b-language-and-social-groups-writing-practice/),
 and see how both sections connect in the [Unit 2 revision notes](/resources/a-level-oxfordaqa-english-language-unit-2-revision-notes/).

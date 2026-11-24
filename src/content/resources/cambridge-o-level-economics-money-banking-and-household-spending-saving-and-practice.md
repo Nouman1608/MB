@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -153,7 +153,7 @@ Tie each point to the group in the question, whether government, producers or co
 **Can you use a calculator in Cambridge O Level Economics 2281?**
 Yes, calculators may be used, but you should still show the working for percentages, ratios and interest, because marks are lost when working is missing.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/cambridge-o-level-economics-money-banking-and-household-spending-saving-and-revision-notes/).
 - Reread the [study guide](/resources/cambridge-o-level-economics-money-banking-and-household-spending-saving-and/).

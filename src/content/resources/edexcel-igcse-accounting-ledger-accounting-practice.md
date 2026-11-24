@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -129,7 +129,7 @@ Links: [Edexcel IGCSE Accounting course hub](/boards/edexcel/igcse/accounting/),
 - Balance c/d put on the same side as the larger total, or Balance b/d missing.
 - Defining a ledger without saying why a business uses it.
 
-## Next steps
+## More on this topic
 
 Use the [revision notes](/resources/edexcel-igcse-accounting-ledger-accounting-revision-notes/), the [study guide](/resources/edexcel-igcse-accounting-ledger-accounting/), tick off the [checklist](/checklists/edexcel/igcse/accounting/), explore the [course hub](/boards/edexcel/igcse/accounting/) and try the [free 10-minute diagnostics](/diagnostics/). [Book a free trial class](/trial/).
 

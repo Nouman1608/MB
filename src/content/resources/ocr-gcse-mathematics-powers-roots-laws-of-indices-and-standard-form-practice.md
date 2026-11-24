@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -179,7 +179,7 @@ These questions cover sections 3.01 and 3.02 of the OCR GCSE (9-1) Mathematics s
 * Adding standard form numbers without first matching the powers of 10.
 * Comparing standard form numbers by their A values only, not their powers of 10.
 
-## Next steps
+## More on this topic
 
 * Re-read the [revision notes](/resources/ocr-gcse-mathematics-powers-roots-laws-of-indices-and-standard-form-revision-notes/) for any method you lost marks on.
 * Go back to the [study guide](/resources/ocr-gcse-mathematics-powers-roots-laws-of-indices-and-standard-form/) for the full worked examples.

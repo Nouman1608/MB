@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -141,7 +141,7 @@ Learn it first: [Water study guide](/resources/a-level-biology-9700-water/) · R
 - Giving a property with no role, or a role with no hydrogen-bond reason.
 - Saying high specific heat capacity keeps organisms "warm" rather than keeping temperature stable.
 
-## Next steps
+## More on this topic
 
 - [Water revision notes](/resources/a-level-biology-9700-water-revision-notes/)
 - [Water study guide](/resources/a-level-biology-9700-water/)

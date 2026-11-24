@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -133,7 +133,7 @@ These questions cover sections 5.1 Introduction to operations management and 5.2
 - Treating mass customization as the same as batch production.
 - Showing only the final figure in a "calculate" question, so working cannot be credited.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/ib-dp-business-management-introduction-to-operations-management-and-operations-methods-revision-notes/) and the [study guide](/resources/ib-dp-business-management-introduction-to-operations-management-and-operations-methods/).
 - Course hub: [IB DP Business Management](/boards/ib/ib-dp/business/) and the [printable checklist](/checklists/ib/ib-dp/business/).

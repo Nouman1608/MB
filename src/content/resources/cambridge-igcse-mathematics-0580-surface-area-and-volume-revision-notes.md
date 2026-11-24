@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -126,7 +126,7 @@ Keep unrounded values between steps. Convert capacity first: 1 litre = 1000 cm³
 11. h = √(25 − 16) = **3 cm**; V = (1/3)π × 16 × 3 = **16π cm³**
 12. A **prism** (a cylindrical sector).
 
-## Next steps
+## More on this topic
 
 - Re-read the worked examples in the [surface area and volume study guide](/resources/igcse-mathematics-0580-surface-area-and-volume/).
 - Practise with the [surface area and volume practice questions](/resources/cambridge-igcse-mathematics-0580-surface-area-and-volume-practice/).

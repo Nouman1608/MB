@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -152,7 +152,7 @@ at r = 0.45 m = 3R:   E = 3.0 × 10⁶ / 9 = 3.3 × 10⁵ V m⁻¹
 - **Explain** (why there is no zero point between unlike charges): the fields of both charges point the same way there.
 - **Sketch** (E against r for a sphere): start at the surface value at r = R and fall as 1/r²; mark E/4 at 2R.
 
-## Related resources
+## More resources on this topic
 
 - [Electric Fields study guide](/resources/a-physics-electric-fields/) — the whole of Topic 18
 - [Electric field of a point charge revision notes](/resources/cambridge-a-level-physics-9702-a-electric-field-of-a-point-charge-revision-notes/)

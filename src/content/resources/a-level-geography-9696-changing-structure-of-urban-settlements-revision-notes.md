@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -134,7 +134,7 @@ Segregation can bring support networks and services for a group, but it can also
 
 **Answers:** 1. The rent a land user will pay, falling with distance from the centre. 2. Hoyt's sector model. 3. High rents, congestion, online shopping, cheaper edge sites with parking. 4. Renovation of older housing by wealthier people, raising prices. 5. Income differences, discrimination, housing policy. 6. Real cities are more complex and vary with place and time. 7. It depends most on customer access, which is highest at the centre. 8. The most accessible, highest-value point in the CBD. 9. Areas the CBD is extending into, and areas it is abandoning. 10. Elite housing lies near the centre along a spine, and poor squatter settlements are on the edge. 11. Housing passing to lower-income groups as it ages.
 
-## Related resources
+## More resources on this topic
 
 - [Core Human Geography study guide](/resources/a-level-cambridge-geography-core-human-geography/)
 - [Paper 2 core revision notes (overview)](/resources/a-geography-human-revision-notes/)

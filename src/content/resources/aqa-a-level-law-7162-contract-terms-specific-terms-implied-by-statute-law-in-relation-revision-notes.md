@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -161,7 +161,7 @@ of delivery, unless the goods are a motor vehicle. 10. Reasonable care and skill
 competent member of the trade. 11. Section 52; a price reduction under section 56. 12. Within a
 reasonable time, without significant inconvenience to the consumer, and at the trader's cost.
 
-## Related resources
+## More resources on this topic
 
 [Consumer contract implied terms study guide](/resources/aqa-a-level-law-7162-contract-terms-specific-terms-implied-by-statute-law-in-relation/) |
 [Consumer contract implied terms practice questions](/resources/aqa-a-level-law-7162-contract-terms-specific-terms-implied-by-statute-law-in-relation-practice/) |

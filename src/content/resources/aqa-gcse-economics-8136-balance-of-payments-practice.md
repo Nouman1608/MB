@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -147,7 +147,7 @@ D: Spending by UK tourists in Greece
 - Calculating the percentage change from the new figure.
 - Judging a deficit without using the size, duration, cause or financing shown in the data.
 
-## Next steps
+## More on this topic
 
 - Revise with the [balance of payments revision notes](/resources/aqa-gcse-economics-8136-balance-of-payments-revision-notes/) and re-read the [study guide](/resources/aqa-gcse-economics-8136-balance-of-payments/).
 - For mixed questions with income distribution, use the [balance of payments and distribution of income practice questions](/resources/aqa-gcse-economics-balance-of-payments-and-distribution-of-income-practice/).

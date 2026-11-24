@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -153,7 +153,7 @@ Judgement: most health care is a merit good because it is excludable and rival [
 - Leaving out the third party when explaining an external cost or benefit.
 - In a "discuss" question, giving two sides with no final judgement.
 
-## Next steps
+## More on this topic
 
 - Recap the key terms with the [market failure revision notes](/resources/cambridge-igcse-economics-0455-market-failure-revision-notes/).
 - Reread the worked examples in the [market failure study guide](/resources/cambridge-igcse-economics-0455-market-failure/).

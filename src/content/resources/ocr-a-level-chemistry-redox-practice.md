@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -177,7 +177,7 @@ Deduce the new oxidation number of X. Show your working. **[4]**
 - Inverting a mole ratio from the equation, as in question 10.
 - Not checking that electrons lost equal electrons gained before using a ratio.
 
-## Next steps
+## More on this topic
 
 - Recap the rules and tables: [Redox revision notes](/resources/ocr-a-level-chemistry-redox-revision-notes/)
 - Full explanations and worked examples: [Redox study guide](/resources/ocr-a-level-chemistry-redox/)

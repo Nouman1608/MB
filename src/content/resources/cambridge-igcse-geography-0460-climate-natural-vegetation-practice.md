@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -119,7 +119,7 @@ Benefits: jobs and income from logging, farming and mining [1]. Benefits: export
 - Giving deforestation effects only on the environment when the question asks about people.
 - Case studies with no named area.
 
-## Next steps
+## More on this topic
 
 - Re-read the [Climate and Natural Vegetation study guide](/resources/igcse-geography-climate-and-natural-vegetation/) for any question you found hard.
 - Use the [Climate and Natural Vegetation revision notes](/resources/igcse-geography-0460-climate-natural-vegetation-revision-notes/) for a final self-test.

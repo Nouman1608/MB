@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -173,7 +173,7 @@ example a price lookup by product code, vote counting, an adjacency list
 or storing a vector. 12. The word "data" occurs three times in the
 document.
 
-## Next steps
+## More on this topic
 
 - Practise writing dictionaries and code with the
   [Dictionaries practice questions](/resources/aqa-a-level-computer-science-7517-dictionaries-practice/).

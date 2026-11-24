@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -146,7 +146,7 @@ Not in its final form. If the denominator works out negative, such as −1, divi
 **How do I check a surd answer without a calculator in the exam?**
 Square it or multiply it back. For example, multiplying the width in Question 11 by the length should give the area.
 
-## Next steps
+## More on this topic
 
 - Re-read the methods in the [surds study guide](/resources/cambridge-igcse-mathematics-0580-surds/).
 - More Extended surd and growth questions: the [Number (Extended) practice questions](/resources/igcse-mathematics-number-extended-practice/).

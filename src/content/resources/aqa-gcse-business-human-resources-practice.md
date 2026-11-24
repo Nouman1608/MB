@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -119,7 +119,7 @@ These questions cover topic 3.4 Human resources from the AQA GCSE Business (8132
 - Stopping at a list on an evaluate or justify question, with no judgement.
 - Describing motivation theory instead of practical methods.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/aqa-gcse-business-human-resources-revision-notes/) and the [study guide](/resources/aqa-gcse-business-human-resources/).
 - Course hub: [/boards/aqa/gcse/business/](/boards/aqa/gcse/business/); printable [checklist](/checklists/aqa/gcse/business/).

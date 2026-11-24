@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide is aligned to the OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026). It covers section 4.01 (Approximation and estimation): 4.01a rounding, 4.01b estimation and 4.01c upper and lower bounds. Most of it is assessed at both tiers. Calculating the bounds of a calculation, and the difference between discrete and continuous bounds, is **Higher tier only**.
@@ -305,7 +305,7 @@ A **discrete** quantity is counted, so only whole numbers occur. The spec's exam
 - Quoting a final answer to more figures than the bounds agree on.
 - Estimating with 3 or 4 digit numbers, which defeats the point of an estimate.
 
-## Next steps
+## More on this topic
 
 Read the condensed [revision notes](/resources/ocr-gcse-mathematics-rounding-estimation-error-intervals-and-bounds-revision-notes/) next, and then work through the [practice questions](/resources/ocr-gcse-mathematics-rounding-estimation-error-intervals-and-bounds-practice/) under timed conditions.
 

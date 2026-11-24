@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -197,7 +197,7 @@ Not directly. Convert to a common base first, for example writing 8 and 4 as pow
 **Are fractional indices on the Core 0580 papers?**
 No. In Cambridge IGCSE Mathematics 0580, section 1.3 Powers and roots and integer indices are Core and Extended, while fractional indices are Extended only.
 
-## Next steps
+## More on this topic
 
 - Read the [powers, roots and indices study guide](/resources/igcse-mathematics-0580-powers-roots-and-indices/) for worked explanations of every method used above.
 - Revise the wider topic with the [Number revision notes](/resources/igcse-mathematics-number-revision-notes/) and [Number study guide](/resources/igcse-mathematics-number/).

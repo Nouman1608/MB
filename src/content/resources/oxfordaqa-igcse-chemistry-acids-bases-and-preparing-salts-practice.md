@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -193,7 +193,7 @@ Links: [acids, bases and salts study guide](/resources/oxfordaqa-igcse-chemistry
 - Naming an element or an insoluble solid as a reagent for an insoluble salt.
 - Including a non-concordant trial in a mean volume.
 
-## Next steps
+## More on this topic
 
 - Recap fast with the [acids, bases and salts revision notes](/resources/oxfordaqa-igcse-chemistry-acids-bases-and-preparing-salts-revision-notes/).
 - Go back over weak spots in the [acids, bases and salts study guide](/resources/oxfordaqa-igcse-chemistry-acids-bases-and-preparing-salts/).

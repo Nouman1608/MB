@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -177,7 +177,7 @@ If the oxygen supply failed on day 6, a good answer would predict that productio
 - **Investigate** questions: identify independent, dependent and control variables, a control, and repeats.
 - **Calculate:** show working and units, for example cm³ per minute or g per dm³ per day.
 
-## Next steps
+## More on this topic
 
 Condense the section with the [section 21.2 revision notes](/resources/cambridge-igcse-biology-0610-biotechnology-revision-notes/), then apply it in the [section 21.2 practice questions](/resources/cambridge-igcse-biology-0610-biotechnology-practice/). The organisms used here link back to [section 21.1, why bacteria are useful](/resources/cambridge-igcse-biology-0610-biotechnology-and-genetic-modification/), and insulin production links forward to [section 21.3, genetic modification](/resources/cambridge-igcse-biology-0610-genetic-modification/).
 

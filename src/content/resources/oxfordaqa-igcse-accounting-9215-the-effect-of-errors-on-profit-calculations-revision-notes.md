@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -150,7 +150,7 @@ For questions 1 to 8, state the effect of **correcting** the error on gross prof
 11. Suspense is **not an income or expense account**; it is a temporary balance in the trial balance.
 12. Purchases returns were overstated by 360, so cost of sales was too low: GP **−360**; PFY **−360**.
 
-## Next steps
+## More on this topic
 
 - Re-read the worked examples in the [effect of errors on profit study guide](/resources/oxfordaqa-igcse-accounting-9215-the-effect-of-errors-on-profit-calculations/).
 - Try the [effect of errors on profit practice questions](/resources/oxfordaqa-igcse-accounting-9215-the-effect-of-errors-on-profit-calculations-practice/).

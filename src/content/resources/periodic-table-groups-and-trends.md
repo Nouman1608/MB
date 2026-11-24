@@ -48,7 +48,7 @@ reviewedDate: 2026-11-08
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers **topic 8, The Periodic Table** — subtopics 8.1 to 8.5 — for
@@ -285,7 +285,7 @@ A more reactive halogen displaces a less reactive one from a solution of its hal
 **Why are the noble gases unreactive?**
 The noble gases have a full outer electron shell, so they have no tendency to gain, lose or share electrons. They exist as single, separate atoms, which is what monatomic means.
 
-## Related resources
+## More resources on this topic
 
 - [Identification of Ions and Gases](/resources/identification-of-ions-and-gases/) — halide precipitate colours and iron(II)/iron(III) tests
 - [Atomic Structure](/resources/atomic-structure/) — electronic configuration behind every trend on this page

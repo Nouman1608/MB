@@ -25,7 +25,7 @@ author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -304,7 +304,7 @@ In nucleophilic addition, as with HCN and a carbonyl compound, the nucleophile s
 **Why do acyl chlorides hydrolyse faster than chloroalkanes?**
 The carbonyl carbon of an acyl chloride is made strongly electrophilic by both the oxygen and the chlorine pulling electron density away, so it reacts with cold water within seconds. Chloroalkanes need warming with aqueous alkali, and halogenoarenes barely react at all.
 
-## Related resources
+## More resources on this topic
 
 - [Carboxylic Acids and Esters](/resources/as-carboxylic-acids-and-esters/)
   — the AS-level production and reactions this topic extends

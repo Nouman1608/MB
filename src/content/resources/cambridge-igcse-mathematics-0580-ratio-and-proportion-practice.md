@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -151,7 +151,7 @@ No. Question 9 shows a middle size with the lowest cost per 100 ml. Always work 
 **What is the quickest way to deal with a map scale?**
 Multiply the map length by the scale number to get the real length in the same unit, then convert. For km, divide centimetres by 100 000.
 
-## Next steps
+## More on this topic
 
 - Re-read the methods in the [ratio and proportion study guide](/resources/cambridge-igcse-mathematics-0580-ratio-and-proportion/).
 - More mixed Topic 1 questions: the [Number practice questions](/resources/igcse-mathematics-number-practice/).

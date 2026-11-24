@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide follows the OxfordAQA International AS and A-level Physics (9630) specification, Version 4.4, for exams from May/June 2020 onwards. It covers section 3.5.5 (Principle of superposition of waves and formation of stationary waves), which is shared International AS and A-level content, so it applies to both qualifications. Use it with the [course hub](/boards/oxfordaqa/a-level/physics/) and the [printable checklist](/checklists/oxfordaqa/a-level/physics/).
@@ -207,7 +207,7 @@ A plot of f against 1/l is a straight line through the origin, which confirms f 
 - Treating each loop as one wavelength. Each loop is half a wavelength.
 - In a graphical explanation, drawing only one instant. Show at least t = 0 and t = T/4.
 
-## Next steps
+## More on this topic
 
 Try the [practice questions](/resources/oxfordaqa-a-level-physics-superposition-and-stationary-waves-practice/), then condense your notes with the [revision notes](/resources/oxfordaqa-a-level-physics-superposition-and-stationary-waves-revision-notes/). For the earlier wave content in the same section, see the [course hub](/boards/oxfordaqa/a-level/physics/).
 

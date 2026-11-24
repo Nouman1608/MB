@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -118,7 +118,7 @@ Show that it takes a higher percentage of income from richer people, not just mo
 **Which AQA GCSE Economics sections do these questions cover?**
 They cover AQA GCSE Economics 8136 sections 3.2.2.5 Balance of payments and 3.2.2.6 Distribution of income.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/aqa-gcse-economics-balance-of-payments-and-distribution-of-income-revision-notes/) and re-read the [study guide](/resources/aqa-gcse-economics-balance-of-payments-and-distribution-of-income/).
 - Check coverage on the [checklist](/checklists/aqa/gcse/economics/) and see the [AQA GCSE Economics hub](/boards/aqa/gcse/economics/).

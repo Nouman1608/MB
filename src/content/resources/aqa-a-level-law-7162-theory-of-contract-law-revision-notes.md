@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: The specification asks for an outline of five theory issues; a teacher should confirm that the arguments and authorities chosen here match the depth centres teach."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: The specification asks for an outline of five theory issues; a teacher should confirm that the arguments and authorities chosen here match the depth centres teach. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -158,6 +158,6 @@ Condensed notes for the section 3.4 row **Theory of contract law**: "analysis an
 11. Which provision prevents excluding liability for death or personal injury against a consumer? *s65 Consumer Rights Act 2015.*
 12. Why are CRA consumer remedies said to be effective? *They are simple and can be used without going to court.*
 
-## Related resources
+## More resources on this topic
 
 [Theory of contract law practice questions](/resources/aqa-a-level-law-7162-theory-of-contract-law-practice/) | [Law of contract revision notes](/resources/aqa-a-level-law-law-of-contract-revision-notes/)

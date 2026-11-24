@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide covers **topic 8, Spreadsheets**, of Cambridge International AS & A Level Information Technology (9626), following the syllabus for examination in 2025, 2026 and 2027 (version 3), sections 8.1 to 8.4. Topic 8 is an **AS Level** topic, so it is part of both the AS Level and the full A Level. It is assessed mainly in **Paper 2 (Practical)**, which tests sections 8–11. **Paper 1 (Theory)** is based on sections 1–11, so written questions are possible too, and **Paper 4 (Advanced Practical)** may include tasks from sections 8–10.
@@ -225,7 +225,7 @@ Select the **data series** from **contiguous** (adjacent) or **non-contiguous** 
 - Treating the text output of MID or RIGHT as a number (in SUM, comparisons or lookups) without `VALUE`.
 - Adding subtotals to unsorted data.
 
-## Next steps
+## More on this topic
 
 Condense the topic with the [Spreadsheets revision notes](/resources/a-level-cambridge-ict-spreadsheets-revision-notes/), then try the [Spreadsheets practice questions](/resources/a-level-cambridge-ict-spreadsheets-practice/).
 

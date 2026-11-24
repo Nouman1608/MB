@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -147,7 +147,7 @@ These questions cover content area PP1.1 (Circle) of the OxfordAQA International
 - Rounding surd answers to decimals when the question asks for exact values.
 - Leaving a tangent equation in a form that does not match the requested format.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/oxfordaqa-a-level-mathematics-equation-of-a-circle-tangents-and-circle-geometry-revision-notes/).
 - Re-read the [study guide](/resources/oxfordaqa-a-level-mathematics-equation-of-a-circle-tangents-and-circle-geometry/) for any method that went wrong.

@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -156,7 +156,7 @@ A **heuristic** is a rule of thumb that finds a good solution quickly, with no g
 9. A non-computable problem has no algorithm at all; an intractable problem has an algorithm but it takes too long for all but small inputs.
 10. It shows that there are problems that cannot be solved by a computer.
 
-## Related resources
+## More resources on this topic
 
 - [Classification of algorithms study guide](/resources/aqa-a-level-computer-science-7517-classification-of-algorithms/)
 - [Classification of algorithms practice questions](/resources/aqa-a-level-computer-science-7517-classification-of-algorithms-practice/)

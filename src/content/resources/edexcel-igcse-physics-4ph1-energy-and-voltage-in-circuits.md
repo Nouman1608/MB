@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -241,7 +241,7 @@ curve.
 - **Describe** the effect of a sensor: say how its resistance changes,
   then the effect on current.
 
-## Next steps
+## More on this topic
 
 - [Energy and voltage in circuits revision notes](/resources/edexcel-igcse-physics-4ph1-energy-and-voltage-in-circuits-revision-notes/)
 - [Energy and voltage in circuits practice questions](/resources/edexcel-igcse-physics-4ph1-energy-and-voltage-in-circuits-practice/)

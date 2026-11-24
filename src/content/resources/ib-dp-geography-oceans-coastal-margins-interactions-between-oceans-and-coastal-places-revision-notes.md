@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -155,6 +155,6 @@ A cliff top retreats 3.6 m in 8 years: 3.6 / 8 = 0.45 m per year. Retreat is epi
 
 **Answers:** 1. Hydraulic action, abrasion, attrition, corrosion. 2. Constructive waves build beaches; destructive waves remove sediment. 3. A stretch of coast treated as a system of inputs, transfers, stores and outputs of sediment. 4. Eustatic: global water volume changes; isostatic: land rises or sinks. 5. It dissipates wave energy, so less energy reaches the land. 6. Wind speed, wind duration and fetch. 7. Energy is concentrated on headlands and spread out in bays. 8. Crack, cave, arch, stack, stump. 9. Winds and waves from a different direction curve the end of the spit. 10. A ria is a drowned river valley; a fjord is a drowned glacial trough. 11. It is made of soft glacial till and faces powerful waves. 12. It traps sediment that would otherwise reach and replenish the coast.
 
-## Related resources
+## More resources on this topic
 
 - [Option B: Oceans and coastal margins study guide](/resources/ib-dp-geography-oceans-coastal-margins-study-guide/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -121,7 +121,7 @@ The syllabus asks you to describe the **similarity in properties** and relate it
 - **Relate structure to use**: write a three-link chain, structure → property → use.
 - **Describe the similarity**: name at least two shared properties and the shared structural reason.
 
-## Next steps
+## More on this topic
 
 - Use the [giant covalent structures revision notes](/resources/cambridge-o-level-chemistry-5070-giant-covalent-structures-revision-notes/) for quick recall.
 - Practise with the [giant covalent structures practice questions](/resources/cambridge-o-level-chemistry-5070-giant-covalent-structures-practice/).

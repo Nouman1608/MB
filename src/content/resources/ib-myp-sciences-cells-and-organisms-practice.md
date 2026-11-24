@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "ameer-hamza"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ameer-hamza on 2026-09-29; 2026-11-08: credited to ameer-hamza (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ameer-hamza on 2026-09-29; 2026-11-08: credited to ameer-hamza (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -208,7 +208,7 @@ Name the specific control variables rather than writing "keep everything the sam
 **How are these IB MYP Sciences answers marked?**
 Real MYP work is judged against criterion level descriptors with eight achievement levels in four bands, so the mark points on this page are a revision aid, not IB marks.
 
-## Next steps
+## More on this topic
 
 - [Cells and organisms revision notes](/resources/ib-myp-sciences-cells-and-organisms-revision-notes/)
 - [Cells and organisms study guide](/resources/ib-myp-sciences-cells-and-organisms/)

@@ -48,7 +48,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers subtopics **6.2 to 6.11** of Topic 6, ICT
@@ -302,7 +302,7 @@ It applies the rules in the
 rules base to the facts in the knowledge base and the user's answers to
 reach a possible solution.
 
-## Related resources
+## More resources on this topic
 
 - [ICT applications revision notes (6.2–6.11)](/resources/igcse-ict-applications-systems-revision-notes/)
 - [ICT applications practice questions (6.2–6.11)](/resources/igcse-ict-applications-systems-practice/)

@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the wording that separates rapid prototyping from throwaway prototyping against the examiner reports; the syllabus names both but does not define them."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the wording that separates rapid prototyping from throwaway prototyping against the examiner reports; the syllabus names both but does not define them. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -99,7 +99,7 @@ Maximum 5. **[5]**
 - Naming a type without justifying it.
 - Giving the same advantage for every type.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/cambridge-a-level-ict-9626-prototyping-revision-notes/).
 - Reread the [study guide](/resources/cambridge-a-level-ict-9626-prototyping/).

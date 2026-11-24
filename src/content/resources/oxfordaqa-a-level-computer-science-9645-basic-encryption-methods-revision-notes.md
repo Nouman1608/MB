@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -164,7 +164,7 @@ Why it works: with a random key as long as the message, any plaintext of that le
 11. Symmetric.
 12. The encryption and decryption keys are different, so the encryption key need not be kept secret.
 
-## Next steps
+## More on this topic
 
 - [Basic encryption methods study guide](/resources/oxfordaqa-a-level-computer-science-9645-basic-encryption-methods/)
 - [Basic encryption methods practice questions](/resources/oxfordaqa-a-level-computer-science-9645-basic-encryption-methods-practice/)

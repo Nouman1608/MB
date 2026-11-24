@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -127,6 +127,6 @@ These questions cover syllabus section 3.15 of IB DP Mathematics: Analysis and A
 - Treating crossing paths as a collision, as in question 10.
 - Not giving the point of intersection after showing that the lines meet.
 
-## Next steps
+## More on this topic
 
 Revise the method in the [3.15 study guide](/resources/ib-dp-mathematics-analysis-and-approaches-3-15/), then try the [3.16 vector product practice questions](/resources/ib-dp-mathematics-analysis-and-approaches-3-16-practice/).

@@ -28,7 +28,7 @@ author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -287,7 +287,7 @@ With cold, dilute NaOH chlorine forms chloride and chlorate(I); with hot, concen
 **Which syllabus points does this Cambridge 9701 Group 17 guide cover?**
 It covers subtopics 11.1 to 11.4: physical properties of the elements, chemical properties of the halogens and hydrogen halides, reactions of the halide ions, and the reactions of chlorine.
 
-## Related resources
+## More resources on this topic
 
 - [Redox Processes: Oxidation Numbers and Electron Transfer](/resources/as-redox-processes/) — the disproportionation framework this resource builds on
 - [Group 2: The Alkaline Earth Metals](/resources/as-group-2-the-alkaline-earth-metals/) — a second group studied the same way

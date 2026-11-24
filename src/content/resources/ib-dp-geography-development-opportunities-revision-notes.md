@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -185,7 +185,7 @@ spent on the donor's goods or services; it can serve donor interests more than r
 over-indebtedness. 10. Perfect equality. 11. They depend on jobs and policies in host countries,
 which can change suddenly.
 
-## Related resources
+## More resources on this topic
 
 - [Human development and diversity study guide](/resources/ib-dp-geography-human-development-diversity-study-guide/)
 - [Changing identities and cultures revision notes](/resources/ib-dp-geography-changing-identities-and-cultures-revision-notes/)

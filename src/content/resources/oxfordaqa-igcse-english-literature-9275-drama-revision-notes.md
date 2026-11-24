@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-15
 updatedDate: 2026-11-16
 featured: false
@@ -214,7 +214,7 @@ further, so the audience senses the danger. 11. Closed book; learn the play by a
 bank of short quotations and staging notes. 12. Information given early to set up the situation; it
 shows how the playwright establishes conflict and what the audience is led to expect.
 
-## Related resources
+## More resources on this topic
 
 - [Drama practice questions](/resources/oxfordaqa-igcse-english-literature-9275-drama-practice/)
 - [Prose and Drama revision notes](/resources/igcse-oxfordaqa-english-literature-prose-and-drama-revision-notes/)

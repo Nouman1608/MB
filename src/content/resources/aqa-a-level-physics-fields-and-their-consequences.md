@@ -35,7 +35,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches section 3.7 Fields and their consequences of the AQA AS and A-level Physics specification (7407/7408, version 1.4, AS and A-level exams June 2016 onwards), sub-sections 3.7.1 to 3.7.5. The whole section is A-level only and is assessed in Paper 2. It is core content: sections 3.9 to 3.13 are the options, of which you study one for Paper 3 Section B.
@@ -272,7 +272,7 @@ efficiency = 48 / 50.6 = 0.95
 - Measuring θ from the coil plane instead of the normal.
 - Giving peak voltage when rms is asked for.
 
-## Next steps
+## More on this topic
 
 Revise with the [revision notes](/resources/aqa-a-level-physics-fields-and-their-consequences-revision-notes/), then try the [practice questions](/resources/aqa-a-level-physics-fields-and-their-consequences-practice/) and the [exam preparation guide](/resources/aqa-a-level-physics-exam-preparation/).
 

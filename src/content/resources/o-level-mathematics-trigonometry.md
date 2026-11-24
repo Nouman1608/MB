@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This guide teaches topic 6, Trigonometry, from the Cambridge O Level Mathematics (Syllabus D) 4024 syllabus for 2025, 2026 and 2027. It covers sections 6.1 to 6.4. The syllabus does not split this topic into tiers, so all of it is for every candidate. Paper 1 forbids calculators while Paper 2 requires one, and on Paper 2 candidates should give angles in degrees to 1 decimal place and other non-exact answers to 3 significant figures unless the question says otherwise.
 
@@ -397,7 +397,7 @@ The shortest distance is the perpendicular distance, so draw the perpendicular f
 **Is radian mode used in Cambridge O Level Mathematics trigonometry?**
 No. Work in degrees; using radians instead of degrees on Paper 2 is a common error.
 
-## Next steps
+## More on this topic
 
 Work through the [revision notes](/resources/o-level-mathematics-trigonometry-revision-notes/), try the [practice questions](/resources/o-level-mathematics-trigonometry-practice/), and take a [free diagnostic](/diagnostics/) to find any gaps.
 

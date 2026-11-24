@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -182,7 +182,7 @@ Reconciliation: inventory rose by 3,000 cases × 3.00 = 9,000, so absorption pro
 - Treating all apportioned fixed costs as saved on closure.
 - Ending an "evaluate" or "advise" answer without a clear recommendation.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/edexcel-ial-accounting-marginal-costing-and-absorption-costing-revision-notes/)
 - [Study guide](/resources/edexcel-ial-accounting-marginal-costing-and-absorption-costing/)

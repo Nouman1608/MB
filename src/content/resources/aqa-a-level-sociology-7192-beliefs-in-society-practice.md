@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-29
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -130,7 +130,7 @@ Using the source and sociological ideas, analyse how religion has helped this co
 - Using Christian examples only when the topic includes non-Christian traditions.
 - Writing a judgement in the final line that contradicts the argument you have built.
 
-## Next steps
+## More on this topic
 
 - Check gaps against the [AQA A-level Sociology checklist](/checklists/aqa/a-level/sociology/).
 - Take a [diagnostic test](/diagnostics/) to see which topics need more work.

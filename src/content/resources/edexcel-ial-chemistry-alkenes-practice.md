@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -173,7 +173,7 @@ Data for this set: H = 1.0, C = 12.0, N = 14.0, O = 16.0, Cl = 35.5, Ca = 40.1. 
 - Forgetting mole ratios from the equation in scrubbing and yield calculations.
 - Describing only the final colour in a colour-change test.
 
-## Next steps
+## More on this topic
 
 - [Alkenes revision notes](/resources/edexcel-ial-chemistry-alkenes-revision-notes/)
 - [Alkenes study guide](/resources/edexcel-ial-chemistry-alkenes/)

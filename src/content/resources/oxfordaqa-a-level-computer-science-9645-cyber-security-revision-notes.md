@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -156,7 +156,7 @@ These numbers are far too small to be secure.
 11. The user is tricked into installing it, because it is disguised as legitimate software.
 12. Unpatched software (or weak passwords, or users opening attachments).
 
-## Next steps
+## More on this topic
 
 - [Cyber security study guide](/resources/oxfordaqa-a-level-computer-science-9645-cyber-security/)
 - [Cyber security practice questions](/resources/oxfordaqa-a-level-computer-science-9645-cyber-security-practice/)

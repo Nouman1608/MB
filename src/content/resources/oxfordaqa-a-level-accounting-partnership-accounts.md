@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches section 3.2.5, Partnership accounts, from the OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards. The whole section is International A-level only content. The specification lists sections 3.2.4 to 3.2.10 as the content assessed in Paper 3: Financial Accounting. All figures are in dollars, and every partner and business here is invented.
@@ -264,7 +264,7 @@ Keverne is owed 24,750 in total. The 12,000 loan is a liability; interest on it 
 - Forgetting to write goodwill off when it is not kept, so it stays as an asset.
 - Leaving out a retiring partner's current account balance when finding the amount due.
 
-## Next steps
+## More on this topic
 
 Condense the methods with the [revision notes](/resources/oxfordaqa-a-level-accounting-partnership-accounts-revision-notes/), then try the [practice questions](/resources/oxfordaqa-a-level-accounting-partnership-accounts-practice/). Another International A-level financial accounting topic is [accounting for organisations with incomplete records](/resources/oxfordaqa-a-level-accounting-accounting-for-organisations-with-incomplete/); for planning your revision see [OxfordAQA A-level Accounting exam preparation page](/resources/oxfordaqa-a-level-accounting-exam-preparation/).
 

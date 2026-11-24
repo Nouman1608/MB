@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "asif-iqbal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -127,7 +127,7 @@ These questions cover section 5.1 Economies and diseconomies of scale (points 5.
 - Recommending growth without checking that demand exists for the extra output.
 - Naming a type of economy without showing how it reduces cost per unit.
 
-## Next steps
+## More on this topic
 
 - Re-read the [economies and diseconomies of scale study guide](/resources/edexcel-igcse-business-4bs1-economies-and-diseconomies-of-scale/) for the split cost table.
 - Recheck terms in the [economies and diseconomies of scale revision notes](/resources/edexcel-igcse-business-4bs1-economies-and-diseconomies-of-scale-revision-notes/).

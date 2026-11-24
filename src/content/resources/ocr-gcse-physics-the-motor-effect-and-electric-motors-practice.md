@@ -22,7 +22,7 @@ reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -133,7 +133,7 @@ These questions are aligned to the OCR GCSE (9-1) Gateway Science Physics A (J24
 - Describing a motor without saying why the current must be reversed every half turn.
 - Writing that doubling the current doubles the flux density. The field is the magnet's, so B is unchanged.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/ocr-gcse-physics-the-motor-effect-and-electric-motors-revision-notes/) and re-read the [study guide](/resources/ocr-gcse-physics-the-motor-effect-and-electric-motors/).
 - Tick off the topic on the [checklist](/checklists/ocr/gcse/physics/) and browse the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/).

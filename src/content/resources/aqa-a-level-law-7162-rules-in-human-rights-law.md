@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -203,7 +203,7 @@ Remedy:        Police are a public authority (HRA s6); Sam is a victim (s7);
 - **Discuss** questions: evaluate how well the rules protect rights, for example whether the margin of
   appreciation gives states too much room.
 
-## Related resources
+## More resources on this topic
 
 [Rules in Human Rights law revision notes](/resources/aqa-a-level-law-7162-rules-in-human-rights-law-revision-notes/) |
 [Rules in Human Rights law practice questions](/resources/aqa-a-level-law-7162-rules-in-human-rights-law-practice/) |

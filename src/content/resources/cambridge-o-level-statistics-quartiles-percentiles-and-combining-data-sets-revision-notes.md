@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 These revision notes cover sections 5.3 and 5.4 of the Cambridge O Level Statistics 4040 syllabus for examination in 2025, 2026 and 2027, which is not tiered. For full explanations and longer worked examples, read the [study guide](/resources/cambridge-o-level-statistics-quartiles-percentiles-and-combining-data-sets/) first. Then test yourself with the [practice questions](/resources/cambridge-o-level-statistics-quartiles-percentiles-and-combining-data-sets-practice/).
@@ -202,7 +202,7 @@ mean = 60/8 = 7.5
 - Giving a graph reading with no guide lines. Show the lines, because the examiner needs to see your method.
 - Quoting an estimate to too many figures. A value read from a graph does not justify four decimal places.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/cambridge-o-level-statistics-quartiles-percentiles-and-combining-data-sets-practice/) once you can finish the self-test without notes. Section 6 builds on this unit, in the [guide on adding or multiplying by a constant](/resources/cambridge-o-level-statistics-effects-of-adding-or-multiplying-by-a-constant-and/).
 

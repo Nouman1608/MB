@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -159,7 +159,7 @@ These questions cover section 3.4.3.1 of the OxfordAQA International AS and A-le
 - Confusing PPP with the market exchange rate.
 - Mixing up IHDI (adjusted average) and MPI (counted deprivation).
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/oxfordaqa-a-level-economics-measuring-economic-growth-development-and-living-revision-notes/) and [study guide](/resources/oxfordaqa-a-level-economics-measuring-economic-growth-development-and-living/).
 - Use the [OxfordAQA Economics hub](/boards/oxfordaqa/a-level/economics/) and [checklist](/checklists/oxfordaqa/a-level/economics/).

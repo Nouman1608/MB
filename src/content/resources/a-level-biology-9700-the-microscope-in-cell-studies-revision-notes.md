@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 These notes condense sub-topic **1.1 The microscope in cell studies** from topic 1 Cell structure in the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It is AS Level content, examined on Papers 1 and 2 and assumed on Paper 4; the light-microscope skills also appear in the Paper 3 practical. There are no tiers in 9700. For full explanations and worked examples, use the [1.1 study guide](/resources/a-level-biology-9700-the-microscope-in-cell-studies/).
@@ -223,7 +223,7 @@ If your answer says a mitochondrion is 1.8 mm long, you have missed a conversion
 - Giving eight significant figures copied from the calculator. Use the same number as the data, or one more.
 - Forgetting that TEM and SEM specimens must be dead.
 
-## Next steps
+## More on this topic
 
 - Full teaching and worked examples: [1.1 study guide](/resources/a-level-biology-9700-the-microscope-in-cell-studies/).
 - Marked practice: [1.1 practice questions](/resources/a-level-biology-9700-the-microscope-in-cell-studies-practice/) and the topic-level [Cell structure practice questions](/resources/a-level-biology-cell-structure-practice/).

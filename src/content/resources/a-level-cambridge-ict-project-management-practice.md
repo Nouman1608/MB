@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -171,7 +171,7 @@ Conclusion: for teams in two countries the shared live plan outweighs the costs,
 - Writing "it is faster and easier" for software uses instead of naming what the software does.
 - Leaving out the conclusion on "Evaluate" questions.
 
-## Next steps
+## More on this topic
 
 - [Project management revision notes](/resources/a-level-cambridge-ict-project-management-revision-notes/)
 - [Project management study guide](/resources/a-level-cambridge-ict-project-management/)

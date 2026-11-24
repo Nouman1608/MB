@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers sections 9.1 and 9.2 of the Cambridge O Level Statistics (4040) syllabus for examination in 2025, 2026 and 2027. Topic 9 is "Bivariate distributions and their representation by scatter diagrams". Section 9.1 asks for elementary ideas of correlation, including the terms positive, negative, strong and weak correlation. Section 9.2 asks for lines of best fit, including the method of semi-averages, the derivation of the equation of the fitted straight line in the form y = mx + c, and the use and limitations of a line of best fit in prediction.
@@ -249,7 +249,7 @@ The gradient m tells you how far y moves when x goes up by 1. In example 2, m = 
 * Calling a scatter "strong" because the line is steep. Strength depends on how close the points lie to the line, not on the steepness.
 * Predicting far outside the data without comment.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/cambridge-o-level-statistics-scatter-diagrams-correlation-and-lines-of-best-fit-practice/), then use the [revision notes](/resources/cambridge-o-level-statistics-scatter-diagrams-correlation-and-lines-of-best-fit-revision-notes/) to check what you recall. The topic after this one in the syllabus is time series, which uses a different kind of trend line based on moving averages. For general exam technique see [exam preparation](/resources/cambridge-o-level-statistics-exam-preparation/), and for the full list of outcomes use the [checklist](/checklists/cambridge/o-level/statistics/).
 

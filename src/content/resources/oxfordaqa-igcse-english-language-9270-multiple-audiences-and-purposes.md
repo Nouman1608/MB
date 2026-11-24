@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -158,7 +158,7 @@ Read both tasks before choosing. In your plan, write the audiences and purposes 
 which audience is hardest to win, and give that audience its own paragraph. Check your draft
 against each named audience: would each reader feel addressed?
 
-## Related resources
+## More resources on this topic
 
 - [Multiple audiences and purposes revision notes](/resources/oxfordaqa-igcse-english-language-9270-multiple-audiences-and-purposes-revision-notes/)
 - [Multiple audiences and purposes practice](/resources/oxfordaqa-igcse-english-language-9270-multiple-audiences-and-purposes-practice/)

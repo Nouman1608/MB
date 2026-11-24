@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -159,7 +159,7 @@ Aggregate supply is the planned real output of all firms in the economy at each 
 **What must a diagram on AD and AS include?**
 Label the axes (price level and real output), each curve and each equilibrium point. Missing labels are one of the listed ways marks are lost.
 
-## Next steps
+## More on this topic
 
 - Check your recall with the [revision notes](/resources/edexcel-ial-economics-aggregate-supply-the-circular-flow-and-equilibrium-revision-notes/).
 - Reread the [study guide](/resources/edexcel-ial-economics-aggregate-supply-the-circular-flow-and-equilibrium/) for the worked examples.

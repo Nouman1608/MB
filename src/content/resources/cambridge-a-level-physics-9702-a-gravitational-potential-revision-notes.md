@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -130,7 +130,7 @@ Moving to a higher orbit: E_P increases, E_K decreases by half as much, so energ
 
 **Answers:** 1. The work done per unit mass in bringing a small test mass from infinity to the point. 2. Potential is zero at infinity and gravity is attractive, so the work done on a mass brought in from infinity is negative. 3. J kg⁻¹. 4. ϕ ∝ 1/r: –6.25 × 10⁷ ÷ 4 = –1.56 × 10⁷ J kg⁻¹. 5. E_P = mϕ = 2.0 × (–6.25 × 10⁷) = –1.25 × 10⁸ J. 6. ΔE_P = mΔϕ = 50 × (+2.0 × 10⁷) = +1.0 × 10⁹ J. 7. It assumes g stays constant, but g decreases with height. 8. –4.0 × 10⁶ J kg⁻¹. 9. E_K = –½E_P (E_K is half the magnitude of E_P). 10. E_P increases (less negative); E_K decreases; speed decreases. 11. Scalar. 12. ϕ = –6.67 × 10⁻¹¹ × 3.0 × 10²⁴ ÷ 4.0 × 10⁶ = –5.0 × 10⁷ J kg⁻¹.
 
-## Related resources
+## More resources on this topic
 
 - [Gravitational Fields revision notes](/resources/a-physics-gravitational-fields-revision-notes/) — the whole of Topic 13
 - [Gravitational potential practice questions](/resources/cambridge-a-level-physics-9702-a-gravitational-potential-practice/)

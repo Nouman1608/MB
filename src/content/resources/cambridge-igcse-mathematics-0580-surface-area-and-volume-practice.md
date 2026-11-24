@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -162,7 +162,7 @@ No. The List of formulas covers the cylinder, cone, sphere, prism and pyramid, b
 **How do I find the slant height of a square-based pyramid?**
 Use Pythagoras in the triangle formed by the perpendicular height, half the base side and the slant height of a face.
 
-## Next steps
+## More on this topic
 
 - Review the methods in the [surface area and volume study guide](/resources/igcse-mathematics-0580-surface-area-and-volume/).
 - Recap with the [surface area and volume revision notes](/resources/cambridge-igcse-mathematics-0580-surface-area-and-volume-revision-notes/).

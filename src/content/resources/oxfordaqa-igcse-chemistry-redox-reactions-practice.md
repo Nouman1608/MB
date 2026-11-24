@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -204,7 +204,7 @@ Mass of Cu = 0.200 × 63.5 = **12.7 g** [1]
 - Classing neutralisation or precipitation as redox.
 - Ignoring the mole ratio in mass calculations from a redox equation.
 
-## Next steps
+## More on this topic
 
 - [Revise the definitions again: redox revision notes](/resources/oxfordaqa-igcse-chemistry-redox-reactions-revision-notes/)
 - [Electrolysis practice questions](/resources/oxfordaqa-igcse-chemistry-electrolysis-practice/) for more electrode half equations

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -111,6 +111,6 @@ Evaluation: Held et al. argue that the intensity and velocity of flows are now o
 
 **Level guidance:** top answers test the concept against specific definitions and uses; middle answers describe definitional problems; low answers assert that globalisation is "everywhere".
 
-## Next steps
+## More on this topic
 
 Continue with [globalisation and identity](/resources/cambridge-a-level-sociology-9699-globalisation-and-identity/), or review the [globalisation debates practice questions](/resources/a-level-cambridge-sociology-globalisation-debates-and-perspectives-practice/).

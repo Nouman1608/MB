@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -124,7 +124,7 @@ These questions cover section P1.4 (Integration) of the OxfordAQA International 
 - Using n instead of n + 1 ordinates for the trapezium rule.
 - Not linking over- or under-estimate to the shape of the curve.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/oxfordaqa-a-level-mathematics-integration-indefinite-definite-integrals-areas-and-revision-notes/) or the [study guide](/resources/oxfordaqa-a-level-mathematics-integration-indefinite-definite-integrals-areas-and/).
 - Return to the [course hub](/boards/oxfordaqa/a-level/mathematics/) and the [checklist](/checklists/oxfordaqa/a-level/mathematics/).

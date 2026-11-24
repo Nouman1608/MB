@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -149,6 +149,6 @@ These questions cover syllabus section 3.16 of IB DP Mathematics: Analysis and A
 - Giving an area as a vector instead of a magnitude.
 - Using the vector product to find an angle without checking whether it is acute or obtuse.
 
-## Next steps
+## More on this topic
 
 Revise any method in the [3.16 study guide](/resources/ib-dp-mathematics-analysis-and-approaches-3-16/), then use the vector product to find normals in the [3.17 equations of a plane guide](/resources/ib-dp-mathematics-analysis-and-approaches-3-17/).

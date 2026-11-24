@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -157,7 +157,7 @@ Learn the methods first in the [ordering study guide](/resources/cambridge-igcse
 
 Make a quick two-column list: the value as given, and its decimal (in a common unit). Pad the decimals to the same length, order them, and copy the original values across in that order. When roots are involved on a non-calculator paper, square the neighbouring numbers rather than trying to evaluate the root.
 
-## Next steps
+## More on this topic
 
 - Review the methods in the [ordering revision notes](/resources/cambridge-igcse-mathematics-0580-ordering-revision-notes/).
 - Practise conversions in the [fractions, decimals and percentages practice questions](/resources/cambridge-igcse-mathematics-0580-fractions-decimals-and-percentages-practice/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -187,7 +187,7 @@ These questions cover subtopic 8.3, Probability of combined events, in the Cambr
 - Treating sums or differences of two dice as equally likely values.
 - Adding P(A) and P(B) for "A or B" when the events overlap.
 
-## Next steps
+## More on this topic
 
 - Recap with the [combined events revision notes](/resources/cambridge-igcse-mathematics-0580-probability-of-combined-events-revision-notes/).
 - More Extended questions: [statistics and probability (Extended) practice](/resources/igcse-mathematics-statistics-and-probability-extended-practice/).

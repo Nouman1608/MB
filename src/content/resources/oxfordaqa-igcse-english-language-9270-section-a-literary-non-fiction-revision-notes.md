@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -191,7 +191,7 @@ included or left out; the closing reflection. 11. Because texts can support more
 and tentative language shows you are interpreting from evidence. 12. 40 of the paper's 80 marks, half
 the paper, so it needs about half the time.
 
-## Related resources
+## More resources on this topic
 
 - [Section A literary non-fiction practice questions](/resources/oxfordaqa-igcse-english-language-9270-section-a-literary-non-fiction-practice/)
 - [Paper 1 revision notes](/resources/oxfordaqa-english-language-revision-notes/)

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -175,7 +175,7 @@ Frequent errors include counting a bank's own cash in the money supply, forgetti
 **How should you evaluate the quantity theory of money?**
 Test its assumptions that velocity is stable and transactions are fixed, rather than simply saying it is right or wrong. Explain what happens to the price level when either assumption fails.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ocr-a-level-economics-money-banks-and-the-determination-of-interest-rates-revision-notes/) and the [study guide](/resources/ocr-a-level-economics-money-banks-and-the-determination-of-interest-rates/).
 - Return to the [OCR Economics hub](/boards/ocr/a-level/economics/) and tick off topics on the [checklist](/checklists/ocr/a-level/economics/).

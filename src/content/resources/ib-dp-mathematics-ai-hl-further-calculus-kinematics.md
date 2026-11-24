@@ -33,7 +33,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches the HL further calculus unit of IB Diploma Programme Mathematics: Applications and Interpretation. It is aligned to the IB *Mathematics: applications and interpretation guide*, first assessment 2021, syllabus sections 5.9–5.13, and all of it is HL only (AHL). It follows the IB guide for first assessment 2021, which remains the examined syllabus until the new course is first assessed in May 2029, so it applies to the May and November 2026, 2027 and 2028 HL sessions.
@@ -331,7 +331,7 @@ a = v(dv/ds) = (s² + 1)(2s) = 5 × 4 = 20 m s⁻²
 - Using x-limits when rotating about the y-axis.
 - Giving displacement when the question asks for total distance, or a negative value for speed.
 
-## Next steps
+## More on this topic
 
 Condense this unit with the [revision notes](/resources/ib-dp-mathematics-ai-hl-further-calculus-kinematics-revision-notes/), then work the [practice set](/resources/ib-dp-mathematics-ai-hl-further-calculus-kinematics-practice/). For paper formats and planning, see the [AI syllabus guide](/resources/ib-dp-mathematics-applications-and-interpretation-syllabus-guide/), the [AI subject guide](/resources/ib-dp-mathematics-applications-and-interpretation-subject-guide/) and [AI exam preparation](/resources/ib-dp-mathematics-applications-and-interpretation-exam-preparation/). Volumes of solids also appear in the [geometry and trigonometry unit](/resources/ib-dp-mathematics-ai-geometry-trigonometry/).
 

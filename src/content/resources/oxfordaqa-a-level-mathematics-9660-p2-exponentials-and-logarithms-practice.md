@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -148,7 +148,7 @@ These questions cover section P2.5 (Exponentials and logarithms) of the OxfordAQ
 - Giving a generic comment on a model instead of one tied to the context.
 - Forgetting the long-term value 18 when solving 18 + 62e⁻ᵏᵗ = 25.
 
-## Next steps
+## More on this topic
 
 - Re-read the [exponentials and logarithms revision notes](/resources/oxfordaqa-a-level-mathematics-9660-p2-exponentials-and-logarithms-revision-notes/).
 - Return to the [exponentials and logarithms study guide](/resources/oxfordaqa-a-level-mathematics-9660-p2-exponentials-and-logarithms/) for the modelling examples.

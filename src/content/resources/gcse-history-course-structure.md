@@ -12,7 +12,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 featured: false
 ---
@@ -193,7 +193,7 @@ that specific content, reinforces the transferable AO2, AO3 and AO4 skills
 while keeping the separate bodies of AO1 factual knowledge
 appropriately distinct in memory rather than blurring together.
 
-## Related resources
+## More resources on this topic
 
 - [World History subject hub](/subjects/world-history/)
 

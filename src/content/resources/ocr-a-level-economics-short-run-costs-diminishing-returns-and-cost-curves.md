@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers the cost statements in Component 1, Microeconomics, of the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021. They sit under the topic on market structures and their implications for the way resources are allocated. The whole specification is A Level, with no content labelled AS or A. All firms, figures and years below are invented for illustration. Course pages: the [hub](/boards/ocr/a-level/economics/) and the [checklist](/checklists/ocr/a-level/economics/). The matching [revision notes](/resources/ocr-a-level-economics-short-run-costs-diminishing-returns-and-cost-curves-revision-notes/) and [practice questions](/resources/ocr-a-level-economics-short-run-costs-diminishing-returns-and-cost-curves-practice/) go with this page.
@@ -239,7 +239,7 @@ After AVC starts to rise, average fixed cost is still falling, and for a while t
 **How significant is the law of diminishing returns for a firm?**
 It is highly significant for firms with large fixed capacity that is slow to expand, because unit costs rise as they squeeze more from that capacity. It matters much less for firms that can rent extra capacity at short notice.
 
-## Next steps
+## More on this topic
 
 Work through the [revision notes](/resources/ocr-a-level-economics-short-run-costs-diminishing-returns-and-cost-curves-revision-notes/) for recall and then the [practice questions](/resources/ocr-a-level-economics-short-run-costs-diminishing-returns-and-cost-curves-practice/). Use the [free 10-minute diagnostics](/diagnostics/) to find gaps.
 

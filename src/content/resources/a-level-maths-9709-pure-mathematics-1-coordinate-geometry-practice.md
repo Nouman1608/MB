@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -166,7 +166,7 @@ Substitute the line into the curve to form one quadratic, then set its discrimin
 **What does "in the form ax + by + c = 0" require in Cambridge 9709 Paper 1?**
 Clear all fractions and collect every term on one side so that a, b and c are integers. A correct line left in y = mx + c form with fractions loses the final mark.
 
-## Next steps
+## More on this topic
 
 - [Coordinate geometry revision notes](/resources/a-level-maths-9709-pure-mathematics-1-coordinate-geometry-revision-notes/)
 - [Coordinate geometry study guide](/resources/a-level-mathematics-pure-mathematics-1-coordinate-geometry/)

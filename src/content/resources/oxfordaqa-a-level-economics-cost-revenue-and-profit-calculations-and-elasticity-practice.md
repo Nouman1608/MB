@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -148,7 +148,7 @@ These questions practise quantitative skills QS6 and QS8 from section 3.5 of the
 - Mixing up a change in price (movement along a curve) and a shift in demand.
 - Evaluating with no judgement.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/oxfordaqa-a-level-economics-cost-revenue-and-profit-calculations-and-elasticity-revision-notes/) and the [study guide](/resources/oxfordaqa-a-level-economics-cost-revenue-and-profit-calculations-and-elasticity/).
 - Go to the [course hub](/boards/oxfordaqa/a-level/economics/) and the [printable checklist](/checklists/oxfordaqa/a-level/economics/).

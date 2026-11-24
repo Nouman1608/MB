@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -159,7 +159,7 @@ These questions cover all of topic B.2 (Greenhouse effect) in the IB *Physics gu
 - Describing greenhouse gases as reflecting or trapping radiation instead of absorbing and re-emitting it.
 - Letting the atmosphere radiate only upward.
 
-## Next steps
+## More on this topic
 
 - Review the formulas in the [revision notes](/resources/ib-dp-physics-the-greenhouse-effect-and-planetary-energy-balance-revision-notes/).
 - Work back through the examples in the [study guide](/resources/ib-dp-physics-the-greenhouse-effect-and-planetary-energy-balance/).

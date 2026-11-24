@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -220,7 +220,7 @@ When one of the conditions fails, for example sampling without replacement from 
 **What is the standard deviation of a binomial distribution?**
 It is the square root of the variance, √(np(1 − p)). The variance itself is np(1 − p).
 
-## Related resources
+## More resources on this topic
 
 - [Bernoulli and Binomial Distributions revision notes](/resources/oxfordaqa-a-level-mathematics-bernoulli-binomial-revision-notes/)
 - [Bernoulli and Binomial Distributions practice questions](/resources/oxfordaqa-a-level-mathematics-bernoulli-binomial-practice/)

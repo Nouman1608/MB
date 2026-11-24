@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -167,7 +167,7 @@ Because the beliefs multiply, if any one is zero, motivation is zero. A salesper
 
 **Describe** questions on theories reward named components plus a workplace example for each. **Compare** questions should contrast content and process theories, or deterministic and active views of the worker. **Evaluate** questions can use the syllabus issues for 4.1: application, individual and situational explanations, cultural differences, determinism versus free will, reductionism versus holism and generalisations from findings.
 
-## Related resources
+## More resources on this topic
 
 - [Motivation to work revision notes](/resources/cambridge-a-level-psychology-9990-motivation-to-work-revision-notes/)
 - [Motivation to work practice questions](/resources/cambridge-a-level-psychology-9990-motivation-to-work-practice/)

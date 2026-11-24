@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-29
 featured: false
 ---
@@ -155,7 +155,7 @@ Extended responses are marked in the real exam with levels of response, not poin
 **What are common mistakes in Schizophrenia exam answers?**
 Students often say antipsychotics cure schizophrenia, treat expressed emotion as proof of cause rather than a predictor of relapse, and ignore the treatment half of an interactionist question.
 
-## Next steps
+## More on this topic
 
 - Recheck weak areas in the [Schizophrenia study guide](/resources/aqa-a-level-psychology-7182-schizophrenia/) and the [revision notes](/resources/aqa-a-level-psychology-7182-schizophrenia-revision-notes/).
 - Compare how CBT and drugs are used for other disorders with the [Paper 1 Introductory practice](/resources/aqa-a-level-psychology-introductory-practice/).

@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -236,7 +236,7 @@ Expand the required form, match coefficients to get R cos α and R sin α, then 
 **Is sec θ the same as cos⁻¹θ?**
 No. sec θ is the reciprocal 1/cos θ, while cos⁻¹θ is the inverse function, which gives an angle.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/a-level-maths-9709-pure-mathematics-2-trigonometry-practice/), then mixed Paper 2 work in the [Pure Mathematics 2 practice set](/resources/a-level-mathematics-pure-mathematics-2-practice/). The A Level route covers the same content in the [Pure Mathematics 3 revision notes](/resources/a-level-maths-9709-pure-mathematics-3-revision-notes/). Test yourself with the free [AS diagnostic](/practice/9709/diagnostic/as/) or the [9709 self-check bank](/practice/9709/).
 

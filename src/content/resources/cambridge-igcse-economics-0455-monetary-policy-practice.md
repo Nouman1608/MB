@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -135,7 +135,7 @@ Judgement: monetary policy can reduce unemployment caused by weak spending, espe
 - Explaining a measure without linking it to the named aim.
 - Ending a "discuss" question without a judgement and a condition.
 
-## Next steps
+## More on this topic
 
 - Recap the tables in the [monetary policy revision notes](/resources/cambridge-igcse-economics-0455-monetary-policy-revision-notes/).
 - Reread the investment and exchange-rate examples in the [monetary policy study guide](/resources/cambridge-igcse-economics-0455-monetary-policy/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -143,7 +143,7 @@ Divide the cost of the campaign by the contribution per unit, which is price min
 **What makes a strong answer to an oligopoly evaluation question?**
 Weigh the advantages and disadvantages rather than just listing them, use examples, and reach a judgement. Diagrams should have labelled axes, curves and equilibrium in OCR A Level Economics (H460) answers.
 
-## Next steps
+## More on this topic
 
 - Review with the [revision notes](/resources/ocr-a-level-economics-oligopoly-interdependence-and-concentration-ratios-revision-notes/) and the [study guide](/resources/ocr-a-level-economics-oligopoly-interdependence-and-concentration-ratios/).
 - Tick off coverage on the [checklist](/checklists/ocr/a-level/economics/) and see the [course hub](/boards/ocr/a-level/economics/).

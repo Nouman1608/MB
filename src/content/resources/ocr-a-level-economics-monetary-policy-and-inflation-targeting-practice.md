@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -174,7 +174,7 @@ Common errors include confusing percentage points with percent, reversing the ef
 **How do you evaluate monetary policy in OCR A Level Economics?**
 Weigh which limitation matters most in the context given, such as cost-push inflation from energy prices or rates already near zero, and use the information in the question rather than listing general limits.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/ocr-a-level-economics-monetary-policy-and-inflation-targeting-revision-notes/) and [study guide](/resources/ocr-a-level-economics-monetary-policy-and-inflation-targeting/).
 - Open the [OCR Economics hub](/boards/ocr/a-level/economics/) and tick off the [checklist](/checklists/ocr/a-level/economics/).

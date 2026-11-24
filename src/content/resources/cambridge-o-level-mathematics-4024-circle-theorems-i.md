@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -204,7 +204,7 @@ angle ACD = angle CBA = 25°              (angle between a tangent and a chord e
 - Mark every right angle and equal radius on the diagram.
 - Look for diameters, tangents and cyclic quadrilaterals before trying anything else.
 
-## Next steps
+## More on this topic
 
 Try the [circle theorems I practice questions](/resources/cambridge-o-level-mathematics-4024-circle-theorems-i-practice/) and recap with the [circle theorems I revision notes](/resources/cambridge-o-level-mathematics-4024-circle-theorems-i-revision-notes/).
 

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -163,7 +163,7 @@ Tree: 320 tickets, adult 200 (popcorn 140, no popcorn 60), child 120 (popcorn 90
 - Using the wrong total on a frequency tree, such as dividing by 320 when the question is about the 120 child tickets.
 - Not showing working for p × n, so your method is visible if a small slip occurs.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/ocr-gcse-mathematics-probability-scale-relative-frequency-and-equally/) for any outcome you found hard.
 - Use the [revision notes](/resources/ocr-gcse-mathematics-probability-scale-relative-frequency-and-equally-revision-notes/) for a final recap.

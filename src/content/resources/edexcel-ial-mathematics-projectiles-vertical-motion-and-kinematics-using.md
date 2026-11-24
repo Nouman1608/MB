@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide is for Pearson Edexcel International Advanced Level Mathematics (YMA01), aligned to the *Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics* specification, Issue 3, April 2019. It covers Unit M2 section 1, topics 1.1 to 1.4. The specification lists M2 as an optional unit for IAS Further Mathematics and for IAL Mathematics and Further Mathematics, so it is available at IAS only within Further Mathematics.
@@ -350,7 +350,7 @@ Set the displacement equal to that height and solve the quadratic in t. The two 
 **What level of calculus is needed in Edexcel IAL M2 kinematics?**
 The specification says the calculus in topic 1.3 is consistent with P1 to P4, so expect powers of t, exponentials and simple trigonometric functions of t.
 
-## Next steps
+## More on this topic
 
 Revise the formulae and methods in the [revision notes](/resources/edexcel-ial-mathematics-projectiles-vertical-motion-and-kinematics-using-revision-notes/). Then test yourself with the [practice questions](/resources/edexcel-ial-mathematics-projectiles-vertical-motion-and-kinematics-using-practice/).
 

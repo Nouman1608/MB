@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -145,7 +145,7 @@ They count different groups. The LFS uses a survey and the international definit
 **Which type of unemployment is hardest to reduce?**
 Structural unemployment is usually the hardest, because workers need new skills or must move to where jobs are, which takes time and money.
 
-## Next steps
+## More on this topic
 
 - Re-read the [employment and unemployment study guide](/resources/ocr-as-level-economics-h060-employment-unemployment/).
 - Review [economic growth](/resources/ocr-as-level-economics-h060-economic-growth/) and [trends in macroeconomic indicators](/resources/ocr-as-level-economics-trends-in-macroeconomic-indicators/).

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -130,7 +130,7 @@ These questions cover section **3.1.2.1 Relative atomic mass and relative molecu
 - Multiplying by the water in a hydrate instead of adding it.
 - Forgetting that a formula contains more than one atom of the element in percentage calculations.
 
-## Next steps
+## More on this topic
 
 - [Relative atomic mass and relative molecular mass revision notes](/resources/aqa-a-level-chemistry-7405-relative-atomic-mass-and-relative-molecular-mass-revision-notes/)
 - [The mole and the Avogadro constant practice questions](/resources/aqa-a-level-chemistry-7405-the-mole-and-the-avogadro-constant-practice/)

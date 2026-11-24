@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -135,7 +135,7 @@ Dividing by the wrong base. A percentage fall is the change divided by the origi
 **Which part of OxfordAQA IGCSE Business 9225 do these questions cover?**
 They cover sections 3.2.3 The economic climate on business and 3.2.4 Globalisation of OxfordAQA International GCSE Business (9225).
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/oxfordaqa-igcse-business-the-economic-climate-on-business-and-globalisation-revision-notes/) and the [study guide](/resources/oxfordaqa-igcse-business-the-economic-climate-on-business-and-globalisation/).
 - Tick off the topics on the [printable checklist](/checklists/oxfordaqa/igcse/business/).

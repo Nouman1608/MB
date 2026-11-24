@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -172,7 +172,7 @@ Links: [study guide](/resources/ocr-gcse-mathematics-sampling-and-representing-d
 - Plotting cumulative frequency at the wrong point, or missing the starting point at zero.
 - Giving a histogram frequency as bar height when widths differ.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/ocr-gcse-mathematics-sampling-and-representing-data-with-charts-line-graphs-revision-notes/) and the [study guide](/resources/ocr-gcse-mathematics-sampling-and-representing-data-with-charts-line-graphs/).
 - Tick off topics on the [checklist](/checklists/ocr/gcse/mathematics/) and visit the [OCR GCSE Mathematics hub](/boards/ocr/gcse/mathematics/).

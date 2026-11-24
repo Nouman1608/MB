@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -164,7 +164,7 @@ Use G = 6.67 × 10⁻¹¹ N m² kg⁻². Other data is given in each question. G
 - Rounding mid-calculation, then reporting too many figures.
 - Skipping steps in a "show that" argument.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/oxfordaqa-a-level-physics-newtons-law-of-gravitation-and-gravitational-field-revision-notes/) and the [study guide](/resources/oxfordaqa-a-level-physics-newtons-law-of-gravitation-and-gravitational-field/) for anything you missed.
 - Check the [course hub](/boards/oxfordaqa/a-level/physics/) and tick off the [printable checklist](/checklists/oxfordaqa/a-level/physics/).

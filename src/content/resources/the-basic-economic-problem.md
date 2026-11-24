@@ -27,7 +27,7 @@ author: "salman-ahmad"
 reviewer: "asif-iqbal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by asif-iqbal on 2026-09-29; 2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by asif-iqbal on 2026-09-29; 2026-11-08: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 featured: false
 ---
@@ -315,7 +315,7 @@ A point inside the PPC shows that resources are unemployed or used inefficiently
 **What causes a production possibility curve to shift inward?**
 An inward shift represents a fall in productive capacity, for example because of a natural disaster or a fall in the size of the workforce. An outward shift represents economic growth.
 
-## Related resources
+## More resources on this topic
 
 - [Cambridge O Level Economics subject hub](/subjects/economics/)
 

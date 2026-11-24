@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -201,7 +201,7 @@ The tension becomes zero, so start a new stage with new equations for each body.
 **How do you find the force on a smooth pulley?**
 When both sections of string hang vertically, each pulls down with tension T, so the force on the pulley is 2T downwards.
 
-## Next steps
+## More on this topic
 
 - Condensed recall: [Forces and Newton's laws revision notes](/resources/aqa-a-level-mathematics-forces-and-newtons-laws-revision-notes/).
 - Full explanations: [Forces and Newton's laws study guide](/resources/aqa-a-level-mathematics-forces-and-newtons-laws/).

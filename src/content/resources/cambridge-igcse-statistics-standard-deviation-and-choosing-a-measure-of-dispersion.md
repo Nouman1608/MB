@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide follows the Cambridge IGCSE Statistics (0479) syllabus for examination in 2027. It covers two outcomes from Topic 5, Quartiles, percentiles and measures of dispersion: outcome 5.6 (calculating and estimating standard deviation) and outcome 5.7 (weighing up the range, the interquartile range and the standard deviation, and justifying a choice in context). The syllabus does not split these outcomes into tiers.
@@ -226,7 +226,7 @@ When two sets are compared, say which has the larger spread and which is more co
 - Describing an estimate as exact.
 - Choosing a measure without a reason from the context.
 
-## Next steps
+## More on this topic
 
 Try the [practice questions](/resources/cambridge-igcse-statistics-standard-deviation-and-choosing-a-measure-of-dispersion-practice/), then use the [revision notes](/resources/cambridge-igcse-statistics-standard-deviation-and-choosing-a-measure-of-dispersion-revision-notes/) for a quick recall of the formulae and the table above.
 

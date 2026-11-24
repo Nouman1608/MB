@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -143,7 +143,7 @@ For mixed ecology questions, use the [Energy transfer, biomass pyramids and adap
 - Drawing a pyramid with no scale or with bars of different heights.
 - Discussing farming efficiency without a benefit and a drawback.
 
-## Next steps
+## More on this topic
 
 - [Energy transferred in ecosystems study guide](/resources/oxfordaqa-igcse-biology-9201-energy-transferred-in-ecosystems/)
 - [Energy transferred in ecosystems revision notes](/resources/oxfordaqa-igcse-biology-9201-energy-transferred-in-ecosystems-revision-notes/)

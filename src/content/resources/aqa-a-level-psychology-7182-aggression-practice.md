@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-29
 featured: false
 ---
@@ -212,7 +212,7 @@ When groups are different sizes, raw totals are misleading. Converting to a rate
 **What do "Evaluate" and "Discuss" questions on Aggression need?**
 They need sustained evaluation and a reasoned judgement, not just description. Extended answers are marked with levels of response, and leaving out a final judgement is a common way to lose marks.
 
-## Next steps
+## More on this topic
 
 Check your answers against the [aggression study guide](/resources/aqa-a-level-psychology-7182-aggression/) and revise weak areas with the [aggression revision notes](/resources/aqa-a-level-psychology-7182-aggression-revision-notes/). Practise the biological and learning approaches behind these explanations with the [approaches practice questions](/resources/aqa-a-level-psychology-approaches-practice/). Find your gaps with our [free diagnostics](/diagnostics/), track topics on the [7182 checklist](/checklists/aqa/a-level/psychology/), browse the [course hub](/boards/aqa/a-level/psychology/), or [Book a free trial class](/trial/).
 

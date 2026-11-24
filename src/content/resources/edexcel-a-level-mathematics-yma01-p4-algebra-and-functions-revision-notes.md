@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -138,7 +138,7 @@ For series: k/(1 + bx) = k(1 + bx)⁻¹ is valid for |bx| < 1. For k/(a + bx), f
 
 **11.** −3/(x − 1)².
 
-## Related resources
+## More resources on this topic
 
 - [P4 partial fractions study guide](/resources/edexcel-a-level-mathematics-yma01-p4-algebra-and-functions/)
 - [P4 partial fractions practice questions](/resources/edexcel-a-level-mathematics-yma01-p4-algebra-and-functions-practice/)

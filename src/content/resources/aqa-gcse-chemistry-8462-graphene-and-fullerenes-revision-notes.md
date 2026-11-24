@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -178,7 +178,7 @@ electrical conduction.
 9. 60 × 12 = 720.
 10. Electronics, or composites.
 
-## Next steps
+## More on this topic
 
 - [Graphene and fullerenes study guide](/resources/aqa-gcse-chemistry-8462-graphene-and-fullerenes/)
 - [Graphene and fullerenes practice questions](/resources/aqa-gcse-chemistry-8462-graphene-and-fullerenes-practice/)

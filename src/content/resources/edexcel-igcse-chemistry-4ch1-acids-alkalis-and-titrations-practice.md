@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -146,6 +146,6 @@ These questions cover sub-topic 2(f) Acids, alkalis and titrations of the Pearso
 - Averaging titres that are not concordant.
 - Forgetting the white tile, swirling or dropwise addition when describing the method.
 
-## Next steps
+## More on this topic
 
 Revisit the [acids, alkalis and titrations study guide](/resources/edexcel-igcse-chemistry-4ch1-acids-alkalis-and-titrations/) for any gaps, then practise salt preparation in the [groups, acids, salts and tests practice questions](/resources/edexcel-igcse-chemistry-4ch1-inorganic-groups-acids-salts-tests-practice/).

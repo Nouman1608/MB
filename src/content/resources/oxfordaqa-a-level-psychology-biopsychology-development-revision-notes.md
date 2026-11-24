@@ -28,7 +28,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-03
 featured: false
 ---
@@ -219,7 +219,7 @@ Split-brain research, on patients whose corpus callosum has been severed, is key
 **How does functional recovery happen after brain trauma?**
 Mechanisms include recruitment of homologous areas in the opposite hemisphere and axonal sprouting, where undamaged neurons form new connections to compensate for lost pathways.
 
-## Related resources
+## More resources on this topic
 
 - [Biopsychology, Development and Research Methods 1 study guide](/resources/a-level-oxfordaqa-psychology-biopsychology-development-research-methods/)
 - [Biopsychology, Development and Research Methods 1 practice questions](/resources/oxfordaqa-a-level-psychology-biopsychology-development-practice/)

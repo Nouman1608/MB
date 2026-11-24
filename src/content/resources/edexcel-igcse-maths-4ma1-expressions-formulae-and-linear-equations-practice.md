@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -188,7 +188,7 @@ Multiply every term on both sides by the lowest common multiple of the denominat
 **How can you check a rearranged formula?**
 Substitute a simple number into the original formula, then put the result into your rearranged version and see whether you get the starting value back. A quick numerical check catches most sign and order errors.
 
-## Next steps
+## More on this topic
 
 - Refresh the methods: [revision notes](/resources/edexcel-igcse-maths-4ma1-expressions-formulae-and-linear-equations-revision-notes/)
 - Re-learn anything you missed: [study guide](/resources/edexcel-igcse-maths-4ma1-expressions-formulae-and-linear-equations/)

@@ -19,7 +19,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers **Topic 2: The Role of Markets and Money**, the
@@ -341,7 +341,7 @@ Banks and building societies take deposits from savers and lend to households an
 **What is productivity?**
 Productivity is output per worker, or per unit of input, in a given period. Higher productivity can lower the cost of each unit produced.
 
-## Related resources
+## More resources on this topic
 
 - [The Role of Markets and Money revision notes](/resources/ocr-gcse-economics-markets-money-revision-notes/)
 - [The Role of Markets and Money practice questions](/resources/ocr-gcse-economics-markets-money-practice/)

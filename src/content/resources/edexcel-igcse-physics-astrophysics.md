@@ -27,7 +27,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false
@@ -242,7 +242,7 @@ No. Gravitational field strength g varies from place to place and is different o
 **What units does Topic 8 use?**
 Topic 8 uses the kilogram, metre, metre per second, metre per second squared, newton, second and newton per kilogram.
 
-## Related resources
+## More resources on this topic
 
 - [Radioactivity and Particles](/resources/edexcel-igcse-physics-radioactivity-and-particles/) — the previous topic
 - [Pearson Edexcel International GCSE Physics hub](/boards/edexcel/igcse/physics/) — the complete syllabus, now fully covered

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The public IB subject brief names subtopic 7.3 but not its understandings, so a teacher should check this page against the full ESS guide."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The public IB subject brief names subtopic 7.3 but not its understandings, so a teacher should check this page against the full ESS guide. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -133,7 +133,7 @@ Tools that act at the top of the waste hierarchy (reduce, reuse) tackle causes; 
 - **Evaluate** a waste plan: effectiveness for the waste composition in the data, cost, public participation, and side effects such as fly-tipping or air emissions, then a judgement.
 - **Discuss** with perspectives: an ecocentric view favours reduction and changing consumption; a technocentric view may favour energy-recovery technology.
 
-## Next steps
+## More on this topic
 
 Condense this page with the [7.3 revision notes](/resources/ib-dp-environmental-systems-and-societies-7-3-revision-notes/), then practise with the [7.3 practice questions](/resources/ib-dp-environmental-systems-and-societies-7-3-practice/). The three levels of the pollution management model are set out for waste in the [Topic 7 study guide](/resources/ib-dp-ess-natural-resources-energy-waste/), and value systems in the [Topic 1 Foundations guide](/resources/ib-dp-ess-topic-1-foundations/).
 

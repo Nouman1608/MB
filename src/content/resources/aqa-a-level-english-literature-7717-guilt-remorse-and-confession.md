@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -150,7 +150,7 @@ Paper 2 is open book, so use clean copies to find short, exact quotations. In Se
 AQA's four ideas, using at least two of them. In Section C, connect texts through different kinds of
 confession, for example an involuntary monologue against a deliberate written account.
 
-## Related resources
+## More resources on this topic
 
 - [Guilt, remorse and confession revision notes](/resources/aqa-a-level-english-literature-7717-guilt-remorse-and-confession-revision-notes/)
 - [Guilt, remorse and confession practice questions](/resources/aqa-a-level-english-literature-7717-guilt-remorse-and-confession-practice/)

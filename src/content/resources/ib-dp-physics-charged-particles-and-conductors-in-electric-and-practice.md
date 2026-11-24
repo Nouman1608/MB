@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -154,7 +154,7 @@ Use: e = 1.60 × 10^-19 C, electron mass 9.11 × 10^-31 kg, proton mass 1.67 × 
 - Explaining constant kinetic energy by "the field is uniform" instead of "no work is done".
 - Adding the forces from two wires instead of finding the resultant with directions.
 
-## Next steps
+## More on this topic
 
 - The [study guide](/resources/ib-dp-physics-charged-particles-and-conductors-in-electric-and/) and the [revision notes](/resources/ib-dp-physics-charged-particles-and-conductors-in-electric-and-revision-notes/).
 - See the [IB Physics hub](/boards/ib/ib-dp/physics/) and the [printable checklist](/checklists/ib/ib-dp/physics/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -157,7 +157,7 @@ These questions cover **3.3.3 Sound and ultrasound**, statements a to h, of the 
 - Linking pitch to amplitude.
 - Medical explanations that do not say ultrasound is non-ionising.
 
-## Next steps
+## More on this topic
 
 Revise from the [Sound and ultrasound revision notes](/resources/oxfordaqa-igcse-physics-9203-sound-and-ultrasound-oxfordaqa-revision-notes/), then return to the [General properties of waves practice questions](/resources/oxfordaqa-igcse-physics-9203-general-properties-of-waves-practice/) for mixed waves revision.
 

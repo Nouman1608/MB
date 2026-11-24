@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -165,7 +165,7 @@ I = mg / (BL) = 5.0 × 10⁻³ × 9.81 / (0.050 × 0.10) = 9.8 A
 - **Explain** (why there is no force, or no resultant force): refer to θ = 0, or to equal and opposite forces on opposite sides of a coil.
 - **Show that** the tesla is kg s⁻² A⁻¹: start from B = F/(IL) and substitute base units for the newton.
 
-## Related resources
+## More resources on this topic
 
 - [Magnetic Fields study guide](/resources/a-physics-magnetic-fields/) — the whole of Topic 20
 - [Force on a current-carrying conductor revision notes](/resources/cambridge-a-level-physics-9702-a-force-on-a-current-carrying-conductor-revision-notes/)

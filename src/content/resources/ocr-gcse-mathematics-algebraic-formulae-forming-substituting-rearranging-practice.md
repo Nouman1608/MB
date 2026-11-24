@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -181,7 +181,7 @@ Check both roots against the context and reject any that is impossible, such as 
 **How do you undo a square root when rearranging a formula?**
 Isolate the square root first, then square the whole of both sides. Squaring only part of an expression is a common slip in OCR GCSE Mathematics J560 questions.
 
-## Next steps
+## More on this topic
 
 - Review with the [revision notes](/resources/ocr-gcse-mathematics-algebraic-formulae-forming-substituting-rearranging-revision-notes/).
 - Re-read the explanations in the [study guide](/resources/ocr-gcse-mathematics-algebraic-formulae-forming-substituting-rearranging/).

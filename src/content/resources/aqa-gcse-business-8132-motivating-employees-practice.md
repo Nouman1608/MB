@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -117,7 +117,7 @@ Evaluation: commission may cause pressure selling or rivalry in a team of only s
 - Leaving out the cost of training or fringe benefits in an evaluation.
 - Writing about motivation theories, which the specification says will not be examined.
 
-## Next steps
+## More on this topic
 
 - Review weak areas in the [motivating employees study guide](/resources/aqa-gcse-business-8132-motivating-employees/).
 - Read the [Human resources study guide](/resources/aqa-gcse-business-human-resources/) for links to recruitment and training.

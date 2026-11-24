@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -163,7 +163,7 @@ Learn the content first in the [Transport study guide](/resources/edexcel-igcse-
 - Naming the hepatic vein instead of the hepatic portal vein for blood from the gut.
 - Dividing by the new value instead of the original value in percentage change calculations.
 
-## Next steps
+## More on this topic
 
 - Recap with the [Transport revision notes](/resources/edexcel-igcse-biology-4bi1-transport-revision-notes/).
 - Relearn anything you dropped marks on in the [Transport study guide](/resources/edexcel-igcse-biology-4bi1-transport/).

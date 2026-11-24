@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -153,7 +153,7 @@ Vygotsky argued that cognitive development is fundamentally **social and cultura
 - Treating the ZPD as the same as scaffolding: the ZPD is the gap, scaffolding is the support.
 - Quoting the Sally-Anne findings without the three groups.
 
-## Related resources
+## More resources on this topic
 
 - [Cognitive development revision notes](/resources/oxfordaqa-a-level-psychology-9685-cognitive-development-revision-notes/)
 - [Cognitive development practice questions](/resources/oxfordaqa-a-level-psychology-9685-cognitive-development-practice/)

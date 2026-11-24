@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please check the Costa Rica forest-cover figures and the CAMPFIRE and Maasai Mara conservancy details against current sources."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please check the Costa Rica forest-cover figures and the CAMPFIRE and Maasai Mara conservancy details against current sources. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -149,7 +149,7 @@ For each solution ask:
 11. Clearance displaced from a protected area to another area.
 12. Strength: uses consumer pressure. Weakness: covers only part of the market, and monitoring is costly.
 
-## Related resources
+## More resources on this topic
 
 - [7.4 study guide](/resources/cambridge-a-level-geography-9696-sustainable-management-of-tropical-environments/)
 - [7.4 practice questions](/resources/cambridge-a-level-geography-9696-sustainable-management-of-tropical-environments-practice/)

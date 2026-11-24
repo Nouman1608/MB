@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -130,7 +130,7 @@ These questions cover the first part of specification section P2.6 (Differentiat
 - Failing to explain the sign of a squared denominator in a "show that" question.
 - Working in degrees when the derivative results require radians.
 
-## Next steps
+## More on this topic
 
 - Revise the method with the [revision notes](/resources/oxfordaqa-a-level-mathematics-differentiating-exponentials-logarithms-trigonometric-revision-notes/).
 - Re-read the explanations in the [study guide](/resources/oxfordaqa-a-level-mathematics-differentiating-exponentials-logarithms-trigonometric/).

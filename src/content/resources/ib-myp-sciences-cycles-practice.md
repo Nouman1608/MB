@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "ameer-hamza"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ameer-hamza on 2026-09-29; 2026-11-08: credited to ameer-hamza (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ameer-hamza on 2026-09-29; 2026-11-08: credited to ameer-hamza (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -179,7 +179,7 @@ State the problem using cycle language, explain how each solution changes a stor
 **How do you describe controlled variables in a cycles investigation?**
 List each controlled variable and say how it is controlled. Listing variables without explaining how they are kept the same is a frequent way to lose credit.
 
-## Next steps
+## More on this topic
 
 - [Cycles revision notes](/resources/ib-myp-sciences-cycles-revision-notes/)
 - [Cycles study guide](/resources/ib-myp-sciences-cycles/)

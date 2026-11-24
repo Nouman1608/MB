@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -179,7 +179,7 @@ Yes. Stopping at a partly simplified fraction such as 9/15 instead of 3/5 can lo
 **How do you find a fraction of what is left?**
 Work out what remains after the first share, then take the fraction of that remainder, not of the original whole. Taking the fraction of the whole amount when the question says "of what was left" is a frequent error.
 
-## Next steps
+## More on this topic
 
 - Refresh the facts: [fractions and decimals revision notes](/resources/edexcel-igcse-maths-4ma1-fractions-and-decimals-revision-notes/)
 - Re-learn anything you missed: [fractions and decimals study guide](/resources/edexcel-igcse-maths-4ma1-fractions-and-decimals/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -211,7 +211,7 @@ decreasing; the object can still be moving forwards.
 **What does a curve on a speed–time graph mean?** The acceleration is changing: steeper means a
 larger acceleration.
 
-## Related resources
+## More resources on this topic
 
 - [Motion revision notes](/resources/cambridge-o-level-physics-5054-motion-revision-notes/)
 - [Motion practice questions](/resources/cambridge-o-level-physics-5054-motion-practice/)

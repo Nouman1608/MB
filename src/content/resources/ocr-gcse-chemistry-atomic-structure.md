@@ -18,7 +18,7 @@ author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 featured: false
 ---
@@ -228,7 +228,7 @@ For OCR GCSE (9–1) Chemistry A (J248), atoms and small molecules have a typica
 **Do isotopes of an element react differently?**
 No. Isotopes have the same number of protons and electrons, so they react chemically in the same way. They differ only in their number of neutrons, so their mass and some physical properties are different.
 
-## Related resources
+## More resources on this topic
 
 - [Atomic Structure (Cambridge IGCSE / O Level)](/resources/atomic-structure/) — the equivalent subtopic from a different awarding body, useful for comparing how the same core chemistry is structured across specifications
 - [OCR GCSE Chemistry hub](/boards/ocr/gcse/chemistry/)

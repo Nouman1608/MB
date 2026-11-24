@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -132,7 +132,7 @@ D: paying farm workers more
 - Describing division of labour as using machines.
 - Evaluations that do not refer to the type of product or market.
 
-## Next steps
+## More on this topic
 
 - Recap with the [productivity and division of labour revision notes](/resources/edexcel-igcse-economics-4ec1-productivity-and-division-of-labour-revision-notes/).
 - Reread the [productivity and division of labour study guide](/resources/edexcel-igcse-economics-4ec1-productivity-and-division-of-labour/).

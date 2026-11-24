@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -152,7 +152,7 @@ At 12 mmol dm⁻³, adding diazoxide, a drug that holds potassium channels open,
 - Quoting a rate without comparing end and start values.
 - Writing one-sided answers to "evaluate" questions.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/ocr-a-level-biology-hormonal-communication-and-blood-glucose-control-revision-notes/) or reread the [study guide](/resources/ocr-a-level-biology-hormonal-communication-and-blood-glucose-control/).
 - See the [OCR A Level Biology hub](/boards/ocr/a-level/biology/) and the [checklist](/checklists/ocr/a-level/biology/).

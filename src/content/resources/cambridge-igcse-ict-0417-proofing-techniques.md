@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -142,7 +142,7 @@ For **describe** questions on a verification method, give what is done *and* who
 5. What is a widow? *The last line of a paragraph alone at the top of a page or column.*
 6. Why can validation not detect transposed numbers? *The swapped value is still reasonable, so it obeys the rules.*
 
-## Next steps
+## More on this topic
 
 Revise with the [proofing techniques revision notes](/resources/cambridge-igcse-ict-0417-proofing-techniques-revision-notes/), then try the [proofing techniques practice questions](/resources/cambridge-igcse-ict-0417-proofing-techniques-practice/). The automatic tools are in the [software tools study guide](/resources/cambridge-igcse-ict-0417-software-tools/).
 

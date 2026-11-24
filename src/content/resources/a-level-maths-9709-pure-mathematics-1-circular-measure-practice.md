@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -277,7 +277,7 @@ Leave π and surds in the answer, for example 15π − 9, rather than giving a d
 **Why might you reject a solution in a sector problem?**
 After solving a quadratic for r or θ, reject any value with θ greater than 2π or r not positive, because it cannot describe a real sector.
 
-## Next steps
+## More on this topic
 
 - Recap formulas and methods in the [circular measure revision notes](/resources/a-level-maths-9709-pure-mathematics-1-circular-measure-revision-notes/).
 - Reread any method you missed in the [circular measure study guide](/resources/a-level-maths-9709-pure-mathematics-1-circular-measure/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 **Population and employment is Section 8, the last section of Paper 2 in Cambridge O Level Pakistan
@@ -228,7 +228,7 @@ is lower, even though they are counted as working.
 An unplanned, often unauthorised settlement in a Pakistani city, usually with poor housing and few
 services such as clean water and drainage.
 
-## Related resources
+## More resources on this topic
 
 - [Population and Employment revision notes](/resources/o-level-pakistan-studies-population-and-employment-revision-notes/)
 - [Population and Employment practice questions](/resources/o-level-pakistan-studies-population-and-employment-practice/)

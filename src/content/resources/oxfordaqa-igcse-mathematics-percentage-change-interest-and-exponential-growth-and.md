@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This study guide is aligned to the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1, for exams from May/June 2018 onwards. It covers N15 in section 3.1.2 (percentage change, interest, reverse percentages and the compound interest formula) and the repeated proportional change and exponential growth and decay statements of N20 in section 3.1.3. N15 and the repeated proportional change in N20 are Core content, so they can be assessed at both tiers. Reverse percentages, the compound interest formula and exponential growth and decay are marked **Extension only** below.
 
@@ -322,7 +322,7 @@ Read the wording before you reach for a formula.
 - Rounding too soon. Keep the full unrounded value and round money to the nearest penny only at the end.
 - Writing 1.5 as the multiplier for a 5% rise. A 5% rise is 1.05.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/oxfordaqa-igcse-mathematics-percentage-change-interest-and-exponential-growth-and-practice/), then condense your notes using the [revision notes](/resources/oxfordaqa-igcse-mathematics-percentage-change-interest-and-exponential-growth-and-revision-notes/). The [Number practice set](/resources/igcse-oxfordaqa-mathematics-number-practice/) tests the rest of the strand.
 

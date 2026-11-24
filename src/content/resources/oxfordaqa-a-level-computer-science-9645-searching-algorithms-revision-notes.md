@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -172,7 +172,7 @@ Doubling the list adds one comparison to the binary worst case. Big O (A-level o
 11. Binary search.
 12. mid 5 (39, too large), mid 2 (18, too large), mid 0 (5, found): index 0 after three passes.
 
-## Next steps
+## More on this topic
 
 - [Searching algorithms study guide](/resources/oxfordaqa-a-level-computer-science-9645-searching-algorithms/)
 - [Searching algorithms practice questions](/resources/oxfordaqa-a-level-computer-science-9645-searching-algorithms-practice/)

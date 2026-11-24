@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -168,7 +168,7 @@ Subtract the LED's p.d. from the supply p.d. to get the p.d. across the resistor
 **How should you explain why a thermistor's resistance falls when heated?**
 Say that heating releases more charge carriers in the semiconductor, which outweighs the extra collisions. "Electrons move faster" is not accepted.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/ocr-a-level-physics-resistance-resistivity-and-electrical-power-revision-notes/) and the [study guide](/resources/ocr-a-level-physics-resistance-resistivity-and-electrical-power/).
 - Go to the [OCR A Level Physics hub](/boards/ocr/a-level/physics/) and the [printable checklist](/checklists/ocr/a-level/physics/).

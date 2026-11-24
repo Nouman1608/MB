@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -155,6 +155,6 @@ These questions cover syllabus section 3.14 of IB DP Mathematics: Analysis and A
 - Simplifying a velocity vector in a kinematics question, which changes the speed.
 - Testing only one or two components when checking that a point lies on a line.
 
-## Next steps
+## More on this topic
 
 Revise any method in the [3.14 study guide](/resources/ib-dp-mathematics-analysis-and-approaches-3-14/), then try the [3.15 practice questions on how two lines meet](/resources/ib-dp-mathematics-analysis-and-approaches-3-15-practice/).

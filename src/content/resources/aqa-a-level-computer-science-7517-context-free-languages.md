@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -184,7 +184,7 @@ Every regular language can also be described in BNF, but not the other way round
 - **Explain the limits of regular expressions**: mention recursion, nesting or matching counts, and give an example such as `0ⁿ1ⁿ` or balanced brackets.
 - **Syntax diagrams**: label every box as a terminal or a non-terminal and show every loop.
 
-## Related resources
+## More resources on this topic
 
 - [Context-free languages revision notes](/resources/aqa-a-level-computer-science-7517-context-free-languages-revision-notes/)
 - [Context-free languages practice questions](/resources/aqa-a-level-computer-science-7517-context-free-languages-practice/)

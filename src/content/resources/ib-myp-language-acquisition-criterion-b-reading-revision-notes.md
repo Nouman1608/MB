@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -225,7 +225,7 @@ Criterion B names spatial aspects such as position on the page, size, columns, b
 **Is Criterion B reading assessed on screen?**
 Yes. Criterion B is part of the MYP Language Acquisition on-screen examination, which is worth 96 marks: 32 each for listening (A), reading (B) and writing (D). Criterion B is assessed in Tasks 1 and 2, 16 marks in each.
 
-## Next steps
+## More on this topic
 
 Practise with the [Criterion B practice questions](/resources/ib-myp-language-acquisition-criterion-b-reading-practice/), revisit the [study guide](/resources/ib-myp-language-acquisition-criterion-b-reading/) for any weak skill, and see [eAssessment exam preparation](/resources/ib-myp-language-acquisition-eassessment-exam-preparation/) for the exam format.
 

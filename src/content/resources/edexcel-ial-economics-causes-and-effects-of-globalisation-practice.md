@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -162,7 +162,7 @@ Domestic producers lose producer surplus as cheaper imports take sales, and work
 **How should you write about FDI in an evaluation?**
 Separate the gain to the TNC from the gain to the host country. The host's net benefit depends on how much the TNC sources locally, how long it stays and how much profit is sent home.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/edexcel-ial-economics-causes-and-effects-of-globalisation-revision-notes/)
 - [Study guide](/resources/edexcel-ial-economics-causes-and-effects-of-globalisation/)

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -160,7 +160,7 @@ Condensed recall for **3.1.2 Social psychology** (OxfordAQA International AS and
 
 **Answers:** 1. Compliance is public agreement with private disagreement; internalisation is genuine private acceptance. 2. Informational social influence. 3. It rose from about 3% to about 32%. 4. Conformity fell to about 5.5%. 5. An ambiguous task makes people look to others for information. 6. 65%. 7. 20.5%. 8. A state in which a person sees themselves as acting for an authority and passes responsibility to them. 9. Obedience fell to 47.5% in a less prestigious setting, so the institution lent the authority legitimacy. 10. Conformity was higher in collectivist than individualist cultures. 11. It fell to 10%. 12. They believe outcomes depend on their own actions, so they rely on their own judgement rather than others'.
 
-## Related resources
+## More resources on this topic
 
 - [Social psychology study guide](/resources/oxfordaqa-a-level-psychology-9685-social-psychology/)
 - [Introductory topics revision notes](/resources/oxfordaqa-a-level-psychology-revision-notes/)

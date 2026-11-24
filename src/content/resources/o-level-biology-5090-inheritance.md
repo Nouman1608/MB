@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches Topic 17, Inheritance, for Cambridge O Level Biology 5090. It is aligned to the Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4), and covers every learning outcome in sections 17.1 Variation, 17.2 DNA, 17.3 Inheritance and 17.4 Selection. The syllabus is not tiered, so everyone studies all of it. One practical outcome is listed: investigating continuous and discontinuous variation.
@@ -331,7 +331,7 @@ It is used to produce **economically important** plants and animals: crops with 
 - Saying the antibiotic "causes" the mutation. Resistant bacteria were already there; the antibiotic selects them.
 - Calling a continuous-variation feature "caused by genes only".
 
-## Next steps
+## More on this topic
 
 Condense this into the [revision notes](/resources/o-level-biology-5090-inheritance-revision-notes/), then test yourself with the [practice questions](/resources/o-level-biology-5090-inheritance-practice/). Track your progress on the [printable checklist](/checklists/cambridge/o-level/biology/), see other topics on the [course hub](/boards/cambridge/o-level/biology/), and check your gaps with the [free 10-minute diagnostics](/diagnostics/).
 

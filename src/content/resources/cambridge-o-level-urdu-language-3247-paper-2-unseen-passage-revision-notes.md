@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: An Urdu specialist should check that every Urdu literary term, example and self-test answer on this page is correct and natural."
+reviewNote: "2026-11-17: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: An Urdu specialist should check that every Urdu literary term, example and self-test answer on this page is correct and natural. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -177,7 +177,7 @@ Avoid "sad" and "happy" alone. Try: *حسرت* (longing), *مایوسی* (despai
 11. The question tests response to the extract on the page; outside knowledge does not answer it.
 12. Two of *حسرت*، *مایوسی*، *یاس*، *بے بسی*، *شکوہ*.
 
-## Related resources
+## More resources on this topic
 
 - [Unseen Passage: practice questions](/resources/cambridge-o-level-urdu-language-3247-paper-2-unseen-passage-practice/)
 - [Paper 2 Texts practice questions](/resources/o-level-urdu-first-language-paper-2-texts-practice/)

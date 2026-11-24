@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -143,7 +143,7 @@ These questions cover OxfordAQA International AS and A-level Economics (9640), s
 - Describing a diagram but leaving the axes, curves or equilibrium points unnamed.
 - Writing about unions in general without stating which market structure applies.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/oxfordaqa-a-level-economics-wage-determination-in-perfect-and-imperfect-labour-revision-notes/) and re-read the [study guide](/resources/oxfordaqa-a-level-economics-wage-determination-in-perfect-and-imperfect-labour/).
 - Go to the [OxfordAQA A-level Economics hub](/boards/oxfordaqa/a-level/economics/) and tick off topics on the [checklist](/checklists/oxfordaqa/a-level/economics/).

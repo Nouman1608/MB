@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -145,7 +145,7 @@ Subtract the old figure from the new one, divide the change by the old figure an
 **What section of the OCR GCSE Business specification do these questions cover?**
 They cover section 1, Business activity, of OCR GCSE (9-1) Business (J204): enterprise and entrepreneurship, business planning, ownership, aims and objectives, stakeholders and business growth.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/ocr-gcse-business-business-activity-revision-notes/) for any section where you lost marks.
 - Re-read the [study guide](/resources/ocr-gcse-business-business-activity/).

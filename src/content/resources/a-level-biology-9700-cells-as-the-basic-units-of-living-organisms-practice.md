@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -180,7 +180,7 @@ Chloroplasts: ✗ ✗ ✓ [1]
 - Placing ribosomes on the Golgi body or on the SER.
 - Using evidence that is not in the micrograph or description given.
 
-## Next steps
+## More on this topic
 
 - [1.2 revision notes](/resources/a-level-biology-9700-cells-as-the-basic-units-of-living-organisms-revision-notes/)
 - [1.2 study guide](/resources/a-level-biology-9700-cells-as-the-basic-units-of-living-organisms/)

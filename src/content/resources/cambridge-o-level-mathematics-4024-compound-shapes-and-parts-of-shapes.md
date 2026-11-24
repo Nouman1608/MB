@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -192,7 +192,7 @@ Because the small cone is an enlargement of the big cone by scale factor 1/2, it
 - Check the list of surfaces for the total area, so none is missed.
 - Keep π in your working when asked for the answer in terms of π.
 
-## Next steps
+## More on this topic
 
 Work through the [compound shapes and parts of shapes practice questions](/resources/cambridge-o-level-mathematics-4024-compound-shapes-and-parts-of-shapes-practice/) and recap with the [compound shapes and parts of shapes revision notes](/resources/cambridge-o-level-mathematics-4024-compound-shapes-and-parts-of-shapes-revision-notes/).
 

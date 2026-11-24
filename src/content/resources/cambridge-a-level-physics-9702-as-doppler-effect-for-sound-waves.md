@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -202,7 +202,7 @@ A higher, constant frequency while it approaches, then a sudden fall to a
 lower, constant frequency as it moves away (for constant speed in a straight
 line through the observer's position).
 
-## Related resources
+## More resources on this topic
 
 - [Waves](/resources/as-physics-waves/) — the whole of Topic 7 in one guide
 - [Progressive waves](/resources/cambridge-a-level-physics-9702-as-progressive-waves/) — subtopic 7.1, v = fλ and wave terms

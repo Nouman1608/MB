@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -168,7 +168,7 @@ For Group A, an estimate of the mean is 34.6, of the standard deviation is 10.4 
 - Using class boundaries instead of midpoints for grouped estimates.
 - Comparing data sets without quoting values or using the context.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/cambridge-o-level-statistics-range-interquartile-range-variance-and-standard-revision-notes/) and the [study guide](/resources/cambridge-o-level-statistics-range-interquartile-range-variance-and-standard/).
 - Visit the [course page](/boards/cambridge/o-level/statistics/) and tick off the [checklist](/checklists/cambridge/o-level/statistics/).

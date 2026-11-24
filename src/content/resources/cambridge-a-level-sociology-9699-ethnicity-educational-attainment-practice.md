@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -128,6 +128,6 @@ Argument 2: subcultures can be a response to how pupils are treated [1]. Sewell'
 
 **Level guidance:** top answers show how factors interact, not just that they coexist; middle answers discuss each factor separately; low answers assert that "everything matters".
 
-## Next steps
+## More on this topic
 
 Continue with [gender and educational attainment](/resources/cambridge-a-level-sociology-9699-gender-educational-attainment/), or review [social class and educational attainment](/resources/cambridge-a-level-sociology-9699-social-class-educational-attainment/).

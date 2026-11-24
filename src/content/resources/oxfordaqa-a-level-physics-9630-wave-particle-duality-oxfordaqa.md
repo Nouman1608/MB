@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -142,6 +142,6 @@ The lessons examiners look for: a model is accepted while it explains the eviden
 - **Explain** a change in the pattern: use the four-link chain from momentum to angles.
 - **Discuss** changing ideas: give the evidence that forced each change, not just dates and names.
 
-## Next steps
+## More on this topic
 
 Condense the page with the [wave-particle duality revision notes](/resources/oxfordaqa-a-level-physics-9630-wave-particle-duality-oxfordaqa-revision-notes/) and test yourself with the [wave-particle duality practice questions](/resources/oxfordaqa-a-level-physics-9630-wave-particle-duality-oxfordaqa-practice/). Photon evidence is developed in the [photoelectric effect study guide](/resources/oxfordaqa-a-level-physics-9630-photoelectric-effect-oxfordaqa/), and wave diffraction itself in the [diffraction study guide](/resources/oxfordaqa-a-level-physics-9630-diffraction/).

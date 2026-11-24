@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -178,7 +178,7 @@ Divide by 10 000, because there are 100 cm in a metre and 100² = 10 000. Dividi
 **Are imperial units in 0580 subtopic 5.1?**
 No. The syllabus notes list only metric units: mm, cm, m and km; their square and cube units; ml and l; and g and kg.
 
-## Next steps
+## More on this topic
 
 - Consolidate with the [units of measure revision notes](/resources/cambridge-igcse-mathematics-0580-units-of-measure-revision-notes/).
 - Practise with the [units of measure practice questions](/resources/cambridge-igcse-mathematics-0580-units-of-measure-practice/).

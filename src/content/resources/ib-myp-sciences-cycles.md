@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "ameer-hamza"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ameer-hamza on 2026-09-29; 2026-11-08: credited to ameer-hamza (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ameer-hamza on 2026-09-29; 2026-11-08: credited to ameer-hamza (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -247,7 +247,7 @@ Not in itself. Without the greenhouse effect the Earth would be far colder; the 
 **Are cycles in the IB MYP Sciences syllabus?**
 The IB MYP Sciences subject brief (from 2014) lists "cycles" among the topics explored in the on-screen examinations. MYP has no prescribed content list, so your school's unit may cover different examples.
 
-## Next steps
+## More on this topic
 
 Condense this page with the [revision notes](/resources/ib-myp-sciences-cycles-revision-notes/), then test yourself with the [practice questions](/resources/ib-myp-sciences-cycles-practice/). For the wider course, see the [subject guide](/resources/ib-myp-sciences-subject-guide/) and the [syllabus guide](/resources/ib-myp-sciences-syllabus-guide/).
 

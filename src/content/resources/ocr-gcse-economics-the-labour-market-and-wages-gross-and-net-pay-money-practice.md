@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -168,7 +168,7 @@ No. Savers gain from higher interest on their savings, but borrowers lose becaus
 **How do you convert annual interest into a monthly cost?**
 Calculate the interest for the year, then divide by 12. Forgetting to convert annual interest to a monthly amount is a common mistake.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/ocr-gcse-economics-the-labour-market-and-wages-gross-and-net-pay-money-revision-notes/) and the [study guide](/resources/ocr-gcse-economics-the-labour-market-and-wages-gross-and-net-pay-money/).
 - Go to the [OCR GCSE Economics hub](/boards/ocr/gcse/economics/) and tick off the [checklist](/checklists/ocr/gcse/economics/).

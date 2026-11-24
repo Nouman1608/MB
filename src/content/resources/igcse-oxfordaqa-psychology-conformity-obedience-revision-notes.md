@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-03
 featured: false
 ---
@@ -204,7 +204,7 @@ Legitimate authority is an authority figure whose right to direct others is soci
 **Why is Milgram's study discussed in research ethics?**
 It involved deception about the true purpose of the study and caused psychological distress to participants, so it is a standard reference point when evaluating research ethics.
 
-## Related resources
+## More resources on this topic
 
 - [Conformity and Obedience study guide](/resources/igcse-oxfordaqa-psychology-conformity-and-obedience/)
 - [Conformity and Obedience practice questions](/resources/igcse-oxfordaqa-psychology-conformity-obedience-practice/)

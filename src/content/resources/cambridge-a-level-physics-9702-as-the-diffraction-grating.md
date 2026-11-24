@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -141,7 +141,7 @@ Grating maxima are sharp and bright, and the angles are large, so the percentage
 - **Describe** (the experiment): give apparatus, what is measured, how θ is found, the equation used, and one way of improving reliability.
 - **Explain** (why a grating is better than a double slit): sharper, brighter maxima at larger angles, so angles are measured more precisely.
 
-## Related resources
+## More resources on this topic
 
 - [Superposition study guide](/resources/as-physics-superposition/) — the whole of Topic 8
 - [Diffraction grating revision notes](/resources/cambridge-a-level-physics-9702-as-the-diffraction-grating-revision-notes/)

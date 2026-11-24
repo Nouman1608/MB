@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -135,7 +135,7 @@ These are predictions from the trends, and you should present them as such ("exp
 - **Interpret** (volatility): name id-id forces, link them to the number of electrons, and conclude about the energy needed to separate molecules.
 - **Predict** (astatine): give the predicted property and the trend it comes from.
 
-## Related resources
+## More resources on this topic
 
 - [Physical properties of the Group 17 elements: revision notes](/resources/cambridge-a-level-chemistry-9701-as-physical-properties-of-the-group-17-elements-revision-notes/)
 - [Physical properties of the Group 17 elements: practice questions](/resources/cambridge-a-level-chemistry-9701-as-physical-properties-of-the-group-17-elements-practice/)

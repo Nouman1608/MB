@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -176,7 +176,7 @@ A base-10 log graph has gradient −0.434/CR, because lg e = 0.434, so CR = 0.43
 **How should you comment on the accuracy of a spreadsheet model of discharge?**
 Compare the model with the exact value as a difference or a percentage, state whether the model is too high or too low, and say that a smaller time step brings the model closer to the true curve. "More accurate" on its own is too vague.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/ocr-a-level-physics-charging-discharging-and-exponential-decay-in-rc-revision-notes/) and the [study guide](/resources/ocr-a-level-physics-charging-discharging-and-exponential-decay-in-rc/).
 - Check the [OCR A Level Physics hub](/boards/ocr/a-level/physics/) and the [checklist](/checklists/ocr/a-level/physics/).

@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers section 3.18, The impact of ethical considerations, of the AQA A-level Accounting (7127) specification (version 1.1, October 2026, for A-level exams from June 2019 onwards). The qualification is not tiered. The specification lists section 18 in the content assessed by both Paper 1 and Paper 2, each a 3-hour written exam. It also lists "analyse situations to identify ethical considerations and suggest appropriate actions" as a skill, so expect scenarios rather than bare definitions.
@@ -225,7 +225,7 @@ A qualified opinion says the financial statements give a true and fair view exce
 **Is CIMA a member of the CCAB?**
 No. CIMA, the Chartered Institute of Management Accountants, trains and regulates management accountants, but describing it as a CCAB member is a common error.
 
-## Next steps
+## More on this topic
 
 Test your recall with the [revision notes](/resources/aqa-a-level-accounting-the-impact-of-ethical-considerations-revision-notes/), then try the [practice questions](/resources/aqa-a-level-accounting-the-impact-of-ethical-considerations-practice/). Related topics: [limited company accounts](/resources/aqa-a-level-accounting-limited-company-accounts/) and the [exam preparation guide](/resources/aqa-a-level-accounting-exam-preparation/).
 

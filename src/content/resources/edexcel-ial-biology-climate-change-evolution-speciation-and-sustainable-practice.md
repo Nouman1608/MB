@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -154,7 +154,7 @@ The values at 18 °C and 28 °C come from one experiment. The values at 14 °C a
 - Describing speciation without isolation and without loss of fertile interbreeding.
 - Calling biofuels carbon neutral with no limitation.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/edexcel-ial-biology-climate-change-evolution-speciation-and-sustainable-revision-notes/) and the [study guide](/resources/edexcel-ial-biology-climate-change-evolution-speciation-and-sustainable/).
 - Visit the [course hub](/boards/edexcel/a-level/biology/) and the [checklist](/checklists/edexcel/a-level/biology/).

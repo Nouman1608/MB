@@ -18,7 +18,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-19
 updatedDate: 2026-08-25
 featured: false
@@ -119,7 +119,7 @@ No. The goal is the correct power of ten, not an exact value, so give the final 
 **What are typical order-of-magnitude values to remember?**
 Useful anchors include the mass of an adult human, about 10² kg, the diameter of an atom, about 10⁻¹⁰ m, and the speed of a walking person, about 1 m s⁻¹.
 
-## Related resources
+## More resources on this topic
 
 - [Estimation of Physical Quantities practice questions](/resources/aqa-alevel-physics-estimation-of-physical-quantities-practice/)
 - [Limitation of Physical Measurements](/resources/aqa-alevel-physics-limitation-of-physical-measurements/) — the previous sub-topic

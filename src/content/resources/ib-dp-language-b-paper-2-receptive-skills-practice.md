@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -232,7 +232,7 @@ quotations and your own words. **[8]**
 - Writing the first number or month heard before the speaker corrects it.
 - Summarising two passages one after the other when the question asks for a comparison.
 
-## Next steps
+## More on this topic
 
 - [Paper 2 revision notes](/resources/ib-dp-language-b-paper-2-receptive-skills-revision-notes/)
 - [Paper 2 study guide](/resources/ib-dp-language-b-paper-2-receptive-skills/)

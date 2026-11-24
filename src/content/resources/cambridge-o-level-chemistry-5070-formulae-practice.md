@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -199,7 +199,7 @@ Identify **two** errors and write the correct balanced equation. **[3]**
 - Splitting a precipitate or a metal into ions in an ionic equation.
 - Leaving out state symbols when the question asks for them.
 
-## Next steps
+## More on this topic
 
 - Recap with the [formulae revision notes](/resources/cambridge-o-level-chemistry-5070-formulae-revision-notes/).
 - Move on to the [relative masses of atoms and molecules practice questions](/resources/cambridge-o-level-chemistry-5070-relative-masses-of-atoms-and-molecules-practice/).

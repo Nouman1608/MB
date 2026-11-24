@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -204,7 +204,7 @@ Draw the line given by the other side of the equation, such as y = 9, on the sam
 **Which part of the AQA 8300 specification covers graphs?**
 Section 3.2.2 Graphs, references A8 to A16, covers coordinates, straight lines, quadratic and other graphs, transformations, real-life graphs, gradients and areas under graphs, and circle equations.
 
-## Next steps
+## More on this topic
 
 - [Graphs revision notes](/resources/aqa-gcse-maths-8300-graphs-revision-notes/)
 - [Graphs study guide](/resources/aqa-gcse-maths-8300-graphs/)

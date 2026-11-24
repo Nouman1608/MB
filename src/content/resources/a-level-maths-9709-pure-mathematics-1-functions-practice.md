@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -181,7 +181,7 @@ A stretch parallel to the x-axis with scale factor ½. Using scale factor 2, or 
 **What is the domain of an inverse function?**
 The domain of f⁻¹ is the range of f. Using the domain of f instead is a common error.
 
-## Next steps
+## More on this topic
 
 - [Functions revision notes](/resources/a-level-maths-9709-pure-mathematics-1-functions-revision-notes/)
 - [Functions study guide](/resources/a-level-mathematics-pure-mathematics-1-functions/)

@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-29
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -155,7 +155,7 @@ The real exam marks extended answers with levels of response, not point by point
 **What are common mistakes in ethnicity and attainment answers?**
 Students often write that "ethnic minorities underachieve" when some groups do better than average, ignore the item in application questions, and treat girls or boys as a single group with no reference to class or ethnicity.
 
-## Next steps
+## More on this topic
 
 - Check your weak spots with the [diagnostics](/diagnostics/).
 - Revise gender identity with the [Socialisation and methods practice questions](/resources/a-sociology-socialisation-methods-practice/).

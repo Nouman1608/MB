@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -191,7 +191,7 @@ The conflict. Describing only the intended effect of a policy, without how it ma
 **What should I write after a current account calculation?**
 Name the result as a deficit or a surplus, not just its sign, and give the unit.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/aqa-gcse-economics-economic-objectives-of-the-government-conflicts-other-revision-notes/) and re-read the [study guide](/resources/aqa-gcse-economics-economic-objectives-of-the-government-conflicts-other/).
 - Check coverage on the [checklist](/checklists/aqa/gcse/economics/) and see the [AQA GCSE Economics hub](/boards/aqa/gcse/economics/).

@@ -27,7 +27,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-03
 featured: false
 ---
@@ -230,7 +230,7 @@ No. Unseen work has no biography or critical context to fall back on, so the who
 **What is the three-step method for unseen texts?**
 Work through structure, then language, then effect, for both unseen poetry and unseen prose. Using the same method each time builds consistency under exam pressure.
 
-## Related resources
+## More resources on this topic
 
 - [Poetry and Unseen Texts study guide](/resources/igcse-oxfordaqa-english-literature-poetry-and-unseen-texts/)
 - [Poetry and Unseen Texts practice questions](/resources/igcse-oxfordaqa-english-literature-poetry-unseen-practice/)

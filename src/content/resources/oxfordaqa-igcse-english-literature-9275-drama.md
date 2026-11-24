@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-15
 featured: false
 ---
@@ -198,7 +198,7 @@ play from memory.
   <figcaption>A compact bank of short quotations beats trying to memorise a whole text.</figcaption>
 </figure>
 
-## Related resources
+## More resources on this topic
 
 - [Drama revision notes](/resources/oxfordaqa-igcse-english-literature-9275-drama-revision-notes/)
 - [Drama practice questions](/resources/oxfordaqa-igcse-english-literature-9275-drama-practice/)

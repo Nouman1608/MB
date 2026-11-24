@@ -33,7 +33,7 @@ author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 featured: false
 ---
@@ -274,7 +274,7 @@ Sedimentation and filtration remove solids, carbon removes tastes and odours, an
 **What is the difference between complete and incomplete combustion products?**
 Complete combustion, with enough oxygen, gives carbon dioxide. Incomplete combustion, with too little oxygen, gives carbon monoxide and/or particulates instead.
 
-## Related resources
+## More resources on this topic
 
 - [Acids, Bases and Salts](/resources/acids-bases-and-salts/) — the salt chemistry behind fertilisers and water treatment
 - [Redox Reactions](/resources/redox-reactions/) — combustion as oxidation, relevant to air pollutant sources

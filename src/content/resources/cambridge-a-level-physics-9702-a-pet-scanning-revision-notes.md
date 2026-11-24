@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -119,7 +119,7 @@ Example β⁺ decay: ¹⁸₉F → ¹⁸₈O + ⁰₊₁e + ν
 
 **Answers:** 1. A substance containing radioactive nuclei introduced into the body and absorbed by the tissue being studied. 2. β⁺ decay. 3. A proton changes into a neutron, emitting a positron and a neutrino. 4. A particle and its antiparticle meet and their mass-energy is converted into photons. 5. Mass-energy and momentum (also charge). 6. The pair has nearly zero momentum; two equal photons in opposite directions have zero total momentum, but one photon cannot. 7. E = 9.11 × 10⁻³¹ × (3.00 × 10⁸)² = 8.20 × 10⁻¹⁴ J. 8. λ = hc/E = 2.43 × 10⁻¹² m. 9. Long enough to prepare and inject it with useful activity remaining; short enough that the patient's dose stays low after the scan. 10. x = 3.00 × 10⁸ × 250 × 10⁻¹² / 2 = 0.0375 m (3.8 cm), nearer the detector reached first. 11. They are detected at almost the same time on opposite sides of the ring. 12. A high concentration of tracer, meaning tissue that is absorbing more of it (for example, more active tissue).
 
-## Related resources
+## More resources on this topic
 
 - [Medical Physics revision notes](/resources/a-physics-medical-physics-revision-notes/) — the whole of Topic 24
 - [PET scanning practice questions](/resources/cambridge-a-level-physics-9702-a-pet-scanning-practice/)

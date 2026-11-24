@@ -28,7 +28,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -246,7 +246,7 @@ benefits with no counterargument reads as description.
 - At HL, describing a plan without weighing it or answering an objection.
 - In extended writing, conventions at the start that vanish by the end.
 
-## Next steps
+## More on this topic
 
 - Recap with the [Paper 1 revision notes](/resources/ib-dp-language-b-paper-1-writing-text-types-revision-notes/).
 - Reread the [Paper 1 study guide](/resources/ib-dp-language-b-paper-1-writing-text-types/), with its worked examples.

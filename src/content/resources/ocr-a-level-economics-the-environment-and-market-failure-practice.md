@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -173,7 +173,7 @@ A tax sets the price of pollution and lets the quantity adjust, while tradable p
 **How should you evaluate whether economic growth harms the environment?**
 Weigh both sides rather than saying growth must harm or must help. Growth harms the environment only if emissions per unit of output do not fall fast enough, so the answer depends on decoupling, technology and policy.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/ocr-a-level-economics-the-environment-and-market-failure/) on any weak area.
 - Use the [revision notes](/resources/ocr-a-level-economics-the-environment-and-market-failure-revision-notes/) for a final check.

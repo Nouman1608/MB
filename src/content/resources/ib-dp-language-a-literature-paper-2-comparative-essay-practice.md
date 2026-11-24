@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -209,7 +209,7 @@ reader learns" [1].
 - Context given as dates or biography with no link to method.
 - Ignoring "to what extent" and giving no judgement.
 
-## Next steps
+## More on this topic
 
 - Recall drill: [Paper 2 revision notes](/resources/ib-dp-language-a-literature-paper-2-comparative-essay-revision-notes/)
 - Full method: [Paper 2 study guide](/resources/ib-dp-language-a-literature-paper-2-comparative-essay/)

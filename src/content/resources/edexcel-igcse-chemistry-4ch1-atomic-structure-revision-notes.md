@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -147,6 +147,6 @@ Reminder: lithium has Ar 6.9 with lithium-6 and lithium-7. 6x + 7(100 − x) = 6
 11. It is a ratio: a mass compared with 1/12 of the mass of a carbon-12 atom.
 12. Chlorine is a mixture of isotopes (chlorine-35 and chlorine-37), and Ar is a weighted mean of their masses.
 
-## Next steps
+## More on this topic
 
 Atomic number feeds straight into electron shells and the group and period of each element: see [the Periodic Table revision notes](/resources/edexcel-igcse-chemistry-4ch1-the-periodic-table-revision-notes/).

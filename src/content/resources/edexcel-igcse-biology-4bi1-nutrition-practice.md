@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -208,7 +208,7 @@ Also accept, as an alternative to any one point: a lacteal absorbs fatty acids a
 - Dividing by the wrong value in percentage-change questions.
 - In the food energy practical, forgetting to divide by the mass of food, or giving J when kJ was asked for.
 
-## Next steps
+## More on this topic
 
 - Recap with the [nutrition revision notes](/resources/edexcel-igcse-biology-4bi1-nutrition-revision-notes/).
 - Rework anything you missed with the [nutrition study guide](/resources/edexcel-igcse-biology-4bi1-nutrition/).

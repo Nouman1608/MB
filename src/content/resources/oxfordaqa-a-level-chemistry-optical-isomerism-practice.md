@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -176,7 +176,7 @@ Learn the ideas first in the [optical isomerism study guide](/resources/oxfordaq
 - Giving a bare total when counting isomers, with no list or reason.
 - In yield calculations, halving the maximum mass but forgetting the percentage yield, or the other way round.
 
-## Next steps
+## More on this topic
 
 - [Optical isomerism revision notes](/resources/oxfordaqa-a-level-chemistry-optical-isomerism-revision-notes/)
 - [Optical isomerism study guide](/resources/oxfordaqa-a-level-chemistry-optical-isomerism/)

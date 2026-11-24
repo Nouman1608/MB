@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -129,7 +129,7 @@ Learn the content first from the [study guide](/resources/oxfordaqa-a-level-econ
 - Ignoring the state of the economy, such as spare capacity, when choosing between policies.
 - Giving one-sided answers on deficits and surpluses, with no judgement.
 
-## Next steps
+## More on this topic
 
 - Go back over weak points in the [revision notes](/resources/oxfordaqa-a-level-economics-the-balance-of-payments-revision-notes/) and the [study guide](/resources/oxfordaqa-a-level-economics-the-balance-of-payments/).
 - Tick off what you can do on the [checklist](/checklists/oxfordaqa/a-level/economics/); the [course hub](/boards/oxfordaqa/a-level/economics/) lists related pages.

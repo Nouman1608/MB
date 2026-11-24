@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -167,7 +167,7 @@ Learn the methods first in the [Indices I study guide](/resources/cambridge-igcs
 
 First make every base the same, then write the index arithmetic as a separate line, and only then evaluate. For fractional indices, deal with the minus sign last ("one over"), the denominator first (root) and the numerator second (power). Convert decimal indices and decimal bases to fractions before starting.
 
-## Next steps
+## More on this topic
 
 - Review the rules in the [Indices I revision notes](/resources/cambridge-igcse-mathematics-0580-indices-i-revision-notes/).
 - Mixed practice: [powers, roots and indices practice questions](/resources/igcse-mathematics-0580-powers-roots-and-indices-practice/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -234,7 +234,7 @@ Find k and m. **[2]**
 - (Extended) Dividing only some terms when rearranging ax + by = c.
 - Reading a crossing point without checking it in both equations.
 
-## Next steps
+## More on this topic
 
 - Review the methods in the [drawing linear graphs study guide](/resources/cambridge-igcse-mathematics-0580-drawing-linear-graphs/).
 - Recap with the [drawing linear graphs revision notes](/resources/cambridge-igcse-mathematics-0580-drawing-linear-graphs-revision-notes/).

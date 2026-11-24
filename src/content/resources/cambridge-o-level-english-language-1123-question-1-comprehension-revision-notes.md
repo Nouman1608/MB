@@ -17,7 +17,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -173,7 +173,7 @@ either question; both depend on knowing the whole narrative.
 11. Any three of motive, feeling, relationship, change, atmosphere.
 12. Sub-questions follow the story, and implicit meanings often depend on later events.
 
-## Related resources
+## More resources on this topic
 
 - [Question 1 Comprehension: practice questions](/resources/cambridge-o-level-english-language-1123-question-1-comprehension-practice/)
 - [Paper 1 Reading revision notes](/resources/o-level-english-language-paper-1-reading-revision-notes/)

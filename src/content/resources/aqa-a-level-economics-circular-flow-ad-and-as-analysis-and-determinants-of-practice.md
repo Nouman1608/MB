@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -173,7 +173,7 @@ State what happens to both the price level and real output, and use the right cu
 **Which AQA A-level Economics content do these questions practise?**
 They practise the circular flow of income, AD/AS analysis and the determinants of aggregate demand from AQA A-level Economics 7136, which AS Economics 7135 shares.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/aqa-a-level-economics-circular-flow-ad-and-as-analysis-and-determinants-of-revision-notes/).
 - Visit the [AQA A-level Economics hub](/boards/aqa/a-level/economics/) and tick off topics on the [checklist](/checklists/aqa/a-level/economics/).

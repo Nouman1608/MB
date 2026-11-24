@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide follows sections 3.5.3 (Progressive waves) and 3.5.4 (Longitudinal and transverse waves) of the OxfordAQA International AS and A-level Physics (9630) specification, Version 4.4, for exams from May/June 2020 onwards. Both sections are shared AS and A-level content. Use it alongside the [revision notes](/resources/oxfordaqa-a-level-physics-progressive-waves-longitudinal-and-transverse-waves-revision-notes/) and the [practice questions](/resources/oxfordaqa-a-level-physics-progressive-waves-longitudinal-and-transverse-waves-practice/). The [course hub](/boards/oxfordaqa/a-level/physics/) and [checklist](/checklists/oxfordaqa/a-level/physics/) cover the rest of the course, and the [measurements guide](/resources/a-level-oxfordaqa-physics-measurements-and-their-errors/) covers units and significant figures.
@@ -277,7 +277,7 @@ Turning a vertical rod about its own axis changes nothing, because the rod stays
 - Saying polarisation "proves" light is a wave in general. It is evidence that it is a transverse wave.
 - Missing unit conversions: MHz, μs, nm.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [practice questions](/resources/oxfordaqa-a-level-physics-progressive-waves-longitudinal-and-transverse-waves-practice/), then use the [revision notes](/resources/oxfordaqa-a-level-physics-progressive-waves-longitudinal-and-transverse-waves-revision-notes/) to consolidate. The [exam preparation guide](/resources/oxfordaqa-a-level-physics-exam-preparation/) covers technique, and the free [diagnostics](/diagnostics/) show which topics need work.
 

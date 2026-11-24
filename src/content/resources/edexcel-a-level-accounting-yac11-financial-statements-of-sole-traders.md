@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -188,7 +188,7 @@ The statements also feed analysis. From Kessler Tools, gross profit as a percent
 - Read the notes under the trial balance before you start. Closing inventory, accruals, prepayments and depreciation instructions are always there.
 - Spend a minute checking that net assets equal capital. It is the fastest self-mark you have.
 
-## Related resources
+## More resources on this topic
 
 [Financial statements of organisations revision notes](/resources/edexcel-ial-accounting-financial-statements-of-organisations-revision-notes/) |
 [Sole trader practice questions](/resources/edexcel-a-level-accounting-yac11-financial-statements-of-sole-traders-practice/) |

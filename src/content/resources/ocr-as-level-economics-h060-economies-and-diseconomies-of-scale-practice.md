@@ -16,7 +16,7 @@ syllabusTopics:
 description: "Original OCR AS Level Economics (H060) practice questions on economies and diseconomies of scale, LRAC and minimum efficient scale, with answers."
 author: "marlbridge-academic-team"
 reviewStatus: "archived"
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The current H060 specification does not name economies or diseconomies of scale, which appear in the A Level (H460) costs topic, so a teacher should confirm whether this subtopic is examined at AS. Rechecked 2026-11-18: the owner reports that the teacher re-checked this page against the current H060 specification after the flag above and approved it as it stands. Archived 2026-11-19 (owner's decision): Version 3.0 of the H060 specification does not include this topic at AS, so the credit to salman-ahmad no longer applies."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The current H060 specification does not name economies or diseconomies of scale, which appear in the A Level (H460) costs topic, so a teacher should confirm whether this subtopic is examined at AS. Rechecked 2026-11-18: the owner reports that the teacher re-checked this page against the current H060 specification after the flag above and approved it as it stands. Archived 2026-11-19 (owner's decision): Version 3.0 of the H060 specification does not include this topic at AS, so the credit to salman-ahmad no longer applies. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -131,7 +131,7 @@ Compare the percentage change in total cost with the percentage change in output
 **Why do diseconomies of scale happen?**
 They are mainly managerial: as firms grow, communication, co-ordination and motivation become harder, so waste rises and average cost increases.
 
-## Next steps
+## More on this topic
 
 - Re-read the [economies of scale study guide](/resources/ocr-as-level-economics-h060-economies-and-diseconomies-of-scale/).
 - Recap with the [economies of scale revision notes](/resources/ocr-as-level-economics-h060-economies-and-diseconomies-of-scale-revision-notes/).

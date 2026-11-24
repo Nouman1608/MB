@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -187,7 +187,7 @@ Writing a statement as an expression and then simplifying it is a common way to 
 - When a question allows a truth table, use it as a **check** on your algebra, but follow the instruction of the question about which method to use.
 - When given a circuit, label the output of every gate with its sub-expression before you try to simplify.
 
-## Related resources
+## More resources on this topic
 
 - [Boolean algebra revision notes](/resources/aqa-a-level-computer-science-7517-boolean-algebra-revision-notes/)
 - [Boolean algebra practice questions](/resources/aqa-a-level-computer-science-7517-boolean-algebra-practice/)

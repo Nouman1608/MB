@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-15
 featured: false
 ---
@@ -154,7 +154,7 @@ Gregory argued that perception is **indirect** and **top-down**. The sensory inf
 
 In scenario questions, name the cue or factor and tie it to the details in the stem.
 
-## Next steps
+## More on this topic
 
 Condense this page with the [Perception revision notes](/resources/aqa-gcse-psychology-8182-perception-revision-notes/), then try the [Perception practice questions](/resources/aqa-gcse-psychology-8182-perception-practice/). For designing a perception study, see the [Research Methods guide](/resources/aqa-gcse-psychology-research-methods/).
 

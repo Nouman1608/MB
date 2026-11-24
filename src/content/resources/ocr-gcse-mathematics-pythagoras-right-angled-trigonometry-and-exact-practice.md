@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -145,7 +145,7 @@ These questions follow OCR GCSE (9-1) Mathematics J560, specification Version 2.
 - Missing units on lengths and areas.
 - In 3D, picking the half-diagonal of the base when the distance to the middle of an edge is needed, or the other way round.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/ocr-gcse-mathematics-pythagoras-right-angled-trigonometry-and-exact-revision-notes/) and the [study guide](/resources/ocr-gcse-mathematics-pythagoras-right-angled-trigonometry-and-exact/).
 - Find your weak topics with the [free 10-minute diagnostics](/diagnostics/).

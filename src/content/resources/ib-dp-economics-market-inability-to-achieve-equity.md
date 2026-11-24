@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers **sub-topic 2.12, the market's inability to achieve equity**, which is **HL only**. It follows the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. SL candidates do not study it. For the full course map see the [IB DP Economics hub](/boards/ib/ib-dp/economics/), and tick off what you know on the [printable checklist](/checklists/ib/ib-dp/economics/). Pair this guide with the [revision notes](/resources/ib-dp-economics-market-inability-to-achieve-equity-revision-notes/) and the [practice set](/resources/ib-dp-economics-market-inability-to-achieve-equity-practice/). To find your weak spots first, take one of the [free 10-minute diagnostics](/diagnostics/).
@@ -213,7 +213,7 @@ Generally no. The guide sets this sub-topic at AO2 depth, so focus on explaining
 **Why are some workers paid much more than others in a free market?**
 Wages are set by demand and supply in each labour market. Where a type of labour is scarce and strongly demanded, often because it needs years of training, its wage is high; where many people offer the same skill, the wage is low.
 
-## Next steps
+## More on this topic
 
 Work through the [revision notes](/resources/ib-dp-economics-market-inability-to-achieve-equity-revision-notes/) for a short version, then the [practice questions](/resources/ib-dp-economics-market-inability-to-achieve-equity-practice/). If you are unsure how this unit fits with demand, supply and equilibrium, read the [demand, supply and equilibrium study guide](/resources/ib-dp-economics-demand-supply-equilibrium/).
 

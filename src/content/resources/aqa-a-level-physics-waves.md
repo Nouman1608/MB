@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches section 3.3 Waves of the AQA AS and A-level Physics specification (7407/7408, version 1.4, AS and A-level exams June 2016 onwards). It covers 3.3.1 Progressive and stationary waves and 3.3.2 Refraction, diffraction and interference. Waves is AS and A-level content, not A-level only: at A-level it is assessed in Paper 1 (sections 1 to 5 and 6.1) and assumed knowledge in Paper 2. It is not one of the optional topics (sections 3.9 to 3.13) that you choose between for Paper 3 Section B.
@@ -297,7 +297,7 @@ The cladding:
 - Rounding the highest grating order up instead of down.
 - Writing sin θc = n₁/n₂ (gives a value above 1).
 
-## Next steps
+## More on this topic
 
 Use the [revision notes](/resources/aqa-a-level-physics-waves-revision-notes/), then the [practice questions](/resources/aqa-a-level-physics-waves-practice/). See the [exam preparation guide](/resources/aqa-a-level-physics-exam-preparation/) and the free [diagnostics](/diagnostics/).
 

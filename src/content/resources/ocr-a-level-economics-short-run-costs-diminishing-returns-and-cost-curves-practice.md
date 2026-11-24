@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -186,7 +186,7 @@ A rise in fixed costs shifts average fixed cost and average cost up, but margina
 **How do you get marks for explaining why MC cuts AC at its lowest point?**
 Give the reason, not just the fact: while marginal cost is below average cost it pulls the average down, and once it is above it pulls the average up, so the two curves meet at the minimum of average cost.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/ocr-a-level-economics-short-run-costs-diminishing-returns-and-cost-curves/) on weak areas.
 - Use the [revision notes](/resources/ocr-a-level-economics-short-run-costs-diminishing-returns-and-cost-curves-revision-notes/) for a final check.

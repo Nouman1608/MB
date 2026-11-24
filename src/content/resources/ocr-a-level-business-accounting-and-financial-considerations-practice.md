@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -160,7 +160,7 @@ Practice varies on which profit figure is the numerator, so stating the formula 
 **How do you score well on an evaluate question about finance decisions?**
 Make a reasoned choice that uses the case figures, such as interest cover and gearing, and bring in qualitative factors such as control. Listing pros and cons without a judgement scores less.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/ocr-a-level-business-accounting-and-financial-considerations-revision-notes/)
 - [Study guide](/resources/ocr-a-level-business-accounting-and-financial-considerations/)

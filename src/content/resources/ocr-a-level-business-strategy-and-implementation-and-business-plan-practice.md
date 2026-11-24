@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -139,7 +139,7 @@ Explain how the plan's contents, such as financial forecasts, let the bank judge
 **How should a strategy evaluation end?**
 End with a clear judgement that answers the question, supported by the most important reason from the case. Repeating earlier points instead of reaching a decision is a common way to miss the top marks.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ocr-a-level-business-strategy-and-implementation-and-business-plan-revision-notes/) and [study guide](/resources/ocr-a-level-business-strategy-and-implementation-and-business-plan/).
 - Return to the [course hub](/boards/ocr/a-level/business/) and the [checklist](/checklists/ocr/a-level/business/).

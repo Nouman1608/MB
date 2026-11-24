@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide covers the first part of probability in the OxfordAQA International GCSE Mathematics specification (9260, Version 5.1, for exams May/June 2018 onwards): statements S9 to S13 in section 3.4.3. All five statements are Core content, so they can be assessed on both the Core and the Extension papers. There is no Extension only content in this unit.
@@ -265,7 +265,7 @@ Size is not the only issue. A sample of 200 taken only from the students who arr
 - Writing "the more trials, the closer it gets, so 1000 trials are always exact". It is an estimate, however large the sample.
 - Rounding too early. Keep the exact fraction until the end, and answer to the accuracy asked.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/oxfordaqa-igcse-mathematics-probability-scale-relative-frequency-expected-practice/), then use the [revision notes](/resources/oxfordaqa-igcse-mathematics-probability-scale-relative-frequency-expected-revision-notes/) as a final check. Tick off S9 to S13 on the [checklist](/checklists/oxfordaqa/igcse/mathematics/).
 

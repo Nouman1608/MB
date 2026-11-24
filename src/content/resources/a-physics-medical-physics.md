@@ -25,7 +25,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false
@@ -324,7 +324,7 @@ No. 1.022 MeV is the total energy released by an electron-positron annihilation;
 **Is ultrasound attenuation in the Cambridge 9702 syllabus?**
 Yes. Cambridge 9702 requires you to recall and use I = I₀e^(−μx) for the attenuation of ultrasound in matter, as well as for X-rays.
 
-## Related resources
+## More resources on this topic
 
 - [Nuclear Physics](/resources/a-physics-nuclear-physics/) — the previous A Level topic
 - [Astronomy and Cosmology](/resources/a-physics-astronomy-and-cosmology/) — the final A Level topic

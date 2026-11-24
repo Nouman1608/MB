@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -170,7 +170,7 @@ Predict and justify the effect on the equilibrium yield of phenylethene of:
 - Claiming a catalyst increases the yield.
 - Not quoting figures in a "use the data" question.
 
-## Next steps
+## More on this topic
 
 - Revise with the [kinetics and equilibria revision notes](/resources/edexcel-ial-chemistry-introduction-to-kinetics-and-equilibria-revision-notes/).
 - Reread any weak area in the [kinetics and equilibria study guide](/resources/edexcel-ial-chemistry-introduction-to-kinetics-and-equilibria/).

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-24
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -180,7 +180,7 @@ Multiply the numerator and denominator by the conjugate, 3 − √2. The denomin
 **Can you add surds with different roots?**
 Only surds that are multiples of the same root can be added. Simplify each surd first, for example √72 = 6√2, then collect like surds.
 
-## Next steps
+## More on this topic
 
 - Revisit the [study guide](/resources/igcse-mathematics-0580-exponential-growth-decay-and-surds/) for any question you missed.
 - Use the [Number revision notes](/resources/igcse-mathematics-number-revision-notes/) for a quick recap.

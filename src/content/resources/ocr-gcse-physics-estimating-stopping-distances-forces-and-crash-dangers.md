@@ -22,7 +22,7 @@ reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide is aligned to the OCR GCSE (9-1) Gateway Science Physics A specification (J249), Version 5.0, July 2026. It covers statements P8.1f to P8.1i in topic P8.1, Physics on the move. Only P8.1h is printed in bold in the specification, so it is Higher Tier only. P8.1f, P8.1g and P8.1i are assessed in both tiers. P8.1f, P8.1h and P8.1i are marked in the specification as separate Physics only content (not in Combined Science). The sibling unit on everyday speeds, reaction times and the factors that change stopping distance covers P8.1a to P8.1e, so this guide builds on those ideas rather than repeating them.
@@ -216,7 +216,7 @@ Skid marks 30 m long suggest a steady deceleration of about 7 m/s² on a dry roa
 - Using the weight of the car as the braking force.
 - Giving an estimate to five significant figures, or with no stated assumptions.
 
-## Next steps
+## More on this topic
 
 Try the [practice questions](/resources/ocr-gcse-physics-estimating-stopping-distances-forces-and-crash-dangers-practice/), then check yourself with the [revision notes](/resources/ocr-gcse-physics-estimating-stopping-distances-forces-and-crash-dangers-revision-notes/) and the [diagnostics](/diagnostics/).
 

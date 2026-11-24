@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -187,7 +187,7 @@ An example is a protein used to treat a blood-clotting disorder or an inherited 
 
 **Answers:** (1) A small piece of tissue used to start a culture. (2) To prevent bacteria and fungi growing on the nutrient medium. (3) Mitosis. (4) So that all the genes of the lamb come from the donor nucleus. (5) It makes a human protein in its milk, and cloning gives many such animals.
 
-## Next steps
+## More on this topic
 
 Practise with the [cloning practice questions](/resources/edexcel-igcse-biology-4bi1-cloning-practice/) and revise with the [cloning revision notes](/resources/edexcel-igcse-biology-4bi1-cloning-revision-notes/). To revisit the wider topic, see the [use of biological resources revision notes](/resources/edexcel-igcse-biology-4bi1-use-of-biological-resources-revision-notes/).
 

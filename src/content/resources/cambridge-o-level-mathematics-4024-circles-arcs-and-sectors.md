@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -241,7 +241,7 @@ If a question says "in terms of π" or "leave your answer in terms of π", write
 - **Find** the radius from a circumference or area: rearrange first.
 - Sketch the sector and mark the angle and radius.
 
-## Next steps
+## More on this topic
 
 Work through the [circles, arcs and sectors practice questions](/resources/cambridge-o-level-mathematics-4024-circles-arcs-and-sectors-practice/) and recap with the [circles, arcs and sectors revision notes](/resources/cambridge-o-level-mathematics-4024-circles-arcs-and-sectors-revision-notes/).
 

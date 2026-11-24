@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: The specification lists no content statements under this heading, which introduces the Article rows that follow; please confirm this overview of the Convention's structure is the intended scope."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: The specification lists no content statements under this heading, which introduces the Article rows that follow; please confirm this overview of the Convention's structure is the intended scope. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -177,7 +177,7 @@ the rights of others. 8. It applies only to enjoyment of other Convention rights
 UK has not ratified. 9. Protocols 6 and 13; yes, both. 10. References to subsidiarity and the margin of
 appreciation in the preamble, and a four-month time limit. 11. 17. 12. Article 41 and Article 46.
 
-## Related resources
+## More resources on this topic
 
 [European Convention on Human Rights study guide](/resources/aqa-a-level-law-7162-the-european-convention-on-human-rights-1953/) |
 [European Convention on Human Rights practice questions](/resources/aqa-a-level-law-7162-the-european-convention-on-human-rights-1953-practice/) |

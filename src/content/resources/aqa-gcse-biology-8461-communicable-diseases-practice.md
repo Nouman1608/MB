@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -194,7 +194,7 @@ Evaluate this statement. **[4]**
 - Saying fungicides or antibiotics work against viruses.
 - Ordering drug-trial stages with patients before healthy volunteers.
 
-## Next steps
+## More on this topic
 
 - [Communicable diseases study guide](/resources/aqa-gcse-biology-8461-communicable-diseases/)
 - [Communicable diseases revision notes](/resources/aqa-gcse-biology-8461-communicable-diseases-revision-notes/)

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -144,7 +144,7 @@ If instead the acid were limiting (for example, 10.0 cm³ of 0.20 mol dm⁻³ ac
 - **Sketch** or **draw** a graph for a second experiment: start from the origin, show a different initial gradient and decide the final level from the limiting reagent.
 - **Compare**: refer to both experiments in each sentence, for example "B's initial gradient is less steep than A's because...".
 
-## Next steps
+## More on this topic
 
 Summarise this page with the [3.1.6.4 revision notes](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-6-4-revision-notes/), then try the [3.1.6.4 practice questions](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-6-4-practice/). The next point, [catalysts (3.1.6.5)](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-6-5/), changes the other factor in the rate: the proportion of collisions that can succeed.
 

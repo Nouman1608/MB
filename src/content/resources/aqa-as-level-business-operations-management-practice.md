@@ -22,7 +22,7 @@ reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 updatedDate: 2026-11-05
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -134,7 +134,7 @@ These questions cover **operations management** for AQA AS-Level Business (7137)
 - Choosing manual or automated production without referring to the volume at which costs are equal.
 - Ending an evaluation with advantages and disadvantages but no decision and no condition on which it depends.
 
-## Next steps
+## More on this topic
 
 - Revise with the [operations management revision notes](/resources/aqa-as-level-business-operations-management-revision-notes/) and the [study guide](/resources/aqa-as-level-business-operations-management/).
 - See the [AQA AS Business hub](/boards/aqa/as-level/business/) and the [printable checklist](/checklists/aqa/as-level/business/).

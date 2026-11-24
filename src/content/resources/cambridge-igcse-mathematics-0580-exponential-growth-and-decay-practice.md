@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -162,7 +162,7 @@ No. Try whole numbers of periods and show the values either side of the target, 
 **What is the difference between this and compound interest?**
 Compound interest is one example of exponential growth. The same multiplier method works for populations, depreciation and medicine levels.
 
-## Next steps
+## More on this topic
 
 - Re-read the method in the [exponential growth and decay study guide](/resources/cambridge-igcse-mathematics-0580-exponential-growth-and-decay/).
 - More Extended Topic 1 questions: the [Number (Extended) practice questions](/resources/igcse-mathematics-number-extended-practice/).

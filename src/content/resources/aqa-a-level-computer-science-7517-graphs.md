@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -169,7 +169,7 @@ This graph is **sparse** (few edges compared with the number of possible edges),
 - **Compare**: one point about memory and one about operation speed, each tied to the graph's density or the program's main task.
 - **Justify a representation**: quote the scenario's numbers (vertices, edges per vertex) to show whether it is sparse.
 
-## Related resources
+## More resources on this topic
 
 - [Graphs revision notes](/resources/aqa-a-level-computer-science-7517-graphs-revision-notes/)
 - [Graphs practice questions](/resources/aqa-a-level-computer-science-7517-graphs-practice/)

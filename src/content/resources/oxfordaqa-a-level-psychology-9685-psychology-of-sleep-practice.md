@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-29
 featured: false
 ---
@@ -178,7 +178,7 @@ On the first night the unfamiliar lab and electrodes often disturb sleep, so the
 **What are common mistakes in Psychology of sleep answers?**
 Students often mix up the SCN (pacemaker), light (zeitgeber) and melatonin (hormone), ignore the directions and timings given in a scenario, and treat correlational evidence as proof of cause.
 
-## Next steps
+## More on this topic
 
 - Check gaps with the [Psychology of sleep revision notes](/resources/oxfordaqa-a-level-psychology-9685-psychology-of-sleep-revision-notes/) and the [9685 exam preparation guide](/resources/oxfordaqa-a-level-psychology-exam-preparation/).
 - Find your weaker topics with our [diagnostics](/diagnostics/).

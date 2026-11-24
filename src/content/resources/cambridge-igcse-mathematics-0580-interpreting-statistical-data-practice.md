@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -213,7 +213,7 @@ Athlete B: median **6.2 m** [1]; LQ **5.6 m**, UQ **6.7 m** [1]
 - Taking a median from unordered data.
 - Reasons such as "it might be wrong" that do not refer to the situation in the question.
 
-## Next steps
+## More on this topic
 
 - Re-read the [interpreting statistical data study guide](/resources/cambridge-igcse-mathematics-0580-interpreting-statistical-data/).
 - Practise the measures themselves with the [averages and range practice questions](/resources/cambridge-igcse-mathematics-0580-averages-and-range-practice/).

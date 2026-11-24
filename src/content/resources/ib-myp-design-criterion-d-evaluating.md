@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -200,7 +200,7 @@ Improvements then target the screens where users hesitated or failed, and impact
 - Treating impact as a list of the product's features rather than its effect on people.
 - Writing the evaluation after memory has faded. Record results on the day.
 
-## Next steps
+## More on this topic
 
 Condense this with the [revision notes](/resources/ib-myp-design-criterion-d-evaluating-revision-notes/), then try the [practice questions](/resources/ib-myp-design-criterion-d-evaluating-practice/). For the whole folder, read [ePortfolio preparation](/resources/ib-myp-design-eportfolio-exam-preparation/) and [how MYP Design is assessed](/resources/ib-myp-design-assessment-revision-notes/). Tick progress on the [MYP Design checklist](/checklists/ib/ib-myp/myp-design/).
 

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -123,7 +123,7 @@ The copper cable is more than three times heavier, so aluminium is chosen becaus
 - **Suggest:** choose from data, then justify using the column that matters for that job. Ignore columns that do not matter, and say why if the question asks you to compare.
 - **Calculate:** use density = mass ÷ volume, show the formula, and give units.
 
-## Related resources
+## More resources on this topic
 
 - [Uses of metals revision notes](/resources/cambridge-igcse-chemistry-0620-uses-of-metals-revision-notes/) and [practice questions](/resources/cambridge-igcse-chemistry-0620-uses-of-metals-practice/)
 - [Properties of metals study guide](/resources/cambridge-igcse-chemistry-0620-properties-of-metals/), for the physical properties these uses depend on

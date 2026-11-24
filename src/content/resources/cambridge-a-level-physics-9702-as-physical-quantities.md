@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -146,7 +146,7 @@ One or two significant figures. The aim is the right order of magnitude, with ea
 **Does every physical quantity have a unit?**
 Every quantity has a magnitude and a unit, but for a ratio of like quantities, such as efficiency or strain, the units cancel and the value is a pure number.
 
-## Related resources
+## More resources on this topic
 
 - [Physical quantities revision notes](/resources/cambridge-a-level-physics-9702-as-physical-quantities-revision-notes/)
 - [Physical quantities practice questions](/resources/cambridge-a-level-physics-9702-as-physical-quantities-practice/)

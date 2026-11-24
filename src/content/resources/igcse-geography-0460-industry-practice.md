@@ -22,6 +22,7 @@ publishedDate: 2026-09-29
 featured: false
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
+reviewNote: "2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 reviewedDate: 2026-10-09
 ---
 
@@ -153,7 +154,7 @@ Choose the best site for the plant. Justify your choice and explain why you reje
 - Using a case study with no real names, places or dates.
 - Writing a one-sided answer to a "to what extent" question.
 
-## Next steps
+## More on this topic
 
 - Check gaps in your knowledge with our [diagnostics](/diagnostics/).
 - Review settlement and urban land use with the [Population and Settlement practice questions](/resources/population-and-settlement-practice/).

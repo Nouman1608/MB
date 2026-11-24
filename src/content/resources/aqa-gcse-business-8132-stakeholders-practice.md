@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -129,7 +129,7 @@ Evaluate whether Coldwater Quarry should go ahead with the extension, considerin
 - Analysis with many groups but no developed chains.
 - Evaluations that never say how to reduce harm to the losing group.
 
-## Next steps
+## More on this topic
 
 - Re-read the [stakeholders study guide](/resources/aqa-gcse-business-8132-stakeholders/).
 - Recap with the [stakeholders revision notes](/resources/aqa-gcse-business-8132-stakeholders-revision-notes/).

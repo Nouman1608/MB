@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches section 4.3 Incomplete records of the Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016. It sits in Topic 4, The preparation of financial statements, which Paper 2 assesses (1 hour 15 minutes, 50 marks). The specification says Paper 2 also builds on topics 1-3, so expect to use your control account skills here. All amounts below are in dollars and every business is invented.
@@ -292,7 +292,7 @@ Closing equity equals net assets, so the work is internally consistent. If it do
 - Calculating margin on cost or mark-up on revenue.
 - Charging the cash paid for rent or electricity instead of the amount for the year.
 
-## Next steps
+## More on this topic
 
 Condense this with the [revision notes](/resources/edexcel-igcse-accounting-incomplete-records-revision-notes/), then test yourself with the [practice questions](/resources/edexcel-igcse-accounting-incomplete-records-practice/). Tick off what you can do on the [checklist](/checklists/edexcel/igcse/accounting/) and try the [diagnostics](/diagnostics/).
 

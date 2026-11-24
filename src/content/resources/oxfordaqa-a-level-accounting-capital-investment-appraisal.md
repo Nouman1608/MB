@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches section **3.2.3 Capital investment appraisal** of the OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for International A-level exams from May/June 2026 onwards. Section 3.2.3 is **International A-level only**, assessed in Paper 4: Accounting for analysis and decision making. The businesses and numbers are made up, and all money is in dollars.
@@ -245,7 +245,7 @@ Pellingford Lodge, a country hotel, can fund only one project. Its cost of capit
 - Calling a project acceptable because undiscounted inflows exceed the outlay, as Wexcombe shows.
 - Ending an evaluation without a decision.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/oxfordaqa-a-level-accounting-capital-investment-appraisal-practice/), then condense with the [revision notes](/resources/oxfordaqa-a-level-accounting-capital-investment-appraisal-revision-notes/). Check your wider readiness with a [free diagnostic](/diagnostics/).
 

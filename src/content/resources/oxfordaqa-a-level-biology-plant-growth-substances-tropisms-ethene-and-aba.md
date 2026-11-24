@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers *OxfordAQA International AS and A-level Biology (9610)*, Version 5.1, section 3.4.5 (control systems in plants: 3.4.5.1 to 3.4.5.3) and Required practical 10. The specification places this content in Unit 4 (Control), an International A-level only unit. Revise it with the [revision notes](/resources/oxfordaqa-a-level-biology-plant-growth-substances-tropisms-ethene-and-aba-revision-notes/), then test yourself with the [practice questions](/resources/oxfordaqa-a-level-biology-plant-growth-substances-tropisms-ethene-and-aba-practice/). Use the [course hub](/boards/oxfordaqa/a-level/biology/) to see neighbouring topics, tick items off on the [printable checklist](/checklists/oxfordaqa/a-level/biology/), and check your starting point with a [free diagnostic](/diagnostics/).
@@ -220,7 +220,7 @@ mean rate of closure = 6.3 / 30 = 0.21 um per minute
 - Saying water potential falls when ions leave. The specification states that it rises.
 - Quoting a percentage change without the base value. Divide by the control or the original.
 
-## Next steps
+## More on this topic
 
 Condense this into notes with the [revision notes](/resources/oxfordaqa-a-level-biology-plant-growth-substances-tropisms-ethene-and-aba-revision-notes/), then answer the [practice questions](/resources/oxfordaqa-a-level-biology-plant-growth-substances-tropisms-ethene-and-aba-practice/). For exam technique across the course, see the [exam preparation page](/resources/oxfordaqa-a-level-biology-exam-preparation/).
 

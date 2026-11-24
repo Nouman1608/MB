@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -147,7 +147,7 @@ harm the environment, so chemists look for high atom economy routes.
 9. Any two of atom economy, yield, rate, equilibrium position, usefulness of by-products.
 10. If the by-product can be sold, a low atom economy matters less.
 
-## Next steps
+## More on this topic
 
 - [Yield and atom economy study guide](/resources/aqa-gcse-chemistry-8462-yield-and-atom-economy/)
 - [Yield and atom economy practice questions](/resources/aqa-gcse-chemistry-8462-yield-and-atom-economy-practice/)

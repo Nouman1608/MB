@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -229,7 +229,7 @@ particles together, breaking off corners. 10. For example flood control and year
 and the resettlement of Nubian people (or delta erosion, bilharzia). 12. Water leaves the straightened
 stretch faster and arrives downstream in a larger, quicker peak.
 
-## Related resources
+## More resources on this topic
 
 - [Rivers study guide](/resources/igcse-geography-rivers/)
 - [The Natural Environment revision notes (whole theme)](/resources/igcse-geography-natural-environment-revision-notes/)

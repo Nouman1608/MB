@@ -41,7 +41,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-29
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -187,7 +187,7 @@ Revise first with the [study guide](/resources/aqa-gcse-sociology-8192-research-
 - Using "reliable" and "valid" as if they mean the same thing.
 - In extended answers, listing points on one side only, with no judgement.
 
-## Next steps
+## More on this topic
 
 Check weak areas against the [study guide](/resources/aqa-gcse-sociology-8192-research-methods/) and rehearse terms with the [revision notes](/resources/aqa-gcse-sociology-8192-research-methods-revision-notes/). Practise methods in topic contexts with the [Families and Education practice set](/resources/aqa-gcse-sociology-families-education-practice/) and the [Crime and Stratification practice set](/resources/gcse-sociology-crime-stratification-practice/). Find your gaps with our [diagnostics](/diagnostics/), or [book a free trial class](/trial/) with a Marlbridge tutor.
 

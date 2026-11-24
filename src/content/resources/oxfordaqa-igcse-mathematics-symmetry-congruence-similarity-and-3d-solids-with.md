@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide covers references G6, G7, G10 and G11 in section 3.3.1 of the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1 (for exams May/June 2018 onwards). It teaches symmetry of 2D shapes, congruence and similarity, the parts of 3D solids, and plans and elevations. The specification states that Extension papers can assess all content, so Core content is also Extension content. Only the extra Extension statements carry the label "Extension only".
@@ -379,7 +379,7 @@ The front elevation shows the tallest stack in each column: 3, 2, 1 from left to
 - Calling the curved side of a cylinder a face.
 - Drawing the side elevation from the wrong side, which reverses the order.
 
-## Next steps
+## More on this topic
 
 Revise with the [revision notes](/resources/oxfordaqa-igcse-mathematics-symmetry-congruence-similarity-and-3d-solids-with-revision-notes/), then try the [practice questions](/resources/oxfordaqa-igcse-mathematics-symmetry-congruence-similarity-and-3d-solids-with-practice/).
 

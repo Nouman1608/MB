@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -194,7 +194,7 @@ D: It shows the boiling point of water.
 - Claiming that filtration removes microbes or dissolved substances.
 - Giving "tap water is dirty" instead of naming dissolved impurities and their effect on a result.
 
-## Next steps
+## More on this topic
 
 - Review weak areas in the [water study guide](/resources/cambridge-o-level-chemistry-5070-water/).
 - Move on to the [fertilisers practice questions](/resources/cambridge-o-level-chemistry-5070-fertilisers-practice/).

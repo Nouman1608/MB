@@ -33,7 +33,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -170,7 +170,7 @@ f(f(x)) = 17x/17 = x [1].
 - Not rejecting modulus solutions that make the right-hand side negative.
 - Rounding intersection values to fewer than 3 significant figures.
 
-## Next steps
+## More on this topic
 
 - Review the [further functions revision notes](/resources/ib-dp-mathematics-aa-hl-further-functions-revision-notes/).
 - Re-read any section of the [further functions study guide](/resources/ib-dp-mathematics-aa-hl-further-functions/) where you lost marks.

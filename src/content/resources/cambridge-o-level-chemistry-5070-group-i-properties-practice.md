@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -154,6 +154,6 @@ Identify and correct **three** errors in the student's statement. **[3]**
 - Giving a prediction without the trend that justifies it.
 - Writing "sodium is more reactive because it has more shells", reversing the comparison.
 
-## Next steps
+## More on this topic
 
 Check any slips in the [Group I properties study guide](/resources/cambridge-o-level-chemistry-5070-group-i-properties/), then move on to the [Group VII properties practice questions](/resources/cambridge-o-level-chemistry-5070-group-vii-properties-practice/).

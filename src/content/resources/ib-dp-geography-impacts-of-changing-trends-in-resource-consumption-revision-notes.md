@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -169,7 +169,7 @@ diverted for cotton irrigation. 9. Investments that lose value early as energy s
 10. Resources are everything that exists; reserves are the part extractable economically now.
 11. The Fukushima accident led to reactors being shut down, so more fossil fuels were imported.
 
-## Related resources
+## More resources on this topic
 
 - [Global resource consumption study guide](/resources/ib-dp-geography-global-resource-consumption-study-guide/)
 - [Resource stewardship revision notes](/resources/ib-dp-geography-resource-stewardship-revision-notes/)

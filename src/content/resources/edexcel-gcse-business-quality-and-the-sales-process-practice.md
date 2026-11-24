@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
-reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -136,7 +136,7 @@ Evaluate whether Hexby Plants should go ahead with the plan. **[9]**
 - Writing that more spending on quality always improves profit.
 - Finishing an "evaluate" or "justify" answer without a recommendation or a reason for it.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/edexcel-gcse-business-quality-and-the-sales-process-revision-notes/).
 - Re-read the [study guide](/resources/edexcel-gcse-business-quality-and-the-sales-process/).

@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-29
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -165,7 +165,7 @@ Using the item and interactionist ideas, explain how labelling may have affected
 - Presenting only one perspective in "discuss" or "evaluate" answers.
 - Ending an extended answer without a clear, justified judgement.
 
-## Next steps
+## More on this topic
 
 Re-read any weak area in the [study guide](/resources/aqa-gcse-sociology-8192-the-sociological-approach/), then practise applying the perspectives in the [families and education practice set](/resources/aqa-gcse-sociology-families-education-practice/) and the [crime and stratification practice set](/resources/gcse-sociology-crime-stratification-practice/). Try our [diagnostics](/diagnostics/) to find your weakest topics, or [Book a free trial class](/trial/) with a sociology tutor.
 

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -135,7 +135,7 @@ These questions cover sections 3.2.5.1 (the role of money) and 3.2.5.2 (the role
 - Treating deposits as the bank's own money.
 - Giving a one-sided answer to an evaluate question without a judgement.
 
-## Next steps
+## More on this topic
 
 - Check recall with the [revision notes](/resources/oxfordaqa-igcse-economics-money-and-the-financial-sector-revision-notes/).
 - Re-read the [study guide](/resources/oxfordaqa-igcse-economics-money-and-the-financial-sector/).

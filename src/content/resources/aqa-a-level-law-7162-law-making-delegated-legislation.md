@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -176,6 +176,6 @@ Conclusion: a retailer could seek judicial review; regulations likely void
 
 **Explain** a type by saying who makes it, under what, with an example. **Explain** a control by saying how it works, adding a case for judicial controls. **Discuss** or **evaluate** by weighing the controls' effectiveness and the advantages against the disadvantages, then judging.
 
-## Next steps
+## More on this topic
 
 Revise with the [Delegated Legislation revision notes](/resources/aqa-a-level-law-7162-law-making-delegated-legislation-revision-notes/) and test yourself with the [Delegated Legislation practice questions](/resources/aqa-a-level-law-7162-law-making-delegated-legislation-practice/). The Acts that create these powers are covered in [Parliamentary Law Making](/resources/aqa-a-level-law-7162-law-making-parliamentary-law-making/).

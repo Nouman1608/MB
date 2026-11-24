@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -141,7 +141,7 @@ Mini example: an organ 5 cm long, a cell 50 µm long. 5 cm = 50 000 µm; 50 000 
 11. 1 m = 1 000 000 µm; 1 000 000 ÷ 10 = 100 000 = 10⁵, five orders of magnitude.
 12. Its surface area is small compared with its volume, so diffusion alone cannot supply inner cells; exchange and transport systems are needed.
 
-## Next steps
+## More on this topic
 
 - Worked explanations: [principles of organisation study guide](/resources/aqa-gcse-biology-8461-principles-of-organisation/)
 - Questions with mark schemes: [principles of organisation practice questions](/resources/aqa-gcse-biology-8461-principles-of-organisation-practice/)

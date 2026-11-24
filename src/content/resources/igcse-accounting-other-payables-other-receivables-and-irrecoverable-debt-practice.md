@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE
@@ -266,7 +266,7 @@ Debts and recovery [1]; allowance [1]; electricity [1]; insurance [1]; corrected
 - Treating a fall in the allowance as an expense.
 - Omitting the reinstating entry for a recovered debt.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/igcse-accounting-other-payables-other-receivables-and-irrecoverable-debt-revision-notes/) and [study guide](/resources/igcse-accounting-other-payables-other-receivables-and-irrecoverable-debt/)
 - Use the [hub](/boards/cambridge/igcse/accounting/) and [checklist](/checklists/cambridge/igcse/accounting/)

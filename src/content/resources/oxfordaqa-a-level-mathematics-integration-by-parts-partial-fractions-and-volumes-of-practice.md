@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -114,7 +114,7 @@ Learn the methods first in the [study guide](/resources/oxfordaqa-a-level-mathem
 - Substituting limits into only one term of the parts result.
 - Rounding before the last line, and then losing the exact form that was asked for.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/oxfordaqa-a-level-mathematics-integration-by-parts-partial-fractions-and-volumes-of-revision-notes/) and redo any question you lost marks on.
 - Return to the [study guide](/resources/oxfordaqa-a-level-mathematics-integration-by-parts-partial-fractions-and-volumes-of/) for the worked examples.

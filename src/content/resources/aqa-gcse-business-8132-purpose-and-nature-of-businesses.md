@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -151,7 +151,7 @@ Papers 1 and 2 each have a Section A of multiple-choice and short-answer questio
 - Mixing up characteristics and objectives of an entrepreneur.
 - Describing a change in the environment without its effect on the business.
 
-## Next steps
+## More on this topic
 
 Fix the key terms with the [3.1.1 revision notes](/resources/aqa-gcse-business-8132-purpose-and-nature-of-businesses-revision-notes/), then test yourself with the [3.1.1 practice questions](/resources/aqa-gcse-business-8132-purpose-and-nature-of-businesses-practice/). Next in the specification is [business ownership](/resources/aqa-gcse-business-8132-business-ownership/).
 

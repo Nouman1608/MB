@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -168,7 +168,7 @@ Write it exactly. The 3 significant figure rule is for answers that are not exac
 **How do I convert a decimal number of hours to minutes and seconds?**
 Multiply the decimal part by 60 to get minutes. If the minutes have a decimal part, multiply that by 60 to get seconds.
 
-## Next steps
+## More on this topic
 
 - Re-read the keying examples in the [using a calculator study guide](/resources/cambridge-igcse-mathematics-0580-using-a-calculator/).
 - Mixed Topic 1 calculator questions: the [Number practice questions](/resources/igcse-mathematics-number-practice/).

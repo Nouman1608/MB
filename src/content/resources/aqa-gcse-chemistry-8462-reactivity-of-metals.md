@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -203,7 +203,7 @@ O2 + 4e- -> 2O2-  : oxygen gains electrons: reduced
 - **Explain displacement:** the more reactive metal has a greater tendency to form positive ions.
 - **Ionic equations (HT only):** write the half equations first and check that charge balances.
 
-## Next steps
+## More on this topic
 
 - [Reactivity of metals revision notes](/resources/aqa-gcse-chemistry-8462-reactivity-of-metals-revision-notes/)
 - [Reactivity of metals practice questions](/resources/aqa-gcse-chemistry-8462-reactivity-of-metals-practice/)

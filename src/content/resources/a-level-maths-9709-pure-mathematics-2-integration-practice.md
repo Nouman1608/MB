@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -151,7 +151,7 @@ Ordinates for trigonometric functions must be found in radians. Degree-mode valu
 **How do you integrate a squared trigonometric function such as sin²x?**
 Rewrite it with a double-angle identity first, for example sin²x = ½(1 − cos 2x), then integrate term by term.
 
-## Next steps
+## More on this topic
 
 - [Integration revision notes](/resources/a-level-maths-9709-pure-mathematics-2-integration-revision-notes/)
 - [Integration study guide](/resources/a-level-maths-9709-pure-mathematics-2-integration/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -214,7 +214,7 @@ Revise first with the [2.02 study guide](/resources/ocr-gcse-mathematics-j560-de
 - (Higher tier only) Using 100x − x when there is a non-repeating digit first.
 - Rounding a recurring decimal when the question asks for an exact answer.
 
-## Next steps
+## More on this topic
 
 - Recap with the [2.02 revision notes](/resources/ocr-gcse-mathematics-j560-decimal-fractions-revision-notes/).
 - Re-read the known-fact and recurring examples in the [2.02 study guide](/resources/ocr-gcse-mathematics-j560-decimal-fractions/).

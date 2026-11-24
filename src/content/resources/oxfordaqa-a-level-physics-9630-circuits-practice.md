@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -203,7 +203,7 @@ These questions cover section 3.4.4, Circuits, of OxfordAQA International AS and
 - Forgetting to convert mA or minutes.
 - Explaining changes in a circuit without the chain of reasoning.
 
-## Next steps
+## More on this topic
 
 - Recap with the [circuits revision notes](/resources/oxfordaqa-a-level-physics-9630-circuits-revision-notes/).
 - Re-read the [circuits study guide](/resources/oxfordaqa-a-level-physics-9630-circuits/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -192,7 +192,7 @@ interpretations (AO5).
   <figcaption>Paper 2 is open book, but only clean, unannotated copies are allowed.</figcaption>
 </figure>
 
-## Related resources
+## More resources on this topic
 
 - [Elements of Crime Writing revision notes](/resources/aqa-a-level-english-literature-7712-7717-option-2a-elements-of-crime-writing-7717-revision-notes/)
 - [Option 2A crime writing practice questions](/resources/a-level-aqa-english-literature-b-crime-writing-practice/)

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This study guide covers section S2.5 (Estimation) of the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. The specification states that this content belongs to International A-level (A2) Unit S2 (Statistics). It is not examined at International AS. You should already be comfortable with the normal distribution (S2.4), including the result for sums of independent normal variables.
 
@@ -251,7 +251,7 @@ P(T > 300) = 1 − Φ(1.375) = 0.0846
 - **Treating an estimate as certain.** An unbiased estimator is right on average, so a single estimate can still be off.
 - **Rounding too early** in z-values. Keep full values until the end.
 
-## Next steps
+## More on this topic
 
 Condense this unit with the [revision notes](/resources/oxfordaqa-a-level-mathematics-sampling-unbiased-estimators-and-the-central-limit-revision-notes/), then test yourself on the [practice questions](/resources/oxfordaqa-a-level-mathematics-sampling-unbiased-estimators-and-the-central-limit-practice/). Estimation is the base for hypothesis testing of a mean (S2.6), so make sure the sampling distribution of X̄ is secure first. The [diagnostics](/diagnostics/) show which topics to prioritise.
 

@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -177,7 +177,7 @@ with no oxygen. The yeast converts glucose to ethanol and carbon dioxide."
 
 Example product: propene + hydrogen → propane, **C₃H₆ + H₂ → C₃H₈**.
 
-## Next steps
+## More on this topic
 
 - [Reactions of alkenes and alcohols study guide](/resources/aqa-gcse-chemistry-8462-reactions-of-alkenes-and-alcohols/)
 - [Reactions of alkenes and alcohols practice questions](/resources/aqa-gcse-chemistry-8462-reactions-of-alkenes-and-alcohols-practice/)

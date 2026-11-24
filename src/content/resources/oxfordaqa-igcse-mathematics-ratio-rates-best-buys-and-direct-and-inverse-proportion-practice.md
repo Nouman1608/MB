@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -149,7 +149,7 @@ Show that y is directly proportional to x. **[2]**
 - Overtime applied to all hours instead of only the extra hours.
 - Adding percentage changes instead of multiplying multipliers.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/oxfordaqa-igcse-mathematics-ratio-rates-best-buys-and-direct-and-inverse-proportion-revision-notes/) for the methods
 - Reread the [study guide](/resources/oxfordaqa-igcse-mathematics-ratio-rates-best-buys-and-direct-and-inverse-proportion/) for any weak part

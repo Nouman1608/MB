@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -177,7 +177,7 @@ Learn the methods first in the [study guide](/resources/ib-dp-mathematics-aa-tri
 - Decimal answers on calculator-free questions that ask for exact values.
 - Rounding intermediate lengths before using them again.
 
-## Next steps
+## More on this topic
 
 - Recap the formulas and methods in the [revision notes](/resources/ib-dp-mathematics-aa-triangles-circles-3d-geometry-revision-notes/).
 - Re-learn any weak section in the [study guide](/resources/ib-dp-mathematics-aa-triangles-circles-3d-geometry/).

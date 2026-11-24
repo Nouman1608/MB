@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -149,7 +149,7 @@ These questions cover Topic 1, sections 1.1 and 1.2 of the Pearson Edexcel Inter
 - Writing a one-sided answer to "evaluate" or "justify" with no decision at the end.
 - Treating a public corporation as a public limited company.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/edexcel-igcse-business-business-objectives-and-types-of-organisation-revision-notes/) and the [study guide](/resources/edexcel-igcse-business-business-objectives-and-types-of-organisation/).
 - Return to the [4BS1 Business hub](/boards/edexcel/igcse/business/) or tick off progress on the [checklist](/checklists/edexcel/igcse/business/).

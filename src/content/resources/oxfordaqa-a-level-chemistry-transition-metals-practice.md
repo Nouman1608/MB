@@ -39,7 +39,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -201,7 +201,7 @@ Values for this change: ΔH = −1.8 kJ mol⁻¹, ΔS = +205 J K⁻¹ mol⁻¹.
 - Using 1 : 5 or 2 : 5 for iron(II) ethanedioate.
 - Not showing that a catalyst is regenerated.
 
-## Next steps
+## More on this topic
 
 - [Revision notes: transition metals](/resources/oxfordaqa-a-level-chemistry-transition-metals-revision-notes/)
 - [Study guide: transition metals](/resources/oxfordaqa-a-level-chemistry-transition-metals/)

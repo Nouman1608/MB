@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -168,7 +168,7 @@ No. Reverse percentages and repeated percentage change are Extended only in 0580
 **How should I write a percentage over 100%?**
 As it is, for example 105% or 125%. It simply means the amount is larger than the original.
 
-## Next steps
+## More on this topic
 
 - Re-read the worked examples in the [percentages study guide](/resources/cambridge-igcse-mathematics-0580-percentages/).
 - More Extended growth and decay questions: the [Number (Extended) practice questions](/resources/igcse-mathematics-number-extended-practice/).

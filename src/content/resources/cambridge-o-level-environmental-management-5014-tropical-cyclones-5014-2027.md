@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -119,7 +119,7 @@ The syllabus lists seven strategies for tropical cyclones. Note that **land use 
 4. Name the strategies used during a cyclone. *Evacuation and shelters.*
 5. Explain why water-related disease may follow a cyclone. *Flooding contaminates drinking water with sewage, and crowded shelters help disease spread.*
 
-## Related resources
+## More resources on this topic
 
 - [Tropical cyclones revision notes](/resources/cambridge-o-level-environmental-management-5014-tropical-cyclones-5014-2027-revision-notes/)
 - [Tropical cyclones practice questions](/resources/cambridge-o-level-environmental-management-5014-tropical-cyclones-5014-2027-practice/)

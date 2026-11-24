@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -210,7 +210,7 @@ is therefore greatest at the closest point [1].
 - **Calculate** (8.6): write the equation, convert to m and s, substitute, give units.
 - **State** (8.2): use the exact relationships: billions of stars in a galaxy, billions of galaxies in the universe.
 
-## Related resources
+## More resources on this topic
 
 - [Motion in the universe revision notes](/resources/edexcel-igcse-physics-4ph1-motion-in-the-universe-revision-notes/) with a self-test
 - [Motion in the universe practice questions](/resources/edexcel-igcse-physics-4ph1-motion-in-the-universe-practice/) with full answers

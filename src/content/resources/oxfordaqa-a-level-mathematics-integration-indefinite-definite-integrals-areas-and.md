@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This guide covers section P1.4 (Integration) of the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. The specification places this content in International AS, Unit P1 (Pure Maths); it is not labelled Core, Extension or Higher, and it carries into the International A-level. Pair it with the [revision notes](/resources/oxfordaqa-a-level-mathematics-integration-indefinite-definite-integrals-areas-and-revision-notes/) and the [practice questions](/resources/oxfordaqa-a-level-mathematics-integration-indefinite-definite-integrals-areas-and-practice/). The wider unit is on the [Unit P1 overview](/resources/a-level-oxfordaqa-mathematics-unit-p1/), and the course home is the [OxfordAQA A-level Mathematics hub](/boards/oxfordaqa/a-level/mathematics/) with a [printable checklist](/checklists/oxfordaqa/a-level/mathematics/). If you are unsure where you stand, take a [free diagnostic](/diagnostics/) first.
 
@@ -282,7 +282,7 @@ Use more strips. Doubling the strips (here, six instead of three, h = 0.5) gives
 - Trapezium rule: using n ordinates instead of n + 1, or doubling the end ordinates.
 - Claiming over- or under-estimate without referring to the shape of the curve.
 
-## Next steps
+## More on this topic
 
 Work through the [revision notes](/resources/oxfordaqa-a-level-mathematics-integration-indefinite-definite-integrals-areas-and-revision-notes/), then try the [practice questions](/resources/oxfordaqa-a-level-mathematics-integration-indefinite-definite-integrals-areas-and-practice/). The existing [P1 revision notes](/resources/oxfordaqa-a-level-mathematics-p1-revision-notes/) and [P1 practice](/resources/oxfordaqa-a-level-mathematics-p1-practice/) cover the rest of the unit.
 

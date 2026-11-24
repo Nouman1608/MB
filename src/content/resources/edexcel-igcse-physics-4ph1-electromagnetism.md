@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -229,7 +229,7 @@ vibrates at the frequency of the current [1].
 - **Describe** (6.14): state the direction of the change, such as "larger current, larger force", not "the current affects the force".
 - **Predict** (6.13): state the direction in words that match the diagram, such as "into the page" or "upwards".
 
-## Related resources
+## More resources on this topic
 
 - [Electromagnetism revision notes](/resources/edexcel-igcse-physics-4ph1-electromagnetism-revision-notes/) for fast recall and a self-test
 - [Electromagnetism practice questions](/resources/edexcel-igcse-physics-4ph1-electromagnetism-practice/) with mark-scheme answers

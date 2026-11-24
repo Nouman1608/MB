@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -173,7 +173,7 @@ It now produces 40 capital goods and 170 consumer goods. The government plans to
 - Giving causes of growth without saying how they change capacity.
 - Weighing up only one side in an evaluation question.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/cambridge-igcse-economics-opportunity-cost-and-production-possibility-curves-revision-notes/) for the method boxes.
 - Reread the [study guide](/resources/cambridge-igcse-economics-opportunity-cost-and-production-possibility-curves/) for any question you missed.

@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -150,7 +150,7 @@ These questions cover section **3.3.4.2 Addition reactions of alkenes** of the A
 - Writing "clear" for the end colour of bromine water.
 - Giving only one alcohol from but-1-ene and sulfuric acid, with no mention of the hydrolysis step.
 
-## Next steps
+## More on this topic
 
 - [Addition reactions of alkenes revision notes](/resources/aqa-a-level-chemistry-7405-addition-reactions-of-alkenes-revision-notes/)
 - [Addition polymers practice questions](/resources/aqa-a-level-chemistry-7405-addition-polymers-practice/)

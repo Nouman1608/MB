@@ -36,7 +36,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE
@@ -199,7 +199,7 @@ Corrected profit 58,200 + 720 + 1,050 - 650 - 420 - 310 = **58,590**. [1]
 - Totalling inventory before comparing cost and net realisable value line by line.
 - Naming two principles with a single shared explanation.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/igcse-accounting-accounting-concepts-ethics-technology-and-sustainabilit/), then the [revision notes](/resources/igcse-accounting-accounting-concepts-ethics-technology-and-sustainabilit-revision-notes/).
 - Tick off the [checklist](/checklists/cambridge/igcse/accounting/) and return to the [course hub](/boards/cambridge/igcse/accounting/).

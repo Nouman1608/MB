@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-29
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -155,7 +155,7 @@ Extended answers (questions 8 to 10) are marked in the real exam with levels of 
 - Leaving a "to what extent" answer without a clear judgement.
 - Treating the underclass or dependency culture as established fact instead of a contested claim.
 
-## Next steps
+## More on this topic
 
 - Check your weak points against the [study guide](/resources/aqa-a-level-sociology-7192-work-poverty-and-welfare/) and the [7192 checklist](/checklists/aqa/a-level/sociology/).
 - Practise evaluating research methods with the [Methods in Context practice set](/resources/a-level-sociology-methods-in-context-practice/).

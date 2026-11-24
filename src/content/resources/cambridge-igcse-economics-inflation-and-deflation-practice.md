@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -132,7 +132,7 @@ These questions cover section 4.8, Inflation and deflation, of the Cambridge IGC
 - Naming a policy without explaining how it reaches prices.
 - Concluding without a judgement based on the cause in the case.
 
-## Next steps
+## More on this topic
 
 - Return to the [revision notes](/resources/cambridge-igcse-economics-inflation-and-deflation-revision-notes/) or the [study guide](/resources/cambridge-igcse-economics-inflation-and-deflation/).
 - Check your coverage on the [Cambridge IGCSE Economics checklist](/checklists/cambridge/igcse/economics/) or visit the [course hub](/boards/cambridge/igcse/economics/).

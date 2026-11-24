@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -152,7 +152,7 @@ These questions cover sections 7.1 and 7.2 (outcomes 7.1.1 to 7.2.4) of the Camb
 - Calling every inferior good a Giffen good.
 - Listing limitations without weighing them.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/cambridge-a-level-economics-utility-indifference-curves-and-budget-lines-revision-notes/) and the [study guide](/resources/cambridge-a-level-economics-utility-indifference-curves-and-budget-lines/).
 - Return to the [course hub](/boards/cambridge/a-level/economics/) and the [printable checklist](/checklists/cambridge/a-level/economics/).

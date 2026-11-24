@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Cyber security (topic 3.6 of OxfordAQA International GCSE Computer Science 9210) is about the threats to
@@ -160,7 +160,7 @@ an external test, where the tester has no credentials, simulating an attack from
 Updates often contain patches for security holes that attackers already know about. Installing them automatically
 closes those holes as soon as possible.
 
-## Related resources
+## More resources on this topic
 
 [Cyber security study guide](/resources/oxfordaqa-igcse-computer-science-cyber-security-study-guide/) |
 [Cyber security practice questions](/resources/oxfordaqa-igcse-computer-science-cyber-security-practice/) |

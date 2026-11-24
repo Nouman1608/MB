@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers syllabus outcomes 9.4.1 to 9.4.5 (Money and banking) in the Cambridge International AS and A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. Topic 9 is A Level content, so it is not examined at AS. The syllabus says AS content is assumed knowledge for the A Level papers. Outcomes 9.4.6 to 9.4.8 (inflation policies, demand for money, interest rates) are taught in separate pages.
@@ -246,7 +246,7 @@ It depends on who buys the government's bonds. Bonds bought by the non-bank publ
 **Which part of the Cambridge 9708 syllabus covers money and banking?**
 Money and banking is syllabus section 9.4 of Cambridge International AS and A Level Economics 9708, outcomes 9.4.1 to 9.4.5. It is A Level content.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [practice set](/resources/cambridge-a-level-economics-money-banks-and-the-money-supply-practice/) and condense the unit with the [revision notes](/resources/cambridge-a-level-economics-money-banks-and-the-money-supply-revision-notes/). Run the [diagnostics](/diagnostics/) to find weak spots.
 

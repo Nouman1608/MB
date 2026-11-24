@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -183,7 +183,7 @@ D: 27
 - Answers that say "energy is lost" without naming the store it goes to.
 - Using the stretch of a bungee cord, not the total drop, for gravitational potential energy.
 
-## Next steps
+## More on this topic
 
 - [Work, energy and power practice questions](/resources/oxfordaqa-a-level-physics-9630-work-energy-and-power-oxfordaqa-practice/)
 - [Bulk properties of solids practice questions](/resources/oxfordaqa-a-level-physics-9630-bulk-properties-of-solids-oxfordaqa-practice/)

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -138,7 +138,7 @@ This set tests section 4.6 (Economic growth) of the Cambridge O Level Economics 
 - Failing to link points to the type of economy named in the question.
 - Describing policies with no comment on effectiveness or side effects.
 
-## Next steps
+## More on this topic
 
 - Go over the [revision notes](/resources/cambridge-o-level-economics-economic-growth-and-recession-revision-notes/) and the [study guide](/resources/cambridge-o-level-economics-economic-growth-and-recession/).
 - Visit the [course hub](/boards/cambridge/o-level/economics/) and the [checklist](/checklists/cambridge/o-level/economics/).

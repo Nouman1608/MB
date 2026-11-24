@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -168,7 +168,7 @@ This set covers **section 2.11, transformations of graphs** (SL and HL), of IB D
 - Moving an asymptote in the wrong direction, or moving one that should stay fixed.
 - Leaving the scale factor or vector out of a description.
 
-## Next steps
+## More on this topic
 
 - Re-read the reasoning in the [transformations study guide](/resources/ib-dp-mathematics-analysis-and-approaches-2-11/).
 - Recap the facts in the [transformations revision notes](/resources/ib-dp-mathematics-analysis-and-approaches-2-11-revision-notes/).

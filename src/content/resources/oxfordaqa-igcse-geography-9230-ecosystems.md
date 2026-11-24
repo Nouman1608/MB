@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -163,6 +163,6 @@ Each sentence moves one step along the cycle, and the last sentence explains the
 - **Calling decomposers consumers.** They are a separate group that recycles nutrients.
 - **Describing global biomes without locations.** Name latitudes, continents or regions.
 
-## Next steps
+## More on this topic
 
 Condense this with the [ecosystems revision notes](/resources/oxfordaqa-igcse-geography-9230-ecosystems-revision-notes/) and test yourself with the [ecosystems practice questions](/resources/oxfordaqa-igcse-geography-9230-ecosystems-practice/). Related units: [climate change](/resources/oxfordaqa-igcse-geography-9230-climate-change/) and [coastal processes and landforms](/resources/oxfordaqa-igcse-geography-9230-coastal-processes-landforms/).

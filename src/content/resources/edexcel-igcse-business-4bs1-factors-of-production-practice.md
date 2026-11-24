@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "asif-iqbal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -131,7 +131,7 @@ These questions cover section 5.3 Factors of production (point 5.3.1) of the Pea
 - Treating job losses or quality as the only issue, or ignoring them altogether.
 - Forgetting the role and risk of enterprise when the mix changes.
 
-## Next steps
+## More on this topic
 
 - Re-read the [factors of production study guide](/resources/edexcel-igcse-business-4bs1-factors-of-production/) for the break-even wage method.
 - Recheck terms in the [factors of production revision notes](/resources/edexcel-igcse-business-4bs1-factors-of-production-revision-notes/).

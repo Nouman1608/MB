@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 For full explanations and worked examples, read the [study guide on the digital divide](/resources/a-level-cambridge-ict-the-digital-divide/) first. These notes are for quick recall in the final weeks.
@@ -214,7 +214,7 @@ If 70% of one group and 40% of another have home internet, the gap is **30 perce
 - Treating "accessibility barriers" as only physical: the syllabus also includes learning difficulties and sensory impairments.
 - Calling the difference between two percentages a "percent" difference instead of percentage points.
 
-## Next steps
+## More on this topic
 
 - Full teaching and worked examples: [The digital divide study guide](/resources/a-level-cambridge-ict-the-digital-divide/)
 - Marked practice: [The digital divide practice questions](/resources/a-level-cambridge-ict-the-digital-divide-practice/)

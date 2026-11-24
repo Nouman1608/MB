@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -128,7 +128,7 @@ Ask: **which two records would now disagree?**
 11. There is an **error of 150** in the payables ledger or in the control account; the supplier accounts should be checked.
 12. **Each one checks different records** and misses different errors.
 
-## Next steps
+## More on this topic
 
 - Re-read the worked examples in the [verification of the double entry records study guide](/resources/oxfordaqa-igcse-accounting-9215-verification-of-the-double-entry-records/).
 - Try the [verification practice questions](/resources/oxfordaqa-igcse-accounting-9215-verification-of-the-double-entry-records-practice/).

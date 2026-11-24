@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -148,7 +148,7 @@ S0 means an even number of 1s so far and S1 means odd. At the blank it writes 0 
 9. A Turing machine that can simulate any other Turing machine, given that machine's description and input on its tape.
 10. The stored program computer.
 
-## Related resources
+## More resources on this topic
 
 - [A model of computation study guide](/resources/aqa-a-level-computer-science-7517-a-model-of-computation/)
 - [A model of computation practice questions](/resources/aqa-a-level-computer-science-7517-a-model-of-computation-practice/)

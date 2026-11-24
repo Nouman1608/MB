@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide is for Cambridge O Level Statistics (4040), aligned to the syllabus for examination in 2025, 2026 and 2027. It covers section 5.2, measures of dispersion: the range, the interquartile range, the variance and the standard deviation. The syllabus note asks for these to be calculated or estimated from a list, an ungrouped table and a grouped table. The course is not tiered.
@@ -279,7 +279,7 @@ The IQR does not move, because the upper quartile is still 47. The range more th
 - Dropping the word "estimate" for grouped data.
 - Comparing without context: say what the numbers mean for the situation.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/cambridge-o-level-statistics-range-interquartile-range-variance-and-standard-practice/), then use the [revision notes](/resources/cambridge-o-level-statistics-range-interquartile-range-variance-and-standard-revision-notes/) to fix the formulas. Box plots draw the quartiles, as covered in the [box-and-whisker guide](/resources/cambridge-o-level-statistics-venn-box-and-whisker-and-stem-and-leaf-diagrams/).
 

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -174,7 +174,7 @@ Build a chain of reasoning from one figure to the next, for example why profit f
 **What does a "justify" question on a loan or lending decision need?**
 A clear decision with a reason that uses evidence from both statements, saying what the figures mean for the lender. Listing figures without interpreting them is incomplete.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/igcse-business-0264-profit-and-loss-and-statement-of-financial-position-revision-notes/) and the [study guide](/resources/igcse-business-0264-profit-and-loss-and-statement-of-financial-position/).
 - Go to the [course hub](/boards/cambridge/igcse/business/) and tick off topics on the [printable checklist](/checklists/cambridge/igcse/business/).

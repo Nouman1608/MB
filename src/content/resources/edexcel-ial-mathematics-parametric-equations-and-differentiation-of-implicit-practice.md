@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -152,7 +152,7 @@ Eliminating the parameter can lose a restriction, so the cartesian equation may 
 **How do you form a differential equation for a decreasing quantity?**
 Write the rate as a negative multiple, for example dM/dt = −kM with k > 0 for a mass decreasing at a rate proportional to M. Dropping the minus sign is a common way to lose marks.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/edexcel-ial-mathematics-parametric-equations-and-differentiation-of-implicit/) for any question you found hard.
 - Use the [revision notes](/resources/edexcel-ial-mathematics-parametric-equations-and-differentiation-of-implicit-revision-notes/) for the self-test.

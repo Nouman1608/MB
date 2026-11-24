@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -160,7 +160,7 @@ These questions cover **3.1.3.7 Forces between molecules** of the OxfordAQA Inte
 - Drawing a hydrogen bond to an atom rather than to a lone pair, or without partial charges.
 - Explaining a boiling-point difference by polarity alone when the molecules differ greatly in their numbers of electrons.
 
-## Next steps
+## More on this topic
 
 - [Forces between molecules study guide](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-3-7/)
 - [Forces between molecules revision notes](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-3-7-revision-notes/)

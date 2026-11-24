@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please ask a teacher familiar with Islamic finance to confirm the short descriptions of murabaha, ijara, musharaka and mudaraba; the specification names only Sharia compliant alternatives."
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please ask a teacher familiar with Islamic finance to confirm the short descriptions of murabaha, ijara, musharaka and mudaraba; the specification names only Sharia compliant alternatives. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -147,7 +147,7 @@ For **explain** answers, give one effect and the reason for it, linked to the bu
   <figcaption>Explain one effect, analyse through customers, then judge using the case.</figcaption>
 </figure>
 
-## Related resources
+## More resources on this topic
 
 - [Economic Climate revision notes](/resources/oxfordaqa-igcse-business-9225-the-economic-climate-on-business-revision-notes/)
 - [Economic Climate practice questions](/resources/oxfordaqa-igcse-business-9225-the-economic-climate-on-business-practice/)

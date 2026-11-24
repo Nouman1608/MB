@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide follows the IB *Physics guide*, first assessment 2025, and covers the first half of topic B.4 (Thermodynamics): the first law, work done by a gas, internal energy and the four gas processes. B.4 is entirely additional higher level (8 hours), so everything here is HL only. Entropy, the second law, heat engines and the Carnot limit are taught in a separate unit.
@@ -225,7 +225,7 @@ A monatomic gas at 1.0 × 10⁵ Pa and 2.0 × 10⁻³ m³ is compressed adiabati
 - Using 3/2 on a diatomic gas. The guide limits quantitative work to monatomic ideal gases.
 - Reading work from the wrong area. It is the area between the line and the volume axis, not the area to the pressure axis.
 
-## Next steps
+## More on this topic
 
 Condense this unit with the [revision notes](/resources/ib-dp-physics-first-law-of-thermodynamics-gas-processes-and-work-revision-notes/), then test yourself on the [practice set](/resources/ib-dp-physics-first-law-of-thermodynamics-gas-processes-and-work-practice/).
 

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -186,7 +186,7 @@ Use a bar with a known frequency to find how many values one square centimetre r
 **Where are marks usually lost on histogram questions?**
 Common losses include plotting frequency instead of frequency density, using the wrong class width, adding bar heights instead of frequencies, leaving gaps between bars, and giving an estimate for part of a class without stating the even-spread assumption.
 
-## Next steps
+## More on this topic
 
 - Review the formulas in the [revision notes](/resources/cambridge-o-level-mathematics-histograms-and-frequency-density-with-unequal-class-revision-notes/).
 - Re-read the methods in the [study guide](/resources/cambridge-o-level-mathematics-histograms-and-frequency-density-with-unequal-class/).

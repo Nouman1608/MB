@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -190,7 +190,7 @@ Paper 1 (1 hour 15 minutes; 30% at SL, 20% at HL) is a source-based paper on the
 - Naming a thinker without applying the idea to your case.
 - Vague examples. Give the actor, the action and the year.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [revision notes](/resources/ib-dp-global-politics-core-power-revision-notes/), then work through the [practice questions](/resources/ib-dp-global-politics-core-power-practice/). To see power at work in a thematic study, read the [peace and conflict guide](/resources/ib-dp-global-politics-peace-conflict/) and the [rights and justice guide](/resources/ib-dp-global-politics-rights-justice/). For paper formats, use the [assessment revision notes](/resources/ib-dp-global-politics-assessment-revision-notes/).
 

@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -112,7 +112,7 @@ Teaching is in the [study guide](/resources/cambridge-a-level-economics-effectiv
 - Forgetting imported inflation after depreciation.
 - Giving a conclusion that repeats the question rather than weighing the policies.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/cambridge-a-level-economics-effectiveness-of-supply-side-exchange-rate-and-trade-revision-notes/) and the [study guide](/resources/cambridge-a-level-economics-effectiveness-of-supply-side-exchange-rate-and-trade/).
 - Go to the [Cambridge A Level Economics hub](/boards/cambridge/a-level/economics/) and the [printable checklist](/checklists/cambridge/a-level/economics/).

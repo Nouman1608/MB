@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -143,7 +143,7 @@ It requires market power over wages. A wage-taking firm in a competitive labour 
 **How should I evaluate a minimum wage question?**
 Say who gains and who loses, follow a chain from the wage to costs to the outcome, and if you conclude it depends, say what it depends on.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/aqa-a-level-economics-the-national-minimum-wage-and-discrimination-in-labour-revision-notes/)
 - [Study guide](/resources/aqa-a-level-economics-the-national-minimum-wage-and-discrimination-in-labour/)

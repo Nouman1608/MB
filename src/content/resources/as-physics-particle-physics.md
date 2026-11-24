@@ -22,7 +22,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false
@@ -200,7 +200,7 @@ A positron is the antiparticle of the electron, with the same mass but opposite 
 **What is the difference between a baryon and a meson?**
 Both are hadrons, particles made of quarks. A baryon, such as a proton or neutron, has three quarks, while a meson has one quark and one antiquark.
 
-## Related resources
+## More resources on this topic
 
 - [D.C. Circuits: Kirchhoff's Laws and Potential Dividers](/resources/as-physics-dc-circuits/) — the previous AS topic
 - [Motion in a Circle](/resources/a-physics-motion-in-a-circle/) — the first A Level topic

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -168,7 +168,7 @@ With steam, the –OH can attach to either carbon of an unsymmetrical double bon
 - **Describe** (test): reagent, the colour before and after for both the alkene and the alkane.
 - **Draw**: the product with the former double bond now single and the new atoms on adjacent carbons.
 
-## Next steps
+## More on this topic
 
 - Condense this section with the [alkenes revision notes](/resources/cambridge-o-level-chemistry-5070-alkenes-revision-notes/).
 - Test yourself with the [alkenes practice questions](/resources/cambridge-o-level-chemistry-5070-alkenes-practice/).

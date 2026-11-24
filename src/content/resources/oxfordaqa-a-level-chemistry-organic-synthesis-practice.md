@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -198,7 +198,7 @@ safely than two versions of the same hazard.
 - Naming the minor product of HBr addition, then building the rest of the route on it.
 - Giving two answers that are the same idea ("safer" and "less hazardous") where two points are needed.
 
-## Next steps
+## More on this topic
 
 - Recap the topic: [revision notes](/resources/oxfordaqa-a-level-chemistry-organic-synthesis-revision-notes/)
   or the full [study guide](/resources/oxfordaqa-a-level-chemistry-organic-synthesis/)

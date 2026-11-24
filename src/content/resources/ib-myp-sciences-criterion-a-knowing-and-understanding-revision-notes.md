@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -161,7 +161,7 @@ Check with your teacher. The on-screen examination provides a formula sheet and 
 **Do I need units in every answer?**
 Numerical values usually relate to physical quantities, so you are expected to include appropriate units, normally SI units where possible.
 
-## Next steps
+## More on this topic
 
 Work through the [Criterion A practice questions](/resources/ib-myp-sciences-criterion-a-knowing-and-understanding-practice/), then compare with the [four criteria in practice](/resources/ib-myp-sciences-criteria-in-practice/) and the [MYP Sciences syllabus guide](/resources/ib-myp-sciences-syllabus-guide/).
 

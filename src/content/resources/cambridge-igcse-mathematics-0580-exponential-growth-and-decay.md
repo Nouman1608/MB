@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -150,7 +150,7 @@ You may be asked to state the rate from a given formula, or to write the formula
 - **Show that** a rate gives a stated value: substitute and give enough figures to show the result rounds to the stated value.
 - **Explain** why a change is exponential and not linear: refer to a constant percentage (or factor) of the current value.
 
-## Next steps
+## More on this topic
 
 - Condensed rules and a self-test: the [exponential growth and decay revision notes](/resources/cambridge-igcse-mathematics-0580-exponential-growth-and-decay-revision-notes/).
 - Exam-style questions with mark schemes: the [exponential growth and decay practice questions](/resources/cambridge-igcse-mathematics-0580-exponential-growth-and-decay-practice/).

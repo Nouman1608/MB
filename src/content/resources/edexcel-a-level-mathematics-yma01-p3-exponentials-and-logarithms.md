@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -144,7 +144,7 @@ Equations of this type often come in context. For example, if the temperature of
 - **"Estimate the values of a and n"**: use two points on the line (or the given gradient and intercept), then undo the logarithm.
 - **"Hence"** in a log graph question usually means use the constants just found to predict a value.
 
-## Related resources
+## More resources on this topic
 
 - [P3 exponentials and logarithms revision notes](/resources/edexcel-a-level-mathematics-yma01-p3-exponentials-and-logarithms-revision-notes/)
 - [P3 exponentials and logarithms practice questions](/resources/edexcel-a-level-mathematics-yma01-p3-exponentials-and-logarithms-practice/)

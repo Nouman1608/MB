@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -173,7 +173,7 @@ Opening debit of 720 [1]; corrections on the correct sides [1]; totals 1,100 wit
 - Changing personal accounts for a day book casting error.
 - Leaving the suspense account unbalanced or without totals.
 
-## Next steps
+## More on this topic
 
 - Re-read the [correcting errors study guide](/resources/oxfordaqa-igcse-accounting-9215-correcting-errors/).
 - Follow corrections through to profit with the [effect of errors on profit practice questions](/resources/oxfordaqa-igcse-accounting-9215-the-effect-of-errors-on-profit-calculations-practice/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Kearns's study is named but not summarised because its details could not be confirmed; please add its aim, method and findings from the course textbook and check the Eftekhari summary."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Kearns's study is named but not summarised because its details could not be confirmed; please add its aim, method and findings from the course textbook and check the Eftekhari summary. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -187,7 +187,7 @@ with a control group.
     real, safe situations that have been avoided.
 12. The sample was veterans only, so the findings may not generalise (accept: no control group).
 
-## Related resources
+## More resources on this topic
 
 - [Mental Health practice questions](/resources/oxfordaqa-igcse-psychology-9218-mental-health-practice/)
 - [Communication revision notes](/resources/oxfordaqa-igcse-psychology-9218-communication-revision-notes/)

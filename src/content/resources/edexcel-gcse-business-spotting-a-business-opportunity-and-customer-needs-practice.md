@@ -32,7 +32,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
-reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -178,7 +178,7 @@ Justify which option Meadowbank should choose. **[6]**
 - Writing "they are better" about rivals without naming price, quality, location, range or service.
 - Giving a Justify or Evaluate answer with no recommendation or conclusion.
 
-## Next steps
+## More on this topic
 
 - Recap the [revision notes](/resources/edexcel-gcse-business-spotting-a-business-opportunity-and-customer-needs-revision-notes/) and re-read the [study guide](/resources/edexcel-gcse-business-spotting-a-business-opportunity-and-customer-needs/).
 - Course hub: [Edexcel GCSE Business](/boards/edexcel/gcse/business/) and the [printable checklist](/checklists/edexcel/gcse/business/).

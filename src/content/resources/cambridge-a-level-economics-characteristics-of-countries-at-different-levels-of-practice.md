@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -159,7 +159,7 @@ No. If two Lorenz curves cross, their Gini coefficients can be equal while the d
 **Which Cambridge 9708 section does this practice cover?**
 It covers section 11.4 Characteristics of countries at different levels of development, an A Level topic in Cambridge 9708 tested on Papers 3 and 4.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/cambridge-a-level-economics-characteristics-of-countries-at-different-levels-of-revision-notes/) and the [study guide](/resources/cambridge-a-level-economics-characteristics-of-countries-at-different-levels-of/).
 - Return to the [Cambridge A Level Economics hub](/boards/cambridge/a-level/economics/) and tick off the [printable checklist](/checklists/cambridge/a-level/economics/).

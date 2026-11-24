@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -178,7 +178,7 @@ Plan (6 by 4)       Front elevation      Side elevation (from right)
 - Reading a side elevation in the wrong order.
 - Leaving a drawn view without a scale or labelled dimensions.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/oxfordaqa-igcse-mathematics-symmetry-congruence-similarity-and-3d-solids-with-revision-notes/) and the [study guide](/resources/oxfordaqa-igcse-mathematics-symmetry-congruence-similarity-and-3d-solids-with/).
 - Return to the [OxfordAQA IGCSE Mathematics course page](/boards/oxfordaqa/igcse/mathematics/) and tick off topics on the [checklist](/checklists/oxfordaqa/igcse/mathematics/).

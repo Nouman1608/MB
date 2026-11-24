@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -137,7 +137,7 @@ Evaluate which option the government should choose. **[8]**
 - Writing about one economic group when the question asks about interactions.
 - Ending an evaluation with "it depends" and no decision.
 
-## Next steps
+## More on this topic
 
 - Re-read the [economic foundations study guide](/resources/oxfordaqa-igcse-economics-9214-economic-foundations/).
 - Practise the next section with the [resource allocation practice questions](/resources/oxfordaqa-igcse-economics-9214-resource-allocation-practice/).

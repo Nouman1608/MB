@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -167,7 +167,7 @@ Find the gradient of the radius from the centre to the point of contact, take it
 **What form should a line equation be in for OCR A Level Mathematics?**
 Use the form the question asks for. If it asks for ax + by + c = 0 with integer coefficients, stopping at y = mx + c loses the mark.
 
-## Next steps
+## More on this topic
 
 - Review the methods in the [revision notes](/resources/ocr-a-level-mathematics-straight-lines-and-circles-revision-notes/).
 - Re-read the [study guide](/resources/ocr-a-level-mathematics-straight-lines-and-circles/) for any topic that cost you marks.

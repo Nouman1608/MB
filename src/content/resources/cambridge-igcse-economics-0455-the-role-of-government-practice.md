@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -135,7 +135,7 @@ Judgement: a shared approach works best: national government sets standards and 
 - Forgetting to explain why one country acting alone cannot solve a cross-border problem.
 - Ending a "discuss" question without stating which level should act and why.
 
-## Next steps
+## More on this topic
 
 - Recap the tables in the [role of government revision notes](/resources/cambridge-igcse-economics-0455-the-role-of-government-revision-notes/).
 - Reread the level-choosing method in the [role of government study guide](/resources/cambridge-igcse-economics-0455-the-role-of-government/).

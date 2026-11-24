@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -131,7 +131,7 @@ Study the methods first in the [section 1.12 study guide](/resources/ib-dp-mathe
 - Errors in i(a − bi): the result is b + ai.
 - Answers not written in the requested form a + bi.
 
-## Next steps
+## More on this topic
 
 - Recap in the [section 1.12 revision notes](/resources/ib-dp-mathematics-analysis-and-approaches-1-12-revision-notes/).
 - Continue with polar and Euler form in the [section 1.13 practice questions](/resources/ib-dp-mathematics-analysis-and-approaches-1-13-practice/).

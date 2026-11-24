@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -155,7 +155,7 @@ No. Supernormal profit is a transfer from consumers to the producer, not a loss 
 **How should I answer an always statement about monopoly or efficiency?**
 Avoid a one-sided conclusion. Argue from the evidence and say under what conditions the statement holds.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/aqa-a-level-economics-efficiency-market-structure-and-consumer-and-producer-revision-notes/) and the [study guide](/resources/aqa-a-level-economics-efficiency-market-structure-and-consumer-and-producer/).
 - Visit the [AQA A-level Economics hub](/boards/aqa/a-level/economics/) and tick off the [checklist](/checklists/aqa/a-level/economics/).

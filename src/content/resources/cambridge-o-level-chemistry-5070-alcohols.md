@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -138,7 +138,7 @@ When ethanol made by fermentation is burned, the carbon dioxide released was ori
 - **Compare** / **discuss**: give advantages and disadvantages of **both** methods, matched factor by factor.
 - **Suggest**: apply the comparison to the scenario given.
 
-## Next steps
+## More on this topic
 
 - Condense this section with the [alcohols revision notes](/resources/cambridge-o-level-chemistry-5070-alcohols-revision-notes/).
 - Test yourself with the [alcohols practice questions](/resources/cambridge-o-level-chemistry-5070-alcohols-practice/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -155,7 +155,7 @@ Longer answers list creditworthy points with `[1]` each as a revision aid. Real 
 - Naming a real example with no explanation of what happened or why it matters.
 - Giving a recommendation with no justification and no limitation.
 
-## Next steps
+## More on this topic
 
 - [Revision notes for this unit](/resources/ib-dp-global-politics-core-stakeholders-and-systems-revision-notes/)
 - [Study guide for this unit](/resources/ib-dp-global-politics-core-stakeholders-and-systems/)

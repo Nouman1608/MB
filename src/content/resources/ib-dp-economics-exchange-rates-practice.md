@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -145,7 +145,7 @@ Put the exchange rate on the vertical axis with units or a currency pair, such a
 **What do examiners want in an HL question comparing fixed and floating exchange rates?**
 Compare the two systems against two or three criteria, such as certainty, monetary policy freedom and the need for reserves, and reach a judgement for the country in the question. Describing each system separately with no comparison loses marks.
 
-## Next steps
+## More on this topic
 
 - Review with the [revision notes](/resources/ib-dp-economics-exchange-rates-revision-notes/) and the [study guide](/resources/ib-dp-economics-exchange-rates/).
 - Tick off the content on the [printable checklist](/checklists/ib/ib-dp/economics/) and visit the [IB DP Economics course page](/boards/ib/ib-dp/economics/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -141,7 +141,7 @@ Evaluation: staged payments are more important, because the main risk for a smal
 - Listing ways to reduce risk without saying what each costs.
 - Ignoring the size of a loss relative to the business's resources.
 
-## Next steps
+## More on this topic
 
 - Revisit the [risk and uncertainty study guide](/resources/ocr-a-level-business-h431-risk-and-uncertainty/) for any gaps.
 - Try the [opportunity cost practice questions](/resources/ocr-a-level-business-h431-opportunity-cost-practice/).

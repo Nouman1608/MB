@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -143,6 +143,6 @@ Related: [Motivation to work study guide](/resources/cambridge-a-level-psycholog
 - In question 5(a), stating that one group received more money.
 - In question 10(a), adding the values instead of multiplying.
 
-## Next steps
+## More on this topic
 
 Revisit weak areas in the [motivation to work study guide](/resources/cambridge-a-level-psychology-9990-motivation-to-work/), then try the mixed [Organisational Psychology practice questions](/resources/a-level-psychology-organisational-psychology-practice/).

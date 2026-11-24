@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -148,7 +148,7 @@ The opportunity cost of good X is the amount of good Y given up divided by the a
 **What do IB Economics examiners look for in discuss answers on free trade?**
 Explain the mechanism behind each benefit, include the losers as well as the winners, and use any extract or data given. Unlabelled diagrams and benefits named without a mechanism lose marks.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/ib-dp-economics-benefits-of-international-trade-revision-notes/) for any question you lost marks on.
 - Go back to the [study guide](/resources/ib-dp-economics-benefits-of-international-trade/) for the worked examples.

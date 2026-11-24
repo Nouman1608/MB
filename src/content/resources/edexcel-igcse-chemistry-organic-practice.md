@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false
@@ -205,7 +205,7 @@ These twelve questions cover Topic 4 of Pearson Edexcel International GCSE Chemi
 - Using "separated by size" in distillation answers instead of boiling point and condensing.
 - Describing cracking as "making the molecules smaller" without saying why it is done.
 
-## Next steps
+## More on this topic
 
 - Recap the topic with the [organic chemistry revision notes](/resources/edexcel-igcse-chemistry-4ch1-organic-chemistry-revision-notes/).
 - Rework anything you missed with the [organic chemistry study guide](/resources/edexcel-igcse-chemistry-4ch1-organic-chemistry/).

@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to zain-ud-din-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to zain-ud-din-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -200,7 +200,7 @@ Not recalculating the average cost after each receipt. A running record showing 
 **How should I answer a costing decision question?**
 Show the workings, exclude unavoidable fixed overhead, and include at least one non-financial factor in the recommendation. Recommending without any non-financial factor is a common way to lose marks.
 
-## Next steps
+## More on this topic
 
 - [Study guide](/resources/cambridge-a-level-accounting-costs-cost-behaviour-and-traditional-costing-methods/) and [revision notes](/resources/cambridge-a-level-accounting-costs-cost-behaviour-and-traditional-costing-methods-revision-notes/)
 - [Course hub](/boards/cambridge/a-level/accounting/) and [checklist](/checklists/cambridge/a-level/accounting/)

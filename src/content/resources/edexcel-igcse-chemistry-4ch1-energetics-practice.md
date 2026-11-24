@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -128,6 +128,6 @@ These questions cover sub-topic 3(a) Energetics of the Pearson Edexcel Internati
 - Saying that experimental heat losses make the result "too big".
 - Writing "energy is created" for an exothermic reaction.
 
-## Next steps
+## More on this topic
 
 Review the [energetics study guide](/resources/edexcel-igcse-chemistry-4ch1-energetics/) for any slips, then continue with the [rates of reaction study guide](/resources/edexcel-igcse-chemistry-4ch1-rates-of-reaction/).

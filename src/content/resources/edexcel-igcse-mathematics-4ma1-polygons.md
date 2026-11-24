@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -172,7 +172,7 @@ At 4MA1 this section asks you to recognise and use congruence as "same shape and
 - **"Give a reason"**: use phrases such as "angles in a quadrilateral add up to 360°" and "opposite angles of a parallelogram are equal".
 - Sketch and label the shape, marking equal sides and parallel sides.
 
-## Next steps
+## More on this topic
 
 Revise with the [polygons revision notes](/resources/edexcel-igcse-mathematics-4ma1-polygons-revision-notes/), then try the [polygons practice questions](/resources/edexcel-igcse-mathematics-4ma1-polygons-practice/). The triangle facts these results build on are in the [angles, lines and triangles study guide](/resources/edexcel-igcse-mathematics-4ma1-angles-lines-and-triangles/).
 

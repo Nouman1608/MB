@@ -17,7 +17,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -187,7 +187,7 @@ Replace with the **specific** image or feeling.
 11. Text A, the narrative text also used for Question 1.
 12. "Linguistic devices, figurative language and imagery."
 
-## Related resources
+## More resources on this topic
 
 - [Question 2 Use of Language: practice questions](/resources/cambridge-o-level-english-language-1123-question-2-use-of-language-practice/)
 - [Paper 1 Reading revision notes](/resources/o-level-english-language-paper-1-reading-revision-notes/)

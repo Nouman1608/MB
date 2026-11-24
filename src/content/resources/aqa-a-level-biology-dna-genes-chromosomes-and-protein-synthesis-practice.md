@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -163,7 +163,7 @@ Learn the content first from the [study guide](/resources/aqa-a-level-biology-dn
 - Saying introns are cut out of DNA.
 - Forgetting to say that a tRNA carries one specific amino acid.
 
-## Next steps
+## More on this topic
 
 - Return to the [revision notes](/resources/aqa-a-level-biology-dna-genes-chromosomes-and-protein-synthesis-revision-notes/) and [study guide](/resources/aqa-a-level-biology-dna-genes-chromosomes-and-protein-synthesis/).
 - Visit the [subject hub](/boards/aqa/a-level/biology/) and mark progress on the [checklist to print](/checklists/aqa/a-level/biology/).

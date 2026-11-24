@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -193,7 +193,7 @@ Links: [study guide](/resources/ocr-gcse-mathematics-interpreting-graphs-real-wo
 - Calling any straight line direct proportion, without checking it passes through the origin.
 - Not saying whether an area estimate is an over- or under-estimate when asked.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/ocr-gcse-mathematics-interpreting-graphs-real-world-graphs-gradients-and-revision-notes/) for any question you lost marks on.
 - Go back to the [study guide](/resources/ocr-gcse-mathematics-interpreting-graphs-real-world-graphs-gradients-and/) for full explanations.

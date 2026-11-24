@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -142,7 +142,7 @@ the charges to find the true ratio.
 11. MgBr₂.
 12. It shows one layer only, so the neighbours above and below are missing.
 
-## Next steps
+## More on this topic
 
 - [Ionic compounds study guide](/resources/aqa-gcse-chemistry-8462-ionic-compounds/)
 - [Ionic compounds practice questions](/resources/aqa-gcse-chemistry-8462-ionic-compounds-practice/)

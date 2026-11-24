@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -182,7 +182,7 @@ H₂N–CH(CH(OH)CH₃)–CO–NH–CH(CH₂C₆H₅)–CO–NH–CH(CH₂CH(CH�
 - Measuring Rf distances from the bottom edge, or inverting the fraction.
 - Explaining cisplatin without ligand replacement or the nitrogen atom.
 
-## Next steps
+## More on this topic
 
 - [Amino acids and proteins revision notes](/resources/oxfordaqa-a-level-chemistry-amino-acids-and-proteins-revision-notes/)
 - [Amino acids and proteins study guide](/resources/oxfordaqa-a-level-chemistry-amino-acids-and-proteins/)

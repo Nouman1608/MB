@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -133,7 +133,7 @@ Judgment: the proposal looks worthwhile on these figures, even though total reve
 - Evaluating without a final judgment tied to the figures.
 - Leaving out units such as dollars.
 
-## Next steps
+## More on this topic
 
 - Re-read the [3.3 study guide](/resources/ib-dp-business-management-costs-and-revenues/) and the [3.3 revision notes](/resources/ib-dp-business-management-costs-and-revenues-revision-notes/).
 - Check progress on the [printable checklist](/checklists/ib/ib-dp/business/) and the [IB Business Management hub](/boards/ib/ib-dp/business/).

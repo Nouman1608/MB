@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to zain-ud-din-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to zain-ud-din-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -203,7 +203,7 @@ A bare label such as "capital expenditure" earns little on its own; the reason, 
 **Why does the depreciation policy in the question matter?**
 Questions state a policy for the year of purchase or disposal, such as a full year's charge on purchase and none in the year of sale. Ignoring it carries an error through every later calculation in the question.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/accounting-non-current-assets-revision-notes/) and [study guide](/resources/accounting-non-current-assets/)
 - [Course hub](/boards/cambridge/a-level/accounting/) and [checklist](/checklists/cambridge/a-level/accounting/)

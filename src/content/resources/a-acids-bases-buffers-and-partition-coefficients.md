@@ -22,7 +22,7 @@ author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -348,7 +348,7 @@ Kpc is a ratio of the solute's concentration in one solvent to its concentration
 **Do I need Kb or Kw = Ka × Kb for Cambridge A Level Chemistry?**
 No. The 9701 syllabus requires pH, Ka, pKa and Kw calculations, but Kb and the relationship Kw = Ka × Kb are not required.
 
-## Related resources
+## More resources on this topic
 
 - [Acids and Bases: The Brønsted-Lowry
   Theory](/resources/as-acids-and-bases-bronsted-lowry-theory/) — the

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -149,7 +149,7 @@ Use π ∫ (outer² − inner²) dx, squaring each radius before subtracting. Sq
 **Why can a definite integral give the wrong area?**
 Regions below the x-axis give negative values, so integrating straight across a root can make areas cancel. Split at each root and add the sizes of the parts.
 
-## Next steps
+## More on this topic
 
 - [Integration revision notes](/resources/a-level-maths-9709-pure-mathematics-1-integration-revision-notes/) for the formula table and a quick self-test.
 - [Integration study guide](/resources/a-level-maths-9709-pure-mathematics-1-integration/) for full explanations and worked examples.

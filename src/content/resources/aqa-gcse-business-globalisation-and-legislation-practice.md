@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -100,7 +100,7 @@ These questions cover AQA GCSE Business (8132) sections 3.2.4 Globalisation and 
 - Leaving out the base figure when calculating a percentage change.
 - Confusing importers with exporters.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/aqa-gcse-business-globalisation-and-legislation-revision-notes/)
 - [Study guide](/resources/aqa-gcse-business-globalisation-and-legislation/)

@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -154,7 +154,7 @@ These questions cover section **3.3.12.1 Condensation polymers** of the AQA AS a
 - Claiming hydrogen bonding in polyesters.
 - Reversing which atom receives H when finding the monomers.
 
-## Next steps
+## More on this topic
 
 - [Condensation polymers revision notes](/resources/aqa-a-level-chemistry-7405-condensation-polymers-revision-notes/)
 - [Biodegradability and disposal of polymers practice questions](/resources/aqa-a-level-chemistry-7405-biodegradability-and-disposal-of-polymers-practice/)

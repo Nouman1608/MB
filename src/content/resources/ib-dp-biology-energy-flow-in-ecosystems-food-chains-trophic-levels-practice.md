@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -146,7 +146,7 @@ These questions cover the first part of sub-topic C4.2, Transfers of energy and 
 - Saying all faeces energy leaves the ecosystem.
 - Forgetting that autotrophs respire too.
 
-## Next steps
+## More on this topic
 
 - Review with the [revision notes](/resources/ib-dp-biology-energy-flow-in-ecosystems-food-chains-trophic-levels-revision-notes/) and the [study guide](/resources/ib-dp-biology-energy-flow-in-ecosystems-food-chains-trophic-levels/).
 - Course hub: [IB DP Biology](/boards/ib/ib-dp/biology/); [checklist](/checklists/ib/ib-dp/biology/).

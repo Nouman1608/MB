@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -134,7 +134,7 @@ These questions cover section 3.4 (Final accounts) of the IB *Business managemen
 - Describing both depreciation methods when the question asks you to justify one for an asset.
 - Giving evaluation without a judgement.
 
-## Next steps
+## More on this topic
 
 - Revise from the [revision notes](/resources/ib-dp-business-management-final-accounts-revision-notes/) and the [study guide](/resources/ib-dp-business-management-final-accounts/).
 - Tick off the [IB Business Management checklist](/checklists/ib/ib-dp/business/) and visit the [course hub](/boards/ib/ib-dp/business/).

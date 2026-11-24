@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -174,7 +174,7 @@ State the method first, then use several facts from the stem, such as quantity, 
 **Can a recommendation include a condition?**
 Yes, a recommendation that depends on a condition, such as a contract being signed, can work if the reasoning is clear. It should still weigh the gain against the risk that the expected demand does not arrive.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/igcse-business-0264-production-of-goods-and-services-revision-notes/).
 - Re-read the [study guide](/resources/igcse-business-0264-production-of-goods-and-services/).

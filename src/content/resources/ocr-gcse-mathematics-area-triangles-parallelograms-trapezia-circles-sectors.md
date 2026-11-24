@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide follows section 10.03 (Area calculations) of the OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026): 10.03a to 10.03e. Most of it is Foundation and Higher content. One result, the area of a triangle as ½ab sin C, is marked Higher tier only. Because the specification allows any content to appear on either type of paper, practise it by hand and with a calculator.
@@ -361,7 +361,7 @@ Square units convert with the square of the length factor: 1 m² = 100 × 100 = 
 - Rounding π to 3.14 early, or rounding part-way through a multi-step answer.
 - Leaving off the unit, or writing cm instead of cm².
 
-## Next steps
+## More on this topic
 
 Condense this unit with the [revision notes](/resources/ocr-gcse-mathematics-area-triangles-parallelograms-trapezia-circles-sectors-revision-notes/), then test yourself on the [practice questions](/resources/ocr-gcse-mathematics-area-triangles-parallelograms-trapezia-circles-sectors-practice/). For general paper technique, see the [exam preparation page](/resources/ocr-gcse-mathematics-exam-preparation/).
 

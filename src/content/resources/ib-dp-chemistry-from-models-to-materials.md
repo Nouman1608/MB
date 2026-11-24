@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches **Structure 2.4, From models to materials**, following the IB *Chemistry guide* (Diploma Programme; published February 2023; first assessment 2025). It works through understandings Structure 2.4.1 to 2.4.6. The first five are for SL and HL; Structure 2.4.6 is additional higher level, so it is **HL only**.
@@ -259,7 +259,7 @@ Each chain unit is C₆H₁₀O₅ (162.16 g mol⁻¹); adding water gives gluco
 - Putting a side group into the backbone of an addition polymer, or leaving out continuation bonds and n.
 - (HL) Forgetting to remove H₂O at each link, or confusing the amide link –CONH– with an amine.
 
-## Next steps
+## More on this topic
 
 - Recap with the [condensed notes for this unit](/resources/ib-dp-chemistry-from-models-to-materials-revision-notes/)
 - Test yourself on the [worked practice set](/resources/ib-dp-chemistry-from-models-to-materials-practice/)

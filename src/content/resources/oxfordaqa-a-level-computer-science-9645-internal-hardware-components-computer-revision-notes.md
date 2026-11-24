@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -149,7 +149,7 @@ The only differences are the signal on the control bus and the direction in whic
 11. It manages the exchange of data between a peripheral and the processor or memory, translating signals and holding data until ready.
 12. Its contents are lost when the power is removed.
 
-## Next steps
+## More on this topic
 
 - [Internal hardware components study guide](/resources/oxfordaqa-a-level-computer-science-9645-internal-hardware-components-computer/)
 - [Internal hardware components practice questions](/resources/oxfordaqa-a-level-computer-science-9645-internal-hardware-components-computer-practice/)

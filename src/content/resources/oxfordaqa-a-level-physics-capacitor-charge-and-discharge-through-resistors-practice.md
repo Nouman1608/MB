@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -161,7 +161,7 @@ These questions cover section 3.9.1, Capacitor charge and discharge, of the Oxfo
 - Saying the capacitor is discharged after one time constant; 37% is left.
 - Describing a curve without its start value, or without saying it never reaches the end value.
 
-## Next steps
+## More on this topic
 
 - Recall the formulas in the [revision notes](/resources/oxfordaqa-a-level-physics-capacitor-charge-and-discharge-through-resistors-revision-notes/) or re-read the [study guide](/resources/oxfordaqa-a-level-physics-capacitor-charge-and-discharge-through-resistors/).
 - Go to the [OxfordAQA A-level Physics hub](/boards/oxfordaqa/a-level/physics/) or tick topics off on the [checklist](/checklists/oxfordaqa/a-level/physics/).

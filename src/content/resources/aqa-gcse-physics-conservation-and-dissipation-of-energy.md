@@ -18,7 +18,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-19
 updatedDate: 2026-09-27
 featured: false
@@ -233,7 +233,7 @@ The higher the thermal conductivity of the walls, the higher the rate of energy 
 **What is required practical activity 2 in AQA GCSE Physics?**
 Required practical activity 2 (physics only) investigates the effectiveness of different materials as thermal insulators. Containers of hot water are wrapped in different materials or thicknesses, and the one with the smallest temperature drop over the same time is the best insulator.
 
-## Related resources
+## More resources on this topic
 
 - [Conservation and Dissipation of Energy practice questions](/resources/aqa-gcse-physics-energy-practice/) — worked exam-style questions on this sub-topic
 - [Conservation and Dissipation of Energy revision notes](/resources/aqa-gcse-physics-energy-revision-notes/)

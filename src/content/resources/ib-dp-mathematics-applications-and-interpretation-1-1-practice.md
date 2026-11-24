@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -172,7 +172,7 @@ Learn the methods first in the [study guide for section 1.1](/resources/ib-dp-ma
 - Forgetting to convert mm or km to metres before dividing.
 - Giving an answer to 2 significant figures where 3 are expected.
 
-## Next steps
+## More on this topic
 
 - Revisit any rule you missed in the [revision notes for section 1.1](/resources/ib-dp-mathematics-applications-and-interpretation-1-1-revision-notes/).
 - Extend to sequences, approximation and finance with the [number and financial mathematics practice questions](/resources/ib-dp-mathematics-ai-number-approximation-financial-practice/).

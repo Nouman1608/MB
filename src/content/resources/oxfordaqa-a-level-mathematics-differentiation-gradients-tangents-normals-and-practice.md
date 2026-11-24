@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -127,7 +127,7 @@ These questions cover specification section P1.3 (Differentiation) of the Oxford
 - Leaving a rejected value, such as one outside the physical domain, in the final answer.
 - Dropping units on a rate of change.
 
-## Next steps
+## More on this topic
 
 - Revise the method with the [revision notes](/resources/oxfordaqa-a-level-mathematics-differentiation-gradients-tangents-normals-and-revision-notes/).
 - Re-read the explanations in the [study guide](/resources/oxfordaqa-a-level-mathematics-differentiation-gradients-tangents-normals-and/).

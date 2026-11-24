@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -146,7 +146,7 @@ These questions cover section 4.4 (Economic growth), outcomes 4.4.1 to 4.4.5, of
 - Listing causes of long-run growth without linking them to LRAS or the PPC.
 - Listing consequences without any judgement about who gains or when.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/cambridge-a-level-economics-economic-growth-measurement-causes-and-consequences-revision-notes/) and the [study guide](/resources/cambridge-a-level-economics-economic-growth-measurement-causes-and-consequences/).
 - Check your coverage on the [printable checklist](/checklists/cambridge/a-level/economics/) and the [course hub](/boards/cambridge/a-level/economics/).

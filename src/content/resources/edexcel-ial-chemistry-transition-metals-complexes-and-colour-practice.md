@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -179,7 +179,7 @@ Data for this set: Ar values H = 1.0, N = 14.0, Cl = 35.5, Pt = 195.1; molar gas
 - Giving 90° for tetrahedral complexes, or confusing cis (90°) and trans (180°).
 - Describing CO poisoning without ligand exchange or stronger bonding.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/edexcel-ial-chemistry-transition-metals-complexes-and-colour-revision-notes/)
 - Re-read the [study guide](/resources/edexcel-ial-chemistry-transition-metals-complexes-and-colour/)

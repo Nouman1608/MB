@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -138,7 +138,7 @@ Standard deviation = √3.654 = **1.91** (3 s.f.) [1]
 - Answering a comparison with only centre or only spread, or with no figures.
 - Saying the median "must" change when a value is added, when it can stay the same.
 
-## Next steps
+## More on this topic
 
 - Review the short summary in the [revision notes](/resources/cambridge-igcse-statistics-transforming-combining-and-comparing-data-sets-coding-revision-notes/).
 - Re-read the explanations in the [study guide](/resources/cambridge-igcse-statistics-transforming-combining-and-comparing-data-sets-coding/).

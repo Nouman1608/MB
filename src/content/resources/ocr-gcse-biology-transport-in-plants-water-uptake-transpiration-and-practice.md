@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -189,7 +189,7 @@ These questions cover plant transport in the OCR GCSE (9-1) Biology A specificat
 - Leaving out units, or omitting "per hour" in a rate of change.
 - Naming no control variables in a potometer method.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/ocr-gcse-biology-transport-in-plants-water-uptake-transpiration-and-revision-notes/).
 - Re-read the [study guide](/resources/ocr-gcse-biology-transport-in-plants-water-uptake-transpiration-and/).

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -167,7 +167,7 @@ Evaluate the function at both ends of the interval, show the sign change, and st
 **How accurately should you give an answer calculated from rounded measurements?**
 Work out the lower and upper bounds, then quote only the figures on which both bounds agree. Giving the raw product to more figures than the data supports loses credit.
 
-## Next steps
+## More on this topic
 
 - Go back over the [revision notes](/resources/aqa-a-level-mathematics-problem-solving-cycle-numerical-accuracy-and-revision-notes/) and the [study guide](/resources/aqa-a-level-mathematics-problem-solving-cycle-numerical-accuracy-and/).
 - Use the [course hub](/boards/aqa/a-level/mathematics/) and [printable checklist](/checklists/aqa/a-level/mathematics/).

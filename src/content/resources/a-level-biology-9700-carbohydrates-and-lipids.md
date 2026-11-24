@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches section 2.2 Carbohydrates and lipids from Topic 2, Biological molecules, in the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It covers all eleven learning outcomes in section 2.2. This is AS Level content: it is examined on Paper 1 (Multiple Choice) and Paper 2 (AS Level Structured Questions), and Paper 4 can draw on it because A Level questions require knowledge of the AS content. Calculators are allowed in all 9700 papers.
@@ -252,7 +252,7 @@ The phosphate group is charged, so the "head" is **polar and hydrophilic**: it a
 - Saying glycogen is found in plants.
 - Not giving the reason lipids store more energy: more C–H bonds per gram.
 
-## Next steps
+## More on this topic
 
 - Recall: [Carbohydrates and lipids revision notes](/resources/a-level-biology-9700-carbohydrates-and-lipids-revision-notes/)
 - Test yourself: [Carbohydrates and lipids practice questions](/resources/a-level-biology-9700-carbohydrates-and-lipids-practice/)

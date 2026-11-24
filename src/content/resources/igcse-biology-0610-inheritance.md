@@ -32,7 +32,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches topic 17, Inheritance, of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028. It covers sections 17.1 Chromosomes, genes and proteins, 17.2 Mitosis, 17.3 Meiosis and 17.4 Monohybrid inheritance. Core candidates need the Core statements in 17.1 and 17.4. Sections 17.2 and 17.3 are entirely Supplement, so they are marked **Extended only**, along with the Supplement statements in 17.1 and 17.4.
@@ -310,7 +310,7 @@ Always write sex-linked genotypes with the X and Y shown. Writing "Bb" loses the
 - Writing the blood group alleles as A, B and O. Use Iᴬ, Iᴮ and Iᵒ.
 - Leaving out the Y chromosome in a sex-linked cross, so the sons' phenotypes cannot be worked out.
 
-## Next steps
+## More on this topic
 
 - Condensed recall and a self-test: [Inheritance revision notes](/resources/igcse-biology-0610-inheritance-revision-notes/)
 - Exam-style questions with answers: [Inheritance practice questions](/resources/igcse-biology-inheritance-practice/)

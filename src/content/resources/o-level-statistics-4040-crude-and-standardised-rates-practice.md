@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-29
 featured: false
-reviewNote: "2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -192,7 +192,7 @@ Death rates depend strongly on age. A region with many older people can have a h
 **Can you average two regions' crude rates to get an overall rate?**
 Only if the regions have equal populations. Otherwise the overall rate is a weighted average: find the total number of events and divide by the total population.
 
-## Next steps
+## More on this topic
 
 - Next topic: [index numbers practice](/resources/o-level-statistics-4040-index-numbers-practice/)
 - [Time series practice](/resources/o-level-statistics-4040-time-series-moving-averages-practice/)

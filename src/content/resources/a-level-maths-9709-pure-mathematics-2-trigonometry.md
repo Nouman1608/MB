@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -326,7 +326,7 @@ Change sec to cos first, for example sec θ = −3/2 becomes cos θ = −2/3, be
 **How do you choose which identity to use?**
 Use a Pythagorean identity for tan² with sec or cot² with cosec, a compound-angle expansion for sin(θ ± k), a double-angle formula when 2θ appears with θ, and the R-form for a sin θ + b cos θ = c.
 
-## Next steps
+## More on this topic
 
 Condense this unit with the [revision notes](/resources/a-level-maths-9709-pure-mathematics-2-trigonometry-revision-notes/), then try the [practice questions](/resources/a-level-maths-9709-pure-mathematics-2-trigonometry-practice/). The [Pure Mathematics 2 practice set](/resources/a-level-mathematics-pure-mathematics-2-practice/) mixes trigonometry with the rest of Paper 2. For the A Level route, the [Pure Mathematics 3 study guide](/resources/a-level-maths-9709-pure-mathematics-3/) and the [Pure 3 trigonometry, vectors and complex numbers practice](/resources/a-level-mathematics-pure-3-trig-vectors-complex-practice/) cover section 3.3. Check your AS readiness with the free [AS diagnostic](/practice/9709/diagnostic/as/) or the [9709 self-check bank](/practice/9709/).
 

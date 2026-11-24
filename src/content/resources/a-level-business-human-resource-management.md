@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-01
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers **Topic 2 Human resource management**, an AS Level
@@ -216,7 +216,7 @@ Cambridge International AS & A Level Business 9609 syllabus for 2026,
 2027 and 2028 (Version 2, December 2025) —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/697371-2026-2028-syllabus.pdf).
 
-## Related resources
+## More resources on this topic
 
 - [Business and its Environment](/resources/a-level-business-business-and-its-environment/)
   — the first topic of 9609, a prerequisite for this topic

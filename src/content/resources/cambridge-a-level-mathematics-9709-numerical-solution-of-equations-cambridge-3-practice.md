@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -150,7 +150,7 @@ Related: the [3.6 study guide](/resources/cambridge-a-level-mathematics-9709-num
 - Claiming a diverging or wrongly converging iteration gives the required root.
 - Losing the exact form when asked for the limit, such as ⁴√18 or 1 + √2.
 
-## Next steps
+## More on this topic
 
 - [3.6 study guide](/resources/cambridge-a-level-mathematics-9709-numerical-solution-of-equations-cambridge-3/)
 - [3.6 revision notes](/resources/cambridge-a-level-mathematics-9709-numerical-solution-of-equations-cambridge-3-revision-notes/)

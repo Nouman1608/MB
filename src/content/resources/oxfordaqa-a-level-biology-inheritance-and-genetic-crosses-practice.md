@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -151,7 +151,7 @@ These questions cover sections 3.3.6.1 and 3.3.6.2 of the OxfordAQA *Internation
 - Writing "accepted" or "proved" instead of "not rejected".
 - Not stating what a significant result suggests, such as linkage or epistasis.
 
-## Next steps
+## More on this topic
 
 - Revise: [revision notes](/resources/oxfordaqa-a-level-biology-inheritance-and-genetic-crosses-revision-notes/) and [study guide](/resources/oxfordaqa-a-level-biology-inheritance-and-genetic-crosses/)
 - Course: [OxfordAQA A-level Biology hub](/boards/oxfordaqa/a-level/biology/) and [checklist](/checklists/oxfordaqa/a-level/biology/)

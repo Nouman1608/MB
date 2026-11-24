@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
-reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide follows the Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0) specification, Issue 2, July 2022. It covers Theme 2, Topic 2.3 Making operational decisions, content items 2.3.1 Business operations and 2.3.2 Managing stock (working with suppliers). The specification says formulae are listed in Appendix 3 and are not provided in the examinations. Productivity and unit cost are not in that list, so the forms used below are the standard forms, and you should learn them.
@@ -245,7 +245,7 @@ These links connect the topic. A supplier delay can lead to a stock-out, then a 
 - Choosing the cheapest supplier on price alone.
 - Giving technology advantages with no balancing disadvantage.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [practice questions](/resources/edexcel-gcse-business-business-operations-and-managing-stock-practice/), then recap using the [revision notes](/resources/edexcel-gcse-business-business-operations-and-managing-stock-revision-notes/). The [free diagnostics](/diagnostics/) show where to focus.
 

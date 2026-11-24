@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -158,7 +158,7 @@ Say that one firm supplies all or most of the output, and mention barriers to en
 **How should you explain why competition lowers prices?**
 Explain the chain: with many firms selling similar products, rivals undercut each other, so no firm can charge much above its costs. Stating that competition lowers prices without this reason earns less credit.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/cambridge-o-level-economics-trade-unions-factor-demand-labour-and-capital-revision-notes/) and the [study guide](/resources/cambridge-o-level-economics-trade-unions-factor-demand-labour-and-capital/).
 - Return to the [Cambridge O Level Economics hub](/boards/cambridge/o-level/economics/) and tick off the [checklist](/checklists/cambridge/o-level/economics/).

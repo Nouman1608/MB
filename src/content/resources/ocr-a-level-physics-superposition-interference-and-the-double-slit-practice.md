@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -158,7 +158,7 @@ The conditions swap: a path difference of a whole number of wavelengths gives de
 **What must you state when deriving λ = ax/D?**
 State that the slit separation a is much smaller than the slit-to-screen distance D, so the small-angle approximation applies. Leaving out this condition loses a mark.
 
-## Next steps
+## More on this topic
 
 - Review with the [revision notes](/resources/ocr-a-level-physics-superposition-interference-and-the-double-slit-revision-notes/) and the [study guide](/resources/ocr-a-level-physics-superposition-interference-and-the-double-slit/).
 - Tick off the unit on the [OCR A Level Physics hub](/boards/ocr/a-level/physics/) and [checklist](/checklists/ocr/a-level/physics/).

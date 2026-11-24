@@ -18,7 +18,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 updatedDate: 2026-09-27
 featured: false
@@ -217,7 +217,7 @@ Only approximately, for small angles. Simple harmonic motion strictly requires F
 **Should my calculator be in degrees or radians for SHM calculations?**
 Radians. In x = A cos ωt and v = −Aω sin ωt, ωt is an angle in radians, and leaving the calculator in degrees is a common slip.
 
-## Related resources
+## More resources on this topic
 
 - [Unit 5: Nuclear Decay](/resources/edexcel-ial-physics-nuclear-decay/) — the previous sub-topic
 - [Unit 5: Astrophysics and Cosmology](/resources/edexcel-ial-physics-astrophysics-and-cosmology-ial/) — the next and final sub-topic

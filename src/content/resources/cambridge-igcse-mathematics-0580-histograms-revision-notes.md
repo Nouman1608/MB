@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -129,7 +129,7 @@ Or use area: (area of known bar) ÷ (its frequency) = area per item.
 11. Density = 30 ÷ 10 = 3 for 6 cm, so 1 cm = 0.5; 2 cm = 1; 1 × 20 = **20**.
 12. **Same shape**: every height is the frequency divided by 5.
 
-## Next steps
+## More on this topic
 
 - Re-read the worked examples in the [histograms study guide](/resources/cambridge-igcse-mathematics-0580-histograms/).
 - Try the [histograms practice questions](/resources/cambridge-igcse-mathematics-0580-histograms-practice/).

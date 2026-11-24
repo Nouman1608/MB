@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please check the procedural details given for Tulving's gold memory study and Penfield's study against the course textbook."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please check the procedural details given for Tulving's gold memory study and Penfield's study against the course textbook. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -225,7 +225,7 @@ understanding. Damage to the frontal lobe can change personality and self-contro
 - **Apply:** name the structure or process and link it to the person's symptom or action.
 - **Evaluate a study:** sample, artificiality and what the evidence supports.
 
-## Related resources
+## More resources on this topic
 
 - [Biopsychology revision notes](/resources/oxfordaqa-igcse-psychology-9218-biopsychology-revision-notes/)
 - [Biopsychology practice questions](/resources/oxfordaqa-igcse-psychology-9218-biopsychology-practice/)

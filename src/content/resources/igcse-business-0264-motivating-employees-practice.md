@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -167,7 +167,7 @@ Weigh the options using the case data, such as costs, staff numbers and current 
 **What does a "distinguish between" question need?**
 Explain what each of the two terms means and make the key difference clear in both halves of the answer. Describing only one term, or listing features without a contrast, does not show the distinction.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/igcse-business-0264-motivating-employees-revision-notes/) and the [study guide](/resources/igcse-business-0264-motivating-employees/).
 - Return to the [course hub](/boards/cambridge/igcse/business/) and the [printable checklist](/checklists/cambridge/igcse/business/).

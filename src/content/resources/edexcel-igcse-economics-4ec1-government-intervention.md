@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -166,7 +166,7 @@ A minimum wage is the lowest wage per hour that employers are legally allowed to
 - Saying permits always cut pollution; it depends on the cap.
 - Listing aims of competition policy with no example of what the government does.
 
-## Next steps
+## More on this topic
 
 Condense this with the [government intervention revision notes](/resources/edexcel-igcse-economics-4ec1-government-intervention-revision-notes/), then apply it in the [government intervention practice questions](/resources/edexcel-igcse-economics-4ec1-government-intervention-practice/). The labour market diagrams are built in [the labour market](/resources/edexcel-igcse-economics-4ec1-the-labour-market/).
 

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -165,7 +165,7 @@ charges: 10 μF has 40 μC; 20 μF has 80 μC
 - **Calculate** (a network): show each reduction step, then work back to individual charges and p.d.s, and check that charges and p.d.s are consistent.
 - **Explain** (equal charges in series): the connected inner plates form an isolated conductor with zero net charge.
 
-## Related resources
+## More resources on this topic
 
 - [Capacitance study guide](/resources/a-physics-capacitance/) — the whole of Topic 19
 - [Capacitors and capacitance revision notes](/resources/cambridge-a-level-physics-9702-a-capacitors-and-capacitance-revision-notes/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -161,7 +161,7 @@ Counting for prisms with an n-sided cross-section: n + 2 faces, 3n edges, 2n ver
 11. **Diameter**
 12. **Frustum**
 
-## Next steps
+## More on this topic
 
 - Re-read the worked examples in the [geometrical terms study guide](/resources/cambridge-igcse-mathematics-0580-geometrical-terms/).
 - Practise with the [geometrical terms practice questions](/resources/cambridge-igcse-mathematics-0580-geometrical-terms-practice/).

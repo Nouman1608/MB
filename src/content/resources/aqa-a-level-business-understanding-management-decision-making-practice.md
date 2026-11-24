@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -126,7 +126,7 @@ Judgement: Y is the better choice [1], because X's extra £13,000 of expected ne
 - Stating one approach (data or intuition) is always better.
 - Leaving calculations without working, so a slip cannot be credited.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/aqa-a-level-business-understanding-management-decision-making-revision-notes/) and [study guide](/resources/aqa-a-level-business-understanding-management-decision-making/)
 - [Topic practice paper](/resources/aqa-a-level-business-managers-leadership-practice/)

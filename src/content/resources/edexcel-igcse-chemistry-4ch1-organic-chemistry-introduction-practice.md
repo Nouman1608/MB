@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -147,6 +147,6 @@ These questions cover sub-topic 4(a) Introduction of the Pearson Edexcel Interna
 - Not giving the reason in a classification of reaction.
 - Writing "same formula" without "different structural formula" for isomers.
 
-## Next steps
+## More on this topic
 
 Review the [organic chemistry introduction study guide](/resources/edexcel-igcse-chemistry-4ch1-organic-chemistry-introduction/) for any slips, then continue with the [crude oil study guide](/resources/edexcel-igcse-chemistry-4ch1-crude-oil/).

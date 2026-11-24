@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -228,7 +228,7 @@ Sulfuric acid adds sulfate ions, which would give a positive result whether or n
 **What common slips happen in Group 2 calculations?**
 Forgetting the 1 : 2 ratio of TiCl₄ to Mg when finding the limiting reagent, and leaving pressure in kPa in pV = nRT, are frequent errors. Write the mole comparison out in full for "show that" questions.
 
-## Next steps
+## More on this topic
 
 - [Group 2 revision notes](/resources/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals-revision-notes/)
 - [Group 2 study guide](/resources/aqa-a-level-chemistry-group-2-the-alkaline-earth-metals/)

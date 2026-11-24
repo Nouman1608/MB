@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -144,7 +144,7 @@ No two magnitudes are equal, so the triangle is not isosceles. For a right angle
 11. √130 = **11.4**
 12. 2a² = 32, a² = 16, **a = 4**
 
-## Next steps
+## More on this topic
 
 - Re-read the worked examples in the [magnitude of a vector study guide](/resources/cambridge-igcse-mathematics-0580-magnitude-of-a-vector/).
 - Revise column-vector arithmetic in the [vectors in two dimensions revision notes](/resources/cambridge-igcse-mathematics-0580-vectors-in-two-dimensions-revision-notes/).

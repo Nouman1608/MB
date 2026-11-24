@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers sections 1.1 (Types of business organisation) and 1.2 (Accounting concepts) of Topic 1, The accounting environment, in the Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016. The specification says Paper 1 draws exclusively on Topics 1 to 3, and Paper 2 builds on those topics as well as Topics 4 and 5, so this material can matter in both papers. Every amount is in dollars ($) and every business and person below is invented.
@@ -230,7 +230,7 @@ None of these is a business expense. All three are **drawings**: 14,000 + 300 + 
 - Treating accruals as the same thing as cash paid.
 - Putting the owner's personal spending through the expenses.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [practice questions](/resources/edexcel-igcse-accounting-types-of-business-organisation-and-accounting-concepts-practice/), then use the [revision notes](/resources/edexcel-igcse-accounting-types-of-business-organisation-and-accounting-concepts-revision-notes/). Check your readiness with the [free diagnostics](/diagnostics/).
 

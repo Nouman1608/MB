@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -156,7 +156,7 @@ When a source is being **charged**, current is forced into its positive terminal
 - **Calculate** or **determine**: write ε = I(R + r) first, then substitute.
 - **Draw** a circuit: use the syllabus symbols, straight lines with junction dots, and place meters correctly.
 
-## Related resources
+## More resources on this topic
 
 - [D.C. circuits study guide](/resources/as-physics-dc-circuits/) — the whole of Topic 10, including the full symbol table
 - [Practical circuits revision notes](/resources/cambridge-a-level-physics-9702-as-practical-circuits-revision-notes/)

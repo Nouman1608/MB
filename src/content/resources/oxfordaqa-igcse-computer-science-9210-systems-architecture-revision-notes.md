@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -186,7 +186,7 @@ interaction.
 10. Access from any device with an internet connection (or off-site copies).
 11. Yes, because it is built into the machine for a dedicated function.
 
-## Related resources
+## More resources on this topic
 
 - [Systems architecture study guide](/resources/oxfordaqa-igcse-computer-science-9210-systems-architecture/)
 - [Systems architecture practice questions](/resources/oxfordaqa-igcse-computer-science-9210-systems-architecture-practice/)

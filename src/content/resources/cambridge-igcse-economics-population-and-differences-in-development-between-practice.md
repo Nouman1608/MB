@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -163,7 +163,7 @@ This set tests sections 5.3 and 5.4 of the Cambridge IGCSE Economics 0455 syllab
 - Writing "more people means more growth" with no mention of resources or capital.
 - Evaluation that lists points but gives no judgement.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/cambridge-igcse-economics-population-and-differences-in-development-between-revision-notes/) and the [study guide](/resources/cambridge-igcse-economics-population-and-differences-in-development-between/).
 - Visit the [Cambridge IGCSE Economics hub](/boards/cambridge/igcse/economics/) and tick off the [printable checklist](/checklists/cambridge/igcse/economics/).

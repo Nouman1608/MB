@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -157,6 +157,6 @@ A source from the "losing" or opposing side that still supports a view is especi
 11. It does not decide which side is stronger or explain why.
 12. Part 1 or Part 2.
 
-## Next steps
+## More on this topic
 
 Work through the five-source sets in the [Question 4 practice questions](/resources/oxfordaqa-igcse-world-history-9245-source-question-4-practice/).

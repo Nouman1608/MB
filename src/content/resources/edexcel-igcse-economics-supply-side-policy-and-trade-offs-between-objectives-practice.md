@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -153,7 +153,7 @@ Divide nominal GDP by the price index (as a decimal, such as 1.02) to remove pri
 **What do Edexcel IGCSE Economics answers on supply-side policy need?**
 A chain from what the government does, to how firms or workers respond, to the effect on productivity or output and then the objective. In a long answer, finish with a judgement that follows from your argument and mention costs such as lost tax revenue.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/edexcel-igcse-economics-supply-side-policy-and-trade-offs-between-objectives-revision-notes/) and the [study guide](/resources/edexcel-igcse-economics-supply-side-policy-and-trade-offs-between-objectives/).
 - Visit the [Edexcel IGCSE Economics hub](/boards/edexcel/igcse/economics/) and tick off the [checklist](/checklists/edexcel/igcse/economics/).

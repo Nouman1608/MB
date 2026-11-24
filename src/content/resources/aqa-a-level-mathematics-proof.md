@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches section 3.2 **A: Proof** of the AQA A-level Mathematics (7357) specification, version 1.3 (31 January 2018), for A-level exams from June 2018 onwards. The section has one content reference, **A1**, and this guide covers every part of it: the structure of a proof, proof by deduction, proof by exhaustion, disproof by counter-example and proof by contradiction. 7357 is a linear A-level, so there is no AS/A split to worry about. Proof is listed in the content for **Paper 1**, and Papers 2 and 3 can each assess any Paper 1 content, so a proof question can appear on any of the three papers.
@@ -320,7 +320,7 @@ No. A calculator check of a few values is evidence, not proof, even though a cal
 **Is the product of the first n primes plus 1 always prime?**
 No. For example, 2 × 3 × 5 × 7 × 11 × 13 + 1 = 30031 = 59 × 509. The infinitely-many-primes proof only needs that number to have a prime factor missing from the list.
 
-## Next steps
+## More on this topic
 
 - Condensed recall and a quick self-test: [Proof revision notes](/resources/aqa-a-level-mathematics-proof-revision-notes/).
 - Original exam-style questions with marked answers: [Proof practice questions](/resources/aqa-a-level-mathematics-proof-practice/).

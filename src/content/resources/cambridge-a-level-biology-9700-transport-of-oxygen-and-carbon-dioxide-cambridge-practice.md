@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -140,7 +140,7 @@ Fully saturated blood carries 20 cm³ of oxygen per 100 cm³.
 - Reading saturation values from the wrong axis or using percentages as volumes.
 - Explaining the curve's importance without naming lungs and tissues.
 
-## Next steps
+## More on this topic
 
 - [Oxygen and carbon dioxide transport study guide](/resources/cambridge-a-level-biology-9700-transport-of-oxygen-and-carbon-dioxide-cambridge/)
 - [Oxygen and carbon dioxide transport revision notes](/resources/cambridge-a-level-biology-9700-transport-of-oxygen-and-carbon-dioxide-cambridge-revision-notes/)

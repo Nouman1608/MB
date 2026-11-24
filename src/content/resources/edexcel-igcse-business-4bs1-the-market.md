@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "asif-iqbal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -139,7 +139,7 @@ Benefits: less wasted promotion, products that fit needs, chance to charge more.
 - Calling any small business "niche". Niche refers to the target market, not the firm's size.
 - Listing segmentation bases without showing how the business would target the segment.
 
-## Next steps
+## More on this topic
 
 Condense this with the [revision notes on the market](/resources/edexcel-igcse-business-4bs1-the-market-revision-notes/), then try the [practice questions on the market](/resources/edexcel-igcse-business-4bs1-the-market-practice/). Research methods are in the [market research study guide](/resources/edexcel-igcse-business-4bs1-market-research/).
 

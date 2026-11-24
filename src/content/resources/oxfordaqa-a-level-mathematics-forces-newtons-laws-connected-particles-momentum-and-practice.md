@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -146,7 +146,7 @@ These questions cover sections M1.3 and M1.4 of the OxfordAQA International AS a
 * Giving an impulse without a direction, or a force without units.
 * Rounding intermediate values before the final line.
 
-## Next steps
+## More on this topic
 
 * Revise with the [revision notes](/resources/oxfordaqa-a-level-mathematics-forces-newtons-laws-connected-particles-momentum-and-revision-notes/) and re-read the [study guide](/resources/oxfordaqa-a-level-mathematics-forces-newtons-laws-connected-particles-momentum-and/).
 * See the [course hub](/boards/oxfordaqa/a-level/mathematics/) and the [printable checklist](/checklists/oxfordaqa/a-level/mathematics/).

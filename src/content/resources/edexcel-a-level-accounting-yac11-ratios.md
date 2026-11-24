@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the formula wording for non-current assets to revenue (written here as revenue divided by non-current assets, in times) and the capital employed definition (capital plus non-current liabilities) against Pearson's published formula sheet."
+reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check the formula wording for non-current assets to revenue (written here as revenue divided by non-current assets, in times) and the capital employed definition (capital plus non-current liabilities) against Pearson's published formula sheet. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -144,7 +144,7 @@ A forecast like this is only as good as its assumptions. Test them: is the 10% g
 - When asked for **future projections**, state each assumption beside the figure.
 - Keep to the data. Do not invent causes that the data cannot support; use words such as "may" or "this could be because".
 
-## Related resources
+## More resources on this topic
 
 [Analysis of accounting statements revision notes](/resources/edexcel-ial-accounting-analysis-of-accounting-statements-revision-notes/) |
 [Ratios practice questions](/resources/edexcel-a-level-accounting-yac11-ratios-practice/) |

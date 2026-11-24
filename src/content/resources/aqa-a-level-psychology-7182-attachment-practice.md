@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -179,7 +179,7 @@ Use the findings of the English and Romanian Adoptees project to explain how the
 - Treating the internal working model as fixed.
 - Leaving out a judgement in 8- and 16-mark answers.
 
-## Next steps
+## More on this topic
 
 Check your answers against the [attachment study guide](/resources/aqa-a-level-psychology-7182-attachment/) and revise weak areas with the [attachment revision notes](/resources/aqa-a-level-psychology-7182-attachment-revision-notes/). For mixed Paper 1 questions, try the [Introductory Topics practice questions](/resources/aqa-a-level-psychology-introductory-practice/).
 

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -157,7 +157,7 @@ Data: R = 8.31 J mol⁻¹ K⁻¹; N_A = 6.02 × 10²³ mol⁻¹; k = 1.38 × 10�
 - Describing pressure change with only one molecular effect.
 - Confusing c_rms with mean speed or with E_k.
 
-## Next steps
+## More on this topic
 
 - [Thermal physics revision notes](/resources/aqa-a-level-physics-7408-thermal-physics-revision-notes/)
 - [Thermal physics study guide](/resources/aqa-a-level-physics-7408-thermal-physics/)

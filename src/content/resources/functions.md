@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-08-18
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers subtopic **2.12 Functions**, from Topic 2, Algebra and
@@ -236,7 +236,7 @@ No. f⁻¹(x) is the inverse function, which reverses what f does, while 1/f(x) 
 **Do you need to find the domain and range of composite functions for 4024?**
 No. Candidates are not expected to find the domain and range of composite functions, only to form and evaluate them, such as fh(x) = f(h(x)).
 
-## Related resources
+## More resources on this topic
 
 - [Graphs of Functions and Sketching Curves](/resources/graphs-of-functions-and-sketching-curves/) — the previous subtopics
 - [Algebraic Manipulation](/resources/algebraic-manipulation/) — subtopics

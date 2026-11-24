@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 **These notes reduce Section 5 Industrial development of Cambridge O Level Pakistan Studies 2059
@@ -171,7 +171,7 @@ Crafts are the clearest example, along with home-based stitching for sports good
 An EPZ is aimed at export production with duty-free inputs; a special economic zone offers
 incentives to firms that may sell at home as well as abroad.
 
-## Related resources
+## More resources on this topic
 
 - [Industrial Development study guide](/resources/o-level-pakistan-studies-industrial-development/)
 - [Industrial Development practice questions](/resources/o-level-pakistan-studies-industrial-development-practice/)

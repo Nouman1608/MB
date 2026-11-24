@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -127,7 +127,7 @@ Data: threshold of hearing I₀ = 1.0 × 10⁻¹² W m⁻². Areas and ratios fo
 - Describing equal loudness curves without naming the 1 kHz reference.
 - Drawing or describing hearing loss as a lowered threshold.
 
-## Next steps
+## More on this topic
 
 - [Physics of the ear study guide](/resources/aqa-a-level-physics-7408-physics-of-the-ear/)
 - [Physics of the ear revision notes](/resources/aqa-a-level-physics-7408-physics-of-the-ear-revision-notes/)

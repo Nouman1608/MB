@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "asif-iqbal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -136,7 +136,7 @@ The standard formula and definitions here are common teaching; the specification
 11. Motivators, specifically recognition.
 12. The business can buy it at a lower group price or produce it cheaply, such as a staff discount, while the employee would pay the full price.
 
-## Next steps
+## More on this topic
 
 Apply this in the [motivation and rewards practice questions](/resources/edexcel-igcse-business-4bs1-motivation-and-rewards-practice/) and revisit the [motivation and rewards study guide](/resources/edexcel-igcse-business-4bs1-motivation-and-rewards/) for anything you missed.
 

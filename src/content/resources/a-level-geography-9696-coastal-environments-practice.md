@@ -32,6 +32,7 @@ publishedDate: 2026-09-29
 featured: false
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
+reviewNote: "2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 reviewedDate: 2026-10-09
 ---
 
@@ -173,7 +174,7 @@ Revise first with the [study guide](/resources/a-level-geography-9696-coastal-en
 - Essays that list points without weighing them or reaching a judgement.
 - Case study references with no place, date or scheme named.
 
-## Next steps
+## More on this topic
 
 - Check gaps in your knowledge with our free [diagnostics](/diagnostics/).
 - Go back to the [study guide](/resources/a-level-geography-9696-coastal-environments/) for any question you found hard.

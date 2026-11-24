@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide follows the Pearson Edexcel International GCSE in Business (4BS1) specification, Issue 2, February 2026. It covers Topic 4, Marketing: section 4.1 Market research (4.1.1 to 4.1.3) and section 4.2 The market (4.2.1 to 4.2.3). The marketing mix is section 4.3 and is not covered here. Paper 1 uses a small business (up to 49 employees) and Paper 2 a large business (more than 250 employees). Both papers can draw on the whole content.
@@ -260,7 +260,7 @@ Segmentation helps a business aim its marketing money well. Disadvantages: resea
 - Treating higher sales as a higher market share. Check the total market.
 - Writing that segmentation "makes more profit" without explaining how targeting reduces wasted spending.
 
-## Next steps
+## More on this topic
 
 Try the [practice questions](/resources/edexcel-igcse-business-market-research-and-the-market-practice/), use the [revision notes](/resources/edexcel-igcse-business-market-research-and-the-market-revision-notes/) to recall the lists, and find your gaps with the [diagnostics](/diagnostics/).
 

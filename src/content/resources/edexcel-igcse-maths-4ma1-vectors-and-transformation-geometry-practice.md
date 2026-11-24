@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -168,7 +168,7 @@ No. If the question asks for a single transformation, describe one transformatio
 **How do you find a translation vector between an object and its image?**
 Subtract the object's coordinates from the image's coordinates (image − object). Doing it the other way round gives the reverse translation.
 
-## Next steps
+## More on this topic
 
 - [Revision notes for this topic](/resources/edexcel-igcse-maths-4ma1-vectors-and-transformation-geometry-revision-notes/)
 - [Study guide for this topic](/resources/edexcel-igcse-maths-4ma1-vectors-and-transformation-geometry/)

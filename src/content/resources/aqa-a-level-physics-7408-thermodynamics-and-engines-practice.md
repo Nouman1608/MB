@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -141,7 +141,7 @@ Data: molar gas constant R = 8.31 J mol⁻¹ K⁻¹. Engine and power-station fi
 - Missing the number of cylinders in indicated power.
 - Describing differences between real and theoretical cycles without the reasons.
 
-## Next steps
+## More on this topic
 
 - [Thermodynamics and engines study guide](/resources/aqa-a-level-physics-7408-thermodynamics-and-engines/)
 - [Thermodynamics and engines revision notes](/resources/aqa-a-level-physics-7408-thermodynamics-and-engines-revision-notes/)

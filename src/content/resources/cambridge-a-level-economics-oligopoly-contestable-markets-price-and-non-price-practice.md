@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -152,7 +152,7 @@ Show that at the limit price, price equals average cost so profit is zero. Givin
 **What makes a good conclusion in a Cambridge 9708 oligopoly evaluation question?**
 Give a final judgement based on clear criteria, such as the time period, the number of firms or the height of barriers, and use any figures given. Listing advantages and disadvantages with no judgement is not enough.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/cambridge-a-level-economics-oligopoly-contestable-markets-price-and-non-price-revision-notes/) and [study guide](/resources/cambridge-a-level-economics-oligopoly-contestable-markets-price-and-non-price/).
 - Go to the [Cambridge Economics hub](/boards/cambridge/a-level/economics/) and the [checklist](/checklists/cambridge/a-level/economics/).

@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Fundamentals of data representation (section 4.5 of AQA A-Level Computer Science 7517) explains how
@@ -221,7 +221,7 @@ and so on in a finite number of bits. A rounding error always results.
 Absolute error is the difference between the true and stored value. Relative error divides that by the true
 value, so it shows how significant the error is compared with the size of the number.
 
-## Related resources
+## More resources on this topic
 
 [Fundamentals of data representation study guide](/resources/aqa-a-level-computer-science-fundamentals-of-data-representation-study-guide/) |
 [Fundamentals of data representation practice questions](/resources/aqa-a-level-computer-science-fundamentals-of-data-representation-practice/)

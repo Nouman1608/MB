@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -157,6 +157,6 @@ Assault on the passer-by
 
 In a scenario, take **one defence at a time** after establishing the offence: state each element, apply the facts, cite the case and conclude. For **evaluate** questions, discuss whether excluding murder from duress (*Howe*) and the *Majewski* rule are justified, weighing protection of the public against fairness to individual defendants.
 
-## Next steps
+## More on this topic
 
 Condense with the [duress and intoxication revision notes](/resources/edexcel-a-level-law-yla1-duress-and-intoxication-revision-notes/) and practise with the [duress and intoxication practice questions](/resources/edexcel-a-level-law-yla1-duress-and-intoxication-practice/).

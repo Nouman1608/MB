@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -180,7 +180,7 @@ When a question says "design a solution using an array":
 - **Explain why an array is suitable**: refer to direct access by index, a single type and a fixed, known size.
 - **State the number of elements**: multiply the lengths of every dimension.
 
-## Related resources
+## More resources on this topic
 
 - [Arrays revision notes](/resources/aqa-a-level-computer-science-7517-single-and-multi-dimensional-arrays-revision-notes/)
 - [Arrays practice questions](/resources/aqa-a-level-computer-science-7517-single-and-multi-dimensional-arrays-practice/)

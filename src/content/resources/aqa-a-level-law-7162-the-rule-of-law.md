@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -132,6 +132,6 @@ Lord Bingham, in *The Rule of Law* (2010), set out a **thicker** account in eigh
 
 For **explain** or **outline**, name the element, explain what it requires, and give an authority. For **discuss** or **evaluate**, show where the system respects the doctrine and where it is under strain, use Raz or Bingham to judge, and conclude.
 
-## Next steps
+## More on this topic
 
 Condense this with the [Rule of Law revision notes](/resources/aqa-a-level-law-7162-the-rule-of-law-revision-notes/) and test yourself with the [Rule of Law practice questions](/resources/aqa-a-level-law-7162-the-rule-of-law-practice/). The doctrine's link to Parliament is explored in [Parliamentary Law Making](/resources/aqa-a-level-law-7162-law-making-parliamentary-law-making/).

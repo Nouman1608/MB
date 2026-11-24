@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -130,7 +130,7 @@ The last row is the fastest route in many questions: because E_P ∝ x², the fr
 
 **Answers:** 1. All energy is kinetic at x = 0: E = ½mv₀² and v₀ = ωx₀, so E = ½mω²x₀². 2. E = 0.5 × 0.50 × 36 × 0.010 = 0.090 J. 3. E_P = 0.5 × 0.50 × 36 × 0.0036 = 0.0324 J; E_K = 0.090 − 0.0324 = 0.058 J. 4. × 9. 5. x = ±x₀/√2. 6. Three quarters. 7. 0.40 s. 8. At the lowest point (equilibrium). 9. x₀ = √(2E/(mω²)) = √(0.080/20) = 0.063 m. 10. v₀ = ωx₀ = 0.63 m s⁻¹ (check: ½ × 0.20 × 0.63² = 0.040 J). 11. Remaining energy 0.64E, so amplitude 0.8x₀: it falls by 20%. 12. Elastic (strain) potential energy.
 
-## Related resources
+## More resources on this topic
 
 - [Oscillations revision notes](/resources/a-physics-oscillations-revision-notes/) — the whole of Topic 17
 - [Simple harmonic oscillations revision notes](/resources/cambridge-a-level-physics-9702-a-simple-harmonic-oscillations-revision-notes/)

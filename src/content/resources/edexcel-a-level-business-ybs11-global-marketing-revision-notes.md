@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -157,6 +157,6 @@ Net gain from adapting = extra contribution - extra cost of adapting
 - Niche strategies and global strategies are not opposites. A niche brand can be global if the internet reaches its customers in many countries.
 - In essays, use Ansoff or Porter as a framework, but always return to evidence about the specific market.
 
-## Next steps
+## More on this topic
 
 Check slips against the [Global marketing study guide](/resources/edexcel-a-level-business-ybs11-global-marketing/), then practise with the [Global marketing practice questions](/resources/edexcel-a-level-business-ybs11-global-marketing-practice/).

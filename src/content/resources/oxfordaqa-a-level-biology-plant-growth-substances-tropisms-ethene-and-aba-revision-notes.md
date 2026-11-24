@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 These revision notes cover *OxfordAQA International AS and A-level Biology (9610)*, Version 5.1, section 3.4.5 and Required practical 10, which the specification places in Unit 4 (International A-level only). Go to the [study guide](/resources/oxfordaqa-a-level-biology-plant-growth-substances-tropisms-ethene-and-aba/). Once the points below come easily, work through the [practice questions](/resources/oxfordaqa-a-level-biology-plant-growth-substances-tropisms-ethene-and-aba-practice/). Use the [course hub](/boards/oxfordaqa/a-level/biology/), the [printable checklist](/checklists/oxfordaqa/a-level/biology/) and a [free diagnostic](/diagnostics/) to find gaps.
@@ -226,7 +226,7 @@ Data questions on this topic usually ask you to describe a trend, then explain i
 - Missing controls in Required practical 10 answers: a control group, a large sample and fixed conditions.
 - Stating "ethene ripens fruit" without linking it to green picking and artificial ripening after shipping.
 
-## Next steps
+## More on this topic
 
 Answer the [practice questions](/resources/oxfordaqa-a-level-biology-plant-growth-substances-tropisms-ethene-and-aba-practice/), then revisit the [study guide](/resources/oxfordaqa-a-level-biology-plant-growth-substances-tropisms-ethene-and-aba/) for any section that feels weak. For transpiration, see [mass transport in plants](/resources/oxfordaqa-a-level-biology-mass-transport-in-plants-xylem-transpiration-and-phloem/).
 

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -151,6 +151,6 @@ Judge:     the law complies at the extremes but not in the middle offences.
 
 When an evaluation question names a principle, define it, give at least two examples where the law complies or fails, use cases for each, consider the counter-argument and conclude. When a question does not name a principle, choose one or two that fit the area: correspondence for non-fatal offences, certainty for gross negligence and dishonesty, fair labelling for murder.
 
-## Related resources
+## More resources on this topic
 
 [Theory in criminal law revision notes](/resources/aqa-a-level-law-7162-theory-in-criminal-law-revision-notes/) | [Theory in criminal law practice questions](/resources/aqa-a-level-law-7162-theory-in-criminal-law-practice/)

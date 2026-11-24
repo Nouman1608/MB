@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -159,7 +159,7 @@ These questions cover subtopic 3.2, **Factors that affect enzyme action**, from 
 - Leaving units off rates calculated from a tangent.
 - Using a mean rate over a long time interval instead of the initial rate.
 
-## Next steps
+## More on this topic
 
 - Revise with the [Factors that affect enzyme action revision notes](/resources/a-level-biology-9700-factors-that-affect-enzyme-action-revision-notes/)
 - Re-read the [Factors that affect enzyme action study guide](/resources/a-level-biology-9700-factors-that-affect-enzyme-action/)

@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -169,7 +169,7 @@ In each case the aim is the same: satisfied customers who return and recommend t
 
 For **state** and **identify** questions, name the method of service. For **explain** questions, state the method and its effect: "a help line solves customers' problems quickly, which increases satisfaction and loyalty". For **analyse** questions, chain the benefits to sales and profit. For **evaluate** questions, such as whether a business should spend more on customer service, compare the cost with the likely gain in loyalty and reputation, and use the facts in the case to decide.
 
-## Related resources
+## More resources on this topic
 
 - [Revision notes for this subtopic](/resources/oxfordaqa-igcse-business-9225-good-customer-services-revision-notes/)
 - [Practice questions for this subtopic](/resources/oxfordaqa-igcse-business-9225-good-customer-services-practice/)

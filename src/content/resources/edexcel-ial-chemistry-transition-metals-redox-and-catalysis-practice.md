@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -185,7 +185,7 @@ Use these values at 298 K: ΔH = −7.0 kJ mol⁻¹, ΔSsystem = +88 J K⁻¹ mo
 - Describing autocatalysis as a steady decrease.
 - Forgetting water of crystallisation in Mr values.
 
-## Next steps
+## More on this topic
 
 - [Transition metals revision notes](/resources/edexcel-ial-chemistry-transition-metals-redox-and-catalysis-revision-notes/)
 - [Transition metals study guide](/resources/edexcel-ial-chemistry-transition-metals-redox-and-catalysis/)

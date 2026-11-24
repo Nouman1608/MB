@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches **Section S: Moments (S1)** of the AQA A-level Mathematics (7357) specification, version 1.3 (31 January 2018), for A-level exams from June 2018 onwards. The specification lists Section S under **Paper 2**, alongside vectors, quantities and units, kinematics, and forces and Newton's laws. A calculator is required in every 7357 paper.
@@ -273,7 +273,7 @@ That force has zero moment about the point, so it drops out of the equation, lea
 **How do you check your reactions on a beam?**
 Take moments about a second point. If the clockwise and anticlockwise moments balance there too, the reactions are consistent.
 
-## Next steps
+## More on this topic
 
 - Condensed recall: [Moments revision notes](/resources/aqa-a-level-mathematics-moments-revision-notes/).
 - Test yourself: [Moments practice questions](/resources/aqa-a-level-mathematics-moments-practice/).

@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -122,7 +122,7 @@ All businesses are invented. Money is in dollars.
 - Describing MBO but not assessing it for the type of staff.
 - Ending an evaluate answer without a reasoned judgement.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/cambridge-a-level-business-leadership-and-human-resource-management-hrm-strategy-revision-notes/) and the [study guide](/resources/cambridge-a-level-business-leadership-and-human-resource-management-hrm-strategy/).
 - Go to the [Cambridge A Level Business hub](/boards/cambridge/a-level/business/) or the [printable checklist](/checklists/cambridge/a-level/business/).

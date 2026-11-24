@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -180,7 +180,7 @@ Route B: CH₄ + H₂O → CO + 3H₂
 - Leaving a balancing number out of an atom economy calculation.
 - Rounding too early, e.g. writing 1.2% in 11(a) when 3 significant figures are asked for.
 
-## Next steps
+## More on this topic
 
 - [Quantitative chemistry revision notes](/resources/aqa-gcse-chemistry-8462-quantitative-chemistry-revision-notes/)
 - [Quantitative chemistry study guide](/resources/aqa-gcse-chemistry-quantitative-chemistry/)

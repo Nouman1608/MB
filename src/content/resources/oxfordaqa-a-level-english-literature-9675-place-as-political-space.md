@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -150,7 +150,7 @@ Questions often ask you to **explore the significance** of an aspect of place, o
 For this angle, test any claim with a small space and a large one: for example, a room and a city,
 or a house and an empire. Unit 2 lasts 2 hours for two essays, so give Section A about an hour.
 
-## Related resources
+## More resources on this topic
 
 - [Place as a political space revision notes](/resources/oxfordaqa-a-level-english-literature-9675-place-as-political-space-revision-notes/)
 - [Place as a political space practice questions](/resources/oxfordaqa-a-level-english-literature-9675-place-as-political-space-practice/)

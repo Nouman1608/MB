@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -155,7 +155,7 @@ A point on a dashed boundary is not in the region, because the inequality is str
 **When must a quadratic be positive for every real x?**
 When the coefficient of x² is positive and the discriminant is negative, so the curve never meets the x-axis. For x² + kx + 9, that gives −6 < k < 6.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/aqa-a-level-mathematics-linear-and-quadratic-inequalities-rational-revision-notes/) for the method boxes.
 - Revisit the [study guide](/resources/aqa-a-level-mathematics-linear-and-quadratic-inequalities-rational/) for any question you could not start.

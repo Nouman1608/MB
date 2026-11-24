@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -155,7 +155,7 @@ Evaluate whether people in Country P have higher living standards than people in
 - Judging a country on one indicator only.
 - Leaving out units or the phrase per head.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/cambridge-o-level-economics-living-standards-revision-notes/) and re-read the [study guide](/resources/cambridge-o-level-economics-living-standards/).
 - Go to the [Cambridge O Level Economics hub](/boards/cambridge/o-level/economics/) and tick off topics on the [printable checklist](/checklists/cambridge/o-level/economics/).

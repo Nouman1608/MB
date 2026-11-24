@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -132,7 +132,7 @@ These questions cover section **3.1.3.6 Bond polarity** of the AQA AS and A-leve
 - Leaving out "pair of electrons" or "covalent bond" in the definition of electronegativity.
 - Saying that water is deflected because it is "charged".
 
-## Next steps
+## More on this topic
 
 - [Bond polarity revision notes](/resources/aqa-a-level-chemistry-7405-bond-polarity-revision-notes/)
 - [Forces between molecules study guide](/resources/aqa-a-level-chemistry-7405-forces-between-molecules/)

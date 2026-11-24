@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -140,7 +140,7 @@ No. A can be a whole number from 1 to 9, as in 9 × 10⁻². It just has to sati
 **How do I check a standard form answer quickly?**
 Estimate with the powers of 10 alone. For (6.3 × 10⁸) ÷ (2.7 × 10⁻³), the powers give 10¹¹ and 6.3 ÷ 2.7 is about 2, so an answer near 2 × 10¹¹ is expected.
 
-## Next steps
+## More on this topic
 
 - Worked examples: [standard form study guide](/resources/cambridge-igcse-mathematics-0580-standard-form/).
 - Practice: [standard form practice questions](/resources/cambridge-igcse-mathematics-0580-standard-form-practice/).

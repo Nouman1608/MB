@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -144,7 +144,7 @@ Related links: [OxfordAQA Mathematics hub](/boards/oxfordaqa/a-level/mathematics
 - Giving decimals when the question says "exact", "in surd form" or "in the form m ± n√10".
 - Ignoring the context's limits on a variable, and then accepting an impossible value.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/oxfordaqa-a-level-mathematics-surds-indices-quadratics-and-simultaneous-equations-revision-notes/) and the [study guide](/resources/oxfordaqa-a-level-mathematics-surds-indices-quadratics-and-simultaneous-equations/).
 - Go to the [OxfordAQA Mathematics hub](/boards/oxfordaqa/a-level/mathematics/) and the [printable checklist](/checklists/oxfordaqa/a-level/mathematics/).

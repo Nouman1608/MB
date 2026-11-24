@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -166,7 +166,7 @@ e^(−10/RC) = 0.607  →  10/RC = −ln 0.607 = 0.50  →  RC = 20 s
 - **Sketch**: start at x₀ on the axis, mark x₀/e at t = RC, and make the curve approach the time axis without touching it.
 - **Explain** (why the current decreases): as charge leaves, the p.d. across the capacitor and the resistor falls, so I = V/R falls.
 
-## Related resources
+## More resources on this topic
 
 - [Capacitance study guide](/resources/a-physics-capacitance/) — the whole of Topic 19
 - [Discharging a capacitor revision notes](/resources/cambridge-a-level-physics-9702-a-discharging-a-capacitor-revision-notes/)

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -185,7 +185,7 @@ Links: [study guide](/resources/oxfordaqa-igcse-chemistry-carbon-compounds-as-fu
 - Skipping the mole ratio in fermentation calculations.
 - Giving a one-sided answer on biofuels when asked to evaluate.
 
-## Next steps
+## More on this topic
 
 - Recap fast with the [revision notes](/resources/oxfordaqa-igcse-chemistry-carbon-compounds-as-fuels-revision-notes/).
 - Go back over weak areas in the [study guide](/resources/oxfordaqa-igcse-chemistry-carbon-compounds-as-fuels/).

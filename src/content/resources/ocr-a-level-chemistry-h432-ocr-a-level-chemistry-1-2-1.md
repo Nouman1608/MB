@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -149,7 +149,7 @@ This skill is about range: using the apparatus and techniques that go with the c
 - Citing a website without a URL or access date, or a book without page numbers.
 - Using sources without judging their reliability.
 
-## Next steps
+## More on this topic
 
 - Condensed recall: [1.2.1 revision notes](/resources/ocr-a-level-chemistry-h432-ocr-a-level-chemistry-1-2-1-revision-notes/)
 - Test yourself: [1.2.1 practice questions](/resources/ocr-a-level-chemistry-h432-ocr-a-level-chemistry-1-2-1-practice/)

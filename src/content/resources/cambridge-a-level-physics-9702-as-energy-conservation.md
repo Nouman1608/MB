@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -239,7 +239,7 @@ force.
 **Should efficiency be a percentage or a decimal?**
 Either is acceptable, provided you are consistent and never exceed 100% or 1.
 
-## Related resources
+## More resources on this topic
 
 - [Work, Energy and Power](/resources/as-physics-work-energy-and-power/) — the whole of Topic 5 in one guide
 - [Gravitational potential energy and kinetic energy](/resources/cambridge-a-level-physics-9702-as-gravitational-potential-energy-and-kinetic-energy/) — subtopic 5.2, the energy stores used in most energy accounts

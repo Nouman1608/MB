@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -165,7 +165,7 @@ The standard results, such as d/dx(sin kx) = k cos kx, only hold when x is in ra
 **How do you interpret a rate of change in OCR A Level Mathematics?**
 Give the value with its units and describe what it means in the context of the question; a rate of change with no units or no context can lose the mark.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/ocr-a-level-mathematics-differentiation-fundamentals-gradients-second-revision-notes/).
 - Re-read the [study guide](/resources/ocr-a-level-mathematics-differentiation-fundamentals-gradients-second/) for any topic you missed.

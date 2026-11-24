@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-08-18
 featured: false
-reviewNote: "2026-11-08 recheck: expanded thin page (opening answer, slide preparation and drawing rules for 1.1.1-1.1.2, magnification rearrangement with unit conversion, specialised cell table, FAQ); please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08 recheck: expanded thin page (opening answer, slide preparation and drawing rules for 1.1.1-1.1.2, magnification rearrangement with unit conversion, specialised cell table, FAQ); please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Cells are the basic units of living things. For Cambridge O Level Biology
@@ -278,7 +278,7 @@ and which are unique to each
 - Cell specialisation, and the cell → tissue → organ → organ system →
 organism hierarchy
 
-## Related resources
+## More resources on this topic
 
 - [Biological Molecules](/resources/biological-molecules/) — what the
 structures described here are chemically built from

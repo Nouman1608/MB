@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE
@@ -253,7 +253,7 @@ Accounting software can keep the sales ledger, purchases ledger and nominal ledg
 - Posting returns into the sales or purchases account instead of the returns account.
 - Transferring drawings to the statement of profit or loss.
 
-## Next steps
+## More on this topic
 
 Condense this into the [revision notes](/resources/igcse-accounting-the-double-entry-system-of-book-keeping-revision-notes/), then test yourself with the [practice questions](/resources/igcse-accounting-the-double-entry-system-of-book-keeping-practice/) and the free 10-minute [diagnostics](/diagnostics/). The Topic 2 [practice questions](/resources/igcse-accounting-sources-recording-practice/) and [revision notes](/resources/igcse-accounting-sources-recording-revision-notes/) cover the whole topic.
 

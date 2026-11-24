@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -138,7 +138,7 @@ Scale it as a percentage of GDP, then consider how long it has lasted, how it is
 **What are common mistakes in balance of payments calculations?**
 Typical errors include dropping the sign on a balance, subtracting credits from debits instead of debits from credits, leaving out income or current transfers from the current account, and applying an income change to the wrong elasticity.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/ocr-a-level-economics-the-balance-of-payments-revision-notes/).
 - Reread the [study guide](/resources/ocr-a-level-economics-the-balance-of-payments/).

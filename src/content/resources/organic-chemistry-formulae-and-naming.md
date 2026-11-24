@@ -27,7 +27,7 @@ author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 featured: false
 ---
@@ -267,7 +267,7 @@ An ester is named from the alcohol and acid that formed it: the alcohol part end
 **What is the general formula of the alkenes?**
 The general formula of the alkenes is CₙH₂ₙ, while alkanes are CₙH₂ₙ₊₂, alcohols CₙH₂ₙ₊₁OH and carboxylic acids CₙH₂ₙ₊₁COOH. Mixing up the alkene and alkane formulae is an easy slip under exam pressure.
 
-## Related resources
+## More resources on this topic
 
 - [Petroleum, Alkanes and Alkenes](/resources/petroleum-alkanes-and-alkenes/) — the hydrocarbon chemistry this vocabulary describes
 - [Alcohols and Carboxylic Acids](/resources/alcohols-and-carboxylic-acids/) — the two oxygen-containing series named here

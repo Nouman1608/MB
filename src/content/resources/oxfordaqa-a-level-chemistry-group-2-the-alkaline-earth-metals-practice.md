@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -214,7 +214,7 @@ alone does not explain the difference from BaSO₄.
 - Identifying an ion without stating the observation that proves it.
 - Explaining the safety of BaSO₄ as "barium is harmless" rather than "BaSO₄ does not dissolve".
 
-## Next steps
+## More on this topic
 
 - [Group 2 revision notes](/resources/oxfordaqa-a-level-chemistry-group-2-the-alkaline-earth-metals-revision-notes/)
 - [Group 2 study guide](/resources/oxfordaqa-a-level-chemistry-group-2-the-alkaline-earth-metals/)

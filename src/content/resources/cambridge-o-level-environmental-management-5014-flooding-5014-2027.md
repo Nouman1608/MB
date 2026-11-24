@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -121,7 +121,7 @@ These opportunities help explain why so many people live and farm on floodplains
 4. A catchment is 25 km² with 5 km² built up. What percentage is built up? *20%.*
 5. State the two opportunities flooding provides. *Nutrient-rich silt on farmland; recharge of surface and ground water stores.*
 
-## Related resources
+## More resources on this topic
 
 - [Flooding revision notes](/resources/cambridge-o-level-environmental-management-5014-flooding-5014-2027-revision-notes/)
 - [Flooding practice questions](/resources/cambridge-o-level-environmental-management-5014-flooding-5014-2027-practice/)

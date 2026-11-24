@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -148,7 +148,7 @@ F_E / F_G ≈ 2 × 10³⁹
 - **Compare** (with gravitation): give one similarity (inverse square) and one difference (gravity only attracts), or a numerical ratio.
 - **Determine** (a zero-force point): set the two force expressions equal and solve, taking square roots of both sides.
 
-## Related resources
+## More resources on this topic
 
 - [Electric Fields study guide](/resources/a-physics-electric-fields/) — the whole of Topic 18
 - [Electric force between point charges revision notes](/resources/cambridge-a-level-physics-9702-a-electric-force-between-point-charges-revision-notes/)

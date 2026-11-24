@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -200,7 +200,7 @@ Both are effective; they simply do different jobs. Decide which the task wants b
 - **Uncontrolled ambition**: a misused word costs more than a simple word used well.
 - **No time to check**, so avoidable errors remain.
 
-## Related resources
+## More resources on this topic
 
 - [Section B composition revision notes](/resources/oxfordaqa-igcse-english-language-9270-section-b-composition-revision-notes/)
 - [Section B composition practice questions](/resources/oxfordaqa-igcse-english-language-9270-section-b-composition-practice/)

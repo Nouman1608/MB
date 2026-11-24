@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to zain-ud-din-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to zain-ud-din-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -146,7 +146,7 @@ Give each stakeholder the information it actually needs and explain why. Giving 
 **What makes a strong ratio evaluation?**
 Say which figure changed, what drives it and what the named stakeholder should do about it, comparing each ratio with its benchmark as you make your judgement.
 
-## Next steps
+## More on this topic
 
 - Review with the [revision notes](/resources/cambridge-a-level-accounting-analysis-and-communication-of-accounting-information-as-revision-notes/) and the [study guide](/resources/cambridge-a-level-accounting-analysis-and-communication-of-accounting-information-as/).
 - Open the [Cambridge A Level Accounting hub](/boards/cambridge/a-level/accounting/) and tick off the [checklist](/checklists/cambridge/a-level/accounting/).

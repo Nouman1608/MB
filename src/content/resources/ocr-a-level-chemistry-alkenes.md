@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches section 4.1.3, Alkenes, from the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. The section belongs to Module 4, Core organic chemistry, and its lettered learning outcomes run from 4.1.3(a) to (l); every one is taught below. H432 is the full A level. The specification states that Module 4 is assessed in Synthesis and analytical techniques (02) and Unified chemistry (03). PAG7, qualitative analysis of organic functional groups, is linked to outcome (f).
@@ -242,7 +242,7 @@ Cheap oil-derived polymers are unreactive, so they persist in landfill. Processi
 - Drawing the first curly arrow from a carbon atom rather than from the double bond, or omitting the halide ion's lone pair.
 - Writing the repeat unit with a C=C still in it, or putting a side group into the main chain.
 
-## Next steps
+## More on this topic
 
 - Condensed tables and a quick self-test: [Alkenes revision notes](/resources/ocr-a-level-chemistry-alkenes-revision-notes/)
 - Original questions with mark-by-mark answers: [Alkenes practice questions](/resources/ocr-a-level-chemistry-alkenes-practice/)

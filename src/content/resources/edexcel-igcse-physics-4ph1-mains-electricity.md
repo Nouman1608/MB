@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -236,7 +236,7 @@ continually; d.c. flows in one direction only."
 - **Suggest** why an appliance is double insulated: link the plastic case
   to there being no metal part that could become live.
 
-## Next steps
+## More on this topic
 
 - [Mains electricity revision notes](/resources/edexcel-igcse-physics-4ph1-mains-electricity-revision-notes/)
 - [Mains electricity practice questions](/resources/edexcel-igcse-physics-4ph1-mains-electricity-practice/)

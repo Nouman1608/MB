@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -110,7 +110,7 @@ Interpretation: even with three responses, 800 tonnes remain, which is why preve
 
 **Describe** causes by naming the activity and how oil escapes. For impacts, give the effect and the reason for each organism group, and link to a wider food-web effect where marks allow. For strategies, read the stem carefully: "prevent" and "minimise impacts" need different lists. In a "discuss" question, match strategies to conditions, such as booms in calm sheltered water and controlled burning far offshore.
 
-## Next steps
+## More on this topic
 
 - Recall tables and a self-test: [oil pollution revision notes](/resources/cambridge-o-level-environmental-management-5014-oil-pollution-5014-2027-revision-notes/).
 - Exam-style questions and mark schemes: [oil pollution practice questions](/resources/cambridge-o-level-environmental-management-5014-oil-pollution-5014-2027-practice/).

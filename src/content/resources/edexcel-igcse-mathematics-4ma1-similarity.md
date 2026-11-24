@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -162,7 +162,7 @@ Area scale factor = 128 ÷ 50 = 2.56. Length scale factor = √2.56 = 1.6. Volum
 - Forgetting that perimeters follow the length ratio.
 - Not converting cm to m or km on map questions.
 
-## Next steps
+## More on this topic
 
 Condense the facts with the [Similarity revision notes](/resources/edexcel-igcse-mathematics-4ma1-similarity-revision-notes/), then try the [Similarity practice questions](/resources/edexcel-igcse-mathematics-4ma1-similarity-practice/).
 

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches sections 3.2.3 (Structure and bonding of carbon) and 3.2.4 (Nanoparticles) of the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards. There are no tiers in this qualification: everyone sits the same papers and learns all of this content. No required practical belongs to these two sections.
@@ -244,7 +244,7 @@ Explain this. The nanoparticles have a much higher surface area to volume ratio 
 - Dividing surface area by volume with the two lengths in different units.
 - Saying nanoparticles are "smaller so more reactive" without linking it to surface area to volume ratio.
 
-## Next steps
+## More on this topic
 
 Read the [revision notes](/resources/oxfordaqa-igcse-chemistry-structure-and-bonding-of-carbon-and-nanoparticles-revision-notes/) for a one-page summary, then work through the [practice questions](/resources/oxfordaqa-igcse-chemistry-structure-and-bonding-of-carbon-and-nanoparticles-practice/). The [exam preparation guide](/resources/oxfordaqa-igcse-chemistry-exam-preparation/) covers wider exam technique, and the [diagnostics page](/diagnostics/) helps you decide what to revise next.
 

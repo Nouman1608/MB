@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -172,7 +172,7 @@ Other correct keys, for example starting with "has wings / has no wings", earn t
 - (Extended) Saying species have "the same DNA", or that one species evolved from the other.
 - (Extended) Forgetting to subtract the differences before working out the percentage identical.
 
-## Next steps
+## More on this topic
 
 - Re-read the [classification systems study guide](/resources/cambridge-igcse-biology-0610-concept-and-uses-of-classification-systems/).
 - Move on to the [features of organisms practice questions](/resources/cambridge-igcse-biology-0610-features-of-organisms-practice/).

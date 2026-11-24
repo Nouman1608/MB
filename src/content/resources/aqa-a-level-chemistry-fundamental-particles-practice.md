@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -175,7 +175,7 @@ Saying an electron is "much lighter" without a number. Give the ratio, such as a
 **Why are atoms neutral overall?**
 Write "equal and opposite charges": the number of protons equals the number of electrons, and their charges cancel. "Equal charges" alone loses the mark.
 
-## Next steps
+## More on this topic
 
 - [Fundamental particles study guide](/resources/aqa-a-level-chemistry-fundamental-particles/)
 - [Atomic Structure revision notes](/resources/aqa-a-level-chemistry-atomic-structure-revision-notes/)

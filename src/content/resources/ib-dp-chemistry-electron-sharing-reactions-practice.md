@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -159,7 +159,7 @@ Where a question gives bond enthalpies, use the values supplied.
 - Rounding moles early in yield calculations.
 - Comparing O₃ and O₂ without mentioning bond order or bond strength.
 
-## Next steps
+## More on this topic
 
 - [Reactivity 3.3 revision notes](/resources/ib-dp-chemistry-electron-sharing-reactions-revision-notes/) for a final read-through
 - [Reactivity 3.3 study guide](/resources/ib-dp-chemistry-electron-sharing-reactions/) for full explanations

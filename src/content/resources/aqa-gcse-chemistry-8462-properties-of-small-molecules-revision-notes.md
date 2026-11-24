@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -161,7 +161,7 @@ do not break. The intermolecular forces between molecules are overcome.
 9. Small molecules.
 10. Iodine is made of small I₂ molecules held by weak forces. It is a solid only because its larger molecules have stronger forces than gases like chlorine.
 
-## Next steps
+## More on this topic
 
 - [Properties of small molecules study guide](/resources/aqa-gcse-chemistry-8462-properties-of-small-molecules/)
 - [Properties of small molecules practice questions](/resources/aqa-gcse-chemistry-8462-properties-of-small-molecules-practice/)

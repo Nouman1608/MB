@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide is aligned to the Cambridge O Level Business Studies 7115 syllabus for examination in 2026. It covers syllabus sections 5.3 (Income statements) and 5.4 (Statement of financial position), both part of unit 5, Financial information and decisions. The syllabus says that constructing income statements and statements of financial position will not be assessed. What you need is the ability to read them, explain their parts and use them to support a decision.
@@ -279,7 +279,7 @@ Selling inventories turns them into cash, which can clear short-term debts such 
 **Are inventories the same as cash?**
 No. Inventories are a current asset that only becomes cash when the goods are sold.
 
-## Next steps
+## More on this topic
 
 Try the [practice set](/resources/o-level-business-income-statements-and-statement-of-financial-position-practice/), then check yourself against the [revision notes](/resources/o-level-business-income-statements-and-statement-of-financial-position-revision-notes/).
 

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -132,7 +132,7 @@ mean power = I_r.m.s.² R = V_r.m.s.² / R
 
 **Answers:** 1. The value of the direct current that would dissipate the same mean power in the same resistor. 2. 230 × √2 = 325 V. 3. I_r.m.s. = 2.83 A; P = I_r.m.s.²R = 8.0 × 25 = 200 W. 4. I₀²R = 16 × 25 = 400 W. 5. f = 314/2π = 50 Hz; T = 0.020 s. 6. 50/√2 = 35 V. 7. 100 Hz. 8. Zero. 9. Peak-to-peak 25 V, so V₀ = 12.5 V. 10. V²/R = 36/3.0 = 12 W (r.m.s. = 6.0 V for a square wave). 11. So that power calculations use the same equations as for d.c.: the r.m.s. value gives the same heating effect as that steady value. 12. π/6 rad (0.52 rad).
 
-## Related resources
+## More resources on this topic
 
 - [Alternating Currents revision notes](/resources/a-physics-alternating-currents-revision-notes/) — the whole of Topic 21
 - [Characteristics of alternating currents practice questions](/resources/cambridge-a-level-physics-9702-a-characteristics-of-alternating-currents-practice/)

@@ -33,7 +33,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -212,7 +212,7 @@ where 21 ≤ k ≤ 25. The mean mark is 22.
 - Comparing distributions without context, or without comments on both centre and spread.
 - Predicting outside the data range without saying it is extrapolation.
 
-## Next steps
+## More on this topic
 
 - Recap with the [statistics revision notes](/resources/ib-dp-mathematics-aa-statistics-correlation-regression-revision-notes/).
 - Rework weak areas with the [statistics study guide](/resources/ib-dp-mathematics-aa-statistics-correlation-regression/).

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -178,7 +178,7 @@ So **5 further years** [1] **[8]**
 - Forgetting to subtract 1 after taking a root when finding a rate.
 - Leaving out the words "increase" or "decrease", or the pound sign on a money answer.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/oxfordaqa-igcse-mathematics-percentage-change-interest-and-exponential-growth-and/) for any topic that cost you marks.
 - Condense it with the [revision notes](/resources/oxfordaqa-igcse-mathematics-percentage-change-interest-and-exponential-growth-and-revision-notes/).

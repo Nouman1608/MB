@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -232,7 +232,7 @@ Dates change the figures: debentures issued part-way through the year carry inte
 **Why show a retained earnings working?**
 A visible working lets a profit figure carried forward from an earlier part be followed and credited even if that earlier figure was wrong.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/aqa-a-level-accounting-limited-company-accounts-revision-notes/).
 - Re-read the [study guide](/resources/aqa-a-level-accounting-limited-company-accounts/) for any area you found weak.

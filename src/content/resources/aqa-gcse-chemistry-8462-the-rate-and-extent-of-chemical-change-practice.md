@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -193,7 +193,7 @@ reasonable yield [1].
 - Counting atoms instead of molecules for pressure questions.
 - Mixing up rate (how fast) and yield (how much).
 
-## Next steps
+## More on this topic
 
 - [Rate and extent of chemical change revision notes](/resources/aqa-gcse-chemistry-8462-the-rate-and-extent-of-chemical-change-revision-notes/)
 - [Rate and extent of chemical change study guide](/resources/aqa-gcse-chemistry-8462-the-rate-and-extent-of-chemical-change/)

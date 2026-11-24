@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "zain-ud-din-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to zain-ud-din-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to zain-ud-din-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -150,7 +150,7 @@ These questions cover 1.1 Types of business entity in Cambridge International AS
 - Recommending without balancing reasons.
 - Forgetting that a lease ends with no asset owned.
 
-## Next steps
+## More on this topic
 
 Review the [types of business entity study guide](/resources/cambridge-a-level-accounting-9706-types-of-business-entity/) and the [types of business entity revision notes](/resources/cambridge-a-level-accounting-9706-types-of-business-entity-revision-notes/), then practise recording transactions with the [accounting system practice questions](/resources/cambridge-a-level-accounting-9706-the-accounting-system-practice/).
 

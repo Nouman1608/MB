@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -160,7 +160,7 @@ These questions cover sections 6.1 and 6.2 of the Cambridge O Level Statistics (
 - Giving the answer with no working. The syllabus says essential working must be shown for full marks to be awarded.
 - Leaving out the final check that the old mean maps to the target mean.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/cambridge-o-level-statistics-effects-of-adding-or-multiplying-by-a-constant-and-revision-notes/) and the [study guide](/resources/cambridge-o-level-statistics-effects-of-adding-or-multiplying-by-a-constant-and/).
 - Go to the [Cambridge O Level Statistics hub](/boards/cambridge/o-level/statistics/) and tick off topics on the [printable checklist](/checklists/cambridge/o-level/statistics/).

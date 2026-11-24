@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -154,7 +154,7 @@ A curly arrow shows the movement of **a pair of electrons**. It must **start at 
 - **Write an equation** (oxidation or reduction): use [O] or [H] and check atoms balance.
 - **Identify** (stage of a chain reaction): use the number of radicals on each side.
 
-## Related resources
+## More resources on this topic
 
 - [Characteristic organic reactions: revision notes](/resources/cambridge-a-level-chemistry-9701-as-characteristic-organic-reactions-revision-notes/)
 - [Characteristic organic reactions: practice questions](/resources/cambridge-a-level-chemistry-9701-as-characteristic-organic-reactions-practice/)

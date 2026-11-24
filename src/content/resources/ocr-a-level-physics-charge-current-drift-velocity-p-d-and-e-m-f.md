@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This guide covers sections 4.1.1, 4.1.2, 4.2.1 and 4.2.2 of the OCR Advanced GCE in Physics A specification (H556), Version 3.0 (March 2026), for first assessment in 2017. H556 is the full A level. Resistance, resistivity and electrical power (the rest of 4.2) have their own pages and are not repeated here.
 
@@ -264,7 +264,7 @@ The kinetic energy gained equals the electrical energy transferred, so eV = ½mv
 **Is e.m.f. a force?**
 No. Despite its name, e.m.f. is an energy per unit charge: the energy given to each unit of charge by a source. It is measured in volts, like p.d.
 
-## Next steps
+## More on this topic
 
 Try the [practice questions](/resources/ocr-a-level-physics-charge-current-drift-velocity-p-d-and-e-m-f-practice/) and condense with the [revision notes](/resources/ocr-a-level-physics-charge-current-drift-velocity-p-d-and-e-m-f-revision-notes/).
 

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -131,7 +131,7 @@ The decomposition is the reverse of formation, for example 2HI → H₂ + I₂.
 - **Describe and explain** (thermal stability): state the trend with evidence, then bond length → bond energy → energy to break.
 - **Deduce** (displacement results): state what each colour shows and conclude the order of oxidising power.
 
-## Related resources
+## More resources on this topic
 
 - [Chemical properties of the halogens and hydrogen halides: revision notes](/resources/cambridge-a-level-chemistry-9701-as-the-chemical-properties-of-the-halogen-elements-revision-notes/)
 - [Chemical properties of the halogens and hydrogen halides: practice questions](/resources/cambridge-a-level-chemistry-9701-as-the-chemical-properties-of-the-halogen-elements-practice/)

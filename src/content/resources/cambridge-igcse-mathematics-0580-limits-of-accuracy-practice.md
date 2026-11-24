@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-23: Q2 unit and examiner note made exact (audit C14)"
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-23: Q2 unit and examiner note made exact (audit C14) 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -157,7 +157,7 @@ Only if the question asks, as Questions 8, 10 and 12 do. Otherwise give the exac
 **How do I spot which bound to use in a "will it fit" question?**
 Take the worst case: the largest possible size of the objects and the smallest possible size of the space.
 
-## Next steps
+## More on this topic
 
 - Re-read the method in the [limits of accuracy study guide](/resources/cambridge-igcse-mathematics-0580-limits-of-accuracy/).
 - More Extended Topic 1 questions: the [Number (Extended) practice questions](/resources/igcse-mathematics-number-extended-practice/).

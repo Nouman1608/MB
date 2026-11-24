@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 **Trade is Section 6 of Paper 2 in Cambridge O Level Pakistan Studies 2059.** It asks what Pakistan
@@ -198,7 +198,7 @@ that ratify and implement international conventions. Pakistan has used it since 
 Both. Exports become cheaper for foreign buyers, but imported fuel, machinery and raw materials
 become more expensive, which raises costs and inflation.
 
-## Related resources
+## More resources on this topic
 
 - [Trade revision notes](/resources/o-level-pakistan-studies-trade-revision-notes/)
 - [Trade practice questions](/resources/o-level-pakistan-studies-trade-practice/)

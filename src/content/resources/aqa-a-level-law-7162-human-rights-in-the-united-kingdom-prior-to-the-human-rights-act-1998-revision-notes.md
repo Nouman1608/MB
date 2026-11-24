@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -159,7 +159,7 @@ listening device was not in accordance with the law, breaching Article 8. 12. Pe
 rights in UK courts without the cost and delay of Strasbourg, and British judges should help develop
 Convention law.
 
-## Related resources
+## More resources on this topic
 
 [Human Rights before the HRA 1998 study guide](/resources/aqa-a-level-law-7162-human-rights-in-the-united-kingdom-prior-to-the-human-rights-act-1998/) |
 [Human Rights before the HRA 1998 practice questions](/resources/aqa-a-level-law-7162-human-rights-in-the-united-kingdom-prior-to-the-human-rights-act-1998-practice/) |

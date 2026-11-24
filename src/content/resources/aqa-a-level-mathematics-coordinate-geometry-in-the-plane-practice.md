@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -192,7 +192,7 @@ State the range of x (and y if asked) that the parameter allows. For x = 2 + sin
 **How do you show a quadrilateral is a square in a coordinate geometry question?**
 Show that all four angles are right angles, for example using gradients multiplying to −1, and that adjacent sides are equal. Showing only one of these leaves the shape unproved.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/aqa-a-level-mathematics-coordinate-geometry-in-the-plane-revision-notes/).
 - Relearn any method in the [study guide](/resources/aqa-a-level-mathematics-coordinate-geometry-in-the-plane/).

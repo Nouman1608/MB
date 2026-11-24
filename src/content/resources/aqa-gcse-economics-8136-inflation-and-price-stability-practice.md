@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -151,7 +151,7 @@ Evaluate whether raising the Bank Rate is the best way to bring inflation back t
 - Saying savers lose without comparing the interest rate with inflation.
 - Writing about "people" in general when the question names particular groups.
 
-## Next steps
+## More on this topic
 
 - Revise with the [inflation and price stability revision notes](/resources/aqa-gcse-economics-inflation-and-price-stability-revision-notes/) and re-read the [study guide](/resources/aqa-gcse-economics-8136-inflation-and-price-stability/).
 - For interest-rate questions, try the [interest rates practice questions](/resources/aqa-gcse-economics-interest-rates-practice/).

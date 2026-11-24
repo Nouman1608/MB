@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -152,6 +152,6 @@ A farm of 40 hectares produced 96 tonnes of maize. After introducing intercroppi
 
 For **describe and explain** a strategy, say what it is and how it raises yield. For impacts, write the three-step chain. For **suggest**, choose a strategy that fits the problem in the source, such as drip irrigation for a dry area or biological control where pests are resistant.
 
-## Next steps
+## More on this topic
 
 Revise with the [Food production and crop yield revision notes](/resources/cambridge-igcse-environmental-management-0680-food-production-and-crop-yield-revision-notes/), practise with the [Food production and crop yield practice questions](/resources/cambridge-igcse-environmental-management-0680-food-production-and-crop-yield-practice/), then continue to the [Soil erosion study guide](/resources/cambridge-igcse-environmental-management-0680-soil-erosion/).

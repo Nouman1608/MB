@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -142,6 +142,6 @@ The contrast between *Brown* and *Wilson* is especially useful. Both involved co
 
 **Explain** questions want the distinction or relationship stated, developed and illustrated. **Discuss** and **evaluate** questions want both sides: cases where the law enforces morality, cases where it has withdrawn, the theories that justify each, and a conclusion on whether the balance is right. Keep cases short: the point they prove matters more than their facts.
 
-## Next steps
+## More on this topic
 
 Condensed recall is in the [Law and Morality revision notes](/resources/aqa-a-level-law-7162-nature-of-law-law-and-morality-revision-notes/), and you can test yourself with the [Law and Morality practice questions](/resources/aqa-a-level-law-7162-nature-of-law-law-and-morality-practice/). The overlap with fairness is explored in [Law and Justice](/resources/aqa-a-level-law-7162-nature-of-law-law-and-justice/).

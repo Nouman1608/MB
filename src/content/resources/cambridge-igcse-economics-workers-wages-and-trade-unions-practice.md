@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 
@@ -162,7 +162,7 @@ This set tests sections 3.3 (Workers) and 3.4 (Trade unions) of the Cambridge IG
 - Giving only workers' views on division of labour or unions.
 - Skipping a judgement in an evaluation question.
 
-## Next steps
+## More on this topic
 
 - Review with the [revision notes](/resources/cambridge-igcse-economics-workers-wages-and-trade-unions-revision-notes/) and the [study guide](/resources/cambridge-igcse-economics-workers-wages-and-trade-unions/).
 - Go to the [course hub](/boards/cambridge/igcse/economics/) and tick off the [checklist](/checklists/cambridge/igcse/economics/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -187,7 +187,7 @@ For a quadratic, the turning point found by differentiation is the same as the o
 - **"Determine whether each is a maximum or a minimum. Show your working"**: one of the three methods, written out.
 - **"Estimate the gradient"** with a graph: a ruled tangent is required, and the answer is accepted within a range.
 
-## Next steps
+## More on this topic
 
 - [Differentiation revision notes](/resources/cambridge-igcse-mathematics-0580-differentiation-revision-notes/) for the rule and method in brief.
 - [Differentiation practice questions](/resources/cambridge-igcse-mathematics-0580-differentiation-practice/) with marked answers.

@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -166,7 +166,7 @@ Yes. Strand i rewards an appropriate style for the audience and purpose, and str
 **How many marks is Criterion C worth in the on-screen examination?**
 Twenty of the 80 marks: 12 in the Communicating task and 8 in the Thinking critically task.
 
-## Next steps
+## More on this topic
 
 Condense this into the [Criterion C revision notes](/resources/ib-myp-individuals-and-societies-criterion-c-communicating-revision-notes/), then test yourself with the [Criterion C practice questions](/resources/ib-myp-individuals-and-societies-criterion-c-communicating-practice/). Continue with [Criterion D](/resources/ib-myp-individuals-and-societies-criterion-d-thinking-critically/), which covers critical thinking.
 

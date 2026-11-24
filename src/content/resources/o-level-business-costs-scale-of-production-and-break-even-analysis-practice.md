@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -156,7 +156,7 @@ Take the cause from the case, such as many layers of management or several sites
 **What does a "justify" question on pricing or dropping a product need?**
 A clear decision backed by figures from the case, with at least one point against. For a loss-making product, compare the loss from continuing with the loss from stopping rather than judging on the loss alone.
 
-## Next steps
+## More on this topic
 
 - Recap the formulas in the [revision notes](/resources/o-level-business-costs-scale-of-production-and-break-even-analysis-revision-notes/).
 - Re-read the worked examples in the [study guide](/resources/o-level-business-costs-scale-of-production-and-break-even-analysis/).

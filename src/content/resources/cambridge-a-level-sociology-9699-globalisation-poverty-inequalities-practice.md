@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -115,6 +115,6 @@ Evaluation: some former colonies have grown rapidly, so colonialism alone cannot
 
 **Level guidance:** top answers distinguish organisations and criteria of success and weigh evidence across perspectives; middle answers describe organisations with some evaluation; low answers treat all organisations as one.
 
-## Next steps
+## More on this topic
 
 Review [perspectives on globalisation](/resources/cambridge-a-level-sociology-9699-perspectives-on-globalisation/) for the theories behind these debates, or the wider [global inequality, migration and crime practice questions](/resources/a-level-cambridge-sociology-globalisation-contemporary-issues-practice/).

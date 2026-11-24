@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -219,7 +219,7 @@ The most common errors are using the weak-acid shortcut √(Ka[HA]) for a buffer
 **How do you justify an indicator choice for full marks?**
 Link the indicator's colour-change range to the steep (vertical) section of the pH curve. Saying it "changes colour at the right pH" is too vague to earn credit.
 
-## Next steps
+## More on this topic
 
 - [Acids and bases revision notes](/resources/aqa-a-level-chemistry-acids-and-bases-revision-notes/)
 - [Acids and bases study guide](/resources/aqa-a-level-chemistry-acids-and-bases/)

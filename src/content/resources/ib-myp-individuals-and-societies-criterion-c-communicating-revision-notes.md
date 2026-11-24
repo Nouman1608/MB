@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -163,7 +163,7 @@ The task instructions are part of strand ii (structure according to the format),
 **Can I mix styles in one piece?**
 Keep the style consistent unless the task asks for a change, for example a quotation inside a formal report.
 
-## Next steps
+## More on this topic
 
 Try the [Criterion C practice questions](/resources/ib-myp-individuals-and-societies-criterion-c-communicating-practice/). Then read the [Criterion D study guide](/resources/ib-myp-individuals-and-societies-criterion-d-thinking-critically/) for how to analyse sources and perspectives.
 

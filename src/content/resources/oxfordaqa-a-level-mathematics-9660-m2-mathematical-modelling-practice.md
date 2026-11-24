@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -154,7 +154,7 @@ These questions cover section M2.1 (Mathematical modelling) of the OxfordAQA Int
 - Leaving µ as a fraction with an unsimplified decimal, or using R = 40 instead of 40g.
 - Giving a reason for a difference from data that does not relate to any assumption in the model.
 
-## Next steps
+## More on this topic
 
 - Re-read the [mathematical modelling revision notes](/resources/oxfordaqa-a-level-mathematics-9660-m2-mathematical-modelling-revision-notes/).
 - Return to the [mathematical modelling study guide](/resources/oxfordaqa-a-level-mathematics-9660-m2-mathematical-modelling/) for the refinement examples.

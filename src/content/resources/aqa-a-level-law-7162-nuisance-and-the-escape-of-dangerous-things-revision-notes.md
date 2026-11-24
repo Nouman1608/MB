@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -150,6 +150,6 @@ Unlawful interference with a person's use or enjoyment of land, or some right ov
 11. Why did *Read v Lyons* fail? *There was no escape from the defendant's premises.*
 12. Why did the claim fail in *Cambridge Water*? *Damage of that type was not foreseeable.*
 
-## Related resources
+## More resources on this topic
 
 [Nuisance and Rylands v Fletcher practice questions](/resources/aqa-a-level-law-7162-nuisance-and-the-escape-of-dangerous-things-practice/) | [Tort revision notes](/resources/aqa-a-level-law-tort-revision-notes/)

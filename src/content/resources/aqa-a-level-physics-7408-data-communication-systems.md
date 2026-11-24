@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -152,7 +152,7 @@ The **data capacity** of a channel is the rate at which it can carry information
 - **Compare** media: use the specification's headings (data rate, cost, security) and give one point under each.
 - **Calculate** bandwidth and bit rates: show the formula, then the substitution, then the unit.
 
-## Next steps
+## More on this topic
 
 Condense this page with the [data communication systems revision notes](/resources/aqa-a-level-physics-7408-data-communication-systems-revision-notes/) and test yourself with the [data communication systems practice questions](/resources/aqa-a-level-physics-7408-data-communication-systems-practice/). Sampling, PCM and noise, which feed into this section, are covered in [analogue and digital signals](/resources/aqa-a-level-physics-7408-analogue-and-digital-signals/); refraction and optic fibres are in [Waves](/resources/aqa-a-level-physics-waves/).
 

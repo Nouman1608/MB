@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -166,7 +166,7 @@ one embryo of this cow.
 - Mixing up which animal a clone is identical to.
 - Evaluations that list points without a conclusion.
 
-## Next steps
+## More on this topic
 
 - [Variation and evolution study guide](/resources/aqa-gcse-biology-8461-variation-and-evolution/)
 - [Variation and evolution revision notes](/resources/aqa-gcse-biology-8461-variation-and-evolution-revision-notes/)

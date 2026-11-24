@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -120,7 +120,7 @@ Using Source B, explain how the situation links the HL topic areas of technology
 - Case detail with no dates, actors or outcomes.
 - One-sided question 3 answers with no counter-argument or final judgement.
 
-## Next steps
+## More on this topic
 
 - [Revision notes for this unit](/resources/ib-dp-global-politics-hl-global-political-challenges-revision-notes/)
 - [Study guide for this unit](/resources/ib-dp-global-politics-hl-global-political-challenges/)

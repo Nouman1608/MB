@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -119,7 +119,7 @@ Leaving out the new fixed cost. Compare total or average costs including both th
 **What is the difference between accounting profit and abnormal profit?**
 Abnormal profit is what remains after also deducting the owner's opportunity cost, which counts as normal profit; mixing the two up loses marks.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/aqa-a-level-economics-revenue-profit-and-technological-change-revision-notes/) and re-read the [study guide](/resources/aqa-a-level-economics-revenue-profit-and-technological-change/).
 - Check progress on the [printable checklist](/checklists/aqa/a-level/economics/) and the [course hub](/boards/aqa/a-level/economics/).

@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -202,7 +202,7 @@ Fill the table from the bottom up: 7, then 3 + 7 = 10, then 0 + 10 = 10, then 5 
 11. `["a", "b", "c"]`.
 12. Any one of: each call uses stack memory so deep recursion can run out of space; some recursive solutions repeat work.
 
-## Next steps
+## More on this topic
 
 - [Additional programming study guide](/resources/oxfordaqa-a-level-computer-science-9645-additional-programming/)
 - [Additional programming practice questions](/resources/oxfordaqa-a-level-computer-science-9645-additional-programming-practice/)

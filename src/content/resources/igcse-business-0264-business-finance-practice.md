@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -132,7 +132,7 @@ Recommend a source of finance for the remaining £30,000 and justify your choice
 - Giving only advantages when asked to evaluate.
 - Forgetting that a loan must be repaid with interest and a grant does not.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/igcse-business-0264-business-finance-revision-notes/) and the [study guide](/resources/igcse-business-0264-business-finance/).
 - Open the [Cambridge IGCSE Business course page](/boards/cambridge/igcse/business/) and tick off your [checklist](/checklists/cambridge/igcse/business/).

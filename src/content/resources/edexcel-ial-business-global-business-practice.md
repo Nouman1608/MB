@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -103,7 +103,7 @@ Links: [study guide](/resources/edexcel-ial-business-global-business/), [revisio
 - Missing the final judgement on discuss and assess questions.
 - Giving only the benefits or only the costs of MNCs to a host country.
 
-## Next steps
+## More on this topic
 - Revise with the [revision notes](/resources/edexcel-ial-business-global-business-revision-notes/) and the [study guide](/resources/edexcel-ial-business-global-business/).
 - Course hub: [Edexcel A Level Business](/boards/edexcel/a-level/business/) and the [printable checklist](/checklists/edexcel/a-level/business/).
 - Take the [free 10-minute diagnostics](/diagnostics/).

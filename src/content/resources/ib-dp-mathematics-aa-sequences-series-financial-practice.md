@@ -33,7 +33,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -183,7 +183,7 @@ Learn the methods first in the [study guide](/resources/ib-dp-mathematics-aa-seq
 - Keeping the negative root when solving a quadratic in n.
 - Counting the first drop twice (or later bounces once) in total-distance problems.
 
-## Next steps
+## More on this topic
 
 - Recap the formulas: [revision notes](/resources/ib-dp-mathematics-aa-sequences-series-financial-revision-notes/)
 - Relearn a method: [study guide](/resources/ib-dp-mathematics-aa-sequences-series-financial/)

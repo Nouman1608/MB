@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -174,7 +174,7 @@ Revise first with the [immunity study guide](/resources/a-level-biology-9700-imm
 - Leaving out **myeloma** cells, or the selection step, from the hybridoma method.
 - Writing "passive" without "artificial" or "natural".
 
-## Next steps
+## More on this topic
 
 - Re-read the [immunity revision notes](/resources/a-level-biology-9700-immunity-revision-notes/) and [study guide](/resources/a-level-biology-9700-immunity/).
 - Try the [topic-level immunity practice questions](/resources/a-level-biology-immunity-practice/).

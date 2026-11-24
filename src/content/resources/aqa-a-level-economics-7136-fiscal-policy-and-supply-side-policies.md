@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -166,7 +166,7 @@ Use the same criteria for any fiscal or supply-side measure:
 - **Evaluate:** use the criteria above and reach a judgement for the economy described in the extract, for
   example whether there is a negative output gap.
 
-## Related resources
+## More resources on this topic
 
 - [Fiscal policy, government spending and taxation revision notes](/resources/aqa-a-level-economics-fiscal-policy-government-spending-taxation-and-the-revision-notes/)
 - [Supply-side policies revision notes](/resources/aqa-a-level-economics-supply-side-policies-revision-notes/)

@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -138,7 +138,7 @@ The owner wants quick responses to customers and lower costs. Justify which opti
 - Ignoring the case figures in a justify question, such as the salaries.
 - Treating redundancy and dismissal as the same.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/edexcel-igcse-business-organisation-structure-and-employees-revision-notes/) and the [study guide](/resources/edexcel-igcse-business-organisation-structure-and-employees/).
 - Return to the [4BS1 Business hub](/boards/edexcel/igcse/business/) and the [printable checklist](/checklists/edexcel/igcse/business/).

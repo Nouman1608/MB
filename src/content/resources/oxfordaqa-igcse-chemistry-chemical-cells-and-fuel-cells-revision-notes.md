@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 These revision notes condense section 3.9.3 Chemical cells and fuel cells of the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards. Both statements, a and b, are included. There are no tiers, and Paper 1 or Paper 2 may test this section. Go to the [chemical cells and fuel cells study guide](/resources/oxfordaqa-igcse-chemistry-chemical-cells-and-fuel-cells/) when you need the longer explanations.
@@ -230,7 +230,7 @@ Data: H = 1, O = 16; molar gas volume at room temperature and pressure = 24 dm³
 - Giving a volume in dm³ when the question asked for m³, or the reverse.
 - Listing a "benefit" such as "hydrogen is renewable" with no explanation. Say how it is made and from what.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/oxfordaqa-igcse-chemistry-chemical-cells-and-fuel-cells-practice/) for longer data and evaluation questions. Revisit the [quantitative chemistry revision notes](/resources/oxfordaqa-igcse-chemistry-quantitative-revision-notes/) if mole calculations feel shaky, and the [electrolysis revision notes](/resources/oxfordaqa-igcse-chemistry-electrolysis-revision-notes/) for how hydrogen can be made from brine. Then try a [free diagnostic](/diagnostics/).
 

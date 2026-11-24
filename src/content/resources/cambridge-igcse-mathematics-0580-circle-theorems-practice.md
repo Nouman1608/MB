@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -168,7 +168,7 @@ Give them whenever the question asks. The 0580 syllabus expects the properties a
 **How do I know which chord two angles stand on?**
 Follow the two arms of each angle to the circle. If both angles reach the same two points, and are on the same side of the chord joining them, they are in the same segment.
 
-## Next steps
+## More on this topic
 
 - Review the methods in the [circle theorems study guide](/resources/cambridge-igcse-mathematics-0580-circle-theorems/).
 - Recap with the [circle theorems revision notes](/resources/cambridge-igcse-mathematics-0580-circle-theorems-revision-notes/).

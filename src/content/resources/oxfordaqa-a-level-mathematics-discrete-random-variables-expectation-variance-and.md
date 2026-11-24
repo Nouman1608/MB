@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This study guide covers section S1.2 (Discrete random variables) of the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. This content is part of International AS, Unit PSM1 (section 3.2, S1). It teaches the mean, variance and standard deviation of a discrete random variable, of a function of it, and of sums and differences of independent variables.
 
@@ -269,7 +269,7 @@ The means agree but the spreads do not. Doubling one reading doubles the error, 
 - Reporting a standard deviation when asked for variance, or the reverse.
 - Not checking that the probabilities add to 1 before starting.
 
-## Next steps
+## More on this topic
 
 Condense this into the [revision notes](/resources/oxfordaqa-a-level-mathematics-discrete-random-variables-expectation-variance-and-revision-notes/), then try the [practice questions](/resources/oxfordaqa-a-level-mathematics-discrete-random-variables-expectation-variance-and-practice/). Check progress against the [checklist](/checklists/oxfordaqa/a-level/mathematics/).
 

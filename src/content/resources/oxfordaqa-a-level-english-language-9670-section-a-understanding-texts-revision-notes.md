@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -161,7 +161,7 @@ a mass audience as though each reader were an individual, usually through direct
 comparison, and paragraphs that discuss both texts show the similarities and differences directly. 11. The Section B
 writing task transforms some or all of the Section A material into a new text.
 
-## Next steps
+## More on this topic
 
 Practise with the [Understanding Texts practice questions](/resources/oxfordaqa-a-level-english-language-9670-section-a-understanding-texts-practice/),
 review the frameworks in the [Unit 1 revision notes](/resources/a-english-language-unit1-revision-notes/), and see how

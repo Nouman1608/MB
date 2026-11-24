@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -119,7 +119,7 @@ The bag lasts five times longer in the sea, because low temperature slows the ba
 
 **Describe** definitions using the syllabus wording. **Describe and explain** impacts by naming the impact, the animal group and the result, for example "a turtle swallows a bag mistaken for a jellyfish, so its stomach fills and it starves". For strategies, say how the strategy reduces plastic reaching the sea and give a limitation where a question asks you to evaluate or discuss.
 
-## Next steps
+## More on this topic
 
 - Definitions table and self-test: [plastic pollution revision notes](/resources/cambridge-o-level-environmental-management-5014-plastic-pollution-5014-2027-revision-notes/).
 - Exam-style questions with answers: [plastic pollution practice questions](/resources/cambridge-o-level-environmental-management-5014-plastic-pollution-5014-2027-practice/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "asif-iqbal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -148,7 +148,7 @@ Benefits: less wasted promotion; better-fitting products; possible higher prices
 11. Promotion is aimed at people likely to buy, so less money is wasted.
 12. A large rival can usually cut prices further, so the small business may lose profit without winning customers.
 
-## Next steps
+## More on this topic
 
 Practise with the [practice questions on the market](/resources/edexcel-igcse-business-4bs1-the-market-practice/), and review research methods in the [market research revision notes](/resources/edexcel-igcse-business-4bs1-market-research-revision-notes/).
 

@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -167,7 +167,7 @@ Evaluating `twice double 5`: the inner call gives double 5 = 10, the outer gives
 - Giving a function that returns a number as higher-order. It must take or return a function.
 - Forgetting that every integer is a rational number.
 
-## Next steps
+## More on this topic
 
 - [Paradigm revision notes](/resources/oxfordaqa-a-level-computer-science-9645-functional-programming-paradigm-revision-notes/)
 - [Paradigm practice questions](/resources/oxfordaqa-a-level-computer-science-9645-functional-programming-paradigm-practice/)

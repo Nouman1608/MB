@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -150,7 +150,7 @@ A good data answer states the direction of a trend, quotes two pairs of values w
 - **Deduce** or **Determine**: use the data provided, and show which values you used.
 - **Suggest**: a reasoned proposal for an unfamiliar situation; more than one answer may be credited.
 
-## Related resources
+## More resources on this topic
 
 - [Earth and the Solar System revision notes](/resources/cambridge-o-level-physics-5054-earth-and-the-solar-system-revision-notes/)
 - [Earth and the Solar System practice questions](/resources/cambridge-o-level-physics-5054-earth-and-the-solar-system-practice/)

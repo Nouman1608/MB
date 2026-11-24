@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -154,7 +154,7 @@ Each sentence pairs a feature of the model with a detail from the scenario -- th
 - Reporting Loftus and Palmer's findings without the verbs or figures.
 - Listing cognitive interview techniques without saying why each works.
 
-## Related resources
+## More resources on this topic
 
 - [Memory revision notes](/resources/oxfordaqa-a-level-psychology-9685-memory-revision-notes/)
 - [Memory practice questions](/resources/oxfordaqa-a-level-psychology-9685-memory-practice/)

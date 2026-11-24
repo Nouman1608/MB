@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -168,7 +168,7 @@ This is the **one-to-many** relationship between a high-level statement and mach
 9. Any one: faster to develop; easier to read and debug; portable.
 10. Any one: a device driver; firmware for a very small embedded system; a time-critical routine.
 
-## Related resources
+## More resources on this topic
 
 - [Classification of programming languages study guide](/resources/aqa-a-level-computer-science-7517-classification-of-programming-languages/)
 - [Classification of programming languages practice questions](/resources/aqa-a-level-computer-science-7517-classification-of-programming-languages-practice/)

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by nouman-ahmed on 2026-09-29; 2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -153,7 +153,7 @@ The strong electrostatic forces of attraction between oppositely charged ions ac
 **Why does chlorine form a 1− ion and not a 2− ion?**
 Chlorine is in Group 7 and has seven outer electrons, so it needs to gain only one electron to reach the electronic structure of argon. It therefore forms Cl⁻.
 
-## Related resources
+## More resources on this topic
 
 - [Chemical Bonds and Ionic Bonding study guide](/resources/gcse-aqa-chemistry-ionic-bonding/)
 - [Chemical Bonds and Ionic Bonding practice questions](/resources/aqa-gcse-chemistry-ionic-bonding-practice/)

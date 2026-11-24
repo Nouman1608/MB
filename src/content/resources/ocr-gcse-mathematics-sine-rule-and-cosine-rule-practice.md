@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -132,7 +132,7 @@ Learn the methods first in the [study guide](/resources/ocr-gcse-mathematics-sin
 - Mixing up the interior angle and the bearing in a bearings problem. Draw north lines and mark the angle.
 - Leaving off units, or giving too many decimal places for the accuracy asked.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/ocr-gcse-mathematics-sine-rule-and-cosine-rule/) for any method you missed.
 - Use the [revision notes](/resources/ocr-gcse-mathematics-sine-rule-and-cosine-rule-revision-notes/) for a quick recap.

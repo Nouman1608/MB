@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -157,7 +157,7 @@ A Core version of this question gives the shape on a grid, and you count squares
 - **Show that** two lines are parallel: find both gradients, show they are equal, and say so. If the lines could be the same, show their intercepts differ.
 - Check your equation by substituting the given point: it must fit exactly.
 
-## Next steps
+## More on this topic
 
 - Recap with the [parallel lines revision notes](/resources/cambridge-igcse-mathematics-0580-parallel-lines-revision-notes/) and practise with the [parallel lines practice questions](/resources/cambridge-igcse-mathematics-0580-parallel-lines-practice/).
 - Extended candidates should continue with the [perpendicular lines study guide](/resources/cambridge-igcse-mathematics-0580-perpendicular-lines/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -160,7 +160,7 @@ A balanced discussion usually weighs scale, speed, cost and fairness.
 
 **Define** and **state** need the syllabus wording and the three named gases. **Describe and explain** impacts need the link from warming to the impact. **Describe** strategies need what the strategy is and how it reduces emissions or helps people adapt. **Discuss** needs both sides and a judgement; naming the scale (individual, national, international) helps you organise the answer.
 
-## Next steps
+## More on this topic
 
 - Summary lists and a self-test: [climate change revision notes](/resources/cambridge-o-level-environmental-management-5014-climate-change-5014-2027-revision-notes/).
 - Practise with mark schemes: [climate change practice questions](/resources/cambridge-o-level-environmental-management-5014-climate-change-5014-2027-practice/).

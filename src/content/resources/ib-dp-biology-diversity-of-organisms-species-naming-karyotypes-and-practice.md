@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -188,7 +188,7 @@ Marks: each step is a pair of contrasting statements [1]; features are observabl
 - Writing eDNA steps in the wrong order, or leaving out the reference database.
 - Giving a key as a paragraph instead of paired statements.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/ib-dp-biology-diversity-of-organisms-species-naming-karyotypes-and-revision-notes/)
 - [Study guide](/resources/ib-dp-biology-diversity-of-organisms-species-naming-karyotypes-and/)

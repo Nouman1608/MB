@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -178,6 +178,6 @@ water: Δp = 1000 × 9.8 × 0.40 = 3920 Pa  ≈ 3900 Pa
 - **Explain** a design (a dam, a tractor tyre): link the shape to the pressure and the pressure to the result.
 - **Describe, qualitatively**, liquid pressure: "increases with depth; greater in a denser liquid".
 
-## Next steps
+## More on this topic
 
 Revise with the [revision notes on pressure](/resources/cambridge-igcse-physics-0625-pressure-revision-notes/) and then try the [practice questions on pressure](/resources/cambridge-igcse-physics-0625-pressure-practice/). Density, needed for Δp = ρgΔh, is in the [study guide on density](/resources/cambridge-igcse-physics-0625-density/); gas pressure in terms of particles is in the [study guide on the kinetic particle model of matter](/resources/cambridge-igcse-physics-0625-kinetic-particle-model-of-matter/).

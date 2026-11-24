@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -140,7 +140,7 @@ Order of working: rpm → rev s⁻¹ → rad s⁻¹ → v. Convert millimetres t
 
 **Answers:** 1. The angle subtended at the centre of a circle by an arc of length equal to the radius. 2. 2π/3 = 2.09 rad. 3. 1.2 × 180/π = 68.8°. 4. Rate of change of angular displacement; rad s⁻¹. 5. 5.0 × 2π = 31.4 rad. 6. (3000/60) × 2π = 314 rad s⁻¹. 7. v = 0.40 × 2.5 = 1.0 m s⁻¹. 8. ω = v/r = 8π rad s⁻¹, so T = 2π/ω = 0.25 s. 9. Same ω; the outer point has three times the linear speed. 10. Rim speed = 0.030 × 60 = 1.8 m s⁻¹; ω = 1.8 ÷ 0.090 = 20 rad s⁻¹. 11. ω = 2π/T, so rω = 2πr/T. 12. ω = 2π ÷ (27.3 × 86 400) = 2.66 × 10⁻⁶ rad s⁻¹; v = rω = 1.02 × 10³ m s⁻¹.
 
-## Related resources
+## More resources on this topic
 
 - [Motion in a Circle revision notes](/resources/a-physics-circular-motion-revision-notes/) — the whole of Topic 12
 - [Kinematics of uniform circular motion study guide](/resources/cambridge-a-level-physics-9702-a-kinematics-of-uniform-circular-motion/)

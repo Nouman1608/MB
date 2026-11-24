@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -161,7 +161,7 @@ The operations combine with `map`, `filter` and `fold` (4.12.2). For `xs = [4, 3
 - State clearly whether an expression gives an **item** or a **list**.
 - If the question uses another notation (for example pseudo-code with `Head(list)` and `Tail(list)`), use the operations as defined there.
 
-## Related resources
+## More resources on this topic
 
 - [Lists in functional programming revision notes](/resources/aqa-a-level-computer-science-7517-lists-in-functional-programming-revision-notes/)
 - [Lists in functional programming practice questions](/resources/aqa-a-level-computer-science-7517-lists-in-functional-programming-practice/)

@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-08
 featured: false
 ---
@@ -131,7 +131,7 @@ Identify the brain area most likely to have been damaged and explain your answer
 - In question 8(b), not stating which hemisphere processes the right visual field.
 - In question 10, spending most of the answer on description and offering only one evaluation point.
 
-## Next steps
+## More on this topic
 
 Revisit any weak area in the [Biopsychology study guide](/resources/aqa-a-level-psychology-7182-biopsychology/), then practise the maths and methods skills with the [Research methods practice questions](/resources/aqa-a-level-psychology-7182-research-methods-practice/).
 

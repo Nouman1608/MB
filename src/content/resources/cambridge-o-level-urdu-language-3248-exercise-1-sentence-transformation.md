@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to farheen-zehra (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to farheen-zehra (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -161,7 +161,7 @@ Five original sentences, with the prompt in brackets, followed by a model transf
 - Re-read each answer against the original for meaning.
 - If you are unsure, choose the simplest correct structure.
 
-## Related resources
+## More resources on this topic
 
 - [Exercise 1 Sentence transformation: revision notes](/resources/cambridge-o-level-urdu-language-3248-exercise-1-sentence-transformation-revision-notes/)
 - [Exercise 1 Sentence transformation: practice questions](/resources/cambridge-o-level-urdu-language-3248-exercise-1-sentence-transformation-practice/)

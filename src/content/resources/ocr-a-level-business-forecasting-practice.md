@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -151,7 +151,7 @@ Name a specific alternative cause, such as good weather raising demand in the sa
 **What does an evaluation of a forecasting method need?**
 A reasoned conclusion that refers to the business's circumstances, such as whether the product has any sales history. A list of pros and cons, or a conclusion that repeats earlier points, earns less.
 
-## Next steps
+## More on this topic
 
 - Review: [revision notes](/resources/ocr-a-level-business-forecasting-revision-notes/) and [study guide](/resources/ocr-a-level-business-forecasting/).
 - Wider area: [objectives and strategic decisions guide](/resources/ocr-a-level-business-objectives-and-strategic-decisions/).

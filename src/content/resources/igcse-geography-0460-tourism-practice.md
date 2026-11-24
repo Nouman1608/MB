@@ -22,6 +22,7 @@ publishedDate: 2026-09-29
 featured: false
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
+reviewNote: "2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 reviewedDate: 2026-10-09
 ---
 
@@ -169,7 +170,7 @@ Judgement: management can make tourism more sustainable in most places, but not 
 - Case-study answers with no named place, dates or figures.
 - Naming a sampling method without saying where, when and how.
 
-## Next steps
+## More on this topic
 
 - Revisit weak areas in the [tourism study guide](/resources/igcse-geography-0460-tourism/).
 - Check reef conditions in [coasts](/resources/igcse-geography-coasts/), which helps with reef-damage answers.

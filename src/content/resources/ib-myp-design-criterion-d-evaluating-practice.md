@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -128,7 +128,7 @@ Study first with the [criterion D study guide](/resources/ib-myp-design-criterio
 - Improvements that name no evidence and give no mechanism.
 - Impact written as a feature list, or only positive.
 
-## Next steps
+## More on this topic
 
 - [Criterion D revision notes](/resources/ib-myp-design-criterion-d-evaluating-revision-notes/)
 - [Criterion D study guide](/resources/ib-myp-design-criterion-d-evaluating/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: The specification states this row only in general terms; a teacher should confirm that the sources, proof and application method chosen here match how centres teach it."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: The specification states this row only in general terms; a teacher should confirm that the sources, proof and application method chosen here match how centres teach it. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -148,6 +148,6 @@ The answer is short because each step does one job. Note that it starts at the t
 
 Short "explain" questions on this row often ask about the burden of proof, the source of an offence, or the difference between specific and basic intent: give a definition, an authority and an example. In problem questions, the rules here are not a separate section of your answer but the skeleton for it: source, element, authority, application, conclusion.
 
-## Related resources
+## More resources on this topic
 
 [Rules of criminal law revision notes](/resources/aqa-a-level-law-7162-the-rules-of-criminal-law-revision-notes/) | [Rules of criminal law practice questions](/resources/aqa-a-level-law-7162-the-rules-of-criminal-law-practice/) | [General elements of liability study guide](/resources/a-level-aqa-law-general-elements-of-criminal-liability/)

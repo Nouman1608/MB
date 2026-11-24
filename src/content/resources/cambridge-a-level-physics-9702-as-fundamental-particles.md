@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -175,7 +175,7 @@ Classify each particle as a fundamental particle (quark or lepton) or a hadron (
 - **Show that** (charge is conserved): write the charge of each particle on each side and add.
 - **Explain** (why a proposed particle cannot exist): list the possible quark charge combinations and show none gives the stated charge.
 
-## Related resources
+## More resources on this topic
 
 - [Particle physics study guide](/resources/as-physics-particle-physics/) — the whole of Topic 11
 - [Fundamental particles revision notes](/resources/cambridge-a-level-physics-9702-as-fundamental-particles-revision-notes/)

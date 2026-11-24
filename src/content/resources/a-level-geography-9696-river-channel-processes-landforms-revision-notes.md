@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -131,7 +131,7 @@ Plots particle size against flow velocity and shows fields of erosion, transport
 
 **Answers:** 1. Hydraulic action, abrasion, attrition, solution. 2. Saltation. 3. Cohesion between particles means a surprisingly high velocity is needed. 4. Cross-sectional area divided by wetted perimeter. 5. On the inside of the bend, forming a slip-off slope. 6. High sediment load; low wave and tidal energy. 7. 2 m. 8. Competence is the largest particle size carried; capacity is the total load. 9. High, coarse load; variable discharge; easily eroded banks. 10. Clay particles clump together in salt water and settle faster. 11. Arcuate, bird's-foot and cuspate. 12. Pebbles swirled in eddies abrade hollows into the bed.
 
-## Related resources
+## More resources on this topic
 
 - [Core Physical Geography study guide](/resources/a-level-cambridge-geography-core-physical-geography/)
 - [Paper 1 core revision notes (overview)](/resources/a-geography-physical-revision-notes/)

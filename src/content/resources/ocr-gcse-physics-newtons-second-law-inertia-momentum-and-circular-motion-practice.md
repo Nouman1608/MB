@@ -22,7 +22,7 @@ reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -136,7 +136,7 @@ These questions cover statements P2.2i, P2.2j, P2.2k, P2.2l and P2.2q of OCR GCS
 - Describing circular motion as "changing speed".
 - Describing a safety feature without the time and change-in-momentum link (Higher Tier only).
 
-## Next steps
+## More on this topic
 
 - Revise from the [revision notes](/resources/ocr-gcse-physics-newtons-second-law-inertia-momentum-and-circular-motion-revision-notes/).
 - Re-read the [study guide](/resources/ocr-gcse-physics-newtons-second-law-inertia-momentum-and-circular-motion/).

@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
-reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -165,7 +165,7 @@ Judgement: choose Plan A on the figures, because it earns more profit and carrie
 - Describing a change to the lines without saying what it means for the owner.
 - Recommending an option without comparing both and noting a risk.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/edexcel-gcse-business-aims-objectives-revenue-costs-and-profit-revision-notes/) and the [study guide](/resources/edexcel-gcse-business-aims-objectives-revenue-costs-and-profit/).
 - Tick off the topic on the [printable checklist](/checklists/edexcel/gcse/business/) and visit the [Edexcel GCSE Business hub](/boards/edexcel/gcse/business/).

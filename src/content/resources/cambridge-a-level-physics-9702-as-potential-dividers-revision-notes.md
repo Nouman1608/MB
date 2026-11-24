@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -131,7 +131,7 @@ comparing:  ε₁ / ε₂ = l₁ / l₂
 
 **Answers:** 1. The same current flows through both, so V = IR is proportional to R. 2. 9.0 × 2.0 ÷ 3.0 = 6.0 V. 3. Lower part becomes 1.0 kΩ, so V_out = 9.0 × 1.0 ÷ 2.0 = 4.5 V. 4. The point on the wire where the galvanometer shows zero current. 5. At balance no current flows in the test cell, so there is no p.d. across its internal resistance. 6. It only has to indicate zero current, not measure a value. 7. The p.d. across the whole wire is less than the p.d. being measured; the test cell is connected with its terminals the wrong way round. 8. 1.60 × 48.0 ÷ 64.0 = 1.20 V. 9. The thermistor's resistance falls, so the output across it falls. 10. Across the LDR. 11. To protect the galvanometer from a large current when the contact is far from balance. 12. A given uncertainty in locating the balance point is a smaller percentage of a long length.
 
-## Related resources
+## More resources on this topic
 
 - [D.C. circuits revision notes](/resources/as-physics-dc-circuits-revision-notes/) — the whole of Topic 10
 - [Kirchhoff's laws revision notes](/resources/cambridge-a-level-physics-9702-as-kirchhoffs-laws-revision-notes/) — subtopic 10.2

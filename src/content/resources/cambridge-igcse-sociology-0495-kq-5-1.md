@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -137,6 +137,6 @@ Ivan Illich's *Deschooling Society* (1971) offers a critical background to these
 - **Discuss**: for example, "Discuss the strengths and limitations of online learning": three developed points with evidence and some balance.
 - **Evaluate**: argue both sides and conclude with a judgement that refers back to how effectiveness is measured.
 
-## Next steps
+## More on this topic
 
 Use the [key question 5.1 revision notes](/resources/cambridge-igcse-sociology-0495-kq-5-1-revision-notes/) to condense this and the [key question 5.1 practice questions](/resources/cambridge-igcse-sociology-0495-kq-5-1-practice/) to test yourself. Then continue with [the roles and functions of education (key question 5.2)](/resources/cambridge-igcse-sociology-0495-kq-5-2/).

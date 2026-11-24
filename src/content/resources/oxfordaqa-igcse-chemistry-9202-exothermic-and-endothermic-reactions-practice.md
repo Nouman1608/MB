@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -172,7 +172,7 @@ hydrated copper sulfate ⇌ anhydrous copper sulfate + water
 - Copper sulfate colours given the wrong way round.
 - Comparing temperature changes from experiments that used different amounts.
 
-## Next steps
+## More on this topic
 
 - Review the reasoning in the [exothermic and endothermic reactions study guide](/resources/oxfordaqa-igcse-chemistry-9202-exothermic-and-endothermic-reactions/).
 - Recheck examples in the [exothermic and endothermic reactions revision notes](/resources/oxfordaqa-igcse-chemistry-9202-exothermic-and-endothermic-reactions-revision-notes/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -186,7 +186,7 @@ The answer avoids the word "molecule" entirely, which is the single most common 
 - Saying the ions in a lattice are "far apart" because a ball and stick model shows gaps.
 - Describing the bonding as "between a sodium and a chlorine atom". The particles are ions.
 
-## Next steps
+## More on this topic
 
 - [Ionic compounds revision notes](/resources/aqa-gcse-chemistry-8462-ionic-compounds-revision-notes/)
 - [Ionic compounds practice questions](/resources/aqa-gcse-chemistry-8462-ionic-compounds-practice/)

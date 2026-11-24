@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -131,7 +131,7 @@ Data: h = 6.63 × 10⁻³⁴ J s; e = 1.60 × 10⁻¹⁹ C; mₑ = 9.11 × 10⁻
 - Saying brighter light gives faster photoelectrons.
 - Saying faster electrons give larger rings.
 
-## Next steps
+## More on this topic
 
 - [Wave-particle duality study guide](/resources/aqa-a-level-physics-7408-wave-particle-duality/)
 - [Wave-particle duality revision notes](/resources/aqa-a-level-physics-7408-wave-particle-duality-revision-notes/)

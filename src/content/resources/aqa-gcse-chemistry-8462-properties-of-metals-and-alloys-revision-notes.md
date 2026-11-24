@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -164,7 +164,7 @@ Method: percentage ÷ 100 × total mass. Check that the parts add up to the tota
 9. 90 ÷ 100 × 500 = 450 g.
 10. Sodium (a Group 1 metal), or mercury.
 
-## Next steps
+## More on this topic
 
 - [Properties of metals and alloys study guide](/resources/aqa-gcse-chemistry-8462-properties-of-metals-and-alloys/)
 - [Properties of metals and alloys practice questions](/resources/aqa-gcse-chemistry-8462-properties-of-metals-and-alloys-practice/)

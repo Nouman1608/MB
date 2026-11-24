@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -194,7 +194,7 @@ If y = (x − a)/b, the standard deviation of x is b times the standard deviatio
 **How should you compare two data sets in S1?**
 Make one comment on location, such as the median or mean, and one on spread, such as the IQR or standard deviation, each with numbers and in the context of the question.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/edexcel-ial-mathematics-statistical-models-and-the-representation-and-summary-revision-notes/) and [study guide](/resources/edexcel-ial-mathematics-statistical-models-and-the-representation-and-summary/).
 - Tick off topics on the [printable checklist](/checklists/edexcel/a-level/mathematics/) and visit the [course hub](/boards/edexcel/a-level/mathematics/).

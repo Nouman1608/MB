@@ -27,7 +27,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false
@@ -289,7 +289,7 @@ Darker, matt surfaces both emit and absorb radiation more effectively than light
 **Does GPE = mgh always apply?**
 It assumes a uniform gravitational field near the Earth's surface, a simplification that is valid for typical exam-level changes in height.
 
-## Related resources
+## More resources on this topic
 
 - [Waves](/resources/edexcel-igcse-physics-waves/) — the previous topic
 - [Solids, Liquids and Gases](/resources/edexcel-igcse-physics-solids-liquids-and-gases/) — the next topic

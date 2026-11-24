@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Please confirm that the unseen poetry question on both Paper 2a and Paper 2b is a single 30-mark question on one poem, with no separate comparison task."
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Please confirm that the unseen poetry question on both Paper 2a and Paper 2b is a single 30-mark question on one poem, with no separate comparison task. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-15
 featured: false
 ---
@@ -200,7 +200,7 @@ only about language. Watch the clock: on Route A, time saved here goes to unseen
 - Once a fortnight, write a full timed answer of 45 minutes.
 - Vary the poems: older and modern, rhymed and free verse, poems from different countries.
 
-## Related resources
+## More resources on this topic
 
 - [Unseen poetry revision notes for Route A and Route B](/resources/oxfordaqa-igcse-english-literature-9275-unseen-poetry-revision-notes/)
 - [Unseen poetry practice questions with original poems](/resources/oxfordaqa-igcse-english-literature-9275-unseen-poetry-practice/)

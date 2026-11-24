@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -148,7 +148,7 @@ moment where revenge, spite or blackmail operates, each with a short quotation o
 to a stage direction. If the question offers a view, for example that violence in the play is
 "senseless", test it against these three moments rather than agreeing at once.
 
-## Related resources
+## More resources on this topic
 
 - [Violence and revenge revision notes](/resources/oxfordaqa-a-level-english-literature-9675-violence-and-revenge-revision-notes/)
 - [Violence and revenge practice questions](/resources/oxfordaqa-a-level-english-literature-9675-violence-and-revenge-practice/)

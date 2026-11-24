@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -186,7 +186,7 @@ from the family?" differently: society as a whole (functionalism), capitalism an
 12. Any one: it may understate change towards more equal roles; it may treat all women as sharing the
     same experience regardless of class or ethnicity; it may overlook families women find supportive.
 
-## Related resources
+## More resources on this topic
 
 - [Study guide for key question 4.2](/resources/cambridge-o-level-sociology-2251-kq-4-2/)
 - [Practice questions for key question 4.2](/resources/cambridge-o-level-sociology-2251-kq-4-2-practice/)

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -146,7 +146,7 @@ These questions cover topic B5.2 Natural selection and evolution in OCR *GCSE (9
 - Saying antibiotics cause resistance, rather than selecting for resistant bacteria.
 - Writing "biodiversity" in a seedbank answer without saying what is stored.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ocr-gcse-biology-variation-natural-selection-evolution-and-revision-notes/) and the [study guide](/resources/ocr-gcse-biology-variation-natural-selection-evolution-and/).
 - Return to the [OCR GCSE Biology hub](/boards/ocr/gcse/biology/) and tick off topics on the [checklist](/checklists/ocr/gcse/biology/).

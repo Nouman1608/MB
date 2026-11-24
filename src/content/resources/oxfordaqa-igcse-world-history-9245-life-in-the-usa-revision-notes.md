@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -183,6 +183,6 @@ featured: false
 11. That segregated schools were unconstitutional.
 12. The Civil Rights Act of 1964 and the Voting Rights Act of 1965.
 
-## Next steps
+## More on this topic
 
 Try the [Life in the USA practice questions](/resources/oxfordaqa-igcse-world-history-9245-life-in-the-usa-practice/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -151,7 +151,7 @@ Evaluate whether both the price and the quantity of rice will rise. **[8]**
 - Stating the new price but not the new quantity.
 - Giving an evaluation with no conclusion.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/edexcel-igcse-economics-demand-supply-and-market-equilibrium-revision-notes/) and the [study guide](/resources/edexcel-igcse-economics-demand-supply-and-market-equilibrium/).
 - Go to the [Edexcel IGCSE Economics hub](/boards/edexcel/igcse/economics/) and the [checklist](/checklists/edexcel/igcse/economics/).

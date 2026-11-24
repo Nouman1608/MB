@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -141,7 +141,7 @@ ripple ≈ V₀ − V_min
 - **Explain** (smoothing): capacitor charges near the peak, then discharges through the load between peaks, keeping the p.d. from falling to zero.
 - **State and explain** (the effect of changing C or R): refer to the time constant RC compared with the time between peaks.
 
-## Related resources
+## More resources on this topic
 
 - [Alternating Currents study guide](/resources/a-physics-alternating-currents/) — the whole of Topic 21
 - [Rectification and smoothing revision notes](/resources/cambridge-a-level-physics-9702-a-rectification-and-smoothing-revision-notes/)

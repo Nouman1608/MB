@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -161,7 +161,7 @@ When several values are added, treat them as a second group: find their n, Σx a
 - **Explain why the combined standard deviation is larger than either group's**: refer to the difference between the group means.
 - Keep full calculator values until the final answer, then give 3 significant figures.
 
-## Next steps
+## More on this topic
 
 Drill the totals method with the [revision notes on combined sets](/resources/cambridge-o-level-statistics-4040-measures-for-combined-sets-of-data-revision-notes/), then use the [practice questions on combined sets](/resources/cambridge-o-level-statistics-4040-measures-for-combined-sets-of-data-practice/). The effect of adding or multiplying every value by a constant is the next section, covered in [adding or multiplying by a constant](/resources/cambridge-o-level-statistics-4040-effect-of-adding-or-multiplying-by-a-constant/).
 

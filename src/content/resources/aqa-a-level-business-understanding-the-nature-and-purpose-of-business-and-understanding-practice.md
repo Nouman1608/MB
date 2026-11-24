@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -118,7 +118,7 @@ These questions cover AQA A-level Business (7132) sections 3.1.1 and 3.1.2, for 
 - Giving only advantages of a plc, or only disadvantages.
 - Stating a judgement without a reason or a condition.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/aqa-a-level-business-understanding-the-nature-and-purpose-of-business-and-understanding-revision-notes/) and the [study guide](/resources/aqa-a-level-business-understanding-the-nature-and-purpose-of-business-and-understanding/).
 - Return to the [course hub](/boards/aqa/a-level/business/) and tick the [checklist](/checklists/aqa/a-level/business/).

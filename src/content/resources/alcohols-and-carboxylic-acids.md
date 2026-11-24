@@ -29,7 +29,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-08-18
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers Topic 11, Organic chemistry — subtopics **11.6 Alcohols**
@@ -257,7 +257,7 @@ No. Forming an ester from a carboxylic acid and an alcohol, and oxidising ethano
 **Does Cambridge O Level 5070 only examine ethanol and ethanoic acid?**
 5070's wording is broader than 0620's: it asks for the combustion of alcohols and the reactions of carboxylic acids in general. Ethanol and ethanoic acid are the standard teaching examples rather than the only examinable ones.
 
-## Related resources
+## More resources on this topic
 
 - [Organic Chemistry: Formulae and Naming](/resources/organic-chemistry-formulae-and-naming/) — general formulae and naming conventions for alcohols, acids and esters
 - [Petroleum, Alkanes and Alkenes](/resources/petroleum-alkanes-and-alkenes/) — the ethene-hydration route to ethanol

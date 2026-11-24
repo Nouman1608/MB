@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 **Power is Section 3 of Paper 2, The Environment of Pakistan, in Cambridge O Level Pakistan
@@ -185,7 +185,7 @@ sunny, scattered settlements in Balochistan and Thar.
 You need approximate, dated figures, because the syllabus asks how much is produced and how long
 reserves will last. Quote the year with each figure.
 
-## Related resources
+## More resources on this topic
 
 - [Power revision notes](/resources/o-level-pakistan-studies-power-revision-notes/)
 - [Power practice questions](/resources/o-level-pakistan-studies-power-practice/)

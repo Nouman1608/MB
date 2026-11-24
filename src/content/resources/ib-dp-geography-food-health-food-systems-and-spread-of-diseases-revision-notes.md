@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -135,6 +135,6 @@ Abdel Omran's original 1971 model described three stages: an age of pestilence a
 
 **Answers:** 1. Production, processing, distribution, retailing, consumption, waste. 2. Contagious spreads by contact outward from a source; hierarchical spreads down a ranked network such as city to town. 3. The vector survives only where conditions suit it. 4. It weakens immunity, so infection is more severe. 5. One passed from animals to people. 6. A shift in main causes of death from infectious to chronic disease as development proceeds. 7. One company controlling several stages of the chain, such as production, processing and retail. 8. Contagious and hierarchical. 9. An absorbing barrier stops spread completely; a permeable barrier lets some cases through. 10. Cholera deaths clustered around one water pump, suggesting a water-borne cause. 11. Relocation diffusion, as the disease was introduced from outside. 12. It is based mainly on richer countries' history and does not allow for new or returning infections.
 
-## Related resources
+## More resources on this topic
 
 - [Option F: Food and health study guide](/resources/ib-dp-geography-food-health-study-guide/)

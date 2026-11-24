@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -257,7 +257,7 @@ D: CH₃CH=CH₂
 - Using "-oic" for salts instead of "-oate".
 - Drawing displayed formulae with missing O–H bonds or with five bonds to a carbon.
 
-## Next steps
+## More on this topic
 
 - Review weak areas in the [naming organic compounds study guide](/resources/cambridge-o-level-chemistry-5070-naming-organic-compounds/).
 - Move on to the [fuels practice questions](/resources/cambridge-o-level-chemistry-5070-fuels-practice/).

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -157,7 +157,7 @@ orbital speed v = 2πr / T = 3.07 × 10³ m s⁻¹
 - **Calculate** or **determine**: convert heights to radii and times to seconds before substituting; give the unit.
 - **Suggest** (a use for a geostationary satellite): communications or weather monitoring, with the fixed-dish reason.
 
-## Related resources
+## More resources on this topic
 
 - [Gravitational Fields study guide](/resources/a-physics-gravitational-fields/) — the whole of Topic 13
 - [Gravitational field](/resources/cambridge-a-level-physics-9702-a-gravitational-field/) — subtopic 13.1

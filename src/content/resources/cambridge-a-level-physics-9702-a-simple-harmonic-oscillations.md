@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -162,7 +162,7 @@ phase difference = (0.15 / 1.2) × 2π = 0.785 rad = π/4 rad  (45°)
 - **Calculate**: radians throughout; give ω in rad s⁻¹ and f in Hz.
 - **Sketch** (v–t or a–t from x–t): keep the same period, mark the quarter-cycle shift for velocity and the half-cycle shift for acceleration, and label the peak values ωx₀ and ω²x₀.
 
-## Related resources
+## More resources on this topic
 
 - [Oscillations study guide](/resources/a-physics-oscillations/) — the whole of Topic 17
 - [Simple harmonic oscillations revision notes](/resources/cambridge-a-level-physics-9702-a-simple-harmonic-oscillations-revision-notes/)

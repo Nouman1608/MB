@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -155,6 +155,6 @@ Each mark needs a cause and its effect; "hot air rises" alone earns at most one.
 - **Explain** *(Extended)* conduction in metals: name both lattice vibrations and free electrons.
 - **Explain** an application: name each process and say how the design increases or reduces it.
 
-## Next steps
+## More on this topic
 
 Revise with the [revision notes on transfer of thermal energy](/resources/cambridge-igcse-physics-0625-transfer-of-thermal-energy-revision-notes/) and test yourself with the [practice questions on transfer of thermal energy](/resources/cambridge-igcse-physics-0625-transfer-of-thermal-energy-practice/). Density changes in fluids rely on the [study guide on thermal properties and temperature](/resources/cambridge-igcse-physics-0625-thermal-properties-and-temperature/), and infrared as a wave links to the [study guide on general properties of waves](/resources/cambridge-igcse-physics-0625-general-properties-of-waves/).

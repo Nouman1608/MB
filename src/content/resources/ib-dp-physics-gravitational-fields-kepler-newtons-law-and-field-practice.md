@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -146,7 +146,7 @@ The distance must be measured from the centre of Venus, since the planet acts as
 - Using r₁v₁ = r₂v₂ without saying it applies where the velocity is perpendicular to the line to the Sun.
 - Writing T ∝ r³ instead of T² ∝ r³.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/ib-dp-physics-gravitational-fields-kepler-newtons-law-and-field-revision-notes/).
 - Re-read the [study guide](/resources/ib-dp-physics-gravitational-fields-kepler-newtons-law-and-field/).

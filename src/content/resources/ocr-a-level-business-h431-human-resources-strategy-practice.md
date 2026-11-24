@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -118,7 +118,7 @@ Judgement: the retention and skills strategy is better, because it is cheaper ov
 - Using the formula for turnover but forgetting to multiply by 100.
 - Offering no judgement.
 
-## Next steps
+## More on this topic
 
 - Revisit the [human resources strategy study guide](/resources/ocr-a-level-business-h431-human-resources-strategy/) for any gaps.
 - Try the [accounting and finance objectives practice questions](/resources/ocr-a-level-business-h431-accounting-and-finance-objectives-practice/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -181,7 +181,7 @@ Evaluate the second proposal. Refer to the chemistry of chlorine in water, the b
 - Forgetting to convert kg to g, or cm³ to dm³, in bleach and precipitate calculations.
 - Ending an "evaluate" answer without a judgement.
 
-## Next steps
+## More on this topic
 
 - [The halogens revision notes](/resources/ocr-a-level-chemistry-the-halogens-revision-notes/)
 - [The halogens study guide](/resources/ocr-a-level-chemistry-the-halogens/)

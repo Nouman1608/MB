@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide follows the OxfordAQA International AS and A-level Physics (9630) specification, Version 4.4, for exams from May/June 2020 onwards. It covers section 3.5.8 (Refraction at a plane surface), which is shared International AS and A-level content, so it is relevant to both qualifications. Read it with the [course hub](/boards/oxfordaqa/a-level/physics/) and tick off each point on the [printable checklist](/checklists/oxfordaqa/a-level/physics/).
@@ -206,7 +206,7 @@ The consequence is that over long distances the signal falls below what the rece
 - Mixing up modal dispersion (different paths, one wavelength) with material dispersion (different wavelengths, different speeds).
 - Treating absorption as the cause of pulse broadening. Absorption lowers the power; dispersion lengthens the pulse.
 
-## Next steps
+## More on this topic
 
 Condense this section with the [revision notes](/resources/oxfordaqa-a-level-physics-refraction-total-internal-reflection-and-optical-fibres-revision-notes/), then test yourself with the [practice questions](/resources/oxfordaqa-a-level-physics-refraction-total-internal-reflection-and-optical-fibres-practice/). If the graph method needs uncertainty work, revisit [measurements and their errors](/resources/a-level-oxfordaqa-physics-measurements-and-their-errors/).
 

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This guide covers the first part of section S2.2 (Continuous random variables) in the OxfordAQA International AS and A-level Mathematics specification (9660), Version 5.2. It teaches how continuous and discrete random variables differ, how a probability density function f(x) and a cumulative distribution function F(x) are linked, how to find the probability of an interval, and how to find a value for a given probability, such as a median or quartile. The specification places this content in International A-level Unit S2 (Statistics), so it is not examined at International AS. Means, variances and the exponential distribution are separate topics and are not covered here.
 
@@ -291,7 +291,7 @@ The median and upper quartile come from a cubic that has no simple factorisation
 - Solving F(m) = 1/2 in the wrong piece and accepting a root outside it.
 - Differentiating a cdf and forgetting that f is zero outside the range.
 
-## Next steps
+## More on this topic
 
 Try the [practice questions](/resources/oxfordaqa-a-level-mathematics-probability-density-and-cumulative-distribution-practice/), then use the [revision notes](/resources/oxfordaqa-a-level-mathematics-probability-density-and-cumulative-distribution-revision-notes/) for quick recall. Then use the [checklist](/checklists/oxfordaqa/a-level/mathematics/) to tick this topic off.
 

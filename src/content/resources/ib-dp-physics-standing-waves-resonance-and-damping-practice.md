@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -159,7 +159,7 @@ These questions cover section C.4 (standing waves and resonance) of the IB *Phys
 - Stating damping effects without comparing: the peak is lower, broader and slightly lower in frequency.
 - Failing to distinguish critical from heavy damping, which both avoid oscillation.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/ib-dp-physics-standing-waves-resonance-and-damping-revision-notes/).
 - Re-read the [study guide](/resources/ib-dp-physics-standing-waves-resonance-and-damping/).

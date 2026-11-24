@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by muhammad-ghazali-siddiqui on 2026-09-29; 2026-11-08: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -213,7 +213,7 @@ T = [  0    0   1/2   1 ]
 - Deleted vertex: adding only one edge from the deleted vertex.
 - Swapping upper and lower bounds in the final interval.
 
-## Next steps
+## More on this topic
 
 - [Graph theory revision notes](/resources/ib-dp-mathematics-ai-hl-graph-theory-revision-notes/).
 - [Graph theory study guide](/resources/ib-dp-mathematics-ai-hl-graph-theory/).

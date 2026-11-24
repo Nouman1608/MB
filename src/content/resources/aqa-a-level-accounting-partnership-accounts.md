@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers section 3.15, Partnership accounts, of the AQA A-level Accounting (7127) specification (version 1.1, October 2026, for A-level exams from June 2019 onwards). The qualification is not tiered. The specification places section 3.15 in the content assessed by Paper 1, a 3-hour written exam, and you must use a calculator in the exam.
@@ -282,7 +282,7 @@ If goodwill is not kept in the books, debit goodwill and credit the old partners
 **Is dissolution of partnerships examined in AQA A-Level Accounting 7127?**
 No. The specification states that the dissolution of partnerships will not be examined in section 3.15.
 
-## Next steps
+## More on this topic
 
 Condense the methods with the [revision notes](/resources/aqa-a-level-accounting-partnership-accounts-revision-notes/), then test yourself on the [practice questions](/resources/aqa-a-level-accounting-partnership-accounts-practice/). For the wider set of skills examined on Paper 1, see [AQA A-level Accounting exam preparation](/resources/aqa-a-level-accounting-exam-preparation/).
 

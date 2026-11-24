@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This guide is for OxfordAQA International GCSE Mathematics (9260), aligned to the specification Version 5.1 (for exams May/June 2018 onwards). It covers references A19 and A22 in section 3.2.3 (Solving equations and inequalities). Every statement in these two references is Core content, so it is also assessable on the Extension papers. There is no Extension-only content to separate out here.
 
@@ -322,7 +322,7 @@ An adult ticket costs £12 and a child ticket costs £7.50. Check in (1): 24 + 2
 - Stopping at x when the question asks for a length, an age or a cost.
 - Forming an equation in which the two sides do not describe equal quantities, such as adding a width to a perimeter.
 
-## Next steps
+## More on this topic
 
 Revise the key results in the [revision notes](/resources/oxfordaqa-igcse-mathematics-linear-equations-and-forming-equations-from-problems-revision-notes/), then test yourself with the [practice questions](/resources/oxfordaqa-igcse-mathematics-linear-equations-and-forming-equations-from-problems-practice/). Tick off the content on the [printable checklist](/checklists/oxfordaqa/igcse/mathematics/) and find gaps with the [free diagnostics](/diagnostics/).
 

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -167,6 +167,6 @@ Condensed notes for the section 3.4 row **Contract terms: general**: "Express an
 11. What did *Bunge v Tradax* decide? *Time clauses in mercantile contracts are generally conditions.*
 12. Why is *Arcos v Ronaasen* criticised? *It allowed rejection for a trivial breach to escape a falling market.*
 
-## Related resources
+## More resources on this topic
 
 [Contract terms: general practice questions](/resources/aqa-a-level-law-7162-contract-terms-general-practice/) | [Law of contract revision notes](/resources/aqa-a-level-law-law-of-contract-revision-notes/)

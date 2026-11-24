@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to farheen-zehra (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to farheen-zehra (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -178,7 +178,7 @@ Objective S5 asks you to "engage in a conversation and contribute effectively to
 4. Record yourself and listen for short answers and long silences.
 5. Practise the repair phrases until they are automatic.
 
-## Related resources
+## More resources on this topic
 
 - [Part 2 Topic conversation: revision notes](/resources/cambridge-igcse-urdu-language-0539-part-2-topic-conversation-revision-notes/)
 - [Part 2 Topic conversation: practice questions](/resources/cambridge-igcse-urdu-language-0539-part-2-topic-conversation-practice/)

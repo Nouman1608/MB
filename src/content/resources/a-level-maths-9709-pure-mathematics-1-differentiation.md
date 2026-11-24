@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -299,7 +299,7 @@ Show that f′(x) is always positive, often by completing the square, for exampl
 **How do you solve a maximum or minimum problem?**
 Use the constraint to write the quantity in one variable, differentiate and set the derivative to zero, confirm the nature with the second derivative, and answer the question asked with units.
 
-## Next steps
+## More on this topic
 
 - Condensed recall: [Paper 1 differentiation revision notes](/resources/a-level-maths-9709-pure-mathematics-1-differentiation-revision-notes/)
 - Exam-style questions with mark schemes: [Paper 1 differentiation practice questions](/resources/a-level-maths-9709-pure-mathematics-1-differentiation-practice/)

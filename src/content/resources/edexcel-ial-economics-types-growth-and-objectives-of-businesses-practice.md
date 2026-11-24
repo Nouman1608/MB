@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -136,7 +136,7 @@ Fixed cost is 40.
 - Forgetting to apply the answer to the firm in the question.
 - Reaching no conclusion in an evaluation question.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/edexcel-ial-economics-types-growth-and-objectives-of-businesses/) and the [revision notes](/resources/edexcel-ial-economics-types-growth-and-objectives-of-businesses-revision-notes/).
 - Return to the [course hub](/boards/edexcel/a-level/economics/) and the [checklist](/checklists/edexcel/a-level/economics/).

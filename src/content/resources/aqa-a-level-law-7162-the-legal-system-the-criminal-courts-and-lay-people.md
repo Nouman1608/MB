@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Magistrates' custodial limits and proposals to restrict jury trial have changed recently; check the current statutory position before review."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Magistrates' custodial limits and proposals to restrict jury trial have changed recently; check the current statutory position before review. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -173,6 +173,6 @@ Judgement:   Juries are justified for serious cases, but the s44 exception
 
 "Explain" questions on this row want a defined term plus an illustration, for example the allocation procedure with a named either-way offence. "Evaluate" questions on juries want a balanced argument supported by cases or research and a reasoned judgement. Keep the four specification items separate: a question on the role of magistrates is not an invitation to evaluate juries.
 
-## Related resources
+## More resources on this topic
 
 [Criminal courts and lay people revision notes](/resources/aqa-a-level-law-7162-the-legal-system-the-criminal-courts-and-lay-people-revision-notes/) | [Criminal courts and lay people practice questions](/resources/aqa-a-level-law-7162-the-legal-system-the-criminal-courts-and-lay-people-practice/)

@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide is aligned to the OxfordAQA International GCSE Biology (9201) specification, Version 5.2, for exams May/June 2018 onwards. It covers sections 3.4.1 (the human nervous system) and 3.4.6 (behaviour). The qualification is untiered, so everything here is for every candidate. Find the course on the [OxfordAQA IGCSE Biology hub](/boards/oxfordaqa/igcse/biology/) and tick off each statement on the [printable checklist](/checklists/oxfordaqa/igcse/biology/).
@@ -274,7 +274,7 @@ Sound works in the dark but can attract predators. Chemical signals last but cha
 - Calling imprinting "any learned attachment". It happens in a short early period.
 - Listing only benefits of parental care when the question asks for risks.
 
-## Next steps
+## More on this topic
 
 Use the [revision notes](/resources/oxfordaqa-igcse-biology-nervous-system-reflexes-and-animal-behaviour-revision-notes/), then test yourself on the [practice set](/resources/oxfordaqa-igcse-biology-nervous-system-reflexes-and-animal-behaviour-practice/).
 

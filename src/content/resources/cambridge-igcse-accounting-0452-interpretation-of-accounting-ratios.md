@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -179,7 +179,7 @@ Common reasons:
 - **Suggest** and **advise**: actions linked to the ratio, with a possible drawback.
 - **Evaluate**: weigh good and bad changes and reach an overall judgement.
 
-## Next steps
+## More on this topic
 
 Use the
 [6.2 revision notes](/resources/cambridge-igcse-accounting-0452-interpretation-of-accounting-ratios-revision-notes/)

@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches section 3.3.11, Amines, of the OxfordAQA 9620 specification (International AS and A-level Chemistry, Version 5.3), which applies to exams from the May/June 2020 series onwards. All three subsections are covered, 3.3.11.1 to 3.3.11.3: preparation, base properties and nucleophilic properties. The specification lists this as International A2 content, which makes all of it **International A-level only**, and the Unit 4 paper (Organic 2 and Physical 2) examines it along with the rest of 3.3.7 to 3.3.16; Unit 5, the practical and synoptic paper, may test any content.
@@ -292,7 +292,7 @@ A second mole of amine would neutralise the ethanoic acid.
 - Giving HCl as a by-product of an anhydride reaction. It is a carboxylic acid.
 - Dropping the N- from names such as N-cyclohexylpropanamide.
 
-## Next steps
+## More on this topic
 
 Move on to the [amines revision notes](/resources/oxfordaqa-a-level-chemistry-amines-revision-notes/) and, after those, the [amines practice set](/resources/oxfordaqa-a-level-chemistry-amines-practice/). Amide links return in [polymers](/resources/oxfordaqa-a-level-chemistry-polymers/), and amine routes in [organic synthesis](/resources/oxfordaqa-a-level-chemistry-organic-synthesis/). The free [diagnostics](/diagnostics/) show where to focus.
 

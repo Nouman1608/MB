@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -143,7 +143,7 @@ Onset in Kerala, south-west India, is normally around 1 June. Monsoons also affe
 11. 31.5 − 23.0 = 8.5 °C.
 12. The ITCZ reaches these places only briefly and not every year by the same amount, so the length and amount of the wet season vary.
 
-## Related resources
+## More resources on this topic
 
 - [7.1 Tropical climates study guide](/resources/cambridge-a-level-geography-9696-tropical-climates/)
 - [7.1 practice questions](/resources/cambridge-a-level-geography-9696-tropical-climates-practice/)

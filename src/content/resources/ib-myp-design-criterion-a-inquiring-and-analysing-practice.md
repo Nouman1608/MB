@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -154,7 +154,7 @@ Support:
 - Leaving out units, or ignoring a wide range.
 - Briefs that ignore the research, or are stuffed with specification measurements.
 
-## Next steps
+## More on this topic
 
 - [Criterion A revision notes](/resources/ib-myp-design-criterion-a-inquiring-and-analysing-revision-notes/)
 - [Criterion A study guide](/resources/ib-myp-design-criterion-a-inquiring-and-analysing/)

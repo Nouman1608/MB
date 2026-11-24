@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -147,7 +147,7 @@ Core candidates describe the same two properties without the reasons.
     and the ions are drawn separately in brackets.
 12. Cation: Na⁺, Mg²⁺ or Al³⁺. Anion: O²⁻ or F⁻ (or N³⁻).
 
-## Next steps
+## More on this topic
 
 Try the [Ions and Ionic Bonds practice questions](/resources/cambridge-igcse-chemistry-0620-ions-and-ionic-bonds-practice/),
 then compare with covalent bonding in the

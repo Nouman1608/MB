@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -164,7 +164,7 @@ An evaluation answer should consider the effect on cost per unit, quality, moral
 - When **comparing** methods, use numbers for employer and employee, then give a judgement.
 - **Explain** a disadvantage with a consequence, such as "piecework may reduce quality because workers rush, so the business faces more rejects and higher costs".
 
-## Related resources
+## More resources on this topic
 
 [Introduction to costing revision notes](/resources/edexcel-ial-accounting-introduction-to-costing-revision-notes/) |
 [Labour costs practice questions](/resources/edexcel-a-level-accounting-yac11-labour-costs-practice/) |

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 For full explanations and longer worked examples, use the [How fast? study guide](/resources/ocr-a-level-chemistry-how-fast/).
@@ -231,7 +231,7 @@ Higher temperature: Boltzmann curve shifts to higher energy, a greater proportio
 - Using T, or a temperature in °C, on the x-axis of an Arrhenius plot instead of 1/T in K⁻¹.
 - Giving Ea in J mol⁻¹ when kJ mol⁻¹ was asked for, or dropping the minus sign in Ea = –gradient × R.
 
-## Next steps
+## More on this topic
 
 If a section felt shaky, reread it in the [How fast? study guide](/resources/ocr-a-level-chemistry-how-fast/). Then attempt the [How fast? practice set](/resources/ocr-a-level-chemistry-how-fast-practice/) under timed conditions.
 

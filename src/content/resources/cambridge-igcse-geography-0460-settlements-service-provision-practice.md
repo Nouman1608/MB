@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -132,7 +132,7 @@ Agree: modern technology reduces the importance of site factors such as water su
 - Relationship answers with no data, or data with no stated relationship.
 - Hierarchy answers that rank settlements only by population and never mention services.
 
-## Next steps
+## More on this topic
 
 - Re-read the [Settlements and Service Provision study guide](/resources/cambridge-igcse-geography-0460-settlements-service-provision/) for any question you found hard.
 - Move on to land use in towns and cities with the [Urban Settlements practice questions](/resources/cambridge-igcse-geography-0460-urban-settlements-practice/).

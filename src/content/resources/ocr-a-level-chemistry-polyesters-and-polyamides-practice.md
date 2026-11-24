@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -166,7 +166,7 @@ A 2.75 g sample was heated under reflux with 40.0 cm³ of 1.00 mol dm⁻³ NaOH(
 - Using a 1 : 1 ratio of NaOH to repeat units when each unit has two links.
 - Dropping or moving side branches when drawing repeat units from single monomers.
 
-## Next steps
+## More on this topic
 
 - Recap the tables and method steps: [Polyesters and polyamides revision notes](/resources/ocr-a-level-chemistry-polyesters-and-polyamides-revision-notes/)
 - Full explanations and worked examples: [Polyesters and polyamides study guide](/resources/ocr-a-level-chemistry-polyesters-and-polyamides/)

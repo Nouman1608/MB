@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -142,7 +142,7 @@ Social costs   = 170 000, or 170 per tonne
 - Naming an example with no third party.
 - Claiming the 4EC1 specification requires an externality diagram; section 1.1.6 asks for definitions, examples and the formulae.
 
-## Next steps
+## More on this topic
 
 Condense this with the [externalities revision notes](/resources/edexcel-igcse-economics-4ec1-externalities-revision-notes/), then apply it in the [externalities practice questions](/resources/edexcel-igcse-economics-4ec1-externalities-practice/). Go back to [the mixed economy](/resources/edexcel-igcse-economics-4ec1-the-mixed-economy/) for market failure and public goods, or forward to [government intervention](/resources/edexcel-igcse-economics-4ec1-government-intervention/) for the policies that tackle externalities.
 

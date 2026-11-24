@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -126,7 +126,7 @@ v = mean drift speed (m s⁻¹),   q = charge per carrier (C)
 
 **Answers:** 1. The rate of flow of charge. 2. Free electrons; positive and negative ions. 3. No: 2.0 × 10⁻¹⁹ ÷ 1.60 × 10⁻¹⁹ = 1.25, not a whole number. 4. 1 C = 1 A s. 5. Q = 0.25 × 120 = 30 C. 6. 3.2 × 10⁻³ ÷ 1.60 × 10⁻¹⁹ = 2.0 × 10¹⁶. 7. Area under the graph. 8. The number of charge carriers per unit volume, in m⁻³. 9. P has a quarter of the area, so its drift speed is four times that in Q. 10. An electric field is set up throughout the circuit almost immediately, so free electrons all round the circuit start to drift at once. 11. Q = 0.96 C; number = 0.96 ÷ (2 × 1.60 × 10⁻¹⁹) = 3.0 × 10¹⁸. 12. It halves.
 
-## Related resources
+## More resources on this topic
 
 - [Electricity revision notes](/resources/as-physics-electricity-revision-notes/) — the whole of Topic 9
 - [Potential difference and power revision notes](/resources/cambridge-a-level-physics-9702-as-potential-difference-and-power-revision-notes/) — subtopic 9.2

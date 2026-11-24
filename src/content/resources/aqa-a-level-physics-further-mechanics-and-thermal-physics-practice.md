@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -190,7 +190,7 @@ Learn the content first with the [study guide](/resources/aqa-a-level-physics-fu
 - Using °C instead of kelvin in pV = nRT.
 - Using molar mass instead of the mass of one atom when finding c_rms.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/aqa-a-level-physics-further-mechanics-and-thermal-physics-revision-notes/).
 - Re-read the [study guide](/resources/aqa-a-level-physics-further-mechanics-and-thermal-physics/).

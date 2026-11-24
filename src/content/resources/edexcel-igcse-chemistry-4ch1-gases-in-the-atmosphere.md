@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches sub-topic 2(c), Gases in the atmosphere, of the Pearson Edexcel International GCSE Chemistry (4CH1) specification, Issue 3 (September 2024). It covers specification points 2.9–2.14, including the required practical 2.14. The qualification is untiered, and none of these six points carries a "C" reference, so all of them can be examined on Paper 1 and Paper 2. One calculation step below uses molar volume, which comes from point 1.35C in Topic 1; that step is labelled **Paper 2 only**.
@@ -269,7 +269,7 @@ Use the specification's wording: "may contribute to climate change".
 - Describing copper(II) carbonate as "blue" (it is green) or its oxide as "brown" (it is black).
 - Removing the flame before the delivery tube, causing suck-back.
 
-## Next steps
+## More on this topic
 
 Condense this with the [revision notes](/resources/edexcel-igcse-chemistry-4ch1-gases-in-the-atmosphere-revision-notes/), then try questions 4 and 5 of the [Groups, acids, salts and tests practice set](/resources/edexcel-igcse-chemistry-4ch1-inorganic-groups-acids-salts-tests-practice/) and questions 2 and 5 of the [Reactivity practice questions](/resources/edexcel-igcse-chemistry-reactivity-practice/).
 

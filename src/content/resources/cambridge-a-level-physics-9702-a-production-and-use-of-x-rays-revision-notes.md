@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -120,7 +120,7 @@ number of electrons per second = I_tube / e
 
 **Answers:** 1. Thermionic emission from a heated filament (cathode). 2. It becomes thermal energy in the target. 3. The highest-energy photon is produced when an electron gives all its kinetic energy eV to one photon, so no photon can have a shorter wavelength than hc/(eV). 4. 6.63 × 10⁻³⁴ × 3.00 × 10⁸ / (1.60 × 10⁻¹⁹ × 1.20 × 10⁵) = 1.04 × 10⁻¹¹ m. 5. V = hc/(eλ) = 6.2 × 10⁴ V (62 kV). 6. 4.0 × 10⁻³ / 1.60 × 10⁻¹⁹ = 2.5 × 10¹⁶. 7. The difference in degree of blackening between different areas of the image. 8. It has a large attenuation coefficient, so it shows the outline of the stomach clearly against surrounding soft tissue. 9. e^(−60 × 0.015) = 0.41. 10. I = I₀e^(−(μ₁x₁ + μ₂x₂)), or multiply the two transmitted fractions. 11. Many images of one section from different angles; combined into a 2D image of the section; repeated for sections along an axis; 2D images combined into 3D. 12. Their attenuation coefficients are similar, so similar intensities pass through each.
 
-## Related resources
+## More resources on this topic
 
 - [Medical Physics revision notes](/resources/a-physics-medical-physics-revision-notes/) — the whole of Topic 24
 - [X-rays practice questions](/resources/cambridge-a-level-physics-9702-a-production-and-use-of-x-rays-practice/)

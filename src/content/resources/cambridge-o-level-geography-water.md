@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-15
 featured: false
 ---
@@ -202,7 +202,7 @@ Quote figures from the resource and make a clear comparison
   use.
 - Case studies with general statements and no named schemes or places.
 
-## Next steps
+## More on this topic
 
 - Check recall with the [Water revision notes](/resources/cambridge-o-level-geography-water-revision-notes/).
 - Practise with the [Water practice questions](/resources/cambridge-o-level-geography-water-practice/).

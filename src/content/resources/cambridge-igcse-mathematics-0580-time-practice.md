@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -173,7 +173,7 @@ The syllabus states 1 year = 365 days.
 **What is the safest way to find a duration across midnight?**
 Count on to 00 00, then count on from 00 00 to the end time, and add the two parts.
 
-## Next steps
+## More on this topic
 
 - Re-read the methods in the [time study guide](/resources/cambridge-igcse-mathematics-0580-time/).
 - More mixed Topic 1 questions: the [Number practice questions](/resources/igcse-mathematics-number-practice/).

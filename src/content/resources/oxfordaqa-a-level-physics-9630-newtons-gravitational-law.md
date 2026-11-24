@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -135,6 +135,6 @@ The products agree, so the data fit an inverse square law. The ratio test agrees
 - **Show that**: give the final value to at least one more significant figure than the value in the question.
 - **Explain** why gravity is unnoticed between everyday objects: refer to the small value of G and compare with weight.
 
-## Next steps
+## More on this topic
 
 Condense the page with the [Newton's gravitational law revision notes](/resources/oxfordaqa-a-level-physics-9630-newtons-gravitational-law-revision-notes/) and test yourself with the [Newton's gravitational law practice questions](/resources/oxfordaqa-a-level-physics-9630-newtons-gravitational-law-practice/). The next subtopic is in the [gravitational field strength study guide](/resources/oxfordaqa-a-level-physics-9630-gravitational-field-strength-oxfordaqa/), and circular motion is revised in the [circular motion study guide](/resources/oxfordaqa-a-level-physics-circular-motion-angular-speed-and-centripetal-force/).

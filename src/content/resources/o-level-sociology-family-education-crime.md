@@ -32,7 +32,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-01
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide sets out **Paper 2 Family, Education and Crime**, for
@@ -263,7 +263,7 @@ Functionalists see education as performing socialisation, social control and rol
 **What is a common mistake when writing about crime?**
 Describing what a crime is without explaining why it occurs. Paper 2 rewards explanation as well as definition.
 
-## Related resources
+## More resources on this topic
 
 - [Paper 1: Research Methods, Identity and Inequality](/resources/o-level-sociology-research-methods-identity-and-inequality/)
   — the first paper of 2251, a prerequisite for this paper

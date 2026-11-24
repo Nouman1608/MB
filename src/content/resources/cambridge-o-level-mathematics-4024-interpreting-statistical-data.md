@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -152,7 +152,7 @@ Each reason is specific to this survey. Generic answers such as "the data might 
 - **Comment on** a claim: say whether it is supported, and why, quoting figures.
 - **What can you infer:** a cautious statement going beyond the figures, tied to them.
 
-## Next steps
+## More on this topic
 
 Work through the [interpreting statistical data practice questions](/resources/cambridge-o-level-mathematics-4024-interpreting-statistical-data-practice/) and revise from the [interpreting statistical data revision notes](/resources/cambridge-o-level-mathematics-4024-interpreting-statistical-data-revision-notes/). The measures used in comparisons are in [averages and measures of spread](/resources/cambridge-o-level-mathematics-4024-averages-and-measures-of-spread/).
 

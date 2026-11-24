@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -131,7 +131,7 @@ Try each question without the notes first. Show every step of a calculation and 
 * Quoting a global influence without tracing it through AD or SRAS.
 * Stopping at the first judgement without giving a reason that depends on cause or time.
 
-## Next steps
+## More on this topic
 
 * [Revision notes](/resources/oxfordaqa-a-level-economics-employment-unemployment-inflation-and-deflation-revision-notes/)
 * [Study guide](/resources/oxfordaqa-a-level-economics-employment-unemployment-inflation-and-deflation/)

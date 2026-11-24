@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -171,7 +171,7 @@ Ratio 2 : 1 case: 2NaOH + H₂SO₄ → Na₂SO₄ + 2H₂O. Divide moles NaOH b
 11. 1000 times.
 12. A large amount of ethanoic acid in a small volume of solution: concentrated, but only partly ionised so weak.
 
-## Next steps
+## More on this topic
 
 - [Reactions of acids study guide](/resources/aqa-gcse-chemistry-8462-reactions-of-acids/)
 - [Reactions of acids practice questions](/resources/aqa-gcse-chemistry-8462-reactions-of-acids-practice/)

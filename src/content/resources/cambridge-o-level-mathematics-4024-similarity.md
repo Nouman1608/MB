@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -203,7 +203,7 @@ Give a reason for each statement. A mark scheme looks for the common angle, the 
 - For an area or volume, write the ratio of lengths first and then square or cube it.
 - Check the size of your answer: it should be larger if you are going to the larger shape.
 
-## Next steps
+## More on this topic
 
 Try the [similarity practice questions](/resources/cambridge-o-level-mathematics-4024-similarity-practice/) and recap with the [geometry revision notes](/resources/o-level-mathematics-geometry-revision-notes/).
 

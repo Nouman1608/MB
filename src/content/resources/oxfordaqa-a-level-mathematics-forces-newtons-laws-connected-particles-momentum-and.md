@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers sections M1.3 (Forces and Newton's Laws) and M1.4 (Momentum and impulse) of the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2 (International AS exams from May/June 2018, A-level from May/June 2019). The specification states this content is part of International AS, Unit PSM1, in the Mechanics (M1) strand, so it also counts towards the International A-level. Everything is restricted to motion in a straight line.
@@ -268,7 +268,7 @@ Force = 8.4 / 0.02 = 420 N
 * Using conservation of momentum for a ball and a fixed wall.
 * Forgetting the string goes slack once the hanging particle lands, so the other particle's acceleration changes.
 
-## Next steps
+## More on this topic
 
 Try the [practice questions](/resources/oxfordaqa-a-level-mathematics-forces-newtons-laws-connected-particles-momentum-and-practice/), then condense your notes with the [revision notes](/resources/oxfordaqa-a-level-mathematics-forces-newtons-laws-connected-particles-momentum-and-revision-notes/). The [free diagnostics](/diagnostics/) show where to start.
 

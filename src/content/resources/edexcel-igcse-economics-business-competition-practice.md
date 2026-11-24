@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -135,7 +135,7 @@ These questions cover section 1.2.4 (Business competition) of the Pearson Edexce
 - Giving a reason why a firm stays small with no link to the firm described.
 - Listing effects of a price war or monopoly with no judgement.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/edexcel-igcse-economics-business-competition-revision-notes/).
 - Reread the [study guide](/resources/edexcel-igcse-economics-business-competition/).

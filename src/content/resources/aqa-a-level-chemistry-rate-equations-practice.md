@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -227,7 +227,7 @@ Using Ea in kJ mol⁻¹ or temperature in °C, rounding 1/T too early, and forge
 **What makes a clock-reaction plan lose marks?**
 Vague control variables, such as "amount" instead of volume or concentration, lose marks. Keep the total volume constant by adding water when you vary one reactant.
 
-## Next steps
+## More on this topic
 
 - [Rate equations revision notes](/resources/aqa-a-level-chemistry-rate-equations-revision-notes/)
 - [Rate equations study guide](/resources/aqa-a-level-chemistry-rate-equations/)

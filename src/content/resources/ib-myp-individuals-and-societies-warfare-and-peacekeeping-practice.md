@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -176,7 +176,7 @@ Tie each value and limitation to who wrote the source, when and why, and to the 
 **Are these IB MYP Individuals and Societies questions marked like the real exam?**
 No. Real MYP work is judged against criterion level descriptors with achievement levels 1–8, so the mark points in these answers are a revision aid, not IB marks. Each question is labelled with the criterion it trains.
 
-## Next steps
+## More on this topic
 
 - [Warfare and peacekeeping revision notes](/resources/ib-myp-individuals-and-societies-warfare-and-peacekeeping-revision-notes/)
 - [Warfare and peacekeeping study guide](/resources/ib-myp-individuals-and-societies-warfare-and-peacekeeping/)

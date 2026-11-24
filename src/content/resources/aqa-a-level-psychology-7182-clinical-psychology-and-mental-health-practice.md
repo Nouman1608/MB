@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -180,7 +180,7 @@ Explain whether systematic desensitisation or flooding would be more suitable fo
 - Using treatment success as proof of a cause.
 - Ending extended answers without a judgement.
 
-## Next steps
+## More on this topic
 
 Check your answers against the [clinical psychology and mental health study guide](/resources/aqa-a-level-psychology-7182-clinical-psychology-and-mental-health/) and revise weak areas with the [clinical psychology revision notes](/resources/aqa-a-level-psychology-7182-clinical-psychology-and-mental-health-revision-notes/). For mixed Paper 1 questions, try the [Introductory Topics practice questions](/resources/aqa-a-level-psychology-introductory-practice/).
 

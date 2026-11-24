@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -123,7 +123,7 @@ Study the methods first in the [section 1.8 study guide](/resources/ib-dp-mathem
 - First term of a sigma series taken from the coefficient instead of the lower limit.
 - Inequality not reversed after dividing by a negative logarithm.
 
-## Next steps
+## More on this topic
 
 - Review every question type in the [section 1.8 revision notes](/resources/ib-dp-mathematics-analysis-and-approaches-1-8-revision-notes/).
 - For finite series and financial applications, use the [sequences, series and financial applications practice questions](/resources/ib-dp-mathematics-aa-sequences-series-financial-practice/).

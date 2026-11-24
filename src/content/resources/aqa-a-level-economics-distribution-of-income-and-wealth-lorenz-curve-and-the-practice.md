@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -166,7 +166,7 @@ Forgetting to subtract debts, such as a mortgage, from the value of assets.
 **Does a lower Gini coefficient mean the poor are better off?**
 Not necessarily in absolute terms. A lower Gini shows the distribution is more equal, but it says nothing about absolute living standards.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/aqa-a-level-economics-distribution-of-income-and-wealth-lorenz-curve-and-the-revision-notes/) or the [study guide](/resources/aqa-a-level-economics-distribution-of-income-and-wealth-lorenz-curve-and-the/).
 - Go to the [AQA A-level Economics hub](/boards/aqa/a-level/economics/) and the [checklist](/checklists/aqa/a-level/economics/).

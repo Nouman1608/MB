@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -128,7 +128,7 @@ time. Identify the most suitable transmission methods and justify your choice. *
 - Writing "it is faster" for USB as a benefit; benefits must be specific.
 - Leaving reasons unlinked to the scenario in "justify" questions.
 
-## Next steps
+## More on this topic
 
 - [Types and methods of data transmission study guide](/resources/cambridge-igcse-computer-science-0478-types-and-methods-of-data-transmission/)
 - [Types and methods of data transmission revision notes](/resources/cambridge-igcse-computer-science-0478-types-and-methods-of-data-transmission-revision-notes/)

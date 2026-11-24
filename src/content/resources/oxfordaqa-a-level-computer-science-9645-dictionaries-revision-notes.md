@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -176,7 +176,7 @@ A list is searched by position. If the program has a name and wants a number, it
 11. The value is found directly from its key, with no search written by the programmer (so less code and fewer mistakes).
 12. A dictionary is commonly implemented with a hash table, which maps each key to a position using a hash function.
 
-## Next steps
+## More on this topic
 
 - [Dictionaries study guide](/resources/oxfordaqa-a-level-computer-science-9645-dictionaries/)
 - [Dictionaries practice questions](/resources/oxfordaqa-a-level-computer-science-9645-dictionaries-practice/)

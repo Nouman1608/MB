@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-08-18
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers subtopics **2.7 Sequences** and **2.8 Proportion**, from
@@ -236,7 +236,7 @@ Write the relationship with a constant k, such as y = kx for direct or y = k/x f
 **What graph shows direct proportion?**
 Direct proportion, y = kx, gives a straight line through the origin. Inverse proportion, y = k/x, gives a curve (a hyperbola).
 
-## Related resources
+## More resources on this topic
 
 - [Inequalities](/resources/inequalities/) — the previous subtopic
 - [Graphs in Practical Situations](/resources/graphs-in-practical-situations/) — the next subtopic

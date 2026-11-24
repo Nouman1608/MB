@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check that the account layouts (revaluation, realisation, sundry shareholders' and acquisition accounts) match the layouts used in Pearson's textbook and past mark schemes; the specification names the accounts but not their layout."
+reviewNote: "2026-11-20: credited to javaid-iqbal-sabri (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: check that the account layouts (revaluation, realisation, sundry shareholders' and acquisition accounts) match the layouts used in Pearson's textbook and past mark schemes; the specification names the accounts but not their layout. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -189,7 +189,7 @@ In a merger, two companies, say Aston Ltd and Birch Ltd, combine. A new company,
 - Prove the combined statement: net assets must equal equity.
 - **Explain** goodwill with a link: "Goodwill arises because the buyer pays more than the fair value of the net assets, for reputation and future profit."
 
-## Related resources
+## More resources on this topic
 
 [Limited companies revision notes](/resources/edexcel-ial-accounting-limited-companies-revision-notes/) |
 [Merger or purchase practice questions](/resources/edexcel-a-level-accounting-yac11-merger-or-purchase-of-limited-companies-practice/) |

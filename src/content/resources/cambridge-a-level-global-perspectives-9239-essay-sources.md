@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -143,7 +143,7 @@ The syllabus requires that "Quotations must be fully referenced" and that the es
 - **Citing a summary of a study instead of the study** when the original is available, so you cannot assess its method.
 - **Unjustified sources**: entries in the list of sources that the essay never uses.
 
-## Next steps
+## More on this topic
 
 Condense this with the [essay sources revision notes](/resources/cambridge-a-level-global-perspectives-9239-essay-sources-revision-notes/) and test yourself with the [essay sources practice questions](/resources/cambridge-a-level-global-perspectives-9239-essay-sources-practice/). The companion unit on [reflection and further research in the essay](/resources/cambridge-a-level-global-perspectives-9239-essay-reflection/) covers the AO2 points.
 

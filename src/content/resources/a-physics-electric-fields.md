@@ -31,7 +31,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false
@@ -301,7 +301,7 @@ The electric potential energy of a pair of point charges is U = Qq/(4πε₀r). 
 **Can a charged sphere be treated as a point charge?**
 Yes, for points outside it. In Cambridge 9702 a charged sphere is treated as if all its charge were concentrated at its centre, with r measured from the centre; this does not hold for points inside the sphere.
 
-## Related resources
+## More resources on this topic
 
 - [Oscillations](/resources/a-physics-oscillations/) — the previous A Level topic
 - [Capacitance](/resources/a-physics-capacitance/) — the next A Level topic, using uniform fields and potential difference

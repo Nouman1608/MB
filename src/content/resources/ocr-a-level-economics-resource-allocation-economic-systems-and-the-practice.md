@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -175,7 +175,7 @@ Yes. Planned economies do have prices, but they are set by planners rather than 
 **How should you finish an evaluation on economic systems in OCR A Level Economics?**
 Weigh market failures against government failures rather than just listing them, then give a judgement that depends on the context, such as the goal that matters most or the quality of institutions.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/ocr-a-level-economics-resource-allocation-economic-systems-and-the/) on any weak area.
 - Use the [revision notes](/resources/ocr-a-level-economics-resource-allocation-economic-systems-and-the-revision-notes/) for a final check.

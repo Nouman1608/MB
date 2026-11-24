@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -198,7 +198,7 @@ Judgement: liquidity has weakened sharply; fix working capital first, as operati
 - Missing out the opening overdraft, or adding it as positive cash.
 - Liquidity answers that quote ratios but never use the cash flow figures.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/edexcel-ial-accounting-statement-of-cash-flows-revision-notes/)
 - [Study guide](/resources/edexcel-ial-accounting-statement-of-cash-flows/)

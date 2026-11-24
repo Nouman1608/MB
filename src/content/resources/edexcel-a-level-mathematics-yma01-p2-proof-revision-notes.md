@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -132,7 +132,7 @@ Good places to look: 0, 1, negative numbers, fractions between 0 and 1, and the 
 
 **11.** (2k + 1)² = 4k² + 4k + 1 = 4k(k + 1) + 1. Since k(k + 1) is a product of consecutive integers it is even, say 2m, so the square is 8m + 1.
 
-## Related resources
+## More resources on this topic
 
 - [P2 proof study guide](/resources/edexcel-a-level-mathematics-yma01-p2-proof/)
 - [P2 proof practice questions](/resources/edexcel-a-level-mathematics-yma01-p2-proof-practice/)

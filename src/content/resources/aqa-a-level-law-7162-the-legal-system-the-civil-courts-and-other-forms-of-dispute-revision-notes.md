@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -167,6 +167,6 @@ Condensed notes on **The legal system: the civil courts and other forms of dispu
 
 **Answers:** 1. King's Bench, Chancery and Family. 2. £100,000. 3. To deal with cases justly and at proportionate cost. 4. The intermediate track, if it meets the conditions; trial of up to three days. 5. Any three: complexity of facts and law; number of parties; amount of oral evidence; importance to non-parties; parties' views. 6. That the decision was wrong, or unjust because of a serious procedural irregularity. 7. An important point of principle or practice, or some other compelling reason. 8. The Leggatt Review (2001). 9. Any two: Administrative Appeals; Immigration and Asylum; Tax and Chancery; Lands. 10. Contact ACAS for early conciliation. 11. *Halsey* said courts could not compel mediation; *Churchill* held they can order non-court dispute resolution if proportionate and consistent with fair-trial rights. 12. A formal settlement offer; a party who rejects it and fails to do better at trial faces costs consequences, so parties have an incentive to accept reasonable offers.
 
-## Related resources
+## More resources on this topic
 
 [Civil Courts and Dispute Resolution study guide](/resources/aqa-a-level-law-7162-the-legal-system-the-civil-courts-and-other-forms-of-dispute/) | [Civil Courts and Dispute Resolution practice questions](/resources/aqa-a-level-law-7162-the-legal-system-the-civil-courts-and-other-forms-of-dispute-practice/) | [Rule of Law, Law Reform, the EU and Civil Justice revision notes](/resources/aqa-a-level-law-rule-of-law-reform-eu-and-civil-justice-revision-notes/)

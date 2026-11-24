@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -201,7 +201,7 @@ Using the wrong number of y-values or the wrong strip width h. With n strips you
 **How do you decide whether the trapezium rule over-estimates or under-estimates?**
 Look at how the curve bends: if it bends upwards over the interval the chords lie above it and the rule over-estimates, and if it bends downwards the rule under-estimates. Give a reason linked to the curve, not just the word.
 
-## Next steps
+## More on this topic
 
 - Go back to the [revision notes](/resources/edexcel-ial-mathematics-stationary-points-definite-integrals-areas-and-the-revision-notes/) for any rule you missed.
 - Read the [study guide](/resources/edexcel-ial-mathematics-stationary-points-definite-integrals-areas-and-the/) for the full explanations.

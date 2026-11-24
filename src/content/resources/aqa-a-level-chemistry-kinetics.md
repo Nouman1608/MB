@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches section **3.1.5 Kinetics** of the AQA AS and A-level Chemistry specification (7404/7405),
@@ -330,7 +330,7 @@ No molecule has zero energy, so the curve starts at the origin. The area under t
 **What is Required practical 3 in AQA Chemistry?**
 Required practical 3 investigates how the rate of a reaction changes with temperature. It is part of section 3.1.5 Kinetics of the AQA 7404/7405 specification, which is AS content.
 
-## Next steps
+## More on this topic
 
 Condense this into the revision notes, then try the practice questions. The
 [AQA A-Level Chemistry exam preparation guide](/resources/aqa-a-level-chemistry-exam-preparation/) covers

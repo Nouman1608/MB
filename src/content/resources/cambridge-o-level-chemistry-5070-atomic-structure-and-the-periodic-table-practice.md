@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -176,7 +176,7 @@ These questions cover section 2.2, Atomic structure and the Periodic Table, of t
 - Using an ion's configuration to find the period of the element.
 - Describing the atom without giving positions of the particles.
 
-## Next steps
+## More on this topic
 
 - Recap with the [atomic structure and the Periodic Table revision notes](/resources/cambridge-o-level-chemistry-5070-atomic-structure-and-the-periodic-table-revision-notes/).
 - Move on to the [isotopes practice questions](/resources/cambridge-o-level-chemistry-5070-isotopes-practice/).

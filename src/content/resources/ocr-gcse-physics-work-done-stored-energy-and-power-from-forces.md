@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide is aligned to the OCR GCSE (9-1) Gateway Science Physics A specification (J249), Version 5.0, July 2026, for first assessment in 2018. It covers statements P2.2m, P2.2n and P2.2o in topic P2.2 Newton's laws: work done by a force, stored energy and energy transfers, and power. None of these three statements is marked as Higher Tier only, so all of it is for both tiers.
@@ -255,7 +255,7 @@ Power is not the same as energy. Energy is the amount transferred (J). Power is 
 - Writing W for both work and watts. Use the unit J for work and W for power, and write the equation in words as well as symbols.
 - Mixing up power and energy in explanations. Power is a rate.
 
-## Next steps
+## More on this topic
 
 Test yourself on this unit with the [practice questions](/resources/ocr-gcse-physics-work-done-stored-energy-and-power-from-forces-practice/), then keep the [revision notes](/resources/ocr-gcse-physics-work-done-stored-energy-and-power-from-forces-revision-notes/) open while you revise. For exam technique across the course, see the [OCR GCSE Physics exam preparation page](/resources/ocr-gcse-physics-exam-preparation/).
 

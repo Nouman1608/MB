@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -238,7 +238,7 @@ Step 2: CH₃CH₂NH₃⁺ + NH₃ → CH₃CH₂NH₂ + NH₄⁺
 - H• in radical propagation steps.
 - Miscounting the carbons in a nitrile product.
 
-## Next steps
+## More on this topic
 
 - [Nomenclature practice questions](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-3-1-1-practice/)
 - [Chlorination of alkanes practice questions](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-3-2-4-practice/)

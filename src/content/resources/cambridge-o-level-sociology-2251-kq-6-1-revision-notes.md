@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -195,7 +195,7 @@ offending.
 11. Any two: trivial; fear of revenge; distrust of police; shame; unaware they are victims.
 12. Police and officials' stereotypes of "typical delinquents" shaped who was arrested and charged.
 
-## Related resources
+## More resources on this topic
 
 - [Study guide for key question 6.1](/resources/cambridge-o-level-sociology-2251-kq-6-1/)
 - [Practice questions for key question 6.1](/resources/cambridge-o-level-sociology-2251-kq-6-1-practice/)

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -178,7 +178,7 @@ Substitute each x-value back into the linear equation to find the matching y, an
 **How should you show regions for strict and non-strict inequalities?**
 Use a dashed boundary for a strict inequality (< or >) and a solid boundary for ≤ or ≥. Using them the wrong way round loses marks in OCR A Level Mathematics region questions.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ocr-a-level-mathematics-indices-surds-simultaneous-equations-quadratics-and-revision-notes/) for any method you missed.
 - Reread the [study guide](/resources/ocr-a-level-mathematics-indices-surds-simultaneous-equations-quadratics-and/) for the worked examples.

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -160,7 +160,7 @@ Give it as a percentage of normal capacity output, with its sign. A negative gap
 **How do I evaluate a policy in a data question on AD and AS?**
 Reach a stated judgement about the economy in the question using its numbers. Listing general limits of fiscal policy without using the data earns less credit.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/aqa-a-level-economics-aggregate-demand-and-economic-activity-short-run-and-revision-notes/) for any answer you lost marks on.
 - Read the [AQA study guide on how the macroeconomy works](/resources/aqa-a-level-economics-aggregate-demand-supply/).

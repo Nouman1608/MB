@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide follows the Cambridge IGCSE Economics (0455) syllabus for examination in 2026. It covers sections 6.2.4 to 6.2.6: the methods of protection, the reasons for it and its consequences. The syllabus is not tiered, so everything here is for every candidate. Globalisation, multinational companies and the benefits of free trade (6.2.1 to 6.2.3) are taught elsewhere, so this guide uses free trade only as the starting point to compare against.
@@ -219,7 +219,7 @@ A good evaluation uses a two-sided chain.
 - Giving only benefits or only costs when asked for the impact. Cover both home country and trading partners.
 - Forgetting that protection can hurt the home country's own exporters through retaliation.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [practice questions](/resources/cambridge-igcse-economics-trade-protection-methods-reasons-and-consequences-practice/), use the [revision notes](/resources/cambridge-igcse-economics-trade-protection-methods-reasons-and-consequences-revision-notes/) to recall, or take a [10-minute diagnostic](/diagnostics/).
 

@@ -22,7 +22,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false
@@ -243,7 +243,7 @@ Raising a mass m through height Δh in a uniform field needs a force mg acting o
 **Can efficiency be 100%?**
 Efficiency can never exceed 100%, and most devices lose some energy, often as heat. An electric heater can be very close to 100% efficient because heat is its intended useful output.
 
-## Related resources
+## More resources on this topic
 
 - [Forces, Density and Pressure](/resources/as-physics-forces-density-and-pressure/) — the previous AS topic
 - [Deformation of Solids: Stress, Strain and the Young Modulus](/resources/as-physics-deformation-of-solids/) — the next AS topic, using elastic potential energy

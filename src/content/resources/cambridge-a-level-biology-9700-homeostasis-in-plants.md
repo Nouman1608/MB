@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -137,6 +137,6 @@ Percentage decrease caused by ABA = (8.0 − 2.4) ÷ 8.0 × 100 = **70 %**. With
 - **Suggest** (unfamiliar data): use the trade-off table; for example, a plant in hot, dry wind is likely to close its stomata even in bright light.
 - With numerical aperture data, quote values and calculate percentage changes from the control.
 
-## Next steps
+## More on this topic
 
 Revise with the [14.2 revision notes](/resources/cambridge-a-level-biology-9700-homeostasis-in-plants-revision-notes/) and test yourself with the [14.2 practice questions](/resources/cambridge-a-level-biology-9700-homeostasis-in-plants-practice/). For the mammal side of Topic 14, see the [homeostasis in mammals study guide](/resources/cambridge-a-level-biology-9700-homeostasis-in-mammals/); for other plant responses, the [control and coordination in plants study guide](/resources/cambridge-a-level-biology-9700-control-and-coordination-in-plants-cambridge/).

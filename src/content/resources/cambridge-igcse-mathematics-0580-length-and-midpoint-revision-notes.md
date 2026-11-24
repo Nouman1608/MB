@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -138,7 +138,7 @@ For a midpoint unknown, set each coordinate of the midpoint equal to the average
 11. √(5.5² + 4.3²) = √(30.25 + 18.49) = √48.74 = **6.98**
 12. Midpoint of PR = **(2, 2)**
 
-## Next steps
+## More on this topic
 
 - Re-read the worked examples in the [length and midpoint study guide](/resources/cambridge-igcse-mathematics-0580-length-and-midpoint/).
 - Practise with the [length and midpoint practice questions](/resources/cambridge-igcse-mathematics-0580-length-and-midpoint-practice/).

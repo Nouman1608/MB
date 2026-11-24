@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -138,7 +138,7 @@ Always give units and the real meaning.
 11. A **fixed charge of $20** paid whatever the number of hours
 12. **Line A** (size 5 is bigger than 2)
 
-## Next steps
+## More on this topic
 
 - Re-read the worked examples in the [equations of linear graphs study guide](/resources/cambridge-igcse-mathematics-0580-equations-of-linear-graphs/).
 - Practise with the [equations of linear graphs practice questions](/resources/cambridge-igcse-mathematics-0580-equations-of-linear-graphs-practice/).

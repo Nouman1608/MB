@@ -19,7 +19,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -213,7 +213,7 @@ Yes. In OCR A Level Biology A (H420), section 2.1.3 Nucleotides and nucleic acid
 **What does the cytoskeleton do?**
 The cytoskeleton provides mechanical strength, aids transport within the cell and enables cell movement, such as the beating of cilia and flagella.
 
-## Related resources
+## More resources on this topic
 
 - [Foundations in Biology study guide](/resources/ocr-a-level-biology-foundations-in-biology/)
 - [Foundations in Biology practice questions](/resources/ocr-a-level-biology-foundations-practice/)

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -128,7 +128,7 @@ These questions cover section 2.5, Organizational (corporate) culture, of the IB
 - Putting a restraining force in the driving column.
 - Using Hofstede scores as if every person in a country were the same.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ib-dp-business-management-organizational-corporate-culture-hl-only-revision-notes/) and the [study guide](/resources/ib-dp-business-management-organizational-corporate-culture-hl-only/).
 - Open the [IB DP Business Management hub](/boards/ib/ib-dp/business/) and the [syllabus checklist](/checklists/ib/ib-dp/business/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -153,7 +153,7 @@ Not necessarily. If total employment grows, a sector's share can fall while its 
 **What should I check before answering a division of labour question?**
 Check whether the question asks about the worker or the firm, and answer for that group, explaining why each benefit or cost follows.
 
-## Next steps
+## More on this topic
 
 - Recheck terms in the [revision notes](/resources/aqa-gcse-economics-resource-allocation-markets-economic-sectors-and-revision-notes/), then return to the [study guide](/resources/aqa-gcse-economics-resource-allocation-markets-economic-sectors-and/) for any weak area.
 - Mark progress on the [printable checklist](/checklists/aqa/gcse/economics/) and browse the [subject hub](/boards/aqa/gcse/economics/).

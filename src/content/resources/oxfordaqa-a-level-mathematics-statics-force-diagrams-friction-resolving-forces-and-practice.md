@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -144,7 +144,7 @@ Range: **6.95 N ≤ X ≤ 31.2 N** [1]. **[8]**
 * Rounding early, so that the third significant figure is wrong.
 * Leaving out units or a reason where the question says to explain.
 
-## Next steps
+## More on this topic
 
 * Condense with the [revision notes](/resources/oxfordaqa-a-level-mathematics-statics-force-diagrams-friction-resolving-forces-and-revision-notes/).
 * Re-read the [study guide](/resources/oxfordaqa-a-level-mathematics-statics-force-diagrams-friction-resolving-forces-and/).

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -147,7 +147,7 @@ It should end with a clear decision supported by the figures in the question, su
 **What should you check in sustainability cost calculations?**
 Convert pence to pounds before multiplying, show the units in the final answer, such as pounds or years, and tie your reason to the named business.
 
-## Next steps
+## More on this topic
 
 - Go back to the [revision notes](/resources/igcse-business-0264-technology-and-production-of-goods-and-services-and-related-topics-revision-notes/) for any term you missed.
 - Reread the [study guide](/resources/igcse-business-0264-technology-and-production-of-goods-and-services-and-related-topics/).

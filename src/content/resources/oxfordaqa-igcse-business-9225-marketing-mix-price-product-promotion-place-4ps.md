@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -202,7 +202,7 @@ The best mix changes over time. In introduction a business may use heavy promoti
 
 For **define** and **state** questions, give the meaning or an example. For **explain** questions, link the choice to the business: "penetration pricing suits a new snack in a crowded market because it quickly wins customers". For **calculate** questions, show the mark-up or price step by step. For **recommend** and **evaluate** questions, use the facts of the case (target market, budget, competitors, stage of the life cycle) and make the four Ps fit together.
 
-## Related resources
+## More resources on this topic
 
 - [Revision notes for this subtopic](/resources/oxfordaqa-igcse-business-9225-marketing-mix-price-product-promotion-place-4ps-revision-notes/)
 - [Practice questions for this subtopic](/resources/oxfordaqa-igcse-business-9225-marketing-mix-price-product-promotion-place-4ps-practice/)

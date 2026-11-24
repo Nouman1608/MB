@@ -28,7 +28,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-27
 featured: false
 ---
@@ -180,7 +180,7 @@ lists every point.
 - Choosing a source without saying why each other option is worse.
 - Leaving out the neutron absorption, the extra neutrons or the gamma rays in a fission description.
 
-## Next steps
+## More on this topic
 
 - [Atomic structure revision notes](/resources/aqa-gcse-physics-8463-atomic-structure-revision-notes/)
 - [Atomic structure study guide](/resources/aqa-gcse-physics-8463-atomic-structure/)

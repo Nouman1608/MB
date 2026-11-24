@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -155,7 +155,7 @@ Give the chain of reasoning: the central bank creates reserves and buys bonds, b
 **Does a balance of payments surplus always increase the money supply?**
 Not automatically. The inflow raises the money supply when the central bank intervenes to hold a fixed exchange rate and does not sterilise it, so say this condition in your answer.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/cambridge-a-level-economics-money-banks-and-the-money-supply/) for any part you got wrong.
 - Use the [revision notes](/resources/cambridge-a-level-economics-money-banks-and-the-money-supply-revision-notes/) for recall.

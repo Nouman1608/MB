@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -159,7 +159,7 @@ A virus is made of a **protein coat** surrounding **genetic material**. That is 
 - **Classify:** name the group and justify it with the deciding feature from the evidence.
 - **Explain why** an organism is not in a group: name the feature it lacks or has.
 
-## Next steps
+## More on this topic
 
 - Condense this page with the [revision notes](/resources/cambridge-igcse-biology-0610-features-of-organisms-revision-notes/).
 - Try the [practice questions with worked answers](/resources/cambridge-igcse-biology-0610-features-of-organisms-practice/).

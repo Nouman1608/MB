@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -157,7 +157,7 @@ Do not just write "jobs". Build a chain: the plant creates direct jobs, workers 
 **What is the difference between tax avoidance and tax evasion?**
 Tax avoidance uses legal rules to reduce a tax bill, for example by moving profit to a low-tax country. Tax evasion is illegal. The Edexcel IGCSE Economics specification names avoiding paying taxes as a disadvantage of MNCs.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/edexcel-igcse-economics-globalisation-multinationals-and-foreign-direct-revision-notes/) and the [study guide](/resources/edexcel-igcse-economics-globalisation-multinationals-and-foreign-direct/).
 - Check progress on the [Edexcel IGCSE Economics checklist](/checklists/edexcel/igcse/economics/) and the [course hub](/boards/edexcel/igcse/economics/).

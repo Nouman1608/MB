@@ -22,7 +22,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false
@@ -288,7 +288,7 @@ Fluctuations in the count rate of a radioactive source, even when the average ra
 **What must balance in a nuclear equation?**
 Both the nucleon number and the proton number must have the same totals on each side of a nuclear equation, whether it describes decay, fission or fusion.
 
-## Related resources
+## More resources on this topic
 
 - [Quantum Physics](/resources/a-physics-quantum-physics/) — the previous A Level topic
 - [Medical Physics](/resources/a-physics-medical-physics/) — the next A Level topic

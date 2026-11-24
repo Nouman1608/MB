@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -168,7 +168,7 @@ These questions cover section 3.12.2, Mass and energy, of OxfordAQA Internationa
 - Giving all the decay energy to the alpha particle.
 - Describing binding energy as energy released when a nucleus is split.
 
-## Next steps
+## More on this topic
 
 - Recap with the [mass and energy revision notes](/resources/oxfordaqa-a-level-physics-9630-mass-and-energy-revision-notes/).
 - Re-read the [mass and energy study guide](/resources/oxfordaqa-a-level-physics-9630-mass-and-energy/).

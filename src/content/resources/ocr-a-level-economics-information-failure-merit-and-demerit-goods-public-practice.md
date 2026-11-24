@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -152,7 +152,7 @@ These questions cover Market power/Information asymmetries, Public goods and Ine
 - Treating government provision as automatically right, or mixing up income and wealth.
 - Listing causes of inequality with no effect, or stating a value judgement as fact.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ocr-a-level-economics-information-failure-merit-and-demerit-goods-public-revision-notes/) and re-read the [study guide](/resources/ocr-a-level-economics-information-failure-merit-and-demerit-goods-public/).
 - Visit the [OCR Economics hub](/boards/ocr/a-level/economics/) and tick off the [checklist](/checklists/ocr/a-level/economics/).

@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -200,7 +200,7 @@ A "discuss" question expects points on both sides, such as renewability and redu
 **How do you avoid losing marks in percentage yield calculations?**
 Convert both the reactant and the product masses to moles before comparing them. Dividing masses directly gives the wrong answer and loses the method marks.
 
-## Next steps
+## More on this topic
 
 - [Alcohols revision notes](/resources/aqa-a-level-chemistry-alcohols-revision-notes/)
 - [Alcohols study guide](/resources/aqa-a-level-chemistry-alcohols/)

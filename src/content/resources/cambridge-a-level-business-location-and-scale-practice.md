@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -113,7 +113,7 @@ This set covers section 9.1 Location and scale (9.1.1 and 9.1.2) of the Cambridg
 - Giving a percentage change without a sign or direction, or dividing by the new figure instead of the old.
 - Evaluating with no judgement, or one not tied to the numbers.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/cambridge-a-level-business-location-and-scale-revision-notes/) and the [study guide](/resources/cambridge-a-level-business-location-and-scale/).
 - Go to the [Cambridge A Level Business hub](/boards/cambridge/a-level/business/) and the [checklist](/checklists/cambridge/a-level/business/).

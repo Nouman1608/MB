@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -164,7 +164,7 @@ Answers show one acceptable set of points, with a [1] per creditworthy point. Th
 - One-sided "evaluate" answers with no conclusion.
 - Forgetting that text converted to curves can no longer be edited as text.
 
-## Next steps
+## More on this topic
 
 - Revise with the [Graphics creation revision notes](/resources/a-level-cambridge-ict-graphics-creation-revision-notes/).
 - Go back to the [Graphics creation study guide](/resources/a-level-cambridge-ict-graphics-creation/) for full explanations.

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -131,7 +131,7 @@ A house style also has costs, which you may need for a *discuss* or *evaluate* q
 5. Why does using a template reduce errors? *Standard content such as the address and legal notice is stored once and not retyped.*
 6. Give one drawback of a house style. *It takes time and money to set up, or it limits creativity, or it must all be updated if the brand changes.*
 
-## Next steps
+## More on this topic
 
 Condense this into memory with the [corporate house style revision notes](/resources/cambridge-igcse-ict-0417-corporate-house-style-t14-revision-notes/), then test yourself with the [corporate house style practice questions](/resources/cambridge-igcse-ict-0417-corporate-house-style-t14-practice/).
 

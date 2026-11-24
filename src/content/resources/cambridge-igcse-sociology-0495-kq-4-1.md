@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -150,6 +150,6 @@ A plan that reaches the top level needs three developed arguments on each side a
 - **Discuss** in part (e): three developed points with evidence, such as comparing New Right and postmodernist views.
 - **Evaluate** in part (f): arguments on both sides and a conclusion; a one-sided answer is capped.
 
-## Next steps
+## More on this topic
 
 Condense this content with the [key question 4.1 revision notes](/resources/cambridge-igcse-sociology-0495-kq-4-1-revision-notes/), then test yourself with the [key question 4.1 practice questions](/resources/cambridge-igcse-sociology-0495-kq-4-1-practice/). Continue with [the role of the family (key question 4.2)](/resources/cambridge-igcse-sociology-0495-kq-4-2/).

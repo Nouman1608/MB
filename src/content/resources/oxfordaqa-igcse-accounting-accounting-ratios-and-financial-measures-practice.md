@@ -22,7 +22,7 @@ reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 updatedDate: 2026-11-05
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -173,7 +173,7 @@ Trade payable days = 50,000 / 250,000 x 365 = **73.0 days** [1]
 - Using total figures for the days measures when credit figures are supplied.
 - Calling a ratio good or bad with no comparison or reason.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/oxfordaqa-igcse-accounting-accounting-ratios-and-financial-measures-revision-notes/) and the [study guide](/resources/oxfordaqa-igcse-accounting-accounting-ratios-and-financial-measures/).
 - Use the [course hub](/boards/oxfordaqa/igcse/accounting/) and [checklist](/checklists/oxfordaqa/igcse/accounting/).

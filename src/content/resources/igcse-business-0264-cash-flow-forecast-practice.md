@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -151,7 +151,7 @@ The opening balance in July is 9,000 dollars.
 - Writing only advantages when the question asks you to justify or recommend.
 - Giving a recommendation with no figures from the data.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/igcse-business-0264-cash-flow-forecast/) for any question you missed.
 - Use the [revision notes](/resources/igcse-business-0264-cash-flow-forecast-revision-notes/) for the formulas and the four remedies.

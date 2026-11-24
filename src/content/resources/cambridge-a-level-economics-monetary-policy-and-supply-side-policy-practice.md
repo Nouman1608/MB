@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -170,7 +170,7 @@ From the starting (old) value. In an AD/AS calculation, divide the change in the
 **How do you evaluate whether raising interest rates is the right response to inflation?**
 Start with the cause: a rate rise suits demand-pull inflation better than cost-push inflation, where it also reduces output and jobs. Give a reason for each point, weigh it against an alternative such as supply-side policy, and finish with a conclusion that depends on the situation described.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/cambridge-a-level-economics-monetary-policy-and-supply-side-policy-revision-notes/) and the [study guide](/resources/cambridge-a-level-economics-monetary-policy-and-supply-side-policy/).
 - Check the [course hub](/boards/cambridge/a-level/economics/) and the [checklist](/checklists/cambridge/a-level/economics/).

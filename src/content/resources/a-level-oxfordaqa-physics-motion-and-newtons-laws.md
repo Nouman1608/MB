@@ -23,7 +23,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -207,7 +207,7 @@ No. A Newton's third law pair is two forces of the same type, equal in size and 
 **When can you use F = ma in OxfordAQA 9630 Physics?**
 The OxfordAQA 9630 specification limits the use of F = ma to situations where the mass is constant. F is the resultant force on the object, not any single individual force.
 
-## Related resources
+## More resources on this topic
 
 - [Motion Along a Straight Line and Newton's Laws revision notes](/resources/oxfordaqa-a-level-physics-mechanics-materials-revision-notes/)
 - [Motion Along a Straight Line and Newton's Laws practice questions](/resources/oxfordaqa-a-level-physics-motion-newtons-laws-practice/)

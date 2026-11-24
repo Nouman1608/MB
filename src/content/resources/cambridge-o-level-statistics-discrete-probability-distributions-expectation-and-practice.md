@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -168,7 +168,7 @@ These questions cover topic 12 of the Cambridge O Level Statistics 4040 syllabus
 * Calling a game fair or unfair with no calculation of the expectation.
 * Reading an expectation as the result of the next single play.
 
-## Next steps
+## More on this topic
 
 * Re-read the [revision notes](/resources/cambridge-o-level-statistics-discrete-probability-distributions-expectation-and-revision-notes/) and the [study guide](/resources/cambridge-o-level-statistics-discrete-probability-distributions-expectation-and/) for any method you missed.
 * Check your coverage on the [O Level Statistics course page](/boards/cambridge/o-level/statistics/) and the [syllabus checklist](/checklists/cambridge/o-level/statistics/).

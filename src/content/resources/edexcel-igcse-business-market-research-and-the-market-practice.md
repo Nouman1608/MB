@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -148,7 +148,7 @@ These questions cover Topic 4, sections 4.1 Market research and 4.2 The market, 
 - Naming a segmentation basis and not saying how it helps.
 - Ending an evaluation without a decision tied to the scenario.
 
-## Next steps
+## More on this topic
 
 - Revisit the [study guide](/resources/edexcel-igcse-business-market-research-and-the-market/) and [revision notes](/resources/edexcel-igcse-business-market-research-and-the-market-revision-notes/).
 - Course hub: [Edexcel IGCSE Business](/boards/edexcel/igcse/business/) and the [printable checklist](/checklists/edexcel/igcse/business/).

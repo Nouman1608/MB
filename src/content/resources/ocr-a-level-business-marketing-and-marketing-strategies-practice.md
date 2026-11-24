@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -125,7 +125,7 @@ A recommendation for each product, such as invest, harvest or divest. Naming the
 **How should standard deviation answers be presented?**
 State which divisor you used and show the squared deviations, then link the result to a decision such as staffing or stock levels rather than leaving it as a bare number.
 
-## Next steps
+## More on this topic
 
 - [Revision notes for this topic](/resources/ocr-a-level-business-marketing-and-marketing-strategies-revision-notes/)
 - [Study guide](/resources/ocr-a-level-business-marketing-and-marketing-strategies/)

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -137,7 +137,7 @@ These questions follow the OCR *A Level Biology A* specification (H420, Version 
 - Treating a single run as reliable when comparing yields.
 - Mixing up conservative and semi-conservative predictions.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/ocr-a-level-biology-nucleotides-atp-dna-structure-and-semi-conservative-revision-notes/) and the [study guide](/resources/ocr-a-level-biology-nucleotides-atp-dna-structure-and-semi-conservative/).
 - Tick off outcomes on the [printable checklist](/checklists/ocr/a-level/biology/) and visit the [course hub](/boards/ocr/a-level/biology/).

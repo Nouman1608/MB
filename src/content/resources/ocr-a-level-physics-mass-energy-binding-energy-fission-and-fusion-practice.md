@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -163,7 +163,7 @@ Give a reason with each statement and set advantages, such as no carbon dioxide 
 **What is the difference between the moderator and the control rods?**
 The moderator, such as water or graphite, slows fast neutrons to thermal speeds. The control rods, such as boron or cadmium, absorb neutrons to control the rate of the chain reaction. Confusing their roles is a common error.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/ocr-a-level-physics-mass-energy-binding-energy-fission-and-fusion-revision-notes/)
 - [Study guide](/resources/ocr-a-level-physics-mass-energy-binding-energy-fission-and-fusion/)

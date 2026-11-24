@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -168,7 +168,7 @@ Study first with the [study guide](/resources/ib-dp-biology-proteins-amino-acids
 - Naming a function without linking it to shape.
 - Leaving out units on lengths and masses.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/ib-dp-biology-proteins-amino-acids-peptides-and-protein-structure-revision-notes/) and the [study guide](/resources/ib-dp-biology-proteins-amino-acids-peptides-and-protein-structure/).
 - Course pages: [IB DP Biology hub](/boards/ib/ib-dp/biology/) and [printable checklist](/checklists/ib/ib-dp/biology/).

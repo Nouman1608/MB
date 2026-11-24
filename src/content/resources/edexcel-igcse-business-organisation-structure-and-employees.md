@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide follows the Pearson Edexcel International GCSE in Business (4BS1) specification, Issue 2, February 2026. It covers Topic 2 "People in business", section 2.5 "Organisation structure and employees", points 2.5.1 to 2.5.3. The specification says both papers can draw on the whole content, so this topic can appear in the small-business paper (up to 49 employees) and the large-business paper (more than 250 employees). Each paper lasts 1 hour 30 minutes and is worth 80 marks.
@@ -216,7 +216,7 @@ The areas depend on each other. Marketing research shows demand for a new produc
 - Treating redundancy and dismissal as the same thing.
 - Writing a list of benefits with no link to the business in the case.
 
-## Next steps
+## More on this topic
 
 Condense this with the [revision notes](/resources/edexcel-igcse-business-organisation-structure-and-employees-revision-notes/), then try the [practice questions](/resources/edexcel-igcse-business-organisation-structure-and-employees-practice/). Return to the [4BS1 Business hub](/boards/edexcel/igcse/business/) or tick off progress on the [checklist](/checklists/edexcel/igcse/business/). Find weak spots with the [free diagnostics](/diagnostics/).
 

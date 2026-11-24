@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -161,7 +161,7 @@ different amounts in respiration; some organisms feed at more than one level [1]
 - Confusing egestion with excretion.
 - Drawing pyramid bars that are not to scale.
 
-## Next steps
+## More on this topic
 
 - [Trophic levels study guide](/resources/aqa-gcse-biology-8461-trophic-levels-in-an-ecosystem/)
 - [Trophic levels revision notes](/resources/aqa-gcse-biology-8461-trophic-levels-in-an-ecosystem-revision-notes/)

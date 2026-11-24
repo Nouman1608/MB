@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -180,7 +180,7 @@ No. Falling inflation (disinflation) means prices are still rising, only more sl
 **How should you compare economies in OCR AS Level Economics (H060)?**
 Use the same years, definitions and units, quote figures from the data, prefer per-head figures for living standards, and reach a judgement rather than listing indicators.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/ocr-as-level-economics-trends-in-macroeconomic-indicators-revision-notes/) and the [study guide](/resources/ocr-as-level-economics-trends-in-macroeconomic-indicators/).
 - Check progress against the [OCR AS Economics hub](/boards/ocr/as-level/economics/) and the [printable checklist](/checklists/ocr/as-level/economics/).

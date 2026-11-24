@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches Topic 10C: Alcohols from the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017. It covers learning outcomes 10.15 to 10.20, including Core Practical 7. It is International AS (IAS) content in Unit 2: Energetics, Group Chemistry, Halogenoalkanes and Alcohols. The specification states that descriptions of the mechanisms of the 10.17 reactions are not required.
@@ -254,7 +254,7 @@ Yields fall below 100% through incomplete oxidation and losses in transfer and d
 - Forgetting HCl and POCl₃ in the PCl₅ equation, or doing the –OH test on a wet sample.
 - Missing one neighbouring carbon in elimination, or missing E and Z forms.
 
-## Next steps
+## More on this topic
 
 Condense this into the [revision notes](/resources/edexcel-ial-chemistry-alcohols-revision-notes/), then try the [practice questions](/resources/edexcel-ial-chemistry-alcohols-practice/).
 

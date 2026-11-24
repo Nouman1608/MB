@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -178,7 +178,7 @@ Links: [revision notes for this set](/resources/ib-dp-physics-kinematics-2-revis
 - Listing fluid-resistance effects with no cause.
 - Saying that terminal speed means there is no force, not balanced forces.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/ib-dp-physics-kinematics-2-revision-notes/) and the [study guide](/resources/ib-dp-physics-kinematics/).
 - Move on to [A.2 Forces and momentum](/resources/ib-dp-physics-forces-and-momentum/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -145,6 +145,6 @@ Why it scores: two benefits and one limitation for quotas, one of each for prote
 
 **Describe and explain** questions on impacts want the impact plus its cause: "escaped farmed fish compete with wild fish for food" rather than "escape". For strategy questions, say how the strategy changes the number or size of fish caught. In **discuss** questions, give both sides for each named strategy, link to the scenario's details, such as a fishery shared by several countries, and finish with a judgement.
 
-## Next steps
+## More on this topic
 
 Condense this content with the [marine aquaculture revision notes](/resources/cambridge-igcse-environmental-management-0680-marine-aquaculture-revision-notes/), then try the [marine aquaculture practice questions](/resources/cambridge-igcse-environmental-management-0680-marine-aquaculture-practice/). Nutrient enrichment from fish-farm waste links to eutrophication in the [water pollution study guide](/resources/cambridge-igcse-environmental-management-0680-water-pollution/).

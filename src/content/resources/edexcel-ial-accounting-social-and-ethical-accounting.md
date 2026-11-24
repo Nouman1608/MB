@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide covers topic 1.6, Social and ethical accounting, of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (XAC11/YAC11) specification, Issue 2, September 2018. It teaches learning outcomes 1.6.1 to 1.6.4. The topic sits in Unit 1, The Accounting System and Costing (unit code WAC11), which is the International AS unit, so it counts towards both the International AS and the full International A Level. There are no tiers.
@@ -209,7 +209,7 @@ Callum Reyes owns Northgate Tiles. Draft profit for the year is 41,600 on revenu
 - Calling a change "illegal" when the point is that it is unethical or breaks a concept; name the concept.
 - Forgetting that cutting an allowance adds the decrease to profit.
 
-## Next steps
+## More on this topic
 
 - Condensed recall and a self-test: [revision notes](/resources/edexcel-ial-accounting-social-and-ethical-accounting-revision-notes/)
 - Exam-style questions with marked answers: [practice questions](/resources/edexcel-ial-accounting-social-and-ethical-accounting-practice/)

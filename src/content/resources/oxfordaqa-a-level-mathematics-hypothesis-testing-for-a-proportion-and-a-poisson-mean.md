@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This guide follows the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2, and covers the first part of S2.6: hypothesis testing for a population proportion (exact binomial probabilities) and for the mean of a Poisson distribution (exact Poisson probabilities), plus the language of testing and Type I and Type II errors. The specification states this content is part of International A-level (A2) Unit S2 (Statistics). It is not examined at International AS. The tests for means of normal distributions in S2.6 are a separate topic and are not repeated here.
 
@@ -218,7 +218,7 @@ A lower significance level makes a Type I error less likely, but it makes a Type
 - Writing "H₀ is true" or "the claim is wrong" instead of a conclusion in context.
 - Saying "accept H₀" as if it were proved. Write "there is insufficient evidence to reject H₀".
 
-## Next steps
+## More on this topic
 
 Use the [revision notes](/resources/oxfordaqa-a-level-mathematics-hypothesis-testing-for-a-proportion-and-a-poisson-mean-revision-notes/) for a condensed version. Then work through the [practice questions](/resources/oxfordaqa-a-level-mathematics-hypothesis-testing-for-a-proportion-and-a-poisson-mean-practice/). The [exam preparation guide](/resources/oxfordaqa-a-level-mathematics-exam-preparation/) covers wider revision planning.
 

@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-29
 featured: false
 ---
@@ -162,7 +162,7 @@ Use the second explanation to evaluate the first, linking it back each time. Des
 **What are common mistakes in eating behaviour exam answers?**
 Students often swap ghrelin and leptin, treat correlational findings as proof of cause, forget the comparison group when reading results tables, and give textbook definitions when the item asks them to use the scenario.
 
-## Next steps
+## More on this topic
 
 - Check gaps with the [Eating behaviour revision notes](/resources/aqa-a-level-psychology-7182-eating-behaviour-revision-notes/) and the [Approaches in Psychology study guide](/resources/a-level-aqa-psychology-approaches-in-psychology/).
 - Try a free [diagnostic](/diagnostics/) to find your weakest areas.

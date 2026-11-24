@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -155,7 +155,7 @@ Yes. Both apply Hess's law: adding and reversing equations is the algebraic form
 **Why must the initial and final conditions be the same?**
 Enthalpy depends on physical state and temperature. If water ends as a liquid on one route but as a gas on the other, the routes do not finish at the same point, so their enthalpy changes differ.
 
-## Related resources
+## More resources on this topic
 
 - [Hess's law revision notes](/resources/cambridge-a-level-chemistry-9701-as-hess-s-law-revision-notes/)
 - [Hess's law practice questions](/resources/cambridge-a-level-chemistry-9701-as-hess-s-law-practice/)

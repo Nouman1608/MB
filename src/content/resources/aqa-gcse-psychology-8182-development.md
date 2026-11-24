@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-15
 featured: false
 ---
@@ -168,7 +168,7 @@ Carol Dweck distinguished a **fixed mindset**, the belief that ability is set an
 - **Evaluate:** developed strengths and weaknesses with a judgement.
 - **Suggest:** apply the theory to a new situation, such as a classroom.
 
-## Next steps
+## More on this topic
 
 Condense this page with the [Development revision notes](/resources/aqa-gcse-psychology-8182-development-revision-notes/), then try the [Development practice questions](/resources/aqa-gcse-psychology-8182-development-practice/).
 

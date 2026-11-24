@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -200,7 +200,7 @@ each region and the exact visible band of 400–700 nm.
 Their ranges overlap. The names usually describe the origin of the radiation
 rather than a fixed wavelength boundary.
 
-## Related resources
+## More resources on this topic
 
 - [Waves](/resources/as-physics-waves/) — the whole of Topic 7 in one guide
 - [Polarisation](/resources/cambridge-a-level-physics-9702-as-polarisation/) — subtopic 7.5, evidence that electromagnetic waves are transverse

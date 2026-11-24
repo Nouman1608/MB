@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -114,7 +114,7 @@ Interpretation: production fell steeply after the international agreement, but c
 
 **State** questions on the cause need CFCs plus their uses in aerosols and refrigerants. **Describe** questions on impacts need the three named effects, ideally with the ultraviolet link. **Describe** questions on strategies need what each strategy is and how it reduces CFC release. **Discuss** questions need benefits, limitations (especially slow recovery) and a judgement; comparing with climate change can strengthen it, as long as you keep the two processes separate.
 
-## Next steps
+## More on this topic
 
 - Recall tables and a self-test: [ozone depletion revision notes](/resources/cambridge-o-level-environmental-management-5014-ozone-depletion-5014-2027-revision-notes/).
 - Exam-style questions with full answers: [ozone depletion practice questions](/resources/cambridge-o-level-environmental-management-5014-ozone-depletion-5014-2027-practice/).

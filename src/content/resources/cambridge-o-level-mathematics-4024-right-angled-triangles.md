@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -258,7 +258,7 @@ The gradient of the line is the tangent of the angle it makes with the x-axis.
 - Draw and label a right-angled triangle for each part.
 - Check that the answer is sensible: the hypotenuse is longest.
 
-## Next steps
+## More on this topic
 
 Work through the [right-angled triangles practice questions](/resources/cambridge-o-level-mathematics-4024-right-angled-triangles-practice/) and recap with the [right-angled triangles revision notes](/resources/cambridge-o-level-mathematics-4024-right-angled-triangles-revision-notes/).
 

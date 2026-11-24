@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -211,7 +211,7 @@ temperature change.
 - Describing ice's lower density without the tetrahedral, open structure.
 - Saying halogenoalkanes are non-polar to explain their poor solubility in water.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/edexcel-ial-chemistry-intermolecular-forces-revision-notes/) and [study guide](/resources/edexcel-ial-chemistry-intermolecular-forces/).
 - Course hub: [Edexcel International A Level Chemistry](/boards/edexcel/a-level/chemistry/).

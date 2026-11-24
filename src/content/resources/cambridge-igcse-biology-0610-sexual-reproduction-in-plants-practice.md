@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -176,7 +176,7 @@ D: small, sticky and made in small amounts
 - (Extended) Treating pollination between two flowers on one plant as cross-pollination.
 - (Extended) Saying the pollen grain moves down the style instead of the pollen tube and nucleus.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide for sexual reproduction in plants](/resources/cambridge-igcse-biology-0610-sexual-reproduction-in-plants/).
 - Go on to the [human reproduction practice questions](/resources/cambridge-igcse-biology-0610-sexual-reproduction-in-humans-practice/).

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -130,7 +130,7 @@ Judgement: ratio analysis is a valuable starting point but investors should also
 - Quoting a ratio without saying what it shows.
 - Evaluating with no comparison or judgement.
 
-## Next steps
+## More on this topic
 
 - Revisit the [study guide](/resources/ocr-a-level-business-h431-ratio-analysis/) for any gaps.
 - Try the [external influences on accounting and finance practice questions](/resources/ocr-a-level-business-h431-external-influences-on-finance-practice/).

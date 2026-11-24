@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide follows the Pearson Edexcel International GCSE in Business (4BS1) specification, Issue 2, February 2026. It covers Topic 2 "People in business", section 2.3 Training and section 2.4 Motivation and rewards: every numbered content point, 2.3.1, 2.4.1 and 2.4.2. The specification says Paper 1 (small businesses, up to 49 employees) and Paper 2 (large businesses, more than 250 employees) can both draw on the whole content, so expect this topic in either setting.
@@ -219,7 +219,7 @@ Notice the difference: job rotation adds variety, job enrichment adds depth, aut
 - Listing training benefits with no link to the business in the question.
 - Forgetting that training for compliance protects the business as well as staff.
 
-## Next steps
+## More on this topic
 
 Condense the key points with the [revision notes](/resources/edexcel-igcse-business-training-motivation-and-rewards-revision-notes/), then try the [practice questions](/resources/edexcel-igcse-business-training-motivation-and-rewards-practice/). Return to the [4BS1 Business hub](/boards/edexcel/igcse/business/) or the [checklist](/checklists/edexcel/igcse/business/), and find weak spots with the [free diagnostics](/diagnostics/).
 

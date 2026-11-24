@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -170,7 +170,7 @@ It means combining ideas from more than one source or point of view to create ne
 **How many marks is Criterion D worth in the on-screen examination?**
 Twenty of the 80 marks, in the Thinking critically task.
 
-## Next steps
+## More on this topic
 
 Condense this into the [Criterion D revision notes](/resources/ib-myp-individuals-and-societies-criterion-d-thinking-critically-revision-notes/), then test yourself with the [Criterion D practice questions](/resources/ib-myp-individuals-and-societies-criterion-d-thinking-critically-practice/). Compare all four criteria in [the criteria in practice](/resources/ib-myp-individuals-and-societies-criteria-in-practice/).
 

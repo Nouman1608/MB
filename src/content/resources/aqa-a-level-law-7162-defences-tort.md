@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -176,6 +176,6 @@ Arguments that are **not** defences:
 
 Name the defence, state its requirements with authority, apply them, and state the effect on damages. With contributory negligence, suggest a realistic percentage by analogy with a decided case rather than an arbitrary figure.
 
-## Related resources
+## More resources on this topic
 
 [Defences in tort revision notes](/resources/aqa-a-level-law-7162-defences-tort-revision-notes/) | [Defences in tort practice questions](/resources/aqa-a-level-law-7162-defences-tort-practice/) | [Nuisance and Rylands v Fletcher study guide](/resources/aqa-a-level-law-7162-nuisance-and-the-escape-of-dangerous-things/)

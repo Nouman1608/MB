@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "asif-iqbal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -141,7 +141,7 @@ Cost, productivity and quality all point towards the robot. Flexibility may not:
 - Treating Kaizen as a single big change.
 - Weighing robotics on cost alone and ignoring quality and flexibility.
 
-## Next steps
+## More on this topic
 
 Condense this with the [production revision notes](/resources/edexcel-igcse-business-4bs1-production-revision-notes/), then try the [production practice questions](/resources/edexcel-igcse-business-4bs1-production-practice/).
 

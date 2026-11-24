@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -112,7 +112,7 @@ Businesses reduce these risks through market research in each country, local sta
 
 For **explain**, choose one element of the mix and apply it to the country in the source with a specific example. For **analyse**, set out the chain, such as "language error, offence, boycott, loss of sales". For **discuss** and **assess**, compare standardising and adapting on cost, brand consistency and sales, and give a judgement that depends on how different the cultures are and how large the markets are.
 
-## Related resources
+## More resources on this topic
 
 - [Global marketing revision notes](/resources/edexcel-a-level-business-ybs11-global-marketing-revision-notes/)
 - [Global marketing practice questions](/resources/edexcel-a-level-business-ybs11-global-marketing-practice/)

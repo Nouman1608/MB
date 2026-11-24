@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -148,7 +148,7 @@ point of maximum confusion, or the start of discovery? In Section B and Section 
 each on the opening disorder, the period of misrule or competition, and the resolution, then weigh
 what the ending leaves unresolved.
 
-## Related resources
+## More resources on this topic
 
 - [Rule and misrule revision notes](/resources/aqa-a-level-english-literature-7717-rule-misrule-and-comic-resolution-revision-notes/)
 - [Rule and misrule practice questions](/resources/aqa-a-level-english-literature-7717-rule-misrule-and-comic-resolution-practice/)

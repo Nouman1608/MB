@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -153,7 +153,7 @@ The syllabus gives no formulas, so answers use the standard forms. All businesse
 - Giving a limitation without developing it.
 - Making a decision in a justify question without weighing a point against it.
 
-## Next steps
+## More on this topic
 
 - Review the [study guide](/resources/igcse-business-0264-analysis-of-accounts/) and the [revision notes](/resources/igcse-business-0264-analysis-of-accounts-revision-notes/).
 - Return to the [course hub](/boards/cambridge/igcse/business/) and the [printable checklist](/checklists/cambridge/igcse/business/).

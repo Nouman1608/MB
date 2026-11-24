@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -109,7 +109,7 @@ Judgement: the model is useful for both but needs to be supported by other data.
 - Treating the extension strategy as certain to work.
 - Ignoring the cost and payback.
 
-## Next steps
+## More on this topic
 
 - Move on to the [marketing mix study guide](/resources/ocr-a-level-business-h431-marketing-mix/).
 - Return to the [OCR A Level Business hub](/boards/ocr/a-level/business/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -165,6 +165,6 @@ Four questions: the common law before the Act; the mischief; the remedy; the rea
 
 **Answers:** 1. A dead person is not "entitled to vote", so impersonating one was not literally within the offence. 2. The literal rule; the shopkeeper escaped although the Act was clearly aimed at stopping the sale of such knives. 3. Narrow: choose between meanings, *R v Allen*; broad: modify a single meaning to avoid a repugnant result, *Re Sigsworth*. 4. What was the common law before the Act; what was the mischief; what remedy did Parliament provide; what was the reason for the remedy. 5. The Act aimed to end unsafe backstreet abortions, so nurses acting under a doctor's supervision were within it. 6. The purposive approach considers the purpose of the Act as a whole and a wider range of material, not just the defect in earlier law. 7. Any three: long title, short title, preamble, headings, interpretation sections, schedules. 8. The legislation is ambiguous or obscure or leads to absurdity; the statement relied on was made by a minister or other promoter; the statement is clear. 9. General words after a list are limited to the same kind: *Powell v Kempton Park* (1899), "other place" meant indoor places. 10. A word is read in the light of the words around it: *IRC v Frere* (1965), "other annual payments" read with "interest" and "annuities". 11. It requires a compatible reading so far as possible even where the words are not ambiguous. 12. Advantage: respects parliamentary supremacy and gives certainty. Disadvantage: can produce absurd or unjust results, as in *Berriman*.
 
-## Related resources
+## More resources on this topic
 
 [Statutory Interpretation study guide](/resources/aqa-a-level-law-7162-law-making-statutory-interpretation/) | [Statutory Interpretation practice questions](/resources/aqa-a-level-law-7162-law-making-statutory-interpretation-practice/) | [Judicial Precedent revision notes](/resources/aqa-a-level-law-7162-law-making-judicial-precedent-revision-notes/)

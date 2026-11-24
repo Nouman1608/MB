@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -142,7 +142,7 @@ Judgement: commercial banks provide the services consumers use every day [1], bu
 - Listing bank roles with no link to the group named in the question.
 - Ending a "discuss" answer without a judgement.
 
-## Next steps
+## More on this topic
 
 - Recap the tables in the [money and banking revision notes](/resources/cambridge-igcse-economics-0455-money-and-banking-revision-notes/).
 - Reread the worked examples in the [money and banking study guide](/resources/cambridge-igcse-economics-0455-money-and-banking/).

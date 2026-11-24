@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -158,7 +158,7 @@ These questions cover IB Diploma Programme Biology section C4.1 (Populations and
 - Giving one-sided benefits for mutualism.
 - Writing "reject" without saying what it means for the species.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ib-dp-biology-populations-and-communities-sampling-growth-revision-notes/) and [study guide](/resources/ib-dp-biology-populations-and-communities-sampling-growth/).
 - Course hub: [IB DP Biology](/boards/ib/ib-dp/biology/); [checklist](/checklists/ib/ib-dp/biology/).

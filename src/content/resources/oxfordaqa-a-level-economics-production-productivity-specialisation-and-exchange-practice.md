@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -104,7 +104,7 @@ The questions are based on the OxfordAQA *International AS and A-level Economics
 - Describing barter without applying it to the goods in the question.
 - Ending an evaluation without a conclusion that answers the question.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/oxfordaqa-a-level-economics-production-productivity-specialisation-and-exchange-revision-notes/) and re-read the [study guide](/resources/oxfordaqa-a-level-economics-production-productivity-specialisation-and-exchange/).
 - Take all free 10-minute [diagnostic tests](/diagnostics/).

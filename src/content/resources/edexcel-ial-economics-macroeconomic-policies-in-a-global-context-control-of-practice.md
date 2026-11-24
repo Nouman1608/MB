@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -145,7 +145,7 @@ Usually not. Tax evasion is illegal, while transfer pricing is usually legal tax
 **What scales should you cover when a question names local, national and global effects?**
 Cover each scale the question names. A policy can work nationally while harming a local area or other countries, so answering only at the national level loses marks.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/edexcel-ial-economics-macroeconomic-policies-in-a-global-context-control-of-revision-notes/) and the [study guide](/resources/edexcel-ial-economics-macroeconomic-policies-in-a-global-context-control-of/).
 - Tick off the content on the [printable checklist](/checklists/edexcel/a-level/economics/) and see the [course hub](/boards/edexcel/a-level/economics/).

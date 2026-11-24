@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 updatedDate: 2026-09-28
 featured: false
@@ -293,7 +293,7 @@ Check: top 235 + 1 = 236 and 141 + 92 + 3 = 236; bottom 92 + 0 = 92 and 56 + 36 
 - Saying alpha is deflected more than beta in a field (Extended).
 - Choosing an isotope for a use from the radiation type alone, without the half-life (Extended).
 
-## Next steps
+## More on this topic
 
 - [Nuclear physics study guide](/resources/igcse-physics-0625-nuclear-physics/) and [revision notes](/resources/igcse-physics-0625-nuclear-physics-revision-notes/).
 - [Extended practice set on nuclear physics](/resources/igcse-physics-nuclear-physics-extended-practice/) for six more Supplement questions.

@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-24
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -193,7 +193,7 @@ Substitute back into the equation of the curve to find the y-coordinate, and jus
 **Why must you reject some solutions in context questions?**
 A quadratic may give a solution that is impossible in the context, such as a negative speed or a length that is too large. State which solution you reject and why.
 
-## Next steps
+## More on this topic
 
 - Go back to the [algebraic fractions and indices guide](/resources/igcse-mathematics-0580-algebraic-fractions-and-indices-ii/) if Questions 1 to 3 were slow.
 - Review the [functions guide](/resources/igcse-mathematics-0580-functions/) and the [proportion guide](/resources/igcse-mathematics-0580-proportion/) for Questions 4, 5, 8 and 9.

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -191,7 +191,7 @@ says whether the policy is good, fair or desirable.
 Divide the fall in output of one good by the rise in output of the other between two points. State the units,
 for example "0.75 billion consumer goods per billion capital goods".
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/aqa-a-level-economics-7136-economic-methodology-and-the-economic-problem/) for any question you found difficult.
 - Move on to the [price determination study guide](/resources/aqa-a-level-economics-7136-price-determination-in-a-competitive-market/).

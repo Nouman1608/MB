@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -176,7 +176,7 @@ nitrate, hydroxide, zinc, ammonium
 - Writing an ionic equation that balances in atoms but not in charge.
 - Omitting state symbols when the question asks for them.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ocr-a-level-chemistry-atomic-structure-and-isotopes-revision-notes/) for anything you missed.
 - Reread the study guides for [2.1.1](/resources/ocr-a-level-chemistry-atomic-structure-and-isotopes/) and [2.1.2](/resources/ocr-a-level-chemistry-compounds-formulae-and-equations/).

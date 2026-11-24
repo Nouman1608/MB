@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches **Section P: Quantities and units in mechanics (P1)** of the AQA A-level Mathematics (7357) specification, version 1.3 (31 January 2018), for A-level exams from June 2018 onwards. The specification lists Section P under **Paper 2**, with vectors, kinematics, forces and moments, so this content is examined there. A calculator is required in every 7357 paper.
@@ -260,7 +260,7 @@ The formula only gives a force in newtons if mass is in kilograms and accelerati
 **How accurately should you give mechanics answers?**
 Your answer can only be as precise as your data. If g is given to two significant figures, such as 9.8, quoting a force to four significant figures claims more accuracy than the data supports.
 
-## Next steps
+## More on this topic
 
 - Condensed recall: [Quantities and units revision notes](/resources/aqa-a-level-mathematics-quantities-and-units-in-mechanics-revision-notes/).
 - Test yourself: [Quantities and units practice questions](/resources/aqa-a-level-mathematics-quantities-and-units-in-mechanics-practice/).

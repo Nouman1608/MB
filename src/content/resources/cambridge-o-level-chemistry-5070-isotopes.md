@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -142,7 +142,7 @@ Data may be shown as a bar chart of relative abundance against mass. If the bars
 - **Calculate**: show the expression with every multiplication; method marks are available even if the arithmetic slips. Give the answer to the precision asked for.
 - **Deduce** from symbols: write protons, neutrons and electrons as separate numbers.
 
-## Next steps
+## More on this topic
 
 - Review the key facts with the [isotopes revision notes](/resources/cambridge-o-level-chemistry-5070-isotopes-revision-notes/).
 - Practise calculations with the [isotopes practice questions](/resources/cambridge-o-level-chemistry-5070-isotopes-practice/).

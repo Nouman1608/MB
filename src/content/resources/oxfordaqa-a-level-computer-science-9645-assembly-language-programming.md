@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -257,7 +257,7 @@ Two habits help. First, ask what changes on every pass. If nothing that the test
 - Forgetting to update the counter or pointer inside the loop, so that it never ends.
 - Writing `#` before a register or leaving it off a value in operand2.
 
-## Next steps
+## More on this topic
 
 - [Assembly language programming revision notes](/resources/oxfordaqa-a-level-computer-science-9645-assembly-language-programming-revision-notes/)
 - [Assembly language programming practice questions](/resources/oxfordaqa-a-level-computer-science-9645-assembly-language-programming-practice/)

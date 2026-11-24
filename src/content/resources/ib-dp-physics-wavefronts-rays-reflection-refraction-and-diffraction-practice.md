@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -131,7 +131,7 @@ These questions cover the first half of sub-topic C.3 (Wave phenomena) in the IB
 - Treating diffraction as a change in wavelength or speed.
 - Giving "bigger wavelength" with no comparison to the size of the gap or obstacle.
 
-## Next steps
+## More on this topic
 
 - Use the [revision notes](/resources/ib-dp-physics-wavefronts-rays-reflection-refraction-and-diffraction-revision-notes/).
 - Re-read the [study guide](/resources/ib-dp-physics-wavefronts-rays-reflection-refraction-and-diffraction/).

@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -188,7 +188,7 @@ A single flip-flop stores one bit. A row of them, sharing a clock, stores a word
 - Saying that the half-adder has a carry in.
 - Saying that Q follows D all the time in a D-type flip-flop. It follows D only at the clock edge.
 
-## Next steps
+## More on this topic
 
 - [Logic gates revision notes](/resources/oxfordaqa-a-level-computer-science-9645-logic-gates-revision-notes/)
 - [Logic gates practice questions](/resources/oxfordaqa-a-level-computer-science-9645-logic-gates-practice/)

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -183,7 +183,7 @@ Stop when each factor can no longer be split using real numbers. A quadratic fac
 **Which values must be excluded when simplifying a rational expression?**
 Take the excluded values from the original denominator, not the simplified one, because the original expression is undefined there even if a factor has cancelled.
 
-## Next steps
+## More on this topic
 
 - Review the methods in the [revision notes](/resources/aqa-a-level-mathematics-polynomial-manipulation-algebraic-division-and-the-revision-notes/).
 - Re-read the [study guide](/resources/aqa-a-level-mathematics-polynomial-manipulation-algebraic-division-and-the/) for any method you missed.

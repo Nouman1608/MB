@@ -22,7 +22,7 @@ reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -142,7 +142,7 @@ Name the controlled variables: the same volume of hot water at the same starting
 **Does insulation stop energy transfer?**
 No. Insulation slows down energy transfer; it does not stop it. Writing that insulation "stops" energy transfer is marked wrong.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/ocr-gcse-physics-dissipation-efficiency-and-reducing-energy-loss-revision-notes/).
 - Re-read the [study guide](/resources/ocr-gcse-physics-dissipation-efficiency-and-reducing-energy-loss/).

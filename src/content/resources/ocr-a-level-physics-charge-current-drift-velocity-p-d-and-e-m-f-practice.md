@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -162,7 +162,7 @@ Use e = 1.6 × 10⁻¹⁹ C, and remember that an alpha particle has charge 2e, 
 **Which OCR A Level Physics A sections do these questions cover?**
 They cover sections 4.1.1, 4.1.2, 4.2.1 and 4.2.2 of the OCR A Level Physics A (H556) specification, Version 3.0 (March 2026).
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/ocr-a-level-physics-charge-current-drift-velocity-p-d-and-e-m-f-revision-notes/) and the [study guide](/resources/ocr-a-level-physics-charge-current-drift-velocity-p-d-and-e-m-f/).
 - Go to the [OCR A Level Physics hub](/boards/ocr/a-level/physics/) and tick off the [checklist](/checklists/ocr/a-level/physics/).

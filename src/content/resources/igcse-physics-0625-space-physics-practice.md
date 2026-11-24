@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-27
 updatedDate: 2026-09-28
 featured: false
@@ -195,7 +195,7 @@ Related: [study guide](/resources/igcse-physics-0625-space-physics/), [revision 
 - Leaving the age of the Universe in seconds when years are asked for.
 - Describing redshift as light "turning red" rather than an increase in observed wavelength.
 
-## Next steps
+## More on this topic
 
 - [Space physics revision notes](/resources/igcse-physics-0625-space-physics-revision-notes/) and [study guide](/resources/igcse-physics-0625-space-physics/).
 - [Cambridge IGCSE Physics hub](/boards/cambridge/igcse/physics/) and [printable checklist](/checklists/cambridge/igcse/physics/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -155,6 +155,6 @@ Judge-made law through precedent. Murder is a common law offence; negligence gre
 
 **Answers:** 1. Enforcement by the state through the courts with formal sanctions. 2. Smoking in enclosed workplaces, made an offence under the Health Act 2006. 3. A rule is specific and applied directly; a principle is general and guides how rules are applied or developed. 4. Rules about rules: the rule of recognition, rules of change and rules of adjudication. 5. The prosecution is brought in the name of the Crown, representing the state. 6. No; the prosecution belongs to the state, although lack of evidence may lead the prosecutor to discontinue. 7. The civil standard of proof (balance of probabilities) is lower than the criminal standard (beyond reasonable doubt). 8. 1189. 9. The fair dated back only to fourteenth-century statute sessions, so it did not exist from time immemorial. 10. It allowed minerals to be taken without compensation, which was unreasonable. 11. Statute, because of parliamentary supremacy: an Act can override custom and common law. 12. Murder.
 
-## Related resources
+## More resources on this topic
 
 [Nature of Law study guide](/resources/aqa-a-level-law-7162-nature-of-law/) | [Nature of Law practice questions](/resources/aqa-a-level-law-7162-nature-of-law-practice/) | [Rule of Law, Law Reform, the EU and Civil Justice revision notes](/resources/aqa-a-level-law-rule-of-law-reform-eu-and-civil-justice-revision-notes/)

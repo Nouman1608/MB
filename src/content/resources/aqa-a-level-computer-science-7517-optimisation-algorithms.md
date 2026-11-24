@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -164,7 +164,7 @@ For each, say what the vertices, edges and weights represent, and that the algor
 - **Applications**: link the weights to a real quantity, such as distance or time.
 - **Explain why not BFS**: BFS counts edges and ignores their weights.
 
-## Related resources
+## More resources on this topic
 
 - [Optimisation algorithms revision notes](/resources/aqa-a-level-computer-science-7517-optimisation-algorithms-revision-notes/)
 - [Optimisation algorithms practice questions](/resources/aqa-a-level-computer-science-7517-optimisation-algorithms-practice/)

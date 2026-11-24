@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 These notes condense section 3.1, **Mode of action of enzymes**, of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It is AS Level content: examined in Papers 1 and 2, with its practical skills tested in Paper 3, and assumed knowledge for Paper 4. For full explanations and worked examples, read the [3.1 study guide](/resources/a-level-biology-9700-mode-of-action-of-enzymes/) first.
@@ -218,7 +218,7 @@ Coloured substrate disappearing â†’ absorbance falls. Coloured product forming â
 - Saying iodine "turns orange-brown" instead of **stays** orange-brown.
 - Forgetting the calibration curve, so absorbance readings cannot be turned into concentrations.
 
-## Next steps
+## More on this topic
 
 - [3.1 practice questions](/resources/a-level-biology-9700-mode-of-action-of-enzymes-practice/)
 - [3.1 study guide](/resources/a-level-biology-9700-mode-of-action-of-enzymes/)

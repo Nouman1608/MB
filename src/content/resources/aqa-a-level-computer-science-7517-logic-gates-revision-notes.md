@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -163,7 +163,7 @@ Chain full-adders (carry out to the next carry in) to add multi-bit numbers.
 9. Only at the clock edge, when it copies the value on D.
 10. The output is inverted (NOT).
 
-## Related resources
+## More resources on this topic
 
 - [Logic gates study guide](/resources/aqa-a-level-computer-science-7517-logic-gates/)
 - [Logic gates practice questions](/resources/aqa-a-level-computer-science-7517-logic-gates-practice/)

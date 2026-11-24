@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Use these notes after the [study guide](/resources/edexcel-igcse-business-financial-documents-and-accounts-analysis/) for full explanations. They cover Topic 3, sections 3.4 and 3.5 of the Pearson Edexcel International GCSE in Business (4BS1) specification, Issue 2, February 2026. Links: [Edexcel IGCSE Business hub](/boards/edexcel/igcse/business/), [printable checklist](/checklists/edexcel/igcse/business/), [practice questions](/resources/edexcel-igcse-business-financial-documents-and-accounts-analysis-practice/) and [free diagnostics](/diagnostics/). Businesses and figures are invented, in dollars.
@@ -208,7 +208,7 @@ Command words in the specification: calculate (give working), explain (a fact wi
 - Calculating capital employed with non-current liabilities left out or counted twice.
 - Mixing up profit and cash when explaining why a profitable firm is struggling.
 
-## Next steps
+## More on this topic
 
 Test yourself on the [practice questions](/resources/edexcel-igcse-business-financial-documents-and-accounts-analysis-practice/), return to the [study guide](/resources/edexcel-igcse-business-financial-documents-and-accounts-analysis/), and check the [free diagnostics](/diagnostics/).
 

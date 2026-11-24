@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -128,7 +128,7 @@ Question 8 evaluates an explanation using a scientific idea. Question 10 evaluat
 **Do I have to show working in calculations?**
 Yes. The command term "calculate" asks for the relevant stages of the working, and working earns credit even if the arithmetic slips.
 
-## Next steps
+## More on this topic
 
 - [Criterion A revision notes](/resources/ib-myp-sciences-criterion-a-knowing-and-understanding-revision-notes/)
 - [Criterion A study guide](/resources/ib-myp-sciences-criterion-a-knowing-and-understanding/)

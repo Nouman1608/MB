@@ -22,7 +22,7 @@ reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide is aligned to the OCR GCSE (9-1) Gateway Science Physics A specification (J249), Version 5.0 (July 2026), and covers topic P5.3 Wave interactions, statements P5.3a to P5.3e. Statements P5.3a and P5.3b are in bold in the specification, so they are **Higher Tier only**, and each is labelled that way below. Statements P5.3c, P5.3d and P5.3e are not in bold, so they are assessed on both tiers; the specification marks them as separate Physics only content (not in Combined Science).
@@ -304,7 +304,7 @@ Ordinary coloured objects scatter their colour. A glossy surface also gives a sp
 - Drawing a concave lens ray that actually meets at a point. The rays only appear to come from a point.
 - Forgetting to convert nm to m in a calculation.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/ocr-gcse-physics-reflection-refraction-lenses-and-colour-practice/), then use the [revision notes](/resources/ocr-gcse-physics-reflection-refraction-lenses-and-colour-revision-notes/) to fix the gaps.
 

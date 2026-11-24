@@ -42,7 +42,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -211,7 +211,7 @@ Keep full calculator values for intermediate lengths and angles and round only t
 **Which circle theorems are Higher tier only in 4MA1?**
 The angle at the centre, the angle in a semicircle, angles in the same segment, opposite angles of a cyclic quadrilateral, the alternate segment theorem and the intersecting chords results are Higher tier only. The tangent, equal tangents and perpendicular-to-a-chord facts are on both tiers.
 
-## Next steps
+## More on this topic
 
 - Refresh the facts: [revision notes](/resources/edexcel-igcse-maths-4ma1-geometry-and-trigonometry-revision-notes/)
 - Re-learn anything you missed: [study guide](/resources/edexcel-igcse-maths-4ma1-geometry-and-trigonometry/)

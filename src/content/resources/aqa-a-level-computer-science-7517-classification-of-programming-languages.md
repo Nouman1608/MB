@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -166,7 +166,7 @@ A useful way to remember the scale is to count instructions. A task such as "add
 - **Imperative**: sequence of commands that change program state; each statement is translated into several machine instructions.
 - **Justify** a language choice with a feature of the task.
 
-## Related resources
+## More resources on this topic
 
 - [Classification of programming languages revision notes](/resources/aqa-a-level-computer-science-7517-classification-of-programming-languages-revision-notes/)
 - [Classification of programming languages practice questions](/resources/aqa-a-level-computer-science-7517-classification-of-programming-languages-practice/)

@@ -28,7 +28,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-08 recheck: description rewritten to 140-160 characters naming board and code; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers **Paper 2 Modern Texts and Poetry**, the second of
@@ -198,7 +198,7 @@ a broadly similar share of the time -- Section C is not the same
 tariff as A or B, but it is too large a share to under-time just
 because it feels less prepared-for.
 
-## Related resources
+## More resources on this topic
 
 - [Modern Texts and Poetry revision notes](/resources/aqa-gcse-english-literature-paper-2-revision-notes/)
 - [Modern Texts and Poetry practice questions](/resources/aqa-gcse-english-literature-paper-2-practice/)

@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29; 2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by javaid-iqbal-sabri on 2026-09-29; 2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-02
 featured: false
 ---
@@ -193,7 +193,7 @@ An understated expense overstates profit, so correcting it always reduces the pr
 **What is an error of principle?**
 An error of principle posts an entry to the wrong type of account, such as office equipment debited to purchases instead of to equipment. Both sides are entered, so the trial balance still balances.
 
-## Related resources
+## More resources on this topic
 
 [Control Accounts and Correction of Errors study guide](/resources/a-level-edexcel-accounting-control-accounts-and-correction-of-errors/) |
 [Control Accounts and Correction of Errors practice questions](/resources/edexcel-a-level-accounting-control-accounts-practice/)

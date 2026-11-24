@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers **Business 2: Operations, Finance and Influences on
@@ -185,7 +185,7 @@ In OCR GCSE Business (J204) the location factors are costs, proximity to the mar
 **How should you revise Business 2?**
 Trace a single business scenario through operations, finance and influences rather than revising them separately, for example how relocating production overseas affects suppliers, cash flow timing and exposure to globalisation risk. Practise the finance calculations until they are fluent.
 
-## Related resources
+## More resources on this topic
 
 - [Operations, Finance and Influences revision notes](/resources/ocr-gcse-business-operations-finance-influences-revision-notes/)
 - [Operations, Finance and Influences practice questions](/resources/ocr-gcse-business-operations-finance-influences-practice/)

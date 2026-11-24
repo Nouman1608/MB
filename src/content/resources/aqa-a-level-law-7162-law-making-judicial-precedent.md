@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -180,6 +180,6 @@ Long term: the Court of Appeal (via Young exceptions) or the
 
 For **explain** questions, define the term, then show how it works with a case. For **evaluate** questions, weigh certainty against flexibility and include the democratic argument, then judge whether the balance is right.
 
-## Next steps
+## More on this topic
 
 Condensed recall is in the [Judicial Precedent revision notes](/resources/aqa-a-level-law-7162-law-making-judicial-precedent-revision-notes/), and application practice is in the [Judicial Precedent practice questions](/resources/aqa-a-level-law-7162-law-making-judicial-precedent-practice/). Precedents on the meaning of Acts link to [Statutory Interpretation](/resources/aqa-a-level-law-7162-law-making-statutory-interpretation/).

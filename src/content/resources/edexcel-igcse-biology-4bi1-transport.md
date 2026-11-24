@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches sub-topic (h) **Transport** (specification points 2.51–2.69) of Topic 2, Structures and functions in living organisms, in the Pearson Edexcel International GCSE Biology (4BI1) specification, Issue 3. The qualification is untiered. Points with a **B** reference (2.55B–2.58B, 2.63B and 2.64B) are bold in the specification and are examined on Paper 2 only; the rest can appear on either paper. A calculator may be used on both papers.
@@ -438,7 +438,7 @@ These wall/lumen comparisons describe typical systemic vessels. Vessel names des
 - Saying the left ventricle is thicker "because it pumps more blood". Both sides pump the same volume; the left pumps at **higher pressure** over a longer circuit.
 - Mixing up pulmonary artery and pulmonary vein.
 
-## Next steps
+## More on this topic
 
 Condense this into the [revision notes](/resources/edexcel-igcse-biology-4bi1-transport-revision-notes/), then try the [practice questions](/resources/edexcel-igcse-biology-4bi1-transport-practice/). Take a free [diagnostic](/diagnostics/) to find your weakest topics.
 

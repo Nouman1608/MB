@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-29
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Read the [Global development study guide](/resources/aqa-a-level-sociology-7192-global-development/) first; these notes condense it for last-stage revision.
@@ -188,7 +188,7 @@ The specification also requires you to link every topic to the two core themes (
 - No link to the core themes or to how evidence was gathered (research design).
 - Writing a one-sided answer to an "evaluate" question with no judgement at the end.
 
-## Related resources
+## More resources on this topic
 
 Green and state crime overlap with this topic in [crime and deviance revision notes](/resources/a-level-aqa-sociology-crime-and-deviance-revision-notes/). Globalisation and policy also appear in the [education revision notes](/resources/aqa-a-level-sociology-education-revision-notes/). For method links, see [methods in context revision notes](/resources/a-level-sociology-methods-in-context-revision-notes/). Other option 2 topics with global themes: [stratification and differentiation](/resources/aqa-a-level-sociology-7192-stratification-and-differentiation-revision-notes/) (the transnational capitalist class), [the media](/resources/aqa-a-level-sociology-7192-the-media-revision-notes/) (media and globalisation) and [beliefs in society](/resources/aqa-a-level-sociology-7192-beliefs-in-society-revision-notes/) (globalisation and the spread of religions). Global culture also appears in [culture and identity](/resources/aqa-a-level-sociology-7192-culture-and-identity-revision-notes/).
 

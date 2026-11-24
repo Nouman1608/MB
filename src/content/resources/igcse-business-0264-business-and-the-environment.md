@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers section 6.3, **Business and the environment**, of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029. The section has one syllabus point, 6.3.1 **Environmental issues**. All candidates study the same content, and the syllabus says both papers are based on all the subject content. For quick recall use the [revision notes](/resources/igcse-business-0264-business-and-the-environment-revision-notes/), then test yourself with the [practice questions](/resources/igcse-business-0264-business-and-the-environment-practice/). The [course hub](/boards/cambridge/igcse/business/) and the printable [checklist](/checklists/cambridge/igcse/business/) track what you have covered, and the free [diagnostics](/diagnostics/) show where to start.
@@ -208,7 +208,7 @@ The syllabus includes the skill of making recommendations. In several places it 
 - Making vague claims about reputation without saying who thinks better of the business, and why that matters to sales.
 - Changing the figures in a calculation after working out the costs. Check each step.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/igcse-business-0264-business-and-the-environment-practice/), keep the [revision notes](/resources/igcse-business-0264-business-and-the-environment-revision-notes/) beside you for recall, and tick off the [checklist](/checklists/cambridge/igcse/business/). The [course hub](/boards/cambridge/igcse/business/) lists other topics, and the [diagnostics](/diagnostics/) are a quick check of what you still need to revise.
 

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -148,7 +148,7 @@ These questions cover section 2.7, Metallic bonding, of the Cambridge O Level Ch
 - Confusing malleable and ductile.
 - Calling metallic bonds weak.
 
-## Next steps
+## More on this topic
 
 - Recap with the [metallic bonding revision notes](/resources/cambridge-o-level-chemistry-5070-metallic-bonding-revision-notes/).
 - Move on to Topic 3 with the [formulae practice questions](/resources/cambridge-o-level-chemistry-5070-formulae-practice/).

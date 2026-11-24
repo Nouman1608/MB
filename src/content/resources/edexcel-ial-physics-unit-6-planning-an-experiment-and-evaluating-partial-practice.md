@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -178,7 +178,7 @@ T½ = ln 2/λ = 0.693/0.01928 [1]
 - Quoting calculated values to too many significant figures, or writing units that do not fit.
 - Deleting an anomalous point instead of checking it.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/edexcel-ial-physics-unit-6-planning-an-experiment-and-evaluating-partial-revision-notes/) and the [study guide](/resources/edexcel-ial-physics-unit-6-planning-an-experiment-and-evaluating-partial/).
 - Return to the [course hub](/boards/edexcel/a-level/physics/) and the [printable checklist](/checklists/edexcel/a-level/physics/).

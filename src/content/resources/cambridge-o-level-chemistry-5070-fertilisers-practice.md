@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -181,7 +181,7 @@ ammonia + sulfuric acid → ............ **[1]**
 - Mixing up the symbols P and K.
 - Writing a full account of eutrophication instead of deoxygenation and damage to aquatic life.
 
-## Next steps
+## More on this topic
 
 - Review weak areas in the [fertilisers study guide](/resources/cambridge-o-level-chemistry-5070-fertilisers/).
 - Move on to the [air quality and climate practice questions](/resources/cambridge-o-level-chemistry-5070-air-quality-and-climate-practice/).

@@ -33,7 +33,7 @@ author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-17
 updatedDate: 2026-09-27
 featured: false
@@ -261,7 +261,7 @@ The molar gas volume is taken as 24 dm³ at room temperature and pressure, so vo
 **What is the Avogadro constant?**
 The Avogadro constant is the number of particles in one mole of a substance, 6.02 × 10²³. The mole is the unit of amount of substance.
 
-## Related resources
+## More resources on this topic
 
 - [Atomic Structure](/resources/atomic-structure/) — Ar and isotopes first
 - [Ionic, Covalent and Metallic Bonding](/resources/ionic-covalent-and-metallic-bonding/) — ionic charges

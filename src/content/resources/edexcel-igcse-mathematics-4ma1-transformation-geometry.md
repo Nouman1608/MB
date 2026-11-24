@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -178,7 +178,7 @@ Every vertex of V is 6 to the right of the matching vertex of T, and V has the s
 - Thinking a scale factor of ½ is a "reduction" with a different name: in 4MA1 it is still an enlargement.
 - Naming two transformations when the question asks for one.
 
-## Next steps
+## More on this topic
 
 Condense the rules with the [Transformation geometry revision notes](/resources/edexcel-igcse-mathematics-4ma1-transformation-geometry-revision-notes/), then try the [Transformation geometry practice questions](/resources/edexcel-igcse-mathematics-4ma1-transformation-geometry-practice/). Higher candidates can continue with the [Vectors study guide](/resources/edexcel-igcse-mathematics-4ma1-vectors/).
 

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please check the Singapore outline (Stop at Two in the 1970s, the 1987 change of slogan, the Baby Bonus from 2001 and fertility below 1.0) against a current source."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: Please check the Singapore outline (Stop at Two in the 1970s, the 1987 change of slogan, the Baby Bonus from 2001 and fertility below 1.0) against a current source. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -111,7 +111,7 @@ Whichever country you choose, prepare notes under these headings, matching the s
 - Use precise, located and dated detail: names of policies, years and data.
 - Plan answers to show the three syllabus demands: altering natural increase, managing results and evaluation.
 
-## Related resources
+## More resources on this topic
 
 - [4.4 The management of natural increase revision notes](/resources/a-level-geography-9696-management-of-natural-increase-revision-notes/)
 - [4.4 The management of natural increase practice questions](/resources/cambridge-a-level-geography-9696-the-management-of-natural-increase-practice/)

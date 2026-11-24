@@ -29,7 +29,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -184,7 +184,7 @@ Data: c = 3.00 × 10⁸ m s⁻¹; G = 6.67 × 10⁻¹¹ N m² kg⁻²; σ = 5.67
 - Using the percentage dip without converting it to a fraction.
 - Leaving H in km s⁻¹ Mpc⁻¹ when computing 1/H in seconds.
 
-## Next steps
+## More on this topic
 
 - [Astrophysics revision notes](/resources/aqa-a-level-physics-astrophysics-revision-notes/)
 - [Astrophysics study guide](/resources/aqa-a-level-physics-astrophysics/)

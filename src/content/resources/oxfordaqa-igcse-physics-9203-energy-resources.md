@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -139,7 +139,7 @@ An **evaluate** or **discuss** question about energy resources usually rewards:
 - **Suggest**: apply your knowledge to an unfamiliar situation using the data provided.
 - **Evaluate**: both sides, then a conclusion with a reason.
 
-## Next steps
+## More on this topic
 
 Try the [Energy resources practice questions](/resources/oxfordaqa-igcse-physics-9203-energy-resources-practice/), and revisit the [energy transfers study guide](/resources/oxfordaqa-igcse-physics-9203-energy-transfers-conservation-and-dissipation/) for efficiency.
 

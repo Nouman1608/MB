@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -158,7 +158,7 @@ for FeSO₄(aq). **[3]**
 - Marking a dissolved salt (s), or a precipitate (aq).
 - Writing the symbol before the formula, or using a different bracket style.
 
-## Next steps
+## More on this topic
 
 - Recap with the [state symbols revision notes](/resources/aqa-gcse-chemistry-8462-state-symbols-revision-notes/).
 - Reread any weak area in the [state symbols study guide](/resources/aqa-gcse-chemistry-8462-state-symbols/).

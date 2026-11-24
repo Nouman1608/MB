@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -157,7 +157,7 @@ Enough to answer the question accurately. Quality and accuracy matter more than 
 **What if the question uses a source?**
 The guide says you may demonstrate knowledge either from your course or from information in the source material. Use both, and name the source detail you are using.
 
-## Next steps
+## More on this topic
 
 Work through the [Criterion A practice questions](/resources/ib-myp-individuals-and-societies-criterion-a-knowing-and-understanding-practice/), then read the [four criteria in practice](/resources/ib-myp-individuals-and-societies-criteria-in-practice/) and the [MYP Individuals and Societies key concepts](/resources/ib-myp-individuals-and-societies-key-concepts/).
 

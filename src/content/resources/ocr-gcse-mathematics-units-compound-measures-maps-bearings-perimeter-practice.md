@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -141,7 +141,7 @@ These questions follow sections 10.01 and 10.02 of the OCR GCSE (9-1) Mathematic
 - Giving the arc alone as the perimeter of a sector, or counting an inside edge.
 - Rounding too early, or giving a final answer with no units.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ocr-gcse-mathematics-units-compound-measures-maps-bearings-perimeter-revision-notes/) and the [study guide](/resources/ocr-gcse-mathematics-units-compound-measures-maps-bearings-perimeter/).
 - Go to the [OCR GCSE Mathematics hub](/boards/ocr/gcse/mathematics/) and the [checklist](/checklists/ocr/gcse/mathematics/).

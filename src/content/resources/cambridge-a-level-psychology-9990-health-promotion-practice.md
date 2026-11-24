@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -143,6 +143,6 @@ Related: [Health promotion study guide](/resources/cambridge-a-level-psychology-
 - In question 5(a), giving results without the control group comparison.
 - In question 11, dividing by 37 instead of the original score.
 
-## Next steps
+## More on this topic
 
 Revisit weak areas in the [health promotion study guide](/resources/cambridge-a-level-psychology-9990-health-promotion/), then try the mixed [Health Psychology practice questions](/resources/a-level-psychology-health-psychology-practice/).

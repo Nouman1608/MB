@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -200,7 +200,7 @@ Learn the rules first in the [transformations of curves study guide](/resources/
 - Doing a reflection and a translation in the wrong order.
 - Sketching without labelling the coordinates of the key points.
 
-## Next steps
+## More on this topic
 
 - Review with the [transformations of curves revision notes](/resources/ocr-gcse-mathematics-j560-transformations-of-curves-and-their-equations-revision-notes/).
 - Re-read the explanations in the [transformations of curves study guide](/resources/ocr-gcse-mathematics-j560-transformations-of-curves-and-their-equations/).

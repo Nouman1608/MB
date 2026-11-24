@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -140,7 +140,7 @@ cis-but-2-ene(g) ⇌ trans-but-2-ene(g)     Kp = 1.50 at temperature T
 - Temperature answers that never name the endothermic or exothermic direction.
 - Missing the square root when the unknown appears squared.
 
-## Next steps
+## More on this topic
 
 - Go over weak points with the [Kp revision notes](/resources/oxfordaqa-a-level-chemistry-equilibrium-constant-kp-for-homogeneous-systems-revision-notes/)
 - Go back to the full explanations in the [Kp study guide](/resources/oxfordaqa-a-level-chemistry-equilibrium-constant-kp-for-homogeneous-systems/)

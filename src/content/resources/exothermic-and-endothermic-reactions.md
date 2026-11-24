@@ -21,7 +21,7 @@ author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-18
 featured: false
 ---
@@ -232,7 +232,7 @@ The ΔH sign convention, activation energy, fully labelled pathway diagrams, exp
 **What are examples of exothermic and endothermic reactions?**
 Combustion, neutralisation and most oxidation reactions are exothermic. Thermal decomposition and photosynthesis are endothermic.
 
-## Related resources
+## More resources on this topic
 
 - [Rates of Reaction and Reversible Reactions](/resources/rates-of-reaction-and-reversible-reactions/) — activation energy applied to reaction rate and collision theory
 - [Chemical Energetics: Hess's Law and Enthalpy Cycles](/resources/as-chemical-energetics-hess-law-and-enthalpy-cycles/) — the AS & A Level continuation

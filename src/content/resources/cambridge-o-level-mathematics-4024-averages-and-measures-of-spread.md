@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -172,7 +172,7 @@ The combined mean is **not** (62 + 70) ÷ 2 = 66, because the classes are differ
 - **Write down the modal class:** give the class as written in the table.
 - **Explain which average is most suitable:** name the average and give a reason linked to the data, such as an extreme value.
 
-## Next steps
+## More on this topic
 
 Try the [averages and measures of spread practice questions](/resources/cambridge-o-level-mathematics-4024-averages-and-measures-of-spread-practice/) and recap with the [averages and measures of spread revision notes](/resources/cambridge-o-level-mathematics-4024-averages-and-measures-of-spread-revision-notes/). To use these measures in comparisons, see [interpreting statistical data](/resources/cambridge-o-level-mathematics-4024-interpreting-statistical-data/); for quartiles and the interquartile range, see [cumulative frequency diagrams](/resources/cambridge-o-level-mathematics-4024-cumulative-frequency-diagrams/).
 

@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -198,7 +198,7 @@ The lowest 25% of candidates fail. The top 15% earn a distinction.
 - Writing the IQR as an interval instead of one number.
 - Giving a grouped answer as exact when it is an estimate.
 
-## Next steps
+## More on this topic
 
 - Review the methods in the [revision notes](/resources/cambridge-igcse-statistics-quartiles-percentiles-range-and-interquartile-range-revision-notes/).
 - Re-read the worked examples in the [study guide](/resources/cambridge-igcse-statistics-quartiles-percentiles-range-and-interquartile-range/).

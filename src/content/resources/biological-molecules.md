@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-08-18
 featured: false
-reviewNote: "2026-11-08 recheck: expanded thin page (opening answer, method for each food test, fair-test points, worked results table, FAQ); removed ester bond/double-helix detail beyond 4.1; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08 recheck: expanded thin page (opening answer, method for each food test, fair-test points, worked results table, FAQ); removed ester bond/double-helix detail beyond 4.1; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Biological molecules are the carbohydrates, lipids, proteins and DNA that
@@ -251,7 +251,7 @@ and positive result colour
 - Nitrogen as the element that distinguishes proteins and DNA from
 carbohydrates and lipids
 
-## Related resources
+## More resources on this topic
 
 - [Cell Structure and Organisation](/resources/cell-structure-and-organisation/) — the cell structures these molecules build and are found in
 - [Enzymes](/resources/enzymes/) — proteins acting as biological catalysts

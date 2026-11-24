@@ -31,7 +31,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -167,7 +167,7 @@ x = **366 kJ mol⁻¹** [1] **[3]**
 - In a bond enthalpy calculation, missing a bond because the structure was not drawn out in full.
 - Giving "experimental error" as the reason for a difference rather than naming the heat loss or incomplete combustion.
 
-## Next steps
+## More on this topic
 
 - Revise from the [revision notes](/resources/oxfordaqa-a-level-chemistry-energetics-revision-notes/) and the [study guide](/resources/oxfordaqa-a-level-chemistry-energetics/).
 - Find the topic on the [course page](/boards/oxfordaqa/a-level/chemistry/) and tick it off on the [checklist](/checklists/oxfordaqa/a-level/chemistry/).

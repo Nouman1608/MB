@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -138,7 +138,7 @@ Each stage has one job. Sedimentation and filtration deal with **solids**; carbo
 - **State:** short answers such as "kills microbes" or "dissolved oxygen".
 - **Deduce:** compare data with 0 °C and 100 °C and say which samples are pure.
 
-## Related resources
+## More resources on this topic
 
 - [Water revision notes](/resources/cambridge-igcse-chemistry-0620-water-revision-notes/) and [practice questions](/resources/cambridge-igcse-chemistry-0620-water-practice/)
 - [Fertilisers study guide](/resources/cambridge-igcse-chemistry-0620-fertilisers/), the source of nitrates and phosphates in water

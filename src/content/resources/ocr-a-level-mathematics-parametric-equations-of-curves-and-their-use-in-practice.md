@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -163,7 +163,7 @@ Both particles must be at the same point at the same time, so use the same value
 **Should you work in degrees or radians in parametric models?**
 If the model contains π, for example πt/15, work in radians. Mixing degrees and radians is a common error.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/ocr-a-level-mathematics-parametric-equations-of-curves-and-their-use-in-revision-notes/) for the method boxes.
 - Reread the [study guide](/resources/ocr-a-level-mathematics-parametric-equations-of-curves-and-their-use-in/) for the full worked examples.

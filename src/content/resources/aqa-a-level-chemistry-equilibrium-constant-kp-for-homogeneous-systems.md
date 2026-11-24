@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide covers section 3.1.10 of the AQA AS and A-level Chemistry specification (7404/7405), version 1.2 (July 2026), for AS and A-level exams from June 2016 onwards. The whole section is marked **A-level only**, so it is not part of the AS course. It builds directly on section 3.1.6 (Le Chatelier's principle and Kc), which you should revise first in the [Kc study guide](/resources/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc/).
@@ -321,7 +321,7 @@ Leaving out a gas, such as a product that starts at zero, or using initial moles
 **How does Kp relate to the Haber process?**
 In the Haber process, N₂(g) + 3H₂(g) ⇌ 2NH₃(g), there are 4 moles of gas on the left and 2 on the right, so high pressure raises the equilibrium proportion of ammonia. Kp itself does not change with pressure.
 
-## Next steps
+## More on this topic
 
 Condense this with the [Kp revision notes](/resources/aqa-a-level-chemistry-equilibrium-constant-kp-for-homogeneous-systems-revision-notes/), then test yourself with the [Kp practice questions](/resources/aqa-a-level-chemistry-equilibrium-constant-kp-for-homogeneous-systems-practice/). For Kc and Le Chatelier questions, use the [Kc practice set](/resources/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc-practice/). Paper formats are in the [exam preparation guide](/resources/aqa-a-level-chemistry-exam-preparation/), and you can find gaps quickly with the [free diagnostics](/diagnostics/).
 

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers **Unit 2 Managing business activities**, the second
@@ -240,7 +240,7 @@ Internal causes include poor cash-flow management, overestimated sales, overtrad
 **Is retained profit internal or external finance?**
 Retained profit is internal finance, along with owner's capital and the sale of assets, while share capital is external finance. They have very different implications for control and repayment.
 
-## Related resources
+## More resources on this topic
 
 [Managing Business Activities revision notes](/resources/edexcel-a-level-business-managing-activities-revision-notes/) |
 [Managing Business Activities practice questions](/resources/edexcel-a-level-business-managing-activities-practice/)

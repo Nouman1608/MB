@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -197,7 +197,7 @@ A shortage (excess demand) happens when the price is below equilibrium, so quant
 **What should an answer about equilibrium include?**
 Give both the equilibrium price and the equilibrium quantity, with units. Giving only the price when the question asks for sales loses marks.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/cambridge-o-level-economics-supply-and-equilibrium-and-disequilibrium-prices-revision-notes/) for any answer you missed.
 - Reread the [study guide](/resources/cambridge-o-level-economics-supply-and-equilibrium-and-disequilibrium-prices/) on aggregation and equilibrium.

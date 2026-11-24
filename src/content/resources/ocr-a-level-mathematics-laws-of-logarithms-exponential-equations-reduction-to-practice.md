@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -170,7 +170,7 @@ The vertical intercept is the logarithm of the constant, not the constant itself
 **How do you comment on an exponential model in OCR A Level Mathematics?**
 Link the comment to the context, for example that a population cannot grow without limit because of food or space. A generic remark such as "it is not realistic" earns little credit.
 
-## Next steps
+## More on this topic
 
 - Read the [study guide](/resources/ocr-a-level-mathematics-laws-of-logarithms-exponential-equations-reduction-to/) again for any question you missed.
 - Revise from the [revision notes](/resources/ocr-a-level-mathematics-laws-of-logarithms-exponential-equations-reduction-to-revision-notes/).

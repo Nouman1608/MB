@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -154,7 +154,7 @@ Both have the molecular formula C₃H₇Cl; they are structural isomers. Writing
 - **Draw:** in a displayed formula, every bond must be shown, including each C–H; in a structural formula such as CH₃CH₂Cl, the arrangement must be unambiguous.
 - **Explain:** link structure to behaviour – no C=C bond, so nothing can add; UV supplies Ea, so the reaction starts.
 
-## Related resources
+## More resources on this topic
 
 - [Alkanes revision notes](/resources/cambridge-igcse-chemistry-0620-alkanes-revision-notes/) – condensed facts and self-test
 - [Alkanes practice questions](/resources/cambridge-igcse-chemistry-0620-alkanes-practice/) – original exam-style questions with answers

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -193,7 +193,7 @@ Find other J248 topics through the [chemistry hub for OCR GCSE](/boards/ocr/gcse
 - Giving only "heat" for cracking conditions, without the catalyst.
 - Not converting kilograms to grams in a moles calculation.
 
-## Next steps
+## More on this topic
 
 - [C6.2 organic chemistry study guide](/resources/ocr-gcse-chemistry-organic-chemistry/)
 - [All free 10-minute diagnostics](/diagnostics/)

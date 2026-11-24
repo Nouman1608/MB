@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -141,7 +141,7 @@ Links: [Edexcel IGCSE Accounting hub](/boards/edexcel/igcse/accounting/), [print
 - Giving the profit or loss on disposal without a label or without saying where it is shown.
 - Stating depreciation is about replacing the asset or setting cash aside.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/edexcel-igcse-accounting-capital-and-revenue-expenditure-and-depreciation-revision-notes/) and the [study guide](/resources/edexcel-igcse-accounting-capital-and-revenue-expenditure-and-depreciation/).
 - Check your coverage on the [printable checklist](/checklists/edexcel/igcse/accounting/) and the [course hub](/boards/edexcel/igcse/accounting/).

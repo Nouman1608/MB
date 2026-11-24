@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -138,7 +138,7 @@ n = pV ÷ RT = (101 × 250) ÷ (8.31 × 25) = 122 mol
 - Leaving the answer in m³ or Pa when another unit is asked for.
 - Ignoring the mole ratio when a gas is produced in a reaction.
 
-## Next steps
+## More on this topic
 
 - [Ideal gas equation revision notes](/resources/aqa-a-level-chemistry-7405-the-ideal-gas-equation-revision-notes/)
 - [Empirical and molecular formula practice questions](/resources/aqa-a-level-chemistry-7405-empirical-and-molecular-formula-practice/)

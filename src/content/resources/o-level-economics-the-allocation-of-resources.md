@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-08-24
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers **Topic 2 The allocation of resources** in Cambridge
@@ -192,7 +192,7 @@ Cambridge O Level Economics 2281 syllabus for 2026 (Version 2), Topic 2
 verified against the PDF on 24 August 2026 —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/697295-2026-syllabus.pdf).
 
-## Related resources
+## More resources on this topic
 
 - [The Allocation of Resources: Revision
   Notes](/resources/o-level-economics-the-allocation-of-resources-revision-notes/) —

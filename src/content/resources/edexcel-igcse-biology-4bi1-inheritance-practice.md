@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -207,7 +207,7 @@ The mean difference for identical twins is 1.8 cm.
 - (Paper 2) T written in mRNA or anticodons; codon and anticodon swapped.
 - Saying environment causes a mutation that the organism "needs".
 
-## Next steps
+## More on this topic
 
 - Review the [Inheritance revision notes](/resources/edexcel-igcse-biology-4bi1-inheritance-revision-notes/)
 - Re-read the [Inheritance study guide](/resources/edexcel-igcse-biology-4bi1-inheritance/)

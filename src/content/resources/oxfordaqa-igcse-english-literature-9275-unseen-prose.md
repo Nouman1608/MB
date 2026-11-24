@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-15
 featured: false
 ---
@@ -200,7 +200,7 @@ reader question...". Include at least one point about structure and one about na
 - Once a fortnight, write a 45-minute answer under timed conditions, and practise it straight after a
   poetry answer to build stamina for Paper 2a.
 
-## Related resources
+## More resources on this topic
 
 - [Unseen prose revision notes](/resources/oxfordaqa-igcse-english-literature-9275-unseen-prose-revision-notes/)
 - [Unseen prose practice questions with original extracts](/resources/oxfordaqa-igcse-english-literature-9275-unseen-prose-practice/)

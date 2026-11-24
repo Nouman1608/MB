@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -146,7 +146,7 @@ No. Net migration is immigration minus emigration. Population growth also includ
 **What should an evaluation of economic growth end with?**
 A judgement with a reason, not a summary. Weigh benefits against costs and consider how fast the growth is, how long it lasts, what kind of growth it is and who gains.
 
-## Next steps
+## More on this topic
 
 - Review with the [revision notes](/resources/edexcel-ial-economics-causes-benefits-and-costs-of-economic-growth-revision-notes/) and the [study guide](/resources/edexcel-ial-economics-causes-benefits-and-costs-of-economic-growth/).
 - Course hub: [Edexcel A Level Economics](/boards/edexcel/a-level/economics/); tick topics off on the [printable checklist](/checklists/edexcel/a-level/economics/).

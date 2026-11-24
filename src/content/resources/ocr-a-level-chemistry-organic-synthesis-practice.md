@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -147,7 +147,7 @@ Any data you need, such as densities or boiling points, appears in the question 
 - Forgetting Markownikoff's rule when HBr adds to an unsymmetrical alkene.
 - Reagents without conditions, especially "NaOH" with no "aqueous" or "heat".
 
-## Next steps
+## More on this topic
 
 - [Organic synthesis revision notes](/resources/ocr-a-level-chemistry-organic-synthesis-revision-notes/)
 - [Organic synthesis study guide](/resources/ocr-a-level-chemistry-organic-synthesis/)

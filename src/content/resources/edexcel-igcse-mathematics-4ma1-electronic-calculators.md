@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -176,7 +176,7 @@ Why this scores full marks: the answer to (a) is copied with all of its figures,
 - **"Show your working"**: write intermediate values to at least four significant figures, even though the calculator keeps more.
 - Check every answer with a 1 significant figure estimate, as in the model answer above.
 
-## Next steps
+## More on this topic
 
 Revise the key sequences with the [electronic calculators revision notes](/resources/edexcel-igcse-mathematics-4ma1-electronic-calculators-revision-notes/), then try the [electronic calculators practice questions](/resources/edexcel-igcse-mathematics-4ma1-electronic-calculators-practice/). For rounding, bounds and standard form rules, use the [degree of accuracy and standard form study guide](/resources/edexcel-igcse-maths-4ma1-degree-of-accuracy-and-standard-form/).
 

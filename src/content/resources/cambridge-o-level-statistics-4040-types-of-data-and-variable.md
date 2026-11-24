@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -149,7 +149,7 @@ The width is 0.5 kg, not 0.4 kg: the gap of 0.1 kg between written classes is sh
 - **Suggest a suitable diagram**: link the choice to the data type in your answer ("continuous, so a histogram with no gaps").
 - Where a variable is borderline, state the classification you are using and why, then apply it consistently.
 
-## Next steps
+## More on this topic
 
 Fix the four terms with the [revision notes on types of data](/resources/cambridge-o-level-statistics-4040-types-of-data-and-variable-revision-notes/), then try the [practice questions on types of data](/resources/cambridge-o-level-statistics-4040-types-of-data-and-variable-practice/). Grouping continuous data is developed in [formation of frequency distributions](/resources/cambridge-o-level-statistics-frequency-distributions/).
 

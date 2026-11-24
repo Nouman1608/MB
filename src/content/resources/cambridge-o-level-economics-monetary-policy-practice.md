@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -140,7 +140,7 @@ These questions cover sections 4.4.1 to 4.4.3 (Monetary policy) of the Cambridge
 - Writing a list of evaluation points with no verdict.
 - Ignoring the case data when asked to evaluate.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/cambridge-o-level-economics-monetary-policy-revision-notes/) and the [study guide](/resources/cambridge-o-level-economics-monetary-policy/).
 - Check the [course hub](/boards/cambridge/o-level/economics/) and [printable checklist](/checklists/cambridge/o-level/economics/).

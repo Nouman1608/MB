@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide is written against Pearson's International Advanced Subsidiary/Advanced Level specification for Mathematics, Further Mathematics and Pure Mathematics (YMA01), Issue 3, April 2019. It covers Unit S2 section 1 (topics 1.1 to 1.3). The specification states that Unit S2 is optional for IAS Further Mathematics and optional for IAL Mathematics and Further Mathematics.
@@ -245,7 +245,7 @@ If X ~ Po(λ) and Y ~ Po(μ) are independent, then X + Y ~ Po(λ + μ).
 **Should a count with an upper limit be modelled by a Poisson distribution?**
 No. A count with a fixed maximum, such as faulty items in a box of 10, is better modelled by a binomial distribution because there is a fixed number of trials.
 
-## Next steps
+## More on this topic
 
 Try the [practice questions](/resources/edexcel-ial-mathematics-the-binomial-and-poisson-distributions-and-the-poisson-practice/), then condense the unit with the [revision notes](/resources/edexcel-ial-mathematics-the-binomial-and-poisson-distributions-and-the-poisson-revision-notes/).
 

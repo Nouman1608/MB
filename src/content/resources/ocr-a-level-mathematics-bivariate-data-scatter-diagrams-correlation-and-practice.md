@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -187,7 +187,7 @@ Say that the data show an association, not that one variable causes the other, a
 **What should you do if a scatter diagram shows two separate groups?**
 State that the data appear to come from distinct sections of the population, so a single line is not appropriate. Missing separate groups is a frequent error.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ocr-a-level-mathematics-bivariate-data-scatter-diagrams-correlation-and-revision-notes/) and re-read the [study guide](/resources/ocr-a-level-mathematics-bivariate-data-scatter-diagrams-correlation-and/).
 - Tick off the topic on the [printable checklist](/checklists/ocr/a-level/mathematics/) and see the [course hub](/boards/ocr/a-level/mathematics/).

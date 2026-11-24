@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Use these notes to revise section 3.3.3 (Analysing the industry environment) from the OxfordAQA International AS and A-level Business (9725) specification, Version 1.1, for International AS exams May/June 2027 onwards and International A-level exams May/June 2028 onwards. The section is **International A-level only** and Unit 3: Business analysis is where it is tested. If your course is the older 9625 one, follow the 9625 specification. The [study guide](/resources/oxfordaqa-a-level-business-analysing-the-industry-environment/) has the full teaching and longer worked examples.
@@ -206,7 +206,7 @@ A rival makes the same kind of product, while a substitute meets the same need i
 **How should a business respond to a change in one of the five forces?**
 Name the force and the direction of change, estimate the effect on profit, and list options such as defend, adapt, combine or exit. Then weigh each against cost, time, risk and the firm's objectives.
 
-## Next steps
+## More on this topic
 
 - Full explanations: [study guide](/resources/oxfordaqa-a-level-business-analysing-the-industry-environment/)
 - Exam-style questions: [practice questions](/resources/oxfordaqa-a-level-business-analysing-the-industry-environment-practice/)

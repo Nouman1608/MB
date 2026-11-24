@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -152,7 +152,7 @@ List the matching equal sides or angles with a reason for each, then state the c
 **What is a common mistake with the distance formula?**
 Forgetting to square both differences before adding them. The distance between two points is √[(x₂ − x₁)² + (y₂ − y₁)²].
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/ib-myp-mathematics-coordinate-geometry-transformations-similarity-and-revision-notes/).
 - Re-read the [study guide](/resources/ib-myp-mathematics-coordinate-geometry-transformations-similarity-and/) for the topics you missed.

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -130,7 +130,7 @@ helps the computer detect this. **[2]**
 - Treating a check digit as a check on transmitted data rather than on data entry.
 - Leaving the timeout out of an ARQ description.
 
-## Next steps
+## More on this topic
 
 - [Methods of error detection study guide](/resources/cambridge-igcse-computer-science-0478-methods-of-error-detection/)
 - [Methods of error detection revision notes](/resources/cambridge-igcse-computer-science-0478-methods-of-error-detection-revision-notes/)

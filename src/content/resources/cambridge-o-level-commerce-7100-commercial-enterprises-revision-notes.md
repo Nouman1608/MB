@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -168,7 +168,7 @@ Ask four questions of any scenario: How much **capital**? How much **risk**? How
 
 **How many location factors should an answer use?** Usually two or three, chosen for the business in the question and each explained.
 
-## Next steps
+## More on this topic
 
 Apply these notes in the [commercial enterprises practice questions](/resources/cambridge-o-level-commerce-7100-commercial-enterprises-practice/).
 

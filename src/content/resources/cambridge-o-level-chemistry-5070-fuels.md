@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -133,7 +133,7 @@ Data questions like this never need memorised boiling ranges. Rank the fractions
 - **Describe** (fractional distillation): heat and vaporise; temperature gradient; vapours rise and condense at different heights according to boiling point; fractions collected.
 - **Explain** (trends): link chain length to the strength of forces between molecules, then to the property.
 
-## Next steps
+## More on this topic
 
 - Condense this section with the [fuels revision notes](/resources/cambridge-o-level-chemistry-5070-fuels-revision-notes/).
 - Test yourself with the [fuels practice questions](/resources/cambridge-o-level-chemistry-5070-fuels-practice/).

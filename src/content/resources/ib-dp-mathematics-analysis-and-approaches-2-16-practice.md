@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "muhammad-ghazali-siddiqui"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to muhammad-ghazali-siddiqui (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -138,7 +138,7 @@ This set covers **section 2.16 (AHL only)** of IB DP Mathematics: Analysis and A
 - Not checking that the right-hand side is non-negative in a modulus equation.
 - Reversing the region in a modulus inequality; always test one value.
 
-## Next steps
+## More on this topic
 
 - Go back to the five graph rules in the [modulus and related graphs study guide](/resources/ib-dp-mathematics-analysis-and-approaches-2-16/).
 - Revise the sign-table method in the [inequalities practice set](/resources/ib-dp-mathematics-analysis-and-approaches-2-15-practice/).

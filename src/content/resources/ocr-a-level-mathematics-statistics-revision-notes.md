@@ -19,7 +19,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -167,7 +167,7 @@ No. Calculating r is excluded; you are given r and compare it with a critical va
 **Why does the pre-release large data set matter for OCR A Level Mathematics statistics?**
 Some data presentation and interpretation questions are set directly on it, so you need to have explored its variables and context before the exam.
 
-## Related resources
+## More resources on this topic
 
 - [Statistics study guide](/resources/ocr-a-level-mathematics-statistics/)
 - [Statistics practice questions](/resources/ocr-a-level-mathematics-statistics-practice/)

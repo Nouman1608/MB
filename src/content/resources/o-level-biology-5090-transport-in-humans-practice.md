@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -161,7 +161,7 @@ Revise first with the [study guide](/resources/o-level-biology-5090-transport-in
 - Writing "white blood cell" when the question needs lymphocyte or phagocyte.
 - Leaving out tissue fluid when describing exchange between blood and cells.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/o-level-biology-5090-transport-in-humans-revision-notes/).
 - Re-read any weak area in the [study guide](/resources/o-level-biology-5090-transport-in-humans/).

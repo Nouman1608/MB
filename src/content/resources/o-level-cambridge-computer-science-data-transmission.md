@@ -26,7 +26,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29; 2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29; 2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-01
 featured: false
 ---
@@ -202,7 +202,7 @@ Data is encrypted with a public key that can be shared openly and decrypted with
 **Is Cambridge O Level Computer Science 2210 tiered?**
 No. 2210 is not tiered, so every candidate covers all of the Data Transmission content.
 
-## Related resources
+## More resources on this topic
 
 - [Cambridge O-Level Computer Science: Data Representation (2210)](/resources/o-level-cambridge-computer-science-data-representation/)
 

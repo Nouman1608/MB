@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -183,7 +183,7 @@ These questions cover section 3.4.1, Basics of electricity, of OxfordAQA Interna
 - Subtracting the currents of oppositely moving charges of opposite sign.
 - Using a triangle instead of a trapezium for a current that does not fall to zero.
 
-## Next steps
+## More on this topic
 
 - Recap with the [basics of electricity revision notes](/resources/oxfordaqa-a-level-physics-9630-basics-of-electricity-oxfordaqa-revision-notes/).
 - Re-read the [basics of electricity study guide](/resources/oxfordaqa-a-level-physics-9630-basics-of-electricity-oxfordaqa/).

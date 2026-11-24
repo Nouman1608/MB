@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -174,6 +174,6 @@ featured: false
 11. Further reform: removing "popish" practices, more preaching, and for some no bishops.
 12. He refused to suppress prophesyings.
 
-## Next steps
+## More on this topic
 
 Try the [Elizabethan religion and Mary Queen of Scots practice questions](/resources/aqa-gcse-world-history-8145-elizabethan-religion-and-mary-queen-of-scots-practice/).

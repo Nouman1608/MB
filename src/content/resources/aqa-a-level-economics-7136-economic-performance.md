@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -165,7 +165,7 @@ that the major objectives are compatible in the long run, even though they can c
 - **Evaluate:** judge which cause fits the data in the extract, since the right policy depends on the cause, and
   consider uncertainty about potential output.
 
-## Related resources
+## More resources on this topic
 
 - [Inflation and deflation study guide](/resources/aqa-a-level-economics-inflation-and-deflation/)
 - [Conflicts between macroeconomic objectives study guide](/resources/aqa-a-level-economics-conflicts-between-macroeconomic-objectives-and-the/)

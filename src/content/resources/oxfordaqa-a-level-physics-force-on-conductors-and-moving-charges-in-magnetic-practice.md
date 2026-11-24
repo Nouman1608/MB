@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -146,7 +146,7 @@ These questions cover sections 3.10.1 (Magnetic flux density) and 3.10.2 (Moving
 - Forgetting that grams, centimetres and u must be converted to kilograms and metres.
 - Dropping units or leaving the answer at the wrong number of significant figures.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/oxfordaqa-a-level-physics-force-on-conductors-and-moving-charges-in-magnetic-revision-notes/)
 - Read the [study guide](/resources/oxfordaqa-a-level-physics-force-on-conductors-and-moving-charges-in-magnetic/)

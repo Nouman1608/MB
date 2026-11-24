@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -189,7 +189,7 @@ Fossils show that C diverged from the lineage leading to A and B 60 million year
 - Explaining the similarity of unrelated organisms as common ancestry instead of convergent evolution.
 - Saying domains replaced kingdoms; they are a level above them.
 
-## Next steps
+## More on this topic
 
 - [Revision notes for this unit](/resources/ib-dp-biology-classification-and-cladistics-clades-cladograms-and-revision-notes/)
 - [Study guide for this unit](/resources/ib-dp-biology-classification-and-cladistics-clades-cladograms-and/)

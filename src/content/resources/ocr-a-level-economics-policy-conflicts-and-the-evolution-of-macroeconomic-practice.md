@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -159,7 +159,7 @@ Frequent errors include describing a trade-off without a step-by-step chain, lea
 **How do you get top marks on an "assess the extent" question in OCR A Level Economics?**
 Give a two-sided answer when the question says "evaluate" or "assess the extent", then end with a reasoned judgement rather than a summary of the points already made.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ocr-a-level-economics-policy-conflicts-and-the-evolution-of-macroeconomic-revision-notes/) and the [study guide](/resources/ocr-a-level-economics-policy-conflicts-and-the-evolution-of-macroeconomic/).
 - Visit the [OCR Economics hub](/boards/ocr/a-level/economics/) and the [checklist](/checklists/ocr/a-level/economics/).

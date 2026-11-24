@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -213,7 +213,7 @@ Plot each running total at the upper class boundary and start at 0 at the first 
 **How do you compare two distributions in GCSE Maths statistics?**
 Make one comparison of an average and one of spread, each written in the context of the question. Two comparisons of the same kind, or comparisons with no context, lose marks.
 
-## Next steps
+## More on this topic
 
 - [Statistics revision notes](/resources/aqa-gcse-maths-8300-statistics-revision-notes/)
 - [Statistics study guide](/resources/aqa-gcse-maths-8300-statistics/)

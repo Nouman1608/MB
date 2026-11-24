@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -185,7 +185,7 @@ D: 11%
 - Quoting results with more significant figures than the uncertainty supports.
 - Suggesting improvements to a measurement that is already precise.
 
-## Next steps
+## More on this topic
 
 - [SI units and prefixes practice questions](/resources/oxfordaqa-a-level-physics-9630-use-of-si-units-and-their-prefixes-oxfordaqa-practice/)
 - [Estimation of physical quantities practice questions](/resources/oxfordaqa-a-level-physics-9630-estimation-of-physical-quantities-oxfordaqa-practice/)

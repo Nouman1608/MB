@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -200,7 +200,7 @@ D: C₂H₆
 - Treating a C=O bond as making a compound unsaturated.
 - Saying members of a homologous series have the same physical properties.
 
-## Next steps
+## More on this topic
 
 - Review weak areas in the [formulae, functional groups and terminology study guide](/resources/cambridge-o-level-chemistry-5070-formulae-functional-groups-and-terminology/).
 - Move on to the [naming organic compounds practice questions](/resources/cambridge-o-level-chemistry-5070-naming-organic-compounds-practice/).

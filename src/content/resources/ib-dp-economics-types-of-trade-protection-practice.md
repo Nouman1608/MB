@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -175,7 +175,7 @@ Add the two triangles: the production triangle, ½ × tariff × the rise in dome
 **What are common mistakes on IB Economics trade protection diagrams?**
 Common errors include shading tariff revenue as a triangle, putting quota rent with the government without saying who holds the licences, drawing an export subsidy as a demand shift, and leaving out axes, curves, Pw or Pt.
 
-## Next steps
+## More on this topic
 
 - Revise the key methods in the [revision notes](/resources/ib-dp-economics-types-of-trade-protection-revision-notes/).
 - Reread the diagrams in the [study guide](/resources/ib-dp-economics-types-of-trade-protection/).

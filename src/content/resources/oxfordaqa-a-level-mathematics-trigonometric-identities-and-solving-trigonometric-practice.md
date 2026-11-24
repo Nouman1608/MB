@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -137,7 +137,7 @@ Round angles in degrees to 1 decimal place and radians to 3 significant figures 
 - Giving decimals when exact answers in terms of π are requested.
 - Mixing degrees and radians within one question.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/oxfordaqa-a-level-mathematics-trigonometric-identities-and-solving-trigonometric/) for any method you found slow.
 - Use the [revision notes](/resources/oxfordaqa-a-level-mathematics-trigonometric-identities-and-solving-trigonometric-revision-notes/) for a final recap.

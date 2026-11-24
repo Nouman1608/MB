@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -182,7 +182,7 @@ State it in units of the other good given up, per unit of the good gained, not i
 **Which Cambridge O Level 2281 section covers PPC diagrams?**
 Section 1.4 of the Cambridge O Level Economics 2281 syllabus covers the definition, drawing and interpretation of a PPC, points under, on and beyond it, movements along it and shifts of it.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/o-level-economics-basic-economic-problem-revision-notes/) and [study guide](/resources/the-basic-economic-problem/).
 - Visit the [course hub](/boards/cambridge/o-level/economics/) and [checklist](/checklists/cambridge/o-level/economics/).

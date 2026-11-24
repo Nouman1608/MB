@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Condensed for the final weeks. For the full explanation, use the
@@ -133,7 +133,7 @@ They offer growth opportunities but carry higher political and currency risk, so
 **Should the digital revolution be treated separately from technological factors?**
 Yes. The OCR A Level Business H431 specification treats the information age and rapid technological change as having their own opportunities and threats, so credit them separately.
 
-## Related resources
+## More resources on this topic
 
 [External Influences Facing Businesses study guide](/resources/ocr-a-level-business-external-influences/) |
 [External Influences Facing Businesses practice questions](/resources/ocr-a-level-business-external-influences-practice/)

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 These revision notes cover sections 11.02a, 11.02b and 11.02c of the OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026): sample spaces, systematic listing, the product rule, and Venn diagrams and sets. For full explanations and longer worked examples, read the [study guide](/resources/ocr-gcse-mathematics-sample-spaces-systematic-listing-product-rule-venn/). Content marked "Higher tier only" is for Higher tier candidates; everything else is for both tiers. See the [OCR GCSE Mathematics hub](/boards/ocr/gcse/mathematics/) and the [checklist](/checklists/ocr/gcse/mathematics/). To find weak areas first, try the [10-minute diagnostics](/diagnostics/).
@@ -226,7 +226,7 @@ From the table above: P(plays hockey given plays netball) = 5/12, because 5 of t
 - Using 10 × 10 × 10 × 10 when repeats are not allowed.
 - Giving set notation without saying whether x is an integer.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [practice questions](/resources/ocr-gcse-mathematics-sample-spaces-systematic-listing-product-rule-venn-practice/), and return to the [study guide](/resources/ocr-gcse-mathematics-sample-spaces-systematic-listing-product-rule-venn/) for anything unclear.
 

@@ -22,7 +22,7 @@ author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -213,7 +213,7 @@ Under alkaline conditions the first product is the carboxylate salt. Acidifying 
 **Which syllabus points does this guide cover?**
 It covers subtopics 19.1, Primary amines, and 19.2, Nitriles and hydroxynitriles, from Topic 19 of Cambridge International AS & A Level Chemistry 9701. Both are AS Level content.
 
-## Related resources
+## More resources on this topic
 
 - [Halogenoalkanes: Nucleophilic Substitution and Elimination](/resources/as-halogenoalkanes/) — the substitution reactions amines and nitriles both come from
 - [Carbonyl Compounds: Aldehydes and Ketones](/resources/as-carbonyl-compounds-aldehydes-and-ketones/) — the nucleophilic addition mechanism, in full

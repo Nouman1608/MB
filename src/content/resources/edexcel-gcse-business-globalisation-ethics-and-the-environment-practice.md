@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
-reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -128,7 +128,7 @@ These questions cover Theme 2: Building a business, topic 2.1, items 2.1.3 and 2
 - Listing marketing mix elements with no link to the pressure group.
 - Stopping at "it depends" instead of giving a reasoned judgement.
 
-## Next steps
+## More on this topic
 
 Revisit the [revision notes](/resources/edexcel-gcse-business-globalisation-ethics-and-the-environment-revision-notes/) and the [study guide](/resources/edexcel-gcse-business-globalisation-ethics-and-the-environment/), check the [hub](/boards/edexcel/gcse/business/) and [checklist](/checklists/edexcel/gcse/business/), take all free 10-minute [diagnostics](/diagnostics/), or [book a free trial class](/trial/).
 

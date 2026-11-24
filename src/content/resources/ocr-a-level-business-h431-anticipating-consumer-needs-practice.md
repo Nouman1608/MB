@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -120,7 +120,7 @@ Judgement: Larder should stay with niche marketing unless the supermarket guaran
 - Saying niche is always better for small businesses with no evidence.
 - Forgetting to multiply by the achievable share when finding expected sales.
 
-## Next steps
+## More on this topic
 
 - Move on to the [customers and consumers study guide](/resources/ocr-a-level-business-h431-customers-and-consumers/).
 - Return to the [OCR A Level Business hub](/boards/ocr/a-level/business/).

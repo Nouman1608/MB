@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -151,7 +151,7 @@ The owner is considering three options: a bank overdraft of up to £10,000 at 14
 - Recommending a long-term source for a short gap, or the reverse.
 - Evaluating each option in turn without a final judgement.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/cambridge-a-level-business-forecasting-and-managing-cash-flows-revision-notes/) and the [study guide](/resources/cambridge-a-level-business-forecasting-and-managing-cash-flows/).
 - Visit the [Cambridge A Level Business hub](/boards/cambridge/a-level/business/) and the [checklist](/checklists/cambridge/a-level/business/).

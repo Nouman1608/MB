@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -133,7 +133,7 @@ The debt is fixed in foreign currency, so when the home currency loses value, mo
 **How do you evaluate the effects of IMF loan conditions?**
 Estimate the short-run effect, such as lower output and jobs from cutting a budget deficit, then weigh it against the long-run gain in stability and confidence. Conclude by saying what the outcome depends on.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/cambridge-a-level-economics-multinationals-fdi-external-debt-the-imf-and-the-world-revision-notes/) and the [study guide](/resources/cambridge-a-level-economics-multinationals-fdi-external-debt-the-imf-and-the-world/).
 - See the [course hub](/boards/cambridge/a-level/economics/) and the [checklist](/checklists/cambridge/a-level/economics/).

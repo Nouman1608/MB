@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -160,7 +160,7 @@ A typical two-mark gas test question gives one mark for the **test** and one mar
 question usually adds the **name of the gas**. If you give only the name of the gas, you earn nothing for the
 test, so always write the full sentence.
 
-## Next steps
+## More on this topic
 
 - [Identification of common gases study guide](/resources/aqa-gcse-chemistry-8462-identification-of-common-gases/)
 - [Identification of common gases practice questions](/resources/aqa-gcse-chemistry-8462-identification-of-common-gases-practice/)

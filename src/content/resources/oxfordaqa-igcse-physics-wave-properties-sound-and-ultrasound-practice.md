@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -133,7 +133,7 @@ Links: [study guide](/resources/oxfordaqa-igcse-physics-wave-properties-sound-an
 - Giving a final answer with no unit, or with the wrong number of significant figures when one is requested.
 - Saying a pulse is "reflected" at a boundary without saying that only part of it is.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/oxfordaqa-igcse-physics-wave-properties-sound-and-ultrasound-revision-notes/).
 - Re-read the [study guide](/resources/oxfordaqa-igcse-physics-wave-properties-sound-and-ultrasound/).

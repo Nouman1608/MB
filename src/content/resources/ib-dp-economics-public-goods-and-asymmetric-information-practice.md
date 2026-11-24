@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -149,7 +149,7 @@ Sub-topic 2.9, public goods, is for SL and HL. Sub-topic 2.10, asymmetric inform
 **Where are evaluation marks in IB Economics papers?**
 According to the guide, part (b) of Paper 1 carries 15 marks including evaluation, and part (g) of Paper 2 carries 15 marks for synthesis and evaluation. Longer answers are marked against markbands, not point by point.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/ib-dp-economics-public-goods-and-asymmetric-information-revision-notes/) and the [study guide](/resources/ib-dp-economics-public-goods-and-asymmetric-information/).
 - Tick off the topic on the [printable checklist](/checklists/ib/ib-dp/economics/) and visit the [IB DP Economics hub](/boards/ib/ib-dp/economics/).

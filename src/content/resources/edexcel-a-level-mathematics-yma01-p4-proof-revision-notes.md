@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -148,7 +148,7 @@ N need not itself be prime: 2 × 3 × 5 × 7 × 11 × 13 + 1 = 30031 = 59 × 509
 
 **11.** Assume there is a greatest multiple of 5, say 5k. (The contradiction then follows because 5(k + 1) is a larger multiple of 5.)
 
-## Related resources
+## More resources on this topic
 
 - [P4 proof study guide](/resources/edexcel-a-level-mathematics-yma01-p4-proof/)
 - [P4 proof practice questions](/resources/edexcel-a-level-mathematics-yma01-p4-proof-practice/)

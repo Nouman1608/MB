@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -138,7 +138,7 @@ Unit labour costs must be compared in a common currency. A change in the exchang
 **How do you write a strong "two reasons" answer in Edexcel International A Level Economics?**
 Give two genuinely different reasons, each with a chain of reasoning to the balance or to competitiveness. Two points that are really the same reason earn credit only once.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/edexcel-ial-economics-balance-of-payments-and-international-competitiveness-revision-notes/) and the [study guide](/resources/edexcel-ial-economics-balance-of-payments-and-international-competitiveness/).
 - Course hub: [Edexcel A Level Economics](/boards/edexcel/a-level/economics/); printable [checklist](/checklists/edexcel/a-level/economics/).

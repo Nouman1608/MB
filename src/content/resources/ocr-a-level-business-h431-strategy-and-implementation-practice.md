@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -126,7 +126,7 @@ Judgement: Option 2 is the better strategy because the forecast is more reliable
 - Treating every stakeholder as affected in the same way by a change of strategy.
 - Ignoring the case figures when recommending between options.
 
-## Next steps
+## More on this topic
 
 - Revisit the [strategy and implementation study guide](/resources/ocr-a-level-business-h431-strategy-and-implementation/) for any gaps.
 - Try the [business plan practice questions](/resources/ocr-a-level-business-h431-business-plan-practice/).

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -160,7 +160,7 @@ RTS and CTS are short, so a collision on them costs little. The cost is the extr
 - For **CSMA/CA**, write numbered steps in order.
 - For **security**, name the method and say what it protects against and one weakness.
 
-## Related resources
+## More resources on this topic
 
 - [Networking revision notes](/resources/aqa-a-level-computer-science-7517-networking-revision-notes/)
 - [Networking practice questions](/resources/aqa-a-level-computer-science-7517-networking-practice/)

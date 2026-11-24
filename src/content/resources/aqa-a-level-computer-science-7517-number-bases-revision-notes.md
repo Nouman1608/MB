@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -162,7 +162,7 @@ Cover two columns and rebuild them from the third. When binary to hex gives a gr
 9. Any two: it is shorter; easier to read and remember; fewer errors when copying; each digit is exactly four bits so conversion is direct.
 10. From the last remainder to the first (bottom to top).
 
-## Related resources
+## More resources on this topic
 
 - [Number bases study guide](/resources/aqa-a-level-computer-science-7517-number-bases/)
 - [Number bases practice questions](/resources/aqa-a-level-computer-science-7517-number-bases-practice/)

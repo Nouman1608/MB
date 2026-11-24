@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -308,7 +308,7 @@ The greatest term of an expansion and properties of the binomial coefficients ar
 **Why should you check the integers either side when finding a number of terms?**
 Checking the sums for the whole numbers either side of the root confirms the inequality is the right way round and that you have the least number of terms.
 
-## Next steps
+## More on this topic
 
 Test your recall with the [Series revision notes](/resources/a-level-maths-9709-pure-mathematics-1-series-revision-notes/), then try the [Series practice questions](/resources/a-level-maths-9709-pure-mathematics-1-series-practice/). For wider Paper 1 practice, the [Pure Mathematics 1 mixed practice](/resources/a-level-mathematics-pure-1-mixed-practice/) includes binomial and progression questions alongside other topics. Earlier Paper 1 sections are covered in [Quadratics](/resources/a-level-mathematics-pure-mathematics-1-quadratics/), [Functions](/resources/a-level-mathematics-pure-mathematics-1-functions/) and [Coordinate geometry](/resources/a-level-mathematics-pure-mathematics-1-coordinate-geometry/); solving the quadratics in sections 3 to 6 above uses the skills from Quadratics.
 

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches section **3.1.9 Rate equations** of the AQA AS and A-level Chemistry specification
@@ -384,7 +384,7 @@ The rate-determining step is the slowest step in a multi-step mechanism, and it 
 **What does Required practical 7 involve in AQA A-level Chemistry 7405?**
 Required practical 7 measures the rate of reaction by an initial rate method and by a continuous monitoring method. The specification suggests finding the order for a reactant in the iodine clock reaction.
 
-## Next steps
+## More on this topic
 
 Next, use the [revision notes](/resources/aqa-a-level-chemistry-rate-equations-revision-notes/) and the
 [practice questions](/resources/aqa-a-level-chemistry-rate-equations-practice/). The

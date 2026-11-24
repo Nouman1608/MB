@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -158,7 +158,7 @@ Explain   gave Akbar authority over religious disputes but provoked
 - **Calling the Taj Mahal a palace.** It is a tomb.
 - **Listing buildings without explaining what they show** about wealth, power or cultural blending.
 
-## Related resources
+## More resources on this topic
 
 - [Mughal culture to 1658 revision notes](/resources/oxfordaqa-igcse-pakistan-studies-9236-mughal-culture-to-1658-revision-notes/)
 - [Mughal culture to 1658 practice questions](/resources/oxfordaqa-igcse-pakistan-studies-9236-mughal-culture-to-1658-practice/)

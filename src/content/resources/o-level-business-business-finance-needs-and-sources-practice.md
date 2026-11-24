@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -150,7 +150,7 @@ Tie each reason to a fact from the case, such as how long the asset will last, t
 **What does a "consider" or "justify" answer need at the end?**
 A clear decision with a reason that admits the risk on the other side. Stopping at advantages and drawbacks without a final conclusion loses marks.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/o-level-business-business-finance-needs-and-sources/) and the [revision notes](/resources/o-level-business-business-finance-needs-and-sources-revision-notes/).
 - Check your coverage on the [printable checklist](/checklists/cambridge/o-level/business/) and the [course hub](/boards/cambridge/o-level/business/).

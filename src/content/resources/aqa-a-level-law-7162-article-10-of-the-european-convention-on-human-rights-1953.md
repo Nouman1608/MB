@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -187,7 +187,7 @@ Next stage:      Apply Article 10.2 to see whether either order is justified.
 - **Discuss**: evaluate whether English law protects expression adequately, using common law cases and
   section 12.
 
-## Related resources
+## More resources on this topic
 
 [Article 10 revision notes](/resources/aqa-a-level-law-7162-article-10-of-the-european-convention-on-human-rights-1953-revision-notes/) |
 [Article 10 practice questions](/resources/aqa-a-level-law-7162-article-10-of-the-european-convention-on-human-rights-1953-practice/) |

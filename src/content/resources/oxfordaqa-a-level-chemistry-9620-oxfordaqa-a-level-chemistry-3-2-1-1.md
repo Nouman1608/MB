@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -131,6 +131,6 @@ Period 3 has no d block because the 3d sub-shell is not filled until after 4s, i
 - **"Deduce the position"**: write the full configuration first; the outer shell number gives the period and, for s and p blocks, the number of outer electrons gives the group.
 - **"Write the electron configuration"**: either full or [Ar] shorthand is accepted unless the question says otherwise, but give sub-shells in a consistent order.
 
-## Next steps
+## More on this topic
 
 Condense this with the [classification revision notes](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-2-1-1-revision-notes/), then test yourself with the [classification practice questions](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-2-1-1-practice/). The next point, [physical properties of Period 3 elements](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-2-1-2/), uses these configurations to explain trends in radius, ionisation energy and melting point.

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -189,7 +189,7 @@ Stuck? Use the [How fast? study guide](/resources/ocr-a-level-chemistry-how-fast
 - A slow step containing a zero-order reactant.
 - Using T in °C, or kJ inside Ea/RT.
 
-## Next steps
+## More on this topic
 
 - Recap the methods in the [How fast? revision notes](/resources/ocr-a-level-chemistry-how-fast-revision-notes/).
 - Reread the worked examples in the [How fast? study guide](/resources/ocr-a-level-chemistry-how-fast/).

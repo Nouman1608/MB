@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -167,7 +167,7 @@ A test that fails is traced back to its cause: code, design or the original requ
 11. Early and frequent user feedback (or working pieces delivered regularly).
 12. No. It can only show the presence of errors.
 
-## Next steps
+## More on this topic
 
 - [Aspects of software development study guide](/resources/oxfordaqa-a-level-computer-science-9645-aspects-software-development/)
 - [Aspects of software development practice questions](/resources/oxfordaqa-a-level-computer-science-9645-aspects-software-development-practice/)

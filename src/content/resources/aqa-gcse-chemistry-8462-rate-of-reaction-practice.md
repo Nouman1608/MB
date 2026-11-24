@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -140,7 +140,7 @@ Relative atomic mass: Mg = 24.
 - Forgetting to convert mass to moles in mol/s calculations.
 - Saying a faster reaction gives more product.
 
-## Next steps
+## More on this topic
 
 - Recap with the [rate of reaction revision notes](/resources/aqa-gcse-chemistry-8462-rate-of-reaction-revision-notes/).
 - Reread any weak area in the [rate of reaction study guide](/resources/aqa-gcse-chemistry-8462-rate-of-reaction/).

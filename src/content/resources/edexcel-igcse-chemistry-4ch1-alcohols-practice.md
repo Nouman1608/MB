@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -128,6 +128,6 @@ These questions cover sub-topic 4(e) Alcohols of the Pearson Edexcel Internation
 - Giving hydration conditions without the catalyst, temperature or pressure.
 - Drawing the alcohol group as C-H-O.
 
-## Next steps
+## More on this topic
 
 Review the [alcohols study guide](/resources/edexcel-igcse-chemistry-4ch1-alcohols/) for any slips, then continue with the [carboxylic acids study guide](/resources/edexcel-igcse-chemistry-4ch1-carboxylic-acids/).

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -114,7 +114,7 @@ These questions cover **sections 3.2.3.1 Fiscal policy and 3.2.3.2 Monetary poli
 
 **How should I structure a 9-mark evaluate question?** Explain how each policy would work, using the data in the question, give at least one limitation of each, and finish with a justified judgement that answers the question set.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/aqa-gcse-economics-fiscal-and-monetary-policy-revision-notes/) and re-read the [study guide](/resources/aqa-gcse-economics-fiscal-and-monetary-policy/).
 - Check coverage on the [checklist](/checklists/aqa/gcse/economics/) and see the [AQA GCSE Economics hub](/boards/aqa/gcse/economics/).

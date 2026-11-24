@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -124,7 +124,7 @@ These questions cover sections 3.2.3.3 (Supply-side policies) and 3.2.3.4 (Polic
 - Not using the context in the question.
 - Calling any harm an externality when it falls on the buyer or seller.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/oxfordaqa-igcse-economics-supply-side-policies-and-correcting-externalities-revision-notes/) and the [study guide](/resources/oxfordaqa-igcse-economics-supply-side-policies-and-correcting-externalities/).
 - Open the [course hub](/boards/oxfordaqa/igcse/economics/) and [checklist](/checklists/oxfordaqa/igcse/economics/).

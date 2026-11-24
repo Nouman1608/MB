@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -128,7 +128,7 @@ These questions cover section 3.4.2 Materials (3.4.2.1 Bulk properties of solids
 - Describing the unloading line of a plastically deformed wire as retracing the loading curve.
 - Explaining crumple zones without mentioning energy absorbed by plastic deformation.
 
-## Next steps
+## More on this topic
 
 Review the [Materials study guide](/resources/aqa-a-level-physics-7408-materials/), then mix topics with the [Mechanics and materials practice questions](/resources/aqa-a-level-physics-mechanics-and-materials-practice/). The mechanics half of section 3.4 is practised in the [force, energy and momentum practice questions](/resources/aqa-a-level-physics-7408-force-energy-and-momentum-practice/).
 

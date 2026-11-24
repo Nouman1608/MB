@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -134,7 +134,7 @@ In Milgram's (1963) baseline study, 40 men from the New Haven area were told the
 - Describing locus of control without linking it to resistance.
 - Evaluating studies only on ethics, ignoring validity and generalisation.
 
-## Related resources
+## More resources on this topic
 
 - [Social psychology revision notes](/resources/oxfordaqa-a-level-psychology-9685-social-psychology-revision-notes/)
 - [Social psychology practice questions](/resources/oxfordaqa-a-level-psychology-9685-social-psychology-practice/)

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -230,7 +230,7 @@ E(aX + b) = aE(X) + b and Var(aX + b) = a² Var(X). Adding a constant shifts the
 **Which part of Edexcel IAL Maths covers discrete random variables?**
 Discrete random variables are section 5 of Unit S1 in Pearson Edexcel International A Level Mathematics (YMA01), including probability functions, cumulative distribution functions, expectation, variance and the discrete uniform distribution.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/edexcel-ial-mathematics-discrete-random-variables-probability-functions/) for any topic you found hard.
 - Use the [revision notes](/resources/edexcel-ial-mathematics-discrete-random-variables-probability-functions-revision-notes/) as a last check.

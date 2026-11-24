@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -153,7 +153,7 @@ Reject it and say why: sec θ is always at most −1 or at least 1, so sec θ = 
 **How should you set out a trigonometric proof in OCR A Level Mathematics?**
 Start from one side and work step by step until you reach the other side, showing the line that reaches the target. Starting from both sides at once is a common way to lose marks.
 
-## Next steps
+## More on this topic
 
 - Revise from the [revision notes](/resources/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities-revision-notes/).
 - Re-read the [study guide](/resources/ocr-a-level-mathematics-reciprocal-and-inverse-trig-functions-identities/).

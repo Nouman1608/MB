@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -128,7 +128,7 @@ These questions cover section 8.2 (Equity and redistribution of income and wealt
 - Ignoring administration costs and take-up when comparing benefits.
 - Ending an evaluation with a summary and no reasoned judgement.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/cambridge-a-level-economics-equity-equality-poverty-and-redistribution-policies-revision-notes/).
 - Re-read the [study guide](/resources/cambridge-a-level-economics-equity-equality-poverty-and-redistribution-policies/).

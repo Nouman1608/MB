@@ -21,7 +21,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-07-01
 updatedDate: 2026-08-18
 featured: false
@@ -284,7 +284,7 @@ Near the Earth's surface, the acceleration of free fall, g, is approximately 9.8
 **Is Cambridge O Level Physics 5054 tiered?**
 No. O Level Physics 5054 is not tiered, so every candidate covers all of the kinematics outcomes. IGCSE Physics 0625 covers the same topic but is tiered Core and Extended.
 
-## Related resources
+## More resources on this topic
 
 - [Measurement, Mass, Weight and Density](/resources/measurement-mass-weight-and-density/) — the rest of subtopic 1.1, plus 1.3 and 1.4
 - [Forces and Motion](/resources/forces-and-motion/) — Newton's laws and

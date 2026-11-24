@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -143,7 +143,7 @@ Seawater boiling at a temperature above 100 °C is the matching boiling-point ex
 - **Suggest:** identify the states and properties from the data, then match a method.
 - **Assess purity:** compare with the data value and comment on sharpness.
 
-## Related resources
+## More resources on this topic
 
 - [Separation and purification revision notes](/resources/cambridge-igcse-chemistry-0620-separation-and-purification-revision-notes/) – condensed recall and self-test
 - [Separation and purification practice questions](/resources/cambridge-igcse-chemistry-0620-separation-and-purification-practice/) – original exam-style questions with answers

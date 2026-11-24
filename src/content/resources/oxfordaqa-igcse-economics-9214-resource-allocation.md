@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -178,7 +178,7 @@ Evaluation: the island may still be right to specialise if it has natural advant
 - Placing a restaurant or a shop in the secondary sector.
 - Listing benefits of specialisation without explaining why it creates the need to exchange.
 
-## Next steps
+## More on this topic
 
 Condense this page with the [resource allocation revision notes](/resources/oxfordaqa-igcse-economics-9214-resource-allocation-revision-notes/), then test yourself with the [resource allocation practice questions](/resources/oxfordaqa-igcse-economics-9214-resource-allocation-practice/). The section before this one is in the [economic foundations study guide](/resources/oxfordaqa-igcse-economics-9214-economic-foundations/).
 

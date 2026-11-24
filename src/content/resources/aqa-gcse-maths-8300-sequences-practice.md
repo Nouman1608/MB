@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -188,7 +188,7 @@ Using the first term as the coefficient of n. The coefficient of n is the common
 **Which references cover sequences in AQA GCSE Maths 8300?**
 Section 3.2.4 Sequences covers A23 (generating terms), A24 (recognising special sequences) and A25 (nth terms of linear sequences, and of quadratic sequences at Higher tier).
 
-## Next steps
+## More on this topic
 
 - [Sequences revision notes](/resources/aqa-gcse-maths-8300-sequences-revision-notes/)
 - [Sequences study guide](/resources/aqa-gcse-maths-8300-sequences/)

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -265,7 +265,7 @@ Petrol other = 75 − 27 − 26 = 22 and all totals correct [1]
 - Taking a percentage or fraction of the grand total instead of the group named.
 - Leaving total cells blank when asked to complete a two-way table.
 
-## Next steps
+## More on this topic
 
 - Re-read the method in the [classifying statistical data study guide](/resources/cambridge-igcse-mathematics-0580-classifying-statistical-data/).
 - Move on to reading and comparing tables with the [interpreting statistical data practice questions](/resources/cambridge-igcse-mathematics-0580-interpreting-statistical-data-practice/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -218,7 +218,7 @@ No. Dividing by x loses the solution x = 0. Rearrange to x² − 7x = 0 and fact
 **What should you do with a negative solution in a context question?**
 Reject it with a reason if the quantity cannot be negative, such as a length, width or speed, and then answer what the question actually asks, such as a perimeter, cost or time.
 
-## Next steps
+## More on this topic
 
 - Go back over any weak method in the [quadratic equations revision notes](/resources/edexcel-igcse-maths-4ma1-quadratic-equations-revision-notes/).
 - Re-read the full explanations in the [quadratic equations study guide](/resources/edexcel-igcse-maths-4ma1-quadratic-equations/).

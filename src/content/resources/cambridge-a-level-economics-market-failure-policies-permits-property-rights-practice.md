@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -146,7 +146,7 @@ These questions cover part of section 8.1.1 and all of 8.1.2 of the Cambridge In
 - Calling any bad outcome government failure without a comparison with a more efficient outcome.
 - Evaluation that is generic rather than tied to the context.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/cambridge-a-level-economics-market-failure-policies-permits-property-rights-revision-notes/) and the [study guide](/resources/cambridge-a-level-economics-market-failure-policies-permits-property-rights/).
 - Visit the [course hub](/boards/cambridge/a-level/economics/) and the [checklist](/checklists/cambridge/a-level/economics/).

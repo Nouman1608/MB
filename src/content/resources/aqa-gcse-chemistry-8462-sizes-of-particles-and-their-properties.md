@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -205,7 +205,7 @@ Y: 1.5 x 10^-6 m = 1500 nm, between 100 and 2500 nm -> fine particle (PM2.5)
   smaller amounts are needed.
 - **Convert units carefully:** write 1 nm = 1 × 10⁻⁹ m beside the working.
 
-## Next steps
+## More on this topic
 
 - [Sizes of particles and their properties revision notes](/resources/aqa-gcse-chemistry-8462-sizes-of-particles-and-their-properties-revision-notes/)
 - [Sizes of particles and their properties practice questions](/resources/aqa-gcse-chemistry-8462-sizes-of-particles-and-their-properties-practice/)

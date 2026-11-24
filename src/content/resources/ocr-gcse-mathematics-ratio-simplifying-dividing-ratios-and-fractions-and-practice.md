@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -143,7 +143,7 @@ These questions cover section 5.01, Calculations with ratio, from the OCR GCSE (
 - Stopping before the answer is in its simplest form.
 - Skipping a quick sum check when shares are found.
 
-## Next steps
+## More on this topic
 
 - Go back to the [study guide](/resources/ocr-gcse-mathematics-ratio-simplifying-dividing-ratios-and-fractions-and/) for the explanations.
 - Use the [revision notes](/resources/ocr-gcse-mathematics-ratio-simplifying-dividing-ratios-and-fractions-and-revision-notes/) for the method boxes and self-test.

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -160,7 +160,7 @@ Identify **two** errors in this statement and correct each one. **[4]**
 - (Extended) Oxygen-debt answers that leave out the liver.
 - Explaining the oil layer as "keeping the yeast warm" instead of keeping oxygen out.
 
-## Next steps
+## More on this topic
 
 - Re-read the [anaerobic respiration study guide](/resources/cambridge-igcse-biology-0610-anaerobic-respiration/) for any question you found hard.
 - Go back to the [aerobic respiration practice questions](/resources/cambridge-igcse-biology-0610-aerobic-respiration-practice/).

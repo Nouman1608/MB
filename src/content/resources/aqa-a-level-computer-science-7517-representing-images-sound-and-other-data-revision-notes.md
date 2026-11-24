@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -152,7 +152,7 @@ Condensed recall for **4.5.6 Representing images, sound and other data**, AQA A-
 9. Only 25 shifts, and letter frequencies are kept.
 10. The key is random, as long as the message and used once, so the ciphertext gives no information about the plaintext.
 
-## Related resources
+## More resources on this topic
 
 - [Representing images, sound and other data study guide](/resources/aqa-a-level-computer-science-7517-representing-images-sound-and-other-data/)
 - [Representing images, sound and other data practice questions](/resources/aqa-a-level-computer-science-7517-representing-images-sound-and-other-data-practice/)

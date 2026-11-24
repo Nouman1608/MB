@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -123,7 +123,7 @@ Related: the [Internal and external communication study guide](/resources/cambri
 - Giving a recommendation without explaining why the alternative is weaker.
 - Defining communication as just "sending a message".
 
-## Next steps
+## More on this topic
 
 Revisit the seven factors in the [Internal and external communication study guide](/resources/cambridge-o-level-business-7115-internal-and-external-communication/), then move on to Topic 3 with the [Marketing, competition and the customer practice questions](/resources/cambridge-o-level-business-7115-marketing-competition-and-the-customer-practice/).
 

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -128,7 +128,7 @@ Example: V = 1.20 V at 0.30 A and 0.75 V at 0.75 A gives r = 0.45 ÷ 0.45 = 1.0 
 
 **Answers:** 1. Energy transferred per unit charge by a source in driving charge round a complete circuit. 2. E.m.f.: energy converted from other forms to electrical energy per unit charge; p.d.: energy converted from electrical energy to other forms per unit charge. 3. Equal to the e.m.f. 4. I = 9.0 ÷ 1.5 = 6.0 A. 5. P = I²r = 6.0² × 1.5 = 54 W. 6. 12 V and 0.60 Ω. 7. So that it can supply very large currents with only a small Ir, keeping the terminal p.d. high. 8. To limit the maximum current to a safe value. 9. ε = 1.58 V, r = 0.80 Ω. 10. It falls: the current increases, so Ir increases and V = ε − Ir decreases. 11. V = 6.0 + 2.0 × 0.50 = 7.0 V. 12. The lamp is short-circuited by the low-resistance ammeter, so almost no current passes through it and it does not light.
 
-## Related resources
+## More resources on this topic
 
 - [D.C. circuits revision notes](/resources/as-physics-dc-circuits-revision-notes/) — the whole of Topic 10
 - [Kirchhoff's laws revision notes](/resources/cambridge-a-level-physics-9702-as-kirchhoffs-laws-revision-notes/) — subtopic 10.2

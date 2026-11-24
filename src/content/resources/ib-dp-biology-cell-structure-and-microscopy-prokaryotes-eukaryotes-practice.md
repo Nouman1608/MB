@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -190,7 +190,7 @@ Explain what the table shows about differentiation, and suggest what gene 3 migh
 - Not linking evidence to a conclusion in endosymbiosis answers (HL only).
 - Saying differentiated cells have lost genes.
 
-## Next steps
+## More on this topic
 
 - [Revision notes for this unit](/resources/ib-dp-biology-cell-structure-and-microscopy-prokaryotes-eukaryotes-revision-notes/)
 - [Study guide for this unit](/resources/ib-dp-biology-cell-structure-and-microscopy-prokaryotes-eukaryotes/)

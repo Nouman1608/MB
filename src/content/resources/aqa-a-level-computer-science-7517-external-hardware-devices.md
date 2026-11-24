@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -170,7 +170,7 @@ When asked to **make a judgement**, name the application's priority (capacity, s
 - For **comparison**, use a feature for each device in the same sentence.
 - For **calculations**, show the unit conversions and round the right way (up for disks needed, down for files that fit).
 
-## Related resources
+## More resources on this topic
 
 - [External hardware devices revision notes](/resources/aqa-a-level-computer-science-7517-external-hardware-devices-revision-notes/)
 - [External hardware devices practice questions](/resources/aqa-a-level-computer-science-7517-external-hardware-devices-practice/)

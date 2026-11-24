@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches sub-topic 2(i), **Excretion** (specification points 2.70–2.79), of the Pearson Edexcel International GCSE Biology (4BI1) specification, Issue 3. The qualification is untiered. Points 2.70 and 2.71 can be examined on either paper. Points 2.72B–2.79B are bold with a **B** reference, so they are **Paper 2 only**. It applies to the June and November series examined under Issue 3.
@@ -303,7 +303,7 @@ To answer a "how does the kidney..." question, use this order: ultrafiltration i
 - Writing "ADH makes the kidney reabsorb more water" without naming the collecting duct and its permeability.
 - Saying more ADH makes more urine. More ADH means **less**, more concentrated urine.
 
-## Next steps
+## More on this topic
 
 Go on to the [excretion revision notes](/resources/edexcel-igcse-biology-4bi1-excretion-revision-notes/) and [practice questions](/resources/edexcel-igcse-biology-4bi1-excretion-practice/). For more of Topic 2, see the [cell structure revision notes](/resources/edexcel-igcse-biology-cell-structure-revision-notes/) and [cell structure practice](/resources/edexcel-igcse-biology-cell-structure-practice/). Find your weaker topics with the free [diagnostics](/diagnostics/).
 

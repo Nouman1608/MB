@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -155,6 +155,6 @@ Optional local-context content (for example polygamy or same-sex marriage) is no
 
 **Answers:** 1. A family is linked by kinship, marriage or adoption; a household is anyone sharing a home, related or not. 2. A family with several generations alive but few members in each generation, long and thin like a beanpole. 3. Horizontal extension adds relatives of the same generation; vertical extension adds generations such as grandparents. 4. Strength: can remove children from a conflict-ridden or abusive relationship; limitation: one income makes poverty more likely. 5. Relatives who live apart but keep regular contact and give support. 6. Close-knit working-class extended families, with mothers and married daughters in daily contact. 7. Organisational, cultural, class, life course and cohort. 8. It believes the two-parent married family socialises children best, so other types are linked to poor socialisation and dysfunction. 9. They see it as evidence that people can choose relationships that suit them. 10. Chester's term for the nuclear family in which both partners do paid work. 11. Any two: later marriage, divorce, widowhood in an ageing population, women's financial independence. 12. Serial monogamy is a sequence of marriages one at a time; an empty shell marriage continues without emotional content.
 
-## Next steps
+## More on this topic
 
 Apply these notes in the [key question 4.1 practice questions](/resources/cambridge-igcse-sociology-0495-kq-4-1-practice/), or revise the whole Paper 2 with the [family, education and crime revision notes](/resources/sociology-family-education-crime-revision-notes/).

@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -165,6 +165,6 @@ Points to evaluate: the water bath must hold the temperature constant, because k
 - **"Calculate k"**: give units, worked from the overall order.
 - **"Explain what the rate equation shows about the mechanism"**: say which species are in the rate-determining step and how many of each.
 
-## Next steps
+## More on this topic
 
 Condense this with the [determination of rate equation revision notes](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-11-2-revision-notes/), then try the [determination of rate equation practice questions](/resources/oxfordaqa-a-level-chemistry-9620-oxfordaqa-a-level-chemistry-3-1-11-2-practice/).

@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-15
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09; 2026-11-15: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09; 2026-11-15: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches the foundation unit of IB Diploma Programme Environmental Systems and Societies (ESS), aligned to the International Baccalaureate Organization *Diploma Programme Subject Brief, Environmental systems and societies*, first assessment 2026. It covers syllabus sections 1.1 Perspectives, 1.2 Systems and 1.3 Sustainability. The foundation unit is the starting point for both SL and HL, so everything here applies to both levels. It follows the IB ESS subject brief for first assessment 2026 — the course examined in the May and November 2026, 2027 and 2028 sessions.
@@ -263,7 +263,7 @@ An EIA is carried out before a major development is approved. The usual stages: 
 - Leaving units off footprint answers (gha, gha per person, t CO₂e).
 - Naming an EVS without quoting evidence from the scenario.
 
-## Next steps
+## More on this topic
 
 Test yourself with the [practice questions](/resources/ib-dp-ess-foundation-perspectives-systems-sustainability-practice/), then use the [revision notes](/resources/ib-dp-ess-foundation-perspectives-systems-sustainability-revision-notes/) in the final weeks. For the exam papers, read the [exam preparation guide](/resources/ib-dp-environmental-systems-and-societies-exam-preparation/) and the [syllabus guide](/resources/ib-dp-environmental-systems-and-societies-syllabus-guide/). Topic 2 follows in the [Ecology study guide](/resources/ib-dp-ess-topic-2-ecology/).
 

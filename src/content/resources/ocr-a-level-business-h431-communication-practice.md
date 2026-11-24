@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -111,7 +111,7 @@ The group's objective (a comfortable workload) differs from the company's (more 
 - Writing about communication in general terms with no case detail.
 - Ignoring the cost of poor communication.
 
-## Next steps
+## More on this topic
 
 - Revisit the [communication study guide](/resources/ocr-a-level-business-h431-communication/) for any gaps.
 - Return to the [OCR A Level Business hub](/boards/ocr/a-level/business/).

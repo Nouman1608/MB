@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -154,7 +154,7 @@ Related: the [3.3 study guide](/resources/cambridge-a-level-mathematics-9709-tri
 - Proofs that work on both sides or start from the result.
 - Choosing the wrong root in an exact-value question without justifying it.
 
-## Next steps
+## More on this topic
 
 - [3.3 study guide](/resources/cambridge-a-level-mathematics-9709-trigonometry-3/)
 - [3.3 revision notes](/resources/cambridge-a-level-mathematics-9709-trigonometry-3-revision-notes/)

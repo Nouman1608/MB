@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -182,7 +182,7 @@ Use your knowledge of resistance to social influence to explain why Jo resisted 
 - Naming an ethical issue without linking it to the study.
 - Leaving out a final judgement in 8- and 16-mark answers.
 
-## Next steps
+## More on this topic
 
 Check your answers against the [social influence study guide](/resources/aqa-a-level-psychology-7182-social-influence/) and revise weak areas with the [social influence revision notes](/resources/aqa-a-level-psychology-7182-social-influence-revision-notes/). Practise the design and ethics points behind these studies with the [research methods practice questions](/resources/aqa-a-level-psychology-7182-research-methods-practice/).
 

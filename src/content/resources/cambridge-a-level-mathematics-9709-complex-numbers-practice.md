@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -134,7 +134,7 @@ Related: the [3.9 study guide](/resources/cambridge-a-level-mathematics-9709-com
 - Shading the wrong side of a perpendicular bisector.
 - Giving an argument outside the required range after adding arguments.
 
-## Next steps
+## More on this topic
 
 - [3.9 study guide](/resources/cambridge-a-level-mathematics-9709-complex-numbers/)
 - [3.9 revision notes](/resources/cambridge-a-level-mathematics-9709-complex-numbers-revision-notes/)

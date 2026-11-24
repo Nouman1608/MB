@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -137,7 +137,7 @@ No. Its importance depends on its size, its cause and how long it lasts. A defic
 **How do you work out a percentage change in exports?**
 Subtract the old value from the new value, divide by the old value and multiply by 100. Using the new value as the base is a common error.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ocr-gcse-economics-why-countries-trade-free-trade-agreements-and-the-revision-notes/) and the [study guide](/resources/ocr-gcse-economics-why-countries-trade-free-trade-agreements-and-the/).
 - Go to the [OCR GCSE Economics course page](/boards/ocr/gcse/economics/) and tick off the [checklist](/checklists/ocr/gcse/economics/).

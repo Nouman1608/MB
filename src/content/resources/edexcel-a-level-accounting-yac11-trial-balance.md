@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "javaid-iqbal-sabri"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -173,7 +173,7 @@ The second sentence earns the mark for *explain* because it shows the consequenc
 - **Explain** (a limitation): the point and its consequence, as in the model answer.
 - **Evaluate** (the usefulness of a trial balance): give what it achieves and what it cannot reveal, and finish with a judgement, for example that it is a useful first check but must be supported by control accounts and review of postings.
 
-## Related resources
+## More resources on this topic
 
 [Trial balance revision notes](/resources/edexcel-a-level-accounting-yac11-trial-balance-revision-notes/) |
 [Trial balance practice questions](/resources/edexcel-a-level-accounting-yac11-trial-balance-practice/) |

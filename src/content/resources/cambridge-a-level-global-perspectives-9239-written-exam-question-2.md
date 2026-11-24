@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -160,7 +160,7 @@ Notice what the model does not do. It does not dismiss the dentist as "biased" w
 - **Using the wrong source.** Check which document the question names.
 - **No verdict.** Ending with a summary of points rather than a judgement on the evidence as a whole.
 
-## Next steps
+## More on this topic
 
 Condense the method with the [Question 2 revision notes](/resources/cambridge-a-level-global-perspectives-9239-written-exam-question-2-revision-notes/) and practise it with the [Question 2 practice questions](/resources/cambridge-a-level-global-perspectives-9239-written-exam-question-2-practice/). For the other questions on the paper, see [Question 1: short answers on two sources](/resources/cambridge-a-level-global-perspectives-9239-written-exam-question-1/) and [Question 3: comparing arguments and perspectives](/resources/cambridge-a-level-global-perspectives-9239-written-exam-question-3/).
 

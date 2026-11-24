@@ -25,7 +25,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by iftikhar-azeemi on 2026-09-29; 2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-24
 updatedDate: 2026-09-27
 featured: false
@@ -179,7 +179,7 @@ Explain that particles collide with the container walls and exert a force on the
 **How are these IGCSE Physics thermal answers marked?**
 Each answer shows where the marks go, with a [1] after every creditworthy point. The questions follow Topic 2, Thermal physics, of the Cambridge IGCSE Physics 0625 syllabus for 2026–2028.
 
-## Next steps
+## More on this topic
 
 - [IGCSE Physics thermal physics study guide](/resources/igcse-physics-thermal-physics/) and [revision notes](/resources/igcse-physics-thermal-physics-revision-notes/).
 - [IGCSE Physics thermal physics practice questions](/resources/igcse-physics-thermal-physics-practice/) for more questions on the whole topic.

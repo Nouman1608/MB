@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -137,7 +137,7 @@ These questions cover section 3.4.3.2, Factors that affect economic development,
 - Writing about growth when the question asks about development.
 - Leaving the evaluation until a one-line final sentence.
 
-## Next steps
+## More on this topic
 
 - Read the [revision notes](/resources/oxfordaqa-a-level-economics-factors-that-affect-economic-development-revision-notes/) and the [study guide](/resources/oxfordaqa-a-level-economics-factors-that-affect-economic-development/).
 - Open the [OxfordAQA Economics hub](/boards/oxfordaqa/a-level/economics/) and the [checklist](/checklists/oxfordaqa/a-level/economics/).

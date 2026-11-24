@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -148,7 +148,7 @@ Say which party knows more, for example that the seller knows more about a used 
 **What is a common mistake with default, restricted and mandated choice?**
 Mixing them up. A default applies unless the person acts, restricted choice limits the options, and mandated choice requires people to decide.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/aqa-a-level-economics-rational-choice-information-problems-behavioural-revision-notes/) or the [study guide](/resources/aqa-a-level-economics-rational-choice-information-problems-behavioural/).
 - Go to the [AQA A-level Economics hub](/boards/aqa/a-level/economics/) and the [checklist](/checklists/aqa/a-level/economics/).

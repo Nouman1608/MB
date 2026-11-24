@@ -32,6 +32,7 @@ publishedDate: 2026-09-29
 featured: false
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
+reviewNote: "2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 reviewedDate: 2026-10-09
 ---
 
@@ -180,7 +181,7 @@ Revise first with the [study guide for this unit](/resources/a-level-geography-9
 - Using a whole country for the tourist-area case study, or giving no dates or figures.
 - Writing essays with no judgement; evaluation carries 40% of Paper 4.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide for this unit](/resources/a-level-geography-9696-global-interdependence/) for any question you found hard.
 - Try a full timed essay: 20 marks in about 30 minutes, as the Paper 4 format requires one essay per option.

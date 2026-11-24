@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -147,7 +147,7 @@ Judgement [1]: for example, the takeover is worthwhile only if the loan repaymen
 - Using general points that do not refer to the named business.
 - Finishing an evaluate answer without a judgement or the condition it depends on.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/aqa-gcse-business-expanding-a-business-revision-notes/) and the [study guide](/resources/aqa-gcse-business-expanding-a-business/).
 - Go to the [AQA GCSE Business hub](/boards/aqa/gcse/business/) and the [printable checklist](/checklists/aqa/gcse/business/).

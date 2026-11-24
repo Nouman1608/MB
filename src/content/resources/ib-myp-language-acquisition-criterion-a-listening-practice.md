@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -178,7 +178,7 @@ Real MYP work is judged against criterion level descriptors with achievement lev
 **How do you answer an audience and purpose question in a listening task?**
 Give separate evidence for the audience and for the purpose, drawing on register, content, visuals and how the text ends. A one-word answer such as "teenagers" with no evidence earns little.
 
-## Next steps
+## More on this topic
 
 - [Criterion A revision notes](/resources/ib-myp-language-acquisition-criterion-a-listening-revision-notes/)
 - [Criterion A study guide](/resources/ib-myp-language-acquisition-criterion-a-listening/)

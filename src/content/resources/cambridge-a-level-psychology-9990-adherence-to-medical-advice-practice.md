@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "kanwal-aslam"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -152,6 +152,6 @@ Related: [Adherence study guide](/resources/cambridge-a-level-psychology-9990-ad
 - In question 6(a), naming parts of the model without linking them to Mr Diallo.
 - In question 7(a), giving the figure without the percentage sign.
 
-## Next steps
+## More on this topic
 
 Review any weak area in the [adherence study guide](/resources/cambridge-a-level-psychology-9990-adherence-to-medical-advice/), then try the mixed [Health Psychology practice questions](/resources/a-level-psychology-health-psychology-practice/).

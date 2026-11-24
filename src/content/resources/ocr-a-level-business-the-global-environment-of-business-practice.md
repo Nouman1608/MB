@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -138,7 +138,7 @@ The global environment content of OCR A Level Business (H431) includes globalisa
 **What support can a business get when trading internationally?**
 Financial support includes export credit insurance or guarantees, bank trade finance such as letters of credit, and government grants where offered. Non-financial support includes official advice and market data, trade fairs and delegations, business associations, and agents and distributors.
 
-## Next steps
+## More on this topic
 
 - Read the [study guide](/resources/ocr-a-level-business-the-global-environment-of-business/) and [revision notes](/resources/ocr-a-level-business-the-global-environment-of-business-revision-notes/).
 - Visit the [OCR A Level Business hub](/boards/ocr/a-level/business/) and the [printable checklist](/checklists/ocr/a-level/business/).

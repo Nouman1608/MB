@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -172,7 +172,7 @@ Evaluate the two vans. Give a conclusion. **[6]**
 - In evaluations, writing about only one option, or giving a conclusion that ignores the data provided.
 - In bond energy questions, miscounting O–H bonds in 2H₂O, or subtracting the wrong way round.
 
-## Next steps
+## More on this topic
 
 - [Revision notes](/resources/oxfordaqa-igcse-chemistry-chemical-cells-and-fuel-cells-revision-notes/) for a fast recap and self-test.
 - [Study guide](/resources/oxfordaqa-igcse-chemistry-chemical-cells-and-fuel-cells/) for full explanations and worked examples.

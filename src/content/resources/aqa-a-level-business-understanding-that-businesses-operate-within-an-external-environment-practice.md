@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -145,7 +145,7 @@ Recommendation: switch only if a trial or customer research shows buyers will ac
 - Treating fair trade or recyclable materials as only a cost.
 - Listing effects without comparing their size, or giving a judgement with no condition.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/aqa-a-level-business-understanding-that-businesses-operate-within-an-external-environment-revision-notes/) and the [study guide](/resources/aqa-a-level-business-understanding-that-businesses-operate-within-an-external-environment/).
 - Go to the [AQA A-level Business hub](/boards/aqa/a-level/business/) and the [checklist](/checklists/aqa/a-level/business/).

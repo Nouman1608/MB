@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -122,7 +122,7 @@ The flood is the most expensive event but the least likely. The IT failure has t
 
 For **explain** and **analyse** questions, name the factor (for example culture or size) and trace its effect on the change: "the business has a strong role culture, so staff are used to rules and may resist a new, flexible way of working, which would slow the change". For **discuss** and **assess** questions, weigh different approaches (rapid or gradual change, communication or incentives) and make a judgement that depends on the business's situation, such as urgency, size and relationships with staff.
 
-## Related resources
+## More resources on this topic
 
 - [Managing change revision notes](/resources/edexcel-a-level-business-ybs11-managing-change-revision-notes/)
 - [Managing change practice questions](/resources/edexcel-a-level-business-ybs11-managing-change-practice/)

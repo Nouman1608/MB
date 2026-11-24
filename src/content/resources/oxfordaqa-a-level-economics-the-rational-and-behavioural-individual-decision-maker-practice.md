@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -145,7 +145,7 @@ The questions cover sections 3.3.1.1 and 3.3.1.2 of OxfordAQA's economics specif
 - Treating a nudge as a ban or a tax.
 - Listing points in an evaluation with no judgement at the end.
 
-## Next steps
+## More on this topic
 
 - Revisit the [revision notes](/resources/oxfordaqa-a-level-economics-the-rational-and-behavioural-individual-decision-maker-revision-notes/) and the [study guide](/resources/oxfordaqa-a-level-economics-the-rational-and-behavioural-individual-decision-maker/).
 - Return to the [OxfordAQA Economics hub](/boards/oxfordaqa/a-level/economics/) and the [checklist](/checklists/oxfordaqa/a-level/economics/).

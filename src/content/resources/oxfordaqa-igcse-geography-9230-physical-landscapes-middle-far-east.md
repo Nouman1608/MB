@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the specification gives only 'an overview of the location of major upland/lowland areas and river systems' and does not define the Middle and Far East. Check the region boundaries used, and the approximate heights and river lengths (Everest 8849 m, Damavand about 5610 m, Fuji 3776 m, Yangtze about 6300 km, Yellow River about 5460 km, Mekong about 4350 km, Tigris about 1850 km, Euphrates about 2800 km) against your atlas and class notes."
+reviewNote: "2026-11-20: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-20: the specification gives only 'an overview of the location of major upland/lowland areas and river systems' and does not define the Middle and Far East. Check the region boundaries used, and the approximate heights and river lengths (Everest 8849 m, Damavand about 5610 m, Fuji 3776 m, Yangtze about 6300 km, Yellow River about 5460 km, Mekong about 4350 km, Tigris about 1850 km, Euphrates about 2800 km) against your atlas and class notes. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -144,6 +144,6 @@ Repeat the sketch until you can draw it from memory. Use colour for height (brow
 - **Missing the link between lowlands and population.** Plains and deltas are fertile and densely populated.
 - **Using exact figures without checking.** Use "about" for lengths and heights, and use an atlas to check.
 
-## Next steps
+## More on this topic
 
 Condense this with the [Middle and Far East revision notes](/resources/oxfordaqa-igcse-geography-9230-physical-landscapes-middle-far-east-revision-notes/) and test yourself with the [Middle and Far East practice questions](/resources/oxfordaqa-igcse-geography-9230-physical-landscapes-middle-far-east-practice/). For atlas and map skills, see the [geographical and fieldwork skills study guide](/resources/oxfordaqa-igcse-geography-9230-geographical-and-fieldwork-skills/).

@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -150,7 +150,7 @@ Treat Source A as if it were a genuine letter. Explain one value and one limitat
 - Plans that name no specific sources and give no dated steps.
 - Extended answers that describe conditions but never reach a judgement.
 
-## Next steps
+## More on this topic
 
 - [Industrialization revision notes](/resources/ib-myp-individuals-and-societies-industrialization-and-technology-revision-notes/)
 - [Industrialization study guide](/resources/ib-myp-individuals-and-societies-industrialization-and-technology/)

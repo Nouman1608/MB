@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -146,7 +146,7 @@ Related pages: the [study guide](/resources/oxfordaqa-a-level-mathematics-expone
 - Describing a transformation by type only, such as "reflection", without the mirror line.
 - Giving the intercept as a number only, or leaving the asymptote off a sketch of y = a^x.
 
-## Next steps
+## More on this topic
 
 - Reread the [revision notes](/resources/oxfordaqa-a-level-mathematics-exponential-functions-logarithms-and-solving-a-x-b-revision-notes/) for the methods behind any question you lost marks on.
 - Go back to the [study guide](/resources/oxfordaqa-a-level-mathematics-exponential-functions-logarithms-and-solving-a-x-b/) for full explanations.

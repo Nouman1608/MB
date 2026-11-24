@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide covers topic 4, "Formation of frequency distributions into cumulative frequency distributions", of the Cambridge O Level Statistics 4040 syllabus for examination in 2025, 2026 and 2027: section 4.1 (representation in tabular form) and section 4.2 (representation in graphical form, with cumulative frequency curves and polygons for continuous data). The syllabus is not tiered, so everything here is for every candidate.
@@ -231,7 +231,7 @@ Interpolation like this is what a straight-line polygon gives exactly. A curve d
 
 The syllabus notes that essential working must be shown for full marks, so give the table, the plotted coordinates and the guide lines on the graph.
 
-## Next steps
+## More on this topic
 
 Work through the [revision notes](/resources/cambridge-o-level-statistics-cumulative-frequency-tables-curves-and-polygons-revision-notes/) for a short summary and a self-test, then the [practice questions](/resources/cambridge-o-level-statistics-cumulative-frequency-tables-curves-and-polygons-practice/). Earlier grouping skills are in the [summary representation guide](/resources/o-level-cambridge-statistics-summary-representation-of-data/).
 

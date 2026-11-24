@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches learning outcomes 17.18 to 17.33, with Core Practical 14, which make up the second half of Topic 17, Transition Metals and their Chemistry. The source is the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017. The topic sits in the IA2 (International A2) paper Unit 5: Transition Metals and Organic Nitrogen Chemistry. The specification states that Unit 6: Practical Skills in Chemistry II will predominantly assess knowledge and understanding related to Units 4 and 5. It builds on Topic 16 (electrode potentials) and Topic 12 (entropy).
@@ -283,7 +283,7 @@ Losses come from air oxidation of Cr²⁺, product left in solution and transfer
 - Explaining the chelate effect by "stronger bonds" rather than ΔSsystem.
 - Describing a heterogeneous catalyst without both adsorption and desorption.
 
-## Next steps
+## More on this topic
 
 Try the [practice questions](/resources/edexcel-ial-chemistry-transition-metals-redox-and-catalysis-practice/), then review with the [revision notes](/resources/edexcel-ial-chemistry-transition-metals-redox-and-catalysis-revision-notes/). Outcomes 17.1-17.17 are in [complexes and colour](/resources/edexcel-ial-chemistry-transition-metals-complexes-and-colour/). Background: [entropy](/resources/edexcel-ial-chemistry-entropy/) and [redox equilibria](/resources/edexcel-ial-chemistry-redox-equilibria/). Check gaps with the [diagnostics](/diagnostics/).
 

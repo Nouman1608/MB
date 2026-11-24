@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -165,7 +165,7 @@ The specification gives **lower cost advantage** as the main example. Businesses
 
 **Identify** questions may ask you to spot a situation of minimal competition in a case: look for clues such as a remote location or a new invention. **Explain** questions need a reason plus its effect. **Analyse** answers on competition should follow the chain from a new rival to price, sales and profit. **Evaluate** answers should weigh responses, such as cutting price against improving quality, and judge what depends on the case: how loyal customers are and how much lower the rival's price is.
 
-## Related resources
+## More resources on this topic
 
 - [Competitive Environment revision notes](/resources/oxfordaqa-igcse-business-9225-competitive-environment-revision-notes/)
 - [Competitive Environment practice questions](/resources/oxfordaqa-igcse-business-9225-competitive-environment-practice/)

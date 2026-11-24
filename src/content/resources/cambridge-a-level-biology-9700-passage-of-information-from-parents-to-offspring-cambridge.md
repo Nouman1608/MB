@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hina-mogul"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -148,6 +148,6 @@ Crossing over makes the real number of combinations far larger than this.
 - **Identify** stages (16.1.5): name the stage, then give at least one visible feature as evidence.
 - In counting questions, state whether you are counting **chromosomes** or **chromatids**.
 
-## Next steps
+## More on this topic
 
 Revise with the [16.1 revision notes](/resources/cambridge-a-level-biology-9700-passage-of-information-from-parents-to-offspring-cambridge-revision-notes/) and test yourself with the [16.1 practice questions](/resources/cambridge-a-level-biology-9700-passage-of-information-from-parents-to-offspring-cambridge-practice/). Meiosis is the basis of the genetic crosses in the [roles of genes in determining the phenotype study guide](/resources/cambridge-a-level-biology-9700-the-roles-of-genes-in-determining-the-phenotype-cambridge/), and compares with mitosis in the [mitotic cell cycle study guide](/resources/a-level-biology-9700-the-mitotic-cell-cycle/).

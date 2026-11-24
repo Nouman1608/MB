@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -216,7 +216,7 @@ Revise first with the [study guide](/resources/o-level-biology-5090-coordination
 - Writing that the sweat itself cools the skin, without saying water evaporates.
 - Comparing nervous and hormonal control without comparative words.
 
-## Next steps
+## More on this topic
 
 - Recap with the [revision notes](/resources/o-level-biology-5090-coordination-and-control-revision-notes/).
 - Reread hard sections in the [study guide](/resources/o-level-biology-5090-coordination-and-control/).

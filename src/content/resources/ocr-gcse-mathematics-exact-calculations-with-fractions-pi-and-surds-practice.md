@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -136,7 +136,7 @@ Revise first with the [study guide](/resources/ocr-gcse-mathematics-exact-calcul
 - Dropping the negative sign when expanding with a minus inside a bracket.
 - Skipping lines in a "show that" question.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/ocr-gcse-mathematics-exact-calculations-with-fractions-pi-and-surds-revision-notes/) and the [study guide](/resources/ocr-gcse-mathematics-exact-calculations-with-fractions-pi-and-surds/)
 - Visit the [OCR GCSE Mathematics hub](/boards/ocr/gcse/mathematics/) and the [checklist](/checklists/ocr/gcse/mathematics/)

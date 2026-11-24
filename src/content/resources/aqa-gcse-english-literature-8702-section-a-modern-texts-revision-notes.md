@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -176,7 +176,7 @@ Choose what fits your text:
 12. Any two of: spell characters' and writers' names correctly; mark titles correctly; vary sentence
     structures; leave two minutes to proofread.
 
-## Related resources
+## More resources on this topic
 
 - [Modern texts practice questions](/resources/aqa-gcse-english-literature-8702-section-a-modern-texts-practice/)
 - [Paper 2 revision notes](/resources/aqa-gcse-english-literature-paper-2-revision-notes/)

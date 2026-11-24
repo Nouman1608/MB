@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -186,7 +186,7 @@ A sectional bar chart is drawn with 1 cm for 10 vehicles, with cars at the botto
 - Scales that do not start at zero or are uneven.
 - Leaving out the calculation for each angle or height.
 
-## Next steps
+## More on this topic
 
 - Reread the [study guide](/resources/cambridge-o-level-statistics-tables-and-bar-type-pie-and-pictorial-charts/) for any question you missed.
 - Use the [revision notes](/resources/cambridge-o-level-statistics-tables-and-bar-type-pie-and-pictorial-charts-revision-notes/) as a final check.

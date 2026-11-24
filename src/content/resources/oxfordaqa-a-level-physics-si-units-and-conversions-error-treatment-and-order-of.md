@@ -28,7 +28,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide is aligned to the *OxfordAQA International AS and A-level Physics (9630)* specification, Version 4.4, for International AS and A-level exams from May/June 2020 onwards. It covers section 3.1: 3.1.1 use of SI units and their prefixes, 3.1.2 limitation of physical measurements and 3.1.3 estimation of physical quantities. Section 3.1 is shared content: it is assessed in the International AS and in the full International A-level, and the specification gives no AS/A split inside it.
@@ -259,7 +259,7 @@ Rounding every intermediate estimate to a power of ten before multiplying can sh
 - Quoting a result with more decimal places than its uncertainty.
 - Treating the steepest line as the best-fit line.
 
-## Next steps
+## More on this topic
 
 Work through the [practice questions](/resources/oxfordaqa-a-level-physics-si-units-and-conversions-error-treatment-and-order-of-practice/), then use the [revision notes](/resources/oxfordaqa-a-level-physics-si-units-and-conversions-error-treatment-and-order-of-revision-notes/) to check recall. The [earlier measurements practice set](/resources/oxfordaqa-a-level-physics-measurements-practice/) gives extra questions.
 

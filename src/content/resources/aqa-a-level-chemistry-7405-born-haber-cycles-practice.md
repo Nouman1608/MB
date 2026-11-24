@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -110,7 +110,7 @@ These questions cover section **3.1.8.1 Born–Haber cycles** of the AQA A-level
 - Getting the sign of the lattice enthalpy the wrong way round.
 - Explaining covalent character without referring to polarisation.
 
-## Next steps
+## More on this topic
 
 - [Born–Haber cycles revision notes](/resources/aqa-a-level-chemistry-7405-born-haber-cycles-revision-notes/)
 - [Gibbs free-energy change and entropy change study guide](/resources/aqa-a-level-chemistry-7405-gibbs-free-energy-change-and-entropy-change/)

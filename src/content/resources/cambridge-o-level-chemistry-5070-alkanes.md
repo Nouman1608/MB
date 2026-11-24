@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -149,7 +149,7 @@ Counting the products is the quickest way to recognise the reaction type in an e
 - **Explain** (UV light): it provides the activation energy needed for the reaction to occur.
 - **Draw**: every atom and bond; one Cl only; all carbons with four bonds.
 
-## Next steps
+## More on this topic
 
 - Condense this section with the [alkanes revision notes](/resources/cambridge-o-level-chemistry-5070-alkanes-revision-notes/).
 - Test yourself with the [alkanes practice questions](/resources/cambridge-o-level-chemistry-5070-alkanes-practice/).

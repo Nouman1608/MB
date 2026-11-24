@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -228,7 +228,7 @@ PET difference: PET can be converted back into its monomers and re-polymerised t
 - Splitting condensation polymers at the wrong bond when deducing monomers.
 - Calling proteins or nylon polyesters.
 
-## Next steps
+## More on this topic
 
 - Review weak areas in the [polymers study guide](/resources/cambridge-o-level-chemistry-5070-polymers/).
 - Revisit the [alkenes practice questions](/resources/cambridge-o-level-chemistry-5070-alkenes-practice/) to practise the monomers used in addition polymers.

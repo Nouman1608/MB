@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-16
 updatedDate: 2026-11-16
 featured: false
@@ -240,7 +240,7 @@ For example flooding of land and displacement of people, and trapped sediment. 1
 but needs large amounts of energy, so its cost depends on energy supply. 12. For example Russia
 cutting gas supplies to Europe after 2022.
 
-## Related resources
+## More resources on this topic
 
 - [9635 subject guide](/resources/oxfordaqa-a-level-geography-9635-subject-guide/)
 - [Globalisation and Global Systems revision notes](/resources/oxfordaqa-a-level-geography-globalisation-revision-notes/)

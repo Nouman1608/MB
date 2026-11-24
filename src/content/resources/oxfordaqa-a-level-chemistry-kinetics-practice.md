@@ -36,7 +36,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -214,7 +214,7 @@ proportion with E ≥ Ea is unchanged, but there are more successful collisions 
 - Negative rates, or rate units with no time part.
 - Leaving a gas volume in m³ when cm³ was asked for.
 
-## Next steps
+## More on this topic
 
 - [Kinetics revision notes](/resources/oxfordaqa-a-level-chemistry-kinetics-revision-notes/)
 - [Kinetics study guide](/resources/oxfordaqa-a-level-chemistry-kinetics/)

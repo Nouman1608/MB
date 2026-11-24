@@ -20,6 +20,7 @@ publishedDate: 2026-09-03
 featured: false
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
+reviewNote: "2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 reviewedDate: 2026-10-09
 ---
 
@@ -197,7 +198,7 @@ planning response with an evaluation of its effectiveness. 4. One: London
 or New York. Learning both and comparing them is an optional extension. 5. The unplanned outward
 spread of a city into surrounding countryside.
 
-## Related resources
+## More resources on this topic
 
 - [Urban Issues and Challenges study guide](/resources/igcse-oxfordaqa-geography-urban-issues-and-challenges/)
 - [Urban Issues and Challenges practice questions](/resources/igcse-oxfordaqa-geography-urban-issues-practice/)

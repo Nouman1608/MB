@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -167,7 +167,7 @@ The last row explains why an operating system can report less space than the dri
 11. The label uses decimal GB (10^9) and the display uses binary GiB (2^30).
 12. 1,023.
 
-## Next steps
+## More on this topic
 
 - [Units of information study guide](/resources/oxfordaqa-a-level-computer-science-9645-units-of-information/)
 - [Units of information practice questions](/resources/oxfordaqa-a-level-computer-science-9645-units-of-information-practice/)

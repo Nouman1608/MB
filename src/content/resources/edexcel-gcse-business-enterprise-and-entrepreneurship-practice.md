@@ -29,7 +29,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
-reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -131,7 +131,7 @@ A. A firm launches a device no one has sold before. B. A bakery adds a gluten-fr
 - Describing branding in general terms without tying it to the firm named in the question.
 - Stopping an "evaluate" or "justify" answer before reaching a decision.
 
-## Next steps
+## More on this topic
 
 - Re-read the [study guide](/resources/edexcel-gcse-business-enterprise-and-entrepreneurship/) for any part you missed.
 - Use the [revision notes](/resources/edexcel-gcse-business-enterprise-and-entrepreneurship-revision-notes/) for recall.

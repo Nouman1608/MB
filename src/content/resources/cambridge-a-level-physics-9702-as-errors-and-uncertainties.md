@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -162,7 +162,7 @@ Multiply its percentage uncertainty by 2 (by n for a power n), then add to the o
 **How many significant figures should an uncertainty have?**
 Usually one, and the value is rounded to match its decimal place.
 
-## Related resources
+## More resources on this topic
 
 - [Errors and uncertainties revision notes](/resources/cambridge-a-level-physics-9702-as-errors-and-uncertainties-revision-notes/)
 - [Errors and uncertainties practice questions](/resources/cambridge-a-level-physics-9702-as-errors-and-uncertainties-practice/)

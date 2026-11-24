@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -163,7 +163,7 @@ These questions follow section 1.4 of the Cambridge O Level Statistics syllabus 
 - Using the number returned instead of the number usable when finding a response rate.
 - Leaving out working or units for percentages and pie chart angles.
 
-## Next steps
+## More on this topic
 
 - [Revision notes for this unit](/resources/cambridge-o-level-statistics-surveys-and-questionnaire-design-open-and-closed-revision-notes/)
 - [Study guide for this unit](/resources/cambridge-o-level-statistics-surveys-and-questionnaire-design-open-and-closed/)

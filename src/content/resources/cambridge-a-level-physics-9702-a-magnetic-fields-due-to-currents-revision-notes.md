@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -110,7 +110,7 @@ What makes each field stronger:
 
 **Answers:** 1. Clockwise. 2. Further apart with increasing distance from the wire (field weaker). 3. Strong, uniform: straight, parallel, equally spaced lines along the axis. 4. S. 5. Nearly straight and parallel, along the axis, at right angles to the plane of the coil. 6. The flux density increases greatly for the same current. 7. It is strongly magnetised while the current flows and loses its magnetism when the current is switched off. 8. Repel. 9. Each wire produces a magnetic field, and each wire carries a current in the field of the other, so each experiences a force (F = BIL). 10. Equal in size and opposite in direction. 11. 3.0 × 10⁻⁵ × 2.0 = 6.0 × 10⁻⁵ N m⁻¹. 12. Adjacent turns carry current in the same direction, so they attract each other.
 
-## Related resources
+## More resources on this topic
 
 - [Magnetic Fields revision notes](/resources/a-physics-magnetic-fields-revision-notes/) — the whole of Topic 20
 - [Magnetic fields due to currents practice questions](/resources/cambridge-a-level-physics-9702-a-magnetic-fields-due-to-currents-practice/)

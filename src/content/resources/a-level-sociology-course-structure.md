@@ -14,7 +14,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-08-18
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 An overview of how AQA A Level Sociology (7192) is put together, for
@@ -132,7 +132,7 @@ Build one reference sheet of the core theories and core methods and apply it afr
 **What question types are in AQA A Level Sociology exams?**
 The exams mix short-answer questions with extended writing and essays, testing knowledge and understanding, application, and analysis and evaluation. Extended writing appears in every component, so essay technique practised on one paper transfers to the others.
 
-## Related resources
+## More resources on this topic
 
 - [Sociology subject hub](/subjects/sociology/)
 

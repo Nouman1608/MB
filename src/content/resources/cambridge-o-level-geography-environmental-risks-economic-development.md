@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-15
 featured: false
 ---
@@ -248,7 +248,7 @@ rivers overflow more easily.
 - For **evaluate** or "how far" questions about management, judge how
   effective it has been and why.
 
-## Next steps
+## More on this topic
 
 - Recall the key points with the [Environmental Risks revision notes](/resources/cambridge-o-level-geography-environmental-risks-economic-development-revision-notes/).
 - Practise with the [Environmental Risks practice questions](/resources/cambridge-o-level-geography-environmental-risks-economic-development-practice/).

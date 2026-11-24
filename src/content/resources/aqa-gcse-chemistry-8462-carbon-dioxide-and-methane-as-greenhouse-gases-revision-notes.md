@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -152,7 +152,7 @@ fossil fuels in developing countries.
 11. Poor evidence: too short a period and one place, not peer reviewed, so it cannot show a global long-term trend.
 12. Trees take in carbon dioxide for photosynthesis, which removes it from the air.
 
-## Next steps
+## More on this topic
 
 - [Carbon dioxide and methane as greenhouse gases study guide](/resources/aqa-gcse-chemistry-8462-carbon-dioxide-and-methane-as-greenhouse-gases/)
 - [Carbon dioxide and methane as greenhouse gases practice questions](/resources/aqa-gcse-chemistry-8462-carbon-dioxide-and-methane-as-greenhouse-gases-practice/)

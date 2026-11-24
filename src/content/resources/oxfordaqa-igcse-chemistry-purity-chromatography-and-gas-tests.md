@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide teaches sections 3.4.1 Purity and chromatography and 3.4.2 Identification of common gases (statements a to e of each) from the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards. The qualification is untiered, so all of it is for every candidate. Either written paper can assess content from any part of the specification.
@@ -253,7 +253,7 @@ No pop rules out hydrogen. Bubble the gas through limewater; cloudy white limewa
 - Forgetting the word "damp" for litmus.
 - Stopping at "blue litmus turns red" for chlorine. The full result is red, then bleached white.
 
-## Next steps
+## More on this topic
 
 Condense this unit with the [revision notes](/resources/oxfordaqa-igcse-chemistry-purity-chromatography-and-gas-tests-revision-notes/), then test yourself with the [practice questions](/resources/oxfordaqa-igcse-chemistry-purity-chromatography-and-gas-tests-practice/). For melting points explained through bonding, see the [bonding, structure and properties guide](/resources/oxfordaqa-igcse-chemistry-bonding-structure-and-properties/); for exam technique, the [exam preparation guide](/resources/oxfordaqa-igcse-chemistry-exam-preparation/). Use the [course hub](/boards/oxfordaqa/igcse/chemistry/), the [checklist](/checklists/oxfordaqa/igcse/chemistry/) and the [free diagnostics](/diagnostics/).
 

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08 recheck: section numbering changed from the spec PDF's 4.2.1 to the site's 3.2.1 with a note explaining both; description shortened; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-08 recheck: section numbering changed from the spec PDF's 4.2.1 to the site's 3.2.1 with a note explaining both; description shortened; please re-review. 2026-11-08 recheck: FAQ added; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide covers **3.2.1 Language Diversity and Change** (4.2.1 in the specification PDF), the content
@@ -251,7 +251,7 @@ just identify it.
 - Know at least one specific, named debate or attitude about language
 variation or change to reference in an evaluative essay.
 
-## Related resources
+## More resources on this topic
 
 - [Language Diversity and Change revision notes](/resources/a-level-aqa-english-language-diversity-and-change-revision-notes/)
 - [Language Diversity and Change practice questions](/resources/aqa-english-language-diversity-and-change-practice/)

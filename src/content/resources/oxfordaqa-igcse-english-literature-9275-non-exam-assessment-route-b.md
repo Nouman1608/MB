@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Please confirm against the current specification and NEA instructions who selects the text and task, what feedback teachers may give on drafts, and whether any word guidance applies."
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Please confirm against the current specification and NEA instructions who selects the text and task, what feedback teachers may give on drafts, and whether any word guidance applies. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-15
 featured: false
 ---
@@ -202,7 +202,7 @@ accuracy check. Short, regular sessions are better than one long weekend.
   <figcaption>Set your dates backwards from the deadline, with time left to revise.</figcaption>
 </figure>
 
-## Related resources
+## More resources on this topic
 
 - [Non-exam assessment revision notes for Route B](/resources/oxfordaqa-igcse-english-literature-9275-non-exam-assessment-route-b-revision-notes/)
 - [Non-exam assessment practice tasks for Route B](/resources/oxfordaqa-igcse-english-literature-9275-non-exam-assessment-route-b-practice/)

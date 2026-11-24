@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -151,7 +151,7 @@ C₃H₇OH is an alcohol; C₂H₅COOH is a carboxylic acid; CH₃COOC₂H₅ is
 - **State** (type of compound): one word or phrase, such as "alcohol".
 - **Deduce** (ester): name the alcohol and acid, then combine -yl and -oate.
 
-## Next steps
+## More on this topic
 
 - Condense this section with the [naming organic compounds revision notes](/resources/cambridge-o-level-chemistry-5070-naming-organic-compounds-revision-notes/).
 - Test yourself with the [naming organic compounds practice questions](/resources/cambridge-o-level-chemistry-5070-naming-organic-compounds-practice/).

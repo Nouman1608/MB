@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 Fundamentals of computer organisation and architecture (section 4.7 of AQA A-Level Computer Science 7517)
@@ -192,7 +192,7 @@ increases speed. General-purpose computers use Von Neumann architecture.
 The exam provides the instruction set table. You need to be able to use the operations -- load, store,
 arithmetic, compare, branch, logic and shifts -- with immediate and direct addressing.
 
-## Related resources
+## More resources on this topic
 
 [Computer organisation and architecture study guide](/resources/aqa-a-level-computer-science-fundamentals-of-computer-organisation-and-architecture-study/) |
 [Computer organisation and architecture practice questions](/resources/aqa-a-level-computer-science-fundamentals-of-computer-organisation-and-architecture-practice/) |

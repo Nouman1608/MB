@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -200,7 +200,7 @@ answer from a partial one when the command word is "explain".
   <figcaption>Ask the questions in order and give the reason tied to the data.</figcaption>
 </figure>
 
-## Next steps
+## More on this topic
 
 Condensed recall and a self-test are in the [data types revision notes](/resources/oxfordaqa-igcse-computer-science-9210-data-types-revision-notes/),
 and you can try original exam-style questions in the [data types practice questions](/resources/oxfordaqa-igcse-computer-science-9210-data-types-practice/).

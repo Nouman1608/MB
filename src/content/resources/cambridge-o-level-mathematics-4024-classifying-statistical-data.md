@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -142,7 +142,7 @@ Music total = 20 + 25 = 45
 - **Organise the data**: show a tally or frequency column, with classes written so each value has one place.
 - **What fraction** or **what percentage**: write the fraction with the correct total before simplifying.
 
-## Next steps
+## More on this topic
 
 Try the [classifying statistical data practice questions](/resources/cambridge-o-level-mathematics-4024-classifying-statistical-data-practice/) and recap with the [classifying statistical data revision notes](/resources/cambridge-o-level-mathematics-4024-classifying-statistical-data-revision-notes/). Tables like these lead into [averages and measures of spread](/resources/cambridge-o-level-mathematics-4024-averages-and-measures-of-spread/) and [statistical charts and diagrams](/resources/cambridge-o-level-mathematics-4024-statistical-charts-and-diagrams/).
 

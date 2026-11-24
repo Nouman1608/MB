@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -163,7 +163,7 @@ On the chart, the bar for 1 goal is the tallest (9), so the mode is 1. The heigh
 - **Write down** a value from a chart: read carefully, checking the scale.
 - **Compare** or **comment:** quote values from the chart and say what they show.
 
-## Next steps
+## More on this topic
 
 Work through the [statistical charts and diagrams practice questions](/resources/cambridge-o-level-mathematics-4024-statistical-charts-and-diagrams-practice/) and revise from the [statistical charts and diagrams revision notes](/resources/cambridge-o-level-mathematics-4024-statistical-charts-and-diagrams-revision-notes/). For drawing conclusions from charts, see [interpreting statistical data](/resources/cambridge-o-level-mathematics-4024-interpreting-statistical-data/).
 

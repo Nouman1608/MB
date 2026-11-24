@@ -22,7 +22,7 @@ reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This guide teaches **P2.1 Motion** (statements P2.1a to P2.1h) from the OCR GCSE (9-1) Gateway Science Physics A specification (J249), Version 5.0 (July 2026), for first assessment in 2018. Every P2.1 statement except P2.1f is assessed at both Foundation and Higher Tier. P2.1f (interpreting the enclosed area in velocity-time graphs) is printed in bold in the specification, so it is **Higher Tier only**. It sits inside Topic P2 Forces, so use it with the [Forces study guide](/resources/ocr-gcse-physics-forces/), the [Forces revision notes](/resources/ocr-gcse-physics-forces-revision-notes/) and the [Forces practice questions](/resources/ocr-gcse-physics-forces-practice/).
@@ -322,7 +322,7 @@ If an object spends different times at each speed, the mean of the two speeds is
 **Why is a light gate better than a stopwatch for fast motion?**
 Human reaction time is a large fraction of a short time, so a stopwatch is poor for short, fast motion. Light gates record the time without reaction-time error.
 
-## Next steps
+## More on this topic
 
 Try the [practice questions](/resources/ocr-gcse-physics-distance-speed-velocity-acceleration-and-motion-graphs-practice/), then condense with the [revision notes](/resources/ocr-gcse-physics-distance-speed-velocity-acceleration-and-motion-graphs-revision-notes/). Tick progress off on the [checklist](/checklists/ocr/gcse/physics/) and test yourself with the [free diagnostics](/diagnostics/).
 

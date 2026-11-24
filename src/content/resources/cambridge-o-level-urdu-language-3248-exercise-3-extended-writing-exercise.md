@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "farheen-zehra"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to farheen-zehra (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to farheen-zehra (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -163,7 +163,7 @@ Use a mix of short and longer sentences, a range of tenses and a few connectives
 - Check verbs, genders, numbers and spelling in the final minutes.
 - Practise counting your own handwriting: find how many lines make about 200 words, so that you can judge length quickly in the exam.
 
-## Related resources
+## More resources on this topic
 
 - [Exercise 3 Extended writing exercise: revision notes](/resources/cambridge-o-level-urdu-language-3248-exercise-3-extended-writing-exercise-revision-notes/)
 - [Exercise 3 Extended writing exercise: practice questions](/resources/cambridge-o-level-urdu-language-3248-exercise-3-extended-writing-exercise-practice/)

@@ -22,7 +22,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -132,7 +132,7 @@ Maximum 5. **[5]**
 - Describing loop and stop without linking to the use in the scenario.
 - Calling time lapse "stop motion".
 
-## Next steps
+## More on this topic
 
 - Recap with the [topic revision notes](/resources/a-level-cambridge-ict-animation-revision-notes/).
 - Reread the [study guide](/resources/cambridge-a-level-ict-9626-animation/).

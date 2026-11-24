@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -182,7 +182,7 @@ These questions cover OxfordAQA International AS and A-level Physics (9630), Ver
 - Saying a circling object has no acceleration because its speed is constant, or not converting grams to kilograms.
 - Giving an answer to a "does it stay or slip?" question without a comparison in words.
 
-## Next steps
+## More on this topic
 
 - Use the [revision notes](/resources/oxfordaqa-a-level-physics-circular-motion-angular-speed-and-centripetal-force-revision-notes/).
 - Re-read the [study guide](/resources/oxfordaqa-a-level-physics-circular-motion-angular-speed-and-centripetal-force/) for missed questions.

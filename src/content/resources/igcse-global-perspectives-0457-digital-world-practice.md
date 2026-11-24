@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-29
 featured: false
 ---
@@ -165,7 +165,7 @@ Comparison: the hub helps most people soonest, the classes last longest, and the
 - Assessing courses of action one by one with no comparison or final recommendation.
 - Team Project actions that are not local, not feasible, or have no way to measure success.
 
-## Next steps
+## More on this topic
 
 - Check any weak skills with the [Marlbridge diagnostics](/diagnostics/).
 - Reread the [Digital world study guide](/resources/igcse-global-perspectives-0457-digital-world/) and the [Written Exam study guide](/resources/igcse-cambridge-global-perspectives-written-exam/).

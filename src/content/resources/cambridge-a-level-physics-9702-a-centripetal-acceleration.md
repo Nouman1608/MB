@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -143,7 +143,7 @@ A point on the Equator moves in a circle of radius 6.37 × 10⁶ m once every 24
 - **Show that**: give each step, including the value of ω, and then a final answer to one more significant figure than the value you are showing.
 - **Suggest** (what supplies the centripetal force): name the real force and, where needed, the component.
 
-## Related resources
+## More resources on this topic
 
 - [Motion in a Circle study guide](/resources/a-physics-motion-in-a-circle/) — the whole of Topic 12
 - [Centripetal acceleration revision notes](/resources/cambridge-a-level-physics-9702-a-centripetal-acceleration-revision-notes/)

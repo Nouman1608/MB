@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -192,7 +192,7 @@ Total: 3
 - Leaving an anomaly in the mean or the best-fit line.
 - Stating that a result "agrees" without comparing it with the margin of error.
 
-## Next steps
+## More on this topic
 
 - [1.1.4 revision notes](/resources/ocr-a-level-chemistry-h432-ocr-a-level-chemistry-1-1-4-revision-notes/)
 - [1.1.4 study guide](/resources/ocr-a-level-chemistry-h432-ocr-a-level-chemistry-1-1-4/)

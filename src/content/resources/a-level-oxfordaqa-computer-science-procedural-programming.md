@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29; 2026-11-08: credited to harris-khan (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by harris-khan on 2026-09-29; 2026-11-08: credited to harris-khan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-21
 featured: false
 ---
@@ -191,7 +191,7 @@ High cohesion means each subroutine does one clearly defined thing. Low coupling
 **What are the three types of program error?**
 Syntax errors stop the code compiling, runtime errors crash the program during execution, and logic errors let it run but give the wrong answer. Logic errors are the hardest to find.
 
-## Related resources
+## More resources on this topic
 
 - [Procedural Programming — Practice
   Questions](/resources/a-computer-science-procedural-practice/) —

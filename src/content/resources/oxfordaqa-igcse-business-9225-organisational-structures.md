@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -179,7 +179,7 @@ The right structure can change over time. As a business grows, it may add levels
 
 For **define** questions, give the meaning and, where possible, a short example. For **explain** questions, link the feature to its effect: "A wide span of control means the manager has less time to support each worker, so problems may be missed". For **calculate** questions, show how you worked out the span or the cost. For **evaluate** questions, such as whether a business should delayer, compare cost savings and faster communication with the risks to morale and workload, and make a judgement based on the facts.
 
-## Related resources
+## More resources on this topic
 
 - [Revision notes for this subtopic](/resources/oxfordaqa-igcse-business-9225-organisational-structures-revision-notes/)
 - [Practice questions for this subtopic](/resources/oxfordaqa-igcse-business-9225-organisational-structures-practice/)

@@ -21,7 +21,7 @@ author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-29
 featured: false
 ---
@@ -186,7 +186,7 @@ Rusting is a chemical change. A new substance, hydrated iron(III) oxide, forms s
 **Do Cambridge IGCSE 0620 Core and O Level 5070 students study the same content on physical and chemical changes?**
 Yes. Topic 6.1 is Core only, so the single outcome is identical for 0620 Core, 0620 Extended and O Level 5070 candidates.
 
-## Related resources
+## More resources on this topic
 
 - [Rates of Reaction and Reversible Reactions](/resources/rates-of-reaction-and-reversible-reactions/) — reversible reactions are chemical changes despite being reversible
 - [Redox Reactions](/resources/redox-reactions/) — a named class of chemical change with its own evidence and vocabulary

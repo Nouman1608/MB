@@ -21,7 +21,7 @@ author: "marlbridge-academic-team"
 reviewer: "nouman-ahmed"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-20
-reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-20: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-20
 featured: false
 ---
@@ -237,7 +237,7 @@ significant figures as the data, or to 3 significant figures if you are unsure.
 - **Give units and appropriate significant figures.**
 - **Tier awareness:** mass-of-solute calculations from g/dm³ are for both tiers; everything else here is Higher.
 
-## Next steps
+## More on this topic
 
 - [Amount of substance and masses revision notes](/resources/aqa-gcse-chemistry-8462-amount-of-substance-and-masses-revision-notes/)
 - [Amount of substance and masses practice questions](/resources/aqa-gcse-chemistry-8462-amount-of-substance-and-masses-practice/)

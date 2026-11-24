@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-16: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-09-28
 featured: false
 ---
@@ -157,7 +157,7 @@ Using the key concept of communication and the related concepts of ergonomics an
 - Writing a statement of inquiry as a question, or tying it to one product.
 - Naming concepts in an extended response without linking each one to a specific feature and user.
 
-## Next steps
+## More on this topic
 
 - [Key and related concepts revision notes](/resources/ib-myp-design-key-and-related-concepts-revision-notes/)
 - [Key and related concepts study guide](/resources/ib-myp-design-key-and-related-concepts/)

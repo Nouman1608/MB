@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -145,7 +145,7 @@ Western portrayals of "the East" as exotic, backward and irrational supported co
 unchallenged. 12. For example, disability rights campaigns, or campaigns against caste
 discrimination.
 
-## Related resources
+## More resources on this topic
 
 - [Stigmatised identities and othering: study guide](/resources/oxfordaqa-igcse-sociology-9292-stigmatised-identities-and-othering/)
 - [Stigmatised identities and othering: practice questions](/resources/oxfordaqa-igcse-sociology-9292-stigmatised-identities-and-othering-practice/)

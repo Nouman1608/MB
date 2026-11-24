@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -175,7 +175,7 @@ Write the conclusion in words. A correct line of algebra that ends without "so A
 - **Find in terms of a and b**: give a simplified expression, collecting the **a** terms and the **b** terms.
 - **Show that** or **Prove** (Higher tier only): write each route, simplify, factor out a scalar, then state the geometrical conclusion in words.
 
-## Next steps
+## More on this topic
 
 - Condense the methods with the [plane vector geometry revision notes](/resources/ocr-gcse-mathematics-j560-plane-vector-geometry-revision-notes/).
 - Test yourself with the [plane vector geometry practice questions](/resources/ocr-gcse-mathematics-j560-plane-vector-geometry-practice/).

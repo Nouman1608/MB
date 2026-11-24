@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The public IB subject brief names subtopic 8.1 but not its understandings, so a teacher should check this page against the full ESS guide."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-18: The public IB subject brief names subtopic 8.1 but not its understandings, so a teacher should check this page against the full ESS guide. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -162,7 +162,7 @@ This set covers subtopic 8.1, Human populations, from Topic 8 of IB DP Environme
 - Policy answers with outcomes but no aims, or no unintended consequences.
 - Population essays that treat numbers as the only driver of impact.
 
-## Next steps
+## More on this topic
 
 - [8.1 study guide](/resources/ib-dp-environmental-systems-and-societies-8-1/)
 - [8.1 revision notes](/resources/ib-dp-environmental-systems-and-societies-8-1-revision-notes/)

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -132,7 +132,7 @@ Show the working, give units and state a conclusion. A figure with no working, u
 **Which AQA A-level Economics content do these questions cover?**
 They cover the dynamics of competition and contestable markets from AQA A-level Economics 7136: non-price competition, creative destruction, contestability and sunk costs.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/aqa-a-level-economics-dynamic-competition-creative-destruction-and-revision-notes/) and the [study guide](/resources/aqa-a-level-economics-dynamic-competition-creative-destruction-and/).
 - Tick off progress on the [printable checklist](/checklists/aqa/a-level/economics/) and browse the [AQA A-level Economics hub](/boards/aqa/a-level/economics/).

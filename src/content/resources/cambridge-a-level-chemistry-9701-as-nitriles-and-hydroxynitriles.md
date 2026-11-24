@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -173,7 +173,7 @@ hydroxynitrile made from a ketone.
   step is needed.
 - **Identify** a chiral centre in the product: list the four groups.
 
-## Next steps
+## More on this topic
 
 - Recall tables and self-test: [Nitriles and hydroxynitriles revision notes](/resources/cambridge-a-level-chemistry-9701-as-nitriles-and-hydroxynitriles-revision-notes/)
 - Exam-style questions with full answers: [Nitriles and hydroxynitriles practice questions](/resources/cambridge-a-level-chemistry-9701-as-nitriles-and-hydroxynitriles-practice/)

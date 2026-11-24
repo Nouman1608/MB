@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -201,7 +201,7 @@ Immerse the bulb, stir gently and record the value only when the reading is stea
 - Picking an indicator that changes colour before or after the steep part of the curve.
 - Giving units for pH or pKa, or leaving them off Ka.
 
-## Next steps
+## More on this topic
 
 - Go over the [revision notes](/resources/ocr-a-level-chemistry-acids-bases-and-buffers-revision-notes/) again.
 - Return to the [study guide](/resources/ocr-a-level-chemistry-acids-bases-and-buffers/) for any outcome you found hard.

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to azam-siddique (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -127,7 +127,7 @@ Each sentence matches one syllabus step and uses the key verbs: passes through, 
 
 **Describe** questions on structure need names in the correct order and the position of the ozone layer. **Define** questions on climate need the syllabus phrase about many years. **Describe** questions on the greenhouse effect are usually marked step by step, so number the steps or write one sentence for each. If a diagram is provided, refer to its arrows and labels.
 
-## Next steps
+## More on this topic
 
 - Recall sheet and self-test: [the atmosphere revision notes](/resources/cambridge-o-level-environmental-management-5014-the-atmosphere-5014-2027-revision-notes/).
 - Exam-style questions with answers: [the atmosphere practice questions](/resources/cambridge-o-level-environmental-management-5014-the-atmosphere-5014-2027-practice/).

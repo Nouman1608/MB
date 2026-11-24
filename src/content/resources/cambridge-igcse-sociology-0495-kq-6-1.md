@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -178,6 +178,6 @@ National victim surveys cover a whole country: the Crime Survey for England and 
 - **Discuss**: for measurement questions, compare at least two methods.
 - **Evaluate**: for "Evaluate the view that informal social control is more effective than formal social control", use Hirschi on one side and the need for state power on the other, then judge.
 
-## Next steps
+## More on this topic
 
 Revise with the [key question 6.1 revision notes](/resources/cambridge-igcse-sociology-0495-kq-6-1-revision-notes/) and practise with the [key question 6.1 practice questions](/resources/cambridge-igcse-sociology-0495-kq-6-1-practice/). Then move on to [patterns of and explanations for crime (key question 6.2)](/resources/cambridge-igcse-sociology-0495-kq-6-2/).

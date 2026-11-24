@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -164,7 +164,7 @@ Learn it first: [Carbohydrates and lipids study guide](/resources/a-level-biolog
 - Linking fat to energy storage without the reason: more C–H bonds, more energy per gram.
 - Calling a phospholipid tail hydrophilic, or a triglyceride polar.
 
-## Next steps
+## More on this topic
 
 - [Carbohydrates and lipids revision notes](/resources/a-level-biology-9700-carbohydrates-and-lipids-revision-notes/)
 - [Carbohydrates and lipids study guide](/resources/a-level-biology-9700-carbohydrates-and-lipids/)

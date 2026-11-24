@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -131,7 +131,7 @@ These questions cover D3.2.1 to D3.2.15 (Inheritance, first part) of the IB *Bio
 - Saying a pedigree is "recessive" without ruling out other patterns.
 - Confusing codominance with incomplete dominance.
 
-## Next steps
+## More on this topic
 
 - Revise with the [revision notes](/resources/ib-dp-biology-inheritance-alleles-monohybrid-crosses-pedigrees-and-revision-notes/) and [study guide](/resources/ib-dp-biology-inheritance-alleles-monohybrid-crosses-pedigrees-and/).
 - Visit the [IB Biology hub](/boards/ib/ib-dp/biology/) and the [checklist](/checklists/ib/ib-dp/biology/).

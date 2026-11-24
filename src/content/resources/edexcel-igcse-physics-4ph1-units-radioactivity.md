@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to hassan (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -196,7 +196,7 @@ it as minutes unless the question asks for a different unit.
 - **State** the unit of activity: the answer is "becquerel" or "Bq"; "counts per second" does not earn the mark.
 - **Add/Label** (for example, completing a results table): put units in the column headings, such as "count rate / counts per min", not after every number.
 
-## Related resources
+## More resources on this topic
 
 - [Units in radioactivity revision notes](/resources/edexcel-igcse-physics-4ph1-units-radioactivity-revision-notes/) for the conversions on one page
 - [Units in radioactivity practice questions](/resources/edexcel-igcse-physics-4ph1-units-radioactivity-practice/) with worked answers

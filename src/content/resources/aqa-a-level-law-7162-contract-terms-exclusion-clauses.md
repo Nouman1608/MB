@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -226,7 +226,7 @@ test.
 - **Discuss** questions: evaluate how effectively the common law and statute balance freedom of contract
   with protection of weaker parties.
 
-## Related resources
+## More resources on this topic
 
 [Exclusion clauses revision notes](/resources/aqa-a-level-law-7162-contract-terms-exclusion-clauses-revision-notes/) |
 [Exclusion clauses practice questions](/resources/aqa-a-level-law-7162-contract-terms-exclusion-clauses-practice/) |

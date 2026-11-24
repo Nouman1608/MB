@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -184,7 +184,7 @@ National Fish v Ocean Trawlers (1935) or The Super Servant Two (1990). 12. Money
 recoverable, sums payable cease to be payable, and the court may allow the payee expenses up to the
 amount paid or payable.
 
-## Related resources
+## More resources on this topic
 
 [Discharge of a contract study guide](/resources/aqa-a-level-law-7162-discharge-of-a-contract/) |
 [Discharge of a contract practice questions](/resources/aqa-a-level-law-7162-discharge-of-a-contract-practice/) |

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -152,7 +152,7 @@ All require a, x, y > 0 and a ≠ 1.
 
 **12.** 3ⁿ is positive for every real n, so no power of 3 equals −9.
 
-## Related resources
+## More resources on this topic
 
 - [P2 exponentials and logarithms study guide](/resources/edexcel-a-level-mathematics-yma01-p2-exponentials-and-logarithms/)
 - [P2 exponentials and logarithms practice questions](/resources/edexcel-a-level-mathematics-yma01-p2-exponentials-and-logarithms-practice/)

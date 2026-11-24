@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
-reviewNote: "2026-11-16: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Please check the summary of the Data Protection Act 2018 sections named in 2.3.5 (ss 1 to 7, 43, 45 and 170), which is kept general here."
+reviewNote: "2026-11-16: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Please check the summary of the Data Protection Act 2018 sections named in 2.3.5 (ss 1 to 7, 43, 45 and 170), which is kept general here. 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-15
 featured: false
 ---
@@ -154,6 +154,6 @@ Damages (compensatory, and sometimes aggravated); **injunctions**, including int
 - Applying the 1957 Act to a trespasser, or claiming property damage under the 1984 Act.
 - Saying trespass requires damage.
 
-## Next steps
+## More on this topic
 
 Condense with the [individual revision notes](/resources/edexcel-a-level-law-yla1-the-individual-revision-notes/) and practise with the [individual practice questions](/resources/edexcel-a-level-law-yla1-the-individual-practice/).

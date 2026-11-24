@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to naqiya-yousaf (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -123,6 +123,6 @@ Argument 2: family background shapes life chances directly [1]. Inheritance, hou
 
 **Level guidance:** top answers interrogate the meaning of "ability" and "effort" and reach a reasoned conclusion; middle answers list factors; low answers assert one side.
 
-## Next steps
+## More on this topic
 
 Continue with [influences on the curriculum](/resources/cambridge-a-level-sociology-9699-influences-on-the-curriculum/), or review [theories about the role of education](/resources/cambridge-a-level-sociology-9699-theories-role-of-education/).

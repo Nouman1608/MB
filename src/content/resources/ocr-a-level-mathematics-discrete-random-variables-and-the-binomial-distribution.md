@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide follows the OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026), for first assessment in 2018. It covers 2.04a to 2.04c, which are Stage 1 content (common with AS), and 2.04d, which is Stage 2 and so **A Level only**. The next unit applies the mean and variance formulae when a normal model is chosen.
@@ -286,7 +286,7 @@ In OCR A Level Mathematics A (H240), references 2.04a to 2.04c are Stage 1 conte
 **Why is the number of throws until the first six not binomial?**
 The number of trials is not fixed, so one of the four binomial conditions fails.
 
-## Next steps
+## More on this topic
 
 Condense this unit with the [revision notes](/resources/ocr-a-level-mathematics-discrete-random-variables-and-the-binomial-distribution-revision-notes/), then test yourself on the [practice set](/resources/ocr-a-level-mathematics-discrete-random-variables-and-the-binomial-distribution-practice/). Take one of the [free diagnostics](/diagnostics/) to find your weaker areas, and tick off 2.04a to 2.04d on the [checklist](/checklists/ocr/a-level/mathematics/).
 

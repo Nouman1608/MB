@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to salman-ahmad (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -170,7 +170,7 @@ The syllabus lists these command words: calculate, consider, define, explain, id
 - **Consider**: review the information given and respond to it, weighing more than one side.
 - **Justify** (a recommendation): support your choice with evidence from the case, including what is given up.
 
-## Related resources
+## More resources on this topic
 
 - [Business activity and economic sectors study guide](/resources/igcse-business-0264-business-activity-and-economic-sectors/) — 1.1 and 1.2 together
 - [Business activity revision notes](/resources/cambridge-igcse-business-0264-business-activity-revision-notes/)

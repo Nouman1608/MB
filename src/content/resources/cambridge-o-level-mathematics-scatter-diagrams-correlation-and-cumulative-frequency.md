@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 This study guide covers sections 9.5 (Scatter diagrams) and 9.6 (Cumulative frequency diagrams) of the Cambridge O Level Mathematics (Syllabus D) 4024 syllabus for 2025, 2026 and 2027. The syllabus is not tiered, so every candidate meets all of this content. The drawing skills here are done by hand with a ruler, which the syllabus lists as required equipment for both papers. Work through it with the [revision notes](/resources/cambridge-o-level-mathematics-scatter-diagrams-correlation-and-cumulative-frequency-revision-notes/) and the [practice questions](/resources/cambridge-o-level-mathematics-scatter-diagrams-correlation-and-cumulative-frequency-practice/), and see the [O Level Mathematics hub](/boards/cambridge/o-level/mathematics/) and the [printable checklist](/checklists/cambridge/o-level/mathematics/) for the rest of the course.
@@ -261,7 +261,7 @@ The interquartile range, upper quartile minus lower quartile, shows how spread o
 **How do you find a percentile from a cumulative frequency curve?**
 Work out the height as a fraction of the total, such as 0.9 × n for the 90th percentile, read across to the curve and then down to the horizontal axis.
 
-## Next steps
+## More on this topic
 
 Try the [practice questions](/resources/cambridge-o-level-mathematics-scatter-diagrams-correlation-and-cumulative-frequency-practice/), then check your overall readiness with the [free 10-minute diagnostics](/diagnostics/). The [O Level Mathematics past papers page](/resources/cambridge-o-level-mathematics-4024-past-papers/) shows where to find official papers.
 

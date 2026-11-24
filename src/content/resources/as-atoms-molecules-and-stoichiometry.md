@@ -28,7 +28,7 @@ author: "nouman-ahmed"
 reviewer: "farhat-ul-ain-sehgal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
@@ -252,7 +252,7 @@ An ionic equation shows only the species that take part in the reaction, with sp
 **How do you identify the limiting reagent?**
 Convert each reactant to moles and compare the mole ratio available with the ratio required by the balanced equation. Do not simply pick whichever reactant's mass is given first or is smaller.
 
-## Related resources
+## More resources on this topic
 
 - [Formulae, Equations and the Mole](/resources/formulae-equations-and-the-mole/) — the IGCSE/O Level foundation this resource builds on, not a substitute for it
 - [Atomic Structure: Orbitals and Ionisation Energy](/resources/as-atomic-structure-orbitals-and-ionisation-energy/) — the previous AS topic

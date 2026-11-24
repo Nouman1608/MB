@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
@@ -149,7 +149,7 @@ These questions cover sections 3.1.6 to 3.1.8 of the OxfordAQA International GCS
 - Leaving out the pivot force in a balanced-plank question.
 - Choosing the wrong pivot when the object tips about an edge or an axle.
 
-## Next steps
+## More on this topic
 
 - [Revision notes for this unit](/resources/oxfordaqa-igcse-physics-terminal-velocity-centre-of-mass-moments-and-levers-revision-notes/)
 - [Study guide for this unit](/resources/oxfordaqa-igcse-physics-terminal-velocity-centre-of-mass-moments-and-levers/)

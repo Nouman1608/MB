@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -148,7 +148,7 @@ These questions cover **3.1.6 Forces and terminal velocity** (P), statements a t
 - Sketching the velocity as negative after the parachute opens.
 - Using the resultant force as the drag force.
 
-## Next steps
+## More on this topic
 
 Revise from the [Forces and terminal velocity revision notes](/resources/oxfordaqa-igcse-physics-9203-forces-and-terminal-velocity-revision-notes/), then try the [Centre of mass practice questions](/resources/oxfordaqa-igcse-physics-9203-centre-of-mass-oxfordaqa-practice/).
 

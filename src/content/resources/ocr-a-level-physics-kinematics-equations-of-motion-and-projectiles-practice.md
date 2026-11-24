@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -181,7 +181,7 @@ At the top, the vertical velocity is zero but the horizontal velocity is unchang
 **What should you plot to find g from a free-fall experiment?**
 For a ball dropped from rest, h = ½gt², so plot h against t², not t. The gradient is g/2, so g is twice the gradient.
 
-## Next steps
+## More on this topic
 
 - Re-read the [revision notes](/resources/ocr-a-level-physics-kinematics-equations-of-motion-and-projectiles-revision-notes/) and the [study guide](/resources/ocr-a-level-physics-kinematics-equations-of-motion-and-projectiles/).
 - Return to the [OCR A Level Physics hub](/boards/ocr/a-level/physics/) and tick off the [printable checklist](/checklists/ocr/a-level/physics/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 For full explanations and longer worked examples, read the [polymers study guide](/resources/oxfordaqa-igcse-chemistry-synthetic-and-naturally-occurring-polymers/) first.
@@ -244,7 +244,7 @@ Cornstarch comes from plants, so it is renewable; most synthetic polymers come f
 - Saying a polymer–cornstarch bag disappears completely.
 - Defining biodegradable without mentioning microbes.
 
-## Next steps
+## More on this topic
 
 - [Polymers practice questions](/resources/oxfordaqa-igcse-chemistry-synthetic-and-naturally-occurring-polymers-practice/)
 - [Back to the polymers study guide](/resources/oxfordaqa-igcse-chemistry-synthetic-and-naturally-occurring-polymers/)

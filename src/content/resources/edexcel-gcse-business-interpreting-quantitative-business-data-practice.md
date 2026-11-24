@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
-reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and
@@ -144,7 +144,7 @@ Links: the [Business hub](/boards/edexcel/gcse/business/), the [printable checkl
 - Writing general limitations with no link to the business in the question.
 - Stopping an "evaluate" or "justify" answer before stating which course of action you back.
 
-## Next steps
+## More on this topic
 
 - Review the [revision notes](/resources/edexcel-gcse-business-interpreting-quantitative-business-data-revision-notes/) and the [study guide](/resources/edexcel-gcse-business-interpreting-quantitative-business-data/).
 - Return to the [Business hub](/boards/edexcel/gcse/business/) or tick off progress on the [checklist](/checklists/edexcel/gcse/business/).

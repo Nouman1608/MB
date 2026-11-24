@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -148,7 +148,7 @@ Use the apple data above for questions 1 to 9.
 11. The first orchard's apples are **heavier on average** (median 160 g against 152 g); the second orchard's masses are **more consistent** (IQR 22 g against about 31 g).
 12. Where the data are **most concentrated** (most values per unit on the horizontal axis).
 
-## Next steps
+## More on this topic
 
 - Re-read the worked examples in the [cumulative frequency diagrams study guide](/resources/igcse-mathematics-0580-cumulative-frequency-diagrams/).
 - Try the [cumulative frequency practice questions](/resources/cambridge-igcse-mathematics-0580-cumulative-frequency-diagrams-practice/).

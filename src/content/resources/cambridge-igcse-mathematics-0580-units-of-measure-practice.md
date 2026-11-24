@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "sajawal-zahid"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to sajawal-zahid (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -156,7 +156,7 @@ Multiply by 1000, because 1 m³ = 1000 litres. To go from litres to m³, divide 
 **How do I convert mm³ to m³?**
 The length factor from mm to m is 1000, so the volume factor is 1000³ = 10⁹. Divide by 10⁹; standard form makes this easier to write.
 
-## Next steps
+## More on this topic
 
 - Review the methods in the [units of measure study guide](/resources/cambridge-igcse-mathematics-0580-units-of-measure/).
 - Recap with the [units of measure revision notes](/resources/cambridge-igcse-mathematics-0580-units-of-measure-revision-notes/).

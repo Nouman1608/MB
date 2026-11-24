@@ -19,7 +19,7 @@ author: "marlbridge-academic-team"
 reviewer: "iftikhar-azeemi"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-18
-reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379)."
+reviewNote: "2026-11-18: credited to iftikhar-azeemi (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-18
 featured: false
 ---
@@ -202,7 +202,7 @@ D: the breaking stress
 - Confusing stiffness (gradient) with strength (breaking stress).
 - Saying the limit of proportionality and the elastic limit are always the same point.
 
-## Next steps
+## More on this topic
 
 - [Conservation of energy practice questions](/resources/oxfordaqa-a-level-physics-9630-conservation-of-energy-practice/)
 - [Work, energy and power practice questions](/resources/oxfordaqa-a-level-physics-9630-work-energy-and-power-oxfordaqa-practice/)

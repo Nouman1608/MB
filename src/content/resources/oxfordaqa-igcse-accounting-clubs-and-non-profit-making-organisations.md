@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 ---
 This study guide follows the OxfordAQA International GCSE Accounting (9215) specification, version 1.2, for exams from May/June 2026 onwards. It covers the clubs and non-profit making organisations part of section 3.4, Preparation of financial statements. The specification places this content on Paper 2: Financial Statements, which assesses content 3 to 5. Go to the [OxfordAQA IGCSE Accounting hub](/boards/oxfordaqa/igcse/accounting/) for the full course, tick off skills on the [printable checklist](/checklists/oxfordaqa/igcse/accounting/), and use the [free diagnostics](/diagnostics/) to find weak spots. The matching [revision notes](/resources/oxfordaqa-igcse-accounting-clubs-and-non-profit-making-organisations-revision-notes/) and [practice questions](/resources/oxfordaqa-igcse-accounting-clubs-and-non-profit-making-organisations-practice/) are on separate pages.
 
@@ -268,7 +268,7 @@ The specification asks you to comment as well as prepare. Good comments use the 
 6. Putting café sales on the income side. Only the gross profit goes across.
 7. Charging depreciation on opening equipment only. Read the question: here the charge is on cost at the year end.
 
-## Next steps
+## More on this topic
 
 Work through the [revision notes](/resources/oxfordaqa-igcse-accounting-clubs-and-non-profit-making-organisations-revision-notes/), then test yourself with the [practice questions](/resources/oxfordaqa-igcse-accounting-clubs-and-non-profit-making-organisations-practice/). Return to the [course hub](/boards/oxfordaqa/igcse/accounting/) to choose your next topic.
 

@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). 2026-11-24: markdown section headings retitled so they read apart from the page blocks (audit P17)."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -171,6 +171,6 @@ Conclude  the rule chosen changes the outcome, which is the main
 
 **Describe** questions want the rule in your own words plus a case. **Explain** wants a linked justification, such as why *Whiteley* shows the literal rule's main weakness. **Apply** a rule to a scenario by stating the rule, using the words in the scenario, and concluding. **Evaluate** wants the advantages and disadvantages weighed with cases and a justified conclusion.
 
-## Next steps
+## More on this topic
 
 Condense this page with the [rules of statutory interpretation revision notes](/resources/edexcel-a-level-law-yla1-rules-of-statutory-interpretation-revision-notes/), then test yourself with the [rules of statutory interpretation practice questions](/resources/edexcel-a-level-law-yla1-rules-of-statutory-interpretation-practice/).
