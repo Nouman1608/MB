@@ -219,6 +219,7 @@ const jsonLd = [...siteGraph(), webPageNode(path, fullTitle, description)];
         </div>
       </div>
     </footer>
-    <ConsentAnalytics />
+    {/* Audit 3 item 17/19 -- banner text and cookie-policy link in this page's language. */}
+    <ConsentAnalytics locale={locale} />
   </body>
 </html>

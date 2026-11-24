@@ -1,6 +1,6 @@
 ---
 import LocaleLayout from '../../layouts/LocaleLayout.astro';
-import { LOCALE_COPY, pricingRows, hasIndicativeRows } from '../../i18n/copy';
+import { LOCALE_COPY, pricingRows, hasIndicativeRows, regionName } from '../../i18n/copy';
 import { localePath } from '../../i18n/routes';
 
 const copy = LOCALE_COPY['bn'];
@@ -46,7 +46,7 @@ const contactHref = localePath('bn', 'contact');
           <tbody>
             {pricingRows.map((r) => (
               <tr class="border-b border-[#E7E1D4]">
-                <td class="px-3 py-2 text-ink-mute">{r.region}</td>
+                <td class="px-3 py-2 text-ink-mute">{regionName('bn', r.region)}</td>
                 <td class="px-3 py-2 text-ink-mute">{r.currency}</td>
                 <td class="px-3 py-2 text-ink-mute">{r.igcse}</td>
                 <td class="px-3 py-2 text-ink-mute">{r.aLevel}</td>
@@ -58,6 +58,7 @@ const contactHref = localePath('bn', 'contact');
       </div>
       <p class="m-0 mt-4 text-[13px] text-ink-mute">{copy.statusExplainer}</p>
       {hasIndicativeRows && <p class="m-0 mt-2 text-[13px] text-ink-mute">{copy.indicativeNote}</p>}
+      {copy.bangladeshNote && <p class="m-0 mt-2 text-[13px] text-ink-mute">{copy.bangladeshNote}</p>}
       <p class="m-0 mt-6 text-[13.5px] text-ink-mute">{copy.termsNote}</p>
     </div>
   </section>
