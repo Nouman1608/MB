@@ -107,3 +107,31 @@ test('a current resource slug is not redirected', async () => {
   assert.equal(res.status, 200);
   assert.equal(calls.length, 1);
 });
+
+// Audit round 3 (item 48): an old slug on the www host used to take two hops
+// (www -> apex old slug -> apex new slug). It now goes straight to the new slug.
+test('an old resource slug on www 301s once to the new slug on the apex', async () => {
+  const { env, calls } = makeEnv();
+  const res = await worker.fetch(new Request(`https://www.marlbridge.com/resources/${OLD_SLUG}/?x=1`), env);
+  assert.equal(res.status, 301);
+  const location = res.headers.get('location');
+  assert.equal(location, 'https://marlbridge.com/resources/cambridge-igcse-mathematics-0580-introduction-to-algebra/?x=1');
+  assert.equal(calls.length, 0);
+  const second = await worker.fetch(new Request(location), env);
+  assert.equal(second.status, 200, 'the new URL must not redirect again');
+});
+
+test('an old resource slug without the trailing slash 301s to the new slug with it', async () => {
+  const { env } = makeEnv();
+  const old = ['ib', 'ib-dp-biology', 'dp-biology', 'ib-dp-biology-1-a1-1'].join('-');
+  const res = await worker.fetch(new Request(`https://marlbridge.com/resources/${old}`), env);
+  assert.equal(res.status, 301);
+  assert.equal(res.headers.get('location'), 'https://marlbridge.com/resources/ib-dp-biology-1-a1-1/');
+});
+
+test('a non-GET request to an old slug on www still only changes the host', async () => {
+  const { env } = makeEnv();
+  const res = await worker.fetch(new Request(`https://www.marlbridge.com/resources/${OLD_SLUG}/`, { method: 'POST' }), env);
+  assert.equal(res.status, 301);
+  assert.equal(res.headers.get('location'), `https://marlbridge.com/resources/${OLD_SLUG}/`);
+});

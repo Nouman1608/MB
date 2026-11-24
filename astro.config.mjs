@@ -15,6 +15,7 @@ import { isIndexableAcademicPage } from './src/utils/seo/indexability.ts';
 import { bodyWordCount } from './src/utils/seo/word-count.ts';
 import { EN_PATH, TRANSLATED_LOCALES } from './src/i18n/routes.ts';
 import { sitemapGroup, SITEMAP_GROUPS } from './src/utils/seo/sitemap-groups.ts';
+import { practiceLastmods, localizedLastmods } from './src/utils/seo/sitemap-lastmod.ts';
 import { AP_LIBRARY_PUBLIC, AP_LIBRARY_BASE } from './src/data/ap/config.ts';
 import { FLASHCARD_DECKS, flashcardsPath } from './src/data/flashcards/index.ts';
 import { apFlashcardCourses, apFlashcardsPath, apUnitsWithCards, apDeckUpdated } from './src/data/ap-flashcards/index.ts';
@@ -148,6 +149,19 @@ function buildIndexLastmods() {
   return idx;
 }
 const indexLastmods = buildIndexLastmods();
+
+/**
+ * Audit round 3 (item 49) -- the practice and translated pages had no lastmod, so
+ * sitemap-practice-0.xml and sitemap-localized-0.xml had none in the index. Real
+ * dates only (rules in src/utils/seo/sitemap-lastmod.ts): practice pages take the
+ * dates of the resources their questions come from (and a diagnostic set's review
+ * date); translated legal pages their own "last updated" date; translated
+ * directories their English counterpart's lastmod. Never the build date.
+ */
+const practiceAndLocalizedLastmods = new Map([
+  ...practiceLastmods((path) => lastmodBySlug.get(path)),
+  ...localizedLastmods((path) => lastmodBySlug.get(path) ?? indexLastmods.get(path)),
+]);
 
 /**
  * Sitemap exclusion for non-indexable academic hub pages (Phase 2 -- Aug
@@ -400,7 +414,7 @@ export default defineConfig({
       },
       serialize(item) {
         const path = new URL(item.url).pathname;
-        const lastmod = lastmodBySlug.get(path) ?? indexLastmods.get(path);
+        const lastmod = lastmodBySlug.get(path) ?? indexLastmods.get(path) ?? practiceAndLocalizedLastmods.get(path);
         const links = hreflangLinks(new URL(item.url).origin, path);
         return { ...item, ...(lastmod ? { lastmod } : {}), ...(links ? { links } : {}) };
       },

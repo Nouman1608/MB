@@ -124,30 +124,39 @@ const stripSlash = (p: string) => (p.length > 1 && p.endsWith('/') ? p.slice(0, 
  * redirects to.
  */
 const WWW_HOST = 'www.marlbridge.com';
+
+/** '/resources/<old-slug>/' (slash optional) -> '/resources/<new-slug>/', or null if not renamed. */
+function renamedResourcePath(pathname: string): string | null {
+  if (!pathname.startsWith('/resources/')) return null;
+  const renamed = (slugRedirects as Record<string, string>)[pathname.slice('/resources/'.length).replace(/\/$/, '')];
+  return renamed ? `/resources/${renamed}/` : null;
+}
 const APEX_HOST = 'marlbridge.com';
 
 export default {
   async fetch(request: Request, env: Env): Promise<Response> {
     const url = new URL(request.url);
 
-    if (url.hostname === WWW_HOST) {
-      url.hostname = APEX_HOST;
-      return Response.redirect(url.toString(), 301);
-    }
-
-    const { pathname } = url;
-
     // Nov 2026 SEO audit (B1): resource slugs renamed because they broke the
     // board-qualification-subject-code-topic pattern. Old URL -> new URL, 301,
     // query string kept. The map is src/worker/slug-redirects.json, written by
     // scripts/rename-malformed-resource-slugs.mjs, so the redirects ship in the
     // same deploy as the renamed pages.
-    if ((request.method === 'GET' || request.method === 'HEAD') && pathname.startsWith('/resources/')) {
-      const renamed = (slugRedirects as Record<string, string>)[pathname.slice('/resources/'.length).replace(/\/$/, '')];
-      if (renamed) {
-        url.pathname = `/resources/${renamed}/`;
-        return Response.redirect(url.toString(), 301);
-      }
+    const renamedPath = request.method === 'GET' || request.method === 'HEAD' ? renamedResourcePath(url.pathname) : null;
+
+    if (url.hostname === WWW_HOST) {
+      url.hostname = APEX_HOST;
+      // Audit round 3 (item 48): an old slug on www went www -> apex old slug -> new
+      // slug (two hops). Apply the rename in the same redirect: one 301.
+      if (renamedPath) url.pathname = renamedPath;
+      return Response.redirect(url.toString(), 301);
+    }
+
+    const { pathname } = url;
+
+    if (renamedPath) {
+      url.pathname = renamedPath;
+      return Response.redirect(url.toString(), 301);
     }
 
     // Accept the trailing-slash variant too: the site is built with
