@@ -6,7 +6,7 @@ Per-agent detail: `reports/S1.md` … `reports/S6.md`, plus `reports/S3-rename-p
 ## Verification run (on the final build of the branch)
 | Check | Result |
 |---|---|
-| `npm run build` (setup, validators, Astro build, Pagefind) | passed, exit 0, 24,247 pages (built before the last commit, see note) |
+| `npm run build` (setup, validators, Astro build, Pagefind) | passed, exit 0, 24,247 pages (rebuilt after the last commit) |
 | `npm run check` (astro check) | 0 errors, 0 warnings |
 | `audit-structured-data.mjs dist` | PASS, 0 problems (24,247 pages) |
 | `audit-internal-links.mjs` | PASS: 0 broken, 0 orphans, 0 links to old slugs |
@@ -16,7 +16,7 @@ Per-agent detail: `reports/S1.md` … `reports/S6.md`, plus `reports/S3-rename-p
 | `validate-ap-library.mjs` | 3,270 resources valid (also after the last commit) |
 | S6 independent review of built HTML | see S6 rows; one pre-existing FAIL, no regressions |
 
-Note: the last commit (0fe7bfd8e, 602 AP checklist descriptions) came after the build and was validated with `validate-ap-library` only, not rebuilt.
+Note: after the commit that fixed 602 AP checklist descriptions (0fe7bfd8e) the site was rebuilt (exit 0) and the structured-data, internal-link, sitemap and i18n checks were re-run: all PASS. A whole-dist re-count of ellipsis descriptions was not completed.
 
 ## Phase 0 findings
 - **Git:** local branch `seo/audit-nov-2026` is not merged as a branch, but its 3 commits are the content of PR 227 (part A) and PR 231 (B1), both on main, as is PR 230. D-516 had already split the sitemaps.
@@ -34,7 +34,7 @@ Note: the last commit (0fe7bfd8e, 602 AP checklist descriptions) came after the 
 | Item | Status | Files | Evidence |
 |---|---|---|---|
 | S1.1 descriptions | VERIFIED CORRECT for the template and the 10 sampled pages; defects found by S6 (below) | n/a | 0 of 24,247 pages have a description over 155 characters; og and twitter descriptions equal the meta description everywhere. S6 also found 603 ellipsis descriptions (602 AP checklists, 1 Urdu), 5 pages with no description, 2 cut off with no full stop; identical in baseline. 602 fixed (see S1.1b). |
-| S1.1b ellipsis in AP checklist descriptions | FIXED (not rebuilt) | 602 files in `src/content/ap-resources/*/` | `“I can…”` became `“I can”` in the description line only. |
+| S1.1b ellipsis in AP checklist descriptions | FIXED | 602 files in `src/content/ap-resources/*/` | `“I can…”` became `“I can”` in the description line only. |
 | S1.1c titles over 60 characters | NEEDS OWNER | `src/utils/seo/resource-title.ts` (not changed) | 7,243 indexable titles over 60 (baseline 7,256): resources 6,808, flashcards 315, AP 96, practice 20, checklists 13, boards 7, authors 3. Needs authored `seoTitle` values or a shortening rule. |
 | S1.1d translated page titles | FIXED | `src/layouts/LocaleLayout.astro` | `/ar/pricing/`: before `<title>الأسعار</title>`, after `<title>الأسعار — Marlbridge</title>` (when the result is 60 characters or fewer). |
 | S1.2 article dates | VERIFIED CORRECT | `src/components/seo/Meta.astro` | `article:published_time` and `article:modified_time` present and equal to JSON-LD dates. "meta-article:published_time" was a summariser artefact. |
