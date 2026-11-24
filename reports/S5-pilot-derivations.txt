@@ -1,0 +1,42 @@
+Ar: {'H': 1, 'C': 12, 'N': 14, 'O': 16, 'Na': 23, 'Mg': 24, 'Al': 27, 'S': 32, 'Cl': 35.5, 'K': 39, 'Ca': 40, 'Cu': 64, 'Zn': 65} ; molar gas volume 24 dm3 at rtp
+
+Q1 Mr Ca(OH)2 = Ca + 2(O+H)
+74
+
+Q2 molar volume 24 dm3 (given constant)
+
+Q3 NH3 8.5 g
+Mr 17 n 0.5 V dm3 12.0
+
+Q4 Mg+2HCl->MgCl2+H2, 1.2 g Mg
+n(Mg) 0.049999999999999996 n(H2) 0.049999999999999996 V cm3 1200.0
+
+Q5 4.0 g NaOH in 250 cm3
+Mr 40 n 0.1 c mol/dm3 0.4 g/dm3 16.0 16.0
+
+Q6 CaCO3->CaO+CO2, 25 g
+Mr CaCO3 100 n 0.25 Mr CaO 56 mass CaO 14.0
+
+Q7 5.4 g Al + 4.8 g O
+n Al 0.2 n O 0.3 ratio 1.0 1.4999999999999998 x2 -> 2.0 2.9999999999999996 Al:O = 0.6666666666666667
+
+Q8 %N
+NH4NO3 Mr 80 %N 35.0
+CO(NH2)2 Mr 60 %N 46.666666666666664
+
+Q9 2Mg+O2->2MgO 3.6 g Mg, obtained 5.1 g MgO
+n 0.15 theor 6.0 yield % 85.0
+
+Q10 H2SO4 + 2NaOH; 20.0 cm3 0.100 H2SO4 needs 32.0 cm3 NaOH
+n H2SO4 0.002 n NaOH 0.004 c 0.125
+
+Q11 CaCO3 + 2HCl; 2.00 g CaCO3 ; 50.0 cm3 0.500 HCl
+n CaCO3 0.02 n HCl 0.025 HCl needed for all CaCO3 0.04 CaCO3 needed for all HCl 0.0125
+n CO2 0.0125 V cm3 300.0 mass CaCl2 1.3875000000000002
+
+Q12 32 g O2 vs 32 g SO2
+n O2 1.0 n SO2 0.5
+
+Mark totals: 2+1+3+3+3+3+3+5+3+4+6+2 = 38
+Rounding: Q11(c) 1.3875 -> 1.39 g (3 s.f.); Q8(b) 46.67 -> 46.7%
+Floating-point noise (e.g. 0.0499999) is display only.
