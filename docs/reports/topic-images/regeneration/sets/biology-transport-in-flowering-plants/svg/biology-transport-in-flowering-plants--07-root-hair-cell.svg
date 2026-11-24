@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1000" width="900" height="1000" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1000" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">A root hair cell</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Built to take in water and ions</text>
+<defs><marker id="aW" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="24" markerHeight="24" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#3f7fb0"/></marker><marker id="aO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="24" markerHeight="24" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker></defs>
+<rect x="0" y="480" width="900" height="520" fill="#e6d6b8"/>
+<circle cx="120" cy="530" r="34" fill="#b8a273" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="330" cy="540" r="26" fill="#b8a273" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="250" cy="698" r="30" fill="#b8a273" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="90" cy="790" r="38" fill="#b8a273" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="300" cy="860" r="32" fill="#b8a273" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="180" cy="928" r="30" fill="#b8a273" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="700" cy="650" r="32" fill="#b8a273" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="690" cy="820" r="36" fill="#b8a273" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="830" cy="800" r="28" fill="#b8a273" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="600" cy="918" r="30" fill="#b8a273" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="820" cy="900" r="30" fill="#b8a273" stroke="#1e2a44" stroke-width="2.5"/>
+<rect x="340" y="110" width="220" height="92" fill="#e8f1e4" stroke="#3f7f3a" stroke-width="3"/>
+<text x="450" y="167" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">Root cortex cell</text>
+<path d="M340 204 H560 V398 L500 456 L490 470 L470 850 C468 870 455 878 445 878 C432 878 420 870 418 850 L400 470 L390 456 L340 398 Z" fill="#f2e7b8" stroke="#3f7f3a" stroke-width="7" stroke-linejoin="round"/>
+<path d="M380 300 H518 V400 L484 440 L478 460 L466 838 H432 L420 460 L416 440 L380 400 Z" fill="#d4e5ec" stroke="#1e2a44" stroke-width="2.5" stroke-linejoin="round"/>
+<circle cx="450" cy="250" r="30" fill="#c8b3e0" stroke="#1e2a44" stroke-width="2.5"/>
+<ellipse cx="540" cy="320" rx="11" ry="21" fill="#b8602e" stroke="#1e2a44" stroke-width="2"/>
+<ellipse cx="540" cy="370" rx="11" ry="21" fill="#b8602e" stroke="#1e2a44" stroke-width="2"/>
+<ellipse cx="360" cy="380" rx="11" ry="21" fill="#b8602e" stroke="#1e2a44" stroke-width="2"/>
+<line x1="482" y1="250" x2="580" y2="250" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="586" y="257" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Nucleus</text>
+<line x1="230" y1="300" x2="404" y2="336" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="20" y="268" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Cell sap: more</text>
+<text x="20" y="296" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">concentrated than</text>
+<text x="20" y="324" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">the soil water</text>
+<line x1="552" y1="340" x2="580" y2="336" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="586" y="321" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Many mitochondria:</text>
+<text x="586" y="349" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">energy for active</text>
+<text x="586" y="377" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">transport</text>
+<line x1="250" y1="432" x2="340" y2="400" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="20" y="428" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Thin cell wall:</text>
+<text x="20" y="456" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">short path for water</text>
+<line x1="494" y1="560" x2="566" y2="546" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="570" y="534" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Long, thin hair:</text>
+<text x="570" y="562" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">large surface area</text>
+<text x="30" y="600" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Water in by</text>
+<text x="30" y="628" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">osmosis</text>
+<line x1="238" y1="640" x2="400" y2="640" stroke="#3f7fb0" stroke-width="4" marker-end="url(#aW)"/>
+<text x="640" y="706" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Ions in by</text>
+<text x="640" y="734" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">active transport</text>
+<line x1="640" y1="748" x2="494" y2="748" stroke="#8a6d0d" stroke-width="4" marker-end="url(#aO)"/>
+</svg>

@@ -23,7 +23,7 @@ function gutPh() {
   out.push(t(540, 246, 'HCl kills microbes', { size: 21, weight: 700 }), t(540, 274, 'and gives the acid pH', { size: 19, fill: C.muted }));
   out.push(enzyme(560, 330), t(590, 340, 'pepsin works here', { size: 21, weight: 700 }));
   // flow to duodenum
-  out.push(arrow(190, 420, 190, 498, { w: 3.5 }));
+  out.push(arrow(190, 412, 190, 478, { w: 3.5 }));
   out.push(`<path d="M640 370 Q620 395 640 420 Q660 395 640 370 Z" fill="#6aa86f" stroke="${C.ink}" stroke-width="2.5"/>`);
   out.push(arrow(640, 420, 640, 470, { color: '#6aa86f', w: 3, marker: 'ahT' }));
   out.push(t(680, 395, 'Bile', { size: 21, weight: 700 }), t(680, 422, 'neutralises acid', { size: 19, fill: C.muted }));
@@ -34,7 +34,7 @@ function gutPh() {
   // pH graph
   const X = scale(0, 1, 160, 860), Y = scale(0, 1, 940, 690);
   out.push(`<rect x="160" y="690" width="350" height="250" fill="#fbe5d0"/><rect x="510" y="690" width="350" height="250" fill="#d6e6f1"/>`);
-  const g = (m, s) => (x) => 0.92 * Math.exp(-((x - m) ** 2) / (2 * s * s)) + 0.02;
+  const g = (m, s) => (x) => 0.78 * Math.exp(-((x - m) ** 2) / (2 * s * s)) + 0.02;
   const cv = (f, col) => { const p = []; for (let x = 0; x <= 1.0001; x += 0.005) p.push([X(x), Y(f(x))]); return poly(p, { stroke: col, w: 4 }); };
   out.push(cv(g(0.17, 0.12), PEPS), cv(g(0.83, 0.12), TRYP));
   out.push(`<line x1="160" y1="680" x2="160" y2="940" stroke="${C.ink}" stroke-width="3"/><line x1="160" y1="940" x2="860" y2="940" stroke="${C.ink}" stroke-width="3"/>`);

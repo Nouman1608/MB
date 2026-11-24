@@ -49,7 +49,8 @@ function nephron() {
   o.push(path(`M150 ${Y(272)} C200 ${Y(272)} 260 ${Y(290)} 290 ${Y(310)}`, { stroke: BLOODC, w: 9 }));
   o.push(path(`M430 ${Y(318)} C440 ${Y(300)} 460 ${Y(296)} 520 ${Y(296)} C550 ${Y(296)} 556 ${Y(320)} 556 ${Y(360)} V${Y(530)} H400`, { stroke: BLOODC, w: 9 }));
   o.push(ln(410, Y(530), 392, Y(530), BLOODC, 9, 'aB'));
-  o.push(path(tube.replace(/V\$\{Y\(1090\)\}$/, ''), { stroke: BLOODC, w: 58 }).replace(/V-?\d+(\.\d+)?"? fill/, (m) => m));
+  const coil = `M360 ${Y(520)} C360 ${Y(560)} 430 ${Y(580)} 450 ${Y(605)} C470 ${Y(630)} 300 ${Y(650)} 290 ${Y(690)} C280 ${Y(730)} 440 ${Y(735)} 450 ${Y(765)} C455 ${Y(790)} 455 ${Y(800)} 458 ${Y(806)}`;
+  o.push(path(coil, { stroke: BLOODC, w: 58 }).replace('stroke-linecap="round"', 'stroke-linecap="butt"'));
   // tubule body
   o.push(path(tube, { stroke: NAVY, w: 50 }), path(tube, { stroke: '#d4e5ec', w: 42 }));
   // blood out
