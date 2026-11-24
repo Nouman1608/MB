@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 950" width="900" height="950" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="950" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Inside a kidney</text>
+<text x="450" y="92" text-anchor="middle" font-size="21" fill="#4a5568">Cut lengthways</text>
+<defs><marker id="aN" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="30" markerHeight="30" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker><marker id="aB" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="26" markerHeight="26" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#c0643a"/></marker><marker id="aT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="20" markerHeight="20" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker></defs><path d="M520 182 C600 170 610 290 560 370 C520 430 520 500 560 560 C620 650 590 780 470 780 C330 780 270 640 272 480 C275 320 360 190 520 182 Z" fill="#c8916f" stroke="#1e2a44" stroke-width="4"/>
+<path d="M453.3 428.8 L478.1 246.7 A225 225 0 0 0 367.8 266.1 Z" fill="#fbf2ee" stroke="#1e2a44" stroke-width="2.5"/>
+<path d="M418.7 453.0 L353.1 366.6 A150 150 0 0 0 311.1 439.4 Z" fill="#fbf2ee" stroke="#1e2a44" stroke-width="2.5"/>
+<path d="M412.0 478.0 L327.0 444.0 A135 135 0 0 0 327.0 512.0 Z" fill="#fbf2ee" stroke="#1e2a44" stroke-width="2.5"/>
+<path d="M416.7 499.1 L318.2 500.9 A140 140 0 0 0 352.0 573.4 Z" fill="#fbf2ee" stroke="#1e2a44" stroke-width="2.5"/>
+<path d="M453.3 527.2 L368.6 684.9 A220 220 0 0 0 478.9 704.4 Z" fill="#fbf2ee" stroke="#1e2a44" stroke-width="2.5"/>
+<path d="M494.1 439.7 L562.1 405.4 A120 120 0 0 0 516.2 366.8 Z" fill="#fbf2ee" stroke="#1e2a44" stroke-width="2.5"/>
+<path d="M494.1 516.3 L516.2 589.2 A120 120 0 0 0 562.1 550.6 Z" fill="#fbf2ee" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="462" cy="478" r="30" fill="#f3e9b8" stroke="#1e2a44" stroke-width="3"/>
+<path d="M490 478 H675 a20 20 0 0 1 20 20 V898" fill="none" stroke="#1e2a44" stroke-width="22" stroke-linecap="round"/>
+<path d="M490 478 H675 a20 20 0 0 1 20 20 V898" fill="none" stroke="#f3e9b8" stroke-width="16" stroke-linecap="round"/>
+<polygon points="688,700 702,700 695,722" fill="#1e2a44"/>
+<polygon points="688,860 702,860 695,882" fill="#1e2a44"/>
+<text x="40" y="193" font-size="25" font-weight="700" fill="#1e2a44" text-anchor="start">Cortex</text>
+<text x="40" y="226" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">darker outer layer</text>
+<line x1="250" y1="216" x2="340" y2="262" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="340" cy="262" r="5" fill="#1e2a44"/>
+<text x="40" y="720" font-size="25" font-weight="700" fill="#1e2a44" text-anchor="start">Medulla</text>
+<text x="40" y="752" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">inner cone-shaped</text>
+<text x="40" y="780" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="start">regions</text>
+<line x1="130" y1="696" x2="372" y2="558" stroke="#1e2a44" stroke-width="2.5"/>
+<circle cx="372" cy="558" r="5" fill="#1e2a44"/>
+<text x="670" y="838" font-size="25" font-weight="700" fill="#1e2a44" text-anchor="end">Ureter</text>
+<text x="670" y="871" font-size="20" font-weight="400" fill="#1e2a44" text-anchor="end">leaves the inner side</text>
+</svg>
