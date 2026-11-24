@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
-reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the names, relationships and life details of the people covered, including the Shi'a Imams list. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1)."
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the names, relationships and life details of the people covered, including the Shi'a Imams list. 2026-11-23: (pbuh) and (RA) honorifics and apostrophe style standardised (audit D1). 2026-11-24: (RA) added after Hasan and Husayn."
 publishedDate: 2026-11-17
 featured: false
 ---
@@ -80,7 +80,7 @@ two lights". Fatima (RA) married Ali (RA). When Ibrahim died, an eclipse occurre
 eclipses are signs of God and do not happen for anyone's death.
 
 **Fatima (RA).** Called al-Zahra; closest to her father; lived simply; outlived him by only a few months.
-Her children were **Hasan** and **Husayn**, and daughters including Zaynab bint Ali (RA).
+Her children were **Hasan (RA)** and **Husayn (RA)**, and daughters including Zaynab bint Ali (RA).
 
 **Hasan (RA) and Husayn (RA).** The Prophet (pbuh) loved them dearly, carrying them and letting them climb on him as
 he prayed, and called them leaders of the youth of Paradise. At the Mubahala with the Christians of
