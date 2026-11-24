@@ -75,7 +75,7 @@ function reflexArc() {
   for (let x = 70; x <= 190; x += 24) o.push(`<line x1="${x}" y1="${Y(1028)}" x2="${x}" y2="${Y(1072)}" stroke="#b7746a" stroke-width="2.5"/>`);
   o.push(t(40, Y(1130), 'Effector: muscle contracts', { size: 21, weight: 700, fill: RED }));
   // labels
-  o.push(leader(228, Y(430), 150, Y(478)));
+  o.push(leader(150, Y(478), 226, Y(428)));
   o.push(t(40, Y(511), 'Cell body in swelling', { size: 20, weight: 700, fill: NERVE }));
   o.push(t(40, Y(539), 'of dorsal root', { size: 19, fill: NERVE }));
   o.push(t(40, Y(609), 'Sensory neurone', { size: 20, weight: 700, fill: NERVE }));
@@ -84,12 +84,12 @@ function reflexArc() {
   o.push(t(40, Y(789), 'Motor neurone', { size: 20, weight: 700, fill: RED }));
   o.push(t(40, Y(817), 'cell body in cord', { size: 19, fill: RED }));
   o.push(t(300, Y(929), 'Ventral root', { size: 20, weight: 700, fill: C.muted }));
-  o.push(leader(655, Y(560), 714, Y(486)));
+  o.push(leader(714, Y(486), 655, Y(560)));
   o.push(t(726, Y(470), 'White matter', { size: 20, weight: 700 }));
   o.push(t(726, Y(498), '(axons to brain)', { size: 18, fill: C.muted }));
-  o.push(leader(516, Y(636), 715, Y(590)));
+  o.push(leader(715, Y(590), 516, Y(636)));
   o.push(t(726, Y(598), 'Relay neurone', { size: 20, weight: 700, fill: C.olive }));
-  o.push(leader(585, Y(750), 715, Y(790)));
+  o.push(leader(715, Y(790), 585, Y(750)));
   o.push(t(726, Y(797), 'Grey matter', { size: 20, weight: 700 }));
   // reflex time box
   o.push(panel(30, Y(1150), 840, 86, '#ffffff', C.ink));

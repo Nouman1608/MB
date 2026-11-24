@@ -43,7 +43,7 @@
 <line x1="166" y1="958" x2="166" y2="1002" stroke="#b7746a" stroke-width="2.5"/>
 <line x1="190" y1="958" x2="190" y2="1002" stroke="#b7746a" stroke-width="2.5"/>
 <text x="40" y="1060" font-size="21" font-weight="700" fill="#b5402e" text-anchor="start">Effector: muscle contracts</text>
-<line x1="228" y1="360" x2="150" y2="408" stroke="#1e2a44" stroke-width="2"/><circle cx="150" cy="408" r="5" fill="#1e2a44"/>
+<line x1="150" y1="408" x2="226" y2="358" stroke="#1e2a44" stroke-width="2"/><circle cx="226" cy="358" r="5" fill="#1e2a44"/>
 <text x="40" y="441" font-size="20" font-weight="700" fill="#2e7d9a" text-anchor="start">Cell body in swelling</text>
 <text x="40" y="469" font-size="19" font-weight="400" fill="#2e7d9a" text-anchor="start">of dorsal root</text>
 <text x="40" y="539" font-size="20" font-weight="700" fill="#2e7d9a" text-anchor="start">Sensory neurone</text>
@@ -52,12 +52,12 @@
 <text x="40" y="719" font-size="20" font-weight="700" fill="#b5402e" text-anchor="start">Motor neurone</text>
 <text x="40" y="747" font-size="19" font-weight="400" fill="#b5402e" text-anchor="start">cell body in cord</text>
 <text x="300" y="859" font-size="20" font-weight="700" fill="#4a5568" text-anchor="start">Ventral root</text>
-<line x1="655" y1="490" x2="714" y2="416" stroke="#1e2a44" stroke-width="2"/><circle cx="714" cy="416" r="5" fill="#1e2a44"/>
+<line x1="714" y1="416" x2="655" y2="490" stroke="#1e2a44" stroke-width="2"/><circle cx="655" cy="490" r="5" fill="#1e2a44"/>
 <text x="726" y="400" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">White matter</text>
 <text x="726" y="428" font-size="18" font-weight="400" fill="#4a5568" text-anchor="start">(axons to brain)</text>
-<line x1="516" y1="566" x2="715" y2="520" stroke="#1e2a44" stroke-width="2"/><circle cx="715" cy="520" r="5" fill="#1e2a44"/>
+<line x1="715" y1="520" x2="516" y2="566" stroke="#1e2a44" stroke-width="2"/><circle cx="516" cy="566" r="5" fill="#1e2a44"/>
 <text x="726" y="528" font-size="20" font-weight="700" fill="#8a6d0d" text-anchor="start">Relay neurone</text>
-<line x1="585" y1="680" x2="715" y2="720" stroke="#1e2a44" stroke-width="2"/><circle cx="715" cy="720" r="5" fill="#1e2a44"/>
+<line x1="715" y1="720" x2="585" y2="680" stroke="#1e2a44" stroke-width="2"/><circle cx="585" cy="680" r="5" fill="#1e2a44"/>
 <text x="726" y="727" font-size="20" font-weight="700" fill="#1e2a44" text-anchor="start">Grey matter</text>
 <rect x="30" y="1080" width="840" height="86" rx="14" fill="#ffffff" stroke="#1e2a44" stroke-width="2.5"/>
 <text x="450" y="1114" font-size="19" font-weight="400" fill="#1e2a44" text-anchor="middle">Reflex time: 0.90 m ÷ 50 m/s = 18 ms, plus 2 synapses × 1.0 ms</text>
