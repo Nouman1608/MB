@@ -49,9 +49,13 @@ const FIELDS_BY_KIND: Record<EnquiryKind, { required: string[]; optional: string
   // school/role are organisation-identifying fields a school enquiry
   // genuinely needs, not enrolment metadata (see the note above
   // FIELDS_BY_KIND).
+  // Audit round 3 (owner, 25 Nov 2026): the contact form's phone is
+  // required, with a country code, as on the trial form. `phone` stays in the
+  // optional list so the generic "This field is required." check does not run
+  // first; checkTrialPhone() below makes it compulsory (PHONE_REQUIRED_KINDS).
   student: {
     required: ['name', 'email', 'country', 'message'],
-    optional: ['phone'],
+    optional: ['phone', 'phoneCountry'],
   },
   tutoring: {
     required: ['name', 'email', 'country', 'message'],
@@ -85,7 +89,7 @@ const FIELDS_BY_KIND: Record<EnquiryKind, { required: string[]; optional: string
     // D-439: email is checked below instead -- optional on the English form
     // (which requires a phone), still compulsory on the translated forms.
     required: ['name', 'country'],
-    optional: ['email', 'phone', 'phoneCountry', 'qualification', 'board', 'subject', 'course', 'format', 'timezone', 'availability', 'teacher', 'source', 'message'],
+    optional: ['email', 'phone', 'phoneCountry', 'programme', 'qualification', 'board', 'subject', 'course', 'format', 'timezone', 'availability', 'teacher', 'source', 'message'],
   },
   // Deliberately NOT name/phone/country -- a correction report is not a
   // tuition enquiry and shouldn't ask for enrolment-shaped fields. pageUrl
@@ -101,6 +105,13 @@ const FIELDS_BY_KIND: Record<EnquiryKind, { required: string[]; optional: string
 export const TRIAL_QUALIFICATIONS = ['igcse', 'o-level', 'gcse', 'as-level', 'a-level', 'ib-myp', 'ib-dp', 'ap', 'ielts', 'sat', 'not-sure'] as const;
 export const TRIAL_BOARDS = ['cambridge', 'edexcel', 'aqa', 'ocr', 'oxfordaqa', 'ib', 'college-board', 'not-sure'] as const;
 export const TRIAL_FORMATS = ['group', 'one-to-one', 'help-me-decide'] as const;
+/**
+ * Audit round 3, owner decision D2 (25 Nov 2026): the English trial form asks
+ * first whether the trial is for school subjects or for IELTS. IELTS has no
+ * exam board and no subject list, so an IELTS request skips both questions
+ * and needs neither (validateEnquiry below).
+ */
+export const TRIAL_PROGRAMMES = ['subjects', 'ielts'] as const;
 export const TRIAL_AVAILABILITY = [
   'weekday-morning', 'weekday-afternoon', 'weekday-evening',
   'weekend-morning', 'weekend-afternoon', 'weekend-evening',
@@ -111,6 +122,7 @@ const TRIAL_RULES: Record<string, (v: string) => boolean> = {
   qualification: (v) => (TRIAL_QUALIFICATIONS as readonly string[]).includes(v),
   board: (v) => (TRIAL_BOARDS as readonly string[]).includes(v),
   format: (v) => (TRIAL_FORMATS as readonly string[]).includes(v),
+  programme: (v) => (TRIAL_PROGRAMMES as readonly string[]).includes(v),
   course: (v) => /^[a-z0-9-]{2,20}\/[a-z0-9-]{2,20}\/[a-z0-9-]{2,60}$/.test(v),
   timezone: (v) => /^[A-Za-z_+\-/0-9: ]{2,60}$/.test(v),
   availability: (v) => v.split(',').every((x) => (TRIAL_AVAILABILITY as readonly string[]).includes(x.trim())),
@@ -127,7 +139,7 @@ const TRIAL_RULES: Record<string, (v: string) => boolean> = {
  * limit. `subject` is deliberately not here: D-286/D-292 allow up to 300
  * characters and report a friendly error above that.
  */
-const SHORT_FIELDS = new Set(['phone', 'phoneCountry', 'timezone', 'availability', 'course', 'teacher', 'source']);
+const SHORT_FIELDS = new Set(['phone', 'phoneCountry', 'programme', 'timezone', 'availability', 'course', 'teacher', 'source']);
 const SHORT_FIELD_LENGTH = 200;
 
 const MAX_FIELD_LENGTH = 2000;
@@ -159,7 +171,16 @@ export function sanitizeField(value: unknown, maxLength = MAX_FIELD_LENGTH, keep
 }
 
 /**
- * D-517 -- the trial form's phone rule, in one place. Returns the message to
+ * The enquiry kinds whose phone number is compulsory, with a country code:
+ * every trial request (D-517) and, since audit round 3 (owner, 25 Nov 2026),
+ * the contact form (kind `student`, English and translated). Tutoring and
+ * school enquiries keep an optional phone.
+ */
+export const PHONE_REQUIRED_KINDS: readonly EnquiryKind[] = ['trial', 'student'];
+
+/**
+ * D-517 -- the trial form's phone rule, in one place (also used for the
+ * contact form, PHONE_REQUIRED_KINDS). Returns the message to
  * show, or null when the number is acceptable.
  *
  * A number is well formed when it holds only digits, spaces and the usual
@@ -242,22 +263,41 @@ export function validateEnquiry(
         else delete data[field];
       }
     }
-    if (!data.subject && !data.message && !errors.subject) {
+    // D2 (audit round 3): "IELTS" chosen on the form, or a stale page that
+    // sent only the hidden qualification from ?program=ielts. Choosing
+    // "School subjects" overrides an IELTS value carried over from a link.
+    if (data.programme === 'ielts') data.qualification = 'ielts';
+    else if (data.programme === 'subjects' && data.qualification === 'ielts') delete data.qualification;
+    delete data.programme;
+    const ielts = data.qualification === 'ielts';
+    if (ielts) {
+      // No exam board or course applies to IELTS; a value sent anyway (a form
+      // without JavaScript still posts the board select) is dropped.
+      delete data.board;
+      delete data.course;
+    }
+    if (!ielts && !data.subject && !data.message && !errors.subject) {
       errors.subject = 'Please tell us which subjects you need help with.';
     }
     // D-438/D-439 (owner, 5 Nov 2026) relax D-293: on the English structured
     // form subjects, name, phone/WhatsApp and country are compulsory; email is
     // optional. A missing board or format means "Not sure" / "Help me decide".
     // The translated five-field forms send no subject and still need an email.
-    if (data.subject) {
-      if (!data.board) data.board = 'not-sure';
+    // An IELTS request comes from the English structured form, so it follows
+    // the same rule (email optional), with no board.
+    if (data.subject || ielts) {
+      if (!data.board && !ielts) data.board = 'not-sure';
       if (!data.format && !errors.format) data.format = 'help-me-decide';
     } else if (!data.email && !errors.email) {
       errors.email = 'This field is required.';
     }
-    // D-517 (owner, 22 Nov 2026): a phone number with a country code is
-    // compulsory on EVERY trial form, the translated five-field ones included
-    // (until now only the English form asked for it).
+  }
+
+  // D-517 (owner, 22 Nov 2026): a phone number with a country code is
+  // compulsory on EVERY trial form, the translated five-field ones included.
+  // Audit round 3 (owner, 25 Nov 2026): on the contact form too.
+  if (PHONE_REQUIRED_KINDS.includes(kind)) {
+    if (data.phoneCountry !== undefined && !TRIAL_RULES.phoneCountry(data.phoneCountry)) delete data.phoneCountry;
     const phoneError = checkTrialPhone(data.phone, data.phoneCountry);
     if (phoneError) errors.phone = phoneError;
     else if (data.phoneCountry && data.phoneCountry !== DIAL_OTHER) {
@@ -344,9 +384,11 @@ export function renderTrialAcknowledgement(data: Record<string, string>): { subj
   const firstName = (data.name ?? '').split(' ')[0] || 'there';
   lines.push(`Hello ${firstName},`, '');
   lines.push('Thank you. We have received your request for a free trial class with Marlbridge.');
-  lines.push('Next, we will match you with a specialist teacher and confirm a time with you in your own time zone.', '');
+  // Audit round 3 (item 15): the form has no time-zone field; the time is set from the country given.
+  lines.push('Next, we will match you with a specialist teacher and confirm a time with you, in the time zone of the country you gave.', '');
   lines.push('What you asked for:');
   const rows: [string, string][] = [
+    ['Programme', data.qualification === 'ielts' ? readable('qualification', 'ielts') : ''],
     ['Subjects', data.subject ?? ''],
     ['Exam board', data.board ? readable('board', data.board) : ''],
     ['Group or one-to-one', data.format ? readable('format', data.format) : ''],
@@ -357,7 +399,7 @@ export function renderTrialAcknowledgement(data: Record<string, string>): { subj
   for (const [label, value] of rows) if (value) lines.push(`- ${label}: ${value}`);
   lines.push('', 'What happens next:');
   lines.push(`- ${ACK_RESPONSE_SUMMARY}`);
-  lines.push('- We will propose a teacher and a time, with the date and time shown in your own time zone. The class is only booked once you have agreed.');
+  lines.push('- We will propose a teacher and a time, with the date and time shown in the time zone of the country you gave. The class is only booked once you have agreed.');
   lines.push('- The trial class is free, and there is no obligation to continue afterwards.', '');
   lines.push(`Need to change something? Reply to this email, or message us on WhatsApp at ${ACK_WHATSAPP}.`, '');
   lines.push('Marlbridge', 'https://marlbridge.com', '');

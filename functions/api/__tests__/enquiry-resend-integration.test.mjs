@@ -29,6 +29,9 @@ function validStudentFields(extra = {}) {
     enquiryKind: 'student',
     name: 'Amina Test',
     email: 'amina@example.com',
+    // Audit round 3 (owner, 25 Nov 2026): the contact form's phone is required, with a country code.
+    phoneCountry: 'PK',
+    phone: '0300 1234567',
     country: 'Pakistan',
     message: 'Interested in IGCSE Chemistry tuition.',
     ...extra,

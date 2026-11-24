@@ -93,6 +93,11 @@ const clientStrings = JSON.stringify({
 });
 // D-517: country name (and aliases) -> dial-code id, as on the English trial
 // form, so typing a listed country pre-selects its calling code.
+// Audit round 3 (owner, 25 Nov 2026): the contact form (kind `student`, English
+// and translated) asks for the phone the same way as the trial form: required,
+// with a country code. Must match PHONE_REQUIRED_KINDS in
+// functions/_lib/enquiry-validation.ts. Tutoring and school keep an optional phone.
+const phoneRequired = kind === 'trial' || kind === 'student';
 const dialByCountry = JSON.stringify(Object.fromEntries(DIAL_CODES.flatMap((d) => [d.name, ...(d.aliases ?? [])].map((n) => [n.toLowerCase(), d.id]))));
 ---
 {/*
@@ -125,8 +130,9 @@ const dialByCountry = JSON.stringify(Object.fromEntries(DIAL_CODES.flatMap((d) =
       country code, as on the English trial form (TrialRequestForm.astro, D-466).
       The server joins the two, or rejects a number without a code
       (functions/_lib/enquiry-validation.ts, checkTrialPhone). Other enquiry
-      kinds keep an optional phone. */}
-  {kind === 'trial' ? (
+      kinds keep an optional phone; since audit round 3 the contact form (student)
+      uses the same required field (phoneRequired above). */}
+  {phoneRequired ? (
     <FormField name="phone" label={t.phone} required hint={t.phoneHint}>
       <div class="flex gap-2">
         <label for="phoneCountry" class="sr-only">{t.phoneCountryLabel}</label>

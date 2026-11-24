@@ -7,6 +7,7 @@ import FAQ from '../../components/ui/FAQ.astro';
 import { faqNode } from '../../utils/schema/faq';
 import { routes } from '../../utils/urls/routes';
 import { site } from '../../data/site';
+import { PRICING_TERMS } from '../../data/pricing';
 
 
 /**
@@ -53,7 +54,13 @@ const faq = faqNode(faqs);
   jsonLd={faq ? [faq] : []}
 >
   <Section surface="white">
-    <Container><EnquiryForm kind="student" /></Container>
+    <Container>
+      {/* Audit round 3 (D7): the reply times, from the one approved sentence
+          (PRICING_TERMS.enquiryResponse, D-346), so this page cannot drift from
+          /trial/, /pricing/ and the acknowledgement email. */}
+      <p class="m-0 mb-6 max-w-[68ch] text-[15.5px] leading-relaxed text-ink"><strong class="font-semibold text-navy-800">When we reply.</strong> {PRICING_TERMS.enquiryResponse.summary}</p>
+      <EnquiryForm kind="student" />
+    </Container>
   </Section>
 
   <Section surface="ivory" border>
