@@ -21,19 +21,19 @@
 <rect x="40" y="480" width="820" height="700" rx="14" fill="#fff" stroke="#1e2a44" stroke-width="2.5"/>
 <text x="70" y="526" font-size="24" font-weight="700" fill="#1e2a44" text-anchor="start">Sexual: two parents</text>
 <circle cx="290" cy="620" r="44" fill="#b5d3cf" stroke="#1e2a44" stroke-width="3"/>
-<circle cx="720" cy="620" r="44" fill="#d4b02e" stroke="#1e2a44" stroke-width="3"/>
+<circle cx="680" cy="620" r="44" fill="#d4b02e" stroke="#1e2a44" stroke-width="3"/>
 <text x="230" y="628" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="end">Parent 1</text>
-<text x="776" y="628" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Parent 2</text>
+<text x="736" y="628" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">Parent 2</text>
 <line x1="290" y1="666" x2="290" y2="718" stroke="#2e6b62" stroke-width="3" marker-end="url(#ahT)"/>
-<line x1="720" y1="666" x2="720" y2="718" stroke="#8a6d0d" stroke-width="3" marker-end="url(#ahO)"/>
+<line x1="680" y1="666" x2="680" y2="718" stroke="#8a6d0d" stroke-width="3" marker-end="url(#ahO)"/>
 <circle cx="290" cy="750" r="28" fill="#b5d3cf" stroke="#1e2a44" stroke-width="3"/>
 <text x="290" y="758" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">n</text>
 <text x="332" y="758" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">gamete</text>
-<circle cx="720" cy="750" r="28" fill="#d4b02e" stroke="#1e2a44" stroke-width="3"/>
-<text x="720" y="758" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">n</text>
-<text x="678" y="758" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="end">gamete</text>
+<circle cx="680" cy="750" r="28" fill="#d4b02e" stroke="#1e2a44" stroke-width="3"/>
+<text x="680" y="758" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">n</text>
+<text x="638" y="758" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="end">gamete</text>
 <line x1="312" y1="772" x2="482" y2="840" stroke="#2e6b62" stroke-width="3" marker-end="url(#ahT)"/>
-<line x1="698" y1="772" x2="578" y2="840" stroke="#8a6d0d" stroke-width="3" marker-end="url(#ahO)"/>
+<line x1="660" y1="772" x2="574" y2="840" stroke="#8a6d0d" stroke-width="3" marker-end="url(#ahO)"/>
 <path d="M530 834 A40 40 0 0 0 530 914 Z" fill="#b5d3cf"/><path d="M530 834 A40 40 0 0 1 530 914 Z" fill="#d4b02e"/>
 <circle cx="530" cy="874" r="40" fill="none" stroke="#1e2a44" stroke-width="3"/>
 <text x="530" y="882" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">2n</text>

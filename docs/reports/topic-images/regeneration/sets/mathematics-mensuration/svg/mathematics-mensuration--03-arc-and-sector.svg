@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1010" width="900" height="1010" font-family="Inter, 'DejaVu Sans', Arial, sans-serif">
+<defs>
+ <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1e2a44"/></marker>
+ <marker id="ahT" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e6b62"/></marker>
+ <marker id="ahR" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#b5602e"/></marker>
+ <marker id="ahO" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="18" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#8a6d0d"/></marker>
+</defs>
+<rect width="900" height="1010" fill="#f4f6f6"/>
+<text x="450" y="56" text-anchor="middle" font-size="31" font-weight="700" fill="#1e2a44">Arc and sector: a fraction of the circle</text>
+
+<circle cx="240" cy="330" r="132" fill="#ffffff" stroke="#c9d6d4" stroke-width="2.5" stroke-dasharray="8 7"/><path d="M240 330 L372 330 A132 132 0 0 0 240 198 Z" fill="#b5d3cf" stroke="#1e2a44" stroke-width="3" stroke-linejoin="round"/><path d="M372 330 A132 132 0 0 0 240 198" fill="none" stroke="#8a6d0d" stroke-width="7"/><path d="M274 330 A34 34 0 0 0 240 296" fill="none" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="280" y="284" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">90°</text>
+<text x="306" y="364" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">r = 6 cm</text>
+<text x="500" y="140" font-size="23" font-weight="700" fill="#2e6b62" text-anchor="start">Angle 90°: a quarter circle</text>
+<text x="500" y="184" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="start">Fraction = 90/360 = 1/4</text>
+<line x1="500" y1="213" x2="526" y2="213" stroke="#8a6d0d" stroke-width="7"/>
+<text x="540" y="220" font-size="22" font-weight="700" fill="#8a6d0d" text-anchor="start">Arc length</text>
+<text x="500" y="254" font-size="21" font-weight="400" fill="#1e2a44" text-anchor="start">= 1/4 × 2πr</text>
+<text x="500" y="288" font-size="23" font-weight="700" fill="#8a6d0d" text-anchor="start">= 9.42 cm</text>
+<rect x="500" y="314" width="26" height="26" rx="3" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<text x="540" y="336" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="start">Sector area</text>
+<text x="500" y="370" font-size="21" font-weight="400" fill="#1e2a44" text-anchor="start">= 1/4 × πr²</text>
+<text x="500" y="404" font-size="23" font-weight="700" fill="#2e6b62" text-anchor="start">= 28.3 cm²</text>
+<circle cx="240" cy="790" r="176" fill="#ffffff" stroke="#c9d6d4" stroke-width="2.5" stroke-dasharray="8 7"/><path d="M240 790 L416 790 A176 176 0 0 0 179.8044547746823 624.6140987416801 Z" fill="#b5d3cf" stroke="#1e2a44" stroke-width="3" stroke-linejoin="round"/><path d="M416 790 A176 176 0 0 0 179.8044547746823 624.6140987416801" fill="none" stroke="#8a6d0d" stroke-width="7"/><path d="M274 790 A34 34 0 0 0 228.37131512692727 758.0504508932792" fill="none" stroke="#1e2a44" stroke-width="2.5"/>
+<text x="260" y="734" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="start">110°</text>
+<text x="328" y="824" font-size="21" font-weight="700" fill="#1e2a44" text-anchor="middle">r = 8 cm</text>
+<text x="500" y="600" font-size="23" font-weight="700" fill="#2e6b62" text-anchor="start">Any angle: the same method</text>
+<text x="500" y="644" font-size="23" font-weight="700" fill="#1e2a44" text-anchor="start">Fraction = 110/360</text>
+<line x1="500" y1="673" x2="526" y2="673" stroke="#8a6d0d" stroke-width="7"/>
+<text x="540" y="680" font-size="22" font-weight="700" fill="#8a6d0d" text-anchor="start">Arc length</text>
+<text x="500" y="714" font-size="21" font-weight="400" fill="#1e2a44" text-anchor="start">= 110/360 × 2πr</text>
+<text x="500" y="748" font-size="23" font-weight="700" fill="#8a6d0d" text-anchor="start">= 15.36 cm</text>
+<rect x="500" y="774" width="26" height="26" rx="3" fill="#b5d3cf" stroke="#1e2a44" stroke-width="2"/>
+<text x="540" y="796" font-size="22" font-weight="700" fill="#2e6b62" text-anchor="start">Sector area</text>
+<text x="500" y="830" font-size="21" font-weight="400" fill="#1e2a44" text-anchor="start">= 110/360 × πr²</text>
+<text x="500" y="864" font-size="23" font-weight="700" fill="#2e6b62" text-anchor="start">= 61.4 cm²</text>
+</svg>

@@ -1,0 +1,11 @@
+[
+ {
+  "file": "mathematics-mensuration--03-arc-and-sector.webp",
+  "width": 900,
+  "height": 1010,
+  "after": "### Area of a sector",
+  "alt": "A 90 degree sector of radius 6 cm is a quarter of the circle: arc 9.42 cm, area 28.3 cm2. A 110 degree sector of radius 8 cm is 110/360 of the circle: arc 15.36 cm, area 61.4 cm2. The same method works for any angle.",
+  "caption": "Arc length and sector area are the same fraction, angle over 360, of the circumference and the area.",
+  "bytes": 81790
+ }
+]
