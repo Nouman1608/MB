@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-mole-and-the-avogadro-constant"
 description: "Twelve original 0620 mole questions with the mark for each part shown, command words from the Cambridge glossary, and a mark scheme with M and A marks and full working."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-24
+reviewNote: "2026-11-24: reviewed by nouman-ahmed (accountable teacher); owner confirmed the review in chat."
 publishedDate: 2026-11-24
 featured: false
 ---

@@ -16872,3 +16872,8 @@ Source: the owner's "Master Academic Quality Assurance, Content Authority & Sear
 - **How.** Display-only: `src/pages/boards/index.astro` adds an "AP® (Advanced Placement®)" card after the boards, linking to `/advanced-course-resources/`. AP is not in `BOARDS` or the academic matrix, so nav, sitemap and board routes are unchanged (the library was already in the sitemap and linked from subject hubs and /resources/). The card shows the attribution note (`ApTrademarkNote`).
 - **Metadata.** `AP_MARK_IN_METADATA = true` (`src/data/ap/config.ts`): course names in titles, descriptions, Open Graph and JSON-LD use the official "AP ..." names and FAQPage JSON-LD is emitted. The index title and description say AP; /boards/ title and description now end "IB & AP" / "IB and AP". `validate-ap-library` passes (3,270 resources).
 - **Not done.** URLs and slugs were NOT changed: `/advanced-course-resources/` stays, so no redirects. The frontmatter titles and descriptions of the 3,270 AP resource files are still the neutral "(advanced course)" wording; rewriting them, and moving the path to one containing "ap", are separate jobs awaiting the owner's go-ahead. Translated /boards/ pages are unchanged.
+
+## D-528 - 0620 moles exam-style set reviewed (24 Nov 2026)
+
+- Owner, 24 Nov 2026: the teacher has reviewed `cambridge-igcse-chemistry-0620-moles-exam-style-questions-practice`; reviewer named as Nouman Ahmed (Chemistry Teacher). Set to `reviewStatus: reviewed`, `reviewer: nouman-ahmed`, `reviewedDate: 2026-11-24` with a dated `reviewNote`.
+- Cloudflare check (24 Nov 2026): no cache rule affects the main site's HTML; after PR 239 deployed, the live pages updated with no purge. The earlier "cache rule" theory in `SEO-FIX-REPORT.md` is corrected there.
